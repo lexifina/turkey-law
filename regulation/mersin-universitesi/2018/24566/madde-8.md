@@ -1,0 +1,3 @@
+Merkez müdürü (Başhekim)
+MADDE 8 – (1) Müdür, Merkezin faaliyet alanı ile ilgili, Üniversiteden başka bir yerde mesleki faaliyette bulunmayan ve mesleklerini serbest olarak icra etmeyen, fakülte öğretim üyeleri arasından, Dekanın görüşü alınarak Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür yeniden aynı usul ile görevlendirilebilir.
+(2) Merkez Müdürünün önerisi ile işlerinde kendisine yardımcı olmak üzere, Dekanın görüşü alınarak Rektör tarafından fakültede tam gün statüsünde çalışan öğretim üyeleri arasından bir kişi merkez müdür yardımcısı (başhekim yardımcısı) olarak görevlendirilebilir. Müdür, görevi başında bulunmadığı zaman, yardımcı Müdüre vekâlet eder. Müdürün görevi sona erdiğinde, yardımcının görevi de kendiliğinden sona erer.
