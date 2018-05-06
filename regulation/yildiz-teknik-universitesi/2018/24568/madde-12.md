@@ -1,0 +1,2 @@
+Müdür
+MADDE 12 – (1) Rektör tarafından Üniversite öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, gerektiğinde Rektör tarafından görevden alınabilir. Müdürlüğe vekâlet altı aydan fazla süremez. Vekâletin altı aydan fazla sürmesi durumunda Müdürün görevi sona erer. Müdürün görevden alınması veya görev süresini doldurmadan görevden ayrılması durumunda, aynı usulle yeni bir Müdür görevlendirilir.

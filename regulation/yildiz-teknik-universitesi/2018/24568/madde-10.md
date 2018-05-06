@@ -1,0 +1,2 @@
+Yönetim Kurulunun oluşumu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve Müdür yardımcıları ile Müdürün teklifi, Rektörün onayı ile seçilen dört öğretim elemanı olmak üzere toplam yedi kişiden oluşur. Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süresi dolmadan ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen bir üyenin yerine, aynı usulle görevlendirme yapılır. Görevi sona eren üyeler tekrar görevlendirilebilir.
