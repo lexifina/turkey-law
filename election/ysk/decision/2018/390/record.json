@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/390",
+  "list_number": "390",
+  "decision_date": "2018-05-06",
+  "title": "135 sayılı Genelgenin kabulüne ilişkin Yüksek Seçim Kurulunun 2018/390 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77633/2018-390.pdf",
+  "source_sha256": "eed5de5100fb2e56c71c97db019d87c2bb7590f35b762b37c1cf37c0f6e893ac",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 25,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-06",
+  "law_text_complete": false
+}
