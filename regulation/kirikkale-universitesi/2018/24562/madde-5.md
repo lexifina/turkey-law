@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; Kırıkkale ili ve yakın bölgelerdeki arı ırkının gen merkezi olmasının sağlanması ve ürettiği balın bilimsel olarak araştırılması, belgelenmesi, tanıtılması, korunması ve yaşatılması, Kırıkkale ili ve çevresindeki arı ırkı ve soyunun korunması, çoğaltılması, ıslah edilmesi, üretiminin yapılması ve bu konuda faaliyet gösteren kurum ve kuruluşlarla iş birliği yapılarak çalışmaların yaygınlaştırılması, arı yetiştiricilerinin sorunlarına akademik düzeyde çözüm aranması, ürün miktarı, kalitesi ve çeşitliliği ile ilgili gelişmelerin kaydedilmesine katkı sağlanması, bilimsel içerikli kongre, sempozyum gibi etkinlikler yaparak elde edilen verilerin paylaşılması, arıcılık eğitim ve kurslarının verilmesidir.
