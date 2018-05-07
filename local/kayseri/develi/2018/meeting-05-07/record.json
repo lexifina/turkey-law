@@ -1,0 +1,26 @@
+{
+  "number": "meeting-05-07",
+  "number_as_published": "meeting-05-07",
+  "year": 2018,
+  "title": "Meclis Karar Özetleri (2018 - 05)",
+  "decision_date": "2018-05-07",
+  "source": "https://www.develi.bel.tr/meclis-kararlari?sayfa=5",
+  "official_document": "https://www.develi.bel.tr/uploads/meclis/karar/05.07.05.2018.pdf?v=1769751695",
+  "source_sha256": "b848adfb4701da13927259e67e26d48e873cd9195aa4c4a5ca8b6c962c919304",
+  "issuer": "Develi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.05.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Karar Özetleri (2018 - 05)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "meeting_key_as_published": "2018 - 05",
+  "official_page": "https://www.develi.bel.tr/meclis-kararlari"
+}
