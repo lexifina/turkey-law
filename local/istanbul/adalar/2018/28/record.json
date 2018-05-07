@@ -1,0 +1,24 @@
+{
+  "number": "28",
+  "number_as_published": "28",
+  "year": 2018,
+  "title": "Ticari Bisiklet Yıllık Muayene Süresinin Uzatılması",
+  "decision_date": "2018-05-07",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2018-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/",
+  "official_document": null,
+  "source_sha256": "65a3d1c60c66aa799fd3f50b79879dfce6988902f06be751c9d537fa645ad5ed",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.05.2018 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2018/28",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2018-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/"
+}
