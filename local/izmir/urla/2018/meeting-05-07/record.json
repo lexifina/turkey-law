@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-07",
+  "number_as_published": "meeting-05-07",
+  "year": 2018,
+  "title": "7 Mayıs Meclis Kararları",
+  "decision_date": "2018-05-07",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2265/mayis-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2267/7-mayis-meclis-kararlari",
+  "source_sha256": "dc491fbee0dd60faee88d4b460f45dca8ad1d1bd43d34133352b8fb1259e184b",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-05-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7 Mayıs Meclis Kararları (year 2018 from the official year list '2018 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Mayıs Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2267/7-mayis-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
