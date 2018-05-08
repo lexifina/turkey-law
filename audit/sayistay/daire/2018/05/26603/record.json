@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10707",
+  "decision_date": "2018-05-08",
+  "source_id": 26603,
+  "chamber": "1",
+  "ilam_number": "331",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26603/",
+  "source_sha256": "5a51b6938b7329ff6ad56d846e4ef2819829e8212236d7ed5e071336f0598fe2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
