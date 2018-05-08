@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/416",
+  "list_number": "416",
+  "decision_date": "2018-05-08",
+  "title": "Birlikte oturma gerekçesiyle farklı şehirlerde beyan veren seçmenlerin iradelerinin örtüşmesi durumunda nüfus müdürlüklerince adres tescil işlemi yapılabileceğine ilişkin Yüksek Seçim Kurulunun 2018/416 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77631/2018-416.pdf",
+  "source_sha256": "59d0eda14a597c00e7b3d50c730da405d9e343a7ff3b6f3aa9a30e4fda276963",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-08",
+  "law_text_complete": false
+}
