@@ -1,0 +1,3 @@
+Teşvik ödülü tutarı ve kaynağı
+MADDE 11 – (1) Teşvik ödülleri Kanunun 37 nci maddesinin birinci fıkrasının (y) bendi uyarınca, Üst Kurulca bir önceki yılda uygulanan idari para cezalarının parasal tutarı toplamının yüzde yirmisini aşmamak kaydıyla, Üst Kurul bütçesine konulan ödenekten karşılanır.
+(2) Bir önceki yılda uygulanan idari para cezaları tahakkuku toplam tutarı tahsilinin gerçekleşip gerçekleşmediğine bakılmaksızın en geç cari yılın 30 Haziran tarihi itibarıyla hesaplanır. Söz konusu idari para cezaları toplam tahakkuk tutarı, Üst Kurulun bir sonraki yılının tahmini bütçesi için de esas alınır.
