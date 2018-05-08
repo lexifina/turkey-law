@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10704",
+  "decision_date": "2018-05-08",
+  "source_id": 26643,
+  "chamber": "1",
+  "ilam_number": "327",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26643/",
+  "source_sha256": "5bd2790dc743d7aa6fc690df86b8b5ec2479680a30ee68b4ad46022a9671dea4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
