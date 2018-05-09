@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44458",
+  "decision_date": "2018-05-09",
+  "source_id": 15472,
+  "chamber": "1",
+  "file_number": "42293",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15472/",
+  "source_sha256": "115f60158f2bbfb4338d19e6ae548c0bb08f96a21087b2928c3ac2db6044e1e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
