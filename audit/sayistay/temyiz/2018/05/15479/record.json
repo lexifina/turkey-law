@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44466",
+  "decision_date": "2018-05-09",
+  "source_id": 15479,
+  "chamber": "1",
+  "file_number": "41488",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15479/",
+  "source_sha256": "04c841969fa6a75c79708907b50b404166fa1f4a5ef4ba73348d70a713c64443",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
