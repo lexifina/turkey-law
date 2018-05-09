@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/418",
+  "list_number": "418",
+  "decision_date": "2018-05-09",
+  "title": "145 sayılı Genelgenin kabulüne ilişkin Yüksek Seçim Kurulunun 2018/418 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77645/2018-418.pdf",
+  "source_sha256": "a37cd00ad2167aa1cbdb3b118dca30a0579eb32130b3b206f8e31a75af63de9e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 22,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-09",
+  "law_text_complete": false
+}
