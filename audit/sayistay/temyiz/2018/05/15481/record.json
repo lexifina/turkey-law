@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44468",
+  "decision_date": "2018-05-09",
+  "source_id": 15481,
+  "chamber": "1",
+  "file_number": "41670",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/15481/",
+  "source_sha256": "f7ebded0859c02f420b22214944fb6a9f5f4144095ddec4d180829f820030c0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
