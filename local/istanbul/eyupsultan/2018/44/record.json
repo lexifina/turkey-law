@@ -1,0 +1,22 @@
+{
+  "number": "44",
+  "number_as_published": "2018/44",
+  "year": 2018,
+  "title": "Odayeri Mahallesi, 116 parsele ilişkin 1/1000 ölçekli plan tadilatı",
+  "decision_date": "2018-05-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-mayis-ayi-meclis-kararlari/1473",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-44/1476",
+  "source_sha256": "63a08f0e9a2f621bd33d90159d7be50cba26f3c5aa421d59d00bb6b4e200fcf9",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-05-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.05.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "26dc8c02c944527ecc3f011225af8a61b17487ac1cc63a0d3c888bd941f04310"
+}
