@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/438",
+  "list_number": "438",
+  "decision_date": "2018-05-10",
+  "title": "24 Haziran 2018 Pazar günü birlikte yapılacak olan Cumhurbaşkanı Seçimi ile 27. Dönem Milletvekili Genel Seçiminde 298 sayılı Kanunun 22. maddesine uyarınca, sandık kurullarında görevlendirilecek kamu görevlilerine ilişkin Yüksek Seçim Kurulunun 2018/438 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77655/2018-438.pdf",
+  "source_sha256": "1a89b9336cd41623fe8c3b3251d1fdd0a8025facf0acd432a55b33cbbef0082e",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-10",
+  "law_text_complete": false
+}
