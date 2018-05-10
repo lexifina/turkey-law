@@ -1,0 +1,15 @@
+Muhasebe ve Finansman Dairesi Başkanlığı
+MADDE 32 – (1) Muhasebe ve Finansman Dairesi Başkanlığının görevleri şunlardır;
+a) Kurumun mali yönetiminin yapısını ve işleyişini belirlemek, kurum bütçesinin hazırlanmasını, uygulanmasını, mali bilginin zamanında üretilmesini, mali içerikli tüm işlemlerin; muhasebenin temel kavramları, ilgili mevzuat ve genel kabul görmüş ulusal ve uluslararası standartlara uygun olarak takibini, muhasebeleştirilmesini, raporlanmasını ve kontrolünü sağlamak,
+b) Muhasebe sisteminin karar, kontrol ve hesap verme süreçlerinin etkili çalışmasını sağlayacak biçimde işlemesini, Kurumun gelir, gider ve varlıkları ile mali sonuç doğuran ve öz kaynağın artmasına veya azalmasına neden olan her türlü işlemin genel kabul görmüş muhasebe standartları çerçevesinde kaydını, yönetimini ve denetimini yapmak,
+c) Kurumun mali kaynaklarının rasyonel ve mali mevzuata uygun olarak kullanılıp kullanılmadığının ön değerlendirmesini ve kontrolünü sağlamak,
+ç) Kurum alacakları ile gelirlerinin etkin bir biçimde tahakkuk, takip ve tahsili, emanetlerin saklanması ve iadesi, giderlerin finansmanı ve hak sahiplerine ödenmesi, kurumun varlık ve borçları ile diğer mali yükümlülüklerine ilişkin iş ve işlemlerini yerine getirmek, iştirak ve ortaklıklarla ilgili incelemeler yapmak, önerilerde bulunmak ve işlemleri yürütmek,
+d) Kurumsal kaynakların, belirlenmiş stratejik amaç, öncelik ve hedefler ile temel ilke ve politikalar doğrultusunda, kullanılması, değerlendirilmesi ve elde edilmesine yönelik tedbirleri almak,
+e) Kurumun bilanço, kar/zarar ve diğer mali tablolarını yasal süresi içerisinde hazırlamak ve Yönetim Kurulu onayına sunmak, Yönetim Kurulunca gerek görülen hallerde bilanço, kar/zarar ve diğer mali tabloların Kurum dışında incelemesini yaptırmak,
+f) Kurum bünyesinde uygulanan maliyet muhasebesiyle ilgili her türlü plan, politika ve işlemleri geliştirmek,
+g) 4/12/1984 tarihli ve 3093 sayılı Türkiye Radyo-Televizyon Kurumu Gelirleri Kanununda sayılan gelirlerin tarh, tahakkuk, tebliğ, tahsil ve denetlenmesi hususundaki her türlü iş ve işlemi ifa etmek,
+ğ) 3093 sayılı TRT Gelirleri Kanunu hükümleri gereği, bandrol ücreti ana para alacağı ile bandrolsüz cihaz satanlar için kesilecek olan para cezaları ile ilgili olarak Tahakkuku müteakip tebliğ edilen para cezalarını ödemeyenler hakkında 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre yapılacak işlemleri yerine getirmek,
+h) 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun uygulanmasında; anılan Kanunun Tahsil Dairesi, Mahalli Tahsil Dairesi ve diğer makam, merci ve komisyonlara verdiği yetkileri Kurum adına kullanmak,
+ı) Borçlu veya malların Kurum teşkilatının bulunmadığı mahallerde olması halinde, 6183 sayılı Kanuna göre takip işlemlerinin niyabeten yerine getirilmesini sağlamak.
+i) (Ek:RG-19/11/2014-29180) Kurumun ait olduğu yıl bütçesinde yer alacak alım programını hazırlamak.
+j) (Ek:RG-19/11/2014-29180) İhtiyaç halinde ek ödenek veya yetki verilmesi veya aktarma işlerini ilgili birime bilgi vererek yürütmek.
