@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7832-2",
+  "decision_date": "2018-05-10",
+  "title": "Socar Turkey Akaryakıt Depolama A.Ş.’nin; PİL/7191-9/38785 sayılı depolama lisansı kapsamında Siteler Mah. Petrol Ofisi Cad. No:10 Aliağa-İZMİR adresinde faaliyette bulunan Aliağa İletim Tesisine ilişkin",
+  "resmi_gazete_number": "12.05.2018",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Yy2jTf289Ts=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Yy2jTf289Ts=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2gtQjLuWD74="
+  ],
+  "source_sha256": "696d2caf6559aac17e09daf1d652dbd63c6bb6dba30cb74d79142d4adbf6a30c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-05-10",
+  "law_text_complete": true
+}
