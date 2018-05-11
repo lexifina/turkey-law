@@ -1,0 +1,5 @@
+Devam zorunluluğu
+MADDE 22 – (1) Kurum personeli mesai saatleri içinde görevinin başında bulunmak zorundadır.
+(2) (Ek:RG-6/5/2011-27926) Personelin yürüttüğü hizmetin özelliklerine göre Yönetim Kurulunca belirlenecek usul ve esaslar dahilinde bu madde gereğince belirlenen çalışma saat ve süreleri ile görev yerlerine bağlı olmaksızın çalışabilmeleri mümkündür.
+(3) (Ek:RG-6/5/2011-27926) (Değişik ibare:RG-4/7/2013-28697) Engelli personel için; (Değişik ibare:RG-4/7/2013-28697) engel durumu, hizmet gerekleri, iklim ve ulaşım şartları göz önünde bulundurulmak suretiyle günlük çalışmanın başlama ve bitiş saatleri ile öğle dinlenme süreleri merkezde Genel Müdür, taşrada ise birimin en üst amiri tarafından farklı belirlenebilir.
+(4) (Ek:RG-6/5/2011-27926) Kadın personele; tabip raporunda belirtilmesi hâlinde hamileliğin yirmidördüncü haftasından önce ve her hâlde hamileliğin yirmidördüncü haftasından itibaren ve doğumdan sonraki bir yıl süreyle gece nöbeti ve gece vardiyası görevi verilmez. (Değişik ibare:RG-4/7/2013-28697) Engelli memurlara da isteği dışında gece nöbeti ve gece vardiyası görevi verilmez.

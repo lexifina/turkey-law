@@ -1,0 +1,6 @@
+Nakil
+MADDE 67 – (1) Kurum, personelini, görev ve unvan eşitliği gözetmeden kazanılmış hak aylıklarıyla, bulundukları kadro derecelerine eşit veya kazanılmış hak aylık derecelerine uygun veyahut bu Yönetmeliğin 63 üncü maddesindeki esaslar çerçevesinde daha üst, aynı yerdeki veya başka yerdeki kadrolara naklen atayabilir.
+(2) Beşinci veya daha aşağı derecelerdeki kadrolara, öğrenim durumları itibariyle yükselebilecekleri en üst dereceyi ve kazanılmış hak aylık derecelerinin üç üst derecesini aşmamak kaydıyla atama yapılabilir.
+(3) Personel, isteği üzerine, kazanılmış hak aylık derecelerinin en çok üç derece altında aynı veya başka yerdeki kadrolara atanabilir. Bunların, derece yükselmesindeki süre kaydı aranmaksızın eski derecelerine tekrar atanmaları mümkündür.
+(4) Yukarıdaki fıkralara göre yapılan atamalarda personelin, kazanılmış hak aylık ve emeklilik keseneğine esas aylıklarının tespiti ile atandıkları derecelerde geçirdikleri sürelerin değerlendirilmesinde, kamu iktisadi kuruluşlarına uygulanan genel hükümler uygulanır.
+(5) Diğer kamu kurum veya kuruluşlarından naklen gelenlerin hizmete başlama derecelerinin, Kurumdaki hizmete başlama derecesinden yüksek olması halinde, ilk ilerleme ve yükselmeleri için gerekli bekleme sürelerine, hizmete başlama dereceleri arasındaki süre kadar ilave edilir.

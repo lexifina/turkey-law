@@ -1,0 +1,4 @@
+Adayların yetiştirilmesi
+MADDE 50 – (1) Aday olarak atanan personel, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik hükümleri çerçevesinde Eğitim Dairesi Başkanlığı ve İnsan Kaynakları Dairesi Başkanlığı tarafından müştereken hazırlanacak ve Genel Müdür tarafından uygun görülecek bir program dâhilinde, bütün personelin ortak vasıfları ile ilgili temel eğitime, sınıfları ile ilgili hazırlayıcı eğitime ve staja tabi tutulurlar.
+(2) Aday memurların adaylık süresi içinde silah altına alınmaları halinde, tamamlanmayan adaylık süreleri ve eğitimleri terhislerinden sonra tamamlattırılır.
+(3) (Değişik:RG-21/10/204-29152) Asıl olarak atanabilmeleri için, aday personelin temel eğitim, hazırlayıcı eğitim ve staj evrelerinin her birinde başarılı olmaları ve adaylık dönemi içerisinde aylıktan kesme veya kademe ilerlemesinin durdurulması cezası almamış olmaları şarttır.

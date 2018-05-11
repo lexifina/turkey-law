@@ -1,0 +1,2 @@
+Ticaret ve diğer kazanç getirici faaliyetlerde bulunma yasağı
+MADDE 25 – (1) Kurum personeli ticaretle uğraşamaz. Kurum ile ilişkileri olan iş sahiplerinden borç para alamaz ve bunların kefilliğini kabul edemez. Ticari vekillik yapamaz. Kolektif şirketlerde ortak ya da komandit şirketlerde komandite ortak olamaz. Kanun ile izin verilen haller dışında ticaret ve sanayi kuruluşlarında görev alamaz. Kurum personelinin eşi ve çocukları, Kurumun açtığı ihale, eksiltme ve artırmalara katılamaz.

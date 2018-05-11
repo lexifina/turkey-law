@@ -1,0 +1,7 @@
+Memurluktan çekilme ya da çekilmiş sayılma
+MADDE 91 – (1) Personel, yazılı olarak başvurmak suretiyle çekilme isteğinde bulunabilir. Çekilme isteğinde bulunan personel, yerine atanan kimsenin gelmesine veya isteğinin kabulüne kadar görevine devam eder.
+(2) Yukarıdaki şartlara uymayan veya sürekli şekilde on gün görevini terk eden veyahut izninin bitiminden itibaren geçerli bir sebebe dayanmaksızın on gün içinde görevine dönmeyenler çekilmiş sayılır.
+(3) Çekilme isteğinde bulunan personel, yerine atanan kimse bir aya kadar gelmediği veya yerine bir vekil atanmadığı takdirde, ilk amirine haber vererek görevini bırakabilir. Çekilmesi olağanüstü bir mazerete dayanan personel, birim amirine haber vermesi şartıyla bir aylık süreye uymak zorunda tutulmaz.
+(4) Devir ve teslim ile yükümlü olanlar, yükümlülüklerini yerine getirmeden görevlerini bırakamaz.
+(5) Olağanüstü hal, sıkıyönetim, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere uğrayan yerlerdeki personel, yerine atanacaklar gelip işe başlamadıkça görevlerini bırakamaz.
+(6) Personelin, mâli ve cezaî sorumlulukları saklı kalmak üzere; çekilme istekleri kabul edilenler bir ay, çekilmiş sayılanlar ile (2) ve (3) üncü fıkra hükümlerine aykırı hareket edenler iki ay, (4) üncü fıkra hükmüne aykırı hareket edenler 3 yıl geçmeden, (5) inci fıkra hükmüne aykırı hareket edenler hiçbir surette kurumda istihdam edilemezler.

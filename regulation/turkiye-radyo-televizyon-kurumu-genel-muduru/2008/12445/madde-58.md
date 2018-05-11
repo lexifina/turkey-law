@@ -1,0 +1,3 @@
+Diğer hizmet sınıflarında iken haber ve program kadrolarına atanma ve ayrılma
+MADDE 58 – (1) Kurumun haber ve program hizmetlerini doğrudan doğruya yapan ve yürüten personelin bu kadroya atanmadan önce kazandıkları aylık derece ve kademeleri bu Yönetmeliğin 56 ncı maddesinde belirtilen hizmete başlama derece ve kademelerinden aşağı olması halinde, bu derece ve kademelere yükseltilir.
+(2) Bu görevlerde bulunduktan sonra, öğrenim durumu itibariyle hizmete giriş derece ve kademesi 56 ncı maddede belirtilen giriş derece ve kademesinden aşağı olan sınıflardan birine geçenlerin ilk ilerleme ve yükselmeleri için kanunî bekleme sürelerine kazandıkları süre kadar ilave edilir.

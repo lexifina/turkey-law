@@ -1,0 +1,2 @@
+Başka kamu kurum veya kuruluşlarından naklen atanan personelin aylıkları
+MADDE 108 – (1) Başka kamu kurum veya kuruluşlarından naklen atanan personelin aylığı, Kurumda işe başladıkları günden itibaren hesaplanır ve ay sonunda veya göreve başladığı tarihte ödenir. Ancak, mahal değiştirmek suretiyle naklen atanan personelin eski görevinden ayrılış tarihi ile yeni görevinde aylığa hak kazandığı tarih arasında geçen süreye ait aylığı, yeni görev yerinde kadro tasarrufundan karşılanır.

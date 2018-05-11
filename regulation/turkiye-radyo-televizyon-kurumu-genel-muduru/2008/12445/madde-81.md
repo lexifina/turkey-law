@@ -1,0 +1,6 @@
+Başarı, üstün başarı değerlendirmesi ve ödül
+MADDE 81 – (Başlığı ile birlikte değişik:RG-21/12/2012-28504)
+(1) Kurumda olağanüstü gayret ve çalışmaları ile emsallerine göre başarılı görev yapmak suretiyle; kamu kaynağında önemli ölçüde tasarruf sağlanmasında, kamu zararının oluşmasının önlenmesinde ve önlenemez kamu zararlarının önemli ölçüde azaltılmasında, kamusal fayda ve gelirlerin beklenenin üzerinde artırılmasında veya sunulan hizmetlerin etkinlik ve kalitesinin yükseltilmesinde somut olaylara ve verilere dayalı olarak katkı sağladıkları tespit edilen memurlara Genel Müdür tarafından başarı belgesi verilebilir. Üç defa başarı belgesi alanlara üstün başarı belgesi verilir.
+(2) Üstün başarı belgesi verilenlere Genel Müdür tarafından uygun görülmesi hâlinde en yüksek Devlet memuru aylığının (ek gösterge dâhil) % 200’üne kadar ödül verilebilir.
+(3) Bu maddeye göre bir malî yıl içinde ödüllendirileceklerin sayısı, Kurumun yılbaşındaki dolu kadro mevcudunun binde onundan fazla olamaz. Yıl içinde ödüllendirilen personel sayısı izleyen yılın Ocak ayı sonuna kadar Devlet Personel Başkanlığına bildirilir.
+(4) Yürütülen hizmetlerin özellikleri göz önünde bulundurularak memurların başarı, verimlilik ve gayretlerini ölçmek üzere Devlet Personel Başkanlığının uygun görüşü alınmak kaydıyla değerlendirme ölçütleri belirlenebilir.

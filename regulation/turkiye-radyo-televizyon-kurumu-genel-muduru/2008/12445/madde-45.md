@@ -1,0 +1,6 @@
+Belgelerin incelenmesi
+MADDE 45 – (1) Göreve atanacakların getirdiği belgeler İnsan Kaynakları Dairesi Başkanlığınca incelenir. İnceleme sonunda noksanlıklar olduğu anlaşılırsa tamamlanması için onbeş gün süre verilir. Bu süre sonunda belgelerini tamamlamayanların veya getirdikleri belgelerden istihdama engel durumları olduğu anlaşılanların atama işlemleri yapılmaz.
+(2) Daha önce memuriyet yapmış olanların, çalıştıkları yerlerdeki (Değişik ibare:RG-6/5/2011-27926) özlük bilgileri veya dosyaları getirtilir. İlgilinin önceki memuriyetinden ayrılış sebepleri ile memuriyetleri arasında boşluk bulunup bulunmadığı araştırılır. Boşluk varsa, ilgiliden bu süre içinde hangi işleri yaptığı ve bu işlerden ayrılış sebepleri hakkında yazılı bilgi ve belge istenir.
+(3) Atanma için aranılan belgelerin tamamlanması ve istihdama engel bir durum bulunmadığının bu belgelere dayanılarak tespit edilmesinden önce, hiçbir şekilde atama yapılamaz.
+(4) Belgelerde yanlış bilgi verdiği sonradan anlaşılanlar hakkında, disiplin hükümleri uygulanır.
+(5) Naklen atanacakların, görev talep formunu Kuruma vermiş olmalarının yanı sıra, görev yapmakta oldukları kurumdan istenen muvafakat ve (Değişik ibare:RG-6/5/2011-27926) özlük bilgilerinin gönderilmiş olması da gerekir.

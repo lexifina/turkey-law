@@ -1,0 +1,2 @@
+Derece değişikliğinde aylığa hak kazanma
+MADDE 112 – (1) Derece yükselmesi suretiyle veya daha aşağı derecelere atanan personel, kamu iktisadi kuruluşlarına uygulanan genel hükümlere göre tespit edilen derecenin kademe aylığına, ek gösterge dâhil, yeni görevine başladığı tarihi takip eden aybaşında hak kazanır. Yürütülmekte olan görevin niteliğinde bir değişme olmaksızın derece yükselmesi yapan personel, onayın geçerlilik tarihini takip eden aybaşından itibaren, yeni derecenin kademe aylığına hak kazanır.

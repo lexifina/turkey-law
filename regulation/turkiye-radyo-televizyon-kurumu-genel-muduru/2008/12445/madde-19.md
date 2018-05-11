@@ -1,0 +1,4 @@
+Emirlerin yerine getirilmesi
+MADDE 19 – (1) Personel, amirlerin emirlerini yerine getirmekle görevlidir. Verilen emrin anayasa, kanun, tüzük, yönetmelik, ilke, kural ve yöntemlere aykırı olduğunu görürse, yerine getirmez ve bu aykırılığı o emiri veren amirine bildirir. Amir emrinde ısrar eder ve bu emrini yazı ile yenilerse, personel bu emri yerine getirmeye zorunludur. Ancak, emrin yerine getirilmesinden doğacak sorumluluk emri verene aittir.
+(2) Personel, amirinden aldığı emri, konusu suç teşkil etmediği halde yanlış değerlendirme ile suç sayar ve emri yerine getirmez ise amir, gecikmenin zarara yol açabileceği durumlarda, hizmetin başka bir görevli tarafından yapılmasını sağlar ya da gerekirse kendisi yapar; görevi yerine getirmeyen personel hakkında disiplin soruşturması yapılır.
+(3) Konusu suç teşkil eden emir hiç bir biçimde yerine getirilmez; yerine getiren kimse sorumluluktan kurtulamaz.
