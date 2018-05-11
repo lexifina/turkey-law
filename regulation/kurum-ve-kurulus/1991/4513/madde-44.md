@@ -1,0 +1,7 @@
+Müfettişlik güvencesi, kıdem ve Başmüfettişliğe atanma (Değişik başlık:RG-11/5/2018-30418)
+MADDE 44. - (Değişik: RG-11/07/1998-23399) Teftiş hizmetleri, diğer idarî görevlerden ayrı bir kariyer olarak düzenlendiğinden, Kurum müfettişleri kendi istekleri dışında veya teftiş hizmetlerinin gerekleriyle bağdaşmayan sıhhî, ahlâkî veya meslekî yetersizlikleri tespit edilmedikçe görevden alınamaz, diğer idarî görevlere atanamazlar.
+Sıhhî, ahlâkî veya meslekî yetersizlik hâllerinin, yargı kararı, sağlık kurulu raporu, müfettiş raporu gibi belgelerle tevsiki esastır.
+Müfettişler arasında kıdem, müfettiş yardımcılığında ve müfettişlikte geçen fiili süreye göre belirlenir. Eşitlik hâlinde müfettiş yardımcılığında giriş sınavı, müfettişlikte ise yeterlik sınavındaki başarı dereceleri dikkate alınır.
+Başmüfettişlerin kıdem sırası, her hâlde müfettişlerden öncedir. Başmüfettişler arasındaki kıdem sırasının tespitinde başmüfettişliğe atama tarihi, aynı tarihte atananlar için müfettişlik kıdemi, müfettişlik kıdemi de aynı olanlar için yeterlik sınavındaki başarı derecesi esas alınır.
+(Ek fıkra:RG-18/8/2016-29805) Nakil yoluyla atanan müfettişlerin önceki kurumlarında denetim hizmetinde geçen süreleri kıdem hesaplamasında bu Yönetmeliğin 28 inci maddesinin üçüncü fıkrası göz önüne alınmak suretiyle dikkate alınır.
+(Ek fıkra:RG-11/5/2018-30418) Başmüfettişliğe, yardımcılık dâhil en az 10 yıl müfettiş olarak görev yapmış ya da 1 inci derece kadroya tayin edilebilecek şartlara sahip olan Müfettişler arasından atama yapılır.

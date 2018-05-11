@@ -1,0 +1,5 @@
+Görevden Uzaklaştırma
+MADDE 7. - Teftiş, inceleme ve soruşturma sırasında, TRT Personel Yönetmeliği ile TRT Sözleşmeli Personel Yönetmeliği'nin "Görevden Uzaklaştırmayı Gerektiren Haller"i düzenleyen maddelerinde belirtilen davranışları görülen personel ile teftiş ve soruşturma sırasında suç delilleri henüz elde edilmemiş olmakla beraber, iş başında kalmasının sakıncalı olacağı kanaâtine varılanlar hakkında, müfettiş tarafından görevden uzaklaştırma tedbiri alınabilir.
+Bu tedbir, teftiş, inceleme ve soruşturmanın her aşamasında uygulanabilir. Ancak görevden uzaklaştırılan personelin görev başında kalmasının sakıncalı olduğunun açık bir şekilde ortaya konması gerekir.
+Görevden uzaklaştırma tedbiri, müfettiş tarafından derhal gerekçesiyle birlikte ilgili personele, çalıştığı ünitenin en üst amirine ve Teftiş Kurulu Başkanlığı'na bildirilir. Başkan müfettişin bu bildirimi üzerine durumu Genel Müdür'ün bilgisine sunar ve keyfiyeti gereği için Personel Dairesi Başkanlığı'na intikal ettirir.
+Bu tedbirin devamı süresince Personel Yönetmeliği'nin ilgili hükümleri uygulanır.
