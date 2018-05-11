@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[BSMV-Özelge]-453787",
+  "source_id": 36842,
+  "date": "2018-05-11",
+  "title": "Finansal Kiralama Kapsamında Edinilen Konut İçin Kullanılan Kredinin BSMV ve KKDF İstisnası hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/36842",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "bd0d086b6630cee2c34385f2b529c2e998f99bc8a3ac014a66de5165c7440ca4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
