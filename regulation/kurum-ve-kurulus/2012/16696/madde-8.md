@@ -1,0 +1,9 @@
+Veri tabanı araştırması
+MADDE 8 – (1) (Değişik:RG-12/5/2018-30419) Ölçümün temelini teşkil edecek evren; yerleşim yeri en büyük alt sınırı on bin olacak şekilde araştırma kapsamındaki tüm yerleşim yerlerinde yaşayan hane halklarını kapsar. Bu evrene yönelik olarak en fazla iki yılda bir veri tabanı araştırmasının tamamı güncellenir. Bununla birlikte, ihtiyaç duyulması halinde Üst Kurula başvurularak evrenin belli bir bölgesine yönelik kısmi veri tabanı araştırması yapılabilir.
+(2) (Değişik:RG-12/5/2018-30419) Veri tabanı araştırmasında kullanılacak olan örnekleme tasarımı ve örneklem verisi Türkiye İstatistik Kurumundan temin edilir.
+(3) (Değişik:RG-12/5/2018-30419) Evrendeki her bir birey veya hane, kapsama dâhil edilir ve bunların örnekleme girme olasılığı bulunur.
+(4) Veri tabanı araştırmasında olasılıklı örnekleme yöntemleri uygulanır.
+(5) (Değişik:RG-12/5/2018-30419) Veri tabanı araştırmasında kullanılacak örneklem büyüklüğü, veri tabanı araştırması yapılmadan önceki son on iki aya ait ortalama panel büyüklüğünün en az on katı olarak belirlenir.
+(6) (Değişik:RG-12/5/2018-30419) Panel kurularak gerçekleştirilen izlenme ve dinlenme oranı ölçüm faaliyetinde araştırma şirketi, mevcut ölçüme yönelik veri tabanı araştırması yapamaz.
+(7) (Değişik:RG-12/5/2018-30419) Panel kurulmadan aktif ölçüm yöntemleriyle yapılan izlenme/dinlenme oranı ölçüm faaliyetlerinde, ölçüm sonuçlarının üretileceği örneklem için her bir rapor dönemi kapsamında ölçümün temelini teşkil eden evreni temsil edecek birbirinden bağımsız ayrı veri tabanı araştırması verisi kullanılır. Türkiye İstatistik Kurumundan temin edilen örnekleme tasarımı ve örneklem verisinden birbirinden bağımsız alt örneklemler çekilerek ölçüm sonuçları üretilemez.
+(8) (Ek:RG-12/5/2018-30419) Aktif ölçüm yöntemleriyle yapılan izlenme/dinlenme oranı ölçüm faaliyetleri hakkında bu maddenin beşinci fıkra hükümleri uygulanmaz.

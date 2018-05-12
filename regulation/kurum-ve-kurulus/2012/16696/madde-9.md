@@ -1,0 +1,9 @@
+Panel tasarımı ve metodolojisi
+MADDE 9 – (1) (Değişik:RG-12/5/2018-30419) Panel tasarımı ve/veya ölçüm sonuçlarının üretileceği örneklem, evreni temsil edecek şekilde belirlenir.
+(2) (Değişik:RG-12/5/2018-30419) Panele seçilecek haneler veya bireyler, güncel veri tabanı araştırması örneklemi dışından olamaz.
+(3) (Değişik:RG-12/5/2018-30419) Panel tasarımı uygulamasında ve/veya ölçüm sonuçlarının üretileceği örneklemde; yerleşim yeri en büyük alt sınırı on bin olacak şekilde araştırma kapsamındaki tüm yerleşim yerlerinde yaşayan; izlenme ölçümlerinde beş yaş ve üstü, dinlenme ölçümlerinde on iki yaş ve üstü nüfus esas alınır.
+(4) (Değişik:RG-12/5/2018-30419) Veri tabanı araştırmasında kullanılacak haneler veya bireylerin SES grubu atamalarında araştırma sektörü tarafından kabul edilmiş en güncel SES ölçeği kullanılır. Panel tasarımında kullanılacak haneler veya bireylerin SES gruplarının temsiliyetinde, güncel veri tabanı araştırması sonucunda elde edilen SES gruplarının oransal dağılımı dikkate alınarak panelin örneklem dağılımı güncellenir.
+(5) (Değişik:RG-12/5/2018-30419) Paneldeki hanelerin veya bireylerin, panelde en fazla yedi yıl kalacak şekilde her yıl en az yüzde on beşi panel yenilenme oranında yenilenir.
+(6) Platform işletmecilerinin sahip oldukları interaktif iletişim sistemleri vasıtasıyla kendi abonelerine yönelik olarak yaptırdıkları ölçümler hakkında bu Yönetmeliğin 8 inci maddesi ile bu maddenin ikinci, üçüncü ve dördüncü fıkra hükümleri uygulanmaz.
+(7) (Ek:RG-12/5/2018-30419) Panel kurulmayan aktif ölçüm yöntemleriyle yapılan izlenme/dinlenme oranı ölçüm faaliyetleri hakkında bu maddenin yalnızca birinci, üçüncü ve dördüncü fıkrası hükümleri uygulanır.
+(8) (Ek:RG-12/5/2018-30419) Herhangi bir nedenle panelden çıkartılan haneler veya bireyler yeniden panele dahil edilemez.

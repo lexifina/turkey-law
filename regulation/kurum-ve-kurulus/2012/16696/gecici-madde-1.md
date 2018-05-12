@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce ölçüm faaliyetinde bulunan şirket veya kuruluş, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde 6 ncı madde uyarınca Üst Kurula başvurmak zorundadır. Bu aşamada ölçüm faaliyetinde bulunan şirket veya kuruluşlar faaliyetine devam edebilir.
+(2) Bu Yönetmeliğin yürürlüğe girmesinden önce ölçüm faaliyetinde bulunan şirket veya kuruluşlara, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren durumunu Yönetmeliğe uygun hale getirmesi için Üst Kurulca makul bir süre verilir. Bu süre bir yıldan fazla olamaz.

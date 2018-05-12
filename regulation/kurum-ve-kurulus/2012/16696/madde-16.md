@@ -1,0 +1,2 @@
+Adli ve idari makamlara başvuru
+MADDE 16 – (1) Yayın hizmetlerinin izlenme ve dinlenme ölçümlerinin yapılmasına ve denetlenmesine ilişkin iş ve işlemlerin herhangi bir aşamasında elde edilen bilgi ve belgeler doğrultusunda ilgili mevzuat hükümlerine açıkça bir aykırılık tespit edilmesi halinde, dava açmak da dâhil olmak üzere her türlü adli ve idari makama başvuru Üst Kurul tarafından yapılabilir.

@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.16696",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAYIN HİZMETLERİNİN İZLENME VE DİNLENME ORANI ÖLÇÜMLERİNİN YAPILMASINA VE DENETLENMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "16696",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16696&MevzuatTertip=5",
+  "source_sha256": "789f577760d9fb11a57cb10aba4bd906bd71d546a2a49e93e14a33736ef20b46",
+  "source_bytes": 52762,
+  "published": "2012-10-17",
+  "gazette": "28444",
+  "in_force": "2018-05-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/5/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-05-12",
+      "RG-12/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-12",
+      "12/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2712,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
