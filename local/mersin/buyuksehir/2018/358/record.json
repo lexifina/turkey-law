@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "358",
+  "decision_date": "2018-05-14",
+  "title": "MEC. KAR. (Gülnar İlçesi, Ayvalı Mahallesi, 20",
+  "listed_as": "358 MEC. KAR. (Gülnar İlçesi, Ayvalı Mahallesi, 20",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/358-mec-kar-gulnar-ilcesi-ayvali-mahallesi-20-ada-103-ve-104-parsellerdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-mayis-2018-meclis-kararlar",
+  "listing_sha256": "6b73eb1722cc0904c5f9ecc472bb1431bde7bf6cc5540c306dcda4a321fd2446",
+  "meeting_title": "14 MAYIS 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
