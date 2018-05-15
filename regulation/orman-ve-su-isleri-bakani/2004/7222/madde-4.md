@@ -1,0 +1,26 @@
+Tanımlar
+Madde 4 — (Değişik:RG-15/3/2014-28942)
+Bu Yönetmelikte geçen;
+a) Avcılık belgesi: Onsekiz yaşını doldurmuş, silah taşıma ehliyetine sahip 4915 sayılı Kanuna göre avcılık belgesi almaya engel hali bulunmayan, avcılık ve av yaban hayatı ile ilgili eğitim almış ve sınavda başarılı olmuş kişilere başvuruları halinde verilen belgeyi,
+b) Bakanlık: Orman ve Su İşleri Bakanlığını,
+c) Belge: Kursları başarı ile bitirenlere verilen kurs bitirme belgesini,
+ç) Bölge Müdürlüğü: Orman ve Su İşleri Bölge Müdürlüğünü,
+d) Dernek: Avcı derneklerini ve bunların oluşturduğu federasyon ve konfederasyon gibi sivil toplum kuruluşlarını,
+e) e-Yaygın sistemi: Kurslarla ilgili iş ve işlemlerin veri tabanı üzerinden mevzuata uygun olarak elektronik ortamda yürütüldüğü ve bilgilerin muhafaza edildiği sistemi,
+f) Eğitici sertifikası: Üniversite veya eğitim kurumlarınca verilen, kamu kurum ve kuruluşları veya sivil toplum kuruluşlarınca düzenlenen eğiticiler eğitimi semineri sonunda verilen belgeler,
+g) Genel Müdürlük: Doğa Koruma ve Milli Parklar Genel Müdürlüğünü,
+ğ) Gönüllü kuruluş: Maksadı av ve yaban hayatının korunması ve geliştirilmesi olan ve bu alanda faaliyet gösteren vakıf, dernek veya bunların oluşturduğu federasyon ve konfederasyon gibi sivil toplum kuruluşlarını,
+h) Kurs: Avcı ve avcı adayı kurslarını,
+ı) Kursiyer: Kursa katılan kişiyi,
+i) Merkez müdürlükleri: Halk Eğitimi Merkez Müdürlüklerini,
+j) Millî Eğitim Müdürlüğü: İl ve İlçe Millî Eğitim Müdürlüklerini,
+k) Şeflik: Şube müdürlüğüne bağlı şefliği,
+l) Şube müdürlüğü: Bölge Müdürlüğüne bağlı ildeki şube müdürlüğünü,
+m) Uzman ve usta öğretici: Düzenlenecek kurslarda eğitici olarak görev yapmak üzere 21 inci maddede sayılan özelliklere sahip kişilerden mülki amirlikçe yeterli görülen kişiyi,
+n) (Ek:RG-15/5/2018-30422) Saklı tutulan hakların kullanımına ilişkin belge sahibi: 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamında saklı tutulan hakların kullanımına ilişkin belgeye sahip kişileri,
+o) (Ek:RG-15/5/2018-30422) Batı Trakyalı Türk: Türklük belgesine sahip Batı Trakyalı Türkleri,
+ö) (Ek:RG-15/5/2018-30422) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
+p) (Ek:RG-15/5/2018-30422) Kırmızı veya yeşil bantlı kimlik kartı hamili: Türkiye’deki diplomatik veya konsüler temsilciliklerle, uluslararası kuruluşlarda çalışan kırmızı bantlı kimlik kartı hamili görevliler ve karşılıklılık ilkesine bağlı olmak kaydıyla diplomatik ve konsüler temsilciliklerde görev yapan yeşil bantlı kimlik hamili olan kişileri,
+r) (Ek:RG-15/5/2018-30422) Yabancı avcılık belgesi: Türkiye’deki diplomatik veya konsüler temsilciliklerle, uluslararası kuruluşlarda çalışan kırmızı bantlı kimlik kartı hamili görevliler ve karşılıklılık ilkesine bağlı olmak kaydıyla diplomatik ve konsüler temsilciliklerde görev yapan yeşil bantlı kimlik hamili olan kişilere av organizasyonuna katılabilmeleri maksadıyla verilen belgeyi,
+s) (Ek:RG-15/5/2018-30422) Avlak Yönetim Bilgi Sistemi (AVBİS): Planlı ve kotalı avcılık çerçevesinde avlaklarda kota kullanım izninin alındığı; tür, avlak, zaman ve miktar bilgilerinin kayıt edilerek muhafaza edildiği Orman ve Su İşleri Bakanlığı Doğa Koruma ve Milli Parklar Genel Müdürlüğünce uygulanan elektronik sistemi,
+ifade eder.

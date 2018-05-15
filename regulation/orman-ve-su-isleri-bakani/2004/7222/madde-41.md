@@ -1,0 +1,2 @@
+Hüküm Bulunmayan Haller
+Madde 41 — Bu Yönetmelikte hüküm bulunmayan hallerde 1739 sayılı Milli Eğitim Temel Kanunu, 6245 sayılı Harcırah Kanunu, 4915 sayılı Kara Avcılığı Kanunu, 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı Alım Satımı ve Bulundurulmasına Dair Kanun ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun hükümleri geçerlidir.
