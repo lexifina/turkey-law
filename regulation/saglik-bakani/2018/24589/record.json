@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24589",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KONAKLAMALI FİZİK TEDAVİ VE REHABİLİTASYON MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "number": "24589",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2018/24589",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24589&MevzuatTertip=5",
+  "source_sha256": "7adaad71a3be0e75067ded6ff695e664eed257777d60a9de962b4078fefe81c5",
+  "source_bytes": 31569,
+  "published": "2018-05-15",
+  "gazette": "30422",
+  "in_force": "2018-05-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.05.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1488,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24589-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
