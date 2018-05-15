@@ -1,0 +1,15 @@
+YURT DIŞI GEZİ MÜKERRER ÖDEME
+
+…. Büyükşehir Belediyesinin “İngiltere-Manchester şehrine gezi, yeme, içme ve organizasyon bedeli” adı altında almış olduğu hizmet alımında ilgili firmaya mükerrer ödeme yapılması suretiyle kamu zararına neden olunması iddiasına ilişkin yapılan incelemede;
+
+5216 sayılı Büyükşehir Belediyesi Kanununun “Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları“ başlıklı 7’nci maddesinin m bendinde;
+
+“Büyükşehir’in bütünlüğüne hizmet eden sosyal donatılar, bölge parkları, hayvanat bahçeleri, hayvan barınakları, kütüphane, müze, spor, dinlence, eğlence ve benzeri yerleri yapmak, yaptırmak, işletmek veya işlettirmek; gerektiğinde amatör spor kulüplerine nakdî yardım yapmak, malzeme vermek ve gerekli desteği sağlamak, amatör takımlar arasında spor müsabakaları düzenlemek, yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara, teknik yönetici, antrenör ve öğrencilere belediye meclis kararıyla ödül vermek”  hükmü yer almaktadır.
+
+Bu hükme istinaden alınan 23.03.2017 tarih .. karar numaralı belediye meclis kararında “…” adlı Mahalle Ligi Turnuvası projesi kapsamında şampiyon olan Yıldız ve Genç takımlarının sporcuları, antrenörleri, idarecileri, yöneticileri, belediye meclis üyeleri ve belediye çalışanlarının 12.05.2017-15.05.2017 tarihleri arasında İngiltere’nin Manchester şehrindeki maça götürülüp getirilmesi kararlaştırıldığı görülmüştür.
+
+Yapılan savunmalardan, bahsi geçen geziye ilişkin olarak organizasyon firmasına yaplan söz konusu ödemenin mükerrer bir ödeme olmadığı, her ne kadar ağırlama giderleri 4734 sayılı Kamu İhale Kanununun 22/d maddesindeki limitlere tabi tutulmasa da gene de bu limit göz önünde bulundurularak yapıldığından iki ayrı fatura halinde düzenlendiği, dolayısıyla bir mükerrerlik ve kamu zararı olmadığı anlaşılmıştır.
+
+Bu itibarla; konu hakkında ilişilecek husus bulunmadığına, (Üye .. ve Üye …’in “5216 sayılı Büyükşehir Belediyesi Kanununun “Büyükşehir ve ilçe belediyelerinin görev ve sorumlulukları“ başlıklı 7’nci maddesinin m bendine göre yurt içi ve yurt dışı müsabakalarda üstün başarı gösteren veya derece alan sporculara, teknik yönetici, antrenör ve öğrencilere belediye meclis kararıyla ödül verilebileceğinden ve söz konusu gezi bu ödül kapsamında düzenlendiğinden, ayrıca görevlendirmenin yapıldığı söz konusu meclis kararında, sadece sporculara, teknik yöneticilere, antrenörlere bu gezi ödülünün verileceği, diğer kamu personeline böyle bir ödül verileceğinden basedilmediğinden, geziye katılan ve bu kapsamda değerlendirilmesi mümkün olmayan belediye personeli ve belediye başkanlarından oluşan toplam 16 kişiye yapılan ödemenin tamamı kamu zararı oluşturmaktadır. Bu sebeple, rapor maddesinin bu açıdan yeniden sorgu konusu yapılmasını teminen denetçisine iadesi gerekir” şeklindeki ayrışık görüşlerine karşı)
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla,
