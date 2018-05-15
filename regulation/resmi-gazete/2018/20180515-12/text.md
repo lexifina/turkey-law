@@ -1,0 +1,250 @@
+15 Mayıs 2018 SALI
+Resmî Gazete
+Sayı : 30422
+YÖNETMELİK
+Sağlık Bakanlığından:
+KONAKLAMALI
+FİZİK TEDAVİ VE REHABİLİTASYON
+MERKEZLERİ
+HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; yataklı tedavi dışında
+kalan ayaktan sağlık hizmetleri kapsamında verilecek konaklamalı fizik
+tedavi ve rehabilitasyon hizmetleriyle termal, engelli bakımı hizmetleri ve
+yaşlı bakımı hizmetlerinin birlikte verilebildiği konaklamalı fizik tedavi
+ve rehabilitasyon merkezlerinin; açılmasına, kapsamına, taşıması gereken
+fiziki şartlarına, asgari personel standartlarına, izinlerine,
+ruhsatlandırılmalarına, belgelendirilmelerine, faaliyetlerine ve
+denetlenmelerine ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Aile ve Sosyal
+Politikalar Bakanlığı, Sağlık Bakanlığı, üniversiteler, belediyeler, gerçek
+kişiler ve özel hukuk tüzel kişileri tarafından, konaklamalı olarak,
+yataklı tedavi hizmetleri dışında kalan konaklamalı fizik tedavi ve
+rehabilitasyon, termal, engelli ve yaşlı bakımı hizmetlerini vermek üzere
+açılacak konaklamalı fizik tedavi ve rehabilitasyon merkezlerini, bunların
+işletenlerini ve personelini kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 7/5/1987
+tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesi, 9
+uncu maddesinin birinci fıkrasının (c) bendi ve Ek 11 inci maddesine;
+11/10/2011 tarihli ve 663 sayılı Sağlık Bakanlığı ve Bağlı Kuruluşların
+Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesinin
+birinci fıkrasının (a), (c), (e) ve (i) bentleri ile 40 ıncı maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Engelli bakım merkezi: Aile ve Sosyal
+Politikalar Bakanlığı tarafından açılmış veya ruhsatlandırılmış engelli
+bakım ve rehabilitasyon merkezlerini,
+c) Genel Müdürlük: Sağlık Hizmetleri Genel
+Müdürlüğünü,
+ç) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezi: Bir konaklama tesisinde, fizik tedavi ve rehabilitasyon merkezinin
+veya fizik tedavi ve rehabilitasyon merkezi yanında termal merkez veya
+engelli veya yaşlı bakım merkezinden en az birinin hizmet verdiği merkezi;
+ya da, bir engelli veya yaşlı bakım merkezinde, fizik tedavi ve rehabilitasyon
+merkezinin veya fizik tedavi ve rehabilitasyon merkezi yanında termal
+merkezin birlikte hizmet verdiği merkezi,
+d) Konaklama tesisi: Konaklama hizmeti vermek
+üzere, Kültür ve Turizm Bakanlığı tarafından turizm işletmesi belgesi
+düzenlenmiş asgari dört yıldız ve en az 25 (yirmi beş) yatak kapasiteli
+tesisi,
+e) Termal merkez: İlgili mevzuatına göre kaplıca
+tedavisi, kür ve benzeri hizmetleri vermek üzere, Sağlık Bakanlığınca izin
+verilmiş ve/veya ruhsatlandırılmış merkezi,
+f) Yaşlı bakım merkezi: Yaşlılara yönelik bakım ve
+rehabilitasyon hizmeti sunulmak üzere Aile ve Sosyal Politikalar Bakanlığı
+tarafından açılmış veya ruhsatlandırılmış huzurevi, bakım merkezi ile bakım
+ve rehabilitasyon merkezini,
+ifade eder.
+İKİNCİ BÖLÜM
+Konaklamalı Fizik Tedavi ve Rehabilitasyon
+Merkezleri
+Konaklamalı
+fizik tedavi ve rehabilitasyon merkezlerinin özellikleri
+MADDE 5 – (1) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezini oluşturan konaklama tesisi, konaklama ile ilgili mevzuatında yer
+alan fiziki şartları sağlamak zorundadır. Ancak, hizmetin yürütülmesine
+aykırı düşmeyen bazı bölümler, konaklama tesisi ile fizik tedavi ve
+rehabilitasyon merkezinin ortak kullanımına açılabilir.
+(2) Konaklama tesisi veya engelli veya yaşlı bakım
+merkezi bünyesinde en az 25 (yirmi beş) yatak kapasitesi olmalıdır.
+Konaklama hizmetinin verildiği bölümlerde engelliler ve yaşlılar için
+ilgili mevzuatına uygun olarak gerekli düzenlemeler yapılır.
+(3) Konaklama bölümünde acil durumlar için hasta
+nakline uygun düzenlemeler yapılır.
+(4) Konaklama tesisi ile fizik tedavi ve
+rehabilitasyon merkezi aynı binada olabilir. Başka merkez ile bağlantılı
+olmamak kaydıyla aynı yerleşke içerisinde de olabilir.
+(5) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezinin içerisinde veya yerleşkesinde, konaklamalı fizik tedavi ve
+rehabilitasyon merkezinden hizmet alanların kullanımına sunulmak üzere iş
+ve uğraş alanları, spor alanları ve buna benzer sosyal alanlar inşa
+edilebilir.
+(6) Konaklama tesislerindeki diğer birimlerin
+çalışma saatleri, fizik tedavi ve rehabilitasyon merkezlerinin çalışma
+programı ve saatleriyle uyumlu olarak düzenlenir. Konaklama tesisi ile
+bünyesindeki fizik tedavi ve rehabilitasyon merkezleri arasında kontrollü
+geçişin olduğu bölüm haricinde kontrolsüz geçiş bulunamaz.
+(7) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezleri, açıldıkları yerleşkenin dışına taşınamaz, taşınma talebi
+durumunda yeniden değerlendirmeye alınır ve ruhsatlandırılır.
+(8) Birden çok katı olan konaklamalı fizik tedavi
+ve rehabilitasyon merkezi ile ilgili konaklama alanlarında, hizmet alan
+kişilerin tekerlekli sandalye ile taşınmasını sağlayacak şekilde ilgili
+mevzuatına uygun asansör bulunur.
+(9) Fizik tedavi ve rehabilitasyon merkezi ve
+ilgili konaklama alanlarında, merdivenler, bina girişleri, koridorlar,
+banyo ve lavabolarda engelliler için ilgili mevzuatına uygun olarak gerekli
+düzenlemeler yapılır.
+Konaklamalı
+fizik tedavi ve rehabilitasyon merkezinin idaresi
+MADDE 6 – (1) Konaklamalı fizik tedavi ve rehabilitasyon merkezi
+bünyesinde faaliyet gösterecek konaklama tesisi ve her bir merkez, kendi
+mevzuatına göre idare edilir. Konaklamalı fizik tedavi ve rehabilitasyon
+merkezini oluşturan konaklama tesisi ve/veya merkezlerin uyum içinde
+hizmetlerini yürütmesi esastır.
+Konaklamalı
+fizik tedavi ve rehabilitasyon merkezinin uluslararası sağlık turizmi
+yetkisi
+MADDE 7 – (1) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezini oluşturan konaklama tesisi ve her bir merkezin, uluslararası
+sağlık turizmi yetki belgesi alma şartlarını taşıması kaydıyla, ilgili
+mevzuatına göre Uluslararası Sağlık Turizmi Yetki Belgesi alarak
+uluslararası sağlık turizmi faaliyeti gösterebilir.
+ÜÇÜNCÜ BÖLÜM
+Fizik Tedavi ve Rehabilitasyon Merkezlerinin
+Konaklama Tesisinde Açılması
+Açılması
+ve faaliyet esasları
+MADDE 8 – (1) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezlerinde sadece akut tedavisi tamamlanmış ve konaklamalı tesiste
+konaklayan ve tedavisi ilgili hekimi tarafından planlanmış veya bu merkezin
+hekimlerince planlanacak kişilere yönelik hizmetler ilgili mevzuatına göre
+Bakanlıkça ruhsatlandırılması halinde verilebilir.
+(2) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezlerinde, fizik tedavi ve rehabilitasyon merkezinin ruhsata esas
+mevcut hekim kadro ve kapasiteleri kullanılarak hizmet sunulur.
+(3) Fizik tedavi ve rehabilitasyon merkezi, ilgili
+mevzuatında yer alan fiziki ve tıbbi donanım şartlarını sağlamak
+zorundadır.
+(4) Fizik tedavi ve rehabilitasyon merkezinde,
+konaklama tesisi bünyesinde olmaması halinde, 16/10/2009 tarihli ve 27378
+sayılı Resmî Gazete’de yayımlanan, Yataklı Sağlık Tesislerinde Acil Servis
+Hizmetlerinin Usul ve Esasları Hakkında Tebliğde tanımlanan şartları haiz,
+acil hallerde kendi hastalarına ilk yardım, temel yaşam desteği ve ileri
+kardiyak yaşam desteği hizmetlerinin verilebildiği acil sağlık birimi
+oluşturulur.
+(5) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezlerinin, bünyesinde hizmet alan hastaların yatarak veya ileri teşhis
+ve tedaviye ihtiyaç duyması durumlarında hastalarını gönderilebileceği en
+az bir sağlık tesisiyle tedavi sözleşmesi yapmış olması zorunludur.
+Personel
+esasları
+MADDE 9 – (1) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezlerinde bu Yönetmeliğin ekindeki EK-1’de yer alan asgari personel bulunur.
+Mevcut ruhsatlı sağlık tesisleri ile yapılacak işbirliği çerçevesinde
+açılacak fizik tedavi ve rehabilitasyon merkezinde, bu Yönetmeliğin
+eklerinden EK-1’deki asgari personel standardının altına düşmemek kaydıyla
+sağlık tesisinin mevcut kadro ve kapasitesi kullanılır. Mesul müdür ilgili
+mevzuatına göre görevini yürütür.
+(2) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezlerinde, Bakanlığın planlamalarından istisna olarak, yabancıların
+çalışma izinlerine dair mevzuat çerçevesinde yabancı personel çalıştırılabilir.
+Ayrıca, diğer özel sağlık kuruluşlarıyla yapılacak kurumsal sözleşme
+çerçevesinde uzman hekim/hekim çalıştırılabilir.
+Hizmet
+alımı yoluyla karşılanabilecek hizmetler
+MADDE 10
+– (1) Tıbbi laboratuvar ve
+görüntüleme hizmetleri, aynı il içerisindeki diğer sağlık kuruluşlarından
+hizmet alımı yoluyla temin edilebilir. Aynı ilde bu hizmetlerin
+alınabileceği sağlık kuruluşunun olmaması hâlinde, bu hizmetler, en yakın
+başka bir ildeki sağlık kuruluşundan alınabilir.
+(2) Hizmetin satın alma yoluyla gördürülmesi
+halinde, hizmeti alan konaklamalı fizik tedavi ve rehabilitasyon merkezi
+ile hizmeti veren sağlık kurum veya kuruluşu, bu uygulamadan ve
+sonuçlarından müştereken sorumludur.
+DÖRDÜNCÜ BÖLÜM
+Engelli Bakım Merkezleri, Yaşlı Bakım Merkezleri
+ile Termal Merkezler
+Engelli
+bakım merkezleri ve yaşlı bakım merkezleri
+MADDE 11
+– (1) Engelli bakım merkezleri ile
+yaşlı bakım merkezleri, ilgili mevzuatında yer alan personel, fiziki ve
+tıbbi donanım şartlarını sağlamak zorundadır.
+(2) Engelli bakım merkezleri ile yaşlı bakım
+merkezlerinde fizik tedavi ve rehabilitasyon hizmetleri bu Yönetmeliğin 8
+inci, 9 uncu ve 10 uncu maddelerine uygun olarak yürütülür.
+Termal
+merkezler
+MADDE 12
+– (1) Termal merkezler, kaplıca
+tedavisi, kür ve benzeri hizmetler sunmak üzere, 24/7/2001 tarihli ve 24472
+sayılı Resmî Gazete’de yayımlanan Kaplıcalar Yönetmeliğine uygun olarak
+konaklama tesisi bünyesinde veya engelli bakım merkezi ile yaşlı bakım
+merkezi bünyesinde açılabilir.
+(2) Termal merkezlerde fizik tedavi ve rehabilitasyon
+hizmetleri bu Yönetmeliğin 8 inci, 9 uncu ve 10 uncu maddelerine uygun
+olarak yürütülür.
+BEŞİNCİ BÖLÜM
+Başvuru, Gerekli Belgeler ve Konaklamalı Fizik
+Tedavi ve
+Rehabilitasyon Merkezi Yetki Belgesi
+Başvuru
+MADDE 13
+– (1) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezi başvuruları bu Yönetmeliğin ekindeki EK-2’de yer alan belgeler ile
+Genel Müdürlüğe yapılır. EK-2’deki belgelerin ilk defa alınacağı
+durumlarda, diğer kurumlara başvuru yapılmadan Genel Müdürlüğe başvuru
+yapılır ve başvuru işlemleri Genel Müdürlükçe takip edilir.
+Yetkilendirme
+MADDE 14
+– (1) Bakanlık tarafından bu
+Yönetmelikte belirtilen şartları taşıdığı tespit edilen konaklamalı fizik
+tedavi ve rehabilitasyon merkezlerine, EK-3’de yer alan “Konaklamalı Fizik
+Tedavi ve Rehabilitasyon Merkezi Yetki Belgesi” düzenlenir.
+(2) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezi yetki belgesi verildiği tarihten itibaren altı ay içerisinde
+faaliyete başlamayan merkezlerin yetki belgesi iptal edilir.
+(3) Konaklamalı fizik tedavi ve rehabilitasyon
+merkezini oluşturan konaklama tesisi veya merkezlerden birinin sahip
+değişikliği halinde Konaklamalı Fizik Tedavi ve Rehabilitasyon Merkezi
+Yetki Belgesi iptal edilir ve yeni sahiplik adına bu Yönetmelik kapsamında
+yeniden başvuru yapılır.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Denetim
+ve müeyyideler
+MADDE 15
+– (1) Konaklamalı fizik tedavi ve
+rehabilitasyon merkezlerindeki sağlık hizmetleri, Bakanlık tarafından
+ilgili mevzuatına göre yılda en az bir kez denetlenir. Konaklama hizmetleri
+ile engelli ve yaşlı bakım hizmetlerinin denetimi, ilgili mevzuatına göre
+yürütülür.
+(2) Bu Yönetmelikte belirlenen usul ve esaslara
+uymayanlar ile yasaklara aykırı hareket edenlere, fiilin niteliğine göre
+ilgili diğer mevzuatında belirlenen idari ve cezai müeyyideler uygulanır.
+(3) Bu Yönetmelik kapsamındaki birden fazla
+merkezle faaliyet gösterilen konaklamalı fizik tedavi ve rehabilitasyon
+merkezinin faaliyetin durdurulması gereken hallerde yalnızca ilgili
+merkezin; tek merkezle faaliyet gösterildiği durumlarda konaklamalı fizik
+tedavi ve rehabilitasyon merkezinin tamamının faaliyeti Bakanlıkça
+durdurulur.
+Yürürlük
+MADDE 16
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Yönetmelik hükümlerini
+Sağlık Bakanı yürütür.
+Ekleri için tıklayınız
