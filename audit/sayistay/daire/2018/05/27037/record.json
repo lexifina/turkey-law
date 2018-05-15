@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "545",
+  "decision_date": "2018-05-15",
+  "source_id": 27037,
+  "chamber": "6",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27037/",
+  "source_sha256": "49280ce44b7dfcd1a4ab5d0adb8d92fe1519e0eff77c2ed1092077c3ccfd41d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
