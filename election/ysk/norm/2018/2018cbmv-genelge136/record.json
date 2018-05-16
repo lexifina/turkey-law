@@ -1,0 +1,18 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "genelge",
+  "number": "2018/2018cbmv-genelge136",
+  "list_number": "494",
+  "genelge_number": "136",
+  "decision_date": "2018-05-16",
+  "title": "İlçe ve il Seçim Kurullarının Seçim Sonuçlarına İlişkin Görevleri ile Yurt Düzeyi Seçim Sonuçlarının Belirlenmesinde Uygulanacak Esas ve İlkeleri gösterir Genelge",
+  "official_document": "https://www.ysk.gov.tr/doc/genelge/dosya/77668/2018CBMV-Genelge136.pdf",
+  "source_sha256": "a498715fbfaa39877c496912fb598ecbde685ed69ce61426f35bcb70b157efe4",
+  "official_list": "https://www.ysk.gov.tr/doc/genelge/genelgeler.txt",
+  "official_list_sha256": "e2e17901e83bc662251224ba5740d2e1142eb68c36a2e83c237cad070c4903d6",
+  "pdf_pages": 14,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-16",
+  "law_text_complete": false
+}
