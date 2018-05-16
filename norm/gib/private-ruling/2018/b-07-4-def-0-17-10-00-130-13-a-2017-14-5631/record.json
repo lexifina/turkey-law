@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-05-16T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-05-16",
+  "official_number": "B.07.4.DEF.0.17.10.00-130[13-a-2017-14]-5631",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31201",
+  "source_id": "ozelge:31201",
+  "source_row_sha256": "709ec37456ce30c0df98ee93fa67a5b992c4d9ae56895203ee2b5bdc1285f33d",
+  "title": "KDV Muafiyeti",
+  "version_label": "as-enacted",
+  "word_count": 476
+}
