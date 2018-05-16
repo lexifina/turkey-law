@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44494",
+  "decision_date": "2018-05-16",
+  "source_id": 16182,
+  "chamber": "5",
+  "file_number": "41381",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/16182/",
+  "source_sha256": "303d067e0c26f0cbda489fed7523f0aa36cab2f2f2856a9350e492ba129ef5f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
