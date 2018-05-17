@@ -1,0 +1,1 @@
+Geçici Madde 3- Yönetmeliğin 22, 23 ve 24 üncü maddelerinde unvanları sayılan personelden, bu maddelerde belirtilen çalışma sürelerini (süre uzatımı dahil) dolduranlar, 2002 yılı sonuna kadar bu maddelerde belirtilen başka yerlerdeki görevlere atanırlar.

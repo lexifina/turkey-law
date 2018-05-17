@@ -1,0 +1,3 @@
+Belli Süre Hizmeti Olanların Yer Değiştirme Suretiyle Atanması
+Madde 17- (Değişik:RG-3/4/2008-26836)
+Bakanlıkta fiilen en az 25 yıl memuriyeti bulunanlardan; Yönetmeliğe ekli (1) sayılı cetvele dahil 5 inci veya 6 ncı hizmet bölgelerinde en az 4 yıl fiilen çalışmış ve en az üç hizmet bölgesindeki zorunlu çalışma süresini tamamlamış olanların, yer değişikliği veya aynı hizmet bölgesi veya alanı içinde yerinde kalma talepleri, bölge esasına bağlı olmaksızın hizmetin gereği dikkate alınarak durumları her yıl yeniden değerlendirilmek suretiyle yerine getirilebilir. Fiilen çalışılmış sürenin hesabında, izinli sürelerden yalnızca yıllık izinde geçirilen süreler dikkate alınır.

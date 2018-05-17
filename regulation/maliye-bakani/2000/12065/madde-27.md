@@ -1,0 +1,2 @@
+Gerçek Dışı Beyan
+Madde 27- (Değişik cümle:RG-13/5/2015-29354) Mazeret gruplarına dayanarak yer değiştirme suretiyle ataması yapılanlar ile yerinde bırakılanlardan mazeret belgelerinin gerçek dışı düzenlendiği tespit edilenlerin atamaları veya yerlerinde bırakılma onayları iptal edilerek, yer değiştirme dönemi beklenilmeksizin başka hizmet bölge ve alanlarına atamaları gerçekleştirilir. Ayrıca, haklarında adli ve idari soruşturma yapılır.
