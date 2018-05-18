@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "394",
+  "decision_date": "2018-05-18",
+  "title": "MEC.KAR. ( 2017 Kesin Hesap ).doc",
+  "listed_as": "394 MEC.KAR. ( 2017 Kesin Hesap ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/394-meckar--2017-kesin-hesap-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-mayis-2018-meclis-kararlar",
+  "listing_sha256": "12568f5a1b8c387fc849cb135fcbdb2097666b72c6c07da40082dae2299b976a",
+  "meeting_title": "18 MAYIS 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
