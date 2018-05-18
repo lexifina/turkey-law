@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7141",
+  "year": 2018,
+  "title": "Yükseköğretim Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-05-18",
+  "gazette_issue": "30425",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180518-1.htm",
+  "source_sha256": "87985c2d91f6ee568db466d3f7eaf9cf09738db528723434b32efbb773561cbd",
+  "text_sha256": "82eac50e427afdbe40fd4faedc4d9051f3bc8c92ec6b0bc4d390edfbcf327d1a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/05/18/30425-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180518-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
