@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "405",
+  "decision_date": "2018-05-18",
+  "title": "MEC. KAR. ( Yer Seçim Belgesi alt ve üst kuru",
+  "listed_as": "405 MEC. KAR. ( Yer Seçim Belgesi alt ve üst kuru",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/405-mec-kar---yer-secim-belgesi-alt-ve-ust-kurul-olusturulmasi--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-mayis-2018-meclis-kararlar",
+  "listing_sha256": "12568f5a1b8c387fc849cb135fcbdb2097666b72c6c07da40082dae2299b976a",
+  "meeting_title": "18 MAYIS 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
