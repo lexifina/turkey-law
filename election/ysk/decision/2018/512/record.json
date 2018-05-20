@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/512",
+  "list_number": "512",
+  "decision_date": "2018-05-20",
+  "title": "298 sayılı Kanun'un 19. maddesinin 3. bendinin üçüncü fıkrası uyarınca, seçime katılmayacağı anlaşılan Büyük Birlik Partisi'nin ilçe seçim kurulundaki üyesinin görevinin sona ermesi gerektiğine dair Yüksek Seçim Kurulun 2018/512 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77683/2018-512.pdf",
+  "source_sha256": "97dc3449a22a56bb53e138c74f754c7907fab03984a0f096908ea6b80067276d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-20",
+  "law_text_complete": false
+}
