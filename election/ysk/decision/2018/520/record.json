@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/520",
+  "list_number": "520",
+  "decision_date": "2018-05-22",
+  "title": "27.Dönem Milletvekili Genel Seçimine Bağımsız milletvekili adayı olarak başvuranların bilgi ve belge eksiklerinin incelenmesi hakkında Yüksek Seçim Kurulunun 2018/520 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77685/2018-520.pdf",
+  "source_sha256": "0a9db6e2d93e78a7fe5751e4564c8e716edb7c135b70b1a94aa9d5eb2aa09df8",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-22",
+  "law_text_complete": false
+}
