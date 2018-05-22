@@ -1,0 +1,250 @@
+22 Mayıs 2018 SALI
+Resmî Gazete
+Sayı : 30428
+TEBLİĞ
+Ekonomi Bakanlığından:
+İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN
+TEBLİĞ
+(TEBLİĞ NO: 2018/21)
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Tebliğin amacı, yerli
+üretici Aschem Petrokimya Sanayi A.Ş. tarafından
+yapılan başvuruya istinaden İran İslam Cumhuriyeti menşeli “diğerleri”
+ürününe yönelik olarak damping soruşturması
+açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 14/6/1989
+tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun,
+20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe
+konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999
+tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin
+Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Tebliğde geçen;
+a) Aschem: Aschem Petrokimya Sanayi A.Ş.
+b) Bakanlık: Ekonomi Bakanlığını,
+c) İran: İran İslam Cumhuriyetini,
+ç) Genel Müdürlük: Bakanlık İthalat Genel
+Müdürlüğünü,
+d) GTİP: Gümrük tarife istatistik pozisyonunu,
+e) Kanun: 14/6/1989
+tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında
+Kanunu,
+f) Karar: 20/10/1999
+tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan
+İthalatta Haksız Rekabetin Önlenmesi Hakkında Kararı,
+g) TÜİK: Türkiye İstatistik Kurumunu,
+ğ) UTM: Uluslararası Ticaret Merkezini,
+h) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî
+Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi
+Hakkında Yönetmeliği,
+ifade eder.
+Başvuru
+konusu ürün
+MADDE 4 – (1) Başvuru konusu ürün, 3903.19.00.00.00 GTİP’i altında kayıtlı “diğerleri”dir.
+(2) Bahse konu GTİP, bilgi amaçlı verilmiş olup
+bağlayıcı mahiyette değildir.
+(3) Başvuru konusu ürünün Türk Gümrük Tarife
+Cetvelinde yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak
+değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
+Başvurunun
+temsil niteliği
+MADDE 5 – (1) Başvuru aşamasında sunulan delillerden,
+Yönetmeliğin 20 nci maddesi çerçevesinde başvuru
+yeterliliğine sahip olan yerli üretici Aschem
+firmasının Yönetmeliğin 18 inci maddesi çerçevesinde yerli üretim dalını
+temsil niteliğini haiz olduğu anlaşılmıştır. Bu kapsamda, Aschem firması bu Tebliğin ilgili bölümlerinde “yerli
+üretim dalı” olarak anılacaktır.
+Damping
+iddiası
+MADDE 6 – (1) Şikâyete konu ülke olan İran’ın iç piyasa
+satışlarına ilişkin verilere ulaşılamadığından damping
+iddiasına ilişkin hesaplamalarda oluşturulmuş normal değer kullanılmıştır.
+Yerli üretim dalı tarafından 2017 yılı için şikâyete konu ürünün üretiminde
+kullanılan hammaddelerin birim maliyetlerine direkt işçilik, yardımcı
+madde, dolaylı işçilik, enerji, paketleme, amortisman
+gibi genel üretim giderlerine satış ve genel idari giderler ile finansman
+giderleri eklenmiş ve elde edilen bu fiyata makul bir kâr oranı ilave
+edilerek oluşturulmuş normal değer hesaplanmıştır. Söz konusu değerin
+fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(2) İhraç değerinin tespitinde, TÜİK’in
+2017 yılına ait şikâyet konusu ürünün şikâyet konusu ülkeden gerçekleşen
+ithalatında oluşan ortalama ihraç fiyatı dikkate alınmıştır. Söz konusu
+ihraç fiyatından harici navlun ve sigorta bedelleri düşürülerek fiyat
+fabrika çıkış aşamasında kabul edilmiştir.
+(3) Bu maddenin birinci fıkrasında açıklandığı
+şekilde tespit edilen normal değer ile Türkiye’ye ihraç fiyatı mümkün
+olduğu ölçüde aynı ticari aşamada yani fabrika çıkış aşamasında
+karşılaştırılmış olup, başvuru konusu ülke olan İran menşeli ürün için
+hesaplanan damping marjlarının Yönetmeliğin 28
+inci maddesinde zikredilen ihmal edilebilir oranın üzerinde olduğu tespit
+edilmiştir.
+Zarar
+tehdidi ve nedensellik iddiası
+MADDE 7 – (1) Yönetmeliğin 17 nci
+maddesi çerçevesinde zarar tehdidi iddiasının incelenmesi amacıyla şikâyet
+konusu ülkelerden gerçekleşen ithalatın miktar temelindeki seyri, pazar
+payı, yerli üretim dalının iç satış fiyatlarını nasıl etkilediği, şikayet konusu ülkenin başvuru konusu üründeki üretim ve
+ihracat kabiliyeti ile yerli üretim dalının ekonomik göstergelerinin durumu
+değerlendirilmiştir.
+(2) İran menşeli şikâyet konusu ürünün ithalatının
+mutlak olarak 2015-2017 döneminde yükseldiği, aynı zamanda 2015-2017 dönemi
+boyunca İran menşeli şikâyet konusu ürünün ithalatının pazar payının da
+arttığı gözlemlenmiştir.
+(3) İran menşeli ithalatın yerli üretim dalının
+fiyatlarını 2017 yılında baskıladığı tespit edilmiştir.
+(4) Yerli üretim dalının 2017 yılında üretim, yurtiçi
+satış miktarının azaldığı, birim ticari maliyetin yükseldiği, kapasite
+kullanım oranının düştüğü ve stoklarının arttığı tespit edilmiştir.
+(5) UTM’de kayıtlı en
+güncel veri olan 2016 yılına ait verilere göre şikâyet konusu ülkenin
+ihracat kabiliyetini önemli ölçüde artırdığı tespit edilmiştir.
+(6) Başvuru aşamasında sunulan deliller ve ithalata
+ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında,
+şikâyet konusu ülkeler menşeli ithalatta görülen artış, şikâyet konusu
+ülkede yerleşik üretici ve ihracatçıların yüksek kapasitesi ve üretim
+kabiliyetleri, yerli üretim dalının ekonomik göstergeleri birlikte
+değerlendirildiğinde dampingli olduğu iddia edilen
+ithalatın Yönetmeliğin 17 nci maddesinin yedinci
+fıkrası çerçevesinde, yerli üretim dalında maddi zarar tehdidine yol açtığı
+değerlendirilmiştir.
+Karar ve
+işlemler
+MADDE 8 – (1) Yönetmeliğin 20 nci
+maddesi çerçevesinde bir damping soruşturmasının
+açılabilmesi için başvuruda yeterli bilgi, belge ve delillerin bulunduğu
+anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu kararı ve
+Ekonomi Bakanının onayı ile İran menşeli 3903.19.00.00.00 GTİP’i altında kayıtlı “Diğerleri” ürününe yönelik
+olarak bir damping soruşturması açılmasına karar verilmiştir.
+Piyasa
+ekonomisinin uygulandığı üçüncü ülkenin seçimi
+MADDE 9 – (1) İran’da
+yerleşik soruşturmaya tabi üretici veya üreticilerin soruşturma konusu
+ürünün üretiminde ve satışında Yönetmeliğin Ek 1 inci maddesindeki ölçütler
+çerçevesinde piyasa ekonomisi koşullarının geçerli olduğunu 12 nci maddede belirtilen süreler içinde yeterli deliller
+ile ispat etmesi durumunda bu üretici veya üreticiler için normal değerin
+tespitinde Yönetmeliğin 5 inci maddesi, aksi takdirde Yönetmeliğin 7 nci maddesi hükümleri uygulanır. Yönetmeliğin 7 nci
+maddesi hükümlerinin tatbiki halinde adı geçen ülke için piyasa ekonomisi
+uygulayan emsal ülke olarak Türkiye’nin seçilmesi öngörülür.
+Soru
+formlarının iletilmesi
+MADDE 10
+– (1) Soruşturma açılmasını
+müteakip, başvuruda belirtilen ve Bakanlıkça tespit edilen soruşturmaya
+konu ürünün bilinen ithalatçılarına, soruşturma konusu ülkede yerleşik
+bilinen üretici/ihracatçılarına ve soruşturmaya konu ülkenin Ankara’daki
+Büyükelçiliğine soruşturmanın açılışına ilişkin bildirimde bulunulur.
+(2) Bildirimde, soruşturma açılış Tebliği,
+başvurunun gizli olmayan özeti ve soru formlarına erişim hususunda bilgiye
+yer verilir.
+(3) Bakanlıkça tespit edilememesi nedeniyle
+bildirim gönderilemeyen veya kendilerine bildirim ulaşmayan diğer ilgili
+tarafların soru formuna Bakanlığın internet sayfasındaki ilgili bölümden
+erişmeleri mümkündür.
+Yetkili
+merci, görüş ve cevapların sunulması
+MADDE 11
+– (1) Soruşturma, Genel Müdürlük
+tarafından yürütülür.
+(2) Soruşturma ile ilgili bilgi, belge, görüş ve
+sorular için aşağıda belirtilen yetkili merci ile iletişime geçilir.
+T.C. Ekonomi Bakanlığı
+İthalat Genel Müdürlüğü
+Damping ve Sübvansiyon Araştırma Dairesi
+Adres: Söğütözü Mah.
+2176. Sok. No:63 Çankaya/ANKARA
+Tel: +90 312 204 75 00 Faks: +90 312 204 86 33
+www.ekonomi.gov.tr
+(3) Soruşturmada “Türkiye’de yerleşik firma, kurum
+ve kuruluşlardan ilgili taraf olmak isteyenler”, soru formlarına cevapları
+ile resmi görüşlerini kendilerine ait KEP adreslerinden Bakanlığın aşağıda
+yer alan KEP adresine gönderir.
+KEP Adresi: ekonomi@hs01.kep.tr
+(4) Soruşturmada “Yurtdışında yerleşik firma, kurum
+ve kuruluşlardan ilgili taraf olmak isteyenler”, soru formlarına cevapları
+ile resmi görüşlerini Bakanlığın aşağıda yer alan EBYS e-posta adresine ve
+posta adresine gönderir.
+EBYS E-posta Adresi: ithebys@ekonomi.gov.tr
+(5) Soruşturmaya ilişkin yazılı ve sözlü iletişim
+Türkçe yapılır. İlgili tarafların soru formuna ilişkin yanıtlarını ve bu
+yanıtlar dışında kalan tüm bilgi, belge, görüş ve taleplerini yazılı olarak
+Türkçe sunmaları gerekir. Türkçe dışında bir dilde sunulan yanıt, bilgi,
+belge, görüş ve talepler dikkate alınmaz.
+(6) İlgili taraflar, soru formunda istenilen
+bilgiler haricinde soruşturmayla ilgili olduğu düşünülen diğer bilgi, belge
+ve görüşlerini, destekleyici deliller ile birlikte Genel Müdürlüğe yazılı
+olarak 12 nci maddenin ikinci fıkrasında
+belirtilen süre içerisinde sunabilir.
+(7) Soruşturmanın sonucundan etkilenebileceklerini
+iddia eden; ancak 10 uncu maddenin birinci ve üçüncü fıkraları kapsamına
+girmeyen meslek kuruluşları, tüketici dernekleri, üretim dalındaki işçi
+veya işveren sendikaları, ürünü girdi olarak kullanan işletmeler gibi diğer
+ilgili taraflar görüşlerini Genel Müdürlüğe yazılı olarak 12 nci maddenin üçüncü fıkrasında belirtilen süre
+içerisinde sunabilir.
+(8) İlgili taraflarca soru formuna verilen
+cevaplar, soruşturmayla ilgili sunulan diğer bilgi, belge ve görüşler ile
+destekleyici deliller aksi belirtilmedikçe yazılı olarak sunulur. Yazılı
+sunumlarda ilgili tarafların isim ve unvanı, adres bilgileri, elektronik
+posta adresi, telefon, faks numaraları belirtilir. “Türkiye’de yerleşik
+firma, kurum ve kuruluşlardan ilgili taraf olmak isteyenler” tarafından
+yazılı sunumlarda kendilerine ait KEP adresleri de belirtilir.
+(9) Soruşturma süresince Yönetmeliğin 22 nci maddesinin ikinci fıkrası çerçevesinde gizlilik
+kaydıyla verilen her türlü bilgi, belge ve görüşün gizli olmayan bir özeti
+sunulur. Gizli olmayan özet, esas bilginin makul ölçüde anlaşılmasına
+olanak sağlayacak ayrıntıda olur. İlgili taraflar, istisnai hallerde bu
+bilgilerin özetlenemeyecek nitelikte olduklarını belirtebilir. Bu gibi
+istisnai durumlarda, bilgilerin özetlenemeyecek nitelikte olmasının
+nedenlerinin belirtilmesi gerekir.
+Süreler
+MADDE 12
+– (1) 10 uncu maddenin birinci
+fıkrasında belirtilen bildirimin gönderildiği bütün ilgili taraflar için
+soru formunu cevaplandırma süresi, soruşturmanın açılışına ilişkin
+bildirimin gönderildiği tarihten itibaren posta süresi dâhil 37 gündür.
+(2) 10 uncu maddenin üçüncü fıkrasında yer alan
+bildirimin gönderilemediği ilgili taraflar ile 11 inci maddenin altıncı
+fıkrasında belirtilen bütün ilgili taraflar, soruşturma ile ilgili
+görüşlerini ve soru formuna ilişkin cevaplarını bu Tebliğin yayımı tarihinden
+itibaren başlayacak 37 günlük süre içerisinde sunabilir.
+(3) Soruşturmanın sonucundan etkilenebileceklerini
+iddia eden 11 inci maddenin yedinci fıkrası kapsamına giren diğer ilgili
+taraflar, soruşturma ile ilgili görüşlerini bu Tebliğin yayımı tarihinden
+itibaren soruşturmanın akışını etkilemeyecek şekilde soruşturma süreci
+içerisinde sunabilir.
+İşbirliğine
+gelinmemesi
+MADDE 13
+– (1) Yönetmeliğin 26 ncı maddesi hükmü çerçevesinde, ilgili taraflardan
+birinin verilen süreler dâhilinde ve istenilen biçimde gerekli bilgi ve
+belgeleri sağlamaması ya da bu bilgi ve belgelere erişimi reddetmesi veya
+soruşturmayı engellediğinin anlaşılması veya yanlış ya da yanıltıcı bilgi
+vermesi hallerinde söz konusu taraf işbirliğine gelmemiş sayılır. Bu gibi
+hallerde soruşturma kapsamındaki geçici veya nihai belirlemeler, olumlu ya
+da olumsuz şekilde, mevcut verilere göre yapılır.
+(2) İlgili tarafların işbirliğine gelmemesi veya
+kısmen işbirliğine gelmesi halinde bahse konu taraf için soruşturmanın
+sonucu işbirliğine gelinmesine nazaran daha az avantajlı olabilir.
+Geçici
+önlem alınması ve önlemlerin geriye dönük uygulanması
+MADDE 14 – (1) Kanun ve Kararın ilgili hükümleri uyarınca,
+soruşturma süresince geçici önlem uygulanması kararlaştırılabilir ve kesin
+önlem geriye dönük olarak uygulanabilir.
+(2) Önlemlerin uygulanmasında başlamış işlem
+kavramı ve istisnası bulunmamaktadır.
+Soruşturmanın
+başlangıç tarihi
+MADDE 15
+– (1) Soruşturma, bu Tebliğin
+yayımı tarihinde başlamış kabul edilir.
+Yürürlük
+MADDE 16
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Tebliğ hükümlerini
+Ekonomi Bakanı yürütür.
