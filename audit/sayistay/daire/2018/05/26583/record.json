@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "137",
+  "decision_date": "2018-05-22",
+  "source_id": 26583,
+  "chamber": "8",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26583/",
+  "source_sha256": "e8fdb06fa9a006fcc887c79677abde8e1eed335fd05d9da007a0573b19cf9b90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
