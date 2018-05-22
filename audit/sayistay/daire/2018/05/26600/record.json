@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "549",
+  "decision_date": "2018-05-22",
+  "source_id": 26600,
+  "chamber": "6",
+  "ilam_number": "380",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26600/",
+  "source_sha256": "4a1f77d590a9935922398b9176a071dcd292ae3a995ff86995388ca8b7e9c960",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
