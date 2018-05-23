@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44533",
+  "decision_date": "2018-05-23",
+  "source_id": 16011,
+  "chamber": "6",
+  "file_number": "42798",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/16011/",
+  "source_sha256": "155afb16c1f8676d540d54faa9bdcb036ae4eca0a567692f98b838a5747d6634",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
