@@ -1,0 +1,20 @@
+{
+  "applicant": "B.B.",
+  "application_date": "2015-08-24",
+  "application_number": "2015/14805",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-05-23",
+  "id": "9c46b82f-48aa-42a4-d10d-146734cd92eb",
+  "in_force": "2018-05-23",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjljNDZiODJmLTQ4YWEtNDJhNC1kMTBkLTE0NjczNGNkOTJlYg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "51384366ac359a3613d7af8726ae51aa45cbf847021cdc51622d939af0af97af",
+  "version_label": "as-enacted"
+}
