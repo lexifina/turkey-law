@@ -1,0 +1,542 @@
+23 Mayıs 2018 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30429
+YÖNETMELİK
+Enerji ve Tabii Kaynaklar Bakanlığından:
+MADEN BÖLGELERİNE VE RUHSATLARIN TAŞINMASINA
+İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı;
+a) Birbirine bitişik ve/veya yakın I. Grup, II.
+Grup (a) bendi ve IV. Grup (b) bendi maden sahalarında tek başına yapılan
+maden işletme faaliyetlerinin; çevresel etkileri, şehirleşme, işletme
+güvenliği, rezervin verimli işletilmesi ve benzeri sebeplerden dolayı
+oluşturduğu olumsuz etkilerin ortadan kaldırılması amacıyla yapılacak proje
+ve planlama çerçevesinde maden bölgesinin ilan edilmesine, bu ruhsatların
+yeni ruhsatta birleştirilerek oluşturulacak maden bölgesinde ortak proje
+kapsamında maden işletme faaliyetlerinde bulunulmasına,
+b) Aynı grup ruhsatlar için maden bölgesinin
+oluşturulması amacıyla ruhsatların birleştirilmesi, taksiri, iptali, ihale
+edilmesi, yeniden ruhsatlandırılması, ruhsatlardaki yatırım giderlerinin
+belirlenmesi ve ödenmesine,
+c) Maden bölgesi içerisinde yer alacak ruhsatların
+maden rezervlerinin ve kurulacak tüzel kişilikte bu ruhsat sahiplerinin
+rezervlerine göre hisse paylarının hesaplanmasına,
+ç) Bir veya birden fazla il sınırına giren maden
+bölgeleri komisyonu oluşturulması, toplanması, çalışma süresi, görev ve
+yetkileri, maden bölgelerindeki faaliyetlerin incelenmesi, kontrol edilmesi
+ve denetlenmesine,
+d) Şehirleşme, çevresel ve benzeri etkiler dikkate
+alınarak bazı alanlardaki I. Grup ve II. Grup (a) bendi maden ruhsatlarının
+bir proje ve plana göre taşınmasına, taşınacak ruhsatların rezervlerinin
+hesaplanmasına,
+ilişkin usul ve esasları düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 4/6/1985 tarihli ve 3213 sayılı
+Maden Kanununa dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Enerji ve Tabii Kaynaklar Bakanını,
+b) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+c) Bitişik maden sahaları: Ruhsatların kenarlarının
+en az birinde ortak sınırı olan, aynı havzaya ait, rezerv sürekliliği
+bulunan maden ruhsat sahalarını,
+ç) Eşdeğer rezerv: Maden bölgesi sınırları içinde
+yer alan aynı grup ruhsatlara ait farklı özellikteki kaynak rezervlerinin,
+maliyet ve/veya satış fiyatını etkileyen parametrelerin dikkate alınmasıyla
+belirlenen katsayı ile çarpımı sonucu elde edilen rezervi,
+d) Genel Müdürlük: Maden İşleri Genel Müdürlüğünü,
+e) İlgili belediye: Maden bölgesinin sınırlarının
+içerisinde bulunduğu büyükşehir veya il belediyesini,
+f) Kanun:
+4/6/1985 tarihli ve 3213 sayılı Maden Kanununu,
+g) Kaynak: Yerkabuğunda ve derinliklerinde; biçim,
+nitelik ve nicelik olarak muhtemel ekonomik beklentileri karşılayacak katı,
+sıvı ve gaz birikimlerini,
+ğ) Kısıtlama: Valilik görüşü ve Bakan onayı ile I.
+Grup ve II. Grup (a) bendi madenlere ilişkin madencilik faaliyetlerinin
+belirli bir bölgede kapatılması işlemini,
+h) Maden Bölgesi: Birbirine bitişik ve/veya yakın,
+kaynak sürekliliği olan maden sahalarında yapılan maden işletme
+faaliyetlerinin; çevresel etkileri, şehirleşme, işletme güvenliği, rezervin
+verimli işletilememesi ve benzeri sebeplerden dolayı oluşturduğu olumsuz
+etkilerin ortadan kaldırılması amacıyla yapılacak proje ve planlama çerçevesinde
+Genel Müdürlüğün teklifi ve Bakan onayı ile ilan edilen alanları,
+ı) Maden bölgesi komisyonu: Maden bölgesi ilan
+edilen alanlara verilecek ruhsattaki madencilik faaliyetlerini kontrol
+etmek üzere faaliyet gösterecek olan valilikten bir kişi, ilgili
+belediyeden bir kişi ve ruhsat sahibi şirket temsilcilerinden iki kişi
+olmak üzere dört kişiden oluşan Komisyonu,
+i) Ruhsat
+Birleştirme Taahhütnamesi: Maden bölgesi ilan edilen alanda yer alan
+ruhsatların sahipleri tarafından, her bir ruhsatı için ayrı ayrı noter veya
+Genel Müdürlükçe yetkilendirilen personel huzurunda imzalanan belgeyi
+(Ek-1),
+j) Rezerv
+tespit raporu: Genel Müdürlük koordinasyonunda, üniversiteler, ilgili kamu
+kurum ve kuruluşları ve/veya Ulusal Maden Kaynak ve Rezerv Raporlama
+Komisyonunca yetkilendirilen yetkin kişi tarafından düzenlenen jeolojik,
+hidrojeolojik, jeofizik, haritalama, sondaj, analiz, test gibi rezerve ait
+teknik veriler kullanılarak bilimsel yöntemlerle maden rezervinin üç
+boyutlu olarak ortaya çıkartılmasına ve eşdeğer rezervlerin belirlenmesine
+yönelik raporu,
+k) Ruhsat taksiri: Bir maden ruhsatının belirli bir
+alanının ruhsattan çıkartılarak küçültülmesini,
+l) Ruhsat Taşıma Taahhütnamesi: Kısıtlanan alandaki
+mevcut ruhsat sahiplerinin ruhsatlarının yeni bir alana taşınmasını kabul
+ettiklerine dair her bir ruhsatı için ayrı ayrı noter veya Genel Müdürlükçe
+yetkilendirilen personel huzurunda imzaladıkları belgeyi (Ek-2),
+m) Ruhsatların taşınması: I. Grup ve II. Grup (a)
+bendi ruhsat alanlarındaki madencilik faaliyetlerinin şehirleşme, çevresel
+ve benzeri etkiler nedenleriyle yapılamaz duruma gelmesi halinde, ruhsat
+veya ruhsatların aynı il sınırları içinde veya yakın alanlarda belirlenen
+sahalara taşınmasını,
+n) Şirket: Maden bölgesindeki ruhsatların toplam
+eşdeğer rezervinin en az yarısına tekabül eden ruhsatların sahiplerinin ve
+ruhsat birleştirmeyi kabul eden tüm ruhsat sahiplerinin ortak olacağı, bu
+ortakların uygun görmeleri halinde üçüncü şahısların veya tüzel kişilerin
+de ortak olabileceği, maden bölgesi ilan edilen alanda yer alan ruhsatların
+birleştirilmesi ile oluşturulacak yeni ruhsatın adına düzenleneceği, tüzel
+kişiliği haiz şirketi/şirketleri,
+o) Şirketteki ortaklık payları: Maden bölgesi
+alanında yer alan ruhsatların sahiplerinin; kendi aralarında anlaşamamaları
+halinde maden bölgesindeki ruhsatların toplam eşdeğer rezervinde her bir
+ruhsatın eşdeğer rezervinin paylarını, kendi aralarında anlaşmaları halinde
+ise ruhsat sahiplerinin belirledikleri şirket ortaklık paylarını,
+ö) Yakın maden sahaları: Ruhsatların herhangi bir
+kenarında ortak sınırı olmayan, aralarında maden ruhsatı bulunmayan, kaynak
+sürekliliği olan maden ruhsat sahalarını,
+p) Yatırım gideri: Bir projenin işletmeye geçmesine
+yönelik 21/9/2017 tarihli ve 30187 sayılı Resmî Gazete’de yayımlanan Maden
+Yönetmeliğinde belirlenen varlık ve hizmetler için harcanan toplam tutarı,
+r) Yeni ruhsat: Maden bölgesi sınırları içinde
+kalan ruhsatların, hazırlanan proje ve plana göre birleştirilerek şirket
+adına düzenlenen ruhsatı/ruhsatları,
+ifade eder.
+İKİNCİ BÖLÜM
+Maden Bölgesinin Belirlenmesi, İlanı ve Tebliği
+Maden
+bölgesi ilan edilmesi şartları
+MADDE 4 – (1) Maden bölgesi ilan edilebilmesi için; I. Grup,
+II. Grup (a) bendi ve IV. Grup (b) bendi ruhsatlarda; ortak projelendirme,
+planlama ve işletme projesiyle maden işletmeciliği yapılabilecek kaynak
+olması kaydıyla;
+a) Ruhsatların birbirine bitişik ve/veya yakın
+olması nedeniyle açık işletmenin şev açısı ve basamaklarının tehlike arz
+etmesi,
+b) Maden işletmelerinin, ruhsat sınırına dayanması
+nedeniyle işletme projelerinin ayrı ayrı uygulanmasının işletme güvenliği
+açısından risk oluşturması ve verimli işletilememesi,
+c) Birden fazla işletme ruhsatında; işletme
+esnasında, nakliyede, patlatmada, kırma-elemede ve benzeri faaliyetlerde
+toz, partikül gibi hususların emisyon değerlerinin yıllık ölçüm
+ortalamasının çevre standart limitlerinin üzerinde olması,
+ç) Yerleşim alanına, imar planlarına yakınlığı ve
+çevresel etkileri nedenleriyle ruhsatlarda ortak işletmeye ihtiyaç
+duyulması,
+şartlarından en az birinin oluşması gerekir.
+(2) Kamu kurumlarının uhdesinde bulunan hammadde
+üretim izinli sahaların maden bölgelerine dâhil edilmesi durumunda izin
+sahibi kamu kurumunun görüşü alınır.
+(3) Maden bölgesinin alanının askeri yasak ve
+güvenlik bölgeleri ile çakışması halinde bu alanlar Genelkurmay
+Başkanlığından uygun görüş alınarak maden bölgesi alanına dâhil edilebilir.
+Askeri yasak ve güvenlik bölgelerinin maden bölgesi ile çakışan
+kısımlarında madencilik üretim faaliyetleri, Kanun kapsamında projesine
+uygun olarak ve çevresel etki değerlendirmesi raporunda belirtilen esaslar
+dâhilinde Genelkurmay Başkanlığından uygun görüş alınarak yapılır.
+Maden
+bölgesi teklifi ve talebi
+MADDE 5 – (1) Genel Müdürlük, yaptığı inceleme ve denetim
+sonucunda maden bölgesi ilan edilmesi şartlarının oluştuğunu
+değerlendirdiği alanda, maden bölgesi ilan edilmesini teklif edebilir.
+(2) Maden bölgesi ilan edilmesinin şartlarının
+oluştuğu alandaki ruhsatların toplam eşdeğer rezervinin en az yarısına
+tekabül eden kısmını temsil eden ruhsat sahipleri, ruhsatlarının yeni
+ruhsatta birleştirilmesini ve yeni ruhsatın ortak olacakları şirket adına
+düzenlenmesini kabul ettiklerini yazılı olarak beyan ederek, maden bölgesi
+oluşturulmasını Genel Müdürlükten talep edebilir.
+Maden
+bölgesi talebinin değerlendirilmesi
+MADDE 6 – (1) Maden bölgesi talebi, Genel Müdürlük
+tarafından değerlendirilerek;
+a) Maden bölgesi şartlarının oluştuğunun tespiti
+halinde maden bölgesi sınırlarının belirlenmesi çalışmalarına başlanacağı,
+b) Maden bölgesi şartlarında eksiklik tespit
+edilmesi halinde, ruhsat sahiplerine ek teknik çalışma yaptırılarak altı
+aylık süre içerisinde eksikliklerin tamamlanması, aksi takdirde talebin
+reddedileceği,
+c) Maden bölgesi şartlarının oluşmadığının tespiti
+halinde talebin reddedildiği,
+talep sahiplerine bildirilir.
+Maden
+bölgesinin belirlenmesi
+MADDE 7 – (1) Genel Müdürlük tarafından;
+a) Maden bölgesi sınırlarının belirlenmesi,
+b) Kanun ve Maden Yönetmeliğine göre ruhsatların
+yatırım giderlerinin tespiti,
+c) Maden bölgesindeki ihalelik sahaların ve
+ruhsatsız alanların ihale taban bedelinin belirlenmesi,
+ç) Rezerv tespit raporuna göre maden bölgesinde yer
+alan her bir ruhsatın eşdeğer rezervinin, ruhsatlı alanlardaki toplam
+eşdeğer rezervdeki payını esas alarak, her bir ruhsat sahibinin şirketteki
+ortaklık payının tespiti,
+d) Maden bölgesi projesi ve planının hazırlanması,
+çalışmaları yapılır veya yaptırılır.
+(2) Genel Müdürlük, teknik çalışmalar sonucunda
+maden bölgesinin nihai sınırlarını belirler.
+(3) Genel Müdürlük, maden bölgesi ilan edilecek
+alanda yer alan ruhsatların, Kanunun 16 ncı maddesindeki alan sınırlamasına
+bağlı kalmaksızın yeni ruhsatta birleştirileceğini belirler.
+Maden
+bölgesi ilan edilmesi ve tebliği
+MADDE 8 –
+(1) 6 ncı ve 7 nci maddelerdeki
+çalışmalar bir rapor haline getirilir. Genel Müdürlüğün teklifi ve Bakan
+onayı ile maden bölgesi ilan edilir ve Resmî Gazete’de yayımlanır.
+(2) Resmî Gazete ilanında;
+a) Maden bölgesinin adı, paftası ve koordinatları,
+b) Maden bölgesi içinde kalan ruhsatların sicil
+numaraları, ihalelik sahaların ve ruhsatsız alanların erişim numaraları,
+c) Maden bölgesi içinde kalan her bir ruhsatın
+eşdeğer rezervi,
+ç) Maden bölgesindeki ruhsatların toplam eşdeğer
+rezervi,
+d) Maden bölgesi içerisinde kalan her bir ruhsatın
+eşdeğer rezervinin, maden bölgesindeki ruhsatların toplam eşdeğer rezervine
+oranı,
+e) İhalelik sahalar ve ruhsatsız alanların ihale
+taban bedeli ve eşdeğer rezerv miktarları,
+f) Ruhsatlardaki ruhsat sahibi ve/veya
+rödövansçının yatırım gideri tutarları,
+g) Maden bölgesi projesi özet bilgileri,
+ğ) Adına yeni ruhsat düzenlenecek şirketi kurmaları
+için ruhsatların sahiplerine verilen süre,
+h) Ruhsat Birleştirme Taahhütnamesi ve ruhsat
+sahiplerine bu taahhütnameyi imzalayarak Genel Müdürlüğe ibraz etmesi için
+verilen süre,
+yer alır.
+(3) Ruhsat sahiplerine maden bölgesi ilanı ile
+ilgili ayrıca tebligat yapılmaz.
+ÜÇÜNCÜ BÖLÜM
+Maden Bölgesindeki Ruhsatların Birleştirilmesi,
+Taksiri,
+İptal Edilmesi ve İhale Edilmesi
+Süreler
+MADDE 9 – (1) Maden bölgesi içinde kalan ruhsatların
+sahiplerine, ruhsat birleştirme taahhütnamesini imzalayarak Genel Müdürlüğe
+ibraz etmeleri için bir aydan az olmamak üzere üç aya kadar, adına yeni
+ruhsat düzenlenecek şirket kurmaları için üç aydan az olmamak üzere ise
+altı aya kadar süre verilir. Bu süreler, maden bölgesi ilanının Resmî
+Gazete’de yayımlanmasından itibaren yedi gün sonra başlar.
+(2) Ruhsat birleştirme taahhütnamesinin imzalanarak
+Genel Müdürlüğe ibraz edilmesi için verilen sürenin üç aydan az olması
+halinde Genel Müdürlük, bu süreyi üç aya kadar ve şirket kurmak için
+verilen sürenin altı aydan az olması halinde ise altı aya kadar uzatabilir.
+Bu süre uzatımları Resmî Gazete’de yayımlanır.
+(3) Şirket kurulumunun tamamlanmasından itibaren
+birleşmeye dâhil olmayan ruhsat sahiplerinin yatırım giderlerinin ödenmesi,
+ihalelik sahaların ve ruhsatsız alanların ihale taban bedelinin ödenmesi
+için şirkete altı ay süre verilir, bu süre uzatılamaz.
+Ruhsatların
+birleştirilmesi
+MADDE 10 – (1) Maden bölgesindeki ruhsatlar yeni ruhsatta
+Kanunun 16 ncı maddesindeki alan sınırlamasına bağlı kalmaksızın
+birleştirilebilir.
+(2) Resmî Gazete’de yayımlanan maden bölgesi
+ilanında ruhsat sahiplerine ruhsat birleştirme taahhütnamesini imzalayarak
+Genel Müdürlüğe ibraz etmeleri için verilen süre sonuna kadar, ruhsat
+birleştirme taahhütnamesini imzalayarak Genel Müdürlüğe ibraz etmeyen
+ruhsat sahipleri, ruhsatlarının birleştirilmesini ve şirkete ortak olmayı
+kabul etmemiş, ruhsatları için belirlenen yatırım giderlerinin ödenmesini
+müteakip ruhsatlarının iptal edilerek maden bölgesi kapsamında düzenlenecek
+yeni ruhsat sahasına dâhil edilmesini kabul etmiş sayılır. Ruhsat birleştirme
+taahhütnamesini imzalayarak Genel Müdürlüğe verilen süre içerisinde ibraz
+eden ruhsat sahiplerinin listesi bu sürenin bitiminden itibaren iki gün
+içerisinde Genel Müdürlüğün internet sayfasında yayınlanır. İlgililere
+ayrıca tebligat yapılmaz.
+(3)
+Ruhsatların birleştirilmesi, maden bölgesindeki ruhsatların toplam eşdeğer
+rezervinin en az yarısına tekabül eden kısmını temsil eden en az iki ruhsat
+sahibinin verilen süre içerisinde ruhsat birleştirme taahhütnamesini imzalayarak
+Genel Müdürlüğe ibraz etmeleri halinde gerçekleştirilir.
+(4) Verilen süre içerisinde ruhsat birleştirme taahhütnamesini
+imzalayarak Genel Müdürlüğe ibraz eden ruhsat sahibi sayısının iki olması
+durumunda ise ruhsatlardan birinin eşdeğer rezervi, ruhsatlardaki toplam
+eşdeğer rezervin en az yüzde onu kadar olmak zorundadır.
+(5) Verilen süre içerisinde ruhsat birleştirme
+taahhütnamesini imzalayarak Genel Müdürlüğe ibraz eden ruhsat sahiplerinin
+tümünün, şirket kurmak için verilen süre içerisinde şirketteki ortaklık
+paylarına uygun olarak ve adına yeni ruhsat düzenlenecek şirketi kurmaları
+zorunludur.
+(6) Üçüncü, dördüncü ve beşinci fıkralardaki
+şartların tamamının sağlanması durumunda şirket adına yeni ruhsat
+düzenlenir, aksi takdirde maden bölgesi içerisindeki tüm ruhsatlar iptal
+edilir.
+(7) Düzenlenen yeni ruhsata ilişkin çevresel etki
+değerlendirme işlemi, mülkiyet ile işyeri açma ve çalışma ruhsatları ve
+ilgili mevzuatı kapsamında alınması gereken tüm izinler, maden bölgesi için
+oluşturulan şirket tarafından alınır. Ayrıca bu izinler alınıncaya kadar
+önceki izinler kapsamında işletme faaliyetlerinin devamı sağlanır.
+(8) Maden bölgesi içerisindeki ihalelik sahalar ve
+ruhsatsız alanlar için belirlenen ihale taban bedelinin şirket tarafından,
+şirket kurulumunun tamamlanmasından itibaren altı ay içerisinde genel
+bütçeye gelir kaydedilmek üzere ilgili muhasebe birimi hesabına yatırılarak
+yazılı olarak Genel Müdürlüğe bildirilmesi halinde, bu ihalelik sahalar ve
+ruhsatsız alanlar yeni ruhsata ilave edilir. İhale taban bedelinin
+belirlenen süre içerisinde yatırılmaması durumunda ilan edilen maden
+bölgesi içerisindeki tüm ruhsatlar iptal edilir.
+(9) Verilen süre içerisinde ruhsat birleştirme
+taahhütnamesini imzalayarak Genel Müdürlüğe ibraz etmeyen ruhsat
+sahiplerinin yatırım giderleri ile bu ruhsat sahiplerinin rödövansçılarının
+yatırım giderleri şirket tarafından şirket kurulumunun tamamlanmasından
+itibaren altı ay içerisinde ödenir. Yatırım giderlerinin ödenmesini
+müteakip birleşmeye dâhil olmayan ruhsat sahiplerinin uhdesindeki ruhsatlar
+iptal edilir ve bu ruhsat alanları yeni ruhsata ilave edilir. Bu yatırım
+giderlerinin, adına yeni ruhsat düzenlenen şirket tarafından, şirket
+kurulumunun tamamlanmasından itibaren altı ay içinde ödenmemesi hâlinde
+maden bölgesi içerisindeki tüm ruhsatlar iptal edilir.
+(10) Tamamı maden bölgesi içerisinde kalan
+ruhsatlar yeni ruhsata ilave edilerek iptal edilir. Tamamı maden bölgesi
+içerisinde kalmayan ruhsatların maden bölgesinde kalan kısmı taksir
+edilerek yeni ruhsata ilave edilir, dışında kalan kısmının ise ruhsat hukuku
+devam eder.
+(11) Kurulan şirkete ortak olan ruhsat
+sahiplerinin, maden bölgesi ilan edilmeden önceki ruhsatlarından ve/veya
+ruhsat alanlarından kaynaklanacak mülkiyet bedeli, kiralama bedeli, orman
+izin bedelleri, mera tahsis değişikliği bedeli, kamulaştırma bedeli, rödövansçı
+yatırım gideri, rödövansçının her türlü hak ve alacak taleplerini, haciz,
+ipotek ve diğer takyidatları, Kanun kapsamındaki ruhsat harcı, çevre uyum
+teminatı, ruhsat bedeli, çevre uyum bedeli, devlet hakları ve idari para
+cezaları gibi her türlü ödemelere ilişkin sorumluluğu yeni ruhsat
+düzenlendikten sonra da devam eder. Bu ödemelerin maden bölgesinde faaliyet
+gösteren şirket tarafından yapılması durumunda, ödenen tutar ilgili ruhsat
+sahibi tarafından şirkete ödenir. Ödenmemesi halinde şirket tarafından
+ilgili ruhsat sahibinin şirketteki payına düşen gelirinden ve/veya
+şirketteki ortaklık payından mahsuben ödenir.
+(12) Maden bölgesi içerisinde kalan ruhsatlara
+ilişkin Kanun kapsamında tahsil edilmiş çevre uyum teminatı ve/veya çevre
+uyum bedelleri iade edilmez, bunlar yeni ruhsata devredilir.
+(13) Maden bölgesi içerisinde kalan ruhsatlara
+ilişkin Kanun kapsamında alınmış ruhsat teminatı, bu ruhsatlara ilişkin
+Kanundan kaynaklanan ruhsat harcı, çevre uyum teminatı, ruhsat bedeli,
+çevre uyum bedeli, devlet hakları ve idari para cezalarının ödenmesi
+halinde ilgili ruhsat sahibine iade edilir.
+(14) Maden bölgesi ilanının Resmî Gazete’de yayımı
+tarihinde mevcut rödövans sözleşmeleri Kanun gereği iptal edilmiş sayılır.
+(15) Maden bölgesi ilan edilen alanda, yeni
+rödövans sözleşmesi yapılamaz.
+(16) Yatırım giderlerinin ödeneceği banka hesap
+numaraları ilgili ruhsat sahipleri ve/veya rödövansçıları tarafından Genel
+Müdürlüğe bildirilir. Bildirilmemesi halinde Genel Müdürlükçe açılacak
+emanet hesabına alınır.
+Ruhsatların
+iptal edilerek ihale edilmesi
+MADDE 11 – (1) 10 uncu maddenin altıncı, yedinci ve sekizinci
+fıkraları kapsamında iptal edilen ruhsatlara ilişkin Genel Müdürlükçe
+tespit edilen yatırım giderleri Bakanlık bütçesinden karşılanır. Bu
+sahalar, alan sınırlamasına bağlı kalmaksızın Genel Müdürlük tarafından
+belirlenen kriterlere ve 21/9/2017 tarihli ve 30187 sayılı Resmî Gazete’de
+yayımlanan Maden Sahaları İhale Yönetmeliğine göre ihale edilerek
+ruhsatlandırılır.
+(2) Birinci fıkra kapsamında ihale edilen sahaların
+ihale taban bedeli, rezerv tespit çalışmaları için yapılan harcamalar ve
+iptal edilen ruhsatlar için Bakanlık bütçesinden karşılanan yatırım
+giderleri toplamından az olamaz.
+(3) İptal edilen ruhsat sahipleri ve/veya
+rödövansçıları tarafından yatırım giderlerinin ödeneceği banka hesap
+numaraları Genel Müdürlüğe bildirilir. Bildirilmemesi halinde Genel
+Müdürlükçe açılacak emanet hesabına alınır.
+DÖRDÜNCÜ BÖLÜM
+Maden Bölgesi Komisyonu
+Maden
+bölgesi komisyonunun teşkili
+MADDE 12 – (1) Maden bölgesi kapsamında yeni ruhsat
+düzenlendiğinin valiliğe bildirmesini müteakip, valilik tarafından bir ay
+içerisinde maden bölgesi komisyonu kurulur.
+(2) Maden bölgesi komisyonu sekretarya hizmetleri,
+büyükşehirlerde yatırım izleme ve koordinasyon başkanlığınca, diğer illerde
+ise il özel idaresince yürütülür.
+(3) Maden bölgesi komisyonu, valilik ve ilgili
+belediyeden birer kişi ve ruhsat sahibi şirketi temsilen şirketin valiliğe
+bildirmiş olduğu iki kişi olmak üzere toplam dört kişiden oluşur. Maden
+bölgesi komisyonu üyeleri ve başkanı valilik tarafından görevlendirilir.
+(4) Maden bölgesi komisyon üyelerinin, üyeliğinin
+herhangi bir nedenle sona ermesi halinde yerlerine aynı usul ile
+görevlendirme yapılır.
+(5) Maden bölgesi ilan edilen alanın birden fazla
+il sınırına girmesi halinde, en fazla alanın içerisinde bulunduğu ilde
+maden bölgesi komisyonu kurulur.
+(6) Maden bölgesi komisyonu toplantısının gündemi,
+yeri, tarihi ve saati başkan tarafından belirlenir ve üyelere önceden
+bildirilir.
+(7) Maden bölgesi komisyonu ayda en az bir defa
+toplanır. Maden bölgesi komisyonu toplantıları tutanak ve imza altına
+alınır.
+(8) Maden bölgesi komisyonunun toplantı ve karar
+yeter sayısı üçtür.
+(9) Maden bölgesi komisyonu, bu maddede belirtilen
+hususlar dışında kendi çalışma usul ve esaslarını belirler.
+Maden
+bölgesi komisyonunun görev ve yetkileri
+MADDE 13 – (1) Maden bölgesi komisyonun görev ve yetkileri
+aşağıda sayılmıştır:
+a) Madencilik faaliyetlerinin proje ve plana göre
+yürütülmesini sağlamak.
+b) Madencilik faaliyetlerinin çevreye ve insan
+sağlığına etkilerini kontrol ederek gerekli tedbirlerin alınması için
+kontrol ve ölçümleri gerçekleştirmek.
+c) İşletme güvenliği ile ilgili yapılan
+uygulamaları kontrol etmek ve önerilerde bulunmak.
+ç) Madencilik faaliyetlerinin yerine
+getirilebilmesi, gerekli altyapının sağlanması için valiliğin ve/veya
+ilgili belediyenin imkân ve kabiliyetlerini kullanmak, gerektiğinde hizmet
+alımı yapmak.
+d) Madencilik faaliyetlerinin kontrolleri sonucunda
+komisyona sunulan raporları inceleyerek, karara bağlamak ve bu kararları
+şirkete yazılı olarak bildirmek.
+e) Gerektiğinde geçici faaliyet durdurma
+kararlarını almak ve bu kararı bir gün içerisinde Genel Müdürlüğe
+bildirmek.
+Maden
+bölgesi komisyonu gelirleri, harcama usulleri ve denetimi
+MADDE 14 – (1) Şirket tarafından ocak başı satış tutarının
+binde beşi, büyükşehirlerde yatırım izleme ve koordinasyon başkanlığı,
+diğer illerde ise il özel idaresi tarafından maden bölgesi komisyonunun
+faaliyetleri için açılan hesaba her yıl Haziran ayının son günü mesai
+bitimine kadar yatırılır.
+(2) Ocak başı satış tutarının binde beşinin süresi
+içerisinde yatırılmaması durumunda üretim ve satış faaliyetleri maden
+bölgesi komisyonu tarafından geçici olarak durdurulur.
+(3) Maden bölgesi komisyonunun maden bölgesi ile
+ilgili yaptığı harcamalar, bu hesaptan karşılanır. Maden bölgesi
+komisyonunun geliri başka bir faaliyet için kullanılamaz.
+(4) Maden bölgesi komisyonunun harcamaları,
+31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de
+yayımlanan Merkezi Yönetim Harcama Belgeleri Yönetmeliğine göre yapılır.
+Valilik bu hesabı ve harcamaları denetler.
+Faaliyetlerin
+denetlenmesi
+MADDE 15 – (1) Genel Müdürlük, ihtiyaç duyması halinde maden
+bölgeleri ile ilgili tüm faaliyetleri inceler, denetler ve denetim
+sonucuyla ilgili yapılacak işlem varsa ilgili merciye bildirir.
+(2) Maden bölgesi komisyonunca alınan kararlar,
+raporlar, bilgi ve belgeler maden bölgesi komisyonu sekretarya hizmetlerini
+yürüten idare tarafından uygun şekilde arşivlenir. Denetimlerde talep
+halinde ilgililere ibraz edilir.
+BEŞİNCİ BÖLÜM
+Faaliyetlerin Kısıtlanması ve Ruhsatların Taşınması
+Faaliyetlerin
+kısıtlanması
+MADDE 16 – (1) I. Grup ve II. Grup (a) bendi bazı ruhsat
+sahalarında yürütülen madencilik faaliyetlerinin şehirleşme, çevresel ve
+benzeri etkileri dikkate alınarak;
+a) Madencilik faaliyetlerinin şehrin içinde kalması
+ve madencilik faaliyetlerinin yapılamaz duruma gelmesi, şehrin
+projelendirilmesini ve planlanmasını etkilemesi,
+b) Delme, patlatma, üretim, kırma-eleme, yükleme,
+nakliye, stoklama gibi madencilik faaliyetleri sonucunda oluşan çevresel
+etkilerin yıllık ortalama değerinin, belirlenen limit değerlerin üzerinde
+olması,
+c) Madencilik faaliyetlerinin işletme güvenliği
+açısından tehlike oluşturması,
+durumlarından herhangi birinin, Genel Müdürlük
+koordinasyonuyla valilik veya ilgili belediyenin, üniversite ve/veya
+ihtisaslaşmış devlet kuruluşlarına yaptıracağı çalışma sonucunda tespiti
+halinde valiliğin görüşü, Genel Müdürlüğün teklifi ve Bakan onayı ile
+kısıtlanabilir.
+(2) Alınan kısıtlama kararı ilgili ruhsat
+sahiplerine, rödövansçılara, valiliğe ve belediyeye bildirilir.
+(3) Genel Müdürlük koordinasyonuyla valilik ve
+ilgili belediyenin, üniversite ve/veya ihtisaslaşmış devlet kuruluşlarına
+yaptırılacak proje ile kısıtlanacak alana alternatif yeni alanlar
+belirlenir.
+(4) Kısıtlama getirilen alandaki madencilik
+faaliyetleri, yeni ruhsat sahasındaki üretim faaliyetlerinin başladığı
+tarihte sona erdirilir ve bu tarih kısıtlama getirilmesinden itibaren altı
+ayı geçemez.
+(5) Üretim faaliyetleri sona erdirilen kısıtlanan
+alanlara ilişkin, Kanunun 32 nci maddesi kapsamında işlem tesis edilir.
+Ruhsatların
+taşınması
+MADDE 17 – (1) Kısıtlanan alandaki I. Grup ve II. Grup (a)
+bendi maden ruhsatları, Bakan onayı ile belirlenen alternatif alana
+taşınarak ruhsatlandırılabilir. Ruhsatların taşınması aşağıdaki hususlara
+göre yapılır:
+a) Yeni alandaki toplam rezerv miktarı belirlenir.
+İhalelik sahalar da yeni alana dâhil edilir.
+b) Taşınacak ruhsatlardaki rezerv ve eşdeğer rezerv
+miktarı ile toplam rezervdeki payı belirlenir.
+c) Taşınacak ruhsatlar için toplam eşdeğer rezerve
+göre, ayrı ayrı yeni ruhsatlandırma yapılabilir.
+(2) Birinci fıkranın (a) ve (b) bentlerindeki
+hususlara yönelik proje, Genel Müdürlük koordinasyonunda, valilik ve/veya
+ilgili belediye tarafından üniversite ve/veya ihtisaslaşmış devlet
+kuruluşlarına yaptırılabilir.
+(3) Ruhsatların taşınacağı alan, maden bölgesinde veya
+başka bir alanda olabilir.
+(4) Genel Müdürlük gerek görmesi halinde yeni
+alanda madencilik faaliyetlerinin ortak bir proje çerçevesinde yapılmasına
+karar verebilir.
+(5) I. Grup ve II. Grup (a) bendi ruhsatların, 16
+ncı madde kapsamında kısıtlanması ve bu maddenin birinci fıkrası kapsamında
+rezervlerin belirlenmesini müteakip Genel Müdürlükçe ruhsat sahiplerine;
+a) Aynı ruhsat sahibine ait bir veya birden fazla
+ruhsat olması halinde ruhsatlı alanlardaki toplam eşdeğer rezerve göre
+taşınılacak alandaki payları,
+b) Yeni alandaki ruhsatının konumu,
+pafta-koordinatları, cinsi, kalitesi ve rezervi,
+c) Kısıtlanan alanda kalan ruhsat için ruhsat
+taşıma taahhütnamesini üç aylık süre içerisinde imzalaması gerektiği,
+hususları tebliğ edilir.
+(6) Beşinci fıkradaki hususları içeren tebligat
+yapıldıktan sonra, ruhsat sahibi üç ay içerisinde ruhsat taşıma taahhütnamesini
+imzalayarak Genel Müdürlüğe ibraz etmediği takdirde, mevcut ruhsatı iptal
+edilir ve bu durumda herhangi bir ruhsata hak sağlamaz, ruhsatı taşınmaz. Bu
+kapsamda iptal edilen ruhsatlar için yatırım gideri ödenmez.
+(7) Yeni alanın maden bölgesi olmaması halinde yeni
+alana taşınmayı kabul eden ruhsat sahibi mevcut rödövansçısı ile yeni bir
+rödövans sözleşmesi yapar veya rödövansçının yatırım giderlerini karşılayarak
+rödövans sözleşmesini fesih eder. Yeni alanın maden bölgesi olması halinde
+ruhsat sahibi yatırım giderlerini karşılayarak rödövans sözleşmesini fesih
+eder.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Kamulaştırma
+MADDE 18
+– (1) Maden bölgesindeki her grup
+maden işletme ruhsatı için Kanun kapsamında irtifak ve/veya intifa hakkı
+tesis edilebilir ve kamulaştırma yapılabilir.
+İmar
+planı ve sağlık koruma bandı
+MADDE 19 – (1) Maden bölgesi ilan edilen alandaki işletme
+ruhsatları ve sağlık koruma bandı ilgili kurumlara bildirilerek çevre
+düzeni ve imar planları notuna işlenir.
+(2) I. Grup ve II. Grup (a) bendi madenlere ilişkin
+oluşturulan maden bölgesinin sınırları etrafında uygun mesafelerde, maden
+bölgesi için hazırlanan proje ve plan kapsamında, üretimin çevresel
+etkileri, şehirleşme ve işletme güvenliği açısından sağlık koruma bandı
+oluşturulur.
+Koordinasyon
+MADDE 20 – (1) Genel Müdürlük, gerek görmesi veya ruhsat
+sahiplerinden birinin talep etmesi halinde, maden bölgesindeki ruhsatların
+birleştirilerek şirketin kurulması aşamalarında, taraflar arasında
+anlaşmayı temin etmek ve ortaklığın oluşturulmasını sağlamak maksadıyla
+yapılacak toplantıları koordine eder ve toplantılara gözlemci olarak
+katılır.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 21 – (1) Bu Yönetmelikte yer almayan hususlar, Kanun ve
+Kanuna istinaden çıkartılan yönetmeliklerin hükümlerine göre yürütülür.
+Yürürlük
+MADDE 22
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 23
+– (1) Bu Yönetmelik hükümlerini
+Enerji ve Tabii Kaynaklar Bakanı yürütür.
+Ekleri için tıklayınız.
