@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/556",
+  "list_number": "556",
+  "decision_date": "2018-05-23",
+  "title": "YSK kararı 2018/556",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77688/2018-556.pdf",
+  "source_sha256": "03d3d225e1c6cb30ee54d12054de538d47fd0258ab7c88c54ff01532b11df6ca",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-23",
+  "law_text_complete": false
+}
