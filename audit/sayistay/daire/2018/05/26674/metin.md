@@ -1,0 +1,11 @@
+Kesin Teminat
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; ................. işinde yüklenici .................’nin sözleşmesinin 4735 sayılı Kanun’un 20’nci maddesine istinaden feshedilmesine rağmen kesin teminatın, Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenmeden gelir kaydedildiği görülmüştür.
+
+4735 sayılı Kamu İhale Sözleşmeleri Kanunu’nun ‘Sözleşmenin feshine ilişkin düzenlemeler’ başlıklı 22’nci maddesinin ikinci fıkrasında; “19, 20 ve 21 inci maddelere göre sözleşmenin feshedilmesi halinde, kesin teminat ve varsa ek kesin teminatlar alındığı tarihten gelir kaydedileceği tarihe kadar Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenir. Güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki fark yükleniciden tahsil edilir.” denilmektedir.
+
+Söz konusu işe ait sözleşme 4735 sayılı Kanun’un 20’nci maddesine istinaden usulüne uygun olarak feshedilmesine rağmen yüklenici tarafından …..tarihi itibarıyla verilen ……TL tutarındaki kesin teminat, alındığı tarihten gelir kaydedileceği tarihe kadar Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenmeden ……tarih ……muhasebe işlem fişi ile gelir kaydedilmiştir. Yapılan uygulama 4735 sayılı Kanunu’nun yukarıda anılan 22’nci maddesine aykırıdır. Dolayısıyla güncellenen tutar ile kesin teminat tutarı arasındaki farkın yükleniciden tahsil edilmemesi nedeniyle kamu zararı oluşmuştur.
+
+Ancak sorumlular savunmalarında kamu zararının tahsil edildiğini belirtmiş ve tahsilata dair kanıtlayıcı evrak sunmuşlardır.
+
+Bu itibarla .................işinde yüklenici .................’nin sözleşmesinin 4735 sayılı Kanun’un 20’nci maddesine istinaden feshedilmesine rağmen kesin teminatın, Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenmeden gelir kaydedilmesi nedeniyle oluşan ……TL kamu zararının …..tarih ve …….muhasebe işlem fişiyle ile yükleniciden tahsil edildiği ve Belediye bütçesine gelir kaydedildiği görüldüğünden, konu hakkında ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
