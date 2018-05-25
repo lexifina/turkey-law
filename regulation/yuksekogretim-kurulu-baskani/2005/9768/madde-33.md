@@ -1,0 +1,2 @@
+Yürürlükten kaldırma
+Madde 33 — 10/4/1991 tarihli ve 20841 sayılı Resmî Gazete’de yayımlanan Vakıf Yükseköğretim Kurumları Yönetmeliği, 30/4/1991 tarihli ve 20857 sayılı Resmî Gazete’de yayımlanan Vakıflarca Kurulacak veya Kurulmuş Yükseköğretim Kurumlarına Üniversite Adı Verilmesi Esaslarına İlişkin Yönetmelik ile 22/5/2002 tarihli ve 24762 sayılı Resmî Gazete’de yayımlanan Vakıf Meslek Yüksekokulları Yönetmeliği yürürlükten kaldırılmıştır.

@@ -1,0 +1,2 @@
+Vakıf yükseköğretim kurumlarına ad verme işlemleri
+Madde 12 — Vakıf yükseköğretim kurumlarına verilecek isimler, Yükseköğretim Kurulu tarafından belirlenen kriterlere uygun olmak zorundadır. Yükseköğretim Genel Kurulu uygun bulmadığı isimlerin kriterlere uygun bir şekilde değiştirilmesini kurucu vakıftan isteyebilir. Kurulmuş bulunan vakıf yükseköğretim kurumlarının isim değişikliklerinde de aynı usuller uygulanır.

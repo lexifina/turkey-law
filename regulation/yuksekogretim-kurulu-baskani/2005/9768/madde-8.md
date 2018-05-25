@@ -1,0 +1,5 @@
+Diğer kurumlar
+Madde 8 — Vakıf üniversiteleri ile vakıf yüksek teknoloji enstitüleri bünyesinde, fakülteler, enstitüler, yüksekokullar, konservatuarlar, meslek yüksekokulları, destek, hazırlık okulları veya birimleri ile uygulama ve araştırma merkezleri kurulabilir.
+Vakıf üniversiteleri/yüksek teknoloji enstitüleri içinde bölüm, anabilim ve ana sanat dalları ile uygulama ve araştırma merkezi açılması, birleştirilmesi veya kapatılması; konservatuar, meslek yüksekokulu veya destek, hazırlık okulu veya birimleri kurulması üniversite/yüksek teknoloji enstitüsü senatosunun kararı ve mütevelli heyetin oluru ile üniversite/yüksek teknoloji enstitüsü Rektörünün başvurusu üzerine Yükseköğretim Genel Kurulu kararıyla kurulur.
+Vakıf meslek yüksekokullarında bölümlerin ve programların açılması, birleştirilmesi, kapatılması, vakıf meslek yüksekokulu kurulu kararı, mütevelli heyetinin onayı meslek yüksekokulu müdürünün başvurusu üzerine Yükseköğretim Genel Kurulu kararıyla olur.
+Vakıflar tarafından emniyet ve askeri konular ile ilgili yükseköğretim kurumu kurulamaz, kurulmuş yükseköğretim kurumları bünyesinde program açılamaz.

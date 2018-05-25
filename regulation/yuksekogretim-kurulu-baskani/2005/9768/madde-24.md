@@ -1,0 +1,8 @@
+Gözetim-Denetim Değerlendirme ve Uygulanacak Önlemler
+Gözetim-Denetim ve değerlendirme esasları
+Madde 24 — (Değişik:RG-19/11/2015-29537)
+Vakıf yükseköğretim kurumları, eğitim öğretim ile idari, mali, ekonomik konularda Yükseköğretim Kurulunun gözetim ve denetimine tabidir. Bu kurumların, denetim ve değerlendirilmeleri Yükseköğretim mevzuatı ve diğer ilgili mevzuat uyarınca yürütülür.
+Yükseköğretim Kurulu vakıf yükseköğretim kurumlarının hesap, işlem ve faaliyetleri ile mallarını, yıl içinde veya yıllar itibarıyla denetleyebileceği gibi akademik birim, program, proje ve konu bazında da denetleyebilir.
+Vakıf yükseköğretim kurumları her ders yılı sonunda Yükseköğretim Kuruluna yıllık faaliyet raporu sunarlar ve Yükseköğretim Kurulunda bulunan diğer bilgi ve belgeler de göz önüne alınarak Yükseköğretim Kurulunca belirlenen plan çerçevesinde Yükseköğretim Denetleme Kurulu tarafından genel denetlemeye ve değerlendirmeye tabi tutulurlar. Bu kurumlar ayrıca Yükseköğretim Kurulu Başkanlığı tarafından gerekli görülmesi halinde Yükseköğretim Denetleme Kuruluna verilecek görev kapsamında belirli bir döneme bağlı olmaksızın yıl içinde de denetlenebilir.
+Vakıf yükseköğretim kurumunun mütevelli heyeti tarafından onaylanan ayrıntılı bütçesinin bir örneği ile bütçenin uygulanmasına ilişkin esaslar ve harcamaya ilişkin yetkileri gösterir mütevelli heyet kararları Yükseköğretim Kuruluna gönderilir.
+Kurucu vakfın veya vakıfların yönetim organındaki her türlü değişiklik ile buna bağlı olarak değişen mali durum, değişikliğin gerçekleşmesinden itibaren en geç bir ay içinde Yükseköğretim Kuruluna bildirilir.

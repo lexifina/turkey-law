@@ -1,0 +1,17 @@
+YEDİNCİ BÖLÜM
+Mali Hükümler
+Kazanç amacı gütmeme ve kaynak aktarımı
+Madde 28 – (Başlığıyla birlikte değişik:RG-19/11/2015-29537)
+Vakıflar kendilerine kazanç sağlamak amacı ile yükseköğretim kurumu kuramazlar. Kurmuş oldukları yükseköğretim kurumundan herhangi bir surette gelir, kazanç ve hak elde edemezler. Vakıf yükseköğretim kurumunun her çeşit gelirleri yükseköğretim kurumunda kalır ve geçici ya da dolaylı olarak dahi hiç bir surette vakıf mamelekine veya üçüncü şahıslara intikal ettirilemez.
+Vakıf yükseköğretim kurumları diğer gerçek ve tüzel kişilere faaliyetleri ile ilgisi olmayan konularda kefalet veremez ve yükümlülük altına sokulamaz.
+Vakıf yükseköğretim kurumları kaynak aktarımı yapamaz. Kaynak aktarımı sayılan haller şunlardır:
+a) Mütevelli heyeti ve üyeleri ile bunlar dışındaki üçüncü gerçek ya da tüzel kişilerden yapılan borçlanmanın Merkez Bankasının Bankalarca Açılan Kredilere Uygulanan Ağırlıklı Ortalama Faiz oranlarından, kiralamanın Gelir Vergisi Kanununda tanımlanan emsal kira bedelinden, mal ve hizmet alımlarının piyasa rayiçlerinden sebepleri izah edilemeyecek derecede yüksek bedeller ile yapılması,
+b) Vakıf yükseköğretim kurumunun maddi ve maddi olmayan varlıklarının bedel ödenmeksizin ya da piyasa rayiçlerine göre makul sayılamayacak derecede düşük bedelle kullandırılması, satılması, kiralanması, trampa edilmesi, mülkiyetin gayri ayni hak tesis edilmesi ve benzeri tasarruflarda bulunulması,
+c) Vakıf yükseköğretim kurumunun parasal kaynaklarının, Merkez Bankasının Bankalarca Açılan Kredilere Uygulanan Ağırlıklı Ortalama Faiz oranlarından, mal varlığı kiralamasının Gelir Vergisi Kanununda tanımlanan emsal kira bedelinden, mal ve hizmet alımlarının piyasa rayiçlerinden sebepleri izah edilemeyecek derecede düşük bedeller ile yapılması ya da bedelsiz olarak kullandırılması,
+d) Vakıf yükseköğretim kurumunun her türlü mal ve hizmet alımının, rekabet kuralları ve şeffaflık ihlal edilerek piyasa rayiçlerine göre yüksek bedelle yapılması,
+e) Vakıf yükseköğretim kurumunun faaliyetlerinden elde edilen tüm gelirlerin kabul edilebilir sebepleri olmaksızın hesaplara zamanında ve tam olarak yansıtılmaması, tahsil edilmemesi veya zamanaşımına uğratılması,
+f) Vakıf yükseköğretim kurumunun faaliyetlerinin yürütülmesi sırasında yapılan giderlerin gerçeğe aykırı olarak yüksek gösterilmesi, avans niteliğindeki ödemeler dışında mal alınmadan, iş veya hizmet yaptırılmadan ödeme yapılması,
+g) Vakıf yükseköğretim kurumunun kasada muhafaza edilen para ya da diğer menkul değerlerinin ya da geçici dahi olsa banka hesaplarında bulunan paraların, vakıf yükseköğretim kurumu dışında üçüncü gerçek ya da tüzel kişilere kullandırılması,
+h) Her düzeyde görev yapmakta olan personele mevzuat çerçevesinde görev tanımı içerisinde yer alan işler için sözleşme ücreti dışında çeşitli adlarla ödeme yapılması, her düzeyde görev yapmakta olan personele mevzuat çerçevesinde ödenmesi mümkün ücret-maaş, telif ücreti, yolluk ve yevmiye, ders ve tez danışmanlık ücreti, huzur hakkı gibi ödemelerin emsallerine göre sebepleri izah edilemeyecek derecede yüksek olması,
+i) Yapılan iş, alınan mal veya hizmet karşılığı olarak ilgili mevzuatta belirtilen karar, onay, sözleşme ve benzeri belgelerde belirlenen tutardan fazla ödeme yapılması,
+j) Yukarıdaki haller dışında kalan, yükseköğretim kurumu kaynağında artışa engel veya azalışa neden olan, nesnel ve ölçülebilir kriterler çerçevesinde tespit edilen kaynak aktarımı halleri.
