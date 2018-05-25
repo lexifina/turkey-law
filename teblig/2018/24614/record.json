@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24614",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 495)",
+  "number": "24614",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2018/24614",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24614&MevzuatTertip=5",
+  "source_sha256": "65aab0eff45a0006ae1422e931217e903f132e5e37ffc6f910c672c2b2446940",
+  "source_bytes": 96361,
+  "published": "2018-05-25",
+  "gazette": "30431",
+  "in_force": "2018-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
