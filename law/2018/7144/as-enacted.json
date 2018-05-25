@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7144",
+  "year": 2018,
+  "title": "Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-05-25",
+  "gazette_issue": "30431",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180525-18.htm",
+  "source_sha256": "2e589de908031b846505d6c96d854ad1dbadca33dac5504eed9b8b3f484d51ca",
+  "text_sha256": "8c06038cf94273d15bbf6856cf80c78dca9a9d73844f6b76aba591c829eb2922",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/05/25/30431-18",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/05/20180525-18.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
