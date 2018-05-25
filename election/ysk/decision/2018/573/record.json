@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/573",
+  "list_number": "573",
+  "decision_date": "2018-05-25",
+  "title": "27. Dönem Milletvekili Genel Seçimi geçici aday listesi ile ilgili Yüksek Seçim Kurulunun 2018/573 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77691/2018-573.pdf",
+  "source_sha256": "fcbae2362d8a1ddfbdf8fe5de4e8c5ff07ab4d5aa53b8679864d334c0bc39c6a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 183,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-25",
+  "law_text_complete": false
+}
