@@ -1,0 +1,20 @@
+Sağlık memuru (toplum sağlığı), hemşire ve ebenin görevleri
+MADDE 48 – (1) TSM’de görev yapan sağlık memuru (toplum sağlığı), hemşire ve ebenin görevleri şunlardır:
+a) Hizmet götürülecek bölge ve toplumu tanımak,
+b) Toplum sağlığı merkezindeki aşıların soğuk zincir kurallarına uygun olarak saklanmasını ve dağıtımını yürütmek,
+c) Bölgenin sağlık ölçütlerini değerlendirmek suretiyle sorunları ve öncelikleri saptamak,
+ç) Bulaşıcı ve bulaşıcı olmayan hastalıkların kontrolü çalışmalarına katılmak,
+d) Okul sağlığı hizmetlerine katılmak,
+e) Kayıt ve bilgi işlem çalışmalarında görev almak,
+f) TSM başkanının direktifleri doğrultusunda bölgedeki sağlık çalışanlarının hizmetlerini izlemek ve değerlendirmek,
+g) Sağlıklı beslenme ve beslenme bozuklukları konusundaki programlara katılmak, obezite danışmanlığı hizmetleri konusunda görev almak,
+ğ) Koruyucu ruh sağlığı hizmetlerinde görev almak,
+h) İş sağlığı ve güvenliği hizmetlerinde görev almak,
+ı) Birey ve grup eğitimlerine katılmak, halkın sağlık eğitimi çalışmalarının planlanması ve uygulanmasında görev almak,
+i) Bağışıklama hizmetlerinin planlanması ve yürütülmesinde görev almak,
+j) Hizmet içi eğitim hizmetlerinin planlanması ve uygulanmasında görev almak,
+k) Toplumun sağlığının korunması, geliştirilmesi ve teşviki hizmetlerinde görev almak,
+l) Üreme sağlığı hizmetlerinde görev almak,
+m) Görevi ile ilgili istatistik kayıtlarını ve formları düzenlemek,
+n) Görev alanlarında temizlik ve düzeni sağlamak; malzemelerin, kullandıktan sonra temiz ve her zaman kullanıma hazır halde tutulmasını sağlamak,
+o) Hizmet ile ilgili verilen diğer görevleri yapmak.

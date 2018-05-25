@@ -1,0 +1,33 @@
+ÜÇÜNCÜ BÖLÜM
+Toplum Sağlığı Merkezinin Görev ve Yetkileri ile Çalışma Usul ve Esasları
+Görev ve yetkileri
+MADDE 8 – (1) Toplum sağlığı merkezi, aşağıdaki hizmetleri sunar:
+a) İdari ve mali işler,
+b) Kayıt ve istatistik,
+c) Plan ve program yapma,
+ç) Diğer kurumlarla işbirliği,
+d) İzleme ve değerlendirme çalışmaları,
+e) Bulaşıcı hastalıklar, bağışıklama ve salgın kontrolü,
+f) Tüberküloz kontrolü,
+g) Zoonotik ve vektörel hastalıkların kontrolü,
+ğ) Erken uyarı ve cevap sistemi çalışmaları,
+h) Bulaşıcı olmayan hastalıkların kontrolü,
+ı) Kadın ve üreme sağlığı hizmetleri,
+i) Çocuk ve ergen sağlığı hizmetleri,
+j) Kanser erken teşhis, tarama ve eğitim hizmetleri,
+k) Ruh sağlığı programlarına dair hizmetler,
+l) Ulusal programlar ile ilgili hizmetler,
+m) Adli tıbbi hizmetler ve ölüm kayıt hizmetleri,
+n) Acil sağlık hizmetleri,
+o) Kaza ve yaralanmalardan korunma hizmetleri,
+ö) Görüntüleme ve laboratuvar hizmetleri,
+p) Çevre sağlığı hizmetleri,
+r) Çalışan sağlığı ve güvenliğine dair hizmetler,
+s) Olağan dışı durumlar ve afet sağlığı hizmetleri,
+ş) Toplu yaşam alanları ve okul sağlığı hizmetleri,
+t) Evde sağlık hizmetleri,
+u) Ağız ve diş sağlığı hizmetleri,
+ü) Sağlığın geliştirilmesi ve teşviki çalışmaları,
+v) Sosyal hizmet çalışmaları,
+y) Hizmet içi eğitimler,
+z) Diğer görevler.
