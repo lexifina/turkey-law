@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/572",
+  "list_number": "572",
+  "decision_date": "2018-05-25",
+  "title": "27. Dönem Milletvekili Genel Seçimine bağımsız milletvekili adayı olarak başvuranlara ait bilgi ve belgelerin incelenmesi ile ilgili Yüksek Seçim Kurulunun 2018/572 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77693/2018-572.pdf",
+  "source_sha256": "9117e9aece24bc29fb57d4ff055124c6f49ed7165317910f30c9257a6157429c",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-25",
+  "law_text_complete": false
+}
