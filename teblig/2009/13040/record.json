@@ -1,0 +1,46 @@
+{
+  "source_id": "9.5.13040",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE - AVRUPA BİRLİĞİ KATILIM ÖNCESİ YARDIM ARACI (IPA) ÇERÇEVE ANLAŞMASI GENEL TEBLİĞİ (SIRA NO:1)",
+  "number": "13040",
+  "path": "teblig/2009/13040",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13040&MevzuatTertip=5",
+  "source_sha256": "37932a16673eec61f047acb06e3df94fb0e12c8df9322a504dcae4640f9fe444",
+  "source_bytes": 151546,
+  "published": "2009-05-08",
+  "gazette": "27222",
+  "in_force": "2018-05-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/5/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-05-26",
+      "RG-26/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-06",
+      "RG-6/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-08",
+      "RG-8/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10978,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/9.5.13040%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
