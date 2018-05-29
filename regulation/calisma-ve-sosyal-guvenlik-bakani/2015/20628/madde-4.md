@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bireysel çalışma programı: Çalışma planı dikkate alınarak İş ve Meslek Danışmanlarınca periyodik olarak hazırlanan programı,
+b) Birim: Kurum merkez teşkilatındaki hizmet birimlerini ve taşra teşkilatındaki çalışma ve iş kurumu il müdürlükleri ile hizmet merkezlerini,
+c) Çalışma planı: İş ve Meslek Danışmanları tarafından yürütülecek faaliyetleri gösteren ve periyodik olarak grup/servis sorumlusunca hazırlanan planı,
+ç) Danışan: Meslek seçme, iş arama, iş ve meslek değiştirme sürecinde destek almak üzere İş ve Meslek Danışmanına başvuran kişiyi,
+d) Danışmanlık: Kurum hizmetleri kapsamında iş arayanlara, işverenlere, eğitim ve öğretim kurumlarına yönelik yürütülen istihdamı arttırıcı ve koruyucu faaliyetleri,
+e) Grup sorumlusu: Sorumlu olduğu grubun danışmanlık faaliyetleriyle ilgili iş ve işlemlerini ilgili servis sorumlusuna bağlı olarak yürüten şef veya İş ve Meslek Danışmanını,
+f) Hizmet merkezi: İl müdürlüğüne bağlı hizmet merkezlerini,
+g) Hizmet süresi: Aylıksız izinli olarak geçen süreler hariç muvazzaf askerlikte geçen süreler dâhil olmak üzere 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendi çerçevesinde hesaplanan süreleri,
+ğ) İl müdürlüğü: Çalışma ve iş kurumu il müdürlüklerini,
+h) İl müdürü: Çalışma ve iş kurumu il müdürünü,
+ı) İş arayan: Kuruma kayıtlı işsizler ile daha iyi şartlarda iş arayanları,
+i) İş ve Meslek Danışmanı: İş ve Meslek Danışmanı olarak çalışan kadrolu ve sözleşmeli Kurum personelini,
+j) İş ve Meslek Danışmanı Mesleki Yeterlilik Belgesi: 21/9/2006 tarihli ve 5544 sayılı Meslekî Yeterlilik Kurumu Kanunu uyarınca düzenlenen Ulusal Meslek Standardı kapsamında onaylanan belgeyi,
+k) İşveren: İş ve sosyal güvenlik mevzuatı uyarınca işçi veya sigortalı sayılan kişileri çalıştıran gerçek veya tüzel kişiler ile tüzel kişiliği olmayan kurum ve kuruluşları,
+l) Kurum: Türkiye İş Kurumunu,
+m) Portal: Kurumsal verilerin tutulduğu elektronik bilgi sistemini,
+n) Portföy: Kuruma kayıtlı iş arayan, işveren ve eğitim-öğretim kurumlarından her bir İş ve Meslek Danışmanına dağıtılan grubu,
+o) Servis sorumlusu: İl/Hizmet merkezi müdürü tarafından belirlenen şef veya üzerindeki unvanlara sahip (Değişik ibare:RG-29/5/2018-30435) personel veya İş ve Meslek Danışmanını,
+ö) Ulusal Meslek Standardı: Meslekî Yeterlilik Kurumu tarafından yayımlanan İş ve Meslek Danışmanı Ulusal Meslek Standardını,
+ifade eder.

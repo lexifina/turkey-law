@@ -1,0 +1,7 @@
+Kurum içinden iş ve meslek danışmanlığına atanma
+MADDE 11 – (1) Yardımcı hizmetler sınıfında görev yapanlar hariç halen Kurumda kadrolu olarak (Değişik ibare:RG-29/5/2018-30435) en az 2 yıl hizmeti bulunan ve İş ve Meslek Danışmanı Mesleki Yeterlilik Belgesine sahip olanlar arasından ihtiyaç duyulması halinde boş bulunan İş ve Meslek Danışmanı kadrolarına atama yapılabilir. Kurum portalı üzerinden yapılacak duyuruya göre atanma talebinde bulunanların başvuruları alınır. Başvurular; birimlere yapılır, başvuru için en az 5 günlük süre verilir ve birim amirleri tarafından başvuru süresinin son gününü izleyen üç iş günü içinde İnsan Kaynakları Dairesi Başkanlığına intikal ettirilir. Başvuruları kabul edilenlerden;
+a) Hizmet süresi fazla olanlara,
+b) Daha üst öğrenimi bitirmiş olanlara,
+c) Üst öğrenim mezuniyet notu yüksek olanlara
+öncelik verilmek suretiyle, kazanılmış hak aylığı yönünden bulundukları derecelere uygun kadrolara atamaları gerçekleştirilir.
+(2) (Ek:RG-29/5/2018-30435) Kurumda çalışan ve çalışma gücünden en az %40’ını kaybettiği sağlık kurulu raporu ile tespit edilenlerden İş ve Meslek Danışmanı Mesleki Yeterlilik Belgesine sahip olanlar, kurumda kadrolu olarak en az 2 yıl hizmeti bulunmaları şartıyla, boş kadro olması ve ihtiyaç duyulması halinde İş ve Meslek Danışmanı kadrolarına atanabilirler. Boş kadro sayısından fazla talep olması halinde birinci fıkrada belirtilen atama kriterleri uygulanır.
