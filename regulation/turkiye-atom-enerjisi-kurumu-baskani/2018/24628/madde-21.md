@@ -1,0 +1,9 @@
+Radyasyondan korunma personeli
+MADDE 21 – (1) Radyasyondan korunma personeli nükleer tesisin işletmeye alma, işletme, işletmeden çıkarma ve sahanın düzenleyici kontrolden çıkarılması aşamalarının tümünde radyasyondan korunmadan sorumludur ve Kuruluş tarafından belirlenen usul ve esaslar çerçevesinde görevlendirilir. Kuruluş, tesiste dereceli yaklaşım ilkesi gereğince yeterli sayıda radyasyondan korunma personeli çalıştırır.
+(2) Radyasyondan korunma personeli, radyasyondan korunma açısından yetersizlikler olduğunu düşündüğü durumlarda nükleer tesisin çalışmasına izin vermeme ya da tesisi durdurma yetkisine sahiptir. Bu görevler kapsamında radyasyondan korunma personeli nükleer tesiste görevlendirildiği süre içinde tesis yöneticisine karşı sorumludur.
+(3) Radyasyondan korunma personeli görevli olduğu süre içinde her an ulaşılabilir olmak ve nükleer tesis sınırları içinde bulunmakla yükümlüdür.
+(4) Radyasyondan korunma personeli asgari olarak aşağıdaki koşulları sağlamak zorundadır:
+a) 21/10/2005 tarihli ve 25973 sayılı Resmî Gazete’de yayımlanan Araştırma Reaktörlerinde İşletme Organizasyonu, Personel Nitelikleri ve İşletici Personel Lisanslarına İlişkin Yönetmeliğin 21 inci maddesinde belirtilen genel sağlık kriterlerine uymak,
+b) Araştırma reaktörlerinde temel bilimler, sağlık bilimleri veya ilgili bir mühendislik dalından ön lisans veya iki yıllık meslek yüksekokulu, diğer nükleer tesislerde ise temel bilimler, sağlık bilimleri veya ilgili bir mühendislik dalından lisans diplomasına sahip olmak,
+c) Kuruluş tarafından nükleer tesise özel olarak planlanan ve ilgili mevzuatta asgari şartları tanımlanan radyasyondan korunma personeli eğitimlerini başarıyla tamamlamış olmak,
+ç) Kurum tarafından eğitim ve deneyimleri değerlendirilerek, nükleer tesislerde radyasyondan korunma personeli olarak çalışmaya uygun bulunmak.

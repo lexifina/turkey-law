@@ -1,0 +1,10 @@
+Harici çalışanlar
+MADDE 25 – (1) Kuruluş, yüklenici ile çalışması durumunda, harici çalışanların radyasyondan korunmasını sağlamak için doğrudan ya da yüklenici ile arasında yaptığı yazılı bir anlaşma ile aşağıdaki hususların yerine getirilmesini sağlar ve harici çalışanlar için bu Yönetmelikte belirtilen hükümleri uygular:
+a) Harici çalışanların 5, 6 ve 7 nci maddelerde belirtilen doz sınırlarına ve kısıtlamalarına uyması garanti altına alınır.
+b) Harici çalışanlar tesiste radyasyon alanında çalışmaya başlamadan önce, önceki işlerinden almış oldukları dozların kayıtlarını Kuruluşa bildirmekle yükümlüdür.
+c) Harici çalışanlar yurt dışında gerçekleştirdikleri çalışmaların sonunda aldıkları dozları çalıştıkları ülkedeki işverenin hizmet aldığı dozimetri servisine onaylatır ve yurda dönüşünde Merkezi Doz Kayıt Sistemine işletir.
+ç) Kuruluş, A sınıfı harici çalışanlara tesisindeki kontrollü alanlara giriş ve çalışma koşulları ile acil durum plan ve prosedürlerinin ilgili kısımları konusunda gerekli bilgilendirmeyi yapar, eğitimleri verir ve kişisel izleme yapıldığını garanti altına alır. B sınıfı harici çalışanlara ise tesisindeki gözetimli alanlara giriş ve çalışma koşulları hakkında gerekli bilgilendirmeyi yapar. Harici çalışanlara uygun kişisel koruyucu donanımı sağlar.
+d) Harici çalışanların tesiste radyasyona maruz kalabilecekleri işe başlamadan önce sınıflandırmalarının doğru yapıldığı garanti altına alınır. Harici çalışanların sınıflandırması çalışma koşulları ve sağlık gözetimine bağlı olarak gözden geçirilir.
+e) Harici çalışanların sağlık gözetiminin uygulanması ve takibi garanti altına alınır.
+f) Harici çalışanların kişisel izleme kayıtlarının tutulması, söz konusu çalışanlara bildirilmesi ve çalışanların kendi kişisel doz kayıtlarına erişebilmeleri sağlanır.
+g) Harici çalışanlara radyasyon riskleri, genel radyasyondan korunma prosedür ve önlemleri, hamilelik durumlarını erkenden bildirmelerinin önemi ile emzirme döneminde olan radyasyonla çalışanlara iç ve dış ışınlanma sonrasında bebeğin maruz kalacağı riskler hakkında gerekli eğitimlerin verildiği ve bilgilendirmenin yapıldığı garanti altına alınır.

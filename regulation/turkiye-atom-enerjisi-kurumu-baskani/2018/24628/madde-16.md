@@ -1,0 +1,2 @@
+Çevresel radyolojik izleme
+MADDE 16 – (1) Kuruluş, işletme koşulları ve kazalar sırasında halkın alabileceği dozu yeterli seviyede ve hızlı bir şekilde değerlendirmek için çevresel radyolojik izleme programını hazırlar ve inşaat lisansı başvurusu sırasında Kuruma sunar. Kurum tarafından uygunluğu değerlendirilen program, nükleer tesisin işletmeye alınmasından yaklaşık 2 yıl önce uygulanmaya başlanır.

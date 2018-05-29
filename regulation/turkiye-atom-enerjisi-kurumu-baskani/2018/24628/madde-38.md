@@ -1,0 +1,10 @@
+Radyasyondan korunma eğitimleri
+MADDE 38 – (1) Nükleer tesislerde korunma ve güvenliğin temini için radyasyonla çalışanlar gerekli eğitimleri alır. Bu eğitim, gerekli bilgi ve becerilerin yanı sıra, normal işletme dışında meydana gelebilecek olayların önüne geçmek için gerekli yetki, sorumluluk ve görev paylaşımlarının yapılması ile radyasyondan korunma programının uygulanmasına yönelik gerekli organizasyonun ve güvenlik kültürünün oluşturulması hususlarını da kapsar.
+(2) Kuruluş eğitimle ilgili aşağıdaki hususların yerine getirilmesinden sorumludur:
+a) Tüm çalışanlar için planlanmış ışınlanmalarda ve acil durumlarda radyasyona maruz kalma durumunun, neden olabileceği sağlık riskleri ile korunma ve güvenliğe ilişkin çalışanların görev, yetki ve sorumlulukları ile orantılı bir kapsam ve ayrıntıda, teorik ve uygulamalı eğitim programlarını hazırlar ve belirlenen takvim çerçevesinde uygular, düzenli aralıklarla tekrarlar.
+b) Nükleer tesise özel olarak planlanan ve ilgili mevzuatta asgari şartları tanımlanan radyasyondan korunma personeli eğitimlerini verir.
+c) Radyasyonla çalışanlara radyasyonun sağlık etkileri, genel ve görevlendirildikleri radyasyon alanları ile bağlantılı radyasyondan korunma prosedür ve önlemleri, acil durum plan ve prosedürlerinin ilgili kısımları ile hamilelik durumlarını erkenden bildirmelerinin önemi ile emzirme döneminde olan radyasyonla çalışanlara iç ve dış ışınlanma sonrasında bebeğin maruz kalacağı riskler hakkında eğitim verilmesini sağlar.
+ç) Tesisin acil durum çalışanlarının tüm olası acil durumlara bağlı olarak müdahalelerin getirdiği sağlık riskleri konularında eğitilmelerini sağlar.
+d) Nükleer santrallerde, yüksek doza maruz kalınması öngörülen işler için tam boy maketlerde ve simülatörlerde eğitim alınmasını sağlar.
+e) Çalışanlara verilen eğitime dair kayıtları kişisel dosyalar halinde tutar.
+(3) Eğitim ve bilgilendirmeler, görevlerdeki ve talimatlardaki değişikliklerden sonra, değişen ve ortaya çıkan yeni koşullara uygun olarak gerektiğinde ve düzenli aralıklarla tekrar edilir ve güncellenir.

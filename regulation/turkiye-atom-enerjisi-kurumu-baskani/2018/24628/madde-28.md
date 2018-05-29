@@ -1,0 +1,2 @@
+Gözetimli alanlar
+MADDE 28 – (1) Kuruluş, gözetimli alanları uygun bariyerler ile ayırır. ISO tarafından tavsiye edilen radyasyon uyarı işaretlerini ve alanın radyasyon seviyesini, alanın sınıfını, alana giriş kurallarını, alanda çalışma talimatlarını, acil durum talimatlarını ve acil durumda temasa geçilecek kişilere ilişkin bilgileri gözetimli alanların girişlerinde okunaklı ve görünür biçimde uygun yerlere yeterli sayıda yerleştirir.

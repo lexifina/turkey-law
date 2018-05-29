@@ -1,0 +1,10 @@
+Kişisel koruyucu donanım
+MADDE 31 – (1) Kuruluş kişisel koruyucu donanımla ilgili olarak aşağıdaki hususları sağlar:
+a) Radyasyonla çalışanlara varsa ilgili standarda uygun özelliklerde, yeterli ve uygun nitelikte koruyucu giysi, cihaz, malzeme ve ekipmanı tedarik eder. Kişisel koruyucu donanım, radyasyonla çalışanları çalışma koşullarında radyasyondan koruyacak şekilde tasarlanır.
+b) Radyasyonla çalışanlara, koruyucu giysilerin ve solunum koruyucu ekipmanları da dâhil olmak üzere tüm koruyucu donanımın kullanımına ilişkin yeterli eğitim verilir ve ilgili talimatlar hakkında bilgilendirme yapılır.
+c) Belirli koruyucu donanım kullanılmasını gerektirebilecek görevler işyeri hekiminin tavsiyesi doğrultusunda sadece sağlık koşulları yeterli olan radyasyonla çalışanlara verilebilir.
+ç) Acil durumlarda kullanılacaklar da dâhil olmak üzere tüm kişisel koruyucu donanım uygun şartlarda muhafaza edilir ve belirli aralıklarla test ve kontrolleri yapılarak çalışmaya hazır durumda tutulur.
+d) Personelin koruyucu donanım kullanımına ilişkin olarak, donanımın uygun olmayan kullanımından dolayı fazla doz almaması ve koruyucu donanım kullanarak gerekli çalışmayı yaparken radyolojik olmayan ilave risklerden etkilenmemesi sağlanır.
+(2) Kullanımdan sonra koruyucu giysi ve solunum koruyucu ekipmanlar radyoaktif olarak kirlenmiş kabul edilir. Radyoaktif bulaşmanın yayılmasını önleyecek şekilde dikkatlice çıkarılır ve uygun işlemlere tabi tutulur.
+(3) Kuruluş, radyasyonla çalışanların aldıkları dozun düşürülmesi için hareketli paravan, radyasyon alanındaki havanın dışarı atılması için taşınabilir havalandırma cihazları, uzaktan kumandalı çalışma alet ve ekipmanları, haberleşme cihazları, katı ve sıvı radyoaktif madde ve atıkların toplanması için özel taşıma ve muhafaza kapları gibi çalışmaya uygun gerekli diğer özel ekipmanları temin eder.
+(4) Kuruluş, radyasyonla çalışanların, kişisel koruyucu donanımın kullanımı sırasında alınan radyasyon dozu ve radyoaktif atık oluşumunun mümkün olan en düşük seviyede tutulması için ve arındırma konusunda özel olarak eğitilmelerini sağlar.

@@ -1,0 +1,6 @@
+Radyasyon alanlarının sınıflandırılması
+MADDE 26 – (1) Kuruluş, nükleer tesiste radyasyon alanlarını belirler ve bu alanlara yönelik korunmanın ve güvenliğin temini için gerekli idari ve teknik düzenlemeleri yapar.
+(2) Radyasyon alanları, radyasyon ölçüm değerlerinin çalışma koşulları ile birlikte değerlendirilmesi yapılarak alınması beklenen dozlara ve riskin büyüklüğüne uygun şekilde aşağıdaki gibi sınıflandırılır:
+a) Radyasyondan korunmayı sağlama veya radyoaktif bulaşmanın yayılmasını önleme amacı ile 27 nci maddede tanımlanmış olan özel kuralların uygulandığı, radyasyonla çalışanların kişisel izlemelerinin yapıldığı ve giriş çıkışları kontrole tabi olan alanlar kontrollü alan,
+b) Kontrollü alan olarak değerlendirilmeyen ancak radyasyonla çalışanların radyasyona maruz kalma potansiyelinin bulunması nedeniyle, radyasyon seviyelerinin sürekli izlenmesini gerektiren alanlar gözetimli alan.
+(3) Kuruluş, kontrollü ve gözetimli alanlarda korunmanın ve güvenliğin sağlanması için alınması gerekli olan tedbirlerde bir değişiklik ihtiyacı olup olmadığını belirli aralıklarla gözden geçirir ve gerektiğinde radyasyon alanlarını yeniden belirler, varsa değişikliklerin ilgili çalışanlara iletilmesini sağlar.
