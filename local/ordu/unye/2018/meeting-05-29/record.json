@@ -1,0 +1,25 @@
+{
+  "number": "meeting-05-29",
+  "number_as_published": "meeting-05-29",
+  "year": 2018,
+  "title": "ÜNYE BELEDİYESİ 29 MAYIS 2018 MECLİS KARARLARI",
+  "decision_date": "2018-05-29",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediyesi-29-mayis-2018-meclis-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediyesi-29-mayis-2018-meclis-kararlari/",
+  "source_sha256": "b8a9bd24dc299f6d44482f2aa6af0316cd38020fb4470570bf9d393050014037",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-05-29",
+  "in_force_basis": "Decision date as printed in the official council listing: 29 MAYIS 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYESİ 29 MAYIS 2018 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediyesi-29-mayis-2018-meclis-kararlari/",
+  "document_note": "the decisions are published on the official page itself as 3 scanned image(s); not transcribed here"
+}
