@@ -1,0 +1,341 @@
+30 Mayıs 2018 ÇARŞAMBA
+Resmî Gazete
+Sayı : 30436
+YÖNETMELİK
+Gümrük ve Ticaret Bakanlığından:
+6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUN
+KAPSAMINDA
+UYGULANAN İDARİ PARA CEZALARINA İLİŞKİN
+UZLAŞMA YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı, uzlaşma
+komisyonlarının kurulması ve çalışması ile 7/11/2013 tarihli ve 6502 sayılı
+Tüketicinin Korunması Hakkında Kanunun 77/A maddesi kapsamında yapılan
+uzlaşma başvurularına ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 6502 sayılı Kanunun 77 nci
+maddesinin onikinci ve onüçüncü fıkraları hariç olmak üzere, aynı madde
+uyarınca uygulanmasına karar verilen idari para cezalarını kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 6502 sayılı
+Kanunun 77/A maddesinin yedinci fıkrası ile 84 üncü maddesinin birinci
+fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Bakan: Gümrük ve Ticaret Bakanını,
+b) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+c) Bakanlık birimi: Bakanlık merkez ve taşra
+teşkilatlarını,
+ç) Genel Müdürlük: Tüketicinin Korunması ve Piyasa
+Gözetimi Genel Müdürlüğünü,
+d) İdari para cezaları: 6502 sayılı Kanunun 77 nci
+maddesinin onikinci ve onüçüncü fıkraları hariç olmak üzere, aynı madde
+uyarınca uygulanmasına karar verilen idari para cezalarını,
+e) Kanun: 7/11/2013 tarihli ve 6502 sayılı
+Tüketicinin Korunması Hakkında Kanunu,
+f) Komisyon: Uzlaşma Komisyonlarını,
+g) Muhatap: Kanuna aykırı faaliyetlerinin tespit
+edilmesi sebebiyle hakkında idari para cezası uygulanmasına karar verilen
+gerçek veya tüzel kişiyi,
+ğ) Müsteşar: Gümrük ve Ticaret Bakanlığı
+Müsteşarını,
+h) Uzlaşmanın sonuçsuz kalması: Muhatabın
+komisyonun davetine katılmaması, uzlaşma görüşmelerine katıldığı halde
+uzlaşma tutanağını imzalamaması veya tutanağı ihtirazi kayıtla imzalamak
+istemesi durumunu,
+ı) Uzlaşmanın sağlanamaması: Komisyon teklifinin
+muhatap tarafından kabul edilmediği durumu,
+ifade eder.
+İKİNCİ BÖLÜM
+Uzlaşmanın Konusu ve Komisyonların Kurulması,
+Görevleri ve Yetkileri
+Uzlaşmanın
+konusu
+MADDE 5 – (1) Kanun uyarınca muhataba tebliğ edilen idari
+para cezaları uzlaşma talebine konu edilebilir.
+(2) Uzlaşma talebine konu edilen idari para cezaları
+hakkında, muhatap tarafından, tespit edilen eksiklik veya aykırılıkların;
+a) Kanunun hükümlerine yeterince nüfuz edememekten
+veya Kanun hükümlerini yanlış yorumlamaktan kaynaklandığı,
+b) İhtilaf konusu olayda yargı kararları ile
+idarenin görüş farklılığının olduğu,
+hususları ileri sürülerek uzlaşma talebinde
+bulunulabilir.
+Uzlaşmaya
+konu olamayacak idari para cezaları
+MADDE 6 – (1) Aşağıda sayılan idari para cezaları uzlaşmaya
+konu olamaz:
+a) İptali için idari yargı yoluna başvurulmuş idari
+para cezaları,
+b) Reklam Kurulu tarafından verilen idari para
+cezaları,
+c) Muhataba tebliğ edilen idari para cezasının bir
+kısmı,
+ç) Ödenen idari para cezaları,
+d) Daha önce uzlaşmaya konu edilmiş ancak uzlaşma
+görüşmeleri sonuçsuz kalmış ya da uzlaşma sağlanamamış idari para cezaları.
+Komisyonların
+kurulması
+MADDE 7 – (1) Bu Yönetmelik kapsamına giren idari para
+cezalarına ilişkin uzlaşma taleplerinin değerlendirilmesi amacıyla
+Bakanlıkça komisyonlar kurulur.
+(2) Komisyonların başkan ve üyeleri, Müsteşar,
+Genel Müdürlüğün bağlı olduğu Müsteşar Yardımcısı, Tüketicinin Korunması ve
+Piyasa Gözetimi Genel Müdürü ile Genel Müdür Yardımcıları ve Daire
+Başkanları arasından başkan dâhil üç üyeden oluşacak şekilde Bakan
+tarafından belirlenir.
+(3) Komisyonlar, uzlaşma başvurusu bulunması
+halinde üyelerin tamamının katılımıyla toplanır ve oy çokluğuyla karar
+alır.
+(4) Komisyonların başkan ve üyelerinin herhangi bir
+nedenle görevlerinin başında bulunmamaları halinde, bunlara vekâlet edenler
+komisyonlarda görev yapar.
+Komisyonların
+başkan ve üyelerinin sorumluluğu
+MADDE 8 – (1) Komisyonların başkan ve üyeleri,
+komisyonların;
+a) Çalışmalarının mevzuata uygunluğundan,
+b) Faaliyetlerinin gizliliğinden,
+c) Çalışmalarının hızlı ve güvenli
+sonuçlandırılmasından,
+sorumludur.
+Komisyonların
+görev ve yetkisi
+MADDE 9 – (1) Bakanlık ve valilikler tarafından Kanun
+kapsamında uygulanmasına karar verilen idari para cezaları hakkındaki
+uzlaşma başvuruları komisyonlar tarafından karara bağlanır.
+ÜÇÜNCÜ BÖLÜM
+Başvurunun Şekli, Süresi, Usul Yönünden İncelenmesi
+ve Sonuçları
+Başvuru
+şekli
+MADDE 10
+– (1) Uzlaşma talebinde
+bulunabilmek için bu Yönetmeliğin 12 nci maddesinde belirtilen kişiler
+tarafından ek-1’de yer alan forma uygun olarak düzenlenen dilekçe ile komisyonun
+sekretarya hizmetlerini yürütmekle görevli birime başvurulur. Dilekçe
+taahhütlü posta ile de gönderilebilir.
+(2) Uzlaşma başvurusunun komisyon sekretaryası
+dışındaki Bakanlık birimine yapılmış olması halinde, başvuru derhal
+komisyon sekretaryasına iletilir. Başvurunun yapıldığı tarih olarak
+muhatabın Bakanlık birimine başvuru tarihi esas alınır.
+Başvuru
+süresi
+MADDE 11
+– (1) Uzlaşma talebi, idari para
+cezası kararının tebliği tarihinden itibaren onbeş gün içinde yapılır.
+Uzlaşma
+başvurusunda bulunabilecek kişiler
+MADDE 12
+– (1) Muhatabın kendisi, kanuni
+temsilcisi, veli ya da vasisi veya bunların uzlaşma yetkisi bulunan resmi
+vekâletini haiz vekili uzlaşma talebinde bulunabilir.
+Uzlaşma
+başvurusunun incelenmesi
+MADDE 13
+– (1) Uzlaşmaya ilişkin talepler,
+komisyonların sekretarya hizmetini yürüten birim tarafından öncelikle usul
+yönünden incelenir. Yapılan incelemede;
+a) İdari para cezasının uzlaşma kapsamına girip
+girmediği,
+b) İdari para cezasının iptali için idari yargı
+yoluna başvurulup başvurulmadığı,
+c) Uzlaşma talebinin idari para cezasının tamamını
+kapsayıp kapsamadığı,
+ç) İdari para cezasının bir kısmının ya da
+tamamının ödenip ödenmediği,
+d) İdari para cezasının daha önce uzlaşma talebine
+konu edilip edilmediği,
+e) Uzlaşma başvurusunun komisyonun görev ve yetkisi
+dahilinde bulunup bulunmadığı,
+f) Başvurunun süresi içinde yapılıp yapılmadığı,
+g) Başvuru sahibinin başvuruda bulunma yetkisini
+haiz olup olmadığı,
+hususları değerlendirilir.
+(2) Usule ilişkin koşulları taşımadığı anlaşılan
+başvurular değerlendirilmez ve bu durum başvuru sahibine bildirilir.
+(3) Uzlaşma başvurusunda usule ilişkin bir eksiklik
+olmaması halinde komisyonun sekretarya hizmetlerini yürüten birim
+tarafından söz konusu idari para cezasına ilişkin işlem dosyasının bir
+örneği idari para cezasını uygulayan Genel Müdürlük ya da valilik
+biriminden derhal temin edilir.
+(4) Sekretarya tarafından uzlaşma başvurusuna konu
+edilen idari para cezalarına ilişkin tespit edilen tüm hususlara ve yapılan
+işlemlere ilişkin bilgi notu hazırlanarak uzlaşma görüşmelerinden en geç üç
+iş günü önce komisyon başkan ve üyelerine iletilir.
+Uzlaşma
+başvurusunun sonuçları
+MADDE 14
+– (1) Uzlaşma başvurusunda
+bulunulması halinde Kanunun 78 inci maddesinde düzenlenmiş olan dava açma
+süresi ve idari para cezası ödeme süresi durur. Uzlaşmanın sonuçsuz kalması
+veya sağlanamaması hallerinde, söz konusu süreler kaldığı yerden işlemeye
+başlar.
+(2) Süresi içinde uzlaşma başvurusunda bulunan
+muhatap, uzlaşma talep ettiği idari para cezaları için başvurusuna ilişkin
+süreç sonuçlanmadan yargı yoluna başvuramaz.
+Sekretarya
+hizmetleri
+MADDE 15
+– (1) Komisyonların sekretarya
+hizmetleri Genel Müdürlük tarafından yürütülür.
+DÖRDÜNCÜ BÖLÜM
+Komisyonlar Tarafından Yapılacak Çalışmalar
+Uzlaşma
+görüşmelerinde bulunabilecek kişiler
+MADDE 16
+– (1) Komisyon görüşmelerine
+muhatap, muhatabın kanuni temsilcisi, veli ya da vasisi bizzat veya
+bunların uzlaşma yetkisi bulunan resmi vekâletini haiz vekili katılabilir.
+(2) Komisyon toplantılarına idari para cezası
+uygulanan taraftan katılacak kişi sayısı muhatap dâhil üçü geçemez.
+Tutanaklara imza atma yetkisi olan kişilerin yanında komisyon
+toplantılarına katılan diğer kişiler görüşmede hazır bulunanlar olarak,
+uzlaşma tutanağına imza atarlar.
+Uzlaşma
+görüşmelerinin yapılması
+MADDE 17
+– (1) Başvurunun usulüne uygun
+olduğunun tespit edilmesi halinde, komisyon sekretaryası tarafından ek-2’de
+yer alan örneğe uygun uzlaşma davetiyesi, komisyon toplantısı tarihinden en
+az onbeş gün önce muhatabın başvuru dilekçesinde belirtilen adresine
+11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu ve 25/1/2018 tarihli ve
+30312 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat Sistemi Genel
+Tebliği (Sıra No: 1) hükümleri uyarınca tebliğe çıkartılır.
+(2) Tebliğ tarihini ve imzayı içeren tebliğ
+mazbatası uzlaşma dosyasına konulur. Tebligatın elektronik yolla yapılması
+halinde, buna ilişkin kayıt örnekleri dosyasında muhafaza edilir.
+(3) Muhatabın uzlaşma davetiyesinde belirtilen yer,
+tarih ve saatte toplantıya katılması halinde uzlaşma görüşmelerine
+başlanır.
+(4) Uzlaşma sağlanması halinde, ek-3’te yer verilen
+örnek tutanağa uygun olarak üç nüsha tanzim edilen tutanak hazır bulunanlar
+tarafından imzalanır. Tutanak muhataba derhal tebliğ edilir ve bu husus
+bütün nüshalarda belirtilerek bir nüshası muhataba verilir. Tutanağın bir nüshası gerekli işlem
+yapılmak üzere derhal Genel Müdürlüğün veya valiliğin ilgili birimine
+gönderilir, bir nüshası da komisyonda oluşan dosyada saklanır.
+(5) Uzlaşmanın sonuçsuz kalması halinde, sonuçsuz
+kalma sebebi belirtilmek suretiyle komisyonca ek-4’te yer verilen örnek
+tutanağa uygun olarak üç nüsha halinde tutanak düzenlenir. Tutanağın bir
+nüshası muhataba verilir. Muhatabın uzlaşma davetine icabet etmemesi veya
+tutanağı almaktan imtina etmesi halinde tutanağın iki nüshası, gereği
+yapılmak üzere derhal Genel Müdürlüğün veya valiliğin ilgili birimine
+gönderilir. Bir nüshası da komisyonda tutulan dosyada saklanır. Muhatabın
+uzlaşma davetine icabet etmemesi veya tutanağı imzalamaktan imtina etmesi
+hallerinde kendisine ayrıca tebligat yapılmaz.
+(6) Uzlaşmanın sağlanamaması halinde, komisyonun
+nihai teklifi ek-5’te yer verilen örnek tutanağa uygun olarak üç nüsha
+halinde tutanağa geçirilir ve bir nüshası muhataba verilir. Muhatap, bu
+Yönetmeliğin 14 üncü maddesinde belirtilen hususlar dikkate alınmak
+kaydıyla, idari para cezasının iptali için öngörülen dava açma süresinin
+son günü mesai saati bitimine kadar komisyonun nihai teklifini kabul
+ettiğini bir dilekçe ile Genel Müdürlüğün veya valiliğin ilgili birimine
+bildirdiği takdirde, bu tarih itibariyle uzlaşma sağlanmış sayılır ve buna
+göre işlem tesis edilir.
+(7) Komisyon çalışmaları sırasında düzenlenen
+tutanakların muhatap tarafından imzalanarak bir nüshasının kendisine
+verilmesi tebliğ hükmündedir.
+(8) Komisyonlarca, uzlaşmanın sağlanması,
+uzlaşmanın sonuçsuz kalması veya uzlaşmanın sağlanamamasına ilişkin
+hususların tutanağa geçirilmesi yeterlidir, tutanaklara geçirilen kararlar
+için ayrıca gerekçe yazılmaz.
+Uzlaşma
+gününün ertelenmesi
+MADDE 18
+– (1) Belirlenen uzlaşma günü
+muhataba bildirildikten sonra komisyonun o gün toplanamayacağının
+anlaşılması halinde, yeni bir uzlaşma günü belirlenerek muhataba
+bildirilir.
+(2) Muhatap tarafından makul gerekçelerle katılım
+sağlanamayacağının toplantı başlamadan önce komisyona bildirilmesi şartıyla
+ve bir defaya mahsus olmak üzere, toplantı muhataba bildirilecek daha
+sonraki bir tarihe ertelenebilir.
+(3) Uzlaşma görüşmelerinin belirlenen günde
+sonuçlandırılamaması veya daha ayrıntılı bir inceleme ya da araştırma
+yapılmasını gerektirmesi hallerinde, toplantıya aynı gün belirlenen veya
+sonradan belirlenerek muhataba bildirilecek bir başka tarihte devam edilebilir.
+(4) İkinci ve üçüncü fıkrada belirtilen hususlar
+komisyon başkan ve üyeleri tarafından imzalanan bir tutanakla tespit olunur
+ve bu tutanak uzlaşma dosyasında saklanır.
+Uzlaşma
+işlemlerinin süresi
+MADDE 19
+– (1) Muhatabın uzlaşma talebi
+dilekçenin Bakanlık birimlerinin kayıtlarına girdiği tarihten itibaren üç
+ay içinde sonuçlandırılması zorunludur. Ancak, bu Yönetmeliğin 18 inci
+maddesinin birinci, ikinci ve üçüncü fıkralarında belirtilen nedenlere
+bağlı olarak söz konusu sürenin aşılması halinde, komisyon dilekçenin
+kayıtlara girdiği tarihten itibaren en geç dört ay içinde uzlaşma
+başvurusunu karara bağlayabilir.
+BEŞİNCİ BÖLÜM
+Uzlaşmanın Sonuçları
+Uzlaşmanın
+kesinliği
+MADDE 20
+– (1) Uzlaşmanın sağlanması
+halinde komisyonların düzenleyecekleri uzlaşma tutanakları kesin olup,
+gereği Genel Müdürlüğün veya valiliğin ilgili birimince derhal yerine
+getirilir.
+(2) Uzlaşma tutanağının Genel Müdürlüğün veya
+valiliğin ilgili birimine intikali üzerine, uzlaşılan tutara göre işlem
+dosyasında gerekli değişiklikler yapılır.
+(3) Bu Yönetmelik kapsamında oluşturulan
+komisyonların tüm çalışmaları ve işlemleri hakkında, muhatap ya da idare
+tarafından dava açılamaz, hiçbir mercie şikâyet veya itirazda bulunulamaz,
+herhangi bir idari inceleme, araştırma ve soruşturmaya konu edilemez ve
+kaldırma, geri alma, değiştirme veya yeni bir işlem yapma talebinde bulunulamaz.
+(4) Komisyonların çalışmaları gizlidir.
+İdari
+yargı yoluna başvuru
+MADDE 21
+– (1) Uzlaşmanın sonuçsuz kalması
+veya sağlanamaması hallerinde muhatap, kendisine tebliğ edilen idari para
+cezasına karşı, uzlaşmanın sonuçsuz kaldığı veya sağlanamadığına dair
+düzenlenen tutanak tarihinden itibaren bu Yönetmeliğin 14 üncü maddesinde
+belirtilen esaslar çerçevesinde idari yargı yoluna gidebilir.
+(2) İdari yargı yoluna ilişkin hususlar Kanunda
+belirlenmiş olan hükümlere tabidir.
+İdari
+para cezalarında uygulanmayacak indirimler
+MADDE 22
+– (1) Bu Yönetmelik uyarınca
+üzerinde uzlaşma talebinde bulunulan idari para cezaları hakkında
+uzlaşmanın neticesine bakılmaksızın 30/3/2005 tarihli ve 5326 sayılı
+Kabahatler Kanununun 17 nci maddesi uyarınca ayrıca peşin ödeme
+indiriminden yararlanılamaz.
+(2) Uzlaşmanın sağlanması halinde idari para
+cezasında yapılacak indirim, uzlaşma talebine konu edilen idari para
+cezasının yüzde ellisini geçemez.
+Ödeme
+MADDE 23
+– (1) Uzlaşma konusu yapılan idari
+para cezaları, uzlaşmanın sağlanması halinde, uzlaşma tutanağının
+tebliğinden itibaren onbeş gün içinde ödenir.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Mali
+hükümler
+MADDE 24 – (1) Komisyonlardaki çalışmaları için komisyonların
+başkan ve üyelerine verilecek huzur hakkı ve huzur ücretleri ile buna
+ilişkin usul ve esaslar Maliye Bakanlığının uygun görüşü alınarak
+Bakanlıkça belirlenir.
+Geçiş
+hükmü
+GEÇİCİ
+MADDE 1 – (1) Bu Yönetmeliğin
+yayımı tarihinden önce Kanunun 77/A maddesine uygun olarak yapılmış olan
+uzlaşma başvuruları için 19 uncu maddede belirtilen süreler bu Yönetmeliğin
+yayımı tarihinden itibaren başlar.
+Yürürlük
+MADDE 25
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 26
+– (1) Bu Yönetmelik hükümlerini
+Gümrük ve Ticaret Bakanı yürütür.
+Ekleri için tıklayınız.
