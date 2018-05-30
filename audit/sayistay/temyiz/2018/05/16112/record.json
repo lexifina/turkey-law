@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44589",
+  "decision_date": "2018-05-30",
+  "source_id": 16112,
+  "chamber": "1",
+  "file_number": "43355",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/16112/",
+  "source_sha256": "144bcd84f10e13754440b8c59f74f3a3fac18ee5d725bcdd23a0c9a5453f55e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
