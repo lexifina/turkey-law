@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.23616",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİNALARIN GÜRÜLTÜYE KARŞI KORUNMASI HAKKINDA YÖNETMELİK",
+  "number": "23616",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23616",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23616&MevzuatTertip=5",
+  "source_sha256": "3f33ccfdcdeafd88489f46743cd5e9d73c49b772fac493dc2309e451f19cc6d7",
+  "source_bytes": 85909,
+  "published": "2017-05-31",
+  "gazette": "30082",
+  "in_force": "2018-05-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/5/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-05-31",
+      "RG-31/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5460,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23616-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
