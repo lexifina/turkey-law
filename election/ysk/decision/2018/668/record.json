@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/668",
+  "list_number": "668",
+  "decision_date": "2018-05-31",
+  "title": "27. Dönem Milletvekili Genel Seçimi kesin aday listelerine ilişkin Yüksek Seçim Kurulunun 2018/668 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77713/2018-668.pdf",
+  "source_sha256": "4d7699e3eb53d8ef7a116b86fe3aa5df74478e3ecbc9d3d2084c9b7fe49c7146",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 183,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-05-31",
+  "law_text_complete": false
+}
