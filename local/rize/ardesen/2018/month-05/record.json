@@ -1,0 +1,29 @@
+{
+  "number": "month-05",
+  "year": 2018,
+  "month": 5,
+  "title": "KARAR DETAYI (mayis2018.pdf)",
+  "decision_date": null,
+  "index_date": "2018-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2018",
+  "source": "https://www.ardesen.bel.tr/Karar/2018-mayis-ayi-meclis-kararlari.html",
+  "official_page": "https://www.ardesen.bel.tr/Karar/2018-mayis-ayi-meclis-kararlari.html",
+  "official_document": "https://www.ardesen.bel.tr/tema/osmanemre/uploads/meclis_kararlari/dosya/mayis2018.pdf",
+  "source_sha256": "8d9d434cd41ba9b3c08b2c4e23acb94e7adf11c57b579dded18acb62432c825f",
+  "issuer": "Ardeşen Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KARAR DETAYI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name"
+}
