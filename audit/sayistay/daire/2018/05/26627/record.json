@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "179",
+  "decision_date": "2018-05-31",
+  "source_id": 26627,
+  "chamber": "4",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26627/",
+  "source_sha256": "f4b24b34d12dcc7cc6abd4bbab79cee142c7a2680d94693e1795fcac4ae61d65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
