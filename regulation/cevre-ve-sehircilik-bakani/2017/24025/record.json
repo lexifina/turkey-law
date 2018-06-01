@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24025",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİNALARDA SU YALITIMI YÖNETMELİĞİ",
+  "number": "24025",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/24025",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24025&MevzuatTertip=5",
+  "source_sha256": "a81d8ed401f9ec80e8f70327d65c6f9d48ebb66dbc910d4f28b5ed7577f4e268",
+  "source_bytes": 70933,
+  "published": "2017-10-27",
+  "gazette": "30223",
+  "in_force": "2018-06-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/6/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/6/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3941,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24025-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
