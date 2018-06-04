@@ -1,0 +1,43 @@
+4 Haziran 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30441
+TEBLİĞ
+Meslekî Yeterlilik Kurumundan:
+ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞDE
+DEĞİŞİKLİK
+YAPILMASINA DAİR TEBLİĞ (TEBLİĞ NO: 2018/16)
+MADDE 1 – 12/5/2010 tarihli ve 27579 sayılı Resmî Gazete’de
+yayımlanan Ulusal Meslek Standartlarına Dair Tebliğin Ek-3’ü ekteki şekilde
+değiştirilmiştir.
+MADDE 2 –
+Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+MADDE 3 –
+Bu Tebliğ hükümlerini Meslekî
+Yeterlilik Kurumu Başkanı yürütür.
+Tebliğin Yayımlandığı Resmî Gazete'nin
+Tarihi
+Sayısı
+12/5/2010
+27579
+Tebliğde Değişiklik Yapan Tebliğlerin Yayımlandığı
+Resmî Gazete'nin
+Tarihi
+Sayısı
+1-
+11/9/2015
+29472
+Mükerrer
+2-
+18/4/2016
+29688
+Mükerrer
+3-
+29/11/2017
+30255
+Mükerrer
+4-
+11/4/2018
+30388
+Mükerrer
+Eki için tıklayınız.
