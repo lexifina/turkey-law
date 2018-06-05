@@ -1,0 +1,539 @@
+5 Haziran 2018 SALI
+Resmî Gazete
+Sayı : 30442
+TEBLİĞ
+Gümrük ve Ticaret Bakanlığından:
+GÜMRÜK GENEL
+TEBLİĞİ
+(TRANSİT REJİMİ)
+(SERİ NO: 6)
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, ortak transit ve ulusal
+transit rejimleri çerçevesinde eşyanın demiryolu ile basitleştirilmiş
+usulde taşınmasına ilişkin olarak uygulanacak usul ve esasları
+düzenlemektir.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 22/6/2012 tarihli
+ve 6333 sayılı Kanunla onaylanması uygun bulunan 20/5/1987 tarihli Ortak
+Transit Rejimine İlişkin Sözleşme, 27/10/1999 tarihli ve 4458 sayılı Gümrük
+Kanununun 84 ilâ 92 nci maddeleri ve 7/10/2009 tarihli ve 27369 mükerrer
+sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 235 inci maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Tebliğde geçen;
+a) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+b) CIM Taşıma Belgesi: 21/3/1985 tarihli ve 3172
+sayılı Kanunla onaylanması uygun bulunan Uluslararası Demiryolu
+Taşımalarına İlişkin Sözleşmenin (COTIF) Ek-B’sinde belirtilen taşıma
+belgesini,
+c) Hareket gümrük idaresi: Eşyanın transit rejimine
+tabi tutulduğu ve basitleştirme izni kapsamında transit beyanı olarak kabul
+edilen bilgilerin sunulduğu gümrük idaresini,
+ç) İzin: Eşyanın demiryolu ile basitleştirilmiş
+usulde taşınmasına ilişkin verilen izni,
+d) İzin sahibi: Eşyanın demiryolu ile
+basitleştirilmiş usulde taşınmasına ilişkin izin verilen demiryolu tren işletmecisini,
+e) Kanun: 27/10/1999 tarihli ve 4458 sayılı Gümrük
+Kanununu,
+f) Sınır gümrük idaresi: Eşyanın Türkiye Gümrük
+Bölgesine giriş yaptığı veya Türkiye Gümrük Bölgesini terk ettiği gümrük
+idaresini,
+g) Sözleşme: 22/6/2012 tarihli ve 6333 sayılı
+Kanunla onaylanması uygun bulunan 20/5/1987 tarihli Ortak Transit Rejimine
+İlişkin Sözleşmeyi,
+ğ) Varış gümrük idaresi: Transit rejimine tabi
+tutulan eşyanın, rejimin sonlandırılması için sunulması gereken gümrük
+idaresini,
+h) Yönetmelik: 7/10/2009 tarihli ve 27369 mükerrer
+sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğini,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Hususlar
+Başvuru
+koşulları ve istenilen belgeler
+MADDE 4 –
+(1) 24/4/2013 tarihli ve 6461
+sayılı Türkiye Demiryolu Ulaştırmasının Serbestleştirilmesi Hakkında Kanun
+uyarınca ulusal demiryolu altyapı ağı üzerinde yük taşımacılığı yapmak
+üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca yetkilendirilmiş bir
+demiryolu tren işletmecisine eşyanın demiryolu ile taşınmasına ilişkin
+basitleştirme izni verilebilmesi için, Yönetmeliğin 235 inci maddesinde
+belirtilen koşullara ilave olarak, demiryolu tren işletmecisinin CIM Taşıma
+Belgesi, sevkiyat kayıtları ve muhasebe kayıtlarını elektronik ortamda
+tutması ve bu bilgilere hareket, varış ve sınır gümrük idarelerinin anlık
+erişimi için gerekli elektronik altyapıya sahip olması gerekir.
+(2) Birinci fıkrada belirtilen genel ve özel
+koşulları karşılayan başvuru sahiplerinin, Yönetmeliğin 235 inci maddesi
+uyarınca ibraz edilecek belgelere ek olarak;
+a) Ek-1’de yer alan örneğe uygun olarak doldurulmuş
+demiryolu basitleştirmesi için başvuru formunu,
+b) Bağlı bulunduğu ticaret sicil müdürlüğü bilgisi
+ile kuruluş ve yapılan değişiklikler dahil bütün ticaret sicil
+gazetelerinin tarih ve sayılarını içerir listeyi,
+c) Yönetim Kurulu üyeleri, sermayesinin yüzde
+onundan fazlasına sahip gerçek kişiler ile gümrük ve dış ticaret
+işlemlerinde temsil yetkisini haiz çalışanlarının arşiv bilgilerini de
+içeren son bir ay içerisinde alınmış adli sicil kayıtlarını,
+ç) Firmayı temsile yetkili kişilerin imza
+sirkülerini,
+d) Şirketi temsile yetkili kişilerce imzalanmış
+Ek-2’de yer alan beyan ve taahhüt metnini,
+e) Ulusal demiryolu altyapı ağı üzerinde yük
+taşımacılığı yapmak üzere Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca
+yetkilendirildiğine ilişkin belgeyi ve aktif olarak yük taşımacılığı yaptığını
+kanıtlayan, Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınmış
+yazıyı,
+f) Basitleştirme izni kapsamında taşıma yapılacak
+istasyonların listesini,
+izin makamına sunması gerekir.
+Başvuru
+yeri ve izin makamı
+MADDE 5 –
+(1) Eşyanın demiryolu ile
+taşınmasına ilişkin basitleştirme izni için başvuru yeri ve izin makamı
+Gümrükler Genel Müdürlüğüdür.
+Basitleştirme
+izninin verilmesi
+MADDE 6 –
+(1) İzin makamı,
+basitleştirmelerden yararlanma başvurusu üzerine yapılacak değerlendirme neticesine
+göre izni verir veya başvuruyu reddeder.
+(2) Yönetmeliğin 233 üncü maddesi kapsamında,
+aranan belgelerin bir kısmının başvuru dosyasında yer almadığının veya
+eksik bilgi içerdiğinin tespit edilmesi halinde, başvuru sahibine
+bildirilen eksiklikler bunlara ilişkin bildirimin yapıldığı tarihi müteakip
+en geç altmış gün içinde tamamlanır. Bu süre içerisinde tamamlanmayan
+başvuru yapılmamış sayılır ve başvuru evrakları başvuru sahibine geri
+gönderilir.
+(3) Başvuru kabul edildiğinde Ek-3’te yer alan izin
+belgesi düzenlenerek başvuru sahibine yazılı olarak bildirilir.
+(4) Başvurunun reddi, başvuru sahibine gerekçesi
+ile birlikte yazılı olarak bildirilir.
+(5) Basitleştirme izni, eşyanın ortak ve ulusal
+transit rejimleri kapsamında taşınmasında kullanılabilir.
+(6) Basitleştirme izni, Yönetmeliğin 225 inci
+maddesi kapsamına giren eşyanın ve Türk Gümrük Tarife Cetvelinin 22.08 ve
+24.02 pozisyonlarında yer alan eşyanın taşınmasında kullanılamaz.
+ÜÇÜNCÜ BÖLÜM
+İzin Sahibince ve Gümrük İdaresince Gerçekleştirilecek
+İşlemler
+Transit
+beyanı olarak hareket gümrük idaresine iletilecek bilgiler
+MADDE 7 – (1) Basitleştirme izni kapsamında taşıma yapan
+demiryolu tren işletmecisi, taşıma işlemleri için rejim hak sahibidir.
+(2) İzin sahibi tarafından basitleştirme izni
+kapsamında işlem yapılan CIM Taşıma Belgesi, sevkiyat kayıtları ve muhasebe
+kayıtları, gümrük idaresinin elektronik ortamda anlık erişimine açık
+olmalıdır.
+(3) Basitleştirme izni kapsamında gümrük idaresine,
+her bir taşımaya ilişkin olarak vagon bazında;
+a) Vagon numarası,
+b) CIM Taşıma Belgesi numarası,
+c) Planlanan sevkiyat tarihi,
+ç) Hareket gümrük idaresi,
+d) Varış gümrük idaresi,
+bilgileri elektronik ortamda iletilir.
+(4) Üçüncü fıkra kapsamında ilgili CIM Taşıma
+Belgesi numarasının karşısında;
+a) Transit rejimine tabi tutulan serbest dolaşımda
+olmayan eşya için “T” kodu,
+b) Transit rejimine tabi tutulan, serbest dolaşımda
+olmayan ve daha önceki bir sefer ile taşınan eşyanın devamı niteliğindeki
+eşya için “TD” kodu,
+c) İhracata konu eşya için “X” kodu,
+ç) İhracata konu olan ve daha önceki bir sefer ile
+taşınan eşyanın devamı niteliğindeki eşya için “XD” kodu,
+kullanılır.
+(5) Basitleştirme izni kapsamında, üçüncü ve
+dördüncü fıkralarda yer alan bilgiler, taşıtın hareketine kadar izin sahibi
+tarafından gümrük idaresinin sistemine elektronik veri değişimi sistemi ile
+elektronik imzalı olarak iletilir ve CIM Taşıma Belgesi bilgileri, eşyaya
+ilişkin giriş özet beyan ya da ihracat beyannamesi kayıtları ile
+ilişkilendirilir. Söz konusu bilgilerin gümrük idaresinin sistemi
+tarafından kabul edilmesi ile birlikte izin sahibine kayıt numarası bilgisi
+iletilir. İzin sahibi tarafından gümrük idaresinin sistemine iletilen
+bilgilerde değişiklik yapılmak istenirse, ilgili kayıt numarası
+kullanılarak değişiklik bilgileri taşıtın varış istasyonuna varışına kadar
+gümrük idaresinin sistemine elektronik veri değişimi sistemi ile iletilir.
+(6) İzin sahibi, gümrük idaresince talep edilmesi
+halinde, belirli bir tarih aralığında basitleştirme izni kapsamında
+gerçekleştirmiş olduğu işlemlere ilişkin bilgileri, liste halinde gümrük
+idaresine ibraz eder.
+(7) Altıncı fıkrada belirtilen ve gümrük idaresine
+ibraz edilecek listede üçüncü fıkrada belirtilen bilgiler ile her bir CIM
+Taşıma Belgesi için asgari olarak aşağıdaki bilgilere yer verilir:
+a) Alıcı,
+b) Gönderici,
+c) Kap adedi,
+ç) Eşyanın tanınması için gerekli tüm bilgileri
+içeren normal ticari tanımı (Eşyanın gruplandırılması durumunda, eşya
+tanımı yerine “konsolide” ifadesi kullanılır),
+d) Brüt ağırlık.
+(8) Bu Tebliğ kapsamında basitleştirme izni sahibi
+demiryolu tren işletmecileri tarafından verilecek giriş özet beyanlara
+ilişkin olarak, gümrük idaresince beyanın kontrolü veya eşyanın muayene
+edilmesine karar verilen durumlar ile özet beyan eksiklik ve fazlalık durumları
+hariç olmak üzere, özet beyanların kağıt ortamında gümrük idaresine ibrazı
+zorunlu değildir.
+(9) Bir serbest bölgeden çıkarılarak varış gümrük
+idaresine demiryolu ile sevk edilecek eşyanın serbest bölgeden çıkışına
+ilişkin düzenlenen transit beyanında, rejim hak sahibinin izin sahibi
+demiryolu tren işletmecisi olması ve CIM Taşıma Belgesinin transit beyanına
+eklenmesi koşuluyla, işlemler, üçüncü ve dördüncü fıkralarda yer alan bilgilerin
+izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi
+sistemi ile iletilmesine gerek olmaksızın bu Tebliğ hükümleri çerçevesinde
+ve transit beyanı üzerinden yürütülür.
+Etiket
+MADDE 8 –
+(1) İzin sahibi, Sözleşme Ek III,
+İlave B11’e uygun olan ve Ek-4’te örneği yer alan piktogramı taşıyan
+etiketleri kullanmak suretiyle, basitleştirilmiş usul kapsamında taşınacak
+eşyanın tanınmasını sağlar.
+(2) Bu etiketler, CIM Taşıma Belgesinin sol üst
+köşesine yapıştırılır. Ayrıca, ortak transit rejimi kapsamı taşımalarda,
+tam yüklü olması durumunda ilgili demiryolu vagonuna veya diğer durumlarda
+kaplara da etiket yapıştırılır.
+(3) CIM Taşıma Belgesi üzerinde, birinci fıkrada
+belirtilen etiketin yerine bu piktogramı yeşil renkte basan bir mühür
+kullanılabilir.
+(4) Ulusal transit rejimi kapsamındaki taşımalar
+için, vagon, kap veya kaplara etiket yapıştırılmasına gerek yoktur.
+(5) Etiketlerin, Sözleşme Ek III, İlave B11’de yer
+alan örneğe uygun olarak hazırlanmasından ve basımından izin sahibi
+sorumludur.
+Yükleme
+listeleri
+MADDE 9 –
+(1) CIM Taşıma Belgesine, Sözleşme
+Ek III, İlave B4’teki örneğe uygun olarak düzenlenen yükleme listeleri
+eklenebilir. Bu listelerin sayısı, CIM Taşıma Belgesinde eşlik eden
+belgelere ilişkin bilgiler için ayrılmış kutuda gösterilir.
+(2) CIM Taşıma Belgesine eşlik eden yükleme
+listeleri, bu belgenin ayrılmaz bir parçasını oluşturur.
+(3) Yükleme listesi, CIM Taşıma Belgesinin ilgili
+olduğu vagon numarasını veya konteynerli taşımada eşyanın bulunduğu
+konteynerin numarasını içerir.
+(4) Yükleme listelerinin aslı üzerinde sevk eden
+istasyonun mührü bulunur.
+Ayniyet
+önlemleri
+MADDE 10
+– (1) Vagonlar ve mühürlenmeye
+uygun diğer taşıma araçlarının izin sahibi tarafından mühürlenmesi esastır.
+Bununla birlikte, mühürlü olarak izin sahibi tarafından teslim alınan
+vagonlar ve mühürlenmeye uygun diğer taşıma araçlarına, izin sahibince
+yeniden mühür tatbik edilmeyebilir. Her durumda, vagonlar ve mühürlenmeye
+uygun diğer taşıma araçları üzerindeki mühürlerin numaraları, izin sahibi
+tarafından CIM Taşıma Belgesinin 21 no.lu kutusuna kaydedilir.
+(2) Hareket gümrük idaresince, izin sahibi
+tarafından alınan ayniyet önlemleri kontrol edilir, aksine karar alınmasını
+gerektiren bir tespitte bulunulmadığı durumlarda yeni bir mühürleme
+yapılmaz. Hareket gümrük idaresince gerekli görülerek mühür tatbik edilmesi
+halinde, hareket gümrük idaresi, CIM Taşıma Belgesinin 21 no.lu kutusuna,
+bu şekilde takılmış mühürlere ilişkin bilgileri yazar.
+(3) Ayniyet için alınan diğer önlemler dikkate
+alınarak, CIM Taşıma Belgesinin 21 no.lu kutusundaki veya tamamlayıcı
+belgelerdeki tanımı, bunların hemen tanınmasını mümkün kılıyorsa ve
+mühürleme mümkün olmuyorsa, mühürlemeden vazgeçilebilir.
+(4) Üçüncü fıkraya uygun olarak eşyanın ayniyetinin
+mühürleme dışındaki yollarla sağlanması halinde, izin sahibi, CIM Taşıma
+Belgesinin 21 no.lu kutusuna “Vazgeçme – 92110” ibaresini yazar.
+(5) Sökülmeleri için özel araçlar gerektiren yüksek
+güvenlikli mühürlerin bir taşıma aracının mühürlenmesi için kullanılması
+halinde izin sahibi, hareket gümrük idaresinin istemesi halinde mühürleri
+söker.
+(6) İzin sahibi, kendi kullanacağı mühürlere ait
+örnekleri işlem yapacağı gümrük idarelerine sunar.
+Hareket
+gümrük idaresince yapılacak kontroller
+MADDE 11
+– (1) Hareket gümrük idaresi
+tarafından, ortak ya da ulusal transit rejimi kapsamında sevk edilmek üzere
+izin sahibi tarafından gümrüğe sunulan vagonlar ile bu vagonlara ilişkin
+CIM belgeleri ve ekleri üzerinde;
+a) Eşyanın ticari tanımı ile, mühürlenmiş olan
+vagon veya konteynerlerin mühür numaralarının, CIM Taşıma Belgesinin
+eşyanın tanımı için ayrılmış 21 no.lu kutusuna; eşyanın gümrük tarife alt
+pozisyonunun ise, CIM Taşıma Belgesinin armonize eşya kodu için ayrılmış 24
+no.lu kutusuna yazılmış olduğunun kontrolü,
+b) Eşyaya ilişkin özet beyan ve varış bildirimi ya
+da önceki gümrük rejimine ilişkin gümrük beyannamelerinin numaralarının CIM
+Taşıma Belgesinin 99 no.lu kutusuna kaydedildiğinin ya da bu kutuya
+sığmaması durumunda bir liste halinde ekte sunulduğunun kontrolü,
+c) İzin sahibi tarafından, 7 nci maddenin beşinci
+fıkrasında belirtilen kayıt numarasının CIM Taşıma Belgesi üzerine
+yazıldığının kontrolü,
+ç) İzin sahibi tarafından alınan ayniyet
+önlemlerinin kontrolü,
+d) Ortak transit rejimi kapsamı taşımalarla sınırlı
+olarak, CIM Taşıma Belgesinin 58 (b) no.lu kutusunda yer alan
+"Basitleştirilmiş demiryolu transit prosedürü" ifadesinin yanında
+yer alan "Evet" ibaresinin işaretlenerek, demiryolu tren
+işletmecisine ait olan Uluslararası Demiryolları Birliği (UIC) işletme
+kodunun, aynı kutudaki rejim hak sahibi (asıl sorumlu) için ayrılmış alana
+kaydedildiğinin kontrolü,
+e) Ortak transit rejimi kapsamı taşımalarla sınırlı
+olarak, CIM Taşıma Belgelerinin üzerine, taşımanın basitleştirilmiş usul
+kapsamında gerçekleştirildiğini belirten yeşil piktogramlı etiketlerin
+yapıştırıldığının ya da bu piktogramı yeşil renkte basan bir mührün
+uygulandığının kontrolü,
+gerçekleştirilir.
+(2) Hareket gümrük idaresi gerekli gördüğü hallerde
+beyanı kontrol veya eşyayı muayene edebilir ve bu amaçla taşımaya ilişkin
+belgelerin sunulmasını isteyebilir.
+(3) İzin kapsamında taşınacak eşyanın Türkiye
+Gümrük Bölgesine girmesinin belli kurumların kontrolüne tabi olması
+durumunda, varış gümrük idaresine sevkinden önce giriş gümrük idaresinde
+eşyaya ilişkin gerekli kontroller yapılır.
+(4) Hareket gümrük idaresince gerek görülmesi
+halinde, belirli bir tarih aralığında izin kapsamında gerçekleştirilen
+işlemlere ilişkin olarak tarama veya yoklama yöntemiyle kontroller
+gerçekleştirilir.
+Eşyanın
+sevki
+MADDE 12
+– (1) Yapılan kontroller
+neticesinde herhangi bir uygunsuzluğun tespit edilmemesi halinde, CIM
+Taşıma Belgesinin 21 no.lu kutusuna, taşımanın türüne göre T1, T2 veya TR
+sembolleri yazılarak gümrük idaresi tarafından mühür uygulanır ve CIM
+Taşıma Belgesinin aslı ile birlikte trenin hareketine izin verilir.
+(2) Trenin hareketinden sonra izin sahibi
+tarafından sevk edilmiş vagonlara ilişkin hazırlanan listenin ekinde, 7 nci
+maddenin beşinci fıkrasında belirtilen kayıt numaralarının da yer aldığı
+CIM Taşıma Belgelerinin birer örneğine yer verilir ve söz konusu belgeler
+üzerinden, işlem yapılan tüm vagonların sevk edilip edilmediğinin kontrolü
+gerçekleştirilir.
+Taşıma
+sözleşmelerinin değiştirilmesi
+MADDE 13
+– (1) Taşıma sözleşmesinde
+değişiklik yapılarak;
+a) Türkiye Gümrük Bölgesi dışında sona erecek olan
+bir taşıma işleminin Türkiye Gümrük Bölgesi içinde sona ermesi,
+b) Türkiye Gümrük Bölgesi içinde sona erecek olan
+bir taşıma işleminin Türkiye Gümrük Bölgesi dışında sona ermesi,
+durumunda izin sahibi, hareket idaresinin önceden
+izni olmadan değişiklik yapılmış sözleşmeyi uygulayamaz.
+(2) Diğer durumlarda, izin sahibi, değişiklik
+yapılmış sözleşmeyi uygulayabilir. İzin makamı, aksine karar vermedikçe,
+izin sahibi, yapılan değişiklikleri hareket idaresine derhal bildirir.
+Sınır
+gümrük idaresindeki işlemler
+MADDE 14
+– (1) İzin çerçevesinde, Türkiye
+Gümrük Bölgesi içinde başlayan transit rejimi kapsamındaki bir tren yurt
+dışı edilmek üzere sınır gümrük idaresine ulaştığında, mühürlerin veya
+alınmış olan diğer ayniyet önlemlerinin kontrolü yapılır ve 7 nci maddenin
+beşinci fıkrasında belirtilen kayıt numarası üzerinden varış işlemleri
+gerçekleştirilir. Ayrıca, ortak transit rejimi kapsamı taşımalarda,
+vagonların üzerinde yeşil piktogramlı etiketlerin bulunup bulunmadığı
+kontrol edilir. İzin sahibi tarafından, çıkışı yapılan vagonlara ilişkin
+hazırlanan listenin ekinde yer alan ve ilgili ihracat beyannamesi ile çıkış
+bildirimi bilgilerini de içeren CIM Taşıma Belgeleri üzerinden, ihracat
+beyannamelerinin, izin sahibi tarafından sunulmuş olan çıkış bildirimine
+eklenip eklenmediği ve çıkış bildiriminde yer alan tüm vagonların yurt dışı
+edilip edilmediği kontrol edilerek, trenin yurt dışı edilmesini müteakip
+çıkış bildirimi onaylanır.
+(2) Birinci fıkra kapsamı işlemlerde tespit edilen
+beyana aykırılıklar için 15 inci maddenin üçüncü ve dördüncü fıkraları çerçevesinde
+işlem yapılır.
+(3) Ortak transit rejimi kapsamında Türkiye Gümrük
+Bölgesine getirilen ve izin çerçevesinde Türkiye Gümrük Bölgesi içerisinde
+bir varış gümrük idaresine sevk edilecek trenin sınır gümrük idaresine
+ulaşması ile birlikte; trenin kontrolü yapılır ve vagonların üzerinde yeşil
+piktogramlı etiketlerin bulunup bulunmadığı kontrol edilir. İzin sahibi
+tarafından verilen özet beyanları ihtiva eden varış bildirimi, bilgilerin
+ilgili CIM Taşıma Belgeleri ile karşılaştırılmasını müteakip onaylanır.
+Eşyanın varış gümrük idaresine sevkinde, 11 ve 12 nci maddeler çerçevesinde
+işlem yapılır.
+(4) Türkiye Gümrük Bölgesine getirilen ve izin
+çerçevesinde ulusal transit rejimi kapsamında Türkiye Gümrük Bölgesi
+içerisinde bir varış gümrük idaresine sevk edilecek trenin sınır gümrük
+idaresine ulaşması ile birlikte, trenin kontrolü yapılır ve izin sahibi
+tarafından verilen özet beyanları ihtiva eden varış bildirimi, bilgilerin
+ilgili CIM Taşıma Belgeleri ile karşılaştırılmasını müteakip onaylanır.
+Eşyanın varış gümrük idaresine sevkinde, 11 ve 12 nci maddeler çerçevesinde
+işlem yapılır.
+(5) Türkiye Gümrük Bölgesine denizyolu ile
+getirilen ve varış gümrük idaresine CIM Taşıma Belgesi düzenlenerek demiryolu
+ile sevk edilecek eşyanın, demiryolu taşımacılığının bir parçası olarak
+limandan demiryolu taşıtlarına yükleneceği yere kadar karayolu ile
+taşınmasının gerektiği durumlarda, izin sahibince söz konusu karayolu taşımasının
+da sorumlulukları altında gerçekleştirileceğinin taahhüt edilmesi ve
+taşımanın karayolu ile gerçekleştirilecek kısmı için gerekli teminatın
+verilmesi koşuluyla, izin makamınca, taşımanın tamamının bu Tebliğ
+hükümleri çerçevesinde basitleştirilmiş usulde yapılmasına izin verilebilir.
+(6) Sınır gümrük idaresi, gerekli gördüğü hallerde
+beyanı kontrol veya eşyayı muayene edebilir ve bu amaçla taşımaya ilişkin
+belgelerin sunulmasını isteyebilir.
+(7) Sınır gümrük idaresince gerek görülmesi
+halinde, belirli bir tarih aralığında izin kapsamında gerçekleştirilen
+işlemlere ilişkin olarak, tarama veya yoklama yöntemiyle kontroller
+gerçekleştirilir.
+Varış
+gümrük idaresinde yapılacak işlemler
+MADDE 15
+– (1) Basitleştirme izni
+kapsamında 7 nci maddenin üçüncü ve dördüncü fıkralarında yer alan bilgilerin,
+izin sahibi tarafından gümrük idaresinin sistemine elektronik veri değişimi
+sistemi ile iletilmiş olması koşuluyla, trenin varış gümrük idaresine
+ulaşması ile eşyanın varış gümrük idaresine sunulmuş olduğu ve transit
+işleminin sonlandırıldığı kabul edilir.
+(2) Trenin varış gümrük idaresine ulaştığının
+tespitini müteakip, mühürlerin kontrolü yapılır ve 7 nci maddenin beşinci
+fıkrasında belirtilen kayıt numarası üzerinden varış işlemleri
+gerçekleştirilir. Varış işlemleri ile birlikte, giriş özet beyanın ilgili
+taşıma senedinde kayıtlı eşya bilgileri de varış gümrük idaresindeki kayıt
+ile ilişkilendirilir ve eşyaya ilişkin varış gümrük idaresindeki işlemler
+söz konusu kayıtlar üzerinden yürütülür.
+(3) Varış gümrük idaresinde tespit edilen beyana
+aykırılıklar için Gümrük Yönetmeliğinin 239 ilâ 242 nci maddeleri
+çerçevesinde işlem yapılır.
+(4) Varış gümrük idaresinde yapılan kontrol
+neticesinde tespit edilen beyana aykırılığın 21/3/2007 tarihli ve 5607
+sayılı Kaçakçılıkla Mücadele Kanununu da ihlal eder nitelikte olduğu
+sonucuna varılması durumunda, izin sahibinin demiryolu ile eşya
+taşımacılığına ilişkin olarak uluslararası ve ulusal mevzuat ile
+düzenlenmiş sorumlulukları da göz önünde bulundurularak, ilgili hükümler
+uyarınca gerekli işlemler yapılır.
+(5) Varış gümrük idaresi, gerekli gördüğü hallerde
+beyanı kontrol veya eşyayı muayene edebilir ve bu amaçla taşımaya ilişkin
+belgelerin sunulmasını isteyebilir.
+(6) Varış gümrük idaresince gerek görülmesi
+halinde, belirli bir tarih aralığında izin kapsamında gerçekleştirilen
+işlemlere ilişkin olarak, tarama veya yoklama yöntemiyle kontroller
+gerçekleştirilir.
+DÖRDÜNCÜ BÖLÜM
+İznin Askıya Alınması ve İptali
+İznin
+askıya alınması
+MADDE 16
+– (1) Yönetmeliğin 234 üncü
+maddesi çerçevesinde, izin koşullarından herhangi birinin artık karşılanmadığının
+izin sahibince bildirilmesi veya gümrük idaresince tespit edilmesi
+durumunda, eksikliklerin düzeltilmesi ve/veya durumun açıklanmasını teminen
+izin sahibine, bildirim tarihinden başlamak üzere otuz gün süre verilir. Bu
+süre, izin sahibinin eksikliklerin giderilebileceğine dair inandırıcı bilgi
+ve belge sunması kaydıyla otuz gün süreyle uzatılabilir.
+(2) İzin sahibi, birinci fıkrada belirtilen
+durumları verilen süre içinde düzeltmezse izin makamı, izin sahibinin
+durumu düzeltmek üzere gerekli önlemleri almasına imkân vermek amacıyla
+izni otuz gün süre ile askıya alır ve durumu izin sahibine bildirir. Otuz
+günlük askıya alma süresi izin sahibinin talebi üzerine altmış gün daha
+uzatılabilir. Verilen ek süreler içinde de gerekli düzeltme yapılmazsa bu
+Tebliğin 17 nci maddesi kapsamında izin iptal edilir.
+(3) Bu Tebliğde belirtilen hükümlerden herhangi
+birine aykırı hareket edildiğinin anlaşılması halinde, mevzuattaki cezai
+hükümler saklı kalmak üzere, izin sahibi ilk iki seferde yazılı olarak
+uyarılır. Bir takvim yılı içerisinde iki kez yazılı olarak uyarılmasına
+rağmen aynı hükmün üçüncü kez ihlal edilmesi durumunda izin, otuz gün
+süreyle askıya alınır.
+(4) Kamunun emniyet ve güvenliğine, kamu sağlığına
+veya çevreye karşı bir tehdit durumunda, söz konusu tehdidin niteliği veya
+seviyesi itibarıyla gerek görüldüğünde izin askıya alınır.
+İznin
+iptali
+MADDE 17
+– (1) Yönetmeliğin 234 üncü
+maddesi çerçevesinde, aşağıdaki durumlardan herhangi birinin mevcudiyeti
+durumunda izin iptal edilir:
+a) İznin yanlış bilgilere veya sahte belgelere
+dayanılarak verildiğinin anlaşılması.
+b) Basitleştirme izni için gerekli koşulların artık
+mevcut olmadığının anlaşılması ve 16 ncı maddede belirtilen süreler
+içerisinde izin sahibinin eksiklikleri gidermemesi veya durumu düzeltmek
+için gerekli önlemleri almaması.
+c) Yönetmeliğin 230 uncu maddesinin birinci
+fıkrasının (c) bendinde sayılan kişilerden herhangi biri hakkında aynı
+bentte sayılan kanunlara muhalefetten dolayı kesinleşmiş yargı kararının
+verilmiş olması durumunda, hakkında yargı kararı verilmiş kişinin 60 gün
+içerisinde firma ile ilişiğinin kesilmemiş olması.
+(2) İznin iptali bildirim tarihinden itibaren
+yürürlüğe girer. Bununla birlikte, izin sahibinin haklı talepleri söz
+konusu olduğunda yetkili makamlar, iptalin yürürlüğe giriş tarihini
+erteleyebilir. Bu durumda, kararın yürürlüğe gireceği tarih belirtilir.
+(3) Birinci fıkraya göre izni iptal edilen
+demiryolu tren işletmecisine, iznin iptalinin yürürlüğe girdiği tarihten
+itibaren bir yıl süre ile yeni izin verilmez.
+BEŞİNCİ BÖLÜM
+İzin Sahibinin Yükümlülükleri ve Sonradan Kontrol
+İzin
+sahibinin yükümlülükleri
+MADDE 18
+– (1) İzin sahibi
+a) Basitleştirme izni kapsamında taşıma yapılacak istasyonlara
+ilişkin değişiklik söz konusu olduğunda, söz konusu değişiklikleri,
+taşımaların başlamasının planlandığı tarihten en geç 15 gün öncesinde
+Bakanlığa bildirmekle,
+b) 7 nci maddede yer alan bilgileri, hareket, varış
+ve sınır gümrük idarelerinin elektronik ortamda anlık erişimine hazır
+bulundurmakla ve gümrük idaresinin sistemine elektronik veri değişimi
+sistemi ile iletmekle,
+c) Belirli bir tarih aralığında izin kapsamında
+gerçekleştirmiş olduğu işlemlere ilişkin bilgilerin gümrük idaresince sorgulanabilmesi
+için işlem tarihinden itibaren üç yıl süre ile bu bilgilere gerekli erişimi
+sağlamakla ve gümrük idaresince talep edilmesi halinde, bu bilgileri liste
+halinde gümrük idaresine ibraz etmekle,
+ç) Gümrük idaresince talep edilmesi veya sistemdeki
+bilgilere anlık erişimin sağlanamadığı hallerde gümrük idaresine CIM Taşıma
+Belgesi ve ilgili belgelerin birer örneğini sunmakla,
+d) İzin kapsamında taşınacak eşyanın Türkiye Gümrük
+Bölgesine girmesinin belli kurumların kontrolüne tabi olması durumunda, varış
+gümrük idaresine sevkinden önce giriş gümrük idaresinde eşyaya ilişkin
+gerekli kontrollerin yapılmasını sağlamakla,
+e) Kayıtlarında, izin kapsamı sevkiyatlara konu
+eşyanın statüsüne ilişkin gerekli ayrımı sağlamakla,
+f) Ticari ve taşımaya ilişkin kayıtlarını, gümrük
+idaresince yapılan ve özellikle sonradan kontrol kapsamında yapılacak
+denetimlerin sağlıklı ve etkin bir şekilde yapılmasına olanak verecek,
+bilgi ve kayıtların gerçekliğini koruyan şekilde ve genel kabul görmüş
+muhasebe ilkelerine uygun olarak tutmakla ve elektronik haberleşme
+güvenliğini sağlamakla,
+g) Sevkiyatın ayniyetini sağlamak üzere gerekli
+tedbirleri almakla,
+ğ) Ortak transit rejimi kapsamında
+gerçekleştirilecek olan taşımalarda vagonlara 8 inci maddeye uygun şekilde
+yeşil piktogramı taşıyan etiketleri yapıştırmakla,
+h) Rejim hak sahibine ilişkin tüm yükümlülükleri
+yerine getirmekle,
+ı) Gümrük idaresinin yapacağı gümrük kontrolleri
+için gerek duyulan uygun ortamı sağlamakla,
+i) Her türlü usulsüzlük ve uyuşmazlıkları hareket,
+varış ve sınır gümrük idarelerine bildirmekle, aynı zamanda usulsüzlük ve
+uyuşmazlıkları araştırma konusunda gümrük idaresi ile işbirliği yapmakla,
+j) İzin şartlarına ilişkin durumunda bir değişiklik
+olması halinde, en geç otuz gün içerisinde izin makamına durumunu bildirmekle,
+yükümlüdür.
+Basitleştirme
+izni kapsamındaki işlemlerin sonradan kontrolü
+MADDE 19
+– (1) İzin sahibince
+gerçekleştirilen işlemler, 27/10/2008 tarihli ve 27037 sayılı Resmî
+Gazete’de yayımlanan Sonradan Kontrol ve Riskli İşlemlerin Kontrolü Yönetmeliği
+kapsamında sonradan kontrole tabi tutulur.
+(2) Yürütülen sonradan kontrol sırasında izin
+sahibinin izne ilişkin koşulları taşımaya devam edip etmediği de kontrol
+edilir.
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Yetki
+MADDE 20
+– (1) Bakanlık (Gümrükler Genel
+Müdürlüğü), bu Tebliğin uygulanmasını temin etmek amacıyla gerekli göreceği
+her türlü tedbiri almaya, demiryolu ile basitleştirilmiş usulde taşınacak
+eşyaya sınırlama getirmeye, özel ve zorunlu durumlar ile bu Tebliğde yer
+almayan hususları inceleyip sonuçlandırmaya yetkilidir.
+Yürürlük
+MADDE 21
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 22
+– (1) Bu Tebliğ hükümlerini Gümrük
+ve Ticaret Bakanı yürütür.
+Ekleri için tıklayınız
