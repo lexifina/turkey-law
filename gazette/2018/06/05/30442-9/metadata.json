@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-06-05",
+  "issue": "30442",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Taşınmaz Ticareti Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180605-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180605.htm",
+  "index_sha256": "adcaffd288cd2429704b0d47eca205d8d85ef6283b2c688d44e0e3ab7b0ea4a2",
+  "index_header": "5 Haziran 2018 ... 30442 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180605.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "1023edd8799e245424a4fc95cc22754e5eb473a01b624f280ccebc4d8a53c8bc",
+  "text_status": "text.txt as published"
+}
