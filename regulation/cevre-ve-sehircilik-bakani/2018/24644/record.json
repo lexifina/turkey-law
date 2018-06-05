@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24644",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE VE ŞEHİRCİLİK BAKANLIĞI KAMU YAPILARI DENETİM HİZMETLERİ YÖNETMELİĞİ",
+  "number": "24644",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2018/24644",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24644&MevzuatTertip=5",
+  "source_sha256": "b9497edf9c0c030c59eff76527aa2a35c608539013c91959b49e685405978d17",
+  "source_bytes": 106766,
+  "published": "2018-06-05",
+  "gazette": "30442",
+  "in_force": "2018-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6995,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24644-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
