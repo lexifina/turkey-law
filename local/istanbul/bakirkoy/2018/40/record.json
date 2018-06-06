@@ -1,0 +1,23 @@
+{
+  "number": "40",
+  "number_as_published": "40",
+  "year": 2018,
+  "title": "Sözleşmeli Personel",
+  "decision_date": "2018-06-06",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/41",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/40-sozlesmeli-personel-06062018.pdf",
+  "source_sha256": "911b4198e53215446b13adb3fe7e1636376e85c498f525055c47a0c83e2bbcb9",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-06-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Haziran 2018 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
