@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44625",
+  "decision_date": "2018-06-06",
+  "source_id": 17611,
+  "chamber": "5",
+  "file_number": "42868",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17611/",
+  "source_sha256": "e6f158bec6d3f415df66530fba7bd5bdd69612589b40f45af6742abfee738cff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
