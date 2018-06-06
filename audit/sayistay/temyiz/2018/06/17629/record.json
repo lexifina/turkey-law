@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44637",
+  "decision_date": "2018-06-06",
+  "source_id": 17629,
+  "chamber": "1",
+  "file_number": "42029",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17629/",
+  "source_sha256": "094f6882fd32dbc0165ceb377d811b986fa509ebb149cdd35df64a6fca287bf4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
