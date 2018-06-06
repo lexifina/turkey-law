@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44636",
+  "decision_date": "2018-06-06",
+  "source_id": 17627,
+  "chamber": "1",
+  "file_number": "41831",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17627/",
+  "source_sha256": "b8874da189ac1cda1f67832d0d6d8e313c9ac1419e9143d111d368a8c09c75fc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
