@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-06-06",
+  "issue": "30443",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yapı Kayıt Belgesi Verilmesine İlişkin Usul ve Esaslar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180606-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180606.htm",
+  "index_sha256": "a2907c178fa5863902fea47a4c84eb176592c71a6b50cebbb6c9ea84c2cf55c8",
+  "index_header": "6 Haziran 2018 ... 30443 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180606.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "df103a9b1f0bc83567b3809cc6de0b40e22343b14b7dddf018248046863a110a",
+  "text_status": "text.txt as published"
+}
