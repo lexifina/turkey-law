@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44649",
+  "decision_date": "2018-06-06",
+  "source_id": 17644,
+  "chamber": "1",
+  "file_number": "41834",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17644/",
+  "source_sha256": "84d697333f356ce75b40698939e00d48b16b13a70d1ea85fb7417a399cf09a61",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
