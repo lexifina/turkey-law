@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24654",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BANKALARCA ÖZKAYNAK HESAPLAMASINA DAHİL EDİLECEK BORÇLANMA ARAÇLARINA İLİŞKİN ESASLAR HAKKINDA TEBLİĞ",
+  "number": "24654",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "path": "teblig/2018/24654",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24654&MevzuatTertip=5",
+  "source_sha256": "b37fc5d4a98df838673bee593bb1b4a069544efee159bda243f59df2f51356c2",
+  "source_bytes": 28528,
+  "published": "2018-06-07",
+  "gazette": "30444",
+  "in_force": "2018-06-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.06.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1308,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
