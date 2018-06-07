@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7892-2",
+  "decision_date": "2018-06-07",
+  "title": "Önlisans ve Lisans İşlemleri ile İlgili Başvurularda Sunulması Gereken Bilgi ve Belgeler Listesine ilişkin",
+  "resmi_gazete_date": "2018-06-12",
+  "resmi_gazete_number": "30449",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XPn9wEm28FI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XPn9wEm28FI="
+  ],
+  "source_sha256": "3a484cea3798b7a1a2c402d1b5e998e8954e2fcc8084da9d5e5d1dcc6ef17629",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-06-07",
+  "law_text_complete": true
+}
