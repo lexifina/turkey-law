@@ -1,0 +1,22 @@
+{
+  "number": "95",
+  "number_as_published": "2018/95",
+  "year": 2018,
+  "title": "council decision",
+  "decision_date": "2018-06-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-haziran-ayi-meclis-kararlari/1518",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-95/1521",
+  "source_sha256": "38d2bcd80e9ad85bea5931330535c8760596ed5bd55899d83753647254f83f50",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2018-06-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.06.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "88c056591d9569f352813365195f4d852170f886a64610506965f6af14bb9146"
+}
