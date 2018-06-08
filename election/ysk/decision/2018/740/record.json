@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/740",
+  "list_number": "740",
+  "decision_date": "2018-06-08",
+  "title": "24 Haziran 2018 tarihinde yapılacak 27. Dönem Milletvekili Genel Seçiminde kullanılacak oy pusulalarında “EVET” veya “TERCİH” mühürlerinin basıldıkları yerlere göre ortaya çıkabilecek olası sonuçları ve oyun geçerli geçersiz sayılmasına ilişkin durumları gösteren örnek oy pusulası şablonları ile ilgili Yüksek Seçim Kurulunun 2018/740 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77721/2018-740.pdf",
+  "source_sha256": "49eef64f720c9a5593f4265692ad49c6f4dd0674c1938a57a29f32ae19c429a3",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 19,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-06-08",
+  "law_text_complete": false
+}
