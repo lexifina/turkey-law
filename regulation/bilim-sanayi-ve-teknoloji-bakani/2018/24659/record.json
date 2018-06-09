@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24659",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "112 ACİL ÇAĞRI SERVİSİ TABANLI ARAÇ İÇİ ACİL ÇAĞRI SİSTEMİ BAKIMINDAN MOTORLU ARAÇLARIN, 112 TABANLI ARAÇ İÇİ ACİL ÇAĞRI AYRI TEKNİK ÜNİTELERİNİN VE AKSAMLARININ TİP ONAYINA YÖNELİK TEKNİK ŞARTLARINA VE DENEY İŞLEMLERİNE İLİŞKİN YÖNETMELİK (2017/79/AB)",
+  "number": "24659",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24659",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24659&MevzuatTertip=5",
+  "source_sha256": "a1d8c56908bb5826f27f99fd0bbfdbcd5df27bf39d8c4a76d7d4dff48e7933ab",
+  "source_bytes": 25298,
+  "published": "2018-06-09",
+  "gazette": "30446",
+  "in_force": "2018-06-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.06.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1369,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24659-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
