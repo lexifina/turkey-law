@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24658",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "112 ACİL ÇAĞRI SERVİSİ TABANLI ARAÇ İÇİ ACİL ÇAĞRI SİSTEMİNE İLİŞKİN MOTORLU ARAÇLARIN TİP ONAYINA YÖNELİK İDARİ HÜKÜMLERİN HAZIRLANMASI VE BU SİSTEM KULLANICILARI İÇİN GİZLİLİK VE VERİ KORUMASINA İLİŞKİN YÖNETMELİK (2017/78/AB)",
+  "number": "24658",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2018/24658",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24658&MevzuatTertip=5",
+  "source_sha256": "ddffa0a80bbd726d92d53a7885ae2cfc9dbfe3f5f7c40d4ebb24d048dfd1cb3c",
+  "source_bytes": 20495,
+  "published": "2018-06-09",
+  "gazette": "30446",
+  "in_force": "2018-06-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.06.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 943,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24658-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
