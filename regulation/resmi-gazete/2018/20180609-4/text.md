@@ -1,0 +1,189 @@
+9 Haziran 2018 CUMARTESİ
+Resmî Gazete
+Sayı : 30446
+YÖNETMELİK
+Bilim, Sanayi ve Teknoloji Bakanlığından:
+112 ACİL ÇAĞRI
+SERVİSİ TABANLI ARAÇ İÇİ ACİL ÇAĞRI SİSTEMİ
+BAKIMINDAN MOTORLU ARAÇLARIN, 112 TABANLI ARAÇ İÇİ
+ACİL ÇAĞRI AYRI TEKNİK ÜNİTELERİNİN VE AKSAMLARININ
+TİP ONAYINA YÖNELİK TEKNİK ŞARTLARINA VE DENEY
+İŞLEMLERİNE
+İLİŞKİN YÖNETMELİK (2017/79/AB)
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, 13/10/1983 tarihli ve
+2918 sayılı Karayolları Trafik Kanunu hükümleri uyarınca araçların yapım ve
+kullanım bakımından karayolu yapısına ve trafik güvenliğine uyma
+zorunluluğunu yerine getirmek üzere, 19/8/2016 tarihli ve 29806 sayılı
+Resmî Gazete’de yayımlanan 112 Acil Çağrı Servisi Tabanlı Araç İçi Acil
+Çağrı Sisteminin Yerleştirilmesi ile İlgili Tip Onayı Yönetmeliği
+(2015/758/AB)’nin 2 nci maddesinde belirtilen araçların, 112 tabanlı araç
+içi acil çağrı sistemleri ve 112 tabanlı araç içi acil çağrı sistemlerinin ayrı
+teknik üniteleri ve aksamları bakımından AT tip onayı için ayrıntılı teknik
+şartları ve deney işlemlerini belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, 2015/758/AB
+Yönetmeliğinin 2 nci maddesinde belirtilen araç, sistem, aksam ve ayrı
+teknik üniteleri kapsar.
+(2) Bu Yönetmelik, teknik nedenlerle uygun bir acil
+çağrı başlatma (tetikleme) tertibatı takılamayan ve bu nedenle de 112
+tabanlı araç içi acil çağrı sistemi takılma zorunluluğu olmayan ve Ek IX’da
+belirtilen araç sınıflarını kapsamaz.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 2918 sayılı
+Karayolları Trafik Kanununun 29 uncu maddesine, 29/6/2001 tarihli ve 4703
+sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair
+Kanunun 4 üncü maddesine ve 3/6/2011 tarihli ve 635 sayılı Bilim, Sanayi ve
+Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
+Kararnamenin 7 nci maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) 28/6/2009 tarihli ve 27272
+sayılı Resmî Gazete’de yayımlanan Motorlu Araçlar ve Römorkları Tip Onayı
+Yönetmeliği (2007/46/AT)’nin 3 üncü maddesinde ve 2015/758/AB
+Yönetmeliğinin 4 üncü maddesinde yer alan tanımlar bu Yönetmeliğin
+uygulanmasında da geçerli olup, söz konusu tanımlara ek olarak bu Yönetmelikte
+geçen;
+a) Acil çağrı kayıt dosyası: Sadece asgari veri
+setinden (AVS) meydana gelen ve 112 tabanlı araç içi acil çağrı sisteminin
+dahili hafızasında depolanan ve aynı zamanda acil çağrının otomatik veya
+elle devreye sokulması anında üretilen kayıtları,
+b) Güç kaynağı: Ek I’deki madde 2.3'te belirtilen
+deneyin ardından sisteme güç veren, takılmış ise, yedek kaynak da dahil
+olmak üzere 112 tabanlı araç içi acil çağrı sistemine güç sağlayan aksamı,
+c) Güncel konum: AVS üretilmeden önce mümkün olan
+en son anda belirlenen ve aracın bilinen en son konumunu,
+ç) Kontrol modülü: Tüm modüllerin, aksamların ve
+sistem özelliklerinin bir bütün olarak işlevselliğini sağlamak üzere
+tasarlanan araç içi acil çağrı sistemine ait bir aksamı,
+d) Küresel Yönbulum Uydu Sistemi (GNSS): Uygun bir
+alıcıya sahip kullanıcılara doğru zaman ve konum bilgileri sunan ve bir
+uydu grubu ve yer istasyonları ağından meydana gelen altyapıyı,
+e) Parçaların temsili düzeni: Kontrol modülü, güç
+kaynağı, mobil şebeke iletişim modülü, Küresel Yönbulum Uydu Sistemi
+alıcısı ve harici Küresel Yönbulum Uydu Sistemi anteni ve bunlara ait
+bağlantı ve kablolar dahil olmak üzere EN 15722:2015 “Akıllı ulaşım
+sistemleri-Acil güvenlik-Acil çağrı asgari veri seti” standardında
+belirtilen araç içi acil çağrı asgari veri setini başarılı şekilde
+hazırlayıp aktarmak için 112 tabanlı araç içi acil çağrı sisteminin gerekli
+kıldığı tüm parçaları,
+f) Soğuk çalıştırma modu: Konum, hız, zaman,
+almanak ve gök günlüğü verilerinin alıcıda depolanmadığı ve dolayısıyla da
+yönbulum çözümünün tam gök araması ile hesaplandığı durumda bir GNSS
+alıcısının mevcut durumunu,
+g) Uydu Tabanlı Alan Büyütme Sistemi (SBAS):
+Doğruluk ve bütünlük açısından kullanıcılara daha iyi bir performans sunan
+ve mevcut küresel uydu yönbulum sistemleri tarafından verilen sinyallerin
+izlenmesi ve düzeltilmesine yönelik bölgesel yönbulum uydu sistemini,
+ğ) 112 tabanlı araç içi acil çağrı ayrı teknik
+ünitesi tipi: Bir motorlu araca takılmış olması halinde araç içi acil çağrı
+verme kapasitesi, özellikler ve işlevsellik açısından ciddi farklılıklar
+göstermeyen belirli donanım kombinasyonunu,
+h) 112 tabanlı araç içi acil çağrı sistemi aksamı
+tipi: Bir 112 tabanlı araç içi acil çağrı ayrı teknik ünitesi veya 112
+tabanlı araç içi acil çağrı sistemine entegre edilmiş olması halinde araç
+içi acil çağrı verme kapasitesi, özellikler ve işlevsellik açısından ciddi
+farklılıklar göstermeyen belirli donanımı,
+ı) 112 tabanlı araç içi acil çağrı sisteminin
+montajı açısından araç tipi: Araca entegrasyon özellikleri ve araç içi acil
+çağrı veren temel donanımın işlevselliği ve kapasitesi açısından ciddi
+farklılıklar göstermeyen motorlu araçları,
+ifade eder.
+112
+tabanlı araç içi acil çağrı sistemlerinin montajı açısından motorlu
+araçların AT tip onayına ilişkin şartlar ve deney işlemleri
+MADDE 5 – (1) Bir aracın 112 tabanlı araç içi acil çağrı
+sistemi montajı açısından AT tip onayı, araç ve araç sisteminin Ek I ila Ek
+VIII'de belirtilen deneylerden başarılı bir şekilde geçmesine ve bu eklerde
+belirtilen ilgili şartlara uygun olmasına bağlıdır.
+(2) Motorlu araca 7 nci madde uyarınca tip onayı
+almış bir 112 tabanlı araç içi acil çağrı ayrı teknik ünitesi tipi
+takılması halinde araç ve araç sisteminin Ek II, Ek III ve Ek V'te
+belirtilen deneylerden geçmesi ve bu eklerde belirtilen tüm ilgili şartlara
+uygun olması gerekmektedir.
+(3) Motorlu araca ait 112 tabanlı araç içi acil
+çağrı sisteminin 6 ncı madde uyarınca tip onayı almış bir veya daha fazla
+aksamdan meydana gelmesi halinde motorlu araç ve araç sisteminin Ek I ila
+Ek VIII'de belirtilen deneylerden geçmesi ve bu eklerde belirtilen tüm
+ilgili şartlara uygun olması gerekir. Ancak sistemin bu şartlara uygunluğu
+değerlendirilirken kısmen de olsa 6 ncı maddenin üçüncü fıkrasında
+belirtilen deneylerin sonuçları esas alınabilir.
+112
+tabanlı araç içi acil çağrı sistemi aksamlarının AT tip onayına ilişkin
+şartlar ve deney işlemleri
+MADDE 6 –
+(1) 112 tabanlı araç içi acil
+çağrı sistemi aksamının AT tip onayı, aksamın Ek I'de belirtilen deneylerden
+başarılı bir şekilde geçmesine ve aynı ekte belirtilen ilgili şartlara
+uygun olmasına bağlıdır.
+(2) Birinci fıkranın amaçları bakımından, tekil
+parçaların Ek I’in madde 2.3’ünde belirtilen deneyden geçirilmesinin
+ardından sadece Ek I’in madde 2.8’inde belirtilen aksamlara yönelik
+doğrulama işlemleri uygulanır.
+(3) İmalatçının talep etmesi halinde aksam ilave
+olarak, aksamın işlevleri ile ilgili olan Ek IV, Ek VI ve Ek VII’de
+belirtilen şartlara uygunluğu bakımından teknik servis tarafından test
+edilebilir. Bu şartlara uygunluk, 112 Acil Çağrı Servisi Tabanlı Araç İçi
+Acil Çağrı Sistemine İlişkin Motorlu Araçların Tip Onayına Yönelik İdari
+Hükümlerin Hazırlanması ve Bu Sistem Kullanıcıları İçin Gizlilik ve Veri
+Korumasına İlişkin Yönetmelik (2017/78/AB)’in 6 ncı maddesinin üçüncü
+fıkrasına göre düzenlenen tip onayı belgesinde gösterilmelidir.
+112
+tabanlı araç içi acil çağrı sistemi ayrı teknik ünitelerinin AT tip onayına
+ilişkin şartlar ve deney işlemleri
+MADDE 7 –
+(1) 112 tabanlı araç içi acil
+çağrı ayrı teknik ünitesinin AT tip onayı, ayrı teknik ünitenin Ek I, Ek
+IV, Ek VI, Ek VII ve Ek VIII'de belirtilen deneylerden başarılı bir şekilde
+geçmesine ve bu eklerde belirtilen ilgili şartlara uygun olmasına bağlıdır.
+(2) 112 tabanlı araç içi acil çağrı ayrı teknik
+ünitesinin 6 ncı madde uyarınca tip onayı almış bir veya daha fazla
+aksamdan meydana gelmesi halinde ayrı teknik ünitesinin Ek I, Ek IV, Ek VI,
+Ek VII ve Ek VIII'de yer verilen deneylerden geçmesi ve bu eklerde
+belirtilen tüm ilgili şartlara uygun olması gerekir. Ancak ayrı teknik
+ünitesinin bu şartlara uygunluğu değerlendirilirken kısmen de olsa 6 ncı
+maddenin üçüncü fıkrasında belirtilen deneyin sonuçları esas alınabilir.
+Onay
+kuruluşunun yükümlülükleri
+MADDE 8 –
+(1) Onay kuruluşu bu Yönetmelikte
+yer verilen şartlara uygun olmayan yeni tip motorlu araçlara AT tip onayı
+vermez.
+Özel
+amaçlı araçların çok aşamalı onayı
+MADDE 9 –
+(1) 2007/46/AT Yönetmeliğinin Ek
+II Kısım A’sındaki madde 5.1 ve madde 5.5’de tanımlanan özel amaçlı
+araçların çok aşamalı tip onayına tabi olması ve 112 tabanlı araç içi acil
+çağrı sistemi ve ilgili sensörlerin tadil edilmemiş olması halinde, 112
+tabanlı araç içi acil çağrı sisteminin (temel) araca takılması açısından
+daha önceki bir aşamada verilen tip onayı geçerliliğini korur.
+Avrupa
+Birliği mevzuatına uyum
+MADDE 10
+– (1) Bu Yönetmelik, 112 tabanlı
+araç içi acil çağrı sistemleri ve 112 tabanlı araç içi acil çağrı sistemlerinin
+ayrı teknik üniteleri ve aksamları bakımından AT tip onayı için ayrıntılı
+teknik şartlar ve deney işlemleri hakkındaki 12/9/2016 tarihli ve
+2017/79/AB sayılı Avrupa Komisyonu Regülasyonu dikkate alınarak Avrupa
+Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+(2) 2017/79/AB sayılı Avrupa Komisyonu
+Regülasyonunda yer alan üçüncü servis sağlayıcılar (TPS) ile ilgili
+hükümler, 14/2/1985 tarihli ve 3152 sayılı İçişleri Bakanlığı Teşkilat ve
+Görevleri Hakkında Kanunun 28 inci maddesinin dördüncü fıkrası çerçevesinde
+Türkiye’de uygulanmaz.
+(3) Bu Yönetmelik hükümlerinde herhangi bir
+anlaşmazlık veya yanılgı olması durumunda, bu Yönetmeliğin esas aldığı (EU)
+2017/79 sayılı teknik düzenlemenin orijinal metni esas alınır ve
+geçerlidir.
+Yürürlük
+MADDE 11
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 12
+– (1) Bu Yönetmelik hükümlerini
+Bilim, Sanayi ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız
