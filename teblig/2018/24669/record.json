@@ -1,0 +1,44 @@
+{
+  "source_id": "9.5.24669",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2018/13)",
+  "number": "24669",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2018/24669",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24669&MevzuatTertip=5",
+  "source_sha256": "c0dee9a7abdc8d3d827112521f56054373a45956548ced31ea9e1237693dceef",
+  "source_bytes": 13669,
+  "published": "2018-06-09",
+  "gazette": "30446 Mükerrer",
+  "in_force": "2018-06-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.06.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 201,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24669-Ek.rar",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-1.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-2.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-3.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-4.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-5.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-6.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-7.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-8.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-9.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-10.pdf",
+    "http://www.resmigazete.gov.tr/eskiler/2018/06/20180609M1-1-11.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
