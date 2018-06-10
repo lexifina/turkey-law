@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-06-10",
+      "10.06.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30447",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-06-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2018/24670",
+  "published": "2018-06-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24670&MevzuatTertip=5",
+  "source_bytes": 34252,
+  "source_id": "8.5.24670",
+  "source_sha256": "7d9c1a3dc62de288c4254aaca889ab9127d1cb358ab1a27fd213f5a0b794c5d0",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ ENERJİ TEKNOLOJİLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 1497
+}
