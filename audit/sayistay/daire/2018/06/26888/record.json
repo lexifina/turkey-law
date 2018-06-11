@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "181",
+  "decision_date": "2018-06-11",
+  "source_id": 26888,
+  "chamber": "4",
+  "ilam_number": "225",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2010,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/26888/",
+  "source_sha256": "1b1b7bab0f27af6964229c05d007be1fbd29b9675979f3bcaa619d669a143037",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
