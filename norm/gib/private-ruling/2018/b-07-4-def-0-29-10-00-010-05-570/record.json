@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-06-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-06-11",
+  "official_number": "B.07.4.DEF.0.29.10.00-010.05-570",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30320",
+  "source_id": "ozelge:30320",
+  "source_row_sha256": "66689efa62ed810322a96768197c71ca66353eb86ec8d5c62ce4b61154780bf2",
+  "title": "KDV Tevkifatı",
+  "version_label": "as-enacted",
+  "word_count": 447
+}
