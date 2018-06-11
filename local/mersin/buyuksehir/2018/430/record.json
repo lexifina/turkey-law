@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "430",
+  "decision_date": "2018-06-11",
+  "title": "MEC. KAR. ( TAHSİS GÜLNAR DAYICIK).doc",
+  "listed_as": "430 MEC. KAR. ( TAHSİS GÜLNAR DAYICIK).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/430-mec-kar--tahsis-gulnar-dayicikdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-haziran-2018-meclis-kararlar",
+  "listing_sha256": "9ce7949a52fa02701864cb288856ba4bae5c2486491b1d475a06fd37805cea39",
+  "meeting_title": "11 HAZİRAN 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
