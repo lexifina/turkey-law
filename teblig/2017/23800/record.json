@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.23800",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 48)",
+  "number": "23800",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2017/23800",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23800&MevzuatTertip=5",
+  "source_sha256": "12af2f6987620c6b35dc725f2cc46ceed70375d442a7bc36de05382ba277ae47",
+  "source_bytes": 57937,
+  "published": "2017-07-27",
+  "gazette": "30136",
+  "in_force": "2018-06-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/6/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-06-11",
+      "RG-11/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3785,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23800-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
