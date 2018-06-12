@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2018/24",
+  "meeting_date": "2018-06-12",
+  "meeting_date_as_published": "12.6.2018",
+  "decision_no": "60",
+  "source_id": 10448,
+  "title": "RTÜK kararı 2018/24-60",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10448",
+  "source_sha256": "e02b34860ba891fec98e266ccdd0c5100891256877c8ebd4737b2f0b7fa57450",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
