@@ -1,0 +1,24 @@
+{
+  "number": "245",
+  "number_as_published": "245",
+  "year": 2018,
+  "title": "HALFETİ-YUKARIGÖKLÜ(UYGULAMA İMAR PLANI)",
+  "decision_date": "2018-06-12",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6338/106/halfeti-yukarigokluuygulama-imar-plani",
+  "official_document": null,
+  "source_sha256": "4f18a0f07de835a1d72b60c1038d826f1b03959912203b646f44b0772095dc5e",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-06-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.06.2018 tarih ve 245 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-06-13",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
