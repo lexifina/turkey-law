@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/780",
+  "list_number": "780",
+  "decision_date": "2018-06-12",
+  "title": "24 Haziran 2018 Pazar günü birlikte yapılacak olan Cumhurbaşkanı ve 27. Dönem Milletvekili Genel Seçiminde oy verme günü çay bahçelerinin kapalı olması gerektiğine ilişkin Yüksek Seçim Kurulunun 2018/780 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77762/2018-780.pdf",
+  "source_sha256": "15e281983847b547618ddcf254fdf2b0f04d703dcf88ace68d020b8d12a0c4ac",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-06-12",
+  "law_text_complete": false
+}
