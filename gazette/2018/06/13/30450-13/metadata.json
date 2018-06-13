@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-06-13",
+  "issue": "30450",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARLARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 07/06/2018 Tarihli ve 7851 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180613-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180613.htm",
+  "index_sha256": "17cf598d1f80fc779b5e43bf484474f3d3beb12efbd48f21b3c63338fcf54a61",
+  "index_header": "13 Haziran 2018 ... 30450 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/06/20180613.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
