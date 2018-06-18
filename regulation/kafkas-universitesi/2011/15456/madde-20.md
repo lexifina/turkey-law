@@ -1,0 +1,2 @@
+Yaz okulunda öğrencilerin ödeyeceği ücretlerin tespiti
+MADDE 20 – (1) Öğrenciler yaz okulu öğrenim ücretlerini kayıt esnasında öderler. Yaz okulunda normal örgün öğretim öğrencileri, yaz okulu öğrenim ücretlerini Yükseköğretim Kurulunca belirlenen esaslara göre öderler. İkinci öğretim öğrencilerinden yaz okuluna katılanlar, normal örgün öğretim öğrencilerinin yaz okulu öğrenim ücretlerinin iki katını öderler.

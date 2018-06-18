@@ -1,0 +1,3 @@
+Yaz okulunda derslere devam, sınavlar ve başarı durumlarının tespiti
+MADDE 15 – (1) (Değişik:RG-1/8/2013-28725) Yaz okulunda açılan derslerin devam, ara sınav, yarıyıl sonu sınavı değerlendirmesi ve başarı durumunun tespiti; ön lisans ve lisans dersleri ile lisans üstü dersler için ilgili mevzuat hükümleri ve ilgili enstitülerce belirlenen esaslara göre yapılır.
+(2) (Ek:RG-21/1/2016-29600) Yaz öğretiminde derslere devam zorunludur. Bir dersin devam şartının daha önce yerine getirilmiş olması, yaz okulunda o derse devam etme zorunluluğunu ortadan kaldırmaz. Aynı şekilde yaz okulunda alınan dersler için elde edilen devam hakkı, normal eğitim-öğretim dönemleri için geçerli değildir.
