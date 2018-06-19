@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24685",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/11)",
+  "number": "24685",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24685",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24685&MevzuatTertip=5",
+  "source_sha256": "0d42d91f5f6d286ef5c1a3f5f409e1f9cfaa4ce327cee840feabeb99b1600b8e",
+  "source_bytes": 19948,
+  "published": "2018-06-19",
+  "gazette": "30453",
+  "in_force": "2018-06-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.06.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 566,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24685-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
