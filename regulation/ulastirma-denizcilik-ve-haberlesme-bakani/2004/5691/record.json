@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.5691",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TELSİZ OPERATÖR YETERLİKLERİ VE SINAV YÖNETMELİĞİ",
+  "number": "5691",
+  "issuer": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+  "issuer_slug": "ulastirma-denizcilik-ve-haberlesme-bakani",
+  "path": "regulation/ulastirma-denizcilik-ve-haberlesme-bakani/2004/5691",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5691&MevzuatTertip=5",
+  "source_sha256": "d8ffd5870bc356a489671ea5a6fa3c45a143feb2fd0f79a575f625aefb9b969f",
+  "source_bytes": 93551,
+  "published": "2004-06-04",
+  "gazette": "25482",
+  "in_force": "2018-06-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/6/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-06-19",
+      "RG-19/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-21",
+      "RG-21/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-09-26",
+      "RG-26/09/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4282,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5691-Ekler.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
