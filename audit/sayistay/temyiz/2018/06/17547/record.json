@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44692",
+  "decision_date": "2018-06-20",
+  "source_id": 17547,
+  "chamber": "1",
+  "file_number": "43410",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17547/",
+  "source_sha256": "0045eb6d1f6e49c5a74a0edb29aedd1f973861b07193098a9315f174c027dffc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
