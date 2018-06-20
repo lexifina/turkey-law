@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44681",
+  "decision_date": "2018-06-20",
+  "source_id": 17536,
+  "chamber": "1",
+  "file_number": "43399",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17536/",
+  "source_sha256": "74a8e5142d93e7192e1d2406442430eb00d48afefbb17fa4b0c913c0e8337cce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
