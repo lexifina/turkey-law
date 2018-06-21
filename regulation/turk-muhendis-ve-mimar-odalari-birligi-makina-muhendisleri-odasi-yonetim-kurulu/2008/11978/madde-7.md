@@ -1,0 +1,3 @@
+Stratejik planlama mühendis yetki belgesinin geçerliliği ve süresi
+MADDE 7 – (1) Stratejik planlama mühendis yetki belgelerinin geçerlilik süresi her yıl onaylanmak kaydıyla alındığı tarihten itibaren beş yıldır. Belgelerin yıllık onaylarında, belgenin geçerliliğini sürdürebilmesi için belge sahibi Stratejik Planlama Belgelendirme Kurulu tarafından belirlenen meslek içi eğitim programlarını tamamlamak zorundadır. Gerekli meslek içi eğitim programlarını tamamlayamayan belge sahibinin belgesi yukarıda tanımlanan koşulu sağlayıncaya kadar geçerliliğini yitirir. Bu durum Oda tarafından ilgili birimlere ve Birliğe bildirilir.
+(2) Stratejik planlama mühendis belgelendirmesi konusunda verilecek eğitim programları ve belge ücretleri OYK tarafından belirlenir.
