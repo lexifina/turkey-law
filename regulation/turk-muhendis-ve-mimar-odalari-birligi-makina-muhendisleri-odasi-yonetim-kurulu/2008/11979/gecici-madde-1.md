@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Hâlen yatırım hizmetleri yönetimi konusunda uzman olan Oda üyesi endüstri ve işletme mühendislerine, bu Yönetmeliğin yayınlandığı tarihten itibaren bir yıl içinde bilgi ve deneyimlerine ilişkin belge ve dokümanlarla birlikte Odaya başvurmaları, sunulan belge ve dokümanların uygun bulunması, ŞYK önerisi doğrultusunda Yatırım Hizmetleri Yönetimi Belgelendirme Kurulunun oluru ve OYK onayı ile eğitime ve sınava tabi tutulmaksızın Oda yatırım hizmetleri yönetimi mühendis yetki belgesi verilir.
