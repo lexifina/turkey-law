@@ -1,0 +1,3 @@
+Üyelerin Adres Değişikliği
+Madde 57 — (Değişik:RG-5/11/2010-27750)
+Oda üyelerinin Odaya bildirmiş oldukları ve Oda üyelik kayıtlarında mevcut adresleri kanuni tebligat adresleri olarak kabul edilir. Üyeler, kayıta esas adreslerinde herhangi bir değişiklik olması halinde değişiklik tarihinden itibaren bir ay içinde bağlı bulundukları Şubeye yeni adreslerini bildirmekle yükümlüdür. Bağlı oldukları Şubenin etkinlik alanındaki adresten ayrılan üyelerin, yeni adreslerinin bulunduğu etkinlik alanındaki Şubeye kayıtlarının aktarılması için ayrılış tarihinden başlayarak üç ay içinde başvuruda bulunmaları zorunludur.

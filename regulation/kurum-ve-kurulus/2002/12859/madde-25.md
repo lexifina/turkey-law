@@ -1,0 +1,2 @@
+Toplantıya Çağrılamama
+Madde 25 — Oda Genel Kurulu, koşullar yeterli olmasına karşın, en çok üç (3) ay içinde yetkililerce olağanüstü toplantıya çağrılmazsa; üyeler, yetkili mahkemeye başvurarak Olağanüstü Oda Genel Kurulu'nun yapılmasını isteyebilirler.

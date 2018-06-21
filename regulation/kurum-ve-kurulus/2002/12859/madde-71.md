@@ -1,0 +1,2 @@
+Mesleki Denetim Büroları
+Madde 71 — İl/İlçe Temsilciliği kurulması koşulları oluşmayan yerleşim merkezlerinde, Şube Yönetim Kurulu kararı ile Mesleki Denetim büroları kurulur. Mesleki Denetim büroları çalışmaları, Mesleki Denetim sorumluları ve yardımcıları tarafından yürütülür. Mesleki denetim sorumluları ve yardımcıları, Şube Yönetim Kurulu tarafından atanır. Mesleki Denetim büroları çalışma esasları, görev ve yetkileri, Oda Örgüt, Kuruluş Görev ve Yetki Yönetmeliği ile belirlenir.

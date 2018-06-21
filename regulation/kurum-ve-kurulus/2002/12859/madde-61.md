@@ -1,0 +1,5 @@
+Olağanüstü Şube Genel Kurulu
+Madde 61 — Şube Genel Kurulu, aşağıda belirtilen durumlarda, Şube Yönetim Kurulu’nca olağanüstü toplantıya çağrılır:
+a) Şube’ye kayıtlı üyelerin en az beşte birinin (1/5'inin) Şube Yönetim Kurulu'na yazılı olarak başvurması durumunda,
+b) Oda Denetleme Kurulu'nun; Şube mali işleriyle ilgili olarak zorunlu görmeleri ve oybirliği ile karar vermeleri durumunda.
+Olağanüstü Şube Genel Kurulu, Olağan Genel Kurul gibi yapılır. Ancak, Genel Kurul’a çağrılış nedeni dışında, gündeme madde eklenemez, görüşme yapılamaz ve karar alınamaz. Koşulları yeterli olmasına karşın, en çok bir (1) ay içinde, Şube Yönetim Kurulu, Şube Genel Kurulu’nu olağanüstü toplantıya çağırmazsa; üyeler, Oda Yönetim Kurulu'na başvurarak, Olağanüstü Genel Kurul toplantısının yapılmasını isteyebilir. Olağanüstü Şube Genel Kurul ilanında üye listelerinin asılacağı yer ve tarihleri de belirtilir, listeler asılırken ve kaldırılırken hergün için ayrı ayrı tutulan tutanakla duyurulma olayı belgelenir.

@@ -1,0 +1,2 @@
+İl/İlçe Temsilcilikleri
+Madde 70 — İl/İlçe merkezlerinde, Oda çalışmalarının gerektirdiği durumlarda Şube Yönetim Kurulu’nun önerisi, Oda Yönetim Kurulu kararı ile Şube’ye bağlı olarak İl/İlçe temsilcilikleri kurulur. Oda Yönetim Kurulu, Şube Yönetim Kurulu’nun İl/İlçe Temsilciliği kurulması önerisini, Oda Merkezi'ne iletilmesinin ardından en geç üç (3) ay içinde karara bağlayarak Şube'ye bildirir. İl/İlçe temsilcilikleri çalışmaları üç (3) veya beş (5) üyeden oluşan Yürütme kurullarınca yürütülür.

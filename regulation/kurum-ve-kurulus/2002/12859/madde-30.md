@@ -1,0 +1,2 @@
+Yönetim Kurulu Üyeliğinin Düşürülmesi
+Madde 30 — Nedeni ne olursa olsun, üç (3) ay süre ile toplantılara sürekli olarak katılmayan veya katılamayacağını bildiren veya özürsüz olarak bir yıl içinde olağan toplantılarının dörtte birine (1/4'üne) katılmayan Yönetim Kurulu üyesi çekilmiş sayılır ve yerine sırada bulunan yedek üye geçer. Yönetim Kurulu üyelerinin yarısından fazlasının birlikte çekilmesi durumunda, yerleri yedeklerle doldurulur ve ilk toplantıda, yeniden görev bölümü yapılır.

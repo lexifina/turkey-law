@@ -1,0 +1,2 @@
+Genel Kurula Katılım Şartı
+Madde 18 — Oda Genel Kurulu'nda bulunmak, görüşmelere katılmak ve oy kullanmak için, Oda Yönetim Kurulu'nca hazırlanıp, görevli hakim tarafından kesinleştirilmiş delege listelerinin imzalanması yoluyla alınmış Genel Kurul giriş kartının ve Oda üye kimlik kartının gösterilmesi zorunludur. Yalnızca hakim denetiminde yapılan seçimde oy verme sırasında, Oda üye kimlik kartı yerine, resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.

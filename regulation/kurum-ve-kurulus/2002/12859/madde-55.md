@@ -1,0 +1,2 @@
+Şube
+Madde 55 — Belirli illerde çalışan üyelerin sayısı, mesleksel çalışmaların daha verimli bir şekilde yürütülmesi ve Oda'nın yükümlü bulunduğu görevler gerektiriyorsa, Oda Yönetim Kurulu'nun önerisi ve Oda Genel Kurulu'nun kararı ile merkezi ve etkinlik alanına giren iller belirtilerek yeni Şube açılabilir. Yeni açılacak Şubenin etkinlik alanına giren illerin belirlenmesinde veya bir Şubenin etkinlik alanında olan illerin başka bir Şube'ye bağlanmasında Şube merkezince yakınlık, iletişim ve ulaşım olanakları ile üyelerin işyeri ve oturma yerleri ilişkisi gözönüne alınır.

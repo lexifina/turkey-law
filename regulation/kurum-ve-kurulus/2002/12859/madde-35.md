@@ -1,0 +1,2 @@
+Oda Onur Kurulu Toplantıları
+Madde 35 — Oda Onur Kurulu üyeleri, kendilerine bir konunun iletilmesi üzerine, asıl ve yedek üyelerinden herhangi birinin veya Oda Yönetim Kurulu'nun konu, yer, tarih ve toplanma saati belirterek asıl ve yedek tüm üyelere yapacağı çağrısı ile toplanır. Oda Yönetim Kurulu, Onur Kurulu toplantı ve çalışmaları için gerekli büro hizmetlerini, hukuk danışmanı desteğini, belge ve dökümanları ve toplantı süresince Oda adına bir yetkilinin bulunmasını sağlar.

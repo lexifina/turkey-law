@@ -1,0 +1,2 @@
+Bütçenin Uygulanması
+Madde 75 — Bütçe, bu Yönetmeliğin 73 üncü maddesi (b) bendinde belirtilen biçimde kabul edildikten sonra uygulanır. Oda Yönetim Kurulu, Olağan Genel Kurul’un yapılacağı takvim yılı başından Bütçe’nin kabul edileceği Genel Kurul toplantısına kadar geçecek süre içinde, her ay için bir önceki yıl Bütçe’sinin onikide biri (1/12'si) oranında harcama yapabilir. Ancak, niteliği bakımından bir kezde yapılacak giderlerin bu dönem içinde yapılması gerekirse, bu gibi harcamalar onikide bir (1/12) oranı aranmadan Oda Yönetim Kurulu'nca yapılabilir.

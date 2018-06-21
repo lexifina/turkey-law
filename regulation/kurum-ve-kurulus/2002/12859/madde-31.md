@@ -1,0 +1,8 @@
+Oda Yönetim Kurulu’nun Temsil Yetkisi ve Çalışma Yöntemi
+Madde 31 — Oda Yönetim Kurulu'nun temsil yetkisi ve çalışma yöntemi aşağıdaki gibidir:
+a) Oda’yı Oda Başkanı, bulunmadığı zamanlarda, Oda Başkan Vekili veya gerektiğinde, Oda Yönetim Kurulu'nun seçeceği Yönetim Kurulu üyesi temsil eder. Olağan işlemlerde, Oda Sekreteri, Oda’nın doğal temsilcisi ve sözcüsüdür.
+b) Oda Sekreteri, Oda işlerini Yönetim Kurulu kararlarına uygun olarak yönetir. Yönetim Kurulu toplantılarının gündemini hazırlar. Yönetim Kurulu üyelerinin isteği ile gündeme madde eklenebilir veya gündemden madde çıkartılabilir. Oda Sekreteri, Oda Yönetim Kurulu kararlarının uygulanmasında gerekli tüm önlemleri alır, Oda’nın yazışma işlemlerini yürütür ve imza eder, tüm Oda örgütündeki görevlilerin özlük işlerini yürütür.
+c) Oda Saymanı, Oda’nın mali işlerinin yürütülmesini, Oda Bütçesi'nin uygulanmasını, yönetmelikler ve Oda Yönetim Kurulu kararları gereğince sağlar, gerekli önlemleri alır ve önerilerde bulunur.
+d) Oda Sekreteri ve Saymanı yürütme görevlerinden dolayı, Oda Yönetim Kurulu'na karşı sorumludur.
+e) Oda Başkanı, Oda Başkan Vekili, Oda Sekreteri ve Oda Saymanı'na Oda Yönetim Kurulu kararı ile belirli bir miktara kadar harcama yetkisi verilebilir. Odanın olağan ödemelerini Oda Sekreteri yürütür. Banka işlemlerinde, bu dört üyeden ikisinin birlikte imzasının bulunması gereklidir.
+f) Oda Yönetim Kurulu, yukarıda belirlenmiş yetkilerinin bir bölümünü, kendi adına kullanmak üzere Kurulun diğer üyeleri ile Oda Sekreter yardımcılarına, Oda Müdürü'ne, Şube Yönetim kurullarına denetim ve sorumluluğunda olmak üzere görev verebilir.

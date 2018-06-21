@@ -1,0 +1,2 @@
+Şube Yönetim Kurulu
+Madde 62 — Şube Yönetim Kurulu, Şube Genel Kurulu’nca iki (2) yıl için seçilen yedi (7) asıl ve yedi (7) yedek üyeden oluşur. Yönetim Kurulu, Genel Kurul seçim sonuçlarının kesinleşmesinden sonra, en geç yedi (7) gün içinde, eski Sekreterin çağrısı ile ilk toplantısını yapar ve Yönetim Kurulu üyeleri arasından gizli oyla Başkan, Başkan Vekili, Sekreter ve Saymanını seçerek göreve başlar. Yönetim Kurulu en az onbeş (15) günde bir, salt çoğunlukla toplanır. Toplantıyı Başkan, bulunmaz ise Başkan Vekili, o da bulunmazsa Sekreter yönetir.

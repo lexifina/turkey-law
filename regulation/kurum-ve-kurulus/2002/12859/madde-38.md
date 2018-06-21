@@ -1,0 +1,2 @@
+Onur Kurulu Üyelerinin Reddedilme veya Çekilmesi
+Madde 38 — Onur Kurulu üyelerinin red ve çekilme nedenleri ile ilgili, Ceza Muhakemesi Usulü Kanunu’ndaki hakimlerin red ve çekilmeye ilişkin hükümleri uygulanır. Onur Kurulu, red isteğini, kendisi inceler. Bu konuda vereceği karara, esasa ilişkin kararla birlikte Yüksek Onur Kurulu’nda itiraz edilebilir. Onur Kurulu’nun bir bölüm üyeleri ile ilgili red istemi kabul edilirse, reddedilenler yerine yedekler göreve çağrılırlar.
