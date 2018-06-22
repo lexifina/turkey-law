@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7922-2",
+  "decision_date": "2018-06-22",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; Karaduvar İletim Tesisine ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2018-06-27",
+  "resmi_gazete_number": "30461",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jRd66leO4sw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jRd66leO4sw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VrOOoXwhbYc="
+  ],
+  "source_sha256": "ac7356e573d8935aab1e955b30f7bcd3a51c2786a559b6d766ab89787f8f1770",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-06-22",
+  "law_text_complete": true
+}
