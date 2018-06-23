@@ -1,0 +1,11 @@
+Elektronik sistem üzerinden EUR.1 Dolaşım Belgesinin sonradan verilmesi işlemleri
+MADDE 26/A – (Ek:RG-23/6/2018-30457 Mükerrer)(2)
+(1) 26 ncı maddenin uygulanabilmesi amacıyla, ihracatçı veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcisi;
+a) Eşyanın cinsi, türü, niteliği ve miktarını, ambalaj şeklini, marka ve numaralarını, işaretlerini, ihracat işleminin yapıldığı gümrük idaresinin adını, gümrük beyannamesinin tarih ve sayısını belirterek ve gümrük beyannamesinin bir örneğini eklemek suretiyle elektronik sistem üzerinden başvuruda bulunur.
+b) Söz konusu eşya için ihraç sırasında EUR.1 Dolaşım Belgesi verilmediğini veya ithalatçı ülke gümrük idaresince teknik nedenlerle kabul edilmediğini sebepleri ile birlikte elektronik sistem üzerinden beyan eder.
+(2) Birinci fıkrada belirtilen şartları yerine getiren ihracatçının veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcisinin talebi, gümrük idaresi veya Bakanlıkça yetkilendirilen kişi ve kuruluşlar tarafından incelenir. Söz konusu ihraç eşyasına ait gümrük beyannamesi ve ekleri diğer evrak ile varsa bu işleme dair dosyaların incelenmesi ve kontrolü sonucunda, yapılan beyanın tamamen uygun olduğu anlaşıldığı takdirde başvurular elektronik sistem üzerinden onaylanır ve vize edilir.
+(3) Bu şekilde düzenlenen EUR.1 Dolaşım Belgesinin (7) numaralı “Gözlemler” kutusuna;
+a) TR : SONRADAN VERİLMİŞTİR,
+b) EN : ISSUED RETROSPECTIVELY,
+c) ES : EMITIDO A POSTERIORI
+ibarelerinden biri elektronik sistem üzerinden kaydedilir.

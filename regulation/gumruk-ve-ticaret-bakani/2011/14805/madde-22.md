@@ -1,0 +1,2 @@
+İhracatçının ibraz yükümlülüğü
+MADDE 22 – (1) EUR.1 dolaşım belgesi düzenlenmesi için başvuruda bulunan ihracatçı, bu Belgeleri düzenleyecek gümrük idarelerinin veya (Değişik ibare:RG-28/6/2016-29756)(1) Bakanlıkça yetkilendirilen kişi veya kuruluşların talep edebileceği, söz konusu ürünün menşe statüsü ile bu Yönetmeliğin diğer hükümlerinin yerine getirilmiş olduğunu tevsik eden ilgili bilgi ve belgeleri vermekle yükümlüdür.
