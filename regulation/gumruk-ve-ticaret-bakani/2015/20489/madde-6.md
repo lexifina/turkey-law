@@ -1,0 +1,3 @@
+Menşe kümülasyonu
+MADDE 6 – (1) 7 nci maddede yer verilen menşe koşullarını yerine getiren ve bir Taraf Ülkede, diğer Taraf Ülkece tanınan tercihli muameleye ehil nihai ürünlerde girdi olarak kullanılacak ürünler 9 uncu maddede atıfta bulunulan işlemlerin ötesine geçen işçilik veya işlemlere tabi tutulmuş olmaları kaydıyla nihai ürün üzerinde yapılan işçilik veya işlemlerin gerçekleştirildiği Taraf Ülke menşeli bir ürün olarak kabul edilir.
+(2) Bir Taraf Ülkede gerçekleştirilen işçilik veya işlem 9 uncu maddede belirtilen işlemlerin ötesine geçmez ise o Taraf Ülkede eklenen katma değerin imalatta kullanılan diğer Taraf Ülke menşeli girdilerin kıymetini geçmesi kaydıyla elde edilen ürün o Taraf Ülke menşeli olarak kabul edilir.

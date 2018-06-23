@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.20489",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE İRAN İSLAM CUMHURİYETİ ARASINDA TERCİHLİ TİCARET ANLAŞMASI ÇERÇEVESİNDEKİ TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "20489",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "issuer_slug": "gumruk-ve-ticaret-bakani",
+  "path": "regulation/gumruk-ve-ticaret-bakani/2015/20489",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20489&MevzuatTertip=5",
+  "source_sha256": "43c442209cc64d95ad4ffa961032687b2b62b9acbaae5a39da7d2d43543abd37",
+  "source_bytes": 80767,
+  "published": "2015-01-30",
+  "gazette": "29252",
+  "in_force": "2018-06-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/6/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-06-23",
+      "RG-23/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-23",
+      "23/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-09",
+      "RG-9/7/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-07-09",
+      "9/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2015 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5316,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20489-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

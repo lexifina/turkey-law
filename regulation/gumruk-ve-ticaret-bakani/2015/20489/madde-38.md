@@ -1,0 +1,3 @@
+Anlaşmazlıkların çözümü
+MADDE 38 – (1) 33 ila 37 nci maddelerde belirtilen kontrol usulleriyle ilgili olarak, kontrol talebinde bulunan gümrük idaresi ile bu kontrolün yapılmasından sorumlu gümrük idaresi arasında çözümlenemeyen bir anlaşmazlığın meydana gelmesi veya Anlaşmanın bu hususlara dair maddelerinin yorumlanmasına ilişkin bir soru hâsıl olması halinde, bu hususlar, Anlaşmanın 19 uncu maddesinin yedinci fıkrası uyarınca kurulan Ortak Komitenin bir alt-komitesi olarak kurulan Gümrük ve Menşe Konuları Alt Komitesine sunulur.
+(2) İthalatçı ile ithalat gümrük idaresi arasında çıkabilecek her türlü anlaşmazlık, ilgili mevzuat çerçevesinde çözülür.
