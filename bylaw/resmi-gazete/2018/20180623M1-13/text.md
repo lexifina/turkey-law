@@ -1,0 +1,185 @@
+23 Haziran 2018 CUMARTESİ
+Resmî Gazete
+Sayı : 30457 (Mükerrer)
+TEBLİĞ
+Gümrük ve Ticaret Bakanlığından:
+GÜMRÜK GENEL TEBLİĞİ
+(ULUSLARARASI ANLAŞMALAR)
+(SERİ NO: 9)
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Tebliğin amacı,
+a) 28/9/2006 tarihli ve
+26303 sayılı Resmî Gazete’de yayımlanan 23/8/2006 tarihli ve 2006/10895
+sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye ile Avrupa
+Birliği Arasında Oluşturulan Gümrük Birliğinin Uygulanmasına İlişkin
+Esaslar Hakkında Karar,
+b) 10/7/2015 tarihli ve
+29412 sayılı Resmî Gazete’de yayımlanan 15/6/2015 tarihli ve 2015/7748
+sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Türkiye Tarafından Tek
+Taraflı Olarak Tanınan Tercihli Rejim Uygulamalarından Yararlanacak Eşyanın
+Menşeinin Tespitine İlişkin Karar,
+c) 19/7/2009 tarihli ve
+27293 sayılı Resmî Gazete’de yayımlanan İki Taraflı Menşe Kümülasyon
+Sistemi Kapsamı Ticarette Eşyanın Tercihli Menşeinin Tespiti Hakkında
+Yönetmelik,
+ç) 19/7/2009 tarihli ve
+27293 sayılı Resmî Gazete’de yayımlanan Batı Balkan Menşe Kümülasyon
+Sistemi Kapsamı Ticarette Eşyanın Tercihli Menşeinin Tespiti Hakkında
+Yönetmelik,
+d) 26/11/2009 tarihli ve
+27418 mükerrer sayılı Resmî Gazete’de yayımlanan Pan-Avrupa
+Akdeniz Menşe Kümülasyon Sistemi Kapsamı Ticarette Eşyanın Tercihli
+Menşeinin Tespiti Hakkında Yönetmelik,
+e) 15/3/2011 tarihli ve
+27875 sayılı Resmî Gazete’de yayımlanan Türkiye - Şili Serbest Ticaret
+Anlaşması Çerçevesindeki Menşe Kümülasyon Sistemi Kapsamı Ticarette Eşyanın
+Tercihli Menşeinin Tespiti Hakkında Yönetmelik,
+f) 9/6/2013 tarihli ve
+28672 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti ile Morityus Cumhuriyeti Arasında Serbest Ticaret Anlaşması
+Çerçevesindeki Ticarette Eşyanın Tercihli Menşeinin Tespiti Hakkında Yönetmelik,
+g) 30/1/2015 tarihli ve
+29252 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti ile İran İslam
+Cumhuriyeti Arasında Tercihli Ticaret Anlaşması Çerçevesindeki Ticarette
+Eşyanın Tercihli Menşeinin Tespiti Hakkında Yönetmelik,
+ğ) 20/5/2015 tarihli ve
+29361 sayılı Resmî Gazete’de yayımlanan Türkiye Tarafından Tanınan
+Genelleştirilmiş Tercihler Sistemi Kapsamında Yapılacak İhracatta
+Düzenlenecek EUR.1 Dolaşım Belgesi ve Fatura Beyanına İlişkin Yönetmelik,
+h) 10/7/2015 tarihli ve
+29412 sayılı Resmî Gazete’de yayımlanan Türkiye-Malezya Serbest Ticaret
+Anlaşması Çerçevesindeki Ticarette Eşyanın Tercihli Menşeinin Tespiti
+Hakkında Yönetmelik,
+ı) 24/5/2016 tarihli ve
+29721 sayılı Resmî Gazete’de yayımlanan D-8 Üyesi Devletler Arasında
+Tercihli Ticaret Anlaşması Çerçevesindeki Ticarette Eşyanın Tercihli
+Menşeinin Tespiti Hakkında Yönetmelik,
+i) 20/10/2017 tarihli ve
+30216 sayılı Resmî Gazete’de yayımlanan Pan
+Avrupa Akdeniz Tercihli Menşe Kurallarına Dair Bölgesel Konvansiyon Kapsamı
+Ticarette Eşyanın Tercihli Menşeinin Tespiti Hakkında Yönetmelik
+ile düzenlenen ve ülkemizin taraf olduğu tercihli
+ticaret anlaşmalarında kullanılan menşe ispat ve dolaşım belgelerinin
+gümrük idareleri tarafından gerçekleştirilen vize işlemlerine dair usul ve
+esasları düzenlemektir.
+Dayanak
+MADDE 2 –
+(1) Bu Tebliğ, 27/10/1999
+tarihli ve 4458 sayılı Gümrük Kanununun 10 uncu maddesinin birinci
+fıkrasının (c) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 –
+(1) Bu Tebliğde geçen;
+a) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+b) Elektronik sistem: Menşe ispat ve dolaşım
+belgelerinin düzenlenmesine yönelik başvurunun yapılması, belgelerin
+düzenlenmesi, kontrol edilmesi, onaylanması ve vize işlemlerinin
+gerçekleştirilmesini sağlamak üzere Bakanlık ya da Bakanlıkça uygun görülen
+kişi ve kuruluşlarca elektronik ortamda verilen hizmet ve bu hizmete dair
+alt yapıyı,
+c) Kaşe: Yapımına 5 inci maddenin birinci
+fıkrasında belirtilen mercilerce karar verilip, imal edilen ve 4 üncü
+maddede belirtilen işlemlerde kullanılan aracı,
+ifade eder.
+Belge
+onay işlemleri
+MADDE 4 –
+(1) Ülkemizin taraf olduğu
+tercihli ticaret anlaşmalarında kullanılan menşe ispat ve dolaşım belgelerinin,
+Gümrük Müdürlükleri tarafından vize edildiği durumlarda vize işlemi ilgili
+Gümrük Müdürlüğünün kullanımı için üretilen gümrük kaşesi kullanılarak
+gerçekleştirilir.
+(2) Birinci fıkrada belirtilen gümrük kaşesi
+sadece, 1 inci maddenin birinci fıkrasında belirtilen mevzuat kapsamında
+kullanılan menşe ispat ve dolaşım belgelerinin “gümrük vizesi” ile
+“sonradan kontrol talebine ilişkin alanların” vize edilmesi ya da
+onaylanması amacıyla kullanılır.
+Kaşe
+standardının tespiti, üretimi ve sicil kaydının tutulması ve muhafazası
+MADDE 5 –
+(1) Gümrük Müdürlüklerinin
+ihtiyacına uygun sayıda yapımına karar verilen kaşeler, Bakanlık tarafından
+imal edilir veya ettirilir.
+(2) Kaşelerde kullanılacak yazı karakteri teknik
+imkânlar göz önüne alınarak Bakanlık tarafından incelenip standart olarak
+belirlenir ve Bakan onayı ile yürürlüğe konulur.
+(3) Vize veya onay işlemlerinde, Bakanlık tarafından
+imal edilmiş ve dağıtımı yapılmış kaşeler dışında bir kaşe ya da mühür
+kullanılamaz.
+(4) Bakanlık tarafından bir kaşe sicil kaydı
+oluşturulur. İmal edilen her kaşe için bir seri numarası verilir. Üretilen
+kaşelerin örnek baskıları oluşturulan sicil kaydında saklanır.
+(5) İmal edilen kaşeler, bağlantı Gümrük
+Müdürlüklerine dağıtılmak üzere ilgili Gümrük ve Ticaret Bölge Müdürlüğüne
+gönderilir. Kaşeyi teslim alan birim yetkilisi, teslim alma formunu
+doldurarak Bakanlığa iade eder. Bu form dördüncü fıkrada belirtilen sicil
+kayıtları ile birleştirilir.
+(6) Kaşeler, ilgili Gümrük Müdürlüğünün yetkili
+memurlarınca muhafaza edilir.
+(7) Görev değişikliği nedeniyle kaşeyi devretmesi
+gereken altıncı fıkrada belirtilen sorumlular, devir işlemini devir teslim
+tutanağıyla gerçekleştirir. Söz konusu tutanaklar, Bakanlıkça talep
+edildiğinde ibraz edilmek üzere ilgili Gümrük Müdürlüğünce saklanır.
+(8) İlgili mevzuat uyarınca menşe ispat ve dolaşım
+belgelerinin düzenlenmesi, onaylanması ve vizesi işlemlerinin elektronik
+sistem üzerinden gerçekleştirildiği durumlarda, bu belgelerin vize ve onay
+işlemlerinde uygulanacak kaşelerin standardı ikinci fıkra uyarınca
+belirlenir.
+Kaşenin
+iadesi, yenilenmesi ve kaybı
+MADDE 6 – (1) Kaşeyi
+kullanan Gümrük Müdürlüğünün kapatılması, adının veya idari kodunun
+değişmesi; Gümrük Müdürlüğünün bağlı bulunduğu Gümrük ve Ticaret Bölge
+Müdürlüğünün değiştirilmesi ya da bağlı bulunduğu Gümrük ve Ticaret Bölge
+Müdürlüğünün adının değiştirilmesi gibi nedenlerle kaşenin üzerinde yer
+alan aslî bilgilerin değişmesi halinde kaşe, iptal edilmek üzere Bakanlığa
+gönderilir.
+(2) Kaşelerin üzerindeki yazıların okunmayacak
+ölçüde silikleşmesi, kaşelerin hasar görmesi ve işlevini kaybetmesi gibi
+hallerde, yenisinin üretilmesi amacıyla durum Bakanlığa bildirilir. Yeni
+kaşenin gönderilmesi ile birlikte eski kaşe Bakanlığa iade edilir.
+(3) Kaşenin kaybedilmesi halinde, ilgili Gümrük ve
+Ticaret Bölge Müdürlüğünce gerekli işlemler yapılarak Bakanlığa ivedilikle
+bilgi verilir.
+(4) Birinci, ikinci ve üçüncü fıkrada belirtilen
+durumlarda artık kullanımda olmayan kaşenin yerine yeni kaşe üretilmesi
+halinde, üretilen yeni kaşeye yeni bir seri numarası verilir ve sicil
+kayıtlarında yeni kaşe ile eski kaşe ilişkilendirilir.
+(5) Birinci ve ikinci fıkra kapsamında Bakanlığa
+iade edilen kaşeler, iade edildikleri yılın sonundan başlamak üzere iki sene
+süreyle saklanır. Bu süre sonunda kaşeler, Bakanlık Makamınca belirlenecek
+3 kişiden oluşan kurul tarafından düzenlenecek tutanakla imha edilir.
+(6) Bu madde hükümleri çerçevesinde yapılan
+işlemler, 5 inci maddenin dördüncü fıkrasında belirtilen sicil kaydına
+işlenir.
+Kaşelerin
+elektronik ortamda takibi
+MADDE 7 –
+(1) 5 inci maddenin dördüncü
+fıkrası uyarınca oluşturulan kaşe siciline dair kayıtlar güvenli elektronik
+ortamda tutulur.
+(2) Birinci fıkra hükmüne uygun olarak; kaşelerin
+üretilmesi, ilgili gümrük müdürlüğüne gönderilmesi, gümrük müdürlüklerince
+teslim alınması, kullanılmaya başlanması ya da kullanımdan kaldırılmasına
+dair işlemler elektronik ortama kaydedilir. Kaşelerin örnek baskıları
+elektronik sistemde saklanır.
+(3) Yabancı ülkeler tarafından menşe ispat ve
+dolaşım belgelerinde kullanılan kaşelerin doğruluğunun sorgulandığı
+durumlarda; kullanılan elektronik sistem üzerinden kaşelerin doğruluğu,
+belgenin vize edildiği tarihte belgede yer alan kaşenin kullanımda olup
+olmadığı, kaşenin örnek baskısıyla eşleşip eşleşmediği gibi hususlar
+kontrol edilir.
+Bilgilendirme
+MADDE 8 –
+(1) Kaşelerin kullanımına dair
+ilgili ülke yetkili makamlarına yönelik gerekli bilgilendirme Bakanlık
+tarafından yapılır.
+Yürürlük
+MADDE 9 –
+(1) Bu Tebliğ, 24/4/2018
+tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
+Yürütme
+MADDE 10
+– (1) Bu Tebliğ hükümlerini Gümrük
+ve Ticaret Bakanı yürütür.
