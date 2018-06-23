@@ -1,0 +1,3 @@
+Anlaşmazlıkların çözümü
+MADDE 46 – (1) 41 ila 45 inci maddelerde belirtilen kontrol usulleriyle ilgili olarak, kontrol talebinde bulunan gümrük idaresi ile bu kontrolün yapılmasından sorumlu gümrük idaresi arasında çözümlenemeyen bir anlaşmazlığın meydana gelmesi veya Anlaşmanın bu hususlara dair maddelerinin yorumlanmasına ilişkin bir soru hâsıl olması halinde, bu hususlar, Anlaşma’nın 25 inci maddesinin ikinci fıkrasının (b) bendi uyarınca kurulan Ortak Komite’nin bir alt-komitesi olarak kurulan Gümrük İşbirliği Komitesi’ne sunulur.
+(2) İthalatçı ile ithalatçı ülkenin gümrük idaresi arasında çıkabilecek her türlü anlaşmazlık, söz konusu ülkenin mevzuatı çerçevesinde çözülür.
