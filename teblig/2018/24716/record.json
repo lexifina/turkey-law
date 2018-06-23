@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24716",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (ULUSLARARASI ANLAŞMALAR) (SERİ NO: 9)",
+  "number": "24716",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2018/24716",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24716&MevzuatTertip=5",
+  "source_sha256": "9eb003bbece80d6021b2a060512c77d7e5483787ddf5bb8ea3d4826a339ac98f",
+  "source_bytes": 22731,
+  "published": "2018-06-23",
+  "gazette": "30457 (Mükerrer)",
+  "in_force": "2018-06-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.06.2018); own commencement article: \"Bu Tebliğ, 24/4/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 24/4/2018 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1070,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
