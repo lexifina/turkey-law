@@ -1,0 +1,4 @@
+Ayni ifa tarzı
+Madde 20- Kişilerin konut, ahır ve benzeri yapılarında, tarımsal, sınai ve zanaat araç ve gereçlerinde, canlı hayvan ve ayni ifaya konu olabilecek mameleklerinde meydana gelen zararın karşılanmasında; Çevre ve Şehircilik, Gıda, Tarım ve Hayvancılık, Gümrük ve Ticaret müdürlüklerinin hazırlamış oldukları hasar raporları, mahkemelerce karara bağlanmış olan hasar tespitleri esas alınarak öncelikli olarak ayni ifa yoluna gidilir. Kişi veya kişilerin uğradığı zarar ayni olarak sulhnamede ve komisyon kararında belirtilir.[5]
+Sulhnamenin onayını takiben ayni olarak karşılanacak mal ve malzemenin satın alınma ve tesliminde, ödeneğin aktarıldığı kurumun tabi olduğu esas ve usuller uygulanır.
+Toplu projeler çerçevesinde karşılanan zararların ayni ifasında, uğranılan zarar proje bedelinden mahsup edildikten sonra kalan kısım 15/5/1959 tarihli ve 7269 sayılı Kanun hükümleri çerçevesinde tahsil olunur.

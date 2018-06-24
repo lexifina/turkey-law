@@ -1,0 +1,4 @@
+Bilgi ve belgelerin toplanması
+Madde 10- Komisyon ilgili kamu kurum ve kuruluşlarından başvuru konusu ile ilgili her türlü bilgi, belge ve yardım isteyebileceği gibi, adli ve askeri teşkilat ile kolluk kuvvetleri dışında kalan diğer kamu kurum ve kuruluşlarında çalışanları bilirkişi olarak da görevlendirebilir. Komisyon, gerekli gördüğü uzmanları çalıştırabilir veya bunlardan görüş alabilir. Komisyon tarafından görevlendirilen kamu görevlileri öncelikli olarak komisyon tarafından verilen görevleri yerine getirirler.
+(Değişik ikinci fıkra: 20/11/2006-2006/11254 K.) Komisyonun başkan ve üyeleri, kendilerinin, ailesinin ve üçüncü dereceye kadar (bu derece dahil) kan ve kayın hısımları ile vekili, vasisi ya da kayyımı oldukları kişilerin zararları ile ilgili komisyon toplantılarına katılamazlar.
+(Ek fıkra: 20/11/2006-2006/11254 K.) Zarar tespit komisyonu üyeleri, bilirkişi olarak görevlendirilemez.

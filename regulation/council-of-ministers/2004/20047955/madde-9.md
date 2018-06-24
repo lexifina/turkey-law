@@ -1,0 +1,5 @@
+Komisyonun toplanması ve gündem
+Madde 9- Komisyonun nerede, hangi gün ve sıklıkla toplanacağı, iş yoğunluğuna ve müracaat sayısına göre komisyon başkanının önerisi üzerine vali tarafından tespit edilerek üyelere bildirilir. Komisyon belirlenen yer ve zamanlarda toplanır.
+(Ek fıkra: 20/11/2006-2006/11254 K.) Komisyonun başkan ve üyelerine, ayda altıdan fazla olmamak üzere her toplantı için beşyüz gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda toplantı ücreti ödenir. Bu ödemeler, damga vergisi hariç, herhangi bir kesintiye tâbi tutulmaz.
+(Ek fıkra: 20/11/2006-2006/11254 K.) Zararların tespiti amacıyla memuriyet mahalli dışında keşfe katılan komisyon üyeleri ile bilirkişilere, 6245 sayılı Harcırah Kanununa göre harcırah ödenir. Komisyonun avukat üyesine ödenecek harcırahın tespitinde, birinci dereceden maaş alan Devlet memuruna ödenen harcırah miktarı esas alınır. Bu ödemeler, damga vergisi hariç herhangi bir vergi ve kesintiye tâbi tutulmaz.
+Komisyonun gündemi başkan tarafından tespit edilir.
