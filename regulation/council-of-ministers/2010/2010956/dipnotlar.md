@@ -1,0 +1,7 @@
+[1] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 1 inci maddesiyle, bu maddenin (a) ve (b) bentlerinde yer alan “deafolimpik” ibareleri “deaflimpik” şeklinde değiştirilmiştir.
+[2] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 2 nci maddesiyle, bu maddede yer alan “Gençlik ve Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun” ibaresi “Spor Genel Müdürlüğünün Teşkilat ve Görevleri Hakkında Kanunun” şeklinde değiştirilmiştir.
+[3] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle, bu maddenin başlığı ve birinci fıkrasında yer alan “Deafolimpik” ibareleri “Deaflimpik” şeklinde değiştirilmiştir.
+[4] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 7 nci maddesiyle, bu fıkralarda yer alan “Deafolimpik” ibareleri “Deaflimpik” şeklinde değiştirilmiştir.
+[5] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 10 uncu maddesiyle, bu fıkrada yer alan “Deafolimpik” ibaresi “Deaflimpik” şeklinde değiştirilmiştir.
+[6] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 15 inci maddesiyle, bu maddede yer alan “Spor Faaliyetleri Dairesi Başkanı” ibaresi “Uluslararası Organizasyonlar Dairesi Başkanı” şeklinde değiştirilmiştir.
+[7] 4/11/2013 tarihli ve 2013/5628 sayılı Bakanlar Kurulu Kararı Eki Yönetmeliğin 17 nci maddesiyle, bu fıkrada yer alan “ tahsil edilir” ibaresi “alınır” şeklinde değiştirilmiştir.

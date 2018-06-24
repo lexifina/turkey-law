@@ -1,0 +1,2 @@
+Ulusal müsabakalar
+MADDE 20 – (1) Olimpik ve paralimpik spor dallarının ulusal müsabakalarında başarılı olan toplam 500 sporcu ve bunların yetişmelerinde ve başarılarında emeği geçen toplam 100 antrenörü geçmemek üzere ve her birine, federasyon başkanının teklifi, ödül değerlendirme komisyonunun uygun görüşü ve Genel Müdürün onayı ile en fazla 60 Cumhuriyet Altını karşılığı Türk Lirası ödül verilebilir. Bu ödül, bir defada verilebileceği gibi Genel Müdürün onayı ile aylara da yayılabilir.

@@ -1,0 +1,4 @@
+Birden fazla disiplin veya stilde yapılan müsabakalar
+MADDE 18 – (1) Bu Yönetmelik kapsamına giren müsabakalarda olmak kaydıyla, bir spor dalında birden fazla disiplinde veya stilde yapılan müsabakada toplamda elde edilen dereceler ödüle esas alınıyor ise; toplamda dereceye giremeyip branşın disiplininden veya stilinden herhangi birinde ilk üç dereceden birini elde eden sporculara derecesinin karşılığında öngörülen ödülün yarısı verilebilir.
+(2) Ancak, toplamda elde edilen derecenin karşılığı olan ödül, diğer disiplin veya stilde elde edilen dereceye tekabül eden ödülün altında ise, elde edilen en iyi derecenin karşılığı olan ödülün yarısı verilebilir.
+(3) Bilek güreşi dalında, sporcuya sadece tek kol için ödül verilebilir. Bilek güreşi dalında, sporcunun aynı veya farklı sıkletlerde iki kolda müsabakalara katılarak derece elde etmesi halinde yalnızca en yüksek derecesinin karşılığı olan ödül verilebilir.
