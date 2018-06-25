@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/904",
+  "list_number": "904",
+  "decision_date": "2018-06-25",
+  "title": "24 Haziran 2018 tarihinde birlikte yapılan Cumhurbaşkanı Seçimi ve 27. Dönem Milletvekili Genel Seçiminde Cumhurbaşkanı Seçiminin ikinci tura kalmaması nedeniyle her iki seçime ilişkin itiraz süreleri hakkında Yüksek Seçim Kurulunun 2018/904 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77770/2018-904.pdf",
+  "source_sha256": "5ac7775cd242c1d995205a713fa576e60a1f22f98b4014a091817d447bffd9c5",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-06-25",
+  "law_text_complete": false
+}
