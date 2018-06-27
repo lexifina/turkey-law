@@ -1,0 +1,24 @@
+{
+  "number": "98",
+  "number_as_published": "2018/07/98",
+  "year": 2018,
+  "title": "Denetim ve Toplu Taşıma Şube Müdürlüğü’nün yazısında belirtilen Denizli Büyükşehir Belediyesi Ulaşım Sanayi Ticaret A.Ş.’nin 18.06.2018 tarih ve 2018/282 sayılı yazısında 10 Nolu Otobüs Güzergâhının revize edilmesi talebi",
+  "decision_date": "2018-06-27",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=06.2018",
+  "official_document": null,
+  "source_sha256": "b57dd9e85487aca26897bb63618985c486013b5ed4878a953dbeade93a338a91",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-06-27",
+  "in_force_basis": "Decision date as printed in the official council listing: 27.06.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "07",
+  "listed_subjects": 1
+}
