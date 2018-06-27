@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44728",
+  "decision_date": "2018-06-27",
+  "source_id": 17662,
+  "chamber": "2",
+  "file_number": "41309",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17662/",
+  "source_sha256": "fc98ad5174468b09bf54f3214a52b1b168ed57873257eef8353b08f618ed1d13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
