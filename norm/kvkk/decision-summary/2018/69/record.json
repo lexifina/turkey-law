@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/69",
+  "source_id": 5366,
+  "date": "2018-06-28",
+  "title": "“Sicil dosyalarındaki kişisel verilerin, işlenmelerini gerektiren sebeplerin ortadan kalkmaması sebebiyle, imha edilmemesi gerektiği hakkında” Kişisel Verileri Koruma Kurulunun 28/06/2018 Tarihli ve 2018/69 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5366/2018-69",
+  "source_sha256": "69ad34488f5970dc74d3e0e062afbefb35e96a71b6c7496a1868e75611369b7a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
