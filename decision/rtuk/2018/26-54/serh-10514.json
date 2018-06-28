@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2018/26",
+  "meeting_date": "2018-06-28",
+  "meeting_date_as_published": "28.6.2018",
+  "decision_no": "54",
+  "source_id": 10514,
+  "title": "RTÜK kararı 2018/26-54 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10514",
+  "source_sha256": "9e95108f8835c36191d5ec3c05a2e34b3ac542530409c12e3316cf0702dae6bf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (5 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
