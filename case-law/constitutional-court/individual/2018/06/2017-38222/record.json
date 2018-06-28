@@ -1,0 +1,20 @@
+{
+  "applicant": "F.Y.",
+  "application_date": "2017-12-01",
+  "application_number": "2017/38222",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-06-28",
+  "id": "e46e6362-7eac-0508-e1f3-7c84be09e182",
+  "in_force": "2018-06-28",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmU0NmU2MzYyLTdlYWMtMDUwOC1lMWYzLTdjODRiZTA5ZTE4Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f0259b46d973bcc6aac6584190cd9b9160ea3bb5b84590d4bee3f9d0ec482b84",
+  "version_label": "as-enacted"
+}
