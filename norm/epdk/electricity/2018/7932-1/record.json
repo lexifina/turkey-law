@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "7932-1",
+  "decision_date": "2018-06-28",
+  "title": "06.07.2018 tarih ve 30470 sayılı Resmi Gazetede Yayımlanan , 28.06.2018 tarihli 7932-1",
+  "resmi_gazete_date": "2018-07-06",
+  "resmi_gazete_number": "30470",
+  "categories": [
+    "Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=saf+FgIsaFE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=saf+FgIsaFE="
+  ],
+  "source_sha256": "5809ef14b092e7ea0c7b621202a6ec33a036a089a8569c50e6d293f010b0e2ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 12705,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2018-06-28",
+  "law_text_complete": false
+}
