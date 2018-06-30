@@ -1,0 +1,29 @@
+{
+  "number": "month-06",
+  "year": 2018,
+  "month": 6,
+  "title": "Meclis Kararları 2018/Haziran",
+  "decision_date": null,
+  "index_date": "2018-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2018",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-haziran.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-haziran.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2018-haziran.html",
+  "source_sha256": "a3640c8de25213b3a412985e5a42a26e823f95ff53ae7b3f2508a65b7d912d3e",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-06-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Haziran 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2018/Haziran",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
