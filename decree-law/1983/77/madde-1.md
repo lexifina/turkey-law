@@ -1,0 +1,1 @@
+Madde 1 – Bilim ve teknoloji alanındaki araştırma ve geliştirme politikalarının ekonomik kalkınma, sosyal gelişme ve milli güvenlik hedefleri doğrultusunda tespit edilmesi, yönlendirilmesi ve koordinasyonunun sağlanması amacıyla Başbakan'a bağlı "Bilim ve Teknoloji Yüksek Kurulu" kurulmuştur.

@@ -1,0 +1,5 @@
+Kuruluş ve çalışma:
+Madde 3 – (Değişik birinci fıkra: 1/11/1989-KHK-391/1 md.) Bilim ve Teknoloji Yüksek Kurulu, Başbakan'ın başkanlığında ilgili Devlet Bakanı, Milli Savunma Bakanı, Maliye ve Gümrük Bakanı, Milli Eğitim Bakanı, Sağlık Bakanı, Tarım Orman ve Köyişleri Bakanı, Sanayi ve Ticaret Bakanı, Enerji ve Tabii Kaynaklar Bakanı, YÖK Başkanı, Devlet Planlama Teşkilatı Müsteşarı, Hazine ve Dış Ticaret Müsteşarı, TÜBİTAK Başkanı ile bir yardımcısı, TAEK Başkanı, Türkiye Sağlık Enstitüleri Başkanı, TRT Genel Müdürü, TOBB Başkanı ve YÖK'ün belirleyeceği, konu ile ilgili gelişmiş bir üniversitenin seçeceği bir üyeden oluşur. (1)
+Gerektiğinde diğer Bakanlar ile araştırma kuruluşlarının sorumluları ve uzman kişiler de Kurul toplantılarına davet edilebilir.
+Bilim ve Teknoloji Yüksek Kurulu'nun hazırlık çalışmaları ve sekreterya hizmetleri TÜBİTAK tarafından yerine getirilir. TÜBİTAK, Bilim ve Teknoloji Yüksek Kurulu'nun aldığı kararların ilgili kuruluşlarca uygulanmasını izlemek, değerlendirmek ve sonuçlarını anılan Kurul'a aktarmakla sorumludur.
+Bilim ve Teknoloji Yüksek Kurulu Başbakan'ın çağrısı üzerine yılda en az iki defa toplanır.

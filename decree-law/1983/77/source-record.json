@@ -1,0 +1,60 @@
+{
+  "source_id": "24.5.77",
+  "path": "decree-law/1983/77",
+  "number": "77",
+  "tertip": "5",
+  "title": "BİLİM VE TEKNOLOJİ YÜKSEK KURULU KURULMASINA İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1983-08-16",
+  "enacted_as_printed": "16.08.1983",
+  "published": "1983-10-04",
+  "gazette": "18181",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 106 ncı maddesiyle yürürlükten kaldırılmıştır.(2)\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 106 ncı maddesiyle yürürlükten kaldırılmıştır.(2)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2014-11-26",
+      "6569 | 3 | 26/11/2014",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1989-11-08",
+      "KHK/391 | — | 8/11/1989",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1989-11-01",
+      "(Değişik: 1/11/1989-KHK-391/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1989-11-01",
+      "(Değişik birinci fıkra: 1/11/1989-KHK-391/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 106 ncı maddesiyle yürürlükten kaldırılmıştır.(2)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=77&MevzuatTertip=5",
+  "source_sha256": "b92a4ee7477bac8b75a46b4412005bf890740c8a688b364f083e36ce25db2e36",
+  "source_bytes": 25928,
+  "words": 615,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
