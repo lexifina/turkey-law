@@ -1,0 +1,98 @@
+{
+  "source_id": "24.5.634",
+  "path": "decree-law/2011/634",
+  "number": "634",
+  "tertip": "5",
+  "title": "AVRUPA BİRLİĞİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2011-06-03",
+  "enacted_as_printed": "03.06.2011",
+  "published": "2011-06-08",
+  "gazette": "27958",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 7 nci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 7 nci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2013-08-02",
+      "6495 | 3, GEÇİCİ MADDE 2 | 2/8/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-07-12",
+      "(Ek: 12/7/2013-6495/68 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2013-07-12",
+      "(Ek cümle: 12/7/2013-6495/69 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2012-01-14",
+      "KHK/666 | 38, (II) sayılı Cetvel | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/666 | 38, (II) sayılı Cetvel | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/661 | 16, 20, 27, 38 | 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-10-24",
+      "(Ek: 24/10/2011-KHK-661/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-24",
+      "(Değişik: 24/10/2011-KHK-661/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-24",
+      "(Değişik: 24/10/2011-KHK-661/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Mülga: 11/10/2011-KHK-666/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-08-17",
+      "KHK/649 | 26 | 17/8/2011",
+      "the act's own entry-into-force list"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 7 nci maddesiyle yürürlükten kaldırılmıştır.",
+    "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+    "(2) 24/6/2009 tarihli ve 5916 sayılı Avrupa Birliği Genel Sekreterliği Teşkilat ve Görevleri Hakkında Kanun yürürlükten kaldırılmıştır.",
+    "(Mülga: 11/10/2011-KHK-666/1 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=634&MevzuatTertip=5",
+  "source_sha256": "db4d56eee78b6cdbdd96f3ea95fc9e567e41f852638c26c4826bacf9903202fb",
+  "source_bytes": 132839,
+  "words": 4153,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
