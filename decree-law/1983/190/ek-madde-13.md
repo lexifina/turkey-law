@@ -1,0 +1,2 @@
+Ek Madde 13 – (Ek: 17/2/2011-6114/19 md.)(3)
+Akdeniz Üniversitesi, Bozok Üniversitesi, Eskişehir Osmangazi Üniversitesi, Gaziosmanpaşa Üniversitesi, Kafkas Üniversitesi, Kahramanmaraş Sütçü İmam Üniversitesi, Kırıkkale Üniversitesi, Mustafa Kemal Üniversitesi ve Ondokuz Mayıs Üniversitesinde kullanılmak üzere ekli (4) sayılı listede yer alan kadrolar ihdas edilerek bu Kanun Hükmünde Kararnameye bağlı cetvellerde, ilgili üniversitelere ait bölümlere eklenmiştir.

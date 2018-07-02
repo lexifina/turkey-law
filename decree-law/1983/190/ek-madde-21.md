@@ -1,0 +1,3 @@
+Ek Madde 21 – (Ek: 2/12/2016-6764/74 md.)(3)
+Bu maddeyi ihdas eden Kanuna ekli (1) sayılı listede yer alan kadrolar iptal edilerek, bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına ait bölümünden çıkarılmış ve bu maddeyi ihdas eden Kanuna ekli (2) ve (3) sayılı listelerde yer alan kadrolar ihdas edilerek bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Millî Eğitim Bakanlığına ve Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına ait bölümlerine eklenmiştir.
+Bu Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Millî Eğitim Bakanlığına ait bölümünde yer alan Rehberlik ve Denetim Başkanı ile I. Hukuk Müşaviri kadroları hiçbir işleme gerek kalmaksızın iptal edilmiştir.

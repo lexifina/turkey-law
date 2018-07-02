@@ -1,0 +1,2 @@
+Geçici Madde 2 – Bu Kanun Hükmünde Kararnameye eklenmesi öngörülen cetveller ve cetvellerde yer alacak kadrolar, bu Kanun Hükmünde Kararname esas ve usullerine uygun olarak en geç sekiz ay içerisinde hazırlanır ve Bakanlar Kurulu Kararı ile Resmi Gazete’de yayımlanır. Yayımlanan bu cetveller yürürlüğe girdiği tarihten bu Kanun Hükmünde Kararnamenin eki sayılır.(1)
+Yayımı tarihinden itibaren, bu Kanun Hükmünde Kararnamenin eki olan cetvellerde ancak bu Kanun Hükmünde Kararnamede öngörülen esas ve usullere uyularak değişiklik yapılabilir.

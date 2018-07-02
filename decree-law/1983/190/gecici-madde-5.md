@@ -1,0 +1,5 @@
+Geçici Madde 5 – Kadroları ekli cetvellerde yer alan ve yeni teşkilatlanma nedeniyle kadro ünvanı ve derecesi değişen görevlilerin eski kadrolarına ait aylık, ek gösterge ve her türlü zam ve tazminat hakları yeni görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur.
+Kuruluşlar için tesbit edilmiş ve ekli cetvellerde gösterilmiş olan kadroların tahsisinde:
+Sınıf, unvan ve kadro dereceleri değişmeyenler, başkaca bir işleme gerek kalmaksızın, bu kadrolara atanmış sayılırlar, değişenler hakkında ise, 657 sayılı Devlet Memurları Kanunu ile 2802 sayılı Hakimler ve Savcılar Kanununun ilgili hükümlerine göre işlem yapılır.
+Ancak, bu gibilerin atandıkları yeni kadroların aylık, mevcut ise ek gösterge ile zam ve tazminatların toplamı, almakta olduğu aylık, ek gösterge ile zam ve tazminatlardan az olduğu takdirde aradaki fark giderilinceye kadar tazminat olarak ödenir.
+Birinci fıkra hükmü, her ne suretle olursa olsun Genel İdare Hizmetleri Sınıfından Mütehassıs Müşavir, Uzman Müşavir, Bakanlık Müşaviri, Müsteşarlık Müşaviri, Özel Müşavir,Basın Müşaviri gibi Müşavir ve Danışman Ünvanlı Kadrolara atananların ek göstergeleri hakkında da uygulanır.

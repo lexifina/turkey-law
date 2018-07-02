@@ -1,0 +1,2 @@
+İstisnalar:(1)(2)
+Madde 3 – Bu Kanun Hükmünde Kararname hükümleri, Cumhurbaşkanlığı Genel Sekreterliği, Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı, İktisadi Devlet Teşekkülleri, Kamu İktisadi Kuruluşları, Kamu Kurumu Niteliğindeki Meslek Teşekkülleri, Üniversite Öğretim elemanları, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Jandarma ve Sahil Güvenlik Akademisi, ve Türk Silahlı Kuvvetleri Personelinin kadroları ile milli güvenlik sebebiyle gizli kalması gereken kadrolar hakkında uygulanmaz.(2)

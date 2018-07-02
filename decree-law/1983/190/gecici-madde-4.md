@@ -1,0 +1,1 @@
+Geçici Madde 4 – Kadro cetvellerinin Bakanlar Kurulunca yayımlanması ve kadroların, bu Kanun Hükmünde Kararnamenin 8 nci maddesine göre dağıtılması ve vize edilmesi işlemleri tamamlanıncaya kadar, ilgililerin aylıklarının 13 üncü maddeye göre kaldırılan kadrolara dayanılarak ödenmesine devam olunur.

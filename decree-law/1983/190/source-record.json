@@ -1,0 +1,99 @@
+{
+  "source_id": "24.5.190",
+  "path": "decree-law/1983/190",
+  "number": "190",
+  "tertip": "5",
+  "title": "GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1983-12-13",
+  "enacted_as_printed": "13.12.1983",
+  "published": "1983-12-14",
+  "gazette": "18251",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin Geçici 9 uncu maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin Geçici 9 uncu maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2018-05-18",
+      "7141 | Ek Madde 24 | 18/5/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-05-09",
+      "(Ek: 9/5/2018-7141/15 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-03-08",
+      "7070 | 3, Ek Madde 7 | 8/3/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-03-06",
+      "7100 | Ek Madde 22, Ek Madde 23, Geçici Madde 13 | 6/3/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-02-22",
+      "(Ek: 22/2/2018-7100/32 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-02-22",
+      "(Ek: 22/2/2018-7100/31 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2016-12-09",
+      "6764 | Ek Madde 21, Ek (I) sayılı Cetvel | 9/12/2016",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-12-02",
+      "(Ek: 2/12/2016-6764/74 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2016-10-29",
+      "KHK/676 | 3, Ek Madde 7 | 29/10/2016",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-09-07",
+      "6745 | Ek Madde 20 | 7/9/2016",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-08-20",
+      "(Ek: 20/8/2016-6745/23 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararnamenin, a) 5, 7 ve 9 ncu maddeleri 1/1/1985 tarihinde, b) 4 ve 13 ncü maddeleri her kurum ve kuruluş için ihdas edilen kadroların yürürlüğe girdiği tarihte, c) Diğer hükümleri, yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin Geçici 9 uncu maddesiyle yürürlükten kaldırılmıştır.",
+    "Madde 14 – 31/7/1970 tarih ve 1322 sayılı Genel Kadro Kanunu ile diğer Kanunların bu Kanun Hükmünde Kararnameye aykırı hükümleri yürürlükten kaldırılmıştır.",
+    "(3) 12/7/2013 tarihli ve 6495 sayılı Kanunun 102 nci maddesiyle, bu fıkrada yer alan “, 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanununun ek 1 inci maddesi” ibaresi yürürlükten kaldırılmıştır.",
+    "(Mülga: 7/12/2004-5272/87 md.)",
+    "(Mülga son fıkra: 7/12/2004-5272/87 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=190&MevzuatTertip=5",
+  "source_sha256": "27c22ddfd4fe4cf3152ddb13d73fc0a1f027133eb587fe166ea65b7bc8db939f",
+  "source_bytes": 2075845,
+  "words": 26619,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

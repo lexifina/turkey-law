@@ -1,0 +1,6 @@
+Kadroların dağılımı:
+Madde 8 – Ekli cetvellerde yer alan ve kuruluşlara tahsis edilmiş olan serbest kadroların bu Kanun Hükmünde Kararnameye eklendikleri tarihten itibaren üç ay içinde ünvan, sınıf, derece ve adet belirtilmek suretiyle, yurtiçinde merkez ve taşra birimleri itibariyle, yurtdışında toplam sayı olarak dağılımı yapılır.
+Yukarıdaki fıkraya göre yapılan kadro dağılımına dair cetveller, Maliye ve Gümrük Bakanlığı ve Devlet Personel Dairesi ile ve uygunluk sağlandıktan sonra, Sayıştay denetimine tabi kuruluşlarca vize için Sayıştay'a, bunlar dışında kalanlarda onay için onay merciine gönderilir.
+Bu dağılımda sonradan yapılacak değişikliklerde de aynı usullere uyulur. Ancak taşra için tahsis edilmiş kadrolar, merkeze alınamaz. Merkezdeki kadroların taşra teşkilatına tahsisi ikinci fıkradaki mercilere bildirilmek kaydıyla, ilgili Bakanın onayıyla yapılır. (Değişik son cümle: 21/4/2005-5335/24 md.) Değiştirilen veya ihdas edilen kadrolar, bu kadroların dağılımına ilişkin cetvellerin ilgili mercilerce vize veya onaylandığı tarihten itibaren geçerli olmak üzere kullanılır ve aylık ödemeler vizeli veya onaylı kadro dağılım cetvellerine göre yapılır.
+Bu dağılıma ilişkin cetvellerin şekli ve onay mercileri altıncı maddede öngörülen yönetmelikte gösterilir.
+216

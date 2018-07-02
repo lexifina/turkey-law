@@ -1,0 +1,2 @@
+Ek Madde 12 – (Ek: 14/7/2010-6005/6 md.)(2)
+Yeni kurulan Yıldırım Beyazıt Üniversitesi, Bursa Teknik Üniversitesi, İstanbul Medeniyet Üniversitesi, İzmir Kâtip Çelebi Üniversitesi, Konya Üniversitesi, Kayseri Abdullah Gül Üniversitesi ve Erzurum Teknik Üniversitesinde kullanılmak üzere ekli (2) sayılı listede yer alan kadrolar ihdas edilerek bu Kanun Hükmünde Kararnameye bağlı cetvellere, ilgili üniversite bölümleri olarak eklenmiştir.

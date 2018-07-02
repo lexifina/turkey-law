@@ -1,0 +1,5 @@
+Kadro değişikliği:
+Madde 9 – Kuruluşlara verilmiş bulunan ve ekli cetvellerde gösterilen serbest kadrolar, hiyerarşik yapıyı bozmamak kaydıyla, yedinci maddede belirtilen usule uygun olarak Bakanlar Kurulunca değişik derecelerden aynı sınıf ve unvanlı kadrolarla değiştirilebilir.
+(Değişik: 5/7/1991-KHK-434/1 md.; Aynen kabul: 26/12/1991-3767/1 md.) Kanunlar ve andlaşmalar gereği yapılması şart olan veya önceden tahmin edilemiyen hizmetlerin ifası için ihtiyaç duyulan kadroların, karşılanması amacıyla tutulan veya boş olan kadrolarda sınıf, unvan ve derece değişikliği yapmaya, mevcut kadroları birden fazla dereceyi kapsayacak şekilde değiştirmeye ve boş kadroları iptal etmeye Bakanlar Kurulu yetkilidir.
+Bu maddeye göre kadroları değiştirilenlerin özlük hakları, değiştirilen yeni kadrolara atanma işlemleri tamamlanıncaya ve bu kadro derecesini kazanılmış hak olarak alıncaya kadar eski kadro dereceleri esas alınarak ödenmeye devam olunur.
+Bu değişiklik işlemleri her kurum için yılda iki defa yapılır.(1)

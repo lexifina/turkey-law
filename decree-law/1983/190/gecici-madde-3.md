@@ -1,0 +1,1 @@
+Geçici Madde 3 – Yapılan yeni düzenlemeler sebebiyle teşkilat yapıları değişen, bünyelerine yeni birimler eklenen kuruluşların mevcut kadrolarında, bu birimlerin işbirliğini sağlamaya yönelik unvan sınıf ve derece değişikliği yapmaya geçici 2 nci madde uyarınca kadro cetvelleri yayımlanıncaya kadar Bakanlar Kurulu yetkilidir.
