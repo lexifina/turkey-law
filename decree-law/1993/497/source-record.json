@@ -1,0 +1,92 @@
+{
+  "source_id": "24.5.497",
+  "path": "decree-law/1993/497",
+  "number": "497",
+  "tertip": "5",
+  "title": "TÜRKİYE BİLİMLER AKADEMİSİNİN KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1993-08-13",
+  "enacted_as_printed": "13.08.1993",
+  "published": "1993-09-02",
+  "gazette": "21686",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 97 nci maddesiyle yürürlükten kaldırılmıştır.(2)\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 97 nci maddesiyle yürürlükten kaldırılmıştır.(2)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2013-07-26",
+      "Anayasa Mahkemesinin 8/11/2012 tarihli ve E.: 2011/115, K.: 2012/177 Sayılı Kararı | Geçici Madde 3 | 26/7/2013 tarihinden başlayarak altı ay sonra",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2012-01-01",
+      "KHK/662 | 7, Geçici Madde 5 5, 11 | 2/11/2011 1/1/2012",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/662 | 7, Geçici Madde 5 5, 11 | 2/11/2011 1/1/2012",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-10-11",
+      "(Ek iki cümle: 11/10/2011-KHK-662/94 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Ek : 11/10/2011 - KHK - 662/94 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-11",
+      "(Değişik birinci cümle: 11/10/2011-KHK-662/94 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-08-27",
+      "KHK/651 | 3, 5, 7, 8, 9, 10, 11, Geçici madde 3 ve 4 | 27/8/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-06-12",
+      "KHK/635 | 1, 14 | 12/6/2011 tarihinde yapılan milletvekili seçiminden sonra kurulan ilk Bakanlar Kurulu üyelerinin atandığı tarihte",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-06-03",
+      "(Mülga ikinci fıkra: 3/6/2011-KHK-635/33 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2010-01-01",
+      "5917 | 13 | 1/1/2010",
+      "the act's own entry-into-force list"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 97 nci maddesiyle yürürlükten kaldırılmıştır.(2)",
+    "(Mülga ikinci fıkra: 3/6/2011-KHK-635/33 md.)",
+    "(Mülga: 22/8/2011 – KHK – 651/ 36 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=497&MevzuatTertip=5",
+  "source_sha256": "af60b48ad3cc4f9050894e80118465314ac166033334f979f22bd71901a047b4",
+  "source_bytes": 58219,
+  "words": 1766,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
