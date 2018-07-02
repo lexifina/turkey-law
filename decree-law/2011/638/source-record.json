@@ -1,0 +1,96 @@
+{
+  "source_id": "24.5.638",
+  "path": "decree-law/2011/638",
+  "number": "638",
+  "tertip": "5",
+  "title": "GENÇLİK VE SPOR BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2011-06-03",
+  "enacted_as_printed": "03.06.2011",
+  "published": "2011-06-08",
+  "gazette": "27958",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 10 uncu maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 10 uncu maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2016-12-09",
+      "Anayasa Mahkemesi’nin 2/11/2016 tarihli ve E: 2015/61, K: 2016/172 sayılı Kararı | Geçici Madde 13 | 9/12/2016",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-09-07",
+      "6745 | EK MADDE 4 | 7/9/2016",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2016-08-20",
+      "(Ek: 20/8/2016-6745/78 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2015-04-15",
+      "6639 | 29, Ek Madde 3, Geçici Madde 12, Geçici Madde 13 | 15/4/2015",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2015-03-27",
+      "(Ek: 27/3/2015-6639/22 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2015-03-27",
+      "(Ek: 27/3/2015-6639/21 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2015-03-27",
+      "(Ek: 27/3/2015-6639/20 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2015-03-27",
+      "(Ek: 27/3/2015-6639/19 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2014-02-25",
+      "6525 | 5, 6, 8/B, 17, Ek Madde 2, Geçici Madde 11 | 25/2/2014",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2014-02-20",
+      "(Ek: 20/2/2014-6525/48 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2014-02-20",
+      "(Ek: 20/2/2014-6525/46 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 10 uncu maddesiyle yürürlükten kaldırılmıştır.",
+    "(Mülga: 8/8/2011-KHK-649/11 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=638&MevzuatTertip=5",
+  "source_sha256": "97abbbbeffba2b06ddc6f853db35e275cd643a192087134e025efd102438a58d",
+  "source_bytes": 164911,
+  "words": 5466,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

@@ -1,0 +1,2 @@
+Bazı kadrolara atanmış sayılma
+GEÇİCİ MADDE 2- (1) Bu Kanun Hükmünde Kararnameye ekli (2) sayılı liste ile kadroları iptal edilen Gençlik Hizmetleri Dairesi Başkanı, İl Gençlik ve Spor Müdürleri, İlçe Gençlik ve Spor Müdürleri ve Gençlik Merkezi Müdürleri kadrolarında bulunanlar sırasıyla bu Kanun Hükmünde Kararnameye ekli (3) sayılı liste ile ihdas edilen Uluslararası Organizasyonlar Dairesi Başkanı, İl Spor Müdürü, İlçe Spor Müdürü ve Şube Müdürü kadrolarına hiçbir işleme gerek kalmaksızın atanmış sayılır. (1)

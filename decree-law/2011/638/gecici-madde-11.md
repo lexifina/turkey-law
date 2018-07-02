@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 11 – (Ek: 20/2/2014-6525/48 md.)
+(1) Kamu kurum ve kuruluşlarında mesleğe yarışma ve yeterlik sınavı ile girenlerden denetçi, müfettiş ve kontrolör unvanlarını ihraz etmiş olanlar, bu maddenin yürürlüğe girdiği tarihten itibaren bir yıl içinde ekli (3) sayılı listede yer alan denetçi kadrolarına, 20/12/2013 tarihli ve 6512 sayılı 2014 yılı Merkezi Yönetim Bütçe Kanunundaki sınırlamalara tabi olmaksızın atanabilir. Bu şekilde yapılan atamalar hakkında, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin ek 7 nci maddesi hükümleri uygulanmaz.

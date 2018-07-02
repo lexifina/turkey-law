@@ -1,0 +1,2 @@
+Gençlik ve spor il ve ilçe müdürlükleri
+GEÇİCİ MADDE 8- (1) Gençlik ve Spor Genel Müdürlüğü il ve ilçe müdürlükleri Spor Genel Müdürlüğü il ve ilçe müdürlükleri olarak faaliyetlerine devam eder. Bu müdürlüklere ait her türlü taşınır, taşıt, araç, gereç ve malzeme, varsa her türlü borç ve alacaklar, yazılı ve elektronik ortamdaki her türlü kayıtlar ve diğer dokümanlar hiçbir işleme gerek kalmaksızın Spor Genel Müdürlüğü il ve ilçe müdürlüklerine devredilmiş sayılır.

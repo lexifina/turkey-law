@@ -1,0 +1,5 @@
+İl ve ilçe düzeyinde yapılması gereken iş ve işlemler ile bağlı kuruluşlarla ilişkiler (2)
+MADDE 29- (Değişik: 8/8/2011-KHK-649/16 md.)
+(1) Bakanlığın görev alanıyla ilgili olarak il ve ilçe düzeyinde yapılması gereken iş ve işlemler Spor Genel Müdürlüğünün Gençlik Hizmetleri ve Spor İl ve İlçe Müdürlükleri aracılığıyla yürütülür. Bu amaçla Spor Genel Müdürlüğü bütçesine gerekli ödenek konulur.
+(2) (Ek: 27/3/2015-6639/19 md.) Bakanlık; Merkez Teşkilatı ile bağlı kuruluşlarınca yürütülen gençlik ve spor ile kredi ve yurt hizmetlerinin, belirleyeceği plan ve program dâhilinde ve mevzuata uygun bir şekilde yürütülmesini sağlamak ve gözetmek, gelişmesini ve yaygınlaşmasını teşvik edici tedbirler almak ve bunların uygulama ve sonuçlarını denetlemekle görevli ve yetkilidir.
+(3) (Ek: 27/3/2015-6639/19 md.) Bakanlık; yurt, spor tesisi, her türlü gençlik ve eğitim tesislerinin yapılması, kiralanması, işletilmesi, bağlı kuruluşların mülkiyetindeki taşınmazların tahsisi ve bu taşınmazlar üzerinde sınırlı ayni hak tesisi iş ve işlemlerini koordine etmeye ve planlamaya yetkilidir.

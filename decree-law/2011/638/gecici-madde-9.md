@@ -1,0 +1,2 @@
+Spor Toto Teşkilat Başkanlığının taraf olduğu davalar
+GEÇİCİ MADDE 9- (1) Gençlik ve Spor Genel Müdürlüğünün, Spor Toto Teşkilat Başkanlığının iş ve işlemleri nedeniyle taraf olduğu her türlü davalar ve icra takipleri ile sair hukukî ihtilaflardaki aktif ve pasif husumet ehliyeti, bu Kanun Hükmünde Kararnamenin yürürlüğü tarihinde, başka herhangi bir işleme gerek kalmaksızın Spor Toto Teşkilat Başkanlığına devredilmiş sayılır.
