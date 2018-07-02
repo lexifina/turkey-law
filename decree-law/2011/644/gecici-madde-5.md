@@ -1,0 +1,2 @@
+Mevcut işlerin yürütülmesi
+GEÇİCİ MADDE 5 – (1) Bu Kanun Hükmünde Kararname ile kurulan Çevre ve Şehircilik Bakanlığı teşkilatlanıncaya kadar, Bakanlığın merkez ve taşra teşkilatında değişen veya yeni kurulan birimlere verilen görevler ve hizmetler, Bayındırlık ve İskan Bakanlığı ile Çevre ve Orman Bakanlığından Bakanlığa devredilen merkez, taşra ve döner sermaye teşkilatları tarafından mevcut personel eliyle yürütülmeye devam olunur.
