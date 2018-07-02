@@ -1,0 +1,25 @@
+Muhasebat Genel Müdürlüğü
+Madde 11 – (Değişik: 20/8/1993 - KHK - 516/4 md.; İptal:Ana.Mah.’nin 25/11/1993 tarih ve E.1993/47, K.1993/49 sayılı kararı ile; Yeniden düzenleme: 19/6/1994 - KHK - 543/4 md.)
+Muhasebat Genel Müdürlüğünün görevleri şunlardır:
+___________________
+(1) 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle (r) bendine "(bakmakla yükümlü oldukları aile fertleri dahil)" ibaresinden sonra gelmek üzere "ve 18.6.1992 tarihli ve 3816 sayılı Kanun kapsamındaki yeşil kart sahiplerinin" ibaresi ile "ödenmesini" ibaresinden sonra gelmek üzere "bedeli ödenecek ve ödenmeyecek ilaçlar ile ilaçların reçetelenmesine ilişkin kuralları tespit etmek ve yeşil kart sahiplerinden, ayakta veya meskende tedavi halinde kullanılacak ilaç bedellerinin % 20’sine kadar katılım payı alınmasını" ibaresi eklenmiş ve metne işlenmiştir.
+120
+a) Devlet hesaplarının kayıtlarını tutmak, uygulamaları izlemek, dönem sonuçlarını çıkarmak, değerlendirmek ve yayımlamak,
+b) Genel bütçeye dahil daireler, katma bütçeli idareler ve özel bütçeli dairelerle bunlara bağlı döner sermayeli işletmelerin, Devlet sermayesi ile kurulmuş işletmelerin ve fonların muhasebe sistemlerini, gerektiğinde ilgili dairelerle birlikte belirlemek, bu konudaki mevzuat düzenlemeleri ile ilgili hazırlıkları yapmak,
+c) Genel bütçeye dahil daireler ile katma bütçeli idarelerde ve gerektiğinde bunlara bağlı döner sermayeli işletmeler ile fonlarda; gelirlerin toplanması, giderlerin ödenmesi, değer ve emanetlerin alınması, saklanması, ilgililere verilmesi, gönderilmesi ve bunların muhasebeleştirilmesi işlemlerini yapmak üzere saymanlıklar kurmak ve kaldırmak, vezneler açmak ve kapamak, sayman mutemetleri görevlendirmek veya görevlendirmeye izin vermek, bu işlemleri yetkisiz bir şekilde yapanlar veya yaptıranlar hakkında kanuni takibatta bulunulmasını sağlamak.
+d) Genel bütçeye dahil daireler ile katma bütçeli idarelere bağlı döner sermayeli işletmelerin sermaye kaynaklarına,bütçe ve harcama ilkelerine, mali yönetim ve denetimlerine ilişkin esasları düzenlemek, bunların gayri safi hasılatı üzerinden genel bütçeye aktarılacak miktarın tesbitine esas oranları belirlemek ve uygulamaya yön vermek, bu işletmelerin vergi mükellefiyet ve sorumluluğu ile diğer kanuni kesintilere ilişkin yükümlülüklerini tam ve zamanında yerine getirip getirmediklerini incelemek ve denetlemek, nakit varlıkları, gelir ve giderleri ile dönem karları üzerinde tasarrufta bulunmak, yeni kurulacak döner sermayeli işletmelerin kurulmasına izin vermek, tahsis edilecek sermayeyi belirlemek.
+e) Saymanlık hizmetlerine ve Devlet muhasebesine ilişkin olarak doğacak tereddütleri gidermek,
+f) Genel bütçeye dahil daireler, katma bütçeli idareler,bunlara bağlı döner sermayeli işletmeler ve fonların hesaplarına ilişkin Sayıştay ilamlarını saymanlıklara tebliğ etmek, bu ilamları ve diğer kişi borçlarını izlemek, tahsilatını sağlamak ve gerektiğinde terkin işlemlerini yaptırmak,
+g) Devlet muhasebesinin geliştirilmesi, etkin ve verimli bir şekilde uygulanması yönünde araştırmalar yapmak veya yaptırmak ve gerekli tedbirleri almak,
+h) Saymanlıkların ve kurumların hesap ve işlemlerini merkezde ve gereken yerlerde incelemek ve denetlemek,
+i) Genel bütçeye dahil daireler ile katma bütçeli idarelerin kesin hesaplarını almak,incelemek,Hazine genel hasabını çıkarmak, kesin hesap kanun tasarılarını hazırlamak,
+j) Genel bütçeye dahil daireler ile katma bütçeli idarelere bağlı döner sermayeli işletmelerin hesaplarını almak, incelemek,yıl sonlarında sermayelerine eklenecek tutarları belirlemek ve bunların muhasebe kayıtlarına geçirilmesini sağlamak, gerektiğinde fonların ve özel bütçeli kuruluşların hesaplarını almak,
+k) Kamu kurum ve kuruluşlarında hizmetin gereği olarak kullanılan malzeme, ilk ve hammadde, demirbaş, araç ve gereçlerin muhasebeleştirilmesi ve idaresine ait konularda düzenlemeler yapmak, bu konuda doğacak tereddütleri gidermek,
+l) Görev alanına giren konularda diğer mevzuat ile Bakanlığa verilen görevleri yapmak,
+m) Teşkilat ve görev alanına giren işlemleri maliye uzmanları vasıtasıyla incelemek ve denetlemek,(1)
+________________________
+(1) 26/9/2011 tarihli ve 659 sayılı KHK’nın 17 nci maddesiyle bu bentte yer alan “kontrolörleri” ibaresi “maliye uzmanları” şeklinde değiştirilmiştir.
+121
+n) (Ek: 17/9/2004-5234/ 10 md.) Devlet memurları ve diğer kamu görevlileri ile bunların emekli, dul ve yetimlerinin (bakmakla yükümlü oldukları aile fertleri dahil) ilgili kanunlar uyarınca ödemeleri gereken (katılım payından muaf ilaçlar hariç) ilaç katılım payları karşılığında ilgililerin maaş veya aylıklarından kesinti yaptırmak.
+o) (Ek: 17/9/2004-5234/ 10 md.) Kamu kurum ve kuruluşlarınca işletilen eğitim ve dinlenme tesisi, misafirhane, kreş, spor tesisi ve benzeri sosyal tesislerin hesaplarının bir düzen içinde tutulması için muhasebe sistemi kurmak, kullanılacak defter ve belgeleri tespit etmek,
+Genel bütçeli daireler nezdindeki merkez saymanlıkları,askeri ve mülki tüm nakit saymanlıkları,genel ve katma bütçeli kurum saymanlıkları,kadroları Bakanlıkta olan döner sermaye ve fon saymanlıkları bu Genel Müdürlüğe bağlıdır.
