@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24664",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEK TAKAS FAALİYETLERİ HAKKINDA YÖNETMELİK",
+  "number": "24664",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "issuer_slug": "turkiye-cumhuriyet-merkez-bankasi-baskani",
+  "path": "regulation/turkiye-cumhuriyet-merkez-bankasi-baskani/2018/24664",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24664&MevzuatTertip=5",
+  "source_sha256": "da3dc31e1b64ef575f1e56a38053bc7318ba5702158a488362d78dbff8997495",
+  "source_bytes": 43367,
+  "published": "2018-06-09",
+  "gazette": "30446",
+  "in_force": "2018-07-02",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 2/7/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2/7/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2030,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
