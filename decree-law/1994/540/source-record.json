@@ -1,0 +1,97 @@
+{
+  "source_id": "24.5.540",
+  "path": "decree-law/1994/540",
+  "number": "540",
+  "tertip": "5",
+  "title": "DEVLET PLANLAMA TEŞKİLATI KURULUŞ VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1994-06-19",
+  "enacted_as_printed": "19.06.1994",
+  "published": "1994-06-24",
+  "gazette": "21970",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 60 ıncı maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 60 ıncı maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2012-07-05",
+      "6337 Ek Madde 2 5/7/2012",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2012-06-29",
+      "(Ek fıkra: 29/6/2012-6337/15 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2012-06-29",
+      "(Değişik altıncı cümle: 29/6/2012-6337/15 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-06-12",
+      "KHK/641 Madde 1 ila 39, Madde 40 ila Madde 41, 12/6/2011 tarihinde yapılan",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-06-12",
+      "KHK/634 Ek Madde 2 12/6/2011 tarihinde yapılan",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-06-03",
+      "(Mülga: 3/6/2011-KHK-641/43 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-06-03",
+      "(Değişik ikinci cümle: 3/6/2011-KHK-634/39md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-06-03",
+      "(Değişik altıncı ve yedinci cümleler: 3/6/2011-KHK-634/ 39 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-06-03",
+      "(Değişik altıncı fıkra: 3/6/2011-KHK-634/39 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-06-03",
+      "(1) Bu maddelerle ilgili olarak 3/6/2011 tarihli ve 641 sayılı KHK’nın 43 üncü maddesine bakınız.",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-02-25",
+      "6111 Ek Madde 2 25/2/2011",
+      "the act's own entry-into-force list"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 60 ıncı maddesiyle yürürlükten kaldırılmıştır.",
+    "(Mülga: 3/6/2011-KHK-641/43 md.)",
+    "(Mülga: 3/6/2011-641-KHK/43 md)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=540&MevzuatTertip=5",
+  "source_sha256": "5417390899ce088d3a5261299fb31fbb0ca23f7f7895bf45bd413f682980adfd",
+  "source_bytes": 53396,
+  "words": 2042,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
