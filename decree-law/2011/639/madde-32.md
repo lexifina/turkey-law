@@ -1,0 +1,10 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler
+MADDE 32- (1) Mevzuatta, Tarım ve Köyişleri Bakanlığına ve Tarım Reformu Genel Müdürlüğüne yapılan atıflar Gıda, Tarım ve Hayvancılık Bakanlığına; 441 sayılı Tarım ve Köyişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname ile 3155 sayılı Tarım Reformu Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanuna yapılan atıflar bu Kanun Hükmünde Kararnamenin ilgili hükümlerine yapılmış sayılır.
+(2) 7/8/1991 tarihli ve 441 sayılı Tarım ve Köyişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname ile 26/2/1985 tarihli ve 3155 sayılı Tarım Reformu Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanun yürürlükten kaldırılmıştır.
+1101
+(3) Tarım ve Köyişleri Bakanlığına ait kadrolar ile Tarım Reformu Genel Müdürlüğüne ait kadrolar iptal edilerek, 190 sayılı Kanun Hükmünde Kararnamenin ilgili cetvellerinden çıkarılmıştır. Ekli (1) sayılı listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı Cetvele "Gıda, Tarım ve Hayvancılık Bakanlığı" bölümü olarak eklenmiştir. (1)
+(4) Kaldırılan Yayın Dairesi Başkanlığı bünyesindeki döner sermaye işletmesi Destek Hizmetleri Dairesi Başkanlığı bünyesinde, taşra teşkilatında kurulan döner sermaye işletmelerinden; İl Müdürlükleri bünyesinde bulunanlar İl Gıda, Tarım ve Hayvancılık müdürlükleri bünyesinde, diğerleri ise ekli (I), (II), (III) ve (IV) sayılı listelerde yer alan kuruluşların bünyesinde 21/12/1967 tarihli ve 969 sayılı Kanuna göre faaliyetlerine devam eder. 969 sayılı Kanuna göre faaliyetlerine devam edemeyecek olanlara ait her türlü taşınır ve taşınmaz, araç, gereç, malzeme, demirbaş ve taşıtlar ile burada çalışan personel başkaca bir işleme gerek kalmaksızın 969 sayılı Kanuna göre faaliyetlerine devam eden işletmelere Bakan onayı ile devredilir.
+(5) (21/12/1967 tarihli ve 969 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+(6) (29/6/2004 tarihli ve 5200 sayılı Tarımsal Üretici Birlikleri Kanun ile ilgili olup yerine işlenmiştir.)

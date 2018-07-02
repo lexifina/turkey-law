@@ -1,0 +1,99 @@
+{
+  "source_id": "24.5.639",
+  "path": "decree-law/2011/639",
+  "number": "639",
+  "tertip": "5",
+  "title": "GIDA, TARIM VE HAYVANCILIK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2011-06-03",
+  "enacted_as_printed": "03.06.2011",
+  "published": "2011-06-08",
+  "gazette": "27958",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 27 nci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 27 nci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2018-04-28",
+      "7139 | 6, 11, 18/C, 18/Ç (I) Sayılı Cetvel | 28/4/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-04-19",
+      "(Ek: 19/4/2018-7139/60 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-04-19",
+      "(Ek: 19/4/2018-7139/59 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-04-19",
+      "(Ek: 19/4/2018-7139/57 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-03-08",
+      "7079 | EK MADDE 2 | 8/3/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2017-12-24",
+      "KHK/696 | EK MADDE 2 | 24/12/2017",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2014-06-04",
+      "Anayasa Mahkemesi’nin 22/11/2012 tarihli ve E.: 2011/86, K.: 2012/183 sayılı Kararı | 31 | 4/12/2013 tarihinden altı ay sonra (4/6/2014)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-12-04",
+      "Anayasa Mahkemesi’nin 22/11/2012 tarihli ve E.: 2011/86, K.: 2012/183 sayılı Kararı | 31 | 4/12/2013 tarihinden altı ay sonra (4/6/2014)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-08-02",
+      "6495 | 14 | 2/8/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-07-12",
+      "(Değişik: 12/7/2013-6495/73 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-11-02",
+      "KHK/662 | Ek Madde 1, (I) Sayılı Liste | 2/11/2011",
+      "the act's own entry-into-force list"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 27 nci maddesiyle yürürlükten kaldırılmıştır.",
+    "(1) 22/8/2011 tarihli ve 651 sayılı KHK’nın 2 nci maddesi ile bu maddenin birinci fıkrasının (c) bendinde yer alan “yayın hizmetlerini yürütmek,” ibaresi yürürlükten kaldırılmış ve metne işlenmiştir.",
+    "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+    "(2) 7/8/1991 tarihli ve 441 sayılı Tarım ve Köyişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname ile 26/2/1985 tarihli ve 3155 sayılı Tarım Reformu Genel Müdürlüğünün Kuruluş ve Görevleri Hakkında Kanun yürürlükten kaldırılmıştır.",
+    "(Mülga: 22/8/2011-KHK-651/2 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=639&MevzuatTertip=5",
+  "source_sha256": "80495930acfeb194e9ebd16d5a8d0a3b4d22b47b060b370abcc6ddc438c8f19f",
+  "source_bytes": 251228,
+  "words": 6742,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
