@@ -1,0 +1,5 @@
+Döner sermaye
+MADDE 22 – (1) Bakanlık ihtiyaç duyduğu hallerde ve lüzum gördüğü merkezlerde Bakanın onayı ile görev ve hizmetleriyle ilgili döner sermayeli işletmeler kurabilir. Döner sermaye miktarını belirlemeye Bakanlar Kurulu yetkilidir.
+(2) (Değişik: 10/10/2011-KHK-657/4 md.) Taşra teşkilatında kurulan işletmelerin faaliyet alanları ile ilgili elde edeceği gelirlerin % 20’si Bakanlık merkezindeki Döner Sermaye İşletmesi hesabına aktarılır. Bu gelirler, işletmelerin nakit ihtiyaçlarının ve merkez döner sermaye işletmesinin masraflarının karşılanması için kullanılır.
+(3) (Ek: 10/10/2011-KHK-657/4 md.) Taşra teşkilatında yer alan döner sermaye işletmelerinin belirlenecek limit üstü nakitleri merkez döner sermaye işletmesi hesabına aktarılır. Aktarılan bu nakitler ikinci fıkradaki amaçlar için merkez işletme müdürlüğünce değerlendirilir.
+(4) (Ek: 10/10/2011-KHK-657/4 md.) İşletmelerin faaliyet alanları, gelirleri, giderleri, merkeze aktarılacak tutarların harcanması ve denetimi ile ilgili hususlar Maliye Bakanlığının uygun görüşü üzerine Bakanlıkça çıkarılacak yönetmelikle düzenlenir.

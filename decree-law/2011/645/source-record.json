@@ -1,0 +1,97 @@
+{
+  "source_id": "24.5.645",
+  "path": "decree-law/2011/645",
+  "number": "645",
+  "tertip": "5",
+  "title": "ORMAN VE SU İŞLERİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2011-06-29",
+  "enacted_as_printed": "29.06.2011",
+  "published": "2011-07-04",
+  "gazette": "27984",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2013-12-04",
+      "Anayasa Mahkemesi’nin 20/9/2012 tarihli ve E.: 2011/101, K.: 2012/127 sayılı Kararı | 29 | 4/12/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-10-10",
+      "Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı | Geçici Madde 3 | 10/10/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-08-02",
+      "6495 | 10 | 2/8/2013",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2013-07-12",
+      "(Değişik: 12/7/2013-6495/73 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2012-01-14",
+      "KHK/666 | Geçici Madde 3 | 14/1/2012 tarihinden itibaren geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/666 | Geçici Madde 3 | 14/1/2012 tarihinden itibaren geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/657 | 6, 9, 13/A, 22, Geçici Madde 2, Geçici Madde 3, Geçici Madde 6, (I) Sayılı Cetvel | 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-10-11",
+      "(Mülga: 11/10/2011-KHK-666/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-10",
+      "(Ek: 10/10/2011-KHK-657/5 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-10",
+      "(Ek: 10/10/2011-KHK-657/4 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2011-10-10",
+      "(Ek: 10/10/2011-KHK-657/ 3 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesiyle yürürlükten kaldırılmıştır.",
+    "Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler",
+    "(Mülga: 11/10/2011-KHK-666/1 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=645&MevzuatTertip=5",
+  "source_sha256": "6ef199e186fac7a46b2c2cc60ef151cd546b36109a566bc7ebe9bed5a6a5a95a",
+  "source_bytes": 494673,
+  "words": 5441,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

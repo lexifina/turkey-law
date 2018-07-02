@@ -1,0 +1,6 @@
+Basın ve Halkla İlişkiler Müşavirliği
+MADDE 17 – (1) Basın ve Halkla İlişkiler Müşavirliğinin görevleri şunlardır:
+a) Bakanlığın basın ve halkla ilişkilerle ilgili faaliyetlerini planlamak ve bu faaliyetlerin belirlenecek usul ve ilkelere göre yürütülmesini sağlamak.
+b) 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununa göre yapılacak bilgi edinme başvurularını etkin, süratli ve doğru bir şekilde sonuçlandırmak üzere gerekli tedbirleri almak.
+c) Bakan tarafından verilen benzeri görevleri yapmak.
+1183

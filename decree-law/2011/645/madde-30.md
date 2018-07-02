@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Çeşitli Hükümler
+Atıflar, değiştirilen ve yürürlükten kaldırılan hükümler
+MADDE 30 – (1) Mevzuatta bu Kanun Hükmünde Kararname ile Orman ve Su İşleri Bakanlığına devredilen birimlerle ilgili görevler nedeniyle Çevre ve Orman Bakanlığına yapılmış olan atıflar Orman ve Su İşleri Bakanlığına, Çevre ve Orman Bakanına yapılmış olan atıflar Orman ve Su İşleri Bakanına yapılmış sayılır.
+(2) (31/10/1985 tarihli ve 3234 sayılı Orman Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ile ilgili olup yerine işlenmiştir.)
+(3) 190 sayılı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Çevre ve Orman Bakanlığına ait bölümleri yürürlükten kaldırılmış, ekli (1) sayılı listede yer alan kadrolar ihdas edilerek anılan Kanun Hükmünde Kararnamenin eki (I) sayılı cetvele Orman ve Su İşleri Bakanlığı bölümü olarak eklenmiş, ekli (3) sayılı listede yer alan kadrolar ihdas edilerek anılan Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Orman Genel Müdürlüğü bölümüne eklenmiş, ekli (2) sayılı listede yer alan kadrolar iptal edilerek anılan Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Orman Genel Müdürlüğü bölümünden çıkarılmıştır.(1)

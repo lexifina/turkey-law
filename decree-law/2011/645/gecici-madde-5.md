@@ -1,0 +1,2 @@
+Mevcut işlerin yürütülmesi
+GEÇİCİ MADDE 5 – (1) Bu Kanun Hükmünde Kararname ile kurulan Orman ve Su İşleri Bakanlığı teşkilatlanıncaya kadar, Bakanlığın merkez ve taşra teşkilatında değişen veya yeni kurulan birimlere verilen görevler ve hizmetler, Çevre ve Orman Bakanlığından Çevre ve Şehircilik Bakanlığı ile Orman Genel Müdürlüğüne devredilen birimler hariç olmak üzere Çevre ve Orman Bakanlığının merkez, taşra ve döner sermaye teşkilatı tarafından mevcut personel eliyle yürütülmeye devam olunur.

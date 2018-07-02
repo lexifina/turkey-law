@@ -1,0 +1,5 @@
+Naklen atama
+GEÇİCİ MADDE 6 - (Ek : 10/10/2011-KHK-657/7 md.)
+(1) Bakanlık, oluşturulacak Komisyon marifetiyle, merkez ve taşra teşkilatı ile bağlı ve ilgili kuruluşları arasında ihtiyaç fazlası olarak tespit edilen personeli, bu maddenin yürürlüğe girdiği tarihten itibaren sekiz ay içinde kadroları ile birlikte naklen atayabilir. Bu şekilde naklen ataması yapılan personelin yerine aynı unvan ve sayıda, 31/12/2012 tarihine kadar atama yapılamaz.
+(2) Nakledilen personele ilişkin kadrolar, kurumun 190 sayılı Kanun Hükmünde Kararnamenin eki cetvellerin ilgili bölümünden çıkarılmış ve nakledildiği kuruma ait aynı Kanun Hükmünde Kararnamenin ilgili bölümüne eklenmiş sayılır. Nakil suretiyle yapılacak atamalar, merkezi yönetim bütçe kanununda belirlenen atama sınırlamalarına tabi değildir. Nakledilen personel sayısı, merkezi yönetim bütçe kanununda öngörülen doğrudan atama yapılabilecek sayının hesabında dikkate alınmaz.
+(3) İhtiyaç fazlası personelin tespiti, komisyonun oluşumu, çalışma usul ve esasları ile buna ilişkin diğer hususlar Bakanlıkça belirlenir.
