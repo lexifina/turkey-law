@@ -1,0 +1,2 @@
+Madde 1 – Bu Kanun Hükmünde Kararnamenin amacı, ilgili makamlar ve kamuoyuna zamanında ve doğru, tanıtıcı, aydınlatıcı bilgi akışını sağlamak ve tanıtma, aydınlatma faaliyetlerine katılmak için Başbakan'a bağlı Basın-Yayın ve Enformasyon Genel Müdürlüğünün kurulmasına, teşkilat ve görevlerine dair esasları düzenlemektir.
+Başbakan bu teşkilatın yönetimi ile ilgili yetkilerini gerekli gördüğü hallerde Başbakan Yardımcısı vasıtasıyla kullanabilir.(1)

@@ -1,0 +1,1 @@
+Geçici Madde 4 – Genel Müdürlük merkez, taşra ve yurtdışı teşkilatı bu Kanun Hükmünde Kararname'de belirlenen esaslara göre yeniden düzenleninceye kadar görev ve hizmetler Basın- Yayın ve Enformasyon Genel Müdürlüğü'ne devrolunan teşkilat tarafından yürütülür.

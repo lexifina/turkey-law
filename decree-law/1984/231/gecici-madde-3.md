@@ -1,0 +1,1 @@
+Geçici Madde 3 – Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten önce, Basın-Yayın Genel Müdürlüğü ile Tanıtma Müsteşarlığında istihdam edilen kamu kurum ve kuruluş personeli ilgili oldukları kuruluşlara en geç bir yıl içerisinde iade edilir.

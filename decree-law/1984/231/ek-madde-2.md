@@ -1,0 +1,4 @@
+Geçici görevlendirme ve çalışma grupları:
+Ek Madde 2 – (Ek: 22/8/2011 – KHK – 651/28. md)
+8/6/1984 tarihli ve 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinde sayılan kamu kurum ve kuruluşlarında çalışanlar kurumlarının muvafakatiyle aylık, ödenek, her türlü zam ve tazminatlar ile diğer mali ve sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla geçici olarak Genel Müdürlükte görevlendirilebilir. Bu şekilde görevlendirilen personelin Genel Müdürlükte geçen hizmet süreleri mesleki kıdemlerinden sayılır. Bunların terfileri başkaca bir işleme gerek kalmaksızın kurumlarınca yapılır.
+Genel Müdürlük, görev alanına giren konularla ilgili olarak çalışmalarda bulunmak üzere diğer bakanlıklar, kamu kurum ve kuruluşları, meslek odaları, sivil toplum kuruluşları, özel sektör temsilcileri ve konu ile ilgili uzmanların katılımı ile çalışma grupları oluşturabilir.

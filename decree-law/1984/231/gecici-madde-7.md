@@ -1,0 +1,1 @@
+Geçici Madde 7 – Basın-Yayın Genel Müdürlüğü ile Tanıtma Müsteşarlığının 1984 Yılı bütçeleri, her türlü araç gereçleri ile hak ve mükellefiyetleri başka bir işleme gerek kalmaksızın Basın-Yayın ve Enformasyon Genel Müdürlüğüne devredilmiştir.

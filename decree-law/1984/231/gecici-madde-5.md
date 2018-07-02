@@ -1,0 +1,1 @@
+Geçici Madde 5 – Bu Kanun Hükmünde Kararnameye göre yeniden düzenleme yapılıncaya kadar Genel Müdürlük merkez teşkilatında değişen veye yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam edilir.

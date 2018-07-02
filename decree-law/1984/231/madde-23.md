@@ -1,0 +1,7 @@
+Atama:
+Madde 23 – 23/4/1981 tarihli ve 2451 sayılı Kanun Hükümleri dışında kalan memurların atamaları Başbakan tarafından yapılır.
+Başbakan gerektiğinde, bu yetkisini Genel Müdür'e devredebilir.
+(Ek fıkralar: 6/8/1988 - KHK 340/9.md.)
+(Değişik üçüncü fıkra: 22/8/2011 – KHK – 651/26. md) Yurtdışı teşkilatı kadrolarına yapılacak atamalara ilişkin usul ve esaslar Genel Müdürlükçe hazırlanan yönetmelikle belirlenir. Yurtdışı teşkilatına atanacak personel, Genel Müdürün başkanlığında, Genel Müdür Yardımcıları ile Genel Müdürün görevlendireceği bir Daire Başkanı ve İnsan Kaynakları Dairesi Başkanından oluşan Yurt Dışı Sürekli Görev Personel Seçim Komisyonunca yönetmelikte belirtilen usul ve esaslara uygun olarak seçilir. Yurtdışı teşkilatı kadrolarına gerektiğinde 657 sayılı Devlet Memurları Kanununun 59 uncu maddesine göre atama yapılabilir. Ancak bu şekilde atanmış olmak, kamu kurum ve kuruluşlarında herhangi bir pozisyon, kadro veya statüde çalışma açısından kazanılmış hak teşkil etmez.
+Yurtdışı görev süresi, ilk defa sürekli görevle yurtdışına atanacaklar için 5 yıl, daha önce sürekli görevle yurtdışında bulunmuş olanlar için 4 yıldır. Hizmetine ihtiyaç duyulanlar ile hizmette başarılı olmadıklarına kanaat getirilenler bu süreden önce geri alınabilirler.
+Yurtdışı sürekli görevden dönenlerin yeniden yurtdışına atanabilmeleri için, ilgili mevzuattaki genel şartlara ilaveten, yurtiçinde en az 3 yıl hizmet etmiş olmaları gerekir.

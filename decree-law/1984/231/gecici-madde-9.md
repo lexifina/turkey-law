@@ -1,0 +1,3 @@
+Basın ve Enformasyon Uzmanlığına atanma
+Geçici Madde 9 – (Ek: 22/8/2011 – KHK – 651/29. md)
+Mesleğe özel yarışma sınavı ile girmiş ve belirli süreli meslek içi eğitimden sonra özel bir yeterlik sınavı sonunda 657 sayılı Devlet Memurları Kanununun 36 ncı maddesinin “ORTAK HÜKÜMLER” başlıklı bölümünün (A) fıkrasının (11) numaralı bendinde belirtilen kadrolara atanmış olanlar ile en az doktora diplomasına sahip öğretim elemanları, kırk yaşından gün almamış olmak ve Basın ve Enformasyon Uzmanı olabilmek için öngörülen yabancı dil şartını taşımak kaydıyla, bu Kanun Hükmünde Kararnamenin yayımı tarihinden itibaren bir yıl içinde Genel Müdürlüğün bağlı olduğu Bakan tarafından Basın ve Enformasyon Uzmanı olarak atanabilir. Bu şekilde atanacakların sayısı otuzu geçemez.

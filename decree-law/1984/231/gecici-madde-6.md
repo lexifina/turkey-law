@@ -1,0 +1,2 @@
+Geçici Madde 6 – Genel Müdürlük, merkez, taşra ve yurtdışı teşkilatını ve kadrolarını en geç altı ay içinde bu Kanun Hükmünde Kararnameye uygun hale getirir. Bu süre içinde Genel Müdürlük kadrolarını, bu Kanun Hükmünde Kararname ile öngörülen teşkilat yapısına uygun hale getirmek üzere, Devlet Personel Başkanlığı ile Maliye ve Gümrük Bakanlığı'nın görüşleri de alınarak kadro ihdas ve iptal etmeye, mevcut kadrolarda sınıf, unvan ve derece değişikliği yapmaya Bakanlar Kurulu yetkilidir.
+294-1
