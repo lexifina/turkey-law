@@ -1,0 +1,2 @@
+Madde 5 – (21/6/1927 tarih ve 1117 sayılı Kanunun hükmüdür.)
+Bir mecmua veya mevkut risaleye bu mahiyette olduğuna heyetçe karar verilen bir makale dercedildiği takdirde ilk defasında mecmua veya mevkut risalenin müdür ve sahibine Maarif Vekaletinden ihtaratta bulunulur. İkinci defa olarak yine böyle bir yazı derceden mecmua veya risale altı ay için dördüncü maddedeki tahdidata tabi tutulmak üzere listeye ithal edilir.

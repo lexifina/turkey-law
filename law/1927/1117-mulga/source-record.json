@@ -1,0 +1,68 @@
+{
+  "source_id": "5.3.1117",
+  "path": "law/1927/1117-mulga",
+  "number": "1117",
+  "tertip": "3",
+  "title": "KÜÇÜKLERİ MUZIR NEŞRİYATTAN KORUMA KANUNU´NUN YÜRÜRLÜKTEN KALDIRILMIŞ HÜKÜMLERİ",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "document": "repealed-provisions",
+  "companion_of": "law/1927/1117",
+  "enacted": "1927-06-21",
+  "enacted_as_printed": "21.06.1927",
+  "published": "1927-07-07",
+  "gazette": "627",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"4 – 2/7/2018 tarihli ve 703 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:2 )\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "4 – 2/7/2018 tarihli ve 703 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:2 )",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2014-02-06",
+      "(Ek: 6/2/2014 - 6518/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2004-07-14",
+      "3 – 14/7/2004 tarihli ve 5218 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:2 )",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2004-07-14",
+      "(Mülga: 14/7/2004 – 5218/2 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "1988-05-11",
+      "2 – 11/5/1988 tarih ve 3445 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 4, 7, 9, Ek 1–2)",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1986-03-06",
+      "1 – 6/3/1986 tarih ve 3266 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 5, 7, 8, 12)",
+      "a repeal note (enactment date of the repealing act)"
+    ]
+  ],
+  "repeal_notes": [
+    "1 – 6/3/1986 tarih ve 3266 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 1, 2, 3, 4, 5, 7, 8, 12)",
+    "2 – 11/5/1988 tarih ve 3445 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 4, 7, 9, Ek 1–2)",
+    "3 – 14/7/2004 tarihli ve 5218 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:2 )",
+    "4 – 2/7/2018 tarihli ve 703 sayılı KHK ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numarası:2 )",
+    "(Mülga: 14/7/2004 – 5218/2 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=1117&MevzuatTertip=3",
+  "source_sha256": "1a1c3a1867d7bdbcdafa9e244c13c49affa35a177df19577d20d8bf812704887",
+  "source_bytes": 32987,
+  "words": 1413,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

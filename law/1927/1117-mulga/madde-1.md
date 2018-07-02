@@ -1,0 +1,2 @@
+Madde 1 – (21/6/1927 tarih ve 1117 sayılı Kanunun hükmüdür.)
+Türk Ceza Kanununun 426, 427 ve 428 inci maddelerinde zikredilen müstehcen ve hayasızca neşriyat haricinde olup on sekiz yaşına kadar küçüklerin maneviyatı üzerine muzır tesir ika edeceği anlaşılan kitap, mecmua ve mevkut risaleler, resim ve levhalar aşağıdaki maddelerde gösterilen esaslar dairesinde tahdidata tabi tutulur. Ecnebi memleketlerinden ithal edilen bu kabil mecmualar ve eserler de bu kanunun ahkamına tabidir. Yalnız bunlar için üçüncü maddedeki mecburiyet yoktur.
