@@ -1,0 +1,4 @@
+Madde 191 – (19/3/1969 tarihli ve 1136 sayılı Kanunun hükmüdür.)
+506 sayılı Sosyal Sigortalar Kanununun 86 ncı maddesi gereğince barolarla Sosyal Sigortalar Kurumu arasında yapılacak sözleşmelere esas teşkil eden tip sözleşme, Çalışma Bakanlığı, Türkiye Barolar Birliği ve Sosyal Sigortalar Kurumu arasında yapılacak görüşmelerle tespit edilir.
+Tip sözleşmede yapılacak değişiklikte de yukarıdaki fıkra hükmü uygulanır.
+Bu kanunun yürürlüğe girmesinden sonra kurulacak olan barolar da kuruluşlarını takip eden bir ay içinde tip sözleşmeye göre Topluluk Sigortası sözleşmesi yapmak üzere Sosyal Sigortalar Kurumuna başvururlar. Yeni teşekkül eden baroya kayıtlı avukatlar, evvelce kayıtlı oldukları baroda iken girdikleri Topluluk Sigortası ile kazandıkları haklar saklı kalmak üzere, yeni kaydoldukları baronun topluluk sigortasına girerler.

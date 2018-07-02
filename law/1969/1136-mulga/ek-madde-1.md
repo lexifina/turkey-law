@@ -1,0 +1,1 @@
+Ek Madde 1 – Avukatlık Kanunu gereğince topluluk sigortasına girmiş olan ve primlerini zamanında ödemek suretiyle sigortalılığı devam eden bir avukat T.C. Emekli Sandığına tabi bir memuriyete atandığında, sigortalılığına esas alınan avukatlık süresinin üçte ikisi memuriyet kıdemine sayılır.

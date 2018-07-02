@@ -1,0 +1,1 @@
+Madde 17 – fıkra üç - (22/1/1986 tarihli ve 3256 sayılı Kanunun hükmüdür.) Staj isteminde bulunan tarafından verilen bildiri kağıdının hilafı ortaya çıktığı takdirde; aday hakkında Türk Ceza Kanununun 528 inci maddesine göre ceza tayin olunur.

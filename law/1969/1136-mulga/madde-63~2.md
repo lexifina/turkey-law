@@ -1,0 +1,1 @@
+Madde 63 - fıkra üç - (22/1/1986 tarihli ve 3256 sayılı Kanunun hükmüdür.) Avukatlık yapmak yetkisini taşımadıkları halde muvazalı yoldan alacak devralarak ve kanunların tanıdığı başka hakları kötüye kullanarak avukatlara ait yetkileri kullananlar bir yıldan üç yıla kadar hapis ve beş yüzbin liradan beşmilyon liraya kadar ağır para cezasiyle cezalandırılırlar.

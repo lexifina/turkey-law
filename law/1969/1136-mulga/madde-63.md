@@ -1,0 +1,1 @@
+Madde 63 - fıkra iki - (22/1/1986 tarihli ve 3256 sayılı Kanunun hükmüdür.) Birinci fıkra hükmüne aykırı eylemde bulunanlar yüzbin liradan birmilyon liraya kadar ağır para cezasına ve altı aydan bir yıla kadar hapis cezasına mahkum edilirler.

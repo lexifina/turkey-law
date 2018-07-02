@@ -1,0 +1,7 @@
+Madde 77 – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+Bölgesi içinde en az onbeş avukat bulunan her il merkezinde bir baro kurulur. Baro kurulamıyan yerlerin en yakın baroya bağlanmasına veya bunların birleştirilerek bir baro kurulmasına ve merkezlerinin belirtilmesine Türkiye Barolar Birliği karar verir. Barolar, kuruluşlarını Türkiye Barolar Birliğine bildirirler.
+Türkiye Barolar Birliği de keyfiyeti derhal Adalet Bakanlığına bildirir ve barolar bu bildirme ile tüzel kişilik kazanırlar.
+Adalet Bakanlığının bu kanun uyarınca baro organlarının işlemleri hakkında onay mercii olarak verdiği kararları, görevli baro organları aynen yerine getirmekle yükümlüdür. Bakanlık kararı aleyhine süresi içinde Danıştay'a baş vurulmamış olmasına rağmen bu kararın baronun görevli organınca, kanuni bir sebep bulun– maksızın yerine getirilmemesi veya eski kararda direnme niteliğinde yeni bir karar verilmesi halinde, Bakanlık,o baro organının feshine karar verilmesi için keyfiyeti Danıştay'a bildirir. Danıştay, bildirme tarihinden itibaren en geç üç ay içinde karar verir. Feshi istenen organ üyelerinin bu kanunun 62 nci maddesinde yazılı cezai sorumlulukları saklıdır.
+Danıştay'ın fesih kararı vermesi halinde, feshedilen organın yerine en geçbir ay içinde yenisi seçilir. Yeni seçilen üyeler eskilerin süresini tamamlarlar.
+Feshedilen organın Adalet Bakanlığının kararına aykırı olarak yaptığı tasarruflar hükümsüzdür.
+Fesih hükümleri baro genel kurulu hakkında uygulanmaz.

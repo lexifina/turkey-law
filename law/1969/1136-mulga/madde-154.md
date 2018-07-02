@@ -1,0 +1,2 @@
+Madde 154 – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+Haklarında meslekten çıkarma cezası verilen veya tutuklama müzekkeresi çıkarılan yahut rüşvet, sahtecilik, hırsızlık, dolandırıcılık, inancı kötüye kullanma ve yalan yere tanıklık cürümlerinden biri ile haklarında son soruşturmanın açılması kararı verilen ve 42 nci madde uyarınca geçici olarak görevlendirilmiş olup, yapılan işlerin ücretini iş sahibinden aldığı halde aynı maddenin son fıkrası gereğince kabule değer bir sebep olmaksızın ilgili mercie ödememiş olan avukatların işten yasaklanmaları zorunludur.

@@ -1,0 +1,1 @@
+Geçici Madde 25 – Bu maddenin yürürlüğe girdiği tarihte bu kanunun kapsamındaki bir memuriyette bulunanların, memuriyetten önce T. C. Emekli Sandığı Kanununa tabi olmadan ve Sosyal Sigortalar Kurumu kapsamına da girmeden avukatlıktageçirdikleri fiili hizmet sürelerinin üçte ikisi memuriyet kıdemlerine sayılır.

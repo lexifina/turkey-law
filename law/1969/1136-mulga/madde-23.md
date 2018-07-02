@@ -1,0 +1,8 @@
+Madde 23 – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+(Değişik birinci fıkra: 22/1/1986 - 3256/6 md.) Staj kesintisiz olarak yapılır. Stajyerin askerlik görevi ile kendisinin veya bakmaya mecbur olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek ana, baba, eş ve çocukları ile kardeşlerinden birinin ağır bir kaza geçirmesi veya önemli bir hastalığa tutulmuş olması gibi elinde olmayan haklı sebeplere dayalı engeller sonucu staja devam edememesi halinde ve bu hallerin belgelendirilmesi şartıyla, engelin ortadan kalkmasından sonraki bir ay içinde başvurduğu takdirde devam edemediği günler; mahkeme stajı sırasında, Adalet Komisyonu, avukat yanındaki stajı sırasında ise baro yönetim kurulu kararı ile tamamlattırılır. Stajın yapıldığı yere göre Adalet Komisyonu başkanı ve baro başkanı, haklı engeller halinde stajyerlere otuz günden fazla olmamak üzere izin verebilir.
+——————————
+(1) Bu fıkrada geçen «Danıştaya» ibaresi, 22/1/1986 tarih ve 3256 sayılı Kanunun 28 inci maddesi ile «İdari Yargı Merciine» şeklinde değiştirilmiş ve metne işlenmiştir.
+(2) Bu fıkrada geçen «Danıştaya» ibaresi, 22/1/1986 tarih ve 3256 sayılı Kanunun 28 inci maddesi ile «İdari Yargı Merciine» şeklinde değiştirilmiş ve metne işlenmiştir.
+1056-3
+Stajyer, staj süresi içinde duruşmalara avukatla birlikte girmek, staj konferanslarına devam etmek, baro yönetim kurulu ve yanında çalıştığı avukat tarafından verilen işleri yapmak, dava evrakını düzenlemek ve yönetmelikte gösterilecek diğer ödevleri yerine getirmekle yükümlüdür.
+(Ek: 22/1/1986 - 3256/6 md.) Hakimlik stajında geçen süreler, avukatlık stajında nazara alınmaz.

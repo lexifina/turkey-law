@@ -1,0 +1,1 @@
+Madde 56 – fıkra üç – (19/3/1969 tarihli ve 1136 sayılı Kanunun hükmüdür.)Aslı olmayan vekaletname veya diğer kağıt ve belgelerin örneğini onaylıyan yahut aslına aykırı örnek veren avukat üç yıldan altı yıla kadar ağır hapis cezası ile cezalandırılır.

@@ -1,0 +1,2 @@
+Madde 189 – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+Türkiye Cumhuriyeti Emekli Sandığından emeklilik veya malullük (Adi malullük veya vazife yahut harb malullüğü) aylığı almakta olanlarla, 506 sayılı Sosyal Sigortalar Kanununa göre malullük ve yaşlılık sigortasından faydalanmış bulunanlar ve aynı kanunun geçici 20 nci maddesindeki şartlara uygun olarak faaliyettebulunan sandıklara tabi personelin 186 ncı madde uyarınca Topluluk Sigortasına girmeleri isteklerine bağlıdır.

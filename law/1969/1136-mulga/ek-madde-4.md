@@ -1,0 +1,1 @@
+Ek Madde 4 – Avukatlık Kanunu gereğince topluluk sigortasına girmiş olan ve primlerini zamanında ödemek suretiyle sigortalılığı devam eden bir avukatın, bukanunun 3 üncü maddesinin (c) bendinde nitelikleri gösterilenler arasından Anayasa Mahkemesi üyeliğine seçilmesi halinde, sigortalılığa esas alınan avukatlık süresinin üçte ikisi memuriyet kıdemine sayılır.

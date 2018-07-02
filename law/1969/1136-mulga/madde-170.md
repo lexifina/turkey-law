@@ -1,0 +1,25 @@
+Madde 170 – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+Danıştay, vergi itiraz ve temyiz komisyonları gibi mercilerde görülen dava ve işlerde de bu merciler, tarifede yazılı avukatlık ücretlerine hükmederler.
+1056
+12 – 28/5/1988 tarih ve 3464 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri: (Madde numaraları: 86, Ek–3)
+Madde 86 fıkra bir – (8/5/1984 tarih ve 3003 sayılı Kanunun hükmüdür.)
+Baro levhasında yazılı her avukat gerek olağan gerekse olağanüstü genel kurul toplantılarına katılmak ve oy kullanmakla yükümlüdür. Haklı bir engele dayanmış olmadıkça bu toplantılara gelmeyen veya oy kullanmayanlara Baro başkanı tarafından 1 500 liradan 7 500 liraya kadar para cezası verilir.
+Ek Madde 3 fıkra onbir – (8/5/1984 tarih ve 3003 sayılı Kanunun hükmüdür.)
+Oy verme işlemi, gizli oy açık tasnif esasına göre yapılır. Listede adı yazılı bulunmayan avukat oy kullanamaz. Oylar, oy verenin kimliğinin baro veya resmi kuruluşca verilen belge ile ispat edilmesinden ve listedeki isminin karşısındaki yerin imzalanmasından sonra kullanılır. Oylar, üzerinde ilçe seçim kurulunun mühürü bulunan ve oy verme sırasında sandık kurulu başkanı tarafından her seçim için ayrı ayrı verilecek kağıtlara yazılmak ve mühürlü zarflara konulmak sureti ile kullanılır. Asıl üyenin mazereti olduğu takdirde yedek üye Türkiye Barolar Birliği Genel Kuruluna katılır ve oy kullanır.
+13 – 18/6/1997 tarih ve 4276 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 76, 77, 111.)
+Madde 76 fıkra iki – (8/5/1984 tarih ve 3003 sayılı Kanunun hükmüdür.)
+Barolar, kuruluş amaçları ve Kanunda belirtilenler dışında hiçbir faaliyet gösteremezler; kendilerine kanunla verilen görevlerin yerine getirilmesiyle ilgili olmayan toplantı ve gösteri yürüyüşü düzenleyemezler; siyasetle uğraşamazlar; siyasi partiler, sendikalar ve derneklerle ortak hareket edemezler; siyasipartilere maddi yardım yapamazlar; onlarla siyasi ilişki ve işbirliği içinde bulunamazlar; milletvekili ve mahalli idarelerin seçimlerinde belli adayları destekleyemezler.
+Madde 77 fıkra beş, dokuz, on – (8/5/1984 tarih ve 3003 sayılı Kanunun hükmüdür.)
+Bu Kanunun 76 ncı maddesinin ikinci fıkrasında belirtilen yasaklamalara uymayan baro sorumlu organlarının görevlerine son verilmesine ve yerlerine yenilerinin seçilmesine Adalet Bakanlığının isteği uyarınca bulundukları İl Cumhuriyet Savcılığının açacağı dava üzerine o yerdeki Asliye Hukuk Mahkemesince karar verilir. Yargılama basit usule göre yapılır ve en geç üç ay içinde sonuçlandırılır.
+Türk Devletinin varlık ve bağımsızlığının ülkenin ve milletin bölünmez bütünlüğünün, toplumun huzurunun korunması ve Devletin Anayasada belirtilen temelniteliklerini tehdit edici faaliyetlerin önlenmesi bakımından gecikmesinde sakınca bulunan hallerde valiler, seçilmiş baro organlarını geçici olarak görevden uzaklaştırabilirler.
+Görevden uzaklaştırma kararı, dayanaklarıyla birlikte üç gün içinde beşincifıkrada sözü edilen mahkemeye bildirilir. Mahkeme, görevden uzaklaştırma kararının yerinde olup olmadığını dosya üzerinde inceleyerek bu konudaki kesin kararını en geç on gün içinde verir. Görevden uzaklaştırmanın yerinde olduğuna mahkemece karar verilmesi halinde altıncı fıkra hükümleri uygulanır.
+Madde 111 fıkra bir, dört – (8/5/1984 tarih ve 3003 sayılı Kanunun hükmüdür.)
+Türkiye Barolar Birliği, kuruluş amaçları ve kanunda belirtilenler dışında herhangi bir faaliyet gösteremez; kendisine kanunla verilen görevlerin yerine getirilmesiyle ilgili olmayan toplantı ve gösteri yürüyüşü düzenleyemez; siyasetle uğraşamaz; siyasi partiler, sendikalar ve derneklerle ortak hareket edemez, siyasi partilere maddi yardım yapamaz, onlarla siyasi ilişki ve işbirliği içinde bulunamaz, milletvekili ve mahalli idarelerin seçimlerinde belli adayları destekleyemez.
+77 nci maddenin 5, 6, 7, 8 ve 9 uncu fıkraları hükümleri Birlik organları hakkında da uygulanır.
+1056-1
+14 – 2/5/2001 tarihli ve 4667 sayılı Kanun ile yürürlükten kaldırılmış veya değiştirilmiş olan hükümlerin metinleri. (Madde numaraları: 1, 4, 5, 6, 8, 9, 12, 14, 16, 20, 23, 25, 26, 27, 34, 37, 38, 40, 42, 44, 45, 46, 58, 61, 65, 71, 72, 74, 75, 76, 77, 78, 81, 84, 86, 87, 94, 95, 96, 105, 109, 111, 114, 117, 121, 134, 135, 138, 142, 144, 157, 158, 163, 164, 165, 167, 168, 169, 171, 176, 177, 178, 179, 180, 181, 182, 185, Ek Madde 2, Ek Madde 3, Geçici Madde 13.)
+Madde 1 fıkra iki – (19/3/1969 tarih ve 1136 sayılı Kanunun hükmüdür.)
+Avukat, görevini yerine getirmede bağımsızdır.
+Madde 2 fıkra bir ve üç – (19/3/1969 tarih ve 1136 sayılı Kanun hükümleridir.)
+Avukatlığın amacı, hukuki münasebetlerin düzenlenmesine, her türlü hukuki mesele ve anlaşmazlıkların adalet ve hakkaniyete uygun olarak çözümlenmesine ve genellikle hukuk kurallarının tam olarak uygulanması hususunda yargı oranları ve hakemlerle resmi ve özel kurul ve kurumlara yardım etmektir.
+Adli merciler ve diğer resmi daireler, avukatlara görevlerinin yerine getirilmesinde yardımcı olmakla yükümlüdürler.
