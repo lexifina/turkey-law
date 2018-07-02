@@ -1,0 +1,1 @@
+Madde 1 – Bu Kanun Hükmünde Kararnamenin amacı; kamu kurum ve kuruluşlarının yurtdışı teşkilatının kurulmasına, görevlerine, yetkilerine, idaresine ve merkezle olan ilişkilerine ait esasları düzenlemektir.

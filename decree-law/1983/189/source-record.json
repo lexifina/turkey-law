@@ -1,0 +1,52 @@
+{
+  "source_id": "24.5.189",
+  "path": "decree-law/1983/189",
+  "number": "189",
+  "tertip": "5",
+  "title": "KAMU KURUM VE KURULUŞLARININ YURTDIŞI TEŞKİLATI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1983-12-13",
+  "enacted_as_printed": "13.12.1983",
+  "published": "1983-12-14",
+  "gazette": "18251",
+  "in_force": "2018-07-02",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 58 inci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 58 inci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "1988-02-29",
+      "KHK/311 — 29/2/1988",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "1988-01-14",
+      "(Değişik:14/1/1988 - KHK - 311/11 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 58 inci maddesiyle yürürlükten kaldırılmıştır.",
+    "Yürürlükten kaldırılan ve saklı tutulan hükümler:",
+    "Yukarıda saklı tutulan hükümler hariç 1173 sayılı Kanunun ve ilgili diğer kanunların bu Kanun Hükmünde Kararnameye aykırı olan hükümleri yürürlükten kaldırılmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=189&MevzuatTertip=5",
+  "source_sha256": "d488fc5279a2461373afb234542f70d6642fd70b382a38423f5868565b24a66c",
+  "source_bytes": 50977,
+  "words": 1618,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
