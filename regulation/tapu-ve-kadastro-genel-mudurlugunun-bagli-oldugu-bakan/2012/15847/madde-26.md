@@ -1,0 +1,2 @@
+Devir ve teslim işleri
+MADDE 26 – (1) Muhasebe Yetkilisi, veznedar, taşınır kayıt ve kontrol yetkilisi gibi para ve mal işleriyle görevli memurlar arasındaki devir teslim işlemlerinde 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği ile 12/11/1974 tarihli ve 7/9044 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarının Çekilmelerinde Devir ve Teslim Süreleri Hakkında Yönetmelik hükümleri uygulanır.
