@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/952",
+  "list_number": "952",
+  "decision_date": "2018-07-04",
+  "title": "24 Haziran 2018 Pazar günü yapılan Cumhurbaşkanı Seçimi kesin sonuçlarının tespitine ilişkin Yüksek Seçim Kurulunun 2018/952 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77779/2018-952.pdf",
+  "source_sha256": "823a527e72f6015487ceba85b9fba9982f502e30dc2d4114f591f7adec4a7131",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 6,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-07-04",
+  "law_text_complete": false
+}
