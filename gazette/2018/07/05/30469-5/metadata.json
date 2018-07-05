@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-07-05",
+  "issue": "30469",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İşkolu Tespit Kararı (No: 2018/39)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/07/20180705-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/07/20180705.htm",
+  "index_sha256": "105f429c8abe17083a80082f6add491fa54ed1517bb7f806f78aac03bf4547bf",
+  "index_header": "5 Temmuz 2018 ... 30469 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/07/20180705.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "03b9dd754469ae1d7c8768b23735b5c12ddf53e4afb9b53c2ffea3d76c792e77",
+  "text_status": "text.txt as published"
+}
