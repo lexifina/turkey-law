@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44973",
+  "decision_date": "2018-07-06",
+  "source_id": 17273,
+  "chamber": "6",
+  "file_number": "43282",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17273/",
+  "source_sha256": "31e923291a749fe52698523f5036d35aa8f8a1ed7163af2cdff830e5ad91e596",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
