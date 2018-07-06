@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44847",
+  "decision_date": "2018-07-06",
+  "source_id": 17371,
+  "chamber": "6",
+  "file_number": "43100",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17371/",
+  "source_sha256": "53f0576a32492555bebcd08ba0efdca57aacc354f4378b0e1842bd50208ffaf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
