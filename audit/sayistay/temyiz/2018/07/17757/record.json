@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44823",
+  "decision_date": "2018-07-06",
+  "source_id": 17757,
+  "chamber": "5",
+  "file_number": "42510",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17757/",
+  "source_sha256": "3ba4ce3681deb686f08ff548f6e7e225aa828531f0751df3935dd1040811f9e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
