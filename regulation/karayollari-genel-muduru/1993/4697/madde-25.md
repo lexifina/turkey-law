@@ -1,0 +1,2 @@
+Müfettiş Yardımcılığı Giriş Sınavı Adaylık Belgesi :
+Madde 25 – Müfettiş Yardımcılığı giriş sınavına katılacaklara Teftiş Kurulu Başkanlığınca fotoğraflı “Adaylık Belgesi” verilir. Posta ile başvuruda bulunanlardan sınava katılabileceklere adaylık belgesi posta ile gönderilir. Sınavlara, bu belgenin gösterilmesi suretiyle girilir. Adaylık belgesinin kendilerine ulaşmaması yada kaybedilmesi durumunda adaylar kimliklerini ibraz ederek sınava girebilirler.

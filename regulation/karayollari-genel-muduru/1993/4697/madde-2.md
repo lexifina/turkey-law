@@ -1,0 +1,3 @@
+Kapsam :
+Madde 2 – Bu yönetmelik, Karayolları Genel Müdürlüğü Teftiş Kurulunun, teşkilat ve görevleri ile Teftiş Kurulu Başkanı, Müfettişler, Müfettiş Yardımcıları ve Teftiş Kurulu Büro Şefliğinin görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile Müfettiş ve Müfettiş Yardımcılarının atanmalarını, özlük haklarını ve Teftiş Kurulu ile Müfettiş ve Müfettiş Yardımcılarının çalışma esas ve usullerini kapsar.
+Merkez veya taşra teşkilatı içindeki herhangi bir birim, yönetmelik, genelge ve benzeri düzenlemelerle yetki alanı dışına çıkartılamaz. Herhangi bir birim mutat ve makul süreler haricinde ve kabul edilebilir bir gerekçe olmaksızın teftiş dışı tutulamaz.

@@ -1,0 +1,1 @@
+Madde 1 – Denetim ve teftişin amacı Karayolları hizmetlerini daha verimli kılmak, ileri teknik ve yönetim usullerinin uygulanmasını sağlamak, çalışanların emek, para savurganlığını ve suç işlemelerini önlemek, uyarmak, aydınlatmak ve yol göstermektir.

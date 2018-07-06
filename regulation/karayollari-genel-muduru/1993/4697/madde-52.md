@@ -1,0 +1,4 @@
+İnceleme ve Soruşturma İsteklerinin Kurula İletilmesi :
+Madde 52 – Vatandaşların doğruca Genel Müdürlük Makamına gönderdikleri ihbar ve şikayet yazılarından soruşturmasına başlangıçta gerek görülmeyenler birimlere gönderilerek incelettirilir. Bu inceleme sonucunda Müfettiş soruşturmasına gerek hasıl olduğu takdirde konular gerekçeli olarak Genel Müdürlük Makamına önerilerek Müfettiş görevlendirilmesi sağlanır.
+Adı-soyadı ve imzası ile iş veya ikâmetgâh adresi bulunmayan, belli bir konuyu ihtiva etmeyen, yargı mercilerinin görevine giren konularla ilgili olan ihbar, şikayet ve müracaat dilekçeleri incelenemez.
+Ancak, bu tarzda yapılan ihbar ve şikayet konulu dilekçelere inandırıcı mahiyette olayla ilgili yeterli bilgi ve belgeler eklenmiş ise bunlar hakkında herhangi bir işlem yapılıp yapılmaması makamın takdirindedir.

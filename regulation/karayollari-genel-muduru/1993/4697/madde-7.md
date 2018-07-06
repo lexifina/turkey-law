@@ -1,0 +1,2 @@
+Teftiş Kurulu Başkanının Atanması :
+Madde 7 – Başkanlığa, Kurulda en az beş yıl Başmüfettişlik yapanlar arasından atama yapılır. En az üç yıl Başmüfettişlik yaptıktan sonra Genel Müdürlük İdari kademelerinde en az beş yıl görev yapanlardan, bu niteliklere uyan eleman bulunmadığı takdirde, en az beş yıl Bölge Müdürlüğü veya Daire Başkanlığı veya en az yedi yıl içinde her iki görevi yapanlar arasından da atama yapılabilir.

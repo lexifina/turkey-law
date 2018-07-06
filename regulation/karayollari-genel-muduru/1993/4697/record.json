@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.4697",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "4697",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/1993/4697",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4697&MevzuatTertip=5",
+  "source_sha256": "b7674994a89911d1147d440c082a6f0be6e25b6aaec8ee5c736da4e178bdab41",
+  "source_bytes": 140939,
+  "published": "1993-08-08",
+  "gazette": "21662",
+  "in_force": "2018-07-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/7/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-07-06",
+      "RG-6/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-04-03",
+      "RG-3/4/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2003-04-03",
+      "RG 03/04/2003",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-08-03",
+      "RG 03/08/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1997-09-05",
+      "RG-5/9/1997",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6623,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
