@@ -1,0 +1,4 @@
+Yeniden değerleme yapılabilecek süre
+MADDE 8 – (1) Yeniden değerleme, uygulamadan yararlanma hakkını haiz mükelleflerin 25/5/2018 tarihi itibarıyla yasal defter kayıtlarında yer alan taşınmazlar ile bunlara ait amortismanlar esas alınmak suretiyle 30/9/2018 tarihine kadar yapılabilecektir.
+(2) Geçici 31 inci madde uygulamasından yararlanılması için, söz konusu tarihe kadar yeniden değerleme işleminin yapılması ve değer artışına ilişkin verginin de yeniden değerleme işleminin yapıldığı tarihi izleyen ayın 25 inci günü akşamına kadar beyan edilip ödenmesi zorunludur.
+(3) Mükellefler tarafından geçici 31 inci madde kapsamında beyanda bulunduktan sonra, anılan madde kapsamında yeniden değerlemeye tabi tutulmak istenen ilave taşınmazlar için ek beyanname verilmesi mümkündür. Bu durumda da, yukarıda belirtilen şartlar aranır.

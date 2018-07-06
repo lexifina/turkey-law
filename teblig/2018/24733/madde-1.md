@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununa, 16/5/2018 tarihli ve 7144 sayılı Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunun 5 inci maddesi ile eklenen geçici 31 inci madde uyarınca, bilanço esasına göre defter tutan tam mükellef gelir veya kurumlar vergisi mükelleflerinin aktiflerinde yer alan taşınmazlarının değerlerinin Yİ-ÜFE değerindeki artış oranı dikkate alınmak suretiyle yeniden hesaplanması uygulamasına ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve kapsamını teşkil etmektedir.

@@ -1,0 +1,4 @@
+Yeniden değerlemeye esas değer
+MADDE 6 – (1) Yeniden değerleme, taşınmazların ve varsa bu taşınmazlara ait amortismanların, 213 sayılı Kanunda yer alan değerleme hükümlerine göre tespit edilen ve bu maddenin yürürlüğe girdiği tarih (25/5/2018) itibarıyla yasal defter kayıtlarında yer alan değerleri üzerinden yapılır.
+(2) Amortismana tabi taşınmazlar için amortismanın herhangi bir yılda eksik ayrılması veya hiç ayrılmamış olması durumunda, yeniden değerlemeye esas alınacak değer bu amortismanlar tam olarak ayrılmış varsayılarak belirlenir.
+(3) 213 sayılı Kanunun 272 nci maddesi uyarınca maliyet bedeline intikal ettirilen giderler ile 163 ve 334 Sıra No.lu Vergi Usul Kanunu Genel Tebliğleri uyarınca maliyet bedeline dâhil edilen kredi faizleri ve kur farkları da yeniden değerleme kapsamına girmektedir.
