@@ -1,0 +1,3 @@
+Bu maddenin uygulanmasına ilişkin usul ve esaslar ile mahsup şeklini ve dönemini belirlemeye Maliye Bakanlığı yetkilidir.”
+Öngörülen teşvik
+MADDE 3 - (1) 4447 sayılı Kanunun Geçici 21 inci maddesiyle, aynı Kanunun Geçici 19 ve 20 nci maddeleri kapsamında işe alınan ve bu maddelerde yazılı şartları taşıyan ücretliler için asgari ücretin prim ödeme gün sayısına isabet eden tutarı üzerinden hesaplanan gelir vergisinin, asgari geçim indirimi uygulandıktan sonra kalan kısmının verilecek muhtasar beyanname/muhtasar ve prim hizmet beyannamesi üzerinden tahakkuk eden vergiden terkin edilmesi suretiyle, gelir vergisi stopaj teşviki sağlanmaktadır.

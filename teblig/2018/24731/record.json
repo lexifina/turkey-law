@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24731",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 304)",
+  "number": "24731",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2018/24731",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24731&MevzuatTertip=5",
+  "source_sha256": "e9a0e35a8a2beea2221917539117f92f10a28c8e9db6e324d4c6611a370b18da",
+  "source_bytes": 62970,
+  "published": "2018-07-06",
+  "gazette": "30470",
+  "in_force": "2018-07-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.07.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3163,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24731-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
