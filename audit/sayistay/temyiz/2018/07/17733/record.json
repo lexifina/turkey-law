@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44799",
+  "decision_date": "2018-07-06",
+  "source_id": 17733,
+  "chamber": "5",
+  "file_number": "42469",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17733/",
+  "source_sha256": "0e0ea7dee8d873bd9e53834014216efd058735006102c9f088cd75cfc5f71d95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
