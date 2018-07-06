@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "44834",
+  "decision_date": "2018-07-06",
+  "source_id": 17768,
+  "chamber": "5",
+  "file_number": "42448",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17768/",
+  "source_sha256": "5aa138a95966fd63e745c025a9ac0d46637df867018d0c6c210e64a299d08e99",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
