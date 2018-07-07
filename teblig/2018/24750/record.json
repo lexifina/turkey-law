@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24750",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MAKEDONYA CUMHURİYETİ MENŞELİ BAZI TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24750",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24750&MevzuatTertip=5",
+  "source_sha256": "72ecc637e2f9a8221ed4362acc8cba299639a5e2024b587bb734541b6723295a",
+  "source_bytes": 36898,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2018-07-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.07.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1930,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24750-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
