@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.24734",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET HAVA MEYDANLARI İŞLETMESİ GENEL MÜDÜRLÜĞÜ STAJYER HAVA TRAFİK KONTROLÖRÜ VE ASİSTAN HAVA TRAFİK KONTROLÖRÜ POZİSYONLARINA ATANACAK ADAYLARIN SEÇME SINAVLARINA DAİR YÖNETMELİK",
+  "number": "24734",
+  "issuer": "Devlet Hava Meydanları İşletmesi Genel Müdürü",
+  "issuer_slug": "devlet-hava-meydanlari-isletmesi-genel-muduru",
+  "path": "regulation/devlet-hava-meydanlari-isletmesi-genel-muduru/2018/24734",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24734&MevzuatTertip=5",
+  "source_sha256": "ba64f70e167aefbf8e73201db7505c3490bf5e06aff5b8264a0d4fc03376d555",
+  "source_bytes": 45211,
+  "published": "2018-07-08",
+  "gazette": "30472",
+  "in_force": "2018-07-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.07.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2271,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
