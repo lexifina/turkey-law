@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bu Kanunun yürürlüğe girdiği tarihte sosyal güvenlik açısından Sosyal Sigortalar Kurumuna tabi olarak çalışan personelin, yürürlük tarihinden itibaren üç ay içerisinde Banka'ya emeklilik açısından Sosyal Sigortalar Kurumuna bağlılıklarının devam etmesi hususunda yazılı başvuruda bulunmaları halinde bu Kurumla olan ilişkileri devam ettirilir.

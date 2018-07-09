@@ -1,0 +1,3 @@
+Geçici Madde 1 – Bu Kanunun yürürlüğe girmesinden önce esas sermayenin 10 000 000 000 000 TL.'den 50 000 000 000 000 TL.'ye artırılması aşamalarında; çıkarılmış, ancak ödenmemiş paylara ilişkin olarak, mevcut ortaklara rüçhan hakkının kullanılması teklif edilir, rüçhan haklarından arta kalan paylar ise iptal edilir. Rüçhan hakkı kullanımında, daha önceki sermayenin tam ve nakden ödenmesi koşulu aranmaz.
+Bu hakkın kullandırılması sonucunda oluşan ödenmiş sermaye, Bankanın çıkarılmış sermayesi olarak tescil ve ilan edilir.
+Bu hakkın kullandırılması, 2499 sayılı Sermaye Piyasası Kanunu ve diğer ilgili mevzuat hükümlerinde öngörülen süreler dikkate alınarak, Kanunun yürürlük tarihinden itibaren doksan gün içinde gerçekleştirilir.

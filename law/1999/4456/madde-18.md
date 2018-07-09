@@ -1,0 +1,3 @@
+Karın dağıtımı
+Madde 18 – Bankanın gayrisafi karından vergi ve diğer yasal yükümlülükler ayrıldıktan sonra dağıtılabilir kardan, Türk Ticaret Kanunu, Bankalar Kanunu ve sair ilgili mevzuat hükümlerine göre birinci temettü dağıtımı gerçekleştirilir.
+Bu şekilde dağıtılacak birinci temettüden sonra kalan karın, Genel Kurulca tespiti yapılacak % 5'e kadar olan kısmı, personelin brüt üç aylık ücreti ile sınırlı olarak Yönetim Kurulunun tespit edeceği esaslar dahilinde dağıtılmak üzere temettü olarak personele ayrıldıktan sonra, kalan kardan Türk Ticaret Kanunu ve Genel Kurulca gerekli görülen diğer ödenek ve yedek akçeler ayrılır ve kalanı Genel Kurulca pay sahiplerine ikinci temettü payı olarak dağıtılır.
