@@ -8,8 +8,8 @@
   "text_label": "last-available-consolidated",
   "enacted": "1988-09-28",
   "published": "1988-10-04",
-  "in_force": "2000-02-06",
-  "in_force_basis": "Source entry-into-force table: 6/2/2000",
+  "in_force": "2018-07-09",
+  "in_force_basis": "Source labelled entry-into-force table row: KHK/700 | 6 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)",
   "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=5&MevzuatNo=3473&MevzuatTertip=5",
   "source_sha256": "02df6a3096c39de62ec51106934d8a5ef2a011099cff011dc9128dee0d7a582e",
   "words": 784,
@@ -17,5 +17,5 @@
   "images_referenced": 0,
   "images_deferred": 0,
   "first_law": null,
-  "history_note": "Earlier versions and as-enacted text are not established by this current HTML source."
+  "history_note": "Earlier versions are not established by this current HTML source."
 }
