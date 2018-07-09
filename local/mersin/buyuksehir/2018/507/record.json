@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "507",
+  "decision_date": "2018-07-09",
+  "title": "MEC. KAR. ( Silifke İlçesi Atik Mahallesi 331",
+  "listed_as": "507 MEC. KAR. ( Silifke İlçesi Atik Mahallesi 331",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/507-mec-kar---silifke-ilcesi-atik-mahallesi-331-ada-212-213-nolu-parseller-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-temmuz-2018-meclis-kararlar",
+  "listing_sha256": "210de34d5df5e3274c2e040cfcbcef6d50630eb75ad05bec7b49012fa92aad7e",
+  "meeting_title": "09 TEMMUZ 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
