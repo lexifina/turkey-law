@@ -1,0 +1,2 @@
+Ek Madde 15 – (Ek: 17/2/2011-6114/18 md.)(3)
+Atatürk Üniversitesi, Cumhuriyet Üniversitesi, Erciyes Üniversitesi, Eskişehir Osmangazi Üniversitesi, Gaziosmanpaşa Üniversitesi, İnönü Üniversitesi, Kafkas Üniversitesi, Kahramanmaraş Sütçü İmam Üniversitesi, Kırıkkale Üniversitesi, Kocaeli Üniversitesi, Ondokuz Mayıs Üniversitesi, Selçuk Üniversitesi ve Uludağ Üniversitesinde kullanılmak üzere ekli (3) sayılı listede yer alan öğretim elemanlarına ait kadrolar ihdas edilerek bu Kanun Hükmünde Kararnameye bağlı cetvellerde, ilgili üniversitelere ait bölümlere eklenmiştir.

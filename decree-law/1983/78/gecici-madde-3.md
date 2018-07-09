@@ -1,0 +1,2 @@
+Şahsa bağlı kadro ihdası:
+Geçici Madde 3 – Orta Doğu Teknik Üniversitesi ile Boğaziçi Üniversitesine ekli (1) sayılı cetvel ile verilen kadroların (sözleşmeliler dahil) bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte bu kurumda mevcut öğretim elemanlarının atanmasına yetmemesi halinde, bu gibilere 4/11/1981 gün ve 2547 Sayılı Kanun'un geçici 17 nci maddesi uyarınca intibak ettirildikleri derece ve ünvanlarına uygun ihdas edilmiş kadrolar herhangi bir surette boşaldığı takdirde iptal edilir ve hiçbir şekilde kullanılmaz.

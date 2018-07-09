@@ -1,0 +1,1 @@
+Madde 1 – 28/3/1983 tarih ve 2809 sayılı "Yükseköğretim Kurumları Teşkilatı Hakkındaki 41 sayılı Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair Kanun"un kapsamına dahil yükseköğretim kurumlarının öğretim elemanlarına ait kadrolar ekli (1) sayılı cetvelde gösterilmiş ve ilgili yükseköğretim kurumlarına tahsis edilmiştir.

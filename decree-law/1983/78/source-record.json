@@ -1,0 +1,93 @@
+{
+  "source_id": "24.5.78",
+  "path": "decree-law/1983/78",
+  "number": "78",
+  "tertip": "5",
+  "title": "YÜKSEK ÖĞRETİM KURUMLARI ÖĞRETİM ELEMANLARININ KADROLARI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1983-09-02",
+  "enacted_as_printed": "02.09.1983",
+  "published": "1983-09-16",
+  "gazette": "18167",
+  "in_force": "2018-07-09",
+  "in_force_basis": "latest date printed in the act's own entry-into-force list: \"KHK/700 | 3, Ek Madde 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\"",
+  "date_evidence": [
+    [
+      "2018-07-09",
+      "KHK/700 | 3, Ek Madde 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin Geçici 10 uncu maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2018-06-24",
+      "KHK/700 | 3, Ek Madde 1 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-05-18",
+      "7141 | Ek Madde 25, Kadro İzleme Çizelgesi | 18/5/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-05-09",
+      "(Ek: 9/5/2018-7141/14 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-03-06",
+      "7100 | Ek Madde 8, Ek Madde 24, Geçici Madde 4, Kadro İzleme Çizelgesi | 6/3/2018",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-02-22",
+      "(Ek: 22/2/2018-7100/30 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2018-02-22",
+      "(Ek: 22/2/2018-7100/29 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2017-07-01",
+      "7033 | Kadro İzleme Çizelgesi | 1/7/2017",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2017-01-27",
+      "6770 | Ek Madde 23, Kadro İzleme Çizelgesi | 27/1/2017",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2017-01-18",
+      "(Ek: 18/1/2017-6770/37 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2016-09-07",
+      "6745 | Ek Madde 21, Kadro İzleme Çizelgesi | 7/9/2016",
+      "the act's own entry-into-force list"
+    ]
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin Geçici 10 uncu maddesiyle yürürlükten kaldırılmıştır.",
+    "Madde 7 – Aşağıda sayılan kanunlarla ek ve değişiklikleri ve bu kanunlara bağlı kadro cetvelleri yürürlükten kaldırılmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=78&MevzuatTertip=5",
+  "source_sha256": "48636970ef07d241d182a7f97d744548b237d6f90261bca89cfee9d969fa805e",
+  "source_bytes": 402306,
+  "words": 6718,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

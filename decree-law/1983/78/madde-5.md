@@ -1,0 +1,6 @@
+Serbest kadroların kullanımı:
+Madde 5 – (Değişik: 29/6/2012-6338/4 md.)
+Öğretim üyeleri hariç, bu Kanun Hükmünde Kararnameye ekli (1) sayılı cetvelde yer alan boş öğretim elemanı kadrolarına açıktan veya yükseköğretim kurumları ile diğer kamu idare, kurum ve kuruluşlarından nakil suretiyle yapılabilecek toplam atama sayısı sınırı merkezî yönetim bütçe kanununda gösterilir.
+Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği uyarınca araştırma görevlisi kadrolarına yapılabilecek atamalar ile 8/4/1929 tarihli ve 1416 sayılı Ecnebi Memleketlere Gönderilecek Talebe Hakkında Kanun uyarınca yurt dışına eğitim amacıyla gönderilenlerden öğretim elemanı kadrolarına yapılabilecek atamalar merkezî yönetim bütçe kanununda öngörülen atama sınırlamalarına tabi değildir.
+Öğretim üyesi kadrolarından ayrılanların sayısı ile Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği uyarınca atanmış oldukları araştırma görevlisi kadrolarından ayrılanların sayısı merkezî yönetim bütçe kanununda öngörülen atama sayısının hesabında dikkate alınmaz.
+Merkezî yönetim bütçe kanununda belirtilen atama sayısının yükseköğretim kurumları itibarıyla dağılımı, kullanımı ve diğer hususlar Maliye Bakanlığının ve Devlet Personel Başkanlığının görüşleri üzerine Yükseköğretim Kurulunca belirlenir ve boş öğretim elemanı kadrolarına Yükseköğretim Kurulunun izni olmadıkça atama yapılamaz.

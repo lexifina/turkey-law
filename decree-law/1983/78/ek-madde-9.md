@@ -1,0 +1,2 @@
+Ek Madde 9 – (Ek: 17/5/2007-5662/10 md.)
+Yeni kurulan üniversitelerde, Bozok Üniversitesi, Ahi Evran Üniversitesi, Giresun Üniversitesi ve Erzincan Üniversitesinde yeni kurulan fakülte ve enstitüler ile Eskişehir Osmangazi Üniversitesi ve Selçuk Üniversitesinde kullanılmak üzere, ekli (I) sayılı listede yer alan öğretim elemanlarına ait kadrolar ihdas edilerek bu Kanun Hükmünde Kararnameye bağlı cetvellere, ilgili üniversite bölümleri olarak eklenmiştir.

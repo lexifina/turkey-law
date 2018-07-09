@@ -1,0 +1,2 @@
+Ek Madde 14 – (Ek: 17/2/2011-6114/16 md.)
+2547 sayılı Yükseköğretim Kanununun 34 üncü ve 2914 sayılı Yükseköğretim Personel Kanununun 16 ncı maddesine göre yükseköğretim kurumlarında sözleşme ile istihdam edilecek yabancı uyruklu öğretim elemanı sayısı dolu öğretim elemanı kadrosu sayısının % 2’sini geçemez. Bu kapsamdaki yabancı uyruklu öğretim elemanının yükseköğretim kurumları itibariyle dağılımı, isim, ücret ve sözleşme örneğinin vizesi, sözleşme süresinin uzatılması ve sona erdirilmesi, Yükseköğretim Kurulu tarafından yapılır.
