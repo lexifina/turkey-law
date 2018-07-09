@@ -1,2 +1,2 @@
 Teşkilat
-Madde 3 – Meteoroloji Genel Müdürlüğü merkez ve taşra teşkilatından meydana gelir.
+Madde 3 – (Mülga: 2/7/2018-KHK-703/79 md.)

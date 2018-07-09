@@ -1,4 +1,2 @@
 Genel Müdür ve Genel Müdür Yardımcıları
-MADDE 6 - (1) Genel Müdürlüğü, Genel Müdür temsil eder. Genel Müdür, Genel Müdürlüğün en üst yöneticisi olup, Genel Müdürlük hizmet ve faaliyetlerini; kalkınma planlarına, stratejik plana ve mevzuat hükümlerine uygun olarak, görev alanına giren konularda diğer kurum ve kuruluşlarla işbirliği içerisinde yürütür.
-(2) Genel Müdür, merkez ve taşra teşkilatının faaliyetlerini, işlemlerini ve hesaplarını denetlemekle görevli, yetkili ve sorumludur.
-(3) Genel Müdüre yardımcı olmak üzere en fazla dört Genel Müdür Yardımcısı atanır.
+MADDE 6 - (Mülga:2/7/2018-KHK-703/76 md.)

@@ -1,2 +1,2 @@
 Başkan yardımcıları
-MADDE 11- Görevlerin yürütülmesinde Başkana yardımcı olmak üzere üç başkan yardımcısı görevlendirilir. Başkan yardımcıları, Başkana karşı sorumludur.
+MADDE 11- (Mülga: 2/7/2018-KHK-703/88 md.)

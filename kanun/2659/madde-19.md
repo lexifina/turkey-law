@@ -1,3 +1,2 @@
-Kimya İhtisas Dairesinin görevleri:(1)
-Madde 19 – Mahkemeler ile hakimlikler ve savcılıklar tarafından gönderilen toksikolojik, gıdai, sınai, narkotik, ilaç ve diğer çeşitli maddeler ile alkolometrik analizler yapmak ve sonucunu bir raporla tespit etmek.
-Değiştirilmiştir.
+Kimya İhtisas Dairesinin görevleri:8
+Madde 19 – (Mülga: 2/7/2018 – KHK-703/61 md.)

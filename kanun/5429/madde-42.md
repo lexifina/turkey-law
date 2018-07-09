@@ -1,2 +1,2 @@
 Yayın ve Dağıtım Kurulu
-Madde 42- Program kapsamında üretilen istatistiklerin yayın ve dağıtım ilke, standart ve politikalarının belirlenmesi ve bunların uygunluğunun kontrol edilmesi amacıyla, Kurum bünyesinde Yayın ve Dağıtım Kurulu oluşturulur. Kurul, Başkanın görevlendireceği bir Başkan Yardımcısının başkanlığında, Yayın ve Bilgi Dağıtım Daire Başkanı, ana hizmet birimlerinden en az iki daire başkanı ve en az bir istatistik müşavirinden oluşur. Kurulun sekretarya hizmetleri Yayın ve Bilgi Dağıtım Daire Başkanlığı tarafından yürütülür.
+Madde 42- (Mülga: 2/7/2018 – KHK-703/99 md.)

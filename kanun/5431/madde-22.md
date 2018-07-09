@@ -1,2 +1,2 @@
 Düzenleme görev ve yetkisi
-Madde 22- Genel Müdürlük, bu Kanunun uygulanması ile ilgili yönetmelik çıkarmaya yetkilidir.
+Madde 22- (Mülga: 2/7/2018-KHK-703/89 md.)

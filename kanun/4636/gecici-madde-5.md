@@ -1,3 +1,1 @@
-Geçici Madde 5 – Kanunun yayımı tarihinden itibaren bir yıl süre ile Yönetim Kurulu; Millî Savunma Bakanlığı Müsteşarı başkanlığında, Genelkurmay Başkanlığı Lojistik Dairesi Başkanı, Millî Savunma Bakanlığı Kanunlar ve Kararlar Dairesi Başkanı, NATO Enfrastrüktür Dairesi Başkanı, İç Tedarik Dairesi Başkanı, Maliye Dairesi Başkanı ve Hukuk Müşavirliği ve Davalar Dairesi Başkanından oluşur.
-Yönetim Kurulu, Yönetim Kurulu Başkanının daveti üzerine ayda en az bir defa toplanır. Toplantı yeter ve karar sayısı dörttür. Yönetim Kurulu Başkanının katılamadığı toplantılara, en kıdemli üye başkanlık eder. Yönetim Kurulunun sekretarya hizmetleri, Başkanlık tarafından yerine getirilir.
-Yönetim Kurulu üyelerine, Kamu İktisadî Teşebbüsleri Yönetim Kurulunun kamu görevlisi üyeleri için Yüksek Planlama Kurulunca belirlenen miktarın yarısı tutarında aylık ücret ödenir.
+Geçici Madde 5 – (Mülga : 2/7/2018-KHK-703/81 md.)

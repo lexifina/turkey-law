@@ -1,7 +1,2 @@
 Tanımlar:
-Madde 2 – Bu Kanunda geçen deyimlerden,
-Kurul; Savunma Sanayii Yüksek Koordinasyon Kurulunu,
-Komite; Savunma Sanayi İcra Komitesini,
-Fon; Savunma Sanayii Destekleme Fonunu,
-Müsteşarlık; Savunma Sanayii Müsteşarlığını,
-İfade eder.
+Madde 2 – (Mülga: 2/7/2018 - KHK/703/121 md.)

@@ -1,2 +1,1 @@
-Madde 1 – Adalet işlerinde bilirkişilik görevi yapmak, (Ek ibare: 19/2/2003-4810/1 md.) adlî tıp uzmanlığı ve yan dal uzmanlığı programları ile görev alanına giren konularda diğer adlî bilimler alanlarında sempozyum, konferans ve benzeri etkinlikler düzenlemek ve bunlara ilişkin eğitim programları uygulamak üzere Adalet Bakanlığına bağlı Adli Tıp Kurumu kurulmuştur.
-(Değişik: 19/2/2003-4810/1 md.) Adalet Bakanlığınca Kuruma bağlı olarak Adlî Tıp Kurumu grup başkanlıkları veya şube müdürlükleri kurulabilir. Adlî Tıp Kurumu grup başkanlıkları bünyesinde bir veya daha çok adlî tıp ihtisas dairesi bulunur.
+Madde 1 – (Mülga: 2/7/2018 – KHK-703/61 md.)

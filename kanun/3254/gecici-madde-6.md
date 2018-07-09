@@ -1,1 +1,1 @@
-Geçici Madde 6 – Bu Kanuna göre yeniden düzenleme yapılıncaya kadar Genel Müdürlük merkez teşkilatında değişen ya da yeniden kurulan birimlere verilen görevler daha önce bu görevleri yapmakta olan birimler tarafından yapılmaya devam olunur.
+Geçici Madde 6 – (Mülga: 2/7/2018-KHK-703/79 md.)

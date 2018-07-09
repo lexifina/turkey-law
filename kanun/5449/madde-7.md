@@ -1,8 +1,4 @@
 ÜÇÜNCÜ BÖLÜM
 Ajansın Teşkilâtı
 Teşkilât yapısı
-Madde 7 — Ajansın teşkilât yapısı aşağıdaki gibidir:
-a) Kalkınma kurulu.
-b) Yönetim kurulu.
-c) Genel sekreterlik.
-d) Yatırım destek ofisleri.
+Madde 7 — (Mülga:2/7/2018-KHK-703/75 md.)

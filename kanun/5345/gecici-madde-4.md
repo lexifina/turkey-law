@@ -1,1 +1,1 @@
-Geçici Madde 4- Bu Kanunda öngörülen yönetmelikler yürürlüğe girinceye kadar, aynı konuları düzenleyen tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Geçici Madde 4- (Mülga: 2/7/2018 – KHK-703/70 md.)

@@ -1,6 +1,2 @@
 Başkanlık
-Madde 9- Başkan, Enstitünün en üst amiridir ve Enstitüyü temsil eder. Başkanlık; Başkan ve iki Başkan Yardımcısından oluşur.
-Enstitü Başkanı ve Başkan Yardımcıları üç yıl süre için müşterek kararname ile atanırlar. Görev süresi dolanlar yeniden atanabilir. Herhangi bir nedenle boşalan Başkan veya Başkan Yardımcılığı kadrosu için, aynı usulle en geç bir ay içinde atama yapılır, atanan kişi öncekinin görev süresini tamamlar.
-Yeniden atanamayan Başkan ve Başkan Yardımcıları kazanılmış hak aylıklarına göre durumlarına uygun başka kadrolara atanırlar.
-Başkan, Enstitü hizmetlerinin mevzuata, Türkiye'nin taraf olduğu sınaî mülkiyet hakları ile ilgili uluslararası anlaşmalara, millî güvenlik siyasetine, kalkınma plan ve yıllık programlara, Yönetim Kurulunun kararlarına uygun yürütülmesi ve Enstitünün faaliyet alanına giren konularda ulusal ve uluslararası kurum ve kuruluşlarla işbirliği ve koordinasyonu sağlamakla görevlidir. Başkan, Enstitünün bütçesi, faaliyet raporu ve malî raporunu hazırlar ve Yönetim Kurulunun onayına sunar. Başkan, Enstitüde çalışanların işlemlerinden sorumlu olup, Enstitünün faaliyetlerini ve hesaplarını denetlemekle görevli ve yetkilidir.
-Başkan, sınırları açıkça yazılı olarak belirtilmek şartı ile yetkilerinin bir kısmını astlarına devredebilir. Ancak, yetki devri yetkiyi devredenin sorumluluğunu kaldırmaz.
+Madde 9- (Mülga: 2/7/2018-KHK-703/86 md.)

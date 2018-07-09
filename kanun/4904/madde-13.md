@@ -1,37 +1,14 @@
-İl istihdam ve mesleki eğitim kurulları (1)
+İl istihdam ve mesleki eğitim kurulları[5]
 Madde 13 – (Değişik: 15/5/2008-5763/21 md.)
-İlin işgücü, istihdam ve mesleki eğitim ihtiyacını tespit etmek veya ettirmek, mesleki ve teknik eğitim okul ve kurumları ile işletmelerde yapılacak mesleki eğitim ve istihdam konularında etkinlik ve verimliliği artırmak amacıyla yerel düzeyde politikalar oluşturmak, plan yapmak ve kararlar almak, ilgili kurum ve kuruluşlara görüş ve önerilerde bulunmak üzere illerde İl İstihdam ve Mesleki Eğitim Kurulu kurulur.
-Kurul valinin başkanlığında aşağıda sayılan üyelerden oluşur:
-a) Belediye Başkanı, büyükşehir belediyesi bulunan illerde Büyükşehir Belediye Başkanı veya genel sekreteri veya yardımcısı.
-b) İl Özel İdaresi Genel Sekreteri.
-c) İl Milli Eğitim Müdürü.
-–––––––––––––
-(1) Bu madde başlığı ” İl istihdam kurulları ve görevleri” iken, 15/5/2008 tarihli ve 5763 sayılı Kanunun 21 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-8484
-ç) (Değişik: 11/10/2011-KHK-665/22 md.) İl Bilim, Sanayi ve Teknoloji Müdürü.
-d) (Değişik: 11/10/2011-KHK-665/22 md.) Çalışma ve İş Kurumu İl Müdürü.
-e) İl Ticaret ve/veya Sanayi Odası Başkanı.
-f) İşçi, işveren konfederasyonları ile Türkiye Sakatlar Konfederasyonundan birer temsilci.
-g) İl Esnaf ve Sanatkârlar Odaları Birliği Başkanı.
-ğ) İlde bulunan fakülte veya yüksek okulların Çalışma Ekonomisi ve Endüstri İlişkileri Bölümü veya Mesleki Teknik Eğitim Bölümlerinden valinin belirleyeceği bir öğretim üyesi.
-h) (Ek: 11/10/2011-KHK-665/22 md.) İl Gümrük ve Ticaret Müdürü.
-i) (Ek: 11/10/2011-KHK-665/22 md.) Kalkınma Ajansı temsilcisi.
-İl istihdam ve mesleki eğitim kurullarının görevleri şunlardır:
-a) İlin istihdam ve mesleki eğitim politikasını oluşturmak.
-b) İlin muhtelif sektör ve branştaki işgücü ve mesleki eğitim ihtiyacını belirlemek üzere işgücü piyasa analizleri yapmak-yaptırmak, bu amaçla gerektiğinde ilgili alan uzmanlarından komisyonlar oluşturmak, bunların görev tanımları çerçevesinde hazırladıkları raporları değerlendirmek ve yayınlamak, gerektiğinde ilgili Bakanlık ve kurullara sunmak.
-c) Milli Eğitim Bakanlığınca gönderilen mesleki eğitim çerçeve programlarının işgücü piyasası araştırma sonuçlarına göre ilin ihtiyaçları doğrultusunda düzenlenmesi için görüş bildirmek.
-ç) Mesleki eğitim uygulamalarında ortaya çıkan uyuşmazlıkların çözümüne yardımcı olmak.
-d) Mesleki eğitim, işgücü ve istihdam konularında kurum ve kuruluşlardan gelecek görüş ve önerileri incelemek, değerlendirmek ve sonuçlandırmak.
-e) İl düzeyinde istihdamı koruyucu, geliştirici ve işsizliği önleyici tedbirleri belirlemek ve gereği için ilgili kurum ve kuruluşlara bildirmek.
-f) İşgücü piyasası araştırma sonuçları da dikkate alınarak İl Milli Eğitim Müdürlüğü ve Kurum tarafından hazırlanan işgücü yetiştirme faaliyetlerine ilişkin planları onaylamak ve bunların uygulama sonuçlarını izlemek.
-g) Bu madde hükümlerinin il seviyesinde eksiksiz yerine getirilmesi için gerekli tedbirleri almak.
-Kurul kararları bağlayıcıdır. Kurul, alınan kararlara ilişkin eylem planı hazırlar, sorumlu kurum ve kuruluşları belirler, uygulamaları ve sonuçlarını takip eder.
-Kurul, üç ayda bir toplanır. Kurulun sekretarya görevi Kurum İl Müdürlüğü ile İl Milli Eğitim Müdürlüğü tarafından kendi görev alanları ile sınırlı kalmak kaydıyla müştereken yürütülür. Alınan kararların uygulanmasının takibi ile diğer faaliyet ve işgücü piyasasına yönelik araştırmalar, Yürütme Kurulu tarafından yerine getirilir.
-(Değişik altıncı fıkra: 28/1/2010-5951/9 md.) İşgücü yetiştirme faaliyetleri ve sonuçları Denetim Kurulu tarafından denetlenir. Denetim Kurulu; Kurul başkanının onayıyla, biri Kurum temsilcisi, diğeri Kurul üyesi diğer kurum ve kuruluş temsilcileri arasından seçilecek bir üye olmak üzere iki üyeden oluşur. İhtiyaç duyulması hâlinde birden fazla Denetim Kurulu oluşturulabilir. Denetim raporları Kurula bildirilir.
-8484-1
-Kurul tarafından her yıl faaliyet raporu düzenlenir. Düzenlenen rapor, Kurum Yönetim Kurulu tarafından değerlendirildikten sonra ilgili bakanlıklara gönderilir.
+(Mülga birinci fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga ikinci fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga üçüncü fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga dördüncü fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga beşinci fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga altıncı fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga yedinci fıkra: 2/7/2018 – KHK-703/74 md.)
 (Değişik sekizinci fıkra: 28/1/2010-5951/9 md.) Kurum tarafından; Kurul üyelerine yılda dörtten, Yürütme Kurulu üyelerine ayda ikiden fazla olmamak üzere her toplantı için (3000) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden toplantı ücreti ödenir. Denetim Kurulu üyelerine ise ayda otuz işgücü yetiştirme kursunu geçmemek üzere denetlenen kurs başına (300) gösterge rakamını geçmeyecek şekilde Kurum Yönetim Kurulunca belirlenecek gösterge rakamının memur aylık katsayısıyla çarpımı sonucu bulunacak tutar üzerinden denetim ücreti ödenir. Bu ödemeler, damga vergisi hariç herhangi bir vergiye tabi tutulmaz. Birden fazla kurul üyesi olanlar bu ödemelerin en fazla birinden yararlanır.
-Kurulun yönetim ve denetim faaliyetleri, işgücü piyasası araştırma ve planlama çalışmaları için Kurum tarafından ödenek tahsis edilir. Bu ödeneğin miktarı, aktif işgücü programları için Kurum tarafından İl Müdürlüğüne tahsis edilen toplam ödeneğin yüzde beşini geçemez.
-İl İstihdam ve Mesleki Eğitim Kurulu, Yürütme Kurulu ve Denetleme Kurulunun çalışma usul ve esasları Milli Eğitim, (…)(1) Çalışma ve Sosyal Güvenlik bakanlıkları ile Kurum tarafından müştereken çıkarılacak yönetmelikle düzenlenir.(1)
-Bu Kanunda İl İstihdam Kurullarına yapılan atıflar ile 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanununda İl Mesleki Eğitim Kuruluna yapılan atıflar İl İstihdam ve Mesleki Eğitim Kuruluna yapılmış sayılır.
-3308 sayılı Kanunun bu maddeye aykırı hükümleri uygulanmaz.
+(Mülga dokuzuncu fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga onuncu fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga onbirinci fıkra: 2/7/2018 – KHK-703/74 md.)
+(Mülga onikinci fıkra: 2/7/2018 – KHK-703/74 md.)

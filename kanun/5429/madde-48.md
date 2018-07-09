@@ -1,3 +1,2 @@
 Sayım komiteleri ve görevlendirme
-Madde 48- Sayımların hazırlık, uygulama ve değerlendirme çalışmalarını yürütmek ve koordine etmek üzere, Başkanın veya görevlendireceği bir kişinin başkanlığında Merkez Sayım Komiteleri kurulur. Bu komitelere gerektiğinde, üniversiteler, ilgili bakanlıklar ile diğer kamu kurum ve kuruluşları temsilcilerinin katılımı sağlanır.
-Sayımlar, Başkanlığın belirleyeceği il ve ilçelerde ve tespit edeceği esaslar çerçevesinde mahallin en büyük mülkî amirinin başkanlığında kurulacak Sayım Komitesi ve buna bağlı Sayım Bürosu tarafından yapılır. Mahallî komite ve büroların çalışmalarından, bunlara her türlü araç, gereç ve eleman sağlanmasından o yerin en büyük mülkî idare amiri sorumludur. Sayımlarda kamu kurum ve kuruluşlarının taşra teşkilâtı personeli de mahallin en büyük mülkî amiri tarafından görevlendirilebilir.
+Madde 48- (Mülga: 2/7/2018 – KHK-703/99 md.)

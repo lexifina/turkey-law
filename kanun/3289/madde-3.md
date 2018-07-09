@@ -1,2 +1,2 @@
 Teşkilat
-Madde 3 - Spor Genel Müdürlüğü Merkez ve Taşra Teşkilatından meydana gelir.
+Madde 3 - (Mülga: 2/7/2018-KHK-703/12 md.)

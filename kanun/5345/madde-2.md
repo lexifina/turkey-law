@@ -1,11 +1,2 @@
 Tanımlar
-Madde 2- Bu Kanunda geçen;
-a) Bakanlık: Maliye Bakanlığını,
-b) Bakan: Maliye Bakanını,
-c) Başkanlık: Gelir İdaresi Başkanlığını,
-d) Başkan: Gelir İdaresi Başkanını,
-e) Başkan yardımcısı: Gelir İdaresi Başkan Yardımcısını,
-f) Daire başkanı: Gelir İdaresi Daire Başkanını,
-g) Merkez teşkilatı: Gelir İdaresi Başkanlığının merkez teşkilatını,
-h) Taşra teşkilatı: Gelir İdaresi Başkanlığının taşra teşkilatını,
-İfade eder.
+Madde 2- (Mülga: 2/7/2018 – KHK-703/70 md.)

@@ -1,7 +1,2 @@
-Personelin statüsü, nitelikleri, atanması ve özlük hakları(1)
-Madde 20 – (Değişik:29/6/2012-6337/9 md.)
-Bu Kanun ve ilgili mevzuat ile Kuruma verilen görev ve hizmetler, ekli (1) sayılı cetvelde belirtilen kadrolarda sözleşmeyle sürekli istihdam edilen Akreditasyon Uzmanları ve Akreditasyon Uzman Yardımcılarından oluşan meslek personeli ile diğer kadrolarda bulunan personel eliyle yürütülür. Akreditasyon Uzman Yardımcılarının mesleğe alınmaları, yarışma sınavı, tez hazırlama ve yeterlik sınavları ile Akreditasyon Uzmanlığına atanmaları hakkında 657 sayılı Kanunun ek 41 inci maddesi hükümleri uygulanır.
-Genel Sekreter müşterek kararla; Genel Sekreter Yardımcıları, Genel Sekreterlik Müşavirleri ve hizmet birimlerinin başkanları Başbakan onayıyla; diğer Genel Sekreterlik personeli Kurumun ilgili olduğu Bakan tarafından atanır. Başbakan ve Kurumun ilgili olduğu Bakan, atama yetkisini devredebilir.
-Kurum kadrolarına atanabilmek için 657 sayılı Kanunun 48 inci maddesinin birinci fıkrasının (A) bendinin (1), (4) ve (5) numaralı alt bentlerinde yer alan genel şartlar ile yönetmelikle belirlenen özel şartlar aranır.
-Kurumda istihdam edilecek personelin kadro unvanları ile kadro sayıları ekli (1) sayılı cetvelde gösterilmiştir.
-Kurum personeline, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenmiş emsali personele mali ve sosyal haklar kapsamında yapılan ödemeler aynı usul ve esaslar çerçevesinde ödenir. Kurum personeli emeklilik hakları bakımından da emsali olarak belirlenen personel ile denk kabul edilir. Emsali personele yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar, bu Kanuna göre de vergi ve diğer kesintilere tabi olmaz.
+Personelin statüsü, nitelikleri, atanması ve özlük hakları[7]
+Madde 20 – (Mülga: 2/7/2018 – KHK-703/100 md.)

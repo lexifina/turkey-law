@@ -1,4 +1,2 @@
-Sekretarya hizmetleri
-MADDE 9 — Konseyin sekretarya hizmetleri, Devlet Planlama Teşkilâtı Müsteşarlığı tarafından yerine getirilir.
-Sekretarya, Konseyin tüm büro hizmetlerini yürütmekle görevlidir.
-Konsey toplantıları ile çalışma kurulları ve çalışma grupları toplantıları Devlet Planlama Teşkilâtı Müsteşarlığı tarafından düzenlenir. Devlet Planlama Teşkilâtı Müsteşarı bu hizmetlerin yürütülmesinden sorumludur.
+Sekreterya hizmetleri[11]
+Madde 9 – (Mülga: 2/7/2018 - KHK/703/109 md.)

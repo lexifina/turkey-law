@@ -3,9 +3,8 @@ Bakanlığın Görev ve Yetkileri ile
 Kurul ve Komiteler
 Bakanlığın görev ve yetkileri
 MADDE 8 – (1) Bakanlığın görev ve yetkileri şunlardır:
-a) Kurula uygun çalışma koşullarını sağlamak ve Kurulun sekretarya hizmetlerini yürütmek.
+a) (Mülga bent: 2/7/2018-KHK-703/206 md.)[1]
 b) Kurulca talep edilen bilgi ve belgeleri temin etmek, istenen araştırma, deneme, kontrol ve denetlemeleri yaparak veya yaptırarak sonuçlarını Kurula bildirmek.
-10538
 c) Bu Kanunda belirtilen iş ve işlemlerin uygulanması, istenmeyen GDO bulaşıklarının engellenmesi, izlenmesi, kontrolü ve denetimini sağlamak.
 ç) Gerek görülmesi halinde GDO ve ürünleri ile ilgili çalışmalar yapmak için gerçek veya tüzel kişileri yetkilendirmek, yetkilendirilen bu gerçek veya tüzel kişileri denetlemek ve bunlara ilişkin usul ve esasları düzenlemek.
 d) Ülkesel biyolojik çeşitlilik ve genetik kaynakların korunması ve sürdürülebilir kullanımı için strateji geliştirmek, uygulamak veya uygulanmasını sağlamak.

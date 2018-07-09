@@ -1,5 +1,5 @@
 Atama işlemleri
-Madde 13 – Milli İstihbarat Teşkilatı Müsteşarı, Milli Güvenlik Kurulunda görüşüldükten sonra Başbakanın inhası ve Cumhurbaşkanının onayı ile atanır.
-MİT Müsteşar yardımcıları ve başkanlar, MİT Müsteşarının teklifi üzerine, Başbakanın inhası ve Cumhurbaşkanının onayı ile atanır.
-Diğer personel MİT Müsteşarı tarafından atanır.
-Bu atamalar Resmi Gazete'de yayımlanmaz ve gizli tutulur.
+Madde 13 – (Mülga birinci fıkra: 2/7/2018-KHK-703/152 md.)
+(Mülga ikinci fıkra: 2/7/2018-KHK-703/152 md.)
+(Mülga üçüncü fıkra: 2/7/2018-KHK-703/152 md.)
+(Değişik dördüncü fıkra: 2/7/2018-KHK-703/152 md.) MİT kadrolarına yapılacak atamalar Resmi Gazete'de yayımlanmaz ve gizli tutulur.

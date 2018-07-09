@@ -1,2 +1,2 @@
 Diğer kurum ve kuruluşların taleplerinin karşılanması
-MADDE 21 - (1) Genel Müdürlük; kamu kurum ve kuruluşlarının görev alanına ilişkin hizmet talepleri ile gerçek veya tüzel kişilerin konaklama tesisleri, akaryakıt satış istasyonları ve benzeri tesislerin karayoluna giriş ve çıkışlarının düzenlenmesine dair taleplerini, kendi çalışma programını da dikkate alarak yapılacak anlaşmalar çerçevesinde ve ücreti mukabilinde yerine getirmeye yetkilidir.
+MADDE 21 - (Mülga:2/7/2018-KHK-703/76 md.)

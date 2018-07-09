@@ -1,6 +1,4 @@
 ALTINCI BÖLÜM
 Yardımcı Hizmet Birimleri
 Yardımcı hizmet birimleri
-Madde 38 - Başkanlığın yardımcı hizmet birimleri şunlardır:
-a) İnsan Kaynakları Daire Başkanlığı.
-b) Destek Hizmetleri Daire Başkanlığı.
+Madde 38 - (Mülga: 2/7/2018 – KHK-703/99 md.)

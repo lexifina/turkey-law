@@ -1,3 +1,2 @@
-Başkan yardımcıları (1)
-Madde 24- Başkanlıkta Başkana yardımcı olmak üzere dört başkan yardımcısı atanabilir. Bunlardan en az birinin daha önce Türkiye İstatistik Kurumu Uzmanı unvanını almış olması şartı aranır. Başkan yardımcıları Başkana karşı sorumludur.
-Başkan yardımcılıklarına yapılacak atamalarda, 657 sayılı Devlet Memurları Kanununda öngörülen genel şartlar ile en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olma ve İngilizce, Fransızca, Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında en az (C) düzeyinde belge almış veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olmaları şartı da aranır.
+Başkan yardımcıları[5]
+Madde 24- (Mülga: 2/7/2018 – KHK-703/99 md.)

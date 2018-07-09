@@ -1,2 +1,2 @@
 Yetki devri
-Madde 20- Genel Müdür ve her kademedeki Genel Müdürlük yöneticileri, sınırlarını açıkça belirtmek ve yazılı olmak şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri, uygun araçlarla ilgililere duyurulur.
+Madde 20-(Mülga: 2/7/2018-KHK-703/89 md.)

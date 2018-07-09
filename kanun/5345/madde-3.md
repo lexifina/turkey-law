@@ -1,6 +1,4 @@
 İKİNCİ BÖLÜM
 Teşkilat ve Görevler
 Teşkilat
-Madde 3- Başkanlık, merkez ve taşra teşkilatından meydana gelir.
-Başkanlığın merkez teşkilatı ana hizmet, danışma ve yardımcı hizmet birimlerinden oluşur.
-Başkanlığın merkez teşkilatı ekli (1) sayılı listede gösterilmiştir.
+Madde 3- (Mülga: 2/7/2018 – KHK-703/70 md.)

@@ -1,2 +1,2 @@
 İhtisas Daireleri Şubeleri:
-Madde 25 – Bu şubelerde görevlendirilecek personelin nitelikleri, çalışma usul ve esasları yönetmelikle belirlenir.
+Madde 25 – (Mülga: 2/7/2018 – KHK-703/61 md.)

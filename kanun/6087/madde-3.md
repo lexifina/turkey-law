@@ -1,10 +1,10 @@
 İKİNCİ BÖLÜM
 Kuruluş ve Görev
 Kuruluş ve Kurulun bağımsızlığı
-MADDE 3 – (1) Hâkimler ve Savcılar Yüksek Kurulu yirmiiki asıl ve oniki yedek üyeden oluşur.
-(2) Kurul üç daire hâlinde çalışır.
+MADDE 3 – (1) (Değişik: 2/7/2018-KHK-703/208 md.) Hâkimler ve Savcılar Kurulu onüç üyeden oluşur.
+(2) Kurul iki daire hâlinde çalışır.[7]
 (3) Kurulun Başkanı, Bakandır.
-(4) Adalet Bakanlığı Müsteşarı Kurulun tabiî üyesidir. Müsteşar bulunmadığı zaman kendisine vekâlet etmekte olan, Kurul toplantılarına katılır.
-(5) Kurul; Bakan, Adalet Bakanlığı Müsteşarı, Cumhurbaşkanınca seçilecek dört asıl, Yargıtaydan seçilecek üç asıl ve üç yedek, Danıştaydan seçilecek iki asıl ve iki yedek, Türkiye Adalet Akademisinden seçilecek bir asıl ve bir yedek, birinci sınıf olan adlî yargı hâkim ve savcıları arasından seçilecek yedi asıl ve dört yedek ile birinci sınıf olan idarî yargı hâkim ve savcıları arasından seçilecek üç asıl ve iki yedek üyeden oluşur.
+(4) (Mülga: 2/7/2018-KHK-703/208 md.)
+(5) (Değişik: 2/7/2018-KHK-703/208 md.) Kurul; Bakan, Adalet Bakanlığı Müsteşarı ile Cumhurbaşkanınca seçilen dört ve Türkiye Büyük Millet Meclisince seçilen yedi üyeden oluşur.[8]
 (6) Kurul, görevlerini yerine getirirken ve yetkilerini kullanırken bağımsızdır. Hiçbir organ, makam, merci veya kişi, Kurula emir ve talimat veremez.
 (7) Kurul, mahkemelerin bağımsızlığı ile hâkimlik ve savcılık teminatı esaslarını gözeterek adalet, tarafsızlık, doğruluk ve dürüstlük, tutarlılık, eşitlik, ehliyet ve liyakat ilkeleri çerçevesinde görev yapar.

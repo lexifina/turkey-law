@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Son Hükümler
+Yürürlükten kaldırılan mevzuat
+Madde 33 - (Mülga: 2/7/2018 – KHK-703/74 md.)

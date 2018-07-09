@@ -1,2 +1,2 @@
 Genel Müdür Yardımcısı
-Madde 6- Hizmetlerin yürütülmesinde Genel Müdüre yardımcı olmak üzere üç Genel Müdür Yardımcısı görevlendirilir. Genel Müdür Yardımcısı Genel Müdüre karşı sorumludur. (1)
+Madde 6- (Mülga: 2/7/2018-KHK-703/89 md.)

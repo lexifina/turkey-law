@@ -1,4 +1,3 @@
-Seçimlerin zamanı ve esasları
-MADDE 19 – (1) Kurul üyeliği seçimleri dört yılda bir olmak üzere, üyelerin görev süresinin dolmasından önceki altmış gün içinde yapılır.
-(2) (Değişik: 18/6/2014-6545/97 md.) Yargıtay, Danıştay ve Türkiye Adalet Akademisi genel kurullarından seçilecek Kurul üyeliği için her üye, birinci sınıf adli ve idari yargı hâkim ve savcıları arasından seçilecek Kurul üyeliği için her hâkim ve savcı; kendi aralarından seçilecek asıl ve yedek üyelerin toplam sayısı kadar aday için oy kullanabilir; daha fazla sayıda aday için oy verilmesi durumunda oy pusulası geçersiz sayılır. En fazla oy alan adaylar sırasıyla asıl ve yedek üye seçilmiş olur.
-(3) Bu seçimler; her dönem için bir defada ve gizli oyla, serbest, eşit, tek dereceli, açık sayım ve döküm esaslarına göre yapılır. Oyların eşitliği hâlinde adaylar arasında kura çekilir.
+Seçimlerin zamanı[30]
+MADDE 19 – (Değişik: 2/7/2018-KHK-703/208 md.)
+(1) Kurul üyeliği seçimleri, üyelerin görev süresinin dolmasından önceki otuz gün içinde yapılır.

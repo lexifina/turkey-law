@@ -1,6 +1,2 @@
 İşbirliği ve koordinasyon
-Madde 24 – Genel Müdürlük kendi hizmet alanlarına girmekle birlikte, diğer kuruluşları da ilgilendiren konularda ilgili kuruluşlarla danışma, işbirliği ve koordinasyonu sağlar.
-Ticari gemiler seyir halinde iken, milletlerarası kurallara uygun olarak meteorolojik rasatlar yaparlar ve bunları Posta, Telgraf, Telefon İşletmesinin sahil telsiz dinleme istasyonlarına iletirler. Bu işlerin nasıl yürütüleceği hususu; Ulaştırma Bakanlığı Koordinatörlüğünde ilgili kurumların, birlikte hazırlayacakları bir yönetmelikle düzenlenir.
-6816
-Meteoroloji Genel Müdürlüğünün taşra teşkilatından ve gemilerden Posta, Telgraf, Telefon İşletmesi aracılığıyla alacağı rasat mesajlarının alınması ve gönderilmesi ile resim, söz ve kot şeklindeki yayınlar için telli – telsiz devrelerin tahsisinde tanıyacağı öncelik Posta, Telgraf ve Telefon İşletmesi Genel Müdürlüğü ile birlikte hazırlanacak bir yönetmelikle düzenlenir.
-Sivil hava meydanları ve deniz limanlarındaki meteorolojik hizmetin milletlerarası standartlara uygun olarak yürütülmesi için meydanlardaki ve limanlardaki yerleşim, muhabere, ulaştırma gibi sosyal tesis ve imkanlardan Meteoroloji Genel Müdürlüğü personeli de faydalanır. Bu hususlara ait esaslar ilgili kuruluşların görüşü alınmak suretiyle Başbakanlıkça hazırlanacak yönetmelikle düzenlenir. (1)
+Madde 24 – (Mülga: 2/7/2018-KHK-703/79 md.)

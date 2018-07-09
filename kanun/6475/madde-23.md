@@ -1,8 +1,4 @@
 İKİNCİ BÖLÜM
 Teşkilatlanma
 Teşkilat
-MADDE 23 – (1) PTT’nin organları şunlardır:
-a) Genel Kurul
-b) Yönetim Kurulu
-c) Genel Müdürlük
-12085
+MADDE 23 – (Mülga: 2/7/2018-KHK-703/87 md.)

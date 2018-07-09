@@ -1,1 +1,1 @@
-GEÇİCİ MADDE 1 – (1) Kurumun nitelikli personel ihtiyacının karşılanabilmesi amacıyla, bir yıl süreyle istihdam edilen personelde yabancı dil yeterliliği şartı aranmayabilir.
+GEÇİCİ MADDE 1 – (Mülga :2/7/2018-KHK-703/93 md.)

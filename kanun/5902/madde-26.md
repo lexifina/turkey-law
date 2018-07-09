@@ -1,2 +1,2 @@
 Üst yöneticilerin sorumluluğu
-MADDE 26 – (1) Bu Kanunda öngörülen görevlerin yerine getirilmesinden, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 11 inci maddesinde belirtilen kurum ve kuruluşların üst yöneticileri sorumludur.
+MADDE 26 – (Mülga: 2/7/2018 – KHK-703/62 md.)

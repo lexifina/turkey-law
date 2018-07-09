@@ -1,5 +1,5 @@
 DÖRDÜNCÜ BÖLÜM
 Üyeliğin Boşalması ve Sona Ermesi
 Üyelikte boşalma hâlinde seçim
-MADDE 27 – (1) Kurul üyeliklerinin ölüm, emeklilik, istifa ve benzeri nedenlerle boşalması hâlinde, Cumhurbaşkanı tarafından seçilen üyelikler için, boşalmayı takip eden altmış gün içinde, kalan süreyi tamamlamak üzere, yeni üyelerin seçimi yapılır. Diğer üyeliklerin boşalması hâlinde, asıl üyenin yedeği tarafından kalan süre tamamlanır.
-(2) Genel Kurulun toplantı yeter sayısını oluşturamayacak şekilde üyeliklerde boşalma olması hâlinde, boşalan asıl ve yedek üyelikler için altmış gün içinde yeniden seçim yapılır. Bu seçim sonucunda asıl ve yedek üyeliğe seçilenler, yerine seçildikleri üyelerin kalan sürelerini tamamlar.
+MADDE 27 – (Değişik: 2/7/2018-KHK-703/208 md.)
+(1) Kurul üyeliğinin ölüm, emeklilik, istifa ve benzeri nedenlerle boşalması hâlinde durum, ilgisine göre Cumhurbaşkanlığına veya Türkiye Büyük Millet Meclisi Başkanlığına derhal bildirilir ve boşalmayı takip eden otuz gün içinde, yeni üye seçimi yapılır.

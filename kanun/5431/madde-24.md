@@ -1,7 +1,2 @@
 Havacılık uzmanlığı ve havacılık uzman yardımcılığı
-Madde 24- Genel Müdürlükte, bu Kanunda belirtilen görevlerin yerine getirilmesinde havacılık uzmanı ve havacılık uzman yardımcısı istihdam edilir. Havacılık uzmanı ve uzman yardımcılığı pozisyonlarında görev alabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartlara ek olarak aşağıdaki nitelikler aranır:
-a) (Değişik: 24/10/2011-KHK-661/73 md.) En az dört yıllık eğitim veren yükseköğretim kurumlarının veya bunlara denkliği kabul edilen yurtdışındaki yükseköğretim kurumlarının havacılık, uçak/uzay, makine, elektrik-elektronik, elektronik ve haberleşme, inşaat, bilgisayar, endüstri, meteoroloji, mimarlık, hukuk, iktisat, uluslararası ilişkiler, ekonomi, maliye, işletme ve kamu yönetimi bölümleri ile Genel Müdürlüğün görev alanına giren ve yönetmelikle belirlenen diğer bölümlerden veya en az dört yıllık eğitim veren hava harp okulundan mezun olmak.
-b) Yapılacak yarışma ve yeterlik sınavında başarılı olmak.
-c) Sınavın yapıldığı yılın ocak ayının ilk gününde otuzbeş yaşını doldurmamış olmak.(1)
-d) İngilizce Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C) düzeyinde puan veya uluslararası kabul görmüş yabancı dil seviye tespit sınavlarından bu puana denk puan almak.
-Havacılık uzmanları ve havacılık uzman yardımcılarının mesleğe alınmaları, yetiştirilmeleri, yarışma sınavı, tez konularının belirlenmesi, tez hazırlama, tez değerlendirme ve yeterlik sınavı ile eğitimleri yönetmelikle düzenlenir.
+Madde 24- (Mülga: 2/7/2018-KHK-703/89 md.)

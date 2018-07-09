@@ -2,6 +2,6 @@
 Nasıp
 I – Subaylığın nasıp ve terfi onayı:
 Madde 34 – (Değişik: 11/2/2014-6519/25 md.)
-Subaylığa nasıp, ilgili kuvvet komutanının (Jandarma subayları için Jandarma Genel Komutanının, Sahil Güvenlik subayları için Sahil Güvenlik Komutanının) teklifi ve Genelkurmay Başkanının lüzum göstermesi üzerine, Millî Savunma Bakanı (Jandarma ve Sahil Güvenlik subayları için İçişleri Bakanı) onayı ile yapılır.
-Asteğmen-albay rütbeleri arasında rütbe terfileri, ilgili kuvvet komutanlığı (Jandarma subayları için Jandarma Genel Komutanlığı, Sahil Güvenlik subayları için Sahil Güvenlik Komutanlığı) Kurmay Başkanının onayı ile yapılır.
-Albaylıktan tuğgeneral/tuğamiral rütbelerine terfiler ile general ve amirallikte bir üst rütbeye terfiler 54 üncü maddede belirtilen esaslarla Millî Savunma Bakanı (Jandarma ve Sahil Güvenlik subayları için İçişleri Bakanı) ile Başbakanın imzalayacağı ve Cumhurbaşkanının onaylayacağı kararname ile yapılır.
+(Değişik birinci fıkra: 2/1/2017-KHK-681/17 md.; Aynen kabul: 1/2/2018-7073/17 md.) Subaylığa nasıp Milli Savunma Bakanının onayı ile yapılır.
+(Mülga ikinci fıkra: 2/7/2018 – KHK/703/127 md.)
+(Mülga üçüncü fıkra: 2/7/2018 – KHK/703/127 md.)

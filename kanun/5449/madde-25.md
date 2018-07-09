@@ -1,6 +1,5 @@
 Denetim
-Madde 25 — Ajanslarda iç ve dış denetim yapılır.
-İç denetimde; ajansın faaliyetleri, hesapları, işlemleri ve performansı yönetim kurulu başkanı veya genel sekreter ile bir iç denetçi tarafından denetlenir. İç denetim raporları yönetim kuruluna ve kalkınma kuruluna sunulur.
-9695
-Dış denetimde; İçişleri Bakanlığı ve Maliye Bakanlığı ile Devlet Planlama Teşkilatı Müsteşarlığınca müştereken belirlenecek esas ve usûllere göre ajansın her türlü hesap ve işlemleri, yönetim kurulu tarafından her yıl en geç mart ayında ve gerekli görülen hallerde her zaman Sermaye Piyasası Kurulu mevzuatına göre kurulmuş bağımsız denetim kuruluşlarına inceletilir. Bağımsız dış denetim kuruluşları, hazırladıkları raporu eş zamanlı olarak İçişleri Bakanlığı ve Devlet Planlama Teşkilatı Müsteşarlığına sunar. Denetim sonucu suç teşkil eden hususlarla ilgili gerekli işlemleri yapmaya İçişleri Bakanlığı, performansla ilgili değerlendirmeleri yapmaya ve gerekli tedbirleri almaya Devlet Planlama Teşkilatı Müsteşarlığı yetkilidir.
-Bu maddeye göre bağımsız denetim yapan kuruluşların ortakları, yöneticileri ve çalışanlarının cezai sorumluluğu hakkında 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununun 47 nci maddesinin (B) bendinin (3) numaralı alt bendi ile 48 ve 49 uncu maddeleri hükümleri uygulanır.
+Madde 25 — (Mülga birinci fıkra:2/7/2018-KHK-703/75 md.)
+(Mülga ikinci fıkra:2/7/2018-KHK-703/75 md.)
+(Mülga üçüncü fıkra:2/7/2018-KHK-703/75 md.)
+Kalkınma Ajanslarında bağımsız denetim yapan kuruluşların ortakları, yöneticileri ve çalışanlarının cezai sorumluluğu hakkında 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununun 47 nci maddesinin (B) bendinin (3) numaralı alt bendi ile 48 ve 49 uncu maddeleri hükümleri uygulanır.[6]

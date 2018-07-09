@@ -1,4 +1,4 @@
 ÜÇÜNCÜ KISIM
 Taşra Teşkilatı
 Taşra teşkilatı
-Madde 18 – Genel Müdürlük, genel hükümlere göre taşra teşkilatı kurmaya yetkilidir.
+Madde 18 – (Mülga: 2/7/2018-KHK-703/79 md.)

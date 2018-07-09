@@ -1,4 +1,4 @@
 BEŞİNCİ KISIM
 Çeşitli Hükümler
 Silahlı Kuvvetlerle münasebetlerin düzenlenmesi
-Madde 25 – Silahlı Kuvvetlere destek sağlamada uyulacak esaslar, Silahlı Kuvvetlerin ve Meteoroloji Genel Müdürlüğünün karşılıklı ihtiyaçları esas alınarak hazırlanacak bir yönetmelikle düzenlenir.
+Madde 25 – (Mülga: 2/7/2018-KHK-703/79 md.)

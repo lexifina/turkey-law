@@ -1,2 +1,2 @@
 Mahalli İdarelerle koordinasyon sorumluluğu
-Madde 21 – Genel Müdürlük hizmet alanına giren konularda mahalli idarelerle koordinasyon sağlamaktan sorumludur.
+Madde 21 – (Mülga: 2/7/2018-KHK-703/79 md.)

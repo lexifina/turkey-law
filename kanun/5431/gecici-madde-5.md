@@ -1,2 +1,1 @@
-Geçici Madde 5- Ekli (II) sayılı cetvelde yer alan havacılık uzmanı unvanlı pozisyon adedinin beşte birini geçmemek üzere; Bakanlığın doğrudan sivil havacılık konularıyla ilgili birimlerinde çalışan ve 24 üncü maddenin birinci fıkrasının (a) ve (d) bentlerinde belirtilen şartları taşıyanlar, Genel Müdürlük tarafından bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde yaptırılacak en fazla iki yarışma sınavından birinden en az yetmiş puan almak, Genel Müdürlüğün görev alanıyla ilgili tez hazırlamak ve Genel Müdürlükçe açılacak yeterlik sınavında başarılı olmak kaydıyla, başarı sıralamasına göre durumlarına uygun havacılık uzmanı pozisyonlarına atanabilirler.
-9662
+Geçici Madde 5- (Mülga: 2/7/2018-KHK-703/89 md.)

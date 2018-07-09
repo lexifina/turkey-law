@@ -1,8 +1,2 @@
 Tarımsal Destekleme ve Yönlendirme Kurulu
-MADDE 16 – Bu Kanunun 17 nci maddesi ile verilen görevleri yerine getirmek üzere Tarımsal Destekleme ve Yönlendirme Kurulu kurulmuştur.
-Kurul üyeleri; Tarım ve Köyişleri Bakanının başkanlığında, Tarım ve Köyişleri Bakanlığı, Maliye Bakanlığı, Sanayi ve Ticaret Bakanlığı, Çevre ve Orman Bakanlığı, Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı ve Dış Ticaret Müsteşarlığı müsteşarları ile Bakan onayı ile belirlenecek Bakanlık genel müdüründen oluşur. Kurul, Bakanın bulunmadığı durumlarda, Bakanlık müsteşarının başkanlığında toplanır.
-Kurul, yılda en az iki kez toplanır. Toplantılardan birinin, yıllık bütçe kanunu tasarısının hazırlanma döneminde, diğerinin ise bütçe kesinleştikten sonra yapılması esastır. Ayrıca Kurul, Tarım ve Köyişleri Bakanının daveti üzerine de toplanabilir. Kurul, yıl içerisindeki uygulamalarla ilgili olarak danışma, izleme ve değerlendirmelerde bulunmak ve uygulamaya dönük tedbirler almak üzere, kamu kuruluşları, ilgili meslek kuruluşları, sivil toplum örgütleri ve özel sektör kuruluşları temsilcilerinden oluşan "Teknik Komiteler" kurar.
-9729
-Kurul, üye tam sayısının en az üçte ikisinin katılımı ile toplanır. Kararlar çoğunlukla alınır. Oyların eşit olması durumunda başkanın oyu ağırlıklıdır.
-Kurul görev alanı ile ilgili her türlü belge ve bilgiyi kamu, sivil toplum örgütleri ve özel sektör kuruluşları ile gerçek ve tüzel kişilerden isteyebilir. İstenen bilgiler tam ve doğru olarak, talep edilen süre içerisinde Kurula verilir.
-Kurul ve teknik komitelerin sekretarya hizmetleri, Bakan onayı ile belirlenecek Bakanlık birimi tarafından yürütülür.
+MADDE 16 – (Mülga: 2/7/2018-KHK-703/202 md.)

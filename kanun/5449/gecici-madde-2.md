@@ -1,1 +1,1 @@
-Geçici Madde 2 — İlk yıl için ajansta istihdam edilebilecek olan azamî personel sayısı kuruluş kararnamesinde belirtilir.
+Geçici Madde 2 — (Mülga:2/7/2018-KHK-703/75 md.)

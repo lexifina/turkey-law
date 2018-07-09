@@ -1,2 +1,2 @@
 Posta hizmetlerini temsil eden Kurul üyesinin atanması
-GEÇİCİ MADDE 2 – (1) Bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde 2813 sayılı Kanunun 8 inci maddesine göre posta hizmetlerini temsilen Kurula bir üye atanır. Kurulda telekomünikasyon hizmetlerini temsilen bulunan üyelerden görev süresi ilk sona eren üyenin görevi sona erinceye kadar, Kurul sekiz üye olarak çalışmaya devam eder. Kurulda telekomünikasyon hizmetlerini temsilen bulunan üyelerden görev süresi ilk sona eren üyenin yerine atama yapılmaz ve bu kadro başka bir işleme gerek kalmaksızın iptal edilmiş sayılır.
+GEÇİCİ MADDE 2 –(Mülga: 2/7/2018-KHK-703/87 md.)

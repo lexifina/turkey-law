@@ -1,2 +1,2 @@
 Teşkilât
-Madde 19- Türkiye İstatistik Kurumu; İstatistik Konseyi ve Türkiye İstatistik Kurumu Başkanlığından oluşur.
+Madde 19- (Mülga: 2/7/2018 – KHK-703/99 md.)

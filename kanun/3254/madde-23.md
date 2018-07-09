@@ -1,2 +1,2 @@
 Yetki devri
-Madde 23 – Genel Müdür ve her kademedeki kuruluş yöneticileri sınırlarını açıkça belirlemek şartıyla yetkilerinden bir kısmını astlarına devredebilir. Yetki devri yetki devreden amirin sorumluluğunu kaldırmaz.
+Madde 23 – (Mülga: 2/7/2018-KHK-703/79 md.)

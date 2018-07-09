@@ -1,6 +1,6 @@
 Personel, atama usulü ve kadrolar
-MADDE 10- (1) Genel Müdürlük personeli 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununa tâbidir.
-(2) 23/4/1981 tarihli ve 2451 sayılı Bakanlıklar ve Bağlı Kuruluşlarda Atama Usulüne İlişkin Kanun hükümlerinde belirtilenler dışında kalan personelin atamaları Genel Müdür tarafından yapılır. Teftiş Kurulu Başkanı, daire başkanları ile iç denetçiler Genel Müdürün teklifi üzerine Bakan onayı ile atanır.
-(3) Genel Müdürlük kadrolarının tespiti, kullanımı ve iptali ile kadrolara ilişkin diğer hususlar 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname hükümlerine tâbidir.
-(4) Müşavir kadrolarına, Genel Müdürlükte daire başkanı, dengi ve üstü kadrolarla bölge müdürü kadrolarında en az altı ay süre ile görev yapanlar arasından atama yapılır.
+MADDE 10- (1) (Mülga:2/7/2018-KHK-703/76 md.)
+(2) (Mülga:2/7/2018-KHK-703/76 md.)
+(3) (Mülga:2/7/2018-KHK-703/76 md.)
+(4) (Mülga:2/7/2018-KHK-703/76 md.)
 (5) (Ek: 6/2/2014-6518/109 md.) Genel Müdürlüğün Teknik Hizmetler Sınıfına ait kadrolarına Kamu Personel Seçme Sınavı (B) Grubu puan sırasına göre ilk defa açıktan atanacak personel, alım yapılacak her bir unvan için boş kadro sayısının üç katına kadar çağrılacak adaylar arasından Genel Müdürlükçe yapılacak sözlü sınav başarı sırasına göre atanır. Genel Müdürlük kadrolarına yapılacak atama ve nakil işlemlerine ilişkin usul ve esaslar yönetmelikle düzenlenir.

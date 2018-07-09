@@ -1,2 +1,2 @@
 Yürürlükten kaldırılan hükümler
-Madde 33 – 3127 sayılı Türkiye Cumhuriyeti Devlet Meteoroloji Umum Müdürlüğü Teşkilat ve Vazifelerine Dair Kanun ile ek ve değişiklikleri yürürlükten kaldırılmıştır.
+Madde 33 – (Mülga: 2/7/2018-KHK-703/79 md.)

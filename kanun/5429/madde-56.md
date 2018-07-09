@@ -1,5 +1,2 @@
-Atama (1)
-Madde 56 - (İptal birinci fıkra: Anayasa Mahkemesi’nin 19/12/2005 tarihli ve E.:2005/143, K.:2005/99 sayılı Kararı ile; Yeniden Düzenleme: 17/5/2006-5503/3 md.) Başkanlıkta, Başkan Yardımcıları, Birinci Hukuk Müşaviri, Daire Başkanları ve Bölge Müdürleri, Başkanın önerisi üzerine müşterek kararname ile bunların dışında kalan diğer personelin atamaları ise Başkan tarafından yapılır.
-Başkanlıkta; Daire Başkanı ve Bölge Müdürü kadrolarına yapılacak atamalarda, 657 sayılı Devlet Memurları Kanununda öngörülen genel şartlara ilâve olarak en az dört yıllık eğitim veren yüksek öğretim kurumlarından ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki yüksek öğretim kurumlarından mezun olmak şartları aranır.
-Ayrıca, ana hizmet birimi Daire Başkanlıkları, Strateji Geliştirme Daire Başkanı ve Bölge Müdürü kadrolarına atanmak için İngilizce, Fransızca, Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında en az (C) düzeyinde belge almış veya buna denk kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olmak şarttır.
-Başkanlığın merkez ve taşra teşkilâtlarında görevlendirilecek personelin yer değiştirme suretiyle atanmaları ile yükselme usûl ve esasları yönetmeliklerle düzenlenir.
+Atama
+Madde 56 - (Mülga: 2/7/2018 – KHK-703/99 md.)

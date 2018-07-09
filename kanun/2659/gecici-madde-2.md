@@ -1,1 +1,1 @@
-Geçici Madde 2– Yeni yönetmelikler çıkarılıncaya kadar, mevcut tüzük ve yönetmeliklerin bu kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Geçici Madde 2– (Mülga: 2/7/2018 – KHK-703/61 md.)

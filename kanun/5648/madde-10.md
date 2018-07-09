@@ -1,6 +1,2 @@
 Proje Değerlendirme ve Seçim Komisyonu
-MADDE 10 – (1) Komisyon; Kurum Başkanının başkanlığında, asgarî daire başkanı düzeyinde olmak kaydıyla, Bakan tarafından farklı ana hizmet birimlerinden belirlenecek en fazla dört Bakanlık temsilcisi, İçişleri, Bayındırlık ve İskan, Sanayi ve Ticaret, Kültür ve Turizm ile Çevre ve Orman Bakanlıklarının birer daimî temsilcisinden oluşur. Başkan, gerekli durumlarda ilgili diğer kamu kurum ve kuruluşlarından en fazla üç temsilciyi toplantılara davet edebilir. Daimî temsilcilerin görev süresi azamî iki yıl olup, görev süresi tamamlanmadan herhangi bir şekilde üyeliklerinin sona ermesi halinde, kalan süreleri sırasına göre yedek üyelerce tamamlanır. Görevi sona eren üyeler tekrar seçilebilir.
-_______________________
-(1) Bu madde başlığı “İzleme ve Yönlendirme Komitesi” iken, 26/11/2008 tarihli ve 5818 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-10090
-(2) Komisyon, Başkanın daveti üzerine üye tam sayısının yarısından bir fazlası ile her ay en az bir defa toplanır. Komisyon toplantılarına Başkanın yokluğunda Başkanın görevlendireceği bir Genel Koordinatör başkanlık eder. Komisyon toplantıya katılanların oy çokluğu ile karar alır. Eşitlik durumunda, Başkanın oyu yönünde karar alınır.
+MADDE 10 – (Mülga:2/7/2018-KHK-703/93 md.)

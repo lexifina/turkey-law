@@ -1,9 +1,2 @@
 Kurumun görevleri
-Madde 3 - Kurumun görevleri şunlardır:
-a) Ulusal istihdam politikasının oluşturulmasına ve istihdamın korunmasına, geliştirilmesine ve işsizliğin önlenmesi faaliyetlerine yardımcı olmak, işsizlik sigortası işlemlerini yürütmek.
-b) İşgücü piyasası verilerini, yerel ve ulusal bazda derlemek, analiz etmek, yorumlamak ve yayınlamak, İşgücü Piyasası Bilgi Danışma Kurulunu oluşturmak ve Kurul çalışmalarını koordine etmek, işgücü arz ve talebinin belirlenmesine yönelik işgücü ihtiyaç analizlerini yapmak, yaptırmak.
-c) İş ve meslek analizleri yapmak, yaptırmak, iş ve meslek danışmanlığı hizmetleri vermek, verdirmek, işgücünün istihdam edilebilirliğini artırmaya yönelik işgücü yetiştirme, mesleki eğitim ve işgücü uyum programları geliştirmek ve uygulamak, istihdamdaki işgücüne eğitim seminerleri düzenlemek.
-d) İşçi isteme ve iş aramanın düzene bağlanmasına ilişkin çalışmalar yapmak, işgücünün yurt içinde ve yurt dışında uygun oldukları işlere yerleştirilmelerine ve çeşitli işler için uygun işgücü bulunmasına ve yurt dışı hizmet akitlerinin yapılmasına aracılık etmek, istihdamında güçlük çekilen işgücü ile işyerlerinin yasal olarak çalıştırmak zorunda oldukları işgücünün istihdamlarına katkıda bulunmak, özel istihdam bürolarına ilişkin Kuruma verilen görevleri yerine getirmek, işverenlerin yurt dışında kendi iş ve faaliyetlerinde çalıştıracağı işçileri temin etmesi ile tarım işlerinde ücretli iş ve işçi bulma aracılığına izin verilmesi ve kaldırılmasına ilişkin işlemleri yapmak.
-e) Gerektiğinde Kurum faaliyet alanı ile ilgili ihalelere katılmak suretiyle, yurt içinde veya uluslararası düzeyde kurum ve kuruluşlara eğitim ve danışmanlık hizmeti vermek.
-f) Avrupa Birliği ve uluslararası kuruluşların işgücü, istihdam ve çalışma hayatına ilişkin olarak aldıkları kararları izlemek, Türkiye Cumhuriyeti Hükümeti'nin taraf olduğu Kurumun görev alanına giren ikili ve çok taraflı anlaşma, sözleşme ve tavsiye kararlarını uygulamak.
-g) (Ek: 11/10/2011-KHK-665/16 md.) Bakanlığın mevzuattan kaynaklanan ve taşrada yürütülmesi gereken görevlerini yapmak.
+Madde 3 - (Mülga: 2/7/2018 – KHK-703/74 md.)

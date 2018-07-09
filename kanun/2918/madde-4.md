@@ -1,25 +1,15 @@
 İKİNCİ KISIM
-Kuruluşlar, Komisyonlar, Görev ve Yetkileri (1)
-Görevli kurullar ve kuruluşlar: (1)(2)
-Madde 4 – (Değişik: 17/10/1996 - 4199/2 md.)
+Kuruluşlar, Komisyonlar, Görev ve Yetkileri[4]
+Görevli kurullar ve kuruluşlar:4
+Madde 4 – (Değişik: 17/10/1996-4199/2 md.)
 Karayolu güvenliği konusunda hedefleri tespit etmek, uygulatmak ve koordinasyonu sağlamak amacıyla aşağıdaki kurullar oluşturulmuştur.
-a) (Değişik birinci paragraf: 6/2/2014-6518/31 md.) Karayolu Güvenliği Yüksek Kurulu;
-Karayolu Güvenliği Yüksek Kurulu, Başbakanın veya görevlendireceği Başbakan Yardımcısının başkanlığında, Adalet Bakanı, Aile ve Sosyal Politikalar Bakanı, Bilim, Sanayi ve Teknoloji Bakanı, Çevre ve Şehircilik Bakanı, İçişleri Bakanı, Kalkınma Bakanı, Maliye Bakanı, Millî Eğitim Bakanı, Orman ve Su İşleri Bakanı, Sağlık Bakanı, Ulaştırma, Denizcilik ve Haberleşme Bakanı ile Jandarma Genel Komutanı, Emniyet Genel Müdürü ve Karayolları Genel Müdüründen oluşur. Karayolu Trafik Güvenliği Kurulu Başkanı, gerektiğinde Kurula bilgi sunmak üzere toplantıda hazır bulunur.
-Gereği halinde diğer bakanlar da Kurula çağrılabilir.
-Karayolu Güvenliği Yüksek Kurulu, Trafik Hizmetleri Başkanlığınca hazırlanarak, Karayolu Trafik Güvenliği Kurulunca uygun görülen önerileri değerlendirerek karara bağlar ve kararlarının yaşama geçirilmesi için gerekli koordinasyon önlemlerini belirler.
-Kurul yılda bir defa olağan, Başbakanın gerek görmesi halinde de olağanüstü olarak, gündemle toplanır. (2)
-Kurulun sekreterya görevi Emniyet Genel Müdürlüğünce yapılır.
-Kurulun çalışmasına ilişkin esas ve usuller, Bakanlar Kurulu tarafından çıkarılacak yönetmelikle belirlenir.
+a) (Mülga: 2/7/2018-KHK-703/188 md.)
 b) Karayolu Trafik Güvenliği Kurulu;
-Karayolu Trafik Güvenliği Kurulu Emniyet Genel Müdürlüğü Trafik Hizmetleri Başkanının başkanlığında, Karayolu Güvenliği Yüksek Kurulu'na katılan kamu kurumlarının en az daire başkanı seviyesinde görevlileri; Jandarma Genel Komutanlığı, Türk Standartları Enstitüsü Başkanlığı, Türkiye Şoförler ve Otomobilciler Federasyonu temsilcisi ile İçişleri Bakanlığınca uygun görülen trafikle ilgili üniversite, Türkiye Mimar ve Mühendis Odaları Birliği Türkiye Trafik Kazalarını Önleme Derneği ve Trafik Kazaları Yardım Vakfının birer temsilcisi ve Başkent Büyükşehir Belediye Başkanından oluşur. İhtiyaç duyulan konularda bilgilerine başvurmak üzere diğer kurum ve kuruluşlardan temsilci çağrılabilir.
-Kurul üç ayda bir toplanır, zorunlu hallerde başkan tarafından toplantıya çağrılabilir. (2)
-Karayolu Trafik Güvenliği Kurulu, Trafik Hizmetleri Başkanlığınca Trafik hizmetlerinin çağdaş ve güvenli bir şekilde yürütülmesi amacıyla önerilen veya katılacak temsilcilerce önerilecek önlemlerin uygulanabilirliğini tartışarak karara bağlar.
-Kurul katılması gereken üyelerin salt çoğunluğu ile toplanır ve katılanların çoğunluğu ile karar verir.
-Kurulun sekreterya görevi ilgili daire başkanlığınca yapılır.
-——————————
-(1) Kısım başlığı ile madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 2 nci maddesi ile değiştirilmiş ve metne işlenmiştir.
-(2) 6/2/2014 tarihli ve 6518 sayılı Kanunun 31 inci maddesiyle, bu maddenin dördüncü paragrafında yer alan “iki” ibaresi “bir” şeklinde, (b) bendinin ikinci paragrafında yer alan “ayda” ibaresi “üç ayda” şeklinde değiştirilmiştir.
-6052-2
+(Mülga birinci paragraf: 2/7/2018-KHK-703/188 md.)
+(Mülga ikinci paragraf: 2/7/2018-KHK-703/188 md.)
+(Mülga üçüncü paragraf: 2/7/2018-KHK-703/188 md.)
+(Mülga dördüncü paragraf: 2/7/2018-KHK-703/188 md.)
+(Mülga beşinci paragraf: 2/7/2018-KHK-703/188 md.)
 Kurulun görev ve yetkileri şunlardır;
 1. Trafikle ilgili kuruluşlar arasında koordinasyon sağlanmasına ilişkin önerilerde bulunmak,
 2. Trafik kazalarının azaltılmasına ilişkin önerilerde bulunmak,
@@ -29,4 +19,3 @@ Bu Kanunla ve trafik hizmetleri konusunda diğer kanunlarla verilen görevler;
 a) İçişleri Bakanlığınca,
 b) Bu Kanunla yetkili kılınan diğer bakanlık, kuruluş ve belediyelerce, İçişleri Bakanlığı ile işbirliği içinde,
 Yürütülür.
-Emniyet Genel Müdürlüğünün,merkez, bölge,il ve ilçe trafik kuruluşları, görev ve yetkileri:

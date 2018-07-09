@@ -1,1 +1,1 @@
-Geçici Madde 2- Bu Kanunun yürürlüğe girdiği tarihten önce Enstitü Başkanı, Başkan Yardımcısı ve Yönetim Kurulu Üyesi olarak atananların görev süreleri, bu Kanunun yürürlüğe girdiği tarihte sona erer.
+Geçici Madde 2- (Mülga: 2/7/2018-KHK-703/86 md.)

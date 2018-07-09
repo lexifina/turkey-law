@@ -1,10 +1,4 @@
 İKİNCİ BÖLÜM
 Kurumun Organları
 Organlar
-Madde 4 - Kurum aşağıdaki organlardan oluşur:
-a) Genel Kurul.
-b) Yönetim Kurulu.
-c) Genel Müdürlük.
-d) İl İstihdam Kurulları.
-Kurum teşkilatı ekli (1) sayılı listede gösterilmiştir.
-8479
+Madde 4 - (Mülga: 2/7/2018 – KHK-703/74 md.)

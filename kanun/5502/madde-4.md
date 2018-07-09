@@ -1,8 +1,4 @@
 İKİNCİ BÖLÜM
 Kurumun Organları ve Görevleri
 Kurumun organları
-MADDE 4- Kurum, aşağıdaki organlardan oluşur:
-a) Genel Kurul.
-b) Yönetim Kurulu.
-c) Başkanlık.
-Kurumun teşkilât yapısı ekli (I) sayılı cetvelde gösterilmiştir.
+MADDE 4- (Mülga: 2/7/2018-KHK-703/88 md.)

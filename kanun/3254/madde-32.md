@@ -1,2 +1,2 @@
 Kadrolar
-Madde 32 – Kadroların tespit, ihdas, kullanımı ve iptali ile kadrolara ait diğer hususlar Genel Kadro ve Usulü Hakkındaki mevzuat hükümlerine göre düzenlenir.
+Madde 32 – (Mülga: 2/7/2018-KHK-703/79 md.)

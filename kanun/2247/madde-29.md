@@ -1,3 +1,3 @@
 Kararların kesinliği ve yayınlanması:
-Madde 29 – Bölümlerin ve Genel Kurulun kararları kesindir. İlke kararları ile Başkanın uygun göreceği Bölümlerin kararları Resmi Gazete'de yayımlanır.
-5166
+Madde 29 – (Değişik: 2/7/2018 – KHK-703/183 md.)
+Uyuşmazlık Mahkemesinin kararları kesindir. Başkanın uygun göreceği kararlar Resmî Gazete’de yayımlanır.

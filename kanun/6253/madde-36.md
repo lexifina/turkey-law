@@ -1,2 +1,2 @@
 Restorasyon işleri ve hizmet satın alma
-MADDE 36 – (1) TBMM Başkanlığının sorumluluğundaki tarihî bina ve objelerin onarımları ve restorasyonları ile çevre düzenlemesine ilişkin mal ve hizmet alımları ile münhasıran özel ihtisas gerektiren konularda TBMM Başkanınca mütalaa ve hukuki hizmet satın alma işleri 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu hükümlerine tabi olmaksızın Başkanlık Divanınca belirlenecek usul ve esaslar çerçevesinde gerçekleştirilir.
+MADDE 36- (Mülga: 2/7/2018-KHK-703/49 md.)[26]

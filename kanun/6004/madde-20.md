@@ -1,11 +1,8 @@
 MADDE 20- (1) Yurtdışı teşkilatı, Cumhuriyet Bayramı ve dini bayramların birinci günü ile Bakanlıkça belirlenen istisnalar dışında, mahalli tatil günlerinde tatil edilir.
-(2) Bakan, Müsteşar ve her kademedeki Bakanlık yöneticileri, sınırlarını açıkça belirtmek şartıyla yetkilerinden bir kısmını alt kademelere devredebilir. Yetki devri, yetkisini devreden amirin sorumluluğunu ortadan kaldırmaz.
-__________________
-(1) 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “sakatlık” ibaresi “engellilik” olarak değiştirilmiştir.
-10647
-(3) Meslek memurları ile konsolosluk ve ihtisas memurlarının sicillerinin verilmesinde, mesleğin özelliklerine göre, genel hükümlere ilave düzenlemeler yönetmelikle yapılabilir.
-(4) Bakanlık, kendi yapacağı yarışma sınavları ile alacağı memurlar başta olmak üzere, yurtiçi ve yurtdışı teşkilatında istihdam edeceği personel ve eşleri için güvenlik soruşturması yaptırabilir. Güvenlikle bağlantılı gerekçelerle, Bakanlık memurları evlenmeden önce Bakanlığın iznini almakla yükümlüdür. İzin almadan evlenen memurlar istifa etmiş sayılır.
-(5) Meslek memurları ve konsolosluk ve ihtisas memurlarının Bakanlığa alınabilmeleri için tam teşekküllü bir Devlet hastanesinden verilen, her türlü iklim şartında görev yapabileceklerine dair rapor ibraz etmeleri gereklidir. Hukuk müşavirleri ile danışmanlardan da Bakanlığa alınmaları sırasında bu raporu ibraz etmeleri istenebilir.
-(6) Yurtdışına atanmış bulunan Bakanlık memurları ile Bakanlık kadroları kullanılarak yurtdışına atanan diğer memurların bakmakla mükellef oldukları aile fertlerinin yurtdışında gelir getirici işlerde çalışmaları, ikili istihdam anlaşma hükümleri saklı kalmak üzere, diplomatik misyon veya konsolosluk şefinin yazılı iznine bağlıdır. Diplomatik misyon veya konsolosluk şefi bu izni, ancak çalışılacak işin Devletin itibarını zedelemeyeceğine ve ilgili memurun temsil görevini aksatmayacağına kanaat getirmesi halinde verebilir.
-(7) Bakanlık, yurtdışı temsilcilikleri bünyesindeki kançılarya binaları, misyon veya konsolosluk şefi konutları ve lojmanların bakım ve onarımı ile bunların güvenliklerini ilgilendiren hususlarda bütçe imkanları çerçevesinde gerekli her türlü tedbiri almaya yetkilidir.
-(8) Devlet konukevi olarak kullanılacak binaların kullanılması ve döner sermaye işletmeleri şeklinde işletilmesi görev, yetki ve sorumluluğu Bakanlığa aittir. Döner sermaye işletmeleri için kendi kaynaklarından karşılanmak üzere 500.000 Türk Lirası sermaye tahsis edilmiştir. Bu miktar Maliye Bakanlığının uygun görüşü üzerine Bakanlar Kurulunca beş katına kadar artırılabilir. Ödenmiş sermaye tutarı tahsis edilen sermaye tutarına ulaşıncaya kadar, elde edilen dönem sonu kârları ödenmiş sermayeye eklenir. Ödenmiş sermaye tutarı tahsis edilen sermaye tutarına ulaştıktan sonra elde edilen kârlar, hesap dönemini izleyen Nisan ayının sonuna kadar genel bütçeye gelir kaydedilmek üzere ilgili muhasebe birimi hesabına yatırılır. Döner sermaye işletmelerinin yönetimi, faaliyet alanları, işleyişi, sermaye kaynakları, idari ve mali işlemleri ile gelirlerine ilişkin usul ve esaslar Maliye Bakanlığının da görüşü alındıktan sonra yürürlüğe konulan yönetmelikle belirlenir. Bakanlıkça gerekli görüldüğü takdirde, Devlet konukevinin kullanma ve işletme görev, yetki ve sorumluluğu, ihtisas alanları da gözönünde tutularak kısmen resmi veya özel diğer kuruluşlara devredilebilir.
+(2) (Mülga: 2/7/2018-KHK-703/6 md.)
+(3) (Mülga: 2/7/2018-KHK-703/6 md.)
+(4) (Mülga: 2/7/2018-KHK-703/6 md.)
+(5) (Mülga: 2/7/2018-KHK-703/6 md.)
+(6) (Mülga: 2/7/2018-KHK-703/6 md.)
+(7) (Mülga: 2/7/2018-KHK-703/6 md.)
+(8) (Mülga: 2/7/2018-KHK-703/6 md.)

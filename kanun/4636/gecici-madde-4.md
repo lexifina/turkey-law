@@ -1,2 +1,1 @@
-Geçici Madde 4 – Millî Savunma Bakanlığının 657 sayılı Devlet Memurları Kanununa tâbi Devlet memuru kadrolarından 1405 adedi iptal edilmiştir. İptal edilen kadroların hangi unvan ve hangi dereceden olacağı, Millî Savunma Bakanı tarafından tespit edilir ve Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığına bildirilir.
-Ekli Listelerde yer verilen kadrolar ihdas edilerek, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki III sayılı cetvele "Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanlığı" bölümü olarak eklenmiştir.
+Geçici Madde 4 – (Mülga : 2/7/2018-KHK-703/81 md.)

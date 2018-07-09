@@ -1,2 +1,2 @@
 Davaya katılanların taraf sayılması:
-Madde 37 – Bir ceza davasına usulünce katılanlar dahi bu kanuna göre taraflara tanınan yetkileri kendisiyle birlikte işlem yapacakları tarafa veya savcıya bağlı olmaksızın kullanabilirler.
+Madde 37 – (Mülga: 2/7/2018 – KHK-703/183 md.)

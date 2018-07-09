@@ -1,2 +1,2 @@
 Uluslararası işbirliği
-Madde 51- Başkanlık, istatistikî bilgilerin en gelişmiş yöntemlerle elde edilmesi, veri ve yayın değişimi, eğitim, ortak proje geliştirme ve uygulama konularında diğer ülkelerin benzer kuruluşları, uluslararası ve uluslarüstü kuruluşların ilgili birimleri ile genel hükümler çerçevesinde ilişkiler kurabilir ve işbirliği yapabilir.
+Madde 51- (Mülga: 2/7/2018 – KHK-703/99 md.)

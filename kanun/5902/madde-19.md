@@ -1,4 +1,2 @@
-Sivil Savunma Arama ve Kurtarma Birlik Müdürlükleri
-MADDE 19 – (1) Başkanlık tarafından birlik müdürlüklerinin görev yerlerinin değiştirilmesi halinde, personel kadro ve pozisyonları ile birlikte yeni görev yerlerinin bulunduğu ilin il özel idaresine devredilmiş sayılır. Devredilen bu kadro ve pozisyonlar, il özel idaresi kadro cetvelinde ayrı bir bölüm halinde gösterilir.
-(2) Birinci fıkra çerçevesinde görev yeri değiştirilen sivil savunma arama kurtarma birliklerinde işçi statüsünde görev yapan personel bulunması halinde, işçinin hizmet süresinin esas alındığı haklarda, eski görev yerinde geçen hizmet süreleri de dikkate alınarak işlem yapılır. Aynı şekilde görev yeri değiştirilen sözleşmeli personelin iş sonu tazminatı hesabına esas alınacak hizmet süresinin tespitinde, eski görev yerinde sözleşmeli personel olarak geçen hizmet süreleri de dikkate alınarak işlem yapılır.
-(3) (Değişik: 13/2/2011-6111/186 md.) Müdürlükler bulundukları ilin il afet ve acil durum müdürlüğünün bünyesinde ve il afet ve acil durum müdürlüğü emrinde görev yaparlar.
+Afet ve Acil Durum Arama ve Kurtarma Birlik Müdürlükleri[4]
+MADDE 19 – (Mülga: 2/7/2018 – KHK-703/62 md.)

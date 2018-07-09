@@ -1,2 +1,2 @@
-Başkanlık Divanı
-MADDE 6 — Başkanlık Divanı; Konsey Başkanı , üç Konsey Başkan Yardımcısı ve Konsey Sekreteryasından sorumlu Müsteşardan oluşur.
+Başkanlık Divanı[8]
+Madde 6 – (Mülga: 2/7/2018 - KHK/703/109 md.)

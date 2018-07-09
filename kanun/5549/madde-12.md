@@ -1,2 +1,2 @@
 Uluslararası bilgi değişimi
-MADDE 12 – (1) Başkanlığın görev alanına giren konularda uluslararası bilgi değişimini teminen, yabancı ülkelerdeki muadil kurumlarla uluslararası antlaşma niteliğinde olmayan mutabakat muhtıraları imzalamaya ve imzalanan mutabakat muhtıralarını değiştirmeye Malî Suçları Araştırma Kurulu Başkanı yetkilidir. İmzalanacak mutabakat muhtıraları ve değişiklikleri Bakanlar Kurulu kararıyla yürürlüğe girer.
+MADDE 12 – (Mülga: 2/7/2018-KHK-703/15 md.)

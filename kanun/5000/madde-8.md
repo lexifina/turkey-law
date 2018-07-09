@@ -1,2 +1,1 @@
-Danışma Kurulunun görevleri
-Madde 8- Danışma Kurulu, Enstitünün faaliyetleri çerçevesinde ve Enstitüye yardımcı olmak maksadıyla; Türkiye'nin teknolojik gelişimine ve sınaî mülkiyet haklarının etkin biçimde korunmasına, rekabet ortamının yaratılmasına ilişkin olarak, Enstitünün çalışma ilkeleri, faaliyet raporu, bütçe ve çalışma programları hakkında düşünce bildirir ve tavsiyelerde bulunur.
+Madde 8- (Mülga: 2/7/2018-KHK-703/86 md.)

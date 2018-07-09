@@ -1,15 +1,4 @@
 DÖRDÜNCÜ BÖLÜM
 Personel Rejimi, Bütçe ve Denetim
 Ajans personelinin nitelik, statü ve hakları
-MADDE 18 — Ajans hizmetleri, iş mevzuatı hükümlerine göre istihdam edilen uzman personel ve destek personeli eliyle yürütülür. Ayrıca, ajanslarda iç denetim yapmak üzere bir iç denetçi istihdam edilir. Sekreterlik, halkla ilişkiler, arşiv, idarî, malî ve personelle ilgili işlemler gibi işleri yürütecek olan destek personelinin sayısı, ajans toplam personel sayısının yüzde yirmisini geçemez.
-Uzman personel ve iç denetçi, hukuk, iktisat, maliye, işletme, kamu yönetimi, uluslar-arası ilişkiler, istatistik, çalışma ekonomisi ve endüstri ilişkileri, matematik, sosyoloji, mimarlık, şehir ve bölge plânlama ile mühendislik dallarından veya bunlara denkliği Yüksek-öğretim Kurulunca kabul edilen yurt dışındaki yüksek öğretim kurumlarından lisans düzeyinde mezun olmuş, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavında İngilizce dilinden en az 70 puan almış veya buna denk kabul edilen uluslararası geçerliliği bulunan belgeye sahip adaylar arasından istihdam edilir. Ayrıca, iç denetçide kamuda denetim elemanı olarak en az on yıl çalışmış olma şartı aranır.
-9692
-Kamu kurum ve kuruluşlarında çalışanlardan, bu Kanunda belirtilen nitelikleri taşıyanlar, kendilerinin isteği ve kurumlarının muvafakati ile ajansta genel sekreter, iç denetçi veya uzman personel olarak istihdam edilebilir. Bunların kurumlarıyla olan ilişkileri iş akdinin yapılmasıyla son bulur. Bunlara verilecek ücret ile diğer malî ve sosyal haklar yapılacak iş akdi ile belirlenir. Bu şekilde istihdam edilenler, ajanstaki görevleri sona erdiğinde, öğrenim durumları, hizmet yılı ve unvanları dikkate alınarak önceki kurumlarında kariyerlerine veya durumlarına uygun boş bir kadro veya pozisyona en geç üç ay içinde atanırlar ve herhangi bir işleme gerek kalmaksızın en geç bir ay içerisinde göreve başlatılırlar. Ancak, bu kişilerin atanmalarında, önceki kurumlarındaki idarî unvanlar dikkate alınmaz. (…) (1)Bu fıkra uyarınca önceki kurumlarına dönen kişilerin ajansta geçen hizmetleri kazanılmış hak aylık derece ve kademelerinde değerlendirilir. Bu durumda kıdem tazminatları ödenmez ve bu süreler emeklilik ikramiyesinin hesabında dikkate alınır. Bu şekilde görevlendirilecek personel sayısı toplam personel sayısının yüzde otuzunu aşamaz. (1)
-Ajans personeli, emeklilik ve sosyal güvenlik yönünden 17/7/1964 tarihli ve 506 sayılı Sosyal Sigortalar Kanununa tâbidir.
-Yönetim kurulu üyeleri ile genel sekreter ve ajansta istihdam edilecek tüm personelde;
-a) Türk Vatandaşı olmak,
-b) Kamu haklarından mahrum bulunmamak,
-c) Affa uğramış olsalar bile Devletin şahsiyetine karşı işlenen suçlarla, zimmet, ihtilas, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya istimal ve istihlak kaçakçılığı hariç kaçakçılık, resmî ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma suçlarından dolayı hükümlü bulunmamak,
-şartları aranır.
-Genel sekreter ile diğer personelin ücret ve gündelikleri ile diğer malî ve sosyal hakları Yüksek Planlama Kurulu kararıyla tespit edilen alt ve üst limitleri geçmemek üzere yönetim kurulunca belirlenir.
-Ajans personeline ilişkin tüm ihtilaflar iş mahkemelerinde görülür.
+Madde 18 — (Mülga:2/7/2018-KHK-703/75 md.)

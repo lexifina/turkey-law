@@ -1,2 +1,2 @@
 Genel Kurul
-GEÇİCİ MADDE 9 – (1) PTT A.Ş.’nin ilk Genel Kurulu oluşuncaya kadar, Bakanlık bu Kurulun görevlerini yapar ve yetkilerini kullanır.
+GEÇİCİ MADDE 9 – (Mülga: 2/7/2018-KHK-703/87 md.)

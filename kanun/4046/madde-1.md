@@ -7,17 +7,13 @@ c) Devletin diğer iştiraklerindeki kamu payları ile Hazineye ait payların,
 d) Genel ve katma bütçeli idareler ile bunlara bağlı döner sermayeli kuruluşların ve kamu iktisadi teşebbüslerinden kamu iktisadi kuruluşlarının gördükleri kamu hizmetleri ile doğrudan doğruya ilgili olmayan varlıklarının ve iştiraklerindeki paylarının,
 e) Belediye ve il özel idarelerine ait ticari amaçlı kuruluşlar ile pay oranlarına bakılmaksızın her türlü iştiraklerindeki paylarının,
 f) Genel ve katma bütçeli idarelerle bunlara bağlı döner sermayeli kuruluşların, mal ve hizmet üretim birimleri ve varlıkları (baraj, gölet, otoyol, yataklı tedavi kurumları, limanlar ve benzeri diğer mal ve hizmet üretim birimleri) ile bu Kanunun 35 inci maddesinin (B) fıkrasında belirtilen kamu iktisadi kuruluşlarının temel kuruluş amaçlarına uygun mal ve hizmet üretim birimlerinin işletilmesi haklarının,
-Ekonomide verimlilik artışı ve kamu giderlerinde azalma sağlamak için özelleştirilmelerine ilişkin esasları düzenlemektir.
+ekonomide verimlilik artışı, kamu giderlerinde azalma sağlamak, Hazineye ait taşınmazları değerlendirmek suretiyle kamuya gelir elde etmek gerekçelerinden birisi ile özelleştirilmelerine ilişkin esasları düzenlemektir.[2]
 B) Bu Kanun yukarıda belirtilen amaca yönelik olarak;
-a) "Özelleştirme Yüksek Kurulu"nun ve "Özelleştirme İdaresi Başkanlığı'nın kurulmasına, görev ve yetkilerinin belirlenmesine,
+a) (Mülga: 2/7/2018-KHK-703/85 md.)
 b) "Özelleştirme Fonu"nun ve "Kamu Ortaklığı Fonu"nun kurulmasına ve bu fonların kaynakları ile kullanım alanlarının belirlenmesine,
 c) "Özelleştirme uygulamaları"na,
 d) "Çalışanların Tasarruflarını Teşvik Hesabı"nda toplanan paraların nemalandırılmasına,
 e) Özelleştirme kapsamına alınan kuruluşlarda hizmet akdine dayalı olarak çalışan personelden özelleştirme uygulamaları sonucu işsiz kalabilecek olanlara mali ve sosyal haklar sağlanmasına,
-______________
-(1) Bu Kanunun adı " Özelleştirme Uygulamalarının Düzenlenmesine ve Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun" iken, 3/7/2005 tarihli ve 5398 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-7418
 f) Özelleştirme kapsamına alınan kuruluşlarda çalışan kamu personelinin özlük ve sosyal haklarına,
-İlişkin hükümleri kapsar.
-Genel ve katma bütçeli idarelerle bunlara bağlı döner sermayeli kuruluşların mal ve hizmet üretim birimleri ve varlıklarının (baraj, gölet, otoyol, yataklı tedavi kurumları, limanlar ve benzeri diğer mal ve hizmet üretim birimleri) işletme haklarının verilmesi veya kiralanması ile kamu iktisadi teşebbüsleri arasında yer alan ve 233 sayılı Kanun Hükmünde Kararnamede tanımlanmış bulunan "kamu iktisadi kuruluşlarının ve bunların müessese, bağlı ortaklık, işletme, işletme birimleri ve varlıklarının, mülkiyetin devri dışında kalan yöntemler ile özelleştirilmesi bu
-Kanun hükümlerine tabidir. Ancak, bu kuruluşların mülkiyetinin devrine ilişkin hususlar, kuruluşların gördükleri kamu hizmetinin esaslarına ve özelliklerine göre ayrı kanunlarla düzenlenir.
+ilişkin hükümleri kapsar.
+Genel ve katma bütçeli idarelerle bunlara bağlı döner sermayeli kuruluşların mal ve hizmet üretim birimleri ve varlıklarının (baraj, gölet, otoyol, yataklı tedavi kurumları, limanlar ve benzeri diğer mal ve hizmet üretim birimleri) işletme haklarının verilmesi veya kiralanması ile kamu iktisadi teşebbüsleri arasında yer alan ve 233 sayılı Kanun Hükmünde Kararnamede tanımlanmış bulunan "kamu iktisadi kuruluşlarının ve bunların müessese, bağlı ortaklık, işletme, işletme birimleri ve varlıklarının, mülkiyetin devri dışında kalan yöntemler ile özelleştirilmesi bu Kanun hükümlerine tabidir. Ancak, bu kuruluşların mülkiyetinin devrine ilişkin hususlar, kuruluşların gördükleri kamu hizmetinin esaslarına ve özelliklerine göre ayrı kanunlarla düzenlenir.

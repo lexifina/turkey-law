@@ -1,2 +1,2 @@
 Yürürlükten kaldırılan kanun:
-Madde 37– 11 Temmuz 1953 tarihli ve 6119 sayılı Adli Tıp Müessesesi Kanunu yürürlükten kaldırılmıştır.
+Madde 37– (Mülga: 2/7/2018 – KHK-703/61 md.)

@@ -1,2 +1,2 @@
-Gelir ve giderleri etkileyecek kanun tasarıları
-Madde 14- Merkezî yönetim kapsamındaki kamu idareleri; kamu gelirlerinin azalmasına veya kamu giderlerinin artmasına neden olacak ve kamu idarelerini yükümlülük altına sokacak kanun tasarılarının getireceği malî yükü, orta vadeli program ve malî plan çerçevesinde, en az üç yıllık dönem için hesaplar ve tasarılara eklerler. Sosyal güvenliğe yönelik kanun tasarılarında ise en az yirmi yıllık aktüeryal hesaplara yer verilir. Ayrıca, bu kanun tasarılarına Maliye Bakanlığı ile ilgisine göre Devlet Planlama Teşkilatı Müsteşarlığı veya Hazine Müsteşarlığının görüşleri eklenir.(1)
+Gelir ve giderleri etkileyecek kanun teklifleri
+Madde 14- (Başlığı ile Birlikte Değişik: 2/7/2018-KHK-703/213 md.) (İptal Madde: Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.)

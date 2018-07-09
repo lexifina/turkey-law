@@ -1,2 +1,1 @@
-Geçici Madde 2 – Bu Kanunla yapılan yeni düzenleme sebebi ile kadro ve görev unvanları değişmeyenler yeni kadrolarına atanmış sayılırlar.
-Kadro ve görev unvanları değişenler veya kaldırılanlar, yeni bir kadroya atanıncaya kadar durumlarına uygun işlerde görevlendirilirler ve eski kadrolarına ait aylık, ek gösterge ve hertürlü hakları, yeni görevlerinde kaldıkları sürece şahıslarına bağlı olarak saklı tutulur.
+Geçici Madde 2 – (Mülga: 2/7/2018-KHK-703/79 md.)

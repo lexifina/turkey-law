@@ -1,7 +1,2 @@
 Diğer geçiş hükümleri
-GEÇİCİ MADDE 6- (1) Bu Kanunla kadroları iptal edilen personelden kadro unvanları değişmeyenler ihdas edilen aynı unvanlı kadrolara atanmış sayılır. Bu Kanunun yürürlüğe girdiği tarihte görevde bulunan Personel Dairesi Başkanı, İnsan Kaynakları Dairesi Başkanlığına; Dışişleri Eğitim Merkezi Başkanı, Diplomasi Akademisi Başkanlığına; Arşiv ve Ulaştırma Dairesi Başkanı, Bilişim Teknolojileri Dairesi Başkanlığına herhangi bir işleme gerek kalmaksızın atanmış sayılır. Daimi temsilciliklerde; elçi-müsteşar unvanıyla görev yapan daimi temsilci yardımcıları elçi-daimi temsilci yardımcısı, büyükelçilik birinci müsteşarı unvanıyla görev yapanlar daimi temsilcilik birinci müsteşarı, büyükelçilik müsteşarı unvanıyla görev yapanlar daimi temsilcilik müsteşarı unvanlarına herhangi bir işleme gerek kalmaksızın atanmış sayılır.
-(2) Mahalli katip kadrolarının boşalması halinde bu kadrolara tekrar atama yapılmaz. Mahalli katipler, merkez teşkilatına tayin edildiklerinde merkez memuru kadrolarına atanırlar.
-(3) Bu Kanunun yürürlüğe girdiği tarihte, Devlet konukevindeki mevcut sözleşmeli personelin aynı statüleri ile istihdamına devam olunur ve aynı tarih itibarıyla sözleşmeli personele ait boş pozisyonlar ile boşalacak olanlar hiçbir işleme gerek kalmaksızın iptal edilmiş sayılır.
-10653
-(4) (Mülga: 11/10/2011-KHK-666/1 md.) (1)
-(5) Diğer mevzuatta 4009 sayılı Dışişleri Bakanlığının Kuruluş ve Görevleri Hakkında Kanuna yapılan atıflar bu Kanuna yapılmış sayılır.
+GEÇİCİ MADDE 6- (Mülga: 2/7/2018-KHK-703/6 md.)

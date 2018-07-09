@@ -1,2 +1,2 @@
 Yönetmelikler
-Madde 29- Bu Kanun ile hazırlanması öngörülen yönetmelikler ve Enstitünün teşkilat yapısı ile ilgili düzenlemeler, Yönetim Kurulunun ilk toplantısını müteakip üç ay içinde hazırlanır.
+Madde 29- (Mülga: 2/7/2018-KHK-703/86 md.)

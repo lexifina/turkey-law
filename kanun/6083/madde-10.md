@@ -1,15 +1,9 @@
 Eklenen, değiştirilen ve yürürlükten kaldırılan hükümler ile atıflar
-MADDE 10 – (1) 657 sayılı Kanunun;
-a) 36 ncı maddesinin “Ortak Hükümler” bölümünün (A) fıkrasının (11) numaralı bendine “Vakıf Uzman Yardımcıları,” ibaresinden sonra gelmek üzere “Tapu ve Kadastro Uzman Yardımcıları,” ibaresi; “Vakıf Uzmanlığına,” ibaresinden sonra gelmek üzere “Tapu ve Kadastro Uzmanlığına,” ibaresi,
-b) 152 nci maddesinin “II- Tazminatlar” kısmının “A- Özel Hizmet Tazminatı” bölümünün (i) bendine “Vakıf Uzmanları,” ibaresinden sonra gelmek üzere “Tapu ve Kadastro Uzmanları,” ibaresi,
-c) Ekli (I) sayılı Ek Gösterge Cetvelinin “I- Genel İdare Hizmetleri Sınıfı” bölümünün (h) bendine “Vakıf Uzmanları,” ibaresinden sonra gelmek üzere “Tapu ve Kadastro Uzmanları,” ibaresi; (II) sayılı Cetvelin “2-Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında” başlığını taşıyan bölümünde yer alan “Türkiye İstatistik Kurumu Bölge Müdürü,” ibaresinden sonra gelmek üzere “Tapu ve Kadastro Bölge Müdürü,” ibaresi,
-eklenmiştir.
-(2) 657 sayılı Kanunun Ekli (II) sayılı Ek Gösterge Cetvelinin “5-Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında” bölümünden “Tapu ve Kadastro Meslek Lisesi Müdürü,” ibaresi çıkarılmış; (II) sayılı Cetvelin “5-Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında” bölümünde yer alan “Tapu ve Kadastro Kurs Müdürü” ibaresi “Tapu ve Kadastro Eğitim Müdürü” olarak değiştirilmiştir.
-(3) 657 sayılı Kanunun Ekli (II) sayılı Ek Gösterge Cetvelinin “5-Yargı Kuruluşları, Bağlı ve İlgili Kuruluşlar ile Yüksek Öğretim Kuruluşlarında” bölümünde yer alan “Tapu Sicil Müdürü” ibaresi “Tapu Müdürü” olarak değiştirilmiştir.
-(4) Ekli (I) sayılı listede yer alan kadrolar iptal edilerek, 13/12/1983 tarihli ve 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname eki (I) sayılı cetvelin Tapu ve Kadastro Genel Müdürlüğüne ait bölümünden çıkarılmış, ekli (II), (III) ve (IV) sayılı listelerde yer alan kadrolar ihdas edilerek aynı Kanun Hükmünde Kararnamenin eki (I) sayılı cetvelin Tapu ve Kadastro Genel Müdürlüğüne ait bölümüne (II) ve (IV) sayılı listeler ve Bayındırlık ve İskan Bakanlığı bölümüne (III) sayılı liste eklenmiştir.(1)
-(5) 657 sayılı Kanunun 152 nci maddesinin “II-Tazminatlar” kısmının “A) Özel Hizmet Tazminatı” bölümünün (i) bendinde yer alan “, Tapu ve Kadastro Denetmenleri” ibaresi ile aynı Kanuna ekli (I) sayılı Ek Gösterge Cetvelinin “Genel İdare Hizmetleri Sınıfı” bölümünün (h) bendinde yer alan “Tapu ve Kadastro Denetmenleri,” ibaresi yürürlükten kaldırılmıştır.
-(6) 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 33 üncü maddesinin (b) bendinde yer alan “Tapu ve Kadastro Denetmenleri ve Denetmen Yardımcıları” ibaresi yürürlükten kaldırılmıştır.
-(7) 26/9/1984 tarihli ve 3045 sayılı Tapu ve Kadastro Genel Müdürlüğü Kuruluşu ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ile 3402 sayılı Kanunun 37 nci ve 38 inci maddeleriyle, 47 nci maddesinin birinci fıkrasının (G) bendi yürürlükten kaldırılmıştır.
+MADDE 10 – (1) ila (3) (14/7/1965 tarihli ve 657 sayılı Kanun ile ilgili olup yerine işlenmiştir.
+(4) (Mülga:2/7/2018-KHK-703/92 md.)
+(5) (14/7/1965 tarihli ve 657 sayılı Kanun ile ilgili olup yerine işlenmiştir.
+(6) (10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu ile ilgili olup yerine işlenmiştir.)
+(7) (26/9/1984 tarihli ve 3045 sayılı Tapu ve Kadastro Genel Müdürlüğü Kuruluşu ve Görevleri Hakkında Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkında Kanun ve 21/6/1987 tarihli ve 3402 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
 (8) Diğer mevzuatta “Tapu Sicil Müdürü”ne veya “Tapu Sicil Müdürlüğü”ne yapılmış atıflar, ilgisine göre “Tapu Müdürü”ne veya “Tapu Müdürlüğü”ne yapılmış sayılır.
 (9) Diğer mevzuatta 3045 sayılı Kanuna yapılmış atıflar, bu Kanuna yapılmış sayılır.
 (10) Bu Kanunun uygulanmasında 22/4/1925 tarihli ve 657 sayılı Harita Genel Komutanlığı Kanunu hükümleri saklıdır.

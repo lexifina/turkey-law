@@ -1,8 +1,8 @@
 İKİNCİ BÖLÜM
 Kurul ve Yetkilendirmeler
 Enerji Verimliliği Koordinasyon Kurulu
-MADDE 4 – (1) Enerji verimliliği çalışmalarının ülke genelinde tüm ilgili kuruluşlar nezdinde etkin olarak yürütülmesi, sonuçlarının izlenmesi ve koordinasyonu amacıyla Enerji Verimliliği Koordinasyon Kurulu oluşturulur. Kurulca alınan kararların uygulanmasının takibi ve sekreterlik hizmetleri Genel Müdürlük tarafından yürütülür.
-(2) Kurul; Bakanlığın Genel Müdürlüğün ilgilendirildiği müsteşar yardımcısı başkanlığında, İçişleri Bakanlığı, Maliye Bakanlığı, Milli Eğitim Bakanlığı, Bayındırlık ve İskan Bakanlığı, Ulaştırma Bakanlığı, Sanayi ve Ticaret Bakanlığı, Bakanlık, Çevre ve Orman Bakanlığı, Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Enerji Piyasası Düzenleme Kurumu, Türk Standartları Enstitüsü, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu, Türkiye Odalar ve Borsalar Birliği, Türkiye Mühendis ve Mimar Odaları Birliği ve Türkiye Belediyeler Birliğinin birer üst düzey temsilcisinden oluşur.
+MADDE 4 – (1) (Mülga fıkra: 2/7/2018-KHK-703/204 md.)
+(2) (Mülga fıkra: 2/7/2018-KHK-703/204 md.)
 (3) Kurulun görev, yetki ve sorumlulukları şunlardır:
 a) Ulusal düzeyde enerji verimliliği stratejileri, planları ve programları hazırlamak, bunların etkinliğini değerlendirmek, gerektiğinde revize edilmelerini, yeni önlemlerin alınmasını ve uygulanmasını koordine etmek.
 b) Genel Müdürlük tarafından yürütülen enerji verimliliği çalışmalarını yönlendirmek ve enerji verimliliği hizmetlerinin yaygınlaştırılmasında, Genel Müdürlük tarafından meslek odalarına ve üniversitelere verilen yetki belgelerini onaylamak.
@@ -10,5 +10,5 @@ c) 8 inci maddenin birinci fıkrasının (a) bendi ve 9 uncu maddenin birinci f�
 ç) Kurula verilen görevler kapsamında ve gerekli gördüğü hallerde, giderleri Genel Müdürlük bütçesinden karşılanmak üzere, ilgili kamu kurum ve kuruluşlarının, üniversitelerin, özel sektörün ve sivil toplum kuruluşlarının katılımı ile geçici ihtisas komisyonları oluşturmak.
 d) Yetkilendirilmiş kurumların, şirketlerin, kamu kurumu niteliğindeki meslek kuruluşlarının ve sivil toplum kuruluşlarının katılımı ile her yıl Kasım ayında Genel Müdürlük tarafından düzenlenecek danışma kurulu toplantılarının gündemini ve toplantıya katılacak kuruluşları belirlemek, toplantı sonuç değerlendirmelerini ve önlem önerilerini onaylamak.
 e) Her yıl Ocak ayı içinde yetki belgesi ve enerji yöneticisi sertifikası bedellerini belirlemek ve yayımlamak.
-(4) Kurul her yıl Mart, Haziran, Eylül ve Aralık aylarında olmak üzere, dört kez olağan olarak toplanır. Ayrıca, Kurul Başkanının gerekli görmesi halinde, yapılan çağrı üzerine olağanüstü olarak da toplanır. Toplantı yeter sayısı için üçte iki çoğunluk aranır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşit olması halinde Başkanın oyu iki oy sayılır.
-(5) Genel Müdürlük bütçesinden karşılanmak üzere, her toplantı günü için, Kurul Başkanı ve üyelerine, yılda dörtten fazla olmamak üzere uhdesinde kamu görevi bulunanlara (2.000), uhdesinde herhangi bir kamu görevi bulunmayanlara ise (3.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucunda bulunacak miktarda huzur hakkı ödenir.
+(4) (Mülga fıkra: 2/7/2018-KHK-703/204 md.)
+(5) (Mülga fıkra: 2/7/2018-KHK-703/204 md.)[5]

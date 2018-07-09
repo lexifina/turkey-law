@@ -1,3 +1,2 @@
 Bütçe işlemleri
-GEÇİCİ MADDE 4 – (1) Türkiye Acil Durum Yönetimi Genel Müdürlüğü, Sivil Savunma Genel Müdürlüğü ve Afet İşleri Genel Müdürlüğünün 2009 yılı bütçelerinin mevcut esas ve usuller çerçevesinde uygulanmasına 2009 yılı sonuna kadar devam edilir. Bu Kanun gereğince, Başkanlığın yeni teşkilâtlanma nedeniyle ihtiyaç duyacağı her türlü gider, genel müdürlüklerin bütçelerinden karşılanabilir.
-(2) Bu Kanunun uygulanmasında teşkilat, personel, kadro, taşınır devri ile taşınmazların tahsisi ve benzeri hususlarda ortaya çıkabilecek sorunları gidermeye merkezde Başbakan veya ilgili bakan, illerde valiler yetkilidir.
+GEÇİCİ MADDE 4 – (Mülga: 2/7/2018 – KHK-703/62 md.)

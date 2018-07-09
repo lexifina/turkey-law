@@ -1,1 +1,1 @@
-Geçici Madde 3 – Bu Kanunun uygulanmasını göstermek üzere hazırlanacak tüzük ve yönetmelikler yürürlüğe girinceye kadar mevcut tüzük ve yönetmeliklerin bu Kanuna aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Geçici Madde 3 – (Mülga: 2/7/2018-KHK-703/79 md.)

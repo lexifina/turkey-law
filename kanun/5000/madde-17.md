@@ -1,5 +1,2 @@
 Personel Dairesi Başkanlığı
-Madde 17- Personel Dairesi Başkanlığı;
-a) Enstitü bünyesinde görev yapan personelin iş akitleri, kadro, terfi, görev, yolluk, sağlık, izin ve benzeri özlük işlemleri ile ilgili hizmetleri yürütür,
-b) Sosyal hizmetler ve hizmet içi eğitim ile ilgili işleri yapar,
-c) Başkanlıkça verilecek diğer işleri yapar.
+Madde 17- (Mülga: 2/7/2018-KHK-703/86 md.)

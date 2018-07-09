@@ -1,2 +1,2 @@
 Koordinasyon Kurulu
-Madde 7- Başkanlığın amaçlarına ve sürekli gelişim ile performans hedeflerine ulaşılmasına katkıda bulunmak, birimler arasında koordinasyonu, bilgi akışını ve uygulama birliğini sağlamak, sorunlara ortak çözümler üretmek üzere Koordinasyon Kurulu oluşturulur. Kurul; Başkanın başkanlığında, başkan yardımcıları, daire başkanları, I. Hukuk Müşaviri ile Ankara, İstanbul ve İzmir vergi dairesi başkanlarından oluşur. Başkan gündeme göre diğer vergi dairesi başkanlarını da toplantılara davet edebilir. Kurul yılda en az bir defa toplanır. Kurulun sekretarya hizmetleri Strateji Geliştirme Daire Başkanlığınca yürütülür.
+Madde 7- (Mülga: 2/7/2018 – KHK-703/70 md.)

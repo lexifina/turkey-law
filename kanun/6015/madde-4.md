@@ -1,15 +1,2 @@
 Kurul
-MADDE 4 – (1) Bu Kanun ve diğer kanunlarla verilen görevleri yürütmek üzere Devlet Desteklerini İzleme ve Denetleme Kurulu kurulmuştur.
-(2) Kurul; Maliye Bakanlığı, Sanayi ve Ticaret Bakanlığı, Devlet Planlama Teşkilatı Müsteşarlığı, Hazine Müsteşarlığı, Dış Ticaret Müsteşarlığı ve Rekabet Kurumunca, bu kurumları temsilen, birer üye olmak üzere altı üye ile Devlet Destekleri Genel Müdüründen oluşur. Kurulun başkanlığını Devlet Destekleri Genel Müdürü yürütür. Devlet Destekleri Genel Müdürünün görevinin sona ermesi durumunda Kurul Başkanlığı ve üyeliği sona erer.
-10665
-(3) Kurul üyeleri müşterek kararname ile atanır. Kurul üyeliğine atanacak adayların yükseköğretim kurumlarının en az dört yıllık eğitim veren bölümlerinden mezun olmuş olmaları, en az beş yılı bu Kanun kapsamındaki konularda olmak üzere asgari on yıl kamu hizmeti yapmış bulunmaları gerekir.
-(4) Kurul Başkanı hariç olmak üzere, Kurul üyelerinin görev süresi dört yıldır. Görev süresi dolan üye yeniden atanabilir.
-(5) Herhangi bir nedenle görev süresinin bitiminden önce kurumundaki görevi sona eren veya kendi isteği ile ayrılan üyenin yerine, kalan süreyi tamamlamak üzere, aynı usulle yeni üye atanır.
-(6) Kurul, Başkanın teklifi ile üyelerden birini İkinci Başkan olarak seçer. İkinci Başkan izin, hastalık, yurtiçi ve yurtdışı görevlendirme, görevden alınma ve görevde bulunmadığı diğer hallerde Başkana vekalet eder.
-(7) Kurul, Başkanın veya bulunmadığı hallerde İkinci Başkanın başkanlığında diğer üyelerden en az dördünün hazır bulunmasıyla ayda en az bir kez toplanır. Kurul kararları toplantıya katılan üye sayısının salt çoğunluğu ile alınır. Oyların eşitliği halinde Başkanın oyu yönünde karar alınmış sayılır. Üst üste üç toplantıya mazeretsiz olarak katılmayan üyenin üyeliği kendiliğinden düşer.
-(8) Kurul Başkan ve üyelerine, Yüksek Planlama Kurulu kararıyla kamu iktisadi teşebbüslerinde yönetim kurulu başkan ve üyeleri için her yıl tespit edilen tutarda ve anılan kararda belirlenen usul ve esaslara göre aylık huzur ücreti ödenir. Kurul üyeliği görevi, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sosyal sigorta veya genel sağlık sigortası yönünden sigortalı olmayı gerektirmez. Kurul Başkan ve üyelerine yapılacak ödemeler, sigorta primine esas kazanca dahil edilmez. Kurul üyelerinin harcırahları Müsteşarlıkta görevli genel müdür seviyesinde belirlenir.
-(9) Kurul üyeleri, kendileri, eşleri ve üçüncü dereceye kadar kan ve kayın hısımları hakkındaki toplantılara katılamaz ve oy kullanamaz. Başkan hariç diğer Kurul üyeleri kendi kuruluşları tarafından hazırlanan devlet destekleri ile ilgili kararlarda oy kullanamaz.
-(10) Kurul üyeleri ve diğer görevliler, bu Kanunun yürütülmesi çerçevesinde edindikleri gizlilik taşıyan bilgileri görevlerinden ayrılmış olsalar dahi açıklayamaz, kendilerinin ve başkalarının menfaatine veya başkalarının zararına kullanamaz.
-(11) Kurul, kararlarında bağımsız olup, Kurul tarafından alınan kararlar kesindir.
-(12) Kurulun sekreterya hizmetleri Devlet Destekleri Genel Müdürlüğü tarafından yürütülür.
-(13) Kurul harcamaları, Müsteşarlık bütçesine bu amaçla konulan ödenekten karşılanır.
+MADDE 4 – (Mülga: 2/7/2018-KHK-703/207 md.)[1]

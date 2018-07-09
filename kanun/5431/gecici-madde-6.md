@@ -1,1 +1,1 @@
-Geçici Madde 6- Bu Kanunla öngörülen bütün geçiş, devir, temlik ve intikal işlemleriyle düzenlenecek protokoller her türlü vergi, resim, harç, ücret ve fondan müstesnadır.
+Geçici Madde 6- (Mülga: 2/7/2018-KHK-703/89 md.)

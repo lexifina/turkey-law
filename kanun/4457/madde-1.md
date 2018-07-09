@@ -1,2 +1,2 @@
 Kuruluş amacı
-Madde 1 – Bu Kanun ile, uygunluk değerlendirme kuruluşlarını akredite etmek, bu kuruluşların ulusal ve uluslararası standartlara göre faaliyette bulunmalarını ve bu suretle uygunluk değerlendirme kuruluşlarınca düzenlenen belgelerin ulusal ve uluslararası alanda kabulünü temin etmek amacıyla, merkezi Ankara'da olmak üzere Başbakanlıkla ilgili, özel hukuk hükümlerine tabi, tüzel kişiliği haiz, kâr amacı gütmeyen, idari ve mali özerkliğe sahip, Türk Akreditasyon Kurumu, kısa adı TÜRKAK kurulmuştur.(2)
+Madde 1 – (Mülga: 2/7/2018 – KHK-703/100 md.)

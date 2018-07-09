@@ -1,1 +1,1 @@
-Geçici Madde 4 — Kalkınma kurulu, kuruluş kararnamesinin yayımlandığı tarihten itibaren bir ay içinde, ajans merkezi olarak tespit edilen ilin valisinin başkanlığında ilk toplantısını yapar.
+Geçici Madde 4 — (Mülga:2/7/2018-KHK-703/75 md.)

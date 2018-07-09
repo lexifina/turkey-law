@@ -1,7 +1,1 @@
-Madde 24– (Değişik: 19/2/3003-4810/21 md.)
-I- Adlî Tıp Genel Kurulu ve adlî tıp ihtisas kurulları ile adlî tıp ihtisas daireleri, inceledikleri konularla ilgili olarak Adlî Tıp Kurumunda bulunmayan tıp ve diğer uzmanlık dallarında Adlî Tıp Kurumu dışından uzmanların bilirkişi olarak davet edilmesine karar verebilirler. Uzman kişiler oy hakları olmamakla beraber görüşlerini bir raporla Adlî Tıp Genel Kurulu, adlî tıp ihtisas kurulu veya adlî tıp ihtisas dairesi başkanlığına bildirirler.
-Bilirkişilere yönetmelikteki esaslara göre Adlî Tıp Genel Kurulu, adlî tıp ihtisas kurulu ve adlî tıp ihtisas dairesi başkanlığınca yaptıkları çalışmaya uygun ücret takdir olunur.
-II- a) Adlî Tıp Genel Kurulu, adlî tıp ihtisas kurulları ile adlî tıp ihtisas daireleri, inceledikleri konularla ilgili olarak kendi kurul veya dairelerinde bulunmayan, Adlî Tıp Kurumundaki diğer kurul veya dairelerde bulunan uzmanların davet edilmesine karar verebilirler. Uzman kişiler, o olayla ilgili toplantıya katılır ve oy kullanırlar.
-5527
-b) Beşinci Adlî Tıp İhtisas Kurulunun görev alanına giren işlerle ilgili ölüm olaylarında; Birinci Adlî Tıp İhtisas Kurulu toplantısına, Birinci Adlî Tıp İhtisas Kurulu Başkanının daveti üzerine Beşinci Adlî Tıp İhtisas Kurulunun o olayla ilgili uzman üye veya üyeleri katılır ve oy kullanırlar.
-c) Gözlem İhtisas Dairesinde gözleme tâbi kişiler hakkında, Dördüncü Adlî Tıp İhtisas Kurulunca da karar verilmesi hallerinde; Gözlem İhtisas Dairesi Başkanı veya vekili Dördüncü Adlî Tıp İhtisas Kurulu toplantısına katılır ve oy kullanır.
+Madde 24– (Mülga: 2/7/2018 – KHK-703/61 md.)
