@@ -1,0 +1,2 @@
+Madde 17 – (13/12/1983 tarih ve 190 sayılı KHK'nin ekindeki kadro cetvellerinde değişiklik yapmakta olup, ilgili yerine işlenmiştir.)
+Geçici Madde - Bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte en az beş yıl Bakanlıklar ve Başbakanlığa bağlı kuruluşlarda görev yapmış ve 2 nci maddenin (a) ve (b) bendlerindeki şartları haiz olanlar en geç altı ay içinde Avrupa Birliği Uzmanı olarak atanabilirler.

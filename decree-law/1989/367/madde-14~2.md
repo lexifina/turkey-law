@@ -1,0 +1,1 @@
+Madde 14 – Avrupa Birliği Başkanlığı, Avrupa Birliği ile ilişkilerin, ülke ekonomisine yararlı, düzenli ve etkili bir şekilde yürütülebilmesi için gerekli incelemeleri yapar, bu konuda belirlenecek hedef ve politikaların tesbitine yardımcı olur."

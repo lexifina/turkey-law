@@ -1,0 +1,66 @@
+{
+  "source_id": "24.5.367",
+  "path": "decree-law/1989/367",
+  "number": "367",
+  "tertip": "5",
+  "title": "BAKANLIKLARDA VE BAĞLI KURULUŞLARDA AVRUPA TOPLULUĞUYLA İLGİLİ BİRİMLER KURULMASI VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "1989-04-14",
+  "enacted_as_printed": "14.04.1989",
+  "published": "1989-05-04",
+  "gazette": "20158",
+  "in_force": "2018-07-09",
+  "in_force_basis": "latest date printed in the act's own entry-into-force list: \"KHK/700 | 1, 3 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)\"",
+  "date_evidence": [
+    [
+      "2018-07-09",
+      "KHK/700 | 1, 3 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2018-07-02",
+      "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 59 uncu maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2018-06-24",
+      "KHK/700 | 1, 3 | 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2012-01-14",
+      "KHK/666 | 4 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-11-02",
+      "KHK/666 | 4 | 14/1/2012 tarihinden geçerli olmak üzere 2/11/2011",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2011-10-11",
+      "(Mülga: 11/10/2011-KHK-666/1 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname yayımı tarihinde yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 59 uncu maddesiyle yürürlükten kaldırılmıştır.",
+    "(Mülga: 11/10/2011-KHK-666/1 md.)"
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=367&MevzuatTertip=5",
+  "source_sha256": "6e7a3e8748274840aeb4b6b7e0304c8c248fccda6564a6dc2b10e3cbac66cf68",
+  "source_bytes": 70311,
+  "words": 786,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}
