@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24738",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MAKİNE MÜHENDİSLERİ ODASI AKIŞKAN GÜCÜ MÜHENDİS YETKİLENDİRME VE BELGELENDİRME YÖNETMELİĞİ",
+  "number": "24738",
+  "issuer": "TMMOB Makina Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "tmmob-makina-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/tmmob-makina-muhendisleri-odasi-yonetim-kurulu/2018/24738",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24738&MevzuatTertip=5",
+  "source_sha256": "ff53ad4cc527dde731b9b303b58ef89e868efa029c1680f8826acca8bb1f0545",
+  "source_bytes": 29616,
+  "published": "2018-07-09",
+  "gazette": "30473",
+  "in_force": "2018-07-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.07.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1046,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24738-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
