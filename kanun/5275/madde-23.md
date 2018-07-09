@@ -1,6 +1,5 @@
 BEŞİNCİ BÖLÜM
-Hükümlülerin Sınıflandırılması ve
-Cezaların İnfazı
+Hükümlülerin Sınıflandırılması ve Cezaların İnfazı
 Hükümlülerin gözlem ve sınıflandırılması
 Madde 23- (1) Hükümlülerin gözlem ve sınıflandırılması aşağıdaki esaslara göre yapılır:
 a) Hükümlülerin kişisel özellikleri, bedensel, aklî ve sağlık durumları, suç işlemeden önceki yaşamları, sosyal çevre ve ilişkileri, sanat ve meslek faaliyetleri, ahlâkî eğilimleri, suça bakış açıları, hükümlülük süreleri ve suç türleri belirlenerek, durumlarına uygun infaz kurumlarına ayrılmaları ve bunlara göre saptanacak infaz ve iyileştirme rejimi; gözlem, inceleme ve değerlendirme yöntemiyle çalışan gözlem ve sınıflandırma merkezlerinde veya kapalı ceza infaz kurumlarının bu hizmete ayrılan bölümlerinde yapılır. Hükümlüler, işledikleri suç tiplerine, gösterdikleri eğilimlere, tutum ve davranışları nedeniyle sıkı gözetim ve denetim altında bulundurulmaları gerekip gerekmediğine göre yüksek güvenlikli ceza infaz kurumlarına veya normal güvenlikli ceza infaz kurumlarına veya açık ceza infaz kurumlarına gönderilirler.
@@ -10,6 +9,5 @@ d) Hükümlülerin gözlemleri, gözlem kurulunca kuruma kabul tarihinden başla
 e) Ağırlaştırılmış müebbet hapis ve müebbet hapis cezalarına veya iki yıldan fazla süreli hapis cezasına mahkûm olanlar, haklarında uygulanacak rejimi ve gönderilmeleri gereken infaz kurumunu ve bu maksatla kişisel ve sosyal özelliklerini belirlemek için Kanunda gösterilen esaslar uyarınca gözleme tâbi tutulurlar. Gözlem süresi altmış günü geçemez.
 f) Hükümlü; kişiliğine, sair hâllerine, suçun işlenmesindeki özelliklere göre gerektiğinde gözleme tâbi tutulmayabilir.
 g) Gözlem sonunda, gözlem merkezi hükümlüye ait dosyayı görüşü ile birlikte Adalet Bakanlığına gönderir. Gözlem sonucuna göre hükümlünün gönderileceği infaz kurumu Bakanlıkça belirlenir. (Ek cümle: 25/5/2005-5351/2 md.) Ancak, yapılan gözlem ve sınıflandırma sonunda idare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet Başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez ve cezalarının infazına, bulundukları veya Cumhuriyet Başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.
-(2) Hükümlülerin gözleme tâbi tutulmasına ve cezaevlerinin sınıflandırılmasına dair hükümler, askerî cezaevleri ve buralarda cezaları infaz olunan hükümlüler hakkında uygulanmaz.
+(2) (Mülga: 2/7/2018-KHK/700/160 md.)
 (3) Kısa süreli hapis cezaları, Kanunda gösterilen esaslara göre infaz olunur. (Mülga ikinci cümle: 25/5/2005-5351/2 md.)
-9225
