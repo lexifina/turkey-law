@@ -1,0 +1,24 @@
+{
+  "number": "272",
+  "number_as_published": "272",
+  "year": 2018,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI (VİRANŞEHİR-YENİŞEHİR)",
+  "decision_date": "2018-07-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6566/106/nazim-ve-uygulama-imar-plani-viransehir-yenisehir",
+  "official_document": null,
+  "source_sha256": "1c1f9f639e5c17f5e91c20b26564879acd6e89023fca7175ddfd0ba657438390",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-07-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.07.2018 tarih ve 272 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-07-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
