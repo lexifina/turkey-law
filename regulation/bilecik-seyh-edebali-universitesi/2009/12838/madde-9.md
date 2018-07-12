@@ -1,0 +1,2 @@
+Yaz okulunda açılacak derslerin belirlenmesi
+MADDE 9 – (1) (Değişik:RG-2/12/2012-28485) Yaz okulunda bir dersin açılabilmesi için, o derse kayıtlı öğrenci sayısının ön lisans ve lisans programlarında en az yirmi beş, lisansüstü programlarında en az beş olması gerekir. Bir derse kayıt yaptıran öğrenci sayısı elliden fazla ise, bu dersin paralel şubesi açılabilir. Zorunlu hallerde bu sayılar, Üniversitenin ilgili kurullarınca değiştirilebilir.

@@ -1,0 +1,2 @@
+Yaz okulunun açılması
+MADDE 6 – (1) (Değişik:RG-2/12/2012-28485) Yaz okulunda, güz ve bahar yarıyılı programlarında yer alan zorunlu ve seçmeli dersler açılabilir. Yaz okulu, öğretim yılının güz ve bahar yarıyılı dışında kalan ve yaz tatili ayları içinde uygulanabilecek bir öğretim programıdır. Yaz okulu, Üniversitenin ilgili kurullarının kararı ile açılabilir. Yaz okulu öğretim süresinden sayılmaz.
