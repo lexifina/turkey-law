@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-07-12",
+      "12.07.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30476",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-07-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/2018/24760",
+  "published": "2018-07-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24760&MevzuatTertip=5",
+  "source_bytes": 23909,
+  "source_id": "8.5.24760",
+  "source_sha256": "49dd4243560b05250ea79e9925f9fcdf95bf1e6cd50f82d3feea934fa25d06cf",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ GÜNEY ASYA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 828
+}
