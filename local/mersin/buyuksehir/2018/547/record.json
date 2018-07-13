@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "547",
+  "decision_date": "2018-07-13",
+  "title": "MEC. KAR. (TARSUS DELİMİNNET MH. 1960 PARSEL).",
+  "listed_as": "547 MEC. KAR. (TARSUS DELİMİNNET MH. 1960 PARSEL).",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/547-mec-kar-tarsus-deliminnet-mh-1960-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-temmuz-2018-meclis-kararlar",
+  "listing_sha256": "97728a1aee3bb8c9344f7f4ce1e1ec699ffeeec207c4bc0aad7a0d5cec6b7348",
+  "meeting_title": "13 TEMMUZ 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
