@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-07-16",
+      "16.07.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30480",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-07-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2018/24768",
+  "published": "2018-07-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24768&MevzuatTertip=5",
+  "source_bytes": 26391,
+  "source_id": "8.5.24768",
+  "source_sha256": "a404a275507ab4fb6441968eb3311d6416b050c151b8cc565edb579aca1e62aa",
+  "text_status": "as-enacted",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ AHMED ZİYAÜDDİN GÜMÜŞHANEVİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 964
+}
