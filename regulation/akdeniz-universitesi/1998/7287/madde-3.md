@@ -1,0 +1,2 @@
+Amaç
+Madde 3- Hastanenin amacı; muayene,teşhis ve tedavi için Hastaneye başvuran hastaların ayakta veya yatırılarak tedavisi ile sağlık hizmetleriyle ilgili tüm alanlarda eğim-öğretim, araştırma ve uygulama yapmak, her düzeyde yetkili tıp ve sağlık personeli yetiştirmek üzere Akdeniz Üniversitesi Tıp Fakültesi başta olmak üzere, Üniversite bünyesindeki diğer Fakülte, Enstitü, Yüksekokullar, Araştırma Merkezleri ve diğer kurumlarla işbirliği yaparak sağlık hizmetlerinin tam, kaliteli ve verimli düzeyde yürütülmesini sağlamaktır.

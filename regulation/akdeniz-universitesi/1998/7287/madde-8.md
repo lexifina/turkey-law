@@ -1,0 +1,3 @@
+Hastane Başhekimi
+Madde 8 —(Değişik: RG-19/12/2004-25675)
+Hastane Başhekimliğine; Rektör tarafından, Tıp Fakültesi Dekanının görüşü alınarak, hastanede uygulamalı öğretim yapan devamlı statüdeki profesör veya doçentler arasından 2 (iki) yıl için bir öğretim üyesi atanır. Süresi biten Başhekim yeniden atanabilir veya süresinden önce aynı usülle görevine son verilebilir. Tıp Fakültesi Dekanının görüşü, Başhekimin önerisiyle en az 2 (iki) Başhekim yardımcısı Rektör tarafından atanır. Başhekim yardımcılarının görev süresi, Başhekimin görev süresiyle aynıdır. Başhekim herhangi bir nedenle görevinden ayrıldığında, Başhekim yardımcılarının da görev süresi biter.

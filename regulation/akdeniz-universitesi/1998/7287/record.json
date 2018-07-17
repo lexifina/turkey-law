@@ -1,0 +1,89 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 17- Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "1998-06-21",
+      "21.06.1998",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2012-08-31",
+      "RG-31/8/2012-28397",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2003-08-13",
+      "RG-13/8/2003-25198",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2003-08-13",
+      "RG-13/8/2003-25198",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2004-12-19",
+      "RG-19/12/2004-25675",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-17",
+      "RG-17/7/2018-30481",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-17",
+      "RG-17/7/2018-30481",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-01-09",
+      "RG-9/1/2018-30296",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-17",
+      "RG-17/7/2018-30481",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-17",
+      "RG-17/7/2018-30481",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-17",
+      "RG-17/7/2018-30481",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-17/7/2018-30481",
+  "first_law": null,
+  "gazette": "23379",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-07-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1998/7287",
+  "published": "1998-06-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7287&MevzuatTertip=5",
+  "source_bytes": 25799,
+  "source_id": "8.5.7287",
+  "source_sha256": "19f676f595ac3c0a28be2afc93db7230bd15d779bee6ea6b134ae0a84705aaa0",
+  "text_status": "current-consolidated",
+  "title": "AKDENİZ ÜNİVERSİTESİ SAĞLIK ARAŞTIRMA VE UYGULAMA MERKEZİ (HASTANE) YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1121
+}
