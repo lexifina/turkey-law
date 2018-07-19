@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-09",
+      "09.10.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-07-19",
+      "RG-19/7/2018-30483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-19",
+      "RG-19/7/2018-30483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/7/2018-30483",
+  "first_law": null,
+  "gazette": "30205",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-07-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2017/23957",
+  "published": "2017-10-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23957&MevzuatTertip=5",
+  "source_bytes": 27520,
+  "source_id": "8.5.23957",
+  "source_sha256": "13b77f37c6a37157808f2a217c3eb6c561f4dcec6b4ec2ef22fe2b995c7f0403",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ULUSLARARASI SİYASİ VE EKONOMİK İLİŞKİLER\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 669
+}
