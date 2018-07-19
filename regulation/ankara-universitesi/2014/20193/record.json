@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-04",
+      "04.11.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-07-19",
+      "RG-19/7/2018-30483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-19",
+      "RG-19/7/2018-30483",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-07-19",
+      "19/7/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/7/2018-30483",
+  "first_law": null,
+  "gazette": "29165",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-07-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2014/20193",
+  "published": "2014-11-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20193&MevzuatTertip=5",
+  "source_bytes": 22498,
+  "source_id": "8.5.20193",
+  "source_sha256": "2a678a5e860b62f2c9dee88b9e696c5c707f3880c31b3605fb537360957c3334",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ORTA DOĞU ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 757
+}
