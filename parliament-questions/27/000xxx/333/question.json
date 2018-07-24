@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 1,
+  "esas_no": "7/333",
+  "submitted": "2018-07-24",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer ÖCALAN",
+  "province": "Şanlıurfa",
+  "summary": "Şanlıurfa'nın Suruç ilçesinde dört kişinin hayatını kaybettiği olayların soruşturulmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-9c06-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8fda79e78efeceede38d824ac231f4a3f8cee9dea27f48cc5d9261db9cab36bf",
+  "in_force": "2018-07-24",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
