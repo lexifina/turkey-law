@@ -1,0 +1,20 @@
+{
+  "applicant": "E.Ç.A.",
+  "application_date": "2014-04-17",
+  "application_number": "2014/5671",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2018-06-07",
+  "id": "56ecff8e-e406-4f29-f8fa-f270b2499449",
+  "in_force": "2018-07-24",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2018-07-24",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU2ZWNmZjhlLWU0MDYtNGYyOS1mOGZhLWYyNzBiMjQ5OTQ0OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "5a48c6498e5913a6d0b0dfefe832d40aca7884070cb710a5d5310fb85e5ec704",
+  "version_label": "as-enacted"
+}
