@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7980",
+  "decision_date": "2018-07-26",
+  "title": "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul Ve Esaslar Hakkında Kararda Değişiklik Yapılmasına İlişkin",
+  "resmi_gazete_date": "2018-08-02",
+  "resmi_gazete_number": "30497",
+  "categories": [
+    "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=owTrn2a7J0E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=owTrn2a7J0E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S005vf1ulEQ="
+  ],
+  "source_sha256": "11a72b3ebcbca1ae2efc881a9cb12c0714361d67b32b376910729d57bccbedd2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27577,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-07-26",
+  "law_text_complete": true
+}
