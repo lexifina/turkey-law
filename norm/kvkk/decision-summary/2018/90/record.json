@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/90",
+  "source_id": 5420,
+  "date": "2018-07-26",
+  "title": "“Veri sorumlusu tarafından aydınlatma yükümlülüğü ve açık rıza onayı alınması süreçlerinin ayrı ayrı yerine getirilmesi gerektiği ile ilgili” Kişisel Verileri Koruma Kurulunun 26/07/2018 tarihli ve 2018/90 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5420/2018-90",
+  "source_sha256": "388d43f74775faf206036f80fd9635b756db6c08d4c4adfd14b7a19e2fcd579e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
