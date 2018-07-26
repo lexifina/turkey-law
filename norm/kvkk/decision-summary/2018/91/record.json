@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/91",
+  "source_id": 5365,
+  "date": "2018-07-26",
+  "title": "“Kişisel verilere hukuka aykırı erişilmesini önleme” yükümlülüğünü yerine getiremeyen veri sorumlusu hakkında Kişisel Verileri Koruma Kurulunun 26/07/2018 Tarihli ve 2018/91 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5365/2018-91",
+  "source_sha256": "798bdaefcd32c7917acab446a937da17dc67978b76ba8d69e7cafeeeeaa90b27",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
