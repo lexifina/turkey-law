@@ -1,0 +1,28 @@
+{
+  "number": "month-07-3",
+  "year": 2018,
+  "month": 7,
+  "title": "Hibe Araç. (Kardeş Şehir Trabzon İli Düzköy Belediyesi)",
+  "decision_date": null,
+  "index_date": "2018-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2018",
+  "source": "https://www.cigli.bel.tr/karar/2018-Yili-Meclis-Kararlari.html",
+  "official_page": "https://www.cigli.bel.tr/karar/2018-Yili-Meclis-Kararlari.html",
+  "official_document": "https://www.cigli.bel.tr/upload/mecliskarar/2024_07__358.pdf",
+  "source_sha256": "31739dd7a903155af42db2538a9817467cb618aae06240aee3f7235279de52dd",
+  "issuer": "Çiğli Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision document (listed without a number)",
+  "listing_month": "07"
+}
