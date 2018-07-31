@@ -1,0 +1,3 @@
+Ek Madde 4- (Ek: 25/7/2018-7145/12 md.)
+26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan suçlar ile 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan mahkûm olanlar ile (…)[34] Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara (…)34 iltisakı yahut bunlarla irtibatı nedeniyle kamu görevinden çıkarılanların silah ruhsatları iptal edilir, (…)34 Müsadere hükümleri saklıdır.
+Birinci fıkrada belirtilen sebeplerin ortadan kalkması hâlinde, mülkiyeti kamuya geçirilen silahlar sahibine iade edilir. İadesinin mümkün olmaması hâlinde rayiç değeri tespit edilerek sahibine ödenir.
