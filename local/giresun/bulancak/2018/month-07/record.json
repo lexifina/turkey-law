@@ -1,0 +1,30 @@
+{
+  "number": "month-07",
+  "year": 2018,
+  "month": 7,
+  "title": "2018 Temmuz ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2018-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2018",
+  "source": "https://www.bulancak.bel.tr/meclis-kararlari?page=10",
+  "official_page": null,
+  "official_document": "https://www.bulancak.bel.tr/meclis-kararlari/2018-temmuz-ayi-meclis-kararlari",
+  "source_sha256": "03c93362fa411b6664529e6d6e1be57e7982d9e66b1dbfe3ef4e24e5a7f04566",
+  "issuer": "Bulancak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2018 Temmuz ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "2018-07-19",
+  "document_note": "Dated from the official card title. Where a card names the month without a year, the year is the card's posting year, or the year before when the named month is later than the posting month (a December summary posted in January); such titles are prefixed '<month> <year> - '."
+}
