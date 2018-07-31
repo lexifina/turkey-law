@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "557",
+  "decision_date": "2018-07-31",
+  "title": "MEC.KAR. (BREZİLYA SANTA CATARİNA KARDEŞ ŞEHİR",
+  "listed_as": "557 MEC.KAR. (BREZİLYA SANTA CATARİNA KARDEŞ ŞEHİR",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/557-meckar-brezilya-santa-catarina-kardes-sehirdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/31-temmuz-2018-meclis-kararlari",
+  "listing_sha256": "94903369fb75c1f120a37d460ee83e67a678e6c49118386016f001052e77c36b",
+  "meeting_title": "31 TEMMUZ 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
