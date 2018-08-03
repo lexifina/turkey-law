@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-08-03",
+  "issue": "30498",
+  "edition": "regular",
+  "item": 20,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7146 Askerlik Kanunu ile Diğer Bazı Kanunlarda ve 663 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180803-20.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180803.htm",
+  "index_sha256": "0cfdd4f35dac5bfdc32121b3c4039da140b5600688a1051ce2bb45589eb70d6d",
+  "index_header": "3 Ağustos 2018 ... 30498 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180803.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
