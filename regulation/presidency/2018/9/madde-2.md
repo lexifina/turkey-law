@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 - (1) Bu Esas ve Usuller, güvenlik veya gizlilik içinde yürütülmesi gerektiğine veya istihbarat alanları ile ilişkili olduğuna Bakan tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle alakalı olan mal ve hizmet alımları ile yapım işlerini kapsar.

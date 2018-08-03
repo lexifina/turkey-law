@@ -1,0 +1,8 @@
+Teminat mektupları
+MADDE 26 - (1) Bu Esaslar kapsamında yapılacak ihalelerde bankalarca verilecek teminat mektuplarının kapsamı ve şekli konusunda, 4734 sayılı Kanunun 35 inci maddesine göre Kamu İhale Kurumunun tespit ettiği hususlar geçerlidir. Teminat olarak verilecek diğer değerlere ilişkin olarak, ilgili mevzuat hükümleri esas alınır.
+(2)İdareye verilecek banka teminat mektuplarının, ilgili mevzuat uyarınca Türkiye’de bankacılık faaliyetinde bulunmalarına izin verilen yerli ve yabancı bankalarca düzenlenmesi şarttır.
+(3) 28 inci maddeye göre belirlenen tekliflerin geçerlilik süresinden en az otuz gün fazla süreli olmak kaydıyla, geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması halinde geçici teminat mektuplarının süresi de aynı süre ile uzatılır.
+(4) Kesin teminat mektubu alınması durumunda mektubun süresi, ihale konusu işin bitiş tarihi dikkate alınmak suretiyle ihale dokümanında belirlenir. İdare tarafından kesin teminat mektuplarının geçerlilik süresi asgari olarak kesin kabul tarihini kapsayacak şekilde düzenlenir. Gerek görülen hallerde istenilen kesin teminat mektubunun geçerlilik süresi ihtiyaca konu alımın garanti süresini de kapsayacak şekilde düzenlenir.
+(5) Kesin teminat mektubu, yüklenicinin taahhüdünü şartname ve sözleşme hükümleri uyarınca eksiksiz ve sorunsuz yerine getirmesi ve kesin kabulünün yapılmasını müteakip 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 13 üncü maddesinde belirtilen şartlar çerçevesinde iade edilir.
+(6) Avans teminat mektuplarının süresi, mahsup süresi göz önüne alınarak idarece belirlenir.
+(7) İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul edilmez.

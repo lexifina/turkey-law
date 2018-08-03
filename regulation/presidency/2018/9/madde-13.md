@@ -1,0 +1,2 @@
+Akreditasyon sistemi
+MADDE 13 – (1) Bakanlık veya idareler davet edilecek gerçek ve tüzel kişilerin belirlenmesinde yararlanmak üzere akreditasyon sistemi oluşturabilir. Bu sistem, mal ve hizmet alımları ile yapım işleri dikkate alınarak tesis edilir. Akreditasyon sistemine kayıtlı gerçek ve tüzel kişilerin belirlenmesinde mesleki ve teknik yeterlik kriterleri ile güvenliğin korunması hususları dikkate alınır.

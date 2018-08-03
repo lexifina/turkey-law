@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-9",
+  "number": "9",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ADALET BAKANLIĞI TARAFINDAN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK İHALELERE İLİŞKİN ESAS VE USULLER",
+  "published": "2018-08-03",
+  "enacted": "2018-08-02",
+  "gazette_number": "30498",
+  "in_force": "2018-08-03",
+  "in_force_basis": "Official commencement clause: \"Bu Esaslar yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2018-08-03, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=9&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "a7f9e1be538c6f27ba8e42643da337f7c20430586d9de8bbdc660b0d7589f97b",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

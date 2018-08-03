@@ -1,0 +1,2 @@
+Tekliflerin geçerlilik süresi
+MADDE 28 - (1) Tekliflerin geçerlilik süresi ihale dokümanında belirtilir. İdarece ihtiyaç duyulması halinde bu süre, teklif ve sözleşme şartları değiştirilmemek ve isteklinin kabulü kaydıyla en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabilir. Ancak bu sürenin bitimine rağmen ihalenin sonuçlandırılamayacağının ihale komisyonunca belirlenmesi halinde ihale yetkilisinin onayı ve isteklinin kabulü ile bu süre idarece belirlenen şekilde yeteri kadar uzatılabilir.

@@ -1,0 +1,3 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 32 - (1) İhale komisyonu kararı üzerine idare verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. İhalenin iptal edilmesi nedeniyle isteklilerce idareden herhangi bir hak talebinde bulunulamaz. Ancak idare isteklilerin talepte bulunması halinde ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.
+(2) İhalenin iptal edilmesi durumunda iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.

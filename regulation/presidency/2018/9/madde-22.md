@@ -1,0 +1,3 @@
+Alt yükleniciler
+MADDE 22 - (1) İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale veya sözleşme dokümanında gerekli düzenlemelerin yapılması kaydıyla alt yüklenici çalıştırılmasına izin verilebilir. Ancak işin tamamı alt yükleniciye yaptırılamaz.
+(2) İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları istenebilir. Alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.

@@ -1,0 +1,3 @@
+Sözleşmeye davet
+MADDE 35 - (1) 34 üncü maddede belirtilen sürenin bitimini, ön mali kontrol yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç gün içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen on gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.
+(2) 24 üncü madde hükmü gereğince sözleşmeden önce kesin teminat alınmayan mal ve hizmet alımları ile yapım işlerinde sözleşmeye davet, kesin teminat istenilmeksizin birinci fıkra hükümlerine göre yapılır.
