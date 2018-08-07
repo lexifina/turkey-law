@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-08-07",
+  "issue": "30502",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "KURUL KARARI",
+  "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 12/07/2018 Tarihli ve 7879 Sayılı Kararı",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180807-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180807.htm",
+  "index_sha256": "0eb89b078ff42aa9dd82e3ddf0ac47dd7d6381e1926d986b6b3ba1bbaf45409c",
+  "index_header": "7 Ağustos 2018 ... 30502 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/08/20180807.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
