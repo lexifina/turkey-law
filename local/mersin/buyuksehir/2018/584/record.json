@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "584",
+  "decision_date": "2018-08-13",
+  "title": "MEC. KAR. ( Toroslar İlçesi, Çandır Mahallesi",
+  "listed_as": "584 MEC. KAR. ( Toroslar İlçesi, Çandır Mahallesi",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/584-mec-kar--toroslar-ilcesi-candir-mahallesi-117-118-119-adalar--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-agustos-2018-meclis-kararlari",
+  "listing_sha256": "469f346d2094a8c67d34d18e42af508f5cc63c134b21f6372c8146fdf4bd1341",
+  "meeting_title": "13 AĞUSTOS 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
