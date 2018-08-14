@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2018/33",
+  "meeting_date": "2018-08-14",
+  "meeting_date_as_published": "14.8.2018",
+  "decision_no": "113",
+  "source_id": 10640,
+  "title": "RTÜK kararı 2018/33-113",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/10640",
+  "source_sha256": "d27cbf2abec72cc6ee762fb0d33992b06cb146bc8ceca2b39a9fa8c1e8e5a5ef",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (5 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
