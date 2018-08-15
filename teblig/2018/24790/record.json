@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.24790",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/27)",
+  "number": "24790",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24790",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24790&MevzuatTertip=5",
+  "source_sha256": "857aa786dc602d038393d004e4bd08e33e4c08183e48d626185a8aa1a09c82e2",
+  "source_bytes": 9469,
+  "published": "2018-08-15",
+  "gazette": "30410 mükerrer",
+  "in_force": "2018-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
