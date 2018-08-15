@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2018/YK-YED/254",
+  "date": "2018-08-15",
+  "title": "Hisse Devri İzin Talebi (Fiber Online)",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2018-08-15",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=64",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/7f75d67b-1148-4b3c-a5d8-ee50ff17f20a.pdf",
+  "source_sha256": "43ddfab04fb495c3ef5e4f481cd25662a1c306bd32f6eb23010f160e0a3cdded",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2018-08-15",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 15.08.2018; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
