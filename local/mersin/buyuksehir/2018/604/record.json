@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "604",
+  "decision_date": "2018-08-16",
+  "title": "MEC.KAR. (AYDINCIK KAMAŞ 1553 PARSEL)",
+  "listed_as": "604 MEC.KAR. (AYDINCIK KAMAŞ 1553 PARSEL)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/604-meckar-aydincik-kamas-1553-parsel",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-agustos-2018-meclis-kararlari",
+  "listing_sha256": "0493b26aa0f9fb8157d0d6bab26760f40de9bbeed84c63559ae33096b0cb9bf0",
+  "meeting_title": "16 AĞUSTOS 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
