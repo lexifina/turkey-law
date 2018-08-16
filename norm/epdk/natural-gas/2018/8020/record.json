@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8020",
+  "decision_date": "2018-08-16",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin ikinci uygulama dönemine ilişkin 13/12/2017 tarihli ve 7513 sayılı Kurul Kararı ile değişik 29/12/2016 tarihli ve 6821 sayılı Kurul Kararında değişiklik yapılmasına dair",
+  "resmi_gazete_date": "2018-08-18",
+  "resmi_gazete_number": "30513",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BnVnHEfRzBw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=BnVnHEfRzBw="
+  ],
+  "source_sha256": "4b3774c3345c6a05c142b265c9e2c1597f531102d135f97f13be164ed942c5f0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-08-16",
+  "law_text_complete": true
+}
