@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.24724",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ VE DİĞER BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN 7143 SAYILI KANUN GENEL TEBLİĞİ (SERİ NO: 3)",
+  "number": "24724",
+  "path": "teblig/2018/24724",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24724&MevzuatTertip=5",
+  "source_sha256": "d741a7a47a0ef83692326bbdb854e9bba9de442d08eb9fbd36395633263c04cf",
+  "source_bytes": 54514,
+  "published": "2018-07-04",
+  "gazette": "30468",
+  "in_force": "2018-08-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/8/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-08-18",
+      "RG-18/8/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3229,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24724-Ek.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
