@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.24796",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 73)",
+  "number": "24796",
+  "path": "teblig/2018/24796",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24796&MevzuatTertip=5",
+  "source_sha256": "a4de50ba408cef14badbb37eedd730dc1b998b99078b8d5ea5aa3adb2cf739b6",
+  "source_bytes": 8559,
+  "published": "2018-08-18",
+  "gazette": "30513",
+  "in_force": "2018-08-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.08.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 136,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2018/08/20180818-11-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
