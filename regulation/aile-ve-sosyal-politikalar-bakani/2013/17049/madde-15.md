@@ -1,0 +1,3 @@
+Fazla veya yersiz ödenmiş aylıkların geri alınması
+MADDE 15 – (1) 11 inci maddenin üçüncü fıkrasına göre aylığının kesilmesi gereken ödeme dönemi başından itibaren her ne suretle olursa olsun, istihkaklarından fazla veya yersiz ödenen aylıklar ile 14 üncü maddeye göre tahakkuk ettirilmiş faiz, borcun tahsilinden önce aynı kişiye tekrar aylık bağlanmış olması durumunda aylıklarından mahsup edilir. 13 üncü maddenin dördüncü ve beşinci fıkralarında belirtilen hallerde, anılan hükümlere göre işlem yapılır.
+(2) Borçların mahsup yoluyla tahsil imkânının kalmaması halinde Bakanlık tarafından takip ve tahsili sağlanır.

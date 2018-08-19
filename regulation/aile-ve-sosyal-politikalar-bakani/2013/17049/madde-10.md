@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Karar Sonrası İşlemler, Aylıkların Durdurulması ve Kesilmesi
+Karar sonrası işlemler
+MADDE 10 – (1) (Değişik cümle:RG-25/3/2014-28952) Aylık bağlama işlemi tamamlananlara ait bilgiler, 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (3) numaralı alt bendine göre, 18 yaş altı engelli yakını aylığında, 18 yaşından küçük engellilerin bakımı amacıyla aylık bağlanacak kişilerden genel sağlık sigortalısı veya bakmakla yükümlü olunan kişi durumunda olmayanlar 5510 sayılı Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) numaralı alt bendine göre genel sağlık sigortası kapsamına alınmaları amacıyla Genel Müdürlük tarafından sistem üzerinden Sosyal Güvenlik Kurumuna bildirilir ve bu bildirim sonrasında ilgililer genel sağlık sigortalısı olarak Sosyal Güvenlik Kurumunca tescil olunurlar. Aylıkları durdurulan veya aylıkları kesilenler de aynı yöntemle Sosyal Güvenlik Kurumuna bildirilir.
+(2) Her yıl yapılacak olan sosyal inceleme ve merkezi veri tabanlarından elde edilen bilgiler doğrultusunda durumu değiştiği tespit edilenlerin muhtaçlığı Mütevelli Heyetince tekrar değerlendirilir. Değerlendirme sonucu durumları bu Yönetmelik hükümlerine uygun olmadığı tespit edilenlerin aylıkları kesilir.
+(3) Mütevelli Heyeti kararlarına ilişkin itirazlar ilgili Vakfa yapılır.

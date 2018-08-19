@@ -1,0 +1,4 @@
+İdari yaptırımlar
+MADDE 16 – (1) Aylığa hak kazanmak üzere düzenlenen belgelerin gerçeğe uymadığı tespit edildiği takdirde ödenmiş olan aylıklar için ödeme tarihinden tahsil tarihine kadar geçen süre için Türkiye İstatistik Kurumunca her ay için belirlenen Tüketici Fiyatları Endeksi (TÜFE) aylık değişim oranları esas alınarak hesaplanacak tutarıyla birlikte Bakanlık tarafından borç tahakkuk ettirilerek takip ve tahsili sağlanır.
+(2) Hak sahibinden tahsili imkanının kalmadığı durumlarda, Bakanlık tarafından tahakkuk edilen borç, aylığın ödenmesinde kasıt, kusur veya ihmali olduğu tespit edilenlerden müteselsilen tahsil edilir.
+(3) Gerçeğe uygun olmayan belgeleri düzenleyen ve kullananlar hakkında genel hükümlere göre ceza kovuşturması yapılması için Bakanlık (Ek ibare:RG-19/8/2018-30514) veya Vakıf tarafından Cumhuriyet Savcılığına suç duyurusunda bulunulur. Bu belgeleri düzenleyenlerin kamu görevlisi olması durumunda, haklarında ayrıca idari soruşturma açılır.
