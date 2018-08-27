@@ -1,0 +1,15 @@
+{
+  "number": "K-2018/46511",
+  "award_date": "2018-08-27",
+  "heading_as_published": "27.08.2018 Tarih ve K-2018/46511 Sayılı Hakem Kararı(Tekne)",
+  "issue": "Hakem Karar Dergisi 36 Ekim - Aralık 2018",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs36.pdf",
+  "source_sha256": "95c3bb3acdae668b349cec265a28555e32fb05797732cbe713b571781ecc4143",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 11,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
