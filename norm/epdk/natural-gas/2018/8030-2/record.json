@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8030-2",
+  "decision_date": "2018-08-29",
+  "title": "Organize Toptan Doğal Gaz Satış Piyasası Yönetmeliği kapsamında Sürekli Ticaret Platformu’nda verilebilecek teklif fiyatlarının asgari ve azami sınırlar ve olağandışı durumlarda geçerli olacak fiyatlar hakkında",
+  "resmi_gazete_date": "2018-09-05",
+  "resmi_gazete_number": "30526",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bSL0kw7f1PA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bSL0kw7f1PA="
+  ],
+  "source_sha256": "81b9bcba0adef51ebb382954cda3c6402d9b2fce7871d191fa47de8e40c6deed",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-08-29",
+  "law_text_complete": true
+}
