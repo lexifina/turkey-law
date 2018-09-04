@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 1,
+  "esas_no": "7/2705",
+  "submitted": "2018-09-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "İbrahim ÖZYAVUZ",
+  "province": "Şanlıurfa",
+  "summary": "Şanlıurfa ilinde 2011 yılından bugüne kadar Bakanlığın gerçekleştirmiş olduğu enerji harcamaları ve yatırımlara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-c99b-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "dc7b808cd91a5c290aa6591070d058994a927eb662bbec371500b27a31acbf6a",
+  "in_force": "2018-09-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
