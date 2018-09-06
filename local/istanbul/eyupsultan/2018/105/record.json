@@ -1,0 +1,22 @@
+{
+  "number": "105",
+  "number_as_published": "2018/105",
+  "year": 2018,
+  "title": "Kırtasiye desteği",
+  "decision_date": "2018-09-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-eylul-ayi-meclis-kararlari/1529",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-105/1531",
+  "source_sha256": "a7654668fae5649a3596811d846a10893f484ef0a86e1a07b864451689c88877",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-09-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.09.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "87136dc47d1d8f0d03885dade6dbe7494c6bd71ed4b55c90011f1027d8405919"
+}
