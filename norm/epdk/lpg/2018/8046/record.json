@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "8046",
+  "decision_date": "2018-09-06",
+  "title": "Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu ve Elektrik Piyasası Kanununda Değişiklik Yapılmasına Dair Kanun kapsamında piyasa faaliyetine konu etmemek kaydıyla, lisans almaya gerek olmaksızın kendi işletme, faaliyet veya tesisinde veya hizmet verdiği kişilerin işletme, faaliyet veya tesisinde ihtiyaç duyulan LPG'nin, ithal edilebileceğine ilişkin",
+  "categories": [
+    "Analiz ve Muayene"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Jzi8/NqA72w=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Jzi8/NqA72w="
+  ],
+  "source_sha256": "3d1324bfa353645829dc43cb956d80cb5b5fd3b2c2d9e07148a2194da44b00ab",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5094,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2018-09-06",
+  "law_text_complete": false
+}
