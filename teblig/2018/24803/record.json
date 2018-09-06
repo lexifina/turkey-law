@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24803",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TARIMSAL SULAMAYA İLİŞKİN VADESİ GELDİĞİ HALDE ÖDENMEYEN İŞLETME VE BAKIM ÜCRETİ VEYA SU KULLANIM HİZMET BEDELİ İLE ELEKTRİK ENERJİSİ BORCU BULUNAN ÇİFTÇİLERİN BORÇLARININ TARIMSAL DESTEKLEME ÖDEMELERİNDEN MAHSUBEN ALINMASINA İLİŞKİN TEBLİĞ",
+  "number": "24803",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "path": "teblig/2018/24803",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24803&MevzuatTertip=5",
+  "source_sha256": "f35c86f57d1b8b6819f229b71181caea207c25687e49335c16e423d910cf8c93",
+  "source_bytes": 23493,
+  "published": "2018-09-06",
+  "gazette": "30527",
+  "in_force": "2018-09-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.09.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 920,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24803-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
