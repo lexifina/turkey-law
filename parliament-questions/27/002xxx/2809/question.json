@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 1,
+  "esas_no": "7/2809",
+  "submitted": "2018-09-07",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Bekir BAŞEVİRGEN",
+  "province": "Manisa",
+  "summary": "İthal edilen hayvanlara ve hayvanlarda rastlanan şarbona ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-cc9d-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "a96016af3d503adbb078f388da1c9b8d3acd0e11c494bc2a18a05a87606c51ce",
+  "in_force": "2018-09-07",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
