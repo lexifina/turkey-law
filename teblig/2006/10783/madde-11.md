@@ -1,0 +1,3 @@
+Bilgi alış verişi
+MADDE 11 – (1) Ham elmasın üretim, ithalat ve ihracatına ilişkin bilgiler (Değişik ibare:RG-7/9/2018-30528) Borsa İstanbul A.Ş. nezdinde elektronik ortamda saklanır. Söz konusu bilgiler altı aylık dönemler itibariyle (Değişik ibare:RG-7/9/2018-30528) Borsa İstanbul A.Ş. tarafından (Değişik ibare:RG-7/9/2018-30528) Hazine ve Maliye Bakanlığına, (Değişik ibare:RG-7/9/2018-30528) Ticaret Bakanlığına ve Kimberley Süreci Sekreteryasına rapor edilir.
+(2) (Değişik ibare:RG-7/9/2018-30528) Borsa İstanbul A.Ş., katılımcı ülkelerin ham elmas ihracatçıları ile ilgili olarak Kimberley Süreci Sekreteryası ile bilgi alış verişinde bulunur.
