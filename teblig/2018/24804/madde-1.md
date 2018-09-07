@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Yunanistan menşeli/çıkışlı 54.07 gümrük tarife pozisyonunda tanımlı “sentetik filament ipliklerinden dokunmuş mensucat” ithalatında RB Karesi İthalat İhracat Tekstil San. ve Tic. A.Ş.’den alınan başvuru üzerine; 55.13, 55.14, 55.15 ve 55.16 gümrük tarife pozisyonunda tanımlı “sentetik veya suni devamsız liflerden dokunmuş mensucat” ithalatında ise Ticaret Bakanlığı tarafından re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
