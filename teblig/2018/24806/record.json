@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24806",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/4)",
+  "number": "24806",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24806",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24806&MevzuatTertip=5",
+  "source_sha256": "2cb1c43ed6a342e8e44895f49c6a7150233a1db227dc89883aab9536fa964ef8",
+  "source_bytes": 16238,
+  "published": "2018-09-09",
+  "gazette": "50530",
+  "in_force": "2018-09-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.09.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 641,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24806-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
