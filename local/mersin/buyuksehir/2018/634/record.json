@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "634",
+  "decision_date": "2018-09-10",
+  "title": "MEC.KAR. (SİLİFKE MUKADDEM 229-220 ADA).doc",
+  "listed_as": "634 MEC.KAR. (SİLİFKE MUKADDEM 229-220 ADA).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/634-meckar-silifke-mukaddem-229-220-adadoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-eylul-2018-meclis-kararlari",
+  "listing_sha256": "181086ebf7ab78507603d97ebb20e82484f8f5cc74fb966dafec57e2781d765e",
+  "meeting_title": "10 EYLÜL 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
