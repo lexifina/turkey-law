@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45000",
+  "decision_date": "2018-09-12",
+  "source_id": 18086,
+  "chamber": "5",
+  "file_number": "42875",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18086/",
+  "source_sha256": "8af9b6258598a816c47ff1282617a5b8b1b1db1b1a682bd70e380c1e46f1fe89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
