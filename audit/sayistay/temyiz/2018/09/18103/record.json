@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45017",
+  "decision_date": "2018-09-12",
+  "source_id": 18103,
+  "chamber": "5",
+  "file_number": "42931",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18103/",
+  "source_sha256": "37f7c8168016810e3c53224c3d9ffc4700e98c7b2023388c608b6ea5fa149812",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
