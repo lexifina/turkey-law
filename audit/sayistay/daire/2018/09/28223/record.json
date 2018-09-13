@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "263",
+  "decision_date": "2018-09-13",
+  "source_id": 28223,
+  "chamber": "7",
+  "ilam_number": "32",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28223/",
+  "source_sha256": "2a1979212f52a3ef917bf01a0e502a3252911ae577171f2b10e4319cad74d068",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
