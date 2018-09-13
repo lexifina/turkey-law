@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/106",
+  "source_id": 5421,
+  "date": "2018-09-13",
+  "title": "“Kimliği belirsiz kişi/kişilerin veri sorumlusu olarak kabul edilemeyeceği hakkında” Kişisel Verileri Koruma Kurulunun 13/09/2018 tarihli ve 2018/106 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5421/2018-106",
+  "source_sha256": "f2b2bc5637c15ca3b8eaa1557f4a395b918e0741de9ac49070aa4bbcdadab830",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
