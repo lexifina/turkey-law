@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8057-4",
+  "decision_date": "2018-09-13",
+  "title": "Başkentgaz Tarafından Ön Ödemeli Sayaçlarda Uugulanacak Türk Lirası Düzeltme Uygulama Yöntemine ilişkin",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Izen6rCXI8E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Izen6rCXI8E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p+o1yAHYG7g="
+  ],
+  "source_sha256": "c6b38fb5deb6cc1751f9f511e03eeb563d8436cd9c45c2774861b20dfb1d28fc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2018-09-13",
+  "law_text_complete": false
+}
