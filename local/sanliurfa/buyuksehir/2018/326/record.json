@@ -1,0 +1,24 @@
+{
+  "number": "326",
+  "number_as_published": "326",
+  "year": 2018,
+  "title": "NAZIM VE UYGULAMA İMAR PLAN (VİRANŞEHİR-ELBEĞENDİ)",
+  "decision_date": "2018-09-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/7442/106/nazim-ve-uygulama-imar-plan-viransehir-elbegendi",
+  "official_document": null,
+  "source_sha256": "593cd81d5a014a0445e7299e498a03e4c924819ee3f22c350df162dccac4c129",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-09-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.09.2018 tarih ve 326 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-01-04",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
