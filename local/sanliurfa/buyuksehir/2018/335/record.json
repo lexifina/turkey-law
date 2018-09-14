@@ -1,0 +1,24 @@
+{
+  "number": "335",
+  "number_as_published": "335",
+  "year": 2018,
+  "title": "Nazım ve Uygulama İmar Planı Değ. (SİVEREK)",
+  "decision_date": "2018-09-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6901/106/nazim-ve-uygulama-imar-plani-deg-siverek",
+  "official_document": null,
+  "source_sha256": "62c4f8608d75cac4af5a2a3f3dbf7b534d2236864462cae0f592f6a1224ddf74",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-09-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.09.2018 tarih ve 335 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-09-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
