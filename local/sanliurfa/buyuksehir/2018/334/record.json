@@ -1,0 +1,24 @@
+{
+  "number": "334",
+  "number_as_published": "334",
+  "year": 2018,
+  "title": "İlave + Revizyon Nazım ve Uygulama İmar Planı Değişikliği(AKÇAKALE-ATATÜRK)",
+  "decision_date": "2018-09-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/6904/106/ilave--revizyon-nazim-ve-uygulama-imar-plani-degisikligiakcakale-ataturk",
+  "official_document": null,
+  "source_sha256": "b11e913c10869929f6d2079ab03aa90ed6eb746c24c839e69ed8c0c2e55576e4",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2018-09-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.09.2018 tarih ve 334 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2018-09-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
