@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "657",
+  "decision_date": "2018-09-14",
+  "title": "MEC. KAR. (GÜLNAR AYVALI 20 ADA 314)).doc",
+  "listed_as": "657 MEC. KAR. (GÜLNAR AYVALI 20 ADA 314)).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/657-mec-kar-gulnar-ayvali-20-ada-314doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-eylul-2018-meclis-kararlari",
+  "listing_sha256": "036801e83659250695647464718144754ab889fdf9b2dc865bce14aae9b766a0",
+  "meeting_title": "14 EYLÜL 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
