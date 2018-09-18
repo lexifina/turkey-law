@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "552",
+  "decision_date": "2018-09-18",
+  "source_id": 28290,
+  "chamber": "6",
+  "ilam_number": "26",
+  "item_number": 31,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28290/",
+  "source_sha256": "f9b9c6f325d35fec5760aa7ea8c25a35bdd928bda878949a2fed6a3ca08e6535",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
