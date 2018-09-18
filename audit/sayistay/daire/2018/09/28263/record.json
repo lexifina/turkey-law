@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "552",
+  "decision_date": "2018-09-18",
+  "source_id": 28263,
+  "chamber": "6",
+  "ilam_number": "26",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28263/",
+  "source_sha256": "d08dad9d2d7970d577e620f01a536ad79c3b96ac2972fa3139cfb4e9b2046b09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
