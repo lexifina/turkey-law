@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-09-18T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-09-18",
+  "official_number": "76464994-130[KDV.2017.217] - 161346",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32300",
+  "source_id": "ozelge:32300",
+  "source_row_sha256": "e15fb5aa329dcc8923dd7bc10646def567a5bc478f9fdb1e7e898c2fcfae1b92",
+  "title": "Diyetisyen ve beslenme uzmanlığı faaliyetlerinde KDV oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 531
+}
