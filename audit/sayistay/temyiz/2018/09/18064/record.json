@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45038",
+  "decision_date": "2018-09-19",
+  "source_id": 18064,
+  "chamber": "4",
+  "file_number": "43445",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18064/",
+  "source_sha256": "659308bf66e8f11c2ab1777fe34a6ce84fb0da40016cf4ec7447a3ebdf7374de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
