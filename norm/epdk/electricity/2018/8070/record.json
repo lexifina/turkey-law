@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8070",
+  "decision_date": "2018-09-20",
+  "title": "2018 yılı için dönemsel olarak hesaplanacak Toplam Kalite Puanının aynı yıl, 2019 ve 2020 yıllarında ise bir önceki yıl (t-1 yılı) için hesaplanacak Toplam Kalite Puanının cari yıl (t yılı) sistem işletim gelir tavanına yansıtılmasına",
+  "resmi_gazete_date": "2018-09-28",
+  "resmi_gazete_number": "30549",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FqGxhQvgcNI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FqGxhQvgcNI="
+  ],
+  "source_sha256": "12473297b6e4719bafe166f13de49ad3e927f01b69dfb2a48f11f858640c77fc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-09-20",
+  "law_text_complete": true
+}
