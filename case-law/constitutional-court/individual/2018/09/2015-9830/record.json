@@ -1,0 +1,20 @@
+{
+  "applicant": "H.M.",
+  "application_date": "2015-06-12",
+  "application_number": "2015/9830",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-09-20",
+  "id": "174636d2-4757-2ccc-e757-f2c1708c4247",
+  "in_force": "2018-09-20",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE3NDYzNmQyLTQ3NTctMmNjYy1lNzU3LWYyYzE3MDhjNDI0Nw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "36f359f173fe39317bf48bd13c38f5260102ce9c07e21f413e200503ede22b7c",
+  "version_label": "as-enacted"
+}
