@@ -1,0 +1,20 @@
+{
+  "applicant": "S.T.",
+  "application_date": "2016-11-02",
+  "application_number": "2016/22775",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-09-20",
+  "id": "b4839ec9-818d-19ec-405e-5fae3177b834",
+  "in_force": "2018-09-20",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI0ODM5ZWM5LTgxOGQtMTllYy00MDVlLTVmYWUzMTc3YjgzNA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "dccdccb748490488323bcbb33e794300fd9b55f9dbc00df7ffdd080d03cda2ac",
+  "version_label": "as-enacted"
+}
