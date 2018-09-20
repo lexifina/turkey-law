@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8069",
+  "decision_date": "2018-09-20",
+  "title": "Kalite Faktörü Uygulamasına İlişkin Usul ve Esaslar",
+  "resmi_gazete_date": "2018-09-28",
+  "resmi_gazete_number": "30549",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v3bOOCnkPD4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v3bOOCnkPD4="
+  ],
+  "source_sha256": "5a55ce75ca4a686b057fa0569d9ccbaca1a0c65a900e5536d7104d8957c2ff53",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2018-09-20",
+  "law_text_complete": false
+}
