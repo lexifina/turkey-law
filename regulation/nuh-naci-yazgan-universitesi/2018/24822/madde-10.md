@@ -1,0 +1,2 @@
+Müdür Yardımcısı
+MADDE 10 – (1) Merkezde bir Müdür Yardımcısı bulunur. Müdürün önerisi üzerine Rektör tarafından üç yıl süre ile görevlendirilir. Merkezin faaliyet alanları konusunda eğitim ve araştırma deneyimine sahip uzmandır. Müdür görevi başında bulunmadığı zamanlarda, yerine vekâlet eder. Müdür Yardımcısı, Müdürün kendisine vereceği görevleri yerine getirir. Müdürün görevi sona erdiğinde Müdür Yardımcısının görevi de kendiliğinden sona erer.
