@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "271",
+  "decision_date": "2018-09-20",
+  "source_id": 27066,
+  "chamber": "7",
+  "ilam_number": "11",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27066/",
+  "source_sha256": "3e4a87ea90857cca1beeff03f07066bd9a22853557a8ea3b7e70c0e2c972b80a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
