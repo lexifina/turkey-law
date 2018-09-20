@@ -1,0 +1,5 @@
+Tebligat
+MADDE 37 – (1) Her türlü tebligat, öğrencinin Üniversiteye kayıt sırasında bildirdiği ya da daha sonra öğrenci bilgi sisteminde güncellediği posta adresine taahhütlü olarak yapılmak veya Üniversite tarafından öğrenci adına tanımlanmış kişisel e-posta adresine gönderilmek veya ilgili birimde ilan edilmek suretiyle tamamlanmış sayılır.
+(2) Öğrenci, Üniversite tarafından verilen e-posta adresini aktif durumda tutmak, e-postalarını düzenli olarak takip etmek, Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini öğrenci bilgi sistemi üzerinden güncellemek zorundadır.
+(3) Öğrencinin e-postalarını takip etmemesi, duyuruların gönderildiği e-posta adresinin aktif olmaması nedeniyle okunmamış tebligatlar veya yanlış/eksik adres beyan edilmiş adrese yapılmış tebligatlar tebliğ edilmiş sayılır.
+(4) Öğrencilerin genelini ilgilendiren yönetmelik, yönerge, senato esasları, akademik işlemler ve değişiklikler ve sair işlemler ile ilgili düzenlemeler, Üniversitenin/birimin resmi internet sitesinde yayımlanır. Öğrenci bu duyuruları takip etmekle yükümlüdür.

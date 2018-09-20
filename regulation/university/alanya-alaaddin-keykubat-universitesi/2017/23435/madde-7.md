@@ -1,0 +1,3 @@
+Kayıt yenileme
+MADDE 7 – (1) Kayıt yenileme işlemi, derse kayıt ve mevzuatta belirtilen öğrencilerin katkı payı ödenmesini içerir. Üniversite öğrencileri her yarıyıl Senato tarafından belirlenen tarihlerde kayıtlarını yenilemek zorundadırlar. İlan edilen tarihlerde kayıtlarını yenilemeyen öğrencilerden mazereti birim yönetim kurulunca uygun görülenlerin kayıtları, akademik takvimde belirtilen süre içinde gecikmeli olarak yapılır. Kayıt yenilenmeyen yarıyıl, öğretim süresinden sayılır.
+(2) Kaydını yenilemeyen öğrenciye o yarıyıl içinde herhangi bir öğrenci belgesi verilmez ve bu öğrenci öğrencilik haklarından yararlanamaz.

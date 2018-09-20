@@ -1,0 +1,2 @@
+Lisans öğrencilerine ön lisans diploması verilmesi
+MADDE 36 – (1) Bağlı bulunduğu lisans programından ilişiğinin kesilmesi durumuna gelen ve dördüncü yarıyıl sonuna kadar öğretim planında bulunan zorunlu ve seçmeli ders kredilerini bu Yönetmelik hükümlerine göre başarı ile tamamlayan ve dördüncü yarıyıl sonu itibarıyla ağırlıklı genel not ortalaması en az 2.00’ye ulaşmış olan öğrencilere başvurması halinde ön lisans diploması verilir. Ön lisans diploması alınabilmesi için % 30 veya %100 İngilizce öğretim şartı aranmaz.

@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 28 – (1) (Değişik:RG-20/9/2018-30541 Mükerrer) Öğrenci, bir dersteki başarı durumu sonucuna, dersin sınav sonuçlarının ilan edilmesinden itibaren iki iş günü içerisinde, öğrencisi olduğu birime yazılı olarak başvurarak maddi hata itirazında bulunabilir. İlgili birim, söz konusu itirazı ilgili öğretim elemanına yazılı olarak iletir. İlgili öğretim elemanı üç iş günü içinde itirazı değerlendirir ve ilgili birime sonucunu bildirir.
+(2) Dersi veren öğretim elemanı tarafından öğrenci otomasyon sistemine işlenerek kesinleştirilen derslerin başarı notlarına ilişkin her türlü değişiklik birim yönetim kurulu kararı ile Öğrenci İşleri Daire Başkanlığı tarafından yapılır.

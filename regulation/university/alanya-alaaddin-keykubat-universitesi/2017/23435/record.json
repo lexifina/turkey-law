@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-alaaddin-keykubat-universitesi/2017/23435",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 41 – (1) Bu Yönetmelik 5/6/2017 tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-20/9/2018",
+  "first_law": null,
+  "gazette": "30015",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-09-20",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Alaaddin Keykubat Üniversitesi",
+  "issuer_slug": "alanya-alaaddin-keykubat-universitesi",
+  "kind": "regulation",
+  "published": "2017-03-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23435&MevzuatTertip=5",
+  "source_id": "8.5.23435",
+  "source_sha256": "01294a216f47cc050dc186e59b0404ac7eb8393cc737c41e311db00e27f3b8bc",
+  "title": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM – ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 457,
+  "version_label": "oldest version available",
+  "word_count": 5780
+}

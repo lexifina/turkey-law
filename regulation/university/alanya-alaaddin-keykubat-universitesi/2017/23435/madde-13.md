@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim-Öğretimle İlgili Esaslar
+Öğretim yılı
+MADDE 13 – (1) Öğretim yılı, güz ve bahar yarıyılları ile yaz öğretiminden oluşur. Güz ve bahar yarıyıllarının her birinin normal süresi 14 haftadır. Gerekli hallerde bu süre Senato tarafından değiştirilebilir. Akademik takvim, her akademik yılın başlamasından önce Senato tarafından belirlenir ve ilan edilir. Yaz öğretimi uygulama esasları, Senato tarafından düzenlenir. Öğretimin yapılacağı gün ve saatler Senato tarafından belirlenir. Resmi tatil günleri öğretim ve sınav yapılmaz. Ancak gerektiğinde dersi veren birim tarafından önerilen ve Yönetim Kurulunca uygun görülen derslerin, ders ve sınavları Cumartesi ve Pazar günleri yapılabilir.
+(2) 14 üncü maddenin birinci fıkrasında belirtilen azami süre içinde diploma alamayan öğrencilerin, müfredat değişikliği veya isimleri değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği ilgili mevzuat hükümleri ve YÖK Başkanlığının kararları doğrultusunda ilgili yönetim kurulu tarafından belirlenir.
+(3) Üniversitenin, eğitim-öğretim süreçlerinin sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve eğitim-öğretimin devamına ilişkin diğer hususlar Senato tarafından belirlenir.

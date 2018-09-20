@@ -1,0 +1,4 @@
+Yarıyıl sonu sınav dönemi
+MADDE 26 – (1) Her yarıyıl sonunda bir sınav dönemi vardır. Sınav dönemi içinde ilgili yönetim kurulunca kabul edilecek nedenlerle sınavı yapılamayan dersler için o sınav dönemine süre eklenir.
+(2) Arazi üzerinde yapılması gereken derslerle, sınava girme hakkı bir arazi çalışmasının sonucuna bağlı olan derslerin sınavları arazi çalışmalarının bitiminde de yapılabilir. Bitirme projesi/bitirme tasarım projesi, yarıyıl sonu veya yaz öğretimi sonu sınav dönemlerinde veya onu izleyen hafta içinde yapılır.
+(3) Yarıyıl sonu sınav programları akademik birimler tarafından, sınav dönemi başlamadan en az iki hafta önce ilan edilir. Sınavlar, programda gösterilen gün, yer ve saatte Üniversite binalarında yapılır. Ancak, arazi üzerinde yapılan ders ve uygulamaların sınavları, arazi üzerinde veya Üniversite binaları dışında yapılabilir.
