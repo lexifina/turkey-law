@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2018/UK-ETD/278",
+  "date": "2018-09-20",
+  "title": "Uzlaştırma - G.SHDSL Trafiği (Türk Telekom - Grid)",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2018-09-20",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=63",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/828d78db-03c7-4978-9fa3-2108b3402865.pdf",
+  "source_sha256": "978894bd1525340ab408cb3efeb45a58dbaf44f57b0438c9043ab1b8f66f12ec",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2018-09-20",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 20.09.2018; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
