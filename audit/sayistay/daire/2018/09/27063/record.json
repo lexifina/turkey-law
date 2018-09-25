@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10708",
+  "decision_date": "2018-09-25",
+  "source_id": 27063,
+  "chamber": "1",
+  "ilam_number": "386",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27063/",
+  "source_sha256": "baaa41740476d05e2b250ef770d77237b0cd413bb7d32e2ac564aac8c3209d30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
