@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10709",
+  "decision_date": "2018-09-25",
+  "source_id": 28361,
+  "chamber": "1",
+  "ilam_number": "138",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28361/",
+  "source_sha256": "6b76944ddf05e2e63a1a16f7b7a55f2a753724a9469e17c4ac85bfb8f316a68f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
