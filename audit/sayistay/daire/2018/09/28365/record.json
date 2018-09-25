@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10709",
+  "decision_date": "2018-09-25",
+  "source_id": 28365,
+  "chamber": "1",
+  "ilam_number": "138",
+  "item_number": 7,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28365/",
+  "source_sha256": "609479ba5d6c128f71a56280bb6c2814ed081953da011dd64819f19d813c5ab6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
