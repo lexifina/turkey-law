@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45056",
+  "decision_date": "2018-09-26",
+  "source_id": 17820,
+  "chamber": "5",
+  "file_number": "42905",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17820/",
+  "source_sha256": "276fb56aad03067d910d97f69b6cb5f448474edb58f09bb665c5a3d4bd635d1a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
