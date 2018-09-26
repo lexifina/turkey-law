@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45096",
+  "decision_date": "2018-09-26",
+  "source_id": 17870,
+  "chamber": "5",
+  "file_number": "42908",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17870/",
+  "source_sha256": "f02df60ef48526d13ad15d61e3781222bb4b9564f4495a7872e5ef045709edfa",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
