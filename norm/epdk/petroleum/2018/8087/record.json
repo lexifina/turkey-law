@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8087",
+  "decision_date": "2018-09-27",
+  "title": "Marmara Depoculuk Hizmetleri A.Ş.’nin; Tekirdağ Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-10-03",
+  "resmi_gazete_number": "30554",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eBjM4DEdZ6k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eBjM4DEdZ6k=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=52M3Q0DGAr4="
+  ],
+  "source_sha256": "a0a542ac229006283ac3aae4b96eaa5863ecd1800eb9cf1ca3efd8c4e3cf7546",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-09-27",
+  "law_text_complete": true
+}
