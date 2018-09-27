@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "562",
+  "decision_date": "2018-09-27",
+  "source_id": 27047,
+  "chamber": "6",
+  "ilam_number": "342",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27047/",
+  "source_sha256": "a1fd894122d2492ba33f9467ac9e176bcfe8c278057ce1576b431cdb68641041",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
