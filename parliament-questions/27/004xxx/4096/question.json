@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 1,
+  "esas_no": "7/4096",
+  "submitted": "2018-09-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Uğur BAYRAKTUTAN",
+  "province": "Artvin",
+  "summary": "Artvin Arhavi'de Devlet tarafından müsadere edilen FETÖ terör örgütüne ait bir yurda ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-d184-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "4307cd9541bd108809882aea421a9971aa54a0c6afc4eaec725c5342409e8cb2",
+  "in_force": "2018-09-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
