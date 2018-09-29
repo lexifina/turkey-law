@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 2 – (Ek:RG-29/9/2018-30550)
+(1) Bu maddenin yürürlüğe girdiği tarihten önce çıkış ülkesinde ihraç amacıyla taşıma belgesine bağlanmış veya gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş, bu Yönetmeliğin EK-1’inde yer alan 1901 ve 2309 tarife pozisyonları için bu maddeyi ihdas eden Yönetmeliğin yürürlük tarihinden önceki hükümleri uygulanır.
+(2) Bu Yönetmeliğin EK-1’inde yer alan 1901 ve 2309 tarife pozisyonları dışında kalanlar ile EK-2’sinde yer alan tarife pozisyonları için 1/1/2019 tarihinden önce çıkış ülkesinde ihraç amacıyla taşıma belgesine bağlanmış veya gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş olanlara bu maddeyi ihdas eden Yönetmeliğin yürürlük tarihinden önceki hükümleri uygulanır.
