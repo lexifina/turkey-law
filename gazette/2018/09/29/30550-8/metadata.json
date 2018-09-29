@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-09-29",
+  "issue": "30550",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hukuk Muhakemeleri Kanunu Tanık Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/09/20180929-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/09/20180929.htm",
+  "index_sha256": "4ee76627d2750b79b56d3dfa4f212a18a2768b26bb7236c97136dbb5020c040c",
+  "index_header": "29 Eylül 2018 ... 30550 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/09/20180929.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "bb548dd4aca2756730f60b99ab3732b2efd94ab729dc4e8f69cfd3a9a336f47c",
+  "text_status": "text.txt as published"
+}
