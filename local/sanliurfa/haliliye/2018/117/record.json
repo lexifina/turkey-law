@@ -1,0 +1,29 @@
+{
+  "number": "117",
+  "number_as_published": "2018/117",
+  "year": 2018,
+  "month": 9,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2018-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2018",
+  "source": "https://www.haliliye.bel.tr/icerik/2509/39/eylul-2018",
+  "official_page": "https://www.haliliye.bel.tr/icerik/2509/39/eylul-2018",
+  "official_document": null,
+  "source_sha256": "67c81b0451aa2f2128c221a993b91358820a076f2549b79da548da62d687665d",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2018-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "EYLÜL 2018",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
