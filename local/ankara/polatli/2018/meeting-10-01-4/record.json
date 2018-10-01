@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-01-4",
+  "number_as_published": "meeting-10-01-4",
+  "year": 2018,
+  "title": "01 Ekim 2018 Meclis Kararları(1. Oturum)",
+  "decision_date": "2018-10-01",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=21",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/hnih3KIPl9P8yEEyMy.pdf",
+  "source_sha256": "2f9efe936c37d8d6381148016610bde47b8c195d7fd725e9e323f0a0d835ca42",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-10-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01 EKİM 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01 Ekim 2018 Meclis Kararları(1. Oturum)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "0af94da20a8da04m.pdf",
+  "list_date": "2018-10-01"
+}
