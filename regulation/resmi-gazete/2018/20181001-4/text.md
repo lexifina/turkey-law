@@ -1,0 +1,242 @@
+1 Ekim 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30552
+YÖNETMELİK
+İzmir Demokrasi Üniversitesinden:
+İZMİR DEMOKRASİ
+ÜNİVERSİTESİ ENERJİ ÇALIŞMALARI UYGULAMA
+VE
+ARAŞTIRMALARI MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; İzmir
+Demokrasi Üniversitesi Enerji Çalışmaları Uygulama ve Araştırmaları Merkezi
+teşkilat, yönetim, çalışma usul ve esaslarını düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; İzmir Demokrasi
+Üniversitesi Enerji Çalışmaları Uygulama ve Araştırmaları Merkezinin
+amaçlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin
+hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci
+fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez: İzmir Demokrasi Üniversitesi Enerji
+Çalışmaları Uygulama ve Araştırmaları Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Senato: İzmir Demokrasi Üniversitesi Senatosunu,
+d) Rektör: İzmir Demokrasi Üniversitesi Rektörünü,
+e) Üniversite: İzmir Demokrasi Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin
+Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 –
+(1) Merkezin amaçları şunlardır:
+a) Çevre ve enerji teknolojileri alanlarında,
+özellikle uygulamaya yönelik araştırma çalışmaları yapmak ve teknolojiler
+geliştirmek.
+b) Kömür, petrol, doğal gaz, nükleer gibi klasik
+enerji kaynaklarının kullanımında verimliliği artırmaya ve bu kaynakların
+kullanımı ile enerji üretimi yapan merkezlerin çevreye muhtemel olumsuz
+etkilerini gidermeye/azaltmaya yönelik araştırma-geliştirme çalışmaları
+yapmak, yaptırmak ve bu konuda yeni yöntem, süreç ve teknolojiler geliştirerek
+uygulamak.
+c) Rüzgâr, güneş jeotermal, biyokütle gibi
+alternatif ve yenilenebilir enerji kaynaklarının kullanıldığı, çevre ile
+uyumlu temiz enerji üretmeye yönelik yöntem, süreç ve teknoloji geliştirme
+konularında araştırmalar yapmak, bunları uygulamaya aktarmak, bu konularda
+yapılan çalışmalara katkı yapmak ve bu çalışmaları teşvik edici
+etkinliklerde bulunmak.
+ç) Araçlarda yeni ve temiz enerji kaynaklarının
+kullanımına yönelik araştırma-geliştirme çalışmaları yapmak, ilgili
+teknolojileri geliştirerek uygulamaya koymak.
+d) Sanayide ve binalarda enerji kullanım
+performanslarını saptamak, bu alanlarda enerjinin etkin-verimli kullanımını
+sağlamaya ve enerji kaybını azaltmaya yönelik yöntem ve teknolojileri
+geliştirmek.
+e) Uygulamaya yönelik temel bilimler ve mühendislik
+araştırmalarını disiplinler arası düzeyde gerçekleştirerek çevre ve enerji
+teknolojisi konularında gelişmiş ürün, yöntem, süreç ve teknolojileri
+ortaya çıkarmak amacıyla farklı bilim ve teknoloji alanlarını bir araya
+getiren koordineli proje çalışmalarını yürütmek.
+f) Halen kullanılmakta olan ve geliştirilerek
+uygulamaya konulacak enerji üretim yöntem ve teknolojileri ile ilgili
+olarak gerektiğinde çevre hukuku ve enerji hukuku açısından
+değerlendirmeler ve bilirkişilik yapmak.
+g) Enerji teknolojileri alanında uzman araştırma
+görevlileri ve öğretim elemanları yetiştirmek.
+ğ) İlgili alanlarda sanayi, üniversite ve diğer
+araştırma kurum ve kuruluşların işbirliği yapmasını sağlamak, ortak
+projeler geliştirmek ve yürütmek.
+h) Altyapı, proje ve yetişmiş insan gücüyle
+Türkiye’nin enerji ve çevre teknolojileri araştırma/geliştirme faaliyetlerine
+katkı sağlamak.
+ı) Üniversitenin
+fen ve mühendislik bölümlerinde enerji ve çevre teknolojisi konularında
+yapılan çalışmaları desteklemek ve bu disiplinler arasında ortak çalışmalar
+yapılmasını sağlayacak bir platform oluşturmak.
+i) Geliştirilen
+teknolojiler ile elde edilen sonuçların kullanıcı ve uygulayıcılara
+aktarılmasına katkıda bulunmak.
+Faaliyet
+alanları
+MADDE 6 –
+(1) Merkezin faaliyet alanları
+şunlardır:
+a) Alternatif enerji kaynaklarıyla ilgili
+araştırma, inceleme, ölçüm, izleme çalışmaları yapmak, yeni yöntemler
+geliştirmek ve yapılan çalışmalara katkıda bulunmak.
+b) Alternatif enerji konularında bölgesel, ulusal
+ve uluslararası kuruluşlarla işbirliği yapmak, yapılan çalışmaları takip
+etmek ve yürütmek.
+c) Bölgesel, ulusal ve uluslararası düzeyde kurs,
+seminer, konferans, kongre, sempozyum ve benzeri toplantılar düzenlemek.
+ç) Bilimsel ve teknik faaliyetlerin yürütülmesi
+için genel usuller çerçevesinde her türlü iç ve dış yazışmaları yapmak,
+bilimsel ve teknik veriler açıklayan rapor, bülten, proje, kitap, dergi ve
+benzeri yayınlarda bulunmak.
+d) Alternatif enerji kaynakları ile ilgili sistem
+ve bileşenleri, endüstri ile birlikte planlamak, üretmek, performans
+testlerini gerçekleştirmek ve sertifikalandırmak.
+e) Kamu ve özel kuruluşların ihtiyaç duyduğu
+araştırmaları; planlamak, gerçekleştirmek ve kurumlar arası koordinasyonu sağlamak,
+konu ile ilgili sorunlar hakkında araştırmalar, incelemeler, laboratuvar
+deneyleri, ekspertiz raporları ve benzeri işler yapmak.
+f) Enerji
+Bakanlığına bağlı enerji verimliliği (ENVER), rüzgar enerji santralleri
+(RES), sürdürülebilir yenilenebilir enerji programları ve benzeri
+programlarda çalışacak olanlar için kullanılmak üzere; geçerli, yenilenebilir/sürdürülebilir
+enerji uzmanlığı eğitimi ile ilgili programları hazırlamak, uygulamak ve
+gerektiğinde sertifika vermek.
+g) Yenilenebilir enerji kaynaklarından enerji
+üretimini teşvik etmek amacıyla, uygun teknolojinin geliştirilmesi ve
+transferi ile ilgili proje danışmanlık çalışmalarını yürütmek.
+ğ) Rektörlük ve yetkili kurullarca verilecek diğer
+çalışmaları yapmak.
+h) İlgili kurum ve kuruluşlar ile Merkez arasında
+sanayi işbirliğini geliştirmek.
+ı) Merkez ile diğer merkezler ve üniversiteler
+arasında işbirliğini sağlamak.
+i) Merkezi ulusal
+ve uluslararası alanda enerji konusunda politika belirleyen, proje
+geliştiren bir kuruluş haline getirmek için gerekli çalışmaları yapmak.
+j) Üniversite
+öğrencilerine bu konuda araştırma ve geliştirme bilincini kazandırmak.
+ÜÇÜNCÜ BÖLÜM
+Yönetim
+Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+görevleri
+MADDE 8 –
+(1) Müdür; Rektör tarafından
+Merkezin kuruluş amacına uygun bir bilim dalında tam gün çalışan öğretim
+üyeleri arasından üç yıl süre ile görevlendirilir. Süresi biten Müdür,
+yeniden görevlendirilebilir. Müdürün altı aydan fazla görevi başında bulunmaması
+durumunda görevi sona erer.
+(2) Müdür, Üniversite öğretim üyeleri arasından iki
+kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar.
+Müdür görev başında bulunmadığında Müdür Yardımcılarından birine vekâlet
+bırakır. Müdürün görev süresi bitince, yardımcılarının da görevi sona erer.
+(3) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim Kuruluna başkanlık etmek, Yönetim
+Kurulunu toplantıya davet etmek, bu kurulun gündemini belirlemek ve alınan
+kararları uygulamak.
+c) Danışma Kuruluna başkanlık etmek, Danışma
+Kurulunu toplantıya davet etmek, bu kurulun gündemini belirlemek ve alınan
+kararları uygulamak.
+ç) Yurt içi ve yurt dışındaki uygulama ve araştırma
+merkezleri, kamu ve özel sektör kuruluşları ve uluslararası kuruluşlarla
+işbirliği yapmak.
+d) Merkezin çalışma alanıyla ilgili diğer görevleri
+yürütmektir.
+Yönetim
+Kurulu ve görevleri
+MADDE 9 –
+(1) Yönetim Kurulu; Müdürün
+başkanlığında, Üniversitenin Merkezin çalışma alanıyla ilgili öğretim
+üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilecek yedi
+üyeden oluşur. Müdür yardımcıları oy hakkı olmaksızın Yönetim Kurulu toplantılarına
+katılabilir. Müdürün görevde olmadığı zamanlarda yerine yetki verdiği müdür
+yardımcılarından biri vekalet eder. Yönetim Kurulu, Başkanın daveti üzerine
+salt çoğunlukla toplanır ve oy çokluğu ile karar alır. Yönetim Kurulu,
+görevlerini yerine getirmek için çeşitli alt komisyonlar kurabilir.
+(2) Yönetim Kurulunun görevleri şunlardır:
+a) Birimlerin eğitim, öğretim, bilimsel araştırma,
+danışmanlık ve yayın faaliyetlerine ilişkin esasları belirlemek.
+b) Merkezin planladığı veya Merkezden talep edilen
+eğitim, uygulama, araştırma, danışmanlık ve yayın konularındaki talepleri
+değerlendirip karara bağlamak.
+c) Merkezin çalışmalarıyla ilgili plan ve
+programların hazırlanmasını ve uygulanmasını sağlamak.
+ç) Gerekli hallerde Merkezin faaliyetleri ile ilgili
+geçici çalışma grupları oluşturmak ve bunların görevlerini düzenlemek.
+d) Kamu kurum ve kuruluşları, özel sektör, yurt
+dışındaki kurum ve kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel
+ilke, esas ve usullerini belirlemek.
+e) Merkezin yönetimi ile ilgili diğer kararları
+almaktır.
+Danışma
+Kurulu ve görevleri
+MADDE 10
+– (1) Danışma Kurulu; Rektör
+tarafından belirlenen fakülte, yüksekokullardan ve meslek yüksekokullarından
+birer, toplam üç temsilci ile yine Rektör tarafından davet edilen
+üniversite dışından en az beş temsilcinin iştirakiyle oluşur. Görev
+süreleri üç yıldır. Süresi biten üyeler yeniden görevlendirilebilir.
+Süreleri bitmeden herhangi bir nedenle ayrılan üyenin yerine, kalan süreyi
+doldurmak üzere aynı usulle yenileri görevlendirilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda
+en az iki defa toplanır ve oyçokluğu ile karar alır. Danışma Kurulu;
+Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunan ve istişari
+nitelikte görüş bildiren bir kuruldur. Toplantılarda merkez çalışmaları
+değerlendirilir, öneriler geliştirilir ve bir sonraki çalışma yılına ait
+program değerlendirilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+ihtiyacı
+MADDE 11
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca,
+Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+(2) Merkez tarafından yürütülen araştırma ve
+uygulamalar kapsamında alınan her türlü makine, teçhizat, sarf malzemesi,
+büro malzemesi ve benzeri malzeme ve demirbaşlar, proje bitiminde Merkezin
+kullanımına tahsis edilir.
+(3) Sanayi, kamu kuruluşları ile ulusal ve
+uluslararası kuruluşlarla gerçekleştirilen ortak projelerde ve işbirliği
+ağlarında, projeler ve işbirliği çerçevesinde edinilen makine, teçhizat,
+sarf malzemesi, büro malzemesi, proje ve işbirliği sözleşmelerinde
+belirtildiği şekilde tahsis edilir.
+Yürürlük
+MADDE 12
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 13
+– (1) Bu Yönetmelik hükümlerini
+İzmir Demokrasi Üniversitesi Rektörü yürütür.
