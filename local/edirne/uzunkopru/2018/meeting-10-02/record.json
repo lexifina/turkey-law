@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-02",
+  "number_as_published": "meeting-10-02",
+  "year": 2018,
+  "title": "02 Ekim 2018 Meclis Karar Özeti",
+  "decision_date": "2018-10-02",
+  "source": "https://uzunkopru.bel.tr/meclis-kararlari/",
+  "official_document": "https://uzunkopru.bel.tr/meclis/2018/meclis_karar_ozeti_ekim_2018.pdf",
+  "source_sha256": "d83890e02a54cacfb681cb354285dabb145a95a97deab3b3a5d240a89a289cd7",
+  "issuer": "Uzunköprü Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-10-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02 EKİM 2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02 Ekim 2018 Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting)"
+}
