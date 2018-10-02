@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10712",
+  "decision_date": "2018-10-02",
+  "source_id": 27062,
+  "chamber": "1",
+  "ilam_number": "553",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27062/",
+  "source_sha256": "53ebf7730889e252c27ed33474ecbcaa703e3d2acb7e5d66cc98019e52b8cb3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
