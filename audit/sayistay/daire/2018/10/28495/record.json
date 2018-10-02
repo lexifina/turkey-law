@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10710",
+  "decision_date": "2018-10-02",
+  "source_id": 28495,
+  "chamber": "1",
+  "ilam_number": "23",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28495/",
+  "source_sha256": "26182a73e3d564ec2b9b00a4097df97fa3a2b1f3b5c60742a63d341ea3209b47",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
