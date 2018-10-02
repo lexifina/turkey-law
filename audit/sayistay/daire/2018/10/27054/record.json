@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "566",
+  "decision_date": "2018-10-02",
+  "source_id": 27054,
+  "chamber": "6",
+  "ilam_number": "139",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27054/",
+  "source_sha256": "37e52825909a7f8f10005a58163bd9fe879c46a0d4ee79014f9467b040b003f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
