@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10711",
+  "decision_date": "2018-10-02",
+  "source_id": 28250,
+  "chamber": "1",
+  "ilam_number": "146",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28250/",
+  "source_sha256": "1bab4ae73c1d11a4e5c56f99c173450b70cbabafe2e5190da5034c690f090f90",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

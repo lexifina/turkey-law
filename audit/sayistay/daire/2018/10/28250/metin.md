@@ -1,0 +1,3 @@
+       … Üniversitesi Araştırma ve Uygulama Hastanesi tıbbi malzeme depolarında bulunan … TL tutarlı tıbbi malzemenin son kullanma tarihlerinin geçirilerek kullanılamaz hale getirilmesi ile ilgili olarak … Üniversitesi Rektörlüğü tarafından soruşturma açılmış olduğu anlaşılmıştır.
+
+Söz konusu tıbbi malzemelerin son kullanma tarihlerinin geçirilerek kullanılamaz hale getirilmesinde sorumluluğu bulunanların Rektörlük tarafından yürütülen soruşturma sonucunda ortaya çıkabileceği ve savunma ekinde gönderilen belgelerden incelenen hesap yılı olan … yılında son kullanma tarihi geçmiş tıbbi malzeme bulunmadığı anlaşıldığından, bu aşamada yapılacak bir işlem bulunmadığına oy birliğiyle,
