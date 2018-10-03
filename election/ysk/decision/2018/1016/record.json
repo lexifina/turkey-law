@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1016",
+  "list_number": "1016",
+  "decision_date": "2018-10-03",
+  "title": "24 Haziran 2018 tarihinde yapılan Cumhurbaşkanı seçiminde adaylara yapılan bağış ve yardımlar ile adaylar tarafından yapılan harcamalara ilişkin Yüksek Seçim Kurulunun 2018/1016 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77874/2018-1016.pdf",
+  "source_sha256": "faff07621bf282b4e5cc48067f356e3f7b384f023b6fe0038daadca2a0dc6b77",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 13,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-10-03",
+  "law_text_complete": false
+}
