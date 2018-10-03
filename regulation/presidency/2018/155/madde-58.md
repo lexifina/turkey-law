@@ -1,0 +1,5 @@
+Sözleşme yapılmasında isteklinin görev ve sorumluluğu
+MADDE 58- (1) İhale üzerinde kalan istekli mücbir sebep halleri dışında kesin teminatı vererek sözleşmeyi imzalamak zorundadır. Sözleşme imzalandıktan hemen sonra varsa geçici teminat iade edilir.
+(2) İhale üzerinde kalan istekli ile sözleşme imzalanamadığı takdirde, protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale üzerinde kalan isteklinin varsa geçici teminatı gelir kaydedilir ve ihalelere katılmaktan yasaklamaya ilişkin 4734 sayılı Kanunun ilgili hükümleri uygulanır.
+(3) İhale üzerinde kalan istekli ile sözleşme imzalanamadığı durumda ekonomik açıdan en avantajlı ikinci teklifin ihale yetkilisince uygun görülmesi kaydıyla, İdare, bu teklif sahibi istekli ile görüşme yapmak suretiyle bu Esaslarda belirtilen usullere göre sözleşme imzalayabilir.
+(4) Ekonomik açıdan en avantajlı ikinci teklif sahibinin de mücbir sebep halleri dışında sözleşmeyi imzalamaması durumunda, bu teklif sahibinin de varsa geçici teminatı gelir kaydedilerek ihale iptal edilir ve ihalelere katılmaktan yasaklamaya ilişkin 4734 sayılı Kanunun ilgili hükümleri uygulanır.

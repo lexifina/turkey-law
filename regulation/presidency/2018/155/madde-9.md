@@ -1,0 +1,7 @@
+Proje yürütme komitesi
+MADDE 9- (1) Projenin onaylanmasını müteakip projeyi yürütecek olan birimin harcama yetkilisi tarafından proje yürütme komitesi başkanı, proje koordinatörü ve proje yürütme komitesi üyeleri belirlenir. Harcama yetkilisi proje yürütme komitesinde değişiklik yapmaya yetkilidir. Gerekli hallerde ilgili birimin harcama yetkilisi proje yürütme komitesinde başkan olarak görev alabilir.
+(2) Proje yürütme komitesi, başkan dâhil 3 kişiden az olmamak üzere tek sayıda kişiden oluşur.
+(3) Proje yürütme komitesi, proje iş tanımını veya ihale dokümanını hazırlar, projeyle ilgili mal ve hizmet alımlarını sözleşme hükümlerine göre takip ve kontrol eder, projenin genel koordinasyonunu yürütür, muayene ve kabule ilişkin teknik görüşü oluşturur ve kendisine sözleşmede verilen diğer görevleri yerine getirir.
+(4) Proje yürütme komitesi kararları oyçokluğuyla alınır ve kararlarda tüm üyelerin imzası bulunur. Kararlarda çekimser kalınamaz. Karşı oy kullanan proje yürütme komitesi üyeleri, gerekçesini karara yazar ve imzalar. Proje yürütme komitesi kararları, başkan ve üyelerin adları, soyadları ve görev unvanları belirtilerek imzalanır.
+(5) Projeyi yürüten harcama birimi dışındaki Başkanlık birimlerinde çalışanlar da çalıştığı birimden yazılı izin alınarak proje yürütme komitesinde görevlendirilebilir. Söz konusu izinde personelin projede çalışacağı süre ve çalışma programı belirtilir.
+(6) Gerekli hallerde diğer kamu kurum ve kuruluşlarında çalışan personel de proje yürütme komitesinde görevlendirilebilir.

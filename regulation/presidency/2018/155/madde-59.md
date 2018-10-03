@@ -1,0 +1,2 @@
+Sözleşme yapılmasında İdarenin görev ve sorumluluğu
+MADDE 59- (1) İdare, bu Esaslarda sözleşme yapılması hususunda kendisine düşen görevleri belirtilen süre zarfında yapmakla yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli sürenin bitmesini izleyen günden itibaren en geç 5 gün içinde, 10 gün süreli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde varsa geçici teminat geri verilir ve istekli teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır.

@@ -1,0 +1,4 @@
+Muayene ve kabul komisyonu
+MADDE 67- (1) Proje yürütme komitesince hazırlanan raporun İdareye sunulmasından itibaren 10 iş gününü geçmemek üzere harcama yetkilisince, muayene ve kabul komisyonu oluşturulur ve durum yükleniciye yazılı olarak bildirilir.
+(2) Muayene ve kabul komisyonu 3 kişiden az olmamak kaydıyla tek sayıda kişiden oluşur. Gerekli hallerde projeyi yürüten birimin dışındaki diğer birimlerden de komisyona üye alınabilir. İhaleyi yapan İdarede yeterli sayı ve nitelikte üye bulunamaması halinde, diğer kamu kurum ve kuruluşlarından komisyona üye alınabilir. İhale yetkilisi ve proje yürütme komitesi üyeleri muayene ve kabul komisyonunda görev alamaz.
+(3) Muayene ve kabul komisyonları eksiksiz olarak görev yapar ve kararlarını çoğunlukla alır. Kararlarda çekimser kalınamaz. Çoğunluk kararlarına karşı olanlar, karşı olma nedenlerini kararın altına yazarak imzalar.

@@ -1,0 +1,7 @@
+İhale kaydı, ihale dokümanının hazırlanması, içeriği ve satın alınması
+MADDE 19- (1) İhale dokümanının hazırlanmasından önce İdare tarafından EKAP üzerinden ihale kaydı yapılır. İhale kaydı yapılan her bir ihaleye ihale kayıt numarası (İKN) verilir ve bu aşamadan sonra ihale ile ilgili yapılacak her işlemde bu numara kullanılır.
+(2) İhale dokümanı proje yürütme komitesince hazırlanır.
+(3) İhale dokümanında; isteklilere talimatları da içeren idari şartname ile yaptırılacak işin kapsamı ve teknik özelliklerini belirten teknik şartname, sözleşme taslağı ve gerekli diğer belge ve bilgiler bulunur.
+(4) İhale dokümanı, İdarenin ilanda belirtilen adresinde bedelsiz olarak görülebilir. Ancak, ihaleye katılacak isteklilerin veya ortak girişimlerde ortaklardan birisinin bu dokümanı İdareden satın alması zorunludur. Doküman bedeli, hazırlanma maliyetini aşmayacak ve rekabeti engellemeyecek şekilde İdarece tespit edilir.
+(5) İhale dokümanını satın almak isteyenler, Başkanlık Merkez Saymanlığına ödeyecekleri bedel karşılığında verilecek makbuzu İdareye ibraz ederek bunun karşılığında ihale dokümanını teslim alır.
+(6) Ancak ihale dokümanının İdare tarafından EKAP’a yüklenmesinin tercih edildiği hallerde, ihale dokümanı EKAP üzerinden görülebilir ve e-imza kullanılarak bedelsiz olarak EKAP üzerinden indirilebilir. Bu fıkra kapsamında yapılacak iş ve işlemlere ilişkin hususlarda 25/2/2011 tarihli ve 27857 sayılı Resmi Gazetede yayımlanan Elektronik İhale Uygulama Yönetmeliği ve ilgili mevzuat hükümleri uygulanır.

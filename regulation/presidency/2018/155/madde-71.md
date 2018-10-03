@@ -1,0 +1,2 @@
+Projelerin izlenmesi
+MADDE 71- (1) İdare gerekli gördüğü hallerde projenin gelişimini bilimsel, teknik, idari ve mali açılardan izlemek ve değerlendirmek üzere rapor isteyebilir, yerinde inceleme yapabilir veya yüklenicinin proje ekibini bilgi vermek üzere davet edebilir. İdare gerekli gördüğü takdirde izleme ve değerlendirme için proje konusu ile ilgili faaliyet gösteren gerçek veya tüzel kişilerden ücretli teknik destek alabilir.

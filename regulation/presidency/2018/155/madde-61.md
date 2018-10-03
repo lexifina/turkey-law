@@ -1,0 +1,27 @@
+Sözleşmede yer alacak hususlar
+MADDE 61- (1) Bu Esaslara göre düzenlenecek sözleşmelerde aşağıdaki hususlara yer verilir:
+1) İdarenin adı ve iletişim bilgileri,
+2) Yüklenicinin adı veya ticaret unvanı, tebligata esas adresi ve iletişim bilgileri,
+3) İşin adı, niteliği ve iş tanımı,
+4) Varsa alt yüklenicilere ilişkin bilgiler ve sorumlulukları,
+5) Sözleşmenin bedeli, türü ve dili,
+6) Ödeme yeri, ödemenin Türk Lirası cinsinden yapılacağı, kısmi ve nihai ödeme şartları ile ön ödeme yapılıp yapılmayacağı, yapılacaksa şartları ve miktarı,
+7) Ulaşım, sigorta, vergi, resim, harç ve benzeri giderlerden hangilerinin sözleşme bedeline dâhil olacağı ve bunların kim tarafından ödeneceği,
+8) Teknik destek istenen hallerde teknik destek süresi ve istenen şartlar,
+9) Kesin teminat miktarı ile kesin teminatın iadesine ilişkin şartlar,
+10) İşin başlama tarihi ve süresi ile yapılma yeri,
+11) Çıktıların teslim tarihi ile teslim etme ve teslim alma şekil ve şartları,
+12) Süre, personel, işin teslim şartları gibi hususlara aykırılık hallerinde uygulanacak cezalar ve günlük cezai müeyyide miktarı,
+13) Mücbir sebepler ve süre uzatımı verilebilme şartları ve karşılıklı yükümlülükler,
+14) İş artışı ile iş eksilişi yapılıp yapılamayacağı, yapılacaksa şartları ve karşılıklı yükümlülükler,
+15) İşin izlenmesine ilişkin hükümler,
+16) Muayene ve kabul işlemlerine ilişkin hükümler,
+17) Sözleşmede değişiklik yapılma şartları,
+18) Kısmi kabul yapılıp yapılmayacağı, yapılacaksa şartları,
+19) Sözleşmenin devir ve feshine ilişkin hükümler,
+20) İlgili mevzuatına aykırı olmamak üzere fikri ve sınai mülkiyet hakları ile kişisel verilerin korunması, üçüncü kişilerden bilgi ve belge temin edilmesi halinde bunların kullanımı, proje çıktılarına ilişkin ilgili tarafların sorumluluklarına ilişkin hükümler,
+21) Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin sorumlulukları,
+22) Bildirim ve tebligat esasları,
+23) Sözleşmenin eki olan belgeler,
+24) Anlaşmazlıkların çözümü.
+(2) İşin niteliğine göre ihtiyaç duyulan diğer hususlar da sözleşmede belirtilir.

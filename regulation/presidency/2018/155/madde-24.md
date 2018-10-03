@@ -1,0 +1,2 @@
+İhale komisyonunun çalışma şekli
+MADDE 24- (1) İhale komisyonu eksiksiz olarak toplanır ve kararlar çoğunlukla alınır. Komisyon üyeleri, kararlarda çekimser kalamaz. İdarece uygun görülen bir mazeret nedeniyle toplantıya katılamayacak üyenin yerine yedek üye katılır. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçelerini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
