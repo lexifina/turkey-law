@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45101",
+  "decision_date": "2018-10-03",
+  "source_id": 17783,
+  "chamber": "1",
+  "file_number": "43447",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17783/",
+  "source_sha256": "b1d49857d20a516fb95fd56f28cf3cfe99a7ca5f9241c6606aee826adf8730ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
