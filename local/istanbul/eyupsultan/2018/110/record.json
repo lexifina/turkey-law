@@ -1,0 +1,22 @@
+{
+  "number": "110",
+  "number_as_published": "2018/110",
+  "year": 2018,
+  "title": "1. Etap Koruma Amaçlı Revizyon Uygulama İmar Planı plan notu tadilatı",
+  "decision_date": "2018-10-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-ekim-ayi-meclis-kararlar/1533",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-110/1537",
+  "source_sha256": "63a42ad36350d0addea247b9f0db09aecfda425db8b9975f3fe12d34392ce9ec",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-10-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.10.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "daf0d53d7c64905e55633a310c0f6769ae629c76251bfef40690d97be87491cf"
+}
