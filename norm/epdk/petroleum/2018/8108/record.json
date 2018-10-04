@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8108",
+  "decision_date": "2018-10-04",
+  "title": "Petrol Ofisi A.Ş.’nin; DEP/474-5/10363 sayılı depolama lisansı kapsamında POAŞ faaliyette bulunan Mersin Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2018-10-11",
+  "resmi_gazete_number": "30562",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9tkNTX5cekA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9tkNTX5cekA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jT9qdtebGIU="
+  ],
+  "source_sha256": "fce95e8c1fe9816605c928153fc9d45f2a63e45d9ec89295da17d464627d11d1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-10-04",
+  "law_text_complete": true
+}
