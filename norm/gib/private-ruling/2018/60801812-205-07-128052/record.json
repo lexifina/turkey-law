@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-10-05T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-10-05",
+  "official_number": "60801812-205.07-128052",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/ozelge/25339",
+  "source_id": "ozelge:25339",
+  "source_row_sha256": "6a5ef2217e3b9cc9146dd188e0f4023a3631539b503061ca39db86c2953d7598",
+  "title": "Hazine Payı hk.",
+  "version_label": "as-enacted",
+  "word_count": 638
+}
