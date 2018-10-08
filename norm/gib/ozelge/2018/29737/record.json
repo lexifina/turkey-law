@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-125[17-515-80]-57752",
+  "source_id": 29737,
+  "date": "2018-10-08",
+  "title": "Gerçek kişi ortağın parasının şirket tarafından borçlanmak suretiyle kullanılmasının şirket yönünden değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29737",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4b76d33715d9adf93317eede0795ce87af50d5b7af6616957e754d2086938791",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
