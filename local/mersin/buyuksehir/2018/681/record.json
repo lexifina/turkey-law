@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "681",
+  "decision_date": "2018-10-08",
+  "title": "MEC.KAR. (ERDEMLİ YÜKSEK MH. 89 ADA 10 PARSEL).doc",
+  "listed_as": "681 MEC.KAR. (ERDEMLİ YÜKSEK MH. 89 ADA 10 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/681-meckar-erdemli-yuksek-mh-89-ada-10-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-ekim-2018-meclis-kararlari",
+  "listing_sha256": "adbf8d7cd4bf21dca5f800cf39c30a0c1a124017ddd48caefeceb9d32aa48cb3",
+  "meeting_title": "08 EKİM 2018 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
