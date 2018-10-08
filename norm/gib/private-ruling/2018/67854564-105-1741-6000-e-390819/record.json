@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-10-08T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-10-08",
+  "official_number": "67854564-105[1741-6000]-E.390819",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25302",
+  "source_id": "ozelge:25302",
+  "source_row_sha256": "020661b7cfa519a62d9d6ed4d256a0c210eaf1bcf18a1a379f6c45647682dc72",
+  "title": "Ödeme kaydedici cihaz fişlerinin belirli periyotlar dahilinde toplu olarak defterlere kaydının yapılıp yapılamayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 496
+}
