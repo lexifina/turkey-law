@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "183",
+  "decision_date": "2018-10-09",
+  "source_id": 27023,
+  "chamber": "4",
+  "ilam_number": "387",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27023/",
+  "source_sha256": "99d8fca79607fa458e2c79a92403408aa295768cd470beb100bc8169a1265024",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
