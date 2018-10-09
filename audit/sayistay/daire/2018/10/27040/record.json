@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "184",
+  "decision_date": "2018-10-09",
+  "source_id": 27040,
+  "chamber": "4",
+  "ilam_number": "293",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27040/",
+  "source_sha256": "6e54aafb1f7e5c353fa574a402e4c752dfa695643f6b6b3cdc0bbf92d011b9f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
