@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10718",
+  "decision_date": "2018-10-09",
+  "source_id": 28824,
+  "chamber": "1",
+  "ilam_number": "395",
+  "item_number": 13,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28824/",
+  "source_sha256": "12b2f539932f75de8a62ac2ee149a5f5b0616fff05c6ac714af8d1849d310f98",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
