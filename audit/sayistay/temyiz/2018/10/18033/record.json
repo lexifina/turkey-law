@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45159",
+  "decision_date": "2018-10-10",
+  "source_id": 18033,
+  "chamber": "6",
+  "file_number": "42677",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18033/",
+  "source_sha256": "e52b272d0efee5bbbc0985a03c7dde401abd5ec4e66a10ceb2c00e1c1f182c72",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
