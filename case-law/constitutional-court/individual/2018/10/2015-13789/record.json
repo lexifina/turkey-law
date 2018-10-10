@@ -1,0 +1,23 @@
+{
+  "applicant": "UĞURLU GAZETECİLİK BASIN YAYIN MATBAACILIK REKLAMCILIK LTD. ŞTİ.",
+  "applicant_form": "entity",
+  "application_date": "2015-08-05",
+  "application_number": "2015/13789",
+  "database_publication_date": "2018-12-03",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-10-10",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "dcea0c0b-51b1-ac9d-af82-f01ea1070d99",
+  "in_force": "2018-10-10",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmRjZWEwYzBiLTUxYjEtYWM5ZC1hZjgyLWYwMWVhMTA3MGQ5OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2018-01-01-2018-12-31-p2.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "369518bc4d8748d392d97017b9c51448055d016f75a66b176c07dcfacaa3310d",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
