@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "312",
+  "decision_date": "2018-10-11",
+  "source_id": 29194,
+  "chamber": "5",
+  "ilam_number": "563",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29194/",
+  "source_sha256": "f90d2670c5d001023994bfbb0ce2063c2ecb0c529a16d7bfe9431a56ee4f51d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
