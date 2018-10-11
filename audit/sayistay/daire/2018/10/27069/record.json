@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "567",
+  "decision_date": "2018-10-11",
+  "source_id": 27069,
+  "chamber": "6",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27069/",
+  "source_sha256": "5b1e6cff780db7f4e70eeb12d257b8c0751b3b613c8ef22d7a2fc1ee17525da3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
