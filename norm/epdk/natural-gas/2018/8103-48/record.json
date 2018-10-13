@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8103-48",
+  "decision_date": "2018-10-13",
+  "title": "Doğal Gaz Piyasası Dağıtım ve Müşteri Hizmetleri Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (5) numaralı bendi aşağıdaki şekilde değiştirilmiştir.",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0tcr8fkacLw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0tcr8fkacLw="
+  ],
+  "source_sha256": "fa4bee3215c6f3772ffe66ba5b743f9d1875e8e3b6c37eb490be6ca3d27dcc0d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-10-13",
+  "law_text_complete": true
+}
