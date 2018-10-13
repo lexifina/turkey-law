@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Başvuru Merkezlerine İlişkin İşlemler, Harcamalar ve Personel Çalıştırılması
+Başvuru merkezlerinin işlemleri
+MADDE 12 – (1) (Değişik ibare:RG-13/10/2018-30564) Sınav koordinatörlüklerinden ayrı olarak yükseköğretim kurumlarının bünyesinde kurulan başvuru merkezlerince sınav hizmetlerine yönelik ihtiyaçlarında kullanılmak üzere adaylardan tahsil edilen hizmet bedellerinin yıllık bazda %30’u, ilgili başvuru merkezinin sınav/hizmet binasının ısınma/soğutma, aydınlatma, bakım-onarım, temizlik, internet erişimi, teknolojik altyapının güncellenmesi, kırtasiye, saat ve pil gibi sınavla ilgili tüketim malzemesi, taşınırlar ve benzeri sınav ve hizmetlerle ilgili giderleri için kullanılır.
+(2) (Değişik:RG-13/10/2018-30564) Hizmet bedelinin %70’i ise aralık ayının sonuna kadar Başkanlığın hesabına aktarılır. Başkanlığa aktarılan bu tutarlar muhasebe birimince emanet hesabına kaydedilir. Gelir ve giderlere ilişkin ayrıntılı hesap cetveli de aynı süre içinde Başkanlığa intikal ettirilir.

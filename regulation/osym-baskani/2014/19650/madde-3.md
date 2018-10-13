@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 3 – (Değişik:RG-13/10/2018-30564)
+(1) Bu Yönetmelikte geçen;
+a) Asgari ücret: 22/5/2003 tarihli ve 4857 sayılı İş Kanunu uyarınca belirlenen bir aylık brüt asgari ücreti,
+b) Başkan: Ölçme, Seçme ve Yerleştirme Merkezi Başkanını,
+c) Başkanlık (ÖSYM): Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+ç) Başvuru merkezi: Başkanlık tarafından yapılan sınavlara ilişkin başvuru, tercih, kayıt alma, şifre edinme ve yenileme, aday işlemleri sisteminde bilgi değişikliği gibi hizmetler ile Başkanlıkça bildirilen sınavlarla ilgili diğer hizmetleri Başkanlıkça belirlenen bir dönem içerisinde veya süresiz olarak yürüten, Millî Eğitim Bakanlığına bağlı okul ve kurum müdürlükleri, üniversiteler ile ihtiyaç duyulması halinde kamu veya özel kurum ve kuruluşlarını,
+d) Başvuru merkezi yetkilisi: Başvuru merkezlerinde sınav hizmetlerinin yürütülmesinden birinci derecede sorumlu olan kurum üst amiri veya uygun gördüğü kişiyi,
+e) Gerçekleştirme görevlisi: Harcama yetkilisi tarafından belirlenen kişi ya da kişileri,
+f) Harcama yetkilisi: Başkanlıkta, sınav koordinatörlüğü ve başvuru merkezi işlemlerinin yürütüldüğü birimin harcama yetkilisi veya Başkan tarafından belirlenen harcama yetkilisini,
+g) Hizmet: Başkanlık tarafından yapılan sınavlarda adayların başvuruda bulunması, sınav sonucunda yerleştirme için tercihlerin sisteme girilmesi, adaylara ilk defa şifre verilmesi, şifre ve bilgilerin yenilenmesi veya Başkanlık tarafından verilmesi istenen diğer hizmetleri,
+ğ) Hizmet bedeli: Sınav koordinatörlükleri veya başvuru merkezleri aracılığıyla gerçekleştirilen hizmetler karşılığında adaylardan alınan hizmet bedellerini,
+h) Muhasebe birimi: Başkanlığın muhasebe kayıtlarının tutulduğu birimi,
+ı) Muhasebe yetkilisi: Muhasebe biriminin yönetiminden ve yetkili mercilere hesap vermekten sorumlu yetkiliyi,
+i) Mutemet: Mal ve hizmet alımları için özel hesaptan avans verilmek üzere harcama yetkilisi tarafından her bir sınav koordinatörlüğü veya başvuru merkezi için görevlendirilen kişi ya da kişileri,
+j) Özel hesap: Sınav koordinatörlükleri ve başvuru merkezlerinin verdikleri hizmetler karşılığında adaylardan tahsil edilen gelirlerin yatırıldığı; Başkanlık adına kamu bankalarının birinde açılmış banka hesabı veya hesaplarını,
+k) Özel kurum ve kuruluş: Kamu kurum ve kuruluşları haricindeki kamu kurumu niteliğindeki meslek kuruluşları, sermayesinin tamamı veya bir kısmı devlete veya kişilere ait bankalar, özel vakıf üniversiteleri, sivil toplum kuruluşları, sermaye veya şahıs şirketleri ve diğer özel kurum ve kuruluşları,
+l) Sınav: Başkanlık tarafından tek merkezde veya birden fazla merkezde kâğıt veya elektronik ortamda yapılan sınavı,
+m) Sınav koordinatörlüğü: Sınavlar için devlet üniversiteleri ile ihtiyaç duyulması halinde kamu ve özel kurum ve kuruluşları bünyesinde, sınav organizasyonu ve Başkanlıkça sınavlarla ilgili tevdi edilen diğer işleri yerine getirmek üzere görevlendirilen sınav koordinatörlüklerini,
+n) Sistem: ÖSYM bilişim sistemi içinde oluşturulan; Aday İşlemleri Sistemi, Görevli İşlemleri Sistemi, Yönetim İşlemleri Sistemi ve benzeri yönetim bilgi sistemlerini,
+o) Tahsilat görevlisi: Harcama yetkilisi tarafından görevlendirilerek adaylardan hizmet gelirlerini tahsil etmeye ve muhafaza etmeye, Başkanlık adına açılmış banka hesabına yatırmaya yetkili, sınav koordinatörü veya başvuru merkezi yetkilisine karşı sorumlu birim çalışanını,
+ö) Taşınır kayıt yetkilisi: Başkanlıkta, sınav koordinatörlüğünün işlemlerinin yürütüldüğü birime ait taşınır kayıt yetkilisini,
+p) Taşınır kontrol yetkilisi: Başkanlıkta, sınav koordinatörlüğünün işlemlerinin yürütüldüğü birime ait taşınır kontrol yetkilisini,
+r) Usul ve Esaslar: 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Hizmetleri Hakkında Kanunun 6 ncı maddesinin on üçüncü fıkrası uyarınca yürürlüğe konulan usul ve esasları,
+s) Yönetim Kurulu: Ölçme, Seçme ve Yerleştirme Merkezi Yönetim Kurulunu,
+ifade eder.

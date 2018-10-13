@@ -1,0 +1,3 @@
+Diğer başvuru merkezlerine ilişkin işlemler
+MADDE 13 – (1) (Değişik:RG-13/10/2018-30564) Milli Eğitim Bakanlığına bağlı okul ve kurum müdürlüklerinde her bir başvuru kaydı için adaylardan hizmet bedellerinin tahsili ile bu hizmet bedellerinin başvuru merkezlerinin ihtiyaçlarında kullanılmasına ilişkin esas ve usuller, 6114 sayılı Ölçme, Seçme ve Yerleştirme Merkezi Hizmetleri Hakkında Kanunun 6 ncı maddesinin on dördüncü fıkrası uyarınca Milli Eğitim Bakanlığı ile ÖSYM arasında imzalanacak protokolle belirlenir.
+(2) PTT ve bankaların tahsil ettikleri hizmet bedellerinden gider karşılığı olarak ayrılacak tutarın tespiti ile kalan tutarın cari yıl sonunu geçmemek üzere hangi sürelerde Başkanlık hesabına aktarılacağı hususları yapılacak protokolle belirlenir.
