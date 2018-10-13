@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24879",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/6)",
+  "number": "24879",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24879",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24879&MevzuatTertip=5",
+  "source_sha256": "6d9451e9b7bda34580927bfb4443894143b77910bba32042f4e9867812113255",
+  "source_bytes": 14790,
+  "published": "2018-10-13",
+  "gazette": "30564",
+  "in_force": "2018-10-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.10.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 222,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24879-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
