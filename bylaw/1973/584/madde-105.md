@@ -1,0 +1,6 @@
+Meclis Araştırma Komisyonu ve yetkileri:[69]
+Madde 105 – Meclis araştırmasının yürütülmesi görevi, genel hükümlere göre seçilecek bir özel komisyona verilir.
+Bu komisyonun üye adedi, çalışma süresi ve gerektiğinde Ankara dışında da çalışabileceği hususu Meclis Başkanının teklifi ile Genel Kurulca tesbit edilir. (Ek hüküm: 16/5/1996-424 S. Karar/23 md.) Araştırmasını üç ay içinde bitiremeyen komisyona bir aylık kesin süre verilir. Komisyon bu süre sonunda da çalışmasını tamamlayamadığı takdirde süre bitiminden itibaren onbeş gün içinde araştırmanın tamamlanmaması nedenleri veya o ana kadar varılan sonuçlar üzerinde Genel Kurulda görüşme açılır. Genel Kurul bu görüşme ile yetinebileceği gibi yeni bir komisyon da kurabilir.
+Meclis Araştırma Komisyonu bakanlıklarla genel ve katma bütçeli dairelerden, mahalli idarelerden, muhtarlıklardan, üniversitelerden, Türkiye Radyo-Televizyon Kurumundan, kamu iktisadi teşebbüslerinden, özel kanun ile veya özel kanunun verdiği yetkiye dayanılarak kurulmuş banka ve kuruluşlardan, kamu kurumu niteliğindeki meslek kuruluşlarından ve kamu yararına çalışan derneklerden bilgi istemek ve buralarda inceleme yapmak, ilgililerini çağırıp bilgi almak yetkisine sahiptir.
+Komisyon, gerekli gördüğünde uygun bulacağı uzmanların bilgilerine başvurabilir.
+Devlet sırları ile ticari sırlar, Meclis araştırması kapsamının dışında kalır.

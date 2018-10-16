@@ -1,0 +1,4 @@
+Komisyonların yetkisi, toplantı yeri ve zamanı:[23]
+Madde 35 – Komisyonlar, kendilerine havale edilen kanun tekliflerini aynen veya değiştirerek kabul veya reddedebilirler; birbirleriyle ilgili gördüklerini birleştirerek görüşebilirler ve Türkiye Büyük Millet Meclisi binasında, Türkiye Büyük Millet Meclisi Başkanlığınca kendilerine ayrılan salonlarda toplanırlar.
+Ancak, komisyonlar, kanun teklif edemezler, kendilerine havale edilenler dışında kalan işlerle uğraşamazlar, Başkanlık Divanının kararı olmaksızın Genel Kurulun toplantı saatlerinde görüşme yapamazlar ve kanun tekliflerini bölerek ayrı ayrı metinler halinde Genel Kurula sunamazlar.[24]
+(Ek fıkra:10/4/2003-766 S.Karar/2 md.) Komisyonlar, Cumhurbaşkanınca yayımlanması kısmen uygun bulunmayan ve bir daha görüşülmek üzere Türkiye Büyük Millet Meclisine geri gönderilen kanunların sadece uygun bulunmayan maddelerini görüşebilir. Bu durumda, sadece uygun bulunmayan maddelerle ilgili görüşme açılır.

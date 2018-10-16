@@ -1,0 +1,15 @@
+Cumhurbaşkanının cezai sorumluluğu
+Madde 114 – (Ek: 16/5/1996-424 S. Karar/25 md.) (Başlığı ile Birlikte Değişik: 9/10/2018 -1200 S.Karar/19 md.)
+Görevde bulunan veya görevden ayrılmış olan Cumhurbaşkanı hakkında, bir suç işlediği iddiasıyla Türkiye Büyük Millet Meclisi üye tamsayısının salt çoğunluğunun vereceği önergeyle soruşturma açılması istenebilir.
+Meclis, önergeyi her durumda en geç bir ay içinde görüşür. Bu önerge derhal Türkiye Büyük Millet Meclisinin bilgisine sunulur; soruşturulması istenen Cumhurbaşkanına bildirilir ve Türkiye Büyük Millet Meclisinin bilgisine sunulmasından başlayarak yedi gün sonraki birleşimin gündemine alınır.
+Sırasıyla, önergeyi verenlerden ilk imza sahibinin veya onun göstereceği bir diğer imza sahibinin, şahısları adına üç milletvekilinin ve tercih etmesi halinde, o sırada görevde bulunsun veya bulunmasın, hakkında soruşturma açılması istenen Cumhurbaşkanının konuşacağı bir görüşmeden sonra, Meclis soruşturması açılıp açılmaması hakkında üye tamsayısının beşte üçünün gizli oyuyla karar verilir.
+Soruşturma açılmasına karar verilmesi halinde, Meclisteki siyasî partilerin, güçleri oranında komisyona verebilecekleri üye sayısının üç katı olarak gösterecekleri adaylar arasından her siyasî parti için ayrı ayrı ad çekme suretiyle kurulacak onbeş kişilik bir komisyon tarafından soruşturma yapılır. Komisyon 111 inci maddede öngörülen komisyonun yetkilerini kullanır.
+Komisyon, kendisine bir başkan, bir başkanvekili, bir sözcü ve bir kâtip seçer.
+Soruşturma komisyonu üye tamsayısının salt çoğunluğu ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar verir.
+Komisyonun çalışmaları gizlidir. Bu komisyona kendi üyeleri dışındaki milletvekilleri katılamazlar.
+Komisyon, soruşturma sonucunu belirten raporunu iki ay içinde Meclis Başkanlığına sunar. Soruşturmanın bu sürede bitirilememesi halinde, komisyona bir aylık yeni ve kesin bir süre verilir. Komisyonun bu konudaki istem yazısı Genel Kurulun bilgisine sunulur. Bu süre sonunda raporun Türkiye Büyük Millet Meclisi Başkanlığına teslimi zorunludur.
+Rapor Başkanlığa verildiği tarihten itibaren on gün içinde dağıtılır, dağıtımından itibaren on gün içinde Genel Kurulda görüşülür.
+Bu görüşmede; komisyona, şahısları adına altı milletvekiline ve o sırada görevde bulunsun veya bulunmasın hakkında soruşturma açılması istenen Cumhurbaşkanına söz verilir. Son söz, hakkında soruşturma açılması istenen Cumhurbaşkanına aittir ve süresi sınırlandırılamaz. Cumhurbaşkanı, isterse savunmasını yazılı olarak gönderebilir. Bu savunma Genel Kurulda aynen okunur.
+Görüşmeler tamamlandıktan sonra komisyon raporu Genel Kurulca gizli oyla karara bağlanır. Türkiye Büyük Millet Meclisi, üye tamsayısının en az üçte ikisinin oyuyla Yüce Divana sevk kararı alabilir.
+Komisyonun Yüce Divana sevk yönündeki raporları ile Genel Kurulun Yüce Divana sevk kararlarında hangi ceza hükmüne dayanıldığı belirtilir.
+Komisyonun Yüce Divana sevk etmeme yönündeki raporlarının reddi, ancak Yüce Divana sevke dair verilen ve sevk kararının hangi ceza hükmüne dayanacağını gösteren bir önergenin kabulüyle mümkün olur.
