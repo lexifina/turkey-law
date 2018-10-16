@@ -1,0 +1,7 @@
+Danışma Kurulu:
+Madde 19 – (Değişik: 19/9/1978 - 674 S. Karar/1 md.)
+(Değişik birinci fıkra: 9/10/2018 -1200 S.Karar/2 md.) Danışma Kurulu, Türkiye Büyük Millet Meclisi Başkanı veya görevlendireceği başkanvekili başkanlığında siyasî parti grup başkanları veya başkanvekillerinden kurulur.
+Bu Kurul, İçtüzükte kendisine verilen görevleri yerine getirir ve Başkanın istemi üzerine danışma niteliğinde görüş bildirir.
+Gerektiğinde Meclis Başkanvekilleri de Danışma Kuruluna çağırılabilir.[10]
+Danışma Kurulu, Başkanının gerekli görmesi veya bir siyasi parti grubu başkanlığının istemi üzerine en geç yirmidört saat içinde Başkan tarafından toplantıya çağırılır.
+(Değişik fıkra:27/7/2017 - 1160 S. Karar / 2 md.) İçtüzükte Danışma Kurulunun tespitine, teklifine veya görüş bildirmesine bağlanmış olan bütün hallerde, Danışma Kurulu, yapılan ilk çağrıda toplanamaz, oybirliğiyle tespit, teklif yapamaz veya görüş bildiremezse, Meclis Başkanı veya siyasi parti grupları ayrı ayrı, istemlerini doğrudan Genel Kurula sunabilirler. Bu durumda istemin oylanması ilk birleşimin gündemindeki Başkanlığın sunuşlarında yer alır. Danışma Kurulu önerileri görüşmesiz oylanır. Grup önerisinde ise öneriyi veren gruptan bir milletvekili beş dakikayı geçmemek üzere önerinin gerekçesini açıklayabilir. Açıklamanın ardından diğer gruplardan birer milletvekiline de isterlerse üçer dakika söz verilir. Danışma Kurulu ve grup önerileri konusunda Genel Kurulda işaret oyuyla karar verilir.

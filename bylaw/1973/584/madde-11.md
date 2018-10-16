@@ -1,0 +1,6 @@
+Parti gruplarının Başkanlık Divanında temsili:
+Madde 11 – Türkiye Büyük Millet Meclisi Başkanı, siyasi parti gruplarının parti grupları toplam sayısı içindeki yüzde oranlarını ve bu oranlara göre her siyasi parti grubuna düşen Başkanlık Divanındaki görev yeri sayısını tespit eder ve Danışma Kuruluna bildirir.
+Başkanlık Divanındaki görev yerleri, Başkanvekillikleri için - iki adedi Türkiye Büyük Millet Meclisi üye tamsayısının salt çoğunluğuna sahip siyasi parti grubuna ait olmak üzere oranı en yüksek olandan başlayarak sıra ile dağıtılır.
+Kâtip Üyeliklerle, İdare Amirlikleri için görev yerleri dağıtımı Danışma Kurulunun görüşü alındıktan sonra Genel Kurulca kararlaştırılır.
+Siyasi parti grupları kendilerine düşen yerler için adaylarını gösterir. Bu adayları gösteren listenin Genel Kurulca işaret oyuyla oylanması suretiyle seçim tamamlanmış olur.
+(Değişik cümle: 16/5/1996-424 S. Karar/5 md.) Türkiye Büyük Millet Meclisi başkanvekillikleri, kâtip üyelikleri ve idare amirlikleri için, bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki, ikinci devre için seçilenlerin görev süresi üç yıldır. Bu görevlerde herhangi bir suretle boşalma olması halinde, yeni seçilen Divan Üyesi, eskisinin görev süresini tamamlar.[6]

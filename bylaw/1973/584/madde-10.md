@@ -1,0 +1,5 @@
+Başkan seçimi ve süresi
+Madde 10 – (Değişik: 16/5/1996-424 S. Karar/ 4 md.)
+Başkanlık için bir yasama döneminde iki seçim yapılır. İlk seçilenin görev süresi iki, ikinci devre için seçilenin görev süresi üç yıldır.[4]
+Siyasi parti grupları Başkanlık için aday gösteremezler.
+(Değişik birinci cümle:9/10/2007-902 S. Karar/1 md.) Türkiye Büyük Millet Meclisi Başkan adayları, Meclis üyeleri içinden, milletvekili genel seçimlerinden sonra Meclisin toplandığı günden itibaren veya ikinci devre için yapılacak seçimlerde birinci devre için seçilen Başkanın görev süresinin dolmasından on gün önce başlamak üzere, beş gün içinde Başkanlık Divanına bildirilir ve Türkiye Büyük Millet Meclisi seçimin yapılacağı gün kendiliğinden toplanır. Başkan seçimi gizli oyla yapılır. İlk iki oylamada üye tamsayısının üçte iki ve üçüncü oylamada üye tamsayısının salt çoğunluğu aranır. Üçüncü oylamada salt çoğunluk sağlanamazsa, bu oylamada en çok oy alan iki aday için dördüncü oylama yapılır; dördüncü oylamada en fazla oy alan üye, Başkan seçilmiş olur. Başkan seçimi aday gösterme süresinin bitiminden itibaren beş gün içinde tamamlanır.[5]

@@ -1,0 +1,6 @@
+Meclis soruşturması önergesinin görüşülmesi:
+Madde 108 – (Ek:16/5/1996 - 424 S. Karar/25 md.) (Değişik: 9/10/2018 1200 S.Karar/17 md.)
+Türkiye Büyük Millet Meclisi Başkanlığına verilen Meclis soruşturması önergesi gelen kâğıtlar listesinde yayımlanır; önergenin bir örneği Başkanlıkça, derhal, hakkında soruşturma açılması istenen Cumhurbaşkanı yardımcısı veya bakana gönderilir ve Genel Kurulda okunur.
+Meclis soruşturması açılıp açılmaması hakkında yapılacak görüşmelerin günü, önergenin verilişinden itibaren bir ay içinde görüşülüp karara bağlanacak şekilde, bir özel gündem halinde Danışma Kurulunun teklifi üzerine Genel Kurulca tespit edilir. Bu görüşme günü de ayrıca hakkında soruşturma açılması istenen Cumhurbaşkanı yardımcısı veya bakana bildirilir.
+Sırasıyla, önergeyi verenlerden ilk imza sahibinin veya onun göstereceği bir diğer imza sahibinin, şahısları adına üç milletvekilinin ve o sırada görevde bulunsun veya bulunmasın, hakkında soruşturma açılması istenen Cumhurbaşkanı yardımcısı veya bakanın konuşacağı bir görüşmeden sonra, Meclis soruşturması açılıp açılmaması hakkında üye tamsayısının beşte üçünün gizli oyuyla karar verilir.
+Parlamenter hükümet sisteminde görev yapmış olan başbakanlar ve bakanlar hakkında da bu madde hükümleri uygulanır.

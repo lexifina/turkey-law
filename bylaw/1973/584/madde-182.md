@@ -1,0 +1,2 @@
+Madde 182 – Bu İçtüzükte bahis konusu Başkanlık Divanı tarafından hazırlanan yönetmelikler ve düzenleyici kararlar Resmi Gazete'de yayımlanmakla yürürlüğe girer; kararda ileriye ait başkaca bir yürürlük tarihi de gösterilebilir.
+Meclis kararları ile Meclisin yaptığı seçimlerin sonuçlarından ve Başkanlık Divanı kararlarından hangilerinin Resmi Gazete'de yayımlanacağı Başkanlık Divanının hazırlayacağı bir yönetmelikte belirtilir.

@@ -1,0 +1,2 @@
+Madde 131 – Bir milletvekilinin veya görevleriyle ilgili olmayan suçlardan dolayı Cumhurbaşkanı yardımcıları ve bakanların dokunulmazlığının kaldırılması hakkındaki istemler Başkanlıkça, Anayasa ve Adalet komisyonları üyelerinden kurulu Karma Komisyona havale edilir.[87]
+Anayasa ve Adalet komisyonları üyelerinden kurulu Karma Komisyonun Başkanı, Başkanvekili, Sözcü ve Katibi, Anayasa Komisyonunun Başkanı, Başkanvekili, Sözcüsü ve Katibidir.

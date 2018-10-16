@@ -1,0 +1,3 @@
+Toplantı günleri:
+Madde 54 – (Değişik fıkra: 27/7/2017 - 1160 S. Karar / 4 md.) Resmî tatile rastlamadığı takdirde Türkiye Büyük Millet Meclisi Genel Kurulu, Salı günü saat 15.00’ten 21.00’e, Çarşamba ve Perşembe günleri saat 14.00’ten 21.00’e kadar toplanır. Türkiye Büyük Millet Meclisi vasıtasıyla yapılacak televizyon yayınında, önemli ve özel haller saklı kalmak kaydıyla bu fıkrada düzenlenen toplantı günleri ve saatleri esas alınır.
+Danışma Kurulunun teklifi üzerine Genel Kurul, toplantı hafta, gün vesaatlerini değiştirebileceği gibi, diğer günlerde de toplantı yapılmasına karar verebilir.[32]

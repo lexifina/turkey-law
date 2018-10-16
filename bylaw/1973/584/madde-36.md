@@ -1,0 +1,3 @@
+Bekleme süresi:
+Madde 36 – Komisyonlara havale edilen işlerin görüşülmesine havale tarihinden itibaren kırksekiz saat sonra başlanabilir. (Değişik cümle:9/10/2018 -1200 S.Karar/5 md.) Komisyona havale edilen evrak, komisyon başkanlığınca bastırılarak veya elektronik iletişim kanalları kullanılarak mesai saatlerinde veya Genel Kurulun çalışma saatleri içerisinde komisyon üyelerine dağıtılabilir. Bu takdirde, söz konusu süre, dağıtım tarihinden itibaren başlar.
+Danışma Kurulunun tavsiyesi veya bir kanun teklifinin tümünün veya belli hükümlerinin komisyona geri alınması veya geri verilmesi hallerinde, yukarıdaki fıkrada yazılı süre kaydına uyulmayabilir.[25]
