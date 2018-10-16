@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24884",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2019 YILINA İLİŞKİN İTHALAT REJİMİ KARARINA EK KARAR ÇALIŞMALARINA YÖNELİK TEBLİĞ (İTHALAT: 2018/3)",
+  "number": "24884",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24884",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24884&MevzuatTertip=5",
+  "source_sha256": "f08d447e3c13032cc71211b1db11ddfaf787c37985bc5edb7ddcec9f59b1e054",
+  "source_bytes": 10772,
+  "published": "2018-10-16",
+  "gazette": "30567",
+  "in_force": "2018-10-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.10.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24884-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
