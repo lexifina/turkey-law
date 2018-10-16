@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/118",
+  "source_id": 5422,
+  "date": "2018-10-16",
+  "title": "“Kurul Kararının gereğinin süresi içinde yerine getirilmemesi” hakkında Kişisel Verileri Koruma Kurulunun 16/10/2018 tarihli ve 2018/118 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5422/2018-118",
+  "source_sha256": "7edc39049adc2cb14a2e2f963365b5314ac7e8d19d6be4ded9e91e4d633a8766",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
