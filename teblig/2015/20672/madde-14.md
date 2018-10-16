@@ -1,0 +1,6 @@
+Yurt içi tüketim ve pazar payları
+MADDE 14 – (1) Soruşturma konusu ithalatın nispi olarak değişimini görebilmek için, söz konusu ithalatın toplam Türkiye benzer mal tüketimi içindeki payı incelenmiştir. Bu bağlamda, öncelikle şikayetçi ve destekleyici yerli üreticilerden temin edilen yurt içi satış miktarları ile genel ithalat miktarı toplanarak ilgili yıldaki Türkiye benzer mal tüketimi elde edilmiştir. Önlem konusu ürünün Türkiye toplam tüketimi içindeki payının incelenmesinde TÜİK verileri kullanılmıştır. Söz konusu inceleme 2011-2013 dönemi için yapılmış olup, veriler 2011 yılı=100 olacak şekilde endekslenmiştir.
+(2) Bu veriler çerçevesinde, Türkiye benzer mal tüketimi endeks değeri 2011 yılı için 100 olarak alındığında 2012 yılında 66’ya düşmüş, 2013 yılında ise 77’ye yükselmiştir.
+(3) ÇHC’nin benzer mal tüketimi pazar payı endeksi 2011 yılında 100 iken, 2012 yılında 18’e ve 2013 yılında 14’e gerilemiştir. ÇHC’nin pazar payı endeksi de benzer şekilde 2011 yılında 100 iken, 2012 yılında 27’ye ve 2013 yılında 17’ye gerilemiştir.
+(4) Aynı dönemde diğer ülkelerden yapılan ithalatın pazar payı endeksi 2011 yılında 100’den, 2012 yılında 125 ve 2013 yılında 130 birim seviyesine yükselmiştir.
+(5) YÜD’ün pazar payı endeksi ise 2011-2013 döneminde 100’den 164’e yükselmiştir.

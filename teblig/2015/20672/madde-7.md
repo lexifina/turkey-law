@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Önlem Konusu Ürün ve Benzer Ürün
+Önlem konusu ürün ve benzer ürün
+MADDE 7 – (1) (Değişik:RG-16/10/2018-30567) Önlem konusu ürün 5603.14 ve 3921.13 GTP’leri altında yer alan koagüle suni derilerdir.
+(2) (Değişik:RG-16/10/2018-30567) Önleme konu olan koagüle, dokunmamış mensucatın üzerine poliüretan kaplanması suretiyle elde edilen bir tür kumaş veya dokumaya elverişli maddelerden mesnedi bulunan deri taklitleri olup suni deri üretiminde takviye malzemesi olarak kullanılmaktadır.
+(3) Aşınmaya dayanıklılık, hava geçirme, dikilebilme ve yapıştırılabilme özellikleri dolayısıyla koagüle ile üretilen suni deriler de bu özellikleri taşımaktadır. Görünüm ve yapı olarak doğal deriye çok yakın özelliklere sahip olan suni deriler de ayakkabı sanayiinde ayakkabı sayası olarak, saraciye sektöründe çanta ve valiz imalinde, mobilya ve otomotiv sektörlerinde döşeme malzemesi olarak çok yaygın bir şekilde kullanılmaktadır. Bunun yanında, ince ve yumuşak koagülelerle imal edilen derilerin konfeksiyon sanayiinde kullanımı da giderek artmaktadır.
+(4) Esas soruşturmada YÜD tarafından üretilen ürün ile soruşturma konusu ürün arasında ürünlerin fiziksel özellikleri, kullanım alanları, dağıtım kanalları, müşteriler ve hitap ettikleri pazarlar açısından bir fark olmadığı ve bu çerçevede bahse konu ürünün soruşturma konusu ürünle benzer ürün olduğu belirlenmiştir. Bu soruşturmada ise söz konusu belirlemeleri değiştirecek herhangi bir bulguya rastlanmamıştır.

@@ -1,0 +1,2 @@
+Esas soruşturmada tespit edilen damping marjlarının büyüklüğü
+MADDE 9 – (1) Mevcut önleme esas teşkil eden soruşturma esnasında tespit edilen damping marjı, firmaların önlemin yürürlükten kalkması halindeki muhtemel davranışlarını yansıtacak önemli bir gösterge niteliği taşıdığından dikkate alınmıştır. Buna göre, esas soruşturma sırasında ÇHC’de yerleşik üretici-ihracatçı firmalar için tespit edilen damping marjı CIF ihraç fiyatının %141’i (spesifik olarak 4,00 ABD Doları/Kg) oranındadır.
