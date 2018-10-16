@@ -1,0 +1,5 @@
+Ek süre
+MADDE 15 – (1) Kanunda öngörülen süreler dışında bu Tebliğde yer alan sürelerle ilgili olarak, sürelerin bitiminden önce başvurulması şartıyla bu Tebliğde belirlenmiş süreler kadar işletme müdürlüğünce ek süre verilebilir.
+(2) Ödemeye ilişkin ek süre talepleri sistem üzerinden yapılır.
+(3) Ödemeye ilişkin verilen ek sürelerde faiz alınır. Faizin hesabında 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun tecil faizine ilişkin hükümleri uygulanır.
+(4) Satış şartnamesinde belirlenen mücbir sebepler veya beklenmeyen hallerin varlığı halinde işletme müdürlüğü son kez olmak üzere belirlenmiş süreler kadar ek süre verebilir. Mücbir sebep başvuruları ilgili işletme müdürlüğüne ve mücbir sebeplerin sona erdiği tarihten itibaren üç iş günü içerisinde yapılır. Bu süreler dışında yapılan başvurular işletme müdürlüğünce değerlendirmeye alınmaz. Mücbir sebep başvurusundan önce eşyanın yeniden ihaleye sunulması veya satılması halinde ihale veya satış iptal edilmez. Ancak başvuru sahibine uygulanan yaptırımlar kaldırılarak teminatı veya ihale bedeli iade edilir.

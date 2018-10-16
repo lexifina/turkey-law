@@ -1,0 +1,12 @@
+Yasak fiiller ve yaptırımlar
+MADDE 13 – (1) İhalelerde;
+a) Hile, desise, vait, tehdit, nüfuz kullanma ve çıkar sağlama suretiyle veya başka yollarla ihaleye ilişkin işlemlere fesat karıştırmak veya buna teşebbüs etmek,
+b) Sahte belge veya sahte teminat kullanmak veya kullanmaya teşebbüs etmek, taahhüdünü kötü niyetle yerine getirmemek, taahhüdünü yerine getirirken idareye zarar verecek işler yapmak,
+yasaktır.
+(2) Birinci fıkrada belirtilen fiilleri yapanların teminatı döner sermayeye gelir kaydedilir ve bu fiileri bizzat veya vekil olarak işleyenlerle bu işteki vekil veya müvekkilleri hakkında fiilin özelliğine göre Genel Müdürlük tarafından bir yıla kadar işletme müdürlüklerinin ihalelerine katılmaktan yasaklama kararı verilir. Bunların sermayesinin çoğunluğuna sahip bulunduğu veya yönetim kurulunda görev aldığı tespit edilen tüzel kişiler için de yasaklama kararı alınır.
+(3) Bu Tebliğ kapsamındaki ihalelerde bir takvim yılı içinde iki defa ihale bedelini ödemeyen alıcı ile vekilleri, üç ay süresince işletme müdürlüğünce yapılan ihalelere alınmazlar. Tekrarı halinde Genel Müdürlük tarafından bir yıla kadar işletme müdürlüğünün ihalelerine katılmaktan yasaklama kararı verilir.
+(4) İhaleyi yapan işletme müdürlüğünce, ihalelere katılmaktan yasaklama kararı verilmesi gerekenlere, ihale bedelini ödemeyenlere ilişkin bilgiler sisteme kaydedilmek üzere Genel Müdürlüğe gönderilir.
+(5) İkinci ve üçüncü fıkralarda belirtilen fiil ve davranışların tespit edildiği tarihi izleyen on iş günü içinde yasaklama kararı alınarak sisteme kaydedilir ve elektronik ortamda işletme müdürlüklerine duyurulur.
+(6) Haklarında ihaleye katılmaktan yasaklama kararı bulunanlar, yasaklama kararının sona erdiği tarihe kadar işletme müdürlüğünce yapılacak ihalelere iştirak ettirilmezler. Bu konuda gerekli tedbirler işletme müdürlüğünce alınır.
+(7) İhale işlemlerinde sahte belge veya sahte teminat kullanan veya kullanmaya teşebbüs eden, taahhüdünü kötü niyetle yerine getirmeyen, taahhüdünü yerine getirirken idareye zarar verecek işler yapan, ihale işlemlerine fesat karıştıran veya teşebbüs edenler ile o işteki ortak veya vekilleri hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+(8) İkinci ve üçüncü fıkralar ile 14 üncü madde kapsamında ihaleye katılamayacak olanlar, aksine bir hüküm bulunmadıkça, idarece yapılan ihalelere ilişkin, eşyanın görülmesi de dahil hiç bir işlem yapamaz ve eylemde bulunamazlar.

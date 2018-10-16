@@ -1,0 +1,2 @@
+Yetki
+MADDE 19 – (1) Bakanlık (Genel Müdürlük), bu Tebliğin uygulanmasını temin etmek amacıyla, uygulamada ortaya çıkan sorunları, tereddütleri, özel ve zorunlu durumları ve bu Tebliğde yer almayan hususları inceleyip sonuçlandırmaya, gerektiğinde uygulama esaslarını belirlemeye, bu Tebliğin uygulanması ve sistemin işleyişi için gerekli göreceği her türlü tedbiri almaya; sistemin işleyişine, işletme müdürlüklerinde kurulmasına ve yaygınlaştırılmasına bağlı olarak e-ihale yapacak işletme müdürlüklerini ve e-ihale yapılacak eşyanın kapsamını belirlemeye yetkilidir.

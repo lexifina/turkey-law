@@ -1,0 +1,4 @@
+Eşyanın teslimi
+MADDE 12 – (1) Eşyanın, ihale bedelinin ödenmesini izleyen on gün içinde alıcı tarafından bulunduğu yerden teslim alınması zorunludur. Bu süre, eşyanın teslimine ilişkin evrakların alıcıya teslimi için postada geçen sürelerde durur. Bu süreler içerisinde teslim alınmayan eşya Tasfiye Yönetmeliği hükümleri doğrultusunda yeniden satışa sunulur. (Ek cümle:RG-16/10/2018-30567) Bekletilmeyecek eşyanın ödeme tarihinden itibaren üç gün içerisinde teslim alınması zorunludur.
+(2) İhale bedeli, damga vergisi ve diğer mali yükler ödenmeden ve alıcı tarafından imzalanmış satış şartnamesi işletme müdürlüğünce teslim alınmadan eşya alıcıya teslim edilmez.
+(3) Alıcı, sistemde yer alan şartnamenin dökümünü alarak imzalar ve ihale bedelini ödeme süresi içinde işletme müdürlüğüne teslim eder veya iadeli taahhütlü posta ile gönderir. Sistem üzerinde güvenli elektronik imzayla imzalanan satış şartnamesi ayrıca işletme müdürlüğüne teslim edilmez veya gönderilmez.

@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.19624",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TASFİYE GENEL TEBLİĞİ (ELEKTRONİK İHALE SERİ NO: 1)",
+  "number": "19624",
+  "path": "teblig/2014/19624",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19624&MevzuatTertip=5",
+  "source_sha256": "7d281a2bce8147d201b080085aa0a83a63c6c8781045998617b56da331b5d397",
+  "source_bytes": 48046,
+  "published": "2014-04-25",
+  "gazette": "28982",
+  "in_force": "2018-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/10/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-10-16",
+      "RG-16/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-16",
+      "16/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3334,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
