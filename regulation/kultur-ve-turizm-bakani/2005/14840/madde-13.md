@@ -1,0 +1,2 @@
+Bağışların kabulü
+Madde 13 - İl ve ilçe kütüphanelerine yapılacak her türlü kitap, kitap dışı materyal, süreli yayın ve benzeri bağışlar, fiziki durumları ve basım tarihleri de dikkate alınarak, bu Yönetmelikte belirtilen yayın seçme esaslarına aykırı olmamak koşuluyla kütüphanelerce kabul edilir. Genel Müdürlüğe yapılan başvurular ve dağıtım gerektiren genel bağışlar ise Genel Müdürlükçe kabul edilir. İlgili mercilerce tereddüt veya itiraz halinde bağış eserler il veya ilçe yayın inceleme komisyonlarına, Genel Müdürlükte Yayın Seçme Kuruluna sunulur.

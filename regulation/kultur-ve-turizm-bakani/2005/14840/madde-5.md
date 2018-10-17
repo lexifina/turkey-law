@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Kurul ve Komisyonların Kuruluş ve Görevleri
+Yayın seçme kurulunun oluşumu
+Madde 5 - (Değişik fıkra:RG-26/3/2011-27886) (Değişik birinci cümle:RG-14/1/2012-28173) Kültür ve Turizm Bakanlığı (Değişik ibare:RG-17/10/2018-30568) Bakan Yardımcısı, Kütüphaneler ve Yayımlar Genel Müdürü, ilgili Genel Müdür Yardımcısı, Daire Başkanı ve Şube Müdürü, yayımlardan sorumlu Daire Başkanı ile Ankara Adnan Ötüken İl Halk Kütüphanesi Müdürü Kurulun daimi üyeleridir. Kurul, daimi üyelerle birlikte, yayıncı meslek kuruluşlarından iki temsilci, eser sahibi meslek kuruluşlarından bir temsilci olmak üzere (Değişik ibare:RG-14/1/2012-28173) on üyeden oluşur. (Değişik ibare:RG-17/10/2018-30568) Bakan Yardımcısı bu Kurula başkanlık eder. (Değişik ibare:RG-17/10/2018-30568) Bakan Yardımcısının bulunmadığı zamanlarda (Değişik ibare:RG-17/10/2018-30568) vekâlet eden Bakan Yardımcısı Kurula başkanlık eder. Daimi olmayan üyeler, Genel Müdürlüğün teklifi ve Bakan Olur’u ile tespit edilir.
+Kurul, üye tam sayısının çoğunluğu ile toplanır. Kararlar, katılan üyelerin oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın bulunduğu taraf çoğunluk sayılır.
+(Değişik fıkra:RG-26/3/2011-27886) Kurulun sekretaryası Kütüphaneler ve Yayımlar Genel Müdürlüğünün ilgili (Değişik ibare:RG-14/1/2012-28173) Şube Müdürlüğünce yürütülür.

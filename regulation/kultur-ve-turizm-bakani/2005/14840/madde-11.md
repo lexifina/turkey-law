@@ -1,0 +1,2 @@
+Satın almalarda öncelik sırası
+Madde 11 - Satın almalarda; kullanıcı isteklerine cevap veren, kütüphane koleksiyonlarının çeşitli konularda gereksinimlerini karşılayacak şekilde ve konular arasında dengeyi de gözeterek, güncel ve gündemdeki yayınlar ile edebiyat, kültür, sanat eserleri ve çocuk kitaplarının klasikleri ve yeni örnekleri ile tarih ve yakın tarihle ilgili, anı ve belgesel kitaplarla, Cumhuriyet dönemi yazarlarının eserleri, ülkemizi tanıtıcı kültür ve sanat ağırlıklı yayınlara öncelik verilir.
