@@ -1,0 +1,23 @@
+{
+  "number": "53",
+  "number_as_published": "53",
+  "year": 2018,
+  "title": "2019 Mali Yılı Performans Programı",
+  "decision_date": "2018-10-17",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/40",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/53-2018-performans-programi-1710-2018.pdf",
+  "source_sha256": "20e41c0b0a160b81b932e6cc6503754aa5bad19d7f6be042c8853b05576c420f",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-10-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17 Ekim 2018 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
