@@ -1,0 +1,5 @@
+Yapım işinde kullanılan malzemenin sözleşme eki teknik şartnamede belirtilen özellikleri taşımaması ve fesihten sonra teminatın yüklenicinin borcuna mahsup edilmesi suretiyle yapılan tahsilatın kabul görmemesi;
+
+[207 sayılı (Asıl) İlamın 7 nci maddesiyle tazminine hükmolunan … TL’den hükümden önce hakedişten kesilmek suretiyle tahsil edilen … TL düşülerek] 278 sayılı Ek İlamın 2. maddesiyle verilen … TL’nin tazminine (tazminin devamına) dair hüküm, aynı tazmin hükmünde Harcama Yetkilisi sıfatı ile iştiraki bulunan … ile Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …, … ve …’ın başvurusu üzerine düzenlenen 17.10.2018 tarih ve 45199 tutanak sayılı Temyiz Kurulu İlamı ile kaldırılmış bulunduğundan; temyiz talebinde bulunan sorumlunun (Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden …’ın) bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 17.10.2018 tarih ve 45200 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
