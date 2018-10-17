@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2018/İK-SDD/307",
+  "date": "2018-10-17",
+  "title": "İnceleme-EHARD",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2018-10-17",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=62",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/5423bda6-ba35-42e0-aef8-462c131ebecf.pdf",
+  "source_sha256": "40638eb9d6d8dfefd6a49cbddd8f76487770fd1e562c00897a259456447f8db3",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2018-10-17",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 17.10.2018; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
