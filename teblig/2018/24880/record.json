@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.24880",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/7)",
+  "number": "24880",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24880",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24880&MevzuatTertip=5",
+  "source_sha256": "8f8abeeceac978859f719e06628597bd88f92befc1c5738c3848eb13bb5e58f3",
+  "source_bytes": 12218,
+  "published": "2018-10-16",
+  "gazette": "30567",
+  "in_force": "2018-10-17",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 17/10/2018 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 17/10/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 284,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24880-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
