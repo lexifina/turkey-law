@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.13383",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SÜSLEME SANATLARI VE GELENEKSEL EL SANATLARI KURSLARI YÖNETMELİĞİ",
+  "number": "13383",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2009/13383",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13383&MevzuatTertip=5",
+  "source_sha256": "afe9d2534a29461da7fd42dbec1bd4f5b3334ef285e443870a6b593fb646bd72",
+  "source_bytes": 68429,
+  "published": "2009-08-29",
+  "gazette": "27334",
+  "in_force": "2018-10-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/10/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-10-17",
+      "RG-17/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-17",
+      "17/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-13",
+      "RG-13/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-01-13",
+      "13/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-07-10",
+      "RG-10/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-10",
+      "10/7/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2262,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
