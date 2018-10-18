@@ -1,0 +1,4 @@
+AKTS kredisi, AKTS koordinatörü ve GANO
+MADDE 12 – (1) AKTS kredisi, bir dersi tamamlamak için öğrenciye yüklenen ödev, sınav, uygulama, çalışma ve sorumluluk miktarını tanımlayan sayıdır. Bir dersin hedeflenen öğrenme çıktılarını kazandırmak amacıyla planlanan öğrenim aktivitelerini başarıyla tamamlamak için gerekli zamanı temel alarak belirlenen iş yüküne dayanan kredi sistemidir. Proje, tez, staj ve alan çalışması gibi derslere de AKTS kredisi verilir.
+(2) AKTS koordinatörü, ilgili yönetim kurulu tarafından görevlendirilen ve AKTS’nin yürütülmesinden sorumlu öğretim elemanıdır. Öğrencileri ve öğretim elemanlarını AKTS hakkında bilgilendirir, eğitim-öğretim süresince öğrencinin akademik durumunu izler, kayıt ve ders değiştirme, ekleme veya bırakma işlemlerine rehberlik eder.
+(3) GANO, alınan bütün derslerin ağırlıklı puan toplamının, derslerin AKTS kredileri toplamına bölünmesiyle bulunan genel ağırlıklı not ortalamasıdır.

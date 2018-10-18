@@ -1,0 +1,8 @@
+İlk kayıt işlemleri ve gerekli belgeler
+MADDE 6 – (1) Üniversiteye kesin kayıt yaptırma esasları şunlardır:
+a) Üniversitede bir programa kesin kayıt hakkı kazananların ilk kayıt işlemleri Öğrenci İşleri Birimince, ÖSYM tarafından ilan edilen tarihlerde ve istenilen belgelerle yapılır. Kayıt için istenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır.
+b) İlgili mevzuat hükümlerine göre Senato tarafından belirlenen koşulları taşıyan yabancı uyruklu adayların kabulü, Üniversite Yönetim Kurulunun kararı ile yapılır.
+c) Fakülteye/yüksekokula/meslek yüksekokuluna süresi içinde kesin kaydını yaptıran ve kayıt işlemleri tamamlanan aday öğrenci, Üniversitenin öğrencisi olur ve öğrencilik haklarından yararlanır.
+ç) Mazereti bulunan adaylar, mazeretlerini belgelendirmelidir. Bu adayların kesin kayıtları; belirlenen esaslara uymak koşuluyla on sekiz yaşından küçük olanların yasal temsilcileri, on sekiz yaşından büyük olanların noter veya yurt dışı temsilciliklerinden alacakları resimli vekâletname ile yetkili kıldıkları kişiler tarafından yaptırılabilir.
+d) Kesin kayıtlarını yaptıran öğrencilere, Üniversitenin öğrencisi olduklarını belirten, üzerinde geçerlilik süresi yazılı olan fotoğraflı bir kimlik kartı verilir. Süresi içinde kayıt yaptırmayan veya gerekli belgeleri sağlamayan öğrenciler kayıt hakkından vazgeçmiş sayılır.
+e) Gerçeğe aykırı beyanda bulunarak kayıt yaptıran adaylar hakkında gerekli kanuni işlemler yapılır. Kayıt sırasında verdikleri belgelerin ve bilgilerin yanlış veya eksik olduğu anlaşılan öğrencilerin, bulundukları yarıyıla bakılmadan Üniversite ile ilişikleri kesilir.

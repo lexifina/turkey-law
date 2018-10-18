@@ -1,0 +1,4 @@
+Özel ve engelli öğrenciler
+MADDE 15 – (1) Özel öğrenciler, bilgi ve becerilerinin geliştirilmesi amacıyla kendilerine Üniversite dışından katılma izni verilen öğrencilerdir. Özel öğrenci olmak isteyenlerin başvuruları, özel öğrencilerin alabilecekleri dersler ve ders saati toplamı; ilgili bölüm başkanlığının görüşü alınarak ilgili yönetim kurulunca karara bağlanır. Özel öğrenciler, Üniversite öğrencisi sayılmaz ve öğrenci haklarından yararlanamazlar. Bu öğrencilere diploma ve unvan verilmez, ancak devam ve başarı durumlarını gösteren bir belge verilebilir.
+(2) Özel öğrencilerden alınacak ücret, Mütevelli Heyeti tarafından belirlenir.
+(3) Engelli öğrencilerin akademik, idari, fiziki ve sosyal ihtiyaçlarını karşılayacak çözümler Üniversite tarafından üretilir. Bu hususta 14/8/2010 tarihli ve 27672 sayılı Resmi Gazete’de yayımlanan Yükseköğretim Kurumları Özürlüler Danışma ve Koordinasyon Yönetmeliği hükümleri dikkate alınır.

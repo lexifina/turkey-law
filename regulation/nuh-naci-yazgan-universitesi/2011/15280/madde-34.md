@@ -1,0 +1,2 @@
+Üniversiteden ayrılma
+MADDE 34 – (1) Üniversiteden ayrılmak isteyen öğrencilerin, ilgili birimin öğrenci işlerine yazılı olarak başvurmaları gerekir. Bu öğrencilerin ilgili birimden alacakları ilişik kesme belgelerini ibraz etmeleri şartıyla kayıtları silinir. Ancak bu öğrencilerin içinde bulundukları yarıyıl ücretinin tamamını ödemiş olmaları gerekir. Başvuru üzerine kaydı silinen öğrencilere, istemeleri halinde öğrenim durumunu gösteren bir belge, üniversiteye kayıt sırasında teslim ettiği belgeler verilir. Kendi isteği ile kaydını sildirenlerin kaydı tekrar açılmaz.

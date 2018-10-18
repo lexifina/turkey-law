@@ -1,0 +1,6 @@
+İzin
+MADDE 33 – (1) Öğrencilere; haklı ve geçerli nedenlerle eğitim–öğretim yarıyılı başlangıcından itibaren en geç 30 (otuz) gün içerisinde müracaatları halinde ilgili yönetim kurulu kararıyla bir defada en çok iki yarıyıl olmak üzere azami dört yarıyıl izin verilebilir. Öğrencilerin izin talep ettikleri her yarıyıla ait öğrenim ücretinin 1/2’sini ödemeleri gerekir.
+(2) Öğrencilere; hastalık, tabii afet, tutukluluk, ekonomik nedenler, mahkûmiyet ve askerlik tecilinin kaldırılması gibi daha önceden öngörülemeyen mazeretleri nedeniyle, ilgili yönetim kurulunca uygun görülmesi halinde yarıyıl içinde de izin verilebilir. Ancak bu durumdaki öğrencilere ödedikleri öğrenim ücreti iade edilmez.
+(3) İkinci fıkrada belirtilen mazeretler nedeniyle izin almak isteyen öğrencinin, mazeretin meydana gelmesinden itibaren en geç yirmi gün içinde gerekli belgelerle ilgili birimin öğrenci işlerine başvurması gerekir. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Mazeretin devamı halinde ilgili yönetim kurulunca izin süresi uzatılabilir.
+(4) İzinli sayılan öğrenci derslere devam edemez ve izinli olduğu yarıyılda yarıyıl sonu sınavlarına giremez.
+(5) İzinli sayılan süreler, öğrenim süresinden sayılmaz.

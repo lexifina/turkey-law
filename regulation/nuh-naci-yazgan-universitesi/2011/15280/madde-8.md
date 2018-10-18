@@ -1,0 +1,3 @@
+Öğrenim ücreti ve burslar
+MADDE 8 – (1) Üniversitede eğitim-öğretim ücretlidir. Yıllık öğrenim ücreti ile öğrencilere verilecek burslar ve bunlara ilişkin esaslar, her yıl Mütevelli Heyeti tarafından belirlenir ve eğitim-öğretim yılı başında ilan edilir.
+(2) Öğrencilerin her eğitim-öğretim yılında, belirlenen miktarda ve zamanda öğrenim ücretini ödemeleri gerekir. Öğrenim ücretini, belirlenen taksitler ve süreler içerisinde ödemeyen öğrencinin kaydı yenilenmez. Mazeretleri kabul edilen öğrencilerin, süresi içerisinde ödemedikleri öğrenim ücretini, ilgili mevzuat hükümlerine göre belirlenen gecikme faizi ile birlikte ödemeleri gerekir.

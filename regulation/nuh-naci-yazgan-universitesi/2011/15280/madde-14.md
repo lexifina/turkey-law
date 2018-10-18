@@ -1,0 +1,5 @@
+Değişim programları
+MADDE 14 – (1) Üniversite ile yurt içindeki veya yurt dışındaki üniversiteler arasında yapılan anlaşmalar uyarınca, öğrenci değişim programı çerçevesinde Üniversite tarafından bir veya iki yarıyıl anlaşmalı olarak diğer üniversitelere öğrenci gönderilebilir. Bu süre içinde öğrencinin Üniversitedeki kaydı devam eder ve bu süre öğretim süresinden sayılır.
+(2) İlgili yönetim kurulunca belirlenen bir öğretim elemanı, değişim programı öğrencisinin alacağı derslerin seçiminde yardımcı olur, öğrencinin değişim programıyla gittiği üniversitedeki eğitimini izler ve eğitimi süresince öğrenci ile irtibatta bulunur.
+(3) Öğrenciler değişim programıyla gittikleri yükseköğretim kurumlarında almış oldukları derslerden başarılı oldukları takdirde, kendi yükseköğretim kurumunun programlarında bulunan aynı içerikli derslerden, AKTS koordinatörünün görüşü ve ilgili yönetim kurulu kararı ile başarılı olmuş sayılır.
+(4) Anlaşmalı üniversitelerden Üniversiteye gelen öğrencilere seçtikleri dersler ve başarı durumlarını gösteren bir belge verilir.

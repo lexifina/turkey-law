@@ -1,0 +1,3 @@
+Üniversite içi yatay geçiş
+MADDE 11 – (1) Bulundukları programda, en az iki yarıyıl öğrenim görmüş olan öğrenciler, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre Üniversite içinde başka bir programa yatay geçiş için akademik takvimde belirtilen süreler içinde ilgili birimin öğrenci işlerine başvuruda bulunabilir.
+(2) Üniversite içi yatay geçiş başvuruları, öğrencinin geçiş yapmak istediği bölümün önerisi ve ilgili yönetim kurulunun kararı ile kesinleşir.

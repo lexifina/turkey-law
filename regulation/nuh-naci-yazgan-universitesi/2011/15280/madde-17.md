@@ -1,0 +1,3 @@
+Eğitim-öğretim yılı
+MADDE 17 – (1) Lisans ve ön lisans eğitim-öğretim yılı, her biri en az on dörder haftalık iki yarıyıldan oluşacak şekilde, yıllık en az 1.500, en fazla 1.800 saat iş yükü esasına göre düzenlenir. Senato gerekli gördüğü hallerde yarıyıl sürelerini uzatabilir veya kısaltabilir. Gerektiğinde Senatonun onayı ile yaz dönemi açılabilir. Yaz dönemine ilişkin hususlar hakkında ilgili mevzuat hükümleri uygulanır.
+(2) Eğitim-öğretim yılının kapsadığı; kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihlerine ilişkin hususlar, Senato tarafından belirlenen ve ilan edilen akademik takvimle düzenlenir.

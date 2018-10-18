@@ -1,0 +1,3 @@
+Yatay ve dikey geçişler
+MADDE 10 – (1) Yatay geçişlerde kabul ve kayıt, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır. Fakülte, yüksekokul veya meslek yüksekokuluna intibakları yapılanlara, en az iki yarıyıl Üniversitede öğrenim görmeleri kaydıyla diploma verilir.
+(2) Dikey geçişlerde kabul ve kayıt, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre yapılır.

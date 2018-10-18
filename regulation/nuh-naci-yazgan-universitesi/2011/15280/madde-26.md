@@ -1,0 +1,6 @@
+Sınavlar
+MADDE 26 – (1) Derslerin her birinden en az bir ara sınav yapılır. Ara sınavların sayısı, hangi tarihlerde ve nerede yapılacağı sınavlardan en az 15 (on beş) gün önce ilgili birim tarafından duyurulur. Bir günde her bir sınıf için en çok iki dersin ara sınavı yapılır.
+(2) Sınava girme koşullarını yerine getiren öğrencilerin başarı durumlarını belirlemek üzere yarıyıl sonunda o yarıyıla ait derslerin yarıyıl sonu sınavları yapılır. Yarıyıl sonu sınavlarının, hangi tarihlerde ve nerede yapılacağı sınavlardan en az 15 (on beş) gün önce ilgili birim tarafından duyurulur. Bir günde her bir sınıf için, en çok iki dersin yarıyıl sonu sınavı yapılır.
+(3) (Değişik:RG-18/10/2018-30569) Mazeretleri nedeniyle ara sınavına/sınavlarına giremeyen öğrenciler, mazeretlerini belgelemek kaydıyla sınav tarihinden itibaren en geç bir hafta içerisinde bir dilekçe ile ilgili birimin öğrenci işleri birimine müracaat ederler. Mazeretleri ilgili yönetim kurulunca kabul edilen öğrencilere mazeret sınavı açılır.
+(4) Sınavı yapan öğretim elemanı, sınava ilişkin belgeleri ve sınav sonuçlarını sınav yapıldıktan sonra en geç 15 (on beş) gün içinde ilgili öğrenci işleri birimine ilan edilmek üzere teslim eder.
+(5) Sınav evrakları, sınavın veriliş tarihinden itibaren üç yıl süreyle ilgili birimde saklanır ve üçüncü yılın sonunda imha edilir.

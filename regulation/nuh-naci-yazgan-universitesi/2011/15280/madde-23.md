@@ -1,0 +1,6 @@
+Ders ve uygulamalara devam zorunluluğu
+MADDE 23 – (1) Öğrenciler; ilgili fakülte, yüksekokul veya meslek yüksekokullarının belirlediği esaslar doğrultusunda derslere, laboratuvar ve uygulamalara devam etmek, yarıyıl içinde her türlü sınava ve öğretim elemanlarının uygun gördüğü diğer çalışmalara katılmakla yükümlüdür. Öğrencilerin devam durumları, ilgili öğretim elemanı tarafından izlenir.
+(2) Teorik derslerin en az % 70’ine, uygulama ve laboratuvarların ise en az % 80’ine devam etmeyen öğrenciler o dersin yarıyıl sonu sınavına alınmaz.
+(3) Daha önce devam koşulu bir kere sağlanmış derslerde devam koşulu aranmaz. Devam koşulu bir kere sağlanmış dersler için verilecek proje, ödev ve uygulamalara öğrencinin devam edip etmeyeceği öğretim elemanının önerisi ve ilgili yönetim kurulunun kararı ile ön kayıt haftasında öğrencilere duyurulur.
+(4) Ulusal veya uluslararası sosyal, sportif, bilimsel, kültürel ve öğretim amaçlı etkinliklere katılan öğrencilerin ulusal takım veya Üniversite adına görevli oldukları süreler ilgili yönetim kurulu kararı ile devamsızlıktan sayılmaz.
+(5) Raporlu olan, yükseköğretim kurumundan uzaklaştırma cezası alan öğrenciler dâhil bir dersin devam yükümlülüğünü yerine getirmeyen öğrenci başarısız sayılır.
