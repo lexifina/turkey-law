@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8135",
+  "decision_date": "2018-10-18",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 5 inci maddesinin üçüncü fıkrasında yer alan limite ilişkin",
+  "resmi_gazete_date": "2018-10-20",
+  "resmi_gazete_number": "30571",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F35NSzAb6yo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F35NSzAb6yo="
+  ],
+  "source_sha256": "7acbe503759cd8eb5ca4d9f92b6bc8ac002613b0284a4cb8ef13bea8bb89793e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-10-18",
+  "law_text_complete": true
+}
