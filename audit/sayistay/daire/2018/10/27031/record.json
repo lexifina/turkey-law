@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "141",
+  "decision_date": "2018-10-18",
+  "source_id": 27031,
+  "chamber": "8",
+  "ilam_number": "343",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/27031/",
+  "source_sha256": "3f1af636733ba190fb239cc55bcec81b21b875900798a43f9cf85a46bd30e12d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
