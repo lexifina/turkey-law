@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8136",
+  "decision_date": "2018-10-18",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 6 ncı maddesinde tanımlanan ve Geçici 2 nci maddesinde belirlenen KBK’nın 1/1/2019 tarihinden itibaren geçerli olmak üzere 1,0938 olarak revize edilmesine",
+  "resmi_gazete_date": "2018-10-20",
+  "resmi_gazete_number": "30571",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k8C5g27/Y18=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k8C5g27/Y18="
+  ],
+  "source_sha256": "43819ff8c8ffb7be15070e23ac1812132cc0f6d8f7d3d3f3009f855e928bfd35",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-10-18",
+  "law_text_complete": true
+}
