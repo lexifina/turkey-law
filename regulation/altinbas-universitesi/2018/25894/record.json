@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-10-20",
+      "20.10.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30571",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-10-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2018/25894",
+  "published": "2018-10-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=25894&MevzuatTertip=5",
+  "source_bytes": 38579,
+  "source_id": "8.5.25894",
+  "source_sha256": "b997089d5e8ab42a4651649351059a09e7821b2ae245214c48f3642e55bc0472",
+  "text_status": "as-enacted",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ SAĞLIK UYGULAMA VE \r\n\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 1823
+}
