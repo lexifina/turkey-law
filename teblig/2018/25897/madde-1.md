@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 24/5/2018 tarihli ve 30430 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/20) ile Çin Halk Cumhuriyeti menşeli 5503.20.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “poliesterden sentetik devamsız lifler (polyester elyaf)” ürününe yönelik başlatılan ve T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
