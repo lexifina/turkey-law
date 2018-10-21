@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.25893",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLU ALTYAPISI GÜVENLİK YÖNETİMİ HAKKINDA YÖNETMELİK",
+  "number": "25893",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2018/25893",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=25893&MevzuatTertip=5",
+  "source_sha256": "599619139eca862af1dc598d4c0a99368be3537eda4b016bfa5559781ca43b56",
+  "source_bytes": 32212,
+  "published": "2018-10-21",
+  "gazette": "30572",
+  "in_force": "2018-10-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.10.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1500,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.25893-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
