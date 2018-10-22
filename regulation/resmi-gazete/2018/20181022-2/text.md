@@ -1,0 +1,294 @@
+22 Ekim 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30573
+YÖNETMELİK
+Karamanoğlu Mehmetbey
+Üniversitesinden:
+KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ ÇOCUK EĞİTİMİ
+UYGULAMA
+VE ARAŞTIRMA MERKEZİ (ÇOCUK ÜNİVERSİTESİ)
+YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı, Karamanoğlu Mehmetbey
+Üniversitesi Çocuk Eğitimi Uygulama ve Araştırma Merkezinin amaçlarına,
+faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine
+ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, Karamanoğlu Mehmetbey
+Üniversitesi Çocuk Eğitimi Uygulama ve Araştırma Merkezinin amaçlarına,
+faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine
+ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Alan Koordinatörü: Çeşitli bilim, sanat, spor ve
+kültür alanlarında sorumlu olduğu programı yürüten kişiyi,
+b) Çocuk Üniversitesi: Okulöncesi, ilköğretim ve
+ortaöğretim öğrencilerine yönelik programları,
+c) Merkez: Karamanoğlu Mehmetbey Üniversitesi Çocuk Eğitimi Uygulama ve
+Araştırma Merkezini,
+ç) Müdür: Merkezin Müdürünü,
+d) Rektör: Karamanoğlu Mehmetbey Üniversitesi Rektörünü,
+e) Üniversite: Karamanoğlu
+Mehmetbey Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları ve faaliyet alanları
+MADDE 5 –
+(1) Merkezin amaçları ve faaliyet
+alanları şunlardır:
+a) Okulöncesi, ilköğretim ve ortaöğretim çağındaki
+çocukların akademik, sosyal, kültürel, sanatsal ve sportif alanlarda çok
+yönlü gelişimlerine katkıda bulunmak,
+b) Okulöncesi, ilköğretim ve ortaöğretim çağındaki
+çocuklara yönelik akademik, sosyal, kültürel, sanatsal ve sportif alanlarda
+eğitim programları hazırlamak,
+c) Çocukların erken yaşlarda üniversite ortamında
+bilim dünyası ile tanışmalarını sağlamak, bilimsel düşünme ve bilimsel
+süreç becerilerini geliştirmek,
+ç) Merkezde gerçekleştirilecek etkinliklerle
+çocuklara 21. Yüzyıl becerilerini kazandırmak,
+d) Okulöncesi, ilköğretim ve ortaöğretim çağındaki
+çocukların, çağımızın çok yönlü insanı olarak yetişmelerine katkı sağlamak
+amacı ile çeşitli alanlarda eğitim programları, bilim ve doğa kampları,
+sergiler, bilim okulları ve uygulamalı öğrenme etkinlikleri düzenlemek,
+e) Akademik çerçevede bilim, kültür, sanat ve spor
+alanlarında uygulama ortamları oluşturarak, çocuklara etkileşimli çalışma
+alışkanlıkları kazandırmak ve herhangi bir alanda bilgi sahibi olmak
+isteyen hedef kitleye bu bilgiyi sağlamak,
+f) Çocukların uluslararası düzeyde dünya vatandaşı
+olmalarını sağlayacak; açık fikirli olma, bilimsel, eleştirel ve yaratıcı
+düşünme, problem çözme, işbirlikli çalışma, etkili iletişim kurabilme gibi
+temel becerileri kazanmalarını sağlayacak her türlü faaliyetleri planlamak
+ve yürütmek,
+g) Okulöncesi, ilköğretim ve ortaöğretim
+düzeyindeki çocukların, ilgi duydukları bilimsel alanlarla ilgili güvenilir
+ve güncel bilgiyi, o alanın önde gelen bilim insanlarından öğrenmelerini
+sağlamak,
+ğ) Çocukların bilim, kültür, sanat ve spor
+alanlarında çok yönlü yetişmelerine katkı sağlamak için zenginleştirilmiş,
+farklılaştırılmış ve bireyselleştirilmiş eğitim programları düzenlemek,
+h) Çocuklarla ulusal ve uluslararası düzeyde
+bilimsel, kültürel, sanatsal ve sportif nitelikli her türlü faaliyeti
+düzenlemek, yayın ve yayım etkinliklerinde bulunmak,
+ı) Çocukların erken yaşlarda üniversite ortamı ile
+tanışmalarını sağlayarak üniversite okumaya olan ilgi ve heyecanlarını
+artırmak ve geleceğe dair hedefler oluşturmalarında rehber olmak,
+i) Mesleki yönlendirme ve rehberlik hizmetleri ile
+öğrencilerin üniversite ve bölüm tercihinde bulunurken yapabilecekleri
+hataları önlemek ve bu yolla oluşabilecek zaman, kaynak ve emek israfının
+önüne geçmek,
+j) Okulöncesi, ilköğretim ve ortaöğretim
+çocuklarına hayat boyu öğrenme felsefesi aşılamak,
+k) Ulusal ve uluslararası düzeyde, çocuk
+faaliyetleri kapsamında yapılan organizasyonlarla işbirliği yapmak,
+l) Üniversitenin, çocuklarla çalışmalar
+gerçekleştirmesi yoluyla toplumla ilgili sorumluluklarını yerine getirmesine
+ve toplumla daha iç içe olmasına yardımcı olmak,
+m) Sosyo-ekonomik durumu
+yeterli olmayan ve eğitim olanaklarına kolay ve devamlı şekilde ulaşamayan
+veya özel ilgi ve/veya eğitim ihtiyacı olan çocukların, diğer bireylerle
+aynı ortamda eğitim almalarını sağlayarak eğitimde fırsat eşitliği
+oluşturmak,
+n) Üstün yetenekli çocukların aile, okul ve yaşam
+alanlarında gereksinimlerinin farkına varılmasını sağlamak, bu çocukların
+yeteneklerine ve ilgi alanlarına uygun olacak şekilde eğitilmelerine ve
+yönlendirilmelerine destek olmak,
+o) Merkezde yürütülecek faaliyetler kapsamında
+ulusal ve uluslararası düzeyde projeler yazmak, çocuklarla ulusal ve
+uluslararası yarışmalara katılmak,
+ö) Okulöncesi, ilköğretim ve ortaöğretim
+öğrencilerine, bilimsel düşünceyi ve beceriyi geliştirmek üzere Üniversite
+içinde ve dışında çeşitli uygulamalı dersler, etkinlikler, geziler,
+kamplar, laboratuar çalışmaları, konferanslar ve çalıştaylar
+düzenlemek,
+p) Çocukların, ailelerin ve öğretmenlerin;
+üniversite ortamında uzmanlar ve akademisyenler ile paylaşımda bulunmalarını
+ve yeni eğitim modellerini tanımalarını ve deneyimlemelerini
+sağlamak,
+r) Üniversite-toplum arasındaki bağı güçlendirmek,
+bilimsel etkinliklere çocuk-aile-öğretmen başta olmak üzere tüm toplumun
+katılımını sağlayarak bireylerin bilime yönelik olumlu tutum ve davranış
+geliştirmelerine ve çocukların çok yönlü gelişimlerine katkıda bulunmak,
+s) Bilim, kültür ve sanat ve spor alanında yeni yaklaşımları
+ve birikimleri, eğitim-öğretim programlarıyla ilişkilendirerek çocuklar,
+öğretmenler ve ailelerle paylaşmak,
+ş) Çocukların eğitimi amacı ile yeni
+yöntemler/etkinlikler geliştirmek, değerlendirmek ve uygulamaları yerel,
+ulusal ve uluslararası alanda paylaşıma sunmak,
+t) Çocuklara, ailelere ve öğretmenlere psikolojik
+danışma ve rehberlik hizmetleri sunmak,
+u) Merkezin faaliyet alanları kapsamında
+okulöncesi, ilköğretim ve ortaöğretim çağındaki çocukların eğitimine
+yönelik Üniversitenin diğer birimlerince gerçekleştirilecek olan tüm
+faaliyetlere yönelik ön incelemeler yapmak, görüş ve öneriler sunmak,
+ü) Çocuklara yönelik faaliyetlerde resmi ve özel
+kurum ve kuruluşlarla ve özellikle ulusal ve uluslararası diğer çocuk
+eğitimi uygulama ve araştırma merkezleri ile işbirliği kurmak ve ortak
+çalışmalar yapmak,
+v) Akademisyenlere, lisansüstü öğrencilere ve
+öğretmenlere, merkezde yapılacak eğitim-öğretim faaliyetleri ile ilgili
+uygulama ve araştırma yapma imkânı sağlamak,
+y) Merkezin programlarına katılan çocuklara katılım
+belgesi vermek,
+z) Yönetim Kurulunun kararlaştıracağı diğer
+faaliyetlerde bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Organları ve Görevleri
+Merkezin
+organları
+MADDE 6 –
+(1) Merkezin organları şunlardır:
+a) Müdür,
+b) Yönetim Kurulu.
+Müdür
+MADDE
+7 – (1) Müdür, merkezin çalışma alanlarıyla ilgili
+Üniversite öğretim üyeleri arasından, Rektör tarafından üç yıl için
+görevlendirilir. Görev süresi dolan
+Müdür yeniden görevlendirilebilir.
+(2) Müdürün altı aydan daha fazla kesintisiz olarak
+görevi başında bulunamayacağı durumlarda Rektör tarafından yeni bir Müdür
+görevlendirilir. Müdür, merkezin tüm faaliyetlerinden Rektöre karşı
+sorumludur.
+(3) Müdürün önerisi ile Rektör, Üniversitede tam
+zamanlı görevli öğretim elemanları arasından en fazla iki kişiyi müdür
+yardımcısı olarak görevlendirir. Müdürün görevi başında bulunmadığı
+durumlarda Müdüre, Müdür Yardımcılarından biri vekâlet eder. Müdürün görev
+süresi bittiğinde Müdür Yardımcılarının da görevi sona erer.
+Müdürün
+görevleri
+MADDE 8 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi faaliyet alanları doğrultusunda yönetmek
+ve temsil etmek,
+b) Yönetim Kurulunun gündemini belirlemek, olağan
+ya da olağanüstü olarak toplantıya çağırmak ve başkanlık etmek,
+c) Yönetim Kurulu kararlarını uygulamak,
+ç) Merkezin faaliyetleriyle ilgili yıllık çalışma
+programını hazırlamak, Yönetim Kuruluna ve kabul edilen şekliyle Rektörün
+onayına sunmak,
+d) Alan koordinatörlerinin hazırladığı eğitim
+faaliyetlerini koordine etmek, denetlemek,
+e) Merkezin çalışmalarının yürütülmesine yönelik
+komisyon ve çalışma grupları oluşturmak,
+alan koordinatörlerini belirlemek ve bunların çalışma esaslarını
+düzenlemek,
+f) Akademik yılsonunda merkezin geçmiş yıl faaliyet
+raporunu hazırlamak, Yönetim Kuruluna ve kabul edilen şekliyle Rektörün
+onayına sunmak.
+Yönetim
+Kurulu
+MADDE 9 –
+(1) Yönetim Kurulu, Müdür, Müdür
+Yardımcısı/yardımcıları ve Rektör tarafından eğitim fakültesinden seçilen
+üç öğretim elemanından oluşur. Seçilen üyelerin görev süreleri üç yıldır.
+Müdürün görev süresinin bitmesi veya görevinden ayrılması durumunda Yönetim
+Kurulu üyelerinin de görevleri sona erer. Herhangi bir nedenle ayrılan
+üyenin yerine, yine aynı yöntemle yenisi seçilir. Görevi sona eren üye
+tekrar seçilebilir. Yönetim Kurulu, yılda en az bir kez ve/veya gerekli
+hallerde Müdürün çağrısı üzerine Müdürün başkanlığında toplanır. Yönetim
+Kurulu salt çoğunlukla toplanır ve toplantıya katılanların salt çoğunluğu
+ile karar alır. Kararlar, açık oylama ile alınır. Oyların eşit olması
+halinde kapalı oylama yapılır. Kapalı oylama sonucunda eşitliğin bozulmaması
+durumunda Müdürün kararı belirleyicidir.
+Yönetim
+Kurulunun görevleri
+MADDE 10
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin çalışmalarıyla ilgili plan ve
+programları hazırlamak, yürütmek ve bunlara ilişkin kararlar almak,
+b) Müdür tarafından önerilen komisyon, alan
+koordinatörü ve çalışma gruplarının oluşturulmasını karara bağlamak,
+c) Merkezin yıllık faaliyet programını ve raporunu
+hazırlamak ve değerlendirmek,
+ç) Merkezin gerçekleştireceği faaliyetlerde görev
+alacak, gönüllü, yarı ya da tam zamanlı uzmanları veya stajyer öğrencileri
+belirlemek ve görevlendirmek üzere karara bağlamak,
+d) Merkez ile Üniversitenin tüm birimleri ve dış
+paydaş birimleri arasında Merkezin amaçları doğrultusunda işbirliğinin
+sağlanmasında Müdüre yardımcı olmak,
+e) Gerekli durumlarda dış paydaşlardan ihtiyaç
+duyulan alanlarda ilgili bilim insanı, araştırmacı, uzman, eğitimci,
+sanatçı, idari ve teknik personelin görevlendirilmesini teklif etmek,
+f) Merkezin ödenek ihtiyacını ve gereksinim duyduğu
+akademik, idari, sanatçı ve teknik personel ihtiyaçlarını teklif etmek,
+g) Bir yıl içinde verilecek hizmetleri, yapılacak
+tüm etkinlikleri, bu hizmet ve etkinliklerde görev alacak kişileri
+belirleyerek teklifte bulunmak,
+ğ) İlgili mevzuat hükümlerine göre verilen diğer
+görevleri yapmak.
+Alan
+koordinatörleri ve görevleri
+MADDE 11
+– (1) Alan koordinatörü, Müdürün
+önerisi ile Rektör tarafından görevlendirilir.
+(2) Gerçekleştirilecek her faaliyet alanında o
+alanın uzmanı bir alan koordinatörü görevlendirilir.
+(3) Alan koordinatörünün görevi;
+sorumlusu olduğu alanda Merkezde yürütülecek programların açılmasını
+sağlamak, açılacak programlara katılacak çocukların seçim ölçütlerini,
+derslerini, akademik takvimini, ders programlarını belirleyerek Merkez
+yönetimine sunmak, programın eğitmenlerini ve görev dağılımlarını, olanak
+ve ihtiyaçlarını saptamak, onaylanan programı çocukların sağlık ve
+güvenlikleri için gerekli önlemleri alarak yürütmek ve ilgili görevin
+tamamlanmasından sonra hazırlanan raporu Müdürlüğe sunmaktır.
+Merkez
+birimleri ve/veya koordinasyon/çalışma grupları
+MADDE 12
+– (1) Müdür tarafından gerekli
+görüldüğü takdirde, bir veya daha çok hizmet dalı için, işlerin daha
+verimli yürütülebilmesi amacıyla, Müdürün önerisi, Yönetim Kurulu kararı ve
+Rektörün onayıyla, süreli/süresiz görev yapacak olan birimler ya da
+koordinasyon ve/veya çalışma grupları oluşturulabilir. Bir
+koordinasyon/çalışma grubunun görevleri, kimlerden ve kaç kişiden oluşacağı
+ve görev süresinin ne kadar olacağı Yönetim Kurulu tarafından belirlenir.
+Merkez
+koordinatörü
+MADDE 13
+– (1) Müdür tarafından gerekli
+görüldüğü takdirde, Merkez birimleri ile koordinasyon ve/veya çalışma
+gruplarının çalışmalarının uyumlu bir şekilde yürütülebilmesi için Müdür
+tarafından teklifi yapılan bir kişi Rektör tarafından Merkez koordinatörü
+olarak görevlendirilebilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 14
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı 2547 sayılı Kanunun 13 üncü maddesine göre Rektör
+tarafından görevlendirilecek personel tarafından karşılanır.
+İzinler
+ve görevlendirmeler
+MADDE 15
+– (1) Merkezde görevli öğretim
+elemanlarının izinleri ve görevlendirmeleri asli görevlerinin bulunduğu
+birimler üzerinden yapılır.
+Harcama
+yetkilisi
+MADDE 16
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Rektör yardımcılarından birine veya Müdüre
+devredebilir.
+Yürürlük
+MADDE 17
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 18
+– (1) Bu Yönetmelik hükümlerini Karamanoğlu Mehmetbey
+Üniversitesi Rektörü yürütür.
