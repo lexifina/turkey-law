@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "321",
+  "decision_date": "2018-10-23",
+  "source_id": 28354,
+  "chamber": "3",
+  "ilam_number": "150",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28354/",
+  "source_sha256": "d5cae2a5552d14172e3f31c6e7572a7a6e6585f6a8d515f0ef8381a9f3764e34",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
