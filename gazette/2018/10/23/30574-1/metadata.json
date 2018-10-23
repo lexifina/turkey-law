@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-10-23",
+  "issue": "30574",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Atlas Üniversitesi Ana Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/10/20181023-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/10/20181023.htm",
+  "index_sha256": "45389c21a5b82f6f4bffeaa3e296c6e56b5fdbcf6dd19e2b8dc61fd02696fe67",
+  "index_header": "23 Ekim 2018 ... 30574 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/10/20181023.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "c76466e6c1f590dfc7f583203a99c69d6ababd90307e9a5d5c050e754404ac2a",
+  "text_status": "text.txt as published"
+}
