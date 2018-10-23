@@ -1,0 +1,131 @@
+Vekalet Ücreti
+
+…......... Adliyesindeki Yazı İşleri Müdürlüğü görevini vekaleten yürüten ….........’a, anılan göreve asil olarak atanabilmek için aranan “en az dört yıllık yüksekokul, fakülte veya adalet yüksek okulu, meslek yüksek okullarının adalet bölümü veya adalet meslek eğitimi önlisans programı mezunu olmak” şartını taşımamasına rağmen vekalet aylığı (zam ve tazminat farkı dahil) ödenmesi nedeniyle Rapora konu edilen ancak yapılan ilk incelemede; vekalet aylığı ödemesini değil 2006/10344 sayılı Bakanlar Kurulu Kararı uyarınca hesaplanan zam ve tazminat farkı ile 375 sayılı Kanun Hükmünde Kararname uyarınca hesaplanan ek ödeme farkını içerdiği tespit edilen …......... TL tutarındaki kamu zararı iddiasıyla ilgili olarak dosyada mevcut bilgi ve belgeler değerlendirilmiştir.
+
+657 sayılı Devlet Memurları Kanununun;
+
+“Vekalet görevi ve aylık verilmesinin şartları” başlıklı 86 ncı maddesinde;
+
+“Memurların kanuni izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma nedenleriyle işlerinden geçici olarak ayrılmaları halinde yerlerine kurum içinden veya diğer kurumlardan veya açıktan vekil atanabilir.
+
+Bir görevin memurlar eliyle vekaleten yürütülmesi halinde aylıksız vekalet asıldır.
+
+Ancak, ilkokul öğretmenliği (Yaz tatili hariç), tabiplik, diş tabipliği, eczacılık, köy ve beldelerdeki ebelik ve hemşirelik, mühendis ve mimarlık, veterinerlik, vaizlik, Kur’an kursu öğreticiliği, imam-hatiplik ve müezzin-kayyımlığa ait boş kadrolara Maliye Bakanlığının izni (mahallî idarelerde izin şartı aranmaz) ile, açıktan vekil atanabilir.
+
+Aynı kurumdan ayrılmalar dolayısiyle atanan vekil memurlara vekalet görevinin 3 aydan fazla devam eden süresi için, kurum dışından veya açıktan atananlarla kurum içinden ilkokul öğretmenliğine atanan öğretmenler ile veznedarlık görevine atananlara göreve başladıkları tarihten itibaren vekalet aylığı ödenir.
+
+Bu Kanuna tabi kurumlarda çalışan veteriner hekim veya hayvan sağlık memurları, veteriner hekim veya hayvan sağlık memuru bulunmayan belediyelerin veterinerlik veya hayvan sağlık memurluğu hizmetlerini ifa etmek üzere bu hizmetlerle ilgili kadrolara vekalet aylığı verilmek suretiyle atanabilirler.
+
+Yukarıda sayılan haller dışında, boş kadrolara ait görevler lüzum görüldüğü takdirde memurlara ücretsiz olarak vekaleten gördürülebilir.
+
+Bu Kanuna tabi kurumlarda, mali, nakdi ve ayni sorumluluğu bulunan saymanlık kadrolarının boşalması halinde bu kadrolara işe başladıkları tarihten itibaren vekalet aylığı verilmek suretiyle memurlar arasından atama yapılabilir.
+
+...”
+
+“Vekalet, ikinci görev aylık ve ücretleri ile diğer ödemeler” başlıklı 175 inci maddesinde;
+
+“Bir göreve vekaleten atanan memurlara vekalet edilen görevin kadro derecesinin birinci kademesinin üçte biri, açıktan atananlara ise (Köy ve kasaba imamlığı kadrolarına atananlara 146 ncı maddede yazılı asgari ücret aylık tutarından aşağı olmamak üzere) üçte ikisi verilir. Bulundukları yerden başka bir yerdeki bir göreve vekalet suretiyle atananlara, Harcırah Kanununun geçici görevle başka yere gönderilenlere ilişkin hükümleri uygulanır.
+
+Ancak, kurum içinden veya diğer kurumlardan vekalet edenlere vekalet aylığı ödenebilmesi için, vekilin asilde aranan şartları taşıması zorunludur.
+
+…”
+
+hükümleri yer almakta olup, 06.01.2013 tarihli ve 2013/4156 sayılı Bakanlar Kurulu Kararı ile 2013 yılında da uygulanmasına devam edileceği belirtilen ve 17.04.2006 tarihli ve 2006/10344 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Kararın “Vekalet” başlıklı 9 uncu maddesinde;
+
+“(1) 657 sayılı Kanunun 86 ncı maddesi uyarınca;
+
+a) l) Kurumlarınca bir göreve kurum içinden veya diğer kurumlardan vekalet ettirilenlere;
+
+aa) Vekaletin, 657 sayılı Kanunun 86 ncı maddesine binaen yapılması ve bu hususun onayda belirtilmiş olması,
+
+bb) Vekaletin, Bakanlar Kurulu kararı veya müşterek karar ile atama yapılması gereken kadro veya görevler için ilgili Bakan, diğer kadro veya görevler için asili atamaya yetkili amir tarafından verilmesi,
+
+cc) Vekillerin, genel ve ilgili özel mevzuatı uyarınca asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadro veya görevler için bu sınavlara girebilme hakkının elde edilmiş olması dahil) bir arada taşımaları,
+
+kaydıyla; vekalet ettikleri kadro veya görevler için bu Karar uyarınca öngörülen zam ve tazminatların toplam net tutarının, asli kadro veya görevleri karşılığında fiilen aldıkları zam ve tazminatların toplam net tutarından fazla olması halinde, aradaki fark; 657 sayılı Kanunun 175 inci maddesindeki oranlar dikkate alınmaksızın, vekalet görevine başlanıldığı tarihten itibaren ve vekalet görevinin fiilen yapıldığı sürece ödenir.
+
+2) aa) Esas ve usule ilişkin olarak yukarıda belirtilen şartları bir arada taşımayanlara,
+
+bb) Mehil müddeti, yıllık izin, mazeret izni, hastalık izni, geçici görev, vekalet, görevden uzaklaştırma, tutuklanma, gözaltına alınma, hizmetiçi eğitim, kurs veya seminer nedeniyle görevlerinden ayrılanlara vekalet edenlere,
+
+…
+
+vekalet nedeniyle öngörülen zam ve tazminatlar ödenmez.”
+
+375 sayılı Kanun Hükmünde Kararnamenin (666 sayılı Kanun Hükmünde Kararnamenin 1 inci maddesiyle eklenen ve 15.01.2012 tarihi itibarıyla yürürlüğe giren) ek 9 uncu maddesinde de;
+
+“Aylıklarını 657 sayılı Devlet Memurları Kanunu ile 2914 sayılı Yükseköğretim Personel Kanununa göre almakta olan personele, 399 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvele dahil pozisyonlarda istihdam edilen sözleşmeli personele, subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, sözleşmeli subay ve astsubay adayları ile uzman jandarma ve uzman erbaşlara, mali haklar kapsamında yapılan her türlü ödemeler dahil almakta oldukları toplam ödeme tutarı dikkate alınmak suretiyle aynı veya benzer kadro ve görevlerde bulunan personel arasındaki ücret dengesini sağlamak amacıyla, en yüksek Devlet memuru aylığına (ek gösterge dahil), ekli (I) sayılı Cetvelde yer alan kadro ve görev unvanlarına karşılık gelen oranların uygulanması suretiyle hesaplanan tutarda ek ödeme yapılır.
+
+…
+
+Birinci fıkra kapsamına giren personelden; kurumlarınca bir kadroya kurum içinden veya kurum dışından vekalet ettirilenlere, vekaletin 657 sayılı Kanunun 86 ncı maddesine istinaden yapılmış ve bu hususun onayda belirtilmiş olması, vekalet görevinin Bakanlar Kurulu kararı veya müşterek karar ile atama yapılması gereken kadrolar için ilgili bakan, diğer kadrolar için asili atamaya yetkili amir tarafından verilmesi, vekalet eden personelin asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadrolar için bu sınavlara girebilme hakkının elde edilmiş olması dahil) taşıması kaydıyla vekalet ettikleri kadro için öngörülen ek ödemenin asli kadroları için öngörülen ek ödemeden fazla olması halinde, aradaki fark, vekalet görevine başlanıldığı tarihten itibaren ve bu görev fiilen yapıldığı sürece ödenir. Ancak, mehil müddeti, yıllık izin, mazeret izni, hastalık ve refakat izni, geçici görev, vekalet, görevden uzaklaştırma, hizmet içi eğitim, seminer ve kurs nedenleriyle görevlerinden ayrılanlara vekalet edenlere bu şekilde ödeme yapılmaz.
+
+… ”
+
+(375 sayılı KHK’nın ek 9 uncu maddesinin yukarıda yer verilen fıkrasındaki “Bakanlar Kurulu kararı veya müşterek karar ile” ibaresi 02.07.2018 tarihli ve 703 sayılı KHK’nın 177 nci maddesiyle, “Cumhurbaşkanınca” şeklinde değiştirilmiştir.)
+
+denilmektedir.
+
+Ayrıca, 17.05.1987 tarihli ve 19463 sayılı Resmi Gazete’de yayımlanan 99 seri nolu Devlet Memurları Kanunu Genel Tebliğinde;
+
+“…
+
+1. Bir görevin vekaleten yürütülmesi halinde görevin gerekleri ve nitelikleri değişmeyeceğinden bu görevi vekaleten yürütecek olanların asil memurda aranan şartlara sahip olmaları gerekmektedir. Bu sebeple,
+
+a) 1-4 üncü dereceli kadrolara vekalet edeceklerin 657 sayılı Kanunun 68 inci maddesinde belirtilen şartları haiz olmaları,
+
+b) 5-15 inci dereceli kadrolara vekalet ettirileceklerin öğrenim durumları itibariyle tesbit olunan yükselinebilecek dereceyi aşmamak kaydıyla vekalet ettirilecekleri kadronun derecesinin, kazanılmış hak aylık derecesinin üç üst derecesinden fazla olmaması,
+
+gerekmektedir.
+
+2. Asilde aranan şartlara sahip vekil memur bulunamadığı takdirde, hizmetin aksamadan yürütülebilmesi bakımından herhangi bir şekilde boşalmış veya boş bulunan bir görevin öncelikle varsa yardımcıları yoksa asilde aranan şartlara en yakın personel tarafından tedviren gördürülmesi mümkün görülmektedir.
+
+3. 657 sayılı Kanunun vekalet ücreti ödenmesine ilişkin 175 inci maddesine göre, tedvir dolayısıyla herhangi bir ödeme yapılması mümkün bulunmamaktadır.”
+
+hükümlerine yer verilmiştir.
+
+Yukarıda belirtilen mevzuat hükümlerinden açıkça anlaşılacağı üzere, boş bir kadroya (kanuni izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma gibi geçici ayrılma nedenleriyle değil emeklilik, istifa, ölüm gibi sürekli ayrılmalar dolayısıyla boşalan bir kadroya) kurum içinden veya kurum dışından vekalet ettirilenlere, vekalet aylığı, zam ve tazminat farkı ile ek ödeme farkı ödenebilmesi için bu kişilerin genel ve ilgili özel mevzuatı uyarınca asaleten atanmada aranan tüm şartları (asaleten atanmada sınav şartı aranılan kadro veya görevler için bu sınavlara girebilme hakkının elde edilmiş olması dahil) bir arada taşıması ve asilde aranan şartları taşıyan memur bulunmadığı takdirde de hizmetin aksamadan yürütülebilmesi bakımından ihtiyaç bulunan kadroya ait görevin vekaleten atama suretiyle değil tedviren gördürülerek herhangi bir ödeme yapılmaması gerekmektedir.
+
+25.03.2004 tarihli ve 25413 sayılı Resmi Gazete’de yayımlanan Adalet Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinin (Değişik başlık: RG-29/12/2005-26038) “Görevde yükselme sınavına başvuru ve atanma şartları (Değişik başlık: RG-13/4/2014-28971)” başlıklı 8 inci maddesinin birinci fıkrasının (B) bendinde; görevde yükselme suretiyle atanmada aranılacak özel şartlara yer verilmiş ve üçüncü sırada da “(Değişik: RG-17/4/2008-26850) Yazı işleri müdürü kadrosuna atanabilmek için;
+
+a) En az dört yıllık yüksekokul, fakülte veya adalet yüksek okulu, meslek yüksek okullarının adalet bölümü veya adalet meslek eğitimi önlisans programı mezunu olmak,
+
+b) (Değişik:RG-4/4/2015-29316) Atamaları doğrudan Bakanlıkça yapılanlar hariç en az (Değişik ibare:RG-14/5/2016-29712) dört yılı zabıt kâtibi kadrosunda olmak üzere toplam en az (Değişik ibare:RG-14/5/2016-29712) altı yıl hizmeti bulunmak,
+
+c) (Ek:RG-13/4/2014-28971) Son üç yıl içerisinde kademe ilerlemesinin durdurulması cezası almamış olmak,”
+
+şeklinde şartlar öngörülmüştür.
+
+Yazı İşleri Müdürlüğü görevine vekalet eden …......... ise, 2013 yılı itibarıyla lise mezunu olup asilde aranan “en az dört yıllık yüksekokul, fakülte veya adalet yüksek okulu, meslek yüksek okullarının adalet bölümü veya adalet meslek eğitimi önlisans programı mezunu olmak” şartını 05.06.2017 tarihinde Anadolu Üniversitesi İktisat Fakültesinden mezun olmak suretiyle taşır hale gelmiştir. Dolayısıyla, 05.06.2017 tarihinden önceki dönemde yürütülmüş olan vekalet görevi için adı geçen personele, 657 sayılı Kanunun 175 inci maddesi uyarınca vekalet aylığı, 2006/10344 sayılı Bakanlar Kurulu Kararının 9 uncu maddesi uyarınca zam ve tazminat farkı ile 375 sayılı KHK’nın ek 9 uncu maddesi uyarınca ek ödeme farkı ödenmesi mümkün değildir.
+
+Söz konusu vekalet görevi nedeniyle 2013 yılı içinde yapılan ödemelerin ayrıntısını gösteren bordrolara bakıldığında ise; vekalet aylığı adı altında herhangi bir ödeme yapılmamakla birlikte, yukarıda yer verilen mevzuat hükümlerine aykırı olarak zam ve tazminat farkı ile ek ödeme farkının ayrı ayrı hesaplanarak ödendiği ve bunun sonucunda da 5018 sayılı Kanunun 71 inci maddesinde; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımı yapılan kamu zararına sebebiyet verildiği anlaşılmıştır.
+
+Bununla birlikte, gerek sorgu metninin gerekse savunmaların vekaleten atama temelinde düzenlendiği görülmekte ise de; ilişikli ödeme emri belgeleri ekinde yer alan …......... tarihli ve …......... sayılı …......... Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Kararında; 657 sayılı Kanunun 86 ncı maddesi uyarınca yapılmış bir vekaleten atamadan bahsedilmemiş olup anılan Komisyon Kararında sadece “yazı işleri müdürü yetkisiyle vekaleten görevlendirilmesine” şeklinde bir tabir kullanılmıştır. Oysaki bir görevlendirmenin vekaleten atama sayılabilmesi ve 657 sayılı Kanunun 175 inci maddesi uyarınca vekalet aylığı, 2006/10344 sayılı Bakanlar Kurulu Kararının 9 uncu maddesi uyarınca zam ve tazminat farkı, 375 sayılı KHK’nın ek 9 uncu maddesi uyarınca da ek ödeme farkı ödenebilmesi için vekaletin, 657 sayılı Kanunun 86 ncı maddesine binaen yapılması ve bu hususun onayda belirtilmiş olması mevzuatla öngörülmüş şartlardan biridir. Dolayısıyla, yapılan görevlendirmenin esasen vekaleten atama değil 99 seri nolu Tebliğde de yer verildiği üzere tedviren görevlendirme olarak kabulü gerekmekte ve bu şekilde görevlendirilen personele de gerek 657 sayılı Kanun gerekse bahsi geçen Tebliğ uyarınca herhangi bir ödeme yapılmasına imkan bulunmamaktadır.
+
+Nitekim, Danıştay İdari Dava Daireleri Kurulunun 28.12.2008 tarihli ve E.2003/736, K.2006/3361 sayılı Kararında özetle; asilde aranan şartlara sahip olmadığı için görevini tedviren yürüten davacıya yan ödeme ve özel hizmet tazminatı ödenmesine imkan bulunmadığı ve yine Danıştay 2. Dairesinin 27.01.2009 tarihli ve E.2008/4125, K.2009/294 sayılı Kararında özetle; asilde aranan şartlara sahip olmayan davacının Malmüdürlüğü görevini tedviren yürütmesi nedeniyle kendisine tazminat şeklinde olsa dahi vekalet aylığı ödenemeyeceği belirtilmiştir.
+
+Sorumlu Harcama Yetkilileri her ne kadar bahse konu vekaleten görevlendirmenin Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu tarafından yapılmış olması nedeniyle kendilerine herhangi bir kusur ve sorumluluk atfedilemeyeceğini ifade etmişlerse de; Rapora konu husus, yapılan görevlendirmenin değil söz konusu görevlendirme nedeniyle ödenen tutarın mevzuata aykırılığı olduğundan savunmanın kabulü mümkün bulunmamaktadır. Zira vekilin asilde aranan şartları taşıma zorunluluğu, 657 sayılı Kanunun 175 inci maddesinde vekalet aylığı, 2006/10344 sayılı Bakanlar Kurulu Kararının 9 uncu maddesinde zam ve tazminat farkı ile 375 sayılı KHK’nın ek 9 uncu maddesinde ek ödeme farkının ödenebilmesi için öngörülmüştür. Ayrıca, yukarıda da bahsedildiği üzere 99 seri nolu Devlet Memurları Kanunu Genel Tebliğinde; asilde aranan şartlara sahip vekil memur bulunamadığı takdirde, hizmetin aksamadan yürütülebilmesi bakımından herhangi bir şekilde boşalmış veya boş bulunan bir görevin öncelikle varsa yardımcıları yoksa asilde aranan şartlara en yakın personel tarafından tedviren gördürülmesinin mümkün olduğu ancak 657 sayılı Kanunun vekalet ücreti ödenmesine ilişkin 175 inci maddesine göre, tedvir dolayısıyla herhangi bir ödeme yapılamayacağı açık bir şekilde belirtilmiştir. Dolayısıyla gerek yapılan söz konusu açıklamalar gerekse 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Harcama talimatı ve sorumluluk” başlıklı 32 nci maddesinin ikinci fıkrasında yer alan; “Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, kanun ve diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumludur.” hükmü uyarınca Harcama Yetkililerinin mevzuata aykırı zam ve tazminat farkı ile ek ödeme farkı ödenmesi nedeniyle doğrudan sorumluluğu bulunmaktadır.
+
+Sorumlu Gerçekleştirme Görevlilerinin savunmalarında; “bahse konu vekalet görevlendirmesi nedeniyle yapılan ödemelerin taşınılan yetki ve sorumluluk dikkate alındığında meşru bir hak olduğu, söz konusu ödemelerin yapılmaması halinde mahkemelerce eşit meblağda tazminata hükmedildiği ve Anayasada da angaryanın yasaklandığı” şeklinde yer verilen iddialar da kabule şayan değildir. Nitekim, devlet memurlarına yapılacak bir ödemenin meşru olabilmesi için yasal bir dayanağının bulunması gerekmekte olup bu husus, Anayasanın 128 inci maddesinin ikinci fıkrasında; “Memurların ve diğer kamu görevlilerinin nitelikleri, atanmaları, görev ve yetkileri, hakları ve yükümlülükleri, aylık ve ödenekleri ve diğer özlük işleri kanunla düzenlenir.” denilmek suretiyle hükme bağlanmıştır. Dolayısıyla, asilde aranan şartları taşımayan vekil memura vekalet aylığı, zam ve tazminat farkı ile ek ödeme farkı ödenemeyeceği yukarıda yer verilen mevzuat hükümleri ile açık bir şekilde düzenlenmişken meşru bir hakkının varlığından bahsedilmesi mümkün değildir.
+
+Vekalet aylığının ödenmemesi halinde mahkemelerce eşit meblağda tazminata hükmedildiği iddiasıyla ilgili olarak çeşitli idari yargı kararları incelendiğinde; asilde aranan şartları taşımayanlara vekalet aylığı ödenmesinin mevzuata aykırı olduğu hususunda verilmiş kararların istikrar kazandığı, ancak, söz konusu kararlardan bazılarında (Örn: Danıştay 11. Dairesinin 22.12.2003 tarihli ve E.2001/481, K.2003/5610 sayılı Kararı) vekalet aylığı ödenmesinin mevzuata aykırı olduğu belirtildikten sonra gerek üstlenilen ilave sorumluluğun varlığı gerekse angarya yasağından hareketle vekalet aylığına eş değer tutarda bir tazminat ödenmesine hükmedilirken, bazı kararlarda (Örn: Danıştay 2. Dairesinin 27.01.2009 tarihli ve E.2008/4125, K.2009/294 sayılı, 05.11.2010 tarihli ve E.2008/2083, K.2010/4219 sayılı, 13.06.2011 tarihli ve E.2008/1955, K.2011/2475 sayılı Kararları ile Danıştay İdari Dava Daireleri Kurulunun 22.05.2013 tarihli ve E.2011/2510, K.2013/2016 sayılı Kararı) aksine hüküm verildiği ve söz konusu şartları bir arada taşımayanlara tazminat şeklinde olsa dahi hiçbir şekilde vekalet aylığı ödenemeyeceğinin öngörüldüğü görülmektedir. Ancak, söz konusu kararlar arasındaki farklılık gerek Danıştay İdari Dava Daireleri Kurulu gerekse Danıştayın konuyla ilgilenen 2. ve 11. Dairesi tarafından son yıllarda verilmiş kararlar ile ortadan kaldırılmaya başlanmış ve asilde aranan şartları taşımayanlara ne vekalet aylığı ne de eş değer tutarda bir tazminat ödenemeyeceğine hükmedilmek suretiyle istikrarlı bir durum oluşturulmuştur. Ayrıca, asilde aranan şartları bir arada taşımayanlara zam ve tazminat farkı ile ek ödeme farkı ödenmesinin mevzuata aykırı olduğu ve söz konusu farklara karşılık gelecek şekilde herhangi bir tazminatın ödenemeyeceği yönünde istikrar kazanmış birçok karar da mevcuttur.
+
+Anayasada angaryanın yasaklanmış olduğu belirtilerek üstlenilen vekalet görevi nedeniyle ödeme yapılmamasının angarya sayılacağı iddiası ise; tapu sicil müdürlüğünde şef olarak görev yapmakta iken tapu sicil müdürlüğü görevini yürütmek üzere görevlendirilen ve kendisine vekalet ücreti ödenmemesi üzerine açmış olduğu davada verilen karar ile anayasal haklarının ihlal edildiğini ileri süren bir memurun başvurusuyla ilgili olarak verilmiş 14.01.2014 tarihli ve 2013/5062 başvuru numaralı (29.01.2014 tarihli ve 28897 sayılı Resmi Gazete’de yayımlanan) Anayasa Mahkemesi Kararında; “… üstlendiği müdürlük görevi ile başvurucunun yetki ve sorumluluk alanı genişlemiş ise de, bu görev ile daha önce yürütmekte olduğu şeflik görevinin birbiriyle ilgisiz görevler olmadığı, başvurucunun yine mesleki faaliyet alanıyla ilgili ve de kariyer olarak daha üst bir görevde çalışmaya devam ettiği, bu görevin kendisine mesleki anlamda katkı ve deneyim sağlayacağının kuşkusuz olduğu ve eski görevi ile aynı mesaiye tabi olduğu, öte yandan, başvurucunun müdür olarak görevlendirilmesinin anılan kadronun boş olmasından ve bu boşluk nedeniyle kamu hizmetinin yürütülmesine ilişkin oluşabilecek aksaklıkların önlenmesi ve giderilmesi amacından kaynaklandığı anlaşılmaktadır. Tüm bu hususlar birlikte değerlendirildiğinde, üstlendiği görevin başvurucuya makul olmayan, orantısız bir külfet yüklediği söylenemeyeceğinden, daha fazla yetki ve sorumluluğu bulunan tapu sicil müdürlüğü görevini yürütmesi nedeniyle başvurucuya ayrıca bir ücret ödenmemesi, Anayasa bağlamında zorla çalıştırma ve dolayısıyla angarya olarak nitelendirilemez. …” şeklindeki ifadelere yer verilmesi ve bu bağlamda da başvurunun; angarya yasağının ihlal edildiği iddiası yönünden “açıkça dayanaktan yoksun olması” nedeniyle kabul edilemez olduğuna hükmedilmesi suretiyle tartışmaya mahal vermeyecek şekilde karşılanmıştır. Zira, anılan Karara konu tapu sicil müdürlüğündeki şeflik ile tapu sicil müdürlüğü görevleri gibi zabıt katipliği görevi ile yazı işleri müdürlüğü görevleri de birbiriyle alakalı olup vekalet görevinin kişiye makul olmayan, orantısız bir külfet yüklediği iddiasında bulunmak kabul edilebilecek bir nitelik taşımamaktadır.
+
+Sorumlu Gerçekleştirme Görevlilerinin savunmalarında yer verilen bir diğer husus da; 657 sayılı Kanunun 86 ncı maddesinin dördüncü fıkrasında yer alan “birinci fıkrada sayılan” ibaresinin Anayasa Mahkemesince iptal edilmesi ve dolayısıyla da vekaleten yürütülen kadronun boş ya da dolu olmasının vekalet aylığının ödenip ödenemeyeceğinin belirlenmesinde bir öneminin bulunmadığı iddiasıdır. Ancak; 13.10.2012 tarihli ve 28440 sayılı Resmi Gazete’de yayımlanan 05.07.2012 tarihli ve E.2012/11, K.2012/104 sayılı Anayasa Mahkemesi Kararıyla, 86 ncı maddenin dördüncü fıkrasında geçen “birinci fıkrada sayılan” ibaresi iptal edilmiş ve iptal gerekçesi olarak da; “İptali istenen “birinci fıkrada sayılan” ibaresiyle, aynı kurumdan vekil olarak atanan memurlardan vekalet aylığı hakkı tanınanlar, 657 sayılı Kanunun 86 ncı maddesinin birinci fıkrasında belirtilen kanunî izin, geçici görev, disiplin cezası uygulaması veya görevden uzaklaştırma nedenleriyle meydana gelen ayrılmalar dolayısıyla vekaleten atananlarla, yani dolu kadroya vekalet edenlerle sınırlandırılmış; emeklilik, istifa, ölüm veya naklen atama gibi bir nedenle sürekli bir biçimde boşalan kadrolara vekaleten atananlara vekalet aylığı ödenmesinin yolu kapatılmıştır. Dolayısıyla kurum içinden dolu kadroya vekaleten atanan memur aylığa hak kazanırken, kurum içinden boş kadroya vekaleten atanan memur vekalet aylığı hakkından mahrum kalmaktadır. Anayasanın 10 uncu maddesinde öngörülen eşitlik ilkesi, hukuksal durumları aynı olanlar için söz konusudur. Bu ilke ile eylemli değil hukuksal eşitlik öngörülmektedir. Eşitlik ilkesinin amacı, aynı durumda bulunan kişilerin yasalarca aynı işleme bağlı tutulmalarını sağlamak ve kişilere yasa karşısında ayrım yapılmasını ve ayrıcalık tanınmasını önlemektir. Bu ilkeyle, aynı durumda bulunan kimi kişi ve topluluklara ayrı kurallar uygulanarak yasa karşısında eşitliğin ihlali yasaklanmıştır. Yasa önünde eşitlik, herkesin her yönden ayrı kurallara bağlı tutulacağı anlamına gelmez. Durum ve konumlarındaki özellikler, kimi kişiler ya da topluluklar için değişik kuralları gerekli kılabilir. Aynı hukuksal durumlar aynı, ayrı hukuksal durumlar farklı kurallara bağlı tutulursa Anayasanın öngördüğü eşitlik ilkesi ihlâl edilmiş olmaz. Kanun koyucunun, istisnai bir nitelik taşıyan vekaleten atama yoluna, boş kadrolar yönünden gereksiz olarak başvurulmasını engellemek ve idareyi boşalan kadrolara asaleten atama yapmaya zorlamak amacıyla boş kadro ile dolu kadro arasında ayrım yaptığı anlaşılmaktadır. Ancak boş ya da dolu kadroya vekalet eden memurların yaptıkları işin niteliği aynı olduğu halde bunlar arasında vekalet aylığı yönünden kadronun boş veya dolu olmasına göre ayrım yapılması eşitlik ilkesine aykırıdır.” ifadelerine yer verilmiş olup özetle, vekalet aylığı ödenmesinde kadronun boş veya dolu olmasına göre ayrım yapılmasının Anayasanın 10 uncu maddesine aykırı olduğu belirtilmiştir. Dolayısıyla, Anayasa Mahkemesince verilen söz konusu Karar, Rapora konu hususla ilgili olmayıp, 657 sayılı Kanunun 175 inci maddesi uyarınca vekalet aylığı ve 2006/10344 sayılı Bakanlar Kurulu Kararının 9 uncu maddesi uyarınca zam ve tazminat farkı ile 375 sayılı KHK’nın ek 9 uncu maddesi uyarınca ek ödeme farkının ödenebilmesi için vekilin asilde aranan şartları taşıma zorunluluğunu ortadan kaldırmamaktadır. Ayrıca, Karara dayanak teşkil eden “eşitlik ilkesine aykırılık” hususunun Rapor konusuna kıyasen uygulanması dahi mümkün bulunmamaktadır. Zira, Kararda da belirtildiği üzere, eşitlik ilkesi, hukuksal durumları aynı olanlar için söz konusu olup, asilde aranan şartları taşıyan bir memurla bu şartları taşımayan bir memurun farklı hukuksal durumlarda olduğu dolayısıyla da farklı haklara sahip olması gerektiği aşikardır.
+
+Bu itibarla, …......... Adliyesindeki Yazı İşleri Müdürlüğü görevini vekaleten yürüten ….........’a, anılan göreve asil olarak atanabilmek için aranan “en az dört yıllık yüksekokul, fakülte veya adalet yüksek okulu, meslek yüksek okullarının adalet bölümü veya adalet meslek eğitimi önlisans programı mezunu olmak” şartını taşımamasına rağmen zam ve tazminat farkı ile ek ödeme farkının ödenmesi sonucu oluşan …......... TL tutarındaki kamu zararının;
+
+…......... TL’sinin Harcama Yetkilisi (….........) …......... ile Gerçekleştirme Görevlisi (….........) ….........’e,
+
+…......... TL’sinin Harcama Yetkilisi (….........) …......... ile Gerçekleştirme Görevlisi ….........’e,
+
+…......... TL’sinin Harcama Yetkilisi (….........) …......... ile Gerçekleştirme Görevlisi (….........) ….........’a
+
+müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faiziyle birlikte ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+Üye ….........’nın karşı oy gerekçesi;
+
+“Asilde aranan şartları taşımayan personelin yazı işleri müdürlüğü kadrosuna görevlendirilmesine ilişkin kararı veren …......... Adli Yargı İlk Derece Mahkemesi Adalet Komisyonu Üyelerinin de bahse konu kamu zararı hususunda savunmalarının alınmasını teminen Raporun iadesine karar verilmesi gerekir.”
