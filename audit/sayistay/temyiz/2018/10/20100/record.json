@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45206",
+  "decision_date": "2018-10-24",
+  "source_id": 20100,
+  "chamber": "7",
+  "file_number": "41718",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20100/",
+  "source_sha256": "4af443bba7f2de367afd436292809eafc419ee7b9c50f9735375015b1fefa005",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
