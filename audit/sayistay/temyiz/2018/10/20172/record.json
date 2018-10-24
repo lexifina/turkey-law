@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45226",
+  "decision_date": "2018-10-24",
+  "source_id": 20172,
+  "chamber": "7",
+  "file_number": "41559",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20172/",
+  "source_sha256": "1e6e5b32b1120ccad37ad73e623c75d657a6d5051d5c411e6e2ae9c94076cb6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
