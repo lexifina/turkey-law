@@ -1,0 +1,7 @@
+Tescil süreci tamamlanmamış patent başvurularına akademik teşvik puanı verilmesi.
+
+Tescil süreci tamamlanmamış patent başvurularına akademik teşvik puanı verildiği görülmüştür.
+
+2016 yılında uygulanacak Akademik Teşvik Ödeneği Yönetmeliğinin 3/ğ maddesinde patent, “Ulusal ve uluslararası kurumlar tarafından tescillenmiş patentleri” olarak tanımlanmış; aynı Yönetmeliğin 9/3 maddesinde “Akademik teşvik ödeneğinin ödenebilmesi için, akademik teşvik puanının en az otuz olması gerekir.” hükmüne yer verilmiştir. Buna göre patent için akademik teşvik puanı verilebilmesi için patentlerin tescil sürecinin tamamlanmış olması ve teşvik puanının en az otuz olması gerekmekte iken yapılan incelemede, Profesör ….. ile Doçent ….. tarafından iki adet patent başvurusunda bulunmuş ve bu patent başvuruları ile 30 puan akademik teşvik puanı almış oldukları görülmekle beraber, patentlerin tescillendiğine dair herhangi bir belge ve bilgi bulunmadığı ve araştırmacıların akademik teşvik puanları toplamı … ve … olması nedeniyle tescil edilmemiş söz konusu patentler için verilen otuz puan çıkarıldığında söz konusu kişilerin akademik teşvik ödeneği alamayacakları anlaşılmıştır. Ancak sorumlular tarafından gönderilen belgelerde kamu zararı tutarı olan …. TL’nin …. tarih ve … nolu muhasebe işlem fişi tahsil edilmiş olduğu görüldüğünden konu hakkında ilişik kalmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,

@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35542",
+  "decision_date": "2018-10-25",
+  "source_id": 28141,
+  "chamber": "2",
+  "ilam_number": "17",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28141/",
+  "source_sha256": "4f8341c0e1a0c955c2aa79af62150b3e9ff47b62322b8602e6932f1541507c03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
