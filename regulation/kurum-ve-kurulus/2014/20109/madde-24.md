@@ -1,0 +1,6 @@
+Genel kurul gündemi
+MADDE 24 – (1) Genel kurul gündemi, yönetim kurulunca belirlenir ve toplantı tarihinden en az otuz gün önce Federasyonun ve Genel Müdürlüğün internet sitesinde üyelere duyurulur.
+(2) Genel kurul gündeminde; açılış, divan kurulu seçimi, mali rapor ile faaliyet ve denetim raporlarının görüşülerek kabulü ile yönetim kurulunun ibra edilmesi, yeni döneme ait bütçenin görüşülüp onaylanması, seçim maddesi ile ihtiyaç halinde diğer hususlar yer alır.
+(3) Mali genel kurul gündeminde seçim dışındaki hususlar yer alır ve bu genel kurulda bir önceki dönemin bütçesi görüşülerek karara bağlanır, içinde bulunulan yılın bütçesi üzerinde düzenleme yapılır ve bir sonraki dönemin bütçesi onaylanır. Mali genel kurulda, Ana Statü değişiklikleri ile Federasyonun iş ve işleyişine ilişkin diğer konular da görüşülerek karara bağlanabilir.
+(4) Olağanüstü genel kurulda, ilanda belirtilen hususlar dışında başka bir husus görüşülemez.
+(5) En az on genel kurul üyesinin imzasıyla Ana Statüye aykırı olmayan ve gündeme ilave edilmek istenen maddeler için yazılı olarak başvuru yapılabilir ve açık oylama sonucu salt çoğunluk ile kabul edilen öneriler gündeme eklenir. Bu tür maddeler daha önce ilan edilmiş gündem maddelerinin görüşülüp karara bağlanmasından sonra ele alınır.

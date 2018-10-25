@@ -1,0 +1,6 @@
+Muhasebe ve raporlama sistemi
+MADDE 30 – (1) Federasyonda tek düzen muhasebe sistemine ve bilanço esasına göre kayıt tutulur.
+(2) Muhasebe işlemlerinin geçerli olan belgelere dayandırılması zorunludur. Kayıt, denetim, kontrol ve takip açısından 213 sayılı Vergi Usul Kanununda belirlenmiş standart belge, rapor ve defterler kullanılır.
+(3) Hesaplar takvim yılı esasına göre tutulur. Gelir ve giderler tahakkuk ettirildikleri yılın hesaplarında gösterilir. Ancak Federasyon, mali genel kurul tarihlerini de esas alarak ve ihtiyari bir şekilde muhasebe raporlamalarını yapabilir. Bu ihtiyari raporların hazırlanmış olması, takvim yılına göre kayıt ve raporlama yapılmasını engellemez.
+(4) Genel Müdürlük tarafından yapılan yardımların izlenmesi ve spor politikalarına yön verilebilmesi için; Federasyona ait muhasebe kayıtları, Genel Müdürlükte oluşturulacak bir merkezde belli bir otomasyon sisteminde toplu bir biçimde izlenebilir. Bu durumda Genel Müdürlükçe oluşturulacak standart hesap planına uygun olarak kayıtların düzenlenmesi ve Federasyon muhasebe servisinin bu merkezle işbirliği içinde çalışması zorunludur.
+(5) Federasyon, muhasebe servisini kurmak ve bu serviste çalışan personeli kendi alanında eğitmekle yükümlüdür.

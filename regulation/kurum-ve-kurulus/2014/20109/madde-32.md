@@ -1,0 +1,4 @@
+Disiplin işlemleri
+MADDE 32 – (1) Federasyona bağlı spor dalları ile ilgili olarak; Federasyonun faaliyet programında yer alan uluslararası faaliyetlerde; federasyona bağlı spor dallarında faaliyette bulunan kuruluş, sporcu, hakem, antrenör, öğretici, menajer, yönetici ve görevli diğer kişilerin spor ahlakı ve disiplinine aykırı davranışlarına ilişkin ceza işlerine Federasyonun disiplin kurulu,
+(2) Tahkim Kurulu, Genel Müdürlük ceza kurulları, Federasyonun disiplin kurulu ile il veya ilçe ceza kurullarınca verilecek cezalar, Genel Müdürlük Merkez Ceza Kurulunda oluşturulacak sportif ceza kütüğüne kaydedilir.
+(3) (Ek:RG-25/10/2018-30576) Okul sporları, müsabaka ve çalışmalarında kulüpler ve kişilerce yapılan sportmenliğe aykırı filler ve bunlara uygulanacak cezalar, ulusal ve uluslararası kurallara uygun olarak Federasyon yönetim kurulu tarafından hazırlanacak talimatlarla düzenlenir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) (Değişik:RG-25/10/2018-30576) Bu Ana Statü; Türkiye Okul Sporları Federasyonu genel kurulu ile yönetim, denetim ve disiplin kurullarını, diğer kurulları, spor dalında faaliyet gösteren okul spor kulüplerini ve ilgili diğer kuruluşları, sporcu, çalıştırıcı, teknik adam, hakem, menajer, gözlemci, yönetici, temsilci ve benzeri spor elemanları ile bunların katıldığı yurt içi ve yurt dışı tüm faaliyetlerini, Federasyonun çalışma usul ve esasları ile Gençlik ve Spor Bakanlığı, Tahkim Kurulu ve Milli Eğitim Bakanlığı ile olan ilişkileri kapsar.

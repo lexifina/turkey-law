@@ -1,0 +1,3 @@
+Denetim
+MADDE 31 – (1) Federasyonun her türlü faaliyetinin denetimi; genel kurul, denetim kurulu ve Bakan tarafından görevlendirilecek denetim elemanlarınca yapılır.
+(2) Federasyon harcamalarının yerindelik denetimi Federasyonun genel kurulu ve denetim kurulunca, Genel Müdürlükçe yapılan her türlü yardımların amaca uygunluğu ve denetimi ise Genel Müdürlükçe yapılır. Genel Müdürlük tarafından yapılan ayni ve nakdi yardımların amacına veya mevzuata uygun olarak harcanmaması halinde oluşacak zarar, kusurları bulunan federasyon başkanı ve yönetim kurulu üyelerinden Genel Müdürlükçe tahsil edilir ve Genel Müdürlük bütçesine gelir kaydedilir. Ayrıca sorumlular hakkında suç duyurusunda bulunulur.

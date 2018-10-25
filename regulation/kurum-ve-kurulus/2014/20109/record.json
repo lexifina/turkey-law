@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.20109",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE OKUL SPORLARI FEDERASYONU ANA STATÜSÜ",
+  "number": "20109",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/20109",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20109&MevzuatTertip=5",
+  "source_sha256": "612dab408e8bb6df2db510fb450158227cd52983c0b0c2463d0e07480b8b7bdb",
+  "source_bytes": 107990,
+  "published": "2014-10-01",
+  "gazette": "29136 (mükerrer)",
+  "in_force": "2018-10-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/10/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-10-25",
+      "RG-25/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6401,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

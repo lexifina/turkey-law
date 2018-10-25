@@ -1,0 +1,5 @@
+Genel kurulun açılması
+MADDE 22 – (1) Genel kurul delegeleri, toplantı saatinden önce toplantı salonunun girişinde hazır bulunurlar. Delegeler, delegelik belgesini almak ve delege listesini imzalamak zorundadır.
+(2) Genel kurul; üye tam sayısının salt çoğunluğu ile toplanır ve katılanların salt çoğunluğu ile karar alır. Seçimde en fazla oyu alan aday ve bu adayın listesi seçilmiş sayılır. İlk toplantıda çoğunluk sağlanamaması halinde, takip eden günde çoğunluk aranmaksızın toplanır. Ancak, toplantıya katılanların sayısı seçimle belirlenen kurulların asıl üye sayısının iki katından aşağı olamaz.
+(3) Federasyon başkanı veya onun görevlendireceği başkan vekili veya asbaşkan ya da yönetim kurulu üyesinin, genel kurul delege listesini incelemesi ve katılanların sayısını belirlemesi ile genel kurul toplantısı için aranan çoğunluğun bulunup bulunmadığı tespit edilir.
+(4) Genel kurul toplantısı Federasyon başkanının veya görevlendireceği başkan vekili veya asbaşkan ya da yönetim kurulu üyesinin konuşması ile açılır. Daha sonra genel kurul, divan kurulunu oluşturur.
