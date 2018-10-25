@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.23472",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KURU ÜZÜM LİSANSLI DEPO TEBLİĞİ",
+  "number": "23472",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/23472",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23472&MevzuatTertip=5",
+  "source_sha256": "b2e22621674be09968e1b7f0aed2b9e41440ef7ddcbc6d43c510cda794ec68f7",
+  "source_bytes": 41263,
+  "published": "2017-04-01",
+  "gazette": "30025",
+  "in_force": "2018-10-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/10/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-10-25",
+      "RG-25/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-25",
+      "25/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1716,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
