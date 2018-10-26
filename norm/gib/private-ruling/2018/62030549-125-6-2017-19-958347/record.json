@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-10-26T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-10-26",
+  "official_number": "62030549-125[6-2017/19]-958347",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28057",
+  "source_id": "ozelge:28057",
+  "source_row_sha256": "5c8e5a6c64296e63d2e880fe087855b9a611bc7926f2948298e96a5f8d9e846b",
+  "title": "Mahkeme kararı olmadan ödenen alacak ve tazminat tutarlarının gider yazılıp yazılmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 500
+}
