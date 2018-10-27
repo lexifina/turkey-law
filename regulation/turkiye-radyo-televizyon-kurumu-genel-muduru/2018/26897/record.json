@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.26897",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RADYO-TELEVİZYON KURUMU SABİT KIYMETLER YÖNETMELİĞİ",
+  "number": "26897",
+  "issuer": "Türkiye Radyo-Televizyon Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-radyo-televizyon-kurumu-genel-muduru",
+  "path": "regulation/turkiye-radyo-televizyon-kurumu-genel-muduru/2018/26897",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=26897&MevzuatTertip=5",
+  "source_sha256": "f36e7dbdfd0eedb78a4058e89a6a9e6628fba7681edb09f511bd033070f50538",
+  "source_bytes": 44545,
+  "published": "2018-10-27",
+  "gazette": "30578",
+  "in_force": "2018-10-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.10.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2156,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.26897-Ek.rtf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
