@@ -1,0 +1,217 @@
+28 Ekim 2018 PAZAR
+Resmî Gazete
+Sayı : 30579
+YÖNETMELİK
+İbn Haldun Üniversitesinden:
+İBN HALDUN
+ÜNİVERSİTESİ ETİK ÇALIŞMALARI UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; İbn
+Haldun Üniversitesi Etik Çalışmaları Uygulama ve Araştırma Merkezinin
+amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının
+görevlerine ve çalışma alanlarına ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; İbn Haldun Üniversitesi Etik
+Çalışmaları Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet
+alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve
+çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547
+sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d)
+bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Danışman: Merkezde görevlendirilmiş ilgili
+akademik personeli,
+b) Merkez (UYEM): İbn Haldun Üniversitesi Etik
+Çalışmaları Uygulama ve Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: İbn Haldun Üniversitesi Rektörünü,
+d) Stajyer öğrenci: Merkezde sunulan hizmetleri
+yetkinlik düzeyine göre gerçekleştiren, sosyal bilimler alanında lisans,
+yüksek lisans ya da doktora öğrenimi gören öğrencileri,
+e) Üniversite: İbn Haldun Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+g) Danışma Kurulu: Merkezin Danışma Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı
+ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 – (1) Etik çalışmaları, dünyada ve Türkiye’de pek
+çok bilimsel disiplin için bir gereklilik halini almıştır. Merkezin amacı;
+Üniversite bünyesinde yer alan işletme, felsefe, iletişim, İslami ilimler,
+siyaset bilimi ve uluslararası ilişkiler gibi disiplinlerin kendi
+alanlarındaki etik problemlerle ilgili yaptıkları ve yapacakları akademik
+araştırma ve yayın faaliyetlerini çok disiplinli bir araştırma ve uygulama
+merkezinin çatısı altında toplamaktır. Başta iş etiği olmak üzere bio-etik,
+medya etiği, siyasi etik, din ve etik ilişkisi gibi alanlarda yapılacak
+çalışmalar bu sayede daha rahat koordine edilebilecektir. Bu çalışmaların
+ortak hedefi ise Üniversiteden başlayarak sosyal yaşamın her alanında,
+evrensel etik bilinci etrafında şekillenmiş prensipler geliştirilmesine
+önayak olmaktır.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Üniversite içinde ve dışında etik bilinci
+geliştirecek ve destekleyecek akademik faaliyetler yürütmek.
+b) Uygulamalı etik yaklaşımıyla üniversite içinde
+ve dışındaki etik sorunlar için pratik çözümler geliştirmek.
+c) Toplumsal yarar ilkesiyle hareket eden
+kurumlarla ortak çalışmalar yapmak.
+ç) Üniversite bünyesindeki farklı disiplinlerin
+kendi alanlarındaki etik problemlerle ilgili yaptıkları ve yapacakları
+akademik araştırma ve yayın faaliyetlerini desteklemek.
+d) Disiplinler arası etik konulu araştırmaları
+koordine etmek.
+e) Rapor, bülten, dergi, kitap ve benzeri
+vasıtalarla etik alanında toplumsal bir farkındalık oluşturmak.
+f) Üniversite bünyesinde açılacak etik konulu
+yüksek lisans programlarını koordine etmek.
+g) Etik ilkelerin ilgili disiplin mevzuatında yer
+bulması için gereken çalışmaları gerçekleştirmek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür,
+b) Yönetim Kurulu,
+c) Danışma Kurulu.
+Müdür
+MADDE 8 – (1) Müdür, Merkezin amaçları konusunda araştırma,
+uygulama ve eğitim deneyimi bulunan Üniversite öğretim üyeleri arasından
+Rektör tarafından üç yıl süre ile görevlendirilir. Müdür, Rektör tarafından
+görevden alınabilir. Görev süresi sona eren Müdür tekrar
+görevlendirilebilir. Müdür, Merkezin çalışmalarından Rektöre karşı
+sorumludur.
+(2) Öğretim üyeleri arasından Müdür tarafından
+belirlenen görevleri yerine getirmek üzere, Müdürün önerisi ve Rektörün
+onayı ile bir kişi müdür yardımcısı olarak görevlendirilebilir. Müdür
+yardımcısının görev süresi Müdürün görev süresi ile sınırlıdır. Görev
+süresi biten müdür yardımcısı aynı yöntemle yeniden görevlendirilebilir.
+Müdür görevi başında olmadığı zaman yardımcısı Müdüre vekâlet eder.
+Müdürün
+görevleri
+MADDE 9 – (1) Müdürün görevleri şunlardır:
+a) Yönetim ve Danışma Kurullarını toplantıya
+çağırmak ve bu kurullara başkanlık etmek.
+b) Yönetim Kurulu kararlarının uygulanmasını
+sağlamak.
+c) Merkezin bir yıllık çalışma ve değerlendirme
+raporlarını ve istatistiklerini her yıl Ocak ayı sonuna kadar Rektörlüğe
+sunmak.
+ç) İdari ve akademik toplantılarda Merkezi temsil
+etmek.
+d) Merkezde çalışanlar arasında uyum ve
+birlikteliğin sağlanması için destek olmak.
+e) Merkezde çalışan uzmanların profesyonel
+gelişimlerini desteklemek, bilgi alışverişinde bulunulması ve profesyonel
+konularda ekip çalışmasının etkili olabilmesi için haftalık toplantılar
+düzenlemek.
+f) Yönetim Kuruluyla beraber, Merkezde görev yapan
+tam zamanlı ve yarı zamanlı uzmanların görev, yetki ve sorumluluklarını
+belirlemek, gerekli görülen durumlarda çalışanlar arasında rotasyon yapmak.
+g) Yönetim Kurulunun görüşünü alarak birimlerin
+etik çalışma standartlarını geliştirmeye yönelik bilimsel temelli
+stratejiler geliştirmek, uygulamak ve değerlendirmek.
+ğ) Gerekli gördüğü durumlarda ve ihtiyaç halinde
+Merkezin amaçları konusunda araştırma, uygulama ve eğitim deneyimi bulunan
+öğretim üyelerinin, araştırma görevlilerinin, yüksek lisans ve doktora
+öğrencilerinin Merkezde görevlendirilmesi için çalışmalarda bulunmak.
+h) Üniversitede etik konulu hizmet içi eğitim,
+seminer ve bilgilendirici toplantılar düzenlemek.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu; Müdür dâhil
+beş kişiden oluşur. Müdür dâhil, üyelerin en az üçü Merkezin amaçları
+konusunda araştırma, uygulama ve eğitim deneyimi bulunan Üniversite öğretim
+üyeleri arasından üç yıllık süre için görevlendirilir. Diğer üyeler de
+Üniversitede görev yapan öğretim üyeleri arasından seçilir. Süreleri dolan
+Yönetim Kurulu üyeleri yeniden görevlendirilebilir. Süresi bitmeden ayrılan
+veya altı aydan fazla Üniversite dışında görevlendirilen Yönetim Kurulu
+üyelerinin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine en az
+üç ayda bir kere üyelerin salt çoğunluğu ile toplanır ve toplantıya katılan
+üyelerin salt çoğunluğu ile karar alır. Toplantı günü ve yeri üyelere
+toplantı tarihinden en az bir hafta önce yazı ile bildirilir. Toplantı
+kararlarına ilişkin oyların eşitliği halinde, başkanın oyu yönünde çoğunluk
+sağlanmış sayılır.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezde görev yapan tam zamanlı ve yarı zamanlı
+çalışanların görev, yetki ve sorumluluklarını belirlemek.
+b) Merkezde sunulan hizmetlerin ihtiyaçlar
+doğrultusunda çeşitlendirilmesine ve etkinliğinin artırılmasına destek
+sağlamak.
+c) Gelecekte verilmesi planlanan yeni hizmetlerin
+planlamasını yapmak.
+ç) Merkezin çalışma standartlarını geliştirmeye
+yönelik bilimsel temelli stratejiler belirlemek.
+d) Merkezde görev yapan stajyer öğrencilerin
+sayısını ve faaliyet alanlarını belirlemek.
+e) Merkezin kadro ihtiyaçlarının planlanmasını
+yapmak ve çalışan personelin danışmanlık alma gereksinimlerinin
+karşılanması konusunda destek sağlamak.
+Danışma
+Kurulu ve görevleri
+MADDE 12
+– (1) Danışma Kurulu; Yönetim
+Kurulunun önerisiyle, Üniversite içinden veya dışından Merkezin faaliyet
+alanıyla ilgili konularda deneyimli kişiler arasından görevlendirilen en az
+8 en fazla 10 kişiden oluşur. Görevlendirme Rektör tarafından en çok üç yıl
+süreyle yapılır. Süresi biten üyeler yeniden görevlendirilebilir.
+(2) Danışma Kurulunun görevleri şunlardır:
+a) Danışma Kurulu, gerek görüldüğü takdirde Yönetim
+Kurulunca önerilen ve Rektör tarafından onaylanan, Merkez amacı
+doğrultusunda çalışma yapan kişi ve kurum temsilcilerinden oluşur.
+b) Uygulamalı Etik alanında çalışmaları olan,
+üniversite içinden ya da dışından akademik veya sektörel uzmanlar Danışma
+Kurulunda yer alabilirler.
+c) Danışma Kurulu üyelerinin süresi üç yıldır.
+Süresi biten üye yeniden görevlendirilebilir.
+ç) Danışma kurulunun aldığı kararlar Yönetim
+Kuruluna tavsiye niteliği taşır.
+d) Danışma Kurulu toplantılarında çoğunluk aranmaz.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli
+Hükümler
+Merkez
+birimleri
+MADDE 13
+– (1) Merkez çalışmalarına katkıda
+bulunmak üzere Yönetim Kurulu kararıyla çeşitli birimler oluşturulabilir.
+Bu birimlerin kurulması ve çalışanların görev, yetki ve sorumlulukları
+Yönetim Kurulunca belirlenir.
+Personel
+ihtiyacı
+MADDE 14
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, Müdürün önerisi üzerine, 2547 sayılı Kanunun 13
+üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından
+karşılanır.
+Harcama
+yetkilisi
+MADDE 15
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+Yürürlük
+MADDE 16
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Yönetmelik hükümlerini
+İbn Haldun Üniversitesi Rektörü yürütür.
