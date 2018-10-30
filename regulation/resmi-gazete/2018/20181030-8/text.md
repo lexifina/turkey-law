@@ -1,0 +1,223 @@
+30 Ekim 2018 SALI
+Resmî Gazete
+Sayı : 30580
+YÖNETMELİK
+Siirt Üniversitesinden:
+SİİRT
+ÜNİVERSİTESİ TARIM ÇALIŞMALARI UYGULAMA VE
+ARAŞTIRMA
+MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Siirt
+Üniversitesi Tarım Çalışmaları Uygulama ve Araştırma Merkezinin amaçları,
+yönetim organları, yönetim organlarının görevleri ve çalışma şekline
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Siirt
+Üniversitesi Tarım Çalışmaları Uygulama ve Araştırma Merkezinin amacı,
+faaliyet alanları, yönetim organları, bu organların görevleri ve çalışma
+şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci
+fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez: Siirt Üniversitesi Tarım Çalışmaları
+Uygulama ve Araştırma Merkezini (SİÜTAM),
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Siirt Üniversitesi Rektörünü,
+d) Senato: Siirt Üniversitesi Senatosunu,
+e) Üniversite: Siirt Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin
+amacı
+MADDE 5 –
+(1) Merkezin amacı; Üniversite
+bünyesinde tarımsal konularda yürütülecek üretim, araştırma, uygulama,
+eğitim ve yayım faaliyetlerini koordine etmek, ilgili akademik birimlerin
+eğitim-öğretim, gezi-inceleme, staj, proje ve tez çalışması gibi
+faaliyetlerine destek vermek, yeni-modern yetiştirme ve ıslah yöntemleri
+uygulayıp geliştirmek, bunları üretici ve öğrencilere tanıtmak ve
+gerektiğinde onları eğitmek, bölgesel ve ulusal kalkınmaya katkı sağlayacak
+işbirliği mekanizmalarını kurmak ve sürdürülebilir hale getirmek için
+gerekli olan kurumsal ortamı oluşturmaktır.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkezin faaliyet alanları
+şunlardır:
+a) Üniversite bünyesinde faaliyet gösteren Ziraat
+Fakültesi ve varsa ilgili diğer birimlerde yapılan tarımsal faaliyetleri
+mümkün olduğunca tek çatı altında birleştirmek.
+b) Üniversitede tarımsal üretim, uygulama ve
+araştırma ile ilgili fakülte ve meslek yüksekokullarının ön lisans, lisans
+ve lisansüstü öğretim programlarında öngörülen uygulama dersleri, pratik
+çalışmalar, staj, tez ve araştırma projeleri için uygun yer, materyal ve
+hizmet sağlamak.
+c) Üniversitenin tarımsal üretime uygun
+alanlarında; üretim planları yapmak ve üretimi gerçekleştirmek, bilimsel ve
+teknolojik yenilikleri takip ederek üretilen ürünleri pazara sunmak ve bu
+yolla Merkezin faaliyetleri için kaynak oluşturmak.
+ç) Her türlü tarımsal üretim alanları ve tarımı
+ilgilendiren diğer alanlarda, modern temel ve teknolojik uygulamalar yapmak
+ve bu alanlardaki çalışmalara destek olmak.
+d) Islah çalışmaları yapmak, tarımsal materyallerin
+üretimi için gerekli altyapıyı kurmak.
+e) Her türlü tarımsal üretime ilişkin proje ve
+rapor hazırlamak, test ve deneyler yapmak, danışmanlık ve bilirkişilik
+hizmetleri vermek, tarımsal üretimden kaynaklanan çevre sorunlarının
+çözümüne yönelik projeler yürütmek, Üniversite içi ve bölge üreticilerine
+yönelik eğitim programları düzenlemek ve bu konularda birimler arasında
+koordinasyon sağlamak.
+f) Merkezin amaçları doğrultusunda her türlü
+yayımın yapılmasına imkan sağlamak, veri ve dokümantasyon merkezi
+oluşturmak, ulusal ve uluslararası düzeyde kongre, panel, konferans,
+sempozyum, çalıştay, kurs ve seminer tarzında eğitim amaçlı programlar
+düzenlemek, ilgili kamu ve sivil toplum kuruluşları ile işbirliği ve
+araştırma imkanlarını geliştirmek.
+g) Araştırmacılara kaynak, araştırma materyali ve
+çalışma alanı sağlamak, burs vermek ve tarımsal amaçlı her türlü
+araştırma-geliştirme faaliyetlerine mali destek sağlamak.
+ğ) Merkez faaliyetlerinin biyogüvenlik ve
+biyoetikle ilgili kurallara uygunluğunu sağlamak ve bu konuda denetim
+yapmak.
+h) Yönetim Kurulunca uygun görülen,
+projelendirilmiş bilimsel araştırmalar yapmak, bu projelere ortak olmak
+veya desteklemek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür ve Müdür yardımcıları.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+müdür yardımcıları
+MADDE 8 –
+(1) Müdür; Merkezin faaliyetleri
+ve amacına uygun bir bilim dalında çalışan Üniversitenin kadrolu öğretim
+elemanları arasından, üç yıl için Rektör tarafından görevlendirilir. Müdür
+yardımcıları ise üç yıllığına müdür tarafından görevlendirilir. Rektör
+tarafından müdür ve yardımcılarının görevlerine son verilebilir. Müdür ve
+yardımcıları aynı usulle tekrar görevlendirilebilir.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek ve Yönetim Kuruluna
+başkanlık etmek.
+b) Yönetim Kurulu kararlarını uygulamak ve ilgili
+mevzuat hükümlerine göre Merkezi yönetmek.
+c) Merkezin idari ve mali işlerini yürütmek.
+ç) Merkezde ve bünyesindeki işletmelerde görev
+alacak personelin Rektörlükçe görevlendirilmelerini sağlamak.
+d) Merkezin faaliyet raporlarını hazırlamak ve
+Yönetim Kurulunun görüşü alındıktan sonra Rektörün onayına sunmak.
+e) Merkezin faaliyetlerinin yerinde ve zamanında
+yapılması için gerekli tedbirleri almak.
+Müdür
+yardımcılarının görevleri
+MADDE 10
+– (1) Müdür yardımcılarının
+görevleri şunlardır:
+a) Merkezin yönetim ve işleyişinde Müdüre yardımcı
+olmak.
+b) Müdür tarafından belirlenen görevleri yürütmek.
+c) Gerekli durumlarda Müdüre ve Yönetim Kurulu
+başkanlığına vekâlet etmek.
+Yönetim
+kurulu
+MADDE 11
+– (1) Yönetim Kurulu; Müdür ve
+Müdür yardımcıları ile Üniversitenin Ziraat Fakültesinin üretim
+faaliyetlerini eşit sayıda temsil edecek öğretim elemanları arasından
+Rektör tarafından üç yıl için görevlendirilen dört kişi olmak üzere toplam
+yedi üyeden oluşur. Süresi biten üyeler aynı usulle yeniden
+görevlendirilebilir.
+(2) Yönetim Kurulu, en az altı ayda bir defa olağan
+olarak toplanır. Yönetim Kurulu, ihtiyaç halinde Müdür tarafından doğrudan
+veya üyelerin 1/3’ünün yazılı müracaatı ile olağanüstü toplantıya
+çağrılabilir. Yönetim Kurulu, salt çoğunlukla toplanır ve salt çoğunlukla
+karar alır. Yönetim Kuruluna Müdür başkanlık yapar.
+Yönetim
+kurulunun görevleri
+MADDE 12
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Müdürlük ve ilgili birimler tarafından
+hazırlanan yıllık faaliyet raporları ve programlarını inceleyerek Rektörün
+onayına sunmak.
+b) Merkezde yürütülecek faaliyetlerle ilgili
+önerilerde bulunmak ve yapılan faaliyetleri denetlemek.
+c) Merkezin işleyişi ve idaresi ile ilgili plan ve
+program yapmak.
+ç) Merkezin çalışma usul ve esaslarını belirlemek,
+kısa, orta ve uzun vadeli planlar yapmak.
+d) Merkezin yönetimi ve çalışmaları ile ilgili
+kararları almak.
+e) Tarım Çalışmaları Uygulama ve Araştırma Merkezi
+ile ilgili döner sermaye gelir ve giderlerini takip etmek, Merkeze kaynak
+temini konusunda karar almak.
+f) Merkeze sunulan projelerin değerlendirmesini
+yapmak ve karara bağlamak.
+g) Müdürün gündeme alacağı diğer konuları görüşüp
+karara bağlamak.
+Danışma
+kurulu
+MADDE 13
+– (1) Danışma Kurulu; Rektör,
+Rektör yardımcıları, Müdür ve Yönetim Kurulu üyeleri, Üniversitenin Ziraat
+Fakültesi Dekanı ve istekleri halinde kamu kurum ve kuruluşlarınca
+belirlenen temsilcilerden oluşur.
+(2) Danışma Kurulunun başkanı Rektördür. Rektörün
+katılmadığı toplantılarda bir Rektör yardımcısı veya Müdür Danışma Kuruluna
+başkanlık yapar. Danışma Kurulu, Başkanın daveti üzerine toplanır.
+Danışma
+kurulunun görevleri
+MADDE 14
+– (1) Danışma Kurulunun görevleri;
+Merkezin faaliyetleri ile ilgili değerlendirmeler yapmak ve önerilerde
+bulunmaktır.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 15
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca
+Rektör tarafından görevlendirilecek personel tarafından karşılanır.
+Harcama
+yetkilisi
+MADDE 16
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Rektör yardımcılarından birine ya da Müdüre
+devredebilir.
+Hüküm
+bulunmayan haller
+MADDE 17
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde; 2547 sayılı Kanun, ilgili diğer mevzuat hükümleri ve
+Senato kararları uygulanır.
+Yürürlük
+MADDE 18
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 19
+– (1) Bu Yönetmelik hükümlerini
+Siirt Üniversitesi Rektörü yürütür.
