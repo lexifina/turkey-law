@@ -1,0 +1,62 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862795,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "KANUN HÜKMÜNDE KARARNAMELER",
+  "heading_as_published": "Kanun Hükmünde Kararnameler",
+  "summary": "701 sayılı Olağanüstü Hâl Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararname (1/4) ile İçtüzük'ün 128'inci Maddesine Göre Doğrudan Gündeme Alınmasına İlişkin Türkiye Büyük Millet Meclisi Başkanlığı Tezkeresi (S. Sayısı: 6)",
+  "title": "701 sayılı Olağanüstü Hâl Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararname (1/4) ile İçtüzük'ün 128'inci Maddesine Göre Doğrudan Gündeme Alınmasına İlişkin Türkiye Büyük Millet Meclisi Başkanlığı Tezkeresi (S. Sayısı: 6)",
+  "first_sitting_date": "2018-10-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 3,
+      "sitting": 11,
+      "sitting_date": "2018-10-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c003/tbmm27003011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c003/tbmm27003fih.pdf",
+      "pages": [
+        "1119:1123",
+        "1130:1143",
+        "1143:1147",
+        "1150:1166",
+        "1167:1172",
+        "1173:1174"
+      ]
+    },
+    {
+      "cilt": 4,
+      "sitting": 12,
+      "sitting_date": "2018-10-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c004/tbmm27004012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c004/tbmm27004fih.pdf",
+      "pages": [
+        "110:111",
+        "113:117",
+        "118:123",
+        "123:143",
+        "143:155",
+        "157:158",
+        "158:160",
+        "162",
+        "162:165",
+        "166:169",
+        "170:172",
+        "173:177"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUN%20H%DCKM%DCNDE%20KARARNAMELER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "e09db826c7a530eed6a7e47cae2f4269698354525bea97b07bee728e0c256fa3",
+  "in_force": "2018-10-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
