@@ -1,0 +1,109 @@
+Konu: Başkan yardımcılığına ilişkin ödemelerin kazanılmış hak olarak ödenmeye devam olunması,  Özel Hizmet Tazminatının hatalı oran üzerinden ödenmesi
+
+3- 81 sayılı ilamın 28. Maddesiyle Başkan yardımcılığı görevini ifa etmiş bulunan İtfaiye Müdürü ...na mevzuata aykırı olarak;
+
+A)Başkan yardımcılığına ilişkin ödemelerin kazanılmış hak olarak ödenmeye devam olunması suretiyle toplam ...TL,
+
+B) Özel Hizmet Tazminatının hatalı oran üzerinden ödenmesi suretiyle … TL, toplamda … TL kamu zararının tazminine karar verilmiştir.
+
+           Sorumlulardan Gerçekleştirme Görevlisi …, …, …, Harcama Yetkilisi ..., ...göndermiş oldukları temyiz dilekçesinde özetle;
+
+İtfaiye Müdürü ...na mevzuata aykırı olarak Başkan Yardımcısının mali haklarının verildiği ve müdürlüğe yapılan atamanın hatalı olduğunu; A) İtfaiye Müdürü ...nun aldığı maaşın ek gösterge» yan ödeme, özel hizmet tazminat ve ek ödeme puanlarının fazla hesaplandığını,
+
+1) Ek Gösterge: Daha önce Belediye Başkan Yardımcılığı Kadrosunda iken İtfaiye Müdürü kadrosuna atandığını,  Belediye Başkan Yardımcısının ek göstergesi 3000 olduğundan 657 sayılı Kanunun 43. Maddesinin (B) fıkrasının ikinci bendinin son cümlesi hükmü “Kurumların 1, 2, 3 ve 4 üncü dereceli kadrolara atananlara uygulanacak ek göstergeler, ilgililerin daha önce bulunmuş oldukları kariyerleri ile ilgili sınıf veya ekli 1 sayılı Cetvelin Genel İdare Hizmetleri Sınıfı (g) bölümünde belirtilen görevlerde kazanılmış hak aylık derecelerine göre alabilecekleri ek göstergelerden düşük olamaz,” Gereğince hak olarak alınmaya devam edildiğini,  ilk cümledeki “Bu ek göstergeler, ilgililerin belirtilen sınıf ve görevlerde bulundukları sürece ödemelere esas alınıp, terfi bakımından kazanılmış hak sayılmaz “hükmünün ...nun durumuyla bir ilgisinin bulunmadığını,  zira terfi etmeyip bir alt kadroya atandığını,  dolayısıyla ek göstergenin onun için kazanılmış hak olduğunu,  kamu zararı olduğu iddiasına katılmasının  mümkün olmadığını, ayrıca 2015 yılı hesapları denetleniyor olmasına rağmen 2013 ve 2014 yılı ödemeleri içinde kamu zararı hesaplanmasının gerekçesinin anlaşılamadığını,
+
+2) Yan Ödeme: Yan ödeme puanının yanlış hesaplandığını,  I sayılı cetvelin 36 sırasının (a) fıkrasına göre Sayıştay’a hesap vermekle yükümlü sayman olarak yan ödeme puanı alması gerekli olduğunu,  aksi halde emrinde çalışan veznedar ve tahsildara toplam 1200 puan verilirken (35 sıra) Mali Hizmetler Müdürüne toplam 1100 puan yan ödeme alacaksın demenin hukuka aykırı olduğunu,  Sayman olarak yan ödemesinin hesaplanması gerektiğini,  Bu da toplam 1300 puana isabet ettiğini, bu nedenle kamu zararı hesabında maddi hata olduğu iddialarına katılmadığını,
+
+3) Özel Hizmet Tazminatı: Özel Hizmet Tazminatı puanının sehven yanlış hesaplandığını,  Düzeltilip bilgi verileceğini,  ayrıca 2015 yılı hesapları denetleniyor olmasına rağmen 2013 ve 2014 yılı ödemeleri içinde kamu zararı hesaplanmasının gerekçesinin anlaşılamadığını,
+
+4) Ek Ödeme: Ek Ödeme puanının sehven yanlış hesaplandığını,  Düzeltileceğini, ayrıca 2015 yılı hesapları denetleniyor olmasına rağmen 2013 ve 2014 yılı ödemeleri içinde kamu zararı hesaplanmasının gerekçesinin anlaşılamadığını,
+
+B) Belediye Başkan Yardımcılığından Mali Hizmetler Müdürlüğüne atanma işleminin yönetmeliğe aykırı olduğunun belirtildiğini, Başbakanlık Devlet Personel Başkanlığının İçişleri Bakanlığının 05/10/2005 tarihli ve B.05.0.MAH.0.71.00.01/9858 sayılı yazısına karşılık, benzeri konuda vermiş olduğu, 10.10.2005 tarih ve B.02.1.DPB.0.11.08/17358 sayılı görüşte aynen: “...Bilindiği üzere, 15/03/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan ve 21/09/2004 tarihli ve 2004/8246 sayılı Bakanlar Kurulu Kararı ile değiştirilen Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğinin 2'nci maddesinde; bu Yönetmeliğin, özel kanunlarındaki düzenlemeler saklı kalmak kaydıyla, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki (I) ve (III) sayılı cetvellerde yer alan kadrolarda, il Özel idareleri ve belediyeler ile bunların kurdukları birlik, müessese ve işletmelere ait memur kadrolarında, özelleştirme kapsam ve programında bulunan kuruluşlar da dâhil olmak üzere kamu iktisadi teşebbüsleri ve bağlı ortaklıklarına ait memur kadroları ile sözleşmeli personel pozisyonlarında istihdam edilen personelin, müdür ve daha alt görevlere görevde yükselme mahiyetindeki asaleten atamaları ile en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin unvan değişikliği mahiyetindeki asaleten atamaları hakkında uygulanacağının hüküm altına alındığını, diğer taraftan, yukarıda sözü edilen Yönetmeliğin geçici 3'üncü maddesinde, " Bu Yönetmelik kapsamına giren unvanları, ilgili mevzuatları uyarınca kazananların haklan saklıdır." hükmünün yer aldığını,  bu çerçevede, aksine bir düzenleme bulunmaması ve belediye başkan yardımcılığı kadrosuna asaleten atanan personelin, bu kadrodan müdür kadrosuna atanmasının görevde yükselme mahiyetinde bir atama olarak kabul edilmemesi sebebiyle, mevzuatta belirtilen diğer şartlara uyulması kaydıyla, görevde yükselme sınavına katılmadan müdür kadrosuna atanmasında mevzuata aykırılık bulunmadığı mütalaa edilmektedir.” Denildiğini,  bu bağlamda; 657 sayılı Devlet Memurları Kanunu’nun 36, 48, 76 ve 68’nci maddede yazılı koşullan taşıma halinde Belediye Başkan yardımcılığına daha sonradan da belediyede münhal bulunan herhangi bir müdürlük kadrosuna atama yapılabileceğinin anlaşıldığını,  bu nedenle atama işleminde yönetmeliğe aykırı bir işlem bulunmadığını,
+
+657 Sayılı Kanunun 86 inci maddesinde; Bu Kanuna tabi kurumlarda, mali, nakdi ve ayni sorumluluğu bulunan saymanlık kadrolarının boşalması halinde bu kadrolara işe başladıkları tarihten itibaren vekâlet aylığı verilmek suretiyle memurlar arasından atama yapılabilir. Yasa hükmüne bakıldığında görevi fiilen yaptığından Kamu zararının oluşmadığını, diğer yandan Danıştay İçtihadı Birleştirme Genel Kurulu’nun 22.12,1973 tarih ve E: 1969/8 K: 1973/14 sayılı içtihadında “İdarenin yokluk, açık hata, memurun gerçek dışı beyanı veya hilesi hallerinde süre aranmaksızın terfi veya intibaka dayanarak ödediği meblağı her zaman geri alabileceği, belirtilen istisnalar dışımla kalan hatalı Ödemelerin geri alınmasının hatalı ödemenin yapıldığı tarihten başlamak üzere (60) günlük dava açma süresi içinde mümkün olduğu, bu süre geçtikten sonra geri alınamayacağına ...” hükmedilmiş olup, anılan içtihat gereğince İdarenin kendi ihmali ve bilgi azlığı gibi nedenlerden kaynaklanan idari işlemlere dayanılarak yapılan fazla ve yersiz ödemelerin (Örneğin; bir memura, memurun bilgisi dışında idarece fazla ve yersiz maaş, ücret, tazminat.,, ödenmesi gibi), ödemenin yapıldığı tarihten başlamak üzere 60 günlük dava açma süresi içinde geri istenmesinin mümkün olduğuna karar verildiğini,
+
+Aynı şekilde Danıştay 5. Daire 1k25.06.1997 E. 1996/3069 K. 1997/1482 sayılı içtihadında belirtildiği üzere Danıştay İçtihadı Birleştirme Kurulu’nun 22.12.1973 günlü E, 1968/8, K. 1973/14 sayılı kararında idarenin yokluk açık hata memurun gerçek dışı beyanı veya hilesi hallerinde süre aranmaksızın hatalı ödediği meblağı her zaman geri alabileceği, bunun dışında kalan hallerde hatalı ödemelerin istirdadının hatalı ödemenin yapıldığı tarihten başlamak üzere dava açma süresi içinde olanaklı olduğu ve bu süre geçtikten sonra istirdat edilemeyeceği belirtilmiş olup, anılan kararın gerekçesinde iyi niyet kuralı üzerinde de durularak idarenin sakat ve dolayısıyla hukuka aykırı işlemine, idare edilenlerin gerçek dışı beyanı ya da hilesi neden olmuşsa ya da geri alınan idari işlem yok denecek kadar sakatlık taşımaktaysa hatalı işlemde idare edilenin kolayca anlayabileceği kadar açık bir hata bulunmaktaysa ve bu konuda idareyi haberdar etmemişse memurun iyi niyetinden söz etmeye olanak bulunmadığı ve bu işlemlere dayanılarak yapılan ödemeler için süre düşünülemeyeceği, bu ödemelerin her zaman geri alınabileceği; ANCAK BUNUN DIŞINDAKİ HATALI ÖDEMELER İÇİN MEMURUN İYİ NİYETİNİN İSTİKRAR VE KANUNİLİK KADAR ÖNEMLİ BİR KURAL OLDUĞU VE BU NEDENLE YUKARIDA BELİRTİLEN İSTİSNALAR DIŞINDAKİ HATALI ÖDEMELERİN DAVA SÜRESİ İÇİNDE GERİ ALINABİLECEĞİ vurgulandığını, yine Danıştay 8. Daire T, 07.07,2006 E, 2006/2880 K. 2006/2896 sayılı içtihadında davacıya yapılan döner sermaye katkı payı ödemesinin, 22,12.1973 tarih ve E: 1968/8, K: 1973/14 sayılı Danıştay İçtihatları Birleştirme Kurulu Kararı uyarınca ödendiği tarihten itibaren 2577 sayılı yasada öngörülen dava açma süresi içinde geri alınması mümkün iken bu süre geçirildikten sonra tesis edilen işlemde hukuka uyarlılık bulunmayacağının belirtildiğini, Danıştay İdari Dava Daireleri Kurulu 28.12.2006 tarih ve E: 2003/477 K: 2006/3355 sayılı kararında da; "... Danıştay İçtihatları Birleştirme Kurulu'nun 22.12.1973 günlü, E: 1968/8, K: 1973/14 saydı kararıyla, önceden sehven kanuna aykırı olarak yapılmış bir terfi veya intibak işleminin kanunsuzluğunun tespitinden sonra idarece geri alınması sonucu fazla ödenmiş bulunan aylık ve ücret farklarının ilk kanunsuz ödemenin yapıldığı tarihten başlamak üzere 90 günlük dava açma süresi İçinde geri alınabileceği, idarenin sakat ve dolayısıyla hukuka aykırı işlemine idare edilenlerin gerçek dışı beyanı veya hilesi neden olmuşsa ya da geri alman idari işlem yok denilebilecek kadar sakatlık taşımakta ise, hatalı işlemde idare edilenin kolayca anlayabileceği kadar açık bir hata bulunmakta ve idare bu konuda haberdar edilmemişse, memurun iyi niyetinden söz edilemeyeceği ve dolayısıyla bu işlemlere dayanılarak yapılan ödemelerin her zaman geri alınabileceği, ancak bu istisnalar dışındaki hatalı ödemelerin ancak ödemenin ilk yapıldığı günden itibaren dava açma süresi içerisinde istirdat edebileceği karara bağlanmıştır. Bu durumda, olayda davacıya Aralık 2000 ile Mayıs 2001 tarihleri arasında yapılan ve ilgilinin hilesinin, gerçek dışı beyanının neden olmadığı, ayrıca açık hatanın da bulunmadığı ödemelerin yukarıda yer verilen Danıştay İçtihadı Birleştirme Kurulu Kararı ile belirlenen ilkeler uyarınca idari dava açma süresi içerisinde geri istenmesi mümkün iken, bu süreye uyulmaksızın yapılan ödemelerin tamamının istenilmesinde isabet görülmediği gerekçesiyle bozulmasına karar verildiğini, .yukarıda da arz edildiği üzere hiçbir talebi yahut başvurusu olmaksızın Müdür kadrosuna atama yapılmış ve aradan yaklaşık 3 yıl geçtikten sonra iş bu atamanın usule aykırı olduğu gerekçesiyle savunmasının istendiğini, oysaki iş bu atamanın gerçekleşmesinde ...nun hiçbir aktif veya pasif bir etkisi ve eylemi olmaksızın İdarece re’sen gerçekleştirilmiş olduğundan Danıştay İçtihadı Birleştirme Kurul Kararında belirtildiği şekilde hilesi ve gerçek dışı beyanı olduğu yahut idarenin açık hatasının bulunduğundan bahsetmenin mümkün olmayacağını,  dolayısıyla, altmış günlük dava açma süresi geçtikten sonra idarenin işlemini geri almasının idarede ve idari işlemlerde olması gereken devamlılık, istikrar ve güven İlkelerine uygun düşmeyeceği ve yukarıda belirttiği ve re’sen nazara alınacak hukuksal dayanaklar çerçevesinde ve 657 sayılı Kanunun 86 inci maddesinde; Bu Kanuna tabi kurumlarda, mali, nakdi ve ayni sorumluluğu bulunan saymanlık kadrolarının boşalması halinde bu kadrolara işe başladıkları tarihten itibaren vekâlet aylığı verilmek suretiyle memurlar arasından atama yapılabilir, ...nun fiilen bu görevi yaptığını belirterek verilen tazmin hükmünün kaldırılmasını talep etmişlerdir.
+
+        Başsavcılık mütalaasında;
+
+“ Başkan yardımcılığı görevini ifa etmiş bulunan İtfaiye müdürü ...na mevzuata aykırı olarak;
+
+A- Başkan yardımcılığına ilişkin ödemelerin kazanılmış hak olarak ödenmeye devam olunması,
+
+B- Özel Hizmet Tazminatının hatalı oran üzerinden ödenmesi, nedenleriyle oluşan kamu zararının sorumlularına ödettirilmesi yönündeki 81 sayılı İlamın 28. maddesine itiraz edilmektedir. Sorumlunun ileri sürdüğü itiraz gerekçelerinin Daire kararında, değerlendirilerek karşılandığı görülmektedir. Bu nedenlerle, İlamın 28 maddesi ile hüküm verilen kamu zararı için ileri sürülen itiraz gerekçelerinin, ilam hükmünün bozulmasını ya da hükmün kaldırılmasını gerektirecek mahiyette olmadığı görüldüğünden, temyiz talebinin reddedilerek, yasa ve yönteme uygun düzenlenmiş bulunan Daire Kararının tasdikine, karar verilmesinin uygun olacağı değerlendirilmektedir.” Şeklinde görüş bildirmektedir.
+
+Dosyada bulunan belgelerin okunup incelenmesinden sonra
+
+GEREĞİ GÖRÜŞÜLDÜ
+
+Başkan yardımcılığı görevini ifa etmiş bulunan İtfaiye Müdürü ...na mevzuata aykırı olarak;
+
+A- Başkan yardımcılığına ilişkin ödemelerin kazanılmış hak olarak ödenmeye devam olunması;
+
+657 sayılı Devlet Memurları Kanunu’nun 43’üncü maddesinin (B) bendinin ikinci fıkrasında;
+
+“Bu ek göstergeler, ilgililerin belirtilen sınıf ve görevlerde bulundukları sürece ödemelere esas alınıp, terfi bakımından kazanılmış hak sayılmaz. Kuramların 1,2,3 ve 4 üncü dereceli kadrolarına atananlara uygulanacak ek göstergeler, ilgililerin daha önce bulunmuş oldukları kariyerleri ile ilgili sınıf veya ekli I sayılı Cetvelin Genel İdare Hizmetleri Sınıfı (g) bölümünde belirtilen görevlerde kazanılmış hak aylık derecelerine göre alabilecekleri ek göstergelerden düşük olamaz. ” hükmü yer almaktadır.
+
+05.01.2015 tarih ve 2015/7177 sayılı (Resmi Gazete: 10.01.2015/29232) Bakanlar Kurulu Kararının 3’üncü maddesinde; ”17/4/2006 tarihli ve 2006/10344 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar ve eki cetvellerin uygulanmasına 2015 yılında da devam olunur." denilmiş ve
+
+17/04/2006 tarih ve 2006/10344 sayılı "Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar" ile zam ve tazminatların ödeme esasları getirilmiştir.
+
+2006/10344 sayılı Karar’ın 3’üncü maddesinde;
+
+“(1) a) I sayılı Cetvelin (A), (D), (E), (F), (G) ve (H) bölümlerinde yer alan zamlar ile II sayılı Cetvelin (A), (B) ve (D) bölümlerinde yer alan özel hizmet tazminatının ödenmesinde;
+
+1)Kurumların 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinde yer alan kadro unvanları,
+
+2)Kamu iktisadi teşebbüslerinin 233 ve 399 sayılı Kanun Hükmünde Kararnamelere göre tespit olunan kadro unvanları,
+
+3)(1) ve (2) numaralı alt bentler dışında kalan çeşitli mevzuat hükümlerine göre verilmiş unvanlı ve unvansız kadrolarda, kadro veya görev unvanları,
+
+b)I sayılı Cetvelin (B) ve (C) bölümlerinde yer alan zamlar ile II sayılı Cetvelin (C), (E) ve (F) bölümlerinde yer alan özel hizmet tazminatının ödenmesinde, anılan bölümlerde ayrıca belirtilen istisnai durumlar hariç olmak üzere, personelin işgal ettiği kadronun sınıfı ve kariyeri,
+
+c)III sayılı Cetvelde yer alan diğer tazminatların ödenmesinde Cetveldeki düzenlemeler, esas alınır. ” denilmektedir.
+
+666 sayılı Kamu Görevlilerinin Mali Haklarının Düzenlenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun Hükmünde Kararname'nin l’inci maddesiyle 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararname’ye eklenen ek 9’uncu maddesinde;
+
+“Aylıklarını 657 sayılı Devlet Memurları Kanunu ile 2914 sayılı Yükseköğretim Personel Kanununa göre almakta olan personele, ... mali haklar kapsamında yapılan her türlü ödemeler dahil almakta oldukları toplam ödeme tutarı dikkate alınmak suretiyle aynı veya benzer kadro ve görevlerde bulunan personel arasındaki ücret dengesini sağlamak amacıyla, en yüksek Devlet memuru aylığına (ek gösterge dahil), ekli (I) sayılı Cetvelde yer alan kadro ve görev unvanlarına karşılık gelen oranların uygulanması suretiyle hesaplanan tutarda ek ödeme yapılır.
+
+Ek ödemeye hak kazanılmasında ve bu ödemenin yapılmasında aylıklara ilişkin hükümler uygulanır. Bu maddeye göre yapılacak ek ödeme damga vergisi hariç herhangi bir vergiye tabi tutulmaz ve ilgili mevzuatı uyarınca ödenmekte olan zam, tazminat, ödenek, döner sermaye ödemesi, ikramiye, ücret ve her ne ad altında olursa olsun yapılan benzeri ödemelerin hesabında dikkate alınmaz.
+
+” hükmü yer almaktadır.
+
+Yukarıda belirtilen mevzuat hükümlerine göre; memurlara yapılacak ödemelerde kişinin bulunduğu kadro esas alınmalıdır. Kişi belli dönem başkan yardımcılığı yaptıktan sonra müdürlüğe atandığı zaman artık başkan yardımcılığının değil, müdürlüğün haklarını almalıdır. Dolayısıyla müdürlüğe atanan kişiye başkan yardımcısına yapılan ödemelerin verilmesi mümkün değildir. Kişinin daha önce bulunduğu görevlerden, ek göstergesi yüksek olanına ilişkin ödemeleri alabileceğine dair mevzuatta bir düzenleme bulunmamaktadır.
+
+18.06.2010 tarihinde ... Meslek Yüksekokulu Muhasebe ve Vergi Uygulamalarından mezun olan ..., Veri Hazırlama ve Kontrol İşletmeni olarak çalışırken 15.02.2012 tarihinde belediye başkan yardımcılığına, 20.03.2012 tarihinde de itfaiye müdürlüğüne atanmış, dolayısıyla toplam 35 gün başkan yardımcılığı yapmıştır. Ancak İtfaiye Müdürü ...na mevzuatta müdürlük için öngörülen 2.200 ek gösterge, 1.100 yan ödeme, % 135 özel hizmet tazminatı ve % 170 ek ödeme yerine, mevzuata aykırı olarak başkan yardımcıları için öngörülen 3.000 ek gösterge, 1.600 yan ödeme, % 175 özel hizmet tazminatı ve % 185 ek ödeme oranları üzerinden ödemede bulunulmaktadır. ...nun başkan yardımcılığı döneminde aldığı ödemelerin başkan yardımcılığından müdürlüğe atandıktan sonra kazanılmış hak olarak ödenmeye devam edilmesi mümkün değildir.
+
+Bu itibarla;81 sayılı ilamın 28. Maddesiyle başkan yardımcılığı görevini ifa etmiş bulunan İtfaiye Müdürü ... ‘na mevzuata aykırı olarak başkan yardımcılığına ilişkin ek gösterge, yan ödeme, özel hizmet tazminatı ve ek ödemenin kazanılmış hak olarak ödenmeye devam olunması suretiyle 2015 yılında sebep olunan toplam ...TL tutarındaki kamu zararının tazminine ilişkin hükmün TASDİKİNE, oybirliğiyle
+
+B) Özel Hizmet Tazminatının hatalı oran üzerinden ödenmesi;
+
+05.01.2015 tarih ve 2015/7177 sayılı (Resmi Gazete: 10.01.2015/29232) Bakanlar Kurulu Kararının 3’üncü maddesinde; "17/4/2006 tarihli ve 2006/10344 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan "Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar" ve eki cetvellerin uygulanmasına 2015 yılında da devam olunur." denilmiş ve 17/04/2006 tarih ve 2006/10344 sayılı "Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Karar" ile zam ve tazminatların ödeme esasları getirilmiştir.
+
+2006/10344 sayılı Karar’ın 3’üncü maddesinde;
+
+“(1) a) I sayılı Cetvelin (A), (D), (E), (F), (G) ve (H) bölümlerinde yer alan zamlar ile II sayılı Cetvelin (A), (B) ve (D) bölümlerinde yer alan özel hizmet tazminatının ödenmesinde;
+
+1)Kurumların 190 sayılı Kanun Hükmünde Kararnameye ekli cetvellerinde yer alan kadro unvanları,
+
+2)Kamu iktisadi teşebbüslerinin 233 ve 399 sayılı Kanun Hükmünde Kararnamelere göre tespit olunan kadro unvanları,
+
+3)(1) ve (2) numaralı alt bentler dışında kalan çeşitli mevzuat hükümlerine göre verilmiş unvanlı ve unvansız kadrolarda, kadro veya görev unvanları,
+
+b)I sayılı Cetvelin (B) ve (C) bölümlerinde yer alan zamlar ile II sayılı Cetvelin (C), (E) ve (F) bölümlerinde yer alan özel hizmet tazminatının ödenmesinde, anılan bölümlerde ayrıca belirtilen istisnai durumlar hariç olmak üzere, personelin işgal ettiği kadronun sınıfı ve kariyeri,
+
+c)III sayılı Cetvelde yer alan diğer tazminatların ödenmesinde Cetveldeki düzenlemeler, esas alınır, ’’denilmektedir.
+
+18.06.2010 tarihinde ... Meslek Yüksekokulu Muhasebe ve Vergi Uygulamaları programından mezun olan …, Veri Hazırlama ve Kontrol İşletmeni olarak çalışırken 15.02.2012 tarihinde belediye başkan yardımcılığına, 20.03.2012 tarihinde de itfaiye müdürlüğüne atanmıştır. ... Belediye Meclisinin 04.06.2008 tarih ve 58 sayılı kararıyla İtfaiye Müdürlüğünün kadro derecesini 3 olarak belirlemiştir.
+
+657 sayılı Devlet Memurları Kanun’unun İdari görevlere atanma başlıklı 69’uncu maddesinde;
+
+“Kurumlar, Eğitim ve Öğretim, Sağlık ve Yardımcı Sağlık ve Teknik Hizmetler Sınıflarına dâhil memurlardan, kariyerlerinden yararlanmak istediklerini 2-4 üncü dereceler arasındaki idari görevlere ait olup kazanılmış hak derecelerinin iki altındaki derecelerden tespit ve ihdas edilmiş kadrolara atayabilirler.
+
+Bu suretle atanan memurların aylıkları kazanılmış hak dereceleri üzerinden ödenir. Ancak kazanılmış aylık dereceleri ve kariyer hizmet sınıfları için tespit edilen ek gösterge, zam ve tazminatlar ile atandıkları görevlerin ek gösterge, zam ve tazminatlarının farklı olması halinde fazla olanı ödenir. ” denilmektedir.
+
+… 657 sayılı Kanun’un yukarıda yer verilen 69’uncu maddesinde sayılan Eğitim ve Öğretim, Sağlık ve Yardımcı Sağlık ve Teknik Hizmetler Sınıflarına ait bir kadrodan İtfaiye Müdürlüğüne atanmamıştır. Dolayısıyla bu mevzuat hükmünden yararlanması mümkün değildir. 2015 yılındaki müktesep kadrosu 1’inci derece olmasına karşın itfaiye müdürlüğünün kadro derecesi 3 olarak belirlendiğinden ve özel hizmet tazminatının ödenmesinde kadro esas alındığından kendisine 1’inci dereceli müdürün alacağı % 135 oranı yerine 3’üncü dereceli müdürün özel hizmet tazminatı olan % 80 oranı üzerinden özel hizmet tazminatı ödenmesi gerekmektedir.
+
+Bu itibarla; 3’üncü dereceli itfaiye müdürlüğü kadrosunda bulunan ...na %80 yerine %135 oranı üzerinden özel hizmet tazminatı ödenmesi suretiyle sebep olunan toplam … TL tutarındaki kamu zararının tazminine ilişkin hüküm ile birlikte toplamda … TL’nin tazminine ilişkin kararın TASDİKİNE, oybirliğiyle
+
+Karar verildiği 31.10.2018 tarih ve 45244 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
