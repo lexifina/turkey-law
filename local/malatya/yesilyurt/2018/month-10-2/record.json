@@ -1,0 +1,28 @@
+{
+  "number": "month-10-2",
+  "year": 2018,
+  "month": 10,
+  "title": "Ekim Ayı Meclis Kararları 2. Oturum",
+  "decision_date": null,
+  "index_date": "2018-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2018",
+  "source": "https://yesilyurt.bel.tr/meclis-kararlari/2018-yili-meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://yesilyurt.bel.tr/upload/files/2018-yili-meclis-kararlari/2018-yili-meclis-kararlari_1580.pdf",
+  "source_sha256": "8b654cc2d1f64b76ab68c09a858555de24581d3fec4f721ad3b93ddfb5c746f1",
+  "issuer": "Yeşilyurt Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ekim Ayı Meclis Kararları 2. Oturum",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
