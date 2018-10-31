@@ -1,0 +1,29 @@
+{
+  "number": "126",
+  "number_as_published": "2018/126",
+  "year": 2018,
+  "month": 10,
+  "title": "Belediyemizin 2019 Mali Yılı Bütçesi, 5018 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, İçişleri Bakanlığı Mahalli İdareler Genel Müdürlüğünün 07-06-2005 tarih ve 57 nolu genelgesi ve 5393 Sayılı Belediye Kanunu doğrultusunda Analitik Bütçe Sistemine uygun olarak hazırlanan, Bütçe Kararnamesi, Gelir ve Gider Cetvellerinden oluşan 2019 Mali Yılı Bütçe Tasarısının tamamı 206.918.900,00. ( İki yüz altı milyon dokuz yüz on sekiz bin dokuz yüz )-TL. olarak belirtildiği şekliyle kabulüne, Belediye Meclisimizin 10.10.2018 tarihli birleşiminde oyçokluğuyla karar verildi.",
+  "decision_date": null,
+  "index_date": "2018-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2018",
+  "source": "https://www.haliliye.bel.tr/icerik/2557/39/ekim-2018",
+  "official_page": "https://www.haliliye.bel.tr/icerik/2557/39/ekim-2018",
+  "official_document": null,
+  "source_sha256": "a779aa51540916c99e50679d7cc2c99d978b5693e0fe7eec29af1fe49e69ccaf",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2018-10-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ekim 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EKİM 2018",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
