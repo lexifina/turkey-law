@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45235",
+  "decision_date": "2018-10-31",
+  "source_id": 18135,
+  "chamber": "7",
+  "file_number": "42331",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18135/",
+  "source_sha256": "6d4f56975639c5d0471d7dc5d82b80160abaeb9e702c52036feef999ca30f26c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
