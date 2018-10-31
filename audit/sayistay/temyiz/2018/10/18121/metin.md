@@ -1,0 +1,5 @@
+Konu: Belediye avukatlarının zamanaşımı defini zamanında ileri sürmemesi neticesinde zamanaşımına uğramış olan alacakların belediye aleyhine verilen yargı kararlarıyla ödenmesi
+
+81 sayılı ilamın 33. Maddesiyle;  ... Belediyesinden emekli olan işçilerin açtıkları alacak davalarında belediye avukatlarınca zaman aşımı definin ilk dilekçede ileri sürülmemesi üzerine zamanaşımına uğramış olan alacakların yargılanması neticesinde belediye aleyhine verilen kararlar dolayısıyla ... TL kamu zararının tazminine karar verilmiştir.
+
+81 sayılı İlam’ın 33. maddesi ile verilen hüküm, sorumlulukta Diğer Sorumlu sıfatıyla iştiraki bulunan ...’ın başvurusu üzerine düzenlenen 31.10.2018 tarih ve 44227 tutanak sayılı Temyiz Kurulu İlamı ile bozulduğundan sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 42913 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, Oybirliği ile, Karar verildiği 31.10.2018 tarih ve 45228 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
