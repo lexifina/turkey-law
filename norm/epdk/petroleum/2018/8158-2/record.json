@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8158-2",
+  "decision_date": "2018-11-01",
+  "title": "Boru Hatları ile Petrol Taşıma A.Ş.’nin; Batman Dörtyol Ham Petrol Boru Hattı Tesisine ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2018-11-06",
+  "resmi_gazete_number": "30584",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vyfzUGKYwUA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vyfzUGKYwUA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zEInX9GUSFM="
+  ],
+  "source_sha256": "dc7b53d6735f809b8017b8e84d49bfeae0430bf23d5eb2967cc7be087ecd8348",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-01",
+  "law_text_complete": true
+}
