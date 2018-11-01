@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8158-1",
+  "decision_date": "2018-11-01",
+  "title": "Botaş Boru Hatları ile Petrol Taşıma A.Ş.’nin; faaliyette bulunan Yumurtalık (Ceyhan) – Kırıkkale Ham Petrol Boru Hattına ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2018-11-06",
+  "resmi_gazete_number": "30584",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OjVDf8daSNg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OjVDf8daSNg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9ZGNFAr2sa0="
+  ],
+  "source_sha256": "329e2ceb67b155ead88eb65ae50eaaf4548a1b353e3ff281abea5af36f3fc6e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-01",
+  "law_text_complete": true
+}
