@@ -1,0 +1,248 @@
+2 Kasım 2018 CUMA
+Resmî Gazete
+Sayı : 30583
+YÖNETMELİK
+İzmir Kâtip Çelebi Üniversitesinden:
+İZMİR KÂTİP
+ÇELEBİ ÜNİVERSİTESİ SİNİR BİLİMLERİ UYGULAMA VE
+ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; İzmir Kâtip Çelebi
+Üniversitesine bağlı olarak kurulan İzmir Kâtip Çelebi Üniversitesi Sinir
+Bilimleri Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet alanlarına,
+yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; İzmir Kâtip
+Çelebi Üniversitesi Sinir Bilimleri Uygulama ve Araştırma Merkezinin
+amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının
+görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547
+sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d)
+bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Çalışma birimleri: Merkezin çalışma birimlerini,
+b) Danışma Kurulu: Merkezin Danışma Kurulunu,
+c) Merkez: İzmir Kâtip Çelebi Üniversitesi Sinir
+Bilimleri Uygulama ve Araştırma Merkezini,
+ç) Müdür: Merkezin Müdürünü,
+d) Rektör: İzmir Kâtip Çelebi Üniversitesi
+Rektörünü,
+e) Üniversite: İzmir Kâtip Çelebi Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin
+Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 – (1) Merkezin amaçları; preklinik ve klinik
+sinirbilim araştırmaları ile ilgili olarak İzmir Kâtip Çelebi Üniversitesi
+öncülüğünde Üniversite dahilindeki temel, klinik ve mühendislik
+bilimlerinin ve işbirliğine açık ulusal ve uluslararası üniversiteler ve
+ilgili bilim merkezlerinin multidisipliner çalışma prensipleri içinde
+çalışmalar yapmasını sağlayacak fiziksel ve bilimsel ortamı oluşturmak;
+kapsamlı ulusal ve uluslararası projeler gerçekleştirmek; bütçelendirilmiş
+projelerin yürütülmesi için fiziki ve teknik destek sağlamak; sinirbilim
+alanında yetkin bilim insanı ve akademisyen yetiştirilmesine destek olmak;
+sinirbilimi ilgilendiren sahalarda üniversite-sanayi işbirliğini desteklemek;
+bilimsel çevrelerde ve kamuoyunda sinirbilim araştırmalarına yönelik ilgi
+ve bilgi birikimini arttırmak, bu alanda ulusal ve uluslararası bilimsel
+organizasyonlar düzenlemek ve bilimsel katkı sağlamaktır.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkez, amaçlarını gerçekleştirmek için
+aşağıdaki alanlarda faaliyetlerde bulunur:
+a) Merkezde yürütülecek araştırma ve geliştirme
+faaliyetlerinin odağında preklinik ve klinik sinirbilim araştırmaları yer
+almakla birlikte sinir sisteminin gelişimi, yapısı, işlevleri, hastalıkları
+ve bu hastalıkların tanı ve tedavisi ile ilgili tüm sağlık ve mühendislik
+bilimleri alanlarında bilimsel araştırmalar yapmak amacıyla araştırma
+klinikleri, laboratuvarlar, hizmet merkezleri kurar ve işletir.
+b) Yurtiçi ve yurtdışı yükseköğretim, kamu, sanayi
+ve bilimsel kuruluşlar ile işbirliği yapar.
+c) Üniversitenin altyapısını geliştirmek, katılımcı
+grupların çabalarından ve uzmanlığından yararlanmak, verimliliği arttırmak,
+üniversitedeki araştırmacıların kendi aralarındaki ve sanayideki
+araştırmacılarla işbirliğini arttırmak için multidisipliner ve
+interdisipliner araştırmaları teşvik eder.
+ç) Üniversite, sanayi ve sağlık hizmeti
+sunucularıyla ilişkileri güçlendirmek, ileri teknolojik bilgilerin endüstriye
+ve uygulamaya yayılımını hızlandırmak ve sektörün geliştirilmesi için
+sonucu belirgin ekonomik ve/veya sosyal yarar sağlama potansiyeli olan
+projeleri teşvik eder ve bu şekilde umut verici teknolojilerin hızlı
+gelişimini ve ticarileşmesini sağlayarak genç bilim insanları için iş
+imkânları oluşturur ve ekonomik kalkınmaya destek olur.
+d) Sinirbilim alanında dünya standardında bilim
+insanları ve akademisyenler yetiştirmek için yeni çalışma programları
+oluşturarak lisans/lisansüstü öğrencilere, doktora sonrası araştırmacılara
+ve teknisyenlere katkıda bulunur.
+e) İlgili özel veya kamu kurum ve kuruluşlarının
+çalışmalarına katkıda bulunur, ihtiyaç ve talepleri yönünde inceleme ve
+araştırma yapar, proje hazırlar, danışmanlık hizmeti verir ve veri sağlar.
+f) Kurslar, seminerler, konferanslar, kongreler,
+sempozyumlar, özel uzmanlık kazandırmaya yönelik alanlarda eğitim ve
+öğretim programları düzenler.
+g) Merkezin faaliyet alanları ile ilgili konularda
+halkın eğitilmesini sağlar, kamuoyu oluşmasına yardımcı olur ve bilimsel
+yayın yapar.
+ğ) Kuruluş amacına ve 2547 sayılı Kanunun amaç ve
+ilkelerine uygun şekilde Rektör ve yetkili kurullarca verilecek diğer
+çalışmaları yapar.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları, Çalışma Birimleri ve Bunların Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+müdür yardımcıları
+MADDE 8 – (1) Müdür; temel veya klinik bilimlerde görev
+yapan ve sinirbilim alanında çalışmalar yürüten Üniversite öğretim
+elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi
+biten Müdür yeniden görevlendirilebilir.
+(2) Müdürün önerisi ile çalışmalarında kendisine
+yardımcı olmak üzere Üniversitede görevli öğretim üyeleri arasından iki
+kişi, üç yıl için Rektör tarafından Müdür Yardımcısı olarak
+görevlendirilir. Müdür Yardımcılarından en az biri temel veya klinik
+bilimlerde görev yapıyor olmalıdır.
+(3) Müdür, görevi başında bulunmadığı zamanlarda
+yardımcılarından birini vekil bırakır. Vekâlet altı aydan fazla sürerse
+yeni Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da
+görevi sona erer.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezin çalışmalarının düzenli bir şekilde
+yürütülmesini ve tüm etkinliklerinin gözetim ve denetimini sağlar ve bu
+konularda gerekli önlemlerin alınmasında Rektöre karşı birinci derecede
+sorumludur.
+b) Merkezi temsil eder, Yönetim Kuruluna başkanlık
+yapar.
+c) Merkez çalışmalarının gerektirdiği
+görevlendirmeleri yapar.
+ç) Her yılın sonunda ve istenildiğinde Merkezin
+genel durumu ve işleyişi hakkındaki raporu Yönetim Kurulunun görüşünü de
+alarak Rektöre sunar.
+d) Merkezin her düzeydeki personeli üzerinde genel
+gözetim ve denetim görevini yapar.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu; Müdür ve
+Müdür Yardımcıları dahil olmak üzere yedi kişiden oluşur. Müdür ve Müdür
+Yardımcıları dışındaki üyeler, temel, klinik veya mühendislik bilimleri
+alanından en az birer kişi olacak şekilde Üniversite öğretim elemanları
+arasından Müdürün önerisiyle Rektör tarafından üç yıl için görevlendirilir.
+(2) Müdür ve Müdür Yardımcıları dışındaki Yönetim
+Kurulu üyeleri en çok üç kez üst üste görevlendirilebilirler. Süresi
+bitmeden ayrılan üyelerin yerine kalan sürelerini doldurmak üzere yenileri
+aynı yöntemle seçilir.
+(3) Yönetim Kurulu yılda en az dört defa olağan
+olarak ve gerektiğinde Müdürün çağrısı üzerine olağanüstü şekilde salt
+çoğunlukla toplanır. Yönetim Kurulu kararları oy çokluğu ile alınır.
+(4) Ardışık iki veya birbirini takip eden iki yıl
+içerisinde toplam dört olağan Yönetim Kurulu toplantısına katılmayan
+Yönetim Kurulu üyesinin üyeliğine Müdürün önerisiyle Rektör tarafından son
+verilir.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulu; Merkezin
+eğitim-öğretim, bilimsel araştırma, danışmanlık ve yayın faaliyetleri ile
+bu faaliyetlere ilişkin esasları kararlaştırır ve Merkezin yönetimi ile
+ilgili konularda aşağıdaki görevleri yapar:
+a) Merkezin çalışmaları ile ilgili plan ve
+programların hazırlanmasını ve uygulanmasını sağlar.
+b) Merkezin yatırım ve plan tasarısını hazırlar ve
+onaylanmak üzere Rektöre sunar.
+c) Merkez personelinin eğitim, uygulama, araştırma,
+danışmanlık ve yayın konularındaki isteklerini değerlendirip karara bağlar.
+ç) Merkezin yönetimi ile ilgili Müdür ve diğer
+Yönetim Kurulu üyelerinin gündeme getirdiği konuları karara bağlar.
+d) Merkezin faaliyet alanları ile ilgili çalışma
+birimleri oluşturulmasına karar verir ve çalışma birimlerinin görevlerini
+ve çalışma esaslarını düzenler.
+e) Yıl sonunda ve istenildiği takdirde diğer
+zamanlarda Merkezin genel durumu ve işleyişi hakkında Rektöre sunulmak
+üzere rapor hazırlar.
+Danışma
+Kurulu
+MADDE 12
+– (1) Danışma Kurulu; Merkezin
+projelerine özel uzmanlık alanlarında katkı sağlamak ve Merkez
+faaliyetleriyle ilgili değerlendirmede bulunmak üzere oluşturulur.
+(2) Danışma Kurulu; Üniversitede görevli öğretim
+elemanlarıyla diğer kamu kurum ve kuruluşlarından veya sivil toplum
+temsilcilerinden sinirbilim alanında bilgi, deneyim ve eser sahibi kişiler
+arasından Müdürün önerisi üzerine Rektör tarafından üç yıl için
+görevlendirilen en fazla yedi üyeden oluşur. Süresi dolmadan görevlerinden
+ayrılan üyelerin yerine, kalan süreyi doldurmak için aynı usulle yeni üyeler
+görevlendirilir. Süresi biten üyeler tekrar görevlendirilebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda
+en az bir kez, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy
+çokluğuyla alınır. Danışma Kuruluna en kıdemli üye başkanlık eder.
+(4) Danışma Kurulunun aldığı kararlar Yönetim
+Kuruluna tavsiye niteliğindedir; ancak bu kararlara Merkezin genel durumu
+ve işleyişi hakkında her yılın sonunda Rektöre sunulacak raporda yer
+verilir.
+Danışma
+Kurulunun görevleri
+MADDE 13
+– (1) Danışma Kurulunun görevleri
+şunlardır:
+a) Yönetim Kurulunun her türlü faaliyetleri
+hakkında görüş bildirir.
+b) Merkezin eğitim-öğretim ve araştırma
+faaliyetlerinin sürdürülmesi açısından ihtiyaç duyacağı her türlü imkanın
+geliştirilmesi amacıyla özel ve kamu kurum ve kuruluşlarıyla işbirliğinin
+sağlanmasında aracı olur.
+c) Ulusal ve uluslararası platformlarda Merkezin
+faaliyetlerinin tanıtılmasını sağlar ve etkinliğinin güçlendirilmesine
+katkı yapar.
+Çalışma
+birimleri
+MADDE 14
+– (1) Çalışma birimleri; bir
+başkan ve çalışma biriminin ilgi ve faaliyet alanıyla ilgili ihtiyaç duyulan
+sayıda uzman ve öğrenciden oluşur. Çalışma birimi başkanları, sinirbilimin
+ilgili alanında çalışmalarıyla tanınan veya bu alanda çalışmak isteyen
+öğretim elemanları ile konuyla ilgili uzmanlar arasından Müdür tarafından
+seçilir. Çalışma birimlerinin faaliyet alanlarıyla ilgili görevlendirilecek
+uzman ve öğrenciler ise çalışma birimi başkanları tarafından belirlenir.
+Çalışma birimleri sinirbilimin temel, klinik ve mühendislik sahalarıyla
+birlikte eğitim-öğretim ve sanayi işbirliğine dönük alanlarda oluşturulur.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+ihtiyacı
+MADDE 15
+– (1) Merkezin akademik, teknik ve
+idarî personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör
+tarafından görevlendirilecek personel ile karşılanır.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 16
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile Yükseköğretim
+Kurulu, Üniversite Senatosu ve Yönetim Kurulu kararları uygulanır.
+Yürürlük
+MADDE 17
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 18
+– (1) Bu Yönetmelik hükümlerini
+İzmir Kâtip Çelebi Üniversitesi Rektörü yürütür.
