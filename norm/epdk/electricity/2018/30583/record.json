@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "30583",
+  "decision_date": "2018-11-02",
+  "title": "9 Ekim 2018 tarihli ve 30560 sayılı Resmi Gazete’de Yenilenebilir Enerji Kaynaklarının Belgelendirilmesi Ve Desteklenmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmeliğinde Düzeltme",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JmmkKQSmG5g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JmmkKQSmG5g="
+  ],
+  "source_sha256": "5b40cd1cb425276ec8f3e5cfabe69b69672df0a4351df31e995540a745faef51",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2018-11-02",
+  "law_text_complete": false
+}
