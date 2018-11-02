@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7149",
+  "year": 2018,
+  "title": "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-11-02",
+  "gazette_issue": "30583",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181102-1.htm",
+  "source_sha256": "fcd3a282e4759b0402213f761b843ba1df01af2b7da32959d84dabbd23489631",
+  "text_sha256": "bcb80e643198e3799efcfc5aab8ffa82e7fcbfe006202942f582cb69c85292f7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/11/02/30583-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181102-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
