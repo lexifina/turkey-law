@@ -1,0 +1,67 @@
+{
+  "source_id": "9.5.13587",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK KONTROLÜ ALTINDA İŞLEME) SERİ NO: 3",
+  "number": "13587",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2009/13587",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13587&MevzuatTertip=5",
+  "source_sha256": "e8c0520575813a42c8405d0494dcc36973ce025e8f38a33fb6ef7bac8cff15fe",
+  "source_bytes": 39413,
+  "published": "2009-12-05",
+  "gazette": "27423",
+  "in_force": "2018-11-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/11/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-11-03",
+      "RG-3/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-03",
+      "3/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-02-12",
+      "RG-12/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-12",
+      "12/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-08-03",
+      "3/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-06",
+      "RG-6/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-06",
+      "6/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1505,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

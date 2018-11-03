@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1 – (Değişik:RG-6/6/2013-28669)
+(1) Serbest dolaşıma girmemiş eşyanın Türkiye Gümrük Bölgesinde, ithalat vergilerine veya ticaret politikası önlemlerine tabi tutulmaksızın, niteliğini veya durumunu değiştiren işlemlere tabi tutulmaları ve bu işlemlerden elde edilen ürünlerin ithalat vergileri üzerinden serbest dolaşıma girmelerine ilişkin işlemler; gümrük kontrolü altında işleme rejimi çerçevesinde 4458 sayılı Gümrük Kanununun 123 ila 127 nci maddeleri ve 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 308 ila 327 nci ve 370 ila 375 inci maddeleri uyarınca bu Tebliğ kapsamında gerçekleştirilir.
