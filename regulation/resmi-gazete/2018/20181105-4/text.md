@@ -1,0 +1,627 @@
+5 Kasım 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30586
+YÖNETMELİK
+Kayseri Üniversitesinden:
+KAYSERİ
+ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM VE
+ÖĞRETİM YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı ve
+kapsamı; Kayseri Üniversitesinin fakülte, yüksekokul ve meslek
+yüksekokullarındaki ön lisans ve lisans eğitim öğretimi ile kayıt, sınav ve
+değerlendirme esaslarını düzenlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü
+maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Birim: Üniversite bünyesindeki fakülte,
+yüksekokul veya meslek yüksekokullarını,
+b) Dekan: Fakültelerin dekanını,
+c) Fakülte: Kayseri Üniversitesine bağlı
+fakülteleri,
+ç) İlgili kurul: Fakültelerde fakülte kurulunu,
+yüksekokullarda yüksekokul kurulunu, meslek yüksekokullarında meslek
+yüksekokulu kurulunu,
+d) İlgili yönetim kurulu: Fakültelerde fakülte
+yönetim kurulunu, yüksekokullarda yüksekokul yönetim kurulunu, meslek
+yüksekokullarında meslek yüksekokulu yönetim kurulunu,
+e) Müdür: Yüksekokul veya meslek yüksekokulu
+müdürlerini,
+f) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+g) Rektör: Kayseri Üniversitesi Rektörünü,
+ğ) Senato: Kayseri Üniversitesi Senatosunu,
+h) TYYÇ: Türkiye Yükseköğretim Yeterlilikler
+Çerçevesini,
+ı) Üniversite: Kayseri Üniversitesini,
+i)Yüksekokul: Kayseri Üniversitesine bağlı
+yüksekokullar ile meslek yüksekokullarını,
+ifade eder.
+İKİNCİ BÖLÜM
+Eğitim ve
+Öğretime İlişkin Esaslar
+Eğitim
+öğretime başlama tarihi
+MADDE 4 – (1) Üniversitenin fakülte, yüksekokul ve meslek
+yüksekokullarında eğitim öğretime başlama tarihi, öğretim faaliyetlerinin
+üç dönemi aşmamak üzere yıl içinde kaç döneme ayrılarak sürdürüleceği,
+Yükseköğretim Kurulunun bu konularda belirlediği temel ilkelere uygun
+olarak Senato tarafından belirlenir.
+Öğrenim
+süresi
+MADDE 5 – (1) Sınıf geçme esasına göre eğitim öğretim
+yapacağı Üniversitelerarası Kurulca kabul edilen birimler ve Senato
+tarafından yıl esasına göre eğitim öğretim yapmasına karar verilen birimler
+dışında, Üniversitede eğitim öğretim, dönem esasına göre düzenlenir. Ancak,
+ilgili kurullar derslerin hangi dönem veya dönemlerde açılacağına karar
+verebilir. Bir eğitim öğretim yılı en az iki dönemden oluşur. Bir dönem,
+dönem sonu sınavlarını da kapsamak üzere en az 17 (on yedi) haftadır. Bu
+süre, ilgili birimin teklifi ve Senatonun kararıyla artırılabilir.
+(2) Senato kararıyla üçüncü dönem veya yaz okulu
+açılabilir. Yaz okulu ile ilgili esaslar Senato tarafından belirlenir.
+(3) Öğrenciler, bir yıl süreli
+yabancı dil hazırlık sınıfı hariç, kayıt oldukları programa ilişkin
+derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp
+yaptırmadığına bakılmadan öğrenim süresi iki yıl olan ön lisans
+programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans
+programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans
+programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans
+programlarını azami dokuz yıl içinde tamamlamak zorundadırlar. Hazırlık eğitim süresi azami iki yıldır.
+(4) Azami süreler içinde katkı payı veya öğrenim
+ücretinin ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin
+ilişikleri kesilmez. Ancak yetkili kurulların kararı Yükseköğretim
+Kurulunun onayı ile dört yıl üst üste katkı payı veya öğrenim ücretinin
+ödenmemesi ile kayıt yenilenmemesi nedeniyle öğrencilerin ilişikleri
+kesilebilir.
+(5) Azami süreleri dolduran son sınıf
+öğrencilerine, başarısız oldukları bütün dersler için iki ek sınav hakkı verilir.
+Bu sınavlar en erken takip eden yarıyılın final ve bütünleme sınavlarında
+kullandırılır. Bu sınavlardan sonra başarısız ders
+sayısını beş derse indirenlere, bu beş ders için üç yarıyıl, ek sınavları
+almadan beş derse kadar başarısız olan öğrencilere dört yarıyıl (yıl
+esasına göre eğitim-öğretim yapan birimlerde iki eğitim öğretim yılı); bir
+dersten başarısız olanlara ise öğrencilik hakkından yararlanmaksızın
+sınırsız, başarısız oldukları dersin sınavlarına girme hakkı tanınır.
+(6) Açılacak sınavlara, üst üste veya aralıklı
+olarak toplam üç eğitim öğretim yılı hiç girmeyen öğrenciler, sınırsız
+sınav hakkından vazgeçmiş sayılır ve bu haktan yararlanamazlar. Sınırsız
+hak kullanma durumunda olan öğrenciler 2547 sayılı Kanunun 46 ncı maddesinde belirtilen şartlara göre ilgili döneme
+ait öğrenci katkı payı veya öğrenim ücretlerini ödemeye devam ederler.
+Ancak bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik haklarından
+yararlanamazlar.
+(7) Derslere devam yükümlülüklerini yerine
+getirdikleri hâlde, yıl içi ve yıl sonu sınav
+yükümlülüklerini bu maddede belirtilen hükümlere uygun olarak yerine
+getiremedikleri için ilişiği kesilen hazırlık sınıfı ve birinci sınıfta en
+fazla bir dersten, ara sınıflarda ise en fazla üç dersten başarısız olan
+öğrencilere üç yıl içinde kullanacakları üç sınav hakkı, not ortalamasını
+tutturamadıkları için hazırlık sınıfı dâhil ara sınıflarda da sene kaybeden
+öğrencilere diledikleri üç dersten bir sınav hakkı verilir. Sınav hakkı
+verilenler, yıl içi veya yıl sonu sınavı olduğuna
+bakılmaksızın başvurmaları hâlinde her eğitim öğretim yılı başında açılacak
+sınavlara alınırlar. Sınavların sonunda sorumlu oldukları tüm dersleri
+başaranların kayıtları yeniden yapılır ve öğrenimlerine kaldıkları yerden
+devam ederler. Bu durumda olan öğrencilerin sınavlara girdikleri süre
+öğrenim süresinden sayılmaz. Bu sınavlara katılan öğrenciler öğrencilik
+haklarından hiçbir şekilde yararlanamazlar.
+Üniversiteye
+kayıt
+MADDE 6 –
+(1) Öğrencilerin fakültelere,
+yüksekokullara ve meslek yüksekokullarına kayıtları Yükseköğretim Kurulu ve
+Senato tarafından belirlenecek esaslara uygun olarak yapılır. Üniversiteye
+kayıt işlemi adayın bizzat kendisi tarafından yaptırılır. Ancak haklı ve
+geçerli mazereti olanların kayıtları noter onaylı vekâletname verilen kişiler
+tarafından da yaptırılabilir. Kayıt için gerekli şartlar şunlardır:
+a) Lise veya dengi meslek okulu ya da denkliği
+Milli Eğitim Bakanlığınca onaylanan yabancı ülke liselerinden birinden
+mezun olmak, (YÖK’ün lise mezuniyetleri için bir süre tanıması durumunda,
+öğrencinin kaydı lise diploması olmadan yapılır; tanınan süre sonunda lise
+diplomasını getirememesi durumunda öğrencinin kaydı iptal edilerek Üniversite
+ile ilişiği kesilir.)
+b) ÖSYM tarafından yapılan sınav sonucunda
+Üniversitenin ilgili birimine yerleştirilmiş olmak,
+c) Özel yetenekle öğrenci kabul eden birimler için
+ÖSYM tarafından yapılan sınav sonucunda yeterli puanı almış ve ilgili birim
+tarafından yapılan özel yetenek sınavını başarmış olmak.
+(2) Öğrenciler e-devlet üzerinden veya Üniversite
+Öğrenci Bilgi Sistemi (ÖBİSİS) üzerinden kayıtlarını yaptırabilirler.
+(3) Yabancı uyruklu öğrencilerin Üniversiteye
+kayıtları ilgili mevzuat hükümleri ile Senato tarafından belirlenen esaslar
+çerçevesinde yapılır.
+(4) Kayıt için istenen belgelerin aslı veya
+Üniversite tarafından onaylı örneği kabul edilir. Askerlik ve adlî sicil
+kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Eksik
+belge veya posta yoluyla kesin kayıt yapılmaz. Belirlenen tarihler arasında
+kesin kaydını yaptırmayan adaylar herhangi bir hak iddia edemezler.
+(5) Üniversiteye kesin kayıt yaptıran öğrenciye
+öğrenci kimlik kartı verilir. Kimlik kartının kaybedilmesi durumunda, yerel
+veya ulusal bir gazetede yayımlanan kayıp ilanına istinaden yenisi verilir.
+Üniversiteden mezun olan veya ilişiği kesilen öğrencilerin kimlik kartları
+geri alınır.
+Kayıt
+yenileme
+MADDE 7 –
+(1) Kayıt yenileme ve ders alma
+işlemleri, eğitim öğretim yılı veya dönemi başında Senatonun belirleyeceği
+tarihler arasında yapılır. Kayıt yenilemenin ve alınan derslerin geçerli
+olabilmesi için 2547 sayılı Kanunun 46 ncı
+maddesi hükümleri uyarınca katkı payı veya öğrenim ücretinin yatırılmış
+olması gerekir.
+(2) Haklı ve geçerli nedenlerle belirtilen süreler
+içinde kaydını yenilemeyen öğrenciler Senatonun belirleyeceği sürenin
+sonuna kadar Öğrenci İşleri Daire Başkanlığına başvurmak zorundadırlar.
+Başvurular, Senato tarafından karara bağlanır.
+(3) Belirlenen süreler içinde kaydını yeniletmeyen
+öğrenciler o dönemde derslere devam edemez, sınavlara giremez ve öğrencilik
+haklarından yararlanamazlar.
+Eğitim
+öğretim planları
+MADDE 8 –
+(1) Sınıf geçme esasına göre
+eğitim öğretim yapan birimler dışındaki fakülte, yüksekokul ve meslek
+yüksekokullarında ders geçme sistemi uygulanır. İlgili kurullar, bir
+sonraki eğitim öğretim yılının teorik ve uygulamalı dersleri ile bitirme
+tezi, bitirme ödevi, proje ve stajlarını gösteren eğitim öğretim planlarını
+ilgili mevzuat hükümlerine ve TYYÇ’ye uygun
+olarak hazırlamalıdır. Eğitim öğretim planları üzerinde yapılan
+değişiklikler ve eklemeler Öğrenci Bilgi Sistemi Katalog programına işlenir
+ve programın çıktısı Rektörlüğe sunulur. Birimlerin ders katalog
+sorumluları ile birlikte Öğrenci İşleri Daire Başkanlığınca yürütülen bu
+çalışmalara her yılın Şubat ayında başlanır ve en geç Ağustos ayında
+bitirilir.
+Yan dal
+programları
+MADDE 9 – (1) Üniversitede yan dal programları; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan
+Yükseköğretim Kurumlarında Önlisans ve Lisans
+Düzeyindeki Programlar Arasında Geçiş, Çift Anadal,
+Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin
+Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara göre
+yürütülür.
+Çift anadal programları
+MADDE 10
+– (1) Kayseri Üniversitesindeki
+eşdeğer diploma programları arasında uygulanacak çift anadal
+programları; Yükseköğretim Kurumlarında Önlisans
+ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal,
+Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin
+Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara göre
+yürütülür.
+Dersler
+MADDE 11
+– (1) Programlarda yer alan
+dersler; zorunlu ve seçmeli olmak üzere iki gruba ayrılır. Zorunlu dersler,
+öğrencinin almak ve başarılı olmak zorunda olduğu derslerdir. Seçmeli
+dersler, öğrencinin belirli ders grupları içinden seçerek almak durumunda
+olduğu derslerdir. İlgili birimler bazı dersler için ön şartlar
+tanımlayabilir. Belirlenen ön şartlar ve ön şartlı dersler ilgili birim
+tarafından belirlenir.
+(2) Öğrencinin kayıtlı olduğu bölüm veya program
+dışındaki birimlerden alacağı dersler, içerik ve kredileri dikkate alınarak
+ilgili kurullarca belirlenir.
+Akademik
+danışmanlık
+MADDE 12
+– (1) Öğrencilerin eğitim öğretim,
+kişisel ve yönetimle ilgili sorunlarının çözümüne yardımcı olmak ve
+öğrencileri yönlendirmek üzere öğretim yılı başlamadan önce ilgili birim
+başkanlıklarının önerisi ve ilgili yönetim kurullarının kararıyla öğretim
+elemanları arasından akademik danışmanlar görevlendirilir. Akademik danışmanlar,
+sorumluluklarına verilen öğrencilerin kayıt yeniletme, ders seçme ve
+mezuniyet gibi işlemler yanında diğer sorunlarının çözümüne de yardımcı
+olmak üzere öğrenim süresi boyunca haftada iki saat zaman ayırırlar.
+Danışmanların görev ve sorumluluklarına ilişkin esaslar ilgili birimlerce
+belirlenir.
+Yabancı
+dil hazırlık sınıfı, yeterlik ve muafiyet sınavları
+MADDE 13
+– (1) Zorunlu veya isteğe bağlı
+yabancı dil hazırlık sınıfı bulunan fakülte, yüksekokul ve meslek
+yüksekokullarına kayıt olan öğrencilerin yabancı dil eğitimi; 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan
+Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim
+Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik ve ilgili diğer mevzuat
+hükümlerine göre yürütülür. Yabancı dil eğitimi Üniversite Yabancı Diller
+Yüksek Okulunda verilebileceği gibi Senatonun uygun görmesi durumunda
+ilgili akademik birim bünyesinde veya aynı ildeki diğer bir üniversitenin
+Yabancı Diller Yüksek Okulunda da verilebilir. Hazırlık sınıfı bulunmayan
+birimlere kaydolan öğrencilerden yabancı dil dersinden muaf olmak
+isteyenler için ayrıca yabancı dil muafiyet sınavı açılır.
+Ders alma
+MADDE 14
+– (1) Öğrenciler, kayıt yeniletme
+süresi içinde internet aracılığıyla alacakları dersleri belirlerler. Kayıt
+yenileme işlemi danışmanın onayından sonra kesinleşir.
+(2) Kayıt yenileme süresi içinde; birinci yıl
+öğrencileri açılan tüm dersleri, diğer öğrenciler ise öncelikle başarısız
+oldukları ve daha önce almaları gerekip de alamadıkları dersleri almak
+zorundadırlar. Öğrenciler, azamî ders yükü sınırı içinde kalmak şartıyla
+aldıkları dersleri, kayıt yenileme süresi içinde değiştirebilir, sildirebilir
+veya yeni ders alabilirler.
+(3) Eğitim öğretim planlarından kaldırılan
+derslerden başarısız olan öğrenciler, bu derslerin yerine konulan dersleri
+alırlar, yerine konulan ders yoksa bu derslerden sorumlu tutulmazlar;
+ancak, mezun olabilmeleri için gerekli toplam krediyi tamamlamak üzere
+başka ders alırlar.
+(4) Öğrenciler, ilgili yönetim kurulu kararıyla
+Üniversitenin diğer birimlerinden veya diğer yükseköğretim kurumlarından da
+ders alabilirler.
+(5) Öğrenciler, sadece kaydoldukları derslere devam
+ederler ve bu derslerin sınavlarına girerler. Kaydolmadığı dersin sınavına
+giren öğrencinin notu iptal edilir.
+(6) Herhangi bir yükseköğretim kurumunda okuduğu
+derslerden muaf tutulmak isteyen öğrenciler, kayıt yaptırdıkları yarıyılın
+ilk iki haftası içinde başvurmaları hâlinde ilgili yönetim kurulu kararıyla
+bu derslerden muaf tutulabilir. Öğrencinin muaf olduğu dersler dikkate
+alınarak hangi yarıyıla intibaklarının yapılacağına ilgili yönetim kurulu
+karar verir. Birimler muafiyet ve intibak usul ve esaslarını belirleyebilirler.
+(7) Bir öğrencinin her dönemde alabileceği haftalık
+azami ders saati birimlerce tespit edilir ve Senatonun onayı ile yürürlüğe
+girer. Azami ders saatini belirtmeyen birimlerin haftalık azami ders saati
+kırk saat kabul edilir. Aynı şekilde değişim programları kapsamında diğer
+yükseköğretim kurumlarına giden öğrencilerin gittikleri üniversitelerde
+aldıkları derslerle kendi birimlerinde aldıkları derslerin toplamı da kırk
+saati geçemez. Azami ders saatlerine; zorunlu ve seçmeli dersler ile ders
+niteliğinde olan yıl içi projeleri, bitirme ödevi, bitirme tezi ve benzeri
+haftalık ders programında yer alan bütün dersler dâhildir.
+(8) Birinci sınıf öğrencileri ile genel not
+ortalaması 2.00’ın altında olan öğrenciler üst dönemlerden ders alamazlar.
+Genel not ortalaması 2.00’ın üstünde olan ve alttan dersi olmayan
+öğrencilerle alttan dersi olduğu halde genel not ortalaması 2.50’nin
+üstünde olan öğrenciler en fazla iki üst dönemden olmak kaydıyla, her
+dönemde azami ders yükünü dolduracak ölçüde ders alabilirler. Genel not
+ortalaması 1.00-1.99 arasında olan öğrenciler, azami ders yükünün en fazla
+%75’i kadar ders alabilirler. Genel not ortalaması 1.00’ın altında olan
+öğrenciler ise, azami ders yükünün en fazla %50’si kadar ders alabilirler.
+Sınıf geçme sistemi uygulayan birimlerle Senato kararı ile yıl esasına göre
+eğitim öğretim yapmasına karar verilen birimler, bu maddenin kendi
+birimlerinde uygulanıp uygulanmayacağını, uygulanacaksa uygulama şeklini
+ilgili kurul kararı ile belirtmek zorundadır.
+(9) Aynı anda yan dal veya çift anadal
+programına devam eden öğrencilerin haftalık toplam ders saati 40 saati
+geçemez.
+(10) Gerektiğinde bölümün isteği, ilgili yönetim
+kurulunun teklifi ve Üniversite Yönetim Kurulunun onayı ile bazı dersler
+her iki dönemde de açılabilir. Bulunduğu dönemden farklı bir dönemde açılan
+dersler de açıldığı dönemin ders yüküne dâhildir.
+(11) Yurt içi ve yurt dışı öğrenci değişim
+programları kapsamında yurt içi ve yurt dışı üniversitelere gönderilen
+öğrencilere ilişkin esaslar ilgili bölümün görüşü üzerine yönetim kurulu
+kararı ile belirlenir.
+(12) Öğrencilerin değişim programlarından aldığı
+derslerin, kredileri de göz önünde bulundurularak Üniversiteden almak
+zorunda oldukları derslerden hangisinin karşılığı olarak sayılacağına birim
+yönetim kurullarınca karar verilir. Ayrıca yurt dışında alınan ve başarılı
+olunan ders/dersler kredi karşılığı ile birlikte yurt dışındaki orijinal
+isim ve kodları ile transkriptlerde yer alır.
+ÜÇÜNCÜ BÖLÜM
+Derse Devam ve Yoklamalar, Sınavlar, Başarının
+Ölçülmesi,
+Değerlendirilmesi
+ve Geçişlere İlişkin Esaslar
+Derse
+devam ve yoklamalar
+MADDE 15
+– (1) Öğrenciler derslere,
+uygulamalara ve sınavlara katılmak zorundadır. Devam zorunluluğunun sınırı
+teorik derslerde en az % 70, uygulamalı derslerde ise en az %80’dir. Bu
+şartları yerine getiremeyen öğrenciler dönem veya yıl
+sonu sınavlarına giremezler. Öğrencilerin devam durumları ders
+sorumlularınca izlenir. Öğrencilerin alacakları sağlık raporları derse
+devam sürelerinin hesabında dikkate alınmaz. Bir dersin devamını alıp da
+başarısız olan öğrencilerin, dersi tekrarlamaları durumunda yeniden devam
+şartı aranmaz; ancak, uygulamalı derslerden başarısız olan öğrencilerden
+yeniden devam şartı aranabilir.
+Sınavlar
+MADDE 16
+– (1) Ara sınavları, mazeret
+sınavları, dönem veya yıl sonu sınavları,
+bütünleme ve Senatoca belirlenen diğer sınavlar aşağıdaki esaslara göre
+yapılır:
+a) Sınavlar; test, yazılı, sözlü, uygulamalı veya
+yazılı-sözlü, yazılı-uygulamalı ya da yazılı-sözlü-uygulamalı olarak
+yapılabilir. Bir ders için her dönemde en az bir ara sınav yapılır.
+Sınavların yapılış şekillerine ve sayılarına ilgili kurul karar verir.
+b) Öğrenciler, sınav programlarında belirtilen gün,
+saat ve yerde sınava girmek zorundadır. Öğrencinin girmemesi gereken bir
+sınava girmesi hâlinde aldığı not iptal edilir. Öğrenciler, sınavlarda
+kimlik belgelerini yanlarında bulundurmak zorundadırlar.
+c) Dini ve milli bayramlar dışında Cumartesi ve
+Pazar günleri de sınav yapılabilir.
+ç) Haklı ve geçerli sebeplerle ara sınava giremeyen
+öğrencilere ilgili yönetim kurulunca mazeret sınavı hakkı tanınır. Ara
+sınavların dışındaki sınavlar için mazeret sınavı hakkı tanınmaz. Mazeret
+sınavından yararlanmak isteyen öğrencilerin ders dönemi bitmeden ve
+mazeretin sona ermesinden itibaren en geç yedi gün içinde ilgili birime
+başvurmaları gerekir. Mazeret sınavı hakkı, aynı ders için birden fazla
+kullanılamaz. Mazeret sınavları ilgili dönem içinde yapılır.
+d) Derse kayıt ve devam şartlarını sağlayan
+öğrenciler, akademik takvime uygun olarak dönem veya yıl
+sonu sınavlarına girerler.
+e) Azami ders yükü sınırları içinde kalmak şartıyla
+öğrenciler, notlarını yükseltmek üzere her dönem başında başarılı oldukları
+derslere yeniden kaydolarak o dersin sınavlarına girebilirler. Ayrıca
+yarıyıl sonu sınavı sonucunda başarılı olan öğrenciler not yükseltmek
+amacıyla bütünleme sınavına girebilirler. Her iki durumda da en son alınan not
+geçerli sayılır. Not yükseltmek için sınava girmek isteyen öğrenciler, o
+dersin bütünleme sınavının yapılacağı tarihten en az üç gün önce ÖBİSİS'den sınava gireceklerini belirtmek
+zorundadırlar. Aksi durumda bu öğrenciler sınava giremezler; sınava girseler
+dahi sınavları geçersiz sayılır.
+f) Bütünleme sınavları her dönem sonrasında ilgili
+dönem dersleri için yapılabilir. Bu sınavın yöntemine ve tarihine ilgili
+kurul karar verir. Sınıf geçme sistemi uygulayan birimlerde ek bütünleme
+sınav hakkı Senato tarafından belirlenebilir.
+g) Bütünleme sınavlarından sonra devamını almış
+olmak kaydıyla dönemine bakılmaksızın mezun olabilmek için ders hükmünde
+olmayan bitirme ödevi, bitirme tezi, staj ve hazırlık sınıfı hariç tek
+dersi kalan öğrencilere tek ders sınav hakkı verilir. Tek ders sınavında
+ara sınav notu dikkate alınmaz. Tek ders sınavına giren öğrencilerin başarı
+notu, sadece tek ders sınav notuna göre belirlenir.
+Sınav
+düzeni ve sonuçların ilanı
+MADDE 17
+– (1) Sınavlar, sorumlu öğretim
+elemanları ve birim yönetimi tarafından görevlendirilen gözetmenler
+tarafından yapılır.
+(2) Sorumlu öğretim elemanı, sınav sonuçlarını
+sınav tarihinden itibaren en geç yedi gün içinde öğrenci bilgi sisteminde
+ilan eder ve sınav evrakını ilgili birim yönetimine teslim eder. Sınav
+evrakı, sınav tarihinden itibaren en az iki yıl süreyle saklanır.
+Mazeretler
+ve izinli sayılma
+MADDE 18
+– (1) Kayıt yenileme, derse devam
+ve sınavlara girme şartlarından birini Yükseköğretim Kurulunca belirtilen
+haklı ve geçerli bir sebeple yerine getiremeyen öğrencilerin hakları saklı
+tutulur ve kaybettikleri süre 2547 sayılı Kanundaki azami öğrenim
+süresinden sayılmaz. Öğrencilerin kayıtları, belgeleyecekleri önemli ve
+haklı sebeplerinin bulunması hâlinde ilgili yönetim kurulu kararı ile azami
+bir yıla kadar dondurulabilir ve bu süre azami öğrenim süresine eklenir. Kayıt
+dondurma başvurularının dönemin başlangıcından itibaren bir ay içinde
+yapılması gerekir.
+(2) Türkiye’yi veya Üniversiteyi temsil amacıyla
+bilimsel, sosyal, kültürel ve sportif faaliyetlere ve yarışmalara katılan
+öğrenciler yönetim kurulunca derslerden ve ara sınavlardan izinli sayılır
+ve bu süreler devamsızlık olarak değerlendirilmez.
+(3) Öğrencilere, öğrenim ve eğitimlerine katkıda
+bulunacak burslu veya burssuz yurt içi/yurt dışı eğitim, staj, araştırma,
+bilgi ve görgü artırma gibi imkânların doğması halinde; ilgili yönetim
+kurulu kararı ile her seferinde en fazla bir yıla kadar izin verilebilir.
+Ancak bu izin süresi azami öğrenim süresine dâhildir ve bu konudaki
+başvuruların, kayıt yenileme süresinin sonuna kadar yapılması gerekir. Bu
+haklardan yararlanmak isteyen öğrenciler, her defasında öğrenim harcını
+yatırmak ve kayıt yenilemek zorundadır. Bu imkânlardan yararlanan
+öğrencilerin elde edecekleri eğitim öğretim kazanımları ilgili mevzuat
+hükümleri çerçevesinde değerlendirilir.
+(4) Nörolojik ve psikiyatrik rahatsızlıklar
+nedeniyle tüm öğrenim süresi içinde devamsızlığı iki yılı aşan öğrenciler,
+yeni bir sağlık raporu getirdikleri takdirde öğrenimlerine kaldıkları
+yerden devam ederler ve rapor süreleri azami öğrenim süresinden sayılmaz.
+Başarının
+ölçülmesi ve değerlendirilmesi
+MADDE 19
+– (1) Sınavlar 100 puan üzerinden
+ölçülür. Bir dersin ara sınav ve dönem sonu sınav sonuçları sayısal puan
+ile gösterilir. Öğrencinin girmediği sınavların puanı sıfır (0)’dır.
+(2) Ara sınav puan ortalaması, öğrencinin ara sınavlarda
+almış olduğu puanların toplamının yapılmış olan ara sınav sayısına
+bölünmesi ile belirlenir. Bu suretle bulunacak buçuklu sayı tam sayıya
+yükseltilir.
+(3) Ham başarı puanı; dönem veya yıl
+sonu sınav puanının % 60’ına, ara sınavların puan ortalamasının %
+40’ının eklenmesi ile hesaplanır. Bu oranların hesabında kesirler aynen
+korunur; ancak, ham başarı puanının hesabında buçuklu sayılar tam sayıya
+tamamlanır.
+(4) Ham başarı notları, birimlerin yaptıkları
+tercihe göre, esasları Senato tarafından belirlenen bağıl not dönüşüm
+yöntemlerinden biri kullanılarak veya yine birimler tarafından belirlenen
+mutlak not dönüşüm tabloları aracılığıyla belirlenir.
+(5) Üniversitede kullanılan 4’lük sistem başarı
+notları ve katsayıları aşağıdaki tabloda gösterilmiştir:
+Başarı Notu Katsayı Başarı Derecesi
+AA 4.00 Mükemmel
+BA 3.50 Pekiyi
+BB 3.00 İyi
+CB 2.50 Orta
+CC 2.00 Yeterli
+DC 1.50 Kalır
+DD 1.00 Kalır
+FD 0.50 Kalır
+FF 0.00 Kalır
+(6) Bir dersten başarılı olmak için başarı notunun
+en az CC veya daha yukarı olması gerekir.
+Sınav
+sonucuna itiraz
+MADDE 20
+– (1) Öğrenciler, başarı notlarına
+itiraz edemezler, ancak ara sınavlar ve dönem sonu sınav sonuçlarına itiraz
+edebilirler. Öğrenciler, itirazlarını notların öğrenci bilgi sistemindeki
+kesin onay/ilan tarihinden itibaren yedi gün içinde ilgili dekanlığa veya
+müdürlüğe yazılı olarak yapabilirler. İtiraz, ilgili öğretim elemanı tarafından
+incelendikten sonra, anabilim dalı başkanı veya bölüm başkanı tarafından
+incelenir. Sonuç, ilgili yönetim kurulunda karara bağlanır. İtirazın
+incelenmesi ve değerlendirilmesi, itirazın yapıldığı tarihten itibaren en
+geç on beş gün içinde sonuçlandırılır.
+Genel not
+ortalamasının belirlenmesi
+MADDE 21 – (1) Öğrencilerin genel not ortalamaları aşağıdaki
+şekilde belirlenir:
+a) Bir öğrencinin bir dersten aldığı ağırlıklı
+puanı, o dersin yerel kredisi ile o dersin başarı notu katsayısının
+çarpımıdır. Genel not ortalaması, alınan bütün derslerin ağırlıklı puan
+toplamının derslerin yerel kredileri toplamına bölünmesiyle bulunur. Elde
+edilen ortalama virgülden sonra iki haneli olarak gösterilir.
+b) Genel not ortalamasına dâhil edilmeyecek dersler
+Senatoca belirlenir. Türk Dili, Atatürk İlkeleri ve İnkılap
+Tarihi, Yabancı Dil, Beden Eğitimi veya Güzel Sanatlar derslerinin genel
+not ortalamasına katılmadığı durumlarda bu derslerden başarılı olmak için
+en az CC notunu almak gerekir.
+Başarılı
+ve üstün başarılı öğrenciler
+MADDE 22
+– (1) Kayıt yaptırdığı tüm
+dersleri geçmiş olmak şartıyla genel ve dönem ortalaması 2.00 olan öğrenciler
+başarılı sayılırlar. Öğrencinin başarı sıralaması genel not ortalamasına
+göre hesaplanır. Bu öğrencilerden bir dönem sonunda en az normal ders yükü
+ile o dönemin not ortalaması 3.00-3.49 arasında olanlar dönem onur
+öğrencisi, 3.50-4.00 arasında olanlar ise üstün onur öğrencisi sayılırlar.
+Bu öğrencilerin listesi her dönem sonunda ilan edilir.
+Bitirme
+ödevi, bitirme tezi, bitirme projesi veya staj
+MADDE 23
+– (1) Öğrenciler kayıtlı oldukları
+eğitim öğretim programlarının gerektirdiği bitirme ödevi, bitirme projesi,
+bitirme tezi veya stajı yapmak zorundadırlar. Bu eğitim öğretim
+faaliyetleri ile ilgili esaslar Senatoca belirlenir.
+Kredi
+hesabı
+MADDE 24
+– (1) Eğitim öğretim
+faaliyetlerinin kredi değerleri, ilgili birim kurul kararı ve Senatonun
+onayı ile bir dersin hedeflenen öğrenme çıktılarını kazandırmak amacıyla
+planlanan öğrenim aktivitelerini başarıyla tamamlamak için gerekli zamanı
+temel alarak belirlenen iş yüküne dayalı olarak tespit edilir.
+Yatay
+geçişler
+MADDE 25
+– (1) Kayseri Üniversitesindeki
+diploma programlarına yapılacak kurumlararası
+yatay geçişler; Yükseköğretim Kurumlarında Önlisans
+ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal,
+Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin
+Yönetmelik hükümleri ve Senato tarafından belirlenen esaslara uygun olarak
+yapılır.
+Birim içi
+geçişler
+MADDE 26
+– (1) Üniversitedeki eşdeğer
+diploma programları arasındaki kurum içi yatay geçişler; Yükseköğretim
+Kurumlarında Önlisans ve Lisans Düzeyindeki
+Programlar Arasında Geçiş, Çift Anadal, Yan Dal
+ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik
+hükümleri ve Senato tarafından belirlenen esaslara göre yapılır.
+Dikey
+geçişler
+MADDE 27
+– (1) ÖSYM tarafından merkezî
+olarak yapılan dikey geçiş sınavında başarılı olan meslek yüksekokulları
+mezunlarının lisans programına kabulleri ve intibakları, 19/2/2002
+tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve
+Açıköğretim Ön Lisans Programları Mezunlarının
+Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümleri ile Yükseköğretim
+Kurulu kararlarına uygun olarak yapılır.
+DÖRDÜNCÜ BÖLÜM
+Öğrenci Katkı
+Payı, Öğrenim Ücreti, Kayıt Silme ve Sildirme
+Öğrenci
+katkı payı ve öğrenim ücreti
+MADDE 28
+– (1) Öğrenciler, kayıtlarını
+yenileyebilmek için her dönem öğrenci katkı payını veya öğrenim ücretini
+ödemek zorundadır. Kaydın silinmesi hâlinde, alınan öğrenci katkı payı veya
+öğrenim ücreti iade edilmez.
+(2) Öğrencilerin katkı payları veya öğrenim
+ücretleri, 2547 sayılı Kanunun 46 ncı maddesi
+hükümlerine göre tahsil edilir.
+(3) Hazırlık sınıfı hariç, bulundukları bölümde her
+bir dönem için belirlenen asgari derslerden başarılı olan ve bu dersleri
+alan öğrencilerin başarı ortalamasına göre dönem sonu itibarıyla yapılacak
+sıralamada ilk yüzde ona giren ikinci öğretim öğrencileri, bir sonraki
+dönemde birinci öğretim öğrencilerinin ödeyecekleri öğrenci katkı payı
+kadar öğrenim ücreti öder.
+(4) Hazırlık sınıfı hariç, bulundukları bölümde her
+bir dönem için belirlenen asgari derslerden başarılı olan ve bu dersleri
+alan öğrencilerin başarı ortalamasına göre dönem sonu itibarıyla yapılacak
+sıralamada ilk yüzde ona giren birinci öğretim öğrencileri, bir sonraki
+dönemde ödeyecekleri öğrenci katkı payının yarısını öder.
+Kayıt
+silme ve sildirme
+MADDE 29
+– (1) İlgili yönetim kurulu
+kararıyla, aşağıdaki durumlarda, öğrencilerin Üniversite ile ilişikleri
+kesilir:
+a) 18/8/2012 tarihli ve
+28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci
+Disiplin Yönetmeliği hükümlerine göre Üniversiteden çıkarma cezası alması,
+b) Kendi isteği ile ve yazılı olarak kaydını
+sildirmek istemesi,
+c) Öngörülen kayıt kabul şartlarını yerine
+getirmediğinin ve sundukları belgelerin veya verdikleri bilgilerin yanlış
+veya eksik olduğunun sonradan anlaşılması.
+BEŞİNCİ BÖLÜM
+Mezuniyet ve
+Diplomalar
+Mezuniyet
+derecesi
+MADDE 30
+– (1) Mezuniyet derecesi;
+derslerin kredi değerleri ile bu derslerin başarı notlarının karşılığı olan
+katsayıların çarpımlarının cebirsel toplamının toplam krediye bölünmesiyle
+belirlenir. Bir öğrencinin mezun olabilmesi için kayıtlı
+olduğu programın eğitim planında zorunlu olarak alması gereken tüm dersleri
+alıp başarmış olması, seçmeli ders paketlerinden alınması gereken kadar
+seçmeli dersleri alıp başarmış olması, varsa yabancı dil hazırlık
+programından başarılı olması, almış olduğu tüm dersleri başarmış olması,
+varsa stajlarını tamamlamış olması, mezuniyet derecesinin en az 2.00 olması
+ve en az eğitim planında belirtilen mezuniyet kredisi kadar dersten
+başarılı olması gerekir.
+Ön lisans
+diploması verilmesi veya meslek yüksekokullarına intibak
+MADDE 31
+– (1) Lisans öğrenimini
+tamamlamayan veya tamamlayamayacağı anlaşılan ve ilk iki yılın bütün
+derslerini başaran öğrencilere, talep etmeleri halinde ön lisans diploması
+verilir.
+(2) Lisans öğrenimini tamamlamayan veya
+tamamlayamayacağı anlaşılan öğrencilerin başvurmaları halinde meslek
+yüksekokullarına intibakları ilgili mevzuat hükümlerine göre yapılır.
+(3) İlk iki yılın bütün derslerini başarmış olsalar
+dahi, lisans öğrenimlerine devam eden öğrenciler ile ilgili mevzuat
+gereğince yükseköğretim kurumundan çıkarma cezası alanlara ön lisans
+diploması verilmez.
+(4) Ön lisans diplomasını alarak lisans
+programından ilişiği kesilenler, kendilerine tanınacak kanuni bir haktan
+yararlanarak öğrenimlerine devam etmek istedikleri takdirde ön lisans
+diplomalarını iade etmek zorundadırlar.
+Diplomalar
+MADDE 32
+– (1) Dört dönemlik (iki yıllık)
+eğitim öğretim programını başarı ile tamamlayanlara ön lisans diploması ve
+eki; sekiz dönemlik (dört yıllık) eğitim öğretim programlarını başarı ile
+tamamlayanlara lisans diploması ve diploma eki hazırlanıncaya kadar
+öğrencilere geçici mezuniyet belgesi verilir. Diploma bir defa verilir.
+Kaybedilmesi hâlinde diploma ikinci nüsha olarak yeniden düzenlenir.
+Diplomalar, fakültelerde dekan ve Rektör, yüksekokul ve meslek
+yüksekokullarında müdür ve Rektör, dekanlığa bağlı yüksekokul ve meslek
+yüksekokullarında müdür, dekan ve Rektör tarafından imzalanır.
+ALTINCI BÖLÜM
+Çeşitli ve Son
+Hükümler
+Disiplin
+işleri
+MADDE 33
+– (1) Öğrencilerin disiplinle
+ilgili iş ve işlemleri Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği
+hükümlerine göre yürütülür. Herhangi bir sebeple yükseköğretim kurumundan
+uzaklaştırma cezası alan öğrenciler, bu süre içerisinde eğitim öğretim
+faaliyetleri ile sosyal faaliyetlere katılamaz ve Üniversitenin tesislerine
+giremezler.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 34
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili diğer mevzuat hükümleri uygulanır.
+Yürürlük
+MADDE 35
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 36
+– (1) Bu Yönetmelik hükümlerini
+Kayseri Üniversitesi Rektörü yürütür.
