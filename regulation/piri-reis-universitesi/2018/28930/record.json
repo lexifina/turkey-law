@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-05",
+      "05.11.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30586",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2018/28930",
+  "published": "2018-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28930&MevzuatTertip=5",
+  "source_bytes": 23679,
+  "source_id": "8.5.28930",
+  "source_sha256": "686c242c77e1972b3b25dfabe6ddbbbb04ed246f4b57dfaa5bcc744ba8154fc5",
+  "text_status": "as-enacted",
+  "title": "PİRİ REİS ÜNİVERSİTESİ DENİZ HUKUKU UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 873
+}
