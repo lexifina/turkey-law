@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [],
+  "date_evidence": [
+    [
+      "1997-06-11",
+      "11.06.1997",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-11-05",
+      "RG-5/11/2018-30586",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-5/11/2018-30586",
+  "first_law": null,
+  "gazette": "23016",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/1997/7251",
+  "published": "1997-06-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7251&MevzuatTertip=5",
+  "source_bytes": 21890,
+  "source_id": "8.5.7251",
+  "source_sha256": "62fe08d32ac652304dcb92f1d9ad70003de969ca12f09004e92d2c5e25fbf79b",
+  "text_status": "current-consolidated",
+  "title": "AKDENİZ  ÜNİVERSİTESİ\r\nATATÜRK İLKELERİ VE İNKILAP TARİHİ ARAŞTIRMA-UYGULAMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 680
+}

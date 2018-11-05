@@ -1,0 +1,3 @@
+Madde 4- (Değişik:RG-5/11/2018-30586)
+Merkez Müdürü, merkezin amaçları doğrultusunda araştırmalar ve yayınlar yapmış, kadrolu öğretim üyeleri arasından, Rektör tarafından 2 (iki) yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebileceği gibi, gerek duyulduğu zaman görev süresi dolmadan görevlendirilmesindeki usule göre görevden alınabilir.
+Merkez Müdürü, kendisine yardımcı olmak üzere Yönetim Kurulu üyelerinden birini ihtiyaç halinde ikisini Müdür Yardımcısı olarak seçer. Merkez Müdürü görevi başında olmadığı zaman, Müdür Yardımcılarından biri vekalet eder. Göreve vekalet 6 (altı) aydan fazla süremez. Bu durumda yeni bir Merkez Müdürü, Rektör tarafından usulüne göre görevlendirilir.
