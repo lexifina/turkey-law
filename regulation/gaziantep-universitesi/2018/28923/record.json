@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 38 – (1) Bu Yönetmelik 2018-2019 eğitim-öğretim yılı başından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-05",
+      "05.11.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 38 – (1) Bu Yönetmelik 2018-2019 eğitim-öğretim yılı başından itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30586",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2018/28923",
+  "published": "2018-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28923&MevzuatTertip=5",
+  "source_bytes": 70614,
+  "source_id": "8.5.28923",
+  "source_sha256": "42dfefd3869adc209833d462b0a48e6578c713b72706150bfef3449a9f92d30f",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ TIP FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 4161
+}
