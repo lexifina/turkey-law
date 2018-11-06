@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-06",
+  "number_as_published": "meeting-11-06",
+  "year": 2018,
+  "title": "06 Kasım 2018 Kararları",
+  "decision_date": "2018-11-06",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2326/kasim-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2335/06-kasim-2018-kararlari",
+  "source_sha256": "4e9f132f98ab93d9c1947469fb7e6e0f645c53e3874189706c13931a62666d20",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06 Kasım 2018 Kararları (year 2018 from the official year list '2018 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Kasım Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2335/06-kasim-2018-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
