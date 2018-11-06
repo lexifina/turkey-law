@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10723",
+  "decision_date": "2018-11-06",
+  "source_id": 28370,
+  "chamber": "1",
+  "ilam_number": "559",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28370/",
+  "source_sha256": "c9a2d36b31fca91ad9b79841c956f06e0480232d17c945bfd3d2dd855595e347",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
