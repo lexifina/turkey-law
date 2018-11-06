@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10720",
+  "decision_date": "2018-11-06",
+  "source_id": 28358,
+  "chamber": "1",
+  "ilam_number": "21",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28358/",
+  "source_sha256": "0f7535b9b31d345128204f3e309971cfd419de1c4421731b824d07ec86841a92",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
