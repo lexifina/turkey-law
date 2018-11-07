@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-11-07",
+  "issue": "30588",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Wushu Federasyonu Ana Statüsünde Değişiklik Yapılmasına Dair Ana Statü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181107-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181107.htm",
+  "index_sha256": "5caa0da105455504774ec5d167a0b01b2d52f50427803d8371dbe0f40f8b61a4",
+  "index_header": "7 Kasım 2018 ... 30588 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181107.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
