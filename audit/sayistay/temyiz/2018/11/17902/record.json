@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45312",
+  "decision_date": "2018-11-07",
+  "source_id": 17902,
+  "chamber": "1",
+  "file_number": "41899",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17902/",
+  "source_sha256": "5c3677c39b4eb6c3fca36081ba1e7ab45633ed057248c6e1e3af06b105244488",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
