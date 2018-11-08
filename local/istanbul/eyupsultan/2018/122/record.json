@@ -1,0 +1,22 @@
+{
+  "number": "122",
+  "number_as_published": "2018/122",
+  "year": 2018,
+  "title": "Uygulama İmar Planları plan notu değişikliği",
+  "decision_date": "2018-11-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-kasim-ayi-meclis-kararlar/1543",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-122/1548",
+  "source_sha256": "f958ce9883c360efe92963b066a319798f1f24e4dd5ccf9af50d11a8dcca42ee",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-11-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.11.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "ec255515801f907a99e9cc6412fec250c5d317a76de00d906d3c1d2353662a51"
+}
