@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-10-09",
+      "09.10.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "9/11/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/11/2018-30590",
+  "first_law": null,
+  "gazette": "30205",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2017/23950",
+  "published": "2017-10-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23950&MevzuatTertip=5",
+  "source_bytes": 25584,
+  "source_id": "8.5.23950",
+  "source_sha256": "958e7f695d5f3bd8ae280cc30352a3f7bf93c2d7f0a6eb49b07afdad59983a06",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ERNST REUTER İSKAN VE ŞEHİRCİLİK\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 679
+}
