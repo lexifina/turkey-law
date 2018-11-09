@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-06-08",
+      "08.06.2009",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "9/11/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/11/2018-30590",
+  "first_law": null,
+  "gazette": "27252",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2009/13098",
+  "published": "2009-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13098&MevzuatTertip=5",
+  "source_bytes": 32072,
+  "source_id": "8.5.13098",
+  "source_sha256": "4c8e4f769b6c69011773c0d6be10cf6258284b6d966be73798dfcb7e64775937",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ANKARA ÇALIŞMALARI ARAŞTIRMAVE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 728
+}
