@@ -1,0 +1,6 @@
+KPSS kapsamındaki taleplerle ilgili aday listelerinin belirlenmesi
+MADDE 10 – (1) KPSS kapsamındaki taleplerle ilgili aday listeleri belirlenirken;
+a) (Değişik ibare:RG-9/11/2018-30590) Önlisans ve lisans eğitim düzeyindeki taleplere, KPSS puanıyla başvuran talep şartlarına uygun adaylar arasından, en yüksek KPSS puanından başlanmak üzere açık iş sayısının (Değişik ibare:RG-9/11/2018-30590) dört katı,
+b) Öncelik hakkına sahip olarak başvuran adaylardan talep şartlarına uygun olanlar arasından, öncelik hakkı sahipliğine ilişkin belgenin tarihi esas alınarak ve eski tarihli belgelerden başlanmak suretiyle, açık iş sayısının (Değişik ibare:RG-9/11/2018-30590) dört katı
+ayrı listeler hâlinde kamu kurum ve kuruluşuna gönderilir. Kamu Kurum ve Kuruluşlarına İşçi Alınmasında Uygulanacak Usul ve Esaslar Hakkında Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) bendinde belirtilenlerden talep şartlarına uygun adaylardan başvuranların tamamı öncelik hakkı sahiplerine ilişkin listelere dahil edilir.
+(2) Birinci fıkraya göre oluşturulan listelere, açık iş sayısı oranlarına bakılmaksızın en son adayın KPSS’de almış olduğu puanla aynı puana sahip olan adaylar ile öncelik hakkı sahipliğine ilişkin belge tarihi ile aynı tarihli belgeye sahip olan başvuru sahipleri de eklenir.

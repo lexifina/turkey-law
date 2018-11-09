@@ -1,0 +1,5 @@
+Sınav ve işe alım süreci
+MADDE 16 – (Başlığı ile Birlikte Değişik:RG-9/11/2018-30590)
+(1) Kamu kurum ve kuruluşları işe yerleştirilecek kişileri, Kurum tarafından gönderilen listelerdeki adaylar arasında yapacağı sınav ile belirler. Sınav; yazılı veya sözlü yöntemlerinden biri veya ikisi kullanılarak, meslekî bilgi ve becerilere ilişkin konulardan yapılır. Ancak; temizlik hizmetleri, güvenlik ve koruma hizmetleri, bakım onarım hizmetleri için yapılacak alımlarda kura sonrası sadece sözlü yöntem kullanılarak sınav yapılır.
+(2) İşe alım sürecinin; kamu kurum ve kuruluşlarınca, Kurum tarafından gönderilen listelerin ulaşmasını müteakip yirmi gün içinde tamamlanması esastır.
+(3) Sınavların gerçekleştirilmesi ile işe alım sürecinde uygulanacak diğer usul ve esaslar bu Yönetmelikte düzenlenen genel çerçeveye aykırı olmamak kaydıyla kamu kurum ve kuruluşlarınca belirlenir. Belirlenen usul ve esaslar; adayların daveti, sınavın yöntemi ve sonuçların değerlendirilmesi, asil ve yedek adayların belirlenmesi, yedeklerden yerleştirme yapılması ile adaylara sonuçlarının duyurulması hususlarını da kapsar.
