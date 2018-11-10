@@ -1,0 +1,4 @@
+Başarı sıralaması
+MADDE 15 – (1) (Değişik:RG-11/7/2017- 30121) Görevde yükselme veya unvan değişikliği suretiyle ilan edilen boş kadro veya pozisyon sayısı kadar atama yapılmasında başarı puanı esas alınır. Başarı puanı yazılı ve sözlü sınav puanlarının aritmetik ortalaması esas alınmak suretiyle tespit edilir ve resmi internet sitesinden ilan edilir.
+(2) Görevde yükselme sınavında başarılı olmalarına rağmen, ilan edilen kadro veya pozisyon sayısı nedeniyle ataması yapılamayacak personelden en fazla asıl aday sayısı kadar personel, ihtiyaç duyulması halinde başarı sıralaması listesinde yedek olarak belirlenebilir.
+(3) Görevde yükselme veya unvan değişikliği sınav sonuçları, kesinleşmesini müteakip beş iş günü içinde resmi internet sitesinden ilan edilir. İlan edilen sonuçlara beş iş günü içinde itiraz edilebilir. İtirazlar 20 iş günü içinde karara bağlanır.

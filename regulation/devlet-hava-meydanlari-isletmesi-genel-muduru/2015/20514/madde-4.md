@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt Görev: 27/9/1984 tarihli ve 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Genel Müdür: Devlet Hava Meydanları İşletmesi Genel Müdürünü,
+ç) Genel Müdürlük: Devlet Hava Meydanları İşletmesi Genel Müdürlüğünü,
+d) Görev grubu: Hiyerarşi, görev, yetki ve sorumluluk açısından benzer ve/veya aynı düzeydeki unvanlardan oluşan grubu,
+e) Görevde yükselme: 5 inci maddede belirtilen kadro veya pozisyonlara, aynı veya başka görev gruplarından yapılacak görevde yükselme niteliğindeki atamaları,
+f) (Değişik:RG-11/7/2017- 30121) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+g) Hizmet süresi: Aylıksız izinli geçen süreler hariç muvazzaf askerlik süresi dahil olmak üzere 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendine göre hesaplanan süreleri,
+ğ) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç, diğer günleri,
+h) Kadro: 399 sayılı Kanun Hükmünde Kararnamenin (I) sayılı cetveline dahil personel ile 657 sayılı Devlet Memurları Kanununa tabi personelin haiz olduğu unvanları,
+ı) Kurs: Genel Müdürlük tarafından verilen hizmet içi eğitimleri,
+i) Kuruluş: Devlet Hava Meydanları İşletmesini,
+j) Pozisyon: 399 sayılı Kanun Hükmünde Kararnamenin (II) sayılı cetveline dahil personelin sahip olduğu unvanları,
+k) Sözleşmeli personel: 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (c) bendinde tanımlanan personeli (II sayılı Cetvel),
+l) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+m) (Değişik:RG-11/7/2017- 30121) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+n) Ünite: Daire başkanlıkları, hukuk müşavirliği, hava trafik kontrol merkezi başmüdürlüğü, havalimanı başmüdürlükleri/müdürlükleri ve müstakil müdürlüklerini,
+o) Üst görev: 3046 sayılı Kanunda belirtilen hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ö) YDS : Yabancı dil bilgisi seviye tespit sınavını,
+ifade eder.
