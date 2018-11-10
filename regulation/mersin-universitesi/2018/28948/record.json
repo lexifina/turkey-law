@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-10",
+      "10.11.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30591",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2018/28948",
+  "published": "2018-11-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28948&MevzuatTertip=5",
+  "source_bytes": 49644,
+  "source_id": "8.5.28948",
+  "source_sha256": "3b5cdff0c0d644f806a4c6fdf577450361aa970a015b6b772abc89787f9017fd",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ ENERJİ TEKNOLOJİLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 2531
+}
