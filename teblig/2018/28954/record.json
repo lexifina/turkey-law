@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.28954",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MESLEKÎ YETERLİLİK KURUMU MESLEKÎ YETERLİLİK BELGESİ ZORUNLULUĞU GETİRİLEN MESLEKLERE İLİŞKİN TEBLİĞ (SIRA NO: 2018/1)",
+  "number": "28954",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı",
+  "path": "teblig/2018/28954",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=28954&MevzuatTertip=5",
+  "source_sha256": "f5872b7dffc81493e04780366347ed88d4d4a5febc835b3bc8e02b003a1257ba",
+  "source_bytes": 11085,
+  "published": "2018-11-11",
+  "gazette": "30592",
+  "in_force": "2018-11-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.11.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 233,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.28954-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
