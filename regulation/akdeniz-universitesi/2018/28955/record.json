@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-12",
+      "12.11.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30593",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2018/28955",
+  "published": "2018-11-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28955&MevzuatTertip=5",
+  "source_bytes": 38030,
+  "source_id": "8.5.28955",
+  "source_sha256": "370eb34cdeb46e68060ec7e71f60119969e267d0423041d612702dcc51351865",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ HEMŞİRELİK UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1625
+}
