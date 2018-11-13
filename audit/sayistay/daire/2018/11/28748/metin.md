@@ -1,0 +1,13 @@
+Gelir Vergisi Tevkifatı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+            Denetçi sorgusunda .... Belediyesince ……’a ihale edilen Çevik Kuvvet Şube Müdürlüğü ve .... İlçe Emniyet Müdürlüğü Bahçe Duvarı Onarım İşinin sonradan yıllara sari hale gelmesine rağmen hakediş ödemelerinden gelir vergisi tevkifatı yapılmaması sonucu kamu zararına neden olunduğu iddia edilmiş ise de;
+
+193 sayılı Gelir Vergisi Kanunu’nun “Birden fazla takvim yılına sirayet eden inşaat ve onarma işleri” başlıklı 42’nci maddesinin 1’inci fıkrasında; “Birden fazla takvim yılına sirayet eden inşaat (dekapaj işleri de inşaat işi sayılır) ve onarma işlerinde kar veya zarar işin bittiği yıl kati olarak tespit edilir ve tamamı o yılın geliri sayılarak, mezkûr yıl beyannamesinde gösterilir.” hükmü yer almış olup mezkur Kanun’un “İnşaat ve onarma işlerinde işin bitimi” başlıklı 44’üncü maddesinde ise; İnşaat ve onarma işlerinde geçici ve kesin kabul usulüne tabi olan hallerde geçici kabulün yapıldığını gösteren tutanağın idarece onaylandığı tarihin; diğer hallerde işin fiilen tamamlandığı veya fiilen bırakıldığı tarihin bitim tarihi olarak kabul edileceği ile bitim tarihinden bu işlerle ilgili olarak yapılan giderler ve her nam ile olursa olsun elde edilen hasılatın, bu giderlerin yapıldığı veya hasılatın elde edildiği yılın kar veya zararının tespitinde dikkate alınacağı hüküm altına alınmıştır.
+
+Sorumluların savunmalarından, Gelir İdaresi Başkanlığı/.... Vergi Dairesi Başkanlığı’nın … tarih ve … sayılı yazısı ile … tarihli ve … sayılı özelgesinde yıllara sari işlerde geçici kabul tarihinden daha sonraki tarihlerde yapılan hakediş ödemelerindeki gelir vergisi tevkifatı uygulamasının gerekli olmadığı belirtildiğinden yıllara sari işlerde, geçici kabul tarihinden sonra düzenlenen hakedişlerden gelir vergisi tevkifatı yapılması uygulamasına son verildiği, dolayısıyla anılan işin geçici kabul tarihi …. olduğundan … tarihinde yapılan… nolu ve kesin hakkedişten gelir vergisi tevkifatı yapılmadığı anlaşılmıştır.
+
+Bu itibarla, geçici kabul tutanağının idarece onaylandığı tarihten işin kesin kabulünü sağlamak için kesin kabul tarihine kadar yapılan işler karşılığında yükleniciye ödenecek istihkak bedeli, ilgili yılın hasılatı olarak beyan edileceğinden, bu istihkak bedeli üzerinden tevkifatın yapılmasına gerek bulunmamaktadır.
+
+Belirtilen gerekçelerle, söz konusu hakediş ödemesinden gelir vergisi tevkifatı yapılmamasında mevzuata aykırılık bulunmadığından konu hakkında ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
