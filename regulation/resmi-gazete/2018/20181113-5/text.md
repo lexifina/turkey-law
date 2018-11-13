@@ -1,0 +1,217 @@
+13 Kasım 2018 SALI
+Resmî Gazete
+Sayı : 30594
+YÖNETMELİK
+Trabzon Üniversitesinden:
+TRABZON ÜNİVERSİTESİ PSİKOLOJİK DANIŞMA VE
+REHBERLİK
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Trabzon
+Üniversitesi Psikolojik Danışma ve Rehberlik Uygulama ve Araştırma
+Merkezinin faaliyetlerine, yönetim organlarına, yönetim organlarının
+görevlerine ve çalışma şekline ilişkin esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Trabzon
+Üniversitesi Psikolojik Danışma ve Rehberlik Uygulama ve Araştırma
+Merkezinin faaliyetlerine, yönetim organlarına, yönetim organlarının
+görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Gönüllü çalışan: Merkezde duyulan ihtiyaç
+çerçevesinde belirlenen hizmetlere, tam ya da yarı zamanlı olmadan
+kadrosuz, yetkinlik düzeyine ve gönüllülük ilkesine göre katkıda bulunan
+alanında uzman kişiyi, çalışanı ya da öğrenciyi,
+b) Merkez (TÜPDRM): Trabzon Üniversitesi Psikolojik
+Danışma ve Rehberlik Uygulama ve Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Trabzon Üniversitesi Rektörünü,
+d) Rektörlük: Trabzon Üniversitesi Rektörlüğünü,
+e) Stajyer: Merkezde sunulan hizmetleri yetkinlik
+düzeyine göre gerçekleştiren, rehberlik ve psikolojik danışmanlık,
+psikoloji ya da klinik psikoloji alanında lisans, yüksek lisans ya da
+doktora öğrenimi gören öğrencileri,
+f) Tam zamanlı uzman: Merkezde sunulan hizmetleri
+yetkinlik düzeyine göre gerçekleştiren, rehberlik ve psikolojik
+danışmanlık, psikoloji ya da klinik psikoloji alanında hizmet veren tam
+zamanlı ve kadrolu personeli,
+g) Üniversite: Trabzon Üniversitesini,
+ğ) Yarı zamanlı uzman: Merkezde duyulan ihtiyaç
+çerçevesinde belirlenen hizmetlere tam zamanlı ve kadrolu olmadan ve
+yetkinlik düzeyine göre katkıda bulunan alanında uzman personeli,
+h) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amacı, Faaliyet Alanları, Yönetim
+Organları ve Görevleri
+Merkezin
+amacı ve faaliyet alanları
+MADDE 5 –
+(1) Merkezin amacı; Üniversitede
+ön lisans, lisans ve lisansüstü öğretim programlarına kayıtlı öğrencilere
+bireysel, sosyal, eğitimsel ve mesleki alanlara yönelik psikolojik danışma
+ve rehberlik hizmetleri vermektir.
+(2) Merkez, amaçları doğrultusunda aşağıdaki
+faaliyetlerde bulunur:
+a) Üniversitede ön lisans, lisans, yüksek lisans ve
+doktora öğrenimi gören öğrencilere bireysel, sosyal, eğitimsel, mesleki
+alanlarda gelişimsel ve ilişki odaklı bireysel ve grupla psikolojik
+danışma/psikoterapi hizmetleri sunmak.
+b) Gerektiğinde öğrencilere yönelik psikolojik
+testler uygulamak ya da uygulanmasını sağlamak, diğer ölçme araç ve
+tekniklerini kullanmak.
+c) Üniversite bünyesinde gelişimsel, önleyici, eğitsel
+her türlü rehberlik programları düzenlemek.
+ç) Üniversite bünyesinde krize müdahale ve acil
+durum hizmetlerini desteklemek.
+d) Üniversite bünyesindeki ya da dışındaki
+psikiyatri servisleri ile koordinasyon içinde çalışarak ihtiyaç duyan ve
+psikolojik rahatsızlığı olan öğrenciler için sevk mekanizması oluşturmak ve
+bu öğrencileri izleme çalışmalarını yürütmek.
+e) Üniversite bünyesinde çalışma alanına yönelik
+olarak ilgili kişi ve birimlere gerektiğinde müşavirlik (konsültasyon)
+hizmetleri vermek.
+f) Yeni gelen öğrencilerin üniversiteye uyumunu
+kolaylaştırmaya yönelik oryantasyon çalışmaları
+yapmak.
+g) Hedef kitlenin ihtiyaç, beklenti ve profilini belirlemek amacıyla düzenli aralıklarla ve
+mesleki etik kurallar temelinde araştırmalar yapmak.
+ğ) Merkez bünyesinde yapılan tüm çalışmaların
+etkinliğini değerlendirmek üzere düzenli aralıklarla bilimsel çalışmalar
+yapmak.
+h) Merkezin çalışma alanı ile ilgili seminer, çalıştay ve sertifika programları düzenlemek.
+ı) Merkezin çalışma alanında yapılmış her türlü
+bilimsel çalışmaları yayımlamak.
+i) Merkezin çalışma alanında yapılan her türlü
+ulusal/uluslararası bilimsel etkinliğe katılmak.
+j) İlgili alanlarda çalışan meslek elemanlarına,
+araştırmacılara ve lisansüstü düzeyde öğrenim gören öğrencilere
+gerektiğinde uygulama alanı yaratmak, eğitim ve gözetim (süpervizyon) desteği sunmak, danışmanlık yapmak.
+k) Gerektiğinde faaliyet alanı kapsamında
+üniversite personeline yönelik eğitim çalışmaları yapmak.
+l) Bilimsel ve etik kurallar çerçevesinde
+üniversitenin psikolojik danışmanlık ve rehberlik hizmetleri kapsamındaki
+diğer etkinlikleri gerçekleştirmek.
+Merkezin
+yönetim organları
+MADDE 6 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür,
+b) Yönetim Kurulu.
+Müdür ve
+görevleri
+MADDE 7 –
+(1) Müdür, Merkezi çalışma alanı
+ile ilgili Üniversitenin öğretim elemanları arasından Rektör tarafından üç
+yıl için görevlendirilir. Bu şartlara uygun bir öğretim elemanı bulunmadığı
+takdirde Müdür, Merkez bünyesinde tam zamanlı olarak çalışan uzmanlar
+arasından görevlendirilebilir. Görev süresi sona eren Müdür yeniden
+görevlendirilebileceği gibi, süresi bitmeden de aynı usulle görevden
+alınabilir.
+(2) Müdürün görevleri şunlardır:
+a) Merkezin yıl sonu
+çalışma raporunu Rektöre sunmak.
+b) Merkezde görev yapan tam zamanlı, yarı zamanlı ve
+gönüllü uzmanlar ile stajyer öğrencilerin görev, yetki ve sorumluluklarını
+belirlemek.
+c) Merkezi temsil etmek ve Merkezin çalışmalarının
+amacına uygun olarak ve koordinasyon içinde geliştirilmesini,
+planlanmasını, yürütülmesini ve denetimini sağlamak.
+ç) Merkezde sunulan hizmetlerin öğrencilerin
+ihtiyaçları ve beklentileri doğrultusunda çeşitlendirilmesini, etkinliğinin
+artırılmasını ve planlanmasını gerçekleştirmek.
+d) Merkezde sunulan hizmetlerin ihtiyaçlar
+doğrultusunda çeşitlendirilerek geliştirilmesi konusunda ilgili diğer kişi,
+birim, kurum ve kuruluşlarla işbirliği yapmak.
+e) Merkezin çalışma alanı ile ilgili kişi, birim,
+kurum ve kuruluşlar ile işbirliği ve/veya koordinasyon esasları
+çerçevesinde ortak projeler belirlemek ve yürütmek.
+f) Merkezin çalışma standartlarını geliştirmeye
+yönelik bilimsel temelli stratejiler geliştirmek, uygulamak ve
+değerlendirmek.
+g) Psikolojik danışmanlık ve rehberlik
+hizmetlerinin bilimsel yeterliliğini ve idari yapının bu bilimsel gelişime
+uygun olmasını sağlamak.
+ğ) Merkez çalışanlarının uyum içinde çalışmalarına
+ve kendilerini akademik ve mesleki alanlarda geliştirmelerine destek olmak.
+h) Merkezin çalışma alanında yapılan ve Merkezin
+amaç ve faaliyetleri ile ilgili tüm ulusal/uluslararası etkinliklere
+katılmak.
+ı) Merkez çalışanlarının eğitim-öğretim yılı içinde
+sundukları hizmetlerin etkinleştirilmesi için kendi aralarında düzenlenen
+haftalık vaka ve gözetim (süpervizyon)
+toplantıları başta olmak üzere tüm toplantıları yıllık çalışma programı
+çerçevesinde düzenlemek.
+i) Merkez çalışanlarının personel işlerine ilişkin
+işlemlerini yürütmek.
+j) Merkeze alınacak tam zamanlı uzman adaylarını
+ilgili mevzuat hükümlerine göre seçmek ve seçilen uzman adaylarını
+Rektörlüğe bildirmek.
+k) Merkezde görev yapacak yarı-zamanlı, gönüllü
+uzmanlar ile stajyer öğrencileri belirlemek.
+l) Merkezdeki araştırma ve eğitim projelerinin
+gerçekleştirilmesine yönelik planlamaları ve uygulamaları gerçekleştirmek.
+Müdür
+yardımcısı
+MADDE 8 –
+(1) Müdür yardımcısı; Müdürün
+önerisi üzerine, Rektör tarafından Üniversitenin öğretim elemanları
+arasından üç yıllığına görevlendirilir.
+Yönetim
+Kurulu ve görevleri
+MADDE 9 –
+(1) Yönetim Kurulu; Müdür ve
+Rektör tarafından Üniversite öğretim elemanları arasından görevlendirilecek
+toplam beş üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır.
+Süresi dolan üye tekrar görevlendirilebilir. Yönetim Kurulu olağan olarak
+iki ayda bir kez toplanır. Müdür gerekli gördüğü durumlarda Yönetim
+Kurulunu olağanüstü toplantıya çağırır. Yönetim Kurulunda kararlar oy
+çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde karar
+verilmiş sayılır. Yönetim Kurulu yetkilerini uygun gördüğü ölçülerde Müdüre
+devredebilir.
+(2) Yönetim Kurulunun görevleri şunlardır:
+a) Merkezin bütçesini, kadro ihtiyacını, yıllık
+faaliyet raporunu ve faaliyet planlarını hazırlamak ve teklif etmek.
+b) Merkezin bütçesini görüşmek ve Rektörlüğe teklif
+etmek.
+c) Merkezin amaçlarının gerçekleşmesi ve yapacağı
+çalışmaların yürütülmesi için gerekli gördüğü kararları almak.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 10
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca
+Rektör tarafından görevlendirilecek personelce karşılanır.
+Harcama
+yetkilisi
+MADDE 11
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 12
+– (1) 2/6/2018
+tarihli ve 30439 sayılı Resmî Gazete’de yayımlanan Karadeniz Teknik
+Üniversitesi Psikolojik Danışma ve Rehberlik Uygulama ve Araştırma Merkezi
+Yönetmeliği yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 13
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14
+– (1) Bu Yönetmelik hükümlerini
+Trabzon Üniversitesi Rektörü yürütür.
