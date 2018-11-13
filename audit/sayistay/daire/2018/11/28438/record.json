@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "578",
+  "decision_date": "2018-11-13",
+  "source_id": 28438,
+  "chamber": "6",
+  "ilam_number": "40",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28438/",
+  "source_sha256": "a6a09af2c48f266cd4a5c7a66356314846adc53261666d86ee9e61ff18f82ba6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
