@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "144",
+  "decision_date": "2018-11-15",
+  "source_id": 28306,
+  "chamber": "8",
+  "ilam_number": "42",
+  "item_number": 6,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28306/",
+  "source_sha256": "ff31eed5fd51d7a1bb80dc85988d8e789b6d4b4b301a422d6d577e57af9f951a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
