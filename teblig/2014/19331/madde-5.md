@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+İçsel Bilgilere İlişkin Esaslar
+İçsel bilgilerin açıklanması
+MADDE 5 – (1) İçsel bilgiler ve bu bilgilere ilişkin daha önce kamuya açıklanan hususlardaki değişiklikler ortaya çıktığında veya öğrenildiğinde ihraççılar tarafından açıklama yapılır.
+(2) İçsel bilgilerin, ihraççıların bilgisi dışında, ihraççıların doğrudan veya dolaylı olarak toplam oy haklarında veya sermayesinde %10 veya daha fazla paya veya söz konusu orana bağlı olmaksızın yönetim kurulu üyesi seçme veya aday gösterme hakkı veren imtiyazlı payların %10 veya daha fazlasına sahip kişiler tarafından öğrenilmesi durumunda, ilgili kişiler tarafından söz konusu içsel bilgilere ilişkin kamuya açıklama yapılır.
+(3) İçsel bilgilerin bir ihraççı veya onun namına ya da hesabına hareket eden bir kişi tarafından işi veya görevinin olağan ifası sırasında üçüncü kişilere açıklanması halinde, bu bilgiler ihraççı tarafından kamuya açıklanır.
+(4) İçsel bilgilere erişimi olan kişinin, yasal bir düzenleme, esas sözleşme veya özel bir sözleşme gereğince içsel bilgileri gizli tutma yükümlülüğü varsa; bu maddenin ikinci ve üçüncü fıkra hükümleri bu kişiler hakkında uygulanmaz.
+(5) Kurulun finansal tablolara ilişkin düzenlemelerinde yer alan tanımlar çerçevesinde ihraççının ana ortaklığı ve bağlı ortaklıklarının faaliyetlerinde, finansal yapılarında ve yönetim/sermaye ilişkilerinde bir değişikliğin ortaya çıkması ve bu değişikliğin ihraççının faaliyetlerinde, finansal ve yönetim/sermaye yapısında önemli bir değişiklik meydana getirmesi durumunda; ihraççı tarafından bu madde hükümleri çerçevesinde kamuya açıklama yapılır.

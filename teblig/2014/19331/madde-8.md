@@ -1,0 +1,2 @@
+Olağan dışı fiyat ve miktar hareketleri
+MADDE 8 – (1) İhraççılar, sermaye piyasası araçlarının fiyatları veya işlem hacimlerinde olağan piyasa koşullarıyla açıklanamayan değişimler olduğunda ilgili borsanın talebi üzerine kamuya açıklama yapmak zorundadır. Bu açıklamada, kamuya henüz açıklanmamış özel durumların bulunup bulunmadığı belirtilir ve varsa 6 ncı madde hükümleri saklı kalmak üzere açıklanmamış tüm özel durumlara yer verilir.

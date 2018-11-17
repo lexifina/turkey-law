@@ -1,0 +1,2 @@
+KAP işleticisine ilişkin geçiş hükmü
+GEÇİCİ MADDE 1 – (1) 16 ncı maddenin ikinci fıkrası ile 23 üncü maddenin dördüncü fıkrasında belirtilen uygulamalara, gerekli geliştirme işlemlerinin tamamlanması sonrasında KAP işleticisi tarafından yapılacak duyuruyu takiben başlanır. Söz konusu duyuru yapılıncaya kadar, 16 ncı maddenin ikinci fıkrasında düzenlenen yükümlülük ihraççı tarafından yerine getirilir.

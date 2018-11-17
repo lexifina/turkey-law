@@ -1,0 +1,10 @@
+İçsel bilgilerin kamuya açıklanmasının ertelenmesi
+MADDE 6 – (1) İhraççı; sorumluluğu kendisine ait olmak üzere, meşru çıkarlarının zarar görmemesi için içsel bilgilerin kamuya açıklanmasını, yatırımcıların yanıltılmasına yol açmaması ve bu bilgilerin gizli tutulmasını sağlayabilecek olması kaydıyla erteleyebilir.
+(2) İçsel bilgilerin kamuya açıklanmasının ertelenme sebepleri ortadan kalkar kalkmaz, ihraççılar söz konusu içsel bilgileri bu Tebliğde yazılı olan esaslara uygun şekilde kamuya açıklar. Yapılacak açıklamada erteleme kararı ve bunun temelindeki sebepler belirtilir. Kurul, gerekli gördüğü takdirde, erteleme sebeplerinin yerinde olup olmadığını incelemeye yetkilidir. Açıklanması ertelenen içsel bilgiye konu olan olayın gerçekleşmemesi durumunda açıklama yapılmayabilir.
+(3) İhraççılar açıklanması ertelenen içsel bilgilerin gizliliğini sağlamak ve bu bilgilere erişimi kontrol etmekle yükümlüdür. Bu kapsamda ihraççılar;
+a) İçsel bilgilere erişimi olan kişiler listesinde yer alanlar haricindeki kişilerin bu bilgilere erişimini önleyecek etkin düzenlemeler yapmak,
+b) İçsel bilgilere erişimi olan kişilerin içsel bilgiler ile ilgili olarak Kanun ve ilgili mevzuatta yer alan yükümlülükleri kabul etmesini ve bu bilgilerin kötüye kullanımı veya yayılması ile ilgili yaptırımlardan haberdar olmasını sağlayacak gerekli önlemleri almak,
+c) İçsel bilgilerin gizliliğinin sağlanamaması halinde açıklanmasını sağlamak,
+zorundadır.
+(4) Ertelemenin ihraççının meşru çıkarlarının korunmasına olan etkisi, yatırımcıların yanıltılması riskini oluşturmadığı ve erteleme süresince bu bilginin gizliliğinin korunması için alınan tedbirler yönetim kurulu kararına bağlanır veya yönetim kurulu tarafından yetki verilmiş ise belirtilen hususlar hakkında yetki verilen kişinin yazılı onayı alınır.
+(5) 5 inci maddenin ikinci fıkrasında düzenlenen durumlarda, anılan kişiler de bu maddede yer alan erteleme hakkından yararlanabilir. Bu kişiler tarafından ihraççıya yapılacak bildirim üzerine bu maddenin dördüncü fıkrası hükmü uygulanır.

@@ -1,0 +1,2 @@
+Sermaye yapısına ve yönetim kontrolüne ilişkin değişiklikler
+MADDE 22 – (1) Bir gerçek veya tüzel kişinin ya da bu gerçek veya tüzel kişi ile birlikte hareket eden diğer gerçek veya tüzel kişilerin doğrudan veya dolaylı olarak bu bölüm kapsamındaki bir ihraççının sermayesindeki payının veya toplam oy haklarının %25, %50 veya %67 sine ulaşması veya söz konusu oranların altına düşmesi halinde, bu kişiler tarafından kamuya açıklama yapılır.

@@ -1,0 +1,2 @@
+İhraççıya ilişkin genel bilgilerin yayımlanması
+MADDE 20 – (1) (Değişik:RG-10/2/2017-29975) Tahsisli olarak satılmak üzere ihraç belgesi onaylanan ihraççılar ve fon kullanıcıları hariç olmak üzere, bu bölüm kapsamındaki ihraççılara ilişkin genel bilgilerin KAP’ta yer alan ilgili form kullanılarak yayımlanması ve bu bilgilerde herhangi bir değişiklik olduğunda, ihraççılar tarafından gerekli güncellemenin en geç iki iş günü içinde yapılması zorunludur.
