@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/131",
+  "source_id": 5423,
+  "date": "2018-11-19",
+  "title": "“Tüzel kişiliğe ait elektronik ortamda yer alan verilerin başka bir tüzel kişilik tarafından talep edilmesi” hakkında Kişisel Verileri Koruma Kurulunun 19/11/2018 tarihli ve 2018/131 sayılı Kararı Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5423/2018-131",
+  "source_sha256": "bd5ccb99fae8ed8d6a0a6837d217c58470ce2c3b7cde630acbd310950d0d8769",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
