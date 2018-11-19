@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1056",
+  "list_number": "1056",
+  "decision_date": "2018-11-19",
+  "title": "Güvenlik korucularının 31 Mart 2019 tarihinde yapılacak Mahalli İdareler Genel Seçiminde belediye başkanlığı, il genel meclisi üyeliği, belediye meclisi üyeliği ve muhtarlığa aday olmak için istifa etmelerine gerek olup olmadığı, istifa etmelerinin gerekli görülmesi halinde diğer kamu görevlileri gibi görevlerine dönüp dönemeyecekleri hususunda Yüksek Seçim Kurulunun 2018/1056 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77897/2018-1056.pdf",
+  "source_sha256": "9b50b8964df653854179e58cd0f9f3be7fcd013ebfaf56775f07df62949f4274",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-11-19",
+  "law_text_complete": false
+}
