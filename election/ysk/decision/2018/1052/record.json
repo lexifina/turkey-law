@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1052",
+  "list_number": "1052",
+  "decision_date": "2018-11-19",
+  "title": "31 Mart 2019 tarihinde yapılacak Mahalli İdareler Genel Seçiminde aday olmak isteyen belediye başkan yardımcıların istifa etmesi gerektiğine dair Yüksek Seçim Kurulunun 2018/1052 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77895/2018-1052.pdf",
+  "source_sha256": "76cf3638a19649f961d8e1e32dfe28467afa571d66be2268aae4d8a3b82750bb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-11-19",
+  "law_text_complete": false
+}
