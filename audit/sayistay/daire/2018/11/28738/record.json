@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10725",
+  "decision_date": "2018-11-20",
+  "source_id": 28738,
+  "chamber": "1",
+  "ilam_number": "151",
+  "item_number": 6,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28738/",
+  "source_sha256": "ec09cc1b65d44a6f127fb5feab99ec4ae103f7e787567e58ab81bb9907339a6c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
