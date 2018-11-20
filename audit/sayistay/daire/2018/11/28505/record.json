@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "580",
+  "decision_date": "2018-11-20",
+  "source_id": 28505,
+  "chamber": "6",
+  "ilam_number": "56",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28505/",
+  "source_sha256": "383807d313852a8cf8527b75c7a7e8611ae245f7d37691a69af78448a60d1599",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
