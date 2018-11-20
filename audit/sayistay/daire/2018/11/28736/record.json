@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10725",
+  "decision_date": "2018-11-20",
+  "source_id": 28736,
+  "chamber": "1",
+  "ilam_number": "151",
+  "item_number": 4,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28736/",
+  "source_sha256": "6a57d523621830c6ef47ac7e8fd6bc6c7b310a058128a4a6ef9be0fe65ac6508",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
