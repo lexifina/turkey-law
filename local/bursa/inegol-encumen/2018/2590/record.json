@@ -1,0 +1,25 @@
+{
+  "number": "2590",
+  "number_as_published": "2590",
+  "year": 2018,
+  "title": "BİRLEŞTİRME YOLA TERK, İFRAZ İŞLEMLERİ",
+  "decision_date": "2018-11-20",
+  "source": "https://ebelediye.inegol.bel.tr/MeclisEncumenKararlari/Index/?tur=ENCUMEN",
+  "official_document": null,
+  "source_sha256": "a7b3cd95418f88e9dd84eb6ebcc048a4ca26efbbe83dee1244edfa0fcb67d30f",
+  "issuer": "İnegöl Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2018-11-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.11.2018; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://ebelediye.inegol.bel.tr/MeclisEncumenKararlari/Index/?tur=ENCUMEN",
+  "official_search": "Karar Türü ENCUMEN, Yıl 2018 (the page's own search form)",
+  "record_scope": "one encümen decision (number, date; subject only when general)",
+  "subject_withheld": false
+}
