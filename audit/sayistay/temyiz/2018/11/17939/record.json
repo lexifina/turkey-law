@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45344",
+  "decision_date": "2018-11-21",
+  "source_id": 17939,
+  "chamber": "3",
+  "file_number": "41272",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17939/",
+  "source_sha256": "e56d833ffb96623f82cc5e27aa57cac3d0b08feeb8edf24429a1ea7ebeb5ef0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
