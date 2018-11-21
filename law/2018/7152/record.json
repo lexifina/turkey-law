@@ -1,0 +1,68 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7152",
+  "year": 2018,
+  "title": "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2018-11-21",
+  "adopted_as_published": "21/11/2018",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.11.2018 No: 30611 M.",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307152.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 14 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c004/tbmm27004019ss0014.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862801,
+      "title": "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "21/11/2018",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307152.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 14 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c004/tbmm27004019ss0014.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 5,
+          "sitting": 20,
+          "sitting_date": "2018-11-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c005/tbmm27005020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c005/tbmm27005fih.pdf",
+          "pages": [
+            "82:93",
+            "95:99",
+            "101:102",
+            "104:108",
+            "111:123",
+            "134:136",
+            "138:147",
+            "148:152",
+            "153"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2018-11-21",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 21/11/2018; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
