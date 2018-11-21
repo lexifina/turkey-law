@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45351",
+  "decision_date": "2018-11-21",
+  "source_id": 17966,
+  "chamber": "5",
+  "file_number": "43368",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17966/",
+  "source_sha256": "feaa866bf13703f0b5403112a086ab8915f65c89bf117b07a49055e05d374d33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
