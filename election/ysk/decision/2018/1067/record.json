@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1067",
+  "list_number": "1067",
+  "decision_date": "2018-11-21",
+  "title": "İlçe seçim kurullarında görev alan siyasi partili üyelerin, 2839 sayılı Kanunun 18. maddesinde belirtilen; adaylık için görevden çekilmesi gerekenler arasında bulunmadığından, 31 Mart 2019 tarihinde yapılacak olan Mahalli İdareler Seçimlerinde aday olabilmeleri için istifa etmelerinin gerekmediğine dair Yüksek Seçim Kurulunun 2018/1067 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77899/2018-1067.pdf",
+  "source_sha256": "7d8ea96cea4f40fb4f4b3e70773e5a22f22965d3918ace517c3f528f6fbe9a94",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-11-21",
+  "law_text_complete": false
+}
