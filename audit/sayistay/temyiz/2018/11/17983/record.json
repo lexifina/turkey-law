@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45368",
+  "decision_date": "2018-11-21",
+  "source_id": 17983,
+  "chamber": "7",
+  "file_number": "41523",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/17983/",
+  "source_sha256": "02e4ffad0f7b276e16f95ae7b13f3374e8e7c155eb61866062b72f4329821e3f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
