@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "582",
+  "decision_date": "2018-11-22",
+  "source_id": 28394,
+  "chamber": "6",
+  "ilam_number": "38",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28394/",
+  "source_sha256": "6c8fb941b43d9f3f1b62c71bf0ac760632df5a1b2978118cae3e048ae534f6e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
