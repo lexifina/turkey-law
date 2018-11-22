@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8192",
+  "decision_date": "2018-11-22",
+  "title": "Mevcut olan Perakende Satış Sözleşmelerinin yeni bir sözleşme yapılmasına gerek olmaksızın yayımlanan sözleşme hükümleri esas alınarak uygulanmasına ilişkin",
+  "resmi_gazete_date": "2018-11-30",
+  "resmi_gazete_number": "30611",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ddR+8bik000=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ddR+8bik000=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bd3Gw5pqo/4="
+  ],
+  "source_sha256": "13a8f7df6818cb9ee452ae262f506776ab0d2ce52bd56d2aacaac02c7e273d54",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-22",
+  "law_text_complete": true
+}
