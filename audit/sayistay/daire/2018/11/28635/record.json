@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "289",
+  "decision_date": "2018-11-22",
+  "source_id": 28635,
+  "chamber": "7",
+  "ilam_number": "72",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28635/",
+  "source_sha256": "aafdf12231f7f92f027c05f1919e06ca86cf70d44f9ac34eea1e138ffbceff3c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
