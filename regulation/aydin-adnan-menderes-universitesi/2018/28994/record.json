@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-22",
+      "22.11.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30603",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2018/28994",
+  "published": "2018-11-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28994&MevzuatTertip=5",
+  "source_bytes": 39503,
+  "source_id": "8.5.28994",
+  "source_sha256": "de4dbafb76001be7168764a295d6b5aeecfd0469d7eb78c32453ac42d2e2ea38",
+  "text_status": "as-enacted",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ DİJİTAL DÖNÜŞÜM EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 1797
+}
