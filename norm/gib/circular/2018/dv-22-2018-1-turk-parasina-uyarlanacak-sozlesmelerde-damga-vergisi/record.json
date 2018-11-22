@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB sirkulerTarih: 2018-11-22T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "circular",
+  "official_date": "2018-11-22",
+  "official_number": "DV-22/2018-1/Türk Parasına Uyarlanacak Sözleşmelerde Damga Vergisi",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/sirkuler/1007",
+  "source_id": "sirkuler:1007",
+  "source_row_sha256": "f9a68c9843837bd3f81430b593eeabf13d557797efd0e58199d28fe0b80a30a0",
+  "title": "85 sayılı Cumhurbaşkanı Kararına göre Türk parasına uyarlanacak sözleşmelere ilişkin damga vergisi uygulaması hakkında.",
+  "version_label": "as-enacted",
+  "word_count": 1064
+}
