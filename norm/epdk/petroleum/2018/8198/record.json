@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8198",
+  "decision_date": "2018-11-22",
+  "title": "Shell&Turcas Petrol A.Ş.’nin; Derince Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2018-11-27",
+  "resmi_gazete_number": "30608",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PdMoPH/o9wc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PdMoPH/o9wc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8q/p148Veno="
+  ],
+  "source_sha256": "968dea51413e13c4455bd6d15945b4fac8a17f42947f701f05fa7deb4f68500c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-22",
+  "law_text_complete": true
+}
