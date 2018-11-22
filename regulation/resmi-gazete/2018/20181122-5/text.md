@@ -1,0 +1,316 @@
+22 Kasım 2018 PERŞEMBE
+Resmî Gazete
+Sayı : 30603
+YÖNETMELİK
+Aydın Adnan Menderes Üniversitesinden:
+AYDIN ADNAN MENDERES ÜNİVERSİTESİ DİJİTAL DÖNÜŞÜM
+EĞİTİM,
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Aydın
+Adnan Menderes Üniversitesi Dijital Dönüşüm Eğitim, Uygulama ve Araştırma
+Merkezinin amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim
+organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik; Aydın Adnan
+Menderes Üniversitesi Dijital Dönüşüm Eğitim, Uygulama ve Araştırma
+Merkezinin amaçlarına, faaliyet alanlarına, etkinliklerine, yönetim
+organlarının görevlerine ve çalışma esaslarına ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun
+7 nci maddesinin birinci fıkrasının (d) bendinin
+(2) numaralı alt bendi ile 14 üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Dijital dönüşüm: Hızlı gelişen teknolojik imkanlar ve değişen toplumsal ihtiyaçlar doğrultusunda,
+organizasyonların daha etkin/verimli hizmet vermek ve kullanıcı memnuniyeti
+sağlamak üzere; insan-iş süreçleri-teknoloji unsurlarında gerçekleştirdiği
+bütüncül dönüşümü,
+b) Danışma Kurulu: Aydın Adnan Menderes
+Üniversitesi Dijital Dönüşüm Eğitim, Uygulama ve Araştırma Merkezinin
+Danışma Kurulunu,
+c) Merkez: Dijital Dönüşüm Eğitim, Uygulama ve
+Araştırma Merkezini,
+ç) Müdür: Merkezin Müdürünü,
+d) Rektör: Aydın Adnan Menderes Üniversitesi
+Rektörünü,
+e) Üniversite: Aydın Adnan Menderes Üniversitesini,
+f) Yönetim birimleri: Merkezin Yönetim Birimlerini,
+g) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 –
+(1) Merkezin amaçları şunlardır:
+a) Çok çeşitli araştırma yöntemleri kullanarak
+Aydın şehrinin ve Üniversitenin bölgesel, ulusal ve küresel rekabette
+mukayeseli üstünlük kazandıracak alanlarını tespit edip süreli yayınlar ve
+medya yoluyla deklare etmek.
+b) Araştırmalar, bilimsel yayınlar ve projeler
+ışığında sadece stratejik tavsiyeler değil Ar-Ge
+çalışmalarını özendirmek, teşvik etmek ve sonuçlarının ürünleştirilmesi
+için bilimsel etkinlikler, yarışmalar ve hızlandırıcı girişimci
+etkinlikleri düzenlemek.
+c) Merkeze bağlı özel bir izci ekip kurarak
+Aydın’da ve bölgede gerçekleşen yarışmalarda veya medya gösterimlerinde
+yetenekli proje sahiplerine ulaşmak, bunları desteklemek ve girişimcilerle
+buluşturan menajerlik sistemini oluşturmak.
+ç) Ekonomik kalkınma, sosyal gelişme ve millî
+güvenlik hedefleri doğrultusunda insan kaynağı ve diğer tüm kaynakların
+geliştirilmesine yönelik eğitimler gerçekleştirmek ve araştırma destek
+programları için yönlendirici hizmetlerde bulunmak.
+d) Araştırma altyapılarıyla ilgili genel strateji
+çalışmaları yapmak ve medya çalışmalarıyla bu stratejilerin gerçekleştirilmesi
+için gerekli olan lobi hareketini başlatmak.
+e) İnternet ortamının ekonomik, ticarî ve sosyal
+hayat ile bilim, eğitim ve kültür alanında etkin, yaygın, kolay erişilebilir
+olarak kullanımı teşvik edecek politika ve strateji önerileri hazırlamak.
+f) Merkezin kuruluş amacına ve Yükseköğretim
+Kanununun amaç ve ilkelerine uygun diğer çalışmaları yapmak.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkezin faaliyet alanları şunlardır:
+a) Üniversitenin, Aydın şehrinin ve bölgenin
+ekonomik kalkınma, sosyal gelişim ve millî güvenlik hedefleri doğrultusunda
+attığı Ar-Ge, patent, faydalı model ve
+girişimcilik faaliyetlerini takip etmek, araştırmak, süreli yayınlarla farkındalığını arttırmak ve desteklemek.
+b) Üniversitenin iş sağlığı ve güvenliği alanında
+gerçekleştirdiği güçlü misyonunu vurgulayan ve
+sürdürülebilirliği destekleyen Ar-Ge faaliyetleri
+yürütmek.
+c) Üniversitenin sıfır atık entegrasyonu,
+altyapı gereksinimleri, uyumlaştırma süreçleri ve süreç yönetimini ölçümlemek,
+kontrol etmek, yönetmek için büyük veri temelli Ar-Ge
+çalışmaları yapmak.
+ç) Üniversitelerde e-Devlet sistemi altyapısının entegrasyonu ve sıfır bürokrasi projesi için yazılım ve
+donanım temelli çözümler ve Ar-Ge faaliyetleri
+yürütmek.
+d) Eğitimde güncel dijital dönüşüm gelişmelerini
+araştırmak, Üniversitede uygulama ortamları hazırlamak, eğitimler vermek ve
+Ar-Ge faaliyetleriyle geliştirmek.
+e) Acil durum, afet yönetimi ve sınır güvenliği
+başta olmak üzere insansız hava araçlarının kullanım alanlarıyla ilgili
+araştırmalar yapmak, uygulama ortamları oluşturmak, eğitimler
+gerçekleştirmek ve Ar-Ge faaliyetleri oluşturmak.
+f) Endüstri 4.0 kavramı
+ışığında otonom robotlar, bulut bilişim, büyük veri ve yapay zekâ alanında
+gelişmeleri araştırmak, uygulama ortamları oluşturmak, süreli yayınlarla farkındalığı arttırmak, eğitim faaliyetleri düzenlemek
+ve Ar-Ge faaliyetleri gerçekleştirmek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür,
+b) Yönetim Kurulu,
+c) Danışma Kurulu.
+Müdür ve
+görevleri
+MADDE 8 –
+(1) Müdür; Üniversite öğretim
+üyeleri/elemanları arasından, Rektör tarafından üç yıl süre ile görevlendirilir.
+Görev süresi biten Müdür tekrar görevlendirilebilir. Müdürün, kesintisiz
+olarak üç aydan fazla görevi başında bulunmaması durumunda, Rektör
+tarafından yeni bir Müdür görevlendirilir. Müdür, Merkezin tüm faaliyetlerinden
+Rektöre karşı sorumludur.
+(2) Müdürün önerisi ile Müdüre çalışmalarında
+yardımcı olmak üzere Yönetim Kurulu üyeleri arasından en fazla iki kişi,
+Rektör tarafından üç yıl süre ile müdür yardımcısı olarak
+görevlendirilebilir.
+(3) Müdür yardımcıları, Müdürün verdiği görevleri
+yürütür ve Müdürün görevi başında bulunmadığı zamanlarda yerine vekâlet
+eder. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de
+kendiliğinden sona erer. Süresi biten müdür yardımcısı, yeniden
+görevlendirilebilir. Rektör gerektiğinde aynı usulle müdür yardımcılarını
+değiştirebilir. Müdür ve müdür yardımcılarının bulunmadığı durumlarda
+Yönetim Kurulu üyelerinden bir üye Müdüre vekillik eder.
+(4) Müdür, Merkezi temsil eder ve Merkezin amaçları
+doğrultusunda yönetimi ve işleyişinden birinci derecede sorumlu olup, bu
+yönde bütün tedbirleri alır ve uygular.
+(5) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Merkezin bu Yönetmelik ve ilgili mevzuata uygun
+olarak çalışmasını sağlamak.
+c) Gündemi belirleyerek Yönetim Kurulunu toplantıya
+çağırmak ve toplantıya başkanlık etmek.
+ç) Yönetim Kurulunca alınan kararları hayata
+geçirmek.
+d) Merkezin idari ve mali işlerini yürütmek,
+birimler arasında koordinasyonu ve işbirliğini sağlamak.
+e) Merkezin bilimsel, eğitsel ve uygulamalı
+faaliyetleri ile Merkezce desteklenen araştırma projelerinin yürütülüşünü
+ve işleyişini izlemek ve denetlemek, Yönetim Kuruluna bilgi vermek.
+f) Yönetim Kurulunca hazırlanan ve uygulamaya
+konulan etkinlikler hakkında Rektöre bilgi vermek.
+g) Merkezin personel ihtiyacını tespit etmek ve
+Yönetim Kurulunun görüşünü alarak Rektörlüğe sunmak.
+ğ) Merkez bünyesinde çalışan personelin görev ve
+sorumluluklarını belirlemek ve bu görevlerin; bu Yönetmelik ve diğer ilgili
+mevzuat hükümlerine göre sürdürülüp sürdürülmediğini denetlemek.
+h) Her faaliyet dönemi sonunda Merkezin çalışmaları
+ile ilgili yıllık faaliyet raporunu ve sonraki yıla ilişkin faaliyet programını
+Yönetim Kurulunun görüşünü alarak Rektörlüğe sunmak.
+ı) Merkez çalışmalarının gerektirdiği
+görevlendirmeleri yapmak.
+i) Merkezin yıllık ve uzun vadeli yatırım
+bütçelerini hazırlamak ve Yönetim Kurulunun görüşünü alarak süresi içinde
+Rektöre sunmak.
+j) Merkezin finans kaynaklarının geliştirilmesi ve
+bunların en uygun biçimde kullanımını sağlamak amacıyla gerekli çalışmaları
+yapmak.
+k) Danışma Kurulunun gündemini belirlemek.
+l) Merkezce verilen hizmetleri planlamak ve
+uygulamaları denetlemek.
+m) Her faaliyet dönemi sonunda ve ayrıca isteği
+durumunda Rektöre sunulmak üzere, Merkezin araştırma ve uygulama
+faaliyetleri, işleyişi ve genel durumu hakkında Yönetim Kurulunun görüşünü
+de alarak rapor hazırlamak.
+Yönetim
+Kurulu ve görevleri
+MADDE 9 –
+(1) Yönetim Kurulu, Merkezin karar
+organıdır.
+(2) Yönetim Kurulu; Müdürün önerisi ile Rektör
+tarafından üç yıl için görevlendirilen altı üye ve Müdür olmak üzere toplam
+yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Süresi
+dolmadan boşalan üyelik için veya Üniversite dışında altı aydan uzun süreli
+görevlendirilen üyelerin yerine, kalan süreyi tamamlamak üzere aynı
+yöntemle yeni görevlendirme yapılır.
+(3) Yönetim Kurulu, en az iki ayda bir toplanır.
+Toplantı günü ve yeri üyelere toplantı tarihinden en az dört gün önce yazı
+ile bildirilir. Müdür gerekli gördüğünde Yönetim Kurulunu olağanüstü
+toplantıya çağırabilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla
+toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların
+eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+Müdür, ihtiyaç duyulduğunda Merkezde çalışan diğer uzman, eğitmen ve
+akademik personeli, görüş almak üzere oy hakkı olmadan, Yönetim Kurulu
+toplantılarına davet edebilir. Müdürün olmadığı zamanlarda toplantıya müdür
+yardımcısı başkanlık eder.
+(4) Yönetim Kurulunun görevleri aşağıda
+belirtilmiştir:
+a) Akademik bir organ olarak; Merkezin amacı ve
+faaliyet alanlarına ilişkin konularda Üniversitenin ilgili birimleri, kamu
+kurum ve kuruluşları, özel sektör ve sivil toplum kuruluşları ile birlikte
+yürütülecek yerel, ulusal ve uluslararası bilimsel, eğitsel, uygulamalı
+faaliyetler için gerekli esasları ve ilkeleri belirlemek, protokolleri
+hazırlamak ve gerekli diğer düzenlemeleri yapmak.
+b) Merkezin; bilimsel, eğitsel ve uygulamalı
+boyutta beş yıllık stratejik planını ve bu plana bağlı yıllık planları ve
+programları hazırlayarak Rektörün onayına sunmak ve bu planların
+uygulanmasını sağlamak.
+c) Merkezin; planlanan faaliyetleri, uygulamaları,
+idari, mali ve bütçe konuları ile Yönetim Kurulunun, personel ve diğer kişi
+ve kurumların araştırma, eğitim, uygulama, danışmanlık ve bilimsel
+faaliyetler konularındaki görüş ve taleplerini değerlendirip karara
+bağlamak.
+ç) Her faaliyet dönemi sonunda yıllık faaliyet
+raporlarını görüşüp karara bağlamak, Rektörün onayına sunmak.
+d) Merkez bünyesinde yapılacak çalışmaların ve
+projelerin konularına ve özelliklerine göre yönetim birimlerine bağlı
+geçici veya sürekli çalışma grupları kurmak.
+e) Yönetim birimleri ve çalışma gruplarının
+koordinasyonunu sağlamak.
+f) Danışma Kurulunun görüş ve önerilerini
+değerlendirerek karara bağlamak.
+g) Merkezin idari ve teknik personel ihtiyaçlarını
+ve niteliklerini belirlemek, bu konuda Rektöre görüş bildirmek.
+ğ) Merkezin araç-gereç, malzeme, teçhizat ve
+benzeri diğer ihtiyaçları hakkında Rektöre görüş bildirmek, Rektörün isteği
+halinde bu doğrultuda rapor oluşturmak.
+h) İlgili mevzuatla verilecek diğer görevleri
+yapmak.
+Danışma
+Kurulu ve görevleri
+MADDE 10
+– (1) Danışma Kurulu; dijital
+dönüşüm konusunda bilgi ve tecrübesi olan yurt içi ve yurt dışında
+çalışmalar yapmış, birikimlerinden yararlanılabilecek Üniversitenin öğretim
+elemanları, mezunları ve Üniversite dışından yetkinliğini kanıtlamış
+kişiler arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç
+yıllığına görevlendirilen en az yedi en çok onbeş
+üyeden oluşur. Görev süresi biten üyeler yeniden görevlendirilebilir. Görev
+süresi dolmadan herhangi bir sebepten dolayı üyeliği sona eren üyenin
+yerine, geriye kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+Kurula oy hakları olmaksızın Yönetim Kurulu üyeleri de katılabilir.
+(2) Rektör veya Rektörün görevlendireceği rektör
+yardımcısı, Danışma Kurulunun doğal başkanıdır. Müdür, Danışma Kurulu toplantılarına
+katılır ve Rektör veya rektör yardımcısının bulunmaması durumunda kurula
+vekâleten başkanlık eder. Danışma Kurulu, her faaliyet yılında en az bir
+kez olağan olarak salt çoğunlukla toplanır. Rektör, gerekli gördüğü
+hallerde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+(3) Danışma Kurulu üyeleri, görevlendirme
+tarihinden itibaren en geç bir ay içinde toplanır ve bir başkan yardımcısı
+ile bir raportör seçerler. Danışma Kurulu
+üyeliğine seçilme ve üyeliğe son verme Yönetim Kurulu üye tam sayısının
+salt çoğunluğunun kararı ve Rektörün onayı ile olur.
+(4) Danışma Kurulu üyeleri kişisel görüşlerini
+yazılı olarak Müdüre sunabilirler.
+(5) Danışma Kurulu, Merkezin stratejik planları ve
+etkinlik alanlarıyla ilgili konularda değerlendirmeler yaparak, Yönetim
+Kuruluna görüş ve tavsiyelerde bulunur.
+Uygulama
+birimleri
+MADDE 11
+– (1) Uygulama birimleri, Merkezin
+bünyesinde gerçekleştirilecek bilimsel ve eğitsel uygulamalı çalışmaları ve
+diğer hizmetleri etkin ve verimli bir şekilde yürütmek amacıyla Yönetim
+Kuruluna bağlı olarak çalışan fonksiyonel organlardır. Uygulama birimlerinin
+başkanları Müdürün önerisi ve Yönetim Kurulunun onayı ile görevlendirilir.
+(2) Merkezin uygulama birimleri şunlardır:
+a) Bilimsel faaliyetler ve araştırma projeleri
+birimi.
+b) Özel hizmetler birimi.
+c) Eğitim faaliyetleri birimi.
+ç) Afet ve acil durum yönetim birimi.
+(3) Her bir uygulama biriminin altında çalışma
+grupları oluşturulabilir. Bu çalışma gruplarının başkanları ilgili uygulama
+birim başkanının önerisi ve Yönetim Kurulu onayıyla görevlendirilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Personel
+ihtiyacı
+MADDE 12
+– (1) Merkezin akademik, teknik,
+uzman ve idari personel ihtiyacı, Müdürün önerisi üzerine 2547 sayılı
+Yükseköğretim Kanununun 13 üncü maddesine göre Rektör tarafından
+görevlendirilecek personel ile karşılanır.
+Ekipman
+ve demirbaşlar
+MADDE 13
+– (1) Merkez tarafından
+desteklenen bilimsel, eğitsel ve uygulamalı faaliyetler kapsamında alınan
+her türlü alet, donanım ve demirbaşlar, Merkez hizmetlerine ve gerektiğinde
+de Üniversitenin kullanımına tahsis edilir.
+(2) Merkezin hizmetlerini yerine getirebilmesi için
+gerekli mekân, araç ve gereç ihtiyacı ilgili mevzuat hükümlerine göre
+Rektörlük tarafından karşılanır.
+Harcama
+yetkilisi
+MADDE 14
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+Hüküm
+bulunmayan haller
+MADDE 15
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili diğer mevzuat hükümleri ile Yönetim Kurulu ve
+Senato kararları uygulanır.
+Yürürlük
+MADDE 16
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Yönetmelik hükümlerini
+Aydın Adnan Menderes Üniversitesi Rektörü yürütür.
