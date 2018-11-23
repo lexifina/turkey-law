@@ -1,0 +1,228 @@
+23 Kasım 2018 CUMA
+Resmî Gazete
+Sayı : 30604
+YÖNETMELİK
+Üsküdar Üniversitesinden:
+ÜSKÜDAR
+ÜNİVERSİTESİ POLİTİK PSİKOLOJİ ÇALIŞMALARI
+UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; Üsküdar
+Üniversitesi Politik Psikoloji Çalışmaları Uygulama ve Araştırma Merkezinin
+(PPM) amaçlarına, faaliyet alanlarına, yönetim organlarına, yönetim
+organlarının görevlerine ve çalışma şekline ilişkin usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, Üsküdar
+Üniversitesi Politik Psikoloji Çalışmaları Uygulama ve Araştırma Merkezinin
+(PPM) amaçları, faaliyet alanları, organları, organlarının görevleri ve
+çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik; 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci
+fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez: Üsküdar Üniversitesi Politik Psikoloji
+Çalışmaları Uygulama ve Araştırma Merkezini (PPM),
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Üsküdar Üniversitesi Rektörünü,
+d) Senato: Üsküdar Üniversitesi Senatosunu,
+e) Üniversite: Üsküdar Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin
+Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 –
+(1) Merkezin amaçları şunlardır:
+a) Batının Doğuya bakış açısındaki yanlışlar ve
+önyargılar ile mücadele etmek.
+b) Politik Psikoloji teorisini merkezine koyan
+araştırma ve uygulama faaliyetlerinin yapılmasını sağlamak.
+c) Üniversite bünyesinde tarihten coğrafyaya, dil
+bilimlerinden ilahiyata ve cinsiyet çalışmalarına kadar bir dizi ilgili
+bilim dalında ve farklı çalışma alanlarında Politik Psikoloji
+perspektifinin geliştirilmesi ve araştırma alanlarının desteklenmesini
+sağlamak.
+ç) Uluslararası ilişkiler teorisine Türkiye ve
+içinde bulunduğu bölge ile alakalı olarak teori ve uygulama alanlarında
+üretilen bilgiye politik bakış açısından katkıda bulunmak.
+d) Politik Psikoloji teori merkezli bilgi üretimi
+konusunda Üniversite bünyesinde bilinçlendirme ve bilgilendirme çalışmaları
+yapmak.
+e) Politik Psikoloji yürütecek kadroların
+yetiştirilmesine yönelik faaliyetlerde bulunmak.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkez, 5 inci maddede öngörülen amaçlara
+ulaşabilmek için aşağıdaki alanlarda faaliyet yürütür:
+a) Türkiye içinde ve dışında, Politik Psikoloji
+teorisi ile ilgili doğrudan veya dolaylı her konuda araştırma ve inceleme
+projeleri yapmak, yaptırmak, bu gibi çalışmalara katılmak, desteklemek.
+b) Üniversitede lisans, yüksek lisans ve doktora
+düzeyinde Politik Psikoloji teorisi ile ilgili ders ve seminerler
+verilmesini sağlamak.
+c) Kamu kuruluşları ve diğer tüzel kişilerden
+gelecek istekler doğrultusunda konu ile alakalı incelemeler ve araştırmalar
+yapmak, eğitim ve danışmanlık hizmeti sunmak.
+ç) Yayınlar yapmak, yaptırmak ve teşvik etmek, bu
+konuda kitaplık ve arşiv oluşturmak.
+d) Faaliyetleriyle ilgili olarak Türkiye dışındaki
+yabancı kuruluşlarla iş birliği yapmak.
+e) Merkezin amaçları doğrultusunda Üniversite ve
+ilgili kurum ve kuruluşlarla iş birliği yaparak sosyal ve kültürel
+etkinlikler düzenlemek.
+f) Yönetim Kurulunun kararlaştıracağı diğer
+faaliyetlerde bulunmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları, Çalışma Birimleri ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+görevleri
+MADDE 8 –
+(1) Müdür, Rektör tarafından
+Üniversitenin öğretim elemanları veya Üniversite dışından konusunda uzman
+kişiler arasından üç yıl süre için görevlendirilir. Müdür tam zamanlı
+yönetici olarak görev yapar. Görev süresi biten Müdür yeniden görevlendirilebilir.
+Müdürün altı aydan fazla görevinin başında bulunamayacağı durumlarda görevi
+sona erer.
+(2) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim Kurulunun aldığı kararları ve çalışma
+programını uygulamak.
+c) Merkezi, amaçları doğrultusunda yönetmek.
+ç) Uygulanan programlara ve faaliyetlere ilişkin
+koordinasyonu sağlamak.
+d) Merkezin yıllık faaliyet raporunu ve bir sonraki
+yıla ait çalışma programını düzenlemek ve Yönetim Kurulunun görüşünü
+aldıktan sonra Rektörün onayına sunmak.
+e) Yönetim Kuruluna ve Danışma Kuruluna başkanlık
+yapmak.
+f) Çalışma programları hazırlamak, Yönetim Kuruluna
+önermek, Yönetim Kurulunca karara bağlanan çalışma gruplarını yürütmek,
+yönlendirmek ve denetlemek.
+g) Oluşturulan çalışma gruplarının faaliyetleri,
+plan, program ve projeleriyle ilgili olarak Yönetim Kurulunu
+bilgilendirmek.
+ğ) Eğitim, kurs, çalıştay, kongre, sertifika
+programı, sempozyum, seminer ve benzeri program ve projelerin
+düzenlenmesini, yürütülmesini, yönlendirilmesini ve denetimini sağlamak.
+h) Personel alımı ve görevlendirilmesiyle ilgili
+teklifleri Rektöre sunmak.
+(3) Müdüre çalışmalarında yardımcı olmak üzere
+Rektör tarafından Müdür yardımcıları görevlendirilebilir. Müdürün görevi
+sona erdiğinde yardımcılarının da görevi sona erer.
+Yönetim
+Kurulu ve görevleri
+MADDE 9 –
+(1) Yönetim Kurulu; Müdür ve
+Üniversite öğretim elemanları veya konusunda uzman kişiler arasından Rektör
+tarafından görevlendirilecek en az 4 üyeden oluşur. Yönetim Kurulu
+toplantılarına Müdür başkanlık eder. Yönetim Kurulu üyelerinin görev süresi
+üç yıldır. Görev süresi biten üye yeniden görevlendirilebilir.
+(2) Yönetim Kurulu, Müdürün daveti üzerine yılda en
+az iki defa olağan ve gerektiğinde olağanüstü toplanarak, Müdür tarafından
+hazırlanan gündem maddelerini görüşüp karar alır. Yönetim Kurulu salt
+çoğunluk ile toplanır ve kararlar oy çokluğu ile alınır.
+(3) Yönetim Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleriyle ilgili eğitim
+programlarının hazırlanması ve planlanması, katılım koşullarının belirlenmesi,
+eğitim verecek birimlerle gerekli koordinasyonun sağlanması konularında
+kararlar almak.
+b) Faaliyet raporunun düzenlenmesine ilişkin
+esasları tespit etmek ve sunulan raporu değerlendirmek.
+c) Bir sonraki döneme ait çalışma programının
+düzenlenmesine ilişkin esasları tespit etmek ve sunulan raporu
+değerlendirmek.
+ç) Eğitim programları ile bu programların sonunda
+katılım belgesi, başarı belgesi ve benzeri belgeleri düzenleyerek vermek.
+Danışma
+Kurulu ve görevleri
+MADDE 10
+– (1) Danışma Kurulu; Merkezin
+faaliyet alanlarında çalışmalar yürüten veya çalışmalarıyla Merkeze katkısı
+olacağı düşünülen, Üniversite öğretim elemanları ile dışarıdan, ulusal ve
+uluslararası düzeyde faaliyet gösteren kişi ve kuruluş temsilcileri
+arasından Rektör tarafından görevlendirilen en fazla 15 üyeden oluşur. Danışma
+Kuruluna Müdür başkanlık eder.
+(2) Danışma Kurulu üyelerinin görev süresi üç
+yıldır. Süresi biten üye tekrar görevlendirilebilir. Danışma Kurulu yılda
+en az bir kez Müdürün çağrısıyla toplanır.
+(3) Danışma Kurulu, Merkezin faaliyetleri ile
+ilgili olarak değerlendirmelerde bulunur ve istişari nitelikte görüş
+bildirir.
+(4) Danışma Kurulu yılda bir kez olağan olarak
+toplanabilir. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü
+toplantıya çağırabilir. Danışma Kurulu üye tam sayısının salt çoğunluğu ile
+toplanır.
+(5) Danışma Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleri ile ilgili
+değerlendirmeler yapmak ve önerilerde bulunmak.
+b) Faaliyetler konusunda Yönetim Kuruluna
+danışmanlık yapmak.
+c) İlgili kuruluşlar arasında iş birliği sağlamak
+ve Merkez faaliyetleri hakkında önerilerde bulunmak.
+Çalışma
+birimleri ve görevleri
+MADDE 11
+– (1) Merkezin çalışma konularıyla
+ilgili faaliyetlerin verimliliğini ve etkinliğini artırmak üzere proje,
+yayın, saha araştırmaları, halkla ilişkiler gibi sürekli veya geçici
+çalışma birimleri oluşturulabilir. Birimler, birim başkanı veya bir Yönetim
+Kurulu üyesi sorumluluğunda çalışmaları planlamak, koordine etmek ve
+yürütmek üzere görevlendirilen Üniversitedeki ilgili personelden oluşur.
+(2) Çalışma birimleri; Müdürün teklifi ve
+Rektörlüğün onayıyla kurulur, ilgili başkan veya Müdürün görevlendireceği
+kişi başkanlığında toplanır ve yapılan çalışmalarla ilgili olarak Müdürlüğe
+önerilerde bulunur. Bu birimlerde yer alan elemanlar, Yönetim Kurulunca
+öngörülen süreler için görevlendirilirler. Müdür, söz konusu birimlerin
+faaliyetlerini izler ve denetler. Süresi dolan birim elemanları Yönetim
+Kurulunca yeniden görevlendirilebilir.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+ihtiyacı
+MADDE 12
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca,
+Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel
+tarafından karşılanır.
+Harcama
+yetkilisi
+MADDE 13
+– (1) Bütçe harcamalarında
+Merkezin harcama yetkilisi Rektördür. Rektör bu yetkisini Müdüre
+devredebilir.
+Hüküm
+bulunmayan haller
+MADDE 14
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato ve Yönetim
+Kurulu kararları uygulanır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Üsküdar Üniversitesi Rektörü yürütür.
