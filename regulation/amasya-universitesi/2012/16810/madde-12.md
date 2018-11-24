@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Merkez Danışma Kurulu; bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişilerden oluşmak üzere, Merkezden yararlanan akademik kuruluşların eşit temsil edilmesine özen gösterilerek, Rektör tarafından üç yıl süreyle görevlendirilen en fazla onbeş kişiden oluşur. Merkez Müdürü ve müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki defa toplanır.
