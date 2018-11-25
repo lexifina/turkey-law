@@ -1,0 +1,223 @@
+25 Kasım 2018 PAZAR
+Resmî Gazete
+Sayı : 30606
+YÖNETMELİK
+Necmettin Erbakan Üniversitesinden:
+NECMETTİN ERBAKAN ÜNİVERSİTESİ EROL GÜNGÖR TÜRK
+DİASPORASI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı,
+Necmettin Erbakan Üniversitesi Erol Güngör Türk Diasporası Uygulama ve
+Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına,
+yönetim organlarının görevlerine ve çalışma şekline ilişkin usul ve
+esasları düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, Necmettin
+Erbakan Üniversitesi Erol Güngör Türk Diasporası Uygulama ve Araştırma
+Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim
+organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci
+fıkrasının (d) bendinin (2) numaralı alt bendi ile 14 üncü maddesine
+dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez: Necmettin Erbakan Üniversitesi Erol
+Güngör Türk Diasporası Uygulama ve Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Necmettin Erbakan Üniversitesi
+Rektörünü,
+d) Senato: Necmettin Erbakan Üniversitesi
+Senatosunu,
+e) Üniversite: Necmettin Erbakan Üniversitesini,
+f) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin
+Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 –
+(1) Merkezin amaçları şunlardır:
+a) Türkiye Cumhuriyeti dışında ikamet eden, Türk
+Diasporasına sosyal ve kültürel bağlarla bağlı soydaş, akraba veya
+vatandaşların, sosyal ve hukuki durumlarını incelemek.
+b) Yurt dışında yaşayan Türkiye kökenlilerin
+karşılaştığı hak ihlallerine yönelik gelişmelerin diğer azınlıkların elde
+ettikleriyle karşılaştırılarak ve yıl yıl takip edilerek raporlanmasını
+sağlamak.
+c) Politika geliştirme ve uygulamaya yönelik
+çalışmalarda kullanılabilecek referans niteliğinde kaynak veri oluşturmak.
+ç) Türk Diasporası üzerine çalışmalar yürütebilecek
+akademisyenler ve uzmanlar yetiştirmek.
+d) Türk Diasporasını konu alan akademik
+incelemelerde bulunmak ve etkinlikler düzenlemek.
+e) Yurt dışında yaşayan soydaş, akraba ve
+vatandaşların durumunu doğrudan gözlemleyebilmek için ilgili ülkelerde
+anket ve istatistiksel çalışmalar yürütmek.
+f) İlgili ülkelerde medya yayınlarını takip etmek.
+Merkezin
+faaliyet alanları
+MADDE 6 –
+(1) Merkez, amaçları doğrultusunda
+aşağıdaki alanlarda faaliyet yürütür:
+a) Türk Diasporasında insan haklarına ilişkin
+araştırma ve inceleme faaliyetlerinde bulunmak, araştırma ve inceleme
+çalışmaları sonunda konu ile ilgili bilimsel yayın yapmak.
+b) Ulusal ve uluslararası kuruluşlar ile işbirliği
+yapmak, ortak çalışmaları organize etmek, konferans, kongre ve bilimsel
+toplantılar düzenlemek ve yayın yapmak.
+c) Necmettin Erbakan Üniversitesi Sosyal Bilimler
+Enstitüsü ve diğer akademik birimler ile işbirliği ve ortak çalışmalar
+yapmak, eğitim-öğretim faaliyetlerinde bulunmak.
+ç) Kamu ve özel kuruluşlara danışmanlık hizmeti
+vermek.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür
+MADDE 8 –
+(1) Müdür, Merkezin faaliyet alanı
+ile ilgili çalışmalar yapmış Üniversite öğretim üyeleri arasından, Rektör
+tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür yeniden
+görevlendirilebilir.
+(2) Müdür, en çok iki müdür yardımcısını doğrudan
+görevlendirir ve Rektörün bilgisine sunar. Müdür görevi başında olmadığı
+zaman müdür yardımcılarından birini vekil bırakır. Göreve vekâlet altı
+aydan fazla sürerse yeni bir Müdür görevlendirilir.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim ve Danışma Kurullarını toplantıya
+çağırmak, toplantıların gündemini belirlemek ve bu kurullara başkanlık
+etmek.
+c) Yönetim Kurulunun aldığı kararları uygulamak ve
+Merkezi yönetmek.
+ç) Müdürün önerisi ile Rektör tarafından
+görevlendirilen yönetim kurulu üyelerinin görevden ayrılmaları halinde,
+takip eden on beş gün içerisinde, Rektöre her bir üyelik için iki aday
+önermek.
+d) Merkezin ve Merkeze bağlı birimlerin, araştırma
+gruplarının ve idari personelin düzenli ve etkin çalışmasını sağlamak.
+e) Her faaliyet dönemi sonunda, Merkezin yıllık
+çalışma raporunu, bir sonraki yılın çalışma programı taslağını ve bütçe
+önerisini hazırlamak ve Yönetim Kuruluna sunmak.
+f) Araştırma ve inceleme projeleri ile ilgili
+ekipleri ve yöneticileri belirlemek ve görevlendirmelerini sağlamak üzere
+Yönetim Kuruluna sunmak.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu, Merkezin
+faaliyet alanında çalışmalar yapmış Üniversite öğretim üyesi, araştırma
+görevlisi, uzman ve öğretim görevlilerinden Müdürün önereceği dört kişi
+arasından Rektörün görevlendirdiği iki üye ile Müdür ve müdür yardımcıları
+olmak üzere toplam beş üyeden oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç
+yıldır. Süresi biten üyeler yeniden görevlendirilebilir. Altı aydan fazla
+süreyle yurt dışında görevlendirilen üyelerin yerine yenileri
+görevlendirilir.
+(3) Yönetim Kurulu, Müdürün veya Yönetim Kurulu
+üyelerinin salt çoğunluğunun çağrısı üzerine toplanır. Kurulun toplantı
+yeter sayısı, üyelerinin salt çoğunluğudur ve Kurul toplantıya katılanların
+salt çoğunluğu ile karar alır.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulu, Müdürün
+çağrısı üzerine ayda en az bir defa toplanarak aşağıdaki görevleri yapar:
+a) Kuruluş amaçları doğrultusunda Merkezin yönetimi
+ve çalışmaları konusunda kararlar almak.
+b) Merkez birimlerinin ve araştırma gruplarının kuruluş
+ve çalışma ilkelerini belirleyen kararlar almak ve bunların personel ve
+yöneticilerini belirlemek.
+c) Üniversitede fakülte ve yüksekokul bölümleri
+arasında ve bunlarla Merkez arasında işbirliğini gerektiren çalışmaların
+yürütülmesini sağlamak amacıyla protokoller düzenlemek.
+ç) Müdürün geçmiş yıla ilişkin hazırlayacağı yıllık
+çalışma raporunu değerlendirmek ve değerlendirme sonuçlarını rapor halinde
+Üniversite Yönetim Kuruluna sunmak.
+d) Müdürün ve Danışma Kurulunun görüş ve
+önerilerini değerlendirerek bir sonraki yılın çalışma programını
+hazırlamak.
+e) Yurt içi ve yurt dışı kuruluşlarla ortaklaşa
+yürütülecek çalışmaların temel ilkelerini saptamak.
+f) Merkezin düzenleyeceği eğitim-öğretim
+programlarına katılanlara verilecek belgeler konusundaki ilkeleri
+belirlemek ve Senatoya sunmak.
+g) Müdürün gündeme aldığı diğer konuları görüşmek
+ve karara bağlamak.
+Danışma
+Kurulu
+MADDE 12
+– (1) Danışma Kurulu; Merkezin
+çalışma konuları doğrultusunda çalışmalar yürüten veya çalışma alanlarının
+Merkeze katkısı olacağı öngörülen, Üniversite, diğer üniversiteler, sivil
+toplum kuruluşu üyeleri ve ilgili bireylerden üç yıllığına görevlendirilen,
+en fazla on üyeden oluşan bir Kuruldur. Kurul üyeleri, Yönetim Kurulunun
+teklifi ve Rektörün onayıyla belirlenir. Süresi biten üyeler yeniden
+görevlendirilebilir.
+(2) Danışma Kurulu yılda bir kez olağan olarak
+toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü
+toplantıya çağırabilir. Danışma Kurulunun üye sayısının yarıdan bir fazlası
+talep ettiği takdirde Müdür, Danışma Kurulunu en geç bir ay içinde
+olağanüstü toplantıya çağırır. Danışma Kurulu tutanaklarının birer nüshası
+Rektörlüğe ve ilgili akademik birimlere gönderilir.
+Danışma
+Kurulunun görevleri
+MADDE 13
+– (1) Danışma Kurulunun görevleri
+şunlardır:
+a) Uzun vadeli bilimsel ve idari planları
+değerlendirerek, Yönetim Kuruluna önerilerde bulunmak.
+b) Merkezin faaliyetleri ile ilgili
+değerlendirmeler yapmak ve önerilerde bulunmak.
+c) Merkeze çalışmalarında bilimsel ve idari açıdan
+akademik ve uygulama bilgi, deneyim ve önerilerde bulunmak.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+ihtiyacı
+MADDE 14
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör
+tarafından görevlendirilecek personel ile karşılanır.
+Harcama
+yetkilisi
+MADDE 15
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini kısmen veya tamamen Müdüre devredebilir.
+Yönetmelikte
+hüküm bulunmayan haller
+MADDE 16
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde ilgili mevzuat hükümleri ile Senato kararları
+uygulanır.
+Yürürlük
+MADDE 17
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 18
+– (1) Bu Yönetmelik hükümlerini
+Necmettin Erbakan Üniversitesi Rektörü yürütür.
