@@ -1,0 +1,223 @@
+26 Kasım 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30607
+YÖNETMELİK
+Nevşehir Hacı Bektaş Veli Üniversitesinden:
+NEVŞEHİR HACI
+BEKTAŞ VELİ ÜNİVERSİTESİ ÖZEL EĞİTİM
+ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Nevşehir Hacı Bektaş
+Veli Üniversitesi Özel Eğitim Araştırma ve Uygulama Merkezinin amaçlarına,
+faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine
+ve çalışma şekline ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Nevşehir Hacı Bektaş Veli
+Üniversitesi Özel Eğitim Araştırma ve Uygulama Merkezinin faaliyet
+alanlarını, yönetim organlarını, yönetim organlarının görevleri ve çalışma
+şekline ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547
+sayılı Yükseköğretim Kanununun 7 nci maddesinin birinci fıkrasının (d)
+bendinin (2) numaralı alt bendi ile 14 üncü maddesine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Merkez: Nevşehir Hacı Bektaş Veli Üniversitesi
+Özel Eğitim Araştırma ve Uygulama Merkezini (NÖZMER),
+b) Müdür: Merkezin Müdürünü,
+c) Rektör: Nevşehir Hacı Bektaş Veli Üniversitesi
+Rektörünü,
+ç) Üniversite: Nevşehir Hacı Bektaş Veli
+Üniversitesini,
+d) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin
+Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Türkiye’deki özel gereksinimi olan bireylerin
+değerlendirilmesine, bu bireylerin bağımsız yaşam becerilerini
+kazanmalarına, eğitim ortamları ile yaşadıkları topluma tam katılımlarına
+destek sunmayı amaçlayan disiplinlerarası araştırmalara ve etkinliklere
+ortam sağlayarak elde edilen çıktıların paydaşlar tarafından etkin biçimde
+kullanılmasını sağlamak.
+b) Üniversite öğrencilerine, diğer kuruluşların
+ilgili birimlerine uygulama ve eğitim olanağı sağlamak.
+c) Özel eğitim alanında karşılaşılan sorunlara
+çözüm önerileri sunmak amacıyla özel eğitim ile ilgili ulusal ve
+uluslararası alanda inceleme, araştırma ve uygulamalar yapmak ve bunları
+desteklemek.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Özel gereksinimi olan bireylerin tanılanmasına
+yönelik çalışmalar yapmak, özel eğitim gereksinimi olan bireylerin eğitsel
+değerlendirmelerini yapmak, ilgili kurum ve kuruluşlarla işbirliği içinde
+tıbbi ve psikolojik incelemelerinin yapılmasını sağlamak ve izlemek.
+b) Özel gereksinimi olan bireylerin tanılanmasını
+sağlamak amacıyla ölçek geliştirme çalışmaları yürütmek, mevcut ölçekleri
+revize etmek ve dünyada kullanılan ölçme araçlarını Türk kültürüne
+uyarlamak.
+c) Üniversite bünyesinde bulunan ilgili birimlerle
+işbirliği yaparak özel gereksinimi olan bireylerin akademik, fiziksel ve
+psiko-sosyal gelişimini destekleyen eğitim ortamları ve eğitim programları
+hazırlamak, oluşturulacak eğitim programlarına göre özel eğitime gereksinim
+duyan bireyler için bireysel ve grup özel eğitim hizmeti sağlamak.
+ç) Özel gereksinimi olan bireylerin gelişimini
+destekleyici eğitim, araştırma ve uygulama laboratuvarları ile atölyeleri
+kurmak, benzer amaçla kurulan resmî veya özel kurum ve kuruluşlarla
+işbirliği içerisinde çalışmalar gerçekleştirmek.
+d) Özel gereksinimi olan bireyler ile ilgili
+faaliyet gösteren ulusal ve uluslararası kamu veya özel kurum, kuruluşlarla
+ortak çalışmalar düzenlemek, uygulama ve araştırma projeleri hazırlamak,
+yürütülmekte olan çalışmalara katılmak, geliştirilen bu projeleri uygulamak
+ve/veya bu uygulamaların takibini yapmak.
+e) Özel gereksinimli çocuğu olan ebeveynlerin
+bilinçlenmelerini hedefleyen eğitim ve rehberlik hizmetleri düzenleyerek
+özel gereksinimi olan çocukların aile ve yakınlarına destek hizmeti
+sağlamak, çocuklarının gelişimini destekleyecek bilgi, tutum ve davranış
+kazanmalarını sağlamak.
+f) Özel gereksinimi olan bireylerden kaynaştırma
+programlarına devam eden bireyin ailesine sosyal, psikolojik, bilgi ve
+benzeri destek sağlamak ve bu bireylerin öğretmenlerine özel eğitim
+hakkında bilgi, öğretimsel düzenleme ve benzeri destek hizmeti sağlamak.
+g) Sertifikalı bilimsel meslek içi eğitim
+programları ve kursları düzenleyerek özel gereksinimi olan çocukların
+eğitimi ve gelişimi ile görevli meslek mensuplarının gelişimlerini
+desteklemek.
+ğ) Ulusal ve uluslararası düzeyde eğitici ve
+tanıtıcı seminer, çalıştay, konferans, sempozyum ve kongre gibi çeşitli
+bilimsel toplantılar düzenlemek, yapılan bilimsel toplantılara katılmak.
+h) Üniversitelerde yüksek lisans ve doktora
+düzeyinde farklı alanlardaki yetersizliği nedeniyle özel gereksinimi olan
+bireyler ile ilgili ders ve seminerler verilerek akademisyenlerin bu
+konulara yönelmesini özendirici çalışmalarda bulunmak.
+ı) Üniversite bünyesindeki ilgili fakülte ve diğer
+üniversitelerin ilgili fakülte ve birimleri ile ilişki kurmak, lisans,
+lisansüstü ve doktora öğrencilerinin uygulamalı eğitimlerine katkıda
+bulunmak, ulusal ve uluslararası düzeyde araştırmalar yapmak.
+i) Özel gereksinimi olan bireylerin eğitimleri
+sonucunda meslekî geçişleri ve istihdamlarına yönelik etkinlikler
+düzenlemek ve bireyin işe uyum sürecinde personel eğitimlerine yönelik
+psikolojik danışmanlık hizmetleri vermek.
+j) Özel gereksinimi olan bireylerin eğitimleri ve
+psiko-sosyal gelişimleri ile ilgili bilgiler elde etmek ve bu bilgilerin
+düzenli bir şekilde arşivlenmesini gerçekleştirerek kamuoyu ile paylaşımına
+yönelik yayınlar hazırlamak, konu ile ilgili ulusal ve uluslararası
+kuruluşlarla bilgi paylaşımına yönelik gerekli iletişim ağını kurmak.
+k) Rektörlük tarafından talep edilen özel eğitim
+alanı ile ilgili çalışmalar yapmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin
+Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 –
+(1) Merkezin yönetim organları
+şunlardır:
+a) Müdür,
+b) Yönetim Kurulu.
+Müdür
+MADDE 8 –
+(1) Müdür, Nevşehir Hacı Bektaş
+Veli Üniversitesi Eğitim Fakültesi Özel Eğitim Bölümü öğretim üyeleri
+arasından Rektör tarafından üç yıl için görevlendirilir. Müdürün altı aydan
+daha fazla süre ile görev başında bulunmaması durumunda görevi sona erer.
+Süresi dolmadan görevinden ayrılan veya süresi biten Müdürün yerine Rektör
+tarafından aynı yöntemle yeniden görevlendirme yapılır.
+(2) Müdür, Üniversite öğretim elemanları arasından
+iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına
+sunar. Müdür yardımcılarının görevi, Müdürün görev süresinin sona ermesiyle
+biter. Görevinden ayrılan müdür yardımcısının yerine, kalan süreyi
+doldurmak üzere yenisi görevlendirilir. Müdür yardımcısı, Müdür tarafından
+belirlenen görevleri yerine getirir ve Müdürün bulunmadığı zamanlarda ona
+vekâlet eder.
+Müdürün
+görevleri
+MADDE 9 –
+(1) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek,
+b) Yönetim Kurulunu toplantıya çağırmak, gündemi
+hazırlamak ve toplantılara başkanlık etmek,
+c) Yıllık faaliyet programlarını hazırlayarak
+Yönetim Kuruluna sunmak ve Yönetim Kurulunda alınan kararları Rektörlüğe
+bildirmek,
+ç) Merkezin amaçları doğrultusunda araştırma,
+uygulama ve eğitim programlarına ilişkin yıllık faaliyet planları
+hazırlayarak Yönetim Kurulunun görüşüne sunmak ve ilgili kararların
+alınmasını sağlamak,
+d) Merkezin genel durumu ve işleyişi hakkında
+yılsonunda Rektörlüğe rapor sunmak,
+e) Merkezin kadro gereksinimlerini gerekçeleri ile
+birlikte Rektörlüğe bildirmek,
+f) Görevlendirilecek müdür yardımcılarını
+belirleyerek Rektörün onayına sunmak,
+g) Merkezin her düzeydeki personelinin görevlerini
+planlamak, genel gözetim ve denetim görevlerini yerine getirmek,
+ğ) Yönetmeliğin gerektirdiği diğer görevleri yerine
+getirmek.
+Yönetim
+Kurulu
+MADDE 10
+– (1) Yönetim Kurulu, Müdürün
+başkanlığında Merkezin faaliyet alanı ile ilgili Üniversite öğretim
+elemanları arasından Müdürün görüşü alınarak Rektör tarafından üç yıl için
+görevlendirilen dört üye olmak üzere toplam en az beş üyeden oluşur. Süresi
+biten üye yeniden görevlendirilebilir.
+(2) Yönetim Kurulu üyelerinin görev süresi üç
+yıldır. Süresi dolmadan ayrılan üyenin yerine, kalan süreyi tamamlamak
+üzere aynı yöntemle yeni bir üye seçilir. Süresi biten üyeler yeniden
+görevlendirilebilir.
+(3) Üst üste üç Yönetim Kurulu toplantısına mazeretsiz
+katılmayan üyenin, Yönetim Kurulu üyeliği düşer. Üyeliği düşen üyenin
+yerine, kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye seçilir.
+(4) Yönetim Kurulu, Müdürün başkanlığında yılda en
+az iki kez toplanır. Gerekli durumlarda Müdürün çağrısı üzerine olağanüstü
+toplanabilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy
+çokluğu ile alınır. Oylarda eşitlik olması hâlinde Müdürün oyu yönünde
+çoğunluk sağlanmış sayılır.
+Yönetim
+Kurulunun görevleri
+MADDE 11
+– (1) Yönetim Kurulunun görevleri
+şunlardır:
+a) Merkezin çalışmalarıyla ilgili plan ve
+programların hazırlanmasını ve uygulanmasını sağlamak,
+b) Merkezin plan tasarısını hazırlamak ve
+onaylanmak üzere Rektöre sunmak,
+c) Merkez personelinin eğitim, uygulama, araştırma,
+danışmanlık ve yayım konularındaki isteklerini değerlendirip karara
+bağlamak,
+ç) Gerekli hâllerde Merkezin faaliyetleri ile
+ilgili geçici çalışma grupları kurmak ve bunların görevlerini düzenlemek,
+d) Yurt içi ve yurt dışındaki kamu ve özel kurum ve
+kuruluşlar ile ortaklaşa yürütülecek çalışmaların temel ilke, esas ve
+usullerini tespit etmek,
+e) Müdürün, Merkezin yönetimi ile ilgili getireceği
+konuları değerlendirerek karara bağlamak.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Personel
+ihtiyacı
+MADDE 12
+– (1) Merkezde gereksinimler
+doğrultusunda özel eğitim öğretmeni, psikolojik danışman, fizyoterapist,
+işaret dili tercümanı, dil ve konuşma terapisti, ergoterapist, bilişim
+teknolojileri öğretmeni, güzel sanatlar ve beden eğitimi alanlarında
+öğretmenler ve usta öğreticiler Merkez Yönetim Kurulunun tavsiyesi ve
+Rektör onayıyla görevlendirilir.
+Yürürlük
+MADDE 13
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 14
+– (1) Bu Yönetmelik hükümlerini
+Nevşehir Hacı Bektaş Veli Üniversitesi Rektörü yürütür.
