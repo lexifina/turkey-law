@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 11 – (1) (Değişik:RG-26/11/2018-30607) Yönetim Kurulu; Müdür ve müdür yardımcıları ile Üniversitenin Veteriner ve Ziraat Fakültelerinin her birinden bitkisel ve hayvansal üretim alanlarını ve birimlerini eşit sayıda temsil edecek öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilen üç kişi olmak üzere toplam altı üyeden oluşur. Süresi biten üyeler aynı usulle yeniden görevlendirilebilir.
+(2) Yönetim Kurulu, en az ayda bir defa olağan olarak toplanır. Yönetim Kurulu, ihtiyaç halinde Müdür tarafından doğrudan veya üyelerin 1/3’nün yazılı müracaatı ile olağanüstü toplantıya çağrılabilir. Yönetim Kurulu, salt çoğunlukla toplanır ve salt çoğunlukla karar alır. Yönetim Kuruluna Müdür başkanlık yapar.

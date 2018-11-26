@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2011-07-25",
+      "25.07.2011",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "26/11/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/11/2018-30607",
+  "first_law": null,
+  "gazette": "28005",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Erciyes Üniversitesi",
+  "issuer_slug": "erciyes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/erciyes-universitesi/2011/15130",
+  "published": "2011-07-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15130&MevzuatTertip=5",
+  "source_bytes": 35193,
+  "source_id": "8.5.15130",
+  "source_sha256": "7f673e6a67b87e0aa863a4500616a8128ef118605babfec236b301eefb6038e3",
+  "text_status": "current-consolidated",
+  "title": "ERCİYES ÜNİVERSİTESİ TARIMSAL UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 192,
+  "word_count": 1146
+}

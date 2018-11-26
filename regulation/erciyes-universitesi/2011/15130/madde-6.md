@@ -1,0 +1,12 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) (Değişik:RG-26/11/2018-30607) Üniversite bünyesinde faaliyet gösteren Ziraat Fakültesi, Veteriner Fakültesi ve ilgili diğer birimlerde yapılan tarımsal ve hayvansal faaliyetleri mümkün olduğunca tek çatı altında birleştirmek,
+b) (Değişik:RG-26/11/2018-30607) Üniversitede bitkisel, hayvansal ve gıda üretimi ile ilgili fakültelerin lisans ve lisansüstü öğretim programlarında öngörülen uygulama dersleri, pratik çalışmalar, staj, tez ve araştırma projeleri için uygun yer, materyal ve hizmet sağlamak,
+c) Üniversitenin tarımsal üretime uygun alanlarında; üretim planları yapmak her türlü bitkisel ve hayvansal üretimi gerçekleştirmek, bilimsel ve teknolojik yenilikleri takip ederek üretilen ürünleri pazara sunmak ve bu yolla Merkezin faaliyetleri için kaynak oluşturmak,
+ç) Her türlü bitkisel ve hayvansal üretim alanları, bitkisel ve hayvansal kaynaklı gıda üretimi, hayvan ve bitki sağlığı, tarımsal mekanizasyon, biyoteknoloji, biyosistem, biyoenerji, tarım ekonomisi, toprak ve bitki besleme ve tarımı ilgilendiren diğer alanlarda, çağdaş temel ve teknolojik uygulamalar yapmak ve bu alanlardaki çalışmalara destek olmak,
+d) Islah çalışmaları yapmak, nitelikli damızlık hayvan ve bitki materyalleri üretimi için gen ve embriyo aktarımı yapabilecek altyapı kurmak, gen bankaları oluşturmak veya oluşturulmasına katkı sağlamak,
+e) Bitkisel, hayvansal ve her türlü gıda üretimine ilişkin proje ve rapor hazırlamak, test ve deneyler yapmak, danışmanlık ve bilirkişilik hizmetleri vermek, tarımsal üretimden kaynaklanan çevre sorunlarının çözümüne yönelik projeler yürütmek, Üniversite içi ve bölge üreticilerine yönelik eğitim programları düzenlemek ve bu konularda birimler arasında koordinasyon sağlamak,
+f) Merkezin amaçları doğrultusunda her türlü yayın yapılmasına imkan sağlamak, veri ve dokümantasyon merkezi oluşturmak, ulusal ve uluslararası düzeyde kongre, panel, konferans, sempozyum, çalıştay, kurs ve seminer tarzında eğitim amaçlı programlar düzenlemek, ilgili kamu ve sivil toplum kuruluşları ile işbirliği ve araştırma imkanlarını geliştirmek,
+g) Araştırmacılara kaynak, araştırma materyali ve çalışma alanı sağlamak, burs vermek ve tarımsal amaçlı her türlü araştırma-geliştirme faaliyetlerine mali destek sağlamak,
+ğ) Merkez faaliyetlerinin biyogüvenlik ve biyoetikle ilgili kurallara uygunluğunu sağlamak ve bu konuda denetim yapmak,
+h) Yönetim Kurulunca uygun görülen, projeli bilimsel araştırmalar yapmak, bu projelere ortak olmak veya desteklemek.
