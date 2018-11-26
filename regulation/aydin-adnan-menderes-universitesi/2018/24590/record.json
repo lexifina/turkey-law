@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-05-15",
+      "15.05.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "RG-26/11/2018-30607",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-26",
+      "26/11/2018",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/11/2018-30607",
+  "first_law": null,
+  "gazette": "30422",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-11-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2018/24590",
+  "published": "2018-05-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24590&MevzuatTertip=5",
+  "source_bytes": 48521,
+  "source_id": "8.5.24590",
+  "source_sha256": "2ab6a742d961f51a99bd07d8ebf3f063add5ff56921c834e7d03058313a27484",
+  "text_status": "current-consolidated",
+  "title": "ADNAN MENDERES ÜNİVERSİTESİ AFET VE ACİL DURUM YÖNETİMİ\r\nEĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 2176
+}
