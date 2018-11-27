@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.17141",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (SERBEST DOLAŞIMA GİRİŞ) (SERİ NO: 13)",
+  "number": "17141",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/17141",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17141&MevzuatTertip=5",
+  "source_sha256": "8c9129bdb0dac3ede4b3d94e1bd7ea208c5a36972bd0adc913f1fe780057ea0d",
+  "source_bytes": 29710,
+  "published": "2013-02-19",
+  "gazette": "28564",
+  "in_force": "2018-11-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/11/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-11-27",
+      "RG-27/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-27",
+      "27/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-03-10",
+      "RG-10/3/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-03-10",
+      "10/3/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 15 gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 899,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.17141-ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

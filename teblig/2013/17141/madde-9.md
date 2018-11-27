@@ -1,0 +1,3 @@
+Yetkili gümrük idareleri
+MADDE 9 – (Değişik:RG-27/11/2018-30608)
+(1) Bu Tebliğ kapsamına giren eşyanın serbest dolaşıma giriş işlemlerini yapmaya, Orta Anadolu Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Ankara Gümrük Müdürlüğü, Orta Akdeniz Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Mersin Gümrük Müdürlüğü, Batı Akdeniz Gümrük ve Ticaret Bölge Müdürlüğüne bağlı Antalya Gümrük Müdürlüğü, Ege Gümrük ve Ticaret Bölge Müdürlüğüne bağlı İzmir Gümrük Müdürlüğü, İstanbul Gümrük ve Ticaret Bölge Müdürlüğüne bağlı İstanbul Havalimanı, Atatürk Havalimanı Kargo, Halkalı ve Ambarlı Gümrük Müdürlükleri yetkilidir.
