@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "586",
+  "decision_date": "2018-11-27",
+  "source_id": 28404,
+  "chamber": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28404/",
+  "source_sha256": "f413a72c93ed09e72388e5e9ee3a786244bd417ab62b6c8fd56ef3f94b152713",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
