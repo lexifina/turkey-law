@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.29010",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FREKANS TAHSİSİNDEN MUAF TELSİZ CİHAZ VE SİSTEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "29010",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2018/29010",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=29010&MevzuatTertip=5",
+  "source_sha256": "c64a758e7a5e1965b4d84ed9d82dc4460c6ffac29796561e640e0dac1432de42",
+  "source_bytes": 18591,
+  "published": "2018-11-27",
+  "gazette": "30608",
+  "in_force": "2018-11-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.11.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 682,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
