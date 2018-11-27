@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10728",
+  "decision_date": "2018-11-27",
+  "source_id": 28485,
+  "chamber": "1",
+  "ilam_number": "39",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28485/",
+  "source_sha256": "03d247f56cdab1d664010b8ff85be3721bf97f0926447e7f8f295ac0ad3e2c83",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
