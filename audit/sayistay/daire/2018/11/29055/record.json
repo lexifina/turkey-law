@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10726",
+  "decision_date": "2018-11-27",
+  "source_id": 29055,
+  "chamber": "1",
+  "ilam_number": "70",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29055/",
+  "source_sha256": "ac4aee1e83befd61a3a78699e7a2e9c16097208a0d204db70531491fd0ab9e3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
