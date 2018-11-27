@@ -1,0 +1,30 @@
+{
+  "source_id": "7.5.29009",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK İLETİM A.Ş. GENEL MÜDÜRLÜĞÜ TAŞINMAZ KİRAYA VERME YÖNETMELİĞİ",
+  "number": "29009",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2018/29009",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=29009&MevzuatTertip=5",
+  "source_sha256": "0acb76b5c2cafaf110f36c6371bfa5327055de4414270de8e7e563facc6f9dde",
+  "source_bytes": 116046,
+  "published": "2018-11-27",
+  "gazette": "30608",
+  "in_force": "2018-11-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.11.2018); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
