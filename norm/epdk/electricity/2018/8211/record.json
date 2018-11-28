@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8211",
+  "decision_date": "2018-11-28",
+  "title": "14/3/2014 tarihli ve 28941 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Organize Sanayi Bölgelerinin Elektrik Piyasası Faaliyetlerine İlişkin Yönetmelik (Yönetmelik)’in 17 nci maddesinin birinci fıkrası uyarınca, organize sanayi bölgesi onaylı sınırları içerisindeki katılımcılarına 2019 yılı için uygulanmak üzere dağıtım bedellleri",
+  "resmi_gazete_date": "2018-12-09",
+  "resmi_gazete_number": "30620",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sFl2ydviaT4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sFl2ydviaT4="
+  ],
+  "source_sha256": "821a22c090c0e39328691b4b430fe3051671c45ce65aa3044fbf8f14c8f8b19f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-28",
+  "law_text_complete": true
+}
