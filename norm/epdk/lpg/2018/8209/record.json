@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "8209",
+  "decision_date": "2018-11-28",
+  "title": "Lisans İşlemlerinin Sadece Elektronik Ortamda Alınmasına İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2018-11-30",
+  "resmi_gazete_number": "30611",
+  "categories": [
+    "Elektronik Ortamda Lisans Başvurularının Yapılması, Tadili, Süre Uzatımı ve Sona Erdirilmesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DcO/QFvTWeQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DcO/QFvTWeQ="
+  ],
+  "source_sha256": "8e2b7f422dc6df7baa07e57b99e0168c33e49b45c8b1bf11b1ccadc4e4bc28e8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 15772,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-11-28",
+  "law_text_complete": true
+}
