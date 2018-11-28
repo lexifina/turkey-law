@@ -1,0 +1,4 @@
+Kaçak eşya ile kaçak eşya naklinde kullanılan taşıtın rızaen teslimi
+MADDE 5 – (1) Kaçakçılık suçunun konusunu oluşturması dolayısıyla müsadere yaptırımının uygulanabileceği eşya ile Kanunda tanımlanan suçların işlenmesinde kullanılan taşıtlar rızaen teslim edildiği takdirde, 5271 sayılı Kanunun 123 üncü maddesinin birinci fıkrası uyarınca muhafaza altına alınır.
+(2) Elkoyan/alıkoyan birimlerce, eşya sahibinin ya da bulunduran kişinin rızaen teslim ettiğine dair imzalı beyanı alınarak, Ek-1’deki “Arama, Rızaen Teslim ve Muhafaza Altına Alma Tutanağı” ile eşya veya taşıt muhafaza altına alınır. Bu şekilde muhafaza altına alınan eşya/taşıt için ayrı bir elkoyma/alıkoyma kararı aranmaz; muhafaza altına alma işlemi elkoyma/alıkoyma ile aynı neticeleri doğurur.
+(3) Arama, Rızaen Teslim ve Muhafaza Altına Alma Tutanağının tarihi, elkoyma/alıkoyma tarihi olarak kabul edilir.
