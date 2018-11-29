@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "145",
+  "decision_date": "2018-11-29",
+  "source_id": 28376,
+  "chamber": "8",
+  "ilam_number": "355",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28376/",
+  "source_sha256": "a3e9d86768f2491c8901ba60e8476c99981149ac923ad0a411c6a11dd0018258",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
