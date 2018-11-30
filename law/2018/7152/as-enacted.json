@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7152",
+  "year": 2018,
+  "title": "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu ile Esnaf ve Sanatkârlar Meslek Kuruluşları Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-11-30",
+  "gazette_issue": "30611",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130M1-1.htm",
+  "source_sha256": "cbe4dd3d47fa2dd1f82b62b489b7f448bc8a866e30add576aaf038f2b8a343f0",
+  "text_sha256": "d121c8f7d25f9ea8c79368df0db48338aa2ee5e52630e44c8ba250a0f86022fb",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/11/30/30611-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
