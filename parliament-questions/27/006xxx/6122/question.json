@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/6122",
+  "submitted": "2018-11-30",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Kani BEKO",
+  "province": "İzmir",
+  "summary": "İzmir'de bir fabrikada bazı işçilerin sendika üyelikleri nedeniyle işten çıkarıldığı iddiasına ve sendikal haklara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-431e-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "0f7fc09fb2b42e18f2e87cb20cc4f0a80746d568f32287ce3df1c834f173ecc1",
+  "in_force": "2018-11-30",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
