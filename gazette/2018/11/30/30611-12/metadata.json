@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-11-30",
+  "issue": "30611",
+  "edition": "regular",
+  "item": 12,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 8, 11, 17 ve 19. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130-12.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130.htm",
+  "index_sha256": "c3f453b9b28862ff3afd0924c1f280b0af1b9f982b40536b619265b44291d8c9",
+  "index_header": "30 Kasım 2018 ... 30611 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
