@@ -1,0 +1,29 @@
+{
+  "number": "131",
+  "number_as_published": "2018/131",
+  "year": 2018,
+  "month": 11,
+  "title": "Plan ve Bütçe Komisyonun hazırlamış olduğu 2019 Yılı Gelir ve Harç Tarifesinin aynen karar olarak kabulüne oy birliği ile kabul edildi",
+  "decision_date": null,
+  "index_date": "2018-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2018",
+  "source": "https://www.haliliye.bel.tr/icerik/2822/39/kasim-2018",
+  "official_page": "https://www.haliliye.bel.tr/icerik/2822/39/kasim-2018",
+  "official_document": null,
+  "source_sha256": "40c347478effc0f316e3a8ab82bae0b1a8780d3e9a4426ccd88daa4e210f1fdb",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2018-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "KASIM 2018",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
