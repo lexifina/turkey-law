@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-11-30",
+  "issue": "30611",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 503)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130.htm",
+  "index_sha256": "c3f453b9b28862ff3afd0924c1f280b0af1b9f982b40536b619265b44291d8c9",
+  "index_header": "30 Kasım 2018 ... 30611 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/11/20181130.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "402dd928160dcfdc3fe31968192f598aebef8d5212a5550bb84a14af7effccf8",
+  "text_status": "text.txt as published"
+}
