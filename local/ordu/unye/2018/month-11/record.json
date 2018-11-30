@@ -1,0 +1,29 @@
+{
+  "number": "month-11",
+  "year": 2018,
+  "month": 11,
+  "title": "KASIM 2018 BELEDİYE MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2018-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2018",
+  "source": "https://www.unye.bel.tr/duyuru/kasim-2018-belediye-meclis-kararlari-2/",
+  "official_page": "https://www.unye.bel.tr/duyuru/kasim-2018-belediye-meclis-kararlari-2/",
+  "official_document": "https://www.unye.bel.tr/duyuru/kasim-2018-belediye-meclis-kararlari-2/",
+  "source_sha256": "673b221c9dad257682f3be6b0c099d836c875c01fa61e27f603b01117a6e4941",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "KASIM 2018 BELEDİYE MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 6 scanned image(s); not transcribed here"
+}
