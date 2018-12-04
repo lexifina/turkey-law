@@ -1,0 +1,159 @@
+Personel Ücret Ödemeleri
+
+…......... tarih ve …......... sayılı ilamın …......... üncü maddesinde yer alan ve sırasıyla …......... tarih ve …......... sayılı ek ilam ile …......... tarih ve …......... sayılı ek ilamın …......... nci maddelerinde devamına karar verilen hüküm dışı kararıyla ilgili ek rapor düzenlenmiş olduğundan, konunun 6085 sayılı Sayıştay Kanununun 50 nci maddesinin üçüncü fıkrası hükmü gereğince görüşülmesinin devamına karar verildi.
+
+Devlet memurlarına yapılan zamların Kurum Başkanı ücretine aynen, diğer personel ücretlerine ise belli oranlarda yansıtılmasını öngören ve dayanağını 5544 sayılı Mesleki Yeterlilik Kurumu Kanununun “Mali haklar” başlıklı 25 inci maddesinin birinci fıkrasından alan Yönetim Kurulu Kararına rağmen, “Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme”nin 20 nci maddesinde belirlenen seyyanen zammın, Kurum Başkanı dışındaki personele de oranlama yapılmadan aynen ödendiği ve bu suretle de …......... TL tutarında kamu zararına sebebiyet verildiği iddiasıyla ilgili hüküm vermek için yapılan yargılama sırasında; 5544 sayılı Kanunun 25 inci maddesinin birinci fıkrası; Anayasanın 49, 53, 54 ve 55 inci maddelerine aykırı görülmüş ve bu bağlamda da anılan hükmün iptali için Anayasa Mahkemesine başvurularak, bu konuda verilecek karara kadar hükmün geri bırakılmasına ve …......... sayılı ilamın …......... üncü maddesinde; kamu zararı tutarı ile sorumluluğun yeniden tespiti amacıyla verilmiş olan hüküm dışı kararının da Anayasa Mahkemesinin kararı üzerine düzenlenecek ek raporun yargılanmasına değin devamına karar verilerek …......... sayılı ek ilam düzenlenmiştir.
+
+Anayasa Mahkemesinin söz konusu başvuruya ilişkin …......... tarih ve …......... , …......... sayılı Kararında ise özetle;
+
+Sendika hakkının bir unsuru olan toplu iş sözleşmesi hakkının, Anayasanın 53 üncü maddesinde özel olarak düzenlendiği, anılan maddenin birinci fıkrasında, “İşçiler ve işverenler, karşılıklı olarak ekonomik ve sosyal durumlarını ve çalışma şartlarını düzenlemek amacıyla toplu iş sözleşmesi yapma hakkına sahiptirler.” denildikten sonra devamındaki fıkrada, “Toplu iş sözleşmesinin nasıl yapılacağı kanunla düzenlenir.” hükmüne yer verildiği,
+
+Anayasanın 53 üncü maddesinin ikinci fıkrasında, toplu iş sözleşmesinin nasıl yapılacağının kanunla düzenleneceği belirtilmekle birlikte bu hakkın sınırlama sebeplerine yer verilmediği, ancak toplu iş sözleşmesi hakkı, sendika hakkının bir unsuru olarak görüldüğünden Anayasanın 51 inci maddesinin ikinci fıkrasında sendika hakkı için öngörülen sınırlama nedenlerinin toplu iş sözleşmesi hakkı için de geçerli olması gerektiği, buna göre, toplu iş sözleşmesi hakkının, milli güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlak ile başkalarının hak ve özgürlüklerinin korunması sebeplerine dayanılarak kanunla sınırlanmasının mümkün olduğu,
+
+Bununla birlikte, bir düzenlemenin kamu yararına yönelik yapılmasının, Anayasaya uygunluk bakımından tek başına yeterli kabul edilemeyeceği, temel hak ve hürriyetler için meşru amaçla getirilen sınırlamaların Anayasanın 13 üncü maddesinde ifade edilen ölçütlere aykırı olamayacağı,
+
+Anayasanın 13 üncü maddesinde yer alan ve aralarında sıkı bir ilişki bulunan, “temel hak ve hürriyetlerin özü”, “demokratik toplum düzeninin gerekleri” ile “ölçülülük ilkesi” kavramlarının, bir bütünün parçaları olarak “demokratik bir hukuk devleti” nin özgürlükler rejiminde gözetilmesi gereken temel ölçütlerini oluşturduğu,
+
+Toplu iş sözleşmesi veya grev neticesinde elde edilebilecek ücret, mali ve sosyal haklar yönünden belirli bir ölçü ve denge gözetilerek üst sınırlar belirlenmesinin, toplu iş sözleşmesi ve grev haklarını ortadan kaldıran veya onları kullanılamayacak ölçüde sınırlayan bir düzenleme olarak nitelendirilemeyeceği,
+
+Merkezi yönetim bütçesi kapsamında yer alan ve özel bütçeli bir kamu kuruluşu olan …......... Kurumu personeline ücret, mali ve sosyal haklar kapsamında yapılacak ödemeler için üst sınırlar belirlenmesi suretiyle kamusal kaynakların etkili ve verimli kullanılmasının, kamusal harcamaların kısıtlanmasının, bütçe disiplininin sağlanmasının ve bu suretle kamu yararının gerçekleştirilmesinin amaçlandığı gözetildiğinde, söz konusu sınırlamaların, “demokratik toplum düzeninin gerekleri” ne aykırılık taşımadığı,
+
+İtiraz konusu kuralla getirilen sınırlamanın toplu iş sözleşmesindeki konulardan sadece ücret, mali ve sosyal haklara ilişkin olması, buna karşılık toplu iş sözleşmesine konu olabilecek diğer alanların tamamında ve öngörülen üst sınırlar aşılmamak kaydıyla ücret, mali ve sosyal haklarda toplu iş sözleşmesi ve grev haklarının kullanılma imkanının devam etmesi nedeniyle, toplu iş sözleşmesi ve grev haklarına yapılan müdahalenin, ölçülü olduğu ve çalışanlara aşırı bir külfet yüklemediği,
+
+Ayrıca, …......... Kurumu personelinin, hangi hak ve yükümlülüklere sahip olduklarını önceden bilerek ve kendi rızaları ile çalışmaya başladıkları, 5544 sayılı Kanunun 25 inci maddesinin birinci fıkrası uyarınca Yönetim Kurulu kararı ve Genel Kurul onayı ile belirlenen sınırlamadan da tüm personelin işe girme öncesinde haberdar olduğu, dolayısıyla, ücret, mali ve sosyal haklar yönünden üst sınırlar belirlenmesinde, Devletin, yapılan işe uygun adaletli ücret ve sosyal yardımlar ödenmesi için gerekli tedbirleri alma yükümlülüğüne aykırı bir yön bulunmadığı,
+
+belirtilmiş ve açıklanan nedenlerle 5544 sayılı Kanunun 25 inci maddesinin birinci fıkrasında yer alan “… bakanlık genel müdürüne yapılan ödemeleri aşmamak kaydıyla, …” ibaresinin Anayasaya aykırı olmadığına karar verilmiştir.
+
+Dolayısıyla, …......... sayılı ek ilamda yer alan hüküm dışı kararıyla ilgili olarak düzenlenen ek rapordaki kamu zararı iddiasının da söz konusu Anayasa Mahkemesi Kararı ile sabit 5544 sayılı Kanunun anılan hükmü çerçevesinde karara bağlanması gerekmiş, ancak, öncesinde sorgu konusu …......... TL tutarındaki kamu zararının, ilişikli belgeler çerçevesinde incelenmesi sonucunda; gerek kamu zararı hesabında gerekse sorumluluk tespitinde eksiklikler olduğu anlaşılmış ve söz konusu eksikliklerin giderilerek ek sorgu düzenlenmesini ve Sorumlu savunmalarının alınması üzerine de konu hakkında ek rapor düzenlenmesini teminen …......... sayılı ek ilamın …......... nci maddesinde yer alan hüküm dışı kararının devamına hükmedilerek …......... sayılı ek ilam düzenlenmiştir.
+
+Anılan hüküm dışı kararı üzerine düzenlenen ek sorguda;
+
+- “Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme”nin 20 nci maddesinde öngörülen seyyanen zammın, Yönetim Kurulu Kararına aykırı olarak tüm Kurum personeline oranlama yapılmadan aynen ödenmesi,
+
+- Kurum personeline ödenecek net ücret tutarlarının on iki ay süresince Kurum Başkanına ait ocak ayı net ücret tutarı üzerinden hesaplanması, böylelikle gelir vergisi dilimindeki değişiklik nedeniyle bakanlık genel müdürü net maaşında aylar itibarıyla ortaya çıkan ve dolayısıyla Kurum Başkanının net ücretini de aynı şekilde etkilemesi gereken azalmaların dikkate alınmaması,
+
+- Kurum personelinden bazılarına yapılan ücret ödemelerinin Yönetim Kurulu Kararıyla belirlenen azami ödeme tutarlarını aşması,
+
+gerekçeleriyle …......... TL olarak konu edilen ancak küsurat toplamlarındaki hatanın giderilmesi suretiyle yapılan yeni hesaplama sonucu …......... TL olduğu tespit edilen kamu zararı iddiası da dosyada mevcut bilgi ve belgeler çerçevesinde değerlendirilmiştir.
+
+5544 sayılı Kanunun;
+
+“Mesleki Yeterlilik Kurumu” başlıklı 3 üncü maddesinde; “Bu Kanunla kendisine verilen görevleri yerine getirmek ve Kanunda belirtilen hususlar dışında özel hukuk hükümlerine tabi olmak üzere, kamu tüzel kişiliğini haiz, idari ve mali özerkliğe sahip ve özel bütçeli Mesleki Yeterlilik Kurumu kurulmuştur. …”
+
+“Personelin atanma şartları ve statüsü” başlıklı 24 üncü maddesinin birinci fıkrasında; “Kurum hizmetleri iş mevzuatı hükümlerine göre istihdam edilen uzman yardımcısı, uzman ve diğer personel eliyle yürütülür.” ve yedinci fıkrasında; “Kurum personeli, emeklilik ve sosyal güvenlik yönünden 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendine tabidir. …”
+
+hükümlerine yer verilmiştir.
+
+Dolayısıyla, Başkan dahil Kurum personelinin tamamı, 4857 sayılı İş Kanunu hükümlerine tabi olarak sürekli işçi statüsünde istihdam edilmekte ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun “Sigortalı sayılanlar” başlıklı 4 üncü maddesinin birinci fıkrasının (a) bendinde yer alan; “Hizmet akdi ile bir veya birden fazla işveren tarafından çalıştırılanlar” kapsamında sigortalı kabul edilmekte olup bu bağlamda da; amacı “işçi ve işveren sendikaları ile konfederasyonların kuruluşu, yönetimi, işleyişi, denetlenmesi, çalışma ve örgütlenmesine ilişkin usul ve esaslar ile işçilerin ve işverenlerin karşılıklı olarak ekonomik ve sosyal durumları ile çalışma şartlarını belirlemek üzere toplu iş sözleşmesi yapmalarına, uyuşmazlıkları barışçı yollarla çözümlemelerine, grev ve lokavta başvurmalarına ilişkin usul ve esasları düzenlemek” olarak öngörülen 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu ve ilgili diğer mevzuat kapsamında bulunmaktadır.
+
+Türkiye Cumhuriyeti Anayasasının “A. Toplu iş sözleşmesi ve toplu sözleşme hakkı” başlıklı 53 üncü maddesinde de; “İşçiler ve işverenler, karşılıklı olarak ekonomik ve sosyal durumlarını ve çalışma şartlarını düzenlemek amacıyla toplu iş sözleşmesi yapma hakkına sahiptirler. Toplu iş sözleşmesinin nasıl yapılacağı kanunla düzenlenir.” hükmü yer almış ve bu hükümden hareketle yayımlanan 6356 sayılı Kanunun “Toplu iş sözleşmesi ve çerçeve sözleşmenin içeriği” başlıklı 33 üncü maddesinde;
+
+“(1) Toplu iş sözleşmesi, iş sözleşmesinin yapılması, içeriği ve sona ermesine ilişkin hükümleri içerir.
+
+(2) Toplu iş sözleşmesi, tarafların karşılıklı hak ve borçları ile sözleşmenin uygulanması ve denetimini ve uyuşmazlıkların çözümü için başvurulacak yolları düzenleyen hükümleri de içerebilir.
+
+……
+
+(5) Toplu iş sözleşmeleri ve çerçeve sözleşmeler, Anayasaya ve kanunların emredici hükümlerine aykırı düzenlemeler içeremez.”
+
+denilmiş olup böylelikle işçiler ile işverenlere karşılıklı hak ve borçlarını ancak Anayasa ve kanunların emredici hükümlerinin çizdiği sınırlar çerçevesinde serbestçe tayin edebilme yetkisi tanınmıştır.
+
+Bu bağlamda, 5544 sayılı Kanunun “Mali haklar” başlıklı 25 inci maddesinin birinci fıkrasındaki; “Başkan, yönetici personel ve diğer personelin ücret, mali ve sosyal hakları; bakanlık genel müdürüne yapılan ödemeleri aşmamak kaydıyla, Yönetim Kurulunun kararı ve Genel Kurulun onayı ile belirlenir.” hükmü de toplu iş sözleşmesi ile karşılıklı hak ve borçlarını belirleme yetkisi bulunan işçiler ile işverenin söz konusu yetkisine sınırlandırma getirmiş ve anılan sınırlayıcı hüküm Anayasa Mahkemesinin yukarıda bahsedilen Kararı ile sabit hale gelmiştir.
+
+Ayrıca, 5544 sayılı Kanunun 24 ve 25 inci madde hükümlerine dayanılarak yayımlanan Mesleki Yeterlilik Kurumu Personel Yönetmeliğinin “Ücret” başlıklı 18 inci maddesinin birinci fıkrasında da; “Başkan, yönetici personel, uzman ve uzman yardımcıları ile diğer personele ödenecek aylık ücretler ve ücretleri ile birlikte ödenecek diğer mali haklar ve sosyal yardımlar (bu Yönetmeliğin 23 üncü maddesi gereğince yapılacak doğum ve ölüm yardımları hariç) her yılın birinci ve ikinci altı aylık dönemleri itibariyle Çalışma ve Sosyal Güvenlik Bakanlığı genel müdürlerine yapılan ödemelerin aylık ortalamasının net tutarını aşmayacak şekilde Yönetim Kurulunun Kararı ve Genel Kurulun onayı ile belirlenir.” hükmüne yer verilmiş olup, gerek anılan Kanunun 25 inci gerekse söz konusu Yönetmelik maddesi çerçevesinde alınan …......... tarihli ve …......... sayılı Yönetim Kurulu Kararının;
+
+1 inci maddesinde; “MYK Personel Yönetmeliğinin 18 inci maddesi çerçevesinde ….........  Başkanının aylık net ücretinin; Çalışma ve Sosyal Güvenlik Bakanlığı ile Bakanlığın bağlı ve ilgili kuruluşlarında görev yapan maaş, ek ödeme, ikramiye ve diğer nakdi ödemeler dahil 2009 yılı ocak ayında en yüksek ödemenin yapıldığı Genel Müdürün aylık gelirine eşit olarak belirlenmesine,”
+
+2 nci maddesinde; “Personelin taban ücretlerinin, …......... Başkanının aylık net ücretinin aşağıda pozisyon unvanlarına göre belirtilen taban katsayısı ile çarpılarak belirlenmesine,”
+
+9 uncu maddesinde; “.... aylık net personel ücretlerinin …......... Başkanının aylık net ücretinin 2 nci maddede belirtilen tavan katsayılarıyla çarpılarak belirlenecek miktarı geçmemesine,”
+
+denilmek, 3 üncü maddesinde de personel ücretlerinin hesaplanmasında taban ücretlerine ilave edilecek deneyim ücretlerinin belirlenme usulüne (Kurum içinde ve dışında geçen hizmet sürelerine göre belirlenecek deneyim katsayıları esas alınarak yapılacak hesaplama şekline) yer verilmek suretiyle personel ücret sistemi düzenlenmiştir.
+
+Diğer taraftan, Mesleki Yeterlilik Kurumu Personel Yönetmeliğinin “Ücret” başlıklı 18 inci maddesinin yukarıda yer verilen birinci fıkrasındaki hükmüne rağmen uygulamada her yıl için ücret sistemine ilişkin yeni bir Yönetim Kurulu Kararı alınmadığı, …......... sayılı Karardan yaklaşık iki yıl sonra …......... tarihli ve …......... sayılı Yönetim Kurulu Kararı alınmış olsa da, söz konusu Kararda sadece belli hususların yeniden değerlendirildiği (2 nci maddesiyle söz konusu Karar tarihinden sonra Kurumda işe alınacak personele ait ücretlerin hesaplanmasında esas alınacak taban ve tavan katsayılarının, 3 üncü maddesiyle de deneyim katsayılarının yeniden belirlendiği), ancak …......... sayılı Yönetim Kurulu Kararının 1 inci maddesi ile belirlenen Başkanın aylık net ücretine ilişkin olarak yeni bir karar alınmayarak mevcut uygulamanın devam ettirildiği ve Başkan ile diğer personelin 2014 yılı ücretlerinin hesaplanmasında da sadece söz konusu iki Kararın esas alındığı anlaşılmıştır.
+
+Ayrıca, Kurum Başkanı ile diğer personele ait ücretlerin ne şekilde zamlanacağına ilişkin usul de …......... sayılı Yönetim Kurulu Kararının 8 inci maddesinde düzenlenmiş olup söz konusu hükümde; Devlet memurlarına yapılacak zamların başka bir karara gerek kalmaksızın baz ücret olan …......... Başkanı ücretine aynı zaman ve oranlarda yansıtılması, diğer personel ücretlerinin ise anılan Kararın yukarıda bahsi geçen 2 nci maddesi çerçevesinde zamlanması öngörülmüştür.
+
+Dolayısıyla, “Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2014 ve 2015 Yıllarını Kapsayan 2. Dönem Toplu Sözleşme”nin 20 nci maddesindeki; “375 sayılı Kanun Hükmünde Kararnameye ekli II ve III sayılı Cetvellerde yer alan ücret göstergeleri “2.280” rakamının eklenmesi suretiyle uygulanır.” hükmü ile öngörülen maktu zam tutarının, Kurum Başkanının ücretine aynen, Kurum personelinin ücretlerine ise Yönetim Kurulu Kararı (02.11.2010’dan önce işe başlayanlar için …......... , söz konusu tarihten sonra işe başlayanlar için …......... sayılı Kararın 2 nci maddesi) ile personel bazında belirlenen oranlar dikkate alınarak yansıtılması ve personele aylık bazda ödenecek net ücret tutarlarının da hiçbir şekilde anılan Yönetim Kurulu Kararlarının 2 nci maddeleri ile belirlenen azami tavan oranları üzerinden hesaplanacak tutarları aşmaması gerekmektedir.
+
+Ayrıca, gerek Kurum Başkanına gerekse diğer personele ödenecek net ücret tutarlarının tespitinde; bakanlık genel müdürünün ocak ayı net maaşı yerine gelir vergisi dilimindeki değişiklik sonucu her ay itibarıyla eline geçen aylık net maaş tutarlarının esas alınması icap etmektedir.
+
+Bu bağlamda,
+
+- Kamu görevlileri için öngörülen seyyanen zammın Yönetim Kurulu Kararına aykırı olarak Kurum personeli ücretlerine aynen yansıtılması,
+
+- Mali ve sosyal hakların aylık tutarları için Yönetim Kurulu Kararıyla öngörülen üst sınırları aşacak şekilde ücret ödenmesi,
+
+- Kurum personeline ödenecek net ücret tutarlarının hesabında da yıl boyunca Kurum Başkanına ait ocak ayı net ücret tutarının esas alınması,
+
+açıkça kamu zararına sebebiyet vermektedir.
+
+Diğer taraftan, söz konusu kamu zararından kaynaklı mali sorumluluğun da ayrıca değerlendirilmesi gerekmektedir.
+
+Sorumlu Harcama Yetkilisi ile Gerçekleştirme Görevlileri her ne kadar kamu görevlileri için öngörülen seyyanen zammın Kurum personeline aynen yansıtılmasına dayanak olarak 01.07.2012 - 30.06.2014 dönemi ile 01.07.2014 - 30.06.2016 dönemine ilişkin Toplu İş Sözleşmelerinin Yüksek Hakem Kurulu Kararlarıyla belirlenmiş olan “Ücret Sistemi” başlıklı 24 üncü maddesini göstermişler ve söz konusu madde hükmünün kesin ve bağlayıcılığı ile uygulanmaması halinde karşılaşılacak olan cezai müeyyidenin varlığından söz ederek kendilerine sorumluluk yüklenmemesi gerektiğini belirtmişler, ayrıca Kurumun 2013 yılı hesabıyla ilgili olarak …......... Dairece verilen tazmin hükmünün bozulmasına ilişkin …......... tarihli ve …......... tutanak nolu Sayıştay Temyiz Kurulu Kararında da; aynı şekilde 6356 sayılı Kanunun 51 inci maddesinin ikinci fıkrası ile Anayasanın 54 üncü maddesi uyarınca kesin ve toplu iş sözleşmesi hükmünde olan Yüksek Hakem Kurulu Kararına dayanan ödemeler nedeniyle ortaya çıkan kamu zararından dolayı kendilerine sorumluluk yüklenmemesi gerektiğine hükmedildiğinden bahsetmişlerse de;
+
+…......... Kurumunu temsilen …......... Sendikası ile işçileri temsilen …......... Sendikası arasında düzenlenen 01.07.2012-30.06.2014 dönemi ile 01.07.2014-30.06.2016 dönemine ilişkin Toplu İş Sözleşmelerinin, üzerinde mutabakat sağlanamayan maddeleri için; gerek 6356 sayılı Kanunun “Yüksek Hakem Kuruluna başvurma” başlıklı 51 inci maddesinin birinci fıkrasındaki; “Grev oylaması sonucunda grev yapılmaması yönündeki kararın kesinleşmesinden itibaren altı iş günü içinde işçi sendikası; grev ve lokavtın yasak olduğu uyuşmazlıklarda 50 nci maddenin beşinci fıkrasında belirtilen tutanağın tebliğinden ya da erteleme süresinin uyuşmazlıkla sonuçlanması hâlinde sürenin bitiminden itibaren taraflardan biri altı iş günü içinde Yüksek Hakem Kuruluna başvurabilir. …” hükmü gerekse Türkiye Cumhuriyeti Anayasasının “B. Grev hakkı ve lokavt'” başlıklı 54 üncü maddesindeki; “Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda ertelemenin sonunda, uyuşmazlık Yüksek Hakem Kurulunca çözülür. Uyuşmazlığın her safhasında taraflar da anlaşarak Yüksek Hakem Kuruluna başvurabilir. …” hükmü uyarınca Yüksek Hakem Kuruluna başvurulduğu ve 01.07.2012 - 30.06.2014 dönemine ilişkin Toplu İş Sözleşmesinin …......... tarihli ve …......... , …......... sayılı Yüksek Hakem Kurulu Kararıyla belirlenen “Ücret Sistemi” başlıklı 24 üncü maddesinde;
+
+“Bu toplu iş sözleşmesi kapsamında çalışan işçilere emsali devlet memurlarına yapılan zam oranları ve göstergeleri ile artış tarihleri dikkate alınarak ücret zammı uygulanacaktır.”
+
+01.07.2014 - 30.06.2016 dönemine ilişkin Toplu İş Sözleşmesinin …......... tarihli ve …......... , …......... sayılı Yüksek Hakem Kurulu Kararıyla belirlenen “Ücret Sistemi” başlıklı 24 üncü maddesinde de;
+
+“Bu toplu iş sözleşmesi kapsamında çalışan işçilere kurumun tabi olduğu mevzuat hükümleri çerçevesinde; emsali devlet memurlarına yapılan zam oranları ve göstergeleri ile artış tarihleri dikkate alınarak ücret zammı uygulanacaktır.
+
+Ancak, işçilere yapılacak her türlü mali ve sosyal hakların ödemesinde, 6495 sayılı Kanun’un 73. maddesi 2. fıkrası (c) ve (ç) bentleri hükümleri dikkate alınır.”
+
+denildiği, dolayısıyla da söz konusu hükümlerin; sadece 6495 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 73 üncü maddesiyle değişen 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesinin birinci fıkrasının (c) bendindeki;
+
+“Türk Akreditasyon Kurumu Genel Sekreterliği, Ulusal Bor Araştırma Enstitüsü Başkanlığı, Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı, Türk Standartları Enstitüsü Başkanlığı, kalkınma ajansları ve Mesleki Yeterlilik Kurumu kadro ve pozisyonlarına ilk defa veya yeniden atanan genel müdür, genel sekreter, genel müdür yardımcısı ve genel sekreter yardımcısı unvanlı personel ile uzman unvanlı meslek personeline, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; genel müdür ve genel sekreterler için bakanlık genel müdürü, genel müdür yardımcısı ve genel sekreter yardımcıları için bakanlık genel müdür yardımcısı, uzman unvanlı meslek personeli için Başbakanlık uzmanlarına mevzuatında kadrosuna bağlı olarak mali haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez.” hükmü ve (ç) bendindeki;
+
+ “(b) ve (c) bentlerinde yer alan idarelerde istihdam edilen personelden anılan bentlerde emsali belirlenmemiş olan personele, ilgili mevzuatı uyarınca ödenen her türlü maaş, aylık, ücret, ek ücret, prim, zam, tazminat, ikramiye, fazla çalışma ücreti, kâr payı ve her ne ad altında olursa olsun yapılan diğer ödemeler ile sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı, ilgili kurumun önerisi Devlet Personel Başkanlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar Kurulunca belirlenecek emsali Devlet memuruna ilgili mevzuatında kadrosuna bağlı olarak malî haklar ile sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçemez. Emsal alınacak memur unvanlarının tespitinde, kadro veya pozisyon unvanları ile ifa ettikleri görevler itibarıyla 657 sayılı Kanuna göre girebilecekleri sınıflardaki aynı veya benzer görevlerin aynı veya benzer kadro, unvan veya derecesi dikkate alınır.”
+
+ hükmüne tabi olan ve ücretleri de Yönetim Kurulu Kararıyla öngörülen şekilde Başkanın aylık net ücretine oranlanmak suretiyle hesaplanmayıp emsali Devlet memuru maaşına eşitlenen Kurum personelini kapsadığı anlaşılmaktadır. Söz konusu KHK hükümlerine tabi olmayan personele ait ücretlerin hesaplanmasında ise, 5544 sayılı Kanunun 25 inci maddesinin vermiş olduğu yetki çerçevesinde Yönetim Kurulu tarafından belirlenen sistemin uygulanmasına devam edilmekte, ancak 375 sayılı KHK’nın anılan madde hükmünün yürürlük tarihinden sonra imzalanan Toplu İş Sözleşmelerinde sadece yeni sisteme yer verilmekle yetinildiği görülmektedir. Nitekim, 01.07.2010-30.06.2012 dönemine ait Toplu İş Sözleşmesinin “Ücret Sistemi” başlıklı 24 üncü maddesindeki; “İşyerinde geçerli olan ücret sistemi Kurum mevzuatı ile oluşturulmuş ücret sistemidir. Taban/Tavan Ücret Katsayı Cetveli toplu iş sözleşmesinin ekindedir.
+
+Ancak, toplu iş sözleşmesinin yürürlük tarihinden sonra işe girenler için işverence farklı Taban/Tavan Ücret Katsayı Cetveli oluşturulabilir. Bu üyeler için, işe girdikleri tarihte Kurumda uygulanan Ücret Sistemi ve Katsayı Cetveli uygulanır.”
+
+hükmüne sonraki dönemlere ilişkin toplu iş sözleşmelerinde yer verilmemiştir.
+
+Dolayısıyla da, 375 sayılı KHK’nın ek 11 inci maddesinin birinci fıkrasının (c) ve (ç) bentlerine tabi olup ücretleri emsali Devlet memurlarının maaşlarına eşitlenen personele ödenecek zammın, kamu görevlileri için öngörülen zam miktarına eşit olarak belirlenmesi, ancak anılan KHK hükümlerine tabi olmayan ve ücretleri de Yönetim Kurulu Kararıyla öngörülen sisteme göre belirlenen personele ödenecek zammın Yönetim Kurulu Kararıyla öngörülen oranlar üzerinden hesaplanarak ödenmesi gerekmektedir.
+
+Sorumlu savunmalarında bahsi geçen Temyiz Kurulu Kararı ise 2013 yılında yapılan ilave tediye ödemeleri nedeniyle 375 sayılı KHK’nın ek 11 inci maddesi ile öngörülen azami sınırın aşılmasına ilişkin olup ilama konu husustan farklılık arz etmektedir. Ayrıca, 2014 yılında yapılan ilave tediye ödemelerinin anılan KHK ile getirilen sınırı aşması sonucu oluşan kamu zararına ilişkin olarak Dairemizce yapılan yargılama sonucunda Harcama Yetkilisi ile Gerçekleştirme Görevlileri adına tazmin hükmü verilmiş ve düzenlenen …......... sayılı ek ilamın …......... inci maddesinde Yüksek Hakem Kurulu Kararına dayalı Toplu İş Sözleşmesi hükmü de dikkate alınarak sorumluluk gerekçelerine ayrıntılı olarak yer verilmiştir. Nitekim, anılan ek ilam maddesindeki tazmin hükmü Temyiz Kurulunun …......... tarihli ve ….........  tutanak numaralı Kararı ile de tasdik edilmiştir.
+
+Sorumlu Harcama Yetkilisi ile Gerçekleştirme Görevlileri tarafından sunulan savunmalarda; seyyanen zammın aynen uygulanması dışındaki sorgu konusu hususlara (Kurum personeline Yönetim Kurulu Kararıyla öngörülen üst sınırları aşacak şekilde ücret ödenmesine ve net ücret tutarlarının hesabında da yıl boyunca Kurum Başkanına ait ocak ayı net ücret tutarının esas alınmasına) ilişkin olarak ayrıca bir açıklama yapılmamış, genel olarak Yüksek Hakem Kurulu Kararına dayalı Toplu İş Sözleşmesi hükmü dayanak gösterilmiştir.
+
+Ancak, Toplu İş Sözleşmesinin “Ücret Sistemi” başlıklı 24 üncü maddesinde; “… işçilere yapılacak her türlü mali ve sosyal hakların ödemesinde, 6495 sayılı Kanun’un 73. maddesi 2. fıkrası (c) ve (ç) bentleri hükümleri dikkate alınır.” denilmiş olmakla Yüksek Hakem Kurulu tarafından da mali ve sosyal hakların aylık tutarları için güncel mevzuat ile öngörülen üst sınıra vurgu yapıldığı, söz konusu maddede 6495 sayılı Kanunun anılan maddesinin yürürlük tarihinden önce Kurumda işe başlayanlar için geçerli olan ve 5544 sayılı Kanunun 25 inci maddesinin birinci fıkrası uyarınca Yönetim Kurulu tarafından öngörülen üst sınırdan bahsedilmemiş olmasının ise yapılan ödemelere getirilen sınırlamanın yine bir mevzuat hükmüne dayandığı düşünüldüğünde herhangi bir önemi bulunmadığı, bu çerçevede Toplu İş Sözleşmesine konulan söz konusu hükmün sadece 6495 sayılı Kanun ile değil genel olarak tüm mevzuat düzenlemeleri (5544 sayılı Kanun ve bu Kanuna dayanılarak alınan Yönetim Kurulu Kararı) ile öngörülen üst sınırları içerdiği anlaşılmaktadır.
+
+Dolayısıyla, gerek seyyanen zam uygulaması gerekse sorgu konusu diğer hususlar için Harcama Yetkilisi ile Gerçekleştirme Görevlilerinin sorumluluğunu kaldırmaya imkan bulunmamaktadır.
+
+Diğer taraftan, Kurum personeline ödenen net ücret tutarlarının hesabında yıl boyunca Kurum Başkanına ait ocak ayı net ücret tutarının esas alınmasından kaynaklı kamu zararı için her ne kadar Harcama Yetkilisi ile Gerçekleştirme Görevlilerine ilave olarak …......... sayılı Kararı alan Yönetim Kurulu Başkanı ve Üyeleri de sorumluluğa dahil edilmiş ve adlarına sorgu düzenlenmiş olsa da; söz konusu Kararın kamu zararıyla illiyet bağı kurulan 1 inci maddesindeki hükmün, sadece 2009 yılı itibarıyla ödenecek Kurum Başkanı ücretine ilişkin bir düzenleme olduğu, zira, Mesleki Yeterlilik Kurumu Personel Yönetmeliğinin yukarıda yer verilen 18 inci maddesinin birinci fıkrasında; personel ücretlerine ilişkin belirlemenin, Yönetim Kurulu tarafından her yıl itibarıyla yapılmasının öngörüldüğü anlaşılmaktadır. Dolayısıyla da, 2009 yılı itibarıyla geçerli olacak şekilde Karar almış olan Yönetim Kurulu Başkanı ve Üyelerine, 2014 yılındaki ödemeler sonucu oluşan kamu zararı nedeniyle sorumluluk yüklenmesi mümkün değildir. Ayrıca, gelir vergisi dilimindeki değişikliğin dikkate alınmaması, niteliği itibarıyla uygulamadan kaynaklı bir hata olup, söz konusu hatadan kaynaklı sorumluluğun da, Yönetim Kurulu Kararındaki hükmü sadece lafzi şekilde yorumlayıp ilgili mevzuatla öngörülen net ücret kuralının dışına çıkarak ödemeyi gerçekleştiren Harcama Yetkilisi ile Gerçekleştirme Görevlilerine yüklenmesi, 5018 sayılı Kanunun 71 inci maddesinde; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanan kamu zararının varlığı için gerekli illiyet bağı şartının doğal bir sonucudur.
+
+Diğer taraftan, sorgu konusu diğer hususlara (gerek seyyanen zam tutarının tüm personele aynen uygulanmasına gerekse yapılan ödemeler nedeniyle azami ücret tavanının aşılmasına) ilişkin olarak anılan Yönetim Kurulu Kararında hukuka aykırı herhangi bir hüküm bulunmadığı, aksine söz konusu hususlara ilişkin kamu zararının Yönetim Kurulu Kararına aykırı bir şekilde ödeme yapılmasından kaynaklandığı, dolayısıyla Yönetim Kurulu Başkanı ve Üyelerine bu hususlardan dolayı da sorumluluk yüklenemeyeceği anlaşılmaktadır. Nitekim, düzenlenen ek sorgunun başlangıç kısmında yer alan ve kamu zararı tutarlarıyla sorumluları eşleştiren tabloda da söz konusu hususlardan kaynaklı kamu zararı tutarları için sadece Harcama Yetkilisi ile Gerçekleştirme Görevlileri sorumlu tutulmuştur.
+
+Bu itibarla, …......... sayılı ek ilamın …......... nci maddesinde yer alan hüküm dışı kararının kaldırılmasına ve …......... TL olarak sorgu konusu edilen ancak küsurat toplamlarındaki hatanın giderilmesi suretiyle yapılan yeni hesaplama sonucu …......... TL olduğu tespit edilen kamu zararının;
+
+…......... TL’si …......... tarihli ve …......... numaralı, …......... TL’si …......... tarihli ve …......... numaralı, …......... TL’si …......... tarihli ve …......... numaralı, …......... TL’si de …......... tarihli ve …......... numaralı banka dekontuyla olmak üzere toplam …......... TL’si tahsil edilmiş olduğundan, söz konusu tutar için ilişik kalmadığına ve yapılan tahsilatın ilamda gösterilmesine,
+
+6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
+
+Kalan …......... TL’sinden;
+
+…......... TL’sinin Harcama Yetkilisi (….........) …......... ile Gerçekleştirme Görevlisi (….........) ….........’na,
+
+…......... TL’sinin Harcama Yetkilisi …......... ile Gerçekleştirme Görevlisi (….........) ….........’na,
+
+müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faiziyle birlikte ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla,
+
+karar verildi.
+
+Azınlık Görüşü:
+
+Üye ….........’nın karşı oy gerekçesi;
+
+“…......... işveren sendikası ile …......... Sendikası arasında 01.07.2012-30.06.2014 dönemini kapsayan TİS müzakereleri anlaşmazlıkla sonuçlanması üzerine grev kararı alınmış, grev kararının çıkmaması nedeniyle de 6356 sayılı Kanunun 51 inci maddesi uyarınca uyuşmazlık Yüksek Hakem Kuruluna intikal ettirmiştir.
+
+Yüksek Hakem Kurulu tarafından verilen kararının 24 üncü maddesinde; “Bu toplu iş sözleşmesi kapsamında çalışan işçilere emsali devlet memurlarına yapılan zam oranları ve göstergeleri ile artış tarihleri dikkate alınarak ücret zammı uygulanacaktır.” denilmiştir.
+
+Bu karara istinaden Kurum; Anayasanın 54 üncü maddesi uyarınca, anlaşmazlıkla sonuçlanan toplu iş sözleşmelerinin çözümünde yetkili olan Yüksek Hakem Kurulunun kararını esas alarak, emsali devlet memurlarına yapılan zam oranlarını uygulamıştır.
+
+Her ne kadar personelin ücretleri, Kurum Başkanının maaşının belli bir oranına endekslenmiş olsa da, 2014 yılı içerisinde devlet memurlarının tamamına aynı miktarda maktu zam yapıldığından, maktu zam tutarı ile enflasyon farkının Yüksek Hakem Kurulu kararı gereğince her hangi bir oranlama yapılmaksızın doğrudan personelin ücretine yansıtılması, Yüksek Hakem Kurulu kararının 24 üncü maddesine uygun düşmektedir.
+
+Açıklanan gerekçelerle; Personelin maaşlarına yansıtılan maktu zam miktarı ile enflasyon farkının ödenmesi hakkaniyete uygun olduğundan Toplu İş Sözleşmesi kapsamı dışındaki ahizlerden yapılan …......... TL tutarındaki tahsilatın düşülmesi sonucu kalan kamu zararı için ilişilecek bir husus bulunmadığına karar verilmesi gerekir.”
