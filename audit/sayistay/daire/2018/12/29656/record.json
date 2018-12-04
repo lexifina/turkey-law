@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "591",
+  "decision_date": "2018-12-04",
+  "source_id": 29656,
+  "chamber": "6",
+  "ilam_number": "176",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29656/",
+  "source_sha256": "54ee01ea5ada7548d8f4a210ea8cd1ffb4142c18614e376284b32c8ecd591247",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
