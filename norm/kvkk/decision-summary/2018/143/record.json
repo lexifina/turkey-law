@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2018/143",
+  "source_id": 5364,
+  "date": "2018-12-05",
+  "title": "“Sağlık verilerini Kanunun 6 ncı maddesinde yer alan işleme şartlarından birine dayanmadan üçüncü bir kişiye aktaran veri sorumlusu hakkında” Kişisel Verileri Koruma Kurulunun 05/12/2018 Tarihli ve 2018/143 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5364/2018-143",
+  "source_sha256": "1e4fab29ee812634048029a1a864941738f19875656a2c7e8c909e855b7526d6",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
