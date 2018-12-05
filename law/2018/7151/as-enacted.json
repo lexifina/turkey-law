@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7151",
+  "year": 2018,
+  "title": "Sağlıkla İlgili Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-12-05",
+  "gazette_issue": "30616",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181205-8.htm",
+  "source_sha256": "02388f072565be5d2d74b665a817acb848fbe7130d863a2fbd541c38b7c7bbff",
+  "text_sha256": "a09053356835682dbbe5efeeed13e0f4214ba9d21c60054aa38e1bd7c73eaac8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/12/05/30616-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181205-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
