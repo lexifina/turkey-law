@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35554",
+  "decision_date": "2018-12-06",
+  "source_id": 28763,
+  "chamber": "2",
+  "ilam_number": "94",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28763/",
+  "source_sha256": "6d39b9147eb76c15ba32372f3b15003fbfc184c4832264ecf5ec0b58006514bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
