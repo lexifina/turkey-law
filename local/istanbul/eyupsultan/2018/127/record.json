@@ -1,0 +1,22 @@
+{
+  "number": "127",
+  "number_as_published": "2018/127",
+  "year": 2018,
+  "title": "Eyüpsultan İlçesi Kemerburgaz Mimarsinan Mahallesi dere ve dere koruma bandına ilişkin 1/1000 ölçekli plan değişikliği",
+  "decision_date": "2018-12-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-aralik-ayi-meclis-kararlar/1552",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-127/1555",
+  "source_sha256": "4ba11a718db853d8be732fd51f1c178a6c29ece69d5989cf60ee98010993ca47",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-12-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.12.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "63cd39e84f93e393323ce0f85a3892fbd08ada03b03c03a090ea1f6f191de2cc"
+}
