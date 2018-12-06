@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35554",
+  "decision_date": "2018-12-06",
+  "source_id": 28768,
+  "chamber": "2",
+  "ilam_number": "94",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28768/",
+  "source_sha256": "fcef7c2fbedf84cfdd3d6ef66bff4fafa7a43b7ef59fe2a2476dd1728654bc1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
