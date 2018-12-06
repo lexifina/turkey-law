@@ -1,0 +1,22 @@
+{
+  "number": "49",
+  "number_as_published": "2018/49",
+  "year": 2018,
+  "title": "Kemerburgaz, 3106 parsel",
+  "decision_date": "2018-12-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-aralik-ayi-meclis-kararlar/1552",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-49/1553",
+  "source_sha256": "4ba11a718db853d8be732fd51f1c178a6c29ece69d5989cf60ee98010993ca47",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-12-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.12.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "67c23a8b5a44e997c9f46a92da1f4c91edd4299c976774e333381f601e100963"
+}
