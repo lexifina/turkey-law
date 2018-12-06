@@ -1,0 +1,22 @@
+{
+  "number": "134",
+  "number_as_published": "2018/134",
+  "year": 2018,
+  "title": "Mülkiyeti Belediyemize ait Kemerburgaz mahallesi 3106 parsel sayılı taşınmazın sağlık tesisi olarak ayrılması ve sağlık tesisi alanında hizmet vermek üzere İstanbul İl Sağlık Müdürlüğü'ne tahsis edilmesi",
+  "decision_date": "2018-12-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2018-aralik-ayi-meclis-kararlar/1552",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2018-134/1559",
+  "source_sha256": "4ba11a718db853d8be732fd51f1c178a6c29ece69d5989cf60ee98010993ca47",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2018-12-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.12.2018 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "8f5a16d4a086bafddff0991b1ce0e5783ceb63c53f8648cf962955fbf236a2c7"
+}
