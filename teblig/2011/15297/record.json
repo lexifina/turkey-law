@@ -1,0 +1,43 @@
+{
+  "source_id": "9.5.15297",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "15297",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2011/15297",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=15297&MevzuatTertip=5",
+  "source_sha256": "fa058c0dee8df685548aef960a444b9b99cdaed6c3f24c63c40390b5d2dee036",
+  "source_bytes": 17660,
+  "published": "2011-09-14",
+  "gazette": "28054",
+  "in_force": "2018-12-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"6/12/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-12-06",
+      "6/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 177,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.15297-ek-1.doc",
+    "9.5.15297-ek.2.doc",
+    "9.5.15297-ek.3.doc",
+    "9.5.15297.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
