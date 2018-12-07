@@ -1,0 +1,5 @@
+Sonradan kontrole ilişkin tebligat
+MADDE 10 – (1) Sonradan kontrolü yapacak (Değişik ibare:RG-28/3/2016-29667) müfettiş, sonradan kontrole başlama tarihinden en az (Değişik ibare:RG-28/3/2016-29667) on gün önce, sonradan kontrole başlanacağını ilgilisine bildirir.
+(2) Sonradan kontrole tabi kişilerce, tebligat tarihinden itibaren bir hafta içinde yazılı olarak geçerli ve kabul edilebilir bir neden ileri sürülmesi hâlinde, sonradan kontrolün başlama tarihi istisnai olarak ertelenebilir.
+(3) Sonradan kontrolün amacını tehlikeye düşürecek olması durumunda önceden tebligatta bulunulmaz. Bu durumda, sonradan kontrol mahalline gidildiğinde, sonradan kontrolü yapacak (Değişik ibare:RG-28/3/2016-29667) müfettişler tarafından sonradan kontrole tabi tutulacak kişilere bilgi verilir.
+(4) (Değişik:RG-28/3/2016-29667) Sonradan kontrolü yapan müfettişin önerisi, Rehberlik ve Teftiş Başkanlığı ve Genel Müdürlüğün uygun görüşü ve Bakan Onayı ile sonradan kontrole ilişkin programda ekleme yapılabilir veya kapsamı genişletilebilir.

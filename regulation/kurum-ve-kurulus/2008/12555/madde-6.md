@@ -1,0 +1,3 @@
+Sonradan kontrole tabi kişiler ve işlemler
+MADDE 6 – (1) Bu Yönetmelik kapsamında yapılacak sonradan kontrol, eşyanın gümrük işlemlerine veya sonraki ticari işlemlere ilişkin ticari belge ve verilerin kontrolünün yapılmasını teminen gümrük işlemleriyle doğrudan ya da dolaylı olarak ilgili bulunan kişiler ile söz konusu işlemlere ilişkin bilgi, belge ve verileri ticari amaçla elinde bulunduran diğer kişileri kapsar.
+(2) Sonradan kontrolün birinci fıkrada belirtilen kişilere ait yerlerde yapılması esastır. Ancak, bunun mümkün olmaması hâlinde sonradan kontrole tabi kişinin yerleşik olduğu yerde varsa gümrük idaresi yoksa başka bir resmî dairede yapılabilir. Birden çok yerde şubesi olan şirketlere ilişkin sonradan kontrol şirket merkezinde yapılabilir.
