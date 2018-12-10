@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10729",
+  "decision_date": "2018-12-10",
+  "source_id": 29098,
+  "chamber": "1",
+  "ilam_number": "310",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29098/",
+  "source_sha256": "4dbe02182f98bd34c38c559d5e515832b97edcbc4389eed4b98bce5bf8b1d537",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
