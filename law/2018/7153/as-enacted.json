@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7153",
+  "year": 2018,
+  "title": "Çevre Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-12-10",
+  "gazette_issue": "30621",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181210-4.htm",
+  "source_sha256": "3355ca9d0d1490afcccc72659488dec3e9d39fc04b6257bfec19d25a2c958aec",
+  "text_sha256": "9f4df035306ae94027385261e090d95f8ce3ace85179d381f941e07b90dd57d1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/12/10/30621-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181210-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
