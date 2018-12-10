@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 45 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-12-10",
+      "10.12.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 45 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30621",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-12-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Medipol Üniversitesi",
+  "issuer_slug": "istanbul-medipol-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-medipol-universitesi/2018/31038",
+  "published": "2018-12-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31038&MevzuatTertip=5",
+  "source_bytes": 64324,
+  "source_id": "8.5.31038",
+  "source_sha256": "0ba912b953222928578f96c3fed04886dd48adfcf585f4a66d6e85ac7957fa23",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL MEDİPOL ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 333,
+  "word_count": 3620
+}
