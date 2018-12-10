@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10729",
+  "decision_date": "2018-12-10",
+  "source_id": 29097,
+  "chamber": "1",
+  "ilam_number": "310",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29097/",
+  "source_sha256": "f901efcdc7995fd7215291d8629c922588435692b6ec216bd84dde741f4b9939",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
