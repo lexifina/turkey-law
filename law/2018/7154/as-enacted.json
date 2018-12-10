@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7154",
+  "year": 2018,
+  "title": "Türkiye Cumhuriyeti ve Birleşmiş Milletler Arasında En Az Gelişmiş Ülkeler İçin Teknoloji Bankası Kurulmasına Yönelik Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-12-10",
+  "gazette_issue": "30621",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181210-5.htm",
+  "source_sha256": "5c55f71e8dee2f9efeb0fb74447945bb9208b73b56a68d11343d0ea77bede861",
+  "text_sha256": "623ef534254e85baf78d62710e690256bb486baf20f25429871e172eed3a3a51",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/12/10/30621-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181210-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
