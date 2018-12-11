@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "299",
+  "decision_date": "2018-12-11",
+  "source_id": 28398,
+  "chamber": "7",
+  "ilam_number": "43",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28398/",
+  "source_sha256": "b8badeb8512b23043240299a101a85c4f393067b6b52b7d927ce5a201ba244ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
