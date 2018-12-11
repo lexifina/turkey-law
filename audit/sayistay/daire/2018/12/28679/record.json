@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "302",
+  "decision_date": "2018-12-11",
+  "source_id": 28679,
+  "chamber": "7",
+  "ilam_number": "79",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28679/",
+  "source_sha256": "9ecbfea42c84a261fd2aefef82a9d34ee2a7bfdec70ebbf29337ee623ea3c2ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
