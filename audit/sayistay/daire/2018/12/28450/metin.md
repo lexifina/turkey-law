@@ -1,0 +1,7 @@
+İhtiyaç sahiplerine yardım:
+
+İhtiyaç sahibi olduğu belirtilen ilçe halkının fotoğrafçıda çektirdiği fotoğrafların çekim ücretlerinin Belediye bütçesinden karşılanması neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+Belediye bütçesinden bir harcama yapılabilmesinin ön koşulu, ihtiyacın mahalli müşterek nitelikli olması ve ilgili mevzuatın buna cevaz vermesi gerekmektedir. 5393 sayılı Belediye Kanununun 14 üncü maddesinde belediyenin görev ve sorumlulukları, 60 ıncı maddesinde de belediye giderleri sayılmıştır. Ancak söz konusu mevzuat hükümleri arasında sorgu konusu giderin yapılabilmesine cevaz veren bir hüküm bulunmamaktadır. Ayrıca, söz konusu fotoğraf bedeli ödenen kişilerin ilçede yaşayan ihtiyaç sahipleri olduğu belirtilmekte ise de, bu kişilere yardım yapılabilmesi ilgili mevzuatında belirtilen şartların oluşmasına ve ilgili kanıtlayıcı belgelerin düzenlenmesine bağlanmıştır. Yine yardım konusu edilen ihtiyacın bu kapsamda değerlendirilebilecek nitelikte bulunması gerekmektedir.
+
+Her ne kadar İhtiyaç sahibi olduğu belirtilen ilçe halkının fotoğrafçıda çektirdiği fotoğrafların çekim ücretlerinin Belediye bütçesinden karşılanması neticesinde ... TL kamu zararına sebebiyet verilmişse de, söz konusu kamu zararının ... numaralı tahsilat makbuzu ile ilgilisinden tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oy birliğiyle karar verildi.
