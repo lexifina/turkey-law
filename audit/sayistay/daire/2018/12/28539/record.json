@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "594",
+  "decision_date": "2018-12-11",
+  "source_id": 28539,
+  "chamber": "6",
+  "ilam_number": "46",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28539/",
+  "source_sha256": "edf792e988ccc4a028ba6fe53953945804d799c1fe59174c94b76e341451854f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
