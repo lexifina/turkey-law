@@ -1,0 +1,3 @@
+Karar
+MADDE 3 – (1) İthalatta Korunma Önlemlerini Değerlendirme Kurulu, 70.04, 70.05 ve 70.06 gümrük tarife pozisyonlarında yer alan eşyanın İran İslam Cumhuriyeti menşeli olanlarının ithalatında 3 (üç) yıl süreyle ek mali yükümlülük şeklinde korunma önlemi uygulanmasına, ek mali yükümlülüğün birinci yıl için 48 ABD Doları/Ton, ikinci yıl için 46 ABD Doları/Ton, üçüncü yıl için 44 ABD Doları/Ton olarak belirlenmesine ve önlemin istihsali hususunda Cumhurbaşkanlığına öneride bulunulmasına karar vermiştir.
+(2) Bu maddenin birinci fıkrasında belirtilen önlem, ilgili Cumhurbaşkanı Kararının yürürlüğe girmesiyle uygulanmaya başlanır.
