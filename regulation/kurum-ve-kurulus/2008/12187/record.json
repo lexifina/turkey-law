@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.12187",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SIVI VE GAZ YAKITLI YENİ SICAK SU KAZANLARININ VERİMLİLİK GEREKLERİNE DAİR YÖNETMELİK (92/42/AT)",
+  "number": "12187",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12187",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12187&MevzuatTertip=5",
+  "source_sha256": "ac5604021146590b0e6733b37be245c15999d61b21a353d358953b8640105d8d",
+  "source_bytes": 95501,
+  "published": "2008-06-05",
+  "gazette": "26897",
+  "in_force": "2018-12-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/12/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-12-12",
+      "RG-12/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-12",
+      "12/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-03-28",
+      "RG-28/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-03-28",
+      "28/3/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2928,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

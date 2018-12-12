@@ -1,0 +1,5 @@
+ifade eder
+İKİNCİ BÖLÜM
+BELGELENDİRME VE ONAYLANMIŞ KURULUŞLAR(1)(2)
+Temel gerekler
+MADDE 5 – (Mülga:RG-28/3/2018-30374)(1)
