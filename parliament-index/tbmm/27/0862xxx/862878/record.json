@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862878,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "II. TUR - Enerji ve Tabii Kaynaklar Bakanlığı - Enerji Piyasası Düzenleme Kurumu 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Nükleer Düzenleme Kurumu 2019 Yılı Merkezî Yönetim Bütçesi - Ulusal Bor Araştırma Enstitüsü - Türkiye Atom Enerjisi Kurumu - Maden Tetkik ve Arama Genel Müdürlüğü 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Nadir Toprak Elementleri Araştırma Enstitüsü - Maden ve Petrol İşleri Genel Müdürlüğü - Ticaret Bakanlığı 2019 Yılı Merkezî Yönetim Bütçesi - Gümrük ve Ticaret Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Ekonomi Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Rekabet Kurumu 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Helal Akreditasyon Kurumu 2019 Yılı Merkezî Yönetim Bütçesi",
+  "title": "II. TUR - Enerji ve Tabii Kaynaklar Bakanlığı - Enerji Piyasası Düzenleme Kurumu 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Nükleer Düzenleme Kurumu 2019 Yılı Merkezî Yönetim Bütçesi - Ulusal Bor Araştırma Enstitüsü - Türkiye Atom Enerjisi Kurumu - Maden Tetkik ve Arama Genel Müdürlüğü 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Nadir Toprak Elementleri Araştırma Enstitüsü - Maden ve Petrol İşleri Genel Müdürlüğü - Ticaret Bakanlığı 2019 Yılı Merkezî Yönetim Bütçesi - Gümrük ve Ticaret Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Ekonomi Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Rekabet Kurumu 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Helal Akreditasyon Kurumu 2019 Yılı Merkezî Yönetim Bütçesi",
+  "first_sitting_date": "2018-12-12",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 7,
+      "sitting": 30,
+      "sitting_date": "2018-12-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c007/tbmm27007030.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c007/tbmm27007fih.pdf",
+      "pages": [
+        "326:493"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2018-12-12",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
