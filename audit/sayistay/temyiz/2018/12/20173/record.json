@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45417",
+  "decision_date": "2018-12-12",
+  "source_id": 20173,
+  "chamber": "8",
+  "file_number": "43685",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20173/",
+  "source_sha256": "1767b96ab6d61ef868b1e51663d3080b2cc6089e4cd43f14b502438016e01f01",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
