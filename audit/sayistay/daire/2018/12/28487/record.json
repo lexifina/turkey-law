@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "147",
+  "decision_date": "2018-12-13",
+  "source_id": 28487,
+  "chamber": "8",
+  "ilam_number": "55",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28487/",
+  "source_sha256": "c0d24acd27a6338857c94f5be60f6688c5155bd34f970d7c425f7beac6578e97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
