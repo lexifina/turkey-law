@@ -1,0 +1,13 @@
+İşçi eldiveni ve muhtelif gıda ürünleri alımı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+ Denetçi sorgusunda, …Belediyesince …parkı düğün salonunda gerçekleşen iş adamları toplantısı için işçi eldiveni ve muhtelif gıda ürünleri alınması sonucu  …-TL’lik kamu zararına neden olunduğu iddia edilmiş ise de;
+
+Sorumluların savunmalarından, sorgu konusu muhtelif gıda ürünlerin alındığı toplantının …başkanlığında yapılan …Derneği toplantısı olduğu, toplantıda İlçedeki iş hayatı ve istihdamın sağlanmasına ve %54 hissesine ….Belediyesinin sahip olduğu …II. OSB yatırımlarına ilişkin konularının görüşüldüğü, Belediye temizlik personelinin ihtiyacı olan temizlik eldivenleri de aynı firmadan tedarik edildiği için firma tarafından tek faturada gösterildiğinden, toplantıda kullanılan ikramlıklar ile işçi eldiveni alımın aynı ödemede görüldüğü anlaşılmıştır.
+
+5393 sayılı Belediye Kanunu’nun 60’ıncı maddesinde, temsil, tören, ağırlama ve tanıtım giderleri Belediye giderleri arasında sayılmış olup, temsil, tören, ağırlama ve tanıtım giderlerinin sarf esas ve usullerini düzenleyen ve İçişleri Bakanlığınca çıkarılan Belediye Bütçesinden Yapılacak Temsil Ağırlama ve Tören Giderleri Yönergesinin 3’üncü maddesinde, temsil, ağırlama ve tören giderlerinin konu, kapsam ve miktarının tayininin belediye başkanının takdirine tabi olduğu, 10’uncu maddesinde ise önceki maddelerde belirtilen giderler dışında kalan ve yapılması belde için de gerekli olan veya mahalli örf, adet ve sosyal yaşantı için de gerekli sayılan etkinlik ve törenler için de harcama yapılabileceği hükme bağlanmıştır. Dolayısıyla, söz konusu toplantı için çikolata şeker, su, kurabiye, cola ve maden suyu alımının Tanıtma, Ağırlama, Tören, Fuar, Organizasyon Giderleri kapsamında gerçekleştirilmesi mümkündür.
+
+Diğer yandan, her ne kadar işçi eldivenlerinin hatalı olarak Tanıtma, Ağırlama, Tören, Fuar, Organizasyon Giderleri ödeneğinden ödendiği görülmüş ise de;  hatalı bütçe tertibinden ödeme yapılması kamu zararı olarak değerlendirilemez. Zira, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 71’inci maddesinde, kamu zararının belirlenmesinde; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasının esas alınacağı belirtilmektedir.
+
+ Bu itibarla, işçi eldiveni ve muhtelif gıda ürünleri alımı sonucu kamu zararı oluşmadığı değerlendirildiğinden, konu hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca ... İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
