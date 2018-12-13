@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "117",
+  "decision_number": "63/1453",
+  "date": "2018-12-13",
+  "title": "Kurul’un i-SPK.52.4.P (13.12.2018 Tarihli ve 63/1453 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/117",
+  "source_sha256": "d697d9d54441e1951a6bea65261b80c2845f19a0202ba9eb290e4859dcb81ebb",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 117,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 3. Kurul’un i-SPK.52.4.p (13.12.2018 tarihli ve 63/1453 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2018-12-13",
+    "source_clauses": [
+      "3. Kurul’un i-SPK.52.4.p (13.12.2018 tarihli ve 63/1453 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "f2ff5b7e-b3f4-49c8-b9fc-28f03c7e0cc1",
+    "contentSource": "IlkeKarari",
+    "contentID": 117,
+    "tur": "İlke Kararı",
+    "title": "Kurul’un i-SPK.52.4.P (13.12.2018 Tarihli ve 63/1453 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2018-12-13T01:00:00",
+    "kurulKararTarih": "13.12.2018",
+    "kurulToplantiNo": "63/1453",
+    "bultenYili": 2018,
+    "bultenNo": 57,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "167:Yatırım Fonlarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 167,
+        "value": "Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;125:Yatırım Fonlarına İlişkin Rehber;36:Yatırım Fonları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 125,
+        "value": "Yatırım Fonlarına İlişkin Rehber"
+      },
+      {
+        "key": 36,
+        "value": "Yatırım Fonları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/117",
+    "linkTarget": "_blank"
+  }
+}
