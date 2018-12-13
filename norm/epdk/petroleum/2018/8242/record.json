@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8242",
+  "decision_date": "2018-12-13",
+  "title": "31/05/2011 tarihli ve 3242/3 sayılı Petrol Piyasasında Lisans Tadili Başvurularında Aranacak Bilgi ve Belgelere İlişkin Kurul Kararı’nda Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2018-12-15",
+  "resmi_gazete_number": "30626",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qosKZ/VoWeI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qosKZ/VoWeI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5585heXSNwU="
+  ],
+  "source_sha256": "421ebdc267aba237decb8eb96428335146f06bd0486cea22fa80c0819af0d8c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-13",
+  "law_text_complete": true
+}
