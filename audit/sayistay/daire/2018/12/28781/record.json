@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "307",
+  "decision_date": "2018-12-13",
+  "source_id": 28781,
+  "chamber": "7",
+  "ilam_number": "97",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28781/",
+  "source_sha256": "012b5c39aec7fbcf36ee5cf57640697d85fd7bec0e983f50744c6ae1d715c55e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
