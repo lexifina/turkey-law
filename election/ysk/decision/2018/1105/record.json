@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1105",
+  "list_number": "1105",
+  "decision_date": "2018-12-13",
+  "title": "31 Mart 2019 Pazar günü yapılacak olan Mahalli İdareler Seçimlerinde uygulanacak Seçim Takviminin kabulüne ilişkin Yüksek Seçim Kurulunun 2018/1105 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77906/2018-1105.pdf",
+  "source_sha256": "b203d32f1038fad8f2e450473ac83f1e3d3babbf9502659ca8d92213556c5c30",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 15,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-12-13",
+  "law_text_complete": false
+}
