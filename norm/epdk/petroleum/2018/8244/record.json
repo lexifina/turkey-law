@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8244",
+  "decision_date": "2018-12-13",
+  "title": "Lisans İşlemlerine İlişkin Başvurular Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2018-12-15",
+  "resmi_gazete_number": "30626",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VtIs6rKwDis=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VtIs6rKwDis=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Wl++Dm78vW8="
+  ],
+  "source_sha256": "b222b2350188cdd9ee6d46ef6c5999d1bd52c39d018ee29e0158146fd2ee0270",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-13",
+  "law_text_complete": true
+}
