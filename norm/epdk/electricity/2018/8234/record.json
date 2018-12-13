@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8234",
+  "decision_date": "2018-12-13",
+  "title": "GTŞ K3 Portföyü Tolerans Katsayısı Hakkında",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=96mJGB3StQc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=96mJGB3StQc="
+  ],
+  "source_sha256": "3987b03cb241b9fb02097e9850cda81bf10d6a9274c13efaa892ae43f4094fb6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2018-12-13",
+  "law_text_complete": false
+}
