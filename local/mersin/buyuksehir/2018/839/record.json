@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "839",
+  "decision_date": "2018-12-14",
+  "title": "MEC. KAR. MERKEZ 4 İLÇE İTİRAZLAR AÇIKLAMALI.docx",
+  "listed_as": "839 MEC. KAR. MERKEZ 4 İLÇE İTİRAZLAR AÇIKLAMALI.docx",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/839-mec-kar-merkez-4-ilce-itirazlar-aciklamalidocx",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-aralik-2018-meclis-kararlar",
+  "listing_sha256": "3c696833e95e1f15c3305745e5c7eadefeeda47af8054401569823e008e1ff87",
+  "meeting_title": "14 ARALIK 2018 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
