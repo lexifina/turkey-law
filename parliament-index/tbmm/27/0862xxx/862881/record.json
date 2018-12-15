@@ -1,0 +1,35 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862881,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "V. TUR - Ulaştırma ve Altyapı Bakanlığı 2019 Yılı Merkezî Yönetim Bütçesi - Ulaştırma, Denizcilik ve Haberleşme Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Karayolları Genel Müdürlüğü - Bilgi Teknolojileri ve İletişim Kurumu - Sivil Havacılık Genel Müdürlüğü - Millî Eğitim Bakanlığı - Yükseköğretim Kurulu - Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Yükseköğretim Kalite Kurulu 2019 Yılı Merkezî Yönetim Bütçesi - Türkiye ve Orta Doğu Amme İdaresi Enstitüsü 2017 Yılı Merkezî Yönetim Kesin Hesabı - Üniversiteler 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı",
+  "title": "V. TUR - Ulaştırma ve Altyapı Bakanlığı 2019 Yılı Merkezî Yönetim Bütçesi - Ulaştırma, Denizcilik ve Haberleşme Bakanlığı 2017 Yılı Merkezî Yönetim Kesin Hesabı - Karayolları Genel Müdürlüğü - Bilgi Teknolojileri ve İletişim Kurumu - Sivil Havacılık Genel Müdürlüğü - Millî Eğitim Bakanlığı - Yükseköğretim Kurulu - Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı - Yükseköğretim Kalite Kurulu 2019 Yılı Merkezî Yönetim Bütçesi - Türkiye ve Orta Doğu Amme İdaresi Enstitüsü 2017 Yılı Merkezî Yönetim Kesin Hesabı - Üniversiteler 2019 Yılı Merkezî Yönetim Bütçesi ile 2017 Yılı Merkezî Yönetim Kesin Hesabı",
+  "first_sitting_date": "2018-12-15",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 8,
+      "sitting": 33,
+      "sitting_date": "2018-12-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c008/tbmm27008033.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c008/tbmm27008fih.pdf",
+      "pages": [
+        "83:322"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2018-12-15",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
