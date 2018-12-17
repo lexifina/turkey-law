@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-12-17",
+      "17.12.2018",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30628",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2018-12-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/2018/31052",
+  "published": "2018-12-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31052&MevzuatTertip=5",
+  "source_bytes": 30741,
+  "source_id": "8.5.31052",
+  "source_sha256": "1fbf332d23f9367c49ad37e376ca3e3d1c54b33b003d039ff99936e95afbeebe",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ YABAN HAYVANLARI KORUMA VE REHABİLİTASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 1254
+}
