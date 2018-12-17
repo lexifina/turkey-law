@@ -1,0 +1,277 @@
+17 Aralık 2018 PAZARTESİ
+Resmî Gazete
+Sayı : 30628
+YÖNETMELİK
+Iğdır Üniversitesinden:
+IĞDIR ÜNİVERSİTESİ ANLAŞMAZLIK ÇÖZÜMÜ VE BİRLİKTE
+YAŞAMA KÜLTÜRÜ UYGULAMA VE ARAŞTIRMA
+MERKEZİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Iğdır Üniversitesi
+Anlaşmazlık Çözümü ve Birlikte Yaşama Kültürü Uygulama ve Araştırma
+Merkezinin amaçlarına, faaliyet alanlarına, görevlerine ve yönetimine
+ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Iğdır Üniversitesi Rektörlüğüne
+bağlı olarak kurulan Iğdır Üniversitesi Anlaşmazlık Çözümü ve Birlikte
+Yaşama Kültürü Uygulama ve Araştırma Merkezinin (ANLAŞ-MER) kuruluş,
+işleyiş ve görevlerini kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 4/11/1981
+tarihli ve 2547 sayılı Yükseköğretim Kanununun 7 nci
+maddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14
+üncü maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Merkez: Iğdır Üniversitesi Anlaşmazlık Çözümü ve
+Birlikte Yaşama Kültürü Uygulama ve Araştırma Merkezini (ANLAŞ-MER),
+b) Müdür: Merkez Müdürünü,
+c) Rektör: Iğdır Üniversitesi Rektörünü,
+ç) Senato: Iğdır Üniversitesi Senatosunu,
+d) Üniversite: Iğdır Üniversitesini,
+e) Yönetim Kurulu: Merkez Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin
+amaçları
+MADDE 5 – (1) Merkezin amaçları aşağıda yer almaktadır:
+a) Şiddet, saldırganlık, suç,
+terör, kan davaları, töre ve namus cinayetleri, ailenin çözülmesi,
+bireyselleşme, sosyal dışlama, ötekileştirme, sosyal çözülme, aile içi
+çatışmalar, uyuşturucu kullanımı ve intihar eğilimlerinin neden ve
+sonuçlarına yönelik bilimsel çalışmalar yapmak; bunlarla mücadeleye yönelik
+tedbirlerin uygulanmasını sağlamak ve bireylerin ve toplumun söz konusu bu olgular
+karşısında daha yapıcı, müzakereci, başkalarının haklarına saygılı olmasını
+sağlayacak çalışmalar yapmak; bu yönde projeler geliştirmek ve uygulamak.
+b) Uluslararası, ulusal, toplumsal gruplar,
+şirketler, kurumlar, kuruluşlar ve kişiler arası düzeyde yaşanan anlaşmazlıkların
+yapıcı/barışçıl çözümü için kuramsal ve uygulama düzeyinde araştırma ve
+uygulamaya yönelik çalışmalar yapmak.
+c) Her çeşit kurum ve kuruluşta yaşanabilecek
+anlaşmazlıkların önlenmesine ve çözümüne yönelik kuramsal ve uygulama düzeyinde
+faaliyetlerde bulunmak, projeler üretmek ve yürütmek.
+ç) Eğitim kurumlarında “anlaşmazlık çözümü: akran
+arabuluculuğu” sisteminin kurulması yönünde kuramsal ve uygulamaya yönelik
+çalışmalar yapmak, projeler geliştirmek ve yürütmek.
+d) Üniversiteler, işyerleri, okullar, sağlık
+kuruluşları, sosyal güvenlik örgütleri, sivil toplum kuruluşları, mahkemeler,
+ceza infaz ve rehabilitasyon kuruluşları ve
+benzeri kurum ve kuruluşlarda barışçıl davranışların kazanılması için;
+“müzakere kültürü”, “anlaşmazlıkların dönüştürülmesi”, “barış eğitimi” ve
+“pozitif sosyal tutum” konularında eğitim programlarını hazırlamak ve
+uygulamak.
+e) Kültürler arası/gruplar arası/kişiler arası
+anlaşmazlık ve çatışma çözüm teorilerinin geliştirilmesi, şiddet öğelerinin
+azaltılması ve barış kültürünün bilişsel, duyuşsal ve davranışsal olarak
+yaygınlaşması için ihtiyaç duyulan etkin çözüm/uygulama modellerini
+araştırmak, uygulamak ve yaygınlaştırmak.
+f) İnsan hakları, çocuk hakları ve kadın hakları
+bağlamında demokratik vatandaşlık bilincinin yaygınlaştırılabilmesi için
+araştırmalar yapmak, projeler geliştirmek ve uygulamak.
+g) Aile içi ve akrabalar arası şiddeti, töre
+cinayetlerini, ayrımcılığı, sosyal dışlamayı azaltıcı/önleyici yönde
+kuramsal ve uygulamalı araştırmalar yapmak, projeler üretmek ve yürütmek.
+ğ) Farklı inanç, düşünce ve
+kültür grupları arası ilişkilerde, vatandaş-devlet ilişkilerinde güven
+arttırıcı çalışmalar yapmak, bu ilişkilerin demokratik zeminine yönelik
+sosyal ve bilimsel çalışmalar yapmak; çok dillilik, dinlilik ve kültürlülük
+bağlamındaki toplumsal zenginlikleri koruyucu ve geliştirici çalışmalar
+yapmak; farklılıklara saygı bilincini güçlendirmek ve toplumsal
+farklılıkları birlikte yaşama kültürünün inşası açısından bütünleştirici
+çalışmalar yapmak.
+h) Aile, komşuluk, akrabalık, yardımlaşma,
+dayanışma, hayırseverlik, gönüllülük gibi toplumsal değerleri güçlendirici
+çalışmalar yapmak.
+Merkezin
+faaliyet alanları
+MADDE 6 – (1) Merkez, kuruluş amacına uygun olarak aşağıdaki
+faaliyetlerde bulunur:
+a) Ulusal ve uluslararası düzeyde
+anlaşmazlık çözümü, arabuluculuk, müzakere becerisi, barış çalışmaları, iletişim
+becerileri ve benzeri konularda bilimsel araştırmalar yapmak, projeler
+üretmek/yürütmek; yürütülmekte olan projelere ortak olmak, ulusal ve uluslararası
+kuruluşlara, gerçek ve tüzel kişilere, hizmet içi eğitim kursları, konferanslar,
+çalıştaylar, seminerler, sertifika programları
+düzenlemek, toplumdaki her kesimi, doğrudan ya da uzaktan eğitim yoluyla
+bilgilendirmek ve bilinçlendirmek, bu amaçla kurulmuş benzeri merkezlerle
+iş birliği yapmak.
+b) Üniversiteler, işyerleri, okullar, sağlık
+kuruluşları, sosyal güvenlik örgütleri, sivil toplum kuruluşları, mahkemeler,
+ceza infaz ve rehabilitasyon kuruluşları için
+ulusal ve uluslararası düzeyde anlaşmazlık çözüm programları/modelleri
+geliştirmek ve uygulamak.
+c) Merkezin amacı doğrultusunda kamu kurum ve
+kuruluşlarına, sivil kuruluşlara yönelik bilimsel araştırmalar yapmak;
+projeler hazırlamak, uygulamak ya da yürütülmekte olan projelere katılmak.
+ç) Merkezin amacı doğrultusunda, yurt içi ve yurt
+dışındaki benzeri kurum/kuruluşlarla, resmi senedinde Merkez
+faaliyetleriyle ortak konular bulunan Vakıflarla işbirliği yapmak,
+üniversitelerde lisans, yüksek lisans ve doktora düzeyinde kanuni
+arabuluculuk, akran arabuluculuğu, müzakere, anlaşmazlık çözümü,
+anlaşmazlıkların dönüştürülmesi, diyalog, farklılıklara saygı, toplumsal
+cinsiyet eşitliği, birlikte yaşama kültürü, çoğulculuk, barış eğitimi,
+etkili iletişim ve benzeri çalışma konularıyla ilgili ders, kurs,
+konferans, seminerler verilmesini sağlamak, sempozyum,
+çalıştay, kongre ve sertifika programları
+düzenlemek, anılan konularda öğrencilerin tezler hazırlamasını özendirmek
+ve gerekli desteği sağlamak.
+d) Okulların gerçek hayatla bütünleşik ve güvenli
+alanlar olması amacıyla, etkin bir öğrenci danışmanlığı ve akran
+arabuluculuğu sistemi geliştirilebilmesi ve uygulanabilmesi için
+üniversitelere, örgün, yaygın eğitim-öğretim kurumlarına kuramsal ve
+uygulamalar düzeyinde destek vermek, bilimsel araştırmalar yapmak, proje
+üretmek/yürütmek.
+e) Merkezin amacı doğrultusunda, ilgili literatüre ve saha çalışmalarına dayalı yayın
+etkinliğinde bulunmak, bilimsel raporlar hazırlamak, çalışma konuları
+kapsamında danışmanlık ve bilirkişilik hizmetleri vermek.
+f) Merkezin çalışma alanlarıyla ilgili konularda
+ulusal ve uluslararası düzeyde ortaya çıkan sorunlara çözüm üretmek için
+gerekli faaliyetleri planlamak, düzenlemek ve yürütmek.
+g) Yürütülmekte olan projelerin özelliğine göre,
+kurum dışından ulusal ve uluslararası düzeyde bilim insanı ve uzmanların
+hizmetlerinden yararlanmak.
+ğ) Merkezin kuruluş amacına uygun diğer çalışmaları
+yapmak.
+ÜÇÜNCÜ BÖLÜM
+Merkezin Yönetim Organları ve Görevleri
+Merkezin
+yönetim organları
+MADDE 7 – (1) Merkezin yönetim organları şunlardır:
+a) Müdür.
+b) Yönetim Kurulu.
+c) Danışma Kurulu.
+Müdür ve
+görevleri
+MADDE 8 – (1) Müdür, Rektör tarafından Üniversitenin öğretim
+elemanları arasından üç yıl süre için görevlendirilir. Görev süresi biten
+Müdür yeniden görevlendirilebilir.
+(2) Müdürün görevleri şunlardır:
+a) Merkezi temsil etmek.
+b) Yönetim Kurulunun aldığı kararları ve çalışma
+programını uygulamak.
+c) Merkezi, amacı doğrultusunda yönetmek.
+ç) Uygulanan programlara ve faaliyetlere ilişkin
+koordinasyonu sağlamak.
+d) Merkezin yıllık faaliyet raporunu, bir sonraki
+yıla ait çalışma programını düzenlemek ve Yönetim Kurulunun görüşünü
+aldıktan sonra Rektörün onayına sunmak.
+e) Yönetim ve Danışma kurullarına başkanlık yapmak.
+f) Çalışma programları hazırlamak, Yönetim Kuruluna
+önermek, Yönetim Kurulunca karara bağlanan çalışma gruplarını yürütmek,
+çalışma gruplarını yönlendirmek ve denetlemek.
+g) Oluşturulan çalışma gruplarının faaliyetleri,
+plan, program ve projeleriyle ilgili olarak Yönetim Kurulunu
+bilgilendirmek.
+ğ) Eğitim, kurs, çalıştay,
+kongre, sertifika programı, sempozyum, seminer ve
+benzeri program ve projelerin düzenlenmesini, yürütülmesini,
+yönlendirilmesini ve denetimini sağlamak.
+(3) Merkez
+çalışmalarının etkinliğini sağlamak için Merkezin çalışma konularında
+uzmanlığı/yayınları bulunan Üniversite öğretim elemanları arasından,
+Müdürün teklifi üzerine Rektör tarafından, Merkezde müdür yardımcıları
+görevlendirilebilir. Müdür yardımcıları gerekli hallerde Müdür yerine
+vekâlet eder.
+Yönetim
+Kurulu ve görevleri
+MADDE 9 – (1) Yönetim Kurulu; Müdür ile birlikte Üniversite
+öğretim elemanlarından Merkez çalışma konularında uzmanlığı ve yayını
+bulunan kişilerden olmak üzere Rektör tarafından görevlendirilecek beş
+üyeden oluşur. Yönetim Kurulu toplantılarına Müdür başkanlık eder. Yönetim
+Kurulu üyelerinin görev süresi üç yıldır. Görevlendirme süresi biten üye
+yeniden görevlendirilebilir.
+(2) Yönetim Kurulu, Müdürün daveti üzerine yılda en
+az iki defa olağan ve gerektiğinde her zaman olağanüstü toplanarak Müdür
+tarafından hazırlanan gündem maddelerini görüşüp karar alır. Yönetim Kurulu
+üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile
+alınır.
+(3) Yönetim Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleriyle ilgili eğitim
+programlarının hazırlanması ve planlanması, katılım koşullarının belirlenmesi,
+eğitim verecek birimlerle gerekli koordinasyonun sağlanması konularında
+kararlar almak.
+b) Faaliyet raporunun düzenlenmesine ilişkin
+esasları tespit etmek ve sunulan raporu değerlendirmek.
+c) Bir sonraki döneme ait çalışma programının
+düzenlenmesine ilişkin esasları tespit etmek ve sunulan raporu
+değerlendirmek.
+ç) Eğitim programları ile bu programların sonunda
+katılım belgesi, başarı belgesi ve benzeri belgelerin düzenlenmesine karar
+vermek.
+Danışma Kurulu
+ve görevleri
+MADDE 10
+– (1) Danışma Kurulu; Merkezin
+faaliyet alanlarında çalışmalar yürüten veya çalışmalarıyla Merkeze katkısı
+olacağı düşünülen, Üniversite öğretim elemanları ile dışarıdan, ulusal ve
+uluslararası düzeyde faaliyet gösteren kişi ve kuruluş temsilcilerinden
+olmak üzere en az beş en çok on üyeden oluşur. Danışma Kurulu üyeleri
+Müdürün teklifi ve Merkez Yönetim Kurulu kararı ile Rektör tarafından
+görevlendirilir.
+(2) Danışma Kurulu üyelerinin görev süresi üç
+yıldır. Süresi biten üye tekrar görevlendirilebilir.
+(3) Danışma Kurulu, Merkezin faaliyetleri ile
+ilgili olarak değerlendirmelerde bulunur ve istişari
+nitelikte görüş bildirir.
+(4) Danışma Kurulu yılda en az bir kez Müdürün
+çağrısı ile olağan olarak toplanır. Merkez Müdürü gerekli gördüğü takdirde
+Danışma Kurulunu olağanüstü toplantıya çağırabilir. Danışma Kurulu üye tam
+sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların salt
+çoğunluğu tavsiye niteliğinde karar alıp yazılı olarak Merkeze iletir.
+(5) Danışma Kurulunun görevleri şunlardır:
+a) Merkezin faaliyetleri ile ilgili
+değerlendirmeler yapmak ve önerilerde bulunmak.
+b) Faaliyetler konusunda Yönetim Kuruluna
+danışmanlık yapmak.
+c) Başka kurum/kuruluş ve kişilerle ihtiyaç duyulan
+yakınlık, tanıtım, işbirliği sağlanması hususunda katkı vermek.
+ç) Merkezin amacını gerçekleştirmeye yönelik plan,
+program, strateji ve faaliyetleri hakkında önerilerde bulunmak.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Merkez
+birimleri
+MADDE 11
+– (1) Merkezin çalışma konularıyla
+ilgili faaliyetlerin verimliliğini ve etkinliğini artırmak üzere Proje
+Geliştirme Birimi, Yayın Birimi, Saha Araştırmaları Birimi, Halkla
+İlişkiler Birimi, Anlaşmazlık Çözümü birimi gibi sürekli veya geçici birimler
+oluşturulabilir.
+(2) Birimler, Müdürün teklifi ve Yönetim Kurulunun
+onayıyla kurulur. Birimler Yönetim Kurulu kararı ile görevlendirilen bir
+birim başkanı sorumluluğunda iş görür. Birimler, ilgi alanlarına giren ve
+Merkez Yönetimince verilen işleri yürütür; yapılan çalışmalarla ilgili
+olarak Müdürlüğe raporlar hazırlar, önerilerde bulunur. Bu birimlerde yer
+alan görevliler, Yönetim Kurulunca öngörülen süreler için
+görevlendirilirler. Müdür, birimlerin faaliyetlerini izler ve denetler.
+Süresi dolan birim personeli Yönetim Kurulu tarafından yeniden
+görevlendirilebilir.
+Personel
+ihtiyacı
+MADDE 12
+– (1) Merkezin akademik, teknik ve
+idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca,
+Müdürün önerisi üzerine Rektör tarafından görevlendirilecek personel
+tarafından karşılanır.
+Harcama
+yetkilisi
+MADDE 13
+– (1) Merkezin harcama yetkilisi
+Rektördür. Rektör bu yetkisini Müdüre devredebilir.
+Hüküm
+bulunmayan haller
+MADDE 14
+– (1) Bu Yönetmelikte hüküm
+bulunmayan hallerde, ilgili diğer mevzuat hükümleri ile Senato kararları
+uygulanır.
+Yürürlük
+MADDE 15
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16
+– (1) Bu Yönetmelik hükümlerini
+Iğdır Üniversitesi Rektörü yürütür.
