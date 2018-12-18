@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10730",
+  "decision_date": "2018-12-18",
+  "source_id": 28730,
+  "chamber": "1",
+  "ilam_number": "69",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28730/",
+  "source_sha256": "5357f5f10808c7cb7ad153e55fc4267b2e2af56a543b6469ea19705c683f1555",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
