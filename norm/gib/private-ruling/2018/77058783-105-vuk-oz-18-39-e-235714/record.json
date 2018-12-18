@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2018-12-18T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2018-12-18",
+  "official_number": "77058783-105[VUK.ÖZ.18.39]-E.235714",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26704",
+  "source_id": "ozelge:26704",
+  "source_row_sha256": "ba078f3c5cd81bedb7c659b4bb8bd34c09a6ca21a8c59639d3662b8c473b4e6d",
+  "title": "Yabancı para cinsinden kullanılan kredilerin değerlemesinde meydana gelen kur farkının ödenen taksit tutarına mı yoksa anapara üzerindenmi hesaplanacağı",
+  "version_label": "as-enacted",
+  "word_count": 804
+}
