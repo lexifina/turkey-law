@@ -1,0 +1,13 @@
+Otopark Geliri
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+…Büyükşehir Belediyesinin 2017 yılı otopark yerlerinin işletilmesinden elde ettiği gelirlerinin % 50’si üzerinden nüfus oranına göre … Belediyesine düşen payın tahsil edilmemesi suretiyle …-TL kamu zararına neden olunduğunun iddia edildiği görülmüşse de;
+
+5216 sayılı Büyükşehir Belediyesi Kanunu’nun 7’nci maddesinin (f) bendi uyarınca karayolu, yol, cadde, sokak, meydan ve benzeri yerler üzerinde araç park yerlerini tespit etmek ve işletmek, işlettirmek veya kiraya vermek büyükşehir belediyesinin görevleri arasında olduğu; "Büyükşehir belediyesinin gelirleri" başlıklı 23’üncü maddesinin (f) bendinde de söz konusu park yerlerinin işletilmesinden elde edilen gelirin % 50'sinin ilçe ve ilk kademe belediyelerine, nüfuslarına göre dağıtılacağı belirtilmiştir.
+
+Aynı Kanun’un 23’üncü maddesinin son fıkrasında ise “Büyükşehir belediyeleri ve bağlı kuruluşları ile ilçe belediyeleri; tahsil ettikleri vergiler ve benzeri malî yükümlülüklerden birbirlerine ödemeleri gereken paylar ile su, atık su ve doğalgaz bedellerini zamanında yatırmadıkları takdirde, ilgili belediye veya bağlı kuruluşun talebi üzerine söz konusu tutar, İller Bankası tarafından, yükümlü belediyenin genel bütçe vergi gelirleri payından kesilerek alacaklı belediyenin hesabına aktarılır. Gecikmeden kaynaklanacak faiz ve benzeri her türlü zararın tazmininden, ilgili ilçe belediye başkanı ve sayman şahsen sorumludur. Bu fıkra hükmü, ilçe ve ilk kademe belediyeleri hesabına yapılacak her türlü aktarmaları zamanında yapmayan büyükşehir belediye başkanı, bağlı kuruluş genel müdürleri ve saymanları hakkında da uygulanır.” hükmüne yer verilmiştir.
+
+Sorgu konusu olayda, … Büyükşehir Belediyesi tarafından otopark yerlerinin işletilmesinden elde edilen 2017 yılı gelirlerinden … Belediyesinin mevzuatta ifade edilen payı almadığı görülmekle birlikte, tahsilatın gerçekleşmesi için idare tarafından … Büyükşehir Belediyesine … tarih ve …sayılı yazı ile başvurulduğu savunmalardan anlaşılmaktadır.  Bununla birlikte, sorgu konusu otopark gelirinin 2017 yılına ait olması sebebiyle, zamanaşımı gerçekleşmemiştir.
+
+Tahsilat payını aktarmayan tarafın Büyükşehir Belediyesi olması, tahsilatın sağlanması için idarenin Büyükşehir Belediyesine başvurmuş olması ve sorgu konusu gelirin zamanaşımına uğramaması nedeniyle konu hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
