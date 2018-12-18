@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2018/51",
+  "meeting_date": "2018-12-18",
+  "meeting_date_as_published": "18.12.2018",
+  "decision_no": "96",
+  "source_id": 11143,
+  "title": "RTÜK kararı 2018/51-96",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/11143",
+  "source_sha256": "06f95cbf7942b696dc2e9fcd41067846f22c15047d55d24c0c2f0448f9220d14",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
