@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10732",
+  "decision_date": "2018-12-18",
+  "source_id": 28876,
+  "chamber": "1",
+  "ilam_number": "166",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28876/",
+  "source_sha256": "62c2e0f95d3d5b58156f21f5370619b26c4bb0aa1d07729a410fed3ea3c5e83c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
