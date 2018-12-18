@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "188",
+  "decision_date": "2018-12-18",
+  "source_id": 28424,
+  "chamber": "4",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28424/",
+  "source_sha256": "965d6b64c64669d50b3316a878a8fda1ec2ab8c3e31397b5ad9d5c29af79a9f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
