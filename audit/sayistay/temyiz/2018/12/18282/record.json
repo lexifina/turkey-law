@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45431",
+  "decision_date": "2018-12-19",
+  "source_id": 18282,
+  "chamber": "1",
+  "file_number": "43556",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18282/",
+  "source_sha256": "0710af87c05e840c64d9ccd8a8b4515ce9506da8439216091d134827baa80f35",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
