@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-12-19",
+  "issue": "30630",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7155 Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181219-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181219.htm",
+  "index_sha256": "faa198213bee9cf3837ef12d693671563f3d0a79aff24fb20247ac08d9fb9e87",
+  "index_header": "19 Aralık 2018 ... 30630 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181219.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
