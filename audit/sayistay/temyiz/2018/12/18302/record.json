@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45448",
+  "decision_date": "2018-12-19",
+  "source_id": 18302,
+  "chamber": "6",
+  "file_number": "44325",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18302/",
+  "source_sha256": "b0f054f350c056d9cfa59c1e9379a43554dbad5bd98e0ab97efaf4335797df9d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
