@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8265",
+  "decision_date": "2018-12-20",
+  "title": "Doğal gaz piyasasında 2019 yılı boyunca uygulanmak üzere, serbest tüketici olma sınırına ilişkin",
+  "resmi_gazete_date": "2018-12-23",
+  "resmi_gazete_number": "30634",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Zc3bx5lrz0E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Zc3bx5lrz0E="
+  ],
+  "source_sha256": "7bf40c8d64fe4c33f31576b0b52f97474f69b20f0d7cc8a39ed8c279d7a7de3d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-20",
+  "law_text_complete": true
+}
