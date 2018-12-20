@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "313",
+  "decision_date": "2018-12-20",
+  "source_id": 30140,
+  "chamber": "7",
+  "ilam_number": "132",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30140/",
+  "source_sha256": "49e8e20eb35e658eccdee71281b133f7b5e86939f527a5fb8d7d71e9ac14379e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
