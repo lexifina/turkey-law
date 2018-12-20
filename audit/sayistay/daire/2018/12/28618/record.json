@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "335",
+  "decision_date": "2018-12-20",
+  "source_id": 28618,
+  "chamber": "5",
+  "ilam_number": "68",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28618/",
+  "source_sha256": "bbbec50195d6fdcaa8047922fe53e364b1028118292d2961198e620b4799ee76",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
