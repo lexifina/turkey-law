@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8272",
+  "decision_date": "2018-12-20",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi tarafından 1/1/2019 tarihinden itibaren uygulanacak iletim sistem kullanım ve sistem işletim tarifelerine ilişkin",
+  "resmi_gazete_date": "2018-12-23",
+  "resmi_gazete_number": "30634",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zHp5VM7Z834=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zHp5VM7Z834=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=K8yVEJVotrM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ESxpbKy9AFc="
+  ],
+  "source_sha256": "3b4201597bf01f3785433fb315ead5fe2ce026bd988928d67a59e658bed0dbf4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-20",
+  "law_text_complete": true
+}
