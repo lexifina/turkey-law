@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31063",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2018/44)",
+  "number": "31063",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2018/31063",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31063&MevzuatTertip=5",
+  "source_sha256": "dc6986bf559113bad857a734b53979687e130785657cc364181e2a4e1442335d",
+  "source_bytes": 12357,
+  "published": "2018-12-21",
+  "gazette": "30632 Mükerrer",
+  "in_force": "2018-12-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.12.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 148,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31063.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
