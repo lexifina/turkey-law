@@ -1,0 +1,3 @@
+Onay ücreti
+MADDE 9 – (1) Kapasite raporu tasdik ücreti, 5362 sayılı Kanunun 61 inci maddesi hükümleri doğrultusunda, sermaye-kıymetler toplamı üzerinden nispi olarak belirlenir. Oda, birlik ve Konfederasyonca ayrı ayrı tahsil edilecek kapasite raporu tasdik ücreti, odanın dahil olduğu gruba göre belirlenen yıllık aidat miktarının yarısını aşamaz.
+(2) Posta ile yapılacak başvurularda tasdik ücretine ilişkin banka dekontu, onaylanacak kapasite raporu ile birlikte Konfederasyona gönderilir. Elden yapılacak başvurularda kapasite raporu tasdik ücreti Konfederasyon Muhasebe Müdürlüğüne ödenir. Elektronik ortamda yapılacak başvurularda tasdik ücretine ilişkin banka dekontu Konfederasyona faks ya da posta ile gönderilir.

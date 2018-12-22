@@ -1,0 +1,2 @@
+Kapasite raporunun elektronik ortamda düzenlenmesi
+MADDE 7 – (1) Kapasite raporu, elektronik ortamda da düzenlenebilir. Kapasite raporunun elektronik ortamda düzenlenebilmesi için düzenleyecek olan oda ve birlik, Konfederasyona yazılı başvuruda bulunarak kullanıcı adı ve şifre talep eder. Alınan kullanıcı adı ve şifre ile Konfederasyonun İnternet sayfasındaki Kapasite Raporu Programına giriş yapılarak ilgili işlemler yerine getirilir.
