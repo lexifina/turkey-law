@@ -1,0 +1,3 @@
+KONU: Yemek hizmeti satın alma işi ihale edilip Kurum yemekhanesinde personele yemek hizmeti sunulmasına rağmen görevli bazı memurlara yemek yardımının yemek fişi verilmesi suretiyle yapılması.
+
+272 sayılı Ek İlam’ın 1. maddesi ile verilen hüküm, sorumlulukta Üst Yönetici sıfatıyla iştiraki bulunan …’un başvurusu üzerine düzenlenen 26.12.2018 tarih ve 45454 tutanak sayılı Temyiz Kurulu İlamı ile bozulduğundan sorumlunun işbu madde ile ilgili itirazı üzerine Kurulumuzca Yapılacak İşlem Olmadığına; ancak aynı mahiyette olan bu dosyanın, gereği yapılmak üzere 42305 sayılı dosya ile BİRLEŞTİRİLEREK DAİRESİNE TEVDİİNE, oybirliğiyle Karar verildiği 26.12.2018 tarih ve 45455 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
