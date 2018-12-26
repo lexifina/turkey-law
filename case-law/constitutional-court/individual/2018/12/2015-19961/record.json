@@ -1,0 +1,23 @@
+{
+  "applicant": "GAYE ÖZEL EĞİTİM İNŞAAT BİLİŞİM YEMEK DAĞITIM TİC. A.Ş.",
+  "applicant_form": "entity",
+  "application_date": "2015-12-22",
+  "application_number": "2015/19961",
+  "database_publication_date": "2019-01-28",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2018-12-26",
+  "gazette_number": null,
+  "history_type": "metadata",
+  "id": "ea2736eb-f646-d74f-9b82-274d8113ff98",
+  "in_force": "2018-12-26",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "law_text_complete": false,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVhMjczNmViLWY2NDYtZDc0Zi05YjgyLTI3NGQ4MTEzZmY5OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_listing": "evidence/list/BireyselBasvuru-2018-01-01-2018-12-31-p3.json (official API answer, read 2026-11-15)",
+  "source_listing_sha256": "ec1589e4c28c25c2c93a7ed796c0da427c6def8a6d684c3c1a10003f36412727",
+  "text_status": "metadata-only: official database listing fields; the decision text is on the linked official page, not transcribed"
+}
