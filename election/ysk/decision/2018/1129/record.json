@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1129",
+  "list_number": "1129",
+  "decision_date": "2018-12-26",
+  "title": "Sandık Kurullarının Görev ve Yetkilerini Gösterir 138 Sayılı Genelgenin kabulüne ilişkin Yüksek Seçim Kurulunun 2018/1129 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77929/2018-1129.pdf",
+  "source_sha256": "2d1e1ed14136a1ecc1adc11acab44d348d1f89fb9c89d1e769677396e0628641",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 30,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-12-26",
+  "law_text_complete": false
+}
