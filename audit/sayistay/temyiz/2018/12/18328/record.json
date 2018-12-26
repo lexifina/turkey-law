@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45466",
+  "decision_date": "2018-12-26",
+  "source_id": 18328,
+  "chamber": "8",
+  "file_number": "44508",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18328/",
+  "source_sha256": "667f950e2fcfce57ab01f9c17656c2f18d250c0d04997cddc0ca1486b3c5fbcc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
