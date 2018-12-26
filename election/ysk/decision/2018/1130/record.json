@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1130",
+  "list_number": "1130",
+  "decision_date": "2018-12-26",
+  "title": "31 Mart 2019 tarihinde yapılacak köy muhtarlığı ve ihtiyar meclisi üyeliği ile mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerine ilişkin olarak uygulanacak usul ve esasların belirlenmesine ilişkin Yüksek Seçim Kurulunun 2018/1130 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77931/2018-1130.pdf",
+  "source_sha256": "1224ca44976863430ee3ca646203b76bff2a89d723a88f1ce855ae4bcbd2ba4d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-12-26",
+  "law_text_complete": false
+}
