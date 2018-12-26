@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31079",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 157)",
+  "number": "31079",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/31079",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31079&MevzuatTertip=5",
+  "source_sha256": "544f6d5635535c4f89be9d2cb34aa599485ea6c2616b8c437ed211e08c73206d",
+  "source_bytes": 10743,
+  "published": "2018-12-26",
+  "gazette": "30637",
+  "in_force": "2018-12-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.12.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 269,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
