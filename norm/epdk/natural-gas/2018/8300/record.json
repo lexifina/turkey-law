@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8300",
+  "decision_date": "2018-12-27",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin iletim ve sevkiyat kontrol bedellerine yönelik",
+  "resmi_gazete_date": "2018-12-29",
+  "resmi_gazete_number": "30640",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CEM7nGlaY+M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CEM7nGlaY+M="
+  ],
+  "source_sha256": "138458de23e745177b78756867509c95fcf27af0285a5780f723412b49e13aec",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-27",
+  "law_text_complete": true
+}
