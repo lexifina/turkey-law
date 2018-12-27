@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8306",
+  "decision_date": "2018-12-27",
+  "title": "2019 yılı Hedef Kayıp Oranlarına ilişkin",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LgZbxDcdyNk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LgZbxDcdyNk="
+  ],
+  "source_sha256": "bdaabddf78334d56e3b9ca0389b731bd70e12d61ada141cc337e015718c2af50",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-27",
+  "law_text_complete": true
+}
