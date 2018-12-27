@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31083",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2019 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "31083",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31083&MevzuatTertip=5",
+  "source_sha256": "9137fb076708c9e2d8ea09b9fa6c56fe9b5c7fe05895be9bc2d5c5a44e912f38",
+  "source_bytes": 53694,
+  "published": "2018-12-27",
+  "gazette": "30638",
+  "in_force": "2018-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2018); own commencement article: \"Bu Tebliğin 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3279,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31083-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
