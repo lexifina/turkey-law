@@ -1,0 +1,82 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7159",
+  "year": 2018,
+  "title": "Karayolları Trafik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2018-12-27",
+  "adopted_as_published": "27/12/2018",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "28.12.2018 No: 30639",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307159.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 38 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009041ss0038.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862808,
+      "title": "Karayolları Trafik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "27/12/2018",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307159.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 38 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009041ss0038.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 9,
+          "sitting": 39,
+          "sitting_date": "2018-12-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009039.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009fih.pdf",
+          "pages": [
+            "582"
+          ]
+        },
+        {
+          "cilt": 9,
+          "sitting": 41,
+          "sitting_date": "2018-12-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c009/tbmm27009fih.pdf",
+          "pages": [
+            "942",
+            "988:1003",
+            "1009:1014",
+            "1017:1021",
+            "1028:1046",
+            "1047:1060",
+            "1063:1079",
+            "1080:1105",
+            "1107:1110",
+            "1111:1123",
+            "1124:1127",
+            "1128:1141"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2018-12-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/12/2018; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
