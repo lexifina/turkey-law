@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8357",
+  "decision_date": "2018-12-27",
+  "title": "Elektrik Üretim Anonim Şirketi tarafından uygulanacak aktif elektrik enerji toptan satış tarifesi hakkında",
+  "resmi_gazete_date": "2018-12-29",
+  "resmi_gazete_number": "30640",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IrMRIx2Gmn8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IrMRIx2Gmn8="
+  ],
+  "source_sha256": "48fb87f19ed5a54b5ebf544d60dc027272c689e1bbf6212d3765428d0ae17ed5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2018-12-27",
+  "law_text_complete": true
+}
