@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.31080",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2019 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "31080",
+  "path": "teblig/2018/31080",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31080&MevzuatTertip=5",
+  "source_sha256": "4b989b30b057c96e11193eb2d0dcc2c1e25c5aea4efa3210bf9e448e5d9caa5e",
+  "source_bytes": 9593,
+  "published": "2018-12-27",
+  "gazette": "30638",
+  "in_force": "2018-12-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.12.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
