@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8290-1/8291",
+  "decision_date": "2018-12-27",
+  "title": "Elektrik Piyasası Kapasite Mekanizması Yönetmeliği İlişkili Kurul Kararları",
+  "resmi_gazete_date": "2019-01-09",
+  "resmi_gazete_number": "30650",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=chTSAydoXDY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=chTSAydoXDY="
+  ],
+  "source_sha256": "07f69242b5895f40e9a4009f24227a20e4a949c39167cd78a9ea3c78784ba3c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2018-12-27",
+  "law_text_complete": false
+}
