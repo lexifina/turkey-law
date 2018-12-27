@@ -1,0 +1,11 @@
+Gelir Vergisi
+
+....... yüklenimindeki “........İşi” kapsamında, serbest meslek erbabı yükleniciye yapılan ödemeden Gelir Vergisi kesintisi yapılmaması suretiyle .........TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+193 sayılı Gelir Vergisi Kanununun “Vergi Tevkifatı” başlıklı 94 üncü maddesinde; “Kamu idare ve müesseseleri, iktisadi kamu müesseseleri, sair kurumlar, ticaret şirketleri, iş ortaklıkları, dernekler, vakıflar, dernek ve vakıfların iktisadi işletmeleri, kooperatifler, yatırım fonu yönetenler, gerçek gelirlerini beyan etmeye mecbur olan ticaret ve serbest meslek erbabı, zirai kazançlarını bilanço veya zırai işletme hesabı esasına göre tespit eden çiftçiler aşağıdaki bentlerde sayılan ödemeleri (avans olarak ödenenler dahil) nakden veya hesaben yaptıkları sırada, istihkak sahiplerinin gelir vergilerine mahsuben tevkifat yapmaya mecburdurlar” denilmekle birlikte maddenin (2) nci fıkrasında “Yaptıkları serbest meslek işleri dolayısıyla bu işleri icra edenlere yapılan ödemelerden” tevkifat yapılacağı hükme bağlanmıştır. Aynı kanunun “Serbest Meslek Kazancının Tarifi” başlıklı 65’inci maddesinde her türlü serbest meslek faaliyetinden doğan kazançların serbest meslek kazancı sayılacağı, serbest meslek faaliyetinin; sermayeden ziyade şahsi mesaiye, ilmi veya mesleki bilgiye veya ihtisasa dayanan ve ticari mahiyette olmayan işlerin iş verene tabi olmaksızın şahsi sorumluluk altında kendi nam ve hesabına yapılması olduğu ifade edilmiştir.
+
+Söz konusu hükümler gereği, Belediye tarafından serbest meslek erbabı yükleniciye yaptırılan iş serbest meslek faaliyetini ifade etmekte olup, Belediye bütçesinden yapılan söz konusu ödemeden, 193 sayılı kanunun 94 üncü maddesi gereğince 12.01.2009 tarih ve 2009/14592 sayılı Bakanlar Kurulu Kararı gereği %20 oranında gelir vergisi kesintisi yapılması gerekmektedir.
+
+Bu itibarla, ......yüklenimindeki “........İşi” kapsamında, serbest meslek erbabı yükleniciye yapılan ödemeden Gelir Vergisi kesintisi yapılmaması suretiyle oluşan.......TL kamu zararı .......tarih ve ......no.lu tahsilat makbuzu ile ahizi ......’dan tahsil edildiğinden ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
