@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2018/1134",
+  "list_number": "1134",
+  "decision_date": "2018-12-28",
+  "title": "Seçmen Kütüğünün Güncelleştirmesi Usul ve Esasları Hakkında Yüksek Seçim Kurulunun 2018/1134 sayılı kararı ve eki genelgesi",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77942/2018-1134.pdf",
+  "source_sha256": "b9fff14097a46454f5e15d56d3ad700eae0aa1ea644ac0691918e4fe6226da09",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 12,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2018-12-28",
+  "law_text_complete": false
+}
