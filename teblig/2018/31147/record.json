@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31147",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERBEST BÖLGELERDEN ÜÇÜNCÜ ÜLKEYE YAPILAN SATIŞLARIN TÜRKİYE İHRACAT KREDİ BANKASI A.Ş.’NİN KREDİ, SİGORTA VE GARANTİ HİZMETLERİNDEN YARARLANDIRILMASI HAKKINDA TEBLİĞ (İHRACAT:2018/10)",
+  "number": "31147",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/31147",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31147&MevzuatTertip=5",
+  "source_sha256": "0b021100331fda794707b321b9569f57b972f383e4cd80abdb1adf959d153896",
+  "source_bytes": 21001,
+  "published": "2018-12-31",
+  "gazette": "30642 (4.Mükerrer)",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 895,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
