@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-12-31",
+  "issue": "30642",
+  "edition": "mükerrer 4",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karayolu Taşıma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M4-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M4.htm",
+  "index_sha256": "ae0ae5a698d06b79e16fe592e644fe30669b82dbe5907f25f42bbdd35c32a0ae",
+  "index_header": "31 Aralık 2018 ... 30642 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_sha256_source": "e31ba172c1924d795b73c0c14730048811324ecdae70e3bf5b76bd7444799e90",
+  "text_status": "text.txt as published"
+}
