@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.31136",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2019 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "31136",
+  "path": "teblig/2018/31136",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31136&MevzuatTertip=5",
+  "source_sha256": "826053284f85c41eecae65d92a3424dc1abf51fbe3df3ab561d5fc975424f17a",
+  "source_bytes": 17696,
+  "published": "2018-12-31",
+  "gazette": "30642 (4.Mükerrer)",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2018)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 711,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31136-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
