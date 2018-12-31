@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7156",
+  "year": 2018,
+  "title": "2019 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2018-12-31",
+  "gazette_issue": "30642",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-1.htm",
+  "source_sha256": "5ba9f090bfd92892e881bc318dcfaf44490de1c286736edc6fc7c80ab6059b5c",
+  "text_sha256": "800d60764e8ff6fa1d81e4b92de289cd733a22d0278b66c48c1fcb560532c104",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2018/12/31/30642-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
