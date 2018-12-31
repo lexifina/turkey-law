@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2018-12-31",
+  "issue": "30642",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7156 2019 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1.htm",
+  "index_sha256": "48c14d8163e10b3eed25461a0b6cf2750006855aa0c2484a8f8fb3f4a804bb1a",
+  "index_header": "31 Aralık 2018 ... 30642 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2018/12/20181231M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
