@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31142",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİNTEBLİĞ (TEBLİĞ NO: 2018/40)",
+  "number": "31142",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/31142",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31142&MevzuatTertip=5",
+  "source_sha256": "66276e8e175904ebee4d6b7f3891f5cfd2d955f1e0a8e6d93a21db46afe86d65",
+  "source_bytes": 17618,
+  "published": "2018-12-31",
+  "gazette": "30642 (4.Mükerrer)",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 389,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31142-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
