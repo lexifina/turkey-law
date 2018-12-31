@@ -1,0 +1,81 @@
+{
+  "source_id": "7.5.18928",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAPI İŞLERİNDE İŞ SAĞLIĞI VE GÜVENLİĞİ YÖNETMELİĞİ",
+  "number": "18928",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2013/18928",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18928&MevzuatTertip=5",
+  "source_sha256": "471406ef92aba4fc2a5b08a742ac06c368f2018fcbc152adc720f406e10311f2",
+  "source_bytes": 128312,
+  "published": "2013-10-05",
+  "gazette": "28786",
+  "in_force": "2018-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2018\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2018-12-31",
+      "RG-31/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-31",
+      "31/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-11",
+      "11/09/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-18",
+      "18/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-30",
+      "30/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-12-29",
+      "29/12/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-11-27",
+      "27/11/2007",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2006-12-30",
+      "30/12/2006",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2000-03-24",
+      "24/3/2000",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8106,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18928-Ek5.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
