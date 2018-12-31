@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31149",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ SERİ:B SIRA NO:11",
+  "number": "31149",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31149",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31149&MevzuatTertip=5",
+  "source_sha256": "114ac29747aecce6fd79131c4c45d5863dca6a121db7d7328158430298a7e502",
+  "source_bytes": 16455,
+  "published": "2018-12-31",
+  "gazette": "30642 (4.Mükerrer)",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2018); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 650,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31149-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
