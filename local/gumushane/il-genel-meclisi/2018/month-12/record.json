@@ -1,0 +1,30 @@
+{
+  "number": "month-12",
+  "year": 2018,
+  "month": 12,
+  "title": "2018 Yılı kararları",
+  "decision_date": null,
+  "index_date": "2018-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2018",
+  "source": "https://www.gumushaneozelidare.gov.tr/meclis-karar-arsivi",
+  "official_page": "https://www.gumushaneozelidare.gov.tr/meclis-karar-arsivi",
+  "official_document": "https://www.gumushaneozelidare.gov.tr/kurumlar/gumushaneozelidare.gov.tr/İl Genel Meclisi/Kararlar/2018/Karar-Aralik-2018.zip",
+  "source_sha256": "df07ba4afca8ba2fd3c7b339e41cd28ae226ecfe169ba48133adcbfb986725d2",
+  "issuer": "Gümüşhane İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2018-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2018); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2018 Yılı kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "item_title": "Meclis Karar Arşivi"
+}
