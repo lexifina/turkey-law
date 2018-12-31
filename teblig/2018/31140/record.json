@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31140",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2018/15)",
+  "number": "31140",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/31140",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31140&MevzuatTertip=5",
+  "source_sha256": "b3f8f33c3f492dd852dc50f7aa516023a9e984cb598fb0b764b640c2d7142ee9",
+  "source_bytes": 19970,
+  "published": "2018-12-31",
+  "gazette": "30642 (4.Mükerrer)",
+  "in_force": "2018-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2018); own commencement article: \"Bu Tebliğ yayımını takip eden 30 uncu günde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu günde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 549,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31140-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
