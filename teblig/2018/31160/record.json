@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31160",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 82)",
+  "number": "31160",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31160",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31160&MevzuatTertip=5",
+  "source_sha256": "11027cee928c761107d9b053f8842046900c63ebb7e234ce1f0268d13a102791",
+  "source_bytes": 10144,
+  "published": "2018-12-31",
+  "gazette": "30642 (3.Mükerrer)",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 235,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31160-Ek%20.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
