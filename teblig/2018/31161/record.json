@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31161",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 83)",
+  "number": "31161",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31161",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31161&MevzuatTertip=5",
+  "source_sha256": "aa5d09af926c1708e5873433a5122467793dcaaf4b68fbefe2f7bedff3d88b29",
+  "source_bytes": 13682,
+  "published": "2018-12-31",
+  "gazette": "30642 (3.Mükerrer)",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 264,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
