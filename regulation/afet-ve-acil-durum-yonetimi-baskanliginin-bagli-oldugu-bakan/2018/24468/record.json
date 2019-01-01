@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24468",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİNA DEPREM YÖNETMELİĞİ",
+  "number": "24468",
+  "issuer": "Afet ve Acil Durum Yönetimi Başkanlığının bağlı olduğu Bakan",
+  "issuer_slug": "afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan",
+  "path": "regulation/afet-ve-acil-durum-yonetimi-baskanliginin-bagli-oldugu-bakan/2018/24468",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24468&MevzuatTertip=5",
+  "source_sha256": "026286ab58b0334edc294d1606bbfd3c4483e2952625960d24e9b600b9a24b50",
+  "source_bytes": 9273,
+  "published": "2018-03-18",
+  "gazette": "30364 Mükerrer",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 178,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24468-Ek-Kopya.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
