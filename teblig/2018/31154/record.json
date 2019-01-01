@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31154",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 50)",
+  "number": "31154",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31154",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31154&MevzuatTertip=5",
+  "source_sha256": "3e53b6fc3f091055d5c4b56732d14c0dac57cebd9250ec08dd99aeed8f26eb7c",
+  "source_bytes": 19306,
+  "published": "2018-12-31",
+  "gazette": "30642 (3.Mükerrer)",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 433,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
