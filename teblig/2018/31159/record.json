@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31159",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 74)",
+  "number": "31159",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31159",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31159&MevzuatTertip=5",
+  "source_sha256": "dfeb47b16b5030f6edf959fe82c89dee406ffb58f085b331059faa36538dc518",
+  "source_bytes": 41161,
+  "published": "2018-12-31",
+  "gazette": "30642 (3.Mükerrer)",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1065,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
