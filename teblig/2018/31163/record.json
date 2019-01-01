@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31163",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 504)",
+  "number": "31163",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2018/31163",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31163&MevzuatTertip=5",
+  "source_sha256": "d93f9d95e6947b6ea531d29dda290972adb042637c20b47120d5e09c91dbce29",
+  "source_bytes": 9723,
+  "published": "2018-12-31",
+  "gazette": "30642 (3.Mükerrer)",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 273,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2018/12/20181231M3-13-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
