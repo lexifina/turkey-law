@@ -1,6 +1,6 @@
-Madde 6 – (Değişik :29/11/1984 - 3088/2 md.) (1)
-(I) Sayılı tarifede yazılı taşıtlar dışında kalan, motorlu kara taşıtları (II) sayılı tarifeye göre (…) (1) , uçak ve helikopterler (Türkkuşu, Türk Hava Kurumuna ait olanlar hariç) aşağıdaki (IV) sayılı tarifeye göre vergilendirilir. (Ek cümle: 4/6/2008-5766/9 md.) Zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş uçaklar için (IV) sayılı tarifede yer alan vergi tutarları yüzde 25 oranında uygulanır.
-(II) SAYILI TARİFE(2)
+Madde 6- (Değişik: 29/11/1984-3088/2 md.)
+(I) Sayılı tarifede yazılı taşıtlar dışında kalan, motorlu kara taşıtları (II) sayılı tarifeye göre (…)[16] , uçak ve helikopterler (Türkkuşu, Türk Hava Kurumuna ait olanlar hariç) aşağıdaki (IV) sayılı tarifeye göre vergilendirilir. (Ek cümle: 4/6/2008-5766/9 md.) Zirai ilaçlama amacıyla kullanılmak üzere kayıt ve tescil edilmiş uçaklar için (IV) sayılı tarifede yer alan vergi tutarları yüzde 25 oranında uygulanır.
+(II) SAYILI TARİFE[17][18]
 (Değişik: 25/12/2003-5035/24 md.)
 Taşıt Cinsi ve Oturma Yeri/Azami Toplam Ağırlık | Taşıtların Yaşları İle Ödenecek Yıllık Vergi Tutarı (TL)
  | 1-6 yaş | 7-15 yaş | 16 ve yukarı yaş
@@ -20,13 +20,14 @@ Taşıt Cinsi ve Oturma Yeri/Azami Toplam Ağırlık | Taşıtların Yaşları �
 5.001-10.000 kg’a kadar | 1.000.000.000 | 850.000.000 | 400.000.000
 10.001-20.000 kg’a kadar | 1.200.000.000 | 1.000.000.000 | 600.000.000
 20.001 kg ve yukarısı | 1.500.000.000 | 1.200.000.000 | 700.000.000
-____________________
-(1) 6/5/2009 tarihli ve 5897 sayılı Kanunun 2 nci maddesiyle; bu maddenin birinci fıkrasında yer alan “; özel amaçla kullanılan yat, kotra ve her türlü motorlu tekneler (III) sayılı tarifeye” ibaresi madde metninden çıkarılmıştır.
-(2) Bu tarifenin, 1/1/2013 tarihinden itibaren uygulanması ile ilgili olarak, 31/12/2012 tarihli ve 28514(4.Mükerrer) sayılı Resmi Gazete’de yayımlanan Maliye Bakanlığının (Seri No:42) Tebliğine bakınız.
-3716-1
+(Ek fıkra: 21/3/2018-7103/19 md.) (II) sayılı tarifenin “2) Panel van ve motorlu karavanlar (Motor Silindir hacmi)” başlıklı bölümünde yer alan ve sadece elektrik motoru olan taşıtlardan, motor gücü;
+a) 115 kW’ı geçmeyenler bu bölümün birinci satırında,
+b) 115 kW’ı geçenler bu bölümün ikinci satırında,
+yaşları itibarıyla yer alan vergi tutarlarının %25’i oranında vergilendirilir.
+(Ek fıkra: 21/3/2018-7103/19 md.)(1) (II) sayılı tarifedeki minibüs, otobüs, kamyonet, kamyon, çekici ve benzeri taşıtlardan sadece elektrik motoru olanlar, bu taşıtlara ilişkin tarifede yaşları itibarıyla yer alan vergi tutarlarının %25’i oranında vergilendirilir.
 (III) SAYILI TARİFE
 (Mülga: 6/5/2009-5897/2 md.)
-(IV) SAYILI TARİFE(1)
+(IV) SAYILI TARİFE[19][20]
 (Değişik: 25/12/2003-5035/24 md.)
 Taşıt Cinsi ve Azami Kalkış Ağırlığı | Taşıtların Yaşları İle Ödenecek Yıllık Vergi Tutarı (TL)
  | 1-3 yaş | 4-5 yaş | 6-10 yaş | 11 ve yukarı yaş
