@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31078",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 77 NCİ MADDESİNE GÖRE 2019 YILINDA UYGULANACAK OLAN İDARİ PARACEZALARINA İLİŞKİN TEBLİĞ",
+  "number": "31078",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/31078",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31078&MevzuatTertip=5",
+  "source_sha256": "77cc55104d0bf72c38f1a6842ffa8762ea19d27d4b1ce1d771b3514af42a08e9",
+  "source_bytes": 30489,
+  "published": "2018-12-26",
+  "gazette": "30637",
+  "in_force": "2019-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
