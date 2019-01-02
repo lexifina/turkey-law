@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/4",
+  "list_number": "4",
+  "decision_date": "2019-01-02",
+  "title": "31 Mart 2019 Pazar günü yapılacak olan Mahalli İdareler Genel Seçimlerinde “Seyyar Sandık Kurullarının Oluşumu, Görev ve Yetkilerini Gösterir 138/II Sayılı Genelge”nin kabulüne ilişkin Yüksek Seçim Kurulunun 2019/4 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77954/2019-4.pdf",
+  "source_sha256": "7fd63eba7cf00e4090dddf43f48144053dcb2c4fe6bbe468187f887968541a22",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-01-02",
+  "law_text_complete": false
+}
