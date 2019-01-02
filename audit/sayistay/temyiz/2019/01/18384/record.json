@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45486",
+  "decision_date": "2019-01-02",
+  "source_id": 18384,
+  "chamber": "8",
+  "file_number": "42493",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18384/",
+  "source_sha256": "e4716ace3205434207ca543ac0ec722673f5bcf8523398e97d005e9564d85d21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
