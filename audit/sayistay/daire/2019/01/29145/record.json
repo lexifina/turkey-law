@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "316",
+  "decision_date": "2019-01-03",
+  "source_id": 29145,
+  "chamber": "7",
+  "ilam_number": "144",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29145/",
+  "source_sha256": "f6600ac627714e384f043fc1ca5becde4fec6364a1fdc1fdbb7b3efc4572a9f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
