@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19579043-105[2017]-632",
+  "source_id": 25581,
+  "date": "2019-01-03",
+  "title": "Havaalanı servis taşımacılığında ücretin, elektronik ücret toplama sistemi dahilinde araçlardaki mobil validatör üzerinden şoföre tahsis edilen kartlardan düşüm yapılması suretiyle tahsilinde, yolculara verilen düşüm makbuzunun Vergi Usul Kanunu uygulamasında yolcu bileti yerine tevsik edici vesika olarak kabul edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25581",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "8bdf60c989bd83b86709fd00c3dd488bc2d64767d1b9ad9ae0cc169626753959",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
