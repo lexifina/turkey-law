@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/18",
+  "list_number": "18",
+  "decision_date": "2019-01-03",
+  "title": "Seçmen kütükleri kesinleştikten sonra seçilme yeterliliğine sahip dokuz (9) seçmenden az kişi bulunduğu takdirde mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerinin yapılamayacağına ilişkin Yüksek Seçim Kurulunun 2019/18 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/77989/2019-18.pdf",
+  "source_sha256": "e3a3e3300d3061675a0bd9c4d42ebbd61db19621f2e501ff8720febfa789179d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-01-03",
+  "law_text_complete": false
+}
