@@ -1,0 +1,20 @@
+{
+  "applicant": "H.Ö.",
+  "application_date": "2017-09-06",
+  "application_number": "2017/34332",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2018-12-12",
+  "id": "286fbbe0-3a78-b152-1501-5768c3576392",
+  "in_force": "2019-01-04",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2019-01-04",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjI4NmZiYmUwLTNhNzgtYjE1Mi0xNTAxLTU3NjhjMzU3NjM5Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "d044f9696621dba292d66af695cb080cbb553ab77deb24a125fc5cc0331564a3",
+  "version_label": "as-enacted"
+}
