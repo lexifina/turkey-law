@@ -1,0 +1,25 @@
+{
+  "number": "meeting-01-04",
+  "number_as_published": "meeting-01-04",
+  "year": 2019,
+  "title": "04 Ocak 2019 Meclis Kararları",
+  "decision_date": "2019-01-04",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=20",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/RHXgKTOMinBx0r57sC.pdf",
+  "source_sha256": "ab5c4b650930700a2cade6e70f332faabbbd340ea2b0cc27f5a6af4fbd2c2b78",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 OCAK 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04 Ocak 2019 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "7bb856107080a8ad.pdf",
+  "list_date": "2019-01-04"
+}
