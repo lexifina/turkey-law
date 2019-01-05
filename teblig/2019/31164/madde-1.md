@@ -1,0 +1,3 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğde, 28/12/2018 tarihli ve 30639 sayılı Resmî Gazete’de yayımlanarak yürürlüğe giren 27/12/2018 tarihli ve 7159 sayılı Karayolları Trafik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun 11 inci maddesiyle 7143 sayılı Vergi ve Diğer Bazı Alacakların Yeniden Yapılandırılması ile Bazı Kanunlarda Değişiklik Yapılmasına İlişkin Kanuna eklenen geçici 2 nci maddenin uygulamasına dair usul ve esaslar belirlenmiştir.
+(2) Bu Tebliğde yapılan açıklamalar, il özel idareleri ile belediyelere ve Yatırım İzleme ve Koordinasyon Başkanlıklarına ait olan ve 7143 sayılı Kanun kapsamında yapılandırılan alacaklar hakkında da uygulanacaktır.
