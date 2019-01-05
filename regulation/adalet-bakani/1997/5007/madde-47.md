@@ -1,0 +1,2 @@
+Önceki Denetim Sonuçlarının Araştırılması
+Madde 47- Denetimlerde, önceki denetim sonunda yapılan tenkit ve tavsiyelerin ne ölçüde yerine getirildiği hususları araştırılır. O tarihe kadar tamamlanmayan veya düzeltilmeyen konular denetim raporlarında belirtilir. Ayrıca ilgililerin açıklamaları yerinde ve yeterli bulunmadığı takdirde, konuların önemine göre keyfiyet gereğinin takdir ve ifası için Genel Müdürlüğe bildirilir. Önceki denetim sonunda yapılan tenkit ve tavsiyelere eksiksiz bir şekilde uyulmuşsa, denetim raporunda bu konuya da değinilir.

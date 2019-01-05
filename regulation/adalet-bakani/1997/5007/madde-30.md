@@ -1,0 +1,2 @@
+Stajyerlik Süresi Sonunda Başarısızlık
+Madde 30- Stajyerlik süresi sonunda yapılan yeterlik sınavında başarı gösteremeyen veya haklı bir sebebe dayanmaksızın bu sınava girmeyen stajyer kontrolörün Genel Müdürlüğün teklifi ve Personel Genel Müdürlüğü'nce alınacak Bakanlık onayı ile görevine son verilebileceği gibi Devlet memuru olmasında herhangi bir sakınca bulunmaması halinde Bakanlık merkez veya taşra teşkilâtında bir göreve de atanabilir.

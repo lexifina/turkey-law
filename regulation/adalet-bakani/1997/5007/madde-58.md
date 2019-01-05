@@ -1,0 +1,2 @@
+Kontrolörlerin Sicil Amirleri
+Madde 58- Başkan Yardımcısının, başkontrolör ve kontrolörler ile stajyer kontrolörlerin sicil amirleri 1'inci derecede Kontrolörler Kurulu Başkanı, 2'nci derecede Genel Müdür, 3'üncü derecede (Değişik ibare:RG-5/1/2019-30646) ilgili Bakan Yardımcısıdır.Kontrolörler Kurulu Başkanının sicil amirleri ise sırası ile Genel Müdür, (Değişik ibare:RG-5/1/2019-30646) ilgili Bakan Yardımcısı ve Bakandır.

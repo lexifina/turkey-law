@@ -1,0 +1,7 @@
+Yazılı Sınavların Yapılış Tarzı
+Madde 22- Yazılı sınavlarda gözetim görevi yapacak yeter sayıda görevli Personel Genel Müdürlüğünce belirlenir.
+Adaylar, görevlilerce kimlikleri tespit edildikten sonra sınav yerine alınırlar. Görevliler soru zarflarının sağlam, kapalı ve mühürlü olduğuna dair tutanak düzenler, zarfı açarak soruları yazdırır veya dağıtırlar.
+Yazılı sınav başlamadan önce sınava katılanlara uymak zorunda oldukları hususlar hatırlatılır. Kurallara aykırı davranışta bulunanların kağıtları alınarak sınav yerinden çıkarılır ve durum kağıt üzerine kayıt edilerek en az iki yetkili tarafından imzalanır. O sınav kağıdı değerlendirmeye alınmaz ve sahibi bundan sonra yapılacak sınavlara katılma hakkını kaybeder.
+Adaylar sınavda istedikleri sayıda sınav kağıdı kullanabilirler.
+Sınav sonunda; Sınava katılanlar ile sınav kağıtlarının sayısı vesair işlemler bir tutanakla tespit edilir. Tutanaklar ve sınav kağıtları bir zarf içine konularak zarf kapatılır ve mühürlenir. Durum ayrı bir tutanakla belirlenir ve zarf bu tutanakla birlikte Personel Genel Müdürlüğüne gönderilir veya teslim edilir.
+Sınav sorularının çalınmış olduğunun, soru zarflarının veya paketlerinin belirlenen saatten önce açıldığının, soruların yetkili olmayan kişilerce önceden görüldüğünün tespiti veya belirlenen tarihlerde sınav yapılmasının çeşitli sebeplerle imkansızlaştığı hallerde Bakanlıkça sınavlar ertelenebilir veya iptal edilebilir.

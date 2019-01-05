@@ -1,0 +1,2 @@
+Görevden Uzaklaştırma
+Madde 13- Kontrolörler denetleme ve soruşturma sırasında zimmet ve ihtilası veya işlemlerinden önemli yolsuzluğu görülen veya görevleriyle ilgili olarak talep ettikleri belge ve defterleri ibraz etmeyen veya görevleri başında kalmasında sakınca bulunan amir ve memurların görevlerinden uzaklaştırılmaları için Genel Müdürlüğe veya Adli Yargı Adalet Komisyonu Başkanlığına teklifte bulunurlar.

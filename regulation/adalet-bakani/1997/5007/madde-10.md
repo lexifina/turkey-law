@@ -1,0 +1,7 @@
+Kontrolörlerin Yetki ve Sorumlulukları
+Madde 10- Kontrolörler;
+a) Gerekli gördükleri her türlü defterlerle, kayıt, belge, evrak ve bilgileri ilgili dairelerden istemek, görmek ve bunların örnekleri ile herhangi bir yolsuzluğun subut delilini teşkil edenlerin de asıllarını almak, (Asılları alınan belgelerin kontrolör tarafından onaylı örneği dairesine verilir.)
+b) (Değişik:RG-24/9/2011-28064) Ceza infaz kurumları ve tutukevlerinin; hükümlü ve tutukluların emanete alınan kişisel paralarına ait hesap, döviz hesabı, kıymetli evrak ve eşya hesabı, genel bütçe avans hesabı, hurda ve her türlü atık satış bedelleri hesabı, elektrik parası hesabı, genel bütçe ambar hesabı ile genel bütçe maddi duran varlıklar hesabını, işyurtlarının ise kasa, banka, ambar, atölye, kantin, çay ocağı, tabldot, satış mağazaları gibi faaliyet konusu işkolları ile maddi duran varlıkların mevcudunu saymak, işlemlerini incelemek, gerektiğinde incelemesini yapabilmek için mühür altına almak,
+c) Görevleri ile ilgili konularda, gerek bulundukları yerlerdeki, gerek bu yerlerin dışındaki resmi ve özel bütün kuruluş, makam ve şahıslarla yazışma yapmak, (Adalet Bakanlığı ve diğer bakanlıkların merkez teşkilâtı birimleri ile yazışmalar Genel Müdürlük aracılığı ile yapılır.)
+d) Suç sayılan eylem ve işlemleri görülenler hakkında inceleme yapmak, 3628 sayılı Kanun hükümleri uyarınca inceleme neticesinde delil veya emare elde ettikleri takdirde Cumhuriyet Başsavcılığına ihbar etmek,
+yetkilerine sahiptir.

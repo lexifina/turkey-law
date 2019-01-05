@@ -1,0 +1,3 @@
+Kontrolörlükten Başka Göreve Atanma ve Yeniden Kontrolörlüğe Kabul Edilme
+Madde 32- Kontrolörler kendi istekleri halinde, Genel Müdürlüğün teklifi ve Personel Genel Müdürlüğü'nün alacağı Bakanlık onayı ile kazanılmış hakları saklı kalmak şartıyla merkez veya taşra teşkilâtında başka bir göreve nakledilebilirler. Kendi istekleri ile görevinden ayrılanlar talepleri halinde ve kadro durumu müsait olduğu takdirde (6) yıl içerisinde tekrar kontrolörlüğe atanabilirler.
+Kontrolörlerin hal ve hareketlerinde kontrolörlükle bağdaşmayan durumları yapılacak inceleme ve soruşturma sonucunda, tespit edilenlerle, olumsuz sicil alanlar kazanılmış hak aylık dereceleri ile bulundukları kadro derecelerine eşit Bakanlığın merkez veya taşra teşkilâtındaki diğer bir kadroya atanabilirler.
