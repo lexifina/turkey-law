@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-20816]-19688",
+  "source_id": 25821,
+  "date": "2019-01-08",
+  "title": "İnternette aracı firmalar üzerinden yapılan altın satışlarına ilişkin faturalarda müşterinin TCKN/VKN bilgilerinin yazılma zorunluluğu olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25821",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b4de073e78a7b7a5b9d32c974eec5bf106cdac51bed6e598a1122e45efd0f552",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
