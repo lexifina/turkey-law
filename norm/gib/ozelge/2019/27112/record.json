@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-105[6172]-E.11117",
+  "source_id": 27112,
+  "date": "2019-01-08",
+  "title": "Hisselerinin tamamına sahip olunan Almanya'da mukim şirketin borca batık olması nedeniyle iflas başvurusunda bulunması ve başvurunun Alman Mahkemesi tarafından bilirkişiye havale edilmesi halinde, bu şirketten olan alacaklar için şüpheli ticari alacak karşılığı ayrılıp ayırılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27112",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "80413c8c50dd3e4816cce2a00cf1e3788f7e5b1d1b91d678c06ac61d085b3aee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
