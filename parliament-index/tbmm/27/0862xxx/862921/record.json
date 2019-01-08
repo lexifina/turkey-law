@@ -1,0 +1,42 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862921,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Uluslararası Anlaşmalara İlişkin Kanun Teklifleri",
+  "name": "BİNALİ YILDIRIM (İZMİR) (TBMM BAŞKANI)",
+  "summary": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Serbest Ticaret Anlaşması'na Ait Protokol I'in Yerini Alan 30 Ocak 2018 Tarihli \"Protokol I\", Anlaşmanın \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İşbirliği Yöntemlerine İlişkin Protokol II'sini Değiştiren 17 Ocak 2017 Tarihli ve 1/2017 Sayılı Ortak Komite Kararı ve Anlaşmaya Eklenen Hizmet Ticareti Hakkında 30 Ocak 2018 Tarihli \"Protokol III\"ün Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşka-nınca Doğrudan Onaylanmasına Dair Yetki Verilmesine Dair (2/1358) (S. Sayısı: 28)",
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Serbest Ticaret Anlaşması'na Ait Protokol I'in Yerini Alan 30 Ocak 2018 Tarihli \"Protokol I\", Anlaşmanın \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İşbirliği Yöntemlerine İlişkin Protokol II'sini Değiştiren 17 Ocak 2017 Tarihli ve 1/2017 Sayılı Ortak Komite Kararı ve Anlaşmaya Eklenen Hizmet Ticareti Hakkında 30 Ocak 2018 Tarihli \"Protokol III\"ün Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşka-nınca Doğrudan Onaylanmasına Dair Yetki Verilmesine Dair (2/1358) (S. Sayısı: 28)",
+  "first_sitting_date": "2019-01-08",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 10,
+      "sitting": 42,
+      "sitting_date": "2019-01-08",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010042.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010fih.pdf",
+      "pages": [
+        "104:121",
+        "122:127",
+        "128:137",
+        "140:142",
+        "145:149",
+        "151:154",
+        "176:188"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
