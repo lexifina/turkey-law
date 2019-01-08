@@ -1,0 +1,2 @@
+Özel öğrenciler
+MADDE 13 – (1) YTÜ öğrencilerinin diğer yükseköğretim kurumlarından, diğer üniversite öğrencilerinin YTÜ programlarından veya en az lise mezunu olmak şartıyla yükseköğretim programlarında kayıtlı öğrenci statüsünde olmayanların, YTÜ programlarından ilgili mevzuat hükümlerine göre açılan dersleri almaya ilgili yönetim kurulu kararı ile izin verilebilir. Bu öğrencilere ilgili birim tarafından durumlarını gösterir belge verilir. Senato tarafından belirlenen ders alma usul ve işlemleri, YTÜ Özel Öğrenci Yönergesi hükümlerine göre yürütülür.

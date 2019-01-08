@@ -1,0 +1,3 @@
+Öğrencilik işlemleri
+MADDE 5 – (1) Öğrencilerin kayıt, kayıt yenileme, derse yazılma, sınavlar, intibak, çift anadal, geçişler, ilişik kesme ve benzeri her türlü işlemleri, ilgili fakülte/yüksekokul ve bölümlerce yapılır. Bunlardan gerekli görülenler, Rektörlükçe merkezi olarak da yürütülebilir.
+(2) Öğrencilik işlemleri ile ilgili sorunlarla karşılaşılması durumunda ilgili bölüm başkanlığına yazılı olarak başvurulur. Fakülte yönetim kurulu (FYK)/yüksekokul yönetim kurulu (YOYK) kararı gerektirmeyen durumlarda karar ilgili bölüm başkanlığınca verilir. Bölüm kararına itirazlar ve yönetim kurulunun yetki alanına giren konularla ilgili kararlar, FYK/YOYK tarafından verilir. FYK/YOYK kararına itirazlar Üniversite Yönetim Kurulunda (ÜYK) sonuçlandırılır.

@@ -1,0 +1,5 @@
+Mazeret, bütünleme ve mezuniyet sınavları
+MADDE 30 – (Değişik:RG-27/4/2018-30404)(3)
+(1) Mazeret sınavı, yarıyıl içi sınavı için yapılır. Yarıyıl içinde iki sınav yapılması durumunda öğrenci sadece bunlardan biri için mazeret sınavına girebilir. Yarıyıl sonu sınavı için mazeret sınav hakkı verilmez. Öğrencinin bir dersten mazeret sınavına alınıp alınmayacağı ve mazeret sınavlarının nasıl yapılacağı, Senato tarafından belirlenen esaslara göre yürütülür.
+(2) Bütünleme sınavı, öğrencinin koşullu başarılı ve başarısız olduğu (F0 hariç) dersler için yapılır. Bütünleme sınavlarına giremeyen öğrencilere, bu sınav için mazeret sınav hakkı verilmez. Bütünleme sınavının nasıl yapılacağı, Senato tarafından belirlenen esaslara göre yürütülür.
+(3) Mezuniyet sınavı, bütünleme sınavından sonra ve akademik takvimde belirtilen sürede mezuniyetine en fazla iki dersi kalan öğrenciler için yapılır. Mezuniyet sınavlarına giremeyen öğrencilere bu sınav için mazeret sınav hakkı verilmez. Mezuniyet sınavının nasıl yapılacağı, Senato tarafından belirlenen esaslara göre yürütülür.

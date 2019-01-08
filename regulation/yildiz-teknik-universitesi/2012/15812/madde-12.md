@@ -1,0 +1,2 @@
+Çift anadal öğretimi
+MADDE 12 – (1) Çift Anadala ait hususlar “Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlararası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik” hükümlerine ve Senato tarafından belirlenen esaslara göre yapılır. Öğrencilere intibak işlemlerinin yapılmasında, YTÜ Ders Eşdeğerlik ve İntibak Esasları dikkate alınır.
