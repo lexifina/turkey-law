@@ -1,0 +1,66 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7160",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Serbest Ticaret Anlaşması'na Ait Protokol I'in Yerini Alan 30 Ocak 2018 Tarihli \"Protokol I\", Anlaşmanın \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İş Birliği Yöntemlerine İlişkin Protokol II'sini Değiştiren 17 Ocak 2017 Tarihli ve 1/2017 Sayılı Ortak Komite Kararı ve Anlaşmaya Eklenen Hizmet Ticareti Hakkında 30 Ocak 2018 Tarihli \"Protokol III\"ün Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin Kanun",
+  "adopted": "2019-01-08",
+  "adopted_as_published": "08/01/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.01.2019 No: 30671",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307160.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 28 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010042ss0028.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862809,
+      "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Serbest Ticaret Anlaşması'na Ait Protokol I'in Yerini Alan 30 Ocak 2018 Tarihli \"Protokol I\", Anlaşmanın \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İş Birliği Yöntemlerine İlişkin Protokol II'sini Değiştiren 17 Ocak 2017 Tarihli ve 1/2017 Sayılı Ortak Komite Kararı ve Anlaşmaya Eklenen Hizmet Ticareti Hakkında 30 Ocak 2018 Tarihli \"Protokol III\"ün Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin Kanun",
+      "adopted_as_published": "08/01/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307160.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 28 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010042ss0028.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 10,
+          "sitting": 42,
+          "sitting_date": "2019-01-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c010/tbmm27010fih.pdf",
+          "pages": [
+            "104:121",
+            "122:127",
+            "128:137",
+            "140:142",
+            "145:149",
+            "151:154",
+            "176:188"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 08/01/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
