@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10736",
+  "decision_date": "2019-01-08",
+  "source_id": 28872,
+  "chamber": "1",
+  "ilam_number": "87",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28872/",
+  "source_sha256": "dc9bd57c5a1550edcd1f9b826d934eaa817868ead2736f163975fdac4ed6f6d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
