@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/7542",
+  "submitted": "2019-01-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yavuz AĞIRALİOĞLU",
+  "province": "İstanbul",
+  "summary": "Hak kazandığı halde ataması yapılmayan vergi müfettiş yardımcılarına ve vergi müfettiş yardımcılığı sınavına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-db67-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "855d0c4a6da331dc6f7cf0a2ac0d6cac9388e98fa0f7454514e2c7fef0d3212f",
+  "in_force": "2019-01-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
