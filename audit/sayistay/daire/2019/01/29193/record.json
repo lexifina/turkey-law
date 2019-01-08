@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10735",
+  "decision_date": "2019-01-08",
+  "source_id": 29193,
+  "chamber": "1",
+  "ilam_number": "135",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29193/",
+  "source_sha256": "81c8b5f98b936125bd3715f47f5e9ddcaae71a3fa4a2adf1fd94572c1a0eee93",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
