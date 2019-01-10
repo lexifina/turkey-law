@@ -1,0 +1,12 @@
+Sektörel Araştırma ve Strateji Geliştirme Dairesi Başkanlığı
+MADDE 28- (1) Sektörel Araştırma ve Strateji Geliştirme Dairesi Başkanlığının görevleri şunlardır:
+a) Sektöre ilişkin politika ve stratejilerin oluşturulmasına destek vermek, tavsiyelerde bulunmak.
+b) Kurumun strateji, politika, amaç ve hedeflerinin belirlenmesine yönelik çalışmalar yapmak, stratejik planını hazırlamak, uygulamayı izlemek, değerlendirmek, iyileştirici önerilerde bulunmak, Kurumun iş planını ve faaliyet raporunu hazırlamak, stratejik plan ile aralarındaki bağlantıyı sağlamak, Kurumun stratejik planı kapsamında ilgili birimlerle koordineli olarak performans ölçütlerini oluşturmak, geliştirmek, uygulamak, performansın iyileştirilmesine yönelik önerilerde bulunmak.
+c) İş planında öngörülen. Kurul tarafından belirlenen veya birimlerin talep ettiği konular ve öncelikler çerçevesinde elektronik haberleşme alanındaki teknik, ekonomik, hukuki ve teknolojik gelişmelere ve düzenlemelere ilişkin araştırma ve analizler yapmak, yayımlamak ve sektördeki uluslararası gelişmeleri takip etmek, bu konularda sektörü bilgilendirmek ve ilgili kurum ve kuruluşlarla işbirliği halinde çalışmak.
+ç) İşletmecilerin ticarî sırları ile kamuoyuna açıklanabilecek bilgilerinin kapsamını belirlemek.
+d) Sektöre ilişkin verilerin toplanmasına ilişkin yöntemleri geliştirmek, veri kalitesini artırmak, verileri toplamak, saklamak, Kurumun ilgili birimleri ile paylaşımına imkân tanıyacak yöntemler geliştirmek, verilerin analizini yapmak ve raporlamak, gerekli görülen verileri ve raporlan yayımlamak.
+e) Yapılan veya yapılacak düzenlemelerin muhtemel etkilerini değerlendirmek ve geleceğe yönelik önerilerde bulunmak amacıyla iş planında öngörülen veya Kurul kararı ile belirlenen konularda düzenleyici etki analizleri yapmak.
+f) Teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımların teşvik edilmesine yönelik öneriler geliştirmek.
+g) Elektronik haberleşme yazılım ve donanımlarının yerli tasarım ve üretimi ile bu amaçla sektöre ilişkin araştırma-geliştirme ve eğitim faaliyetlerinin desteklenmesi konularında Bakanlıkla koordinasyonu sağlamak.
+ğ) Elektronik haberleşme altyapısının ve hizmetlerin geliştirilmesine yönelik gerektiğinde kamu-özel sektör işbirliği de dâhil olmak üzere proje önerileri geliştirmek, konuyla ilgili yürütülen projelerin Kurum tarafındaki koordinasyonunu sağlamak, Kurumun düzenleyici çalışmalarına bu amacı gözeten görüşler oluşturmak.
+h) Başkan tarafından verilecek diğer görevleri yapmak.
