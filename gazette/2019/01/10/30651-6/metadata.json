@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-10",
+  "issue": "30651",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "TS 12435 Altıköşe Başlı Cıvatalar-Altıköşe Somunlu-Çelik Konstrüksiyonlar İçin Standardı ile İlgili Tebliğ (No: MSG - MS - 2018/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190110-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190110.htm",
+  "index_sha256": "fe5688be026546afa8dfd512ea416f99daa81dbec5e35793553d2d7012d472fa",
+  "index_header": "10 Ocak 2019 ... 30651 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190110.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
