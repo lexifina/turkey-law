@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "321",
+  "decision_date": "2019-01-10",
+  "source_id": 28695,
+  "chamber": "7",
+  "ilam_number": "82",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28695/",
+  "source_sha256": "a13fdef8b53ba55dc0593c0464f898f15cc6c3cea33d208c4f7c7096a3bf33a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
