@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-15/1/2018-30302) Bölüm: (Değişik ibare:RG-10/1/2019-30651) (2) Zonguldak Bülent Ecevit Üniversitesi Yabancı Diller Yüksekokulu Yabancı Diller Bölümünü,
+b) İsteğe bağlı hazırlık sınıfı: Öğrencilerin kayıtlı olduğu, öğretim dili tamamen Türkçe olan programın ilk yarıyılından önce talepleri halinde alacağı yabancı dil eğitimini,
+c) Kısmen yabancı dil eğitimi: Programda verilen derslerin toplam kredisinin en az %30’unun yabancı dilde verildiği eğitimi,
+ç) Kurul: Yabancı Diller Yüksekokul Kurulunu,
+d) Öğrenci İşleri Daire Başkanlığı: Bülent Ecevit Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+e) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+f) Rektör: Bülent Ecevit Üniversitesi Rektörünü,
+g) Senato: Bülent Ecevit Üniversitesi Senatosunu,
+ğ) Seviye tespit sınavı: Öğrencinin hazırlık sınıfı eğitimine hangi düzeyden devam edeceğini belirleyen sınavı,
+h) Türkiye Yükseköğretim Yeterlilikler Çerçevesi (TYYÇ): Avrupa ve Türkiye Yeterlilikler Çerçeveleri ile uyumlu olacak şekilde tasarlanan ve yükseköğretim düzeylerine yönelik eğitim ve öğretim programlarını içeren yeterlilikler çerçevesini,
+ı) Üniversite: Bülent Ecevit Üniversitesini,
+i) Yabancı dilde eğitim: Programın öğretim müfredatının tamamının yabancı dilde verildiği eğitimi,
+j) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+k) Yeterlilik sınavı: Öğrencinin program için istenen yabancı dil düzeyi ile yeterliliğine sahip olup olmadığını veya yabancı dil yeterliliğini kazanıp kazanmadığını ölçen sınavları,
+l) Yönetim Kurulu: Yabancı Diller Yüksekokulu Yönetim Kurulunu,
+m) Yüksekokul: Yabancı Diller Yüksekokulunu,
+n) Zorunlu hazırlık sınıfı: Öğretim dili tamamen veya kısmen yabancı dil olan programlarda öğrencinin devam etmek zorunda olduğu yabancı dil eğitimini,
+ifade eder.

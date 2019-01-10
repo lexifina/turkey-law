@@ -1,0 +1,4 @@
+Hazırlık eğitimi öğrencileri
+MADDE 8 – (1) Üniversitenin zorunlu hazırlık sınıfı bulunan programlarından birine ilk kez veya dikey/yatay geçiş yoluyla kaydını yaptırmış olan ve 6 ncı maddenin ikinci veya üçüncü fıkrasında belirtilen muafiyet koşullarını taşımayan, açılan yabancı dil yeterlilik sınavına katılmamış veya katılıp başarısız olmuş öğrenciler 60 kredilik hazırlık eğitimine tabidir.
+(2) İsteğe bağlı hazırlık sınıflarında kayıt, öğrencinin isteğine bağlıdır. Hazırlık okumak isteyen öğrenci, Üniversiteye kayıt sırasında öğrencisi oldukları dekanlığa/müdürlüğe dilekçe vererek hazırlık sınıfına kaydolur. Yeterli sayıda başvuru olmaması halinde ilgili yönetim kurulu kararı ile isteğe bağlı hazırlık sınıfı açılmayabilir.
+(3) Yabancı dil yeterlilik sınavında başarılı olamayanlar veya sınava girmeyenler yabancı dil seviye belirleme sınavına tabi tutulup dil düzeylerine uygun programlara yerleştirilir.

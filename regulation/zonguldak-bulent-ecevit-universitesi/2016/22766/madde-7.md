@@ -1,0 +1,2 @@
+Zorunlu yabancı dil dersleri
+MADDE 7 – (1) Öğretim dili Türkçe olan bir yükseköğretim programına ilk defa kayıt yaptıran öğrencilerin, 2547 sayılı Kanunun 5 inci maddesinin birinci fıkrasının (ı) bendi gereğince verilmesi zorunlu olan yabancı dil derslerinden muaf olup olmayacağı ayrı bir yabancı dil muafiyet sınavı ile tespit edilir. Bu sınavdan, kendi fakülte/yüksekokul yönetmeliklerine göre CC’ye karşılık gelen notu alamayan öğrenciler bu dersleri almak ve başarmak zorundadırlar.
