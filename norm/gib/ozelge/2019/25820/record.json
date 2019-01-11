@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-20462]-35118",
+  "source_id": 25820,
+  "date": "2019-01-11",
+  "title": "Döviz cinsinden alacağın tahsilinde, tahsil tarihinde anapara alacak tutarı üzerinden hesaplanacak kur farkı ile alacağa eklenen önceki dönem adat faizleri üzerinden hesaplanacak kur farkı için fatura düzenlenip düzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25820",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "b2c9699961b4c1407708b4d55c3fe287b75d941fbb98b2738a9dc1ad1052d149",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
