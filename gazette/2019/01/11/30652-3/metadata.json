@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-11",
+  "issue": "30652",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Banka Kartları ve Kredi Kartları Hakkında Yönetmelikte Değişiklik Yapılmasına İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190111-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190111.htm",
+  "index_sha256": "0cd0501460455d879e2babf1a01f9e8c4d60267d69d32250b393ccba39b9f5f5",
+  "index_header": "11 Ocak 2019 ... 30652 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190111.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
