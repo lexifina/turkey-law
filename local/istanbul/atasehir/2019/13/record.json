@@ -1,0 +1,22 @@
+{
+  "number": "13",
+  "number_as_published": "2019/013",
+  "year": 2019,
+  "title": "11.01.2019 tarihli ve 2019/013 sayılı karar",
+  "decision_date": "2019-01-11",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=50",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/11012019-tarihli-ve-2019013-sayili-karar",
+  "source_sha256": "1bbd3484210a8b7cb116ff7bba05b2671644fcc061f3d442c998b252ac0557f8",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-01-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.01.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/11012019-tarihli-ve-2019013-sayili-karar"
+}
