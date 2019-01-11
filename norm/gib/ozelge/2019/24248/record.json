@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-135[KDV4/I/Geç.7-2017/5]-14963",
+  "source_id": 24248,
+  "date": "2019-01-11",
+  "title": "Ferdi işletmenin sermaye şirketine devrinde geçici 7 inci madde kapsamında ÖTV istisnasının uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/24248",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7851212ddd9477e2a93b5fb4fad75a4bee8add7d3f68c6c715f0ba06ae28a0be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
