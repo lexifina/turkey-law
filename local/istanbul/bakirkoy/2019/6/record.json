@@ -1,0 +1,23 @@
+{
+  "number": "6",
+  "number_as_published": "6",
+  "year": 2019,
+  "title": "İmar ve Şehircilik Müdürlüğü’nün 2019 yılı ücret tarifesinin 15. maddesine ekleme yapılması",
+  "decision_date": "2019-01-11",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/39",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/06-imar-ve-seh-md-2019-ucret-tarifesinin-15-mad-ekleme-yapilmasi-11012019.pdf",
+  "source_sha256": "1b5944ee85a60dd0df957a0a40831bb284290d6a74c9e942307768b69095625c",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-01-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Ocak 2019 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
