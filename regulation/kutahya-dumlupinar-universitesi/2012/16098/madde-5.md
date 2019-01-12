@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; evcil ve vahşi hayvanlardan insanlara direkt veya indirekt yollarla bulaşan paraziter, bakteriyel, viral ve fungal etkenlerin oluşturduğu ve zoonozlar olarak isimlendirilen hastalıklar konusunda bölgesel ve ülke genelinde yürütülecek epidemiyolojik çalışmalarla bu hastalıkların durumunu ortaya koymak, tespit edilen hastalık etkenleri ve bu hastalık etkenlerinin indirekt yollarla bulaşmasına aracılık eden ara konak ve vektörleri ile ilgili bilimsel araştırma faaliyetlerinde bulunmak, tespit edilen etken ve aracılarına yönelik mücadele stratejileri ve yöntemleri geliştirmek ve bu alanda yurt içi ve yurt dışında faaliyet gösteren kurumlarla etkin bir işbirliği sağlayarak etkin ve yetkin bilim insanlarının yetiştirilmesine olanak sağlamaktır.

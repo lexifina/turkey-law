@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-04-30",
+      "30.04.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "RG-12/1/2019-30653",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-12",
+      "12/1/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-12/1/2019-30653",
+  "first_law": null,
+  "gazette": "28279",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-01-12",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2012/16098",
+  "published": "2012-04-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16098&MevzuatTertip=5",
+  "source_bytes": 30652,
+  "source_id": "8.5.16098",
+  "source_sha256": "cacea3111f190fc5212145711e123f8e74871270561b1d087f719e5b73e35961",
+  "text_status": "current-consolidated",
+  "title": "DUMLUPINAR ÜNİVERSİTESİ ZOONOZLAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 990
+}
