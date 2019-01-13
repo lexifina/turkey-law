@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-11-05",
+      "05.11.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-01-13",
+      "RG-13/1/2019-30654",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-13",
+      "RG-13/1/2019-30654",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-13",
+      "RG-13/1/2019-30654",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-13",
+      "RG-13/1/2019-30654",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-13",
+      "13/1/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/1/2019-30654",
+  "first_law": null,
+  "gazette": "29166",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-01-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2014/20196",
+  "published": "2014-11-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20196&MevzuatTertip=5",
+  "source_bytes": 28701,
+  "source_id": "8.5.20196",
+  "source_sha256": "6e24566d2ae5826c76c101c0baac67ffc2fc33ddc37dae9d89cc92ce7a5cf8a3",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ MESLEKLERARASI İŞBİRLİĞİ VE SİMÜLASYON EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 1135
+}
