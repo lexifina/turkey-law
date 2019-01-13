@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-22",
+      "22.11.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-01-13",
+      "RG-13/1/2019-30654",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-13",
+      "13/1/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/1/2019-30654",
+  "first_law": null,
+  "gazette": "30603",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-01-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2018/28992",
+  "published": "2018-11-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28992&MevzuatTertip=5",
+  "source_bytes": 30419,
+  "source_id": "8.5.28992",
+  "source_sha256": "3847a4a32f5de8bb193ae804e2b678b52b93ce78c613dd6c2a0e46711a466fb0",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ ASTRONOMİ VE UZAY BİLİMLERİ\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 915
+}
