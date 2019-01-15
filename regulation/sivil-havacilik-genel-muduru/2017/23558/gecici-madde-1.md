@@ -1,0 +1,3 @@
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce Genel Müdürlükçe heliport yapım izni ya da heliport işletme ruhsatı verilmiş ve yayımı tarihi itibariyle geçerlilikleri devam eden heliport yapım izinleri ve/veya işletme ruhsatları geçerlilik tarihlerine kadar geçerli olup, bu tarihten sonra mevzuatta yer alan hükümleri sağlamak zorundadır.
+(2) Bu Yönetmeliğin yayımı tarihinden önce Genel Müdürlükçe ruhsatlandırılmış olan ve bu Yönetmelik yayımı tarihi itibariyle ruhsat geçerlilikleri devam eden heliport işletmecileri, bu Yönetmeliğin yayımı tarihinden itibaren en geç 6 ay içerisinde 15 inci maddenin birinci fıkrasında belirtilen yükümlülüklerini yerine getirmek zorundadır.

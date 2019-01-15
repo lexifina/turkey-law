@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Acil iniş alanı: Acil operasyonlar için kamu kurum ve kuruluşları tarafından inşa edilen ve/veya işletilen alanı,
+b) Acil operasyonlar: Hava ambulans ve insani yardım, doğal afetlerde arama, kurtarma ve tahliye ile yangınla mücadele hizmetlerini vermek üzere helikopter uçuşları kapsamındaki iniş ve kalkışları,
+c) (Değişik:RG-15/1/2019-30656 Mükerrer) Bakan: Ulaştırma ve Altyapı Bakanını,
+ç) (Değişik:RG-15/1/2019-30656 Mükerrer) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+d) Gemi üzeri heliport: Sadece helikopter operasyonları için özel olarak tasarlanmış olan bir gemi üzerinde bulunan heliportu veya helikopter operasyonları için özel olarak tasarlanmamış, ancak bir helikopteri kaldırma kapasitesine sahip olan bir gemi üzerinde uygun bir alanda bulunan heliportu,
+e) Genel Müdür: Sivil Havacılık Genel Müdürünü,
+f) Genel Müdürlük: Sivil Havacılık Genel Müdürlüğünü,
+g) Havaalanı: Hava araçlarının tamamen veya kısmen, inişi, kalkışı ve yer hareketi için kullanılması öngörülen, içerisindeki bina, teçhizat ve tesisat da dâhil olmak üzere karada veya suda belirlenmiş alanı,
+ğ) Havaalanı işletmecisi: Havaalanı işletiminden sorumlu gerçek veya tüzel kişileri,
+h) Hava aracı: Havalanabilen ve havada seyredebilme kabiliyetine sahip olan her türlü aracı,
+ı) Helidek: Petrol veya gaz işlemek amacıyla kullanılan arama ve/veya üretim birimi gibi yüzen veya kıyıdan uzakta sabit bir yapı üzerinde bulunan heliportu,
+i) Helikopter: Belirli bir piste ihtiyaç göstermeksizin karada ve denizde bir noktaya inebilen ve kalkabilen, motor gücü ile seyreden havadan ağır hava aracını,
+j) Heliport: Helikopterlerin iniş, kalkış ve yer hareketlerini tamamen veya kısmen yapabilmelerine elverişli alanı,
+k) Heliport işletmecisi: Heliport işletiminden sorumlu ve heliport işletme ruhsatına sahip tüzel kişileri,
+l) Heliport kullanıcısı: Hizmet üretmek için heliport tesis ve kolaylıkları ile altyapısını kullanan gerçek veya tüzel kişileri,
+m) Heliport yapımcısı: Heliport yapımından sorumlu gerçek veya tüzel kişileri,
+n) Heliport yöneticisi: Heliport operasyonlarının emniyetli bir şekilde yapılabilmesini ve 7 nci madde kapsamında Genel Müdürlükçe belirlenen alt düzenlemelerde yer alan esasların uygulanmasını sağlamakla görevli kişiyi,
+o) Kaptan pilot: Uçuş süresince uçağın her türlü harekâtından sorumlu ve belirli ehliyete sahip pilotu,
+ö) Ticari heliport: Helikopterlerin belirli bir ücret karşılığında kullandığı heliportu,
+p) VFR: Görerek uçuş kurallarını,
+r) Yer seviyesi heliportu: Yer ya da deniz veya göl gibi su üzerine yerleştirilen heliportu,
+s) Yönetici Personel Onay Formu: Sivil Havacılık Genel Müdürlüğünün kurumsal internet sitesinde yayımlanan Yönetici Personel Onay Formunu,
+ş) Yükseltilmiş heliport: Karada, yer seviyesinden yüksekte taşıyıcı bir yapı üzerine yerleştirilen heliportu,
+ifade eder.
+(2) Bu Yönetmelikte belirtilmeyen tanımlar için, 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanunu ile 5431 sayılı Kanunda, ilgili diğer mevzuatta ve ülkemizin üyesi bulunduğu uluslararası sivil havacılık kuruluşları tarafından yayımlanan dokümanlarda belirtilen tanımlar geçerlidir.

@@ -1,0 +1,3 @@
+Bakanlık ilgili birimlerinin yükümlülükleri
+MADDE 21 – (1) Altyapı Yatırımları Genel Müdürlüğü 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname hükümleri çerçevesinde heliportların etüt, proje, inşaat, onarım ve kamulaştırma faaliyetlerinin yürütülmesinde 7 nci madde kapsamında belirlenen heliport emniyet standartları çerçevesinde teknik destek sağlamaktan sorumludur.
+(2) İnşası için Genel Müdürlüğe başvurusu yapılan helidek ve gemi üzeri heliportlar için Bakanlık ilgili birimleri, 655 sayılı Kanun Hükmünde Kararname kapsamında yer alan görev, yetki ve sorumlulukları çerçevesinde Genel Müdürlüğe görüş verir.

@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Ruhsatlandırma İşlemleri
+Başvurunun yapılması, incelenmesi ve ruhsat verilmesi
+MADDE 14 – (1) Heliport işletme ruhsatı almak isteyen tüzel kişiler, Genel Müdürlüğün kurumsal internet sitesinde yer alan Heliport İşletme Ruhsatı Başvuru Formu ve eklerini eksiksiz olarak Genel Müdürlüğe sunar.
+(2) Yapılan başvuru, Genel Müdürlük tarafından yerinde yapılacak denetimi müteakip en geç otuz iş günü içerisinde değerlendirilir. Genel Müdürlük gerek gördüğü hallerde diğer kamu kurum ve kuruluşlarının görüşünü alır.
+(3) Değerlendirme sonucunun olumlu olması ve 5431 sayılı Kanunun 4 üncü maddesi gereği yayımlanan hizmet tarifesinde belirtilen ücretlerin yatırılmasından itibaren en geç otuz gün içinde başvuru sahibine Genel Müdürlükçe heliport işletme ruhsatı düzenlenir ve Genel Müdürün imzasıyla verilir.
+(4) Verilen ruhsat şartlara bağlanabilir. Bu durumda heliport işletim şartları ruhsat ile birlikte heliport işletmecisine bildirilir.
+(5) Heliport işletmecisi, Genel Müdürlüğe sunmuş olduğu başvuru formunda belirttiği bilgilerde değişiklik olması durumunda, değişikliği derhal Genel Müdürlüğe bildirir. Yapılan değişiklikler, Genel Müdürlük tarafından 30 iş günü içerisinde incelenerek uygun görülmesi halinde yürürlüğe konulmak üzere heliport işletmecisine bildirilir. Genel Müdürlüğün, bu değişikliklerin heliportun işletimine yönelik tehlike oluşturduğu kanısına varması halinde değişikliğin uygun görülmediği 30 iş günü içerisinde değerlendirilerek heliport işletmecisine bildirilir. Bu durumda işletim faaliyetinin verilen ruhsat kapsamında sürdürülmesi esastır. Değişikliklerin heliport işletmecisi tarafından bildirilmediği durumlarda, heliport işletmecisi üçüncü şahıslara gelebilecek tüm zararlardan sorumludur.
+(6) Milli güvenliğin, kamu düzeninin ve sağlığının tehlikeye girebileceği kanaatini haklı kılacak nedenlerin varlığı halinde işletme ruhsatı verilmez.
+(7) Ruhsatın kapsam dışında kullanıldığının tespit edilmesi durumunda Genel Müdürlük işletme ruhsatını askıya alabilir veya iptal edebilir.

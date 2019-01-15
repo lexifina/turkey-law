@@ -1,0 +1,7 @@
+Geçerlilik ve uzatma süreleri
+MADDE 6 – (1) Heliport yapım izninin alındığı tarihten itibaren en geç 3 yıl içerisinde işletme ruhsatı için başvuru yapılır. Başvurusu yapılmayan heliportlara ait yapım izinleri herhangi bir işleme gerek kalmaksızın iptal olur.
+(2) Heliport yapım izninin alındığı tarihten itibaren 3 yıl içerisinde yapımı tamamlanamayan heliportlar için başvuru sahibi gerekçelerini Genel Müdürlüğe sunarak iznin uzatılmasını talep eder. Gerekçelerin Genel Müdürlük tarafından uygun görülmesi halinde yapım izni süresi bir kereliğine 1 yıla kadar uzatılır. Bu sürenin bitimini müteakip tamamlanamayan heliportların yapım izni Genel Müdürlükçe iptal edilir.
+(3) Bu Yönetmelik kapsamında verilen ruhsat devredilemez. İade edilmediği, geri alınmadığı veya iptal edilmediği sürece, 2920 sayılı Kanun, 5431 sayılı Kanun ve bu Yönetmelik ile Bakanlık ve Genel Müdürlükçe yapılan diğer alt düzenlemelerde belirtilen usul ve esaslar ile ruhsat şartlarına uyulması ve temdit işlemlerinin zamanında yapılmasıyla geçerlidir.
+(4) Temdit işleminin zamanı içerisinde yapılmadığının tespiti durumunda Genel Müdürlükçe heliport işletme ruhsatı askıya alınabilir ya da iptal edilebilir.
+(5) Bu Yönetmelik kapsamında heliport işletme ruhsatı alan heliport işletmecisi, işletim faaliyetine son vermek isterse iki ay önceden işletim faaliyetine son vereceği tarihi Genel Müdürlüğe ve heliport kullanıcılarına bildirir.
+(6) İşletim faaliyeti sona erdiğinde, Genel Müdürlükçe heliport işletme ruhsatı iptal edilir ve heliport işletime kapatılır.
