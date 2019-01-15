@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10738",
+  "decision_date": "2019-01-15",
+  "source_id": 28925,
+  "chamber": "1",
+  "ilam_number": "99",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28925/",
+  "source_sha256": "172ba0779f4654a849ee2859975681e5fcaa1deb0f1fb5daec22e9c3d5f76e4d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
