@@ -1,0 +1,2 @@
+Gümrük işlemleri
+MADDE 8 – (1) Gümrük İdaresi, Liman Başkanlığınca üzerine şerh düşülmüş faturaya istinaden bu fatura muhteviyatı eşyanın gümrük vergisi ve ithalde alınan diğer vergi (Katma Değer Vergisi ve Özel Tüketim Vergisi hariç) ve resimlerden, damga resmi dahil, muaf olarak ithal edilmesini sağlar. Söz konusu eşyanın ithalatı eşyaya ilişkin dış ticaret mevzuatı ve diğer ilgili mevzuat gereğince alınması gereken izin ve belgelerin tamamlanması halinde gerçekleştirilir.

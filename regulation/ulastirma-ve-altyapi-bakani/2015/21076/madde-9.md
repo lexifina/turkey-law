@@ -1,0 +1,3 @@
+Amaç dışı kullanım
+MADDE 9 – (1) Bu Yönetmelik kapsamında; ithal edilen gemi, su aracı ve deniz turizm araçları özel amaçla, diğer eşya ise faturasında belirtilmek şartıyla kullanılacağı tesis/gemi/su aracı/deniz turizm aracı haricinde kullanılamaz.
+(2) Belirtildiği tesis/gemi/su aracı/deniz turizm aracı haricinde kullanıldığı veya izin alınmadan satıldığı tespit edilenler hakkında; ithal konusu mal bedelinin %60’ının bankalarca talep edildiği kur üzerinden hesaplanacak TL karşılığını, Yatırımları ve Döviz Kazandırıcı Hizmetleri Teşvik Fonuna gelir kaydedilmek üzere ödeyeceği, ödemeyi 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre yerine getireceği, hükmünü içeren taahhütname hükümleri uygulanır.
