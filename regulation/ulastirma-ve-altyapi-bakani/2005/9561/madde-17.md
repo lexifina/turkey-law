@@ -1,0 +1,6 @@
+İstisnaî durumlarda eşdeğer kurallar
+Madde 17 — Teçhizatın, yabancı bir limanda yenisiyle değiştirilmesi gerekiyorsa ve makul bir süre içinde ve makul bir maliyetle AT tip onaylı bir teçhizatın gemiye yerleştirilmesinin mümkün olmadığının gerekçelerinin İdareye usulünce belirtildiği istisnaî durumlarda;
+a) Tanınmış/Onaylanmış Kuruluşların karşılıklı olarak tanınması hakkında Türkiye ve ilgili üçüncü ülke arasında bir anlaşmanın yapılmış olduğu hâllerde, bir Onaylanmış Kuruluşa eşdeğer olan başka bir Tanınmış Kuruluş tarafından düzenlenen belgelerin teçhizata eşlik etmesi,
+b) Yukarıda (a) fıkrasında belirtilen prosedüre uyulamaması halinde, söz konusu teçhizatın mahiyetinin ve özelliklerinin İdareye derhal bildirilmesi ve İdarenin en kısa zamanda, söz konusu teçhizatın, uluslararası düzenlemelerde ve bu Yönetmelikte belirtilen ilgili kurallara uygun olduğundan emin olunmasını, test belgeleriyle sağlaması şartıyla, ilgili sözleşmelere taraf olan bir Uluslararası Denizcilik Örgütü (IMO) üyesi devletçe düzenlenen ve ilgili Uluslararası Denizcilik Örgütü (IMO) gereklerine uygunluğu tasdik eden belgelerin teçhizata eşlik etmesi,
+hâlinde gemiye başka bir teçhizat yerleştirilebilir.
+Telsiz haberleşme teçhizatıyla ilgili olarak, İdare veya başka bir yetkili makam bunların telsiz frekans spektrumuna zarar vermemesini şart koşar.

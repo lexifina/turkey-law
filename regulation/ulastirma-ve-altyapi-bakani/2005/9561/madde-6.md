@@ -1,0 +1,3 @@
+Uluslararası sözleşmelere ve uluslararası düzenlemelere uygunluk
+Madde 6 — Ek A.1’de listesi verilen ve bu Yönetmeliğin yürürlüğe girdiği tarihten sonra bir Türk gemisinde kullanılan teçhizat, Ek A.1’de gösterilen uluslararası düzenlemelerde belirtilen şartları taşımalıdır.
+Teçhizatın, Uluslararası Denizcilik Örgütünün (IMO) ilgili kararlarının ve uluslararası sözleşmelerin hükümlerine uygunluğu, Ek A.1’de belirtilen ilgili test standartları ve uygunluk değerlendirme prosedürlerine göre gösterilir. Ek A.1’de listelenen teçhizat için, hem IEC, hem de ETSI test standartları verilmişse, bu standartlar birbirleri yerine kullanılabilir ve üretici veya yetkili temsilcisi hangisinin kullanılacağını belirleyebilir.

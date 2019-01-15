@@ -1,0 +1,22 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen:
+Uygunluk Değerlendirme Prosedürleri: Bu Yönetmeliğin 11 inci maddesi ve Ek B’de belirtilen prosedürleri,
+Teçhizat: Ek A.1 ve A.2’de listesi verilen, uluslararası düzenlemelere uygunluğu sağlamak için veya isteğe bağlı olarak bir gemide kullanılan veya kullanma amacıyla bulundurulan ve ilgili uluslararası düzenlemelere göre bayrak devleti idaresince onaylanması gereken teçhizatı,
+Emniyet Belgeleri: Uluslararası sözleşmelere uygun olarak İdare veya Tanınmış Kuruluş tarafından düzenlenmiş belgeleri,
+Uluslararası Düzenlemeler: İlgili uluslararası sözleşmeleri, Uluslararası Denizcilik Örgütünün (IMO) ilgili kararlarını ve ilgili uluslararası test standartlarını,
+İdare: (Değişik ibare:RG-15/1/2019-30656 Mükerrer) Ulaştırma ve Altyapı Bakanlığını,
+Uygunluk İşareti: Bu Yönetmeliğin 12 nci maddesinde belirtilen ve Ek D’de gösterilen simgeyi,
+Onaylanmış Kuruluş: Bu Yönetmeliğin 10 uncu maddesi uyarınca İdare tarafından tayin edilen kuruluşu,
+Tanınmış Kuruluş: Türk gemileri için gerekli yasal hizmetleri ve belgelendirmeyi sağlamak üzere İdare tarafından yetkilendirilmiş olan kuruluşu,
+Uluslararası Sözleşmeler: Yükleme Hattı Uluslararası Sözleşmesini 1966 (LL66), Denizde Çatışmaların Önlenmesi İçin Uluslararası Kurallar Hakkında Sözleşmeyi 1972 (COLREG), Gemi Kaynaklı Kirlenmenin Önlenmesi Hakkında Uluslararası Sözleşmeyi 1973 (MARPOL) ve Türkiyenin taraf olduğu Protokolleri ve Ekleri ile Denizde Can Emniyeti Uluslararası Sözleşmesini 1974 (SOLAS), Türkiyenin taraf olduğu Protokollerin Türkiye’de yürürlükte olan güncel versiyonlarını, onlara ilişkin Protokolleri ve değişikliklerini,
+Telsiz Haberleşme Teçhizatı: 1974 SOLAS Sözleşmesinin IV üncü Bölümünde zorunluluk getirilen teçhizat ve aynı Sözleşmenin III/6.2.1 maddesinde zorunluluk getirilen, can sallarında bulunması gereken çift kanallı VHF telsiz cihazını,
+Gemide Kullanılan: Bir gemiye monte edilmiş veya yerleştirilmiş olmayı,
+Gemi: Savaş gemileri hariç, uluslararası sözleşmelerin kapsamına giren gemileri,
+Savaş gemisi: Silahlı kuvvetlere ait, geminin milliyeti konusunda ayırt edici dış işaretlere sahip, adı uygun bir hizmet listesi veya eşiti bir belgede kayıtlı, ülkenin hükümeti tarafından atanmış bir subay tarafından idare edilen ve düzenli ordu disiplini altında gemi adamı ile donatılmış gemileri,
+Türk Gemisi: Türk bayrağını taşıyan ve Millî Gemi Siciline veya Türk Uluslararası Gemi Siciline kayıtlı olan gemileri,
+Yeni Gemi: Bu Yönetmeliğin yürürlüğe girdiği tarihte veya daha sonraki bir tarihte omurgası konulmuş olan veya benzer bir inşa aşamasında bulunan gemiyi,
+Benzer Bir İnşa Aşaması: Belirli bir gemiyle ilgili inşa çalışmasının başladığı ve en az 50 ton ağırlıkla veya bütün yapısal malzemenin tahminî kütlesinin %1’iyle (hangisi daha az ise), geminin montajının başlamış olduğu aşamayı,
+Mevcut Gemi: Yeni gemi olmayan gemiyi,
+Test Standartları: Uluslararası Denizcilik Örgütü (IMO), Uluslararası Standardizasyon Örgütü (ISO), Uluslararası Elektroteknik Komisyonu (IEC), Avrupa Standardizasyon Komitesi (CEN), Avrupa Elektroteknik Standardizasyon Komitesi (CENELEC) ve Avrupa Telekomünikasyon Standartları Enstitüsü (ETSI) tarafından ilgili uluslararası sözleşmelere ve test metotlarını ve test sonuçlarını tanımlayan ilgili IMO kararlarına uygun olarak oluşturulan ve sadece Ek A’da belirtilen biçimdeki standartların güncel versiyonlarını,
+Tip Onayı: İlgili test standartları uyarınca imal edilmiş teçhizatın değerlendirilmesi ve ilgili belgenin düzenlenmesine yönelik prosedürleri,
+ifade eder.

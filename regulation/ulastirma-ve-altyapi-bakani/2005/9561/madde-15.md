@@ -1,0 +1,7 @@
+Teknik yenilik durumunda eşdeğer kurallar
+Madde 15 — Bu Yönetmeliğin 6 ncı maddesi hükümleri saklı kalmak kaydıyla, istisnaî teknik yenilik durumlarında İdare, uygunluk değerlendirme prosedürlerine uygun olmayan bir teçhizatın uygunluk değerlendirme prosedürlerine uygun olan bir teçhizat ile en azından aynı derecede etkili olduğunun deneme yoluyla veya başka bir yolla belirlenmesi durumunda Türk gemilerini konulmasına izin verebilir.
+Telsiz haberleşme teçhizatıyla ilgili olarak İdare veya başka bir yetkili makam, bunların telsiz frekans spektrumuna zarar vermemesini zorunlu kılar.
+Bu tür deneme işlemlerinde hiçbir surette Türkiye’de üretilen teçhizat ile Türkiye dışında üretilen teçhizat arasında ayrım yapılmaz.
+Bu madde kapsamına giren teçhizat için, İdare tarafından bir belge verilir. Teçhizatın gemiye konulmasına müsaade eden ve teçhizatın kullanımıyla ilgili kısıtlamalar koyan veya hükümler içeren bu belge, her zaman teçhizatla birlikte taşınır.
+Bu maddenin birinci fıkrası kapsamına giren bir teçhizatı bulunan bir gemi, Millî Gemi Siciline aktarıldığında İdare, testler ve pratik kanıtlamalar dâhil, söz konusu teçhizatın uygunluk değerlendirme prosedürlerine uygun olan teçhizat ile en azından aynı derecede etkili olduğundan emin olmak için gerekli önlemleri alır.
+İdare, bir teçhizatın bu madde kapsamında Millî Gemi Siciline kayıtlı bir gemide kullanılmasına izin verdiğinde; uygunluk değerlendirme işlemleri ile ilgili bilgileri, denemelerle ilgili raporları ve değerlendirmeleri, talep edilmesi hâlinde AB Komisyonuna ve AB üyesi devletlere bildirir.

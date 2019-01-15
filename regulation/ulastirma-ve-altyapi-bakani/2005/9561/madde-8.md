@@ -1,0 +1,4 @@
+Test standartları
+Madde 8 — Test standartları bulunmayan ve Ek A.2’de listesi verilen teçhizat için Uluslararası Denizcilik Örgütünün (IMO) veya diğer uluslararası standardizasyon kuruluşlarının test standartları geliştirmeleri hâlinde, İdare bu test standartlarını Resmî Gazete’de yayımlayarak ilân eder. İdare, test standartlarının geliştirilmesini düzenli olarak izler.
+Uluslararası Denizcilik Örgütü (IMO) dâhil uluslararası kuruluşlar, makul bir süre içinde belirli bir teçhizat için test standartları kabul etmezse, Avrupa standardizasyon kuruluşları tarafından geliştirilen standartlar uygulanabilir.
+Belirli bir teçhizat için, birinci fıkrada belirtilen test standartları kabul edildiğinde veya yürürlüğe girdiğinde, söz konusu teçhizat Ek A.2’den Ek A.1’e aktarılabilir. Aktarma tarihinden itibaren o teçhizat için bu Yönetmeliğin 6 ncı maddesi uygulanır.

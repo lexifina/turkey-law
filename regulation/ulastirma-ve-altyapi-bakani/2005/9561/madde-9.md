@@ -1,0 +1,5 @@
+Yeni gemilerin Millî Gemi Siciline veya Türk Uluslararası Gemi Siciline transferi
+Madde 9 — Bayrağı ne olursa olsun, Millî Gemi Siciline veyahut Türk Uluslararası Gemi Siciline kayıtlı olmayan, fakat bu sicillere transfer edilecek olan yeni bir gemi; transfer sırasında İdare veya Tanınmış Kuruluş veyahut başka bir yetkili makam tarafından, geminin teçhizatının gerçek durumunun geminin emniyet belgelerine uygun olduğunu ve bu Yönetmelik ile uyumlu olup uygunluk işareti taşıdığını veya bu Yönetmelik uyarınca tip onayına sahip teçhizata eşdeğer olduğunu teyit etmek amacıyla muayeneye tâbi tutulur.
+Uygunluk işareti taşımayan veya İdarece eşdeğer sayılmayan teçhizat, uygun bir yenisiyle değiştirilir.
+Bu madde uyarınca eşdeğer sayılan teçhizat için, İdare veya Tanınmış Kuruluş veyahut başka bir yetkili makam tarafından bir belge verilir. Teçhizatın gemide kullanılması için Türkiyenin izin verdiğini gösteren ve teçhizatın kullanımıyla ilgili kısıtlamalar koyan veya hükümler içeren bu belge, her zaman teçhizatla birlikte bulundurulur.
+Telsiz haberleşme teçhizatının telsiz frekans spektrumunu etkilememesi gerekir.

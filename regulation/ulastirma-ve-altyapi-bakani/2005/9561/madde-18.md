@@ -1,0 +1,2 @@
+SOLAS kapsamında olmayan teknelerin telsiz haberleşme teçhizatı
+Madde 18 — Bu Yönetmeliğin 6 ncı maddesine tâbi olmayan ve küresel deniz tehlike ve emniyet sistemine (GMDSS) katılması amaçlanan SOLAS dışı teknelerin telsiz haberleşme teçhizatı, deniz ortamında doğru çalışmayı sağlayacak, tehlike durumunda GMDSS’nin bütün operasyonel gereklerini karşılayacak ve analog veya dijital haberleşme hattıyla yüksek bir doğruluk derecesinde açık ve sağlam haberleşme temin edecek şekilde tasarlanmış olmalıdır.
