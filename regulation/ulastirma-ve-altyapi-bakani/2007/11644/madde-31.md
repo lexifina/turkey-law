@@ -1,0 +1,3 @@
+Kaza, arıza ve suç bildirimi
+MADDE 31 – (1) Limana gelen gemilerin kaptanları, donatanları ve acenteleri seyir sırasında ve limanda meydana gelen deniz kazalarını, önemli makine arızalarını, genel seyir güvenliği bakımından saptadıkları sakıncalı hususları ve gemide işlenen suçları, ilgili makamlara duyurulmak üzere, liman başkanlığına mümkün olduğu taktirde önce telsizle bildirmekle, limana varıştan itibaren en geç altı saat içerisinde bir ön raporla ve yirmidört saat içinde de düşüncelerini kapsayan açıklamalı bir raporla bildirmek ve suç kanıtlarını muhafaza etmekle yükümlüdürler.
+(2) Kazaya uğrayan veya neden olan bir geminin kaptanı, limana gelişinden itibaren en geç dört saat içinde geminin sefer belgelerini liman başkanlığına teslim etmekle yükümlüdür.
