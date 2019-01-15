@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) ASM: Esas amacı, mevcut hava sahasının kullanımını dinamik bir zaman paylaşımı ve/veya hava sahasının çeşitli kullanıcı kategorileri arasında kısa vadeli ihtiyaçlara göre ayırımı sayesinde azamiye yükseltmek olan planlama işlevi olarak tanımlanan hava sahası yönetimini,
+b) ATFM: Hava trafik kontrol kapasitesinin mümkün olduğunca azami düzeyde kullanılmasını ve trafik hacminin ilgili hava seyrüsefer hizmetleri sağlayan kurumlar tarafından bildirilen kapasitelerle uyumlu olmasını temin ederek, hava trafiğinin emniyetli, düzenli ve süratli akışına katkıda bulunma amacıyla oluşturulmuş bir işlev olarak tanımlanan hava trafik akış yönetimini,
+c) ATM: Hava aracının, operasyonunun her aşamasında emniyetli ve verimli hareketini sağlamak üzere gerekli olan ATS, ASM ve ATFM gibi yer temelli ve hava kaynaklı işlevlerden oluşan hava trafik yönetimini,
+ç) ATS: Muhtelif Uçuş Bilgi hizmetleri, ikaz hizmeti, hava trafik tavsiyeli hizmeti ve hava trafik kontrol hizmeti gibi çeşitli anlamları içeren hava trafik hizmetlerini,
+d) CNS: Haberleşme, seyrüsefer ve gözetimi,
+e) Emniyet güvence: Kabul edilebilir emniyeti elde eden bir ürün, hizmet, organizasyon veya işlevsel sistemin yeterli güveni sağlaması için gerekli olan tüm planlı ve sistematik eylemleri,
+f) ESARR: EUROCONTROL emniyet düzenleyici gereksinimlerini,
+g) EUROCONTROL: Avrupa Hava Seyrüsefer Emniyeti Teşkilatını,
+ğ) Genel Müdürlük: Ulusal gözetim otoritesi ve düzenleyici kuruluş olarak Sivil Havacılık Genel Müdürlüğünü,
+h) ICAO: Uluslararası Sivil Havacılık Teşkilatını,
+ı) İşlevsel sistem: ATM kapsamında bir işlevi icra etmek üzere bir araya gelen sistem, süreç ve insan kaynaklarının bileşimini,
+i) Risk: Bir tehlikeden kaynaklanan yıkıcı bir etkinin oluşma sıklığı veya ihtimali ile tehlikenin şiddetinin bileşimini,
+j) Tehlike: Bir kazaya neden olabilecek, koşul, olay veya durumu,
+k) Yapılandırma verisi: Bir yazılım sistemini kullanımının belirli bir aşamasına yapılandıran veriyi,
+l) Yazılım: Gelişimsel olmayan yazılımlar dahil, ancak uygulamaya özel entegre devreler, programlanabilir geçit dizinleri ve katı hal mantıksal kontrol cihazları gibi elektronik parçalar hariç bilgisayar programlarını ve bunlara ait yapılandırma verilerini,
+m) Yazılım arızası: Bir programın talep edilen işlevi icra etme yetersizliğini,
+n) Yazılım hatası: Bir programın talep edilen işlevi doğru olarak icra etme yetersizliğini,
+o) Yazılım kullanım süresi: Bir yazılım ürününün üretilmeye uygunluğu ve yeterliliği için talep edilen ve kuruluş tarafından belirlenmiş olan süreçler toplamını veya bir yazılım ürününün üretilmesi veya tadil edilmesi kararıyla başlayan ve ürünün hizmetten alınmasıyla sona eren zaman aralığını,
+ö) Yazılım kullanım süresi verisi: Bir yazılım ürününün, yazılım kullanım süresi süreçlerinin, sistemin veya donanımın onaylanmasına ve onay sonrası değişikliğe imkân sağlayan ve yazılımın kullanım süresi boyunca faaliyetlerin planlanması, yönlendirilmesi, açıklanması, tanımlanması, kaydedilmesi, kanıtlanması veya belgelenmesi amacıyla üretilen veriyi,
+p) Yeni yazılım: Bu Yönetmeliğin yürürlüğe girdiği tarihten sonra siparişi verilen veya bağlayıcı sözleşmeleri imzalanan yazılımları,
+ifade eder.
