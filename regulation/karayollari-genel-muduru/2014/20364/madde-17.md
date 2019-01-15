@@ -1,0 +1,3 @@
+Zorunlu çalışma süresi
+MADDE 17 – (1) Bu Yönetmelik hükümlerine göre atananlardan, 14/9/2012 tarihli ve 28411 sayılı Resmî Gazete’de yayımlanan Karayolları Genel Müdürlüğü Memurlarının Yer Değiştirme Suretiyle Atanmalarına İlişkin Yönetmelik hükümlerine tabi olanlar, söz konusu Yönetmeliğin 9 uncu, 11 inci ve 12 nci maddesi kapsamında bulunanlar hariç olmak üzere, atandıkları yerdeki hizmet sürelerini tamamlamadan başka hizmet bölgelerine atanamazlar.
+(2) Askerlik süresi, görevden uzaklaştırma halinde geçen süreler ve aylıksız izinde geçirilen süreler, birinci fıkrada bahsedilen hizmet süresinin hesabında dikkate alınmaz.

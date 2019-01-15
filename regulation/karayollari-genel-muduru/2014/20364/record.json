@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.20364",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜNE İLK DEFA AÇIKTAN ATANACAK TEKNİK PERSONEL HAKKINDA SINAV VE ATAMA YÖNETMELİĞİ",
+  "number": "20364",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2014/20364",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20364&MevzuatTertip=5",
+  "source_sha256": "f0ce6a7d37b7e031078e512ee5fcc67c268a492fd15340fc166dc5845b4dc16f",
+  "source_bytes": 27811,
+  "published": "2014-12-30",
+  "gazette": "29221",
+  "in_force": "2019-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1876,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
