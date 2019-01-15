@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "323",
+  "decision_date": "2019-01-15",
+  "source_id": 29592,
+  "chamber": "7",
+  "ilam_number": "180",
+  "item_number": 14,
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29592/",
+  "source_sha256": "de16334c369fdab711543fa57ad98d7b2a95fa5aa19375ad4f1f20a5ad0dc033",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
