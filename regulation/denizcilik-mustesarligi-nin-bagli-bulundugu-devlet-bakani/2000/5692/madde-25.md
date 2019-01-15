@@ -1,0 +1,2 @@
+Teşvik Esasları
+Madde 25- (Değişik: RG-19/1/2005-25705) 6762 sayılı Türk Ticaret Kanunu hükümlerine göre Türk bayrağı çekebilen gemi ve yat sahiplerine yatırım sırasında tanınan mali yardım ve teşvikler, 4490 sayılı Kanunun yürürlüğe girmesinden sonra yurt dışından ithal edeceği gemi ve yatlarını bu Yönetmelik hükümlerine göre TUGS’a tescil ettiren Türk uyruklu gerçek ve tüzel kişilere de tanınır.”
