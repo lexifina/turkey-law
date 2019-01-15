@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.23436",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "23436",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2017/23436",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23436&MevzuatTertip=5",
+  "source_sha256": "5cdd3d53e3808c62731dc52ca6e60798c899b82372886440331661fcecbf8ecf",
+  "source_bytes": 57508,
+  "published": "2017-03-23",
+  "gazette": "30016",
+  "in_force": "2019-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2928,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

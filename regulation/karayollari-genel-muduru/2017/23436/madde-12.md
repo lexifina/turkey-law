@@ -1,0 +1,5 @@
+Duyuru ve başvuru
+MADDE 12 – (1) Görevde yükselme ve unvan değişikliği suretiyle atama yapılacak kadrolar yazılı sınavlardan en az bir ay önce duyurulur. İlan edilen kadrolar için belirlenen başvuru tarihinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadrolardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir. Aylıksız izinde bulunanlar dâhil olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür.
+(2) Unvan değişikliği sınavlarına sadece Genel Müdürlüğün kendi personeli başvurabilir.
+(3) Görevde yükselme ve unvan değişikliği sınavları kadro durumu, personel planlaması ve hizmet ihtiyaçları göz önünde bulundurarak Genel Müdürlükçe uygun görülen bir tarihte yaptırılır.
+(4) (Değişik ibare:RG-15/1/2019-30656 Mükerrer) Personel Dairesi Başkanlığına yapılan başvurular incelenerek, aranan şartları taşıyanlar Genel Müdürlüğün intranet/internet sitelerinde ilan edilir.
