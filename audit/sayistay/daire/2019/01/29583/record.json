@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "323",
+  "decision_date": "2019-01-15",
+  "source_id": 29583,
+  "chamber": "7",
+  "ilam_number": "180",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29583/",
+  "source_sha256": "9f9af71c63e0cfcf0cbbd2cd5dfe62492980167f83177ec88b2df0fef8dbffce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
