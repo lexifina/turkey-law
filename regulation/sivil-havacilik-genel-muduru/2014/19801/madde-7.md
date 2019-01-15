@@ -1,0 +1,2 @@
+Bilgi ve belgelerin temini
+MADDE 7 – (1) Raporu veren veya alan kişi ve kuruluşlar, rapor verme veya hava trafik yönetim hizmet üniteleri tarafından raporun alınması işlemlerinin yanı sıra, olayın müteakip soruşturma ve incelenmesine kaynak teşkil edebilecek her türlü bilgi ve belgenin temin ve muhafazasından ve bu bilgi ve belgeleri ilgili usuller çerçevesinde hava seyrüsefer hizmet sağlayıcısının belirteceği temas noktalarına, ayrıca talep edilmesi durumunda Genel Müdürlüğe ulaştırılmasından sorumludur.

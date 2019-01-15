@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türk hava sahası içerisinde hava seyrüsefer kontrol hizmeti sağlayan kuruluşları, hava trafik hizmetleri ile bağlantılı sivil hava araçlarını, sivil ATS hizmeti sağlanan sivil veya askeri hava araçlarını, askeri ATS üniteleri tarafından hizmet sağlanan sivil hava araçlarını, Türk hava sahası dışında Türk tescilli hava araçlarını ve yabancı tescilli uçak işleten Türk havayolu işletmecilerini ve bu hizmetlerle ilgili kişileri kapsar.

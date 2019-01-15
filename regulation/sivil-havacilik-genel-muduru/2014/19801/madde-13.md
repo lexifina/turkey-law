@@ -1,0 +1,6 @@
+Hava trafik hizmetleri emniyet geliştirme platformu
+MADDE 13 – (1) Hava Seyrüsefer Hizmet Sağlayıcısı tarafından hava trafik ve uçuş emniyetinin sürekli olarak geliştirilmesini teminen bir Emniyet Geliştirme Platformu kurulur. Hizmet sağlayıcısı merkez ve havalimanlarının ATC ünitelerinin temsilcileri ile hava yolu işletmelerinin emniyet, operasyon veya performans birimlerinin temsilcileri bu platformu oluşturur. Ayrıca, Hizmet Sağlayıcı tarafından belirlenecek havalimanlarının Hava Trafik Kontrol Üniteleri kendi emniyet platformlarını oluşturur.
+(2) Gerektiğinde askeri hizmet sağlayıcı, uçuş eğitim organizasyonları, meteoroloji hizmet sağlayıcı ve sektörün diğer paydaşları çalışmalara katılır.
+(3) Hizmet sağlayıcı merkezi tarafından yılda en az iki defa düzenlenecek platforma Genel Müdürlük temsilcisi de katılır. Havalimanlarında oluşturulacak platform yılda en az üç defa toplanır.
+(4) Bu platformlar tarafından, olay sonuçları, hava olaylarının tekrarını önlemeye yönelik alınacak tedbirler, hava trafik ve uçucu personelin işbirliğinin geliştirilmesi, emniyete yönelik tavsiye ve önerilerinin değerlendirilmesi ve benzeri çalışmalar yapılır.
+(5) Hava Seyrüsefer Hizmet Sağlayıcı platform çalışmalarının özet raporlar şeklinde tanzim edilerek kayıt altına alınmasını sağlar.

@@ -1,0 +1,8 @@
+Olayların rapor edilmesi
+MADDE 6 – (1) Hava trafik kontrolörleri, pilotlar, havacılık işletmeleri, ATS hizmet ünitelerinde çalışan diğer personel ve hava trafik teknik alt yapısının tesisi, tadilatı, bakım ve onarımını yapan personel ile seyrüsefer sistemlerinin uçuş kontrolü ile görevli personeli tarafından, bu Yönetmeliğin ekinde yer alan Ek-A’da belirtilen tanımlara uyan tüm olayların rapor edilmesi zorunludur.
+(2) Pilotların uçuş esnasında frekanstan veya inişi müteakip telefon vasıtasıyla ATC ünitelerine ya da sivil havacılık işletmelerine ilettikleri sözlü raporlar da, yazılı raporlar gibi işlem görür.
+(3) Ayrıca, üçüncü kişiler tarafından bu Yönetmelik kapsamında rapor edilen tüm hava olayları da aynı işlemi görür.
+(4) Bir hava olayına ait rapor, ilgili şahıs veya birimlerce, en geç yetmiş iki saat içerisinde ve en seri araçlarla Genel Müdürlüğe, hava seyrüsefer hizmet sağlayıcısının ATC birimleri veya bu amaçla tespit edilecek temas noktalarına iletilir.
+(5) Türk hava sahası dışında, Türk tescilli hava araçları veya Türk işletmecilerinin ve uçucu personelin, yabancı ülke hava sahalarında karşılaştığı hava olayları en geç yetmiş iki saat içerisinde Genel Müdürlüğe rapor edilir.
+(6) Hava Seyrüsefer Hizmet Sağlayıcının tüm ilgili ATS Ünitelerinden meydana gelen hava trafik olayları ile ilgili bilgi ve belge talep edilmesi halinde belgeler Genel Müdürlüğe iletilir.
+(7) Hava seyrüsefer hizmet sağlayıcı tarafından hava sahası kullanıcılarını, diğer kurumları, diğer ülke havacılık otoritelerini ilgilendiren olaylar ön değerlendirme raporuyla birlikte Genel Müdürlüğe iletilir. Çok ciddi ve ciddi olduğu tespit edilen hava trafik olaylarına ilişkin bilgi ve belgeler olay tarihi itibariyle en geç on dört gün içerisinde Genel Müdürlüğe iletilir.

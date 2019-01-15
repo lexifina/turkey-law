@@ -1,0 +1,2 @@
+Sorumluluk
+MADDE 8 – (1) Sivil havacılık işletmeleri, ATS hizmet üniteleri, hava trafik kontrolörleri, pilotlar veya üçüncü şahıslar, karışmış oldukları veya tanık oldukları gerçekleşmiş olaylar ile uçuş emniyetine potansiyel tehlike teşkil edebileceği veya hava trafik yönetim hizmetlerinde emniyet kabiliyetini azaltabileceği düşünülen tüm olayların Genel Müdürlüğe ve Hava Seyrüsefer Hizmet Sağlayıcısına rapor edilmesinden sorumludur.
