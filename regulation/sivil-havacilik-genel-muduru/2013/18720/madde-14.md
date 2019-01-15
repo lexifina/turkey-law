@@ -1,0 +1,2 @@
+Kargo, posta ve diğer maddelerin giriş ve çıkışı
+MADDE 14 – (1) Havaalanlarında kargo, posta ve diğer maddelerin giriş ve çıkışları için ICAO tarafından yayımlanan Kolaylıklar adlı EK-9 Dokümanı ile ECAC tarafından yayımlanan Kolaylıklar konulu Doküman 30’un Bölüm 1’i, WHO, WCO ve IPU tarafından belirlenen standartlarda gerekli alt yapının oluşturulması, kolaylıkların sağlanması ve bu uluslararası standartlar ile ulusal gümrük mevzuatında belirtilen hususlara ve MSHGP’ye uyulur.

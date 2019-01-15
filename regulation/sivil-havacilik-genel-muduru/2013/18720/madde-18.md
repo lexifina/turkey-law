@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Hareket Kabiliyeti Kısıtlı, Kabul Edilmeyen ve Kural Dışı Yolcular
+Hareket kabiliyeti kısıtlı yolcuların giriş ve çıkışı
+MADDE 18 – (1) Hareket kabiliyeti kısıtlı yolcuların havaalanlarına giriş ve çıkışları için ICAO tarafından yayımlanan Kolaylıklar adlı EK-9 Dokümanı ile ECAC tarafından yayımlanan Kolaylıklar konulu Doküman 30’un Bölüm 1’i ve ulusal mevzuat kapsamında MSHGP’de belirtilen standartlarda kolaylıkların sağlanması için havaalanı ve terminal işletmecileri ile hava taşıyıcısı ve yer hizmeti kuruluşları tarafından ulusal mevzuat kapsamında gerekli alt yapı oluşturularak, gerekli önlemler alınır.
+(2) Hareket kabiliyeti kısıtlı yolcuların gidişte havaalanına varış noktasından, gelişte havaalanından ayrılışına kadar olan süreç için ulaşım hizmetlerinden yararlanabilmesinin sağlanması, bu kapsamdaki yolcuların alınması, bırakılması, yolcu transfer hizmetlerinde ve araç parkı tahsisinde gerekli düzenlemeler yapılarak, kolaylaştırıcı tedbirlerin alınması birinci fıkrada belirtilen ilgili kuruluşlar tarafından sağlanır.
+(3) Hareket kabiliyeti kısıtlı yolculara kesintisiz hizmet verilebilmesi amacıyla, havaalanı veya terminal işletmecisi, hava taşıyıcısı ile yer hizmeti kuruluşu arasında gerekli koordinasyon sağlanmalıdır.

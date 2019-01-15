@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Komitelerin Kurulması, Görevleri ve Çalışma Esasları
+HANKOK’un oluşumu
+MADDE 5 – (1) Sivil trafiğe açık uluslararası havaalanlarında hava ulaşımını kolaylaştırmak için, Sivil Havacılık Genel Müdürü veya Genel Müdür Yardımcısının başkanlığında, Dışişleri Bakanlığı, İçişleri Bakanlığı, Sağlık Bakanlığı, Kültür ve Turizm Bakanlığı, Maliye Bakanlığı, Orman ve Su İşleri Bakanlığı, Gümrük ve Ticaret Bakanlığı, Havaalanı işletmecileri ve Türk Hava Yolları A.O.’dan en az daire başkanı seviyesinde, uluslararası trafiğe açık havaalanı mülki idare amirleri ve havaalanı terminal işletmecileri, Havaalanları Yer Hizmetleri Yönetmeliğine göre A grubu çalışma ruhsatına sahip yer hizmeti kuruluşları, TÖSHİD, TÜRSAB, UTİKAD ve AOC’den yönetim kurulu başkanı, genel müdür veya genel müdür yardımcısı düzeyinde temsilcilerden olmak üzere birer üyenin katılımıyla HANKOK oluşturulur.
+(2) HANKOK’a üye olan Bakanlıkların toplantı için katılımı öngörülen ilgili Genel Müdürlüklerinin isimleri SHGM tarafından toplantı davet yazısında belirtilir.
+(3) Havaalanlarında hizmet veren ilgili kamu kurum ve kuruluşları ile gerçek kişiler ve özel tüzel kişilerin temsilcileri, gerekli görülen durumlarda HANKOK toplantılarına SHGM tarafından görüş almak üzere davet edilebilir.

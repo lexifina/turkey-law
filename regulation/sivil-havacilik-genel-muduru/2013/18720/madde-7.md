@@ -1,0 +1,16 @@
+HANKOK’un görevleri
+MADDE 7 – (1) HANKOK, 6 ncı maddede belirtilen süreler içerisinde toplanarak sivil hava ulaşımına açık uluslararası havaalanlarında hava ulaşımını kolaylaştırmak için aşağıda belirtilen hususları yerine getirir:
+a) Bu Yönetmelikte bahsedilen uygulamaya yönelik esaslara ilişkin ulusal hava nakliyatı kolaylıklar programının oluşturulması.
+b) HANKOK’un sekretaryası tarafından, havaalanlarında hizmet vermekte olan kamu kurum ve kuruluşları ile gerçek ve özel tüzel kişiler arasında gerekli koordinasyonun sağlanması için önlemlerin alınması.
+c) Bu Yönetmelik kapsamında hava araçlarının, yolcunun, bagajların, kargoların giriş ve çıkış işlemleri, sağlık hizmetleri gibi uygulamaların uluslararası standartlarda yürütülmesinin sağlanması amacıyla ilgili kurum ve kuruluşlar arasında gerekli koordinasyonun sağlanması ve hizmetlerin yürütülmesinin takip edilmesi.
+ç) Uluslararası standartlarda yapılacak olan değişikliklerin ve uluslararası gelişmelerin takip edilmesi ve bu değişiklikler ile gelişmelere bağlı olarak uluslararası standartların havaalanlarında uygulanabilmesi için ilgili kuruluşlara önerilerde bulunularak uygulamaların takip edilmesi, mümkün olduğu zamanlarda yurtiçi ve yurtdışındaki uluslararası havaalanlarına bu hususlarda periyodik inceleme turlarının düzenlenmesi.
+d) Uluslararası sivil havacılık alanındaki gelişmeler hakkında HANKOK üyelerinin bilgilendirilmesi.
+e) Hava ulaşımının kolaylaştırılması konusunda yapılacak uluslararası toplantıların ve alınan kararların takip edilmesi ve uygulanmasının sağlanması için ilgili kurum ve kuruluşlar arasında gerekli koordinasyonun oluşturulması.
+f) ICAO Genel Sekreterliğinin hava ulaşımını kolaylaştırma uzmanları tarafından ülkemize yapılacak olan ziyaretlerinde, mümkün olduğu durumlarda uzmanların HANKOK toplantılarına katılabilmelerinin sağlanması.
+g) HANKOK çalışmaları kapsamında spesifik ve örnek teşkil edebilecek uygulamaların diğer devletlere bildirilmek üzere ICAO’ya iletilmesi.
+ğ) Sivil havacılık güvenliği konusunda, HANKOK’a üye kurum ve kuruluşların görev, yetki ve sorumluluk alanına giren sorunların takip edilmesi, gerekli önlemlerin alınmasının sağlanması amacıyla ilgili Hava Meydanı Güvenlik Komisyonuna, Eğitim Araştırma Denetleme Uzmanlar Kurulu veya Milli Sivil Havacılık Güvenlik Kuruluna bildirilmesi ve bunların çözüme kavuşturulmasının takip edilmesi.
+h) Yolcu mağduriyetinin önlenmesi için gerekli düzenlemelerin yapılması, alınan önlemlerin takip edilmesi ve bunların uygulanması için ilgili kurum ve kuruluşlar arasında gerekli koordinasyonun sağlanması.
+ı) Uçuş can ve mal emniyetini etkileyen yer kazalarının önlenmesi için alınan önlemlerin takip edilmesi ve bunların uygulanması için ilgili kurum ve kuruluşlar arasında gerekli koordinasyonun sağlanması.
+i) Havaalanlarında uygulanan slot uygulamalarının takip edilmesi ve bu konuda öneri, şikayet ya da taleplerin ilgili kurum ve kuruluşlara iletilmesi.
+j) HALİNKOK toplantılarında çözülememesi ve diğer havaalanlarını da ilgilendirmesi nedeniyle HANKOK’a iletilen sorunların tartışılarak sonuçlandırılması ve gerektiğinde ilgili kurum ve kuruluşlara ileterek çözüme kavuşturulmasının sağlanması.
+k) HANKOK toplantı raporunun ilgili kurum ve kuruluşlara iletilmesi.

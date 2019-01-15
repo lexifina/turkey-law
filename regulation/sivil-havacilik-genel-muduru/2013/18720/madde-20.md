@@ -1,0 +1,4 @@
+Kural dışı ve sınır dışı edilen yolcular
+MADDE 20 – (1) Havaalanı işletmecileri, terminal işletmecileri, hava taşıyıcısı, yer hizmetleri kuruluşları, kural dışı yolcuların havada veya yerde uçuş ve yer emniyeti ve güvenliğini bozucu tutum ve davranışları ile çalışanlara karşı olabilecek fiziksel veya sözlü saldırılarını ve düzen ve disiplini bozucu tutum ve davranışlarını önlemek ve bu tür yolculara gerekli yaptırımların uygulanmasını sağlamak amacıyla ICAO, ECAC ve IATA’nın belirlediği standartlarda ve ulusal mevzuat kapsamında MSHGP’de istenen önlemler alınır.
+(2) Birinci fıkrada belirtilen kuruluşlar, kural dışı yolcuları en yakın polis birimine bildirir. Ayrıca havaalanı işletmecileri üç ayda bir bu tür olayları bildiren bir raporu SHGM’ye gönderir.
+(3) Ülkemizden sınır dışı edilecek olan şahıslar konusunda bu kararı veren kamu idaresi tarafından ilgili işletmecilere yeterli süre öncesinde bildirimde bulunulur ve gerekli bilgiler verilir.

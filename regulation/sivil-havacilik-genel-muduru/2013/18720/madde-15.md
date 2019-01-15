@@ -1,0 +1,2 @@
+İthal ve ihraç kargosunun giriş ve çıkışı
+MADDE 15 – (1) İthal ve ihraç kargosunun havaalanlarına giriş ve çıkışları için ICAO tarafından yayımlanan Kolaylıklar adlı EK-9 Dokümanı ile ECAC tarafından yayımlanan Kolaylıklar konulu Doküman 30’un Bölüm 1’i, WHO ve WCO’nın belirlediği uluslararası standartlarda gerekli alt yapının oluşturulması, önlemlerin alınması ve bu uluslararası standartlar ile ulusal gümrük mevzuatında belirtilen hususlara ve MSHGP’ye uyulur.
