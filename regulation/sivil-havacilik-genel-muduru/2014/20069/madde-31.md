@@ -1,0 +1,4 @@
+Aykırı davranışlar ve idari yaptırımlar
+MADDE 31 – (1) Bu Yönetmelikte belirtilen kurallara uyulmaması halinde;
+a) Genel Müdürlük tarafından yapılan denetlemeler sonucunda HSHS’nin bu Yönetmeliğe uygunsuz durumları tespit edildiğinde eksikliklerin giderilmesi için HSHS’ye en fazla üç ay süre verilir. Verilen süre içerisinde uygunsuzluğun giderilmemesi durumunda, Genel Müdürlük değerlendirme yaparak en fazla üç aya kadar ek süre verilmesine ya da bu maddenin (b) bendine göre işlem yapılmasına karar verir.
+b) Uçuş emniyetini etkileyen önemli uygunsuzluk tespit edildiğinde, Genel Müdürlük tarafından belirlenen süre içerisinde gerekli düzeltici şartlar sağlanamaz ise HSHS’ye 2920 sayılı Kanunun ceza hükümleri başlıklı beşinci kısmında yer alan hükümler ve anılan Kanunun 143 üncü maddesine istinaden çıkarılan alt düzenlemelerde yer alan idari yaptırımlar uygulanır.
