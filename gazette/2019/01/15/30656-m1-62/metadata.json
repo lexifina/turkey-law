@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-15",
+  "issue": "30656",
+  "edition": "mükerrer 1",
+  "item": 62,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yerli ve Yabancı Hava Aracına Yapılan Emniyet Değerlendirmeleri Yönetmeliği (SHY-RAMP)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190115M1-62.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190115M1.htm",
+  "index_sha256": "747ef12ef15e326f79042b693c3215a4c14e35ae67a5cfd3f02275f3134847a0",
+  "index_header": "15 Ocak 2019 ... 30656 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190115M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
