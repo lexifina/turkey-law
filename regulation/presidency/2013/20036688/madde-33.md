@@ -1,0 +1,2 @@
+Hüküm bulunmayan haller
+MADDE 33 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde, 657 sayılı Devlet Memurları Kanunu, 6 sayılı Milli Güvenlik Kurulu Genel Sekreterliğinin Teşkilat ve Görevleri Hakkında Cumhurbaşkanlığı Kararnamesi, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik ile diğer ilgili mevzuat hükümleri uygulanır. (1)

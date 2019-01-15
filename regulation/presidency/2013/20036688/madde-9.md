@@ -1,0 +1,3 @@
+Giriş sınavı kurulu
+MADDE 9 – (1) Giriş Sınavı Kurulu, Genel Sekreter veya Genel Sekreter tarafından görevlendirilecek bir Genel Sekreter Yardımcısı başkanlığında, Genel Sekreterce tespit edilecek birim amirleri ile Personel Dairesi Başkanından oluşur. Ayrıca üç yedek üye belirlenir. Asıl üyelerin herhangi bir nedenle Kurula katılamamaları hâlinde, yedek üyeler tespit sırasına göre Kurula katılırlar.(1)
+(2) Sınav kurulu başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldığı sınavda görev alamazlar.

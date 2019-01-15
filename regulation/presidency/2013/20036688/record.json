@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20036688",
+  "number": "20036688",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MİLLİ GÜVENLİK KURULU GENEL SEKRETERLİĞİ UZMANLIĞI YÖNETMELİĞİ",
+  "published": "2013-04-26",
+  "enacted": "2003-12-29",
+  "gazette_number": "28629",
+  "in_force": "2019-01-15",
+  "in_force_basis": "Latest source-printed amendment Gazette date: 2019-01-15; current consolidated text",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20036688&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "576a22b6b77b78742064a7eaff4e3645f38375918cda52050d041e1f4834a521",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
