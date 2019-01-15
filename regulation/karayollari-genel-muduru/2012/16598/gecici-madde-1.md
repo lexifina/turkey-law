@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) İlk defa yer değiştirmeye tabi tutulan personelin bu Yönetmeliğin yürürlüğe girdiği tarihten önce görev yaptıkları bölgelerde ve yer değiştirme suretiyle atanmaya tabi görevlerde geçen süreleri, bu Yönetmeliğe tabi hizmet bölgelerine intibak ettirilir.
+(2) Bu Yönetmelik kapsamında bulunan personelin bu Yönetmeliğin yürürlüğe girdiği tarihten önceki çalışma süreleri, yer değiştirilme sureti ile atanmalarında göz önünde bulundurulur. Bu personel, isteğe bağlı yer değiştirme talebini bir defaya mahsus olmak üzere bu Yönetmeliğin yayımı tarihinden itibaren 1 ay içinde yapabilir.

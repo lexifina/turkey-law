@@ -1,0 +1,3 @@
+Eş durumunun belgelendirilmesi
+MADDE 12 – (1) (B) Özür grubuna dayanarak memurun yer değiştirme isteğinde bulunabilmesi için, eşinin 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararname kapsamında bulunan bir kurumda memur olarak çalıştığına dair görev yeri belgesi ile evlilik durumlarını belgelendirmesi gerekir.
+(2) İlgili mevzuatı uyarınca zorunlu yer değiştirmeye tabi Eğitim ve Öğretim Hizmetleri, Mülki İdare Amirliği Hizmetleri ve Emniyet Hizmetleri Sınıflarına dâhil personel, Türk Silahlı Kuvvetlerine mensup subay ve astsubaylar ile hâkim ve savcıların Genel Müdürlükte çalışan eşlerinin atama ve nakilleri ilgili kurumla koordineli olarak yapılır.

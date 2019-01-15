@@ -1,0 +1,2 @@
+Gerçek dışı beyan
+MADDE 22 – (1) Özür gruplarına dayanarak yer değiştirme suretiyle atanması yapılanlar ile yerinde bırakılanlardan; özür belgelerinin gerçek dışı düzenlendiği tespit edilenlerin, atanmaları ve yerlerinde bırakılmaları için verilen onaylar iptal edilerek, yer değiştirme dönemi beklenmeksizin başka hizmet bölge ve alanlarına atanmaları gerçekleştirilir. Ayrıca haklarında soruşturma yapılır. Bu soruşturma sonucunda ilgililer hakkında genel hükümler uygulanır.

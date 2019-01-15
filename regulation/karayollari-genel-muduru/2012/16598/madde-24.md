@@ -1,0 +1,2 @@
+Naklen veya açıktan atamalar
+MADDE 24 – (1) Diğer kamu kurum ve kuruluşlarında çalışmakta iken görevlerinden ayrılanlardan veya halen çalışanlardan Genel Müdürlükte hizmetine ihtiyaç duyulanlar, Genel Müdürlüğün aynı unvanlı kadrolarına veya Karayolları Genel Müdürlüğü Görevde Yükselme ve Unvan Değişikliği Yönetmeliğine göre aynı grupta yer alan diğer unvanlardaki kadrolar ile daha alt gruptaki kadro unvanlarına söz konusu kadro unvanı için gerekli şartları sağlamak kaydıyla atanabilirler. Bunların hangi hizmet bölgesinde göreve başlayacağı kurumca belirlenir.

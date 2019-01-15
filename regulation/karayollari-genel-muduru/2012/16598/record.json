@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.16598",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLLARI GENEL MÜDÜRLÜĞÜ MEMURLARININ YER DEĞİŞTİRME SURETİYLE ATANMALARINA İLİŞKİN YÖNETMELİK",
+  "number": "16598",
+  "issuer": "Karayolları Genel Müdürü",
+  "issuer_slug": "karayollari-genel-muduru",
+  "path": "regulation/karayollari-genel-muduru/2012/16598",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16598&MevzuatTertip=5",
+  "source_sha256": "dc476a4e2c54ef9d88c6df1c436479eb50f01d4aba82163cc2066710e35041c8",
+  "source_bytes": 47951,
+  "published": "2012-09-14",
+  "gazette": "28411",
+  "in_force": "2019-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16598-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
