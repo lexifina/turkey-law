@@ -1,0 +1,2 @@
+Değişikliklerin bildirilmesi
+MADDE 10 – (1) Hava Seyrüserfer Hizmet Sağlayıcı Kuruluş; Hava Seyrüsefer Hizmet Sağlama Sertifikasının verilmesi sonrasında birimlerin bünyesinde kurulması muhtemel yeni sistemler, mevcut sistemlere getirilecek olan önemli değişiklikler ve uygulanan operasyonel ve teknik kurallarda yapılacak değişiklikler hususunda 27/4/2011 tarihli ve 27917 sayılı Resmî Gazete’de yayımlanan Hava Trafik Yönetiminde Emniyet Gözetimi Hakkında Yönetmeliği (SHY-GÖZETİM)’n 10 uncu maddesindeki gerekliliklere göre Genel Müdürlüğe başvuruda bulunur.

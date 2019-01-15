@@ -1,0 +1,5 @@
+Sertifikasyon için gereklilikler
+MADDE 9 – (1) ATS, AIS ve CNS Hizmeti sağlayıcıların Hava Seyrüsefer Hizmet Sağlama Sertifikası alabilmeleri için bu Yönetmeliğin dördüncü bölümünde belirtilen Genel Hükümleri içerir şartları karşılamaları gerekmektedir.
+(2) Hava Seyrüsefer Hizmet Sağlayıcı Kuruluşlarının hizmet verdikleri alana göre uymak zorunda oldukları özel gereklilikler Genel Müdürlük tarafından belirlenerek yazılı olarak bildirilir ve elektronik ortamda Genel Müdürlük resmi internet sayfasında ilan edilir.
+(3) Hava Seyrüsefer Hizmet Sağlama Sertifikası alacak Hava Seyrüsefer Hizmet Sağlayıcı Kuruluşun da, Eurocontrol tarafından yayınlanan ESARR 1, 2, 3, 4, 5 ve 6’ya uyum amacıyla yayımlanan ulusal mevzuat hükümlerine riayet etmesi hükmü aranır.
+(4) 11 inci madde ile getirilen muafiyetler hariç olmak üzere Hava Seyrüsefer Hizmet Sağlama Sertifikasının yayımı itibarı ile Hava Seyrüsefer Hizmet Sağlayıcı Kuruluşlar tarafından Yönetmelik hükümlerine tam uyum sağlanması gerekmektedir.

@@ -1,0 +1,26 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) AIS: Havacılık bilgi hizmetlerini,
+b) ATM: Hava trafik yönetimini,
+c) ATS: Hava trafik hizmetlerini,
+ç) Bakan: Ulaştırma, Denizcilik ve Haberleşme Bakanını,
+d) CEN: Avrupa Standartlar Komitesini,
+e) CNS: Haberleşme, seyrüsefer ve gözetimi,
+f) Doküman 8973: ICAO’nun havacılık güvenlik manüelini,
+g) ECAC: Avrupa Sivil Havacılık Konferansını,
+ğ) ECAC Doküman 30: Sivil Havacılık Güvenliği konusundaki ECAC Dokümanını,
+h) ESARR: EUROCONTROL Emniyet Düzenleyici Gereksinimlerini,
+ı) EUROCONTROL: Avrupa Hava Seyrüsefer Emniyeti Teşkilatını,
+i) EYS: Emniyet Yönetim Sistemini,
+j) Genel Müdürlük: Sivil Havacılık Genel Müdürlüğünü,
+k) GYS: Güvenlik Yönetim Sistemini,
+l) Hava Seyrüsefer Hizmetleri: Hava araçlarının hava sahasında emniyetli ve güvenli hareketini teminen verilen CNS, ATS ve AIS gibi hizmetlerin tümünü,
+m) Hava seyrüsefer hizmet sağlama sertifikası: Bu Yönetmelikte istenen koşulları sağlayan bir hizmet sağlayıcı için bu Yönetmeliğin EK-2 bölümünde bulunan ve Genel Müdürlük tarafından onaylanarak hava seyrüsefer hizmet sağlayıcı kuruluşa verilen belgeyi,
+n) Hava Seyrüsefer Hizmet Sağlayıcı Kuruluş: Hizmet verdikleri havaalanı veya ünite ile sınırlı olmak üzere, Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca veya ilgili mevzuat uyarınca AIS ve/veya ATS ve/veya CNS hizmeti sağlama yetkisi verilmiş kurum ve kuruluşları,
+o) ISO: Uluslararası Standartlar Organizasyonunu,
+ö) ICAO: Uluslararası Sivil Havacılık Teşkilatını,
+p) KYS: Kalite Yönetim Sistemini,
+r) Olay: Kaza ile sonuçlanmayan, ancak uçuş emniyetini etkileyen veya etkileme ihtimali bulunan, hava aracı ve kullanılmakta olan hava seyrüsefer sisteminde yaşanan bir kesinti, eksiklik veya bozukluk ile hava aracının operasyonu ve hava trafik yönetim hizmetlerinin sağlanması ile ilgili tüm olayları ve olağandışı durumları,
+s) TSE: Türk Standardları Enstitüsünü,
+ifade eder.
+(2) Bu Yönetmelikte belirtilmeyen tanımlar için ülkemizin üyesi bulunduğu ICAO tarafından yayımlanan dokümanlarda belirtilen tanımlar geçerlidir.

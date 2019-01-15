@@ -1,0 +1,2 @@
+Hava seyrüsefer hizmet sağlama sertifikası gerekliliği
+MADDE 7 – (1) Türkiye uçuş bilgi bölgeleri dâhilinde hava seyrüsefer hizmeti sağlayan AIS, ATS ve CNS Hava Seyrüsefer Hizmet Sağlayıcı Kuruluşlar sağlamakta oldukları hizmetler kapsamındaki yeterliliklerinin teyidi amacıyla bu Yönetmelik hükümleri çerçevesinde Genel Müdürlük tarafından Hava Seyrüsefer Hizmet Sağlama Sertifikası ile belgelendirilirler.

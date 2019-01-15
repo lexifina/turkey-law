@@ -1,0 +1,3 @@
+Emniyet olayları
+MADDE 23 – (1) Hava Seyrüsefer Hizmet Sağlayıcı Kuruluş, hizmetin sağlanması esnasında karşılaşılan emniyet olaylarının takibi ve raporlanmasına ilişkin bir sistem kurmak ve karşılaşılan olayları 30/1/2007 tarihli ve 26419 sayılı Resmî Gazete’de yayımlanan Hava Trafik Yönetim Hizmetleri ile Bağlantılı Emniyet Olaylarının Rapor Edilmesi ve Değerlendirilmesine Dair Yönetmelik (SHY 65-02) uyarınca raporlanmalarının sağlanmasından sorumludur.
+(2) Hava Seyrüsefer Hizmet Sağlayıcı Kuruluş birinci fıkra uyarınca yapılacak raporlamanın etkinliğini ve verimliliğini garanti altına almak üzere ilgili tüm personele gerekli eğitimleri sağlamalı ve personeli bilgilendirmelidir.

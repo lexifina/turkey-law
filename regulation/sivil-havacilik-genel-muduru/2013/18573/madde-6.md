@@ -1,0 +1,2 @@
+Asgari gereklilikler
+MADDE 6 – (1) Hava seyrüsefer hizmetlerinin sağlanmasında ve sertifikalandırılması işlemlerinde, 5/6/1945 tarihli ve 4749 sayılı Kanunla onaylanan Uluslararası Sivil Havacılık Sözleşmesi gereğince kurulan ICAO tarafından yayımlanan Eklerin ve bu eklere ilişkin olarak yayımlanan dokümanların son şeklinde belirlenen standart ve tavsiyeler, ECAC tarafından yayımlanan Doküman 30’da belirtilen standartlar ve Eurocontrol tarafından yayımlanan ESARR’lara uyumlu olarak hazırlanan ulusal mevzuat hükümlerince belirlenen kriterler dikkate alınır.
