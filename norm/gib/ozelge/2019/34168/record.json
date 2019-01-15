@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-135[Geçici 7-2017/85-İ]-20322",
+  "source_id": 34168,
+  "date": "2019-01-15",
+  "title": "%50'şer hissesine sahip olunan ticari taksinin ÖTV Kanununun geçici 7 nci maddesinde düzenlenen istisna uygulamasından yararlandıktan sonra hissenin tamamının bir ortağa devredilmesi halinde ÖTV ödenip ödenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34168",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "de7667786ce89d0d9aef1377551d89fc075ad2ca9504e38d8625ce39389b19cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
