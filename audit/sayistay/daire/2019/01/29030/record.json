@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10737",
+  "decision_date": "2019-01-15",
+  "source_id": 29030,
+  "chamber": "1",
+  "ilam_number": "86",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29030/",
+  "source_sha256": "e708cb833a5390c90065efc631695512fd533a236127fbf98abd17ecd167e4fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
