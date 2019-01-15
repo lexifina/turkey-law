@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (Değişik:RG-15/11/2016-29889)
+(1) Bu Yönetmelik, 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununa göre yetkilendirilen; hava seyrüsefer hizmet sağlayıcıları, havaalanı işletmecileri, terminal işletmecileri, hava taşıyıcılarına en az yolcu trafik, yük kontrol ve haberleşme ile ramp hizmeti veren yer hizmetleri kuruluşları, ikram üretim ve servis hizmeti veren yer hizmetleri kuruluşları, hava araçlarına hizmet veren akaryakıt kuruluşları, ticari hava taşıma işletmeleri, tip intibak eğitim organizasyonları, uçuş eğitim organizasyonları, onaylı bakım kuruluşları, F bakım kuruluşları, hava aracı bakım eğitimi kuruluşları, onaylı havacılık tıp merkezleri ve tasarım ve üretim kuruluşlarını kapsar.
