@@ -1,0 +1,35 @@
+{
+  "source_id": "7.5.4699",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TRAFİK İŞARETLERİ HAKKINDA YÖNETMELİK",
+  "number": "4699",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/1985/4699",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4699&MevzuatTertip=5",
+  "source_sha256": "fe827d3a10a165d8a27855068bb7c82a198d57523215f3216ef6b824a802a32a",
+  "source_bytes": 35127,
+  "published": "1985-06-19",
+  "gazette": "18789",
+  "in_force": "2019-01-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/1/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1315,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
