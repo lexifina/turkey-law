@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-140[57-2018/20-400]-3847",
+  "source_id": 35597,
+  "date": "2019-01-16",
+  "title": "Boşanma sonucu paylaşılan gayrimenkulün eşe düşen kısmının satın alınmasında tapu harcı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35597",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3f12f3ba30f40e49bf57629123f8613239657736a70492a2124cd7dcbe8c1775",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
