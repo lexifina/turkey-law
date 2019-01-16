@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-175.01.01.02[6190011338]-6292",
+  "source_id": 36984,
+  "date": "2019-01-16",
+  "title": "OSB de Bina Vergisi Muafiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36984",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f18b5ef8a73b232a96611147c2f3e77902596b5217c59f9233661a60eb219c33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
