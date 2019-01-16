@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97726449-130[3880041640]-E.6290",
+  "source_id": 32275,
+  "date": "2019-01-16",
+  "title": "Şirket aktifinde kayıtlı tekne tesliminde KDV oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32275",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "faa41a89a4ea19dd952865ce762cffa6b483001b457fa8d6fb7d1f2b9037ed6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
