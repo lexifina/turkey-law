@@ -1,0 +1,2 @@
+Organ ve Doku Alınmasında Rıza
+Madde 29- 18 yaşından küçük ve mümeyyiz olmayanlardan organ ve doku alınamaz. Bu şartları tamam olanlardan teşhis, tedavi ve bilimsel amaçlar ile organ veya doku alınması, 2238 sayılı Organ ve Doku Alınması, Saklanması ve Nakli Hakkında Kanun'un 6 ncı maddesinde öngörülen yazılı şekil şartına tabidir. Ölüden organ ve doku alınma şartı ve cesetlerin bilimsel araştırma için muhafazası hususunda 2238 sayılı Kanun'un 14 üncü maddesi hükümleri saklıdır.

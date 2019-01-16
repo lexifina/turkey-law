@@ -1,0 +1,5 @@
+Kamu Görevlisi Olmayan Personelin Sorumluluğu
+Madde 47- Hasta haklarının Devlet memuru veya diğer kamu görevlisi olmayan personel tarafından herhangi bir şekilde ihlali halinde uygulanacak müeyyideler aşağıda gösterilmiştir:
+a) Kamu görevlisi olmayan personel; hakları ihlal edilen hastanın doğrudan vaki olacak şikayeti üzerine veya bu fiillerin başka şekilde tespiti halinde Bakanlık veya başka kurum ve kuruluşlar tarafından yapılan bildirim üzerine, bunların özel kanunlara göre kurulmuş olan kamu kurumu niteliğindeki meslek kuruluşları haysiyet divanlarınca disiplin cezaları ile cezalandırılabilir.
+b) Kamu görevlisi olmayan personelin hasta haklarını ihlallerinden doğan hukuki sorumlulukları, genel hükümlere göre doğrudan doğruya kendilerine veya bunları çalıştıran kurum ve kuruluşlara karşı veya hem kendilerine ve hem de çalıştıranlara karşı birlikte dava açılarak ileri sürülebilir.
+c) Kamu görevlisi olmayan personel hakkında, ceza hukukuna göre suç teşkil eden fiilleri sebebiyle cezai müeyyideler tatbik edilmesi, genel hükümlere göre doğrudan doğruya cumhuriyet savcılıklarına yapılacak ihbar veya şikayet yoluyla gerçekleştirilebilir.

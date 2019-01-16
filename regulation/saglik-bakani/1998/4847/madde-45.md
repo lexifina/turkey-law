@@ -1,0 +1,2 @@
+Kamu Personelinin Sorumluluğunu Tespit Usulü
+Madde 45- Kamu kurum ve kuruluşlarında görevli personelin, hasta haklarını ihlal eden fiil ve halleri, şikayet halinde veya idarece kendiliğinden tespit edildiğinde, hadisenin takibi, soruşturulması ve gerekir ise müeyyideye bağlanması için doğrudan valiliklerce veyahut Bakanlık veya personelin görevli olduğu kurumlar tarafından müfettiş veya muhakkik görevlendirilir.

@@ -1,0 +1,4 @@
+Alışılmış Olmayan Tedavi Usullerinin Uygulanması
+Madde 27- Klinik veya laboratuar muayeneleri sonucunda bilinen klasik tedavi metodlarının hastaya fayda vermeyeceğinin sabit olması ve daha evvel deney hayvanları üzerinde kafi derecede tecrübe edilmek suretiyle faydalı tesirlerinin anlaşılması ve hastanın rızasının bulunması şartları birlikte mevcut olduğunda, bilinen klasik tedavi metodları yerine başka bir tedavi usulü uygulanabilir. Ayrıca, bilinen klasik tedavi metodu dışındaki bir metodun uygulanabilmesi için, hastaya faydalı olacağının ve bu tedavinin bilinen klasik tedavi usullerinden daha elverişsiz sonuç vermeyeceğinin muhtemel olması da şarttır.
+Evvelce tecrübe edilmemiş bir tıbbi tedavi ve müdahale usulü, ancak zarar vermeyeceğinin ve hastayı kurtaracağının mutlak olarak öngörülmesi halinde yapılabilir.
+Altıncı Bölüm'de yer alan hükümler saklıdır.

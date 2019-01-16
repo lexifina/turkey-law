@@ -1,0 +1,12 @@
+BEŞİNCİ BÖLÜM
+Tıbbi Müdahalede Hastanın Rızası
+Hastanın Rızası ve İzin
+Madde 24- (Değişik:RG-8/5/2014-28994)
+Tıbbi müdahalelerde hastanın rızası gerekir. Hasta küçük veya mahcur ise velisinden veya vasisinden izin alınır. Hastanın, velisinin veya vasisinin olmadığı veya hazır bulunamadığı veya hastanın ifade gücünün olmadığı hallerde, bu şart aranmaz.
+Kanuni temsilcinin rızasının yeterli olduğu hallerde dahi, anlatılanları anlayabilecekleri ölçüde, küçük veya kısıtlı olan hastanın dinlenmesi suretiyle mümkün olduğu kadar bilgilendirme sürecine ve tedavisi ile ilgili alınacak kararlara katılımı sağlanır.
+Sağlık kurum ve kuruluşları tarafından engellilerin durumuna uygun bilgilendirme yapılmasına ve rıza alınmasına yönelik gerekli tedbirler alınır.
+Kanuni temsilci tarafından rıza verilmeyen hallerde, müdahalede bulunmak tıbben gerekli ise, velayet ve vesayet altındaki hastaya tıbbi müdahalede bulunulabilmesi; Türk Medeni Kanununun 346 ncı ve 487 inci maddeleri uyarınca mahkeme kararına bağlıdır.
+Tıbbi müdahale sırasında isteğini açıklayabilecek durumda bulunmayan bir hastanın, tıbbî müdahale ile ilgili olarak önceden açıklamış olduğu istekleri göz önüne alınır.
+Yeterliğin zaman zaman kaybedildiği tekrarlayıcı hastalıklarda, hastadan yeterliği olduğu dönemde onu kaybettiği dönemlere ilişkin yapılacak tıbbi müdahale için rıza vermesi istenebilir.
+Hastanın rızasının alınamadığı hayati tehlikesinin bulunduğu ve bilincinin kapalı olduğu acil durumlar ile hastanın bir organının kaybına veya fonksiyonunu ifa edemez hale gelmesine yol açacak durumun varlığı halinde, hastaya tıbbi müdahalede bulunmak rızaya bağlı değildir. Bu durumda hastaya gerekli tıbbi müdahale yapılarak durum kayıt altına alınır. Ancak bu durumda, mümkünse hastanın orada bulunan yakını veya kanuni temsilcisi; mümkün olmadığı takdirde de tıbbi müdahale sonrasında hastanın yakını veya kanuni temsilcisi bilgilendirilir. Ancak hastanın bilinci açıldıktan sonraki tıbbi müdahaleler için hastanın yeterliği ve ifade edebilme gücüne bağlı olarak rıza işlemlerine başvurulur.
+Sağlık kurum ve kuruluşlarında yatarak tedavisi tamamlanan hastaya, genel sağlık durumu, ilaçları, kontrol tarihleri diyet ve sonrasında neler yapması gerektiği gibi bilgileri içeren taburcu sonrası tedavi planı sağlık meslek mensubu tarafından sözel olarak anlatılır. Daha sonra bu tedavi planının yer aldığı epikrizin bir nüshası hastaya verilir.

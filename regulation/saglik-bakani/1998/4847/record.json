@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.4847",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HASTA HAKLARI YÖNETMELİĞİ",
+  "number": "4847",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/1998/4847",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4847&MevzuatTertip=5",
+  "source_sha256": "9a68eac54f76687a76e553c03e2986445c7b3a9bd4803543a5f3a3288ecaf95d",
+  "source_bytes": 110976,
+  "published": "1998-08-01",
+  "gazette": "23420",
+  "in_force": "2019-01-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/1/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-01-16",
+      "RG-16/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-16",
+      "16/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-23",
+      "RG-23/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-23",
+      "23/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-05-08",
+      "RG-8/5/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-05-08",
+      "8/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5035,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
