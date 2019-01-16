@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-175.01[EML.2018.7]-10113",
+  "source_id": 36940,
+  "date": "2019-01-16",
+  "title": "Arsa Vasıflı Taşınmaz Üzerinde Bulunan Binanın (ofis/depo) Emlak Vergisinden Muaf Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36940",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a7d41a632bfe222ecefc4f7db5224f336b88bb19ce4b948dd92eede36be40762",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
