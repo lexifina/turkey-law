@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-155[01-2018/ÖZE-54]-4057",
+  "source_id": 34389,
+  "date": "2019-01-16",
+  "title": "Sözleşme Damga Vergisi Hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34389",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "c6afe222c10a6c2e2743c4850b1886e55b4eac97465d96b410329ae8259d9757",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
