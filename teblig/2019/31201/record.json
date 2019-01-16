@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31201",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAĞLIK AYÇİÇEĞİ TOHUMU İTHALATINDA TARİFE KONTENJANIUYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "31201",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/31201",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31201&MevzuatTertip=5",
+  "source_sha256": "69fab3fbf6dd4a6aacfa7d2f146bbf64ba93f738edee016acd216325ba8198ee",
+  "source_bytes": 19292,
+  "published": "2019-01-16",
+  "gazette": "30657",
+  "in_force": "2019-01-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.01.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 780,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31201%20Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
