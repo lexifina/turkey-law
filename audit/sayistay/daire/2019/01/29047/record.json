@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "190",
+  "decision_date": "2019-01-17",
+  "source_id": 29047,
+  "chamber": "4",
+  "ilam_number": "127",
+  "item_number": 11,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29047/",
+  "source_sha256": "ffeb2558a6cc847299cfdfb0603ee2e685e86c009c87aabcd373750ba903eecb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
