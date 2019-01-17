@@ -1,0 +1,24 @@
+{
+  "number": "17",
+  "number_as_published": "17",
+  "year": 2019,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(AKÇAKALE-FİŞENGE)",
+  "decision_date": "2019-01-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/7802/106/nazim-ve-uygulama-imar-planiakcakale-fisenge",
+  "official_document": null,
+  "source_sha256": "f077a0c1f3bce0366fe856815ab38420c7b133030cc074024fa74f743b3c4c78",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2019-01-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.01.2019 tarih ve 17 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-03-20",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
