@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "346",
+  "decision_date": "2019-01-17",
+  "source_id": 29166,
+  "chamber": "5",
+  "ilam_number": "136",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29166/",
+  "source_sha256": "b0571007f650fdd1aebdfd56c850e39090385d2bf8cb3a495c89f8f746dbda86",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
