@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-130[17-2017/8]-2176",
+  "source_id": 31559,
+  "date": "2019-01-17",
+  "title": "Katma Değer Vergisi Kanunu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31559",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6216b1a47f232e803b1fdc5873895031714db1e87aeb6a1bb1c5dfc7a3b81178",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
