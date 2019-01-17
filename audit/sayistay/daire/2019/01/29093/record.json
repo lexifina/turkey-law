@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "324",
+  "decision_date": "2019-01-17",
+  "source_id": 29093,
+  "chamber": "7",
+  "ilam_number": "126",
+  "item_number": 30,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29093/",
+  "source_sha256": "9073c64f2b51ed26cfd578e15cf6e5f8bdbcecf44747ce77f1df56d19b559ae8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
