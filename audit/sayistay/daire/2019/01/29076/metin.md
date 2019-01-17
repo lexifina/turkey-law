@@ -1,0 +1,15 @@
+Ek ödeme:
+
+Şef olarak çalışırken müdürlük sınavını kazanmasına rağmen ataması yapılmayan ...'e 1 inci dereceli müdür maaşı verilmesi neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Kamu zararı” başlıklı 71 inci maddesinde kamu zararı, kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması, şeklinde tanımlanmıştır.
+
+Mahalli İdareler Görevde Yükselme ve Unvan Değişikliğine Dair yönetmeliğin “Görevde yükselme ve atanma” başlıklı 18 inci maddesinin 1 inci fıkrasında; “Atanmaya hak kazanan personel başarı sıralaması listesinin ilan edilmesini müteakip en geç iki ay içinde atanır.” Denilmektedir.
+
+... 15.06.1992 tarihinde açıktan hizmetli kadrosuna atanmış, 24.12.1992 tarihinde icra memuru kadrosuna geçmiş, 2012 yılı görevde yükselme sınavı sonuncunda şef kadrosuna atanmış, 16.07.1987 tarihinde ... Üniversitesi Maliye Meslek Yüksekokulundan (ön lisans) mezun olmuş, boş bulunan Genel İdare Hizmetleri sınıfında bulunan müdür kadrosuna atanmak için sınava girmek istediğini belirten talebini 24.02.2015 günlü dilekçesiyle iletmiş, Belediyece 25.02.2015 gün ve 1907 sayılı yazı ile ... Kaymakamlığına 4 üncü derece diğer müdürlük kadro unvanı için bildirimde bulunmuş; adı geçen 04.10.2015 tarihinde yapılan görevde yükselme sınavında başarılı olması üzerine 18.11.2015 günlü dilekçe ile sınavda başarılı olduğunu belirterek münhal bir müdürlük kadrosuna atamasının yapılması için idareye başvurmuştur.
+
+Yönetmeliğin yukarıda da değinilen 18 inci maddesi uyarınca, atanmaya hak kazanan personelin, başarı sıralaması listesinin ilan edilmesini müteakip en geç iki ay içinde atamasının yapılması gerekmektedir. Bu konuda Yönetmelik idareye bir takdir yetkisi tanımamaktadır. İki aylık süre içerisinde atamanın gerçekleştirilmesi idareler için mecbur tutulmuştur. Ancak, söz konusu kişi tarafından 18.11.2015 tarihinde atamasının yapılması için idareye başvurulmasına rağmen idarece mevzuat hükmüne aykırı olarak resmi atama gerçekleştirilmemiş, buna karşılık kişi müdürlük görevinde fiilen çalıştırılmıştır.
+
+Her ne kadar kişinin müdürlük görevini yapabilmesi için bu kadroya atanması yasal bir zorunluluk olmakla birlikte, bir kamu zararından bahsedilebilmesi için 5018 sayılı Kanun’un yukarıda da değinilen 71 inci maddesi uyarınca kasır, kusur veya ihmalin bulunması gerekmektedir. Söz konusu kişi idareye atamasının yapılması için başvurmuş, ancak idarece iki ay içerisinde atama işlemi gerçekleştirilmemiştir. Yine kendisine fiilen müdürlük görevi yaptırılmış.
+
+Sonuç olarak, her ne kadar Denetçi görüşünde, Şef olarak çalışırken müdürlük sınavını kazanmasına rağmen ataması yapılmayan ...'e 1 inci dereceli müdür maaşı verilmesi neticesinde ... TL kamu zararına sebebiyet verildiği iddia edilmekte ise de, konu hakkında ilişilecek bir husus bulunmadığına oy birliğiyle karar verildi.
