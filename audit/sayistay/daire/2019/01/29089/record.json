@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "324",
+  "decision_date": "2019-01-17",
+  "source_id": 29089,
+  "chamber": "7",
+  "ilam_number": "126",
+  "item_number": 26,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29089/",
+  "source_sha256": "a43215497cff6056178d624b2b6a3aff11d5d36df23afeb5a8b5e1bc98e2b3d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
