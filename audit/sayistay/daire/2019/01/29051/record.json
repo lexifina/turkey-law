@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "190",
+  "decision_date": "2019-01-17",
+  "source_id": 29051,
+  "chamber": "4",
+  "ilam_number": "127",
+  "item_number": 15,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29051/",
+  "source_sha256": "5f7d786db6d34e1fb9d2cd22a611101d10432d02d5d4242f2ca7c32e5227c8d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
