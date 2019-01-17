@@ -1,0 +1,9 @@
+Spor kulübüne yardım:
+
+... Belediye spor kulübü taraftarlarının deplasman maçlarına götürülebilmesi için yolcu taşıma hizmeti alınması neticesinde kamu zararına sebebiyet verilmesi ile ilgili olarak yapılan incelemede;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun 8 inci maddesinde her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumlu olduğu ve yetkili kılınmış mercilere hesap vermek zorunda olduğu, 32 nci maddesinde harcama yetkililerinin, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumlu olduğu ve 5393 sayılı Belediye Kanunu’nun “Belediye Başkanının Görev ve Yetkileri” başlıklı 38 inci maddesinin (o) fıkrasında temsil ve ağırlama giderleri için ayrılan ödeneği kullanmanın belediye başkanına ait olduğu belirtilmiştir.
+
+... Belediye spor kulübü taraftarlarının deplasman maçlarına götürülebilmesi için yolcu taşıma hizmeti alınmış ve bu gider belediye bütçesinden karşılanmıştır. Belediye faaliyetleri arasında bulunmayan söz konusu hizmet alımı için belediye bütçesinden ödemede bulunulabilme olanağı bulunmamaktadır
+
+Her ne kadar, ....... Belediye spor kulübü taraftarlarının deplasman maçlarına götürülebilmesi için yolcu taşıma hizmeti alınması neticesinde ... TL kamu zararına sebebiyet verilmiş ise de, söz konusu tutarın 03.07.2018 tarih ve ... numaralı muhasebe işlem fişi ile gelir hesabına kaydedildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına oy birliğiyle karar verildi.
