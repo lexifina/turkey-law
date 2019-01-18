@@ -1,0 +1,24 @@
+{
+  "number": "22",
+  "number_as_published": "22",
+  "year": 2019,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(HALİLİYE-SIRRIN)",
+  "decision_date": "2019-01-18",
+  "source": "https://www.sanliurfa.bel.tr/icerik/7534/106/nazim-ve-uygulama-imar-planihaliliye-sirrin",
+  "official_document": null,
+  "source_sha256": "97323bdea153f5be8d539e243fa50c2ef3d6370003700e6bb95d86fcd0fb5a37",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2019-01-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.01.2019 tarih ve 22 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-01-22",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=4"
+}
