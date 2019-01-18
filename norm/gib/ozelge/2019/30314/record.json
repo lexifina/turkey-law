@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85620172-130-2365",
+  "source_id": 30314,
+  "date": "2019-01-18",
+  "title": "Orman İşletme Müdürlüğüne Yapılan Fidan Sulama İşinin Tevkifat Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30314",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "a2a52ac9cceafe5894e9f2b5b64972ff0a2d70707e9e7832b2a8d41204af08d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
