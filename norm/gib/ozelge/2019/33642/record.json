@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135-62629",
+  "source_id": 33642,
+  "date": "2019-01-18",
+  "title": "2009.39.19.00.00 GTİP numaralı ürünün ithalatının ÖTV'ya tabi olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33642",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "41248fa8a10346591bd80cae53fc4796ac98902ace33195d12e79011dfe55464",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
