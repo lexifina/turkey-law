@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "68",
+  "decision_date": "2019-01-18",
+  "title": "MEC.KAR. ( Eğitim Hizmetleri ile ilgili Başkana protokol yetkisi ).doc",
+  "listed_as": "68 MEC.KAR. ( Eğitim Hizmetleri ile ilgili Başkana protokol yetkisi ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/68-meckar---egitim-hizmetleri-ile-ilgili-baskana-protokol-yetkisi--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-ocak-2019-meclis-kararlar",
+  "listing_sha256": "141e5bab201ec9dba18dc58c7b0a6c2c0f830e1cf4e595fe666569c0048ccfde",
+  "meeting_title": "18 OCAK 2019 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
