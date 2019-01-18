@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1148",
+  "date": "2019-01-18",
+  "title": "T. 18.01.2019 E. 2018/1012 K. 2019/11",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1148",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=2&yil=2019",
+  "listing_sha256": "2ac259b6772d5542bb6664713b7bc6f3623b99157aca825a95c2749e6e9c3224",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
