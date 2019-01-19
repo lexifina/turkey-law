@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-19",
+  "issue": "30660",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin Tebliğ (No: 2019/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190119-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190119.htm",
+  "index_sha256": "06755ee315509222a80c1e1b6119af2aba7246c2523bdc990fac735528cac8e3",
+  "index_header": "19 Ocak 2019 ... 30660 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190119.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
