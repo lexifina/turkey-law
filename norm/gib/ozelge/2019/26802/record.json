@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[313-2017-388]-28530",
+  "source_id": 26802,
+  "date": "2019-01-21",
+  "title": "İşletme aktifine kayıtlı nakliye araçlarının dorse saçlarının kırılma ve eğilme gibi nedenlerle tamirine ya da değiştirilmesine ilişkin harcamalar ile araç lastiklerine ait bedellerin doğrudan gider mi yazılacağı, yoksa amortisman yoluyla itfa edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26802",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "dc4c543c05bae0288a19c0ade062bff8fba7501ad865274649abc2fb5605eff8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
