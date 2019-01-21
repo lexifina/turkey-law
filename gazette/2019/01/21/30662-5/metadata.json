@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-21",
+  "issue": "30662",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Maltepe Üniversitesi Kanser ve Kök Hücre Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190121-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190121.htm",
+  "index_sha256": "2c427ec44a7baae176199b11e84574b6a6ad4e49dcdc98b5aa790952c2639e89",
+  "index_header": "21 Ocak 2019 ... 30662 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190121.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
