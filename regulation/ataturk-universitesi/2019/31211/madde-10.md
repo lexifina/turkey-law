@@ -1,0 +1,2 @@
+Merkez müdür yardımcıları
+MADDE 10 – (1) Merkez Müdürünün önerisi üzerine Rektör tarafından üç yıl süre ile görevlendirilir. Merkezde iki Müdür Yardımcısı bulunur. Bunlar Merkezin faaliyet alanları konusunda eğitim ve araştırma deneyimine sahip uzmanlardır. Merkez Müdürü görevi başında bulunmadığı zamanlarda, yerine vekâlet ederler. Merkez Müdür Yardımcıları, Merkez Müdürünün kendilerine vereceği görevleri yerine getirirler.
