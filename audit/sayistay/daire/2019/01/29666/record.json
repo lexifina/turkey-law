@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "326",
+  "decision_date": "2019-01-22",
+  "source_id": 29666,
+  "chamber": "7",
+  "ilam_number": "195",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29666/",
+  "source_sha256": "5c8ffe4b86aeec9d6819cc6b69dd4f95c327da80834a9492e8ce6e2ed343aa46",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
