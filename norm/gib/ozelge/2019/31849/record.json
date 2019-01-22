@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.19.02-105[Mük257-2014/VUK1-18701]-69332",
+  "source_id": 31849,
+  "date": "2019-01-22",
+  "title": "Kuyumculuk faaliyeti işi ile iştigal eden mükellefin ithalat-ihracat işlemlerinin form Ba-Bs ile bildirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/31849",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "91e4e3b51b510afb30fda1e108091c115c6464dc1e632bd8f5094b9d08b3c8d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
