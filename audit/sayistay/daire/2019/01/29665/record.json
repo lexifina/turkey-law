@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "326",
+  "decision_date": "2019-01-22",
+  "source_id": 29665,
+  "chamber": "7",
+  "ilam_number": "195",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29665/",
+  "source_sha256": "b37fbb61ea14c99afa4f82706827c4782fbacd37bbd8527bebc5a9eb3d4a5cb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
