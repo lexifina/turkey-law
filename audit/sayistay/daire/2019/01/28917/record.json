@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10741",
+  "decision_date": "2019-01-22",
+  "source_id": 28917,
+  "chamber": "1",
+  "ilam_number": "312",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28917/",
+  "source_sha256": "89d8269f0180ecb9ce5d1205e981777d42c868d1824fc8a44746a5b12c1223bc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
