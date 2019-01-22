@@ -1,0 +1,29 @@
+EMEKLİ OLAN PERSONELE SOSYAL DENGE ÖDENMESİ:
+
+Emekli olan personele ikramiye olarak sosyal denge tazminatı ödenmesi suretiyle kamu zararına neden olunması iddiası ile ilgili olarak yapılan incelemede;
+
+4688 sayılı Kamu Görevlileri Sendikası ve Toplu Sözleşme Kanunu’nun geçici 14’üncü maddesinde;
+
+15/3/2012 tarihinden önce 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi kapsamındaki idareler ile ilgili sendikalar arasında toplu iş sözleşmesi, toplu sözleşme, sosyal denge sözleşmesi ve benzeri adlar altında imzalanan sözleşmelerin uygulanmasına, söz konusu sözleşmelerde öngörülen sürelerin sonuna kadar devam edilebilir. Anılan sözleşmelerin uygulanmasına devam edildiği dönem için 32 nci madde hükümleri çerçevesinde ayrıca sözleşme yapılamaz. Söz konusu sözleşmeleri 31/12/2015 tarihinden önce sona eren veya mevcut sözleşmeleri bu maddenin yürürlüğe girdiği tarihten sonra karşılıklı olarak feshedilen kapsama dahil idareler, sözleşmelerinin sona eriş veya fesih tarihini izleyen bir ay içinde sözleşmelerin sona erdiği veya feshedildiği tarih ile bu Kanunda öngörülen toplu sözleşme dönemi sonuna kadarki dönemle sınırlı olmak üzere üçüncü fıkra hükümleri dikkate alınmaksızın 32 nci madde hükümleri çerçevesinde sözleşme yapabilir. Ancak 32 nci madde uyarınca toplu sözleşmede belirlenen tavan tutarın, unvanlar itibarıyla ilgili personele söz konusu sözleşmeler uyarınca yapılmakta olan ortalama aylık ödemenin altında kalması halinde; üçüncü fıkra hükümleri dikkate alınmaksızın 32 nci madde hükümleri esas alınarak 31/12/2015 tarihine kadar uygulanabilecek sözleşmelerde bu maddenin yürürlüğe girdiği tarihte uygulanan sözleşme uyarınca unvanlar itibarıyla ilgili personele ödenen ortalama aylık tutar tavan olarak esas alınabilir. Bu şekilde yapılacak ödemeler kazanılmış hak sayılmaz.”,
+
+2016-2017 yıllarını kapsayan Yerel Yönetim Hizmet Koluna İlişkin Toplu Sözleşme’nin “Sosyal Denge” başlıklı l’inci maddesinde;
+
+“Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine, 4688 sayılı Kanunun 32 nci maddesinde yer alan usul ve esaslar çerçevesinde ödenebilecek sosyal denge tazminatı aylık tavan tutarı en yüksek Devlet memuru aylığının (ek gösterge dahil) %100'üdür. Sosyal denge tazminatının verilmesi yönünde yapılabilecek sözleşmelerde, tavan tutarı aşmamak kaydıyla ödenebilecek tazminatın aylık tutarı, görev yapılan birim ve iş hacmi, görevin önem ve güçlüğü, görev yerinin özelliği, çalışma süresi, kadro veya görev unvanı ile derecesi gibi kriterlere göre farklı olarak belirlenebilir.”
+
+“Sosyal denge tazminatı süre uzatımı” başlıklı 7’nci maddesinde ise;
+
+“4688 sayılı Kanunun geçici 14 üncü maddesinde yer alan "31/12/2015" ibaresi "31/12/2017"şeklinde uygulanır.”
+
+hükümleri yer almaktadır.
+
+Yukarıda sayılan mevzuat hükümlerine göre; Belediye personeline ödenebilecek sosyal denge tutarları için yasal limitler konulmuş, fakat 31.12.2017 tarihine kadar yürürlükte olan toplu sözleşmeler için bu limitlerin uygulanması açısında istisna getirilmiştir. Bir başka ifadeyle, Kanunun yayımlandığı 15.03.2012 tarihinden önce imzalanmış sözleşmelerdeki sosyal denge ödeme tutarlarını geçmemek üzere bu sözleşmelerin süreleri uzatılabilecek ve bu durumda 2012 tarihli sözleşmedeki sosyal denge ödemeleri tavan tutar olarak esas alınacaktır.
+
+Ancak; 02.01.2012 tarihli sözleşmede yer almayan Emeklilik İkramiyesi adı altındaki sosyal denge tazminatı kaleminin, 02.06.2014 tarihli sözleşme ile getirilerek emekliliğe ayrılan personele ödenmesi suretiyle kamu zararına sebebiyet verilmiştir.
+
+Sorumlular savunmalarında, Belediye Başkanı’nın imzası ile uygulamaya konulan Sosyal Denge Sözleşmesi uyarınca yapılan ödemelerde harcama yetkilisi ve gerçekleştirme görevlisi sıfatıyla sorumluluğa itiraz etmişlerdir.
+
+4688 sayılı Kamu Görevlileri Sendikalan ve Toplu Sözleşme Kanunu’nun “Mahalli idarelerde sözleşme imzalanması” başlıklı 32/1 maddesinde; “27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi hükümleri çerçevesinde sosyal denge tazminatının ödenmesine belediyelerde belediye başkanının teklifi üzerine belediye meclisince, il özel idaresinde valinin teklifi üzerine il genel meclisince karar verilmesi halinde, sözleşme döneminde verilecek sosyal denge tazminatı tutarını belirlemek üzere ilgili mahalli idarede en çok üyeye sahip sendikanın genel başkanı veya sendika yönetim kurulu tarafından yetkilendirilecek bir temsilcisi ile belediyelerde belediye başkanı, il özel idaresinde vali arasında toplu sözleşme sürecinin tamamlanmasını izleyen üç ay içerisinde sözleşme yapılabilir. Bu sözleşme bu Kanunun uygulanması bakımından toplu sözleşme sayılmaz ve bu kapsamda Kamu Görevlileri Hakem Kuruluna başvurulamaz.” düzenlemesi yer almaktadır.
+
+Buna göre belediyelerde sosyal denge tazminatı ödenmesini öngören sözleşmeleri imzalamak münhasıran Belediye Başkanı’na verilmiş bir yetki ve görevdir. Dolayısıyla Belediye Başkanınca imzalanarak yürürlüğe giren sözleşme hükümlerine uygun olarak gerçekleştirme görevi ifa edildiği ve harcama yetkisi kullanıldığı anlaşıldığından, söz konusu kamu zararından Harcama Yetkilileri ve Gerçekleştirme Görevlilerinin sorumluluklarının bulunmadığına,
+
+Netice itibariyle de; 2012 yılında geçerli sosyal denge ödeme tutarından ibaret tavan limiti aşan “emeklilik ikramiyesi” adı altındaki sosyal denge tazminatı ödenmesi suretiyle sebep olunan toplam 39.152,58 TL kamu zararının,  münhasıran sözleşmeyi imzalayan Üst Yönetici ...’a 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine, anılan Kanun’un 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
