@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8393",
+  "decision_date": "2019-01-24",
+  "title": "Organize Toptan Doğal Gaz Satış Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel ve Komisyonlar ile Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2019-01-26",
+  "resmi_gazete_number": "30667",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3wBHd+Sl7hs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3wBHd+Sl7hs="
+  ],
+  "source_sha256": "846e7af9df04cbe787a927611e90b6dd3d5aeea8dcbf4e5bd1b9168aadc22aba",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2019-01-24",
+  "law_text_complete": false
+}
