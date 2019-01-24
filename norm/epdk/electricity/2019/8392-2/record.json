@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8392-2",
+  "decision_date": "2019-01-24",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2019 yılı piyasa işletim gelir tavanı",
+  "resmi_gazete_date": "2019-01-26",
+  "resmi_gazete_number": "30667",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UyusovH35Qc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UyusovH35Qc="
+  ],
+  "source_sha256": "b05d7d71ba96093e0b5e789e8886cbceefa4a3b89abfad406e0428b130856b3d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-01-24",
+  "law_text_complete": true
+}
