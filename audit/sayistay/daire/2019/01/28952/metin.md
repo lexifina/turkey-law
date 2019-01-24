@@ -1,0 +1,7 @@
+26.12.2016 tarihinde ihalesi yapılan Sarnıçtepe İnş. Ener.Tur. Teks. Blgs. Sist. Eğt. İns. Kyn. Taah. San. Tic. Ltd. Şti yüklenimindeki “Bakım, onarım ve destek hizmeti alımı işi”nde çalıştırılan personele mevzuata aykırı şekilde Belediye bütçesinden iş kıyafeti alınması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+....... Belediyesi Fen İşleri Müdürlüğü tarafından, 2017 yılı için ...... Belediyesi sınırları içerisindeki hizmetlere ilişkin ihale edilen 2016/589792 İKN’li BAKIM, ONARIM VE DESTEK HİZMET ALIMI İŞİ’ne ait Teknik Şartnamenin 5. Maddesinde “c) Çalışan personelin dış görünüşü ve kıyafeti” başlıklı bendindeki “Çalışacak olan personelin kıyafet ihtiyaçları diğer personele uygun olarak idaremiz tarafından karşılanacaktır.” hükmü bulunmaktadır. İhale sürecinde söz konusu işe teklifler verilirken, personelin kıyafet ihtiyaçlarının idarece karşılanacağı kabulüyle tekliflerin verildiği göz önüne alındığında, söz konusu kıyafetlerin idarece alınmış olmasında bir kamu zararı oluştuğu iddia olunamaz. Kaldı ki savunmalarda söz konusu kıyafetlerin toplandığı, daha sonra kadroya geçen taşeron işçilerin ihtiyacı doğrultusunda bu kıyafetlerin kullanıldığı da belirtilmiştir ki, bu yönüyle de kamu kaynağında bir eksiliş bulunmamaktadır.
+
+Bu itibarla, yukarıda açıklanan gerekçelerle konu hakkında ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
