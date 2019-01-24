@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8394",
+  "decision_date": "2019-01-24",
+  "title": "2019 yılında Organize Toptan Doğal Gaz Satış Piyasası’nda geçerli olacak birim ücretleri",
+  "resmi_gazete_date": "2019-01-26",
+  "resmi_gazete_number": "30667",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C291TlgMqJg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C291TlgMqJg="
+  ],
+  "source_sha256": "ee7f631fb90f6db50f4258a99d33640ed6dc90f42a457992a542916c1e882e14",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-01-24",
+  "law_text_complete": true
+}
