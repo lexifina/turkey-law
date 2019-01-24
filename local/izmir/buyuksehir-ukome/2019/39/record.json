@@ -1,0 +1,25 @@
+{
+  "number": "39",
+  "number_as_published": "39",
+  "year": 2019,
+  "title": "UKOME kararı 2019/39",
+  "decision_date": "2019-01-24",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=500&length=500&baslangicTarihi=01.01.2019&bitisTarihi=31.12.2019&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "144ae29a81b51268561dabe4f36cae50fdc0c6bc64b570f8b8d3392e75479e25",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council listing; complete decision text not transcribed",
+  "in_force": "2019-01-24",
+  "in_force_basis": "Decision date as printed in the official council listing: 24/01/2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 9192,
+  "file_name": "2019.39.pdf",
+  "district": null
+}
