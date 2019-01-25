@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31222",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2019 YILI ÖZEL EĞİTİME İHTİYAÇ DUYAN BİREYLERE VERİLECEK EĞİTİM DESTEĞİ TUTARLARINA İLİŞKİN TEBLİĞ",
+  "number": "31222",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/31222",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31222&MevzuatTertip=5",
+  "source_sha256": "4af0b4aeaff1d924a153e0b519b0667400549dade32d59e14511d3573c2e6a85",
+  "source_bytes": 11341,
+  "published": "2019-01-25",
+  "gazette": "30666",
+  "in_force": "2019-01-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.01.2019); own commencement article: \"Bu Tebliğ 1/1/2019 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 347,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
