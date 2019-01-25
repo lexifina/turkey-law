@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[KDV2/H/GEÇ20/2016/06]-35748",
+  "source_id": 30855,
+  "date": "2019-01-25",
+  "title": "Oyun Yazılım Hizmetlerinin KV ve KDV Karşısındaki Durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30855",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6104cb32f053924307048fbe8fb47c407211b63d20ab7443b86141b7e56eedb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
