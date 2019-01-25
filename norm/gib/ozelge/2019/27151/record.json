@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[327-2016/VUK1-15890]-81060",
+  "source_id": 27151,
+  "date": "2019-01-25",
+  "title": "Havalimanlarında kiralanan arazi üzerine kurulan ikmal ve depolama tesislerinin itfası, bu tesislerin sözleşme bitiminde bedelsiz olarak kiralayana devredilmesinde belge düzeni ve bedelsiz devrin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27151",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e4f683745688654a724e055621c02ec59e301fb9ef17470410bb7fe66189cfdc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
