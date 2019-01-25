@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-25",
+  "issue": "30666",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2019 Yılı Özel Eğitime İhtiyaç Duyan Bireylere Verilecek Eğitim Desteği Tutarlarına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190125-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190125.htm",
+  "index_sha256": "e643a37b130ecb02d4be9560b947b0ed6d0e95b074adf6a5cde8f629257cbc18",
+  "index_header": "25 Ocak 2019 ... 30666 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190125.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
