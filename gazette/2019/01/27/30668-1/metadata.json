@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-01-27",
+  "issue": "30668",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Düzce Üniversitesi Ortadoğu ve Afrika Çalışmaları Uygulama ve Araştırma Merkezi (ORAFMER) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190127.htm",
+  "index_sha256": "0a0589ce3f5f46c5dad92a371cbad72e69688df0b73e8f32528aeffc8a39e814",
+  "index_header": "27 Ocak 2019 ... 30668 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
