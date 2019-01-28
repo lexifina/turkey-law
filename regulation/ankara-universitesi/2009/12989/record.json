@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-04-11",
+      "11.04.2009",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-01-28",
+      "RG-28/1/2019-30669",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-28",
+      "RG-28/1/2019-30669",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-28",
+      "RG-28/1/2019-30669",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-01-28",
+      "28/1/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-28/1/2019-30669",
+  "first_law": null,
+  "gazette": "27197",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-01-28",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2009/12989",
+  "published": "2009-04-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=12989&MevzuatTertip=5",
+  "source_bytes": 26977,
+  "source_id": "8.5.12989",
+  "source_sha256": "dded8726e182d69e89af43168fa4aeb115ae89ae989a5b1392ffcd267bf758dc",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ LATİN AMERİKA ÇALIŞMALARI ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 785
+}
