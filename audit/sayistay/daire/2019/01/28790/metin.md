@@ -1,0 +1,5 @@
+Hakediş
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… AŞ’ye ihale edilen …-TL sözleşme bedelli İçmesuyu Dolum Tesisi Yapım İşinde ilave iş olarak yaptırılan isale hattına ait “YBF.01” poz no.lu “Makine ile Her Derinlik Her Genişlik ve Her Cins Zeminde Hendek veya Temel Kazısı Yapılması” iş kaleminin imalatının yeni birim fiyat analizinde kazının derinliği ve genişliğinin 1,5 m olacağı belirtildiği halde, yapılan incelemede; …’nin 600 m üstü ile …-asfalt yol arasında kalan (600 m+525 m) 1.125 m’lik bölümde yol koşulları nedeniyle kazının 1,5 m x 1,2 m boyutlarında yapıldığı ve bu suretle de toplam …-TL tutarında kamu zararına neden olunduğu görülmüşse de; bahse konu kamu zararı tutarı … tarihli ve … yevmiye no.lu muhasebe işlem fişiyle tahsil edildiğinden sorgu konusu husus hakkında ilişilecek husus kalmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
