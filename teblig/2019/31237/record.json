@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31237",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BAZI ÜRÜNLERİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "31237",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/31237",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31237&MevzuatTertip=5",
+  "source_sha256": "3e089b348f380bec8f6c4401769ecd7939237ab1fe5eb81f228b37869489b364",
+  "source_bytes": 29793,
+  "published": "2019-01-29",
+  "gazette": "30670",
+  "in_force": "2019-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 788,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31237-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
