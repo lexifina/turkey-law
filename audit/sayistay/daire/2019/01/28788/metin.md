@@ -1,0 +1,5 @@
+Hakediş
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+…AŞ’ye ihale edilen …-TL sözleşme bedelli …Yapım İşinde ilave iş olarak yaptırılan “YBF.09” poz no.lu “İdare Malı Dış Çapı 110 Mm, Pe100 Boruların Döşenmesi” imalatı ile “YBF.10” poz no.lu “Dış Çapı 125 Mm, Pe100 Boruların Döşenmesi” imalatı iş kalemlerinin yeni birim fiyat analizlerinde, boruların elektrofüzyon kaynağı ile eklenmesi işleminin 12 m’de bir yapılacağı (1 m boru için 0,083 adet) belirtildiği halde, fiilen kullanılan boru uzunluğunun 100 m olması dolayısıyla kaynağın 100 m’de bir (1 mt’de 0,01 adet) yapıldığı ve bu suretle de …-TL tutarında kamu zararına neden olunduğu anlaşılmışsa da; söz konusu kamu zararı tutarı …tarih ve … yevmiye no.lu muhasebe işlem fişiyle tahsil edildiğinden sorgu konusu husus hakkında ilişilecek husus kalmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
