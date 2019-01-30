@@ -1,0 +1,5 @@
+Personel hizmet alımı ihalesi kapsamında çalışan bazı personelin şartnamede aranan niteliği sağlamamasına rağmen bir üst kadro üzerinden yapılan hesaplamalar üzerinden yükleniciye hakediş ödemelerinde bulunulması;
+
+247 sayılı İlamın 44. maddesiyle verilen … TL’nin tazminine dair hükümde Kontrol ve Kabul Komisyonu Üyesi sıfatı ile iştiraki bulunan …’un itiraz başvurusu üzerine düzenlenen 43426 sayılı dosya, 30.01.2019 tarih ve 45557 tutanak sayılı Temyiz Kurulu İlamı ile; dilekçe ekinde gönderilen belgelerin incelenmesi sonucuna göre yeniden bir değerlendirme yapılmasını teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Harcama Yetkilisi sıfatıyla temyiz talep eden …’yi) ilgilendiren ve aynı mahiyette olan 43427 sayılı işbu dosyanın da sözü edilen (43426 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 30.01.2019 tarih ve 45558 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
