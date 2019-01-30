@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45565",
+  "decision_date": "2019-01-30",
+  "source_id": 18345,
+  "chamber": "2",
+  "file_number": "43434",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18345/",
+  "source_sha256": "4ed3b8330d16f0fc22cb83f008e0eddd1cbe09934a2aa50221123035c1da0b3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
