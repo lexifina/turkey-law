@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7162",
+  "year": 2019,
+  "title": "Gelir Vergisi Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-01-30",
+  "gazette_issue": "30671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-6.htm",
+  "source_sha256": "c8d4a333d17ab00a1bb2ade2faee12159c6c487291f8706a97b6ca00e9ff10df",
+  "text_sha256": "aa87a385271c8134a3c595d00495dec9063dd946821e79085d80195884dcf2dc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/01/30/30671-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
