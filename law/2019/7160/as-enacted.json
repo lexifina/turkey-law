@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7160",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti ile Sırbistan Cumhuriyeti Arasında Serbest Ticaret Anlaşması'na Ait Protokol I'in Yerini Alan 30 Ocak 2018 Tarihli \"Protokol I\", Anlaşmanın \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İş Birliği Yöntemlerine İlişkin Protokol II'sini Değiştiren 17 Ocak 2017 Tarihli ve 1/2017 Sayılı Ortak Komite Kararı ve Anlaşmaya Eklenen Hizmet Ticareti Hakkında 30 Ocak 2018 Tarihli \"Protokol III\"ün Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-01-30",
+  "gazette_issue": "30671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-5.htm",
+  "source_sha256": "39a6d7f1064a8affa12b28582855b7e03e8500ba2f27e3074f1ea43411d03321",
+  "text_sha256": "2d29f2926b20afccc0aba177c88d60dc6f1bbfa8a56423f2958378af30c5e351",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/01/30/30671-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
