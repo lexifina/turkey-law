@@ -1,0 +1,21 @@
+Temyiz aşamasında (asıl) sorumlu yanında fer’i müdahil (ahiz) olarak temyiz talebinde bulunan ilgili tarafından bu kez asıl sorumlu olmadan tek başına (duruşmalı) karar düzeltilmesi talebinde bulunulması;
+
+01.02.2017 tarih ve 42669 tutanak (26841 ilam) sayılı Temyiz Kurulu Kararı (2. maddesi) ile 49 sayılı (Asıl) İlamın 7. maddesinin (b) bendiyle kadrosu Genel Sekreterlikte bulunan fakat Üniversitenin Tıp/Diş Hekimliği Fakültesi ile Araştırma ve Uygulama Hastanesi’nde görevlendirilen akademik personel …’a hem 2010 yılına ilişkin Döner Sermaye Muhasebe Biriminden ek ödeme (döner sermaye katkı payı) verildiği, hem de 2011 yılında Strateji Geliştirme Daire Başkanlığından ek ödeme yapıldığı gerekçesiyle … TL’nin tazminine ilişkin verilen hükme karşı yapılan temyiz başvurusunun tasdikine oyçokluğu ile karar verilmiştir.
+
+Yukarıda adı geçen ahiz anılan Temyiz Kurulu Kararının verildiği duruşmaya (Asıl) İlamın sorumlusu … yanında fer’i müdahil (ahiz) sıfatıyla katılmış olup, bu defa (Asıl) İlamın sorumlusu tarafından karar düzeltilmesine ilişkin bir talep mevcut olmadığı halde fer’i müdahil, Temyiz Kurulu Kararının düzeltilmesi için dilekçe vermiştir.
+
+Temyiz Kurulu kararları hakkında, 6085 sayılı Sayıştay Kanununun 52 nci maddenin birinci fıkrasında yazılı ilgililer karar düzeltilmesi isteminde bulunabileceklerdir. 52 nci maddede sayılan ilgililer ise; sorumlular, sorumluların bağlı olduğu kamu idareleri, genel bütçe kapsamındaki kamu idareleri için Maliye Bakanlığı, ilgili muhasebe birimi ve Başsavcılıktır.
+
+Bu anlamda öncelikli olarak, karar düzeltilmesi talebinde bulunan dilekçe sahibi … 42669 tutanak (26841 ilam) sayılı Temyiz Kurulu Kararının 2. maddesine itiraz etmekte ise de, söz konusu tasdik kararı (Asıl) İlamda isimleri yazılı sorumlulara yöneltilmiş olup ilgilinin bu tasdik kararındaki durumu, tazmine konu ödemenin sadece ahizi olmaktan ibaret bulunmaktadır.
+
+Diğer taraftan, 52 nci maddeye bakıldığında, fer’i müdahilin Daire ilamlarını temyiz edebilecekler ile Temyiz Kurulu kararları için karar düzeltme talebinde bulunabilecekler arasında belirtilmediği de görülmektedir. Bu kavrama 17.12.2011 tarih ve 28145 sayılı Resmi Gazetede yayımlanan Sayıştay Genel Kurulu, Temyiz Kurulu Ve Daireler Kurulunun Çalışma Usul ve Esaslarının “Temyiz Kurulu toplantılarında bulunabilecek olanlar” başlıklı 27 nci maddesinin 3 üncü fıkrasında yer verilmiş olup fıkrada:
+
+“Ahizler duruşmaya fer’i müdahil olarak katılma isteklerini bir dilekçe ile Sayıştaya bildirirler. Ahizler, Temyiz Kurulunun bu başvuruyu kabul etmesi halinde duruşmaya katılarak açıklamalarını yaparlar.”
+
+Denilmiştir.
+
+Esasen fer’i müdahale olma durumu, 6100 sayılı Hukuk Muhakemeleri Kanununun 66 ncı maddesinde düzenlenmiş olup burada “üçüncü kişinin, davayı kazanmasında hukuki yararı bulunan taraf yanında ve ona yardımcı olmak amacıyla, tahkikat sona erinceye kadar, fer’i müdahil olarak davada yer alabileceği” belirtildiğinden ve 69 uncu maddenin 1 inci fıkrasına göre “müdahilin de yer aldığı asıl davada hükmün taraflar hakkında verileceği” sabit olduğundan; fer’i müdahilin davanın taraflarından biri olmadığı, davanın taraflarından birinin yanında davaya katıldığı temyiz yoluna başvurma hakkının da tarafa ait olduğu anlaşılmaktadır. HUMK’un 66 ncı maddesinde yer alan müdahilin katıldığı tarafla birlikte hareket edeceği düzenlemesi karşısında; fer’i müdahilin yanında katıldığı tarafın temyiz veya karar düzeltme talebinde bulunmaması halinde tek başına temyiz veya karar düzeltme talebine hakkı bulunmayacağı sonucu ortaya çıkmaktadır.
+
+Bu itibarla, söz konusu açıklamalar birlikte değerlendirilecek olursa; Sayıştay Dairelerince verilen kararlara karşı Temyiz Kurulu nezdinde temyize yetkili olanlar 6085 sayılı Kanunun 55 inci maddesinin (2) nolu fıkrasının atıfta bulunduğu 52 nci maddesinde belirtilen daire ve makamlar ile kendilerine tazmin hükmedilmiş olan memurlardan ibaret olup bunlar arasında tazmine esas olan parayı alanlar sayılmamış bulunduğundan ahiz (aynı zamanda fer’i müdahil) durumunda olan …’un tek başına düzenlemiş olduğu karar düzeltilmesi dilekçesi üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 30.01.2019 tarih ve 45574 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
