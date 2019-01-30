@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2017/501]-96708",
+  "source_id": 27111,
+  "date": "2019-01-30",
+  "title": "Sipariş verilen ancak teslim alınamayan mallara ilişkin verilen çeklerin, sipariş verilen tarafından 3. kişiye ciro edilmiş olması ve çek tutarının, bu kişiye ödenmesi halinde gider yazılıp yazılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27111",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "a9a58e7a6c67f7ff0924a3f859a993abb2e6f05bdd5e027d7c6d334918fa0a1b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
