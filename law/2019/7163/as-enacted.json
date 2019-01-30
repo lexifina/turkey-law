@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7163",
+  "year": 2019,
+  "title": "Sinema Filmlerinin Değerlendirilmesi ve Sınıflandırılması ile Desteklenmesi Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-01-30",
+  "gazette_issue": "30671",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-7.htm",
+  "source_sha256": "a4a827b25a5925f8602881a08ecb820902814b80190a4b7f4c4cc144706bf52d",
+  "text_sha256": "8795ce6d3d68c0c3c64c7a8f3524f04244e83a07feb530002ebfc30bc2f57262",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/01/30/30671-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/01/20190130-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
