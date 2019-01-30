@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31238",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KONKORDATO KOMİSERLİĞİ VE ALACAKLILAR KURULUNA DAİR YÖNETMELİK",
+  "number": "31238",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2019/31238",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31238&MevzuatTertip=5",
+  "source_sha256": "17e5d647a2e8563f66c8e536eec7f31d6b8bee61037781fca6bdf0b93d7e30cf",
+  "source_bytes": 50687,
+  "published": "2019-01-30",
+  "gazette": "30671",
+  "in_force": "2019-01-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.01.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2510,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
