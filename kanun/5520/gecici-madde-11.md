@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 11- (Ek:18/1/2019-7162/12 md.)
+(1) 2023 UEFA Şampiyonlar Ligi Finali müsabakasının Türkiye’de oynanmasına ilişkin olarak Türkiye’de elde ettikleri kazanç ve iratları dolayısıyla Avrupa Futbol Federasyonları Birliği (UEFA), katılımcı futbol kulüpleri ve organizasyonda görevli tüzel kişilerden işyeri, kanuni ve iş merkezi Türkiye’de bulunmayanlar gelir ve kurumlar vergisinden muaftır. Bu muafiyet, tevkif yoluyla alınan vergileri de kapsar.[71][72]

@@ -1,0 +1,4 @@
+Geçici Madde 40- (Ek:18/1/2019-7162/6 md.)
+2023 UEFA Şampiyonlar Ligi Finali müsabakasına ilişkin olmak üzere Avrupa Futbol Federasyonları Birliği (UEFA), katılımcı futbol kulüpleri ve organizasyonda görevli tüzel kişilerden iş yeri, kanuni ve iş merkezi Türkiye’de bulunmayanlara, bu müsabakalar dolayısıyla yapılacak mal teslimleri ve hizmet ifaları ile bunların bu müsabakalar dolayısıyla yapacakları mal teslimleri ve hizmet ifaları katma değer vergisinden müstesnadır.[129][130]
+Bu maddede düzenlenen istisnalar dolayısıyla yüklenilen vergiler, vergiye tabi işlemler üzerinden hesaplanan vergilerden indirilir. İndirim yoluyla telafi edilemeyen vergiler ise 32 nci madde hükümleri uyarınca istisna kapsamında işlem yapan mükellefin talebi üzerine nakden veya mahsuben iade edilir.
+Hazine ve Maliye Bakanlığı istisna ve iadenin uygulamasına ilişkin usul ve esasları belirlemeye yetkilidir.
