@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35565",
+  "decision_date": "2019-01-31",
+  "source_id": 28907,
+  "chamber": "2",
+  "ilam_number": "106",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28907/",
+  "source_sha256": "03b233b2a65237f3a5e39db332e4aa822e9d1274efcc5be49794535468b02c74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
