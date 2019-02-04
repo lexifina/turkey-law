@@ -1,0 +1,24 @@
+{
+  "number": "meeting-02-04",
+  "number_as_published": "meeting-02-04",
+  "year": 2019,
+  "title": "04 Şubat Meclis Kararları",
+  "decision_date": "2019-02-04",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2356/subat-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2357/04-subat-meclis-kararlari",
+  "source_sha256": "1b7f9f12fd09b4a68afa8b434a1d0c4d8a8c51a738217062c8fc263d728a7053",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Şubat Meclis Kararları (year 2019 from the official year list '2019 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Şubat Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2357/04-subat-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
