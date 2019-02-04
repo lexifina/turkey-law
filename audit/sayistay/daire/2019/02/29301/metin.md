@@ -1,0 +1,5 @@
+Kiracı Tarafından Ödenmesi Gereken Bedelin Belediye Bütçesinden Ödenmesi
+
+Denetçi tarafından düzenlenen sorguda, …. A.Ş. (….) tarafından işletilen gemilerde kullanılmak üzere, mezkur firma tarafından temin edilmesi gereken (Regülatör) Değişken Voltaj Düzenleyicilerinin …. Büyükşehir Belediyesi tarafından temin edilmesi sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+Gönderilen savunmalardan, Sahil Elektriği Değişken Voltaj Düzenleyicilerinin (Regülatör) alımı, gemilerin seferde bulunmadıkları zamanlarda iskelelere bağlı bulunduğu ve sahil elektrik beslemesini kullanması sırasında oluşan zarar ve arızaların engellenmesi ve daha sonra telafisi olmayacak mali kayıpların önüne geçmek amacıyla, ….Büyükşehir Belediyesi Meclisi'nin …. tarih ve … sayılı kararı ile onanan "…. Yolcu Ve Araç Taşımacılığı İşletmeciliği Devir Sözleşmesi"ne istinaden Belediye tarafından gerçekleştirilerek  yine mülkiyeti Belediyeye ait gemilere takıldığı anlaşıldığından ….. TL  için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
