@@ -1,0 +1,3 @@
+Başkan
+MADDE 7 – (1) Mütevelli Heyet üyeleri kendi aralarından en fazla dört yıllık süre için bir Başkan, iki başkan vekili seçer. Süreleri biten Başkan ve vekilleri yeniden seçilebilirler. Mütevelli Heyet Başkanı Üniversite başkanı sıfatıyla Üniversiteyi kamu, özel ve tüzel kişiler karşısında temsil eder, ita amirliğini deruhte eder, Mütevelli Heyetçe devredilen yetkileri kullanır.
+(2) Başkan, Üniversiteye ait veya Üniversitenin ortağı olduğu ticari kuruluşlarla, bu kuruluşların oluşturduğu veya hissedarı olduğu diğer işletmelerde Mütevelli Heyet adına Üniversiteyi temsil eder. Başkan, yokluğunda başkan vekillerinden birini yerine vekil olarak görevlendirir. Başkan, yetkilerini uygun gördüğü ölçü ve süreyle başkan vekillerine ve/veya Rektöre devredebilir.
