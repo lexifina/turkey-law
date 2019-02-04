@@ -1,0 +1,15 @@
+Belediye Bütçesinden Asansör Bakım Bedeli Ödenmesi
+
+Denetçi tarafından düzenlenen sorguda; …. ile belediye şirketi olan …. A.Ş.'ne kiralanmış olan ….İli, …. İlçesi, …. No: …. adresindeki, … .Merkezi'nin asansörlerinin bakım ve tamirat masraflarının Büyükşehir Belediyesi bütçesinden ödenmesi sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+634 sayılı Kat Mülkiyeti Kanunun'nun IV - Ortak yerler başlıklı 4’üncü maddesinde “Ortak yerlerin konusu sözleşme ile belirtilebilir. Aşağıda yazılı yerler ve şeyler bu Kanun gereğince her halde ortak yer sayılır.
+
+	a) Temeller ve ana duvarlar, taşıyıcı sistemi oluşturan kiriş, kolon ve perde duvarlar ile taşıyıcı sistemin parçası diğer elemanlar,bağımsız bölümleri ayıran ortak duvarlar, tavan ve tabanlar, avlular, genel giriş kapıları, antreler, merdivenler, asansörler, sahanlıklar, koridorlar ve buralardaki genel tuvalet ve lavabolar, kapıcı daire veya odaları, genel çamaşırlık ve çamaşır kurutma yerleri, genel kömürlük ve ortak garajlar, elektrik, su ve havagazı saatlerinin korunmasına mahsus olup bağımsız bölüm dışında bulunan yuvalar ve kapalı kısımlar, kalorifer daireleri, kuyu ve sarnıçlar, yapının genel su depoları, sığınaklar,” olarak belirlenmiştir.
+
+	294 sayılı Milli Emlak Genel Tebliği'nin İşletme, Bakım ve Onarım Giderleri başlıklı          3’üncü maddesinin,  3.3 Kamu Kurum ve Kuruluşları Tarafından Karşılanacak Giderleri gösterir  EK-5  cetvelinin 21. sırasında “Asansörün Kumanda Panosu, Makine Motor Grubu, Taşıma Sistemi, Kabin Tesisatı ile Kuyu İçi Tesisatı gibi ana parçaların değiştirilmesi” kullanım ömrü kısıtlanmadan bu çerçevede yapılacak giderlerin kamu kurum ve kuruluşlarınca karşılanacak giderler olarak belirtilmiştir.
+
+Gönderilen savunmalardan, ….İli, …. İlçesi, …. No:…. adresinde bulunan, tapunun ….ada, ….nolu parselinde kayıtlı taşınmaz üzerindeki ……Merkezinin mülkiyetinin %50’sinin ….Büyükşehir Belediyesi adına, %50’sinin ise … Genel Müdürlüğü'ne ait olduğu, … Büyükşehir Belediyesi ve … Müdürlüğü temsilcisinin katıldığı …Merkezinin yıllık genel kurul toplantısında alınan …. tarih ve … nolu karar çerçevesinde, bahse konu iş merkezinin asansörlerinin kumanda panoları, katlar arası çağrı tuşları, kabin içi çağrı tuşları ve ışıklandırılması ile birlikte elektrik ve elektronik tesisat donanımının komple değiştirilmesine yönelik olarak, … Müdürlüğünce firmalardan teklifler alındığı, uygun teklif veren firmaya gerekli tamir ve yenileme işleminin yaptırıldığı, …. tarih ve … sayılı Kontrollük Raporu ile gerekli kontrol ve denetim işlemleri yetkili mühendisler tarafından gerçekleştirildiği anlaşılmıştır.
+
+	Bu çerçevede, asansör kumanda panoları, katlar arası çağrı tuşları, kabin içi çağrı tuşları ve ışıklandırılması ile birlikte elektrik ve elektronik tesisat donanımının komple değiştirilmesi işlemine ait ….Büyükşehir Belediyesince iş merkezi yönetimine Belediye hissesine denk gelen ….. TL  ödemesi yapılmıştır.
+
+Bu itibarla, …. Büyükşehir Belediyesince mevzuatına uygun olarak yapılan ödeme tutarı …. TL için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
