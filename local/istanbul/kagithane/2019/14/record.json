@@ -1,0 +1,22 @@
+{
+  "number": "14",
+  "number_as_published": "14",
+  "year": 2019,
+  "title": "Belediye Encümeni boşalan üyel",
+  "decision_date": "2019-02-04",
+  "source": "https://www.kagithane.istanbul/kagithane_belediyesi/meclis/2019-Meclis-Kararlari/196/0/0",
+  "official_document": "https://www.kagithane.istanbul/images/pdf/meclis-karari/14.pdf",
+  "source_sha256": "f6c4069ee3611ec6cb3ee1e32c7e656b022de920de66bb9b3a42f41f1dad4a70",
+  "issuer": "Kağıthane Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Şubat 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "subject_note": "subject (KARAR ÖZET) as the official list prints it; the list shows only its first ~30 characters"
+}
