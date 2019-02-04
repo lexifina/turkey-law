@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-140[HARÇ-18-40]-23212",
+  "source_id": 36014,
+  "date": "2019-02-04",
+  "title": "Devralınan şirket adına olan özel okul işletme ruhsatlarının yenilenmesinde harç aranılıp aranılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36014",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "db7ed171bbf6fa6d147b3ce19b1edede246e0c3c5a7f00887515c07b05ee6b43",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
