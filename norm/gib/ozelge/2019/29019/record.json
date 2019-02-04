@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "43735382-130[KDV: 13-2]-3908",
+  "source_id": 29019,
+  "date": "2019-02-04",
+  "title": "Köy Tüzel Kişiliğince Yapılacak Taşınmaz Satışlarında KDV.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29019",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "126a57d43f78ca43f16c0d5fc81597438a3aee054e8d3a78c1e163e2e0a7f59c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
