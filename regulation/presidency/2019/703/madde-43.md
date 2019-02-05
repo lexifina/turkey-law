@@ -1,0 +1,2 @@
+Kesin teminat ve ek kesin teminatın iade edilmesi
+MADDE 43- (1) Kesin teminat ve varsa ek kesin teminat, yüklenicinin kanunlardan kaynaklanan sosyal güvenlik primi ve vergi borcu gibi herhangi bir borcunun olmadığının belgelenmesi şartıyla kesin kabulü müteakip serbest bırakılır. Teknik destek süresinin öngörülmesi halinde ise bu süre dolduktan sonra yüklenicinin sözleşmeden dolayı herhangi bir borcunun veya yükümlülüğünün kalmadığının tespit edilmesi kaydıyla iade edilir.

@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+İhaleye Hazırlık Süreci
+Yaklaşık maliyet
+MADDE 5- (1) Mal veya hizmet alımlarının ihalesi yapılmadan önce İdarece;
+a) Kamu kurum ve kuruluşları tarafından belirlenmiş fiyat ve ücretler,
+b) İdare veya kamu kurum ve kuruluşlarınca gerçekleştirilmiş aynı veya benzer işlere ait Yİ-ÜFE ile güncellenen fiyat ve ücretler,
+c) Alım konusu iş ile ilgili alanlarda faaliyet gösteren yerli ve yabancı gerçek veya tüzel kişilerden alınan fiyat ve ücretler,
+ç) Konusunda uzman kişi veya kuruluşlardan araştırılarak bulunacak fiyat ve ücretler,
+esas alınmak üzere piyasadan her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyetin tespitinde bu fıkradaki yöntemlerden biri, birkaçı veya tamamı herhangi bir öncelik sırası olmadan İdarece uygulanabilir. İdarece piyasa rayiçlerini yansıtmadığı düşünülen veya aşırı düşük olarak görülen fiyat ve ücretler değerlendirmeye alınmaz. Ancak piyasa rayiçlerini yansıtmayan veya aşırı düşük olarak değerlendirilen fiyatlara ilişkin ilgililerinden açıklama istenebilir. Yapılan açıklamalar uygun görülür ise bu fiyatlar da İdarenin takdirinde değerlendirmeye alınabilir. Yaklaşık maliyet gizlidir. İsteklilere veya alım süreci ile resmi ilişkisi olmayan diğer kişilere açıklanmaz. Yaklaşık maliyete ilişkin bilgiye, onay belgesi ve eki belgeler dışında hiçbir belgede yer verilmez. Tüm birimler tarafından bu gizliliği sağlamaya yönelik gerekli tedbirler alınır.
+(2) İhale konusu işin bir kısmına teklif verilmesinin mümkün olduğu hallerde, yaklaşık maliyet her bir kısım için ayrı ayrı olmak üzere işin tamamı dikkate alınarak hesaplanır.
+(3) İhale konusu işte kullanılacak malzeme, araç, teçhizat, makine ve ekipman gibi unsurların idare tarafından verilmesi durumunda; yaklaşık maliyet, bu unsurların bedeli hariç tutularak hesaplanır ve bu unsurların listesi yaklaşık maliyet hesap cetvelinin ekine konulur.
+(4) Yaklaşık maliyetin belirlenemediği veya yaklaşık maliyetin belirlenmesinde güçlükler yaşandığı durumlarda, gerekçeleri onay belgesinde belirtilmesi kaydıyla, planlanan bütçesiyle alıma çıkılabilir.
+(5) Yaklaşık maliyetin İdarece hesaplanması esastır. Ancak, işin özelliğinden dolayı, idarece hazırlanmasının mümkün olmaması sebebiyle teknik şartnamenin danışmanlık hizmeti alınarak hazırlatılması durumunda, yaklaşık maliyet de bu kapsamda danışmanlık hizmet sunucularına hesaplatılabilir. Bu durumda; teknik şartnamenin hazırlanması kapsamında yaklaşık maliyeti hesaplayan danışmanlık hizmeti sunucusu, o işin ihalesine katılamaz.

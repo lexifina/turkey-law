@@ -1,0 +1,3 @@
+İhale dokümanının verilmesi
+MADDE 11- (1) İhale dokümanı İdarede bedelsiz görülebilir. Ancak, ihaleye katılmak isteyen isteklilerin bu dokümanı satın almaları zorunludur. Doküman bedeli, basım maliyetini aşmayacak ve rekabeti engellemeyecek şekilde İdarece tespit edilir.
+(2) İhale dokümanının İdare tarafından EKAP’a yüklenmesinin tercih edildiği hallerde, ihale dokümanı EKAP üzerinden görülebilir ve e-imza kullanılarak bedelsiz olarak EKAP üzerinden indirilebilir. Bu fıkra kapsamında yapılacak iş ve işlemlere ilişkin hususlarda 25/2/2011 tarihli ve 27857 sayılı Resmi Gazetede yayımlanan Elektronik İhale Uygulama Yönetmeliği ve ilgili mevzuat hükümleri uygulanır.

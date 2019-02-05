@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-703",
+  "number": "703",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "CUMHURBAŞKANLIĞI İLETİŞİM BAŞKANLIĞI TARAFINDAN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (Y) BENDİ KAPSAMINDA YAPILACAK İHALELERE İLİŞKİN USUL VE ESASLAR",
+  "published": "2019-02-05",
+  "enacted": "2019-02-04",
+  "gazette_number": "30677",
+  "in_force": "2019-02-05",
+  "in_force_basis": "Official commencement clause: \"bu Usul ve Esaslar, yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2019-02-05, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=703&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "eed2a960057942694fc36047229c23e0c135d3bb979ab0c71af3247fedff6bfb",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
