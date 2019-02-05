@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "151",
+  "decision_date": "2019-02-05",
+  "source_id": 28742,
+  "chamber": "8",
+  "ilam_number": "562",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28742/",
+  "source_sha256": "d065b0fcdef5a1452f8eaaeb7e7515d3035348634c4578db51016460651735ca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
