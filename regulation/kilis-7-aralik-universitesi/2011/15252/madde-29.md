@@ -1,0 +1,2 @@
+Danışmanlık
+MADDE 29 – (1) Öğrencilere, kayıtlı olduğu bölümün başkanı tarafından ders yılı başlamadan önce, öğretim elemanları arasından danışman görevlendirilir. Danışman; öğrencilerin her yarıyılda alacakları derslerin belirlenmesinde, ders değişikliklerinde, kayıtların yapılmasında, eğitim-öğretim sırasında karşılaşacakları sorunların çözümünde yardımcı olur. Danışmanların görevlerine ilişkin ilkeler Senato tarafından belirlenir.

@@ -1,0 +1,4 @@
+Notlarda maddi hata
+MADDE 32 – (1) Sınav sonuçlarına maddi hata dışında itiraz edilemez. Maddi hataya ilişkin itirazlar en geç yedi gün içerisinde sonuçlandırılır ve ilgililere bildirilir. Notlarda maddi hata olması durumunda;
+a) Öğrenciler maddi hata konusunda; ara sınavı, yarıyıl sonu ve bütünleme sınavı sonuçlarının ilanından itibaren en geç yedi gün içinde ilgili dekanlığa/müdürlüğe yazılı olarak başvurabilir. Yönetim kurulunca yapılan inceleme sonunda maddi hata tespit edilirse, bu hata ilgili öğretim elemanının da görüşü alınarak düzeltilir.
+b) Öğretim elemanları, not değerlendirme ve girişi esnasında yapmış oldukları hatalara ilişkin düzeltme taleplerini, notların ilanından itibaren en geç yedi gün içerisinde bölüm başkanlığı aracılığı ile ilgili dekanlığa/müdürlüğe bildirir. Öğrenci İşleri Daire Başkanlığı ilgili dekanlık/müdürlük oluruyla gerekli düzeltmeyi yapar.

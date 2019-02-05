@@ -1,0 +1,2 @@
+Dikey geçişler
+MADDE 6 – (1) Meslek yüksekokulu mezunlarının lisans programına kabulleri; 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik ile 16/11/1983 tarihli ve 18223 sayılı Resmî Gazete’de yayımlanan Öğretmen Yetiştiren Yüksekokul Mezunlarının Lisans Öğrenimi Yapmaları Hakkında Yönetmelik hükümlerine göre yapılır.

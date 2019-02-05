@@ -1,0 +1,2 @@
+İlişik kesme
+MADDE 24 – (1) İlişik kesme işlemi; Üniversiteden kendi isteği ile kayıt sildiren, çıkarılan veya mezun olanların, diplomalarını veya dosyalarındaki kendilerine ait belgeleri alabilmeleri için, ilgili dekanlık/müdürlük ile Sağlık, Kültür ve Spor Daire Başkanlığı, Kütüphane ve Dokümantasyon Daire Başkanlığı ve Öğrenci İşleri Daire Başkanlığından borcu veya zimmetinde herhangi bir devlet malı bulunmadığına ilişkin belge getirmeleri gerekir.

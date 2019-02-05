@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Eğitim-Öğretime İlişkin Esaslar
+Öğretim düzeyleri ve öğretim süresi
+MADDE 10 – (1) Üniversitede ön lisans, lisans ve lisansüstü düzeylerde öğretim yapılır.
+a) Üniversiteye bağlı fakülte ve yüksekokullarda eğitim-öğretim süresi en az dört yıldır. Eğitimlerini başarı ile tamamlayan öğrencilere lisans diploması verilir.
+b) Meslek yüksekokullarında eğitim-öğretim süresi iki yıldır. Eğitimlerini başarı ile tamamlayan öğrencilere meslek yüksekokulu diploması verilir.
+c) Lisans programlarına kayıtlı öğrencilerden, en az iki yıllık eğitimlerini başarı ile tamamlayan ve lisans programlarına devam etmeyecek öğrencilere istekleri halinde önlisans diploması verilerek lisans programlarındaki kayıtları silinir.
+(2) Bir eğitim-öğretim yılı, güz ve bahar yarıyılı olmak üzere iki yarıyıldan oluşur. Yükseköğretim Kurulunun belirlediği ilkelere uygun olarak üçüncü yarıyıl uygulamasına da geçilebilir. Buna ilişkin usul ve esaslar ile yarıyıl süreleri Senato tarafından belirlenir.
+(3) (Değişik:RG-19/4/2015-29331) Öğrenciler, bir yıl süreli yabancı dil hazırlık sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan ön lisans programlarını azami dört yıl, öğrenim süresi dört yıl olan lisans programlarını azami yedi yıl, öğrenim süresi beş yıl olan lisans programlarını azami sekiz yıl, öğrenim süresi altı yıl olan lisans programlarını azami dokuz yıl içinde tamamlamak zorundadırlar. Bu süreler içinde mezun olamayan öğrencilere 2547 sayılı Kanunun 44 üncü maddesine göre işlem yapılır.
+(4) (Değişik:RG-19/4/2015-29331) Diploma programlarının hazırlık sınıfı öğretimi hariç olmak üzere, iki yıllık ön lisans ve dört, beş ve altı yıllık lisans programlarından (açıköğretim programları hariç) bu süreler sonunda mezun olamayan öğrencilerden, ilgili dönem için öngörülen katkı payı ya da öğrenim ücretleri 2547 sayılı Kanunun 46 ncı maddesine göre alınır.
+(5) (Ek:RG-19/4/2015-29331) Hazırlık sınıfı öğretimi; 4/12/2008 tarihli ve 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre belirlenir.
