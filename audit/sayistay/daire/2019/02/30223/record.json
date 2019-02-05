@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "152",
+  "decision_date": "2019-02-05",
+  "source_id": 30223,
+  "chamber": "8",
+  "ilam_number": "98",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30223/",
+  "source_sha256": "756e955dd0b5f788ea80b29106b7d47e15313e9f3330bb2fa1daa93146d19e9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
