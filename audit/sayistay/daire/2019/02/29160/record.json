@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "361",
+  "decision_date": "2019-02-05",
+  "source_id": 29160,
+  "chamber": "5",
+  "ilam_number": "138",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29160/",
+  "source_sha256": "b3a90a3fc54948cd49373a2aefb7957c2c48732f3d18b4096eb83e9960b6193e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
