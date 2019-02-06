@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-130[2016-701-138]-14960",
+  "source_id": 30854,
+  "date": "2019-02-06",
+  "title": "Tam Yağlı Soya (Fullfat) Teslimleri Dolayısıyla KDV İadesi Alınıp Alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30854",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "926e4884eef8518155180284caa9289759e2c1a63269e5f06d5e75043873f7e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
