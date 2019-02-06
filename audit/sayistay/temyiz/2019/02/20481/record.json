@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45582",
+  "decision_date": "2019-02-06",
+  "source_id": 20481,
+  "chamber": "4",
+  "file_number": "44510",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2009",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20481/",
+  "source_sha256": "9e8969d0d674b166eb334472fef523d2db60e07c76b58c28aad1951e2503083f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
