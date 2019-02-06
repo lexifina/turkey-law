@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "51421814-130[1-2017/8]-10389",
+  "source_id": 29015,
+  "date": "2019-02-06",
+  "title": "Ambalaj atıklarının toplanmasında KDV uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29015",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8237f9c48350e3c89d5b9b91e602bad9a323db32328a0b3f4ccc107d915a02d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
