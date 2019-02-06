@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-135[2017/208]-14148",
+  "source_id": 31973,
+  "date": "2019-02-06",
+  "title": "Binek Otomobil alımında ÖTV-KDV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/31973",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5e49b7e0f2f8b5919f553bf9b2216d50c8bd3928f80a330598383beacf1197fb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
