@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "363",
+  "decision_date": "2019-02-07",
+  "source_id": 29808,
+  "chamber": "5",
+  "ilam_number": "183",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29808/",
+  "source_sha256": "bfdcb6304a84e6a4fd42ba1f234e34097a4344208e82820a46b53fc84a271b1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
