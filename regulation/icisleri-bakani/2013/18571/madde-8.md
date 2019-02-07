@@ -1,0 +1,4 @@
+Giriş sınavı komisyonu
+MADDE 8 – (1) Giriş Sınavı Komisyonu; Genel Müdür tarafından belirlenen en az daire başkanı düzeyindeki yöneticiler ile üniversite öğretim üyeleri olmak üzere başkan dâhil en az beş asil ve üç yedek üyeden oluşur. Kurum dışından sınav komisyonuna görevlendirilen asil üye sayısı ikiyi geçemez. (Değişik ibare:RG-7/2/2019-30679) Personel Dairesi Başkanı komisyonun doğal üyesidir. Asil üyelerin herhangi bir nedenle komisyona katılamamaları halinde yedek üyeler tespit sırasına göre komisyona katılırlar.
+(2) Bölümler itibariyle ayrı ayrı kontenjan belirlenmesi halinde her bir bölüm için ayrı komisyon oluşturulabilir.
+(3) Komisyon başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının veya evlatlıklarının katıldığı sınavlarda görev alamazlar.
