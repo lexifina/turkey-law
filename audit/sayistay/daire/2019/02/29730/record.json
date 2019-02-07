@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "363",
+  "decision_date": "2019-02-07",
+  "source_id": 29730,
+  "chamber": "5",
+  "ilam_number": "183",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29730/",
+  "source_sha256": "8692038f8a596fbdd9138d0e2b8e2ed72d9d6cee628a6b8c84f46056f271230e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
