@@ -1,0 +1,13 @@
+Belediyenin ortaklığın satış suretiyle giderilmesi ihalesine katılması sonucunda almış olduğu taşınmaza ait ihale damga vergisini ödemesi:
+
+Belediyenin ortaklığın satış suretiyle giderilmesi ihalesine katılması sonucunda almış olduğu taşınmaza ait ihale damga vergisini ödemesi suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+…  Sulh Mahkemesi satış memurluğu tarafından düzenlenen açık artırma sonucu, … no.lu satış ile …. Mahallesi 8282 Ada 6 parsel sayılı … hissesi Belediyeye ait olan, tamamı 337 m² yüzölçümlü taşınmazın şahıslara ait hissesinin satın alındığı ve alım bedeli üzerinden …. TL tutarında damga vergisi ödendiği görülmüştür.
+
+488 sayılı Damga Vergisi Kanunu’nun 3’üncü maddesinde damga vergisinin mükellefinin kâğıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemlere ait kâğıtların damga vergisini kişilerin ödeyeceği, 8’inci maddesinde bu Kanunda yazılı resmi daireden maksadın, genel ve özel bütçeli daire ve idarelerle, il özel idareleri, belediyeler ve köyler olduğu, yine aynı Kanun’a ekli (I) sayılı tablonun II. Kararlar ve mazbatalar kısmının ikinci fıkrasında ihale kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararlarından binde 5,69 oranında damga vergisi alınması gerektiği belirtilmiştir.
+
+488 sayılı Kanun gereği belediye mükellef olmadığından belediye payına isabet eden tutardan damga vergisinin alınmaması gerekmekle birlikte; …Sulh Mahkemesi satış memurluğunun 22.02.2017 tarihli talep yazıları üzerine söz konusu damga vergisinin zorunlu olarak ödendiği, Belediyece yatırılan … TL. 'nin iadesi için gerekli işlemlerin yapılmasına başlandığı ve 06.08.2018 tarih ve … sayılı yazı ile  …Sulh Hukuk Mahkemesi Satış Memurluğundan tutarın talep edildiği, konuya ilişkin olarak ilgili Satış Memurluğunun ise yatırılan … TL.'nin Belediyeye iadesini …. Vergi Dairesinden talep etmiş olduğu anlaşılmıştır.
+
+Bu itibarla, söz konusu kamu zararının tahsilatı için her türlü idari işlemin başlatıldığı ve  …Sulh Hukuk Mahkemesi Satış Memurluğu tarafından da … TL.'nin Belediyeye iadesi için … Vergi Dairesine yazı yazıldığı anlaşıldığından, konu hakkında  ilişilecek husus bulunmadığına, (Üye …’in “söz konusu kamu zararının tahsilatına ilişkin işlemler başlatılmış olsa da henüz tahsilat bildirilmediğinden, söz konusu kamu zararının sorumlulardan tazminine karar verilmesi gerekir” şeklindeki ayrışık görüşlerine karşı)
+
+6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla,
