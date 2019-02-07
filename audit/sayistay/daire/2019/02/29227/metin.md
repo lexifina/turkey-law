@@ -1,0 +1,23 @@
+KONTROLLÜK DANIŞMANLIĞI HİZMET ALIMI
+
+“… Belediyesi Hizmet Binası Meydan Altı Otopark, Meydan ve Çevrenin Düzenlenmesi Yapım İşi’nde İnşaat (statik, mimari) Projelerinin Uygulama Kontrollüğü Ve Denetimi Konusunda Danışmanlık Hizmeti Alımı İşi”nin Devlet memurları eliyle yürütülmesi gereken işlerden biri olması nedeniyle, bu iş için ödeme yapılması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+İdare ile … Mühendislik ve Planlama A.Ş. arasında, birim fiyat teklif alma usulüyle …2017 tarihinde … TL sözleşme bedeliyle 4734 sayılı Kamu İhale Kanunu’nun 22/d maddesine göre doğrudan temin usulü ile gerçekleştirilen “… Belediyesi Hizmet Binası Meydan Altı Otopark, Meydan ve Çevrenin Düzenlenmesi Yapım İşi’nde İnşaat (statik, mimari) Projelerinin Uygulama Kontrollüğü Ve Denetimi Konusunda Danışmanlık Hizmeti Alımı İşi”nin ihale edilmesi suretiyle; İdarenin, genel idare esaslarına göre yürütmekle yükümlü oldukları kamu hizmetlerinin gerektirdiği asli ve sürekli görevleri, memurlar veya diğer kamu görevlileri eliyle yürütmesi yerine danışmanlık hizmeti alımı şekliyle yerine getirildiği iddia olunmuşsa da;
+
+4734 sayılı Kamu İhale Kanununun 4’üncü maddesinde; “Danışman: Danışmanlık yapan, bilgi ve deneyimini idarenin yararı için kullanan, danışmanlığını yaptığı işin yüklenicileri ile hiçbir organik bağ içinde bulunmayan, idareden danışmanlık hizmeti karşılığı dışında hiçbir kazanç sağlamayan ve danışmanlık hizmetlerini veren hizmet sunucularını,
+
+Hizmet: Bakım ve onarım, taşıma, haberleşme, sigorta, araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, tanıtım, basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme, koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve benzeri diğer hizmetleri,” olarak tanımlanmıştır.
+
+Aynı Kanunun “Danışmanlık hizmetleri” başlıklı 48’inci maddesinde;
+
+“Mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, her ölçekte imar planı, imar uygulama, ÇED raporu hazırlanması, plan, yazılım geliştirme, tasarım, teknik şartname hazırlanması, denetim ve kontrolörlük gibi teknik, mali, hukuki veya benzeri alanlardaki hizmetler, danışmanlık hizmet sunucularından alınır” hükümlerine yer verilmiştir.
+
+Danışmanlık Hizmet Alım İhaleleri Uygulama Yönetmeliğinin “Danışmanlık hizmetlerinin kapsamı” başlıklı 6’ncı maddesinde de kanunla paralel bir şekilde; mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, her ölçekte imar planı, imar uygulama, ÇED raporu hazırlanması, plan, yazılım geliştirme, tasarım, teknik şartname hazırlanması, denetim ve kontrolörlük gibi teknik, mali, hukuki veya benzeri alanlardaki hizmetlerin, danışmanlık hizmet sunucularından alınacağı belirtilmiştir.
+
+Yapılan incelemede, yapı denetim görevlilerinin makam onayı ile görevlendirildiği ve yer tesliminden itibaren denetim görevlilerinin işin başında bulunarak görevlerini (malzeme onayları, kalıp demir teslim tutanakları, şantiye defteri, beton numune alımı ve takipleri hakediş düzenlenmesi vb) yerine getirdikleri, dolayısı ile danışmanlık hizmet sunucusu … Mühendislik ve Planlama A.Ş firması elemanlarına, yapı denetim görevlilerinin yerine geçirilerek bir iş ve işlem yaptırılmadığı anlaşılmıştır.
+
+04.01.2002 tarih ve 4734 sayılı Kamu İhale Kanunu kapsamındaki idarelerin uyacağı Danışmanlık Hizmet Alımı İhaleleri Uygulama Yönetmeliği 6’ncı Maddesi (g) bendine göre de yapım işi kontrollüğü ve yapı denetimi kapsamında danışmanlık hizmeti alınabileceğinden söz konusu İnşaat (statik, mimari) Projelerinin Uygulama Kontrollüğü Ve Denetimi Konusunda ki Danışmanlık Hizmeti alımının mevzuata aykırı olmadığı değerlendirilmiştir.
+
+Sonuç olarak; 2016 yılı fiyatları ile sözleşme bedeli … TL bedelle sözleşmesi yapılan toplam inşaat alanı 102.000 M2 olan …. Belediyesi Hizmet Binası Meydan Altı Otopark,Meydan Ve Çevrenin Düzenlenmesi Yapım İşinde kontrollük hizmetlerinin idare personeli ile yapıldığı, tamamlayıcı mahiyette idare tarafından yapılmakta olan işlerin kontrollüğü hizmetlerinin, danışman firma tarafından verilecek hizmet yardımıyla daha başarılı ve daha sistematik hale getirilmesi için danışmalık hizmetinin Danışmanlık Hizmet Atımları İhaleleri Uygulama Yönetmeliği 6. Maddesi (g) maddesine uygun olarak alındığı görüldüğünden konu hakkında ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
