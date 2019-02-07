@@ -1,0 +1,12 @@
+Sınavın değerlendirilmesi
+MADDE 13 – (1) Sınavın yazılı yapılması hâlinde, Sınav Komisyonu, sınav kâğıtlarını değerlendirmek üzere üye tam sayısı ile toplanır. Cevap kâğıtlarının bulunduğu kapalı zarf açılır ve cevap kâğıtları numaralandırılır. Cevap kâğıtlarının değerlendirme notu, kâğıtların numaralarının yer aldığı cetvele her üye tarafından ayrı ayrı yazılarak sınav kâğıdı ile birlikte Sınav Komisyonu başkanına teslim edilir. Yazılı sınav puanlarının aritmetik ortalaması alınarak yazılı sınav başarı notu belirlenir. Başarı sıralamasına göre hazırlanan liste, sınav değerlendirmesinin neticelendiği günü takip eden beş gün içinde Genel Müdürlüğünün internet sayfasında yayınlanmak suretiyle duyurulur. Yazılı sınavın değerlendirmesi yüz tam puan üzerinden yapılır. Yazılı sınavda başarılı sayılabilmek için en az yetmiş puan almak gerekir. Sadece yazılı sınav sonucuna göre atama yapılması halinde, bu sınavda en yüksek puan alandan başlamak üzere duyurulan azami boş kadro sayısı kadar atama yapılır. Sınav notlarının aritmetik ortalamasının eşitliği durumunda KPSS P3 puanı yüksek olan aday sıralamada üstte yer alır.
+(2) Sınavın yazılı ve sözlü yapılması halinde, yazılı sınavda başarılı olanların tamamı sözlü sınava alınırlar. Sözlü sınavdan başarılı sayılabilmek için en az yetmiş puan almak şarttır. Yazılı ve sözlü sınav notları ortalaması alınarak başarı notu bulunur. Başarı sıralaması, en yüksek not alandan başlamak üzere belirlenir.
+(3) Sınavın sadece sözlü yapılması halinde, başarı sıralaması, sözlü sınavda en yüksek not alan adaydan başlanarak belirlenir. Sınav notlarının aritmetik ortalamasının eşitliği durumunda KPSS P3 puanı yüksek olan aday sıralamada üstte yer alır.
+(4) Sözlü sınavda adaylar;
+a) 10 uncu maddede yer alan sınav konularına ilişkin bilgi düzeyi,
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+d) Genel yetenek ve genel kültürü,
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+yönlerinden ayrı ayrı puan verilmek suretiyle değerlendirilirler. Adaylar, Sınav Komisyonu tarafından (a) bendi için elli puan, diğer bentlerde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar ayrı ayrı tutanağa geçirilir. Sözlü sınavda başarılı sayılmak için, Sınav Komisyonu ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır.

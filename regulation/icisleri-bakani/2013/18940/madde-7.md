@@ -1,0 +1,2 @@
+Giriş sınavının duyurulması
+MADDE 7 – (1) Giriş sınavının şekli, katılma şartları, sınav konuları, ilk ve son başvuru tarihi, istenecek belgeler, başvuru evrakının temin edileceği yerler, başvuru yeri, sınavın yeri ve zamanı, KPSSP3 asgari puan, atama yapılması planlanan kadro sayısı, kadronun sınıfı ve derecesi ile gerekli görülen diğer hususlar sınav tarihinden en az bir ay önce, Resmî Gazete’de, yurt düzeyinde günlük olarak yayımlanan tirajı yüksek ilk beş gazetenin en az birinde ve Genel Müdürlüğün internet sitesinde ilan edilmek suretiyle duyurulur.

@@ -1,0 +1,4 @@
+Başvuruların değerlendirilmesi
+MADDE 9 – (1) Yapılan başvurular, (Değişik ibare:RG-7/2/2019-30679) Personel Dairesi Başkanlığınca incelenerek, giriş sınavı koşullarını taşıyan adaylarla ilgili olarak, ilanda belirtilen son başvuru günü mesai bitiminde, toplam başvuru sayısını ve son aday numarasını da belirleyen bir tutanak düzenlenir.
+(2) Aranılan şartları taşıyan adaylar, ilanda belirtilen KPSSP3 puan türünden en yüksek puanı alan adaydan başlamak ve atama yapılacak kadro sayısının beş katını geçmemek üzere bir sıralamaya tabi tutulur. KPSSP3 puan türü itibariyle en son adayın aldığı puanla aynı puana sahip adaylar da giriş sınavına çağrılır. Sıralamaya giren adayların isimleri ile söz konusu adayların nerede sınava gireceklerine ilişkin listeler, yazılı sınav tarihinden en az 10 gün önce Genel Müdürlük internet sitesinde duyurulur
+(3) Sınavlar Genel Müdürlükçe belirlenecek yerlerde yapılır.
