@@ -1,0 +1,2 @@
+Yurt dışında eğitim
+MADDE 32 – (1) Uzmanlar ve uzman yardımcıları, ihtiyaç duyulan konularda eğitim, staj, araştırma yapmak, mesleki bilgi ve deneyimini arttırmak amacıyla 657 sayılı Kanunun ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde yurt dışına gönderilebilir.

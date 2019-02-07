@@ -1,0 +1,3 @@
+Komisyonun görevleri
+MADDE 9 – (1) Komisyon; yazılı sınavın yapılması veya yaptırılması, yazılı sınav sorularının hazırlanması veya hazırlatılması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevli ve yetkilidir.
+(2) Komisyon üye tam sayısı ile toplanır ve oy çokluğuyla karar alır. Oyların eşitliği halinde Komisyon Başkanının bulunduğu taraf çoğunluk kabul edilir. Oylama sırasında çekimser oy kullanılamaz. Alınan kararlar kesindir. Karara katılmayanlar karşı oylarını gerekçeleriyle birlikte belirtmek zorundadır.
