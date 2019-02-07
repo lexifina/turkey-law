@@ -1,0 +1,22 @@
+{
+  "number": "15",
+  "number_as_published": "2019/15",
+  "year": 2019,
+  "title": "Plan ve Proje Müdürlüğü ile İmar ve Şehircilik Müdürlüğü 2019 yılı tarife tekliflerine not ilavesi",
+  "decision_date": "2019-02-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-subat-ayi-meclis-kararlari/1573",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-15/1577",
+  "source_sha256": "89db6ea540a3c1abd832b3c6357b50d4604de0717e1ff1f7021f89f8a9981dd7",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-02-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.02.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "496d70881ebb80e611af2a226a439444cd3fedcf5c998093dd22b1b276761ce4"
+}
