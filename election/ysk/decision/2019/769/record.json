@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/769",
+  "list_number": "769",
+  "decision_date": "2019-02-07",
+  "title": "31 Mart 2019 tarihinde yapılacak olan Mahalli İdareler Genel Seçimlerinde, Büyükşehir olan ve olmayan şehirler ile ilçelerde seçime katılmayan siyasi partilerin, ilçe seçim kurulundaki ve sandık kurullarındaki üyelerinin görevlerinin sona erip ermeyeceğine ilişkin Yüksek Seçim Kurulunun 2019/769 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78007/2019-769.pdf",
+  "source_sha256": "7a5f0942cbb74cdc1c20dd10beb9dbd7e87a75984215327318bf0526f5ccf899",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-07",
+  "law_text_complete": false
+}
