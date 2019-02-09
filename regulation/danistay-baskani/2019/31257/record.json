@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.31257",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DANIŞTAY PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "31257",
+  "issuer": "Danıştay Başkanı",
+  "issuer_slug": "danistay-baskani",
+  "path": "regulation/danistay-baskani/2019/31257",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31257&MevzuatTertip=5",
+  "source_sha256": "5f7c60c1013719ce22cede98a400e1d94375ab6e930acbf78aecb6bc0f705e6f",
+  "source_bytes": 56393,
+  "published": "2019-02-09",
+  "gazette": "30681",
+  "in_force": "2019-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2860,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2019/02/20190209-14-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
