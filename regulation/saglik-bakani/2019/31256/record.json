@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31256",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL BESLENME KONSEYİ YÖNETMELİĞİ",
+  "number": "31256",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2019/31256",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31256&MevzuatTertip=5",
+  "source_sha256": "e1de27b7d44d691fff9b7f1511d00263e3e2b1371aaa6c9c4cd87afd6f1e0278",
+  "source_bytes": 28675,
+  "published": "2019-02-09",
+  "gazette": "30681",
+  "in_force": "2019-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1294,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
