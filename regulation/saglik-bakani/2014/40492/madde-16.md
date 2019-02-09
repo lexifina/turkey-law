@@ -1,0 +1,9 @@
+Sınav kurulları ve görevleri
+MADDE 16 – (Başlığı ile Birlikte Değişik:RG-31/3/2017-30024)
+(1) Görevde yükselme ve unvan değişikliği işlemlerini yürütmek üzere beş kişiden oluşan yazılı sınav kurulu teşkil edilir.
+(2) (Değişik cümle:RG-16/2/2018-30334) Yazılı Sınav Kurulu, Bakan onayı ile kurulur. Kurul; (Değişik ibare:RG-9/2/2019-30681) Bakan Yardımcısının veya görevlendireceği kişinin başkanlığında, Yönetim Hizmetleri Genel Müdürlüğü, Sağlık Hizmetleri Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü ve Hukuk Müşavirliği temsilcilerinden oluşur ve temsilcilerin en az daire başkanı seviyesinde veya hukuk müşaviri olması şarttır. İhtiyaç halinde görevde yükselme ve unvan değişikliği sözlü sınavları için (Değişik ibare:RG-9/2/2019-30681) Bakan Yardımcısının onayı ile en az daire başkanı seviyesinde olan birinin başkanlığında toplam beş kişiden müteşekkil sözlü sınav kurulu veya kurulları oluşturulabilir. Aynı usulle üye sayısı kadar yedek üye de belirlenir.
+(3) Yazılı ve sözlü sınav kurulunu teşkil eden üyeler, görevde yükselme veya unvan değişikliği sınavına alınacak personelden, lisansüstü öğrenim hariç öğrenim veya ihraz ettikleri unvan itibariyle daha düşük seviyede olamaz.
+(4) Yazılı ve sözlü sınav kurulu başkan ve üyeleri; eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve sıhri hısımlarının katıldıkları görevde yükselme ve unvan değişikliği sınavlarında görev alamazlar. Bu durumda olan üyelerin yerine yedek üye görevlendirilir.
+(5) Yazılı sınav kurulu; sınavların yapılması veya yaptırılması, sınav sonuçlarının ilanı, itirazların sonuçlandırılması ve sınavlara ilişkin diğer işleri yürütür. Ancak, sırf sözlü sınavlara ilişkin itirazlar sözlü sınav kurul/kurullarınca değerlendirilip ilgiliye bildirilir.
+(6) Yazılı sınav kurulu üye tam sayısı ile toplanır ve oy çokluğu ile karar alır. Kurullarda asıl üyenin bulunmadığı toplantılara yedek üyeler katılır.
+(7) Kurulların sekretarya hizmetleri Genel Müdürlük tarafından yürütülür.

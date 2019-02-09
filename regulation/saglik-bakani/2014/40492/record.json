@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.40492",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BAKANLIĞI PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "40492",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2014/40492",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40492&MevzuatTertip=5",
+  "source_sha256": "07482460328ffb6e1c745aca503dc05375499b5bd475048ecac3ee843a07a239",
+  "source_bytes": 82386,
+  "published": "2014-04-17",
+  "gazette": "28975",
+  "in_force": "2019-02-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/2/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-02-09",
+      "RG-9/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-09",
+      "9/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-02-16",
+      "RG-16/2/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-02-16",
+      "16/2/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-31",
+      "RG-31/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-31",
+      "31/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-12-30",
+      "RG-30/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-30",
+      "30/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2917,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

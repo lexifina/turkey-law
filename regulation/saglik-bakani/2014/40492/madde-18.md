@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 18 – (1) Görevde yükselme ve unvan değişikliği sınavına katılanlar, gerekçelerini belirtmek suretiyle (Ek ibare:RG-31/3/2017-30024) sınav sonuçlarının ilanından itibaren beş iş günü içerisinde sınav sonuçlarına yazılı olarak itiraz edebilirler. (Değişik ibare:RG-31/3/2017-30024) Yazılı Sınav Kurulu, itirazın intikalinden itibaren en geç on iş günü içerisinde itirazla ilgili işlemleri sonuçlandırarak, sonucunu ilgiliye yazılı olarak ya da Bakanlık internet sitesi vasıtasıyla bildirir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır.
