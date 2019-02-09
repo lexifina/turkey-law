@@ -1,0 +1,2 @@
+Kişisel sorumluluk ve zarar
+MADDE 18 – (1) Sözleşmeli personel, görevlerini dikkat ve itina ile yerine getirmek, kendilerine teslim edilen Devlet malını korumak ve her an hizmete hazır halde bulundurmak için gerekli tedbirleri almak zorundadır. Sözleşmeli personelin kasıt, kusur, ihmal veya tedbirsizliği sonucu idarenin zarara uğratılması halinde zarar, ilgili tarafından rayiç bedel üzerinden ödenir. Zararların ödettirilmesinde genel hükümler uygulanır.

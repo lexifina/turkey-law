@@ -1,0 +1,3 @@
+Görev birimleri
+MADDE 30 – (1) Sözleşmeli personel, Genel Müdür tarafından görevlendirilir.
+(2) Sözleşmeli personel, görevi dışında başka bir işte çalıştırılamaz.
