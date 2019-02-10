@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.31240",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "PATLAYICI MADDE ATEŞLEYİCİ YETERLİLİK BELGESİNİN VERİLMESİ ESAS VE USULLERİNİN BELİRLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "31240",
+  "issuer": "İçişleri, Milli Savunma, Çevre ve Şehircilik ile Aile, Çalışma ve Sosyal Hizmetler Bakanları",
+  "issuer_slug": "icisleri-milli-savunma-cevre-ve-sehircilik-ile-aile-calisma-ve-sosyal-hizmetler-bakanlari",
+  "path": "regulation/icisleri-milli-savunma-cevre-ve-sehircilik-ile-aile-calisma-ve-sosyal-hizmetler-bakanlari/2002/31240",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31240&MevzuatTertip=5",
+  "source_sha256": "12d47c01dd6a30af38ab96f6c54674930f3ef871390112ccbbc2ca4f967bac83",
+  "source_bytes": 40240,
+  "published": "2002-07-11",
+  "gazette": "24812",
+  "in_force": "2019-02-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/2/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-02-10",
+      "RG-10/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-10",
+      "10/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Belgelerin İptali
+Madde 14 — Yeterlilik belgesi sahiplerinin Tüzük ve bu Yönetmelik hükümlerine aykırı hareketlerinin tespiti halinde, bu durumun giderilmesi için Tüzüğün 129 uncu maddesi doğrultusunda yeterli süre verilerek gerekli uyarıda bulunulur. Tekerrürü halinde, yeterlilik belgeleri geçici veya sürekli olarak Valilikçe geri alınarak, durum gecikmeksizin Bakanlığa ve İl Valiliklerine bildirilir.
