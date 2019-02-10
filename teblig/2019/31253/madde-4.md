@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Banka: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü,
+c) BÜGEM: Bitkisel Üretim Genel Müdürlüğünü,
+ç) İl/ilçe müdürlüğü: Bakanlık il/ilçe müdürlüğünü,
+d) İyi tarım uygulamaları: İyi Tarım Uygulamaları Hakkında Yönetmelik hükümlerine göre yapılan tarımsal faaliyeti,
+e) İTU: İyi tarım uygulamalarını,
+f) İTUB: Bakanlık il müdürlüklerinde kurulmuş olan iyi tarım uygulamaları birimlerini,
+g) İyi Tarım Uygulamaları Sertifikası: Yetkilendirilmiş kuruluş tarafından bütün kontrol yöntemlerinin uygulanması sonucu üretilen ürünün İyi Tarım Uygulamaları Hakkında Yönetmeliğe uygun olduğunu gösteren belgeyi,
+ğ) İyi Tarım Uygulamaları Hakkında Yönetmelik: 7/12/2010 tarihli ve 27778 sayılı Resmî Gazete’de yayımlanan Yönetmeliği,
+h) Üretim yılı: Su ürünleri yetiştiriciliğinde ürünün hasat edildiği yılı,
+ı) Satış belgesi: Yetiştirilen balıkların hasat edilerek satışının yapıldığını gösteren satış faturasının aslı, ikinci sureti veya e-fatura, perakende satış fişi veya müstahsil makbuzunu,
+i) Su Ürünleri Hasat Tespit Tutanağı: EK-7’de yer alan, hasadını yaptığı ürünü kendi işleme tesisinde işleyecek olan veya kendine ait başka bir tesiste canlı olarak büyütmeye devam edecek olan işletmeler için düzenlenecek tutanağı,
+j) Su ürünleri yetiştiriciliği: Su ürünlerinin entansif olarak yetiştirilmesini,
+k) Su ürünleri yetiştiricilik belgesi: Su ürünleri üretim faaliyetinde bulunan yetiştiricilere Bakanlıkça verilen geçerli belgeyi,
+l) SÜİTUD: Su ürünleri yetiştiriciliğinde iyi tarım uygulamaları desteğini,
+m) Yetiştirici/üretici: Kamu kurum ve kuruluşları hariç Bakanlıkça su ürünleri üretim faaliyetinde bulunmak üzere izin verilen ve su ürünleri yetiştiriciliği faaliyetlerini İyi Tarım Uygulamaları Hakkında Yönetmelik hükümlerine uygun olarak yapan gerçek veya tüzel kişileri,
+n) TBS: Tarım Bilgi Sistemini,
+o) Tesis (proje) kapasitesi: Yetiştiricilik belgesinde belirtilmiş üretim miktarını,
+ö) Yetkilendirilmiş kuruluş: Kontrol ve sertifikasyon kuruluşu olarak Bakanlık tarafından yetki verilmiş tüzel kişileri,
+p) Yetiştiricilik işletmesi: Bakanlıktan onay alınarak su ürünleri yetiştiriciliğinin yapıldığı yerleri,
+ifade eder.

@@ -1,0 +1,2 @@
+Ödemeler için gerekli finansman ve ödeme planı
+MADDE 8 – (1) SÜİTUD ödemesi için gerekli finansman bütçenin ilgili kalemine tahsis edilen ödeneklerden karşılanır. Ödemeler, Bakanlık tarafından Bankaya kaynak aktarılmasını müteakip, il/ilçe müdürlüklerince oluşturulan onaylı SÜİTUD ödeme İcmal-1’lerine göre, Banka aracılığıyla, ilgili şubelerde daha önce yetiştiriciler adına açılan veya açılacak olan hesaplara yapılır.
