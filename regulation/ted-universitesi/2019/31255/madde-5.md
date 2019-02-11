@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı, toplumsal cinsiyet eşitliğine ve temsilde eşitlik ilkesine dayanan ve toplumsal cinsiyet konusunda farkındalığı ve duyarlılığı yüksek olan bir üniversite ortamı için gerekli akademik, idari, teorik ve pratik çalışmaları gerçekleştirmektir. Bunun için Merkez, toplumsal cinsiyet ile ilgili ulusal ve uluslararası bilimsel araştırmalar yapar ve bu araştırmaları destekler, disiplinlerarası bir yaklaşım sergiler; tüm akademik ve idari birimleri dâhil ederek toplumsal cinsiyet konusunu sürekli gündemde tutar, akademiyi ve toplumu birleştiren etkinlikler, paneller, projeler ve faaliyetler gerçekleştirir ve cinsiyet ve cinsel yönelime dayanan her türlü ayrımcılığı ve cinsel tacizi önlemeyi hedefler. Ayrıca geleceğe yönelik olarak Üniversite bünyesinde toplumsal cinsiyet ve/veya kadın çalışmaları alanında yüksek lisans programı açılmasına yönelik çalışmalar yapar.
