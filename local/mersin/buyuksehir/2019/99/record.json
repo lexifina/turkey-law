@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "99",
+  "decision_date": "2019-02-11",
+  "title": "MEC. KAR. ( Silifke İlçesi Gazi Mahallesi 20 ada 219 nolu parsel ).doc",
+  "listed_as": "99 MEC. KAR. ( Silifke İlçesi Gazi Mahallesi 20 ada 219 nolu parsel ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/99-mec-kar--silifke-ilcesi-gazi-mahallesi-20-ada-219-nolu-parsel--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-subat-2019-meclis-kararlar",
+  "listing_sha256": "a9284fef00b4b598a5f21cd4ab8a6b16e7286e6af3e01df6a4f064c5c1bdc8cd",
+  "meeting_title": "11 ŞUBAT 2019 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
