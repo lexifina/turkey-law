@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10742",
+  "decision_date": "2019-02-12",
+  "source_id": 29192,
+  "chamber": "1",
+  "ilam_number": "366",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29192/",
+  "source_sha256": "520a3b1bc8d3c43175208b23196f91206389b5a31c7c7a5927e6368b45f7823a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
