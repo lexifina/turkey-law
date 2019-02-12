@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10745",
+  "decision_date": "2019-02-12",
+  "source_id": 29470,
+  "chamber": "1",
+  "ilam_number": "317",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29470/",
+  "source_sha256": "3d6239e33e6e9cebcf96d26c2f28abcea3412a6e33a59738792cb443593bebe3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
