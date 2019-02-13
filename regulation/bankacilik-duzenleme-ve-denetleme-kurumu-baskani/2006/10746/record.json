@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.10746",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN İZNE TABİ İŞLEMLERİ İLE DOLAYLI PAY SAHİPLİĞİNE İLİŞKİN YÖNETMELİK",
+  "number": "10746",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2006/10746",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10746&MevzuatTertip=5",
+  "source_sha256": "423c37d97cba6f2cb5c2ee6a08eef9e575f9cb4368e94309a16d0bdabad48ba8",
+  "source_bytes": 103067,
+  "published": "2006-11-01",
+  "gazette": "26333",
+  "in_force": "2019-02-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/2/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-02-13",
+      "RG-13/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-13",
+      "13/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-08-14",
+      "RG-14/8/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-08-14",
+      "14/8/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-09",
+      "RG-9/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-09",
+      "9/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-02-04",
+      "RG-4/2/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-02-04",
+      "4/2/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-10-08",
+      "RG-8/10/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-10-08",
+      "8/10/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-01-23",
+      "R.G.-23/1/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-01-23",
+      "23/1/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5838,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.10746-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

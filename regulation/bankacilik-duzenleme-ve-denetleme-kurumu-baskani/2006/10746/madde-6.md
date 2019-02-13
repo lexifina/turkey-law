@@ -1,0 +1,3 @@
+Kuruluş veya yurt dışında kurulu bankaların Türkiye’de şube açma izni
+MADDE 6 – (1) Kuruluş veya Türkiye’de şube açma izni Kurulun en az beş üyesinin aynı yöndeki oyuyla alınan kararla verilir. İzne ilişkin karar, başvurunun yapıldığı ya da başvuruda eksiklik bulunması halinde, istenilen bilgi ve belgelerin tamamlandığı tarihten itibaren üç ay içinde verilir. Eksikliklerin altı ay içerisinde giderilmemesi halinde, başvuru geçersiz hale gelir.
+(2) Verilen izinler Resmî Gazete’de ve Kurumun haftalık bülteninde yayımlanır. Faaliyete geçilebilmesi için, kuruluş veya şube açma işlemlerinin tamamlanmasının ardından, ayrıca faaliyet izni alınması zorunludur.
