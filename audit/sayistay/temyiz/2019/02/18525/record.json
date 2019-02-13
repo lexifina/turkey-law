@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45641",
+  "decision_date": "2019-02-13",
+  "source_id": 18525,
+  "chamber": "6",
+  "file_number": "43570",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18525/",
+  "source_sha256": "da307a556df40e3d3255de3b51d749cfd4024b06c4c265b5eaabf690c74a9b6b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
