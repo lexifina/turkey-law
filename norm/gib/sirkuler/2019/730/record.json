@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-111/ 2019-1",
+  "source_id": 730,
+  "date": "2019-02-13",
+  "title": "2018 IV. Geçici Vergi Dönemine (Ekim-Kasım-Aralık) Ait Gelir ve Kurum Geçici Vergi Beyan Süresinin Uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/730",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "df2b198fa0f474e815bd5cc7fdae8201582622f8ede06a425f4aa4c55038df06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
