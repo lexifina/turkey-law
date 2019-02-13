@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[323-2012/VUK-1- . . .]-137137",
+  "source_id": 27110,
+  "date": "2019-02-13",
+  "title": "Temlik yoluyla edinilen alacağın iflas masasına kaydı halinde şüpheli ticari alacak karşılığı uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27110",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "249d98a1446fa1461a9278bb82b83a243e52472c26c3ab0ca18cc79d8f6334ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
