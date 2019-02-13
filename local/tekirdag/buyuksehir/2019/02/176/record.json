@@ -1,0 +1,20 @@
+{
+  "number": "176",
+  "title": "council decision",
+  "decision_date": "2019-02-13",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1225",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1225/176",
+  "source_sha256": "58aff19d60904761eede0bd28c5250ab1e866f2b6cdff309e16668703c14d700",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: catalogue summary appears to concern individual persons; official link only",
+  "in_force": "2019-02-13",
+  "in_force_basis": "Official Birleşim Tarihi: 13.02.2019; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
