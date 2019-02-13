@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45687",
+  "decision_date": "2019-02-13",
+  "source_id": 18587,
+  "chamber": "6",
+  "file_number": "43883",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18587/",
+  "source_sha256": "888997e21a29ae082137ff0932fc69ed3f103c4ef7ee4c23f9aa23f551332a9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
