@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-112/2019-2",
+  "source_id": 729,
+  "date": "2019-02-14",
+  "title": "Konkordato müessesesinin şüpheli alacak karşılığı uygulaması karşısındaki durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/729",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2b39dca70c21bcb9198538fc83c2c3b72eaa09a8d06a497258f8671a3c211a32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
