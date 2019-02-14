@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/916",
+  "list_number": "916",
+  "decision_date": "2019-02-14",
+  "title": "Seçilme yeterliliğine sahip en az 9 seçmenin bulunduğu yerlerde mahalle muhtarlığı ve ihtiyar heyeti üyeliği seçimlerinin yapılmasına ilişkin Yüksek Seçim Kurulunun 2019/916 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78016/2019-916.pdf",
+  "source_sha256": "3f55f8d6029eb9c75682287399c2e3238e3b6bbc15e972c525c8bec18c268e36",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-14",
+  "law_text_complete": false
+}
