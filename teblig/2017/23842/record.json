@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.23842",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRONİK TİCARET BİLGİ SİSTEMİ VE BİLDİRİM YÜKÜMLÜLÜKLERİ HAKKINDA TEBLİĞ",
+  "number": "23842",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/23842",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23842&MevzuatTertip=5",
+  "source_sha256": "524db528d2cc3256c92044c484c56ab35d88e2415bad8bc0f942d159b4312ada",
+  "source_bytes": 31679,
+  "published": "2017-08-11",
+  "gazette": "30151",
+  "in_force": "2019-02-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/2/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-02-15",
+      "RG-15/2/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-02-15",
+      "15/2/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1100,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
