@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "153",
+  "decision_date": "2019-02-15",
+  "title": "MEC.KAR. ( Tarsus Otopark Bedeli ).doc",
+  "listed_as": "153 MEC.KAR. ( Tarsus Otopark Bedeli ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/153-meckar--tarsus-otopark-bedeli-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/15-subat-2019-meclis-kararlar",
+  "listing_sha256": "8a7b88d9ecb3eb57bceb6ccc04f3e7421464f8582f3bc12cc61518bb839f710b",
+  "meeting_title": "15 ŞUBAT 2019 MECLİS KARARLAR",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
