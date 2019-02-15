@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[03/2014/274]-148134",
+  "source_id": 27571,
+  "date": "2019-02-15",
+  "title": "Almanya mukimi şirket ile Türkiye mukimi şirketin ortaklığından oluşan adi ortaklığın yıllar sari inşaat işinden yapılan tevkifatın iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27571",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f85090cd819086ae9d2e3e75844fac89e2bc6cb96989938f2fc49df1c2f52273",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
