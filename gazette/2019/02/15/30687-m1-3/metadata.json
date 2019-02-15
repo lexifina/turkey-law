@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-02-15",
+  "issue": "30687",
+  "edition": "mükerrer 1",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğde Değişiklik Yapılmasına Dair Tebliğ (No: 2019/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190215M1-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190215M1.htm",
+  "index_sha256": "6de182fc4446812eb556af8fb66b4fe99ccfbb076a6accead081766f68a976b4",
+  "index_header": "15 Şubat 2019 ... 30687 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190215M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
