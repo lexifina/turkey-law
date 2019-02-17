@@ -1,0 +1,4 @@
+Yönetim Kurulunun görevleri
+MADDE 11 – (1) Yönetim Kurulu Merkezin karar organıdır ve görevleri şunlardır:
+a) Merkezin araştırma, uygulama ve eğitim programı ile yıllık etkinlik planını hazırlamak ve ilgili konularda kararlar almak.
+b) Bir sonraki yılın mali tahminini hazırlamak.
