@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-02-17",
+      "17.02.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30689",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-02-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2019/31263",
+  "published": "2019-02-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31263&MevzuatTertip=5",
+  "source_bytes": 41631,
+  "source_id": "8.5.31263",
+  "source_sha256": "c35eb93a36997d2988a01ee3b9c833566c971231ba58178911cd03264aa50d02",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ İLETİŞİM ARAŞTIRMALARI VE UYGULAMA MERKEZİ (İLAUM) YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 789
+}
