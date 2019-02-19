@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10746",
+  "decision_date": "2019-02-19",
+  "source_id": 29515,
+  "chamber": "1",
+  "ilam_number": "161",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29515/",
+  "source_sha256": "0511d076a907a4440e0115dd901d9230551b6a563612863e62dfdd33716f245d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
