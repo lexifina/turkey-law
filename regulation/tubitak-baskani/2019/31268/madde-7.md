@@ -1,0 +1,2 @@
+Değerlendirme ve destek kararı
+MADDE 7 – (1) Başvurular, TÜBİTAK tarafından belirlenen kurallara uygun olarak çağrı duyurusunda ilan edilen değerlendirme sürecinden geçirilir. TÜBİTAK gerekli gördüğü hallerde başvuruların değerlendirilmesinde, konusunda uzman kişileri görevlendirir; kurum veya kuruluşlardan yardım alır. Başvuruların değerlendirilmesi, Yönetim Kurulunca düzenlenen çerçevede TÜBİTAK tarafından belirlenen süreçlere uygun olarak yapılır. Değerlendirme süreçleri sonrasında destek kararı GYK’nın önerisi üzerine Başkanlık onayı ile verilir.
