@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10746",
+  "decision_date": "2019-02-19",
+  "source_id": 29527,
+  "chamber": "1",
+  "ilam_number": "161",
+  "item_number": 10,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29527/",
+  "source_sha256": "2dd6cf72b1710af50b7cdafeab9bf72f7f74cb5527acf106a7ea4a05ffb4a6f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
