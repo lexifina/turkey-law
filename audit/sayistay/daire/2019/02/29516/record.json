@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10746",
+  "decision_date": "2019-02-19",
+  "source_id": 29516,
+  "chamber": "1",
+  "ilam_number": "161",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29516/",
+  "source_sha256": "86e7e31778db2c9169f6afc278481e6a4c579825578b10439b73728ab994955b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
