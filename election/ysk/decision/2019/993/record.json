@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/993",
+  "list_number": "993",
+  "decision_date": "2019-02-19",
+  "title": "Siyasi Parti tarafından daha önce verilen listenin 19 Şubat 2019 Salı günü saat 17.00'ye kadar verilecek değişiklik listesi ile değiştirilmesinin kabul edilmesi gerektiğine dair Yüksek Seçim Kurulunun 2019/993 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78020/2019-993.pdf",
+  "source_sha256": "ccfa76e5e9130a23370e6f27dac1721680058f0a6bae8704711f5c718a56ecd4",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-19",
+  "law_text_complete": false
+}
