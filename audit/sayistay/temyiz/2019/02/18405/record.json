@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45721",
+  "decision_date": "2019-02-20",
+  "source_id": 18405,
+  "chamber": "7",
+  "file_number": "42573",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18405/",
+  "source_sha256": "2733d078a81e1bb34bb36098248f9ce4bf23aa0ea309632dc602c9fc27f0a907",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
