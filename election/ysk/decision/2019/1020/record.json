@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/1020",
+  "list_number": "1020",
+  "decision_date": "2019-02-20",
+  "title": "Siyasi partilerin belediye meclisi aday listeleri ile ilgili olarak; a) Alt sırada yer alan adayın boşalan üst sıraya yazılabilmesi için adaylıktan istifa etmesi ve yeniden aday gösterilmesi gerektiğine, b) İstifa ile boşalan daha üst sıralarda ki boş bir sıraya ilk listede daha alt sıralarda yer alıp istifa eden ve istifa sonrasında ilgili siyasi partiye adaylık için yeniden müracaat eden bir kişinin yazılabileceğine, c) Aynı listede yer alan iki adayın birlikte muvafakat etmeleri yoluyla listedeki sıralamalarının değiştirilmesinin mümkün olmadığına, sıralamanın değişebilmesi için her ikisinin de adaylıktan istifa etmesi gerektiğine, dair Yüksek Seçim Kurulunun 2019/1020 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78022/2019-1020.pdf",
+  "source_sha256": "bc3f79b19790d0bc00dc3d7109b7769499c661f8b85f271a18e04e7da467098f",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-20",
+  "law_text_complete": false
+}
