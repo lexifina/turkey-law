@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.31275",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ERİŞKİNLER İÇİN ENGELLİLİK DEĞERLENDİRMESİ HAKKINDA YÖNETMELİK",
+  "number": "31275",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı ve Sağlık Bakanı",
+  "issuer_slug": "aile-calisma-ve-sosyal-hizmetler-bakani-ve-saglik-bakani",
+  "path": "regulation/aile-calisma-ve-sosyal-hizmetler-bakani-ve-saglik-bakani/2019/31275",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31275&MevzuatTertip=5",
+  "source_sha256": "fa33281408b26e3a7dc171df4ff04362641ff2dce14dd58fc0f91253197aea48",
+  "source_bytes": 46778,
+  "published": "2019-02-20",
+  "gazette": "30692",
+  "in_force": "2019-02-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.02.2019); own commencement article: \"bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2750,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31275-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
