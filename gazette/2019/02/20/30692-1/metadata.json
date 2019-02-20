@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-02-20",
+  "issue": "30692",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190220-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190220.htm",
+  "index_sha256": "159e9c6a1bb642cde28d7c1d712cb5e69efa1bf4f9a1ebca8dc60441325f32f8",
+  "index_header": "20 Şubat 2019 ... 30692 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190220.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
