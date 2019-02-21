@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-06-20",
+      "20.06.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "RG-21/2/2019-30693",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-02-21",
+      "21/2/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/2/2019-30693",
+  "first_law": null,
+  "gazette": "28329",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-02-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2012/16250",
+  "published": "2012-06-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16250&MevzuatTertip=5",
+  "source_bytes": 30501,
+  "source_id": "8.5.16250",
+  "source_sha256": "94ee23f6a638f610e940e42430da10c428e8f9774e636cf00cd765c07fa08740",
+  "text_status": "current-consolidated",
+  "title": "HACETTEPE ÜNİVERSİTESİ TÜTÜN KONTROLÜ, EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ (HÜTKOM)",
+  "university_id": 199,
+  "word_count": 1097
+}
