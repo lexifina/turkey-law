@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8443-1",
+  "decision_date": "2019-02-21",
+  "title": "Lokal İnşaat Enerji Petrol Nakliyat Gıda Sanayi Ve Ticaret A.Ş. - Kırıkkale Depolama Tesisi Depolama Tarifesine ilişkin kurul kararı",
+  "resmi_gazete_date": "2019-03-01",
+  "resmi_gazete_number": "30701",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uD+zoMuAZOs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uD+zoMuAZOs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DucPAs8poP4="
+  ],
+  "source_sha256": "9ccfa5b7c5521e2178c34f0accea5f037ab208ca6fc88d90fa31178ea55fbecc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2019-02-21",
+  "law_text_complete": false
+}
