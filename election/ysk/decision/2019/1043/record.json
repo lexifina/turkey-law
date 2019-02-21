@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/1043",
+  "list_number": "1043",
+  "decision_date": "2019-02-21",
+  "title": "2972 sayılı Kanunun 15. maddesinde düzenlenen aday listelerindeki noksanlık veya aykırılıkların tamamlanmasına ilişkin sürenin hangi tarih itibari ile başlayacağı ve son günün siyasi partilere bildiriminden itibaren kaç gün olması gerektiğine dair Yüksek Seçim Kurulunun 2019/1043 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78024/2019-1043.pdf",
+  "source_sha256": "2864a9210fde50ebc6b63c1743252c2e020fd5577042ca8ab71ed50ad21f4a18",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-21",
+  "law_text_complete": false
+}
