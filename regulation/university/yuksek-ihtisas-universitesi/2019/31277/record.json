@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/yuksek-ihtisas-universitesi/2019/31277",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30693",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-02-21",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Yüksek İhtisas Üniversitesi",
+  "issuer_slug": "yuksek-ihtisas-universitesi",
+  "kind": "regulation",
+  "published": "2019-02-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31277&MevzuatTertip=5",
+  "source_id": "8.5.31277",
+  "source_sha256": "87dd6d0056c107981dd38eb0d4a9eda31b9412ff60433c9404bd2fc1f9e91331",
+  "title": "YÜKSEK İHTİSAS ÜNİVERSİTESİ ÇEVRE SORUNLARI ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 463,
+  "version_label": "oldest version available",
+  "word_count": 1330
+}
