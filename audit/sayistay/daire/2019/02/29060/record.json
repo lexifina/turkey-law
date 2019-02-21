@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35572",
+  "decision_date": "2019-02-21",
+  "source_id": 29060,
+  "chamber": "2",
+  "ilam_number": "124",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29060/",
+  "source_sha256": "1442c6b0a0f5fc795e61e2a14dc0276f71f3a9b73fd9a747d9868a8562cb6eb7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
