@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[313-2014-134]-63105",
+  "source_id": 26751,
+  "date": "2019-02-21",
+  "title": "San-Tez Desteklenme Programı kapsamında desteklenmesi uygun görülen proje sonucunda ortaya çıkan gayrimaddi hakkın aktifleştirilmesi, harcamalara ait KDV'nin indirimi, projede kullanılan makine-teçhizatın proje sonunda aktife alınması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26751",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "39862dee0176d6e0aaadf591cf7b58c1aac2f99227f0ce153852d12484d94217",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
