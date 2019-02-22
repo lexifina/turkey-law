@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-02-22",
+  "issue": "30694",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARLARI",
+  "title": "1211 Bilişim Teknolojileri Bağımlılığının Etkilerinin İncelenerek Olası Zararlarının Bertaraf Edilmesi ve Bu Teknolojilerin Kontrollü Kullanımının Sağlanması İçin Yapılması Gerekenlerin Saptanması Amacıyla Bir Meclis Araştırması Komisyonu Kurulmasına Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190222-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190222.htm",
+  "index_sha256": "63422c0c48bb2604da18c9ef4840b4ab7cbf0a3e5374f643a9c0b0921e2e705e",
+  "index_header": "22 Şubat 2019 ... 30694 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190222.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
