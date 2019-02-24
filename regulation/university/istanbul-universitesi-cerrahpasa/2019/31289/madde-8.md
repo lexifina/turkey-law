@@ -1,0 +1,3 @@
+Müdür ve müdür yardımcıları
+MADDE 8 – (1) Müdür, beyin ve sinir cerrahisi veya endokrinoloji bilim dalının hipofiz bezi araştırma ve uygulamaları konusunda deneyimli, alanında ulusal ve uluslararası düzeyde basılmış eserleri olan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Aynı öğretim üyesi arka arkaya iki defadan fazla Müdür olarak görevlendirilemez.
+(2) Müdür, Yönetim Kurulu üyeleri arasından en çok iki yardımcı görevlendirir. Müdür yardımcıları, Müdür tarafından verilen görevleri yapar ve Müdürün bulunmadığı zamanlarda ona vekâlet eder. Müdürün görevi sona erdiğinde, Müdür yardımcılarının da görevi sona erer.
