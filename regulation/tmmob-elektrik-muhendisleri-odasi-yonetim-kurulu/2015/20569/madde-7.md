@@ -1,0 +1,2 @@
+Hizmet bedelleri ve mesleki denetim
+MADDE 7 – (1) Yenilenebilir enerji kaynaklarından elektrik enerjisi üretimine ilişkin mühendislik hizmetlerinin en az ücretlerinin belirlenmesi ve mesleki denetim uygulamaları, 9/12/2010 tarihli ve 27780 sayılı Resmî Gazete’de yayımlanan Türk Mühendis ve Mimar Odaları Birliği Elektrik Mühendisleri Odası En Az Ücret ve Mesleki Denetim Uygulama Esasları Yönetmeliği hükümlerine göre gerçekleştirilir.
