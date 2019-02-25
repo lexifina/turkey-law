@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-02-25",
+  "issue": "30697",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Teknik Üniversitesi Türk Boğazları Denizcilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190225-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190225.htm",
+  "index_sha256": "2e057bd3d17eb68c082125b21e80414f4d6afab864ced89011d87d7ebb6c4858",
+  "index_header": "25 Şubat 2019 ... 30697 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190225.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
