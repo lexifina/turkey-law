@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "637",
+  "decision_date": "2019-02-26",
+  "source_id": 29492,
+  "chamber": "6",
+  "ilam_number": "174",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29492/",
+  "source_sha256": "6e3b3ef19ecbf7fd51e2fc5bb6886c1f20eba5a1af0d91939509d7675f788207",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
