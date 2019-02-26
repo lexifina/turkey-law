@@ -1,0 +1,19 @@
+İKİNCİ BÖLÜM
+Üretim, Sertifikasyon ve Pazarlama
+Genel şartlar
+MADDE 5 – (1) Üretim, sertifikasyon ve pazarlama ile ilgili şartlar aşağıda belirtilmiştir.
+a) Doku kültürü ile üretim yapacak üreticiler, doku kültürü ile tohumluk üretici belgesine sahip olmalıdırlar.
+b) Doku kültürü yöntemi ile üretimi yapılacak olan çeşitlerin ülkemizde kayıt altında olması gerekir.
+c) Başlangıç materyalinin alındığı bitkinin sertifikasının bulunmaması durumunda, uygun doku kültürü yöntemleri kullanılarak yapılan üretimler standart üretim materyali/fidan/fide olarak adlandırılırken; sertifikalı üretimlerde doku kültüründe kullanılacak kaynak bitkinin, bir nolu damızlık/ön temel blok, iki nolu damızlık/temel blok veya üç nolu damızlık/sertifikalı blok bitkilerinden olması gerekmektedir.
+ç) Doku kültürü ortamındaki bitkicikler/mikro sürgünler en fazla 10 alt kültüre alınabilir ve ortamdaki bitkicikler/mikro sürgünler meyve/asmada en fazla bir yıl, çilekte en fazla 2 yıl süreyle kullanılabilir.
+d) Doku kültürü yöntemlerinde üretim materyali ve fidan/fide üretimi kontrolleri, Bakanlık il müdürlüğü veya Bakanlığın yetkilendirdiği kuruluşun teknik elemanları tarafından yapılır.
+e) Doku kültürü ortamındaki bitkicikler/mikro sürgünler pazarlanabilir. Ancak pazarlama sırasında satıcı tarafından, üretimlerin doku kültürü ortamında kalma süresi ve yapılan kontrollere ait belgelerin aslı/Bakanlık il müdürlüğü onaylı bir sureti alıcıya verilir. Bu üretimler de sertifikalı/belgeli ve etiketli olarak pazarlanabilir.
+f) Doku kültürü ile çoğaltılan bitkicikler alıştırma ortamında en az bir ay; nem, güneş ışığı ve sıcaklık açısından kontrolsüz ortama adapte edildikten sonra pazarlanabilir.
+g) Doku kültüründe kullanılan harcın; daha önce kullanılmamış olması zorunludur.
+ğ) Doku kültüründeki bitkiler; kaynak bitkilerin sağlık şartlarını aynen devam ettireceklerinden, şüpheli durumlar dışında, tekrar hastalık veya zararlı kontrolüne tabi tutulmazlar.
+h) Bitkiciklerde genetik değişime neden olabilecek kimyasal maddelere, besi ortamında yer verilmemelidir. Aksi halde üretimlere sertifika/belge ve etiket düzenlenmez.
+ı) Doku kültürü ile çoğaltma yönteminde sadece koltuk altı gözler, (Ek ibare:RG-26/2/2019-30698) çelikler, bitkicikler/mikro sürgünler, sürgün ucu, sürgün ucu aşılama veya meristem kültürü kullanılabilir. Ancak sadece tohum anaçlarında embryo kültürü de kullanılabilir.
+i) Doku kültürü ile üretilen meyve/asma fidan/fide/üretim materyalleri, 8/7/2010 tarihli ve 27635 sayılı Resmî Gazete’de yayımlanan Çilek Fidesi Üretimi, Sertifikasyonu ve Pazarlaması Yönetmeliği ile 3/7/2009 tarihli ve 27277 sayılı Resmî Gazete’de yayımlanan Asma Fidanı ve Üretim Materyali Sertifikasyonu ile Pazarlaması Yönetmeliği ve Meyve Fidanı ve Üretim Materyali Sertifikasyonu ile Pazarlaması Yönetmeliği kapsamındaki bitki sağlığı standartlarına sahip olmalıdır.
+j) (Değişik:RG-26/2/2019-30698) Bu Tebliğde geçen belge ve formlar, Bakanlık internet sayfasında yayımlanır.
+k) (Ek:RG-26/2/2019-30698) Çilek ve asma türlerindeki doku kültüründe; ön temel/temel sınıfında bitkicik, üretim materyali ve fidan üretiminde, genetik analizle çeşit tespiti yapılması şartıyla en fazla 3 alt kültür yapılır. Bir nolu damızlık ünitelerinden alınan başlangıç materyali ile yapılan üretimler ön temel/temel, iki nolu damızlık ünitelerinden alınan başlangıç materyali ile yapılan üretimler temel olur.
+l) (Ek:RG-26/2/2019-30698) Meyve türlerindeki doku kültüründe ana kaynak olarak ön temel, temel veya sertifikalı materyal kullanıldığında, elde edilen üretim sertifikalı ya da standart, standart materyal kullanıldığında ise elde edilen üretim standart olur. Doku kültürü ile çoğaltılan sert çekirdekli meyve türlerinin tohum anaçlarında ise ön temel materyalden temel/sertifikalı/standart, temel materyalden sertifikalı/standart üretim yapılabilir.

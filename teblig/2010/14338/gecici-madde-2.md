@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) Bu Tebliğin yürürlüğe girmesinden önce başlamış olan doku kültürü üretimleri için, üretici tarafından 60 gün içinde beyanname verilmesi halinde üretimlere sertifika/belge ve etiket düzenlenebilir.

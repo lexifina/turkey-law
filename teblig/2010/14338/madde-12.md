@@ -1,0 +1,2 @@
+Ücretler
+MADDE 12 – (1) Bu Tebliğ kapsamındaki hizmetler ücrete tabidir. Ücretler, 28/12/2006 tarihli ve 26390 sayılı Resmî Gazete’de yayımlanan, Tarım ve Köyişleri Bakanlığı Döner Sermaye İşletmeleri Uygulama Yönetmeliği hükümlerine göre, hizmeti veren kuruluşun döner sermaye işletmesi hesabına peşin olarak yatırılır. Bu ücretler, Bakanlık tarafından her yıl ocak ayında yeniden değerleme oranında belirlenir.

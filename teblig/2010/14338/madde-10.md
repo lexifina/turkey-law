@@ -1,0 +1,4 @@
+İtiraz
+MADDE 10 – (1) Üreticiler, düzenlenen kontrol raporlarına itirazlarını, kontrol raporunun düzenleme tarihinden itibaren en geç on gün içinde Genel Müdürlüğe yapar.
+(2) Genel Müdürlük söz konusu itirazı değerlendirir, gerekli görür ise teknik eleman görevlendirir ve bu durumu itiraz sahibine bildirir. İtiraz sahibi, itirazının kabul edildiğine dair bilgiyi aldıktan sonra varsa, görevlendirilen kuruluşun döner sermaye hesabına itiraz ücretini yatırır. Yapılan kontrol sonucunda, itiraza konu olan durumla ilgili işleme esas olmak üzere itiraz kontrol raporu düzenlenir. Düzenlenen itiraz kontrol raporu, kontrol tarihinden itibaren en geç bir hafta içinde Genel Müdürlüğe gönderilir. Genel Müdürlük, itirazla ilgili nihai kararını verir ve sonucu sertifikasyon kuruluşuna ve başvuru kuruluşuna bildirir. İtiraz kontrol raporu sertifikasyona/belge düzenlenmesine esas nihai rapordur.
+(3) Denetleme amacıyla yapılan kontrollere itiraz edilemez.
