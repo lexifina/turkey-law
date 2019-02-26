@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "365",
+  "decision_date": "2019-02-26",
+  "source_id": 29164,
+  "chamber": "5",
+  "ilam_number": "140",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29164/",
+  "source_sha256": "38916b04bf727e594829568098c8e9b2e9e7211c8d2a6be75eb3c764e1f55ff3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
