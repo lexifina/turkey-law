@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "364",
+  "decision_date": "2019-02-26",
+  "source_id": 29403,
+  "chamber": "5",
+  "ilam_number": "154",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29403/",
+  "source_sha256": "1096e6e14d5c2b2397e055c7426824d5997f8425d6e44513c6617f451b25e003",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
