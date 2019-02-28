@@ -1,0 +1,28 @@
+{
+  "number": "month-02",
+  "year": 2019,
+  "month": 2,
+  "title": "Şubat 2019/ 8 - 9 Numaralı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2019-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2019",
+  "source": "https://derepazari.bel.tr/karar/subat-2019-8-9-numarali-meclis-kararlari",
+  "official_page": "https://derepazari.bel.tr/karar/subat-2019-8-9-numarali-meclis-kararlari",
+  "official_document": "https://derepazari.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/ŞUBAT-2019.pdf",
+  "source_sha256": "977b913ad67b3c87da1d9d36c5856baa28a1c96205b43ae6d76f55902e028343",
+  "issuer": "Derepazarı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Şubat 2019/ 8 - 9 Numaralı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
