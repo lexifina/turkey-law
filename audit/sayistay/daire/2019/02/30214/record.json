@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "640",
+  "decision_date": "2019-02-28",
+  "source_id": 30214,
+  "chamber": "6",
+  "ilam_number": "216",
+  "item_number": 51,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30214/",
+  "source_sha256": "666ba4a04fbdd101aded48b9347d13ad48f5eca1d02e9008d54fea97a98a9226",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
