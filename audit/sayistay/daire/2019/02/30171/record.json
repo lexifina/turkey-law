@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "640",
+  "decision_date": "2019-02-28",
+  "source_id": 30171,
+  "chamber": "6",
+  "ilam_number": "216",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30171/",
+  "source_sha256": "9bdde95cd75c3bb3033267563de39c3792413dde6e3ea43f408a98e66852d540",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
