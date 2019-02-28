@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-130[306046]-19794",
+  "source_id": 29014,
+  "date": "2019-02-28",
+  "title": "Katma Değer Vergisi Kanunu Uygulamaları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29014",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "4d55dd63cb3a163d62d8b70f69ce9dcbffa158d0564f868e27c7ade92ee5c92e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
