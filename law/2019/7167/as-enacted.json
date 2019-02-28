@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7167",
+  "year": 2019,
+  "title": "Yükseköğretim Kurumları Teşkilatı Kanunu ile Kamu Malî Yönetimi ve Kontrol Kanununda Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-02-28",
+  "gazette_issue": "30700",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228-8.htm",
+  "source_sha256": "6227f091aacdb648ccab597d8ed2a0faa78676bd4dddbb1d77e89427dda3aa9b",
+  "text_sha256": "65553ece9aa53d9e7fb4945931aa36a04beaaa046d895dd524891a9984b76612",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/02/28/30700-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
