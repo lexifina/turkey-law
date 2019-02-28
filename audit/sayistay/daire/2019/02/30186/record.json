@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "640",
+  "decision_date": "2019-02-28",
+  "source_id": 30186,
+  "chamber": "6",
+  "ilam_number": "216",
+  "item_number": 23,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30186/",
+  "source_sha256": "e1443ae7889e313e219f141f2392326753c18ef335d64bbd81a0a42ff61fe1fd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
