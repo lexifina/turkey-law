@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.45.15.01-155[62.01.181]-22979",
+  "source_id": 34374,
+  "date": "2019-02-28",
+  "title": "Satış vaadi ile arsa tahsis sözleşmesinin damga vergisine tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34374",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "6db805e676deef5870bf13f70b3d0b23d6c4e9a118faa0b7c821ad2b17af68dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
