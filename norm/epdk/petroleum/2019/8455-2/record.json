@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8455-2",
+  "decision_date": "2019-02-28",
+  "title": "Opet Petrolcülük A.Ş. - Mersin Depolama Tesisi Depolama Tarifesine ilişkin kurul kararı",
+  "resmi_gazete_date": "2019-03-05",
+  "resmi_gazete_number": "30705",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T5AQM0Lccb4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=T5AQM0Lccb4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p32WrhNI5go="
+  ],
+  "source_sha256": "9572d656d646639d46cc9c29210257851f5a8a6b08b586b3d5f4984b202f3a02",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2019-02-28",
+  "law_text_complete": false
+}
