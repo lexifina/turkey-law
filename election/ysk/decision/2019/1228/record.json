@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/1228",
+  "list_number": "1228",
+  "decision_date": "2019-02-28",
+  "title": "Seçimlere katılma yeterliliği olan siyasi partilerin, seçimlere girmediği yerlerde de 298 sayılı Kanunun 25. maddesi ve 108. maddesinin ikinci fıkrası gereğince; a) Müşahit bulundurabileceklerine, b) Sayım, döküm ve birleştirme işlemlerini takip edebileceklerine ilişkin Yüksek Seçim Kurulunun 2019/1228 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78027/2019-1228.pdf",
+  "source_sha256": "d18c5837ed1c8d0c584638074a7001ff3b8dc2d769374a68e43beeba133a32ff",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-02-28",
+  "law_text_complete": false
+}
