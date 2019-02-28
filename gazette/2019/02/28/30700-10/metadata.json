@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-02-28",
+  "issue": "30700",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "CUMHURBAŞKANI KARARLARI",
+  "title": null,
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228-10.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228.htm",
+  "index_sha256": "fb4b5becf3c8b987ff8b85a85a472ed9d4dbe17d27cdd0e004f62025b9c93151",
+  "index_header": "28 Şubat 2019 ... 30700 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/02/20190228.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "title_withheld": "personal-data rule: the listed title names a private person; see the official link",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
