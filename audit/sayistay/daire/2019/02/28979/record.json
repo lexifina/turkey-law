@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "324",
+  "decision_date": "2019-02-28",
+  "source_id": 28979,
+  "chamber": "3",
+  "ilam_number": "122",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/28979/",
+  "source_sha256": "e74d1cc82c01a6237f2666411cfcadef7218540c772d275ce4cf01f71086a36c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
