@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-02",
+  "issue": "30702",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kayseri Üniversitesi Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190302-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190302.htm",
+  "index_sha256": "4904058c4b9569435ca640db7c43fa1fbf6e4acca9acd29ee315267d93b13f68",
+  "index_header": "2 Mart 2019 ... 30702 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190302.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
