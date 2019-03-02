@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31298",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BÜYÜK ENDÜSTRİYEL KAZALARIN ÖNLENMESİ VE ETKİLERİNİN AZALTILMASI HAKKINDA YÖNETMELİK",
+  "number": "31298",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı, Çevre ve Şehircilik Bakanı ve İçişleri Bakanı",
+  "issuer_slug": "aile-calisma-ve-sosyal-hizmetler-bakani-cevre-ve-sehircilik-bakani-ve-icisleri-bakani",
+  "path": "regulation/aile-calisma-ve-sosyal-hizmetler-bakani-cevre-ve-sehircilik-bakani-ve-icisleri-bakani/2019/31298",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31298&MevzuatTertip=5",
+  "source_sha256": "d35827f7498cda46eede04287d3e2ae2d3b27fcf9d3f8caaca4278bcb77b8a34",
+  "source_bytes": 65694,
+  "published": "2019-03-02",
+  "gazette": "30702",
+  "in_force": "2019-03-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.03.2019)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3607,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31298-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
