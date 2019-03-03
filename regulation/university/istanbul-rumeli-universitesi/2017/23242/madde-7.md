@@ -1,0 +1,2 @@
+Müdür
+MADDE 7 – (1) Müdür, Üniversitede idari veya akademik görev yapan kişiler arasından Rektörün teklifi ve Mütevelli Heyetinin onayı ile üç yıl için görevlendirilir. Görev süresi biten Müdür yeniden görevlendirilebilir. Müdürün teklifi ve Rektörün onayı ile üç yıl süre ile bir müdür yardımcısı görevlendirilebilir. Merkez Müdürü, görevi başında olmadığı zaman müdür yardımcısı kendisine vekâlet eder. Müdürün teklifi ile Rektör müdür yardımcısını değiştirebilir.

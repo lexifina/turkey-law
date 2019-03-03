@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-rumeli-universitesi/2017/23242",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-3/3/2019",
+  "first_law": null,
+  "gazette": "29949",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-03",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Rumeli Üniversitesi",
+  "issuer_slug": "istanbul-rumeli-universitesi",
+  "kind": "regulation",
+  "published": "2017-01-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23242&MevzuatTertip=5",
+  "source_id": "8.5.23242",
+  "source_sha256": "7a96a71ab407aa7e18ea3fadbfd58f74265810496ef587d0ecaac5ce758e7def",
+  "title": "İSTANBUL RUMELİ ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 462,
+  "version_label": "oldest version available",
+  "word_count": 715
+}
