@@ -1,0 +1,9 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Danışma Kurulu: Merkezin Danışma Kurulunu,
+b) Merkez (VYYÜİSGEM): Van Yüzüncü Yıl Üniversitesi İş Sağlığı ve Güvenliği Uygulama ve Araştırma Merkezini,
+c) Müdür: Merkezin Müdürünü,
+ç) Rektör: Van Yüzüncü Yıl Üniversitesi Rektörünü,
+d) Üniversite: Van Yüzüncü Yıl Üniversitesini,
+e) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.
