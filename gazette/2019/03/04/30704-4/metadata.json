@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-04",
+  "issue": "30704",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Van Yüzüncü Yıl Üniversitesi İş Sağlığı ve Güvenliği Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190304-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190304.htm",
+  "index_sha256": "e8e6112a8b6d3a98227af4e4e356fe388438c13bc3b3c45318e910757cfe64fa",
+  "index_header": "4 Mart 2019 ... 30704 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190304.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
