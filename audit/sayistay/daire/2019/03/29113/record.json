@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "154",
+  "decision_date": "2019-03-05",
+  "source_id": 29113,
+  "chamber": "8",
+  "ilam_number": "142",
+  "item_number": 4,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29113/",
+  "source_sha256": "ccbcc3447880d813f40073483d031f8a1e6b2576b53e37aca8ea5951667ad180",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
