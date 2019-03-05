@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10747",
+  "decision_date": "2019-03-05",
+  "source_id": 29439,
+  "chamber": "1",
+  "ilam_number": "151",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29439/",
+  "source_sha256": "a77b44b8d31dbabd7d311327853ef074e98a562fb47ac0363eb46d52ed39f17e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
