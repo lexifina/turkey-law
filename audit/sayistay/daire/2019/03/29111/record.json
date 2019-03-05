@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "154",
+  "decision_date": "2019-03-05",
+  "source_id": 29111,
+  "chamber": "8",
+  "ilam_number": "142",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29111/",
+  "source_sha256": "40f87309418588e21cda3a0d7888e8d27141d1e3c099ba29621423dd217daecd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
