@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "642",
+  "decision_date": "2019-03-05",
+  "source_id": 29102,
+  "chamber": "6",
+  "ilam_number": "125",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29102/",
+  "source_sha256": "abd2a439170a86174283220a00405b7e0111bf2ea0fd844bac145389e8a3c62c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
