@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45821",
+  "decision_date": "2019-03-06",
+  "source_id": 18625,
+  "chamber": "4",
+  "file_number": "41795",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18625/",
+  "source_sha256": "a8c7208199c6b760f40be0732598debf2f58b9f27d2287582c3b3c54af644679",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
