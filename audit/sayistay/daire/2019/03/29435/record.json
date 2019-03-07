@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "153",
+  "decision_date": "2019-03-07",
+  "source_id": 29435,
+  "chamber": "8",
+  "ilam_number": "160",
+  "item_number": 15,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29435/",
+  "source_sha256": "2fcd4a741a69b55bd8403d39e54f283e3fc400a2b1c3ec7ea1449fb6deef2020",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
