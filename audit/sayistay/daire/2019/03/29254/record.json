@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "191",
+  "decision_date": "2019-03-07",
+  "source_id": 29254,
+  "chamber": "4",
+  "ilam_number": "157",
+  "item_number": 19,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29254/",
+  "source_sha256": "94a5db4906436c2dd97acbd50c48a5cee7e563653b60f441b30d334777070bbf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
