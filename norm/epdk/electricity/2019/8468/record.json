@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8468",
+  "decision_date": "2019-03-07",
+  "title": "Dağıtım Lisansı Sahibi Tüzel Kişiler ve Görevli Tedarik Şirketlerinin Tarife Uygulamalarına İlişkin Usul ve Esaslarda Değişiklik Yapılması Hakkında Karar",
+  "resmi_gazete_date": "2019-03-14",
+  "resmi_gazete_number": "30714",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ywcdEttZqc0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ywcdEttZqc0="
+  ],
+  "source_sha256": "f51c6033843bcd8c2b2743dafe11e7b9bc08dc7dfc4250f787d2dc84e0c0fd62",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-03-07",
+  "law_text_complete": true
+}
