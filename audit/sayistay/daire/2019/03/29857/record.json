@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "346",
+  "decision_date": "2019-03-07",
+  "source_id": 29857,
+  "chamber": "7",
+  "ilam_number": "196",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29857/",
+  "source_sha256": "16456ec151c012e5e6bd48f1fce0e44a7e0c2bab7840a54f72dd1631b2bd2836",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
