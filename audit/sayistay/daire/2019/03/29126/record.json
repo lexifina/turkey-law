@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "327",
+  "decision_date": "2019-03-07",
+  "source_id": 29126,
+  "chamber": "3",
+  "ilam_number": "146",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29126/",
+  "source_sha256": "1bf301ebb4ac0839502274e721977225a2f362c2798c940cfd0cc5895099eddc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
