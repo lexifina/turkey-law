@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "191",
+  "decision_date": "2019-03-07",
+  "source_id": 29237,
+  "chamber": "4",
+  "ilam_number": "157",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29237/",
+  "source_sha256": "6157c1c79c3956344cad58991e254c3c1fcf99a57a67e1ed6ec1a766e4ac1094",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
