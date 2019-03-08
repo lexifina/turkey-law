@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, İslam İşbirliği Teşkilatı (İİT) Ekonomik ve Ticari İşbirliği Daimi Komitesi (İSEDAK) çalışmaları kapsamında gerçekleştirilen çok taraflı uluslararası organizasyonlar ve toplantıların yürütülmesine yönelik, Strateji ve Bütçe Başkanlığı İSEDAK ve Uluslararası Kalkınma İşbirliği Genel Müdürlüğü tarafından yurtiçinde ve/veya yurtdışında yerli ve/veya yabancı gerçek ve tüzel kişilerden yapılacak olan mal ve hizmet alımlarını kapsar.

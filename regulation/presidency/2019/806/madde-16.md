@@ -1,0 +1,3 @@
+Muayene ve kabul işlemleri
+MADDE 16- (1) Teslim alınan mal ile yapılan işin muayene ve kabul işlemleri için biri başkan olmak üzere en az üç kişilik komisyon oluşturulur ve bu komisyon Hizmet İşleri Kabul Tutanağını hazırlar. Muayene ve kabul komisyonu, piyasa fiyat araştırmasında görevli kişiler ile alım komisyonunda görevlendirilen kişilerle aynı olabilir ancak kontrol teşkilatında görevlendirilen kişilerle aynı olamaz.
+(2) Mal ve hizmet, yüklenici tarafından teslim edilmediği sürece muayene ve kabul işlemi yapılmaz. Ancak taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmi kabul yapılabilir. Kısmi kabul yapılması durumunda işin kabul edilen kısmı ile orantılı olarak ödeme yapılır.

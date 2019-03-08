@@ -1,0 +1,2 @@
+Piyasa fiyat araştırması
+MADDE 11- (1) Mal tedariki veya hizmet sunumunun piyasa fiyat araştırması yapılarak temin edilmesinin uygun görüldüğü hallerde, harcama yetkilisince görevlendirilen kişi veya kişiler tarafından alım konusu iş ile iştigal eden bir veya birden fazla firmadan fiyat teklifleri alınarak piyasa fiyat araştırması yapılır. Araştırma sonucu hazırlanan tutanak araştırmayı yapan kişi veya kişilerce imzalanır.

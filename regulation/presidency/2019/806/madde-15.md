@@ -1,0 +1,2 @@
+Kontrol teşkilatı
+MADDE 15- (1) Sözleşme imzalanan alımlarda, alıma konu işin yürütülmesi süresince inceleme yapmak ve işin kabule uygun bulunması halinde Hizmet İşleri Kabul Teklif Belgesi düzenlemek üzere en az iki kişiden oluşan kontrol teşkilatı kurulabilir. Kontrol teşkilatı tarafından, önemli ve işin fonksiyonelliğini engellediği için İdarenin ihtiyacını karşılama açısından kabul edilemez eksiklik veya kusurların bulunduğu tespit edilirse, durum harcama yetkilisine bildirilir ve kabul aşamasına geçilmez.

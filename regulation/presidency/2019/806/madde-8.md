@@ -1,0 +1,3 @@
+Alım dokümanı ve işlem dosyası
+MADDE 8- (1) Bu Usul ve Esaslar kapsamında yapılacak mal ve hizmet alımlarında; isteklilere talimatları içeren idari şartname, yapılacak işin mahiyetini tarif etmek üzere teknik şartname ve birim fiyat cetveli ile sözleşme tasarısı gibi alıma ilişkin dokümanlar hazırlanabilir. Yapılacak işin büyüklüğü ve organizasyon ve toplantıya kalan zaman dikkate alınarak, bu maddede geçen dokümanlardan birini, birkaçını veya hepsini düzenlemek İdarenin takdirindedir.
+(2) Alımı yapılacak iş için düzenlenecek işlem dosyasında; harcama yetkilisinden alınan harcama talimatı ve alım dokümanı, istekliler tarafından sunulan teklifler ve diğer belgeler, kurulmuşsa alım komisyonu tutanak ve kararları gibi alım süreci ile ilgili bütün belgeler bulunur.
