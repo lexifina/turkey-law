@@ -1,0 +1,21 @@
+{
+  "number": "41",
+  "number_as_published": "2019/41",
+  "year": 2019,
+  "title": "31.12.2018 tarih ve 38537 sayılı Başkanlık Oluru Doğrultusunda 12290 Ada 19 Parsele İlişkin Hazırlanan 1/1000 Ölçekli Kartal E-5 Kuzeyi Uygulama İmar Planı Değişikliği Teklifi",
+  "decision_date": "2019-03-08",
+  "source": "https://e-belediye.kartal.bel.tr/BilgiSorgulama/MeclisKarar",
+  "official_document": "https://yonsis.kartal.bel.tr/Dokumanlar/KurumsalSite/Upload/Document/MeclisKarar/2019-41..pdf",
+  "source_sha256": "f9eb3542d7179e66d6faf68447ef65f901db1a091b5db1a1fcd66648bdf9352a",
+  "issuer": "Kartal Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-03-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.03.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
