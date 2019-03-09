@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31310",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BORÇ VE RİSK YÖNETİMİNİN KOORDİNASYONU VE YÜRÜTÜLMESİNE İLİŞKİN ESAS VE USULLER HAKKINDA YÖNETMELİK",
+  "number": "31310",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2019/31310",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31310&MevzuatTertip=5",
+  "source_sha256": "a031cfe21f714fe5328fdedb5480c0b4cd5590d6b77349dfaf5122b3a89de5ea",
+  "source_bytes": 41665,
+  "published": "2019-03-09",
+  "gazette": "30709",
+  "in_force": "2019-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1119,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
