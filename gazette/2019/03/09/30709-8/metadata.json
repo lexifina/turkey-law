@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-09",
+  "issue": "30709",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2019/10)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190309-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190309.htm",
+  "index_sha256": "ecfd1687aabfd939b6a6fc4d5f53a609d59bc1f180c5de110fdf9273e2734c41",
+  "index_header": "9 Mart 2019 ... 30709 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190309.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
