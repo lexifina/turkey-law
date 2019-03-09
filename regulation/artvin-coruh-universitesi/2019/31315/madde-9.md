@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 9 – (1) Yönetim Kurulu üyeleri arasından Müdürün önerisi üzerine en fazla iki müdür yardımcısı Rektör tarafından üç yıl süre için görevlendirilir. Müdürün görev süresi sona erdiğinde müdür yardımcılarının da görevi sona erer. Gerekli görüldüğü takdirde aynı usulle müdür yardımcıları değiştirilebilir. Müdürün görevi başında bulunmadığı durumlarda, belirlediği müdür yardımcısı altı ayı aşmamak kaydıyla Müdüre vekâlet eder.
