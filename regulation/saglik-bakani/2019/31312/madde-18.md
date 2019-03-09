@@ -1,0 +1,5 @@
+Ciddi advers reaksiyonların bildirimi
+MADDE 18 – (1) Destekleyici, araştırma sırasında ortaya çıkan ciddi advers reaksiyonlar hakkında, söz konusu bilgilerin kendisine ulaşmasından itibaren yedi günü geçmeyecek şekilde etik kurulu ve Genel Müdürlüğü bilgilendirir. Bu vakalar hakkındaki ek bilgileri içeren izleme raporlarını, kendisine ulaşmasından itibaren sekiz gün içerisinde etik kurula ve Genel Müdürlüğe iletir.
+(2) Diğer beklenmeyen ciddi advers reaksiyonların tamamı, etik kurula ve Genel Müdürlüğe destekleyici tarafından, ilk bilginin edinilmesini takiben en fazla on beş gün içerisinde bildirilir.
+(3) Destekleyici, ayrıca tüm araştırmacıları ve sorumlu araştırmacıyı bilgilendirir.
+(4) Destekleyici, araştırma süresince görülen beklenmeyen ciddi advers reaksiyonların tamamının listesini, gönüllü güvenliği ile ilgili bilgileri de içerecek biçimde, yılda bir kez, Genel Müdürlükçe yayımlanacak ilgili kılavuzlarda yer alan ara rapor formu ile birlikte etik kurula ve Genel Müdürlüğe bildirir. Genel Müdürlük, gerekli gördüğü durumlarda daha kısa sürelerde de rapor isteyebilir.

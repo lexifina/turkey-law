@@ -1,0 +1,6 @@
+Araştırmaların durdurulması veya sonlandırılması
+MADDE 13 – (1) Genel Müdürlük, araştırmanın yürütülmesi sırasında araştırmaya izin verilirken mevcut olan şartlardan birinin veya birkaçının ortadan kalktığını tespit ederse araştırmayı derhal durdurur. Bu şartların belirlenen süre içerisinde yerine getirilmemesi veya yerine getirilmesinin mümkün olmadığının anlaşılması ya da bu süre zarfında gönüllü sağlığının tehlikeye girmesi hâllerinde araştırma doğrudan sonlandırılır.
+(2) Gönüllüler için doğrudan bir risk içermeyen durumlarda, destekleyicinin veya sorumlu araştırmacının konu ile ilgili görüşleri istenebilir. Bu durumda destekleyici veya sorumlu araştırmacı konuyla ilgili görüşlerini on beş iş günü içerisinde Genel Müdürlüğe gönderir.
+(3) Destekleyici, araştırmayı tamamlanmadan durdurmuş ise, sebepleri ile birlikte durdurma kararını, çalışmaya alınmış olan gönüllülerin tedavisinin idamesine ilişkin tedbirleri içeren bilgi yazısını da ekleyerek on beş iş günü içerisinde Genel Müdürlüğe bildirir.
+(4) Destekleyici, araştırmanın bitmesinden itibaren altmış iş günü içerisinde araştırmanın sonlandığını Genel Müdürlüğe bildirir.
+(5) Klinik araştırma ile ilgili olarak verilmiş durdurma veya sonlandırma kararı, gerekçesi ile birlikte destekleyiciye ve sorumlu araştırmacıya bildirilir.

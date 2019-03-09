@@ -1,0 +1,2 @@
+Etik kurul onayına itiraz
+MADDE 28 – (1) 13/4/2013 tarihli ve 28617 sayılı Resmî Gazete’de yayımlanan İlaç ve Biyolojik Ürünlerin Klinik Araştırmaları Hakkında Yönetmelikte belirtilen ve Türkiye İlaç ve Tıbbi Cihaz Kurumu nezdinde teşkil olunan Klinik Araştırmalar Danışma Kurulu, Genel Müdürlüğün talebi durumunda, bu Yönetmelik hükümlerine tabi tüm klinik araştırmalarda etik kurul onaylarına yapılacak itirazlar ve klinik araştırmanın taraflarınca Türkiye İlaç ve Tıbbi Cihaz Kurumuna iletilen ve uzmanlık görüşü gerektiren hususlarda görüş bildirir.

@@ -1,0 +1,2 @@
+Eğitim
+MADDE 30 – (1) Genel Müdürlük, Yönetmelik kapsamındaki araştırmaların iyi klinik uygulamaları ve klinik araştırmaları konularında eğitim almış nitelikli sorumlu araştırmacı veya araştırmacı, sağlık personeli ve bu alanda çalışan diğer kişilerin yetiştirilmesi amacıyla kurslar veya seminerler düzenleyebilir ya da Genel Müdürlük tarafından yayınlanacak kılavuz gereğince düzenlemek isteyen kurum ya da kuruluşlara düzenleme yetkisi verir.

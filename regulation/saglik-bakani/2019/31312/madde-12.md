@@ -1,0 +1,11 @@
+DÖRDÜNCÜ BÖLÜM
+Araştırmaların Başlatılması, Yürütülmesi, Durdurulması ve Sonlandırılması
+Araştırmaların başlatılması ve yürütülmesi
+MADDE 12 – (1) Bu Yönetmelik kapsamındaki araştırmaların başlatılabilmesi için etik kurul onayı ve Genel Müdürlük izni alınması zorunludur. Etik kurul onayı olmayan araştırma başvurularına Genel Müdürlük izni verilmez.
+(2) Araştırmalar aşağıdaki şekilde yürütülür:
+a) Bu Yönetmelik kapsamındaki klinik araştırmalar, sorumlu araştırmacının başkanlığında, araştırmanın niteliğine uygun bir ekiple yürütülür.
+b) Araştırmanın yürütülmesi sırasında meydana gelen değişikliklerden bildirim niteliğinde olanlar ile etik kurul onayı ve Genel Müdürlük izni gerektirenler İyi Klinik Uygulamaları Kılavuzu ile belirlenir.
+c) (b) bendinde belirtilen hususlar saklı kalmak kaydıyla, destekleyici veya sorumlu araştırmacı ya da hekim veyahut diş hekimi olan bir araştırmacı, araştırmanın yürütülmesi sırasında veya araştırma ürünü geliştirilmesiyle ilgili gönüllü güvenliğini etkileyebilecek yeni bir durumun ortaya çıkması hâlinde, bu tehlikelere karşı gönüllüleri koruyacak gerekli acil güvenlik tedbirlerini alır. Sorumlu araştırmacı veya destekleyici bu yeni durum ve alınan tedbirler hakkındaki bilgileri beş iş günü içinde Genel Müdürlüğe bildirmek zorundadır. Bildirim yapılmadığı durumlarda Genel Müdürlük araştırmayı durdurur.
+ç) Araştırma, Genel Müdürlük tarafından izin verilmesine rağmen başvuru dosyasında belirtilen tarihte başlatılamamış ise başlatılamama sebepleri altmış iş günü içerisinde Genel Müdürlüğe bildirilir.
+d) Sorumlu araştırmacı, başka kurumlardan uygun nitelikleri haiz yardımcı araştırmacıları, hasta emniyeti açısından gerekli şartların ve tedbirlerin sağlanması amacıyla araştırma ekibine dâhil edebilir ve bunu başvuru formunda belirtir.
+e) Destekleyici, yazılı sözleşme yapmak ve Genel Müdürlüğe bilgi vermek şartıyla, kendi görevlerinin bir kısmını bilimsel esaslara ve iyi klinik uygulamalarına uygun şekilde çalışan sözleşmeli araştırma kuruluşuna devredebilir. Görevlerin sözleşmeli araştırma kuruluşuna devredilmesi, destekleyicinin devredilen hususlara dair muhtemel hukuki ve cezai sorumluluğunu ortadan kaldırmaz. Destekleyici ve sözleşmeli araştırma kuruluşu, sözleşme konusu işlerin ve işlemlerin sonuçlarından birlikte sorumludurlar.
