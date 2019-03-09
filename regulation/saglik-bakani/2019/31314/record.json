@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.31314",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HALK SAĞLIĞI HİZMETLERİNE YÖNELİK LABORATUVARLARIN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "31314",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2019/31314",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31314&MevzuatTertip=5",
+  "source_sha256": "b466079a908c23504801a16350a544662b8287c20f1140e0b2be87bf514da1f2",
+  "source_bytes": 154014,
+  "published": "2019-03-09",
+  "gazette": "30709",
+  "in_force": "2019-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4448,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31314-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
