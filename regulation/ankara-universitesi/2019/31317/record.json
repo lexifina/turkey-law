@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-03-10",
+      "10.03.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30710",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2019/31317",
+  "published": "2019-03-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31317&MevzuatTertip=5",
+  "source_bytes": 27241,
+  "source_id": "8.5.31317",
+  "source_sha256": "44c817a0504e1bc2587fc3698354dabd13fe2c1bf5902d8c246198364d8b7d5a",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ OTİZM UYGULAMA VE ARAŞTIRMA \r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 1010
+}
