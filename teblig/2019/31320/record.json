@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31320",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TURİZMİ TEŞVİK KANUNU HÜKÜMLERİ UYARINCA VERİLEN İDARİ PARA CEZALARININ TEBLİGATININ ELEKTRONİK ORTAMDA YAPILMASINA İLİŞKİN TEBLİĞ",
+  "number": "31320",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2019/31320",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31320&MevzuatTertip=5",
+  "source_sha256": "95a004dab7e07303db920a48237ff110cdfdc9374567c4eb9e010e3a975843a5",
+  "source_bytes": 16404,
+  "published": "2019-03-10",
+  "gazette": "30710",
+  "in_force": "2019-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 593,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
