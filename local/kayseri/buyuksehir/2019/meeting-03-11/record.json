@@ -1,0 +1,23 @@
+{
+  "number": "meeting-03-11",
+  "number_as_published": null,
+  "year": 2019,
+  "title": "11 Mart 2019 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2019-03-11",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/11-mart-2019-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads/pdf/meclis_karar_ozetleri/karar_ozet_11.03.2019.pdf",
+  "source_sha256": "57eceb88abffab081fa7ff8eee07fab2020b6c0c16c5ef98cbd8d036fd831a59",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Mart 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=7"
+}
