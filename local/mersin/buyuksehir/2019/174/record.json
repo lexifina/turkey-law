@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "174",
+  "decision_date": "2019-03-11",
+  "title": "MEC.KAR. (SİLİFKE TOSMURLU 334 PARSEL).doc",
+  "listed_as": "174 MEC.KAR. (SİLİFKE TOSMURLU 334 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/174-meckar-silifke-tosmurlu-334-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-mart-2019-meclis-kararlari",
+  "listing_sha256": "3f83024951f0b9cd90124d48e8ebfc4542320f45a203a54377f0bc2524a79f57",
+  "meeting_title": "11 MART 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
