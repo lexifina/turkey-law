@@ -1,0 +1,2 @@
+Ekipman ve demirbaşlar
+MADDE 14 – (1) Merkez; gerekli laboratuvar ve cihazları, tohumluk depoları, iklim odaları, arazi, sera altyapısını ve sarf harcamalarını Rektörlük tarafından sağlanacak destek ile temin eder. Ayrıca Merkez, ulusal ve uluslararası kurum ve kuruluşlara araştırma projeleri sunarak ve ücreti karşılığında hizmet vererek Merkezin işleyişine katkı sağlamaya çalışır. Merkez tarafından yürütülen araştırmalar kapsamında alınan her türlü alet, ekipman ve demirbaş Merkezin ve gerektiğinde Üniversitenin kullanımına tahsis edilir.
