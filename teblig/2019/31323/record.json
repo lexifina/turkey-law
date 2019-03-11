@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31323",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PATATES İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "31323",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/31323",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31323&MevzuatTertip=5",
+  "source_sha256": "54887a122e4a39b7cd401590c7f4eef9b63e6c519b16e8e81a7307183a8e9a9f",
+  "source_bytes": 13285,
+  "published": "2019-03-11",
+  "gazette": "30711",
+  "in_force": "2019-03-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.03.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 371,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
