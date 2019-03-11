@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67854564-105[1741-5900]-E.85307",
+  "source_id": 27071,
+  "date": "2019-03-11",
+  "title": "Sigorta acentesi tarafından müşteri poliçesinin ödenmesi ve müşteriden tahsil edilememesi halide şüpheli ticari alacak karşılığı ayrılıp gider yazılmasının mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27071",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "6a4de69c79326dae83f658274d2c23a53a3abef68b153caa00c8691f5ea2acd4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
