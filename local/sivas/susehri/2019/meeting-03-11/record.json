@@ -1,0 +1,27 @@
+{
+  "number": "meeting-03-11",
+  "number_as_published": "meeting-03-11",
+  "year": 2019,
+  "title": "11.03.2019 tarihli meclis kararları",
+  "decision_date": "2019-03-11",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=41",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2019/2019-03-11.doc",
+  "source_sha256": "bf0912632c5b147207da7b2bcb7cf69ecc3358df72f796666bff21b617b31be4",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.03.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "11.03.2019 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=41",
+  "item_title": "2019 Mart",
+  "file_label": "2019-03-11",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
