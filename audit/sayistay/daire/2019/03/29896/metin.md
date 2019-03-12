@@ -1,0 +1,9 @@
+Personel Çalıştırmaya Dayalı Hizmet Alımı
+
+Denetçi tarafından düzenlenen sorguda…. Ltd. Şti.’ne ihale edilen “..... Belediyesi Dört Müdürlüğe ait 362 personel ve 19 araçla personel çalıştırmaya dayalı hizmet alımı” işi kapsamında; idarenin misyon ve vizyonuna uygun çalışmaları yerine getirme, ÇED raporu hazırlama, uygulamada görülen eksikliklerin giderilmesine yönelik çalışma ile eğitimler yapma gibi genel nitelikli görevleri yerine getirmek üzere “Başkan Danışmanı” unvanı altında hizmet alımı suretiyle personel çalıştırılması sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+Yargı Raporuna konu “..... Belediyesi Dört Müdürlüğe ait 362 personel ve 19 araçla personel çalıştırmaya dayalı hizmet alımı” işinin dahilinde danışman unvanlı personel çalıştırılmasıdır. Mevzuatta kamu kurumlarının ihtiyaç duyduğu hizmetleri ihale kapsamında alması esnasında, hizmete ilişkin unvanın norm kadroda sayılması gibi bir şart bulunmamaktadır.
+
+Kamu İhale Genel Tebliğinin “Hizmet alımı ihalesiyle gerçekleştirilecek danışmanlık hizmeti alımları” başlıklı 84’üncü maddesinde; “84.1. 4734 sayılı Kanunun 48 inci maddesinin ikinci fıkrası uyarınca, yaklaşık maliyeti 4734 sayılı Kanunun 13 üncü maddesinin (b) bendinin (2) numaralı alt bendinde hizmet alımları için öngörülen üst limit tutarının dört katının altında kalan danışmanlık hizmetleri, Hizmet Alımı İhaleleri Uygulama Yönetmeliğine göre gerçekleştirilebilecektir.” hükmüne yer verilmiştir. İhalenin danışmanlık kısmına ilişkin olan …. TL tutarının anılan limit altında kalmıştır. Bahse konu “Başkan Danışmanı” temininde, Danışmanlık Hizmet Alımı İhaleleri Uygulama Yönetmeliği’nin uygulanmasının zorunluluğu da yoktur.
+
+Bu itibarla, ..... Belediyesi tarafından hizmet alımı suretiyle personel çalıştırılması işi için ödenen …. TL için ilişilecek husus bulunmadığına oy birliğiyle karar verildi.
