@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "645",
+  "decision_date": "2019-03-12",
+  "source_id": 29893,
+  "chamber": "6",
+  "ilam_number": "193",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29893/",
+  "source_sha256": "f92940cdff709371409b0a6017a6e383b22820178f1f6651a85b04244d412d13",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
