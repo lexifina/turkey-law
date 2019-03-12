@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "645",
+  "decision_date": "2019-03-12",
+  "source_id": 29889,
+  "chamber": "6",
+  "ilam_number": "193",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29889/",
+  "source_sha256": "02f97c9ebefaaa193817f6b383169c63fd190ff57b0d5bd70faab576f9d9fa8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
