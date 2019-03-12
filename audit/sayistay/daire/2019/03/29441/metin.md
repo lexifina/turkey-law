@@ -1,0 +1,5 @@
+ 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre geçici olarak başka kurumda görevlendirilen İktisadi ve İdari Bilimler Fakültesinde görevli öğretim üyesine eğitim öğretim ödeneği ödenmesi.
+
+İktisadi ve İdari Bilimler Fakültesinde görevli öğretim üyesi …’e, 2547 sayılı Yükseköğretim Kanununun 38 inci maddesine göre geçici olarak … Kalkınma Ajansı Genel Sekreterliğinde görevlendirilmesine rağmen eğitim öğretim ödeneği ödenmesi sonucu … TL kamu zararına sebebiyet verilmesi sorgu konusu edilmişse de, savunma ekinde gönderilen belgelerden söz konusu kişinin … Üniversitesi Sosyal Bilimler Enstitüsünde yüksek lisans ve doktora dersleri verdiği, danışmanlık yaptığı; özetle, Üniversitedeki kadro görevlerini yerine getirdiği görüldüğünden hesap ve işlemlerin yasal düzenlemelere uygun olduğuna,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
