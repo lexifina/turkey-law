@@ -1,0 +1,5 @@
+Sosyal Tesislerde görevli bir personelin kullanımda olan cep telefonu faturasının ödenmesi.
+
+… Üniversitesi Sosyal Tesislerinde görevli …’in kullandığı cep telefonu faturalarının Sosyal Tesisler Müdürlüğü bütçesinden ödenmesi, 2007/3 nolu Tasarruf Tedbirleri Genelgesinin “Haberleşme Giderleri” başlıklı bölümünde yer alan “Cep telefonları sadece EK-II cetvelin 1’inci sırasında belirtilen makam ve hizmetler ile 2’nci sırasında yer alan makamlar için tahsis edilebilecektir. Ancak, II sayılı cetvelin 2’nci sırasındaki makamlar dışında, zorunlu görülen hizmetler için cep telefonu tahsisi bağlı veya ilgili/ilişkili Bakan onayı ile yapılabilecektir.” Hükmüne aykırılık teşkil etse de kamu zararı tutarı olan … TL’nin … tarih ve … nolu muhasebe işlem fişi ile tahsil edildiği görüldüğünden konu hakkında ilişik kalmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
