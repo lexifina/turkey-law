@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.27.40.01-125[17-515-78]-17126",
+  "source_id": 28262,
+  "date": "2019-03-13",
+  "title": "Sermaye artırımının indirim konusu yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28262",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "85c1f7b88e857bbb7c73735f05872047c32146a5b2c1a5d6ee6ed36826fe7ce0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
