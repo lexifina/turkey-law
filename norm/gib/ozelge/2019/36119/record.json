@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-140-8985",
+  "source_id": 36119,
+  "date": "2019-03-13",
+  "title": "18/01/2016 tarihinde unvan değiştiren ve adına tapuda tescil işlemi yapılan şirkete ait taşınmaz üzerine 22/05/2014 tarihli riskli yapı şerhinden dolayı inşa edilen bağımsız bölümlerin devrine ilişkin tapuda yapılacak işlemlerden 6306 sayılı Kanun kapsamında harç aranılıp aranılmayacağı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36119",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1c1f7a5604eb6c305694dd3bd3e1e1f0e04fa7a12d6145a55342ba915b5efbcb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
