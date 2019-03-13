@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45835",
+  "decision_date": "2019-03-13",
+  "source_id": 18791,
+  "chamber": "7",
+  "file_number": "44046",
+  "account_year": "2016",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18791/",
+  "source_sha256": "b1c9dac5a8b348fd65a62f7844e01220a30e47bb2baf06c7e718097221b29439",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
