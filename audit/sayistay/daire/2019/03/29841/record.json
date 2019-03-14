@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "646",
+  "decision_date": "2019-03-14",
+  "source_id": 29841,
+  "chamber": "6",
+  "ilam_number": "191",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29841/",
+  "source_sha256": "2d1b89353e11e15ef5e9a65394a329802842f043713dadb35316a04099efa063",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
