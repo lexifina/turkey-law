@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "audit",
+  "document_type": "board-decision",
+  "number": "8487-6",
+  "decision_date": "2019-03-14",
+  "title": "5307 sayılı Sıvılaştırılmış Petrol Gazları (LPG) Piyasası Kanunu’nun 17 nci Maddesinin İkinci Fıkrasının (a) Bendi Uyarınca Kurul tarafından belirlenen Niteliği İtibarıyla Düzeltme İmkanı Olan Fiiller Listesi",
+  "categories": [
+    "Petrol ve LPG Piyasalarına İlişkin Niteliği İtibarıyla Düzeltme İmkanı Olan Fiiller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ea9vydZxrOY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ea9vydZxrOY="
+  ],
+  "source_sha256": "8d51c961b1dc8b6c7ede6f60e7bd9deacd0294f155a913ef718b11b4f757f400",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-136/kurul-kararlari",
+  "official_list_leaf": 17048,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-03-14",
+  "law_text_complete": true
+}
