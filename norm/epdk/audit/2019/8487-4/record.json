@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "audit",
+  "document_type": "board-decision",
+  "number": "8487-4",
+  "decision_date": "2019-03-14",
+  "title": "5015 sayılı Petrol Piyasası Kanununun 19 uncu maddesinin değiştirilmesine ilişkin 14.02.2019 tarihli ve 7164 sayılı Maden Kanunu ile Bazı Kanunlarda ve Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanunun 32 nci maddesi uyarınca, Kurul tarafından hakkında idari para cezası uygulanan kişi tarafından ilgili vergi dairesine dava açma süresi içerisinde sunulan teminat mektubuna ilişkin",
+  "categories": [
+    "Petrol ve LPG Piyasalarına İlişkin İlgili Vergi Dairelerine Sunulacak Teminat Mektubu"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nVHxa4L75w8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nVHxa4L75w8="
+  ],
+  "source_sha256": "d28b492021856f354997bc8e72a109aa2b1e1b1e0dedd7ed4a877803d9d8cd79",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-136/kurul-kararlari",
+  "official_list_leaf": 21345,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-03-14",
+  "law_text_complete": true
+}
