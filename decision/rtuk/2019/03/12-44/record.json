@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2019/12",
+  "meeting_date": "2019-03-14",
+  "meeting_date_as_published": "14.3.2019",
+  "decision_no": "44",
+  "source_id": 11478,
+  "title": "RTÜK kararı 2019/12-44",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/11478",
+  "source_sha256": "4c92012d537ee60aa210935ed789bfee252e59580538ebc90d91cb46d523f707",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
