@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "audit",
+  "document_type": "board-decision",
+  "number": "8487-3",
+  "decision_date": "2019-03-14",
+  "title": "5015 sayılı Petrol Piyasası Kanunu’nun 20 nci Maddesinin İkinci Fıkrasının (a) Bendi Uyarınca Kurul tarafından Belirlenen Niteliği İtibarıyla Düzeltme İmkânı Olan Fiiller Listesi",
+  "categories": [
+    "Petrol ve LPG Piyasalarına İlişkin Niteliği İtibarıyla Düzeltme İmkanı Olan Fiiller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Rg9HZBIsljc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Rg9HZBIsljc="
+  ],
+  "source_sha256": "11f10934d32059eaaffb280731214c9984d21f8a8fc31851a95942da20b50dd8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-136/kurul-kararlari",
+  "official_list_leaf": 17048,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-03-14",
+  "law_text_complete": true
+}
