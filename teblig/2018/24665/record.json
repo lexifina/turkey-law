@@ -1,0 +1,37 @@
+{
+  "source_id": "9.5.24665",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 303)",
+  "number": "24665",
+  "issuer": "Maliye Bakanı",
+  "path": "teblig/2018/24665",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24665&MevzuatTertip=5",
+  "source_sha256": "0a71fa4c8e48122f96d8ace068246ba2d7964f546dfc1d5483df71216e956b07",
+  "source_bytes": 69418,
+  "published": "2018-06-11",
+  "gazette": "30448",
+  "in_force": "2019-03-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/3/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-03-15",
+      "RG-15/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4366,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
