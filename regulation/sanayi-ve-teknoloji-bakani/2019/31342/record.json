@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31342",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YERLEŞİM ALANI İÇERİSİNDE KALAN SANAYİ SİTELERİ İLE SANAYİ İŞLETMELERİNİN DÖNÜŞÜM VE GELİŞİM PROJELERİNİN KREDİLENDİRİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "31342",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2019/31342",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31342&MevzuatTertip=5",
+  "source_sha256": "696364cdfc30eb6baadc844f548b49981cf0711b7ebd9bf069b399528967e388",
+  "source_bytes": 71235,
+  "published": "2019-03-15",
+  "gazette": "30715",
+  "in_force": "2019-03-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.03.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1900,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

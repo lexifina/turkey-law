@@ -1,0 +1,6 @@
+Hakediş raporları ve kabul işlemleri
+MADDE 9 – (1) Sözleşme esaslarına göre gerçekleştirilen imalat ve ihzaratlar karşılığı kontrol teşkilatı tarafından hazırlanan hakediş raporları sanayi sitesi yapı kooperatiflerince kredi kullanılması durumunda sanayi sitesi yapı kooperatifince onaylandıktan sonra, Bakanlık tarafından kredilendirilme açısından seviye tespiti yapılır.
+(2) İdarelerce kredi kullanılması durumunda idare yetkili organınca onaylanan hakediş Bakanlık tarafından kredilendirilme açısından seviye tespiti yapılmadan kredilendirilir.
+(3) Sanayi sitesi inşaatlarının kabul işlemleri, sanayi sitesi yapı kooperatiflerince kredi kullanılması durumunda sanayi sitesi yapı kooperatifi, idarelerce kredi kullanılması durumunda idare tarafından oluşturulacak komisyon marifetiyle yapılıp onaylandıktan sonra bir nüshası Bakanlığa bilgi için gönderilir.
+(4) Sanayi işletmesinin taşınmasına ilişkin masraflar, taşınma işinin gerçekleşmesi sonrasında Bakanlığa iletilen fatura karşılığında kredilendirilir.
+(5) Sanayi sitelerinin taşınması durumunda ise sanayi sitesi yapı kooperatifince veya idarece taşınma işlerinin tamamını kapsayacak bir sözleşme kapsamında yaptırılan işlerin faturası kredi desteği sağlanması için Bakanlığa iletilir.
