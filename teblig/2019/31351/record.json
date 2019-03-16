@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31351",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI, TESİS VE ONARIM İŞLERİ İHALELERİNDE KULLANILAN MÜTEAHHİTLİK KARNELERİ VE İŞ BİTİRME BELGELERİNİN 2019 YILINA AİT DEĞERLENDİRME KATSAYILARI HAKKINDA TEBLİĞ",
+  "number": "31351",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2019/31351",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31351&MevzuatTertip=5",
+  "source_sha256": "ca525ce5292f6b0169d6cb14a4500f465fb36316e095e7714d8dc7f113dac9c8",
+  "source_bytes": 70448,
+  "published": "2019-03-16",
+  "gazette": "30716",
+  "in_force": "2019-03-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.03.2019); own commencement article: \"Bu Tebliğ 1/1/2019 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 327,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
