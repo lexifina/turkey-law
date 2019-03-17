@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2015-01-07",
+      "07.01.2015",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-03-17",
+      "RG-17/3/2019-30717",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-12-17",
+      "RG-17/12/2017-30273",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-12-17",
+      "RG-17/12/2017-30273",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-12-17",
+      "17/12/2017",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2019-03-17",
+      "17/3/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/3/2019-30717",
+  "first_law": null,
+  "gazette": "29229",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2015/20425",
+  "published": "2015-01-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20425&MevzuatTertip=5",
+  "source_bytes": 22537,
+  "source_id": "8.5.20425",
+  "source_sha256": "a35e0f7c39587403716f3e030645a5f32f992d726a541cf2fd9de2a64a6dc036",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ DENİZ HUKUKU UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 767
+}
