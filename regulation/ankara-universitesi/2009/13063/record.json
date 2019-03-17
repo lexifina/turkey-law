@@ -1,0 +1,109 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2009-05-21",
+      "21.05.2009",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2009-07-06",
+      "RG-6/7/2009-27280",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2009-07-06",
+      "RG-6/7/2009-27280",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2009-07-06",
+      "RG-6/7/2009-27280",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-03-17",
+      "RG-17/3/2019-30717",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-11-09",
+      "RG-9/11/2018-30590",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2009-07-06",
+      "6/7/2009",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2010-03-05",
+      "5/3/2010",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2011-08-15",
+      "15/8/2011",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2013-06-25",
+      "25/6/2013",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-10-06",
+      "6/10/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2018-11-09",
+      "9/11/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2019-03-17",
+      "17/3/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/3/2019-30717",
+  "first_law": null,
+  "gazette": "27234",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2009/13063",
+  "published": "2009-05-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=13063&MevzuatTertip=5",
+  "source_bytes": 39270,
+  "source_id": "8.5.13063",
+  "source_sha256": "a9d09ce97ab24bcf6c617d3342bcd206ad4d754bfff425fc0c425c22fc6fa4e7",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ BEYİN ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 868
+}
