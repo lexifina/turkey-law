@@ -1,0 +1,2 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu; bu Yönetmelikte belirtilen çalışma alanlarında bilgi, deneyim ve eser sahibi uzman bilim insanları ve bu alanla ilgili çalışmalarda bulunan kurum temsilcilerinden oluşur. Danışma Kurulu, Yönetim Kurulunun önerisi üzerine Rektör tarafından iki yıl için görevlendirilen en çok on üyeden oluşur. Danışma Kurulu; Müdürün yazılı daveti üzerine yılda en az bir kez toplanır ve salt çoğunluk aranmadan öneri niteliğinde kararlar alır.
