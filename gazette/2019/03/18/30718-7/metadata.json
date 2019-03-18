@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-18",
+  "issue": "30718",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sivas Cumhuriyet Üniversitesi Turizm Fakültesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190318-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190318.htm",
+  "index_sha256": "e81f609827a7eb92935a15d6dde11997c0eb7193230620c39585886260736ad0",
+  "index_header": "18 Mart 2019 ... 30718 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190318.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
