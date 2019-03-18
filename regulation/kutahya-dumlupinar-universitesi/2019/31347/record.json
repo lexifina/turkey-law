@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-03-18",
+      "18.03.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30718",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2019/31347",
+  "published": "2019-03-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31347&MevzuatTertip=5",
+  "source_bytes": 27241,
+  "source_id": "8.5.31347",
+  "source_sha256": "6432785b8e2f35bd8bd1e88a480a94855e8e321e3e993236036b1bbf36ba2697",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ GELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET KURABİLMELERİ İLE TEKNOLOJİ TRANSFER OFİSİ ŞİRKETLERİNDE GÖREVLENDİRİLMELERİNE\r\nDAİR YÖNETMELİK",
+  "university_id": 190,
+  "word_count": 1450
+}
