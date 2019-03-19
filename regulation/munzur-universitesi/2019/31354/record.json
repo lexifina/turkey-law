@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-03-19",
+      "19.03.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30719",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2019/31354",
+  "published": "2019-03-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31354&MevzuatTertip=5",
+  "source_bytes": 30368,
+  "source_id": "8.5.31354",
+  "source_sha256": "a8ddbcc8f52c1ea7251f1e92860c43e62df499eb915b47c1208364b90e7249f7",
+  "text_status": "as-enacted",
+  "title": "MUNZUR ÜNİVERSİTESİ NADİR TOPRAK ELEMENTLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 1258
+}
