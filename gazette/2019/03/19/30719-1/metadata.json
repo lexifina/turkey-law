@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-19",
+  "issue": "30719",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Munzur Üniversitesi Nadir Toprak Elementleri Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190319-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190319.htm",
+  "index_sha256": "c1ca7e7a634d07b0102911d83a8f12a16038093e71f549c49beed796b1b29335",
+  "index_header": "19 Mart 2019 ... 30719 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190319.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
