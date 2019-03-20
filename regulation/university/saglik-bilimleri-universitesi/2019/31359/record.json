@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/saglik-bilimleri-universitesi/2019/31359",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30720",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-20",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Sağlık Bilimleri Üniversitesi",
+  "issuer_slug": "saglik-bilimleri-universitesi",
+  "kind": "regulation",
+  "published": "2019-03-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31359&MevzuatTertip=5",
+  "source_id": "8.5.31359",
+  "source_sha256": "51522484e8b183eb053b925649f2291af941d59d8933b3441fd4f70d2b59728d",
+  "title": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ GÜLHANE DİŞ HEKİMLİĞİ SAĞLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 454,
+  "version_label": "oldest version available",
+  "word_count": 1318
+}
