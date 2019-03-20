@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45876",
+  "decision_date": "2019-03-20",
+  "source_id": 18727,
+  "chamber": "8",
+  "file_number": "42620",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18727/",
+  "source_sha256": "a242b056fa199b6bf53289320d5bbf52a84877087047beb5f566749705be395e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
