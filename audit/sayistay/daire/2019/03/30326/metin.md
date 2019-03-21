@@ -1,0 +1,23 @@
+Gecikme Cezası
+
+Denetçi tarafından “… Tramvay Aracı Temini ve İşletmeye Alınması” işinde sözleşmeye uygun olarak zamanında teslim edilmeyen kısımlar için gecikme cezası uygulanmaması suretiyle kamu zararına neden olunduğunu iddia edildiği görülmüşse de, dosya kapsamındaki bilgi ve belgelerin incelenmesi ve duruşmaya katılan sorumluların sözlü açıklamalarının dinlenmesi sonucunda;
+
+İşe ait sözleşmenin “Teslim Programı ve Teslim Tarihi” başlıklı 10.3. maddesinde HRS araçları (Hafif Raylı Sistem) ve Tramvay araçları için teslim alma programı yer almaktadır. Ayrıca aynı madde de; “İşletime alma sertifikasının onaylandığı tarih, idareye teslim tarihi olarak kabul edilecektir. İş programı teslim alma programına uygun şekilde düzenlenecektir. Madde 34.2 de belirtilen gecikme cezası yukarıdaki teslim programında her bir ara teslimde yaşanabilecek gecikme durumunda da uygulanacaktır”
+
+Teknik Şartnamenin 15’inci maddesinde; “Yapılacak Tip testleri ve Rutin Testlerden ve kontrollerden başarı ile geçen her bir araç sözleşmede belirtilen İdarenin tesislerinde raya indirildikten sonra, nakliye sonrası statik test, kontrol ve ayarlar Yüklenici tarafından yapılacaktır. Yüklenici, statik kontrol test ve ayarları tamamlanan aracın, İdare sahasındaki hatlarda yapılacak dinamik testlere hazır olduğunu yazılı olarak beyan edecektir. Bu işlem teslim edilen ve statik testleri tamamlanıp saha testlerine başlanacak her bir araç için ayrı ayrı yapılacaktır.”
+
+Teknik Şartnamenin 15.3.1. maddesinde ise; “ Araç yüklenici tarafından DDP (Delivered Duty Paid) olarak İdarenin tesislerinde raya indirildikten sonra, yüklenici aracını kontrol ederek gerekli ayarlamaları ve düzeltmeleri araç üzerinde yapacaktır. Araç İşletime Alma Testlerine hazır hale geldikten sonra yüklenici resmi bir bilgilendirme formu ile numarası ve kimliği bildirilen aracın hazır olduğunu idareye bildirecektir. Bu yazılı tebligat idarenin eline ulaştıktan sonra aracın İşletime Alma Testleri yapılıp, başarılı olan araçlar için İşletime Alma Test Sertifikası düzenlenir.”
+
+hükümleri yer almaktadır.
+
+Bununla birlikte, teknik şartnamenin 15.3.1’inci maddesindeki, yüklenici tarafından idareye yapılması gereken yazılı bildirim şartının araç işletime alım testlerinin ivedi olarak gerçekleştirilmesi gerekliliği ve test süreçlerini yazılı prosedürlerden daha hızlı ve dinamik şekilde işletiliyor olması sebebiyle herhangi bir gecikmeye mahal vermemek üzere yüklenici ile karşılıklı anlaşma çerçevesinde uygulamadan çıkarıldığı savunmalardan anlaşılmıştır. Buna ek olarak, sözleşmesel olarak …’ın idare açısından idareye ait tesisleri ifade ettiği açık olmakla birlikte, test süreçlerine …’ın herhangi bir dahlinin olmaması, tüm test süreçlerinin yüklenici tarafından … tesislerinde görevlendirilen yetkili personel tarafından tamamlandıktan sonra idareye aktarılması sebebiyle … tarafından verilen kayıtların tam olarak fiili durumu yansıtıp yansıtmadığı net değildir. Bu itibarla, yalnızca … alınan kayıtlarla bahse konu araçların tesislere gecikmeli olarak verildiği iddia edilemez. Nitekim … tarafından verilen yazılı cevapta da; araçların … tarafından teslim alınmasının … Belediyesi geçici kabul komisyonu tarafından yapılan, Geçici Kabul sonrasında gerçekleşmekte olduğu beyan edilmiştir.
+
+Ayrıca, savunma ekinde gönderilen car history book kayıtlarının incelenmesinden de, sözleşme kapsamında yapılan testlerin gerçekleşme tarihlerinin sözleşmede öngörülen süreler içerisinde yapıldığı ve test sonuçlarının ıslak imzalı olarak ve tarih kaydı da düşülerek kayıt altına alındığı görülmüştür. Bu itibarla, car history book kayıtlarının incelenmesinden, bahse konu testlerin sözleşmede öngörülen süreler içerisinde gerçekleştirildiği görülmektedir.
+
+Son olarak, uygulanan gecikme cezaları da göz önüne alındığında, idarenin araç teslim tarihlerini takip ettiği ve gecikme olması halinde cezai yaptırım uyguladığı da açıkça görülmektedir. Dolayısı ile gerek konunun idarece takip ediliyor olması, gerekse car history book kayıtlarının idarece gecikme olmadığı yönünde yapılan savunmaları teyit eder nitelikte olması ve kamu zararının ispatı konusunda yalnızca …’tan alınan kayıtlara dayanılarak yeterli bilgi sağlanamamış olması sebepleriyle ile sorgu konusu edilen …-TL’nin;
+
+…-TL’sinin … tarih ve … nolu ödeme emri belgesiyle kesinti suretiyle tahsil edildiği görüldüğünden ilişilecek husus kalmadığına,
+
+Kalan …-TL’si için kamu zararı oluşmamış olduğundan ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun Kanun’un 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere karar verildi.
