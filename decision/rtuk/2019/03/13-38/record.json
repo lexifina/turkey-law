@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2019/13",
+  "meeting_date": "2019-03-21",
+  "meeting_date_as_published": "21.3.2019",
+  "decision_no": "38",
+  "source_id": 11495,
+  "title": "RTÜK kararı 2019/13-38",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/11495",
+  "source_sha256": "1b7a87b20bcd54b12c87535fa4a068a3683aded9e0378d9de1ca2dbc0bcf154a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
