@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "348",
+  "decision_date": "2019-03-21",
+  "source_id": 30047,
+  "chamber": "7",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30047/",
+  "source_sha256": "d74e6ef2d73e0e631893af2ddc321114d52abb0ae19b157adfc18184d1fc64d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
