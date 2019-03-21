@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "348",
+  "decision_date": "2019-03-21",
+  "source_id": 30042,
+  "chamber": "7",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30042/",
+  "source_sha256": "798f64286eee976a921065f92dcbda69362a6dcaf48e806f119384419d2831c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
