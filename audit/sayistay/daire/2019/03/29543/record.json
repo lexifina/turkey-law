@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35579",
+  "decision_date": "2019-03-21",
+  "source_id": 29543,
+  "chamber": "2",
+  "ilam_number": "168",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29543/",
+  "source_sha256": "fabb8d7a324427455f5d099e892fa01bed04d40e786d3bac8d14eb42e600dcf1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
