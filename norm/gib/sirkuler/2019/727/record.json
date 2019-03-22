@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-114 / 2019-4",
+  "source_id": 727,
+  "date": "2019-03-22",
+  "title": "Şubat 2019 Dönemine Ait Muhtasar Beyannameler, Damga Vergisi Beyannameleri, Katma Değer Vergisi Beyannameleri ile 2018 Takvim Yılı Yıllık Gelir Vergisi Beyannamelerinin Verilme Süresinin Uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/727",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "533a0ccf6435bff24a761d2d6afa7e0fc5ea7a36d80702066e8b703a19b3f362",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
