@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/konya-gida-ve-tarim-universitesi/2019/31361",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30722",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-03-22",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Konya Gıda ve Tarım Üniversitesi",
+  "issuer_slug": "konya-gida-ve-tarim-universitesi",
+  "kind": "regulation",
+  "published": "2019-03-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31361&MevzuatTertip=5",
+  "source_id": "8.5.31361",
+  "source_sha256": "dc85bf58a6d9265973e246e70ba5753acf37934da183d1062e0a1818ed05a270",
+  "title": "KONYA GIDA VE TARIM ÜNİVERSİTESİ GÖÇ VE KALKINMA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ (GÖKMER) YÖNETMELİĞİ",
+  "university_id": 440,
+  "version_label": "oldest version available",
+  "word_count": 1785
+}

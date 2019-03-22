@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; ulusal ve küresel bağlamda yaşanan iç ve dış göçleri kendi mecraları üzerinden değerlendirirken sürecin en önemli kavramlarından birisi olan kalkınma ile birlikte ele almaktır. Kalkınmanın bölgesel, ulusal ve küresel karşılıkları ile birey, aile ve sosyal doku düzeyindeki karşılıklarını araştırmak, çözüm üretmek, bu bağlamlarda ortaklıklar kurmak ve projeler üzerinden işbirliğinin devamlılığına katkıda bulunmak; ayrıca, göçün gerekçelerini bütün bağlamlarda birleştirerek daha yakından incelemek, problemleri anlamak, çözmek ve anlatmaktır. Bu amaçla disiplinlerarası çalışmalara bağlı her türlü yayın, toplantı, proje, araştırma yapmak, eğitim vermek, ulusal ve uluslararası işbirliği olanakları oluşturarak göç ve kalkınma süreçlerini hem bağımsız hem de ortaklaşa alanlarda ele alan incelemeler yapmaktır.
