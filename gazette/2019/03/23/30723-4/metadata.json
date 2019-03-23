@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-03-23",
+  "issue": "30723",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "TS 1143 İçten Yanmalı Motorlar-Dökme Demirden Piston Segmanları Standardı ile İlgili Tebliğ (No: MSG - MS - 2019/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190323-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190323.htm",
+  "index_sha256": "0c2d8c2ca168330dcf76ea59372f0657d8ee871af5996d62e22bc24eb125423c",
+  "index_header": "23 Mart 2019 ... 30723 Sayılı",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/03/20190323.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
