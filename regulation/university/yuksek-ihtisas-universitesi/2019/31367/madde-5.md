@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; disiplinler arası bir yaklaşımla Ülkemizde riskli bebeklerin tanı ve erken müdahalesi ile izlem süreçlerinde yaşanan mevcut sorunların belirlenmesi, bu sorunlara yönelik beklenti ve çözüm önerilerinin tanımlanması, riskli bebek tanı ve izlemi için ülkemize uygun modelleme önerisi sunulmasıdır. Bu amaçlar doğrultusunda sırasıyla prenatal, natal ve postnatal dönemdeki sorunlar ve çözüm önerileri, özellikle postnataldönemde çok sayıda disiplini ilgilendiren kritik konuların araştırılması ve geliştirilmesi açılarından, ulusal ve uluslararası alanda kuramsal ve uygulamaya yönelik araştırmalar yapmak, bilgi ve belge toplamak, izlemek, işbirliği yapmak, bilgi ağı oluşturmak ve akademik faaliyetlerde bulunmaktır.
