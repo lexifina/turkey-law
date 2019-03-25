@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/78",
+  "source_id": 5434,
+  "date": "2019-03-25",
+  "title": "“Veri sorumlusunun kanuni yükümlülüğünü yerine getirmek için işlediği kişisel verileri meşru menfaat çerçevesinde kullanma talebiyle Kuruma yapmış olduğu başvuru” Kişisel Verileri Koruma Kurulunun 25/03/2019 tarihli ve 2019/78 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5434/2019-78",
+  "source_sha256": "6b42c70e16fb531abc9730aa2bf0c305a1d2d9b249dd2a8158eed80796aa7447",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
