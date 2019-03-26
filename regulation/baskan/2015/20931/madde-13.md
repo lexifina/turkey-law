@@ -1,0 +1,4 @@
+Nihai başarı listesi ve ilânı
+MADDE 13 – (1) Değerlendirme sonucu en yüksek puandan başlayarak yapılacak sıralamaya göre ilan edilen kadro sayısı kadar asıl aday, aynı sayıda yedek aday belirlenmek suretiyle nihai başarı listesi düzenlenir ve sınavın bitimini takip eden on gün içinde Kurulun internet sitesinde ilan edilir. Sınav sonuçları, başarılı olan adaylara yazılı olarak da bildirilir.
+(2) Belirlenen nihaî başarı listesinde puanların eşit olması halinde; sırasıyla merkezi sınav puanı, uygulama sınav puanı, sözlü sınav puanı ve diploma notu yüksek olan aday sıralamada üstte yer alır.
+(3) Sınavı kazananlara, atamada istenecek belgelerle birlikte, tebliğ tarihinden itibaren onbeş gün içinde Genel Sekreterliğe başvurmaları gerektiği tebliğ edilir. Kanuni bir mazereti olmaksızın süresinde başvurmayanlar veya istenilen belgeleri süresinde ibraz etmeyenlerin atamaları yapılmaz.
