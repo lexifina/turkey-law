@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31370",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ADALET BAKANLIĞINDA ÇALIŞTIRILACAK SÖZLEŞMELİ BİLİŞİM PERSONELİ HAKKINDA YÖNETMELİK",
+  "number": "31370",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2019/31370",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31370&MevzuatTertip=5",
+  "source_sha256": "cfc34abd3961a235885b8fbd6a40c0ccf61fa9750e25e0285e9a2198e46f5008",
+  "source_bytes": 79695,
+  "published": "2019-03-26",
+  "gazette": "30726",
+  "in_force": "2019-03-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.03.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
