@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45891",
+  "decision_date": "2019-03-27",
+  "source_id": 18966,
+  "chamber": "1",
+  "file_number": "43343",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18966/",
+  "source_sha256": "72488d3b5b4b10d97bd9642a934b7fb669352c984011e57e424d85180df5ae27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
