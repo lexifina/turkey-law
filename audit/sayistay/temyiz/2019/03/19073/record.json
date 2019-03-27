@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45947",
+  "decision_date": "2019-03-27",
+  "source_id": 19073,
+  "chamber": "5",
+  "file_number": "44144",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19073/",
+  "source_sha256": "4ff5dfed8da669d3dca0d2976ba17087a1a9ab6ddd5aa69f07dec3c0280c950f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
