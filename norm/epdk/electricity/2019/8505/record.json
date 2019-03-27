@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8505",
+  "decision_date": "2019-03-27",
+  "title": "2011 yılı YEKDEM uygulamasına ilişkin kurul kararı",
+  "resmi_gazete_date": "2019-04-10",
+  "resmi_gazete_number": "30741",
+  "categories": [
+    "YEKDEM"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jw6oNgnZIq8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jw6oNgnZIq8="
+  ],
+  "source_sha256": "5a272a56b652f969baa7ef39b8c84a80c0229742a6d1858b77451a7f85d6db23",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33882,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2019-03-27",
+  "law_text_complete": false
+}
