@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45937",
+  "decision_date": "2019-03-27",
+  "source_id": 19054,
+  "chamber": "5",
+  "file_number": "44116",
+  "account_year": "2016",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19054/",
+  "source_sha256": "80c6e6e762378bb37e79aae8b666639dfefdffb754fe15508171cb71abec196d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
