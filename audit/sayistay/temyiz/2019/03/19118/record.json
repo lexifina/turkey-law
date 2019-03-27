@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45964",
+  "decision_date": "2019-03-27",
+  "source_id": 19118,
+  "chamber": "5",
+  "file_number": "43994",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19118/",
+  "source_sha256": "04a1e3af49aa314d8f75233a7bbaff522b1f24db45991846c3afdf7d1a2c279c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
