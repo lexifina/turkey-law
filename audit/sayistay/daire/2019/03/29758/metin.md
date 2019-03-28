@@ -1,0 +1,9 @@
+… Bakanlığı Döner Sermaye İşletmesi … Müdürlüğü tarafından emekli olan işçilere yapılan tazminat ödemelerinde gösterge rakamının hatalı alındığı ile ilgili olarak;
+
+375 sayılı KHK’nın 1’inci maddesinin (D) fıkrasında aynen;
+
+“(Ek: 31/7/2003-4969/2 md.) (A) bendi kapsamına giren personel ile 22.1.1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan personel ve kamu kurumlarında işçi olarak istihdam edilenlerden; emekliliğini isteyen veya emekliye sevk olunanlara, haklarında toptan ödeme hükümleri uygulananlara, emekli iken yeniden hizmete alındıktan sonra cezaen olmamak üzere görevlerine son verilenlere, kendi kusurları olmaksızın sözleşmesi feshedilen veya hizmet sürelerinin bitiminde ayrılan sözleşmeli subay, sözleşmeli astsubay, uzman erbaş ve sözleşmeli erbaş ve erler ile terhis olan yedek subaylara ve bunlardan görevde iken ölenlerin kanuni mirasçılarına damga vergisi hariç herhangi bir vergiye tâbi tutulmaksızın (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarında tazminat ödenir.” denilmektedir.
+
+Yapılan incelemede; İşletme tarafından yukarıda yer verilen mevzuat hükmü uyarınca emekli olan işçilere, (12.105) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda tazminat ödenmesi gerekirken, (13.558) gösterge rakamı üzerinden hesaplanan tutarda tazminat ödenmesi sonucu … TL kamu zararına sebebiyet verildiği görülmüştür.
+
+Ancak gönderilen savunmalardan; kamu zararı tutarı … TL’nin, sorumluları …, …, …, …, …, …, …, …, … ve … tarafından … işlem tarih ve … no.lu banka dekontu ile Kurumun …... Bankası hesabına yatırıldığı ve söz konusu tahsilatın … tarih ve … no.lu Muhasebe İşlem Fişi ile gelir kaydının yapıldığı anlaşıldığından, konu hakkında ilişilecek husus kalmadığına, oy birliğiyle, karar verildi.
