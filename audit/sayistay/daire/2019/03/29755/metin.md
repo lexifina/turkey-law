@@ -1,0 +1,15 @@
+… Bakanlığı … Genel Müdürlüğü tarafından AB Eşleştime Projesinin 3. Bileşeni kapsamında kamu ve özel sektöre yönelik olarak 23-24 Ağustos 2017 tarihlerinde … Salonu’nda düzenlenen “Yayıncılık Endüstrisinde Telif Hakkının Yönetimi ve Dijital Teknolojilerin Etkileri Çalıştayı”na ilişkin doğrudan temin yöntemiyle yapılan mal ve hizmet alımı işinde;
+
+Denetçi tarafından yazılan sorguda, katılımcılara verilen ikram, konaklama ve ulaşım hizmetleri için yapılan harcamanın, temsil-ağırlama gideri niteliğinde olduğu, Merkezi Yönetim Harcama Belgeleri Yönetmeliği’nin 47’nci maddesine göre; ziyafete ilişkin temsil ve ağırlama giderlerinin ödenmesinde davetli ve misafirlerin sayısını bildiren belgenin ödeme evrakına eklenmesi gerektiği, temin edilen imza çizelgesine göre 2 gün süren konferansa toplam 103 kişi katılmasına rağmen 400 kişilik ikram bedelinin ödenmesi sonucu … TL tutarında kamu zararına yol açıldığı ileri sürülmüştür.
+
+Konuya ilişkin belgelerin ve yapılan savunmaların incelenmesinde;
+
+23-24 Ağustos 2017 tarihlerinde yayıncılık sektörüne yönelik düzenlenen konferansa ilişkin yapılan hazırlık aşamasında katılımcı sayısının, davet yazılarına verilen cevaplara göre her gün için 200 kişi olarak belirlendiği ve katılması beklenen söz konusu kişi sayısı üzerinden kahve arası ikramın satın alındığı görülmüştür.
+
+Söz konusu alım işinde; konferansa fiilen katılan kişi sayısının beklenenden az olacağı önceden bilinemeyeceği gibi kahve arası ikramlar da niteliği gereği önceden bildirilen kişi sayısına göre hazırlandığından, istenen miktarda ikramı mahallinde sunan yükleniciye, 400 kişilik ikram bedelinin ödenmesinde mevzuata aykırı bir durum bulunmamaktadır.
+
+Öte yandan 4734 sayılı Kamu İhale Kanununun 22/d maddesine göre doğrudan temin yöntemiyle yapılan alım işinde; Merkezi Yönetim Harcama Belgeleri Yönetmeliğinin 63’üncü maddesinde ödeme emri belgesine eklenecek belgeler arasında sayılmayan “katılımcılara ait imza çizelgesi” fiili katılımcı sayısını gösteren resmi belge olarak değerlendirilemeyeceğinden, söz konusu belgede imzası bulunan katılımcı sayısına göre kamu zararının hesaplanması da mümkün değildir.
+
+Ayrıca Denetçi tarafından sorguya alınmamakla birlikte raporda ileri sürülen; ödenen … TL kahve bedelinin piyasa rayicinin üstünde olduğu ile Bakanlığın … Salonu’nda mevcut olduğu halde el, kürsü mikrofonu, kürsü ses sistemi, simultane kulaklık, kabin, sistem gibi malzemelerin yersiz kiralandığı yönündeki iddialara ilişkin yapılan savunmalardan; ödenen … TL’nin katılımcılara kahvenin yanında sunulan bir takım yiyecek ikramlarını da içerdiği ve konferans salonunda halihazırda bulunmayan eşzamanlı (simultane) ses sistemlerinin set olarak kiralandığı anlaşıldığından, söz konusu iddialara ilişkin denecek kalmamıştır.
+
+Bu itibarla, 23-24 Ağustos 2017 tarihlerinde … Salonu’nda düzenlenen “Yayıncılık Endüstrisinde Telif Hakkının Yönetimi ve Dijital Teknolojilerin Etkileri Çalıştayı”na ilişkin yapılan mal ve hizmet alımına ait ödemelerde mevzuata aykırılık söz konusu olmadığından, … TL ile ilgili olarak ilişilecek bir husus bulunmadığına, oy birliğiyle, karar verildi.
