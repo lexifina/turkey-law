@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "155",
+  "decision_date": "2019-03-28",
+  "source_id": 29753,
+  "chamber": "8",
+  "ilam_number": "186",
+  "item_number": 25,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29753/",
+  "source_sha256": "3763a67b74f7b30f8d889b118ec74ac2c9dca1dbbcd6e286f350115272f252b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
