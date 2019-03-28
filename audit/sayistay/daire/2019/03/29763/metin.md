@@ -1,0 +1,11 @@
+Döner Sermaye İşletmesi … Müdürlüğü tarafından … Gişelerinin Kiralanması İşinde … TL kira alacağının kiracıdan eksik tahsil edilmesi ile ilgili olarak;
+
+Yapılan incelemede; … Gişelerinin Kiralanması İşinde eski kiracı firma tarafından imzalanan 18.02.2013 tarihli … ... İlişkin Sözleşmenin, 24.02.2017 tarihli Protokol ile yeni kiracı … İş Ortaklığı’na devredildiği ve devir protokünden kaynaklanan … TL tutarındaki damga vergisinin yeni kiracı tarafından vergi dairesine yatırıldığı ancak daha sonra bu tutarın Döner Sermaye İşletmesi … Müdürlüğüne ödenen sponsorluk bedelinden kesildiği görülmüştür.
+
+İşetme, … Bankası A.Ş. ve … İş Ortaklığı arasında imzalanan 24.02.2017 tarihli … Bankası Kredi Kartlarının Müzekart Özelliği Kazanmasına İlişkin Protokolün 4’üncü maddesinde; Protokol’e ait damga vergisi yükümlülüklerinin Banka ve firma arasında eşit olarak paylaşılacağı belirtilmiştir.
+
+488 sayılı Damga Vergisi Kanununun “Nispet” başlıklı 14’üncü maddesinin ikinci fıkrasında aynen; “Belli parayı ihtiva eden mukavelenamelerin değiştirilmesi halinde artan miktar aynı nispette vergiye tabidir. (Ek cümle: 15/7/2016- 6728/25 md.) Birinci fıkraya göre azami tutardan vergi alınan mukavelenamelerin, diğer hükümlerinde değişiklik olmaksızın sadece bedelinin artması durumunda, artan bedele ilişkin bu hüküm uygulanmaz. Bunların devri halinde aslından alınan verginin dörtte biri alınır.” denilmektedir.
+
+Söz konusu mevzuat hükmüne göre, devir protokolünün düzenlenmesinden sonra ilgili sözleşmenin aslından alınan verginin dörtte biri oranında damga vergisinin hesaplanması ve bu verginin söz konusu protokol hükmüne istinaden ilgili firma ile banka arasında eşit paylaşılıp ödenmesi gerekmektedir. Kiracı firma payına düşen … TL damga vergisini ödemiş ancak sonra ödediği bu tutarı İşletmeye yatırdığı sponsorluk bedelinden düşmüştür. Bu bağlamda İşletme tarafından gelirin eksik tahsil edilmesi sonucu … TL kamu zararına sebebiyet verilmiştir.
+
+Ancak, gönderilen savunma ve ekindeki belgelerden, … TL kamu zararının, … tarih ve …  no.lu Muhasebe İşlem Fişi ile gelir kaydı yapılarak kiracı … İş Ortaklığından mahsuben tahsil edildiği anlaşıldığından, konu hakkında ilişilecek husus kalmadığına, oy birliğiyle, karar verildi.
