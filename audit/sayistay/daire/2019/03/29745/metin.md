@@ -1,0 +1,7 @@
+… İl … Müdürlüğü tarafından memur …’un eşi çalıştığı halde kendisine aile yardımı ödendiği görülmüştür.
+
+657 sayılı Devlet Memurları Kanunu’nun “Aile Yardımı Ödeneği” başlıklı 202’inci maddesinde; “Evli bulunan Devlet memurlarına aile yardımı ödeneği verilir. Bu yardım, memurun her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için 1500, çocuklarından herbiri için de 250 gösterge rakamının (72 nci ay dahil olmak üzere 0-6 yaş grubunda yer alan çocuklar için bir kat artırımlı) aylık katsayısı ile çarpılması sonucu elde edilecek miktar üzerinden ödenir…” denilmektedir.
+
+Yukarıda yer verilen mevzuat hükmüne göre; aile yardımı, evli olan memura her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için ödenebilmektedir. Sorguda ilişikli tutulan ödeme emri belgeleri ile Sosyal Güvenlik Kurumundan temin edilen hizmet dökümünün incelenmesinde; memur …’un eşinin 04.05.2017 tarihinden itibaren menfaat karşılığı çalıştığı, buna rağmen kendisine 1500 gösterge rakamı üzerinden aile yardımı ödenmesi sonucu … TL kamu zararına yol açıldığı anlaşılmıştır.
+
+Ancak gönderilen savunmalardan; söz konusu kamu zararının, …/… ve …/… tarih ve no.lu Muhasebe İşlem Fişleri ile ahizi …’dan tahsil edildiği görüldüğünden, konu hakkında ilişilecek husus kalmadığına, oy birliğiyle, karar verildi.
