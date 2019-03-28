@@ -1,0 +1,7 @@
+… Bakanlığı … Müdürlüğü tarafından “Bakan Yardımcılığı Makamı için Kütüphane Ünitesi Alımı İşi” nde teklif birim fiyatı en yüksek firmadan alım yapıldığı ile ilgili olarak;
+
+Doğrudan temin yöntemiyle yapılan kütüphane ünitesi alım işine ilişkin firma tekliflerinin incelenmesinde; yüklenici … Ltd. Şti.’nin, 35*80*177 cm ebatlarında 6 bölmeli üst modül ile 45*80*40 cm ebatlarında 6 bölmeli alt modül için … TL teklif verdiği, toplam 10,44 m2’lik [(1,77+0,4)*0,8*6 bölme] kitaplık için verilen söz konusu teklif, birim fiyata dönüştürüldüğünde … TL/m2’ye isabet ettiği, diğer 2 firmanın 225*80*45 cm ebatlarında 6 bölmeli toplam 10,80 m2’lik kitaplık için … TL ve .. TL teklif verdiği, söz konusu teklifler birim fiyata dönüştürüldüğünde ise … TL/m2 ve … TL/m2’ye isabet ettiği görülmüş olup, alımın birim fiyat bazında en düşük teklifi veren … Ltd. Şti.’nden yapıldığı anlaşılmıştır.
+
+Kaldı ki işe ilişkin fotoğraflardan kütüphane ünitesinin yerinde istenen ölçülere uygun olarak tam boy yapıldığı görüldüğünden, firmaların farklı ölçüler için fiyat vermesi gibi bir durumun da söz konusu olmadığı anlaşılmıştır.
+
+Dolayısıyla Bakan Yardımcılığı Makamı için Kütüphane Ünitesi Alımı İşinde, 4734 sayılı Kamu İhale Kanunun 22’nci maddesine göre piyasa fiyat araştırması yapılarak söz konusu ihtiyaç birim bazında en uygun teklifi veren firmadan temin edildiğinden, mevzuatına uygun olan … TL ilgili olarak ilişilecek husus bulunmadığına, oy birliğiyle, karar verildi.
