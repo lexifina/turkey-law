@@ -1,0 +1,19 @@
+… Bakanlığı tarafından eğlence vergisi Kurum payının eksik tahsil edildiği konusuna ilişkin olarak;
+
+Denetçi tarafından film dağıtıcısı şirketler tarafından üretilen bilet satış hasılatına ilişkin gişe verilerinden yola çıkılarak Bakanlığın 2017 yılında eksik tahsil ettiği eğlence vergisi payının … TL olduğu ve bu tutarın eksik yatırılan gelir payına ilişkin görev ve sorumluluğunu yerine getirmeyen Bakanlık görevlilerinden tazmini gerektiği ileri sürülmüştür.
+
+2464 sayılı Belediye Gelirleri Kanununun “Eğlence Vergisi” başlıklı 3’üncü bölümünde yer alan 17, 18, 19, 20, 21 ve 22’nci maddelerinde;
+
+Belediye sınırları ile mücavir alanlar içinde yer alan eğlence işletmelerinin faaliyetlerinin eğlence vergisine tabi olduğu ve eğlence yerlerini işleten gerçek veya tüzel kişilerin verginin mükellefi olduğu, biletle girilen yerlerde bilet bedeli olarak tahsil edilen gayri safi hasılatın verginin matrahı olduğu, biletle girilen yerli ve yabancı film göstermelerinde bilet bedelinden %10 verginin nispette hesaplanan eğlence vergisinin, mükellefler tarafından biletler kullanılmadan önce mahallin mal müdürlüğüne veya muhasebe müdürlüğüne emaneten yatırılacağı, ödemenin yapıldığına dair banka dekontunun ibrazı üzerine de belediye tarafından biletlere özel damga konulacağı, belirtilmiştir. Bunun dışında mükelleflerin istemeleri halinde giriş biletlerini ödeme kaydedici cihaz fişi veya elektronik belge olarak düzenleyebilecekleri, bu şekilde düzenlenen biletler için özel damga konulması şartının aranmayacağı, mükelleflerin ödeme kaydedici cihaz fişleri ile tahsil ettiği her aya ait eğlence vergisini ertesi ayın 20’nci günü akşamına kadar mahallin mal müdürlüğü veya muhasebe müdürlüğüne yatıracağı hükme bağlanmıştır. Bahsi geçen yerlerde toplanan meblağın % 75’inin … Bakanlığı Merkez Saymanlık hesabına, % 25’inin ise ilgili belediyeye tahsilini takip eden ayın onbeşinci günü akşamına kadar aktarılacağı ifade edilmiştir.
+
+Yukarıda yer alan mevzuat hükümlerine göre, eğlence vergisinin tahsilatını gerçekleştiren birimlerce aktarılan pay, Bakanlık açısından gelir unsuru olmakla birlikte, Bakanlığın eğlence vergisinin tahakkuk ve tahsil edilmesi sürecinde herhangi bir görev ve yetkisi bulunmamaktadır. Bu yüzden söz konusu verginin eksik tahsil edilmesi ve Kurum payının eksik aktarılması ile ilgili olarak Bakanlık görevlilerine sorumluluk yüklenilmesi mümkün değildir.
+
+Öte yandan sorguda 2017 yılında eksik tahsil edilen Kurum payı olarak hesaplanan … TL tutarında kamu zararının oluştuğu belirtilmiş ise de; söz konusu tutarın, eğlence vergisinin mükellefi olmayan film dağıtım şirketlerinden elde edilen ancak resmi bir belgeye dayanmayan bilet satış hasılat rakamları üzerinden hesaplandığı görülmüştür. Bu nedenle sorguda yer alan kamu zararı tutarının, eksik tahsil edilen paya ilişkin gerçek miktarı yansıtıp yansıtmadığı ve tahsil kabiliyetinin olup olmadığı anlaşılamadığından, söz konusu tutar üzerinden hüküm verilmesinin de mümkün olamayacağı değerlendirilmiştir.
+
+Ayrıca 2464 sayılı Kanunun 102’nci maddesinde yer alan; “213 sayılı Vergi Usul Kanununda belirtilen vergi inceleme yetkisi hariç olmak üzere;
+
+1. Belediye Gelir Şube Müdürü, Gelir Şube Müdürü olmayan yerlerde Belediye Hesap İşleri Müdürü, Hesap İşleri Müdürü olmayan yerlerde Muhasebeci, Vergi Dairesi Müdürü sıfat ve yetkisini haizdir.
+
+2. Vergi Usul Kanununda mahallin en büyük malmemuruna verilmiş görev ve yetkiler, Belediye Gelirleri Kanunu uygulaması yönünden Belediye Başkanı tarafından kullanılır.” hükmü uyarınca eğlence vergisinin tarh-tahakkuk-tahsili ile birlikte eksik tahsil edilen tutara ilişkin mükellef bazında inceleme yapma görev ve yetkisi Belediyelerde olduğundan, konuya ilişkin olarak tüm il-ilçe Belediyelerinin uyarılması gerektiği sonucuna varılmıştır.
+
+Bu itibarla sorguda yer alan …TL kamu zararı iddiası ile ilgili olarak ilişilecek husus bulunmadığına, oy birliğiyle, karar verildi.
