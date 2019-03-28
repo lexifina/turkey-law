@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "155",
+  "decision_date": "2019-03-28",
+  "source_id": 29742,
+  "chamber": "8",
+  "ilam_number": "186",
+  "item_number": 14,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29742/",
+  "source_sha256": "f63269e219248d2604efe9b4ab0e2b120f601035e149ab6d7a6daa598a3d1898",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
