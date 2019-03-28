@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "155",
+  "decision_date": "2019-03-28",
+  "source_id": 29748,
+  "chamber": "8",
+  "ilam_number": "186",
+  "item_number": 20,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29748/",
+  "source_sha256": "fb4ec081d5b0945de16875f443db70f9956b09a5c00973b5098acc21d511acf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
