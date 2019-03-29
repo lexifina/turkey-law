@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-115 / 2019-5",
+  "source_id": 726,
+  "date": "2019-03-29",
+  "title": "1 Nisan 2019 tarihinden itibaren verilmesi gereken bazı vergi beyannamelerinin verilme sürelerinin uzatılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/726",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "297c23228a547356dac6bcf054a4320203eb3e50230432ca54251deff7f7ba1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
