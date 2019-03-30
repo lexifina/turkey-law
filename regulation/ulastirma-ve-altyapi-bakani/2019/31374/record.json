@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31374",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ERİŞİLEBİLİR ULAŞIM HİZMETLERİ ÇALIŞMA GRUBUNUN TEŞKİLİ, GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "31374",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2019/31374",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31374&MevzuatTertip=5",
+  "source_sha256": "0a285a77cdd98b6834f722c83a87f2802039866e1f1096d25fb1f979936f13c6",
+  "source_bytes": 39344,
+  "published": "2019-03-30",
+  "gazette": "30730",
+  "in_force": "2019-03-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.03.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1708,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
