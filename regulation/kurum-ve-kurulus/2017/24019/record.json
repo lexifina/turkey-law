@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.24019",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ŞEHİT YAKINLARI VE GAZİLERE HUKUKİ YARDIM SAĞLANMASINA DAİR YÖNETMELİK",
+  "number": "24019",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/24019",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24019&MevzuatTertip=5",
+  "source_sha256": "dc521d0332fa33b52e189ac95cf8781916ad9363d5cd5ce97d8daa9a7f56c5c5",
+  "source_bytes": 30616,
+  "published": "2017-10-25",
+  "gazette": "30221",
+  "in_force": "2019-03-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/3/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-03-30",
+      "RG-30/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-30",
+      "30/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 833,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
