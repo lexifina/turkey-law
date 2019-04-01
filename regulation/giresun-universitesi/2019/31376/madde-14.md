@@ -1,0 +1,3 @@
+Geçici Çocuk Danışma Kurulu ve görevi
+MADDE 14 – (1) Geçici Çocuk Danışma Kurulu, Milli Eğitim Bakanlığına bağlı devlet okullarında öğrenim gören ilkokul, ortaokul ve lise öğrencilerinden konunun özelliği ve hedef kitlenin düzeyine göre, gerekli izinlerin alınması koşulu ile okul öğretmenleri tarafından önerilen öğrenciler arasından Yönetim Kurulu tarafından belirlenen yedi asıl ve iki yedek üyeden oluşur.
+(2) Geçici Çocuk Danışma Kurulu, çocukların çıkarlarını ve haklarını ilgilendiren konularda alınacak kararların tarafı olarak yer alır ve görüş bildirir. Kurul, çocuklar ile yetişkinlerin birlikte karar alıp uygulama kültürünü geliştirmek amacı ile faaliyet gösterir.
