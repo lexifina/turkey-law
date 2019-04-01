@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "53445970-105[2017/27-09-485]-E.36263",
+  "source_id": 25580,
+  "date": "2019-04-01",
+  "title": "Belediye ile kooperatif arasında yolcu taşımacılığında kullanılan elektronik kartlarda/biletlerde belge düzeni ile kooparatifle, uyelerce akaryakıt alınan anlaşmalı istasyon arasında belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25580",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "9ad73016e10eeb7c7261a00b51cf904f6c59d63d1ecb165ec87eced8b86b91b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
