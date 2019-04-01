@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-04-01",
+  "issue": "30732",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": null,
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190401-4.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190401.htm",
+  "index_sha256": "1272b8786299dc3f958d66fcc1ccec2ff6344b57c413e310133021270578a154",
+  "index_header": "1 Nisan 2019 ... 30732 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190401.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "title_withheld": "personal-data rule: the listed title names a private person; see the official link",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
