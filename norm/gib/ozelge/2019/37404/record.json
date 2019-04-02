@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.16.16.01-125[ÖZG-15/46]-50973",
+  "source_id": 37404,
+  "date": "2019-04-02",
+  "title": "Kısmi bölünme nedeniyle sermayenin azaltılmasında tevkifat uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37404",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "91c186d86e6307ebab61237d80f8a9d5fcb650e1922ac09dd4d07d16552f913b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
