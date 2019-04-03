@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "45988",
+  "decision_date": "2019-04-03",
+  "source_id": 20517,
+  "chamber": "6",
+  "file_number": "43211",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20517/",
+  "source_sha256": "590978a6d45e47791667c6ecbe46da8c19a57aae51c4074665f6b844f81a0904",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
