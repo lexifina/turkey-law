@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46041",
+  "decision_date": "2019-04-03",
+  "source_id": 20618,
+  "chamber": "6",
+  "file_number": "43219",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20618/",
+  "source_sha256": "8a8d5b5ae481abaf1d00f40cd9d4d3a1b6915085b86bca38bd2306343cf280c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
