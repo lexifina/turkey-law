@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125.05-6232",
+  "source_id": 27816,
+  "date": "2019-04-03",
+  "title": "Türk Uluslararası Gemi Siciline kayıtlı gemilerin işletilmesinden ve devrinden elde edilen kazancın istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27816",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "40ce51c8aa81334167eadfbee7ef9dd6476cd0cacaa2360a926e7064c23a3a0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
