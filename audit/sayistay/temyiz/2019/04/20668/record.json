@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46066",
+  "decision_date": "2019-04-03",
+  "source_id": 20668,
+  "chamber": "6",
+  "file_number": "43250",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20668/",
+  "source_sha256": "4a33da6393fe9d3645eeb278f356450849e3fa46486a179ef1e579de4bb9daa0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
