@@ -1,0 +1,20 @@
+{
+  "applicant": "A.J.T. A.Ş.",
+  "application_date": "2015-05-05",
+  "application_number": "2015/7895",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2019-04-03",
+  "id": "9a043916-593e-9053-3d27-79e2839b88da",
+  "in_force": "2019-04-03",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjlhMDQzOTE2LTU5M2UtOTA1My0zZDI3LTc5ZTI4MzliODhkYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "10efe9538d68e75ed0f93cf63c40181c2f8e27381bfe90a26d3bc65788bd583b",
+  "version_label": "as-enacted"
+}
