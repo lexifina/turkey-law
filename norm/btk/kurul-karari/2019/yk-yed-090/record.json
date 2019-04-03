@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2019/YK-YED/090",
+  "date": "2019-04-03",
+  "title": "Yetkilendirme İptali (Uptel)",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2019-04-03",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=56",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/8cda0038-3414-4fb9-9c70-d65df2379650.pdf",
+  "source_sha256": "ec52ab264520843a96647791ee60ed30bdba6b9588ff7f1f590dd67d7376413c",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2019-04-03",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 03.04.2019; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
