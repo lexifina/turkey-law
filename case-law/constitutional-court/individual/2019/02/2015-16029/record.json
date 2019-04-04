@@ -1,0 +1,20 @@
+{
+  "applicant": "Ö.T.",
+  "application_date": "2015-09-30",
+  "application_number": "2015/16029",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2019-02-19",
+  "id": "9bf3f858-aa9b-59e8-b794-cf55f82b7a4b",
+  "in_force": "2019-04-04",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2019-04-04",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjliZjNmODU4LWFhOWItNTllOC1iNzk0LWNmNTVmODJiN2E0Yg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "94cf2622b542d74a528b5243007cd6c6f68835b5fb5a061f4d80a336b5a6bf27",
+  "version_label": "as-enacted"
+}
