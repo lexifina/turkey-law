@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "652",
+  "decision_date": "2019-04-04",
+  "source_id": 29564,
+  "chamber": "6",
+  "ilam_number": "172",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29564/",
+  "source_sha256": "d910c50e79f2e62735414867b81ee05f94248dcc79f0ccd43c5f3b200f9e0a22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
