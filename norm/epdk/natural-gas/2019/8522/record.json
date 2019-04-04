@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8522",
+  "decision_date": "2019-04-04",
+  "title": "Doğal gaz piyasasında faaliyet gösteren/gösterecek gerçek ve tüzel kişiler tarafından Kuruma elektronik ortamda yapılabilecek başvurulara ilişkin",
+  "resmi_gazete_date": "2019-04-09",
+  "resmi_gazete_number": "30740",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h/w2O9f10ns=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h/w2O9f10ns=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/P9gQIzFomQ="
+  ],
+  "source_sha256": "a2d03333673a1c7078880fede3519756b7a6e372b0828db18df258161a546e75",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-04-04",
+  "law_text_complete": true
+}
