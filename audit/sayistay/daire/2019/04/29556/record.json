@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "652",
+  "decision_date": "2019-04-04",
+  "source_id": 29556,
+  "chamber": "6",
+  "ilam_number": "172",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29556/",
+  "source_sha256": "1f9d041b47e2fbfeb0264efdca73a4d150802da835a6fe08ee5058dbd2cad49e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
