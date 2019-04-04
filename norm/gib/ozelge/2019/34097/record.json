@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85620172-200.03.02-11798",
+  "source_id": 34097,
+  "date": "2019-04-04",
+  "title": "Engelli Aracının Bir Başka Engelliyle Takas Edilip Edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34097",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "16949caa3fa47333dcca904a4f44c6ba4645d84e3060aca0e327b542a6dcd436",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
