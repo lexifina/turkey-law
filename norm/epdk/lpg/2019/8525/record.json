@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "8525",
+  "decision_date": "2019-04-04",
+  "title": "Havaalanları içinde yer alan LPG otogaz istasyonları için yapılan LPG Otogaz Bayilik Lisansı başvurularında asgari mesafe tespit tutanağının aranmaması hk.",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8P6V11xkOE4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8P6V11xkOE4="
+  ],
+  "source_sha256": "d4e601e2ee3d6e52afc0d049b41955d71c000169ede755268a597133b4006e27",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5098,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-04-04",
+  "law_text_complete": true
+}
