@@ -1,0 +1,4 @@
+Alım Heyeti ve Memuriyet Mahalli Dışına Görevlendirme
+Madde 25 – ( Başlığı ile Birlikte Değişik:RG-5/4/2019-30736)
+Satışa sunulan malların alımlarında alım heyeti, en az iki kantin görevlisinden, birlik ihtiyaçları kapsamında yapılacak alımlarda ise biri kantin görevlisi olmak üzere en az üç ve tek sayıda üyeden oluşur. Memuriyet mahalli dışından yapılacak alımlarda, alım heyetine araç tahsis edilmiş ise yevmiyeleri, edilmemiş ise yol masrafı ve yevmiyeleri 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre kantin gelirlerinden ödenir.
+Memuriyet mahalli dışına birlik komutanı tarafından kantin faaliyetleri ile ilgili olarak görevlendirilen kantin heyeti başkan ve üyelerinin yol masrafı ve yevmiyeleri görevlendirme emrinde belirtilmek kaydıyla bu madde esaslarına uygun olarak kantin gelirlerinden ödenebilir.

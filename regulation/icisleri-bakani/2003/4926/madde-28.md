@@ -1,0 +1,3 @@
+Kiralama İşlemleri
+Madde 28 – (Başlığı ile Birlikte Değişik:RG-5/4/2019-30736)
+Kantinlerin tamamı, bir kısmı veya bazı şubeleri 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile 19/6/2007 tarihli ve 26557 sayılı Resmî Gazete’de yayımlanan Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik kapsamında kiraya verilebilir ya da üçüncü şahıslara işlettirilebilir. Özel bir ihtisas gerektiren hizmetlerin; personel yetersizliği veya maliyeti nedeniyle verilememesi durumunda bu hizmetler, hizmet alınması yoluyla dışarıdan karşılanabilir. Aralarında kabul edilebilir doğal bir bağlantı olması halinde mal ve hizmet alımları birlikte yapılabilir.

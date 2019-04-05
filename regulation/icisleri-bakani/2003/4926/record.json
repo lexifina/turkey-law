@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.4926",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA KANTİN YÖNETMELİĞİ",
+  "number": "4926",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2003/4926",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4926&MevzuatTertip=5",
+  "source_sha256": "3f1fb4b1afd98a3107d41a26973f56a9d930f487f13fad52076a1de9f2f5c300",
+  "source_bytes": 146451,
+  "published": "2003-09-15",
+  "gazette": "25230",
+  "in_force": "2019-04-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/4/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-04-05",
+      "RG-5/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-12-28",
+      "RG-28/12/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-07-01",
+      "RG-1/7/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik 01 Ocak 2004 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9033,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4926-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

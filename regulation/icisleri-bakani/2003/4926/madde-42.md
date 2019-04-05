@@ -1,0 +1,7 @@
+Üst Komutanlık Payları
+Madde 42 – (Değişik:RG-5/4/2019-30736)
+Kantinlerin, kantin geliri toplamının % 10’unu geçmeyecek şekilde ödeyecekleri üst komutanlık pay oranları ile bu payların sarfına yönelik esaslar, bu Yönetmelik hükümlerine uygun olarak Jandarma Genel Komutanı tarafından tespit edilir. Tespit edilen üst komutanlık payları, kantin heyetince, bilançonun birlik komutanı tarafından onayını müteakip her ayın en geç 10’una kadar kurumsal olarak açılan ilgili hesaplara yatırılır. Havale/EFT’lerde, havale/EFT masrafları kantin giderlerinden sayılır.
+İhtiyaç duyulması halinde üst komutanlık payları hesabı ile kantin hesapları arasında kaynak tahsisine Jandarma Genel Komutanlığı yetkilidir. Kaynak tahsisleri, tahsis yazısında belirtilmek kaydıyla tek seferde ve/veya bir takvim yılını geçmeyecek şekilde dönemler halinde yapılabilir. Kaynak tahsisinde Jandarma Genel Komutanlığının temsil ve tanıtımına yönelik ihtiyaçlara öncelik verilir.
+Kaynak tahsis taleplerinden, ihtiyacın niteliğine göre ilgili karargâh birimlerinin teklifi sonucu uygun görülenlerin tahsis tutarları, tahsis yapılan makam/birliklerin hizmet aldıkları kantin hesabına aktarılır.
+Söz konusu paylar ilgili kantinin hesaplarına gelir, yapılan harcamalar ise gider olarak kaydedilir.
+Üst komutanlık paylarının tahsisi ve değerlendirilmesi ile tahsis edilen payların harcanmasında bu Yönetmeliğin 33 ve 38 inci maddesinde belirtilen usul ve esaslar uygulanır.

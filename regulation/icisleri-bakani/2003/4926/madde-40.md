@@ -1,0 +1,8 @@
+Gider Belgeleri
+Madde 40 – (Değişik:RG-5/4/2019-30736)
+Gider belgelerinin; alınan malzemelerin nerede kullanılacağının açıkça belirtecek şekilde hazırlanması ve birlik komutanı tarafından, “Kantin gelirlerinden ödenmesi uygundur.” kaydı ile onaylanması gereklidir. Ayrıca, aylık döküm listeleri de birlik komutanı tarafından onaylanır. Giderin niteliklerine göre belgeler, aşağıdaki gibi düzenlenir:
+a. Bir süre kullanılması mümkün olan kalıcı mallarda, ilgili mal saymanlığından teslimat karşılığı alınan taşınır mal işlem belgesi faturaya bağlanır. Acil durumlarda birlik komutanının izni ile ikmal maddesi ilgili birliğe teslim edilir ve karşılığında alınan dağıtım belgesi ilgili saymanlığa verilerek taşınır mal işlem belgesi kesilmesi sağlanır.
+b. Sarf edilen mallarda:
+(1) Bakım ve onarım için sarf edilerek yok olan mallara ilişkin faturaların arkasının, kullanıldığı yerler belirtilerek yetkililerce imzalanması ile sarf işlemi tamamlanmış olur, ayrıca bir sarf belgesi düzenlenmesine gerek yoktur. Bilgisayar, elektronik eşya gibi cihaz tamir, bakım, onarımında faturaya ek olarak teknik servis raporu konulmalıdır.
+(2) Alınan sarf malzemelerinin sarfiyatı sonucunda yeni bir mal elde edilmiş ise, Türk Silahlı Kuvvetleri, Millî İstihbarat Teşkilatı ve Emniyet Genel Müdürlüğü Taşınır Mal Yönetmeliği hükümlerine göre birim envanter kayıtlarına alınır ve düzenlenen belgenin bir örneği ilgili mal saymanlığına gönderilir.
+c. Taşıma, ambalaj ve kantinle ilgili yazışma giderleri için fatura, tutanak ve benzeri belgeler yeterlidir. Ödüller ve muhtaç erbaş/erlere yapılan nakdi yardımlar için ise havale/EFT dekontu veya teslim tutanağı yeterlidir.
