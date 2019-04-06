@@ -1,0 +1,8 @@
+Kimlik doğrulama
+MADDE 8 – (1) Bilgi sistemleri üzerinde gerçekleşen işlemler için işlemlerin türü, niteliği, bir ihlal halinde oluşabilecek kayıplar, işlem çeşidi ve verinin hassasiyet derecesi dikkate alınarak uygun bir kimlik doğrulama mekanizması kurulur. Aynı kullanıcı hesabının birden fazla kişi tarafından kullanılması engellenir.
+(2) Kimlik doğrulamada kullanılacak parolaların geçerlilik süresinin, karmaşıklığının ve uzunluğunun günün teknolojisine ve işlemin niteliğine uygun olması sağlanır.
+(3) Şirket, kimlik doğrulamada inkar edilemezliği sağlar. Tüm kullanıcılara ait kimlik doğrulama bilgilerinin gizliliğine ve güvenliğine yönelik gerekli önlemleri alır. Parola gibi kritik öneme sahip veriler günün teknolojisine uygun şekilde şifreli veya matematiksel olarak geri döndürülmesi mümkün olmayan yöntemlerle muhafaza edilir, aktarılırken şifrelenir ve yetkisiz erişimlere karşı güvenliği sağlanır.
+(4) Donanım ve yazılımlara ait kurulumda tanımlanmış varsayılan şifreler değiştirilir. Yeni şifreler güvenli bir şekilde saklanır.
+(5) Başarısız kimlik doğrulama teşebbüslerinin belirli bir sayıyı aşması halinde erişim engellenir ve engellemenin kullanıcı adından veya paroladaki bir hatadan kaynaklandığı şeklinde gereksiz bilgi verilmez.
+(6) Kimlik doğrulamada, önceden izin verilen durumlar hariç olmak üzere, aynı kullanıcıya ait birden fazla oturum açılması engellenir ve kullanıcıya birden fazla oturum açtığı konusunda uyarı verilir. Belli bir süre işlem yapılmayan oturumun sonlandırması sağlanır.
+(7) Dış hizmet sağlayıcılarında görevli personelin şirket sistemlerine uzaktan erişimi esnasında yapılacak kimlik doğrulama, en az şirket personeli ile aynı seviyede güvenlik sağlanarak yapılır.

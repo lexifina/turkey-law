@@ -1,0 +1,6 @@
+Yetkilendirme ve erişim kontrolü
+MADDE 7 – (1) Şirket, veritabanlarına, uygulamalara ve sistemlere erişim için uygun bir yetkilendirme ve erişim kontrolü tesis eder. Görev ve sorumluluklar göz önünde bulundurularak, gerekli olan en kısıtlı yetki ve erişim hakkı verilir. Yetkiler ve erişim hakları en az yetki prensibi açısından asgari yılda bir kez gözden geçirilir. Sistem, servis ve veriye sadece gerekli yetkiye sahip kullanıcı, taraf ve sistemlerin erişimi mümkün kılınır.
+(2) Şirket, veritabanlarına, uygulamalara ve sistemlere yapılan yetkisiz erişim teşebbüslerini kayıt altına alır ve gözden geçirir.
+(3) Şirket, sunmakta olduğu hizmetlerin tasarımı, geliştirilmesi, test edilmesi ve sürdürülmesi aşamalarında, görevler ayrılığı prensibine uygun olarak geliştirme, test ve üretim ortamlarının birbirinden ayrı tutulmasını sağlar. Süreçler ve sistemler, kritik bir işlemin tek bir kişi tarafından girilmesi, yetkilendirilmesi ve tamamlanmasına imkân vermeyecek şekilde tasarlanır ve işletilir.
+(4) Geçici yetkilendirmeler için yetkilendirmenin yapılacağı şartlar ve geçerli olacağı süre belirlenir. Geçici yetkilendirmeye ilişkin ilave iz kaydı tutulur.
+(5) Şirket veya dış hizmet sağlayıcı bünyesinde görev yapan çalışanların görevlerinin sonlanması durumunda ilgili tüm yetkilendirmeler ivedilikle sonlandırılır.
