@@ -1,0 +1,24 @@
+{
+  "number": "38",
+  "number_as_published": "2019/38",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-04-07",
+  "source": "https://www.pamukkale.bel.tr/y-241-2019-yili-nisan-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "abf6fc996ad9c26ede661794774790432e56d927bf1eb6534ae8209d02cbf4cd",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.04.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-241-2019-yili-nisan-ayi-meclis-karar-ozetleri",
+  "listing_label": "2019 YILI NİSAN AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
