@@ -1,0 +1,15 @@
+{
+  "number": "K-2019/27690",
+  "award_date": "2019-04-08",
+  "heading_as_published": "08.04.2019 Tarih ve K-2019/27690 Sayılı Hakem Kararı(Tekne)",
+  "issue": "Hakem Karar Dergisi 37 Ocak - Mart 2019",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs37.pdf",
+  "source_sha256": "8d2370a1b7b29414490cdc7434b8d21e4286fbb5ae67d6e76baa705888a9e871",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
