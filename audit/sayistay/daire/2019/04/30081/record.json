@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "378",
+  "decision_date": "2019-04-09",
+  "source_id": 30081,
+  "chamber": "5",
+  "ilam_number": "372",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30081/",
+  "source_sha256": "048d4e536ed1e424062ca69984de138e24f074fc081f9dbf50a16c17b4ebb069",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
