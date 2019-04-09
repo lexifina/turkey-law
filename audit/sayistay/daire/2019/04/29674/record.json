@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10748",
+  "decision_date": "2019-04-09",
+  "source_id": 29674,
+  "chamber": "1",
+  "ilam_number": "176",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29674/",
+  "source_sha256": "f0b803ed381c1a49a965ea7082b42553e8a22360892355e3302f7bfe57107dc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
