@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46105",
+  "decision_date": "2019-04-10",
+  "source_id": 18961,
+  "chamber": "4",
+  "file_number": "42555",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18961/",
+  "source_sha256": "e46aef3c1c557103b65b0910659299ae892dec6bf4cba3257891f1b2ebeffd2e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
