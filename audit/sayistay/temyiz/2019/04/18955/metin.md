@@ -1,0 +1,5 @@
+4- 30 sayılı İlamın 2/C maddesinde; sorgu ile ... İnşaat Firması uhdesinde yapımı tamamlanan ... ... Spor Salonu Yapımı İşinde, %10 iş artışı kapsamında yapımından vazgeçilen imalatların, iş eksiliş hesabının tespitinde birim fiyatlarının, yükleniciye ödenen birim fiyattan daha düşük belirlenmesi nedeniyle ... TL’lik kamu zararına neden olunduğu ileri sürülmüş ise de, savunmalar uyarınca ve denetçi düşüncesi doğrultusunda, mevzuatına uygun olduğu anlaşılan ... TL ile ilgili olarak ilişilecek bir husus bulunmadığına karar verilmiş olup, 31.05.2017 tarih ve 43123 tutanak sayılı Temyiz Kurulu Kararının 4. maddesiyle temyiz talebinde bulunanların talebi zaten Dairesince yerine getirilmiş bulunduğundan bu hususta Kurulumuzca Yapılacak İşlem Olmadığına karar verilmiştir.
+
+Bu sebeple, 6085 sayılı Kanunun 57. maddesinde belirtilen karar düzeltilmesini gerektiren yeni bir husus ileri sürülmediğinden 31.05.2017 tarih ve 43123 tutanak sayılı Temyiz Kurulu Kararının 4. maddesinin DÜZELTİLMESİNE MAHAL OLMADIĞINA, oy birliğiyle
+
+Karar verildiği 10.04.2019 tarih ve 46103 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
