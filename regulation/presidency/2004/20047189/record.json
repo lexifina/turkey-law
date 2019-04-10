@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20047189",
+  "number": "20047189",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "BİLGİ EDİNME HAKKI KANUNUNUN UYGULANMASINA İLİŞKİN ESAS VE USULLER HAKKINDA YÖNETMELİK",
+  "published": "2004-04-27",
+  "enacted": "2004-04-19",
+  "gazette_number": "25445",
+  "in_force": "2019-04-10",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 10/4/2019; source row: 9/4/2019 | 864 | - | 10/4/2019",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20047189&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d8023cb9db7d551211fa4a5fce2f487db8cd873085ab12eec554c6002e2bb3c6",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

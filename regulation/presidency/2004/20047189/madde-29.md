@@ -1,0 +1,6 @@
+İstihbarata ilişkin bilgi veya belgeler
+Madde 29 - Sivil ve askeri istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgeler, bilgi edinme hakkı kapsamı dışındadır.
+Ancak, bu bilgi ve belgeler kişilerin çalışma hayatını ve meslek onurunu etkileyecek nitelikte ise, istihbarata ilişkin bilgi ve belgeler aşağıda belirtilen usul ve esaslar çerçevesinde bilgi edinme hakkına konu olurlar:
+a) Bilgi edinme başvuruları bizzat ilgilisi veya konuya ilişkin olarak düzenlenen özel vekaletname ile yetkilendirilmiş olmak koşulu ile vekili tarafından yapılır.
+b) Sivil ve askeri istihbarat birimlerinin görev ve faaliyetlerine ilişkin bilgi veya belgelerden, sadece kişilerin çalışma hayatını ve meslek onurunu etkileyici nitelikte olan ve ilgilisi hakkında bir işleme dayanak teşkil etmek üzere işlenmiş veya değerlendirilmiş bilgi veya belgeler bilgi edinme hakkı kapsamında değerlendirilir.
+c) Kurum veya kuruluşların işlemlerine dayanak teşkil etmek üzere, istihbarat birimlerinden talep edilen ve istihbarat birimlerince değerlendirilmek suretiyle kurum veya kuruluşların istifadesine sunulan istihbari bilgi veya belgelere ilişkin bilgi edinme hakkı kapsamındaki başvurular, söz konusu araştırma veya soruşturmanın yapılmasını talep eden kurum veya kuruluşun bilgi edinme birimine yapılır ve başvuruya erişim bu kurum veya kuruluşça sağlanır.

@@ -1,0 +1,1 @@
+Geçici Madde 2 - Kurum ve kuruluşlar, bu Yönetmeliğin yayımı tarihinden itibaren üç ay içinde 6 ncı maddede belirtilen kurum dosya planlarını, bilgi edinme hakkının kullanımını kolaylaştıracak şekilde hazırlar ve bilgi iletişim teknolojilerini kullanmak suretiyle kamuoyunun bilgisine sunarlar.

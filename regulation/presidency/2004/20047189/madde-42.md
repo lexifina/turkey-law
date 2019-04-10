@@ -1,0 +1,4 @@
+Denetim ve ceza hükümleri
+Madde 42 - Bilgi edinme hakkının kullanımı kapsamındaki başvurulara ilişkin uygulamalar, kurum ve kuruluş yöneticilerince mevzuat dahilinde denetlenir.
+Kanunun ve bu Yönetmeliğin uygulanmasında ihmali, kusuru veya kastı bulunan memurlar ve diğer kamu görevlileri hakkında, işledikleri fiillerin genel hükümler çerçevesinde ceza kovuşturması gerektirmesi hususu saklı kalmak kaydıyla, tabi oldukları mevzuatta yer alan disiplin cezaları uygulanır.
+Kanunda ve bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde erişilen bilgi ve belgeler ticari amaçla çoğaltılamaz, kullanılamaz, erişimi sağlayan kurum ve kuruluştan izin alınmaksızın yayınlanamaz. Bu madde hükmüne aykırı olarak erişilen bilgi veya belgeleri ticari amaçla çoğaltanlar, kullananlar veya yayınlayanlar hakkında kanunların cezai ve hukuki sorumluluğa ilişkin hükümleri uygulanır.

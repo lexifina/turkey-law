@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 - Bu Yönetmelik; merkezi idare kapsamındaki kamu idareleri ile bunların bağlı, ilgili veya ilişkili kuruluşlarının, köyler hariç olmak üzere mahalli idareler ve bunların bağlı ve ilgili kuruluşları ile birlik veya şirketlerinin, T.C. Merkez Bankası ve üniversiteler de dahil olmak üzere kamu tüzel kişiliğini haiz olarak enstitü, teşebbüs, teşekkül, fon ve sair adlarla kurulmuş olan bütün kamu kurum ve kuruluşlarının ve kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetlerinde uygulanır.[1]

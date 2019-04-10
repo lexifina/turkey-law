@@ -1,0 +1,2 @@
+Başvuru sahiplerine yardım
+Madde 15 - Bilgi edinme birimlerinde görevli personel, bilgi edinme başvurusunda bulunan kişilere yol göstermekle ve Kanun kapsamında sahip oldukları hakları kullanabilmeleri için yardımcı olmakla yükümlüdür. Görevli personel bu amaçla, dilekçe veya formlardaki şekil noksanlıklarını başvuru sahiplerine başvuru anında belirtir ve bunların nasıl giderileceği konusunda yol gösterir.

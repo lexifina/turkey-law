@@ -1,0 +1,1 @@
+Geçici Madde 5 - Kurum ve kuruluşların bilgi edinme birimleri iki ay içinde elektronik posta yoluyla başvuru kabul edecek elektronik posta adreslerini oluşturarak internet sayfalarından kamuoyunun bilgisine sunarlar.
