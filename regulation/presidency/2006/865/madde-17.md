@@ -1,0 +1,3 @@
+Gizliliği koruma
+MADDE 17 – (1) Kurula gönderilen bilgi veya belgeler ile Kurul tarafından edinilen görüş, değerlendirme ve incelemelerden gizlilik derecesi bulunanların korunmasında ve saklanmasında gizlilik ilkesine uyulur. Kurul başkan ve üyeleri ile bu bilgileri derleyen ve değerlendiren tüm personel gizlilik ilkesinin gereklerine uymakla yükümlüdür. Bu yükümlülük, Kurul başkan ve üyeleri ile diğer personelin görevlerinden ayrılmalarından sonra da devam eder.
+(2) Kurul, alınan bilgi ve belgelerin gizliliğini korumak ve itiraz sonuçlandığında ilgili yerlere gizliliğini koruyarak teslim etmek zorundadır.

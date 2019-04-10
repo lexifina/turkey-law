@@ -1,0 +1,2 @@
+[1] 10/4/2019 tarihli ve 30741 sayılı Resmî Gazete’ de yayımlanan, 9/4/2019 tarihli ve 865 sayılı Cumhurbaşkanı Kararı ile bu fıkrada yer alan “Başbakanlık” ibareleri “Adalet Bakanlığı” şeklinde değiştirilmiştir.
+[2] 10/4/2019 tarihli ve 30741 sayılı Resmî Gazete’ de yayımlanan, 9/4/2019 tarihli ve 865 sayılı Cumhurbaşkanı Kararı ile bu maddede yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
