@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46093",
+  "decision_date": "2019-04-10",
+  "source_id": 18942,
+  "chamber": "7",
+  "file_number": "44031",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18942/",
+  "source_sha256": "42bbf9398b65402f233c103700026ee072b085a5b0412edbe2d58b39b601c190",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
