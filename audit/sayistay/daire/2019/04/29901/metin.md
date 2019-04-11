@@ -1,0 +1,7 @@
+Akademik teşvik puanının “oran/kişi sayısı” dikkate alınmadan hesaplanması.
+
+Birden fazla akademisyen tarafından yazılan kitap bölümlerinin, Akademik Teşvik Yönetmeliğinin 8 inci maddesinde yer alan “Özel bir paylaşım oranı olmayan veya isim sıralaması/derecelendirmesi bulunmayan faaliyetler için “oran/kişi sayısı” oranı dikkate alınır.” hükmü gereğince “oran/kişi sayısı” dikkate alınarak değerlendirilmesi ve buna göre akademik teşvik puanının hesaplanması gerektiği sorgu konusu yapılmış olsa da; sorumluların göndermiş oldukları savunmalardan, söz konusu kitaplardaki bölümlerin tek yazarlı olduğu ve sorgu konusu yapılan V. Bölümün editörün okuma kolaylığı ve tema bütünlüğü sağlamak için sonradan belirli başlıklar altında topladığı suni bir gruplama olduğu anlaşılmıştır. Dolayısıyla tek yazarlı olduğu anlaşılan bölümler için akademik teşvik puanı hesaplanırken “oran/kişi sayısı”nın dikkate alınması gerekmemektedir. Sonuç olarak ilgili kitaplarda sorgu konusu yapılan makaleler için akademik teşvik puanının hesaplanması mevzuat hükümlerine uygun olduğundan kamu zararından söz edilmesi mümkün görünmemektedir
+
+Bu itibarla, ilgili kitaplardaki söz konusu makalelerin tek yazarlı olduğu ve hesaplanan akademik teşvik puanının mevzuatına uygun olduğu anlaşıldığından konuya ilişkin … TL için ilişikli bir husus bulunmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
