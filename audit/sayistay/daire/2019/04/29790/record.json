@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "156",
+  "decision_date": "2019-04-11",
+  "source_id": 29790,
+  "chamber": "8",
+  "ilam_number": "192",
+  "item_number": 18,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29790/",
+  "source_sha256": "6d99ffa02fe9cd87c233320eb92a9eab90c1b10498f52d27cc11870a09988752",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
