@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "659",
+  "decision_date": "2019-04-11",
+  "source_id": 29490,
+  "chamber": "6",
+  "ilam_number": "565",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29490/",
+  "source_sha256": "0eeeaa1ebec246ab3a1a894f28402c81a6872e03fd3ef36d8cb6890edc840e8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
