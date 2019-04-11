@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "193",
+  "decision_date": "2019-04-11",
+  "source_id": 29318,
+  "chamber": "4",
+  "ilam_number": "397",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2013,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29318/",
+  "source_sha256": "61ef15f086fed7ee6c2e9f10bfa33e9e08aa6cce8afb5419783173356907b739",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
