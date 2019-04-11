@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "656",
+  "decision_date": "2019-04-11",
+  "source_id": 29917,
+  "chamber": "6",
+  "ilam_number": "371",
+  "item_number": 1,
+  "account_year": 2014,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29917/",
+  "source_sha256": "d1f74ea17d74be0579fe9cb6fcb507cf49d80df4a3e7954a5d962bde9f80adcd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
