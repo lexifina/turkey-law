@@ -1,0 +1,11 @@
+İhale Mevzuatı İle İlgili İşlemler
+
+Başkanlık katında bulunan 80 m2 protokol halısının temizletilmesi işinin temizlik hizmet alımı ihalesi kapsamında yaptırılması gerekirken, doğrudan temin yöntemiyle hizmet alımı şeklinde bir halı yıkama firmasına ayrıca yaptırılması sonucu kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+Temizlik Hizmeti Alım işine ilişkin olarak düzenlenen Teknik Şartnamenin 3 ve 4’üncü maddelerinde; halılar, paspaslar ve yollukların temizlenmesinin bu iş kapsamında olduğu ve temizlik işlerinin günlük, haftalık ve aylık olmak üzere üç aşamada yapılacağı, bu kapsamda halılar, yolluklar, koltuklar ile paspasların kirli ve tozlu bulundurulmayacağı ve vakumlu temizlik aletleri ile yıkanmak suretiyle gerekli şekilde temizleneceği belirtilmiştir.
+
+Yapılan incelemede; Yüksek Kurum tarafından daha önce defalarca yukarıda belirtilen aralıklarla mevcut temizlik firmasına temizlettirilen ancak istenen kalitede temizliğin sağlanamaması üzerine halıların daha profesyonel ve hijyenik bir şekilde temizletilmesinin sağlanması amacıyla bu alanda faaliyet gösteren bir firmadan halı yıkama hizmeti satın alındığı tespit edilmiştir.
+
+Takdir edileceği üzere; münhasıran halı yıkama sektöründe faaliyet gösteren firmaların, gerek tecrübeleri, gerekse de sahip oldukları temizlik araçları itibariyle sıradan bir temizlik firmasına göre çok daha profesyonel bir halı yıkama hizmeti sunacakları açıktır. Dolayısıyla, halılarının yerinde ve profil metal çerçevelerden çıkartılarak, güçlü sanayi tipi makinalar ile kuru ve ıslak köpüklü olmak üzere daha hijyenik bir şekilde temizlenmesini içerdiği ve halı yıkama firması tarafından yıkama işinde kullanılan makinaların söz konusu Temizlik Hizmet Alımı İhalesi kapsamında kullanılan makinalardan daha profesyonel ve performanslı olduğu anlaşıldığından, halı yıkatma hizmeti karşılığından firmaya yapılan ödeme sebebiyle kamu zararına yol açıldığından bahsetmek mümkün değildir.
+
+Bu itibarla, Başkanlık katında bulunan 80 m2 protokol halısının temizletilmesi işinin temizlik hizmet alımı ihalesi kapsamında temizlik firmasına yaptırılması yerine doğrudan temin yöntemiyle hizmet alımı şeklinde bir halı yıkama firmasına yaptırılmasının uyuşmazlık konusu edildiği ancak kamu zararı oluşturmayan … TL hakkında ilişilecek husus bulunmadığına; oy birliğiyle karar verildi.
