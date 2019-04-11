@@ -1,0 +1,3 @@
+Diğer bakanlık ve kuruluş müfettişleriyle birlikte çalışma
+MADDE 33 – (1) Birden fazla kamu kurum ve kuruluşunu ilgilendiren ön inceleme ve disiplin soruşturmaları, 10/1/1983 tarihli ve 83/5929 sayılı Bakanlar Kurulu kararıyla yürürlüğe giren Birden Fazla Kamu Kurum ve Kuruluşlarını İlgilendiren Soruşturmalarda Görevlendirilecek Müfettişlerin Görevlendirme Biçimine İlişkin Yönetmelik hükümlerine göre yapılır.
+(2) Bakanlık Mülkiye Teftiş Kurulu Başkanlığı ile birlikte görev yapılması durumunda, Mülkiye Müfettişi heyetin başkanı olup, görevle ilgili usul ve esaslar konusunda koordinatör görevini yürütür. Müfettişler, çalışma sonucu hakkında Başkanlığa bilgi verirler.

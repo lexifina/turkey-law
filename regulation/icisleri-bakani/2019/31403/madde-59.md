@@ -1,0 +1,2 @@
+Denetleme raporu
+MADDE 59 – (1) Denetleme raporu; birimlerin ve Emniyet Teşkilatı personelinin günlük faaliyetleri içindeki hizmetlerinin kalitesini, hizmet anındaki aksaklıkları tespit etmek, birimlerin hizmet standartlarının iyileştirilmesini sağlamak, personeli işbaşında değerlendirmek, yöneticilerin astlarını hizmete yönlendirmedeki bilgi ve becerilerini, astları üzerindeki otoritelerini ölçmek amacıyla yapılan işlemlerin sonunda düzenlenen rapordur.

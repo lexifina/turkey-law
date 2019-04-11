@@ -1,0 +1,2 @@
+İnceleme raporu
+MADDE 61 – (1) İnceleme raporu; birimlerin sorumlu olduğu faaliyet ve hizmetlerin yürütülmesi, bu hizmetlerle ilgili politika, standart ve hedeflerin belirlenmesi, planlama, koordinasyon ve denetiminin sağlanması, eğitimi, izlenmesi ve değerlendirilmesi, ilgili mevzuat ve diğer bilgi ve verilerin toplanarak analizinin ve yorumlamasının yapılması suretiyle etkinlik ve verimliliğin sağlanması amacıyla yapılan işlemlerin sonunda düzenlenen rapordur.

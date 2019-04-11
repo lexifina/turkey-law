@@ -1,0 +1,2 @@
+Tevdii raporu
+MADDE 66 – (1) Tevdii raporu; 4483 sayılı Kanun kapsamı dışında kalan, 5237 sayılı Kanun, 3628 sayılı Kanun ve açık olarak suç sayılan hareketlerin yazıldığı ceza hükmü içeren diğer kanunlar kapsamına giren bir suçla ilgili teftiş, denetleme, inceleme, araştırma ve disiplin soruşturması sırasında delil ya da emare elde edildiğinde, durumu Cumhuriyet Başsavcılığına bildirmek için düzenlenen rapordur.

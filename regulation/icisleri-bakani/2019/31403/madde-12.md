@@ -1,0 +1,20 @@
+Müfettişlerin görev ve yetkileri
+MADDE 12 – (1) Müfettişler, Genel Müdürün onayı üzerine Genel Müdür adına;
+a) Birimlerin çalışmalarını ve işlemlerini mevzuata göre teftiş etmek,
+b) Birimlerin yürüttüğü işlemlerin, kanun, yönetmelik, yönerge, genelge ve emirlere uygun olarak yürütülüp yürütülmediğini incelemek,
+c) Birimlerde görevli, suç işledikleri anlaşılan veya ihbar, iddia ve şikayet olunan personel hakkında verilen araştırma, ön inceleme ve disiplin soruşturma emrine göre işlem yapmak,
+ç) Teftiş, denetleme, inceleme, araştırma, ön inceleme ve disiplin soruşturması sırasında öğrendikleri veya tespit ettikleri suçların sübut delillerine el koyarak sorumlular hakkında gerekli ön inceleme ve disiplin soruşturması yapmak üzere Başkanlıktan ön inceleme ve disiplin soruşturma emri talep etmek,
+d) Disiplin suçu işlediği iddia edilen personel hakkında araştırma ve disiplin soruşturması yapmak,
+e) Denetledikleri birimin amir ve memurları hakkında personel değerlendirme raporu düzenlemek,
+f) Teftiş, denetleme, inceleme, araştırma, ön inceleme ve disiplin soruşturması sonucunda düzenledikleri raporu Başkanlığa göndermek,
+g) Önceki teftişlerde tespit edilen eksiklik ve aksaklıkların giderilip giderilmediğini, giderilmemiş ise sebeplerini araştırarak gerekirse sorumlular hakkında işlem yapılmasını teklif etmek,
+ğ) Birimlerin çalışmalarında öngörülen amaçlardan ve mevzuattan sapmalar veya eksiklik ve aksaklıklar varsa bunların düzeltilmesi için önerilerde bulunmak,
+h) Personelin görev bilincini, yeterlilik ve başarı derecesini, eğitim ve disiplin durumunu, tutum ve davranışlarını, halkla ilişkilerini incelemek, araştırmak ve değerlendirmek,
+ı) Personelin uzmanlık alanlarına ve yeteneğine uygun olarak istihdam edilip edilmediklerini araştırmak,
+i) Yerleşim durumu, bina, araç, gereç ve silahların bakımlı, düzenli ve ihtiyaca yeterli olup olmadığını tespit etmek,
+j) Personelin sağlık ve moral durumlarının yeterli olup olmadığını araştırarak yetersizlik görüldüğünde iyileştirici önerilerde bulunmak,
+k) Teftiş sırasında görevlilere rehberlik etmek, yol göstermek, eğiticilik ve öğreticilik yapmak,
+l) Teftiş Rehberinde gösterilen işleri yürütmek,
+m) Genel Müdürlüğü ilgilendiren konularda yurt içinde ve yurt dışında inceleme ve araştırmalar yapmak, görevlendirildikleri komisyon, kurs, seminer ve toplantılara katılmak,
+n) Kanun ve yönetmeliklerde gösterilen ve Başkan tarafından verilen diğer görevleri yapmak,
+ile görevlidir.

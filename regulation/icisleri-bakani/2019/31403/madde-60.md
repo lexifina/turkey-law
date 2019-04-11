@@ -1,0 +1,2 @@
+Disiplin soruşturma raporu
+MADDE 60 – (1) Disiplin soruşturma raporu; Emniyet Teşkilatı personelinin eylemlerinin, 657 sayılı Kanuna, 7068 sayılı Kanuna ve açık olarak suç sayılan hareketlerin yazıldığı ceza hükmü içeren diğer kanunlara göre suç teşkil etmesi halinde, personele disiplin cezası verilip verilmeyeceğini ortaya çıkarmaya elverişli bütün delillerin elde edilmesi için yapılan işlemlerin sonunda düzenlenen rapordur.

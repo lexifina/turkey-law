@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31403",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EMNİYET GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU BAŞKANLIĞI KURULUŞ, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "31403",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2019/31403",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31403&MevzuatTertip=5",
+  "source_sha256": "ba651d0000135763537499738e68a5fb2b9c022a5754bab6436a69f3945b3b3a",
+  "source_bytes": 219999,
+  "published": "2019-04-11",
+  "gazette": "30742",
+  "in_force": "2019-04-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.04.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5698,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

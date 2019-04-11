@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Görev, Yetki ve Sorumluluklar
+Başkanlığın görevleri
+MADDE 8 – (1) Başkanlığın görevleri aşağıda gösterilmiştir:
+a) Birimlerin amaçlarını etkili ve verimli bir şekilde gerçekleştirme derecesini saptamak, bu maksatla çalışmalarını, çalışma yerlerini, yerleşme durumlarını, kullanılan araç, gereç, silah ve metotları, çalışma esas ve usullerini, yapılan iş ve işlemleri, personelin tutum ve davranışlarının sıfat ve görev gereklerine uygun olup olmadığını ilgili mevzuata göre teftiş etmek.
+b) Birimlerde Genel Müdürün onayı üzerine araştırma, ön inceleme ve disiplin soruşturması yapmak; müfettişlerce teftiş, denetleme, inceleme, araştırma, ön inceleme ve disiplin soruşturması sırasında öğrenilen ön inceleme ve disiplin soruşturmasını gerektirir nitelikteki konularda ön inceleme ve disiplin soruşturma emri alınmak suretiyle kanunların verdiği yetkiye dayanarak ön inceleme ve disiplin soruşturması yapmak.
+c) Birimlerin amaçlarını daha iyi gerçekleştirmek, mevzuata, plan ve programlara uygun çalışmasını sağlamak amacıyla, çalışmalarda ve uygulamalarda ortaya çıkan mevzuat yetersizliği ve aksaklıklar ile öngörülen amaçlardan ve mevzuattan sapmalar, iç hukukun parçası haline gelmiş insan hakları standartlarına aykırılıklar, eksiklikler ve hatalar varsa veya mevzuat gerçek ihtiyaç ve duruma uygun değilse, bunların nedenlerini ortaya çıkarmak ve düzeltilmesi için uygun çözüm yollarını ve gerekli önerileri hazırlayıp sunmak.
+ç) Genel Müdür tarafından müfettişlik göreviyle ilgili olarak verilecek görevlerle kanun, yönetmelik ve diğer mevzuatla verilen teftiş, denetleme ve inceleme işlerini yapmak.

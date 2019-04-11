@@ -1,0 +1,3 @@
+Yurt dışına gönderilme
+MADDE 84 – (1) Müfettişler, Genel Müdür tarafından belirlenecek konularda inceleme, araştırma yapmak ve mesleki bilgi, görgü ve deneyimlerini arttırmaya yönelik eğitim görmek amacıyla 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik çerçevesinde bir yılı aşmamak üzere, Bakan onayı ile yurt dışına gönderilebilir.
+(2) Yurt dışına gönderilenler, döndükleri tarihten itibaren en geç üç ay içinde inceleme ve araştırmalarına ilişkin olarak düzenledikleri raporlarını Başkanlığa sunarlar.

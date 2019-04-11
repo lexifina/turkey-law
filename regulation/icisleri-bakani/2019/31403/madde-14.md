@@ -1,0 +1,4 @@
+Müfettişlerin bilgi ve belge isteme yetkileri
+MADDE 14 – (1) Müfettişler, yürüttükleri işlerle ilgili hizmet yönünden gerekli gördükleri bilgileri, defter, evrak ve belgeleri, teftiş, denetleme, inceleme, araştırma, ön inceleme ve disiplin soruşturması yaptıkları birim ve kuruluşlardan istemek ve görmek, bunların onaylı örneklerini, bir yolsuzluğun kanıtını oluşturanların asıllarını almak, kasa, depo ve ambarları incelemek ve saymak, bunları mühürlemek, inceleme ve sayma işlerinde yardım isteğinde bulunmak, gerektiğinde kamu kurum ve kuruluşlarıyla gerçek ve tüzel kişilerden bilgi ve belge istemek yetkisine sahiptirler.
+(2) İlgililer, müfettişlerin bu isteklerini geciktirmeden yerine getirmek ve müfettişlerin sorularını cevaplamakla yükümlüdür.
+(3) Asılları alınan belgelerin, müfettişlerin mühür ve imzasıyla tasdik edilmiş örnekleri dosyasında saklanmak üzere alındığı yere verilir.
