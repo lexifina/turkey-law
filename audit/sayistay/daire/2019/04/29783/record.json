@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "156",
+  "decision_date": "2019-04-11",
+  "source_id": 29783,
+  "chamber": "8",
+  "ilam_number": "192",
+  "item_number": 11,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29783/",
+  "source_sha256": "637f0ee1ce5ad0c5b1530d895a4a3bae9af3f0984f1efedd6df1eb3f38aaafca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

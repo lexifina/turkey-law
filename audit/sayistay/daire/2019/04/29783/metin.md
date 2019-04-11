@@ -1,0 +1,11 @@
+Huzur Ücreti
+
+Yönetim Kurulu Üyesi …’a yazılı beyanı alınmaksızın huzur ücreti ödenmesi sonucu kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+631 sayılı Kanun Hükmünde Kararnamenin 12’nci maddesinde; memurlar ve diğer kamu görevlilerinden, kurum ve kuruluşların yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyelikleri ve komisyon, heyet, komite ile benzeri organlarda görev alanlara, bu görevlerinden sadece biri için ücret ödenebileceği hükme bağlanmıştır.
+
+162 Seri Numaralı Devlet Memurları Kanunu Genel Tebliğinin 4 ve 5 numaralı bölümünde ise; 631 sayılı Kanun Hükmünde Kararnamenin 12’nci maddesi kapsamında birden fazla görev alanların, bu görevlerin hangisinden ücret alacağını belirleyerek asli görevli bulundukları Kurumun merkez teşkilatı personel birimi ile görev yaptığı birime on gün içinde bildirecekleri ve anılan maddede belirtilen görevler karşılığında ödeme yapacak kurum tarafından, ödeme yapılmadan önce ilgiliden kurumundan veya başka kurumlardan bu kapsamda kendilerine herhangi bir ödeme yapılmadığına dair yazılı beyan alınacağı, aksi taktirde böyle beyanda bulunmayanlara herhangi bir ödeme yapılmayacağı belirtilmiştir.
+
+Yapılan incelemede, … Kurumu tarafından Yönetim Kurulu Üyesi …’a yukarıda yer verilen mevzuat hükmüne aykırı olarak yazılı beyanı aranmaksızın huzur ücreti ödendiği tespit edilmiş olmakla birlikte savunmalar ekinde sunulan … tarihli belgenin incelenmesinde, ilgilinin Kurumda görev yaptığı tarihler arasında başka kurum ve kuruluşların; yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyeliği, komisyon, heyet ve komite ile benzeri organlarında görev yapmadığı ve bu görevlere bağlı olarak ücret almadığının beyan edildiği görülmüştür.
+
+Bu itibarla, …’a yazılı beyanı alınmaksızın … Kurumu tarafından huzur ücreti ödenmesi mevzuata aykırı olmakla birlikte, ilgiliden Yönetim Kurulu Üyesi olarak görev yaptığı tarihler arasında başka kurum ve kuruluşların; yönetim kurulu, denetim kurulu, tasfiye kurulu, danışma kurulu üyeliği, komisyon, heyet ve komite ile benzeri organlarında görev yapmadığına ve bu görevlere bağlı olarak ücret almadığına ilişkin olarak sonradan yazılı beyan alınması nedeniyle kamu zararına sebebiyet verilmediği anlaşıldığından, sorgu konusu edilen … TL hakkında ilişilecek husus bulunmadığına; oy birliğiyle karar verildi.
