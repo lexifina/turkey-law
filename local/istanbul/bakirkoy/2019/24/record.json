@@ -1,0 +1,23 @@
+{
+  "number": "24",
+  "number_as_published": "24",
+  "year": 2019,
+  "title": "İşletme Müdürlüğü’nün şeflik olarak Destek Hizmetleri Müdürlüğü’ne bağlanması",
+  "decision_date": "2019-04-12",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/38",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/24-isletme-mdnun-seflik-olarak-destek-hizmetleri-mdne-baglanmasi-12042019.pdf",
+  "source_sha256": "f0427276d903ba390073f78a5420b7c1daa917a3b4d7fb112e1a614042ae1017",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-04-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 Nisan 2019 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
