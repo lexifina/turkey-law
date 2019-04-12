@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-04-12",
+      "12.04.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30743",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-04-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Şehir Üniversitesi",
+  "issuer_slug": "istanbul-sehir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sehir-universitesi/2019/31405",
+  "published": "2019-04-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31405&MevzuatTertip=5",
+  "source_bytes": 29868,
+  "source_id": "8.5.31405",
+  "source_sha256": "a7d810402f22dde1d796b31bd12d4d76ccde30ee5cdb52b2c9591ca4dfd30f61",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ŞEHİR ÜNİVERSİTESİ ALTIN VE KIYMETLİ METAL\r\nÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ\r\nYÖNETMELİĞİ",
+  "university_id": 341,
+  "word_count": 1195
+}
