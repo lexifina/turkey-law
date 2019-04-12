@@ -1,0 +1,2 @@
+Başvurunun temsil niteliği
+MADDE 5 – (1) Başvuru aşamasında sunulan delillerden, başvuruda bulunan yerli üreticiler Kastamonu Entegre Ağaç San. ve Tic. A.Ş., Yıldız Entegre Ağaç San. ve Tic. A.Ş. ve Çamsan Entegre Ağaç San. ve Tic. A.Ş. ile söz konusu başvuruyu aktif olarak destekleyen AGT Ağaç Sanayi ve Ticaret A.Ş.’nin Yönetmeliğin 18 inci ve 20 nci maddeleri çerçevesinde yerli üretim dalını temsil niteliğini haiz olduğu anlaşılmıştır. Bu kapsamda, adı geçen firmalar bu Tebliğin ilgili bölümlerinde “yerli üretim dalı” olarak anılacaktır.
