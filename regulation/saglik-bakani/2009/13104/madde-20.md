@@ -1,0 +1,2 @@
+Gemi sağlık kontrol sertifikası ve gemi sağlık kontrolünden muafiyet sertifikası
+MADDE 20 – (1) Gemide yapılan denetim sonucunda, Genel Müdürlükçe belirlenen usul ve esaslar çerçevesinde, uluslararası sözleşmelere uygun olarak Gemi Sağlık Kontrol Sertifikası/Gemi Sağlık Kontrolünden Muafiyet Sertifikası verilir. Gemi Sağlık Kontrol Sertifikası/Gemi Sağlık Kontrolünden Muafiyet Sertifikasının süresi 6 aydır.

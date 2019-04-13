@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.13104",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİ",
+  "number": "13104",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2009/13104",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13104&MevzuatTertip=5",
+  "source_sha256": "30451c7b6d03b68abeff25cf13ff6b7abb52308218369ee28284080860031c35",
+  "source_bytes": 77575,
+  "published": "2009-06-10",
+  "gazette": "27254",
+  "in_force": "2019-04-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/4/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-04-13",
+      "RG-13/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-13",
+      "13/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-17",
+      "RG-17/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-17",
+      "17/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4316,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Aşı uygulamaları ve aşı sertifikaları
+MADDE 22 – (1) Genel Müdürlükçe uygun görülen merkezlere, uluslararası seyahat eden yolculara yönelik seyahat sağlığı hizmeti sunma, aşı uygulama ve uluslararası aşı belgesi verme yönünden yetkili kılınarak seyahat sağlığı merkezi haline getirilebilir.
+(2) Aşı hakkında yapılacak işlemlerin usul ve esasları Genel Müdürlük tarafından belirlenir. Seyahat sağlığı merkezlerince gemiadamlarına, yolculara, deniz işleri ile ilgili kimselere gerekli hallerde aşı tatbik edilir ve sonucunda Tüzüğe uygun aşı sertifikası verilir. Aşı sertifikalarının hekim tarafından düzenlenmesi şarttır. Ancak tabibin sorumluluğu altında yardımcı sağlık personeline de aşı uygulaması yaptırılabilir.
+(3) Aşı olması zorunlu olduğu halde aşı olmaktan kaçınan kimseler hakkında usulüne uygun bir zabıt varakası tanzim edilerek ilgili Cumhuriyet Savcılığına ve mülki idare amirine bildirilir.

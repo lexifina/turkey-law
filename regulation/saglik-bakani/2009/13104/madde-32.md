@@ -1,0 +1,2 @@
+İsteğe bağlı transit işlemine tabi gemiler
+MADDE 32 – (1) Bulaşık ve şüpheli olmayan bir limandan gelip Türk limanları ile temasında sağlık yönünden hiçbir mahzur bulunmadığı halde gemi kaptanlarının isteği ile Türk Boğazlarını transit geçmek isteyen gemiler, isteğe bağlı transit işlemine tabidir. Türk Boğazlarını isteğe bağlı transit olarak geçecek gemiler, Çanakkale veya Büyükdere Merkezlerinde sağlık denetimine tabi tutulurlar.

@@ -1,0 +1,2 @@
+İsteğe bağlı transit işlemine tabi gemilerin ihtilatı
+MADDE 33 – (1) Transit olarak geçmek üzere Çanakkale veya Büyükdere Merkezlerinde transit sağlık pratikası alan gemiler; Türk boğazlarında bir limana gelir veya yabancı bir limana gitmeksizin Türk boğazları dışında bir Türk limanına veya zorunlu ihtiyaçlarını karşılamak üzere İstanbul veya Çanakkale liman sahası içinde demirleyip (Değişik ibare:RG-13/4/2019-30744) 168 saatten fazla süre kalır, yük ve yolcu indirip bindirdiği takdirde, o limanda bulunan merkeze müracaat ederek serbest pratika almak zorundadır.

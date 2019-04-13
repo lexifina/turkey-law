@@ -1,0 +1,2 @@
+Pratika sırasında göz önüne alınacak hastalıklar
+MADDE 13 – (1) Merkez görevlilerinin pratika sırasında göz önünde tutacakları bulaşıcı hastalıklar; Tüzükte belirtilen, Dünya Sağlık Örgütü tarafından bildirilen veya Bakanlıkça ve Genel Müdürlükçe duyurulan uluslararası önemi haiz halk sağlığı acil durumunu gerektiren hastalıklardır. Bir geminin içinde, hareket ettiği veya uğradığı limanlarda bu hastalıklardan herhangi biri görüldüğü takdirde gerekli sağlık tedbirleri uygulanır.

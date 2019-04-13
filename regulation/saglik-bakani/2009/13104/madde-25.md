@@ -1,0 +1,4 @@
+Bulaşık patenta ve patentasız gemiler
+MADDE 25 – (1) Dünya Sağlık Örgütü tarafından bildirilen, Uluslararası Önemi Haiz Halk Sağlığı Acil durumlarından birinin bulunduğu bir limandan gelen gemiler bulaşık patentalı sayılır.
+(2) Temiz olduğu halde Türk limanlarından birine gelinceye kadar gemide bu hastalıklardan birinin görülmesi sebebi ile geminin sağlık durumunda meydana gelen değişiklikler yüzünden vasıfları bozulan patentalar da bulaşık sayılır.
+(3) Hiçbir patenta veya sağlık belgesine sahip olmadan Türk limanlarına gelen gemiler bulaşık patenta ile gelmiş gemiler gibi işleme tabi tutulur. Bu gemilerde gemiye ait bilgilerin incelenmesi sonunda temiz bir limandan geldiği ve geminin sağlık durumunda Uluslararası Önemi Haiz Halk Sağlığı Acil durumlarından herhangi birinin bulunmadığı anlaşıldığı takdirde serbest pratika izni verilir, aksi halde gereken sağlık tedbirleri alınır.

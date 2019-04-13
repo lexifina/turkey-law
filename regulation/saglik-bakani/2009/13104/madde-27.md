@@ -1,0 +1,3 @@
+Yedekte götürülen gemiler
+MADDE 27 – (1) Deniz araçları, yedeğinde ticaret kastı ile çekilen kayık, yat, mavna, şat ve benzeri araçlar için de ayrıca bir patenta alırlar. Ancak bu çekilme işi kayık, mavna, şat ve yatların yeni inşa edilmiş olmasından veya enkaz halinde tamir, satılmak veya buna benzer başka bir sebeple yedekte götürüldüğü veyahut çeken geminin yüküne dahil bulunduğu gümrük ve sair resmi makamların belgeleri ile tespit edildiği takdirde bu gibi yedeğe giren gemilerde patenta aranmaz.
+(2) Kurtarma gemilerinin yedeklerinde çekilen kazazede gemiler, patentası mevcut olduğu takdirde göstermeye mecburdurlar. Bu gibi kazazede gemilerin patentasının kaybolduğu anlaşıldığı takdirde durum tespit edilerek yeni patenta verilir.
