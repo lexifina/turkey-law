@@ -1,0 +1,22 @@
+{
+  "number": "24",
+  "number_as_published": "2019/24",
+  "year": 2019,
+  "title": "Gayrimenkul Satış Komisyonu üye seçimi",
+  "decision_date": "2019-04-13",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-nisan-ayi-meclis-kararlari/1593",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-24/1598",
+  "source_sha256": "9f4f4ff44fa609d092a32ad00ef0803f48fe01bc05b2f1b172cf42204b198376",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-04-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.04.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "e66a4fa3c09ca807dd15add2bb8fd5af85a69d61b2742a0721b43cc0fd9ebb87"
+}
