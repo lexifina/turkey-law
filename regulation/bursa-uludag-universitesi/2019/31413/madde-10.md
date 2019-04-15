@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10 – (1) Müdürünün önerisi ile ilgili anabilim dallarının öğretim üyeleri arasından birisi araştırma ve eğitim, diğeri de proje ve uygulama konularında yetkili olmak üzere Rektör tarafından iki müdür yardımcısı 3 yıllık süre ile görevlendirilir. Müdürün görevi başında bulunmaması durumunda Müdüre müdür yardımcılarından biri vekâlet eder. Müdüre vekâlet en çok altı ay sürer. Müdürün görevi bittiğinde müdür yardımcılarının da görevleri sona erer.
