@@ -1,0 +1,22 @@
+{
+  "number": "24",
+  "number_as_published": "2019/024",
+  "year": 2019,
+  "title": "16.04.2019 tarihli ve 2019/024 sayılı karar",
+  "decision_date": "2019-04-16",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=49",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/16042019-tarihli-ve-2019024-sayili-karar",
+  "source_sha256": "43fdbc57d9736964b3d3a0a7f1a29f73bff57382de2b87cb687cafcef7d61921",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-04-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.04.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/16042019-tarihli-ve-2019024-sayili-karar"
+}
