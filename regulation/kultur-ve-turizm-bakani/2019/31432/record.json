@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31432",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM BAKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "31432",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2019/31432",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31432&MevzuatTertip=5",
+  "source_sha256": "db04b86f0d525a1135ef50ff28458912e0806b51314ab5e146e7ff700bf519b4",
+  "source_bytes": 107626,
+  "published": "2019-04-17",
+  "gazette": "30748",
+  "in_force": "2019-04-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.04.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5758,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
