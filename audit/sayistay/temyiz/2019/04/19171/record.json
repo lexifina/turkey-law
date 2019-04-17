@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46114",
+  "decision_date": "2019-04-17",
+  "source_id": 19171,
+  "chamber": "2",
+  "file_number": "43346",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19171/",
+  "source_sha256": "26733b818a2fcc9efe48dbadaf7b025a6a21e80868be994122f94a31e8e04630",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
