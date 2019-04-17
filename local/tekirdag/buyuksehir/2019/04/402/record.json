@@ -1,0 +1,20 @@
+{
+  "number": "402",
+  "title": "PLAN DEĞİŞİKLİĞİ",
+  "decision_date": "2019-04-17",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1286",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1286/402",
+  "source_sha256": "11f77fde6ec973fb97fe3dc0d5c121e204a9e6faf27a7804737c9c83af4fbd6f",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2019-04-17",
+  "in_force_basis": "Official Birleşim Tarihi: 17.04.2019; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
