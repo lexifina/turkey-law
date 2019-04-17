@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46124",
+  "decision_date": "2019-04-17",
+  "source_id": 19184,
+  "chamber": "2",
+  "file_number": "44131",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19184/",
+  "source_sha256": "cbaf7955f13f7773fef5140f5b7e03cdcaea9f0ac104376ad09469b2f4b43488",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
