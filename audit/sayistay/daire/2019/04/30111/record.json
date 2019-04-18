@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "382",
+  "decision_date": "2019-04-18",
+  "source_id": 30111,
+  "chamber": "5",
+  "ilam_number": "374",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30111/",
+  "source_sha256": "39cf29ee43039ec59e1d953868269d044086946c229189af6579d1466505dd8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
