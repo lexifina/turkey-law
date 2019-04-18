@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "381",
+  "decision_date": "2019-04-18",
+  "source_id": 30350,
+  "chamber": "5",
+  "ilam_number": "330",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30350/",
+  "source_sha256": "2fafea4e52dd8a38facf723d2d48252049acbc3b8092c480acf144526a686a8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
