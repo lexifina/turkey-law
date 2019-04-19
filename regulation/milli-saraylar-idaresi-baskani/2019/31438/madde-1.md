@@ -1,0 +1,3 @@
+MİLLİ SARAYLAR BİLİM VE DEĞERLENDİRME KURULU YÖNETMELİĞİ
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı, Cumhurbaşkanlığının yönetiminde bulunan saray, köşk, kasırlar, müzeler ve tarihi fabrikaların bünyesindeki taşınır ve taşınmaz kültür varlıkları, tarihi bahçeler ve çevrelerinin bakım, onarım, restorasyon ve koruma hizmetlerinin bilimsel açıdan değerlendirilmesi amacıyla oluşturulan Milli Saraylar Bilim ve Değerlendirme Kurulunun oluşumu, çalışma usul ve esasları ile Milli Saraylar İdaresi Başkanlığı bünyesinde oluşturulacak danışmanlık ve ihtisas komitelerinin çalışma usul ve esaslarını belirlemektir.
