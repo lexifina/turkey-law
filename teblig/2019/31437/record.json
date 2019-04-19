@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31437",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BÜYÜK ENDÜSTRİYEL KAZALARLA İLGİLİ HAZIRLANACAK BÜYÜK KAZA ÖNLEME POLİTİKA BELGESİ TEBLİĞİ",
+  "number": "31437",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı",
+  "path": "teblig/2019/31437",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31437&MevzuatTertip=5",
+  "source_sha256": "8a3a34ec1922002fe5c03aac175d8ba0caa14defba70c2c923f225e7adf6ce17",
+  "source_bytes": 16195,
+  "published": "2019-04-19",
+  "gazette": "30750",
+  "in_force": "2019-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 459,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31437-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
