@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31436",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BÜYÜK ENDÜSTRİYEL KAZALARLA İLGİLİ HAZIRLANACAK GÜVENLİK RAPORU TEBLİĞİ",
+  "number": "31436",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı",
+  "path": "teblig/2019/31436",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31436&MevzuatTertip=5",
+  "source_sha256": "8a8079fec2d865d8483cb033ee17db23bb0e1bfcb7a442726c7f1b3f310442eb",
+  "source_bytes": 16375,
+  "published": "2019-04-19",
+  "gazette": "30750",
+  "in_force": "2019-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 443,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31436-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
