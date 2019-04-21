@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 42 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-04-15",
+      "15.04.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-04-21",
+      "RG-21/4/2019-30752",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-04-21",
+      "RG-21/4/2019-30752",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-04-21",
+      "21/4/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/4/2019-30752",
+  "first_law": null,
+  "gazette": "30392",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-04-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bezm-i Alem Vakıf Üniversitesi",
+  "issuer_slug": "bezm-i-alem-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bezm-i-alem-vakif-universitesi/2018/24520",
+  "published": "2018-04-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24520&MevzuatTertip=5",
+  "source_bytes": 85501,
+  "source_id": "8.5.24520",
+  "source_sha256": "7a17c16a69bb71054486d37a3dbed12b15f7f036c8032b4fda7101efbde4c0a3",
+  "text_status": "current-consolidated",
+  "title": "BEZM-İ ALEM VAKIF ÜNİVERSİTESİ ÖNLİSANS VE LİSANS EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 358,
+  "word_count": 4025
+}
