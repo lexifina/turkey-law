@@ -1,0 +1,3 @@
+Yönetim Kurulu
+Madde 6 — (Değişik:RG-21/4/2019-30752)
+YÜSEM Yönetim Kurulu; Rektör tarafından Üniversite akademik ve idari personeli arasından görevlendirilen en fazla dokuz üye ile Müdürden oluşur. Görevlendirilen üyelerden biri ilgili Rektör Yardımcısı olup, kurul başkanlığını bu üye yürütür. Kurul üyelerinin görev süresi iki yıldır. Kurul, müdürün çağrısı üzerine ayda en az bir kez toplanır. Yönetim Kurulu; eğitim programlarına ilişkin her türlü düzenlemeyi yapar, eğitim programları sonunda ilgili mevzuat çerçevesinde katılım belgesi, sertifika ve benzeri belgelerin verilme koşullarını belirler ve Üniversite Senatosuna önerir.
