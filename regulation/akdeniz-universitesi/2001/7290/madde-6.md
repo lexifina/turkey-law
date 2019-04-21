@@ -1,0 +1,3 @@
+Madde 6- AKÜNSEM Müdürü,Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygular. Yönetimi altındaki birimleri AKÜNSEMfin amaçları doğrultusunda yönetir. Eğitim programlarının başarılı ve amaca uygun olarak gerçekleşmesi için gerekli önlemleri alır.
+AKÜNSEMfin amaçları doğrultusunda, faaliyet alanları ile ilgili olarak taraflarla görüşmeler yapar, projeler hazırlar yada hazırlatır, ihalelere katılır yada AKÜNSEMfin ihalelere katılımını sağlar, sözleşmeler yapar ve yükümlülük altına girer.Faaliyet raporunu hazırlar ve Yönetim Kuruluna sunar.
+AKÜNSEM adına her türlü iletişimi sağlar.

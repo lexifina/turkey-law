@@ -1,0 +1,3 @@
+Danışma Kurulu
+Madde 9- AKÜNSEM Danışma Kurulu; her Fakülte,Enstitü,Konservatuar, Yüksekokul ve Meslek Yüksekokulu ile Rektörlüğe bağlı bölümlerin yönetim kurullarınca belirlenen birer üyeden oluşur. Danışma Kurulu üyelerinin görev süresi 2 yıldır. Süresi dolan üyeler yeniden Danışma Kuruluna seçilebilir. Süreleri bitmeden ayrılan üyelerin yerine, kalan süreyi doldurmak üzere yenileri seçilir.
+Danışma Kurulu,Merkez Müdürünün çağrısı üzerine yılda en az iki defa toplanır. Merkez ile ilgili faaliyetleri değerlendirir, önerilerde bulunur. Faaliyet alanları ile ilgili alt komisyonlar oluşturabilir.

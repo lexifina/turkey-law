@@ -1,0 +1,3 @@
+Madde 8- Yönetim Kurulu, Müdürün daveti üzerine toplanır. Müdür tarafından hazırlanan gündem maddelerini görüşerek karar alır. Yönetim Kurulu salt çoğunlukla karar alır.
+Yönetim Kurulu; AKÜNSEM Müdürünün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit eder, sunulan raporu değerlendirir, bir sonraki döneme ait çalışma programını düzenler. Birinci maddede anılan programlar sonunda verilecek başarı belgesi, sertifika ve benzeri belgelerin verilme koşullarını Üniversite Senatosuna önerir.
+Ayrıca teklif edilen eğitim programlarının hangilerinin düzenleneceğini, düzenlenen programlarda kimlerin görevlendirileceği ve yapılacak ödemelerin miktarını belirlemeye Yönetim Kurulu yetkilidir. Merkezin bütçesini hazırlar.
