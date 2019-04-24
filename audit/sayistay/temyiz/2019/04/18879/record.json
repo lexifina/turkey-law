@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46164",
+  "decision_date": "2019-04-24",
+  "source_id": 18879,
+  "chamber": "6",
+  "file_number": "44358",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18879/",
+  "source_sha256": "fe854ef8a043cb56d840c6638577f0126b95f8b1daeb337bbd1dbf1662d2bd78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
