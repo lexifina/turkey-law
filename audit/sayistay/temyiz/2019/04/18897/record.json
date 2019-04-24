@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46182",
+  "decision_date": "2019-04-24",
+  "source_id": 18897,
+  "chamber": "6",
+  "file_number": "44376",
+  "account_year": "2016",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/18897/",
+  "source_sha256": "a4ebed180c204d82a80d2127c0949da0a4412e7ddeb25cca0614c74ab678774d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
