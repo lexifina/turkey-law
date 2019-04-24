@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-04-24",
+  "issue": "30754",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Anadolu Üniversitesi Açıköğretim, İktisat ve İşletme Fakülteleri Yaz Okulu Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190424-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190424.htm",
+  "index_sha256": "26f133a348a1e96b53d4b59abb3e5aed6799ccef24b0f7829076d4e393029d7c",
+  "index_header": "24 Nisan 2019 ... 30754 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/04/20190424.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
