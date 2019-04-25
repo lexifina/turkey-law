@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27192137-105[155-2018/430]-E.27059",
+  "source_id": 25238,
+  "date": "2019-04-25",
+  "title": "Avukatın askerlikten önce işi terk etmesi ve dönüşte yeniden işe başlaması durumunda askerlikte geçen sürenin geçici ayrılma kapsamında olup olmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25238",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "e2b987a0088e9261e1c8242a97072a8f15f8f0bb6817a35ef744036677e8344a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
