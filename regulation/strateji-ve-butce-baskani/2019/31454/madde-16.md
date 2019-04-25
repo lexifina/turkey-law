@@ -1,0 +1,6 @@
+Sınav kurulu ve görevleri
+MADDE 16- (1) Sınav kurulu; Başkanın veya görevlendireceği Başkan Yardımcısının ya da Yönetim Hizmetleri Genel Müdürünün başkanlığında aralarında personel iş ve işlemlerinden sorumlu Daire Başkanının da bulunduğu, Başkan tarafından belirlenen Strateji ve Bütçe Uzmanı veya en az bu görev düzeyinde unvana sahip toplam beş asil ve beş yedek üyeden teşekkül eder. Asil üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(2) Sınav kurulunu teşkil eden üyeler, sınavlara alınacak personelden, lisansüstü öğrenim hariç öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar. Sınav kurulu başkan ve üyelerinin, eşleri veya ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının sınava katılmaları halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(3) Sınav kurulu üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılmaz.
+(4) Sınav kurulunun sekretarya hizmetleri, personel iş ve işlemlerinden sorumlu Daire Başkanlığınca yürütülür.
+(5) Sınav kurulu; sınavların yapılması, sınav sonuçlarının ilanı ve yapılan itirazların sonuçlandırılması ile sınavlara ilişkin diğer iş ve işlemleri yürütür.

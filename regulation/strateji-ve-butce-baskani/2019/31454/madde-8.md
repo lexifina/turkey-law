@@ -1,0 +1,3 @@
+Unvan değişikliği suretiyle yapılacak atamalara ilişkin genel şartlar
+MADDE 8- (1) Bu Yönetmelik kapsamındaki personelin, en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanmaları, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yapılacak unvan değişikliği sınavı sonundaki başarısına göre gerçekleştirilir.
+(2) Unvan değişikliği yazılı sınavları, Başkanlıkça belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda ÖSYM, Milli Eğitim Bakanlığı veya yükseköğretim kurumlarından birine yaptırılır ve bu sınavlara katılacaklarda, Başkanlıkta veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Başkanlıkta 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu hükümleri çerçevesinde görev yapan personelden, 5 inci maddede sayılan kadrolara, görevde yükselme veya unvan değişikliği suretiyle asaleten atanacakları kapsar.
+(2) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelin; mevzuatta atanılacak görev için belirtilen ve 6 ncı maddenin birinci fıkrasına göre hesaplanan toplam hizmet süresine sahip olmaları ve mevzuatla aranan öğrenim şartını taşımaları kaydıyla, uzman unvanına veya bu unvanla aynı düzeydeki görevler ile daha alt görevlere atamalarında bu Yönetmelik hükümleri uygulanmaz.

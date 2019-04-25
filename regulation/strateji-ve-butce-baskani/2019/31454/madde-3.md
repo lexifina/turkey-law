@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 657 sayılı Devlet Memurları Kanunu, 13 sayılı Strateji ve Bütçe Başkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin 15 inci maddesi hükümlerine dayanılarak hazırlanmıştır.
