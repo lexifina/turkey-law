@@ -1,0 +1,4 @@
+Ders programı
+MADDE 12 – (1) Ders programı, hukuk mesleğinin Türkiye’de ve uluslararası alanda icrası için gerekli temel bilgileri içerecek kapsam ve derinlikte hazırlanır. Derslerde, dersin konusuyla ilgili ulusal ve uluslararası hukuk kaynakları ile mahkeme kararları incelenir.
+(2) Programda, öğrencilerin yabancı dil becerilerini meslek alanında etkili şekilde kullanabilmelerini, özellikle Türkiye’nin ve Türk vatandaşlarının haklarının uluslararası alanda korunması için gerekli mesleki yeterliliği edinmelerini sağlamak için yeterli sayıda İngilizce derslere ve zorunlu Almanca dil derslerine yer verilir.
+(3) Dördüncü sınıf ders programında, geçmiş yıllarda farklı dönemlerde alınan derslerde öğrenilen bilgilerin bir bütün olarak kavranılmasını ve uygulamaya dönük bilgilerle pekiştirilmesini sağlamak için özel hukuk uygulamaları ve ceza hukuku uygulamaları derslerine yer verilir.
