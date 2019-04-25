@@ -1,0 +1,2 @@
+Basın bülteni ve basın açıklaması
+MADDE 22- (1) Başkanlık çalışmaları ve faaliyet alanları ile ilgili konularda haber niteliği taşıyan her türlü bilgi Başkanlık dışına basın bülteni ile Müşavirlik tarafından duyurulur. Başkanlığın faaliyet alanları ile ilgili yazılı veya sözlü basın açıklaması, Başkan veya Başkanın yetki verdiği görevli tarafından yapılır. Basın açıklamasına ilişkin iş ve işlemler Müşavirlik tarafından yürütülür.

@@ -1,0 +1,3 @@
+Kişisel yayınlar için izin alma
+MADDE 12- (1) Personele ait, Başkanlıktaki mesleki kimliğiyle ilişkili araştırma, inceleme, makale ve rapor gibi görsel/yazılı/sözlü çalışmaların, Başkanlık dışındaki basın ve yayın organlarınca yayımlanabilmesi için ilgilinin bağlı olduğu birim amirlerinin uygun görüşü alınır. Çalışma, Müşavirlik tarafından izin alınmak üzere Başkan onayına sunulur. Onaylanan çalışmalar “Başkanlık görüşünü yansıtmaz ve sorumluluğu yazarına aittir” ibaresi ile yayımlanır.
+(2) Personelin kamu personeli ile ilgili genel hükümlere aykırı olmamak kaydıyla mesleki kimliği ile ilgili olmayan her tür görsel/yazılı/sözlü bireysel çalışmaları izne tabi değildir.
