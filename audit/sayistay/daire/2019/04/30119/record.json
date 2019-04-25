@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35582",
+  "decision_date": "2019-04-25",
+  "source_id": 30119,
+  "chamber": "2",
+  "ilam_number": "213",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30119/",
+  "source_sha256": "66f946d1f2dd29b82c7527ede6e8031d8967cae92ee41483313aa8db2be42110",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
