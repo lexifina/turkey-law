@@ -1,0 +1,20 @@
+{
+  "applicant": "A.K.",
+  "application_date": "2015-06-22",
+  "application_number": "2015/10298",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-03-07",
+  "id": "d3c7d9bb-83e7-993b-b02e-340a9e85f7ad",
+  "in_force": "2019-04-26",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2019-04-26",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQzYzdkOWJiLTgzZTctOTkzYi1iMDJlLTM0MGE5ZTg1ZjdhZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "4a76dace438a33a027e65b651f4e200a58363930cfe489e5287eb06405c03026",
+  "version_label": "as-enacted"
+}
