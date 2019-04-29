@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-116 / 2019-6",
+  "source_id": 725,
+  "date": "2019-04-29",
+  "title": "Elektronik defter (e-Defter) uygulamasına dâhil olanlar tarafından 30 Nisan 2019 günü sonuna kadar oluşturulması ve imzalanması gereken e-Defterlerin oluşturulma ve imzalanma süresi ile aynı sürede Gelir İdaresi Başkanlığı Bilgi İşlem Sistemine yüklenmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/725",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "46a5ad3b262f00b2ff05c48788356c4f3d6fe4250178a415c676e24422eb45d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
