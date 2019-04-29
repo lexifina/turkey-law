@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Sakarya Üniversitesi Hukuk Fakültesinde görev yapan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.
+(2) Müdür, kendisine yardımcı olmak üzere, Üniversitede tam zamanlı çalışan öğretim elemanlarından birisini müdür yardımcısı olarak görevlendirir. Müdürün diğer bir görev, rahatsızlık, istifa ve benzeri nedenlerle görevi başında bulunmadığı veya ayrıldığı zamanlarda, yardımcısı vekâleten bu görevi yürütür. Göreve vekâlet altı aydan fazla sürer ise aynı usulle yeni Müdür görevlendirilir. Müdürün görevi sona erdiği zaman yardımcısının da görevi sona erer.

@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında müdür yardımcısı ile Sakarya Üniversitesi Hukuk Fakültesi öğretim elemanları arasından Rektör tarafından görevlendirilen üç üye olmak üzere toplam beş üyeden oluşur. Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu üyelerinin görev süresi üç yıl olup süresi biten üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyelerin yerine, kalan süreyi doldurmak üzere yeni üyeler görevlendirilir.
+(2) Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır. Yönetim Kurulu kararlarını toplantıya katılan üyelerin oy çokluğu ile alır. Oyların eşitliği durumunda Müdürün oyu yönünde karar alınmış sayılır.
