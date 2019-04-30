@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "666",
+  "decision_date": "2019-04-30",
+  "source_id": 30020,
+  "chamber": "6",
+  "ilam_number": "205",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30020/",
+  "source_sha256": "61cad781827221efe64968d58ba5ea6d5648582154a57ebf198c5cafeb771ff9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
