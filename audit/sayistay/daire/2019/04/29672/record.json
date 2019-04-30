@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10751",
+  "decision_date": "2019-04-30",
+  "source_id": 29672,
+  "chamber": "1",
+  "ilam_number": "175",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29672/",
+  "source_sha256": "b420a39524471227ccdd26d5c258b4bf1bd6a21be24c0a01f35cbbb33c602214",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
