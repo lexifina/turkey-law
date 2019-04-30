@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2019,
+  "month": 4,
+  "title": "2019 NİSAN AYI MECLİS KARARLARI (04-2019)",
+  "decision_date": null,
+  "index_date": "2019-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2019",
+  "source": "https://www.nevsehirozelidare.gov.tr/2019-nisan-ayi-meclis-kararlari-04-2019",
+  "official_page": "https://www.nevsehirozelidare.gov.tr/2019-nisan-ayi-meclis-kararlari-04-2019",
+  "official_document": "https://www.nevsehirozelidare.gov.tr/2019-nisan-ayi-meclis-kararlari-04-2019",
+  "source_sha256": "48ef4b196f805972308a8ec0137c8f406e3199fa9ec604655ad4fc171a820a21",
+  "issuer": "Nevşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2019 NİSAN AYI MECLİS KARARLARI (04-2019)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
