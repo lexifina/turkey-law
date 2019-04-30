@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10752",
+  "decision_date": "2019-04-30",
+  "source_id": 30093,
+  "chamber": "1",
+  "ilam_number": "402",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30093/",
+  "source_sha256": "ee4b3b5fe4208b2912d10e89a079786342a88e9eb37877686331647ed8eb6672",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
