@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.31465",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KİŞİSEL KORUYUCU DONANIM YÖNETMELİĞİ",
+  "number": "31465",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı",
+  "issuer_slug": "aile-calisma-ve-sosyal-hizmetler-bakani",
+  "path": "regulation/aile-calisma-ve-sosyal-hizmetler-bakani/2019/31465",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31465&MevzuatTertip=5",
+  "source_sha256": "d3547619f6cfe24d1b766dfbb55b4a50e04716f41ff0e4ca1c9ee9d9b367471a",
+  "source_bytes": 93053,
+  "published": "2019-05-01",
+  "gazette": "30761",
+  "in_force": "2019-05-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.05.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5314,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31465-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
