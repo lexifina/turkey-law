@@ -1,0 +1,20 @@
+{
+  "applicant": "B.P.O.",
+  "application_date": "2015-12-04",
+  "application_number": "2015/19012",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2019-03-27",
+  "id": "f93f540c-9a88-5452-bc1a-df5624850fb2",
+  "in_force": "2019-05-01",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2019-05-01",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY5M2Y1NDBjLTlhODgtNTQ1Mi1iYzFhLWRmNTYyNDg1MGZiMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ec4f8ad46ef1233b4c3d025510c3956b8b5013d8b946dc7087a78a2014196430",
+  "version_label": "as-enacted"
+}
