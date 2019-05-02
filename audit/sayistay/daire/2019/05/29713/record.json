@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "157",
+  "decision_date": "2019-05-02",
+  "source_id": 29713,
+  "chamber": "8",
+  "ilam_number": "184",
+  "item_number": 26,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29713/",
+  "source_sha256": "6b1eadd06e5215ee46e180e86ec1d4100263f82cf568cf48bfb60adc4b1f5360",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
