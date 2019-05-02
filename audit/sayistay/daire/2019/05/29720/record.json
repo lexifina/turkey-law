@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "157",
+  "decision_date": "2019-05-02",
+  "source_id": 29720,
+  "chamber": "8",
+  "ilam_number": "184",
+  "item_number": 33,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29720/",
+  "source_sha256": "38f79c394c33fdf89ae406ea21eec4c89af04dcc5724fc6db91e98d3ab9d1599",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
