@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin Yörükler ile ilgili çalışmalarıyla temayüz etmiş öğretim elemanları ile eğitim, sosyoloji, halk edebiyatı, güzel sanatlar ve sosyal bilimler alanında görev yapan ve Merkezin faaliyet konularında Merkezin amacına uygun çalışmaları bulunan öğretim elemanları arasından Rektör tarafından 3 yıllık bir süre için görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Yönetim Kurulu üyeleri arasından en az bir kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün geçici olarak görevinden ayrılması halinde yerine Müdürün görevlendirdiği müdür yardımcısı vekâlet eder. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.

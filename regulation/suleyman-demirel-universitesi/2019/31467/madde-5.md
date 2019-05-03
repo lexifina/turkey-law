@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Isparta ve çevresinde yaşayan halkın önemli bir kısmının Yörük olması nedeniyle Türk toplumunun önemli yapı taşlarından birisi olan Yörük kültürünü her bakımdan tüm yönleri ile disiplinler arası bir yaklaşımla araştırıp, Yörük kültürüne dair bütün unsurları ortaya koymak, bu verileri kayıt altına almak, korumak, geliştirmek, bölge halkının yaşam tarzını ve kültürünü akademik düzeyde araştırmak, incelemek ve bu konuda bilimsel eserler vererek bilgileri gelecek nesillere aktarmak.
+b) Yörük kültürünü oluşturan temel etken ve etmenleri disiplinler arası bir bilimsel bakış açısı ile araştırmak, kaybolmaya yüz tutmuş bu kültürü bilimsel anlamda desteklemek.
+c) Yörük yaşamı tarzından son yüzyılda yarı yerleşik veya yerleşik hayata geçmiş bu kültürü ulusal ve uluslararası alanlarda tanıtmak, ulusal ve uluslararası boyutta doğrudan ve dolaylı olarak ilgili konulara yönelik araştırma ve incelemelerde bulunmak, proje ve eğitim çalışmaları gerçekleştirmek ve bu yönde gelecek istekleri değerlendirerek karşılamak.
+ç) Yörük kültürünün yerleşik hayata geçişle birlikte uğradığı değişimleri ve günümüzde hala göçebe hayata devam eden konargöçerlerin sosyo-kültürel yapılarını yerinde incelemek,
+d) Yörük kültürünün etkileşim içinde olduğu uzak-yakın kültürlerle ilişkilerini araştırmak ve var olan ilişkileri geliştirmeye yönelik faaliyetlerde bulunmak.
+e) Eğitim, araştırma, çalışma ve yayın faaliyetlerinin yürütülmesinde yerli, yabancı, resmî ve özel kuruluşlarla iş birliği yaparak bu kuruluşların bilgi ve insan kaynaklarından yararlanmak, Merkezde çalışacak ekibi oluşturarak geliştirmek.
+f) Merkezin ilgi alanına giren her türlü eğitim, araştırma, inceleme ve yayınlar yapmak, süreli yayınlar çıkarmak ve bu tür çalışmalara destek sağlamak, ulusal ve uluslararası düzeyde seminer, konferans, kongre, sempozyum ve buna benzer bilimsel toplantılar düzenlemek ve bu toplantılara katılmak, yurt içi ve yurt dışında istem ve gereksinimler doğrultusunda hizmet içi eğitim, seminer, kurs, yaz okulu ve çalışmalar yapmak ve gerektiğinde ilgili mevzuat hükümleri çerçevesinde bu çalışmalarla ilgili sertifikalar vermek.
