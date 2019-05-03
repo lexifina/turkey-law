@@ -1,0 +1,23 @@
+{
+  "number": "meeting-05-03",
+  "number_as_published": "meeting-05-03",
+  "year": 2019,
+  "title": "2019 Yılı Mayıs Ayı Meclis Kararları 03-05-2019",
+  "decision_date": "2019-05-03",
+  "source": "https://www.iscehisar.bel.tr/meclis-kararlari.html",
+  "official_document": "https://www.iscehisar.bel.tr/images/uploads/docs/03052019-karar-15e186e1dc4692.docx",
+  "source_sha256": "be2a2b28a752b980557367b90d115dfef18d2531601008ba58d5f885bd09c4be",
+  "issuer": "İscehisar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-05-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03-05-2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2019 Yılı Mayıs Ayı Meclis Kararları 03-05-2019",
+  "record_scope": "one official file of council decisions (meeting)"
+}
