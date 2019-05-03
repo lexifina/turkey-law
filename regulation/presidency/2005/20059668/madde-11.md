@@ -1,0 +1,2 @@
+Yenileme alanının onaylanması
+Madde 11- (Değişik: RG-3/5/2019-30763- C.K.- 1029/2 md.) Yetkili idarelerin kesinleşen kararları Cumhurbaşkanı onayına sunulmak üzere; il özel idarelerince İçişleri Bakanlığına, büyükşehir, il veya ilçe belediyelerince Çevre ve Şehircilik Bakanlığına gönderilir. Yenileme alanı kararı, Cumhurbaşkanı kararının Resmi Gazete’de yayımlandığı tarihte yürürlüğe girer ve uygulama bir yıl içinde başlatılır.

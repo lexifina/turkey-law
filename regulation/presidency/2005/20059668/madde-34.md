@@ -1,0 +1,3 @@
+Konut ve işyerlerinin satışı
+Madde 34– Kanuna göre yenileme alanlarında üretilen konut ve işyerlerinin satışı 29/9/2005 tarihli ve 25951 sayılı Resmi Gazete’de yayımlanan “Belediyelerin Arsa, Konut ve İşyeri Üretimi, Tahsisi, Kiralaması ve Satışına Dair Genel Yönetmelik”e göre yapılır.
+Ancak, yenileme alanlarındaki kamu kurum ve kuruluşlarına ait binalarda kiracı olan işyeri sahiplerine yetkili idare tarafından uygun görülen taşınmazların satışında öncelik verilebilir. Aynı iş yerine birden çok talep olması halinde bu kiracılar arasında ihale yapılabilir. Yenileme alanlarından taşınması gereken bu tür kiracılarla yetkili idare anlaşmalar yapılabilir.

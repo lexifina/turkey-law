@@ -1,0 +1,6 @@
+Yenileme projelerinin onaylanması
+Madde 17- Yetkili idareler tarafından yapılan veya yaptırılan yenileme avan projesi koruma bölge kurulu kararını müteakip yetkili idarelerin meclis üye tam sayısının salt çoğunluğunun kararı ile; belediyelerde belediye başkanının, il özel idarelerinde valinin onayı ile yürürlüğe girer.
+Büyükşehir belediye sınırları içinde büyükşehir belediyelerinin yapacaklarının dışında kalan yenileme avan projesi, ilçe (…)[8] belediye meclislerinde kabulünden sonra büyükşehir belediye başkanınca onaylanarak yürürlüğe girer.8
+(Değişik fıkra: 3/7/2017 - 2017/10544 K.) Yenileme uygulama projeleri, yenileme avan projeleri esas alınarak hazırlanır. Tescilli taşınmazlara ilişkin rölöve, restitüsyon ve restorasyon projeleri ile tescilli parsele komşu olan veya aralarında yol geçse dahi tescilli parsele cephe veren taşınmazlara ait mimari projeler koruma bölge kurulunun onayını takiben uygulanır. Bu taşınmazlar dışındaki yenileme uygulama projeleri ilgili idarelerin onayından sonra uygulanır.
+(Ek fıkra: 3/7/2017 - 2017/10544 K.) Yenileme avan ve uygulama projeleri eş zamanlı olarak yapılabilir.
+(Ek fıkra: 3/7/2017 - 2017/10544 K.) Yenileme avan projesi onaylanmayan alanlarda bulunan tescilli taşınmazlara ilişkin hazırlanan rölöve, restitüsyon ve restorasyon projeleri koruma bölge kurulunda değerlendirilebilir.

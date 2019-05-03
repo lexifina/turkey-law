@@ -1,0 +1,2 @@
+Projeye katılım
+Madde 22- Yenileme alanı içindeki parsellerdeki uygulamalarda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerin mülkiyetinde olan ve yapısı aynen korunacak veya yenilenecek yapılar, yetkili idarenin uygun görmesi ve projenin bütünlüğünün bozulmaması şartıyla ilgili kamu kurum veya kuruluşları ya da gerçek veya tüzel kişiler tarafından yapılabilir. Bu şekildeki uygulamanın projeyle eş zamanlı olarak başlatılması ve tamamlanması esastır. Yetkili idare, zamanında tamamlanmayan bu yapıları kendisi tamamlayabileceği gibi kamulaştırabilir.

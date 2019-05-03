@@ -1,0 +1,5 @@
+Kamulaştırma
+Madde 24- Yenileme alanlarında bulunan yapıların boşaltılması, yıkımı ve kamulaştırmasında anlaşma yolu esastır.
+Anlaşma sağlanamayan hallerde gerçek ve özel hukuk tüzel kişilerinin mülkiyetinde bulunan taşınmazlar yetkili idareler tarafından kamulaştırılabilir. Kanun uyarınca yapılacak kamulaştırmalar 2942 sayılı Kamulaştırma Kanununun 3 üncü maddesinin ikinci fıkrasındaki iskan projelerinin gerçekleştirilmesi amaçlı kamulaştırma sayılır.
+Yenileme alanlarında yapılacak kamulaştırmalarda ödenecek kamulaştırma bedelinin o yıl yetkili idare bütçesinde gösterilen miktarı nakden ve peşin olarak ödenir. Bu miktar, kamulaştırma bedelinin altıda birinden az olamaz. Kalan kamulaştırma bedeli en fazla beş yıl içinde faiziyle birlikte ödenmek üzere eşit taksitlere bağlanır. Bu durumda peşin ödeme gününü takip eden günden itibaren, Devlet borçları için öngörülen en yüksek faiz haddi uygulanır.
+(İptal son fıkra: Danıştay İdari Dava Daireleri Kurulunun 11/10/2012 tarihli ve E.: 2008/1791, K.: 2012/1531 sayılı Kararı ile.)
