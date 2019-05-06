@@ -1,0 +1,24 @@
+{
+  "number": "14",
+  "number_as_published": "14",
+  "year": 2019,
+  "title": "302474 OTO LASTİK TAMİRARATI YUSUF SAÇAN LASTİK TAMR İÇ VE DIŞ LASTİK ALIMI 09 DY 042 09 VK 795 171,60",
+  "decision_date": "2019-05-06",
+  "source": "https://www.kocarli.bel.tr/mecliskararlari",
+  "official_document": null,
+  "source_sha256": "486d1dec976ae3e5cae0769bf2dec7b10c8ae322542c697582f3289699dfc159",
+  "issuer": "Koçarlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2019-05-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.05.2019 (KARAR TARİHİ in the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date, decision summary as listed in the meeting's table)",
+  "listing_item": "",
+  "official_page": "https://www.kocarli.bel.tr/mecliskararlari"
+}
