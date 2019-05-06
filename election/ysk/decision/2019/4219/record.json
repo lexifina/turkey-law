@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/4219",
+  "list_number": "4219",
+  "decision_date": "2019-05-06",
+  "title": "Yüksek Seçim Kurulunun 31 Mart 2019 tarihinde yapılan İstanbul Büyükşehir Belediye Başkanlığı seçiminin iptaline ve seçimin yenilenmesine ilişkin 2019/4219 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78053/2019-4219.pdf",
+  "source_sha256": "0f5d25e653bee1b32586c9f1e44c9d0cc639af230f57ed17578d238d2da5c249",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 250,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-05-06",
+  "law_text_complete": false
+}
