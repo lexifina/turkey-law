@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-05-07",
+      "07.05.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30767",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hakkari Üniversitesi",
+  "issuer_slug": "hakkari-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hakkari-universitesi/2019/31487",
+  "published": "2019-05-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31487&MevzuatTertip=5",
+  "source_bytes": 26123,
+  "source_id": "8.5.31487",
+  "source_sha256": "09e2d66de88072f484bf7bb5aea3e277b2d56b63f820af6bdab5721b805caf94",
+  "text_status": "as-enacted",
+  "title": "HAKKARİ ÜNİVERSİTESİ BİYOLOJİK ÇEŞİTLİLİK ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 346,
+  "word_count": 1095
+}

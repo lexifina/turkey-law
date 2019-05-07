@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Bölgemizin ve Türkiye’nin biyolojik çeşitliliğini oluşturan habitatların, canlı türlerinin, genetik kaynakların tanımlanması, korunması ve geliştirilmesi için çalışmalar yapmak ve taraf olunan ulusal ve uluslararası anlaşmaların yerine getirilmesinde rol almak ve Türkiye’de biyolojik çeşitlilik çalışmalarının koordinasyon ve işbirliği içinde yürütülmesini sağlamak.
+b) Türkiye’nin biyolojik zenginlikleri konusunda araştırma projeleri yapmak, konu ile ilgili mercileri teşvik etmek ve yönlendirmek, koordinasyonunu sağlamak, danışmanlık hizmeti vermek, bu konudaki çalışmalara katılarak araştırma ve planlama potansiyelini artırmak ve Türkiye’nin biyolojik zenginlik veri tabanlarını geliştirmek.
+c) Doğal çevremizin ve biyolojik zenginliklerimizin saptanması, korunması, geliştirilmesi ve sürdürülebilirlik ilkelerine uygun yönde kullanılması için toplumun her kesiminin bilinçlendirilmesi faaliyetlerinde bulunmak ve bu konularda geziler, toplantılar, yaz okulları ve kurslar düzenlemek.
+ç) Biyolojik zenginliklerle ilgili görsel-işitsel her türlü dokümantasyonu sağlamak, kamudaki eğitim eksikliğinin giderilmesi, bilginin güncellenmesi ile biyolojik çeşitlilik konusunda kamu kuruluşları ve Üniversite arasında işbirliğini artırmak.
+d) Yurt dışında ve yurt içinde biyolojik çeşitlilik ile ilgili gelişmeleri izlemek ve bu gelişmeleri aktarmak ve bu konulara ilişkin yayınlar hazırlamak ve panel, kongre, konferans ve bunun gibi toplantılar düzenlemek, temsilci ve/veya konuşmacı getirmek ve yollamak.
+e) Doğal alanlarda yaşayan canlı türlerinin, biyoteknolojik gelişmelerde genetik kaynak olarak değerlendirilmesi yönünde, ulusal ve uluslararası kuruluşlarla birlikte çalışmalarda bulunmak.
+f) Üniversitenin ilgili fakülte, enstitü, yüksekokul ve uygulama-araştırma merkezleri yanında, Üniversite dışındaki kurum ve kuruluşlar ile işbirliği yaparak biyolojik çeşitlilikle ilgili tüm konularda yardımcı olmak.
+g) Doğal çevremizin ve biyolojik zenginliklerimizin saptanması, tanımlanması, korunması, geliştirilmesi ve sürdürülebilirlik ilkelerine uygun yönde kullanılması için danışmanlık hizmeti vermek.
+ğ) Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak ve 2547 sayılı Kanunda belirtilen amaç ve ilkelere uygun olan diğer çalışmaları yapmak.
