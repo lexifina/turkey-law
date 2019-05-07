@@ -1,0 +1,10 @@
+Karar
+MADDE 14 – (1) Soruşturma çerçevesinde elde edilen bilgiler doğrultusunda, aşağıda yer alan tabloda gösterildiği üzere Yunanistan menşeli olarak beyan edilen ve/veya bu ülke çıkışlı soruşturma konusu eşya ithalatında, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/3) kapsamında ÇHC menşeli eşya ithalatında uygulanan dampinge karşı önlem ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/4) kapsamında ÇHC menşeli eşya ithalatında uygulanan dampinge karşı önlem ile aynı tutarda dampinge karşı önlemlerin yürürlüğe konulmasına karar verilmiştir.
+GTP | Eşya Tanımı | Menşe ve/veya Çıkış Ülkesi | Dampinge Karşı Önlem (CIF%)
+110 gr/m2ağırlığının üstü için | 110 gr/m2ağırlığı ve altı için
+54.07 | Ek 1’de GTİP’i ve tanımı yer alan eşya | Yunanistan | 70,44 | 21,13
+55.13 | Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibariyle %85’ten az, m2 ağırlığı 170 gramı geçmeyen esas itibariyle veya sadece pamukla karışık sentetik devamsız lif içerenler) | Yunanistan | 44
+55.14 | Sentetik devamsız liflerden dokunmuş mensucat (ağırlık itibariyle %85’ten az, m2 ağırlığı 170 gramı geçen esas itibariyle veya sadece pamukla karışık sentetik devamsız lif içerenler)
+55.15 | Sentetik devamsız liflerden diğer dokunmuş mensucat
+55.16 | Suni devamsız liflerden dokunmuş mensucat
+(2) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2002/2) ile yürürlüğe konulan ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No:2015/3) ile son nihai gözden geçirme soruşturması tamamlanan ÇHC menşeli ithalata ilişkin dampinge karşı önlemde ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2001/2) ile yürürlüğe konulan ve İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/4) ile son nihai gözden geçirme soruşturması tamamlanan ÇHC menşeli ithalata ilişkin dampinge karşı önlemde İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat hükümleri çerçevesinde yapılacak değişiklikler bu önlem için de geçerlidir.
