@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31489",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ET PİYASASININ DÜZENLENMESİ UYGULAMA TEBLİĞİ (TEBLİĞ NO: 2019/26)",
+  "number": "31489",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2019/31489",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31489&MevzuatTertip=5",
+  "source_sha256": "8e80b02a8e56cd1f84146c741e2af755c99b89116780fd6936115ec0701f67fc",
+  "source_bytes": 12964,
+  "published": "2019-05-07",
+  "gazette": "30767",
+  "in_force": "2019-05-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.05.2019); own commencement article: \"Bu Tebliğ 1/1/2019 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2019 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 358,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
