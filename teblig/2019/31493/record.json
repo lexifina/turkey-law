@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.31493",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2019/11)",
+  "number": "31493",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2019/31493",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31493&MevzuatTertip=5",
+  "source_sha256": "0d3430d8ecab71db1293281c1f0633ac16124a63a6e0da6840366f91b6e3444a",
+  "source_bytes": 12016,
+  "published": "2019-05-07",
+  "gazette": "30767 Mükerrer",
+  "in_force": "2019-05-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.05.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 186,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31493%20Ekler.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
