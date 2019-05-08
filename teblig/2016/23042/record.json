@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.23042",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SERBEST BÖLGELERE VEYA GÜMRÜK ANTREPOLARINA GİRİŞ İÇİN VEYA GEMİ KUMANYACILIĞI İÇİN GÖNDERİLEN ÜRÜNLERİN VETERİNER KONTROLLERİNE İLİŞKİN KURALLAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2016/31)",
+  "number": "23042",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "path": "teblig/2016/23042",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23042&MevzuatTertip=5",
+  "source_sha256": "efaf4c9f4cadff6b137f59cfe3260af18f8c33311b0564a65753cde3bcbaa329",
+  "source_bytes": 32243,
+  "published": "2016-11-12",
+  "gazette": "29886",
+  "in_force": "2019-05-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/5/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-05-08",
+      "RG-8/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-08",
+      "8/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1191,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23042-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
