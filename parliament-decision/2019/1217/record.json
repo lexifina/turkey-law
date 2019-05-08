@@ -1,0 +1,50 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1217",
+  "year": 2019,
+  "title": "Down Sendromu, Otizm ve Diğer Gelişim Bozukluklarının Yaygınlığının Tespiti ile İlgili Bireylerin ve Ailelerinin Sorunlarının Çözümü İçin Alınması Gereken Tedbirlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine Dair Karar",
+  "adopted": "2019-05-08",
+  "adopted_as_published": "08/05/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "16.05.2019 No: 30776",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/karartbmmc103/karartbmmc10301217.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862967,
+      "title": "Down Sendromu, Otizm ve Diğer Gelişim Bozukluklarının Yaygınlığının Tespiti ile İlgili Bireylerin ve Ailelerinin Sorunlarının Çözümü İçin Alınması Gereken Tedbirlerin Belirlenmesi Amacıyla Kurulan Meclis Araştırması Komisyonuna Üye Seçimine Dair Karar",
+      "adopted_as_published": "08/05/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/karartbmmc103/karartbmmc10301217.pdf",
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 75,
+          "sitting_date": "2019-05-08",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013075.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+          "pages": [
+            "66"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "207eb018a85edad41728ca0790236ef3c8f183b1a1965fc7af8b5ac7bfcabe30"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "207eb018a85edad41728ca0790236ef3c8f183b1a1965fc7af8b5ac7bfcabe30",
+  "issuer": "TBMM",
+  "in_force": "2019-05-08",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 08/05/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
