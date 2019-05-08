@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46208",
+  "decision_date": "2019-05-08",
+  "source_id": 19600,
+  "chamber": "6",
+  "file_number": "44543",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19600/",
+  "source_sha256": "77f217683898b179c3e61bb59c755456f37c18852e9aad8ec78a5675022553db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
