@@ -1,0 +1,20 @@
+{
+  "applicant": "M.Ö. (2)",
+  "application_date": "2017-04-03",
+  "application_number": "2017/20197",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-05-09",
+  "id": "31163974-4866-086a-83e8-ed41be1a1f23",
+  "in_force": "2019-05-09",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjMxMTYzOTc0LTQ4NjYtMDg2YS04M2U4LWVkNDFiZTFhMWYyMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "a669c59e4f7484ef8d4304da6b2ceea6f7b5f0406e067aab5ef6308acc7e15d9",
+  "version_label": "as-enacted"
+}
