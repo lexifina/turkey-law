@@ -1,0 +1,22 @@
+{
+  "number": "45",
+  "number_as_published": "2019/45",
+  "year": 2019,
+  "title": "İlçemizde sınırları içinde bulunan asansörlerin bakımı için A Tipi Muayene Kuruluşu ile protokol yapılması için Belediye Başkanına protokol yapma yetkisi verilmesi ve asansörlerin periyodik kontrol ücretleri tarife teklifi",
+  "decision_date": "2019-05-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-mayis-ayi-meclis-kararlari/1615",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-45/1620",
+  "source_sha256": "ffbae5b5d2702ea828fbd4cb96c10a140cacb742bd6ec69d4b9b51f2ab6ab1d0",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-05-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.05.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "14971062fb019c5f5f1a25775310d65e54434b066764b42b69e31c6d950d418f"
+}
