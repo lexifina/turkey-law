@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "667",
+  "decision_date": "2019-05-09",
+  "source_id": 29963,
+  "chamber": "6",
+  "ilam_number": "204",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/29963/",
+  "source_sha256": "948c5cd0d19f712978ee16a11a9e3dbe136429624aaf86d821d9fe0739b81232",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
