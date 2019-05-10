@@ -1,0 +1,3 @@
+Kurum dışından yapılacak atamalar
+MADDE 20- (1) Diğer kamu kurum ve kuruluşlarında görevli personel ile görevinden herhangi bir nedenle ayrılmış bulunan personelin, bu Yönetmelik kapsamındaki aynı unvana veya aynı alt grupta yer alan diğer unvanlara veya daha alt düzeydeki unvanlara, atanılacak kadro için aranan öğrenim şartına ve hizmetin yerine getirilebilmesi için gerekli belgelere sahip olmaları kaydıyla, genel hükümlere göre atamaları yapılabilir.
+(2) Diğer personel kanunlarına tabi olanların 657 sayılı Kanuna tabi görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın mevcut olmaması halinde öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan ve Devlet Personel Başkanlığının olumlu görüşü dikkate alınır.

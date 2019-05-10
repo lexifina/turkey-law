@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 16- (1) Genel Sekreterlik tarafından yapılan sınavın sonuçlarına, sınav sonuçlarının açıklandığı tarihten itibaren en geç beş iş günü içinde itiraz edilebilir. Bu itirazlar en geç on iş günü içinde incelenerek karara bağlanır. İtiraz sonuçları, Personel Dairesi Başkanlığı tarafından itiraz sahiplerine tebliğ edilir.
+(2) Yazılı sınavın, Genel Sekreterlik dışında 13 üncü maddenin ikinci ve üçüncü fıkralarında yer alan kurumlardan birine yaptırılması durumunda, itirazlara ilişkin hususlara bu kurumla yapılacak protokolde yer verilir.
+(3) Yapılan yazılı sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun tespit edilmesi hâlinde sınav iptal edilir ve en kısa sürede yeniden sınav yapılır.

@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Görev grupları arasındaki geçişler
+MADDE 19- (1) 5 inci maddede belirtilen görev grupları arasındaki geçişler aşağıdaki esaslara göre yapılır:
+a) Bu Yönetmelik kapsamında bulunan üst görevlerdeki personel ile aynı görev grubu içinde kalmak kaydıyla, ilgili personelin isteği ve atanılacak kadro için aranan öğrenim şartına ve hizmetin yerine getirilebilmesi için gerekli belgelere sahip olanlar, sınav yapılmaksızın alt görevlere atanabilirler.
+b) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler, görevde yükselme sınavına tabidir. Ancak, Genel Sekreterlikte veya diğer kamu kurum ve kuruluşlarında daha önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt görevlere, atanılacak kadro için aranan öğrenim ve hizmet süresi şartları ile hizmetin yerine getirilebilmesi için gerekli belgelere sahip olunması kaydıyla, görevde yükselme sınavına tabi tutulmadan ilgili personelin isteği ile atama yapılabilir.
+c) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personel; atanılacak görev için aranan toplam hizmet süresine sahip olmaları ve atanacakları kadro için aranan öğrenim şartına ve hizmetin yerine getirilebilmesi için gerekli belgelere sahip olmaları kaydıyla, şef ve 2. Hukuk Müşaviri kadroları ile 5 inci maddenin birinci fıkrasının (ç) bendinde belirtilen görevlere, görevde yükselme sınavına; öğrenimle ihraz ettikleri unvanlara ilişkin kadrolara da, unvan değişikliği sınavına tabi tutulmaksızın atanabilirler.
+ç) Unvan değişikliğine tabi kadrolara geçişler ile bu kadrolar arasındaki geçişler, ilgili kadro için düzenlenen unvan değişikliği sınavı sonucuna göre yapılır.

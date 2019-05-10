@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.31495",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ GÜVENLİK KURULU GENEL SEKRETERLİĞİ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "31495",
+  "issuer": "Milli Güvenlik Kurulu Genel Sekreteri",
+  "issuer_slug": "milli-guvenlik-kurulu-genel-sekreteri",
+  "path": "regulation/milli-guvenlik-kurulu-genel-sekreteri/2019/31495",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31495&MevzuatTertip=5",
+  "source_sha256": "028f3eb9560e6a8bd79f6ffaa9c37d2115c78e27e3b776152fdc2808510b93ea",
+  "source_bytes": 66999,
+  "published": "2019-05-10",
+  "gazette": "30770",
+  "in_force": "2019-05-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.05.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2767,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
