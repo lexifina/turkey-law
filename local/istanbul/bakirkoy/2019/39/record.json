@@ -1,0 +1,23 @@
+{
+  "number": "39",
+  "number_as_published": "39",
+  "year": 2019,
+  "title": "2018 mali yılı bütçe kesin hesabı",
+  "decision_date": "2019-05-10",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/37",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/39-2018-mali-yili-butce-kesin-hesabi-10052019.pdf",
+  "source_sha256": "93690bd17f89f174d09d65757838434da651564959323c9c5640739dbac48f9e",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-05-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Mayıs 2019 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
