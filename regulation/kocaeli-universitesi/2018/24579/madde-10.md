@@ -1,0 +1,2 @@
+Proje, staj, bitirme çalışması ve işyeri eğitimi uygulamaları
+MADDE 10 – (1) ÇAP’ta hem birinci hem de ikinci anadala ait proje, staj ve bitirme çalışmalarının ayrı ayrı yapılması zorunlu olup muafiyeti yapılamaz. İşletmede Mühendislik/Mesleki Eğitim (İME) uygulamalarının eşdeğerliği ve ikinci anadalda hangilerinin, hangi içerikte ve sürelerde yapılması gerektiği, öğrencinin ikinci anadal yaptığı bölüm/program tarafından önerilir ve ilgili birimin yönetim kurulu tarafından karara bağlanır.

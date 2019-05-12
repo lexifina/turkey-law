@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik 2018-2019 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-05-10",
+      "10.05.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-05-12",
+      "RG-12/5/2019-30772",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-05-12",
+      "RG-12/5/2019-30772",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-05-12",
+      "RG-12/5/2019-30772",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-05-12",
+      "12/5/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-12/5/2019-30772",
+  "first_law": null,
+  "gazette": "30417",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-12",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2018/24579",
+  "published": "2018-05-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24579&MevzuatTertip=5",
+  "source_bytes": 39910,
+  "source_id": "8.5.24579",
+  "source_sha256": "905931fc2fd8c18be95eea37bbf36ea9784ef576fe322269105d718bc9808ee8",
+  "text_status": "current-consolidated",
+  "title": "KOCAELİ ÜNİVERSİTESİ ÇİFT ANADAL PROGRAMI YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 1808
+}
