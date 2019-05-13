@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-05-13",
+      "13.05.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30773",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2019/31497",
+  "published": "2019-05-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31497&MevzuatTertip=5",
+  "source_bytes": 25888,
+  "source_id": "8.5.31497",
+  "source_sha256": "28f8daf2bc13c31639ac7c2727698869df86f649cb75456dc7ebf42649251190",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ SOSYAL MEDYA VE DİJİTAL GÜVENLİK EĞİTİM, UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 1005
+}
