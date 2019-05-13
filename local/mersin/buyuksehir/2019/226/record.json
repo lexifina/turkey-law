@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "226",
+  "decision_date": "2019-05-13",
+  "title": "MEC. KAR. (YAYA ÜST GEÇİTLERİ).doc",
+  "listed_as": "226 MEC. KAR. (YAYA ÜST GEÇİTLERİ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/226-mec-kar-yaya-ust-gecitleridoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-mayis-2019-meclis-kararlari",
+  "listing_sha256": "7b83e8b70de56904686e49d281f081720866e7349f030e52c5995f893f7da076",
+  "meeting_title": "13 MAYIS 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
