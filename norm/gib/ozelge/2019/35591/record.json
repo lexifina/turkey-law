@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140.10.01[123-2019-6]-180887",
+  "source_id": 35591,
+  "date": "2019-05-13",
+  "title": "6306 sayılı Kanun kapsamında yeni inşa edilen yapıların malikler ve temlik işlemi sonucu müteahhit firma tarafından yapılacak satış işlemlerin tapu harcı muafiyeti.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35591",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d5189dd154973fa2102e13f0e56b35bcb8edea9dcc1068c40e58b9f243a9f9cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
