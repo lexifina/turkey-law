@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-05-13",
+      "13.05.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30773",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Şehir Üniversitesi",
+  "issuer_slug": "istanbul-sehir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sehir-universitesi/2019/31498",
+  "published": "2019-05-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31498&MevzuatTertip=5",
+  "source_bytes": 25272,
+  "source_id": "8.5.31498",
+  "source_sha256": "c10ee3ff42047fd34632a507b38d2200b083b4eb74324beb63d442c0dca48025",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL ŞEHİR ÜNİVERSİTESİ KEMAL KARPAT GÖÇ ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 341,
+  "word_count": 933
+}
