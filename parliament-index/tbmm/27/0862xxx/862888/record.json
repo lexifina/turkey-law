@@ -1,0 +1,102 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862888,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "MUSTAFA AÇIKGÖZ (NEVŞEHİR)",
+  "summary": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili İstanbul Milletvekili Mehmet Muş ile 65 Milletvekilinin Kapadokya Alanı Hakkında (2/1811) (S. Sayısı: 56)",
+  "title": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili İstanbul Milletvekili Mehmet Muş ile 65 Milletvekilinin Kapadokya Alanı Hakkında (2/1811) (S. Sayısı: 56)",
+  "first_sitting_date": "2019-05-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 77,
+      "sitting_date": "2019-05-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013077.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "244:255",
+        "256:260",
+        "261:263",
+        "266"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 78,
+      "sitting_date": "2019-05-15",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013078.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "350:360",
+        "361:364",
+        "366:369",
+        "371"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 79,
+      "sitting_date": "2019-05-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013079.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "453:478",
+        "481:486"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 80,
+      "sitting_date": "2019-05-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "609:611",
+        "612:614",
+        "619:620",
+        "621:625"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 81,
+      "sitting_date": "2019-05-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "681:683"
+      ]
+    },
+    {
+      "cilt": 13,
+      "sitting": 82,
+      "sitting_date": "2019-05-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "818:819",
+        "862:874"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-05-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
