@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46230",
+  "decision_date": "2019-05-15",
+  "source_id": 19207,
+  "chamber": "2",
+  "file_number": "44403",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19207/",
+  "source_sha256": "60bfcd30cc24d56eebdae2e82191cdcdb8381f4a4110fe1da3bac3d3a2cc6661",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
