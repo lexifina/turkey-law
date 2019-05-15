@@ -1,0 +1,20 @@
+{
+  "applicant": "A.D.",
+  "application_date": "2014-12-15",
+  "application_number": "2014/19506",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2019-04-03",
+  "id": "cc70b398-9049-cd2f-22d7-10eef31c2e88",
+  "in_force": "2019-05-15",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2019-05-15",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmNjNzBiMzk4LTkwNDktY2QyZi0yMmQ3LTEwZWVmMzFjMmU4OA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ac7c0b89eda1be5cf7780ee097aa0f105e09967581aa180bd7f3ffe8fa5e24e7",
+  "version_label": "as-enacted"
+}
