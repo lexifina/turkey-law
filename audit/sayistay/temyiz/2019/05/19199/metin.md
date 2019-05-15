@@ -1,0 +1,5 @@
+Özel yetenek sınavları için öğrencilerden toplanan paraların Vakfa aktarılması ve buradan sınavlarda görevlendirilen personele ödeme yapılması;
+
+67 sayılı İlamın 2. maddesiyle verilen … TL’nin tazminine dair hükümde Beden Eğitimi ve Spor Yüksekokulu Müdürü-Harcama Yetkilisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 43844 sayılı dosya, 15.05.2019 tarih ve 46220 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararı oluşmadığı ifade edilerek, tazmin hükmünün kaldırılması gerektiğine ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Güzel Sanatlar ve Tasarım Fakültesi Dekan Yardımcısı-Harcama Yetkilisi sıfatıyla temyiz talep eden …’ı) ilgilendiren ve aynı mahiyette olan 43824 sayılı işbu dosyanın da sözü edilen (43844 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 15.05.2019 tarih ve 46222 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
