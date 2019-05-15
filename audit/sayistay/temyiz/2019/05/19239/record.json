@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46262",
+  "decision_date": "2019-05-15",
+  "source_id": 19239,
+  "chamber": "6",
+  "file_number": "43292",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19239/",
+  "source_sha256": "d76ec055e07db7c81bd5c781a39cb7f9b8d75919ce35ccc6b38f7015750dcddd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
