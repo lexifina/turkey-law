@@ -1,0 +1,2 @@
+İtiraz
+Madde 4 — Sonuçların Resmî Gazete’de yayımı tarihinden itibaren beş çalışma günü içinde bu tesbite diğer sendikalar ve konfederasyonlarca Ankara İş Mahkemesi’ne itiraz edilebilir. Bu takdirde, itiraz dilekçesinin bir örneği bilgi için (Değişik ibare:RG-15/5/2019-30775) Aile, Çalışma ve Sosyal Hizmetler Bakanlığına itiraz süresi içinde ayrıca verilir. Mahkeme itirazı on beş gün içinde karara bağlar ve taraflara bildirir.
