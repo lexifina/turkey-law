@@ -1,0 +1,5 @@
+Süre aşımı;
+
+Sorumlu (Gerçekleştirme Görevlisi sıfatıyla karar düzeltilmesi talep eden Bilgisayar İşletmeni …), 06.07.2018 tarihli ve 44979 tutanak (28835 ilam) sayılı Temyiz Kurulu İlamının 1., 2., 3., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 17., 18., 19., 20., 2.1, 22., 23., 24., 25., 26., 27. ve 28. (232 sayılı (Asıl) İlamın 1., 2., 3., 4., 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 17., 18., 19., 20., 21., 22., 23., 24., 25., 26., 27. ve 28.) maddelerine itiraz etmekte ise de; Temyiz Kurulu İlamı adı geçen sorumluya 08.01.2019 tarihinde tebliğ edilmiş olup, bu tarihe nazaran 6085 sayılı Kanunun 57 nci maddesinin 1 inci fıkrasında yazılı 15 günlük karar düzeltilmesi başvuru süresi 23.01.2019 (Çarşamba) tarihinde sona ermiş olduğundan; bu tarihten sonra 05.02.2019 tarihinde Sayıştay kayıtlarına intikal eden dilekçe ile yapılan karar düzeltilmesi talebinin süre aşımı yönünden REDDİNE, oy birliğiyle,
+
+Karar verildiği 15.05.2019 tarih ve 46259 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
