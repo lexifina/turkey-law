@@ -1,0 +1,4 @@
+Türkiye Yeterlilikler Çerçevesinde yer alan yeterliliklerin kullanımı
+MADDE 13- (1) Yeterliliklerin yayınlanması ve eğitim veya belgelendirme kuruluşlarınca kullanımına ilişkin usul ve esaslar, Kurulun önerisi ve Koordinasyon Kurulunun onayıyla belirlenir.
+(2) Sorumlu kurumlar tarafından yetkilendirilmemiş veya izin verilmemiş hiçbir kişi, kurum ya da kuruluş, Türkiye Yeterlilikler Çerçevesindeki yeterliliklere atıfta bulunarak eğitim, öğretim, sınav ve belgelendirme faaliyeti yürütemez.
+(3) Sorumlu kurumlar tarafından yetkilendirilmediği veya izin verilmediği halde, Türkiye Yeterlilikler Çerçevesindeki yeterliliklere atıfta bulunarak eğitim, öğretim, sınav ve belgelendirme faaliyeti yürüttüğü tespit edilen kişi, kurum ve kuruluşlar hakkında idari, mali ve cezai işlemler genel hükümlere göre uygulanır.

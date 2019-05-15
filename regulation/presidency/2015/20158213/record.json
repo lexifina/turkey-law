@@ -1,0 +1,35 @@
+{
+  "id": "presidency-regulation-20158213",
+  "number": "20158213",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRKİYE YETERLİLİKLER ÇERÇEVESİNİN UYGULANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2015-11-19",
+  "enacted": "2015-11-09",
+  "gazette_number": "29537",
+  "in_force": "2019-05-15",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 15/5/2019; source row: 14/5/2019 | 1107 | 2, 3, 9, 10, 15, 16, 21, 24 | 15/5/2019 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20158213&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "417a8744f67241a93d5649a4f6638268e8081de8a535a7f423717197c1670944",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "reference",
+      "status": "referenced",
+      "source_url": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006H0962:EN:NOT",
+      "source_caption": "2006/962/EC”",
+      "source_href": "http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32006H0962:EN:NOT",
+      "reason": "Reference link preserved from the official text."
+    }
+  ],
+  "completeness": "html-text-complete"
+}

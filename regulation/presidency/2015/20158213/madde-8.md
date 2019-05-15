@@ -1,0 +1,2 @@
+Önceki öğrenmelerin tanınması
+MADDE 8- (1) Önceki öğrenmelerin tanınması ve kalite güvencesinin sağlanmasına ilişkin usul ve esaslar Kurulun önerisi ve Koordinasyon Kurulunun onayıyla belirlenir. Bu usul ve esaslar; yeterliliğe hak kazanmayı, yeterlilikle sonuçlanacak bir sınava veya eğitim programına giriş hakkını ve yeterliliğe yönelik kredilerden veya bazı program şartlarından muafiyeti kapsayacak şekilde düzenlenir.

@@ -1,0 +1,3 @@
+Yeterliliklere ilişkin kalite güvence sistemlerinin kurulması
+GEÇİCİ MADDE 2- (1) Yeterliliklerin kalite güvencesinin sağlanmasına ilişkin usul ve esasların Resmi Gazetede yayımlandığı tarihten itibaren iki yıl içerisinde, Millî Eğitim Bakanlığı, Yükseköğretim Kurulu Başkanlığı, Kurum ve 10 uncu maddenin üçüncü fıkrasının (ç) bendinde belirtilen kurumlar, sorumlu oldukları yeterliliklerin kalite güvencesinin sağlanmasına yönelik sistemi kurmak zorundadır.
+(2) Sorumlu kurumların yeterlilikleri ile bu kurumların izni ve denetimiyle sunulan yükseköğretim dâhil genel, meslekî ve akademik yeterliliklerden kalite güvencesi sağlanmış olanlar, bu Yönetmeliğin yayımı tarihinden itibaren dört yıl içerisinde Türkiye Yeterlilikler Çerçevesine dâhil edilir.

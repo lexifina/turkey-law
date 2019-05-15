@@ -1,0 +1,4 @@
+Mali hükümler
+MADDE 21- (1) Türkiye Yeterlilikler Çerçevesinin oluşturulması, güncelliğinin sağlanması, tanıtılması ve yaygınlaştırılmasına ilişkin faaliyetlerden kaynaklanan tüm giderler, Kurum bütçesinden karşılanır.
+(2) Koordinasyon Kurulu, Kurul, İstişare Meclisi ve çalışma gruplarının faaliyetlerine ilişkin hizmet alımı, kırtasiye, basım, yayım, ikram ve toplantı giderleri 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar İle Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 259 uncu maddesi kapsamında Kurum tarafından karşılanır.(1)
+(3) Koordinasyon Kurulu ve Kurul üyelerinin bu Yönetmelikte belirlenen görevleriyle ilgili memuriyet mahalli dışındaki toplantılara katılmaları halinde geçici görev harcırahları 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre sorumlu kurumlar tarafından karşılanır.
