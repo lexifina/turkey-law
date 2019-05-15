@@ -1,0 +1,7 @@
+Sorumluluğa iştirakin bulunmaması ve süre aşımı;
+
+06.07.2018 tarihli ve 44974 tutanak (28830 ilam) sayılı Temyiz Kurulu İlamının 1. maddesiyle;  temyiz talebinde bulunan (Ahiz konumundaki) (Tekniker) … hakkında “Sayıştay Dairelerince verilen kararlara karşı, Temyiz Kurulu nezdinde temyize yetkili olanlar; 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 2 nci fıkrasının atıfta bulunduğu 52 nci maddenin 1 inci fıkrasında belirtilen daire ve makamlar ile kendilerine tazmin hükmedilmiş olan memurlardan ibaret olup, bunlar arasında yer almayan (Ahizi konumundaki) adı geçenin işbu ilam maddesi ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA” karar verilmiş olup, aynı kişi bu defa aynı gerekçelerle karar düzeltilmesi talebinde bulunmuştur.
+
+Temyiz talebinde “sorumluluk iştirakinin bulunmaması” ile ilgili ifade edilen hususlar karar düzeltilmesi talebi için de geçerli olmakla beraber, adı geçen kişi yukarıda tarihi, numarası ve ilgili maddesi verilen Temyiz Kurulu İlamına itiraz etmekte ise de; Temyiz Kurulu İlamı bu kişiye 09.01.2019 tarihinde tebliğ edilmiş olup, bu tarihe nazaran 6085 sayılı Kanunun 57 nci maddesinin 1 inci fıkrasında yazılı 15 günlük karar düzeltilmesi başvuru süresi 24.01.2019 (Perşembe) tarihinde sona ermiş olduğundan; bu tarihten sonra 05.02.2019 tarihinde Sayıştay kayıtlarına intikal eden dilekçe ile yapılan karar düzeltilmesi talebinin süre aşımı yönünden REDDİNE, oy birliğiyle,
+
+Karar verildiği 15.05.2019 tarih ve 46254 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
