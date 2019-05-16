@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/144",
+  "source_id": 5480,
+  "date": "2019-05-16",
+  "title": "Cathay Pasific Airway Limited hakkında Kişisel Verileri Koruma Kurulunun 16.05.2019 tarih ve 2019/144 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5480/2019-144",
+  "source_sha256": "19f60c70d9cd91cb90e0c5e35092bd3177c9927d8cda22c4f92b341e3169412c",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
