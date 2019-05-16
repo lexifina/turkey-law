@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "158",
+  "decision_date": "2019-05-16",
+  "source_id": 30099,
+  "chamber": "8",
+  "ilam_number": "214",
+  "item_number": 3,
+  "public_body_type": "Diğer",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30099/",
+  "source_sha256": "f3527817f864f092beaf9369d8984636aa14705aa0b2ed86d385c3d122c79981",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
