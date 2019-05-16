@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8587",
+  "decision_date": "2019-05-16",
+  "title": "Lisanssız Üretim Başvurularında ,Üretim Tesisi Devir Başvurularında,Birleşme, Bölünme, Unvan Ve Nev’i Değişikliği İle Pay Devri Başvurularında Sunulması Gereken Bilgi Ve Belgeler",
+  "resmi_gazete_date": "2019-05-21",
+  "resmi_gazete_number": "30780",
+  "categories": [
+    "Lisanssız Elektrik Üretimine İlişkin Kurul Kararı"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ckPfWdxXCx4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ckPfWdxXCx4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bjG+/eNDN14="
+  ],
+  "source_sha256": "2aaad52574dc4f91c1c88f226e7a2fd4fccff07a6af95006f9dddfbe5c7e6698",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33881,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-16",
+  "law_text_complete": true
+}
