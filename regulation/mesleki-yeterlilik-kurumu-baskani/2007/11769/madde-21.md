@@ -1,0 +1,2 @@
+Yeterlik sınavına girebilme şartları
+MADDE 21 – (1) Ücretsiz izinler ve askerlikte geçen süreler hariç en az üç yıl uzman yardımcısı olarak çalışan, bu süre içerisinde olumlu performans gösteren, tezini tamamlayarak süresi içinde teslim eden ve İngilizce dilini en az KPDS (C) düzeyinde bildiklerini geçerlilik süresi dolmamış belgelerle tevsik eden uzman yardımcıları yeterlik sınavına katılma hakkına sahiptir.

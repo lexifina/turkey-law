@@ -1,0 +1,2 @@
+Yeterlik sınav komisyonu
+MADDE 20 – (1) Yeterlik sınav komisyonu, Başkanın veya görevlendireceği bir daire başkanının başkanlığında bir başkan ve dört üyeden oluşur. Komisyona iki yedek üye görevlendirilir ve asil üyelerin herhangi bir nedenle komisyona katılamamaları halinde yedek üyeler tespit sırasına göre komisyona katılırlar. Komisyon, gerekli gördüğünde tez danışmanlarını danışmanı oldukları uzman yardımcısının sınavına davet edebilir. Komisyon; daire başkanları, hukuk müşaviri, uzmanlar veya üniversite öğretim üyelerinden oluşturulur.

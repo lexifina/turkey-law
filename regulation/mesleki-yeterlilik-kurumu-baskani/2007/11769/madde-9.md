@@ -1,0 +1,3 @@
+Adayların sınava kabulü
+MADDE 9 – (1) Yapılan başvurular incelenerek aranan şartların mevcut olup olmadığı tespit edilir ve giriş sınavına kabul edilen adaylara fotoğraflı sınav giriş belgesi verilir. Giriş belgesi olmayan adaylar sınava katılamaz.
+(2) İstenen belgelerde gerçeğe aykırı beyanda bulundukları tespit edilenler sınava alınmaz, sınava alınmışlar ise sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Ayrıca, bu kişiler hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur. Bu şekilde Kurumu yanıltanlar kamu görevlisi ise ayrıca çalıştıkları kuruma da bu durum bildirilir.

@@ -1,0 +1,5 @@
+Tezin savunulması
+MADDE 23 – (1) Uzman yardımcıları, yeterlik sınav komisyonu huzurunda, hazırladığı tezin savunmasını yapar ve komisyon üyelerinin tez konusuyla ilgili sorularını cevaplar.
+(2) Savunmaya ilişkin değerlendirme, yeterlik sınav komisyonu üyelerince oy çokluğu esasına göre başarılı, başarısız veya tezin düzeltilmesi şeklinde karara bağlanmak suretiyle yapılır ve bir tutanakla tespit edilir.
+(3) (Değişik:RG-12/3/2016-29651) Tezi başarısız bulunan uzman yardımcılarına, değerlendirme raporunda yer verilen hususlara uygun olarak yeni bir tez hazırlamaları veya aynı tezi düzelterek sunmaları için Komisyon kararıyla altı ayı aşmamak üzere ilave süre verilir. Tezi kabul edilmekle birlikte tezde düzeltmeye gidilmesi gerektiğinin belirlenmesi durumunda ise, uzman yardımcısına iki ayı aşmamak üzere ilave süre verilir.
+(4) Geçerli bir mazereti olmaksızın tez savunmasına girmeyen ya da tezindeki eksiklikleri verilen sürede tamamlamayan veya ikinci defa tezin savunulmasında başarısız görülen uzman yardımcısı yeterlik sınavında başarısız olmuş sayılarak sözlü sınava alınmaz.

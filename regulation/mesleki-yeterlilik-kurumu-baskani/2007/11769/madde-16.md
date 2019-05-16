@@ -1,0 +1,2 @@
+Yurtdışında eğitim
+MADDE 16 – (1) Uzmanlar, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmeliğin 4 üncü maddesi dışındaki hükümlerine göre staj veya araştırma yapmak, mesleki bilgi ve görgülerini arttırmak veya yurtdışındaki üniversitelerden kabul belgesi almaları şartı ile akademik çalışma yapmak üzere yurtdışına gönderilebilir.

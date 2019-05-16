@@ -1,0 +1,3 @@
+Tezin ve tez danışmanının raporunun teslimi
+MADDE 19 – (1) Uzman yardımcısı tez konusunun kesinleştiğinin kendisine bildirilmesinden itibaren en geç bir yıl içerisinde tezini hazırlamak ve birim amirlerine teslim etmek zorundadır. Süresi içinde tezini teslim etmeyen uzman yardımcısı başarısız tez vermiş sayılır. Geçerli görülecek bir mazeret nedeniyle tezini süresinde teslim edemeyen uzman yardımcısına, talebi halinde ve tez danışmanının uygun görüşü üzerine bir defaya mahsus olmak üzere Kurum Başkanının onayı ile altı aya kadar ek süre verilir.
+(2) Tez danışmanı aynı süreler içinde rehberlik ettiği tez hakkındaki görüşlerini içeren raporunu yeterlik sınav komisyonuna teslim eder.
