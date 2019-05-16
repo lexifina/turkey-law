@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/143",
+  "source_id": 5479,
+  "date": "2019-05-16",
+  "title": "Marriott International Inc. hakkında Kişisel Verileri Koruma Kurulunun 16.05.2019 tarih ve 2019/143 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5479/2019-143",
+  "source_sha256": "ed9a294dd250bfedf1256c46f9a097500e3c6604e02d2b712e901644b0174b50",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
