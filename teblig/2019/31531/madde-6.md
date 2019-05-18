@@ -1,0 +1,2 @@
+Yetkili gümrük idaresi
+MADDE 6 – (1) Bu Tebliğ kapsamına giren eşyanın serbest dolaşıma girişine ilişkin gümrük işlemlerini yapmaya Ege Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı Aliağa Gümrük Müdürlüğü, Batı Marmara Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı Tekirdağ Gümrük Müdürlüğü ve Doğu Akdeniz Gümrük ve Dış Ticaret Bölge Müdürlüğüne bağlı İskenderun Gümrük Müdürlüğü yetkilidir. Bu Tebliğ kapsamı eşya ithalinin gerektirdiği altyapının kurulması halinde, Ticaret Bakanlığı (Gümrükler Genel Müdürlüğü)’nca diğer gümrük idareleri de yetkilendirilebilir.

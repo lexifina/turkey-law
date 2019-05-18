@@ -1,0 +1,5 @@
+Başvuru, beyannamenin tescili ve tahlil
+MADDE 4 – (1) Bu Tebliğ kapsamına giren eşyanın serbest dolaşıma giriş beyannamesi, 4458 sayılı Kanunun 46 ncı maddesinde belirtilen süreler içinde, eşyanın boşaltılmasına başlanmadan önce tescil edilir.
+(2) Bu Tebliğ ile belirlenen usulde beyanda bulunulmak istenmesi halinde gümrük beyannamesi ekranından “BS-19” kodu seçilir.
+(3) Beyan sahibi tarafından yurt dışı analiz raporu ile proforma fatura veya satış sözleşmesi gümrük idaresine sunulur ve proforma faturada veya satış sözleşmesinde yer alan veriler çerçevesinde serbest dolaşıma giriş beyannamesi tescil edilir.
+(4) Bu Tebliğ kapsamına giren eşyanın laboratuvar tahlilleri, Gümrük Yönetmeliğinin 201 inci maddesi uyarınca yapılır. Gümrük Yönetmeliğinin 201 inci maddesi kapsamında, boşaltım limanı veya FSRU Terminalinde eşyanın kimyasal kompozisyonunu belirlemek üzere periyodik olarak ölçüm yapan gaz kromatografi cihazı ile yerinde tahlil yapılamaması durumunda, yükleme limanında akredite kuruluşlarca eşyanın mahiyetine dair düzenlenen laboratuvar tahlil belgelerine göre ilgili gümrük laboratuvarları tarafından raporlama yapılır.

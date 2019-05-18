@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31531",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (SERBEST DOLAŞIMA GİRİŞ) (SERİ NO: 16)",
+  "number": "31531",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/31531",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31531&MevzuatTertip=5",
+  "source_sha256": "5f142f4c915af7b9749f77207d57148e4dfeaa45cdf8ed0e0e6b2b29d6ac9648",
+  "source_bytes": 14795,
+  "published": "2019-05-18",
+  "gazette": "30778",
+  "in_force": "2019-05-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.05.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 655,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
