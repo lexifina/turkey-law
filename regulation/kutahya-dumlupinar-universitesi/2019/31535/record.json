@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-05-20",
+      "20.05.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30779",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2019/31535",
+  "published": "2019-05-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31535&MevzuatTertip=5",
+  "source_bytes": 33912,
+  "source_id": "8.5.31535",
+  "source_sha256": "7d43bf7bc1dff460050e21cfbbc983480b76af07afcad6fabb368249d6d8df1d",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ KÜTAHYA VE BATI ANADOLU KÜLTÜRLERİ ARKEOLOJİSİ UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 1415
+}
