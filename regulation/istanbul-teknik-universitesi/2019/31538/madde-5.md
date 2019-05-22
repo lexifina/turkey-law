@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; toplumda özel gereksinimli bireyler ile veya bu bireyler için eğitsel ve terapötik amaçlarla müzik ve görsel sanatlar çalışmaları yürütmek ve bu kapsam ile ilişkili her alanda ilgili mevzuat hükümleri kapsamında; ulusal ve uluslararası düzeyde uygulama ve araştırma faaliyetlerinde bulunmak; bu doğrultuda müzik ve görsel sanatlar ile ilişkili ulusal ve uluslararası kurum ve kuruluşlarla iş birliği yapmak ve iletişimi güçlendirmek, eğitim ve danışmanlık hizmetleri sunmak, bilimsel araştırma ve projeler geliştirmek, yapmak ve yaptırmak, bunların sonucunda kitap, dergi gibi yayın faaliyetlerinde bulunmak, etkinlikler düzenlemek, diğer kurum ve kuruluşlarca düzenlenen etkinliklere katılmak ve desteklemektir.
