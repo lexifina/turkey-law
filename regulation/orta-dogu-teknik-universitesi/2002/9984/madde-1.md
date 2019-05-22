@@ -1,0 +1,3 @@
+ORTA DOĞU TEKNİK ÜNİVERSİTESİ PETROL ARAŞTIRMA MERKEZİ YÖNETMELİĞİ
+Tanım
+Madde 1 — Bu Yönetmelikle 2547 sayılı Kanunun 2880 sayılı Kanunla değişik 7/d-2 maddesine dayanarak, Orta Doğu Teknik Üniversitesi Rektörlüğüne bağlı olmak üzere T.C. Enerji ve Tabii Kaynaklar Bakanlığı Petrol İşleri Genel Müdürlüğü ile birlikte ve ODTÜ Petrol ve Doğal Gaz Mühendisliği Bölümünün katkılarıyla kurulan Petrol Araştırma Merkezinin (PAL olarak anılacaktır) çalışma esasları, Orta Doğu Teknik Üniversitesi (ODTÜ olarak anılacaktır), Petrol İşleri Genel Müdürlüğü (PİGM olarak anılacaktır) ve Hazine Müsteşarlığı KİT Genel Müdürlüğü (HMKİTGM olarak anılacaktır) arasında imzalanan anlaşmalar, işbirliği ve uygulama protokolleriyle sağlanır.

@@ -1,0 +1,3 @@
+Yönetim Kurulu
+Madde 5 — (Değişik:RG-22/5/2019-30781)
+Yönetim Kurulu; Merkez Başkanı ve Merkez faaliyet alanı ile ilgili çalışma yapan ODTÜ öğretim elemanları arasından Rektör tarafından üç yıl süre için görevlendirilen 3 üye, Maden ve Petrol İşleri Genel Müdürünün belirleyeceği 2 üye, Hazine ve Maliye Bakanlığı Kamu Sermayeli Kuruluş ve İşletmeler Genel Müdürlüğünden 1 üye olmak üzere toplam 7 üyeden oluşur. Yönetim Kurulunun görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan Yönetim Kurulu üyesinin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilebilir.
