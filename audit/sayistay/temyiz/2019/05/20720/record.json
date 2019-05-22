@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46289",
+  "decision_date": "2019-05-22",
+  "source_id": 20720,
+  "chamber": "5",
+  "file_number": "44148",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20720/",
+  "source_sha256": "080416f2b69c524d69e8524414e37663aa60c199c3f9dcec3b6dd420be625d80",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
