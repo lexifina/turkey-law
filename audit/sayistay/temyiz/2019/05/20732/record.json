@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46295",
+  "decision_date": "2019-05-22",
+  "source_id": 20732,
+  "chamber": "8",
+  "file_number": "43946",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20732/",
+  "source_sha256": "7f58837d7d3423c293875f24d1dcbcd5152d06283a6322e025beaa0471545977",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
