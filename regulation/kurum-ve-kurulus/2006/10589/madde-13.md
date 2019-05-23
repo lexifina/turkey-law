@@ -1,0 +1,2 @@
+Özürlülere yönelik gönüllü hizmetler
+MADDE 13 – (1) Birim özürlülere yönelik olarak; üniversiteler, özel kuruluşlar, özürlülere hizmet amacıyla kurulmuş vakıf, dernek ve bunların üst kuruluşları, kamu kurum ve kuruluşları; kamu kurumu niteliğindeki meslek kuruluşları ile işbirliği halinde, 9/10/2005 tarihli ve 25961 sayılı Resmî Gazete’de yayımlanan İl Özel İdaresi ve Belediye Hizmetlerine Gönüllü Katılım Yönetmeliği hükümlerine göre gönüllülük esasına dayanan hizmetlerin yapılmasını temin eder.

@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.10589",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BÜYÜKŞEHİR BELEDİYELERİ ÖZÜRLÜ HİZMET BİRİMLERİ YÖNETMELİĞİ",
+  "number": "10589",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2006/10589",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10589&MevzuatTertip=5",
+  "source_sha256": "640fbeec6836d1ff78e206f6c235b4f767258e84cf1e30b2686ad9c5cb4e01fc",
+  "source_bytes": 43411,
+  "published": "2006-08-16",
+  "gazette": "26261",
+  "in_force": "2019-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-05-23",
+      "RG-23/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-22",
+      "RG-22/12/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-12-22",
+      "22/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
