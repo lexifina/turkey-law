@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.4675",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "2464 SAYILI BELEDİYE GELİRLERİ KANUNUNUN ÇEŞİTLİ HARÇLARLA İLGİLİ HÜKÜMLERİNİN UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "4675",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1981/4675",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4675&MevzuatTertip=5",
+  "source_sha256": "9ad97d19151b4580ecdfa07ce98665c66d821ae0b47eb216bf1f598ce43e3a96",
+  "source_bytes": 36715,
+  "published": "1981-08-21",
+  "gazette": "17435",
+  "in_force": "2019-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-05-23",
+      "RG-23/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik 1 Temmuz 1991 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1100,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
