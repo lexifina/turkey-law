@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8616",
+  "decision_date": "2019-05-23",
+  "title": "İnegöl Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-05-29",
+  "resmi_gazete_number": "30788",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RXL3f+Org90=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RXL3f+Org90=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=v/qEQTZO77k="
+  ],
+  "source_sha256": "55dda467c52671c25adfba4445b1b51d5b5e16a2375aedf65c3422388e3f336a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-23",
+  "law_text_complete": true
+}
