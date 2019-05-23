@@ -1,0 +1,2 @@
+Kadro işlemleri
+MADDE 13 – (1) İşletmede kadro işlemleri hususunda, işletmenin kurulduğu mahalli idareye göre 10/6/2007 tarihli ve 26548 sayılı Resmî Gazete’de yayımlanan İl Özel İdaresi Norm Kadro İlke ve Standartlarına Dair Yönetmelik veya 22/2/2007 tarihli ve 26442 sayılı Resmî Gazete’de yayımlanan Belediye ve Bağlı Kuruluşlar ile Mahalli İdare Birlikleri Norm Kadro İlke ve Standartlarına Dair Yönetmelik hükümleri uygulanır.

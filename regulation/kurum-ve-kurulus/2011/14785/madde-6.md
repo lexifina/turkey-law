@@ -1,0 +1,3 @@
+Gerçekleştirme görevlileri
+MADDE 6 – (1) Gerçekleştirme görevlileri, harcama talimatı üzerine, işletmeyle ilgili işin yaptırılması, mal ve hizmetin satın alınması ve tesellümü, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütürler.
+(2) Harcama yetkilisi, yardımcıları veya kendisine en yakın yönetim kademesinde bulunan görevliler arasından birini veya birden fazlasını, diğer görevlilerce düzenlenen gerçekleştirme belgelerini toplamak, kontrol etmek ve bunları düzenleyeceği bir ödeme emri belgesine bağlamak suretiyle işlemin taahhüt ve tahakkuk aşamalarını tamamlayarak ödemeye hazır duruma getirmek üzere ayrıca gerçekleştirme görevlisi olarak görevlendirebilir.

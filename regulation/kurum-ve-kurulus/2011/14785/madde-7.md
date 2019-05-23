@@ -1,0 +1,3 @@
+Muhasebe yetkilisi
+MADDE 7 – (1) Mahalli idarenin muhasebe hizmetlerini yürüten muhasebe yetkilisi işletmenin de muhasebe yetkilisidir. İşletmenin hesabı, muhasebe yetkilisi tarafından, mahalli idare kesin hesabına dahil edilerek ilgili mercilere verilir.
+(2) İşletmenin iş hacminin zorunlu kılması halinde bu işler için ayrı bir muhasebe yetkilisi yardımcısı görevlendirilebilir. Muhasebe yetkilisi yardımcılarının görevlendirilmesine ve yetkilendirilmesine ilişkin hususlar, 21/1/2006 tarihli ve 26056 sayılı Resmî Gazete’de yayımlanan Muhasebe Yetkilisi Adaylarının Eğitimi, Sertifika Verilmesi ile Muhasebe Yetkililerinin Çalışma Usul ve Esasları Hakkında Yönetmelik hükümleri çerçevesinde belirlenir.
