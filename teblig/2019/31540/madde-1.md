@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 5/10/2018 tarihli ve 30556 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/34) ile Çin Halk Cumhuriyeti menşeli 9105.21.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “elektrikle çalışanlar (duvar saatleri)” ürününe yönelik başlatılan ve T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
