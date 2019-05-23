@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen,
+a) Anlaşmalı ülkeler: 10/2/1937 tarihli Cenaze Nakline Mahsus Beynelmilel İtilafname veya 26/10/1973 tarihli Cenazelerin Nakli Anlaşmasına taraf olan ülkeleri,
+b) Belediye: Büyükşehir, büyükşehir ilçe ve diğer belediyeleri,
+c) Bulaşıcı hastalık: Etkenin bulaşma yoluna göre gerekli koruyucu önlemler alınmadığı takdirde kişiye bulaşabilen, mikroorganizmaların ve/veya ürünlerinin neden olduğu enfeksiyon hastalıklarını,
+ç) Cenaze (Ölü): Tıbben beyin ve kalp ölümü gerçekleşen kişiyi,
+d) Cenazeler için geçiş izin belgesi: Cenazelerin yurt dışı nakillerinde hareket edilen ülke yetkili makamları tarafından düzenlenmiş, ölünün kimlik bilgileri, ölüm tarihi ve yeri, (Değişik ibare:RG-19/1/2013-28533) ölüm şekli, nakil aracı, hareket ülkesi, yol güzergahı ve gidilecek ülke bilgilerinin yer aldığı, çok kullanılan bir yabancı dilde de yazılmış, (Değişik ibare:RG-19/1/2013-28533) Sağlık Bakanlığı Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğü teşkilatı, halk sağlığı müdürlüğü veya toplum sağlığı merkezlerince doldurulan, bu Yönetmeliğin ekinde yer alan Ek-1’deki belgeyi,
+e) Defin: Cenazelerin şartlarına uygun olarak gömülmesini,
+f) Gassal: Cenazeyi yıkamakla görevli kişiyi,
+g) (Değişik:RG-19/1/2013-28533) Ölüm belgesi: Tabip veya ölüm belgesi düzenleme yetkilisi tarafından verilen, cenazenin defninin yapılmasının uygun olduğunu gösteren Ek-2’deki belgeyi,
+ğ) (Değişik:RG-19/1/2013-28533) Ölüm belgesi düzenleme yetkilisi: Ölüm belgesi vermeye yetkili tabip bulunmaması halinde bahse konu belgeyi düzenlemekle yetkilendirilmiş görevliyi,
+h) (Değişik:RG-19/1/2013-28533) Hükümet tabibi: Toplum sağlığı merkezi hekimini veya aile hekimini,
+ı) Kefenleme: Cenazelerin şartlarına uygun olarak kefenlenmesini,
+i) Nakil tabutu: Başka bir yerleşim yerine cenaze nakillerinde cenazenin dış ortamla irtibatını keserek mayi ve koku çıkışını önleyen, uygun muhafaza malzemesi kullanılmış tabutu,
+j) (Değişik:RG-19/1/2013-28533) Yol izin belgesi: Bulunduğu mahal dışına nakledilecek cenazeler için tabip veya ölüm belgesi düzenleme yetkilisi veya ilgili belediyenin görevlisi tarafından verilecek ve belediyece veya köy muhtarınca onaylanacak, tabutun sızdırmazlığının sağlandığını da gösteren Ek-3’teki belgeyi,
+ifade eder.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik sıhhi açıdan mezarlık yer seçimi kriterlerinin tespiti, mezarlık ile mezarların tesis ve inşası, (Değişik ibare:RG-19/1/2013-28533) ölüm belgesi verilmesi, cenazelerin yıkattırılması, kefenlenmesi, tabutlanması, nakli, defni ve icabı halinde mezarlıktan tekrar çıkartılması ile sağlık açısından mahsuru bulunan cenazelerin ne suretle defnolunacağı, ölü küllerinin nakli ve muhafazası ile ilgili usul ve esasları kapsar.

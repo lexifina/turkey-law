@@ -1,0 +1,2 @@
+Tapu kaydı ve tescili olmayan mezarlıklar
+GEÇİCİ MADDE 1 – (1) Tapu kaydı ve tescili olmayan mezarlıkların kesin sınırları tespit edilir, Yönetmeliğin yayımlandığı tarihten itibaren 1 yıl içinde ilgili belediye veya köy ihtiyar heyeti tarafından tescile esas olacak haritaları yapılır veya yaptırılır, bu haritaların teknik kontrolü ve tescili Tapu ve Kadastro Genel Müdürlüğünün tescil mevzuatı çerçevesinde yapılır.

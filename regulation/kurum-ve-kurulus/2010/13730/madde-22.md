@@ -1,0 +1,3 @@
+Ölüm olaylarının nüfus müdürlüğüne bildirilmesi
+MADDE 22 – (Değişik:RG-19/1/2013-28533)
+(1) Ölümler, ölüm olayının meydana geldiği tarihten itibaren 10 gün içinde halk sağlığı müdürlüğü tarafından elektronik ortamda nüfus müdürlüğüne bildirilir. Ölüm olayları nüfus müdürlüğüne bildirilirken ölen kişinin nüfus cüzdanı aslı da nüfus müdürlüğüne gönderilir. Ölen kişinin nüfus cüzdanının bulunamaması durumunda ölen kişinin yakınlarından ölen kişinin adı, soyadı ve T.C. kimlik numarasının yazılı beyanı istenir. Ölen kişinin yakınlarından ölen kişinin T.C. kimlik numarasının yazılı beyanı dışında nüfus kayıt örneği veya kimliğe ilişkin başkaca bir belge istenmez.

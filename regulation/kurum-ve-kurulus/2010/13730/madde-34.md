@@ -1,0 +1,2 @@
+Cenazelerin yurtdışına nakli
+MADDE 34 – (1) Deniz, hava ve demiryollarıyla yurtdışına yapılacak cenaze nakillerinde, belediye sağlık işleri birimlerince cenaze yol izin belgesi düzenlendikten ve ilgili sağlık biriminden cenaze geçiş izin belgesi alındıktan sonra; naklin yapılacağı yerdeki (Ek ibare:RG-19/1/2013-28533) Türkiye Hudut ve Sahiller Sağlık Genel Müdürlüğünün sağlık işleri görevlilerine, belgeler teslim edilerek nakil gerçekleştirilir.

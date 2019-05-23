@@ -1,0 +1,2 @@
+Fakir cenazelerin nakli
+MADDE 33 – (1) Fakir cenazelerin şehir dışı nakilleri, mahallî imkânlar ölçüsünde mülki amirce sağlanır. (Ek cümle:RG-3/4/2012-28253) Fakir cenazelerinin nakli işlemlerinde fakirliğin tespiti ile ilgili olarak cenaze yakınlarının sözlü veya yazılı beyanları esas alınır. (Ek cümle:RG-3/4/2012-28253) Bu kişilerden cenaze nakil işlemlerinin tamamlanması için beyanlarını belgeleyici fakirlik ve muhtaçlık belgesi veya fakir ve muhtaçlık durumuna ilişkin başkaca bir belge talep edilmez.

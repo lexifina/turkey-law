@@ -1,0 +1,2 @@
+Yurtdışından gelen cenazeler
+MADDE 37 – (1) Yabancı ülkelerden getirilen cenazelerin nakline müsaade edildiğini ve naklinde sağlık yönünden sakınca bulunmadığını gösteren cenazenin geleceği yerin yetkili makamından verilmiş cenaze nakil belgesi ibraz edilmesi zorunludur. Cenaze nakil belgesinde cenazenin kimlik numarasının, ad ve soyadının, baba adının, ölümün vuku bulduğu yerin, tarihin, (Değişik ibare:RG-19/1/2013-28533) ölüm şeklinin, nakline izin verildiğinin, naklinin sağlık sakıncası doğurmayacağı hususunun ve ilgili diğer hususların açıklıkla kaydedilmesi zorunludur.

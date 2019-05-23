@@ -1,0 +1,80 @@
+{
+  "source_id": "7.5.13730",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MEZARLIK YERLERİNİN İNŞAASI İLE CENAZE NAKİL VE DEFİN İŞLEMLERİ HAKKINDA YÖNETMELİK",
+  "number": "13730",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/13730",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13730&MevzuatTertip=5",
+  "source_sha256": "6e1ab9e9f6d4ec9bcbbd38688b7fe326139b005d3423baf12a5d56d81561ef21",
+  "source_bytes": 93135,
+  "published": "2010-01-19",
+  "gazette": "27467",
+  "in_force": "2019-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-05-23",
+      "RG-23/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-16",
+      "RG-16/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-01-16",
+      "16/1/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-19",
+      "RG-19/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-19",
+      "19/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4648,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13730-ek-1.doc",
+    "7.5.13730-EK-2.xlsx",
+    "7.5.13730-ek-3.doc",
+    "7.5.13730-ek-4.doc",
+    "7.5.13730-ek-5.doc",
+    "7.5.13730-ek-6.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

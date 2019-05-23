@@ -1,0 +1,2 @@
+Mezarlıkların genişliği
+MADDE 11 – (1) Mezarlık olarak belirlenecek alanın asgari genişliği; “Mezarlık alanı = (o beldenin senelik en az ölüm miktarı x toprağın cesetleri tam olarak ayrıştırma müddeti (yıl) x 3.50 m²) + yollar için ayrılan alan + aile mezarlıkları için ayrılan alan + mezarlık içinde yapılacak tesisler için ayrılan alan” hesaplamasıyla bulunur. Toprağın cesedi ayrıştırma süresi mezarlık yeri seçimi komisyonunca belirlenir.

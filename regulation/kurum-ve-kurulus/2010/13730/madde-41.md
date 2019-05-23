@@ -1,0 +1,5 @@
+Mezardan çıkarılarak başka bir yere cenaze nakli
+MADDE 41 – (1) Belediye sınırları içindeki mezarlıklardan başka bir mezarlığa nakil amacıyla cenaze çıkarılabilmesi için, belediye tabibinin, bulunmaması halinde hükümet tabibinin uygun görüşü alındıktan sonra belediyeden izin alınması gereklidir.
+(2) Köy mezarlıklarından başka bir mezarlığa nakil amacıyla cenaze çıkarılabilmesi için ise, mülki idare amirince görevlendirilecek sağlık görevlisinin uygun görüşü alındıktan sonra muhtarlıkça izin verilmesi gereklidir.
+(3) Kolera, veba, çiçek veya lekeli humma hastalıklarından ölmüş olanların bir sene geçmedikçe mezardan çıkarılarak başka bir mahalle nakilleri yasaktır.
+(4) Baraj göl alanı içinde kalacak mezarlıklar mezar sahiplerinin talepleri halinde ilgili idare tarafından, yeni ihdas edilecek bir mezarlık alanına veya uygun bir mezarlığa nakledilir. Mezarlığın su altında kalacağı belirlenmiş muhtemel tarihten bir sene öncesi itibariyle bu mezarlığa yeni cenaze defni yapılamaz. Eğer yapılmışsa bu cenazeler mülki idare amirince görevlendirilecek sağlık görevlisinin uygun görüşü alındıktan sonra ilgili idare tarafından nakledilir.
