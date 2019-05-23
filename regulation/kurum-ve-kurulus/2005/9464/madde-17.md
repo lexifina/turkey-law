@@ -1,0 +1,3 @@
+Tahsis ve satış yetkisi
+Madde 17 — Arsa, konut ve işyeri tahsisi, kiralama ve satışları belediye encümeni kararı ile yapılır. Belediye encümeni kişilerin dar gelirli kapsamına girip girmediğini belirlemeye, tahsis, kiralama ve satışın yapılıp yapılmamasına, satışlarda teklif edilen fiyatın yeterli olup olmadığına ve ihaleyi sonuçlandırıp sonuçlandırmamaya yetkilidir.
+Aile nüfusu, dul, engelli, evde yatalak hasta bulunması, çocukların gelir getirici bir işte çalışıp çalışmaması, aile bireylerinin sahip olduğu araç ve diğer varlıklar, gazi, şehit eş ve çocukları ile benzer özel durumları olanlara belediye encümeni tarafından kıymet takdir komisyonu tarafından belirlenen miktar üzerinden başkaca şart aranmaksızın arsa ve konut tahsis edilebilir.

@@ -1,0 +1,2 @@
+Sözleşme düzenlenmesi
+Madde 19 — Arsa, konut ve işyeri tahsis ve satışları ile konut kiralanmasında ilgili kişiler veya kooperatif arasında, tahsis veya satış şartları, arsa, konut ve işyerlerinin kullanım şartları, tahsis ve satışın taksitle yapılması halinde taksitlerin ödeme süresi ve vade farkı, zamanında ödenmeyen taksitlere uygulanacak gecikme faizi ile tahsis veya satışın iptal edilmesi ve diğer hükümler bir sözleşme ile düzenlenir.

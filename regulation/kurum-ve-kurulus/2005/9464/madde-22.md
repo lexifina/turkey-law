@@ -1,0 +1,2 @@
+İlan
+Madde 22 — Uygulamada açıklık ve rekabetin sağlanması için, 2886 sayılı Devlet İhale Kanununa tabi olmayan tahsis, kiralama ve satışlarda arsa, konut ve işyerlerinin yeri, büyüklüğü, tahsis ve satış şartları, müracaat yeri ve süresi, bedeli, ödeme planı, vade farkı ve gecikme faizi, kullanım koşulları, tahsisin iptal şartları ve diğer hususlar son müracaat gününden en az on beş gün önceden belediyenin internet sitesinde, ilan panolarında ve uygun görülecek diğer vasıtalarla ilân edilir.
