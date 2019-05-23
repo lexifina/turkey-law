@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.10687",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KENT KONSEYİ YÖNETMELİĞİ",
+  "number": "10687",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2006/10687",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10687&MevzuatTertip=5",
+  "source_sha256": "9e54fc42f7368c354dc0694272bb22d0c77b44abf5833b14eff253c964d35971",
+  "source_bytes": 43362,
+  "published": "2006-10-08",
+  "gazette": "26313",
+  "in_force": "2019-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-05-23",
+      "RG-23/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-06-06",
+      "RG-6/6/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-06-06",
+      "6/6/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
