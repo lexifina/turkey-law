@@ -1,0 +1,99 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7175",
+  "year": 2019,
+  "title": "Turizmi Teşvik Kanununda Değişiklik Yapılması Hakkında Kanun",
+  "adopted": "2019-05-23",
+  "adopted_as_published": "23/05/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "01.06.2019 No: 30791",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307175.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 58 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013081ss0058.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862824,
+      "title": "Turizmi Teşvik Kanununda Değişiklik Yapılması Hakkında Kanun",
+      "adopted_as_published": "23/05/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307175.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 58 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013081ss0058.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 13,
+          "sitting": 78,
+          "sitting_date": "2019-05-15",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013078.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+          "pages": [
+            "291"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 80,
+          "sitting_date": "2019-05-21",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013080.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+          "pages": [
+            "554"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 81,
+          "sitting_date": "2019-05-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013081.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+          "pages": [
+            "685:695",
+            "697:704",
+            "705",
+            "707:709",
+            "720"
+          ]
+        },
+        {
+          "cilt": 13,
+          "sitting": 82,
+          "sitting_date": "2019-05-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013082.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+          "pages": [
+            "821:826",
+            "830:849",
+            "850:861"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2019-05-23",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 23/05/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
