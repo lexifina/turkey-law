@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8610",
+  "decision_date": "2019-05-23",
+  "title": "Aksa Tokat Amasya Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-05-29",
+  "resmi_gazete_number": "30788",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=moVEHgLszAc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=moVEHgLszAc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tR/u89JEY7o="
+  ],
+  "source_sha256": "85f5fde64ed59c325be08868e300ed724a25dba0bd6a90c73254c49753af35e0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-23",
+  "law_text_complete": true
+}
