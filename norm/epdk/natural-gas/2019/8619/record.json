@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8619",
+  "decision_date": "2019-05-23",
+  "title": "PALGAZ Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-05-29",
+  "resmi_gazete_number": "30788",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dcHZ0Nmz1dM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dcHZ0Nmz1dM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=99bWtDS+9qA="
+  ],
+  "source_sha256": "9fe365605a7c113eb321d8dcb688df4982c9ab78bbcb7f5e02ae30d468a0c08e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-23",
+  "law_text_complete": true
+}
