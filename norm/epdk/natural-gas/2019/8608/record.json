@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8608",
+  "decision_date": "2019-05-23",
+  "title": "Aksa Malatya Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-05-29",
+  "resmi_gazete_number": "30788",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wm0lZam8Fu8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wm0lZam8Fu8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eG7rSzNmP+o="
+  ],
+  "source_sha256": "cca3550f5d3015e08c8f2ca58f7c68336da9d5ceabece423595f62e6fd218976",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-23",
+  "law_text_complete": true
+}
