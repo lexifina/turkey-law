@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Firmalara İlişkin Belirlemeler
+Bedaya Company for Stationery Manufacturing firmasına ilişkin belirlemeler
+MADDE 13 – (1) Resmî ithalat istatistiklerine göre, firmanın 2017 yılı öncesinde ülkemize soruşturma konusu ürün ihracatı bulunmamakta olup, ihracat 2017 yılında başlamıştır.
+(2) Firmanın soru formu kapsamında sunulan bilgi/belgelerinin incelenmesini müteakip Mısır’ın 6 Ekim şehrinin 3 üncü Endüstri Bölgesinde bulunan firma tesisleri ile merkez ofisinde 4-5 Mart 2019 tarihlerinde yerinde doğrulama çalışması gerçekleştirilmiştir.
+(3) Yerinde doğrulama ziyaretinde firmanın üretim tesislerinin çalışır durumda olduğu ve ekstrüzyonyöntemine dayanan firma üretim tekniğinin ağaç cedarlı yerli üretim tekniğinden oldukça farklı bir üretim tekniği olduğu görülmüştür. Bu kapsamda, üretimde kullanılan polistiren, polietilen ve pigment ile muhtelif kimyasalın hammadde depolarında fiziki varlığı tespit edilmiştir. Buna ilaveten, firmanın üretim tesislerinde ekstrüzyon ve soğutma hattı ile muhtelif sayıda kesme, tıraşlama ve etiketleme makinesi ve paketleme ünitesinin varlığı tespit edilmiş olup, her bir ekstrüzyon hattının üretim süreci gözlemlenmiştir. Makine parkurunun firmanın fiili üretimi ile uyumlu olduğu görülmüştür. Diğer taraftan, bitmiş ürünlerin depolarda fiziki varlığı tespit edilmiştir.

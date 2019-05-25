@@ -1,0 +1,4 @@
+Başvuru ve soruşturma
+MADDE 6 – (1) Bakanlığa iletilen, önlem konusu ülkeler menşeli “kurşun kalemler ve kurşun boyama kalemleri” ithalatında uygulanan dampinge karşı önlemin Mısır üzerinden yapılan ithalat yoluyla etkisiz kılındığına yönelik iddialar üzerine Bakanlık tarafından re’sen bir inceleme başlatılmıştır.
+(2) Önlemlerin etkisiz kılındığına ilişkin iddia ve bulguların Kanun, Karar ve Yönetmelik hükümleri çerçevesinde değerlendirilmesi neticesinde Mısır menşeli/çıkışlı söz konusu eşya için İthalatta Haksız Rekabeti Değerlendirme Kurulunca, Yönetmeliğin 38 inci maddesi çerçevesinde önlemlerin etkisiz kılınmasına karşı soruşturma açılmasına karar verilmiştir.
+(3) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2018/24) ile Mısır menşeli/çıkışlı “kurşun kalemler ve kurşun boyama kalemleri” ithalatına yönelik olarak önlemlerin etkisiz kılınmasına karşı soruşturma başlatılmıştır.
