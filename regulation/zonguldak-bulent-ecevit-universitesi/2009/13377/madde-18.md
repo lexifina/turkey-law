@@ -1,0 +1,2 @@
+İntibaklar
+MADDE 18 – (1) Daha önce herhangi bir yükseköğretim kurumunda öğrenci iken Üniversitenin birimlerinden birine yatay veya dikey geçiş yoluyla kayıt yaptıran öğrenciler, başarmış oldukları dersler için muafiyet talebinde bulunabilir. Bu öğrenciler muafiyete esas olacak belgeleri dilekçelerine bağlı olarak, o yarıyılın kayıt işlemi sırasında ilgili dekanlığa/yüksekokul müdürlüğüne verir. Belgenin kabulü, intibakın yapılması, derslerin kapsamı, başarı derecesi, kredisi gibi hususlar dikkate alınarak, ilgili yönetim kurulu tarafından karara bağlanır.

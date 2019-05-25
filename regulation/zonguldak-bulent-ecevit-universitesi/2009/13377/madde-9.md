@@ -1,0 +1,6 @@
+Eğitim-öğretim programları
+MADDE 9 – (Değişik:RG-26/9/2011-28066)
+(1) Eğitim-öğretim programları Türkiye Yükseköğretim Yeterlilikler Çerçevesinde belirlenen hedeflere yönelik olarak ilgili bölüm kurulunun önerisi, ilgili kurulun kararı ve Senatonun onayı ile yürürlüğe girer. Bir sonraki akademik yılla ilgili değişiklikler de aynı yöntemle, her yıl en geç Mayıs ayı içinde belirlenir.
+(2) Ders kredilerinin hesaplanmasında, Türkiye Yükseköğretim Yeterlilikler Çerçevesinde 6 ncı düzey (lisans) için belirlenen ve program bazında öngörülen bilgi, beceri ve yetkinliklerin kazandırılmasına dayalı öğrenci iş yükü esas alınır. Öğrenci iş yükü, ders saatlerinin yanı sıra laboratuar, atölye, klinik çalışması, ödev, uygulama, proje, sunum, sınava hazırlık, sınav, staj, iş yeri eğitimi gibi eğitim öğretim etkinliklerinde harcanan bütün zamanı ifade eder. 1 kredi (1 kredi, 1 AKTS’dir) 30 saat öğrenci iş yüküne karşılık gelir. Dört yıllık 6 ncı düzey (lisans) eğitim-öğretim programları 240 kredilik dersleri kapsar.
+(3) Eğitim-öğretim programları, dönem başına 30 kredi olacak şekilde uygulanır. Bu sınırlama zorunlu durumlarda Senato kararı ile değiştirilebilir.
+(4) Eğitim-öğretim programlarında staj zorunluluğu olan fakülte ve yüksekokullarda stajla ilgili esaslar, eğitim-öğretimin özelliği göz önünde bulundurularak Senato tarafından düzenlenir.

@@ -1,0 +1,2 @@
+Lisans diploması
+MADDE 39 – (1) Bir fakülte/yüksekokulun lisans eğitim-öğretim programının mezuniyet için öngördüğü koşulları sağlayan öğrenciler lisans diploması almaya hak kazanır. Lisans diploması, dekan/yüksekokul müdürü ve Rektör tarafından imzalanır. Lisans diploması hazırlanıncaya kadar öğrencilere, fakültelerde dekanın, yüksekokullarda yüksekokul müdürünün imzaları bulunan geçici mezuniyet belgesi verilebilir.

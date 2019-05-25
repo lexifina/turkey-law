@@ -1,0 +1,3 @@
+Özel öğrenciler
+MADDE 20 – (1) (Değişik:RG-26/9/2011-28066) Üniversitedeki dersleri izlemeye yeterli görülenler ile diğer üniversite öğrencileri, belirli konularda bilgilerini artırmak amacıyla, ilgili yönetim kurulu kararıyla, özel öğrenci olarak bir yarıyılda en çok üç derse kayıt olabilir. Bu öğrenciler yazıldıkları dersler için belirlenen bütün kurallara uymak zorundadır. Bu statüdeki öğrencilere diploma verilmez. Ancak, Öğrenci İşleri Daire Başkanlığı tarafından kendilerine durumlarını gösteren bir belge verilir. Özel öğrenciler, dersi açan birimin o yarıyıl için belirlenen katkı payını/öğrenim ücretini öder.
+(2) (Mülga:RG-26/9/2011-28066)
