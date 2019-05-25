@@ -1,0 +1,4 @@
+Savaş, seferberlik ve olağanüstü hal
+MADDE 34 – (1) Kurum, savaş, genel seferberlik ve benzeri durumlarda, kamu güvenliği ve ulusal savunma için yetkili makamlarca talep edilmesi halinde, sınırlı veya sınırsız bir süreyle işletmecinin işletme faaliyetlerinin tamamını veya bir kısmını askıya alabilir ve doğrudan doğruya şebekeyi işletebilir, millî güvenlik ve kamu düzeni gerekleri nedeniyle işletmeciye tahsis edilen kaynakların bir kısmını geri alabilir. Bu durumda geçecek süre, yetkilendirme süresine eklenir ve bu dönemde elde edilen gelir işletmeciye ait olur.
+(2) Söz konusu hallerde Kurumca bu hususlara ilişkin olarak yapılmış bulunan düzenleme ve alınmış olan kararlara işletmeci tarafından uyulmaması ağır kusur sayılarak işletmecinin yetkilendirmesi fesh/iptal edilir.
+(3) İkinci fıkra gereği yapılacak fesihlerde, 5809 sayılı Kanunun 60 ıncı maddesinin birinci fıkrası uyarınca Bakanlık görüşü alınması gereken durumlarda Bakanlık görüşü alınır.

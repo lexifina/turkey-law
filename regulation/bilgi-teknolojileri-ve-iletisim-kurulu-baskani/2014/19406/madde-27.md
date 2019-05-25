@@ -1,0 +1,2 @@
+Denetime ilişkin ihlaller
+MADDE 27 – (1) Denetime ilişkin mevzuat kapsamında getirilen yükümlülüklerin ihlal edilmesi halinde İşletmeciye bir önceki takvim yılına ait net satışlarının yüzde üçüne (%3) kadar idari para cezası uygulanır. Ayrıca, bu kişilerin kayıtlı elektronik posta hizmet sağlayıcısı, ölçüm yetki belgesine sahip kuruluş, denetim yapma yetki belgesine sahip şirket veya deneme iznine sahip kuruluş olması durumunda Kurum tarafından kendilerine verilen yetki, ruhsat gibi her türlü izin iptal edilebilir.

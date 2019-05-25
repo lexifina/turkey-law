@@ -1,0 +1,3 @@
+Eksik bilgi ve/veya belge verilmesi
+MADDE 25 – (1) Kurum tarafından talep edilen her türlü bilgi ve/veya belge ile ilgili mevzuat kapsamında verilmesi gereken bilgi ve/veya belgelerin eksik olması durumunda, 44 üncü maddede yer alan ölçütler dikkate alınarak işletmeci uyarılır veya işletmeciye bir önceki takvim yılındaki net satışlarının yüzbinde ikisi (%0,002) oranında idari para cezası uygulanır.
+(2) Eksik olan bilgi ve/veya belgelerin tekrar istenmesine rağmen tamamlanmaması halinde 44 üncü maddedeki ölçütler dikkate alınarak, işletmecinin bir önceki takvim yılındaki net satışlarının yüzbinde ikisinin (%0,002) iki katından az olmamak üzere yüzde birine (%1) kadar idari para cezası uygulanır.

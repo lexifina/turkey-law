@@ -1,0 +1,3 @@
+Bilgi ve/veya belgelerin süresinde verilmemesi
+MADDE 23 – (1) Kurum tarafından talep edilen her türlü bilgi ve/veya belge ile ilgili mevzuat gereği verilmesi gereken bilgi ve/veya belgelerin Kuruma süresi içinde verilmemesi halinde 44 üncü maddede yer alan ölçütler dikkate alınarak işletmeci uyarılır veya işletmeciye bir önceki takvim yılındaki net satışlarının yüzbinde üçü (%0,003) oranında idari para cezası uygulanır.
+(2) Söz konusu bilgi ve/veya belgenin tekrar istenmesine rağmen süresi içinde verilmemesi halinde 44 üncü maddedeki ölçütler dikkate alınarak, işletmecinin bir önceki takvim yılındaki net satışlarının yüzbinde üçünün (%0,003) iki katından az olmamak üzere yüzde birine (%1) kadar idari para cezası uygulanır.
