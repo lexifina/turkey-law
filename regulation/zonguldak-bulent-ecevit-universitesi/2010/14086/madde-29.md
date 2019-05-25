@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz ve notların kesinleşmesi
+MADDE 29 – (1) Öğrenci; sınav sonuçlarının duyurulmasından itibaren yedi gün içinde Dekanlığa bir dilekçe ile başvurarak, sınav kağıdının yeniden incelenmesini isteyebilir. Dekanlık maddi bir hata yapılıp yapılmadığının belirlenmesi için sınav kağıdını ilgili bölüm başkanı aracılığı ile dersin sorumlu öğretim elemanına inceletir. Not değişiklikleri, Fakülte Yönetim Kurulu kararı ile kesinleşir ve öğrenciye bildirilir. Komisyon tarafından yapılan sınavlara itiraz edilemez.

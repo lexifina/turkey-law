@@ -1,0 +1,3 @@
+Öğrenci danışmanlığı
+MADDE 20 – (1) Her öğrenciye öğrenimi süresince; kayıt, kayıt yenileme, ders alma ve ders bırakma işlemleri, eğitim-öğretim çalışmaları ve öğrencinin Üniversite yaşamı ile ilgili sorunlarında kendisine yardımcı olmak üzere, bölüm başkanlıklarınca bir öğretim elemanı danışman olarak seçilir. Öğrenci, devam edeceği dersleri sorumlu olduğu öğretim programına uygun olarak ve danışmanının önerileri doğrultusunda seçer, ders alma işlemlerinden öğrenci sorumludur.
+(2) Akademik danışmanlığın etkin bir şekilde yürütülmesi, öğrencinin öğrenim durumunun izlenmesi ve kontrolünün sağlanması amacıyla, her bölümde öğrenci izleme dosyası tutulur.

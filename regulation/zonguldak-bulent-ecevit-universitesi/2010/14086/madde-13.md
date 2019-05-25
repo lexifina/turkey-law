@@ -1,0 +1,2 @@
+İntibaklar
+MADDE 13 – (1) Daha önce başka bir yükseköğretim kurumunda öğrenci iken Fakültede bir programa yatay ya da dikey geçiş yoluyla kayıt yaptıran öğrenciler, başarmış oldukları dersler için muafiyet talebinde bulunabilir. Bu öğrenciler muafiyete esas olacak belgeleri dilekçelerine bağlı olarak, o yarıyılın kayıt işlemi sırasında Dekanlığa verir. Belgenin kabulü ve intibakın yapılması; derslerin kapsamı, başarı derecesi, kredisi gibi hususlar dikkate alınarak, Fakülte Yönetim Kurulunca karara bağlanır.

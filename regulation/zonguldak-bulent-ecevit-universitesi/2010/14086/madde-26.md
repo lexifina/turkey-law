@@ -1,0 +1,2 @@
+Değişim programları
+MADDE 26 – (1) Üniversite ile yurtiçindeki veya yurtdışındaki yükseköğretim kurumları arasında yapılan anlaşmalar uyarınca üniversitelerarası öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl bu üniversitelere gönderilebilir. Değişim programları, ikili anlaşmalar ve Yükseköğretim Kurulunca belirlenen esaslar doğrultusunda uygulanır.
