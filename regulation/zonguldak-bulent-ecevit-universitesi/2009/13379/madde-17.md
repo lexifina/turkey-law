@@ -1,0 +1,3 @@
+Özel öğrenciler
+MADDE 17 – (Değişik:RG-26/9/2011-28066)
+(1) Meslek yüksekokulundaki dersleri izlemeye yeterli görülenler ile diğer üniversitelerin öğrencileri, belirli konularda bilgilerini artırmak amacıyla, ilgili yönetim kurulu kararıyla, özel öğrenci olarak bir yarıyılda en çok üç derse kayıt olabilir. Bu öğrenciler kaydoldukları dersler için belirlenen bütün kurallara uymak zorundadır. Bu statüdeki öğrencilere diploma verilmez. Ancak, Öğrenci İşleri Daire Başkanlığı tarafından kendilerine durumlarını gösteren bir belge verilir. Özel öğrenciler, dersi açan birimin o yarıyıl için belirlenen katkı payını/öğrenim ücretini öder.

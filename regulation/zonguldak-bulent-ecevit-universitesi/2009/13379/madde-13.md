@@ -1,0 +1,3 @@
+Kayıtlar
+MADDE 13 – (1) (Değişik:RG-26/5/2011-27945) Meslek yüksekokulu programlarına kabul edilen öğrencilerin ilk kayıt işlemleri Rektörlükçe belirlenen ve ilan edilen tarihlerde, istenen belgelerle birlikte yapılır. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Süresi içinde kaydını yaptırmayan ve/veya istenen belgeleri süresi içinde sağlayamayan öğrenciler kayıt haklarını kaybeder. Gerçeğe aykırı belge verenlerin ya da yazılı beyanda bulunanların kayıtları yapılmış olsa dahi iptal edilir.
+(2) Meslek yüksekokuluna kaydını yaptıran öğrenci, bu Yönetmeliğin 20 nci maddesine göre ders alma işlemlerini yaparak öğrenimine başlar.

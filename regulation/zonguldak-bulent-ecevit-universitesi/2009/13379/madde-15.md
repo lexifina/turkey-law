@@ -1,0 +1,2 @@
+İntibaklar
+MADDE 15 – (1) Daha önce herhangi bir yükseköğretim kurumunda öğrenci iken meslek yüksekokuluna yatay geçiş yoluyla kayıt yaptıran öğrenciler, başarmış oldukları dersler için muafiyet talebinde bulunabilir. Bu öğrenciler muafiyete esas olacak belgeleri dilekçelerine bağlı olarak, o yarıyılın kayıt işlemi sırasında meslek yüksekokulu müdürlüğüne verir. Belgenin kabulü ve intibakın yapılması, derslerin kapsamı, başarı derecesi, kredisi gibi hususlar dikkate alınarak, ilgili yönetim kurulu tarafından karara bağlanır.

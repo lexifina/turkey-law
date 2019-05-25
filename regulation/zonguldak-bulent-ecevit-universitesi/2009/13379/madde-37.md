@@ -1,0 +1,3 @@
+İzinler
+MADDE 37 – (1) Öğrencilere, kanıtlayacakları önemli nedenlerin veya eğitim öğretimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma ve benzeri imkanların ortaya çıkması halinde ilgili yönetim kurulu kararı ile iki yarıyıla kadar izin verilebilir. Öğrenci eğitim-öğretim süresi içinde bu imkandan bir kez yararlanabilir. Öğrencinin izinden yararlanabilmesi için yarıyıl başlangıcından önce meslek yüksekokul müdürlüğüne başvurması gerekir. Bu Yönetmeliğin 24 üncü maddesinde öngörülen öğrenci değişim programları eğitim-öğretimin bir parçası olup, izinden sayılmaz.
+(2) (Değişik:RG-30/7/2012-28369) İzinli sayılan süreler eğitim-öğretim süresinden sayılmaz.

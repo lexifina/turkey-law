@@ -1,0 +1,3 @@
+İntibak
+GEÇİCİ MADDE 1 – (1) 2009-2010 eğitim-öğretim yılından önce meslek yüksekokullarında kayıtlı bulunan öğrencilere, öğrenimleri süresince, 21/8/1993 tarihli ve 21675 sayılı Resmî Gazete’de yayımlanan Zonguldak Karaelmas Üniversitesi Önlisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümleri uygulanır. Ancak, bu Yönetmeliğin yayımı tarihinden itibaren iki ay içinde kayıtlı bulunduğu meslek yüksekokuluna yazılı istek ve başvuruda bulunan öğrenciler bu Yönetmeliğe tabi olarak öğrenimlerine devam edebilir.
+(2) (Ek fıkra:RG-21/9/2012-28418(1) 2009-2010, 2010-2011 ve 2011-2012 eğitim öğretim yıllarında meslek yüksekokullarına kayıt yaptıran öğrencilere, öğrenimleri süresince bu Yönetmeliğin 30/7/2012 tarihinden önce yürürlükte olan hükümleri uygulanır.
