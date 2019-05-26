@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; en az bir üyesi Üniversitenin Spor Bilimleri Fakültesinden olmak üzere, Merkezin faaliyet alanlarını kapsayan konularda çalışan veya çalışmak isteyen Üniversite öğretim elemanları ile kamu kurumları, özel sektör ve sivil toplum kuruluşlarınca önerilen kişiler arasından üç yıl süreliğine Rektör tarafından görevlendirilen en az üç en fazla altı üyeden oluşur. Görev süresi dolan üye yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni bir üye görevlendirilebilir.
+(2) Danışma Kurulu; Müdürün çağrısı üzerine yılda en az bir defa olmak üzere salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınarak Yönetim Kuruluna bildirilir.
