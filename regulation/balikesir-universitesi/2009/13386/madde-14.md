@@ -1,0 +1,2 @@
+Kurulların toplanmaları ve karar almalarına ilişkin esaslar
+MADDE 14 – (1) Bu Yönetmelikte sözü geçen kurullarda her üye, oyunu kabul veya ret yoluyla vermekle görevlidir. Çekimser oy kullanamaz. Toplantı yeter sayısı kurul üye tam sayısının yarıdan bir fazlasıdır. Kararlar toplantıya katılanların salt çoğunluğu ile alınır. Üçüncü turda salt çoğunluğun sağlanamadığı hallerde dördüncü turda oy çoğunluğu esası uygulanır. Oyların eşitliği halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.
