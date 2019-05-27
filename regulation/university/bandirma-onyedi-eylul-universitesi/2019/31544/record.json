@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/bandirma-onyedi-eylul-universitesi/2019/31544",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30786",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-05-27",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Bandırma Onyedi Eylül Üniversitesi",
+  "issuer_slug": "bandirma-onyedi-eylul-universitesi",
+  "kind": "regulation",
+  "published": "2019-05-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31544&MevzuatTertip=5",
+  "source_id": "8.5.31544",
+  "source_sha256": "278994bd336eef1de3df7d5eaa387657b110b71f68d6b0e8d86e2f1e60908c83",
+  "title": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ FİZİK TEDAVİ VE\r\nREHABİLİTASYON UYGULAMA VE ARAŞTIRMA\r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 455,
+  "version_label": "oldest version available",
+  "word_count": 932
+}
