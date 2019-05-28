@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-05-28",
+  "issue": "2013",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Afyon Kocatepe Üniversitesi Girişimcilik ve Kariyer Geliştirme Uygulama ve Araştırma Merkezi (GİKAM) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190528-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190528.htm",
+  "index_sha256": "da749d7df1b53ea6834e993a955555ec5676a92ed33dbf69a4259bf3be898134",
+  "index_header": "28 Mayıs 2019 ... Sayı: 2013",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190528.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
