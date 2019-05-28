@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-453122",
+  "source_id": 30852,
+  "date": "2019-05-28",
+  "title": "İhraç edilen malın ithal edilen hammadde bedelinin yurtdışındaki alıcı tarafından ödenmesi halinde yüklenilen KDV nin iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30852",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b3df17431e6bc63fb86c7a821b0e81cea84b1d6e1a71bb44b901e0daf50a012c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
