@@ -1,0 +1,79 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862904,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "NEVZAT ŞATIROĞLU (İSTANBUL)",
+  "summary": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 61 Milletvekilinin Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (2/1908) (S. Sayısı: 68)",
+  "title": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 61 Milletvekilinin Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (2/1908) (S. Sayısı: 68)",
+  "first_sitting_date": "2019-05-28",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 13,
+      "sitting": 84,
+      "sitting_date": "2019-05-28",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c013/tbmm27013fih.pdf",
+      "pages": [
+        "1081",
+        "1085:1094",
+        "1095:1111",
+        "1112:1126",
+        "1127:1131",
+        "1134:1135"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 85,
+      "sitting_date": "2019-05-29",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014085.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "57:59",
+        "60:79",
+        "84:86",
+        "88:91",
+        "91:105"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 86,
+      "sitting_date": "2019-05-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014086.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "137:138",
+        "146:147",
+        "150:152",
+        "155:157",
+        "159:165",
+        "165:174",
+        "175:176",
+        "176:185",
+        "186:197",
+        "198:200",
+        "201:202",
+        "204",
+        "217:230"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-05-28",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
