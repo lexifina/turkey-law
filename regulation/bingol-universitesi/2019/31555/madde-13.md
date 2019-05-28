@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 13 – (1) Danışma Kurulu, Üniversite öğretim üyeleri ve görevlileri, mezunları ve Merkezin faaliyetleri ile ilgili kuruluş temsilcileri arasından Yönetim Kurulunca önerilen ve üç yıl için Rektör tarafından görevlendirilen en fazla on üyeden oluşur. Danışma Kurulunda görevlendirilecek Üniversite öğretim üyelerinin üniversite-sanayi iş birliği, kariyer yönetimi ve insan kaynakları yönetimi alanlarında deneyimli olmaları ve bu alanlarda çalışmalar yapmış olmaları gerekir.
+(2) Danışma Kurulu üyeleri, görevlendirildikleri tarihten itibaren en geç bir ay içinde toplanarak bir başkan, başkan yardımcısı ve raportör belirler.
