@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-05-29",
+  "issue": "30788",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Abonelik Sözleşmesinden Kaynaklanan Para Alacaklarına İlişkin Takibin Başlatılması Usulü Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190529-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190529.htm",
+  "index_sha256": "f94fb51cdb559a6ec1121ffb519db824a318fa4a792e4be9f6c18314c2913653",
+  "index_header": "29 Mayıs 2019 ... 30788 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/05/20190529.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
