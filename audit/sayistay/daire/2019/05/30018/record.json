@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "336",
+  "decision_date": "2019-05-30",
+  "source_id": 30018,
+  "chamber": "3",
+  "ilam_number": "381",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30018/",
+  "source_sha256": "728ca9e695d40359d99591f1a8469645146184dde61821ed964adb9e60b1ff27",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
