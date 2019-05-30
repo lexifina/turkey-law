@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8631-3",
+  "decision_date": "2019-05-30",
+  "title": "2019 yılına mahsus olmak üzere, ithalat lisansı sahibi tüzel kişiler ile dağıtım şirketlerine ve serbest tüketicilere doğal gaz satışı yapan tüzel kişilerin depolama yükümlülükleri hakkında",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eSORRfBrGSw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eSORRfBrGSw="
+  ],
+  "source_sha256": "ec41c901b26973e9f2bc89048291a311d6e212e93226961440e2ded9256328b8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2019-05-30",
+  "law_text_complete": false
+}
