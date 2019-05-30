@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8646",
+  "decision_date": "2019-05-30",
+  "title": "Enerya Karaman Gaz Dağıtım Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-06-01",
+  "resmi_gazete_number": "30791",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vlFg6aVv0gU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vlFg6aVv0gU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mpFwuoX0jgE="
+  ],
+  "source_sha256": "42e19b761bb764d53f6869d42987cf24bc9c344e8135122c6d6475eecdba44cf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-05-30",
+  "law_text_complete": true
+}
