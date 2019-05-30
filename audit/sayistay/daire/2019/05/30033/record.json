@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "333",
+  "decision_date": "2019-05-30",
+  "source_id": 30033,
+  "chamber": "3",
+  "ilam_number": "221",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30033/",
+  "source_sha256": "17106f95778b7324e246f0bc42ed33544b6ce96739dc5c6761027ad3b5b6c129",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
