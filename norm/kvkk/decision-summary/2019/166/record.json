@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/166",
+  "source_id": 5497,
+  "date": "2019-05-31",
+  "title": "İlgili kişiye ait telefon numarasına kendisine ait olmayan içeriğin gönderilmesi ile ilgili Kişisel Verileri Koruma Kurulunun 31/05/2019 Tarihli ve 2019/166 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5497/2019-166",
+  "source_sha256": "589a18d87fa94e1011b94cf354cd9688ab8051bb9b6fb0378eaf382ab2cf5d58",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
