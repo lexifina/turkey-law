@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.31581",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (Sıra No: 507)",
+  "number": "31581",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/31581",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31581&MevzuatTertip=5",
+  "source_sha256": "a2bf46aac3af64cd04678ef4660fedaedfecabbfd1244dbafa0c31b20d4e6d4e",
+  "source_bytes": 32243,
+  "published": "2019-06-01",
+  "gazette": "30791",
+  "in_force": "2019-06-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.06.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2094,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+VERGİ USUL KANUNU GENEL TEBLİĞİ
+(Sıra No: 507)

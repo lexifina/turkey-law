@@ -1,0 +1,12 @@
+Sistemden yararlanabilecekler ve belge düzeni
+MADDE 5 – (1) Bu Tebliğde belirtilen finans kuruluşları ya da ödeme kaydedici cihaz üreticileri tarafından sunulan Sistemden aşağıdaki belirtilen mükellef grupları ihtiyari olarak yararlanabilirler:
+a) Ticari kazancı basit usulde tespit edilen mükellefler,
+b) İşletme hesabı esasına göre defter tutan mükellefler,
+c) Bilanço esasına göre defter tutan mükellefler,
+ç) Serbest meslek kazancı elde eden mükellefler,
+d) Gerçek usulde vergilendirilen zirai kazancı elde eden mükellefler,
+e) Vergiden muaf esnaf.
+(2) Bu maddenin birinci fıkrasında yer alan mükelleflerden bu Tebliğle getirilen Sisteme dahil olanlar, Sistem kapsamında gerçekleştirdikleri mal satışı ve hizmet ifasına ilişkin 213 sayılı Kanun gereğince kendilerine düzenleme zorunluluğu getirilen mali belgeleri elektronik belge olarak düzenlemek ve müşterilerine belgenin türü ve niteliğine bağlı olarak elektronik ve/veya kağıt ortamda iletmek zorundadırlar. Vergiden muaf esnaflar, belge düzenleme zorunlulukları bulunmadığından, format ve standardı Başkanlık tarafından belirlenen ve www.efatura.gov.tr internet adresinde yayınlanan Teknik Kılavuzda belirlenen mali değeri bulunmayan, bilgi amaçlı “Bilgi Fişi” düzenleyeceklerdir.
+(3) Sisteme dahil olan mükelleflerin, faaliyetlerinde ödeme kaydedici cihaz kullanma mecburiyetleri bulunmamaktadır. Ancak sisteme dahil olan mükelleflerden hali hazırda ödeme kaydedici cihaz kullanmakta olanlar, söz konusu cihazlarını perakende satış fişi ile belgelendirilebilecek satışlarında kullanmaları mümkündür. Bununla birlikte söz konusu ödeme kaydedici cihazların Sistem kapsamında gerçekleştirilen ve e-Belge düzenlenen hallerde kullanılması durumunda, elektronik belgelere ilişkin olarak “Bilgi Fişi” (usul ve esasları Başkanlıkça www.ynokc.gib.gov.tr internet adresinde yayımlanan Bilgi Fişleri Teknik Kılavuzunda belirtilen) düzenlemeleri gerekmektedir.
+(4) Sisteme dahil olan mükellefler, sistem kapsamında verilmeyen banka vb. kuruluşlara ait EFT-POS cihazlarını, ödeme kaydedici cihazlarla 483 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde ve bu Tebliğe dayanılarak Başkanlık tarafından yayımlanan Teknik Kılavuzlar, Protokol dokümanları ve Başkanlık tarafından www.ynokc.gib.gov.tr internet adresinde yapılan duyurularla belirlenen kurallara uygun kullanılması şartıyla kullanmaya devam edebilirler.
+(5) Sistem kapsamında düzenlenen e-Belgelerin kağıt ortamda verilmesi gereken nüshalarının verilmesinde, ÖKC’lerin, EFT-POS cihazlarının ve Başkanlıkça izin verilen diğer cihazların kullanılması mümkündür.
