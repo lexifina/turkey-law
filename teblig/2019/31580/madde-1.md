@@ -1,0 +1,2 @@
+Giriş
+MADDE 1 – (1) 1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre yeminli mali müşavirlik ruhsatı ve mührü almış ve yeminli mali müşavir odalarının çalışanlar listesine kayıtlı yeminli mali müşavirlerin, ilgili kanun ve mevzuat hükümleri ile 3568 sayılı Kanun hükümlerine uygun olarak düzenleyecekleri Yeminli Mali Müşavirlik Tasdik Raporlarının elektronik ortamda internet vergi dairesi sistemi üzerinden gönderilmesi bu Tebliğin konusunu oluşturmaktadır.

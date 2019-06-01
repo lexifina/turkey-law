@@ -1,0 +1,3 @@
+Diğer hususlar
+MADDE 11 – (1) Yeminli mali müşavirler tarafından 2019 yılında verilecek Gelir veya Kurumlar Vergisi Beyannamesi Tasdik Raporları bu Tebliğ çerçevesinde elektronik ortamda veya kağıt ortamında ihtiyari olarak gönderilebilecek, 1/1/2020 tarihinden itibaren ise Gelir veya Kurumlar Vergisi Beyannamesi Tasdik Raporları zorunlu olarak sadece elektronik ortamda gönderilecektir.
+(2) Yeminli mali müşavirlerin bu Tebliğin yürürlüğe girdiği tarihten önce kağıt ortamında vermiş oldukları Gelir veya Kurumlar Vergisi Beyannamesi Tasdik Raporlarının ayrıca internet vergi dairesi sistemi üzerinden elektronik ortamda gönderilmesi gerekmemektedir.
