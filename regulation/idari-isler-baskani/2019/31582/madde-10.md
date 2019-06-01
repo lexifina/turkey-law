@@ -1,0 +1,6 @@
+Temsilciler
+MADDE 10- (1) Temsilciler, İdari İşler Başkanlığının talebi üzerine Bakanlıklar ile gerekli görülen kamu kurum ve kuruluşları tarafından teklif edilenler arasından İdari İşler Başkanınca belirlenir.
+(2) Teklif edilen temsilcilerin, görevde bulunduğu son üç yılını tercihen temsilcisi olacağı kurumda geçirmiş olması, bağlı bulunduğu kurumun görev ve sorumluluk alanlarına vâkıf olması, teknik bilgi ve yeterliği haiz, Merkezin çalışma sistemine uygun nitelikte olması gerekir.
+(3) Temsilcilerin, kendi Bakanlık, kurum ve kuruluşların görev ve sorumluluk alanlarına dair bilgi akışına yönelik iş ve işlemlerini Merkezde yürütmeye devam edeceklerinden, kurumları ile ilişikleri kesilmez, fiilen çalışmaya bağlı olarak aldıkları tüm mali ve sosyal hakları, yardımları ve tazminatlarında kesinti yapılamaz.
+(4) Genel Müdür, aynı birimin temsilcileri arasından birini, koordinatör temsilci olarak belirler. Koordinatör temsilci, 9 uncu maddenin birinci fıkrasının (b) bendine göre belirlenen bilgi akışı faaliyetleri sorumlusunun uygun görüşünü de alarak Daire Başkanının onayı ile diğer temsilciler arasında iş bölümü yapar.
+(5) Merkezin etkin ve verimli çalışmasını aksatacak tutum ve davranışları tespit edilen temsilcinin yerine başka bir temsilci görevlendirilmesi istenir.
