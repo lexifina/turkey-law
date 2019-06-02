@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-06-02",
+  "issue": "30792",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tunceli Üniversitesi Kadın Çalışmaları ve Toplumsal Cinsiyet Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190602-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190602.htm",
+  "index_sha256": "add0d3d6a2e63fe6510cc25f48b2c53a34f2770a65f18a02f753a5110be9ffcf",
+  "index_header": "2 Haziran 2019 ... 30792 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190602.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
