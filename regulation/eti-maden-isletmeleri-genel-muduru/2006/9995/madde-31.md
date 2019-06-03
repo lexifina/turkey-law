@@ -1,0 +1,3 @@
+Yeterlik sınavı
+MADDE 31 – (1) Müfettiş Yardımcıları üç yıllık bir staj döneminden sonra yeterlik sınavına tabi tutulurlar. Yeterlik sınavına girecek Müfettiş Yardımcılarına sınavların yeri, günü ve saati sınavdan en az iki ay önce, sözlü sınava gireceklere ise onbeş (15) gün önce Kurul Başkanlığınca duyurulur.
+(2) (Değişik:RG-3/6/2019-30793) Müfettiş yardımcılarının ahlaki, sıhhi, mesleki yetersizlik veya meslekle bağdaşmayacak tutum ve davranışlarının yargı kararı, sağlık kurulu raporu, müfettiş raporu ile ispatlanması hallerinde bu kişiler yeterlik sınavı beklenmeksizin Teftiş Kurulu dışında başka bir göreve nakledilirler.

@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Müfettiş Yardımcılığına Giriş ve Yetiştirilmeleri
+Müfettiş yardımcılığına giriş
+MADDE 21 – (1) Müfettiş Yardımcılığına; 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmeliğe göre, (A) grubu kadrolar için ÖSYM Başkanlığınca yapılan Kamu Personeli Seçme Sınavı (KPSS) sonunda, Kurul Başkanlığınca belirlenen yeterli puanı alanlar katılabilir. Yazılı sınava, belirlenen adaylardan, açıktan atama izni alınmış kadro sayısının yirmi katından fazla olmamak üzere, Teşekkül tarafından belirlenen sayıda aday çağırılır.
+(2) Yazılı sınav; Öğrenci Seçme ve Yerleştirme Merkezi, Milli Eğitim Bakanlığı veya üniversitelerden birisine yaptırılır. Sözlü sınav ise bu Yönetmeliğin 22 nci maddesinde geçen Sınav Kurulu tarafından yapılır. Yazılı sınav sonuçlarının açıklanmasından itibaren bir ay içinde sözlü sınav yapılarak sonuçlandırılır. Sınav sonucuna göre kazananlar arasından puan sırasına göre kadro sayısı kadar Müfettiş Yardımcısı, Genel Müdürün teklifi ve Yönetim Kurulu kararı ile atanırlar.

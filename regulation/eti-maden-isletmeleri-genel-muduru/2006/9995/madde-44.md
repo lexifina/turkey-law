@@ -1,0 +1,2 @@
+Müfettişlik güvencesi
+MADDE 44 – (1) Teftiş hizmetleri diğer idari görevlerden ayrı bir kariyer olarak düzenlendiğinden; Teşekkül Müfettişleri kendi istekleri dışında veya teftiş hizmetlerinin gerekleriyle bağdaşmayan sıhhi, ahlaki veya mesleki yetersizlikleri tespit edilmedikçe görevden alınamaz, diğer idari görevlere atanamazlar. Sıhhi, ahlaki veya mesleki yetersizlik hallerinin sağlık kurulu raporu, yargı kararı ve Müfettiş raporu ile belgelendirilmesi esastır.

@@ -1,0 +1,3 @@
+Teftiş ve soruşturmaya diğer yetkililerce el konulması
+MADDE 54 – (1) Müfettiş ve Müfettiş Yardımcıları görevli gittiği yerde, Teşekkülde aynı konuda teftişe yetkili ilgili Bakanlık Müfettişinin bulunması veya orada çalışmakta iken böyle bir Müfettişin teftiş veya soruşturma için gelmesi yahut bir işe daha önce veya sonradan yetkili bir makamca el konulması veya konulmak istenilmesi durumlarında, Müfettiş teftiş veya soruşturmanın konu ve amacını öğrenerek durumu Kurul Başkanlığına bildirir ve alacağı emre göre hareket eder.
+(2) Müfettiş ve Müfettiş Yardımcılarının diğer kurum ve kuruluşlara bağlı Müfettiş veya yetkili personelle herhangi bir konuda işbirliği yapabilmeleri, Kurul Başkanlığından ayrı bir emir almalarına bağlıdır.

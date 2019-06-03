@@ -1,0 +1,3 @@
+Müşterek çalışmalar
+MADDE 15 – (1) Yıllık teftiş, denetim, inceleme ve soruşturma programlarının gruplar halinde uygulanması durumunda her gruba dahil Müfettişlerden en kıdemlisi o grubun başkanı sıfatıyla çalışmaları düzenler. Müfettişler işe başlarken ve çalışmaların devamı sırasında teftiş ve tetkiklere verilecek en uygun yönü tayin, işlerin seyrini takip ve sonuç alınmasını sağlayabilecek öneri ve tedbirlerin uygulanmasını temin ederler.
+(2) Grup Başkanı Müfettişler, çalışmaların seyri hakkında zaman zaman veya talep halinde Kurul Başkanlığı’na özet bilgi verirler. Teftiş, tetkik veya soruşturmanın sonuçlanmasını müteakip, çalışmaların neticelerini, düzenleyecekleri raporlarda belirtirler.
