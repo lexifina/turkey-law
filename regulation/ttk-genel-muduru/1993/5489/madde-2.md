@@ -1,0 +1,3 @@
+Kapsam ve Dayanak
+Madde 2 – Bu Yönetmelik; TTK Genel Müdürlüğü Teftiş Kurulunun görevleri ile Teftiş Kurulu Başkanı, müfettişler, müfettiş yardımcıları ve Teftiş Kurulu Şube Müdürlüğünün görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile müfettiş ve müfettiş yardımcılarının atanmalarını, özlük haklarını, Teftiş Kurulu ile müfettiş ve müfettiş yardımcılarının çalışma esas ve usullerini kapsar.
+Bu Yönetmelik 8/6/1984 tarih ve 233 sayılı KHK ile bu KHK’ nin bazı maddelerini değiştiren 29/1/1990 tarih ve 399 sayılı KHK ve 233 sayılı KHK uyarınca, 11/12/1984 tarih ve 18602 sayılı Resmi Gazete’de yayınlanan TTK Ana Statüsünün hükümlerine istinaden düzenlenmiştir.

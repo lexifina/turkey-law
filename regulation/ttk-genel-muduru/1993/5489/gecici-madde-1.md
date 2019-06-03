@@ -1,0 +1,2 @@
+Geçici Madde 1 — (Ek: RG-24/02/2004-25383)
+Bu Yönetmeliğin 22 nci maddesinin (d) bendindeki nitelikleri haiz Türkiye Taşkömürü Kurumu Genel Müdürlüğünde mühendis veya yüksek mühendis olup Daire Başkanı veya Müessese Müdürü görevlerini en az bir yıl süreyle asaleten yürütmüş, gizli sicil raporları çok iyi ya da iyi olanlardan, aylıktan kesme, kademe ilerlemesinin durdurulması ve daha ağır cezalardan birini almamış olanlar, bu madde hükmünün yürürlük tarihinden itibaren üç ay içinde Yönetim Kurulu kararı ile müfettişliğe atanabilirler.

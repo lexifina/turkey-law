@@ -1,0 +1,5 @@
+Müfettiş Yardımcılığı Giriş Sınavı Kurulu
+MADDE 20 – (Değişik:RG-26/10/2010-27741)
+Kurum müfettiş yardımcılığı giriş sınavını yapacak kurul Genel Müdürün onayı ile Teftiş Kurulu Başkanının başkanlığında, kurul üyesi dört müfettiş dahil beş kişiden oluşur. Ayrıca müfettişlerden iki yedek üye tespit edilir.
+Sınav sorularının, sınav gruplarına göre sınav kurulunca hazırlanması esastır. Sınav kurulunca, Genel Müdür onayı alınarak öncelikle Zonguldak’taki üniversitelerden sınav sorularının hazırlanmasında yardım alınabilir ve yazılı sınav sorularının hazırlanması ve bu sınavların yapılmasına ilişkin iş ve işlemler de üniversitelere yaptırılabilir.
+(Değişik üçüncü fıkra:RG-3/6/2019-30793) Müfettiş yardımcılığı giriş sınavına katılacak adayların yabancı dil bilgisi ile ilgili olarak, ÖSYM tarafından yapılan yabancı dil bilgisi seviye tespit sınavı sonucunda alınan puan esas alınır. Gerekli görülen yabancı dil puanının alt sınırı, her sınav öncesi Teftiş Kurulu Başkanlığınca belirlenir ve müfettiş yardımcılığı giriş sınavı ilanında belirtilir.
