@@ -1,0 +1,5 @@
+TÜRKİYE PETROLLERİ ANONİM ORTAKLIĞI TEFTİŞ KURULU YÖNETMELİĞİ
+BİRİNCİ KISIM
+BİRİNCİ BÖLÜM
+Amaç, Kapsam ve Tanımlar
+Amaç:

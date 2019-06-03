@@ -1,0 +1,2 @@
+Kapsam:
+Madde 2- Bu Yönetmelik; Türkiye Petrolleri Anonim Ortaklığı Teftiş Kurulu'nun teşkilat ve görevleri ile Teftiş Kurulu Başkanı, Müfettişler, Müfettiş Yardımcıları, Teftiş Kurulu (Değişik ibare:RG-21/12/2013-28858) Büro Müdürlüğünün görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Teftiş Kurulu Başkanı ile Müfettiş ve Müfettiş Yardımcıları'nın atanmalarını, özlük haklarını ve Teftiş Kurulu ile Müfettiş ve Müfettiş Yardımcıları'nın çalışma esas ve usullerini kapsar.
