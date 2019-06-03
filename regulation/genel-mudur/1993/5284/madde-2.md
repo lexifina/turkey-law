@@ -1,0 +1,2 @@
+MADDE 2 – (Değişik:RG-3/9/2008-26986)
+Bu Yönetmelik, BOTAŞ Teftiş Kurulunun kuruluş ve görevlerini, Teftiş Kurulu Başkanının atanmasını, müfettiş yardımcılarının işe alınma, yetiştirilme ve müfettişliğe atanmalarını, Teftiş Kurulu Başkanı, başmüfettiş, müfettiş, müfettiş yardımcısı ve Teftiş Kurulu Şube Müdürlüğünün görev, yetki ve sorumluluklarını, özlük haklarını, teftiş edilenlerin sorumluluklarını, Kurulun çalışma usul ve esaslarını kapsar.
