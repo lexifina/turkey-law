@@ -1,0 +1,2 @@
+Geçici Madde 2 – (Ek: RG-20/11/2003-25295)
+Bu Yönetmeliğin 23 üncü Maddesinin ( e ) ve (h) bentlerindeki niteliklere haiz, Maden tetkik ve Arama Genel Müdürlüğünde, mühendis veya yüksek mühendis olup Genel Müdür Yardımcısı, Daire Başkanı veya Bölge Müdürü görevlerini en az 1 yıl süre ile asaleten yürütmüş, gizli sicil raporları çok iyi veya iyi olanlardan; aylıktan kesme, kademe ilerlemesinin durdurulması ve daha ağır cezalardan birini almamış olanlar, bu hükmünün yürürlük tarihinden itibaren 3 ay içinde Genel Müdürün oluru ile müfettişliğe atanabilirler.

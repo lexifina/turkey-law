@@ -1,0 +1,3 @@
+Soruşturma
+Madde 52 – Soruşturmalar, Türk Ceza Kanunu hükümlerine göre suç niteliği taşıyan veya Genel Müdürlük İç Yönetmeliklerine göre disiplin cezasını gerektiren eylem ve işlemlerle ilgili olarak yapılır.
+Soruşturma yapılması Genel Müdürün iznine bağlıdır. Ancak, teftiş ve inceleme sırasında soruşturulması gerekecek bir durumla karşılaşıldığında veya bu yönde ihbar alındığında, Kurul Başkanlığı kanalıyla Genel Müdürden izin alınarak derhal soruşturmaya başlanır. Gecikmesinde zarar meydana gelebilecek olaylarda Müfettişler, zaman geçirmeden soruşturmaya başlar ve durumu en seri vasıta ile Kurul Başkanlığına bildirir.

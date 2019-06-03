@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (Ek:RG-1/12/2012-28484)
+Daire Başkanı, Bölge Müdürü veya daha üst görevlere ilişkin kadrolarda en az 2 yıl süreyle asaleten görev yapmış olup halen Genel Müdürlükte çalışmakta olanlardan bu Yönetmeliğin yayımı tarihinde Genel Müdürlükte en az 5 yıl hizmeti bulunanlar, aylıktan kesme ve daha ağır disiplin cezası almamış olmaları ve Yönetmeliğin 23 üncü maddesinin birinci fıkrasının (d) ve (h) bentlerinde sayılan şartları taşımaları halinde, bu Yönetmeliğin yayımı tarihinden itibaren altı ay içerisinde müfettiş veya başmüfettişliğe atanabilirler.

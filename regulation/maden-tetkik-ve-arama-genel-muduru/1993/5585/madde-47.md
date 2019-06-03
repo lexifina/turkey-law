@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Müfettişlerin Çalışma Anlayışı ve Amacı
+Madde 47 – Müfettişler esas itibariyle, Genel Müdürlük birimlerinde teftiş ve denetimin etkili bir şekilde yürütülmesini engelleyen hususları tespit etmek, olayların ekonomik, sosyal, idari ve hukuki sebeplerini tahlil etmek, birimlerde sistemlerin iyileştirilmesi ve personelin verimli çalışmasını teşvik edici teftiş sistemini geliştirmek için gerekli önlemlerin alınması amacını göz önünde tutarlar.
+Müfettişler bu amaçla çalışmaları esnasında tespit ettikleri çalışkan, başarılı, devlet hizmetini üstün gayret ve özveri ile yapan, devlete sahip çıkan, yetkilerini kamu yararı yönünde kullanan, basireti Kurum personelinin takdir edilmeleri için nedenlerini açıklamak suretiyle tekliflerde bulunurlar. Teftiş, inceleme, araştırma ve soruşturma faaliyetleri esnasında iş verimini artıracak şekilde hareket etmeye özen gösterirler.
+Müfettişler, yapılmayan veya sürüncemede bırakılan işlerin ihmal edilmesine ve buna yol açanların cezalandırılmasına da önem verirler.

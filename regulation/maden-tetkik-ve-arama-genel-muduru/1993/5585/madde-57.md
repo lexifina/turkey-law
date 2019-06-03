@@ -1,0 +1,4 @@
+Soruşturma Raporu
+Madde 57 – Soruşturma raporlarında; soruşturma emri, hakkında soruşturma yapılanlar ve bunların sicil durumları, soruşturmanın konusu, suçun hangi kanun veya yönetmelik maddesi kapsamına girdiği, ifade, savunma ve delillerin değerlendirilmesi, Müfettişin kanaati yer alır.
+Müfettiş soruşturmayı bitirdikten sonra en çok 15 gün içerisinde soruşturma raporunu 4 nüsha olarak düzenleyip, 3 nüshasını Kurul Başkanına verir. Raporlar Kurul Başkanınca Genel Müdür onayına sunulur.
+Ancak, 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununda öngörülen fiiller hakkında yapılan soruşturmalar sonucunda düzenlenen soruşturma rapor ve eklerinin asılları ilgililer hakkında adli takibat yapılmak üzere Müfettiş tarafından doğrudan yetkili Cumhuriyet Başsavcılığına, bir nüshası da Teftiş Kurulu Başkanlığına verilir.
