@@ -1,0 +1,3 @@
+Elektronik imza ile rapor oluşturulması
+EK MADDE 1 – (Ek:RG-30/7/2015-29430)
+Bu Yönetmelik kapsamında elektronik imza kullanılarak oluşturulan inceleme, soruşturma, cevaplı teftiş raporları ve ekleri, tek nüsha olarak düzenlenir. İhtiyaç halinde ilgili mercilere intikalinin sağlanmasını teminen düzenlenen rapordan yeterli sayıda çoğaltılarak dağıtımı sağlanır. Yapılacak bu dağıtım Şirket merkez ve taşra birimleri muhatap alınarak yapılacaksa, e-imza ile oluşturulan dijital rapor ve ekleri kağıt ortamına alınmadan gönderilir. Şirket dışı mercilere intikali sağlanacak ise, kağıt ortamında gönderimi gerçekleştirilir.

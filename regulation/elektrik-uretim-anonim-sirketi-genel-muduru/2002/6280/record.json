@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.6280",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK ÜRETİM ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "6280",
+  "issuer": "Elektrik Üretim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "elektrik-uretim-anonim-sirketi-genel-muduru",
+  "path": "regulation/elektrik-uretim-anonim-sirketi-genel-muduru/2002/6280",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6280&MevzuatTertip=5",
+  "source_sha256": "5d5e3dd820f480a921ec7110896614ba9cb6575fe1e93ad14ac29fc8fb41583e",
+  "source_bytes": 140381,
+  "published": "2002-09-30",
+  "gazette": "24892",
+  "in_force": "2019-06-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/6/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-06-03",
+      "RG-3/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-03",
+      "3/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-07-30",
+      "RG-30/7/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6165,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

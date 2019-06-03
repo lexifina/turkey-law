@@ -1,0 +1,3 @@
+Soruşturma Raporu
+Madde 47 — Soruşturma raporları, teftiş ve soruşturmaya tabi personelin ceza mevzuatına göre suç ya da disiplin mevzuatına göre disiplin suçu oluşturan eylem ve işlemlerine ilişkin olarak yapılan soruşturmalar neticesinde düzenlenen raporlardır.
+Soruşturma konusu olan olay ve işlemlerde Türk Ceza Kanunu, 3628 Sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ve diğer kanunlara göre suç görüldüğü veya Elektrik Üretim A.Ş. Disiplin Yönetmeliği ile Toplu İş Sözleşmeleri ve Şirketin diğer mevzuatına göre disiplin cezasını gerektiren bir duruma rastlandığı takdirde, soruşturma raporu düzenlenmesi yoluna gidilir.
