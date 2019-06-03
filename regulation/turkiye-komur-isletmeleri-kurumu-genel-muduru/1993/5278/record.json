@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.5278",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "5278",
+  "issuer": "Türkiye Kömür İşletmeleri Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-komur-isletmeleri-kurumu-genel-muduru",
+  "path": "regulation/turkiye-komur-isletmeleri-kurumu-genel-muduru/1993/5278",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5278&MevzuatTertip=5",
+  "source_sha256": "11c2388115172ce5c84354b54cb023cc21713804e4a924ba3caac8fbe38d57a0",
+  "source_bytes": 153386,
+  "published": "1993-09-22",
+  "gazette": "21706",
+  "in_force": "2019-06-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/6/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-06-03",
+      "RG-3/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-03",
+      "3/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-07-31",
+      "RG-31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-04-10",
+      "R.G.-10/4/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik Resmi Gazete'de yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5803,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

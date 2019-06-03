@@ -1,0 +1,22 @@
+CEVAPLI TEFTİŞ RAPORLARI
+Madde 48 — a) Cevaplı teftiş raporları, yapılan teftişlerde noksan ve hatalı bulunan işlemler hakkında, bunların hangi mevzuata, ne yönden uymadıkları veya hangi bakımdan Kurumun menfaatlerine aykırı oldukları gösterilmek ve alınması gereken tedbirler belirtilmek suretiyle düzenlenir.
+Teftişlerin sonunda cevaplı rapor düzenlenmesi asıldır.
+b) Cevaplı teftiş raporlarında, teftiş edilen birim, birim amirinin adı ve soyadı ile unvanı, teftişin başladığı ve bittiği tarihler, teftişi yapan Müfettiş veya Müfettişlerin adlan ve soyadları ayrı ayrı belirtilir.
+c) (Değişik:RG-3/6/2019-30793) Cevaplı teftiş raporları, Kurum Merkez birimlerinin teftişlerinde ihtiyaç doğrultusunda en az bir, bağlı birimlerin teftişlerinde iki nüsha olarak düzenlenir.
+Merkez birimlerinde ve bağlı birimlerde rapor en çok 15 gün içinde cevaplandırılmak üzere teftiş edilen yerin amirine tevdi ve tebliğ olunur.
+Rapor, teftiş edilen yerin cevabı ile bu cevap üzerine Müfettiş tarafından yazılan son mütalâa ile birlikte Teftiş Kurulu Başkanlığına gönderilir.
+d) Cevaplı raporu tebellüğ edenler. Müfettişin tenkid ve görüşlerine katıldıkları takdirde, tenkid konusu olan yanlış ve noksanları derhal düzeltip tamamlayarak keyfiyeti cevaplarında belirtirler.
+Müfettişin tenkid ve görüşlerine iştirak edilmiyorsa cevapta bunun sebepleri açık ifadelerle belirtilir.
+Rapor cevapları, rapor maddelerine mütenazır numaralar altında ayrı ayrı düzenlenir.
+Cevaplar teftiş edilen birimin en üst amiri ile yardımcısı tarafından imzalanır.
+e) Teftiş edilen birim Müfettişin bildirdiği süre içinde raporu cevaplamaya mecburdur. Bu süre içinde cevap vermek imkânı mevcut değil ise,yazılı olarak gerekçeleriyle birlikte Müfettişten 15 günü geçmemek üzere ek süre istenir. Müfettiş tarafından verilecek bu süre içinde de cevap vermek mümkün olmazsa Genel Müdürlükten gerekçe gösterilerek süre istenir ve keyfiyet yazılı olarak Müfettişe de bildirilir. Süre istendiğinde ileri sürülen sebepler haklı görülmediği takdirde gereken işleme tevessül olunur.
+f) (Değişik:RG-3/6/2019-30793) Nitelikleri ve kuruluş yetkileri bakımından müteaddit işletmeleri veya şubeleri olan taşra veya Merkez birimlerinin bu işletmeleri veya şubeleri, kendilerine yeterli sayıda nüsha olarak tevdi ve tebliğ edilen cevaplı teftiş raporuna karşı 15 gün içinde hazırlayacakları cevabı, bağlı oldukları birime gönderirler.
+Taşra veya Merkez birimi, bunları 15 gün içinde inceleyip bağlı birimin cevabına iştirak ediyorsa bu husus açık bir biçimde, iştirak etmiyorsa sebebini ve bu konudaki görüşünü Müfettişe göndereceği cevapta belirtir ve cevabına bağlı birimden aldığı cevabı da ekler.
+g) Cevaplı raporların ilgililerce zamanında cevaplandırılması hususunu Müfettişler bizzat takip ederler. Haklı sebeplere dayanmadan süresinde cevaplandırılmayan raporlar hakkında gereği yapılmak üzere. Müfettişlerce Teftiş Kurulu Başkanlığına bilgi verilir.
+h) Rapor cevabını alan Müfettiş 15 gün içinde son mütalâasını yazarak cevaplı teftiş raporunu, raporun cevabını ve son mütalâayı (Mülga ibare:RG-3/6/2019-30793) (…) Teftiş Kurulu Başkanlığına gönderir.
+Cevaplı raporlara ilgililerce verilen cevapların Müfettişlikçe uygun görülmemesi halinde, son mütalâanın açık ve gerekçeli hazırlanmasına önem verilir.
+Hastalık, askerlik, izin, yurtdışı staj ve benzeri zaruri sebeplerle Müfettişçe cevaplandırılamayan raporların son mütalâaları, Başkanın görevlendireceği bir Müfettiş tarafından yazılabilir.
+i) Teftiş Kurulu Başkanı, raporu inceledikten sonra özetleyerek ve kendi görüş ve kanaatini ve yapılacak işlemi de belirterek raporu bir yazı ile Genel Müdüre arz eder. Bu yazıya rapor, cevap ve son (Değişik ibare:RG-3/6/2019-30793) mütalâa eklenir.
+Genel Müdür tarafından rapor, konunun özelliği nedeniyle oluşturulan bir kurula havale edilmiş ise, bu kurul gereken incelemeyi en geç bir ay içinde yapar. Bu incelemede teftiş edilen yerde yapılan işlemin hatalı olduğu tesbit edilirse, ne şekilde işlem yapılacağı hakkında Genel Müdürlükçe verilecek talimatı hazırlayıp teftiş edilen yere bildirir. Talimatın bir sureti bilgi olarak Teftiş Kurulu Başkanlığına gönderilir.
+j) Teftiş Kurulu Başkanlığı, rapor sonuçları hakkında Müfettişe yazılı olarak bilgi verir, teftiş edilen yere talimat verilmiş ise talimatın bir kopyasını da tevdi eder.
+Önemli görüldüğü taktirde, teftişlerinde ilgilenmelerini sağlamak üzere, diğer Müfettişlere de konuyu bildirir.

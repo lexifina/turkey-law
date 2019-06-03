@@ -1,0 +1,2 @@
+KAPSAM
+Madde 2 — Bu Yönetmelik Türkiye Kömür İşletmeleri Kurumu TeftişKurulu Başkanlığının görevleri ile Teftiş' Kurulu Başkanı, Müfettişler, Müfettiş Yardımcıları ve Teftiş Kurulu büro personelinin görev, yetki ve sorumluluklarını, teftiş edilenlerin yükümlülüklerini, Teftiş Kurulu Başkanı ile Müfettiş ve Müfettiş Yardımcılarının atanmalarını, özlük haklarını, Teftiş Kurulu ile Müfettiş ve Müfettiş Yardımcılarının çalışma usul ve esaslarını kapsar.

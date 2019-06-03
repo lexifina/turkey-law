@@ -1,0 +1,3 @@
+İKİNCİ BÖLÜM
+GEÇİCİ HÜKÜMLER
+GEÇİCİ MADDE 1- (Mülga:RG-3/6/2019-30793)
