@@ -1,0 +1,2 @@
+Dayanak
+Madde 2- Bu Yönetmelik, 08.06.1984 tarih ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname ve değişiklikleri ile 22.01.1990 tarih 399 sayılı Kanun Hükmünde Kararname’ye dayanılarak çıkarılan 05.02.2001 tarih ve 2001/2026 sayılı Kararname’nin eki Bakanlar Kurulu Kararı ve 29.06.2001 tarih ve 24447 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Türkiye Elektrik İletim Anonim Şirketi (TEİAŞ) Ana Statüsü hükümleri uyarınca hazırlanmıştır.
