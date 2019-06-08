@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-06-08",
+      "08.06.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30795",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-06-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2019/31584",
+  "published": "2019-06-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31584&MevzuatTertip=5",
+  "source_bytes": 55490,
+  "source_id": "8.5.31584",
+  "source_sha256": "a8c2d05dd503f9db99f7d031bfa7e5713d9ff941cc1bda22517abc475835f43f",
+  "text_status": "as-enacted",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ DENEY HAYVANLARI ÜRETİM,\r\nBAKIM, UYGULAMA VE ARAŞTIRMA MERKEZİ(İYTEDEHAM) YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 2622
+}
