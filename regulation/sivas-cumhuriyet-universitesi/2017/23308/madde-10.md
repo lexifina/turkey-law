@@ -1,0 +1,2 @@
+Başhekim
+MADDE 10 – (1) Başhekim, Üniversitede tam zamanlı çalışan Tıp kökenli öğretim üyeleri arasından Rektör tarafından iki yıl süreyle görevlendirilir. Süresi biten Başhekim yeniden görevlendirilebilir. Rektör gerekli gördüğü hallerde Başhekimi süresi bitmeden görevden alabilir. Başhekim gerektiğinde Başhekim Yardımcılarından birini yerine vekil bırakabilir. Ancak vekâletin altı aydan fazla sürmesi halinde yeni bir Başhekim görevlendirilir.
