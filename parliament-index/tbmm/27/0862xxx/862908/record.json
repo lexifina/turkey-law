@@ -1,0 +1,126 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 862908,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "ŞİRİN ÜNAL (İSTANBUL)",
+  "summary": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 49 Milletvekilinin Askeralma Kanunu Teklifi (2/1940) (S. Sayısı: 69)",
+  "title": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 49 Milletvekilinin Askeralma Kanunu Teklifi (2/1940) (S. Sayısı: 69)",
+  "first_sitting_date": "2019-06-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 14,
+      "sitting": 87,
+      "sitting_date": "2019-06-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014087.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "381:390",
+        "391:401",
+        "402:405",
+        "410"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 88,
+      "sitting_date": "2019-06-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014088.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "542:556",
+        "557:561",
+        "567:578",
+        "579:585",
+        "588"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 89,
+      "sitting_date": "2019-06-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014089.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "649:656",
+        "658"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 90,
+      "sitting_date": "2019-06-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014090.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "720:726",
+        "728:730",
+        "733:739",
+        "741:742",
+        "743:749",
+        "750:783"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 91,
+      "sitting_date": "2019-06-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014091.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "858:869",
+        "871:878",
+        "879:880",
+        "882:885",
+        "886:904",
+        "906:909"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 92,
+      "sitting_date": "2019-06-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014092.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "978:995",
+        "997:1000",
+        "1001:1012",
+        "1013:1015",
+        "1022"
+      ]
+    },
+    {
+      "cilt": 14,
+      "sitting": 93,
+      "sitting_date": "2019-06-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014093.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+      "pages": [
+        "1171",
+        "1174:1177",
+        "1219:1232"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-06-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
