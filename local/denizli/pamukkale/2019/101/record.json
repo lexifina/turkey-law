@@ -1,0 +1,24 @@
+{
+  "number": "101",
+  "number_as_published": "2019/101",
+  "year": 2019,
+  "title": "Denizli İli, Pamukkale İlçesi, Kuşpınar Mahallesi, 14 ada, 7 nolu parselde Denizli İdare Mahkemesinin kararı ile Pamukkale Belediye Meclisinin 04.07.2018 tarih 2018/201 sayılı, Denizli Büyükşehir Belediye Meclisinin 16.07.2018 tarih, 691 sayılı kararı ile onaylanan plan değişikliği iptal edildiğinden, hukuken plansız kalan alanda hazırlanan ekli 1/1000 ölçekli Uygulama İmar Planı, plan açıklama raporu ve plan hükümlerinin uygun görüldüğüne dair İmar Komisyonunca hazırlanan raporun kabulü hk.",
+  "decision_date": "2019-06-11",
+  "source": "https://www.pamukkale.bel.tr/y-243-2019-yili-haziran-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "125df352dfa9fbff18d37fb8c2e63619ef39e2e1d0a3aaf3294d7be38dcd3c49",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2019-06-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.06.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-243-2019-yili-haziran-ayi-meclis-karar-ozetleri",
+  "listing_label": "2019 YILI HAZİRAN AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
