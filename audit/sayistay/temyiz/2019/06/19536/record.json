@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46414",
+  "decision_date": "2019-06-12",
+  "source_id": 19536,
+  "chamber": "6",
+  "file_number": "44247",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19536/",
+  "source_sha256": "d67f5e574ffa9fbfca2f3f3c0b472053bef133fe87ddda823547b01a17d0539b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
