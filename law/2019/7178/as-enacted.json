@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7178",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Ulusal Sürücü Belgelerinin/Sürüş Ehliyetlerinin Karşılıklı Olarak Tanınması ve Değişimi Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-06-12",
+  "gazette_issue": "30799",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190612-3.htm",
+  "source_sha256": "f8b7a1359190b617623b953f72af29380e0d9c250b4f29626b950a0cd25b0d73",
+  "text_sha256": "c67e8afd2f8dda7446ca65a8b4a37a265932a3c3f434319111cdcd3a27a23017",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/06/12/30799-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190612-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
