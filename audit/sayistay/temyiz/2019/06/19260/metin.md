@@ -1,0 +1,5 @@
+Konu: Sosyal denge sınır aşımı.
+
+13- 241 sayılı ilamın 7/A maddesiyle; ... Belediye Başkanlığı ile ... Sendikası (...) arasında imzalanan ve 15.07.2014 tarihinden itibaren geçerli olan Toplu İş Sözleşmesinin mevzuata aykırı hükümler içermesi ve ... Belediyesi Fen İşleri Müdürlüğünde çalışan ... üyesi çalışanlara 2015 yılında mevzuatın öngördüğü tutardan daha fazla tutarda sosyal denge tazminatı ödemesi yapıldığı gerekçesi ile ... TL’ye tazmin hükmü verilmiş, 28986 (06.07.2018 tarih ve 44847 tutanak) sayılı Temyiz Kurulu ilamının 13. Maddesi ile de söz konusu tazmin hükmünün tasdikine karar verilmiştir.
+
+İlam hükmüne ilişkin dilekçe ve Başsavcılık karşılaması işbu tutanağın/ilamın 1’inci maddesinde belirtildiği gibi olup sözü edilen maddede yer alan gerekçelerle; sorumlunun karar düzeltilmesine ilişkin talebinin reddi ile 241 sayılı ilamın 7/A Maddesinde yer alan tazmin hükmünün tasdikine ilişkin 28986 (06.07.2018 tarih ve 44847 tutanak) sayılı Temyiz Kurulu ilamının 13. maddesinin DÜZELTİLMESİNE MAHAL OLMADIĞINA, oybirliğiyle,
