@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7177",
+  "year": 2019,
+  "title": "Azerbaycan Cumhuriyeti Hükümeti, Gürcistan Hükümeti ve Türkiye Cumhuriyeti Hükümeti Arasında Savunma Alanında İş Birliği Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-06-12",
+  "gazette_issue": "30799",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190612-2.htm",
+  "source_sha256": "7baf8d045d9d50c211d81fe036f8b56aa801708544c2f6dadfff6c664026884d",
+  "text_sha256": "4520976f763c77602e65b4320d215068f46bab7e8eee3bbf0f68de112f4a7c67",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/06/12/30799-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/06/20190612-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
