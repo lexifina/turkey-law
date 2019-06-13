@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32590",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİREYSEL EMEKLİLİK ARACILARI HAKKINDA YÖNETMELİK",
+  "number": "32590",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2019/32590",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32590&MevzuatTertip=5",
+  "source_sha256": "97f8e92994bcde6e7ec4e45a7df5424bc2c1f8847ebeda63e20e42c3274e0dbd",
+  "source_bytes": 39711,
+  "published": "2019-06-13",
+  "gazette": "30800",
+  "in_force": "2019-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2087,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
