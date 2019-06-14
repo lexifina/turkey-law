@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/13404",
+  "submitted": "2019-06-14",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Arslan KABUKCUOĞLU",
+  "province": "Eskişehir",
+  "summary": "Trafik kazalarının önlenmesi için mühendislik, eğitim ve denetim alanlarında yapılan çalışmalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-daae-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "545022cbf6f7657c25639dfffea92be04e1a3a19db9281dc9b3e4d87ee6af174",
+  "in_force": "2019-06-14",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
