@@ -1,0 +1,91 @@
+{
+  "id": "presidency-regulation-200611058",
+  "number": "200611058",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU ZARARLARININ TAHSİLİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2006-10-19",
+  "enacted": "2006-09-27",
+  "gazette_number": "26324",
+  "in_force": "2019-06-15",
+  "in_force_basis": "Latest source commencement-table date: 2019-06-15; official source: 14/6/2019 | 1147 | 4, 7, 7/A, 7/B, 7/C, 8, 9, 10, 12, 13, 14, 15, 16, 18, 20, 21, 22, 23, 25 | 15/6/2019 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200611058&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "22929087222e3577aa34bbd1496793673162fce1defc8ca1248829f49ac1f8ce",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 6,
+    "referenced": 0,
+    "omitted": 6
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image001.gif",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "eadcba30d61af5062d9f3a0767a884f5eef2e8572218003048dd8b9e64b4cd53",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image002.gif",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "cd16d13408f81b6fe53ab9b5f3993f2002706c15758c0e8f684cb8ec53282531",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image003.gif",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "1b4fdd1a4933c09d1d9c4bc48d9193b1221435a98caa4c1d516f207b52a3a25e",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image004.gif",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "d2ce2c993859fa988f3383f93eed50683ae8b76591f8d133cd2cb1cd763ccaab",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image005.gif",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "7c28980fe78fba3662a7e4a003292d5a2f8473124facce53690a2f2136243afd",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.200611058_dosyalar/image006.gif",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ddb9d3dbcf5d5836344c58a111f3d72d6b218714ff619abb24e8331bb1716a9a",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

@@ -1,0 +1,4 @@
+GEÇİCİ MADDE 1- (1) Yönetmeliğin yürürlüğe girdiği tarihte mülga 1050 sayılı Muhasebei Umumiye Kanununun 20 nci maddesi ve diğer ilgili mevzuat hükümlerine göre takibi saymanlıklarca yapılmakta olan kişilerden alacaklar hesabında kayıtlı tutarlara ilişkin takip dosyaları bu Yönetmeliğin yayımlandığı tarihten itibaren iki ay içinde, merkezde strateji geliştirme birimi, taşrada ise takibe yetkili ilgili taşra birimi yöneticilerine imza karşılığında teslim edilir.
+(2) Teslim edilecek her takip dosyası için, teslim tarihine kadar yapılan takibat işlem ve yazışmaların tarih ve sayıları ile tahsilat tutarlarını ve alındıların tarih ve numarasını gösterir bir özet hazırlanarak dosyaya konulur.
+(3) Aynı idareye teslim edilecek takip dosyası birden fazla ise, takip dosyalarının bir listesi yapılarak liste ekinde ilgili birime teslim edilir.
+(4) Takip edilmemesi nedeniyle zamanaşımına uğramış olan takip dosyaları ilgili birimlere devredilmez.
