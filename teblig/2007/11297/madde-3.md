@@ -1,0 +1,3 @@
+Referans faizler ve endeksler
+MADDE 3 – (1) Değişken faizli konut finansmanı sözleşmelerinde kullanılabilecek referans endeks Türkiye İstatistik Kurumu tarafından açıklanan Tüketici Fiyat Endeksi (TÜFE)' dir.
+(2) (Değişik:RG-15/6/2019-30802) Değişken faizli konut finansmanı sözleşmeleri düzenlenirken Türkiye İstatistik Kurumu tarafından açıklanan en güncel Tüketici Fiyat Endeksi yıllık yüzde değişim oranı, sözleşmede belirtilen dönemlerde faiz oranı ayarlaması yapılırken ise içinde bulunulan aydan bir önceki ayda Türkiye İstatistik Kurumu tarafından açıklanan Tüketici Fiyat Endeksi yıllık yüzde değişim oranı esas alınır.
