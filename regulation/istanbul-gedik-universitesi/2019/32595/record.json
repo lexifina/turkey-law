@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-06-17",
+      "17.06.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30804",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-06-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gedik Üniversitesi",
+  "issuer_slug": "istanbul-gedik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gedik-universitesi/2019/32595",
+  "published": "2019-06-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=32595&MevzuatTertip=5",
+  "source_bytes": 27680,
+  "source_id": "8.5.32595",
+  "source_sha256": "b4dcf195552e766b7ecc2ea5182b6e2d2fddfb3f0b3a1343ad2f370b3dd9cf6d",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GEDİK ÜNİVERSİTESİ KULUÇKA VE GİRİŞİMCİLİK\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 369,
+  "word_count": 1068
+}
