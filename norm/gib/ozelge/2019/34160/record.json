@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26696128-135[7-2019/1]-E.27473",
+  "source_id": 34160,
+  "date": "2019-06-17",
+  "title": "ÖTV Kanunu Geçici 7 inci Maddesi İstisna Uygulaması Kapsamında Ticari Taksinin Yenilenmesi Sonucu Yenilemeye Konu Taşıtın Hususiye Çevrilmesi Halinde Söz Konusu İstisnadan Yararlanıp Yararlanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34160",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "1d4b9bb5a5cf175d102a3113c1e8f1f3fa00c63ac582d854d9ef5efd085ff60a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
