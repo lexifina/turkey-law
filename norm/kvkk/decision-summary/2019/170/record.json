@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/170",
+  "source_id": 7011,
+  "date": "2019-06-18",
+  "title": "“Bir perakende giyim firmasının veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 18/06/2019 tarih ve 2019/170 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7011/2019-170",
+  "source_sha256": "c14832f224529ffb8f1ab8f236b7009e10745c2e78d09b4397a758233a0ab217",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
