@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.32604",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ (SERİ: B SIRA NO: 12)",
+  "number": "32604",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/32604",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=32604&MevzuatTertip=5",
+  "source_sha256": "f5035bf3cfa435bc0d2f86e1698e0f2e0be722f04b82df766bf6915d9c29f375",
+  "source_bytes": 17346,
+  "published": "2019-06-18",
+  "gazette": "30805",
+  "in_force": "2019-06-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.06.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 694,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.32604-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
