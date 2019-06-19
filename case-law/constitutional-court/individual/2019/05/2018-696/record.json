@@ -1,0 +1,20 @@
+{
+  "applicant": "M.E.",
+  "application_date": "2017-12-26",
+  "application_number": "2018/696",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-05-09",
+  "id": "e0b367ca-dd93-0776-cd89-4ff393fecef0",
+  "in_force": "2019-06-19",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2019-06-19",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmUwYjM2N2NhLWRkOTMtMDc3Ni1jZDg5LTRmZjM5M2ZlY2VmMA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "64eb95dac5ad64a13721040dfc0e32a9b680067311f8aadba2e787f723eafe9c",
+  "version_label": "as-enacted"
+}
