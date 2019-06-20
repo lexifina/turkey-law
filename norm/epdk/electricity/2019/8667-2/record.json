@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8667-2",
+  "decision_date": "2019-06-20",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinin 36 ncı maddesinin ikinci fıkrasının (c) bendi gereğince tahsil edilebilecek işlem bedeline ilişkin",
+  "resmi_gazete_date": "2019-06-26",
+  "resmi_gazete_number": "30813",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JuwjVIpNdLU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JuwjVIpNdLU="
+  ],
+  "source_sha256": "26c337d1893898efbc764cb510995e979f453e18e6724c7b267d10a7b733d050",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-06-20",
+  "law_text_complete": true
+}
