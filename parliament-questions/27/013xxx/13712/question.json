@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/13712",
+  "submitted": "2019-06-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Saliha Sera KADIGİL",
+  "province": "İstanbul",
+  "summary": "Tarikat ve cemaat yurtlarında kalan öğrenci sayısına ve bu yurtların faaliyetleri konusunda bir çalışma yapılıp yapılmadığına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-3982-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "fe402fcadbb152746c0c627dd8cd903599220c85bfb18b77fdbf4c86980f0899",
+  "in_force": "2019-06-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
