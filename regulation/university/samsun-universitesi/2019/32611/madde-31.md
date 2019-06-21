@@ -1,0 +1,5 @@
+Ders yükü ve başarı
+MADDE 31 – (1) Tezsiz yüksek lisans programı toplam otuz krediden ve 90 AKTS’den az olmamak kaydıyla en az on ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır.
+(2) Raporlar dersi yürüten öğretim üyesi tarafından başarılı veya başarısız olarak değerlendirilir. Öğrenci dönem projesini teslim edeceği dönemde dönem projesi dersinden başarılı olmak zorundadır.
+(3) Öğrenci, müfredat derslerinin en çok iki tanesini başka bir yükseköğretim kurumundan da alabilir. Başka bir yükseköğretim kurumundan alınan derslerde başarının değerlendirilmesi 21 inci maddenin ikinci fıkrası çerçevesinde enstitü yönetim kurulu tarafından yapılır.
+(4) Tezsiz yüksek lisans programına devam edenler, başvurdukları tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler enstitü yönetim kurulu kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.

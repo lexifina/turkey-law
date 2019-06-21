@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans diploması
+MADDE 32 – (1) Kredili dersleri ile dönem projesini başarı ile tamamlayıp ciltli en az iki kopyadan oluşan dönem projesini danışmanın onayı ile üçüncü yarıyıl sonunda enstitüye teslim eden öğrenci enstitü yönetim kurulu kararı ile mezun edilir ve öğrenciye tezsiz yüksek lisans diploması verilir. Ciltli dönem projesinin süresi içinde tesliminden öğrenci sorumludur. Bu koşulları yerine getirmeyen öğrenci koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması halinde enstitü ile ilişiği kesilir.
+(2) Tezsiz yüksek lisans diploması üzerinde, öğrencinin izlemiş olduğu EABD’deki programın onaylanmış adı bulunur.
+(3) Mezuniyet tarihi, projenin enstitü yönetim kurulu kararı ile kabul edildiği toplantı tarihidir.

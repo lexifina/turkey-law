@@ -1,0 +1,9 @@
+Kayıt yenileme
+MADDE 11 – (1) Öğrenciler her yarıyıl başında, akademik takvimde ilan edilen kayıt tarihlerinde açılan derslere kayıtlarını danışman onayını alarak yenilemekle yükümlüdür. Belirtilen tarihlerde kayıt yaptırmayan öğrenciler kayıtsız duruma düşer ve kayıtlı öğrencilerin yararlandığı haklardan yararlanamaz.
+(2) Yarıyıl kaydını kayıt tarihlerinde tamamlamış olan öğrenciler akademik takvimde belirtilen ekle-sil tarihlerinde ders ekle-sil yapabilir. Yapılan değişikliklerin geçerli olması için yeniden danışman onayı alınması zorunludur.
+(3) Lisansüstü programın herhangi bir aşamasında ek süre alan öğrenciler, ek sürelerde kayıtlarını yenilemek zorundadır.
+(4) Öğrencinin ders yükü bir yarıyılda bilimsel hazırlık programında alınan dersler dâhil olmak üzere en fazla 30 AKTS’dir. Ancak öğrencinin ders yükü, başarısız olduğu ya da ilk defa alınacak dersler için en fazla 15 AKTS kredisi kadar arttırılabilir.
+(5) Mazereti nedeniyle ilgili yarıyılda ders kaydı yaptırmamış öğrenciler mazeretlerini belgelemek kaydıyla ilgili EABDB’ye en geç o yarıyılın ders ekle-sil süresinin ilk üç işgünü içerisinde başvurur. Mazereti enstitü yönetim kurulunca uygun görülen ve gerekli kayıt şartlarını sağlamış olan öğrenci kaydını yenileyebilir. Kayıtsız duruma düşen öğrenciler kayıt hakkı olduğu sürece daha sonraki yarıyıllarda akademik takvimde ilan edilen kayıt tarihlerinde kayıt yaptırabilir.
+(6) İlgili yarıyılda ders kaydı yaptırmayıp kayıtsız duruma düşen öğrenciler öğrencilik haklarından yararlanamaz. Bu süreler azami süreden sayılır.
+(7) Öğrenci aynı anda ön lisans, lisans programlarına da kayıtlı ise danışmanın onayı ile bir yarıyılda kayıtlı olduğu programlardan en fazla toplam 60 AKTS kredilik ders alabilir.
+(8) Enstitü kurulunca açılması kararlaştırılan dersler arasından öğrenci, ders seçimini yapar; öğrencinin ders kayıt onayı danışmanı atanıncaya kadar anabilim dalı başkanı, danışmanı atandığında ise danışmanı tarafından gerçekleştirilir.

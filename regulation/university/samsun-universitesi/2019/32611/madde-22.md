@@ -1,0 +1,2 @@
+Ağırlıklı genel not ortalaması
+MADDE 22 – (1) GANO ve dönem sonu not ortalaması; öğrencinin kaydolduğu ve not ortalaması hesabına giren her dersten alınan başarı notunun katsayısı ile o dersin AKTS değeri çarpımları toplamının derslerin AKTS değerlerinin toplamına bölünmesiyle bulunur. Bu işlem, tüm dersleri kapsayacak şekilde yapıldığında GANO elde edilir. Bir ders yerine başka bir ders tekrar edildiğinde sadece en son alınan dersin notu, genel not ortalamasına katılır. Not ortalamaları, virgülden sonra iki basamaklı olarak gösterilir.

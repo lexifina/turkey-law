@@ -1,0 +1,6 @@
+Kayıt dondurma
+MADDE 17 – (1) Öğrencinin kayıt dondurma talebi, gerekçeli bir dilekçe ve belgeleriyle birlikte enstitü müdürlüğüne yapılır. Kayıt dondurma talepleri, Senato tarafından kabul edilen haklı ve geçerli nedenler çerçevesinde enstitü yönetim kurulu tarafından değerlendirilir ve alınan karar, ilgili öğrenciye yazılı olarak bildirilir.
+(2) Kayıt dondurma isteklerinin değerlendirmeye alınması için kayıt dondurulma talep edilen döneme öğrencinin kayıt yaptırmış olması ve derslerin başladığı günden itibaren ilk dört hafta içinde kayıt dondurmak için başvuruda bulunulması gerekir. Belgelendirilebilen ani hastalık ve beklenmedik haller dışında bu süreler bittikten sonra yapılacak başvurular işleme konulmaz.
+(3) Sağlık sebebiyle kayıt dondurma başvurusunda bulunacak öğrencilerin herhangi bir sağlık kuruluşundan alacağı sağlık raporunun, en az yirmi iki öğretim gününü kapsaması gerekir.
+(4) Öğrenciler, her defasında en fazla bir yarıyıl olmak üzere; toplam dört yarıyıla kadar kayıt dondurma başvurusu yapabilir. Ancak, sürekli sağlık sorunları olduğunu herhangi bir sağlık kuruluşundan alacağı sağlık raporu ile belgeleyenler hakkında bu süre kısıtlaması uygulanmaz.
+(5) Kayıt donduran öğrenciler, derslere devam edemez ve kayıt dondurdukları süreler öğretim süresinden sayılmaz.

@@ -1,0 +1,6 @@
+Mazeret sınavları
+MADDE 20 – (1) Derse devam zorunluluğunu yerine getiren öğrencilerin, enstitü yönetim kurulu tarafından haklı ve geçerli görülen nedenlerle mazeretlerinin kabul edilmesi durumunda, giremedikleri yarıyıl içi sınavlarının mazeret sınavları akademik takvim çerçevesinde yapılır.
+(2) Mazeretle ilgili her türlü müracaat, mazeretin bitimi tarihinden itibaren bir hafta içinde yapılır. Bu süre dışında yapılan başvurular geçersizdir. Ancak sağlık raporlarında bu süre, raporun veriliş tarihinden itibaren başlar.
+(3) Geçerli mazereti nedeniyle tez sınavı ve yeterlik sınavı gibi jüri önünde yapılan sınavlara giremeyen öğrencilerin, beş işgünü içinde mazeretlerini enstitüye bildirmeleri ve mazeretlerinin enstitü yönetim kurulunca kabul edilmesi halinde bu öğrenciler için yeni bir sınav tarihi belirlenir.
+(4) Derse devam zorunluluğunu yerine getiren, ancak Üniversite tarafından görevlendirildiği için sınavlara giremeyen öğrenci, giremediği tüm sınavlar için mazeret sınavına girebilir. Bu öğrencilerin mazeret sınavlarının ne zaman yapılacağı, enstitü yönetim kurulu kararı ile belirlenir.
+(5) Mazereti, enstitü yönetim kurulu tarafından kabul edilen öğrenci, mazeret süresi içinde derslere devam edemez ve sınavlara giremez. Mazeretli olduğu günlerde sınava girmesi halinde ise sınav sonuçları geçersiz kabul edilir.

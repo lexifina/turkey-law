@@ -1,0 +1,2 @@
+Süre
+MADDE 30 – (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki, en çok üç yarıyıldır. Bu sürenin sonunda derslerden veya dönem projesinden başarısız olan ya da genel ağırlıklı not ortalaması 2.50’den az olan öğrenciler başarısız kabul edilerek ilişikleri kesilir.
