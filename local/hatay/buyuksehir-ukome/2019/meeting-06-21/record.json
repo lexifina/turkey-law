@@ -1,0 +1,25 @@
+{
+  "number": "meeting-06-21",
+  "number_as_published": "meeting-06-21",
+  "year": 2019,
+  "title": "21.06.2019 tarihli ve 2019/151-187 sayili UKOME Genel Kurul Kararlari",
+  "decision_date": "2019-06-21",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=4bc3bb41-7c7e-4536-9103-8c5932801e2c&page=10&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/27122020174311.pdf",
+  "source_sha256": "7b59574375c8efb2a1d8615a40c38c0a7b7a1aee80e3639ebaed683dccae665e",
+  "issuer": "Hatay Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-06-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21.06.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "21.06.2019 tarihli ve 2019/151-187 sayili UKOME Genel Kurul Kararlari",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "21.06.2019",
+  "official_page": "https://www.hatay.bel.tr/ukome-kararlari"
+}
