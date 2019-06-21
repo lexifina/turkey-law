@@ -1,0 +1,24 @@
+{
+  "number": "179",
+  "number_as_published": "179",
+  "year": 2019,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI DEĞ. (EYYÜBİYE-BATIKENT)",
+  "decision_date": "2019-06-21",
+  "source": "https://www.sanliurfa.bel.tr/icerik/8304/106/nazim-ve-uygulama-imar-plani-deg-eyyubiye-batikent",
+  "official_document": null,
+  "source_sha256": "0122cfdcf80ad283f3c0ae10672a593f6e1480fc4084ff7a8fb9e89888304262",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2019-06-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21.06.2019 tarih ve 179 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-07-09",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
