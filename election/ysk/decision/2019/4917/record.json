@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2019/4917",
+  "list_number": "4917",
+  "decision_date": "2019-06-23",
+  "title": "İlçe seçim kurulu mührü yerine milletvekili seçiminde kullanılan sandık kurulu mühürleri ile mühürlenmiş oy zarflarının, başka ilçe seçim kurullarından temin edilen ilçe seçim kurulu mührü ile mühürlenmiş oy zarflarının, aynı mührün birden fazla basıldığı oy zarflarının ve hem arka yüzü hem ön yüzü mühürlenmiş oy zarflarının geçerli sayılmasına ilişkin Yüksek Seçim Kurulunun 2019/4917 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78064/2019-4917.pdf",
+  "source_sha256": "2f37035fbc0ebc6946cb8dce4ab961561013c1482ba53de84f87b6fc880b7574",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2019-06-23",
+  "law_text_complete": false
+}
