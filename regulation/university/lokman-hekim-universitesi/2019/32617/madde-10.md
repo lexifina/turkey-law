@@ -1,0 +1,5 @@
+Değişim ve hareketlilik programları
+MADDE 10 – (1) Üniversite ile yabancı ülkelerdeki yükseköğretim kurumları arasında yapılan anlaşmalar veya program uyarınca öğrenci değişim ve hareketlilik programları uygulanabilir. Bu anlaşmalar ile programların içerik ve kurallarına bağlı olmak şartıyla öğrenciler yurt dışında eğitime gönderilebilir veya kabul edilebilir. Değişim ve hareketlilik programları, ikili anlaşmalar ve YÖK tarafından belirlenen esaslar doğrultusunda uygulanır.
+(2) Öğrenciler, değişim ve hareketlilik programlarına bağlı kalınmaksızın, Üniversite veya Fakülte tarafından imzalanan ikili anlaşmalar çerçevesinde yurt dışındaki yükseköğretim kurumları, tüzel kişilik sahibi tüm resmi veya özel eğitim ve araştırma merkezleri ile işletmelere Fakülte Yönetim Kurulunun onayı olmak şartıyla klinik uygulama yapmak üzere gönderilebilir.
+(3) Değişim ve hareketlilik programları çerçevesinde katkı paylarının nasıl ödeneceği ikili anlaşmalara göre yürütülür.
+(4) Değişim ve hareketlilik programları ile klinik uygulamalarla ilgili diğer esaslar, Üniversite tarafından düzenlenen yönerge hükümleri uyarınca Fakülte Yönetim Kurulu kararıyla uygulanır.

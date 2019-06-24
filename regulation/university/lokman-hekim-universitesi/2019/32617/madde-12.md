@@ -1,0 +1,2 @@
+Eğitim ve öğretim ile ilgili diğer hususlar
+MADDE 12 – (1) Fakültede verilen eğitim ve öğretimin süresi, eğitim ve öğretim dili, eğitim ve öğretim şekli, devam zorunluluğu, ders kurulları, klinik uygulamalar ve diğer dersler, pratik uygulamalar ve telafi, ders muafiyeti, derslerin işlenişi, sınavlar ve başarı notu, dönem notu ortalamalarının hesabı, mezuniyet başarı dereceleri, başarısızlık durumları, ön koşul ve dönem tekrarı ile ilgili hususlar Üniversite tarafından düzenlenen yönergede belirlenir.

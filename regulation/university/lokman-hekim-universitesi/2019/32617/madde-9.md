@@ -1,0 +1,4 @@
+Yatay geçişler
+MADDE 9 – (1) Yurt içi veya yurt dışındaki diğer üniversitelerden (kurum dışı) yatay geçiş yolu ile öğrenci kabulüne ilişkin ilke ve esaslar, YÖK tarafından belirlenen ilgili mevzuat hükümleri çerçevesinde, Eğitim ve Öğretim Koordinasyon Kurulunun görüşü alınarak Fakülte Yönetim Kurulunda karara bağlanır ve Senato onayı ile yürürlüğe girer.
+(2) Yatay geçişler, dönemlik ders esasına dayalı eğitim-öğretim programı uygulanması nedeniyle sadece dönem başında akademik takvimde belirtilen tarihlerde gerçekleştirilir.
+(3) Yatay geçiş hakkını kazanmış olan öğrencilerin, yükseköğretim kurumlarından veya denkliği kabul edilmiş bir kuruluştan almış ve başarmış oldukları derslerini aktarmak için akademik takvimde belirlenen tarihlerde başvuru yapması gerekir. Eşdeğer dersler, ilgili dersi veren öğretim elemanının içinde bulunduğu bir komisyonun önerisi ile Fakülte Yönetim Kuruluna sunulur. Uygun bulunması halinde öğrencinin ders sorumluluğu kaldırılır.

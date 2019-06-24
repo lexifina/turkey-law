@@ -1,0 +1,3 @@
+Kayıtsız öğrenci statüsü
+MADDE 15 – (1) Kaydını yenilemeyen öğrenciler kayıtsız öğrenci statüsüne geçerler. Kayıtsız öğrenci, öğrencilik haklarını kaybeder, kaydolmadığı derslere devam edemez, bu derslerin sınavlarına giremez ve derslerden not alamaz. Öğrencinin kayıt yenilemediği yarıyıl/yıl öğrenim süresinden sayılır. Kayıtsız öğrencilerin yeniden kayıtları ile ilişik kesme işlemleri 2547 sayılı Kanunun 44 üncü ve 46 ncı maddeleri hükümleri ile YÖK ve Senato tarafından belirlenen esaslara göre yürütülür.
+(2) Yarıyıl kayıtları ile ilgili diğer hususlarda Lokman Hekim Üniversitesi Önlisans, Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili maddeleri esas alınır.
