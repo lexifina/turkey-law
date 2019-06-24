@@ -1,0 +1,13 @@
+İKİNCİ BÖLÜM
+Mütevelli Heyeti ve Görevleri
+Mütevelli Heyetinin Oluşumu
+MADDE 4 – (Değişik:RG-12/7/2013-28705)
+Mütevelli Heyeti, Üniversitenin en yüksek karar organı olup Üniversitenin tüzel kişiliğini temsil eder.
+Mütevelli Heyeti üyeleri, Vakıf Yönetim Kurulu tarafından, devlet memuru olma niteliklerine sahip adaylar arasından dört yıl süre için seçilen en az yedi üyeden oluşur. Mütevelli Heyeti üyelerinin en az üçte ikisinin lisans düzeyinde yükseköğrenim görmüş olması gerekir. Süresi biten üyeler yeniden seçilebilir. Rektör Mütevelli Heyetinin tabii üyesidir. Kurucu Vakıf yönetim kurulu başkan ve üyeleri ile bunların birinci derece kan ve sıhrî hısımları ile eşlerinden Mütevelli Heyetinde görev alacakların sayısı ikiyi geçemez. Rektör dışındaki Üniversite mensupları Mütevelli Heyetinde görev alamaz.
+Mütevelli Heyeti üyeleri kendi aralarından dört yıl için bir başkan, başkan da dört yıl için bir başkan yardımcısı seçer.
+(Değişik dördüncü fıkra:RG-24/6/2019-30811) Mütevelli Heyeti, 6 ncı maddede belirtilen görev ve sorumluluklarının etkin ve verimli şekilde yerine getirilebilmesi, Mütevelli Heyeti kararlarının icrasının izlenmesi, Üniversitenin stratejik planı doğrultusunda Mütevelli Heyeti ile akademik ve idari birimler arasında koordinasyonun sağlanması için tam veya yarı zamanlı hizmet almak üzere bir öğretim üyesini danışman olarak atayabilir.
+Mütevelli Heyeti başkanı, Üniversitenin ita amiridir. Mütevelli Heyetin kendisine verdiği yetkileri kullanır ve bu Yönetmelik ve ilgili diğer mevzuatla verilen görevleri yürütür.
+Seçilen veya ayrılan Mütevelli Heyet başkan ve üyeleri bir ay içinde Yükseköğretim Kuruluna bildirilir.
+Bir üyenin süresinin bitmesi veya başka nedenlerle ayrılması halinde yerine seçilen yeni üye dört yıl süre ile görev yapar. Mütevelli Heyeti üyelerinden herhangi birinin süresi bitmeden görevden alınması için Vakıf Yönetim Kurulu üye tam sayısının en az üçte ikisinin öneri lehinde oy kullanması gerekir. (Mülga cümle:RG-18/1/2019-30659)(…)
+Mütevelli Heyet üyeliği fahridir. Ancak; kurucu Vakıf Yönetim Kurulu kararı ile Mütevelli Heyet üyelerine toplantıya katılma, yol ve huzur hakkı verilebilir. Verilecek miktar bir yılda on ikiyi geçmemek üzere katılacakları her toplantı için 2547 sayılı Kanunun 6 ncı maddesinde Yükseköğretim Genel Kurulu üyeleri için öngörülen ücreti aşamaz. Mütevelli Heyet Başkan ve üyelerine bunun dışında herhangi bir suretle başkaca bir ödeme yapılamaz.
+Rektör, Mütevelli Heyeti Başkanlığına ve başkan vekilliğine seçilemez. Rektör, Rektör atanması ve kendisi ile ilgili konuların görüşüldüğü Mütevelli Heyeti toplantılarına katılamaz.

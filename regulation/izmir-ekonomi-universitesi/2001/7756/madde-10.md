@@ -1,0 +1,3 @@
+Senato
+Madde 10 - Senato, Rektörün başkanlığında, Rektör yardımcıları, dekanlar ve her fakülteden Fakülte Kurullarınca üç yıl için seçilecek birer öğretim üyesi ile Rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden oluşur. Üniversitenin yönetimine katılımı yaygınlaştırmak amacıyla Senato, uygun gördüğü öğretim elemanlarını, idarî personeli ve öğrenci temsilcilerini toplantılara davet edip görüşlerini alabilir.
+Senato, her eğitim-öğretim yılı başında ve sonunda olmak üzere yılda en az iki kez toplanır. Mütevelli Heyeti veya Rektör, gerekli gördüğü hallerde, Senatoyu olağanüstü toplantıya çağırabilir.

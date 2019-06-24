@@ -1,0 +1,15 @@
+Tanımlar
+Madde 3 - Bu Yönetmelikte yer alan:
+ | Vakıf | : Kurucu Vakıf olan İzmir Ticaret Odası Eğitim ve Sağlık Vakfını,
+ | Üniversite | : İzmir Ekonomi Üniversitesini ,
+ | Mütevelli Heyeti | : İzmir Ekonomi Üniversitesi Mütevelli Heyetini,
+ | Senato | : İzmir Ekonomi Üniversitesi Senatosunu,
+ | Üniversite Yönetim Kurulu | : İzmir Ekonomi Üniversitesi Yönetim Kurulunu,
+ | Başkan | : İzmir Ekonomi Üniversitesi Mütevelli Heyeti Başkanını,
+ | Rektör | : İzmir Ekonomi Üniversitesi Rektörünü,
+ | Rektör Yardımcısı | : İzmir Ekonomi Üniversitesi Rektör Yardımcılarını,
+ | Dekan | : İzmir Ekonomi Üniversitesi Fakülteleri Dekanlarını,
+ | Müdür | : İzmir Ekonomi Üniversitesi Yüksekokul, Meslek Yüksek Okulu,
+ |  | Enstitü, Araştırma ve Uygulama Merkezleri Müdürlerini,
+ | Bölüm Başkanı | : İzmir Ekonomi Üniversitesi akademik bölümlerinin başkanlarını,
+ | Genel Sekreter (Mülga ibare:RG-24/6/2019-30811) (…) ifade eder. | : İzmir Ekonomi Üniversitesi Genel Sekreterini,
