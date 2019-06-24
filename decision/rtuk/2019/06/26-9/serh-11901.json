@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2019/26",
+  "meeting_date": "2019-06-24",
+  "meeting_date_as_published": "24.6.2019",
+  "decision_no": "9",
+  "source_id": 11901,
+  "title": "RTÜK kararı 2019/26-9 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/11901",
+  "source_sha256": "e257e258342ecb9a3c01d8140e603c9de34b8367099612616b972d111b2c0714",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
