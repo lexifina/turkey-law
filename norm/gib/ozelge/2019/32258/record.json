@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-E.506492",
+  "source_id": 32258,
+  "date": "2019-06-24",
+  "title": "Beş yıldızlı otelin bünyesinde üretilen yemeklerin başka şirketlerin yemekhanelerinde veya etkinliklerin düzenlendiği mekânlarda servis edilmesi durumunda KDV oran uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32258",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a9cfed1a0b205a9c4fcdc72e9617e77cac39247a776cf9fb3bfe28ad2e8e69d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
