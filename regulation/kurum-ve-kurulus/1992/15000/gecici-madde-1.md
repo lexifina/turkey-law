@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu Yönetmeliğin yürürlüğe girdiği tarihte, 22/11/1990 tarih ve 3683 sayılı Kanunun yürürlük tarihinden sonra durumları Yönetmeliğe uygun olup da hakkındaki dava henüz sonuçlanmamış bulunan asker kişinin müracaatı halinde, vekâlet verdiği avukatın ücreti bu Yönetmelikte belirtilen esaslara göre ödenebilir.

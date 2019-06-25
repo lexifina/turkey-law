@@ -1,0 +1,57 @@
+{
+  "source_id": "7.5.15000",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SANIK ASKER KİŞİLER İÇİN AVUKATLIK ÜCRETİNİN ÖDEME USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "15000",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1992/15000",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15000&MevzuatTertip=5",
+  "source_sha256": "481656755a6b41deffc38115685a741c164611471f90286df9b075c4ba9dbf75",
+  "source_bytes": 29210,
+  "published": "1992-07-01",
+  "gazette": "21271",
+  "in_force": "2019-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-06-25",
+      "RG-25/6/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-06-25",
+      "25/6/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-07-26",
+      "RG-26/7/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-20",
+      "RG-20/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2001-08-07",
+      "RG-7/8/2001",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 988,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
