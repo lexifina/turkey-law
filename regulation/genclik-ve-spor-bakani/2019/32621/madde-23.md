@@ -1,0 +1,2 @@
+Tez düzeltme
+MADDE 23 – (1) Tezi yeterli bulunmayan uzman yardımcısına bir hak daha tanınır. Uzman yardımcısı ikinci hakkını, yetersiz olma gerekçesinin yer aldığı raporu dikkate almak suretiyle, daha önceden hazırlamış olduğu tezi düzelterek veya yeni bir tez hazırlayarak kullanır. Tezin düzeltilmesi veya yeni bir tez hazırlama için verilecek süre, tez savunması sonucunun ilanından itibaren altı ayı geçemez.

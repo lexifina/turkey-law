@@ -1,0 +1,3 @@
+Eğitim
+MADDE 32 – (1) Uzmanlar, Bakanlığın görev ve faaliyetleri çerçevesinde; oluşturulan politikaların uygulanması, strateji geliştirilmesi, analiz yapılması, verimliliğin artırılması, iş görme kapasitesinin yükseltilmesi, kariyerin geliştirilmesi, bilimsel ve teknolojik değişim ve gelişmelere uyum sağlanması, bilgi ve birikimlerinin artırılması ile yeteneklerinin geliştirilmesi amacıyla Genel Müdürlük tarafından kurumsal eğitime tabi tutulabilir.
+(2) Uzmanlar ve uzman yardımcıları, Bakanlıkça uygun görülen kurum dışı ve sertifika programı niteliğindeki eğitimlerden ve Genel Müdürlükçe hazırlanan bir program dâhilinde yabancı dil eğitimlerinden yararlandırılabilir.

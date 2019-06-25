@@ -1,0 +1,3 @@
+Tez jürisi
+MADDE 25 – (1) Yeterlik sınavı komisyonu tarafından belirlenmesi halinde tez jürisi; yeterlik sınavı komisyonu başkanı veya görevlendireceği bir üyenin başkanlığında, uzman yardımcısının tez danışmanı ile birim yöneticileri, uzmanlar ve öğretim üyeleri arasından yeterlik sınavı komisyonu başkanı tarafından belirlenen beş asıl üyeden oluşur. En çok iki üye yükseköğretim kurumları öğretim üyeleri arasından seçilebilir. Asıl üyelerin herhangi bir nedenle tez jürisine katılamamaları halinde, çalışmalara katılmak üzere ayrıca iki yedek üye belirlenir.
+(2) Tez jürisi, üye tam sayısı ile toplanır ve oy çokluğu ile karar alır.

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 35 – (1) 7/10/2011 tarihli ve 28077 sayılı Resmî Gazete’de yayımlanan Gençlik ve Spor Uzman ve Uzman Yardımcılığı Sınav, Atama, Yetiştirilme, Görev ve Çalışma Usul ve Esasları Hakkında Yönetmelik, 25/7/2013 tarihli ve 28718 sayılı Resmî Gazete’de yayımlanan Spor Hizmetleri Uzmanlığı Yönetmeliği ve 6/11/2013 tarihli ve 28813 sayılı Resmî Gazete’de yayımlanan Kredi ve Yurt Hizmetleri Uzmanlığı Yönetmeliği yürürlükten kaldırılmıştır.

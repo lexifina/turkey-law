@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32621",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR UZMANLIĞI YÖNETMELİĞİ",
+  "number": "32621",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2019/32621",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32621&MevzuatTertip=5",
+  "source_sha256": "cd19198af54dcda48a5cfd3086d1700a963983af9b38e28328f4df8ff46b7edd",
+  "source_bytes": 65503,
+  "published": "2019-06-25",
+  "gazette": "30812",
+  "in_force": "2019-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3812,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

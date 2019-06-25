@@ -1,0 +1,4 @@
+Tez danışmanı
+MADDE 20 – (1) Uzman yardımcısı, uzmanlık tez konusunun kesinleşmesinden itibaren en geç bir ay içerisinde, kendisine rehberlik etmek ve tezinin bilimsel tez yazım usul ve esaslarına, seçilen konunun niteliğine, Bakanlığın görev alanı ile ilgili hususlara uygunluğunu temin etmek maksadıyla bir danışman belirler ve yeterlik sınavı komisyonunun onayına sunar. Yeterlik sınavı komisyonu, gerektiğinde başka bir danışman da belirleyebilir.
+(2) Tez danışmanı, uzman yardımcısına tez hazırlama sürecinde yardımcı olmak maksadıyla tavsiyelerde bulunur.
+(3) Tez danışmanı, uzmanlar ile Bakanlık teşkilatı veya diğer kamu kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, konusunda uzman kamu görevlileri arasından belirlenir. Ayrıca, yükseköğretim kurumlarında görevli öğretim üyelerinden de danışman belirlenebilir.

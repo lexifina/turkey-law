@@ -1,0 +1,2 @@
+Başarısızlık halinde başka kadroya atama
+MADDE 29 – (1) Uzman yardımcılarından; verilen ilave süre içerisinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içerisinde yabancı dil yeterliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Bakanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.

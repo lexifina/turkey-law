@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla, daha önce Bakanlık kadrolarında gençlik ve spor uzman yardımcısı olarak çalışanlar ile 703 sayılı Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname gereğince gençlik ve spor uzman yardımcısı kadrolarına atanmış sayılanların gençlik ve spor uzmanlığına atanmaları, bu Yönetmelikle yürürlükten kaldırılan ilgili yönetmeliklerde belirtilen usule göre yapılır.

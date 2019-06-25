@@ -1,0 +1,4 @@
+Yarışma sınavı komisyonunun oluşumu
+MADDE 9 – (1) Yarışma sınavı komisyonu, Bakanın görevlendireceği bir Bakan Yardımcısı veya Genel Müdürün başkanlığında; birim amirleri ve uzmanlar ile gerekli görülmesi halinde yükseköğretim kurumları öğretim üyeleri arasından görevlendirilecek dört üye olmak üzere toplam beş asıl ve üç yedek üyeden oluşur. Yükseköğretim kurumları öğretim üyeleri arasından görevlendirilecek üye sayısı ikiyi geçemez. Asıl üyelerin herhangi bir nedenle yarışma sınav komisyonuna katılamamaları halinde yerlerine sırasıyla yedek üyelerin katılması sağlanır.
+(2) Yarışma sınavı komisyonu, üye tam sayısıyla toplanır ve oy çokluğu ile karar alır.
+(3) Yarışma sınavı komisyonunun başkan ve üyeleri, boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldıkları sınavda görev alamazlar. Bu durumda olan üyelerin yerine yedek üye görevlendirilir.

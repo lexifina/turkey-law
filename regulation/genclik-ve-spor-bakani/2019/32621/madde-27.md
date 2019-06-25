@@ -1,0 +1,7 @@
+Yeterlik yazılı sınavı
+MADDE 27 – (1) Tezi yeterli görülen uzman yardımcısı, sonucun ilanından itibaren altı aydan fazla olmamak kaydıyla, yeterlik sınavı komisyonunca belirlenen tarihte yazılı sınava alınır.
+(2) Yeterlik sınavı komisyonu tarafından Bakanlığın görev alanına ilişkin mevzuat göz önüne alınarak hazırlanan sorulardan oluşan klasik ve/veya test usulünde yapılan yazılı sınavdan yüz tam puan üzerinden en az yetmiş puan almış olanlar, yazılı sınavda başarılı olmuş sayılır.
+(3) Uzman yardımcılarının yeterlik aşamasında sorumlu oldukları mevzuat ve konular yeterlik sınavı komisyonunca tespit edilerek duyurulur. Yeterlik sınavı komisyonu, yazılı sınav tarihinden iki ay öncesine kadar, gerektiğinde sorumlu olunan mevzuat ve konularda değişiklik yapabilir.
+(4) Geçerli bir mazereti olmaksızın yazılı sınava girmeyen veya yazılı sınavda başarısız olan uzman yardımcısına bir sınav hakkı daha tanınır. Uzman yardımcısı, yazılı sınav tarihinden itibaren en geç bir yıl içinde olmak kaydıyla, yeterlik sınavı komisyonu tarafından belirlenen süre sonunda ikinci kez yazılı sınava girer.
+(5) Yeterlik sınavı sonuçlarına on gün içinde itiraz edilebilir. İtirazlar, ilgisine göre yeterlik sınavı komisyonu veya tez jürisi tarafından on gün içinde sonuçlandırılarak ilgiliye tebliğ edilir.
+(6) Yeterlik sınavına katılamayanlar veya ikinci kez başarısız olanlar için 29 uncu maddede yer alan hükümler uygulanır.
