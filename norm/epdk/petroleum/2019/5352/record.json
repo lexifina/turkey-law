@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "5352",
+  "decision_date": "2019-06-26",
+  "title": "Dağıtıcı ve lisansı sahiplerinin sahip olması gereken teknik ve ekonomik güce ilişkin",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Lisans İşlemleri Diğer"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RXbFd6d/OZY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=RXbFd6d/OZY="
+  ],
+  "source_sha256": "6b0b625c71bf3efe8601c0d916df62de86dfde70c29468e20ed01d8409862d11",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4913,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2019-06-26",
+  "law_text_complete": false
+}
