@@ -1,0 +1,7 @@
+Madde 8 – (Değişik: 8/6/1972 - 1596/1 md.)
+Nezdinde askeri mahkeme kurulan kıta komutanı veya askeri kurum amiri bir suçun işlendiğini öğrendiklerinde refakatlerindeki askeri savcıya soruşturma açtırır ve yapılmakta olan soruşturma hakkında askeri savcıdan her zaman bilgi isteyebilirler.
+Nezdinde askeri mahkeme kurulan kıta komutanı veya askeri kurum amirlerinin refakatlerindeki adli müşavirler, bu yetkinin kullanılmasında bu komutan ve askeri kurum amirlerinin yardımcısıdırlar ve kanun yollarına başvurmada adı geçen komutan ve askeri kurum amirleri adına ilgili soruşturma ve dava dosyalarını incelemeye yetkilidirler.
+Adli müşavirler, aynı zamanda refakatlerinde bulundukları, nezdinde askeri mahkeme kurulan kıta komutanı veya askeri kurum amirlerinin hukuk işlerinde de yardımcısıdırlar.
+Kıta komutanının ve askeri kurum amirinin kanuni ve şahsi engelleri yetkilerinin kullanılmasına imkan vermez ise bu yetkiler kanuni vekillerine geçer.
+(Değişik: 12/6/2003-4893/1 md.) Teşkilâtında askerî mahkeme kurulan kıt’a komutanı veya askerî kurum amiri, subay ve astsubayların işledikleri suçlar dışında, diğer kişilerin işledikleri suçlara ait suç evrakını, soruşturma yapılması istemiyle askerî savcılığa göndermek üzere askerî hâkim sınıfından olan adlî müşavirlere yazılı yetki verebilir. Yetki verilen konularda kıt’a komutanı veya kurum amirine tanınan kanunî yetkiler adlî müşavirler tarafından kullanılır.
+3761
