@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8674",
+  "decision_date": "2019-06-27",
+  "title": "Önlisans ve Lisans İşlemleri İle İlgili Başvurulara İlişkin Usul ve Esaslar İlişkin",
+  "resmi_gazete_date": "2019-07-06",
+  "resmi_gazete_number": "30823",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4yAyd7IO74Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=4yAyd7IO74Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mGXcjwi2exc="
+  ],
+  "source_sha256": "32ae6108e6b7ddc6088609bbdff64ab40edf6a810bd57ca146b53c95a511f7b4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-06-27",
+  "law_text_complete": true
+}
