@@ -1,0 +1,2 @@
+Eserde yapılacak değişiklikler
+MADDE 10- (1) İkinci ve sonraki baskılarda eserin tamamında veya bir kısmında değişiklik yapılmış ve bu değişiklik yayın kurulunca tespit ve kabul edilmişse, sadece değişen kısımlar için itibari sayfa esasına göre ilk baskı gibi telif ücreti ödenir. Eserin esas metin kısmında herhangi bir değişiklik yapılmadan, sadece bölüm ve konu itibariyle sıra değişikliği yapılmışsa bu hüküm uygulanmaz.

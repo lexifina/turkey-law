@@ -1,0 +1,5 @@
+Redaksiyon, tashih ve koordinatörlük ücreti
+MADDE 18- (1) Yayımlanacak eserlerin yayın kurulunun teklifi ve yetkili makamın onayı ile redaksiyonuna gerek görülmesi halinde, bu iş için kamu kurum ve kuruluşu dışından görevlendirilen uzmanlara, eser için sadece itibari sayfa adedine göre hesaplanacak telif ücretinin % 10’u redaksiyon ücreti olarak ödenir. Bu miktar eser sahibine ödenecek telif ücretinden düşülür.
+(2) Eserin baskısı sırasında yayın kurulunun kararı ve yetkili makamın onayı ile tashih işlemine gerek görülmesi halinde kamu kurum ve kuruluşu dışından görevlendirilen uzmanlara, sadece itibari sayfa adedine göre hesaplanacak telif ücretinin % 10'u tashih ücreti olarak ödenir.
+(3) Yayın kurulu kararı ve yetkili makamının onayı ile yayın koordinatörlüğü hizmetinin kamu kurum ve kuruluşu dışındaki uzmanlardan alınması halinde telif ücretinin % 10'unu geçmeyecek miktarda koordinatörlük ücreti ödenir.
+(4) Yukarıdaki her bir fıkra uyarınca verilecek ücreti almaya birden çok kişinin hak kazanması halinde ücret aralarında paylaştırılır.

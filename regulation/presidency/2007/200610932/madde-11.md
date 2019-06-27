@@ -1,0 +1,2 @@
+Periyodik yayınlar
+MADDE 11- (1) Dergi, gazete, bülten gibi periyodik yayınlar ile tanıtma ve duyurma amacına matuf el kitabı ve broşür gibi yayınlarda baskı adedi dikkate alınmaz. Bu yayınlarda yer alan eserlere sadece itibari sayfa veya şiir karşılığı ücret ödenir. Bu eserlerin telif ücreti yayın kurullarının teklifi üzerine, yetkili makamın onayı ile % 100'e kadar arttırılabilir, ikinci ve sonraki baskılar için herhangi bir ücret ödenmez.

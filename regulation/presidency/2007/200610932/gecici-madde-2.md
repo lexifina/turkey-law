@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2- (1) 21 inci madde gereğince çıkarılacak yönetmelikler yürürlüğe girinceye kadar, Kamu kurum ve kuruluşlarının mevcut yönetmeliklerinin bu yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam olunur.

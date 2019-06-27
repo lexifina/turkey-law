@@ -1,0 +1,30 @@
+{
+  "id": "presidency-regulation-200610932",
+  "number": "200610932",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU KURUM VE KURULUŞLARINCA ÖDENECEK TELİF VE İŞLENME ÜCRETLERİ HAKKINDA YÖNETMELİK",
+  "published": "2007-01-23",
+  "enacted": "2006-08-23",
+  "gazette_number": "26412",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Latest source commencement-table date: 2019-06-27; official source: 15/5/2007 2/9/2013 26/6/2019 | 2007/12125 2013/5302 1240 | Ek Madde 1 Ek Madde 1 Ek Madde 1, 25 | 30/5/2007 11/9/2013 27/6/2019",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200610932&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "4b6ef4bf4725cded4ab6cfec907e729036a3097e544901246ad0bf1769b29009",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}
