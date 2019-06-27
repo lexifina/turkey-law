@@ -1,0 +1,4 @@
+Eğitim Kurulu
+MADDE 7- (1) Eğitim Kurulu, Başkanlığın yurt dışı eğitim politikalarının tespiti ve uygulanması ile ilgili konularda kararlar almak ve tavsiyelerde bulunmak üzere Başkanın belirleyeceği Başkan Yardımcısı başkanlığında 5 asıl ve 3 yedek üyeden oluşur. Üyeler genel müdürler ve daire başkanları arasından Başkanın onayı ile belirlenir. Eğitim Kurulu Başkanı, gerektiğinde ilgili birim amirini, daire başkanını veya uzmanları Eğitim Kurulu toplantısına çağırabilir.
+(2) Eğitim Kurulu, Kurul Başkanı dâhil en az üç üye ile toplanır. Kurul Başkanının katılamadığı durumlarda, Kurul Başkanının üyeler arasından vekâlet etmesini uygun gördüğü kişi Kurula başkanlık eder.
+(3) Kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Kurul Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Eğitim Kurulu kararları Başkanın onayı ile kesinleşir.

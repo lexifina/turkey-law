@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32625",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "STRATEJİ VE BÜTÇE BAŞKANLIĞI PERSONELİNİN YETİŞTİRİLMESİ AMACIYLA YURT DIŞINA GÖNDERİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "32625",
+  "issuer": "Strateji ve Bütçe Başkanı",
+  "issuer_slug": "strateji-ve-butce-baskani",
+  "path": "regulation/strateji-ve-butce-baskani/2019/32625",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32625&MevzuatTertip=5",
+  "source_sha256": "2e6f6a598085b72c0854d2ae48ec59c94efb1634682a34e85c3aca9494ec56fe",
+  "source_bytes": 77559,
+  "published": "2019-06-27",
+  "gazette": "30814",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.06.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3653,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

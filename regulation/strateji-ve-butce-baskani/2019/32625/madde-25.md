@@ -1,0 +1,5 @@
+İzleme
+MADDE 25- (1) Yurt dışına gönderilen personel, dönemler itibarıyla genel başarı durumunu belgelemek üzere derslerin not dökümünü Genel Müdürlüğe, tüm notların ilanından sonra en geç bir hafta içerisinde bildirir.
+(2) Ders notları ve personelin gönderdiği diğer raporlar gerekli görülen hallerde Genel Müdürlük tarafından Eğitim Kuruluna intikal ettirilir.
+(3) Genel Müdürlük tarafından intikal ettirilen konularda Eğitim Kurulu gerekli değerlendirmeyi yapar. İlgili personelin dönem ortalamasındaki başarı düzeyi üniversitenin kabul ettiği başarı düzeyinden düşük olması halinde bu durum ilgiliye ve bağlı olduğu birime yazılı olarak bildirilir.
+(4) Yurt dışı eğitim programına gönderilenler, eğitim gördükleri programdan mezun olduklarına dair belgeyi (diploma, sertifika ve benzeri belgeler) ibraz etmek zorundadırlar. Belge ibraz edilmediği takdirde ilgiliden yurt dışı eğitimi için yapılan tüm ödemeler kanuni faizi ile birlikte tahsil edilir. Buna ilişkin hususlar taahhüt senedinde yer alır.

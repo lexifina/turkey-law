@@ -1,0 +1,3 @@
+Adres bildirme
+MADDE 23- (1) Yurt dışına bir aydan fazla süre ile eğitime giden personel, ikametgâh adresi, telefon numarası, maaş ödemelerinin yapılacağı banka hesap numarası ve adresi ile eğitim görülecek kurumun iletişim bilgilerini (telefon, faks ve e-posta) eğitim mahalline varışının ilk haftasında ve adres değişikliklerini de bir hafta içerisinde Genel Müdürlüğe bildirir.
+(2) Yurt dışına bir aydan fazla süre ile eğitime giden personel herhangi bir sebeple bulunduğu ülkeden ayrılıp başka bir ülkeye gidecekse e-posta, faks ve benzeri yazılı iletişim araçlarıyla Genel Müdürlüğe bilgi verir.

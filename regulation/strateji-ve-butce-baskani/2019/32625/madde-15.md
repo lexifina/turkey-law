@@ -1,0 +1,6 @@
+Dış burs programları için aday tespiti
+MADDE 15- (1) Başkanlığın muhtelif birimlerine gelen bütün dış burs programlarına ilişkin veya çeşitli uluslararası kurum ve kuruluşların düzenlediği eğitim programlarına ilişkin duyuru yazıları ilgili birimlerce, gecikmeye meydan verilmeksizin Genel Müdürlüğe bildirilir. Bildirilen tüm programlar, Genel Müdürlük tarafından Başkanlık birimlerine süreli olarak duyurulur.
+(2) Birimler yurt dışı adaylarını, adayın yurt dışı eğitime gönderilmesinin Başkanlığın görevleri itibarıyla önemini açıklayan ayrıntılı rapor ile birlikte Genel Müdürlüğe bildirir.
+(3) Birimlerce dış burs programları kapsamında teklif edilen adaylar, Genel Müdürlük tarafından Eğitim Kurulunca belirlenen eğitim, politika ve prensipler doğrultusunda, bu Yönetmelikte ve ilgili mevzuatta aranılan genel şartlara uygunluk açısından incelenir.
+(4) Adaylığı uygun görülen personel, Genel Müdürlükçe Başkanın onayına sunulur.
+(5) 13 üncü maddenin ikinci ve üçüncü fıkralarında sayılan eğitim programları dışında çeşitli uluslararası kurum ve kuruluşların düzenlediği eğitim programlarına bu maddenin ikinci fıkrası uyarınca ilgili birimler tarafından bildirilen aday personel, Genel Müdürlükçe Başkanın onayına sunulur.
