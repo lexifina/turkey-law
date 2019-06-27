@@ -1,0 +1,4 @@
+Sınav Kurulu
+MADDE 10- (1) Sınav Kurulu; Başkanın başkanlığında, başkan yardımcıları ve daire başkanları arasından Başkan tarafından belirlenecek toplam beş asil ve iki yedek üyeden oluşur. Sınav Kurulu, üye tamsayısı ile toplanır ve kararlar oy çokluğu ile alınır. Asil üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(2) Sınav Kurulunun başkan ve üyelerinin eşleri veya ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının görevde yükselme veya unvan değişikliği sınavlarına katıldığının tespit edilmesi halinde, bu durumdaki başkan, üye veya üyeler Sınav Kurulu üyeliğinden çıkartılır ve bunların yerine yedek üyeler arasından görevlendirme yapılır.
+(3) Sınav Kurulunu teşkil eden üyeler, görevde yükselme sınavına alınacak personelden, lisansüstü öğrenim hariç olmak üzere öğrenim ve ihraz ettikleri unvanlar itibarıyla daha düşük seviyede olamazlar.
