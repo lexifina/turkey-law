@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8690",
+  "decision_date": "2019-06-27",
+  "title": "1/1/2019 tarihinden itibaren Görevli Tedarik Şirketlerinin organize toptan satış piyasalarından (OTSP) ve Elektrik Üretim Anonim Şirketi (EÜAŞ) nin enerji tedarik maliyetlerine ilişkin",
+  "resmi_gazete_date": "2019-06-29",
+  "resmi_gazete_number": "30816",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ViUM0IjST30=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ViUM0IjST30="
+  ],
+  "source_sha256": "5342e52314470fd274540d57c65639a588567e894794cc134889c9b7335edace",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-06-27",
+  "law_text_complete": true
+}
