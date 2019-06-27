@@ -1,0 +1,7 @@
+Uygulama esasları
+MADDE 6- (1) Bu Esasların uygulanması sonucu hesaplanan tutarlar ek fiyat farkı olup yüklenici ile idare arasında imzalanan sözleşme bedelini değiştirmez.
+(2) Mücbir sebepler hariç 1/1/2016 tarihinden önce sözleşme süresi biten ancak idarenin izni ile cezalı çalışılan işlerde, cezalı çalışılan kısım için bu Esaslar kapsamında fiyat farkı hesaplanmaz.
+(3) Bu Esaslara göre ek fiyat farkı hesaplanabilmesi için yüklenicinin, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununun 3 üncü maddesinde tanımlanan görevli tedarik şirketi olmaması gerekir.
+(4) (Değişik:RG-27/6/2019-30814-C.K.-1243/2 md.) Bu esaslar kapsamında birim enerji için hesaplanacak ek fiyat farkı ile birlikte bu Esaslar kapsamında sözleşmelere ilişkin 4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Mal Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslar gereğince ödenecek birim enerji bedeli, EPDK tarafından ilan edilen ve idarenin bağlantı gerilim seviyesine, abone grubuna, tarife sınıfına ve tek veya çok zamanlı olma durumuna ilişkin KDV hariç diğer vergi ve fonlar dikkate alınmak suretiyle belirlenen tarife bedelini geçemez.
+(5) Bu Esaslara göre ek fiyat farkı sadece, bu Esaslardan faydalanmak için idareye yazılı olarak başvuruda bulunan yüklenici için uygulanır.
+(6) Bu Esaslar kapsamındaki işlerde, sözleşmesindeki fiyat farkına ilişkin hükümlerin uygulanmasına devam olunur. Bu Esaslar uyarınca uygulanacak ek fiyat farkı, sözleşmesindeki fiyat farkına ilişkin hükümlerin uygulanmasını etkilemez.

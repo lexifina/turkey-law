@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-201811993",
+  "number": "201811993",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "4735 SAYILI KAMU İHALE SÖZLEŞMELERİ KANUNUNUN GEÇİCİ 3 ÜNCÜ MADDESİ UYARINCA HESAPLANACAK EK FİYAT FARKINA İLİŞKİN ESASLAR",
+  "published": "2018-06-30",
+  "enacted": "2018-06-20",
+  "gazette_number": null,
+  "in_force": "2019-06-27",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 27/6/2019; source row: 26/6/2019 | 1243 | 5, 6, Geçici Madde 1, 8 | 27/6/2019 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=201811993&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "a76e9f2c70151f343ab12c392a830ed49fac0019ad73e63f66b429de41b00d30",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
