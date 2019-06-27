@@ -1,0 +1,2 @@
+Müşterek Mülkiyette Hissenin Kamulaştırılması, Taksim ve İfrazı
+Madde 12 – Bölge Müdürlüğü, kamulaştırılacak hisse oranını önceden tesbit ederek, durumu müşterek maliklere bildirir. Müşterek maliklerin otuz gün içinde muvafakatlarını bildirmeleri halinde, kamulaştırılmasına karar verilen hisse miktarı, ifraz krokisi de hazırlanarak kamulaştırma kararı ile birlikte müşterek maliklere bildirilir ve tapuya tescil için gönderilir.

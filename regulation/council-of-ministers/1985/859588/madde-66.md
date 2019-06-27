@@ -1,0 +1,3 @@
+Tarım Arazilerinin Hazine Tasarrufuna Bırakılması
+Madde 66 – (Değişik: 8/3/2004-2004/6984 K.)
+Genel Müdürlüğün tasarrufuna geçmiş arazi, Kanunun amaçları gözetilerek Genel Müdürlükçe uygun görülmek şartı ile satılmak, kiralanmak, sınırlı ayni hak tesis edilmek, ilgili mevzuatı gereğince mülkiyeti devredilmek veya kendilerine özel kanunlarla verilen görev ve yetki içinde kullanmaları şartı ile kamu kuruluşlarına tahsis edilmek üzere, Hazinenin tasarrufuna bırakılabilir. Ayrıca, teknik ve ekonomik olarak Kanunun amaçları doğrultusunda kullanılamayacak arazi de Hazinenin tasarrufuna bırakılabilir.

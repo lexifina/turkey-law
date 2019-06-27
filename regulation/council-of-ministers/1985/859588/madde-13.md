@@ -1,0 +1,2 @@
+Hazırlık Dosyası
+Madde 13 – Bölge Müdürlüğü, kamulaştırmaya muhatap olacak her şahsa ait taşınmaz malların tapu kayıtlarını, kamulaştırılacak ve sahibine bırakılacak arazi miktarlarını, mal sahiplerinin kanuni ikametgah ve adresini, aile nüfus listesini, vergi beyanı ve vergi değerlerini, beyan bulunmadığı hallerde beyan yerine geçecek takdir değerlerini, tarımsal gelirin hesaplanmasında kullanılacak değerleri, toprak sınıflarını ve devletçe sulanan arazinin sınırlarını, toprak seçimini gösteren bilgi ve belgeleri de ihtiva eden bir hazırlık dosyası tanzim eder.

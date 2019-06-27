@@ -1,0 +1,3 @@
+Dağıtım İlanı
+Madde 33 – Genel Müdürlüğün emrine geçen arazinin hak sabibi çiftçilere yönetmelik hükümlerine göre dağıtılacağı, köy veya belde halkına mahallinde alışılmış usullerle ilan edilir. Bu ilanın bir sureti mahalli mülki amirlik ve diğer sureti de Bölge Müdürlüğü binalarına asılarak altmış gün süre ile ilan edilir.
+İlanlarda, dağıtımın yapılacağı köy veya belde, toprak talebinde bulunulacak sürenin başlangıç ve bitiş günleri, beyannamelerin temin edileceği yer ve başvurulacak merci, doldurulacak beyanname ekinde istenilen belgeler ile süresinde talepte bulunmayanların toprak dağıtımından yararlanamayacakları belirtilir.

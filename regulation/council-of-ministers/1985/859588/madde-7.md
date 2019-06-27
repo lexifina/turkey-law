@@ -1,0 +1,2 @@
+Belgelerin Temini
+Madde 7 – Uygulama bölgesinin ilanından itibaren bölgenin tapu kayıtları veya tapu tesbit tutanakları Tapu ve Kadastro Genel Müdürlüğünce, sulama projesi içindeki sulanan yerler tapulama paftalarına işlenmiş olarak ilgisine göre Devlet Su İşleri veya İl Özel İdarelerince, Hazine arazisi ile ilgili tahsis ve kiralama işlemleri hakkındaki gerekli bilgi ve belgeler ise Hazine ve Maliye Bakanlığınca altmış gün içinde Genel Müdürlüğe verilir.[5]

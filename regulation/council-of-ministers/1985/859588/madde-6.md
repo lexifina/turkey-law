@@ -1,0 +1,3 @@
+Kısıtlama Süresi İçinde Satış İzni
+Madde 6 – Kısıtlama süresi içinde arazisini ve varsa üzerindeki tesisleri satmak isteyen gerçek ve özel hukuk tüzel kişilerinin müracaatları halinde, Bölge Müdürlüğü altmış gün içinde bunların kamulaştırılmasına lüzum görüp görmediğini ilgilisine bildirir. Arazinin kamulaştırılmasına lüzum görülmediği takdirde, dağıtım normundan daha büyük parsellerin, bölge için tesbit edilen dağıtım normundan daha küçük parçalara, dağıtım normundan daha küçük parsellerin ise hiçbir şekilde bölünmeme şartı ile satışına izin verilir.
+Kısıtlama süresi içinde diğer kamu kuruluşlarınca yapılacak kamulaştırmalarda birinci fıkra hükümleri uygulanmaz.

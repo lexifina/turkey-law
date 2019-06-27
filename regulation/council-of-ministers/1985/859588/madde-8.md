@@ -1,0 +1,2 @@
+Arazi Bildirimi
+Madde 8 – Uygulama bölgesinin ilan edilmesinden itibaren üç ay içinde arazi malikleri, müşterek ve iştirak halindeki mülkiyette temsilci, hissedarlardan herhangi biri veya tamamı, velayet ve vesayet altındakiler için kanuni temsilcileri, tüzel kişiler için temsile yetkili olanlar, mülkiyeti ihtilaflı arazide hak iddiasında bulunanların herbiri, uygulama alanı içinde bulunan arazilerini, matbu bildirim formlarında göstermek ve bu formları, ilgili Bölge Müdürlüğüne vermek veya göndermekle yükümlüdür.

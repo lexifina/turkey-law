@@ -1,0 +1,4 @@
+Sahibine Bırakılacak Arazi Miktarı ve Kamulaştırma
+Madde 10 – Uygulama bölgesinde, gerçek kişilerle özel hukuk tüzel kişilerinin bağ, bahçe ve ağaçlık arazisi ile örnek işletmesi hariç mülkiyetinde bulunan tarım topraklarından, dağıtım normunun on katını aşan veya Cumhurbaşkanınca arttırılan miktarlardan fazla olan kısmı ile varsa üzerindeki tarımsal yapı ve tesisler, bedelleri nakden ve peşin ödenmek suretiyle Genel Müdürlük tarafından kamulaştırılır ve geri kalan kısmı kendilerine bırakılır.[6]
+Cumhurbaşkanınca Kanunun birinci maddesinin (g) bendine göre uygulama alanı olarak ilan edilecek diğer alanlarda, gerektiğinde arazi ve diğer gayrimenkullerin tamamı kamulaştırılabilir.6
+Sahibine bırakılacak arazi miktarının hesabında, arazinin bir kısmı sulu, bir kısmı kuru ise, ayni zirai işletme gelirinin sağlanabilmesi için arazi sınıfları da dikkate alınmak suretiyle sulu arazi kuru araziye tahvil edilir.

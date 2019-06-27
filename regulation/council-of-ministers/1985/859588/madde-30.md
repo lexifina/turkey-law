@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Toprak Dağıtımı
+Toprak Büyüklüğünün Tesbiti
+Madde 30 – Genel Müdürlük ilgili kamu kuruluşlarından sağlayacağı bilgilerden de yararlanarak, sulu ve kuru şartlarda geriye doğru dört yıllık ekiliş ortalamalarını almak suretiyle, ortalama ekiliş oranlarını tesbit eder. Tesbit edilen ortalama ekiliş oranlarından, bu işletmelerin, bir dönümüne isabet eden ortalama tarımsal işletme gelirleri bulunur.
+1984 yılı toptan eşya fiyatları endekslerine göre, bir milyon lira olarak tesbit edilen tarımsal işletme geliri, işletmelerin kuru ve sulu şartlar için bulunan, bir dönümünün ortalama tarımsal işletme gelirine bölünerek, uygulama alanındaki III üncü sınıf topraklarda gerekli sulu ve kuru arazi büyüklükleri bulunur.
+Birinci ve ikinci fıkra hükümlerine göre bulunacak III üncü sınıf toprak büyüklüğü toprak dağıtımında esas alınır.
+(Ek: 9/10/2000 - 2000/1860 K.) İmar, ihya ve ıslah sonucu tarıma kazandırılacak veya topografya, toprak, iklim gibi etmenler nedeniyle ekonomik verimi yüksek özel bitki plantasyonu veya özel üretim yapılacak alanlarda arazi kullanım kabiliyeti sınıflaması yerine özel üretim veya potansiyel verimlilik kriterlerinin dikkate alındığı bir sınıflama Genel Müdürlükçe kurulacak bir komisyon tarafından yapılır. Bu tür alanların dağıtımında bu sınıflama esas alınır. Bu sınıflamaya ilişkin detaylar teknik talimatla düzenlenir. Özel sınıflamanın uygulanacağı alanlarda birinci ve ikinci fıkra hükümlerine göre dağıtım normu hesaplanır.
