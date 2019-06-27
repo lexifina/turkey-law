@@ -1,0 +1,116 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7180",
+  "year": 2019,
+  "title": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "adopted": "2019-06-27",
+  "adopted_as_published": "27/06/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "05.07.2019 No: 30822",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307180.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 90 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014093ss0090.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862829,
+      "title": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+      "adopted_as_published": "27/06/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307180.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 90 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014093ss0090.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 90,
+          "sitting_date": "2019-06-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014090.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+          "pages": [
+            "677"
+          ]
+        },
+        {
+          "cilt": 14,
+          "sitting": 93,
+          "sitting_date": "2019-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+          "pages": [
+            "1050",
+            "1178:1185",
+            "1192:1197",
+            "1204:1213",
+            "1216",
+            "1218"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 94,
+          "sitting_date": "2019-06-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015fih.pdf",
+          "pages": [
+            "54:56",
+            "63:68",
+            "68:71",
+            "74:76",
+            "79:81",
+            "83:96",
+            "96:98",
+            "98:104",
+            "108:115",
+            "117:124",
+            "124:127"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 95,
+          "sitting_date": "2019-06-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015fih.pdf",
+          "pages": [
+            "187:192",
+            "197:200",
+            "202:208",
+            "215:220",
+            "221:227",
+            "229:236",
+            "237:249",
+            "249:264",
+            "265"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 27/06/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
