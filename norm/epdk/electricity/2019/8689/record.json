@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8689",
+  "decision_date": "2019-06-27",
+  "title": "1/7/2019 tarihinden itibaren geçerli olacak perakende elektrik satış tarifeleri hakkında",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FESB3hKikbQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FESB3hKikbQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HAwp/sPtYXw="
+  ],
+  "source_sha256": "9c803368b1589c4b2abdf45d9f9dac597f99b5ddd8e0ea710ebc7c0b1a827a71",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-06-27",
+  "law_text_complete": true
+}
