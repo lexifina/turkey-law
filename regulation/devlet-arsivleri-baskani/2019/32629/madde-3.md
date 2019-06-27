@@ -1,0 +1,3 @@
+İstihdam esasları
+MADDE 3- (1) Bu Yönetmelik kapsamındaki personelin istihdamına ilişkin hususlarda, mevcut pozisyonlarda bulundukları sürece 30/11/1984 tarihli ve 84/8813 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan "Başbakanlıkta Çalıştırılacak Sözleşmeli Personel Hakkında Hizmet Sözleşmesi Esasları” ve diğer ilgili mevzuatın, bu Yönetmeliğin 4 üncü maddesi hükmü saklı kalmak kaydıyla, uygulanmasına devam olunur.
+(2) Bu Yönetmelik kapsamındaki personelin Sosyal Güvenlik Kurumu ile ilişkileri Devlet Arşivleri Başkanlığına devredildikleri tarihteki statüleri esas alınarak devam ettirilir.

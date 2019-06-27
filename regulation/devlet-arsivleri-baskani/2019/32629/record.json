@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32629",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET ARŞİVLERİ BAŞKANLIĞINA DEVREDİLEN SÖZLEŞMELİ PERSONELİN 375 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EK 26 NCI MADDESİ KAPSAMINDA İSTİHDAMINA İLİŞKİN YÖNETMELİK",
+  "number": "32629",
+  "issuer": "Devlet Arşivleri Başkanı",
+  "issuer_slug": "devlet-arsivleri-baskani",
+  "path": "regulation/devlet-arsivleri-baskani/2019/32629",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32629&MevzuatTertip=5",
+  "source_sha256": "72ae41fb2118319d30d85090e1e0082a645be98cb2d7c02923f0c85409eca4aa",
+  "source_bytes": 21071,
+  "published": "2019-06-27",
+  "gazette": "30814",
+  "in_force": "2019-06-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.06.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 260,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
