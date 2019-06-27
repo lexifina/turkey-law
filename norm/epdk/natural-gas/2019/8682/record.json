@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8682",
+  "decision_date": "2019-06-27",
+  "title": "Aksa Van Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-06-29",
+  "resmi_gazete_number": "30816",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EaxTG4VBJQA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EaxTG4VBJQA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=joZKXO5SaRI="
+  ],
+  "source_sha256": "5b83dc65bcf8606482597b46845501c0e531a23e1550598cd5237964ef60d356",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-06-27",
+  "law_text_complete": true
+}
