@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32634",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU GÖZETİMİ, MUHASEBE VE DENETİM STANDARTLARI KURUMU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "32634",
+  "issuer": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı",
+  "issuer_slug": "kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani",
+  "path": "regulation/kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani/2019/32634",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32634&MevzuatTertip=5",
+  "source_sha256": "be8511d9d49b1cbbdedba778fd6ad6e66074ba94995d5cc7ab049331b9294fa8",
+  "source_bytes": 62490,
+  "published": "2019-06-29",
+  "gazette": "30816",
+  "in_force": "2019-06-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.06.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
