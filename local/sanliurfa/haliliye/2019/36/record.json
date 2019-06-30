@@ -1,0 +1,29 @@
+{
+  "number": "36",
+  "number_as_published": "2019/ 36",
+  "year": 2019,
+  "month": 6,
+  "title": "10.05.2019 Tarih ve 35 sayılı Meclis Kararı ile İptal edilen Müdürlük Bütçelerindeki 2019 yılı Bütçe kalanlarının yukarıda bağlandığı belirtilen Müdürlüklerin 2019 yılı Bütçesine aktarılmasına oy çokluğu ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2019-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2019",
+  "source": "https://www.haliliye.bel.tr/icerik/3261/39/haziran-2019",
+  "official_page": "https://www.haliliye.bel.tr/icerik/3261/39/haziran-2019",
+  "official_document": null,
+  "source_sha256": "4e2045f9c4d17cc5189733a18eb6427decadea1b8ad9833f3ab9e791af655c6e",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2019-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "HAZİRAN 2019",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
