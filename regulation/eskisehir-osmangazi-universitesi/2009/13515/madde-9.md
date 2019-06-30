@@ -1,0 +1,3 @@
+Müdürün görevleri
+MADDE 9 – (Değişik:RG-30/6/2019-30817)
+(1) Müdürün görevleri; Yönetim Kurulunun aldığı kararları ve hazırladığı çalışma programını uygulamak, birimleri Merkezin amaçları doğrultusunda yönetmek, eğitim programlarının başarılı ve amaca uygun olarak gerçekleşmesi için gerekli önlemleri almak, Yönetim Kurulu ve Danışma Kuruluna başkanlık yapmak, Merkezin faaliyet alanları ile ilgili olarak taraflarla görüşmeler yapmak, projeler hazırlamak ya da hazırlatmak, faaliyet raporunu hazırlamak, hazırlanan projeleri ve raporları Yönetim Kuruluna ve Danışma Kuruluna sunmak, Merkez adına her türlü iletişimi ve iş birliğini sağlamak, ilgili mevzuat hükümlerine göre Rektör tarafından verilen diğer görevleri yapmaktır.
