@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/14176",
+  "submitted": "2019-07-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Abdurrahman TUTDERE",
+  "province": "Adıyaman",
+  "summary": "Mevsimlik tarım işçileriyle ilgili çeşitli verilere ve Bakanlığın bu konudaki çalışmalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-109d-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "904c27c5016c7a019dc1f410519f8bf249d77724d37e5bb153c68a15d6b111aa",
+  "in_force": "2019-07-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
