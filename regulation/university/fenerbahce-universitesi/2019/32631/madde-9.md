@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 9 – (1) Yönetim Kurulu; Rektörün başkanlığında, dekanlar ile Üniversiteye bağlı değişik öğretim birim ve alanlarını temsil edecek şekilde Senato tarafından dört yıl için seçilen üç profesörden oluşur. Yönetim Kurulu, Üniversitenin yönetimiyle ilgili olarak Rektörlüğün getireceği konularda karar alır, önerilerde bulunur; fakülte ve enstitü yönetim kurullarının kararlarına yapılan itirazları karara bağlar ve mevzuat ile Yönetim Kuruluna verilen diğer görevleri yapar.
