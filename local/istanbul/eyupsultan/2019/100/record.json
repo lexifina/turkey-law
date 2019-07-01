@@ -1,0 +1,22 @@
+{
+  "number": "100",
+  "number_as_published": "2019/100",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-07-01",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-temmuz-ayi-meclis-kararlari/1639",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-100/1644",
+  "source_sha256": "b01b2b8b79735fa75cb080cc701aedd4dda56c948eae5a85deb461814ffd3ab1",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "1a7dfe6c1d028da2a2a8a3cf01a810b406bedfe9d3dad56f44816d96e72ce0f2"
+}
