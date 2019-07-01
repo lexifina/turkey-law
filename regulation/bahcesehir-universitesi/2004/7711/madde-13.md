@@ -1,0 +1,2 @@
+Son Hükümler
+Madde 13 - Bu Yönetmelikte yer almayan hususlarda genel hükümlere göre işlem yapılır.

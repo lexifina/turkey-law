@@ -1,0 +1,4 @@
+BAHÇEŞEHİR ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ
+Amaç ve Kapsam
+Madde 1 – (Değişik:RG-1/7/2019-30818)
+Bahçeşehir Üniversitesi Sürekli Eğitim Merkezi (BAUSEM); örgün, uzaktan ve karma olmak üzere ön lisans, lisans ve yüksek lisans programları dışında verilecek tüm mesleki ve kişisel gelişim eğitim programları, ulusal ve uluslararası alanlarda ilgili standartlara uygun olarak her türlü belgelendirme, TS EN ISO/IEC 17024 ve uluslararası ilgili standartlara uygun olarak personel belgelendirme, danışmanlık hizmeti, seminerler, konferanslar, kongreler, çalıştaylar, alan araştırmaları, sınav organizasyonları, her türlü eserlerin yayını ve ulusal düzeyde Avrupa Birliği normlarına uyum sağlamak amacıyla meslek standartları geliştirmeye yönelik çalışmaları düzenlemek ve Üniversitenin kamu, özel sektör ve uluslararası kuruluşlarla iş birliğini geliştirmesini sağlamak amacıyla kurulmuştur.

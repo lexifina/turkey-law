@@ -1,0 +1,2 @@
+Yönetim Kurulu
+Madde 8 - Yönetim Kurulu, Bahçeşehir Üniversitesi öğretim elemanları arasından Bahçeşehir Üniversitesi Rektörü tarafından atanan 5 kişiden oluşur. (Değişik ibare:RG-9/7/2016-29765) BAUSEM Müdürü ve (Değişik ibare:RG-9/7/2016-29765) BAUSEM Sekreteri Yönetim Kurulunun doğal üyesidir. Yönetim Kurulu (Değişik ibare:RG-9/7/2016-29765) BAUSEM Müdürü başkanlığında ayda en az bir kez toplanır.

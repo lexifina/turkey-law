@@ -1,0 +1,2 @@
+Endüstriyel Danışma Kurulu ve Görevleri
+Madde 11 - Endüstriyel Danışma Kurulu Üniversite-Endüstri işbirliğini geliştirmek amacı ile endüstriden profesyonel yöneticilerin de katılacağı karma kuruldur. Bu kurul iki ayda bir kez (Değişik ibare:RG-9/7/2016-29765) BAUSEM Müdürü başkanlığında toplanır. Bu kurul (Değişik ibare:RG-9/7/2016-29765) BAUSEM’de verilecek olan hizmetlerin planlanması, pazarlanması ve geliştirilmesi ile ilgili tavsiye niteliğindeki raporların hazırlanmasından sorumludur.

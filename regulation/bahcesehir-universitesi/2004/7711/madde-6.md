@@ -1,0 +1,3 @@
+BAUSEM(1) Müdürü
+Madde 6 – (Değişik:RG-8/7/2013-28701)
+Müdür; Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan Üniversitede tam zamanlı çalışanlar arasından Rektörün teklifi ve Mütevelli Heyeti Başkanının onayıyla üç yıl süre ile görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla süre ile görev başında bulunamaması durumunda görevi sona erer. Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversitenin tam zamanlı çalışanları arasından iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdür, görevi başında bulunmadığı zamanlarda müdür yardımcılarından birine vekâlet bırakır. Vekâletin süresi altı ayı geçemez. Müdür yardımcısının görev süresi, Müdürün görev süresi ile aynıdır.
