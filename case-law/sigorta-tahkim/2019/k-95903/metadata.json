@@ -1,0 +1,15 @@
+{
+  "number": "K-2019/95903",
+  "award_date": "2019-07-02",
+  "heading_as_published": "02.07.2019 Tarihli K-2019/95903 Sayılı Hakem Kararı (İstihdam)",
+  "issue": "Hakem Karar Dergisi 40 Ekim - Aralık 2019",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs40.pdf",
+  "source_sha256": "cc772f3f1a9ec595793408cf3946c2d7fc05b39ff804d9ed7174ddc7d1c39ca8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
