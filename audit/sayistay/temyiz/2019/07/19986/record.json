@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46568",
+  "decision_date": "2019-07-03",
+  "source_id": 19986,
+  "chamber": "5",
+  "file_number": "43690",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19986/",
+  "source_sha256": "853a3715678eb3786dca271e538bb7755fa1bd7a75e66d32c9be98894cb83d91",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
