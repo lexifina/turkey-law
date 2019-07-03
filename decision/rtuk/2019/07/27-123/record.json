@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2019/27",
+  "meeting_date": "2019-07-03",
+  "meeting_date_as_published": "3.7.2019",
+  "decision_no": "123",
+  "source_id": 11904,
+  "title": "RTÜK kararı 2019/27-123",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/11904",
+  "source_sha256": "b2c0e35d74f10761de084f8e898dd18a8ebf6dd91a8f9612ee0db86bd811d763",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
