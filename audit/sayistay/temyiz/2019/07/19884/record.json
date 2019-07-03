@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46525",
+  "decision_date": "2019-07-03",
+  "source_id": 19884,
+  "chamber": "7",
+  "file_number": "42146",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19884/",
+  "source_sha256": "342b8bbc1e165645f853aa0a291165c7bf38d2bf9395e9ad2a61c16a187061d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
