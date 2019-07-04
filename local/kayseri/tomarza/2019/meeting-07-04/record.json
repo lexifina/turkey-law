@@ -1,0 +1,25 @@
+{
+  "number": "meeting-07-04",
+  "number_as_published": "meeting-07-04",
+  "year": 2019,
+  "title": "04.07.2019 MECLİS KARARI",
+  "decision_date": "2019-07-04",
+  "source": "https://www.tomarza.bel.tr/meclis-kararlari/7",
+  "official_document": "https://www.tomarza.bel.tr/karar/04-07-2019-meclis-karari",
+  "source_sha256": "10f384761415a8341dbe10cfa92f797a6c3805947854d67aae08fcd7f653389b",
+  "issuer": "Tomarza Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-07-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.07.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "04.07.2019 MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "04.07.2019",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
