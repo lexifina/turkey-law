@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "33775506-130[KDV 53.01.30]-E.89943",
+  "source_id": 31191,
+  "date": "2019-07-04",
+  "title": "Organize sanayi bölgesinin elektrik enerjisi dağıtımı altyapı işine ilişkin olarak yapacağı fider ve kuplaj alımları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31191",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "2d60c7efc6c71c3867b47b1bab685ee7ad1cf46a42af091cf42404d85298d9cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
