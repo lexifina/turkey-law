@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10754",
+  "decision_date": "2019-07-04",
+  "source_id": 30163,
+  "chamber": "1",
+  "ilam_number": "377",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30163/",
+  "source_sha256": "656d203cdb1015510889db64a3bce0b8b7bc5e703e71ee5eeb947f1ef8970f6a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
