@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10756",
+  "decision_date": "2019-07-04",
+  "source_id": 30424,
+  "chamber": "1",
+  "ilam_number": "334",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30424/",
+  "source_sha256": "a48dd705a72457c39feb6637727cfb6d36c81c47e6f5625b35efbd854a0d2fb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
