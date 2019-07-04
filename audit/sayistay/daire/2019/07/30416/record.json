@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10755",
+  "decision_date": "2019-07-04",
+  "source_id": 30416,
+  "chamber": "1",
+  "ilam_number": "409",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30416/",
+  "source_sha256": "802547791fdfe0bf3e68076c105e5c9d3d34b899a60acdecc5f2f0d1524a7162",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
