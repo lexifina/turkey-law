@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10758",
+  "decision_date": "2019-07-04",
+  "source_id": 30408,
+  "chamber": "1",
+  "ilam_number": "378",
+  "item_number": 3,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30408/",
+  "source_sha256": "250b3a8c9183bcf27c606929f81f755ca6ee032e11f6e15e7251af3b43e27f91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
