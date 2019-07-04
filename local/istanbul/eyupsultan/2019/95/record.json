@@ -1,0 +1,22 @@
+{
+  "number": "95",
+  "number_as_published": "2019/95",
+  "year": 2019,
+  "title": "Alibeyköy-Emniyettepe Mahallesi, 624 ada, 11 parselin satış yetkisi",
+  "decision_date": "2019-07-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-temmuz-ayi-meclis-kararlari/1639",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-95/1640",
+  "source_sha256": "b01b2b8b79735fa75cb080cc701aedd4dda56c948eae5a85deb461814ffd3ab1",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-07-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.07.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "023935b1ae9bec6d3deaffff35486b995d1a791b9e42e2c6359b537f04a3d027"
+}
