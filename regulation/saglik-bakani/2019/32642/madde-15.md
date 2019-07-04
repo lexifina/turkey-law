@@ -1,0 +1,2 @@
+Kaza ve zehirlenmelerde sorumluluk
+MADDE 15 – (1) Her ekip göreve giderken, kaza ve zehirlenmelerde kullanılmak üzere ilkyardım çantasını beraberinde götürmek zorundadır. Kaza ve zehirlenmelere karşı gerekli tedbirlerin aldırılmasından herhangi bir kaza ve zehirlenme halinde ilkyardımın yaptırılmasından ve bir tedavi kuruluşuna sevkinden ekip sorumlusu, mesul müdür ve iş yeri sahibi ayrı ayrı sorumludur.

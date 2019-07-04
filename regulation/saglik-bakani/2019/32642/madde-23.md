@@ -1,0 +1,2 @@
+İzin/bildirim belgesinin kaybolması veya tahrip olması
+MADDE 23 – (1) İzin/bildirim belgesinin herhangi bir nedenle kaybolması veya okunmayacak ve yanlış anlamalara neden olacak şekilde tahrip olması halinde yeniden izin belgesi alınması gerekir. Bunun için izin belgesinin kaybolması halinde kayıp ilanı verilmiş gazetenin, tahrip olması halinde ise bozulan izin/bildirim belgesinin bir dilekçeye eklenerek müdürlüğe başvurulması gerekir. Bu durumda müdürlükçe yeniden, eski tarih ve sayı ile gerekli açıklama da yapılarak izin/bildirim belgesi tanzim edilir.
