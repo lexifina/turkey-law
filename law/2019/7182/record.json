@@ -1,0 +1,89 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7182",
+  "year": 2019,
+  "title": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun ile Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanunda Değişiklik Yapılmasına İlişkin",
+  "adopted": "2019-07-04",
+  "adopted_as_published": "04/07/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.07.2019 No: 30829",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307182.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 103",
+  "committee_reports": [
+    {
+      "label": "TBMM 92 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015098ss0092.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 862831,
+      "title": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun ile Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanunda Değişiklik Yapılmasına İlişkin",
+      "adopted_as_published": "04/07/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc103/kanuntbmmc103/kanuntbmmc10307182.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 92 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015098ss0092.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 14,
+          "sitting": 93,
+          "sitting_date": "2019-06-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014093.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c014/tbmm27014fih.pdf",
+          "pages": [
+            "1099"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 96,
+          "sitting_date": "2019-07-02",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015fih.pdf",
+          "pages": [
+            "288"
+          ]
+        },
+        {
+          "cilt": 15,
+          "sitting": 98,
+          "sitting_date": "2019-07-04",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015098.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c015/tbmm27015fih.pdf",
+          "pages": [
+            "690:710",
+            "713:721",
+            "721:739",
+            "740:742",
+            "743",
+            "744:747",
+            "748:759",
+            "760"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "efbbb040ddab1caa8abd8ffe1252819eb706f30e9c21591aea37eaa360e9fa54",
+  "issuer": "TBMM",
+  "in_force": "2019-07-04",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 04/07/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
