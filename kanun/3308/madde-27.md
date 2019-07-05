@@ -1,6 +1,6 @@
 DÖRDÜNCÜ KISIM
 Ustalık
-Ustalık eğitimi
-Madde 27 – Kalfalık yeterliğini kazanmış olanların mesleki yönden gelişmelerini ve bağımsız işyeri açabilmelerini temin için gerekli yeterlikleri kazandırmak gayesiyle Bakanlıkça ustalık eğitimi kursları düzenlenir.
-Bu kursların kapsam ve süreleri Mesleki Eğitim Kurulunun görüşü alınarak Bakanlıkça tespit edilir.
-Kurslar çalışma saatleri dışında açılır.
+Ustalık eğitimi[16]
+Madde 27 – Kalfalık yeterliğini kazanmış olanların mesleki yönden gelişmelerini ve bağımsız işyeri açabilmelerini temin için gerekli yeterlikleri kazandırmak gayesiyle Bakanlıkça ustalık eğitimi düzenlenir.
+Bu eğitimin kapsam ve süreleri Bakanlıkça tespit edilir.
+(Mülga üçüncü fıkra:27/6/2019-7180/7 md.)
