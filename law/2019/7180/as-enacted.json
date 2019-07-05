@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7180",
+  "year": 2019,
+  "title": "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-07-05",
+  "gazette_issue": "30822",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190705-1.htm",
+  "source_sha256": "cb7ebe0f1349b1f67c7516ccbcb5f36b0e6bf9b158d545308fad231bfe5999ce",
+  "text_sha256": "39caa0ccf70bb252f9066179c4a6ff77a3b9698736091c212b1a67e7d75ba818",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/07/05/30822-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190705-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
