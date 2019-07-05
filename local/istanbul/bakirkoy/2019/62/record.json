@@ -1,0 +1,23 @@
+{
+  "number": "62",
+  "number_as_published": "62",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-07-05",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/36",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/62-1199-ada-2-parsele-iliskin-uip-itirazi-05072019.pdf",
+  "source_sha256": "46e7ebdd6414235c4d6dd2781e3269ffdfb24f138a15b69e604bd45c7f7a44f5",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-07-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Temmuz 2019 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
