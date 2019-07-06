@@ -1,0 +1,4 @@
+KMP ve KMÖP işlemlerine ilişkin uyuşmazlıkların çözümü
+MADDE 22 – (1) KMP’de işlem yapma yetkisi verilenlerin kendi aralarındaki Borsa işlemlerinden kaynaklanan uyuşmazlıklarda başvuru taraflardan biri, işlem yapma yetkisi verilenler ile müşterileri arasındaki aynı nitelikteki uyuşmazlıklarda ise başvuru müşteri tarafından yapılabilir. KMP ve KMÖP işlemlerine ilişkin uyuşmazlık Yönetim Kurulunca çözülür. Uyuşmazlıkların çözümünde Yönetim Kuruluna bu piyasalar için oluşturulan Uyuşmazlık Komitesi yardımcı olur
+(2) Uyuşmazlık başvurusunun şekli, dilekçede bulunması gereken unsurlar, uyuşmazlık komitesinin çalışma usul ve esasları ile uyuşmazlığın incelenmesine, çözümüne ve karara bağlanmasına ilişkin usul ve esaslar Yönetim Kurulu tarafından belirlenir ve Kurulca onaylanır.
+(3) Tarafların uyuşmazlığa ilişkin olarak yargı mercilerine başvuru hakkı saklıdır.

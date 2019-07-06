@@ -1,0 +1,2 @@
+Borsanın rafinerilerle ilgili yetkileri
+MADDE 13 – (1) Müsteşarlık tarafından yapılan düzenlemeler ve Yönetim Kurulu tarafından belirlenen esaslar çerçevesinde; Borsada kıymetli madenleri işlem görecek rafinerilerin listesini hazırlamak ve ilan etmek, Türkiye’de kurulu rafinerilerin ve uluslararası rafinerilerin listeye dahil olma başvurularını inceleyip sonuçlandırmak ve listede yer alan Türkiye’de kurulu rafinerilerin ilgili mevzuat kapsamında denetimini yapmak Borsanın yetkisindedir.

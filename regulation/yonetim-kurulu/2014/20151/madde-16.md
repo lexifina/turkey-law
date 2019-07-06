@@ -1,0 +1,3 @@
+Müşterilerin, emir Borsaya intikal ettirilmeden önceki yükümlülükleri
+MADDE 16 – (1) KMP’de işlem yapma yetkisi verilenler, alım emri verenlerden kapora ya da teminat veya satın almak istenen kıymetli madenin bedelinin tamamının makbuz karşılığında ödenmesini; satım emri verenlerden satmak istedikleri kıymetli madenin kendilerine veya temsilcilerine tesellüm belgesi karşılığında teslimini, müşteri emrini Borsaya intikal ettirmenin ön şartı olarak isteyebilirler.
+(2) Kapora, peşin tahsil edilen bedel veya teslim alınan kıymetli maden, işlem gerçekleşmediği takdirde en geç bir sonraki iş günü içinde müşteriye iade edilir. İşlem gerçekleştiği takdirde kapora veya peşin tahsil edilen bedel alış bedelinden mahsup edilir.

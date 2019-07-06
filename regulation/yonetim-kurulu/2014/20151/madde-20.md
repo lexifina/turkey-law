@@ -1,0 +1,2 @@
+Müşterilere kıymetli maden teslimatı
+MADDE 20 – (1) Müşteri bedelini ödediği ve alımı gerçekleştirdiği takdirde KMP’de işlem yapma yetkisi verilenler, müşterisine Yönetim Kurulunun belirleyeceği süre içinde kıymetli madeni teslim etmek zorundadır. KMP’de işlem yapma yetkisi verilenler müşterilerine Borsa işlemleri nedeniyle Takas Merkezi dışındaki kendi stoklarından bu süreden önce teslimat yapabilirler.

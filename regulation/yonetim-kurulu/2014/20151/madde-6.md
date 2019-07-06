@@ -1,0 +1,12 @@
+İşlem yapma yetkisi verilenlerde aranacak şartlar
+MADDE 6 – (1) Borsalar ve Piyasa İşleticilerinin Kuruluş, Faaliyet, Çalışma ve Denetim Esasları Hakkında Yönetmeliğin 24 üncü maddesinin birinci fıkrası kapsamında olanlara Borsaya üye olmak suretiyle KMKTP’de işlem yapma yetkisi verilebilir.
+(2) Borsalar ve Piyasa İşleticilerinin Kuruluş, Faaliyet, Çalışma ve Denetim Esasları Hakkında Yönetmeliğin 24 üncü maddesinin üçüncü fıkrası kapsamında Borsaya üye olmadan KMKTP’de işlem yapma yetkisi verileceklerin ve varsa önemli etkiye sahip ortaklarının;
+a) 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümlerine göre müflis olmamaları, konkordato ilan etmiş olmamaları, uzlaşma yoluyla yeniden yapılandırma başvurusunun tasdik edilmiş olmaması ya da haklarında iflasın ertelenmesi kararı verilmiş olmaması ve vergi borçlarının olmaması,
+b) 14/1/1982 tarihli ve 35 sayılı Ödeme Güçlüğü İçinde Bulunan Bankerlerin İşlemleri Hakkında Kanun Hükmünde Kararnameye göre haklarında tasfiye kararı verilmemiş olması,
+c) Kanun, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununa aykırılıktan ve/veya taksirli suçlar hariç olmak üzere affa uğramış olsalar dahi ağır hapis veya 5 yıldan fazla hapis yahut zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık, tefecilik, sahtecilik, inancı kötüye kullanma, hileli iflas gibi suçlar ile istimal ve istihlak kaçakçılığı dışında kalan kaçakçılık suçları; resmi ihale ve alım satımlara fesat karıştırma veya Devlet sırlarını açığa vurma, vergi kaçakçılığı veya vergi kaçakçılığına teşebbüs suçlarından dolayı hüküm giymemiş olması,
+ç) 7/2/2013 tarihli ve 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanunun 2 nci bölümünde yer alan terörizmin finansmanı suçundan veya bu suça iştirakten hüküm giymemiş olması,
+d) 11/10/2006 tarihli ve 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanunun 2 nci maddesinde yer alan aklama suçundan veya bu suça iştirakten hüküm giymemiş olması,
+e) Esasları Borsa tarafından belirlenecek mali güce ve itibara sahip bulunması,
+gerekir.
+(3) EKTP’de işlem yapmak üzere başvuruda bulunanın kıymetli taş faaliyetinde bulunduğunun, Kuyumcular Odası veya Ticaret Odası kayıtları ile tevsiki gereklidir.
+(4) (Değişik:RG-3/4/2019-30734) Genel Müdür gerekli göreceği ilave bilgileri ve belgeleri talep etmeye yetkilidir. Genel Müdür tarafından istenecek ilave bilgileri ve belgeleri altmış gün içinde tamamlamayanların işlem yapma başvuruları düşer.
