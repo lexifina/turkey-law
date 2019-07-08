@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.03[61-2018/7]-258752",
+  "source_id": 37454,
+  "date": "2019-07-08",
+  "title": "İhraç kayıtlı olmayan satış nedeniyle serbest bölgede ücret istisnasından yararlanamama hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37454",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7be6a1eadbac3d2251588757dc6df3fb097a483ea7ddc9415ca8915ff134471d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
