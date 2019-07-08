@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 15 inci maddesi, 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanunu, 3/6/2011 tarihli ve (Değişik ibare:RG-8/7/2019-30825 Mükerrer) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 417 inci ve 429 uncu maddelerine dayanılarak hazırlanmıştır.

@@ -1,0 +1,7 @@
+Öğreticilerin görevlendirilmesi ve nitelikleri
+MADDE 6 – (1) Öğreticilerde bulunması gereken özellikler şunlardır:
+a) Genel bilgi dersleri için; müdürlükte çalışan öğretmenlik formasyonu eğitimi almış fakülte mezunları, bu özellikte öğretici bulunmaması halinde MEB’de çalışan öğretmenler, emekli öğretmenler, öğretmenlik formasyonu eğitimi almış fakülte mezunları veya Bakanlıkta görev yapan fakülte mezunları öğreticilik yaparlar.
+b) Meslek dersleri için; öğreticilik yapacağı konu ile ilgili mühendislik fakültesi, eğitim fakültesi, meslek yüksekokulu mezunları veya MEB tarafından onaylanmış usta öğretici belgesine sahip olanlar, bunların temininin mümkün olmaması durumunda ise müdürlükten kurs sertifikası alanlar öğreticilik yaparlar.
+c) Geçici personel olarak ek ders görevi verilerek görevlendirilecek öğreticilerle müdürlük arasında ek-1’de yer alan Kadrosuz Usta Öğreticilerle İlgili İş Sözleşmesi yapılır. Sözleşmenin süresi, bir mali yıl içerisinde kalmak şartıyla en fazla on iki aydır.
+ç) Öğreticilik yapma şartlarını taşıyan gönüllü kişilerin, bilgi ve tecrübelerinden ücretsiz olarak yararlanabilme imkânı verecek gönüllü öğretici sistemi uygulanabilir.
+(2) (Ek:RG-8/7/2019-30825 Mükerrer)(1) Öğreticilik için şahsen yapılan başvurularda, e-Devlet üzerinden temin edilen Adli Sicil Kaydı ile Askerlik Durum Belgesi, başvuru yapılan eğitim merkezi müdürlüğüne teslim edilir; e-Devlet üzerinden (www.turkiye.gov.tr) yapılan başvurularda bu belgeler elektronik ortamda iletilir.
