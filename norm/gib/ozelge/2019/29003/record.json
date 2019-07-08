@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97726449-130[7340816260]-72389",
+  "source_id": 29003,
+  "date": "2019-07-08",
+  "title": "Tamamlanmamış İnşaatın Devrinde KDV",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29003",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "3dff9ef8b8762b29d58aa34b138c9db24d1fe08399562c18a18b348eecbca44b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
