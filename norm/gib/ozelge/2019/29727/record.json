@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.23.10.00-130[2016]-32962",
+  "source_id": 29727,
+  "date": "2019-07-08",
+  "title": "Elazığ Mahalli İdare Birliğine ait güneş enerjisi sisteminden elde edilen elektrik enerjisinin satışından dolayı Katma Değer Vergisi mükellefiyeti tesis edilip edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29727",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "cb71b34c9ac39d37cc0575168f3aab70e4a9195e494d0a87ae01d2413ac9ef49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
