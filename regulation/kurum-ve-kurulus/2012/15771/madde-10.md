@@ -1,0 +1,4 @@
+Yarışma sınavına çağrı
+MADDE 10 – (1) Yarışma sınavı başvuru şartlarını taşıyan adaylara yazılı sınav yeri ve tarihinin belirtildiği Sınav Giriş Belgesi verilir. Sınav Giriş Belgesi olmayan adaylar yazılı sınava katılamaz.
+(2) Kamu Personel Seçme Sınav sonuçlarına göre yapılan başvurular arasından, en yüksek puana sahip olan adaydan başlanarak atama yapılacak kadro sayısının en fazla yirmi katına kadar aday, son sıradaki adayla aynı puanı alanlar dâhil olmak üzere yazılı sınava çağrılır.
+(3) Yazılı sınavda yetmiş puan ve üzerinde not almak şartıyla en yüksek puana sahip olan adaydan başlanarak, atama yapılacak kadro sayısının en fazla üç katına kadar aday, son sıradaki adayla aynı puanı alanlar dâhil olmak üzere sözlü sınavına çağrılır. Sözlü sınav, yazılı sınav sonuçlarının ilânından itibaren en geç iki ay içinde yapılır.

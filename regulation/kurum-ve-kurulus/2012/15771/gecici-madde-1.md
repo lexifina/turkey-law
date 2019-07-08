@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 22/6/1965 tarihli ve 633 sayılı Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanuna 6002 sayılı Kanunla eklenen geçici 13 üncü madde uyarınca, 6002 sayılı Kanunun yürürlüğe girdiği 13/7/2010 tarihi itibariyle üç yıl içinde en fazla iki defa mesleki yeterlik sınavı yapılır ve bu Yönetmelik hükümleriyle kayıtlı bulunmaksızın yapılacak bu sınava dair usul ve esaslar Başkanlıkça belirlenir ve ilanda duyurulur.
+(2) Bu Yönetmeliğin 21 inci maddesinin birinci fıkrasının (ç) bendinde öngörülen yabancı dil belgesine sahip olma şartını taşımak kaydıyla; 6002 sayılı Kanunun yürürlüğe girdiği 13/7/2010 tarihi itibariyle Başkanlık merkez teşkilatında şube müdürü kadrosunda bulunanlar ile daha önce bu kadrolarda bulunmuş olanlardan veya en az üç yıldır Başkanlık teşkilatında çalışmakta olup yüksek lisans derecesine sahip olanlardan halen Başkanlık teşkilatında görev yapanlar, yapılacak mesleki yeterlik sınavına katılma hakkına sahip olup, sınavda başarılı olanlar kadro sayısının yüzde yirmisini geçmemek üzere başarı sırasına göre Diyanet İşleri Uzmanlığına atanır.
