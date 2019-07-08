@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125.05.03[KVK.ÖZ.2018.61]-124272",
+  "source_id": 37455,
+  "date": "2019-07-08",
+  "title": "Serbest Bölgede Uygulanan Gelir Vergisi İstisnasında İbraz Edilecek YMM raporunun süresi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37455",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f72e9700ed264ce61aa18cf82eb670e5433069476217573bda384a4d58c66ca1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
