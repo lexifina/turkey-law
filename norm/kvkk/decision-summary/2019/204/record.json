@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/204",
+  "source_id": 5517,
+  "date": "2019-07-08",
+  "title": "“Bir yatırım şirketi tarafından ilgili kişinin cep telefonu numarasının herhangi bir veri işleme şartına dayanmadan işlenmesi ve reklam/bilgilendirme amaçlı aranması hakkında Kuruma yaptığı başvuru” ile ilgili Kişisel Verileri Koruma Kurulunun 08/07/2019 Tarihli ve 2019/204 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5517/2019-204",
+  "source_sha256": "5dd2de1b4dc8bbbd272672b5e5a3199b2c82f3bf4682f3f848516566092c5799",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
