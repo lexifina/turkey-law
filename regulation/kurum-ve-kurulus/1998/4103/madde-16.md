@@ -1,0 +1,2 @@
+Yönetmelik Hükümlerinin Uygulanamayacağı Yerler
+Madde 16- Yerleşim merkezleri dışında, belirli yol güzergahlarında namaz kılmak için ayrılmış bulunup Cuma namazı kılınmayan ve cami veya mescit olarak adlandırılmayacak mekanlar, kamu kurum ve kuruluşlarında personelin ibadeti için ayrılmış yerler ile demek ve vakıflarca külliye şeklinde yaptırılan binaların vakit namazları kılmak için ayrılmış bulunan ve Cuma namazı kılınmayan bölümleri hakkında umuma açık olmamak kaydıyla bu Yönetmelik hükümleri uygulanmaz.

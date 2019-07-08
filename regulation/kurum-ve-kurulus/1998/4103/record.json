@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.4103",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET İŞLERİ BAŞKANLIĞINA YÖNETİMİ DEVREDİLEN CAMİ VE MESCITLERDE GÖREV YAPANLARIN MESLEKİ EHLİYETLERİNİN TESPİTİNE DAİR YÖNETMELİK",
+  "number": "4103",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1998/4103",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4103&MevzuatTertip=5",
+  "source_sha256": "074831784d7c97cd9c7988b18e5777015a3a816349d6ca67bd99ba59ba9ae95e",
+  "source_bytes": 32208,
+  "published": "1998-12-04",
+  "gazette": "23543",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 815,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
