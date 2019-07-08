@@ -1,0 +1,65 @@
+{
+  "source_id": "7.5.15636",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAİZLİK, KUR’AN KURSU ÖĞRETİCİLİĞİ, İMAM-HATİPLİK VE MÜEZZİN KAYYIMLIK KADROLARINA ATAMA VE BU KADROLARIN KARİYER BASAMAKLARINDA YÜKSELME YÖNETMELİĞİ",
+  "number": "15636",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15636",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15636&MevzuatTertip=5",
+  "source_sha256": "6f5bd5a0b545048d562576153b33efa0ef3403fa0c590216fae24eece88a4afd",
+  "source_bytes": 83819,
+  "published": "2011-12-23",
+  "gazette": "28151",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-02-08",
+      "RG-8/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-08",
+      "8/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-17",
+      "RG-17/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-17",
+      "17/4/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik hükümleri, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3291,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2011/12/20111223-2-1.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
