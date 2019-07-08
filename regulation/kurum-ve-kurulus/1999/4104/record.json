@@ -1,0 +1,55 @@
+{
+  "source_id": "7.5.4104",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET İŞLERİ BAŞKANLIĞINCA İDARE OLUNAN CAMİ VE MESCİTLERDEKİ TEBERRÜKÂT EŞYASI HAKKINDA YÖNETMELİK",
+  "number": "4104",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1999/4104",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4104&MevzuatTertip=5",
+  "source_sha256": "293c95eecaecffc422ef9fd1343de319732163df920d7b665527175f63f60e9c",
+  "source_bytes": 49955,
+  "published": "1999-11-06",
+  "gazette": "23868",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-03-09",
+      "RG-09/03/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-02-16",
+      "RG-16/02/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4104%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

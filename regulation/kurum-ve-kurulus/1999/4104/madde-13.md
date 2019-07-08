@@ -1,0 +1,7 @@
+Teberrükât eşyasının sayımı ve kontrolü
+Madde 13- (Değişik:RG-09/03/2007-26457)
+Teberrükât eşyaları, bu Yönetmeliğin ekinde yer alan (Ek 1)’deki kayıt formunda bulunan bilgilere göre, bu Yönetmeliğin ekinde yer alan (Ek 4)’teki teberrükât eşyası kayıt defterine cami veya mescit görevlileri tarafından sırayla kaydedilir.
+Komisyonca kabulüne karar verilen teberrükât eşyası ise vakit geçirilmeden cami veya mescit görevlileri tarafından kayıt defterine kaydedilerek bu Yönetmeliğin ekinde yer alan (Ek 5)’teki tesellüm makbuzundan iki nüsha düzenlenip bunun bir nüshası bağış sahibine verilir, diğer nüshası ise cami veya mescitte muhafaza edilir.
+Komisyonca sonu sıfır ve beş ile biten yıllarda teberrükât eşyasının sayımı ve kontrolü yapılır. Sayım ve kontrolü yapılan cami veya mescidin bütün personeli sayım ve kontrol çalışmalarına katılırlar. Sayım ve kontrol işlemi teberrükât eşya formlarındaki kayıtlar esas alınmak suretiyle yapılır ve en kısa sürede bitirilir.
+Sayım sonucunda tespit edilen noksanlıklar için tutanak tutulur; fazlalıklar için ise kayıt formu düzenlenir. Üç nüsha olarak düzenlenen bu formun da önceki kayıt formlarına eklenmek üzere, bir nüshası ilgili müftülüğe, bir nüshası mal sahibine ve bir nüshası da teberrükât eşya sorumlusuna verilir; ayrıca teberrükât eşyası kayıt defterine kaydedilir.
+Teberrükât eşyası sayımında ortaya çıkan noksanlıklar için, ilgilileri hakkında yapılan kanuni işlem sonuçlanmadan, kayıttan düşüm işlemi yapılamaz.
