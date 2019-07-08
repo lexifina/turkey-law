@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "30835462-045[88]-6065",
+  "source_id": 23015,
+  "date": "2019-07-08",
+  "title": "Akümülatör satışının basit usulde ticari kazanç kapsamında olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23015",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d54d90b71ff74764c782e28f3cff22b36e391367d11e502538f33537bd2cd385",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
