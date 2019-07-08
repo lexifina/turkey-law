@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Toprak Kirliliğinin Kontrolü ve Noktasal Kaynaklı Kirlenmiş Sahalara Dair Yönetmelik uyarınca gerekli raporları hazırlayacak ve faaliyetleri yürütecek kurum ve/veya kuruluşta aranacak şartları, Yeterlilik Belgesi Komisyonunun oluşumu, çalışma usul ve esaslarını, başvuruların değerlendirilmesi, yeterlilik belgesi verilmesi, denetlenmesi, vize edilmesi ve iptali ile ilgili konuları kapsar.
