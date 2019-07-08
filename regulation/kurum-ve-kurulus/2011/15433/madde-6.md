@@ -1,0 +1,6 @@
+Sınavlar ve sınavları açacak merciler
+MADDE 6 – (1) Görevlilerin bilgi seviyelerini ölçmek ve mesleki bakımdan göreve iyi şekilde hazır bulunmalarını sağlamak amacıyla yılda bir Mesleki Bilgiler Seviye Tespit Sınavı (MBSTS) yapılabilir. Bu sınav Başkanlıkça yapılabileceği gibi (Değişik ibare:RG-8/2/2014-28907)(1) başka kamu kurum veya kuruluşlarına da yaptırılabilir. Sınavın yeri ve zamanı ile sınavda sorulacak sorular Başkanlıkça belirlenir ve sınavı yapacak kuruma bildirilir. Başkanlıkça gerekli görülmesi halinde sınav soruları ÖSYM’ye veya üniversitelere de hazırlatılabilir.
+(2) Başkanlıkta veya diğer kamu kurum ve kuruluşlarında (Değişik ibare:RG-8/2/2014-28907)(1) görevli bulunanlardan, Diyanet İşleri Başkanlığı Atama ve Yer Değiştirme Yönetmeliğinde sınav şartı bulunan kadrolara atanacaklar için, ihtiyaca göre Başkanlıkça uygun görülen yer ve zamanlarda sınav açılır.
+(3) Başkanlık taşra teşkilatında bulunan şoför ve yardımcı hizmetler sınıfındaki kadrolara naklen atanacaklar için ihtiyaca göre, (Değişik ibare:RG-8/2/2014-28907)(1) Valiliklerce uygun görülecek zamanlarda sınav yapılır.
+(4) Cami görevlisi kadrolarından münhal bulunan yerler için her ayın ilk Salı günü müftülüklerce yarışma sınavı yapılır.
+(5) (Mülga:RG-8/2/2014-28907)(1)

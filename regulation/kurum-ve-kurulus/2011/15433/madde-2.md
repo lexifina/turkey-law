@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Diyanet İşleri Başkanlığında ilk defa Devlet memuru olarak atanacaklar (Mülga ibare:RG-8/2/2014-28907)(1) (…), halen görevde olup görevini veya görev yerini değiştirmek isteyenler (Mülga ibare:RG-8/2/2014-28907)(1) (…) ve Mesleki Bilgiler Seviye Tespit Sınavına (MBSTS) katılacaklar hakkında uygulanır.
+(2) Müfettiş, müfettiş yardımcısı, Diyanet işleri uzmanı, Diyanet işleri uzman yardımcısı, Din İşleri Yüksek Kurulu uzmanı ve Din İşleri Yüksek Kurulu uzman yardımcısı kadrolarına atanacaklar; vaiz, Kur’an kursu öğreticisi, imam-hatip, müezzin-kayyım kadrolarına ilk defa atanacaklar ile bu unvanların kariyer basamaklarına atanacaklar; görevde yükselme ve unvan değişikliği suretiyle atanacaklar hakkında bu Yönetmelik hükümleri uygulanmaz.
