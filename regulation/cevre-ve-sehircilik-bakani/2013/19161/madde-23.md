@@ -1,0 +1,4 @@
+Asgari fiyat tarifesi
+MADDE 23 – (1) Laboratuvarlar, ÇED çalışmaları kapsamında yapılanlar da dahil olmak üzere çevre mevzuatına esas teşkil edecek ve sonuçları Bakanlığa veya Bakanlık tarafından denetim yetkisi devri yapılmış resmi kurum ve kuruluşlara ibraz edilecek izin, lisans, iç izleme ve denetime ilişkin ölçüm ve analizlerde, Bakanlıkça belirlenen asgari fiyat tarifesinin altında ücret uygulayamaz. Kamu laboratuvarları ise Bakanlıkça belirlenen asgari fiyat tarifesinin en fazla %10 altında fiyat belirleyebilir.
+(2) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ve bu kanun hükümlerinden muaf olan kamu kurum kuruluşlarınca ihale yoluyla alınan ölçüm ve analiz hizmetleri için asgari fiyat tarifesinin uygulanması zorunluluğu aranmaz.
+(3) Bakanlığa bağlı laboratuvarlarca yapılacak ölçüm ve analizlere ilişkin fiyat listesi en geç ilgili yılın Ocak ayında belirlenir.

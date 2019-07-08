@@ -1,0 +1,4 @@
+Yönetmelikten önceki belgelendirme
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımlandığı tarihten önce ön yeterlik belgesi olan laboratuvarlardan belge bitimine bir yıldan az kalanların belgeleri, belge bitim süresine kadar geçerlidir. Ön yeterlik belge bitiş süresi bir yıldan fazla olan laboratuvarlar ise bir yıl içerisinde durumlarını bu Yönetmeliğin hükümlerine uygun hale getirerek yeterlik belgesi almak zorundadır.
+(2) Bu Yönetmeliğin yayımlandığı tarihten önce yeterlik belgesi almış olan laboratuvarların belge süreleri beş yıl olacak şekilde geçerlidir. Ancak, bu laboratuvarlar bu Yönetmeliğin yayımlandığı tarihten itibaren bir yıl içerisinde durumlarını bu Yönetmeliğin hükümlerine uygun hale getirmek zorundadır.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce herhangi bir yetkili laboratuvarda çalıştığı belgelenen personelin mevcut görevleri için, 20 nci maddenin altıncı fıkrasında belirtilen şartlar aranmaz.

@@ -1,0 +1,15 @@
+Genel ilkeler
+MADDE 5 – (1) Çevre mevzuatı kapsamında sonuçları Bakanlığa veya Bakanlık tarafından denetim yetkisi devri yapılmış kurum ve kuruluşlara ibraz edilecek her türlü izin, lisans, iç izleme ve denetimlere esas teşkil eden ölçüm ve analizleri yapacak, özel veya kamu laboratuvarları bu Yönetmelik hükümleri çerçevesinde Yeterlik Belgesi almak zorundadır.
+(2) Çevre mevzuatında yer alan ancak herhangi bir laboratuvar tarafından Yeterlik Belgesi başvurusunda bulunulmamış veya yetki verilmemiş ölçüm ve analizlerin yaptırılacağı laboratuvar ve sonuçlarının geçerliliği ile ilgili karar, söz konusu mevzuatı yayımlayan ilgili Bakanlık birimine aittir.
+(3) Laboratuvarlar aşağıdaki ilkelere uyar:
+a) Bu Yönetmelik kapsamında yetkilendirilmiş laboratuvarları bulunan işletmeler, tesisler, organize sanayi bölge müdürlükleri, belediyeler, ticaret odaları ve bunların iştirakleri ile Bakanlık tarafından denetim yetkisi devri yapılmış kurum ve kuruluşlar, iç izleme dışında kendi kuruluş bünyesinde yer alan tesis ve işletmelerin çevre izin ve lisansına ve denetlenmesine esas teşkil edecek ölçüm ve analizleri yapamaz.
+b) Laboratuvarlar TS EN ISO/IEC 17025 "Deney ve Kalibrasyon Laboratuvarlarının Yeterliği İçin Genel Şartlar" standardına göre Akreditasyon Kurumundan akredite olmak zorundadır.
+c) Laboratuvar hizmeti dışında çevre danışmanlık, gözetim ve ÇED hizmeti veren kurum ve kuruluşlar, laboratuvar hizmeti ile ilgili personeli ayrı tanımlamak zorundadır; bu kurum veya kuruluşlar işlerini üstlendikleri firmalara ait izin, iç izleme ve denetime esas teşkil edecek ölçüm ve analizleri yapamazlar.
+ç) Laboratuvarların başka adreste laboratuvar faaliyeti gösteren şubeleri tek başına ayrı laboratuvar olarak değerlendirilir ve bu Yönetmelik kapsamında ayrı Yeterlik Belgesi almak zorundadır. Ortak kalite sistemi kullanan şubeler ayrı ayrı kalite yönetici temsilcisi atamak zorundadır.
+d) Yeterlik Belgesi almış bir laboratuvar, herhangi bir özel veya tüzel kişiliğe kendisi adına temsilcilik veremez, numune aldıramaz, rapor düzenletemez.
+e) Numune alma ve örnekleme yetkisi talep eden laboratuvar, Bakanlıktan gerekli yetkiyi almak zorundadır.
+f) Bakanlıkça bu Yönetmelikte belirtilen esaslar çerçevesinde laboratuvarlara askıya alma işlemi uygulanır.
+g) Yetki belgesi kapsamını genişletmek isteyen laboratuvarlar, bu Yönetmelik çerçevesinde Bakanlığa başvurur.
+ğ) Bakanlık laboratuvarlara numune gönderme yöntemi ile yeterlilik/karşılaştırma testi, sahada bir veya daha fazla laboratuara ölçüm yaptırma yöntemi ile karşılaştırma testleri düzenleyebilir.
+h) Bakanlıkça düzenlenen eğitim, yeterlik ve/veya karşılaştırma testi, yeterlik belgesi düzenlenmesi ve benzeri faaliyetler için katılım ücretleri Bakanlıkça belirlenir.
+ı) Yeterlik Belgesine sahip laboratuvarlar, kamuya ait alanlarda oluşan, sorumlusu tespit edilemeyen veya telafisi mümkün olmayan sonuçlara neden olabilecek kirlilik durumlarında Bakanlık veya İl Müdürlüğünce talep edilen analiz ve ölçümleri yapmak ve sonuçlarını raporlamak zorundadır.
