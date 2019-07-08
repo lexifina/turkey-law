@@ -1,0 +1,4 @@
+Başvuruların değerlendirilmesi
+MADDE 7 – (1) Bakanlığa yapılan başvurular otuz gün içerisinde değerlendirilir. Eksiklik tespit edilmesi halinde başvuru yapan kurum/kuruluşlar otuz gün içerisinde eksikliklerini tamamlar. Bu süre içerisinde eksikliklerini tamamlamayan kurum/kuruluşların başvurusu geçersiz sayılır ve başvuru ücreti iade edilmez.
+(2) Başvurusu Bakanlık tarafından uygun bulunan kurum/kuruluşlara dört yıl süre ile geçerli olmak üzere elektronik ortamda Yeterlik Belgesi verilir ve Genel Müdürlük internet sitesinde ilan edilir.
+(3) Bakanlıkça oluşturulan çevrimiçi yeterlik başvuru ve değerlendirme sisteminin mücbir sebeplerle çalışmaması durumunda kurum/kuruluşlar 5 inci maddede istenen bilgi ve belgeleri bir üst yazı ile Bakanlığa sunar ve sistemde (elektronik ortamda) yapılacak olan diğer gerekli tüm işlemleri de yazılı olarak gerçekleştirir.

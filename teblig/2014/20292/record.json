@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.20292",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DENİZ ÇEVRESİNİN PETROL VE DİĞER ZARARLI MADDELERLE KİRLENMESİNE İLİŞKİN RİSK DEĞERLENDİRMESİ VE ACİL MÜDAHALE PLANLARINI HAZIRLAYACAK KURUM VE KURULUŞLARIN ASGARİ ÖZELLİKLERİNE DAİR TEBLİĞ",
+  "number": "20292",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2014/20292",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20292&MevzuatTertip=5",
+  "source_sha256": "3ffd789d7fca58b13392833c05ab7af948a752cedf3f5a27a64912224f1bb38c",
+  "source_bytes": 30384,
+  "published": "2014-12-12",
+  "gazette": "29203",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1991,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20292-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

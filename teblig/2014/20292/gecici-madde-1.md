@@ -1,0 +1,3 @@
+Geçiş dönemi
+GEÇİCİ MADDE 1 – (1) Bakanlıkça oluşturulan çevrimiçi yeterlik başvuru ve değerlendirme sistemi tamamen işlevini yerine getirene kadar kurum/kuruluşlar 5 inci maddede istenen bilgi ve belgeleri bir üst yazı ile Bakanlığa sunar ve sistemde (elektronik ortamda) yapılacak olan diğer gerekli tüm işlemleri de yazılı olarak gerçekleştirir. Bakanlıkça oluşturulan çevrimiçi yeterlik başvuru ve değerlendirme sistemi tamamen işlevini yerine getirdiği zaman tüm işlemler sistem (elektronik ortam) üzerinden yapılır.
+(2) Bu Tebliğin yürürlüğe girdiği tarihten önce, 12 nci madde ile yürürlükten kaldırılan Tebliğ hükümleri kapsamında Yeterlik Belgesi alan kurum/kuruluşların aldığı belge vize süresi bitene kadar geçerlidir.
