@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.32.10.00-130-13214",
+  "source_id": 29004,
+  "date": "2019-07-08",
+  "title": "Uçak Donanım ekipmanları v e yedek parça alımının KDV'den istisna olup olmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/29004",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "74d47865d195ceae17ae00a27b569c1fc5f83f0555fb003227dc53a85aa945a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
