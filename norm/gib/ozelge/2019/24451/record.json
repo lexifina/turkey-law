@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[GVK.ÖZ.2019.47]-124273",
+  "source_id": 24451,
+  "date": "2019-07-08",
+  "title": "Basit Usul Mükellefin Yanında Diğer Ücreti Olarak Çalışan Kişinin 4447 Sayılı Kanunun Geçici 21. Maddesi Kapsamında Gelir Vergisi Teşviğinden Yararlanıp Yararlanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24451",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "842967d8c2ba81e08db9dfd0cf529ac55829e6f4e3e8fab328b4aee73023eb57",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
