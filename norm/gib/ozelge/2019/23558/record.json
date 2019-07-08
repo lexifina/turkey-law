@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.04[68-2019/1]-258925",
+  "source_id": 23558,
+  "date": "2019-07-08",
+  "title": "Boşanılan Eş ile Çocuğunuza Ödenen Nafakanın Gelir Vergisi Beyannamesinden İndirilip İndirilmeyeceği Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23558",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7251a081009f3c508ab8c6db12c1f8b3b5b4409dbdfd5939cc6afb07f6b88c7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
