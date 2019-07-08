@@ -1,0 +1,3 @@
+Değişiklik ve ilaveler
+MADDE 22 – (1) Hastanelerde, il müdürlüğünün izni olmadan herhangi bir değişiklik ve ilave yapılamaz. Hastanesinin faaliyet gösterdiği adresin değişmesi durumunda adres değişikliğinden etkilenen tüm başvuru evrakları yeni adrese göre düzenlenir. Düzenlenen evraklar ruhsatla birlikte dilekçe ekine konularak yeniden ruhsat düzenlenmesi için (Değişik ibare:RG-8/7/2019-30825 Mükerrer)(1) il müdürlüğüne başvurulur.
+(2) Ruhsatın kaybolması ya da yıpranması halinde durum (Değişik ibare:RG-8/7/2019-30825 Mükerrer)(1) il müdürlüğüne bir dilekçe ile bildirilir. İl müdürlüğünce yapılan incelemede durumun uygun görülmesi halinde Bakanlıkça yeni ruhsat düzenlenir.

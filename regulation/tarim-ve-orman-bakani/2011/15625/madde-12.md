@@ -1,0 +1,4 @@
+Eğitim
+MADDE 12 – (1) Hastanede görev alacak veteriner hekimler, konuları Türk Veteriner Hekimleri Birliği ile Bakanlık tarafından belirlenecek ve Türk Veteriner Hekimleri Birliği tarafından yapılacak olan hizmet içi eğitim programına katılıp, belge almak zorundadırlar.
+(2) Hastanede çalışan veteriner hekimler, yeni gelişmelere paralel olarak mesleki ve teknik bilgilerinin artırılması amacıyla Bakanlık ve bölge veteriner hekimler odası tarafından düzenlenen hizmet içi eğitime katılmakla yükümlüdür. Verilecek konularla ilgili daha önce eğitim almış olanlar, belgelemek kaydı ile bu eğitimlere katılmayabilirler.
+(3) Her türlü görüntüleme ve anestezi cihazı gibi özel bilgi ve birikim gerektiren cihazları kullanacak personel, bu cihazların kullanıldığı dallarda uzmanlık veya yeterlilik belgesine sahip olmak zorundadır.

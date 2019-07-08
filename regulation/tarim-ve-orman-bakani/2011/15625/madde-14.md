@@ -1,0 +1,3 @@
+Ürün bulundurma ve satma
+MADDE 14 – (1) Hastaneler, istenilen asgari teknik ve sağlık şartlarının sağlanması koşuluyla veteriner sağlık ürünü ile karma yem, mineral yem ve yemlik preparat gibi ürünlerin Bakanlıkça belirtilen mevzuat hükümleri doğrultusunda satışını yapabilir.
+(2) Hayvanlara yönelik olan her çeşit malzeme satışı, 7 nci maddede belirtilen bina bölümlerinin dışında ayrı bir bölümde yapılabilir. Bu bölüm, hastanenin tüm alanının %25 inden fazla alana sahip olamaz. Bu bölümlere hasta hayvan giriş ve çıkışına izin verilmez. Satışı yapılan ürünlerin teşhiri başka bölümlerde yapılamaz.

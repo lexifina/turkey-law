@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.15625",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVAN HASTANELERİ YÖNETMELİĞİ",
+  "number": "15625",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15625",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15625&MevzuatTertip=5",
+  "source_sha256": "508664a94fbcb4910bd4463564da1fc67156797aa54fb1a5c2fc673e182d70be",
+  "source_bytes": 67075,
+  "published": "2011-12-21",
+  "gazette": "28149",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2913,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15625-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
