@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.15568",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENEYSEL VE DİĞER BİLİMSEL AMAÇLAR İÇİN KULLANILAN HAYVANLARIN REFAH VE KORUNMASINA DAİR YÖNETMELİK",
+  "number": "15568",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15568",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15568&MevzuatTertip=5",
+  "source_sha256": "efef43d5fb78de3f53da489b9dcd0ffd20f70a9f73e4910deae6d53ed8710c8c",
+  "source_bytes": 162282,
+  "published": "2011-12-13",
+  "gazette": "28141",
+  "in_force": "2019-07-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9811,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15568-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

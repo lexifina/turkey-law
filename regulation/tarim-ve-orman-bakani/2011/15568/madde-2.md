@@ -1,0 +1,13 @@
+Kapsam
+MADDE 2 ‒ (1) Bu Yönetmelik,
+a) Deneysel ve diğer bilimsel amaçlar için kullanılan hayvanların korunması için;
+1) Prosedürlerde kullanılan hayvanların azaltılması, hayvan yerine kullanılabilecek alternatif metodun geliştirilmesi ile bakım, barınma, yetiştirme ve prosedürlerde kullanım şartlarının en iyi hale getirilmesini,
+2) Hayvanların menşei, üreme, bakım, barınma, kimliklendirilmesi ve öldürülmesini,
+3) Üretici, tedarikçi, kullanıcı ve araştırmaya yetkili kuruluşların işlemlerini,
+4) Gerektiğinde hayvanların prosedürlerde kullanılmasıyla ilgili projelerin değerlendirilmesi ve yetkilendirilmesini,
+b) Prosedürlerde kullanılması düşünülen veya kullanılacak hayvanlarda ya da bu hayvanların organ ve dokularının bilimsel amaçlarla kullanılması şartıyla özel olarak üretildiklerinde; sözü edilen bu hayvanlar öldürülene, ev hayvanı olarak verilene, doğal ortamlarına salıverilene veya hayvancılık sistemine verilene kadar olan süreci; ağrı, eziyet, sıkıntı ve kalıcı hasarın anestezi, analjezi veya diğer yöntemler kullanılarak başarılı bir şekilde ortadan kaldırılsa bile prosedürlerde hayvan kullanımını,
+c) İnsan-dışı canlı omurgalıların, bağımsız olarak beslenen larva formlarının ve fötal evrenin ilk üçte ikisini geçirmiş ve daha büyük memeli fötüslerinin ve canlı kafadanbacaklıların deneysel ve diğer bilimsel amaçlar için kullanımını,
+ç) Bu fıkranın (c) bendinde atıfta bulunulandan daha erken bir gelişim evresinde olsa bile söz konusu gelişim aşamasının sonrasında yaşamasına izin verilecekse ve uygulanan prosedür sonucunda normal gelişmişlik düzeyine ulaştıktan sonra ağrı, eziyet, sıkıntı ve kalıcı hasar oluşması ihtimali varsa, gelişimin daha erken aşamasında olan hayvanları,
+d) Deneysel ve diğer bilimsel amaçlar için kullanılacak hayvanların yetiştirilmesi, beslenmesi, barındırılması, bakılması; deney hayvanı üretici, tedarikçi, kullanıcı ve araştırma yetkili kuruluşlarının ruhsatlandırılması, çalışan personelin nitelikleri, tutulacak kayıtlar, ne tür hayvanların yetiştirileceği ve kuruluşların uyacağı esaslar ile bu yerlerin teknik, sağlık ve hijyenik şartlara uygun kurulması, işletilmesi, hayvanların refah ve güvenliklerinin sağlanması ile bu Yönetmelik hükümlerine uyulmaması durumunda uygulanacak işlemleri,
+kapsar.
+(2) Bu Yönetmelik; deneysel olmayan tarımsal ve klinik veterinerlik uygulamaları, veteriner sağlık ürünlerinin ruhsatı için yapılan saha denemeleri, kayıtlı veya onaylı hayvancılık işletmelerinin yapmakla yükümlü oldukları uygulamaları, birincil amacı bir hayvanın kimliklendirilmesi olan uygulamalar, iyi veterinerlik uygulamalarına uygun olarak bir iğnenin batırılmasıyla oluşan ağrıya eşit veya daha fazla ağrı, eziyet, sıkıntı ve kalıcı hasar oluşturma olasılığı bulunmayan uygulamaları kapsamaz.

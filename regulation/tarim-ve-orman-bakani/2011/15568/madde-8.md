@@ -1,0 +1,6 @@
+Hayvan refahı birimi
+MADDE 8 – (1) Her üretici, tedarikçi, kullanıcı ve araştırmaya yetkili kuruluşta bir hayvan refahı birimi kurması zorunludur.
+(2) Üretici, tedarikçi, kullanıcı ve araştırmaya yetkili kuruluşlarda hayvan refahı birimi, hayvanların refahı ve bakımından sorumlu, veteriner hekim, veteriner sağlık teknikeri veya veteriner sağlık teknisyeni unvanına sahip en az bir kişiden, kullanıcı kuruluşlarda ise bu unvanlardan birine sahip bir kişiye ilaveten biri yerel etik kurul üyesi olmak üzere en fazla üç kişiden oluşur. Hayvan refahı birimi sorumlu yönetici veya veteriner hekimden bilgi temin edebilir.
+(3) Birden fazla alanda faaliyet gösteren kuruluşlarda yalnız bir hayvan refah birimi kurulması yeterlidir. Bu birim kuruluşun izinli tüm faaliyet alanlarıyla ilgili konularda görev yapar.
+(4) Küçük üretici, tedarikçi, kullanıcı ve araştırmaya yetkili kuruluşlarda hayvan refah birimi; sorumlu yönetici ve hayvan bakımından sorumlu bir personel ile en az iki kişiden, küçük kullanıcı kuruluşlarda ise bunlara ilaveten bir yerel etik kurul üyesi olmak üzere en az üç kişiden oluşur.
+(5) Kuruluşların küçük, orta ya da büyük olarak sınıflandırılmalarına ilişkin usul ve esaslar Bakanlıkça belirlenir.

@@ -1,0 +1,7 @@
+İşaretleme ve kimliklendirme
+MADDE 36 ‒ (1) Her köpek, kedi ve insan-dışı primata en geç sütten kesildiğinde, en az ağrı verecek şekilde daimi bir bireysel kimlik işaretlemesi yapılır.
+(2) Bir köpek, kedi ve insan-dışı primatın sütten kesilmeden önce bir üretici, tedarikçi veya kullanıcıdan başka birine devredildiği ve önceden işaretlemenin pratik olmadığı durumlarda, işaretleme yapılana kadar özellikle anne ve babasına ait bilgiler, alan kuruluşa teslim edilir. Bu kuruluş tarafından da bilgiler muhafaza edilir.
+(3) Sütten kesilen ve henüz işaretlenmemiş bir köpek, kedi veya insan-dışı primatın üretici, tedarikçi veya kullanıcı tarafından alındığında, mümkün olan en kısa zamanda en az ağrı verecek şekilde daimi işaretlemesi yapılır.
+(4) İşaretlemenin mümkün olmadığı durumlarda üretici, tedarikçi ve kullanıcı kuruluşlar hayvanın işaretlenmemesinin nedenlerini denetime gelen Bakanlık temsilcilerine bildirmekle yükümlüdür. Denetçiler işaretlenmeme nedenini hayvanın sağlık ve refahını da dikkate alarak ikna edici bulmamaları durumunda hayvanın işaretlenmesi için süre vererek kuruluş yetkililerini uyarır.
+(5) Deney hayvanlarının işaretlenmesi için kuyruk, ayak parmak, kulak veya herhangi bir organının kesilmesi işaretleme veya bir yöntem olarak kabul edilemez. Türlere göre işaretleme ve kimliklendirme yöntemleri Ek-14’te verilmiştir.
+(6) Tüm genetiği değiştirilmiş hayvanlara daimi bir bireysel kimlik işareti yapılır.
