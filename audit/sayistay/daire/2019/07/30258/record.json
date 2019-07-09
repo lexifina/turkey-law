@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "384",
+  "decision_date": "2019-07-09",
+  "source_id": 30258,
+  "chamber": "5",
+  "ilam_number": "215",
+  "item_number": 27,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30258/",
+  "source_sha256": "5d3e0b0e64fa9763e26f6d8a0c655f074994c7352f3a432351dfbc52b4784bbb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
