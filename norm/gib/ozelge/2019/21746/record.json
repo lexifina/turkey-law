@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-130-259763",
+  "source_id": 21746,
+  "date": "2019-07-09",
+  "title": "Promosyon amaçlı olarak teslim edilen yazıcı ve toner teslimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/21746",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2e8a9fa96d7441190dabdbb1e0537f548ad4e35442ee1b1d7b21745f7d97a63e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
