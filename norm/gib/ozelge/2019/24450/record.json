@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-120.01.03.02[GVK: 1-2]-20472",
+  "source_id": 24450,
+  "date": "2019-07-09",
+  "title": "Arkeolojik kazı çalışmalarında çalışan işçilere Kültür ve Turizm Bakanlığı tarafından ödenen ücretler üzerinden yapılan Gelir Vergisi Tevkifatının beyanı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24450",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "3a02363d219cc98aa60223bae6127a12e68cc71b479eb804dc06c8c3157e466d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
