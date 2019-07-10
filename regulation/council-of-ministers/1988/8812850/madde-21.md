@@ -1,0 +1,2 @@
+Süresi İçinde Teslim Etmeme Hali
+Madde 21 – Üreticiler tarafından üretilen haşhaş kapsüllerinin engeç Eylül ayı sonuna kadar mahalli Ofis teşkilatına teslim edilmesi gerekir. Ürettikleri haşhaş kapsüllerini süresi içinde teslim etmeyenlerin durumları, 15 Ekim akşamına kadar kanuni kovuşturma yapılmak üzere, mahalli Cumhuriyet Savcılıklarına bildirilir. Ayrıca durum Ofis Genel Müdürlüğüne de intikal ettirilir.

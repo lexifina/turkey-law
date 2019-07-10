@@ -1,0 +1,3 @@
+Ekim ve Üretimden Vazgeçenler
+Madde 6 – Haşhaş ekiminden vazgeçenler, güzlüklerde Aralık, yazlıklarda Mart ayı sonuna kadar; izin belgesini aldıkları Ofis teşkilatına dilekçe ile müracaat ederek durumu bildirirler. Ofis bu üreticilerin izin belgelerini geri almakla beraber ekilmiş tarlaları da sahiplerine sürdürmek, biçtirmek, gömdürmek veya yaktırmak suretiyle imha ettirir.
+Ayrıca, ürünü tabii afetlerden dolayı hasar gören üreticiler de durumu bir dilekçe ile Ofise bildirirler. Bunun üzerine Ofis bu tarlaları, tarla kontrolları sırasında veya daha sonra mahallinde inceleyerek, gerek görülürse izin belgesini iptal eder.

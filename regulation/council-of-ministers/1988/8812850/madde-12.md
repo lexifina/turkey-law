@@ -1,0 +1,4 @@
+Haşhaş Ekiminin Kontrolu
+Madde 12 – Haşhaş üreticilerinin izin belgelerinde belirtilen ekiliş miktarı, üretim tahmini ve diğer hususların doğru olup olmadığı Kontrol Heyeti tarafından üreticinin huzurunda mahallen inceleme ile tesbit edilir. İnceleme ve tesbit sonucuna üreticinin bir itirazı olursa, itiraz izin belgesine aynen geçirilir ve üreticiye imza ettirilir.
+Üretici tesbit sırasında tarlasının başında bulunmaz veya temsilcisini bulundurmazsa tesbit gıyabında ve muhtar huzurunda yapılır. Keyfiyet gıyap tutanağına kaydedilir. Belgenin ikinci kısmı ilgiliye muhtar vasıtasıyla imza karşılığında tebliğ edilir (Ek: 2).
+Üreticiler, durumu muhtardan öğrendikten sonra itirazları olursa, tebliğ tarihinden itibaren 15 gün içerisinde bir dilekçe ile Ofise başvurabilirler. Bu itirazlar Ofis teşkilatı tarafından engeç bir ay içerisinde karara bağlanarak ilgiliye bildirilir.
