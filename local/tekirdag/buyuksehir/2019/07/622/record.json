@@ -1,0 +1,20 @@
+{
+  "number": "622",
+  "title": "PROJE",
+  "decision_date": "2019-07-10",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1345",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1345/622",
+  "source_sha256": "dc824d0f0684bb9c81a63073fb5bd936bb76eb6f1e15665b0a9936c8a400ce62",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2019-07-10",
+  "in_force_basis": "Official Birleşim Tarihi: 10.07.2019; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
