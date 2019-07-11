@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-105-20530",
+  "source_id": 24360,
+  "date": "2019-07-11",
+  "title": "Eğitim giderleri karşılığında mükellef adına düzenlenen faturanın Ba bildirim formuna dahil edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/24360",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a0784eb7f06f023f05e7761fa451278ddea4e84c2ad586fb9a564fba3cd3aa66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
