@@ -1,0 +1,17 @@
+Temizlik hizmeti alımı
+
+... Üniversitesi ... yılı hesabına ilişkin ... tarih ve ... sayılı ilamın ... nci maddesinde, ... Üniversitesi Misafirhane ve Sosyal Tesis Yapım İşi Sözleşmesi eki olan Özel Birim Fiyat Teknik Şartnamesinin 13 üncü maddesi gereği işin yüklenicisi tarafından tesisin kullanılabilecek şekilde temizliğinin yaptırılması gerekirken; Üniversite tarafından temizlik yaptırılarak bedelinin bütçesinden ödenmesi sonucu oluşan ... TL’lik kamu zararının Harcama Yetkilisi (Sağlık Kültür ve Spor Daire Başkanı) ... ile Gerçekleştirme Görevlisi (Şube Müdürü) ...’den müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizi ile birlikte tazminine karar verilmişti.
+
+Bu defa Gerçekleştirme Görevlisi (Şube Müdürü) ... ... tarihli (... tarih ve ... sayıda kayıtlı) dilekçesinde; Sağlık, Kültür ve Spor Daire Başkanlığının Rektörlük Makamının talimatı ve yazılı “onayı” çerçevesinde geçici kabul tarihinden sonra hizmet alımı suretiyle konferans verilecek salonun temizliğini yaptırdığını ve Konferans salonunun bulunduğu binanın yapımı, kontrolü ve sözleşme hükümlerinin uygulanmasından, dolayısıyla binanın kaba ve ince inşaat temizliğinin yükleniciye yaptırılmasından Yapı İşleri Teknik Daire Başkanlığının sorumlu olduğunu belirtmiştir.
+
+İlgili tarafından gönderilen dilekçe ile konuya ilişkin raporun incelenmesi sonucunda, “... Üniversitesi Misafirhanesi ve Sosyal Tesis Yapım İşi”nin ... tarihinde bitirildiği ve ... tarihinde de geçici kabul tutanağının düzenlendiği görülmüştür. İlama konu olan temizlik işi ise ... tarihinde yapılmıştır. Kongre nedeniyle ihtiyaç duyulan temizlik işinin geçici kabul tarihinden sonra yapıldığı ve ilgili kişilerin kasıt ve kusurlarının olmadığı anlaşıldığından 5018 sayılı Kanunun “Kamu zararı” başlıklı 71 inci maddesine göre Sağlık, Kültür ve Spor Daire Başkanlığına sorumluluk yüklenemeyeceği değerlendirilmiştir.
+
+Bu itibarla ilam konusu temizlik işi nedeniyle Sağlık, Kütür ve Spor Daire Başkanlığı personeli olan ilgili kişilerin kasıt ve kusurlarının olmadığı anlaşıldığından kamu zararı oluşmadığına ve ... sayılı ilamın ... nci maddesinde verilen ... TL tazmin hükmünün Harcama Yetkilisi (Sağlık Kültür ve Spor Daire Başkanı) ... ile Gerçekleştirme Görevlisi (Şube Müdürü) ...’in uhdelerinden 6085 sayılı Sayıştay Kanununun 56 ncı maddesinin ikinci fıkrasının (ç) bendi hükmü gereğince yargılamanın iadesi yoluyla kaldırılmasına ve sorumluların bu yönden beraatine,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla,
+
+Azınlık Görüşü:
+
+Üye ... ve ...’ın karşı oy gerekçesi:
+
+Sağlık, Kültür ve Spor Daire Başkanlığı tarafından Rektörlüğe arz edilen “olur”dan Rektörün ilam konusu kaba ve ince temizlik işlerinin yüklenici tarafından yapılması gerektiğini bilmesinin mümkün olmadığı ve kesin kabul tarihine kadar söz konusu temizlik işlerinin yükleniciye yaptırabilmesi mümkünken SKS yöneticileri tarafından Yapı İşleri Teknik Daire Başkanlığı ile iletişime geçilmeden doğrudan temin yoluyla temizlik hizmeti satın alındığı anlaşıldığından söz konusu kamu zararından Harcama Yetkilisi (Sağlık Kültür ve Spor Daire Başkanı) ... ile Gerçekleştirme Görevlisi (Şube Müdürü) ...’in sorumlu olduğu anlaşılmakta ve tazmin hükmünün devamına karar verilmesi gerektiği değerlendirilmektedir.

@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35588",
+  "decision_date": "2019-07-11",
+  "source_id": 30400,
+  "chamber": "2",
+  "ilam_number": "383",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30400/",
+  "source_sha256": "f95c44d6221cfc5ef455dff6ce302aa65c9cf73a86aab14231ce6515f49d9682",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
