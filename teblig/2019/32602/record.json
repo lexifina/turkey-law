@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.32602",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRONİK KİMLİK BİLGİSİNİ HAİZ EŞYANIN İHRACATI HAKKINDA TEBLİĞ (İHRACAT: 2019/5)",
+  "number": "32602",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/32602",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=32602&MevzuatTertip=5",
+  "source_sha256": "5709fc2f4afc57b7482bd127e58e311eae1accf2454e02a960e2f7e875abbeec",
+  "source_bytes": 19426,
+  "published": "2019-06-18",
+  "gazette": "30805",
+  "in_force": "2019-07-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-12",
+      "RG-12/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-12",
+      "12/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden 20 gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
