@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175[2018/7.1-16]-573823",
+  "source_id": 37231,
+  "date": "2019-07-12",
+  "title": "Biletle Girilen Sinema Salonlarında Ayrıca Bedele Tabi Organizasyonlarda Eğlence Vergisi Alınıp Alınmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37231",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "0177b5718910ee5849f30f5b0c69ff62452dfc16c9e8aee9f3cd4623baa6dd9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
