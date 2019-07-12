@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-07-12",
+  "issue": "30829",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7182 Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun ile Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanunda Değişiklik Yapılmasına İlişkin Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190712-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190712.htm",
+  "index_sha256": "35081464d4f767d3a545e2c1d5a6fd61ff33f8471800eeb78cc169fe1f700a5e",
+  "index_header": "12 Temmuz 2019 ... 30829 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190712.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
