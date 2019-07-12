@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7182",
+  "year": 2019,
+  "title": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanun ile Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanunda Değişiklik Yapılmasına İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-07-12",
+  "gazette_issue": "30829",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190712-1.htm",
+  "source_sha256": "590a2f8b6affccd17f0232621ff59e192008341ca5979efce8a918dc9b0ffe49",
+  "text_sha256": "aee6b61d0aa446a6d6b7c394fcb33cadee9ce038c17d66e53e4687da304a3c76",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/07/12/30829-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190712-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
