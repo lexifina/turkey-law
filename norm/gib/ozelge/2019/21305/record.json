@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-120[18-515-112]-E.49678",
+  "source_id": 21305,
+  "date": "2019-07-12",
+  "title": "Genç Girişimci Kazanç İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21305",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ec39429ee92c5d4f2afb7044fa7b9d5a092b3d46f8a12fd97be2fe9426b8baaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
