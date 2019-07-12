@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "369",
+  "decision_date": "2019-07-12",
+  "title": "MEC.KAR. ( ŞARTLI BAĞIŞ MEZARLIK YERİ ).doc",
+  "listed_as": "369 MEC.KAR. ( ŞARTLI BAĞIŞ MEZARLIK YERİ ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/369-meckar--sartli-bagis-mezarlik-yeri--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/12-temmuz-2019-meclis-kararlari",
+  "listing_sha256": "12f8fd60609396ab001267372f2136d2a4ee72cd801d929571bfcb8ffc83171d",
+  "meeting_title": "12 TEMMUZ 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
