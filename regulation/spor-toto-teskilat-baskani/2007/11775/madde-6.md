@@ -1,0 +1,3 @@
+Yatırım ve işletme giderleri
+MADDE 6 – (1) (Değişik:RG-13/7/2019-30830) Teşkilat Başkanlığının bir takvim yılı içindeki her türlü yatırım ve işletme giderlerinin toplamı, aynı dönemde elde edilen hasılat ve diğer gelirlerinin toplamının 5602 sayılı Kanunun 5 inci maddesi uyarınca belirlenen oranını geçemez.
+(2) Şans oyunlarının lisans veya işletim hakkının devri halinde, lisans veya işletim hakkı sahibi kuruluşa ödenecek paylar ile Teşkilat Başkanlığınca oynatılan müşterek bahis ve sabit ihtimalli bahis oyunları hasılatından Futbol Federasyonuna, Genel Müdürlüğe ve spor kulüplerine aktarılan tutarlar bu orana dahildir.

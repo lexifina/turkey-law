@@ -1,0 +1,9 @@
+Hasılatın dağıtımı
+MADDE 9 – (1) Müşterek bahis ve sabit ihtimalli bahis oyunlarının oynatılması karşılığında iştirakçilerden tahsil edilen tutardan Katma Değer Vergisi düşüldükten sonra kalan tutar olan hasılattan; 5602 sayılı Kanun uyarınca Şans Oyunları Vergisi ile Teşkilat Başkanlığı tarafından dağıtılması öngörülen ikramiye tutarı düşüldükten sonra net hasılat elde edilir.
+(2) Teşkilat Başkanlığının net hasılatı ile her ne ad altında olursa olsun elde ettiği diğer gelirler toplamından yatırım ve işletme giderleri düşüldükten sonra kalan tutar, kamu payı olarak Yönetmelikte öngörülen şekilde (Değişik ibare:RG-13/7/2019-30830) Hazine ve Maliye Bakanlığı merkez muhasebe birimi hesabına yatırılarak genel bütçeye gelir kaydedilir.
+(3) Teşkilat Başkanlığının yatırım ve işletme giderleri aşağıdaki unsurlardan oluşur.
+a) (Değişik:RG-13/7/2019-30830) 14/3/2009 tarihli ve 27169 sayılı Resmî Gazete’de yayımlanan Spor Toto Teşkilat Başkanlığı İsim Hakları Yönetmeliği uyarınca Teşkilat Başkanlığı tarafından oynatılan müşterek bahis ve sabit ihtimalli bahis oyunları bültenlerinde yer alan spor kulüplerine ödenen isim hakları (İsim haklarından 5/5/2009 tarihli ve 5894 sayılı Türkiye Futbol Federasyonu Kuruluş ve Görevleri Hakkında Kanunun 8 inci maddesinin birinci fıkrasının (a) bendi uyarınca isim hakkının %15’i oranında Türkiye Futbol Federasyonuna pay aktarılır.),
+b) (Değişik:RG-13/7/2019-30830) Ruhsat verilen bayilere ödenen komisyon ve ikramiye ödeme primi,
+c) Merkezi bahis sistemi ve risk yönetim merkezinin kurulması ve işletilmesi ile başbayilik iş ve hizmetlerinin özel hukuk tüzel kişilerine yaptırılması amacıyla yapılan sözleşmeler uyarınca ödenen pay,
+ç) (Değişik:RG-17/3/2010-27524) Aylık hasılat toplamının %10’unu geçmemek üzere, yönetim kurulunca belirlenip (Değişik ibare:RG-13/7/2019-30830) Bakanlığa ödenen pay,
+d) Diğer yatırım ve işletme giderleri.
