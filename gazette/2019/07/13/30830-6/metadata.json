@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-07-13",
+  "issue": "30830",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türk Gıda Kodeksi Hayvansal Gıdalarda Bulunabilecek Farmakolojik Aktif Maddelerin Sınıflandırılması ve Maksimum Kalıntı Limitleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190713-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190713.htm",
+  "index_sha256": "5c585e117ae6ae04de667d5e8a1fbd3a10c971bc3c6cd925d37e6939fe513242",
+  "index_header": "13 Temmuz 2019 ... 30830 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190713.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
