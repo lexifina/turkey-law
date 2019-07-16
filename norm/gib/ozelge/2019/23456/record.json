@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-120[63-2018/20-685]-52727",
+  "source_id": 23456,
+  "date": "2019-07-16",
+  "title": "Toptan olarak yapılan askerlik borçlanması ödemelerinin ücretin safi tutarının tespitinde gelir vergisi matrahından indirilip indirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23456",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "696227bf930f7a464474712e7db488613affb39476d770aa8f0d444bc3e367a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
