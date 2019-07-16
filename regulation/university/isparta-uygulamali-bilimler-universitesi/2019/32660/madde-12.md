@@ -1,0 +1,4 @@
+Başarı değerlendirmesi
+MADDE 12 – (1) Yaz okulunda üniversitenin bölüm/programlarından alınan derslerin başarı durumlarının değerlendirilmesi, 13/12/2018 tarihli ve 30624 sayılı Resmî Gazete’de yayımlanan Isparta Uygulamalı Bilimler Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği ile 3/3/2019 tarihli ve 30703 sayılı Resmî Gazete’de yayımlanan Isparta Uygulamalı Bilimler Üniversitesi Lisansüstü Eğitim Enstitüsü Eğitim-Öğretim Yönetmeliğinde belirtildiği şekilde yapılır.
+(2) Tekrarlanan derste önceki not ne olursa olsun alınan son not geçerlidir.
+(3) Yabancı dil hazırlık sınıfı hariç, diğer yükseköğretim kurumlarından yaz okulunda ders alan öğrencilerin notlarının uyarlanması, Isparta Uygulamalı Bilimler Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin ilgili hükümleri dikkate alınarak ilgili Yönetim Kurulu tarafından yapılır.

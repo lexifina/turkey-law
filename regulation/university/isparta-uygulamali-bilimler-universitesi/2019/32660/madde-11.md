@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 11 – (1) Yabancı dil hazırlık sınıfı ve ortak zorunlu dersler hariç, yaz okulunda öğrencinin bir dersin yarıyıl/yıl sonu sınavına girebilmesi için teorik derslerin en az %70’ini, varsa uygulama ve laboratuvarın en az % 80’ini takip etmesi gerekir.
+(2) Bir dersin bulunduğu eğitim-öğretim döneminde devam zorunluluğunun yerine getirilmiş olması bu dersin yaz okulunda devam zorunluluğunu ortadan kaldırmaz. Bununla birlikte, dersin bulunduğu dönemde devam yükümlülüğünü yerine getirmiş, ancak yaz okulunda devamsız olan öğrenciler ile dersi ilk kez yaz okulunda alan ve devam yükümlülüğünü yerine getiren öğrenciler normal döneminde bu dersin devamını almak zorunda değildir.
