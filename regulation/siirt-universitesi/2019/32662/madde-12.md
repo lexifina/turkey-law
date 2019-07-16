@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkez projelerine özel uzmanlık alanlarında katkı sağlamak amacıyla Üniversiteye bağlı birimlerden ve istekleri halinde ilgili kamu ve özel sektör kurum ve kuruluş temsilcileri ve uzmanlar arasından, Yönetim Kurulunca belirlenen sayıda ve öngörülen süre için Rektör tarafından görevlendirilir. En fazla yedi kişiden oluşur. Gerektiğinde, Müdürün çağrısı üzerine ve Müdürün Başkanlığında toplanır.
