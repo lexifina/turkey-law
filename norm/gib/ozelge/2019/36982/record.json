@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.02-175.01[4-2017-14]-267863",
+  "source_id": 36982,
+  "date": "2019-07-16",
+  "title": "Organize Sanayi Bölgesinde Bulunan ve Şirket Ortağına Ait Binanın Şirket Tarafından Kiralanmasında Emlak Vergisi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36982",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "fe57d6232843a299cca8166452275def1599c5d9abd8db0fbd6782fa8a47d090",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
