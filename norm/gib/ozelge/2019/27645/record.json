@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.07.16.02-130[KDV-2016-180]-130152",
+  "source_id": 27645,
+  "date": "2019-07-16",
+  "title": "Sağlik hizmeti sunanların birbirlerine yapacakları mal ve hizmet satışlarına vergi uygulamaları.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27645",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2d34f93f8faedf6cec6ac29cec98ef78cb597acd69e1c49054fbdfd5c4a1da1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
