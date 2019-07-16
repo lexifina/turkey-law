@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.20621",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SÜREKLİ ATIKSU İZLEME SİSTEMLERİ TEBLİĞİ",
+  "number": "20621",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2015/20621",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20621&MevzuatTertip=5",
+  "source_sha256": "9bd7d8f16a0807c6470add9ca352283925d49f911ecacb98d099310a84ec933b",
+  "source_bytes": 108682,
+  "published": "2015-03-22",
+  "gazette": "29303",
+  "in_force": "2019-07-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-16",
+      "RG-16/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-16",
+      "16/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5601,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

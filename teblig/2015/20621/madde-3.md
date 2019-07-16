@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 12 nci maddesi, 29/6/2011 tarihli ve 644 sayılı Çevre ve Şehircilik Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesinin (b) ve (c) bentleri ve 31/12/2004 tarihli ve 25687 sayılı Resmî Gazete’de yayımlanan Su Kirliliği Kontrolü Yönetmeliğinin 54 üncü maddesine dayanılarak hazırlanmıştır.

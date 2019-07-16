@@ -1,0 +1,3 @@
+SAİS geçiş süreci
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girdiği tarihte Bakanlığın 2012/24 sayılı Genelgesi ile arıtma tesisi çıkışlarına Gerçek Zamanlı Atıksu İzleme Sistemi kurulumunu tamamlamış tesisler, bu Tebliğin yayımlandığı tarihten itibaren en geç 4 ay içerisinde bu Tebliğde yer alan hükümlere göre sistemlerini uygun hale getirerek KOİ, AKM parametreleri için ölçüm cihazları ve SAİS Numune Alma Cihazını mevcut sistemlerine entegre etmekle yükümlüdür.
+(2) (Değişik:RG-16/7/2019-30833) Kurulu kapasitesi 5.000 m3/gün ve üzerinde olan ve kurulu kapasitesi itibari ile ilk kez Tebliğ kapsamına alınan tesisler, bu Tebliğin yürürlüğe girdiği tarihten itibaren, en geç 2 yıl içerisinde arıtma tesisleri çıkışlarına bu Tebliğ hükümlerine göre SAİS kurmakla yükümlüdür.
