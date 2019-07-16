@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.32665",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "6502 SAYILI TÜKETİCİNİN KORUNMASI HAKKINDA KANUNUN 77 NCİ MADDESİNDE YER ALAN GAYRİSAFİ GELİRİN TESPİTİNE İLİŞKİN TEBLİĞ",
+  "number": "32665",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/32665",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=32665&MevzuatTertip=5",
+  "source_sha256": "f32ec8a0f311f328e73979ff6450da6f077fb658a195cd0f6f26b0b2560e090e",
+  "source_bytes": 17111,
+  "published": "2019-07-16",
+  "gazette": "30833",
+  "in_force": "2019-07-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.07.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 793,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
