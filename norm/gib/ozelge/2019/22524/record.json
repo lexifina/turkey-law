@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.48.15.01-125[6-15/15]-84986",
+  "source_id": 22524,
+  "date": "2019-07-16",
+  "title": "Servis Aracı Olarak Alınan Araç İçin Ödenen KDV ile ÖTV''nin Doğrudan Gider Yazılıp Yazılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22524",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e3341a8fe5efc96d2a86cfd11c68d00b485f66c1e264f2ee8c01408ae9e9394a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
