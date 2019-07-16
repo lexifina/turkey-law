@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-180[18-1]-130030",
+  "source_id": 36714,
+  "date": "2019-07-16",
+  "title": "Yeni kurulan, sanayi sicil belgesi almamış olan sanayi işletmesinin imalat ve üretim faaliyetlerinde kullanacağı yeni makine ve teçhizatın finansmanı için kullandığı kredide BSMV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36714",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5b3b7e02321efe706cf812d444ab9814819feaa0978550bc6ccc245ccc5b408e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
