@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-155[1-2017/20-550]-52737",
+  "source_id": 34597,
+  "date": "2019-07-16",
+  "title": "6306 sayılı Kanun kapsamında damga vergisi, noter harcı ve BSMV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34597",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "763d5714c4777f1242c5f045a78fe4fa4eab7e397497a99f7e161df4dba23acb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
