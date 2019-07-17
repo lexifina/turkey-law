@@ -1,0 +1,20 @@
+{
+  "applicant": "E.K.",
+  "application_date": "2013-10-02",
+  "application_number": "2013/7637",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-07-17",
+  "id": "ef0b74a8-40a4-70da-83a5-7f50b3f89234",
+  "in_force": "2019-07-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmVmMGI3NGE4LTQwYTQtNzBkYS04M2E1LTdmNTBiM2Y4OTIzNA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "93412e481b9fc0bbe608c31beabb5d636e6758cedacc5eea33830404a782fc23",
+  "version_label": "as-enacted"
+}
