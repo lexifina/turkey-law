@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.32668",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRKİYE BİNA DEPREM YÖNETMELİĞİ KAPSAMINDA YAPILACAK BİNALARLA İLGİLİ UYGULAMA ESASLARINA DAİR TEBLİĞ",
+  "number": "32668",
+  "issuer": "Afet ve Acil Durum Yönetimi Başkanlığının bağlı olduğu Bakan",
+  "path": "teblig/2019/32668",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=32668&MevzuatTertip=5",
+  "source_sha256": "01c799dc9b29bed7ccba53f5f8401b1e62c57528c7cdf6a16a5e550117890b00",
+  "source_bytes": 12635,
+  "published": "2019-07-17",
+  "gazette": "30834",
+  "in_force": "2019-07-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.07.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 396,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
