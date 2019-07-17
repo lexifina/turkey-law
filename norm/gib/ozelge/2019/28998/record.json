@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63852321-130[1-2018/20-1455]-53283",
+  "source_id": 28998,
+  "date": "2019-07-17",
+  "title": "Hak sahiplerinden teslim alınan arazinin parselasyon sonrası %40 ının hak sahiplerine geri verilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28998",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "63032d2817ff0e90d1b93e6b6c4775245d32c39fa1552f8d488548d119a06e37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
