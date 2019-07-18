@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[2018/1411]-E.271020",
+  "source_id": 25366,
+  "date": "2019-07-18",
+  "title": "Damacana ile su satışı faaliyetinde bulunan mükellefin defter tutma sınıfının belirlenmesinde dikkate alınacak iş hacminin tespitinde, damacana bedellerinin dikkate alınıp alınmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25366",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "2fd4151c91677ec37e541845f7bcdc7e7708392ee26c6a3c59595381df5ec0bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
