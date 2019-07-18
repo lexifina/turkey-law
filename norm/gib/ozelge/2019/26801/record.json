@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-105[VUK.ÖZLG-2018-96]-E.132425",
+  "source_id": 26801,
+  "date": "2019-07-18",
+  "title": "Fabrika binası, ofis-iş yeri binası, depo, bina dışı yapı (ulaşım alt yapıları, yürüyüş yolu, otopark, çevre düzenleme alanı, istinat duvarı) maliyet bedelinin hesabında, üzerine inşa edildikleri arsa maliyet bedelinin dedikkate alınıp alınmayacağı ile söz konusu iktisadi kıymetlerin amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26801",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "bd8971ad132f5eb4dd42f6de0b2702879b4bc2f687bca0bcb0457a1fbe7606df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
