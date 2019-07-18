@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-07-18",
+      "18.07.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30835",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-07-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "issuer_slug": "fatih-sultan-mehmet-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/fatih-sultan-mehmet-vakif-universitesi/2019/32672",
+  "published": "2019-07-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=32672&MevzuatTertip=5",
+  "source_bytes": 27345,
+  "source_id": "8.5.32672",
+  "source_sha256": "8d5448d03dc8255c66f43776e1ddfc645a7633778ec98db8a82db61db582e383",
+  "text_status": "as-enacted",
+  "title": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ İSLAMÎ SANATLAR\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 359,
+  "word_count": 1300
+}
