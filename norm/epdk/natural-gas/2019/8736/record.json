@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8736",
+  "decision_date": "2019-07-18",
+  "title": "Çinigaz Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-20",
+  "resmi_gazete_number": "30837",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=slvfsogrMko=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=slvfsogrMko=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Uncd8nL5Kd4="
+  ],
+  "source_sha256": "60fa2c154e9a2bb68252f824a29abb0a0ee80493f34fd794eb47d66b9c8549dd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-18",
+  "law_text_complete": true
+}
