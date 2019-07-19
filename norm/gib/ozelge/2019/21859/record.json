@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[235-2019-245]-244201",
+  "source_id": 21859,
+  "date": "2019-07-19",
+  "title": "Kendi çiftliğindeki hayvanlardan elde edilen sütle yapılan yoğurt ve peynir üretimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21859",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7f94fa78ce6bd5b48abe6a6b08fc514074266dbe66748faeaf5ff828f3378b72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
