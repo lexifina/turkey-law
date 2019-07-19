@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.01-105[3]-14081",
+  "source_id": 22296,
+  "date": "2019-07-19",
+  "title": "TFRS'ye göre düzenlenen finansal tablolardaki zarardan ötürü sermayenin 2/3 oranında yitirilmesi nedeniyle ortak tarafından karşılanan kısmın KV tabi olup olmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22296",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b8f6237759c5c76e2b276fdc955dfadaf19053e67e460423cb0f8a893b4246f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
