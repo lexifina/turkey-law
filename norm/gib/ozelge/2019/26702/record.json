@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[262-2019-172]-E.244200",
+  "source_id": 26702,
+  "date": "2019-07-19",
+  "title": "GMSİ'ye ilişkin verilecek beyannamede, gerçek gider yönteminin seçilmesi durumunda, arsa karşılığı alınan ve maliyet bedeli belli olmayan kiralamaya konu gayrimenkulün iktisap tarihinin ve iktisap bedelinin nasıl belirleneceği ile amortismana esas değeri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26702",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4ef21a17de2a7cf7827f57b44145b3892c44049204223f0217d2d9587769b7a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
