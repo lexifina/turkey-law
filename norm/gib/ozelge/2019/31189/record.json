@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-590344",
+  "source_id": 31189,
+  "date": "2019-07-19",
+  "title": "Eurobond karşılığı olarak konut ve iş yeri satışının KDV Kanununun 13/i maddesi kapsamında değerlendirilip değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31189",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "f2ec71700cf171153b8052c72f984877ed2dc90df3b8a02f2d9f9d91fca7bbd5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
