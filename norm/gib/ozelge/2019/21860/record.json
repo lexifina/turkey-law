@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[70-19/2]-244204",
+  "source_id": 21860,
+  "date": "2019-07-19",
+  "title": "Yaz sezonunda 4-5 aylığına kiraya verilen gayrimenkulden elde edilen gelirin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21860",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "843ba5513a7cce430f305a41234d6df9debb1b68c2e1a0d1666dc342bd4421b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
