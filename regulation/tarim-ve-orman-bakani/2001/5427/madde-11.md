@@ -1,0 +1,5 @@
+I Sayılı Listede Yer Alan Türlere Ait Yeniden İhracat
+Madde 11- (Başlığı ve 1. fıkrası değişik: RG 6/8/2004-25545) (Değişik cümle:RG-20/7/2019-30837) I sayılı liste kapsamındaki bir türe ait örneğin yeniden ihraç edilebilmesi için; I-A sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Balıkçılık ve Su Ürünleri Genel Müdürlüğü ve Bitkisel Üretim Genel Müdürlüğünden, I-B sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Doğa Koruma ve Milli Parklar Genel Müdürlüğü ve Orman Genel Müdürlüğünden, Ek-I’de yer alan forma uygun olarak, CITES Belgesinin alınması zorunludur. CITES Belgesi;
+a) Yönetim Mercii tarafından türe ait örneğin, bu Yönetmeliğin kurallarına göre ithal edildiğinin tespit edilmesi,
+b) Canlı örneğin yaralanmadan, sağlığı zarar görmeden ve kötü muameleye maruz kalmadan sevk edileceğinin Yönetim Merciine taahhüt edilmesi,
+c) Canlı örnek için ithalatçı ülkenin Yönetim Mercii tarafından düzenlenmiş CITES Belgesinin ilgili Yönetim Merciine ibraz edilmesi, durumunda verilir.

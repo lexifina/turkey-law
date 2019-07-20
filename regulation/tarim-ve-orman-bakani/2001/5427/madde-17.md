@@ -1,0 +1,7 @@
+II Sayılı Listede Yer Alan Türlere Ait Örneklerin Denizden Girişi
+Madde 17–(Değişik fıkra: RG 6/8/2004-25545) (Değişik cümle:RG-20/7/2019-30837) II sayılı liste kapsamındaki bir türe ait örneğin denizden girişi için; II-A sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Balıkçılık ve Su Ürünleri Genel Müdürlüğü ve Bitkisel Üretim Genel Müdürlüğünden, II-B sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Doğa Koruma ve Milli Parklar Genel Müdürlüğü ve Orman Genel Müdürlüğünden, Ek-I’de yer alan forma uygun olarak, CITES Belgesinin alınması zorunludur. CITES Belgesi;
+a) İlgili Yönetim Mercii tarafından, Bilimsel Mercinin, bu girişin söz konusu türün neslinin devamına zarar vermeyeceğine ilişkin görüşünün alınması,
+b) Canlı örneğin yaralanmadan, sağlığı zarar görmeden ve kötü muameleye maruz kalmadan sevk edileceğinin Yönetim Merciine taahhüt edilmesi,
+c) Bilimsel Mercinin, ithalatın ülkenin doğal türleri üzerine olumsuz etkisi olmayacağına ilişkin yazılı görüş vermesi,
+durumunda verilir.
+Bilimsel Merciin, gerek duyduğu durumlarda, bilim adamları veya Sözleşmeye taraf devletlerin bilimsel mercileri ile istişarede bulunmak suretiyle, bir yılı aşmayan süreler için girişi yapılacak örnek miktarını belirleyebilir. Bu durumda, denizden giriş için CITES Belgesi düzenlenirken bu husus da dikkate alınır.

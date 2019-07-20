@@ -1,0 +1,5 @@
+El Koyma
+Madde 36-Yönetmelik kapsamında yer alan bir türe ait örneğin, Yönetmelik hükümlerine aykırı olarak elde edildiği veya ticarete konu olduğunun gümrük idaresi ya da ilgili Yönetim Mercii tarafından tespit edilmesi durumunda, örneğe el koyulur. Gümrük idarelerince el koyulan örnekler için gerekli işbirliğini sağlamak üzere, derhal ilgili Yönetim Merciine bilgi verilir. El koyulan örnekler, yürürlükteki mevzuat çerçevesinde sağlık açısından kontrolleri yapıldıktan sonra, ilgili Yönetim Merciinin en yakın birimine teslim edilir.
+Örneklere el koyma sonucunda oluşan nakliye, depolama ve muhafaza masrafları ile canlı hayvan ve bitkilere el koyma süresince yapılan koruma masrafları, Yönetmelik hükümlerine aykırı hareket edenlerden tahsil edilir.
+Canlı örneğin ülkesine iadesi için, Yönetim Mercii ilgili ülke ile temasa geçer ve masraflar söz konusu ülke tarafından karşılandığı veya Yönetmelik hükümlerine aykırı hareket edene ödetildiği takdirde, örnekler iade edilir.Geri gönderilemeyen örnekler için, Bakanlık gerektiğinde Bilimsel Merci ve Sekreterya ile temasa geçer ve canlı örnekler için uygun bir kurtarma merkezi belirler.
+(Mülga fıkra: RG 6/8/2004-25545)

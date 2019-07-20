@@ -1,0 +1,25 @@
+Tanımlar
+Madde 4 — (Değişik: RG 6/8/2004-25545)
+Bu Yönetmelikte geçen;
+Bakanlık: (Değişik:RG-20/7/2019-30837) Tarım ve Orman Bakanlığını,
+Sözleşme (CITES): 20/6/1996 tarihli ve 22672 sayılı Resmî Gazete’de yayımlanarak, 22/12/1996’da ülkemizde yürürlüğe giren Nesli Tehlike Altında Olan Yabani Hayvan ve Bitki Türlerinin Uluslararası Ticaretine İlişkin Sözleşmeyi,
+Sekreterya: Sözleşme Sekreteryasını,
+Yönetim Mercii: Yönetmeliğin 6 ncı maddesinde belirtilen, CITES Belgesi düzenlemek ve bu kapsamda gerekli işlemleri yürütmekle yükümlü olan kurumları,
+Bilimsel Mercii: Yönetmeliğin 7 nci maddesindeki görevleri yapmakla sorumlu olan, Türkiye Bilimsel ve Teknik Araştırma Kurumu Başkanlığını (TÜBİTAK),
+Yetkili İdare: Sözleşmeye taraf olmayan devletlerle yapılan ticarette, muhatap alınan resmi kurum ya da kuruluşu,
+Ticaret: Yönetmelik kapsamında yer alan bir türe ait örneğin ithalatı, ihracatı, transiti, yeniden ihracatı ve denizden girişini,
+Yeniden ihracat: Yönetmelik hükümlerine uygun olarak ithal edilmiş olan bir türe ait örneğin ihraç edilmesini,
+Denizden giriş: Herhangi bir devletin yetki alanı dışındaki deniz üstü, deniz içi, deniz tabanı ve hava sahası ortamlarından elde edilen bir türe ait örneğin ülkeye sokulmasını,
+Tür: Birbirlerine benzeyen, sadece kendi aralarında verimli gen alışverişi yapabilen (üreyebilen) bireylerin oluşturduğu populasyonu,
+Populasyon: Biyolojik ve coğrafik olarak ayrı özellikteki bireylerin topluluğunu,
+Alt Tür: Bir tür içinde, bazı ayırıcı karakterler ile birbirinden ayrılan bireylerden oluşan topluluğu,
+Örnek: Yönetmelik kapsamında yer alan canlı veya ölü hayvan veya bitki türünü, bunların kolayca tanınabilir herhangi bir parçasını ya da türevini,
+Suni Yolla Üretilmiş Bitki: Anaç materyalden, kültür ortamında üretilen bitkiyi,
+Kontrol Altında Üretilen Hayvan: Kontrollü bir çevrede doğan ya da başka yolla üretilen hayvanları,
+Menşe Ülke: Yönetmelik kapsamında yer alan bir türe ait örneğin, doğal ortamından alındığı, denizden giriş yaptığı, suni veya kontrol altında üretildiği ülkeyi,
+Zati Eşya veya Ev Eşyası Sayılan Örnek: Ticari amaç için kullanılmayacak olan, özel bir şahsa ait eşyaların bir kısmını oluşturan veya oluşturması amacını taşıyan, Yönetmelik kapsamında yer alan türlere ait ölü örnekleri, parçaları ve türevleri,
+Orman Ürünleri: Her çeşit ağaç, ağaççık ve çalılardan elde edilen oduna müteallik üründür. Tomruk, direk, sanayi odunu, kağıtlık odun, lif-yonga odunu, sırık, çubuk, çıra, kök, yakacak odun ve benzerleri gibi,
+Transit Geçiş: Serbest dolaşıma girmemiş eşyanın, gümrük gözetimi altında Türkiye Gümrük Bölgesi içinde hareketini,
+CITES Belgesi: Yönetmeliğin I, II ve III sayılı listelerinde yer alan bir türe ait örneğin ihracat, ithalat, yeniden ihracatı ve denizden girişinde, yönetim merciileri tarafından düzenlenen, bu kapsamda yapılan işlemler sırasında taraf devletlerin yönetim merciileri ve gümrük idarelerince aranan, Sözleşme hükümlerine uygun formatta düzenlenen ve Ek-I’de yer alan formu,
+(Ek:RG-20/7/2019-30837) Tek Pencere Sistemi: Gümrük işlemleri sırasında istenen tüm belgelerin tek noktadan temin edilmesini ve gümrük işlemlerinin tek noktaya yapılacak başvuru ile yürütülerek tamamlanmasını sağlayan sistemi,
+ifade eder.

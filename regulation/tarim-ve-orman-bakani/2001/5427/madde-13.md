@@ -1,0 +1,2 @@
+I Sayılı Listede Yer Alan Kontrol Altında Üretilen Hayvanlar ve Suni Yolla Üretilen Bitkilerin Ticareti
+Madde 13 —(Başlığıyla beraber değişik: RG 6/8/2004-25545) İlgili Yönetim Mercii tarafından tescil edilmiş olması kaydıyla I sayılı liste kapsamındaki bir hayvan türünün ticari amaç için kontrol altında üretilen örneği ile, I sayılı liste kapsamındaki bir bitki türünün ticari amaç için suni yolla üretilmiş örneği, II sayılı liste kapsamındaki bir türün örneği gibi işlem görür.

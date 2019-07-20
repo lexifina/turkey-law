@@ -1,0 +1,4 @@
+Zati Eşya ve Ev Eşyası Sayılan Örnekler
+Madde 25-Yönetmeliğin 3, 4 ve 5 inci Bölümlerinde yer alan hükümler, zati eşya veya ev eşyası sayılan ölü örneklere, parçalara ve türevlere uygulanmaz. Bu muafiyet aşağıdaki hususları kapsamaz;
+a) I sayılı liste kapsamındaki bir türe ait örnek söz konusu olduğunda; örneğin sahibi, bu örneği ikamet ettiği ülke dışından almış ve ikamet ettiği ülkeye götürüyorsa,
+b) II sayılı liste kapsamında bir türe ait canlı örnek söz konusu olduğunda; örneğin sahibi, bu örneği ikamet ettiği ülke dışındaki bir ülkenin yabani ortamından ayırmışsa veya örnek sahibi tarafından ikamet ettiği ülkeye götürülüyorsa ya da her iki durum birlikte söz konusu ise, bu durumlarda örnek, hangi ülkenin doğal ortamından alınmışsa, o devletin Yönetim Merciinden söz konusu örneğin ihracından önce CITES Belgesi alınması gerekir.

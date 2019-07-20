@@ -1,0 +1,4 @@
+II Sayılı Listede Yer Alan Türlere Ait Örneklerin İthalatı
+Madde 15–(Değişik fıkra:RG-20/7/2019-30837) II sayılı liste kapsamındaki bir türe ait örneğin ithali için; II-A sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Balıkçılık ve Su Ürünleri Genel Müdürlüğü ve Bitkisel Üretim Genel Müdürlüğünden, II-B sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Doğa Koruma ve Milli Parklar Genel Müdürlüğü ve Orman Genel Müdürlüğünden, Ek-I’de yer alan forma uygun olarak, CITES Belgesinin alınması zorunludur.
+(Değişik fıkra: RG 6/8/2004-25545) İthalata ilişkin CITES Belgesi, ihracat ya da yeniden ihracat yapan ülkenin Yönetim Mercii tarafından düzenlenmiş CITES Belgesinin ilgili Yönetim Merciine ibraz edilmesi halinde düzenlenir.
+Yönetim Mercii gerekli gördüğü takdirde, Bilimsel Merciden yazılı görüş alabilir.

@@ -1,0 +1,2 @@
+Sözleşme Öncesi Türlere Ait Örnekler
+Madde 28- Bir türün Türkiye'nin Sözleşmeye taraf olduğu tarihten önce elde edildiğinin veya bu tarihten sonra olmakla birlikte o türün CITES Sözleşmesi ekindeki listeye dahil edildiği tarihten önce elde edilmiş olduğunun tespiti halinde, ilgili Yönetim Mercii tarafından bu hususu doğrulamak üzere bir belge verilmesi durumunda, Yönetmeliğin 3, 4 ve 5 inci bölümlerinde yer alan hükümler, söz konusu örneğe uygulanmaz.

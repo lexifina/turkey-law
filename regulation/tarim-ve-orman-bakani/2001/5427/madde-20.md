@@ -1,0 +1,3 @@
+III Sayılı Listede Yer Alan Türlere Ait Yeniden İhracat (Değişik başlık: RG 6/8/2004-25545)
+Madde 20—(Değişik:RG-20/7/2019-30837)
+III sayılı liste kapsamındaki bir türe ait örneğin yeniden ihracatının yapılabilmesi için; III-A sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Balıkçılık ve Su Ürünleri Genel Müdürlüğü ve Bitkisel Üretim Genel Müdürlüğünden, III-B sayılı listedeki bir türe ait örnek için Yönetmeliğin 6 ncı maddesinde belirtilen tür dağılımına göre Doğa Koruma ve Milli Parklar Genel Müdürlüğü ve Orman Genel Müdürlüğünden, örneğin ülkemizde işlem gördüğüne veya yeniden ihraç edildiğine dair bir CITES Belgesi alınır.

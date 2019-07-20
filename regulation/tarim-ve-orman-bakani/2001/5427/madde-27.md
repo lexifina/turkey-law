@@ -1,0 +1,3 @@
+Gezici Canlı Hayvan Sergileri
+Madde 27-Yönetmelik kapsamında yer alan canlı hayvan örneklerinin; sirkler, gezici hayvanat bahçeleri ve diğer hayvan sergilerinde yer alması durumunda, bu hayvanların Sözleşmenin ilk yürürlüğe girdiği tarih olan 1 Temmuz 1975'ten önce veya türün Sözleşmenin herhangi bir listesine ilk dahil edildiği tarihten önce elde edilmiş olduğunun ya da bu canlı hayvan örneklerinin, yetiştirilen hayvan olduklarının Yönetim Mercii tarafından belgelenmesi halinde, Yönetmeliğin 3, 4 ve 5 inci bölümlerinde yer alan hükümler uygulanmaz.
+Canlı hayvan örneği için, Sözleşme öncesine ait veya yetiştirilen hayvan olduğuna dair Yönetim Mercii tarafından verilen belge, en fazla 3 yıl geçerli olur.
