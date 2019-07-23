@@ -1,0 +1,20 @@
+{
+  "applicant": "H.G.",
+  "application_date": "2017-03-01",
+  "application_number": "2017/14716",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2019-05-29",
+  "id": "63deb904-9c92-bf86-5be8-0eaa3c46fd50",
+  "in_force": "2019-07-23",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2019-07-23",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjYzZGViOTA0LTljOTItYmY4Ni01YmU4LTBlYWEzYzQ2ZmQ1MA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "576ac09ba90137990fbd7938c38e07fd269ee970898ee2b8fa7a2d0c07b87bf4",
+  "version_label": "as-enacted"
+}
