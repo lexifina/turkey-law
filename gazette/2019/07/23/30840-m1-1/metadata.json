@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-07-23",
+  "issue": "30840",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1225 On Birinci Kalkınma Planının (2019-2023) Onaylandığına İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723M1.htm",
+  "index_sha256": "6a302ad60b0154edcec849d5350b06c41762a894e1e04827238abfa8a2917420",
+  "index_header": "23 Temmuz 2019 ... 30840 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
