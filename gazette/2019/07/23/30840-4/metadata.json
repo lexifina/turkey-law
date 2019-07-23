@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-07-23",
+  "issue": "30840",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1226 Türkiye Büyük Millet Meclisinin Tatile Girmesine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723-4.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723.htm",
+  "index_sha256": "2e0c6957d4dd0530f054f4fc931163eccd0dacd232a375dc43cab564f80d0846",
+  "index_header": "23 Temmuz 2019 ... 30840 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190723.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item page not HTML"
+}
