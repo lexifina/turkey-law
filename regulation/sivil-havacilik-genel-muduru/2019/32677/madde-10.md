@@ -1,0 +1,4 @@
+Sicilden terkin ve tasfiye işlemleri
+MADDE 10 – (1) Kaza durumunda Ulaşım Emniyeti İnceleme Merkezi Başkanlığı tarafından, kaza dışındaki durumlarda ise oluşturulan ekip tarafından Türk siciline kayıtlı hava aracının itibari ya da fiilî harabiyete uğradığına dair rapor verilmesi halinde, ilgili hava aracı üzerindeki her türlü vergi borcu ve gümrük mevzuatından doğan yükümlülükler ile diğer takyidatlara bakılmaksızın sicilden terkini yapılarak hava aracı hurdaya ayrılır.
+(2) Yabancı sicile kayıtlı hava aracı hakkında, 2920 sayılı Kanun ve ilgili ülkedeki uygulamalar da gözetilerek Dışişleri Bakanlığının görüşü doğrultusunda işlem yapılır.
+(3) Terkin işleminden sonra, Türk siciline kayıtlı hava aracının sicil kaydında takyidat bulunması halinde Genel Müdürlük tarafından ilgili icra müdürlükleri ve ilgili kamu kurum ve kuruluşlarına, terkin işleminin yapıldığı ve hurda olarak hava aracının satışının yapılacağı hususunda bilgi verilir.

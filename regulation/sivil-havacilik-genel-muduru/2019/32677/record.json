@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32677",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVAALANLARINDA BEKLEYEN HAVA ARAÇLARININ TERKİNİ, HURDAYA AYRILMASI, TASFİYE VE ÖDEME İŞLEMLERİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK (SHY HURDA)",
+  "number": "32677",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2019/32677",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32677&MevzuatTertip=5",
+  "source_sha256": "054bcb62f42c0213a769144ef6773c0d53a56b888a519ce3a76be687dbfffd5a",
+  "source_bytes": 20382,
+  "published": "2019-07-24",
+  "gazette": "30841",
+  "in_force": "2019-07-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.07.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 936,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
