@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[23-2018/]-599423",
+  "source_id": 21405,
+  "date": "2019-07-24",
+  "title": "Amatör sporculara yönelik istisnanın uygulanması ve asgari ücret ifadesinde, ücretin net tutar mı brüt tutar mı olarak dikkate alınacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21405",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "9b4d6e09c20a635175e6fab6ee97cfc5626b5ea7fde86e13139a9aa5a9ee0301",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
