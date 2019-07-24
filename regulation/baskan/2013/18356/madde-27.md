@@ -1,0 +1,2 @@
+Yurt dışında eğitim
+MADDE 27 – (1) Uzmanlar, 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurtdışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde, staj veya araştırma yapmak, mesleki bilgi ve görgülerini artırmak, lisansüstü eğitim yapmak amacıyla yurtdışına gönderilebilirler.
