@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2018/1256]-599580",
+  "source_id": 22523,
+  "date": "2019-07-24",
+  "title": "Veri cihazı için yapılan harcamanın gider olarak dikkate alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22523",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "15ee918342313c118ae0eeec419ff722d4c4c6a3f5670552e313a112b39d7155",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
