@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-130-32658",
+  "source_id": 32256,
+  "date": "2019-07-25",
+  "title": "HGS ve OGS otoyol geçişlerinde KDV hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32256",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "27f2954feb2e3c1fb6d13f7f4b4fe220bd90df784d77a8e5c013f9568b6e85b6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
