@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8752",
+  "decision_date": "2019-07-25",
+  "title": "Aksa Çukurova Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=izyG/dRcA6s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=izyG/dRcA6s=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9fXNo9SHMHA="
+  ],
+  "source_sha256": "a22a922b3cafa0e5e7e9753d2454fb3adeb2154dd84a556846a118e7fe106593",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
