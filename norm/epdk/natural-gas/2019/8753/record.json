@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8753",
+  "decision_date": "2019-07-25",
+  "title": "Çorum Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C+oOibVYzwA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=C+oOibVYzwA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ePWeGgJDpEE="
+  ],
+  "source_sha256": "6e7fd77315e9e1a4f008f3cc51f371c0dc61a4da8d964c9d5a56d01ca555b7a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
