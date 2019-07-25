@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[32-2018/1164]-603624",
+  "source_id": 21670,
+  "date": "2019-07-25",
+  "title": "Asgari ücretle çalışan personele ödenen ihbar tazminatı için asgari geçim indirimi uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21670",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3664fbd9a6d98fbee18784e9fd7ab6ab1312c852274d62bda1df1b304daa9f42",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
