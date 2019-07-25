@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8746",
+  "decision_date": "2019-07-25",
+  "title": "Kargaz Kars Ardahan Doğal Gaz Dağ. Paz. Taah. San. ve Tic. Ltd. Şti.’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5DKTwcP7vq4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5DKTwcP7vq4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ugkW4INkCKA="
+  ],
+  "source_sha256": "be98d2a3dfac66c7e39f713ecd95265637246dace73ac5e5391fb4cd483f8cdb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
