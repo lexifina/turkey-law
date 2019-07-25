@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8754",
+  "decision_date": "2019-07-25",
+  "title": "Enerya Aksaray Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=35tOpWmvQbw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=35tOpWmvQbw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Oa6aqjIJXd0="
+  ],
+  "source_sha256": "3624745796fc040d300de1e3ce2eff16cb59d24d02532fa4dcf9329171e6bce8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
