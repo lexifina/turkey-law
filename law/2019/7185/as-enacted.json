@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7185",
+  "year": 2019,
+  "title": "İslam Gıda Güvenliği Teşkilatı Tüzüğünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-07-25",
+  "gazette_issue": "30842",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190725-11.htm",
+  "source_sha256": "df735e7ec33ceda73fbf52b7c375972fa65a557e3838d441774c2425832b1674",
+  "text_sha256": "52c483163a4dcd872ee7e96382b2a750bfbf0ed995fa85b5ee1f23b1b92e4c20",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/07/25/30842-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/07/20190725-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
