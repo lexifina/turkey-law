@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8745",
+  "decision_date": "2019-07-25",
+  "title": "Aksa Sivas Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yOmMmGYh88c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yOmMmGYh88c=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Jo9urDKXvRM="
+  ],
+  "source_sha256": "1ef137f677dbf974b7efe24356071003fc2fe13ade1e19995db59bd30be5ce76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
