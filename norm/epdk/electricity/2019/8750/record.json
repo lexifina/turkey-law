@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8750",
+  "decision_date": "2019-07-25",
+  "title": "Elektrik piyasasında faaliyet gösteren dağıtım şirketleri ve görevli tedarik şirketlerinin gelir/tarife düzenlemelerine esas parametrelerin geçerli olacağı dördüncü uygulama döneminin 1/1/2021 (dâhil)- 31/12/2025 (dâhil) olarak belirlenmesi",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oPxkaQkGK2g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=oPxkaQkGK2g="
+  ],
+  "source_sha256": "3e117e9b98f89b50a09d47e2519e0437758d54d2c383b3da98d845cec2d77eb8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
