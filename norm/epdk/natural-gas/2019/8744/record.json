@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8744",
+  "decision_date": "2019-07-25",
+  "title": "Aksa Elazığ Doğalgaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-07-27",
+  "resmi_gazete_number": "30844",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f9tySBTU7CA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f9tySBTU7CA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y7Bv7kMbHvk="
+  ],
+  "source_sha256": "6ebd2846528b5d7aff2f36d9e7f30c5725df76bac3e73932b2271c612fafaff9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-07-25",
+  "law_text_complete": true
+}
