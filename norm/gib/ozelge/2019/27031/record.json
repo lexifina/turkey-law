@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-22000]-E.612236",
+  "source_id": 27031,
+  "date": "2019-07-26",
+  "title": "Traktörlerin çeşitli aksamlarının boyanacağı boyahane dahilindeki iktisadi kıymetlerin (pompa, fan, konveyör, doğalgaz tesisatı, arıtma sistemi, boya kabini ve havuzu vb.) amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27031",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "468129d587815c201f41a7dacf4060870295946a7f172322bc5abed02d96e2e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
