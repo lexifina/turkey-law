@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-20431]-608121",
+  "source_id": 27070,
+  "date": "2019-07-26",
+  "title": "Yönetim kurulu başkanına tahsis edilmek üzere alınmak istenen binek otoya ilişkin olarak ödenen avanstan kaynaklı alacağın takibi neticesinde düzenlenen \"semeresizlik belgesine\" istinaden alacağın değersiz alacak olarak değerlendirilip değerlendirilemeyeceği ile söz konusu alacak için şüpheli ticari alacak karşılığı ayrılıp ayrılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27070",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4719fede37177873833b256f18713014a9afa5bd06ab8dc48daf4e2ad3ec39c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
