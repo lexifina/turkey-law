@@ -1,0 +1,9 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Geminin Türk Bayrağına geçmesi
+MADDE 26 – (1) Sözleşmeye taraf ülkelerce Sözleşmeye uygun olarak düzenlenmiş IAFS sertifikası bulunan Sözleşme kapsamındaki yabancı bayraktaki gemilerin Türk Bayrağına geçmesi durumunda;
+a) Önceki bayrak devleti tarafından yayımlanmış IAFS sertifikası mevcut haliyle Türk Bayrağında da Sözleşme gereğince 3 ay süre ile geçerlidir.
+b) Liman başkanlığınca veya yetkilendirilmiş kuruluşça, Türk Bayrağına geçişin tamamlanmasını müteakip IAFS sertifikası yayınlayan önceki bayrak devletinden veya yetkilendirilmiş veya tanınmış kuruluştan geminin daha önce taşıdığı IAFS sertifikalarının ve bu sertifikalarla ilgili sörvey raporlarının bir kopyası istenir.
+c) Bayrak değişiminden sonraki ilk 3 aylık süre içerisinde liman başkanlığınca veya yetkilendirilmiş kuruluşça mevcut sertifikasına istinaden yeni IAFS sertifikası yayımlanır.
+ç) Gemiye ait IAFS sertifikalarının ve bu sertifikalarla ilgili sörvey raporlarının bir kopyasının önceki bayrak idaresinden veya yetkilendirilmiş veya tanınmış kuruluştan temin edilmesinden sonra kontrol edilir. Sörvey raporlarının veya sertifikanın uygun olmadığı yönünde şüpheye düşülmesi veya gemiye ait IAFS sertifikasının önceki bayrak idaresinden veya yetkilendirilmiş veya tanınmış kuruluştan gelmediği veya temin edilemediği durumda, 6 ncı madde kapsamında denetim ve belgelendirme işlemleri yapılır. Her durumda yabancı bayraktan Türk Bayrağına geçen gemilere düzenlenecek belgenin yeni bir denetim ve belgelendirmeye veya düzenlenmiş geçerli bir sertifikaya dayanması gerekmektedir.
+(2) Koruyucu kaplamalara ilişkin 8 inci maddede belirtilen gemilerin yabancı bayraktan Türk bayrağına geçmesi durumunda, 11 inci maddede tanımlanan boya teknik dosyası kontrol edilerek kabul edilir. Bu gemilerde boya teknik dosyasının olmaması veya yetersiz olması durumunda Üçüncü Bölüm kapsamında teknik dosya uygun hale getirilir veya yeniden hazırlanır.

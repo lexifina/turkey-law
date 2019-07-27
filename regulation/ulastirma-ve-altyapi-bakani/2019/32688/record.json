@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.32688",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİ BOYA YÖNETMELİĞİ",
+  "number": "32688",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2019/32688",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32688&MevzuatTertip=5",
+  "source_sha256": "124c598f08bb660e6999f2b9979ef175aa81ddf583c9d7a4ea3508a29a468f9e",
+  "source_bytes": 167956,
+  "published": "2019-07-27",
+  "gazette": "30844",
+  "in_force": "2019-07-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.07.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5002,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.32688-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

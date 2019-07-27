@@ -1,0 +1,4 @@
+Mevcut gemi boya denetmenleri
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte İdarece gemi boya denetmenine eş olarak belgelendirilmiş kişiler veya 18 inci maddenin ikinci fıkrasında belirtilen sertifikalara sahip kişilerin mevcut belge ve sertifikaları 1 yıl süresince gemi boya denetmeni yetki belgesi olarak geçerli kabul edilir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce İdarece gemi boya denetmenine eş olarak belgelendirilmiş kişiler, 1 yıl içerisinde İdareye başvurmaları halinde mevcut belgeleri bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren geçerli olacak şekilde seminer katılım sertifikası olarak kabul edilerek sınava müracaatları değerlendirilir.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 1 yıl içerisinde bu maddenin ikinci fıkrası kapsamında başvuru yapmamış kişilerden daha sonra başvuranlara ilk kez gemi boya denetmeni yetki belgesi alacaklara yönelik işlemler uygulanır.
