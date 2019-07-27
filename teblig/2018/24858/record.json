@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.24858",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "FİYAT ETİKETİNDE YERLİ ÜRETİM LOGOSU KULLANIMINA İLİŞKİN TEBLİĞ",
+  "number": "24858",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2018/24858",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24858&MevzuatTertip=5",
+  "source_sha256": "82fade3cc0f5d7fa5446a0154bd690a94c0513bf604d239a4dc3e830c5ec8649",
+  "source_bytes": 24417,
+  "published": "2018-10-05",
+  "gazette": "30556",
+  "in_force": "2019-07-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/7/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-07-27",
+      "RG-27/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-27",
+      "27/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 586,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24858-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
