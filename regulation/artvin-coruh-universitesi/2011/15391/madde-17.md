@@ -1,0 +1,5 @@
+Ağırlıklı not ve ağırlıklı not ortalaması
+MADDE 17 – (1) Bir dersin kredisi ile o dersten alınan harf notunun katsayısının çarpımı o dersin ağırlıklı notudur. Bunlardan;
+a) Ağırlıklı not ortalaması, öğrencinin o yarıyıl/yıl kaydolduğu tüm derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Bölme işlemi virgülden sonra iki basamak yürütülür. Virgülden sonraki ikinci hane, üçüncü hanenin beşten küçük olması durumunda aynen, beş veya daha büyük olması durumunda bir fazlası alınarak tespit edilir.
+b) Ağırlıklı genel not ortalaması, öğrencinin bir fakülte veya yüksekokula kaydolmasından itibaren aldığı bütün derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Ağırlıklı genel not ortalaması, iki haneli ondalık sayı ile belirlenir. Genel ağırlıklı not ortalaması hesabında öğrencinin tekrar ettiği derslerden aldığı son harf notu dikkate alınır.
+c) Ağırlıklı mezuniyet not ortalaması, öğrencinin mezun olmaya hak kazandığı tarih itibariyle ağırlıklı genel not ortalamasıdır.

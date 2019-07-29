@@ -1,0 +1,7 @@
+Giriş ve kayıt şartları
+MADDE 6 – (1) Üniversiteye bağlı fakülte ve yüksekokullara kayıt için aşağıdaki şartlar aranır:
+a) Öğrencinin lise veya lise dengi meslek okulu mezunu olması, yabancı ülke liselerinden diploma alınması halinde ise, diplomaların denkliğinin Milli Eğitim Bakanlığınca onaylanmış olması,
+b) Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM)’nce yapılan sınavlar sonucunda, o öğretim yılında Üniversitenin fakülte, yüksekokul ve meslek yüksekokullarına merkezi yerleştirme sistemi ile kayıt hakkı kazanmış olunması ya da özel yetenek sınavı ile öğrenci alınacak birimlerde, o öğretim yılı için geçerli olan puan ve şartlara sahip bulunması, Üniversitece yapılacak özel yetenek sınavının başarılması ve ilgili mevzuat hükümlerine göre yabancı uyruklu öğrenci olarak kayıt hakkı kazanılmış olunması,
+c) (Değişik:RG-20/9/2018-30541 Mükerrer) Kayıt için ÖSYM kılavuzunda belirtilen belgelerin getirilmesi, elektronik kayıt yaptıran öğrencilerden koşullu programlar için koşulda istenen belgeler hariç belge istenilmemesi,
+ç) (Değişik:RG-20/9/2018-30541 Mükerrer) Açık ve Uzaktan öğretim hariç başka bir yükseköğretim kurumundaki aynı düzeyde bir programda kayıtlı olunmaması.
+(2) Üniversiteye kayıt hakkı kazanan adaylar, bizzat veya mazeretleri varsa belirledikleri kişiler aracılığı ile kayıt yaptırabilirler. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanarak işlem yapılır.

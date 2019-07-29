@@ -1,0 +1,3 @@
+Sınav sonucuna itiraz
+MADDE 15 – (1) Öğrenciler sınav sonuçlarına, notların ilânından itibaren en geç beş işgünü içinde dekanlığa veya yüksekokul müdürlüğüne yazılı olarak itirazda bulunabilir. İtiraz üzerine ilgili öğretim elemanı tarafından yapılacak inceleme sonucu maddi hata olup olmadığı tespit edilerek, sonuç Dekanlığa/Müdürlüğe ve öğrenciye bildirilir.
+(2) Yarıyıl sonu sınav notlarında itiraz süresinden sonra herhangi bir maddi hata tespit edilmesi halinde, düzeltme isteği, dersi veren öğretim elemanının talebi üzerine ilgili yönetim kurulunca karara bağlanır. Sonuç Öğrenci İşleri Daire Başkanlığına ve öğrenciye bildirilir.

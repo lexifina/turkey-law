@@ -1,0 +1,2 @@
+Diğer üniversitelere kayıtlı öğrencilerin üniversitede ders almaları
+MADDE 26 – (1) Yurt içindeki veya yurt dışındaki üniversitelerde kayıtlı olan öğrenciler, ders almak istedikleri ilgili bölümün görüşü ve fakülte/yüksekokul yönetim kurulu kararı ile gerekli koşulları yerine getirerek, Üniversitede ders alabilirler. Bu öğrenciler bu Yönetmelik hükümlerine tabidirler. Bu statüdeki öğrencilere kayıt yaptırdıkları dersler için sadece not durum belgesi verilir.
