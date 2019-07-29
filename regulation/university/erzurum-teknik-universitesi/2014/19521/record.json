@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/erzurum-teknik-universitesi/2014/19521",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-29/7/2019",
+  "first_law": null,
+  "gazette": "28958",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-07-29",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Erzurum Teknik Üniversitesi",
+  "issuer_slug": "erzurum-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2014-03-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19521&MevzuatTertip=5",
+  "source_id": "8.5.19521",
+  "source_sha256": "853cb394d3986397f8c1da26e7729715f82b7c6205193aeac0bb2f95f6fc01ca",
+  "title": "ERZURUM TEKNİK ÜNİVERSİTESİ KARİYER PLANLAMA UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 413,
+  "version_label": "oldest version available",
+  "word_count": 1579
+}
