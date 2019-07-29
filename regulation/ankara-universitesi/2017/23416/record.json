@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-03-15",
+      "15.03.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-07-29",
+      "RG-29/7/2019-30846",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-07-29",
+      "RG-29/7/2019-30846",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-07-29",
+      "RG-29/7/2019-30846",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-07-29",
+      "29/7/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-29/7/2019-30846",
+  "first_law": null,
+  "gazette": "30008",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-07-29",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2017/23416",
+  "published": "2017-03-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23416&MevzuatTertip=5",
+  "source_bytes": 33228,
+  "source_id": "8.5.23416",
+  "source_sha256": "559e557fabe6bc16ad5f75e8bb2a7c9993d895114396ecabb37dd9735addee23",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ CEZA, İNFAZ HUKUKU VE KRİMİNOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 1251
+}
