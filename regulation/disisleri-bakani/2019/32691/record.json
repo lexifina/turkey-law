@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.32691",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DIŞİŞLERİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "32691",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/2019/32691",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32691&MevzuatTertip=5",
+  "source_sha256": "1677d51826579c9cf7b40fa6cdb684a402a589315846beaca8ff8f999596948b",
+  "source_bytes": 46745,
+  "published": "2019-07-30",
+  "gazette": "30847",
+  "in_force": "2019-07-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.07.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2383,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
