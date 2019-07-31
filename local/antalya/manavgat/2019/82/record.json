@@ -1,0 +1,29 @@
+{
+  "number": "82",
+  "number_as_published": "MEC-2019-7-",
+  "year": 2019,
+  "month": 7,
+  "title": "MEC-2019-7- 82 - 8. Yağlı Pehlivan Güreşlerinde yapılan hibenin kabulü.",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/2019-yili-meclis-kararlari",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/2019-yili-meclis-kararlari",
+  "official_document": "https://d10fbf87uv1xiy.cloudfront.net/655/kicerik/47829/352414.pdf",
+  "source_sha256": "e2e76af7acb6efb5c3ca028840a37d743702248ccce740063817301642ddb8e0",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "2019 Yılı Meclis Kararları",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
