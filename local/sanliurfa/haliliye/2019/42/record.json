@@ -1,0 +1,29 @@
+{
+  "number": "42",
+  "number_as_published": "2019/ 42",
+  "year": 2019,
+  "month": 7,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.haliliye.bel.tr/icerik/3518/39/temmuz-2019",
+  "official_page": "https://www.haliliye.bel.tr/icerik/3518/39/temmuz-2019",
+  "official_document": null,
+  "source_sha256": "b754c5d5c73db503179871c2a8ee7e63a13ce7f9c47bd7a9a2bdb8a3cf3f77aa",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "TEMMUZ 2019",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
