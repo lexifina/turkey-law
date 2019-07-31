@@ -1,0 +1,28 @@
+{
+  "number": "month-07",
+  "year": 2019,
+  "month": 7,
+  "title": "TEMMUZ 2019 MECLİS KARAR ÖZETLERİ",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.guneysu.bel.tr/Sayfa/meclis_kararlari-31.html",
+  "official_page": null,
+  "official_document": "https://www.guneysu.bel.tr/Upload/Dosya/meclis%20kararlar%C4%B1/7-Temmuz%20Ay%C4%B1%20Karar%20%C3%96zetleri.pdf",
+  "source_sha256": "5a40d85560bbfaaaa984139666941cb6b334a80d4fca95317944b4551aeb3e83",
+  "issuer": "Güneysu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "TEMMUZ 2019 MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
