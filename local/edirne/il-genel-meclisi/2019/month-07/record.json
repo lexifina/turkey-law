@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2019,
+  "month": 7,
+  "title": "TEMMUZ 2019 İL GENEL MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.edirneozelidare.gov.tr/temmuz-2019-il-genel-meclis-kararlari",
+  "official_page": "https://www.edirneozelidare.gov.tr/temmuz-2019-il-genel-meclis-kararlari",
+  "official_document": "https://www.edirneozelidare.gov.tr/kurumlar/edirneozelidare.gov.tr/meclis/karar/2019/Temmuz-Ayi-Meclis-Karar-Ozetleri-_2019_.pdf",
+  "source_sha256": "57fce24eee56fe97de2661589212c1b5c3d26ab182fc0ae207b810632dcd85b2",
+  "issuer": "Edirne İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "TEMMUZ 2019 İL GENEL MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "TEMMUZ 2019 İL GENEL MECLİS KARARLARI"
+}
