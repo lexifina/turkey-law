@@ -1,0 +1,30 @@
+{
+  "number": "month-07",
+  "year": 2019,
+  "month": 7,
+  "title": "2019 Temmuz Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.yunusemre.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2019&type=karar",
+  "official_page": null,
+  "official_document": "https://www.yunusemre.bel.tr/fileserver/uploads/rto6xd.pdf",
+  "source_sha256": "1c0cbf23856c620f0061b06a3d4c2be75eb2d5a00502e5ab082dd79e2f104b16",
+  "issuer": "Yunusemre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2019 Temmuz Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "4 Temmuz 2019",
+  "list_year": 2019
+}
