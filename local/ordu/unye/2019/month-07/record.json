@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2019,
+  "month": 7,
+  "title": "TEMMUZ 2019 BELEDİYE MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2019-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2019",
+  "source": "https://www.unye.bel.tr/duyuru/temmuz-2019-belediye-meclis-kararlari/",
+  "official_page": "https://www.unye.bel.tr/duyuru/temmuz-2019-belediye-meclis-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/temmuz-2019-belediye-meclis-kararlari/",
+  "source_sha256": "6f660c4d2871685e7027dc1798c48ba9fef5c795a82c95df4fbf41c8d48bc07d",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "TEMMUZ 2019 BELEDİYE MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 4 scanned image(s); not transcribed here"
+}
