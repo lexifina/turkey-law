@@ -1,0 +1,3 @@
+Finansal raporlar
+MADDE 10 – (Değişik:RG-23/10/2015-29511) (1)
+(1) Bankalar tarafından bu Yönetmelik ve ilgili tebliğlerde belirtilen biçim ve içerikte hazırlanan yıl sonuna ilişkin finansal tablolar, bağımsız denetim raporu ve bunların ekinde yer alacak Kurulca açıklanması gerekli görülen ilave bilgiler ile risk yönetimine ilişkin açıklamalar yıl sonu finansal raporunu; kâr dağıtım tablosu hariç olmak üzere ilgili ara döneme ilişkin finansal tablolar, bağımsız denetim raporu ve bunların ekinde yer alacak banka yönetim kurulu başkanı ve genel müdürünün ara dönem faaliyetlerine ilişkin değerlendirmelerini içerecek ara dönem faaliyet raporu ile Kurulca açıklanması gerekli görülen ilave bilgiler risk yönetimine ilişkin açıklamalar ara dönem finansal raporunu oluşturur.

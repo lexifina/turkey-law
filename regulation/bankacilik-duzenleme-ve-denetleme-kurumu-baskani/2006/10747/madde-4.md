@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Faaliyetlerin Muhasebeleştirilmesi, Finansal Tablolar ve Finansal Raporlar
+Faaliyetlerin muhasebeleştirilmesi
+MADDE 4 – (1) Bankalar, faaliyetlerini bu Yönetmelik ve Kurulca çıkarılacak tebliğlere göre muhasebeleştirir. Faaliyetlerin, 16/1/2005 tarihli ve 25702 sayılı Resmî Gazete’de yayımlanan Türkiye Muhasebe Standartları Kurulunun 1 sıra Nolu Finansal Tabloların Hazırlanma ve Sunulma Esaslarına İlişkin Kavramsal Çerçeve Hakkında Tebliğ hükümleri çerçevesinde Türkiye Muhasebe Standartlarına uygun olarak muhasebeleştirilmesi esastır. Ancak, bağlı ortaklık, birlikte kontrol edilen ortaklık ve iştiraklerin muhasebeleştirilmesi ve konsolide finansal tablolar, kamuya açıklanacak finansal tablolar ile bunlara ilişkin açıklama ve dipnotların düzenlenmesine ilişkin usul ve esaslar Kurulca çıkarılacak tebliğler ile belirlenir.

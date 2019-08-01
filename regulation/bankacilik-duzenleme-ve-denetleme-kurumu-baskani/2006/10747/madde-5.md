@@ -1,0 +1,2 @@
+Finansal tablolar
+MADDE 5 – (1) Finansal tablolar; bilanço (bilanço dışı hesaplarla birlikte), gelir tablosu (kâr ve zarar cetveli), özkaynak değişim tablosu ve nakit akış tablosu ile kâr dağıtım tablosundan oluşur. Finansal tablo dipnot ve açıklamaları ile finansal tablolarda yer alan bilgilere ilişkin açıklayıcı rapor ve tablolar, finansal tabloların ayrılmaz parçalarıdır. Bilanço ve gelir tablosu, dipnot, açıklama ve ekleri ile birlikte temel finansal tabloları oluşturur.
