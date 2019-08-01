@@ -1,0 +1,20 @@
+{
+  "applicant": "S.M.",
+  "application_date": "2016-03-23",
+  "application_number": "2016/6038",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2019-06-20",
+  "id": "f5996424-47f8-0a1b-b03e-394db4cefe15",
+  "in_force": "2019-08-01",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2019-08-01",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY1OTk2NDI0LTQ3ZjgtMGExYi1iMDNlLTM5NGRiNGNlZmUxNQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bcd55d2008df11d28ea19799c69a9f261b20bb9df9677622ea841a9e99508087",
+  "version_label": "as-enacted"
+}
