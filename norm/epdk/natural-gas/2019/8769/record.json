@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8769",
+  "decision_date": "2019-08-01",
+  "title": "Agdaş Adapazarı Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-08-03",
+  "resmi_gazete_number": "30851",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=67iCisNV5TU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=67iCisNV5TU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=sIUJqfpB1/o="
+  ],
+  "source_sha256": "232ec26ec51d9da0bd0c523c879ce039e6f1ed3fc5b73d9d1b53d4de3fee6b97",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-08-01",
+  "law_text_complete": true
+}
