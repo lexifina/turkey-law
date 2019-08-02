@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155.15[5322]-261426",
+  "source_id": 34361,
+  "date": "2019-08-02",
+  "title": "5746 sayılı Kanun kapsamında sözleşme damga vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34361",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "7d1e11fbd264e3c2918eaffe2bc0802f9ed071274aa31305e19e3fdd36617104",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
