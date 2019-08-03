@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Düzeltmenin Tebliği, Dava Açılması, Kesinleştirme, Tescil ve Arşiv
+Düzeltmenin tebliği
+MADDE 10 – (1) Yapılacak düzeltmeye ilişkin düzenlenen rapor ve kroki kadastro müdürünce onaylanır ve kadastro müdürlüğünce bir yazıya eklenerek düzeltmeden etkilenen parsellerin kayıt malikleri ile düzeltmeden etkilenen hak sahiplerine 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre tebliğ edilir. Bu Yönetmeliğin 7 nci maddesine göre resen düzeltme yapılan parseller ve düzeltmeden etkilenmeyen komşu parseller ile parselin önceki malikleri ve diğer hak sahiplerine tebligat yapılmaz.
+(2) Tebligatta, tebliğ tarihinden başlayan otuz gün içinde düzeltmenin kaldırılması için ilgili sulh hukuk mahkemesinde dava açılmadığı takdirde düzeltmenin kesinleşeceği belirtilir.
+(3) (Ek:RG-3/8/2019-30851) 8 inci maddenin birinci fıkrasının (f) bendi kapsamındaki taşınmazların tapu sicilinde, kadastro sonucu tescilli malik ve diğer hak sahiplerinde ve teknik düzeltme dışındaki geometrisinde herhangi bir değişiklik yapılmamış olması ve taşınmaz maliklerinin ve diğer hak sahiplerinin muvafakatlerinin sağlanması halinde, 10 uncu maddenin birinci ve ikinci fıkralarına göre ayrıca tebliğ işlemleri yapılmaksızın düzeltme yapılır. Muvafakat sağlanamaması halinde ise düzeltme işlemleri yapılmaz.

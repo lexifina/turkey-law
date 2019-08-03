@@ -1,0 +1,2 @@
+Tapu kaydı miktarına göre veya zilyetlik esaslarınca edinilen taşınmazlardaki yüzölçümü hataları ve miktar fazlalıkları
+MADDE 9 – (1) Tapu kaydı miktarına göre veya iktisap tarihindeki zilyetlik esaslarınca miktar üzerinden edinilerek sınırlandırılmış taşınmazlarda tescilli duruma göre yüzölçüm hataları ve miktar fazlalıkları tespit edilmesi halinde, beyanlar hanesinde belirtme yapılır ve hükmen çözüm yoluna gidebilecekleri hususunda ilgili taşınmaz maliki ve maliye kuruluşuna duyuruda bulunulur.
