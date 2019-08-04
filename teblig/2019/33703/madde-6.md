@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6 – (1) 16/10/2014 tarihli ve 29147 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2014/31) çerçevesinde ÇHC, Hindistan ve Malezya menşeli “Diğerleri, poliesterlerden” ithalatında ÇHC, Hindistan ve Malezya’da yerleşik firmalara yönelik olarak 0,15 ABD Doları/Kg ve 0,17 ABD Doları/Kg tutarında dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 12/7/2017 tarihli ve 30122 sayılı Resmî Gazetede yayımlanan İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (Tebliğ No: 2017/17)’e konu ara gözden geçirme soruşturması çerçevesinde Hindistan ve Malezya menşeli ürüne yönelik önlemin tutarı korunurken, ÇHC menşeli ürüne yönelik önlem tutarı 0,25 ABD Doları/Kg ve 0,30 ABD Doları/Kg seviyesine çekilmiştir.
