@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik 2019-2020 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-08-04",
+      "04.08.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik 2019-2020 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30852",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-08-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2019/33700",
+  "published": "2019-08-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33700&MevzuatTertip=5",
+  "source_bytes": 41584,
+  "source_id": "8.5.33700",
+  "source_sha256": "ad098214973c5d36897918b7a7fbdc73fdac01b63369c0dd34f92d4801865c68",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ YABANCI DİL HAZIRLIK EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 2131
+}

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Düzey: Başlangıç, orta öncesi, orta, orta üstü ve ileri olmak üzere, öğrencinin yabancı dil yeterliğini gösteren her bir düzeyi,
+b) Hazırlık programı: Yabancı Diller Yüksekokulunda yürütülen zorunlu yabancı dil eğitimi ile isteğe bağlı yabancı dil eğitiminin verildiği programı,
+c) İlgili birimler: Yabancı Diller Yüksekokuluna bağlı yabancı dil akademik birimlerini,
+ç) İsteğe bağlı hazırlık sınıfı: Öğrencilerin kayıtlı oldukları, öğretim dili tamamen Türkçe olan programın ilk yarıyılından önce talepleri halinde alabileceği yabancı dil eğitimini,
+d) Kısmen yabancı dilde eğitim: Programda verilen derslerin toplam kredisinin en az %30’unun yabancı dilde verildiği eğitimi,
+e) Öğrenci bilgilendirme el kitabı: Yüksekokul Kurulu ve Yüksekokul Yönetim Kurulunca kabul edilen ve Senato tarafından onaylanan yabancı dil eğitimi ve öğretimi uygulama ilke ve esaslarının açıklandığı yazılı bilgilendirme kaynağını,
+f) Öğrenci İşleri Dairesi Başkanlığı: Hacettepe Üniversitesi Öğrenci İşleri Dairesi Başkanlığını,
+g) Program: Öğrencilerin Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığı tarafından yerleştirildikleri ön lisans ve lisans programları ile Hacettepe Üniversitesi enstitüleri tarafından yerleştirildikleri lisansüstü programları,
+ğ) Rektör: Hacettepe Üniversitesi Rektörünü,
+h) Senato: Hacettepe Üniversitesi Senatosunu,
+ı) Türkiye Yükseköğretim Yeterlilikler Çerçevesi: Avrupa ve Türkiye Yeterlilikler Çerçeveleri ile uyumlu olacak şekilde tasarlanan ve yükseköğretim düzeylerine yönelik eğitim ve öğretim programlarını içeren yeterlilikler çerçevesini,
+i) Üniversite: Hacettepe Üniversitesini,
+j) Yabancı dil hazırlık eğitimi: Ön lisans, lisans ve lisansüstü programlarda zorunlu veya isteğe bağlı hazırlık sınıflarında verilecek yabancı dil hazırlık eğitimini,
+k) Yabancı dilde eğitim: Programın öğretim müfredatının tamamının yabancı dilde verildiği eğitimi,
+l) Yüksekokul: Hacettepe Üniversitesi Yabancı Diller Yüksekokulunu,
+m) Yüksekokul Kurulu: Hacettepe Üniversitesi Yabancı Diller Yüksekokulu Kurulunu,
+n) Yüksekokul Yönetim Kurulu: Hacettepe Üniversitesi Yabancı Diller Yüksekokulu Yönetim Kurulunu,
+o) Zorunlu hazırlık sınıfı: Öğretim dili tamamen veya kısmen yabancı dil olan programlarda öğrencinin devam etmek zorunda olduğu yabancı dil eğitimini,
+ifade eder.

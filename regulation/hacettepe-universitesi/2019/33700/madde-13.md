@@ -1,0 +1,3 @@
+İzin
+MADDE 13 – (1) Yabancı dil hazırlık programına kayıt yaptırmış ön lisans ve lisans öğrencilerinin, geçerli mazeretlerinden dolayı Yüksekokul Yönetim Kurulu kararı ile izinli sayılabilmelerinde, 26/3/2018 tarihli ve 30372 sayılı Resmî Gazete’de yayımlanan Hacettepe Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinin izinler ile ilgili hükümleri uygulanır.
+(2) Yabancı dil hazırlık programı lisansüstü öğrencilerinin izinli sayılabilmelerinde, 26/11/2016 tarihli ve 29900 sayılı Resmî Gazete’de yayımlanan Hacettepe Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinin izinler ilgili hükümleri uygulanır. Lisansüstü yabancı dil hazırlık programı öğrencilerinin izin işlemleri ilgili enstitü tarafından yapılır.
