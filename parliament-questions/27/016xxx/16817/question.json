@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/16817",
+  "submitted": "2019-08-06",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ÇELEBİ",
+  "province": "İzmir",
+  "summary": "2002-2018 yılları arasında Bakanlığın Çankırı ili için kendi bütçesinden veya AB programları bütçesinden hazırladığı projelere ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-e4c7-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8939df3706d74f56a012f7bfb55f2bfea37c33bbecf02e507893ed163364b38d",
+  "in_force": "2019-08-06",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
