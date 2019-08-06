@@ -1,0 +1,8 @@
+Yer seçimi etüdü
+MADDE 5 – (1) Başvurunun uygun bulunması durumunda yer seçimi etüt çalışmalarına başlanır.
+(2) Etüdü yapılacak alanlar hakkında görüş, bilgi, belge ve haritalar; ilgili kurum ve kuruluşlardan Bakanlıkça talep edilebilir. Etüdün hazırlanması sırasında ihtiyaç duyulacak haritaların temini, harita çoğaltılması, fotoğraf ve/veya video çekimi ve bunların çoğaltılması, araç gereç temini gibi masraflar, başvuru sahibi gerçek ve tüzel kişiler tarafından karşılanır.
+(3) En geç otuz gün içinde nihai kurum görüşlerinin Bakanlığa bildirilmesi zorunludur. Bu süre içerisinde görüşünü bildirmeyen kurumların görüşü Bakanlık tarafından olumlu kabul edilir.
+(4) İhtiyaç duyulan görüş, bilgi, belge ve haritaların temin edilmesinin ardından Bakanlık tarafından mahallinde yer seçimi etüdü yapılarak talebin ihtiyaçlarını karşılayabilecek büyüklükte alanlar tespit edilir.
+(5) Tespit edilen alanlara ilişkin olarak uygun ölçekte eşik analizi haritası ile yer seçimi etüt raporu hazırlanır.
+(6) Etüdü yapılacak alanlarda yürürlükteki imar planlarında uygun büyüklükte ve nitelikte sanayi alanı var ise bu alanlar için imar planını onaylayan kurumun ve üst ölçekli planlara uygunluğu yönüyle ilgisine göre Çevre ve Şehircilik Bakanlığı veya ilgili büyükşehir belediye başkanlığının görüşünün alınması kaydıyla bu maddenin ikinci ve üçüncü fıkraları uygulanmaz.
+(7) Etüdü yapılacak alanın 1/12/2018 tarihli ve 30612 sayılı Resmî Gazete’de yayımlanan Yatırım Alanlarının Belirlenmesine Dair Yönetmelik kapsamında sınırların kesinleştirilmesi halinde bu maddenin ikinci ve üçüncü fıkraları uygulanmaz.

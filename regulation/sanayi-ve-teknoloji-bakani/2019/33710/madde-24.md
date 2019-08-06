@@ -1,0 +1,3 @@
+Ödeneğin kullanılması
+MADDE 24 – (1) Karma/İhtisas Endüstri Bölgelerinin kurulması için gerekli kamulaştırma, etüt, plan, proje, müşavirlik ve kontrollük ile altyapı yapımıyla ilgili giderler, bu Yönetmeliğin 9 uncu maddesinde belirtildiği üzere Bakanlık bütçesinde yer alan ödeneklerden karşılanabilir.
+(2) Bakanlık tarafından gerekli harcamaları karşılanarak yatırıma hazır hale getirilen endüstri bölgeleri ile ilgili her türlü mal veya hizmet alımı ile yapım işleri ihaleleri, 4734 sayılı Kamu İhale Kanunu ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ile bu Kanunlar kapsamında çıkarılan ilgili mevzuata uygun olarak gerçekleştirilir.

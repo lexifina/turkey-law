@@ -1,0 +1,3 @@
+Bölgeye ilişkin harcamalar
+MADDE 9 – (1) Bir alanın endüstri bölgesi ilan edilmesinin ardından, Yılı Programı ile Yılı Programının Uygulanması, Koordinasyonu ve İzlenmesine Dair Karar çerçevesinde Bakanlık yatırım programına ödenek tahsis edilir. Endüstri bölgelerinin kurulması için gerekli kamulaştırma bedeli, altyapı ile ilgili giderler ve bu Yönetmeliğin 25 inci maddesinde sayılan kalemlerle ilgili harcamalar Bakanlık bütçesine bu amaçla konulacak ödenekten karşılanır.
+(2) Bakanlıkça uygun görülmesi hâlinde kamulaştırma bedeli ve altyapı ile ilgili giderler ve bu Yönetmeliğin 25 inci maddesinde sayılan kalemlerle ilgili harcamalar yönetici şirket veya yatırımcılar tarafından da karşılanabilir.

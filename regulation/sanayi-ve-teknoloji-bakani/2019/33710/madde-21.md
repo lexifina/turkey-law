@@ -1,0 +1,13 @@
+Yönetici şirketin görev ve sorumlulukları
+MADDE 21 – (1) Yönetici şirketin görev ve sorumlulukları şunlardır:
+a) Bölgeyi yönetmek ve işletmek,
+b) Bölgede sunulan hizmetlerin karşılığı olarak yatırımcılardan katılım paylarını tahsil etmek,
+c) Yönetici şirket tarafından gerekli harcamaları karşılanarak yatırıma hazır hale getirilen bölgelerdeki, imar plânı ve parselasyon plânları ve değişiklikleri ile altyapı ve üstyapı ile ilgili etüt, harita, plân ve projeleri hazırlamak, kontrollük için müşavirlik hizmetleri almak ve Bakanlık veya yetkili kurumların onayına sunmak, altyapı ve üstyapı projelerine ilişkin ruhsat ve izinleri almak, altyapı ve üstyapı yapım işlerini gerçekleştirmek, gerçekleştirilemeyen bölge için zorunlu olan ulaşım, su, kanalizasyon, doğalgaz, elektrik iletim hattı gibi altyapı yapım işlerini Bakanlık koordinasyonunda ilgili kurum ve kuruluşlarla birlikte yürütmek,
+ç) Bölgenin altyapı ve üstyapısına ilişkin bakım, onarım, yenileme ve benzeri işlere ait harcamaları yapmak,
+d) Bölgede atık su, katı atık, toprak kirliliği, gürültü ve hava kirliliği, tehlikeli atık, tıbbi atık, radyoaktif madde ve kimyasalların yönetimi, atıkların toplanması, geçici depolanması ve taşınmasına yönelik iş ve işlemler, atık yönetimine ilişkin altyapı hizmetlerinin sağlanması, yangından korunma ve yangınla mücadele, acil durum planlarının hazırlanması ve koordinasyonu, tahliye, ilk yardım ve acil tıbbi müdahale ile doğal afetler ve benzeri konularda ilgili kurum ve kuruluşlarla koordinasyon içinde çalışıp gerekli harcamaları yapmak ve ilgili mevzuat çerçevesinde önlemleri almak,
+e) Bölge için gerekli olan temizlik, elektrik, içme ve kullanma suyu, arıtma, doğal gaz, akaryakıt, ısıtma ve havalandırma, dağıtım şebekeleri, kanalizasyon, bölge içi yollar, ses ve veri iletişimi, bilişim hizmetleri ve benzeri hizmetlerin sağlanması ve kesintisiz olarak sürmesi için ilgili kurum ve kuruluşlarla koordinasyon içinde çalışıp gerekli harcamaları yapmak ve ilgili mevzuat çerçevesinde önlemleri almak,
+f) Her yılın sonunda kendisinin ve bölge içerisinde yer alan yatırımcıların gerçekleştirdiği faaliyetlerin etki değerlendirmesini yapmak ve bu konuda düzenlenen raporun bir örneğini Bakanlığa göndermek,
+g) Yatırımcıların faaliyetleriyle ilgili Bakanlık tarafından istenilen ek bilgi ve belgeleri belirlenen sürede ve formata uygun olarak göndermek,
+ğ) Her türlü hesap ve işlemlerini yeminli mali müşavire inceletmek,
+h) Bakanlığın bölgede yapacağı her türlü kontrol ve denetim faaliyetleri için gerekli çalışma ortamını hazırlamak,
+ı) Bakanlığın bölge için vereceği diğer görevleri yapmak.

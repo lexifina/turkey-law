@@ -1,0 +1,4 @@
+Kontrollük hizmetleri
+MADDE 18 – (1) Yönetici şirket tarafından gerekli harcamaları karşılanarak yatırıma hazır hale getirilen endüstri bölgelerinde; altyapı ve üstyapı projelerinin kontrolü, arazi kontrolü ve bunlara ilişkin altyapı ve üstyapı inşaatlarının yapım kontrolü Bakanlık veya özellik arz eden işler için Bakanlıkça veya yönetici şirketçe belirlenen müşavir firma tarafından yapılır.
+(2) Yatırımcılar tarafından hazırlanan altyapı ve üstyapı projelerinin kontrolü, arazi kontrolü ve bunlara ilişkin üstyapı inşaatlarının yapım kontrolü Bakanlık veya özellik arz eden işler için Bakanlıkça veya yönetici şirketçe belirlenen müşavir firma tarafından yapılır.
+(3) Müşavir firmanın yönetici şirket tarafından belirlenmesi durumunda, Bakanlık ile müşavir firma arasında yapılacak protokol ile müşavir firmanın yetki ve sorumlulukları belirlenir.

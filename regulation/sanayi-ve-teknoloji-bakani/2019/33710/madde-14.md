@@ -1,0 +1,6 @@
+Parselasyon planı ile tevhit ve ifraz
+MADDE 14 – (1) Kamulaştırma işlemleri tamamlanarak taşınmazları Hazine adına tescil edilen endüstri bölgelerinde kesinleşmiş imar planına uygun olarak imar planı içine giren arsa ve arazilerin düzenlenmesi işlemleri 3/5/1985 tarihli ve 3194 sayılı İmar Kanunu hükümleri uyarınca yapılır.
+(2) Bakanlık veya yönetici şirket tarafından onaylı imar planına uygun olarak, gerekli hallerde etaplar halinde hazırlattırılan düzenleme sahasına ait parselasyon planları, Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğine uygun olarak düzenlenir ve Bakanlık onayıyla yürürlüğe girer.
+(3) Parselasyon planlarının 3194 sayılı Kanunun 18 inci maddesinin uygulanması yöntemiyle yapılması durumunda Bakanlıkça onaylanan plânlar, Bakanlık internet sitesinde bir hafta süre ile ilan edilir; itiraz olmaması halinde ilan süresinin sonunda yürürlüğe girer.
+(4) Onaylı parselasyon planları, Bakanlık veya yönetici şirketçe teknik kontrol işlemleri için kadastro müdürlüğüne gönderilir. Tapu müdürlüğünde tescil işlemleri tamamlandıktan sonra tescil bilgisi yönetici şirket tarafından Bakanlığa gönderilir.
+(5) İmar planına göre tescil edilmiş parsel sınırları esas alınarak tevhit ve ifraz işlemi yapılabilir.

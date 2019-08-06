@@ -1,0 +1,22 @@
+Eşik analizi haritası ve yer seçimi etüt raporunun hazırlanması
+MADDE 7 – (1) Bu Yönetmeliğin 5 inci maddesine dayanılarak ihtiyacı karşılayabilecek büyüklükte tespit edilen alanlar için bu Yönetmeliğin 6 ncı maddesi çerçevesinde temin edilen bilgiler işlenerek uygun ölçekte eşik analizi haritası ve bahse konu alanlara ilişkin aşağıdaki başlıkları içerecek şekilde yer seçimi etüt raporu hazırlanır:
+a) Mevkii,
+b) Şehir merkezine göre konumu,
+c) Çevresinde bulunan diğer yerleşim merkezlerine (köy, kasaba) göre konumu,
+ç) Büyüklüğü,
+d) Mülkiyet ve kadastro durumu ve tahmini arazi maliyeti,
+e) Karayolu, demiryolu, havayolu, denizyolu ulaşım altyapısına göre durumu,
+f) İhtiyaç duyulabilecek tahmini içme ve kullanma suyu ile elektrik gücü, doğal gaz temin kaynakları,
+g) Tahmini atıksu ve katı atık miktarının bertarafına ilişkin alıcı ortam varlığı,
+ğ) Tarım arazilerinin sınıfları, mevcut arazi kullanım durumu, çevresindeki alanların mevcut ve planlama durumu,
+h) İdari, imar ve mücavir alan sınırlarına göre konumu,
+ı) Varsa çevre düzeni planına göre kullanım fonksiyonu,
+i) Eğimi ve yönü ve varsa heyelan envanter haritasındaki konumu ve diğer kütle hareketleri ve sıvılaşma açısından durumu,
+j) Diri fay haritası açısından aktif faylarla ilişkisi, meydana gelen tarihsel depremler ve diğer depremsellik verileri,
+k) Hakim rüzgar yönü itibarıyla yakınındaki yerleşim merkezlerine etkisi,
+l) Genişleme olanağının bulunup bulunmadığı, çevresinde konut ve yan sanayi, diğer ihtiyaç duyulabilecek destek ve hizmet birimlerinin yerleşimine uygun alan bulunup bulunmadığı,
+m) Özel çevre koruma bölgeleri, sit alanları, milli parklar, tabiat parkları, tabiatı koruma alanları ve tabiat anıtları, yaban hayatı koruma ve geliştirme sahaları, sulak alanlar, doğal anıtlar gibi koruma alanları ile uluslararası sözleşmeler gereği korunması gereken alanlara göre konumu,
+n) Drenaj durumu,
+o) Taşkın yönetim planları ve yaşanmış seller açısından taşkına maruz kalma durumu,
+ö) Yeraltı ve yüzeysel içme ve kullanma suyu kaynaklarına ve havzaları ile sulak alanlara göre konumu,
+p) Maden ve jeotermal ruhsat sahaları ile mevcut veya planlanan işletme durumu.

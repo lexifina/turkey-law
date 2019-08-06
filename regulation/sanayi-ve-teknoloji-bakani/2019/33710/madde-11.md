@@ -1,0 +1,2 @@
+İhale
+MADDE 11 – (1) Bakanlık tarafından gerekli harcamaları karşılanarak yatırıma hazır hale getirilen endüstri bölgeleri ile ilgili etüt, altyapı proje işlerinin gerçekleşmesine yönelik her türlü mal veya hizmet alımı ile yapım işleri ihaleleri, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ve 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu ile bu Kanunlar kapsamında çıkarılan ilgili mevzuata uygun olarak gerçekleştirilir.

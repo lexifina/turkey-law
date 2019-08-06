@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33710",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENDÜSTRİ BÖLGELERİ YÖNETMELİĞİ",
+  "number": "33710",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2019/33710",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33710&MevzuatTertip=5",
+  "source_sha256": "97b28b70d3b69f314fc23ef444cff8774532d6bef7b50c8a6f220a6574c4c202",
+  "source_bytes": 96787,
+  "published": "2019-08-06",
+  "gazette": "30854",
+  "in_force": "2019-08-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.08.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6594,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

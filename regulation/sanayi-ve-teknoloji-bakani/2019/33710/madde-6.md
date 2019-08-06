@@ -1,0 +1,3 @@
+Görüşü talep edilen kurum ve kuruluşlar
+MADDE 6 – (1) Bu Yönetmeliğin 5 inci maddesinin ikinci fıkrası kapsamında Bakanlık tarafından Çevre ve Şehircilik, Enerji ve Tabii Kaynaklar, Tarım ve Orman, Kültür ve Turizm, Milli Savunma, Sağlık, Ulaştırma ve Altyapı Bakanlıkları, ilgili kalkınma ajansı genel sekreterliği ile il özel idaresi veya yatırım izleme ve koordinasyon başkanlığının; tespit edilen alanların belediye sınırları içerisinde olması halinde ise ilgili belediyenin/büyükşehir belediyesinin görüşleri alınır.
+(2) Gerekli görülmesi halinde Bakanlık tarafından diğer kurum ve kuruluşların da görüşleri alınabilir.

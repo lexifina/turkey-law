@@ -1,0 +1,5 @@
+Kamulaştırma, irtifak hakkı tesis edilmesi ve/veya kullanma izni verilmesi
+MADDE 28 – (1) Münferit yatırım yeri olarak tahsis edilen alan içerisinde özel mülkiyete konu araziler bulunması durumunda bu arazilerin Bakanlıkça kamulaştırılmasının ardından Hazine adına tescili yapılır.
+(2) Başvuru sahibi lehine, Kanunun 3 ve 4 üncü madde hükümleri de dikkate alınarak bedelli ve/veya bedelsiz olarak Çevre ve Şehircilik Bakanlığınca kırk dokuz yıl süreyle irtifak hakkı tesis edilir. Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde ise kırk dokuz yıl süreyle kullanma izni verilir.
+(3) Tesis edilen irtifak hakkı ve/veya verilen kullanma izni, başvuru sahibinin talebi ve Bakanlığın uygun görüşü doğrultusunda yatırımın devam etmesi şartı ile Çevre ve Şehircilik Bakanlığı tarafından belirlenen koşullarla yenilenebilir.
+(4) İrtifak hakkı tesis edilmesi veya kullanma izni verilmesi süreci; başvuru sahibi tarafından sabit yatırım tutarının binde beşini geçmemek üzere Cumhurbaşkanınca belirlenen oran dâhilinde hesaplanan tutarın, Bakanlık Merkez Saymanlık Müdürlüğü hesabına yatırılmasını takiben başlatılır.

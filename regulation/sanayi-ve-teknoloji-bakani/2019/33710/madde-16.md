@@ -1,0 +1,2 @@
+Projelerin hazırlanması ve onayı
+MADDE 16 – (1) Endüstri bölgeleri ile ilgili altyapı ve üstyapı projeleri, Bakanlıkça belirlenecek usul ve esaslar çerçevesinde Bakanlık veya yönetici şirket tarafından belirlenen proje firmasına hazırlattırılır ve Bakanlık tarafından onaylanır. Elektrik şebekesi, enerji nakil hattı, haberleşme ve doğal gaz projeleri, ilgili mevzuat kapsamında yetkili kurum/kuruluşlarca onaylanmasını müteakip Bakanlık tarafından vize edilir.

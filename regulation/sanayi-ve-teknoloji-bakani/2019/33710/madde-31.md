@@ -1,0 +1,4 @@
+Ruhsat ve izinler
+MADDE 31 – (1) Başvuru sahibi tarafından hazırlattırılacak altyapı ve üstyapı projeleri ve bunlarla ilgili ruhsat ve izinler ile işyeri açma ve çalışma ruhsatları Bakanlık onayı ve denetimine tâbidir. Münferit yatırım yerlerindeki yatırımlar Bakanlık tarafından onaylanan ruhsat ve izinlere ilişkin harçlardan muaftır.
+(2) Yapı ruhsatı, yapı kullanma izni 3194 sayılı Kanun ile ilgili yönetmeliklerde belirtilen hususlar çerçevesinde; işyeri açma ve çalışma ruhsatı ise 3572 sayılı Kanun ve bu Kanun kapsamında çıkarılan ilgili mevzuatta belirtilen hususlar çerçevesinde Bakanlık tarafından verilir.
+(3) ÇED mevzuatına tabi faaliyetlerden “ÇED Olumlu” veya “ÇED Gerekli Değildir” kararı verilen ve Bakanlıkça yatırımı kabul edilen faaliyetler hakkında yatırımın tamamlanıp tesisin üretime geçebilmesi için alınması gereken diğer izin, onay ve ruhsatlar ilgili kurumlarca on beş gün içinde verilir.

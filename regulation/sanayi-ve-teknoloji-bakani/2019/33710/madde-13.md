@@ -1,0 +1,5 @@
+İmar planı
+MADDE 13 – (1) Endüstri bölgesi imar planı, Yerleşim ve Yapılaşma Talimatnamesi çerçevesinde Bakanlık veya yönetici şirket tarafından 1/5000 ölçeğinde nazım imar planı ve 1/1000 ölçeğinde uygulama imar planı olarak hazırlattırılır ve Bakanlıkça onaylanır.
+(2) Sağlık Bakanlığı ile Bakanlık arasında düzenlenen protokol çerçevesinde belirlenen sağlık koruma bandı 1/5000 ile 1/1000 ölçekli imar planlarına ve plan notlarına işlenir.
+(3) Bakanlıkça onaylanan imar planları valilikçe tespit edilen ilan yerlerinde ve Bakanlığın internet sitesinde bir hafta süre ile ilan edilir. İlan süresinin sonunda Bakanlıkça yürürlüğe konulur ve ilgili kurumlara bilgi verilir.
+(4) Bir haftalık ilan süresi içinde planlara itiraz edilebilir. İtirazlar Bakanlığa yapılır. Bakanlık itirazları ve planları on beş gün içerisinde inceleyerek kesin karara bağlar. İtirazın uygun görülmemesi halinde karar tarihinden itibaren 15 gün içinde karar ilgiliye bildirilir. Kesinleşmiş imar planlarının birer kopyası bilgi için ilgili kurumlara gönderilir.
