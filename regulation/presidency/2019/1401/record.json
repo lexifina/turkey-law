@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-1401",
+  "number": "1401",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "6713 SAYILI KOLLUK GÖZETİM KOMİSYONU KURULMASI HAKKINDA KANUNUN UYGULANMASINA DAİR YÖNETMELİK",
+  "published": "2019-08-07",
+  "enacted": "2019-08-06",
+  "gazette_number": "30855",
+  "in_force": "2019-08-07",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2019-08-07, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1401&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "06bc865c5f3d3781572cd427ae45fd0f76ec2781b0a271fa3464316ac39995a4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

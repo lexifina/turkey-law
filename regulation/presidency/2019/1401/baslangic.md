@@ -1,0 +1,3 @@
+6713 SAYILI KOLLUK GÖZETİM KOMİSYONU KURULMASI HAKKINDA KANUNUN UYGULANMASINA DAİR YÖNETMELİK
+Cumhurbaşkanı Kararının Tarihi : 6/8/2019 Sayısı : 1401
+Yayımlandığı Resmî Gazetenin Tarihi : 7/8/2019 Sayısı : 30855

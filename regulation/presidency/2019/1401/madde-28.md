@@ -1,0 +1,3 @@
+Sivil toplum kuruluşları ile diğer kurum ve kuruluşlarla ilişkiler
+MADDE 28- (1) Komisyon, katılımcı yönetim anlayışının bir gereği olarak görev alanına giren konularda bilgi ve görüş alışverişinde bulunmak amacıyla, kamu kurum ve kuruluşları, sivil toplum kuruluşları, sendikalar, sosyal ve mesleki kuruluşlar, yükseköğretim kurumları, basın-yayın kuruluşları, araştırmacılar ve ilgili diğer kişi, kurum ve kuruluşlarla iletişim içinde bulunur. Bu amaçla toplantı, kongre, konferans, şura, seminer, çalıştay, panel ve benzeri faaliyetler icra eder.
+(2) Sivil toplum kuruluşları ile diğer kurum ve kuruluşlarla bu kapsamda yapılan istişare ve faaliyetlere ilişkin sonuçlar Komisyonda görüşülür ve alınan tavsiye kararları Bakanlık Makamına sunulur.

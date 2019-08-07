@@ -1,0 +1,9 @@
+Kapsam dışı ihbar ve şikâyetler ile ilgili işlemler
+MADDE 65- (1) Bakanlık, Komisyon, bağlı kuruluşların merkez birimleri ile mülki idare amirliklerince;
+a) Kamu kurum ve kuruluşlarından talep mahiyeti taşıyan ve idari bir işlem veya eylemle çözümlenebilecek vasıfta olan,
+b) Kamu kurum ve kuruluşlarının ifa ettikleri hizmetlerde, tesis ettikleri idari işlemlere ilişkin olup ihtilaf halinde idari yargıda dava konusu edilebilecek nitelikte olan,
+c) İdare ile gerçek ya da tüzel kişiler arasında özel hukuk ilişkilerinden kaynaklanan ve taraflarca adli yargı mercilerinde dava konusu edilebilecek hukuki uyuşmazlıklara ilişkin bulunan,
+ç) İdarenin veya personelin hukuki sorumluluğunu gerektirebilecek nitelikte bulunan,
+ihbar veya şikâyetlerin, ilgili mevzuat çerçevesinde sonuçlandırılması sağlanır.
+(2) İhbar ve şikâyet birinci fıkradaki nitelikte olup, konunun Bakanlık, Komisyon, bağlı kuruluşlar ve mülki idare amirliklerinin görev, yetki ve sorumluluk alanında bulunması halinde; yargı mercilerinin görevine giren konularla ilgili olanlar hariç, gerekli karar ve tedbirler alınır ve yapılan işlem hakkında başvuru sahibine bilgi verilir. İstemin yerine getirilmesi maddi ve/veya hukuki sebeplerle mümkün değilse durum başvuru sahibine gerekçesiyle bildirilir. Bu fıkra kapsamındaki başvurular en geç otuz gün içinde sonuçlandırılır. Bu süre içinde sonuçlandırılamayan başvurularla ilgili işlemin safahatı hakkında dilekçe sahiplerine bilgi verilir. İşlem safahatının duyurulması halinde alınan sonuç ayrıca bildirilir.
+(3) 26/9/2011 tarihli ve 659 sayılı Genel Bütçe Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin Yürütülmesine İlişkin Kanun Hükmünde Kararname kapsamında hukuki uyuşmazlıklara konu ihbar ve şikâyetlerle ilgili olarak bu Kanun Hükmünde Kararname hükümleri uygulanır.

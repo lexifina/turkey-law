@@ -1,0 +1,2 @@
+Karar defteri
+MADDE 36- (1) Kararlara ilişkin tutanakların aslı ve varsa karşı görüş yazıları Komisyon Başkanı tarafından onaylanmış birbirini izleyen sayfa numaralı bir deftere, metnin sağlığından hiçbir şekilde şüpheyi gerektirmeyecek bir biçimde tarih ve numara sırasıyla yapıştırılır ve mühürler karar defterine de taşacak şekilde, dört köşesinden Komisyon mührüyle mühürlenir. Komisyon defteri Komisyon sekretaryasında saklanır. Defterler elektronik ortamda da tutulabilir.

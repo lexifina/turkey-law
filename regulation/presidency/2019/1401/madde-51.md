@@ -1,0 +1,3 @@
+Müfettişlerin çekinebilecekleri hâller
+MADDE 51- (1) Müfettişler görevini tarafsız ve nesnel bir şekilde yürütmesini engelleyecek potansiyel veya gerçek çıkar çatışması sebebiyle görevinden çekinme talebini Kurul Başkanlığına bildirir. Başvuru üzerine ileri sürülen sebepler incelenerek müfettişin göreve devam edip etmeyeceğine, görevin aciliyetine göre Kurul Başkanlığınca karar verilir. Bu süre bir haftayı geçemez.
+(2) Kurul Başkanlığınca müfettişin görevini tarafsız ve nesnel bir şekilde yürütmesini engelleyecek potansiyel veya gerçek çıkar çatışmasının resen tespit edilmesi hâlinde de görev müfettişten alınır.

@@ -1,0 +1,6 @@
+Yıllık eğitim planının uygulanması
+MADDE 56- (1) Kurul Başkanlığı tarafından hazırlanan Yıllık Eğitim Planı Taslağı, Komisyonun şubat ayı toplantısında görüşülerek karara bağlanır. Karara bağlanan yıllık eğitim planı Kurul Başkanlığına gönderilir. Kurul Başkanlığı, yıllık eğitim planını uygular, programların etkin ve verimli bir şekilde uygulanması için gerekli tedbirleri alır.
+(2) Kurul Başkanlığınca kabule değer özürleri olmadıkça hizmet içi eğitim faaliyetlerine katılmak zorunludur.
+(3) Eğitim programları, eğitimin konusu ve amacına göre gerektiğinde ilgili kurum, kuruluş ve sivil toplum kuruluşları ile iş birliği yapılarak düzenlenebilir.
+(4) Hizmet içi eğitimlerde; mülki idare amirleri, hâkimler ve savcılar, yükseköğretim kurumlarında görev yapan öğretim elemanları, kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarına mensup uzmanlar, avukatlar, yabancı ülkelerden gelen akademisyenler ve uzmanlar, özel eğitim ve danışmanlık kurumlarında çalışan uzmanlardan tabi oldukları mevzuat çerçevesinde yararlanılabilir.
+(5) Hizmet içi eğitim görevlilerinin tespitinde, yıllık eğitim planı doğrultusunda oluşturulan programlarda yer verilen konu başlıkları ve içerikleri kapsamında mesleki ya da akademik çalışmaları bulunan ve konusunda uzman kişilerin seçimine öncelik verilir.

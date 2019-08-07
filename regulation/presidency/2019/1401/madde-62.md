@@ -1,0 +1,3 @@
+İhbar ve şikâyet hakkının kötüye kullanılması
+MADDE 62- (1) Kolluk personeli hakkındaki ihbar ve şikâyetin, garaz veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığının araştırma, ön inceleme sonucunda veya soruşturma ve yargılamanın tabi olduğu kanuni işlem sonucunda bu isnadın sabit olmadığının anlaşılması halinde merkezde bu memurun en üst amiri, illerde valiler tarafından isnatta bulunanlar hakkında kamu davasının açılması Cumhuriyet savcılığından talep edilir.
+(2) Kolluk personelinin birinci fıkrada belirtilen durumlarda kamu davası açılması için Cumhuriyet başsavcılığına başvurma ve haksız isnatta bulunanlar hakkında genel hükümlere göre tazminat davası açma hakları saklıdır.

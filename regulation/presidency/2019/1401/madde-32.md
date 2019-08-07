@@ -1,0 +1,3 @@
+Toplantıya katılım
+MADDE 32- (1) Üyelerin, izin, rapor ve görevlendirme dışında mazeretlerinin olması durumunda, mazeretlerini yazılı olarak Başkanlığa bildirmeleri gerekir. Acil durumlarda yazılı bildirim sonradan yapılmak kaydıyla diğer iletişim vasıtaları aracılığıyla durum Başkanlığa bildirilir.
+(2) Komisyonun seçimle gelen üyeleri mazeretsiz olarak arka arkaya üç toplantıya veya bir yıl içinde toplam dört toplantıya katılmadıkları takdirde, Komisyon kararıyla üyeliklerine son verilir. Bu fıkrada belirtilen nedenlerle boşalan üyelikler için en geç bir ay içinde yeni görevlendirme yapılır. Bu şekilde görevlendirilen üyeler, yerine görevlendirildikleri üyenin görev süresini tamamlar.

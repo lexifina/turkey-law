@@ -1,0 +1,5 @@
+Komisyon üyelerinin teminatları
+MADDE 7- (1) Komisyon üyeliklerine öğretim üyeleri ile serbest avukatlar arasından seçilecek üyelerin görev süresi dört yıl olup bu üyelerin görevlerine Kanunda belirtilen haller dışında son verilemez.
+(2) Üyelerin, ciddi bir hastalık veya sakatlık nedeniyle iş göremez hâle gelmeleri veya görevlendirmeye ilişkin şartları kaybetmeleri ya da seçilmeleri sırasında bu şartları taşımadıklarının daha sonra tespit edilmesi hâlinde, görevlendirildikleri usule göre süreleri dolmadan görevlerinden alınırlar. Sıhhi yetersizlik durumlarının sağlık kurulu raporu ile belgelendirilmesi şarttır.
+(3) Bu maddede belirtilen nedenlerle veya başka herhangi bir neden ile boşalan üyelikler için ilgisine göre 6 ncı maddede belirtilen usule göre en geç bir ay içinde yeni görevlendirme yapılır. Bu şekilde görevlendirilen üyeler, yerine görevlendirildikleri üyenin görev süresini tamamlar.
+(4) Seçimle gelen üyelerin Komisyondaki görevlerinden doğan suçlarından dolayı, özel kanunlarındaki hükümler uygulanır.

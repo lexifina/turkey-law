@@ -1,0 +1,4 @@
+Gizlilik ve toplantılara katılabilecek olanlar
+MADDE 37- (1) Komisyon tarafından aksi kararlaştırılmadıkça, toplantılardaki müzakereler gizlidir.
+(2) İhtiyaç duyulması hâlinde, gündemdeki konularla ilgili olarak görüşlerinden yararlanılmak üzere kamu görevlileri, kamu ve özel hukuk tüzel kişilerinin temsilcileri veya uzmanlar, Başkan tarafından Komisyon toplantılarına davet edilebilir. Ancak Komisyon kararları, toplantıya dışarıdan katılanların yanında alınamaz.
+(3) Başkan ve üyeler ile Kanunla verilen görevleri yürüten personel, görevlerini yerine getirmeleri sırasında edindikleri gizli bilgileri, kişisel verileri, ticarî sırları ve bunlara ilişkin belgeleri, kanunlarla yetkili kılınan mercilerden başkasına açıklayamazlar ve kendilerinin veya üçüncü kişilerin yararına kullanamazlar. Bu yükümlülük, görevden ayrılmalarından sonra da devam eder.
