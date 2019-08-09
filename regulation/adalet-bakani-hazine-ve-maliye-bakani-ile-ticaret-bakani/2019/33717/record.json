@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33717",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "5607 SAYILI KAÇAKÇILIKLA MÜCADELE KANUNUNA GÖRE GÜMRÜK VERGİLERİNİN EKSİK ÖDENMESİ NEDENİYLE BAŞLATILAN BİR SORUŞTURMA VEYA KOVUŞTURMAYA KONU KARA TAŞITLARININ SAHİPLERİNE İADESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "33717",
+  "issuer": "Adalet Bakanı, Hazine ve Maliye Bakanı ile Ticaret Bakanı",
+  "issuer_slug": "adalet-bakani-hazine-ve-maliye-bakani-ile-ticaret-bakani",
+  "path": "regulation/adalet-bakani-hazine-ve-maliye-bakani-ile-ticaret-bakani/2019/33717",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33717&MevzuatTertip=5",
+  "source_sha256": "8a13103fa853d8871bddf497f8ed7e55562d41a7dfa7b6b57a3823d117eef47c",
+  "source_bytes": 24260,
+  "published": "2019-08-09",
+  "gazette": "30857",
+  "in_force": "2019-08-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.08.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1105,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33717-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
