@@ -1,0 +1,35 @@
+{
+  "source_id": "7.5.33716",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜK KANUNUNA GÖRE MÜLKİYETİN KAMUYA GEÇİRİLMESİ KARARINA KONU KARA TAŞITLARININ SAHİPLERİNE İADESİ HAKKINDA YÖNETMELİK",
+  "number": "33716",
+  "issuer": "Hazine ve Maliye Bakanı ile Ticaret Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani-ile-ticaret-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani-ile-ticaret-bakani/2019/33716",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33716&MevzuatTertip=5",
+  "source_sha256": "8b2d0827a06941df08e38f998509705a060165700b7c630343c307c898993163",
+  "source_bytes": 25466,
+  "published": "2019-08-09",
+  "gazette": "30857",
+  "in_force": "2019-08-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.08.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1195,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33716-Ek.docx",
+    "http://www.resmigazete.gov.tr/eskiler/2019/08/20190809-2-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
