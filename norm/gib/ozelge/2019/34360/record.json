@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.01.01.02[5759]-271304",
+  "source_id": 34360,
+  "date": "2019-08-09",
+  "title": "Müteselsil kefalet içeren kira sözleşmesinin damga vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/624/ozelge/34360",
+  "related_law": "4884 sayılı TÜRK TİCARET KANUNU, VERGİ USUL KANUNU, DAMGA VERGİSİ KANUNU, İŞ KANUNU VE SOSYAL SİGORTALAR KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e7abe1a9a4fec047132a600f8083313a23f0e4e92495d4bbc9167e69c3a7feba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
