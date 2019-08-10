@@ -1,0 +1,5 @@
+Sürekli doğrulama işlemleri
+MADDE 16 – (Değişik:RG-7/1/2015-29229)(1)
+(1) Bakanlık veya yetkilendirdiği teknik servis/servisler tarafından, tip onayı bulunan araç, aksam, sistem veya ayrı teknik ünitelerin onaylanmış tipe uygun olarak imalatın devamını kontrol etmek amacıyla sürekli doğrulama işlemleri her zaman yapılabilir. Bu denetimlerde, başlangıç değerlendirmesi ve ürün uygunluk düzenlemelerinde yer alan şartların devamlılığı da kontrol edilir.
+(2) Yapılan incelemeler sonucunda bu Tebliğin Ek-3’ündeki İnceleme Formu ve Ek-5’indeki Üretim Uygunluk Doğrulama Formu düzenlenir. Sürekli doğrulama işlemi ilgili mevzuatta belirlenmiş ise bu süre içinde, aksi durumunda iki seneden az olmayan bir sürede yapılır. Bu süre, önceki denetimlerde üretimin uygunluğu konusunda imalatçının oluşturduğu kalite sisteminin ve üretimin uygunluğu yetkinliğinin var olduğuna dair tespitler yapılırsa daha uzun olabilir.
+(3) Bakanlık tip onayı kapsamında yer alan bütün bilgi, belge, ürün ve tesisleri her zaman denetleyebilir.

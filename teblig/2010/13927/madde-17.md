@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Diğer Hususlar
+Yetkili temsilci
+MADDE 17 – (1) Yurt dışından yapılacak müracaatlarda yetkili temsilci, Avrupa Birliği üyesi ülkelerde veya ülkemizde yerleşik kişi veya firmalar olabilir. Bu husus imalatçı ile yetkili temsilci olacak kişi veya firma arasında bu Tebliğin ekinde yer alan Ek-7’de örneği bulunan yetkili temsilcilik sözleşmesi ile belirlenir. Bu sözleşme, imalatçı firma ile yetkili temsilci arasında imalatçının bulunduğu mahalde noter veya eşdeğer kurumlar veya Sanayi ve/veya Ticaret Odası tasdikli olmalıdır. Bu tasdikin doğruluğu o ülkede bulunan T.C Konsoloslukları tarafından teyit edilir. Bu belgelerin orijinalleri ile birlikte yeminli tercüme bürolarının Türkçe tercümeleri de sunulur.
+(2) Yetkili temsilciye imalatçı firma tarafından, imalatçı gibi hareket edeceği yetkisi verilir. İmalatçı, yetkili temsilcisi tarafından alınan tip onayı ve eki sistem onaylarına göre imalatı yapacağını ve üründe bir değişiklik yapacağı takdirde, önceden alınmış ulusal tip onayında, kapsam genişletmesi yapılmadan bu ürünü Türkiye’ye sevk etmeyeceğini, üretim kontrollerini alınmış tip onayına göre yapacağını taahhüt ederek, bu taahhüdünü bu Tebliğin ekinde yer alan Ek-7’de örneği verilen yetki belgesinde belirtir.
+(3) Yetkili temsilci Bakanlık tarafından bildirilen tüm bilgileri ve düzenlenen belgeleri imalatçı firmaya bildirmekle yükümlüdür.
+(4) Ülkemizde imalat yapan firmalar, ülkemizde yerleşik gerçek veya tüzel kişilerle bu Tebliğin ekinde yer alan Ek-6’da örneği bulunan sözleşmeyi yapmak suretiyle yetkili temsilci belirleyebilir.

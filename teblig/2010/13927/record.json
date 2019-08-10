@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.13927",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ARAÇLAR VE BUNLARIN AKSAM, SİSTEM VE AYRI TEKNİK ÜNİTELERİ İLE İLGİLİ TİP ONAYI YÖNETMELİKLERİ VE TEKNİK DÜZENLEMELERİN UYGULAMA USUL VE ESASLARI HAKKINDA TEBLİĞ (TEBLİĞ NO: SGM-2010/1)",
+  "number": "13927",
+  "path": "teblig/2010/13927",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=13927&MevzuatTertip=5",
+  "source_sha256": "4cc202e87e9200c0f56d1a8d829115b181c739b2f1eccbd5f3a39b167b300bf2",
+  "source_bytes": 127867,
+  "published": "2010-04-10",
+  "gazette": "27548",
+  "in_force": "2019-08-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/8/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-08-10",
+      "RG-10/8/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-08-10",
+      "10/8/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-01-07",
+      "RG-7/1/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-01-07",
+      "7/1/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8256,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.13927%20ekler.rar"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

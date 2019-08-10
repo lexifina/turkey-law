@@ -1,0 +1,2 @@
+Müsaade edilen azami yüklü kütleler
+GEÇİCİ MADDE 3 – (1) MARTOY kapsamında araçlar için 29/4/2010’dan önce düzenlenen uygunluk belgelerinde, belgelerin 17 nci maddesi yer almıyorsa ve araçların teknik olarak müsaade edilen azami yüklü kütlesi 18/7/1997 tarihli ve 23053 mükerrer sayılı Resmî Gazete’de yayımlanan Karayolları Trafik Yönetmeliğinde belirtilen azami yüklü kütlelerden büyük değerlerde olması durumunda, söz konusu araç versiyonu için tescil yükü Karayolları Trafik Yönetmeliğinde belirtilen değerleri aşamaz. Hesaplamada AİTM hükümleri de dikkate alınır.

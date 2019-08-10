@@ -1,0 +1,3 @@
+AT tip onayı uygulamasının başlaması
+GEÇİCİ MADDE 4 – (1) Araç, aksam, sistem ve ayrı teknik ünitelerin AT tip onayı uygulaması, Avrupa Birliğinde kabul edildiğinde Bakanlık tarafından internet sayfasında duyurulur. Duyurulacak tarihe kadar sadece ulusal tip onayı verilir.
+(2) Aksam, sistem ve teknik ünitelerle ilgili tip onayında, AB’de yayımlanan mevzuat ile Türkiye’de yayımlanan mevzuatın yürürlülük tarihlerinin farklılık göstermesi durumunda; AB ülkeleri tarafından güncel seviyeden verilen tip onayları kabul edilir. Türkiye’de yürürlükte olan mevzuatın seviyesinde AB’nde tip onayı belgesi düzenlenmemesi durumunda, AB ülkeleri teknik servisleri tarafından verilen raporlar geçerli kabul edilir.
