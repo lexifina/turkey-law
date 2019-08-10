@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 2 – (1) Bu Yönetmelikte öngörülen uygulamaya ilişkin ayrıntılı kurallar belirleninceye kadar, bu kurallara ilişkin 27/5/2004 tarihli ve 5179 sayılı Gıdaların Üretimi, Tüketimi ve Denetlenmesine Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulü Hakkındaki Kanun, 29/5/1973 tarihli ve 1734 sayılı Yem Kanunu ve 8/5/1986 tarihli ve 3285 sayılı Hayvan Sağlığı ve Zabıtası Kanununa dayanılarak çıkarılan Tebliğ ve diğer alt mevzuatın bu Yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam edilir.

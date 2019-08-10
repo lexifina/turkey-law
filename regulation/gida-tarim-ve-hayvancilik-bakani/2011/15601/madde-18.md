@@ -1,0 +1,13 @@
+İstisnai uygulamalar
+MADDE 18 – (1) Bu Yönetmeliğin ikinci bölümü:
+a) (Değişik:RG-24/1/2012-28183) İthalatın yasak olmadığı bir ülkeden veya bölgeden gelmesi ve Bakanlıkça belirlenen miktarı aşmaması koşuluyla, yolcu beraberinde gelen ve kendi kişisel tüketimlerine yönelik ürünlere uygulanmaz..
+b) (Değişik:RG-24/1/2012-28183) İthalatın yasak olmadığı bir ülkeden veya bölgeden gelmesi, Bakanlıkça belirlenen miktarı aşmaması ve ticari olarak ithalatı amaçlanmamış olması koşuluyla, özel kişilere küçük sevkiyatlar halinde gönderilen ürünlere uygulanmaz.
+c) Ülkemize giriş yapmaması şartıyla, mürettebat ile yolcuların kullanımına yönelik olarak uluslararası faaliyet gösteren ulaşım araçlarında bulunan ürünlere uygulanmaz. Bu ürünler veya bunların mutfak atıklarının boşaltılması durumunda bunlar imha edilir. Ancak, söz konusu ürünlerin gümrük gözetiminde ve aynı liman içerisinde, uluslararası faaliyet gösteren bir nakil aracından diğerine doğrudan aktarılması halinde imha edilmesine gerek yoktur.
+ç) (Değişik:RG-24/1/2012-28183) Ürünlerin miktarının Bakanlıkça belirlenen miktarı aşmadığı durumlarda, hermetik olarak kapatılmış kaplarda en az 121 oC’de 3 dakikaya eşdeğer ısıl işleme tabi tutulmuş aşağıdaki ürünlere uygulanmaz:
+1) Yolcu beraberinde gelen ve kendi kişisel tüketimleri için amaçlanan ürünler.
+2) Ticari olarak ithalatı amaçlanmamış olması koşuluyla, özel kişilere küçük sevkiyatlar halinde gönderilen ürünler.
+d) Piyasaya arz için amaçlanmamış ve veteriner sınır kontrol noktası müdürlüğü tarafından önceden onaylanmış olması koşuluyla, ticari numune olarak gönderilen veya sergiler için amaçlanan ürünlere uygulanmaz.
+e) Özel çalışma ve analizler için amaçlanan ürünlere uygulanmaz.
+(2) Birinci fıkranın (d) ve (e) bentlerinde belirtilen ürünlerin insan tüketimine sunulmadığı ve sergi bittikten veya özel çalışma ya da analizler gerçekleştirildikten sonra, analiz için kullanılan miktar hariç olmak üzere, Bakanlık tarafından belirlenen koşullar altında imha edildiği veya geri gönderildiği resmi denetimlerle mümkün olduğunca belirlenmelidir. Bakanlık söz konusu ürünlerin ithal edilme amacı dışındaki amaçlar için kullanılmadığından emin olmalıdır.
+(3) Birinci fıkra, taze et ve et ürünlerine ilişkin Bakanlıkça belirlenen özel hükümler saklı kalmak kaydıyla uygulanır.
+(4) (Ek:RG-8/3/2017-30001) Kamu kurum ve kuruluşları, hayır kurumları veya insani yardım kurumları ile kuruluşları tarafından ticari amaç güdülmeksizin ve amacı doğrultusunda kullanılacak ürünlerin 13 üncü madde kapsamında transit geçişinde, Bakanlıkça yapılacak risk değerlendirmesi kapsamında istisna tanınabilir. Bu fıkra kapsamındaki uygulamalara ilişkin usul ve esaslar Bakanlıkça belirlenir.

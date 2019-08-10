@@ -1,0 +1,6 @@
+İthalat
+MADDE 9 – (1) İthalatı amaçlanan her bir sevkiyata, veteriner sağlık sertifikalarının veya veteriner belgelerinin veya ilgili mevzuatın gerektirdiği diğer belgelerin orijinalleri eşlik eder. Sertifikaların veya belgelerin orijinalleri kontrolü yapan veteriner sınır kontrol noktası müdürlüğünde kalır.
+(2) 12 nci madde hükümleri saklı kalmak kaydıyla, ithalatı yapılacak olan her bir sevkiyat, 6 ncı maddenin dördüncü fıkrasında belirtildiği şekilde kimlik ve fiziksel kontrole tabi tutulur.
+(3) Gümrük idaresi, Gümrük mevzuatı ile 12 nci maddenin ikinci ve üçüncü fıkraları uyarınca getirilen özel hükümler saklı kalmak kaydıyla, veteriner kontrollerinin sonuçlarına göre olumlu olarak düzenlenmiş 7 nci maddenin birinci fıkrasında belirtilen belge sunulmadıkça ürünlerin ithalatına izin vermez.
+(4) Sevkiyat ithalat koşullarını karşılıyorsa, resmi veteriner hekim ilgili kişiye sertifikaların veya belgelerin orijinallerinin onaylı bir suretini verir ve veteriner sınır kontrol noktasında gerçekleştirilen veteriner kontrollerine dayanarak sevkiyatın söz konusu koşullara uygun olduğuna dair 7 nci maddenin birinci fıkrasında belirtilen belgeyi düzenler.
+(5) İthalatı yapılan ürünlerin ülke sınırları içindeki serbest dolaşımına ait kurallar Bakanlık tarafından belirlenir.

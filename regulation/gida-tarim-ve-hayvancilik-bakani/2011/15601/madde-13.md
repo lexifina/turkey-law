@@ -1,0 +1,18 @@
+Transit
+MADDE 13 – (1) Bir ülkeden gelip başka bir ülkeye veya aynı ülkeye ülkemiz toprakları üzerinden gidecek olan sevkiyatların transit işlemlerine sadece aşağıdaki durumlarda izin verilir:
+a) Sevkiyatlar, ürünlerine ithalat yasağı uygulanmayan bir ülkeden gelmeli ve başka bir ülkeye gitmesi amaçlanmalıdır. Ancak, 11 inci maddenin birinci fıkrasının (a) bendinde belirtildiği şekilde aynı liman veya havalimanındaki gümrüklü saha içerisinde bir uçaktan diğerine veya bir gemiden diğerine ülke içerisinde başka bir duraksama olmayacak şekilde aktarılması söz konusu olduğunda veteriner sınır kontrol noktası müdürlüğü bu kuralı uygulamaz.
+b) Sevkiyatın reddedilmesi durumunda, sevkiyattan sorumlu kişi sevkiyatı geri alacağını ve 19 uncu maddeye uygun olarak elden çıkaracağını önceden taahhüt eder.
+(2) Birinci fıkra uyarınca verilen izinler aşağıdaki koşullara tabidir:
+a) Veteriner sınır kontrol noktasına transit için sunulan sevkiyatlara, 9 uncu maddenin birinci fıkrasında belirtilen belgeler ve gerektiğinde bu belgelerin onaylanmış tercümeleri eşlik eder.
+b) Sevkiyatı yapılan ürünler belge ve kimlik kontrolleri yapılmak üzere ilgili veteriner sınır kontrol noktası müdürlüğüne sunulur. Deniz ve hava taşımacılığı için, veteriner sınır kontrol noktası müdürlüğü tarafından aşağıdaki durumlarda belge ve kimlik kontrollerinde istisna uygulanabilir:
+1) Sevkiyatın indirilmediği durumlarda, 21 inci madde hükümleri saklı kalmak kaydıyla belge kontrolleri, gemi/uçak manifestosunun incelenmesiyle sınırlandırılır.
+2) Sevkiyatın 11 inci maddenin birinci fıkrasının (a) bendinde belirtildiği şekilde bir uçaktan diğerine veya bir gemiden diğerine aynı liman veya havalimanı içerisinde yer alan gümrük bölgesinde aktarılması durumunda belge ve kimlik kontrolünde istisna uygulanabilir.
+c) Halk sağlığı veya hayvan sağlığı riski bulunması veya usulsüzlükten şüphelenilmesi durumlarında ilave fiziksel kontroller yapılabilir.
+ç) Karayolu veya demiryolu ile ülkemizden geçiş yapılması halinde sevkiyat:
+1) (a) bendinde belirtilen belge ve sevkiyatın çıkış yapacağı veteriner sınır kontrol noktası müdürlüğünün belirtildiği 7 nci maddenin birinci fıkrasında belirtilen belge ile birlikte, gümrük mevzuatı uyarınca transit rejimine uygun olarak çıkış noktasına kadar gümrük gözetimi altında gönderilir.
+2) Giriş veteriner sınır kontrol noktasından ayrıldıktan sonra ürünler indirilmeksizin veya bölünmeksizin yetkili makamlar tarafından mühürlenmiş olan araçlarla veya konteynerlerle nakledilir.
+3) Coğrafi uzaklık dikkate alınarak verilmiş olan genel bir muafiyet hariç, giriş veteriner sınır kontrol noktasından ayrılmasını takiben gümrük mevzuatına uygun olarak belirlenen süre içinde ülkeden çıkış yapmalıdır.
+d) Nakliyata izin veren resmi veteriner hekim, çıkış veteriner sınır kontrol noktası müdürlüğündeki resmi veteriner hekimi ulusal veri tabanı veya diğer iletişim araçları yoluyla transit geçişten haberdar eder.
+e) Çıkış veteriner sınır kontrol noktası müdürlüğündeki resmi veteriner hekim, söz konusu ürünün ülkeden ayrıldığını 7 nci maddenin birinci fıkrasında belirtilen belge üzerinde belirtir ve belgenin bir kopyasını giriş veteriner sınır kontrol noktası müdürlüğüne elektronik olarak veya diğer iletişim araçları ile gönderir.
+f) Giriş veteriner sınır kontrol noktası müdürlüğündeki resmi veteriner hekim (ç) bendinin (3) numaralı alt bendinde belirtilen süre içinde ürünlerin çıkışı konusunda bilgilendirilmemişse, ürünlerin yerinin belirlenmesi için gerekli soruşturmayı yapacak olan yetkili gümrük idaresine bu durumu bildirir.
+(3) Bu maddenin uygulanmasından doğacak tüm masraflar, sevkiyattan sorumlu kişi veya temsilcisi tarafından karşılanır.

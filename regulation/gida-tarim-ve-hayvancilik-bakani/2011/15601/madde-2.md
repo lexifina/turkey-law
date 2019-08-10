@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; veteriner kontrollerine tabi olan ürünlerin ithalatı, transiti, aktarılması, serbest bölgelere veya gümrük antrepolarına giriş ve çıkışı, gemi kumanyacılığı, ihraç edildikten sonra geri dönmesi durumlarında uygulanan veteriner kontrollerinin düzenlenmesi, istisnai uygulamalar, şüphe, uygunsuzluk ve usulsüzlük durumlarında uygulanacak işlemler, kontrol sıklığının azaltılması ve arttırılması, koruma tedbirleri, personel değişim programı, personel eğitimleri, hizmet alımına ilişkin düzenlemeleri kapsar.

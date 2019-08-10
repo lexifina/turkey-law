@@ -1,0 +1,13 @@
+Uygunsuzluk ve usulsüzlük durumlarında uygulanacak işlemler
+MADDE 19 – (1) 5 ve 6 ncı maddelerde belirtilen şartlara uygun olarak veteriner kontrollerine sunulmadan ülkeye giriş yapan sevkiyatlar alıkoyulur ve Bakanlık ikinci fıkranın (b) bendine uygun olarak bu sevkiyatları imha etme veya ikinci fıkranın (a) bendine uygun olarak geri gönderme kararı verir.
+(2) Bu Yönetmelik kapsamında gerçekleştirilen kontrollerde, ürünün ithalat koşullarını karşılamadığı veya bir usulsüzlük yapıldığı tespit edilirse veteriner sınır kontrol noktası müdürlüğü, sevkiyattan sorumlu kişi veya temsilcisi ile görüşerek (a) veya (b) bentlerinde belirtilen önlemlerden birini almaya karar verir.
+a) Veteriner denetimlerinin sonuçları ve sağlık şartları engel teşkil etmiyorsa, sevkiyattan sorumlu kişi ile mutabık kalınarak, sevkiyat aynı veteriner sınır kontrol noktasından başka bir ülkeye benzer nakil aracı ile azami 60 gün içerisinde geri gönderilir. Bu durumda veteriner sınır kontrol noktası müdürlüğü resmi veteriner hekimi:
+1) Geri gönderme ile ilgili bilgilendirme işlemini başlatır.
+2) Reddedilen ürünlerin başka bir veteriner sınır kontrol noktasından ülkeye yeniden girişini engellemek amacıyla, reddedilen ürünlere eşlik eden veteriner sağlık sertifikalarını veya belgelerini Bakanlıkça belirlenen düzenlemeler doğrultusunda geçersiz kılar.
+b) Geri gönderme mümkün değilse veya (a) bendinde belirtilen 60 günlük zaman sınırı aşılırsa ya da sevkiyattan sorumlu kişi hemen onay verirse, ürünler veteriner sınır kontrol noktası müdürlüğüne en yakın yerde ilgili mevzuata uygun olarak imha edilir.
+c) Ürünlerin geri gönderilmesi veya reddedilme sebeplerinin teyit edilmesi sürecinde yetkili makamlar masrafları sevkiyattan sorumlu kişiye ait olmak üzere bu ürünlerin veteriner sınır kontrol noktası müdürlüğü gözetimi altında depolanmasını sağlar.
+(3) Birinci ve ikinci fıkralarda belirtilen kontroller sonucunda mevzuatın ciddi bir şekilde ihlal edildiği veya ihlalin tekrar edildiği tespit edilirse 23 üncü madde hükümleri uygulanır.
+(4) Halk ve hayvan sağlığına risk teşkil etmemesi koşuluyla, ilgili mevzuat çerçevesinde bu ürünlerin kullanımı için Bakanlık tarafından verilmiş bir onay varsa ikinci fıkra uygulanmaz.
+(5) Sevkiyatın geri gönderilme süreci veya imha edilmesinden ya da ürünün diğer amaçlar için kullanılmasından doğan masraflar, sevkiyattan sorumlu kişi veya temsilcisi tarafından karşılanır.
+(6) Usulsüzlüğün ciddi ihmal veya kasıtlı ihlalden kaynaklandığının tespit edilmesi halinde sevkiyattan sorumlu kişiye ulusal mevzuatta belirtilen ceza uygulanır.
+(7) Resmi veteriner hekim yapılan işlemler ile ilgili bilgileri veri tabanına girer ve gerekli bilgilendirmeleri yapar.

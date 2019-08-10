@@ -1,0 +1,8 @@
+Aktarma
+MADDE 11 – (1) Deniz ya da hava yoluyla yetkili bir veteriner sınır kontrol noktasına gelen ancak fiili ithalatı başka bir deniz veya hava veteriner sınır kontrol noktasında yapılması amaçlanan sevkiyatların, kimlik ve fiziksel kontrolleri varış yerindeki veteriner sınır kontrol noktasında yapılır. Giriş veteriner sınır kontrol noktasında aşağıdaki işlemler gerçekleştirilir:
+a) Eğer sevkiyat aynı limanın veya havalimanının gümrük bölgesi içinde, bir uçaktan diğerine ya da bir gemiden diğerine, doğrudan veya (b) bendinde belirtilen asgari zamandan daha kısa bir zaman için iskeleye veya asfalt piste boşaltıldıktan sonra aktarılırsa, sevkiyattan sorumlu kişi veteriner sınır kontrol noktası müdürlüğünü bilgilendirir. Ancak, hayvan veya insan sağlığına yönelik risk durumunda, yetkili makam sevkiyata eşlik eden sertifika veya veteriner menşe sertifikası veya ilgili diğer belgelerin orijinal veya onaylı suretlerine dayalı olarak ürünlerin belge kontrolünü yapar.
+b) Sevkiyat başka şekilde boşaltılmışsa:
+1) Deniz veya hava yoluyla bir diğer veteriner sınır kontrol noktasına gönderilmesi esnasında liman veya havalimanı gümrük bölgesinde, merkezi yetkili makam tarafından belirlenecek koşullarda, asgari ve azami süreler için depolanır.
+2) (a) bendinde belirtilen belgelerle ilgili olarak ürünler belge kontrolüne tabi tutulur.
+3) 21 inci madde hükümleri saklı kalmak kaydıyla, halk veya hayvan sağlığına yönelik herhangi bir tehlike ihtimali varsa, ayrıca kimlik kontrolü ve fiziksel kontrole tabi tutulur.
+(2) Bakanlık, bu maddenin hükümlerini demir yolu ile aktarmayı da kapsayacak şekilde genişletebilir.
