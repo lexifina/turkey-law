@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 8 – (1) Üniversitede aylıklı ve devamlı statüde çalışan öğretim üyeleri arasından en çok iki kişi, Müdürün teklifiyle, Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdür yardımcılarının görev süresi üç yıl olup, Müdürün kendilerine vereceği görevleri yapar. Müdürün görevi sona erdiğinde müdür yardımcılarının görevi de kendiliğinden sona erer. Müdürün bulunmadığı zamanlarda müdür yardımcılarından biri Müdüre vekâlet eder. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
