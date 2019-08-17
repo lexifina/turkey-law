@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33735",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN VE PETROL İŞLERİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "33735",
+  "issuer": "Maden ve Petrol İşleri Genel Müdürü",
+  "issuer_slug": "maden-ve-petrol-isleri-genel-muduru",
+  "path": "regulation/maden-ve-petrol-isleri-genel-muduru/2019/33735",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33735&MevzuatTertip=5",
+  "source_sha256": "bbc578a5aa7890ecb73245dba0c3cde2dc763eb9d85184f7d190de77c42639c8",
+  "source_bytes": 58244,
+  "published": "2019-08-17",
+  "gazette": "30861",
+  "in_force": "2019-08-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.08.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2778,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
