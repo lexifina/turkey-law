@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.11972",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVAALANI SAĞLIK DENETLEME MERKEZLERİ YÖNETMELİĞİ",
+  "number": "11972",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2008/11972",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11972&MevzuatTertip=5",
+  "source_sha256": "b7f640c491a117674626efe8a2c2baa29e27a0047ea21312a4e134832157439f",
+  "source_bytes": 52576,
+  "published": "2008-02-17",
+  "gazette": "26790",
+  "in_force": "2019-08-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/8/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-08-17",
+      "RG-17/8/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-08-17",
+      "17/8/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-17",
+      "RG-17/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-17",
+      "17/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2413,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

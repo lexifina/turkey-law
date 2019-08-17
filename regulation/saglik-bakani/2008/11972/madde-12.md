@@ -1,0 +1,4 @@
+Etkilenmiş bölgeden gelen uçakların girişte uymak zorunda olduğu hususlar
+MADDE 12 – (1) Etkilenmiş bölgeden gelen bir uçağa, sağlık denetleme merkezi tarafından serbest izni verilinceye kadar uçaktaki yolcu ve uçak çalışanlarının alıkonulmalarından, eşya ve yükünün uçaktan çıkarılmasından uçağın kaptanı sorumludur.
+(2) Etkilenmiş bölgeden gelen bir uçaktaki yolcuların ve uçak çalışanlarının sağlık muayeneleri süratle yapılır, aşı belgeleri incelenir. Bu muayene ve incelemeler sona erip, serbest izni verilinceye kadar uçaktan dışarı çıkılamaz, yük ve eşya çıkarılamaz. Sağlık denetleme merkezi görevlileri dışında kişi ve görevliler uçağa giremez. Uçağa izinsiz olarak girmiş ve böyle bir uçağın yolcu ve çalışanları ile temasta bulunanlar, uçakta bulunan kişilere uygulanan sağlık işlemlerine tabi tutulurlar.
+(3) Bu yasağa uymayanlar ve uyulmasına engel olanlar hakkında yasal işlemin yapılabilmesi için yetkili mercilere suç duyurusunda bulunulur.

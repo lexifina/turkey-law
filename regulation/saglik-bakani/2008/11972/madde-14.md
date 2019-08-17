@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+Uluslararası Uçuşlarda Sağlık Açısından Şüpheli Kişiler ve Alınacak Önlemler
+Ülkeye girişte şüpheli kişiler ve alınacak önlemler
+MADDE 14 – (1) Halk sağlığı riski oluşturabilecek hastalığa yakalanmış kişilerin ülkeye girmesi engellenemez. Ancak sağlık denetleme merkezleri halk sağlığı riski oluşturabilecek hastalıkların ülkeye girişini ve yayılmasını önlemek için uygulayacağı sağlık önlemlerini alıncaya kadar yolcuları, mürettebatı ve araçları tecrit edebilirler. Ülkeye giren herkes bu Yönetmelik hükümlerine göre uygulanacak her türlü sağlık işlemlerine uymakla yükümlüdür.
+(2) Havaalanlarından uluslararası giriş yapan mürettebat ve yolcuların halk sağlığı açısından risk altında olduğundan şüphe duyulduğunda hiç kimsenin gitmesine izin verilmeden, öncelikle özel bir yerde sağlık kontrol ve denetiminden geçirildikten sonra gümrük ve diğer işlemleri yapılır. Gerekli görülenler sağlık görevlisi gözetiminde gönderme belgesi ile birlikte kesin teşhis, tedavi ve tecrit için belirlenen yerlere gönderilir.
