@@ -1,0 +1,3 @@
+Dayanak
+MADDE 2 – (Değişik:RG-17/8/2019-30861)
+(1) Bu Yönetmelik; 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 29 uncu maddesine, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 653 üncü ve 796 ncı maddelerine, 10/3/1954 tarihli ve 6368 sayılı Kanunla onaylanan Uluslararası Sağlık Tüzüğüne ve 3/6/1975 tarihli ve 7/10100 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Uluslararası Cenazelerin Nakli Anlaşması hükümlerine dayanılarak hazırlanmıştır.
