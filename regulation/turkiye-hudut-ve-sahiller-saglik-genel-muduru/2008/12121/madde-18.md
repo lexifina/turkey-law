@@ -1,0 +1,5 @@
+Ödeme zamanı
+MADDE 18 – (1) Transit sağlık resmi, geminin boğaz geçişi tarihinden itibaren en geç üç iş günü içinde ve Genel Müdürlükçe önceden belirlenen ve duyurulan ödeme yerlerinde ödenir. (Ek cümle:RG-31/12/2010-27802)(1) Ancak geminin ödeme süresi olan üç iş günü içinde transit dönüşünü yapması durumunda, transit sağlık resmi en geç boğaz geçiş tarihi itibarıyla ödenir
+(2) Yabancı ülkelerden gelen her gemi, ödemesi gereken serbest gemi sağlık resmi tutarını, serbest pratika işlemi sonrasında temas ettikleri ilk Türk limanına giriş yaptığı günden itibaren en geç üç iş günü içinde ilgili hesaba öder.
+(3) Türk limanları arasında seyreden, kabotaj hakkına sahip gemilerin, ödemesi gereken serbest gemi sağlık resmi ve yıllık gemi sağlık cüzdanı bedeliyle ilgili tutar, tarifenin yürürlüğe girmesinden sonra ilk uğradığı Türk limanında hareketinden önce, sağlık denetimini yaptırıp bir yıl geçerli olan patentasını aldıkları günden itibaren en geç üç iş günü içinde ilgili hesaba ödenir.
+(4) Zamanında ödenmeyen gemi sağlık resmi alacaklarına 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre gecikme zammı uygulanır.

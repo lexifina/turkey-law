@@ -1,0 +1,3 @@
+Transit niteliğinin bozulması
+MADDE 10 – (1) (Değişik:RG-17/8/2019-30861) Türk boğazlarını transit geçeceğini beyan ederek transit gemi sağlık resmi ödeyen gemi; Türk boğazlarında bir limana gelirse veya yabancı bir limana gitmeksizin Türk boğazları dışında bir Türk limanına veya zorunlu ihtiyaçlarını karşılamak üzere İstanbul veya Çanakkale liman sahası içinde demirleyip yüz altmış sekiz saatten fazla süre kalır, yük ve yolcu indirip bindirirse, transit niteliği bozulur. Transit niteliği bozulan bu geminin, ödediği transit gemi sağlık resmi, serbest gemi sağlık resmine tamamlanır.
+(2) Transit dönüş hakkını kullanan bir geminin transit niteliği bozulursa, tam serbest sağlık resmi öder.
