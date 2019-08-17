@@ -1,0 +1,2 @@
+Yönetmeliğin yürürlük tarihinden önce açılmış olan icra takiplerinin sonuçlandırılması
+GEÇİCİ MADDE 1 – (1) 6/6/2008 tarihinden önce 2548 sayılı Gemi Sağlık Resmi Kanunu gereği tahakkuk eden ve bu Yönetmeliğin yürürlük tarihinden önce başlatılan, 2004 sayılı İcra ve İflas Kanununa göre başlatılmış olan Genel Müdürlük alacaklarına dair, icra takipleri İcra ve İflas Kanunu hükümlerine göre, takip edilerek sonuçlandırılır.

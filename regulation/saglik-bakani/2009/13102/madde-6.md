@@ -1,0 +1,3 @@
+Şahsi kefalet ve acente sorumluluğu
+MADDE 6 – (1) Genel Müdürlük alacaklarının tahsili ile ilgili olarak 6183 sayılı Kanunun 10 uncu maddesinde belirtilen teminatı sağlayamayan borçluların, borç ödemede hüsnüniyetli ve malî gücü yüksek olan muteber bir şahsı müteselsil kefil ve müşterek müteselsil borçlu olarak göstermesi hâlinde, şahsi kefaleti ve gösterilen şahsı kabul edip etmeme konusunda tahsil dairesi yetkilidir.
+(2) 31/10/2005 tarihli ve 25982 sayılı Resmî Gazete’de yayımlanan Gemi Acenteleri Hakkında Yönetmelik hükümleri uyarınca yetki belgesi olan veya yetkilendirilen acenteler, Genel Müdürlük birimlerinde işlem yapabilirler. Acenteler yükümlendiği gemiler için gemi sağlık resminden ve buna bağlı kanuni ve akdi gecikme zamlarının ödenmesinden sorumludur.
