@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Rektör tarafından Üniversitenin Beden Eğitimi ve Spor Yüksekokulunun kadrolu öğretim üyeleri arasından görevlendirilir. Müdürün görev süresi üç yıldır. Görev süresi biten Müdür tekrar görevlendirilebilir veya gerektiğinde görev süresi dolmadan Rektör tarafından görevinden alınabilir.
+(2) Üniversite öğretim elemanları arasından iki kişi, Müdürün önerisi üzerine Rektör tarafından müdür yardımcısı olarak görevlendirilebilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar. Müdürün görev süresi sona erdiğinde müdür yardımcılarının da görevi kendiliğinden sona erer. Müdür, görevi başında bulunmadığı zaman yardımcılarından birisini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
