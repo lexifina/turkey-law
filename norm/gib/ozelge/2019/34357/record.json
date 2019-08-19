@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155.01.05.01[5348]-273612",
+  "source_id": 34357,
+  "date": "2019-08-19",
+  "title": "Kamu İhale Kurumu Yemek Servisi Hizmetleri İşletmesi Sosyal Tesisi tarafından yemek hizmeti hakediş ödemelerinden damga vergisi kesintisi yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34357",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "9db24c92508ecac9dda7e59b7b4dbd43abde0f5ff7562e5d9c021bfad2457542",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
