@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 2,
+  "esas_no": "7/17546",
+  "submitted": "2019-08-20",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ÇELEBİ",
+  "province": "İzmir",
+  "summary": "Muş ilindeki işsizlik verilerine ve 2010-2018 yılları arasında Muş'ta ve Türkiye genelinde İŞKUR'a yapılan başvuru sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-37b9-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "98c68c31c8eaa00671249affcd040fdabcd8ca92ae4a663f21af3f9ba32c1891",
+  "in_force": "2019-08-20",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
