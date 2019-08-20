@@ -1,0 +1,4 @@
+Güvenlik kuralları
+MADDE 7 – (1) Bu Yönetmelikte başkaca belirtilmedikçe, radyo ve televizyon verici istasyonları ve ilgili donanımı, Türk Standartları Enstitüsü tarafından hazırlanan TS 2140 EN 60215 standardı ile uluslararası ETSI EN 301 489 ve ilgili diğer standartlarda belirtilen güvenlik gereksinimlerine ve elektromanyetik uyumluluğa uygun olmalıdır.
+(2) Verici tesis ve işletim şirketi radyo ve televizyon verici istasyonları için, 21/4/2011 tarihli ve 27912 sayılı Resmî Gazete’de yayımlanan Elektronik Haberleşme Cihazlarından Kaynaklanan Elektromanyetik Alan Şiddetinin Uluslararası Standartlara Göre Maruziyet Limit Değerlerinin Belirlenmesi, Kontrolü ve Denetimi Hakkında Yönetmelik hükümlerine göre, Güvenlik Sertifikasını almakla yükümlüdür.
+(3) Ulusal ve uluslararası standartlara uygun olacak şekilde, tüm verici istasyonları en çok 5 ohm topraklama direncine sahip olabilecektir.

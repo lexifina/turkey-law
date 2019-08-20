@@ -1,0 +1,4 @@
+Verici tesis ve işletim şirketinin Üst Kurul ile ilişkileri
+MADDE 15 – (1) Verici tesis ve işletim şirketi iletimi yapılan tüm ulusal, bölgesel ve yerel medya hizmet sağlayıcı kuruluşların unvanı, adresi, telefon numarası, logo/çağrı işareti, lisans tipi bilgilerinin yer aldığı listeyi her yılın kasım ayı başında; bu kuruluşlarla ilgili verici tesis ve işletim hizmetine ilişkin her türlü değişikliği ise değişikliğin olduğu tarihten itibaren en geç bir ay içerisinde Üst Kurula bildirir.
+(2) Verici tesis ve işletim şirketinin, yayın istasyonu bazında veya genel şartlarda değişiklik yapılmasını istemesi halinde, değişiklik talebi şirket tarafından gerekçeleriyle birlikte hazırlanarak Üst Kurula sunulur ve söz konusu değişiklik, Üst Kurulca onaylanmasını müteakiben uygulanır.
+(3) Kurulmasına izin verilen radyo ve televizyon verici tesislerinin, Kanunda ve işletme izninde öngörülen amaçlar için kullanılıp kullanılmadığı Üst Kurul tarafından denetlenir.

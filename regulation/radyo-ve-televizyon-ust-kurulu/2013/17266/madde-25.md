@@ -1,0 +1,4 @@
+Bilgi Teknolojileri ve İletişim Kurumuna ilişkin hükümler
+MADDE 25 – (1) Yayın hizmetlerinin iletimine ilişkin teknik ve idarî konularda Üst Kurul ile Bilgi Teknolojileri ve İletişim Kurumu işbirliği yapar.
+(2) Ulusal ve uluslararası hava ve deniz seyrüsefer sistemlerine radyo ve televizyon sistemlerinden zararlı enterferansların gelmesi hâlinde, Bilgi Teknolojileri ve İletişim Kurumu can ve mal güvenliğini tehlikeye düşürmemek amacıyla enterferansa sebep olan vericileri yerinde tespit ederek geçici olarak kapatır ve durumu Üst Kurula bildirir. Üst Kurul, Kanun çerçevesinde gerekli müeyyideleri ayrıca uygular.
+(3) Radyo ve televizyon sistemlerinin diğer bantlarda faaliyet gösteren yayın dışı sistemler tarafından enterferansa maruz kalması hâlinde Üst Kurul, durumu Bilgi Teknolojileri ve İletişim Kurumuna bildirir. Bilgi Teknolojileri ve İletişim Kurumu, Üst Kurulca bildirilen enterferansın giderilmesi için gerekli önlemleri ivedilikle alır.

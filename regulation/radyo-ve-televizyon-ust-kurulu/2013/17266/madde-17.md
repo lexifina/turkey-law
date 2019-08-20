@@ -1,0 +1,3 @@
+Değerlendirme, multipleks işletmeciliği yayın iletim yetkisi verilmesi
+MADDE 17 – (1) Multipleks işletmecilerinin bu Yönetmelikte belirtilen idari, mali ve yayın hizmetine ilişkin bilgi ve belgeleri Üst Kurula ibraz ettikleri talepleri, Üst Kurulca değerlendirilir ve bilgi ve belgelerde eksiklik olması halinde, Üst Kurulca en fazla 30 gün süre verilerek tamamlanması istenir. Bu işlemi takiben, multipleks işletmecileri teknik altyapıya ilişkin bilgi ve belgeleri Üst Kurula ibraz ederler. Teknik yeterliliğe sahip olduğu tespit edilen kuruluşlara Üst Kurulca verici multipleks işletmeciliği yayın iletim yetkisi verilir.
+(2) Verici tesis ve işletim şirketi de multipleks işletmeciliği yayın iletim yetkisi alabilir.

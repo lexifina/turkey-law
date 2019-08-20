@@ -1,0 +1,2 @@
+Multipleks işletmeci kuruluşların yükümlülükleri ve yaptırımlar
+MADDE 23 – (1) Multipleks işletmecileri, Üst Kurulca durdurulmasına karar verilen yayınların iletimini Üst Kurul kararının tebliğini takiben derhal durdurmak zorundadır. Yapılan tebliğe rağmen bu yayınları iletmeye devam eden multipleks işletmecilerinin yayın iletim yetkisi, Üst Kurul tarafından iptal edilir ve bu durum Bilgi Teknolojileri ve İletişim Kurumuna bildirilir.
