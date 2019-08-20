@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/biruni-universitesi/2019/33738",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30864",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-08-20",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Biruni Üniversitesi",
+  "issuer_slug": "biruni-universitesi",
+  "kind": "regulation",
+  "published": "2019-08-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33738&MevzuatTertip=5",
+  "source_id": "8.5.33738",
+  "source_sha256": "050e48fb7c5e5843a2727c05128cabf2bb3e1deabbfa63514810115bfd190921",
+  "title": "BİRUNİ ÜNİVERSİTESİ SAĞLIK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 451,
+  "version_label": "oldest version available",
+  "word_count": 1060
+}

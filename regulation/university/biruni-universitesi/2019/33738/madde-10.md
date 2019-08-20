@@ -1,0 +1,2 @@
+Başhekim
+MADDE 10 – (1) Başhekim; Tıp Fakültesinin hekim öğretim üyeleri arasından, Rektörün teklifi üzerine Mütevelli Heyetinin onayı ile üç yıl için görevlendirilir. Görev süresi biten Başhekim aynı usulle yeniden görevlendirilebilir. Gerektiğinde Rektörün teklifi Mütevelli Heyetinin onayı ile Başhekim üç yıllık süre dolmadan da görevinden alınabilir. Başhekimin önerisi ve Müdürün uygun görüşü üzerine Rektörün onayı ile Başhekim yardımcıları görevlendirilebilir. Başhekimin görevi sona erdiğinde Başhekim Yardımcısının da görevi kendiliğinden sona erer.

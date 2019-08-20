@@ -1,0 +1,2 @@
+Müdür
+MADDE 12 – (1) Müdür; en az lisans düzeyinde eğitim almış kişiler arasından Rektörün teklifi ve Mütevelli Heyetinin onayı ile üç yıl için görevlendirilir. Görev süresi biten Müdür aynı usulle yeniden görevlendirilebilir. Müdür sağlıkla ilgili birimlerin ve idari birimlerin yöneticisidir. Müdür, gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile üç yıllık süre dolmadan da görevinden alınabilir.
