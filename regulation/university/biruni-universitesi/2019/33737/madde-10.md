@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, müdür yardımcıları ile Rektör tarafından otizm alanında, yoksa otizmle ilişkili alanlardan görevlendirilen dört öğretim üyesi olmak üzere toplam yedi kişiden oluşur. Yönetim Kurulu üyeleri üç yıllık süreyle görevlendirilirler. Görev süresi biten üyeler yeniden görevlendirilebilirler. Süresi bitmeden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.
+(2) Yönetim Kurulu, Müdürün daveti üzerine, Müdür tarafından belirlenen gündemle üye tam sayısının salt çoğunluğu ile toplanır ve kararlar katılan üye sayısının salt çoğunluğu ile alınır. Yönetim Kurulu gerekli hallerde aynı usulle olağanüstü toplanabilir.
