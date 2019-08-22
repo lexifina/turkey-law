@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85550353-105[2017/5]-23217",
+  "source_id": 26701,
+  "date": "2019-08-22",
+  "title": "Satın alma ve miras yoluyla hisse sahibi olunan arasada, müteahhit olarak kat karşılığı inşaat yapılması halinde sahibi olunan arsa hissesinin işletme kayıtlarına hangi değer üzerinden alacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26701",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0ed868c479dd4afffa052bd210fe828bb5b8147fea4e8161a725dad009ecf2a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
