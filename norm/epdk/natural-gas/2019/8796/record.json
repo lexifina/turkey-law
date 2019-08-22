@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8796",
+  "decision_date": "2019-08-22",
+  "title": "“Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları”nın (Metodoloji) 11 inci maddesinin dokuzuncu fıkrası uyarınca, ikinci tarife uygulama dönemi tarife hesaplamalarında esas alınacak orana ilişkin",
+  "resmi_gazete_date": "2019-08-24",
+  "resmi_gazete_number": "30868",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pWdB20WxYbQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pWdB20WxYbQ="
+  ],
+  "source_sha256": "d4042be4006dee21c7c4119ae030dcda7685aed4a80e23547838d82bf92b6f76",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-08-22",
+  "law_text_complete": true
+}
