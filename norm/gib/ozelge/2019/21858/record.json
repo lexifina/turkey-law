@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120-E.101608",
+  "source_id": 21858,
+  "date": "2019-08-23",
+  "title": "Arsanın kat karşılığı müteahhide verilmesi ve karşılığında alınan dairelerin çocuklarınıza satılması halinde vergilendirilip vergilendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21858",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1abdf9a2910de135791d6845fc5608c3a35378c8796977310bd2b3a5c295b57c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
