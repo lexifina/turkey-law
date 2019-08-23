@@ -1,0 +1,4 @@
+Taşınmazların belirlenmesi ve ilan edilmesi
+MADDE 6 – (1) Bu Tebliğ kapsamında kiraya verilebilecek Hazineye ait taşınmazlar, resen veya talep üzerine İdarece belirlenir ve bu taşınmazlara ilişkin bilgi ve belgeler Valiliklerce (Çevre ve Şehircilik İl Müdürlüğü) Bakanlığa gönderilir.
+(2) Bakanlıkça kiraya verilmesi uygun görülen taşınmazlar, İdarenin internet sayfasında ve uygun görülen diğer şekillerle otuz gün süreyle ilan edilir. Bu taşınmazlara ilişkin bilgiler tarımsal amaçlı kooperatifler, tarım satış kooperatifleri ve tarımsal üretici birlikleri ile bunların üst kuruluşlarına duyurulmak üzere ilgili Tarım İdaresine de ayrıca gönderilir.
+(3) Ayrıca, ilan edilen taşınmazlar ilgili belediye başkanlıkları, ticaret ve sanayi odaları ile ziraat odalarına da bildirilir. İlan edilen bu taşınmazlardan köy ve belde sınırları içerisinde bulunanlar aynı süre içerisinde ilgili köy ve beldede uygun görülen vasıtalarla duyurulur.
