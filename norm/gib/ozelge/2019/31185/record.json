@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV-1/İ/13-2019-18]-282005",
+  "source_id": 31185,
+  "date": "2019-08-26",
+  "title": "Yüzer Havuz Tesliminin KDV Kanunun 13-f maddesi kapsamında istisna uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31185",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "036ad78dae31e6b255237ac60180c2447e9ba98d515ea1dbc78a0f6de3c8f8c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
