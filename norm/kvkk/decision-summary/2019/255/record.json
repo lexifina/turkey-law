@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/255",
+  "source_id": 5537,
+  "date": "2019-08-27",
+  "title": "Bir turizm şirketi hakkında Kişisel Verileri Koruma Kurulunun 27.08.2019 tarih ve 2019/255 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5537/2019-255",
+  "source_sha256": "b625fe58c5f03927eff4da78efce6f31987712cdd7683d7eaabb789be788d2f0",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
