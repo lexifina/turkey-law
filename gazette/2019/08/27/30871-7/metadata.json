@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-08-27",
+  "issue": "30871",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kütahya Sağlık Bilimleri Üniversitesi Endoskopik Cerrahi ve Simülasyon Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190827-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190827.htm",
+  "index_sha256": "c9fe91238c2efed294c7d1ae0140dcdb50b93043a0cd263fcec8b8c67e4b6f21",
+  "index_header": "27 Ağustos 2019 ... 30871 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190827.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
