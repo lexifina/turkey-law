@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "58889402-105-100362",
+  "source_id": 26499,
+  "date": "2019-08-28",
+  "title": "Özel kartlar kullanılarak bedeli ödenen şehiriçi yolcu taşımacığında, ulaşım hizmeti bedelinin hizmeti veren işletmelere aktarımında yapılan komisyon kesintileri ile söz konusu ulaşım hizmetinde belge düzeni ve düzenlenen faturalar hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26499",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "d6fb4e8f5b65dce5a38d60e10662e3fc7f2b43d3beb0ecd1ea4fca103d97134f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
