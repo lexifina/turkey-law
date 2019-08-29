@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33753",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL GÜVENLİK KOMUTANLIĞI DENETLEME, TEFTİŞ VE TETKİK YÖNETMELİĞİ",
+  "number": "33753",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2019/33753",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33753&MevzuatTertip=5",
+  "source_sha256": "0381a3e6ad44ad0dec55f8f4ddea9d99a7d8500be6b9487a124710bd0b482fbb",
+  "source_bytes": 151886,
+  "published": "2019-08-29",
+  "gazette": "30873",
+  "in_force": "2019-08-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.08.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8450,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

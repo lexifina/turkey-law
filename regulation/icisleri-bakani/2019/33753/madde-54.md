@@ -1,0 +1,3 @@
+Teftiş defteri
+MADDE 54 – (1) Teftişe tabi birimlerde; sayfaları numaralandırılmış, mühürlenmiş ve son sayfasına defterin kaç sayfadan ibaret olduğu yazılarak ilgili birimin en üst amirince tasdik edilmiş bir teftiş defteri bulundurulur.
+(2) Müfettişler, teftişin başlayış ve bitiş tarihlerini, hangi işleri teftiş ettiklerini, düzenledikleri raporun tarih ve sayısını, teftiş edilenin görevini, adını ve soyadını deftere yazmak suretiyle imzalarlar. Teftişle ilgili olarak Bakanlık ve/veya Komutanlıktan gönderilen emir ve genelgelerin tarih ve sayıları ile özetleri, teftiş olunan memurlarca defterin özel bölümüne yazılarak imzalanır.

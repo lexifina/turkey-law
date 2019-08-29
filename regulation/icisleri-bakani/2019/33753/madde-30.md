@@ -1,0 +1,2 @@
+Diğer bakanlık ve kuruluş müfettişleriyle birlikte çalışma
+MADDE 30 – (1) Birden fazla kamu kurum ve kuruluşunu ilgilendiren araştırma, ön inceleme, disiplin soruşturması ve soruşturma görevleri; 10/1/1983 tarihli ve 83/5929 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Birden Fazla Kamu Kurum ve Kuruluşlarını İlgilendiren Soruşturmalarda Görevlendirilecek Müfettişlerin Görevlendirilme Biçimine İlişkin Yönetmelik hükümlerine göre yürütülür.
