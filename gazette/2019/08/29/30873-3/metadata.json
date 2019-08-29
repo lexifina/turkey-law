@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-08-29",
+  "issue": "30873",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Emlak Vergisi Kanunu Genel Tebliği (Seri No: 75)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190829-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190829.htm",
+  "index_sha256": "ef2f404d9e5868d675e21c41a36b972f32ceef928f3cda593874540c3c105105",
+  "index_header": "29 Ağustos 2019 ... 30873 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/08/20190829.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
