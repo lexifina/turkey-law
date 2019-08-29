@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8804",
+  "decision_date": "2019-08-29",
+  "title": "Enerya Denizli Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2019-09-03",
+  "resmi_gazete_number": "30877",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tCVq4fX98YI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tCVq4fX98YI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+DkobG/juu8="
+  ],
+  "source_sha256": "2e3f42aae470309519c5d847d2ce828f9e62ea852d8ae730a5d80f243645ca60",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-08-29",
+  "law_text_complete": true
+}
