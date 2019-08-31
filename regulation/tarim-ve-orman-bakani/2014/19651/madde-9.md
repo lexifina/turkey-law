@@ -1,0 +1,3 @@
+Su kayıplarının azaltılması
+MADDE 9 – (Değişik:RG-31/8/2019-30874)
+(1) Büyükşehir ve il belediyeleri su kayıplarını 2023 yılına kadar en fazla %30, 2028 yılına kadar ise en fazla %25 düzeyine; diğer belediyeler su kayıplarını 2023 yılına kadar en fazla %35, 2028 yılına kadar en fazla %30, 2033 yılına kadar ise en fazla %25 düzeyine indirmekle yükümlüdürler. Bu kapsamda, bu Yönetmelik uyarınca çıkarılacak Teknik Usuller Tebliğinde yer alan hususlar ve 12/10/2017 tarihli ve 30208 sayılı Resmî Gazete’de yayımlanan İçme ve Kullanma Suyu Temini ve Dağıtım Sistemleri Hakkında Yönetmelik hükümleri çerçevesinde gerekli faaliyetler yürütülür.

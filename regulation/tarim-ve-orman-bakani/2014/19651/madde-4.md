@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aktif sızıntı kontrolü: İçme suyu temin ve dağıtım sistemlerindeki borularda, boru bağlantılarında, depolar ve diğer sanat yapılarında meydana gelen sızıntı şeklindeki su kaçaklarının tespiti maksadıyla, çeşitli teknolojik cihazlarla yapılan kontrol ve tespit faaliyetlerini,
+b) Alt bölge: Proje aşamasında birbirinden bağımsız olarak tasarlanan veya su dağıtım şebekesi üzerinde ilave vanalama ve/veya tapalama yoluyla ayrılan, her birinde ayrı ayrı ölçmenin yapıldığı bir veya birkaç noktadan beslenen, belirli sayıda bina bağlantısını içeren, diğerlerinden fiziki olarak ayrılan ve birbirinden bağımsız çalışan her bir şebeke bölümünü,
+c) (Değişik:RG-31/8/2019-30874) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) CBS: Coğrafi bilgi sistemlerini,
+d) Faturalandırılmayan abone: İdarenin bilgisi dahilinde ölçümü yapılan ancak faturalandırılmayan aboneleri,
+e) Fiziki su kayıpları: Borularda ve bağlantı parçalarında meydana gelen kırık ve çatlaklardan, boru başı ve abone bağlantı hatalarından ve servis depolarından meydana gelen, tüketici sayacından önceki, kaçak ve taşmalardan kaynaklanan su kayıplarını,
+f) Gelir getirmeyen su: Sistemin tamamında veya bir kısmında sisteme verilen su miktarı ile faturalandırılmış izinli su tüketimi arasındaki farkı,
+g) İçme-Kullanma Suyu: Genel olarak içme, yemek yapma, temizlik ve diğer evsel maksatlar ile, gıda maddelerinin ve diğer insani tüketim maksatlı ürünlerin hazırlanması, işlenmesi, saklanması ve pazarlanması maksadıyla kullanılan, orjinine bakılmaksızın, orijinal haliyle ya da arıtılmış olarak ister kaynağından isterse dağıtım ağından temin edilen ve İnsani Tüketim Amaçlı Sular Hakkındaki Yönetmelik Ek-1’deki parametre değerlerini sağlayan ve ticari amaçlı satışa arz edilmeyen suyu,
+ğ) İçme suyu temin ve dağıtım sistemi: İçme ve kullanma sularını kullanıcılara ulaştırmak maksadı ile su alma yapısı, iletim hattı, arıtma tesisi, terfi merkezleri, depo ve dağıtım şebekesi ünitelerinden birini veya birden fazlasını kapsayan sistemi,
+h) İdare: Büyükşehir Belediyesi olan yerlerde su ve kanalizasyon idarelerini, Büyükşehir Belediyesi olmayan yerlerde ise belediyeleri,
+ı) İdari su kayıpları: Sayaç ve okuma hataları ile kayıt hatalarından ve izinsiz tüketimden kaynaklanan su kayıplarını,
+i) İzinli tüketim: Kayıtlı kullanıcı tarafından kullanılan bedelli ve/veya bedelsiz su miktarını,
+j) İzinsiz tüketim: İdarenin bilgisi dışında, yasal olmayan bağlantılar ve sayaçlara müdahale yolu ile yasadışı kullanılan su miktarını,
+k) Kritik nokta: Şebekeye ve/veya alt bölgeye giriş noktaları ile en yüksek ve en düşük basınçların oluşacağı noktaları,
+l) Optimum işletme basıncı: İşletme basıncının 60 mSS düzeyini aşmadığı ve yüksek noktalarda abonelerin rahatlıkla su temin edebildiği işletme basıncı aralığını,
+m) SCADA: Veri tabanlı izleme ve kontrol sistemini,
+n) Sistem: İçme suyu temin ve dağıtım sistemini,
+o) Su Dengesi: İçme suyu sistemindeki su kaybı miktarının belirlenmesi maksadıyla, şebekeye verilen suyun, tüketilen ve kaybolan su miktarına eşit olması prensibini esas alan ölçme veya hesaplama işlemlerini,
+ö) Şebeke: İnsani tüketime yönelik suları kullanıcılara ulaştırmak maksadıyla sarfiyat yerlerine dağıtan borular ve donanım elemanlarından oluşan dağıtım ağını,
+ifade eder.
