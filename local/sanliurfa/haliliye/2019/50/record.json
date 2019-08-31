@@ -1,0 +1,29 @@
+{
+  "number": "50",
+  "number_as_published": "2019/50",
+  "year": 2019,
+  "month": 8,
+  "title": "5393 Sayılı Belediye Kanununun 18. maddesinin (e) fıkrasına göre “Taşınmaz mal alımına, satımına, trampa edilmesine, takasına, tahsisine, tahsis şeklinin değiştirilmesine veya tahsisli bir taşınmazın kamu hizmetinde ihtiyaç duyulmaması hâlinde tahsisin kaldırılmasına; üç yıldan fazla kiralanmasına ve süresi otuz yılı geçmemek kaydıyla bunlar üzerinde sınırlı aynî hak tesisine karar vermek” hükmüne istinaden sınırlı ayni hak tesisi kurulması için Vali Akbulut İş Merkezinde bulunan bürolarının tahsislerinin kaldırılmasına karar verildi.",
+  "decision_date": null,
+  "index_date": "2019-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2019",
+  "source": "https://www.haliliye.bel.tr/icerik/3519/39/agustos-2019",
+  "official_page": "https://www.haliliye.bel.tr/icerik/3519/39/agustos-2019",
+  "official_document": null,
+  "source_sha256": "bd5bed48189e2866875ed9b956f4cbcf0a512c1cf1db2c0819fb53d37c66dfa9",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2019-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "AĞUSTOS 2019",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
