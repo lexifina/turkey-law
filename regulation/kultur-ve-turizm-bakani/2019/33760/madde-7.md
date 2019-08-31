@@ -1,0 +1,12 @@
+Komisyonun çalışma usul ve esasları
+MADDE 7 – (1) Komisyon ayda en az dört kez toplanır; ancak gündemde bekleyen konu bulunmaması koşuluyla ayda en az bir toplantı yapabilir. Birikmeye neden olmayacak şekilde görüşülecek dosya sayısı ve olağanüstü durumlar göz önüne alınarak toplantı sayısı arttırılabilir.
+(2) Kapadokya Alan Komisyonu, Başkanlığın çağrısı ile toplanır. Komisyonun toplantı günleri ve gündemi; Grup Başkanının teklifi, Teknik Başkan Yardımcısının uygun görüşü ve Başkan onayı ile belirlenir.
+(3) Komisyon, toplantıya katılması gereken üyelerin salt çoğunluğu ile toplanır ve toplantıya katılan üyelerin salt çoğunluğu ile karar alır. Ancak karar yeter sayısı beşten az olamaz.
+(4) Alınan kararlar mevzuattaki dayanakları ile bilimsel gerekçeleri belirtilerek yazılır. Karara karşı olan üyelerin isimlerinin altına “karşı oy” ibaresi yazılır. Karşı oy gerekçesi Başkanlıkta yer alan, konunun ilgili dosyasında muhafaza edilir.
+(5) Gündem gereği konularla ilgili Komisyon tarafından alınacak kararlar toplantı sonunda Komisyon başkanı ve üyelerce imzalanır.
+(6) Komisyonca alınan kararın mevzuata uygunluk noktasında tereddüt uyandırması halinde Başkanlıkça karar dağıtımı yapılmadan, durum belgeleriyle birlikte ivedilikle kararın konusu ve içeriğine göre ilgili kurum ve kuruluşlara iletilerek görüşleri istenir. İlgili kurum ve kuruluşların görüşleri, Komisyonun ilk toplantısında değerlendirilerek karara bağlanır.
+(7) Komisyon kararlarına karşı idari yargıda açılan davalarda, gerek görülmesi halinde Başkanlık Hukuk Müşavirliğince yapılacak savunmalarda ve varsa bilirkişi raporlarına itirazda dikkate alınacak ayrıntılı görüş ve gerekçeler, Komisyon üyelerinden de istenebilir.
+(8) Gündemdeki konu ile kişisel ve üçüncü dereceye kadar (üçüncü derece dahil) kan ve sıhri hısımları açısından ilişkisi veya menfaati olan üye, bu konunun değerlendirilmesi sırasında Komisyon toplantısına katılamaz ve oy kullanamaz.
+(9) Komisyonun kendi üyeleri tarafından, Komisyon üyeliği esnasında hazırlanarak Başkanlığa iletilen plan, çevre düzenleme projesi, rölöve, restitüsyon ve restorasyon projesi, uygulama projesi ve benzeri konular Komisyonda görüşülemez.
+(10) Komisyon üyeleri, Komisyon üyeliğinden önce kendileri tarafından hazırlanarak Başkanlığa iletilmiş bulunan plan, çevre düzenleme projesi, rölöve, restitüsyon ve restorasyon projesi, uygulama projesi ve benzeri konuların görüşüldüğü toplantıya katılamaz ve oy kullanamazlar.
+(11) Komisyon toplantılarında konular gündeme uygun şekilde görüşülür ve karara bağlanır.
