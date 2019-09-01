@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-09-01",
+      "01.09.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30875",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-09-01",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nişantaşı Üniversitesi",
+  "issuer_slug": "nisantasi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nisantasi-universitesi/2019/33759",
+  "published": "2019-09-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33759&MevzuatTertip=5",
+  "source_bytes": 27514,
+  "source_id": "8.5.33759",
+  "source_sha256": "899379321cf865cae920c428e52b9d54535d9810738497b7d935339a49a2bec7",
+  "text_status": "as-enacted",
+  "title": "NİŞANTAŞI ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 356,
+  "word_count": 1137
+}
