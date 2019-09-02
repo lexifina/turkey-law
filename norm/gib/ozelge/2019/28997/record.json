@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-704807",
+  "source_id": 28997,
+  "date": "2019-09-02",
+  "title": "Kamu-Özel ortaklığıyla kurulan Yozgat Şehir Hastanesi işletmecisine verilen laboratuvar hizmetlerinde KDV tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28997",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "075ef06dab9197f2f7cfbadf2e6617c054c59c9e3019006712a999d6db263d7c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
