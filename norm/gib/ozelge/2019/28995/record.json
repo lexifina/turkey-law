@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-706364",
+  "source_id": 28995,
+  "date": "2019-09-02",
+  "title": "Enerji Santralinin Sözleşmede Belirlenen Zamanda Ve Nitelikte Yapılamaması Nedeniyle Ödenen Gecikme Bedellerinin Ve Yapılan Tenzilatların KDV Karşısındaki Durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28995",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "c7eee16a3c2883e692233ec13b63ba5b89a0dbd5db476fe5324f73eca67f2db2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
