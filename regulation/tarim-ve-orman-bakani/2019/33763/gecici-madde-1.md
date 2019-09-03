@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren yalnızca bir defaya mahsus olmak üzere çoğaltılmaya başlanan yerel tohumlardan, fenotipik özelliği açısından yerel olduğuna TAGEM tarafından belirlenecek uzmanların görüşleri ile Tarım ve Orman Bakanı tarafından onaylananlar Yerel Çeşit Kayıt Listesine kaydedilir. Bu onay ile kaydedilen yerel tohumlukların eksik olan kayıt kriterlerinin tamamlanma çalışmalarına devam edilir.
+(2) Bu Yönetmelikle düzenlenen yerel çeşitlere ait kemotipik analizlerin yapılması zorunluluğu bu Yönetmeliğin yürürlük tarihinden itibaren beş yıl süre ile uygulanmaz.

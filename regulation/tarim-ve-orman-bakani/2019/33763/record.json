@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33763",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YEREL ÇEŞİTLERİN KAYIT ALTINA ALINMASI, ÜRETİLMESİ VE PAZARLAMASINA DAİR YÖNETMELİK",
+  "number": "33763",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2019/33763",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33763&MevzuatTertip=5",
+  "source_sha256": "9c48b60e7786809c683ad3f20e7f1a7b80e28da610ef47a4f5e375ece51457b0",
+  "source_bytes": 47557,
+  "published": "2019-09-03",
+  "gazette": "30877",
+  "in_force": "2019-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2610,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33763-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

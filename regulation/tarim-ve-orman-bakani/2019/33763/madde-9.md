@@ -1,0 +1,11 @@
+DÖRDÜNCÜ BÖLÜM
+Yerel Çeşitlerin Tohumluklarının Üretimi, Etiketlenmesi ve Pazarlanması
+Tohumluk üretimi
+MADDE 9 – (1) Kayıt altına alınmış yerel çeşitlerin tohumluk üretimleri menşe bölgesinde yapılır.
+(2) Yerel çeşitlerin tohumluklarının üretimini yapacak kuruluşlar, 15/5/2009 tarihli ve 27229 sayılı Resmî Gazete’de yayımlanan Tohumculuk Sektöründe Yetkilendirme ve Denetleme Yönetmeliği çerçevesinde üretici/yetiştirici belgesi almak zorundadır. Bu üreticiler her yıl yapacakları üretime ait Ek 2’de yer alan Tohumluk Beyannamesini üretimin yapılacağı il müdürlüğüne verirler.
+(3) Bitki Pasaportu Sistemi ve Operatörlerin Kayıt Altına Alınması Hakkında Yönetmeliğin Ek-1’inde yer alan çoğaltım materyallerinin kayıtları söz konusu Yönetmeliğin 5 inci maddesi esaslarına göre yapılır.
+(4) Üretici tarafından partilendirilen ve numunesi tohumluk kontrolörleri tarafından alınan numuneler kamu sertifikasyon kuruluşlarına gönderilerek analize tabi tutulur. Bu numunelerden standartları karşılayan partiler için yerel tohumluk sertifikası düzenlenir. Düzenlenen yerel tohumluk sertifikası bir yıl süre ile geçerlidir. Tohumlukların üretildikleri üretim sezonu içinde sertifikalandırılmaları esastır. Sertifikalandırılan ve bir yıl içinde satılmayan stoktaki sertifikalı tohumluklar için satışa arz edilmeden önce çimlenme analizi yapılır, tohumluk analiz raporu düzenlenir ve düşünceler kısmına sertifikayı düzenleyen kuruluşun ismi ve "….. tarihli ve …. sayılı sertifika ile birlikte geçerlidir" ibaresi yazılır.
+(5) Yerel çeşit hangi türe aitse o türe ait sertifikasyon yönetmeliklerinde belirtilen alan kontrollerindeki ve laboratuvardaki standartları %10 düşürülerek sertifikasyon işlemleri uygulanır. Ayrıca laboratuvar analizlerine itiraz ve analiz tekrarları da ilgili sertifikasyon yönetmelikleri kapsamında değerlendirilir.
+(6) Yerel çeşitlere ait tohumlukların üretimine ait bilgi ve belgeler istenildiğinde sunulmak üzere üreticisi tarafından beş yıl süre ile saklanır.
+(7) Yerel Çeşit Kayıt Listesinde yer alan yerel çeşitlerin tohumlukları için üretim miktarları TAGEM’e yapılacak talepler doğrultusunda belirlenecektir.
+(8) Yerel tohumlukların üretimi TAGEM tarafından yayımlanacak uygulama talimatına göre yapılır.
