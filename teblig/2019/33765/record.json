@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.33765",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2019/5)",
+  "number": "33765",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/33765",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33765&MevzuatTertip=5",
+  "source_sha256": "3d991bac93df2f65465989b7842f141a6201659f5c341ee5c2ddd87c3498d298",
+  "source_bytes": 19299,
+  "published": "2019-09-03",
+  "gazette": "30877",
+  "in_force": "2019-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2019); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 557,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.33765-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
