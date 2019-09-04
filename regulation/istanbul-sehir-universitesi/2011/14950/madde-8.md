@@ -1,0 +1,4 @@
+Dersler
+MADDE 8 – (1) Üniversitenin eğitim programlarında yer alan zorunlu dersler, verilmeleri gereken yarıyıllarda açılır ve yaz öğretimine ertelenemez.
+(2) Bir eğitim-öğretim biriminin programında yer alan derslerden hangilerinin yaz öğretiminde açılabileceğinin tespitinde; öğrencilerin ihtiyaç ve talepleri, öğretim elemanlarının yaz öğretimine katılma istekleri ile ilgili bölüm başkanlığının önerileri göz önünde bulundurulur.
+(3) Öğrenciler yaz öğretiminde açılmasını talep ettikleri dersler için (Değişik ibare:RG-4/9/2019-30878) kayıtlı oldukları dekanlık/müdürlüğe başvuruda bulunurlar. Bu başvurular dikkate alınarak açılacak derslerle ilgili karar, yaz öğretimi koordinasyon kurulunun görüşü alınarak Üniversite Yönetim Kurulunca verilir. Açılan derslere kayıt olan öğrencilerin kayıtları danışman onayından sonra yapılır. Açılamayan derslere kayıt olan öğrencilerin ödedikleri ücretler iade edilir.
