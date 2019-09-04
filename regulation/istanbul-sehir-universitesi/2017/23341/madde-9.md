@@ -1,0 +1,5 @@
+Bilimsel hazırlık programı
+MADDE 9 – (1) (Değişik:RG-16/7/2018-30480) Lisans derecesinden farklı bir alandaki lisansüstü programına başvuran aday, bir akademik yılı geçmeyecek bir bilimsel hazırlık programını tamamlamak şartıyla da kabul edilebilir. Bu program dönem izinleri dışında iki yarıyılı geçemez ve yaz öğretimini kapsamaz. Bilimsel hazırlık programında alınacak dersler başvuru değerlendirme jürisi tarafından belirlenir. Bu derslerden C ve üzeri alan öğrencilere S notu verilerek başarılı kabul edilir. Bilimsel hazırlık programının bir akademik yıl sonunda tamamlanmaması durumunda öğrencinin lisansüstü programıyla ilişiği kesilir.
+(2) Bilimsel hazırlık programı dersleri öncelikli, zorunlu ve kredisiz olarak alınır ve not belgesinde yer alır.
+(3) (Değişik:RG-16/7/2018-30480) Bilimsel hazırlık programı derslerinin yanı sıra, bazı lisansüstü programı dersleri de akademik danışmanın önerisi ve EYK kararı ile alınabilir.
+(4) Bilimsel hazırlık programında geçirilen süre bu Yönetmelikte belirtilen lisansüstü programı sürelerine dâhil edilmez.

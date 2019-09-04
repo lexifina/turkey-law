@@ -1,0 +1,7 @@
+Kesin kayıt esasları
+MADDE 11 – (1) Lisansüstü programına kabul edilen öğrencinin kayıt işlemleri, akademik takvimde belirtilen günlerde ve Senato tarafından belirlenen esaslara göre yapılır. Kayıt için istenen belgelerin aslı gereklidir. Bu belgelerden aslı muhafaza edilecekler dışındakilerin onaylanmış kopyaları saklanır. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır.
+(2) Lisansüstü programlarına kabul edilen öğrencilerin kayıtlarının kesinleşmesi için aranan şartlar şunlardır:
+a) Bir lisans veya yüksek lisans diplomasına sahip olmak,
+b) Üniversitenin belirlemiş olduğu mali yükümlülükleri kayıt süresi içerisinde yerine getirmek.
+(3) Sahte veya yanıltıcı belge ve bilgi sunduğu anlaşılan öğrencinin Üniversite ile ilişiği kesilir. Söz konusu öğrenci Üniversiteden ayrılmış ise, kendisine verilen diploma ve diğer belgeler iptal edilerek hakkında kanuni işlem yapılır.
+(4) (Ek:RG-16/7/2018-30480) Kayıt tarihlerinde mazereti bulunan öğrencinin durumu, dilekçeli başvurusu üzerine EYK tarafından incelenir. Mazereti geçerli görülürse, derslere devam edemediği günlerde izinli sayılmak koşuluyla ilgili dönemin ders ekleme-bırakma süresinin bitimine kadar kendisine geç kayıt imkânı verilebilir. Mazeretinin ilgili yarıyıla ait akademik takvimdeki ders ekleme-bırakma süresinin bitimine kadar kalkmaması halinde, kayıt hakkı izleyen yarıyıla ertelenir.

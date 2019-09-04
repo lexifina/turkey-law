@@ -1,0 +1,9 @@
+Tezsiz yüksek lisans programının amacı ve ders yükü
+MADDE 26 – (1) Tezsiz yüksek lisans programının amacı, öğrenciye mesleki bilgi kazandırmak ve mevcut bilginin uygulamada nasıl kullanılacağını göstermektir.
+(2) (Değişik:RG-16/7/2018-30480) Tezsiz yüksek lisans programı toplam otuz krediden ve doksan AKTS’den az olmamak kaydıyla en az on ders ile dönem projesi dersinden oluşur. Öğrenci, dönem projesi dersine alınması gereken yarıyılda kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersi kredisiz olup başarılı veya başarısız şeklinde değerlendirilir.
+(3) Öğrenci kredili derslerden en çok üçünü, lisans öğrenimi sırasında almamış olduğu ileri düzeydeki lisans derslerinden seçebilir.
+(4) Tezsiz yüksek lisans programında Enstitü anabilim dalı başkanlığı her öğrenci için derslerinin seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senatonun belirlediği nitelikleri taşıyan doktora derecesine sahip bir öğretim görevlisini en geç ilk yarıyılın sonuna kadar belirler. Proje danışmanı atanıncaya kadar, danışmanlık görevini Enstitü anabilim dalı başkanı veya program koordinatörü/başkanı yürütür.
+(5) (Değişik:RG-16/7/2018-30480) Tezsiz yüksek lisans öğrencisi, akademik danışmanının önerisi ve EYK’nın onayıyla aşağıdaki şartları yerine getirmesi gerekir:
+a) Diğer yükseköğretim kurumlarının lisansüstü programlarından en fazla üç ders alabilir.
+b) Diğer bir diploma için kullanılmamış olması koşuluyla, daha önce, başka bir yükseköğretim kurumunun lisansüstü programından aldığı dersleri geçerli saydırabilir. Bu durumda öğrencinin daha önce kayıtlı olduğu programdan aktarabileceği toplam kredi, tamamlaması gereken mezuniyet kredisinin % 65’ini geçemez.
+(6) Üniversite dışından alınmış ve EYK tarafından geçerli sayılmış olan derslerin notları öğrenci kaydına “T” harfiyle geçer.
