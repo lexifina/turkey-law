@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2019/36",
+  "meeting_date": "2019-09-04",
+  "meeting_date_as_published": "4.9.2019",
+  "decision_no": "19",
+  "source_id": 12108,
+  "title": "RTÜK kararı 2019/36-19",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/12108",
+  "source_sha256": "60b3a706ef6c39503d19d5abc81a14c7466235bc451cbb44eb0a2e096a1721d9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
