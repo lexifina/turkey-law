@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.33.15.01-130[2015-701-86]-113116",
+  "source_id": 31182,
+  "date": "2019-09-04",
+  "title": "Gemi Acentesine Liman İşletmesi ve Diğer Acenteler Tarafından Verilen Yükleme, Boşaltma ve Gözetim Hizmetinin KDV İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31182",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c837e26cde606195633a43a16cd3d4db2a59e0caba228cfe35adfe94b0edcd1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
