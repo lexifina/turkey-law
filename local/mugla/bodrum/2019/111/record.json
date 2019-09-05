@@ -1,0 +1,24 @@
+{
+  "number": "111",
+  "number_as_published": "2019-111",
+  "year": 2019,
+  "title": "Mülkiyeti Belediyemize ait, İlçemiz Göl Mahallesi, tapunun N18-C-14-A-3-D pafta, 104 ada, 6 parsel numarasında kayıtlı 1.150,18 m² yüzölçümlü arsa niteliğindeki taşınmazın, 5393 sayılı Belediye Kanununun 18/e maddesine istinaden, 2886 sayılı Devlet İhale Kanununun ilgili maddelerine göre satışının yapılmasına ve konuya ...",
+  "decision_date": "2019-09-05",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2019-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5.9.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=1974",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
