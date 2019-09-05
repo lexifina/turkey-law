@@ -1,0 +1,22 @@
+{
+  "number": "123",
+  "number_as_published": "2019/123",
+  "year": 2019,
+  "title": "GSM operatörlerine tahsis",
+  "decision_date": "2019-09-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-eylul-ayi-meclis-kararlari/1649",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-123/1660",
+  "source_sha256": "1d365659f3c08d24c6cd8f04504c5798e225ec9851bd6d98efef7c46504475fb",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-09-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.09.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "3274077dc3a8ace83dcb1b9467b22eff0dd510f7862c21b2cb8af23a6e59e1b3"
+}
