@@ -1,0 +1,3 @@
+Onur/yüksek onur belgesi ve ön lisans/lisans birinciliği
+MADDE 43 – (1) Kayıtlı olunan, bölüm/programındaki bütün yükümlülükleri, programın normal öğrenim süresi içerisinde tamamlayan, disiplin cezası almayan ve AGNO’su 100 üzerinden 75 ila 84 olan öğrenciler onur öğrencisi, 85 ve üstü olan öğrenciler ise yüksek onur öğrencisi olarak mezun olur. Bu durumdaki öğrencilere Öğrenci İşleri Daire Başkanlığı tarafından diploma ile birlikte onur/yüksek onur belgesi verilir ve transkriptlerinde belirtilir.
+(2) Ön lisans veya lisans öğrenimini normal süresi içinde disiplin cezası almadan tamamlayan ve kayıtlı olduğu bölümü/programı birincilikle bitiren öğrencilere Rektörlük tarafından “Birincilik Belgesi” veya “Başarı Belgesi” verilir.

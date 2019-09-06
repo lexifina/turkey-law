@@ -1,0 +1,2 @@
+Meslek yüksekokullarına intibak
+MADDE 42 – (1) Lisans öğrenimine devam ederken kaydı silinen öğrencilerden meslek yüksekokullarının ilgili programlarına kaydolmak isteyenlerin başvuruları Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Önlisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik esas alınarak ilgili meslek yüksekokulu yönetim kurulunca değerlendirilir.

@@ -1,0 +1,12 @@
+Sınav çeşitleri ve düzenlenmesi
+MADDE 30 – (1) Sınavlar; ara sınav, mazeret sınavı, dönem sonu sınavı, bütünleme sınavı, tek ders sınavı, azami öğrenim süresi sonundaki ek sınavlar ve yabancı dil muafiyet sınavı şeklinde olabilir.
+(2) Bu sınavlar yazılı, sözlü veya hem yazılı hem sözlü ve/veya uygulamalı olarak yapılabilir. Sözlü sınavlar ders vermeye yetkili en az iki öğretim elemanı gözetiminde yapılır ve ilgili birim yönetim kurulu izni ile kayıt altına alınabilir.
+(3) Muafiyet ve ek sınav dışındaki sınavlara girebilmek için kayıt yenilemiş olmak ve dersin devam koşulunu yerine getirmiş olmak gerekir. Bir öğretim programında aynı yarıyıl, yıllık düzende eğitim veren birimlerde aynı yıl içerisinde yer alan derslerden en çok ikisinin sınavları aynı günde yapılabilir.
+(4) Sınavların yapılacağı yer ve tarihleri gösteren sınav programı ilgili akademik birimlerin yönetim kurullarınca belirlenir ve ilk sınav tarihinden en az 10 (on) işgünü öncesinden öğrenci otomasyonu sistemine işlenir ve ayrıca ilan edilir.
+(5) Öğrenciler, ilan edilen gün, yer ve saatte sınava girmek, öğrenci kimlik kartı ile ayrıca istenecek diğer belgeleri yanlarında bulundurmak zorundadırlar. Gerekli durumlarda ilgili yönetim kurulu kararı ile resmi ve dini bayramlar dışında Cumartesi ve Pazar günleri de sınav yapılabilir.
+(6) Bir dersin teorik ve uygulamalı kısımlarının ayrı sınavlarla değerlendirilmesine ve gerektiğinde bu sınavların birbiriyle bağlantısına ilişkin hususlarda ilgili kurullar karar verir.
+(7) Sınav sonuçları, sınav tarihinden itibaren en geç 7 (yedi) takvim günü içinde ilgili öğretim elemanınca öğrenci otomasyonuna girilir ve ilan edilir.
+(8) Sınavlarda kopya çekenler, kopya çekme girişiminde bulunanlar veya kopya çekilmesine yardım edenler ile sınav kâğıtlarının incelenmesi sırasında kopya çektiği ya da çekilmesine yardım ettiği belirlenen öğrenciler ilgili sınavdan sıfır (0) almış sayılır ve haklarında, Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre işlem yapılır.
+(9) Uzaktan öğretim önlisans ve lisans öğrencilerinin dönem içi sınavları internet üzerinden yapılır.
+(10) Sınavlar belirlenen yer ve zamanda yapılır. Ancak, zorunlu hallerde yapılacak değişiklik, ilgili birim yönetim kurullarınca yapılır. Senatonun daha evvel belirleyip ilan ettiği tarihlerde değişiklik olması durumunda ise değişiklik yine Senato tarafından yapılır ve ilan edilir.
+(11) Derse ait sınav evrakları yarıyıl veya yıl sonunda kapalı zarf halinde ilgili bölüm başkanına teslim edilir ve bu belgeler en az 2 (iki) yıl süre ile saklanır.

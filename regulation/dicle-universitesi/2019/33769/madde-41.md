@@ -1,0 +1,2 @@
+Ön lisans diploması verilmesi
+MADDE 41 – (1) Bir lisans programında kayıtlıyken en az ilk dört dönemin bütün derslerinden başarılı olan öğrencilerden isteyenlere 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Önlisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümleri çerçevesinde, öğrencinin ayrıldığı bilim kolunu gösteren ön lisans diploması verilir.

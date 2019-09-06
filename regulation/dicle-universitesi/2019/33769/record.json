@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.33769",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "DİCLE ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "33769",
+  "issuer": "DİCLE ÜNİVERSİTESİ",
+  "issuer_slug": "dicle-universitesi",
+  "path": "regulation/dicle-universitesi/2019/33769",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33769&MevzuatTertip=5",
+  "source_sha256": "7ba0cac2611ee023643eb83db02ac97475ffb7e74d7aeec1c1f1668f577a39a9",
+  "source_bytes": 106480,
+  "published": "2019-09-06",
+  "gazette": "30880",
+  "in_force": "2019-09-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.09.2019); own commencement article: \"Bu Yönetmelik 2019-2020 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2019-2020 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6629,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

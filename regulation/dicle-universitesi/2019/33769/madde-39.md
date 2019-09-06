@@ -1,0 +1,4 @@
+Ağırlıklı not ve ağırlıklı not ortalaması
+MADDE 39 – (1) Ağırlıklı not: Bir dersten alınan notun o dersin kredisi ile çarpımı o dersin ağırlıklı notudur.
+(2) Dönem/yıl ağırlıklı not ortalaması: Öğrencinin o dönem kaydolduğu tüm derslerden aldığı notlar ile o derslerin kredi değerlerinin çarpımından oluşan ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Bölme işlemi virgülden sonra iki basamak yürütülür. Sonuçlarda virgülden sonraki üçüncü hane beşten küçükse sıfıra, beş veya daha büyükse artırılmış şekilde yuvarlanarak iki hane olarak tespit edilir.
+(3) Genel ağırlıklı not ortalaması: Öğrencinin fakülte veya yüksekokula kaydolmasından itibaren aldığı tüm derslerin ağırlıklı notlarının toplamının aynı derslerin kredi toplamına bölünmesi ile elde edilir. Genel ağırlıklı not ortalaması hesaplamasında öğrencinin tekrar ettiği derslerden aldığı son not dikkate alınır.

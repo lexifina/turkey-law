@@ -1,0 +1,5 @@
+Ulusal ve uluslararası öğrenci değişim programları
+MADDE 18 – (1) Üniversite ile yurt içi ve yurt dışı bir yükseköğretim kurumu arasında yapılan anlaşma uyarınca öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl yurt içi veya yurt dışındaki üniversitelere gönderilebilirler. Değişim programları; ikili anlaşmalar ve YÖK tarafından belirlenen usul ve esaslar doğrultusunda uygulanır.
+(2) İlgili birim yönetim kurullarınca düzenlenen protokolde yer alan ve değişim programı kapsamında alınması uygun görülen derslerin notları, öğrencinin kayıtlı olduğu bölümdeki/programdaki eşdeğer derse karşılık olarak öğrenci bilgi sistemine işlenir. Dönüşümü yapılmayan notlar ise Yükseköğretim Kurulu Başkanlığının not dönüşüm tablosundaki verilere göre dönüştürülür.
+(3) Değişim programı kapsamında gelen öğrencilere diploma veya unvan verilmez. Aldığı dersleri ve notları gösteren öğrenci durum belgesi verilir.
+(4) Değişim programına başvuran öğrencinin ilgili birimde ders kaydı yapılırken değişim programında danışmanı tarafından onaylanan ders ve kredi saati kadar derslere onay verilir.

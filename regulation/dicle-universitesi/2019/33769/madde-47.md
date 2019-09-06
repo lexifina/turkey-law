@@ -1,0 +1,2 @@
+Tebligat ve adres bildirme
+MADDE 47 – (1) Her türlü bildirim, öğrencinin yükseköğretim kurumuna kayıt anında bildirdiği adrese yazılı olarak yapılmakla veya bildirim ilgili yükseköğretim kurumunda ilan edilmek suretiyle tamamlanmış sayılır. Yükseköğretim kurumuna kayıt olurken bildirdikleri adresleri değiştirdikleri halde, bunu kayıtlı bulundukları kurumlara kaydettirmemiş bulunan veya yanlış ya da eksik adres vermiş olan öğrencilerin Üniversitede mevcut adreslerine bildirim yapılması halinde bildirimin kendilerine ulaştığı kabul edilir.

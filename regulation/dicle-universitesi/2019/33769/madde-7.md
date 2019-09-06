@@ -1,0 +1,3 @@
+Uyum programı
+MADDE 7 – (1) Uyum programı, Üniversiteye yeni başlayan öğrencilerin, Üniversitenin akademik ve sosyal ortamıyla tanışması için düzenlenen etkinlikleri içerir. Bu etkinliklerle öğrencilerin; Üniversite yaşamına uyum sağlamaları, öğrenci bilgi yönetim sistemini kullanmaları, Üniversitenin akademik ve sosyal imkânlarını tanımaları amaçlanır.
+(2) Uyum programı, eğitim-öğretim yılının başladığı hafta düzenlenir. Program takvimi ve içeriği Üniversitenin ilgili birimleri tarafından düzenlenerek kesin kayıt tarihlerinden en az bir hafta önce Öğrenci İşleri Daire Başkanlığına gönderilir ve kesin kayıt ilanı ile birlikte Üniversitenin internet sitesinde ilan edilir.
