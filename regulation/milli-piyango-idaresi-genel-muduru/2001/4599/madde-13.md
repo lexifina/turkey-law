@@ -1,0 +1,2 @@
+Çekiliş Tutanağı
+Madde 13 — Çekilişin tarihi, yeri, saati ve çekilişle belirlenen numaralar ile çekilişe ilişkin gerekli görülen diğer hususlar, çekiliş heyeti tarafından imzalı ve noterce düzenlenen çekiliş tutanağında belirtilir. Çekilişle belirlenen numaralar çekilişi takiben, İdare tarafından uygun görülen haberleşme araçları ile yayınlanır. Bu numaralar ve ikramiyeler, bayilerce de işyerlerinde uygun biçimde iştirakçilere duyurulur.

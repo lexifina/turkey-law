@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.4599",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PİYANGO İDARESİ GENEL MÜDÜRLÜĞÜ SAYISAL OYUNLAR YÖNETMELİĞİ",
+  "number": "4599",
+  "issuer": "Milli Piyango İdaresi Genel Müdürü",
+  "issuer_slug": "milli-piyango-idaresi-genel-muduru",
+  "path": "regulation/milli-piyango-idaresi-genel-muduru/2001/4599",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4599&MevzuatTertip=5",
+  "source_sha256": "8e16c6ca94e8fbc649b8c07fe1fcfb610bd9073f527ef6f0acbb97c28fc93ea1",
+  "source_bytes": 55505,
+  "published": "2001-04-25",
+  "gazette": "24383",
+  "in_force": "2019-09-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/9/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-09-06",
+      "RG-6/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-27",
+      "RG-27/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-09-15",
+      "RG-15/09/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-09-24",
+      "RG-24/09/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-07-29",
+      "RG-29/07/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2529,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

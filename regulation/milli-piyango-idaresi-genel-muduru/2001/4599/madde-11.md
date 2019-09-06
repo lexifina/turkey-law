@@ -1,0 +1,3 @@
+Çekiliş Heyeti ve Görevleri
+Madde 11 — Çekiliş Heyeti; İdarece belirlenecek görevlilerden oluşur. Bu heyet, çekilişin en ufak bir kuşku ve tereddüte meydan vermeyecek şekilde gerekli dikkat ve özen içinde gerçekleştirilmesini sağlar. Çekiliş Heyetinin görevleri: a) Çekiliş küresinin, çekilişe hazır olup olmadığını ve küreye konulacak topları kontrol etmek,
+b) Kürenin başında görev verilecek ve çekilişe yardımcı olacak diğer personeli, çekiliş başlamadan önce hazır bulundurmak ve çekiliş için gerekli diğer önlemleri almak, c) İkramiye kazanan numaraları anında belirlemek, kayıtlarını tutmak, bunlarla ilgili gerekli tutanakları düzenlemek ve numaraları sistem merkezine iletmek, d) Çekilişle ilgili diğer görevleri yapmak.
