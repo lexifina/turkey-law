@@ -1,0 +1,5 @@
+Bayilik teminatı
+MADDE 42 – (1) Bayilik verilen kişilerin ruhsat verilmeden önce İdare tarafından belirlenecek tutardaki teminatı satış merkezlerine veya İdarece tespit edilen yere nakden yatırmaları esastır. Ancak İdare, gerçek ve tüzel kişi bayiler ile sanal ortam bayileri için farklı tutarlarda teminat belirlemeye, teminat tutarını artırmaya veya eksiltmeye, muhtaç, özürlü kişilerden ve malul gazilerden bayilik teminatı almamaya veya teminatın tahsil şeklini özel olarak belirlemeye yetkilidir.
+(2) Bayilik ruhsatının geçerli olduğu sürece teminat bayiye iade edilmez. Bayilik ruhsatının iptali halinde, bayinin talep tarihinden itibaren, İdareyle olan hesap mutabakatının sağlanmasını müteakip en kısa süre içinde teminatı bayiye iade edilir. Bu süre hiç bir şekilde bir yılı geçemez.
+(3) Bayilik ruhsatının iptali halinde, varsa, bayinin borçları ile faaliyeti sırasında vermiş olduğu her türlü zarar ve ziyan İdarece bayilik teminatından mahsup edilir.
+(4) Bayilik teminatının İdarece yükseltilmesi halinde, aradaki fark bayilerden tahsil edilir.

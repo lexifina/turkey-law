@@ -1,0 +1,5 @@
+İkramiye ödeme esas ve şartları
+MADDE 26 – (1) Bir bilete ikramiye ödenebilmesi için, biletin ikramiye kazanan numaralardan birini ihtiva etmesi, çekiliş tarihi, ikramiye ve seri numarası, fiyat ve kupür itibariyle herhangi bir kuşkuya meydan vermeyecek şekilde kendini ibraz eder nitelikte olması gerekir.
+(2) Kendini ibraz eden biletlerden; ikramiye numaralarının dışında kalan diğer yerlerinden yırtılmış veya kopmuş olup parçaları mevcut olan ve ikramiye kazanan numaraları açık bir şekilde okunanlara da ikramiye ödenir.
+(3) İkramiye isabet eden numaraları üzerinden yırtılmış veya kopmuş olup, parçaları mevcut olan biletlerin ikramiyesi ancak, İdare veya satış merkezleri tarafından yapılacak inceleme sonucunda ödenebilir. Bu şekildeki biletlerden bayi ödeme yetkisindeki ikramiyeler satış merkezi yöneticisinin kararı, daha büyük ikramiyeler ise İdare merkezi onayı ile ödenir.
+(4) İkramiye kazanan numaralardan hiç birini ihtiva etmeyen ya da kendini ibraz eder nitelikte olmayan; sahte, tahrifat yapılmış, zaman aşımına uğramış, iptal edilmiş, ödendi damgası sığacak kadar veya daha büyük parçası kopmuş ve parçaları mevcut olmayan biletlere ikramiye ödenmez.

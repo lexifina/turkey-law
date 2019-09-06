@@ -1,0 +1,3 @@
+Bayiliğin nakli ve ruhsat türünün değiştirilmesi
+MADDE 54 – (1) Sabit bayi ruhsatını haiz olan kişinin işyerini başka bir yere nakletmesi halinde, bayiliğinin nakli işlemi yapılır. Sabit bayinin iş yerini kapatması durumunda ise, talebi halinde bayilik ruhsatı seyyar olarak değiştirilir. Seyyar bayinin bir işyeri açması veya ikametgâhını başka bir yere nakletmesi halinde de bu fıkra hükmü uygulanır. Bayiliğin nakli veya ruhsat türünün değiştirilmesi İdarenin yetkisindedir.
+(2) Sayısal oyun bayisi iken Milli Piyango bayiliği alanlardan, kendi isteği ile sayısal oyun bayiliği iptal edilenlerin, Milli Piyango bayiliğine devam etmek istemeleri halinde, dosyaları ve bu bayilik için belirlenen teminat, ilgili birime ve hesaba devredilir.

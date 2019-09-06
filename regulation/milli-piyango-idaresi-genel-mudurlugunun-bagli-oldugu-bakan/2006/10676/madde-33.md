@@ -1,0 +1,4 @@
+İkramiyesi ödenen biletler hakkında yapılacak işlemler
+MADDE 33 – (1) Satış merkezleri ve başbayiler tarafından ikramiyeleri ödenen biletler, ikramiye ve seri numarası, kupür ve çekiliş tarihine zarar gelmeyecek şekilde en az iki yerinden üçgen şeklinde delinip iptal edilmek suretiyle, İdarece belirlenecek dönemler dahilinde ilgili evrak ile birlikte kontrol ve diğer işlemleri yapılmak üzere İdare merkezine gönderilir.
+(2) İdarece, satış merkezleri ve başbayiler tarafından gönderilen ikramiyesi ödenmiş biletlerin nihai kontrol ve tesellüm işlemleri yapılarak, varsa fazla ve eksik ödemeler belirlenip farklarının ilgili satış merkezi ve başbayilerin hesaplarına borç ve alacak kayıtları sağlanarak ilgililerine yazılı olarak bildirilir.
+(3) İkramiyesi ödenmiş biletlerin kaybolması halinde bu Yönetmeliğin 15 inci maddesi hükmü uyarınca işlem yapılır.

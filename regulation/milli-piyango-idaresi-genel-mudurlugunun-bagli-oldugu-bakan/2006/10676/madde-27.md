@@ -1,0 +1,2 @@
+Ödendi kaşeli biletlerin çekilişten önce ihbarı
+MADDE 27 – (1) Kendini ibraz eder nitelikte olmak kaydıyla, sehven ödendi damgası basılmış olan biletlerin, ait olduğu çekilişin yapılacağı tarihten en geç bir gün önce mesai sonuna kadar satış merkezlerine bilet hamili tarafından dilekçe ekinde ibraz edilmesi ve bu dilekçenin yine çekilişten bir gün önce İdare merkezine gönderilmesi halinde, bu biletlere isabet eden ikramiyeler ödenir.

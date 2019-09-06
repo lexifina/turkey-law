@@ -1,0 +1,3 @@
+Bayilerce ikramiyesi ödenen biletlerin ibrazı
+MADDE 32 – (1) Seyyar ve sabit bayiler talihlilere yetkileri dahilinde ikramiyesini ödedikleri biletleri, İdarece belirlenen matbu formlara kaydetmek suretiyle herhangi bir satış merkezine veya başbayiye ibraz ederek ikramiye bedelini tahsil edebilirler. Sanal ortam bayileri ise ödedikleri ikramiyelerin bedelini, sadece İdareden veya yetkili satış merkezinden tahsil edebilirler.
+(2) Bayilere; yetkileri dahilinde ödedikleri ikramiyeler için İdarece belirlenen oranda ikramiye ödeme primi verilir, yetkileri üzerindeki ikramiye ödemeleri için ise prim verilmez.
