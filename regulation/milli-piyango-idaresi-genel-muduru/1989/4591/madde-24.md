@@ -1,0 +1,3 @@
+Sahte ve Tahrif Edilmiş Biletler
+MADDE 24- Piyango bileti niteliğinde olan hemen-kazan biletlerini tahrif ve taklit edenlerin bu fiilleri, milli paralar hakkında işlenen bu gibi cürümlere ait cezalara tabi olduğundan, satış merkezleri ile bayiler ikramiye ödemeleri sırasında, sahte veya tahrif edilmiş biletleri tespit etmeleri halinde, bileti ibraz eden kişiler hakkında adli makamlara suç duyurusunda bulunmak zorundadırlar.
+Bu madde hükmü, ikramiyeleri ödenmiş olmakla birlikte, İdare merkezinde veya İdarece yetkili kılınan satış merkezlerinde yapılan kontrol sırasında tespit edilen sahte ve tahrifli biletlerin ikramiyelerini alanlar hakkında da uygulanır.

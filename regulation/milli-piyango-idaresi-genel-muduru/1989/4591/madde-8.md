@@ -1,0 +1,3 @@
+Oyunun Tertip Hakkı
+MADDE 8- Türkiye'de her ne şekilde olursa olsun karşılığı nakit olmak üzere hemen-kazan oyunu tertip hakkı münhasıran İdareye aittir. Karşılığı nakit olmayan piyango ve çekilişler hakkındaki hükümler saklıdır.
+Yukarıdaki fıkra hükmünü ihlal ederek, karşılığı nakit olmak üzere hemen kazan oyunu tertipleyenlerin bu faaliyetleri ile bunlara dair ilan ve reklamlar, İdarenin talebi üzerine mahallin en büyük mülki amiri tarafından derhal durdurularak, bu faaliyetlere ait bilet veya kuponlar toplattırılır. Bu işlemlerin yapılması, ilgililer hakkında cezai kovuşturma yapılmasına engel teşkil etmez.

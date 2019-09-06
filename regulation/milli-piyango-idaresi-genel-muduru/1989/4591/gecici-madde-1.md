@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1- (Ek:RG-8/4/1993-21546)
+Bayi ödeme yetkisi içinde bulunan ikramiyelerin bizzat bu biletleri satan bayiler tarafından talihlilere ödenmesinin zorunlu tutulması ve bu ikramiyelerin bayilere peşin olarak ödenmesi şeklindeki uygulamaya, hangi tür ve seri numaralı biletlerle başlanacağı İdarece belirlenerek kamuoyuna duyurulur. Yeni uygulamaya tabi olacak biletlerden önce tedavüle sürülmüş bulunan biletler hakkında önceki uygulamaya devam olunur.
