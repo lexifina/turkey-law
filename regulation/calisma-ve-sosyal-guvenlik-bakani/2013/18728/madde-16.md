@@ -1,0 +1,2 @@
+Oda ve yurtlarda bulundurulacak ilaç ve tıbbi gereçler
+MADDE 16 – (1) Oda ve yurtların gereken yerlerine çocukların vücut ısılarının ölçülmesi için termometreler konulur, buralarda EK-VI’daki çizelgede yazılı olan ve ayrıca işyerinde görevli hekim tarafından gerekli görülen ilaç ve tıbbi gereçler bulundurulur. Bunlar özel bir dolap içinde ve kolayca kullanılabilecek şekilde saklanır ve düzenli olarak işyerinde görevli hekim tarafından gözden geçirilerek bozulmuş veya kullanılmaz duruma gelmiş yahut tükenmiş bulunanların yerlerine yenileri konulur.

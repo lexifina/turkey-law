@@ -1,0 +1,4 @@
+Oda ve yurtlardan faydalanacaklar
+MADDE 14 – (1) Oda ve yurtlardan, kadın çalışanların çocukları ile erkek çalışanların annesi ölmüş veya velayeti babaya verilmiş çocukları faydalanırlar. Odalara 0-1 yaşındaki, yurtlara (Değişik ibare:RG-7/9/2019-30881) ilköğretime kayıt yaşını doldurmamış çocuklar alınır.
+(2) Oda ve yurtlarda, çocuklar ve görevliler dışında başkasının bulunması ve bunların amaç dışında kullanılması yasaktır. Yurtlarda 0-24 aylık, 25-48 aylık ve (Değişik ibare:RG-7/9/2019-30881) 49 aylık ve üzeri çocuklar birbirinden ayrı bulundurulur.
+(3) Çocuklar, oda ve yurtlara işbaşı yapılmadan önce bırakılır, işin bitiminde alınır. Anne ve babalar, odaların ve yurtların disiplin ve yönetimine dair kurallara uymak şartıyla ara dinlenmesinde çocuklarını görüp bakımlarıyla ilgilenebilirler.
