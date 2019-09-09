@@ -1,0 +1,2 @@
+Yüksekokul müdürü
+MADDE 27 – (1) Yüksekokul müdürü, üç yıl için ilgili fakülte dekanının önerisi üzerine Rektör tarafından atanır. Rektörlüğe bağlı yüksekokullarda bu atama doğrudan Rektör tarafından yapılır. Süresi biten müdür tekrar atanabilir. Müdürün okulda görevli aylıklı öğretim elemanları arasından üç yıl için atayacağı en çok iki yardımcısı bulunur. Müdüre vekalet etme veya müdürlüğün boşalması hallerinde yapılacak işlem, dekanlarda olduğu gibidir. Yüksekokul müdürü, bu Yönetmelik ile dekanlara verilmiş olan görevleri yüksekokul bakımından yerine getirir.

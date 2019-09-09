@@ -1,0 +1,3 @@
+Yüksekokul/MYO idari teşkilatı
+MADDE 51 – (1) Meslek Yüksekokul idari teşkilatı, yüksekokul sekreteri ile sekreterlik bürosunda ihtiyaca göre görevlendirilecek yeteri kadar idari personelden oluşur. Yüksekokul sekreteri ile sekreterlik bürosu ve varsa bağlı birimler, yüksekokulun idari hizmetlerinin yürütülmesinden sorumludurlar.
+(2) Yüksekokul sekreterinin görevleri, yüksekokulların idari hizmetlerinin yürütülmesi ve yüksekokul müdürü tarafından verilecek diğer görevleri ve işleri yapmak, yüksekokul kurulu ile yüksekokul yönetim kurulunda, oya katılmaksızın, raportörlük görevi yapmak, bu kurullarda alınan kararların yazılması, korunması ve saklanmasını sağlamaktır.

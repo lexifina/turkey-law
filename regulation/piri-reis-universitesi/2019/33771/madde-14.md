@@ -1,0 +1,2 @@
+Rektör yardımcıları
+MADDE 14 – (1) Rektör, çalışmalarında kendisine yardımcı olmak üzere Üniversitenin tam günlü profesörleri arasından en çok üç kişiyi kendi rektörlük görev süresiyle sınırlı olmak kaydıyla Rektör yardımcısı olarak atar. Rektör, görevi başında olmadığı zaman yardımcılarından birisini yerine vekil bırakır. Rektör gerekli gördüğü hallerde yardımcılarını süresi dolmadan da değiştirebilir.

@@ -1,0 +1,2 @@
+Enstitü müdürü
+MADDE 24 – (1) Enstitü müdürü, üç yıl için ilgili fakülte dekanının önerisi üzerine rektör tarafından atanır. Rektörlüğe bağlı enstitülerde bu atama doğrudan rektör tarafından yapılır. Süresi biten müdür tekrar atanabilir. Müdürün, enstitüde görevli aylıklı öğretim elemanları arasından üç yıl için atayacağı en çok iki yardımcısı bulunur. Müdüre vekalet etme veya müdürlüğün boşalması hallerinde yapılacak işlem, dekanlarda olduğu gibidir. Enstitü müdürü, bu Yönetmelik ile dekanlara verilmiş olan görevleri enstitü bakımından yerine getirir.

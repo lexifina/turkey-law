@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 63 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-09-09",
+      "09.09.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 63 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30883",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-09-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Piri Reis Üniversitesi",
+  "issuer_slug": "piri-reis-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/piri-reis-universitesi/2019/33771",
+  "published": "2019-09-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33771&MevzuatTertip=5",
+  "source_bytes": 104618,
+  "source_id": "8.5.33771",
+  "source_sha256": "0a95767d98fdcc0c098c753fe3e29dc37b76e8095fae77505e9f4dba911b5a0e",
+  "text_status": "as-enacted",
+  "title": "PİRİ REİS ÜNİVERSİTESİ ANA YÖNETMELİĞİ",
+  "university_id": 324,
+  "word_count": 5813
+}

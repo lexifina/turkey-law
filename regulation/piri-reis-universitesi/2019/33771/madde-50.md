@@ -1,0 +1,3 @@
+Enstitü idari teşkilatı
+MADDE 50 – (1) Enstitü idari teşkilatı, enstitü sekreteri ile sekreterlik bürosunda ihtiyaca göre görevlendirilecek yeteri kadar idari personelden oluşur. Enstitü sekreteri ile sekreterlik bürosu ve varsa bağlı birimler, enstitünün idari hizmetlerinin yürütülmesinden sorumludur.
+(2) Enstitü sekreterinin görevleri, enstitülerin idari hizmetlerinin yürütülmesi ve enstitü müdürü tarafından verilecek diğer görevleri ve işleri yapmak, enstitü kurulu ile enstitü yönetim kurulunda, oya katılmaksızın, raportörlük görevi yapmak, bu kurullarda alınan kararların yazılması, korunması ve saklanmasını sağlamaktır.

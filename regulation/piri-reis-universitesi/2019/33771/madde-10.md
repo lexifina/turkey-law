@@ -1,0 +1,2 @@
+Başkan ve Başkan Vekili
+MADDE 10 – (1) Mütevelli Heyeti, üyeleri arasından, azami dört yıl için bir Başkan ve bir Başkan Vekili seçer. Görev süreleri biten Başkan ve Başkan Vekili bu görevlere yeniden seçilebilirler. Başkanın görevinin sona ermesiyle Başkan Vekilinin görev süresi de kendiliğinden sona erer. Başkan, yokluğunda Başkan Vekilinin yerine vekil olarak görevlendirir. Gerekli görürse, Başkan yetkilerinden bir bölümünü Başkan Vekiline devredebilir.

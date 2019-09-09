@@ -1,0 +1,3 @@
+Fakülte idari teşkilatı
+MADDE 49 – (1) Fakülte idari teşkilatı, fakülte sekreteri ile sekreterlik bürosunda ihtiyaca göre görevlendirilecek yeteri kadar idari personelden oluşur. Fakülte sekreteri ile sekreterlik bürosu ve varsa bağlı birimler, fakültenin idari hizmetlerinin yürütülmesinden sorumludurlar.
+(2) Fakülte sekreterinin görevleri, fakültelerin idari hizmetlerinin yürütülmesi ve dekan tarafından verilecek diğer görevleri ve işleri yapmak, fakülte kurulu ile fakülte yönetim kurulunda, oya katılmaksızın, raportörlük görevi yapmak, bu kurullarda alınan kararların yazılması, korunması ve saklanmasını sağlamaktır.

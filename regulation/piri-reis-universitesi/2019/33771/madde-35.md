@@ -1,0 +1,2 @@
+Sürekli eğitim merkezleri
+MADDE 35 – (1) Üniversitede ulusal ve uluslararası Üniversite-sanayi iş birliği içerisinde ve denizcilik sektörü başta olmak üzere diğer sektörlerin ihtiyacı olan eğitim-öğretim ve sertifika projelerini üretmek, yürütmek, programlarını düzenlemek, danışmanlık, proje hizmetleri ile rehberlik ve danışma hizmetleri vermek ve bunlarla ilgili yayınlar yapmak amacıyla sürekli eğitim merkezleri kurulabilir.
