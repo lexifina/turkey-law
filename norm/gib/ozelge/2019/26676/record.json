@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "77058783-105[VUK.ÖZ.19.20]-E.172924",
+  "source_id": 26676,
+  "date": "2019-09-09",
+  "title": "Döviz cinsinden peşin tahsil edilen kira gelirinin değerlemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26676",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d91ec5058e6ecb4ae31dfaa6da85792340a46929c2d8ce598460aef45471abfd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
