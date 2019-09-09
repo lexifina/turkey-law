@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "423",
+  "decision_date": "2019-09-09",
+  "title": "MEC. KAR. (3. Tarsus Gastronomi Günleri).doc",
+  "listed_as": "423 MEC. KAR. (3. Tarsus Gastronomi Günleri).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/423-mec-kar-3-tarsus-gastronomi-gunleridoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/9-eylul-2019-meclis-kararlari",
+  "listing_sha256": "72a6ef21a667d744ebb195343e3c96771375296da8cce45451fe562048079790",
+  "meeting_title": "9 EYLÜL 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
