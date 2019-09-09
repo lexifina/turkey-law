@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[70-2018/238]-E.732409",
+  "source_id": 21337,
+  "date": "2019-09-09",
+  "title": "Terekeye kayıtlı gayrimenkulden elde edilen kira gelirlerine ait gayrimenkul sermaye iradı beyannamesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21337",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "6b84637d1845364f0efa9e588e0394e2499c7dcab5c5b99e58c051a2dd488dba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
