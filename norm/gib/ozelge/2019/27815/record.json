@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-1/e-2018/389]-737682",
+  "source_id": 27815,
+  "date": "2019-09-10",
+  "title": "Mahkeme kararı gereği tapu iptaline karar verilen taşınmaz satışından dolayı elde edilecek kazancın verilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27815",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d96993d6fe5347336f7c40d1559d2cb10b0d7c30ceb68c116af3c55b8bedd7aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
