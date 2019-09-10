@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-120[2018/1662]-E.105145",
+  "source_id": 23055,
+  "date": "2019-09-10",
+  "title": "Kendi yetiştirdiği hayvanların borsaya tescilinde gelir vergisi kesintisi yapılıp yapılmayacağı ile müstahsi makbuzu düzenlenmesini gerekip gerekmediği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23055",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "42aa8c5860d405394f7ef2786871024c94cb281a47239a9fb08bc8e3b7c984f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
