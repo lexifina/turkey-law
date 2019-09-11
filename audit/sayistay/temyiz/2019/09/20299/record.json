@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46595",
+  "decision_date": "2019-09-11",
+  "source_id": 20299,
+  "chamber": "2",
+  "file_number": "43487",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20299/",
+  "source_sha256": "47c73112cabe03551160aabfe55cce1390e1f30b51d483fbb05c8de9b166e762",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
