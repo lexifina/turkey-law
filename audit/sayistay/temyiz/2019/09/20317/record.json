@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46609",
+  "decision_date": "2019-09-11",
+  "source_id": 20317,
+  "chamber": "6",
+  "file_number": "44607",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20317/",
+  "source_sha256": "6af060859c1576929561774d7325e1587eeb084da78279fc78262ae5818f32f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
