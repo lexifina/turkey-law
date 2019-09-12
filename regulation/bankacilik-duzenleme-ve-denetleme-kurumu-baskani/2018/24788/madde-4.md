@@ -1,0 +1,4 @@
+Finansal Yeniden Yapılandırmanın Kapsamı
+MADDE 4 – (Değişik:RG-12/9/2019-30886 Mükerrer)
+(1) Finansal yeniden yapılandırma, Kanun ve bu Yönetmelik hükümleri ile belirlenen kapsam, usul ve esaslar dâhilinde borçlunun makul bir süre içinde borçlarını geri ödeme kabiliyeti kazanabilmesi amacıyla yapılır. Bu amaç dışında temdit, taksitlendirme, teminata bağlama, ilave kredi kullandırma ve sair yöntemlerle gerçekleştirilen diğer refinansman işlemleri Kanunun geçici 32 nci maddesi uyarınca bu Yönetmeliğe göre yapılan Çerçeve Anlaşmaları ve bu Anlaşmalar uyarınca düzenlenen Sözleşmeler kapsamında değerlendirilmez.
+(2) Kanunun geçici 32 nci maddesinin yürürlük tarihi öncesinde imzalanan çerçeve anlaşmaları dışında gerçekleştirilen yeniden yapılandırmalar, bu Yönetmeliğe göre yapılan Çerçeve Anlaşmaları ve bu Anlaşmalar uyarınca düzenlenen Sözleşmeler kapsamında dikkate alınmaz.
