@@ -1,0 +1,20 @@
+{
+  "applicant": "C.E.",
+  "application_date": "2016-01-07",
+  "application_number": "2016/436",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-09-12",
+  "id": "f6b10920-a637-4711-7882-15c0baa3ce6f",
+  "in_force": "2019-09-12",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmY2YjEwOTIwLWE2MzctNDcxMS03ODgyLTE1YzBiYWEzY2U2Zg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "ebbe6dc4040e9481a0dae211c53278663d6d17c056bd75a8c571617602e55fe6",
+  "version_label": "as-enacted"
+}
