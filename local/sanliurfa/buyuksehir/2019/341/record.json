@@ -1,0 +1,24 @@
+{
+  "number": "341",
+  "number_as_published": "341",
+  "year": 2019,
+  "title": "Koruma Amaçlı Nazım ve Uygulama İmar Planı Değişikliği (HALFETİ)",
+  "decision_date": "2019-09-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/8882/106/koruma--amacli--nazim-ve-uygulama-imar--plani-degisikligi-halfeti",
+  "official_document": null,
+  "source_sha256": "d125d86b1dd6d3caef683c99f3fa62a4f566fb30440ad85ec8f86d7dc100a75d",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2019-09-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.09.2019 tarih ve 341 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-11-04",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
