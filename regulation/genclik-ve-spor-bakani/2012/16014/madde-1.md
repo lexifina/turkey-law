@@ -1,0 +1,3 @@
+GENÇLİK VE SPOR BAKANLIĞI PROJE YÖNETMELİĞİ(1)
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; Gençlik ve Spor Bakanlığınca, gençlerin ve gençlik gruplarının ihtiyaçlarını dikkate alarak, gençlerin kişisel ve sosyal gelişiminin desteklenmesi, potansiyellerini gerçekleştirebilmelerine imkân sağlanması, karar alma ve uygulama süreçleri ile sosyal hayatın her alanına etkin katılımının artırılması, gençlik ve spor hizmetlerine erişimlerinin kolaylaştırılması ve yenilikçi fikirlerin hayata geçirilmesine yönelik proje destek programlarının oluşturulması ve yürütülmesine (Ek ibare:RG-30/4/2016-29699) , gerçek ve tüzel kişiler, gençlik grupları veya gençlik toplulukları ile ortak projeler yapılmasına ilişkin usul ve esasları düzenlemektir.

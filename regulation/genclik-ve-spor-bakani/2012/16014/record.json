@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.16014",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI PROJE YÖNETMELİĞİ",
+  "number": "16014",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2012/16014",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16014&MevzuatTertip=5",
+  "source_sha256": "5451c85698f28747836be8a00485c03133e5665656c04611df3f209a71bab828",
+  "source_bytes": 43661,
+  "published": "2012-03-31",
+  "gazette": "28250",
+  "in_force": "2019-09-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/9/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-09-13",
+      "RG-13/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-13",
+      "13/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-04-30",
+      "RG-30/4/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-04-30",
+      "30/4/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2002,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

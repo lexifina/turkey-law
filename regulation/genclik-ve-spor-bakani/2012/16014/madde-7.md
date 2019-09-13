@@ -1,0 +1,3 @@
+Projelerin izlenmesi ve değerlendirilmesi
+MADDE 7 – (1) Sözleşmenin imzalandığı tarihten itibaren proje kapsamında yapılan faaliyetler ve projenin geldiği aşamayı gösteren gelişme raporları üçer aylık dönemler halinde proje yürütücüsü tarafından Genel Müdürlüğe sunulur.
+(2) Proje kontrolörü; projeleri, sözleşme hükümlerini, proje takvimini, görünürlük kurallarını ve bu Yönetmelikte yer alan diğer hususları dikkate alarak izler ve denetler. İzleme ve denetlemeler gerektiğinde yerinde yapılabilir. Söz konusu denetimlerde tespit edilen aksaklıklar bir tutanağa bağlanarak proje yürütücüsünün gerekli düzeltmeleri yapması sağlanır.
