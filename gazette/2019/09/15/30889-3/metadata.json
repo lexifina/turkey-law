@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-09-15",
+  "issue": "30889",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Altınbaş Üniversitesi Türkçe Hazırlık Programı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190915-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190915.htm",
+  "index_sha256": "54b824742c735d8e1e8dac40aa5fde61e84046b9c4ac7065e9931cb2b57366aa",
+  "index_header": "15 Eylül 2019 ... 30889 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190915.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
