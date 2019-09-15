@@ -1,0 +1,9 @@
+Türkçe yeterlik sınavı
+MADDE 6 – (1) Tamamen Türkçe dilinde yürütülen ön lisans, lisans ve lisansüstü programlarına yeni kabul edilen uluslararası öğrencilerin Türkçe yeterlikleri, akademik yılbaşında Yabancı Diller Yüksekokulu tarafından hazırlanan ve uygulanan yeterlik sınavı ile belirlenir. Yeterlik sınavında başarı notu Yabancı Diller Yüksekokulunun önerisi üzerine Senato tarafından belirlenir.
+(2) Aşağıdaki öğrenciler her yarıyıl başında ders ekleme-bırakma süresi içerisinde ibraz etmek koşulu ile yabancı dil seviye tespit ve yeterlik sınavından muaftır:
+a) En az son üç yılında, öğretim dili olarak belirlenen Türkiye Türkçesinin anadil olarak konuşulduğu bir ülkede o ülke vatandaşlarının devam ettiği ortaöğretim kurumlarında eğitim görüp ortaöğrenimini bu kurumlarda tamamlayanlar.
+b) Yükseköğretim Kurulu tarafından kabul edilen merkezi Türkçe dil sınavları ile eşdeğerliği kabul edilen uluslararası Türkçe dil sınavlarında Üniversite Senatosunun belirlediği puanla başarılı olanlar.
+c) Senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan Senato tarafından belirlenen puanı elde edenler.
+ç) Yurt içi veya Yükseköğretim Kurulu tarafından denkliği kabul edilen yurt dışındaki bir Üniversitede Türkçe Hazırlık okuyup, ilgili belgelerin geçerlilik süresinin 3 yıl olması ve Yabancı Diller Yüksekokulu Yüksekokul Yönetim Kurulunun da uygun görmesi halinde ilgili belgeyi sunan öğrenciler.
+(3) İkinci fıkranın (b) bendi kapsamına giren sınavlarda alınan puanın değerlendirmeye alınabilmesi için, sınavı yapan ilgili kurumlar tarafından belirlenen sınav geçerlilik süresi esas alınır. Sınavın geçerlilik süresinin belli olmaması halinde bu süre Yükseköğretim Kurulu tarafından belirlenir.
+(4) Lisansüstü öğrencilerin hazırlık programına kayıt koşulları Temel Türkçe Bölümü tarafından belirlenir.

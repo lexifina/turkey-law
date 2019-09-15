@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-09-15",
+      "15.09.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30889",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-09-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2019/33785",
+  "published": "2019-09-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33785&MevzuatTertip=5",
+  "source_bytes": 21534,
+  "source_id": "8.5.33785",
+  "source_sha256": "0e638e5d4b86d7b241b5ed79a3669517121e7861b3657fad1cc294992fa1599d",
+  "text_status": "as-enacted",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ TÜRKÇE HAZIRLIK PROGRAMI YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 939
+}
