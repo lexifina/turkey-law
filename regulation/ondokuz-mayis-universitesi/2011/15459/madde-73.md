@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Ön İzin, İrtifak Hakkı
+Ön izin verilmesi ve süre
+MADDE 73 – (1) İrtifak hakkı ihalesi sonucunda, yapılacak yatırım için ön izne ihtiyaç duyulması halinde, lehine irtifak hakkı tesis edilecek yatırımcıya; fiili kullanım olmaksızın tescil, ifraz, tevhit, terk ve benzeri işlemlerin yapılması veya imar planının yaptırılması, değiştirilmesi ya da uygulama projelerinin hazırlanması ve onaylatılması gibi işlemlerin yerine getirilebilmesi için, bir yıla kadar ön izin verilir. Gerekli hâllerde bu süre bir yıl daha uzatılabilir. Toplam süre dört yılı geçemez. (Değişik cümle:RG-16/9/2019-30890) Uzatılan süreye ilişkin ön izin bedeli, bir önceki yıl ön izin bedelinin Türkiye İstatistik Kurumunca yayımlanan Tüketici Fiyat Endeksindeki (TÜFE) oniki aylık ortalamalara göre değişim oranında artırılması suretiyle tespit edilen bedeldir.
+(2) Ön izin süresi içerisinde yükümlülüklerin yerine getirilmesi hâlinde, bu Yönetmeliğin 12 nci maddesinin dördüncü fıkrası uyarınca tespit edilecek bedel üzerinden İrtifak Hakkı Sözleşmesinin düzenlenmesi suretiyle irtifak hakkı tesis edilir. Ancak, ön izin süresi bitmeden önce irtifak hakkı kurulmasının talep edilmesi hâlinde, ön izin sözleşmesinde öngörülen yükümlülüklerin yerine getirilmiş olması kaydıyla, ön izin süresinin kalan kısmına ilişkin bedel, kurulacak irtifak hakkı bedelinden mahsup edilir.
+(3) Ön izin süresi içinde yükümlülüklerin ilgilinin kusuru dışında yerine getirilmesinin mümkün olamayacağının anlaşılması hâlinde, İdareye yapılacak başvuru üzerine sözleşme feshedilir ve teminat ile kalan süreye ilişkin ön izin bedeli iade edilir.
+(4) Ön izin sahibinin sözleşme süresi sona ermeden taahhüdünden vazgeçmesi hâlinde, İdarece sözleşme feshedilir. Bu durumda teminatı gelir kaydedilir ve kalan süreye ilişkin ön izin bedeli iade edilmez.
+(5) Ön izin verilmesi amacıyla ayrı bir ihale yapılmaz.
+(6) Ön izin sözleşmeleri notere tasdik ettirilir.

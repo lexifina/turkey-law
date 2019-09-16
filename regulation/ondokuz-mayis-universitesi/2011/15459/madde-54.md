@@ -1,0 +1,4 @@
+Sözleşme yapılmasında müşterinin görev ve sorumluluğu
+MADDE 54 – (1) Sözleşme yapılması gerekli olan hâllerde müşteri, bu Yönetmeliğin 46 ncı maddesine göre onaylanan ihale kararının bildirilmesini izleyen günden itibaren onbeş gün içinde geçici teminatı kesin teminata çevirerek ya da kesin teminatı vererek, İdarece düzenlenecek sözleşmeyi imzalamak zorundadır. Müşteri, zorunlu ise aynı süre içinde sözleşmeyi notere tasdik ve tescil ettirerek idareye vermekle yükümlüdür. İrtifak hakkına ilişkin sözleşmelerde ise tapuda düzenlenen resmi senedi onbeş gün içinde idareye vermekle yükümlüdür.
+(2) Müşterinin aynı süre içinde ihale bedelini, varsa müşteriye ait bulunan vergi, resim ve harçları yatırması, diğer giderleri ödemesi ve varsa diğer yükümlülükleri yerine getirmesi gerekir.
+(3) Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir.

@@ -1,0 +1,2 @@
+Açık teklif usulünde ihalenin yapılamaması
+MADDE 40 – (1) Açık teklif usulü ile yapılan ihalelerde istekli çıkmadığı, isteklilerin belgeleri veya son teklifleri uygun görülmediği takdirde, yeniden aynı usulle ihale açılabilir veya Üniversitenin yararı görüldüğü takdirde, ihalenin bitiş tarihinden itibaren onbeş gün içinde işin, bu Yönetmeliğin 34 üncü maddesinde belirtilen esaslar dâhilinde pazarlık usulüyle ihalesi yapılabilir.

@@ -1,0 +1,3 @@
+GEÇİCİ MADDE 2 – (Ek:RG-16/9/2019-30890)
+(1) Bu maddenin yürürlüğe girdiği tarihte halen devam eden ve sözleşme süresi uzatılan bir yıldan uzun süreli kira, irtifak hakkı ve kullanma izni sözleşmelerinde ikinci ve izleyen yıllar bedelleri mevcut sözleşmeler yenilenmeksizin Yönetmeliğin 14 üncü maddesine göre hesaplanarak tahsil edilir.
+(2) Ancak, 1/8/2018 tarihinden itibaren güncellenerek tespit edilen cari yıl kira, irtifak hakkı ve kullanma izni bedellerinin; 1/1/2019 tarihine kadar olan döneme isabet eden kısmı mevcut sözleşme hükümlerine göre, bu tarihten sonraki döneme isabet eden kısmı ise Yönetmeliğin 14 üncü maddesine göre hesaplanarak gerekli tahsilat, mahsup ve iadesi gerçekleştirilir.
