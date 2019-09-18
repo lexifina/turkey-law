@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46618",
+  "decision_date": "2019-09-18",
+  "source_id": 20762,
+  "chamber": "8",
+  "file_number": "44336",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2016",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20762/",
+  "source_sha256": "668cae5636ff3437b43a5c96a88f5abc3373ff7f4cabb6c03b937f6602ad9345",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
