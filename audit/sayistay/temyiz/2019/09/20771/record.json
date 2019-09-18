@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46625",
+  "decision_date": "2019-09-18",
+  "source_id": 20771,
+  "chamber": "2",
+  "file_number": "42554",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20771/",
+  "source_sha256": "2e31b410c70e1830934526a5b2bf7ff58b7ac4543a150185553b515e1f00c8df",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
