@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-09-18",
+  "issue": "30892",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Teknoloji Odaklı Sanayi Hamlesi Programı Uygulama Esasları Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190918-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190918.htm",
+  "index_sha256": "3e1eee784f8d42511423b9ca6ab8328d8583a99c8052227d83d484a5ca37624a",
+  "index_header": "18 Eylül 2019 ... 30892 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190918.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
