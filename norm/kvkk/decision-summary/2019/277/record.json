@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/277",
+  "source_id": 5545,
+  "date": "2019-09-18",
+  "title": "“Bir bankanın, ilgili kişinin cep telefonu numarasını bankaya veriliş amacı dışında kullanması” hakkında Kişisel Verileri Koruma Kurulunun 18/09/2019 Tarihli ve 2019/277 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5545/2019-277",
+  "source_sha256": "d9b33b3b75b2965942bd924faea45147673602d9b519403670c8645fcdcd40b1",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
