@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/269",
+  "source_id": 5534,
+  "date": "2019-09-18",
+  "title": "Facebook hakkında Kişisel Verileri Koruma Kurulunun 18.09.2019 tarih ve 2019/269 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/5534/2019-269",
+  "source_sha256": "686e59f8340ba9b099236e1e8aedc34be41eb9ffc27b60186244e0b9ecdd0a9e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
