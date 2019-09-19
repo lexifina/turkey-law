@@ -1,0 +1,55 @@
+Sosyal Denge Tazminatı
+
+… tarih ve … sayılı İlamın …’inci maddesiyle hüküm dışı bırakılan konunun 6085 sayılı Sayıştay Kanunu’nun 50’nci maddesinin üçüncü fıkrası hükmü gereğince görüşülmesinin devamına karar verildi.
+
+Anılan ilamın …’nci maddesiyle, … Belediyesinde çalışan sendika üyesi memur personele 2017 yılında mevzuatta belirlenen tavan tutarı aşan miktarda sosyal denge tazminatı ödenmesi suretiyle …-TL kamu zararına neden olunduğu iddiasına ilişkin olarak;
+
+Kamu zararının hesabında; toplu sözleşmede net olarak belirlenen tutarlardan 4688 sayılı Kanun’a göre tavan olarak belirlenmiş brüt tutarın çıkarıldığı ve müstehak olan personel için öğrenim yardımları ile ayni olarak yapılmış olan yakacak yardımının tavan tutarın hesaplanmasına dahil edilmediği gerekçeleriyle personele 2017 yılı içinde yapılan ödemelerin de brüte iblağ edilmesi ve belirtilen diğer hususların da hesaplamaya dahil edilerek kamu zararının yeniden hesaplanmasını teminen düzenlenecek ek raporun Dairemize intikaline değin konunun hüküm dışı bırakılmasına karar verilmişti.
+
+Bu defa konuya ilişkin düzenlenen ek rapor ve eklerinin incelenmesi sonucunda; Denetçi tarafından Dairemizin kararı doğrultusunda ödenen sosyal denge tazminatı tutarlarının brüte iblağ edildiği ve bahsi geçen diğer ödeme unsurlarının da kamu zararı hesaplamasına dahil edildiği ve böylece dosyadaki eksikliklerin tamamlandığı görülerek gereği düşünüldü:
+
+… Belediye Başkanlığı ile … Sendikası arasında imzalanan ve …- … tarihleri arasında geçerli olan Toplu İş Sözleşmesi ile memur personele 2017 yılında mevzuatın öngördüğü tutardan daha fazla sosyal denge tazminatı ödemesi yapıldığı görülmüştür.
+
+375 sayılı Kanun Hükmünde Kararname’nin Ek 15’nci maddesinde, “Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine sosyal denge tazminatı ödenebilir. Sosyal denge tazminatının ödenebilecek aylık tutarı, 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununa göre yapılan toplu sözleşmede belirlenen tavan tutarı geçmemek üzere ilgili belediye ve il özel idaresi ile ilgili belediye ve il özel idaresinde en çok üyeye sahip kamu görevlileri sendikası arasında anılan Kanunda öngörülen hükümler çerçevesinde yapılabilecek sözleşmeyle belirlenir” denilmektedir.
+
+4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununun “Mahalli İdarelerde Sözleşme İmzalanması” başlıklı 32’nci maddesinde “27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 15 inci maddesi hükümleri çerçevesinde sosyal denge tazminatının ödenmesine belediyelerde belediye başkanının teklifi üzerine belediye meclisince, il özel idaresinde valinin teklifi üzerine il genel meclisince karar verilmesi halinde, sözleşme döneminde verilecek sosyal denge tazminatı tutarını belirlemek üzere ilgili mahalli idarede en çok üyeye sahip sendikanın genel başkanı veya sendika yönetim kurulu tarafından yetkilendirilecek bir temsilcisi ile belediyelerde belediye başkanı, il özel idaresinde vali arasında toplu sözleşme sürecinin tamamlanmasını izleyen üç ay içerisinde sözleşme yapılabilir…” hükmü yer almaktadır.
+
+Yukarıda söz konusu edilen 32’nci maddeye dayanılarak akdedilen Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2016 ve 2017 Yıllarını Kapsayan 3. Dönem Toplu Sözleşme’nin ‘‘Yerel Yönetim Hizmet Koluna İlişkin Toplu Sözleşme’’ başlıklı dördüncü bölümünün 1’inci maddesinde; Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine ödenebilecek sosyal denge tazminatının aylık tavan tutarı en yüksek devlet memuru aylığının (ek gösterge dahil) yüzde yüzü olarak belirlenmiştir.
+
+Buna göre memurlara ödenecek olan sosyal denge tazminatı tutarları en yüksek devlet memuru aylığının yüzde yüzünden fazla olamayacaktır. En yüksek devlet memuru aylığı ise; 01/01/2017-30/06/2017 tarihleri arası için aylık 912,55-TL, 01/07/2017- 31/12/2017 tarihleri arası için ise 975,70-TL’dir.
+
+… Belediye Başkanlığı ile … Sendikası) arasında imzalanan …- … tarihleri arasında geçerli olan Toplu İş Sözleşmesinin;
+
+“Mali Haklar” başlıklı …’üncü maddesinin (a) bendine göre çalışanlara her ay 657 sayılı Devlet Memurları Kanunu’na göre verilen ücrete ilave olarak işverence memurlara, birim amirlerine (müdür ve müdür vekillerine) net …-TL ve memur başkan yardımlarına net          …-TL,
+
+“İkramiye” başlıklı …’üncü maddesine göre Ramazan bayramı için her memura net …-TL ve Kurban Bayramı için her memura net …-TL,
+
+“Diğer Yardımlar” başlıklı …’inci maddesine göre memur çalışanlara her yıl ekim ayında; hazırlık, anaokulu, ilkokul, ortaokul ve lisede öğrenim gören her çocuğu için … eğitim döneminde net …-TL eğitim ve öğretim yardımı, üniversitede ve yüksekokulda okuyan çocuğu için aylık net …-TL öğrenim yardımı( Eğitime devam ettiği süre içinde yılın ilk 4 ayı ve son 4 ayı olmak üzere), görevi gereği toplu taşımadan ücretsiz yararlananlar hariç çalışanlara ulaşım bedeli olarak aylık net …-TL ve çalışanlara yılda bir kez ekim ayında … kg iyi kalite linyit kömürü şeklinde yakacak yardımı,
+
+verileceği hüküm altına alınmış olup bahse konu sözleşmenin …’ncı maddesinin (a) bendi uyarınca … yılı için söz konusu mali hakların %10 fark konularak ödenmeye devam edileceği ve aynı maddenin (c) bendi uyarınca da toplu iş sözleşmesinin yürürlük döneminde yıl içerisinde memur maaş katsayı artışındaki zam oranının sözleşme maddelerinde de uygulanacağı düzenlenmiştir.
+
+Yukarıda yer alan mevzuat hükümleri, sözleşme maddeleri ve açıklamalar çerçevesinde … Belediye Başkanlığı ile … Sendikası arasında imzalanan …- … tarihleri arasında geçerli olan sözleşme ile … Belediye Başkanlığı bünyesinde çalışan  … üyesi memura … yılında mevzuatın öngördüğü tutardan daha yüksek tutarda sosyal denge tazminatı ödemesi yapılması neticesinde …-TL kamu zararına neden olunmuştur.
+
+Bu itibarla, … tarih ve …sayılı İlamın …’nci maddesiyle karar verilen hüküm dışı kararının kaldırılmasına ve  kamu zararı tutarı olan …-TL’nin;
+
+…-TL’sinin Üst Yönetici (Belediye Başkanı) …, Harcama Yetkilisi (İnsan Kaynakları ve Eğitim Müdür V.) … ve Gerçekleştirme Görevlisi (Bilgisayar İşletmeni) …’a,
+
+…-TL’sinin Üst Yönetici (Belediye Başkanı) …, Harcama Yetkilisi (Bilgisayar İşletmeni) … ve Gerçekleştirme Görevlisi (Büro İşçisi) …’a,
+
+Kalan …-TL’sinin ise Üst Yönetici (Belediye Başkanı) …, Harcama Yetkilisi (İnsan Kaynakları ve Eğitim Müdür V.) … ile Gerçekleştirme Görevlileri (İşçi) … ve (Bilgisayar İşletmeni) …’a,
+
+müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Karşı Oy:
+
+Üye …’un karşı oy gerekçesi:
+
+Yerel Yönetim Hizmet Koluna İlişkin Toplu Sözleşme’nin “Sosyal denge tazminatı” başlıklı 1’inci maddesinde; “Belediyeler ve bağlı kuruluşları ile il özel idarelerinin kadro ve pozisyonlarında istihdam edilen kamu görevlilerine, 4688 sayılı Kanunun 32 nci maddesinde yer alan usul ve esaslar çerçevesinde ödenebilecek sosyal denge tazminatı aylık tavan tutarı en yüksek Devlet memuru aylığının (ek gösterge dahil) %100'üdür. Sosyal denge tazminatının verilmesi yönünde yapılabilecek sözleşmelerde, tavan tutarı aşmamak kaydıyla ödenebilecek tazminatın aylık tutarı, görev yapılan birim ve iş hacmi, görevin önem ve güçlüğü, görev yerinin özelliği, çalışma süresi, kadro veya görev unvanı ile derecesi gibi kriterlere göre farklı olarak belirlenebilir.” denilmektedir.
+
+Bu bağlamda 4688 sayılı Kanun’un “Mahalli idarelerde sözleşme imzalanması” başlıklı 32’nci ve Geçici 14’üncü maddesi ile 375 sayılı KHK’nIn Ek 15’nci maddesinde yer alan hükümler çerçevesinde belediye personeline sosyal denge tazminatı ödenebilmektedir. Ancak, uygulamada belediye personeline ödenen sosyal denge tazminatının tavan tutarının belirlenmesine esas teşkil eden “aylık” kavramının dar anlamda yorumlanmasından kaynaklanan bir tereddüt meydana gelmektedir. Toplu sözleşmede bahsedilen aylık kavramı sadece gösterge ve ek gösterge aylıklarının toplamını ifade etmemektedir. Bu tanıma taban aylık ve kıdem aylık tutarlarının da dahil edilmesi suretiyle sosyal denge tazminatı ödemesine ilişkin tavan tutarın tespit edilmesi gerekir. Zira aylık kavramı ve kapsamı 657 sayılı Kanun’un 50 yılı aşan uygulama sürecinde değişiklikler geçirmiştir. Aşınan aylık unsurunun yerine yeni ve ek unsurlar ilave edilmiştir. Günümüzde ise kamu görevlilerine genel olarak temel maaş, zam ve tazminatlar ile sosyal yardımlar adıyla üç başlık altında aylık ödemesi yapılmaktadır. Analitik bütçe sınıflandırmasında da temel maaş unsurları “Bir kadroya dayalı olarak istihdam edilenlere ilgili mevzuatına göre yapılan aylık, ek gösterge,  kıdem aylığı ve taban aylığı ödemeleri, …” olarak tanımlanmıştır.
+
+Buradan hareketle “en yüksek devlet memuru aylığı” kavramını dar anlamda düşünmek ve değerlendirmek günümüz uygulamasındaki gerçekliğe uygun düşmez. Ayrıca, 4688 sayılı Kanun’un Geçici 14’üncü maddesinde geçen, “ … Ancak 32 nci madde uyarınca toplu sözleşmede belirlenen tavan tutarın, unvanlar itibarıyla ilgili personele söz konusu sözleşmeler uyarınca yapılmakta olan ortalama aylık ödemenin altında kalması halinde; üçüncü fıkra hükümleri dikkate alınmaksızın 32 nci madde hükümleri esas alınarak 31/12/2015 tarihine kadar uygulanabilecek sözleşmelerde bu maddenin yürürlüğe girdiği tarihte uygulanan sözleşme uyarınca unvanlar itibarıyla ilgili personele ödenen ortalama aylık tutar tavan olarak esas alınabilir...” ibaresindeki “ortalama aylık ödeme” kavramının da sosyal denge tazminatı ödemelerinin değerlendirmesinde dikkate alınması gerekir.
+
+Özetle, “en yüksek devlet memuru aylığı” kavramının geniş ve güncel yorumu dikkate alındığında, … Belediyesi tarafından personeline ödenen sosyal denge tazminatı ödemesinin aylık tutarlarının kamu zararı meydana getirecek bir meblağa ulaşmadığı değerlendirilmektedir.
+
+Belirtilen gerekçelerle, konu hakkında ilişilecek husus bulunmadığına karar verilmesi gerektiğinden çoğunluk görüşüne katılmıyorum.
