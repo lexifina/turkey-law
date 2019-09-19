@@ -1,0 +1,22 @@
+DÖRDÜNCÜ BÖLÜM
+Mazeretler, Kayıt Dondurma ve Kayıt Sildirme
+Mazeret Nedeniyle Devamsızlık ve Sınavlara Katılmama
+Madde 30 -a) (Değişik: RG-12/01/2005-25698)
+Sağlık nedeniyle mazeret
+(1) Muayenehanede yapılan cerrahi müdahaleler hariç olmak üzere, sadece yatarak tedaviyi gerektiren ameliyat halleri ile hastanede yatarak tedavi halleri mazeret olarak kabul edilebilir.
+(2) Mazeretlerin, ilgili sağlık kurumundan yazılı olarak ve protokol numarası gösterilerek resmi şekilde belgelenmesi gereklidir.
+(3) Gerekli görülen hallerde, ilgili öğrenci hakem hastanelerin sağlık kurullarına sevk edilebilir, raporu düzenleyen hastaneden raporun resmi tevsiki istenebilir ve yasal işlem yapılabilir.
+(4) (Ek:RG-28/9/2017- 30194) Protokol numarası verilerek düzenlenen ve kan testi, bedeni sıvı testi, kültür testi gibi tıbbi teknik değerlendirmeyle desteklenen tıbbi raporlar, teşhisin ilgili tıbbi teknik değerlendirmeyle ispat edilmesi halinde Mazeret Komisyonu tarafından sağlık mazereti olarak kabul edilebilir.
+b) (Değişik: RG-12/01/2005-25698)
+Sağlık nedenleri dışında mazeret
+(1) Vefat ve defin tarihleri ile hısımlığın belgelenmesi kaydıyla, 2. dereceye kadar kan hısımları ile 1. derece sıhri hısımların vefatı, sınavlara katılmama konusunda mazeret olarak kabul edilebilir. Ancak, kabul edilen mazeret süresi vefat tarihinden başlamak üzere toplam beş işgününü aşamaz.
+(2) Üniversite dahilindeki sınav saatlerinin çakışması, ÖSYM tarafından yapılan sınavlar, toplumsal olaylar ve doğal afetler mazeret olarak kabul edilebilir.
+(3) Mazeret olarak kabul edilebilecek diğer haller Mazeret Komisyonu’nun önerisi üzerine Üniversite Yönetim Kurulu tarafından değerlendirilir.
+c) Mazeretlerin değerlendirilmesi
+(1) (Değişik: RG-12/01/2005-25698) Devamsızlık ve ara sınavlara ilişkin mazeret başvuruları mazeretin kalktığı tarihi, sağlık nedenlerinde ise rapor süresinin bitimini izleyen üç gün içinde doğrudan ilgili öğretim elemanlarına yapılır; ilgili öğretim elemanları mazeretleri değerlendirerek sonuçları açıklarlar ve Dekanlığa bilgi verirler. (Değişik ikinci cümle: RG-22/07/2006-26236) Final sınavlarına ilişkin mazeret başvuruları ise, bu bendin diğer alt bentleri hükümlerine göre yapılır ve değerlendirilir. Mazeretlerin işbu maddede aranan koşulları taşıyıp taşımadığını değerlendirmek ve gösterilen mazeretin kabul edilip edilmeyeceğine karar vermek üzere, Üniversite Yönetim Kurulu tarafından beş kişilik bir komisyon tüm Üniversite bakımından görev yapmak üzere bir yıl süreyle atanır. Mazeret Komisyonu kararları, Üniversite Yönetim Kurulu onayıyla yürürlüğe girer.
+(2) (Değişik:RG-13/6/2013-28676) Mazeret başvurusu, sadece final sınavı ve yükseköğretim mevzuatı uyarınca bütünleme sınav hakkının verildiği hallerde bütünleme sınavı için yapılabilir. Ancak hem final hem de bütünleme sınavı için mazeret başvurusu yapılmaz. Final ve bütünleme sınavı için mazeret sınavı bütünleme sınavı sonrasında yapılır.
+(3) Mazeret başvurusu, mazeretin kalktığı tarihi, sağlık nedenlerinde ise rapor süresinin bitimini izleyen üç gün içinde, matbu mazeret formu doldurularak ve gerekli belge ve rapor eklenerek Öğrenci İşleri Müdürlüğüne yapılır. Gerekli hallerde, belgelerin tamamlanması veya ibrazı için ilgili dekanlığın onayıyla ek süre verilebilir. Bu sürelerden sonra yapılan mazeret başvuruları dikkate alınmaz.
+(4) Öğrenci İşleri Müdürlüğü, başvuru süresinin ve verilmişse ek sürenin sonunda mazeret belgelerini; öğrenciye ilişkin bilgilerin, mazeret nedeninin ve talep edilen mazeret süresinin yer aldığı bir toplu liste ekinde Mazeret Komisyonuna iletir. Mazeret Komisyonu, yaptığı değerlendirme sonucunda aldığı kararları, Üniversite Yönetim Kuruluna sunar.
+(5) Üniversite Yönetim Kurulu tarafından onaylanan kararlar, Üniversite binalarında uygun şekilde ilan edilir.
+(6) Mazeret başvurularına ilişkin kararlara karşı, ilan tarihini izleyen günden başlamak üzere üç gün içinde Öğrenci İşleri Müdürlüğüne başvurularak itiraz edilebilir. İtirazlar, Üniversite Yönetim Kurulu tarafından değerlendirilir ve haklı nedenlerin bulunması halinde kabul edilir. İtiraz üzerine verilen kararlar kesindir.
+(7) Mazeretlere ilişkin nihai kararlar gerekli işlemlerin yapılması için ilgili fakülte dekanlıklarına bildirilir. Mazeret başvurusu kabul edilen öğrencilere, mazeret sınavı hakkı ilgili yarıyıl içinde kullandırılır. Mazeret sınavına ilişkin ayrıntılar, ilgili öğretim üyesi tarafından belirlenir.

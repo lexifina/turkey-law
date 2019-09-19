@@ -1,0 +1,10 @@
+Kayıt Dondurma
+Madde 31 – (Değişik birinci fıkra:R.G.:18/11/2007-26704) Öğrenciler, haklı nedenlerinin belgelenmesi ve arka arkaya iki yarıyılı aşmamak kaydıyla, İngilizce Dil Hazırlık Programı da dahil olmak üzere tüm öğrenim süresi içinde toplam dört yarıyıl kayıt dondurabilir. Kayıt, en az bir yarıyıl için dondurulur. Ağır ve sürekli hastalık, askerlik, tutukluluk veya hükümlülük nedeniyle kayıt dondurma halinde uygulanacak süreler, Üniversite Yönetim Kurulu tarafından münferiden belirlenir. Kayıt dondurulan yarıyıllar, başarı denetimine ilişkin sürelerin hesabında dikkate alınmaz.
+Kayıt dondurma halinde öğrenim bedeline ilişkin esas ve usuller Mütevelli Heyeti tarafından belirlenir. Mütevelli Heyeti, kayıt donduran öğrencilerin bir sonraki akademik yıla ilişkin öğrenim bedelini kısmen veya tamamen ve peşin olarak ödemelerini karara bağlayabilir.
+Aşağıdaki haller ile Üniversite Yönetim Kurulunca uygun görülen diğer haller haklı neden olarak kabul edilebilir:
+(1) Öğrencinin, resmi sağlık kurulu raporu verme yetkisine sahip olan hastanelerin ilgili uzmanlık alanlarındaki hekimlerden alınan ve sağlık kurulunca onaylanmış raporlarla belgelenen sağlıkla ilgili mazeretleri,
+(2) Mahallin en büyük mülki amirince verilecek bir belge ile belgelenmiş olması şartıyla tabii afetler nedeniyle öğrencinin öğrenime ara vermek zorunda kalması,
+(3) Öğrencinin tâbi olduğu disiplin kuralları uyarınca öğrencilik sıfatının kalkmasına neden olmayan veya öğrencilikten çıkarılmayı gerektirmeyen ve kesinleşen mahkumiyet hali,
+(4) Öğrencinin hangi sıfatla bulunursa bulunsun askerlik görevi tecil hakkını kaybetmesi veya tecilinin kaldırılması suretiyle askere alınması,
+(5) Öğrencinin tutukluluk hali.
+Kayıt dondurmak isteyen öğrenci, mazeretine ilişkin belgeleriyle birlikte yazılı olarak başvurur. Kayıt dondurulmasına, ilgili fakülte veya yüksekokul yönetim kurulunun olumlu görüşü üzerine Üniversite Yönetim Kurulu tarafından karar verilir. İngilizce Dil Hazırlık Programı öğrencilerinin kayıt dondurma başvuruları doğrudan Üniversite Yönetim Kurulu tarafından karara bağlanır.

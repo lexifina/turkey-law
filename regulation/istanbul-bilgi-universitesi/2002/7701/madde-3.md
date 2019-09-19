@@ -1,0 +1,5 @@
+Akademik Takvim
+Madde 3 -Akademik takvim, Akademik Kurul tarafından her akademik yıl için saptanır ve öğrenci el kitabında yayınlanır. Öğrenciler akademik takvimde belirlenen tarih ve süreler ile Üniversite organları tarafından akademik takvim çerçevesinde belirlenen tarih ve sürelere uymak zorundadır.
+(Değişik fıkra:RG-3/9/2015-29464) Üniversitede eğitim-öğretim yarıyıl esasıyla yürütülür. Bir akademik yıl, iki yarı yıldan oluşur. Ancak yıllık veya birden çok yarıyıla yayılan ve son yarıyılda alınan nihai başarı notunun önceki dersler için de geçerli olduğu dersler açılabilir.
+En az 14 hafta olan yarıyılların hangi tarihlerde başlayıp sona ereceği ve yarıyıl aralarının süreleri akademik takvimde gösterilir.
+İngilizce Dil Hazırlık Programı da dahil olmak üzere, Üniversitenin tüm lisans ve önlisans programlarında dersler Pazartesi-Cumartesi günleri arasında yapılır. İdari gerekliliğin bulunduğu hallerde, Rektörün kararıyla Pazar günleri de ders yapılabilir. Yarıyıl ara sınavları ile yarıyıl sonu sınavları Pazar günleri de yapılabilir.
