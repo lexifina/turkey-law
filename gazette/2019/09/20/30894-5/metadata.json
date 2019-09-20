@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-09-20",
+  "issue": "30894",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "TS ISO 5290 Kayışla Tahrik - Dar V Kayışları İçin Kanallı Kasnaklar - Kanal Kesitleri 9N/J, 15N/J ve 25N/J (Etkin Sistem) Standardı ile İlgili Tebliğ (No: MSG-MS-2019/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190920-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190920.htm",
+  "index_sha256": "d2ffa0184637be463256b5422f5f1993af2806bd790a3f7b7bda14e24d7248a4",
+  "index_header": "20 Eylül 2019 ... 30894 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/09/20190920.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
