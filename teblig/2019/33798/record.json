@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.33798",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TS ISO 9980 KAYIŞLA TAHRİK – V KAYIŞLARI İÇİN KANALLI KASNAKLAR (ETKİN GENİŞLİĞİ ESAS ALAN SİSTEM) – KANALLARIN GEOMETRİK MUAYENESİ STANDARDI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: MSG-MS-2019/24)",
+  "number": "33798",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2019/33798",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33798&MevzuatTertip=5",
+  "source_sha256": "12f279c581baf2f169e94e76e393c71533e6896490ead2132680ba63efa9a94f",
+  "source_bytes": 13200,
+  "published": "2019-09-20",
+  "gazette": "30894",
+  "in_force": "2019-09-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.09.2019); own commencement article: \"Bu Tebliğ yayımı tarihinden altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 593,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
