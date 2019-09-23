@@ -1,0 +1,6 @@
+Açık teklif usulünde ihale
+MADDE 20 – (1) İlanda belirtilen ihale saati gelince, ihale komisyon başkanı isteklilerin belgelerini ve geçici teminat verip vermediklerini inceleyerek, kimlerin ihaleye katılabileceğini bildirir. Katılamayacakların belge ve teminatlarının geri verilmesini kararlaştırır. Bu işlemler, istekliler önünde, bir tutanakla tespit edilir.
+(2) Tutanaktan sonra, ihaleye giremeyecekler ihale yerinden çıkarılır. Diğer istekliler, önce şartnameyi imzaya ve daha sonra, sıra ile tekliflerini belirtmeye çağrılır. Yapılacak teklifler ihaleye ait artırma kâğıdına yazılır ve teklif sahipleri tarafından imzalanır.
+(3) İlk teklifler bu suretle tespit edildikten sonra, ihale komisyon başkanı postayla yapılmış teklifler varsa okutarak bu tekliflerin de ihaleye ait artırma kâğıdına yazılmasını sağlar. Bundan sonra istekliler, sırayla tekliflerde bulunmaya devam ederler. İhaleden çekilen isteklilerin bu durumları ihaleye ait artırma kâğıdına yazılır ve imzaları alınır. İlgilinin imzadan çekinmesi hâlinde durum ayrıca belirtilir.
+(4) İhaleden çekilenler, yeniden teklifte bulunamazlar.
+(5) Teklifler yapıldığı sırada, yapılan artırımların işi uzatacağı anlaşılırsa, isteklilerden ihale komisyonu huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.

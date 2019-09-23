@@ -1,0 +1,5 @@
+Ecrimisil ihbarnamesinin tebliği ve itiraz
+MADDE 78 – (1) Takdir edilen ecrimisil, İdari ve Mali İşler Daire Başkanlığı tarafından takdir tarihinden itibaren on beş gün içinde ecrimisil ihbarnamesi (Ek-8) düzenlenerek fuzuli şagile, elden veya iadeli taahhütlü mektupla tebliğ edilir. Ecrimisil işleminde İdarece maddi, kişide, işgal edilen alanda veya yüz ölçümde ya da benzer şekilde hata olduğunun belirlenmesi halinde, bu hata Üniversitece hangi aşamada olursa olsun resen düzeltilir ve yeniden ecrimisil ihbarnamesi (Ek-7) düzenlenerek ilgililerine tebliğ edilir.
+(2) Ecrimisil işlemine karşı, tebliğ tarihinden itibaren otuz gün içinde Üniversiteye dilekçeyle müracaat edilerek düzeltme talebinde bulunabilir.
+(3) Düzeltme talepleri, talep tarihinden itibaren en geç otuz gün içinde bu amaçla oluşturulacak komisyon tarafından karara bağlanır ve sonucu karar tarihinden itibaren en geç on beş gün içinde düzenlenecek Ecrimisil Düzeltme İhbarnamesi (Ek-8) ile ilgilisine tebliğ edilir.
+(4) Düzeltme taleplerini inceleyip karara bağlayacak komisyonların kuruluşu, çalışma esasları ve yetki sınırlarına ilişkin usul ve esaslar Üniversitece belirlenir.

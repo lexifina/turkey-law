@@ -1,0 +1,3 @@
+İhale usulleri
+MADDE 53 – (1) Taşınmaz satışlarında tahmin edilen bedeli, Kanunun 45 inci maddesine göre her yıl merkezî yönetim bütçe kanunuyla belirlenen parasal sınıra kadar olanlarda açık teklif usulü, bu sınırı geçenlerde ise kapalı teklif usulü uygulanır. Kapalı veya açık teklif usulüyle satılamayan taşınmazlar, uygun zamanda tekrar aynı usulle satış ihalesine çıkarılır ve bunlar Kanunun 43 ve 49 uncu maddeleri uyarınca pazarlık ihalesine bırakılamaz.
+(2) Kanunun 51 inci maddesinin birinci fıkrasının (a) bendine göre her yıl merkezî yönetim bütçe kanununda belirtilen parasal sınır içinde kalsa da satış ihalesi pazarlıkla yapılamaz.

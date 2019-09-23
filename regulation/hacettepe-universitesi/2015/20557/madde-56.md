@@ -1,0 +1,2 @@
+Ödeme şekli
+MADDE 56 – (1) Satış bedelleri tedavüldeki Türk Parası ile peşin olarak ödenir. Satış bedeli ihalenin onaylanmasına ilişkin kararın müşteriye tebliğ tarihinden itibaren on beş gün içinde Strateji Geliştirme Başkanlığına ödenir. Satışa ilişkin ödemenin yapıldığı anda müşterinin geçici teminat tutarı kadar borcunun kalması halinde; müşterinin yazılı talebi ve geçici teminat tutarının en geç son ödeme günü gelir kaydedilmesi kaydıyla geçici teminat borca mahsup edilebilir.

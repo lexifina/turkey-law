@@ -1,0 +1,3 @@
+Kira sözleşmesinin sona ermesi ve feshi
+MADDE 65 – (1) Kira sözleşmesi, sürenin bitimiyle sona erer.
+(2) Sözleşme hükümlerine aykırı davranılması, taşınmazın sözleşmede öngörülen amaç dışında kullanılması, denetim komisyonu tarafından kiracının faaliyetlerinde aynı konuda sözleşme hükümlerine aykırılığın üç kez tespit edilmesi veya kiracı tarafından sözleşmenin süresinden önce sona erdirilmesinin talep edilmesi hâlinde, sözleşme Üniversitece feshedilir. Bu durumda alınan teminatlar gelir kaydedilir, peşin ödenen kira tutarları iade edilmez. Taksitli ödenen kiralamalarda ise; bir yıllık kira tutarının ödenmemiş olan kısmı tazminat olarak alınır.

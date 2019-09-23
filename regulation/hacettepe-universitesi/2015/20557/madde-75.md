@@ -1,0 +1,4 @@
+İrtifak hakkı ve kullanma izni sözleşmesinin sona ermesi ve feshi
+MADDE 75 – (1) İrtifak hakkı sözleşmesi, sözleşme süresinin bitiminde sona erer.
+(2) Sözleşme hükümlerine aykırı davranılması, taşınmazın sözleşmede öngörülen amaç dışında kullanılması veya lehine irtifak hakkı kurulan tarafından talep edilmesi hâlinde sözleşme Üniversitece feshedilir. Bu durumda, cari yıl irtifak hakkı bedeli tutarında tazminat alınır ve ayrıca, alınan teminatlar gelir kaydedilir.
+(3) İrtifak hakkı sözleşmesinin sona ermesi veya feshedilmesi hâlinde, özel hükümler saklı kalmak kaydıyla, Üniversite taşınmazı üzerindeki tüm yapı ve tesisler sağlam ve işler durumda tazminat veya bedel ödenmeksizin Üniversiteye intikal eder ve bundan dolayı ya da lehine irtifak hakkı kurulan tarafından veya üçüncü kişilerce herhangi bir hak ve talepte bulunulamaz.

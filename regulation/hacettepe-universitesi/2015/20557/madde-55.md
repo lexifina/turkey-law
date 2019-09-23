@@ -1,0 +1,2 @@
+Taşınmazların müşteri tarafından adına tescil ettirilmesi
+MADDE 55 – (1) Müşteri; satış bedelini, vergi, resim, harç ve diğer masrafları ihalenin onaylanmasına ilişkin kararın tebliğ tarihinden itibaren on beş gün içinde ödemesi şartıyla, şartnamede yazılı süre içinde taşınmazları namına tescil ettirmeye mecburdur. Aksi takdirde müşteri, vukua gelecek hasar, zarar, fuzuli işgal ve diğer sebeplerle Üniversiteden bir talepte bulunamaz.

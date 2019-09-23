@@ -1,0 +1,3 @@
+Kapalı teklif usulünde tekliflerin verilmesi
+MADDE 14 – (1) Teklifler ilanda belirtilen saate kadar, sıra numaralı alındılar karşılığında ihale komisyonu başkanlığına verilir. Alındı numarası zarfın üzerine yazılır. Teklifler iadeli taahhütlü olarak da gönderilebilir. Bu takdirde, dış zarfın üzerine ihale komisyonu başkanlığının adresi ile hangi işe ait olduğu, isteklinin adı ve soyadı ile açık adresi yazılır. Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar komisyon başkanlığına ulaşması gerekir. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
+(2) İhale komisyon başkanlığına verilen teklifler herhangi bir sebeple geri alınamaz.

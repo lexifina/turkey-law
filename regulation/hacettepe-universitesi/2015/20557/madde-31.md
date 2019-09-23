@@ -1,0 +1,2 @@
+Tekliflerin açılma zamanı
+MADDE 31 – (1) Tekliflerin açılma zamanı, Üniversitenin çalışma saati içinde olmak üzere tespit edilir. Açılma zamanı için Türk Telekomünikasyon Anonim Şirketi veya Türkiye Radyo-Televizyon Kurumunun saat ayarı esas alınır. Teklifler açılmaya başlandıktan sonra çalışma saatine bağlı kalmaksızın işleme devam olunur. Tekliflerin açılma zamanından sonra ihale komisyonuna ulaşan teklifler dikkate alınmaz.

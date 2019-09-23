@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bedel tespit komisyonu: Bu Yönetmelikte yer alan, tahmin edilen bedel tespit işlemlerini yapmak, ecrimisili tespit ve takdir etmek ve Üniversitece verilecek benzer görevleri yürütmek üzere ihale yetkilisi tarafından Üniversitenin taşınmazları ve değerlemesi konusunda uzmanlığı ya da tecrübesi olan personel arasından seçilen ve üç kişiden oluşan komisyonu,
+b) Ecrimisil: Taşınmazın, Üniversitenin izni dışında gerçek veya tüzel kişilerce işgal veya tasarruf edilmesi sebebiyle, Üniversitenin bir zarara uğrayıp uğramadığına veya fuzuli şagilin kusurlu olup olmadığına bakılmaksızın Üniversitece talep edilen tazminatı,
+c) Fuzuli şagil: Kusuru aranmaksızın Üniversiteye ait bir taşınmazın zilyetliğini Üniversitenin izni veya kabulü olmaksızın eline geçiren, elinde tutan veya her ne şekilde olursa olsun bu malı kullanan veya tasarrufunda bulunduran gerçek veya tüzel kişileri,
+ç) İhale: Kanunda ve bu Yönetmelikte yazılı usul ve şartlarla, işin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve yetkili mercilerin onayı ile tamamlanan sözleşmeden önceki işlemleri,
+d) İhale komisyonu: Bu Yönetmelikte belirtilen ihale ile ilgili işleri yürütmek üzere ihale yetkilisi tarafından seçilen üyelerden oluşan komisyonu,
+e) İrtifak hakkı: Bir taşınmaz üzerinde yararlanmaya ve kullanıma rıza göstermeyi veya mülkiyete ilişkin bazı hakların kullanılmasından vazgeçmeyi kapsayan ve diğer bir taşınmaz veya kişi lehine aynî hak olarak kurulan yükümlülüğü,
+f) İstekli: Taşınmaz satışı, kiralaması ve irtifak hakkı tesisi işlerinin ihalesine teklif veren gerçek veya tüzel kişileri,
+g) Kanun: 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununu,
+ğ) Kiraya verme: Üniversite taşınmazlarının ve bunlarla ilgili hakların kiraya verilmesini,
+h) Müşteri: Üzerine ihale yapılan ve sözleşeme imzalanan istekli veya isteklileri,
+ı) Ön izin: İrtifak hakkı kurulmadan önce; tescil, ifraz, tevhit, terk gibi işlemlerin yapılması veya imar planının yaptırılması, değiştirilmesi ya da uygulama projelerinin hazırlanması ve onaylatılması gibi işlemlerin yerine getirilebilmesi için Üniversitece verilen izni,
+i) Rektör: Hacettepe Üniversitesi Rektörünü,
+j) Satış: Taşınmaz satışını,
+k) Sözleşme: Üniversite ile müşteri arasında yapılan ve ihale yetkilisince imzalanan yazılı anlaşmayı,
+l) Şartname: Yapılacak işlerin genel, özel, teknik ve idarî usul ve esaslarını gösteren belge veya belgeleri,
+m) Tahmin edilen bedel: İhale konusu olan işlerin tahmin edilen bedelini,
+n) Taşınmaz: Tapuda Hacettepe Üniversitesi adına kayıtlı bulunan taşınmazları,
+o) Taşınmaz geliştirme: Üniversitenin mülkiyetinde bulunan taşınmazların Üniversitenin uzun vadeli plan ve hizmet gereklerine uygun hale getirilmesi amacıyla; satışı, kadastro ve imar işlemleri, tevhidi, ifrazı, projelendirmesi, inşaat yapımı, ruhsat işleri, kullanım amacının düzenlenmesi, işletilmesi ve benzeri hususlarda gerekli işlemlerin yapılmasını,
+ö) Taşınmazın değerlendirilmesi: Taşınmazın satış, kiraya verme ve irtifak hakkı tesisi ve benzeri yollarla değerlendirilmesini,
+p) Taşınmazın değerlemesi: Üniversite taşınmazının, taşınmaza bağlı hakların, sorumlulukların ve kısıtlılıkların ya da bir taşınmaz projesinin değerleme günündeki tanımlı değerinin objektif ölçülere dayanarak belirlenmesini,
+r) Üniversite: Hacettepe Üniversitesini,
+s) Uygun bedel: Tahmin edilen bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğini,
+ş) Yönetim Kurulu: Hacettepe Üniversitesi Yönetim Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+İlkeler, Tapu İşlemlerinde Yetki, İhale Yetkilisi,
