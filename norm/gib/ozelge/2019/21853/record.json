@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[37-2018/569]-788601",
+  "source_id": 21853,
+  "date": "2019-09-24",
+  "title": "Motosiklet ile mobil uygulaması kapsamında yolcu taşımacılığı faaliyetinden dolayı basit usul mükellefiyetinin tesis edilip edilmeyeceği ve NACE kodu tanımlanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21853",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "be9cc004f86c7cd19f58124ca51d47d16f73f72b30d247d3c9d054e9497bdf03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
