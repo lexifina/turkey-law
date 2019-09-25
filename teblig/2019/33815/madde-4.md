@@ -1,0 +1,3 @@
+Dağıtım
+MADDE 4 – (1) Talep edilen toplam tarife kontenjanı miktarının, açılmış olan tarife kontenjanı miktarı ile eşit veya bu miktardan daha az olması durumunda taleplerin tam olarak karşılanması esastır. İthalatta Kota ve Tarife Kontenjanı İdaresine İlişkin Tebliğ (Tebliğ No: 2019/4) kapsamında kontenjan tahsisi yapılan firmalara, tahsis konusu ürün için ikinci bir tahsis yapılmaz.
+(2) Talep edilen toplam tarife kontenjanı miktarının açılan tarife kontenjanı miktarından daha fazla olması durumunda ise dağıtım; geçerli başvuru sayısı, toplam talep miktarı, üretim faaliyeti, üretim miktarı, üretim kapasitesi, tüketim kapasitesi, toplam ithalat miktarı kriterlerinden bir veya birkaçı dikkate alınmak suretiyle gerçekleştirilir.

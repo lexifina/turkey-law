@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 18/4/2019 tarihli ve 1002 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Bazı Tekstil Ürünleri İthalatında Tarife Kontenjanı Uygulanması Hakkında Karar uyarınca, bu Tebliğin 3 üncü maddesinde yer alan tabloda Gümrük Tarife İstatistik Pozisyonu (G.T.İ.P) ve tanımları gösterilen eşyanın ithalatında açılan tarife kontenjanlarının dağıtım yöntemi ile başvuru ve kullanım usul ve esaslarını düzenlemektir.
