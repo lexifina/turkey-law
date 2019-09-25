@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.12013",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İSTİKLÂL MARŞI’NIN KABUL EDİLDİĞİ GÜNÜ VE MEHMET ÂKİF ERSOY’U ANMA GÜNÜ HAKKINDA YÖNETMELİK",
+  "number": "12013",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12013",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12013&MevzuatTertip=5",
+  "source_sha256": "3937c616f19dc74c5ab53a75210c8d8a481bc223e741f6bda47282492c599391",
+  "source_bytes": 28576,
+  "published": "2008-03-07",
+  "gazette": "26809",
+  "in_force": "2019-09-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/9/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-09-25",
+      "RG-25/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-25",
+      "25/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
