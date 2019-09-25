@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46646",
+  "decision_date": "2019-09-25",
+  "source_id": 19682,
+  "chamber": "5",
+  "file_number": "44278",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19682/",
+  "source_sha256": "68d2022eae7332ebc82aa0e6937662efae1fe23dae472e59b76be3fbf9c22911",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
