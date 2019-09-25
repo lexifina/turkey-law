@@ -1,0 +1,3 @@
+Diğer parametreler
+MADDE 7 – (1) Yüzme suyu profili makro alg veya deniz fitoplanktonu çoğalması eğilimi gösterdiğinde, il sağlık müdürlüğü tarafından sağlık riskine yönelik gerekli inceleme yapılır, gerekli tedbirlerin alınması için ilgili idarenin taşra teşkilatı ile ilgili belediye ve il özel idaresi bilgilendirilir ve maruziyetin önlenmesi için toplumun bilgilendirilmesi de sağlanır.
+(2) Yüzme suları, katranlı kalıntılar, cam, plastik, kauçuk veya diğer atıkların oluşturduğu fiziksel kirlilik açısından il sağlık müdürlüğü tarafından görsel olarak incelenir. Böyle bir kirlilik saptandığında kirliliğin önlenmesi için yeterli tedbirler ilgili idare tarafından alınır ve gerektiğinde toplumun bilgilendirilmesi sağlanır.

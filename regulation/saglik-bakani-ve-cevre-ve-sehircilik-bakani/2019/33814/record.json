@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33814",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜZME SUYU KALİTESİNİN YÖNETİMİNE DAİR YÖNETMELİK",
+  "number": "33814",
+  "issuer": "Sağlık Bakanı ve Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "saglik-bakani-ve-cevre-ve-sehircilik-bakani",
+  "path": "regulation/saglik-bakani-ve-cevre-ve-sehircilik-bakani/2019/33814",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33814&MevzuatTertip=5",
+  "source_sha256": "70e4bf4154a0518ad27b26520b8ec7c082be6369c7acfdcaa62750bbea5bfadc",
+  "source_bytes": 56759,
+  "published": "2019-09-25",
+  "gazette": "30899",
+  "in_force": "2019-09-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.09.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3291,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33814-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

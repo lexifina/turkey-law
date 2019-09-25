@@ -1,0 +1,6 @@
+Siyanobakteriyel tehlikeler
+MADDE 6 – (1) Yüzme suyu profiline göre siyanobakteri çoğalma potansiyelinin yüksek olarak değerlendirildiği yüzme alanlarında, sağlık risklerinin zamanında tanımlanması için il sağlık müdürlüğü tarafından Ek-6’da belirtilen esaslar doğrultusunda uygun izleme yapılır.
+(2) Siyanobakteri analizleri Sağlık Bakanlığı laboratuvarları ile Bakanlığın yetkilendirdiği kamu kurum ve kuruluşlarına ait laboratuvarlar ile üniversite laboratuvarlarında yaptırılır.
+(3) Siyanobakteri çoğalması meydana geldiğinde ve bir sağlık riski tanımlandığında ya da olacağı tahmin edildiğinde, il sağlık müdürlüğü maruziyetin derhal önlenmesi amacıyla toplumun bilgilendirilmesi de dâhil olmak üzere yeterli tedbirlerin alınması için ilgili idarenin taşra teşkilatını ve yerel idareleri bilgilendirir.
+(4) Yüzme suyu alanlarında siyanobakteri izleme sonuçları, Tarım ve Orman Bakanlığı, Çevre ve Şehircilik Bakanlığı başta olmak üzere ilgili diğer kurum ve kuruluşlar ile işbirliğinde değerlendirilir.
+(5) Yüzme alanlarında tespit edilen siyanobakteri çoğalma potansiyeli veya siyanobakteri kirliliği, sezon sonu toplantısında il yüzme suyu komisyonunca değerlendirilir, muhtemel riskler ve alınması gereken tedbirler belirlenir ve ilgili idarece gerekli tedbirler alınır.

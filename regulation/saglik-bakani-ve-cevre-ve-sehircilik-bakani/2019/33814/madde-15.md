@@ -1,0 +1,5 @@
+Yüzme alanı sorumlusu
+MADDE 15 – (1) Profile dayalı olarak yüzme suyu kontaminasyon risklerini yönetmek amacıyla uygun izlemeleri yapmak ve ilgili idarece alınması istenen tedbirleri uygulamak üzere her yüzme alanı için bir yüzme alanı sorumlusu yüzme alanı işleticisi tarafından bulundurulur.
+(2) Yüzme alanı sorumlusu, yüzme alanlarının etkin bir şekilde yönetilmesi, çevresel standartlarının yükseltilmesi ve yüzme suyu profillerinde belirlenen acil önlem ve tedbirlerin uygulanmasından sorumludur.
+(3) Yüzme alanı sorumlusu, bu Yönetmelikte belirtilen kalite standartlarının aşıldığı, yüzme alanlarının kirletildiği veya çevresel altyapı sorunlarının oluştuğu durumlarda ilgili idarelere derhal bilgi vermek, konu hakkında gerekli önlemleri almak ve halkın bu durumlar hakkında bilgilendirilmesini sağlamakla yükümlüdür.
+(4) Yüzme alanı sorumlusu, yüzme suyu kalitesine ilişkin bilgilerin yüzme alanında ilan edilmesi, yüzme alanının kapatılması ve açılmasına ilişkin kararların uygulanması, halkın bu kararlar hakkında bilgilendirilmesinin sağlanması ve halk sağlığının korunması için rutin izlemeler dışında yüzme suyu kalitesinin takip edilmesinden sorumludur.
