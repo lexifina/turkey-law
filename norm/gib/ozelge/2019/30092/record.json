@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-790031",
+  "source_id": 30092,
+  "date": "2019-09-25",
+  "title": "İnternet üzerinden yayın yapan yurt dışında mukim firmaya yapılan dizi satışında KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30092",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "b3de32920e9994d1551d3994746f2aa8ea658c098e1411ac783dc5563e126e22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
