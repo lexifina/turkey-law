@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8854",
+  "decision_date": "2019-09-26",
+  "title": "2020 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2019-10-01",
+  "resmi_gazete_number": "30905",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dsn1vWKX+7g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dsn1vWKX+7g="
+  ],
+  "source_sha256": "61bb32a016859b03f0eedf8942592da8f4713fdac6891cd9f67a8bc333fb5da7",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-09-26",
+  "law_text_complete": true
+}
