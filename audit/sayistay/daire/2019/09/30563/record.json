@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35593",
+  "decision_date": "2019-09-26",
+  "source_id": 30563,
+  "chamber": "2",
+  "ilam_number": "411",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30563/",
+  "source_sha256": "103c220916cfedafd89d834e6a2960b11bb9d91240e213b4a0af355c6b304f73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
