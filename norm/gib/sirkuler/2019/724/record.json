@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-117 / 2019-7",
+  "source_id": 724,
+  "date": "2019-09-26",
+  "title": "İstanbul’da meydana gelen deprem nedeniyle, Muhtasar Beyannameler, Damga Vergisi Beyannameleri ve Katma Değer Vergisi Beyannamelerinin verilme süreleri ile bu beyannameler üzerine tahakkuk eden vergilerin ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/724",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "139bb4452299b5f48a995930872f1be87337a5cc038d00b805a6e216516d46cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
