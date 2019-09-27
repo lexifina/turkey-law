@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[Geç.67-19/1]-E.329549",
+  "source_id": 24000,
+  "date": "2019-09-27",
+  "title": "53 Sayılı Cumhurbaşkanı Kararı kapsamında uygulanacak tevkifat oranları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24000",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8663ced33f583fc391400bc280ec5c07e9032ff6b11c946eaafba8c6beecec0b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
