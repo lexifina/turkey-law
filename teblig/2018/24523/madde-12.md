@@ -1,0 +1,6 @@
+Gelirler
+MADDE 12 – (1) Kamu konutlarının satışından elde edilen gelirler;
+a) Genel bütçeli idarelerde ilgili idarenin merkez muhasebe birimi hesaplarına aktarılır ve özel gelir kaydedilir. Özel gelir kaydedilen bu tutar karşılığında idarenin yatırım bütçesine öncelikle personelinin konut ihtiyacını karşılamak amacıyla (Değişik ibare:RG-29/9/2019-30903) ödenek kaydı, Yılı Merkezi Yönetim Bütçe Kanununda ve Yılı Yatırım Programının Kabulü ve Uygulanmasına Dair Kararda yer alan hükümler çerçevesinde yürütülür.
+b) Özel bütçeli idarelerde muhasebe birimi hesaplarına aktarılır ve bütçelerine gelir olarak kaydedilir. İdareler bu gelirleri öncelikle personelinin konut ihtiyacını karşılamak amacıyla ilgili mevzuat hükümleri çerçevesinde ödenek eklemek suretiyle kullanır.
+c) Diğer kamu idarelerinde ise, kendi mevzuatına göre muhasebe birimi hesaplarına aktarılarak bütçelerine gelir olarak kaydedilir ve ilgili mevzuatına göre öncelikle personelinin konut ihtiyacını karşılamak amacıyla kullanılır.
+(2) Kamu konutlarının satış işlemleri sırasında yapılan masraflara esas olmak üzere, bu konutların satış bedelinin yüzde beşi genel bütçenin “lojman satış geliri” hesabına gelir olarak kaydedilir ve birinci fıkra kapsamında aktarılacak gelirlerden düşülür.
