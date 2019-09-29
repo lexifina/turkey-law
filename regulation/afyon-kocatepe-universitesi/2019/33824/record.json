@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-09-29",
+      "29.09.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30903",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-09-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2019/33824",
+  "published": "2019-09-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33824&MevzuatTertip=5",
+  "source_bytes": 27734,
+  "source_id": "8.5.33824",
+  "source_sha256": "00c48cf2b31bcc6ce9c1f91ad7c1170d38269f136b96b3249c661b6874f262d5",
+  "text_status": "as-enacted",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ KADIN VE AİLE ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 1233
+}
