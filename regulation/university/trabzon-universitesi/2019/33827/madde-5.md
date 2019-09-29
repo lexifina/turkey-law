@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı, Üniversitede üretilen bilginin paydaş, kamu kurumları, özel kuruluşlar ve topluma aktarılması ile ticarileştirilmesini sağlamak, Üniversite ve paydaşlar arasındaki iş birliği ve etkileşimi artırmak, proje desteklerine dair eğitimler vermek, danışmanlık hizmeti sunmak ve özellikle bölgesel düzeyde Ar-Ge ve inovasyona dayalı bir ekosistemin oluşmasına yönelik çalışmalar yürütmek, ulusal ve uluslararası fon kaynaklarından araştırmacıları, eğitimcileri, öğrencileri ve paydaş kuruluşları yararlandırmaya yönelik hizmetler sağlamak, fikri ve sınai mülkiyet haklarının yaygınlaştırılması, yönetilmesi ve ticarileştirilmesini sağlamak, öğrenci ve akademisyenlerin girişimcilik faaliyetlerini desteklemek, teşvik etmek, Merkez faaliyetlerini şehir ve bölgedeki aktörlerle paylaşıp yaygınlaştırarak ulusal kalkınmaya katkıda bulunmaktır.

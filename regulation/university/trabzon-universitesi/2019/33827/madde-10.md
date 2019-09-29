@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Ar-Ge’den sorumlu Rektör Yardımcısı, Bilimsel Araştırma Projeleri birimi koordinatörü, Yönetim Bilgi Sistemi Birimi koordinatörü ve Müdür ile Rektör tarafından Üniversitenin aylıklı ve tam zamanlı öğretim üyeleri arasından görevlendirilen beş üye olmak üzere toplam dokuz üyeden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler tekrar görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilir.
+(2) Yönetim Kurulu Başkanı, Ar-Ge’den sorumlu Rektör Yardımcısıdır. Yönetim Kurulu, Başkanın veya Müdürün daveti üzerine ayda en az bir kez salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
