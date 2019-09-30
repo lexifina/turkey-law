@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8864",
+  "decision_date": "2019-09-30",
+  "title": "01/10/2019 tarihinden itibaren geçerli elektrik tarife tabloları hakkında",
+  "resmi_gazete_date": "2019-10-01",
+  "resmi_gazete_number": "30905",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=srrqBpgOPxM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=srrqBpgOPxM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZQTpJnJZMp4="
+  ],
+  "source_sha256": "1c7a14e6f3805bf5847e3c3155df957b1ddc79e77fdc12f6581816e3bbbb2cb3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-09-30",
+  "law_text_complete": true
+}
