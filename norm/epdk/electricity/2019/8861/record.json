@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8861",
+  "decision_date": "2019-09-30",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 5 inci maddesinin üçüncü fıkrasında yer alan tüketim miktarına ilişkin",
+  "resmi_gazete_date": "2019-10-01",
+  "resmi_gazete_number": "30905",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iAAh5iXqoOo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iAAh5iXqoOo="
+  ],
+  "source_sha256": "7214e6d746cc246caa965791b36506b2382a2a1832ae9102fd95d2f75ad20750",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-09-30",
+  "law_text_complete": true
+}
