@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.01.03.01[738]-331549",
+  "source_id": 34354,
+  "date": "2019-09-30",
+  "title": "Kat Karşılığı ve Arsa Satışı Karşılığı Gelir Paylaşımında ihale kararı damga vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34354",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3d83d74eda8a408b88ebd6907eda9a2de856ae34f616f37f98c9a30e611467be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
