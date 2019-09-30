@@ -1,0 +1,29 @@
+{
+  "number": "64",
+  "number_as_published": "2019/64",
+  "year": 2019,
+  "month": 9,
+  "title": "İmar ve Şehircilik Müdürlüğünün teklifi üzerine yapılan görüşmeler sonucunda; Güzelyurt Mahallesi 377 ada, 2 nolu parsele ait Uygulama İmar Planı Değişikliği konusunun incelenerek bir rapora bağlanmak üzere; İmar ve Bayındırlık Komisyonuna havalesine oy çokluğu ile karar verildi.",
+  "decision_date": null,
+  "index_date": "2019-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2019",
+  "source": "https://www.haliliye.bel.tr/icerik/3520/39/eylul-2019",
+  "official_page": "https://www.haliliye.bel.tr/icerik/3520/39/eylul-2019",
+  "official_document": null,
+  "source_sha256": "ee67f658bce8b312e5f39be16bfa7b89e66baf1ecf5f3d574da702630ce0bc3c",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2019-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EYLÜL 2019",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
