@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "477",
+  "decision_date": "2019-09-30",
+  "title": "MEC.KAR. (MBB TEŞKİLAT ŞEMASI, yönetmelik ve ödenek aktarımı).doc",
+  "listed_as": "477 MEC.KAR. (MBB TEŞKİLAT ŞEMASI, yönetmelik ve ödenek aktarımı).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/477-meckar-mbb-teskilat-semasi-yonetmelik-ve-odenek-aktarimi-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/30-eylul-2019-meclis-kararlari",
+  "listing_sha256": "94ea837a793059f2c7605655120d4a9647c95217dec1b6b49399c33dfda6d2bc",
+  "meeting_title": "30 EYLÜL 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
