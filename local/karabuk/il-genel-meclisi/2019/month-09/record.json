@@ -1,0 +1,29 @@
+{
+  "number": "month-09",
+  "year": 2019,
+  "month": 9,
+  "title": "2019 Yılı Eylül Ayı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2019-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2019",
+  "source": "https://www.karabukozelidare.gov.tr/2019-yili-eylul-ayi-meclis-kararlari",
+  "official_page": "https://www.karabukozelidare.gov.tr/2019-yili-eylul-ayi-meclis-kararlari",
+  "official_document": "http://www.karabukozelidare.gov.tr/kurumlar/karabukozelidare.gov.tr/Meclis Kararları/2019/2019-Yili-Eylul-Ayi-Meclis-Kararlari.pdf",
+  "source_sha256": "344a755ffdeb4d547d9be202809b8ff392e9ded63df379b7f9cfda7989acced0",
+  "issuer": "Karabük İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2019 Yılı Eylül Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2019 Yılı Eylül Ayı Meclis Kararları"
+}
