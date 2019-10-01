@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/296",
+  "source_id": 6557,
+  "date": "2019-10-01",
+  "title": "“Bir operatör şirketinin, ilgili kişinin internet sitesi üzerinden yapmış olduğu başvurusunu kimlik teyidi yapamadığı gerekçesiyle reddetmesine ilişkin olarak Kurula yapılan başvuru” hakkında Kişisel Verileri Koruma Kurulunun 01/10/2019 Tarihli ve 2019/296 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6557/2019-296",
+  "source_sha256": "737333659ab30ee41b5c7b4ff1b652b3ff21caf91b7edc92c05d92771d6109c5",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
