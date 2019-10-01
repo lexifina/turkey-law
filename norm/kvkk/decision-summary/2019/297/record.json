@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/297",
+  "source_id": 6711,
+  "date": "2019-10-01",
+  "title": "“Veri sorumlusu tarafından ilgili kişiye gönderilen reklam amaçlı SMS’ler hakkında” Kişisel Verileri Koruma Kurulunun 01/10/2019 Tarihli ve 2019/297 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6711/2019-297",
+  "source_sha256": "9b7f752f6fcac8942a2a799b93efde4a87e20939de324f0f1c967136380ec878",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
