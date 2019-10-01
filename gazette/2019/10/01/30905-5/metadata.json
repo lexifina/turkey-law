@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-10-01",
+  "issue": "30905",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191001-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191001.htm",
+  "index_sha256": "86e0cb7f7a79e806dfd73ccff87a0c385694035e3f53a0a2bbeba6d2bb25fa5a",
+  "index_header": "1 Ekim 2019 ... 30905 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191001.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
