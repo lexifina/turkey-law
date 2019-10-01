@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "338",
+  "decision_date": "2019-10-01",
+  "source_id": 30425,
+  "chamber": "3",
+  "ilam_number": "344",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30425/",
+  "source_sha256": "e8a39b31d12bc5dbfcc647d8b61ef25d681a75769bd42bff94180af08838077f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
