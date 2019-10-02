@@ -1,0 +1,4 @@
+Merkez danışma kurulu
+MADDE 12 – (1) Merkez Danışma Kurulu; fakülte ve yüksekokul yönetim kurullarınca önerilen en az üç, en fazla beş öğretim üyesi veya öğretim görevlisi adaylar arasından Rektör tarafından belirlenen üç kişi ile Üniversite dışından konuyla ilgili çalışmaları ve deneyimi bulunan kişiler arasından Rektör tarafından belinlenen en az üç, en fazla altı kişiden oluşur. Merkez Danışma Kurulu üyelerinin görev süresi üç yıldır.
+(2) Üniversitenin öğretim üyesi veya öğretim görevlisi sayısı üçün altında olan birimleri Merkez Danışma Kurulu üyeliği için öneride bulunmaz. Ancak Rektör tarafından o birimden gerek görülürse bir öğretim üyesi veya öğretim görevlisi Merkez Danışma Kurulu üyesi olarak görevlendirilebilir.
+(3) Merkez Danışma Kurulu yılda en az iki kez veya gerektiğinde Merkez Müdürünün çağrısı üzerine olağanüstü toplanır.

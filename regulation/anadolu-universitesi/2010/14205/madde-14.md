@@ -1,0 +1,2 @@
+Merkez çalışma grupları ve görevleri
+MADDE 14 – (1) Merkez Yönetim Kurulu tarafından, Merkez amaçları doğrultusunda çalışmalar yapmak üzere gerekli görülen konularda Merkez çalışma grupları oluşturulur. Bu gruplar yapılacak çalışmanın niteliğine göre, Üniversite içindeki öğretim elemanlarından ve bu konuda uzmanlaşmış diğer kişilerden oluşturulabilir. Görev süreleri Merkez Yönetim Kurulunun kararı ile belirlenir. Görevi tamamlanan çalışma grubu, görevinin tamamlanmasından sonra ilgili raporu Merkez Müdürüne sunar.

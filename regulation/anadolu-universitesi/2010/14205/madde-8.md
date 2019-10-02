@@ -1,0 +1,4 @@
+Merkez müdürü ve yardımcısı
+MADDE 8 – (1) (Değişik:RG-2/10/2019-30906) Müdür, Üniversitenin kadın ve aile konusunda çalışmaları bulunan öğretim üyeleri arasından en az üç yıl için Rektör tarafından görevlendirilir. Müdürün altı aydan daha fazla süre ile görevi başında bulunmaması durumunda görevi sona erer. Süresi dolmadan görevinden ayrılan Müdürün yerine Rektör tarafından aynı usulle yeniden görevlendirme yapılır.
+(2) Merkez Müdürü, Merkezin çalışma kapasitesinin etkin bir şekilde kullanılmasından, çalışmaların düzenli bir şekilde yürütülmesinden, faaliyetlerin gözetim ve denetiminden Rektöre karşı sorumludur.
+(3) Merkez Müdürüne çalışmalarında yardımcı olmak üzere, Merkez Müdürünün Merkez Yönetim Kurulu üyeleri arasından önereceği bir üye, Rektör tarafından üç yıl için Merkez Müdür Yardımcısı olarak görevlendirilir. Merkez Müdür Yardımcısı, Merkez Müdürünün bulunmadığı zamanlarda Merkez Müdürüne vekâlet eder.
