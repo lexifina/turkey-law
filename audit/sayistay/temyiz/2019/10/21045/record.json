@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46692",
+  "decision_date": "2019-10-02",
+  "source_id": 21045,
+  "chamber": "7",
+  "file_number": "44691",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21045/",
+  "source_sha256": "3ae473d741ecff48960be3326b64c87edc45c74ed95dd4a0694997ddcf9fce8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
