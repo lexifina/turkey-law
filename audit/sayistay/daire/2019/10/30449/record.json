@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "339",
+  "decision_date": "2019-10-03",
+  "source_id": 30449,
+  "chamber": "3",
+  "ilam_number": "341",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30449/",
+  "source_sha256": "fba155dbf9f9c41c31a7d8753919512c6cd7549bfb597128532247005531f73e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
