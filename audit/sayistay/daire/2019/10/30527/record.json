@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "683",
+  "decision_date": "2019-10-03",
+  "source_id": 30527,
+  "chamber": "6",
+  "ilam_number": "5",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30527/",
+  "source_sha256": "0bdb296baf04f1fd9a1515eec4ae665a8d88b182c2c17e8bedce632893ff493f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
