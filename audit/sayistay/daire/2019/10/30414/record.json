@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "166",
+  "decision_date": "2019-10-03",
+  "source_id": 30414,
+  "chamber": "8",
+  "ilam_number": "387",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30414/",
+  "source_sha256": "e7817fbe9765307954d56322fc2a611831b8317149ade6830cfb9ee06d1e187f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
