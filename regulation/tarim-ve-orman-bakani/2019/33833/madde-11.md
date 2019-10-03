@@ -1,0 +1,13 @@
+DÖRDÜNCÜ BÖLÜM
+Etiketleme, Taşıma ve Depolama
+Etiketleme
+MADDE 11 – (1) Işınlama işletmeleri ışınlama işleminin yapıldığına dair belge düzenlemek zorundadır. Bu belgede 10 uncu maddenin birinci fıkrasındaki (a), (b), (c), (ç), (d), (e) ve (f) bentlerinde yer alan bilgiler bulunur. Bu bilgiler ışınlanmış gıdanın depolanması ve taşınması sırasında ürünün ambalajının üzerinde veya ticari belgelerde yer alır. Bu belge gıda ile birlikte ışınlamayı talep eden işletmeciye aktarılır.
+(2) Bu Yönetmelik kapsamında yer alan gıdaların etiketi 26/1/2017 tarihli ve 29960 mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinde yer alan hükümlere uygun olur. Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğine ilave olarak aşağıda belirtilen kurallara uyulur:
+a) Son tüketiciye veya toplu tüketim yerlerine arz edilecek olan;
+1) Hazır ambalajlı ışınlanmış gıdalarda “Işınlanmıştır” veya “Işınlama işlemi yapılmıştır” ifadesinin ve EK-3’te verilen yeşil renkli uluslararası gıda ışınlama sembolü “Radura”nın temel görüş alanında kolayca görülebilir şekilde etiket üzerinde,
+2) Hazır ambalajlı hale getirilmeksizin satılan ışınlanmış gıdalarda “Işınlanmıştır” veya “Işınlama işlemi yapılmıştır” ifadesinin ve EK-3’te verilen yeşil renkli uluslararası gıda ışınlama sembolü “Radura”nın etiket üzerinde veya eşlik eden ticari belgelerde
+bulunması zorunludur.
+b) Satış yapılan işletmede, tüketicinin talebi doğrultusunda paketlenerek satılan veya doğrudan satış için hazır ambalajlı hale getirilmiş ışınlanmış gıdaların satışı sırasında “Işınlanmıştır” veya “Işınlama işlemi yapılmıştır” ifadesinin satın alan kişinin görebileceği yerlerde bulundurulması veya gıda ile birlikte satın alan kişiye sunulması zorunludur.
+c) Son tüketiciye ve toplu tüketim yerlerine arz edilmeyen gıdalarda (a) bendinin (1) ve (2) numaralı alt bentleri uygulanır.
+ç) Gıda ışınlanmış bir bileşen içeriyorsa; gıdanın etiketinde yer alan bileşenler listesinde ışınlanmış bileşenden sonra gelmek üzere “Işınlanmıştır” veya “Işınlama işlemi yapılmıştır” ifadesi yer alır.
+d) Gıda, ışınlanmış bir bileşik bileşen içeriyorsa Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinin EK-4 Bölüm 5’inde yer alan bileşik bileşenlerin içeriğinin yazılması zorunluluğuna tanınan istisnalar uygulanmaz. Bu bileşik bileşenin son üründe %2’den daha az olması durumunda bile ışınlanmış bileşenin varlığını vurgulamak üzere bileşen listesinde ışınlanmış bileşenden sonra gelmek üzere “Işınlanmıştır” veya “Işınlama işlemi yapılmıştır” ifadesi belirtilmelidir.

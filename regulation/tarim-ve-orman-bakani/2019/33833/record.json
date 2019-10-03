@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33833",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GIDA IŞINLAMA YÖNETMELİĞİ",
+  "number": "33833",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2019/33833",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33833&MevzuatTertip=5",
+  "source_sha256": "f200713d83b589833d0ec2b8285c59fc8933e9ffabf3ec18e0cb21c1cbd2fed1",
+  "source_bytes": 39306,
+  "published": "2019-10-03",
+  "gazette": "30907",
+  "in_force": "2019-10-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1862,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33833-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
