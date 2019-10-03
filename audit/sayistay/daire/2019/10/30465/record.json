@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "165",
+  "decision_date": "2019-10-03",
+  "source_id": 30465,
+  "chamber": "8",
+  "ilam_number": "339",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30465/",
+  "source_sha256": "158a967593c27f0ae38794f1dba48a5b5a2a5082099f70d4f3eefb0172bb037b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
