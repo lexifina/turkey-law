@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "164",
+  "decision_date": "2019-10-03",
+  "source_id": 30496,
+  "chamber": "8",
+  "ilam_number": "340",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30496/",
+  "source_sha256": "d2870c738354b28d9d3ef007b890d8fe719cd336012c13a199c98ce740823347",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
