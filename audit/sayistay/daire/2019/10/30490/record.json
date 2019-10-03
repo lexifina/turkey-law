@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "163",
+  "decision_date": "2019-10-03",
+  "source_id": 30490,
+  "chamber": "8",
+  "ilam_number": "392",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30490/",
+  "source_sha256": "bc97dd5cc0e31edc65b3d19928d140aff40857a2cd2ba0afae3541a20eebb22e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
