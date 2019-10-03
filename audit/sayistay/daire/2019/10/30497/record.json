@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "164",
+  "decision_date": "2019-10-03",
+  "source_id": 30497,
+  "chamber": "8",
+  "ilam_number": "340",
+  "item_number": 5,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30497/",
+  "source_sha256": "2a146d9918e837483094dd5eb5c304076a2c6789b6fc0974c505ffe6d6950dbd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
