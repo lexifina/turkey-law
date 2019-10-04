@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/20038",
+  "submitted": "2019-10-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Necati TIĞLI",
+  "province": "Giresun",
+  "summary": "Giresun Kızılkaya mevkiinde ETİ Bakır A.Ş. tarafından işletilecek maden sahasının çevresel etkilerine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-fd15-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "f395886e166b89ad29db9a7620fb0d7375feb553a934e6b6ab5facfa6946f885",
+  "in_force": "2019-10-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
