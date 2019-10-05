@@ -1,0 +1,2 @@
+Diğer birimlerce yapılacak basımlar
+MADDE 43- (1) Diğer birimlerce bütçeden yapılacak harcama ile bastırılacak olan Bütçe Kanunu, stratejik plan, faaliyet raporu, eylem planı, kesin hesap cetveli, çalışma programı, istatistiki bilgiler kitapçığı, afiş, "Hizmete Özel" diğer eserler ve Başkanlık hizmetlerinin gereği olarak hazırlanan idari ve teknik yazılar ile diğer matbu evrak, bu Yönetmelik hükümlerine tabi değildir.

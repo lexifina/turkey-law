@@ -1,0 +1,3 @@
+Program izleme ve kontrol
+MADDE 24- (1) Radyo ve televizyon yayınlarını inceleme komisyonunun denetiminden geçmiş ve yayınlanabilir onayı almış radyo ve televizyon programları, yayına girmeden önce Radyo ve Televizyon Daire Başkanının teklifi ve Genel Müdürün onayı ile görevlendirilen personel tarafından 15 inci maddede belirlenen kriterler doğrultusunda son kez gözden geçirilerek; yayınlanmak üzere ilgilisine, yayınlanmasını uygun görmediği yayınları ise gerekçelerini de belirtmek suretiyle ilgili daire başkanına gönderir.
+(2) Canlı yayınlar ile Başkanlık ve diğer kamu kurum ve kuruluşlarınca televizyon ve radyolarda yayınlanmak üzere hazırlanacak sinevizyon, spot ve benzeri faaliyetler bu Yönetmelik hükümlerine tabi değildir.
