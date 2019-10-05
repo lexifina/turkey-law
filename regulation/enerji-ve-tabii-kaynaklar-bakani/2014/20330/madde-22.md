@@ -1,0 +1,3 @@
+Kurum dışından yapılacak atamalar
+MADDE 22 – (1) Diğer kamu kurum ve kuruluşlarında görevli personel ile görevinden herhangi bir nedenle ayrılmış bulunan personelin bu Yönetmelik kapsamındaki aynı unvana veya aynı alt grupta yer alan diğer unvanlara veya daha alt düzeydeki unvanlara genel hükümlere göre atamaları yapılabilir.
+(2) (Ek:RG-4/10/2017-30200) Diğer personel kanunlarına tabi olanların 657 sayılı Devlet Memurları Kanununa tabi görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın olmaması halinde öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan ve Devlet Personel Başkanlığının olumlu görüşü dikkate alınır.

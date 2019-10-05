@@ -1,0 +1,3 @@
+Sınav sonuçlarına itiraz
+MADDE 15 – (1) Sınav sonuçlarına, sınav sonuçlarının açıklandığı tarihten itibaren en geç beş iş günü içinde itiraz edilebilir. Bu itirazlar en geç on iş günü içinde incelenerek karara bağlanır. İtiraz sonuçları, (Değişik ibare:RG-5/10/2019-30909) Yönetim Hizmetleri Genel Müdürlüğü tarafından itiraz sahiplerine tebliğ edilir.
+(2) (Değişik ibare:RG-4/10/2017-30200) Yapılan yazılı sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun tespit edilmesi hâlinde sınav iptal edilir ve en kısa sürede yeniden sınav yapılır.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu, (Değişik ibare:RG-5/10/2019-30909) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi ile 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin 15 inci maddesi hükümlerine dayanılarak hazırlanmıştır.

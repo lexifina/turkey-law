@@ -1,0 +1,6 @@
+Sınav kurulu
+MADDE 17 – (1) (Değişik:RG-4/10/2017-30200) Sınav kurulu; Bakan tarafından biri başkan olmak üzere, en az biri (Değişik ibare:RG-5/10/2019-30909) Yönetim Hizmetleri Genel Müdürlüğü temsilcisi toplam beş üyeden oluşturulur. Aynı usulle yedek üyeler de belirlenir. İhtiyaç duyulması halinde Bakanlık dışından kamu görevlileri arasından kurula üye veya üyeler görevlendirilebilir. Gerek duyulması halinde sözlü sınav için de aynı usulle birden fazla kurul oluşturulabilir.
+(2) Kurul, başkan ve üyelerin tamamının katılımı ile toplanır ve kararlar oy çokluğu ile alınır. Çekimser oy kullanılamaz. Asıl üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(3) Sınav kurulunun başkan ve üyeleri eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının katıldıkları, görevde yükselme ve unvan değişikliği sınavında görev alamazlar.
+(4) Sınav kurulunu teşkil eden üyeler, görevde yükselme ve unvan değişikliği sınavına alınacak personelden, lisansüstü öğrenim hariç öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar.
+(5) Sınav Kurulunun sekretarya hizmetleri (Değişik ibare:RG-5/10/2019-30909) Yönetim Hizmetleri Genel Müdürlüğü tarafından yürütülür.
