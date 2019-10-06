@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu, Üniversitede kadın ve aile çalışmaları alanında ders veren veya bu alanda akademik çalışma yapan ya da yapmak isteyen öğretim elemanları ile bünyelerinde kadın ve aile çalışmaları merkezi bulunan diğer üniversitelerden ve kadın ve aile araştırmaları alanında çalışmalar yürütülen sivil toplum kuruluşları temsilcileri arasından Yönetim Kurulu tarafından önerilen ve Rektör tarafından iki yıl için görevlendirilen en az yedi en fazla on üyeden oluşur.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda bir kez üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
+(3) Danışma Kurulunun görevi, Merkezin faaliyet alanına giren tüm konularda görüş bildirmek ve bu Yönetmelikte belirtilen diğer görevleri yerine getirmektir.
