@@ -1,0 +1,22 @@
+{
+  "number": "80",
+  "number_as_published": "2019/080",
+  "year": 2019,
+  "title": "07.10.2019 tarihli ve 2019/080 sayılı karar",
+  "decision_date": "2019-10-07",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=47",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07102019-tarihli-ve-2019080-sayili-karar",
+  "source_sha256": "eff6b60c4fc13bbed8992ca56be2f977a0fbef0917c54c075b0757f6594a918f",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.10.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/07102019-tarihli-ve-2019080-sayili-karar"
+}
