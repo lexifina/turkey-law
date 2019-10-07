@@ -1,0 +1,2 @@
+Müdür yardımcısı
+MADDE 9 – (1) Müdür, kendisine verilen görevlerin yürütülmesinde yardımcı olmak üzere bir Üniversite öğretim elemanını müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Herhangi bir nedenle boşalan müdür yardımcılığı için aynı usulle yeniden görevlendirme yapılır. Müdürün görev süresinin dolması veya herhangi bir nedenle görevinden ayrılması durumunda müdür yardımcısının da görevi sona erer.
