@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 14 – (1) Danışma Kurulu en fazla 15 üyeden oluşur. Danışma Kurulu Merkezin faaliyet alanı ile ilgili çalışmalarda bulunan uzman kişiler ile Merkezin gelişimi açısından katkı yapabilecek kişiler arasından üç yıl süre için Yönetim Kurulunun önerisiyle Rektör tarafından belirlenir. Danışma Kurulunda yer alacak üyeler bilim, sanat, iş, siyaset, medya ve benzeri alanlardan tercih edilir.

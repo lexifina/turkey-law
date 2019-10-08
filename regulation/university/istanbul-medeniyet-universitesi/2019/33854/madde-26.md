@@ -1,0 +1,2 @@
+İş birlikleri
+MADDE 26 – (1) Hizmet ve faaliyet mekânları, eğitim ve faaliyetlerin planlanması, yürütülmesi, eğitimci temini, mali destek sağlanması ve Merkezin gelişimi gibi konularda; yerel yönetimler, sivil toplum kuruluşları, özel sektör, kamu kurum ve kuruluşları, vakıflar ve benzeri ile iş birlikleri gerçekleştirilebilir. Bu kuruluşlar ile gerçekleştirilecek iş birliklerinin sağlıklı bir şekilde yürütülmesi için çalışma ve görevlendirme usul ve esasları bir protokolle belirlenir.
