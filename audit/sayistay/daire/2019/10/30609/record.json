@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10759",
+  "decision_date": "2019-10-08",
+  "source_id": 30609,
+  "chamber": "1",
+  "ilam_number": "10",
+  "item_number": 23,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30609/",
+  "source_sha256": "85930e13ec212c99d02a75a1ac596cc79628bce897110170bc9c8627566cf661",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
