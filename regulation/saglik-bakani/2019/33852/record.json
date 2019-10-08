@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33852",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YANIK TEDAVİ BİRİMLERİ HAKKINDA YÖNETMELİK",
+  "number": "33852",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2019/33852",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33852&MevzuatTertip=5",
+  "source_sha256": "03b7f017fb92e95d64f14393a88d2649f13776f2eab7dd623a249b588a508fef",
+  "source_bytes": 56204,
+  "published": "2019-10-08",
+  "gazette": "30912",
+  "in_force": "2019-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3439,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33852-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

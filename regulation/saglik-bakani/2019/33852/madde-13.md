@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Komisyon ve Yanık Tedavi Birimlerinin Kurulması ile Faaliyet İzni
+Komisyonun kurulması
+MADDE 13 – (1) Yanık tedavi birimlerini planlanmak, başvuruları dosya bazında veya gerektiğinde yerinde incelemek, mevcutların bu Yönetmelik esaslarına uygunluğunu değerlendirmek, eğitim merkezlerini belirlemek, yapılacak eğitimleri ve müfredatını planlanmak, bu birimlerin faaliyet ve hizmetleri ile ilgili şikâyetleri incelemek ve yanık tedavisi konusunda tıbbi teknolojik gelişmeleri takip ederek hizmetin iyileştirilmesi konusunda tavsiyelerde bulunmak üzere, Genel Müdürlük bünyesinde, Bakanlık onayı ile Yanık Tedavisi Bilim Komisyonu oluşturulur.
+(2) Komisyon, Genel Müdürlüğün yazılı daveti üzerine Genel Müdür veya görevlendireceği Genel Müdür Yardımcısının başkanlığında, yanık merkezi sorumlusu uzman tabipler arasından Genel Müdürlüğün görevlendireceği altı üye olmak üzere toplam yedi üyeden oluşur. Görevlendirilen üyelerin görev süresi iki yıldır. Görev süresi dolan üye, tekrar görevlendirilebilir.
+(3) Komisyon, en az beş üyenin katılımı ile toplanır ve salt çoğunluk ile karar alır. Oylarda eşitlik olması halinde, başkanın oyu yönünde çoğunluk sağlanmış sayılır. Komisyon kararları tutanak altına alınır. Komisyonun sekretaryası Genel Müdürlükçe yürütülür. Komisyonun tüm kararları tavsiye niteliğindedir.
