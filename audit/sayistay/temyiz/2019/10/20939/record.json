@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46706",
+  "decision_date": "2019-10-09",
+  "source_id": 20939,
+  "chamber": "6",
+  "file_number": "44974",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20939/",
+  "source_sha256": "f369e40daadbdf4af9f6198f09a38b436852dda4d00023ee7ef64e0d56b30b2b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
