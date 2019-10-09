@@ -1,0 +1,6 @@
+İş sözleşmesinin sona ermesi
+MADDE 35 – (1) Personelin sözleşmesi aşağıdaki hallerde sona erer:
+a) Sözleşmeler; bu Yönetmelik ile sözleşme hükümlerine aykırı davranışların tespit edilmesi, istihdam edilme şartlarından herhangi birinin taşınmadığının sonradan anlaşılması veya sonradan bu şartlardan birinin kaybedilmesi, görev ya da görev yerinin değişmesi halinde belirlenen süre içinde mücbir sebep olmaksızın yeni göreve başlanmaması, Devlet memurluğundan çıkarılmayı gerektiren fiil veya hallerin işlenmesi, emeklilik ve ölüm hallerinde sona erer.
+b) Başkanlık, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri çerçevesinde gerekçe göstermek suretiyle sözleşmeyi tek taraflı olarak feshedebilir.
+c) Başkanlık veya personel, 4857 sayılı Kanunda belirtilen ihbar sürelerine uymak şartıyla sözleşmeyi feshedebilir.
+ç) Başkanlıkça sözleşmenin feshini gerektiren sebepler, personele yazılı olarak bildirilir ve yedi gün içerisinde yazılı savunmasını Başkanlığa iletmesi istenir. Yedi gün içerisinde yazılı savunmanın iletilmemesi veya haklı bulunmaması halinde fesih bildirimi, personelin disiplin amirinin teklifi, varsa üst disiplin amiri ile Başkanın uygun görüşü ve Bakan onayı alınmak suretiyle yazılı olarak ve fesih sebebi açık ve kesin bir şekilde belirtilerek yapılır.

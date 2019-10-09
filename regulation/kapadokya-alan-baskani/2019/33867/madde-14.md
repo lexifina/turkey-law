@@ -1,0 +1,6 @@
+Giriş sınavı puanının ve başarı sıralamasının tespit edilmesi
+MADDE 14 – (1) Giriş sınavının yazılı ve sözlü sınav şeklinde yapılması halinde sınav komisyonu, yazılı ve sözlü sınav notlarının aritmetik ortalamasını esas alarak başarı puanı en yüksek olan adaydan başlamak suretiyle başarılı olanların listesini belirler.
+(2) Giriş sınavının sadece sözlü sınav şeklinde yapılması halinde sınav komisyonu tarafından sınavdan 100 üzerinden 70 ve üzeri puan alan adaylardan; en yüksek puan alan adaydan başlamak üzere başarılı olanların listesi belirlenir.
+(3) Sınav komisyonu ayrıca, giriş sınavı ilanında belirtilen kadro sayısının en fazla dörtte biri oranında yedek aday belirler. Başarı sırasına göre oluşturulan yedek listede yer alan adayların hakları ilan tarihini takip eden altı ay geçerli olup daha sonraki sınavlar için müktesep hak veya herhangi bir öncelik hakkı teşkil etmez.
+(4) Sınav komisyonunun belirlediği sınav sonuçları Bakanlığın internet sitesinde ilan edilir.
+(5) Sınav sonuçlarının ilan edilmesinden itibaren yedi gün içinde yazılı olarak sınav komisyonuna itiraz edilebilir. İtirazlar, sınav komisyonunca en fazla yedi gün içinde incelenerek karara bağlanır. İtiraz sonucu, adaya yazılı olarak bildirilir.

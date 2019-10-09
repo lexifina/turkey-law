@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33867",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAPADOKYA ALAN BAŞKANLIĞI PERSONEL YÖNETMELİĞİ",
+  "number": "33867",
+  "issuer": "Kapadokya Alan Başkanı",
+  "issuer_slug": "kapadokya-alan-baskani",
+  "path": "regulation/kapadokya-alan-baskani/2019/33867",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33867&MevzuatTertip=5",
+  "source_sha256": "05caf6a802fc9b3731775d5e510ec1ce88d651bc40d78145d1f0771c9b01a430",
+  "source_bytes": 141512,
+  "published": "2019-10-09",
+  "gazette": "30913",
+  "in_force": "2019-10-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4498,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33867-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,4 @@
+Başvuru şekli ve yeri
+MADDE 11 – (1) Giriş sınavına başvuru; şahsen, elden veya posta yoluyla ilanda belirtilen adrese veya ilanda belirtildiği takdirde internet erişimi üzerinden başvuru formu kullanılarak yapılabilir.
+(2) Posta yoluyla yapılan başvurularda istenilen belgelerin son başvuru tarihinin mesai saati bitimine kadar Bakanlık Personel Dairesi Başkanlığı evrak birimine ulaşmış olması gerekir. Postadaki gecikme nedeniyle son başvuru tarihinden sonra Bakanlık Personel Dairesi Başkanlığı evrak birimine ulaşan başvurular ile ilanda belirtilen süre içerisinde yapılmayan başvurular işleme konmaz.
+(3) Başvurudan göreve başlamaya kadar tüm aşamalarda adaylara yapılacak bilgilendirme ve çağrılar, ilanda belirtilmesi halinde adayların başvuru sırasında bildirdikleri elektronik posta adreslerine ve Bakanlığın internet sayfasında duyuru yoluyla yapılabilir. Bu durumda ayrıca kâğıt ortamında herhangi bir yazışma yapılmaz.

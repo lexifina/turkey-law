@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik; 23/5/2019 tarihli ve 7174 sayılı Kapadokya Alanı Hakkında Kanunun 9 uncu maddesinin altıncı fıkrası, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 28 ve ek 31 inci maddeleri ve 1/6/2019 tarihli ve 30791 sayılı Resmî Gazete’de yayımlanan 38 sayılı Kapadokya Alan Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesinin 7 nci maddesine dayanılarak hazırlanmıştır.

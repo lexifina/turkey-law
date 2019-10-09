@@ -1,0 +1,8 @@
+Personelin işe başlaması
+MADDE 15 – (1) Personel, Bakanlıkça yaptırılacak güvenlik soruşturması olumlu sonuçlanmadan ve sözleşme imzalanmadan işe başlatılamaz. Giriş sınavı sonuç listesi Bakan tarafından onaylanmadan personel ile sözleşme imzalanamaz.
+(2) Sınavı kazananların sözleşme imzalayarak işe başlayabilmeleri için; sınav sonuçlarının Bakanlığın internet sitesindeki ilanında belirtilen süre içinde altı adet son altı ay içinde çekilmiş vesikalık fotoğraf, mal bildirim formu, adli sicil kaydı ve sağlık açısından görevini devamlı yapmasına engel bir durumu olmadığına ilişkin sağlık raporu ile birlikte Bakanlık Personel Dairesi Başkanlığına müracaat etmeleri gerekir.
+(3) İşe başlama işlemlerinin yapılması için kendilerine bildirilen süre içinde, geçerli bir mazereti olmadığı hâlde müracaat etmeyenlerin işe başlama işlemleri yapılmaz.
+(4) İstenilen belgeler, Bakanlık Personel Dairesi Başkanlığı tarafından incelenir. İnceleme sonunda noksanlıklar olduğu anlaşılırsa tamamlanması için on beş gün ek süre verilir. Bu süre sonunda belgelerini tamamlamayanlar veya getirdikleri belgelerden istihdama engel durumları olduğu anlaşılanlar işe başlatılmaz.
+(5) Giriş sınavında başarılı olan adaylardan yukarıdaki hükümler uyarınca işe başlamayan veya başlatılmayanların yerine yedek listedeki adaylara başarı sırasına göre yazılı olarak bildirim yapılır.
+(6) Giriş sınavını kazananlardan başvuru belgelerinde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılarak işe başlama işlemleri yapılmaz, yapılmış olanlar iptal edilir.
+(7) Sahte veya yanıltıcı bilgi veya belge verdiği sonradan anlaşılanların sözleşmeleri iptal edilir. Haklarında suç duyurusunda bulunulur.

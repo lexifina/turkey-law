@@ -1,0 +1,2 @@
+Özel uzmanlık gerektiren işlerde çalıştırılacak personel
+MADDE 45 – (1) Belli bir uzmanlık gerektiren iş ve hizmetler, ilgili başkan yardımcısının teklifi ve Başkanın uygun görüşü ile Bakan onayı alınarak 375 sayılı Kanun Hükmünde Kararnamenin ek 31 inci maddesine göre vekâlet veya istisna sözleşmesi çerçevesinde gördürülebilir. Bu şekilde çalıştırılacakların sözleşme konusu iş sahasında en az beş yıllık deneyim sahibi olduklarını belgelemeleri şarttır.

@@ -1,0 +1,4 @@
+Vekâlet
+MADDE 42 – (1) Başkan, başkan yardımcıları, grup başkanları veya 1. Hukuk Müşavirinin izin, hastalık, yurt içi ve yurt dışı görevlendirme veya diğer nedenlerle görevde bulunamadıkları sürelerde söz konusu görevler vekâleten yürütülür.
+(2) Başkana izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde bulunmadığı diğer hallerde öncelikle Teknik Başkan Yardımcısı, Teknik Başkan Yardımcısının görevde bulunmadığı hallerde İdari Başkan Yardımcısı, İdari Başkan Yardımcısının da görevde bulunmaması halinde ise Başkanın uygun gördüğü grup başkanı veya 1. Hukuk Müşaviri, Başkan veya başkan yardımcıları görevlerine dönünceye kadar Başkan Vekili sıfatıyla Başkanın yerine vekâlet eder.
+(3) Yerine vekâlet edilen göreve başladığı anda vekâlet işlemi kendiliğinden sona erer. Bütün vekâleten görevlendirmeler Başkanın onayına tabidir.
