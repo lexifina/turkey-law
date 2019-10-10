@@ -1,0 +1,26 @@
+{
+  "number": "meeting-10-10",
+  "number_as_published": "meeting-10-10",
+  "year": 2019,
+  "title": "EKİM AYI İL GENEL MECLİSİ KARARLARI",
+  "decision_date": "2019-10-10",
+  "source": "https://www.corumozelidare.gov.tr/ekim-ayi-il-genel-meclisi-kararlari",
+  "official_document": "https://www.corumozelidare.gov.tr/kurumlar/corumozelidare.gov.tr/Genel/PDF Dosyaları/İ.G.M. Kararları/10_Ekim-2019-Meclis-Kararlari.pdf",
+  "source_sha256": "49d579f5d0a96001e87e03346b420d7cfd671668b3a3e6e727303e03600e35d5",
+  "issuer": "Çorum İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-10-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 EKİM 2019 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "EKİM AYI İL GENEL MECLİSİ KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.corumozelidare.gov.tr/ekim-ayi-il-genel-meclisi-kararlari",
+  "item_title": "EKİM AYI İL GENEL MECLİSİ KARARLARI"
+}
