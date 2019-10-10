@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-10-10",
+      "10.10.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30914",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-10-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2019/33870",
+  "published": "2019-10-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33870&MevzuatTertip=5",
+  "source_bytes": 30182,
+  "source_id": "8.5.33870",
+  "source_sha256": "904a620e224ed53d2350dab36a6fde99b3c99da28dae5374b77fee92209b51bb",
+  "text_status": "as-enacted",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ KALKINMA ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ (KARMER) YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 1359
+}
