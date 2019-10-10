@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8884-2",
+  "decision_date": "2019-10-10",
+  "title": "8103-48 sayılı Kurul Kararı ile belirlenen YEK Listesi formatının yürürlükten kaldırılmasına",
+  "resmi_gazete_date": "2019-10-15",
+  "resmi_gazete_number": "30919",
+  "categories": [
+    "YEKDEM"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=niQkgnLBrMM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=niQkgnLBrMM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tqwGAZG6FNY="
+  ],
+  "source_sha256": "97c9e77e0e75c4b49a0ecb487d3db2d1da138effbf4473723df24a7447a9d55a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33882,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-10-10",
+  "law_text_complete": true
+}
