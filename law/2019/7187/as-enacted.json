@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7187",
+  "year": 2019,
+  "title": "Asya Verimlilik Teşkilatı Kuruluş Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-10-11",
+  "gazette_issue": "30915",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191011-1.htm",
+  "source_sha256": "f32b12396e2aa86b9b8f9443e20574a0708ad0f2536774e31c548e1648615092",
+  "text_sha256": "630466ad8fb32f83a7c7193dd58d2c863256c635d06de07322876e32fb203b57",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/10/11/30915-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191011-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
