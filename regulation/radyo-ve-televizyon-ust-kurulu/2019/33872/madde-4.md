@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Akşam kuşağı: 18:00-00:00 saat aralığında kalan zaman dilimini,
+b) Ana haber bülteni: Kamuoyunu bilgilendirmek amacıyla, güncel toplumsal, ekonomik, siyasal, kültürel ve benzeri olay, konu ve gelişmelerin, derlenerek, izleyici veya dinleyicilere, düzenli olarak 18:00-22:00 saat aralığında yayınlanan ve yayın süresi otuz dakikadan uzun olan haber bültenlerini,
+c) Ayrıntılı altyazı: Sağırların ve işitme engellilerin, programlardaki tüm işitsel unsurlara erişimini sağlamak için işitsel unsurların izleyicinin erişimine uygun şekilde yeniden düzenlenmesini gerektiren bir çeviri türünü,
+ç) Dizi filmler: Birden çok bölüm halinde yayınlanan, tavır, tutum, deyiş yönünden birbirine bağlı olan aynı konunun veya birbirini izleyen konular bütünlüğünün işlendiği drama program türünü,
+d) Engelli dostu program: Sağırların, görme ve işitme engellilerin yayın hizmetlerine erişebilmesi amacıyla hazırlanan, ayrıntılı altyazı, işaret dili ve sesli betimleme çeviri türlerinden en az biri ile yayınlanan programı,
+e) Görme engelli: Programların görsel unsurlarına kısmen veya tamamen erişimi olmayan bireyleri,
+f) Güncel piyasa ve döviz durum ekranı: Ekonomiye dair bilgilerin aktarıldığı, para ve sermaye piyasası işlemlerinin ve bu piyasalarda kullanılan araçların değişimlerinin sunulduğu kısa bilgi ekranını,
+g) Hafta: Pazartesi gününden pazar gününe kadar olan yedi günlük zaman dilimini,
+ğ) Hava ve yol durum ekranı: İzleyici kitlesinin bilgilenmesi ve önlem alması amacıyla hava sıcaklık tahminlerinin, rüzgâr hızı ve yönü, denizlerdeki sıcaklık ve nem oranı bilgilerinin verildiği; yol durumu ile ilgili alınan verilere göre çalışma yapılan ve kapatılan yolların bilgilerinin yer aldığı ekranı,
+h) İnternet ortamı: Haberleşme ile kişisel veya kurumsal bilgisayar sistemleri dışında kalan ve kamuya açık olan internet üzerinde oluşturulan ortamı,
+ı) İşaret dili: Duygu, düşünce, istek ve ihtiyaçların ifade edilmesi amacıyla el ve vücut hareketleri ile mimikler kullanılarak oluşturulan görsel dili,
+i) İşitme engelli: Programların işitsel unsurlarına kısmen veya tamamen erişimi olmayan bireyleri,
+j) Kamu spotları: Kamu kurum ve kuruluşları ile dernek ve vakıf gibi sivil toplum kuruluşlarınca hazırlanan veya hazırlatılan ve Üst Kurul tarafından yayınlanmasında kamu yararı olduğuna karar verilen bilgilendirici ve eğitici nitelikteki film ve sesler ile alt bantları,
+k) Koruyucu sembol: Yayın hizmetinin içeriği hakkında izleyicilerin bilgilendirilmesi amacıyla medya hizmet sağlayıcılar tarafından kullanılan ortak sembolleri,
+l) Medya hizmet sağlayıcı: Radyo, televizyon ve isteğe bağlı yayın hizmeti içeriğinin seçiminde editoryal sorumluluğu bulunan ve bu hizmetin düzenlenme ve yayınlanma biçimine karar veren tüzel kişiyi,
+m) Program: Bir medya hizmet sağlayıcı tarafından hazırlanan bir yayın akış çizelgesi veya katalog içinde yer alan bir dizi görsel ve/veya işitsel unsurun oluşturduğu tek bir bütünü,
+n) Program tanıtımı: Medya hizmet sağlayıcının, izlenmesini veya dinlenmesini teşvik etmek amacıyla kendi programlarının konusunu ve özelliklerini tanıtmak, yayın günü ve saatini duyurmak veya hatırlatmak üzere yaptığı yayın türünü,
+o) Sağır: İşitmeyen ve sağır toplumun kültürünü taşıyan, ana dil olarak işaret dilini kullanan ve dolayısıyla programların işitsel unsurlarına hiçbir erişimi olmayan bireyleri,
+ö) Seslendirme: Program içeriğinin görsel olarak yayınlanmasının yanında sesli olarak anlatılmasını,
+p) Sesli betimleme: Programlarda, diyaloglar haricindeki bölümleri dolduran bir dış sesin, olayın geçtiği mekânı, zamanı, karakterleri, sessiz gelişen olayları ve benzerini betimleyerek, görünüm ve duyguları anlatmasından oluşan bir çeviri türünü,
+r) Skor durum ekranı: Dünyada ve Türkiye’de yapılan spor müsabakalarının toplu sonuçlarının kısaca aktarıldığı bilgi ekranını,
+s) Üst Kurul: Radyo ve Televizyon Üst Kurulunu,
+ş) Yeşil perde veya mavi ekran: Yeşil perde veya mavi ekran (Green box/Blue screen) yöntemiyle iki görüntüyü birbirinin üzerine oturtma tekniğini,
+ifade eder.
+(2) Bu Yönetmelikte geçen ancak birinci fıkrada tanımlanmayan kavramlar ve kısaltmalar için ilgili mevzuatında yer alan tanımlar geçerlidir.

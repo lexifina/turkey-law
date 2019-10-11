@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33872",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞIRLARIN, İŞİTME VE GÖRME ENGELLİLERİN YAYIN HİZMETLERİNE ERİŞİMİNİN İYİLEŞTİRİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "33872",
+  "issuer": "Radyo ve Televizyon Üst Kurulu",
+  "issuer_slug": "radyo-ve-televizyon-ust-kurulu",
+  "path": "regulation/radyo-ve-televizyon-ust-kurulu/2019/33872",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33872&MevzuatTertip=5",
+  "source_sha256": "e23992e68bf9942f23341436afb3b440c630e83a26d759e059973361e085530c",
+  "source_bytes": 26906,
+  "published": "2019-10-11",
+  "gazette": "30915",
+  "in_force": "2019-10-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.10.2019)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1252,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33872-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
