@@ -1,0 +1,3 @@
+Kurumsal yönetim ilkelerine uyum derecelendirmesi
+MADDE 6 – (1) Kurumsal yönetim ilkelerine uyum derecelendirmesi, işletmelerin Kurulca yayımlanan Kurumsal Yönetim İlkelerine uyumlarının derecelendirme kuruluşları tarafından bağımsız, tarafsız ve adil olarak değerlendirilmesi ve sınıflandırılması faaliyetidir.
+(2) Kurumsal yönetim ilkelerine uyum derecelendirmesinde bir bütün olarak tüm ilkelere uyum ile pay sahipleri, kamuyu aydınlatma ve şeffaflık, menfaat sahipleri ve yönetim kurulu ana bölümleri itibarıyla ayrı ayrı olmak üzere, 1 ile 10 arasında not verilir. Bu değerler arasında kalan (iki haneye kadar) küsuratlı notlar, tama iblağ edilmeksizin kamuya açıklanır.

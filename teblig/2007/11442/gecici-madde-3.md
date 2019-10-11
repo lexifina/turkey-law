@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 3 – (1) Tebliğin yayımından önce Türkiye’de derecelendirme faaliyetinde bulunması Kurulca kabul edilen uluslararası derecelendirme kuruluşları ile Tebliğin yayımı tarihi itibariyle, Tebliğin 8 inci maddesinin birinci fıkrası kapsamında Kurula başvuruda bulunanlar, aynı maddenin üçüncü fıkrasına faaliyete geçmelerini takiben 1 yıl içinde uyum sağlamak zorundadırlar.

@@ -1,0 +1,3 @@
+Ahlaki davranış kuralları yönergesinin kamuya açıklanması ve piyasa katılımcıları ile iletişim
+MADDE 23 – (1) Derecelendirme kuruluşları ahlaki davranış kuralları yönergesinin bu Tebliğde tanımlandığı şekilde ve kapsama uygun olarak hazırlandığından emin olmak, hazırlanan ahlaki davranış kuralları yönergesini kamuya açıklamak ve bu kuralların uygulanmasını sağlamak zorundadırlar.
+(2) Derecelendirme kuruluşları, piyasa katılımcıları ve kamuyla olan ilişkileri yürütmek, gelen şikayetleri değerlendirmek, soru ve her türlü değerlendirmeleri dikkate alarak uygun politikaları belirlemek amaçlarıyla organizasyon yapıları içerisinde bir birim oluşturmak zorundadırlar.

@@ -1,0 +1,2 @@
+Kurulun gözetim ve denetimi
+MADDE 28 – (1) Bu Tebliğ kapsamındaki derecelendirme faaliyeti Kurulun gözetim ve denetimine tabidir. Kurul derecelendirme kuruluşlarından her türlü bilgi ve belgeyi isteyebilir. Derecelendirme kuruluşları, derecelendirme faaliyeti ile ilgili olarak hazırlanan raporlar ile bunların dayanağını teşkil eden çalışma belgelerini Kurulca istendiğinde ibraz edilmek üzere en az 10 yıl süreyle saklamak zorundadırlar.

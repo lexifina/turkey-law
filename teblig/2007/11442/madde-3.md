@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Ahlaki davranış kuralları yönergesi: Derecelendirme sürecinin bağımsızlığı ve tarafsızlığı ile mevzuata tam uyumu sağlamaya, muhtemel çıkar çatışmalarını önlemeye, bilgi gizliliğini korumaya ve her bir çalışanın derecelendirme sürecinde karşılaşabileceği sorunların çözümüne ilişkin ayrıntılı kuralları içeren yazılı bir rehberi,
+b) Borsa: Sermaye piyasası araçlarının işlem gördüğü borsalar ve teşkilatlanmış diğer piyasaları,
+c) Derecelendirme komitesi üyesi: Bu Tebliğin 10 uncu maddesinde belirtilen niteliklere sahip, derecelendirme uzmanları tarafından gerçekleştirilen inceleme ve analizleri değerlendirmek suretiyle derecelendirme notunu belirleyen gerçek kişileri,
+ç) Derecelendirme kuruluşu: Türkiye’de kurulan ve bu Tebliğ ile düzenlenen derecelendirme faaliyetinde bulunmak üzere Kurulca yetkilendirilen derecelendirme kuruluşları ile Tebliğin 8 inci maddesi uyarınca Türkiye’de derecelendirme faaliyetinde bulunması Kurulca kabul edilen uluslararası derecelendirme kuruluşlarını,
+d) Derecelendirme kuruluşu çalışanları: Derecelendirme uzmanları ve derecelendirme komitesi üyeleri ile derecelendirme kuruluşunun diğer çalışanlarını,
+e) Derecelendirme notu: Derecelendirme uzmanları tarafından yapılan inceleme ve analizlerin, derecelendirme komitesince değerlendirilmesi sonucunda işletme ve/veya borçluluğu temsil eden sermaye piyasası araçları için belirlenen notu,
+f) Derecelendirme uzmanı: Bu Tebliğin 10 uncu maddesinde belirtilen niteliklere sahip, işletmeye ilişkin gerekli finansal ve teknik analizleri yapmak suretiyle derecelendirme notuna esas incelemeyi gerçekleştiren kredi derecelendirme uzmanı ile kurumsal yönetim ilkelerine uyum derecelendirmesi faaliyetini yapmakla görevli kurumsal yönetim derecelendirme uzmanını,
+g) Derecelendirme uzmanlığı lisansı: Bu Tebliğ uyarınca kredi derecelendirmesi faaliyetini yapmakla görevli kredi derecelendirme uzmanı ile kurumsal yönetim ilkelerine uyum derecelendirmesi faaliyetini yapmakla görevli kurumsal yönetim derecelendirme uzmanı olabilmek için Kurulun sermaye piyasasında faaliyette bulunanlar için lisanslama ve sicil tutmaya ilişkin düzenlemeleri çerçevesinde yapılan sınavda başarılı olunması halinde, derecelendirme faaliyetine ilişkin olarak verilen mesleki yeterliliği gösterir belgeyi,
+ğ) İşletme: Ortaklıklar ve sermaye piyasası kurumlarını,
+h) (Değişik:RG-29/8/2013-28750) Kanun: 6362 sayılı Sermaye Piyasası Kanununu,
+ı) Kontrolör: Derecelendirme kuruluşu yönetim kurulu tarafından seçilen, derecelendirme kuruluşlarının ve çalışanlarının, kuruluşun derecelendirme metodolojisine, ahlaki davranış kuralları yönergesine ve iç düzenlemeler dahil mevzuat hükümlerine uygun davranıp davranmadıklarını denetlemekle ve denetim sonuçlarını yönetim kuruluna raporlamakla yetkilendirilen kişi ya da kişileri,
+i) Kurul: Sermaye Piyasası Kurulunu,
+j) Liste: Sermaye piyasasında derecelendirme faaliyeti ile yetkili kuruluşlar ile Kurulca kabul edilen uluslararası derecelendirme kuruluşları listesini,
+k) Müşteri: Derecelendirme yaptırmak üzere derecelendirme kuruluşu ile sözleşme imzalayan işletmeler ile talebe bağlı olmayan derecelendirme çalışmasına konu işletmeleri,
+l) Ortaklık: Kanunda tanımlanan halka açık anonim ortaklıklar ile hisse senedi dışındaki sermaye piyasası araçlarını halka arz eden ihraççıları,
+m) Sermaye piyasası araçları: Kanunda tanımlanan sermaye piyasası araçlarını,
+n) Sermaye piyasası kurumları: Kanunda tanımlanan sermaye piyasası kurumlarını,
+ifade eder.
