@@ -1,0 +1,3 @@
+Hizmet gereği atama
+MADDE 21/B – (Ek:RG-11/10/2019-30915)
+(1) Haklarında adli, idari, inzibati bir soruşturma yapılmış ve bu soruşturma sonucunda bulunduğu görev yerinde kalmalarında sakınca görülmüş olanların bulunduğu bölgedeki zorunlu çalışma süreleri tamamlanmadan hizmetin gereği olarak tayin dönemi gözetilmeksizin yer değiştirme suretiyle ataması yapılabilir. Bu durumda olanların ayrıldıkları hizmet bölgesindeki eksik hizmetleri başka bir hizmet alanında tamamlattırılır. Memurun görev yaptığı hizmet bölgesinde ihtiyaç bulunmaması halinde diğer hizmet bölgelerine de ataması yapılabilir. Bu şekilde ataması yapılan memurun ayrıldığı hizmet bölgesindeki eksik hizmetleri daha sonra tamamlattırılır.

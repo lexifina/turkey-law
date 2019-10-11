@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (Ek:RG-1/10/2017- 30197)
+(1) Genel Müdürlükçe 20/10/2014-24/10/2014 tarihleri arasında Antalya, Bolu ve İzmir illerinde yapılan uygulama sınavına girmeye hak kazanan adaylar bu Yönetmeliğin yayımı tarihinden itibaren üç ay içerisinde bu Yönetmelik hükümlerine göre yeniden uygulama sınavına tabi tutulurlar. Bunlar arasından başarılı olanların atamaları bu Yönetmelikte belirtilen usul ve esaslara göre yapılır.

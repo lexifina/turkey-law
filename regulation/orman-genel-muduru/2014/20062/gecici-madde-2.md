@@ -1,0 +1,2 @@
+Uygulama sınavına ilişkin geçiş hükmü
+GEÇİCİ MADDE 2 – (1) Genel Müdürlükçe 23/8/2013-25/8/2013 tarihleri arasında yapılan sözlü ve uygulamalı sınava girmeye hak kazanan adaylar bu Yönetmeliğin yayımı tarihinden itibaren üç ay içerisinde bu Yönetmelik hükümlerine göre yeniden uygulama sınavına tabi tutulurlar. Bunlar arasından başarılı olanların atamaları bu Yönetmelikte belirtilen usul ve esaslara göre yapılır.
