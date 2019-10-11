@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.12538",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇÜ VE ÖLÇÜ ALETLERİ TİP ONAY YÖNETMELİĞİ",
+  "number": "12538",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2008/12538",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12538&MevzuatTertip=5",
+  "source_sha256": "6539b2cc4cb49619eac14741ef8baaddbed81c58d9877ff90be1edc2f56f8367",
+  "source_bytes": 41178,
+  "published": "2008-10-17",
+  "gazette": "27027",
+  "in_force": "2019-10-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/10/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-10-11",
+      "RG-11/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-11",
+      "11/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-05-13",
+      "RG-13/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-05-13",
+      "13/5/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-25",
+      "RG-25/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-25",
+      "25/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-15",
+      "RG-15/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-15",
+      "15/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-01-17",
+      "R.G-17/1/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-01-17",
+      "17/1/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1570,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
