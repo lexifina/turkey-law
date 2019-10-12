@@ -1,0 +1,2 @@
+Hafta tatilinde gidiş gelişlerinin sağlanması
+MADDE 12 – (1) İşveren, işçilerin hafta tatili günlerinde orman işletme müdürlüğüne/ şefliğine gitmeleri ve hafta tatilinden sonraki gün orman işletme müdürlüğünden/şefliğinden çalıştıkları yere dönmeleri için gerekli ulaşım aracını sağlamakla yükümlüdür. Ulaşım aracının sağlanamaması halinde var ise toplu iş sözleşmesinin servis aracı ile ilgili hükümleri uygulanır.

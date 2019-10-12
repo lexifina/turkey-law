@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33880",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN YANGINLARIYLA MÜCADELE HİZMETLERİNDE GÖREVLİ İŞÇİ PERSONELİN ÇALIŞMA ESASLARI İLE İLGİLİ YÖNETMELİK",
+  "number": "33880",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2019/33880",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33880&MevzuatTertip=5",
+  "source_sha256": "3777bf6087c768a4d0a8d26c0a6432e542285b485cd39919a44375ad039928eb",
+  "source_bytes": 35176,
+  "published": "2019-10-12",
+  "gazette": "30916",
+  "in_force": "2019-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 807,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

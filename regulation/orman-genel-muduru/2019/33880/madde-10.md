@@ -1,0 +1,4 @@
+Fazla çalışma
+MADDE 10 – (1) Fazla çalışma, Kanunda yazılı koşullar çerçevesinde, haftalık 45 saati aşan çalışmalardır. 4857 sayılı Kanunun 63 üncü madde hükmüne göre denkleştirme esasının uygulandığı hallerde, işçinin haftalık ortalama çalışma süresi, normal haftalık iş süresini aşmamak koşulu ile, bazı haftalarda toplam 45 saati aşsa dahi bu çalışmalar fazla çalışma sayılmaz. Fazla çalışmaların günlük işe devam çizelgesi ile belgelenmesi zorunludur. Günlük işe devam çizelgesi orman muhafaza memuru tarafından düzenlenir ve orman işletme şefi tarafından onaylanır.
+(2) Bir çalışma dönemi içinde, izinli veya raporlu bulunmaları veya işe yeni başlamaları veya işten ayrılmaları nedeniyle tam olarak çalışamayan veya işyerindeki zorlayıcı nedenlerle tam olarak çalıştırılamayan işçilerin fazla çalışmaları, o dönem içinde çalıştıkları gün sayısına göre hesaplanır.
+(3) Bir yıl içinde yapılacak fazla çalışmaların toplamı 270 saati aşamaz.
