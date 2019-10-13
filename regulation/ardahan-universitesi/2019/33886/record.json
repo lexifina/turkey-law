@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-10-13",
+      "13.10.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30917",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-10-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2019/33886",
+  "published": "2019-10-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33886&MevzuatTertip=5",
+  "source_bytes": 54952,
+  "source_id": "8.5.33886",
+  "source_sha256": "9d0c06f2b0189e7f80ed459ebce7a19596850ec8f08ee7ab0bd48a48d83fb732",
+  "text_status": "as-enacted",
+  "title": "ARDAHAN ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 1280
+}
