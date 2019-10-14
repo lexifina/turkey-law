@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-10-14",
+      "14.10.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30918",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-10-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bartın Üniversitesi",
+  "issuer_slug": "bartin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bartin-universitesi/2019/33875",
+  "published": "2019-10-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33875&MevzuatTertip=5",
+  "source_bytes": 29886,
+  "source_id": "8.5.33875",
+  "source_sha256": "895bdf9a93e75772fea96892d664a7df00e569d9297a023e236cf13b1b5f0de5",
+  "text_status": "as-enacted",
+  "title": "BARTIN ÜNİVERSİTESİ ARKEOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 348,
+  "word_count": 1260
+}
