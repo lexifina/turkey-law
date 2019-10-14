@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "846",
+  "decision_date": "2019-10-14",
+  "official_id": "27321",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2019&ay=&gun=&txtSozcuk=&draw=1&start=300&length=100&txtKararNo=",
+  "source_listing_sha256": "03ec6dea10c95abf0a4804391f4aa44240df9d5a24e565bb0f2d8bcdbb62f40f",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
