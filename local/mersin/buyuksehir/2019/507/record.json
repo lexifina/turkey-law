@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "507",
+  "decision_date": "2019-10-14",
+  "title": "MEC.KAR. ( Yüksek Yapılar ).doc",
+  "listed_as": "507 MEC.KAR. ( Yüksek Yapılar ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/507-meckar--yuksek-yapilar-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-ekim-2019-meclis-kararlari",
+  "listing_sha256": "ff931ee994ce6e14a1a72e48ae5986252bf0627e22fe0aba81544299a90da25e",
+  "meeting_title": "14 EKİM 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
