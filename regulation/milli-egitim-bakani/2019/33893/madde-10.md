@@ -1,0 +1,3 @@
+Okul/Kurum kutlama kurulu
+MADDE 10 – (1) Okul/kurum kutlama kurulu; okul/kurum müdürünün başkanlığında bir müdür yardımcısı, öğretmenler kurulu tarafından seçilen bir öğretmen ile okul-aile birliği başkanından oluşur. Gerektiğinde okul müdürlüğünce kutlama kuruluna yeteri kadar öğretmen, veli ve öğrenci temsilcisi görevlendirilebilir.
+(2) Birleştirilmiş sınıflı okullar, birbirine yakın okullar, öğrenci/öğretmen sayısı az olan okullar; yakınlarındaki okullarla iş birliği yaparak kutlama kurulları oluşturup ortak kutlama programları tertip edebilirler. Bu durumda kutlama kurulu; en çok öğretmene sahip olan okulun müdürü başkanlığında her okulun müdürü, müdür yetkili öğretmeni ve her okuldan birer öğretmen, okulların okul-aile birliği başkanlarından oluşur.

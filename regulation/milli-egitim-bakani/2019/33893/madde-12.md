@@ -1,0 +1,2 @@
+İlçe kutlama kurulu
+MADDE 12 – (1) İlçe kutlama kurulu; kaymakamın başkanlığında ilçe millî eğitim müdürü, ilçe millî eğitim müdürlüğünde kutlamalardan sorumlu ilçe millî eğitim şube müdürü, öğretmenevi müdürü ve halk eğitimi merkezi müdürü ile ilçe millî eğitim müdürünün teklif edeceği ve kaymakamın uygun göreceği bir anaokulu, bir ilkokul, bir ortaokul ve bir orta dereceli okul müdüründen oluşur. Gerektiğinde kutlama kurulunda yeteri kadar okul yöneticisi ve öğretmen de görevlendirilebilir.

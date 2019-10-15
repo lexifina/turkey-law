@@ -1,0 +1,2 @@
+Kutlamalarda kullanılacak materyal
+MADDE 7 – (1) 24 Kasım gününü içine alan hafta boyunca, eğitim kurumlarında öğretmenlikle ilgili ders içi ve ders dışı faaliyetler yapılır. Kutlama günü eğitim kurumları, Türk Bayrağı, flamalar, afişler ve Atatürk resimleri ile donatılır. Başöğretmen Atatürk başta olmak üzere Türk ve dünya tarihinde eğitim alanında ve öğretmenlik mesleğinde iz bırakmış şahsiyetleri merkeze alan basılı ve dijital materyaller hazırlanır ve kamuoyuyla paylaşılır.
