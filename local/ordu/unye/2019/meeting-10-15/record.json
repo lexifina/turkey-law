@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-15",
+  "number_as_published": "meeting-10-15",
+  "year": 2019,
+  "title": "15 EKİM 2019 BELEDİYE MECLİS OLAĞANÜSTÜ OTURUM KARARLARI",
+  "decision_date": "2019-10-15",
+  "source": "https://www.unye.bel.tr/duyuru/15-ekim-2019-belediye-meclis-olaganustu-oturum-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/15-ekim-2019-belediye-meclis-olaganustu-oturum-kararlari/",
+  "source_sha256": "ad1f4db855f1754727dd19fb8f168f42646fff916c423556052927ea74c4a606",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-10-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15 EKİM 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "15 EKİM 2019 BELEDİYE MECLİS OLAĞANÜSTÜ OTURUM KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/15-ekim-2019-belediye-meclis-olaganustu-oturum-kararlari/",
+  "document_note": "the decisions are published on the official page itself as 5 scanned image(s); not transcribed here"
+}
