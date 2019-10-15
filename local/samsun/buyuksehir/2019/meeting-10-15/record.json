@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-15",
+  "number_as_published": null,
+  "year": 2019,
+  "title": "15.10.2019 MECLİS KARAR ÖZETİ",
+  "decision_date": "2019-10-15",
+  "source": "https://samsun.bel.tr/api/public/kurumsal/meclis-encumen/meclis-kararlari?page=2&limit=100",
+  "official_document": "https://samsun.bel.tr/uploads/documents/meclis-kararlari/15102019-meclis-karar-ozeti-18102019.doc",
+  "source_sha256": "1cb882d8f09f9f1f3755b62fab4d7906fce2834368547fe204c7f593229cde92",
+  "issuer": "Samsun Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-10-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.10.2019 MECLİS KARAR ÖZETİ (official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council meeting (sitting): its decision summaries",
+  "official_page": "https://samsun.bel.tr/kurumsal/meclis-encumen/meclis-kararlari/15102019-meclis-karar-ozeti-18102019",
+  "posting_date_in_page_address": "2019-10-18"
+}
