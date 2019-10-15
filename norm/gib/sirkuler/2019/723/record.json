@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-118/2019-8",
+  "source_id": 723,
+  "date": "2019-10-15",
+  "title": "Kendisi veya yakını vefat eden meslek mensuplarının beyanname/bildirimlerini verdiği mükelleflerin zor durum hükümlerinden faydalandırılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/723",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "9f2ab7060cf664fd84c933c28e05ed686a539993642353c1c0232a90ac75ce4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
