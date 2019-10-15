@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33891",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FİLM ÇEKİM İZİNLERİ VE ORTAK YAPIMLAR HAKKINDA YÖNETMELİK",
+  "number": "33891",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2019/33891",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33891&MevzuatTertip=5",
+  "source_sha256": "8be22612fe80bbb37802d208b2c05682899e4460adf25989634a1bec8c223deb",
+  "source_bytes": 29406,
+  "published": "2019-10-15",
+  "gazette": "30919",
+  "in_force": "2019-10-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1351,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
