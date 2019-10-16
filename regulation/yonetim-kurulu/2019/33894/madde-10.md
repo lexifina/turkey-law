@@ -1,0 +1,2 @@
+Üçüncü tarafların uygun olmayan iş ve işlemlerinin tespit edilmesi ve paydaşlar arası iletişimin sağlanması
+MADDE 10 – (1) Ulusal ve uluslararası standartlar, ilgili mevzuat ve 5 inci maddenin ikinci fıkrasına göre belirlenen gerekliliklerden herhangi birinin HUDK’nın hizmet verdiği üçüncü taraflarca yerine getirilmediğinin tespit edilmesi halinde, HUDK’nın takip edeceği süreçler ile diğer sorumluluk ve yükümlülükler ilgili mevzuat ve 5 inci maddenin ikinci fıkrasına göre belirlenir.
