@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46752",
+  "decision_date": "2019-10-16",
+  "source_id": 19871,
+  "chamber": "7",
+  "file_number": "41554",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19871/",
+  "source_sha256": "0d813a25e656ab90537d38abfe8ae2db8cf6906d37d9f31c149697e92559758a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
