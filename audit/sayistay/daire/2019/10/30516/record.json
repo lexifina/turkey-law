@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "205",
+  "decision_date": "2019-10-17",
+  "source_id": 30516,
+  "chamber": "4",
+  "ilam_number": "7",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30516/",
+  "source_sha256": "9c98bd652f5139253da22faea82a8388e21f07e7a0fdcb3d5beb1ceaeb0391f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
