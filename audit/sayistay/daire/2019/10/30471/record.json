@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "202",
+  "decision_date": "2019-10-17",
+  "source_id": 30471,
+  "chamber": "4",
+  "ilam_number": "3",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30471/",
+  "source_sha256": "c149fad4b37a205b27d198dc09a08bddedd982e1fac2eeb89ad5c4fda20a5c2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
