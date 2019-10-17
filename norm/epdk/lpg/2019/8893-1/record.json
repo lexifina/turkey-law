@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "8893-1",
+  "decision_date": "2019-10-17",
+  "title": "TS EN 589+A1:2012 Otomotiv yakıtları - LPG - Özellikler ve deney yöntemleri standardının yerini alacak TS EN 589:2019 Otomotiv yakıtları - LPG - Özellikler ve deney yöntemleri standardının uygulamaya alınma tarihinin ertelenmesi hakkında",
+  "categories": [
+    "Analiz ve Muayene"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f7Stj/dgtpg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=f7Stj/dgtpg="
+  ],
+  "source_sha256": "f0731f5a00a36780dabee659fb12e8a4535383ed7e2965cfc58ebb95a7f0767d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5094,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-10-17",
+  "law_text_complete": true
+}
