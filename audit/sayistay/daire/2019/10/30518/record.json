@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "205",
+  "decision_date": "2019-10-17",
+  "source_id": 30518,
+  "chamber": "4",
+  "ilam_number": "7",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30518/",
+  "source_sha256": "cd05e8be149548c0042b9821039d13f7538c18dcd422acc2ce80ba079797c5ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
