@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "342",
+  "decision_date": "2019-10-17",
+  "source_id": 30573,
+  "chamber": "3",
+  "ilam_number": "20",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30573/",
+  "source_sha256": "45d801f90ce42195488deed9d4e1927181ea02b657257b1128f0e6cf7a4f1756",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
