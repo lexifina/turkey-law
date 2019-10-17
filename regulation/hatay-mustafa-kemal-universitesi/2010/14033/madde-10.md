@@ -1,0 +1,3 @@
+Yönetim kurulu
+MADDE 10 – (1) Yönetim Kurulu; Merkez Müdürü, Merkez müdür yardımcıları ve Üniversitede kadın çalışmaları ve kadın sorunları konusunda çalışmalarda bulunan öğretim elemanları arasından, Rektör tarafından üç yıl süre ile görevlendirilen toplam yedi üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Üyeliğin herhangi bir nedenle boşalması halinde kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu ayda bir kez olağan olarak toplanır. Merkez Müdürü, gerekli gördüğü hallerde veya üyelerden üçünün yazılı talebi üzerine Yönetim Kurulunu olağanüstü toplantıya da çağırabilir. Üst üste üç kez Yönetim Kurulu toplantısına özürsüz katılmayan üyenin üyeliği kendiliğinden düşer.
