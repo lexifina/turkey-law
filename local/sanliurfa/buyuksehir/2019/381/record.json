@@ -1,0 +1,24 @@
+{
+  "number": "381",
+  "number_as_published": "381",
+  "year": 2019,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(KARAKÖPRÜ-DOĞUKENT)",
+  "decision_date": "2019-10-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/8846/106/nazim-ve-uygulama-imar-planikarakopru-dogukent",
+  "official_document": null,
+  "source_sha256": "df6b382a43d85ce16fa0d332094cff1e458a87cb5f38b24ce9aeae5c1c653768",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2019-10-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.10.2019 tarih ve 381 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2019-10-22",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
