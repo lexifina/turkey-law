@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8890",
+  "decision_date": "2019-10-17",
+  "title": "Mekanik endeksi olan ve endeksi dışardan görünen ön ödemeli sayaç, ön ödeme kiti ile irtibatlı olan mekanik sayaç veya mekanik göstergesi görünmeyen/bulunmayan elektronik sayaçların arızalanması durumlarında gerçekleştirilecek geriye dönük tahakkuk işlemlerine ilişkin",
+  "resmi_gazete_date": "2019-10-23",
+  "resmi_gazete_number": "30927",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n92vQ1iTVKE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n92vQ1iTVKE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xnLFhIZbEMk="
+  ],
+  "source_sha256": "191f20775ed6e69605c3aa7c15c67cdeadeb13a3b38a01f9dba87228a950ba3b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-10-17",
+  "law_text_complete": true
+}
