@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "563",
+  "decision_date": "2019-10-18",
+  "title": "MEC.KAR. (Mezitli Mahallesi, 843 ada 5-6 parsel, 10369 ada 2-3-4-5-6 parsel, 10370 ada 1-2-3-4 parsel, 10371 ada 1-2-3-4-5-6-7-8 parseller).doc",
+  "listed_as": "563 MEC.KAR. (Mezitli Mahallesi, 843 ada 5-6 parsel, 10369 ada 2-3-4-5-6 parsel, 10370 ada 1-2-3-4 parsel, 10371 ada 1-2-3-4-5-6-7-8 parseller).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/563-meckar-mezitli-mahallesi-843-ada-5-6-parsel-10369-ada-2-3-4-5-6-parsel-10370-ada-1-2-3-4-parsel-10371-ada-1-2-3-4-5-6-7-8-parsellerdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-ekim-2019-meclis-kararlari",
+  "listing_sha256": "df3083a3f61f4ca6fe579f8adb8b8b1e2defc7efbd018330881fbd0a0b7e0635",
+  "meeting_title": "18 EKİM 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
