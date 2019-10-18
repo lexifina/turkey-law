@@ -1,0 +1,2 @@
+Osmanlıca arşiv belgelerinin devri
+GEÇİCİ MADDE 1- (1) Yükümlülerin elinde bulunan arşiv belgesi niteliğini kazanmış Osmanlıca (eski harfli Türkçe) belgeler mevcut düzeni içerisinde, ayıklama ve tasnif işlemlerine tâbi tutulmaksızın ve devir teslim ve envanter formu hazırlanmaksızın, devir teslim tutanağı ile birlikte bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren iki ay içinde Başkanlığa devredilir.

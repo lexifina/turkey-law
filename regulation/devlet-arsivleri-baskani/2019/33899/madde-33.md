@@ -1,0 +1,2 @@
+Yönerge
+MADDE 33- (1) Yükümlüler, kurum veya kuruluşlarının hususiyeti ve ürettiği evrakın özelliğinden kaynaklanan durumlarda, bu Yönetmelik hükümlerine aykırı olmamak kaydı ile Başkanlığın uygun görüşünü alarak, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 6 ay içerisinde kendi arşiv yönergelerini hazırlarlar ve 32 nci maddede belirtilen yürürlükten kaldırılan yönetmeliğe dayanılarak hazırlanan yönetmelik ve yönergelerini yürürlükten kaldırırlar.

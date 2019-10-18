@@ -1,0 +1,3 @@
+Ayıklama ve İmha Komisyonlarının oluşturulması
+MADDE 19- (1) Kurum arşivi ve merkezi arşivlerde yapılacak ayıklama ve imha işlemleri için; arşiv hizmet ve faaliyetlerinin düzenlenmesi ve yürütülmesinden sorumlu birim amirinin veya ilgili belge yöneticisinin başkanlığında, arşivden görevlendirilecek iki personel ile belgeleri ayıklanacak ve imha edilecek ilgili birim amiri tarafından görevlendirilecek, bağlı olduğu birimin verdiği hizmetlerde bilgi ve tecrübe sahibi iki temsilci olmak üzere beş kişilik bir Ayıklama ve İmha Komisyonu kurulur.
+(2) Taşra, bölge ve yurt dışı teşkilatlarında yeterli personelin bulunmaması halinde bu komisyonlar en az üç kişiden oluşur.

@@ -1,0 +1,4 @@
+İlga edilen, yetkisi devredilen ve özelleşen kurum ve kuruluşların belgeleri
+MADDE 30- (1) Bu Yönetmelik kapsamında olup da faaliyeti sonlandırılarak belgeleri Başkanlığa devredilmiş kurum ve kuruluşların, ayıklama ve imha işlemlerine yönelik süreç Başkanlıkça yerine getirilir.
+(2) Bu Yönetmelik kapsamında olup da teşkilat değişiklikleri sebebiyle, faaliyetin farklı kurum ve kuruluşlarca yürütülmesi durumunda belgeler, faaliyetin yürütüleceği kurum veya kuruluşa devredilir.
+(3) İlga edilen, yetkisi devredilen veya özelleştirilen yükümlülere ait belgelerin, bu Yönetmelikte belirlenen yükümlülükleri, ilga edilen yükümlülerin bağlı olduğu üst kurum ve kuruluşça, yetkisi devredilen yükümlülerde yetkiyi devralan kurum ve kuruluşça, özelleştirilecek yükümlülerde ise özelleştirme kapsamına alındığında teşkil olunacak komisyon marifetiyle yerine getirilir.
