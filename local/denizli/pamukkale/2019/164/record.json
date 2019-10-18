@@ -1,0 +1,24 @@
+{
+  "number": "164",
+  "number_as_published": "2019/164",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-10-18",
+  "source": "https://www.pamukkale.bel.tr/y-248-18-ekim-2019-tarihli-olaganustu-toplantisinda-alinan-kesinlesmis-meclis-karar-ozeti",
+  "official_document": null,
+  "source_sha256": "3a9b84b8b492355a1c2433c8a64628ede0ab8caaecfb0cc0b524aef7ec10a6e9",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-10-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.10.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-248-18-ekim-2019-tarihli-olaganustu-toplantisinda-alinan-kesinlesmis-meclis-karar-ozeti",
+  "listing_label": "18 EKİM 2019 TARİHLİ OLAĞANÜSTÜ TOPLANTISINDA ALINAN KESİNLEŞMİŞ MECLİS KARAR ÖZETİ",
+  "record_scope": "one council decision (published decision summary)"
+}
