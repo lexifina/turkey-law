@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33896",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MEVZUAT ÇALIŞMA KOMİSYONLARI HAKKINDA YÖNETMELİK",
+  "number": "33896",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2019/33896",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33896&MevzuatTertip=5",
+  "source_sha256": "a6bf92a8e6f609c63bee9337f0e82397039a2d2f9bbe2f9d31786606fcb87b21",
+  "source_bytes": 17991,
+  "published": "2019-10-18",
+  "gazette": "30922",
+  "in_force": "2019-10-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 605,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
