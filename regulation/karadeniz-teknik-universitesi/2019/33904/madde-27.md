@@ -1,0 +1,2 @@
+Öğrenim süresi
+MADDE 27 – (1) Öğrenciler, kayıt olduğu Eczacılık Fakültesi Lisans Programına ilişkin derslerin verildiği yarıyıldan başlamak üzere, her yarıyıl için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi beş yıl olan Eczacılık Fakültesi Lisans Programını azami sekiz yıl içinde tamamlamak zorundadırlar. Öğrenim süreleri ile ilgili olarak 7/10/2017 tarihli ve 30203 sayılı Resmî Gazete’de yayımlanan Karadeniz Teknik Üniversitesi Önlisans ve Lisans Eğitim-Öğretim Yönetmeliği hükümleri uygulanır.

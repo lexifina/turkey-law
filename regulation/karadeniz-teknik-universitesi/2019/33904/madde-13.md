@@ -1,0 +1,5 @@
+Yarıyıl içi çalışmaları
+MADDE 13 – (1) Bir ders için her yarıyıl içinde en az bir ara sınav yapılır. Bununla beraber, ders içinde yapılmış olan ödev, proje, uygulama, laboratuvar ve benzeri çalışmalar da, Fakülte Kurul kararı ile bir ara sınav yerine geçebilir. Yarıyıl içi çalışmalarının ders başarı notuna katkısı toplam %50’dir.
+(2) Yarıyıl içi çalışmalar ve takvimi, yarıyıl başında öğrenciye duyurulur. Bir sınıfın dersleri için bir günde ikiden fazla sınav yapılmayacak şekilde program hazırlanır.
+(3) Gruplardaki öğrenci sayısı teorik derslerde 40’tan ve uygulamalı derslerde 20’den az olmayacak şekilde Yönetim Kurulu kararı ile bir ders için birden fazla grup oluşturulabilir. Eğitim-öğretimin bireysel veya küçük gruplarla yapılmasının zorunlu olduğu uygulama, laboratuvar ve araştırma projesi gibi özel durumlarda öğrenci sayısı, Yönetim Kurulu tarafından karara bağlanır.
+(4) Yarıyıl içinde yapılan sınavların sonuçları on beş gün içinde, diğer çalışmalar ise akademik takvimde tanımlanan yarıyıl derslerinin son gününden önce internet ortamında ilan edilir.

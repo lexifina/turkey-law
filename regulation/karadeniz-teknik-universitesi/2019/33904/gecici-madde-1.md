@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) 26/11/2014 tarihinden önce Üniversiteye kayıtlı olan öğrenciler bakımından azami öğrenim sürelerinin hesaplanmasında başlangıç olarak 2014-2015 eğitim-öğretim yılı güz yarıyılı esas alınır.

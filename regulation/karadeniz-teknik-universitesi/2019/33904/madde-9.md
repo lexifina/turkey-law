@@ -1,0 +1,3 @@
+Uyum ve akademik danışmanlık
+MADDE 9 – (1) Kesin kayıtları yapılan birinci sınıf öğrencilerine Üniversiteyi tanıtmak amacıyla, eğitim-öğretim yılı güz yarıyılı başında, Dekanlık tarafından uyum programları (oryantasyon) düzenlenebilir.
+(2) Akademik danışman; bir öğrenciye Eczacılık Fakültesi lisans eğitim-öğretim hayatı boyunca, Yönetim Kurulunun belirlediği esaslar çerçevesinde öğrencinin derse yazılma işlemlerini denetlemek ve öğrencinin sosyal ve kültürel durum ve faaliyetlerinin başarısını olumsuz etkilememesi için gerekli yönlendirmeleri yapmak üzere Dekanlık tarafından görevlendirilen öğretim elemanıdır. Her öğrenci için, derslerin başlamasını takip eden en geç on beş gün içinde, bir akademik danışman görevlendirilir.

@@ -1,0 +1,5 @@
+Mazeret sınavı
+MADDE 17 – (1) Mazeret sınav hakkı, mazereti nedeniyle ara sınavlara giremeyen öğrencilere verilir. Bunun dışında başka hiçbir sınav ve yarıyıl içi çalışmaları için mazeret sınav hakkı verilmez. Ara sınavlar için mazeret sınavı, yarıyılın son haftasında yapılır ve dersin tüm içeriğini kapsar.
+(2) Mazeret sınavı yapılması, Dekanlık tarafından karara bağlanır. Hastalık nedeniyle sınavlara giremeyen öğrencilerin sağlıkla ilgili mazeretlerinin kabul edilmesi için sağlık raporlarının Üniversitenin sağlık kuruluşlarından veya diğer sağlık kurum ve kuruluşlarından alınmış olması gerekir.
+(3) Öğrencinin mazeret belgesini, mazeretin bitiş tarihini izleyen yedi gün içerisinde Dekanlığa vermesi zorunludur. Bu sürenin dışında yapılan başvurular işleme konulmaz. Mazeret sınavlarına girmeyen öğrencilere yeni bir mazeret sınavı yapılmaz.
+(4) Sağlık ve diğer mazeretleri Dekanlıkça kabul edilen öğrenci, raporlu bulunduğu süre içinde derslere devam edemez ve sınavlarına giremez. Raporlu olduğu halde sınavlara giren öğrencinin sınavı değerlendirilmez, o sınavdan sıfır not almış sayılır.

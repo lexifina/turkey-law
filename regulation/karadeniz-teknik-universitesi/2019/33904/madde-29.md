@@ -1,0 +1,4 @@
+Mezuniyet ve diploma verilme şartları
+MADDE 29 – (1) Öğrencinin mezuniyete hak kazanabilmesi için; programdaki dersleri, uygulamaları, laboratuarları, stajları, araştırma projesi ve benzeri çalışmaları bu Yönetmelik hükümlerine göre başarıyla tamamlaması gerekir. Ayrıca, 300 AKTS krediyi de başarıyla tamamlaması gerekir.
+(2) Mezuniyet genel ağırlıklı not ortalaması 4,00 üzerinden hesaplanır ve öğrenim durumu belgesi üzerinde belirtilir. Lisans diploması verilebilmesi için öğrencinin genel not ortalamasının en az 2,00 olması gerekir.
+(3) Eczacılık Fakültesi eğitim-öğretim programını ve 6 aylık zorunlu stajlarını başarı ile tamamlayan ve mezun olan öğrencilere Eczacı unvanı ile lisans diploması ve diploma eki verilir. Diplomalar hazırlanıncaya kadar öğrenciye geçici mezuniyet belgesi verilebilir.

@@ -1,0 +1,6 @@
+Bütünleme sınavı
+MADDE 15 – (1) Bütünleme sınavları, her eğitim-öğretim yarıyılının sonunda yapılan ve başlangıç ile bitiş tarihleri Akademik Takvim kapsamında belirlenen sınavlardır.
+(2) Öğrenciler, her yarıyılın sonunda, o yarıyıla ait tüm derslerden bütünleme sınavına girebilirler.
+(3) Bütünleme sınavına girebilmek için; sınavların yapılacağı eğitim-öğretim yılında ilgili derslere yazılım yapmak ve bu derslerin yarıyıl sonu sınavına girebilme şartlarını yerine getirmiş olmak zorunludur. DC harf notu hariç, yarıyıl sonu sınavlarında başarılı olunan dersin bütünlenme sınavına girebilmek için, öğrencilerin Öğrenci İşleri Daire Başkanlığına yazılı olarak başvurmaları gerekir. Bütünleme sınavlarına giremeyen öğrencilere mazeret sınav hakkı verilmez.
+(4) Bütünleme sınavında 100 üzerinden en az 60 puan almak zorunludur. Ara sınav, yarıyıl içi çalışmalar ve bütünleme sınav notunun ağırlıkları dikkate alınarak harﬂi başarı notu belirlenir. Öğrenciler, bütünleme sınavında DC harf notu aldıkları derslerden, yarıyıl not ortalamasına göre başarılı veya başarısız sayılır.
+(5) Bir dersin bütünleme sınavına girmeyen öğrencinin harf notu hesaplanmaz, yarıyıl sonu harf notu aynen kalır. Bütünleme sınavına giren öğrencilerin yarıyıl not ortalaması hesabında, bütünleme sınav notları dikkate alınır.

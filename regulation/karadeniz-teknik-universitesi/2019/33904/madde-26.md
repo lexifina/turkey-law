@@ -1,0 +1,5 @@
+Başarısız olunan dersler
+MADDE 26 – (1) Öğrenciler başarısız sayıldıkları ve normal yarıyılında almadıkları dersleri kayıt oldukları yarıyılda tekrar ederler. Bu durumda 12 nci madde uygulanır. Güz ve bahar yarıyılları birbiri ile ilişkili olmayıp, her bir yarıyılın not ortalaması kendi yarıyılına etki eder.
+(2) Dördüncü yarıyılın sonunda genel ağırlıklı not ortalaması 1,80’in altında olan öğrenciler üst yarıyıllardan ders alamazlar. Bu durumdaki öğrenciler başarısız oldukları dersleri tekrar alarak genel not ortalamalarını en az 1,80’e yükseltmek zorundadır.
+(3) Öğrenciler, tekrarlanması gereken seçmeli derslerinin yerine Dekanlıkça açılan diğer seçmeli dersleri alabilirler. Bu durumda, önceki ders ve çalışmalar için kullanılmış haklar yeniden kullanılamaz.
+(4) Öğrenciler isterlerse başarılı oldukları derslerini, akademik takvimde tanımlı süreler içerisinde Öğrenci İşleri Daire Başkanlığına dilekçe vererek not yükseltmek amacı ile tekrar edebilirler. Bu durumda dersin tekrar edildiği yarıyılda alınan not, bu dersin son harf notu olarak kabul edilir.

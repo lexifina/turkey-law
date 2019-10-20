@@ -1,0 +1,4 @@
+Ek sınav
+MADDE 18 – (1) Ek sınav; azami öğrenim süreleri sonunda kayıtlı olduğu öğretim kurumundan mezun olabilmek için, final ve bütünleme sınavlarına girme hakkı bulunan son sınıf öğrencilerine başarısız oldukları bütün dersler için verilen ek final ve ek bütünleme sınavlarıdır.
+(2) İki ek sınav hakkı; azami öğrenim sürelerinin dolduğu bütünleme sınavlarının sona ermesini takip eden otuz gün içinde kullandırılır. Sınav tarihi, yer ve saati Dekanlık tarafından akademik takvime göre belirlenir ve ilan edilir.
+(3) Ek sınavda başarılı olabilmek için, en az 60 puan almak zorunludur. Ek sınav başarı notunun belirlenmesinde yarıyıl içi çalışmaları değerlendirmeye katılmaz. Harfli not sistemine dönüşüm işleminde mutlak not sistemi kullanılır. Sınavda alınan harfli not, o dersin ilgili yarıyıldaki başarı notu yerine geçer.

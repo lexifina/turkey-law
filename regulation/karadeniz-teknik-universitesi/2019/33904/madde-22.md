@@ -1,0 +1,4 @@
+Notlarda maddi hata
+MADDE 22 – (1) Sınav notlarında herhangi bir maddi hatanın yapılmış olması halinde düzeltme başvurusu, notların ilanını takip eden üç iş günü içinde yapılır. Başvurular, ilgili öğretim elemanınca değerlendirilir ve Dekanlıkça yedi gün içerisinde karara bağlanır. İtiraz sonucu notlarda değişiklik olması veya öğretim elemanı tarafından yapılacak not düzeltme işlemlerinde, değişiklik veya düzeltmelere ilişkin belgeler eklenir. Harfli notların kesinleşmesinden sonraki düzeltme işlemleri, Yönetim Kurulunun onayı ile gerçekleşir.
+(2) Sınav notlarına ve harf notlarına ilişkin itiraz ve düzeltme başvuruları, doğrudan Dekanlığa yapılır.
+(3) Harfli başarı notlarının ilanını takiben herhangi bir nedenle yapılan değişiklikler o ders ile ilgili daha önce yapılmış olan istatistiksel hesaplamalara katılmaz.

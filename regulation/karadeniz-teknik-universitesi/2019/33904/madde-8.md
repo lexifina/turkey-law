@@ -1,0 +1,3 @@
+Kayıt işlemleri
+MADDE 8 – (1) Eczacılık Fakültesi lisans eğitim-öğretim programına kesin kayıt işlemleri ÖSYM tarafından belirlenen belgeler ve esaslara göre yapılır. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Kesin kayıt işlemleri Üniversitenin belirlediği tarihler arasında yapılmalıdır.
+(2) Kayıt takvimi, kayıtta istenen belgeler ve uyulacak esaslar, Öğrenci İşleri Daire Başkanlığınca ilan edilir ve yürütülür. Kayıt işlemlerini tamamlayan aday öğrenci, Üniversite öğrencisi olur ve mevzuatın öngördüğü tüm öğrencilik haklarından yararlanır.
