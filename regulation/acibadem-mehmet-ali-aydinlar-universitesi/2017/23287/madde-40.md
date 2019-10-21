@@ -1,0 +1,2 @@
+Programlar arasında geçiş
+MADDE 40 – (1) Tezli ve tezsiz yüksek lisans programları arasında geçiş, her yarıyıl başında akademik takvimde lisansüstü derslerin başlaması için öngörülmüş tarihten en geç bir ay önce öğrencinin başvurusu ve enstitü ABDB önerisi ve EYK kararıyla yapılır. Öğrenci tezli ve tezsiz yüksek lisans programları arasında birden çok geçiş başvurusunda bulunamaz. Geçiş başvurusu onaylanan öğrenci yeni programın gereklerini tamamlamakla yükümlüdür.

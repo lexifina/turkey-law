@@ -1,0 +1,5 @@
+Bilimsel hazırlık programları
+MADDE 11 – (1) Yüksek lisans ve doktora programlarında genel başarı değerlendirmesinde başarılı bulunanlardan, lisans ya da yüksek lisans öğrenimini başvurdukları alanın dışında bir alanda veya Üniversite dışında bir yükseköğretim kurumunda tamamlayanlar için mülakat jürisinin önerisi ve ilgili ABDB görüşü üzerine EYK kararıyla düzenlenip yürütülen en çok iki yarıyıl süreli programdır. Yaz öğretimi bu süreye dahil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin ilişiği kesilir.
+(2) Bilimsel hazırlık programına devamı gerekli görülenler, ilgili derslere ve uygulama çalışmalarına kayıt yaptırarak devam etmek ve başarılı olmak zorundadırlar. Bilimsel hazırlık programına devam eden öğrenciler, ABDB önerisi ve EYK’nin kararı ile hazırlık derslerine ek olarak ilgili program derslerinden de alabilir.
+(3) Bilimsel hazırlık programı kapsamında alınan dersler asıl programın öngördüğü dersler yerine sayılamaz.
+(4) Bilimsel hazırlık programını izlemek için geçirilen süre yüksek lisans ve doktora sürelerine ilave edilemez. Bu süre yarıyıl izinleri dışında uzatılmaz.

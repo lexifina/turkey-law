@@ -1,0 +1,4 @@
+Enstitüye kayıt
+MADDE 21 – (1) Lisansüstü programlara kayıt hakkını kazanan asil ve yedek adayların listesi EYK kararı ile kesinleşir. Sonuçlar enstitü müdürlüğü tarafından ilan edilir. Kayıtlar, Senato tarafından kabul edilip ilan edilen enstitü akademik takviminde belirtilen günlerde yapılır. Kazanan adaylar, EYK’ce istenen belgeleri, süresi içinde enstitüye vererek kesin kayıtlarını yaptırır. Süresi içinde kesin kaydını yaptırmayan adaylar kayıt haklarını kaybeder. Bu adayların yerine, başarılı bulunan yedek adaylar genel başarı değerlendirme sırası esas alınarak kabul edilir.
+(2) Yükseköğretim kurumlarından çıkarılma cezası almış olanlar ve belgelerinde tahrifat bulunanlar ile belgelerindeki eksikliği süresi içinde gideremeyenlerin kayıtları yapılmaz, yapılmış ise iptal edilir.
+(3) Kayıtlar şahsen, posta yoluyla veya elektronik ortamda yapılabilir.

@@ -1,0 +1,4 @@
+Lisansüstü programların açılması
+MADDE 7 – (1) Yeni bir lisansüstü program; akademik anabilim dalı kurulunun önerisi, enstitü kurulunun uygun görüşü, Senatonun kararı ve Yükseköğretim Kurulunun onayı ile açılır.
+(2) Lisansüstü programlar, enstitü anabilim dalları ile aynı adları taşır. Ancak enstitü kurulunun önerisi, Senatonun onayı ve Yükseköğretim Kurulunun kararı ile enstitünün bir anabilim dalına bağlı, o anabilim dalından farklı bir ad taşıyan bir lisansüstü program da açılabilir.
+(3) Akademik anabilim dalının önerisi ve EYK’nin kararı ile diğer yurt içi/yurt dışı yükseköğretim/araştırma kurum ve kuruluşları ile işbirliği yaparak ortak programlar açılabilir. Bu uygulama, Senato kararı ve Yükseköğretim Kurulu onayı ile yürürlüğe girer. Ortak programlar, 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim Öğretim Programlarına Dair Yönetmelik hükümlerine göre yürütülür.

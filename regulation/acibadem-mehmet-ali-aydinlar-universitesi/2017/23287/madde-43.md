@@ -1,0 +1,3 @@
+Tez danışmanı atanması
+MADDE 43 – (1) Tezli yüksek lisans programında, enstitü ABDB her öğrenci için Senatonun belirleyeceği niteliklere sahip öğretim üyeleri arasından Üniversitenin kadrosunda bulunan bir tez danışmanını en geç birinci yarıyılın sonuna kadar enstitüye önerir. Tez danışmanı EYK onayı ile kesinleşir.
+(2) Üniversitenin belirlenen niteliklere sahip öğretim üyesi bulunmaması halinde Senatonun belirlediği ilkeler çerçevesinde EYK tarafından başka bir yükseköğretim kurumundan öğretim üyesi danışman olarak seçilebilir. Tez çalışmasının niteliğinin birden fazla tez danışmanı gerektirdiği durumlarda atanacak ikinci tez danışmanı, Üniversite kadrosu dışından en az doktora derecesine sahip kişilerden olabilir.

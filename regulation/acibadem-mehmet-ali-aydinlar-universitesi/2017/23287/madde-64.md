@@ -1,0 +1,2 @@
+Öğrenci disiplin işlemleri
+MADDE 64 – (1) Öğrencilerin disiplin iş ve işlemleri; Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre yürütülür. Disiplin cezası nedeniyle Üniversiteden uzaklaştırılan öğrenciler için uzaklaştırma süresi, azami öğrenim süresine katılmaz. Ancak bu öğrenciler; izinli öğrenciler gibi uzaklaştırma cezasının süresini ve başlama tarihine göre ödemekle yükümlü oldukları dönem öğrenim ücretini öder.

@@ -1,0 +1,2 @@
+İlan, başvuru ve kabul
+MADDE 16 – (1) Öğrenci kabul edilecek lisansüstü programlar, bu programlara alınacak öğrenci kontenjanları, başvuru için gerekli belgeler, başvuru ve sınav tarihleri ile diğer koşullar enstitü tarafından ilan edilir. Başvuru için istenen belgelerin aslı veya enstitü tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın beyanına dayanılarak işlem yapılır. Başvurular şahsen, posta yoluyla veya elektronik ortamda ilgili enstitüye yapılır.

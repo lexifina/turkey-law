@@ -1,0 +1,5 @@
+Ders başarı notu
+MADDE 34 – (1) Bir dersteki başarı durumu ders başarı notu ile belirlenir. Ders başarı notu, öğrencinin yarıyıl içinde ara sınavlar, uygulamalı çalışmalar, ödevler gibi çalışmalarda gösterdiği başarı ve yarıyıl sonu sınavının birlikte değerlendirilmesi ile elde edilir. Yarıyıl içi değerlendirmelerin ders başarı notuna etkisi en çok %50 olabilir.
+(2) Bir dersin yarıyıl sonu sınavına girmiş, ancak zorunlu nedenlerle yarıyıl içi çalışmalarını tamamlayamamış öğrencilere I notu verilir. Öğrenci eksiğini genel sınav dönemi sonundan itibaren en geç bir ay içinde tamamlamak zorundadır. Aksi halde öğrencinin o ders için başarı notunun hesaplanmasında yarıyıl içi çalışmalarının değeri sıfır kabul edilerek not verilir.
+(3) Bir dersten başarılı sayılmak için yüksek lisans öğrencilerinin en az CC, doktora öğrencilerinin ise en az CB notu almış olmaları gerekir.
+(4) Gerekli hallerde ABDB ve danışmanın ortak kararı ile öğrenci başarısız olduğu seçmeli bir dersin yerine başka bir seçmeli dersi alabilir.

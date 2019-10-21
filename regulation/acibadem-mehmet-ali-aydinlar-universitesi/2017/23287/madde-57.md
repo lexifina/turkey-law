@@ -1,0 +1,5 @@
+DOKUZUNCU BÖLÜM
+Mazeretler ve İzinler
+Mazeretler
+MADDE 57 – (1) Sağlıkla ilgili mazereti nedeniyle, üniversite hastanelerinden ya da resmi hasta kabul yetkisi olan sağlık kuruluşlarından istirahat raporu alan öğrenci; rapor süresinin bitiminden itibaren üç iş günü içinde Üniversitenin Sağlık, Kültür ve Spor Dairesi Sağlık Merkezince verilen veya onaylanan raporunu, ilgili ABDB’yeteslim eder. Öğrenci, raporda belirtilen süreler içinde mazeretli kabul edilir ve ara sınavlara girmez. Raporlu sayılan sürede girilen ara sınavların notları ya da sonuçları geçersiz sayılır. Öğrenci, rapor bitiminden sonra, mazeret sınavlarına girebilir. Rapor süreleri, öğretim sürelerinin hesabında göz önüne alınmaz. Bir yarıyılda, beş hafta veya daha fazla süreli raporu olan öğrenciler o yarıyıl izinli sayılabilir.
+(2) Anne, baba, eş, kardeş veya çocuğunun ölümü veya ağır hastalığı halinde bakacak başka bir kimsenin bulunmaması ya da EYK’ce kabul edilebilecek mazeretlerin ortaya çıkması ve bu durumun belgelendirilmesi halinde, EYK öğrencinin mazeretli sayılmasına karar verebilir.
