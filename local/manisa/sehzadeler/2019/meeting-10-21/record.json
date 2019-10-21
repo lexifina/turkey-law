@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-21",
+  "number_as_published": "meeting-10-21",
+  "year": 2019,
+  "title": "21 Ekim 2019 tarihli Olağanüstü Meclis Karar Özeti",
+  "decision_date": "2019-10-21",
+  "source": "https://www.sehzadeler.bel.tr/tr/raporbelge/index",
+  "official_document": "https://www.sehzadeler.bel.tr/uploads/images/21.10._2019_Tarihli_Olaanysty_Meclis_Karar_yozeti.pdf",
+  "source_sha256": "6507a89257c55501a0d2d306a0a5a5e9d644d72eb5547188a808e1254d29fe1c",
+  "issuer": "Şehzadeler Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-10-21",
+  "in_force_basis": "Decision date as printed in the official council listing: 21 EKİM 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "21 Ekim 2019 tarihli Olağanüstü Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "25.10.2019",
+  "official_page": "https://www.sehzadeler.bel.tr/tr/raporbelge/index"
+}
