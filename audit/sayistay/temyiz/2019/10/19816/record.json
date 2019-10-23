@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46757",
+  "decision_date": "2019-10-23",
+  "source_id": 19816,
+  "chamber": "7",
+  "file_number": "44112",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19816/",
+  "source_sha256": "0463f3796f6b38408694a5fa471ae44ca2c83931067adad03b7e81ffc12ac81c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
