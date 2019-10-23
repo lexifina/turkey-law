@@ -1,0 +1,7 @@
+Hazine arazilerinde projelendirme ve saha teslimi
+MADDE 13 – (1) Müracaata konu saha hazine arazisi ise; işletme müdürlüğü, ön izin sahibinden Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlıkça verilen ön izne göre Genel Müdürlükçe belirlenen proje dispozisyonuna uygun olarak, uygulama projesini ormancılık bürolarına tanzim ettirerek teslimini ister.
+(2) İşletme müdürlüğü, uygulama projesini en geç 30 gün içinde arazide ve büroda inceler ve onay için bölge müdürlüğüne gönderir. Uygulama projesi, uygun bulunması halinde bölge müdürü tarafından onaylanarak işletme müdürlüğüne gönderilir. İşletme müdürlüğünce onaylı uygulama projesinin bir nüshası, ön tahsis veya kiralama işlemi için Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlık taşra birimine gönderilerek ilgiliden taahhüt senedinin ve saha teslim tutanağının işletme müdürlüğüne teslimi istenir.
+(3) İkinci fıkrada belirtilen işlemler Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlık tarafından verilen ön izin süresi içerisinde yapılır.
+(4) Uygulama projesinin ön izin süresi içerisinde teslim edilmemesi halinde işletme müdürlüğü tarafından bu durum ilgili Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlık taşra birimine bildirilir.
+(5) Kira sözleşmesi ve saha tahsisi Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlıkça, onaylı uygulama projesine dayanılarak yapılır.
+(6) Saha teslimi, Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlık taşra birimince yapılır.

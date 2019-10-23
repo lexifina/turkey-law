@@ -1,0 +1,2 @@
+Hazine arazilerinde yapılacak çalışmalar
+MADDE 6 – (1) Orman alanını arttırmak amacı ile Milli Emlak Genel Müdürlüğünün bağlı bulunduğu Bakanlık tarafından Genel Müdürlük adına tahsis olunan arazilerde ağaçlandırma, erozyon ve sel kontrolü, çığ ve heyelanların önlenmesi, ağaç ıslahı, orman ağaç, ağaççık ve florasına ait tohum ve fidan üretimi, fidanlık, rehabilitasyon ve imar-ihya çalışmaları Genel Müdürlükçe yapılır veya yaptırılır.

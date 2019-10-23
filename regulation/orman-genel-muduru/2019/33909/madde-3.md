@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 57 nci, 59 uncu, 60 ıncı, 63 üncü, ek 5 inci ve ek 12 nci maddesi ile 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 334 üncü maddesine dayanılarak hazırlanmıştır.
