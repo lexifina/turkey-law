@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46774",
+  "decision_date": "2019-10-23",
+  "source_id": 19835,
+  "chamber": "6",
+  "file_number": "44838",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19835/",
+  "source_sha256": "5a629f0e32353eabf8d52bf2139dd2e33060925b509f72dd61c49dd0ee8155db",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
