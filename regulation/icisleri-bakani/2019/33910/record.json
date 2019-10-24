@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33910",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜVENLİK VE ACİL DURUMLAR KOORDİNASYON MERKEZİ TEŞKİLAT, GÖREV, YETKİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "33910",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2019/33910",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33910&MevzuatTertip=5",
+  "source_sha256": "b41f81f5f621d7087da0684194a70e118dde3a59351b2578696165e4b32bafc0",
+  "source_bytes": 44648,
+  "published": "2019-10-24",
+  "gazette": "30928",
+  "in_force": "2019-10-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.10.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2268,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
