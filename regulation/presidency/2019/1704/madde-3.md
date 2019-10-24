@@ -1,0 +1,10 @@
+Tanımlar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Baraj: Su biriktirmek amacı ile akarsu vadisini kapatarak suyun akışını engelleyen; enerji, sulama, içme suyu ve taşkın koruma gayeli barajlar, göletler, regülatörler ve seddeleme ile su seviyesi yükseltilen tabii göller gibi yapıları,
+b) İdare: Yararına baraj kamulaştırma hak ve yetkisi tanınan kamu tüzel kişilerini, kamu kurum ve kuruluşlarını, gerçek ve özel hukuk tüzel kişilerini,
+c) Komisyon: Baraj inşası için yapılan kamulaştırmalar sonunda ilgili hak sahiplerinin başvurusu üzerine, çevrenin sosyal, ekonomik veya yerleşme düzeninin bozulup bozulmadığı, kamulaştırma sahasına mücavir taşınmaz mallardan ekonomik veya sosyal yönden yararlanılmasının mümkün olup olmadığı hususlarını incelemek ve gerekli kararları vermek üzere taşınmaz malın bulunduğu yer valiliklerinde kurulan komisyonu,
+ç) Mutlak koruma alanı: İçme-kullanma suyu temin edilen veya edilmesi planlanan tabii göl, baraj gölü ve göletlerin, maksimum su seviyesinden itibaren yatayda 300 metre genişliğindeki kara alanını, bu alanın içme-kullanma suyu havza sınırını aşması halinde havza sınırını,
+d) Mücavir alan: Baraj kamulaştırması nedeni ile sosyal, ekonomik veya yerleşme düzeni bakımlarından etkilenen ve yerleşim birimine ait idari sınırlar içerisinde ve baraj kamulaştırma sınırının dışında kalan alanı,
+e) Mücavir taşınmaz mallar: Baraj kamulaştırma sınırı bitişiğindeki taşınmaz mallar ile, yerleşim biriminin baraj gölü altında kalması sebebi ile tüzel kişiliğin sona ermesi ve yeniden tüzel kişilik kazanmaması halinde sosyal, ekonomik veya yerleşme yönlerinden yararlanma imkanı kalmayan taşınmaz malları, yerleşim biriminin tüzel kişiliğinin devam etmesi ve arazilerinin % 60’ından fazlasının kamulaştırılmış olması halinde geriye kalan taşınmazlardan sosyal, ekonomik veya yerleşme yönlerinden yararlanma imkanı kalmayan taşınmaz malları,
+f) Yerleşim birimi: Mevzuat hükümleri ile belirlenmiş idari ve mülki yapısı bulunan ve bir bölgeyi belirleyen yerleri,
+ifade eder.

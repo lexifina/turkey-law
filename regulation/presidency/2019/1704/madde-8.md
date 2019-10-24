@@ -1,0 +1,3 @@
+Komisyon teşkili
+MADDE 8- (1) Baraj inşası için kamulaştırılacak taşınmazların tamamının kamulaştırılıp idare adına tescillerinin gerçekleştirilmesinden sonra kamulaştırmaların tamamlandığına ilişkin ilanın ilgili yerlere asıldığı tarihten sonra, idarenin talebi üzerine il dâhilinde görev yapmak üzere valilik bünyesinde komisyon kurulur.
+(2) Komisyon, valinin veya görevlendireceği bir yetkilinin başkanlığında; vali tarafından belirlenecek o ildeki Çevre ve Şehircilik Bakanlığı, Hazine ve Maliye Bakanlığı, İçişleri Bakanlığı ile Tarım ve Orman Bakanlığı temsilcileri ile idarece görevlendirilecek iki yetkiliden teşekkül eder.

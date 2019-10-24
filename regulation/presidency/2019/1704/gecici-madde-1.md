@@ -1,0 +1,2 @@
+İlanı yapılmış projelerde yapılan başvurular
+GEÇİCİ MADDE 1- (1) 15 inci madde gereğince yürürlükten kaldırılan yönetmelik kapsamında, bu Yönetmelik yürürlüğe girmeden önce idareye yapılan ancak sonuçlandırılmayan başvurular, valiliklere yapılmış sayılır. Bu başvurular, görüşü de eklenerek idare tarafından ilgili valiliğe iletilir. İlgili valilik bu Yönetmelik hükümlerine uygun olarak gerekli iş ve işlemleri yerine getirir.
