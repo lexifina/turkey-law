@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "162",
+  "decision_date": "2019-10-24",
+  "source_id": 30621,
+  "chamber": "8",
+  "ilam_number": "233",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30621/",
+  "source_sha256": "d1ad09b8375af2c4c23058f28ba34881bc5442eefdd0854c3ffcbb7b26ad5ca6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
