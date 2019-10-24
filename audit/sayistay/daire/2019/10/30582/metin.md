@@ -1,0 +1,5 @@
+Götürü bedel üzerinden ihale edilen (6) ay süreli Taşıt Kira Hizmet Alımında yükleniciye yapılacak ödemelerin aylık 30 gün üzerinden hesaplanması gerekirken gün sayısı 31 olan aylarda 31 gün üzerinden hesaplanması.
+
+İdarenin hizmetinde kullanılmak üzere … Ltd. Şti. 'den temin edilen binek taşıt kiralanması hizmet alımı işine ait hakedişlerin incelenmesi sonucunda, firmayla idare arasında yapılan 01.06.2018 tarihli sözleşmenin "Sözleşmenin türü ve Bedeli” başlıklı 5 inci maddesine göre günlük … TL olmak üzere aylık (30) gün üzerinden KDV hariç hesaplanması gereken aylık tutarın yüklenicinin bir ayda yaptığı işin bedelinin gün üzerinden hesaplanması sonucu (31) gün olan aylarda (l) günlük bedelin fazla ödendiği görülmüşse de, … TL kamu zararının … Muhasebe İşlem Fişiyle tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
