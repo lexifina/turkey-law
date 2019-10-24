@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "396",
+  "decision_date": "2019-10-24",
+  "source_id": 30585,
+  "chamber": "5",
+  "ilam_number": "347",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30585/",
+  "source_sha256": "3c2b1e41a934d09cef16810ca54f72d7d04b6e23266bdc2a5c11d3e1e7d839ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
