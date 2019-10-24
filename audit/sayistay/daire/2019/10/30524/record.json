@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "168",
+  "decision_date": "2019-10-24",
+  "source_id": 30524,
+  "chamber": "8",
+  "ilam_number": "6",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30524/",
+  "source_sha256": "884d505d4f4447071792283d491613e5ed34c60994eddc00184394531d9b27c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
