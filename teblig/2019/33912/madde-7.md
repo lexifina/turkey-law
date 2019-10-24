@@ -1,0 +1,3 @@
+Karar ve işlemler
+MADDE 7 – (1) Anılan başvuru sonrası yapılan incelemeler sonucunda Güney Kore ve Makedonya menşeli/çıkışlı, 8302.10 GTP’de tanımlı “menteşeler (sivil hava taşıtlarında kullanılanlar hariç; 8302.10.00.00.12 pozisyonunda yer alan nakil vasıtalarına mahsus olanlar hariç)”, 8302.50.00.00.00 GTİP’de tanımlı “sabit askılıklar, şapka askıları, dirsekler, benzeri eşya” ve 8302.42.00.00.00 GTİP’de tanımlı “diğerleri, mobilyalar için olanlar (sivil hava taşıtlarında kullanılanlar ve koltuk amortisörleri hariç)” için İthalatta Haksız Rekabeti Değerlendirme Kurulunca, Yönetmeliğin 38 inci maddesi çerçevesinde önlemlerin etkisiz kılınmasına karşı soruşturma açılmasına karar verilmiştir.
+(2) Soruşturma, Genel Müdürlük tarafından yürütülecektir.

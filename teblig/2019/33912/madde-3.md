@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Ticaret Bakanlığını,
+b) ÇHC: Çin Halk Cumhuriyeti’ni,
+c) Endonezya: Endonezya Cumhuriyeti’ni,
+ç) Genel Müdürlük: Bakanlık İthalat Genel Müdürlüğünü,
+d) GTP: Gümrük tarife pozisyonunu,
+e) GTİP: Gümrük tarife istatistik pozisyonunu,
+f) Güney Kore: Kore Cumhuriyeti’ni,
+g) Hindistan: Hindistan Cumhuriyeti’ni,
+ğ) İspanya: İspanya Krallığı’nı,
+h) İtalya: İtalya Cumhuriyeti’ni,
+ı) Kanun: 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanunu,
+i) Karar: 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Kararı,
+j) KEP: Kayıtlı elektronik posta adresini,
+k) Makedonya: Kuzey Makedonya Cumhuriyeti’ni,
+l) Tayland: Tayland Krallığı’nı,
+m) Tayvan: Çin Tayvanı’nı,
+n) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+o) TÜİK: Türkiye İstatistik Kurumunu,
+ö) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+ifade eder.

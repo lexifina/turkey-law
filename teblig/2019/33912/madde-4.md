@@ -1,0 +1,3 @@
+Soruşturma konusu eşya
+MADDE 4 – (1) Soruşturma konusu eşya, 8302.10 GTP’de tanımlı “menteşeler (sivil hava taşıtlarında kullanılanlar hariç; 8302.10.00.00.12 pozisyonunda yer alan nakil vasıtalarına mahsus olanlar hariç)”, 8302.50.00.00.00 GTİP’de tanımlı “sabit askılıklar, şapka askıları, dirsekler, benzeri eşya” ve 8302.42.00.00.00 GTİP’de tanımlı “diğerleri, mobilyalar için olanlar (sivil hava taşıtlarında kullanılanlar ve koltuk amortisörleri hariç)”dır.
+(2) Soruşturma konusu eşyanın TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
