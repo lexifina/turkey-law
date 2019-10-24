@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7188",
+  "year": 2019,
+  "title": "Ceza Muhakemesi Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-10-24",
+  "gazette_issue": "30928",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191024-25.htm",
+  "source_sha256": "4c375d47f1d9fedff1bd9bcc3cd083eeed397864433fa7f658bee897571cfd87",
+  "text_sha256": "d5f39f8e8a8176804418ec2fe4a48e1a017cb78e45d5a687bda9a9adb500f010",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/10/24/30928-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191024-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
