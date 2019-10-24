@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Tayland Krallığı menşeli 7019.11, 7019.12, 7019.19, 7019.31, 7019.90.00.10.00 ve 7019.90.00.30.00 gümrük tarife pozisyonları (GTP) altında yer alan “cam elyafı takviye malzemeleri (boru ve tüplerin izolasyonuna mahsus kokiller ve mahfazalar hariç; taşlama ve kesici disklerde kullanılan delikli disk şeklindeki cam dokuma hariç)” tanımlı eşyanın ithalatında resen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
