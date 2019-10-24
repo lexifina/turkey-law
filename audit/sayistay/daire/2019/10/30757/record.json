@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "394",
+  "decision_date": "2019-10-24",
+  "source_id": 30757,
+  "chamber": "5",
+  "ilam_number": "25",
+  "item_number": 13,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30757/",
+  "source_sha256": "6e1623410887cdc0395c3ab99c0445dd80f3de98aa82f87f5bd48e329a15ee17",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
