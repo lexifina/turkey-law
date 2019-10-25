@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-140[57-2019/11]-E.52665",
+  "source_id": 35585,
+  "date": "2019-10-25",
+  "title": "Yapının yıkılarak olusturulan yeni yapıda, maliğe tesis edilmiş olan bağımsız bölümün, Düzenlenme Şeklinde Taşınmaz Satış Vaadi ve Arsa Payı Karşılığı İnşaat Sözleşmesi kapsamında işi yüklenen müteahhite temliği sonrasında ilk satışında harç istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35585",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d45f8b59e2065ae97b0a4c5e534d82e21b54842a0cb32e035a415f908e6670b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
