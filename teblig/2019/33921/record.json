@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.33921",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2019/18)",
+  "number": "33921",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2019/33921",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33921&MevzuatTertip=5",
+  "source_sha256": "dbea6a84f5c9072ae4046cf1bd9b5bddd96da5f50f8cb9fa4290b68760136a47",
+  "source_bytes": 10024,
+  "published": "2019-10-25",
+  "gazette": "30929 Mükerrer",
+  "in_force": "2019-10-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.10.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.33921-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
