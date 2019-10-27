@@ -1,0 +1,3 @@
+Hastane İdari Müdürü
+MADDE 13 – (1) Hastane İdari Müdürü; sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olup en az on yıllık kamu hizmeti tecrübesi olan ya da sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan ve/veya hastane yönetim hizmetlerinde beş yıl deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Dekanın önerisi ile Rektör tarafından görevlendirilir.
+(2) Hastane İdari Müdürünün görev ve sorumlulukları Merkez Müdürünün görev ve sorumluluk alanları ile sınırlı olup Hastane İdari Müdürü, Merkez Müdürü tarafından belirlenen usul ve esaslara göre çalışmak ve verilen görevleri yapmakla yükümlüdür.

@@ -1,0 +1,5 @@
+Merkez Müdürü (Hastane Başhekimi)
+MADDE 8 – (1) Merkez Müdürü (Hastane Başhekimi), Fakültede çalışan öğretim üyeleri arasından Dekanın önerisi üzerine Rektör tarafından 3 yıllığına görevlendirilir. Süresi biten Merkez Müdürü, aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle değiştirilebilir.
+(2) Dekanın görevi sona erdiğinde Merkez Müdürünün görevi de sona erer.
+(3) Merkez Müdür Yardımcısı; Merkez Müdürünün önerisi üzerine Fakültede devamlı statüde görev yapan öğretim üyeleri arasından; gerek görüldüğü hallerde Üniversitenin diğer fakültelerinin öğretim üyeleri arasından veya öğretim üyesi olmayıp istenen teknik/akademik özellikleri taşıyan diş hekimleri arasından en fazla 2 (iki) kişi Rektör tarafından 3 yıl için Merkez Müdür Yardımcısı olarak görevlendirilir. Merkez Müdürünün görevinin sona ermesi halinde Merkez müdür yardımcılarının da görevi sona erer. Rektör gerekli gördüğü hallerde Merkez Müdürünü ve Merkez müdür yardımcılarını süresinden önce değiştirebilir.
+(4) Merkez Müdürü (Hastane Başhekimi) merkez idari hizmetler, sağlık hizmetleri ve eğitim hizmetlerinin koordineli bir şekilde yürütülmesinden Dekana karşı sorumludur.
