@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-180[28]-24106",
+  "source_id": 36712,
+  "date": "2019-10-28",
+  "title": "Bankaya ait üye iş yeri pos cihazları üzerinden diğer banka kartları ile yapılan harcamalardan elde edilen komisyon gelirlerinde BSMV matrahı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36712",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b4030ff73d78a9bad7efeb2a6dece2fec76cca0be53709afc20734b9a2d28fd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
