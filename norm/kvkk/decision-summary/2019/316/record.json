@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/316",
+  "source_id": 6876,
+  "date": "2019-10-30",
+  "title": "“Bilimsel amaçlarla kayıt altına alınan bilimsel veri niteliğindeki kan, serum ve doku örneklerinin ihmal sonucu bozulması ve sonrasında imha edilmesi hakkındaki ihbar”a ilişkin Kişisel Verileri Koruma Kurulunun 30/10/2019 tarihli ve 2019/316 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6876/2019-316",
+  "source_sha256": "678fcb11588f905fff027d8b665fbcf196beff6cebd71018182335a7fae5ccbe",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
