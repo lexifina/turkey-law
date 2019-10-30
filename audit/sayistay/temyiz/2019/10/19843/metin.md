@@ -1,0 +1,5 @@
+Mal alım ihalesinde; lambri kaplamanın teknik şartnamede belirtilenden eksik metrajda teslim alınması:
+
+167 sayılı İlamın 9. maddesinin (A) bendiyle verilen … TL’nin tazminine dair hükümde Muayene ve Kabul Komisyonu Başkanı sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 41304 sayılı dosya, 30.10.2019 tarih ve 46783 tutanak sayılı Temyiz Kurulu Kararı (karar düzeltilmesi) ile; belirtilen tüm hususları karşılayacak şekilde tekrar değerlendirme yapılmasını (gerekirse yeniden bir bilirkişi heyeti görevlendirilmesini) ve bu değerlendirmeye göre kamu zararı olduğu kanaatine varılırsa tutarının hesaplanmasını teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Muayene ve Kabul Komisyonu Üyesi sıfatıyla temyiz talep eden Okutman …’yu) ilgilendiren ve aynı mahiyette olan 41305 sayılı işbu dosyanın da sözü edilen (41304 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 30.10.2019 tarih ve 46784 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
