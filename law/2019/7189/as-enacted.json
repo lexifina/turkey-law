@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7189",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve İktisadi İşbirliği ve Kalkınma Teşkilatı Arasında OECD İstanbul Merkezi Kurulmasına İlişkin Mutabakat Zaptının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-10-30",
+  "gazette_issue": "30933",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191030-1.htm",
+  "source_sha256": "905dbcacae08d7f6c3827617998e11fa2807e2612e9ad99ad416f52b49a9bea0",
+  "text_sha256": "12ba2dafd4a81f26b4824b2b0475df6285c70339feaadcc85afca55546144dbc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/10/30/30933-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/10/20191030-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
