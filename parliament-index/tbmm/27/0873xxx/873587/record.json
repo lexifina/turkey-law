@@ -1,0 +1,77 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 873587,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "FATMA AKSAL (EDİRNE)",
+  "summary": "Ve Kayseri Milletvekili İsmail Emrah Karayel ile 40 Milletvekilinin Su Ürünleri Kanununda Değişiklik Yapılmasına Dair (2/2214) (S. Sayısı: 106)",
+  "title": "Ve Kayseri Milletvekili İsmail Emrah Karayel ile 40 Milletvekilinin Su Ürünleri Kanununda Değişiklik Yapılmasına Dair (2/2214) (S. Sayısı: 106)",
+  "first_sitting_date": "2019-10-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 21,
+      "sitting": 11,
+      "sitting_date": "2019-10-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021fih.pdf",
+      "pages": [
+        "110:132"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 21,
+      "sitting": 12,
+      "sitting_date": "2019-10-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021fih.pdf",
+      "pages": [
+        "215:220",
+        "221:225",
+        "230:237",
+        "237:240",
+        "243",
+        "244:248",
+        "250:259",
+        "262",
+        "264:275",
+        "276:286",
+        "288",
+        "289:308"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 21,
+      "sitting": 13,
+      "sitting_date": "2019-11-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c021/tbmm27021fih.pdf",
+      "pages": [
+        "396:412",
+        "413:416",
+        "418",
+        "421:428",
+        "429:443",
+        "443:455"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-10-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
