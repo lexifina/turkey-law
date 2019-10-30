@@ -1,0 +1,5 @@
+Mal alım ihalesinde; havalandırma kanallarının teknik şartnamede belirtilenden eksik metrajda teslim alınması:
+
+341 sayılı Ek İlamın 3. maddesiyle verilen … TL’nin tazminine dair hükümde Muayene Kabul Komisyonu Üyesi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 44546 sayılı dosya, 30.10.2019 tarih ve 46780 tutanak sayılı Temyiz Kurulu Kararı ile; belirtilen tüm hususları karşılayacak şekilde tekrar değerlendirme yapılmasını (gerekirse yeniden bir bilirkişi heyeti görevlendirilmesini) ve bu değerlendirmeye göre kamu zararı olduğu kanaatine varılırsa tutarının (KDV eklenerek yeniden) hesaplanmasını teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Muayene ve Kabul Komisyonu Başkanı sıfatıyla temyiz talep eden …’ı) ilgilendiren ve aynı mahiyette olan 44544 sayılı işbu dosyanın da sözü edilen (44546 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 30.10.2019 tarih ve 46781 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
