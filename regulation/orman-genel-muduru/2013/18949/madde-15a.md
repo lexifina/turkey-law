@@ -1,0 +1,29 @@
+Giriş sınavının duyurusu, başvuru şartları, başvuru işlemleri, başvuruların değerlendirilmesi ve yapılış şekli (Değişik başlık:RG-31/10/2019-30934)
+MADDE 15/A – (Ek:RG-5/9/2014-29110)
+(1) (Mülga:RG-31/10/2019-30934)
+(2) (Değişik:RG-31/10/2019-30934) Giriş Sınavına katılma şartları, sınavın şekli, sınav tarihi ve yeri, KPSSP3 asgari puanı, başvuru yeri ve tarihi, başvuru şekli, başvuruda istenecek belgeler, başvuru evrakının temin edileceği yerler, sınav konuları, atama yapılması planlanan kadro sayısı, sınıfı ve dereceleri ve gerekli görülen diğer hususlar müracaat süresinin bitiminden en az 30 gün önce Resmî Gazete’de ve Orman Genel Müdürlüğü internet sitesinde ilan olunur.
+(3) Giriş Sınavına katılmak isteyenlerin;
+a) 657 sayılı Devlet Memurları Kanununun 48 inci maddesinde belirtilen genel şartları,
+b) Fakültelerin veya denkliği Yükseköğretim Kurulunca onaylanmış yurt içi veya yurt dışındaki yükseköğretim kurumlarının Genel Müdürlüğün ihtiyacına göre giriş sınavı duyurusunda belirtilen mühendislik bölümlerinden mezun olmak şartını,
+c) Son başvuru tarihi itibariyle geçerlilik süresi dolmamış KPSSP3 puan türünden, Giriş Sınavı ilanında belirtilmiş olan asgari puanı almış olma şartını,
+taşımaları gerekir.
+(4) (Değişik:RG-31/10/2019-30934) Giriş Sınavı başvurusu, şahsen veya posta yoluyla ilanda belirtilen adrese ya da ilanda belirtildiği takdirde internet üzerinden yapılabilir. Başvuru şekilleri sınav ilanında belirtilir. Postadaki gecikmeler ve ilanda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz. Bu Yönetmelikte yer verilen Giriş Sınavına ilişkin iş ve işlemler Personel Dairesi Başkanlığınca yerine getirilir.
+(5) (Değişik:RG-31/10/2019-30934) Personel Dairesi Başkanlığınca, sınav için öngörülen süre içerisinde yapılan başvurular incelenerek adayların aranan şartları taşıyıp taşımadıkları tespit edilir. İstenilen şartlardan herhangi birini taşımadığı tespit edilen başvurular değerlendirmeye alınmaz. Aranılan şartları taşıyan adaylar, ilanda belirtilen KPSSP3 puan türünden en yüksek puanı alan adaydan başlamak ve atama yapılması planlanan kadro sayısının dört katını geçmemek üzere bir sıralamaya tabi tutulur. KPSSP3 puan türü itibarıyla en son adayın aldığı puanla aynı puana sahip adaylar da Giriş Sınavına çağrılır. Sıralamaya giren adayların ad ve soyadları ile sınav yerleri Giriş Sınavından en az on gün önce Genel Müdürlük internet sitesinde ilan edilmek suretiyle duyurulur. Ayrıca adaylara yazılı bildirimde bulunulmaz.
+(6) (Mülga:RG-31/10/2019-30934)
+(7) (Mülga:RG-31/10/2019-30934)
+(8) (Değişik:RG-31/10/2019-30934) Giriş sınavına çağrılan adaylar, Sınav Komisyonu tarafından;
+a) Genel kültür,
+b) Orman yangınlarına müdahale yöntemlerine yönelik uygulamalar yaptırılması,
+c) Amenajman planı ve harita okuma bilgisine yönelik uygulamalar yaptırılması, ormanların yasadışı faaliyetlerden korunması yöntemlerine yönelik uygulamalar yaptırılması, orman sağlığını tehdit eden zararlı organizmalar ve bunların meydana getirdiği zararlar ile mücadele yöntemlerine ilişkin uygulamalar yaptırılması,
+ç) Fidan üretimi, dikimi, bakımı ve silvikültür tekniklerine yönelik uygulamalar yaptırılması,
+d) Ağaçların kesilmesi, kesilmiş ağaçlardan en yüksek değerdeki ürün kompozisyonunu elde etmeye yönelik boylama ve mesaha işlemlerine ilişkin uygulamalar yaptırılması,
+hususları esas alınarak giriş sınavına tabi tutulur. Giriş sınavı; giriş sınavının sözlü bölümünü içeren (a) bendi on puan, uygulamalı bölümü için doksan puan olmak üzere toplam yüz puan üzerinden değerlendirilir. Sınav komisyonunun her bir üyesi tarafından verilen puanlar ayrı ayrı tutanağa geçirilir ve üyelerin yüz tam puan üzerinden verdikleri notların aritmetik ortalaması alınarak adayların giriş sınav puanı tespit edilir. Giriş sınavında yüz üzerinden en az yetmiş puan alanlar başarılı sayılır.
+(9) (Mülga:RG-31/10/2019-30934)
+(10) (Değişik:RG-31/10/2019-30934) Başarı sırası;
+a) Genel Müdürlükçe yapılan giriş sınavında başarılı olan adayların KPSSP3 puanı ile giriş sınav puanının aritmetik ortalaması alındıktan sonra en yüksek puan alandan başlamak üzere nihai başarı listesi hazırlanır. Bu sıralamaya tabi tutulanların nihai puanlarının eşit olması halinde KPSSP3’ü yüksek olana öncelik tanınır. Ayrıca sınav ilanında belirtilen kadro sayısı kadar yedek liste belirlenerek ilan edilebilir.
+(11) Sınavlara katılanlar sınav sonuçlarının Genel Müdürlük internet sitesinde ilan edildiği tarihten itibaren beş iş günü içinde Sınav Kuruluna itiraz edebilirler. İtirazlar Sınav Kurulu tarafından beş iş günü içinde karara bağlanır ve ilgililere yazılı olarak bildirilir.
+(12) (Mülga:RG-31/10/2019-30934)
+(13) Giriş Sınavında yetmiş ve üzerinde puan almış olmak, sıralamaya giremeyen adaylar için müktesep hak teşkil etmez. Sınavda başarılı olanların sayısı ilan edilen kadro sayısından daha az ise sadece başarılı olanlar sınavı kazanmış kabul edilir. Yedek listede yer almak, adaylar için daha sonraki sınavlar için kazanılmış hak veya herhangi bir öncelik hakkı teşkil etmez. Yedek listenin geçerlilik süresi altı aydır.
+(14) Sınavı kazananlardan gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılarak atamaları yapılmaz. Ataması yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talebinde bulunamazlar.
+(15) Sınavı kazananlardan ataması yapılıp da belge ile ispatı mümkün zorlayıcı sebepler olmaksızın 657 sayılı Devlet Memurları Kanununun 62 nci maddesinde belirlenen kanuni süre içerisinde göreve başlamayanların atamaları iptal edilir. Tekrar atanmaları için başvurmaları halinde bunların atamaları yapılmaz.
+(16) Ataması yapılanların sınavla ilgili belgeleri, ilgililerin özlük dosyalarında; başarısız olanlar ile başarılı olduğu halde herhangi bir nedenle atanamayanların sınav belgeleri ise dava açma süresinden az olmamak kaydıyla bir sonraki sınava kadar Personel Dairesi Başkanlığınca saklanır.
