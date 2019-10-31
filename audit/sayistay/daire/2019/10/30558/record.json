@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "366",
+  "decision_date": "2019-10-31",
+  "source_id": 30558,
+  "chamber": "7",
+  "ilam_number": "15",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30558/",
+  "source_sha256": "964eceaa39d81f728db79a6592768c51a0d5849f0c2cdb4fe87dfe6603117ced",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
