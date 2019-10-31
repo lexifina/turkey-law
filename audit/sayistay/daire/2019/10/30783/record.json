@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "694",
+  "decision_date": "2019-10-31",
+  "source_id": 30783,
+  "chamber": "6",
+  "ilam_number": "28",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30783/",
+  "source_sha256": "355d7e32d484bb4e82a79f61e6631ddd981f6f56cf65f610ebc6e8a6a9639ac5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
