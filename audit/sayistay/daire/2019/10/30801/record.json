@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "694",
+  "decision_date": "2019-10-31",
+  "source_id": 30801,
+  "chamber": "6",
+  "ilam_number": "28",
+  "item_number": 19,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30801/",
+  "source_sha256": "4432da34a66ec7b57ca4a97e41857153669547cffb37577a695a37a70d87aece",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
