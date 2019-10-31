@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-120/2019-10",
+  "source_id": 721,
+  "date": "2019-10-31",
+  "title": "Elektronik Defterlerin Oluşturulma ve İmzalanma Süresi ile Elektronik Defter Beratlarının Yüklenme Süresi Uzatılmıştır.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/721",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "c2a917c4bf1e64320256b2a2cacfeb1a03dbb5b13a7a24160165a573a0223f40",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
