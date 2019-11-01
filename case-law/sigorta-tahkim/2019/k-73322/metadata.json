@@ -1,0 +1,22 @@
+{
+  "number": "K-2019/73322",
+  "award_date": "2019-11-01",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs40.pdf",
+  "source_sha256": "cc772f3f1a9ec595793408cf3946c2d7fc05b39ff804d9ed7174ddc7d1c39ca8",
+  "text_status": "as-published",
+  "source_images": 1,
+  "images_status": "complete",
+  "missing_components": [],
+  "images": [
+    {
+      "sha256": "78d2599d2942eba952e51cafc52f2eb0a34ba10366aae2ce56fa34874e3cbc1d",
+      "caption": "",
+      "ext": "png",
+      "media_type": "image/png",
+      "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs40.pdf#page=56",
+      "source_ref": "Official PDF p. 56, xref 240",
+      "file": "case-law/sigorta-tahkim/2019/k-73322/assets/78d2599d2942eba952e51cafc52f2eb0a34ba10366aae2ce56fa34874e3cbc1d.png"
+    }
+  ],
+  "images_omitted": []
+}
