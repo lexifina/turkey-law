@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/21208",
+  "submitted": "2019-11-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Bayram YILMAZKAYA",
+  "province": "Gaziantep",
+  "summary": "Gaziantep şehir merkezinde yıkılan Kamil Ocak Stadının yerine yapılacak olan millet bahçesi projesine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-e32e-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "f8d720093288bf1f7590d94dc40ed3c785faf017e372013f8f671678e552b7ce",
+  "in_force": "2019-11-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
