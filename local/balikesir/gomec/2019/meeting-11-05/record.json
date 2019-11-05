@@ -1,0 +1,26 @@
+{
+  "number": "meeting-11-05",
+  "number_as_published": "meeting-11-05",
+  "year": 2019,
+  "title": "05 Kasım 2019 Tarihli Gömeç Belediyesi Meclis Kararları Özetleri",
+  "decision_date": "2019-11-05",
+  "source": "https://gomec.bel.tr/wp-json/wp/v2/posts?categories=6&per_page=100&page=1&_fields=id,date,link,title",
+  "official_document": "https://gomec.bel.tr/05-kasim-2019-tarihli-gomec-belediyesi-meclis-kararlari-ozetleri/",
+  "source_sha256": "380dba87591d1e1952c799b0d8dc41424bcc427bec6d8cc0eb14822cf56871dd",
+  "issuer": "Gömeç Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-11-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 KASIM 2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 Kasım 2019 Tarihli Gömeç Belediyesi Meclis Kararları Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "post_date": "2019-11-05T16:27:00",
+  "official_page": "https://gomec.bel.tr/05-kasim-2019-tarihli-gomec-belediyesi-meclis-kararlari-ozetleri/",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
