@@ -1,0 +1,3 @@
+İlan
+MADDE 6 – (1) Ödül vaadiyle aranan terör suçlularına ilişkin bilgiler ve fotoğrafları ile aydınlatılacak suça ilişkin gerekli görülen bilgiler ve yardımcı olanlara verilebilecek azami ödül miktarları her türlü iletişim aracı ve internet/dijital ortamda yayımlanabilir. İlanların yayımlanması ve yayımdan kaldırılmasına yönelik işlemler Ödül Komisyonunca belirlenen usulle yerine getirilir.
+(2) Ödül vaadiyle aranan terör suçluları, terör örgütündeki hiyerarşik konumları ve/veya yaptıkları eylemin sonuçlarının ağırlığına göre Ödül Komisyonunca gruplandırılarak ve her bir grupta yer alanlara verilebilecek azami ödül miktarı belirtilmek suretiyle ilan edilebilir.

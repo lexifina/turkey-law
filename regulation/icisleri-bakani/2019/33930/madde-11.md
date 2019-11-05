@@ -1,0 +1,2 @@
+Suç failinin yurt dışında yakalanması
+MADDE 11 – (1) Aranan suç failinin yurt dışında yakalanması/ele geçirilmesi halinde ödüllendirme işlemlerinin başlatılabilmesi için, yakalanmaya/ele geçirilmeye esas bilginin yardımcı olan tarafından Türkiye Cumhuriyeti yetkili makamlarına iletilmiş olması ve failin bu bilgiye istinaden yakalandığı/ele geçirildiği ülkeden Türkiye’ye teslimi ya da geri gönderilmesi şartı aranır.
