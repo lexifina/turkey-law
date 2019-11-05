@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10766",
+  "decision_date": "2019-11-05",
+  "source_id": 30970,
+  "chamber": "1",
+  "ilam_number": "49",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30970/",
+  "source_sha256": "1874b8c1bd8a6efb2b29f753876522f3fa19f32e7c3658257cd6cfdf8a4837f2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
