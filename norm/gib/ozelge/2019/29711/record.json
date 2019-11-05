@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64950229-105[2018-026]-54415",
+  "source_id": 29711,
+  "date": "2019-11-05",
+  "title": "Spor kulübü derneği adına yapılan bağışların pos cihazı aracılığı ile tahsilinde belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29711",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "72c5b177a879b8f3b1320cffc9cfaa3caa5dfd3e6597be6da1f0915d2d86feed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
