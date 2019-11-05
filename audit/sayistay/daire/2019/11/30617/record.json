@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35599",
+  "decision_date": "2019-11-05",
+  "source_id": 30617,
+  "chamber": "2",
+  "ilam_number": "13",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30617/",
+  "source_sha256": "72f1815eea3607ebf772af8c9e387e91f2c8629ff93305ff7ac8f2e00bb2b842",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
