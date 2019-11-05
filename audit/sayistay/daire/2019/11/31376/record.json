@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "399",
+  "decision_date": "2019-11-05",
+  "source_id": 31376,
+  "chamber": "5",
+  "ilam_number": "87",
+  "item_number": 37,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31376/",
+  "source_sha256": "50ad5c7c56b5268dc0a99d09f4773b99886902f089ef4c77f0141759f0897bb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
