@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10761",
+  "decision_date": "2019-11-05",
+  "source_id": 30832,
+  "chamber": "1",
+  "ilam_number": "238",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30832/",
+  "source_sha256": "887d71bef160a7705b1993fd3ab71506960e70d051678b3810aea165cca32522",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
