@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97338759-105[2019-VUK-02]-78128",
+  "source_id": 23698,
+  "date": "2019-11-05",
+  "title": "Dönem sonu kullanılmayan sarf malzemelerinin serbest meslek kazancında gider kaydı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23698",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "1d15f85b7ab2de5da89554d7636e228188a1013d96fa478c3ec8a1432ec3cf58",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
