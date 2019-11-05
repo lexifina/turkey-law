@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "88409335-120-18937",
+  "source_id": 21097,
+  "date": "2019-11-05",
+  "title": "Mahalli sanatçılara yapılan ödemelerden tevkifat ve belge düzeni.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21097",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "524ee556c381da46a8e07f6f7d6dc21cb468cf68b65d75a69914071fafbcc845",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
