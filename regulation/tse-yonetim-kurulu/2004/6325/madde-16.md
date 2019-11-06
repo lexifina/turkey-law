@@ -1,0 +1,6 @@
+Teknik Kurulun Çalışma Usulleri
+Madde 16 - Teknik Kurulun çalışmaları Enstitü Başkanı veya gerektiğinde Başkan Yardımcısı veya görevlendirilen tarafından yürütülür.
+(Mülga fıkra:RG-7/3/2013-28580)
+Kurul çalışmalarında varılacak sonuç veya kararların özetleri, görevlendirilecek personel tarafından Teknik Kurul Tutanağına yazılır.
+Teknik Kurul toplantılarına, Genel Sekreter ve TSE Başkanının lüzum gördüğü TSE personeli oy sahibi olmaksızın katılabilir. Gündemdeki maddelere göre (Değişik ibare:RG-7/3/2013-28580) Teknik Komite, raportörlerini de birlikte getirebilirler. Teknik Kurul toplantılarına, gerekirse standard tasarılarını hazırlayan (Değişik ibare:RG-7/3/2013-28580) Teknik Komite ve Çalışma Grubu Başkan, üye ve raportörleri ile dışarıdan danışmanlar çağırılabilir ve kendilerinden açıklama ve görüşlerini bildirmeleri istenebilir.
+Teknik Kurul Kararları, toplantıya katılanların üçte iki çoğunluğu ile verilir ve kararlar kesindir. Oylamada çekimser kalınamaz oylamalarda karar için gerekli üçte iki çoğunluk sağlanamadığı takdirde, konu yeniden incelenmek ve daha sonra gündeme getirilmek üzere geri çevrilir. Tutanağa yazılan kararlar; Enstitü Başkanı ve Genel Sekreter tarafından imzalanır ve saklanır.

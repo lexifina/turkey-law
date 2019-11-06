@@ -1,0 +1,3 @@
+Yönetim Kurulunun Toplanması
+Madde 18- Yönetim Kurulunu, Başkan, bulunmaması halinde Başkan Yardımcısı toplantıya çağırır. Yönetim Kurulu toplantı yeter sayısı en az üç olup bu takdirde karar yeter sayısı ikidir. Yönetim Kurulu 4 veya 5 kişiyle toplandığı takdirde, kararlar katılanların çoğunluğu ile alınır. Oylarda eşitlik olursa, Başkanın bulunduğu tarafın kararı uygulanır. Alınan kararlar, toplantıya katılan Başkan ve üyeler tarafından imzalanıp, tarih ve numara sırasıyla saklanır.
+Yönetim Kurulu her ay en az bir defa toplanır. (Ek cümle:RG-13/9/2013-28764) Yönetim Kurulu toplantıları, Enstitü merkezinde veya Yönetim Kurulu Başkanının uygun görmesi durumunda Enstitü merkezi dışında bir yerde veya elektronik ortamda da yapılabilir.

@@ -1,0 +1,2 @@
+Teknik Sorumluluk
+Madde 46 – (Değişik ibare:RG-7/3/2013-28580) Standartlarda/standart dışı konularda teknik hata yapılır ve bunların uygulanmasında zararlı sonuçlar ortaya çıkarsa; bunlardan birinci derecede (Değişik ibare:RG-7/3/2013-28580) standartları/standart dışı konuları hazırlayan Raportörü, Çalışma Grubu, Teknik Komite Başkan ve Üyeleri; ikinci derecede ilgili İhtisas Kurulu Başkan ve üyeleri ve Teknik Kurul, Özel Komite Başkan ve üyeleri, işin niteliğine göre tek başına veya toplu ve zincirleme sorumludurlar.

@@ -1,0 +1,8 @@
+Teknik Kurulun Toplanması
+Madde 13 - Teknik Kurul, TSE Başkanının bulunmaması halinde yardımcısının, onun da bulunmaması halinde TSE Başkanının Teknik Kurul üyeleri arasından görevlendireceği kişinin başkanlığında toplanır.
+Teknik Kurul, yılda en az iki kez olmak üzere ihtiyaca göre Enstitü Başkanının bulunmaması halinde Yardımcısının onun da bulunmaması halinde TSE Başkanının Teknik Kurul üyeleri arasından görevlendireceği kişinin başkanlığında (Değişik ibare:RG-7/3/2013-28580) yazılı davet ve internetten yapılacak duyuru ya da üyelerin elektronik posta adresine gönderilecek yazı ile toplantıya çağrılır.
+Davet, toplantı tarihinden en az 10 gün önce üyelere posta ile gönderilmek veya elden teslim edilmek (Ek ibare:RG-7/3/2013-28580) ve internette yayınlanmak ya da elektronik posta adresine yazı gönderilmek suretiyle yapılır. Davet yazısına gündem ve görüşülecek standard tasarılarının birer nüshası ve gerekli diğer belge ve dökümanlar eklenir. Zaruret halinde Teknik Kurul Başkanının tasvibi ve Teknik Kurulun kabulü ile gündeme madde ilave edilebilir.
+Teknik Kurul, üye tamsayısının çoğunluğu ile toplanır.
+İhtisas Kurulu başkanlarının özürü halinde Teknik Kurula yardımcıları katılabilir.
+Bir kişide iki üyelik sıfatının birleşmesi halinde iki oy kullanılamaz.
+(Değişik fıkra:RG-7/3/2013-28580) Genel Kurulda birden fazla üye bulunduran kurumlardan Teknik Kurula seçilen üyeler, özürsüz olarak üst üste üç toplantıya katılmadıkları takdirde, bu durum Enstitü Başkanınca yazılı olarak ilgiliye bildirilir. Dördüncü toplantıya gelmeyenler çekilmiş sayılır ve yerlerine yedek üye çağrılır. Yedek üyeler, asıl üyelerin süresini tamamlar.
