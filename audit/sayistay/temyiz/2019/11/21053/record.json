@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46792",
+  "decision_date": "2019-11-06",
+  "source_id": 21053,
+  "chamber": "8",
+  "file_number": "42544",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2015",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21053/",
+  "source_sha256": "c9d6ef8fc71f642294b9eb17648b12d2f166abc11f031075c299d8202735fc1a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
