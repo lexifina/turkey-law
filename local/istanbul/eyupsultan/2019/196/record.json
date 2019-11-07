@@ -1,0 +1,22 @@
+{
+  "number": "196",
+  "number_as_published": "2019/196",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-11-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-kasim-ayi-meclis-kararlari/1684",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-196/1685",
+  "source_sha256": "998837e7350277bda647749584eb7c5b2291d49e59ff09faa80d3e2b34e69eab",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "f1a8b61d9b3f1e12c51dce45ebdd6b35d1d8d99af09e7de0eb7d99882cc8071c"
+}
