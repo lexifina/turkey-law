@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33932",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜ SU YAPILARI KORUYUCU GÜVENLİK TEDBİRLERİ YÖNETMELİĞİ",
+  "number": "33932",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "issuer_slug": "devlet-su-isleri-genel-muduru",
+  "path": "regulation/devlet-su-isleri-genel-muduru/2019/33932",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33932&MevzuatTertip=5",
+  "source_sha256": "a1721708fbc57c3f0c0467b7d25cea2dbf0638e88196862ea0d6f4c2c5074054",
+  "source_bytes": 38044,
+  "published": "2019-11-07",
+  "gazette": "30941",
+  "in_force": "2019-11-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.11.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2348,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33932-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
