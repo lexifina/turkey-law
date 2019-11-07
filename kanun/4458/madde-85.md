@@ -16,7 +16,6 @@ b) Transit rejimini düzenli olarak kullanan veya gümrük idaresince bu rejime 
 c) Gümrük veya vergi mevzuatını yönetmelikte belirlenen surette ihlal etmemiş olan,
 kişilere verilir.
 4. Güvenilirlik standartlarına sahip oldukları gümrük idaresince belirlenen kişilere indirilmiş tutarda kapsamlı teminat veya teminattan vazgeçme izni verilebilir. İndirilmiş tutarda kapsamlı teminat veya teminattan vazgeçme izni için ayrıca;
-7704-1
 a) Belirli bir sürede transit rejiminin doğru kullanımı,
 b) Gümrük idareleri ile işbirliği,
 c) Anılan kişilerin taahhütlerini yerine getirebilecek mali güce sahip olduklarını kanıtlaması,
@@ -26,3 +25,6 @@ gerekir. Bu fıkra kapsamında verilen izin ile ilgili usul ve esaslar yönetmel
 a) Özel durumlarda istisnai önlem olarak dördüncü fıkra hükümleri doğrultusundaki indirilmiş tutarda kapsamlı teminat uygulamasını,
 b) Büyük ölçekli kaçakçılığa konu olabilecek eşya için kapsamlı teminat uygulamasını,
 geçici olarak kaldırmaya yetkilidir.
+Madde 86[57] – 1. Asıl sorumlu, eşyayı öngörülen süre içerisinde ve gümrük idareleri tarafından eşyanın ayniyetinin tespiti amacıyla alınan önlemlere uymak suretiyle, varış gümrük idaresine sağlam ve noksansız olarak sunmak ve transit rejimine ilişkin hükümlere uymakla yükümlüdür.
+2. Asıl sorumlunun birinci fıkrada belirtilen yükümlülükleri saklı kalmak üzere, transit rejimine göre taşındığını bilerek eşyayı kabul eden taşıyıcı veya alıcı da eşyayı öngörülen süre içerisinde ve gümrük idareleri tarafından eşyanın ayniyetinin tespiti amacıyla alınan tedbirlere uymak suretiyle, varış gümrük idaresine sağlam ve noksansız olarak sunmakla yükümlüdür.
+3. (Ek:24/10/2019-7190/2 md.) 183 ve 184 üncü maddeler kapsamında bir gümrük yükümlülüğü doğduğunda, asıl sorumlu, transit rejimine tabi tutulan eşya ile ilgili olarak gümrük idaresine karşı mali olarak sorumludur. 5607 sayılı Kanun uyarınca gümrük idaresince işlem yapıldığı hâllerde, asıl sorumlunun sorumluluğunun belirlenmesinde fiilin işlenmesinde dahlinin olup olmadığı hususu dikkate alınır.
