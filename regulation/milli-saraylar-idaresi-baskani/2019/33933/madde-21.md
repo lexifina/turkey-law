@@ -1,0 +1,4 @@
+Uzmanlık tezinin hazırlanması
+MADDE 21- (1) Uzman yardımcıları tez konuları ve danışmanlarının kendilerine tebliğ edildiği tarihten itibaren en geç iki ay içerisinde bir tez önerisi hazırlarlar. Tez danışmanları, tez önerilerini görüşleriyle birlikte on gün içerisinde Personel Dairesi Başkanlığına gönderir. Personel Dairesi Başkanlığı tez önerilerini, danışmanın görüşü ile birlikte Sınav Kurulunun onayına sunar. Uygun bulunması halinde bu durum uzman yardımcısına tebliğ edilir. Tez önerisinde; tez konusu olan çalışmanın amacı, önemi, yöntemi, bilgi toplama araçları, muhtemel kaynakçası, çalışma planı ve varsa ekleri hakkında bilgiler verilir.
+(2) Tez hazırlama süresinin son iki ayında uzman yardımcısına tez yazımı ve nihai araştırmaları için imkanlar ölçüsünde kolaylık sağlanır.
+(3) İntihal yapıldığı tespit edilen tez geçersiz sayılır ve ilgili hakkında gerekli yasal işlemler yapılır.

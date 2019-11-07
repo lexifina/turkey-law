@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33933",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ SARAYLAR UZMANLIĞI YÖNETMELİĞİ",
+  "number": "33933",
+  "issuer": "Milli Saraylar İdaresi Başkanı",
+  "issuer_slug": "milli-saraylar-idaresi-baskani",
+  "path": "regulation/milli-saraylar-idaresi-baskani/2019/33933",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33933&MevzuatTertip=5",
+  "source_sha256": "d7cff4d798a824ca8b92de297ff688b1e14dbe6c88bc8e928a0a9594320dc1c9",
+  "source_bytes": 101601,
+  "published": "2019-11-07",
+  "gazette": "30941",
+  "in_force": "2019-11-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.11.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3900,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
