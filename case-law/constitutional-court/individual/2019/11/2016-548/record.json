@@ -1,0 +1,20 @@
+{
+  "applicant": "L.Ö.",
+  "application_date": "2016-01-11",
+  "application_number": "2016/548",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2019-11-07",
+  "id": "5a0bb59e-6a55-0334-0471-46307d9bba0d",
+  "in_force": "2019-11-07",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjVhMGJiNTllLTZhNTUtMDMzNC0wNDcxLTQ2MzA3ZDliYmEwZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f716faf8640f74545f9f2c79fab589dd932949f7af8ea847c4e9a79cab035607",
+  "version_label": "as-enacted"
+}
