@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-1754",
+  "number": "1754",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "SEYİR, HİDROGRAFİ VE OŞİNOGRAFİ HİZMETLERİ YÖNETMELİĞİ",
+  "published": "2019-11-07",
+  "enacted": "2019-11-06",
+  "gazette_number": "30941",
+  "in_force": "2019-11-07",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2019-11-07, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1754&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d8d061b5c3d10aa193f6d6244e909d1657346c592d0c6af4339706a86a89f0c4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

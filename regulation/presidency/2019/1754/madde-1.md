@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; seyir, hidrografi ve oşinografi hizmetlerine yönelik olarak Bakanlığın, Komutanlığın, Kurumun, ilgili bakanlık, üniversite, resmi ve özel kurum ve kuruluşların görev ve sorumlukları ile 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 398 inci maddesi gereği teşkil edilecek Seyir, Hidrografi ve Oşinografi Hizmetleri Plan ve Koordinasyon Kurulunun görevlerini, çalışma usul ve esaslarını, hidrografik, oşinografik, deniz jeofiziği ve jeolojisi veri, bilgi, ürün ve deniz haritalarının yönetimi, arşivlenmesi, yayımlanması, paylaşılması ve bunlara gizlilik derecesi verilmesine ilişkin usul ve esasları belirlemektir.

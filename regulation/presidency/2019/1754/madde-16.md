@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Gizlilik Dereceleri, Bilgilerin Yayın, Dağıtım ve Muhafazası
+Gizlilik dereceleri ve gizlilik derecesi taşıyan bilgilerin yayın, dağıtım ve muhafazası
+MADDE 16- (1) Hidrografik, oşinografik, deniz jeofiziği ve jeolojisi veri, bilgi, ürünleri ile deniz haritalarının “GİZLİLİK” durumları aşağıda belirtilen şekilde sınıflandırılır:
+a) Tasnif dışı: Hiçbir gizlilik derecesi taşımayan düşük çözünürlükteki veri, bilgi, ürün ve deniz haritalarıdır. Tasnif dışı veriler/ürünler hiçbir gizliliği olmayan evrak ve doküman gibi muhafaza edilir. Paylaşılmaları ve yurt dışına çıkarılmaları ilgili mevzuat hükümlerine göre yapılır.
+b) Gizlilik dereceli: Bulundurdukları bilgi itibari ile tasnif dışı kapsamına girmeyen, güvenlik ve ekonomik yönlerden stratejik önemi haiz alanlara ait yüksek çözünürlükte/büyük ölçekte olan veri, bilgi, ürün ve deniz haritalarıdır. Gizlilik dereceli veri, bilgi, ürün ve deniz haritaları kilitli dolaplarda, sayısal ortamda ise şifreli klasörlerde/veri tabanında muhafaza edilir. Gizlilik dereceli veri, bilgi, ürün ve deniz haritalarının talep eden makamlarla paylaşılması ve yurt dışına çıkarılması ilgili mevzuat hükümlerine uygun olarak Bakanlık onayı ile yapılır.
