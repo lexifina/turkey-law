@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.33938",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK ÜRÜNLERİNİN İHRACATININ ARTTIRILMASINA YÖNELİK TEKNİK MEVZUATI HAZIRLAYACAK KURUMLARIN BELİRLENMESİNE İLİŞKİN KARARIN EKİNDE YAPILAN DÜZENLEMENİN DUYURULMASI HAKKINDA TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2019/29)",
+  "number": "33938",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/33938",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33938&MevzuatTertip=5",
+  "source_sha256": "fe184653ed89b85d42294c504bb97add912555c63121ec8f84de824e4c4bc9b7",
+  "source_bytes": 12560,
+  "published": "2019-11-08",
+  "gazette": "30942",
+  "in_force": "2019-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 123,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.33938-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
