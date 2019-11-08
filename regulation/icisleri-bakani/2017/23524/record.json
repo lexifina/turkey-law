@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.23524",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA VE SAHİL GÜVENLİK AKADEMİSİ BAŞKANLIĞI FAKÜLTE VE MESLEK YÜKSEKOKULLARI TEMİN YÖNETMELİĞİ",
+  "number": "23524",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2017/23524",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23524&MevzuatTertip=5",
+  "source_sha256": "4c2dabf25133f81c2bff240b86b8ddd5a657b8a793ebc1f5586188fbbbe37a47",
+  "source_bytes": 75192,
+  "published": "2017-04-20",
+  "gazette": "30044",
+  "in_force": "2019-11-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/11/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-11-08",
+      "RG-8/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-08",
+      "8/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-24",
+      "RG-24/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-24",
+      "24/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2017/04/20170420-5-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
