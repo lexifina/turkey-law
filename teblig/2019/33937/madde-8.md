@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda; NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC ve Vietnam menşeli 3921.90.60.00.11, 3921.90.60.00.13, 3926.90.92.00.19, 3926.90.97.90.18 GTİP’leri altında sınıflandırılan “polietilen ve polipropilenden mamul şerit veya benzerlerinden dokunmuş mensucat (yalnız dokuma brandalar)” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
