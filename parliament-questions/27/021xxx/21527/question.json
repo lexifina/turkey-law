@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/21527",
+  "submitted": "2019-11-08",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Serpil KEMALBAY PEKGÖZEGÜ",
+  "province": "İzmir",
+  "summary": "Tekirdağ Çerkezköy Devlet Hastanesinde çalışan bir işçinin iş yerinde psikolojik taciz nedeniyle intihar ettiği iddiasına ve olaya yönelik idari soruşturmaya ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-2db0-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "6427aa3d69e380bc6e775c3c20d805a7b9891617c9ef33471cd309f76edb0576",
+  "in_force": "2019-11-08",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
