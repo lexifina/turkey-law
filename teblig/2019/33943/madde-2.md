@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; Türk Bayraklı gemi ve su araçlarına sac kalınlık ölçümü ve kamera ile su altı sörveyi hizmeti verecek firmaları ve çalışanlarını kapsar. 18/1/2017 tarihli ve 29952 sayılı Resmî Gazete’de yayımlanan Gemiler İçin Yetkilendirilmiş Kuruluşlar Yönetmeliği kapsamında Yetkilendirilmiş Kuruluşlardan yetki alan firmalara bu Tebliğ kapsamında yeniden yetkilendirme işlemi yapılmaz ancak bu Tebliğ kapsamındaki idari yaptırımlar Türk Bayraklı gemilere hizmet veren firmalara uygulanır.

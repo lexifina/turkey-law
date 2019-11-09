@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.33943",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SAC KALINLIK ÖLÇÜMÜ VE KAMERA İLE SU ALTI SÖRVEYİ YAPACAK FİRMALARIN YETKİLENDİRMELERİNE DAİR TEBLİĞ",
+  "number": "33943",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "path": "teblig/2019/33943",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33943&MevzuatTertip=5",
+  "source_sha256": "6a49af153f164d2ab8f8ea3a0efa31b159807547f2a0f79bdaaa6e0e8bf7456f",
+  "source_bytes": 51855,
+  "published": "2019-11-09",
+  "gazette": "30943",
+  "in_force": "2019-11-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.11.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1716,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.33943-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
