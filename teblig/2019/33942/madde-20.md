@@ -1,0 +1,4 @@
+Uygulama
+MADDE 20 – (1) Gümrük idareleri, 19 uncu maddede yer alan tabloda GTİP, tanım ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamında ithalatında karşılarında gösterilen oranlarda dampinge karşı kesin önlemi uygular.
+(2) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/9) çerçevesinde teminata bağlanmış işlemlere yönelik olarak Gümrük idarelerince Kararın 11 inci maddesinin üçüncü fıkrası uyarınca işlem tesis edilir.
+(3) İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2017/24) ile yürürlüğe konulan Güney Kore menşeli ithalata ilişkin dampinge karşı önlemde İthalatta Haksız Rekabetin Önlenmesi Hakkında Mevzuat hükümleri çerçevesinde yapılacak değişiklikler bu önlem için de geçerlidir.
