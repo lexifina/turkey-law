@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35602",
+  "decision_date": "2019-11-12",
+  "source_id": 30828,
+  "chamber": "2",
+  "ilam_number": "242",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30828/",
+  "source_sha256": "3ffbee40d3fdb47a262af6aebad4deecfe9a521b2c2d610136c2898260998b8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
