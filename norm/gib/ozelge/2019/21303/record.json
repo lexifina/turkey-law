@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-19-32]-E.221758",
+  "source_id": 21303,
+  "date": "2019-11-12",
+  "title": "Başlanan Faaliyetin Aynı Gün Terk Edilmesi ve Daha Sonra Yeniden Başlanması Durumunda Genç Girişimcilerde Kazanç İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21303",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "20b00864ce0da78ce2a6c3bd52542d4466117e26135bb124acd4c2cca1d2cdf0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
