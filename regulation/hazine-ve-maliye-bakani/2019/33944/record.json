@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.33944",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERGİ KONSEYİ YÖNETMELİĞİ",
+  "number": "33944",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2019/33944",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33944&MevzuatTertip=5",
+  "source_sha256": "e36364232ac069d79b543d6a194541e9ed53fab3a25c5ad25c980f59a836e247",
+  "source_bytes": 71657,
+  "published": "2019-11-12",
+  "gazette": "30946",
+  "in_force": "2019-11-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.11.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2121,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

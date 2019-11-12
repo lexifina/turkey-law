@@ -1,0 +1,4 @@
+İcra Kurulunun çalışma usulü
+MADDE 9 – (1) İcra Kurulu toplantı ve çalışma usulü aşağıdaki gibidir:
+a) İcra Kurulu toplantıları, ayda iki defa yapılır. Başkan gerekli gördüğü hallerde İcra Kurulunu ayrıca toplantıya çağırabilir. İcra Kurulunun gündemi, Genel Kurul gündemi esas alınarak belirlenir. Kurul üyelerinden gündeme eklenmesi istenen maddeler de, Başkan tarafından öncelikleri değerlendirilerek dahil edilebilir.
+b) İcra Kurulu toplantı nisabı, üye tam sayısının salt çoğunluğudur. İcra Kurulu, toplantıya katılan üyelerin salt çoğunluğuyla karar alır. Oyların eşitliği halinde Başkanın bulunduğu taraf çoğunluğu sağlamış sayılır. Kurul üyeleri bütün toplantılara katılmakla yükümlüdürler. Mazeretsiz olarak üst üste üç toplantıya katılmayan üyeler, Başkan tarafından görev sürelerinin bitimi beklenmeden değiştirilebilir.
