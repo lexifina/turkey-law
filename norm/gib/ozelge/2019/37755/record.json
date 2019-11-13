@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.05[89-2019/]-463041",
+  "source_id": 37755,
+  "date": "2019-11-13",
+  "title": "GMSİ Kazancından İşitme Cihazı Tamir ve Bakımı İçin Yapılan Harcamanın İndirim Konusu Yapılıp Yapılmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37755",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "9452e64b278c16dc2b60192304a6da584f4d132efaa05cad833e025462865911",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
