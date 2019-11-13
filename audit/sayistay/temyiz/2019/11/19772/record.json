@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46873",
+  "decision_date": "2019-11-13",
+  "source_id": 19772,
+  "chamber": "5",
+  "file_number": "44759",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/19772/",
+  "source_sha256": "5d3185dfbcb662ee7c575a3525a6474d45d89fa4baa938b564716abafa40d4ff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
