@@ -1,0 +1,12 @@
+Eğitim Merkezleri
+MADDE 9 – (1) Eğitim Merkezleri, Bakanlık ve Kurum bünyesinde ilgili mevzuat hükümleri çerçevesinde tesis edilir. Eğitim Merkezlerinin sevk ve idaresinden sorumlu olmak üzere Bakanlık ve Kurum adına birer kişi tam zamanlı olarak görevlendirilir. Eğitim Merkezine, iş yükleri dikkate alınarak yeteri kadar personel tahsis edilir.
+(2) Eğitim Merkezleri, Akademinin yürütme organlarıdır. Eğitim Merkezleri;
+a) Eğitim, danışmanlık ve araştırma faaliyetlerini içeren yıllık çalışma planı hazırlayarak her yılın Ocak ayı sonunda Kurula sunar.
+b) Yıllık çalışma planı dâhilinde gerçekleştirilecek faaliyetler için tahmini bütçeyi tespit eder ve yıllık olarak Kurula sunar.
+c) Yıllık çalışma planında yer alan eylemlerin gerçekleştirilmesi için gerekli eğitici görevlendirmeleri, satın alma işlemleri, harcamalar ve diğer idari işlemleri, Bakanlık ve Kurumun bütçe imkânları ile mevcut yasal yükümlülükleri ve iç onay süreçleri çerçevesinde Bakanlık ve Kurumun ilgili harcama birimi eliyle gerçekleştirir.
+ç) Eğitim Merkezlerinin görev alanına giren konularda ulusal ve uluslararası kuruluşlar ile yapılacak iş birliği protokollerinin müzakeresini yürütür, protokol taslaklarını hazırlar, kurum içi ve dışı istişare ile onay süreçlerini takip eder, Kurul görüşüne sunar.
+d) Yıllık çalışma planında yer alan veya ihtiyaç duyulan konularda araştırma ve inceleme amaçlı projelerin yürütülmesi ve raporların hazırlanması için gereken görevlendirmeleri yapar, çalışmaları koordine eder ve gerekli hallerde dışarıdan ilgili harcama birimi eliyle hizmet alımı yapar.
+e) Önceki dönemde gerçekleştirilmiş tüm faaliyetleri içeren yıllık çalışma raporunu hazırlar ve her yılın Ocak ayı sonunda Kurula sunar.
+f) Eğitim içerikli yürütülen faaliyetlerin sonucunda, eğitimin niteliğine ve önceden duyurulan koşullara bağlı olarak sınavlı veya sınavsız, uygun görülen katılımcılara sertifika veya katılım belgesi verir.
+g) Fikri mülkiyet alanında eğitim materyalleri, araştırma raporları, uzmanlık tezleri, bilimsel, hukuki veya teknik içerikli makaleleri elektronik ve/veya basılı ortamda yayımlar; bu amaçla tasarlanacak internet sitesini kamunun hizmetine sunar.
+ğ) Fikri mülkiyet alanlarında uzmanlık tezi, yüksek lisans, doktora ve benzeri çalışmalarda tez konusunun belirlenmesi, kaynak araştırması, alanda çalışan akademisyenler ile irtibat kurulması hususlarında ilgililere danışmanlık hizmeti sunar.

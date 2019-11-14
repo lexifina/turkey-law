@@ -1,0 +1,6 @@
+Ücretler
+MADDE 12 – (1) Eğitim Merkezleri yapacakları veya yaptıracakları eğitim, araştırma, danışmanlık ve benzeri faaliyetlerden yararlanacak olanlardan ücret talep edebilir. Bu amaçlarla yapılan faaliyetler için eğitim mekanları sağlanmasına, teknik ekipman ve diğer her türlü mal ve hizmet tedarikine yönelik harcamalarda bulunabilir; eğitici, danışman veya benzeri faaliyetlerde görevlendirilenlerin genel hükümler çerçevesinde ulaşım, iaşe ve ibate giderlerini karşılayabilir.
+(2) Danışmanlık, araştırma, eğitim faaliyetleri ile Akademi tarafından yapılacak diğer hizmetler karşılığında alınacak ücretler Telif Hakları Eğitim Merkezi için Bakanlık, Sınai Mülkiyet Hakları Eğitim Merkezi için Kurum tarafından belirlenir.
+(3) Telif Hakları Eğitim Merkezi tarafından danışmanlık, araştırma, eğitim faaliyetleri ile yapılacak diğer hizmetler karşılığında alınacak ücretler genel bütçeye gelir kaydedilir.
+(4) Telif Hakları Eğitim Merkezi tarafından danışma, araştırma, eğitim faaliyetleri ile yapılacak diğer hizmetler kapsamında yapılan giderler Bakanlık özel hesabından karşılanır.
+(5) Sınai Mülkiyet Hakları Eğitim Merkezi tarafından danışmanlık, araştırma, eğitim faaliyetleri ile yapılacak diğer hizmetler karşılığında alınacak ücretler, Kurumun hesabına yatırılır ve gelirlere kaydedilir.
