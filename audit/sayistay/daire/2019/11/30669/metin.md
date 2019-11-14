@@ -1,0 +1,15 @@
+Sözleşme Feshinde Tazminatın Hatalı Hesaplanması
+
+…. Ltd. Şti. yükleniminde bulunan “Belediye Sarayı ve Muhtelif Tesislerde Temizlik Hizmet Alımı İşi”nin sözleşme feshinde ödenen %5 tazminatın yanlış hesaplandığı görülmüştür.
+
+24.12.2017 tarih 30280 sayılı 696 sayılı Resmi Gazete’de yayımlanan 696 sayılı Kanun Hükmünde Kararname’nin 127’nci maddesiyle 375 sayılı Kanun Hükmünde Kararname’ye eklenen Geçici 23’üncü maddesinde, personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında çalıştırılanların sürekli işçi kadrolarına geçirilmesi, Geçici 24’üncü maddesinde personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında çalıştırılanların mahalli idare şirketlerinde işçi statüsüne geçirilmesi ile ilgili hükümler düzenlenmiştir.
+
+375 sayılı Kanun Hükmünde Kararname’nin Geçici 23’üncü maddesinin yedinci fıkrası, tamamen personel çalıştırılmasına dayalı hizmet alımı niteliği taşıyan sözleşmelerin, sürekli işçi kadrosuna geçiş nedeniyle feshedilmesi halinde yüklenicilere ödenecek tazminat tutarının hesabına ilişkin hükümleri içermektedir. Söz konusu fıkrada aynen; “Sürekli işçi kadrolarına geçirileceklerin istihdam edilmesine esas hizmet alım sözleşmeleri, birinci fıkrada öngörülen geçiş işleminin yapıldığı tarih itibarıyla feshedilmiş sayılır. Feshedilmiş sayılan sözleşmelerden, sadece yapılan işin tutarı her türlü fiyat farkı hariç sözleşme bedelinin %80’ini aşmayanlar için yükleniciye, sözleşmenin yürütülmesine ilişkin her türlü zarara karşılık her türlü fiyat farkı hariç sözleşme bedelinin %80’i ile yapılan işin tutarı arasındaki bedel farkının %5’i fesih tarihindeki fiyatlar dikkate alınarak sözleşmeyi yürüten idare tarafından, yapmış olduğu vergi, resim, harç ve paylar dahil olmak üzere tüm giderler ve mahrum kaldığı kâr karşılığı olmak üzere tazminat olarak ödenir ve başkaca bir ödeme yapılmaz. Yüklenici başka bir hak talebinde bulunamaz.” denilmektedir.
+
+Geçici 24’üncü maddenin ikinci fıkrasında da aynen; “Geçici 23 üncü maddenin ikinci, üçüncü, yedinci, sekizinci, dokuzuncu, onuncu, onikinci ve onaltıncı fıkraları hükümleri bu madde kapsamında yer alanlar hakkında da kıyasen uygulanır.” denilmek suretiyle, feshedilen sözleşmeler nedeniyle ödenecek tazminat ve ödemeler konusunda yukarıdaki hükmün uygulanacağı belirtilmiştir.
+
+Yukarıda yer alan hükümler uyarınca, söz konusu işin sözleşmesinin feshedilmesi suretiyle ödenecek tazminat hesabı yapılırken, yapılan (gerçekleşen/tamamlanan) iş tutarı …. TL esas alınması gerekirken …. TL esas alınmış, dolayısıyla yükleniciye fazla ödemede bulunulması sonucu …. TL kamu zararına neden olunmuştur.
+
+Sorumlular göndermiş oldukları savunmalarında kamu zararının tahsil edileceğini ifade etmişlerse de tahsilata ilişkin belge gönderilmemiştir.
+
+Bu nedenle, Yükleniciye ödenecek tazminatın yanlış hesaplanması sonucu neden olunan kamu zararı tutarı … TL’nin Harcama Yetkilisi (Kültür İşleri Müdür V.) …. ile Gerçekleştirme Görevlisi (Memur) …’a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizi ile ödettirilmesine oy birliğiyle karar verildi.
