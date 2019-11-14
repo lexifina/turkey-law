@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-11-14",
+  "issue": "30948",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Demiryolu Kazalarını ve Olaylarını Araştırma ve İnceleme Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191114-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191114.htm",
+  "index_sha256": "2275d57ad8deba996f0dc235d781c2ab6558927768620a817645e9b19f65c65a",
+  "index_header": "14 Kasım 2019 ... 30948 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191114.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
