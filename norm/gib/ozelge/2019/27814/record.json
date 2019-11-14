@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[5-19/1]-398910",
+  "source_id": 27814,
+  "date": "2019-11-14",
+  "title": "Türkiye Cumhuriyeti ile Cibuti Cumhuriyeti Arasındaki Hibe Anlaşması Kapsamında yurtdışında yapılan inşaat işinden sağlanan kazançlarda Kurumlar Vergisi istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27814",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "550eb34474365ec0ea5178e0cdda6c40bb4c38807226fae943b2d471a1d4ca5c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
