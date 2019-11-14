@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.5819",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ER VE ERBAŞ SINIFINDAN ASKERİ ARAÇ SÜRÜCÜLERİNİN ÖZEL SINAVLARI VE BELGE VERME İŞLEMLERİNİN USULÜ VE BU BELGELERLE HANGİ CİNS TAŞITLARIN NERELERDE KULLANILACAĞINA DAİR YÖNETMELİK",
+  "number": "5819",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/1984/5819",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5819&MevzuatTertip=5",
+  "source_sha256": "30d040de54c6216e8ccc033ee1f201fa7db55efd0e221f69f85fbea2ba153624",
+  "source_bytes": 18214,
+  "published": "1984-06-09",
+  "gazette": "18426",
+  "in_force": "2019-11-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/11/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-11-14",
+      "RG-14/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-02-24",
+      "RG-24/2/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 668,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

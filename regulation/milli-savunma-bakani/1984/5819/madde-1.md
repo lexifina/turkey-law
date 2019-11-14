@@ -1,0 +1,1 @@
+Madde 1 - Bu Yönetmeliğin amacı, er ve erbaş sınıfından askeri araç sürücülerinin özel sınavları, belge verme işlemlerinin usulü ve bu belgelerle hangi cins taşıtların nerelerde kullanılacağına dair esasları belirlemektir.
