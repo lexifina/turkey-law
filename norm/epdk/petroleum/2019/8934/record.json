@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8934",
+  "decision_date": "2019-11-14",
+  "title": "Depolardaki Akaryakıt Kalitesinin İzlenmesi Sistemine İlişkin Usul Ve Esaslar Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2019-11-22",
+  "resmi_gazete_number": "30956",
+  "categories": [
+    "Petrol Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F0B4ZqE63Mo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=F0B4ZqE63Mo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tgr/wwQ4+Ho=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZiH5Q7VBQ1Y="
+  ],
+  "source_sha256": "de79fe98d7710b273ba2e01b4f0571325818f1842a7fbd6ad1c7fdb25ea711a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14711,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-11-14",
+  "law_text_complete": true
+}
