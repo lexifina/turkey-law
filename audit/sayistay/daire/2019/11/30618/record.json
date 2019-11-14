@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "206",
+  "decision_date": "2019-11-14",
+  "source_id": 30618,
+  "chamber": "4",
+  "ilam_number": "19",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30618/",
+  "source_sha256": "cd1a9ca3b29abde7bfe8efd54f1c6a9b281637ed9b8514309f782da58b5c1911",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
