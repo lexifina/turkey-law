@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33948",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEMİRYOLU KAZALARINI VE OLAYLARINI ARAŞTIRMA VE İNCELEME YÖNETMELİĞİ",
+  "number": "33948",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2019/33948",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33948&MevzuatTertip=5",
+  "source_sha256": "c6b889d6d229897b6647606d4aae3ded63b2473d4d4bfacee6ccb0c9ed1c17a0",
+  "source_bytes": 84608,
+  "published": "2019-11-14",
+  "gazette": "30948",
+  "in_force": "2019-11-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.11.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33948-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Diğer devletlerle iş birliği
+MADDE 9 – (1) Ulusal demiryolu altyapı ağında; yabancı ülkelerin demiryolu tren işletmecilerine ait demiryolu araçları ile tasarımı, imalatı, bakımı veya tescili yabancı devlette yapılan demiryolu araçlarının dâhil olduğu kaza ve olayların incelenmesinde ilgili yabancı devletlerin ulusal kaza inceleme otoriteleri iş birliği için davet edilebilir.
+(2) Yabancı ülke demiryolu altyapı ağında; Türk demiryolu tren işletmecilerine ait demiryolu araçları ile tasarımı, imalatı, bakımı veya tescili Türkiye’de yapılan demiryolu araçlarının dâhil olduğu kaza ve olayların inceleme çalışmalarına katılım sağlanabilir.
