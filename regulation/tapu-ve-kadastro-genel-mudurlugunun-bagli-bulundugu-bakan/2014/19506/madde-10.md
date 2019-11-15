@@ -1,0 +1,4 @@
+Değerlendirme ve sınav sonuçlarının duyurulması
+MADDE 10 – (1) (Değişik:RG-29/4/2017-30052) Görevde yükselme veya unvan değişikliği suretiyle ilan edilen boş kadro sayısı kadar atama yapılmasında başarı puanı esas alınır. Başarı puanı, yazılı ve sözlü sınav puanlarının aritmetik ortalaması esas alınmak suretiyle tespit edilir ve Genel Müdürlük resmi internet sitesinde ilan edilir.
+(2) Sınav Kurulu tarafından yapılan sınav değerlendirme sonuçlarına göre en yüksek puandan başlamak üzere belirlenen sayı kadar asıl ve en fazla asıl sayısı kadar yedek başarı listesi hazırlanır ve bu liste Sınav Kurulu tarafından imzalandıktan sonra (Değişik ibare:RG-15/11/2019-30949) Personel Dairesi Başkanlığına gönderilir.
+(3) Sınav sonuçları, Genel Müdürlüğe intikalinden itibaren en geç beş işgünü içerisinde Genel Müdürlüğün (Değişik ibare:RG-29/4/2017-30052) resmi internet sitesinde ilan edilir.

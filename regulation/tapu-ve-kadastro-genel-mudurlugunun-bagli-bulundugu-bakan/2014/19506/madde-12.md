@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz ve sınav belgelerinin saklanması
+MADDE 12 – (1) (Değişik:RG-29/4/2017-30052) Sınava katılanlar yazılı sınav soru ve sonuçlarına Genel Müdürlük resmi internet sitesinde yapılan ilanı takip eden beş iş günü içerisinde, sözlü sınav soru ve sonuçlarına sözlü sınav sonuçlarının Genel Müdürlük resmi internet sitesinde ilanını takip eden beş iş günü içerisinde itiraz edebilirler. İtirazlar ilgili sınav kurulu tarafından değerlendirilerek sonuç ilgiliye yazı ile bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. (Mülga cümle:RG-29/4/2017-30052)(...)
+(3) Sınavda başarı göstererek atananların sınavla ilgili belgeleri özlük dosyalarında, diğer belgeler ise bir sonraki sınav tarihine kadar (Değişik ibare:RG-15/11/2019-30949) Personel Dairesi Başkanlığında saklanır.

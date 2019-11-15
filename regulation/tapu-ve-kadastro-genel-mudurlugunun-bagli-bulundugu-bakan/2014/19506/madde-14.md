@@ -1,0 +1,5 @@
+Unvan değişikliği sınavı
+MADDE 14 – (1) 5 inci maddenin ikinci fıkrasında belirtilen unvan değişikliğine tabi kadrolara, bu unvanları en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz etmiş bulunan personelin atanması, bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde (Mülga ibare:RG-29/4/2017-30052) (...) yapılacak unvan değişikliği (Mülga ibare:RG-29/4/2017-30052) (...) sınavı sonucundaki başarısına göre gerçekleştirilir.
+(2) Unvan değişikliği sınavları, Genel Müdürlükçe belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda (Mülga ibare:RG-29/4/2017-30052) (...) yaptırılır ve bu sınavlara katılacaklarda, Genel Müdürlükte veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz. Unvan değişikliği sınavı kapsamındaki görevlere, sadece Genel Müdürlük personeli başvurabilir.
+(3) (Mülga:RG-29/4/2017-30052)
+(4) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.
