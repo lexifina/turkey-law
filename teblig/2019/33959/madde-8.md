@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda; NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile Malezya menşeli 4007.00 GTP’si altında sınıflandırılan “Vulkanize edilmis kauçuktan iplik ve ipler” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
