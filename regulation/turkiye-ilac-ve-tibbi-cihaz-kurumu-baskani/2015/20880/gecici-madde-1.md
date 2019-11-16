@@ -1,0 +1,4 @@
+Uyum ve geçiş süreci
+GEÇİCİ MADDE 1 – (1) Ürün tanıtım temsilcileri 1/1/2019 tarihine kadar, Kurumca verilen yeterlilik belgesini almak zorundadırlar. Bu tarihten önce yapılan sınav sonrasında yeterlilik belgesi almaya hak kazanan ve en az lise mezunu olanlara Kurum tarafından yeterlilik belgesi düzenlenir. Ancak bu Yönetmeliğin yayımı tarihinden önceki beş yıl içerisinde fiilen iki yıl ürün tanıtım temsilcisi olarak çalışmış olanlarda lise mezunu olma şartı aranmaz.
+(2) Ruhsat/izin sahipleri, sözleşmeli firmalar aracılığı ile yürüttüğü tanıtım faaliyetlerine ilişkin bu Yönetmeliğin yürürlüğe girdiği tarihten önce yaptıkları sözleşmeleri, yürürlük tarihinden itibaren altı ay içinde Kuruma ibraz eder.
+(3) Kurum 1/1/2016 tarihine kadar “Numune Dağıtımı Yapılamayacak Olan İlaçlar” listesini hazırlar ve Kurumun resmî internet sayfasında yayınlar.

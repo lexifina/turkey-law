@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Beşerî tıbbi ürün: Hastalığı tedavi etmek veya önlemek, bir teşhis yapmak veya bir fizyolojik fonksiyonu düzeltmek, düzenlemek veya değiştirmek amacıyla, insana uygulanan doğal veya sentetik kaynaklı etkin madde/maddeler kombinasyonunu,
+c) Bilim servisi: Ruhsat/izin sahibinin, kendi kuruluşu bünyesinde oluşturduğu, ruhsatına veya iznine sahip olduğu ürünlerin tanıtımının ilgili mevzuat hükümlerine uygun olarak yürütülmesini sağlayan ve sadece hekim/diş hekimi/eczacının çalıştığı birimini,
+ç) Bilimsel toplantı: Bilimsel bir konuda bilgi vermek amacı ile Bakanlık, sağlık meslek mensuplarının üyesi bulundukları ulusal ve uluslararası dernekler, sağlık kurum ve kuruluşları, üniversiteler, hekim/diş hekimi/eczacı meslekî örgütleri veya ruhsat/izin sahipleri tarafından düzenlenen yurt içi veya yurt dışı kongreleri, sempozyumları, çalıştayları, seminerleri, kursları ve toplantıları,
+d) Demo cihazı: Beşerî tıbbi ürünle birlikte ruhsatlandırılan ve ürünün kullanımının gösterilmesine yönelik olarak hazırlanan etkin madde içermeyen aparatı,
+e) Kısa Ürün Bilgisi (KÜB): Beşerî tıbbi ürünün ruhsat dosyasında bulunan kısa ürün bilgilerini,
+f) Kullanma Talimatı (KT): Beşerî tıbbi ürün ile birlikte sunulan, kullanıcı için hazırlanmış yazılı bilgileri,
+g) Kurum: Türkiye İlaç ve Tıbbi Cihaz Kurumunu,
+ğ) Ruhsat/izin: Bir ürünün belirli bir formül ile belirli bir farmasötik form ve dozda, kabul edilen ürün bilgilerine uygun olarak üretilip pazara sunulabileceğini gösteren, Kurumca düzenlenen belgeyi,
+h) Ruhsat/izin sahibi: Kurumca ürünleri için adlarına, ruhsat/izin belgesi düzenlenen gerçek veya tüzel kişileri,
+ı) Sağlık meslek mensupları: Hekim, diş hekimi, eczacı, hemşire, ebe ve 11/4/1928 tarihli ve 1219 sayılı Tababet ve Şuabatı San’atlarının Tarzı İcrasına Dair Kanunun Ek 13 üncü maddesinde tanımlanan diğer meslek mensuplarını,
+i) Sözleşmeli firma: Hukukî her türlü sorumluluk ruhsat/izin sahibinde kalmak kaydıyla, ruhsat/izin sahibi tarafından sözleşme ile tanıtım faaliyetlerine yönelik iş ve işlemleri kendi adına veya birlikte yürütmekle yetkili kılınan ve Kuruma ruhsat/izin sahibi tarafından bildirilmesi zorunlu olan tüzel kişiyi,
+j) Tanıtım: Bu Yönetmelik kapsamındaki ürünlerin tıbbi-bilimsel özellikleri hakkında ruhsat/izin sahipleri tarafından düzenlenen veya ruhsat/izin sahiplerinin adı, talebi, katkısı, desteği ile sağlık meslek mensuplarına gerçekleştirilecek bütün bilgi verme faaliyetlerini; bu çerçevede ürün tanıtım temsilcilerinin aktivitelerini, tıbbi ve mesleki kitap ve dergilere verilecek ilanları, doğrudan postalama veya diğer iletişim araçları yoluyla yapılacak duyuruları, bilimsel toplantıları ve ürün tanıtım toplantılarını ve benzeri etkinlikler ile yapılacak faaliyetleri,
+k) Tanıtım malzemeleri: Parasal değeri yürürlükteki aylık brüt asgarî ücretin % 2,5’ini aşmayan hekim, diş hekimi ve eczacının mesleğini icrası sırasında kullanabileceği sembolik hatırlatıcı ziyaret malzemelerini; ürün hakkında yeterli ve gerekli bilgiyi ihtiva eden kitap, kitapçık ve broşür gibi basılı materyalleri; film ve slaytları; elektronik depolama araçları ile sunulan görsel/işitsel malzemeleri; bilgi/veri/başvuru kaynağı olarak kullanılabilecek her türlü yayını veya bu yayınlara elektronik erişim imkânını, bedelsiz numuneleri, demo cihazları ve hasta eğitimine yönelik materyalleri,
+l) Ürün: Beşerî tıbbi ürünü, enteral beslenme ürününü ve tıbbi mamayı,
+m) Ürün tanıtım temsilcisi: Hekim, diş hekimi ve eczacıya ziyaret yoluyla ürünün tanıtımını yapan yeterlilik belgesi almış kişiyi,
+n) Ürün tanıtım toplantısı: Ruhsat/izin sahibinin ürününün tanıtımına yönelik düzenlediği toplantıyı,
+o) Yeterlilik belgesi: Üniversitelerin ürün tanıtım temsilcisi yetiştiren bölümlerinden mezun olanlara doğrudan verilen veya Kurum tarafından belirlenen müfredata göre yapılan eğitim sonrası Kurumca yapılacak veya yaptırılacak sınav sonucunda başarılı olanlara Kurumca verilen belgeyi,
+ifade eder.

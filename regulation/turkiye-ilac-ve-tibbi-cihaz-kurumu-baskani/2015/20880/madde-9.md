@@ -1,0 +1,10 @@
+Bedelsiz numune
+MADDE 9 – (1) Bedelsiz numuneler, aşağıdaki şartlar yerine getirilmek kaydıyla sadece hekim, diş hekimi ve eczacıya dağıtılabilir:
+a) Ruhsat/izin sahipleri, bedelsiz ürün tanıtım numunelerinin imalat, ithalat ve dağıtımına yönelik olarak yeterli bir kayıt ve kontrol sistemini kurar, sorumlularını belirler. Bu kayıtlar, ilgili geri çekme mevzuat hükümlerine göre oluşturulur ve talep edilmesi hâlinde Kuruma bildirilir.
+b) Bedelsiz numuneler, azaltılmış miktarlar içerir. Ancak, enteral beslenme ürünlerinde ve teknik nedenlerle azaltılamayan ürünlerin tanıtım numunelerinde bu şart aranmaz.
+c) Tanıtım numunelerinin dış ambalajları üzerinde "Tanıtım numunesidir, satılamaz" ibaresi, en geniş yüzeyde ve dikkat çekici nitelikte yer alır. Basılması mümkün olan durumlarda aynı ifadeler, iç ambalajda da yer alır.
+ç) Tanıtım numunesi ile birlikte varsa KT ve KÜB’ün bir örneği sunulur.
+d) Uluslararası sözleşmeler kapsamında olan uyuşturucu ve psikotrop maddeler içeren ürünler ile ulusal kontrole tabi maddeleri havi ürünlerin numuneleri dağıtılamaz ve verilemez.
+e) Kurumun resmî internet sayfasında ilan edilen “Numune Dağıtımı Yapılamayacak Olan İlaçlar” listesinde yer alan ürünlerin numuneleri dağıtılamaz ve verilemez.
+f) Her bir ürün için piyasaya çıkış tarihinden itibaren ilk takvim yılında aylık satış gerçekleşmeleri izlenmek suretiyle yıllık toplam satışın % 5’i geçilmeyecek miktarda; ikinci takvim yılında bir önceki yıla ait satış miktarının % 5’ini; üç, dört ve beşinci takvim yıllarında bir önceki yıla ait satış miktarının % 3’ünü; beşinci takvim yılından sonra ise bir önceki yıla ait satış miktarının %1’ini geçmeyecek miktarda bedelsiz ürün numuneleri dağıtılabilir. Enteral beslenme ürünleri bu fıkrada belirlenen azalan miktar sınırlamasından muaftır. Farklı aromalar içeren enteral beslenme ürünlerine ait tanıtım numunelerinin yıllık dağıtım miktarları, aromadan bağımsız olarak tek bir ürün gibi değerlendirilerek hesaplanır.
+g) Tanıtım numuneleri klinik araştırmalarda araştırma ürünü olarak kullanılamaz.

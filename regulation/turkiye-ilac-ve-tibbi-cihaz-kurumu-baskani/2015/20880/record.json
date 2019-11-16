@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.20880",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BEŞERÎ TIBBİ ÜRÜNLERİN TANITIM FAALİYETLERİ HAKKINDA YÖNETMELİK",
+  "number": "20880",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2015/20880",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20880&MevzuatTertip=5",
+  "source_sha256": "b0c5008b2b72fa2ed002778d57e7b983957aec2a21fc3020bfd0b951a9ed392c",
+  "source_bytes": 67128,
+  "published": "2015-07-03",
+  "gazette": "29405",
+  "in_force": "2019-11-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/11/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-11-16",
+      "RG-16/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-16",
+      "16/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3658,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
