@@ -1,0 +1,2 @@
+Seçmeli faaliyetler
+MADDE 14 – (1) Tıpta uzmanlık öğrencilerinin, bu Yönetmeliğin 13 üncü maddesinde belirtilen faaliyetler dışında kalan, bilimsel toplantılara katılım, yayın ve bunun gibi zorunlu olmayan faaliyetlerden veya fazladan yaptıkları zorunlu faaliyetlerden aldıkları krediler, seçmeli kredi olarak tıpta uzmanlık öğrencisinin karnesine eğitim sorumlusu tarafından kaydedilir. Seçmeli faaliyetlerin kredilendirilmesi ve ne şekilde değerlendirileceği Fakülte Kurulu tarafından belirlenir.

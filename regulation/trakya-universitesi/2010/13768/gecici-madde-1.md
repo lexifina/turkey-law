@@ -1,0 +1,2 @@
+İntibak
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce; Tıpta Uzmanlık Eğitimi Giriş Sınavına (TUS) giren ve Fakültede eğitim yapmaya hak kazananlara bu Yönetmeliğin 24 üncü maddesiyle yürürlükten kaldırılan Yönetmelik hükümlerinin uygulanmasına devam edilir. Bunlardan, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içerisinde talepte bulunanlar, bu Yönetmelik hükümlerine tabi olur.
