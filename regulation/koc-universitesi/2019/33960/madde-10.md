@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür, Üniversitenin Hemşirelik Fakültesi Dekanı ve Merkezin faaliyet alanına giren konularda çalışan tam zamanlı Koç Üniversitesi öğretim üyeleri arasından Müdür tarafından aday gösterilen ve Rektör tarafından üç yıl için görevlendirilen dört üye olmak üzere toplam altı üyeden oluşur.
+(2) Süresi dolan üyeler yeniden görevlendirilebilir. Süresi bitmeden ayrılanların ve altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilir.
+(3) Yönetim Kurulu, Müdür tarafından belirlenen ve üyelere önceden bildirilen gündem doğrultusunda, iki ayda bir kez olağan olarak, gerekli olduğunda da Müdürün çağrısı üzerine olağanüstü olarak toplanır. Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oy çokluğu ile karar alır. Oyların eşit olması durumunda Müdürün oyu yönünde çoğunluk sağlanmış kabul edilir.
