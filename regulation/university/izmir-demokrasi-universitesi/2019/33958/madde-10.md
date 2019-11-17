@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Rektör, rektör yardımcıları, Üniversitenin fakülte dekanları, Müdür ve müdür yardımcılarından oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır ve Rektör, Yönetim Kurulunun başkanıdır. Rektör, gerekli gördüğü hallerde Yönetim Kuruluna başkanlık etmesi için yardımcılarından birini görevlendirebilir.
+(2) Yönetim Kurulu Başkanı, Yönetim Kurulu üyelerinden birisini Yönetim Kurulu Başkan Yardımcısı olarak görevlendirir. Yönetim Kurulunun görev süresi biten üyeleri yeniden görevlendirilebilir. Yönetim Kurulu, Müdürün çağrısı üzerine en fazla altı ayda bir üyelerin salt çoğunluğu ile toplanır ve katılanların oy çokluğu ile karar alınır. Oyların eşitliği durumunda Yönetim Kurulu Başkanının oyu yönünde çoğunluk sağlanmış sayılır.
+(3) Ayrılma nedeni ile boş kalan Yönetim Kurulu üyeliği için kalan süreyi tamamlamak üzere yeni bir üye görevlendirilir. Süresi bitmeden ayrılan üyeler veya üç aydan fazla yurt dışında görevlendirilen üyelerin yerine yenileri görevlendirilir.
+(4) Merkez sekreteri, Yönetim Kurulu toplantılarında raportör olarak görev alır.
+(5) Gerekli hallerde kariyer temsilcileri, öğrenci konseyi başkanı ve/veya öğrenci toplulukları danışman hocaları ve topluluk temsilcileri de Yönetim Kurulu toplantılarına davet edilebilir.
