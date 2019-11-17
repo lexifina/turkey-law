@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; başta geleneksel oyun ve sporlarla ilgili olmak üzere, beden eğitimi ve spor bilimleri alanında akademik çalışmalar yapmak, projeler geliştirmek, kurs ve seminerler düzenlemek, programlar ve uygulamalar aracılığı ile Üniversitenin kamu kurum ve kuruluşları, spor federasyonları, özel sektör ve uluslararası kuruluşlarla ilişkilerinin geliştirilmesine katkıda bulunmak, beden eğitimi ve spor bilimlerinde bilgi üretimine yönelik imkânlar hazırlamak, araştırmalar yapmak, Üniversitenin spor alanlarını kullanmak ve yönetmek, spor sakatlıklarının teşhis ve tedavisine yardımcı olmak üzere ilgili kurum ve kuruluşlarla işbirliği sağlamak, yetenek seçimi ve spora yönlendirme konularında çalışmalar yapmaktır.
