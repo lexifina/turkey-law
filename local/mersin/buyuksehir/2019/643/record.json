@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "643",
+  "decision_date": "2019-11-18",
+  "title": "MEC.KAR. ( Anamur Sultanalaaddin Mahallesi 362 ada 1 parsel ).doc",
+  "listed_as": "643 MEC.KAR. ( Anamur Sultanalaaddin Mahallesi 362 ada 1 parsel ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/643-meckar--anamur-sultanalaaddin-mahallesi-362-ada-1-parsel-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-kasim-2019-meclis-kararlari",
+  "listing_sha256": "d3923baef6d6fe6e23cd271ec371172341237c26cadd9b12ad44511f3d3993a3",
+  "meeting_title": "18 KASIM 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
