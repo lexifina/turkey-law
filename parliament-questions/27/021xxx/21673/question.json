@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/21673",
+  "submitted": "2019-11-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Fethi GÜRER",
+  "province": "Niğde",
+  "summary": "Doğa Koruma ve Milli Parklar Genel Müdürlüğü ile DSİ'de çalışan geçici işçilerin çalışma sürelerinin 9 ay 29 güne yükseltilmesi önerisine ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-03c1-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9a74847d017b7650a27c72582c0e0b4a3ecbc2dac823f07579745b2837183a01",
+  "in_force": "2019-11-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
