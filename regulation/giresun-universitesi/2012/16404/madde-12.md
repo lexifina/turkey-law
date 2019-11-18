@@ -1,0 +1,2 @@
+Danışma kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, müdür yardımcıları ve Yönetim Kurulunun diğer üyeleri ile Yönetim Kurulu tarafından Merkezin faaliyetleriyle ilgili alanlarda bilgi ve deneyime sahip Üniversite öğretim elemanları ile istekleri halinde kamu ve özel kuruluşlardaki kişiler arasından görevlendirilen dört kişi olmak üzere toplam onüç kişiden oluşur. Her üç ayda bir kez Müdürün çağrısı üzerine Müdürün başkanlığında toplanır. Danışma Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
