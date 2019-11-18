@@ -1,0 +1,2 @@
+Madde 7- 6’ncı maddede yazılı ihtiyaçlara tahsis edilen miktarın dışında kalan gelirin % 70’i Üniversite Mütevelli heyeti Yürütme Kurulunun belirleyeceği oranlar çerçevesinde Üniversitenin öğretim elemanları ve işletme geliri sağlayan birimdeki personele paylaştırılır.
+Öğretim üyelerine Döner Sermayeden bir yılda aktarılacak payın toplamı, bunların bir yılda alacakları aylığın bir katını, diğer personel için ise % 50’sini aşamaz. Öğretim elemanlarının mesai saati dışında Döner Sermayeye yaptıkları katkılardan dolayı alacakları payda bir kat kıyaslaması yapılamaz.
