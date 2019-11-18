@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135[II Sayılı Liste]-985675",
+  "source_id": 33462,
+  "date": "2019-11-18",
+  "title": "Yabancı bir kişinin ÖTV ve KDV ödeyerek aldığı aracı ülkesine döneceğinden beraberinde götürmesi nedeniyle ÖTV ve KDV'nin iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33462",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "824da68db467c0efadc91e1fa76084ed2c5b6656707a3c30b147f85396fec8e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
