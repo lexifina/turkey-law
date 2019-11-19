@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-11-19",
+  "issue": "30953",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Deniz Ticareti Gözetim Hizmetleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191119-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191119.htm",
+  "index_sha256": "6ff6dfbb22227e061037fd726694f279640fe0dfbb44bff5747064c440241087",
+  "index_header": "19 Kasım 2019 ... 30953 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191119.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
