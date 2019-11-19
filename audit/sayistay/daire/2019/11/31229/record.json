@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "702",
+  "decision_date": "2019-11-19",
+  "source_id": 31229,
+  "chamber": "6",
+  "ilam_number": "71",
+  "item_number": 16,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31229/",
+  "source_sha256": "8fd182f508bdda2ef0680998cf57fbd74b545046b53ddc0413bfdf31070559b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
