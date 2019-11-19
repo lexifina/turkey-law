@@ -1,0 +1,2 @@
+Muafiyet
+MADDE 16 – (1) Ülkemizin hizmet sunumu ve iş kurma serbestisi alanlarını kapsayan uluslararası anlaşmalara ve bu anlaşmalara taraf ülkelerin hizmet sunucularına, 19/4/1926 tarihli ve 815 sayılı Türkiye Sahillerinde Nakliyatı Bahriye (Kabotaj) ve Limanlarla Kara Suları Dâhilinde İcrayı San'at ve Ticaret Hakkında Kanuna aykırılık teşkil etmemek kaydı ile bu Yönetmelik hükümleri uyumlaştırılarak uygulanır.

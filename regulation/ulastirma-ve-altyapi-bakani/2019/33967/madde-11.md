@@ -1,0 +1,8 @@
+İdari yaptırımlar
+MADDE 11 – (1) 8 inci veya 9 uncu madde hükümlerine aykırı hareket ettiği tespit edilenlere 655 sayılı Kanun Hükmünde Kararnamenin 28 inci maddesinin birinci fıkrasının (b) bendi gereğince Bakanlık tarafından Ek-1’deki tabloda belirtilen cezalardan eyleme karşılık gelen ceza uygulanır.
+(2) İdari para cezaları, Bakanlık veya Bakanlığın görevlendirdiği birim tarafından idari para cezası karar tutanağı düzenlenmek suretiyle gelir kaydedilir.
+(3) TMKTDGM tarafından yapılan denetimlerde tehlikeli yük deniz gözetim yetki belgesi gerekliliklerini idame ettirmediği tespit edilen işletmeye, eksikliklerini gidermek üzere üç ay süre verilir. Bu süre sonunda eksikliklerini yerine getirmeyen işletmelerin bu belgeleri askıya alınır ve belgeleri askıya alınan işletmeler tehlikeli yük gözetimi faaliyetinde bulunamazlar.
+(4) Faaliyeti askıya alma süresi beş günden kırk beş güne kadar uygulanır.
+(5) Verilen idari para cezaları, tebliğinden itibaren bir ay içerisinde ödenir.
+(6) Ödeme süresi içerisinde ödenmeyerek kesinleşen idari para cezaları, kesinleşmesini müteakiben bir hafta içinde 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre tahsil edilmek üzere, borçlu tüzel kişinin kanuni veya iş merkezinin bulunduğu yerdeki vergi dairesine, birden fazla vergi dairesi bulunması halinde süreksiz vergileri tahsil ile görevli vergi dairesine gönderilir.
+(7) İdari para cezaları, her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılarak uygulanır.
