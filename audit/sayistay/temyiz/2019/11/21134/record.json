@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46925",
+  "decision_date": "2019-11-20",
+  "source_id": 21134,
+  "chamber": "6",
+  "file_number": "44582",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21134/",
+  "source_sha256": "509f228f9056eb105bf02a58b36fabd6b986cdafbbeb20c16c7e32cef5eab552",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
