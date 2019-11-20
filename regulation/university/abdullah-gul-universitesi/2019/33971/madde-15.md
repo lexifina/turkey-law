@@ -1,0 +1,2 @@
+Tematik Laboratuvar sorumluları ve görevleri
+MADDE 15 – (1) Tematik Laboratuvar sorumluları; Merkez bünyesinde oluşturulan alt tematik laboratuvar birimlerindeki cihazların amacına uygun olarak işletilmesinden, korunmasından, bakımından ve kullanıcılara Merkez olanakları dahilinde güvenli bir şekilde hizmet vermesinden sorumludurlar. Üniversitenin akademik veya idari personeli arasından Müdürün önerisi ve Rektörün onayı ile görevlendirilir.
