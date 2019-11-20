@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46929",
+  "decision_date": "2019-11-20",
+  "source_id": 21138,
+  "chamber": "6",
+  "file_number": "43563",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21138/",
+  "source_sha256": "a38c32bbc00154838e47d47a255fde0f1a15534bd1fd26320b92a746cd0dfad9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
