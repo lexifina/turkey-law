@@ -1,0 +1,3 @@
+Yatay geçiş
+MADDE 9 – (1) Fakülteye eşdeğer eğitim yapan tıp fakültelerinden yapılacak yatay geçişlerde; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan, Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri uygulanır. Ancak, adayların başvurularının kabul edilmesi için İngilizce yeterlik sınavını başarmış olmaları gerekir. Bu öğrencilerin Fakültenin eğitim programına intibakları Yönetim Kurulunca yapılır.
+(2) Eğitime bir yıl ara verenlerin ve bir yükseköğretim kurumundan disiplin cezası ile çıkarılmış olanların yatay geçiş başvuruları kabul edilmez. Fakülteye Üniversitenin başka programlarından yatay geçiş yapılamaz.

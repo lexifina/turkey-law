@@ -1,0 +1,5 @@
+Devam zorunluluğu
+MADDE 8 – (1) Öğrencilerin kayıtlı oldukları dönemin laboratuvar çalışması, tartışma, seminer, alan ve klinik çalışmaları ve benzeri uygulamalı ve kuramsal dersleri ile bunların gerektirdiği ya da ilgili öğretim üyesinin gerekli gördüğü sınav ve akademik çalışmalara katılmaları zorunludur. Devamsızlığı % 20’yi aşan öğrenciler derslerin dönem sonu ve dönem sonu bütünleme sınavlarına alınmazlar.
+(2) Uygulamalı derslere devamsızlığı % 20’yi geçmeyen, haklı ve geçerli kabul edilen bir nedenle devamsızlık yapan öğrencinin, devam etmediği uygulamalı çalışmaları öğretim üyesince gösterilen gün ve saatte telafi etmesi zorunludur.
+(3) Öğrencinin ders kurulunun tamamına devam etmesi gerekir. Devam zorunluluğunu yerine getirmeyen öğrenci ders kurulu sınavına alınmaz ve o ders kurulundan başarısız sayılır. Ancak devamsızlığı ders kurulunun % 20’sini aşmayan ve haklı ve geçerli kabul edilen bir nedeni olan öğrencinin devamsızlığı kabul edilebilir.
+(4) Stajın, mazeretli veya mazeretsiz % 20’sinden fazlasına katılmayan öğrenci, staj sınavına ve staj bütünleme sınavına alınmaz ve öğrencinin o stajı tekrar etmesi gerekir.
