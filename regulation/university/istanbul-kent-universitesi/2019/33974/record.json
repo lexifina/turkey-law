@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-kent-universitesi/2019/33974",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30955",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-11-21",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Kent Üniversitesi",
+  "issuer_slug": "istanbul-kent-universitesi",
+  "kind": "regulation",
+  "published": "2019-11-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33974&MevzuatTertip=5",
+  "source_id": "8.5.33974",
+  "source_sha256": "9b309b78f7298509456d7f6c91141377e218e0be762ba527a1621d8ba51b7a4b",
+  "title": "İSTANBUL KENT ÜNİVERSİTESİ ENGELLİ ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 468,
+  "version_label": "oldest version available",
+  "word_count": 1037
+}
