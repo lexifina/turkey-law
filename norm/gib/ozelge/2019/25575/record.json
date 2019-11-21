@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[227-2019-168]-E.410800",
+  "source_id": 25575,
+  "date": "2019-11-21",
+  "title": "Başka bir firmanın kullanacağı krediye teminat olmak üzere bankaya ipotek ettirilen gayrimenkulün icra suretiyle satışı halinde kayıtlardan nasıl çıkarılacağı (fatura düzenlenip düzenlenmeyeceği) hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25575",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "51c11dd6eeea6c8abe91c45459626c087003649ccb3a08b131bdf05e075271bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
