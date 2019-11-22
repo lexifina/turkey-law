@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7192",
+  "year": 2019,
+  "title": "Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-11-22",
+  "gazette_issue": "30956",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191122-2.htm",
+  "source_sha256": "e99e597734f4671a322f5a7c0d3d86a7e5dcfc50e71e545fb0bbd0e8bf047b08",
+  "text_sha256": "06f78038408f7a1b7b002801d3195ca7ae704639d676dc654db19d71e9bc8455",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/11/22/30956-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191122-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
