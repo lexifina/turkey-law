@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı; Ek-1’de Gümrük Tarife Pozisyonları ve tanımları belirtilen eşyanın ithalatında 22/10/2019 tarihli ve 30926 sayılı Resmî Gazete’de yayımlanan 1676 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Naylon veya Diğer Poliamidlerden İpliklerin İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar (Karar) kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.
