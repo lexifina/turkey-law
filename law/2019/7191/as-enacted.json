@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7191",
+  "year": 2019,
+  "title": "Su Ürünleri Kanununda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-11-22",
+  "gazette_issue": "30956",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191122-1.htm",
+  "source_sha256": "08712945d98a041ea471a074c7d770da975b3da975ed306d4bf6be774a5edd03",
+  "text_sha256": "6650cba1e4c6b47640d037ee3699bc57b56b6aa40125d7a1331584facf3e5f34",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/11/22/30956-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191122-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
