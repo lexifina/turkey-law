@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 22/11/2019",
+  "first_law": null,
+  "gazette": "30860",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-11-22",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-08-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33725&MevzuatTertip=5",
+  "source_bytes": 29317,
+  "source_id": "8.5.33725",
+  "source_sha256": "c3d6079f0c36320f01f797a119241c4abed24b314ff53fd14922a460eb79d26e",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ SİBER GÜVENLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 498,
+  "version_label": "oldest version available",
+  "word_count": 890
+}
