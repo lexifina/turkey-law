@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "405",
+  "decision_date": "2019-11-26",
+  "source_id": 31252,
+  "chamber": "5",
+  "ilam_number": "76",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31252/",
+  "source_sha256": "ec73bbff3db9469aa0af4605ed602c357486ec42520bc8fe1016490614b95e6f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
