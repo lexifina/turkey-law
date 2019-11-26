@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "678",
+  "decision_date": "2019-11-26",
+  "title": "MEC.KAR. (Zabıta Personeli Maktu Mesai Ücreti ).doc",
+  "listed_as": "678 MEC.KAR. (Zabıta Personeli Maktu Mesai Ücreti ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/678-meckar-zabita-personeli-maktu-mesai-ucreti-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/26-kasim-2019-meclis-kararlari",
+  "listing_sha256": "4a0a02cb75bb3ebe9ff5a95f62a26003db5843aa900c8e2f1e4469c903c9b9fe",
+  "meeting_title": "26 KASIM 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
