@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2019/352",
+  "source_id": 6656,
+  "date": "2019-11-26",
+  "title": "Bir Banka  Nezdinde Gerçekleşen Veri İhlali ile İlgili Olarak Kişisel Verileri Koruma Kurulunun 26/11/2019 Tarihli ve 2019/352 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6656/2019-352",
+  "source_sha256": "4eb33b1504e2902092af5d4f7662673dfd0918297552e21a9fb338a3411d8d3f",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
