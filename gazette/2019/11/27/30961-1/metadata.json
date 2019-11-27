@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-11-27",
+  "issue": "30961",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Deniz Kaza ve Olaylarını İnceleme Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191127-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191127.htm",
+  "index_sha256": "0d90f0ca54bc40520c0f02919dd42467381bd7d7c92ab0abc32e36a483637ab9",
+  "index_header": "27 Kasım 2019 ... 30961 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/11/20191127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
