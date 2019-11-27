@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.33993",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAVA VE YER OPERASYONLARI İÇİN KULLANILAN ÖLÇÜ BİRİMLERİ YÖNETMELİĞİ (SHY-ÖLÇÜ)",
+  "number": "33993",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2019/33993",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33993&MevzuatTertip=5",
+  "source_sha256": "8dd7cf2cc20ae044f0f81cbff7dbad354ccd8c24344c9fef08bc39bd3ce87f86",
+  "source_bytes": 24338,
+  "published": "2019-11-27",
+  "gazette": "30961",
+  "in_force": "2019-11-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.11.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1044,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33993-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
