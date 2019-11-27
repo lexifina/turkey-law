@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+b) DNA testi: Sperma üretimi yapılacak/yapılan damızlık hayvanın Bakanlığın yetkili kıldığı laboratuvarda DNA profilinin belirlendiği işlemi,
+c) Genel Müdürlük: Hayvancılık Genel Müdürlüğünü,
+ç) Giriş: Malların Türkiye Gümrük Bölgesine ve serbest bölgelere girişi, ithalatı ve transit rejimine tâbi tutulmasını,
+d) İl müdürlüğü: Gıda, Tarım ve Hayvancılık Bakanlığı il müdürlüklerini,
+e) İthalat: Malların, serbest dolaşıma giriş rejimi, gümrük antrepo rejimi, dâhilde işleme rejimi, gümrük kontrolü altında işleme rejimi ve geçici ithalat rejimi prosedürlerine tâbi tutulmasını,
+f) İthalatçı firmalar: Bakanlıktan ithalat yeterlilik belgesi almış gerçek ve tüzel kişileri,
+g) İzinli laboratuvar: Bakanlıkça muayene yapma izni verilmiş laboratuvarı,
+ğ) Komisyon: Veteriner sınır kontrol noktası, il veya gümrük müdürlüğü tarafından oluşturulan komisyonu,
+h) Kullanılabilirlik yazısı: Bakanlıkça izinli laboratuvarın sperma muayenesi sonuçları uygun çıkan ürüne verdiği yazıyı,
+ı) Payet: Spermalar seyreltildikten sonra 0,25 ve/veya 0,5 ml miktarında doldurulduğu ambalaj birimi,
+i) Pedigri: Soy kütüğüne kayıt edilen damızlıklara, kulak numarası, isim, orijin, ırk, renk, eşkâl, cinsiyet, doğum tarihi, verim kayıtları, yetiştirici ve sahibi ile hayvanın cetlerine ait bilgileri ve verimlerini belirten belgeyi,
+j) Referans laboratuvar: Bakanlık tarafından referans olarak belirlenen laboratuvarı,
+k) Sperma: Sağlıklı ve damızlık niteliği taşıyan erkek hayvanlardan belirli yöntemlerle alınan, ejekülatların spermatolojik muayeneleri yapıldıktan sonra, dondurulmuş sperma porsiyonlarını,
+l) Sperma muayenesi: Dondurulmuş spermada Bakanlığın öngördüğü spermatolojik muayeneleri,
+m) Uygunluk yazısı: Gümrük işlemleri ile ilgili veteriner sınır kontrol noktası veya il müdürlüğünce gümrük müdürlüğüne yazılan yazıyı,
+n) Üretim merkezi: Bakanlıktan sperma, ovum ve embriyo için üretim izni almış özel kuruluş veya kamu kurum ve kuruluşlarını,
+o) Veteriner sınır kontrol noktası: Sınır gümrük kapılarında yer alan gümrüklü yer ve sahalarda canlı hayvan ve hayvansal ürünler ile bitki ve bitkisel ürünlerin ülkeye girişinde kontrollerinin yapıldığı yeri,
+ö) Yediemin: Giriş gümrük müdürlüğü kontrolü altında fiili ithalat, mahrecine iade veya imha işleminin gerçekleştirilmesine kadar ürünün muhafaza edilmek üzere teslim edildiği kişi veya kuruluşu,
+ifade eder.
