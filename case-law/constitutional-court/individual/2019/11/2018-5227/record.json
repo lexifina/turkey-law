@@ -1,0 +1,20 @@
+{
+  "applicant": "H.Ç.",
+  "application_date": "2018-02-12",
+  "application_number": "2018/5227",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-11-27",
+  "id": "10dd15c0-4415-0d3d-8a5f-a7a3a2d26703",
+  "in_force": "2019-11-27",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjEwZGQxNWMwLTQ0MTUtMGQzZC04YTVmLWE3YTNhMmQyNjcwMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "694b5f10609bf6166727bc9f4db232c7e65019ad62e2b095123a9acb2fbe27ab",
+  "version_label": "as-enacted"
+}
