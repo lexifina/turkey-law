@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "46948",
+  "decision_date": "2019-11-27",
+  "source_id": 21002,
+  "chamber": "5",
+  "file_number": "42962",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21002/",
+  "source_sha256": "aac7fcb980b4ef2dacdba7f4282e9232722ea69bdac184901025dedf223717d8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
