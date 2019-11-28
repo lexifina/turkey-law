@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 3,
+  "sitting": 24,
+  "sitting_date": "2019-11-28",
+  "listed_date": "28 Kasım 2019 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/3/24/6930efe8-1206-4828-bcc7-3d5334c34a3e.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=2a1e845e-b1d8-4030-8250-0185ceac63b7",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=3",
+  "source_sha256": "877049818b38e9f29ecdaffa3b3ead01401b2341038d6dd8503a6a8c2b1b53fc",
+  "source_bytes": 977494,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
