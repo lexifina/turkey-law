@@ -1,0 +1,22 @@
+{
+  "number": "1440",
+  "number_as_published": "1440",
+  "year": 2019,
+  "title": "Encümen kararı 2019/1440",
+  "decision_date": "2019-11-28",
+  "source": "https://www.izmir.bel.tr/tr/Encumen/TariheGoreKararGetir?draw=1&start=0&length=500&yil=2019&ay=&gun=&txtSozcuk=",
+  "official_document": null,
+  "source_sha256": "8a4fe50c6c8c6027423118b333b2505c8f03f701a6b3baf1588d467f7e22204f",
+  "issuer": "İzmir Büyükşehir Belediye Encümeni",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2019-11-28",
+  "in_force_basis": "Decision date as printed in the official council listing: 28/11/2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/EncumenKararlari/50"
+}
