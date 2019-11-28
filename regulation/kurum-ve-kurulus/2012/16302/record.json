@@ -1,0 +1,49 @@
+{
+  "source_id": "7.5.16302",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ESNAF VE SANATKÂRLAR ŞÛRASI YÖNETMELİĞİ",
+  "number": "16302",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16302",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16302&MevzuatTertip=5",
+  "source_sha256": "d026832205a66108e3ef6ad6dca74494a60c9aa033b4eb812995b8813e2719b3",
+  "source_bytes": 47485,
+  "published": "2012-06-29",
+  "gazette": "28338",
+  "in_force": "2019-11-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/11/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-11-28",
+      "RG-28/11/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-11-28",
+      "28/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-10-06",
+      "RG-6/10/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-10-06",
+      "6/10/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1891,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
