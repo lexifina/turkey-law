@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "8959 /1-174",
+  "decision_date": "2019-11-28",
+  "title": "2020 yılı için geçerli OSB Dağıtım Bedelleri",
+  "resmi_gazete_date": "2019-12-11",
+  "resmi_gazete_number": "30975",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D09AnLl/R6c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D09AnLl/R6c="
+  ],
+  "source_sha256": "4c23d708cfcc5c65450dff4f1ce356e8c3e6e889157e31a75a038ae60d90830a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2019-11-28",
+  "law_text_complete": false
+}
