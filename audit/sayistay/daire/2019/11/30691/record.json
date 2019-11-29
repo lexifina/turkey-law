@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "170",
+  "decision_date": "2019-11-29",
+  "source_id": 30691,
+  "chamber": "8",
+  "ilam_number": "36",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30691/",
+  "source_sha256": "da977e4a14d7609fb00ba1e8f0b63a4d00d106126182048620265a79feca69d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
