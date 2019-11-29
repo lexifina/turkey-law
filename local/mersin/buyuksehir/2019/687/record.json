@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "687",
+  "decision_date": "2019-11-29",
+  "title": "MEC. KAR. ( MBB 2020 YILI BÜTÇESİ ).doc",
+  "listed_as": "687 MEC. KAR. ( MBB 2020 YILI BÜTÇESİ ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/687-mec-kar--mbb-2020-yili-butcesi-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/29-kasim-2019-meclis-kararlari",
+  "listing_sha256": "17ca4cf000e95ff07a26397f065f5fd4dd41eda3a55d70da083b9bd6d0629eeb",
+  "meeting_title": "29 KASIM 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
