@@ -1,0 +1,29 @@
+{
+  "number": "month-11",
+  "year": 2019,
+  "month": 11,
+  "title": "Meclis Kararları 2019/Kasım",
+  "decision_date": null,
+  "index_date": "2019-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2019",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-kasim.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-kasim.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-kasim.html",
+  "source_sha256": "80f2ac2c9aec3a8bef602097af4011894dc0dfc796ae344e26b9a1da9b3dddd1",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2019/Kasım",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
