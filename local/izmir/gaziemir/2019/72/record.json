@@ -1,0 +1,29 @@
+{
+  "number": "72",
+  "number_as_published": "72",
+  "year": 2019,
+  "month": 11,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2019-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2019",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=35",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=35",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/2511dbcca8354802653556216a0058982511dbcca8354802653556216a005898.doc",
+  "source_sha256": "373f3a76608b589a59c90abb50b6d186371a6e58885ac3e827420614cc2b66bb",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-11-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Kasım 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "posting_date": "28.11.2019",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
