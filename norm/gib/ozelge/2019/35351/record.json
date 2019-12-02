@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[2017/593]-1049212",
+  "source_id": 35351,
+  "date": "2019-12-02",
+  "title": "Döviz kazandırıcı faaliyetlerde damga vergisi istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35351",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f41dd47b577dfa5718aefa7cb8fd1c849619fc623b0278a41ce120fd1c0767fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
