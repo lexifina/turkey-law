@@ -1,0 +1,5 @@
+Uygulamadan çıkış
+MADDE 6 – (1) Şehir içi yolcu taşımacılığı faaliyetine ilişkin kazançları hasılat esaslı kazanç tespiti usulüne göre hesaplanan mükellefler, bu usule geçtikleri tarihten itibaren iki yıl geçmeden bu usulden çıkamayacaklardır.
+(2) Bu usulden çıkmak isteyen mükellefler, iki yıllık sürenin tamamlanması kaydıyla, gelir veya kurumlar vergisi yönünden bağlı bulundukları vergi dairesine verecekleri dilekçelerine istinaden, takip eden yılın başından itibaren hasılat esaslı kazanç tespiti usulünden çıkabileceklerdir.
+Örnek 7: Şehir içi yolcu taşıma faaliyetine ilişkin hasılatının tamamını elektronik ücret toplama sistemi aracılığı ile elde eden Bay (D), 1/1/2020 tarihi itibariyle hasılat esaslı kazanç tespiti usulüne geçmiştir. Buna göre; Bay (D) 1/1/2022 tarihinden önce söz konusu usulden çıkamayacaktır.
+Bay (D), 15/7/2022 tarihinde bağlı bulunduğu vergi dairesine verdiği dilekçede takip eden yılın başından itibaren bu usulden çıkmak istediğini belirtmiştir. Buna göre Bay (D), 1/1/2023 tarihinden itibaren vergiye tabi kazancının tespitinde hasılat esaslı kazanç tespiti usulünü uygulamayacaktır.
