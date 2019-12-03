@@ -1,0 +1,3 @@
+Yetkilendirilmiş kullanıcıların tanımlanması
+MADDE 6 – (1) Yararlanıcılar, 5 inci maddeye istinaden DYS’ye tanımlanmalarını müteakip, kendileri adına DYS üzerinden işlemleri gerçekleştirecek gerçek kişilerin yetkilendirilmesine yönelik başvurularını Bakanlık Merkez Teşkilatına veya Bakanlıkça belirlenen Bölge Müdürlükleri veya İBGS’lere yapar.
+(2) DYS üzerinde işlem yapacak yetkilendirilmiş kullanıcılar, yetkilendirilmelerini müteakip DYS’ye tanımlanır. Bakanlık Merkez Teşkilatı veya Bakanlıkça belirlenen Bölge Müdürlükleri veya İBGS’ler yetkilendirmenin ve tanımlamanın yapılmasını teminen gerekli bilgi ve belgeleri DYS’ye aktarır ve bu bilgi ve belgeleri saklar.

@@ -1,0 +1,3 @@
+Sorumluluk
+MADDE 8 – (1) Yararlanıcılar bu Tebliğ ve uygulama usul ve esasları çerçevesinde, yararlanıcı adına işlemleri gerçekleştirecek olan yetkilendirilmiş kullanıcıların işlemleri de dâhil olmak üzere elektronik ortama aktarılan tüm bilgi ve belgelerin doğruluğundan sorumludurlar.
+(2) DYS’de yer alan yararlanıcılar, yetkilendirilmiş kullanıcılar ve DYS’yi kullanan diğer tüm kurum ve kuruluşlar DYS’nin güvenliğinin sağlanmasına yönelik olarak sisteme erişimde kullanacakları cihaz ve yazılımların güncel, zararlı yazılımlardan arındırılmış ve elektronik olarak güvenli olmasından sorumludurlar.
