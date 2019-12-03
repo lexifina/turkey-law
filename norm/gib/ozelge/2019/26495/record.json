@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-205-E.59274",
+  "source_id": 26495,
+  "date": "2019-12-03",
+  "title": "Mesleki faaliyetini icra etmeyen SMMM'nin, başka bir gelir getirici faaliyeti dolayısıyla Defter-Beyan Sistemini kullanıp kullanamayacağı, kendi beyannamesini gönderip gönderemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26495",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "99c23c45a1eb7bf6bc4787035b5b6eab4159227da8523d59041451e609e74d1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
