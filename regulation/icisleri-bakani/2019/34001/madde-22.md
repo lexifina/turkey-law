@@ -1,0 +1,3 @@
+Yeniden kimlik kartı başvurusu
+MADDE 22 – (1) Yeniden kimlik kartı başvurusunda merkezi veri tabanındaki fotoğrafın son altı ay içerisinde yapılmış bir başvuruya ait olmaması halinde, ilgiliden son altı ay içinde çekilmiş bir adet biyometrik fotoğraf istenir ve kimlik belgesi aranmaksızın biyometrik doğrulaması yapılarak kimlik kartı başvurusu alınır.
+(2) Yeniden kimlik kartı taleplerinde kimlik belgesi ibraz edilememesi ve biyometrik doğrulama da yapılamaması halinde öncelikle merkezi veri tabanında bulunan fotoğraf, imza ve kişi bilgileri üzerinden doğrulama yapılır. Doğrulama yapılamaması ve kişinin kimliğinde tereddüde düşülmesi halinde kimliğin tespiti için 12 nci maddede belirtilen usul ve esaslara göre işlem yapılır.
