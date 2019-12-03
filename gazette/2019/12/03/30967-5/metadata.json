@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-03",
+  "issue": "30967",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Cumhuriyeti Kimlik Kartı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191203-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191203.htm",
+  "index_sha256": "ed9e300c953ecf28686cf1d5f776f2346cf0ab1e928609c9737cf84b162ffb6f",
+  "index_header": "3 Aralık 2019 ... 30967 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191203.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
