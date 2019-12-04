@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47012",
+  "decision_date": "2019-12-04",
+  "source_id": 20244,
+  "chamber": "5",
+  "file_number": "44846",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20244/",
+  "source_sha256": "2ae003a0575d5271145e1f9746e60420e86f5918de73e7036b8100e248b141b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
