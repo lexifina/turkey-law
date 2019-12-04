@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/22128",
+  "submitted": "2019-12-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer ÖCALAN",
+  "province": "Şanlıurfa",
+  "summary": "Siverek'te bir işitme engelli okulu açılmasına yönelik projenin durumuna ve Türkiye genelinde ihtiyaç duyulan özel eğitim öğretmeni sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c0-e72a-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "7073a97b516ba5e5032d00d34d2971ac2eae673838561438257e8912d0104a8a",
+  "in_force": "2019-12-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
