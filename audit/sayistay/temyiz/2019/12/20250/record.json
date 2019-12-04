@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47018",
+  "decision_date": "2019-12-04",
+  "source_id": 20250,
+  "chamber": "7",
+  "file_number": "44478",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20250/",
+  "source_sha256": "dacf519ed34bfb56400a92748c332337ef6209532a02ff49c1fdcb0f31613cd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
