@@ -1,0 +1,7 @@
+İşlerin süresinde bitirilememesi ve devri
+MADDE 69 – (1) Müfettiş ve müfettiş yardımcıları kendilerine verilen görevleri ara vermeden bizzat yapıp bitirmek zorundadır. Verilen sürede tamamlanamayacağı anlaşılan görevler hakkında Başkana zamanında bilgi vererek, alacakları talimata göre hareket ederler.
+(2) Görevi erteleme veya devir zorunluluğu doğarsa; müfettiş ve müfettiş yardımcıları, uhdelerindeki görevleri, Başkanın yazılı izniyle erteleyebilir veya devredebilirler. Bu durumda; ertelenen görev, işin mahiyetine göre Başkanın takdiriyle ileri bir tarihe bırakılabileceği gibi, Başkanın yazılı emri veya onayı ile başka bir müfettişe ve/veya müfettiş yardımcısına da devredilebilir.
+(3) Devredilmesi uygun görülen görevler için devri yapacak olan müfettiş veya müfettiş yardımcısı;
+a) Bir devir notu hazırlar. En az üç nüsha olarak hazırlanacak devir notuna; devredilen işin ne olduğu, devir gününe kadar; işin hangi kısmının ne dereceye kadar incelendiği, iş hakkında ne gibi bir görüş ve kanaate varıldığı, beliren görüş ve kanaate göre bundan sonraki en uygun inceleme ve soruşturma şeklinin ne olması gerekeceği hakkındaki düşüncelerini yazar ve işi devralan müfettişe imza karşılığı verir,
+b) Devredilen işe ait bütün belgeleri sıra numarası altında gösteren dizi pusulasının bir nüshasını, işe ait defter ve belgelerle birlikte işi devralan müfettişe imza karşılığı verir,
+c) Devir notunun ve dizi pusulasının ikinci nüshalarını bir yazı ile Başkanlığa gönderir, üçüncü nüshalarını kendisi muhafaza eder.

@@ -1,0 +1,4 @@
+Yazılı sınavın değerlendirilmesi
+MADDE 53 – (1) Yazılı sınav cevap kağıtları Komisyon tarafından 100 tam puan üzerinden değerlendirilir. Okunup değerlendirilen cevap kağıtlarının baş tarafına, verilen not yazılır. Bütün kağıtlar değerlendirilip not verildikten sonra kapalı yerleri açılır, en yüksek not alandan başlamak üzere sıraya konularak sınav sonuç listesi düzenlenir, bu liste Komisyonca imzalanır ve sınav sonuçları tutanağa bağlanır.
+(2) Yazılı sınavı başarmış sayılmak için, her konu grubu için ele alınan notun 60’tan ve notların ortalamasının da 70 puandan aşağı olmaması gerekir.
+(3) Yeterlik yazılı sınav sonucuna itiraz, sınav sonuçlarının ilan edildiği günden başlamak üzere iki iş günü içinde yazılı olarak bizzat Başkanlığa yapılır. Komisyonca itirazlar en geç iki iş günü içinde değerlendirilerek sonuç ilgiliye bildirilir.

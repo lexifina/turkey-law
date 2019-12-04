@@ -1,0 +1,6 @@
+Yazılı sınavın yapılma şekli
+MADDE 30 – (1) Sınav duyurulan saatte başlar. Sınava giren adaylar yanlarında sınav giriş belgeleriyle birlikte resmi makamlarca verilmiş geçerli bir kimlik belgesi (nüfus cüzdanı, sürücü belgesi ve benzeri) bulundurmak zorunda olup, istenildiğinde bunları sınav görevlilerine ibraz etmekle yükümlüdürler.
+(2) Sınav saatinde adaylar sınav için belirtilen yerde hazır bulunurlar. Sınav için belirlenen saatten sonra gelen adaylar sınava alınmazlar.
+(3) Sınava, içinde sınav soruları bulunan mühürlü zarfın sınava katılanların huzurunda açılması, adaylara dağıtılması veya yazdırılması suretiyle başlanır. Bu şekilde başlanan sınava Başkanlıkça görevlendirilen müfettiş ve müfettiş yardımcıları ile gerekirse diğer Genel Müdürlük personeli gözcülük eder.
+(4) Adaylar, sınav sorularının cevaplarını, mühürlü sınav kağıtlarına yazarlar. Sınav kağıtlarına, kapatılacak yer dışında, adayların kimliğini belirtecek herhangi bir yazı yazılamaz ve işaret konulamaz. Kağıdına bu şekilde yazı yazan veya işaret koyan adaylarla, sınavda kopya çektiği tespit edilen adaylar hakkında bir tutanak düzenlenerek sınavları geçersiz sayılır.
+(5) Soruların sınav başlama saatinde adayların huzurunda açıldığını, sınavın başlama ve bitiş saatini, sınava girenlerin sayısını, kaç kağıt kullandıklarını ve sınavın akışını gösteren bir tutanak düzenlenir.

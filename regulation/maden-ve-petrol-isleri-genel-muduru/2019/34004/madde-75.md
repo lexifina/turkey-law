@@ -1,0 +1,2 @@
+Yıllık faaliyet raporu
+MADDE 75 – (1) Yıllık faaliyet raporu, Başkanlığın bir yıllık çalışmalarına göre, Genel Müdürlükçe uygulanan politikaların ve yürütülen hizmetlerin genel durumu, idarede gözlenen yetersizlikler, mevzuat yetersizliği ve bunların giderilmesi için alınacak yasal ve idari önlemlere dair görüş ve önerileri kapsayan ve Genel Müdüre özet bilgi vermek amacıyla Başkanlıkça hazırlanan rapordur.

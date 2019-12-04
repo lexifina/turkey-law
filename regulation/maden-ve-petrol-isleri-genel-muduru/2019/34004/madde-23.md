@@ -1,0 +1,3 @@
+Sınav ilanı
+MADDE 23 – (1) Yarışma sınavı ilanı; atama yapılması planlanan kadro sınıfı, derecesi, sayısı, adaylarda aranacak nitelikler, sınava katılma şartları, sınavın yapılacağı yer ve tarih, başvuruda istenilecek belgeler, başvuru yeri ve süresi, sınav konuları ve şekli, değerlendirme yöntemi, istenilen belgeler ile gerekli görülen diğer hususlar sınav gününden en az 30 gün önce Resmî Gazete ile Cumhurbaşkanınca belirlenen kurumun internet sayfasında ilan edilir. Ayrıca, sınav ilanı Genel Müdürlük resmi internet sitesinde yayımlanmak suretiyle duyurulur.
+(2) Son başvuru tarihi ile sınav tarihi arasındaki süre 15 günden az olamaz.

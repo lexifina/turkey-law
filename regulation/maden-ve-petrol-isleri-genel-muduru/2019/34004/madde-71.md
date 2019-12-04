@@ -1,0 +1,7 @@
+Teftiş raporu
+MADDE 71 – (1) Teftiş raporu, denetlenen birimin işlem ve hesaplarının teftişi sonucunda düzenlenen rapordur. Teftişlerde noksan ve hatalı bulunan ve ilgili birimlerce düzeltilmesi gereken işlemleri belirleyen, teftiş edilenlerin cevaplarıyla bu cevaplara ilişkin müfettişin son görüşünü içeren hususlarda cevaplı rapor düzenlenir.
+(2) Cevaplı teftiş raporu; müfettişin tespit ve önerilerine denetlenen yerin cevap teşkil edecek açıklamalarını yapmalarına olanak sağlayacak şekilde düzenlenir. Denetlenen yerin cevapları ve müfettişin son görüşünü de içeren cevaplı teftiş raporu Başkanlığa iki suret halinde sunulur. Bu raporların bir sureti Başkanlık arşivinde saklanır, diğer sureti de raporu uygulayacak ya da uygulamasını takip edecek birime gönderilir.
+(3) Birime verilen/gönderilen rapor, müfettiş tarafından belirlenen süre içinde, teftiş edilen birim amirleri tarafından cevaplandırıldıktan sonra müfettişe iade olunur.
+(4) Gelen rapor en geç on iş günü içinde müfettiş tarafından son görüşü de eklenerek Başkanlığa verilir.
+(5) Başkanlıkça cevaplı teftiş raporunda yer alan müfettişin tespit ve önerileri, denetlenen yer tarafından bu tespit ve önerilere karşılık olarak verilen cevaplar ile müfettişin son görüşü incelenir, raporda ve müfettişin son görüşünde varılan sonuçlara iştirak edildiği takdirde, müfettişin son görüşünde yer alan önerilerin gereğinin yerine getirilip getirilmediği Başkanlıkça takip edilir.
+(6) Raporun haklı bir nedene dayanmadan süresinde cevaplandırılmaması halinde ise, durum, gereği yapılmak üzere Başkanlığa bildirilir.

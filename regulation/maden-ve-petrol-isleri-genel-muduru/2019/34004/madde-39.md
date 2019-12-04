@@ -1,0 +1,5 @@
+Yetiştirme programı
+MADDE 39 – (1) Müfettiş yardımcıları üç yıllık yardımcılık döneminde aşağıdaki programa göre yetiştirilirler:
+a) Birinci dönem çalışmaları: Bu dönemde müfettiş yardımcılarına, Teftiş Kurulunun yetki alanına giren teftiş, inceleme ve soruşturmalarla ilgili mevzuatın öğretilmesiyle ilgili çalışmalar yürütülür.
+b) İkinci dönem çalışmaları: Bu dönem çalışmalarında müfettiş yardımcıları, merkez ve taşra birimlerinin teftişi ile inceleme ve soruşturma görevlerinde müfettişlerin refakatinde görevlendirilmeleri suretiyle; teftiş, inceleme ve soruşturma yöntemlerini uygulamalı olarak öğrenmeleri ve mevzuat bilgilerini pekiştirmeleri sağlanır.
+c) Üçüncü dönem çalışmaları: Birinci ve ikinci dönem çalışmalarını başarı ile bitiren ve en az bir yıl görev yapan müfettiş yardımcılarına yanında çalıştıkları müfettişlerin görüşleri de alınarak, Başkanın önerisi ve Genel Müdürün onayı ile resen teftiş, inceleme, ön inceleme ve soruşturma yapma yetkisi verilebilir. Resen teftiş, inceleme, ön inceleme ve soruşturmaya yetkili kılınan müfettiş yardımcıları bizzat veya lüzumu halinde diğer yardımcılarla veya müfettişlerle birlikte vazife görürler.

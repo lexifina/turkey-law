@@ -1,0 +1,2 @@
+Yeterlik sınavından önce Teftiş Kurulundan çıkarılma
+MADDE 47 – (1) Müfettiş yardımcılığı döneminde, performansına ve çalışmasına göre müfettişlikte başarı gösteremeyeceği anlaşılanlar, verilen ilave süre içerisinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyen, müfettişlik göreviyle bağdaşmayacak tutum ve davranışları saptananlar, yeterlik sınavı beklenmeksizin, Genel Müdürlük merkez ve taşra birimlerinde durumlarına uygun kadrolara naklen atanırlar. Bu hususların en az iki müfettiş raporu ve Başkanın görüşü ile belgelendirilmesi esastır.

@@ -1,0 +1,2 @@
+Tez konusunun belirlenmesi
+MADDE 41 – (1) Müfettiş yardımcısı, iki yıllık fiili hizmet süresini tamamladığında Genel Müdürlüğün görev sahası ile ilgili konularda üç tez konusu seçer ve Başkanın onayı ile tez konusu belirlenir. Tez konusunun uygun bulunmaması halinde, müfettiş yardımcısı on beş gün içinde Başkanın önerisi doğrultusunda üç yeni tez konusu belirler. Tez konusunun ikinci defa uygun bulunmaması halinde tez konusu Başkan tarafından resen belirlenir.

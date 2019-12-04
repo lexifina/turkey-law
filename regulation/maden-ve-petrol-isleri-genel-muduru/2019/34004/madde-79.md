@@ -1,0 +1,2 @@
+Sonuç bildirimi
+MADDE 79 – (1) Genel Müdürlük merkez ve taşra teşkilatı, Genel Müdür tarafından onaya bağlanmış raporlarda belirtilen ve yerine getirilmesi gereken iş ve işlemlerden, kendileriyle ilgili olanların sonuçlarını, ayrıca tarih belirtilmemişse, en geç üç ay içinde Başkanlığa bildirmek zorundadır. Üç ay içinde sonuçlandırılması mümkün olmayan iş ve işlemler hakkında sonuçlanıncaya kadar Başkanlıkça aksi belirtilmedikçe her üç ayda bir gelişmeler hakkında Başkanlığa bilgi verilir.

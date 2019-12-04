@@ -1,0 +1,7 @@
+Yazılı sınav kağıtlarının değerlendirilmesi
+MADDE 31 – (1) Yazılı sınav kağıtlarının değerlendirmesi 100 tam puan üzerinden yapılır.
+(2) Değerlendirmede; sınav klasik yöntemle yapılmış ise her sorunun cevabına her üye tarafından ayrı ayrı not verilir. Her üyenin notlarının ortalaması alınarak sınav cevap kağıdının notu verilir. Test usulü uygulanmışsa Sınav Komisyonun kendi arasında belirlediği en az iki üyenin gözetiminde cevap anahtarına göre adayın notu belirlenir. Bu not sınav notu olarak tespit edilir.
+(3) Genel Müdürlüğün yaptığı yazılı sınava giren müfettiş yardımcısı adayları, alan bilgisinden yapılan yazılı sınav notlarına göre, en yüksek puanlı adaydan başlamak üzere puan sıralamasına tabi tutulur. Puana göre sıralama; 28 inci maddenin ikinci ve üçüncü fıkralarında belirtilen alan bilgisi konularına göre ayrı ayrı yapılır.
+(4) Yazılı sınavda başarılı sayılabilmek için her konudan 100 tam puan üzerinden 60 puandan az olmamak üzere ortalama 70 puan almak gerekir.
+(5) Alan bilgisi puanları eşit olan adayların kendi aralarındaki sıralamasında, yabancı dil puanı yüksek olan adaya öncelik verilir. Alan bilgisi ve yabancı dil puanlarının her ikisi de eşit olan adayların kendi aralarındaki sıralamasında ise Genel Müdürlüğün esas aldığı KPSS puanı yüksek olan adaya öncelik verilir.
+(6) Sınav cevap kağıtları değerlendirilip not verildikten sonra sonuçları ile birlikte bir tutanakla Başkanlığa teslim edilir.

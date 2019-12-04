@@ -1,0 +1,2 @@
+Yeterlik notu ve başarı sırası
+MADDE 57 – (1) Sözlü sınavda da başarılı olan müfettiş yardımcılarının, yazılı ve sözlü sınav notlarının ortalaması alınır. Yeterlik notu 70 puandan az olamaz. En yüksek nottan başlamak üzere yeterlik sınavına ilişkin başarı listesi düzenlenir ve Komisyonca imzalanarak tutanağa bağlanır. Yeterlik sınav notunun eşitliği durumunda yetişme notu yüksek olana sıralamada öncelik verilir.
