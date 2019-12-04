@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47020",
+  "decision_date": "2019-12-04",
+  "source_id": 20410,
+  "chamber": "7",
+  "file_number": "43325",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20410/",
+  "source_sha256": "5865ca083cab80f1281f524ba9a2118cdbea37aae6e8ec50ddbbb646431f7aa4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
