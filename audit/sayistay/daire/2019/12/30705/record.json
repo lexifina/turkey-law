@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "208",
+  "decision_date": "2019-12-05",
+  "source_id": 30705,
+  "chamber": "4",
+  "ilam_number": "31",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30705/",
+  "source_sha256": "989380b1bf33cb205c89061906a64ce1efca432fb78ae032f852a70a3c64337a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
