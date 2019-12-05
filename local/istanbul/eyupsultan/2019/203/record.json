@@ -1,0 +1,22 @@
+{
+  "number": "203",
+  "number_as_published": "2019/203",
+  "year": 2019,
+  "title": "council decision",
+  "decision_date": "2019-12-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-aralik-ayi-meclis-kararlari/1686",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-203/1688",
+  "source_sha256": "b04fb91b135b87465d7c31911bd250a66f0075207164197873f2321d8c5a0f31",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2019-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.12.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "5e40da934dbec3c63d1470ba61dd44774cc713b2e8e86d0f4412129be4620ca1"
+}
