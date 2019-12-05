@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1236",
+  "year": 2019,
+  "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğünün 2011 ila 2016, Çay İşletmeleri Genel Müdürlüğünün 2011 ila 2016, Atatürk Orman Çiftliği Müdürlüğünün 2011 ila 2016, Türkiye Radyo-Televizyon Kurumunun 2015 ve 2016, Toplu Konut İdaresi Başkanlığının 2011 ila 2016 ve Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün 2011 ila 2016 Yıllarına Ait Bilanço ve Netice Hesaplarının Tasvip Edildiğine İlişkin",
+  "adopted": "2019-12-05",
+  "adopted_as_published": "05/12/2019",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "12.12.2019 No: 30976 M.",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc104/karartbmmc104/karartbmmc10401236.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 104",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 873717,
+      "title": "Devlet Hava Meydanları İşletmesi Genel Müdürlüğünün 2011 ila 2016, Çay İşletmeleri Genel Müdürlüğünün 2011 ila 2016, Atatürk Orman Çiftliği Müdürlüğünün 2011 ila 2016, Türkiye Radyo-Televizyon Kurumunun 2015 ve 2016, Toplu Konut İdaresi Başkanlığının 2011 ila 2016 ve Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün 2011 ila 2016 Yıllarına Ait Bilanço ve Netice Hesaplarının Tasvip Edildiğine İlişkin",
+      "adopted_as_published": "05/12/2019",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc104/karartbmmc104/karartbmmc10401236.pdf",
+      "committee_reports": [],
+      "sittings": [],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page_sha256": "207eb018a85edad41728ca0790236ef3c8f183b1a1965fc7af8b5ac7bfcabe30"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "207eb018a85edad41728ca0790236ef3c8f183b1a1965fc7af8b5ac7bfcabe30",
+  "issuer": "TBMM",
+  "in_force": "2019-12-05",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kararlar index: 05/12/2019; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
