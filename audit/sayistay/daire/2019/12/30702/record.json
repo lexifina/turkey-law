@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "208",
+  "decision_date": "2019-12-05",
+  "source_id": 30702,
+  "chamber": "4",
+  "ilam_number": "31",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30702/",
+  "source_sha256": "795bdc9d5e4de2e5dda9d85f6b74b562acb620540994629d862b2ae58e23eecb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
