@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "210",
+  "decision_date": "2019-12-05",
+  "source_id": 30715,
+  "chamber": "4",
+  "ilam_number": "396",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30715/",
+  "source_sha256": "4623f746d06d0bb02633a3942d939c73b65ce950bc6f2b66c5f379be7b73ba00",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
