@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35607",
+  "decision_date": "2019-12-05",
+  "source_id": 30912,
+  "chamber": "2",
+  "ilam_number": "43",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30912/",
+  "source_sha256": "39b0b44d3a5d0e799813972f3baaa76257a8fea8135a118a3ef9df0021b983c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
