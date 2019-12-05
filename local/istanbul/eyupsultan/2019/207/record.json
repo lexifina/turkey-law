@@ -1,0 +1,22 @@
+{
+  "number": "207",
+  "number_as_published": "2019/207",
+  "year": 2019,
+  "title": "Kemerburgaz Mithatpaşa Mahallesi, 331 ve 332 adalar",
+  "decision_date": "2019-12-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2019-aralik-ayi-meclis-kararlari/1686",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2019-207/1690",
+  "source_sha256": "b04fb91b135b87465d7c31911bd250a66f0075207164197873f2321d8c5a0f31",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-12-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.12.2019 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "a2986ca2b63eb5e6fc41ed6ebe58fcbb4119796d89f99e6b9ffe3dce899b6f6e"
+}
