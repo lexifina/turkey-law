@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-18-108]-E.243033",
+  "source_id": 20733,
+  "date": "2019-12-06",
+  "title": "Yabancı ülkelerdeki distribütörlük faaliyetlerinden elde edilen ciro ve primlerin KDV'ye tabi olup olmadığı, ticari deftere kayıt edilip edilmeyeceği ve belge düzenlenip düzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/20733",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d365c7efd2df1e351695cadfc6607a1bd71f49f2f9e36b7c1f7089aa6410dc66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
