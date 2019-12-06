@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34010",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GIDA VE YEM İŞLETMELERİNDE ÇALIŞTIRILMASI ZORUNLU MESLEK MENSUPLARININ BELİRLENMESİNE DAİR TEBLİĞ (TEBLİĞ NO: 2019/48)",
+  "number": "34010",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2019/34010",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34010&MevzuatTertip=5",
+  "source_sha256": "05b449e30af22fe745b1ffa4f57df043c61f5aa83cc54e4f9084880bae1c281e",
+  "source_bytes": 12407,
+  "published": "2019-12-06",
+  "gazette": "30970",
+  "in_force": "2019-12-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 132,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34010-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
