@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-06-7",
+  "number_as_published": "meeting-12-06-7",
+  "year": 2019,
+  "title": "Karar No: 105 – 06.12.2019 Tarihli Aralık Ayı Meclis Toplantısı",
+  "decision_date": "2019-12-06",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/f3a04eddfeae4002b2c2ee3e1bf89de4.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-12-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.12.2019; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 105 – 06.12.2019 Tarihli Aralık Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
