@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7195",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Libya Devleti Ulusal Mutabakat Hükûmeti Arasında Akdeniz'de Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-12-07",
+  "gazette_issue": "30971",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191207-2.htm",
+  "source_sha256": "dc8088d3b6c9176a1380abee3992a3c4b1f3a665d57967e39241cdc08c3bce95",
+  "text_sha256": "669cb8ae98fc2b70eef773e2ea9ebf3f4474072acdd2b52f196632b67c120ebc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/12/07/30971-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191207-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
