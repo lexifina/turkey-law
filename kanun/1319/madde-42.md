@@ -1,2 +1,5 @@
-Yürürlük ve yürütme:
-Madde 42 – Bu Kanun 1/3/1971 tarihinde yürürlüğe girer.
+DÖRDÜNCÜ KISIM[40]
+Değerli Konut Vergisi
+Konu:
+Madde 42- (Ek:5/12/2019-7194/30 md.)
+Türkiye sınırları içinde bulunan mesken nitelikli taşınmazlardan 29 uncu maddeye göre belirlenen bina vergi değeri 5.000.000 Türk lirasının (17.711.000) üzerinde olanlar değerli konut vergisine tabidir.[41][42]
