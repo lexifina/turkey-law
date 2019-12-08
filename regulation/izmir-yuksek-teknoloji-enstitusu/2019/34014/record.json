@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-12-08",
+      "08.12.2019",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30972",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-12-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2019/34014",
+  "published": "2019-12-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34014&MevzuatTertip=5",
+  "source_bytes": 26633,
+  "source_id": "8.5.34014",
+  "source_sha256": "34a00cb31e0bba55b1b4e2ba8b036072e6947c48631a5ff9f2b0ad10b02b7363",
+  "text_status": "as-enacted",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ ÇOCUK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 922
+}
