@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-08",
+  "issue": "30972",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğde Değişiklik Yapılmasına Dair Tebliğ (No: 2019/24)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191208-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191208.htm",
+  "index_sha256": "19d866be3e60a80110e3a5a02c73210b39055a24731052de6ebea404386af80a",
+  "index_header": "8 Aralık 2019 ... 30972 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191208.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
