@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/22360",
+  "submitted": "2019-12-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Alpay ANTMEN",
+  "province": "Mersin",
+  "summary": "2015-2019 yılları arasında Bakanlık tarafından belediyelere yapılan inceleme ve soruşturma işlemleri ile atanan kayyum sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-1302-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "16413161f29f21f5d610df0c02680eff917fd4a191e07080b26896dc4267e6d2",
+  "in_force": "2019-12-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
