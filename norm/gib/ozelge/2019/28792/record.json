@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "120[1-2018/20-706]-E.140977",
+  "source_id": 28792,
+  "date": "2019-12-10",
+  "title": "Teknoloji geliştirme bölgesindeki faaliyete ilişkin olarak kur farkından doğan kazançlarda istisna uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/28792",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "9b6fd3cca35d5884c18a4b234a6d661455b59949dc9b3cb2ebb9274dc1d6e9f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
