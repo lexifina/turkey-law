@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "213",
+  "decision_date": "2019-12-10",
+  "source_id": 30712,
+  "chamber": "4",
+  "ilam_number": "29",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30712/",
+  "source_sha256": "26c4b1ecc308642640646994ff67ab9861375f8d86b35db280415d42e5e5e6b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
