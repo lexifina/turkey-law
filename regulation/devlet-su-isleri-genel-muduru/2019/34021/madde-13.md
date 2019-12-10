@@ -1,0 +1,2 @@
+Denetim
+MADDE 13 – (1) DSİ tarafından yapılan su tahsislerinin, tahsis şartlarına uygun olarak kullanılıp kullanılmadığının denetimleri DSİ’ce yapılır. Yapılan denetimlerde protokolde veya taahhütnamede belirtilen hususlara aykırı hareket edildiğinin tespiti halinde, su tahsisi yapılan gerçek veya tüzel kişilere gerekli ihtarda bulunulur. İhtarın yapıldığı tarihten itibaren aykırılık su tahsisi yapılan gerçek ve tüzel kişi tarafından ivedilikle giderilir. Aksi takdirde 14 üncü maddenin ilgili hükmü uygulanır.

@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alıcı ortam: Kullanılan suyun bırakıldığı yakın ya da uzak çevreyi,
+b) Bilimsel Değerlendirme Komisyonu Raporu: 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan Doğal Mineralli Sular Hakkında Yönetmelikte tanımlanan komisyonca hazırlanan raporu,
+c) Çatı suları: Yağış sonucu her türlü yapının çatısından akan suları,
+ç) Çeşme: Kamunun yararlanabileceği yerlerde yapılmış ve herkesin kullanımında olan su akarlarını ya da akarlı su depolarını,
+d) Çevresel su ihtiyacı: Suya bağımlı karasal ve sucul ekosistemlerin devamlılığını sağlamak için gereken asgari su miktarı ve kalitesini,
+e) Devletin hüküm ve tasarrufu altındaki yerler: 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu ile belirlenen ve diğer kanunlarda Devletin hüküm ve tasarrufu altında sayılan yerleri,
+f) Doğal mineralli su: 3/6/2007 tarihli ve 5686 sayılı Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanununda belirtilen suları,
+g) DSİ: Devlet Su İşleri Genel Müdürlüğünü,
+ğ) Emniyetli su: Miktar ve kalite açısından uygun olan suyu,
+h) Faaliyetten sorumlu kurum/kuruluş: Su kullanacak olan gerçek ya da tüzel kişiye ruhsat verecek olan ve faaliyetinden birinci derece sorumlu resmî kurum veya kuruluşu,
+ı) Genel sular: Nitelikleri itibarıyla kimsenin mülkiyetinde olmayan, üzerlerinde özel mülkiyet tesis edilemeyen, toplumun yararlanmasına ve kullanmasına bırakılmış, Devletin hüküm ve tasarrufu altında bulunan yerlerden çıkan sular ile tapulu yerlerden çıkmakla birlikte çıkan suyun, taşınmazın sınırlarını aşacak veya çıkar çıkmaz dere halini alacak kadar çok olması halinde taşınmazın ve malikinin ihtiyacını aşan kısmını,
+i) Havza planı: Havza su potansiyeli ve kalitesi, toprak kaynakları, su kullanımları ve ihtiyaçlarının etüt edilmesi, belirlenen potansiyelin değerlendirilme öncelikleri ile olabilecek su ihtiyacının tespiti, ihtiyacın karşılanma yöntemleri ile proje formülasyonları ve bunların teknik, ekonomik ve çevresel yapılabilirliğinin incelenmesini içeren planları,
+j) Kadim hak: Öncesi bilinmeyecek kadar uzun süre kullanımdan kaynaklanan hakkı,
+k) Kaynak suyu: Jeolojik birimlerin içinde doğal olarak oluşan ve yeryüzüne kendiliğinden çıkan suyu,
+l) OSB: Organize Sanayi Bölgelerini,
+m) Özel sular: Tapulu taşınmazdan kendiliğinden çıkan ve sadece o taşınmazın ve malikinin kişisel ihtiyacını karşılamaya yeterli olan suyu,
+n) Su rejimi: Suyun yıllık, aylık ve günlük değişimlerini,
+o) Su tahsisi: Miktarı ve kalitesi belirli sudan, bir ya da birden fazla gerçek ya da tüzel kişiye belirli bir amaç için, belirli miktarda ve belirli süre ile su kullanım izni verilmesini,
+ö) Ticari su: Satış amacı ile ambalajlanarak piyasaya arz edilen suları,
+p) Yağmur suyu birikintileri: Arazi topoğrafyasına göre yağışlar sonucu oluşan ve kısa zaman sonra kaybolan su birikintilerini,
+r) Yeraltı suyu: Yeraltında doygun bölgede bulunan durgun veya hareket halindeki suları,
+s) Yüzey suyu: Doğal ve düzenlenmiş tabii göller ve sulak alanlar ile baraj ve gölet gibi biriktirme yapıları rezervuarındaki sular, akarsular, sulama ve drenaj kanallarındaki akan ya da durağan halde bulunan suları,
+ifade eder.
+İKİNCİ BÖLÜM
+İlkeler, Su Tahsisi Yapılamayacak Durumlar,
