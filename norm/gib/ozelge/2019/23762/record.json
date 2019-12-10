@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "120[89-2019/303]-E.1087539",
+  "source_id": 23762,
+  "date": "2019-12-10",
+  "title": "GMSİ beyannamesinde özel sağlık sigortası primlerinin indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23762",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4edd3c72bacea44e72620c182c8832a65b2a1c87430579e3772293d294e0a930",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
