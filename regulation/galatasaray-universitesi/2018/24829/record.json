@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 33 – (1) Bu Yönetmelik 2018-2019 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-09-20",
+      "20.09.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2019-12-10",
+      "RG-10/12/2019-30974",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2019-12-10",
+      "10/12/2019",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-10/12/2019-30974",
+  "first_law": null,
+  "gazette": "30541 Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2019-12-10",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2018/24829",
+  "published": "2018-09-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24829&MevzuatTertip=5",
+  "source_bytes": 83561,
+  "source_id": "8.5.24829",
+  "source_sha256": "7c15f64626060c67bc14db7b942463353492c4b28d5045d2251a6435f6703308",
+  "text_status": "current-consolidated",
+  "title": "GALATASARAY ÜNİVERSİTESİ YABANCI DİLLER YÜKSEKOKULU\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 4432
+}
