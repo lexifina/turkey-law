@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "212",
+  "decision_date": "2019-12-10",
+  "source_id": 30900,
+  "chamber": "4",
+  "ilam_number": "51",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30900/",
+  "source_sha256": "a2168c74fdb78ec5994ce342f674a8676303e2e0cce4f445c99eddc321a565ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
