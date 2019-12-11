@@ -1,0 +1,1 @@
+[1] Danıştay İkinci Dairesinin 21/4/2026 tarihli ve E.:2020/327; K.:2026/1951 sayılı Kararı ile bu bentlerin “biyomühendislik lisans programı” bakımından eksik düzenleme içermesi nedeniyle iptaline karar verilmiştir.

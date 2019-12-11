@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 33 üncü maddesi, 21/12/1967 tarihli ve 969 sayılı Tarım ve Köyişleri Bakanlığının Merkez ve Taşra Kuruluşlarına Döner Sermaye Verilmesi Hakkında Kanunun 3 üncü maddesi, 22/3/1971 tarihli ve 1380 sayılı Su Ürünleri Kanunu ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 434 üncü ve 508 inci maddelerine dayanılarak hazırlanmıştır.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34023",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL GIDA REFERANS LABORATUVAR MÜDÜRLÜĞÜNÜN GÖREV YETKİ VE SORUMLULUKLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "34023",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2019/34023",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34023&MevzuatTertip=5",
+  "source_sha256": "4c50c386698fa5d98394f436172f9b67a2879969cb2bb6c1af64480269411634",
+  "source_bytes": 28760,
+  "published": "2019-12-11",
+  "gazette": "30975",
+  "in_force": "2019-12-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.12.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1602,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
