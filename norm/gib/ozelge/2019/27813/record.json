@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-140[2018/897]-146441",
+  "source_id": 27813,
+  "date": "2019-12-11",
+  "title": "Taşımacılık Kooperatifinde Risturn İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27813",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4dbceb69e62b795a974b16130993ac0c79baf52f29318d31d687c77ee841a9ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
