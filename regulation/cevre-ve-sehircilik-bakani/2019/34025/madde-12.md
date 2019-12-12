@@ -1,0 +1,7 @@
+Bisiklet köprü ve tünelleri
+MADDE 12 – (1) Bisiklet köprüleri veya köprülü kavşakları ile bisiklet tünelleri; doğal veya yapay bir engeli aşmak veya kavşaklar dâhil bisiklet yolları arası bağlantıyı ve sürekliliği sağlamak üzere, imar planı kararıyla bisikletliler ile yayaların birlikte veya yalnızca bisikletlilerin kullanımına yönelik projelendirilebilir. Bisiklet köprü ve tünelleri projelerinde 1/100 ölçekli plana yer verilir.
+(2) Bisiklet köprülerinde ve bisiklet tünellerinde, bisiklet yolu genişliği haricinde yolun her iki tarafında en az 50’şer cm mesafe bırakılır. Bisiklet köprülerinde ve bisiklet tünellerinde mevcut yaya yoluna bitişik bisiklet yolları için bu mesafe aranmaz.
+(3) Bisiklet köprülerinde ve rampalarında asgari korkuluk yüksekliğinin 120 cm ve korkuluklardaki boşlukların azami 15 cm genişliğinde olması zorunludur. (Ek-1 Şekil-12 ve Şekil-13)
+(4) Tek yönlü ve yalnızca bisikletlilerce kullanılacak bisiklet köprü ve tünelleri en az 250 cm genişliğinde, iki yönlü bisiklet köprü ve tünelleri asgari 4 metre genişliğinde uygulanır, şerit sayısı arttıkça 150 cm genişlik ilave edilir. (Ek-1 Şekil-12 ve Şekil-13)
+(5) Köprü yaklaşma rampalarının en çok % 5 eğimli uygulanması esastır. Daha dik eğimlerin kullanılmasının zorunlu olduğu hallerde Ek-3 Tablo-2’deki boyuna eğim/mesafe tablosuna göre uygulama yapılır.
+(6) Bisiklet köprü ve tünellerinin fen ve sanat kurallarına ve mer’i mevzuata uygun olarak inşası zorunludur.

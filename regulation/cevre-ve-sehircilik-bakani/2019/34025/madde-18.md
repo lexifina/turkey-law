@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Ulaşım Sistemleri ile Entegrasyon
+Bisikletlilerin ulaşım sistemine entegrasyonu
+MADDE 18 – (1) Bisiklet kullanımının ulaşım amaçlı hale getirilebilmesi amacıyla yetkili kurumlarca planlı bisiklet yollarının toplu taşıma ağlarına (raylı ulaşım sistemi araçları, otobüs, vapur ve benzeri) bağlanacak şekilde bütünleşmesi sağlanır.
+(2) Toplu taşımada ilgili idarelerin belirleyeceği güzergâhlarda ve sayılarda bisiklet taşıma aparatlarına sahip otobüsler kullanılır, otobüs sürücülerine gerekli eğitim verilir ve bilgilendirme yapılır. Bisiklet taşıma aparatına sahip otobüsler öncelikle yokuşun fazla, trafiğin yoğun olduğu yollarda kullanılır.
+(3) Raylı ulaşım sistemi araçlarına bisikletle erişim için ilgili idarece rampa veya mekanik platform yapılır.
+(4) İlgili idarece yolcu yoğunluğunun fazla olduğu saatlerde günlük sayı sınırlaması dâhilinde, diğer saatlerde ise herhangi bir sayı sınırlamasına tabi olmadan şehir içi raylı ulaşım sistemlerine ve vapur, feribot gibi deniz yolu araçlarına bisikletle girişe müsaade edilir. Raylı ulaşım sistemi araçlarında bisiklet sabitleyici aparat bulunan kompartıman ayrılabilir. Yeni temin edilecek raylı sistem araçlarında bisiklet kompartımanı ayrılması zorunludur. Bisiklet kompartımanlarının bulunduğu raylı ulaşım sistemi araçlarında ve bu araçlara biniş yerlerinde, bisiklet ile binilebildiğine dair görsel veya yazılı yönlendirme işaretleri yerleştirilir. Durakların yakın çevresinde açık, kapalı veya katlı bisiklet park istasyonları tesis edilir.
+(5) Toplu taşıma araçlarında bisiklet sayısı ve ağırlığı dikkate alınarak ulusal veya uluslararası sertifikaya sahip bisiklet taşıma aparatları ilgili idarenin sorumluluğunda kullanılır.

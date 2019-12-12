@@ -1,0 +1,15 @@
+Bisiklet yolu işaretlemeleri
+MADDE 14 – (1) Taşıt yolu seviyesindeki bisiklet yolu, taşıtların geçtiği bölümden, TS 10839’a uygun şekilde beyaz renkte sürekli çizgi; kavşaklarda, garaj ve bahçe giriş-çıkışında ise kesikli çizgi ile ayrılır. Geçişteki kesikli çizgiler arasında kalan bisiklet yolu kısmı aşınmayacak özellikte mavi renk boya ile boyanarak araçlar tarafından fark edilmesi sağlanır. (Ek-1 Şekil-15)
+(2) Bisiklet yollarının kavşak girişlerine uyarıcı levhalar yerleştirilir.
+(3) Bisiklet yoluna diğer taşıtların girmemesi veya park etmemesi için yaya kaldırımında “mecburi bisiklet yolu” levhası ve gerekli yerlerde “motorlu taşıt giremez” ve “duraklamak ve park etmek yasaktır” levhaları konulur. (Ek-3 Tablo-3)
+(4) Trafik ışıkları ile ilgili gerçekleştirilen düzenlemelerde, bisikletlilere sağlanan kolaylıklar ve tercih olanakları, çıkmaz sokaklar, tek yönlü sokaklar, yaya bölgeleri ve benzeri özel durumlar özel trafik işaretleri ile belirtilir.
+(5) Bisikletlilere ait trafik ışık sistemleri, uyarı ve yön levhaları, bisiklet yolları zemininde ve/veya kenarında bisiklet yolu zemini ile levha alt kenarı arasındaki net yükseklik 220 cm’den az olmamak üzere bisikletlinin kolay görebileceği bir hizada konumlandırılır. Bisiklet yollarında bulunması gereken levhalar bisikletliyi tehlikeye sokmayacak sayıda gerekli yerlere yerleştirilir.
+(6) Bisikletliler için belli bir hızda kesintisiz bisiklet sürüşünü sağlamak üzere gerekli altyapı sağlandığı takdirde sinyalizasyon düzenlemeleri yapılarak yeşil dalga sistemi oluşturulur.
+(7) Bisiklet yolunun başlangıç ve bitişi, sağa ve sola dönüşler, tehlike ve yasak yönler Ek-3 Tablo-3’te gösterilen levhalarla ve Ek-3 Tablo-4’te gösterilen zemin işaretlemeleri ile belirtilir. Diğer yol ve caddelerle olan kesişimlerden sonra da bisiklet yolunda bu işaret ve levhalar tekrarlanır.
+(8) Bisiklet yolu ile ulaşılabilecek en yakın yerleşim birimleri, hastaneler, turistik yerler, kent bütününde görülmeye değer ve bisiklet ile ulaşılabilecek tarihi noktalar, toplu taşım aktarma noktaları, en yakın bisiklet park yeri gibi odak noktalarının mesafe bilgisini veren işaretlemeler ile kavşak giriş ve çıkışlarını gösteren işaret levhaları uygun yerlere yerleştirilir.
+(9) Yaya kaldırımında bisiklet yollarına dair yayaları uyarıcı levhalar gerekli yerlere yerleştirilir.
+(10) Yayalaştırılmış sokaklarda ilgili idarece bisiklet şeritleri tesis edilmesi durumunda bisikletli hızının azami 10 km/saat’i aşamayacağına dair sokak girişlerinde işaret ve levha konulur. (Ek-3 Tablo-3)
+(11) Aynı yönde iki veya daha fazla şeritli bisiklet yollarının kurblu kesimlerinde şerit değiştirilmeyeceğini işaret etmek üzere şeritler arasında düz beyaz çizgi yapılmalıdır.
+(12) Yayanın sadece yaya geçidine ulaşmak amacıyla bisiklet yolundan geçmesi gereken durumlarda bisiklet yolu zemininde önceliğin yayada olduğunu belirtecek şekilde yaya geçidi işareti yapılır.
+(13) Paylaşımlı bisiklet yollarında Ek-1 Şekil-16’daki renklendirme, işaretleme ve levha kullanılır.
+(14) Bu madde uyarınca yapılacak işaretlemelerin Türk Standartları Enstitüsünce yayımlanan yürürlükteki standartlarda belirtilen ebatlarda olması zorunludur.
