@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "214",
+  "decision_date": "2019-12-12",
+  "source_id": 30738,
+  "chamber": "4",
+  "ilam_number": "32",
+  "item_number": 14,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30738/",
+  "source_sha256": "495f6ea7c99e8c63639f1beb9a7a5db87e574876be7876119ec067e3b0f31790",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
