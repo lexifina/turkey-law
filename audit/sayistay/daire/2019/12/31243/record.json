@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "346",
+  "decision_date": "2019-12-12",
+  "source_id": 31243,
+  "chamber": "3",
+  "ilam_number": "82",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31243/",
+  "source_sha256": "242ca8d864961b24f7cc9c1ed94d53602167b4fa3d407890d5b8b743119d7190",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
