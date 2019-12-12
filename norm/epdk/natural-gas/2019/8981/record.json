@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "8981",
+  "decision_date": "2019-12-12",
+  "title": "Spot Boru Gazı İthalat Miktarı ve Uygulama Yönteminin Belirlenmesine İlişkin Usul ve Esaslar (Usul ve Esaslar) kapsamında 2020 Gaz Yılı için yapılması gereken talep çağrılarına ilişkin olarak",
+  "resmi_gazete_date": "2019-12-17",
+  "resmi_gazete_number": "30981",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HAKTQAuo2Ds=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HAKTQAuo2Ds=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hlT7bfurHWE="
+  ],
+  "source_sha256": "67d1c2a2be1b402858c3b359676a326a0fded43f5acd9d540ca5c1d72871b2a1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-12",
+  "law_text_complete": true
+}
