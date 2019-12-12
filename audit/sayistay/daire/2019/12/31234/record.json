@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "346",
+  "decision_date": "2019-12-12",
+  "source_id": 31234,
+  "chamber": "3",
+  "ilam_number": "82",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31234/",
+  "source_sha256": "eed15a0cab7bfa97f998d0cb158f1449c0185d92ecff1e2f33f3a72653c0f825",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
