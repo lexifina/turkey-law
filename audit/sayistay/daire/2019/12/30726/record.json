@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "214",
+  "decision_date": "2019-12-12",
+  "source_id": 30726,
+  "chamber": "4",
+  "ilam_number": "32",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30726/",
+  "source_sha256": "b84b98e001a4fd2c2db3ef3eb0b3a74d46db0dad0dfdcac9709285b6bb09f375",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
