@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Ticaret Sicili Müdürlüğünün Teşkilatı ve Denetimi
+Kuruluş ve müdürlüğün iş çevresi
+MADDE 5- (1) (Değişik:RG-12/12/2019-30976-CK-1819/2 md.) Müdürlük, il merkezindeki ticaret ve sanayi odaları veya ticaret odalarında faaliyet gösterecek şekilde Bakanlık tarafından kurulur. Bakanlık il merkezleri dışındaki odalarda da müdürlük kurabilir. Ayrıca oda yönetim kurulunun teklifi ve Bakanlığın onayı ile müdürlüğe bağlı şubeler ve temsilcilikler kurulabilir. Oda bulunmayan veya sicil işlemlerinin yürütülebilmesi için yeterli teşkilatı bulunmayan veyahut teşkilatı sonradan yetersiz hale gelen odaların bulunduğu yerlerde sicil, Bakanlıkça belirlenecek başka bir odadaki müdürlük tarafından tutulur.
+(2) Müdürlük kurulacak odaların yeterli teşkilata sahip bulunup bulunmadıkları Bakanlıkça yapılan inceleme sonucuna göre tespit edilir. İncelemede, odanın üye sayısı, gelir durumu, bilgi işlem altyapısı, odada çalışan personelin sayı ve nitelik yönünden yeterlilikleri, odanın bulunduğu il ya da ilçenin çevresindeki müdürlüklere olan uzaklıkları dikkate alınır. Müdürlükler, şubeler ve temsilciliklerin kurulmasında aranacak şartlar, verilecek hizmetler ile konuya ilişkin diğer hususlar Kanunun 24 üncü maddesi uyarınca Bakanlıkça çıkarılan tebliğ ile belirlenir.(2)
+_______________
+(1) 12/12/2019 tarihli ve 30976 sayılı Resmî Gazete’de yayımlanan 1819 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkranın (g) bendinde yer alan “Gümrük ve Ticaret Bakanlığı” ibaresi “Ticaret Bakanlığı” şeklinde değiştirilmiştir.
+(2) 12/12/2019 tarihli ve 30976 sayılı Resmî Gazete’de yayımlanan 1819 sayılı Cumhurbaşkanı Kararının 2 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan “kurulmasını talep eden” ibaresi “kurulacak” şeklinde, üçüncü cümlesinde yer alan “Müdürlüklerin ve müdürlüklere bağlı şubelerin kurulmasında aranacak diğer şartlar” ibaresi “Müdürlükler, şubeler ve temsilciliklerin kurulmasında aranacak şartlar, verilecek hizmetler ile konuya ilişkin diğer hususlar” şeklinde değiştirilmiştir.
+5997
+(3) Müdürlüklerin görev alanı odaların kuruldukları il ya da ilçe ile sınırlıdır. Bakanlık oda olmayan ya da olup da yeterli teşkilatı olmayan il ve ilçeleri de içine alacak biçimde müdürlüklerin görev alanlarını değiştirebilir.
+(4) (Mülga:RG-12/12/2019-30976-CK-1819/2 md.)

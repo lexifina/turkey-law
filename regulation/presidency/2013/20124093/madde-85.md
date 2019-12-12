@@ -1,0 +1,4 @@
+Şirketin pay sahibi sayısının bire düşmesi
+MADDE 85- (1) Birden çok pay sahibi tarafından kurulan şirketin pay sahibi sayısı sonradan bire düşerse durum, bu sonucu doğuran işlem tarihinden itibaren yedi gün içinde yönetim kuruluna yazıyla bildirilir. Yönetim kurulu, bildirimin alınması tarihinden itibaren yedi gün içinde, şirketin tek pay sahipli bir anonim şirket olduğunu, bu tek pay sahibinin adı ve soyadını veya unvanını, kimlik numarasını, yerleşim yerini veya merkezini ve vatandaşlığını ilgili müdürlüğe tescil ettirmekle yükümlüdür.
+(2) Birinci fıkra uyarınca tescil edilmiş şirketin, tek pay sahibinin kendisi olduğu şirketlerin bulunması halinde, bu şirketlerin bağlı bulundukları müdürlükler ve MERSİS numaraları da tescilde gösterilir.
+(3) Şirket tek pay sahibi olacak şekilde kendi payını iktisap edemez ve ettiremez.

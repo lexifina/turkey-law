@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20124093",
+  "number": "20124093",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TİCARET SİCİLİ YÖNETMELİĞİ",
+  "published": "2013-01-27",
+  "enacted": "2012-12-19",
+  "gazette_number": "28541",
+  "in_force": "2019-12-12",
+  "in_force_basis": "Latest source-printed amendment Gazette date: 2019-12-12; current consolidated text",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20124093&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "94ab36dc3e92af3128443cca51b49e6d089a19b8ef46bcff8375d6badb1d1b3f",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

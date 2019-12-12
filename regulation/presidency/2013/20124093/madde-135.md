@@ -1,0 +1,10 @@
+Tescil
+MADDE 135- (1) Ticari işletmelerle ilgili birleşme işlemlerinin tescilinde 127 nci madde hükümleri kıyas yoluyla uygulanır.
+(2) Bir ticari işletmenin bir ticaret şirket türüne dönüşmesi halinde yeni türün tescili için zorunlu olan olguların tescili ile birlikte tür değişikliği nedeniyle ticari işletmeye ilişkin kayıtlarda gerekli değişiklikler yapılır. Tescil, eski türün sicil kaydı üzerinden yapılır.
+(3) Bir ticaret şirketinin bir ticari işletmeye dönüşmesi halinde ticari işletmeye ilişkin hususların tescili ile birlikte tür değiştiren ticaret şirketinin tüzel kişiliğinin sona erdiği hususu da tescil edilir. Tescil, eski türün sicil kaydı üzerinden yapılır.
+(4) Ticari işletmenin devrine ilişkin yapılacak tescil işlemlerinde:
+a) İşletmenin bir gerçek kişi tarafından diğer bir gerçek kişiye unvanı ile beraber devri halinde, o işletme ve unvana ait kayıtlardan yalnız devir sebebiyle değiştirilmesi gerekli olanlar değiştirilir.
+b) İşletmenin bir gerçek kişi tarafından diğer bir gerçek kişiye unvan hariç olmak üzere devri halinde ise eski unvan ve işletmeye ait bütün kayıtlar silinir. Yeni unvan altındaki işletme için yeniden tescil işlemi yapılır. İşletme tescil edilirken eskisinin devamı olduğu, işletmenin eski MERSİS numarası ve unvanı kayıtlarda gösterilir.
+c) İşletmenin bir gerçek kişi tarafından bir ticaret şirketine devri halinde ise o işletmenin ve unvanının bütün kayıtları silinir ve ticaret şirketinin tabi olduğu hükümler uyarınca bu devir dolayısıyla şirketin sicil kayıtlarında değişiklik yapılması gerektiği takdirde sadece o değişiklikler yapılır.
+ç) İşletmenin sicile kayıtlı bir işletmesi bulunmayan bir dernek veya kamu tüzel kişisi tarafından devir alınması halinde de (b) bendi uygulanır.
+(5) Ticari işletmenin devrinde, devredilen işletmenin malvarlığına dahil olan tapu, gemi ve fikri mülkiyet sicilleri ile benzeri sicillerde kayıtlı bulunan mal ve hakların devralan adına tescilinin gecikmeksizin yapılması amacıyla, müdürlük tarafından ticari işletmenin devrinin tescili ile eş zamanlı olarak ilgili sicillere derhal bildirilir.

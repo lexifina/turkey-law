@@ -1,0 +1,8 @@
+Ticaret unvanına ilişkin ortak hükümler
+MADDE 44- (1) Bir ticaret unvanına, şube unvanı da dahil olmak üzere, Türkiye’nin herhangi bir sicil dairesinde daha önce tescil edilmiş bulunan diğer bir unvandan ayırt edilmesi için gerekli olduğu takdirde ek yapılır.
+(2) Tacirin kimliği, işletmesinin genişliği, önemi ve finansal durumu hakkında, üçüncü kişilerde yanlış bir görüşün oluşmasına sebep olacak nitelikte bulunmamak, gerçeğe ve kamu düzenine aykırı olmamak şartıyla; her ticaret unvanına, işletmenin özelliklerini belirten veya unvanda yer alan kişilerin kimliklerini gösteren ya da hayali adlardan ibaret olan ekler yapılabilir.
+(3) Gerçek kişi tacirlerin faaliyet konuları birbirinden farklı olan birden çok ticari işletmesinin bulunması halinde, ticaret unvanına her işletme dolayısıyla ayırt edici ilaveler yapılarak tescil olunur.
+(4) Tek başlarına ticaret yapan gerçek kişiler ticaret unvanlarına bir şirketin var olduğu izlenimini uyandıracak ekler yapamaz.
+(5) “Türk”, “Türkiye”, “Cumhuriyet” ve “Milli” kelimeleri bir ticaret unvanına ancak Cumhurbaşkanı kararıyla konulabilir.(1)
+(6) Ticari işletme sahibinin veya bir ortağın ticaret unvanında yer alan adı kanunen değişir veya yetkili makamlar tarafından değiştirilirse unvan olduğu gibi kalabilir.
+(7) Kollektif veya komandit şirkete ya da donatma iştirakine yeni ortakların girmesi halinde ticaret unvanı değiştirilmeksizin olduğu gibi kalabilir. Bu şirketlerden birinin ticaret unvanına adı dahil olan bir ortağın ölümü üzerine mirasçıları onun yerine geçerek şirketin devamını kabul eder veya şirkete girmemekle beraber bu hususta izinlerini yazılı şekilde bildirirse şirket unvanı olduğu gibi bırakılabilir. Şirketten ayrılan ortağın adı da yazılı izni alınmak şartıyla şirket unvanında kalabilir.

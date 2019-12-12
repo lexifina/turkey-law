@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; ticaret sicili müdürlüklerinin kurulmasına ve işleyişine, sicil defterlerinin tutulmasına, ticaret sicili kayıtlarının elektronik ortamda tutulmasına, tescil zorunluluğunun yerine getirilmesine, ticaret sicili müdürlüklerinin kararlarına karşı itiraz yollarına, ticaret sicili müdür ve müdür yardımcıları ile diğer personelde aranacak niteliklere ve disiplin işlerine ilişkin usul ve esaslar ile ticaret siciline ilişkin diğer hususları kapsar.

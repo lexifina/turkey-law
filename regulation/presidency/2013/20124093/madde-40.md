@@ -1,0 +1,2 @@
+Geçici tescil
+MADDE 40- (1) Çözümü bir mahkeme kararına bağlı bulunan veya müdür tarafından kesin olarak tescilinde duraksanan olgular, müdürün bildirimi üzerine ilgililerin istemi halinde geçici olarak tescil olunur. Ancak, ilgililer üç ay içinde mahkemeye başvurduklarını veya aralarında anlaştıklarını ispat edemezlerse geçici tescil resen silinir. Mahkemeye başvurulduğu takdirde kesinleşmiş olan hükmün sonucuna göre işlem yapılır.

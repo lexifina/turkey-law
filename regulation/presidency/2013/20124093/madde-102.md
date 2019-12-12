@@ -1,0 +1,4 @@
+Şirketin ortak sayısının bire düşmesi
+MADDE 102- (1) Birden çok ortaklı olarak kurulan şirketin ortak sayısı sonradan bire düşerse durum, bu sonucu doğuran işlem tarihinden itibaren yedi gün içinde şirket müdürlerine yazıyla bildirilir. Şirket müdürleri, bildirimin alınması tarihinden itibaren yedi gün içinde, şirketin tek ortaklı bir limited şirket olduğunu, bu tek ortağın adı ve soyadını veya unvanını, kimlik numarasını, yerleşim yerini veya merkezini ve vatandaşlığını ilgili müdürlüğe tescil ettirmekle yükümlüdür.
+(2) Birinci fıkra uyarınca tescil edilmiş şirketin, tek ortağının kendisi olduğu şirketlerin bulunması halinde, bu şirketlerin kayıtlı oldukları müdürlükler ve MERSİS numaraları da tescilde gösterilir.
+(3) Şirket, tek ortak kendisi olacak şekilde, tek ortaklı bir şirket olarak tescil edilemez.

@@ -1,0 +1,4 @@
+Sicil dosyalarının veya evrakının yetkili makamlara verilmesi
+MADDE 20- (1) Mahkemeler, Cumhuriyet savcılıkları ve denetim elemanları müdürlüklerden, sicilde mevcut evrakın asıllarının kendilerine verilmesini talep edebilir. Bu durumda sicil evrakının asılları dizi pusulası ile imza karşılığı yetkili makamlara teslim edilir. Söz konusu evrakın birer sureti müdürlükçe saklanır. Yetkili makamlar dosya ile ilgili işlemler bittiğinde gecikmeksizin sicil evrakının asıllarını müdürlüğe iade etmekle yükümlüdür.
+(2) Sicil evrakı elektronik ortamda arşivlenmiş ise, yetkili makama elektronik ortamda erişim hakkı tanınarak evrakın incelenmesine imkân verilir.
+(3) Yetkili makamların, fiziki ortamdaki belgelerin asılları yerine onaylı örneklerini talep etmeleri halinde fiziki ortamdaki belgelerin onaylanmış sureti yetkili makamlara gönderilir. Elektronik ortamda gönderilecek belgeler ise güvenli elektronik imza ve zaman damgası ile onaylanır.

@@ -1,0 +1,9 @@
+ALTINCI BÖLÜM
+Anonim ve Limited Şirketler ile Şirketler Topluluğu Denetçileri
+Denetçi seçimi ve tescili
+MADDE 108- (1) Denetime tabi şirketlerde denetçi şirket genel kurulunca; topluluk denetçisi ise ana şirketin genel kurulunca seçilir. Denetçinin, her faaliyet dönemi için, faaliyet döneminin dördüncü ayının sonuna kadar ve her halde görevini yerine getireceği faaliyet dönemi bitmeden seçilmesi şarttır. Seçimden sonra yönetim kurulu, gecikmeksizin denetleme görevinin hangi denetçiye verildiğini tescil ettirir. Ancak kuruluşta denetçi şirket sözleşmesi ile seçilebilir. Şirket sözleşmesi ile denetçinin seçilmemesi halinde ise ilk hesap dönemi bitmeden genel kurul tarafından seçilerek tescil ettirilmesi zorunludur.
+(2) Denetçinin, mahkemece azledilmesi ve/veya atanması hallerinde, mahkeme kararı da gösterilerek yeni seçilen denetçi ve/veya azil olgusu tescil edilir.
+(3) Seçilen denetçinin görevi red veya sözleşmeyi feshetmesi, görevlendirme kararının iptal olunması, butlanı veya denetçinin kanuni sebeplerle veya diğer herhangi bir nedenle görevini yerine getirememesi veya görevini yapmaktan engellenmesi hallerinde, denetçi anonim şirketlerde yönetim kurulu, limited şirketlerde müdürün, her yönetim kurulu üyesinin veya herhangi bir pay sahibinin istemi üzerine mahkemece atanır. Denetçi fesih ihbarında bulunduğu takdirde, anonim şirketlerde yönetim kurulu, limited şirketlerde ise müdürler, mahkemece atama yapılana kadar görev yapmak üzere hemen geçici bir denetçi seçer ve bu hususu tescil ettirir.
+(4) Kanunun 400 üncü maddesinde sayılan bağımlılık hallerinden birinin kendisinde bulunmadığına ilişkin denetçinin beyanı alınmadan, denetçi tescil edilmez.
+(5) Ana şirket genel kurulunda topluluk denetçisi ayrıca seçilmemişse, ana şirketin denetçisi topluluk denetçisi olarak tescil edilir.
+(6) Tescilde, denetçinin adı ve soyadı veya unvanı, kimlik numarası, yerleşim yeri veya merkezi, varsa tescil edilmiş şubesi belirtilir.

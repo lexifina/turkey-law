@@ -1,0 +1,3 @@
+Mahkeme veya resmi kurumun kararına dayanan tescil
+MADDE 26- (1) Mahkemenin veya resmi bir kurumun, bir olgunun resen tesciline ilişkin kararını alan müdürlük, bu kararı resen tescil eder. 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 166 ncı maddesinin ikinci fıkrası hükmü saklıdır.
+(2) Mahkeme veya resmi bir kurum, verdiği hüküm veya kararda tescil edilecek olgu ile ilgili olarak müdürlüğü resen tescil ile sorumlu tutmadığı hallerde tescil istemi başvuruya yetkili kişilerin başvurusu üzerine yapılır. Tescil yükümlülüğünün süresi içinde yerine getirilmemesi halinde, müdürlük 36 ncı madde gereğince işlem tesis eder.
