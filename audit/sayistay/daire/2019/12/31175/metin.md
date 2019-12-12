@@ -1,0 +1,25 @@
+Damga vergisi ve doğrudan temin
+
+A) ………………….. Şti. ve ………………. Şti.’den doğrudan temin usulüne göre gerçekleştirilen yapım işlerinde, sözleşme düzenlenmeyerek Damga Vergisi kaybına neden olunması suretiyle …………………… TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+213 sayılı Vergi Usul Kanunu’nun “Vergiyi doğuran olay” başlıklı 19 uncu maddesinde vergi alacağının vergi kanunlarının vergiyi bağladıkları olayın vukuu veya hukuki durumun tekemmülü ile doğacağı belirtilmektedir.
+
+488 sayılı Damga Vergisi Kanunu’nun 1 inci maddesinin ilk fıkrasında; bu Kanun’a ekli (1) sayılı tabloda yazılı kağıtların Damga Vergisine tabi olduğu, ikinci fıkrasında; bu Kanun’daki kağıtlar terimi, yazılıp imzalanmak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade ettiği, 2 nci maddesinde; vergiye tabi kağıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine, devrine veya bozulmasına ilişkin mektup ve şerhlerin de Damga Vergisine tabi olduğu, 3 üncü maddesinde; Damga Vergisinin mükellefinin kağıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların Damga Vergisini kişilerin ödeyeceği, 4 üncü maddesinde; bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı  ve buna göre tabloda yazılı vergisinin bulunacağı,  8 inci maddesinde; bu Kanun’da yazılı resmi daireden maksadın, genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köylerin olduğu hükme bağlanmıştır.
+
+Yukarıdaki mevzuat hükümleri birlikte değerlendirildiğinde Damga Vergisinde vergiyi doğuran olayın bu verginin konusunu oluşturan kâğıtların yazılıp imzalanması veya bu kâğıtlara imza yerine geçen bir işaret konması olduğu, yani kâğıtların herhangi bir hususu ispat veya belli edecek şekilde düzenlenmesi olduğu anlaşılmaktadır.
+
+Diğer bir ifadeyle, Damga Vergisine tabi kağıtlar taraf veya taraflarınca düzenlenmesiyle Damga Vergisine konu teşkil etmekte olup, söz konusu kağıtların düzenlendikleri tarihte geçerli nispet veya miktarlar üzerinden Damga Vergisine tabi tutulması gerekmektedir.
+
+Sorgu konusu olayda doğrudan temin ile yaptırılan işlerde sözleşme düzenlenmediği ancak sözleşmenin düzenlemesi gerektiği ifade edilse de sözleşme düzenlenmediğinden vergiyi doğuran olayın vuku bulmadığı anlaşılmıştır.
+
+Neticeten,  Damga Vergisi için bir işlemin varlığı gerekmektedir. Ayrıca bu işlemin Damga Vergisi Kanununda belirlenen kapsamda işlemlerden olması, anılan işlem için belge düzenlenmiş olması, gerekmektedir ki bu unsurlardan bir ya da birkaçının bulunmaması durumunda Damga Vergisinden de bahsedilemeyecektir.
+
+B)…………………..Şti. ve ………………………Şti.’den doğrudan temin usulüne göre gerçekleştirilen yapım işlerinde doğrudan temin limitlerinde kalmak amacıyla işin bölünerek yaptırılması hususu ile ilgili olarak,
+
+Kamu İhale Genel Tebliğinde; 4734 sayılı Kamu İhale Kanunu’nun 22 nci maddesinde belirtilen hallerde ihtiyaçların; Kanunun 18 inci maddesinde sayılan ihale usulleri için tespit edilen kurallara uyulmaksızın; ilan yapılmadan, teminat alınmadan, ihale komisyonu kurma ve anılan Kanunun 10 uncu maddesinde sayılan yeterlik kriterlerini arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak temin edilmesinin mümkün olduğu ifade edilip, 22.1.1.4. inci maddesinde; “Diğer taraftan 22 nci maddeye göre ihtiyaçların karşılanmasında onay belgesi düzenlenmesi, onayı takiben ihale yetkilisince görevlendirilen kişi veya kişiler tarafından piyasada fiyat araştırması yapılması ve buna ilişkin belgelerin dayanakları ile birlikte onay belgesine eklenmesi zorunludur. İdarelerce gerekli görülmesi halinde, fiyat araştırmaları, ilgili İhale Uygulama Yönetmeliklerinde yaklaşık maliyetin belirlenmesine ilişkin esas ve usuller çerçevesinde yapılabilir.” denilerek, ihtiyaçların uygun şartlarla ve zamanında karşılanması, kamu kaynaklarının verimli şekilde kullanılması için 4734 sayılı Kanun hükümlerine uygun olarak ihale usulünün belirlenmesine ve ihale dokümanında yapılacak düzenlemelere ilişkin yetki ve sorumluluk idarelerin takdirine bırakılmaktadır. Söz konusu olayda; yapım işlerine ilişkin alımların acil ve çeşitli olması, birçoğunun önceden öngörülebilir ve planlanabilir olmaması nedeniyle küçük tutarlı ihtiyaçların doğrudan temin yöntemi ile karşılandığı, sorumluların savunmalarından anlaşıldığından sorumluların savunmalarına itibar edilmiştir.
+
+Bu itibarla,..Yapılmamış bir sözleşmeden de Damga Vergisi alınmayacağı anlaşıldığından kamu zararı oluşmayan ……………………………….. TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
+
+karar verildi.

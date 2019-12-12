@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "407",
+  "decision_date": "2019-12-12",
+  "source_id": 31175,
+  "chamber": "5",
+  "ilam_number": "64",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31175/",
+  "source_sha256": "22ad313c535834a21bee3ebebcc104762a6abd9da767d1f01febc9095b1bf669",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
