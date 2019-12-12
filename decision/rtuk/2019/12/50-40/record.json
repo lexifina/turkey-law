@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2019/50",
+  "meeting_date": "2019-12-12",
+  "meeting_date_as_published": "12.12.2019",
+  "decision_no": "40",
+  "source_id": 12563,
+  "title": "RTÜK kararı 2019/50-40",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/12563",
+  "source_sha256": "cb05f0a28d3c9543835311652efd0156c6c6c22e0c0411483e274e616d97dfbf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
