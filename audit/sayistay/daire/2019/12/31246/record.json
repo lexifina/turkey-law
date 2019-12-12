@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "346",
+  "decision_date": "2019-12-12",
+  "source_id": 31246,
+  "chamber": "3",
+  "ilam_number": "82",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31246/",
+  "source_sha256": "f6f696a8d9ab4342e64245a80652ff5304553ddf52816d6655b277d877a6e721",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
