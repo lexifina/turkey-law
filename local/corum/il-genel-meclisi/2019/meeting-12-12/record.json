@@ -1,0 +1,26 @@
+{
+  "number": "meeting-12-12",
+  "number_as_published": "meeting-12-12",
+  "year": 2019,
+  "title": "ARALIK AYI İL GENEL MECLİSİ KARARLARI",
+  "decision_date": "2019-12-12",
+  "source": "https://www.corumozelidare.gov.tr/aralik-ayi-il-genel-meclisi-kararlari",
+  "official_document": "https://www.corumozelidare.gov.tr/kurumlar/corumozelidare.gov.tr/Genel/PDF Dosyaları/İ.G.M. Kararları/12_Aralik-2019-Meclis-kararlari.pdf",
+  "source_sha256": "7f7923ea6697008a32d77a4b4af8fadabb1b7bd89c87a8df0848c992b7fee4a1",
+  "issuer": "Çorum İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2019-12-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12 ARALİK 2019 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ARALIK AYI İL GENEL MECLİSİ KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.corumozelidare.gov.tr/aralik-ayi-il-genel-meclisi-kararlari",
+  "item_title": "ARALIK AYI İL GENEL MECLİSİ KARARLARI"
+}
