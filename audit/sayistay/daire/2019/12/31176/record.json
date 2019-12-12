@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "407",
+  "decision_date": "2019-12-12",
+  "source_id": 31176,
+  "chamber": "5",
+  "ilam_number": "64",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31176/",
+  "source_sha256": "7b24896b87fd407b1cc831bafb6c2ee49e0eced78c0df39dc6ff9ac7ac9bd046",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
