@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 873580,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "summary": "IV. TUR - Ticaret Bakanlığı - Ekonomi Bakanlığı - Rekabet Kurumu - Helal Akreditasyon Kurumu - Sanayi ve Teknoloji Bakanlığı - GAP Bölge Kalkınma İdaresi Başkanlığı - Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı - Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı - Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı - Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destek leme İdaresi Başkanlığı - Türk Standartları Enstitüsü - Türk Patent ve Marka Kurumu - Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - Türkiye Bilimler Akademisi 2020 Yılı Merkezî Yönetim Bütçesi ile 2018 Yılı Merkezî Yönetim Kesin Hesabı - Türkiye Uzay Ajansı 2020 Yılı Merkezî Yönetim Bütçesi",
+  "title": "IV. TUR - Ticaret Bakanlığı - Ekonomi Bakanlığı - Rekabet Kurumu - Helal Akreditasyon Kurumu - Sanayi ve Teknoloji Bakanlığı - GAP Bölge Kalkınma İdaresi Başkanlığı - Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanlığı - Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanlığı - Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı - Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destek leme İdaresi Başkanlığı - Türk Standartları Enstitüsü - Türk Patent ve Marka Kurumu - Türkiye Bilimsel ve Teknolojik Araştırma Kurumu - Türkiye Bilimler Akademisi 2020 Yılı Merkezî Yönetim Bütçesi ile 2018 Yılı Merkezî Yönetim Kesin Hesabı - Türkiye Uzay Ajansı 2020 Yılı Merkezî Yönetim Bütçesi",
+  "first_sitting_date": "2019-12-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 27,
+      "sitting": 32,
+      "sitting_date": "2019-12-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c027/tbmm27027032.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c027/tbmm27027fih.pdf",
+      "pages": [
+        "706:894"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2019-12-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
