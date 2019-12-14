@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Gençlik ve Spor Bakanını,
+b) Bakanlık: Gençlik ve Spor Bakanlığını,
+c) Dönüşüm işlemi: Sporcu lisansında yer alan lisans türünün ferdi lisans veya kulüp lisansı olarak değiştirilmesini,
+ç) Federasyon: 3289 sayılı Kanun kapsamında kurulan spor federasyonlarını,
+d) İl müdürlüğü: Gençlik ve spor il müdürlüğünü,
+e) İlçe müdürlüğü: Gençlik ve spor ilçe müdürlüğünü,
+f) Lig: Takım sporlarında kulüp takımlarının karşılıklı müsabaka oynamak suretiyle katıldıkları yarışma grubunu,
+g) Lisans: Spor yapmaya ve yarışmalara katılmaya ilişkin verilen izin belgesini,
+ğ) Sağlık raporu: Spor yapmaya ve yarışmalara katılmaya elverişliliği tevsik eden belgeyi,
+h) Sezon: İlgili federasyon talimatlarında belirlenen tarih aralığını,
+ı) Spor kulübü: Bakanlık tarafından spor kulübü olarak tescili yapılan derneği,
+i) Sporcu: Lisans verilen kişiyi,
+j) Sporcu kartı: Kişinin, zihinsel ve fiziksel gelişimini sağlamak ve eğlenmek amacıyla spor yaptığını gösteren belgeyi,
+k) Sporcu lisansı: Sporcunun, spor dalı faaliyetlerine ve yarışmalara katılabilmesine imkân veren izin belgesini,
+l) Talimat: Sporcu lisansı, vize ve transfer talimatını,
+m) Transfer: Sporcu lisansında yer alan kulüp adı kaydının başka bir kulüp adına değiştirilmesi işlemini,
+n) Üst lig: Federasyon tarafından ulusal düzeyde düzenlenen ligi,
+o) Vize: Sporcunun, ilgili sezon için federasyon faaliyetlerine katılabilmesine imkân veren izin işlemini,
+ifade eder.

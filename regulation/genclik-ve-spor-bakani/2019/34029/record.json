@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34029",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPORCU LİSANS, VİZE VE TRANSFER YÖNETMELİĞİ",
+  "number": "34029",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2019/34029",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34029&MevzuatTertip=5",
+  "source_sha256": "a3f9d8f4c07c04160ae07b64aa994235a0b455c40c779162a2ec4ae0987fa6db",
+  "source_bytes": 27455,
+  "published": "2019-12-14",
+  "gazette": "30978",
+  "in_force": "2019-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1193,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
