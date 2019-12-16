@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-105-E.62490",
+  "source_id": 25273,
+  "date": "2019-12-16",
+  "title": "Sahibi olunan arsa üzerinde, ticari kazanç kapsamındaki özel inşaat işine ilişkin tesis edilen mükelelfiyetin inşaat tamamlanmadan kapatılması, aktifte yer alan iktisadi işletmeler için tesis edilmesi gereken işlem hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25273",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "dfc82890e6d5bd0291754b4b8306c183fe1fcdc43de385b4529e72d5efee65e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
