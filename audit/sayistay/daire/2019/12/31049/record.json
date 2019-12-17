@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10772",
+  "decision_date": "2019-12-17",
+  "source_id": 31049,
+  "chamber": "1",
+  "ilam_number": "48",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31049/",
+  "source_sha256": "255e352d571927e76ea2b844008de67af2addc486628d262ad10f6ce678d4e51",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
