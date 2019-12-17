@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34044",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5580 SAYILI KANUN KAPSAMINDA AÇILAN ÖZEL OKULLARDA ÖĞRENİM GÖREN VE ÖNCEKİ YILLARDA EĞİTİM VE ÖĞRETİM DESTEĞİ KAPSAMINA ALINIP ÖĞRETİM KADEMESİNİ TAMAMLAMAYAN ÖĞRENCİLERE 2019-2020 EĞİTİM ÖĞRETİM YILINDA EĞİTİM VE ÖĞRETİM DESTEĞİ ÖDEMESİNE İLİŞKİN TEBLİĞ",
+  "number": "34044",
+  "issuer": "Millî Eğitim Bakanı ile Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/34044",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34044&MevzuatTertip=5",
+  "source_sha256": "109206935c18b09f3254689f73877eb22ba879bd89897744fc1440da3ddf10ca",
+  "source_bytes": 19603,
+  "published": "2019-12-17",
+  "gazette": "30981",
+  "in_force": "2019-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2019); own commencement article: \"bu Tebliğ, 2019-2020 eğitim ve öğretim yılı için geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Tebliğ, 2019-2020 eğitim ve öğretim yılı için geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 634,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
