@@ -1,0 +1,23 @@
+  Amatör spor kulüplerine yapılan nakdi yardım
+
+...... sayılı ilamın .......üncü maddesi ile;
+
+Belediye bütçesinden amatör spor kulüplerine yapılan nakdi yardımda mevzuatın öngördüğü sınırın aşılması sonucu oluşan.........TL kamu zararının sorumlulara müştereken ve müteselsilen ödettirilmesine karar verilmişti.
+
+Bu defa, sorumlular tarafından gönderilen yargılamanın iadesi talebini içeren dilekçeler ile; ilamın ......üncü maddesiyle tazminine hükmedilen tutarın hüküm tarihinden önce tahsil edildiği bildirildiğinden, Denetçisi tarafından Ek Rapor düzenlenerek Daireye havale edilmiştir. Söz konusu Ek Raporun Dairemiz tarafından yargılanması sonucu düzenlenen ..... sayılı  Ek İlamın ..... inci maddesi ile; ilgili tahsilatın kabul edilip ilama dercedilebilmesi için ........ yılında belediyenin amatör spor kulüplerine yaptığı nakdi yardımların yasada belirtilen sınır içerisinde kalıp kalmadığına ilişkin tespitin yapılarak Ek Rapor düzenlenmesi adına konunun hüküm dışı bırakılmasına karar verilmişti.
+
+Mezkur karar doğrultusunda, istenilen tespitin yer aldığı Ek Rapor ...... tarihinde düzenlenerek Dairemize havale edilmiştir.
+
+Konu ayrıntıları ile açıklanacak olursa; 5393 sayılı Belediye Kanun’un “Belediyenin Görev ve Sorumlulukları” başlıklı 14 üncü maddesinde belediye bütçesinden amatör spor kulüplerine yapılabilecek nakdi yardımın parasal üst sınırının belirlendiği, buna göre..... yılında ....... Belediyesinin amatör spor kulüplerine yapabileceği nakdi yardım tutarının en fazla ........ TL olması gerekirken toplamda .......TL olduğu, Belediye Meclisi kararlarında, yapılacak yardımların kanuni dayanağı belirtilmiş olmakla birlikte ödenek ve parasal sınırları bilmelerinin mümkün olmadığı, ödenek ve parasal sınırları bilmesi gerekenlerin Harcama Yetkilileri ve Gerçekleştirme Görevlileri olduğu ifade edilerek amatör spor kulüplerine mevzuatta belirtilen yasal sınırın söz konusu tutar kadar aşılması sonucunda kamu zararına sebebiyet verildiği ve ilgili kamu zararı tutarının sorumlulara müştereken ve müteselsilen ödettirilmesine karar verilmişti.
+
+Harcama Yetkilisi .......... ile Gerçekleştirme Görevlileri ............ve ............... tarafından gönderilen dilekçelerde söz konusu ilamın .........üncü maddesi ile tazminine hükmedilen .......... TL’nin, .........tarih ve .......... numaralı tahsilat makbuzu ile tahsil edildiği ve .........tarih ve ......... sayılı Muhasebe İşlem Fişi ile gelir kaydının yapıldığını bildirmeleri üzerine mezkur raporun Denetçisi tarafından Ek Rapor düzenlenmiş ve Daire tarafından yapılan yargılamada, yapılan söz konusu tahsilatın kabulü için belediyece ........ yılında amatör spor kulüplerine yapılan nakdi yardımın yine mevzuatta belirtilen yasal sınırı aşıp aşmadığının tespit edilmesi amacıyla; ........tarih ve ...... sayılı Ek İlamın ...... inci maddesi ile .........TL’lik işlemin hüküm dışı bırakılmasına karar vermiştir.
+
+Denetçi tarafından, istenilen tespitin yer aldığı Ek Raporun .........tarihinde düzenlenerek Dairemize havale edildiği görüldüğünden 6085 sayılı Sayıştay Kanununun 50 nci maddesi gereğince yargılamanın devamına karar verildi.
+
+Konu ile ilgili bilgi ve belgelerin tetkikinden, .....sayılı ilamın ..... üncü maddesi ile ........ yılı içinde Belediye tarafından amatör spor kulüplerine yapılan nakdi yardımların kanuni sınırın üstünde olması nedeniyle tazminine hükmedilen.......TL’lik kamu zararının, .........Spor Kulübünden, ........ Belediye Meclisinin ......tarih ve .......sayılı kararı doğrultusunda söz konusu kulübe .........yılı içinde yapılmasına karar verilen........TL nakdi yardımdan mahsup edilmesi suretiyle tahsil edildiği anlaşılmış olmakla birlikte; Denetçisi tarafından Dairenin isteği doğrultusunda düzenlenen Ek Rapor ile tespit edildiği üzere, ......... yılında da belediyece amatör spor kulüplerine yapılan yardımlar toplamı yasal sınırı .......TL aşmıştır. Ancak, sorumlularca ........yılında aşılan söz konusu tutarın da.......spor kulübünün........ yılında tahakkuk ettirilen alacağından mahsup edilmek suretiyle tahsil edilerek ......tarih ve ........ sayılı Muhasebe İşlem Fişi ile gelir kaydı yapıldığı görüldüğünden,
+
+......... tarih ve......sayılı Ek İlamın ........ inci maddesi ile verilen hüküm dışı kararının kaldırılmasına,
+
+Amatör spor kulüplerine Belediye Bütçesinden yapılan nakdi yardımların mevzuatta belirlenen sınırı aşması suretiyle oluşan ........TL kamu zararı, ......tarih ve ......... numaralı tahsilat makbuzu ile ahizi ....... Spor Kulübünden tahsil edildiğinden ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
