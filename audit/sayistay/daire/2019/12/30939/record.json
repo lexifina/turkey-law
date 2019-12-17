@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "706",
+  "decision_date": "2019-12-17",
+  "source_id": 30939,
+  "chamber": "6",
+  "ilam_number": "46",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30939/",
+  "source_sha256": "0edb308c042149979fbf07ad5fc89dc87ac7557b541fbf5ffeb398b0480a7522",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
