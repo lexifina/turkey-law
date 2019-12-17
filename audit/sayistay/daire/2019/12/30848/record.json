@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10769",
+  "decision_date": "2019-12-17",
+  "source_id": 30848,
+  "chamber": "1",
+  "ilam_number": "400",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30848/",
+  "source_sha256": "c936259f1eab1bab58da9b087a036e3f5cd84372341c1fe4badf9a28c99f9bc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
