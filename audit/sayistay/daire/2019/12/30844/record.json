@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10771",
+  "decision_date": "2019-12-17",
+  "source_id": 30844,
+  "chamber": "1",
+  "ilam_number": "37",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30844/",
+  "source_sha256": "a3fc9419eb3edd808384a56d5cb5b5ef931ab84abb0b7e20f4971d3b3daf02c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
