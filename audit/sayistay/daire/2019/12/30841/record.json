@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10770",
+  "decision_date": "2019-12-17",
+  "source_id": 30841,
+  "chamber": "1",
+  "ilam_number": "38",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30841/",
+  "source_sha256": "310a928fe240ff75c6a70c90f507ff44904b1d8c3f8bcf99c6e7d2bd724733d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
