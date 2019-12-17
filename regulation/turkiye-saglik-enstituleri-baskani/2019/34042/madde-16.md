@@ -1,0 +1,4 @@
+Muhasebe ve ödeme işlemleri
+MADDE 16 – (1) Vakıf yükseköğretim kurumu/özel kuruluş, proje kapsamında yapacakları harcamalara ilişkin muhasebe ve ödeme işlemlerini tabi oldukları mevzuata uygun olarak gerçekleştirir.
+(2) Ödenek ve harcamaların ayrıntılı takibini sağlamak amacıyla TÜSEB tarafından oluşturulan sistem içerisinde proje bazında ve ekonomik sınıflandırma kodlarına dayalı muhasebe kayıtları ayrıca tutulur.
+(3) Projede, uygulama yaptıkları ayı takip eden ayın ilk haftasında bursiyer ödemelerinin yapılması esastır. Proje yürütücüleri bursiyer ödemelerinin zamanında yapılması için her türlü tedbiri almaktan sorumludur. Bursiyer ödemelerinde geçerli olmayan bir nedenden dolayı gecikme olması ve bu durumun TÜSEB’e bildirilmesi halinde, TÜSEB tarafından gecikmenin gerekçeleri istenir. Bursiyer ödemelerinin yapılmasında ihmal, kusur ve suistimali olduğu anlaşılan proje yürütücüsü hakkında sözleşme ve ilgili mevzuat hükümlerine göre işlem yapılır.

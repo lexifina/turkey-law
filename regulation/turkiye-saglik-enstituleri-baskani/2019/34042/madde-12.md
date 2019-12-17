@@ -1,0 +1,4 @@
+Denetim
+MADDE 12 – (1) Bu Yönetmelik kapsamında ilgili kamu kurumlarınca yapılan harcamalar, projelerin tabi olduğu mevzuat kapsamında Sayıştay tarafından denetlenir. Ayrıca yapılan harcamalar ilgisine göre TÜSEB ve/veya iç denetçiler tarafından da denetlenir.
+(2) Kamu kurumunun iç denetimi sonucunda, bu Yönetmeliğe aykırılık teşkil eden bir hususun tespiti halinde, denetim sonucu TÜSEB’e iletilir. 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu açısından suç teşkil eden fiillerin tespiti halinde ilgililer hakkında ilgili kamu kurumu tarafından genel hükümlere göre işlem yapılır ve sonucu TÜSEB’e bildirilir.
+(3) Yapılan denetimlerde usulsüz harcama, haksız veya yersiz ödemenin yapıldığının anlaşılması halinde söz konusu tutarlar, 6183 sayılı Kanunda belirtilen oranlarda gecikme faiziyle birlikte kamu kurumundan ve/veya ilgili kişilerden genel hükümlere göre tahsil edilir.

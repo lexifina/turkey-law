@@ -1,0 +1,6 @@
+Gider belgelerinin düzenlenmesi
+MADDE 25 – (1) Satın alınan mal ve hizmete ilişkin olarak düzenlenen fatura ve fatura yerine geçen belgeler proje numarası belirtilerek Kurum adına düzenlenir.
+(2) Yurt dışından yapılan harcamalara ilişkin olarak yurt dışındaki kişi veya firmalardan alınan fatura ve fatura yerine geçen belgelerde yazılı yabancı para birimi bedelleri, belgelerin düzenlendiği günde Türkiye Cumhuriyet Merkez Bankasınca belirlenen döviz alış kuru üzerinden Türk Lirasına çevrilir.
+(3) Yurt içinden satın alınan mal ve hizmetlere ilişkin olarak ibraz edilecek faturalar, Türk para birimi üzerinden düzenlenir. Ancak, Türk parası karşılığı gösterilmek şartıyla, yabancı para birimine göre de düzenlenebilir.
+(4) Dövize endeksli alımlara istinaden ibraz edilen faturalara ilişkin sözleşmede döviz kurunun taraflarca belirlenmesi halinde, (avans olarak yapılan ödemeler dahil) düzenlenecek satış faturalarında bedelin sözleşmede belirlenen döviz kuru üzerinden, Türk Lirası karşılığı gösterilir.
+(5) Dövize endeksli alımlara istinaden düzenlenen sözleşmede döviz kurunun taraflarca belirlenmemiş olması halinde, satış faturasında, bedel Türkiye Cumhuriyet Merkez Bankası döviz alış kuru üzerinden Türk Lirası karşılığı gösterilir.

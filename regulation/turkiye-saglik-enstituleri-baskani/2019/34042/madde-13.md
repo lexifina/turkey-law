@@ -1,0 +1,11 @@
+ÜÇÜNCÜ BÖLÜM
+Vakıf Yükseköğretim Kurumları ve Özel Kuruluşlara İlişkin Hükümler
+Projenin değerlendirilmesi, kabulü ve destek tutarlarının aktarılması
+MADDE 13 – (1) Vakıf yükseköğretim kurumları ve özel kuruluşların proje başvurularına, bu projelerin değerlendirilmesine ve kabulüne ilişkin usul ve esaslar TÜSEB tarafından belirlenir. Değerlendirilerek kabul edilen projelerin desteklenmesine ilişkin sözleşme imzalanır. İmzalanan proje sözleşmesinin ve eklerinin bir örneği ilgili kuruma gönderilir.
+(2) TÜSEB tarafından desteklenmesine karar verilen araştırma ve geliştirme projeleri ile diğer projeler için tahsis edilen kaynaklardan Yönetim Kurulunun veya Başkanın uygun göreceği projelere ilişkin tutarlar, TÜSEB bütçesine gider kaydedilmek suretiyle, proje yürütücüsü olan vakıf yükseköğretim kurumu ve/veya özel kuruluşların bütçelerine gelir kaydedilmeksizin açılacak özel hesaplara aktarılır ve bu hesaplarda izlenir.
+(3) Açılacak özel hesaplara, belirlenen tutarların aktarılmasında, TÜSEB’in nakit durumu da dikkate alınarak proje sözleşmesinde belirlenen ödeme planı esas alınır.
+(4) Özel kuruluş/vakıf yükseköğretim kurumları tarafından ödeneğin harcama yapılmadan önce gönderilmesinin talep edilmesi durumunda, transfer işlemi öncesinde özel kuruluş/vakıf yükseköğretim kurumları tarafından, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununda belirtilen teminat türlerinden, proje bütçesindeki en yüksek dönem ödeneği kadar teminat verilir.
+(5) İzleme sürecinde proje yürütücüsünün talebi halinde, bir kereye mahsus olmak ve kalan dönem ödeneklerinden en yüksek dönem ödeneğinden az olmamak şartıyla teminat tutarında değişiklik yapılabilir.
+(6) Teminat olarak, teminat mektubu verilmesi durumunda teminat mektubu süresinin proje bitiş tarihinden 6 ay daha uzun olması gerekir.
+(7) Özel kuruluş/vakıf yükseköğretim kurumları teminat vermeksizin, TÜSEB tarafından belirlenen formata uygun olarak yeminli mali müşavirin denetim raporu ve gelişme raporunun kabulünü takiben proje hesabına aktarılmak üzere ilgili dönem harcamalarını kendisi gerçekleştirebilir.
+(8) Başlangıçta teminat vermeksizin harcamaları gerçekleştiren özel kuruluşun/vakıf yükseköğretim kurumlarının, ilerleyen süreçte istenen mahiyette teminat vermesi durumunda, teminat verdiği dönemden itibaren ilgili dönem ödenekleri proje hesabına aktarılır.

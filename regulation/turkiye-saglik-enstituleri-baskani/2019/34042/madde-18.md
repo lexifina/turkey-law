@@ -1,0 +1,2 @@
+Mali denetim
+MADDE 18 – (1) Vakıf yükseköğretim kurumu/özel kuruluş tarafından yürütülen projelerde, proje sözleşmesinde belirlenen dönemlerde sunulan gelişme ve/veya sonuç raporunda yer alan giderler ile bunlara ilişkin belgelerin mali denetimi; ilgili mevzuat hükümleri çerçevesinde ve TÜSEB tarafından belirlenen rapor formatına uygun olarak, yeminli mali müşavire yaptırılır. Yeminli mali müşavirin denetim ve tasdik raporu, gelişme ve/veya sonuç raporu ile birlikte TÜSEB’e sunulur.

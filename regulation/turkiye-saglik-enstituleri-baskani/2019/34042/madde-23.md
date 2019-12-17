@@ -1,0 +1,8 @@
+Kurum hissesi ve proje sonu işlemleri
+MADDE 23 – (1) Kurumun Ar-Ge faaliyetlerinde kullanılmak üzere proje bütçesinde yer alan kurum hissesi, projenin gelişme raporları kabul edildikçe, TÜSEB tarafından belirlenen oranlarda ödenir.
+(2) Kurum hissesi, projenin yürütüldüğü kurum yetkilisinin talebi ile Ar-Ge faaliyetlerinde (YMM ve banka teminat mektubu masrafları dahil) kullanılmak üzere, bu Yönetmelik çerçevesinde harcanır. Harcamaların mevzuata uygunluğu konusundaki sorumluluk Kuruma aittir.
+(3) Harcamaların Ar-Ge kapsamında olması yönündeki sorumluluk Kuruma aittir.
+(4) Aynı Kurumda yürütülen projelere ait kurum hisselerinin topluca kullanılabilmesi mümkündür. Birden fazla projenin kurum hisselerinin bir alım için kullanılması halinde, harcama belgesinin aslı bir projeye, diğer projelere ise asıl belgenin kullanıldığı proje numarası belirtilerek harcama belgesinin kopyası kanıtlayıcı belge olarak eklenir.
+(5) Kurum hissesi proje hesabı dışında başka hesaba aktarılamaz. Bir projeye ek ödenek verilmesi durumunda bu ek ödeneğe ilişkin kurum hissesi verilmez.
+(6) Proje sonuç raporunun kabulünü takiben proje sözleşmesinde belirlenen bitiş tarihi itibarıyla kabul edilen harcamalar dikkate alınarak özel hesapta/proje hesabında kurum hissesi hariç kalan bakiye, TÜSEB tarafından gönderilen talep yazısı üzerine Kurum tarafından TÜSEB’e iade edilir. Süresinde gönderilmeyen tutarlara 6183 sayılı Kanunda belirtilen oranlarda gecikme faizi işletilir.
+(7) Proje sözleşmesinde belirlenen bitiş tarihinden itibaren üç ay içerisinde harcanmayan kurum hissesi bu sürenin sonunda TÜSEB’e iade edilerek özel hesap kapatılır. Süresinde gönderilmeyen tutarlara 6183 sayılı Kanunda belirtilen oranlarda gecikme faizi işletilir.

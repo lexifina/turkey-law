@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34042",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞI TARAFINDAN DESTEKLENEN PROJELERİN HARCAMALARININ GERÇEKLEŞTİRİLMESİNE DAİR YÖNETMELİK",
+  "number": "34042",
+  "issuer": "Türkiye Sağlık Enstitüleri Başkanı",
+  "issuer_slug": "turkiye-saglik-enstituleri-baskani",
+  "path": "regulation/turkiye-saglik-enstituleri-baskani/2019/34042",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34042&MevzuatTertip=5",
+  "source_sha256": "d6e7a7aaf16bedf2a44bfd8746b25f64e17e8d8ec7394bea2ab1f15bf18ade31",
+  "source_bytes": 69235,
+  "published": "2019-12-17",
+  "gazette": "30981",
+  "in_force": "2019-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4575,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
