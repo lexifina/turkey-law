@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "12426",
+  "decision_date": "2019-12-17",
+  "source_id": 30779,
+  "chamber": "5",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2005,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30779/",
+  "source_sha256": "e26f7be1d55ddcc92687d69d30207933c0ca49e19b415171f1cc50501ac4da37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
