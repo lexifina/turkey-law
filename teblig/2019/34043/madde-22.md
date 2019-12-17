@@ -1,0 +1,3 @@
+Programdan sağlanan malların mülkiyeti
+MADDE 22 – (1) Hak sahibi, hibe sözleşmesi kapsamında hibeye esas proje içeriğindeki alımları ve amacını, hibe ödemesinin yapıldığı tarihten itibaren 2 yıl süre ile değiştiremez. Bu amaçla, il müdürlükleri yılda en az iki defa olmak üzere proje faaliyetlerini yerinde kontrol eder ve tutanağa bağlar.
+(2) Bakanlıkça yapılan kontroller veya ihbarlar neticesinde, hibe sözleşme ve taahhütname hükümlerine aykırı hareket eden hak sahiplerinin hibe sözleşmesi feshedilerek, hak sahibine yapılan hibe ödemesi Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları dikkate alınarak ödeme tarihinden itibaren hesaplanan kanuni faizi ile birlikte geri alınır.

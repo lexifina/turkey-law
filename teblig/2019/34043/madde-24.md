@@ -1,0 +1,4 @@
+Gider kalemleri
+MADDE 24 – (1) Hibe sözleşmesinden sonra ve süresi içerisinde gerçekleştirilen traktör ve bahçe traktörü haricindeki makine, ekipman, donanım, malzeme, fide, fidan, tohum, misel, torf, arılı kovan, yeni tesis, hayvancılık projelerindeki canlı hayvan alımı giderleri, su ürünleri üretiminde havuz inşaat malzemesi giderleri, kuluçkahane dolabı, su ürünleri yetiştiricilik belgesi olan tesislerden faturalı olarak alınmış olması şartıyla yavru ve/veya anaç alımı giderleri bu Tebliğde belirtilen esaslar çerçevesinde hibe desteği kapsamında değerlendirilir.
+(2) Büyükbaş ve küçükbaş hayvan yetiştiriciliği projeleri uygulayacak olan hak sahipleri, canlı hayvan alımlarını kooperatif, birlik, damızlık gebe düve üretim işletmeleri başta olmak üzere, fatura kesebilen tüzel kişiliklerden/kurumlardan kendileri gerçekleştirirler.
+(3) Gider kalemleri ile ilgili diğer hususlar bu Tebliğ kapsamında Bakanlık tarafından hazırlanan uygulama rehberinde belirtilir.

@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34043",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KIRSAL KALKINMA DESTEKLERİ KAPSAMINDA KIRSAL KALKINMADA UZMAN ELLER PROJELERİNİN DESTEKLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2019/61)",
+  "number": "34043",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2019/34043",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34043&MevzuatTertip=5",
+  "source_sha256": "d2589fbaeb32533dd0e29bbc1e2e4f7c60d74a1bdbeedf4b6767847dcf7222ad",
+  "source_bytes": 115132,
+  "published": "2019-12-17",
+  "gazette": "30981",
+  "in_force": "2019-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3005,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34043-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

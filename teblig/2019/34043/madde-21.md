@@ -1,0 +1,4 @@
+Geri ödeme ve yaptırımlar
+MADDE 21 – (1) Haksız yere yapılan destekleme ödemeleri, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranları dikkate alınarak ödeme tarihinden itibaren hesaplanan kanunî faizi ile birlikte anılan Kanun hükümlerine göre geri alınır.
+(2) Haksız ödemenin yapılmasında ödemeyi sağlayan belge veya belgeleri düzenleyen gerçek ve tüzel kişiler, geri alınacak tutarların tahsilinde müştereken sorumlu tutulurlar.
+(3) İdari hata sonucu düzenlenen belgelerle yapılan ödemeler hariç olmak üzere bu Tebliğle belirlenen destekleme ödemelerinden haksız yere yararlandığı ve yükümlülüklerini yerine getirmediği tespit edilen hak sahipleri, 5 yıl süreyle 5488 sayılı Kanunun 23 üncü maddesi gereğince hiçbir destekleme programından yararlandırılmazlar.

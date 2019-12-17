@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, 2019-2020 yılı için pilot uygulama olarak Amasya, Düzce, İzmir ve Mardin illerinde kırsal alanda yaşayan/yaşamayı taahhüt eden; tarım, hayvancılık, ormancılık, gıda ve su ürünleri konularında yüksekokul veya üniversite mezunlarının mahallinde uygulayacağı bitkisel ve hayvansal üretim, su ürünleri üretimi, yöresel tarım ürünleri, tıbbi ve aromatik bitki üretimi ile bu ürünlerin işlenmesi, depolanması ve paketlenmesine yönelik projelere hibe verilmesine ilişkin hususları kapsar.
