@@ -1,0 +1,3 @@
+Eğitimin değerlendirilmesi
+MADDE 14 – (1) Akademi tarafından, meslek içi eğitimlerin değerlendirmesi yapılır. Bu kapsamda eğitimlerin hâkimler ve savcılar üzerindeki etkinliği ve verimliliği araştırılır. Eğitimin beklenen sonuçlara ulaşıp ulaşmadığının tespitine yönelik etki analizleri yapılır.
+(2) Eğitim programının etkinliğinin ve verimliliğinin değerlendirilmesinde yardımcı olmak ve gelecek eğitim dönemlerine katkı sağlamak üzere eğitim öncesinde, döneminde ve sonrasında yürütülen faaliyetlerle ilgili olarak öğretim elemanları ile katılımcıların görüş ve düşüncelerinin alınmasına yönelik anket, gözlem ve görüşme gibi ölçme ve değerlendirme araçları uygulanır ve sonuçlar raporlanır. Hazırlanan raporlar ilgili kurum ve kuruluşlarla paylaşılabilir.
