@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-17",
+  "issue": "30981",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Sağlık Enstitüleri Başkanlığı Tarafından Desteklenen Projelerin Harcamalarının Gerçekleştirilmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191217-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191217.htm",
+  "index_sha256": "b6ba46d1a64f0f8e9fa6a15fda7968d0fa09463c8f6c443fbc79470ae06611f3",
+  "index_header": "17 Aralık 2019 ... 30981 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191217.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
