@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47050",
+  "decision_date": "2019-12-18",
+  "source_id": 20350,
+  "chamber": "5",
+  "file_number": "43979",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20350/",
+  "source_sha256": "6053a21c414cb964fe4951822cf5b52fb95be95f10e3b42388e9971fbeabb518",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
