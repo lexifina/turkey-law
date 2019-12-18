@@ -1,0 +1,39 @@
+Hüküm dışı bırakılan konu hakkında yapılan temyiz başvurusu üzerine Temyiz Kurulunca “yapılacak işlem olmadığına” karar verilmesi hakkında karar düzeltilmesi talebinde bulunulması;
+
+1- 93 sayılı (Asıl) İlamın 8. maddesiyle; … ile … arasında 25.11.2014 tarihinde imzalanan ve 01.04.2014-31.03.2016 dönemini kapsayan Toplu İş Sözleşmesi ve 11.04.2016 tarihinde imzalanan ve 01.04.2016-31.03.2018 dönemini kapsayan Toplu İş Sözleşmesi ile ve ayrıca 09.08.2011 tarihli sözleşmeye ve bu sözleşmeye dayanılarak akdedilen 09.03.2012 tarihli ek sözleşmeye yeni mali haklar getirecek şekilde memurlara sosyal denge tazminatının, yasayla belirlenen limitlere uyulmaksızın ödenmesi sonucunda kamu zararına sebebiyet verildiği hususunda; Belediye ile Sendika arasında 25.11.2014 tarihinde imzalanan ve 01.04.2014 – 31.03.2016 tarihlerini kapsayan sözleşme ile 11.04.2016 tarihinde imzalanan ve 01.04.2016 – 31.03.2018 tarihlerini kapsayan sözleşmeleri Belediye adına imza edenler arasında yer alan Belediye Başkanı …, Belediye Başkanı Vekili …, Belediye Başkan Yardımcısı …, Belediye Başkan Yardımcısı …, Hukuk İşleri Müdürü …, Mali Hizmetler Müdürü …, Mali Hizmetler Müdürü … ve İnsan Kaynakları ve Eğitim Müdürü …’nun imzaladıkları sözleşmelerin geçerli olduğu dönemlerdeki ödemelerden dolayı savunmaları alınarak ve ahizler itibariyle ayrıntılı kamu zararı tablosu oluşturularak ek rapor düzenlenmesinin temini için 330 adet ödeme emri belgesi toplamı … TL’lik işlem hüküm dışı bırakılmış, bu ilam maddesine karşı … sıfatıyla … tarafından temyiz talep edilmesi üzerine de Sayıştay Temyiz Kurulunun 27.03.2019 tarihli ve … tutanak (… ilam) sayılı İlamı (1. maddesi) ile; “Daire tarafından hüküm dışı bırakılmış, yani hakkında henüz hüküm tesis edilmemiş husus hakkında temyize gidilemeyeceğinden ilgilinin dilekçesi üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA” karar verilmiştir.
+
+6085 sayılı Sayıştay Kanununun “İlamların tebliği, tavzihi ve düzeltilmesi” başlıklı 52 nci maddesinin birinci fıkrasında aynen:
+
+“Sayıştay ilamları; sorumlulara, sorumluların bağlı olduğu kamu idarelerine, genel bütçe kapsamındaki kamu idareleri için Maliye Bakanlığına, ilgili muhasebe birimine ve başsavcılığa tebliğ edilir.”,
+
+Aynı Kanunun “Temyiz” başlıklı 55 inci maddesinin ikinci fıkrasında ise aynen:
+
+“Sayıştay dairelerinin ilamları;
+
+a) Kanuna aykırılık,
+
+b) Yetkiyi aşmak,
+
+c) Hesap yargılaması usullerine riayet etmemek,
+
+gibi sebeplerle, 52 nci maddenin birinci fıkrasında yazılı ilgililer tarafından temyiz olunabilir.” ve
+
+Yine aynı Kanunun “Karar düzeltilmesi” başlıklı 57 nci maddesinin birinci fıkrasında aynen:
+
+“Temyiz Kurulu kararları hakkında, 52 nci maddenin birinci fıkrasında yazılı ilgililer yazılı bildirim tarihinden itibaren onbeş gün içinde bir defaya mahsus olmak üzere aşağıdaki sebeplerle karar düzeltilmesi isteminde bulunabilirler:
+
+a) Hükmün esasına etkili iddia ve itirazların kararda karşılanmamış olması.
+
+b) Bir kararda aynı konu hakkında birbirine aykırı hükümler bulunması.
+
+c) Temyiz incelemesi sırasında hükmün esasını etkileyen belgelerde hile ve sahtekârlığın ortaya çıkmış olması.
+
+ç) Temyiz sebeplerinden en az birinin mevcut olması.”
+
+Hükümleri yer almaktadır.
+
+Yukarıda adı geçen ilgili tarafından temyiz aşamasında ileri sürülen iddialarla bu defa karar düzeltilmesi başvurusunda bulunulmakta ise de; gerek temyiz gerekse de karar düzeltilmesi başvurularının temelini oluşturan ilam maddesi, Sayıştay yargısını teşkil eden kanunlar ve buna dayalı ilgili mevzuat çerçevesinde alınarak hukuken vücut bulmuş olup; bu maddeyle herhangi bir kişi adına (en azından bu aşamada) tazmin hükmü verilmemiştir.
+
+6085 sayılı Kanunun ilgili hükümleri ve yapılan açıklamalar çerçevesinde, karar düzeltilmesi talep edilen 27.03.2019 tarihli ve … tutanak (… ilam) sayılı Sayıştay Temyiz Kurulu Kararı (1. maddesi) ile herhangi bir kişinin sorumluluğuna ve herhangi bir parasal tutarın tazminine hükmedilmemiş olan 93 sayılı (Asıl) İlamın 8. maddesi hakkında yapılacak işlem olmadığına karar verilmiş olduğundan; dilekçe sahibinin karar düzeltilmesi başvurusu üzerine de Kurulumuzca yine YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 18.12.2019 tarih ve 47061 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
