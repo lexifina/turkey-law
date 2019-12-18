@@ -1,0 +1,3 @@
+Yükümlülüklerin yerine getirilmemesi
+MADDE 18 – (1) (Değişik:RG-18/12/2019-30982) Bu Yönetmelik kapsamında yükümlülüklerini yerine getirmeyen paydaşlar hakkında 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 166 ncı maddesine göre işlem yapılır.
+(2) Paydaşlar Bakanlığa bildirdikleri, alt paydaşlar ise paydaşlara bildirdikleri veri setleri ve soru formlarındaki bilgilerin doğru ve gerçeğe uygun olmasından sorumludurlar. İstenen bilgilerin yanlış, eksik veya yanıltıcı olarak verildiğinin saptanması veya hiç bilgi verilmemesi halinde ilgili paydaşlar ve alt paydaşlar hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri kapsamında işlem yapılır.

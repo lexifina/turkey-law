@@ -1,0 +1,4 @@
+Veri seti talep sıklığı
+MADDE 8 – (1) Web servisi kullanımı yöntemiyle veri bildirimi sağlaması gereken paydaşlar, bu konuda yetkinlik sağlayıncaya kadar olan dönemde sorumlu oldukları veri setlerinden, saatlik ve günlük kırılımdaki veri setlerini, takip eden gün içerisinde, haftalık veri setlerini takip eden haftanın 2 nci günü; aylık, üç aylık ve altı aylık veri setleri takip eden ayların 25 inci günü; yıllık veri setlerini ise takip eden yılın Şubat ayının 25 inci günü Bakanlığa iletirler. Bu maddede belirlenen veri paylaşma sürelerini azaltmaya veya artırmaya Bakanlık yetkilidir.
+(2) Paydaşların veri gönderim sürelerinin son günü resmi tatile rastlarsa, tatili takip eden ilk iş gününün mesai saati bitimine kadar veriyi gönderirler.
+(3) (Ek:RG-24/12/2014-29215) CBS projesi kapsamında veri bildirimi sağlaması gereken paydaşlar, yetkileri dahilinde web uygulaması üzerinden açılacak olan arayüzlerde belirtilmiş sıklıklarda ilgili verileri günceller.

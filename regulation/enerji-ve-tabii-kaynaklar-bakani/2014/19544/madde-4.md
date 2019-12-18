@@ -1,0 +1,35 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt paydaş: Bakanlık tarafından talep edilen veri setlerini sağlamakla yükümlü olan paydaşlara veri seti sağlamakla yükümlü olan kurum, kuruluş, sivil toplum kuruluşları ve özel hukuk tüzel kişilerini,
+b) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+c) BOTAŞ: Boru Hatları ile Petrol Taşıma Anonim Şirketi Genel Müdürlüğünü,
+ç) (Değişik:RG-24/12/2014-29215) CBS: Coğrafi Bilgi Sistemini,
+d) ÇŞB: Çevre ve Şehircilik Bakanlığını,
+e) DSİ: Devlet Su İşleri Genel Müdürlüğünü,
+f) Emisyon yükümlüsü paydaş: Elektrik üretim faaliyetini gerçekleştirirken tesislerinden atmosfere bıraktıkları sera gazı emisyonları için bildirim yükümlüsü olan paydaşı,
+g) Enerji arz/tüketim bildirim yükümlüsü paydaş: Faaliyet konusu içerisinde enerji tedarik etmek olan veya enerji tüketen paydaşı,
+ğ) Enerji yöneticisi: 18/4/2007 tarihli ve 5627 sayılı Enerji Verimliliği Kanununu kapsamına giren endüstriyel işletmelerde veya binalarda enerji yönetimi ile ilgili faaliyetlerin yerine getirilmesinden yönetim adına sorumlu, enerji yöneticisi sertifikasına sahip kişiyi,
+h) EPDK: Enerji Piyasası Düzenleme Kurumunu,
+ı) EPİAŞ: Enerji Piyasaları İşletme Anonim Şirketini,
+i) ESİS: Enerji ve Tabii Kaynaklar Bakanlığı Stratejik Yönetim ve İstatistik Sistemini,
+j) ETİ MADEN: Eti Maden İşletmeleri Genel Müdürlüğünü,
+k) EÜAŞ: Elektrik Üretim Anonim Şirketi Genel Müdürlüğünü,
+l) GED: Genel Enerji Dengesini,
+m) (Değişik:RG-18/12/2019-30982) MAPEG: Maden ve Petrol İşleri Genel Müdürlüğünü,
+n) MTA: Maden Tetkik ve Arama Genel Müdürlüğünü,
+o) Paydaş: Bakanlık tarafından talep edilen veri setlerini sağlamakla yükümlü olan kurum, kuruluş, sivil toplum kuruluşları ve özel hukuk tüzel kişilerini,
+ö) (Mülga:RG-18/12/2019-30982)
+p) PMUM: Piyasa Mali Uzlaştırma Merkezi Daire Başkanlığını,
+r) SGB: Strateji Geliştirme Başkanlığını,
+s) TEDAŞ: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğünü,
+ş) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğünü,
+t) TEMSAN: Türkiye Elektromekanik Sanayi Genel Müdürlüğünü,
+u) TEP: Ton Eşdeğer Petrol ölçü birimini,
+ü) (Mülga:RG-18/12/2019-30982)
+v) TKİ: Türkiye Kömür İşletmeleri Genel Müdürlüğünü,
+y) TPAO: Türkiye Petrolleri Anonim Ortaklığı Genel Müdürlüğünü,
+z) TTK: Türkiye Taşkömürü Kurumu Genel Müdürlüğünü,
+aa) TÜİK: Türkiye İstatistik Kurumunu,
+bb) Veri seti: Bakanlığın faaliyetlerini yürütürken talep ettiği ve paydaşlardan aldığı bilgileri,
+cc) (Değişik:RG-18/12/2019-30982) EİGM: Enerji İşleri Genel Müdürlüğünü
+ifade eder.
