@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34046",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HELAL AKREDİTASYON KURUMUNUN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (V) BENDİ KAPSAMINDA YAPACAĞI HİZMET ALIMLARI HAKKINDA YÖNETMELİK",
+  "number": "34046",
+  "issuer": "Yönetim Kurulu",
+  "issuer_slug": "yonetim-kurulu",
+  "path": "regulation/yonetim-kurulu/2019/34046",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34046&MevzuatTertip=5",
+  "source_sha256": "5572fec1c7af4d1346fe52514cee2f7de67a3abd20a65880fdf9a63a0e1de41f",
+  "source_bytes": 32306,
+  "published": "2019-12-18",
+  "gazette": "30982",
+  "in_force": "2019-12-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.12.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1418,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
