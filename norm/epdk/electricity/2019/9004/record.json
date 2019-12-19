@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9004",
+  "decision_date": "2019-12-19",
+  "title": "2020 yılı Hedef Kayıp Oranlarının (HKO) belirlenmesine ilişkin",
+  "categories": [
+    "EDAŞ Hedef Kayıp Oranları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3i+quUk2Ttg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3i+quUk2Ttg="
+  ],
+  "source_sha256": "e54578a07dc76e43656ab42e883210b57a0e827db7b2c768f5ee403fd0f6f0d9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15926,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-19",
+  "law_text_complete": true
+}
