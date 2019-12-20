@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.36083",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2020 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "36083",
+  "path": "teblig/2019/36083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36083&MevzuatTertip=5",
+  "source_sha256": "422ec4852cf5d960708edb2f58680c4291c6cddb2f98478bb01719120572913f",
+  "source_bytes": 14432,
+  "published": "2019-12-20",
+  "gazette": "30984",
+  "in_force": "2019-12-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.12.2019)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
