@@ -1,0 +1,1 @@
+Türkiye Cumhuriyet Merkez Bankasından: Bankamızca, vadesine en çok 3 ay kalan senetler karşılığında yapılacak reeskont işlemlerinde uygulanacak iskonto faiz oranı yıllık yüzde 12,75, avans işlemlerinde uygulanacak faiz oranı ise yıllık yüzde 13,75 olarak tespit edilmiştir. Belirlenen bu oranlar yayımı tarihinde yürürlüğe girer.
