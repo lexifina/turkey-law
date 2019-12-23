@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.34054",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 512)",
+  "number": "34054",
+  "path": "teblig/2019/34054",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34054&MevzuatTertip=5",
+  "source_sha256": "b6ad4a3f363a8dc83adac3a3116550c81e7124ab36a1669c6d133827c72aea2a",
+  "source_bytes": 8889,
+  "published": "2019-12-23",
+  "gazette": "30987",
+  "in_force": "2019-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2019)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 112,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
