@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34062",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2019/4)",
+  "number": "34062",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/34062",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34062&MevzuatTertip=5",
+  "source_sha256": "5a7f866fef1c99db3bc06c0fbe753d9f62af1bee4a7510272d323aee7ebd93fe",
+  "source_bytes": 28753,
+  "published": "2019-12-24",
+  "gazette": "30988",
+  "in_force": "2019-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 634,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
