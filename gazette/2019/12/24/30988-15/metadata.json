@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-24",
+  "issue": "30988",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2019/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224.htm",
+  "index_sha256": "f79b9d2961cf28dc86eb8fa8c5cc7698f2ec75cbd921ba3e2f5da6c7a34b5e14",
+  "index_header": "24 Aralık 2019 ... 30988 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
