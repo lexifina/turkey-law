@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7201",
+  "year": 2019,
+  "title": "Kamulaştırma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-12-24",
+  "gazette_issue": "30988",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-25.htm",
+  "source_sha256": "609f981860727931617ced5a3eaca4664faab13b54519f6752297a7878051dc4",
+  "text_sha256": "127f15344257efbaef17a32ffcd1a44f400ec9aa75f7e857ed008a868deaeda9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/12/24/30988-25",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-25.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
