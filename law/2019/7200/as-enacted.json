@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7200",
+  "year": 2019,
+  "title": "Türkiye Cumhuriyeti ile Moldova Cumhuriyeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-12-24",
+  "gazette_issue": "30988",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-24.htm",
+  "source_sha256": "2d1d538e5fe2c708d9ee9697bbcaaaf4f7801665428c1c9ce4c2cdae04eea268",
+  "text_sha256": "d4981118e7b0557fa4a523ea38a32767b5483ad68de36be1c0253062787dcfcc",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/12/24/30988-24",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191224-24.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
