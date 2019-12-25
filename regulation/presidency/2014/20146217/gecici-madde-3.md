@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3- (Ek:RG-25/12/2019-30989-CK-1850/14 md.)
+(1) Bu maddeyi ihdas eden Yönetmelik değişikliği ile yapılan 4 üncü maddenin ikinci fıkrasındaki değişiklik; Kanunun 8/A maddesinin yürürlüğe girdiği tarihten önce ihale ilanına çıkılmış olan projeler hariç olmak üzere, bu maddenin yürürlüğe girdiği tarihten önce borç üstlenim taahhüdü sağlanmış olan diğer projeler bakımından imzalanacak yeni borç üstlenim anlaşmalarına da uygulanır.

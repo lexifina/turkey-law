@@ -1,0 +1,8 @@
+Borç üstlenim anlaşması imzalandıktan sonra yapılan değişiklikler
+MADDE 11- (1) Borç üstlenim anlaşması imzalandıktan sonra projenin finansmanı kapsamında Bakanlık, kreditör ve ilgili taraflar arasında imzalanan tüm anlaşmalarda Bakanlığın yükümlülüklerinin kapsamını, maliyetini ve yükümlülüklerini yerine getirme usul ve esaslarını değiştirecek nitelikteki her türlü değişiklik, Cumhurbaşkanı kararıyla yapılır.(4)
+____________
+(1) 25/12/2019 tarihli ve 30989 sayılı Resmî Gazete’de yayımlanan 1850 sayılı Cumhurbaşkanı Kararının 8 inci maddesiyle, üçüncü fıkrada yer alan “Müsteşarlığa” ibareleri “Bakanlığa” şeklinde, dördüncü fıkrada yer alan “Müsteşarlık” ve “Müsteşarlığın” ibareleri sırasıyla “Bakanlık” ve “Bakanlığın” şeklinde değiştirilmiştir.
+(2) 25/12/2019 tarihli ve 30989 sayılı Resmî Gazete’de yayımlanan 1850 sayılı Cumhurbaşkanı Kararının 9 uncu maddesiyle, birinci fıkranın (a) ve (c) bentlerinde yer alan “Müsteşarlığa” ibareleri “Bakanlığa” şeklinde, (ç) bendinde yer alan “Müsteşarlığa” ve “Müsteşarlıkla” ibareleri sırasıyla “Bakanlığa” ve “Bakanlıkla” şeklinde ve üçüncü fıkrada yer alan “Müsteşarlık” ibareleri “Bakanlık” şeklinde değiştirilmiştir.
+(3) 25/12/2019 tarihli ve 30989 sayılı Resmî Gazete’de yayımlanan 1850 sayılı Cumhurbaşkanı Kararının 10 uncu maddesiyle, bu fıkrada yer alan “Müsteşarlıkça” ve “Müsteşarlık” ibareleri sırasıyla “Bakanlıkça” ve “Bakanlık” şeklinde değiştirilmiştir.
+(4) 25/12/2019 tarihli ve 30989 sayılı Resmî Gazete’de yayımlanan 1850 sayılı Cumhurbaşkanı Kararının 11 inci maddesiyle, bu fıkrada yer alan “Müsteşarlık”, “Müsteşarlığın” ve “Bakanlar Kurulu” ibareleri sırasıyla “Bakanlık”, “Bakanlığın” ve “ Cumhurbaşkanı” şeklinde değiştirilmiştir.
+6129
