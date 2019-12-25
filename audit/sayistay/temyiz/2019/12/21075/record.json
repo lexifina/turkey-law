@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47083",
+  "decision_date": "2019-12-25",
+  "source_id": 21075,
+  "chamber": "8",
+  "file_number": "44472",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2016",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21075/",
+  "source_sha256": "5facfd8d029f3045231599983b92c463212cdfc381a954acceb9fd41cc372ee0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
