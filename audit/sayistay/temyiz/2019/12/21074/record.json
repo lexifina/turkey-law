@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47082",
+  "decision_date": "2019-12-25",
+  "source_id": 21074,
+  "chamber": "8",
+  "file_number": "44477",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21074/",
+  "source_sha256": "7c226e97bcbe8f1e35a92b35fa466a5a217bd207cef06b1e2bc554df8fa456a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
