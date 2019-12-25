@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47080",
+  "decision_date": "2019-12-25",
+  "source_id": 21069,
+  "chamber": "8",
+  "file_number": "44475",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2016",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21069/",
+  "source_sha256": "247063638d79805b19d3c1a9a2578959f3588b24cfca9b248d35d71b282987f1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
