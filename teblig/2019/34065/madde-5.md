@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 5 – (1) Bu Tebliğ, 14/1/2011 tarihli ve (AB) 10/2011 sayılı Gıda ile Temas Eden Plastik Madde ve Malzemelere İlişkin Komisyon Tüzüğü ve 19/12/1985 tarihli ve (AET) 85/572 sayılı Gıda Maddeleri ile Temas Eden Plastik Madde ve Malzemelerin Bileşenlerinin Migrasyon Testinde Kullanılan Gıda Benzerleri Listesine İlişkin Konsey Direktifi dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

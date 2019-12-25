@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34065",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TÜRK GIDA KODEKSİ GIDA İLE TEMAS EDEN PLASTİK MADDE VE MALZEMELERİN BİLEŞENLERİNİN MİGRASYON TESTİNDE KULLANILAN GIDA BENZERLERİ LİSTESİ TEBLİĞİ (TEBLİĞ NO: 2019/43)",
+  "number": "34065",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2019/34065",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34065&MevzuatTertip=5",
+  "source_sha256": "bb3c7cb3cf6a8a936c380193f51c426966ca68d4ea00ff2558f1942cca64a5ca",
+  "source_bytes": 19467,
+  "published": "2019-12-25",
+  "gazette": "30989 Mükerrer",
+  "in_force": "2019-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 358,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34065-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
