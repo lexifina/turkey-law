@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34064",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARŞİV UZMANLIĞI YÖNETMELİĞİ",
+  "number": "34064",
+  "issuer": "Devlet Arşivleri Başkanı",
+  "issuer_slug": "devlet-arsivleri-baskani",
+  "path": "regulation/devlet-arsivleri-baskani/2019/34064",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34064&MevzuatTertip=5",
+  "source_sha256": "202fc82b8be762c456956cdb6fdf37bb86d6bc38a3f3369d45d52a0e80971dc7",
+  "source_bytes": 66758,
+  "published": "2019-12-25",
+  "gazette": "30989",
+  "in_force": "2019-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2019); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3897,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

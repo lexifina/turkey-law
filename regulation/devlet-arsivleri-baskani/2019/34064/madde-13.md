@@ -1,0 +1,4 @@
+Sınav sonuçlarının duyurulması
+MADDE 13- (1) Daire Başkanlığı tarafından başarı puanı en yüksek olan adaydan başlanmak suretiyle giriş sınavı duyurusunda belirtilen uzman yardımcısı kadro sayısı kadar asil adayın isimleri ilan edilir. Sınav sonuçları, kazanan adayların adresine yazılı olarak da tebliğ edilir.
+(2) Yapılan sınavlarda başarılı olmak şartıyla, giriş sınavı duyurusunda belirtilen uzman yardımcısı kadro sayısının yarısını geçmemek üzere, Sınav Komisyonu tarafından belirlenen sayıda yedek adayın isimlerini kapsayan bir liste ilan edilir. Yedek listedeki adayların hakları, daha sonraki sınavlar için müktesep hak veya herhangi bir öncelik teşkil etmez.
+(3) İhtiyaç duyulan öğrenim dallarına göre ayrı ayrı kontenjan belirlenmiş ise bu husus göz önünde bulundurulmak suretiyle asil ve yedek listeler oluşturulur.

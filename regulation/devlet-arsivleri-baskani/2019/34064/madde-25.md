@@ -1,0 +1,2 @@
+Yabancı dil
+MADDE 25- (1) Tez savunması ve yeterlik aşamasında başarılı olan uzman yardımcısı, Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından en az (C) düzeyinde puan ya da dil yeterliği bakımından bunlara denkliği kabul edilen ve uluslararası geçerliliği olan yabancı dil bilgisi seviye tespit sınavlarından buna denk puan aldığına dair geçerlilik süresi dolmamış belgeyi, yeterlik sınav sonucunun ilanından itibaren en geç iki yıl içerisinde ibraz etmesi şartıyla yabancı dil aşamasında başarılı olmuş sayılır.

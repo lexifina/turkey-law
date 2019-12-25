@@ -1,0 +1,2 @@
+Sınav sonuçlarının değerlendirilmesi
+MADDE 12- (1) Başarı puanı, yazılı sınav yapılması halinde yazılı ve sözlü sınav puanlarının, yalnızca sözlü sınav yapılması durumunda ise adayın merkezi sınav puanı ile sözlü sınav puanının aritmetik ortalaması alınarak hesaplanır. Sınav puanlarının eşitliği halinde sırasıyla; varsa yazılı sınav puanı, merkezi sınav puanı ve sözlü sınav puanı dikkate alınarak, başarı sırasını gösteren liste belirlenir. Bu liste Sınav Komisyonu tarafından imzalanarak Daire Başkanlığına teslim edilir.
