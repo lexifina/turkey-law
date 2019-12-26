@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "174",
+  "decision_date": "2019-12-26",
+  "source_id": 30806,
+  "chamber": "8",
+  "ilam_number": "40",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30806/",
+  "source_sha256": "ec22d527f482cde7920a4d1a523b74689a7d162fe4e8cd6aba80152c454cfeb3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
