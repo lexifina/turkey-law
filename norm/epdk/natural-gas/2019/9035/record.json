@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9035",
+  "decision_date": "2019-12-26",
+  "title": "Boru Hatları İle Petrol Taşıma Anonim Şirketi’nin (BOTAŞ) 2017-2019 tarife uygulama dönemine yönelik",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "İletim"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9xoELa/Z/BM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9xoELa/Z/BM="
+  ],
+  "source_sha256": "96940ff07e46062dc53d1b42f962fd670e20ae2af16de3c748a9a8abb12c72d9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7225,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
