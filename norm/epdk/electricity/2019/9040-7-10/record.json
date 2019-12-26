@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9040-7/10",
+  "decision_date": "2019-12-26",
+  "title": "2020 yılı Lisanssız Üretim Yönetmeliği Kapsamında Uygulanacak Bedeller",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jx7g755vKEo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jx7g755vKEo="
+  ],
+  "source_sha256": "179d28f75aa70c1b35a4f3b52835d80bdab053f7e0dfb406f991538505417e2f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
