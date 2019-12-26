@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "757",
+  "decision_date": "2019-12-26",
+  "title": "MEC.KAR. (ilçe evsel Katı Atık Tarifesi ).doc",
+  "listed_as": "757 MEC.KAR. (ilçe evsel Katı Atık Tarifesi ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/757-meckar-ilce-evsel-kati-atik-tarifesi--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/26-aralik-2019-meclis-kararlari",
+  "listing_sha256": "e79a1016b1736dce5d7185410cfd081a106410bda2fdf887fb8655364b541625",
+  "meeting_title": "26 ARALIK 2019 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
