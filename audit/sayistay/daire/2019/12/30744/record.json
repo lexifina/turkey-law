@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "173",
+  "decision_date": "2019-12-26",
+  "source_id": 30744,
+  "chamber": "8",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30744/",
+  "source_sha256": "8713725a49f46840d292154895b07d857d26adb6ebe01be6799fa9ee4619dfc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
