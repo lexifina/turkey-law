@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-121/ 2019-11",
+  "source_id": 720,
+  "date": "2019-12-26",
+  "title": "Kahramanmaraş İli Göksun İlçesinde 24.12.2019 tarihinden itibaren yaşanan elektrik kesintisi nedeniyle Muhtasar Beyannameler, Damga Vergisi Beyannameleri, Katma Değer Vergisi Beyannameleri ve Geri Kazanım Katılım Payı Beyannamelerinin verilme süreleri...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/720",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "2baedd15c7ca416e38a42de9888aa942a7dd7414938343c65cb9330f9bb83355",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
