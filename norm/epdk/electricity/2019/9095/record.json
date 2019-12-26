@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9095",
+  "decision_date": "2019-12-26",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin 2020 yılı piyasa işletim gelir tavanına ilişkin",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o1bi93z06eU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o1bi93z06eU="
+  ],
+  "source_sha256": "b866c2d7dbea136ce69a5847a13f47a2e7f54123e79f6d913e70bfa265abbbdf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
