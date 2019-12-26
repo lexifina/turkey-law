@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9040-3",
+  "decision_date": "2019-12-26",
+  "title": "1/1/2020 tarihinden itibaren uygulanan sayaç kontrol bedelleri",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30933",
+  "categories": [
+    "Sayaç Kontrol Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p+e4Q/ZhAQQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p+e4Q/ZhAQQ="
+  ],
+  "source_sha256": "692bcc925254344c8b0b7460ae78d78fcc429593fbe17b60753563a1a0a3d03f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7528,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
