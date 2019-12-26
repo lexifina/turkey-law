@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9034",
+  "decision_date": "2019-12-26",
+  "title": "TEİAŞ 2020 Yılı Sistem Kullanım ve Sistem İşletim Tarifeleri",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30933",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DNemPYNK4Gs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DNemPYNK4Gs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DTrQZuz43Ws=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CguKHC8iYD0="
+  ],
+  "source_sha256": "89ca656c2521e9fd6f83aff87a62da85d6dfd5dc91e17776ed8adfee44032e37",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
