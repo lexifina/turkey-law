@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.02-155[2455]-472115",
+  "source_id": 34347,
+  "date": "2019-12-26",
+  "title": "6325 sayılı Kanun gereği düzenlenen anlaşma belgesinin damga vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34347",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "440b0bd015e9d2ee9d9ca5cbb7e354550e65a2330f8a83891e63980d8f6fc1c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
