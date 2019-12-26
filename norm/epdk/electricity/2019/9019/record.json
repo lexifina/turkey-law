@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9019",
+  "decision_date": "2019-12-26",
+  "title": "2020 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2019-12-28",
+  "resmi_gazete_number": "30992",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+ZtFgF/kWYc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+ZtFgF/kWYc="
+  ],
+  "source_sha256": "38d5b49f18d2bb6c9df92ee2d93b019f34e51254c306a3412c3a9406d3826624",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
