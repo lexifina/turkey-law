@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9040-4",
+  "decision_date": "2019-12-26",
+  "title": "2020 yılı TORETOSAF",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30933",
+  "categories": [
+    "TORETOSAF"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ln7FBYZF0Yc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ln7FBYZF0Yc="
+  ],
+  "source_sha256": "0c9e72ca47eca9e9c372580b7f983e988c17d32b526b26b3e34000e9021d7335",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1856,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
