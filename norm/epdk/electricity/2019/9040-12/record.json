@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9040-12",
+  "decision_date": "2019-12-26",
+  "title": "1/1/2020 tarihinden itibaren uygulanan Otomatik Sayaç Okuma Sistemi kapsamında ilave veri talep edilmesi halinde tahsil edilecek bedel",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "OSOS İlave Veri Talebi Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=99rcXsjn9VE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=99rcXsjn9VE="
+  ],
+  "source_sha256": "04bfc1fb96a308f70a21e211c0ee4b25ebc62209f981a857ec865c02251bca11",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15836,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
