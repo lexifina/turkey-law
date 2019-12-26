@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9040-5",
+  "decision_date": "2019-12-26",
+  "title": "2020 yılına ilişkin güç kalitesi ölçüm hizmet bedeli",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "Teknik Kalite Ölçüm Hizmet Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MJor8vqMP6I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MJor8vqMP6I="
+  ],
+  "source_sha256": "9f7bbb292430ecfa0dfdfb348c8069e095d4c4828e1e3ca4d736e942374be146",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1854,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2019-12-26",
+  "law_text_complete": true
+}
