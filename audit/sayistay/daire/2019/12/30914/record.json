@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "172",
+  "decision_date": "2019-12-26",
+  "source_id": 30914,
+  "chamber": "8",
+  "ilam_number": "52",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30914/",
+  "source_sha256": "e58693240bfb3b6729707e610862cd6a8fc9068cdf3020df04c894a93508308d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
