@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9097",
+  "decision_date": "2019-12-26",
+  "title": "Elektrik Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedeller Ve Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2019-12-29",
+  "resmi_gazete_number": "30993",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jVphJtUUgbY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jVphJtUUgbY="
+  ],
+  "source_sha256": "a789518f79728fc248d18d1908d2f9f141fe1b80b88a8ecdbf9a9da58ce97e22",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2019-12-26",
+  "law_text_complete": false
+}
