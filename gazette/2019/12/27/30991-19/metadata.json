@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-27",
+  "issue": "30991",
+  "edition": "regular",
+  "item": 19,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Uluslararası Gözetim Şirketinin Faaliyetten Süreli Men’i Hakkında Tebliğ (Ürün Güvenliği ve Denetimi: 2019/31)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227-19.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227.htm",
+  "index_sha256": "9fb69f4ad9ae59895b47305ec2c971b3441446cb967992fdaeaaee7f29a35cce",
+  "index_header": "27 Aralık 2019 ... 30991 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
