@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-27",
+  "issue": "30991",
+  "edition": "mükerrer 2",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Özel İletişim Vergisi Genel Tebliği (Seri No: 18)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227M2-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227M2.htm",
+  "index_sha256": "94e058702dab9417d642ea0c382712f46831ed777478d5a280e7615d156b323d",
+  "index_header": "27 Aralık 2019 ... 30991 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191227M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
