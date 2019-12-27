@@ -1,0 +1,3 @@
+Zorunlu uygulamaya geçiş
+GEÇİCİ MADDE 1 – (1) (Değişik:RG-25/12/2012-28508) 1/1/2014’ten itibaren, termal güneş enerjisi sistemlerinin ve ısı pompalarının birincil devreleri için özel olarak tasarlananlar hariç, salmastrasız bağımsız devirdaim pompalarının Ek-I’in 1 inci maddesinin birinci fıkrasında tanımlanan verimlilik seviyesine uygun olması zorunludur.
+(2) (Değişik:RG-31/12/2017-30287) Salmastrasız bağımsız devirdaim pompalarının 1/2/2016 tarihinden itibaren, ürünlere entegre salmastrasız devirdaim pompalarının ise 21/4/2018 tarihinden itibaren Ek-I’in 1 inci maddesinin ikinci fıkrasında tanımlanan verimlilik seviyesine uygun olması gerekir.
