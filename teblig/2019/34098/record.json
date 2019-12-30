@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34098",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAHSİLAT GENEL TEBLİĞİ (SERİ: C SIRA NO: 5)",
+  "number": "34098",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/34098",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34098&MevzuatTertip=5",
+  "source_sha256": "3ae4b1cb88368693a512bf0d9ba21f992fdb923fe7f148ecb08a921713d9e3b2",
+  "source_bytes": 12844,
+  "published": "2019-12-30",
+  "gazette": "30994",
+  "in_force": "2019-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 249,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
