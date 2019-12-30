@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, Türk Gümrük Tarife Cetvelinin uygulanmasında ve bazı eşyaların sınıflandırılmasında kolaylık sağlanması, Avrupa Birliği müktesebatı uyum çalışmaları çerçevesinde söz konusu Tarife Cetveli uygulamaları ile Avrupa Birliği (AB) Kombine Nomanklatürü uygulamaları arasında uyum ve yeknesaklığın temin edilmesi, tamamlayıcı ve yol gösterici bir unsur olarak Avrupa Birliği Kombine Nomanklatürü Açıklama Notlarının yürürlüğe konulmasıdır.

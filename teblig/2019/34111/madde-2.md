@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, 29/3/2019 tarihli ve C 119/1 sayılı Avrupa Birliği Resmî Gazetesinde duyurulan Avrupa Birliği Kombine Nomanklatürü Açıklama Notları ile 8/5/2019 tarihli ve C 157 sayılı, 24/5/2019 tarihli ve C 179 sayılı, 7/6/2019 tarihli ve C 192 sayılı, 1/7/2019 tarihli ve C 219 sayılı, 27/7/2019 tarihli ve C 248 sayılı, 11/9/2019 tarihli ve C 307 sayılı, 9/10/2019 tarihli ve C 341 sayılı, 16/10/2019 tarihli ve C 350 sayılı, 31/10/2019 tarihli ve C 370 sayılı Avrupa Birliği Resmî Gazetelerinde duyurulan değişiklikleri kapsar.
