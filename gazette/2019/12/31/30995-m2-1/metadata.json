@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-31",
+  "issue": "30995",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7198 2018 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M2.htm",
+  "index_sha256": "4b65c702557b26e5f33729b0fc227ebff9bb725a4840ed8a56acb42487e91681",
+  "index_header": "31 Aralık 2019 ... 30995 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
