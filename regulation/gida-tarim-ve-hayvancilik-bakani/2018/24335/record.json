@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.24335",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ETÇİ TAVUKLARIN KORUNMASI İLE İLGİLİ ASGARİ STANDARTLARA İLİŞKİN YÖNETMELİK",
+  "number": "24335",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2018/24335",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24335&MevzuatTertip=5",
+  "source_sha256": "8d7b2a5692387dfd4184fe520b78daf82a02730038ff679ccc5c31414dfbeb2d",
+  "source_bytes": 41286,
+  "published": "2018-01-20",
+  "gazette": "30307",
+  "in_force": "2019-12-31",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 31/12/2019 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/12/2019 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2047,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24335-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
