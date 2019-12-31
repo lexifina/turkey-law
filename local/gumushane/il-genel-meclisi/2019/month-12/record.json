@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2019,
+  "month": 12,
+  "title": "İl Genel Meclisi'nin 2019 yılı ARALIK ayı toplantılarında aldığı kararlar:",
+  "decision_date": null,
+  "index_date": "2019-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2019",
+  "source": "https://www.gumushaneozelidare.gov.tr/aralik-2019-kararlari",
+  "official_page": "https://www.gumushaneozelidare.gov.tr/aralik-2019-kararlari",
+  "official_document": "https://www.gumushaneozelidare.gov.tr/kurumlar/gumushaneozelidare.gov.tr/İl Genel Meclisi/Kararlar/2019/2019_aralik.doc",
+  "source_sha256": "ae1d28008c42e1545f1efb14a78bd407978189722c831e40427f48121d0cc6ab",
+  "issuer": "Gümüşhane İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "İl Genel Meclisi'nin 2019 yılı ARALIK ayı toplantılarında aldığı kararlar:",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "Aralık 2019 kararları"
+}
