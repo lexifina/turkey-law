@@ -1,0 +1,336 @@
+20 Ocak 2018 CUMARTESİ
+Resmî Gazete
+Sayı : 30307
+YÖNETMELİK
+Gıda, Tarım ve Hayvancılık Bakanlığından:
+ETÇİ TAVUKLARIN
+KORUNMASI İLE İLGİLİ ASGARİ STANDARTLARA
+İLİŞKİN
+YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı; etçi
+tavukların gelişmesi, uyumu ve evcilleşme durumları ile fizyolojik,
+etolojik ihtiyaçları ve davranışları dikkate alınarak bakıldıkları ve
+yetiştirildikleri koşulların asgari standartlarını belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, etçi tavukların
+korunması ile ilgili asgari standartları belirleyen hükümleri kapsar.
+(2) Bu Yönetmelik, kapalı alanda ekstansif
+yetiştirilen ve açık alanlarda beslenen tavukları, organik olarak yetiştirilen
+tavukları, etçi tavuk sayısı 500 adetten az olan işletmeleri, sadece
+damızlık amaçlı yetiştiricilik yapan işletmeleri ve kuluçkahaneleri kapsamaz.
+(3) Bu Yönetmelik, hem damızlık hem de etçi tavuk
+yetiştirilen işletmelerde sadece etçi tavuk sürülerine uygulanır.
+Dayanak
+MADDE 3 –
+(1) Bu Yönetmelik, 11/6/2010
+tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem
+Kanununun 9 uncu maddesine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Yönetmelikte geçen;
+a) Altlık: Tavukların fizyolojik ve etolojik
+ihtiyaçlarını gidermelerine imkân veren ufalanabilir uygun bir materyali,
+b) Bakanlık: Gıda, Tarım ve Hayvancılık Bakanlığını,
+c) Etçi tavuk: Et üretimine yönelik yetiştirilen
+Gallus gallus türü kanatlıları,
+ç) Günlük mortalite oranı: Bir kümeste herhangi bir
+gün içerisinde hastalık veya başka bir sebepten dolayı kesimi yapılan tavuk
+sayısının söz konusu gün kümeste bulunan tavuk sayısına bölünüp 100 ile
+çarpılması sonucu elde edilen sayıyı,
+d) Hayvan sahibi veya bakıcısı: Hayvanların
+mülkiyetini haiz veya ücret karşılığında ya da ücretsiz olarak hayvanları
+muhafaza etmekle görevlendirilen gerçek veya tüzel kişi/kişileri,
+e) İl/ilçe müdürlüğü: Bakanlık il ve ilçe
+müdürlüğünü,
+f) İşletme: İçinde hayvanların yetiştirildiği veya
+muhafaza edildiği herhangi bir kuruluşu,
+g) Kullanılabilir alan: Tavukların istedikleri her
+zaman erişebilecekleri altlık serili alanı,
+ğ) Kümes: Tavuk sürülerinin yetiştirildiği işletme
+içerisinde yer alan binayı,
+h) Kümülatif günlük mortalite oranı: Günlük
+mortalite oranlarının toplamını,
+ı) Resmi veteriner hekim: Bakanlık adına görev
+yapan Bakanlık personeli veteriner hekimi,
+i) Sürü: Bir işletme içerisinde yer alan bir kümese
+yerleştirilmiş olan ve söz konusu kümeste aynı anda bulunan bir grup
+tavuğu,
+j) Sürü yoğunluğu: Kullanılabilir alanın
+metrekaresi başına düşen bir kümes içerisinde aynı anda bulunan tavukların
+toplam canlı ağırlığını,
+k) Yetkilendirilmiş veteriner hekim: Bakanlıkta
+görevli veteriner hekimler dışında, verilecek resmî görevleri yürütmek
+üzere Bakanlık tarafından yetki verilen veteriner hekimi,
+ifade eder.
+İKİNCİ BÖLÜM
+Yetiştirme ile
+İlgili Gereklilikler
+İşletmelerle
+ilgili gereklilikler
+MADDE 5 –
+(1) İşletmeler aşağıdaki hususları
+garanti altına almakla yükümlüdür:
+a) Tüm kümeslerin 9 uncu maddede yer alan
+gereklilikler ile uyumlu olması sağlanır.
+b) Gerekli olan tüm denetimler, izleme ve takip
+faaliyetleri il/ilçe müdürlüğü tarafından veya yetkilendirilmiş veteriner
+hekim tarafından gerçekleştirilir.
+(2) Bir işletmede veya bir işletme içerisinde yer
+alan bir kümeste maksimum sürü yoğunluğu 33 kg/m2 değerini
+geçemez.
+(3) 9 uncu maddede yer alan gerekliliklere ilave
+olarak 10 uncu maddede belirtilen gereklilikler ile uyumlu olmak şartı ile
+işletme sahipleri veya bakıcılar tavukları daha yüksek sürü yoğunluklarında
+da bulundurabilirler.
+(4) Üçüncü fıkrada yer alan değişikliğin ortaya
+çıkması durumunda herhangi bir işletmede veya bir işletme içerisinde yer
+alan bir kümeste maksimum sürü yoğunluğu 39 kg/m2 değerine
+yükseltilebilir.
+(5) 12 nci maddede belirtilen kriterler yerine
+getirildiğinde, dördüncü fıkrada yer alan maksimum sürü yoğunluğunun 3
+kg/m² daha artırılmasına il/ilçe müdürlüğü tarafından izin verilebilir.
+Tavuklar
+ile ilgilenen kişilerin eğitimi ve yönlendirilmesi
+MADDE 6 –
+(1) İşletmeler, bakıcıların
+işlerini yapabilmeleri için yeterli eğitimi almalarını sağlamakla yükümlüdür.
+(2) İl/ilçe müdürlüğü tarafından bu Yönetmelik
+hükümlerine uygun olarak eğitim programları düzenlenir ve eğitime
+katılanlara sertifika verilir. Bakıcı olarak çalışacakların eğitim
+programını tamamladığını belirten bir sertifikaya sahip olması zorunludur.
+(3) Eğitim programları refah ile ilgili hususlara
+odaklanır ve aşağıdaki hususları kapsayacak şekilde düzenlenir:
+a) Bu Yönetmeliğin 9 ve 10 uncu maddesi hükümleri,
+b) Fizyoloji, özellikle yeme ve içme ihtiyaçları,
+hayvan davranışları ve stres konsepti,
+c) Hayvanların dikkatli bir şekilde elde tutulması,
+yakalanması, araçlara yüklenmesi ve nakledilmesi ile ilgili hususlar,
+ç) Acil tedavi, öldürme ve itlaf,
+d) Koruyucu biyogüvenlik önlemleri.
+(4) İşletme sahibi veya bakıcısı, işletmelerde
+yapılan ayıklama uygulamaları da dâhil olmak üzere, tavukların bakımı,
+yakalanması veya yüklenmesi gibi işlemler için istihdam edilen personele,
+hayvan refahına yönelik talimatlar veya kılavuzlar hazırlayabilir.
+Denetimler
+MADDE 7 – (1) İl/ilçe müdürlüğü, bu Yönetmeliğin
+gereklilikleri ile uyumluluğun teyit edilebilmesi için denetimlerde
+bulunur. Söz konusu denetimler, her bir ilde yetiştirilen hayvanların
+sayısı dikkate alınarak yeterli oranda uygulanır. Denetimler, 17/12/2011
+tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine
+Dair Yönetmelik çerçevesinde farklı amaçlar için yapılan kontroller
+sırasında da yürütülebilir.
+(2) İl/ilçe müdürlükleri her yıl 30 Haziran
+itibarıyla birinci fıkrada belirtilen denetimler ile ilgili bir önceki yıla
+ait yıllık raporlarını Bakanlığa sunar. Raporda, tespit edilen temel refah
+problemlerine yönelik alınan, başlıca önlemleri içeren bir listeye de yer
+verilir.
+İyi
+işletme uygulamaları kılavuzu
+MADDE 8 – (1) İl/ilçe müdürlüğü bu Yönetmelik ile uyumluluk
+konusundaki yönlendirmeleri de içeren iyi işletme uygulamalarının
+geliştirilmesine yönelik kılavuzların yaygınlaşmasını ve kullanımını teşvik
+eder.
+İşletmelerde
+uygulanacak hükümler
+MADDE 9 – (1) Suluklar etrafa en az miktarda su dökülecek
+şekilde yerleştirilir ve bakımları yapılır.
+(2) Yemlerin sürekli mevcut olması veya öğünlük
+olarak verilmesi sağlanır ve planlanan kesim zamanına 12 saat kalana kadar
+hayvanlara yem verilmeye devam edilir.
+(3) Tüm tavukların sürekli olarak yüzeydeki kuru
+altlığa ulaşabilir durumda olması sağlanır.
+(4) Havalandırmanın aşırı sıcaklığı engelleyecek
+yeterlilikte olması ve gerektiği zaman ısıtma sistemi ile birlikte
+çalıştırılmak suretiyle ortamdaki fazla nemi ortadan kaldırması
+gerekmektedir.
+(5) Ses seviyesinin asgari düzeyde olması sağlanır.
+Havalandırma fanları, yem makinaları ve diğer makinalar en düşük seviyede
+ses yapacak şekilde yerleştirilir, çalıştırılır ve bu makinaların bakımları
+yapılır.
+(6) Tüm bina içerisinde aydınlatmanın tavukların
+göz seviyesinde en az 20 lux yoğunluğunda olması ve kullanılabilir
+alanların en az % 80’inde aydınlatma bulunması gerekmektedir. Gerekli
+görüldüğünde veteriner hekim tavsiyesiyle ışıklandırma seviyesi geçici
+olarak düşürülebilir.
+(7) Tavukların binaya yerleştirildiği günden
+itibaren yedi gün içerisinde ve öngörülen kesim zamanına üç gün kalana
+kadar ışıklandırma 24 saat esasına göre ve en az 4 saati kesintisiz olmak
+üzere toplamda en az 6 saatlik karanlık dönemi içerecek şekilde ve karartma
+süreleri hariç olmak kaydı ile yapılır.
+(8) İşletmede bulunan tüm tavuklar günde en az iki
+defa olmak üzere kontrole tabi tutulur. Hayvan refahı ve/veya hayvan
+sağlığında meydana gelen herhangi bir kötüleşme veya olumsuzluk belirtisine
+azami dikkat gösterilir.
+(9) Ciddi şekilde yaralanmış veya yürüme zorluğu,
+şiddetli ascites veya malformasyon gibi belirgin sağlık problemleri yaşayan
+veya bunlara maruz kalması muhtemel tavukların bir veteriner hekim
+tarafından tedavileri yapılır veya derhal kesimleri ya da itlafları
+gerçekleştirilir.
+(10) Tavuklarla temasın gerçekleştiği bina bölümleri,
+ekipman veya aletler, yeni sürü içeri alınmadan önce ve bir önceki üretim
+periyodundaki tavukların tamamının boşaltılmasından sonra her defasında
+tamamen ve detaylı şekilde temizlenir ve dezenfekte edilir. Kümesten
+tavukların çıkarılması sonrasında tüm altlık tamamen kaldırılarak yerine
+yenisi konulur.
+(11) İşletme sahibi veya bakıcı, işletmedeki her
+bir kümes için Ek-1’de yer alan formu doldurmak zorundadır.
+(12) Söz konusu kayıtlar en az üç yıl süresince
+saklanarak il/ilçe müdürlüğünün yaptığı denetimler sırasında veya herhangi
+bir başka nedenden dolayı talep edildiğinde ibraz edilir.
+(13) Tedavi veya tanı amacı dışındaki nedenlere
+bağlı olarak gerçekleştirilen ve vücudun hassas kısımlarından birinin zarar
+görmesine veya kaybedilmesine veya kemik yapısında değişikliğe yol açan tüm
+cerrahi müdahaleler yasaktır.
+(14) Ancak tüy gagalama ve kanibalizm gibi
+durumların engellenmesi hususunda diğer yöntemlerin yetersiz kalması
+halinde gaga kesimi sadece bir veteriner hekimin konsültasyonu ve tavsiyesi
+ile uzman bir kişi tarafından ve 10 günlükten daha küçük civcivler üzerinde
+gerçekleştirilebilir.
+(15) Konuyla ilgili özel eğitim almış bir personel
+tarafından ve veteriner hekim gözetiminde kastrasyon yapılabilir.
+Sürü
+yoğunluklarının artırılması ile ilgili gereklilikler
+MADDE 10
+– (1) İşletme sahibi veya bakıcı
+33 kg/m2 canlı ağırlıktan daha yüksek bir sürü yoğunluğu kullanmak
+istediğine dair talebini il/ilçe müdürlüğüne bildirir. Başvuruyu yapan net
+sayıyı belirtir ve sürünün kümese yerleştirilmesinden en az 15 gün önce
+sürü yoğunluğunda meydana gelen değişiklikler ile ilgili olarak il/ilçe
+müdürlüğünü bilgilendirir. İl/ilçe müdürlüğü tarafından talep edilmesi
+durumunda söz konusu bildirim, ikinci fıkrada belirtilen dokümanlarda yer
+alan bilgileri özetleyen bir belge ekinde yapılır.
+(2) İşletme sahibi veya bakıcı üretim sistemi ile
+ilgili detaylı bilgileri içeren dokümanları kümeste hazır bulundurur. Söz
+konusu dokümanlar özellikle kümesle ilgili teknik detaylar, ekipman ve
+aşağıdaki hususlar ile ilgili bilgileri kapsar:
+a) Tavukların işgal ettiği alanın boyutları da
+dâhil olmak üzere kümes planı,
+b) Yerleştirildikleri yerler de dâhil olmak üzere
+havalandırma ve varsa soğutma ve ısıtma sistemleri ve hava akımı hava hızı
+ve sıcaklık gibi hedef hava kalitesi parametrelerini detaylandıran bir
+havalandırma planı,
+c) Yem ve su sistemleri ile bunların yerleri,
+ç) Hayvanların sağlık ve refahı için gerekli olan
+otomatik veya mekanik ekipmanların herhangi birinde bir arıza olması
+durumunda devreye girecek alarm sistemleri veya yedek sistemler,
+d) Zemin özellikleri ve normal şartlarda kullanılan
+altlıklar.
+(3) Söz konusu dokümanlar il/ilçe müdürlüğünün
+talep etmesi durumunda sunulmak üzere hazır ve güncel halde
+bulundurulur. Özellikle havalandırma
+ve alarm sistemleri ile ilgili gerçekleştirilen teknik incelemelerin kaydı
+tutulur.
+(4) İşletme sahibi veya bakıcısı, ekipmanda veya
+prosedürlerde meydana gelen ve tavukların refahını etkileyebilecek olan
+değişiklikleri gecikmeksizin il/ilçe müdürlüğüne bildirir.
+(5) İşletme sahibi veya bakıcısı, işletmede yer
+alan her bir kümesin havalandırma sistemiyle teçhiz edilmesini ve gerekli
+olduğu takdirde ısıtma ve soğutma sistemlerinin aşağıdaki hususlara uygun
+şekilde tasarlanmasını, inşa edilmesini ve kullanılmasını sağlar:
+a) Tavukların baş hizaları itibarıyla amonyak (NH3)
+konsantrasyonu 20 ppm’i, karbondioksit (CO2) konsantrasyonu ise
+3000 ppm’i geçemez.
+b) Dış mekan sıcaklığı gölgede 30 °C’yi aştığı
+zamanlarda iç mekan sıcaklığı dış mekan sıcaklığından 3 °C’den daha fazla
+olamaz.
+c) Dış mekan sıcaklığı 10 °C’nin altında olduğunda
+48 saat içerisinde ölçülen kümes içi ortalama bağıl nem oranı % 70’i aşamaz.
+Kesimhanede
+gözlem ve izleme
+MADDE 11
+– (1) Sürü yoğunluğunun 33
+kg/m²’den daha yüksek olduğu durumlarda işletme sahibi veya bakıcısı
+tarafından düzenlenen dokümanlarda tavukların ırkları belirtilerek günlük
+mortalite oranı ile kümülatif günlük mortalite oranlarına yer verilir.
+(2) Söz konusu verilerle birlikte işletme ismi ve kümes
+numarası belirtilmek suretiyle resmi veteriner hekim ya da yetkilendirilmiş
+veteriner hekim gözetiminde varışta ölen etçi tavuk sayısı kayıt altına
+alınır. Kesimi yapılan etçi tavuk sayısı ile kesimhaneye varışta ölen etçi
+tavuk sayısı göz önüne alınmak suretiyle verilerin ve kümülatif günlük
+mortalite oranlarının makul olup olmadığı kontrol edilir.
+(3) Gerçekleştirilen kontroller esnasında resmi
+veteriner hekim ya da yetkilendirilmiş veteriner hekim işletmede veya
+işletme içerisinde yer alan herhangi bir kümeste normal olmayan seviyelerde
+kontakt dermatit, parazitizm ve sistematik hastalıklar gibi yetersiz refah
+şartlarını gösteren olası diğer indikatörleri belirlemek için post mortem
+muayenenin sonuçlarını değerlendirir.
+(4) Birinci ve ikinci fıkrada belirtilen mortalite
+oranları veya üçüncü fıkrada belirtilen post mortem muayene sonuçları
+yetersiz hayvan refahı şartlarının mevcut olduğuna işaret ediyorsa resmi
+veteriner hekim ya da yetkilendirilmiş veteriner hekim, hayvanların
+sahibine veya bakıcısına ve il/ilçe müdürlüğüne söz konusu verileri
+bildirir. Hayvanların sahibi, bakıcısı ve il/ilçe müdürlüğü tarafından
+gerekli önlemler alınır.
+Artırılmış
+sürü yoğunluğunun üst sınırı ile ilgili kriterler
+MADDE 12
+– (1) Sürü yoğunluğunun 5 inci
+maddenin beşinci fıkrası uyarınca artırılabilmesi için;
+a) Son iki yıl içerisinde il/ilçe müdürlüğü
+tarafından gerçekleştirilen işletme denetimleri sırasında bu Yönetmelikte
+yer alan gerekliliklere yönelik herhangi bir eksikliğin tespit edilmemiş
+olması,
+b) İşletme sahibi veya bakıcı tarafından
+gerçekleştirilen izlemenin 8 inci maddede belirtilen iyi işletme uygulamaları
+kullanılmak suretiyle gerçekleştirilmiş olması,
+c) Günlük kümülatif mortalite oranı ˂ 0,06 x
+kesim yaşı (gün) +1 olarak kabul edilmekle birlikte, bir kümeste bulunan
+sürülere art arda gerçekleştirilen en az yedi kontrol sırasında sürünün gün
+cinsinden kesim yaşıyla çarpılan kümülatif günlük mortalite oranının
+%1+%0,06’dan düşük olması,
+kriterlerinin sağlanmış olması gerekir.
+(2) Son iki yıl içerisinde il/ilçe müdürlüğü
+tarafından işletmede herhangi bir izleme gerçekleştirilmemiş olması
+durumunda en az bir denetim yapılarak birinci fıkranın (a) bendindeki gerekliliğin yerine getirilip
+getirilmediğinin kontrol edilmesi gerekmektedir.
+(3) İl/ilçe müdürlüğü, işletme sahibinin veya
+bakıcının istisnai özelliğe sahip bir günlük kümülatif mortalite oranının
+varlığı ile ilgili tatmin edici bir açıklamada bulunması veya kendi
+kontrolü dışındaki şartların mevcut olduğunu göstermesi durumunda sürü
+yoğunluğunun artırılmasına karar verebilir.
+ÜÇÜNCÜ BÖLÜM
+Çeşitli ve Son
+Hükümler
+Avrupa
+Birliği mevzuatına uyum
+MADDE 13
+– (1) Bu Yönetmelik, 2007/43/AT
+sayılı Et Üretimi İçin Yetiştirilen Tavukların Korunması ile İlgili Asgari
+Standartları Belirleyen Avrupa Birliği Konsey Direktifi dikkate alınarak
+Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+Saklı
+hükümler
+MADDE 14
+– (1) 22/11/2014 tarihli ve 29183
+sayılı Resmî Gazete’de yayımlanan Çiftlik Hayvanlarının Refahına İlişkin
+Genel Hükümler Hakkında Yönetmelik hükümleri saklıdır.
+İdari
+yaptırımlar
+MADDE 15
+– (1) Bu Yönetmelik hükümlerine
+aykırı davrananlar hakkında 5996 sayılı Kanunun ilgili hükümlerine göre
+idari yaptırımlar uygulanır.
+Eğitime
+ilişkin geçiş süreci
+GEÇİCİ
+MADDE 1 – (1) İl/ilçe müdürlükleri,
+gerçekleştirilen işletme denetimleri sırasındaki değerlendirmeleri uyarınca
+1/6/2022 tarihine kadar bakıcıların mevcut tecrübelerinin konuyla ilgili
+bir eğitim programına katılım ile eş değer olduğunu kabul edebilir. Bu
+durumda il/ilçe müdürlüğü söz konusu eş değerliği tasdik edecek bir
+sertifika düzenler.
+Yürürlük
+MADDE 16
+– (1) Bu Yönetmelik 31/12/2019
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 17
+– (1) Bu Yönetmelik hükümlerini
+Gıda, Tarım ve Hayvancılık Bakanı yürütür.
+Eki için tıklayınız
