@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2019,
+  "month": 12,
+  "title": "2019_Aralik_meclis_kararlari",
+  "decision_date": null,
+  "index_date": "2019-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2019",
+  "source": "https://www.batmanozelidare.gov.tr/2019-meclis-kararlari",
+  "official_page": "https://www.batmanozelidare.gov.tr/2019-meclis-kararlari",
+  "official_document": "https://www.batmanozelidare.gov.tr/kurumlar/batmanozelidare.gov.tr/Meclis_Kararlari/2019/2019_Aralik_meclis_kararlari.pdf",
+  "source_sha256": "cf74b131f1f79e75cafdf12ce1b2a4f69b45bf837766da3d0d5c87c449e10744",
+  "issuer": "Batman İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2019_Aralik_meclis_kararlari",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2019 Meclis Kararları"
+}
