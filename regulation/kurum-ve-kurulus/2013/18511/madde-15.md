@@ -1,0 +1,4 @@
+Tasfiye ambarına eşya alınması ve yapılacak işlemler
+MADDE 15 – (1) Tasfiyelik hale gelen eşya, tespit ve tahakkuk belgeleri beraberinde, teslim tesellüm belgesi düzenlenerek tasfiye ambarına alınır. Belgede eşyanın, adedi, markası, ağırlığı, modeli, seri numarası, IMEI numarası, tipi, hasar durumu, kutudaki adedi gibi tüm ayırt edici özellikleri yer alır. Hasarlı eşyanın durumu belge ve defterde ayrıca belirtilir.
+(2) Teslim alınan eşya, teslim tesellüm belgesinde yer alan bilgilere göre ilgili deftere kaydedilir.
+(3) Parlayıcı, patlayıcı, yanıcı ve yanmayı artırıcı eşya, korunmaları özel düzenek ve yapı gerektiren eşya, bir arada bulundukları eşya için tehlike ve zarar doğurabilecek eşya ile imhalık eşya, tasfiye ambarına alınmadan, bulunduğu yerde veya buna uygun yapılmış yerlere alınarak tasfiye edilir.

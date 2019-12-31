@@ -1,0 +1,7 @@
+Satışların duyurulması
+MADDE 34 – (1) İhale yoluyla yapılacak satışlar ilan yoluyla duyurulur.
+(2) Satış ilanları, satış tarihinden en az beş gün önce Resmî Gazete’de yayımlanmak üzere Başbakanlık Basımevi Döner Sermaye İşletmesi Müdürlüğüne gönderilir ve satış listeleriyle birlikte ilgili gümrük müdürlüğü ile satışı yapan işletme müdürlüğünün ilan tahtasına herkesin görebileceği biçimde asılır ve elektronik ortamda duyurulur.
+(3) Çabuk bozulma ve telef olma tehlikesi taşıyan eşya ile Bakanlıkça belirlenen eşya ve parasal limitleri aşmayan değerdeki eşyanın satış ilanı Resmî Gazete’de yayımlanmaz ve ikinci fıkradaki süre bir güne kadar indirilebilir.
+(4) (Değişik:RG-3/6/2018-30440) Araçlarda aracın son durumunu gösteren en az dört cepheden, diğer eşyada ise mümkün olduğunca detay gösterecek şekilde fotoğrafı çekilerek elektronik ortamda muhafaza edilir.
+(5) Yeniden ihraç amaçlı satışlarda, şartname eki listenin özel hükümler bölümünde eşyanın yeniden ihraç amacıyla satışa sunulacağı belirtilir.
+(6) Satışlara katılımın ve rekabetin arttırılması amacıyla, satışa sunulan eşyanın özelliği itibariyle belirli bir faaliyette veya iş kolunda kullanılması gerekiyorsa, bu eşyanın satışı hakkında ilgili ticaret ve sanayi odaları ile esnaf ve sanatkârlar odaları, birlikleri veya federasyonlarına duyuru yapılarak ilgili firmaların bilgilendirilmesi sağlanır. Ayrıca, ihalenin yapıldığı yerde özellik arzeden eşyanın niteliğine uygun faaliyette bulunan firmalara ihale hakkında yazılı bilgi verilebilir.

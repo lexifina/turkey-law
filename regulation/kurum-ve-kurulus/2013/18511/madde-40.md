@@ -1,0 +1,7 @@
+İhale bedelinin ödenmesi
+MADDE 40 – (1) İhalenin tamamlanmasını izleyen yedi gün içinde, bekletilmeyecek eşyada iki iş günü içinde ihale bedelinin ödenmesi zorunludur. İhale bedelinin bu süre içinde ödenmemesi halinde satış bozularak teminat döner sermayeye gelir kaydedilir.
+(2) İhaleden son çekilenin verdiği teklifin eşyanın ihaleye esas bedelinin;
+a) Yüzde yetmiş beş ve üstünde, bekletilmeyecek eşyada ise yüzde elli ve üstünde olması,
+b) Yüzde yetmiş beşinin, bekletilmeyecek eşyada yüzde ellinin altında olmakla beraber ihale bedelini ödemeyen alıcının vermiş olduğu teklif bedelinin yüzde doksanı ve üzerinde olması,
+halinde son çekilene iadeli taahhütlü posta ile veya isteklinin imzası alınmak suretiyle elden yazılı tebligat yapılarak ihalede verdiği teklif üzerinden eşyayı satın alabileceği bildirilir ve varsa beyan edilen elektronik posta adresine de gönderilir. Daha önce tebligat yapıldığı durumlar hariç evrakın postaya verildiği tarihi takip eden yedinci gün tebliğ tarihidir. Bekletilmeyecek eşyada bildirim elektronik yolla, son çekilen tarafından beyan edilen elektronik posta adresine yapılır.
+(3) Bildirimin kendisine tebliğinden itibaren yedi gün, bekletilmeyecek eşyada ise elektronik yolla yapılan bildirimi takip eden iki gün içinde isteklinin eşyayı almayı kabul etmesi halinde, aynı süre zarfında 35 inci madde hükümlerine göre teminat alınmak, satış kâğıdı ve şartname imzalattırılmak suretiyle eşya, satıştan son çekilene satılır. Son çekilenin kabul etmemesi veya son çekilenin olmaması durumunda ise eşya yeniden satışa çıkarılır.

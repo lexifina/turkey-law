@@ -1,0 +1,2 @@
+Bilgi ve belgeler
+MADDE 69 – (1) Bu Yönetmelikte geçen hizmet tarifesi, şartname, karar, tutanak, makbuz, defter, liste veya taahhütname gibi eşyanın gümrük idarelerince işletilmekte olan geçici depolama yeri, antrepo ve ambarlara alınması, muhafazası, teslimi ile tasfiyelik hale gelmiş eşyanın tasfiyesinde kullanılan bilgi veya belgeler, Bakanlığın internet sitesinde yayınlanır. Bakanlık gerekli gördüğü durumlarda bu bilgi veya belgeler üzerinde değişiklik yapabilir.

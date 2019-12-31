@@ -1,0 +1,3 @@
+Hasarlı eşya
+MADDE 13 – (1) Kaçak eşya ambarına getirilen hasarlı eşyanın durumu, kaçak eşya teslim tutanağı ile ilgili deftere ayrıntılı olarak yazılır ve diğer eşyaya zarar vermeyecek şekilde muhafaza edilir.
+(2) Eşya ambara alındıktan sonra hasara uğrarsa, eşyanın durumu tutanakla tespit edilir ve durum gümrük veya işletme müdürlüğüne bildirilir. Ambarda hasarlı hale gelen eşya, diğer eşyaya zarar vermeyecek şekilde muhafaza edilir. İlgili idarece yapılacak inceleme sonucunda eşyanın hasara uğramasında kasıt, kusur veya ihmali olduğu anlaşılan görevliler hakkında gerekli yasal işlemler yapılır.

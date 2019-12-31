@@ -1,0 +1,2 @@
+Bekletilmeyecek eşyanın tasfiyesi
+MADDE 60 – (1) Kaçak eşya dahil olmak üzere bekletilmeyecek eşya, (Değişik ibare:RG-3/6/2018-30440) ihale yoluyla veya kamu kurum ve kuruluşları ile özel kanunla kurulmuş vakıf ve derneklere taraflarca belirlenecek bedel üzerinden satılarak tasfiye edilir. Bu yolla tasfiye edilemeyen eşya, kamu kurum ve kuruluşları ile özel kanunla kurulmuş vakıf ve derneklere bedelsiz verilebilir.

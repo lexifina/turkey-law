@@ -1,0 +1,49 @@
+{
+  "source_id": "7.5.18511",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TASFİYE YÖNETMELİĞİ",
+  "number": "18511",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/18511",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18511&MevzuatTertip=5",
+  "source_sha256": "a7046810d78508c263cdcd2c09c4c60fc07fe946e8a27c7c5526883a47d81162",
+  "source_bytes": 225419,
+  "published": "2013-06-25",
+  "gazette": "28688",
+  "in_force": "2019-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2019\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2019-12-31",
+      "RG-31/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-31",
+      "31/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-03",
+      "RG-3/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-03",
+      "3/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13131,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

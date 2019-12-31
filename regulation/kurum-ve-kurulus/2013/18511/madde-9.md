@@ -1,0 +1,4 @@
+Özellikli eşyaya ilişkin işlemler
+MADDE 9 – (1) Hizmete ilişkin ücreti karşılamayacak değerdeki eşya ile bekletilmeyecek ve çabuk bozulacak eşya, Hizmet Tarifesi uyarınca eşya sahibi, temsilcisi veya nakliyecisinden depozito alınması ve bu kişilerce taahhütname verilmesinden sonra geçici depolama yeri veya antrepoya alınır. Bu şekilde teslim alınan eşya, bu yerlerde bozulan veya bozulmakta olan eşya ile kapları dağılan, delinen ve kırılan eşya, sorumlu memur tarafından derhal ilgili idareye bildirilir.
+(2) Birinci fıkrada sayılan eşyanın yolcu beraberi eşya ambarına alınması halinde depozito ve taahhütname aranmaz.
+(3) Tahlil veya ölçüm yapılması gibi nedenlerle geçici olarak bu yerlerden tamamı çıkacak eşyanın Hizmet Tarifesine göre belirlenen ücretleri alındıktan sonra çıkışına izin verilir. Bu eşyanın tekrar getirilmemesi halinde gümrük müdürlüğünden araştırılarak işlemlerinin tamamlandığı anlaşılanlar ilgili deftere kaydedilerek stoklardan düşümü yapılır.

@@ -1,0 +1,2 @@
+Yolcu beraberi eşya ambarına eşya alınması ve çıkarılması
+MADDE 8 – (1) Gümrük idaresinin resmi mührünü taşıyan alındı makbuzuna istinaden elektronik ortamda tutulan kayıtta yolcunun adı ve soyadı ile kendisine verilen alındı makbuzunun numarası, teslim alınan eşyanın her birinin adeti, markası, ağırlığı, modeli, seri numarası, IMEI numarası, tipi, hasar durumu, kutudaki eşya adedi gibi tüm ayırt edici özellikleri belirtilerek eşya ambara alınır veya ambardan çıkışı yapılır.
