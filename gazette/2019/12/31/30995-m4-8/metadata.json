@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-31",
+  "issue": "30995",
+  "edition": "mükerrer 4",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 64) Değerli Kağıtlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M4-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M4.htm",
+  "index_sha256": "bda3b4725291c23f35a7aa59287abcb895807137b65a10a2f4a95fe6fafd80eb",
+  "index_header": "31 Aralık 2019 ... 30995 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
