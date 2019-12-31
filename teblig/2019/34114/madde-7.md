@@ -1,0 +1,5 @@
+Arabuluculuk Ücret Tarifesine göre ücret
+MADDE 7 – (1) Konusu para olmayan veya para ile değerlendirilemeyen hukuki uyuşmazlıklarda; arabuluculuk ücreti bu Tarifenin eki Arabuluculuk Ücret Tarifesinin Birinci Kısmına göre belirlenir.
+(2) Konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlıklarda; arabuluculuk ücreti bu Tarifenin eki Arabuluculuk Ücret Tarifesinin İkinci Kısmına göre belirlenir.
+(3) Arabuluculuk sürecinin sonunda anlaşma sağlanamaması halinde, arabuluculuğun konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlık olsa bile arabulucu, arabuluculuk ücretini bu Tarifenin eki Arabuluculuk Ücret Tarifesinin Birinci Kısmına göre isteyebilir.
+(4) Arabuluculuk sürecinin sonunda seri uyuşmazlıklarda anlaşma sağlanması halinde, arabuluculuğun konusu para olan veya para ile değerlendirilebilen hukuki uyuşmazlık olsa bile arabulucu, arabuluculuk ücretini bu Tarifenin eki Arabuluculuk Ücret Tarifesinin Birinci Kısmına göre isteyebilir. Taraflardan birinin aynı olduğu ve bir ay içinde başvurulan en az on beş uyuşmazlık seri uyuşmazlık olarak kabul edilir.
