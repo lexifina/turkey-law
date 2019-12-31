@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2019,
+  "month": 12,
+  "title": "Meclis Kararları 2019/Aralık",
+  "decision_date": null,
+  "index_date": "2019-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2019",
+  "source": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-aralik.html",
+  "official_page": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-aralik.html",
+  "official_document": "https://www.kaytazdere.bel.tr/karar/meclis-kararlari-2019-aralik.html",
+  "source_sha256": "8421bc90aa6c3e2975688df537db08fcf131b606230a1e3842c4f573905f1f20",
+  "issuer": "Kaytazdere Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2019-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2019); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Kararları 2019/Aralık",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
