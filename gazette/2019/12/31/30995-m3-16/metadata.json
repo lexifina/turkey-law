@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2019-12-31",
+  "issue": "30995",
+  "edition": "mükerrer 3",
+  "item": 16,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bazı Tekstil, Konfeksiyon ve Deri Ürünlerinin Denetimine İlişkin Tebliğ (İthalat: 2020/15)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M3-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M3.htm",
+  "index_sha256": "1000de6e13c99df077bee3709c891c5d5dac8f6a55c2c5cbb8bdbeec1083f2cb",
+  "index_header": "31 Aralık 2019 ... 30995 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M3.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
