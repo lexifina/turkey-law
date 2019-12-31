@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34112",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İFLAS İDARESİ ÜCRETİ, YAZI VE TEBLİĞ MASRAFI TARİFESİ HAKKINDA TEBLİĞ",
+  "number": "34112",
+  "issuer": "Adalet Bakanı",
+  "path": "teblig/2019/34112",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34112&MevzuatTertip=5",
+  "source_sha256": "ee047284b718fd15afd7dbb3bb812db9ff72c467388ed69c6a047050e974961f",
+  "source_bytes": 17593,
+  "published": "2019-12-31",
+  "gazette": "30995",
+  "in_force": "2019-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2019); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 544,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
