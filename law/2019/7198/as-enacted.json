@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7198",
+  "year": 2019,
+  "title": "2018 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2019-12-31",
+  "gazette_issue": "30995",
+  "edition": "mükerrer 2",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M2-1.htm",
+  "source_sha256": "e1336a5e352fc9dafd3554d5d31a448e8e9fe2f865b7e6fbb479edff115dd133",
+  "text_sha256": "e4ef8d990a87a0f5c66dfa553e15ea1ad26bddc144400976b58aa8b0d9b09e98",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2019/12/31/30995-m2-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2019/12/20191231M2-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
