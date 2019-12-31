@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Adalet Bakanlığını,
+b) Büro: Cumhuriyet başsavcılığı bünyesinde kurulan uzlaştırma bürosunu,
+c) Daire Başkanlığı: Alternatif Çözümler Daire Başkanlığını,
+ç) Eğitim kuruluşları listesi: Daire Başkanlığında tutulan uzlaştırma eğitimi verme izni alan eğitim kuruluşlarının kaydedildiği listeyi,
+d) Elektronik liste: Uzlaştırma eğitimi verme izni alan eğitim kuruluşlarının isimlerinin elektronik ortamda tutulduğu listeyi,
+e) Elektronik ortam: Bilişim sistem ve bilişim ağından oluşan toplam ortamı,
+f) Genel Müdürlük: Ceza İşleri Genel Müdürlüğünü,
+g) Kanun: 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununu,
+ğ) Kayıt: Fiziki veya elektronik ortamda üretilen ya da bu ortama aktarılan veya taşınan, bilgi, belge ve verinin saklanmasını,
+h) Sicil: Uzlaştırmacı sicilini,
+ı) Tarife: Alternatif Çözümler Daire Başkanlığı tarafından yıllık olarak hazırlanan Uzlaştırmacı Asgari Ücret Tarifesini,
+i) UYAP: Adalet hizmetlerinin elektronik ortamda yürütülmesi amacıyla oluşturulan Ulusal Yargı Ağı Bilişim Sistemini,
+j) Uzlaşma: Uzlaştırma kapsamına giren bir suç nedeniyle, şüpheli veya sanık ile mağdur veya suçtan zarar görenin Kanun ve bu Yönetmelikteki usul ve esaslara uygun olarak anlaşmış olmalarını,
+k) Uzlaştırma: Uzlaştırma kapsamına giren bir suç nedeniyle şüpheli veya sanık ile mağdur, suçtan zarar gören veya kanuni temsilcisinin, Kanun ve bu Yönetmelikteki usul ve esaslara uygun olarak uzlaştırmacı tarafından anlaştırılmaları suretiyle uyuşmazlığın giderilmesi sürecini,
+l) Uzlaştırmacı: Şüpheli veya sanık ile mağdur veya suçtan zarar gören arasındaki uzlaştırma müzakerelerini yöneten, Cumhuriyet savcısının onayıyla görevlendirilen avukat veya hukuk öğrenimi görmüş kişiyi,
+m) Uzlaştırma raporu: Uzlaştırma işlemleri sonuçlandırıldığında uzlaştırmacı tarafından düzenlenen raporu,
+n) Uzlaşma belgesi: Uzlaştırmacı görevlendirilmeden önce veya uzlaşma teklifinin reddedilmesinden sonra tarafların uzlaşmaları sonucunda aralarında düzenlemiş oldukları belgeyi,
+o) Yazılı sınav: Uzlaştırma eğitiminin bitiminde yapılan sınavı,
+ifade eder.

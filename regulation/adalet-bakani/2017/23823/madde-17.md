@@ -1,0 +1,3 @@
+Uzlaştırma süresi
+MADDE 17 – (1) Uzlaştırmacı, uzlaştırma evrakını teslim aldıktan sonra otuz gün içinde uzlaştırma işlemlerini sonuçlandırır. (Değişik cümle:RG-31/12/2019-30995 4.Mükerrer) Bu süre içerisinde sonuçlandıramazsa durumu açıklayan bir dilekçeyle büroya başvurması hâlinde bürodan sorumlu Cumhuriyet savcısının onayını almak koşuluyla uzlaştırma bürosu bu süreyi her defasında yirmi günü geçmemek üzere en fazla iki kez daha uzatabilir.
+(2) Uzlaşma teklifinin reddedilmesine rağmen, şüpheli ile mağdur veya suçtan zarar gören uzlaştıklarını gösteren belge ile en geç iddianamenin düzenlendiği tarihe kadar Cumhuriyet savcısına başvurarak uzlaştıklarını beyan edebilirler.

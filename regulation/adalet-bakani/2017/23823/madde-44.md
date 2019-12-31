@@ -1,0 +1,3 @@
+Uzlaştırma kaydı
+MADDE 44 – (1) Cumhuriyet başsavcılığınca soruşturma ve kovuşturma evresinde yapılan uzlaştırma işlemleri için tek bir kayıt tutulur.
+(2) Uzlaştırma kaydı; sıra numarası, soruşturma numarası, mahkeme adı ve esas numarası, mağdur, şikâyetçi, katılan, şüpheli, sanık, müdafi, vekil veya kanunî temsilci ile uzlaştırmacının kimlik bilgileri, uzlaştırmacının görevi ve mesleği, suçun türü, kararlaştırılan edimin türü ve süresi, dosyanın uzlaştırmacıya verildiği tarih, uzlaştırma raporunun teslim edildiği tarih, uzlaştırma işleminin sonucu ve uzlaştırmacıya ödenen ücret ile düşünceler sütunundan oluşur.

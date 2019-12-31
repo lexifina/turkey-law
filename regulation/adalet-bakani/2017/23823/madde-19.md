@@ -1,0 +1,2 @@
+Uzlaşma belgesi
+MADDE 19 – (1) Uzlaştırmacı görevlendirilmeden önce veya uzlaşma teklifinin reddedilmesinden sonra, şüpheli ile mağdur veya suçtan zarar görenin aralarında uzlaşmaları hâlinde; taraflarca niteliğine uygun düştüğü ölçüde Ek-3’te yer alan Uzlaştırma Raporu Örneği'ne uygun bir uzlaşma belgesi düzenlenir. Cumhuriyet savcısı, bu belgeyi 18 inci maddenin dördüncü ve beşinci fıkralarında belirtilen kıstaslara göre inceler ve değerlendirir.

@@ -1,0 +1,6 @@
+Soruşturma evresinde uzlaşmanın hukukî sonuçları
+MADDE 20 – (1) Uzlaşma sonucunda şüphelinin edimini def’aten yerine getirmesi hâlinde, şüpheli hakkında uzlaştırmadan sorumlu Cumhuriyet savcısı tarafından kovuşturmaya yer olmadığı kararı verilir. Suça sürüklenen çocuk hakkında gerekli görüldüğünde 5395 sayılı Çocuk Koruma Kanununda yer alan koruyucu ve destekleyici tedbirlerin uygulanması çocuk hâkiminden istenir.
+(2) Edimin yerine getirilmesinin ileri tarihe bırakılması, takside bağlanması veya süreklilik arzetmesi hâlinde, Kanunun 171 inci maddesindeki şartlar aranmaksızın, şüpheli hakkında kamu davasının açılmasının ertelenmesi kararı verilir. Bu hâlde, edimin yerine getirilip getirilmediğinin takibi büro tarafından yapılır. Erteleme süresince zamanaşımı işlemez.
+(3) Kamu davasının açılmasının ertelenmesi kararı verildikten sonra, uzlaşmanın gereklerinin yerine getirilmesi hâlinde, kovuşturmaya yer olmadığı kararı verilir.
+(4) Kamu davasının açılmasının ertelenmesi kararından sonra, uzlaşmanın gereklerinin yerine getirilmemesi hâlinde, Kanunun 171 inci maddesinin dördüncü fıkrasındaki şart aranmaksızın, kamu davası açılır.
+(5) Şüphelinin, edimini yerine getirmemesi hâlinde uzlaştırma raporu veya uzlaşma belgesi, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun 38 inci maddesinde yazılı ilâm mahiyetine haiz belgelerden sayılır.

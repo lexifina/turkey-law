@@ -1,0 +1,2 @@
+Sınav evrakının saklanması ve imhası
+MADDE 64 – (1) Sınavda başarılı olanlara ait sınav başvuru evrakı, ilgili olduğu şahsî sicil dosyasına konulur. Sınavda başarısız olanlara ait sınav başvuru evrakı ise sınav sonuçlarının ilânından itibaren altı ay içinde talep etmeleri hâlinde iade edilir. Belirtilen sürede iade edilmeyen evrak tutanak ile imha edilir. Ancak, idarî yargı yoluna başvuranlar hakkındaki evrakın muhafazasına dava sonuçlanıncaya kadar devam edilir.

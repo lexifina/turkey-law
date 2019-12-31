@@ -1,0 +1,2 @@
+Uzlaşma belgesi
+MADDE 26 – (1) Kovuşturma evresinde uzlaştırmanın uygulanabileceği hâllerde, yapılan uzlaşma teklifinin reddedilmesine rağmen hüküm verilinceye kadar sanık ile mağdur, katılan veya suçtan zarar görenin aralarında uzlaşmaları halinde; taraflarca niteliğine uygun düştüğü ölçüde Ek-3’te yer alan Uzlaştırma Raporu Örneği'ne uygun bir uzlaşma belgesi düzenlenir ve mahkemeye sunulursa, hâkim bu belgeyi 25 inci maddenin dördüncü ve beşinci fıkralarında belirtilen kıstaslara göre inceler ve değerlendirir.

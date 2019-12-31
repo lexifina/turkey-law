@@ -1,0 +1,4 @@
+Zamanaşımı
+MADDE 34 – (1) Şüpheli, sanık, katılan, mağdur veya suçtan zarar görenden birine ilk uzlaşma teklifinde bulunulduğu tarihten itibaren, uzlaştırma girişiminin sonuçsuz kaldığı ve en geç uzlaştırmacının raporunu düzenleyerek büroya verdiği tarihe kadar dava zamanaşımı ile kovuşturma koşulu olan dava süresi işlemez.
+(2) Uzlaşma teklifine süresi içerisinde cevap verilmemesi ya da teklifin reddedilmesi hâlinde uzlaştırma girişimi sonuçsuz kalmış sayılır.
+(3) Tarafların veya kanunî temsilcisi ya da vekilinin uzlaştırma müzakerelerine katılmaktan imtina etmesi, müzakereler sırasında taraflardan birinin yazılı veya sözlü olarak uzlaşmadan vazgeçtiğini bildirmesi üzerine düzenlenen raporun büroya verildiği tarihten itibaren dava zamanaşımı ve kovuşturma koşulu olan dava süresi yeniden işlemeye başlar.
