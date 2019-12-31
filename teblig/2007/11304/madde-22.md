@@ -1,0 +1,2 @@
+Denetim
+MADDE 22 – (1) Tüm kamu kurum ve kuruluşları ile bankalar, hariçte işleme izin belgesinin/hariçte işleme izninin ibrazı üzerine hariçte işleme tedbirlerini, hariçte işleme rejimi ve belgede/izinde belirtilen esas ve şartlara uygun olarak tatbik ederler. (Değişik ibare:RG-24/9/2011-28064) Bakanlık, bu Tebliğde belirtilen tedbirlerin uygulanmasına ilişkin her türlü denetimi ve düzenlemeyi yapabilir; ilgili firma, kamu kurum ve kuruluşları ile bankalardan bilgi ve belge isteyebilir ve gerekli önlemleri alabilir.

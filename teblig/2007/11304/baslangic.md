@@ -1,0 +1,2 @@
+HARİÇTE İŞLEME REJİMİ TEBLİĞİ
+(İHRACAT: 2007/5)

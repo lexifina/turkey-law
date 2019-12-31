@@ -1,0 +1,5 @@
+Yetki
+MADDE 24 – (Değişik:RG-31/12/2019-30995 5. Mükerrer)(2)
+(1) Bakanlık bu Tebliğ hükümlerine istinaden, hariçte işleme rejimi ile ilgili usul ve esaslara ilişkin genelgeler çıkarmaya, izin ve talimat vermeye, özel ve zorunlu durumları inceleyip sonuçlandırmaya, uygulamada ortaya çıkacak ihtilafları idari yoldan çözümlemeye ve bilgisayar veri işleme tekniği yoluyla elektronik ortamda yapılan işlemlerde yaşanacak teknik düzeydeki aksaklıklar nedeniyle uygulamada yaşanabilecek sorunları gidermeye ve bu konuda gerekli düzenlemeleri yapıp talimat vermeye yetkilidir.
+(2) Hariçte işleme izin belgelerinin düzenlenmesi, revizesi, kapatılması ve iptali ile ilgili görev ve yetkiler Bakanlıkça (İhracat Genel Müdürlüğü) kullanılabileceği gibi, gerek görülmesi halinde ilgili bölge müdürlüklerine kısmen ya da tamamen devredilebilir.
+(3) Hariçte işleme izinlerinin bilgisayar veri işleme tekniği yoluyla elektronik ortamda yapılması hususunda uygulama usul ve esaslarını belirlemeye ve bu konuda gerekli düzenlemeleri yapıp talimat vermeye Bakanlık (İhracat Genel Müdürlüğü) yetkilidir.

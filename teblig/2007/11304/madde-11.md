@@ -1,0 +1,2 @@
+Yeni belge/izin verilmesi
+MADDE 11 – (1) Hariçte işleme izin belgesi/hariçte işleme izni sahibi firmaların müteakip belge/izin talepleri, önceki belgelerinin/izinlerinin gerçekleşme seyrine göre değerlendirilir. Süresi bitmiş belgelerin/izinlerin taahhütlerini kapatmak için belge/izin süresi sonundan itibaren 1 (bir) ay içerisinde bu Tebliğin 17 nci maddesi hükümlerine göre müracaatta bulunmayan firmaların yeni talepleri değerlendirmeye alınmayabilir.

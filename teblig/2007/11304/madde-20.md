@@ -1,0 +1,8 @@
+Hariçte işleme tedbirlerine uyulmaması
+MADDE 20 – (1) Hariçte işleme tedbirlerini, hariçte işleme rejimi ve hariçte işleme izin belgesinde/hariçte işleme izninde belirtilen esas ve şartlara uygun olarak yerine getirmeyenlerden;
+a) Belgede/izinde kayıtlı miktar ve değerin üzerinde ithalat yapıldığının tespiti halinde, bu kısma tekabül eden ithalattan doğan vergi ithal tarihi itibarıyla,
+b) Belgenin/iznin iptal edilmesi halinde, bu kapsamda ithalat yapılmışsa bu ithalata ilişkin alınmayan vergi ithal tarihi itibarıyla,
+c) Belge/izin kapsamında ithalat yapılmamışsa, bu Tebliğin 13 üncü maddesinin (4) numaralı fıkrası uyarınca teminata bağlanan veya alınmayan vergi ihraç tarihi itibarıyla,
+4458 sayılı Gümrük Kanunu ile 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil edilir.
+(2) Kapatma esnasında ibraz edilen gümrük beyannamesi ve eki belgelerin sahte veya üzerinde tahrifat yapılmış olması durumunda, bu beyanname kapsamı ithalata ilişkin vergi, bu maddenin (1) numaralı fıkrası hükümleri çerçevesinde tahsil edilir, ilgililer hakkında kanuni işlem yapılır ve belge/izin sahibi firma 1 (bir) yıl süreyle hariçte işleme rejiminden yararlandırılmaz.
+(3) Bu Tebliğ ile bu Tebliğe istinaden yayımlanan genelgelere uymayan, yanlış işlem yapan, belgelerin/izinlerin ilgiliye ait orijinal nüshasına gerekli meşruhatı kaydetmeden işlem yapan, yanıltıcı bilgi veren ve bu nedenlerden dolayı vergi kaybına veya verginin tahsilinde gecikmelere sebep olan gerçek ve tüzel kişiler, asıl borçludan alınamayan alacağın ödenmesinden müştereken ve müteselsilen sorumludur. Bu çerçevede amme alacağı, gecikme süresi de dikkate alınarak bu maddenin (1) numaralı fıkrası hükümlerine göre tahsil edilir.

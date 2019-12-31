@@ -1,0 +1,5 @@
+Belge/izin süresi ve ek süreler
+MADDE 9 – (1) Hariçte işleme izin belgesinin/hariçte işleme izninin süresi azami 12 (oniki) aydır. Ayrıca, ilgili firmanın gerekçeli talebi üzerine hariçte işleme izin belgesine belge orijinal süresinin 1/2’si oranında, hariçte işleme iznine ise 12 (oniki) aya kadar ek süre verilebilir.
+(2) Bu Tebliğin 10 uncu maddesinin (3) numaralı fıkrasında belirtilen mücbir sebep ile fevkalade hallerin belge/izin süresi içerisinde meydana gelmesi halinde, hariçte işleme izin belgesine/hariçte işleme iznine ilave süre verilebilir. Mücbir sebep ve fevkalade hallere istinaden, hariçte işleme izin belgesine/hariçte işleme iznine ilave olarak verilecek süre, mücbir sebep ve fevkalade hal süresi dikkate alınarak belirlenir.
+(3) Belgede/izinde öngörülen ihracat ve ithalat işlemlerinin, belge/izin süresi ve ek süreler içerisinde gerçekleştirilmesi gerekir.
+(4) Hariçte işleme izin belgesine/hariçte işleme iznine verilen süre ve ek sürelerin belirlenmesinde, Gümrük Kanununun 168 inci maddesinde belirtilen 3 (üç) yıllık süre dikkate alınır.
