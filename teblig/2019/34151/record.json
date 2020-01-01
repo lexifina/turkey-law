@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34151",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5015 SAYILI PETROL PİYASASI KANUNUNUN 19 UNCU MADDESİ UYARINCA 2020 YILINDA UYGULANACAK İDARİ PARA CEZALARI HAKKINDA TEBLİĞ",
+  "number": "34151",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "path": "teblig/2019/34151",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34151&MevzuatTertip=5",
+  "source_sha256": "e4841bad146bca9820ffc0d5dfe59672d46feb8140d665fff123bf64cd3005eb",
+  "source_bytes": 16566,
+  "published": "2019-12-31",
+  "gazette": "30995 (4.Mükerrer)",
+  "in_force": "2020-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 361,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
