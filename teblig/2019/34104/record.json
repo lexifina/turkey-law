@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34104",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MOTORLU TAŞITLAR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 52)",
+  "number": "34104",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/34104",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34104&MevzuatTertip=5",
+  "source_sha256": "a975f1082e1afd91c9840ffce4f82e3c333035ea4f0ff31ca37ba3ecd2017557",
+  "source_bytes": 137575,
+  "published": "2019-12-27",
+  "gazette": "30991 2. Mükerrer",
+  "in_force": "2020-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1090,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
