@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34107",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 84)",
+  "number": "34107",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2019/34107",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34107&MevzuatTertip=5",
+  "source_sha256": "bcbbc8e25954d2ce62971f1f99b8f3c709f6af45e81c3ba04e8c6112096ae477",
+  "source_bytes": 14153,
+  "published": "2019-12-27",
+  "gazette": "30991 2. Mükerrer",
+  "in_force": "2020-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 233,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34107-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
