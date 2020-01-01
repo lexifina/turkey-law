@@ -8,7 +8,6 @@ d) Elektronik para kuruluşu: Bu Kanun kapsamında elektronik para ihraç etme y
 e) Fon: Banknot, madeni para, kaydi para veya elektronik parayı,
 f) Gönderen: Kendi ödeme hesabından veya ödeme hesabı bulunmaksızın ödeme emri veren gerçek veya tüzel kişiyi,
 g) Katılımcı: Sisteme katılarak doğrudan transfer emri verme yetkisi bulunan ve sistem kurallarına uymakla yükümlü tüzel kişiyi,
-12118
 ğ) Kişisel güvenlik bilgileri: Ödeme aracı ile işlem gerçekleştirirken kullanılabilecek şifre, son kullanma tarihi, güvenlik numarası gibi ödeme aracını ve ödeme aracı kullanıcısının kimliğini belirleyici bilgileri,
 h) Kontrol: Bir tüzel kişinin; sermayesinin, asgari yüzde elli birine sahip olma şartı aranmaksızın, çoğunluğuna doğrudan veya dolaylı olarak sahip olunması veya bu çoğunluğa sahip olunmamakla birlikte imtiyazlı hisselerin elde bulundurulması veya diğer hissedarlarla yapılan anlaşmalara istinaden oy hakkının çoğunluğu üzerinde tasarrufta bulunulması suretiyle veya herhangi bir suretle yönetim kurulu üyelerinin karara esas çoğunluğunu atayabilme ya da görevden alma gücünün elde bulundurulmasını,
 ı) Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
@@ -28,7 +27,6 @@ t) Ödeme hizmeti sağlayıcısı: Bu Kanunun 13 üncü maddesinde belirtilen ku
 u) Ödeme işlemi: Gönderen veya alıcının talimatı üzerine gerçekleştirilen fon yatırma, aktarma veya çekme faaliyetini,
 ü) Ödeme kuruluşu: Ödeme hizmeti sağlamak ve gerçekleştirmek için bu Kanun kapsamında yetkilendirilmiş tüzel kişiyi,
 v) Ödeme sistemi: Üç veya daha fazla katılımcı arasındaki transfer emirlerinden kaynaklanan fon aktarımlarının gerçekleştirilmesini sağlamak amacıyla yapılan takas ve mutabakat işlemleri için gerekli altyapıyı sunan ve ortak kuralları olan yapıyı,
-12119
 y) Para havalesi: Gönderen veya alıcı adına herhangi bir hesap açılmaksızın gönderenin, alıcıya veya alıcı adına hareket eden ödeme hizmeti sağlayıcısına fon aktarımı gerçekleştirdiği ödeme hizmetini,
 z) Sistem: Ödeme sistemi ve menkul kıymet mutabakat sistemini,
 aa) Sistem işleticisi: Sistemin günlük işleyişinden sorumlu olan ve sistem işletimi için gerekli olan faaliyet iznine sahip tüzel kişiyi,
@@ -38,4 +36,5 @@ cc) Takas odası: Katılımcıların net borç veya alacak durumunun hesaplanmas
 1) Belirli miktarda fonun sistem içerisinde katılımcılar arasında devrolunmasına ilişkin katılımcı talimatını,
 2) Ödeme yükümlülüğünün üstlenilmesi veya yerine getirilmesi sonucunu doğuran, sistem kurallarına uygun talimatı,
 3) Menkul kıymetler ve diğer sermaye piyasası araçları üzerindeki hakları kaydi olarak veya sair şekilde sistem içerisinde devretmeye yönelik katılımcı talimatını,
+dd) (Ek:12/11/2019-7192/4 md.) Birlik: Türkiye Ödeme ve Elektronik Para Kuruluşları Birliğini,
 ifade eder.
