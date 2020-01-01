@@ -1,0 +1,27 @@
+{
+  "number": "meeting-01-01",
+  "number_as_published": "meeting-01-01",
+  "year": 2020,
+  "title": "Ocak Ayı Meclis Toplantısı Karar Özeti (1-ocak-2020-mecli̇s-karar-özetleri̇-bşk.pdf)",
+  "decision_date": "2020-01-01",
+  "source": "https://armutlu.bel.tr/mecliskararlari",
+  "official_document": "https://armutlu.bel.tr/upload/mecliskararlari/qKwXWM9EwBElvTV.pdf",
+  "source_sha256": "a5b5e5fad8d1952194d691f81f62c9a44a94596d8e43fd9b82b0399a98cd45ce",
+  "issuer": "Armutlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-01-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 1 OCAK 2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak Ayı Meclis Toplantısı Karar Özeti (1-ocak-2020-mecli̇s-karar-özetleri̇-bşk.pdf)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "1-ocak-2020-mecli̇s-karar-özetleri̇-bşk.pdf",
+  "list_date": "2020-01-03",
+  "list_number": "1-22",
+  "official_page": "https://armutlu.bel.tr/mecliskararlari"
+}
