@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik hükümleri, seri muhakeme usulünün uygulama alanını, usule ilişkin düzenlemeleri, usulün teklifini, yaptırımları belirleme usulünü, Cumhuriyet savcısı tarafından düzenlenen talepnamede yer alacak hususları, mahkemece talepnamenin değerlendirilmesini, talep üzerine verilecek kararlar ile bu kararlara ilişkin itiraz usulünü ve uygulamaya dair diğer hususları kapsar.

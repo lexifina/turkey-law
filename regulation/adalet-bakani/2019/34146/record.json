@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34146",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA MUHAKEMESİNDE SERİ MUHAKEME YÖNETMELİĞİ",
+  "number": "34146",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2019/34146",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34146&MevzuatTertip=5",
+  "source_sha256": "a544e6ffab000bd5d4cfbe48e6bd40f36871a63ad7c9ad0ec1f17f874f12ce43",
+  "source_bytes": 39831,
+  "published": "2019-12-31",
+  "gazette": "30995 (4.Mükerrer)",
+  "in_force": "2020-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1955,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34146-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

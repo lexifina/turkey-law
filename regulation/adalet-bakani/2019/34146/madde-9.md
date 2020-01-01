@@ -1,0 +1,3 @@
+Seri muhakeme usulüne davet
+MADDE 9 – (1) Cumhuriyet savcısı şüpheliyi seri muhakeme usulünün uygulanmasını teklif etmek amacıyla en kısa sürede davet eder. Davet; telefon, telgraf, faks, elektronik posta gibi iletişim araçlarından yararlanmak suretiyle de yapılabilir.
+(2) Şüphelinin mazeretsiz olarak davete icabet etmemesi, resmî mercilere beyan edilmiş olup da soruşturma dosyasında yer alan adreste bulunmaması veya yurt dışında olması ya da başka bir nedenle şüpheliye ulaşılamaması hâlinde Cumhuriyet savcısı tarafından bu durum tutanağa bağlanır ve soruşturmaya genel hükümlere göre devam edilir.
