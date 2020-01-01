@@ -1,0 +1,2 @@
+Yeniden değerleme oranında artırılan had ve tutarlar
+MADDE 3 – (1) 213 sayılı Kanunun mükerrer 414 üncü maddesi hükmü uyarınca, aynı Kanunun 104, mükerrer 115, 153/A, 177, 232, 252, 313, 343, 352 (Kanuna Bağlı Cetvel), 353, 355 ve mükerrer 355 inci maddelerinde yer alıp 2019 yılında uygulanan had ve tutarların, 2019 yılı için %22,58 (yirmi iki virgül elli sekiz) olarak tespit edilen yeniden değerleme oranında artırılması suretiyle belirlenen ve 1/1/2020 tarihinden itibaren uygulanacak olan had ve tutarlar ekli listede gösterilmiştir.

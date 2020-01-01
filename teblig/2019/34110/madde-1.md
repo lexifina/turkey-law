@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 104, mükerrer 115, 153/A, 177, 232, 252, 313, 343, 352 (Kanuna Bağlı Cetvel), 353, 355 ve mükerrer 355 inci maddelerinde yer alıp 2019 yılında uygulanan had ve tutarların yeniden değerleme oranında artırılması suretiyle 1/1/2020 tarihi itibarıyla uygulanacak had ve tutarların belirlenmesine ilişkin hususların açıklanmasıdır.
