@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-01-02",
+      "02.01.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "30996",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-01-02",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kırıkkale Üniversitesi",
+  "issuer_slug": "kirikkale-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kirikkale-universitesi/2020/34144",
+  "published": "2020-01-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34144&MevzuatTertip=5",
+  "source_bytes": 29028,
+  "source_id": "8.5.34144",
+  "source_sha256": "bda5a71f063924a8e4345ab8a6ee13d6f2573b3cd681f691b5c0c8b69843180b",
+  "text_status": "as-enacted",
+  "title": "KIRIKKALE ÜNİVERSİTESİ OBEZİTE VE DİYABET ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 208,
+  "word_count": 1162
+}
