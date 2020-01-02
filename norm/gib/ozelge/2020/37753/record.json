@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120.05[74-2019/1]-1786",
+  "source_id": 37753,
+  "date": "2020-01-02",
+  "title": "Kentsel dönüşüm kapsamında bankadan çekilen krediye ait faiz giderlerinin GMSİ beyanından indirilip indirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37753",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2d056b3d7e51aab8e24646ea793f7e1c4b89aec315edca9a3c9f4c5420f98103",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
