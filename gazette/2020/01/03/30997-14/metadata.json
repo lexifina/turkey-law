@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-03",
+  "issue": "30997",
+  "edition": "regular",
+  "item": 14,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 10. ve 13. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200103-14.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200103.htm",
+  "index_sha256": "ad41375a5651f06a4ca39c23ad4c163b037942c49abfe439ff1b1d0bce5346f6",
+  "index_header": "3 Ocak 2020 ... 30997 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200103.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
