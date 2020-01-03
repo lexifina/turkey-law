@@ -1,0 +1,3 @@
+Denetim, muayene ve kabul işlemleri
+MADDE 21- (1) Teslim edilen mal veya hizmetin muayene, geçici ve kesin kabul işlemleri; idarelerce kurulacak, toplamı tek sayı olmak üzere en az üç kişilik muayene ve kabul komisyonları tarafından yapılır.
+(2) Mal veya hizmet, yüklenici tarafından İdareye teslim edilmedikçe muayene, geçici ve kesin kabul işlemleri yapılmaz. Ancak sözleşmesinde hüküm bulunması hâlinde; imalat veya üretim süreci gerektiren işler, muayene ve kabul komisyonlarının yetki ve sorumluluğunu kaldırmaması şartıyla, alım dokümanında belirtilen kalite ve özelliklere göre yapılıp yapılmadığı hususunda, ilgili İdare tarafından belirli aşamalarda ve aralıklarla denetlenebilir.

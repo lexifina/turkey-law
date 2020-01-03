@@ -1,0 +1,6 @@
+Tekliflerin değerlendirilmesi ve yüklenici seçimi
+MADDE 11- (1) Alım komisyonu kurularak yapılan alımlarda alım komisyonu, alınan tekliflerin idari ve teknik şartnameye uygunluğunu ve istekli firmaların ve sundukları belgelerin yeterliliğini değerlendirir.
+(2) Alım komisyonu, gerek görmesi hâlinde tekliflerin incelenmesi, karşılaştırılması ve değerlendirilmesinde yararlanmak üzere net olmayan hususlarla ilgili isteklilerden yazılı olarak tekliflerini açıklamalarını isteyebilir.
+(3) Alım komisyonu tarafından yapılan değerlendirme neticesinde en uygun birinci ve gerekli görülmesi halinde en uygun ikinci teklif tespit edilir ve harcama yetkilisinin onayına sunulur. Kararlarda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, son teklif verme tarihi ve alımın hangi istekli üzerine hangi gerekçelerle bırakıldığı belirtilir.
+(4) Harcama yetkilisi, alım komisyonu karar tarihini izleyen en geç beş iş günü içinde alım komisyonu kararını onaylar veya gerekçesini belirtmek suretiyle alımı iptal eder.
+(5) İdare, verilmiş olan bütün teklifleri reddederek alım işlemlerini iptal etmekte serbesttir. Alımın iptal edilmesi nedeniyle isteklilerce idareden herhangi bir hak talebinde bulunulamaz.
