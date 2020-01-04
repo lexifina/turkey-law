@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Malezya menşeli/çıkışlı 54.07 gümrük tarife pozisyonu altında muhtelif gümrük tarife istatistik pozisyonlarında kayıtlı “sentetik filament iplikten dokunmuş mensucat (giyim için olanlar)” ithalatında re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
