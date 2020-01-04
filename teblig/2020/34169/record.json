@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34169",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2019/36)",
+  "number": "34169",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34169",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34169&MevzuatTertip=5",
+  "source_sha256": "5f8fbfe76dfac4cb0ddeea263e7155a87f39ee3275a8c559d53760d7e48bf26c",
+  "source_bytes": 29701,
+  "published": "2020-01-04",
+  "gazette": "30998",
+  "in_force": "2020-01-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.01.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 567,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34169-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
