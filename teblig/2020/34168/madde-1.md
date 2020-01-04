@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 25/5/2019 tarihli ve 30784 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/18) ile Çin Halk Cumhuriyeti menşeli 7607.11 ve 7607.19 gümrük tarife pozisyonu altında kayıtlı “alüminyumdan mesnetsiz folyolar” ürününe yönelik olarak başlatılan ve T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
