@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-07",
+  "issue": "31001",
+  "edition": "regular",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "TBMM KARARI",
+  "title": "1239 Türkiye Büyük Millet Meclisinin Çalışmalarına Ara Vermesine Dair Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200107-1.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200107.htm",
+  "index_sha256": "7f9a0bac8175c5409975ddbd8cac2a07ecac64f03ca3d6d648e9004c7dedfe68",
+  "index_header": "7 Ocak 2020 ... 31001 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200107.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item page not HTML"
+}
