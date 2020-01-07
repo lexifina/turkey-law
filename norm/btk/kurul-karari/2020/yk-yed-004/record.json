@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2020/YK-YED/004",
+  "date": "2020-01-07",
+  "title": "Hisse Devri İzin Talebi (Fibernet)",
+  "relevant_unit": "Sektörel Denetim Dairesi Başkanlığı",
+  "publication_date": "2020-01-07",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=49",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/c91dad84-a2ee-486a-ac63-e44ca1ba774d.pdf",
+  "source_sha256": "1ded3ed948f8d2fe2ccf18810080e53fb7a379d0cc075e6000ac70d52118e109",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2020-01-07",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 07.01.2020; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
