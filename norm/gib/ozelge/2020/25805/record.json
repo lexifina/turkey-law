@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "57062627-010.01-357",
+  "source_id": 25805,
+  "date": "2020-01-07",
+  "title": "Serbest meslek erbabının envanterine kayıtlı aracın satışında, kazanca eklenecek tutar, KDV ve hangi bedel üzerinden serbest meslek makbuzu düzenleneceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25805",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "38110932dcf05bb7db8f14b9bac3170a12fa23b7ff67eca218b168291bfbc591",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
