@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-120.01.02.11[2019/1691]-2463",
+  "source_id": 37752,
+  "date": "2020-01-08",
+  "title": "Ekmek, yufka ve pide satışının gelir vergisi tevkifatına tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37752",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5c44598d79539bf9dc5245f180b651b580db413a97d0579dead9b8348a4371ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
