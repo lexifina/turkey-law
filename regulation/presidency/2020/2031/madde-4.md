@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Usul ve Esaslarda geçen;
+a) Araştırma grubu: Araştırma ve geliştirme faaliyetlerini yürütmek üzere üniversiteler, kamu araştırma kurumları, sivil toplum kuruluşları ve özel sektörde çalışan araştırmacılardan oluşan grubu,
+b) Araştırma ve geliştirme hizmeti: Politika ve strateji geliştirme ve/veya mevcut politika ve stratejilerin uygulamaya konulmasında ihtiyaç duyulan alanlarda sosyal, iktisadi, kültürel, sanatsal, teknolojik ve eğitime yönelik gelişmeler konusunda ulusal ve/veya evrensel ölçülerde katkı sağlaması beklenen politika ve strateji önerilerini, kararlarını ve uygulama modellerini ortaya koymak üzere gerçekleştirilen araştırma ve geliştirme faaliyetlerini,
+c) Araştırmacı: Bu Usul ve Esaslar kapsamında yürütülecek faaliyetlerde, faaliyet ile ilişkili olmak kaydıyla, yükseköğretim kurumlarında görevli öğretim elemanlarını, kamu çalışanlarını, özel sektör çalışanlarını ve diğer yerli ve yabancı gerçek kişileri,
+ç) Bakan: Aile, Çalışma ve Sosyal Hizmetler Bakanını,
+d) Bakanlık: Aile, Çalışma ve Sosyal Hizmetler Bakanlığını,
+e) Benzer iş: Alım konusu hizmet veya hizmetin bölümleriyle nitelik ve büyüklük bakımından benzerlik gösteren, aynı veya benzer usullerle gerçekleştirilen, teçhizat, ekipman, mali güç ve uzmanlık ile personel ve organizasyon gerekleri bakımından benzer özellik taşıyan hizmetleri,
+f) Hizmet alımı: İdare tarafından yürütülen araştırma ve geliştirme hizmeti alımını,
+g) İdare: Bakanlık merkez teşkilatı içinde ihale ve harcama yapma yetki ve sorumluluğuna sahip birimi,
+ğ) İhale dokümanı: İhale konusu hizmet alımı için isteklilere talimatları içeren proje teklif formatı, sözleşme tasarısı, varsa idari ve teknik şartname ve gerekli diğer belge ve yazışmaları,
+h) İhale yetkilisi: İhale ve harcama yapma yetki ve sorumluluğuna sahip kişiyi,
+ı) İstekli: Hizmet alımı için teklif veren kamu kurum ve kuruluşları, üniversiteler, araştırmacı, araştırma grupları ile gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+i) Ortak girişim: Hizmet alımı için teklif veren birden fazla gerçek veya tüzel kişinin aralarında anlaşarak oluşturdukları iş ortaklığı veya konsorsiyumları,
+j) Proje koordinatörü: Hizmetin yürütülmesini takip eden ve proje izleme grubuna başkanlık eden idare çalışanını,
+k) Sözleşme: İdare ile yüklenici arasında imzalanan, işin ne şekilde yapılacağını, karşılıklı olarak hak ve yükümlülükleri belirleyen yazılı anlaşmayı,
+l) Teklif: İsteklinin idareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+m) Teknik şartname: Proje konusu işin teknik ayrıntılarını ve şartlarını gösteren belgeyi,
+n) Uzman: Aile, çalışma ve sosyal hizmetler uzmanı ve uzman yardımcısını,
+o) Yüklenici: Hizmet alınan ve sözleşme imzalanan kamu kurum ve kuruluşları, üniversiteler, araştırmacı, araştırma grupları ile gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+ifade eder.

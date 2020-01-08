@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 35- (1) Mülga Aile ve Sosyal Politikalar Bakanlığı tarafından 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (f) bendi kapsamında yapılacak ihalelere ilişkin 13/8/2012 tarihli ve 2012/3577 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan ekli Esaslar ile mülga Çalışma ve Sosyal Güvenlik Bakanlığı tarafından 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (f) bendi kapsamında yapılacak ihalelere ilişkin 1/5/2017 tarihli ve 2017/10233 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan ekli Esaslar yürürlükten kaldırılmıştır.

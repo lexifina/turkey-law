@@ -1,0 +1,3 @@
+Denetim, muayene ve kabul işlemleri
+MADDE 31- (1) Teslim edilen hizmet veya yapılan işin muayene ve kabul işlemleri, ihale yetkilisi tarafından görevlendirilen uzman ve/veya ilgili personelden oluşan ve proje koordinatörü dâhil en az üç kişiden müteşekkil Proje İzleme Grubu tarafından yapılır. Proje İzleme Grubu, projenin sözleşme hükümlerine ve proje teklif formatına varsa teknik şartname ile idari şartnameye ve bilimsel kriterlere göre yürütülüp yürütülmediğini her aşamada kontrol edebilir, muayene ve kabule ilişkin görüşlerini raporla belirtir.
+(2) Sözleşmede hüküm bulunması halinde, araştırma ve geliştirme hizmetinin müstakil kullanıma elverişli bölümleri için kısmi kabul yapılabilir.
