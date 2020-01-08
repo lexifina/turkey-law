@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47129",
+  "decision_date": "2020-01-08",
+  "source_id": 22679,
+  "chamber": "6",
+  "file_number": "45180",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22679/",
+  "source_sha256": "b2b6315eaeb94b114aab276bc3ff3c13c593173b6841b8a922443a57d24636b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
