@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47099",
+  "decision_date": "2020-01-08",
+  "source_id": 22632,
+  "chamber": "3",
+  "file_number": "44625",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22632/",
+  "source_sha256": "109c5b23dc0a0ee368972e63309827ed447f58ae59c14824e8341c4c99566442",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
