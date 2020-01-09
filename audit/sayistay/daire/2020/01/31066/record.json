@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35611",
+  "decision_date": "2020-01-09",
+  "source_id": 31066,
+  "chamber": "2",
+  "ilam_number": "55",
+  "item_number": 9,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31066/",
+  "source_sha256": "0100559a914fb64cdfb04a17ff38326c2c4f0aa5a2f4ee6dc6f31069b2e4efaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
