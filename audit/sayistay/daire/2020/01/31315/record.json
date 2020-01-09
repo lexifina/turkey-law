@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "378",
+  "decision_date": "2020-01-09",
+  "source_id": 31315,
+  "chamber": "7",
+  "ilam_number": "94",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31315/",
+  "source_sha256": "7397d881707b06fe37d4b7380b578060a6071ea849cf5ae44da0af5d228c0f1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
