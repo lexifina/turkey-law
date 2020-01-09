@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "216",
+  "decision_date": "2020-01-09",
+  "source_id": 31002,
+  "chamber": "4",
+  "ilam_number": "59",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31002/",
+  "source_sha256": "29abb2849d37a1d9c7c877fd652df981b5219c25f92ab60b9954f47a83399b58",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
