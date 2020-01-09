@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.15058",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜNEŞ ENERJİSİNE DAYALI ELEKTRİK ÜRETİM TESİSLERİ HAKKINDA YÖNETMELİK",
+  "number": "15058",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2011/15058",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15058&MevzuatTertip=5",
+  "source_sha256": "44043c83c89701c0e69bca70141332f10c1d493ae079b58eff77b4d23b74db8c",
+  "source_bytes": 23930,
+  "published": "2011-06-19",
+  "gazette": "27969",
+  "in_force": "2020-01-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/1/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-01-09",
+      "RG-9/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-09",
+      "9/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 630,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
