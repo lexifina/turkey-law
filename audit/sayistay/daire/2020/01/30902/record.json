@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "217",
+  "decision_date": "2020-01-09",
+  "source_id": 30902,
+  "chamber": "4",
+  "ilam_number": "42",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30902/",
+  "source_sha256": "9b7f356c1d6ea95aca0d06fbdd6433ab5eba1bf058c80b2f3e9b76aff3a9f086",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
