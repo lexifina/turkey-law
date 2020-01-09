@@ -1,0 +1,4 @@
+Su Ürünlerinin İthal ve İhracı
+Madde 22- Su Ürünlerinin ithal ve ihracı, Gümrükle ilgili kuruluşun uygun görüşü üzerine, Bakanlıkça belirlenerek, Resmi Gazete’de ilan edilen kapılar dışında yapılamaz.
+(Değişik ikinci fıkra:RG-9/8/2005-25901) İthal edilecek su ürünleri için, bulaşıcı hastalıklardan ari olduğuna ve sağlıklı bulunduğuna dair, satıcı ülke resmi kuruluşlarınca düzenlenmiş Sağlık Sertifikası ile Menşei Belgesinin ibraz edilmesi zorunludur. Damızlık materyal ithalatında bu belgelerin ayrıca, o ülkedeki T.C. Konsolosluklarınca onaylanması gerekir. Avcılık yoluyla elde edilerek yetiştiricilik/besi amacıyla kullanılmak üzere, uluslararası sularda avlanıp başka ülke çiftliğine konulmadan ithal edilen canlı orkinos balıklarında Veteriner Sağlık Sertifikası aranmaz. Ancak, bu balıkların fiili ithalatı sırasında veteriner hekim tarafından sağlık kontrolü yapılır.
+İhraç edilecek su ürünlerine ait Menşei Belgeleri ile Sağlık Sertifikaları Bakanlıkça düzenlenir.

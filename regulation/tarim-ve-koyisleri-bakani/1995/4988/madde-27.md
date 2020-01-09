@@ -1,0 +1,9 @@
+Taze Ürünlerin İşlenmesiyle İlgili Teknik Şartlar
+Madde 27- Su ürünleri işleme ve değerlendirme tesislerinde aranan taze ürünlerin işlenmesine ilişkin asgari teknik şartlar aşağıda gösterilmiştir.
+Taze su ürünleri, hiçbir şekilde dondurma veya herhangi bir işleme tabii tutulmamış, doğal olarak veya parçalanarak hazırlanmış vakum altında veya değiştirilmiş atmosferik koşullar altında ambalajlanmış ürünler olmalıdır.
+Derhal sevk edilmedikleri veya işlenmedikleri takdirde, tesise gelen soğutulmuş su ürünleri,buz altında tesisin izotermik deposunda muhafazaya alınmalıdır. İhtiyaç duyuldukça buz uygulaması tekrarlanmalıdır. Tuzlu veya tuzsuz olarak temiz içme suyundan veya temiz deniz suyundan imal edilecek olan buz, sağlıklı koşullar altında elde edilmeli, temiz ve bakımlı konteynerler içerisinde muhafaza edilmelidir.
+Kesim ve temizlemenin sağlığa uygun koşullar altında yapılması gerekmektedir. Bu işlemlerden hemen sonra ürünler içme suyu veya temiz deniz suyu ile iyice yıkanmalıdır.
+Dilimleme ve fileto çıkarma işlemleri kesim ve temizleme işlerinin yapıldığı yerden farklı bir yerde uygulanmalıdır. Dilim ve filetolar, uygun süre içerisinde hazırlanmalı ve derhal soğutulmalıdır.
+İç organlara ve işe yaramaz diğer kısımlar, insan tüketimi için hazırlanan üründen ayrı bir yerde tutulmalıdır.
+Taze su ürünlerinin muhafazası ve dağıtımı için kullanılan konteynerler,ürünleri kontaminasyondan koruyacak ve eriyen buz suyunun tahliyesini sağlayacak şekilde yapılmalıdır.
+Tahliye sistemlerinin mevcut olmaması halinde atıklar, kapaklı ve tam sızdırmazlığa sahip ve kolayca temizlenebilen ve dezenfekte edilebilen kaplar içerisinde muhafaza edilmelidir. Atıklar, birikmeye bırakılmamalıdır. Atık kapları işgünü sonunda düzenli olarak tanklara veya kapalı mahallere boşaltılmalıdır. Atıklarla temas halinde kaplar, konteynerler ve yerler her kullanımdan sonra iyice temizlenmeli ve gerektiği takdirde de dezenfekte edilmelidir.

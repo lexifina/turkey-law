@@ -1,0 +1,14 @@
+İKİNCİ BÖLÜM
+Ruhsat Tezkeresi
+Ruhsat Tezkeresi Alma Yükümlülüğü, Usulü ve Şekli
+Madde 4- (Değişik:RG-15/2/2004-25374) (2)
+Su ürünleri istihsalinde bulunacak gerçek ve tüzel kişiler, gerek kendileri ve gerekse istihsalde kullanacakları gemiler için Ruhsat Tezkeresi almakla yükümlüdürler. Ancak gemide toplam çalışanların %20 sini geçmemek üzere, 16-18 yaş arasındaki balıkçı yardımcıları ruhsat almaksızın çalıştırılabilir.
+Ruhsat tezkeresi almak üzere, gerçek kişiler istihsalde bulunacakları yerin, tüzel kişiler merkez veya şubelerinin bulunduğu, gemi sahip ve donatanları ise geminin bağlama limanının bulunduğu yerin en büyük mülki amirine dilekçe ile başvururlar.
+Kaymakamlığa verilen dilekçeler valiliğe gönderilir. Valilik dilekçeleri il müdürlüğüne intikal ettirir. İl müdürlüğü ilgili dairelerin görüşlerini de alarak gerekli incelemeleri yapar, sonuç olumlu ise Ruhsat Tezkeresi verilir. Ruhsat Tezkereleri, İl Müdürlüğünce “Ruhsat Kayıt Defteri”ne kayıt edilir.
+Ruhsat tezkeresi verilmesi işlemi, su ürünleri avcılığının sürdürülebilirliğinin sağlanması ve stoklar üzerindeki av baskısının azaltılması amacıyla Bakanlıkça durdurulabilir.
+(Ek fıkra:RG-2/1/2017-29936) Denizlerde avcılık yolu ile istihsalde bulunacak tüzel kişiler ve balıkçı gemileri için düzenlenen ruhsat tezkerelerinin süresi iki yıldır. İç sularda su ürünleri istihsalinde kullanılacak balıkçı gemileri ve iç sularda su ürünleri istihsali yapacak tüzel kişilere verilecek ruhsat tezkerelerinin süresi ise istihsal yapılacak kaynağın kiralama süresi kadar olup, sadece o istihsal sahası için geçerlidir. Denizlerde ve iç sularda gerçek kişiler için düzenlenen ruhsat tezkerelerinin süresi ise beş yıldır.
+(Ek fıkra:RG-2/1/2017-29936) Süresi biten ruhsat tezkerelerinin vize veya yenileme işlemleri; ilgililerin müracaatı üzerine, ortak ise ortak olduğu su ürünleri kooperatif veya birliğinden, ortak değil ise kendilerine en yakın su ürünleri kooperatif veya birliğinden, il sınırları içerisinde su ürünleri kooperatif veya birliğinin bulunmaması durumunda, il veya ilçe müdürlüklerinden su ürünleri istihsali yaptıklarını gösterir belge getirmeleri kaydıyla Bakanlıkça yetkilendirilmiş il/ilçe müdürlüklerince denizlerde faaliyet gösterecek tüzel kişiler ve balıkçı gemileri için ikişer, denizlerde ve iç sularda su ürünleri istihsalinde bulunacak gerçek kişiler için beşer yıllık sürelerle uzatılır.
+(Mülga fıkra:RG-2/1/2017-29936)
+Su ürünleri kooperatifleri veya birlikleri ortaklarının ruhsat vize işlemlerini topluca yaptırabilirler.
+Süresinin sona erdiği tarihten itibaren üç yıl boyunca vize işlemi yapılmayan ruhsat tezkereleri iptal edilir. Ruhsat tezkeresinin kaybında, ilan vermek suretiyle yenisi alınabilir.
+Gerçek kişiler, tüzel kişiler ve gemiler için Ruhsat Tezkereleri bu Yönetmeliğin 1, 2 ve 3 nolu eklerinde belirtilen formlara uygun olarak düzenlenir.
