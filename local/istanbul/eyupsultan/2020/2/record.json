@@ -1,0 +1,22 @@
+{
+  "number": "2",
+  "number_as_published": "2020/02",
+  "year": 2020,
+  "title": "Araç satışı",
+  "decision_date": "2020-01-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-ocak-ayi-meclis-kararlari/1693",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-02/1696",
+  "source_sha256": "febc7b39cf5cec53749a982a5fbd6d6587981f1f8e23e03fa54aebcd0a5e71a2",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-01-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.01.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "fa187c2b6fb0470215600e411190fe83c1c606e24bb17f93683c2d3293aff52c"
+}
