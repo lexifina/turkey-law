@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35611",
+  "decision_date": "2020-01-09",
+  "source_id": 31065,
+  "chamber": "2",
+  "ilam_number": "55",
+  "item_number": 8,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31065/",
+  "source_sha256": "cf0694b53971805400a00702ed8ccd3d3f66bf24d5f985052c393314e164427e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
