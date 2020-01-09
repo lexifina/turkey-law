@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "378",
+  "decision_date": "2020-01-09",
+  "source_id": 31311,
+  "chamber": "7",
+  "ilam_number": "94",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31311/",
+  "source_sha256": "b6a0aa82f5e5af379ac8c3d012fa4a843a10dcdd812fe4de44eba61686deab12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
