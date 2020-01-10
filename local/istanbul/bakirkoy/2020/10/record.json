@@ -1,0 +1,23 @@
+{
+  "number": "10",
+  "number_as_published": "10",
+  "year": 2020,
+  "title": "Yol boyu ticari teşekkül hk.",
+  "decision_date": "2020-01-10",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/34",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/10-imar-ve-sehircilik-md-yol-boyu-ticari-tesekkul-hk-10012020.pdf",
+  "source_sha256": "1bdc7f57ed2631e5623e894a77346fed75b446dfe9844dad9162f4549d531f5e",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-01-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Ocak 2020 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
