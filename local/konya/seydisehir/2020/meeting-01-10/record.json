@@ -1,0 +1,27 @@
+{
+  "number": "meeting-01-10",
+  "number_as_published": "meeting-01-10",
+  "year": 2020,
+  "title": "(10.01.2020 OCAK AYI MECLİS KARAR ÖZETLERİ-WEB DÜZENİ.pdf)",
+  "decision_date": "2020-01-10",
+  "source": "https://www.seydisehir.bel.tr/mecliskararlari",
+  "official_document": "https://www.seydisehir.bel.tr/upload/mecliskararlari/2020_02_07_221227486.pdf",
+  "source_sha256": "656bf6992f9f49c7e3ce3107eb3a49ea0a8e8d4b9ac45745efddb0129d1665ae",
+  "issuer": "Seydişehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-01-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.01.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "(10.01.2020 OCAK AYI MECLİS KARAR ÖZETLERİ-WEB DÜZENİ.pdf)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "10.01.2020 OCAK AYI MECLİS KARAR ÖZETLERİ-WEB DÜZENİ.pdf",
+  "list_date": "2020-01-10",
+  "list_number": "",
+  "official_page": "https://www.seydisehir.bel.tr/mecliskararlari"
+}
