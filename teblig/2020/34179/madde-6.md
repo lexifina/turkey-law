@@ -1,0 +1,3 @@
+Faaliyetlerin makul ve zorunlu kıldığı haller nedeniyle muafiyet
+MADDE 6 – (1) Üst üste 5 yıl dönem zararı eden halka açık ortaklıklar, beşinci hesap dönemine ait finansal tablolarını kamuya açıkladıkları tarihten itibaren 20 iş günü içinde varsa söz konusu 5 hesap döneminin tamamında ya da herhangi birinde dönem zararına neden olan faaliyetlerinin makul ve zorunlu kıldığı hallere ilişkin açıklamalarını Kurula iletir.
+(2) Makul ve zorunlu halin varlığına ilişkin Kurulca yapılacak değerlendirmede, halka açık ortaklık yönetiminin kontrolü dışında gelişen, ekonomiyi, sektörü ya da şirketi etkileyen olumsuzluklar ve benzeri durumlar dikkate alınır.

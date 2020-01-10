@@ -1,0 +1,5 @@
+Esas sözleşmenin değiştirilmesi
+MADDE 7 – (1) Oy hakkına ve yönetim kurulunda temsil edilmeye ilişkin imtiyazların kaldırılmasına ilişkin Kurul karar tarihi itibarıyla söz konusu imtiyazlar kullanılamaz. Halka açık ortaklıkların esas sözleşmelerindeki aksine hükümler uygulanmaz.
+(2) İmtiyazların kaldırılmasına ilişkin Kurul kararının ilgili ortaklığa bildirimini takip eden azami iki ay içinde ilgili ortaklıklarca esas sözleşmede gerekli değişiklikleri yapmak üzere Kurula başvuruda bulunulması ve yapılacak ilk genel kurul toplantısında Kurulun uygun görüş verdiği esas sözleşme değişikliklerinin genel kurul gündemine alınması zorunludur.
+(3) Esas sözleşme değişikliğine ilişkin Kurula süresi içinde başvuruda bulunulmaması veya genel kurul gündeminde esas sözleşme değişikliğine yer verilmemesi durumunda, esas sözleşme değişikliklerinin ortaklık genel kurulunda görüşülmesini teminen, Kurul Kanunun 29 uncu maddesinin dördüncü fıkrası uyarınca genel kurul gündemine ilgili maddeyi ekletir.
+(4) İmtiyazların kaldırılması karşılığında herhangi bir menfaat temin edilemez.
