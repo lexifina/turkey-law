@@ -1,0 +1,2 @@
+Proje Onay Geçerlilik Süresi
+Madde 7- Tesise başlama müddeti onay tarihinden itibaren 3 yıldır. Bu müddet zarfında tesise başlanmadığı takdirde onaylanan proje hükümsüz sayılır. Ayrıca proje onay tarihinden itibaren tesise başlanıp da herhangi bir sebeple başlama müddeti ile birlikte 5 yıl içinde bitirilmediği takdirde yine onaylanan proje hükümsüz sayılır ve yeniden proje çizdirilir. Ancak, mevcut projeye göre yapılan tesiste ve enerji alınacak noktada hiçbir değişiklik olmaması durumunda onay yetkilisi tarafından kontrol edilerek yeni proje gibi tekrar onaylanır.
