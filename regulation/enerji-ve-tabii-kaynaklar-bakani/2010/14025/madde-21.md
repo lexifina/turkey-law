@@ -1,0 +1,9 @@
+Durdurma ve iptal
+MADDE 21 – (1) (Değişik:RG-21/2/2013-28566) İzleme raporlarının incelenmesi sonucunda; sözleşmeye aykırı hususların tespit edildiği, öngörülen amaç ve çalışma programına uygun biçimde yürütülmediği anlaşılan projeler ENAR projeleri yönlendirme heyeti tarafından geçici olarak durdurulabilir ve/veya iptal edilebilir.
+(2) (Değişik:RG-21/2/2013-28566) Mücbir sebeplerle yürütülmeleri geçici olarak imkansız hale gelen projeler, kurumun başvurusu üzerine ENAR projeleri yönlendirme heyeti tarafından geçici olarak durdurulabilir veya iptal edilebilir.
+(3) Geçici durdurma kararında projenin ne kadar süre için durdurulduğu belirtilir ve destek süresi proje tekrar başladığında durdurulan süre kadar uzatılabilir.
+(4) (Değişik:RG-21/2/2013-28566) Geçici durdurma süresi içerisinde ENAR projeleri yönlendirme heyetince yapılacak inceleme sonucunda durdurma sebeplerinin, ortadan kalktığı anlaşılırsa proje desteğine devam edilebilir.
+(5) (Değişik:RG-21/2/2013-28566) Geçici durdurma süresi en fazla altı aydır. Bu süre sonuna kadar durdurma sebepleri ortadan kalkmaz ise Sözleşme ENAR projeleri yönlendirme heyeti tarafından feshedilir.
+(6) (Değişik:RG-21/2/2013-28566) Durdurma sebeplerinin devamlılık arz edeceğinin tespiti halinde, 6 aylık süre beklenilmeden, sözleşmenin ENAR projeleri yönlendirme heyeti tarafından feshedilmesine karar verilebilir.
+(7) (Değişik:RG-21/2/2013-28566) Genel Müdürlük ödeneğinin bitmesi halinde yeni ödenek aktarılıncaya kadar projeler durdurulabilir. Geçen süre proje süresine ilave edilir.
+(8) Projenin proje ortakları veya yürütücüsünün kasıtlı kusur veya ihmali yüzünden durdurulması veya iptali durumunda, sorumluları hakkında hukuki işlem başlatılarak, devlet tarafından verilen destekler yasal faizleri ile birlikte tahsil edilir. Anlaşmazlıklarda Ankara İdari Mahkemeleri yetkilidir.

@@ -1,0 +1,3 @@
+Desteklenemeyecek giderler
+MADDE 24 – (Değişik:RG-21/2/2013-28566)
+(1) Sermaye kullanım maliyeti, amortismanlar, depozitolar, avans ödemeleri, dağıtım, pazarlama ve reklam giderleri, coğrafi işaret ve marka tescil giderleri, sekreterlik ve benzeri idari giderler, brüt ücretin yanında teşvik, motivasyon ve benzeri prim giderleri, sosyal yardımlaşma vakıf ödentileri, seyahatlerde ulaşım, harcırah ve konaklama dışındaki kongre, fuar, seminer katılım ücretleri gibi giderler, yakıt giderleri, büro makineleri, ısıtma, aydınlatma için yapılan masraflar, ofis, depo, stant, ve benzeri kiralar, inşaat ve tesisat giderleri ve kırtasiye giderleri ve sözleşme imzalanmadan önce yapılan giderler desteklenmez.

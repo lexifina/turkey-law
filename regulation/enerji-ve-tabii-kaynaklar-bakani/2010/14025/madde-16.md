@@ -1,0 +1,6 @@
+Harcamalar
+MADDE 16 – (1) (Değişik:RG-21/2/2013-28566) Satın alınan mal ve hizmete ilişkin olarak düzenlenen fatura ve benzeri belgeler Genel Müdürlük adına ENAR proje adı ve kod numarası belirtilerek düzenlenir. Kurum tarafından gerekli görüldüğünde kurum adına da düzenlenebilir.
+(2) Kayda ve muayeneye tabi malzeme olması halinde ilgili mevzuat hükümleri çerçevesinde muayene ve kabulü yapılarak proje tamamlanıncaya kadar proje yürütücüsüne zimmetlenir.
+(3) (Değişik:RG-21/2/2013-28566) Projenin yürütülmesi sırasında, sözleşmenin eki olan, proje dokümanlarında yer alan ve Genel Müdürlük tarafından onaylanan harcamaların gerçekleştirilmesi esastır.
+(4) (Değişik:RG-21/2/2013-28566) Kurum tarafından yapılacak mal veya hizmet alımlarına ilişkin ödemelerde, ödeme karşılığında alınan fatura veya fatura yerine geçen belge ve diğer belgelere dayandırılması esas olup bunun dışında 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununda belirtilen gider belgelerine ilişkin hükümler (taşınır işlem fişi hariç olmak üzere) kıyasen uygulanır.
+(5) Proje Özel Hesabından yapılacak ödemelere ilişkin belgelerin asılları, ilgili birim tarafından genel hükümlere göre muhafaza edilir ve denetime hazır halde bulundurulur.

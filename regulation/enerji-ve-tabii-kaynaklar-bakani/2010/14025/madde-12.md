@@ -1,0 +1,3 @@
+Karar
+MADDE 12 – (Değişik:RG-21/2/2013-28566)
+(1) Proje değerlendirme paneli sonunda heyet üyeleri, panel sonrası notlarını, gerekçelerini, görüşlerini ve önerilerini içeren değerlendirme formlarını ayrı ayrı hazırlayarak Genel Müdürlüğe teslim eder. ENAR projeleri yönlendirme heyeti en geç 7 Mayısa kadar bu raporları ve destek bütçesini göz önünde bulundurarak en yüksek not ortalamasına sahip projeden en düşük not ortalamasına sahip projeye doğru sıralayarak en düşük geçer not 70 olacak şekilde desteklenmesi önerilecek projeleri belirleyip Genel Müdür imzası ile Bakan onayına sunar. Bakan onayı alan projeler topluca (Değişik ibare:RG-12/1/2020-31006) Cumhurbaşkanına sunulur.
