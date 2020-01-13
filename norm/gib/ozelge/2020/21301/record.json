@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31435689-120-5454",
+  "source_id": 21301,
+  "date": "2020-01-13",
+  "title": "Avukat eşinin terk ettiği adreste avukatlık işine başlayan mükellefin Genç Girişimcilerde Kazanç İstisnasından faydalanıp faydalanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21301",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "aec9712b3d3cbedecb14b3611007916699c94e3c8005776ec6f5075144e385d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
