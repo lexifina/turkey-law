@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-122/2020-1",
+  "source_id": 719,
+  "date": "2020-01-13",
+  "title": "Elektronik ortamda mevcut e-beyanname şifresinden ayrı olarak kullanıcı kodu, parola ve şifre alınması ve bu şifre ile 1003B Beyanname kodlu Muhtasar ve Prim Hizmet Beyannamesinin gönderilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/719",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "02019fd4d0e5e4dc3c0a6f1e6df4b8a4ecffa086b6d72eb3f9e0a30c65dd5603",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
