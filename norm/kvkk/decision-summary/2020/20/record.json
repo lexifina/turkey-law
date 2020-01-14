@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/20",
+  "source_id": 6699,
+  "date": "2020-01-14",
+  "title": "“Bir Eğitim Kurumu tarafından ilgili kişinin cep telefonu numarasının herhangi bir veri işleme şartına dayanmaksızın işlenmesi ve ilgili numaraya reklam/bilgilendirme içerikli mesaj gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 14/01/2020 Tarihli ve 2020/20 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6699/2020-20",
+  "source_sha256": "1c76dd937d39be82f838a3f0d84f9ffc29c2eefece64aa58e20eeb557dde0d2a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
