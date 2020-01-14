@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "35",
+  "decision_date": "2020-01-14",
+  "title": "MEC.KAR. ( Denizkızı Sermaye Arttırımı 10.000.000,00 TL ).doc",
+  "listed_as": "35 MEC.KAR. ( Denizkızı Sermaye Arttırımı 10.000.000,00 TL ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/35-meckar---denizkizi-sermaye-arttirimi-1000000000--tl-----doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-ocak-2020-meclis-kararlari",
+  "listing_sha256": "ea28ec7bddfe03fb95d6be9a2302251c60159191588066d6bdc5d0c84ca66772",
+  "meeting_title": "14 OCAK 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
