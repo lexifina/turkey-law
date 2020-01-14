@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-14",
+  "issue": "31008",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Tıbbi Sülük (Hirudo Verbana) 2020 Yılı İhracat Kotasının Tahsisi Hakkında Tebliğ (No: 2019/66)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200114-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200114.htm",
+  "index_sha256": "ed8f615c0363fb8cf5fe94c10b35a86aca53996410025631001a36d037b701f5",
+  "index_header": "14 Ocak 2020 ... 31008 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200114.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
