@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-15",
+  "issue": "31009",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Dış Ticaret Sermaye Şirketlerine İlişkin Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200115-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200115.htm",
+  "index_sha256": "326ba9964f2c6a409016b055ae2ba8559995bc5732f0aaf273155eb1f025415d",
+  "index_header": "15 Ocak 2020 ... 31009 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200115.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
