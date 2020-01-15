@@ -1,0 +1,20 @@
+{
+  "applicant": "G.O.",
+  "application_date": "2016-02-05",
+  "application_number": "2016/2470",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-01-15",
+  "id": "37f0df75-d05d-a478-bf6d-f72012a11f31",
+  "in_force": "2020-01-15",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM3ZjBkZjc1LWQwNWQtYTQ3OC1iZjZkLWY3MjAxMmExMWYzMQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "86b6ce9a850d22bdc952e098d3eec406af0da18e61aabb6afe051fe843a9b0ce",
+  "version_label": "as-enacted"
+}
