@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9128-1",
+  "decision_date": "2020-01-16",
+  "title": "Doğal Gaz Dağıtım Şebekesinin Sıvılaştırılmış Doğal Gaz (LNG) veya Sıkıştırılmış Doğal Gaz (CNG) ile Beslenmesine İlişkin Usul ve Esaslar’a uygun olarak gerçekleştirilen CNG veya LNG alımları ile aynı dönem içerisinde gerçekleştirilen boru gazı alımları arasında oluşan maliyet farkına ilişkin",
+  "resmi_gazete_date": "2020-01-21",
+  "resmi_gazete_number": "31015",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y3QYcCFnZ+M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Y3QYcCFnZ+M="
+  ],
+  "source_sha256": "46685213b9f67d1b00b97024eee00f26b84bf641f1404ee80683fdc91b14f258",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-01-16",
+  "law_text_complete": true
+}
