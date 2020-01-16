@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10779",
+  "decision_date": "2020-01-16",
+  "source_id": 31266,
+  "chamber": "1",
+  "ilam_number": "68",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31266/",
+  "source_sha256": "6c3547bda0604ec10444a64a2be0edc9d64b19816e324f898c366d01fcdd3c97",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
