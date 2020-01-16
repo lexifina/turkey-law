@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10779",
+  "decision_date": "2020-01-16",
+  "source_id": 31264,
+  "chamber": "1",
+  "ilam_number": "68",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31264/",
+  "source_sha256": "f7283c7d1cf62a93e9fa06e63131b685c9412d65e3b54891d4181afcaf26565b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
