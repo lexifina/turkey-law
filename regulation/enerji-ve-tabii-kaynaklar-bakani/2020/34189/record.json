@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34189",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "34189",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2020/34189",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34189&MevzuatTertip=5",
+  "source_sha256": "371bba71bc58479ce22edbf715427e19cc443c00b864e1863601a9a3203a2566",
+  "source_bytes": 116993,
+  "published": "2020-01-16",
+  "gazette": "31010",
+  "in_force": "2020-01-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.01.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6769,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,5 @@
+Giriş sınavı notu ve sonucunun duyurulması
+MADDE 28 – (1) Müfettiş yardımcılığı giriş sınavı notu yazılı ve sözlü sınav notlarının ortalamasıdır.
+(2) Giriş sınavını kazananların durumu, sınav kurulu tarafından en yüksek puandan başlamak üzere sıralanarak bir tutanağa bağlanır. Puan eşitliği olması halinde sıralamada başvuru sırasındaki Ölçme, Seçme ve Yerleştirme Merkezince yapılan sınav puanı esas alınır.
+(3) Giriş sınavını kazanan adayların başarı sırasına göre listesi hazırlanarak Başkanlık tarafından ilan edilir ve kazanan adaylara yazılı olarak bildirilir.
+(4) Yarışma sınavında başarılı olmak şartıyla ilanda belirtilen kadro sayısının yarısını geçmemek üzere yedek aday tespit edilir. Yedek adayların hakları sınavı kazananların ilanından itibaren 6 ay süreyle geçerlidir. Bu süre içerisinde atama yapılmaya hak kazananların göreve başlamaması veya atama yapılan kadrolarda boşalma olması halinde yedekler başarı sırasına göre atanır. Listede yer almak, adaylar için daha sonraki sınavlar için kazanılmış hak veya herhangi bir öncelik hakkı teşkil etmez.

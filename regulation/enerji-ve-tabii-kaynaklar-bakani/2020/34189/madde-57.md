@@ -1,0 +1,3 @@
+Yurt dışına gönderilme
+MADDE 57 – (1) Müfettişler, Bakanlığı ilgilendiren konularda inceleme ve araştırmalar yapmak ve meslekî bilgilerini artırmak üzere Kurul Başkanının önerisi ve Bakanın onayıyla kıdem esasına göre 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde en çok bir yıl süreyle yurt dışına gönderilebilirler.
+(2) Yurt dışına gönderilenler, inceleme ve araştırmalarına ilişkin olarak düzenledikleri raporları, döndükleri tarihten itibaren en geç üç ay içinde Kurul Başkanlığına verirler.

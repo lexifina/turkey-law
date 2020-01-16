@@ -1,0 +1,2 @@
+Sınav sorularının hazırlanması
+MADDE 23 – (1) Sınav soruları ve her soruya verilecek puanlar ile sınav süreleri sınav kurulunca tespit edilir. Soru kağıtlarında, sınav süresi ve her soruya verilecek puan gösterilir. Soru kağıtları sınav kurulu üyeleri tarafından imzalandıktan sonra her konunun sorusu ayrı bir zarfa konulur, kapatılır ve mühürlenir. Bu zarf, sınav sırasında adaylar huzurunda açılıncaya kadar sınav kurulu başkanınca muhafaza edilir.

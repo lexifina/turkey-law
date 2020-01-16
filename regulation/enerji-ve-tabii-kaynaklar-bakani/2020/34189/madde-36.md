@@ -1,0 +1,2 @@
+Yeterlik sınavından önce Kuruldan çıkarılma
+MADDE 36 – (1) Verilen ilave süre içerisinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler ile müfettiş yardımcılığı döneminde, müfettişlik mesleği ile bağdaşmayacak tutum ve davranışları hukuki deliller ile tespit edilenler, Enerji ve Tabii Kaynaklar Bakanlığı müfettiş yardımcılığı unvanını kaybeder ve yeterlik sınavı beklenilmeksizin Bakanlık teşkilatında durumlarına uygun kadrolara atanırlar.

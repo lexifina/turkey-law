@@ -1,0 +1,4 @@
+Giriş sınavının duyurulması
+MADDE 16 – (1) Atama yapılacak müfettiş yardımcısı kadrolarının sayısı ve derecesi, Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümlerine göre Ölçme, Seçme ve Yerleştirme Merkezince yapılacak merkezi sınava göre Bakanlıkça belirlenen taban puanı, alınacak personelde aranacak şartlar ile giriş sınavının tarihi, yapılacağı yer, içeriği, değerlendirme yöntemi, başvuru merci ve son başvuru tarihi sınav gününden en az 30 gün önce Resmî Gazete, Aile, Çalışma ve Sosyal Hizmetler Bakanlığı ile Bakanlık internet sitesinde yayımlanmak suretiyle duyurulur.
+(2) Adayların başvuru ve kayıt süresi, sınavın başlama tarihinden en geç on gün önce bitecek şekilde tespit edilir.
+(3) Sözlü sınavın tarihi ve yapılacağı yer, sözlü sınavdan önce sınava girmeye hak kazanan adaylara yazılı olarak bildirilir.

@@ -1,0 +1,2 @@
+Kurulun merkezi
+MADDE 5 – (1) Kurulun merkezi Ankara’dır. Bu merkez müfettişlerin de görev merkezidir. Başkanlık, gerektiğinde Bakanın oluru ile Ankara dışında da görev merkezleri tesis edebilir veya aynı yolla kaldırabilir. Bu görev merkezlerinde, verilen talimatların yerine getirilmesi, şube müdürlükleri hizmetlerinin yürütülmesi, müfettişlerin şube müdürlükleriyle ilişkilerinin düzenlenmesi ve müfettişler arasında uyumlu bir çalışma düzeni sağlanması konularında görev merkezindeki müfettişlerden biri Başkanlığın teklifi üzerine Bakan oluru ile görevlendirilir.

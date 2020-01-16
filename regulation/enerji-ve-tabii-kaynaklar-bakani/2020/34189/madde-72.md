@@ -1,0 +1,2 @@
+Ayrılmada yapılacak işlemler
+MADDE 72 – (1) Müfettişlikten ayrılanlar; sonuçlandırılmış görevlere ilişkin raporları, henüz sonuçlandırılmamış görevlere ilişkin belgeleri, kendilerine teslim edilen resmi mühür ve beratı, kimlik belgesini, demirbaş ve diğer eşyayı on beş gün içinde Teftiş Kurulu Başkanlığına iade etmek zorundadır. Sonuçlandırılmamış görevlere ilişkin işlemler 54 üncü maddeye göre yürütülür.

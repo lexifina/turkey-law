@@ -1,0 +1,2 @@
+Genel durum raporu
+MADDE 65 – (1) Genel durum raporu; gerekli görülen hallerde, Kurulun yıllık çalışmalarının sonuçlarına göre Bakanlıkça uygulanan politikaların ve yürütülen hizmetlerin genel durumu, idarede gözlenen yetersizlikler, mevzuat yetersizliği ve bunların giderilmesi için alınacak yasal ve idari önlemlere dair görüş ve önerileri kapsayan ve Bakana özet bilgi vermek amacıyla Başkanlıkça hazırlanan rapordur.
