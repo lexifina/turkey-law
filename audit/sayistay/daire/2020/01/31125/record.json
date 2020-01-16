@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "218",
+  "decision_date": "2020-01-16",
+  "source_id": 31125,
+  "chamber": "4",
+  "ilam_number": "77",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31125/",
+  "source_sha256": "f5910ec266fb1198a621ad53f6a4d2c22b804058b51aa75f6d85f83339e8508a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
