@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10778",
+  "decision_date": "2020-01-16",
+  "source_id": 31258,
+  "chamber": "1",
+  "ilam_number": "67",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31258/",
+  "source_sha256": "7f210f0fe12136454b506366c2b8b9458bcf7e88f0b7b9b1281ad7d1e7c43436",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
