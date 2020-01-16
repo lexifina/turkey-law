@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10779",
+  "decision_date": "2020-01-16",
+  "source_id": 31267,
+  "chamber": "1",
+  "ilam_number": "68",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31267/",
+  "source_sha256": "1f226fd245a22fa7a7a8c95c5e68fef42f7518c0ac2e0d1d38a73b2308490464",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
