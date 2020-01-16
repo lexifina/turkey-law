@@ -1,0 +1,45 @@
+KESİN TEMİNATIN GÜNCELLEME YAPILMADAN GELİR KAYDEDİLMESİ
+
+İdarece …………. tarihli sözleşmesi feshedilen …………. mal alımında yüklenici …………. A.Ş.’nin verdiği kesin teminatın güncelleme yapılmadan gelir kaydedilmesi hususunun sorgu konusu edildiği görülmüştür.
+
+İdare ile Yüklenici arasında akdedilen …………. tarihli Sözleşmenin “Sözleşmenin Feshi ve Tasfiyesi” başlıklı 35.1.1’inci maddesinde;
+
+“İdare, aşağıda belirtilen hallerde sözleşmeyi fesheder:
+
+a) Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine, ihale dokümanında belirlenen oranda gecikme cezası uygulanmak üzere, idarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi,
+
+b) Sözleşmenin uygulanması sırasında yüklenicinin 4735 sayılı Kanunun 25 inci maddesinde sayılan yasak fiil ve davranışlarda bulunulduğunun tespit edilmesi,
+
+Hallerinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.”,
+
+“Fesih Tarihinin Belirlenmesi” başlıklı 36.2’nci maddesinde ise;
+
+“4735 sayılı Kanunun 19, 20 ve 21’inci maddelere göre sözleşmenin feshedilmesi halinde, kesin teminat ve varsa ek kesin teminatlar alındığı tarihten gelir kaydedileceği tarihe kadar Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenir. Güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki fark yükleniciden tahsil edilir.” hükümleri yer almaktadır.
+
+4735 sayılı Kamu İhale Sözleşmeleri Kanununun “İdarenin sözleşmeyi feshetmesi” başlıklı 20’nci maddesi (a) bendi uyarınca; yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine, ihale dokümanında belirlenen oranda gecikme cezası uygulanmak üzere, idarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilmesi gerekmektedir.
+
+Aynı Kanunun “Sözleşmenin feshine ilişkin düzenlemeler” başlıklı 22’nci maddesi 2’nci fıkrasına göre ise; 19, 20 ve 21’inci maddelere göre sözleşmenin feshedilmesi halinde, kesin teminat ve varsa ek kesin teminatların alındığı tarihten gelir kaydedileceği tarihe kadar Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncellenmesi ve güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki farkın yükleniciden tahsil edilmesi gerekmektedir.
+
+Görüldüğü üzere; yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine idarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi halinde ayrıca protesto çekmeye gerek kalmaksızın sözleşmenin feshedilerek hesabının genel hükümlere göre tasfiye edilmesi, tasfiye sonucunda kesin teminat ve varsa ek kesin teminatların gelir kaydedilmesi, ayrıca kesin teminat ve varsa ek kesin teminatların alındığı tarihten gelir kaydedileceği tarihe kadar Türkiye İstatistik Kurumunca yayımlanan aylık toptan eşya fiyat endeksine göre güncellenerek güncellenen tutar ile kesin teminat ve varsa ek kesin teminatların tutarı arasındaki farkın yükleniciden tahsil edilmesi gerekmektedir.
+
+Yapılan incelemede; İdare ile ………….  A.Ş. arasında akdedilen …………. tarihli sözleşmenin, adı geçen yüklenicinin taahhütlerini …………. tarihinden itibaren yerine getirmediğinden bahisle …………. tarihinde feshedildiği; ancak fesih sonucunda sözleşmenin 35.1.1 ve 36.2’nci maddelerinde yer alan “kesin teminat alındığı tarihten gelir kaydedileceği tarihe kadar Devlet İstatistik Enstitüsünce yayımlanan aylık toptan eşya fiyat endeksine göre güncelleneceği hükmü” gereğince güncellenerek gelir kaydedilmesi gereken …………. TL tutarındaki kesin teminatın …………. tarihli muhasebe işlem fişi ile güncellenmeden gelir kaydedildiği görülmüştür.
+
+Harcama Yetkilisi ………….’in (Çevre Koruma ve Kontrol Md. V.) göndermiş olduğu savunmasında; teminat güncelleme farkının İdare tarafından ilgili firmadan talep hakkının 6098 sayılı Borçlar Kanununun 72, 73 ve 146’ncı maddesi hükümleri gereği halen düşmediği, bu nedenle söz konusu alacağın yüklenici firmadan yasal yollar ile takibinin mümkün olduğu, bu itibarla İdarenin hukuki olarak hak kaybının olmadığı bir konuda doğrudan doğruya tarafına borç çıkarılmasının hukuka aykırı olduğu, kendisinin hâlihazırda herhangi bir sorumluluğunun bulunmadığı, Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 17’nci maddesine göre; idare gelirlerinin tarh, tahakkuk ve tahsil işlemlerinin mevzuata uygun bir şekilde yapılmaması hallerinde, kamu zararının söz konusu işlemin zaman aşımına uğradığı tarihte oluşacağının kabul edildiği, bu nedenle kamu zararının henüz oluşmadığı iddia edilmekte ise de;
+
+Teminat mektuplarını; kanundan kaynaklanan vergi, resim, harç gelirleri, yurt gelirleri veya kredi geri ödemeleri gibi gelirler kapsamında değerlendirmek mümkün görülmemektedir. Dayanağını Türk Borçlar Kanununun 128’inci maddesinden alan teminat mektubu, borçlunun alacaklıya karşı üzerine aldığı bir edimi yerine getirmemesi halinde, belirli bir miktar parayı, herhangi bir mahkeme kararına veya borçlunun rızasının alınmasına gerek olmaksızın, alacaklının ilk yazılı talebinde ona derhal ve gecikmeksizin ödemeyi kabul ve taahhüt niteliğinde bir garanti sözleşmesi sayılmaktadır.
+
+Teminat mektubu metninde yer alan “protesto keşidesine ve hüküm istihsaline gerek kalmaksızın ve borçlunun rızasını almaksızın ilk yazılı talepte derhal ve gecikmeksizin” şeklindeki ödeme taahhüdü; banka teminat mektuplarının garanti sözleşmesi niteliğinde olduğunu ve bankanın, garanti sözleşmesinde olduğu gibi asıl borçtan bağımsız bir yükümlülük altına girdiğini göstermektedir. Bu bağlamda, teminat mektuplarından kaynaklanan alacak, derhal ve gecikmeksizin tahsili gereken bir alacaktır.
+
+Gerçekleştirme Görevlisi ………….’ün (İşçi) savunmasından; söz konusu mal alımına ilişkin ihale dosyasına Gerçekleştirme Görevlisi olarak, Müdürlükte 4857 sayılı yasaya tabi işçi kadrosunda Gıda Mühendisi olarak görev yapan ………….’in atandığı, ihale dosyası muhtevasında yer alan evrakların üretilmesi, yaklaşık maliyetin hazırlanması, ihale süreci ile ilgili olurlarının alınması, ihale bilgisinin EKAP’a girilmesi, sözleşmenin fesih süreci ile ilgili işlemlerin …………. tarafından gerçekleştirilmediği görülmüş olup,  kesin teminatın gelir kaydedilmesine ilişkin olarak Mali Hizmetler Müdürlüğü’ne yazılan …………. tarihli yazının münferiden ………….’in (Çevre Koruma ve Kontrol Md. V.)  talimatı çerçevesinde gerçekleştirildiği anlaşılmıştır. İhale sürecine ilişkin işlemlerin, özellikle mali mevzuat bağlamında ihale dokümanına vakıf olmadan doğru bir şekilde gerçekleştirilmesinin zorluğu dikkate alındığında, …………. A.Ş.’nin taahhütlerini yerine getirmemesine bağlı olarak …………. tarihli sözleşmenin feshedilmesine rağmen kesin teminatın güncellenmeden gelir kaydedilmesinde gerek 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 33’üncü maddesi gerekse 5189/1 Sayıştay Genel Kurul Kararı uyarınca Gerçekleştirme Görevlisi ………….’ün sorumluluğu bulunmamaktadır.
+
+Diğer taraftan, mali işlem sürecindeki tüm yazışma, olur gibi faaliyetleri yürüten Gerçekleştirme Görevlisi ………….’e de, kesin teminatın güncellenmesi sürecindeki resmi yazışmalarda ismi yer almadığından, sorumluluk atfetmek mümkün değildir.
+
+Öte yandan, …………. tarihli sözleşmede yer alan yükümlülüklerin yüklenici tarafından yerine getirilip getirilmediğinin tespiti, tespit halinde uygulanacak cezalar ve sözleşmenin feshine ilişkin süreçlerin birim amiri sıfatıyla takibi ve bu süreçlere ilişkin onayların verilmesi harcama yetkilisinin sorumluluğundadır. Bu nedenle, gerek mevcut sözleşme, gerekse cari mevzuat karşısında, Mali Hizmetler Müdürlüğü’ne yazılan …………. tarihli sözleşmenin feshedilerek kesin teminatın gelir kaydedilmesine ilişkin yazıdaki “Onaylayan” sıfatıyla imzası nedeniyle Harcama Yetkilisi ………….’in (Çevre Koruma ve Kontrol Md. V.) sorumluluğu bulunmaktadır.
+
+Ayrıca …………. TL tutarındaki kamu zararına ilişkin “Alacak Takip Dosyası” açılarak, bu tutarın sorumlusu ve ilgilisi adına muhasebe kayıtlarına (140 Kişilerden Alacaklar) alındığına dair savunma ekinde herhangi bir bilgi ve belgenin de bulunmadığı anlaşılmaktadır.
+
+Bu itibarla; İdarece …………. tarihli sözleşmesi feshedilen …………. mal alımında yüklenici …………. A.Ş.’nin verdiği kesin teminatın güncelleme yapılmadan gelir kaydedilmesi nedeniyle ortaya çıkan …………. TL tutarındaki kamu zararının Harcama Yetkilisi ………….’e (Çevre Koruma Kontrol Md. V.) tek başına,
+
+6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine, anılan Kanunun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
+
+Karar verildi.
