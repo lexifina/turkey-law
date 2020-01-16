@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "348",
+  "decision_date": "2020-01-16",
+  "source_id": 31555,
+  "chamber": "3",
+  "ilam_number": "103",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31555/",
+  "source_sha256": "ec7e6f88141621d771cecec36e8b607d7b29ae7c14a69b9a89b1f887fd54ee5d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
