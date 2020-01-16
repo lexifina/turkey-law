@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10779",
+  "decision_date": "2020-01-16",
+  "source_id": 31259,
+  "chamber": "1",
+  "ilam_number": "68",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31259/",
+  "source_sha256": "dd334dd74903e4f0a7a92c99a195b00c3bd52c7e01e7b31bd29372f36eba0df8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
