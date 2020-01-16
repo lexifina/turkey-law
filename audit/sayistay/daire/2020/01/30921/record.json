@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35613",
+  "decision_date": "2020-01-16",
+  "source_id": 30921,
+  "chamber": "2",
+  "ilam_number": "44",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30921/",
+  "source_sha256": "f276436e2e73a3adc5db96a2ecf5ab972c3e875b75f7de6d3d79114963e521c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
