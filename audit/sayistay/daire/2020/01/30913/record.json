@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "219",
+  "decision_date": "2020-01-16",
+  "source_id": 30913,
+  "chamber": "4",
+  "ilam_number": "360",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30913/",
+  "source_sha256": "0f7f5c1d743c284c578830d500d40424ab16179b82b06a17b978f8e549fba402",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
