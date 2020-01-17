@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-17",
+  "issue": "31011",
+  "edition": "regular",
+  "item": 4,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7205 Türkiye Cumhuriyeti Hükümeti ile Çad Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117.htm",
+  "index_sha256": "025857168dd8d0df7bdaae29c7f7c69d0c3357d2e5a90c4f2f01d009da0b1c47",
+  "index_header": "17 Ocak 2020 ... 31011 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
