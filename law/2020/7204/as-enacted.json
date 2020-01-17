@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7204",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Fildişi Sahili Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme ve Vergi Kaçakçılığına Engel Olma Anlaşması ve Eki Protokolün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-01-17",
+  "gazette_issue": "31011",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117-3.htm",
+  "source_sha256": "f90adbec882631f948c534b49778324871ee643e93965034540bf5703d472dd3",
+  "text_sha256": "0fecc6f5c2edc8db0d1d9f2c6eb5f911ba60855604edd39b1bc78bf17d062a48",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/01/17/31011-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
