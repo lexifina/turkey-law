@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7206",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-01-17",
+  "gazette_issue": "31011",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117-5.htm",
+  "source_sha256": "7bc7819c40a7d27f6c67569d5e9b50b759a06a7f2aadb860c97a5fe39450a2d4",
+  "text_sha256": "2dbbb4fe18f42285388effa60d30a9cd70176b4ec43e004c552ab9767f4419f7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/01/17/31011-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200117-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
