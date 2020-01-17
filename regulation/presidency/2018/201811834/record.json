@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-201811834",
+  "number": "201811834",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AKADEMİK TEŞVİK ÖDENEĞİ YÖNETMELİĞİ",
+  "published": "2018-06-27",
+  "enacted": "2018-05-14",
+  "gazette_number": "30461",
+  "in_force": "2020-01-17",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 17/1/2020; source row: 16/1/2020 | 2043 | 3, 5, 7, 8, Tablo 4, 13 | 17/1/2020",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=201811834&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "5f985c9cac3883d979144ea0db67828b930b1e0d7217fde77effc6d9fa1a06d7",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
