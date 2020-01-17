@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34192",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TİCARET SİCİLİ MÜDÜRLÜKLERİ HAKKINDA TEBLİĞ",
+  "number": "34192",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34192&MevzuatTertip=5",
+  "source_sha256": "1963cc4a6e4892dd80fd09bd1bbf554e6143399573e6ebf659b0b435af479fae",
+  "source_bytes": 58912,
+  "published": "2020-01-17",
+  "gazette": "31011",
+  "in_force": "2020-01-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.01.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3165,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34192-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
