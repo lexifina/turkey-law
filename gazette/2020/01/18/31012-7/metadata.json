@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-18",
+  "issue": "31012",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Kamu Sosyal Tesislerine İlişkin Tebliğ (No: 2020-1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200118-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200118.htm",
+  "index_sha256": "149b5bd92494a1ccd3939d4e19289927400048e3e11a1f3bf890cd7884d4552e",
+  "index_header": "18 Ocak 2020 ... 31012 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200118.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
