@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-19",
+  "issue": "31013",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Makine Tesisatı Genel Tasarım Teknik Şartnamelerine Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200119-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200119.htm",
+  "index_sha256": "4681a0468237885302e6898a489917b6247da2f0f740a12c4964af9c5f2ae3ec",
+  "index_header": "19 Ocak 2020 ... 31013 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200119.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
