@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-01-19",
+      "19.01.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31013",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-01-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bayburt Üniversitesi",
+  "issuer_slug": "bayburt-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bayburt-universitesi/2020/34206",
+  "published": "2020-01-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34206&MevzuatTertip=5",
+  "source_bytes": 33139,
+  "source_id": "8.5.34206",
+  "source_sha256": "5e8a872b843cc28bf709683199e98f082eabf4fd48cebdcd7d16bccc8b7b5522",
+  "text_status": "as-enacted",
+  "title": "BAYBURT ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ UYGULAMA\r\n\r\nVE ARAŞTIRMAMERKEZİ YÖNETMELİĞİ",
+  "university_id": 347,
+  "word_count": 1543
+}
