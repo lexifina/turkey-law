@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-01-20",
+      "20.01.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31014",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-01-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Afyon Kocatepe Üniversitesi",
+  "issuer_slug": "afyon-kocatepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/afyon-kocatepe-universitesi/2020/34201",
+  "published": "2020-01-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34201&MevzuatTertip=5",
+  "source_bytes": 28748,
+  "source_id": "8.5.34201",
+  "source_sha256": "b25151b527b6cd98b13eea4757dfa9fd188450760282ba64917f70707115105f",
+  "text_status": "as-enacted",
+  "title": "AFYON KOCATEPE ÜNİVERSİTESİ KOCATEPE BÜYÜK TAARRUZ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 177,
+  "word_count": 1274
+}
