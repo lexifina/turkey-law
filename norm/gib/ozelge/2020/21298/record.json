@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-19-35]-E.13242",
+  "source_id": 21298,
+  "date": "2020-01-20",
+  "title": "Amcadan devralınan faaliyet nedeniyle genç girişimci istisnasından yararlanılıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21298",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "35b778f14483019be2e33f3d40bae9dfb60fc261e42046979d88c87a6e8e32b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
