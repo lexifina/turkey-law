@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-125[ÖZG-2-2018]-4280",
+  "source_id": 32001,
+  "date": "2020-01-20",
+  "title": "Teknopark İstisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/32001",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "aae1309e9aa202b5fcceac6e15e4d0ffc12f1de5f0907f8b7b557981414036bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
