@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/50",
+  "source_id": 7026,
+  "date": "2020-01-20",
+  "title": "“Bir perakende giyim firmasının veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 20/01/2020 tarih ve 2020/50 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7026/2020-50",
+  "source_sha256": "0c33b7d2858597e62abf44a3643f39822c6be7712e5f46cac5a8cd67dfeb1e3d",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
