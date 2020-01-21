@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "220",
+  "decision_date": "2020-01-21",
+  "source_id": 30905,
+  "chamber": "4",
+  "ilam_number": "260",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2011,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30905/",
+  "source_sha256": "6f33269bd70d85d69ce180d3ef68012d9563f50daeba949a093cba4751763467",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
