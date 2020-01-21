@@ -1,0 +1,5 @@
+Tesis ve eğitim cihazları
+MADDE 7 – (1) Bu Yönetmelik kapsamında yetkilendirilmek isteyen Kuruluşun; onaylı HTEKEK’te belirtilen eğitimleri verebilecek eğitim kadrosuna, ekonomik duruma ve sınavları yapmaya uygun tesislere sahip olması esastır. İhtiyaç duyulan eğitim cihazları talep edilen yetki kapsamına uygun şekilde faal ve kullanıma hazır olarak Kuruluş bünyesinde bulundurulur.
+(2) Sınav yapılacak yerin; bir öğrencinin sınav boyunca diğer öğrencilerin kâğıtlarını veya bilgisayar ekranlarını kendi bulunduğu yerden göremeyeceği şekilde düzenlenmesi zorunludur.
+(3) Kuruluşun yetkisi kapsamında verilen eğitimlere uygun cihaz listesi onaylı HTEKEK’te belirtilir.
+(4) Kuruluş, bazı uygulamalı eğitimleri veya çalışmaları gerçekleştirmeye yeterli altyapıya sahip olmadığı durumlarda, söz konusu eğitimleri ve çalışmaları bu altyapıya sahip olan başka kuruluşlarla yapacağı anlaşma uyarınca, anlaşma yaptığı kuruluşta gerçekleştirebilir. Kuruluş, anlaşma ile temin edilen eğitim ve çalışmalarda ilgili gerekliliklerin karşılanmasından ve bu gerekliliklerin yerine getirildiğine dair denetimlerin gerçekleştirilmesinden sorumludur.
