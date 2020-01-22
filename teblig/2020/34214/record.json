@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31016",
+  "date_quote": "Bu Tebliğ 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31016",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-01-22",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-100.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-01-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34214&MevzuatTertip=5",
+  "source_bytes": 12076,
+  "source_id": "9.5.34214",
+  "source_sha256": "17ababa6cabf0f1797e169074bf9d9311099be3137a52f76d625eb488e885cb6",
+  "title": "TÜTÜN ÜRETİMİ, İŞLENMESİ, İÇ VE DIŞ TİCARETİ İLE İLGİLİ USUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 22 NCİ, 23 ÜNCÜ VE 26 NCI MADDELERİNİN UYGULANMASI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: 2019/70)",
+  "word_count": 173
+}
