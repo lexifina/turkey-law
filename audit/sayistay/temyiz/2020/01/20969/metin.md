@@ -1,0 +1,5 @@
+Konu: Suni gölet ve yeşil alanın, kiracısı olan belediye şirketi tarafından kira sözleşmesine aykırı olarak üçüncü kişilere kiralanması suretiyle kira kaybına neden olunması.
+
+567 sayılı Ek ilamın 1 inci maddesi ile verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’un itiraz başvurusu üzerine düzenlenen 46026 sayılı dosya, 22.01.2020 tarih ve 47140 tutanak sayılı Temyiz Kurulu İlamı ile; kamu zararı oluşmadığı ifade edilerek, tazmin hükmünün kaldırılması gerektiğine ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Üst Yönetici sıfatıyla temyiz talep eden …’yı) ilgilendiren ve aynı mahiyette olan 46109 sayılı işbu dosyanın da sözü edilen (46026 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 22.01.2020 tarih ve 47142 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
