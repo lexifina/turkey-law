@@ -1,0 +1,20 @@
+{
+  "applicant": "T.K.",
+  "application_date": "2017-04-24",
+  "application_number": "2017/27041",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2019-12-11",
+  "id": "5e8fda60-a7a6-b90f-7bb9-9ef5058ff6fe",
+  "in_force": "2020-01-22",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-01-22",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjVlOGZkYTYwLWE3YTYtYjkwZi03YmI5LTllZjUwNThmZjZmZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "c19197dc5457842fbad1dffd5ca38ef2a790852b3c95229993a8857f3bf2310c",
+  "version_label": "as-enacted"
+}
