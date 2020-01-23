@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "349",
+  "decision_date": "2020-01-23",
+  "source_id": 30969,
+  "chamber": "3",
+  "ilam_number": "62",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/30969/",
+  "source_sha256": "24696d878d364bd36b28a5326dfa9def7f4c6f5218109c2e69a01da37230e78b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
