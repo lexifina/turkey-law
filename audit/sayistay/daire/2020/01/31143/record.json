@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "222",
+  "decision_date": "2020-01-23",
+  "source_id": 31143,
+  "chamber": "4",
+  "ilam_number": "70",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31143/",
+  "source_sha256": "2e17b6079d3bd4bae46b49912c9e8952bc19fbf8cdd9e81ac56cdddc438f29d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
