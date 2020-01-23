@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[89-2018/603]-82901",
+  "source_id": 23552,
+  "date": "2020-01-23",
+  "title": "Eş adına ödenen lazer tedavi masraflarının gider yazılıp yazılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23552",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4814dc9e68947fa9450de31bc9889c966b1163e58ec3a8acd9ca7c5d667cc96c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
