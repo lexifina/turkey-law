@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-120[9-2017/232]-87953",
+  "source_id": 20885,
+  "date": "2020-01-24",
+  "title": "Ev Hanımlarına Yaptırılan El İşçiliği ve Dikim İşi Karşılığında Yapılan Ödemelerin Vergilendirilmesi ve Maskot Tesliminde Uygulanması Gereken KDV Oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20885",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5873bcd091d2d7a810ca34ea6a3a14c6a7560f551db68fa246f91e968c7ea545",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
