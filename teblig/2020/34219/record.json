@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34219",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 516)",
+  "number": "34219",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2020/34219",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34219&MevzuatTertip=5",
+  "source_sha256": "b13667859f60b5d49d1260c201b48df888f1e56148b92103466730e4c595586e",
+  "source_bytes": 15032,
+  "published": "2020-01-24",
+  "gazette": "31018",
+  "in_force": "2020-01-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.01.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 250,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34219-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
