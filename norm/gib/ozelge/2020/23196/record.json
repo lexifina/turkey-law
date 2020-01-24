@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[63-2018/708]-91497",
+  "source_id": 23196,
+  "date": "2020-01-24",
+  "title": "İşveren tarafından ödenen özel sağlık poliçesi primlerinin vergi matrahına brüt olarak iblağ edilip edilmeyeceği ve indirim konusu yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23196",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "2d84e024a8f17dd8c392c92bec6b45731e8a63c08cfaf5967618993a024f966b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
