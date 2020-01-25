@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-01-25",
+  "issue": "31019",
+  "edition": "regular",
+  "item": 42,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Akredite Edilmiş Helal Uygunluk Değerlendirme Kuruluşlarının Hizmet Verdiği Üçüncü Tarafların Uygun Olmayan İş ve İşlemleri Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125-42.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125.htm",
+  "index_sha256": "a68d49059b3c1fedc64bc9184d997bc52139eb51f2b8ea89950ccd9b12ef7fed",
+  "index_header": "25 Ocak 2020 ... 31019 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200125.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
