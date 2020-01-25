@@ -1,0 +1,5 @@
+SEKİZİNCİ BÖLÜM
+Tekliflerin Açılması ve Değerlendirilmesi
+Tekliflerin açılması
+MADDE 40- (1) Teklifler, ihale dokümanında belirtilen son teklif verme saatine kadar idareye verilir. İhale komisyonunca, ihale dokümanında belirtilen saatte kaç teklif verilmiş olduğu bir tutanakla tespit edilerek, hazır bulunanlara duyurulur ve hemen ihaleye başlanır. İhale komisyonu teklif zarflarını alınış sırasına göre inceler. 35 inci maddeye uygun olmayan zarflar bir tutanak ile belirlenerek değerlendirmeye alınmaz. Zarflardan uygun olanlar, isteklilerle birlikte hazır bulunanlar önünde alınış sırasına göre açılır.
+(2) İsteklilerin belgelerinin eksik olup olmadığı ve teklif mektubu ile geçici teminatlarının usulüne uygun olup olmadığı kontrol edilir. Belgeleri eksik veya teklif mektubu ile geçici teminatı usulüne uygun olmayan istekliler tutanakla tespit edilir. İstekliler ve teklif fiyatları açıklanır. Bu işlemlere ilişkin hazırlanan tutanak ihale komisyonunca imzalanır. Bu aşamada hiçbir teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan belgeler düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca değerlendirilmek üzere oturum kapatılır.

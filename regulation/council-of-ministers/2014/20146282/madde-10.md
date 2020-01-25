@@ -1,0 +1,11 @@
+İhaleye katılamayacak olanlar
+MADDE 10- (1) Aşağıda sayılan kişiler doğrudan veya dolaylı olarak veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde ihalelere katılamazlar:
+a) İhaleyi yapan idarenin ihale yetkilileri ile ihale işlemlerini hazırlamak, yürütmek, sonuçlandırmak ve denetlemekle görevli personeli.
+b) (a) bendinde belirtilen şahısların eşleri ve üçüncü derece dahil olmak üzere üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile evlatlıkları ve evlat edinenleri.
+c) (a) ve (b) bentlerinde belirtilen şahısların, sermayesinin %10’undan fazlasına sahip olmadıkları veya yönetim kurullarında görevli bulunmadıkları anonim ortaklıklar hariç ortakları ile şirketleri.
+ç) 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ve diğer kanunlardaki hükümler gereğince geçici veya sürekli olarak idarelerce veya mahkeme kararı ile kamu ihalelerine katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.
+d) İlgili mercilerce hileli iflas ettiğine karar verilenler.
+e) 4734 sayılı Kanunun 53 üncü maddesinin (b) fıkrasının (8) numaralı bendi gereğince alınacak Bakanlar Kurulu kararında belirtilen yabancı ülkelerin isteklileri.
+(2) İhale konusu işin danışmanlık hizmetlerini yapan yükleniciler bu işin ihalesine katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin danışmanlık hizmeti ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
+(3) İhaleyi yapan idare bünyesinde bulunan veya idare ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların ortak oldukları şirketler bu idarelerin ihalelerine katılamazlar.
+(4) Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilir.

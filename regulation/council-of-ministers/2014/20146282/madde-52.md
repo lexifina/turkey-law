@@ -1,0 +1,4 @@
+İhale üzerinde kalan isteklinin sözleşmeyi imzalamaması
+MADDE 52- (1) İhale üzerinde kalan isteklinin 9 uncu maddenin beşinci fıkrası kapsamında verilen taahhütnamede belirtilen durumlarda olmadığına dair belgeleri veya sözleşme sırasında istenilen diğer belgeleri veya kesin teminatı vermemesi ya da sözleşme imzalamaması durumunda idare, ekonomik açıdan en avantajlı ikinci teklif fiyatının ihale yetkilisince uygun görülmesi kaydıyla, ikinci teklif sahibi istekli ile sözleşme imzalayabilir. Bu durumda sözleşmeyi imzalamayan isteklinin teminatı irat kaydedilir.
+(2) Ancak ekonomik açıdan en avantajlı ikinci teklif sahibi istekli ile sözleşme imzalanabilmesi için, ekonomik açıdan en avantajlı ikinci teklif sahibi istekliye 46 ncı maddede belirtilen şekilde tebligat yapılır.
+(3) Ekonomik açıdan en avantajlı ikinci teklif sahibinin de sözleşmeyi imzalamaması durumunda ise, bu teklif sahibinin de geçici teminatı Hazineye gelir kaydedilerek ihale iptal edilir.

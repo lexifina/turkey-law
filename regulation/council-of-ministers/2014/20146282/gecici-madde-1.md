@@ -1,0 +1,3 @@
+Mevcut ihaleler
+GEÇİCİ MADDE 1- (1) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun mülga ek 7 nci maddesi çerçevesinde ilana çıkılarak ihale süreci başlatılmış olan işler mevcut ihale şartnamelerine göre sonuçlandırılır. Ancak bu Yönetmeliğin 42 nci, 53 üncü ve 61 inci maddeleri, süreci devam eden ihalelere ve sözleşmesi imzalanmış işlere de uygulanır.
+(2) 1/3/2014 tarihi itibarıyla ihale süreci devam eden ve/veya sözleşmesi imzalanmış olan işlerde, yüklenici tarafından, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içerisinde bu Yönetmeliğin 61 inci maddesi kapsamında başvuruda bulunulması halinde, sözleşme bedeline ilişkin olarak ek 2’de yer alan kullanım bedeli hesaplaması Bakan onayı ile uygulanarak gerekli düzenlemeler yapılır.

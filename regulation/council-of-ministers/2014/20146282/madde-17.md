@@ -1,0 +1,2 @@
+Açık ihale usulü
+MADDE 17- (1) Açık ihale usulü, bütün isteklilerin teklif verebildiği ihalelerdir. Açık ihale usulünde, isteklilerin 9 uncu maddede belirtilen usul ve esaslara uygun olarak tespit edilen mali ve teknik yeterlik kriterleri ile ihale dokümanında belirtilen şartlara uygun olup olmadığı incelenerek, uygun olmadığı belirlenen isteklilerin teklifleri değerlendirme dışı bırakılır. Değerlendirme sonucu ihale, teknik ve mali puanları toplamı en yüksek olan isteklinin üzerinde bırakılır.

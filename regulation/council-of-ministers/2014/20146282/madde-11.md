@@ -1,0 +1,6 @@
+İş ortaklığı
+MADDE 11- (1) İş ortaklığı, hak ve sorumluluklarıyla işin tümünü birlikte yapmak üzere birden fazla gerçek veya tüzel kişi tarafından oluşturulabilir.
+(2) İhalelere iş ortaklığı şeklinde teklif verilebilir. İdare, birden fazla gerçek veya tüzel kişinin ihaleye katılıp katılamayacağını ihale dokümanında belirtir. İhale aşamasında iş ortaklıklarından, ortaklıklarına dair, İş Ortaklığı Beyannamesi istenir. İş Ortaklığı Beyannamesinde pilot ortak belirtilir.
+(3) Yapım işleri ihalesinin iş ortaklığı üzerinde kalması halinde, sözleşme imzalanmadan önce iş ortaklığından noter tasdikli iş ortaklığı sözleşmesi istenmez, ancak özel amaçlı şirketin kuruluşuna ilişkin belgelerin verilmesi istenir.
+(4) Yenileme veya hizmet alım işleri ihalesinin ortak girişim üzerinde kalması halinde, sözleşme imzalanmadan önce noter tasdikli iş ortaklığı sözleşmesinin verilmesi gerekir. İş ortaklığı anlaşma ve sözleşmesinde, iş ortaklığını oluşturan gerçek veya tüzel kişilerin taahhüdün yerine getirilmesinde müştereken ve müteselsilen sorumlu oldukları belirtilir. Yenileme veya hizmet alım işlerinde yükleniciler tarafından ayrı ve yeni bir özel amaçlı şirket kurulması aranmaz.
+(5) Sözleşme imzalanana kadar mali ve teknik yeterlikleri haiz olmak şartıyla ve idarenin onayı ile iş ortaklığı değişikliği yapılabilir.

@@ -1,0 +1,5 @@
+Ön fizibilite raporu ve yaklaşık maliyet
+MADDE 8- (1) Ön fizibilite raporu ve yaklaşık maliyete ilişkin bilgilere ihale ve ön yeterlik ilanlarında yer verilmez ve bu bilgiler açıklanmaz.
+(2) Ön fizibilite raporu, yaklaşık maliyetin hesaplanmasına ilişkin hesap cetveli ve icmal tablosu hazırlayanlarca imzalanmak suretiyle ihale onay belgesine eklenir.
+(3) Ön fizibilite raporunda maliyeti oluşturan unsurlar, ilk hesaplandığı tarihten ihalenin ilan veya davet tarihine kadar geçen sürede güncelliğini kaybettiği durumlarda, Türkiye İstatistik Kurumu tarafından yayımlanan aylık Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE) esas alınarak güncellenir.
+(4) Bedel ve sözleşme süresinin tespitinde; yatırımın maliyeti ve projenin mahiyeti, tıbbi donanım da dahil her türlü donanım ve mefruşatın yüklenici tarafından sağlanıp sağlanmayacağı, uluslararası sektörel içkarlılık oranları gözönünde bulundurularak hesaplanan yüklenici karı, tesisteki ihtiyari hizmetlerin ve ticari hizmet alanlarının işletilmesinin yükleniciye verilip verilmeyeceği hususları dikkate alınır.

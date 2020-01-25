@@ -1,0 +1,4 @@
+Bildirim ve tebligat esasları
+MADDE 31- (1) Bildirim ve tebligat, iadeli taahhütlü posta yoluyla veya imza karşılığı elden yapılır. Ancak, dokümanın satın alındığına ilişkin formda ya da başvuru veya teklif mektubunda elektronik posta adresinin ve/veya faks numarasının belirtilmesi ve bu adrese veya faks numarasına yapılacak bildirimlerin kabul edileceğinin taahhüt edilmesi kaydıyla, idare tarafından elektronik posta yoluyla veya faksla bildirim de yapılabilir.
+(2) Elektronik posta yoluyla yapılacak bildirimler, idarenin resmi elektronik posta adresi kullanılarak yapılır. Elektronik posta yoluyla veya faksla yapılan bildirimlerde, bildirim tarihi tebliğ tarihi sayılır. Ancak bu şekilde yapılacak tebligatların yirmidört saat içinde teyidi alınır.
+(3) İdare tarafından ortak girişimlere yapılacak bildirim ve tebligat yukarıdaki esaslara göre pilot ortağa yapılır.

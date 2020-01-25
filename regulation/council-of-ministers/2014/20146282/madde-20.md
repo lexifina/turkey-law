@@ -1,0 +1,3 @@
+Ön yeterlik dokümanları
+MADDE 20- (1) Belli istekliler arasında ihale usulü ile yapılacak ihalelerin ön yeterlik dokümanında; adaylarda aranılan şartlara, ön yeterlik kriterlerine ve gerekli diğer bilgi ve belgelere yer verilir. Ayrıca, yeterlikleri tespit edilenler arasından belli sayıda adayın ihaleye davet edilmesinin öngörüldüğü hallerde, sıralama kriterleri ve puanlama yöntemi ile beşten az olmamak üzere listeye alınacak aday sayısı da ön yeterlik dokümanında belirtilir.
+(2) Her sayfası onaylanan ön yeterlik dokümanın bir nüshasının ihale işlem dosyasında muhafazası zorunludur. İhtiyaç duyulması halinde, idare tarafından belirlenen esaslar çerçevesinde gerekli güvenlik önlemlerinin idarece alınması kaydıyla, ön yeterlik dokümanı elektronik ortama aktarılabilir.

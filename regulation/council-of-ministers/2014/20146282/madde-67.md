@@ -1,0 +1,2 @@
+Anlaşmazlıkların çözümü
+MADDE 67- (1) Sözleşmenin uygulanması sırasında taraflar arasında doğabilecek hukuki ihtilaflarda Türk hukuku uygulanır ve ihtilafların çözümünde Türkiye Cumhuriyeti mahkemeleri görevli ve yetkilidir. Ancak, taraflar ihtilafın esasına Türk hukukunun uygulanması kaydıyla ihtilafın 21/6/2001 tarihli ve 4686 sayılı Milletlerarası Tahkim Kanunu çerçevesinde çözümlenebileceğini kararlaştırabilirler.[1]
