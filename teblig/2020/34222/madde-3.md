@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 1/11/2017 tarihli ve 7060 sayılı Helal Akreditasyon Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanun, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 178 inci maddesinin beşinci fıkrası ile 16/10/2019 tarihli ve 30920 sayılı Resmî Gazete’de yayımlanan Helal Uygunluk Değerlendirme Kuruluşlarının Akreditasyonu Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.
