@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Yetiştirilme
+Müfettiş yardımcılarının yetiştirilmesi
+MADDE 26 – (1) Müfettiş yardımcılığı süresi üç yıldır. Müfettiş yardımcıları bu süre içerisinde genel hükümler çerçevesinde gerçekleştirilecek zorunlu adaylık eğitimine ilaveten mesleğin gerektirdiği nitelikleri kazanmak, görev alanını ilgilendiren mevzuat ile rehberlik ve teftiş, inceleme ve soruşturma teknikleri hususunda bilgi, tecrübe ve ihtisas sahibi olmalarını sağlamak ve mesleki çalışma ve araştırma yapmak gayesiyle aşağıdaki şekilde üç dönemde yetiştirilir:
+a) (Değişik:RG-29/2/2012-28219) Birinci dönem: Üç ay süre devam edecek olan bu dönemde müfettiş yardımcıları Başkanlığın görev alanı ve meslekî konular ile teftiş mevzuatı ve uygulamaları konularında bir program dâhilinde eğitime tâbi tutulurlar.
+b) (Değişik:RG-29/2/2012-28219) İkinci dönem: Bu dönemde müfettiş yardımcıları, yirmi ay süreyle iki ayrı müfettişin refakatinde görev yaparlar. Bu süreler içinde müfettiş yardımcıları, rehberlik, teftiş, inceleme ve soruşturma konularında yetiştirilirler.
+c) (Değişik:RG-29/2/2012-28219) Üçüncü dönem: Birinci ve ikinci dönem çalışmalarını başarı ile tamamlayan müfettiş yardımcıları, yanında çalıştıkları müfettişlerin yazılı görüşleri dikkate alınarak, Rehberlik ve Teftiş Başkanlığının teklifi ve Başkanın onayı ile on üç ay müstakil teftişle yetkilendirilebilirler.
+ç) (Ek:RG-25/1/2020-31019) Müfettiş yardımcıları, yetiştirme programı kapsamında Rehberlik ve Teftiş Başkanlığı tarafından belirlenen konularda tez hazırlarlar. Tez konularının belirlenmesi, tez jürisi oluşturulması, tezin kabulü gibi hususlar Rehberlik ve Teftiş Başkanlığınca belirlenir.

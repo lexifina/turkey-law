@@ -1,0 +1,2 @@
+Yazışma usulü
+MADDE 39 – (1) (Değişik:RG-25/1/2020-31019) Müfettişler, görevlerine ilişkin konularda kamu kurum ve kuruluşları, gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak Cumhurbaşkanlığı, Türkiye Büyük Millet Meclisi, yüksek mahkemeler, bakanlıklar ile kamu kurum ve kuruluşlarının merkez ve yurt dışı teşkilatlarıyla Rehberlik ve Teftiş Başkanlığı aracılığıyla yazışma yaparlar.

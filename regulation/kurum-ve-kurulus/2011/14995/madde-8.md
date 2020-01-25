@@ -1,0 +1,2 @@
+Rehberlik ve Teftiş Başkanının atanması
+MADDE 8 – (Mülga:RG-25/1/2020-31019)

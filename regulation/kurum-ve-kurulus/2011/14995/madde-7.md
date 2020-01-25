@@ -1,0 +1,8 @@
+Rehberlik ve Teftiş Başkanlığının görev ve yetkileri
+MADDE 7 – (1) Rehberlik ve Teftiş Başkanlığının görev ve yetkileri şunlardır:
+a) Başkanlığın merkez, taşra ve yurtdışı teşkilâtı ile personelin idarî, malî ve hukukî bütün iş ve işlemlerinin Başkan adına, müfettiş ve müfettiş yardımcıları marifetiyle eğitici, öğretici ve usulsüzlükleri önleyici bir anlayışla teftiş edilmesini, iş ve işlemler ile personelin denetlenmesini, inceleme ve soruşturma yapılmasını sağlamak.
+b) Müfettişler tarafından düzenlenen raporları değerlendirmek, raporlar hakkında istatistikî bilgiler oluşturmak.
+c) Rehberlik ve teftişin standart ve ilkelerini oluşturmak, yöntem ve tekniklerini geliştirmek, etkinliğini ve verimliliğini artırıcı tedbirler almak ve denetim rehberi hazırlamak.
+ç) Başkanlık hizmetlerinin etkinlik ve verimliliğinin artırılmasını, Başkanlığın mevzuat, plan, program ve görevine uygun olarak hizmet verilmesine yönelik yeni düzenlemeler yapılmasını sağlamak amacıyla, inceleme ve araştırmalar yaparak bu konulardaki görüş ve önerilerini Başkana sunmak.
+d) Başkanlığın faaliyet, hizmet, iş ve işlemlerinin; ilgili kanun, tüzük, yönetmelik ve diğer mevzuat, program, stratejik plan, belirlenen hedef ve politikalara uygun olarak yerine getirilmesi; kaynakların etkili, ekonomik ve verimli olarak kullanılması hususlarında personele rehberlik etmek.
+e) Merkez, taşra ve yurtdışında gerçekleştirilen faaliyet ve işlemlerin planlanması, uygulanması ve kontrolü aşamalarındaki etkililik, ekonomiklik ve verimliliğini; hesap ve işlemlerin doğruluk ve güvenilirliğini; elektronik bilgi sistemlerinin süreklilik ve güvenilirliğini denetlemek ve değerlendirmek.

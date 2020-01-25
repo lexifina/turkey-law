@@ -1,0 +1,2 @@
+Genel teftiş raporu
+MADDE 48 – (1) Genel teftiş raporu, Başkanlığın merkez, taşra ve yurtdışı teşkilatında yürütülen hizmetlerin, mevzuata uygun olup olmadığını ve buralarda çalışan personelin görevlerini verimli, etkili, süratli ve doğru olarak yapıp yapmadıklarını bir program uyarınca mahallinde incelemek, araştırmak ve denetlemek suretiyle varılan sonuçları, alınması gerekli kanuni ve idari tedbir ve teklifleri ihtiva eden rapordur.

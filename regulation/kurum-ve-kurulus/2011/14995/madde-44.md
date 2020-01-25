@@ -1,0 +1,5 @@
+Teftiş defteri
+MADDE 44 – (1) Müfettişler ve müfettiş yardımcıları; teftişe hangi tarihte başladıklarını, bitirdiklerini ve hangi tarihler arasındaki işlemleri teftiş ettiklerini, tespitleri ile birlikte teftiş defterine yazarak mühürleyip imza altına alırlar, gereğini yapması ve muhafaza etmesi için teftiş defterini ilgili birim yetkilisine teslim ederler.
+(2) Müfettişler ve müfettiş yardımcıları; teftiş sırasında teftiş defterini inceleyerek, önceden tenkit edilen hususların ne dereceye kadar düzeltildiğini, rehberlikte bulunulan ve tavsiye edilen hususların yerine getirilip getirilmediğini değerlendirirler.
+(3) Denetim sonuçlarının takip edilmesinden ve yerine getirilmesinden ilgili birim yetkilileri sorumludur.
+(4) Teftiş defterinin tutulması, korunması ve devir-teslim işleminden, birim amiri sorumludur. Birim amiri, teftiş dosyasını ve bunlara ilişkin yazılı emirleri saklamakla; yerine atanan amir de, teftiş dosyasını teslim almak, bu gerçekleşmediği takdirde durumu Başkanlığa bildirmekle yükümlüdür.

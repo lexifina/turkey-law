@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Diyanet İşleri Başkanlığı Rehberlik ve Teftiş Başkanlığının kuruluş, görev ve yetkileri ile rehberlik ve teftiş başkanı, müfettişler, müfettiş yardımcıları ve büro personelinin yetki ve sorumluluklarını, teftiş edilenlerin yükümlülüklerini, müfettiş yardımcılığına giriş ve müfettişlik yeterlik sınavlarını, başmüfettiş, müfettiş ve müfettiş yardımcılarının atanmalarını, Rehberlik ve Teftiş Başkanlığı, müfettiş ve müfettiş yardımcılarının çalışma usul ve esaslarını kapsar.

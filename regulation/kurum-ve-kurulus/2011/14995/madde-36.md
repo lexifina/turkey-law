@@ -1,0 +1,2 @@
+Yurtdışına gönderilme
+MADDE 36 – (1) Müfettiş ve müfettiş yardımcıları; Başkanlığı ilgilendiren konularda inceleme ve araştırmalar yapmak ve mesleki bilgilerini arttırmak maksadıyla genel hükümler çerçevesinde yurtdışına gönderilebilirler. Yurtdışına gönderilenler, döndükleri tarihten itibaren, inceleme ve araştırmalarına ilişkin olarak düzenledikleri raporları en geç bir ay içinde Başkanlığa sunarlar.
