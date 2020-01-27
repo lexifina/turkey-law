@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.46.15.01-125[10-2017/12]-4307",
+  "source_id": 37668,
+  "date": "2020-01-27",
+  "title": "Sermaye Artırımının Ortakların Alacaklarından Karşılanması Halinde Kurum Kazancında İndirim Konusu Yapılıp Yapılamayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37668",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f9bd0e56fc715dc58c04619a2528c53be4ee23672e68137c7c08009f870c587f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
