@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/66",
+  "source_id": 6873,
+  "date": "2020-01-27",
+  "title": "“İlgili kişinin irtibat numarasının bir elektrik dağıtım şirketi tarafından herhangi bir işleme şartına dayanılmaksızın işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 27/01/2020 tarihli ve 2020/66 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6873/2020-66",
+  "source_sha256": "55cebd65124d76676a8bfcf3d128902fa7f64d71eaf9f5568c154aa58c86890a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
