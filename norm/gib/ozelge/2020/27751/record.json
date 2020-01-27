@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.20.15.01-125[5-2015-158]-7211",
+  "source_id": 27751,
+  "date": "2020-01-27",
+  "title": "Şirket aktifine kayıtlı taşınmaz satışının vergi kanunları karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27751",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "6badd7b82d7ffe606dcb6f34e4147713fcf9dfae822df2da4b6cca60641e8b6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
