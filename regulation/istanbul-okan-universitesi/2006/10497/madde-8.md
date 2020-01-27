@@ -1,0 +1,3 @@
+Merkez müdürü
+MADDE 8 – (1) (Değişik:RG-27/01/2020-31021) Müdür; Üniversitede aylıklı ve devamlı statüdeki öğretim elemanları ve/veya idari personel arasından üç yıl için Rektör tarafından görevlendirilir. Süresi sona eren Müdür yeniden görevlendirilebilir. Müdür; görevlendirildiği usul ile görevden alınabilir.
+(2) Merkez Müdürüne yardımcı olmak üzere, Merkez Yönetim Kurulu üyelerinden birisi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Merkez Müdürü, görevi başında olmadığı zaman müdür yardımcısı kendisine vekalet eder. Merkez Müdürünün görevi sona erdiğinde müdür yardımcısının görevi de sona erer.
