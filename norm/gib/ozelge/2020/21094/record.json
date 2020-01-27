@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47423198-120.01[37-2018/11]-E.4760",
+  "source_id": 21094,
+  "date": "2020-01-27",
+  "title": "Matbaada bastırılan derginin kendine ait web sitesinden satışının yapılması halinde mükellefiyet",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21094",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d589b822f17e0d8c2cb1113afd5615dbf9c245242aab0e1f328a7a59abd70708",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
