@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25253958-130[13-2018-44]-4835",
+  "source_id": 31180,
+  "date": "2020-01-27",
+  "title": "Altyapı Çalışmalarının İnşası İçin Katlanılan Proje Maliyetlerinin Katılımcılara Taksitler Halinde Yansıtılmasında KDV Hesaplanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31180",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "dc13e6545a864f058e41036c724744eee0d528dc6b027ac6642b01c871c4540a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
