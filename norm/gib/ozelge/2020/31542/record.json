@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-130[12-2016/20-1327]-8046",
+  "source_id": 31542,
+  "date": "2020-01-28",
+  "title": "Serbest bölgeden yurt içine taşınan malların ihraç amaçlı olduğu taşıma firmalarınca nasıl tespit ve tevsik edileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31542",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b98fd0fee2ba7cdcc663054c6952df7a160c0efebb07123bb0511a5eb140099c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
