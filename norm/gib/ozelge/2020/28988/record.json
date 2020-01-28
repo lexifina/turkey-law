@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.38.15.01-130[1-2015/20-1240]-8224",
+  "source_id": 28988,
+  "date": "2020-01-28",
+  "title": "Yurtdışında mukim olan firmalardan alınan hizmet faturalarının sorumlu sıfatı ile KDV'ye tabi olup olmayacağı ve Kurumlar Vergisi açısından durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28988",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "1234c99891197ace2bee3270bb744b43d3d21651bb0e3595a8ae7e3431859f28",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
