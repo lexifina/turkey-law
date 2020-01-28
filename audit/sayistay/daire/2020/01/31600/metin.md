@@ -1,0 +1,55 @@
+Hakediş
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… yüklenimindeki “…Mal Alımı İşi”nde;
+
+A) İşe ait İdari Şartname’nin 47’nci maddesi ve Teknik Şartname’nin 1.12’nci maddesi ile belirlenip “ yapı denetim görevlisinin ihtiyaçları” adı altında yüklenici firmadan istenen 4 adet şoförlü aracın şoförsüz olarak idareye teslim edildiği görülmüştür.
+
+Sorgu konusu işe ilişkin İdari Şartname’nin 47’nci maddesinin ikinci fıkrasında;
+
+“Yapı denetim görevlisi için şoförleriyle birlikte  4 (Dört) adet binek otonun devamlı kullanılabilir vaziyette temini yüklenicinin yükümlülüğündedir. Bu araçların tüm bakım, yakıt ve işletme giderleri yüklenici tarafından karşılanacak, geçici kabulün yapılmasını müteakip araçlar yükleniciye iade edilecektir. Muhtemel tüm hasar ve kazalardan yüklenici sorumlu olacaktır. Araçlar yer teslimini takip eden bir ay içinde yazı ile idareye teslim edilecektir. Araç tesliminin gecikmesi halinde her gün ve her araç için … TL ceza idarece yüklenicinin hakedişinden kesilecektir. ” hükmüne yer verilmiştir.
+
+Mal alımlarına ait tip sözleşmenin 8.1.’inci maddesinde ise, ihale dokümanının  (teknik şartname ve idari şartname) sözleşmenin ayrılmaz bir parçası olduğu ve İdare ile Yükleniciyi bağladığı açıkça ifade edilmektedir. Dolayısıyla, Yüklenici tarafından yapılan teklif şartnamelerde yer alan mali yükümlülükleri de kapsamaktadır.
+
+Sorgu konusu olayda, idari şartnamede açıkça sağlanacak olan binek otomobillerin şoförlü olarak sağlanmasının yüklenicinin sorumluluğunda olduğu belirtildiği halde, firmadan teslim alınan otomobillerin şoförsüz olarak verildiği ve bu suretle Denetçi tarafından 4 adet şoförün yükleniciye olan asgari işçilik maliyeti şeklinde hesaplandığı anlaşılan …-TL tutarında kamu zararına neden olunduğu görülmüştür.
+
+Bu itibarla, İdari Şartname’de şoförlü olması gerektiği belirtilen araçların şoförsüz olarak teslim alınması sonucunda neden olunan  kamu zararı tutarı …-TL’nin Harcama Yetkilisi (Daire Başkanı) …, Gerçekleştirme Görevlisi (Şube Müdürü) … ve Diğer Sorumlular (Elek. Elektronik Müh.) …, (İnşaat Y. Mühendisi) … , (Harita Mühendisi) … ve  (Makine Mühendisi) …'a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine anılan Kanun’un 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
+
+B) Kazıdan çıkan hafriyatın Belediye sorumluluğunda olmadığının Çevre Koruma Müdürlüğüne bildirilmemesi nedeniyle yükleniciden alınması gereken hafriyat bedellerinin alınmadığı görülmüştür.
+
+… Belediye Meclisi tarafından 2464 sayılı Belediye Gelirleri Kanunu’nun “Ücrete Tabi İşler” başlıklı 97’nci maddesine istinaden hafriyat atıklarının depolanmasına ilişkin ücretleri belirlemiş ve tarifeler cetvelinin ilgili kısımlarına eklemiştir. Buna göre, Belediye mücavir alanları sınırında hafriyat artıklarının İdare tarafından gösterilecek depo sahasına nakledilmesi ve karşılığında ilgili kişilerin ücret ödemesi gerekmektedir.
+
+Sorgu konusu olayda ise, Yüklenicinin iş kapsamında yaptığı toplam kazı kübajının … metreküp olduğu, söz konusu toplam kazı miktarının … metreküpünün İdare’ye ait park ve bahçelerin düzenlemesi ile yol yapımlarında kullanıldığı, geriye kalan … metreküp hafriyatın ise belediyenin hafriyat sahasına döküldüğü ve ücret alınmadığı … tarihli ve … sayılı yazıdan anlaşılmıştır.
+
+Yüklenici firmanın hafriyat sahasına kendi adına döktüğü kazı artıklarının, İdare ile ilgisi bulunmadığının Çevre Koruma ve Kontrol Dairesi Başkanlığına bildirilmemesi sonucunda, Atık Yönetim Şube Müdürlüğü ücret tarifesi gereği kamyon başına alınması gereken hafriyat bertaraf bedelinin tahsil edilemediği ve bu suretle …-TL kamu zararına neden olunduğu görülmüştür.
+
+Bu itibarla, yapılan kazıdan çıkan hafriyat toprağının Belediye sorumluluğunda olmadığının Çevre Koruma Müdürlüğüne bildirilmemesi neticesinde yüklenici tarafından ödenmesi gereken hafriyat bedellerinin tahsil edilememesi sonucunda neden olunan  kamu zararı tutarı …-TL’nin Harcama Yetkilisi (Daire Başkanı) …, Gerçekleştirme Görevlisi (Şube Müdürü) … ve Diğer Sorumlular (Elek. Elektronik Müh.) …, (İnşaat Y. Mühendisi) … , (Harita Mühendisi) … ve  (Makine Mühendisi) …'a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine anılan Kanun’un 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Karşı Oy:
+
+Üye …’ın karşı oy gerekçesi:
+
+Yüklenici tarafından idareye ödenmesi gereken hafriyat bedelleri, söz konusu ihale kapsamında bir borç niteliğinde olmadığından bahse konu bedellerin tahsil edilip edilmediği hususunun ihaleyi yürüten birimin sorumluluğunda olmadığı değerlendirilmektedir.  Bu çerçevede, idarece tahsil edilmesi gereken hafriyat bedellerinin tahsil edilmemesi sonucu neden olunan kamu zararına ilişkin sorumluluğun yeniden değerlendirilerek sorumluların tespit edilip savunmalarının alınması sonucunda düzenlenecek ek raporun Dairemize intikaline değin konunun hüküm dışı bırakılması gerektiği düşüncesiyle çoğunluk görüşüne katılmıyorum.
+
+C) Alt yapı kazı çalışmaları için yüklenici firma tarafından ödenmesi gereken ruhsat harcı ve keşif bedellerinin ödenmediği görülmüştür.
+
+… Belediyesi Alt Yapı Koordinasyon Merkezi Çalışma Usul ve Esasları Uygulama Yönetmeliği’nin “Alt yapı tesisi açımı ruhsat işlemleri” başlıklı 14’üncü maddesinin (d) bendinde” … Belediyesine bağlı birimler ile İlçe Belediyelerin kendi imkânlarıyla yapacakları veya ihaleli olarak yüklenicilere yaptıracakları altyapı çalışmalarında tahrip edilen zemin eski haline kendileri tarafından getirilmesi koşuluyla sadece ruhsat harcı ve keşif bedeli alınarak ruhsatlandırma yapılır.”
+
+İşe ait teknik şartnamenin 1.3.’üncü maddesinde ise; “Sözleşme ve eklerinde aksi belirtilmedikçe, işin yapılması için ilgili kurum ve şahıslardan alınması gereken izin, ruhsat, onay vb. idarenin bilgisi dahilinde yüklenici tarafından alınacak, ücretleri yüklenici tarafından ödenecektir” denilmektedir.
+
+Buna göre; Yönetmelik gereği Belediye’nin ihaleli olarak yüklenicilere yaptırdıkları işlerden zemin tahrip bedeli alınmaksızın, yalnızca ruhsat harcı ve keşif bedeli alınması gerekmektedir. Sorgu konusu olayda ise; teknik şartname gereği bu işlemlere ilişkin izin alma ve ücret ödeme mükellefiyeti yükleniciye ait olduğu halde söz konusu ihale kapsamında yüklenici tarafından alınması gereken izin işlemlerinin, Ulaşım Dairesi Başkanlığı tarafından yürütüldüğü ve bu Dairenin başvurusu üzerine AYKOME Şube Müdürlüğünden kazı izni verildiği anlaşılmıştır. Bu doğrultuda AYKOME Şube Müdürlüğü tarafından alınması gereken ücretler tahsil edilemediğinden …-TL kamu zararına neden olunduğu görülmüştür.
+
+Bu itibarla, alt yapı kazı çalışmaları için yüklenici firma tarafından ödenmesi gereken ruhsat harcı ve keşif bedellerinin ödenmemesi suretiyle neden olunan kamu zararı tutarı …-TL’nin Harcama Yetkilisi (Daire Başkanı) …, Gerçekleştirme Görevlisi (Şube Müdürü) … ve Diğer Sorumlular (Elek. Elektronik Müh.) …, (İnşaat Y. Mühendisi) … , (Harita Mühendisi) … ve  (Makine Mühendisi) …'a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine anılan Kanun’un 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
+
+D) Yüklenici firmanın alt yüklenici firma ile imzaladığı sözleşmeden damga vergisinin alınmadığı görülmüştür.
+
+488 sayılı Damga Vergisi Kanunu’nun 1’inci maddesinde bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların Damga vergisine tabi olduğu, 3’üncü maddesinde Damga Vergisinin mükellefinin kâğıtları imza edenler olduğu, 24’üncü maddesinin ikinci fıkrasında, birden fazla kişi tarafından imza edilen kağıtlara ait vergi ve cezanın tamamından imza edenlerin müteselsilen sorumlu olduğu, 26’ncı maddesinde resmi dairelerin ilgili memurlarının kendilerine ibraz edilen kağıtların Damga Vergisini aramaya ve vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tespit etmeye veya bunları tutanağı düzenlemek üzere, vergi dairesine göndermeye mecbur oldukları ayrıca Kanun’a ekli (I) sayılı tablonun I. Akitlerle ilgili kağıtlar kısmında belli parayı ihtiva eden sözleşmelerden Binde 9,48 oranında damga vergisi alınması gerektiği belirtilmiştir.
+
+4734 sayılı Kamu İhale Kanunu’nun “Alt yükleniciler” başlıklı 15’inci maddesinde, “İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları istenebilir. Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.”, düzenlemesi yer almış, Yapım İşleri İhaleleri Uygulama Yönetmeliği’nin eklerinden Yapım İşleri Genel Şartnamesi’nin, alt yüklenicilerin çalıştırılması ve sorumluluklarını düzenleyen 20’nci maddesinin 5’inci fıkrasında ise; “Yüklenicinin, idare tarafından onaylanan alt yükleniciler ile bunlar işe başlamadan önce sözleşme yapması ve bir örneğini idareye vermesi gerekir.” ifadesine yer verilmiştir.
+
+Yapılan incelemelerde yüklenicinin alt yüklenici firmalarla imzaladığı 6 adet sözleşmeden 5’ine ait sözleşme damga vergisi makbuzu dosyasında olduğu halde, … tarihinde … TL sözleşme bedeli ile imzalanan bir sözleşmeye ait damga vergisi ödeme makbuzunun bulunmadığı anlaşılmıştır. Oysa ki yüklenici firmanın ihale makamı ve alt yüklenici ile düzenlediği sözleşme, damga vergisine tabi iki ayrı kağıt olup her birinin ayrı ayrı ihtiva ettiği tutar üzerinden binde 9,48 oranında damga vergisi alınması ve alt yüklenici sözleşmesi idare onayına sunulduğunda bu sözleşmeyi onaylayanların 488 sayılı Kanun’un 26’ncı maddesi gereğince gerekli işlemleri yapmaları gerekmektedir.
+
+Her ne kadar denetçi tarafından sorgu konusu yapılmakla beraber, tazmin talebinde bulunulmayıp 488 sayılı Damga Vergisi Kanunu uyarınca gerekli incelemenin yapılması maksadıyla konunun Hazine ve Maliye Bakanlığına yazılması talep edilmişse de;
+
+Sözleşme gereği ödenmesi gereken Damga vergisi ödemesinin aranmaması sebebiyle oluşan kamu zararı tutarı olan …-TL’nin Harcama Yetkilisi (Daire Başkanı) …, Gerçekleştirme Görevlisi (Şube Müdürü) … ve Diğer Sorumlular (Elek. Elektronik Müh.) …, (İnşaat Y. Mühendisi) …, (Harita Mühendisi) … ve  (Makine Mühendisi) …'a müştereken ve müteselsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faiziyle ödettirilmesine anılan Kanun’un 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
