@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-E.109910",
+  "source_id": 30091,
+  "date": "2020-01-29",
+  "title": "Türkiye'de yerleşmiş olmayan yabancı uyruklu kişilere Türkiye'de verilen sağlık hizmetleri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30091",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "7df09395defdef2e342e4376f8eed7bc380851ac1364baf450b9b0dfcbeef7dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
