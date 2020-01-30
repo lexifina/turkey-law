@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[12]-3379",
+  "source_id": 31103,
+  "date": "2020-01-30",
+  "title": "Gümrüksüz Bölgelere (Duty Free bölgesinde) Yapılan Teslimlerde KDV iadesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31103",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5e5c5b87e09f4c8f2b90190b4491cea0b2a61c8cb74dd0ff07c3e0fb1ddb79e2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
