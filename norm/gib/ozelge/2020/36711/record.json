@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-180[28]-3374",
+  "source_id": 36711,
+  "date": "2020-01-30",
+  "title": "Belgesiz ihracat kredilerine ilişkin istisna süresinden sonra yapılan kredi faiz ödemelerinde BSMV istisnası uygulanıp uygulanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36711",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "49568548fe23cfd7faa57406b82ea6bdc8729342cb8fa83e6daa27c749b497a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
