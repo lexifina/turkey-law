@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "380",
+  "decision_date": "2020-01-30",
+  "source_id": 31233,
+  "chamber": "7",
+  "ilam_number": "85",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31233/",
+  "source_sha256": "8dcf689839976958ebd269ce064a09157789de256cf3549e6c10163eb9c6a3af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
