@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-01-30",
+      "30.01.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31024",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-01-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hakkari Üniversitesi",
+  "issuer_slug": "hakkari-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hakkari-universitesi/2020/34235",
+  "published": "2020-01-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34235&MevzuatTertip=5",
+  "source_bytes": 25920,
+  "source_id": "8.5.34235",
+  "source_sha256": "225e31c01c8cc0e36c7f112197e299361fd1e40dacf1fb68154e5e149859e612",
+  "text_status": "as-enacted",
+  "title": "HAKKARİ ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE \r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 346,
+  "word_count": 929
+}
