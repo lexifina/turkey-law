@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "381",
+  "decision_date": "2020-01-30",
+  "source_id": 31411,
+  "chamber": "7",
+  "ilam_number": "100",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31411/",
+  "source_sha256": "8d395b65b86d940d5517416c215a3bc3fba98ed466c9ac26a203fbd19e7e0d2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
