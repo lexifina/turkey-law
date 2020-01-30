@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/71",
+  "source_id": 6874,
+  "date": "2020-01-30",
+  "title": "“Veri sorumlusu ve veri işleyenin tespitinde göz önünde bulundurulması gereken hususlar ile aydınlatma yükümlülüğünün kim tarafından yerine getirileceği”ne ilişkin Kişisel Verileri Koruma Kurulunun 30/01/2020 tarihli ve 2020/71 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6874/2020-71",
+  "source_sha256": "2e7d107051a2f3995309ce36ec492bbb2738df33eb5e27d27e8cc00b7a17c5a2",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
