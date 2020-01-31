@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7216",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Gine Cumhuriyeti Hükûmeti Arasında Askerî Alanda Eğitim, Teknik ve Bilimsel İş Birliği Çerçeve Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-01-31",
+  "gazette_issue": "31025",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-15.htm",
+  "source_sha256": "bc40b11d18fd54a224537701a6ddf8c8b17ef34d7e5af5e6b921b367394ea5fd",
+  "text_sha256": "f3e07a39dd686a077c38aac52291224a4df45f57a11865fff194565bda0fb4a0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/01/31/31025-15",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-15.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
