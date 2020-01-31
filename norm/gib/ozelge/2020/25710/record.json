@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-130[1-2014/61 ]-45127",
+  "source_id": 25710,
+  "date": "2020-01-31",
+  "title": "İnternet üzerinden yapılan satışlarda ürün bedellerinin kargo firması tarafından tahsil edilmesi halinde vergileme ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/25710",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "30a547ba8f88ec075352cbfdfb64fc10536cef7e77b30a93c6e6837e1bab81b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
