@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26696128-130[9-2019/3]-5798",
+  "source_id": 30090,
+  "date": "2020-01-31",
+  "title": "Fransa mukimi ortak firmanın Türkiyede yerleşik firmanın mali verilerini değerlendirmesi ve denetlemesi karşılığında talep ettiği katkı payı için KDV tevkifatı yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30090",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "1b7c209f628b2a2f8ae7d6ab2abd9cbd9e1dbe9086dbf1a59dd2ee305dc3fd81",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
