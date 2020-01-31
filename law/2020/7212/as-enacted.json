@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7212",
+  "year": 2020,
+  "title": "Uluslararası Sivil Havacılık Sözleşmesinin 50 (A) ve 56'ncı Maddelerinin Tadiline İlişkin Olarak 6 Ekim 2016 Tarihinde Montreal'de İmzalanan Protokollerin Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-01-31",
+  "gazette_issue": "31025",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-11.htm",
+  "source_sha256": "6471fad5fa5c7e40eb66d960ca46ac82f8483a14f2dd9043a4cb2f2e06422a8c",
+  "text_sha256": "3136ca06ca55b0ce46c6dc82ab5e7c1f47b78f3e3eeb0aa9cbdc2daeea2c4c58",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/01/31/31025-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
