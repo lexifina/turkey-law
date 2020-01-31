@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7214",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Özbekistan Cumhuriyeti Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-01-31",
+  "gazette_issue": "31025",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-13.htm",
+  "source_sha256": "982d2560700b49f28758aa6ffda0a9fc6285459bba3e1d4d94174fe426653ac9",
+  "text_sha256": "7aef6b9d2a87a924c8f64d543e861c1ced2a7ba6bd2169d1cee311554c10e1d0",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/01/31/31025-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/01/20200131-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
