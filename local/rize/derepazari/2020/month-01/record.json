@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2020,
+  "month": 1,
+  "title": "Ocak 2020/ 1 - 10 Numaralı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2020-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2020",
+  "source": "https://derepazari.bel.tr/karar/ocak-2020-1-10-numarali-meclis-kararlari",
+  "official_page": "https://derepazari.bel.tr/karar/ocak-2020-1-10-numarali-meclis-kararlari",
+  "official_document": "https://derepazari.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/OCAK-2020.pdf",
+  "source_sha256": "4dbe0d8f407e4bb36c192c42bb604523e9d4c1ebcccc7e61c6b6b9ca29e80142",
+  "issuer": "Derepazarı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak 2020/ 1 - 10 Numaralı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
