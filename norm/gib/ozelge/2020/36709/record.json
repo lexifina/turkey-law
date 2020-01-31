@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-105[280-2016]-3473",
+  "source_id": 36709,
+  "date": "2020-01-31",
+  "title": "Faktöring sözleşmesinde gayrikabili rücu dövizli alacakların değerlemesi nedeniyle oluşan kur farkları üzerinden BMV hesaplanıp hesaplanmayacağı, kur farkı için fatura düzenlenip düzenlenmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36709",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e36629f1b002778cce509239908d2eba29a7144af70c5285e2330851fc16b8f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
