@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34233",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KÜLTÜR VARLIKLARI İHALE YÖNETMELİĞİ KAPSAMINDAKİ PARASAL LİMİTLERİN GÜNCELLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2020/1)",
+  "number": "34233",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2020/34233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34233&MevzuatTertip=5",
+  "source_sha256": "e8124e343e0a7730da8ceb0d37850dbb451308eff1b32e96d8f1a6c946c09c8b",
+  "source_bytes": 8972,
+  "published": "2020-01-30",
+  "gazette": "31024",
+  "in_force": "2020-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 139,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34233-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
