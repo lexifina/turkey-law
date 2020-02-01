@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-02-01",
+  "issue": "31026",
+  "edition": "regular",
+  "item": 16,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7219 Türkiye Cumhuriyeti ile Bolivarcı Venezuela Cumhuriyeti Arasındaki Ticaretin Geliştirilmesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200201-16.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200201.htm",
+  "index_sha256": "585dfe3318551475b6cb0f8e1703b925daf456ad9d29731c9c0d41de4266d003",
+  "index_header": "1 Şubat 2020 ... 31026 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200201.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
