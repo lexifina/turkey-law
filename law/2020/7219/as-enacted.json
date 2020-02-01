@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7219",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti ile Bolivarcı Venezuela Cumhuriyeti Arasındaki Ticaretin Geliştirilmesi Anlaşmasının Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-02-01",
+  "gazette_issue": "31026",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200201-16.htm",
+  "source_sha256": "36116d7be784d42fae4518323aa42ae8be9ee46eda180019bcfddf932491a1ef",
+  "text_sha256": "6c44da2d4556ca46235a899401330dd3a1b1aecb4b7b6de2d21c79d422528760",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/02/01/31026-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200201-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
