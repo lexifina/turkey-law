@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34230",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAMU İHALE TEBLİĞİ (TEBLİĞ NO: 2020/1)",
+  "number": "34230",
+  "issuer": "Kamu İhale Kurumu Başkanı",
+  "path": "teblig/2020/34230",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34230&MevzuatTertip=5",
+  "source_sha256": "e3b8954f761de23127923e020f5e7e349f4f62807be957d1745924182959ea5a",
+  "source_bytes": 15358,
+  "published": "2020-01-29",
+  "gazette": "31023",
+  "in_force": "2020-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 460,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34230-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
