@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.4.DEF.0.43.10.00-130-5900",
+  "source_id": 28986,
+  "date": "2020-02-03",
+  "title": "Yurt dışında Mukim grup şirketine kredi temin edilmesi karşılığındaki faiz tutarının KDV tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28986",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "1569690dfd3ef087336b6da8c815c74327ce7d401a9d909e576f771dcec7f000",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
