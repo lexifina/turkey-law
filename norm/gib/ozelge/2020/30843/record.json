@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-KDV.11-121890",
+  "source_id": 30843,
+  "date": "2020-02-03",
+  "title": "DİİB kapsamında temin edilen hammaddeler kullanılarak üretilen ürünlerin yurt içine KDV'li satışı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30843",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "a985d2dc42cb2e6718fa5e8e4de5dcb1f01d10a60aceb17449106c3d96b9ef3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
