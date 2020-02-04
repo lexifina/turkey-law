@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "414",
+  "decision_date": "2020-02-04",
+  "source_id": 31136,
+  "chamber": "5",
+  "ilam_number": "251",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31136/",
+  "source_sha256": "e98c9d2917c83da4c5b81b3a4cb18afe3c4df42607789ed316b22f5226428cd0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
