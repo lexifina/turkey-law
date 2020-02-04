@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10781",
+  "decision_date": "2020-02-04",
+  "source_id": 31640,
+  "chamber": "1",
+  "ilam_number": "97",
+  "item_number": 21,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31640/",
+  "source_sha256": "7c8c9aa38be2775473d99949993b3bea4dec52acffdbeaf978fe4d322d8696a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
