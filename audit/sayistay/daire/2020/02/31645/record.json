@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10780",
+  "decision_date": "2020-02-04",
+  "source_id": 31645,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31645/",
+  "source_sha256": "a29d9ff1dddb0890d5570ca22d16171fd874213d1f9d5568889bb66245b416be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
