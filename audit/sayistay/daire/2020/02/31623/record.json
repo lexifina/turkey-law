@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10781",
+  "decision_date": "2020-02-04",
+  "source_id": 31623,
+  "chamber": "1",
+  "ilam_number": "97",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31623/",
+  "source_sha256": "237d357db930f7a37f388afa29e7faa1db8cf948cdddfb8b0cd7ed0420e4aefb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
