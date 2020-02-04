@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10781",
+  "decision_date": "2020-02-04",
+  "source_id": 31630,
+  "chamber": "1",
+  "ilam_number": "97",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31630/",
+  "source_sha256": "0e4d79127e3cc10f61d97ebf8b294fa9315a60e77563bc3743e99dbac4e86756",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
