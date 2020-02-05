@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-130[13-2017-320]-52609",
+  "source_id": 31175,
+  "date": "2020-02-05",
+  "title": "Yabancı bayraklı gemilere gümrüklü saha içerisinde verilen hizmetin KDV karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31175",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "ec5dcfd1c63f653b9ecc43dc9a3e989645029e0ae46839c0241e8a623b9610fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
