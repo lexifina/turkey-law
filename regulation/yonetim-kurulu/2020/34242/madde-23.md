@@ -1,0 +1,4 @@
+İtiraz hakkı
+MADDE 23 – (1) Giriş sınavı ile tez değerlendirme ve yeterlik sınav sonuçlarına yedi gün içinde insan kaynaklarından sorumlu Daire Başkanlığına verilen imzalı, açık yazışma adresi, telefon numarası ve e-posta adresi belirtilmiş dilekçe ile itiraz edilebilir. Bu şartları taşımayan veya itiraz süresi içinde verilmemiş dilekçeler dikkate alınmaz. İtirazlar, itiraz süresinin dolmasından itibaren yedi işgünü içerisinde topluca değerlendirilir. İtiraz sonuçları, itiraz edenlere dilekçelerinde belirttikleri iletişim bilgileri yoluyla bildirilir. İtirazlar, ilgisine göre Giriş Sınavı Komisyonu, Tez Değerlendirme Komisyonu veya Yeterlik Sınavı Komisyonu tarafından yedi gün içerisinde sonuçlandırılır.
+(2) Yazılı sınavın üniversitelere veya başka bir kamu kurumuna yaptırılması durumunda, bu sınav sonuçlarına yapılan itirazların karara bağlanma süresi on beş gündür.
+(3) İtirazların değerlendirilmesi üzerine verilen kararlar kesindir.

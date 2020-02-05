@@ -1,0 +1,6 @@
+Uzman Yardımcılarının atanması
+MADDE 13 – (1) Giriş sınavını kazanarak kendilerine yapılan bildirimi müteakip belirtilen süre içinde Kuruma yazılı başvuru yapanlar, Kurum tarafından Uzman Yardımcısı kadrolarına atanır.
+(2) Sınavı kazananların atama işlemlerine ilişkin tebligatta belirtilen süre içinde, istenilen belgelerle birlikte Kuruma müracaat etmeleri gereklidir.
+(3) Atama işlemlerinin yapılabilmesi için kendilerine bildirilen süre içinde geçerli bir mazereti olmadığı halde müracaat etmeyenlerin atama işlemleri yapılmaz.
+(4) Giriş sınavını kazananlardan başvuru belgelerinde gerçeğe aykırılık tespit edilenlerin sınavları geçersiz sayılarak atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bunlar hiçbir hak talep edemez ve haklarında Cumhuriyet Başsavcılığına suç duyurusunda bulunulur. Bu şekilde Kurumu yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.
+(5) Sınavda başarılı olup göreve başlamayanlardan veya ataması yapılıp da herhangi bir nedenle görevden ayrılanlardan boşalan kadroya, yeni bir sınav yapılana kadar ve her hâlükârda 6 ayı geçmemek kaydıyla 12 nci maddenin ikinci fıkrası uyarınca belirlenen yedek listeden en yüksek puan alan adaydan başlamak üzere atama yapılabilir.

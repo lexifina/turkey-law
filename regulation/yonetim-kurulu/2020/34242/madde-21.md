@@ -1,0 +1,2 @@
+Yeterlik Sınavı Komisyonu
+MADDE 21 – (1) Yeterlik Sınavı Komisyonu, Başkan, Genel Sekreter ve insan kaynaklarından sorumlu Daire Başkanı olmak üzere üç üyeden oluşur. Ayrıca Başkan tarafından iki yedek üye belirlenir. Yeterlik Sınavı Komisyonu üye tam sayısı ile toplanır. Asıl üyelerin herhangi bir nedenle Yeterlik Sınavı Komisyonuna katılamamaları hâlinde, yedek üyeler tespit sırasına göre Yeterlik Sınavı Komisyonuna katılırlar.

@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Ticaret Bakanını,
+b) Başkan: Helal Akreditasyon Kurumu Yönetim Kurulu Başkanını,
+c) Birim: Helal Akreditasyon Kurumu hizmet birimlerini,
+ç) Birim Amiri: Helal Akreditasyon Kurumu hizmet birimi yöneticilerini,
+d) Genel Sekreter: Helal Akreditasyon Kurumu Genel Sekreterini,
+e) Giriş Sınavı: Helal Akreditasyon Uzman Yardımcılığı giriş sınavını,
+f) Giriş Sınavı Komisyonu: Helal Akreditasyon Uzman Yardımcılığı Giriş Sınavı Komisyonunu,
+g) KPSS: Kamu Personeli Seçme Sınavını,
+ğ) Kurum: Helal Akreditasyon Kurumunu,
+h) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+ı) Tez Değerlendirme Komisyonu: Helal Akreditasyon Uzman Yardımcısı tarafından hazırlanan tezi değerlendiren komisyonu,
+i) Uzman: Helal Akreditasyon Uzmanını,
+j) Uzman Yardımcısı: Helal Akreditasyon Uzman Yardımcısını,
+k) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+l) Yeterlik Sınavı: Helal Akreditasyon Uzmanlığı yeterlik sınavını,
+m) Yeterlik Sınavı Komisyonu: Helal Akreditasyon Uzmanlığı Yeterlik Sınavı Komisyonunu,
+n) Yönetim Kurulu: Helal Akreditasyon Kurumu Yönetim Kurulunu,
+ifade eder.
