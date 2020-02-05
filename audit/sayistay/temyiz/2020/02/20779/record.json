@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47191",
+  "decision_date": "2020-02-05",
+  "source_id": 20779,
+  "chamber": "5",
+  "file_number": "42848",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20779/",
+  "source_sha256": "1fdb31e62550623129c75eeb47cbfc721df749e93c36098d29e41756c3d31c1d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
