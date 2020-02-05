@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-02-05",
+      "05.02.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31030",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-02-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2020/34244",
+  "published": "2020-02-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34244&MevzuatTertip=5",
+  "source_bytes": 34822,
+  "source_id": "8.5.34244",
+  "source_sha256": "d05b49fcc33635940c171ce40c312ce30eeb0fb38541446a21ba7a7f2b48cc66",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA \r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 1568
+}
