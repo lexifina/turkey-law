@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/103",
+  "source_id": 6733,
+  "date": "2020-02-06",
+  "title": "“Bir Bankanın Potansiyel Müşteri Kazanımı Amacıyla İlgili Kişinin Kişisel Verilerini Hukuka Aykırı Şekilde İşleyerek Hesap Açmasına İlişkin Olarak Kurula Yapılan Başvuru Hakkında” Kişisel Verileri Koruma Kurulunun 06/02/2020 Tarihli ve 2020/103 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6733/2020-103",
+  "source_sha256": "77683c28fbbecec1e49d3fd433ddd51ac75a543f0a720cfd6ef46f6d2abeb807",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
