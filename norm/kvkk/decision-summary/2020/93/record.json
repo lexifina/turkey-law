@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/93",
+  "source_id": 6875,
+  "date": "2020-02-06",
+  "title": "“Geçmiş sağlık verilerinin düzeltilmesine/silinmesine yönelik şikâyetler” hakkında Kişisel Verileri Koruma Kurulunun 06/02/2020 tarihli ve 2020/93 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6875/2020-93",
+  "source_sha256": "37720bf104c0bc51bace97a99960187eae16127adc4d2e5fb8ca7f3a295f5fe4",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
