@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/86",
+  "source_id": 6732,
+  "date": "2020-02-06",
+  "title": "“Bir uçak bileti satış firması olan veri sorumlusu hakkındaki şikayetle ilgili” Kişisel Verileri Koruma Kurulunun 06.02.2020 Tarihli ve 2020/86 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6732/2020-86",
+  "source_sha256": "1f531eadbe84fea58a082989f3e14b17136bce7a85b309af3a1dcfbca8337bc4",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
