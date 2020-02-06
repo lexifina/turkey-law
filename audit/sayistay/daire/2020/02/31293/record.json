@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35616",
+  "decision_date": "2020-02-06",
+  "source_id": 31293,
+  "chamber": "2",
+  "ilam_number": "81",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31293/",
+  "source_sha256": "20fc68dedae4a865e6b6084203e11a5afa3fd7ce2f6afd13e16a91d300b26230",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
