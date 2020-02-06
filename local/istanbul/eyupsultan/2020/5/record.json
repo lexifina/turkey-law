@@ -1,0 +1,22 @@
+{
+  "number": "5",
+  "number_as_published": "2020/05",
+  "year": 2020,
+  "title": "Kemerburgaz Mahallesi 3106 parsel sayılı taşınmazın 5393 sayılı yasanın 18. maddesine göre Belediye Başkanına yetki verilmesi",
+  "decision_date": "2020-02-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-subat-ayi-meclis-kararlari/1707",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-05/1708",
+  "source_sha256": "cdefb06abd0e4c5207184a60d6dd12a3791399959c34bb7a81641fe0321be9c0",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-02-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.02.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "54aa36c3a5fa3c9a09663baa45c6004255cd6e289b67fdf92374318c7c6fa2d0"
+}
