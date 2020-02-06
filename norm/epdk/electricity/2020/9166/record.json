@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9166",
+  "decision_date": "2020-02-06",
+  "title": "10 kW üstü Lisanssız güneş enerjisine dayalı elektrik üretim tesisleri için elektrik dağıtım şirketleri tarafından yapılacak proje onay ve kabul işlemleri hakkında",
+  "resmi_gazete_date": "2020-02-12",
+  "resmi_gazete_number": "31037",
+  "categories": [
+    "25 kW Üstü Lisanssız GES’ler için Proje Onay ve Kabul Bedelleri (2022 ve öncesi 10 kW)"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aglhbgipzcM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aglhbgipzcM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=n5/JhUMuxOI="
+  ],
+  "source_sha256": "70e2922abe06bc016eb09d7800392f7c2f1c6f95949c10fe601b27416b5b2e50",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 23583,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-02-06",
+  "law_text_complete": true
+}
