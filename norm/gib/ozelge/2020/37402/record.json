@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-140[2019/8]-59117",
+  "source_id": 37402,
+  "date": "2020-02-10",
+  "title": "Sondaj Gemisinin sondaj projesinde görevli personelin helikopter ile transferi sürecinde heliporta girişleri sırasında yurt dışı çıkışlarında yurt dışı çıkış harcı ödeyip ödemeyecekleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/37402",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "faf7416fe09188b060a78edcff5caed71bedab5da65653c1b5f924d674729e73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
