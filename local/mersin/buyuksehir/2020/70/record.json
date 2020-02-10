@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "70",
+  "decision_date": "2020-02-10",
+  "title": "MEC.KAR. (Toplu Taşıma Araçları Hizmet Yönetmeliği).doc",
+  "listed_as": "70 MEC.KAR. (Toplu Taşıma Araçları Hizmet Yönetmeliği).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/70-meckar-toplu-tasima-araclari-hizmet-yonetmeligidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/10-subat-2020-meclis-kararlari",
+  "listing_sha256": "fb09a14ae6ea9db0cbe99f4f26e8d69c5d8aeb81ae4fb2445cf5949305241bf7",
+  "meeting_title": "10 ŞUBAT 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
