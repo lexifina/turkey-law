@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "223",
+  "decision_date": "2020-02-11",
+  "source_id": 31322,
+  "chamber": "4",
+  "ilam_number": "92",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31322/",
+  "source_sha256": "588cedb5d27afc4badf1b359b8d1fc49534a3bb92b389fe7456cf02551ad541d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
