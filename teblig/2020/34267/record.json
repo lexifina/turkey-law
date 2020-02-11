@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.34267",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2920 SAYILI TÜRK SİVİL HAVACILIK KANUNU UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (2020/1)",
+  "number": "34267",
+  "path": "teblig/2020/34267",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34267&MevzuatTertip=5",
+  "source_sha256": "2d5ec86b0bdac7b352143f9bf59cc4ec01d31e1a49c0c0802e80645089a718be",
+  "source_bytes": 10646,
+  "published": "2020-02-11",
+  "gazette": "31036",
+  "in_force": "2020-02-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.02.2020)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34267-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
