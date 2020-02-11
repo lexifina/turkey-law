@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/113",
+  "source_id": 7012,
+  "date": "2020-02-11",
+  "title": "“Elektronik satış hizmeti sağlayan bir şirketin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 11/02/2020 tarih ve 2020/113 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7012/2020-113",
+  "source_sha256": "70a272983324515b4722dd2c0c7b8a1c9de6a02032a3bbb3cddf3aa1ce0c4af2",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
