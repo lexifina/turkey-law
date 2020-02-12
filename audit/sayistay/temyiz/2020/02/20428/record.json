@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47202",
+  "decision_date": "2020-02-12",
+  "source_id": 20428,
+  "chamber": "8",
+  "file_number": "44821",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20428/",
+  "source_sha256": "9da3ab7051a44de6b582bde947657086f6297d81e85fbfe1b8876f87be829cc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
