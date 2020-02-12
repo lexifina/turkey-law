@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47208",
+  "decision_date": "2020-02-12",
+  "source_id": 20452,
+  "chamber": "2",
+  "file_number": "40922",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20452/",
+  "source_sha256": "b5ac85845fc75411f1b19ca50c2427a50553e2eca18c98a3c8ba1d4220dba0ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
