@@ -1,0 +1,9 @@
+Temyiz Kurulunca verilen süre aşımı yönünden talebin reddi kararına karşı karar düzeltilmesi talebinde bulunulması;
+
+230 sayılı (Asıl) İlamın 6. maddesiyle; Tıp Fakültesi biriminde sağlık hizmetleri mesai dışı fark ücretlerinin öğretim üyelerine dağıtımında mesai içi işlem karşılığı işlem puanının esas alınmadığı gerekçesiyle … TL’nin tazminine ilişkin hüküm tesis edilmiş, bu (asıl) ilam maddesine karşı Gerçekleştirme Görevlisi sıfatıyla Hemşirelik Hizmetleri Müdürü … tarafından temyiz talep edilmesi üzerine Sayıştay Temyiz Kurulunun 27.06.2018 tarihli ve 44739 tutanak (29026 ilam) sayılı Kararı ile “talebin süre aşımı yönünden reddine” karar verilmiştir.
+
+Yukarıda adı geçen sorumlu tarafından bu defa temyiz talebinin süre aşımına uğratılmadığına ilişkin belgelerle işbu Temyiz Kurulu Kararı hakkında karar düzeltilmesi talebinde bulunulmakta ise de; Temyiz Kurulunca karar verilen söz konusu (asıl) ilam maddesi, diğer sorumlulardan Harcama Yetkilisi sıfatıyla Başhekim …’ın temyiz başvurusu üzerine 27.06.2018 tarihli ve 44734 tutanak sayılı Temyiz Kurulu Kararı ile bozulduktan sonra Sayıştay 2. Dairesince yeniden yapılan yargılama sonucunda da 31.05.2019 (30.04.1019 karar) tarihli ve 323 (35583 karar) sayılı Ek İlam ile tamamen kaldırılmıştır. Dolayısıyla, ortada kamu zararı oluşturan bir ilam hükmü kalmamıştır.
+
+Sayıştay yargılama dairelerince/kurullarınca verilen hüküm/alınan karar aynı ilam maddesinden sorumlu tüm sorumlular için geçerli olmakla birlikte, (ortadan kalkmış olan) 230 sayılı İlamın 6. maddesine karşı yapılan başvurusu Sayıştay Temyiz Kurulunun 27.06.2018 tarihli ve 44739 tutanak (29026 ilam) sayılı Kararı ile süre aşımından reddedilen Gerçekleştirme Görevlisi (Hemşirelik Hizmetleri Müdürü) …’nin karar düzeltilmesi başvurusu üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 12.02.2020 tarih ve 47211 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
