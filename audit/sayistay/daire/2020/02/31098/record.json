@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "225",
+  "decision_date": "2020-02-13",
+  "source_id": 31098,
+  "chamber": "4",
+  "ilam_number": "65",
+  "item_number": 26,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31098/",
+  "source_sha256": "9b0b3434ac99541af353766b89e403976fd937c0be052cd58c49330eadc90441",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
