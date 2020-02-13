@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35618",
+  "decision_date": "2020-02-13",
+  "source_id": 31477,
+  "chamber": "2",
+  "ilam_number": "207",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31477/",
+  "source_sha256": "54b75b5ed45c54517f406983e74455856375cde2640dbbe5ca9b4a7c646ea4a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
