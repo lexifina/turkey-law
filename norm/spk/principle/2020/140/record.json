@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "140",
+  "decision_number": "10/230",
+  "date": "2020-02-13",
+  "title": "Kurul'un i-SPK.48.6.A (13/02/2020 Tarih ve 10/230 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/140",
+  "source_sha256": "799cf8ee7e1c9a30352b40e04d4939b5e48fcfe1f48a3ea402d62b080f9b40eb",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 3. Kurul Karar Organı’nın i-SPK.48.6.a (13/02/2020 tarih ve 10/230 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2020-02-13",
+    "source_clauses": [
+      "3. Kurul Karar Organı’nın i-SPK.48.6.a (13/02/2020 tarih ve 10/230 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "3e5914d5-536c-4e0d-ad83-d22d90274ece",
+    "contentSource": "IlkeKarari",
+    "contentID": 140,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK.48.6.A (13/02/2020 Tarih ve 10/230 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2020-02-13T01:00:00",
+    "kurulKararTarih": "13.02.2020",
+    "kurulToplantiNo": "10/230",
+    "bultenYili": 2020,
+    "bultenNo": 11,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "164:Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği ",
+    "baglantiliTebligler": [
+      {
+        "key": 164,
+        "value": "Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği "
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;24:Girişim Sermayesi Yatırım Ortaklıkları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 24,
+        "value": "Girişim Sermayesi Yatırım Ortaklıkları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/140",
+    "linkTarget": "_blank"
+  }
+}
