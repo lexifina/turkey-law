@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "121",
+  "decision_date": "2020-02-14",
+  "title": "MEC.KAR. ( erdemli merkez mahallesi 29 ada dini tesis).doc",
+  "listed_as": "121 MEC.KAR. ( erdemli merkez mahallesi 29 ada dini tesis).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/121-meckar--erdemli-merkez-mahallesi-29-ada-dini-tesisdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-subat-2020-meclis-kararlari",
+  "listing_sha256": "3fb1fa6d21e5e086770bd247b76b4d42675358f54a10c2f3b39bc82332bace1a",
+  "meeting_title": "14 ŞUBAT 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
