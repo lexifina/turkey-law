@@ -1,0 +1,2 @@
+Avlanan Hayvanlar ve Bu Hayvanlardan Elde Edilen Ürünler
+Madde 35 — Avlaklarda av hayvanlarından elde edilecek her türlü ürünün yurt içi veya yurt dışına nakli, devredilmesi, ticareti, kullanılması ve benzeri gibi işlemler, Kanun ile bu Kanuna bağlı çıkartılan yönetmelikler, MAK kararları, (Değişik ibare:RG-3/4/2018-30380) 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu ve bu Kanuna bağlı çıkartılan yönetmelikler ve taraf olduğumuz ulusal ve uluslararası sözleşme esaslarına göre yapılır.

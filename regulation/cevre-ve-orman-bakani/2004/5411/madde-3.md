@@ -1,0 +1,23 @@
+Tanımlar
+Madde 3 — Bu Yönetmelikte yer alan;
+a) Kanun: 4915 sayılı Kara Avcılığı Kanununu,
+b) (Değişik:RG-3/4/2018-30380) Bakanlık: Orman ve Su İşleri Bakanlığını,
+c) (Değişik:RG-3/4/2018-30380) Bakan: Orman ve Su İşleri Bakanını,
+d) Genel Müdürlük: Doğa Koruma ve Millî Parklar Genel Müdürlüğünü,
+e) (Değişik:RG-3/4/2018-30380) İldeki şube müdürlüğü: Bakanlık bölge müdürlüklerine bağlı ildeki şube müdürlüğünü,
+f) Orman İşletme Şefliği: Orman Genel Müdürlüğünün işletme müdürlüklerine bağlı birimini,
+g) Av Hayvanı: Kanun kapsamında avlanan, korunan ve Bakanlıkça belirlenen listede yer alan hayvanları,
+h) Yaban Hayvanı: Sadece suda yaşayan memeliler dışında kalan ve Bakanlıkça belirlenen bütün memelileri, kuşları ve sürüngenleri,
+i) MAK: Merkez Av Komisyonunu,
+j) Avlak: Av ve yaban hayvanlarının doğal olarak yaşadıkları veya sonradan salındıkları sahaları,
+k) Özel Avlak: Bir bütün teşkil eden özel mülkiyetteki tapulu arazilerden, Bakanlığın avlaklar için tespit ettiği ve tanımladığı şartlara uygun olan avlakları,
+l) Devlet Avlağı: Devlet ormanları, toprak muhafaza, ağaçlandırma sahaları ve benzeri yerlerle Devlet tarım işletmeleri, baraj gölleri ve emniyet sahalarında, ilgili kuruluşun muvafakatı alınarak Bakanlıkça avlak olarak ayrılan yerleri,
+m) Genel Avlak: Özel ve Devlet avlakları dışında kalan bütün av sahaları ile göl, lagün, bataklık ve sazlık gibi sahaları,
+n) Örnek Avlak: Devlet avlakları ve genel avlaklar içinde Bakanlıkça belirlenecek esaslara göre ayrılan ve işletilen veya işlettirilen avlakları,
+o) Avlanma Plânı: Envanteri yapılan, sınırları belli bir avlak alanında avlanmasına izin verilen yaban hayvanlarının tür, cinsiyet ve yaş itibariyle kaç adet, hangi usul ve kurallara uyularak ne kadar süre içerisinde avlanacağını düzenleyen ve yaşama ortamının geliştirilerek sürdürülmesi için gerekli önlemleri öngören ve Genel Müdürlükçe onaylanmış plânı,
+p) Trofe: Yaban hayvanının boynuz, diş, post ve benzeri hatıra değeri taşıyan parçalarını,
+r) Avlak Yöneticisi: İşlettirilen örnek avlakların bu Yönetmelik hükümlerine uygun olarak yönetilmesinden sorumlu olan, fakültelerin orman mühendisliği, orman endüstri mühendisliği, veteriner hekimliği, ziraat mühendisliği ve biyoloji bölümünden mezun olmuş ve yaban hayatı yönetimi konusunda (Değişik ibare:RG-3/4/2018-30380) bölge müdürlüklerince verilecek sertifikaya sahip kişileri,
+s) Avlak İşletmecisi: İşletmeye verilen örnek avlakların, 2886 Devlet İhale Kanunu hükümlerine göre, avlanma hakkını elde eden ve (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğünce belirlenen şartname ve sözleşme hükümlerine göre avlakları işleten gerçek veya tüzel kişileri,
+ş) (Ek:RG-3/4/2018-30380) Bölge müdürlüğü: Bakanlık bölge müdürlüğünü,
+t) (Ek:RG-3/4/2018-30380) Şeflik: İldeki şube müdürlüğüne bağlı şefliği,
+ifade eder.

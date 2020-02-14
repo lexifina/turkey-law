@@ -1,0 +1,2 @@
+Örnek Avlakların Etüt ve Avlanma Planı
+Madde 11 — Genel Müdürlük talimatları doğrultusunda veya (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğünce teklif edilen 7 ve 8 inci maddede belirtilen özelliklere sahip alanlar, (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğü tarafından oluşturulacak bir komisyon marifetiyle yerinde yapılacak veya yaptırılacak inceleme ve envanter çalışmaları sonucunda ön etüt raporu (Ek-1) ile avlanma planı (Ek- 2) tanzim edilerek, alanın 1/25.000 lik haritası ile birlikte onay için Genel Müdürlüğe gönderilir.

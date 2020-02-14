@@ -1,0 +1,2 @@
+Avlanma
+Madde 30 — Özel avlaklarda avlanma, esas itibariyle üretimi yapılan veya yerleştirilen türler yanında MAK kararları çerçevesinde izin verilen doğal türler için yaptırılabilir. Bu avlaklarda, avlanma esasları, zamanı ve limitleri yerleştirilen türler için avlak sahibi veya işletmesince tespit edilir. Avlakta doğal olarak bulunan ve avına izin verilen türlerin avlanma esasları, zamanı ve limitlerinde MAK kararları esastır.

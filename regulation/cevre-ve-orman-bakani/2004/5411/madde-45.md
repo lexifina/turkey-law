@@ -1,0 +1,2 @@
+Hastalık ve Zararlılarla Mücadele
+Madde 45 — Avlaklarda yangınla mücadele, 6831 sayılı Orman Kanunu ve ilgili yönetmelikler; yaban hayvanlarının hastalık ve zararlılarıyla mücadele ise (Değişik ibare:RG-3/4/2018-30380) 5996 sayılı Kanun ve ilgili yönetmelikler, yaban hayvanlarının ve yaşam alanlarının korunması ile yaban hayvanlarının zararlılarıyla mücadele, Bakanlığın belirleyeceği esas ve usuller çerçevesinde yapılır.

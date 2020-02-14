@@ -1,0 +1,3 @@
+Avlak Alanlarının Sınırlarının Belirlenmesi ve İşaretlenmesi
+Madde 9 — Alanın sınırları mümkün olduğunca yol, dere, sırt gibi doğal hatlardan geçirilmelidir. Yapay işaretlemenin zorunlu olduğu durumlarda ise arazinin topoğrafik yapısı dikkate alınarak alanın sınırlarını belirten gerekli işaretlemeler yapılır. Avlağın işlettirilmesi durumunda müteşebbis, avlağın tamamını veya bir kısmını Genel Müdürlükçe de uygun görülmesi halinde esnek plastik kaplamalı telle çevirebilir.
+(Değişik ikinci fıkra:RG-3/4/2018-30380) Bu alanlar tarım arazisi ise il gıda, tarım ve hayvancılık müdürlüklerinden 3/7/2005 tarihli ve 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu kapsamında görüş alınır.

@@ -1,0 +1,2 @@
+Avlağın Ava Kapatılması ve İptali
+Madde 22 — Örnek avlaklar, salgın hastalık çıkması, hedef tür veya türlerin çeşitli nedenlerle azalmaları, habitatın yangın, sel ve benzeri nedenlerle tahrip olması ve özelliğini yitirmesi durumunda Genel Müdürlük tarafından ava kapatılabilir. Bu avlaklarda, habitatın düzeltilememesi veya hedef türlerin çoğaltılamaması durumunda Genel Müdürlük tarafından avlak tescili iptal edilebilir.

@@ -1,0 +1,4 @@
+Özel Avlaklara Av Hayvanı Yerleştirme
+Madde 33 — Avlak işletmecileri, avlağa av hayvanı yerleştirmeden bir hafta önce av hayvanının sağlıklı olduğunu belirtir Hükümet veterinerinden alınmış sağlık belgesini (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğüne verir. Avlak işletmecisi, (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğünün onayını müteakip av hayvanlarını avlağa yerleştirebilir. Avlak sahibi veya işletmecisi yerleştireceği av hayvanlarını ve miktarlarını içeren bir belgeyi avlağın bulunduğu yerin mülki amirliğine vermek zorundadır.
+Av hayvanı üretimi yapmayan veya üretim kapasitesinin üzerinde av yaptırmak isteyen avlak işletmecileri, temin ettikleri av hayvanı türlerini yasal yollardan elde edildiğini belgelemekle yükümlüdür.
+Av hayvanı türlerinin, av stoku olarak avlakta bulundurulacağı alana yerleştirilmesi (Değişik ibare:RG-3/4/2018-30380) ildeki şube müdürlüğünden bir yetkilinin gözetiminde yapılır.

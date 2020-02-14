@@ -1,0 +1,3 @@
+Personel İstihdamı ve İşbirliği
+Madde 23 — Avlaklarda, avlakların büyüklüğüne ve özelliğine göre koruma hizmeti işlemi yapmak için avlanma planı doğrultusunda belirlenen sayıda personel istihdam edilir. Bu personel öncelikle yöre halkından sağlanacak olup, bu hususla ilgili esaslar Bakanlıkça ayrıca belirlenir.
+Bu alanlarda koruma, üretim, bakım ve avcılığın düzenlenmesinde köy tüzel kişilikleri ve belde belediyeleriyle işbirliği yapılabilir. Bu işbirliğinin nasıl yapılacağı ile işbirliği yapılan avlaklardan sağlanan gelirlerden köy tüzel kişiliğine ve belde belediyelerine verilecek miktarın alt ve üst sınırları sahanın özelliğine göre Bakanlıkça belirlenir.

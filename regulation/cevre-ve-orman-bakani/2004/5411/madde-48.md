@@ -1,0 +1,2 @@
+Özel Avlak Kurucu ve İşletmecisi Olamayacak Kişiler
+Madde 48 — Özel avlak kurucu ve işletmecisi olmak için başvuruda bulunanlardan başvuru tarihinden geriye doğru son beş yıl içerisinde 4915 sayılı Kara Avcılığı Kanunu ile 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanuna muhalefet suçu işleyen kişiler, hiçbir şekilde özel avlak kurucusu ve işletmecisi ile örnek avlak işletmecisi olamazlar.
