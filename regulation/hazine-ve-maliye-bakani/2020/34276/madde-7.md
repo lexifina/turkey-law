@@ -1,0 +1,2 @@
+Bilgilendirme yükümlülüğünün gereği gibi yerine getirilmemesi
+MADDE 7 – (1) Sigorta sözleşmesinin kurulması ve devamı sırasında; bilgilendirme yükümlülüğü gereği gibi yerine getirilmemiş veya sigortacı hakkında yanıltıcı bilgi verilmiş veya Bilgilendirme Metninde yer alan bilgiler gerçeğe aykırı şekilde düzenlenmiş ve bu hâllerden herhangi biri sigorta ettirenin kararına etkili olmuş ise sigorta ettiren sigorta sözleşmesini feshedebileceği gibi, varsa uğradığı zararın tazminini de talep edebilir.

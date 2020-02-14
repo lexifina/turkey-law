@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34276",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTA SÖZLEŞMELERİNDE BİLGİLENDİRMEYE İLİŞKİN YÖNETMELİK",
+  "number": "34276",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2020/34276",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34276&MevzuatTertip=5",
+  "source_sha256": "9ae4a6ab7c4b644bd64ad7b74486f249ae96bd41608f3175e147090978713478",
+  "source_bytes": 31140,
+  "published": "2020-02-14",
+  "gazette": "31039",
+  "in_force": "2020-02-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.02.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1511,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

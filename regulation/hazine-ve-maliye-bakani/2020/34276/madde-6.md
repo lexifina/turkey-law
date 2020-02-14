@@ -1,0 +1,2 @@
+Bilgilendirme ile yükümlü olanlar
+MADDE 6 – (1) Sigorta sözleşmesinin kurulması ve devamı sırasında, 12 nci ve 13 üncü madde hükümleri hariç olmak üzere, sigortacı için bu Yönetmelikte öngörülen yükümlülükler sigorta acenteleri için de geçerlidir. Ancak, sigorta şirketinin kurmuş olduğu kayıtlı veri saklayıcısı ile acentenin düzenlediği sigorta sözleşmeleri için de bu Yönetmeliğin öngördüğü biçimde bilgilendirme yapılıyor ise acentenin bilgilendirme yükümlülüğü ortadan kalkar.
