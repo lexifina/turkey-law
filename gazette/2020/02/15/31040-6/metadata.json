@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-02-15",
+  "issue": "31040",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "2872 Sayılı Çevre Kanununun 20 nci Maddesinin Birinci Fıkrasının (k) Bendi Uyarınca Verilecek İdari Para Cezalarına İlişkin Tebliğ (2020/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200215-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200215.htm",
+  "index_sha256": "7f9a5e7cbfc7c073a7bc6d967342d47826bad45a6e75237dd5a4079410f8d555",
+  "index_header": "15 Şubat 2020 ... 31040 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200215.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
