@@ -1,0 +1,6 @@
+Sınav kurulu
+MADDE 14 – (1) (Değişik:RG-11/5/2015-29352) Sınav kurulu, atamaya yetkili amir veya görevlendireceği kişinin başkanlığında, Kurumun Personel Başkanlığı temsilcileriyle, atamaya yetkili amirce belirlenecek, ast birliklerde görev yapan personelin de dahil olabileceği diğer üyelerin katılımıyla toplam beş kişiden teşekkül eder. Kurul, gerekli hazırlıkların yapılabilmesi için görevde yükselme sınavından en az iki ay önce bilgilendirilir. Ayrıca aynı usulle yedek üyeler de seçilir.
+(2) Sınav kurulları üye tam sayısıyla toplanır. Kararlar oy çokluğuyla alınır ve çekimser oy kullanılmaz.
+(3) Sınav kurulunun başkan ve üyeleri; eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının katıldıkları sınavda görev alamazlar. Bu durumdaki üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yeni üye veya üyeler görevlendirilir.
+(4) Sınav kurulunu teşkil eden üyeler görevde yükselme sınavına alınacak personelden öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar.
+(5) (Değişik:RG-11/5/2015-29352) Sınav kurulunun sekretarya görevleri Kurumun personel başkanlığı devlet memuru ve iş/işçi münasebetleri ile ilgili Şube Müdürlüğü tarafından yürütülür.
