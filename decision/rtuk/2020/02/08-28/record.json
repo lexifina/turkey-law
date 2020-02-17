@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2020/08",
+  "meeting_date": "2020-02-17",
+  "meeting_date_as_published": "17.2.2020",
+  "decision_no": "28",
+  "source_id": 12950,
+  "title": "RTÜK kararı 2020/08-28",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/12950",
+  "source_sha256": "ee1d539f3ffbc90cbfece9584be3e78927a5213f798db956b0ca2b5650a3c96e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
