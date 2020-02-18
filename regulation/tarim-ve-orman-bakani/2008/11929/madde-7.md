@@ -1,0 +1,3 @@
+Bilgi ve belgelerin bildirim zorunluluğu
+MADDE 7 – (1) Gerçek ve tüzel kişiler her yıl aralık ayında, çalıştırdıkları tütün eksperlerinin isimlerini (Değişik ibare:RG-9/11/2016-29883) bir liste halinde (Değişik ibare:RG-18/2/2020-31043) Bakanlığa bildirirler. Serbest çalışan tütün eksperleri de istenilen bilgi ve belgeleri her yıl aralık ayında (Değişik ibare:RG-18/2/2020-31043) Bakanlığa bildirmekle yükümlüdürler.
+(2) (Değişik:RG-9/11/2016-29883) Bilgi ve belgelerde meydana gelen değişiklikler ile çalışmaya yeni başlayan veya işten ayrılan tütün eksperleri on beş iş günü içinde (Değişik ibare:RG-18/2/2020-31043) Bakanlığa bildirilir.

@@ -1,0 +1,11 @@
+DÖRDÜNCÜ BÖLÜM
+Meslekî Sorumluluklar
+Meslekî sorumluluklar
+MADDE 15 – (1) Tütün eksperlerinden;
+a) İşlenmemiş tütünlerin vasıf, değer ve nevilerinin tayininde hatalı hareket ederek parti bazında yüzde ondan fazla yanılmak suretiyle gerçek ve tüzel kişileri zarara soktuğu,
+b) Tütünlerin, bakım, işleme, iç ve dış ticaret ve fabrikasyon safhalarındaki teknik işlerde hatalı hareket etmek suretiyle gerçek veya tüzel kişileri zarara soktuğu,
+c) Mevzuata aykırı bir şekilde bilirkişilik ve hakemlik yaptığı,
+kesinleşmiş mahkeme kararı ile saptanmış olanlar birinci defasında üç ay, ikinci defasında altı ay süre ile tütün eksperliği görev ve yetkilerini kullanamazlar.
+(2) Birinci fıkrada sayılan fiil ve hareketleri üçüncü defa tekrarlayanlar, görev ve yetkileri ile ilgili olarak kasıtlı hareket ettiği mahkeme kararı ile saptanmış olanlar, medeni haklarını kullanma ehliyetini kaybedenler, 5237 sayılı Türk Ceza Kanununun dördüncü kısmında yer alan millete ve devlete karşı suçlar ile hırsızlık, güveni kötüye kullanma, dolandırıcılık, hileli iflâs, sahtecilik ve ihaleye fesat karıştırma, kaçakçılık suçları ve 4733 sayılı Kanunda tanımlanan suçlardan birine muhalefetten altı aydan fazla olmak üzere mahkumiyeti bulunanlar tütün eksperliği görev ve yetkilerini sürekli olarak kullanamazlar.
+(3) (Değişik ibare:RG-18/2/2020-31043) Bakanlık tarafından, sektörde çalışan tüm tütün eksperlerinin görev, yetki ve meslekî sorumluluklarıyla ilgili kesinleşmiş adlî ve idarî kararlar kütük defterine kaydedilir. İlgili kurum ve kuruluşlar, kesinleşmiş adlî ve idarî cezaları (Değişik ibare:RG-18/2/2020-31043) Bakanlığa bir ay içinde bildirirler.
+(4) Serbest mühendis ve müşavir olarak çalışan tütün eksperleri her yıl kasım ayında, affa uğramış ya da ertelenmiş olsalar bile 5237 sayılı Türk Ceza Kanununun dördüncü kısmında yer alan millete ve devlete karşı suçlar ile hırsızlık, güveni kötüye kullanma, dolandırıcılık, hileli iflâs, sahtecilik ve ihaleye fesat karıştırma, kaçakçılık suçları ve 4733 sayılı Kanunda tanımlanan suçlardan birine muhalefetten altı aydan fazla olmak üzere mahkumiyeti olmadığını belirtir (Değişik ibare:RG-3/4/2012-28253) adli sicil kaydına ilişkin beyanını, (Değişik ibare:RG-18/2/2020-31043) Bakanlığa vermekle yükümlüdürler.
