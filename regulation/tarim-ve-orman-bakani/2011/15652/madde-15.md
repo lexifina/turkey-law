@@ -1,0 +1,4 @@
+Acil güvenilirlik kısıtlamaları
+MADDE 15 ‒ (1) Veteriner tıbbi ürünlerle ilgili olarak insan ya da hayvan sağlığı veya çevre açısından bir risk teşkil eden durumlarda, pazarlama izni sahibi acil güvenilirlik kısıtlamalarını uygulamaya koyar ve derhal Bakanlığı bilgilendirir. Bakanlık, bilgilerin alınmasından itibaren yirmi dört saat içerisinde herhangi bir geri bildirimde bulunmaz ise acil güvenilirlik kısıtlamaları kabul edilmiş sayılır.
+(2) Bakanlık acil güvenilirlik kısıtlamaları uyguladığı hallerde, pazarlama izni sahibi, Bakanlığın uyguladığı güvenilirlik kısıtlamalarını göz önünde bulundurarak değişiklik için bir başvuru yapmak zorundadır.
+(3) Pazarlama izni sahibi, kendisinin veya Bakanlığın başlattığı acil güvenilirlik kısıtlamaları ile ilgili başvuruyu, kısıtlamanın başladığı tarihten itibaren derhal ve en geç on beş gün içinde, başvuruyu destekleyen bilgilerle Bakanlığa iletmek zorundadır.

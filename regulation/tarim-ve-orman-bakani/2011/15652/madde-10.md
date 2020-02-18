@@ -1,0 +1,3 @@
+Tip IA küçük değişikliklerin değerlendirilmesi
+MADDE 10 ‒ (1) Bir Tip IA küçük değişiklik için, pazarlama izni sahibi, Ek IV'te sıralanan öğeleri içeren bir bildirimi Bakanlığa sunar. Bu bildirim, değişiklik uygulamaya konulduktan sonra on iki ay içinde gönderilecektir. Bununla birlikte, söz konusu tıbbi ürünün sürekli denetimi açısından derhal bildirimde bulunulmasını gerektiren küçük değişiklikler için, bu bildirim değişiklik uygulamaya konulduktan hemen sonra gönderilecektir.
+(2) Bakanlık, bildirim alındıktan sonra otuz gün içinde, başvuruyu değerlendirir ve 13 üncü madde hükümlerini uygular.
