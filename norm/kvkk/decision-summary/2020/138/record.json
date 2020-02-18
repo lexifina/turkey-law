@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/138",
+  "source_id": 6887,
+  "date": "2020-02-18",
+  "title": "“Veri sorumlusu işveren tarafından, iş sözleşmesi tek taraflı olarak feshedilen ve işe iade davası açan ilgili kişiye ait özlük dosyasında yer alan sağlık raporunun dava savunmasında kullanılmak suretiyle mahkemeye sunulması” hakkında Kişisel Verileri Koruma Kurulunun 18/02/2020 tarihli ve 2020/138 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6887/2020-138",
+  "source_sha256": "f1891d92c48a0e63f175be85344296e6a1ea10a7b0266070401d4a1271036633",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
