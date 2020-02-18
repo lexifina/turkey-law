@@ -1,0 +1,5 @@
+İdari yaptırımlar
+MADDE 33 – (1) Bakanlıktan onaylı olmayan üretim tesislerinde bitki koruma üretimi yapan gerçek ve tüzel kişilere, 5996 sayılı Kanunun 39 uncu maddesinin birinci fıkrasının (a) bendinde belirtilen idari para cezası verilir ve bu gerçek ve tüzel kişiler faaliyetten men edilir. Üretilmiş olan bitki koruma ürünlerinin masrafları sorumlusuna ait olmak üzere piyasadan toplatılır ve imha edilmek üzere mülkiyeti kamuya geçirilir.
+(2) Bakanlıktan onaylı üretim tesislerinde ruhsatlı olmayan bitki koruma ürünlerinin üretilmesi durumunda üretimi yapan gerçek veya tüzel kişilere, 5996 sayılı Kanunun 39 uncu maddesinin birinci fıkrasının (b) bendinde belirtilen idari para cezası verilir ve üretim tesisi için verilen işletme izni bir yıl süre ile askıya alınır.
+(3) Bitki koruma ürünleri ile ilgili bu Yönetmelikte belirtilen kayıtları tutmayan üretim tesisine sahip gerçek ve tüzel kişilere, 5996 sayılı Kanunun 39 uncu maddesinin birinci fıkrasının (g) bendinde belirtilen idari para cezası verilir.
+(4) Bakanlıkça yapılacak kontrollerde üretim yeri değişikliği tespit edilen tesislere verilen üretim izni iptal edilir.
