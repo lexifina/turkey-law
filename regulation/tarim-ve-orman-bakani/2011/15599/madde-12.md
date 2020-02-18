@@ -1,0 +1,7 @@
+Denetim ve idari yaptırımlar
+MADDE 12 – (1) Bakanlık, bu Yönetmelik hükümlerine uygun olmayan ürünleri toplamaya veya toplattırmaya, gerektiğinde analiz ettirmeye, imha etmeye veya ettirmeye yetkilidir.
+(2) Bu Yönetmelik hükümlerine uymayan ürünler hatalı olarak kabul edilir. Denetimlerde hatalı olduğu tespit edilen ürünlerden, hatası giderilebilecek olanlar, bildirim sahibi tarafından piyasadan toplatılır, iyileştirme işleminden sonra Bakanlığın izni ile tekrar piyasaya verilebilir. Hatası giderilemeyecek veya insan, hayvan ve çevre sağlığına zararları kesin olarak ortaya konmuş ürünler piyasadan toplatılır ve imha edilmek üzere mülkiyetinin kamuya geçirilmesine karar verilir. Ürünlerin imhası ile ilgili tüm masraflar bildirim sahibine aittir.
+(3) Bakanlığa bildirimde bulunmadan ürünleri ithal eden, üreten veya piyasaya arz eden, bildirimden farklı şekilde ürünü piyasaya arz edenlere ve ürünlerin tanıtımı ile ilgili hususlara riayet etmeyenlere Kanunun 37 nci maddesinin birinci fıkrasının (f) bendinde belirtilen yaptırım uygulanır.
+(4) Bakanlık, ürünlerin toplatılması, iyileştirilmesi veya imha ettirilmesi gibi talimatlarına uymayan bildirim sahiplerinin, tıbbi olmayan ürünlerle ilgili faaliyet göstermesini engelleyebilir.
+(5) İki defa hatalı olarak piyasaya arz edilen ürünlerin, iki yıl süreyle üretimi, ithalatı ve piyasaya arzı yasaklanır.
+(6) Genel Müdürlük, bu Yönetmelik hükümlerine uymayan ürünlerle ilgili internet sitesi üzerinden duyuruda bulunur.
