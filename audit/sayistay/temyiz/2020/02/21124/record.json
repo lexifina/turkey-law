@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47241",
+  "decision_date": "2020-02-19",
+  "source_id": 21124,
+  "chamber": "2",
+  "file_number": "44987",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21124/",
+  "source_sha256": "08383566b809ec4abba0f9c08ac94eb1c07c7b213c63c3d714cec504f7283bde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
