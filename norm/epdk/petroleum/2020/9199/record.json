@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9199",
+  "decision_date": "2020-02-20",
+  "title": "7742 sayılı Dağıtıcılar Arası Akaryakıt Ticareti Hakkında Kararda Değişiklik Yapılmasına İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2020-02-25",
+  "resmi_gazete_number": "31050",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vN6GqZWeM3E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vN6GqZWeM3E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Fspirh/RLxg="
+  ],
+  "source_sha256": "f6aaeada21640272dbf9e9b36c6621ce6f835d09da7d543e95ad46cb3046f49c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-02-20",
+  "law_text_complete": true
+}
