@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-130[2016-02-6057]-76516",
+  "source_id": 31537,
+  "date": "2020-02-20",
+  "title": "Aktifte kayıtlı bulunan taşınmazın leasing şirketine satışı, kiralanması ve geri alınmasında KDV ve Kurumlar Vergisi uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31537",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5c850fd1d4e6dea3c86e619fcba0bf3e66e8c000d4a658191f8a25c2cf4100d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
