@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "355",
+  "decision_date": "2020-02-20",
+  "source_id": 31296,
+  "chamber": "3",
+  "ilam_number": "203",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31296/",
+  "source_sha256": "14ce7e21b0817fb16c71cd6c426f2126c377f8740165dca22dc966ed882c5a02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
