@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-02-21",
+  "issue": "31046",
+  "edition": "mükerrer 1",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğde Değişiklik Yapılmasına Dair Tebliğ (No: 2020/6)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200221M1-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200221M1.htm",
+  "index_sha256": "d6c76435666a6632a61492beb85888572b646756841b2ad4ff9722937f493c47",
+  "index_header": "21 Şubat 2020 ... 31046 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200221M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
