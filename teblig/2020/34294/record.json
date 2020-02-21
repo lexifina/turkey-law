@@ -1,0 +1,34 @@
+{
+  "source_id": "9.5.34294",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2020/4)",
+  "number": "34294",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2020/34294",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34294&MevzuatTertip=5",
+  "source_sha256": "30b1fe215d53fe4b159c216f6ea1251742ac686ca6dd24277d6ae34005deaabb",
+  "source_bytes": 13216,
+  "published": "2020-02-21",
+  "gazette": "31046 (Mükerrer)",
+  "in_force": "2020-02-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.02.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 127,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34294-Ek1.doc",
+    "9.5.34294-Ek2.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
