@@ -1,0 +1,4 @@
+Dördüncü sınıf staj tekrarı
+MADDE 21 – (1) IV. sınıfta öğrenci staj sonuna kadar klinik/pratik uygulamaların en az %60’ını eksiksiz ve başarılı olarak tamamlamak zorundadır. Klinik/pratik uygulamaları eksik veya başarısız olan öğrenci staj sonu, bütünleme ve tek ders sınavına alınmaz. Klinik/pratik uygulamalarını başarıyla tamamlayamayan öğrenci başarısız sayılır ve o klinik/pratik uygulamayı bir sonraki öğretim yılında tekrar eder.
+(2) IV. sınıfta staj sonuna kadar klinik/pratik uygulamaların en az %60’ını eksiksiz ve başarılı olarak tamamlayan öğrenci, eksik kalan uygulamaların 2 katını stajdaki uygulamaların %25’inden az olmamak koşuluyla, akademik takvimde belirlenen telafi süresinde tamamlar.
+(3) Telafi stajından başarılı olmak için telafinin staj sonu sınavından en az 60 puan almak gerekir. Telafi stajından başarılı olanlar bütünleme sınavına girebilirler.

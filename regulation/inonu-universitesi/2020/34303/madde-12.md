@@ -1,0 +1,2 @@
+Akademik danışmanlık
+MADDE 12 – (1) Her öğrenci için Dekan tarafından bir danışman görevlendirilir. Danışman öğrenciyi izler, eğitim-öğretim çalışmaları ve üniversite yaşamı ile ilgili sorunların çözümünde öğrenciye yardımcı olur. Öğrencinin yarıyılda/yılda izleyeceği dersler, programında yapılacak değişiklikler ve kayıt yenileme işlemleri danışman onayı ile kesinleşir. Danışmanların görevleri ile ilgili konular Senato tarafından düzenlenir.

@@ -1,0 +1,7 @@
+Kayıt yenileme, ders alma
+MADDE 9 – (1) Öğrenciler; her ders yılı başında bir önceki yılın başarı durumuna göre ve akademik takvimde belirtilen süreler içinde Üniversite Yönetim Kurulunun tespit ettiği esaslar çerçevesinde, öğrenci katkı payını/öğrenim ücretini süresi içinde ödeyerek kaydını yenilemek, ders kaydını yaptırmak ve akademik danışmanına onaylatmak zorundadır.
+(2) Akademik takvimde belirtilen süre içinde kaydını yenilemeyen ve geçerli mazereti olan öğrencinin kaydı, öğrencinin mazeretini belirten bir dilekçe ile yarıyılın başladığı tarihi izleyen ikinci haftanın sonuna kadar Dekanlığa başvurması hâlinde, Fakülte Yönetim Kurulu kararı ile eğitim-öğretimin başladığı tarihi izleyen dördüncü haftanın sonuna kadar yenilenir.
+(3) Azami süre içerisinde mezun olamayanlar, 2547 sayılı Kanunun 46 ncı maddesine göre hesaplanmış ilgili döneme ait öğrenci katkı payını/öğrenim ücretini ödemek koşulu ile devam edecekleri ve/veya sınavlarına girecekleri derslerin kayıtlarını, akademik takvimde belirtilen ders kaydı süresi içinde yaptırmaları gerekir. Dersin programdan kalkmış olması durumunda, öğrenci Eğitim-Öğretim Alt Kurulunca onaylanmış yürürlükte olan programdaki eşdeğer derse kaydını yaptırır ve öğrencinin bu dersten başarılı olması gerekir. Bu durumdaki öğrenci, ders ve sınavlara katılma ile staj hariç, öğrenciye tanınan diğer haklardan yararlanamaz.
+(4) Öğrencinin kayıt yenilemediği yarıyıllar/yıllar öğrenim süresinden sayılır.
+ÜÇÜNCÜ BÖLÜM
+Eğitim Süresi, Öğretim Dili, Danışman, Öğretim Programı, Öğretim Yılı,

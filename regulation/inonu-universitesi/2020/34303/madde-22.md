@@ -1,0 +1,5 @@
+Beşinci sınıf staj tekrarı
+MADDE 22 – (1) V. sınıfta öğrenci staj süresi içinde anabilim dalları tarafından belirlenen klinik/pratik uygulamaların en az %80’ini eksiksiz ve başarılı olarak tamamlamak zorundadır. Klinik/pratik uygulamaları eksik veya başarısız olan öğrenci staj sonu, bütünleme ve tek ders sınavına alınmaz. Klinik/pratik uygulamalarını başarıyla tamamlayamayan öğrenci başarısız sayılır ve o klinik/pratik uygulamayı bir sonraki öğretim yılında tekrar eder.
+(2) V. sınıfta staj sonuna kadar klinik/pratik uygulamaların en az %80’ini eksiksiz ve başarılı olarak tamamlayan öğrenci eksik kalan uygulamaların 2 katını stajdaki uygulamaların %25’inden az olmamak koşuluyla, akademik takvimde belirlenen telafi süresinde tamamlar.
+(3) Telafi stajından başarılı olmak için telafinin staj sonu sınavından en az 60 puan almak gerekir. Telafi stajından başarılı olanlar bütünleme sınavına girebilirler.
+(4) Staj tekrarında başarısız olanlar takip eden öğretim yılında yıl içinde yapılacak iş günü sayısı kadar devam ederek klinik stajı tekrarlar. Klinik uygulamadan geçinceye kadar, klinik uygulamayı tekrar eder.

@@ -1,0 +1,3 @@
+Yatay geçiş yoluyla öğrenci kabulü ve ders muafiyeti
+MADDE 6 – (1) Yatay geçişler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato tarafından belirlenen esaslara göre yapılır.
+(2) Yatay geçiş yapan öğrenciler ile daha önce kayıtlı olduğu yükseköğretim kurumundan almış ve başarmış olduğu derslerden muafiyet talebinde bulunan öğrencilerin derslerinin denklikleri ve muafiyet işlemleri, Senato tarafından belirlenen esaslara göre Fakülte Yönetim Kurulunca yapılır.

@@ -1,0 +1,3 @@
+Ön koşul
+MADDE 18 – (1) Fakültede her öğretim yılında uygulanan bütün zorunlu teorik, pratik ve klinik dersler, bir sonraki yılın ön koşuludur. Fakültede ders geçme değil sınıf geçme sistemi uygulanır. Kaydını yenileyen öğrenci o yıl programının bütün derslerine kaydolmuş sayılır. Öğrenci, o yıla ait derslerin birinden dahi başarısız olursa ertesi yılda, bir üst sınıftan hiçbir ders alamaz ve sadece başarısız olduğu dersi/dersleri tekrarlar. Ancak bunları başardıktan sonra bir üst sınıfa geçer.
+(2) Öğretim programlarında yer alan dersler ile programların yürütülüşü konusunda Fakülte Kurulunun önerisi ve Senatonun onayı ile başka şartlar konabilir.

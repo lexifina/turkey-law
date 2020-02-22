@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.34303",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İNÖNÜ ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "34303",
+  "issuer": "İNÖNÜ ÜNİVERSİTESİ",
+  "issuer_slug": "inonu-universitesi",
+  "path": "regulation/inonu-universitesi/2020/34303",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34303&MevzuatTertip=5",
+  "source_sha256": "90d51f57bc2fec4d0f3e83044b4e8385abea7509f0aba0e90960fc34bdd000ae",
+  "source_bytes": 86206,
+  "published": "2020-02-22",
+  "gazette": "31047",
+  "in_force": "2020-02-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.02.2020); own commencement article: \"Bu Yönetmelik 2020-2021 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2020-2021 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5042,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
