@@ -1,0 +1,2 @@
+Hazırlık sınıfı sınavları ve değerlendirme
+MADDE 12 – (1) Bir yarıyılda en az üç ara sınav, konulara göre belirlenecek sayıda da küçük sınavlar yapılır. Her yarıyılın başarı notu, ara sınavların ortalamasının %50’si, küçük sınavların ortalamasının %30’u, ödevlerin ortalamasının %15’i ve kanaat notunun %5’inin toplamından oluşur. Hazırlık sınıfı genel başarı notunun belirlenmesinde birinci yarıyılın başarı notunun katkısı %50, ikinci yarıyılın başarı notunun katkısı %50’dir. Ara sınavların tarihlerini Yabancı Diller Yüksekokulu belirler.
