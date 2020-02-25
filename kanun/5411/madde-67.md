@@ -7,4 +7,5 @@ d) Aktif kalitesinin malî bünyeyi zayıflatabilecek şekilde bozulması,
 e) Bu Kanuna ve ilgili düzenlemelere veya Kurulca alınan kararlara aykırı nitelikte karar, işlem ve uygulamalarının bulunması,
 f) İç denetim, iç kontrol ve risk yönetim sistemlerini kurmaması veya bu sistemleri etkin ve yeterli bir şekilde işletmemesi veya denetimi engelleyici herhangi bir hususun bulunması,
 g) Yönetiminin basiretsizliği nedeniyle bu Kanun ve ilgili mevzuat ile tanımlanmış risklerin önemli ölçüde artması veya malî bünyeyi zayıflatabilecek şekilde yoğunlaşması,
+h) (Ek:20/2/2020-7222/7 md.) 66/A maddesi kapsamında önlem planında öngörülen tedbirleri derhal almaması, alınan tedbirlere rağmen sorunların giderilememesi veya tedbirlerin alınması durumunda dahi sonuç alınamayacağının belirlenmesi,
 Hâllerinden herhangi birinin tespit edilmesi durumunda, bu Kanunun 68 inci, 69 uncu ve 70 inci maddelerinde öngörülen tedbirler derhal alınır.
