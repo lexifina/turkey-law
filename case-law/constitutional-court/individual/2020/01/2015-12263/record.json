@@ -1,0 +1,20 @@
+{
+  "applicant": "E.A.K.",
+  "application_date": "2015-07-16",
+  "application_number": "2015/12263",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-01-16",
+  "id": "2a3ce14d-6d09-ade5-0ddc-9a44712be089",
+  "in_force": "2020-02-25",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-02-25",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJhM2NlMTRkLTZkMDktYWRlNS0wZGRjLTlhNDQ3MTJiZTA4OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bdb2ee8dc31eb1ff58036d01226b3e903c512338b7f0db918e24b416ca16ad14",
+  "version_label": "as-enacted"
+}
