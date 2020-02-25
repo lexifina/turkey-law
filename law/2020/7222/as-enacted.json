@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7222",
+  "year": 2020,
+  "title": "Bankacılık Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-02-25",
+  "gazette_issue": "31050",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200225-12.htm",
+  "source_sha256": "b0aa6628616b3244a8471cc1386820ea17a943e7a8ca8f0e95a666a68e901986",
+  "text_sha256": "31219ecefc31b98bca8e5a4a7e184db6cf44f6ca1113bc80b9ad9f3c14571221",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/02/25/31050-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200225-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
