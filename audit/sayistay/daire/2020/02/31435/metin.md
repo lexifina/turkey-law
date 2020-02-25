@@ -1,0 +1,11 @@
+Yakacak Yardımı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Her ne kadar Denetçi tarafından işçilere ödenen yıllık izin ücretinin kapsamına yakacak yardımının dahil edilmesi suretiyle kamu zararına neden olunduğunun iddia edildiği görülmüşse de;
+
+İdare ile … Sendikası arasında akdedilmiş olan Toplu İş Sözleşmesi’nde; bahse konu yakacak yardımının her ay maaşla birlikte belirlenen net bir tutar üzerinden ödeneceğinin düzenlendiği görülmektedir. Sendika ile belediye arasında imzalanan sözleşmede yakacak yardımının fiili çalışma ile ilişkilendirilmesi zorunluluğu bulunmamaktadır. Bununla birlikte, yapılan incelemede yakacak yardımının yıllık izin ücretine dahil edilmediği de görülmüştür. Bordro örneklerinde de görüleceği üzere, yıllık izin ücretleri tahakkuk ettirilirken işçilerin çıplak ücretinin temel alındığı ve hesaplamada çıplak ücrete ilave edilen herhangi bir unsurun bulunmadığı anlaşılmıştır.
+
+Yakacak yardımının, yıllık izin ücreti gibi hesaplanan bir meblağ olmadığı ve sözleşmenin tarafları arasında pazarlık edilerek kararlaştırılan bir meblağ olarak fiili çalışma şartı ile ilişkilendirilmeksizin her ay belirlenen miktarın maaş ile birlikte ödenmesi şeklinde kararlaştırıldığı dikkate alındığında; 4857 sayılı İş Kanunu’nun 57’nci maddesine aykırı bir durumun ortaya çıkmadığı görülmektedir.  Sosyal bir ödeme unsuru olarak yakacak yardımının her ay belirli bir tutar olarak ödenmesinin toplu sözleşme çerçevesinde kararlaştırılması durumu ile yıllık izin ücreti hesabında ayrıca yakacak yardımının hesaplanarak mükerrer ödemede bulunulması durumunu birbirine karıştırmamak gerekmektedir. Sorgu konusu olayda, yakacak yardımı sosyal bir ödeme olarak fiili çalışma şartına bağlanmaksızın net bir tutar üzerinden ödenmiş, yıllık izin ücreti hesaplamalarında ise söz konusu yakacak yardımının günlük tutarı izin ücreti hesabına dahil edilmeden hesaplama yapılmıştır. Dolayısı ile herhangi bir mükerrer ödemede bulunulmamıştır.
+
+Bu itibarla; mevzuatına uygun olduğu anlaşılan sorgu konusu …-TL ödeme hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.

@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "733",
+  "decision_date": "2020-02-25",
+  "source_id": 31435,
+  "chamber": "6",
+  "ilam_number": "86",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31435/",
+  "source_sha256": "114a70046a6cd868d504499afd81045ee6467ef2402da96466a72039cb4b30a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
