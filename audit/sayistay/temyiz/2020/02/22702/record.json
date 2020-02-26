@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47243",
+  "decision_date": "2020-02-26",
+  "source_id": 22702,
+  "chamber": "5",
+  "file_number": "46096",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22702/",
+  "source_sha256": "216a0068cf75592cd3ae6aa76dece0850ed42e50963b24d895e5fa0472249742",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
