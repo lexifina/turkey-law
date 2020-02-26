@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-02-26",
+  "issue": "31051",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": null,
+  "title": "Veri Depolama Kuruluşuna Yapılacak Raporlamalara İlişkin Esaslar Hakkında Tebliğ (IV-87.1)’de Değişiklik Yapılmasına Dair Tebliğ (IV-87.1.a)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200226-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200226.htm",
+  "index_sha256": "5c0756e2e0848ef0c5af4baefc86354af8df06377a0b7fecba054e12f7b52420",
+  "index_header": "26 Şubat 2020 ... 31051 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200226.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
