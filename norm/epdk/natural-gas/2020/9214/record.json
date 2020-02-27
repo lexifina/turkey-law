@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9214",
+  "decision_date": "2020-02-27",
+  "title": "Kızılcahamam Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-02-29",
+  "resmi_gazete_number": "31054",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rDOjeGgHWu4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rDOjeGgHWu4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YAIAtoGVzYA="
+  ],
+  "source_sha256": "d1b7f3c66989b25561b1594e9fa950cb4119918bafd414c286784798bc7515a8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-02-27",
+  "law_text_complete": true
+}
