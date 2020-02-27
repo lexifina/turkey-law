@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "226",
+  "decision_date": "2020-02-27",
+  "source_id": 31275,
+  "chamber": "4",
+  "ilam_number": "91",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31275/",
+  "source_sha256": "87bbc2f52c0615e1a60da141ce182bd93f52ea54bf858361b3ae9abe408b3a4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
