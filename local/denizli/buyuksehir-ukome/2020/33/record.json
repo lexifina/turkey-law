@@ -1,0 +1,24 @@
+{
+  "number": "33",
+  "number_as_published": "2020/02/33",
+  "year": 2020,
+  "title": "Planlama ve Yapım Şube Müdürlüğü’nün yazısında belirtilen Merkezefendi İlçesi Fen İşleri Müdürlüğü'nün Gümüşçay Mahallesi Alparslan Caddesi ve Yenişehir Mahallesi 41 Sokak üzerine yükseltilmiş yaya geçidi yapılması talebi.",
+  "decision_date": "2020-02-27",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=02.2020",
+  "official_document": null,
+  "source_sha256": "093d9685e0478ac4a3f987dba6c7d6c4be05372508145e2dbb7182c873aa2488",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2020-02-27",
+  "in_force_basis": "Decision date as printed in the official council listing: 27.02.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "02",
+  "listed_subjects": 1
+}
