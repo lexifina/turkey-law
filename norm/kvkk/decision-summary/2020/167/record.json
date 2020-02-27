@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/167",
+  "source_id": 6738,
+  "date": "2020-02-27",
+  "title": "“Spor salonu hizmeti sunan veri sorumlusunun, üyelerinin giriş-çıkış kontrolünü biyometrik veri işleyerek yapması ile ilgili Kişisel Verileri Koruma Kurulunun 27/02/2020 Tarihli ve 2020/167 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6738/2020-167",
+  "source_sha256": "ef617622dabab387c542c1bec2533aa589bf593c1a3949c3583f08e1e9e71631",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
