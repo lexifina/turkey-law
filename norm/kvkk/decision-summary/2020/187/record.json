@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/187",
+  "source_id": 6891,
+  "date": "2020-02-27",
+  "title": "“İlgili kişinin oturmakta olduğu binaya, komşusu tarafından kamera yerleştirilerek kayıt ve izleme gerçekleştirilmesi hakkında” Kişisel Verileri Koruma Kurulunun 27/02/2020 tarihli ve 2020/187 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6891/2020-187",
+  "source_sha256": "947a833c345a19db5a11cfaef2a4dbf34e080bbd4eeb97c04e4c85052d070532",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
