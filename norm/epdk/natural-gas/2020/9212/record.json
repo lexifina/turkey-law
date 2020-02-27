@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9212",
+  "decision_date": "2020-02-27",
+  "title": "27/02/2020 tarihli ve 9212 sayılı Kurul Kararı",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YUd/XBW4F9I=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YUd/XBW4F9I="
+  ],
+  "source_sha256": "545cd94f57c2c0229dfb612819ba3377747a6964863cbc4b6d2451b6454d23c4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-02-27",
+  "law_text_complete": true
+}
