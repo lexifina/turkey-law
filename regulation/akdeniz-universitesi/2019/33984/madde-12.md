@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 12 – (1) Çalışma grupları; Merkezin faaliyetlerini, multidisipliner ve transdisipliner uygulama ve araştırma alanlarını alt gruplar üzerinden yürütmek amacıyla oluşturulur. Çalışma grupları, Müdürün önerisi ve Yönetim Kurulunun onayı ile görevlendirilir. Çalışma grupları, en fazla beş kişiden oluşan Merkeze bağlı bilimsel araştırma birimleridir. Çalışma grupları üyeleri en az biri Üniversite personeli olmak şartıyla ulusal ve uluslararası üniversite mensupları arasından da belirlenebilir.

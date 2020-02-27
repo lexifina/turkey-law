@@ -1,0 +1,7 @@
+Yönetim Kurulu
+MADDE 10 – (1) (Değişik:RG-27/2/2020-31052) Yönetim Kurulu yedi üyeden oluşur. Müdür, Yönetim Kurulunun üyesi ve başkanıdır. Yönetim Kurulunun diğer üyeleri; Müdürün önerisi ile Rektör tarafından görevlendirilen, Tıp Fakültesinde kadrolu çalışan, konu ile ilgili bilimsel çalışmaları olan beş hekim öğretim elemanı ve Hemşirelik Fakültesinde kadrolu çalışan, konu ile ilgili bilimsel çalışmaları olan bir öğretim elemanı olmak üzere altı öğretim elemanından oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üyeler yeniden görevlendirilebilir.
+(3) Görevden ayrılma ve vekâlet altı aylık süreyi aşamaz. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen üyelerin yerine, kalan süreyi doldurmak üzere aynı usulle yeni üye görevlendirilir.
+(4) Müdürün gerekçeli teklifi ile Yönetim Kurulu üyelerinden biri veya birkaçı, Rektör tarafından görevinden alınabilir. Görevden alınan üyenin yerine görevlendirilen üye, üyelik süresinin kalanını tamamlar.
+(5) Yönetim Kurulu; Müdürün, Müdür bulunmadığı zamanlarda ise müdür yardımcısının başkanlığında yılda en az iki kere, ayrıca Müdür tarafından gerekli duyulan durumlarda üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğuyla alınır. Oyların eşit olması halinde, Müdürün oyu kararı belirler.
+(6) Üst üste üç Yönetim Kurulu toplantısına mazeretsiz katılmayan üyenin, Yönetim Kurulu üyeliği düşer. Herhangi bir nedenle üyeliği düşen üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.

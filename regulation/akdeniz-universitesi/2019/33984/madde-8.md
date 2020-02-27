@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) (Değişik:RG-27/2/2020-31052) Müdür; Üniversitenin Tıp Fakültesinde kadrolu çalışan, geleneksel, tamamlayıcı ve rejeneratif tıp tedavi yöntemlerine ilişkin çalışmaları olan hekim öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür tekrar atanabileceği gibi, gerek duyulduğu zaman görev süresi dolmadan görevlendirilmesindeki usule göre görevden alınabilir.
+(2) Müdür, Yönetim Kurulu üyeleri arasından, verilen görevleri yapmak ve gerektiğinde kendisine vekâlet etmek üzere iki yardımcı görevlendirebilir.
+(3) Müdür yardımcıları, Müdürün yokluğunda Müdüre vekâlet eder ve Müdür tarafından verilen görevleri yapar. Müdür yardımcılarının da bulunmadığı hallerde Yönetim Kurulu üyelerinden biri vekil olarak bırakılır. Görevden ayrılma ve vekâlet süresi altı aydan fazla olamaz. Bu sürenin aşılması halinde Rektör tarafından aynı usulle yeni Müdür görevlendirilir.
+(4) Müdürün görev süresi sona erdiğinde müdür yardımcısının da görevi sona erer.

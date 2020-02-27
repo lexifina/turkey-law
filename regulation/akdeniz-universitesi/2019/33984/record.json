@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-11-25",
+      "25.11.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-02-27",
+      "RG-27/2/2020-31052",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-27",
+      "RG-27/2/2020-31052",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-27",
+      "RG-27/2/2020-31052",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-27",
+      "RG-27/2/2020-31052",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-27",
+      "27/2/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/2/2020-31052",
+  "first_law": null,
+  "gazette": "30959",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-02-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2019/33984",
+  "published": "2019-11-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33984&MevzuatTertip=5",
+  "source_bytes": 40621,
+  "source_id": "8.5.33984",
+  "source_sha256": "d733e72e823effa96017eda85361e79896c4b3732fe218db28bb5ada6ea23d02",
+  "text_status": "current-consolidated",
+  "title": "AKDENİZ ÜNİVERSİTESİ İNTEGRATİF TIP YÖNTEMLERİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 1513
+}
