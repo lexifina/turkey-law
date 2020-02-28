@@ -1,0 +1,3 @@
+İkinci sınav hakkına ilişkin geçiş hükmü
+GEÇİCİ MADDE 2 – (1) 70 inci madde ile yürürlükten kaldırılan Gümrük ve Ticaret Bakanlığı Rehberlik ve Teftiş Başkanlığı Yönetmeliği hükümleri uyarınca yapılan yeterlik sınavlarında başarılı olamayan veya özürsüz olarak sınavlara girmeyenlerden halen başka kadrolarda görev yapanlara, bu maddenin yürürlük tarihinden itibaren bir yıl içinde ve bir defaya mahsus olmak üzere ikinci bir sınav hakkı verilir.
+(2) Birinci fıkra kapsamında bulunanlar, Ticaret Müfettiş Yardımcısı kadrosuna atanmak için bu Yönetmeliğin yayımı tarihinden itibaren bir ay içinde Başkanlığa başvuruda bulunabilirler.

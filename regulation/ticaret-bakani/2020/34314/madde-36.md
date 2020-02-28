@@ -1,0 +1,7 @@
+Kıdem
+MADDE 36 – (1) Kıdem; sınav dönemi aynı olan müfettiş yardımcıları arasında giriş sınavındaki başarı sırasına göre, müfettişler arasında ise yeterlik sınavındaki başarı sırasına göre belirlenir. Dönemleri farklı olan müfettiş ve müfettiş yardımcıları arasındaki kıdem ise dönemleri arasındaki sıraya göre belirlenir.
+(2) Yeterlik sınavına kendi dönemlerinden sonraki bir dönemde girip başarılı olanların kıdemi, kendi dönemlerinin sonunda olacak şekilde belirlenir.
+(3) 32 nci maddenin altıncı fıkrası ve geçici 1 inci madde kapsamında sınava girenlerden başarılı olanların kıdemi, başarı sırasına göre kendi dönemlerinin sonunda olacak şekilde belirlenir.
+(4) Müfettişlik sıfatını kazandıktan sonra görevinden ayrılanlardan tekrar müfettişliğe dönenlerin kıdemi kendi dönemlerinin sonunda; bu dönemden kimse kalmamış ise, bir önceki dönemin sonunda olacak şekilde belirlenir.
+(5) Başkanlık yaptıktan sonra müfettişliğe dönenler dönemlerinin en kıdemlisi sayılır. Aynı dönemde bu durumda birden fazla müfettiş var ise bunların kıdem sırasının tespitinde ayrıca kendi aralarındaki kıdem esas alınır.
+(6) Başkanlığa, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesi uyarınca atananlardan; yeterlik sınavında başarı göstermek suretiyle müfettiş, denetmen, denetçi, kontrolör unvanlarından birini iktisap edenlerin denetim mesleğinde geçen süreleri ile üst kademe kamu yöneticiliklerinde geçen sürelerinin tamamı, denetim mesleğinden olmayanların ise hizmet sürelerinin yarısı denetim meslek kıdeminden sayılır.

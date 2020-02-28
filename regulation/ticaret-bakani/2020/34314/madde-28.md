@@ -1,0 +1,2 @@
+Yeterlik sınavından önce meslekten çıkarılma
+MADDE 28 – (1) Müfettişlik mesleği ile bağdaşmayacak tutum ve davranışları müfettiş raporu veya yargı kararı ile sabit olan müfettiş yardımcısı hakkında; memurlukta adaylık süresini doldurmamış ise 657 sayılı Devlet Memurları Kanununun 56 ncı maddesi uyarınca işlem yapılır. Adaylık süresini doldurmuş ise yeterlik sınavı beklenilmeksizin Bakanlık teşkilatında durumuna uygun kadroya atanır.
