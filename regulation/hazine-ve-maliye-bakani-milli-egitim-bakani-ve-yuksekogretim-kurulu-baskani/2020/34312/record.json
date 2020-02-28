@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34312",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIF YÜKSEKÖĞRETİM KURUMLARINDA 2809 SAYILI YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNUNUN EK 177 NCİ MADDESİ UYARINCA ÖZEL HESABIN OLUŞTURULMASI, KULLANIMI VE DENETİMİNE DAİR USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "34312",
+  "issuer": "Hazine ve Maliye Bakanı, Milli Eğitim Bakanı ve Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "hazine-ve-maliye-bakani-milli-egitim-bakani-ve-yuksekogretim-kurulu-baskani",
+  "path": "regulation/hazine-ve-maliye-bakani-milli-egitim-bakani-ve-yuksekogretim-kurulu-baskani/2020/34312",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34312&MevzuatTertip=5",
+  "source_sha256": "5effe033dc5c7b079159a988cb94b71a758ec942bd11250bed8cf4dd829997b9",
+  "source_bytes": 21250,
+  "published": "2020-02-28",
+  "gazette": "31053",
+  "in_force": "2020-02-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.02.2020); own commencement article: \"Bu Yönetmelik 1/6/2018 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/6/2018 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 984,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
