@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-124/ 2020-3",
+  "source_id": 717,
+  "date": "2020-02-28",
+  "title": "Geri Kazanım Katılım Payı Beyannamelerinin verilme süreleri ile bu beyannameler üzerine tahakkuk eden payların ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/717",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "82f54133506fc38fb46c6c4bef6a719cd0bac7ce896ad5b19a7d5ceed38e3f78",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
