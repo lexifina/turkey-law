@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-02-28",
+  "issue": "31053",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Ticaret Bakanlığı Rehberlik ve Teftiş Başkanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200228-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200228.htm",
+  "index_sha256": "1bbef4bed62eabbd9acf868eed4154d4b5b5271f86388759a0ecfd4e3f27eca5",
+  "index_header": "28 Şubat 2020 ... 31053 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/02/20200228.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
