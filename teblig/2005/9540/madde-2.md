@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Tebliğ, hazır ambalajlı mamul mevzuatları kapsamında yer alan konularda, hazır ambalajlı mamullerle ilgili yayımlanan ve yayımlanacak olan teknik mevzuat ve bunların uygulamasında karşılaşılabilecek sorunların çözümüne ilişkin yapılacak çalışmalarda kamu kurum ve kuruluşları ile ilgili sektör temsilcilerinden oluşan "Hazır Ambalaj Teknik Komitesinin (HAZTEK)" görevlendirilmesi ile çalışma usul ve esaslarını kapsar.

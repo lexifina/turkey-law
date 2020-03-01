@@ -1,0 +1,52 @@
+{
+  "source_id": "9.5.9540",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAZIR AMBALAJ TEKNİK KOMİTESİNİN OLUŞUMU VE GÖREVLERİNE DAİR TEBLİĞ (Tebliğ No: ÖSGM/2005-18)",
+  "number": "9540",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2005/9540",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9540&MevzuatTertip=5",
+  "source_sha256": "8b544718f345a544bf0c44d1d16263f1adb8006ecfb2aa859f60542cdf00f211",
+  "source_bytes": 31860,
+  "published": "2005-10-14",
+  "gazette": "25966",
+  "in_force": "2020-03-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/3/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-03-01",
+      "RG-1/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-01",
+      "1/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-12-10",
+      "RG-10/12/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-12-10",
+      "10/12/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 867,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
