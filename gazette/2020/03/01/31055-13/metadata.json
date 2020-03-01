@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-03-01",
+  "issue": "31055",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hazır Ambalaj Teknik Komitesinin Oluşumu ve Görevlerine Dair Tebliğ (Tebliğ No: ÖSGM/2005-18)’de Değişiklik Yapılmasına Dair Tebliğ (No: MSGM/2020-29)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200301-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200301.htm",
+  "index_sha256": "ddabd22654e95160b690f7ac8e3d122af6e594b56a2e1a6d47f0561311713df4",
+  "index_header": "1 Mart 2020 ... 31055 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200301.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
