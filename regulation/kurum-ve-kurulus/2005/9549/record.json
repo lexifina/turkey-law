@@ -1,0 +1,47 @@
+{
+  "source_id": "7.5.9549",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR YATIRIM VE GİRİŞİMLERİNE TAŞINMAZ KULLANDIRILMASI HAKKINDA YÖNETMELİK",
+  "number": "9549",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/9549",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9549&MevzuatTertip=5",
+  "source_sha256": "e181f36d028eadad5593642b5e61ccb83883e3b0564f6186db69d6d9fc9c86cb",
+  "source_bytes": 47627,
+  "published": "2005-10-20",
+  "gazette": "25972",
+  "in_force": "2020-03-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/3/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-03-01",
+      "RG-1/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-16",
+      "RG-16/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-13",
+      "RG-13/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2585,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

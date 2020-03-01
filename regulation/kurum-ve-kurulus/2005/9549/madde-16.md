@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Belgelerin iptali ve sözleşmenin feshi
+Madde 16 — Mücbir veya kamudan kaynaklanan sebepler dışında, sözleşme hükümlerine uyulmaması ve Komisyonca verilen altı aylık süre içerisinde de bu aykırılıkların giderilmemesi halinde, yatırımcı ve girişimcilerin kültür yatırımı belgesi veya kültür girişimi belgeleri iptal edilerek sözleşmeleri feshedilir ve son yıl kullanım bedeli kadar tazminat alınır. Bu durumda, yatırımcı ve girişimcilerin o ana kadar yatırımları ile ilgili tüm hakları sona erer ve taşınmazlar üzerinde bulunan yapı, tesis ve müştemilatlarla birlikte bedelsiz olarak Hazineye intikal eder ve teminatları Hazineye irad kaydedilir. Bu halde, yatırımcı veya girişimciler bunlar için herhangi bir hak, bedel veya tazminat talebinde bulunamaz. Yatırımcı ve girişimci tarafından, taşınmaza veya üzerinde bulunan yapı ve tesislere zarar verilmiş ise, bunun bedeli de ayrıca alınır.
+Mücbir veya kamudan kaynaklanan sebeplerle, yatırımcı veya girişimcinin yükümlülüklerini yerine getirememesi durumunda, Bakanlıkça kullandırma sözleşmesinin feshi halinde, yatırımcı veya girişimciden alınan teminatlar Komisyonca iade edilir.

@@ -1,0 +1,3 @@
+Belediye ve il özel idarelerinin taşınmaz tahsisi
+Madde 13 — Belediye ve il özel idareleri kendi mülkiyetlerindeki taşınmazları Bakanlıktan belgeli yatırım veya girişimlere Kanun hükümlerine göre kullandırabilirler. Bu durumda ilgili idareler kullandırma sözleşmesinin imzalanmasından itibaren veya feshi halinde fesihten itibaren bir ay içinde Bakanlığa bilgi vermekle yükümlüdürler. Bakanlıkça verilen belgenin iptal edilmesi halinde kullandırma sözleşmesi feshedilir. Fesih halinde taşınmaz üzerindeki tesislerin ne olacağı ilgili idarece şartnamesinde belirtilir.
+Bu maddede belirtilen hususlar ilgili idarelerce kullandırma sözleşmesine konulur.

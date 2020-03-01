@@ -1,0 +1,2 @@
+Kullandırmanın sona ermesi
+Madde 17 — Kullandırma süresinin bitiminde yatırımcı ve girişimcilerin tüm hakları sona erer. Bakanlık amaca uygun kullanımın devamı şartıyla kullandırma sözleşmesinin süresini uzatabilir. Aksi halde yapı, tesis ve müştemilat herhangi bir bedel ödenmeden Hazineye intikal eder. Bu durumda yatırımcı veya girişimciler, bunlar için herhangi bir hak, bedel veya tazminat talebinde bulunamaz. Yatırımcı ve girişimci tarafından, taşınmaza veya üzerinde bulunan yapı ve tesislere zarar verilmiş ise, bunun bedeli ayrıca alınır.
