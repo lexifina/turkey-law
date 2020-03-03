@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/201",
+  "source_id": 7013,
+  "date": "2020-03-03",
+  "title": "“Bir bankanın veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 03/03/2020 tarih ve 2020/201 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7013/2020-201",
+  "source_sha256": "721106872aa9171d9722214b4e5135c3022bece3eec0ea61e1903b605b27e6b7",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
