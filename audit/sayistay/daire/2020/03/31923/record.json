@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "419",
+  "decision_date": "2020-03-03",
+  "source_id": 31923,
+  "chamber": "5",
+  "ilam_number": "119",
+  "item_number": 42,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31923/",
+  "source_sha256": "984b39b2931425348f5537aa0975e933d1e84e4a5907c77fb4378dba5f9f20e0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
