@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "177",
+  "decision_date": "2020-03-03",
+  "source_id": 32045,
+  "chamber": "8",
+  "ilam_number": "128",
+  "item_number": 36,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32045/",
+  "source_sha256": "918d622081909713cd56daac34a6ce6528dbb14e2ce52254b1018b58ed579cf2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
