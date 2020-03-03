@@ -1,0 +1,23 @@
+{
+  "number": "meeting-03-03",
+  "number_as_published": "meeting-03-03",
+  "year": 2020,
+  "title": "03.03.2020 Meclis Karar Meclis Kararı",
+  "decision_date": "2020-03-03",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=11",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/c446f59d-42fc-491f-83e5-51763dae7e20.PDF",
+  "source_sha256": "6e0b70459bc36534047c04432fdb8cf9c0f370e75b6a8a31426b7a179582bc3f",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-03-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.03.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.03.2020 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
