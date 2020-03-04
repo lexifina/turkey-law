@@ -1,0 +1,11 @@
+YEDİNCİ BÖLÜM
+Görev, Yetki ve Sorumluluk
+Görev, yetki ve sorumluluk
+MADDE 22 – (1) Koruma görevlileri, misyon şefinin veya görevlendireceği bir diplomatik kariyer memurunun talimatı çerçevesinde dış temsilciliklere ait bina ve konutların güvenliğinin sağlanması ile misyon mensuplarının korunmalarına ilişkin görevleri yerine getirirler. Koruma görevlileri koruma planı esasları ile misyon şefinin veya görevlendireceği diplomatik kariyer memurunun talimatına uygun şekilde güvenliğin sağlanmasına yönelik tedbirleri almakla yükümlüdürler.
+(2) Koruma görevlileri birinci fıkrada belirtilen görev tanımlarına uygun işlerde görevlendirilirler.
+(3) Koruma görevlilerinin görev, yetki ve sorumlulukları ile ilgili diğer hususlar Dışişleri Bakanlığı ve İçişleri Bakanlığınca müştereken hazırlanacak talimat ile düzenlenir.
+(4) Koruma görevlilerinin çalışma saatleri ve nöbet düzenleri görevlendirildikleri dış temsilciliğin misyon şefi veya görevlendireceği bir diplomatik kariyer memuru ile koruma amiri tarafından müştereken belirlenir. Nöbet düzenleri ile çalışma saatlerinin belirlenmesinde bulunulan ülkenin güvenlik koşulları ile dış temsilciliklere ait bina ve konutların yerleşim ve ihtiyacı göz önünde bulundurulur.
+(5) Dış temsilciliklerde görevlendirilen amirler koruma amiri olarak memurlar ise koruma memuru olarak görev yaparlar.
+(6) Koruma memurları, koruma amirlerine bağlı olarak görev yaparlar. Koruma memurları, koruma amirleri tarafından verilecek görevleri yapmakla yükümlüdür. Koruma amirinin bulunmadığı hallerde en kıdemli koruma memuru koruma amirinin görev ve sorumluluklarını yerine getirir. Koruma amiri koruma planının hazırlanması, uygulanması ve dış temsilciliklerin güvenliğiyle ilgili konularda misyon içi yazışma yapma yetkisini haizdir.
+(7) İlgili birim veya daire başkanlığı tarafından duyurusu yapılması istenen hususlar ilgililere kendileri tarafından Başkanlığa bildirilen elektronik posta adresleri yoluyla iletilebilir.
+(8) 9/7/2001 tarihli ve 2001/2785 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Emniyet Hizmetleri Sınıfı Personeli Rütbe Terfileri ve Değerlendirme Kurullarının Çalışmalarına İlişkin Yönetmeliğin 35 inci maddesinin ikinci fıkrası kapsamında sınava çağrılanlar, geçici görevli sayılırlar.

@@ -1,0 +1,4 @@
+Başvuru ve başvuruların değerlendirilmesi
+MADDE 7 – (1) Sınava katılmak isteyen personel, Genel Müdürlükçe belirlenen tarihler içinde görev yaptığı asli kadrosunun bulunduğu birimden başvurur.
+(2) Başvurulara ilişkin işlemler, illerde eğitim şube müdürlükleri, Genel Müdürlük merkez ve merkeze doğrudan bağlı taşra teşkilatında personel işlerinden sorumlu birimler aracılığıyla yerine getirilir.
+(3) Başvurular, ikinci fıkrada belirtilen birimler tarafından Genel Müdürlük personel bilgi sistemi ve birimlerdeki özlük bilgileri esas alınarak 5 inci maddede belirtilen şartlara göre değerlendirilir. Dış Temsilciliklerde koruma görevlisi olacaklarda aranılan şartları taşıyan ve taşımayan personel şeklinde iki ayrı liste düzenlenir. Bu listeler, birimin en üst dereceli amiri veya bu amirin yetkilendirdiği amir tarafından onaylanır ve verilen süre içerisinde Başkanlığa gönderilir.

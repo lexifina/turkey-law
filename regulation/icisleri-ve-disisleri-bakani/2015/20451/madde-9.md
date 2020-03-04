@@ -1,0 +1,3 @@
+Sınav komisyonu
+MADDE 9 – (1) (Değişik:RG-21/4/2017-30045) Yazılı ve mülakat sınavları, İçişleri Bakanının uygun göreceği Genel Müdür Yardımcısı başkanlığında, İçişleri Bakanının belirleyeceği iki daire başkanı ve Dışişleri Bakanlığınca belirlenecek iki üyenin katılımı ile oluşan sınav komisyon veya komisyonları tarafından yapılır.
+(2) Birinci fıkrada belirtilen sınav komisyonuna yardımcı olmak üzere, Dışişleri Bakanlığından ve Genel Müdürlükten yeterli sayıda personel görevlendirilebilir. Sınav komisyonunun talebi ve isteği doğrultusunda uzmanlığından faydalanılması gereken personel ve kişiler de sınavda görev alabilir. Bu fıkra kapsamında görev alacak kişi ve personelin üstleneceği görev ve sorumluluklar sınav komisyonu tarafından belirlenir.
