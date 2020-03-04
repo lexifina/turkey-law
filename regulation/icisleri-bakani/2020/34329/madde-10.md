@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Hizmet Bölgesi Derece ve Süreleri
+Hizmet bölgesi derece ve sürelerinin tespiti
+MADDE 10 – (1) Personelin atanacağı hizmet bölgesi derece ve süreleri; hizmet bölgelerinin genel gelişmişlik düzeyi, barınma imkânları, coğrafya ve iklim koşulları, eğitim imkânları, emniyet ve asayiş, sosyal ve kültürel imkânlar, sağlık imkânları, günlük yaşam, özlük haklarındaki farklılıklar, bölgenin atamaya esas bilgi formlarında istenilme düzeyleri, ulaştırma ve haberleşme imkânları dikkate alınır.
+(2) Hizmet bölgesi derece ve süreleri; idari, asayiş veya zaruri sebeplerden dolayı ihtiyaç duyulması halinde güncellenir.
+(3) Hizmet bölgeleri 4 dereceye ayrılmıştır. Bu kapsamda;
+a) Kara birliklerinin konuşlandığı hizmet bölgeleri 1 inci, 2 nci ve 3 üncü derece olup hizmet bölgesi dereceleri ile hizmet bölgelerinde geçirilecek asgari süreleri gösterir listeler Sahil Güvenlik Komutanlığınca yayımlanır. Personelin aynı hizmet bölgesinde kesintisiz olarak on yıldan daha uzun süre görev yapmaması esas alınır. Ancak bu personelden hizmetine ihtiyaç duyulanlar ile kritik ve kilit kadro görev yerlerinde görev yapanlar ve özel ihtisaslı personel için süre ile ilgili bu hükümler uygulanmaz.
+b) Yüzer birlikler 4 üncü derecedir. Bu birliklere atanmış personel için hizmet bölgesi kalış süresi en fazla altı yıl olup asgari hizmet bölgesi süresi yoktur. Ancak deniz hizmet süresini tamamlamasına bir yıl kalan personel ile arama kurtarma gemilerine atanan personelin istekli olmaları durumunda mesleki gelişim planı dâhilinde buralardaki hizmet bölgesi kalış süreleri her seferinde iki yıla kadar olmak üzere en fazla iki sefer uzatılabilir.

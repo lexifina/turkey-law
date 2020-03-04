@@ -1,0 +1,7 @@
+Branş değiştiren personele ilişkin esaslar
+MADDE 35 – (1) Branş değiştiren personel, görev ihtiyaçları ve birliklerin personel yönünden destekleme öncelikleri ile personelin bulunduğu hizmet bölgesinde geçirmiş olduğu süre dikkate alınarak öncelikle bulunduğu hizmet bölgesinde yeni branşına uygun kadro görev yerlerine, bu maddede belirtilen kıstaslara göre bulundukları hizmet bölgesinde istihdam edilemeyecek personel ise hizmet safahatına uygun farklı bir hizmet bölgesine atanır.
+(2) Branş değiştiren personelin, eski branşlarının idari, yönetim ve diğer geri hizmetlerindeki kadro görev yerlerine atamaları yapılabilir.
+(3) Branşı görevini yapamayacağı yönünde rapor alan personel,
+a) Ataması yapılıncaya kadar görevli bulunduğu komutanlık tarafından aynı kuruluş içinde idari hizmetlerde geçici olarak görevlendirilir.
+b) Genel atamalara kadar branş değiştirme işlemi tamamlanamayan personel, bağlı olduğu kuruluş emrine atanır. İşlemlerin sonuçlanmasını müteakip, değiştirdiği branşın uygun kadrolarına ataması yapılır.
+(4) Sağlık durumları nedeniyle branşı görevini yapamayacağı tespit edilen kıdemli yüzbaşı ve daha üst rütbedeki subaylar ile astsubay kıdemli üstçavuş ve daha üst rütbedeki astsubaylardan kendi istekleriyle müracaat edip bu istekleri, bilgi ve tecrübelerinin branşı için faydalı olacağı değerlendirilerek haklarında branş değiştirme işlemi uygulanmayan subay ve astsubaylar fiili kıta görevlerine atanmayıp idari, yönetim ve diğer geri hizmetlerle ilgili kadro görev yerlerine atanırlar.

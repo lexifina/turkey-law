@@ -1,0 +1,2 @@
+Eşleri özel kurum ve kuruluşlarda çalışan personele uygulanacak esaslar
+MADDE 38 – (1) Eşleri özel kurum ve kuruluşlarda çalışan personelin, atanma istekleri hizmet bölgesi süreleri dolmadan uygun görülmez. Ancak söz konusu personelin eşi ile birlikte çalışabilecekleri bir hizmet bölgesine atamaları, emsallerine göre avantaj sağlamayacak şekilde kadro, rütbe ve görev ihtiyaçları ile safahatı göz önünde bulundurularak değerlendirilir.

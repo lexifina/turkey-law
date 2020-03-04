@@ -1,0 +1,9 @@
+Kıta komutanlığı olmayan uygun kadro görev yerlerine atama
+MADDE 41 – (1) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği esaslarına göre hakkında “Branşının kıta komutanlığı olmayan uygun kadro görev yerlerinde görev yapar.” kararlı sağlık raporu tanzim edilen subay ve astsubaylar, Sahil Güvenlik Komutanlığının kara birliklerinde bulunan ve Ek-2 sayılı çizelgede belirtilen kadro görev yerlerine atanırlar.
+(2) Bu madde kapsamındaki subay ve astsubaylar, kıta komutanlığı olmayan uygun kadro görev yerlerinin teşkilatında bulunan ve “Komutan” olarak belirtilen kadrolara atanmaz.
+(3) “Branşının kıta komutanlığı olmayan uygun kadro görev yerlerinde görev yapar” şeklinde rapor alan subay ve astsubaylar;
+a) Aldıkları sağlık raporları onaylanıp atamaları yapılana kadar geçen süre zarfında idari, yönetim ve diğer geri hizmetlerle ilgili kadro görev yerlerinde geçici olarak görevlendirilir.
+b) Hâlihazırda bulundukları görev yerleri bu Yönetmelikte belirtilen kıta komutanlığı olmayan uygun kadro görev yerleri olduğu takdirde aynı görevlerine devam ettirilebilir.
+c) Bulundukları hizmet bölgesinde branş ve rütbesine uygun kadro görev yeri bulunanların atamaları bu kadrolara yapılır. Bulundukları hizmet bölgesinde branş ve rütbesine ait uygun kadro görev yeri bulunmayan personelin ataması ise ilk genel atama döneminde dikkate alınır.
+ç) Geçici görev, tatbikat ve benzeri nedenler de dâhil olmak üzere kıta komutanlığı olan kadro görev yerlerindeki görevlere ve faaliyetlere iştirak ettirilmez.
+(4) Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliği branş belirleme çizelgelerinde (X) işareti bulunan maddelerden rapor alan subaylar ve astsubaylar ilgili uzmanın gerekli gördüğü aralıklarla, sağlık raporunda belirtilmediyse azami iki yılda bir kontrol muayenesi yapılmak üzere Ek-2 sayılı çizelgede belirtilen kadro görev yerlerine atanırlar.

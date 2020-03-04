@@ -1,0 +1,2 @@
+Jandarma ve Sahil Güvenlik Akademisi Başkanlığı emrine atanacak Sahil Güvenlik Komutanlığı personeli
+MADDE 27 – (1) Jandarma ve Sahil Güvenlik Akademisinin eğitim-öğretim ve idari kadro görev yerlerinde görev yapan personelin atama işlemlerinde Bakan onayı ile yürürlüğe konulan Yönetmelik hükümleri geçerlidir. Ancak Bakan onayı ile yürürlüğe konulan ilgili Yönetmelikte hüküm bulunmayan hallerde bu Yönetmelik hükümleri uygulanır.

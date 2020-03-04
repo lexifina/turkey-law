@@ -1,0 +1,2 @@
+Güverte, makine ve ikmal branşı astsubay atamaları
+MADDE 18 – (1) Mesleki yeterlilik, özel ihtisas, eğitim ve sıhhi mecburiyetler olmadıkça güverte ve makine branşı astsubaylar, mesleki gelişim planına uygun olarak yüzer birliklere atanırlar. Güverte ve makine branşı astsubaylar belirtilen mecburiyetler olmadıkça astsubay kıdemli üstçavuş rütbesinden önce kara birliklerinde idari işler ile ilgili kadro görev yerlerine atanmazlar. İkmal branşı astsubaylar ise deniz hizmet sürelerini tamamlamalarını müteakip kara birliklerine atanırlar.
