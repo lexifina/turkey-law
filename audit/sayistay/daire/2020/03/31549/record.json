@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "227",
+  "decision_date": "2020-03-05",
+  "source_id": 31549,
+  "chamber": "4",
+  "ilam_number": "98",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31549/",
+  "source_sha256": "2685b1d8a6ca4c0fca1e22aac3642d5133e3b092b4ccf2c3bc1aec176f4718df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
