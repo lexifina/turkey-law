@@ -1,0 +1,22 @@
+{
+  "number": "43",
+  "number_as_published": "2020/43",
+  "year": 2020,
+  "title": "Toplu Konut İdaresi Başkanlığı ile Eyüpsultan Belediyesi arasında ek protokol yapma yetkisinin Belediye Başkanına verilmesi",
+  "decision_date": "2020-03-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-mart-ayi-meclis-kararlari/1716",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-43/1719",
+  "source_sha256": "c4833c4d28ed3f643a98b98c029e06586ba070f4194830d9b27c59169a454db3",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.03.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "43d7cc991d134169658229bddb207e43c07ce1af2892aca0facbb16aa1daf0d4"
+}
