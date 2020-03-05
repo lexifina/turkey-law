@@ -1,0 +1,69 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "29",
+  "decision_number": "15/327",
+  "date": "2020-03-05",
+  "title": "Kurul'un i-SPK.4632 S.Kn.17.3.M (05/03/2020 Tarih ve 15/327 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/29",
+  "source_sha256": "230369a5e8dcd8c6453cca5f729ea3dab588627aed799f3957131ab18bb0d652",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 29,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 2. Kurul Karar Organı’nın i-SPK.4632 s.kn.17.3.m (05/03/2020 tarih ve 15/327 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2020-03-05",
+    "source_clauses": [
+      "2. Kurul Karar Organı’nın i-SPK.4632 s.kn.17.3.m (05/03/2020 tarih ve 15/327 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "5077942c-dde0-4118-8bfd-f22f12397671",
+    "contentSource": "IlkeKarari",
+    "contentID": 29,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK.4632 S.Kn.17.3.M (05/03/2020 Tarih ve 15/327 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2020-03-05T01:00:00",
+    "kurulKararTarih": "05.03.2020",
+    "kurulToplantiNo": "15/327",
+    "bultenYili": 2020,
+    "bultenNo": 16,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;13:Emeklilik Yatırım Fonları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 13,
+        "value": "Emeklilik Yatırım Fonları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/29",
+    "linkTarget": "_blank"
+  }
+}
