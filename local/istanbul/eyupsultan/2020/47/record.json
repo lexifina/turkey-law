@@ -1,0 +1,22 @@
+{
+  "number": "47",
+  "number_as_published": "2020/47",
+  "year": 2020,
+  "title": "council decision",
+  "decision_date": "2020-03-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-mart-ayi-meclis-kararlari/1716",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-47/1723",
+  "source_sha256": "c4833c4d28ed3f643a98b98c029e06586ba070f4194830d9b27c59169a454db3",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2020-03-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.03.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "6e8d1b5b2e802fa82b621e8f6c201dd6e4fd9de43042a34264089fb9bcc1d047"
+}
