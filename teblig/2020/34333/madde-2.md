@@ -1,0 +1,2 @@
+Karar
+MADDE 2 – (1) Bahse konu önlemlerin askıya alınma süresinin uzatılması hususunu değerlendiren İthalatta Haksız Rekabeti Değerlendirme Kurulunun Kararı ile 20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Kararın 9 uncu maddesinin birinci fıkrası çerçevesinde, bu Tebliğin birinci maddesinde belirtilen dampinge karşı kesin önlemlerin askıya alınması uygulamasının 7/3/2020 tarihinden itibaren 1 yıl süreyle uzatılmasına karar verilmiştir.
