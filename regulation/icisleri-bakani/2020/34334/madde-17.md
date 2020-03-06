@@ -1,0 +1,6 @@
+İtiraz
+MADDE 17 – (1) Görevde yükselme ve/veya unvan değişikliği sınavına ilişkin iş ve işlemler ile sınav sonuçlarına itirazlar yazılı olarak sınav kuruluna yapılır.
+(2) Görevde yükselme ve/veya unvan değişikliği sınavına katılacakların tespitine ilişkin itirazlar, listelerin ilanından itibaren iki iş günü içinde, görevde yükselme ve/veya unvan değişikliği yazılı sınav sonuçlarına yapılacak itirazlar ise sınav sonuçlarının ilanından itibaren beş iş günü içinde dilekçe ile sınav kuruluna yapılır.
+(3) İtirazların evrak kaydına girmesinden itibaren; sınav kurulu, görevde yükselme ve/veya unvan değişikliği sınavına katılacakların tespitine ilişkin itirazları en geç üç iş günü içinde, görevde yükselme ve/veya unvan değişikliği yazılı sınav sonuçlarına ilişkin itirazları ise sınavı yapan kurumla görüşerek en geç yirmi gün içinde sonuçlandırır ve ilgililere yazılı olarak bildirir.
+(4) Sözlü sınav sonuçlarına itirazlar, sonuçların ilan edildiği tarihten itibaren en geç üç iş günü içinde sınav kuruluna dilekçe ile yapılır ve sınav kurulunca en geç yedi iş günü içinde sonuçlandırılarak ilgililere yazılı olarak bildirilir.
+(5) İtiraz üzerine sınav kurulu tarafından verilecek kararlar kesindir.

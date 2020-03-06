@@ -1,0 +1,14 @@
+ÜÇÜNCÜ BÖLÜM
+Sınavlara İlişkin Esaslar
+Duyuru, başvuru şartları ve adayların seçimi
+MADDE 10 – (1) Görevde yükselme sınavı ve/veya unvan değişikliği sınavı il müdürlüklerinin talepleri değerlendirilerek Başkanın teklifi üzerine Bakan Onayı ile yapılır. Ayrıca Başkanlığın ihtiyaçları doğrultusunda il müdürlüklerinden herhangi bir talep olmaksızın da Başkanlık, görevde yükselme sınavının ve/veya unvan değişikliği sınavının yapılmasına karar verebilir.
+(2) Görevde yükselme ve/veya unvan değişikliği sınavının yapılabilmesi amacıyla Personel ve Destek Hizmetleri Dairesi Başkanlığınca boş bulunan unvanlı kadrolar tespit edilerek sınav ilanı hazırlanır.
+(3) Görevde yükselme ve/veya unvan değişikliği sınavı için hazırlanan ilanda; boş kadroların sınıfı, unvanı, derecesi, sayısı, sınava katılacaklarda aranacak şartlar, başvuru tarihi, süresi, yeri ve şekli, bu sınavlara ilişkin konu başlıkları ile diğer hususlar belirtilir.
+(4) Görevde yükselme ve/veya unvan değişikliği sınavı için hazırlanan ilan, Başkanlık merkez ve taşra teşkilatı personeline sınav tarihinden en az iki ay önce bildirilir.
+(5) İlanda belirtilen yer ve tarihler arasında unvanlı boş kadrolar için aranılan niteliklere sahip adayların başvuruları kabul edilir. Adaylar ancak bir unvanın unvan değişikliği sınavına veya görevde yükselme sınavına başvurabilirler. Birden fazla unvana yapılan başvurular geçersiz sayılır. Boş bulunan kadrolar için başvurular, ilanda belirtilen usul ve esaslar çerçevesinde elektronik ortamda yapılır.
+(6) Aylıksız izinde bulunan personel de dâhil olmak üzere ilgili mevzuatı uyarınca verilmesi zorunlu izinleri kullanmakta olan personelin görevde yükselme veya unvan değişikliği sınavına katılmaları mümkündür.
+(7) Başkanlık ile sınavı gerçekleştirecek kurum arasında protokol yapmak ve bu çerçevede görevde yükselme ve/veya unvan değişikliği sınavının gerçekleştirilmesini sağlamak, gerekli bilgi ve dokümanları vermek, ilgili mevzuata göre sınavlarda sorulacak soruların konu başlıklarını belirlemek veya hazırlatılmasını sağlamak gibi benzeri iş ve işlemler Personel ve Destek Hizmetleri Dairesi Başkanlığınca yürütülür.
+(8) Görevde yükselme ve/veya unvan değişikliği sınavları ile ilgili duyurular ve diğer hususlar Başkanlığın resmi internet sitesinde ilan edilir.
+(9) Başkanlığın resmi internet sitesi üzerinden yapılan duyurular tebligat hükmünde olup ilgili adaylara ayrıca yazı ile bildirimde bulunulmaz.
+(10) Başvurular tamamlandıktan sonra sınav kurulu; müracaat eden her adayın, bu Yönetmelikte belirtilen şartları taşıyıp taşımadıklarını tespit eder. İstenilen şartları taşıdıkları tespit edilen adaylar Başkanlık resmi internet sitesinde ilan edilir.
+(11) Adaylar görevde yükselme ve/veya unvan değişikliği sınavı başvuru formunda yazılı beyanlarına ilişkin belgeleri ibraz etmekle yükümlüdür. Beyanlarının doğruluğunu belgeleyemeyen adayların müracaatları reddedilir, atamaları yapılmış olsa dahi iptal edilir.
