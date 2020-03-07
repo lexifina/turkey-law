@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34337",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İÇME SUYU ARITMA TESİSLERİ TEKNİK USULLER TEBLİĞİ",
+  "number": "34337",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2020/34337",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34337&MevzuatTertip=5",
+  "source_sha256": "c5c6b9099f28b5551059dd41063559f4edead952b643603cffe32eb6b47fa739",
+  "source_bytes": 146233,
+  "published": "2020-03-07",
+  "gazette": "31061",
+  "in_force": "2020-03-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.03.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8185,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34337-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

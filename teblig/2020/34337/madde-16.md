@@ -1,0 +1,23 @@
+Karıştırıcılar
+MADDE 16 – (1) Hızlı karıştırıcılar, kimyasal maddelerin suya karıştırıldığı ve üniform dağılımın yapıldığı yapılardır. Mekanik veya hidrolik olarak karışımın sağlanması mümkündür. Suda bulunan askıdaki ve kolloidal partiküller genellikle negatif elektrik yükü taşırlar. Bu sebeple birbirlerini iterek yumaklaşmayı ve dolayısıyla çökelmeyi önlerler. Bunu engellemek için suya kimyasal maddeler (alüminyum sülfat, demir üç klorür, polialüminyum klorür ve demir sülfat gibi pıhtılaştırıcılar veya koagülantlar) ilave edilir. Yardımcı kimyasal madde olarak polielektrolit ilave edilebilir. Pıhtılaştırıcılar, pozitif yüklü metal iyonları içerdiği için negatif yüklü askıdaki ve kolloidal partikülleri nötralize ederler. Bu nötralizasyon sonucu, partiküller birleşmeye başlamakta ve birleşmeden sonra çökelerek sudan giderilmektedir. Hızlı karıştırıcılarla ilgili olarak aşağıdaki hususlara dikkat edilir.
+a) İçme suyu arıtma tesisinin verimliliği için suya katılacak kimyasal maddelerin suda homojen bir şekilde karışmalarını ve dağılımını temin edebilmek maksadıyla tesiste mekanik veya hidrolik hızlı karıştırıcılar kullanılır.
+b) Karıştırıcılarda homojen bir karışımın sağlanması için tanklarda türbülans akım teşekkül edilir.
+c) Hızlı karıştırıcılar az enerji tüketecek ve en etkin şekilde karışmayı sağlayacak şekilde projelendirilir.
+ç) Karıştırıcı yataklarından suya yağ kaçmaması için gerekli tedbirler alınır. Hızlı karıştırma ünitelerinde kimyasal maddelerdeki safsızlıklardan dolayı su yüzeyinde zaman zaman oluşacak köpüklenmeler bir tel süzgeç yardımı ile ölü noktalardan alınır.
+d) Mekanik karıştırıcı redüktörü düzenli olarak yağlanır ve kanatların bakımı yapılır.
+e) Hızlı karıştırmada kolloidal maddeler ile ilave edilen pıhtılaştırıcıların teması sağlanır. Bu ünite arıtmanın verimi için çok önemli olduğundan üniteye aşırı yüklenilmez ve tasarlanan minimum debiden düşük şartlarda işletilmez.
+f) Debinin azaltılması gerekiyorsa gözlerden veya hızlı karıştırma ünitelerinden biri veya birkaçını devre dışı bırakmak tercih edilir.
+g) Tank dip temizliği, taşkın hatları kontrolü ve temizliği periyodik olarak kontrol edilir ve gerektiğinde yapılır. Bu maksatla karıştırma odası, boşaltma veya temizlik maksatlı olarak dip tahliyeleri ile teçhiz edilir.
+ğ) Tesisteki ünitelerde karıştırıcı olarak mekanik karıştırıcı tipi seçilmiş ise paslanmaz çelikten imal edilir.
+h) Kimyasal maddelerin karıştırıcılara dozlandığı noktada, kimyasalın ham suya eşit nüfuz etmesini kolaylaştırıcı mekanik tertibat bulundurulur.
+ı) Karıştırma havuzlarında, genel bakım, temizlik ve arıza işleri için havuzların boşaltılması gereken durumlarda, suyun tamamen tahliyesi ve dipte su kalmaması için tahliye kanalları, suyun tamamını tahliye edecek şekilde projelendirilir. İhtiyaç duyulması halinde havuzun tabanına birden fazla tahliye noktası yapılıp bu tahliye noktaları aynı hatta birleştirilir.
+i) Tasarımda optimum işletme şartlarını sağlayacak boyutlandırma yapılır.
+j) Hızlı karıştırıcılarda oluşan köpük için köpük toplama konisi teçhiz edilir.
+(2) Yavaş karıştırıcılar, pıhtılaştırıcı kimyasal maddelerin hızlı karıştırma ünitesinde suya ilavesi sonrasında yumakların oluşması için gereklidir. Bu işlem, partiküllerin birleştirilmesi veya büyüklüklerinin arttırılması demektir. Yavaş karıştırma işlemi mekanik veya hidrolik olarak yapılabilmektedir. Yaygın olarak mekanik yavaş karıştırıcılar kullanılmaktadır. Yavaş karıştırıcılarla ilgili olarak aşağıdaki hususlara dikkat edilir.
+a) Yavaş karıştırıcılar, yumaklaşmayı kolaylaştıracak olan koagülantların sudaki yayılımını bozmayacak ve oluşmakta olan yumakları birbirine temas ettirerek daha sıkı ve daha büyük boyutta yumakların oluşmasını ve bunların durultucuda daha kolay ve çabuk çökelmesini sağlayacak şekilde seçilir. Yavaş karıştırıcılarda daha iyi bir yumaklaşma olması için yapılar en az iki bölmeli olur.
+b) Karıştırıcılar suda türbülans oluşturmadan karıştırma işlemini en etkin ve az enerji harcamak suretiyle sağlanır.
+c) Yavaş karıştırıcıların genel bakımı hızlı karıştırıcılarda olduğu gibi yapılır.
+ç) Korozyona karşı boyama işlemlerine dikkat edilir, ahşap paletli karıştırıcılarda aşınan paletler yenilenir. Yenileme emprenye edilmiş ahşap kullanılarak yapılır.
+d) Debi azalması durumunda bir veya birkaç yavaş karıştırıcı ünitesi devre dışına alınır.
+e) Devre dışına alınan yavaş karıştırma ünitesi tamamen tahliye edilerek, tank tabanı ve karıştırıcı aksamı temizlenir. Bu maksatla yavaş karıştırma üniteleri, boşaltma veya temizlik maksatlı olarak dip savaklarla teçhiz edilir.
+f) Yavaş karıştırıcı üniteleri, hidrolik olarak ölü noktalar olarak adlandırılan hareketsiz bölgelerin oluşumunu engelleyecek şekilde dizayn edilir.
