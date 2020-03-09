@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "161",
+  "decision_date": "2020-03-09",
+  "title": "MEC.KAR. (TOROSLAR ÇAVUŞLU 215 PARSEL).doc",
+  "listed_as": "161 MEC.KAR. (TOROSLAR ÇAVUŞLU 215 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/161-meckar-toroslar-cavuslu-215-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-mart-2020-meclis-kararlari",
+  "listing_sha256": "3f46aee557dbeef88ccb1a552b6a53aff2b7f9dfa4b5fb5177f116292d166fea",
+  "meeting_title": "09 MART 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
