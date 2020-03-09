@@ -1,0 +1,23 @@
+{
+  "number": "46",
+  "number_as_published": "46",
+  "year": 2020,
+  "title": "Denizli Barosu Hizmet Binası ve Sosyal Tesislerinin bulunduğu, Denizli İli Merkezefendi İlçesi, Bereketler Mahallesi; 549 Ada, 1 No.lu parselin içkili yer bölgesi olarak belirlenmesini uygun gören İdari ve Diğer İşler Komisyonu raporunun komisyondan geldiği şekliyle kabulüne, 10 red oya karşılık, 23 kabul oyla ve oyçokluğuyla, 09/03/2020 tarihinde karar verildi.",
+  "decision_date": "2020-03-09",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2020-6-8--MART-AYI-MECLiS-KARAR-oZETLERi",
+  "official_document": null,
+  "source_sha256": "eccdad8b9b20505e33c9e6523c94ae414ad90fe6c32c453ea254153fd5dab690",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2020-03-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 9.3.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2020-6-8--MART-AYI-MECLiS-KARAR-oZETLERi",
+  "record_scope": "one council decision (published decision summary)"
+}
