@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-03-09",
+      "09.03.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31063 Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-03-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ağrı İbrahim Çeçen Üniversitesi",
+  "issuer_slug": "agri-ibrahim-cecen-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/agri-ibrahim-cecen-universitesi/2020/34347",
+  "published": "2020-03-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34347&MevzuatTertip=5",
+  "source_bytes": 26098,
+  "source_id": "8.5.34347",
+  "source_sha256": "db54058dfe665ffee185aa1af7c17ec1e8f02078c5428a79e7bfc50b5b73f7bd",
+  "text_status": "as-enacted",
+  "title": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA \r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 323,
+  "word_count": 935
+}
