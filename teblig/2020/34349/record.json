@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34349",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİMARLIK VE MÜHENDİSLİK HİZMET BEDELLERİNİN HESABINDA KULLANILACAK 2020 YILI YAPI YAKLAŞIK BİRİM MALİYETLERİ HAKKINDA TEBLİĞ",
+  "number": "34349",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2020/34349",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34349&MevzuatTertip=5",
+  "source_sha256": "27822642f401fd95006158b7ff8ebf10dff8564b2cd15616690b7b2c02ea094e",
+  "source_bytes": 139990,
+  "published": "2020-03-10",
+  "gazette": "31064",
+  "in_force": "2020-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2020); own commencement article: \"Bu Tebliğ 1/1/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1154,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
