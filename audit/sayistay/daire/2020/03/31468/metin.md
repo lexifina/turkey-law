@@ -1,0 +1,29 @@
+Yıllık İzin Ücreti
+
+… tarihli ve … sayılı İlamın …’üncü maddesi ile tazmin hükmolunan konu ile ilgili olarak Temyiz Kurulunun … tarih ve … tutanak sayılı İlamıyla verilen bozma kararı üzerine 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin yedinci fıkrası hükmü gereğince konunun görüşülmesine karar verildi.
+
+Asıl İlamın …’üncü maddesiyle, … Belediyesinde çalışan kadrolu işçilere ödenen yıllık izin ücretlerinin kapsamına sosyal haklardan olan yakacak yardımının da dahil edilmesinin 4857 sayılı İş Kanunu’nun “Tatil Ücretine Girmeyen Kısımlar” başlıklı 50’nci maddesi, aynı Kanun’un “Yıllık İzin Ücreti” başlıklı 57’nci maddesine aykırı olduğu gerekçesi ile …-TL kamu zararına neden olunduğuna karar verilmiş ve bu tutarın tazminine hükmedilmişti.
+
+Bu tazmin hükmüne karşı … ortak adresinde bulunan sorumlulardan asıl İlamda Harcama Yetkilisi olarak sorumlu tutulan … tarafından yapılan Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine anılan Kurul … tarih ve … sayılı İlamıyla;
+
+İlama konu yakacak yardımının niteliği gereği sosyal bir yardım olduğu, yapılan ödemenin yıllık veya yıl içinde eşit aralıklarla belli bir para ödenerek yapılmasının yakacak yardımının sosyal bir yardım olma niteliğini değiştirmediği, ödemelerin periyodik şekilde aydan aya yapılmasının tamamen belediyenin bütçe imkanları ve mali yapısındaki düzenlemelerden kaynaklandığı,
+
+Yıllık ücretli izinde olunan dönemde sosyal yardımların ödenmeye devam edilmesinin 4857 sayılı Kanun’un 50 ve 57’nci maddeleri ile Yıllık Ücretli İzin Yönetmeliği’nin 21’inci maddesi ile ilişiği olmadığı, zira sorgu konusu ödeme emirlerinin yıllık izin ücretinin ödenmesine ilişkin olmadığı, normal ücretin yanında ilam konusu yakacak ücretinin de o aya tekabül eden kısmının hesaplanarak işçilere ödendiğinin ücret bordrolarında görüldüğü,
+
+Bu nedenle, söz konusu hususta İş Kanunu’nun 57’nci maddesine aykırı bir durum olmadığı, yakacak yardımının yıllık izin ücreti gibi hesaplanan bir meblağ olmadığı, bu bağlamda işçinin çalıştığı ücrete veya çalışma gününe göre hesaplanarak bulunan veya her işçiye göre değişen bir meblağ olmadığının görüldüğü,
+
+Söz konusu ödemeler Toplu İş Sözleşmesi hükümlerine göre yapıldığından, toplu iş sözleşmesi hükümleri ise Anayasaya ve kanunların emredici hükümlerine aykırı düzenlemeler içermediği sürece taraflar arasında sözleşme serbestisi ilkesi gereğince belirlenebileceğinden, 5018 sayılı Kanun’un 71’inci maddesine göre söz konusu ödemelerde mevzuata aykırı eylem veya işlem olmadığı kanaatine varıldığı,
+
+ belirtilerek söz konusu hususların tekrar değerlendirilmesini teminen verilen tazmin hükmünü bozarak yeniden karara bağlanmak üzere dosyanın Dairemize gönderilmesine karar vermiştir.
+
+Asıl ilamda Harama Yetkilisi sıfatıyla sorumlu tutulan …, …, …, … ve … ile Gerçekleştirme Görevlisi olarak sorumlu tutulan …, …, … ve … tarafından Sayıştay Temyiz Kuruluna yapılan temyiz başvurusu üzerine ise anılan Kurul … tarihli ve … ve …tutanak sayılı ilamlarıyla söz konusu tazmin hükmüne karşı asıl ilamda Harcama Yetkilisi sıfatıyla sorumlu tutulan …’ın temyiz başvurusu üzerine düzenlenen … tarih ve … tutanak sayılı ilam ile hüküm bozulduğundan Kurulca yapılacak işlem olmadığına, ancak aynı mahiyette olan bahse konu dosyaların gereği yapılmak üzere bozma kararı verilen dosya ile birleştirilerek Dairemize gönderilmesine karar vermiştir.
+
+Temyiz Kurulunun anılan kararlarına istinaden Dairemize havale edilen dosyalar ve konuya ilişkin Denetçi tarafından düzenlenen … tarihli ek rapor ve eklerinin incelenmesi sonucunda gereği düşünüldü;
+
+Her ne kadar Denetçi tarafından işçilere ödenen yıllık izin ücretinin kapsamına yakacak yardımının dahil edilmesi suretiyle kamu zararına neden olunduğunun iddia edildiği görülmüşse de;
+
+İdare ile ilgili sendika arasında akdedilmiş olan Toplu İş Sözleşmesi’nde; bahse konu yakacak yardımının her ay maaşla birlikte belirlenen bir tutar üzerinden ödeneceğinin düzenlendiği görülmektedir. Sendika ile belediye arasında imzalanan sözleşmede yakacak yardımının fiili çalışma ile ilişkilendirilmesi zorunluluğu bulunmamaktadır.
+
+Yakacak yardımının, yıllık izin ücreti gibi hesaplanan bir meblağ olmadığı ve sözleşmenin tarafları arasında pazarlık edilerek kararlaştırılan bir meblağ olarak fiili çalışma şartı ile ilişkilendirilmeksizin her ay belirlenen miktarın maaş ile birlikte ödenmesi şeklinde kararlaştırıldığı dikkate alındığında; 4857 sayılı İş Kanunu’nun 57’nci maddesine aykırı bir durumun ortaya çıkmadığı görülmektedir.  Sosyal bir ödeme unsuru olarak yakacak yardımının her ay belirli bir tutar olarak ödenmesinin toplu sözleşme çerçevesinde kararlaştırılması durumu ile yıllık izin ücreti hesabında ayrıca yakacak yardımının hesaplanarak mükerrer ödemede bulunulması durumunu birbirine karıştırmamak gerekmektedir. Sorgu konusu olayda, yakacak yardımı sosyal bir ödeme olarak fiili çalışma şartına bağlanmaksızın belirli bir tutar üzerinden ödenmiştir. Sözleşme uyarınca ödenmesi öngörülen yakacak yardımı işçilere ödendiği halde, yıllık ücretli izin hesabına da tekrar dahil edilmesi gibi bir uygulamanın ortaya çıkması halinde mükerrer ödeme olacağından kamu zararından söz edilebilecektir. Ancak, raporda, bu tip bir iddia yer almamaktadır. Bu çerçevede, toplu iş sözleşmesine istinaden yapılan yakacak yardımının sözleşme hükümlerine uygun şekilde fiili çalışmaya bağlı olmaksızın ödendiği ve tekrar yıllık ücretli izin hesabına eklenmediği bir başka deyişle mükerrer ödemede bulunulmadığı görüldüğünden herhangi bir kamu zararına neden olunmadığı anlaşılmaktadır.
+
+Bu itibarla; mevzuatına uygun olduğu anlaşılan sorgu konusu …-TL ödeme hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca  ek İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
