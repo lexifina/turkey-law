@@ -1,0 +1,5 @@
+Mal Alım Giderleri
+
+Sağlık Kültür ve Spor Dairesi Başkanlığı tarafından 2886 sayılı Devlet İhale Kanunu kapsamında ………… Ltd. Şti.’ye kiralanan ………… Üniversitesi Kurumsal Ürünleri Satış Dükkanı için sözleşme imzalandıktan sonra sözleşme hükümlerine aykırı olarak İdare tarafından mal ve malzeme alınarak bedelinin bütçeden karşılanması sonucu ………… TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak dosyada mevcut bilgi ve belgeler incelenmiştir.
+
+………… Üniversitesi tarafından üretimi yapılan ürünlerin sergilenmesi amacıyla yaptırılan iki adet standın seyyar olup, Üniversitenin katıldığı fuarlara, öğrenci etkinliklerine, tanıtım etkinliklerine ve gerek görülmesi halinde kampüs içi ve kampüs dışı farklı alanlara da tanıtım amaçlı olarak götürülmekte olduğu anlaşıldığından ………… TL tutar için ilişilecek bir husus bulunmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
