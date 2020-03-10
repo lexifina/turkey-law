@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34350",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI, TESİS VE ONARIM İŞLERİ İHALELERİNDE KULLANILAN MÜTEAHHİTLİK KARNELERİ VE İŞ BİTİRME BELGELERİNİN 2020 YILINA AİT DEĞERLENDİRME KATSAYILARI HAKKINDA TEBLİĞ",
+  "number": "34350",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2020/34350",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34350&MevzuatTertip=5",
+  "source_sha256": "543f8f657e15ba3b81d0e6729797b6a04fd9b14ce0dcb130b8c40b7ae9aa1a09",
+  "source_bytes": 72464,
+  "published": "2020-03-10",
+  "gazette": "31064",
+  "in_force": "2020-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2020); own commencement article: \"Bu Tebliğ 1/1/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 328,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
