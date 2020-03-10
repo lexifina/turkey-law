@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "356",
+  "decision_date": "2020-03-10",
+  "source_id": 31964,
+  "chamber": "3",
+  "ilam_number": "125",
+  "item_number": 10,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31964/",
+  "source_sha256": "b33bca38a15fd298806c33640bdd371d3dadf2493f8c63090d0126ad8a4c2bd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
