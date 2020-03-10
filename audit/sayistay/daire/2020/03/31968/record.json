@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "356",
+  "decision_date": "2020-03-10",
+  "source_id": 31968,
+  "chamber": "3",
+  "ilam_number": "125",
+  "item_number": 14,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31968/",
+  "source_sha256": "fc2dfdeee51e05c745adc4d9804b490e572292f812a5f6f42c2ea345217d9360",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
