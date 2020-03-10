@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10782",
+  "decision_date": "2020-03-10",
+  "source_id": 31706,
+  "chamber": "1",
+  "ilam_number": "109",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31706/",
+  "source_sha256": "139c7c151b718c379e31fcb7ddfcc78d065c61cb3e66890c84b3f4cc392b7e25",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
