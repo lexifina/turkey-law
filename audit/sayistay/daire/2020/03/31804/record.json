@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10782",
+  "decision_date": "2020-03-10",
+  "source_id": 31804,
+  "chamber": "1",
+  "ilam_number": "109",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31804/",
+  "source_sha256": "f8c089c5726e73137aab433ff787ad861e0a24af9385ce3ab376440ad832dfac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
