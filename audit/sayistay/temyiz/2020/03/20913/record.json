@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47292",
+  "decision_date": "2020-03-11",
+  "source_id": 20913,
+  "chamber": "1",
+  "file_number": "45407",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2014",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20913/",
+  "source_sha256": "fb5fa3786ecad151ca72c44fc6028a628124d3c6f1d39cee4fb5d179eb8b405f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
