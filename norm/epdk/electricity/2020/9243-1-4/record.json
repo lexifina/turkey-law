@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9243/1-4",
+  "decision_date": "2020-03-12",
+  "title": "2020 yılı Mart ayı fatura döneminden itibaren uygulanmak üzere dağıtım bedellerine ilişkin",
+  "resmi_gazete_date": "2020-03-17",
+  "resmi_gazete_number": "31071",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=swAfn/ojgVE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=swAfn/ojgVE="
+  ],
+  "source_sha256": "3e7d4bf26bac365e0cb0595705803257e237fd826e6fef8d9ab8609a8fde4794",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-03-12",
+  "law_text_complete": true
+}
