@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/212",
+  "source_id": 6892,
+  "date": "2020-03-12",
+  "title": "“Ses kayıt özelliği bulunan güvenlik kamerası kullanılması” ile ilgili Kişisel Verileri Koruma Kurulunun 12/03/2020 tarihli ve 2020/212 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6892/2020-212",
+  "source_sha256": "5fb3a213907c8bf75159b1debca234ea547a7bbfd69683d8949878005f58a62a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
