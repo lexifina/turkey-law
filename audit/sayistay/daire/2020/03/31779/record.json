@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "389",
+  "decision_date": "2020-03-12",
+  "source_id": 31779,
+  "chamber": "7",
+  "ilam_number": "120",
+  "item_number": 24,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31779/",
+  "source_sha256": "7e0f00ac51fc219f72d6ebb5da7ee100372c6bce7b52fe91c4aac4c16897691a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
