@@ -1,0 +1,13 @@
+{
+  "number": "20-14/191-97",
+  "type": "Rekabet İhlali",
+  "decision_date": "2020-03-12",
+  "publication_date": "2020-08-25",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=cc6acc3b-e76d-4b58-b297-003b30a766b5",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=273",
+  "pdf_sha256": "32902d9ab88f072223ca9fa49217717dbb13f75330bf297095018662d1bd6d9e",
+  "pdf_bytes": "1109105",
+  "pages": "82",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
