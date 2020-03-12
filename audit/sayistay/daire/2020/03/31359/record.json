@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "357",
+  "decision_date": "2020-03-12",
+  "source_id": 31359,
+  "chamber": "3",
+  "ilam_number": "104",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31359/",
+  "source_sha256": "27086edf2de640da61bc3c41f9900fe64696cc5c33c7b57f99f235a0bd127841",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
