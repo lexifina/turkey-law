@@ -1,0 +1,24 @@
+{
+  "number": "158",
+  "number_as_published": "158",
+  "year": 2020,
+  "title": "Nazım ve Uygulama İmar Planı Değişikliği(Akçakale İlçesi Atatürk Mahallesi)",
+  "decision_date": "2020-03-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/9470/106/nazim-ve-uygulama-imar-plani-degisikligiakcakale-ilcesi-ataturk-mahallesi",
+  "official_document": null,
+  "source_sha256": "08bee7c8bf59c43d5ccfbb36c22d4ecb920d935f6ed055fc5872b35639731eeb",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2020-03-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.03.2020 tarih ve 158 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2020-03-17",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
