@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "210",
+  "decision_date": "2020-03-13",
+  "title": "MEC.KAR. (BOZYAZI ÇOPURLU 423 ADA 5 PARSEL).doc",
+  "listed_as": "210 MEC.KAR. (BOZYAZI ÇOPURLU 423 ADA 5 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/210-meckar-bozyazi-copurlu-423-ada-5-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/13-mart-2020-meclis-kararlari",
+  "listing_sha256": "a77691deeaa183144c77db3ebff86ff2623c5d023282f512055d1e5ce9f2889e",
+  "meeting_title": "13 MART 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
