@@ -1,0 +1,4 @@
+Müdür
+MADDE 7 – (1) (Değişik:RG-14/3/2020-31068) Müdür; Üniversite öğretim üyeleri arasından, Yönetim Üst Kurulunun onayı ile üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdürün istifa etmesi veya altı aydan fazla süre ile görev yapamaz hale gelmesi halinde, üç yıl için aynı usulle yeni Müdür görevlendirilir.
+(2) Üniversitede görevli öğretim elemanları arasından en fazla iki kişinin Müdür tarafından Müdür yardımcısı olarak atanmaları Rektörlüğe teklif edilir. Aynı usulle Müdür yardımcılarının görevine son verilebilir. Müdür yardımcılarının görev süresi üç yıldır. Süresi biten Müdür yardımcısı yeniden atanabilir. Herhangi bir nedenle Müdürün görevinin sona ermesi halinde yardımcılarının görevi de sona erer.
+(3) Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil bırakır.
