@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-03-16",
+  "issue": "31070",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Trakya Üniversitesi Rumeli İslam ve Sanatları Uygulama ve Araştırma Merkezi (RUMİSAM) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200316-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200316.htm",
+  "index_sha256": "df56ea86dcdeab94d4f558c02dcf5086c265735687b520122e146171792338a7",
+  "index_header": "16 Mart 2020 ... 31070 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200316.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
