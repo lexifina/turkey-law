@@ -1,0 +1,20 @@
+{
+  "applicant": "M.M.B.",
+  "application_date": "2015-08-11",
+  "application_number": "2015/15088",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-01-08",
+  "id": "bce8137f-0288-6f19-eb0b-47e1a96e6fe3",
+  "in_force": "2020-03-17",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2020-03-17",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmJjZTgxMzdmLTAyODgtNmYxOS1lYjBiLTQ3ZTFhOTZlNmZlMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "95ef7d986f8c1678ff042562d708686b4d0465032ba888d3b6c355f06b403c9d",
+  "version_label": "as-enacted"
+}
