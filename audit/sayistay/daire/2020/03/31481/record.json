@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "390",
+  "decision_date": "2020-03-17",
+  "source_id": 31481,
+  "chamber": "7",
+  "ilam_number": "101",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31481/",
+  "source_sha256": "5d6fb118bbd0288fdf7200321560e634aa6a99055f6f1098567dae77c63c2439",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
