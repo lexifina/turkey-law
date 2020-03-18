@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "359",
+  "decision_date": "2020-03-18",
+  "source_id": 31672,
+  "chamber": "3",
+  "ilam_number": "118",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31672/",
+  "source_sha256": "a01e81ea5fbe1185cda61a47ec02448ded8cfa73309d2a5cd7990dedd4696101",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
