@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9252-1",
+  "decision_date": "2020-03-19",
+  "title": "Opet Petrolcülük A.Ş.’nin; DEP/767-17/17138 sayılı depolama lisansı kapsamında faaliyette bulunan Marmara Ereğlisi Akaryakıt Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2020-03-21",
+  "resmi_gazete_number": "31075",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k02qiry6yE4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k02qiry6yE4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pqbMEjWgfbg="
+  ],
+  "source_sha256": "b3e25eea8edf5fd2b9664574b6f38b95a7bec85ded4b94bd46aa249764ad7ece",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-03-19",
+  "law_text_complete": true
+}
