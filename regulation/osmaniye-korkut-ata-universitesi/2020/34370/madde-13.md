@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 13 – (1) Müdür ve müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu, doğal üyelere ek olarak, bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içinden ve dışından olmak üzere, Merkezden yararlanan akademik kuruluşların eşit temsil edilmesine özen gösterilerek, Rektör tarafından üç yıl süreyle görevlendirilen en fazla on iki kişiden oluşur. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki defa toplanır.
