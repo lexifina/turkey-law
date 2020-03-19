@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "741",
+  "decision_date": "2020-03-19",
+  "source_id": 31539,
+  "chamber": "6",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31539/",
+  "source_sha256": "f7c405adb53d880005d0dc1f1c80834ebd1fdd5b3c5213869488148ee76da551",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
