@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7225",
+  "year": 2020,
+  "title": "Futbol Maçlarında ve Diğer Spor Müsabakalarında Bütüncül Bir Emniyet, Güvenlik ve Hizmet Yaklaşımı Üzerine Avrupa Konseyi Sözleşmesinin Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-03-20",
+  "gazette_issue": "31074",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200320-16.htm",
+  "source_sha256": "c8e1c86608b6450c33e5a4282cb93acbad021ee14159290302b128dbd44de545",
+  "text_sha256": "2511775e0baee1dae4e88342054f546029120f1a110d01c1b13740ce777db4f4",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/03/20/31074-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200320-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
