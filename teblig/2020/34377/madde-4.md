@@ -1,0 +1,3 @@
+Soruşturma konusu eşya
+MADDE 4 – (1) Soruşturma konusu eşya, 17/4/2015 tarihli ve 29329 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No:2015/8) uyarınca dampinge karşı önleme tabi olan 55.08, 55.09, 55.10, 55.11 (5509.52, 5509.61, 5509.91 ve 5510.20 gümrük tarife alt pozisyonları hariç) GTP’leri altında kayıtlı “sentetik ve suni devamsız liflerden iplikler (kesik elyaf ipliği)”dir.
+(2) Önleme tabi eşyanın TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.

@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Kamboçya Krallığı menşeli/çıkışlı 55.08, 55.09, 55.10, 55.11 (5509.52, 5509.61, 5509.91 ve 5510.20 gümrük tarife alt pozisyonları hariç) gümrük tarife pozisyonları altında kayıtlı “sentetik ve suni devamsız liflerden iplikler (kesik elyaf ipliği)” ithalatında re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
