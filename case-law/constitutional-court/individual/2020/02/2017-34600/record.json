@@ -1,0 +1,20 @@
+{
+  "applicant": "M.Ç.",
+  "application_date": "2017-08-31",
+  "application_number": "2017/34600",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2020-02-06",
+  "id": "c6194d93-fd13-a174-5b33-1d6322fb571c",
+  "in_force": "2020-03-20",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2020-03-20",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM2MTk0ZDkzLWZkMTMtYTE3NC01YjMzLTFkNjMyMmZiNTcxYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "67bd0b8f431dbde96ce79a0eac10fb3eb9c01a5376c304596372956d6400f25f",
+  "version_label": "as-enacted"
+}
