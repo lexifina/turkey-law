@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34376",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/4)",
+  "number": "34376",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34376",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34376&MevzuatTertip=5",
+  "source_sha256": "bc151d8cef88a5477e2f4855d1d348cf937bd04f74f1cc2ef9b545d745683337",
+  "source_bytes": 22750,
+  "published": "2020-03-20",
+  "gazette": "31074",
+  "in_force": "2020-03-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.03.2020); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 503,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34376-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
