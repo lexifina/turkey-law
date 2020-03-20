@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.34371",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DİJİTAL HİZMET VERGİSİ UYGULAMA GENEL TEBLİĞİ",
+  "number": "34371",
+  "path": "teblig/2020/34371",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34371&MevzuatTertip=5",
+  "source_sha256": "7499b503701753b71ca07ccc4f5e154c27628a58c365028a0e36b8cf460b601e",
+  "source_bytes": 190709,
+  "published": "2020-03-20",
+  "gazette": "31074",
+  "in_force": "2020-03-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.03.2020); own commencement article: \"Bu Tebliğ, 1 Mart 2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, 1 Mart 2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6942,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
