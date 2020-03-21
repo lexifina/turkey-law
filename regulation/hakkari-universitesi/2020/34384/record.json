@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-03-21",
+      "21.03.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31075",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-03-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hakkari Üniversitesi",
+  "issuer_slug": "hakkari-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hakkari-universitesi/2020/34384",
+  "published": "2020-03-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34384&MevzuatTertip=5",
+  "source_bytes": 26315,
+  "source_id": "8.5.34384",
+  "source_sha256": "7712ca79ddcd6f6482d28da0ce5432ec131e87e7b23eede9f08e94e6c631006d",
+  "text_status": "as-enacted",
+  "title": "HAKKARİ ÜNİVERSİTESİ MİNERAL VE ENERJİ KAYNAKLARI\r\nARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 346,
+  "word_count": 1185
+}
