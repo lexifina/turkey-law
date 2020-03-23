@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "48349025-105[2019/401356]-E.35515",
+  "source_id": 25566,
+  "date": "2020-03-23",
+  "title": "Madenlerin işlendikten sonra kırma taş olarak maden sahasından alıcılarına sevkinde Maden Sevk Fişi düzenlenmesi halinde ayrıca sevk irsaliyesi düzenlenmesinin gerekip gerekmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25566",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "435c5552b436d6069e9fb3bc97ba7123070d8913a2922bbbfd13172d9e232cb0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
