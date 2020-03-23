@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-126/ 2020-5",
+  "source_id": 915,
+  "date": "2020-03-23",
+  "title": "Katma Değer Vergisi Beyannamelerinin Verilme ve Ödeme Süreleri ile “Form Ba-Bs” Bildirimlerinin Verilme ve e-Defterlerin/e-Beratların Oluşturulma, İmzalanma ve Yüklenme Süreleri Uzatıldı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/915",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "bbd550c6e77465f8a10e6353d9939ef7cf82e18c53f587ac51a8f7fdc04a428e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
