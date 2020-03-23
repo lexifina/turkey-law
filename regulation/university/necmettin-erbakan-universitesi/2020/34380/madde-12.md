@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Yönetim Kurulunun gerek görmesi ile Merkezin çalışmalarında etkinlik ve verimliliği arttırmak, yeni görüşler ortaya koymak ve ihtiyaç duyulan konularda hizmetlerinden yararlanmak üzere Danışma Kurulu oluşturulabilir. Danışma Kurulu üyeleri; Yönetim Kurulunun önerisi ve belirleyeceği esaslara göre en fazla beş kişi olmak üzere sürekli veya geçici olarak Üniversitede görev yapan personel, kurum veya kuruluşların temsilcileri arasından Rektör tarafından görevlendirilir.
