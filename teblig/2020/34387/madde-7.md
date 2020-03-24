@@ -1,0 +1,3 @@
+Diğer hususlar
+MADDE 7 – (1) Sokağa çıkma yasağının, 3 üncü madde kapsamında ilan edilen mücbir sebep tarihleri aralığında sona ermesi halinde, 5 inci madde kapsamında mücbir sebep hükümlerinden faydalanan mükellefler, 3 üncü madde kapsamında bulunmaları koşuluyla, sona erme tarihinden itibaren söz konusu madde kapsamındaki mücbir sebep hükümlerinden faydalandırılır.
+(2) Sosyal güvenlik mevzuatı gereğince sigortalıların mücbir sebep dönemine ilişkin prime esas kazanç ve hizmet bilgilerinin Muhtasar ve Prim Hizmet Beyannamesi ile bildirilmesinin zorunlu olması durumunda mücbir sebep, bu beyannamelerin vergi kesintilerine ilişkin kısmının beyan ve ödeme sürelerinin ertelenmesi için geçerli olacaktır.
