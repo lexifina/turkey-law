@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-03-24",
+  "issue": "31078",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bitkisel Üretime Destekleme Ödemesi Yapılmasına Dair Tebliğ (Tebliğ No: 2019/46)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2020/10)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200324-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200324.htm",
+  "index_sha256": "8fb5eb3418bf821dbca841a4d69fbdc90f028a32e6598df577fa33dbd806df27",
+  "index_header": "24 Mart 2020 ... 31078 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200324.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
