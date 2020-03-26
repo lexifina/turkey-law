@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7227",
+  "year": 2020,
+  "title": "Afrika Kalkınma Bankası Kuruluş Anlaşmasına Katılmamızın Uygun Bulunduğuna Dair Kanunun Değiştirilmesi Hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-03-26",
+  "gazette_issue": "31080",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200326M1-2.htm",
+  "source_sha256": "9ade0d4e956b6be737975dafabcfc0accf0724ccba5d9d275ba2963613f8307e",
+  "text_sha256": "45b2ee58bf844e7f5c219c7817be3acbb79a5c63f16fe3f7f2438d8a43daad02",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/03/26/31080-m1-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/03/20200326M1-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
