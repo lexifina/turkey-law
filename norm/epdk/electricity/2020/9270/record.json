@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9270",
+  "decision_date": "2020-03-26",
+  "title": "1/4/2020 tarihinden geçerli elektrik tarife tabloları hakkında",
+  "resmi_gazete_date": "2020-03-31",
+  "resmi_gazete_number": "31085",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gtf69j1IYJ8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gtf69j1IYJ8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lhGBZ4Gs0Ao="
+  ],
+  "source_sha256": "aa685fca29befcd230c7136782f1746ba0e14b4a46cc9d06992da213d7f14ff5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-03-26",
+  "law_text_complete": true
+}
