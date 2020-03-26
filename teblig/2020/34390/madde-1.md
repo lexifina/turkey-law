@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Afs Bıçak ve Kalıp San. Dış Tic. Ltd. Şti. tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 8208.30.00.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı ürünün “yalnız 8509.40 gümrük tarife pozisyonlu, gıda maddelerini öğütücülere, karıştırıcılara ve meyve veya sebze preslerine mahsus bıçak ve kesici ağızlar” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
