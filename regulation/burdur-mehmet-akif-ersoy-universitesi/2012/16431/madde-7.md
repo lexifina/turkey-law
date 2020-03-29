@@ -1,0 +1,8 @@
+Yeterlilik sınavı
+MADDE 7 – (1) Zorunlu yabancı dil hazırlık sınıfı bulunan bir ön lisans veya lisans programına yeni kayıt yaptıran öğrenciler zorunlu hazırlık sınıfına ait ilgili yabancı dilden; hazırlık sınıfından muaf sayılabilmek için yeterlilik sınavına girebilir. Yeterlilik sınavına girmeyen öğrenciler zorunlu yabancı dil hazırlık sınıfından muaf olma haklarını kaybederler.
+(2) (Değişik:RG-28/4/2014-28985) Yeterlilik sınavı tek veya iki aşamalı olarak yapılabilir. Tek aşamalı olarak yapılan yeterlilik sınavında öğrencilerin 100 puan üzerinden en az 70 puan alması gerekir. Sınav iki aşamalı olarak yapıldığı takdirde öğrencilerin başarılı sayılabilmesi için iki aşamadan sağladığı not ortalamasının 100 puan üzerinden en az 70 puan olması gerekir. Yeterlilik sınavının uygulanma şekli ve tarihi Yüksekokul Yönetim Kurulu tarafından belirlenir.
+(3) Herhangi bir sebeple yeterlilik sınavına giremeyen öğrencilere mazeret sınav hakkı verilmez.
+(4) (Ek:RG-21/8/2017- 30161)(1) Yeterlilik sınavına ilişkin esaslar şunlardır:
+a) Güz dönemi öncesinde yapılan Güz Yeterlilik Sınavı ve güz dönemi sonrası bahar dönemi öncesi yapılan Bahar Yeterlilik Sınavı olmak üzere bir eğitim öğretim yılında iki kez yapılır.
+b) Bahar Yeterlilik Sınavına girecek zorunlu hazırlık sınıfı öğrencilerinin, güz dönemi sonu itibariyle not ortalamalarının en az 70 olması gerekir. Bu koşulu sağlayamayan öğrenciler Bahar Yeterlilik Sınavına katılamazlar.
+c) Bahar Yeterlilik Sınavı sonucunda başarılı olan öğrencilerin, Yüksekokuldan ilişikleri kesilip öğrencisi oldukları fakülte veya yüksekokullara kayıtları yapılır.

@@ -1,0 +1,5 @@
+Başvuru ve kayıt
+MADDE 20 – (1) Öğrencilerin isteğe bağlı hazırlık sınıflarına kayıt işlemleri, (Değişik ibare:RG-29/3/2020-31083) Burdur Mehmet Akif Ersoy Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine göre yapılır.
+(2) (Değişik:RG-21/8/2017- 30161)(1) Yüksekokula ön başvurular kayıt işlemleri sırasında yapılır. Kesin kayıtlar öğrencinin kayıtlı olduğu ilgili fakülte, yüksekokul ve meslek yüksekokullarının akademik takvimde belirtilen eğitim öğretiminin başladığı ilk iki haftanın son iş gününe kadar Yüksekokula şahsen yapılır.
+(3) (Değişik:RG-21/8/2017- 30161)(1) Yüksekokula kayıt yaptıran öğrenciler kontenjanlar dâhilinde değerlendirilerek, hazırlık eğitimi almaya hak kazanan öğrenci listeleri kayıtların bittiği tarihten itibaren Üniversitenin internet sayfasında ilan edilir.
+(4) (Ek:RG-28/4/2014-28985) Her eğitim-öğrenim yılının başında hazırlık talebinde bulunan ya da bulunmayan ilk kayıt usulü ile kayıt yaptıran öğrenciler Yüksekokul akademik takviminde belirlenen ekle-sil haftasında hazırlık taleplerinden vazgeçebilirler ya da talep edebilirler.

@@ -1,0 +1,4 @@
+Mazeretler
+MADDE 29 – (1) (Değişik:RG-28/4/2014-28985) Öğrencilerin mazeretleri nedeniyle ara sınava katılamaması durumunda mazeretli sayılmasına Senato tarafından belirlenen esaslara göre Yüksekokul Yönetim Kurulunca karar verilir. Mazeretlerin kabul edilmesi halinde mazeret sınavı hakkı tanınır. Mazeret sınavı hakkı tanınan öğrenciler sınav haklarını Müdürlükçe belirlenen gün, yer ve saatte kullanır.
+(2) Mazeretlere ilişkin başvurular belgeleriyle birlikte, ara sınavlar için son sınav tarihinden itibaren bir hafta içerisinde, yılsonu sınavları için sınav dönemi içerisinde Yüksekokul Müdürlüğüne yapılır. Bu süre geçtikten sonra yapılan mazeret başvuruları hakkında işlem yapılmaz.
+(3) Öğrenciler, raporlu oldukları süre içerisinde yapılan sınavlara alınmaz. Öğrencilerin, raporlu oldukları süre içerisinde girdikleri sınavlarda aldıkları notlar geçersiz sayılır.
