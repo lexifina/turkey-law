@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-03-29",
+      "29.03.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31083",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-03-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2020/34397",
+  "published": "2020-03-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34397&MevzuatTertip=5",
+  "source_bytes": 31253,
+  "source_id": "8.5.34397",
+  "source_sha256": "bbe67123d240c8994ab8c718e1361a462c76237b620d6b6aefad490b911fd9c3",
+  "text_status": "as-enacted",
+  "title": "MUNZUR ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 344,
+  "word_count": 1315
+}

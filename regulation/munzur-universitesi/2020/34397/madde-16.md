@@ -1,0 +1,2 @@
+Öğretim elemanları
+MADDE 16 – (1) Merkezde görevlendirilen öğretim elemanları, bu Yönetmelik çerçevesinde, eğitim ve öğretim, uygulama ve araştırma, yayın ve danışmanlık, plan ve program hizmetlerini yürütmek; ders vermek, ders ve test kitapları ile sınav soruları hazırlamak, sınav yapmak, kurslara ve kültürel faaliyetlere katılmak, genel ağ ve internet sayfasının tasarımı, uzaktan dil öğretimi çalışmaları ve benzeri görevleri yerine getirmekle yükümlüdürler.
