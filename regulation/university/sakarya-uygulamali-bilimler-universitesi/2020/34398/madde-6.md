@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Yapay öğrenme ve veri bilimi ile ilgili konularda ulusal ve uluslararası düzeyde Ar-Ge faaliyetleri yapmak, yapay öğrenmenin ve veri biliminin temel bilim kuramlarını oluşturan en iyileşme, karar verme, istatistiksel makine öğrenmesi, derin öğrenme ve benzeri alanlarda yapılabilecek temel araştırmalara yardımcı uygulamalı araştırmalar yürütmek.
+b) İmalat, üretim, robotik, otomasyon ve benzeri birçok sektör ve sistem içerisinde elde edilen verileri kullanılabilir veri kümelerine dönüştürmek, Üniversite-sanayi-kamu da sektörel ihtiyaçları karşılamaya yönelik bilgiye dönüştürmek için gerekli veri analizi çalışmalarını yapmak, yapay öğrenme yöntemlerini uygulamak ve modellerini oluşturmak için Ar-Ge çalışmaları yapmak, tanıma, belirleme, izleme, anlam çıkarma, planlama, yapay öğrenme etmenleri, benzetim, karar destek yöntemleri ve benzeri sistemleri geliştirmek ve uygulamaya koymak.
+c) Yapay öğrenme ve veri bilimi alanlarında yeni nesil yetişmiş nitelikli insan gücü ihtiyacını karşılamak üzere gereken eğitimler tasarlamak, firmalara ve kamuya yönelik özel kurslar düzenlemek, ilgili tüm kurumsal ve uygulamalı eğitim faaliyetlerini koordine etmek.
+ç) Ürettiği bilginin kullanımını yaygınlaştırmak ve yapay öğrenme ve veri bilimi alanında farkındalığı artırmak için toplumun her kesimine yönelik eğitimler ve tanıtım faaliyetleri düzenlemek, sivil toplum kuruluşları ile işbirliği yapmak ve yaygın katılımı sağlamak.
+d) Faaliyetlerine destek sağlamak üzere yapay öğrenme ve veri bilimi konularında ortaklıklar oluşturmak, proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.
+e) Yapay öğrenme ve veri bilimi konularında, Üniversitenin ilgili bölüm ve anabilim dalları ile işbirliğine gidilerek yurt içinde ve yurt dışında yapay öğrenme ve veri bilimi alanları ile ilgili akademik anlamda bilimsel çalışmalar yapmak, projeler oluşturmak ve devam etmekte olan projelere katılmak.
+f) Yapay öğrenme ve veri bilimi konularında ulusal ve uluslararası kongre, sempozyum ve eğitimler düzenlemek.
+g) Yapay öğrenme ve veri bilimi konuları ile ilgili bilimsel yayınlar üretmek ve desteklemek.
+ğ) Yönetim Kurulunun kararlaştırdığı diğer faaliyetlerde bulunmak.
