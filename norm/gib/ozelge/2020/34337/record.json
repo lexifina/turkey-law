@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-155.01.05[62.01.194]-41036",
+  "source_id": 34337,
+  "date": "2020-03-30",
+  "title": "Yardımlaşma derneğinin üyelerine borç para vermesi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34337",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a676d51b537b3392bf4c3e2f21b48b8fc1e8078cdc5b7ad47065667ae5b18f77",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
