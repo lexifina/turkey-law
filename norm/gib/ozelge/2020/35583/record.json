@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60757842-140.04.01-6434",
+  "source_id": 35583,
+  "date": "2020-03-31",
+  "title": "Mahkeme tarafından verilen tapu iptali ve tescil kararına istinaden tapuda yapılacak tescil işlemi sırasında tahsil edilecek tapu harçları.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35583",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a844101c4cfb742722b60ed8bf7643e1dd405f4079b1653b4bc45068bcdcc5fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
