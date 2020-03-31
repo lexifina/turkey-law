@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31085",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31085",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-03-31",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-82-0.json",
+      "id": "82",
+      "label": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=82&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-03-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34401&MevzuatTertip=5",
+  "source_bytes": 35829,
+  "source_id": "9.5.34401",
+  "source_sha256": "033a7ccc43144220075fc5c505d2e161393a1a3796fa270c8df640502eee1aab",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 398)",
+  "word_count": 1858
+}
