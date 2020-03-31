@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KDV-68/2020-1",
+  "source_id": 914,
+  "date": "2020-03-31",
+  "title": "Mücbir Sebep Nedeniyle İhraç Kayıtlı Teslimlere İlişkin İhracat Sürelerinin Uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/sirkuler/914",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "3ad0e5028c2c0f913981ce2c38b0b1879e1b9fd4d92447c17988b80a838ada3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
