@@ -1,0 +1,2 @@
+Geçmiş yılda başlamış projeler
+GEÇİCİ MADDE 1 – (1) Özel tiyatroların 2006-2007 sanat sezonu için bu Yönetmeliğin yayımından önce yapmış oldukları başvurular, bu Yönetmeliğin yayımını izleyen on gün içinde başvurularını yenilemeleri halinde, bu Yönetmelik hükümleri çerçevesinde değerlendirilir. Bu kapsamdaki özel tiyatrolar, sürmekte olan ve geçen yıl bildirdikleri projeleri için destek alabilecekleri gibi, istedikleri takdirde projelerinde değişiklik yapabilir veya yeni proje sunabilirler.

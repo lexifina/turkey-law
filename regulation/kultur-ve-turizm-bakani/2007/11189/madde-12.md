@@ -1,0 +1,6 @@
+Yardımın kullanılması, izlenmesi ve denetlenmesi
+MADDE 12 – (1) Teşekküller, yardımları veriliş amacına uygun olarak kullanmak zorundadır.
+(2) (Değişik:RG-1/4/2020-31086) Teşekküllerin etkinlikleri İl Müdürlüklerince görevlendirilen raportörlerce izlenir. Teşekküller tarafından düzenlenen sonuç raporlarının ve harcama belgelerinin İl Müdürlüğüne ibrazından sonra etkinlik raporu ilgili Genel Müdürlüğe gönderilir. Etkinliklerin izlenememesi halinde yardımların, etkinliklerin amacına uygun olarak kullanılıp kullanılmadığının tespiti için; projelere ilişkin bilgi, belge, kayıt ve raporlar ile basında çıkmış haber veya görüntülü dijital dokümanlar esas alınarak etkinlik raporu hazırlanır.
+(3) (Değişik:RG-1/4/2020-31086) Teşekküller, harcama belgelerinin, sonuç raporlarının, etkinlikle ilgili bilgi, belge ve her türlü dokümanın birer örneğini, etkinliğin bitimini müteakip bir ay içinde İl Müdürlüğüne vermek zorundadır.
+(4) (Değişik:RG-1/4/2020-31086) Bakanlık, yapılan yardımla sınırlı olmak üzere gerekli gördüğü her türlü inceleme, kontrol ve denetimi yapmaya veya İl Müdürlüklerine yaptırmaya yetkilidir. Denetim sırasında görevli memur tarafından istenecek bilgi, belge ve kayıtların gösterilmesi, verilmesi, sorulan soruların yazılı veya sözlü olarak cevaplandırılması zorunludur.
+(5) (Mülga:RG-9/2/2012-28199)
