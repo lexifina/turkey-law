@@ -1,0 +1,4 @@
+Diğer hükümler
+MADDE 13 – (1) (Mülga:RG-10/1/2013-28524)
+(2) (Değişik fıkra:RG-10/1/2013-28524) Gıda işletmelerine Kanun kapsamında verilen işletme kayıt ve onay belgeleri 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda Hijyeni Yönetmeliği, 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmelik ve 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelik kapsamında verilen belgelerdir. Bu belgelerin alınması diğer kamu kurum ve kuruluşları tarafından ilgili mevzuata göre verilen izin veya ruhsatların alınması mükellefiyetini ortadan kaldırmaz.
+(3) Gıda ve gıda ile temas eden madde ve malzemelerin üretim izni belgeleri tüm sonuçlarıyla iptal edilmiştir.

@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (Değişik:RG-30/12/2014-29221)(1)
+(1) 17/12/2011 tarihinden önce çalışma izin belgesi, çalışma izni ve gıda sicili belgesi veya bu belgelere eşdeğer belge alarak faaliyet gösteren onaya tabi gıda işletmelerinden 31/12/2012 tarihine kadar modernizasyon planı veren ve modernizasyon planındaki yatırımını 31/12/2014 tarihine kadar tamamlayamayan gıda işletmelerine, 15/2/2015 tarihine kadar müracaat etmeleri ve yetkili merci tarafından uygun bulunması halinde yatırımlarını tamamlamaları için (Değişik ibare:RG-26/7/2016-29782)(2) 1/1/2017 tarihine kadar ilave süre verilebilir.
+(2) Süt kayıt sistemine kaydedilen ve 31/12/2014 tarihine kadar onay belgesi alamayan süt toplama merkezlerine, 15/2/2015 tarihine kadar müracaat etmeleri ve yetkili merci tarafından uygun bulunması halinde onay belgesi almaları için (Değişik ibare:RG-26/7/2016-29782)(2) 1/1/2017 tarihine kadar ilave süre verilebilir.

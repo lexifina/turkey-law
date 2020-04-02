@@ -1,0 +1,15 @@
+Onay usul ve esasları
+MADDE 8 – (1) (Değişik:RG-8/7/2019-30825 Mükerrer)(4) Gıda işletmecileri, onaya tabi işletmelerine onay almak üzere bu Yönetmeliğin Ek-7’sinde belirtilen bilgi ve belgeler ile birlikte ıslak imzayla veya elektronik ortamdan ve elektronik imzayla yetkili mercie başvururlar.
+(2) Yetkili merci, başvuru dosyasını başvuru tarihinden itibaren on beş iş günü içerisinde inceler;
+a) Bilgi ve belgelerin eksik veya yanlış hazırlanmış olması durumunda, yetkili merci tarafından eksiklikler resmi yazı ile başvuru sahibine bildirilir. Eksiklikleri bir ay içerisinde tamamlanmayan dosya başvuru sahibine iade edilir.
+b) Bilgi ve belgelerin tamamlanması ve doğru olması durumunda yirmi iş günü içerisinde kontrol görevlileri tarafından Kanunun ilgili maddelerinde belirtilen hükümler ile Gıda Hijyeni Yönetmeliği ve Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliğinde yer alan bina, alt yapı ve ekipman gerekliliklerine ilişkin hükümlere uygunluğu açısından işletme yerinde resmi kontrole tabi tutulur.
+(3) (Değişik:RG-10/1/2013-28524) Yerinde yapılan resmi kontrol sonucunda;
+a) İşletmenin uygun bulunmaması halinde işletmenin eksiklikleri belirtilerek başvuru dosyası gıda işletmecisine iade edilir.
+b) İşletmenin uygun bulunması halinde gıda işletmesine Ek-8’deki işletme şartlı onay belgesi ve işletme onay numarası verilir.
+(4) İşletme, işletme şartlı onay belgesi ve işletme onay numarasının verilmesinden sonraki üç ay içerisinde gerçekleştirilen yerinde ikinci bir resmi kontrolde;
+a) Gıda işletmesinin, Kanunun ilgili maddelerinde belirtilen hükümler ile birlikte Gıda Hijyeni Yönetmeliği, Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği, Hayvansal Gıdaların Resmi Kontrollerine İlişkin Özel Kuralları Belirleyen Yönetmelik ile Gıda ve Yemin Resmi Kontrollerine Dair Yönetmelikte geçen hükümleri karşıladığının belirlenmesi durumunda, işletme şartlı onay belgesi, Ek-9’daki işletme onay belgesine çevrilir.
+b) İşletmede belirgin bir ilerleme kaydedilmiş olmasına rağmen dördüncü fıkranın (a) bendinde belirtilen mevzuat hükümlerinin tam olarak karşılanmadığının belirlenmesi durumunda, yetkili merci işletmenin şartlı onay süresini uzatabilir. Ancak şartlı onay süresi toplamda altı ayı geçemez.
+1) Şartlı onayın uzatılması için verilen süre veya sürelerin sonunda işletmenin, dördüncü fıkranın (a) bendinde belirtilen mevzuat hükümlerini tam olarak karşıladığının belirlenmesi durumunda işletmeye verilmiş olan işletme şartlı onay belgesi, işletme onay belgesine çevrilir.
+2) Uzatılan şartlı onay süresinin sonunda yapılan resmi kontrolde işletmenin, dördüncü fıkranın (a) bendinde belirtilen mevzuat hükümlerini tam olarak karşılamadığının yetkili merci tarafından belirlenmesi durumunda işletme şartlı onay belgesi iptal edilir ve işletmenin faaliyeti durdurulur.
+(5) Ülkemiz bayrağı taşıyan dondurucu üniteye sahip gemiler ile fabrika gemileri için verilecek şartlı onay süresi toplamda on iki ayı geçemez.
+(6) Bakanlık onaylı işletmeler için listeleri oluşturur, listeleri güncel tutar ve Ek-13’te yer alan şekli ile yayınlar.
