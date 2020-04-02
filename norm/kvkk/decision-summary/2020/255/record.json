@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/255",
+  "source_id": 6894,
+  "date": "2020-04-02",
+  "title": "“Veri sorumlusu eğitim kurumu tarafından şikayetçinin çocuklarının özel nitelikli kişisel verilerinin hukuka aykırı olarak işlenmesi hakkında” Kişisel Verileri Koruma Kurulunun 02/04/2020 tarihli ve 2020/255 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6894/2020-255",
+  "source_sha256": "49a08d524e224c8479bf5894f34563d53a338ce6194aad961cd7f91781eb18b8",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
