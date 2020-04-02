@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-02",
+  "issue": "31087",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Gıda İşletmelerinin Kayıt ve Onay İşlemlerine Dair Yönetmelikte Değişiklik Yapılması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200402-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200402.htm",
+  "index_sha256": "5eeedf56f665c1666a3e4eed489af4ce84a9c8e424f0d3bc17036f5e435c7cba",
+  "index_header": "2 Nisan 2020 ... 31087 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200402.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
