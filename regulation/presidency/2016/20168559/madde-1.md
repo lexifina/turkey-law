@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; tamamı kendisine ait bir konutu olmayan Türk vatandaşlarının yurtiçinde ilk ve tek konut edinimlerine destek olmak amacıyla açılacak konut hesaplarına, hesap sahiplerinin ödeme planlarına, Devlet katkısına konu olacak konutların niteliğine, Devlet katkısına ilişkin hak ediş sürelerinin tespitine ve birikim yapılan süreler ile ödeme planlarına göre Devlet katkısı oranının ve azami tutarın farklılaştırılmasına, hesapların denetimine ve uygulamaya yönelik diğer hususlara ilişkin usul ve esasların belirlenmesidir.(1)

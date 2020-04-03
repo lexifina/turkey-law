@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20168559",
+  "number": "20168559",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KONUT HESABI VE DEVLET KATKISINA DAİR YÖNETMELİK",
+  "published": "2016-02-26",
+  "enacted": "2016-02-22",
+  "gazette_number": "29636",
+  "in_force": "2020-04-03",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 3/4/2020; source row: 2/4/2020 | 2346 | Geçici Madde 2 | 3/4/2020",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20168559&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "1fca1fb2ba01f7b2a6013f0bf83ff8e757729b130c85278f6aa64da3db8c2506",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
