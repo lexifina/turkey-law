@@ -1,0 +1,2 @@
+Kurum tarafından verilmiş olan şifreler
+GEÇİCİ MADDE 3 – (1) Bu Tebliğin yürürlüğe girdiği tarihe kadar 5510 sayılı Kanun uyarınca çalıştırdığı sigortalıların prime esas kazanç ve hizmet bilgilerini elektronik ortamda gönderen işverenler ile bildirge göndermek üzere aracılık yetkisi verilen gerçek ve tüzel kişiler bu Tebliğin yürürlüğe girdiği tarihten sonra verecekleri Muhtasar ve Prim Hizmet Beyannamesini Kurum tarafından verilmiş olan şifre ile gönderemeyeceklerdir.

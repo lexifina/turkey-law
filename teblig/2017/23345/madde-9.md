@@ -1,0 +1,7 @@
+Aracılık yetkisi verilen gerçek ve tüzel kişilere kullanıcı kodu, parola ve şifre verilmesi ile ilgili işlemler
+MADDE 9 – (1) Elektronik beyanname gönderme aracılık yetkisi talep eden;
+a) Meslek mensuplarının 340 Sıra No.lu Vergi Usul Kanunu Genel Tebliği ekinde yer alan “Elektronik Beyanname Gönderme Aracılık Yetkisi Talep Formu”nu,
+b) Gelir Vergisi Kanununun 46 ncı maddesi gereğince basit usulde vergilendirilen mükelleflerin alış ve satışlarına ilişkin belgelerin kayıtlarını tutan meslek odalarının bu Tebliğ ekindeki “Basit Usulde Vergilendirilen Mükelleflerin Beyannamelerinin Elektronik Ortamda Gönderilmesine Aracılık Yetkisi Talep Formu”nu (Ek-2),
+c) 5362 sayılı Esnaf ve Sanatkarlar Meslek Kuruluşları Kanununa göre kurulmuş meslek odalarının ve birliklerinin bu Tebliğ ekindeki “İşletme Hesabı Esasına Göre Defter Tutan Mükelleflerin Beyannamelerinin Elektronik Ortamda Gönderilmesine Aracılık Yetkisi Talep Formu”nu (Ek-3),
+doldurarak bağlı oldukları vergi dairesine müracaat etmeleri halinde 340 Sıra No.lu Vergi Usul Kanunu Genel Tebliğinde belirtilen usul ve esaslar doğrultusunda kendilerine kullanıcı kodu, parola ve şifre verilecektir.
+(2) Maliye Bakanlığınca yapılan düzenlemeler kapsamında bu Tebliğin yürürlüğe girdiği tarihten önce elektronik ortamda beyanname gönderme aracılık yetkisi almış bulunan gerçek ve tüzel kişiler mevcut kullanıcı kodu, parola ve şifrelerini kullanmaya devam edeceklerdir.

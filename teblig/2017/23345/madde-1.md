@@ -1,0 +1,5 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve kapsam
+MADDE 1 – (1) Vergiye uyum maliyetlerinin azaltılması, gönüllü uyumun teşvik edilmesi ve kayıt dışı ekonomi ile mücadelede etkinliğin artırılması amacıyla, vergi kanunlarına göre vergi dairesine verilmesi gereken “Muhtasar Beyanname” ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılan kişileri bildirmekle yükümlü olanlar tarafından Sosyal Güvenlik Kurumuna verilmesi gereken “Aylık Prim ve Hizmet Belgesi”nin birleştirilmesi sonucunda oluşturulan “Muhtasar ve Prim Hizmet Beyannamesi”nin verilmesine ilişkin usul ve esasların belirlenmesi bu Tebliğin amaç ve konusunu oluşturmaktadır.
+(2) Bu Tebliğ ile yapılan düzenlemeler, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılan kişileri (Ek 9 uncu maddesi kapsamındaki sigortalılar hariç) bildirmekle yükümlü olanlar ile geçici 20 nci maddesi kapsamındaki sandıklar ve vergi kanunlarına göre vergi kesintisi yapmak zorunda olanlar hakkında uygulanır.
