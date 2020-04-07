@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.9746",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA İNFAZ KURUMLARI PERSONELİ İLE CEZA İNFAZ KURUMLARI VE TUTUKEVLERİ PERSONELİ EĞİTİM MERKEZLERİ ÖĞRENCİLERİNİN KIYAFET YÖNETMELİĞİ",
+  "number": "9746",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2005/9746",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9746&MevzuatTertip=5",
+  "source_sha256": "f2077e502080231feea577f34150cf97e36595831690a6b7d4f6ca53cce2e1ea",
+  "source_bytes": 58542,
+  "published": "2005-12-29",
+  "gazette": "26038",
+  "in_force": "2020-04-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/4/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-04-07",
+      "RG-7/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-07",
+      "7/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-20",
+      "RG-20/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-20",
+      "20/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-06-21",
+      "RG-21/6/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-06-21",
+      "21/6/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-08-17",
+      "RG-17/8/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-08-17",
+      "17/8/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2006 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2942,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.9746%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

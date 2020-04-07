@@ -1,0 +1,2 @@
+Dayanak
+Madde 3 — Bu Yönetmelik, 14/6/1930 tarihli ve 1721 sayılı Hapishane ve Tevkifhanelerin İdaresi Hakkında Kanunun değişik 2 nci, 29/7/2002 tarihli ve 4769 sayılı Ceza İnfaz Kurumları ve Tutukevleri Personeli Eğitim Merkezleri Kanununun 18 inci maddesi ile 16/7/1982 tarihli ve 8/5105 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmeliğin 6 ncı maddesine dayanılarak hazırlanmıştır.
