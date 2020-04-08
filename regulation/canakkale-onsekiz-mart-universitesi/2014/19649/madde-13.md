@@ -1,0 +1,5 @@
+Çift anadal ve yandal programları
+MADDE 13 – (1) (Değişik:RG-22/10/2017-30218) Kayıtlı olduğu lisans programını başarı ile yürüten öğrencilere aynı zamanda ikinci lisans veya önlisans diploması, önlisans programını başarı ile yürüten öğrencilere ikinci önlisans diploması almak üzere öğrenim görmelerini sağlayan çift anadal programına devam etme hakkı verilebilir.
+(2) Kayıtlı olduğu lisans programını başarı ile yürüten öğrencilere, ilgi duydukları başka bir alanda bilgilenmelerini sağlamak amacıyla yandal programına devam etme hakkı verilebilir.
+(3) Çift anadal veya yandal programları, ilgili Yönetim Kurulunun önerisi ile Senato tarafından açılır ve birimlerin işbirliği ile yürütülür.
+(4) Çift anadal ve yandal programlarında eğitim-öğretim, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri ile Senato tarafından belirlenen esaslara göre yapılır.

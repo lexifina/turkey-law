@@ -1,0 +1,3 @@
+Dikey geçiş
+MADDE 31 – (1) Meslek yüksekokulları mezunlarının lisans programına kabulleri, 19/2/2002 tarihli ve 24676 sayılı Resmî Gazete’de yayımlanan Meslek Yüksekokulları ve Açıköğretim Ön Lisans Programları Mezunlarının Lisans Öğrenimine Devamları Hakkında Yönetmelik hükümlerine göre ve ilgili Yönetim Kurullarınca kararlaştırılır.
+(2) Yabancı dilde eğitim-öğretim yapan programlara dikey geçiş sınavı ile yerleşen öğrencinin, ÇOMÜ’de yapılacak olan yabancı dil hazırlık sınıfı yeterlik sınavını başarmış olması ya da Yabancı Diller Yüksekokulu Yönetim Kurulunca muaf sayılması gerekir. Muaf sayılmadığı ya da sınavda başarısız olması durumunda öğrenci yabancı dil hazırlık sınıfına devam eder.

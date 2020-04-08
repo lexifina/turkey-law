@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 41 – (1) Her türlü tebligat, öğrencinin Üniversiteye bildirdiği adrese iadeli-taahhütlü olarak veya öğrenciye imza karşılığı tebellüğ ettirilmek suretiyle yapılmış sayılır. Tebligata elverişli bir e-posta adresi vererek bu adrese tebligat yapılmasını isteyen öğrencilere, elektronik yolla tebligat yapılabilir. Elektronik yolla yapılan tebligat, muhatabın e-posta adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır.
+(2) Adresi değişen ve bunu ilgili öğrenci işleri bürosuna bildirmeyen veya yanlış ya da eksik adres vermiş olan öğrencinin, ÇOMÜ kayıtlarındaki mevcut adresine tebligatın gönderilmesi halinde, kendisine tebligat yapılmış sayılır.

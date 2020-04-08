@@ -1,0 +1,6 @@
+Üniversite içindeki diğer programlardan ve diğer üniversitelerden ders alma
+MADDE 14 – (1) Öğrenciler kendilerini geliştirmek amacıyla isterler ise ÇOMÜ içindeki diğer bölüm/programlardan ders alabilirler.
+(2) Üniversite öğrencileri ile diğer Üniversitelerde öğrenim gören öğrenciler isterler ise Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik gereğince özel öğrenci statüsünde ders alabilirler.
+(3) Öğrenciler, diğer üniversitelerin yaz okulu programlarından 22/9/2002 tarihli ve 24884 sayılı Resmî Gazete’de yayımlanan Çanakkale Onsekiz Mart Ünivesitesi Yaz Okulu Yönetmeliğinde belirtilen esaslara göre ders alabilirler.
+(4) Üniversite içindeki diğer bölüm/programlardan alınan tüm dersler, denklik koşulu aranmaksızın öğrencinin not döküm (transkript) belgesine işlenir. Ancak bu dersler ve bunlardan alınan notlar, öğrencinin ağırlıklı not ortalamasının hesaplanmasında dikkate alınmaz. Bu dersler; yanlarına Bölüm/Program Dışı anlamında BD/PD kodu yazılır.
+(5) Diğer üniversitelerden ders almakla ilgili doğabilecek maddi yükümlülükler dersi alan öğrenciye aittir.

@@ -1,0 +1,5 @@
+SEKİZİNCİ BÖLÜM
+Yatay ve Dikey Geçişler, Kayıt Dondurma ve İlişik Kesme Esasları
+Diğer yükseköğretim kurumlarından yatay geçiş
+MADDE 29 – (1) Akademik birimlere başka üniversitelerden yapılacak yatay geçişler ile akademik birimler ve bölümler arası yatay geçişler 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır. Yabancı dilde eğitim-öğretim yapan programlara yatay geçiş için öğrencinin, ÇOMÜ’de yapılacak olan yabancı dil hazırlık sınıfı yeterlik sınavını başarmış olması ya da Yabancı Diller Yüksekokulu Yönetim Kurulunca muaf sayılması gerekir.
+(2) Diğer yükseköğretim kurumlarının ikinci öğretim programlarından sadece Üniversitenin denk ikinci öğretim programlarına yatay geçiş yapılabilir. Ancak ikinci öğretim programlarından başarı bakımından bulunduğu sınıfın ilk %10’una girerek bir üst sınıfa geçen öğrenciler birinci öğretim programlarına kontenjan dâhilinde yatay geçiş yapabilirler.

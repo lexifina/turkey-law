@@ -1,0 +1,2 @@
+Yıllık izin
+MADDE 35 – (1) Öğrencilerin; öğrenim ve eğitimlerine katkıda bulunacak Üniversite dışı burs; staj ve araştırma imkanları doğması halinde, akademik birimlerin ilgili Yönetim Kurulu kararı ile bir defaya mahsus olmak üzere bir yıla kadar izin verilebilir. Bu tür izin süresi, azami öğretim süresine eklenir. Ancak bu tür izinler ile ilgili başvuruların, eğitim-öğretim yarıyılının ilk ayı içinde yapılması gerekir.

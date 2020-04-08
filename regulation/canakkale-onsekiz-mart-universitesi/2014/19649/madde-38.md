@@ -1,0 +1,7 @@
+Diploma
+MADDE 38 – (1) Öğrenim programlarını başarı ile tamamlayan öğrencilere, programın tamamlanmasını takip eden sınav dönemi sonunda diplomaları verilir.
+(2) Akademik birimler tarafından verilecek diploma tasarımları Senato tarafından belirlenir.
+(3) Diplomalar hazırlanıncaya kadar, gerektiğinde öğrencilere geçici mezuniyet belgesi verilebilir. Mezuniyet tarihi, son sınav dönemlerinin bitim tarihinden sonraki ilk iş günüdür.
+(4) (Değişik:RG-8/4/2020-31093) Diplomaların ön yüzünde; hologram, öğrencinin adı ve soyadı, diploma numarası, önlisans/lisans düzeyinde başardığı programın adı, bölümü ve/veya ana bilim dalı, çift dal, mezuniyet tarihi, fakültelerde Rektörün ve Dekanın, yüksekokullarda Rektörün ve yüksekokul müdürünün, meslek yüksekokullarında Rektörün ve meslek yüksekokulu müdürünün elektronik imzaları bulunur. Öğrenci nüfus bilgileri ve doğrulama kodu diplomanın arka yüzüne yazılır. Diplomalar bilgisayar ortamında elektronik imza ile düzenlenir. Diplomalara fotoğraf yapışmaz ve Rektörlük tarafından soğuk damga ile mühürlenir.
+(5) (Değişik:RG-8/4/2020-31093) Mezun olan tüm öğrencilere diploma eki verilir. Diploma ekleri fakültelerde dekanlar, yüksekokul ve meslek yüksekokullarında müdürler tarafından elektronik imza ile onaylanarak öğrencilere diplomalarıyla birlikte teslim edilir.
+(6) Diploma bir defa verilir ancak diplomanın kaybı halinde, diploma, kaçıncı defa verildiği belirtilmek kaydıyla ikinci nüsha olarak 38 inci madde hükümlerine uygun olarak yeniden düzenlenir.
