@@ -1,0 +1,4 @@
+Mevcut önlem
+MADDE 6 – (1) ÇHC menşeli 5603.14 GTP’i altında sınıflandırılan başvuru konusu ürüne yönelik, 18/4/2009 tarihli ve 27204 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2009/12) ile 1,9 ABD Doları/kg değerinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 12/4/2015 tarihli ve 29324 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/9) ile tamamlanan NGGS sonucunda yürürlükte olan dampinge karşı önlem uygulanmaya devam edilmiştir.
+(3) 16/10/2018 tarihli ve 30567 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/9)’de Değişiklik Yapılmasına Dair Tebliğ ile mevcut önlemin kapsamı 3921.13 GTP altında yer alan “Yalnız, dokumaya elverişli maddelerden mesnedi bulunan, m2 ağırlığı 150 gr’ı geçen deri taklitleri” tanımlı ürünleri de kapsayacak şekilde değiştirilerek uygulamaya devam edilmiştir.
