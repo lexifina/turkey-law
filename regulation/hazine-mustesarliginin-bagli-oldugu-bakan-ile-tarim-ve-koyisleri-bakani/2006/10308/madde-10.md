@@ -1,0 +1,3 @@
+Kurulun toplanması
+MADDE 10 - (1) Kurul, en az beş üyenin katılımı ile toplanır ve kararlar oy çokluğu ile alınır. Kurul, ayda en az bir kez Kurul Başkanının çağrısı veya en az üç kurul üyesinin teklifi ile olağanüstü toplanır. Kurul üyeleri çekimser oy kullanamaz. Oylamalarda eşitlik halinde, Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(2) Seyahat veya hastalık gibi meşru mazereti olmaksızın veya olup da bildirmeksizin üst üste üç toplantıya iştirak etmeyen veya meşru mazereti olsun olmasın bir yıl içinde yapılacak toplantıların üçte birine katılmayan üyelerin üyelik sıfatlarına Kurul Başkanının önerisi üzerine Bakanlıkça son verilir ve yerine 8 inci maddedeki usule göre yenisi görevlendirilir.

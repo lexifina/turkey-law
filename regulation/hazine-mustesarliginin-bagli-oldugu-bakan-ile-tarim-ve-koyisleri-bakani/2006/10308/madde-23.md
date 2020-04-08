@@ -1,0 +1,2 @@
+Sigorta şirketlerinin Havuz ile sözleşmesinin sona ermesi
+MADDE 23 - (1) Mevzuata ve Kurul kararlarına uymayan sigorta şirketinin Havuz ile sözleşmesi sona erdirilir ve Havuz’dan çıkartılır. Bu şekilde Havuzdan çıkartılan sigorta şirketi, Havuza iş devredemez. Ayrılan sigorta şirketi, Havuzla sözleşmesinin geçerli olduğu müddet zarfında ve akdettiği sözleşmeler süresi bitimine kadar şirket sözleşmesinden doğan taahhüt ve vecibeleri ile bağlıdır.
