@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9289-5",
+  "decision_date": "2020-04-09",
+  "title": "Spot boru gazı ithalatına konu edilecek beşinci aylık (A5 - 2020/5) kapasite ürününe ilişkin hazırlanan “Talep Çağrısı Metni” hakkında",
+  "resmi_gazete_date": "2020-04-11",
+  "resmi_gazete_number": "31096",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pLy9h9PvoWs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pLy9h9PvoWs="
+  ],
+  "source_sha256": "8bb777a6c8a51fd17d9ee7bff75deb5ae9fedfc24d5f1f195c22e1a7d3072663",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2020-04-09",
+  "law_text_complete": false
+}
