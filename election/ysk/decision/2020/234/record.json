@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2020/234",
+  "list_number": "234",
+  "decision_date": "2020-04-09",
+  "title": "7 Haziran 2020 tarihinde yapılacak ara seçimlere ilişkin olarak muhtarlık bölgesi askı listelerinin 20 Nisan 2020 Pazartesi günü askıya çıkarılması, 28 Nisan 2020 Salı günü saat 17.00’de askıdan indirilmesi ve 7 Mayıs 2020 Perşembe günü seçmen hareketlerinin son tarihi olarak belirlenmesine ilişkin Yüksek Seçim Kurulunun 09/04/2020 tarihli, 2020/234 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78293/2020-234.pdf",
+  "source_sha256": "845c794eaf0404a5c75da5906511d159ae2cecda1e43ac3ba6caa4f9002e49ed",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2020-04-09",
+  "law_text_complete": false
+}
