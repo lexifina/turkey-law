@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-09",
+  "issue": "31094",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Konya Gıda ve Tarım Üniversitesi Kooperatifçilik ve Tarımsal İş Birliği Uygulama ve Araştırma Merkezi (KOTİB) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200409-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200409.htm",
+  "index_sha256": "060d5c546091fa22b194c556a7d08d0bff46c193ad11a4f8f88c98d20f64c50d",
+  "index_header": "9 Nisan 2020 ... 31094 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200409.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
