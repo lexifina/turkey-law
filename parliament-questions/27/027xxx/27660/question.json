@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/27660",
+  "submitted": "2020-04-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Suzan ŞAHİN",
+  "province": "Hatay",
+  "summary": "Covid-19 salgını nedeniyle açıklanan bazı destek paketlerine yapılan başvurular ile KOBİ'lerin ve esnafın mevcut borçlarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-4940-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "fe5d8e81668a4b93c051b4d83755305f260a667048182afbb48053274b11e8eb",
+  "in_force": "2020-04-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
