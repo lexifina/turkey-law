@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; ilgili mevzuat doğrultusunda kozmetik, temizlik ve kimyevi ürünler alanında, Mersin Üniversitesi başta olmak üzere ülke ekonomisine katkı sağlayacak araştırma, geliştirme ve üretim çalışmaları yapmak; test ve analiz hizmeti vermek; üretilen ürünlerin pazarlama ve satışını yaparak tüketicinin kullanımına sunmak; yeni ürünlerin araştırılması, geliştirilmesi, üretilmesi, standardizasyonu, kalite kontrolü, patent ve pazarlaması ile ilgili çalışmalar yapmak; ulusal/uluslararası kuruluşlarla bilimsel, teknolojik ve ticari işbirlikleri yapmak, projeler üretmek, danışmanlık hizmeti vermek; ilgili konularda eğitim ve sertifika programları, fuarlar, konferanslar, çalıştaylar, seminerler, kurslar ve bilimsel toplantılar düzenlemektir.
