@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür, Ege Üniversitesi Tıp Fakültesi İç Hastalıkları Anabilim Dalı (AD)/Onkoloji Bilim Dalı (BD), İç Hastalıkları AD/Hematoloji BD, Çocuk Sağlığı ve Hastalıkları AD/Çocuk Hematolojisi ve Onkolojisi BD, Çocuk Sağlığı ve Hastalıkları AD/Çocuk Genetik Hastalıkları BD, Tıbbi Biyoloji AD, Tıbbi Genetik AD, Patoloji AD, Radyasyon Onkolojisi AD öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Süresi sona eren Müdür aynı usulle tekrar görevlendirilebilir.
