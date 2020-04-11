@@ -1,0 +1,4 @@
+Sözleşmeye ilişkin diğer hususlar
+MADDE 22- (1) Sözleşme imzalandıktan sonra, sözleşme bedelinin aşılmaması ve idare ile yüklenicinin anlaşması kaydıyla; işin yapılma veya teslim yeri ile işin süresinden önce yapılması veya teslim edilmesi kaydıyla işin süresi ve bu süreye uygun olarak ödeme şartları hususlarında sözleşme hükümlerinde değişiklik yapılabilir.
+(2) Sözleşme, zorunlu hallerde ihale yetkilisinin yazılı izni ile başkasına devredilebilir. Ancak devralacaklarda doğrudan temin veya pazarlık usulü ihaledeki ilk şartların aranması zorunludur. Ayrıca, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez ve devir alınamaz.
+(3) Sözleşmenin feshi ve işin tasfiyesiyle ilgili hususlarda, 4735 sayılı Kanunun ilgili madde hükümleri uygulanır.

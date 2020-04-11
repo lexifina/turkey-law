@@ -1,0 +1,2 @@
+Pazarlık usulü
+MADDE 11- (1) Bu Usul ve Esasların; 17 nci maddesinin birinci fıkrasında belirlenen doğrudan temin için öngörülen parasal limitin üzerinde kalan ve aynı maddenin ikinci fıkrası gereğince doğrudan temin usulü ile yapılamayacak olan araştırma ve geliştirme hizmeti alımları, bu Usul ve Esaslarda belirtilen şekilde en az üç isteklinin davet edildiği pazarlık usulü ile gerçekleştirilebilir.
