@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 13/4/2020",
+  "first_law": null,
+  "gazette": "30999",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-04-13",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Konya Teknik Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2020-01-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34164&MevzuatTertip=5",
+  "source_bytes": 36503,
+  "source_id": "8.5.34164",
+  "source_sha256": "97d066993c3257c9b189b7ec0c78790ed586c513c32e89012d8d28a997b17d81",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "KONYA TEKNİK ÜNİVERSİTESİ ENERJİ TEKNOLOJİLERİ ARAŞTIRMALARI GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 485,
+  "version_label": "oldest version available",
+  "word_count": 1136
+}
