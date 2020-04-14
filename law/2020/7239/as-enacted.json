@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7239",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti ile Moğolistan Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-14",
+  "gazette_issue": "31099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-12.htm",
+  "source_sha256": "3d2d99d60924ad59147fdabaccf2e42cdd83a198719bb09b3691ee2802f2f297",
+  "text_sha256": "bb7de4aff2a165829b195e2941609040b6ca8bcc8a0002d4b6f16aa88c71948e",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/14/31099-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
