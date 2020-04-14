@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7236",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Özbekistan Cumhuriyeti Hükümeti Arasında Uluslararası Kombine Yük Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-14",
+  "gazette_issue": "31099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-9.htm",
+  "source_sha256": "db9dbe602aee8960e1bc1b7c8dbdae74d2cd549c7e35a12bd0e5776c1daf522c",
+  "text_sha256": "328fc6024c309c474ac6c5be43eda3f7b235e60066f9cb7238a6793a49328430",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/14/31099-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
