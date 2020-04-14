@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7230",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kırgız Cumhuriyeti Hükümeti Arasında Sosyal Güvenlik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-14",
+  "gazette_issue": "31099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-3.htm",
+  "source_sha256": "ef92b596ba97052e8955e8958055a357a84c7ac699a23e8e472701a56a4060ab",
+  "text_sha256": "689c82099fd4eaf0d33d697b85f440fe22730d6f5835f856d7f327bb7dd97a9f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/14/31099-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
