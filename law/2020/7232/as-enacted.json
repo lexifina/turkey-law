@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7232",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Özbekistan Cumhuriyeti Hükümeti Arasında Askeri Eğitim Öğretim Alanında İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-14",
+  "gazette_issue": "31099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-5.htm",
+  "source_sha256": "adc9b41a13fa7aa051e0726239dfc7afa55db2d487c8dbb0abad10bf538835d5",
+  "text_sha256": "4b9e2edf75840a4372de732fa5f1f9540e0d332ee5eb6bb062d1894af33efe2c",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/14/31099-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
