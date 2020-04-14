@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7238",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Azerbaycan Cumhuriyeti Hükümeti Arasında Sürücü Belgelerinin Karşılıklı Tanınması ve Tebdiline İlişkin Anlaşma ve Anlaşmada Değişiklik Yapılmasına Dair Notaların Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-14",
+  "gazette_issue": "31099",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-11.htm",
+  "source_sha256": "b36d6500b31331a196c01fdef96f231096bc4646295fbb0866892d12fba428fb",
+  "text_sha256": "749a076f34814b1c7a0d6d8c0b32a679aec522069259d7628043fc69b7cfeaf2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/14/31099-11",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200414-11.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
