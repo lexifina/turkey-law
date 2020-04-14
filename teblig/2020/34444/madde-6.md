@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 6 – (1) Normal değer için, başvuruya konu ürünün tüketim ürünü olduğu dikkate alınarak, tahıllı kaşık maması ürünlerinin başvuru konusu ülke olan Hırvatistan’da bilinen perakendecilerde geçerli olan satış fiyatı dikkate alınmıştır. Bu fiyat üzerinden katma değer vergisi, perakende/distribütör payı ve dahili navlun değerleri düşülmüş, oluşan değerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(2) İhraç fiyatı olarak, soruşturmaya konu ülkeden Türkiye’ye gerçekleştirilen ihracatın FOB birim fiyatı esas alınmıştır. Anılan değerlerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(3) Normal değer ile ihraç fiyatı mümkün olduğu ölçüde aynı ticari aşamada karşılaştırılmış olup hesaplanan damping marjlarının ihmal edilebilir oranın üzerinde olduğu tespit edilmiştir.
