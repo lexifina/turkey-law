@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7242",
+  "year": 2020,
+  "title": "Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun İle Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-15",
+  "gazette_issue": "31100",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200415-16.htm",
+  "source_sha256": "1b3abdf1a29aa4cb5e3546dfaf8faa56823fa76da06b037cf96ba4fa0c218ab7",
+  "text_sha256": "6e842d9c6a7532ac4ef32a7fd8f258199126ba070dfd8e307e80a93e30bac0ab",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/15/31100-16",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200415-16.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
