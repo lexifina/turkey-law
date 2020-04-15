@@ -12,9 +12,9 @@ h) Sayım ve aramalar ile 43 üncü maddenin (e) bendinde belirtilen faaliyetler
 ı) Kurum görevlileri ile dış güvenlik görevlilerine rüşvet teklif etmek veya vermeye kalkışmak.
 j) Kurum görevlilerine hakaret veya tehditte bulunmak.
 k) Kuruma, kurum görevlilerine veya hükümlü ve tutuklulara ait şeyleri çalmak veya bunlara kasten zarar vermek.
-9231
 l) İzin süresini özürsüz olarak en fazla iki gün geçirmek.
 m) Hükümlü ve tutukluların beslenmelerini engellemek, açlık grevine ve ölüm orucuna teşvik veya ikna etmek, bu yolda talimat vermek.
+n) (Ek:14/4/2020-7242/25 md.) Kuruma alkol sokmak, kurumda alkol bulundurmak veya kullanmak.
 (3) Onbir günden yirmi güne kadar hücreye koyma cezasını gerektiren eylemler şunlardır:
 a) İsyan çıkartmak.
 b) Kuruma ağır zarar vermek.

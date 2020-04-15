@@ -1,2 +1,3 @@
-Hükümlüye dışarıdan gönderilen hediyeyi kabul etme hakkı
-Madde 69- (1) Kapalı ceza infaz kurumlarındaki hükümlü, dinî bayram, yılbaşı veya kendi doğum günlerinde, dışarıdan gönderilen ve kurum güvenliği için tehlikeli olmayan bir hediyeyi kabul etme hakkına sahiptir. Bunun esas ve usûlleri tüzükte gösterilir.
+Hükümlüye dışarıdan gönderilen hediyeyi kabul etme hakkı[30]
+Madde 69- (Değişik:14/4/2020-7242/34 md.)
+(1) Kapalı ceza infaz kurumlarındaki hükümlü, iki ayda bir kez, ayrıca dinî bayram, yılbaşı veya kendi doğum günlerinde dışarıdan gönderilen ve kurum güvenliği için tehlikeli olmayan bir hediyeyi kabul etme hakkına sahiptir. Çocuk ve altmış beş yaşını tamamlamış hükümlüler ile beraberinde çocuğu bulunan kadın hükümlüler, idare ve gözlem kurulu tarafından alınacak karar doğrultusunda belirtilen zaman dilimi dışında da hediye kabul edebilir. Bunun esas ve usulleri yönetmelikle belirlenir.
