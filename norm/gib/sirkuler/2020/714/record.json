@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-127/ 2020-6",
+  "source_id": 714,
+  "date": "2020-04-17",
+  "title": "30 Nisan 2020 günü sonuna kadar verilmesi gereken 2019 hesap dönemine ait Kurumlar Vergisi beyannamelerinin verilme süreleri ile bu beyannameler üzerine tahakkuk eden vergilerin ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/714",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "ec92828f67c9bf9a3d404e971f258c766a60db8243381a0c6a6097c47496599a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
