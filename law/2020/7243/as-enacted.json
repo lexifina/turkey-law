@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7243",
+  "year": 2020,
+  "title": "Yükseköğretim Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-04-17",
+  "gazette_issue": "31102",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200417-1.htm",
+  "source_sha256": "9260dd74e598d8fb73789547c61bbe09b4289bfe538002b15b1cbb16028d1b71",
+  "text_sha256": "a220e30949959a6082360c885478ca774a0ff28dc6eab2a73db8a56852bafc49",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/04/17/31102-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200417-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
