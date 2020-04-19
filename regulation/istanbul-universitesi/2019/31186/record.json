@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-01-14",
+      "14.01.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-04-19",
+      "RG-19/4/2020-31104",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-04-19",
+      "19/4/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/4/2020-31104",
+  "first_law": null,
+  "gazette": "30655",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-04-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2019/31186",
+  "published": "2019-01-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31186&MevzuatTertip=5",
+  "source_bytes": 32646,
+  "source_id": "8.5.31186",
+  "source_sha256": "853317bc541a63d26fcb5a13a9229d8572ce9434dd4d8d23fa3e0021dd779e94",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ (İÜC-SEM) YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1124
+}
