@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-336858",
+  "source_id": 21090,
+  "date": "2020-04-20",
+  "title": "Tanıtım metinleri, makale yazarlığı faaliyetinden elde edilen kazanç dolayısıyla Gelir Vergisi Kanunu'nun 18'inci maddesinde yer alan istisna hükmünden yararlanılıp yararlanılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21090",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "90ddaccfdbb9b2b1cce4225ef228190e3277bb6458de780bbd5ef248d93e0be8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
