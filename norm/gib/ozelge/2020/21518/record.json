@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[25-2018/360]-336873",
+  "source_id": 21518,
+  "date": "2020-04-20",
+  "title": "Devralınan şirketin çalışanlarının hizmet akitleri sürelerinin toplamı üzerinden hesaplanan kıdem tazminatlarının istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21518",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2646e235149b11087e1a4fc289141f8f260fc429c8f5fce098f7814fab0b7a1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
