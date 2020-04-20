@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-04-20",
+      "20.04.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31105",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-04-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2020/34453",
+  "published": "2020-04-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34453&MevzuatTertip=5",
+  "source_bytes": 37442,
+  "source_id": "8.5.34453",
+  "source_sha256": "042115059eca5bf4ec07d6e93d0248dcede9e6f7e57db8e01c362108334d91b4",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ KARİYER GELİŞTİRME UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 1796
+}
