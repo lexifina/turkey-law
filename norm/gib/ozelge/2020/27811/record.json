@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[5-2018/422]-336767",
+  "source_id": 27811,
+  "date": "2020-04-20",
+  "title": "Yurt dışı mukimi firmaya verilen danışmanlık hizmeti, makina ve teçhizat temini gibi işlerin kurumlar vergisinden istisna olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27811",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "551b5359601a486a3f74c8059c7b9214a1157aba288ecfac9fcf892147ef42ea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
