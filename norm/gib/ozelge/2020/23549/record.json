@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[65-2018/1505]-336820",
+  "source_id": 23549,
+  "date": "2020-04-20",
+  "title": "Reklam ve film çekimlerinde ışık çekimi faaliyetinin vergilendirimesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23549",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "4552fd1f5221a9837839fa7d17d5cbc45dfc34a48a5a8f2dffd9e33354b238c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
