@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-128/2020-7",
+  "source_id": 713,
+  "date": "2020-04-20",
+  "title": "30 Nisan 2020 günü sonuna kadar oluşturulması ve imzalanması gereken e-Defterlerin oluşturulma ve imzalanma süresi ile 2020/Ocak-Şubat-Mart dönemine ilişkin olarak, Defter-Beyan Sistemine yapılması gereken kayıt süresinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/713",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "d3a2b2c8553c132a7f24df609743a26e2c90cd20a2a760bba27e06ef3b7d8c48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
