@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "33775506-130[KDV 53.01.56]-45562",
+  "source_id": 33627,
+  "date": "2020-04-21",
+  "title": "Sanayi sicil belgesinin bulunmaması halinde KDV Kanunu Geçici 39. maddesinde yer alan istisnadan faydalanıp faydalanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33627",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "5c24e871b1f10c385104c9452a33866675196e02b32bf6d5d815155a9af1d412",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
