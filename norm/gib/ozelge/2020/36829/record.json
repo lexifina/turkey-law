@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35672403-010.01[120-03-2020]-30271",
+  "source_id": 36829,
+  "date": "2020-04-21",
+  "title": "Amerikan Doları alınıp Arabistan Riyali satılması işleminin arbitraj olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36829",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "5e1cf8a1260c519730c1041036acc3907c27494b21094c8b63fde734ce28ac69",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
