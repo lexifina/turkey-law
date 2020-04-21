@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-129/ 2020-8",
+  "source_id": 712,
+  "date": "2020-04-21",
+  "title": "24 Nisan 2020 tarihine kadar verilmesi gereken 2020/Şubat ve 27 Nisan 2020 tarihine kadar verilmesi gereken 2020/Mart dönemine ait KDV Beyannamelerinin verilme ve ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/712",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "6f1ac67f681699111d5cb891d2b6776539fbd60be0139a500e4999a62a9d7093",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
