@@ -1,0 +1,7 @@
+Araştırma-Yayım-Çiftçi Bağlantısının Güçlendirilmesi
+Tarımsal yayım/danışmanlık faaliyetlerinin programlanması, izlenmesi ve değerlendirilmesi
+MADDE 5 – (1) Tarımsal yayım/danışmanlık hizmetlerinin programlanması, izlenmesi ve değerlendirilmesine ilişkin usul ve esaslar aşağıda belirtilmiştir.
+a) Yayım/danışmanlık hizmetlerinin planlanmasında, kaynakların etkin ve verimli biçimde kullanılmasını sağlamak amacıyla, Bakanlık tarafından; meslek kuruluşları ve tarımsal yayım/danışmanlık hizmeti sunan kişi ve kuruluşların katkılarıyla ulusal yayım politika ve stratejisi belirlenir.
+b) Ulusal düzeyde yayım politika ve stratejilerine uygun olarak yayım/danışmanlık sistemi içerisinde yer alan kişi ve kuruluşların öncelikli çalışma alanlarını belirleyecek ülkesel yayım programı hazırlanır.
+c) İl yayım/danışmanlık programları, ilde bulunan yayım/danışmanlık kişi ve kuruluşların programlarını kapsar. Ülkesel yayım programı doğrultusunda belirlenmiş hedeflere ulaşmak üzere yıllık olarak hazırlanan il yayım/danışmanlık programı, Bakanlık, meslek kuruluşları ve tarımsal yayım/danışmanlık hizmeti sunan kuruluşların katkılarıyla yayımdan sorumlu ildeki birimin koordinatörlüğünde hazırlanır ve Bakanlık tarafından onaylanarak yürürlüğe konulur.
+d) Bakanlık kuracağı sistemle, kamu ve kamu dışı yayım ve danışmanlık hizmeti sunan kişi ve kuruluşların hizmetlerinin kalitesini ve verimliliğini artırmak amacıyla, izleme ve değerlendirme yapar/yaptırır.

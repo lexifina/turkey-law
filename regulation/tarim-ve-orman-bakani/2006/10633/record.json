@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.10633",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL YAYIM VE DANIŞMANLIK HİZMETLERİNİN DÜZENLENMESİNE DAİR YÖNETMELİK",
+  "number": "10633",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2006/10633",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10633&MevzuatTertip=5",
+  "source_sha256": "de23c912e5ed6ee6236eade23a8fdff1b2616c1b925057bae16b02298476193a",
+  "source_bytes": 116030,
+  "published": "2006-09-08",
+  "gazette": "26283",
+  "in_force": "2020-04-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/4/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-04-21",
+      "RG-21/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-21",
+      "21/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-18",
+      "RG-18/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-18",
+      "18/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-06",
+      "RG-6/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-06",
+      "6/7/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-11-08",
+      "RG-8/11/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-11-08",
+      "8/11/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-03-31",
+      "RG-31/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-31",
+      "31/3/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-03-11",
+      "RG-11/3/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-03-11",
+      "11/3/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5400,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.10633-%20ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

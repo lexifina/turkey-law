@@ -1,0 +1,3 @@
+Süresinde vize ettirilmeyen sertifikalar
+GEÇİCİ MADDE 6 – (Ek:RG-6/7/2018-30470)
+(1) Süresinde vize ettirilmeyen ve geçerliliğini kaybeden sertifikaların sahipleri, bu maddeyi ihdas eden Yönetmeliğin yayımlandığı tarihten itibaren bir yıl içinde, bu maddeyi ihdas eden Yönetmeliğin yayımlandığı tarihten sonraki bir yıl da dâhil olmak üzere, başvuru tarihinden en fazla üç yıl öncesine kadar tarımsal konularda iki eğitime katıldıklarına dair katılım belgelerini ibraz ettikleri takdirde sertifikaları vize edilir. Bu şekilde vize edilen sertifikalarda, sertifikanın veriliş tarihi olarak vize tarihi esas alınır.

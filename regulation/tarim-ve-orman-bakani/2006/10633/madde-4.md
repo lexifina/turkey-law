@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-18/2/2020-31043) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Çiftçi: Mal sahibi, kiracı, yarıcı veya ortakçı olarak devamlı veya en az bir üretim dönemi veya yetiştirme devresi tarımsal üretim yapan gerçek ve tüzel kişileri,
+c) (Değişik:RG-18/2/2020-31043) Başkanlık: Eğitim ve Yayın Dairesi Başkanlığını,
+ç) İl teknik komitesi: Bu Yönetmeliğin 10 uncu maddesinde belirtilen Tarımsal Yayım ve Danışmanlık İl Teknik Komitesini,
+d) Kamu dışı yayım hizmetleri: Sivil toplum örgütleri tarafından tarımsal işletmelerin; tarımsal bilgi, teknik ve yöntemler konusundaki ihtiyaçlarının zamanında ve yeterli düzeyde karşılanmasına yönelik olarak herhangi bir ücret talep edilmeksizin yürütülen tarımsal yayım hizmetlerini,
+e) Kamu yayım hizmetleri: İlgili mevzuat çerçevesinde Bakanlık merkez teşkilatı, bağlı kuruluşlar ve taşra teşkilatları tarafından tarımsal işletmelerin; tarımsal bilgi, teknik ve yöntemler konusundaki ihtiyaçlarının zamanında ve yeterli düzeyde karşılanmasına yönelik olarak yürütülen tarımsal yayım hizmetlerini,
+f) Merkez teknik komitesi: Bu Yönetmeliğin 7 nci maddesinde belirtilen Tarımsal Yayım ve Danışmanlık Merkez Teknik Komitesini,
+g) (Değişik:RG-11/3/2009-27166) Meslek kuruluşları: Bu Yönetmelik çerçevesinde sertifikalandırılan kişilerden tarımla ilgili fakülte mezunlarının üye oldukları meslek odalarını, lise, ön lisans ve lisans mezunlarının üye oldukları meslek derneklerini ve üyelerinin tamamı tarımla ilgili lise, önlisans, lisans mezunlarından olup, tarımsal alanda faaliyet gösteren vakıfları,
+ğ) (Değişik:RG-31/3/2010-27538) Serbest tarım danışmanı: Kendi nam ve hesabına çalışmak suretiyle tarımsal işletmelere, sivil toplum örgütlerine ve tarımdan girdi alan kuruluşlara tarımsal danışmanlık hizmeti sunan, yetki belgesi sahibi kişileri,
+ı) Sivil toplum örgütleri: Tarımsal alanda faaliyet gösteren kooperatif, birlik, dernek ve vakıflar ile gönüllü kuruluşları,
+i) Tarım danışmanı: Sivil toplum örgütlerinde, ziraat odalarında ve tarımsal danışmanlık şirketlerinde istihdam edilen veya tarımsal danışmanlık hizmeti yürütmek üzere kendi nam ve hesabına çalışan ve bu Yönetmelikte belirtilen hükümlere göre sertifikalandırılmış kişileri,
+j) Tarımsal danışmanlık dernekleri/vakıfları: Sivil toplum örgütlerinden, sadece tarım danışmanı istihdam etmek suretiyle danışmanlık hizmeti vermek üzere tarımsal işletme sahiplerince, ilgili mevzuata göre kurulan dernekleri/vakıfları,
+k) Tarımsal danışmanlık hizmetleri: Sivil toplum örgütleri, ziraat odaları, tarımsal danışmanlık şirketleri ve serbest tarım danışmanlarınca tarımsal işletmelerin; tarımsal bilgi, teknik ve yöntemler konusundaki ihtiyaçlarının zamanında ve yeterli düzeyde karşılanmasına yönelik olarak ücret karşılığında yürütülen hizmetleri,
+l) Tarımsal yayım ve danışmanlık: Tarımsal işletme sahiplerinin, tarımsal üretim, işleme ve pazarlama sürecinin bütün aşamalarında karşılaştıkları problemler ve bunların birbirleriyle ilişkileri hakkında bilgi sahibi olmalarını, kendilerine, geliştirilen teknolojileri kullandırmak suretiyle, bu problemleri çözebilecek bilgi ve beceri kazandırılmasını ve kırsal alanda yaşam standardının yükseltilmesini amaçlayan tarımsal işletme sahiplerinin eğitimi, yayım, danışmanlık ve bilgilendirme faaliyetlerini,
+m) (Değişik:RG-31/3/2010-27538) Tarımsal yayım ve tarımsal danışmanlık sertifikası: Tarımsal yayım ve danışmanlık hizmetini yerine getirecek olan kişilere yapılacak sınavda başarılı olmalarını müteakip Bakanlık tarafından verilecek belgeyi,
+n) Tarımsal danışmanlık şirketi: Tarımsal işletmelere, sivil toplum örgütlerine, ziraat odalarına ve tarımdan girdi alan kuruluşlara tarımsal danışmanlık hizmeti sunmak üzere kurulan ve bu Yönetmelik hükümleri çerçevesinde yetkilendirilen tüzel kişileri,
+o) Tarımsal danışmanlık yetki belgesi: Bu Yönetmelikte belirlenen şartları yerine getiren kişi ve kuruluşların tarımsal danışmanlık hizmeti verebileceklerini belirten belgeyi,
+ö) Tarımsal işletme: Üretim faktörlerini kullanarak; bitkisel ve/veya hayvansal ve/veya su ürünlerinin üretimi için tarımsal faaliyet yapan veya söz konusu tarımsal faaliyete ilave olarak işleme, depolama, muhafaza ve pazarlamaya yönelik faaliyetlerde bulunan işletmeyi,
+p) (Ek:RG-11/3/2009-27166) (1) (Değişik:RG-31/3/2010-27538) Tarımsal yayım ve danışmanlık eğitimi eğitici belgesi (Ek-5): Bakanlık tarafından düzenlenen eğiticilerin eğitimi sonunda başarılı olan bakanlık personeline verilen belgeyi,
+r) Tarımsal yayım ve danışmanlık sistemi: Tarımsal işletme sahiplerinin; tarımsal bilgi, teknik ve yöntemler konusundaki ihtiyaçlarının zamanında ve yeterli düzeyde karşılanması amacıyla faaliyet gösteren ve bu Yönetmelikte belirtilen kişi ve kuruluşlardan oluşan çoğulcu sistemi,
+s) Tarım yayımcısı: Bakanlık merkez teşkilatı, bağlı kuruluşlar ve taşra teşkilatlarında yayım hizmeti görevini yürüten ve bu Yönetmelikte belirtilen hükümlere göre sertifikalandırılmış kişileri,
+ş) Üretici örgütleri: Sivil toplum örgütlerinden tarımsal amaçlı kooperatifler, yetiştirici birlikleri, üretici birlikleri ve bunların üst birliklerini,
+t) Ziraat odaları: İlgili Kanuna göre kurulmuş olan ve çiftçilerin üye oldukları meslek kuruluşlarını,
+ifade eder.
+İKİNCİ BÖLÜM
+Tarımsal Yayım/Danışmanlık Faaliyetlerinin Programlanması, İzlenmesi ve Değerlendirilmesi,
