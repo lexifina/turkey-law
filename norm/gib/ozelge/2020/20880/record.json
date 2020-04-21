@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.01.03.01[9-2019/15]-18603",
+  "source_id": 20880,
+  "date": "2020-04-21",
+  "title": "Üfleme cam sanatı çeşm-i bülbül, mine ve vitray çalışmalarının esnaf muaflığı kapsamında olduğu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20880",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8282a90b0c62c10f994d681d8080b4046f757bddf167e456fbe1bc89e39ef380",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
