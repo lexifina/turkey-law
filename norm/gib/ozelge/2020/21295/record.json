@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35831311-010.01[GV]-5109",
+  "source_id": 21295,
+  "date": "2020-04-22",
+  "title": "Genç girişimci kazanç istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21295",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1b259b5fb02c0053d89ac4d608aee493283229bb2d203784a3945f2e85b3ae38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
