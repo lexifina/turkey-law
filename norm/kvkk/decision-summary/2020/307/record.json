@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/307",
+  "source_id": 6895,
+  "date": "2020-04-22",
+  "title": "“Türkiye Ticaret Sicili Gazetesinde açık bir şekilde ilan edilmeyen kişisel verilerin, talepleri üzerine kamu kurum ve kuruluşlarıyla paylaşılması” hususuna ilişkin Kişisel Verileri Koruma Kurulunun 22/04/2020 tarihli ve 2020/307 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6895/2020-307",
+  "source_sha256": "15230ccefc43f66e0764298c70ac0222ab79c4ca4b89c05ae841eff2a392c7d0",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
