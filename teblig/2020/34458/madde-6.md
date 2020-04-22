@@ -1,0 +1,3 @@
+Ecrimisil ertelemesi
+MADDE 6 – (1) Tarım ve hayvancılık amacıyla kullanılan Hazine taşınmazlarından 1/4/2020 tarihi itibarıyla işgale uğradığı tespit edilip henüz bedel tespit komisyonunca ecrimisil tespit ve takdir edilmeyen veya tespit ve takdir edilip henüz tebliğ edilmeyen ecrimisil işlemleri, hasat ve sezon dönemi ile zamanaşımı süresi de dikkate alınmak suretiyle ertelenir.
+(2) Tarım ve hayvancılık amacıyla kullanılan Hazine taşınmazları için erteleme dönemi içerisinde tahsil edilmesi gereken ecrimisillerin tahsili, İdare tarafından başvuru şartı aranmaksızın erteleme süresi kadar ertelenir ve taksitlendirilerek tahsil edilir. Bu bedellere herhangi bir zam veya faiz uygulanmaz.

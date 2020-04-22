@@ -1,0 +1,3 @@
+Diğer hususlar
+MADDE 9 – (1) Ertelenen ecrimisillere ilişkin yapılacak indirimler, itiraz, düzeltme, süresinde ödenmeyen taksitlerin gecikme zammı uygulanarak tahsili ve diğer konular hakkında 19/6/2007 tarihli ve 26557 sayılı Resmî Gazete’de yayımlanan Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik ile 20/8/2011 tarihli ve 28031 sayılı Resmî Gazete’de yayımlanan Milli Emlak Genel Tebliği (Sıra No: 336)’nde yer alan düzenlemelere göre işlem yapılır.
+(2) Ertelenen satış bedellerinin süresi içerisinde ödenmemesi halinde mevcut sözleşmelerinde veya ilgili mevzuatında belirtildiği şekilde işlem yapılır.
