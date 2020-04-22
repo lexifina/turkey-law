@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35831311-010.01[GV]-5110",
+  "source_id": 20876,
+  "date": "2020-04-22",
+  "title": "Ormanlık alanlardan toplanan kozalakların, ev ortamında ve herhangi bir makine kullanılmaksızın pekmez haline getirilip satılmasının esnaf muaflığı kapsamında olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20876",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "27007543623b51f5eeeee90225d791a91d8b22745e54e7763120f7c17017cd09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
