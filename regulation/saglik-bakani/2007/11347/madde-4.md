@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (Değişik:RG-4/5/2019-30764)
+(1) Bu Yönetmeliğin uygulanmasında;
+a) Bakanlık: Sağlık Bakanlığını,
+b) Bildirim sistemi: Bu fıkranın (d), (e), (f), (g), (ğ), (h) ve (ı) bentlerinde belirtilen aktivitelerin gerçekleştirilmesine yönelik gerekli bilginin paylaşılması için oluşturulan sistemi,
+c) Bulaşıcı hastalık: Enfekte olmuş bir kişi ile doğrudan temas yoluyla veya bir vektör, hayvan, ürün veya çevreye maruz kalma gibi dolaylı yollardan veya bulaşıcı madde ile kirlenmiş olan sıvı alışverişi yolu ile insandan insana bulaşan, bir mikroorganizma veya onun toksik ürünlerine bağlı olarak ortaya çıkan hastalığı,
+ç) Bildirimi zorunlu bulaşıcı hastalık: Ek-I’de yer alan bildirimi zorunlu bulaşıcı hastalıkları,
+d) Bulaşıcı hastalıkların önlenmesi ve kontrolü: Bulaşıcı hastalıkların yayılmasını önlemek ve durdurmak amacıyla epidemiyolojik araştırmalar da dâhil olmak üzere alınan önlemlerin tümünü,
+e) Erken uyarı ve cevap sistemi (EUCS): Biyolojik, çevresel, kimyasal, radyolojik ve nükleer etkenler ile kaynağı bilinmeyen ve salgın yapma potansiyeli taşıyan durum ve olaylarla ilgili, zamanında veri ve bilgi toplayan, analiz eden, entegre sürveyans ile yerel, bölgesel, ulusal ve uluslararası düzeydeki ani gelişen halk sağlığı tehditlerinin yayılmasını önleme ve kontrol etmeyi içeren faaliyetleri,
+f) Göstergeye dayalı sürveyans: Hastalıklarla ilgili önceden belirlenmiş verilerin rutin bir şekilde toplandığı, analiz edildiği, yorumlandığı ve geri bildiriminin yapıldığı sürveyans yöntemini,
+g) Olaya dayalı sürveyans: Hastalık kümelenmeleri, açıklanamayan ölümler gibi halk sağlığı olaylarının erken tespiti, bildirimi, doğrulanması, değerlendirilmesi ve raporlanması amacıyla akut halk sağlığı olayları ile ilgili verilerin hızlı bir şekilde toplanması, analiz edilmesi, yorumlanması ve geri bildiriminin yapıldığı sürveyans yöntemini,
+ğ) Salgın: Belirli bir alanda, belirli bir grup insan arasında, belirli bir süre boyunca beklenenden daha fazla vaka görülmesi veya salgın potansiyeli olan ve epidemiyolojik olarak bağlantılı iki veya daha fazla vaka ya da yeni görülen/elimine edilmiş veya eradike edilmiş hastalığa ait tek bir vakanın görülmesini,
+h) Sendromik sürveyans: Belirli bir hastalığa özgü olmayan tanı veya semptomlardan oluşan sağlık ile ilgili verilerin toplandığı, analiz edildiği, yorumlandığı ve geri bildiriminin yapıldığı sürveyans yöntemini,
+ı) Sürveyans: Herhangi bir hastalık, durum veya olay ile ilgili olarak uygun koruyucu ve karşı önlemlerin önerilmesi, alınması ve uygulanması amacıyla, verilerin, sürekli ve sistematik bir şekilde toplanması, analiz edilmesi, yorumlanması ve ilgili taraflarla paylaşılmasını,
+i) Topluluk ağı: Bulaşıcı hastalıkların sürveyansı ve kontrolü ağı olarak adlandırılan ve Avrupa Parlamentosu ve Konseyinin 22 Ekim 2013 tarihli ve 1082/2013/EU kararında bahsi geçen faaliyetlerin gerçekleştirilmesine yönelik gerekli bilginin paylaşılması için oluşturulan sistemi,
+j) Vaka: Sürveyans amaçları veya salgın için yapılmış bir vaka tanımı ile uyumlu bir hastalığa ya da sağlık sorununa sahip kişiyi,
+k) Vaka tanımı: Belli bir hastalığın bildirimi, sürveyansı veya salgın araştırma amaçları için bir bireyin “vaka” olarak tanımlanabilmesinde bir arada bulunması gereken tanısal kriterler setini,
+l) Vaka sınıflaması: Kriterlerin destekleme derecesine göre “vaka” olma olasılığının derecelendirilmesini,
+m) Şüpheli vaka: Genellikle laboratuvar kriterleri ya da epidemiyolojik kriterler olmadan klinik tanımlamaya uyan vakayı,
+n) Olası vaka: Genellikle klinik tanımlamaya uyan, epidemiyolojik bağlantılı veya bazı hastalıklarda destekleyici laboratuvar kriterleri de kullanılan vakayı,
+o) Kesin vaka: Genellikle klinik tanımlamaya uyan, epidemiyolojik bağlantılı ve/veya doğrulayıcı laboratuvar kriterlerini karşılayan, yüksek düzeyde seçici olan hastalığa spesifik vakayı,
+ö) Klinik tanımlama: Klinik kriterlerden birisi ve/veya birkaçının tek başına ya da birlikte verilmesi ile hastalığın tarif edilmesini,
+p) Klinik kriter: Vakayı açıklamak için kullanılan klinik ölçütleri,
+r) Laboratuvar kriteri: Bir vakanın kesin tanısının konması için gereken bir ya da birden fazla laboratuvar yöntemini,
+s) Epidemiyolojik kriter: Epidemiyolojik bağlantının kurulabildiği durumlarda hastalıkla ilgili olarak kullanılan ve hastalığın bazı epidemiyolojik özelliklerini açıklamak için kullanılan kriterleri,
+ş) Epidemiyolojik bağlantı: Hastalık için bilinen inkübasyon dönemi içinde, her hastalık için değişebilmekle birlikte; insandan insana bulaş, hayvandan insana bulaş, ortak bir kaynağa maruziyetle bulaş, kontamine olmuş gıda ya da içme suyu ile bulaş, çevresel bir etkene maruziyet ile bulaş ve laboratuvar maruziyeti ile bulaş yollarından birisi veya birkaçının bulunmasını,
+t) Yerel sağlık birimi: Bakanlığın taşra teşkilatını,
+ifade eder.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik 24/4/1930 tarih ve 1593 sayılı Umumi Hıfzıssıhha Kanununun 3 üncü, 57 nci ve 64 üncü maddelerine, (Değişik ibare:RG-4/5/2019-30764) 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 361 inci maddesinin birinci fıkrasının (c) bendine ve 508 inci maddesine, 7/5/1987 tarih ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin (b) ve (f) bentlerine dayanılarak hazırlanmıştır.
