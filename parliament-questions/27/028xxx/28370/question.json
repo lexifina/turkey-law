@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/28370",
+  "submitted": "2020-04-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süleyman GİRGİN",
+  "province": "Muğla",
+  "summary": "Güvencesiz çalışan ve koronavirüs salgını nedeniyle mağdur olan müzisyenlere destek verilmesi önerisine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-5a84-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "bb1790eaf1c3d9ebadbb255d7496ceeb3def7df56d427ab081902b5807caa3a2",
+  "in_force": "2020-04-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
