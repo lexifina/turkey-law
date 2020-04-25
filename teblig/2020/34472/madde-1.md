@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, TS 1441-1 “Yaylar-Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 1: Yuvarlak tel ve çubuktan imal edilen, sıcak sarılmış” standardı ve TS 1441-2 “Yaylar-Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 2:Yuvarlak çubuktan imal edilen, seri imalat için” standardının uygulamaya konulmasına ilişkin hususları belirlemektir.

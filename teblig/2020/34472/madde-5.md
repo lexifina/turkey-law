@@ -1,0 +1,2 @@
+Uyma zorunluluğu
+MADDE 5 – (1) TS 1441-1 “Yaylar–Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 1: Yuvarlak tel ve çubuktan imal edilen, sıcak sarılmış” standardı ile TS 1441-2 “Yaylar-Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 2:Yuvarlak çubuktan imal edilen, seri imalat için” standardları kapsamına giren ürünleri üreten ve piyasaya arz edenlerin bu Tebliğ hükümlerine uymaları zorunludur.

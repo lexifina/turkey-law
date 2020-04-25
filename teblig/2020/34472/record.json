@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.34472",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TS 1441-1 YAYLAR-KALİTE GEREKLERİ-SİLİNDİRİK HELİSEL SIKIŞTIRMA YAYLARI (BASINCA ÇALIŞAN)-BÖLÜM 1: YUVARLAK TEL VE ÇUBUKTAN İMAL EDİLEN, SICAK SARILMIŞ STANDARDI VE TS 1441-2 YAYLAR-KALİTE GEREKLERİ-SİLİNDİRİK HELİSEL SIKIŞTIRMA YAYLARI (BASINCA ÇALIŞAN)-BÖLÜM 2:YUVARLAK ÇUBUKTAN İMAL EDİLEN, SERİ İMALAT İÇİN STANDARDI İLE İLGİLİ TEBLİĞ (TEBLİĞ NO: MSG - MS – 2020/31)",
+  "number": "34472",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2020/34472",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34472&MevzuatTertip=5",
+  "source_sha256": "33995585d6d9bc94844bae4a509e22e60ddfaf080c856896638ca91d6e58ba51",
+  "source_bytes": 18945,
+  "published": "2020-04-25",
+  "gazette": "31109",
+  "in_force": "2020-04-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.04.2020); own commencement article: \"Bu Tebliğ yayımı tarihinden altı ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 827,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

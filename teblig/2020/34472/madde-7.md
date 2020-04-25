@@ -1,0 +1,2 @@
+Temin
+MADDE 7 – (1) TS 1441-1 “Yaylar-Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 1: Yuvarlak tel ve çubuktan imal edilen, sıcak sarılmış” standardı ile TS 1441-2 “Yaylar-Kalite gerekleri-Silindirik helisel sıkıştırma yayları (basınca çalışan)-Bölüm 2:Yuvarlak çubuktan imal edilen, seri imalat için” standardı, TSE merkez teşkilatından veya il temsilciliklerinden temin edilir. İletişim bilgilerine TSE’nin internet sitesinden ulaşılabilir.
