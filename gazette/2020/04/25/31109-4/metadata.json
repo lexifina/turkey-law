@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-25",
+  "issue": "31109",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "TS 1441-1 Yaylar-Kalite Gerekleri-Silindirik Helisel Sıkıştırma Yayları (Basınca Çalışan)-Bölüm 1: Yuvarlak Tel ve Çubuktan İmal Edilen, Sıcak Sarılmış Standardı ve TS 1441-2 Yaylar-Kalite Gerekleri-Silindirik Helisel Sıkıştırma Yayları (Basınca Çalışan)-Bölüm 2: Yuvarlak Çubuktan İmal Edilen, Seri İmalat İçin Standardı ile İlgili Tebliğ (No: MSG - MS – 2020/31)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200425-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200425.htm",
+  "index_sha256": "469de2b1fd423b27c764504c626fd9134edf131784a3e6679a7ffa483da1db38",
+  "index_header": "25 Nisan 2020 ... 31109 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200425.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
