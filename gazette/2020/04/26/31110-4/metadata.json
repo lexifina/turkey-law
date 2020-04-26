@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-26",
+  "issue": "31110",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Konya Gıda ve Tarım Üniversitesi İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200426-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200426.htm",
+  "index_sha256": "1195993f665ba123c570dad5271d7898e5236513cbdf8675989c39387d25415d",
+  "index_header": "26 Nisan 2020 ... 31110 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200426.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
