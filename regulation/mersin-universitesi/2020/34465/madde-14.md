@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Merkez birimleri ve/veya koordinasyon/çalışma grupları
+MADDE 14 – (1) Müdür tarafından gerekli görüldüğü takdirde, bir veya daha çok hizmet dalı için, işlerin daha verimli yürütülebilmesi amacıyla, Müdürün önerisi ve Yönetim Kurulu kararıyla, süreli/süresiz görev yapacak olan birimler ya da koordinasyon ve/veya çalışma grupları oluşturulabilir. Bir koordinasyon/çalışma grubunun görevleri, kimlerden ve kaç kişiden oluşacağı ve görev süresinin ne kadar olacağı Yönetim Kurulu tarafından belirlenir ve Uygulama ve Araştırma Merkez Müdürleri Kurulu onayı ile kesinleşir.
