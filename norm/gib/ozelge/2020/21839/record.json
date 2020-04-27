@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66491453-105[ÖZELGE]-3891",
+  "source_id": 21839,
+  "date": "2020-04-27",
+  "title": "Dolmuş işletmeciliği faaliyetinin geçici durdurulması nedeniyle basit usul mükellefiyetinin kapatılması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21839",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d0a462d50292b2223735ff55f0385bcbc3926b2d1124ebeaecd971f4259a867b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
