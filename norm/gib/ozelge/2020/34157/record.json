@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "43456486-135-3991",
+  "source_id": 34157,
+  "date": "2020-04-27",
+  "title": "İstisna süresinden sonra Birleşme halinde ÖTV Kanunu Geçici 7 nci madde uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34157",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a775dfcae236c8e294662418ef1e78d19f0f6d0b68d0ae52ed95ea94b9056a6d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
