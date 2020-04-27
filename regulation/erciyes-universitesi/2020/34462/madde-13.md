@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 13 – (1) Merkezin faaliyetlerinin verimliliğini artırmak amacı ile sürekli veya geçici çalışma grupları oluşturulur. Çalışma grubu başkanları ve üyeleri, Müdür tarafından önerilen adaylar arasından Rektör tarafından görevlendirilir. Sürekli çalışma grubu üyeleri üç yıl, diğer üyeler verilen görevlerin gerektirdiği süreler için görevlendirilir. Çalışma gruplarının faaliyetleri Müdür tarafından izlenir ve denetlenir. Süresi dolan çalışma grubu üyeleri yeniden görevlendirilebilir.

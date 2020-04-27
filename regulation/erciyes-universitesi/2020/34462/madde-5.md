@@ -1,0 +1,19 @@
+Merkezin faaliyet alanları
+MADDE 5 – (1) Merkezin faaliyet alanları şunlardır:
+a) Kamu-özel sektör iş birliği çerçevesinde hava araçları, uydu ve benzeri sistemler ile bunların donanımlarını, ilgili cihazlarını üretmek, bakımlarını yapmak, araştırmalarını yürütmek, danışmanlık hizmetlerini organize etmek, tanıtım, satış ve pazarlama birimlerini kurmak, geliştirmek ve işletmek.
+b) Ulusal ve uluslararası kuruluşlarca akredite edilen standardizasyon, kalite kontrol, keşif ve denetleme birimlerini kurmak ve işletmek.
+c) Öğrenci ve öğretim elemanlarının staj, uygulama ve araştırma çalışmaları için bina, üretim atölyeleri, araştırma laboratuvarları ve her türlü altyapıyı kurmak, geliştirmek ve işletmek.
+ç) Ürün, yöntem ve teknolojilerin standartlaştırılması ve kalite kontrolleri ile ilgili çalışmalar yapmak üzere test laboratuvarı kurmak, bu konularla ilgili düzenleyici işlemleri, standartları ve benzeri belgelerin hazırlanmasına, değiştirilmesine veya yenilenmesine katkıda bulunmak.
+d) Fakültenin faaliyetleri ile ulusal ve uluslararası mevzuat çerçevesinde sektörün insan kaynağını geliştirmek için; yer eğitimleri, uçuş-sentetik uçuş eğitimi, hava araçları bakım eğitimi organizasyonları kurmak, işletmek, sertifikalı kurs programları düzenlemek ve ilgili mevzuata uygun lisans vermek.
+e) Modern tekniklerin ve uygun teknolojilerin uygulanmasına öncelik vererek yeni gelişmeleri izlemek; bilimsel, ekonomik ve endüstriyel araştırma, inceleme, geliştirme projeleri hazırlamak ve tatbiki uygulamalar ile üretim ve kalite kontrol çalışmalarını yapmak ve/veya yaptırmak.
+f) Sektördeki kuruluşların ilgili sorunlarına yönelik araştırmalar, tasarımlar ve incelemeler yapmak.
+g) Üniversitenin ve Fakültenin mevcut olanaklarından yararlanarak laboratuvar deneyleri, pilot uygulama deneyleri ve/veya endüstriyel ölçekte deneyler yapmak.
+ğ) Sektörde ihtiyaç duyulan özel sınavları ve bunların ölçme ve değerlendirmelerini yapmak ve/veya yaptırmak.
+h) İlgili mevzuat hükümleri çerçevesinde geliştirdiği teknik bilgileri, buluşları ve uygulamaları, aynı amaç doğrultusunda çalışan uluslararası kuruluşlarla paylaşmak.
+ı) Ulusal ve uluslararası kamu ve özel sektör kuruluşlarının ihtiyaç duydukları alanlarda karşılaştıkları sorunların belirlenmesine ve çözümüne yönelik çalışmalar yapmak; çalışma sonuçları hakkında bilimsel görüş ve rapor sunmak, proje ve benzeri bilimsel ve teknik araştırmalar yapmak ve yayımlar hazırlamak.
+i) İlgili mevzuat çerçevesinde danışmanlık, uzmanlık, bilirkişilik ve benzeri işleri yapmak; bu hususlarla ilgili sertifika programları düzenlemek.
+j) Ürün, yöntem ve teknolojilerin standartlaştırılması ve kalite kontrolleri ile ilgili çalışmalar yapmak; bu konularla ilgili düzenleyici işlemlerin, standartların ve benzeri belgelerin hazırlanmasına, değiştirilmesine veya yenilenmesi çalışmalarına katkıda bulunmak.
+k) Merkezin çalışmalarında etkinliği arttırmak için, gerektiğinde ulusal veya uluslararası kuruluşlarla bilimsel ve teknolojik iş birliği de yaparak, hizmet içi eğitim programları, kurslar, seminerler, konferanslar, kongreler, sempozyumlar, paneller, sergiler, fuarlar ve benzeri etkinlikler düzenlemek ve başka kuruluşlarca düzenlenen etkinliklere katılmak; ilgili konularda yarışmalar düzenlemek.
+l) Çağdaş teknolojik imkânlardan yararlanarak, Türkiye ve yabancı ülkelerde yayımlanmakta olan rapor, bülten, kitap, dergi, broşür, tebliğ ve benzeri her türlü belge ve eserleri toplayarak arşiv, kitaplık ve bilgi merkezi oluşturmak.
+m) Merkezin her türlü bilimsel ve teknik verileri, buluşları, yenilikleri, üretim, araştırma ve benzeri faaliyetleri ve önerilerini yayınlamak; bu faaliyetleri içeren slayt, resim, video ve diğer arşivleri oluşturmak.
+n) Mevcut altyapı ve personel imkânları ile Üniversitenin diğer birimlerinin ihtiyacı olan üretim, bakım, tanıtım, araştırma ve geliştirme faaliyetleri çerçevesinde Üniversite tarafından verilecek diğer görevleri yapmak.
