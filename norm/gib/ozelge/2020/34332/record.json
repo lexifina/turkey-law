@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-155[8-2019-19-1200]-38389",
+  "source_id": 34332,
+  "date": "2020-04-28",
+  "title": "Sosyal Güvenlik Kurumuna verilen aylık bildirgelerde damga vergisi istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34332",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "226e42d4171c203cfa29cbd6198ef191b88408f65c08e755ba1d6ec5c241d0d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
