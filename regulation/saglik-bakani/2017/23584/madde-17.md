@@ -1,0 +1,3 @@
+Bütçe dışı avans
+MADDE 17 – (1) Sözleşmesinde belirtilmek ve yüklenme tutarının yüzde otuzunu geçmemek üzere, yüklenicilere, 30/12/2005 tarihli ve 2005/9913 sayılı Bakanlar Kurulu kararıyla yürürlüğe konulan Ön Ödeme Usul ve Esasları Hakkında Yönetmelik hükümlerine göre bütçe dışı avans verilebilir.
+(2) Mal ve hizmet alımlarında yüklenme tutarının % 10’una, yapım işlerinde ise % 15’ine kadar teminat karşılığında bütçe dışı avans verilebilir. Bu oranların üzerinde avans verilmesini zorunlu kılan durumlarda; üst yöneticinin kararı ile aşan kısım için Türkiye Cumhuriyet Merkez Bankasının kısa vadeli avanslara uyguladığı oranda faiz alınmak kaydıyla, yüklenme tutarının % 30’unu aşmamak üzere belirlenecek oranda bütçe dışı avans verilebilir.

@@ -1,0 +1,4 @@
+Defter, mali tablo ve belgeler
+MADDE 15 – (1) Defter ve belgelerin muhasebe yetkililerince düzenlemesinde ve bunların Sayıştaya ve ilgili kamu idarelerine gönderilmesinde, 1/5/2007 tarihli ve 26509 sayılı Resmî Gazete’de yayımlanan Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliğinde yer alan düzenlemeler ile Sayıştay tarafından belirlenen usul ve esaslara uyulur.
+(2) (Değişik:RG-2/5/2018-30409) İl Sağlık Müdürlüğü koordinesinde sağlık müdürlüğü işletme birimi ve bağlı sağlık tesisleri işletme birimi bilançoları konsolide edilerek İl Sağlık Müdürlüğü Döner Sermaye İşletmesi bilançosu Sağlık Bakanlığı merkez döner sermaye saymanlığına gönderilir.
+(3) (Ek:RG-2/5/2018-30409) Sağlık Bakanlığı merkez döner sermaye saymanlığı, Sağlık Bakanlığı merkez ve İl Sağlık Müdürlükleri döner sermaye işletmelerinin bilançolarını Şubat ayı sonuna kadar konsolide ederek elektronik veya kağıt ortamında istenilecek şekilde ilgili yerlere verirler.

@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.23584",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ HAKKINDA YÖNETMELİK",
+  "number": "23584",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2017/23584",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23584&MevzuatTertip=5",
+  "source_sha256": "dcd03304879956bf165c86c5fc94189ceee0b19426413a5eea0e62071495416e",
+  "source_bytes": 59835,
+  "published": "2017-05-15",
+  "gazette": "30067",
+  "in_force": "2020-04-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/4/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-04-28",
+      "RG-28/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-28",
+      "28/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-02",
+      "RG-2/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-02",
+      "2/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-02",
+      "RG-2/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-02",
+      "2/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2760,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
