@@ -1,0 +1,11 @@
+Organik ürünlerin depolanması
+MADDE 30 – (1) (Değişik paragraf:RG-14/8/2012-28384) Bu Yönetmelikte yer alan organik ürünlerin depolanmasında, 29/12/2011 tarihli ve 28157 (3.mükerrer) sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Yönetmeliğinin 9 uncu maddesi hükümlerine uyulur. Organik ürünlerin depolanması ile ilgili diğer kurallar aşağıda belirtilmiştir.
+a) Organik ürünlerin, depolama alanları, ürünlerin tanınmasına imkân verecek ve bu Yönetmelikçe uygun bulunmayan başka ürünlerle, maddelerle karışmaya ya da bulaşmaya meydan vermeyecek ve parti numaralarının tanımlanmasını sağlayacak şekilde düzenlenir. Organik ürünlerin depolandığı alanlarda kullanılan yalıtım malzemeleri ve soğutma ile ilgili ekipmanlar bu amaç gözetilerek seçilir. İşleme öncesi ve sonrası organik ürünler organik olmayan ürünlerden ayrı bir yerde veya zamanda depolanır.
+b) Ayrı olarak depolamanın mümkün olmadığı durumlarda müteşebbis organik ürünlerle konvansiyonel ürünlerin karışmasını engelleyecek tedbirler alır. Müteşebbislerin organik olmayan ve organik ürünlerle çalışması durumunda ve depolama tesislerinde diğer tarımsal ürünler ve gıda maddelerini depolamaları durumunda:
+1) Organik tarımsal ürünler, organik olmayan diğer tarımsal ürünler ve/veya gıda maddelerinden ayrı olarak muhafaza edilir.
+2) Organik olmayan ürünlerle karışma veya değişmeyi önleyecek ve tanımlamayı sağlayacak her türlü önlem alınır.
+3) Organik ürün depolaması öncesinde uygun temizlik önlemleri alınır, bunların etkinliği kontrol edilerek, kayıtları müteşebbis tarafından tutulur.
+c) Organik ürünlerin depolanması sırasında ürünün organik özelliğini kaybettirecek ilaç ve ilaçlama yöntemi kullanılmaz.
+ç) Organik ürünlerin depolanmasında ürünün organik özelliğini kaybettirecek malzeme ve maddeler kullanılmaz ve doğal olmayan uygulamalar yapılmaz.
+d) Müteşebbis tarafından depolama koşulları ile depolanan organik ürünün giriş ve çıkış miktarları ve tarihine ilişkin kayıtlar düzenli olarak tutulur. Müteşebbis tarafından imzalanan bu kayıtlar yetkilendirilmiş kuruluşa onaylatılır ve çizelgenin bir nüshası müteşebbis tarafından, diğer nüshası yetkilendirilmiş kuruluş tarafından saklanır.
+e) Organik bitkisel ve hayvansal üretim birimlerinde bu Yönetmelikte izin verilmeyen girdilerin depolanması yasaktır.

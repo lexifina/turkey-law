@@ -1,0 +1,13 @@
+Çalışma Esasları ve Yaptırımlar
+Yetkilendirilmiş kuruluşlarda aranan şartlar
+MADDE 39 – (1) Yetkilendirilmiş kuruluşlarda aranan şartlar şunlardır:
+a) (Değişik:RG-10/1/2016-30297)(5) Yetkilendirilmiş kuruluşlar teknik ve idari bakımdan görevini yerine getirebilecek imkânlara sahip olur. Yetkilendirilmiş kuruluşun yetki kapsamı sertifikasyon ise en az bir sertifiker, kontrol ise en az bir kontrolör, kontrol ve sertifikasyon ise en az bir kontrolör ve bir sertifiker istihdam eder. Yetkilendirilen kontrolör ve sertifiker sayısı; müteşebbis sayısı ve üretim alanları için yeterli olur. Bir kontrolör bir günde en fazla dört müteşebbisi kontrol eder. Üretici grubu olması halinde bu sayı en fazla altı ile sınırlıdır.
+b) (Değişik:RG-24/5/2013-28656) Kontrol kuruluşu, TS EN ISO/IEC 17020:2012 standardına göre; sertifikasyon kuruluşu ile kontrol ve sertifikasyon kuruluşu (Değişik ibare:RG-15/2/2014-28914)(3) TS EN ISO/IEC 17065 standartlarına göre, Türk Akreditasyon Kurumu veya Avrupa Akreditasyon Birliği karşılıklı tanıma anlaşmasına göre geçerliliği mevcut uluslararası akreditasyon kurumlarından akredite edilir. Yurtdışında akredite olmuş yabancı bir kuruluş Türkiye’de şube açması halinde, Türk Akreditasyon Kurumu veya Avrupa Akreditasyon Birliği karşılıklı tanıma anlaşmasına göre geçerliliği mevcut uluslararası akreditasyon kurumlarından akredite olduğuna dair akreditasyon belgesini müracaatta ibraz eder.
+Akreditasyon kurumlarının akreditasyon kapsamında yer almayan; organik tarımda kullanılacak gübreler, toprak iyileştiricileri, besin maddeleri ve bitki koruma maddeleri ile ilgili faaliyet alanlarında akreditasyon hükmü aranmaz.
+c) Kuruluşlar, sürekli irtibat sağlanabilecek her türlü alt yapıyı oluşturur.
+ç) Yetkilendirilmiş kuruluşlar, belgelendirme işleminin sonuçlarını etkileyebilecek ticari, mali ve diğer baskılardan bağımsız olmalıdır. Belgelendirdiği ürün tiplerinin tedariki ve tasarımını yapmaz. Danışmanlık hizmeti veremez.
+d) Yetkilendirilmiş kuruluş yöneticilerinin, ortaklarının, kontrolörlerinin ve çalışanları ile bunların birinci derece yakınlarının organik tarım faaliyetlerini kontrol edemez ve sertifikalandıramaz.
+e) Yetkilendirilmiş kuruluşun yöneticileri, ortakları, kontrolörleri ve çalışanları, aynı anda başka bir yetkilendirilmiş kuruluşta görev alamazlar. Kontrol biriminde görev yapanlar sertifikasyon biriminde, sertifikasyon biriminde görev yapanlar kontrol biriminde görev yapamazlar.
+f) Yetkilendirilmiş kuruluşlar tarafsız olmalıdır. Kendilerine verilen yetkiyi kullanırken herhangi bir çıkar çatışması içerisinde bulunamazlar.
+g) (Mülga:RG-10/1/2016-30297)(5)
+ğ) (Ek:RG-14/8/2012-28384)(1) (Mülga:RG-24/5/2013-28656)

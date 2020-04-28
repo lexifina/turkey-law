@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Organik Tarım Ulusal Yönlendirme Komitesi
+Organik Tarım Ulusal Yönlendirme Komitesinin oluşumu, görevleri, çalışma usul ve esasları
+MADDE 49 – (1) Organik Tarım Ulusal Yönlendirme Komitesinin oluşumu, görevleri çalışma usul ve esasları aşağıda belirtilmiştir;
+a) (Değişik:RG-6/10/2011-28076) Organik Tarım Ulusal Yönlendirme Komitesi; Bitkisel Üretim Genel Müdürünün başkanlığında Bitkisel Üretim Genel Müdürlüğü, Hayvancılık Genel Müdürlüğü Balıkçılık ve Su Ürünleri Genel Müdürlüğü temsilcileri, Kalkınma Bakanlığı, Ekonomi Bakanlığı, Gümrük ve Ticaret Bakanlığı, Bilim, Sanayi ve Teknoloji Bakanlığı, Sağlık Bakanlığı, Çevre ve Şehircilik Bakanlığı, Orman ve Su İşleri Bakanlığı, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü, Gıda ve Kontrol Genel Müdürlüğü, Avrupa Birliği Bakanlığı temsilcileri, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu, meslek kuruluşları, sivil toplum örgütleri, yetkilendirilmiş kuruluşların temsilcisi, üniversiteler ve özel sektör temsilcileri ile Komitenin toplantı gündemiyle ilgili görüşlerinin alınmasında yarar gördüğü kurum ve kuruluşların temsilcilerinden olmak üzere en az on kişiden oluşur.
+b) Organik Tarım Ulusal Yönlendirme Komitesi; organik tarımın uygulanması ve geliştirilmesi, desteklemeler ve teşvikler, tüketicinin bilinçlendirilmesi, organik ürünlerin yurt içi ve yurt dışında pazarlanması, uygulamalardaki aksaklıkların tespit edilmesi ve bu konudaki stratejilerin belirlenmesi, organik tarım konusunda proje önerilerinin belirlenmesi ve araştırma önceliklerinin tespit edilmesi hususunda çalışmaları yürütür.
+c) Organik Tarım Ulusal Yönlendirme Komitesi tarafından gerek görülmesi halinde çalışma grupları oluşturulur.
+ç) Olağan olarak yılda en az bir kez toplanır. Olağanüstü durumlarda sekretarya tarafından toplantıya çağrılır.
+d) Kararlar, toplantıya katılanların salt çoğunluğu ile alınır ve Komiteye tavsiye niteliğindedir.
+e) (Değişik:RG-6/10/2011-28076) Raportörlük ve sekretarya Bitkisel Üretim Genel Müdürlüğü İyi Tarım Uygulamaları ve Organik Tarım Daire Başkanlığı tarafından yürütülür.
+f) Kararlar, toplantı tarihinden itibaren 20 gün içinde toplantıya katılan üyeler tarafından imzalanır. Kararlar imzalandıktan sonra 30 gün içerisinde Komiteye iletilir. Komite, müteakip ilk toplantısında kararlarla ilgili değerlendirmeyi yapar.

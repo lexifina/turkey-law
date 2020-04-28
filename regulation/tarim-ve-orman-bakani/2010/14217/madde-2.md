@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; her türlü bitkisel, hayvansal ve su ürünleri üretimi ile kullanılacak girdilerin organik tarım metoduna uygun olarak üretilmesi veya temini, gıda veya yem olarak kullanılan mayalar, orman ve doğal alanlardan organik tarım ilkelerine uygun olarak ürün toplanması, bu ürünlerin işlenmesi, ambalajlanması, etiketlenmesi, depolanması, taşınması, pazarlanması, kontrolü, sertifikalandırılması, denetimi ile cezai hükümlere ilişkin teknik ve idari hususları kapsar.

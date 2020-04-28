@@ -1,0 +1,17 @@
+Hayvan sağlığı ve veteriner müdahalesi
+MADDE 18 – (1) Organik hayvan yetiştiriciliğinde hayvan sağlığı ve veteriner hekim müdahalesi kuralları aşağıda belirtilmiştir.
+a) Organik hayvan yetiştiriciliğinde hastalık önleyici tedbirler şunlardır:
+1) Organik hayvan yetiştiriciliğinde, hayvan sağlığında koruyucu hekimlik esastır.
+2) Uygun damızlık ırklar seçilir.
+3) Hayvanların doğal bağışıklıklarını artırıcı düzenli egzersiz için gezinti alanlarına veya otlaklara ulaşımı ve kaliteli yem kullanımı sağlanır.
+4) Aşırı kalabalık nedeni ile hayvanlarda sağlık problemlerini önlemek için uygun yerleşim sıklığı sağlanır.
+b) Tüm önleyici tedbirlere rağmen bir hayvanın hastalanması veya yaralanması durumunda, uygun bir barınakta izole edilerek, derhal tedavi edilir.
+c) Organik hayvancılıkta veteriner hekim gözetiminde veteriner tıbbi ürünlerin kullanım usul ve esasları şunlardır:
+1) (Değişik: RG-24/5/2013-28656)(2) Kimyasal yolla sentezlenmiş allopatik tıbbi veteriner ürünleri veya antibiyotiklerin yerine, tedavi edilecek hayvan türü üzerinde tedavi edici etkisi bulunması koşuluyla, ek-5’in 1 inci maddesinde ve ek-6’nın 3 üncü maddesinde yer alan ürünler ve fitoterapötik ürünler kullanılır.
+2) Yukarıda bahsedilen maddelerin kullanımının hastalıkla veya yaralanmayla mücadelede yetersiz kalması durumlarında ve hayvanın acı çekmemesi için tedavi amacı ile kimyasal bileşimli ilaçlar veya antibiyotikler yetkilendirilmiş kuruluşun izni ile kontrollü olarak kullanılır.
+3) Kimyasal olarak sentezlenmiş veteriner tıbbi ürünler veya antibiyotikler, hastalık önleyici uygulamalar için kullanılamaz.
+ç) Organik hayvan yetiştiriciliğinde, hayvanların genetik yapısı değiştirilemez ve genetik yapısı değiştirilmiş organizmalar organik hayvansal üretimde girdi olarak kullanılamaz. Gen teknolojisi metotları ile hayvan ıslahına izin verilmez. Büyüme veya üretimi artırıcı maddelerin kullanımı ve üremeyi kontrol etmek amacıyla veya diğer amaçlarla hormon ya da benzeri maddelerin kullanımı yasaktır. Ancak hormonlar, tedavi amaçlı veteriner hekim uygulaması olarak hasta hayvana verilebilir.
+d) Veteriner tıbbi ürünleri kullanıldığında; konulan teşhis, müdahale yöntemi, ilacın dozu, ilacın etken maddesi, tedavi süresi ve ilacın kalıntı arınma süresi ile birlikte kullanılan ürün kayıt edilir.
+e) Bir hayvana normal koşullarda verilen veteriner tıbbi ürünlerinin son uygulandığı tarih ile bu hayvanlardan organik ürün elde edilme tarihi arasındaki süre, organik yetiştiricilikte, konvansiyonel yetiştiricilikteki uygulamanın iki katı veya kalıntı arınma süresi belirtilmemiş hallerde ise 48 saattir.
+f) Aşı uygulamaları, parazit tedavisi veya ülkemizce zorunlu olarak belirlenen hayvan hastalık ve zararlıları ile mücadele programları haricinde, bir hayvana veya hayvan grubuna bir yıl içerisinde üçten fazla kimyasal sentezlenmiş veteriner tıbbi ürünler veya antibiyotiklerin uygulanması halinde ya da üretken olduğu yaşam süresi bir yıldan az olan hayvanlarda bir defadan çok muamele gördüyse, söz konusu hayvanlar veya bu hayvanlardan elde edilen ürünler organik ürün olarak satılamaz ve yeniden geçiş sürecine alınır. Buna ait kayıtlar müteşebbis tarafından tutulur.
+g) Ulusal zorunlu mücadele programları dışında işletmenin bulunduğu alanda ihbari mecburi bulaşıcı ve salgın bir hastalığın ortaya çıkması halinde, (Değişik ibare:RG-6/10/2011-28076) 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu ve diğer ilgili mevzuat hükümlerine uyulur ve bağışıklık sağlayan veteriner biyolojik maddeleri kullanılır.

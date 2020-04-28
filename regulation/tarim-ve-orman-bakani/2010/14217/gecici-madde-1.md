@@ -1,0 +1,3 @@
+Üretilmiş olan ürünlerin durumu
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımlandığı tarihten önce Organik Tarımın Esasları ve Uygulanmasına İlişkin Yönetmelik hükümlerine uygun olarak üretilmiş olan ürünler stoklar tükeninceye kadar pazarlanabilir.
+(2) (Ek:RG-6/10/2011-28076) 10/6/2005 tarihli ve 25841 sayılı Resmî Gazete’de yayımlanan Organik Tarımın Esasları ve Uygulanmasına İlişkin Yönetmeliğin 24 üncü maddesinin birinci fıkrasının (a) bendinin (2) numaralı alt bendine göre etiketlenen ambalajlama materyalleri, ambalajlanan ürünün bu Yönetmelik hükümlerini karşılaması şartı ile 31/12/2012 tarihine kadar kullanılabilir.

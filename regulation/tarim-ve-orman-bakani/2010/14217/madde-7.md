@@ -1,0 +1,5 @@
+Geçiş süreci ile ilgili işlemler
+MADDE 7 – (1) Organik tarımda geçiş süreci ile ilgili kurallar aşağıda belirtilmiştir.
+a) Organik tarım faaliyeti yapılan alanlar, hayvanlar, arılar ve su ürünleri geçiş sürecine alınır. Bitkisel üretimde organik tarıma başlanmasından on iki ay sonra elde edilen ürünler geçiş süreci ürünü olarak değerlendirilir. Geçiş süreci ürünü, "Organik tarım geçiş süreci ürünüdür" etiketiyle pazarlanır. (Değişik cümle:RG-22/7/2015-29422) Ancak, geçiş sürecinde bulunan hayvanlardan elde edilen ürünler geçiş süreci ürünü olarak pazarlanamaz, reklam ve etiketlerinde organik tarımı çağrıştıran ifadeler kullanılamaz.
+b) Organik tarım geçiş süreci kapsamında bu Yönetmelikteki tüm kurallar uygulanır.
+c) Kısmen organik tarım yapılan ya da organik tarıma geçiş sürecinde bulunan bir çiftlik ya da üretim biriminde, çiftçi organik olarak üretilen ürünler ile geçiş süreci ürünleri ve hayvanları birbirinden ayırt edilebilecek şekilde tutar ve bu ayrımı gösterecek kayıtlara sahip olur.

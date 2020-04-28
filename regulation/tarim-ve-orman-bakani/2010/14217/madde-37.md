@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Sertifikasyon Esasları
+Sertifikasyon sisteminin özellikleri
+MADDE 37 – (1) Sertifikasyon; bütün kontrol yöntemlerinin uygulanması sonucu işletmenin, ürünün ve girdinin geldiği aşamanın belgelendirilmesidir. Sözleşme yapılan müteşebbise yetkilendirilmiş kuruluş tarafından yapılacak ilk kontrole müteakip uygun görülmesi halinde yetkilendirilmiş kuruluş tarafından organik tarım müteşebbis sertifikası ve bu Yönetmelik hükümlerine uygun olarak üretilen ürünlere ürün sertifikası verilir. Sertifikalar, asgari bu Yönetmeliğin Ek-11’inde yer alan bilgileri içerecek şekilde düzenlenir. (Mülga cümle:RG-10/1/2018-30297) (…)
+(2) Sertifikasyon sisteminin özellikleri aşağıda belirtilmiştir;
+a) (Değişik:RG-24/5/2013-28656) Sertifikasyon, Bakanlıktan bu yetkiyi almış gerçek veya tüzel kuruluşlarca yapılır. Sertifikasyon yetkisi verilen sertifikasyon kuruluşu veya kontrol ve sertifikasyon kuruluşu, sertifikasyon yetkisini başka bir kurum veya kuruluşa devredemez.
+b) Kontrol ve sertifikasyon kuruluşu veya sertifikasyon kuruluşu bir sertifikasyon sistemi oluşturur ve Bakanlığa sunar. Bu sistem; kontrol ve sertifikasyon kuruluşu veya sertifikasyon kuruluşunun uyguladığı fiyat listesi, sertifika belgesi örneği, test etme ve sorgulama metodu, analiz yöntemi, kullandığı tüm teknikler ve dokümantasyon sistemi ile ilgili bilgileri kapsar.
+c) Sertifikasyon kuruluşu sertifika düzenleyeceği işletmelere ait tüm kontrol bilgilerini ve raporları ürünün bu Yönetmeliğe uygun olarak üretildiğinin garanti edilmesi amacıyla kontrolü yapan kuruluştan devralır. Kontrol kuruluşu bu bilgileri sertifikasyon kuruluşuna vermek zorundadır.

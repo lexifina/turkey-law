@@ -1,0 +1,2 @@
+Organik olmayan çift kabuklu kuluçkahanelerden gelen döller
+GEÇİCİ MADDE 7 – (1) Bu Yönetmeliğin 25 inci maddesinin birinci fıkrasının (b) bendinin (1) numaralı alt bendinin uygulanması açısından organik olmayan çift kabuklu kuluçkahanelerden gelen döller, organik üretim birimlerinde maksimum; (Mülga ibare:RG-14/8/2012-28384) (…) 31/12/2013’e kadar % 50 oranında kullanılır. 31/12/2015 tarihinden itibaren ise, tamamen organik döller kullanılır.

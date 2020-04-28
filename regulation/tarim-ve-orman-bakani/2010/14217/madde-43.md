@@ -1,0 +1,5 @@
+Yetkilendirilmiş kuruluşların göndermekle yükümlü oldukları bilgi ve belgeler
+MADDE 43 – (Değişik:RG-22/7/2015-29422)
+(1) Bakanlık yetkilendirilmiş kuruluşlardan; müteşebbise, ürüne, üretime, kontrol işlemine, kuruluşun kendisine, çalışanına ve menşeine dair her türlü bilgi ve belgeleri istediği zaman ve biçimde talep edebilir. Ayrıca yetkilendirilmiş kuruluşlar, yapısıyla ilgili yapılan her türlü değişikliği en geç bir ay içerisinde Bakanlığa bildirir ve OTBİS’e kaydeder.
+(2) Yetkilendirilmiş kuruluş ile müteşebbisin sözleşme imzalamasını müteakip yetkilendirilmiş kuruluş tarafından müteşebbisin OTBİS’te tanımlanmış bilgileri kaydedilir ve güncel tutulur. Yetkilendirilmiş kuruluşlar sözleşme kapsamındaki gerekli kontrolleri gerçekleştirir. (Değişik cümle:RG-10/1/2018-30297) Yetkilendirilmiş kuruluşlar, OTBİS’de kayıtlı bilgilerdeki her türlü güncellemeler ile sözleşmesi iptal edilen müteşebbise ait silme işlemlerini on beş gün içerisinde yapar.
+(3) Organik tarımın yapıldığı il müdürlüğü OTBİS’ten altışar aylık dönemler halinde raporlar alarak bu bilgileri muhafaza eder.
