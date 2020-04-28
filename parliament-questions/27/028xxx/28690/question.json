@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/28690",
+  "submitted": "2020-04-28",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Gamze AKKUŞ İLGEZDİ",
+  "province": "İstanbul",
+  "summary": "Kamuda hizmet alımı yoluyla çalışan radyoloji teknisyeni ve teknikerlerinin sayısı ve kadroya alınmaları önerisi ile yapılması öngörülen atamalara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-a81d-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "5144d7a8698f4205c7e793020b4849374ea57e1e9c092b0cd26e1aad698d618e",
+  "in_force": "2020-04-28",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
