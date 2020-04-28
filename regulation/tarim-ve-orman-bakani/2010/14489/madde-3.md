@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 18/4/2006 tarihli ve 5488 sayılı Tarım Kanununun 4 üncü, 5 inci ve 6 ncı maddelerine, (Değişik ibare:RG-21/10/2011-28091) 3/6/2011 tarihli ve 639 sayılı Gıda, Tarım ve Hayvancılık Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesinin birinci fıkrasının (ç) bendine, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 31 inci ve 43 üncü maddeleri ile 22/3/1971 tarihli ve 1380 sayılı Su Ürünleri Kanununun 13 üncü maddesine dayanılarak hazırlanmıştır.

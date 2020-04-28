@@ -1,0 +1,5 @@
+Genel hükümler
+MADDE 31 – (1) Yasalarla belirlenmiş haklar saklı kalmak kaydıyla Bakanlık ile KSK; üreticilere, üretici örgütlerine ve müteşebbislere ait ticari sır niteliğindeki bilgilerin gizliliğini sağlamakla yükümlüdür.
+(2) Bakanlık ticari sır niteliğindeki bilgiler hariç olmak üzere, ürünlerde izlenebilirliği sağlayacak sertifikaya esas bilgileri üçüncü taraflara ilan edebilir.
+(3) Ayrıca üreticiler, üretici örgütleri ve müteşebbisler KSK ile yapacakları sözleşmede yazılı muvafakatta bulunmak veya Bakanlığa bildirmek suretiyle, ikinci fıkra dışındaki ilave bilgilerin üçüncü kişilere ilanına izin verebilir.
+(4) (Ek:RG-28/4/2020-31112) Deprem, sel, yangın ve salgın hastalık gibi kontrol işlemlerinin, kontrol ve sertifikasyon kuruluşlarınca gerçekleştirilmesini engelleyecek nitelikte mücbir sebeplerin ortaya çıkması halinde, yıllık kontrol sıklığı, haberli ve habersiz kontrol sayısı ile sertifikaların geçerlilik sürelerine ilişkin kontrol ve sertifikasyon hizmetlerinin usul ve esasları Bakanlıkça düzenlenebilir.

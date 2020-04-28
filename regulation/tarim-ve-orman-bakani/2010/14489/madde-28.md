@@ -1,0 +1,7 @@
+Bakanlıkça verilen yetkilerin geri alınması
+MADDE 28 – (1) KSK’ya, kontrolörlere ve sertifikerlere, ilgili kanunlar ile düzenlenmiş cezai hükümlerin dışında, bu Yönetmeliğe aykırı davranışları nedeniyle aşağıdaki işlemler uygulanır.
+a) KSK tarafından Bakanlığa sunulan kalite el kitabında yer alan hususların veya bu Yönetmelikte belirtilen usul ve esasların eksik veya yanlış yerine getirildiğinin anlaşılması durumunda eksikliklerin tamamlanması ve/veya yanlışlıkların düzeltilmesi için ilgililer ikaz edilerek süre verilir. Ayrıca asılsız ihbar veya şikâyette bulunanlar ikaz edilir.
+b) Eksikliklerin veya yanlış uygulamaların verilen süre içerisinde giderilmemesi durumunda veya Bakanlıkça yerinde yapılan denetimlerde gerek görülmesi halinde ilgililerin yetkileri askıya alınır. Yetkinin askıya alınması altı aydan fazla olamaz.
+c) Görev ve yetkilerin yürütülmesinde yetersiz veya eksik olduğu tespit edilenlerin, gerçeğe aykırı kontrol veya sertifikasyon faaliyetinde bulunanların, askıya alma süresi sonunda eksiklikleri ve yanlış uygulamalarını gidermeyenlerin veya yetkilendirilmede aranan şartları taşımadığı anlaşılanların Bakanlıkça verilen yetkileri iptal edilir.
+(2) İki yıllık dönem içinde, aynı eylemin tekrarı durumunda ikaz veya askıya alma işlemlerinden bir derece üstü uygulanır.
+(3) Bu maddede belirtilen işlemlere, Komite karar verir. Komite, uyguladığı işlemleri kamuoyuna ilan etme hakkına sahiptir.
