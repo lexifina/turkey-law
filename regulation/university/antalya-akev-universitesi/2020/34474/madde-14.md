@@ -1,0 +1,5 @@
+Dekan
+MADDE 14 – (1) Fakültelerin temsilcisi olan dekanlar, Rektörün önereceği profesörler arasından Yükseköğretim Kurulunun olumlu görüşü alınarak Mütevelli Heyet Başkanı tarafından üç yıl için atanır. Süresi biten dekan yeniden atanabilir.
+(2) Dekan, ihtiyaç halinde fakültenin aylıklı öğretim üyeleri arasından en çok iki kişiyi, üç yıllık süre için dekan yardımcısı olarak seçip Rektörün onayına sunar. Dekan, gerekli gördüğü hallerde yardımcılarını aynı usulle değiştirebilir. Dekanın görevi sona erdiğinde, yardımcılarının görevi de sona erer.
+(3) Dekana, görevi başında olmadığı zaman yardımcılarından biri vekâlet eder. Göreve vekâlet altı ayı geçerse yeni bir dekan atanır.
+(4) Dekan, biriminin öğretim kapasitesinin rasyonel bir biçimde kullanılması ve geliştirilmesinden, eğitim-öğretim, bilimsel araştırma faaliyetlerinin düzenli bir şekilde yürütülmesinden ve öğrencilere gerekli hizmetlerin sağlanmasından Rektöre karşı birinci derecede sorumlu olup 2547 sayılı Kanun ve ilgili sair mevzuat tarafından kendisine verilen görevleri yapar.

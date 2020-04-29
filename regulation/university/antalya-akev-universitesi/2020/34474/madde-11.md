@@ -1,0 +1,2 @@
+Rektör yardımcıları
+MADDE 11 – (1) Rektör, çalışmalarında kendisine yardım etmek üzere, Üniversitenin aylıklı profesörleri arasından en çok üç kişiyi kendi Rektörlük görev süresiyle sınırlı olmak kaydıyla rektör yardımcısı olarak seçer ve Mütevelli Heyetin görüşüne sunar. Rektörün görev başında bulunmadığı zamanlarda yerine görevlendirdiği yardımcılarından biri vekalet eder. Rektörlüğe vekalet süresi altı ayı geçemez.

@@ -1,0 +1,6 @@
+Üniversiteye öğrenci kabulü
+MADDE 38 – (1) Ön lisans ve lisans programlarına, Ölçme, Seçme ve Yerleştirme Merkezi tarafından merkezî sistemle yerleştirilen öğrenciler kabul edilir.
+(2) Yükseköğretim Kurulunca belirlenen bazı özel programlara ön kayıt sistemiyle öğrenci seçme sınavı sonuçlarına göre veya öğrenci seçme sınavı ile Üniversite tarafından yapılacak özel yetenek sınavının birlikte değerlendirilmesinden elde edilen sonuca göre öğrenci kabul edilir.
+(3) Lisansüstü öğretim programlarına, ilgili mevzuat hükümlerine göre öğrenci kabul edilir.
+(4) Yabancı uyruklu öğrenciler, yabancı öğrenci sınavı sonuçlarına göre kabul edilirler. Ayrıca uluslararası öğrenci değişim programı öğrencileri ve dikey geçiş gibi diğer yollarla öğrenci kabulü, ilgili mevzuat ve Üniversite yönetmelikleri çerçevesinde yapılır.
+(5) Diğer yükseköğretim kurumlarında öğrenim görmekte olan öğrenciler, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve bu konuda alınacak Yönetim Kurulu kararlarına uygun olarak kabul edilirler.

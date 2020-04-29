@@ -1,0 +1,3 @@
+Yabancı uyruklu öğretim elemanları
+MADDE 27 – (1) Üniversite bünyesinde sözleşme ile görevlendirilecek yabancı uyruklu öğretim elemanları, ilgili fakülte, enstitü veya yüksekokul yönetim kurulunun önerisi ve Yönetim Kurulunun uygun görüşü üzerine Rektör ve Mütevelli Heyet Başkanının onayı ile atanırlar.
+(2) Yabancı uyruklu öğretim elemanlarının; Yükseköğretim Kurulunca verilecek ön izni müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde ilgili üniversitesi ile sözleşmesi yapılır. Bu kapsamdaki yabancı uyruklu öğretim elemanının yükseköğretim kurumları itibariyle dağılımı, isim, ücret ve sözleşme örneğinin vizesi, sözleşme süresinin uzatılması ve sona erdirilmesi, Rektör ve Mütevelli Heyet Başkanı tarafından yapılır.
