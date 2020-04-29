@@ -1,0 +1,21 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-29",
+  "issue": "31113",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": null,
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200429-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200429.htm",
+  "index_sha256": "0db5a705e56624c72e415453b43a6de52b318e6b1382ef8d73885fd55cb47119",
+  "index_header": "29 Nisan 2020 ... 31113 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200429.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "title_withheld": "personal-data rule: the listed title names a private person; see the official link",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
