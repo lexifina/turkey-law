@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2020/18",
+  "meeting_date": "2020-04-30",
+  "meeting_date_as_published": "30.4.2020",
+  "decision_no": "30",
+  "source_id": 13339,
+  "title": "RTÜK kararı 2020/18-30",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/13339",
+  "source_sha256": "ec21d7e62237288aa0255d6d6ca56436e6493273fdaf44159c5f86faca9c508c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
