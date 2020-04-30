@@ -1,0 +1,3 @@
+Olağanüstü durum
+GEÇİCİ MADDE 2 – (Ek:RG-30/4/2020-31114)
+(1) Dünya Sağlık Örgütü tarafından pandemi ilan edilen Covid-19 salgını nedeniyle, bu Yönetmeliğin orijinal veteriner giriş belgesinin sevkiyata eşlik etmesi hususlarını düzenleyen hükümleri ve Belge Kontrolleri başlıklı EK-3'ün 2 nci maddesi gereğince aranan orijinal sertifika ya da belge yerine, ihracatçı ülkedeki kısıtlamalar nedeni ile mümkün olmaması halinde, üç ay içerisinde resmi otorite tarafından orijinal sertifika ya da belgenin renkli olarak taranmış nüshasının elektronik ortamda gönderilmesi halinde kontrole ilişkin diğer işlemler tesis edilir. Bu süre gerektiğinde Bakanlıkça uzatılabilir.

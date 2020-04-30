@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.15596",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVAN VE ÜRÜNLERİN ÜLKEYE GİRİŞİNDE ÖN BİLDİRİM VE VETERİNER KONTROLLERİNE DAİR YÖNETMELİK",
+  "number": "15596",
+  "issuer": "Gıda, Tarım ve Hayvancılık Bakanı",
+  "issuer_slug": "gida-tarim-ve-hayvancilik-bakani",
+  "path": "regulation/gida-tarim-ve-hayvancilik-bakani/2011/15596",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15596&MevzuatTertip=5",
+  "source_sha256": "16f8d2ba41c934bd0f124f9a1153e9e4351bcd36154444835c2427a6adb555bb",
+  "source_bytes": 40598,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2020-04-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/4/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-04-30",
+      "RG-30/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-30",
+      "30/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1921,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15596-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
