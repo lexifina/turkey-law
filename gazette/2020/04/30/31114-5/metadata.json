@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-04-30",
+  "issue": "31114",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "5201 Sayılı Kanun Gereğince Kontrole Tâbi Tutulacak Harp Araç ve Gereçleri ile Silah, Mühimmat ve Bunlara Ait Yedek Parçalar, Askerî Patlayıcı Maddeler, Bunlara Ait Teknolojilere İlişkin Liste (2020 Yılı Kontrole Tabi Malzeme Listesi)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200430-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200430.htm",
+  "index_sha256": "ccadea6587ff39a5737bf6c00e123e830a2869bbea7604fe575070e706234167",
+  "index_header": "30 Nisan 2020 ... 31114 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/04/20200430.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
