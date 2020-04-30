@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.34405",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ÇELTİK İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "34405",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34405",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34405&MevzuatTertip=5",
+  "source_sha256": "363dd54bebb812809c5ad62171b61489fc373b74057c71ef5c2d66d3b3b742cd",
+  "source_bytes": 35130,
+  "published": "2020-04-03",
+  "gazette": "31088",
+  "in_force": "2020-04-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/4/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-04-30",
+      "RG-30/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-30",
+      "30/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 790,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34405-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
