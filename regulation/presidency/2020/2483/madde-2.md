@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, finansmanının tamamı İçişleri Bakanlığı tarafından karşılanacak ve sonuçlarından ilgili kamu kurum ve kuruluşları, üniversiteler, özel sektör ve sivil toplum kuruluşlarının faydalanacağı her türlü araştırma ve geliştirme hizmet alımlarının, yerli ve/veya yabancı gerçek ve tüzel kişilerden 4734 sayılı Kanunun 3 üncü maddesinin (f) bendinde yer alan istisna kapsamında satın alımına ilişkin ihale süreçlerini kapsar.

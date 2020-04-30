@@ -1,0 +1,2 @@
+Açık ihale usulüyle yürütülecek projelerin duyurulması ve tekliflerin alınması
+MADDE 23- (1) Bütün isteklilerin teklif verebildiği usuldür. Eşik değerin üstünde olmakla birlikte pazarlık usulü dışında uygulanacak projelere ait hizmet alımları bu usulle yapılabilir. Bu usule göre yapılan ihaleler, ihale tarihinden en az on beş gün önce Kamu İhale Bülteninde ilân edilir. Teklifler ilânda belirtilen süre içinde Bakanlığın ilgili birimine teslim edilir.

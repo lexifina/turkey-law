@@ -1,0 +1,3 @@
+Sözleşmenin devri
+MADDE 49- (1) Sözleşme, zorunlu hallerde ihale yetkilisinin yazılı izni ile başkasına devredilebilir. Ancak devir alacaklarda ilk ihaledeki şartların aranması zorunludur. Ayrıca, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz.
+(2) İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, devreden ve devir alanlar hakkında 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 20, 22 ve 26 ncı maddeleri hükümleri uygulanır.

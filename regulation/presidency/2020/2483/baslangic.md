@@ -1,0 +1,3 @@
+İÇİŞLERİ BAKANLIĞI TARAFINDAN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (f) BENDİ KAPSAMINDA YAPILACAK İHALELERE İLİŞKİN USUL VE ESASLAR
+Cumhurbaşkanı Kararının Tarihi : 30/4/2020 Sayısı : 2483
+Yayımlandığı Resmî Gazetenin Tarihi : : 30/4/2020 Sayısı : 31114 Mükerrer

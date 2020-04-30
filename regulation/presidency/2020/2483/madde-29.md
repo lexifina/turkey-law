@@ -1,0 +1,7 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 29- (1) 27 nci maddeye göre yapılan değerlendirme sonucunda ihale, ekonomik açıdan en uygun teklifi veren isteklinin üzerine bırakılır.
+(2) İhale komisyonu gerekçeli kararını, ihale yetkilisinin onayına sunar. Kararlarda; isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+(3) İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder.
+(4) İhale, kararın onaylanması halinde geçerli, iptal edilmesi halinde geçersiz sayılır.
+(5) İhale kararları ihale yetkilisince onaylanmadan önce ihale birimi, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en avantajlı ikinci teklif sahibi isteklinin ihalelere katılmaktan yasaklı olup olmadığını teyit ettirerek buna ilişkin belgeyi ihale kararına eklemek zorundadır. İki isteklinin de yasaklı çıkması durumunda ihale iptal edilir.
+(6) Geçici teminat hariç aday ve isteklilerce verilen teklif ve başvuru belgeleri ihale sonuçlandıktan sonra iade edilmez. Ancak teklif veya başvuru kapsamında idareye verilen asıl belgeler ile noter onaylı suret belgeler, aday veya isteklinin talebi halinde kendisine iade edilir. Bu durumda, iade edilen asıl veya noter onaylı suret belgelerin idarece onaylı bir suretinin ihale işlem dosyasında muhafazası zorunludur.

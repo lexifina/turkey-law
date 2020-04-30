@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 28- (1) İhale komisyonu kararı üzerine ihale yetkilisi, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Bakanlık bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak Bakanlık isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

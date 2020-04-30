@@ -1,0 +1,3 @@
+İhale komisyonlarının çalışma şekli
+MADDE 9- (1) İhale komisyonları eksiksiz toplanır. Kararlarını çoğunlukla alır, kararlarda çekimser kalınamaz. İdarece uygun görülen bir mazeret nedeniyle toplantıya katılamayacak üyenin yerine, yedek üye katılır. İhale komisyonu üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır. İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkanı ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.
+(2) Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının bir örneği ilân veya daveti izleyen üç gün içinde komisyon üyelerine gönderilir.
