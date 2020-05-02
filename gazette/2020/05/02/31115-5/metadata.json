@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-05-02",
+  "issue": "31115",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İhracı Kayda Bağlı Mallara İlişkin Tebliğ (Tebliğ No: İhracat 2006/7)’de Değişiklik Yapılmasına Dair Tebliğ (İhracat 2020/9)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200502-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200502.htm",
+  "index_sha256": "5e4ca510034d2a84e260bd6aae4d924163021e229ed187cf5f41160d3ae5d1b5",
+  "index_header": "2 Mayıs 2020 ... 31115 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200502.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
