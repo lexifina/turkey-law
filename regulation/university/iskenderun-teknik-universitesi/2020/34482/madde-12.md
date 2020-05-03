@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Müdür ile Üniversite içinden veya dışından su ürünleri alanı ile ilgili çalışmalar yapmış ya da yapmakta olan kişiler arasından Müdürün önerisi üzerine Rektör tarafından iki yıl için görevlendirilen beş kişiden oluşur. Süresi biten üyeler aynı usulle yeniden görevlendirilebilir. Süreleri bitmeden herhangi bir nedenle ayrılan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün daveti üzerine salt çoğunlukla yılda en az bir kez toplanır ve kararlar toplantıya katılan üyelerin salt çoğunluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde çoğunluk sağlanmış sayılır.
+(3) Danışma Kurulunun görevi, Merkezin faaliyetleri ile ilgili tavsiye niteliğinde görüş ve önerilerde bulunmaktır.

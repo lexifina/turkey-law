@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2020/34482",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31116",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2020-05-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34482&MevzuatTertip=5",
+  "source_id": "8.5.34482",
+  "source_sha256": "aeb616ebd70ee60075cc7a5c1914107d8efe7712c3c95573da8550de0c8a5d3f",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ DENİZ ÜRÜNLERİ ÜRETİM\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 1375
+}
