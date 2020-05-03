@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 12 – (1) Yönetim Kurulu; Müdür, Müdür Yardımcıları ve Müdürün önerdiği Merkezin faaliyet alanında eğitimi ve deneyimi olan ya da Merkezin amaçlarına katkı sağlayabilecek nitelikteki öğretim elemanları arasından Rektör tarafından görevlendirilen 4 üye olmak üzere toplam 7 üyeden oluşur. Süresi biten üyeler tekrar görevlendirilebilir. Süresi dolmadan boşalan üyelik için veya Üniversite dışında altı aydan uzun süreli görevlendirilen üyelerin yerine kalan süreyi tamamlamak üzere yeni görevlendirme yapılır.
+(2) Yönetim Kurulu, Müdürün daveti üzerine salt çoğunluk ile toplanır ve kararlar toplantıya katılanların salt çoğunluğuyla alınır. Oyların eşitliği halinde, Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
