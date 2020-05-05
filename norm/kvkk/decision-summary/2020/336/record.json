@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/336",
+  "source_id": 6910,
+  "date": "2020-05-05",
+  "title": "“İlgili kişinin kendisine iletilmesi gereken cevap yazısının veri sorumlusu tarafından resmi yazı şeklinde, çalıştığı birime gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 05/05/2020 tarihli ve 2020/336 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6910/2020-336",
+  "source_sha256": "4ea59c3977a9d4e9d1fe38c69e231377e107ffd1b50fb62fb994c4ba174c9384",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
