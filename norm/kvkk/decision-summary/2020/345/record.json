@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/345",
+  "source_id": 7027,
+  "date": "2020-05-05",
+  "title": "“Bilgisayar oyunları alanında faaliyet gösteren veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 05/05/2020 tarih ve 2020/345 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7027/2020-345",
+  "source_sha256": "7d04a3e7bb69b407311bc748a1de9dc007fe61fe88a99d36858160a13fb79949",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
