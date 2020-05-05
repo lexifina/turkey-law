@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-05-05",
+      "05.05.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31118",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-05",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Marmara Üniversitesi",
+  "issuer_slug": "marmara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/marmara-universitesi/2020/34487",
+  "published": "2020-05-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34487&MevzuatTertip=5",
+  "source_bytes": 25760,
+  "source_id": "8.5.34487",
+  "source_sha256": "3e4acd9cde0024af0ed4d5592dfc77432d12078a213bea867d098035cae5a932",
+  "text_status": "as-enacted",
+  "title": "MARMARA ÜNİVERSİTESİ EKLEM PROTEZLERİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 210,
+  "word_count": 1023
+}
