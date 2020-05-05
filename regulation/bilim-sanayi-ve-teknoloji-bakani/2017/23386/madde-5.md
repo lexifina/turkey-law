@@ -1,0 +1,16 @@
+İKİNCİ BÖLÜM
+Muayene, Damga, Kontrol ve Denetim
+Muayene için temel gerekler ve sorumluluklar
+MADDE 5 – (1) HİTD’ler; tip onayı alınmış, ilk muayene işlemleri, muayene işaretleri ve damgalama işlemleri yapılmış olarak piyasaya arz edilir. Aksi durumda olan HİTD’lerin muayeneleri yapılmaz.
+(2) (Değişik:RG-7/7/2018-30471) HİTD’lerin piyasaya arzından sonraki muayene işlemlerinin yaptırılmasından kullanıcı sorumlu olup, saha harici muayene yapılması durumunda da HİTD’leri servise teslim etmekle yükümlüdür. Ayrıca; muayeneler için gerekli olan bilgi ve belgelerin temininden kullanıcı sorumludur.
+(3) HİTD’lerin, muayeneleri sonucunda ayarının bozuk olduğu tespit edilenlerin tamir ve/veya ayarları, tamir ve ayar servislerine yaptırılır. Kullanıcı tarafından tamir ve ayarları yapıldığına dair belge ile muayene işlemleri yapılmak üzere servise başvurulur. Muayene işlemleri tamamlanıncaya kadar HİTD’ler kullanılmaz.
+(4) Tamiri yapılan HİTD’lerin, tip onayına esas teşkil eden parçalarının dışında kullanılan farklı ekipmanlarının, metrolojik özellikleri etkileyebilecek nitelikte olması durumunda, bu HİTD’ler için tip onayı alınan kuruluşlardan yeniden tip onay belgesi alınır ve ilk muayenesi yeniden yaptırılır.
+(5) Servis tarafından muayenesi yapılarak uygun bulunan HİTD’ler, 11 inci maddeye göre damgalanır.
+(6) (Değişik:RG-7/7/2018-30471) Servis tarafından muayenesi yapılan ve uygun bulunan her bir HİTD için iki nüsha metrolojik muayene belgesi düzenlenir. Bu belge, asgari olarak HİTD’in; seri numarası, marka/modeli, muayene tarihi, damga bilgileri, kullanıcı bilgileri ve belge numarasını içerir. Düzenlenen bu belge, muayeneyi yapan personel tarafından imzalanarak, bir nüshası kullanıcıda diğer nüshası da istenildiğinde gösterilmek üzere serviste muhafaza edilir.
+(7) Muayene süreleri, metrolojik muayene belgesi ile damga üzerinde bulunan gün, ay ve yılı belirten tarihler esas alınarak takip edilir.
+(8) Üretici, kullanıcı ve servis tarafından bu Yönetmelik gereklerinin ihlal edilmesi halinde ilgili mevzuat hükümlerine göre gerekli yasal işlem uygulanır.
+(9) Muayene işlemlerine başlamadan önce 7 nci maddenin ikinci fıkrasına göre yapılan ön inceleme sonucu uygun olmayan durumların tespit edilmesi halinde, HİTD’lerin muayenesi yapılmaz. Bu durumda servis, üç nüsha uygunsuzluk tutanağı düzenler. Bu tutanağın bir nüshasını muayenenin yapıldığı ilin il müdürlüğüne, bir nüshasını kullanıcıya tutanağın düzenlendiği tarihi takip eden beş iş günü içinde posta yoluyla iadeli taahhütlü olarak gönderir veya elden verir ve bir nüshasını da serviste muhafaza eder. HİTD’in kullanımı mevzuata uygunsa gerekli muayene ve damgalama işlemlerinin yaptırılmasını müteakip kullanımına izin verilir.
+(10) İl müdürlüğü, uygunsuzluklarla ilgili servis tarafından düzenlenerek gönderilen uygunsuzluk tutanağına göre yapılacak değerlendirme neticesinde gerekli yasal işlemi yapar.
+(11) HİTD’ler Kanunda belirtilen ilk, periyodik, ani, şikâyet ve stok muayenelerine tabi tutulur.
+(12) Serviste bu Yönetmelik hükümlerine göre en az bir servis yetkilisi ve yeterli sayıda muayene personeli çalışır.
+(13) (Ek:RG-7/7/2018-30471) Ortalama hız ölçüm donanımları, kurulumunun yapıldığı başlangıç ve bitiş noktalarının veya yol kesiminin uzunluğunun değişmesi halinde yeniden periyodik muayeneye tabi tutulur.

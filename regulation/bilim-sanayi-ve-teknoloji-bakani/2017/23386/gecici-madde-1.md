@@ -1,0 +1,3 @@
+Piyasada kullanımda olan HİTD’ler
+GEÇİCİ MADDE 1 – (Değişik:RG-5/5/2020-31118)
+(1) Bu maddenin yürürlük tarihinden önce piyasada kullanımda olan veya kurulu olan HİTD’lerin muayenelerinde tip onay şartı aranmaz. Ancak söz konusu HİTD’lerin trafikte hız ölçümünde kullanılabilmesi için kullanıcısı tarafından hazırlanacak damga planlarının; OHÖD harici HİTD’ler için 1/7/2018 tarihine kadar, OHÖD’ler için 31/12/2020 tarihine kadar Bakanlığa onaylattırılması gerekir. Bu işlemleri süresinde tamamlanmış olan HİTD’ler bu Yönetmeliğe göre muayene işlemleri yaptırılmak suretiyle trafikte hız ölçümünde kullanılabilir.

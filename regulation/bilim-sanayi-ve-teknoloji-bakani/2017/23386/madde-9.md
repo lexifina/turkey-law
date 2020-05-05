@@ -1,0 +1,9 @@
+Şikâyet muayenesi
+MADDE 9 – (1) Şikâyet muayenesi, HİTD’lerin doğru çalışıp çalışmadığını tespit etmek üzere, kullanıcının veya diğer bir kimsenin yazılı müracaatı üzerine yapılan muayenedir.
+(2) Kullanıcı tarafından yapılan şikâyette, başvuru servise yapılır ve muayenesi, 7 nci maddede belirtilen periyodik muayene hükümlerine göre gerçekleştirilir. Muayene ücreti, şikâyette bulunan kullanıcı tarafından karşılanır.
+(3) Kullanıcısı dışında gerçek veya tüzel kişilerce yapılacak şikâyette, başvuru ve muayene işlemleri aşağıdaki şekilde yapılır:
+a) Başvurular; başvuruyu yapanın adı, soyadı, T.C. kimlik numarası, adres bilgileri ve ceza tutanağı ile birlikte şikâyete konu HİTD’lerin kullanıldığı yeri ve şikâyet tarihini içeren bir dilekçe ile İçişleri Bakanlığına yapılır.
+b) İçişleri Bakanlığınca, muayene ücreti ve bu ücretin, (d) bendine göre kimler tarafından karşılanacağı konusunda başvuru sahibine bilgi verilir; başvuru sahibi tarafından kabul edilirse muayene gerçekleştirilir.
+c) Şikâyete konu HİTD’lerin muayenesi, Servis tarafından İçişleri Bakanlığı personeli gözetiminde, 7 nci maddede belirtilen periyodik muayene hükümlerine göre yapılır. Muayene sonucunda servis tarafından 3 nüsha şikâyetli muayene formu düzenlenir. Bu form İçişleri Bakanlığı personeli ve muayeneyi yapan servis personeli tarafından imzalanır. Formun bir nüshası İçişleri Bakanlığı tarafından başvuru sahibine iletilir, bir nüshası serviste ve bir nüshası da İçişleri Bakanlığında muhafaza edilir.
+ç) Muayene sonucu uygun bulunmayan HİTD’ler için ilgili mevzuat çerçevesinde gerekli yasal işlem yapılmak üzere servis tarafından uygunsuzluk formu düzenlenerek HİTD’lerin muayenesinin yapıldığı il müdürlüğüne gönderilir.
+d) Muayene sonucunun olumlu olması durumunda muayene ücreti müracaat sahibi tarafından; olumsuz olması durumunda ise kullanıcı tarafından karşılanır.

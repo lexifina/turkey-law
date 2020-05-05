@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.23386",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HIZ İHLAL TESPİT DONANIMLARI MUAYENE YÖNETMELİĞİ",
+  "number": "23386",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2017/23386",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23386&MevzuatTertip=5",
+  "source_sha256": "8e1df44c0966953f3510228b064a4a713116a97bd31c2b6e05990cdfca351aa1",
+  "source_bytes": 57317,
+  "published": "2017-03-07",
+  "gazette": "30000",
+  "in_force": "2020-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-05",
+      "RG-5/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-05",
+      "5/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-11-20",
+      "20/11/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-07",
+      "RG-7/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-07",
+      "7/7/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2840,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23386-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

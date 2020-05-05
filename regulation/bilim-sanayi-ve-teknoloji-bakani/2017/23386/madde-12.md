@@ -1,0 +1,4 @@
+Muayene ücreti
+MADDE 12 – (1) İlk, periyodik ve stok muayene ücreti, HİTD’in kullanıcısı tarafından, şikâyet muayenesi ücreti ise 9 uncu maddede belirtilen hükümlere göre ilgili taraflarca ödenir.
+(2) Muayene işlemlerinden alınacak ücretler, 8/2/1989 tarihli ve 20074 sayılı Resmî Gazete’de yayımlanan Ölçü ve Ölçü Aletlerinden Alınacak Muayene ve Damgalama Ücret Yönetmeliği ile Bakanlıkça her yıl 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümleri uyarınca tespit ve ilan olunan yeniden değerleme oranlarında arttırılarak yeniden belirlenir. Servis, bu ücretten farklı bir ücret talep edemez.
+(3) (Değişik:RG-7/7/2018-30471) Kullanıcı tarafından muayene ücretinin ilgili hesaba yatırılmasından sonra muayene gerçekleştirilir. Muayene sonrasında kullanıcıdan muayene ücreti haricinde ilave bir ücret alınamaz.
