@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Üniversitenin Mimarlık ve Tasarım Fakültesi öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezi temsil eder ve Rektöre karşı sorumludur.
+(2) Müdürün önerisi üzerine Üniversite öğretim üyeleri/görevlileri arasından bir kişi Rektör tarafından Müdüre çalışmalarında yardımcı olmak üzere Müdür Yardımcısı olarak görevlendirilir. Müdürün görev süresi sona erdiğinde Müdür Yardımcısının da görevi sona erer. Müdür; görevi başında bulunmadığı zamanlarda Müdür Yardımcısını vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.

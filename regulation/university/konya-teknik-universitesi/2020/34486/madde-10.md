@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Üniversitenin Mimarlık ve Tasarım Fakültesi öğretim üyeleri/görevlileri arasından Müdür tarafından önerilen ve Rektör tarafından görevlendirilen dört üye ile Müdür olmak üzere beş kişiden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıldır. Süresi biten üye yeniden görevlendirilebilir.
+(2) Herhangi bir nedenle süresi bitmeden ayrılan üyenin yerine kalan süreyi tamamlamak üzere yeni bir üye görevlendirilebilir. Yönetim Kurulu, Merkezin karar organıdır. Müdür, Yönetim Kurulunun başkanıdır. Yönetim Kurulu Müdürün çağrısı üzerine, en az üç ayda bir salt çoğunluk ile toplanır ve kararlar oy çokluğuyla alınır.
