@@ -1,0 +1,8 @@
+Sınav kurulu
+MADDE 9 – (Başlığı İle Birlikte Değişik:RG-5/5/2020-31118)
+(1) Sınav kurulu, Başkan veya görevlendireceği Gelir İdaresi Başkan Yardımcısı veya Personel Daire Başkanlığından sorumlu Gelir İdaresi Daire Başkanının başkanlığında, 1. Hukuk Müşaviri, Gelir İdaresi Daire Başkanları, Vergi Dairesi Başkanları, Gelir İdaresi Grup Başkanları ile Gelir İdaresi Grup Müdürleri arasından seçilecek, sınav kurulu başkanı dahil en az üç asil ve yeteri kadar yedek üyeden oluşur. Gerek görülmesi halinde sınav kurulu, kurul üyelerinden oluşan komisyonlar şeklinde çalışabilir.
+(2) Giriş sınavının, Yönetmeliğin 6 ncı maddesinin birinci fıkrasının (b) bendinde belirtilen okullardan mezun olanlar için birlikte açılması halinde, sınavın sözlü bölümüne katılmak için sınav kuruluna, Başkanlık merkezinden veya diğer kurumlardan çağrılan üyeler yalnızca teknik bilgiyi haiz oldukları bölümden sınava giren adayların sözlü sınavına iştirak ederler.
+(3) Sınav kurulu veya komisyonlar en az üç üye ile toplanır ve çoğunlukla karar verir. Asil üyenin katılamadığı toplantıya yedek üye katılır. Oylamada çekimser oy kullanılamaz. Karara katılmayanlar karşı oylarını gerekçeleri ile birlikte belirtmek zorundadırlar.
+(4) Sınav kurulu, giriş ve yeterlik sınavlarını yapar, sonuçlarını değerlendirir ve itirazları inceleyerek karara bağlar.
+(5) Sınav kurulu başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlatlıklarının katıldığı sınavda görev alamazlar.
+(6) Sınav kurulunun sekretarya hizmetlerini Personel Daire Başkanlığı yürütür.

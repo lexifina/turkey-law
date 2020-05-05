@@ -1,0 +1,75 @@
+{
+  "source_id": "7.5.13647",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GELİR İDARESİ BAŞKANLIĞI GELİR UZMANLIĞI YÖNETMELİĞİ",
+  "number": "13647",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2009/13647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13647&MevzuatTertip=5",
+  "source_sha256": "f46e689bcfd1775eb5299f3f7bf0d75cc186893c403312a7e20588c196e764e8",
+  "source_bytes": 84366,
+  "published": "2009-12-26",
+  "gazette": "27444",
+  "in_force": "2020-05-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-05",
+      "RG-5/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-05",
+      "5/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-12-11",
+      "RG-11/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-11",
+      "11/12/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-10-22",
+      "RG-22/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-22",
+      "22/10/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-09-09",
+      "RG-9/9/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-09-09",
+      "9/9/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3758,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13647-ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
