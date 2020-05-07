@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9339-2",
+  "decision_date": "2020-05-07",
+  "title": "2020 yılı altıncı aylık (A6) kapasite ürünü için yapılacak talep çağrısına ilişkin",
+  "resmi_gazete_date": "2020-05-09",
+  "resmi_gazete_number": "31122",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FYWBm1mfBpE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FYWBm1mfBpE="
+  ],
+  "source_sha256": "49aa71884ee9471c8b66f8894dbacbbf51af2096346326c5bd635dba9435deb5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2020-05-07",
+  "law_text_complete": false
+}
