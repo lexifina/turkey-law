@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.23387",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ GIDALARA VİTAMİNLER, MİNERALLER VE BELİRLİ DİĞER ÖĞELERİN EKLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "23387",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2017/23387",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23387&MevzuatTertip=5",
+  "source_sha256": "a584c0dceca49aee979b79f92d136fab59a635c16081adc4d9e8ea153e6b81e3",
+  "source_bytes": 59312,
+  "published": "2017-03-07",
+  "gazette": "30000",
+  "in_force": "2020-05-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-07",
+      "RG-7/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-07",
+      "7/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3307,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23387-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

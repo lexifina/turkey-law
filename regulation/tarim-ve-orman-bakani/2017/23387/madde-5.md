@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Vitaminler ve Minerallerin Gıdalara Eklenmesi
+Vitaminler ve minerallerin eklenmesine ilişkin gereklilikler
+MADDE 5 – (1) Bu Yönetmelik hükümlerine uygun olmak şartıyla sadece bu Yönetmeliğin EK-1’inde listelenen vitaminler ve/veya mineraller, EK-2’sinde listelenen formlarda gıdalara eklenebilir.
+(2) İnsan vücudu tarafından biyolojik olarak kullanılabilen formlardaki vitaminler ve mineraller, genellikle gıdanın yapısında doğal olarak bulunup bulunmadığına bakılmaksızın, aşağıda belirtilen hususlardan en az biri göz önünde bulundurularak gıdalara eklenebilir:
+a) Eksikliğin klinik veya subklinik kanıt ile ispatlanabildiği veya besin öğelerinin alım düzeyinin düşük olduğunun tahminen gösterilebildiği nüfusta veya nüfusun belirli gruplarında görülen bir veya daha fazla vitamin ve/veya mineral yetersizliği,
+b) Nüfusun veya nüfusun belirli gruplarının beslenme açısından durumunu iyileştirmek ve/veya beslenme alışkanlıklarındaki değişikliklerden dolayı vitaminlerin ve minerallerin beslenme yolu ile alınmasındaki muhtemel eksikliklerini düzeltme imkânı,
+c) Vitaminlerin ve minerallerin beslenmedeki rolüne ve sağlık üzerindeki nihai etkilerine ilişkin genel kabul görmüş bilimsel bilgilerdeki değişim.
+(3) (Değişik:RG-7/5/2020-31120) Genel Müdürlüğün kendi inisiyatifi ile veya bir başvuru sahibi tarafından kendisine yapılan başvuru üzerine EK-1 ve EK-2’de Yönetmelik değişikliği yapılması karara bağlanır. Bu kapsamdaki değişiklikler için, ihtiyaç duyulması halinde Bilimsel Komisyonun görüşüne başvurulabilir. Bilimsel Komisyonun görüşüne ihtiyaç duyulması halinde, 7 nci maddede belirlenen kurallar uygulanır. Başvuru sahibi tarafından yapılan başvuru ile ilgili olarak Bilimsel Komisyon tarafından yapılacak bilimsel değerlendirmeler için başvuru dosyası hazırlanırken Genel Müdürlük tarafından yayımlanan ilgili kılavuzlar dikkate alınır.
+(4) Bakanlık acil durumlarda, bir vitamini veya minerali EK-1 ve EK-2’de yer alan listelerden çıkarmak için gerekli tedbirleri alır.
+(5) Genel Müdürlük, üçüncü ve dördüncü fıkrada belirtilen değişikliklerin yapılmasından önce, özellikle gıda işletmecileri, tüketici grupları ve diğer ilgili taraflarla istişarede bulunur.
+(6) (Ek:RG-7/5/2020-31120) EK-1’de listelenen vitaminler ve/veya minerallerin, EK-2’de listelenen formlarda gıdalara eklenmesi halinde, bu vitamin ve/veya mineraller, Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliğinin 20 nci ve 21 inci maddelerinde belirtilen kurallara uygun olarak EK-2’de listelenen formları ile bileşenler listesinde belirtilebilir.

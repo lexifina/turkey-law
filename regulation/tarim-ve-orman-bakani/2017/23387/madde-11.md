@@ -1,0 +1,17 @@
+ÜÇÜNCÜ BÖLÜM
+Belirli Diğer Öğelerin Gıdalara Eklenmesi
+Yasaklı, kısıtlı veya inceleme altındaki diğer öğeler
+MADDE 11 – (Değişik:RG-7/5/2020-31120)
+(1) Vitaminler veya mineraller dışında bir diğer öğenin ya da vitaminler veya mineraller dışında bir diğer öğeyi içeren bir bileşenin gıdalara eklenmesi veya gıdaların üretiminde kullanılması; söz konusu diğer öğe veya bileşenin alım miktarının, dengeli ve çeşitli bir beslenme ile normal tüketim koşullarında beklenen makul alım miktarlarını aşmasına neden oluyorsa ve/veya tüketiciler için potansiyel bir risk oluşturuyorsa bu bölümde belirlenen süreç takip edilir.
+(2) Genel Müdürlük, gerekli hallerde, bir diğer öğeyi veya bu diğer öğeyi içeren bileşeni EK-3’e dâhil etmek için Yönetmelik değişikliği yapılması kararı alabilir. Bu kapsamda yapılacak bir değerlendirme sırasında, ihtiyaç duyulması halinde Bilimsel Komisyonun görüşüne başvurabilir.
+(3) İkinci fıkra kapsamında yapılan bir değerlendirme sonucunda;
+a) Sağlık üzerinde zararlı bir etkisi bulunduğunun tespit edilmesi durumunda, söz konusu diğer öğe ve/veya bu diğer öğeyi içeren bileşen;
+1) EK-3 Bölüm A’ya dâhil edilir ve gıdalara eklenmesi veya gıdaların üretiminde kullanılması yasaklanır veya
+2) EK-3 Bölüm B’ye dâhil edilir ve gıdalara eklenmesine veya gıdaların üretiminde kullanılmasına sadece EK-3 Bölüm B’de belirtilen koşullar altında izin verilir.
+b) Sağlık üzerinde zararlı bir etkisinin bulunma ihtimalinin olduğu, ancak bu konudaki bilimsel belirsizliklerin devam ettiğinin tespit edilmesi durumunda, söz konusu diğer öğe EK-3 Bölüm C’ye dâhil edilir.
+c) Bakanlık acil durumlarda, bir diğer öğeyi ve/veya bu diğer öğeyi içeren bir bileşeni EK-3 Bölüm A veya Bölüm B’ye dâhil etmek için gerekli tedbirleri alır.
+(4) Belirli gıdalar için bazı diğer öğelerin kullanımı hakkında bu Yönetmelikte belirlenenlere ilave olarak kendi özel mevzuatında kısıtlamalar veya yasaklamalar getirilebilir.
+(5) Başvuru sahibi, EK-3 Bölüm C’de yer alan bir diğer öğenin bir gıdada veya gıda grubunda belirli koşullarda kullanılması durumunda güvenilir olduğunu gösteren ve bu kullanımın amacını açıklayan bilimsel verileri içeren başvuru dosyasını, değerlendirilmek üzere Genel Müdürlüğe sunabilir. Başvuru dosyasının Genel Müdürlük tarafından geçerli dosya olarak dikkate alınması için, ilgili diğer öğenin EK-3 Bölüm C’ye dâhil edilmesine ilişkin olarak ikinci ve üçüncü fıkra uyarınca alınmış kararın yürürlüğe girmesinden itibaren on sekiz ay içinde sunulmuş olması gerekir. Sunulan başvuru dosyasının değerlendirilmesi aşamasında, ihtiyaç duyulması halinde Bilimsel Komisyonun görüşüne başvurulabilir.
+(6) Genel Müdürlük, bir diğer öğenin EK-3 Bölüm C’ye eklenmesinden itibaren 4 yıl içinde, bu diğer öğenin kullanımına izin vermek için veya gerektiğinde bu diğer öğeyi EK-3 Bölüm A ya da Bölüm B’ye dâhil etmek için karar alabilir. Genel Müdürlük bu kararı alırken, mevcut ise, beşinci fıkrada belirtildiği şekilde değerlendirilmek üzere sunulan herhangi bir başvuru dosyasına ilişkin Bilimsel Komisyonun görüşünü de dikkate alır. Bakanlık, acil durumlarda, bir diğer öğe ve/veya bu diğer öğeyi içeren bir bileşeni atıf yapılan listeden çıkarmak için gerekli tedbirleri alır.
+(7) Birinci, ikinci ve üçüncü fıkraların kapsamındaki konulara ilişkin değerlendirmeler için 12 ve 13 üncü maddelerde belirlenen kurallar uygulanır.
+(8) Beşinci fıkrada belirtildiği şekilde Bilimsel Komisyonun görüşüne ihtiyaç duyulması halinde 14 üncü maddede belirlenen kurallar uygulanır.
