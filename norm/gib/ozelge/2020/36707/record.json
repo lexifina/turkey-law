@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.99.16.02-180[29/y]-11478",
+  "source_id": 36707,
+  "date": "2020-05-07",
+  "title": "Konut finansmanı kapsamında kullandırılan kredilerde bankaya beyan edilen satın alma bedeli ile tapuya beyan edilen tutar arasında fark olması halinde BSMV ve KKDF uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/36707",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b87d05b82653248a3aa509fd4f5b759c5b79167638b3abeb575f6baf99a57007",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
