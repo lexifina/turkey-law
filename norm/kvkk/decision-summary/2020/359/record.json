@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/359",
+  "source_id": 7028,
+  "date": "2020-05-07",
+  "title": "“Bir bankanın veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 07/05/2020 tarih ve 2020/359 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7028/2020-359",
+  "source_sha256": "cc28a31875df52304514658518435ce6f163cc51ce3ec1509fddcdee001b61c2",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
