@@ -1,0 +1,2 @@
+Uzman yardımcılığının sona ermesi
+MADDE 28 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile yeterlik sınav tarihinden itibaren en geç iki yıl içerisinde yabancı dil yeterliliği şartını yerine getirmeyenler, Uzman Yardımcısı unvanını kaybederler ve Bakanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.

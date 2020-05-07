@@ -1,0 +1,4 @@
+Başvuru usulü, incelenmesi ve adayların sınava kabulü
+MADDE 8 – (1) Giriş sınavına başvuru, giriş sınavı duyurusunda yer alan tarihler arasında adayın beyanı esas alınarak Bakanlık internet sitesi üzerinden elektronik ortamda yapılır ve herhangi bir belge talep edilmez.
+(2) Bakanlık resmi internet sitesi üzerinden elektronik ortamda başvuruda bulunan adayların KPSS puanları ile nüfus kimlik bilgileri kontrol edilir. Giriş sınavına katılmaya hak kazanacak adayların tespiti, başvuran adayların KPSS başarı puan sıralamasına göre yapılır ve Bakanlık resmi internet sitesinde ilan edilir.
+(3) İlan edilen listeye süresi içerisinde yapılan itirazlar sonuçlandırılarak sınava katılmaya hak kazanan adaylara ait kesin sonuç listesi Bakanlık resmi internet sitesinde duyurulur ve ilgililere yazılı olarak bildirilir.

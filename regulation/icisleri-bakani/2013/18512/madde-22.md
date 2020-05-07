@@ -1,0 +1,7 @@
+Tezin değerlendirilmesi
+MADDE 22 – (1) Uzman yardımcıları tarafından hazırlanacak tezler, altı nüsha olarak Personel Genel Müdürlüğüne gönderilir.
+(2) Kurul teslim aldığı tezleri en geç iki ay içinde tez jürisi olarak inceler. Uzman Yardımcısı tezini savunmak üzere bir ay içerisinde çağrılır. Uzman Yardımcısı tez jürisi önünde tezini sözlü olarak savunur ve tez konusu ile ilgili soruları cevaplandırır.
+(3) Kurul, Uzman Yardımcısının hazırlamış olduğu tezi, tezin sözlü savunmasını da göz önüne alarak değerlendirir.
+(4) Kurul üyelerinin her biri, tez savunmasının ardından teze ilişkin puanlamasını yapar. Yüz tam puan üzerinden yapılacak değerlendirmede, verilen notların aritmetik ortalaması en az yetmiş puan olan tez, başarılı kabul edilir. Kurul, her bir üyenin vermiş olduğu puanları ve tezin başarılı veya yetersiz sayılma nedenlerini içeren bir değerlendirme raporu hazırlar.
+(5) Uzman Yardımcısı, tezinin yetersiz bulunması halinde, başarısız olma gerekçesinin yer aldığı Kurul raporunu dikkate almak suretiyle altı aydan fazla olmamak üzere verilen süre içinde yeniden bir tez hazırlamak veya aynı tezi düzelterek sunmak zorundadır.
+(6) Süresi içinde tezlerini sunmayan veya tezleri kabul edilmeyenlere tezlerini sunmaları veya yeni bir tez hazırlamaları için bir defaya mahsus olmak üzere altı ayı aşmamak üzere ilave süre verilir. Verilen ilave süre içerisinde sınav hakkını kullanmayanlar ile yeterlik sınavında başarılı olamayanlar hakkında 28 inci madde hükümleri uygulanır.
