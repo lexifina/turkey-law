@@ -1,0 +1,2 @@
+Stajyerlik Süresi Sonunda Başarısızlık (Değişik :RG-16/06/2004-25494)
+Madde 15 — (Değişik :RG-16/06/2004-25494) Stajyerlik süresi sonunda yapılan yeterlik sınavlarında başarı gösteremeyen veya haklı bir sebebe dayanmaksızın bu sınava girmeyen stajyer kontrolörler, Genel Müdürün teklifi ve Bakanın onayı ile Bakanlık merkez ve taşra teşkilatında durumlarına ve derecelerine uygun bir göreve atanırlar.

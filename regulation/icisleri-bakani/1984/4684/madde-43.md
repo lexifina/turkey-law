@@ -1,0 +1,2 @@
+Önceki Teftiş Sonuçlarının Araştırılması
+Madde 43 – Teftişe başlanırken ilkin önceki teftişteki tenkit ve tavsiyelerin ne ölçüde yerine getirildiği araştırılır. O tarihe kadar tamamlanmayan veya düzeltilmeyen konular teftiş rapor ve layihalarında belirtilir. Ayrıca ilgili memurların açıklamaları yerinde ve yeter görülmediği takdirde konuların önemine göre sorumluları hakkında usulüne uygun olarak soruşturma yapılır.

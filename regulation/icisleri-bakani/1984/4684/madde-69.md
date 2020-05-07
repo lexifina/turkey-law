@@ -1,0 +1,2 @@
+Layiha, Rapor Ve Formlar, Açık ve Kapalı Haberleşme
+Madde 69- Teftiş rapor ve layihaları, inceleme ve araştırma, (Mülga ibare:RG-7/5/202031120) (…) soruşturma rapor ve fezlekeleri, aylık çalışma ve haketme cetvelleri ile yıllık istatistik çizelgelerinin formları ve açık ve kapalı haberleşme hususlarında "(Değişik ibare:RG-7/5/202031120) İçişleri Bakanlığı Mülkiye Teftiş Kurulu Görev ve Çalışma Yönergesi" hükümleri uygulanır.

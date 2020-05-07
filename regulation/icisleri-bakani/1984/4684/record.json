@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.4684",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇİŞLERİ BAKANLIĞI MAHALLİ İDARELER KONTROLÖRLERİ YÖNETMELİĞİ",
+  "number": "4684",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/1984/4684",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4684&MevzuatTertip=5",
+  "source_sha256": "106a54a372f4e80ff1920f53453361b72ad6e62b131cbae56fcd790feed2ce8c",
+  "source_bytes": 124233,
+  "published": "1984-04-11",
+  "gazette": "18369",
+  "in_force": "2020-05-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG7/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-07",
+      "RG7/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-07",
+      "RG-7/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-07",
+      "7/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-05-29",
+      "R.G.29/5/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-05-29",
+      "29/5/2009",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2004-06-16",
+      "RG-16/06/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-06-16",
+      "16/6/2004",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "1994-01-19",
+      "RG-19/01/1994",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1994-01-19",
+      "19/1/1994",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "1993-01-07",
+      "7/1/1993",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete'de yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5521,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

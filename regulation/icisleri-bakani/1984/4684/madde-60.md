@@ -1,0 +1,2 @@
+İnceleme Raporları
+Madde 60– Kontrolörler teftişe tabi bütün birimlerin hizmet ve çalışmaları ile ilgili alanlarda ve bu birimlerde mevzuatın uygulanışında bir konunun eleştirilmesini gerekli gördükleri taktirde düşüncelerini (Değişik ibare:RG-7/5/2020-31120) Genel Müdürlüğe bildirmek için inceleme raporu düzenlerler. (Değişik ibare:RG-7/5/2020-31120) Genel Müdürlük kontrolörün düşünce ve tavsiyelerine katılmamışsa durumu kontrolöre bildirir.
