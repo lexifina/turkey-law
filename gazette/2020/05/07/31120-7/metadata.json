@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-05-07",
+  "issue": "31120",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye İstatistik Kurumu Başkanlığı Hizmet Birimlerinin Kuruluş, Görev ve Yetkilerine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200507-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200507.htm",
+  "index_sha256": "9dd38b45ee6bd93cab5ad5050b88a0ae3be76b734358d6c89e75100dc9f87d62",
+  "index_header": "7 Mayıs 2020 ... 31120 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200507.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
