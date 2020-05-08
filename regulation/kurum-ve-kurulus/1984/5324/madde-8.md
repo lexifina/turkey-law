@@ -1,0 +1,2 @@
+Alınacak Tedbirler
+Madde 8- Sergi sırasında taşınır kültür ve tabiat varlıklarının sağlığının bozulması, emniyetinin yeterli olmaması, çevre koşullarının uyumsuzluğu taahhütlere uyulmaması gibi durumlarda görevli veya görevliler gerekli önlemlerin alınmasının mahallindeki sorumlu makamlardan isteyebilecekleri önlemlerin derhal alınmaması durumunda, gereğinin sağlanmasını veya serginin tamamının veya bir kısmının geri getirilmesini o ülkedeki diplomatik temsilciliğimiz veya konsolosluğumuz kanalıyla talep edebilir.
