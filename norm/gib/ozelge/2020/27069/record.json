@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-22885]-E.356138",
+  "source_id": 27069,
+  "date": "2020-05-08",
+  "title": "Kayyım atanan şirket tarafından, kayıt atanan diğer şirketlerin, ticari faaliyetlerine devam etmelerinin sağlanmasını teminen finanse edilmelerinden kaynaklanan alacağın, uzlaşma protokolü ile yapılandırılması nedeniyle vazgeçilen kısmın değersiz alacak olarak dikkate alınıp alınamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27069",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "2e788d1571cc726b9e5d7c4a24cf330360e16f3e6319f6d4f46f4a5c259326d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
