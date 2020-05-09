@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-2505",
+  "number": "2505",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "NÜFUS HİZMETLERİ UYGULAMA YÖNETMELİĞİ",
+  "published": "2020-05-09",
+  "enacted": "2020-05-08",
+  "gazette_number": "31122",
+  "in_force": "2020-05-09",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2020-05-09, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=2505&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "f661cd6173a049a3a9fa6053ac30edd4493a4c7c5b13aec917cb98478dad5ee3",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

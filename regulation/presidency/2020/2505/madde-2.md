@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; nüfus hizmetlerinin yürütülmesine, nüfus kütüklerinin kâğıt ve elektronik ortamda tutulmasına, dış temsilcilikler ve yetkili kurumlarca nüfus olaylarına ait dayanak belgelerini oluşturan bilgilerin merkezi veri tabanına elektronik ortamda gönderilmesi veya tesciline, uluslararası aile cüzdanları ve mavi kartlara ait form ve tutanakların düzenlenmesine, devir ve teslimine ve bu hizmetleri yürüten kamu görevlilerinin denetlenmesine ilişkin usul ve esasları kapsar.

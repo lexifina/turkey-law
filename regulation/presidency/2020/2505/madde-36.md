@@ -1,0 +1,3 @@
+Yurt dışındaki ölümler
+MADDE 36- (1) Yurt dışında bulundukları sırada ölen Türk vatandaşlarının ölüm olayı, ilgili yerel makamlardan alınan belgenin dış temsilciliğe verilmesi suretiyle bildirilir. Ölüm bildirim formuna dayanak belgesine ilişkin açıklama yapılır ve dış temsilciliklerce sistem üzerinden tescil işlemi gerçekleştirilir.
+(2) Dış temsilciliklerce tescil işleminin sistem üzerinden yapılamaması durumunda; iki örnek ölüm bildirim formu düzenlenir ve ölenin nüfus cüzdanı/kimlik kartı eklenerek ölüm olayının tescil edilmesi için ölüm belgesinin dış temsilciliğe intikal ettirildiği tarihten itibaren on gün içerisinde kişinin aile kütüğünde kayıtlı olduğu yer nüfus müdürlüğüne gönderilir.

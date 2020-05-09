@@ -1,0 +1,4 @@
+Ölü olduğu halde aile kütüğünde sağ görünenler
+MADDE 37- (1) Ölmüş olduğu halde aile kütüklerinde sağ görünenlerin ölüm olayını gösterir belge ile başvurulması halinde nüfus müdürlüklerince gerekli işlem yapılır.
+(2) Ölüm olayını gösterir herhangi bir belge ibraz edilememesi durumunda ya da aile kütükleri üzerinde yapılan inceleme sonucunda; nüfus cüzdanı/kimlik kartı aldığına ilişkin bir bilgi olmayan, adres kaydı bulunmayan, uzun süredir işlem görmediği anlaşılan ve yaşı itibarıyla ölü olması muhtemel kişilerin ölü olup olmadıkları araştırılır. Araştırma sonucu ölü oldukları tespit edilenlerin ölüm olayı mülkî idare amirinin onayı ile tescil edilir.
+(3) Ölü olduğu değerlendirilen fakat aile kütüğünde sağ görünenler hakkında yapılan araştırma sonucu ölüm tarihi ve yeri tespit edilemeyenlerin ve fiilen idarece araştırma imkânı kalmadığı tespit edilen kayıtların, işlem yapılamaz hale getirilmesinde Genel Müdürlük yetkilidir.

@@ -1,0 +1,6 @@
+Yabancı makamlarca verilmiş olan resmî belgelerin işleme alınması
+MADDE 59- (1) Yetkili makamların imza ve mührünü taşıması şartıyla tarafı bulunduğumuz uluslararası antlaşmalar çerçevesinde düzenlenen belgelerin asılları kabul edilerek işleme alınır. Bu belgeler ayrıca bir tasdik işlemine tâbi tutulmaz.
+a) Milletlerarası Ahval-i Şahsiye Komisyonunca hazırlanarak uygulamaya konulan sözleşmeler gereğince düzenlenen ve belirli bir formüle sahip kişi hallerine ilişkin çok dilli belgeler herhangi bir tasdik işlemine tâbi tutulmadan doğrudan işleme alınır.
+b) La Haye Devletler Özel Hukuk Konferansınca hazırlanan Yabancı Resmî Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesine taraf olan devletlerin yetkili makamlarınca verilmiş belgeler, belgenin aslına eklenecek tasdik şerhi (Apostille) ve noter tarafından onaylanmış Türkçe tercümesi ile birlikte işleme alınır.
+(2) Yabancı ülke makamlarına göre farklılık arz eden, belirli bir formüle tâbi olmayan ve ispat niteliği taşıyan resmî belgelerin asılları, usulüne uygun bir şekilde tasdik edilmiş ve noter tarafından onaylanmış Türkçe tercümesi ile birlikte işleme alınır.
+(3) Fahri konsolosluklarca düzenlenen belgelere dayanılarak işlem tesis edilmez.

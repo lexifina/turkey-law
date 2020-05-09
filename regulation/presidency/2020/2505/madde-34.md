@@ -1,0 +1,6 @@
+Mahkemelerce verilen kayıt düzeltme kararlarının tesciline ilişkin esaslar
+MADDE 34- (1) Kayıt düzeltme kararlarının aile kütüklerine tesciline ilişkin esaslar aşağıda belirtilmiştir:
+a) Soyadının düzeltilmesine karar verilen erkek ise kendisinin, varsa karısının ve karar tarihinde ergin olmayan çocuklarının soyadları düzeltilir. Soyadının düzeltilmesine karar verilen kadın ise kendisinin ve varsa karar tarihinde ergin olmayan evlilik dışı doğmuş çocuklarının soyadları düzeltilir.
+b) Adının düzeltilmesine karar verilen kişinin çocukları var ise mahkeme kararında bu işleme ilişkin herhangi bir hüküm aranmaksızın çocukların kaydındaki ana veya baba adları da düzeltilir. Baba veya ana adının düzeltilmesinden önce yer değiştirme, evlenme, evlât edinme gibi nedenlerle bu haneden gitmiş olan ergin çocukların açık kayıtlarında da gerekli düzeltme işlemi yapılır.
+c) Doğum tarihinin düzeltilmesine ilişkin mahkeme kararında, sadece yılın düzeltilmesine karar verilmesi halinde doğum tarihi, aile kütüğündeki ay ve gün değiştirilmeksizin düzeltilen doğum yılı ile tescil edilir.
+ç) Kapalı nüfus kayıtlarına yönelik kaydın kapatılma tarihinden sonra mahkemeler tarafından verilen kesinleşmiş kayıt düzeltme kararları aile kütüklerine tescil edilir. 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 363 üncü maddesi gereğince Cumhuriyet başsavcılığına bildirilir.

@@ -1,0 +1,4 @@
+Yabancı ülkelerde kullanılacak kayıt örnekleri
+MADDE 51- (1) Milletlerarası Ahval-i Şahsiye Komisyonuna üye ve ilgili sözleşmelerine taraf devlet makamlarına ibraz edilecek doğum, ölüm, evlenme, evlenme ehliyet belgesi ve nüfus kayıt örneği gibi bu amaçla bastırılmış veya elektronik ortamda hazırlanmış çok dilli belgelerde, imza ve mühür taşıması şartı ile herhangi bir tasdik aranmaz.
+(2) Doğum, ölüm, evlenme, evlenme ehliyet belgesi ve nüfus kayıt örneği gibi belgeler, La Haye Devletler Özel Hukuk Konferansına üye ve 5/10/1961 tarihli Yabancı Resmî Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesine taraf devlet makamlarına verilecek ise tasdik şerhi (Apostille) işlemi ilgili kişilerce yaptırılır.
+(3) Kişilerin yabancı ülke makamlarına vermek üzere talep ettiği nüfus kayıt örneklerinde, kimlik bilgileri dışında kişisel bilgilere ve nüfus olaylarına ilişkin açıklamalara kişinin talebi olmaksızın yer verilmez.

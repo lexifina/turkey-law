@@ -1,0 +1,3 @@
+Dayanak belgelerinin çoğaltılması ve dayanak belgesine ekli belgeler
+MADDE 64- (1) Kişisel durum olaylarının aile kütüklerine tescili sırasında tutanak, karar veya belgelerin gereken sayıdan az olduğu ve temini mümkün olmadığı takdirde, işlemi yapan nüfus müdürlüğü tarafından belgenin örneği ya da sistemden alınan çıktısı veya vukuatından çıkartılacak aslına uygun okunaklı örneği düzenlenir ve onaylandıktan sonra işleme alınır.
+(2) Kişisel durum siciline tescil edilecek bir kaydın dayanak belgesi niteliğindeki tutanak, karar ve belgelerin fotokopileri veya faks cihazı ile gönderilen örnekleri kabul edilip işleme konulamaz. Nüfus müdürlüklerinin kendi aralarında yapacakları elektronik iletişim veya faks cihazı ile yazışmaları bu kapsam dışındadır.

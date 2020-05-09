@@ -1,0 +1,3 @@
+Mahkeme kararları
+MADDE 56- (1) Mahkemeler tarafından verilen kararların aile kütüklerine tesciline dayanak olan bilgiler, mahkeme yazı işleri müdürlükleri tarafından Kanunda öngörülen on günlük süre içerisinde elektronik ortamda merkezi veri tabanına gönderilir veya tescil edilir.
+(2) Mahkemeler tarafından verilen kararların elektronik ortamda gönderilememesi veya tescil edilememesi halinde, mahkeme yazı işleri müdürlükleri tarafından kararın kesinleştirme işlem tarihini takip eden on gün içerisinde mahkeme kararları nüfus müdürlüklerine gönderilir. Nüfus müdürlüklerine gönderilen kesinleşmiş kararlar aile kütüklerine tescil edilir.
