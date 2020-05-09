@@ -1,0 +1,3 @@
+Ruhsat işlemi
+MADDE 14 – (1) Tabancanın cinsi, tipi, markası, çapı ve seri numarası, personelin özlük dosyasındaki sicil kartına ve personelin kimlik kartına işlenir. Zati silahın ruhsat işlemleri, 6136 sayılı Kanun ile Ateşli Silâhlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik esaslarına göre yürütülür.
+(2) Bu Yönetmelik hükümleri gereği silah taşıma yetkisini haiz personele bedeli mukabili satışı yapılarak kayıt ve takip işlemleri Silah Takip Programında izlenilen tabancaların ruhsatlarına “Ticaret Bakanlığının müsaadesi olmadan satılamaz, devredilemez ve hibe edilemez” şerhi işlenir.
