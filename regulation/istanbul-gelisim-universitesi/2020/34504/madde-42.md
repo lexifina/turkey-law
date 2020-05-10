@@ -1,0 +1,7 @@
+İhalenin karara bağlanması ve onaylanması
+MADDE 42 – (1) İhale komisyonlarınca alınan kararlar, komisyon başkan ve üyelerinin adları, soyadları ve esas görevleri belirtilerek imzalanır. Kararlarda isteklilerin isimleri, adresleri, teklif ettikleri bedeller, ihalenin hangi tarihte ve hangi istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
+(2) İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder.
+(3) İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.
+(4) İhale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı günü izleyen en geç üç iş günü içinde, ihale üzerinde bırakılan dâhil olmak üzere, ihaleye teklif veren bütün isteklilere bildirilir. İhale sonucunun bildiriminde, tekliflerin değerlendirmeye alınmama veya uygun bulunmama gerekçelerine de yer verilir. İhale kararının ihale yetkilisi tarafından iptal edilmesi durumunda da isteklilere gerekçeleri belirtilmek suretiyle bildirim yapılır.
+(5) İhale sonucunun bütün isteklilere bildiriminden itibaren; üç iş günü geçmedikçe sözleşme imzalanamaz.
+(6) Beşinci fıkrada belirtilen sürenin bitimini izleyen günden itibaren üç iş günü içinde ihale üzerinde bırakılan istekliye, tebliğ tarihini izleyen on iş günü içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir.

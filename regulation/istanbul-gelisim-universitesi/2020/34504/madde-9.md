@@ -1,0 +1,4 @@
+Onay belgesi
+MADDE 9 – (1) İhalesi yapılacak her iş için bir onay belgesi hazırlanır. Onay belgesinde; ihale konusu olan işin nevi, niteliği, miktarı, varsa proje numarası, tahmini bedeli, kullanılabilir bütçe miktarı, avans verilecekse şartları, ihalede uygulanacak usul, ilanın metni ve geçici teminat miktarı belirtilir. Onay belgesinde ayrıca, şartname ve eklerinin bedelinin ne olacağı gösterilir.
+(2) İhale süreci, ihale yetkilisi tarafından ihale onay belgesinin onaylanmasıyla birlikte başlar; taraflarca sözleşmenin imzalanması veya ihalenin iptali ile sona erer.
+(3) Mütevelli Heyetin ihale yetkilisi olması halinde; onay belgesi, üyelerin adı soyadı ve unvanları yazılarak imzalanır.

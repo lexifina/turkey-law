@@ -1,0 +1,10 @@
+İş ortaklığı ve konsorsiyumlar
+MADDE 16 – (1) Birden fazla gerçek veya tüzel kişi, iş ortaklığı oluşturmak suretiyle her türlü ihaleye katılabilir.
+(2) İş ortaklığını oluşturanlar, hak ve sorumluluklarıyla işin tümünü birlikte yapmak üzere ortaklık yapar.
+(3) İş ortaklığı, başvuru veya teklifiyle birlikte pilot ortağın da belirlendiği İş Ortaklığı Beyannamesini vermek zorundadır.
+(4) İş ortaklığında en çok hisseye sahip ortak, pilot ortak olarak gösterilmek zorundadır. Ancak bütün ortakların hisse oranlarının eşit olduğu veya diğer ortaklara göre daha fazla hisse oranına sahip ve hisseleri birbirine eşit olan ortakların bulunduğu iş ortaklığında ise bu ortaklardan biri pilot ortak olarak belirlenir. Ortakların hisse oranları İş Ortaklığı Beyannamesinde gösterilir.
+(5) İhalenin iş ortaklığı üzerinde kalması halinde; iş ortaklığı tarafından, sözleşmenin imzalanmasından önce noter onaylı ortaklık sözleşmesinin Üniversiteye verilmesi zorunludur. Bu sözleşmede; ortakların hisse oranları ve pilot ortak ile diğer ortakların işin yerine getirilmesinde müştereken ve müteselsilen sorumlu olduğu açıkça belirtilir.
+(6) Üniversite, konsorsiyumların ihaleye katılıp katılamayacağını, katılabilecekleri ihalelerde ise işin farklı uzmanlık gerektiren kısımlarını ön yeterlik şartnamesinde veya idari şartnamede belirtir.
+(7) Konsorsiyum, başvuru veya teklifiyle birlikte koordinatör ortağın da belirlendiği Konsorsiyum Beyannamesini vermek zorundadır.
+(8) İş ortaklıkları ve konsorsiyumların ihaleye katılabilmek için sunacakları belgeler ve yeterlik kriterlerine ilişkin değerlendirmede ihale dokümanında yapılan düzenlemeler esas alınır.
+(9) İhalenin konsorsiyum üzerinde kalması halinde, konsorsiyum tarafından sözleşme imzalanmadan önce noter onaylı konsorsiyum sözleşmesinin Üniversiteye verilmesi zorunludur. Bu sözleşmede, konsorsiyumu oluşturan gerçek ve/veya tüzel kişilerin işin hangi kısmını taahhüt ettikleri ve işin yerine getirilmesinde, koordinatör ortak aracılığıyla aralarında koordinasyonu sağlayacakları belirtilir.

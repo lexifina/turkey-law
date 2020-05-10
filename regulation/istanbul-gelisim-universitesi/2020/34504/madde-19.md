@@ -1,0 +1,14 @@
+Kiralama ve Yapım İşleri
+Teknik şartname
+MADDE 19 – (1) İhale konusu işin teknik kriterleri ve özellikleri, ihale dokümanının bir parçası olan teknik şartnamede düzenlenir. Teknik kriterlerin ve özelliklerin, verimliliği ve fonksiyonelliği sağlamaya yönelik olması, rekabeti engelleyici hususlar içermemesi ve fırsat eşitliğini sağlaması zorunludur.
+(2) Teknik şartnamede, varsa ulusal standart ve dengi uluslararası standartlara uygunluğu sağlamaya yönelik düzenleme yapılabilir. Ancak ulusal standardın bulunmaması durumunda sadece uluslararası standart esas alınarak düzenleme yapılabilir.
+(3) Teknik şartnamede, belli bir marka, model, patent, menşei, kaynak veya ürün belirtilemez ve belirli bir marka veya modele yönelik özellik ve tanımlamalara yer verilemez. Ancak, ulusal ve/veya uluslararası teknik standartların bulunmadığı veya teknik özelliklerin belirlenmesinin mümkün olmadığı hallerde, “veya dengi” ifadesine yer verilmek şartıyla marka veya model belirtilebilir.
+(4) Teknik şartnamede, alım konusu malın ambalajlanması ve etiketlenmesi ile kullanım kılavuzuna yönelik düzenleme yapılabilir.
+(5) Teknik şartnamede, alım konusu malın montajı ve satış sonrası servisi ile yedek parçasının sağlanmasına yönelik düzenleme yapılabilir.
+(6) Teknik şartnamenin hazırlanmasında, ürünlere ilişkin teknik mevzuatın hazırlanması ve uygulanmasına dair mevzuat göz önünde bulundurulmalıdır.
+(7) Teknik şartnamede yapılacak düzenlemelerin, ön yeterlik şartnamesinde veya idari şartnamede ihaleye katılımda yeterlik kriteri olarak öngörülen mesleki ve teknik yeterlik kriterleri ve belgeleriyle uyumlu olması gerekir.
+(8) Teknik şartnamedeki düzenlemelerin; ihale komisyonu ile muayene ve kabul komisyonunca yapılacak inceleme ve değerlendirmelerde tereddüt oluşturmayacak şekilde açık olması gerekir.
+(9) Özel imalat süreci gerektiren mal alımlarında, yüklenici tarafından öncelikle malın prototipinin Üniversiteye sunulmasına ve bu prototipin kabulünden sonra üretiminin yapılmasına yönelik teknik şartnamede düzenleme yapılabilir.
+(10) Alım konusu malın niteliği ve bu Yönetmelikte öngörülen düzenlemeler esas alınarak yüklenicinin personel çalıştırmasının öngörülmesi halinde, bu personelin sayısı ve niteliği teknik şartnamede veya sözleşme tasarısında belirtilir.
+(11) Özel imalat süreci gerektiren mal alımlarında, malın ilgili mevzuat uyarınca teknik düzenleme kapsamında bulunması ve piyasaya arz edilmesinin belirli kurallara tabi olması durumunda; Üniversite ve yüklenicinin malın uygunluk değerlendirilmesine yönelik yükümlülükleri, teknik şartnamede ve/veya sözleşme tasarısında belirtilir.
+(12) Teknik şartnamenin Üniversite tarafından hazırlanması esastır. Ancak, alınacak malın özelliğinin gerektirdiği hallerde ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartname, Kanun hükümlerine uygun olarak danışmanlık hizmet sunucularına hazırlatılabilir.

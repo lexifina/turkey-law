@@ -1,0 +1,11 @@
+Elektronik eksiltme
+MADDE 55 – (1) İlan ve ihale dokümanında belirtilmesi kaydıyla, ihalelerde tekliflerin değerlendirilmesi aşamasının tamamlanmasından sonra elektronik eksiltme yapılabilir. Dinamik alım sistemi ve çerçeve anlaşma kapsamında yapılan ihalelerde de elektronik eksiltme uygulanabilir. Danışmanlık hizmet alımı ihalelerinde ise elektronik eksiltme uygulanmaz.
+(2) Elektronik eksiltme ancak ihale konusu alımın bütün teknik özelliklerinin net olarak belirlendiği hallerde kullanılabilir.
+(3) Elektronik eksiltmeye başlamadan önce ihale dokümanında belirlenen şartlara göre tekliflerin ilk değerlendirmesi yapılır.
+(4) Yeterli kabul edilen istekliler elektronik ortamda yeniden teklif vermeye aynı anda davet edilir. Davette, eksiltmenin başlama tarihi ve saati ile kullanılmakta olan elektronik araca isteklinin bağlantı kurabilmesi için gerekli bütün bilgilere yer verilir. Elektronik eksiltmenin her aşamasını gösteren bir zaman çizelgesi davet ile birlikte iletilir. Birbirini izleyen birden fazla aşamada elektronik eksiltme yapılabilir. Davetin gönderildiği tarihten iki iş günü geçmeden eksiltmeye başlanamaz.
+(5) Ekonomik açıdan en avantajlı teklifin fiyat dışı unsurlar da dikkate alınarak belirlendiği hallerde, yapılan ilk değerlendirme sonucu ile eksiltmede verilen yeni tekliflere göre sıralamayı düzenleyen matematiksel formül de davette bildirilir. Bu formül, ihale ilanında veya ihale dokümanında belirtildiği şekilde ekonomik açıdan en avantajlı teklifin tespitinde kullanılan bütün unsurların varsa nispi ağırlıklarını da içerir.
+(6) Elektronik eksiltmenin her aşamasında, o andaki sıralamalarını öğrenebilmeleri için gerekli bilgiler anında isteklilere ulaştırılır. İhale dokümanında belirtilmesi kaydıyla, diğer isteklilerin teklifleri hakkında bilgiler ve eksiltmenin herhangi bir aşamasındaki istekli sayısı da duyurulabilir. Ancak elektronik eksiltme süresince isteklilerin kimlikleri açıklanamaz.
+(7) Eksiltme aşağıdaki durumlardan biri veya birkaçının gerçekleşmesi halinde sona erdirilir:
+a) Eksiltmeye katılım için yapılan davette eksiltmenin tamamlanacağı belirtilen tarih ve saatin dolması.
+b) Yeni tekliflerin verilebilmesine ilişkin olarak davette bildirilen bekleme süresi içinde asgari fark aralığını sağlayan tekliflerin alınamaması.
+c) Davette bildirilen tur sayısının tamamlanması.

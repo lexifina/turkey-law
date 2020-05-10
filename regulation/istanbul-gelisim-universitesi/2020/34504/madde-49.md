@@ -1,0 +1,21 @@
+İtiraz
+MADDE 49 – (1) İhale sürecindeki hukuka aykırı işlem veya eylemler nedeniyle bir hak kaybına ya da zarara uğradığını yahut zarara uğramasının muhtemel olduğunu iddia eden aday veya istekliler, ihale sürecindeki işlem ya da eylemlerin hukuka aykırılığı iddiasıyla ihalenin sona erdiği tarihten itibaren beş iş günü içinde Üniversiteye itiraz edebilirler.
+(2) İtiraz başvurusunun Üniversite dışındaki idari mercilere ya da yargı mercilerine yapılması ve başvuru dilekçelerinin bu merciler tarafından Üniversiteye gönderilmesi hâlinde, dilekçelerin Üniversite kayıtlarına girdiği tarih, başvuru tarihi olarak kabul edilir.
+(3) İhale sürecindeki hukuka aykırı işlem veya eylemler nedeniyle bir hak kaybına veya zarara uğradığını veya zarara uğramasının muhtemel olduğunu iddia eden;
+a) İstekli olabilecekler; ön yeterlik ve/veya ihale dokümanının verilmesi, ön yeterlik ve/veya ihale ilanında veya ön yeterlik ve/veya ihale dokümanında yer verilen düzenlemeler ve/veya bu düzenlemeler ile idari uygulamalar arasındaki uyumsuzluklar,
+b) Adaylar; belli istekliler arasında ihale usulü ile yapılan ihalelerde ön yeterlik başvurularının sunulması, değerlendirmesi ve sonuçlandırılmasına ilişkin idari işlem ve eylemler,
+c) İstekliler; yeterlik başvurularının veya tekliflerin sunulması, değerlendirilmesi ve ihalenin sonuçlandırılmasına ilişkin idari işlem veya eylemler,
+hakkında başvuruda bulunabilir.
+(4) İtiraz başvurusu Üniversiteye imzalı dilekçe ile yapılır. Dilekçeye itiraz başvurusunda bulunmaya yetkili olunduğuna dair belgeler ile imza sirkülerinin aslı veya yetkili mercilerce onaylı örneğinin eklenmesi zorunludur. Ancak aday veya isteklinin başvuru belgeleri veya teklif zarfı içerisinde bu belgelerin bulunması durumunda, dilekçe ekinde söz konusu belgeler aranmaz. Dilekçelerde aşağıdaki hususlara yer verilir:
+a) Başvuru sahibinin, varsa vekil ya da temsilcisinin; adı, soyadı veya unvanı ve adresi ile faks numarası.
+b) Üniversitenin ve ihalenin adı.
+c) Başvuruya konu olan durumun farkına varıldığı veya bildirildiği tarih.
+ç) Başvurunun konusu, sebepleri ve dayandığı deliller.
+(5) Ortak girişim adına yapılacak itiraz başvurusunun, pilot ortak/koordinatör ortak veya temsil yetkisi verilen özel ortak ya da ortakların tamamı tarafından yapılması zorunludur. Bu başvurulara, ortak girişim beyannamesinin veya sözleşmesinin, özel ortak tarafından yapılan başvurularda ayrıca özel ortağa temsil yetkisi verildiğine ilişkin belgenin eklenmesi gerekir. Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından aynı ihaleye veya birden fazla ihaleye tek dilekçe ile başvuruda bulunulamaz.
+(6) İtiraz üzerine Üniversite tarafından yapılan inceleme sonucunda gerekçeli olarak;
+a) İhale sürecinin devam etmesine engel oluşturacak ve düzeltici işlemle giderilemeyecek hukuka aykırılığın tespit edilmesi halinde ihalenin iptaline,
+b) Düzeltme yapılması yoluyla giderilebilecek ve ihale sürecinin kesintiye uğratılmasına gerek bulunmayan durumlarda, düzeltici işlem belirlenmesine,
+c) Başvurunun süre, usul ve şekil kurallarına uygun olmaması, usulüne uygun olarak sözleşmenin imzalanmış olması veya itiraza konu işlemlerde ihalenin iptalini veya düzeltici işlem belirlenmesini gerektirecek hukuka aykırılığın tespit edilememesi hallerinde başvurunun reddine,
+on gün içinde karar verilir.
+(7) Alınan karar, itirazda bulunana, diğer aday veya istekliler ile istekli olabileceklere karar tarihini izleyen üç gün içinde bildirilir. İlan ile ihale veya ön yeterlik dokümanına yönelik başvurular dışında istekli olabileceklere bildirim yapılmaz.
+(8) Üniversiteye itiraz edilmesi halinde, ihaleye ilişkin tüm iş ve işlemler durur. İtiraz üzerine alınan kararın son bildirim tarihinden süresi içerisinde bir karar alınmaması halinde ise bu sürenin bitim tarihinden önce sözleşme imzalanamaz. İtirazdan sonra, ihale yetkilisince ivedilik ve kamu yararı bulunması nedeniyle ihale işlemlerine devam edilmesi gerektiği onaylanmadıkça Üniversite sözleşme imzalayamaz. İhale işlemlerine devam edilmesi konusunda gerekçeli olarak alınan bu onay, sözleşme imzalanmadan en az yedi gün önce itirazda bulunan istekliye tebliğ edilmiş olmasını sağlamak üzere gerekli süre dikkate alınarak bildirilir. Üniversite tarafından usulüne uygun bildirim yapılmadan sözleşme imzalanmışsa, ihale kararı ve sözleşme hükümsüz sayılır.
