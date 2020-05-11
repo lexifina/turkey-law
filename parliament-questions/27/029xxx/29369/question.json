@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/29369",
+  "submitted": "2020-05-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Hasan ÖZGÜNEŞ",
+  "province": "Şırnak",
+  "summary": "Şırnak'ın İdil ilçesine bağlı Yarbaşı köyünde bazı mezarların tahrip edildiğine dair iddialara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-4a4f-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "ef3db12db93d9a2e3661934a37cd6a6da6d6576817ead7ab58e1887f34e1696f",
+  "in_force": "2020-05-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
