@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Üniversitenin aylıklı ve devamlı statüsündeki öğretim elemanlarından Rektör tarafından üç yıl için görevlendirilir. Görevi sona eren Müdür yeniden görevlendirilebilir ve görevlendirildiği usul ile görevden alınabilir. Altı aydan uzun süreli Üniversite dışı görevlendirmelerde Müdürün yerine yenisi atanır.
+(2) Müdürün teklifi, Rektörün onayı üzerine Üniversitenin aylıklı ve devamlı statüsündeki öğretim elemanları arasından (Değişik ibare:RG-12/5/2020-31125) en çok iki kişi müdür yardımcısı olarak görevlendirilir. Müdür, gerektiğinde yardımcılarına veya öğretim elemanlarından birine Rektör tarafından onay almak suretiyle vekâlet verebilir.

@@ -1,0 +1,7 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Farkındalık, tanıtım, bilgilendirme faaliyetlerinin yaygınlaştırılması ile Üniversite-sanayi işbirliğinin sağlanması, girişimciliğin yaygınlaştırılması ve özendirilmesi, Üniversitedeki bilgi ve deneyimin sanayiye transfer edilebilmesi, fikri ve sınai mülkiyet hakları konusundaki bilgi ve bilincin arttırılması ile bu alandan elde edilen bilgi ve deneyimin paylaşılarak iyi uygulamaların çoğaltılmasını ve sürdürülebilirliği sağlamak.
+b) Başta Üniversite bünyesindeki akademisyenler olmak üzere bölgedeki firmaları doğru fon kaynaklarına yönlendirme, ilgili fon kaynakları için proje hazırlama, ortaklık oluşturma, proje yürütme ve raporlama gibi konularda destek ve hizmet sağlamak.
+c) Üniversitenin araştırmacı ve araştırma altyapısını kullanarak başta Ağrı Organize Sanayi Bölgesinde yer alan firmalar olmak üzere ekosistem dışındaki firmaları kapsayacak şekilde Üniversite-sanayi işbirliği ortamının oluşturulmasını sağlamak.
+ç) Fikri ve sınai mülkiyet hakları kapsamında patent, faydalı model, endüstriyel tasarım başvurusu yapılması, sürecin takibi, tescil edilen mülkiyet haklarının pazarlanması ve ticarileştirilmesi ile lisans sözleşmesinin yapılması da dâhil olmak üzere, tüm süreç boyunca destek olunmasını sağlayacak hizmetleri sunmak.
+d) Potansiyel girişimcilerin firma kurmasını kolaylaştırıcı hukuki işlemler, iş geliştirme ve pazarlama konusunda danışmanlıklar, çekirdek sermaye ve diğer yatırım imkânlarına erişimi kolaylaştırıcı hizmetler vermek.

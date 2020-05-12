@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-12-20",
+      "20.12.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-05-12",
+      "RG-12/5/2020-31125",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-12",
+      "RG-12/5/2020-31125",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-12",
+      "RG-12/5/2020-31125",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-12",
+      "RG-12/5/2020-31125",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-05-12",
+      "12/5/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-12/5/2020-31125",
+  "first_law": null,
+  "gazette": "30984",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-12",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ağrı İbrahim Çeçen Üniversitesi",
+  "issuer_slug": "agri-ibrahim-cecen-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/agri-ibrahim-cecen-universitesi/2019/34048",
+  "published": "2019-12-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34048&MevzuatTertip=5",
+  "source_bytes": 33168,
+  "source_id": "8.5.34048",
+  "source_sha256": "ba87789c848bb983214b05dd7c3acbe3d32466192dd57b65a4236443fbd3c21a",
+  "text_status": "current-consolidated",
+  "title": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ TEKNOLOJİ TRANSFER\r\nOFİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 323,
+  "word_count": 1141
+}
