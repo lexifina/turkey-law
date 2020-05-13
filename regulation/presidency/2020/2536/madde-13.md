@@ -1,0 +1,4 @@
+İhale dokümanının verilmesi
+MADDE 13- (1) İdare tarafından hazırlanan ihale konusu işe ait talimatları içeren idari şartnameler ile varsa teknik şartnameler, sözleşme tasarıları ve gerekli diğer belge ve bilgiler idarece davet edilen isteklilere bedelli veya bedelsiz olarak verilebilir.
+(2) İhale konusu mal veya hizmet alımları ile yapım işlerinin her türlü özelliğini belirten idari ve teknik şartnamelerin idare tarafından hazırlanması esastır. Ancak mal veya hizmet alımları ile yapım işlerinin özelliği nedeniyle idarece hazırlanmasının mümkün olmadığının ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartnameler hizmet alımı yapılması suretiyle hazırlatılabilir.
+(3) İhale dokümanında, idarenin bu işlerle ilgili olarak 4734 sayılı Kanundan istisna edildiği ve işi yaptırıp yaptırmamakta, alıp almamakta veya kısmen yaptırmakta serbest olduğu hususlarına da yer verilir.

@@ -1,0 +1,6 @@
+Teminat mektupları
+MADDE 21- (1) Bu Usul ve Esaslar kapsamında yapılacak ihalelerde bankalar tarafından verilecek teminat mektuplarının ve Türkiye’de yerleşik sigorta şirketleri tarafından kefalet sigortası kapsamında düzenlenen kefalet senetlerinin kapsamı ve şekli konusunda, 4734 sayılı Kanunun 35 inci maddesine göre Kamu İhale Kurumunun tespit ettiği hususlar geçerlidir.
+(2) Tekliflerin geçerlilik süresinden en az otuz gün fazla süreli olmak kaydıyla, geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması halinde geçici teminat mektuplarının süresi de aynı süre ile uzatılır.
+(3) Kesin teminat mektubu alınması durumunda bunun süresi, ihale konusu işin bitiş tarihi dikkate alınmak suretiyle ihale dokümanında belirlenir. İdarece, kesin teminat mektuplarının geçerlilik süresi ile ilgili hususlarda kesin kabulün yapılacağı tarihe kadar gerektiğinde garanti süresini de kapsayacak şekilde düzenlemeler yapılabilir.
+(4) Kesin teminat mektubu, yüklenicinin taahhüdünü şartname ve sözleşme hükümleri gereğince eksiksiz ve sorunsuz olarak yerine getirmesi ve kesin kabulünün yapılmasını müteakip 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 13 üncü maddesinde belirtilen şartlar çerçevesinde iade edilir.
+(5) İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul edilmez.
