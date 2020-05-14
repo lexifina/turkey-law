@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34516",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARAYOLU YOLCU TAŞIMACILIĞINDA KULLANILAN TERMİNALLERE İLİŞKİN TAVAN ÜCRET TARİFELERİ HAKKINDA TEBLİĞ",
+  "number": "34516",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "path": "teblig/2020/34516",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34516&MevzuatTertip=5",
+  "source_sha256": "de0459cb73f80355d707aa7529f4df83bcc38e6cf29a9f610a268c6af69816b1",
+  "source_bytes": 17792,
+  "published": "2020-05-14",
+  "gazette": "31127",
+  "in_force": "2020-05-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.05.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 621,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34516-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
