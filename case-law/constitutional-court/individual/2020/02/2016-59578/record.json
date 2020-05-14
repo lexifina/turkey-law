@@ -1,0 +1,20 @@
+{
+  "applicant": "A.A.",
+  "application_date": "2016-12-13",
+  "application_number": "2016/59578",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-02-12",
+  "id": "fd5fc542-ae56-0725-a3ac-56f40c1c3b76",
+  "in_force": "2020-05-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2020-05-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZkNWZjNTQyLWFlNTYtMDcyNS1hM2FjLTU2ZjQwYzFjM2I3Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "03686f406cb5ff0d354e3f662ccab651fe90da479eb6a2b5446aab6b0dcfcd89",
+  "version_label": "as-enacted"
+}
