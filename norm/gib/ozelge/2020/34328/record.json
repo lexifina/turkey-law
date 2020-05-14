@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.01.03.01[170]-135416",
+  "source_id": 34328,
+  "date": "2020-05-14",
+  "title": "Devir işlemine ilişkin yönetim kurulu kararının damga vergisine tabi olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34328",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a9aa0013b13bcf0cb575b29419f30c5b4271d1d609ced446592624a74521c62c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
