@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155[189]-135349",
+  "source_id": 34329,
+  "date": "2020-05-14",
+  "title": "Yüksek ve orta yüksek teknolojili sanayi sınıfında yer alan ürünlerin imalatına ilişkin olarak düzenlenen kağıtların damga vergisi.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34329",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "15152e9f725c356c982a434cc6ccc2352f6d304c3b4122367181faeee1561ab6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
