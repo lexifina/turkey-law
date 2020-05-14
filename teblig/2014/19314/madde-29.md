@@ -1,0 +1,2 @@
+İhraca ilişkin giderler
+MADDE 29 – (1) Kurul ücreti ve ihraca ilişkin giderlerin ihraççı tarafından ödenmesi esastır. Ancak teminat varlıklara ihraçla ilgili katlanılacak giderler kadar teminat fazlası eklenmesi durumunda; nakit yöneticisi, hizmet sağlayıcısı, teminat sorumlusu ve benzeri taraflara ilişkin giderlerin teminat varlıklardan ödenmesi mümkündür. Bu durumda söz konusu giderler için eklenen teminat fazlası bu Tebliğin dördüncü bölümü kapsamında yapılacak hesaplamalarda dikkate alınmaz.

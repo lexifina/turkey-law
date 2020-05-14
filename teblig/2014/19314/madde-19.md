@@ -1,0 +1,12 @@
+İTMK’ya ilişkin özel hükümler
+MADDE 19 – (1) İTMK ihraçları kapsamında;
+a) Teminat uyum ilkelerine ilişkin hesaplamalarda;
+1) 10 uncu maddede belirtilen nitelikleri kaybeden kredi ve alacaklar,
+2) (Değişik:RG-11/11/2018-30592) Konut finansmanından kaynaklanan kredi ve alacakların, kredi ve alacağın teminatının değerinin %80’ini aşan kısmı,
+3) İlgili sicilde ipotek tesis edilmek suretiyle teminat alınmış ticari kredi ve alacakların, kredi ve alacağın teminatının değerinin %50’sini aşan kısmı,
+dikkate alınmaz. (2) ve (3) numaralı alt bentlerde belirtilen sınırlamalar teminatın değerindeki değişikliklere göre en az yılda bir defa gözden geçirilir ve yapılan hesaplamalarda teminatın en son tespit edilen değeri dikkate alınır.
+b) İTMK ihracına konu edilen varlıkların net bugünkü değeri; kredi ve alacaklardan beklenen nakit akımları, tahmin edilen erken ödeme oranları ve varsa erken ödeme ücretleri dikkate alınarak hesaplanır.
+c) (a) bendinin (2) ve (3) numaralı alt bentlerine uyumun tespiti için dikkate alınacak teminat değerindeki değişikliklerin tespiti ile (b) bendi uyarınca erken ödeme oranlarının hesaplanması amacıyla ihraççı veya hizmet sağlayıcı tarafından kullanılan yöntemler hakkında teminat sorumlusuna ve Kurula bilgi verilir. Kurul teminatın değerindeki değişikliklerin tespitinde ve erken ödeme oranlarının tahmininde belirli bir yöntemin kullanılmasını şart koşabilir.
+ç) Taşınmaz fiyatlarındaki değişimin hesaplanmasına ilişkin olarak genel kabul görmüş bir endeksin bulunması halinde, (a) bendinin (2) ve (3) numaralı alt bentlerine uyumun tespiti için dikkate alınacak teminat değerindeki değişikliklerin tespitinde bu endeks dikkate alınır. Buna göre, taşınmaz fiyatlarında genel ya da belirli bir bölge itibariyle azalma tespit edilmesi halinde, (a) bendinin (2) ve (3) numaralı alt bentlerinde belirtilen sınırlamalar, ilgili taşınmazın değeri ortalama değişim oranı kadar azalmış kabul edilerek uygulanır. Bir taşınmazın değerinde piyasa ortalamasına göre önemli ölçüde azalma olduğuna dair emareler mevcutsa ihraççı tarafından bu taşınmaz için yeni bir değerleme yaptırılması zorunludur.
+(2) Teminat varlıklar arasında yer alan ilgili sicilde ipotek tesis edilmek suretiyle teminat altına alınmış deniz ve hava taşıtlarına ilişkin olanlar dışındaki ticari kredi ve alacakların net bugünkü değeri teminat varlıkların toplam net bugünkü değerinin %15’ini aşamaz.
+(3) İkame varlıkların net bugünkü değeri, teminat varlıkların toplam net bugünkü değerinin %15’ini aşamaz.

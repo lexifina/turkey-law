@@ -1,0 +1,3 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 33 – (1) 4/8/2007 tarihli ve 26603 sayılı Resmî Gazete’de yayımlanan İpotek Teminatlı Menkul Kıymetlere İlişkin Esaslar Hakkında Tebliğ (Seri: III, No: 33) ile 12/9/2009 tarihli ve 27347 sayılı Resmî Gazete’de yayımlanan Varlık Teminatlı Menkul Kıymetlere İlişkin Esaslar Tebliği (Seri: III, No: 38) yürürlükten kaldırılmıştır.
+(2) Kurulun diğer düzenlemelerinde İpotek Teminatlı Menkul Kıymetlere İlişkin Esaslar Hakkında Tebliğ (Seri: III, No: 33) ile Varlık Teminatlı Menkul Kıymetlere İlişkin Esaslar Tebliğine (Seri: III, No: 38) yapılan atıflar bu Tebliğe yapılmış sayılır.

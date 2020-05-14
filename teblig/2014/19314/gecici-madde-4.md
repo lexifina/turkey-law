@@ -1,0 +1,2 @@
+Teminat defterinin MKK’ya iletilmesi ve MKK aracılığıyla TMK sahiplerine yapılacak ilanlar
+GEÇİCİ MADDE 4 – (1) (Değişik birinci fıkra:RG-5/9/2014-29110) Bu Tebliğin 12 nci maddesinin beşinci fıkrası uyarınca teminat defterlerinin MKK’ya iletilmesi uygulaması ile 21 inci maddesinin ikinci fıkrası uyarınca halka arz edilmeksizin gerçekleştirilen TMK ihraçlarında TMK sahiplerine iletilmesi gereken rapor ve bildirimlerin MKK aracılığıyla elektronik ortamda iletilmesi uygulamasına MKK tarafından duyurulacak tarihte başlanır.

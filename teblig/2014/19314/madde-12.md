@@ -1,0 +1,6 @@
+Teminat defteri
+MADDE 12 – (1) (Değişik:RG-5/9/2014-29110) İhraççılar, teminat varlıkları ve teminat varlıklardan elde edilen nakdi kendi malvarlıklarından ayrı ve özel hesaplarda güvenli bir şekilde izlemek, yapılan her türlü kaydın günlük takibini sağlayacak şekilde ayrı muhasebe hesapları açmak veya teminat varlıkları ayırt edici bir altyapı oluşturmak suretiyle teminat defteri tutmakla yükümlüdürler.
+(2) (Değişik:RG-5/9/2014-29110) Teminat defterinin tutulmasına ilişkin iş akışları ihraççının yönetim kurulu veya yönetim kurulu tarafından yetkilendirilen birim veya kişiler tarafından onaylanır.
+(3) (Değişik:RG-5/9/2014-29110) Kurul, teminat defterinin ihraççının yanı sıra ayrı bir kuruluş nezdinde de tutulmasını zorunlu tutabilir.
+(4) Teminat varlıklar ile ilgili tüm işlem ve ihtilaflarda, teminat defterine yapılmış olan kayıtlar esas alınır.
+(5) (Değişik:RG-5/9/2014-29110) Teminat defterinin elektronik ortamda tutulduğu ihraçlarda, teminat defteri güncellendiği her gün itibarıyla MKK’ya elektronik ortamda iletilir. Teminat defterine ilişkin bilgilerin günlük bazda ve geriye dönük olarak manuel müdahale olmaksızın temin edilebileceği bir alt yapı kurulması ve bunun teminat sorumlusu tarafından 23 üncü maddenin birinci fıkrasının (b) bendi uyarınca hazırlanacak raporda teyit edilmesi durumunda, bu fıkrada yer alan MKK’ya bildirim zorunluluğu uygulanmaz.
