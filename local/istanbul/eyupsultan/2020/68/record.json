@@ -1,0 +1,22 @@
+{
+  "number": "68",
+  "number_as_published": "2020/68",
+  "year": 2020,
+  "title": "ESBAŞ Eyüpsultan Belediyesi Tanzim Satış Hizmetleri İnşaat Gıda Sanayi ve Pazarlama A.Ş.'nin Genel Kurul Toplantısında Belediyemizi temsil edecek kişinin belirlenmesi",
+  "decision_date": "2020-05-15",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-yili-1olaganustu-toplanti-kararlari/1735",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-68/1739",
+  "source_sha256": "cb1785499738526b34216faecc2afefb38cfe4b70251fa5733a563b0df53d550",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-05-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.05.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "bf7fac3e99b0fcbe78e25083aebab3d4cbbb50a0d595e6bd1ee0ec0ba550eb35"
+}
