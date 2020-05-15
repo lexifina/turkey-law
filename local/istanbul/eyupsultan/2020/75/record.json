@@ -1,0 +1,22 @@
+{
+  "number": "75",
+  "number_as_published": "2020/75",
+  "year": 2020,
+  "title": "council decision",
+  "decision_date": "2020-05-15",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-yili-1olaganustu-toplanti-kararlari/1735",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-75/1743",
+  "source_sha256": "cb1785499738526b34216faecc2afefb38cfe4b70251fa5733a563b0df53d550",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2020-05-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.05.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "2e787518ae53fe2f8cdd845e7a2b4ee49473e44c314cd1fe85622c70dc4824af"
+}
