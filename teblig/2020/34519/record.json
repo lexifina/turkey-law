@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34519",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜBRE ANALİZ VE REFERANS KURULUŞLARI İLE ANALİZ ÜCRETLERİ HAKKINDA TEBLİĞ (TEBLİĞ NO:2020/14)",
+  "number": "34519",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2020/34519",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34519&MevzuatTertip=5",
+  "source_sha256": "cf8b205a68e8493e274287ef1375dafa630f32a4789409b1f5eff161d20ace73",
+  "source_bytes": 18573,
+  "published": "2020-05-15",
+  "gazette": "31128",
+  "in_force": "2020-05-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.05.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 678,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "34519-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
