@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Sözleşmenin Gereği Gibi İfa Edilmemesi
+Sözleşmenin eksik ifası
+MADDE 12 – (1) Katılımcı, sözleşmenin ifası sürecinde ortaya çıkan her türlü eksikliği bağımsız hizmet sağlayıcısına ya da paket tur düzenleyicisi veya aracısına derhal bildirmek zorundadır. Bu eksiklik giderilmediği takdirde katılımcının sözleşme bedelinden indirim talep etme hakkı vardır.
+(2) Paket tur düzenleyicisi veya aracısının, paket tur başladıktan sonra önemli bir yükümlülüğünü yerine getirmediği veya getiremeyeceği tespit edildiğinde, paket tur düzenleyicisi veya aracısı paket turun devam etmesi için katılımcıya ilave maliyet getirmeyen eşdeğerde alternatif düzenlemeler sunar ve katılımcıya teklif edilen hizmetlerle sunulan hizmetler arasındaki farkı tazmin eder.
+(3) Katılımcı alternatif düzenlemeyi kabul etmeyerek sözleşmeden dönebilir. Sözleşmeden dönülmesi durumunda paket tur düzenleyicisi veya aracısının ücret talep etme hakkı sona erer ve yapılmış olan ödemeler sözleşmeden dönüldüğü tarihten itibaren katılımcıya en geç on dört gün içinde iade edilir. Ancak paket tur düzenleyicisi veya aracısı o ana kadar ifa etmiş olduğu edimler için katılımcıdan hizmetten faydalandığı oranda uygun bir karşılık talep edebilir.
+(4) Sözleşmeden dönülmesi durumunda, paket tur düzenleyicisi veya aracısı katılımcının paket tura başladığı yere veya üzerinde anlaşılan başka bir yere ücretsiz naklini sağlamak ve zorunlu konaklama olması halinde yapılan giderleri karşılamakla yükümlüdür.

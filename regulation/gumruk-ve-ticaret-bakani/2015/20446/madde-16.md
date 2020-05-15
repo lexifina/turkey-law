@@ -1,0 +1,6 @@
+Sözleşmenin feshi
+MADDE 16 – (1) Katılımcı, fesih talebini paket tur düzenleyicisi veya aracısına yazılı olarak veya kalıcı veri saklayıcısı ile bildirmek kaydıyla sözleşmeyi tek taraflı olarak feshedebilir.
+(2) Paket turun başlamasından en az otuz gün önce yapılan fesih bildirimlerinde, ödenmesi zorunlu vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar hariç olmak üzere, herhangi bir kesinti yapılmaksızın katılımcının ödemiş olduğu bedel kendisine iade edilir.
+(3) Paket turun başlamasına otuz günden daha az bir süre kala yapılan fesih bildirimlerinde, paket tur sözleşmesinde belirtilmek şartıyla belirli bir tutar veya oranda kesinti yapılabilir.
+(4) Katılımcının gerekli tüm özeni göstermesine rağmen öngöremediği ve engelleyemediği bir durum veya mücbir sebep nedeniyle paket turun başlamasına otuz günden daha az bir süre kala fesih bildiriminde bulunması halinde, ödenmesi zorunlu vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar ile üçüncü kişilere ödenip belgelendirilebilen ve iadesi mümkün olmayan bedeller hariç olmak üzere, herhangi bir kesinti yapılmaksızın katılımcının ödemiş olduğu bedel kendisine iade edilir.
+(5) Bu madde kapsamında yapılacak bedel iadelerinin, fesih bildiriminin paket tur düzenleyicisi veya aracısına ulaşmasından itibaren on dört gün içerisinde katılımcıya yapılması zorunludur.

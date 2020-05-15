@@ -1,0 +1,5 @@
+Covid-19 salgını nedeniyle sözleşmenin feshi
+GEÇİCİ MADDE 1 – (Ek:RG-15/5/2020-31128)
+(1) Bu Yönetmeliğin 16 ncı maddesi kapsamında yapılan bedel iadelerinin, fesih bildiriminin paket tur düzenleyicisi veya aracısına ulaşmasından itibaren on dört gün içerisinde yapılması esastır. Ancak, COVİD-19 salgını nedeniyle, 5/2/2020 tarihinden itibaren ifası öngörülen ve hava yolu ile ulaştırma içeren paket tur sözleşmelerine ilişkin bedel iadelerinde, paket tur düzenleyicisi veya aracısı tarafından hava taşıma işletmelerine ödenip belgelendirilen uçuş bedeli, uçuş yasağı kalktıktan sonraki altmışıncı günü izleyen on dört gün içerisinde katılımcıya iade edilir.
+(2) Katılımcının bilgilendirilmesi ve açık onayının alınması koşuluyla, ödenmesi zorunlu vergi, harç ve benzeri yasal yükümlülüklerden doğan masraflar hariç olmak üzere katılımcının ödemiş olduğu bedel, uçuş yasağı kalktıktan sonraki altmışıncı günü izleyen on dört gün içerisinde iade edilir.
+(3) Katılımcının birinci veya ikinci fıkrayı tercih ettiğine ilişkin yazılı olarak veya kalıcı veri saklayıcısı ile bilgilendirilmesi ve onayının alınmasında ispat yükü paket tur düzenleyicisi veya aracısına aittir.
