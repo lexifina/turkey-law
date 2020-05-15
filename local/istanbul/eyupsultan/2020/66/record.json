@@ -1,0 +1,22 @@
+{
+  "number": "66",
+  "number_as_published": "2020/66",
+  "year": 2020,
+  "title": "Alibeyköy Mahallesi, 2 Ada, 77 parsel Maliye Hazinesine devri",
+  "decision_date": "2020-05-15",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-yili-1olaganustu-toplanti-kararlari/1735",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-66/1737",
+  "source_sha256": "cb1785499738526b34216faecc2afefb38cfe4b70251fa5733a563b0df53d550",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-05-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.05.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "d327630b93a4866da14952c69a36f0f08c1d92d2c29b83d4181957d7966f71d2"
+}
