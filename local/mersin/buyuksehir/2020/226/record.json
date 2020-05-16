@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "226",
+  "decision_date": "2020-05-16",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/226-meckar--ticari-plakali-araclarin-ruhsatvize-borclari-ertelemedoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-mayis-2020-meclis-kararlari",
+  "listing_sha256": "85fd66e654508477ed24627c8d3897e778a477b3dfcde2d6c992847c16731d61",
+  "meeting_title": "16 MAYIS 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
