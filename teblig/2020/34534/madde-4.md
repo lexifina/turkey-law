@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Denetim: Bir helal uygunluk değerlendirme kuruluşunun faaliyetlerinin, sistemlerinin ve personelinin helal uygunluk değerlendirme alanında ulusal ve uluslararası kabul görmüş teknik kriterlere, standartlara ve ilgili mevzuata uygun olup olmadığının belirlenmesini,
+b) Düzeltici faaliyet: Mevcut uygunsuzluk, kusur veya diğer istenmeyen durumların yeniden meydana gelmesini önlemek amacıyla sebeplerin yok edilmesi için alınan önlemlerle ilgili faaliyeti,
+c) Gözetim: Akredite edilmiş helal uygunluk değerlendirme kuruluşunun helal akreditasyon şartlarını yerine getirmeye devam edip etmediğinin takibini içeren denetim faaliyetlerini,
+ç) HAK helal akreditasyon markası: Helal uygunluk değerlendirme kuruluşu tarafından helal akreditasyon durumunu belirtmek için kullanılan, şekli ve kullanım şartları Kurum tarafından belirlenen işareti,
+d) Helal akreditasyon sözleşmesi: Helal uygunluk değerlendirme kuruluşunun helal akreditasyon süreci boyunca ve akredite olduktan sonra uyacağını beyan ettiği şartların yer aldığı sözleşmeyi,
+e) Helal akreditasyonun askıya alınması: Mevcut helal akreditasyon kapsamının tamamının ya da bir kısmının geçici olarak durdurulmasını,
+f) Helal akreditasyonun geri çekilmesi: Helal akreditasyonun tümüyle iptal edilmesini,
+g) Helal akreditasyonun kapsamının daraltılması: Mevcut helal akreditasyon kapsamının bir kısmının geri çekilmesi sonucu doğan hali,
+ğ) Helal uygunluk belgesi: Helal ürün/hizmet/proses ve/veya yönetim sistemlerinin belgelendirilmesi amacıyla helal uygunluk değerlendirme kuruluşu tarafından yürütülen faaliyetler neticesinde düzenlenen dokümanı,
+h) Helal uygunluk değerlendirme kuruluşu (HUDK): Ulusal ve uluslararası kabul görmüş teknik kriterlere göre helal uygunluk değerlendirme faaliyeti gösteren kuruluşu,
+ı) İtiraz: Helal akreditasyon kararının yeniden değerlendirilmesi talebiyle HUDK’nın yapmış olduğu başvuruyu,
+i) Kurum: Helal Akreditasyon Kurumunu,
+j) Objektif delil: Doğrulanabilen kayıtları, gerçeği ortaya koyan beyanları veya diğer bilgileri,
+k) Şikâyet: Gerçek veya tüzel kişilerin, Kurumun akredite ettiği bir kuruluşun helal akreditasyon kapsamında yaptığı faaliyetler ile ilgili herhangi bir konuya ilişkin yaptıkları, cevabı beklenen, sözlü veya yazılı memnuniyetsizliği ifade eden, objektif delillere dayalı başvuruyu,
+l) Üçüncü taraf: HUDK’nın belgelendirdiği tarafı,
+m) Yönetim Kurulu: Helal Akreditasyon Kurumu Yönetim Kurulunu,
+n) Yönetmelik: Helal Uygunluk Değerlendirme Kuruluşlarının Akreditasyonu Hakkında Yönetmeliği,
+ifade eder.
