@@ -1,0 +1,12 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Türkiye’yi ve Türk kültürünü tanıtmak amacıyla ilgili mevzuat hükümlerine uygun olarak şubeler açmak, yabancılara, yurt dışında yaşayan veya Türkiye’ye dönen Türk vatandaşlarına ve diğer isteklilere Türkiye Türkçesini öğretmek.
+b) Türkiye’nin yaptığı ikili anlaşmalar çerçevesinde üniversitelerin ilgili birimleri ve diğer kamu kurum ve kuruluşları ile Türkçe (Mülga ibare:RG-17/5/2020-31130) (…) öğretimi konusunda çalışmalar yaparak ortak öğretim, araştırma, uygulama ve yayın faaliyetlerinde bulunmak.
+c) Türk dili (Mülga ibare:RG-17/5/2020-31130) (…) öğretim yöntemleri konusunda araştırma ve uygulamalar yaparak Türkçenin ana dili (Mülga ibare:RG-17/5/2020-31130) (…) olarak öğretimi konusunda programlar hazırlayıp öğretim yöntemleri geliştirmek, bu konu ile ilgili yurt içindeki ve yurt dışındaki kuruluşlarla ortak çalışmalar yapmak.
+ç) Türkçe öğretiminin daha verimli hale getirilmesi için dilbilim verileri çerçevesinde Türkçe ile diğer dillerin öğretimi arasında karşılaştırılmalı çalışmalar yapmak.
+d) Yabancılara yönelik Türkçe ile diğer dil kursları düzenlemek.
+e) İlgili kurum ve kuruluşlarla işbirliği yaparak, Türkçeyi öğreten ve Türkiye’yi ve Türk kültürünü tanıtan çoklu ortam çalışmaları hazırlatmak, kitaplar ve broşürler yayımlamak, yayımlatmak.
+f) Üniversitedeki Türk dili ve edebiyatı, Türkçe öğretmenliği ve diğer dil bölümleri ile benzer birimlerin öğrencilerine ve mezunlarına mesleki tecrübeye yönelik uygulama programları düzenlemek, staj yaptırmak, gerektiğinde bu çalışmalarla ilgili sertifikalar vermek.
+g) (Değişik ibare:RG-17/5/2020-31130) Türkçe ile ilgili araştırma ve uygulama ve öğretim yapmak, ilgili yerli ve yabancı kurumlar ile bu doğrultuda işbirliğine gitmek.
+ğ) Yurt içindeki ve yurt dışındaki Türkçe öğretim merkezleriyle organize çalışmalar yürütmek, Türkçeyi en iyi şekilde kullanmaya, Türkiye’yi ve Türk kültürünü tanıtmaya teşvik etmek amacıyla yurt içinde ve yurt dışında geziler düzenlemek. Diller hakkında veri toplamak, toplanan verileri betimlemeli ve kuramsal dilbilim kavramları çerçevesinde incelemek; bu amaçla ilgili dil veri bankası kurmak, yurt içindeki ve yurt dışındaki dil veri bankası bulunan kurumlarla iletişim içinde olmak; bu amaçlar doğrultusunda konferanslar, seminerler ve benzeri etkinlikler düzenlemek ve bunlara katılmak.
+h) Yabancılara Türkçe öğretimiyle ilgili sınavlar düzenlemek.
