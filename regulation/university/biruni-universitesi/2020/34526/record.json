@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/biruni-universitesi/2020/34526",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31130",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-17",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Biruni Üniversitesi",
+  "issuer_slug": "biruni-universitesi",
+  "kind": "regulation",
+  "published": "2020-05-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34526&MevzuatTertip=5",
+  "source_id": "8.5.34526",
+  "source_sha256": "89628f6dec66574ca5467a72d46cc020b95b53fa160793c6828106ac1431be0a",
+  "title": "BİRUNİ ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 451,
+  "version_label": "oldest version available",
+  "word_count": 6071
+}

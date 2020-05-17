@@ -1,0 +1,7 @@
+Doğrudan temin
+MADDE 19 – (1) Aşağıda belirtilen hallerde ihtiyaçların ilân yapılmaksızın ve teminat alınmaksızın doğrudan temini usulüne başvurulabilir:
+a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
+b) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşme bedelinin %20’sini geçmeyecek ve ona dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
+c) Özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan ilaç, aşı, serum, anti-serum, kan ve kan ürünleri ile ortez, protez gibi uygulama esnasında hastaya göre belirlenebilen ve hastaya özgü tıbbî sarf malzemeleri, test ve tetkik sarf malzemeleri alımları.
+ç) Üniversitenin tahmini bedeli bir önceki hesap dönemi toplam giderlerinin TÜFE oranına göre güncellenecek 269.087 TL (ikiyüzaltmışdokuzbinseksenyedi Türk Lirası)’ye karşılık gelen tutardaki bedeli aşmayacak olan mal ve hizmet alımları, tarifeli alımlar ile seyahat alımları.
+(2) Bu maddeye göre yapılacak alımlarda, 7 nci maddede belirtilen komisyonları kurma ve 5 inci maddede belirtilen yeterlik koşullarını arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak bir tutanağa bağlanmak suretiyle ihtiyaçlar temin edilir.
