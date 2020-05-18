@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-05-18",
+  "issue": "31131",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "KTO-Karatay Üniversitesi İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200518-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200518.htm",
+  "index_sha256": "8205bbfbc315746834222ac203181260e3d1ce093f995fd496af2ab112ef0268",
+  "index_header": "18 Mayıs 2020 ... 31131 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/05/20200518.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
