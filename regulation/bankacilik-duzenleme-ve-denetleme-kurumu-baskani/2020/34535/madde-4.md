@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Alt menü: Sesli yanıt sisteminde ana menüden sonra gelen menüleri,
+b) Ana menü: Çağrı merkezinde kullanıcıyı karşılayan sesli yanıt sisteminde temel seçeneklerin yer aldığı ilk menüyü,
+c) Banka: 5411 sayılı Kanunun 3 üncü maddesinde tanımlanan bankaları,
+ç) Çağrı merkezi: Bankanın sunmuş olduğu ürün ve hizmetlere ilişkin olarak işlem yapılması ile bilgilendirme, pazarlama, yönlendirme, tahsilat konularında telefonla kullanıcılara yardımcı olan bankanın iç kaynakları ve/veya 5/11/2011 tarihli ve 28106 sayılı Resmî Gazete’de yayımlanan Bankaların Destek Hizmeti Almalarına İlişkin Yönetmelik kapsamında dışarıdan hizmet alımı ile sağladığı iletişim temas noktasını,
+d) Çağrı merkezi temsilcisi: Gelen çağrıyı ve giden çağrıyı yöneterek kullanıcı ile iletişimi sağlayan gerçek kişiyi,
+e) Çağrı merkezi temsilcisine gelen çağrı: Gelen aramalar içerisinde çağrı merkezi temsilcisi ile görüşmek isteyen kullanıcıların yaptığı aramalardan ilgili çağrı merkezi temsilcisi kuyruklarına aktarılanları,
+f) Elektronik Bankacılık Hizmetleri Yönetmeliği: 15/3/2020 tarihli ve 31069 sayılı Resmî Gazete’de yayımlanan Bankaların Bilgi Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmeliği,
+g) Eşik süre içinde kaçan çağrı: Çağrı merkezi temsilcisine gelen çağrılardan otuz saniye içinde, kayıp/çalıntı/şüpheli işlemler için de yirmi saniye içinde çağrı merkezi temsilcisi ile herhangi bir görüşme gerçekleştirilmeden kullanıcı tarafından sonlandırılan veya teknik aksaklık sebebiyle sonlanan aramayı,
+ğ) Eşik süre içinde karşılanan çağrı: Çağrı merkezi temsilcisine gelen çağrılardan, çağrı merkezi temsilcisi tarafından otuz saniye, kayıp/çalıntı/şüpheli işlemler için de yirmi saniye içinde cevap verilen aramayı,
+h) Gelen çağrı: Çağrı merkezi santraline giriş yapan aramayı,
+ı) Giden çağrı: Çağrı merkezi temsilcisi tarafından yapılan aramayı,
+i) Hat kapasitesi: Çağrı merkezi tarafından kullanılabilecek telefon hat sayısını,
+j) Kaçan çağrı: Sesli yanıt sisteminde çağrı merkezi temsilcisine bağlanmak için tuşlamanın veya komutun yapıldığı, ancak herhangi bir görüşme gerçekleşmeden kullanıcı tarafından sonlandırılan veya teknik aksaklık sebebiyle sonlanan aramayı,
+k) Karşılanan çağrı: Çağrı merkezi temsilcisi tarafından cevaplanan aramayı,
+l) Kullanıcı: Banka müşterisi olsun olmasın çağrı merkezini arayan gerçek kişiyi,
+m) Kurul: Bankacılık Düzenleme ve Denetleme Kurulunu,
+n) Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+o) Ses ile yönlendirme sistemi: Sesli yanıt sisteminde kullanıcıyı karşılayan, kullanıcının söylemi ve/veya komutuna uygun olarak ilgili hizmet adımına doğrudan ulaşmasını sağlayan sistemi,
+ö) Sesli yanıt sistemi: Çağrı merkezine bağlanan kullanıcının, ana menü ve alt menülerde işlem yapmak istediği konulara ilişkin olarak hizmet verme, bilgilendirme, pazarlama, yönlendirme, talep ile şikayet alma işlemleri ve ilgili çağrı merkezi temsilcisine aktarılması amacı ile oluşturulan otomatik cevap sistemini,
+ifade eder.

@@ -1,0 +1,4 @@
+Çağrı merkezi temsilcisi hizmet kalitesi
+MADDE 10 – (1) Her bir çağrı merkezi temsilcisinin verdiği hizmetin kalitesi bu Yönetmelik ile belirlenen kriterler dikkate alınarak bireysel bazda aylık olarak ayrıca ölçülür.
+(2) Çağrı merkezi temsilcisinin kullanıcı ile görüşme süresi sınırlandırılamaz.
+(3) Küfür, hakaret, çağrı merkezi temsilcisinin şahsına yönelik tehdit içeren üslupta konuşan kullanıcı ile yapılan görüşme çağrı merkezi temsilcisi tarafından sonlandırılabilir. Bu sebeplerle sonlandırılan görüşmelerin gerekçelerinin yerindeliği örneklem yoluyla ilgili iş birimi tarafından aylık periyotlarla incelenir ve iç kontrol birimi tarafından kontrolü sağlanır. Örnekleme dahil edilecek görüşme sayısı, hesaplamaya konu ay içerisinde bu fıkrada yer alan gerekçeler ile sonlandırılan görüşme sayısının beşte birinden az olamaz. Bu tip çağrılar çağrı merkezi hizmet kalitesi ve çağrı merkezi temsilcisi hizmet kalitesi ölçümünde dikkate alınmaz.
