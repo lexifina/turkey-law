@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-05-20",
+      "20.05.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31132",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Toros Üniversitesi",
+  "issuer_slug": "toros-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/toros-universitesi/2020/34537",
+  "published": "2020-05-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34537&MevzuatTertip=5",
+  "source_bytes": 153114,
+  "source_id": "8.5.34537",
+  "source_sha256": "b8c9ff1a0416e6877b94ff4bd03be904ab21d819fb65e83db5514206c9553a7d",
+  "text_status": "as-enacted",
+  "title": "TOROS ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 334,
+  "word_count": 6039
+}
