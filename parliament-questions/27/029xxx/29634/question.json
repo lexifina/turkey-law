@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/29634",
+  "submitted": "2020-05-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "İstanbul",
+  "summary": "Cezaevlerinde koronavirüse karşı alınan önlemlere ve koronavirüs tespit edilen cezaevlerine ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-4db6-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8ddc8169fc0d06a1a1529f0276698e5c32a1330205098a68bffb4dc7e03988da",
+  "in_force": "2020-05-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
