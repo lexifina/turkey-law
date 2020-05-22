@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34543",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/9)",
+  "number": "34543",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34543",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34543&MevzuatTertip=5",
+  "source_sha256": "877a6770763564f1dfd2a5d5cc8a9cdd0a0a08f191bd93bdaf27fb02190cef91",
+  "source_bytes": 19686,
+  "published": "2020-05-22",
+  "gazette": "31134",
+  "in_force": "2020-05-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.05.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 501,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34543-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
