@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/414",
+  "source_id": 6915,
+  "date": "2020-05-22",
+  "title": "“Hakkında hüküm verildiği suçtan dolayı cezası infaz edilen ilgili kişiye ait haberin yayımlandığı gazetenin internet sitesinden kaldırılması talebi” hakkında Kişisel Verileri Koruma Kurulunun 22/05/2020 tarihli ve 2020/414 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6915/2020-414",
+  "source_sha256": "bcf6d1473265e17405c52d2161d36f63f6822f37db5ced3d22d140fbc387b5f7",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
