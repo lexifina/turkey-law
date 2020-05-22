@@ -1,0 +1,16 @@
+Kurul Başkanının görev, yetki ve sorumlulukları
+MADDE 9 – (1) Kurul Başkanı; Müfettiş sıfat ve yetkisine sahip olup, MSB ANT Başkanının talimatı üzerine, doğrudan doğruya onun adına aşağıda belirtilen görevleri yapmakla görevli ve yetkilidir:
+a) Müfettişlerin teftiş görevleri ile ilgili görevlendirilmeleri konusunda MSB ANT Başkanına teklifte bulunmak ve onayı müteakip uygulamak, Teftiş Kurulunu yönetmek, çalışma usul ve esaslarını düzenlemek, denetlemek ve teftiş sonuçları üzerinde gereken işlemleri yapmak,
+b) MSB ANT Başkanının gerekli gördüğü hâllerde bizzat teftiş ve inceleme yapmak,
+c) Kendisine intikal eden ve zimmet, ihtilas, vazifeyi suiistimal ve yolsuzluk gibi Türk Ceza Kanunu ve Rüşvet ve Yolsuzluklarla Mücadele Kanunu kapsamına giren ihbarlarla ilgili olarak, Başkanın onayını müteakip gecikilmesinde sakınca bulunan hallerde kaybolma ihtimali olan belge ve bilgileri tespit ettirmek, yeterli delil veya emare elde edildiği taktirde soruşturma raporunun aslının MSB ANT Başkanının bilgisi dahilinde Müfettişler tarafından doğrudan ve vakit geçirilmeden yetkili Cumhuriyet Başsavcılığına tevdiini sağlamak,
+ç) Müfettişlerin özlük işlemlerini yürütmek, atama ve yükselmeleri ile ilgili olarak MSB ANT Başkanlığına teklifte bulunmak, Müfettişlere ait "Performans Değerleme Formları"nı düzenlemek, gerekli gördüğü zamanlarda Müfettişlerin çalışmalarını yerinde denetlemek,
+d) Kurul Başkanlığı uygulamaları ile ilgili olarak genelge yayımlamak,
+e) Teftiş programlarını ve Teftiş Kurulunun çalışmalarına ait yıllık faaliyet raporlarını düzenleyerek, MSB ANT Başkanına sunmak, teftiş programlarının gerçekleşmesini sağlamak,
+f) Müfettişlerden gelen rapor ve yazıları incelemek, hatalı ve noksan hususlar varsa bunların düzeltilmesini ve tamamlattırılmasını ilgili Müfettişten istemek, gerektiğinde kendi görüşü ile birlikte, MSB ANT Başkanına sunmak veya konunun yeniden incelenmesini sağlamak ve bunlara ilişkin MSB ANT Başkanının karar ve talimatlarını ilgili Müfettişe havale etmek,
+g) MSB ANT Başkanının onayından geçen rapor ve yazıları ilgili birimlere intikal ettirmek ve bunların uygulamaya konulmasını takip ve temin etmek,
+ğ) Müfettiş Yardımcılarının işe alınması ve 3 yıllık staj döneminde yetişmelerini sağlayıcı tedbirleri almak,
+h) Müfettişlerin meslekî ve ilmî çalışmalarını teşvik etmek ve düzenlemek, mevzuatın Müfettişler arasında değişik yorumlandığı hâllerde, görüş ve uygulama birliğinin sağlanması maksadıyla gerekli tedbirleri almak,
+ı) Görev süresi ve konuları Kurul Başkanı tarafından belirlenmek üzere, işlerin yürütülmesi için kendisine yardımcı olmak üzere bir veya iki Müfettişi refakat Müfettişi olarak görevlendirmek,
+i) Teftiş Kurulu bürosunun çalışmalarını düzenlemek, personelin görevlerini belirlemek ve denetlemek, özlük işlemlerini yürütmek, "Performans Değerleme Formları"nı düzenlemek, atama ve yükselmeleri ile ilgili olarak MSB ANT Başkanına teklifte bulunmak,
+j) Bu Yönetmelikte belirtilen veya MSB ANT Başkanı tarafından verilecek Teftiş Kurulunun görevi ile ilgili diğer işleri yapmaktır.
+(2) Kurul Başkanı, Teftiş Kurulunun yönetiminden, Müfettiş ve Müfettiş Yardımcılarının bu Yönetmelikte belirtilen esaslara göre çalıştırılmalarından, MSB ANT Başkanına karşı sorumludur.

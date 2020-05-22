@@ -1,0 +1,3 @@
+Teftiş Kurulundan nakil veya istifa suretiyle ayrılan müfettişlerin tekrar kabulleri
+MADDE 41 – (1) (Değişik:RG-3/8/2016-29790) Teftiş Kurulundan istifa suretiyle veya naklen ayrılan müfettişler, ihtiyaç bulunduğu ve müfettişlik görevi dışında geçen süre içinde müfettişlik mesleğinin şeref ve onurunu zedeleyici bir harekette bulunmadığı ve ayrıca Teftiş Kuruluna yararlı olabileceği anlaşıldığı takdirde, (Değişik ibare:RG-22/5/2020-31134) atamaya yetkili amir tarafından yeniden Müfettişliğe alınabilirler.
+(2) Müfettişlik sıfatını kazandıktan sonra, bu görevden ayrılanlardan müfettişliğe dönenlerin kıdem sırası, bu Yönetmeliğin 40 ıncı maddesi hükümlerine göre tespit edilir.

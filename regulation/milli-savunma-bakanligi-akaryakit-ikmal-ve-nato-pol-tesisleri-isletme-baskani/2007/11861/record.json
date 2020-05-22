@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.11861",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "11861",
+  "issuer": "Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanı",
+  "issuer_slug": "milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani",
+  "path": "regulation/milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani/2007/11861",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11861&MevzuatTertip=5",
+  "source_sha256": "64929e8b1cd89967502fd8e2dfb4a3d5228506d9910e38dcf4e95a0a356d8a93",
+  "source_bytes": 145289,
+  "published": "2007-12-31",
+  "gazette": "26743 (2. Mükerrer)",
+  "in_force": "2020-05-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-22",
+      "RG-22/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-22",
+      "22/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-08-03",
+      "RG-3/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-03",
+      "3/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-06-08",
+      "RG-8/6/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-06-08",
+      "8/6/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7060,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

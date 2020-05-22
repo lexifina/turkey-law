@@ -1,0 +1,9 @@
+İnceleme raporları
+MADDE 53 – (1) Bu Yönetmeliğin 48 inci maddesinde belirtilen hususlar ile soruşturma konusu olan işlemlerden dolayı disiplin cezası tayinine gerek görülmeyenler hakkında, inceleme raporu düzenlenir.
+(2) İnceleme raporları; iki nüsha olarak hazırlanır, birinci nüshası Teftiş Kurulu Başkanlığına verilir, ikinci nüshası ilgili Müfettiş tarafından muhafaza edilir.
+(3) İnceleme raporları, "Başlangıç", "İncelemeler", "Sonuç ve Öneriler" bölümünden oluşturulur.
+(4) Başlangıç bölümünde, inceleme konusu olan husus, detaylı olarak açıklandıktan sonra belgelerin ve varsa ifadelerin değerlendirilmesi yapılır, hatalı durum ve uygulamalar açık bir şekilde ortaya konur.
+(5) İncelemeler bölümünde, inceleme konusu olan husus, detaylı olarak açıklandıktan sonra belgelerin ve varsa ifadelerin değerlendirilmesi yapılır, hatalı durum ve uygulamalar açık bir şekilde ortaya konur.
+(6) Sonuç ve öneriler bölümünde, inceleme konusu olay ve husus kısaca özetlenerek, alınması gereken tedbirler ve teklifler teker teker belirtilir.
+(7) (Değişik:RG-3/8/2016-29790) Müfettişler, işlem ve işlerini teftiş ettikleri personel hakkında edindikleri bilgi ve kanaatlere göre MSB ANT Başkanı tarafından kabul edilen esaslar çerçevesinde birer inceleme raporu düzenleyerek, mühürlü zarf içerisinde ve bir yazı ekinde Teftiş Kurulu Başkanlığına gönderirler. Bu yazıda haklarında inceleme raporu düzenlenen görevlilerin adları, soyadları, unvanları ve sicil numaraları belirtilir. Raporun bir nüshası ilgili birimlere havale edilmesi için Teftiş Kurulu Başkanı tarafından MSB ANT Başkanına sunulur.
+(8) (Değişik:RG-3/8/2016-29790) Görevden uzaklaştırılmış veya MSB ANT Başkanlığından ayrılmış bulunan ve bu sebeple Müfettişin tanıma ve temas imkânı bulamadığı veya hakkında tam bir kanaat edinemediği görevliler için, inceleme raporu düzenlenmez. Bu durum gerekçesi belirtilmek suretiyle Teftiş Kurulu Başkanlığına bildirilir.

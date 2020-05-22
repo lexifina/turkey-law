@@ -1,0 +1,2 @@
+İşlerin bizzat yapılması
+MADDE 70 – (1) Müfettişler görevlerini, başkalarının yardımı olmaksızın kendileri yaparlar. Ayrıca, teknik mahiyette olan inceleme ve soruşturma işlerinde bilgisinden yararlanmak ve bu konuda MSB ANT Başkanlığa sunulacak raporu müstakilen imzalamak şartıyla, bir veya birden fazla teknik elemanın görevlendirilmesini Kurul Başkanından isteyebilirler. Ancak, duyulması sakıncalı olan raporları başkalarına yazdıramazlar.
