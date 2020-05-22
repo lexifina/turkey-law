@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Terfide Özel Hükümler
+Belirli oranlarda sicili bulunmayan astsubayların rütbe terfii
+Madde 38- Belirli oranlarda sicil mecburiyetini; hava değişimi, atanma, kurs ve sair zorunlu nedenlerle tamamlayamayan astsubaylar, bu şartı tamamladıkları tarihi izleyen 30 Ağustos tarihinde terfi edeceklerle birlikte terfi işlemine tâbi tutulurlar. Bunlardan, terfi edenlerin nasıpları, emsallerinin nasıp tarihine götürülür.
+(Ek fıkra:RG-02/05/2002-24743) Terfi sırasında olanlardan 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 85 inci maddesinde yer alan belirli oranda sicil mecburiyetini, sicil belgelerinin düzenlenmesinden sonra, 30 Ağustos tarihine kadar tamamlayan ve haklarında üç aylık süreyi doldurduğu tarih itibariyle sicil belgesi düzenlenenlerin terfi işlemleri, terfi etmiş olan emsallerinin şartlarını haiz olmak kaydıyla Türk Silâhlı Kuvvetleri Personel Kanununun 81 inci maddesine bağlı kalınmaksızın derhal yapılır. Terfi edenlerin nasıpları emsallerinin nasıp tarihine götürülür.

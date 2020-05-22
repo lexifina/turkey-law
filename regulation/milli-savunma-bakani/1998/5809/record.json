@@ -1,0 +1,96 @@
+{
+  "source_id": "7.5.5809",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASTSUBAY SİCİL YÖNETMELİĞİ",
+  "number": "5809",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/1998/5809",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5809&MevzuatTertip=5",
+  "source_sha256": "a870696efdd0e2904a95ba9ce2a02d249d73a3ed0bc75e03aca0bd051082c9d9",
+  "source_bytes": 321972,
+  "published": "1998-12-28",
+  "gazette": "23567",
+  "in_force": "2020-05-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-22",
+      "RG-22/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-23",
+      "RG-23/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-24",
+      "RG-24/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-10-17",
+      "RG-17/10/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-21",
+      "RG-21/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-12",
+      "RG-12/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-08-06",
+      "RG-6/8/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-10-10",
+      "RG-10/10/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-02-11",
+      "RG-11/2/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-15",
+      "RG-15/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-11-12",
+      "R.G.-12/11/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-05-25",
+      "RG-25/05/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 31 Ağustos 1998 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14362,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5809-ek%201.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

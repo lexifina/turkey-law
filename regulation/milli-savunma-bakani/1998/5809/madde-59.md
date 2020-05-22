@@ -1,0 +1,3 @@
+Kendisinden istifade edilemeyen astsubaylar
+MADDE 59 – (Değişik:RG-21/8/2014-29095)(1)
+Başçavuş rütbesinde bulunan astsubayların, rütbe bekleme sürelerinin üçüncü yılında almış oldukları sicillerin not ortalamaları Kuvvet (Mülga ibare:RG-23/2/2017-29988) (...) Komutanlığı Personel Başkanlıklarınca saptanır. Bu şekilde, saptanan sicil notu ortalaması, sicil notunun %60’ından aşağı olanlar ile rütbesinin son kademesine geldiği hâlde rütbe terfii yapamayan astsubay çavuş ve kıdemli çavuşlar “Kendisinden İstifade Edilemez” kabul edilerek, haklarında Kanunun 94 üncü maddesinin birinci fıkrasının (a) bendinin (3) numaralı alt bendi hükmü gereğince emeklilik işlemi yapılır.

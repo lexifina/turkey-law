@@ -1,0 +1,3 @@
+Sicil belgelerinin gönderilmesi
+Madde 24- (Değişik:RG-21/8/2014-29095)(1)
+Matbu sicil belgeleri sicil üstlerince kapalı, mühürlü, “ÖZEL” gizlilik dereceli ve içinde sicil belgesi bulunduğunu belirtir bir kayıt taşıyan zarfa konulduktan sonra, ikinci bir zarfa konularak ilgili sicil üstüne gönderilir. Elektronik ortamda sicil verilmesi durumunda, sicil belgesi sureti gönderilmez. Bu zarfın içersine, sicil belgesi ile ve sicille ilgili belgelerden başka bir şey konulmaz. Matbu olarak doldurulan belgeler, optik okuyucularla değerlendirileceğinden katlanmadan ve hasar verilmeden, gerekli şekilde ambalajlanarak ilgili sicil üstüne gönderilir. Elektronik sicil belgesine eklenmesi gereken belgeler, taranarak elektronik sicil belgesine ek yapılabilir.

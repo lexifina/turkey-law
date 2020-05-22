@@ -1,0 +1,6 @@
+Astsubayların terfi işlemleri
+Madde 37- Astsubayların terfi işlemleri aşağıdaki esaslara göre yapılır.
+Terfi sırasındaki astsubaylar, sınıfları itibarıyla sicil notu ortalaması en yüksek olandan başlanmak üzere yeterlik derecelerine göre sıralanırlar. Sicil notu ortalaması, sicil tam notunun % 60’ı ve daha yukarısı olanlar, Kanunun 85 nci maddesinde belirtilen terfi şartlarını haiz olmaları hâlinde, en yüksek yeterlik derecesinden başlanmak üzere bir üst rütbeye yükseltilirler.
+(Ek üçüncü fıkra:RG-02/05/2002-24743) Diğer terfi şartlarını haiz olduğu halde, üst rütbede kadro açığı bulunmadığı için terfi edemeyenler derece ilerlemesi yaparlar. Derece ilerlemesi onay işlemleri Kuvvet (Mülga ibare:RG-23/2/2017-29988) (...) Komutanlığı personel başkanlıklarınca yapılır.
+(Ek dördüncü fıkra:RG-02/05/2002-24743) Kanunun 83, 100 ve 106 ncı maddelerine göre 30 Ağustos tarihinden sonra terfi etme durumunda olanların, terfi eden emsallerinin şartlarını haiz olmak kaydıyla, kadro açığı şartı aranmadan bir üst rütbeye terfi işlemleri, derhâl yapılır. Terfi edenlerin nasıpları, emsallerinin nasıp tarihine götürülür.
+(Değişik beşinci fıkra:RG-07/03/2006-26101) Kuvvet (Mülga ibare:RG-23/2/2017-29988) (...) Komutanlığı Personel Başkanlıklarınca, astsubayların terfi işlemlerine 1 Temmuz tarihinde başlanır.

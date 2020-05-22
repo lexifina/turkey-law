@@ -1,0 +1,3 @@
+Rütbe terfii veya rütbe kademeliliği yapamayan astsubayların kademe ilerlemesi
+MADDE 50 – (Değişik:RG-07/03/2006-26101)
+Rütbe terfii veya rütbe kademeliliği yapma durumunda olup, terfi edemeyen ya da rütbe kademeliliği yapamayan astsubay çavuş, astsubay kıdemli çavuş, astsubay üstçavuş, astsubay kıdemli üstçavuş, astsubay başçavuş ve astsubay kıdemli başçavuşlardan, o yıl almış bulundukları sicil notları, sicil tam notunun % 60’ı ve daha fazlası olanlar, diğer kademe ilerlemesi şartlarını da taşıyorlar ise, kademe ilerlemesi yaparlar. Kademe ilerlemesi işlemleri, Kuvvet (Mülga ibare:RG-23/2/2017-29988) (...) Komutanlığı Personel Başkanlıklarınca yapılır.

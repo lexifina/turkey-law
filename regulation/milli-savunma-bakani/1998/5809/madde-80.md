@@ -1,0 +1,3 @@
+Yüksek öğrenim yapmış olan astsubayların intibakı
+MADDE 80 – (Değişik:RG-25/05/2007-26532)
+Yüksek öğrenim yapmış olan astsubaylar ile fakülte, yüksek okul veya meslek yüksek okullarını bitirdikten sonra temel askerlik eğitimini başarıyla tamamlayarak astsubay nasbedilenlerin, yüksek öğrenim intibakları ile bunlardan rütbe terfii veya rütbe kademeliliği sırasında bulunmadıkları hâlde yapılan intibaklarla, Kanunun EK-VIII ve EK-VIII/A Sayılı Cetveldeki maaş derecelerinin üçüncü kademesine gelen astsubayların bir üst maaş derecesinin birinci kademesine yükseltilme onay işlemleri, kuvvet komutanlıkları (Mülga ibare:RG-23/2/2017-29988) (...) Personel Başkanlıklarınca yapılır.

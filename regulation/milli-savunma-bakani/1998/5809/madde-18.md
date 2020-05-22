@@ -1,0 +1,3 @@
+Sicil üstlerine müdahâle edilemeyeceği
+Madde 18- (Değişik:RG-21/8/2014-29095)(1)
+Sicil belgelerindeki niteliklerin değerlendirilmesinde herhangi bir makam ve amir, sicil üstlerine müdahale edemez, telkinde bulunamaz. Sicil üstünün yazdığı gerekçeler, birinci ve ikinci sicil üstleri için bir üst sicil üstü veya yetkili birimler, üçüncü sicil üstleri için yetkili birimler tarafından bu Yönetmeliğe uygun olarak hazırlanacak sicil düzenleme kılavuzuna göre kontrol edilir, gerektiğinde düzeltilmesinin sağlanması ve disiplin cezaları, diğer idari yaptırımlar ile her türlü adli ve idari işlemler, nitelik ve niceliklerine uygun olarak; personel hakkında yapılacak değerlendirmede göz önünde bulundurulması telkinden sayılmaz.

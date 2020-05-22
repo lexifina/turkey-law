@@ -1,0 +1,2 @@
+Sonraki yıllarda terfi edenlerin rütbe nasıpları ve bekleme süreleri
+Madde 40- Rütbe bekleme süresi sonunda terfi edemeyip de Kanunun 92 nci maddesinde belirtildiği üzere sonraki yıllarda rütbe terfii eden astsubay çavuş, astsubay kıdemli çavuş, astsubay üstçavuş, astsubay kıdemli üstçavuş ve astsubay başçavuşların, yeni rütbelerindeki bekleme süresinin başlangıcı, rütbeye nasıp tarihidir. Bunlar, yeni rütbelerinin bekleme süresine tabidirler.

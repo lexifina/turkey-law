@@ -1,0 +1,3 @@
+Sicil değerlendirme ve denetleme kurullarının çalışma esasları
+MADDE 32 – (Değişik:RG-07/03/2006-26101)
+Sicil değerlendirme ve denetleme kurulları, Kuvvet (Mülga ibare:RG-23/2/2017-29988) (...) Komutanlığınca hazırlanarak, Genelkurmay Başkanlığının uygun görüşü alındıktan sonra yürürlüğe konulacak yönergelerdeki esaslara göre çalışır. Kurul öncelikle; Kuvvet Komutanlıkları (Mülga ibare:RG-23/2/2017-29988) (...) Personel Başkanlıklarınca yönergelerde belirtilecek esaslar doğrultusunda, problemli olarak nitelendirilecek sicil belgelerini, bilahare geri besleme maksadıyla da diğer sicilleri inceler. Kurul, mevcut durumu değerlendirip herhangi bir not takdirinde bulunmayacağından, çalışmalarını kuruluş bağlantısına göre yürütür.
