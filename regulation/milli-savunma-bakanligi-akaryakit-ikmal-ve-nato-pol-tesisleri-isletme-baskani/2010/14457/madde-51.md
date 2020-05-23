@@ -1,0 +1,7 @@
+Kullanılacak defterler
+MADDE 51 – (1) Bu Yönetmeliğin uygulanmasında aşağıdaki defterler kullanılır:
+a) Kasa defteri; merkez ve taşra teşkilatında kasa ile ilgili işlemlerin günü gününe kaydedildiği defterdir. Kasa işlemlerine ait defter, muhasebe yetkilisi ve muhasebe yetkilisi mutemedi tarafından durumun tespitine ilişkin açıklamaları ihtiva edecek şekilde düzenlenir.
+b) Yevmiye defteri; kayda geçirilmesi gereken işlemlerin yevmiye tarihi ve müteselsil numara sırasıyla ve maddeler hâlinde düzenli olarak yazıldığı defterdir. Yevmiye defterine açılış kaydı yapıldıktan sonra, günlük işlemler muhasebeleştirme belgelerine dayanılarak kaydedilir.
+c) Büyük defter (defter-i kebir); yevmiye defterinde kayda geçirilmiş olan işlemleri usulüne göre hesaplara dağıtan ve tasnifli olarak bu hesaplarda toplayan defterdir. İşlemler yevmiye tarih ve numara sırasına göre yevmiye defterine kaydedildikten sonra, aynı yevmiye tarih ve numarası ile her bir hesap için açılan büyük defterin ilgili sayfalarına tasnifli olarak kaydedilir.
+ç) Envanter defteri; işe başlama tarihinde ve izleyen her hesap dönemi sonunda çıkarılan envanter ve bilançoların kaydedildiği defterdir.
+d) Ek-7’de yer alan ANT Başkanlığı teminat mektubu defteri: Muhasebe birimlerine teminat ve depozito olarak teslim edilen teminat ve garanti mektupları ile şahsi ve garantiye ilişkin belgeler ve bunlardan ilgililerine geri verilenlerin kaydedildiği defterdir.

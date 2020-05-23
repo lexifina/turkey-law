@@ -1,0 +1,4 @@
+105 Döviz hesabı
+MADDE 60 – (1) Döviz hesabı, ANT Başkanlığı veznelerince tahsil edilen veya her ne şekilde olursa olsun muhasebe birimlerinin banka hesaplarına intikal eden döviz tutarları ile bunlardan yapılan ödeme, iade ve göndermelerin izlenmesi için kullanılır.
+(2) Muhasebe birimlerince hizmet bedeli karşılığı kesilen faturalardaki TL tutarı; dövizdeki tutar ile Türkiye Cumhuriyet Merkez Bankası o günkü döviz satış kuru ile çarpılarak belirlenmektedir. Gelir kaydedilmek üzere döviz cinsinden banka hesabına intikal eden tutarlar, bankadan tahsil edildiği günkü Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden bu hesaba borç, ilgili gelir hesabına alacak kaydedilir. Dövizin intikal tarihindeki olumlu kur farkı gelir, olumsuz kur farkı ise gider olarak kaydedilir.
+(3) Muhasebe birimlerince sözleşmeye dayalı olarak mal ve hizmet alımı bedellerine ait döviz cinsinden yapılacak ödemelerde; sözleşmede belirtilen kur uygulanır.

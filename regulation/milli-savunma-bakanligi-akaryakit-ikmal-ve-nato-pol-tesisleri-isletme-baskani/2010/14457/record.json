@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.14457",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI BÜTÇE VE MUHASEBE YÖNETMELİĞİ",
+  "number": "14457",
+  "issuer": "Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanı",
+  "issuer_slug": "milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani",
+  "path": "regulation/milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani/2010/14457",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14457&MevzuatTertip=5",
+  "source_sha256": "9a7b70b18208ecc62600d3c4934637c3176ed8e6008c471690760029675977ce",
+  "source_bytes": 294877,
+  "published": "2010-11-24",
+  "gazette": "27765",
+  "in_force": "2020-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-23",
+      "RG-23/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-23",
+      "23/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-05",
+      "RG-5/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-05",
+      "5/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-05-12",
+      "RG-12/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-12",
+      "12/5/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14324,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.14457-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

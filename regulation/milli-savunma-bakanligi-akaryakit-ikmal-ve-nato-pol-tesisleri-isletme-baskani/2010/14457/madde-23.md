@@ -1,0 +1,4 @@
+Yetkisiz tahsil ve ödeme, muhasebe yetkilisi mutemedinin görevine son verilmesi
+MADDE 23 – (1) Kanunlarda öngörüldüğü şekilde ve bu Yönetmelik esaslarına göre yetkili kılınmamış hiçbir kimse ANT Başkanlığı adına para tahsil edemez, değerleri alamaz, gönderemez ve ödeme yapamaz. Aksi halde bunlar hakkında ilgili kanunlar uyarınca idari ve cezai yönden gerekli işlemler yapılır.
+(2) Kontrol, denetim ve tahkikat sonucunda, görevini bu Yönetmelikte belirlenen usul ve esaslara göre tam ve zamanında yapmadığı tespit edilen muhasebe yetkilisi mutemetleri, muhasebe yetkilisince muhasebe yetkilisi mutemetlik görevinden azledilmeleri için yazıyla bildirilir.
+(3) Personelden uhdesinde bulunan değerlerin doğruluğu ile ilgili olarak veya tahsil ettiği hâsılatı süresinde yatırmayıp üzerinde tutanlardan, haklarında adli ve idari işlem yapılanlar, bir daha mali sorumluluk gerektiren görevlerde çalıştırılamaz.

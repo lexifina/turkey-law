@@ -1,0 +1,3 @@
+Para ve para ile ifade edilen değerlerin muhafazasında sorumluluk
+MADDE 18 – (1) Muhasebe yetkilisi; muhasebe birimlerine teslim edilen para ve parayla ifade edilen değerlerin alınmasını, muhafaza edilmesini ve gerekli güvenlik tedbirlerinin alınmasını sağlamak zorundadır.
+(2) Yangın, sel, deprem, yer kayması, çığ düşmesi gibi afet hâlleri ile savaş veya askerî ve idari sebeplerle tahliye ya da hırsızlık gibi nedenlerle veznede kayıp veya noksanlık meydana gelmesi hâlinde, muhasebe yetkilisince durum derhal en yakın amire yazılı olarak bildirilir. Ayrıca, olaya ilişkin delillerin kaybolmaması için gerekli tedbirleri alır. Sorumluluğun ibrası için, muhasebe yetkilisi olayı öğrendiği günden itibaren en geç 15 gün içinde, ANT Başkanlığı ilgili birimine başvurur.

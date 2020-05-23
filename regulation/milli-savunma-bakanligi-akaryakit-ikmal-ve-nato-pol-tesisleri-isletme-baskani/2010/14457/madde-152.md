@@ -1,0 +1,3 @@
+Yönetim dönemi
+MADDE 152 – (1) ANT Başkanlığında yönetim dönemi bir mali yılın başından sonuna kadar yapılan bütün işlemler ile mali yıl geçtikten sonra, mahsup dönemi içinde önceki mali yıla ilişkin olarak yapılan mahsup işlemlerini kapsar.
+(2) Yönetim dönemi hesabı, yönetim döneminde yapılan bütün mali işlemleri kapsayan mali tablo, defter ve cetveller ile sayım tutanaklarından oluşur. Görev başındaki muhasebe yetkilisi tarafından düzenlenen yönetim dönemi hesabı, mahsup dönemini takip eden bir aylık süre içerisinde mevzuatında belirtilen yetkili mercilere verilir. Yönetim dönemi hesabı dosyasının bir örneği de muhasebe biriminde muhafaza edilir.

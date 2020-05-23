@@ -1,0 +1,7 @@
+Muhasebe yetkilisi mutemetleri arasındaki devir işlemleri
+MADDE 33 – (1) Muhasebe yetkilisi mutemetlerinin görevlerinden geçici veya kesin olarak ayrılmalarında, ayrılan muhasebe yetkilisi mutemedi ile yeni muhasebe yetkilisi mutemedi arasında aşağıda açıklandığı şekilde devir işlemi yapılır.
+a) İzin, hastalık gibi nedenlerle ayrılmalarda, Ek – 2’ de yer alan ANT Başkanlığı kasa defterinin günlük toplamı alınarak veznede bulunması gereken para ve diğer değerler eski muhasebe yetkilisi mutemedi tarafından yeni muhasebe yetkilisi mutemedine tutanak düzenlenerek devredilir ve anılan tutanak yeni ve eski muhasebe yetkilisi mutemetleri ile muhasebe yetkilisi tarafından imzalanır.
+b) Görevinden ayrılacak olan muhasebe yetkilisi mutemedi, yukarıda belirtildiği şekilde muhasebe yetkilisine hesabını vererek ibra edilmedikçe görevinden ayrılamaz.
+c) Veznede muhafaza edilen para ve diğer değerler yeni muhasebe yetkilisi mutemedine devredilir.
+ç) Devir işlemi, iki gün içinde tamamlanır.
+(2) Muhasebe yetkilisi mutemedinin ayrılmalarında kasa hesabı defteri toplamı alınarak veznede bulunması gereken para, eski muhasebe yetkilisi mutemedi tarafından yeni muhasebe yetkilisi mutemedine devredilir ve yardımcı hesap defteri toplamını gösteren son sayfasında gerekli açıklama yapılarak, muhasebe yetkilisi ve muhasebe yetkilisi mutemetleri tarafından imzalanır. Bu işlem veznede bulunan tüm değerler için de yapılır. Ayrılan memura bu devrin onaylı bir örneği verilir.

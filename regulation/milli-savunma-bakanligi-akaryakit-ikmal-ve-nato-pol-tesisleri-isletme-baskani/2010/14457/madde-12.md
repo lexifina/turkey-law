@@ -1,0 +1,3 @@
+Harcama talimatı ve sorumluluk
+MADDE 12 – (1) ANT Başkanlığı bütçesinden bir giderin yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatlarında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+(2) Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, ANT Başkanlığı yönetim kurulu kararlarına uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Yönetmelik çerçevesinde yapmaları gereken diğer işlemlerden sorumludur.

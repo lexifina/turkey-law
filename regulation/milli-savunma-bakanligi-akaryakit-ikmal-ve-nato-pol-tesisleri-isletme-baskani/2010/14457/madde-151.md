@@ -1,0 +1,2 @@
+Muhasebe döneminin kapatılması
+MADDE 151 – (1) Her faaliyet döneminin sonunda, muhasebe yetkilileri, dönem sonu işlemlerini yaparak yeni faaliyet döneminin açılış kaydına esas alınacak kesin mizanı çıkarır. Faaliyet hesaplarında kayıtlı gelir ve giderler karşılaştırılarak faaliyet sonucu tespit edilir. Faaliyet sonucu da öz kaynaklar hesap grubundaki dönem faaliyet sonuçları hesaplarından ilgili olanına aktarılarak faaliyet hesapları kapatılır. Hazırlanan kesin mizanda borç ve alacak kalanı veren hesaplar yeni muhasebe döneminin açılış kaydına esas teşkil eder.

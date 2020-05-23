@@ -1,0 +1,3 @@
+Ödeme ve tahsilat öncesi kontrol süresi
+MADDE 25 – (1) Ödeme ve tahsilat emri belgeleri, muhasebe birimine geliş tarihinden itibaren, en geç dört iş günü içinde incelenir, noksanlık bulunmayan işlemler muhasebeleştirilerek hak sahiplerine nakden veya banka hesabına aktarılmak suretiyle ödenir veya tahsil edilir.
+(2) Eksik veya hatalı olan ödeme ve tahsilat emri belgesi ve eki belgeler, düzeltilmek veya tamamlanmak üzere en geç, hata veya eksikliğin tespit edildiği günü izleyen iş günü içinde harcama birimine gönderilir. Hata veya eksiklikleri tamamlanarak tekrar muhasebe birimine verilenler, en geç iki iş günü sonuna kadar incelenerek işlem gerçekleştirilir.

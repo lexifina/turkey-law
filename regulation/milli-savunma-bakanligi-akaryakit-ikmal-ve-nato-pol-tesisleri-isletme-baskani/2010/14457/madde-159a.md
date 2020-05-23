@@ -1,0 +1,3 @@
+Zararın tahsili
+MADDE 159/A – (Ek:RG-5/11/2016-29879)
+(1) ANT Başkanlığında meydana gelen zararın takip ve tahsilinde; 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu kapsamında memur olarak çalışan personel hakkında, 27/6/1983 tarihli ve 83/6510 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Devlete ve Kişilere Memurlarca Verilen Zararların Nevi ve Miktarlarının Tespiti, Takibi, Amirlerinin Sorumlulukları, Yapılacak Diğer İşlemler Hakkında Yönetmelik hükümleri, Başkanlıkta çalışan diğer personel ve zarara sebebiyet veren diğer gerçek ve tüzel kişiler hakkında ise genel hükümler uygulanır.

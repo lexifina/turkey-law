@@ -1,0 +1,2 @@
+Yabancı para cinsinden yapılan işlemler ve kur değişiklikleri
+MADDE 47 – (1) Yabancı paralar ve yabancı para cinsinden izlenen varlıklar ve yabancı kaynaklar, raporlama tarihinde Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden değerlemeye tabi tutulur, olumlu veya olumsuz farklar değerlemeye tabi tutulan mali işlerin varlık veya yabancı kaynak olmasına göre ilgili hesaplar ile gelir veya gider hesaplarına kaydedilir.

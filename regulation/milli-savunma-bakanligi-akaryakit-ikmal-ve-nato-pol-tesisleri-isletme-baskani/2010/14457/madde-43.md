@@ -1,0 +1,8 @@
+İşlemlerin belgeye dayanması ve belge düzeni
+MADDE 43 – (1) Bütün muhasebeleştirme işlemlerinin kanıtlayıcı belgelere dayandırılması zorunludur. Kanıtlayıcı belgeler, muhasebeleştirme belgesinin hazırlanmasını gerektiren belgelerden oluşur.
+(2) Usulüne uygun olarak düzenlenmiş ve yetkililerce imzalanmış olan muhasebeleştirme belgeleri; Ek-3’ te yer alan ANT Başkanlığı ödeme/tahsilat emri belgesi ve Ek-4’te yer alan ANT Başkanlığı muhasebe işlem fişi olup, kanıtlayıcı ve ispat edici belgelerdir.
+(3) Muhasebe işlem fişi; harcama biriminin düzenlediği ödeme ve tahsilat emri belgesinin dışında kalan işlemler için muhasebe biriminin düzenlediği belgedir.
+(4) Yaptırılan ya da satın alınan mal ve hizmet bedeli ile vergi ve ANT Başkanlığı personeli ile üçüncü kişiler lehine tahakkuk eden hakedişlerin ödenmesi, bir değerin teslimi, üçüncü kişilere ait hesaplar arasındaki aktarmalar ve genel olarak gider ya da harcamalar gibi işlemler; fatura, makbuz, çek, bordro, gider pusulası ve bunun gibi kanıtlayıcı belgelere dayandırılır.
+(5) Harcama birimlerince yaptırılacak olan ödeme ve tahsilatlar için; ödeme veya tahsilat şekline göre yukarıdaki kanıtlayıcı belgeler, eksiksiz olarak biri asıl olmak üzere en az iki nüsha tanzim edilir.
+(6) Bir giderin ödenmesinde gider çeşidine ve alım şekline göre; harcama talimatı, ihale onay belgesi ya da onay belgesinden yalnızca birinin düzenlenmesi yeterlidir.
+(7) Harcama birimlerince tüm gelir ve giderler kontrol edilir. Kontrol edilen giderler ve gelirler için ödeme ve tahsilat emri verilir, muhasebe birimine kanıtlayıcı belgelerin asılları gönderilir.
