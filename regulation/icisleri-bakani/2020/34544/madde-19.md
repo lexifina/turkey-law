@@ -1,0 +1,2 @@
+Şartnamenin hazırlanması ve ihalenin yapılması
+MADDE 19 – (1) Baskı adedi belirlenen yazılı eser ve işlemlerin boyutu, yaklaşık forma adedi, kâğıt cinsi, kapağın cins, renk ve mizanpajı gibi teknik konular ile basım ile ilgili diğer hususları ihtiva eden şartnameler, Daire Başkanlığı tarafından 4734 sayılı Kanun hükümlerine uygun olarak hazırlanır. Daire Başkanlığı tarafından 4734 sayılı Kanun hükümlerine göre ihalesi yapılır.

@@ -1,0 +1,5 @@
+İnceleme sonucunda yapılacak işlemler
+MADDE 13 – (1) Daire Başkanlığı tarafından yapılan inceleme sonucunda verilen görüş ve Yayın Kurulunun kararı doğrultusunda uygun bulunmayan eserler yayınlanmaz.
+(2) Olumlu bulunduğu halde, iki yıl süreyle basılmak üzere stokta bekletilen eserler, süre bitiminde henüz yayınlanmamış ise olumsuz sayılır. İnceleme sonucunda olumsuz bulunan eserler için yazarına bildirimde bulunulur. Bildirimin yapılmaması durumunda ise ilgili süre sonunda yazardan alınan temlikname hükümsüz hale gelir.
+(3) Daha önce yayınlanmış eserlerin yayınlanıp yayınlanmamasına, Genel Müdürlüğün hizmetleri bakımından taşıdığı önem ve niteliği dikkate alınarak, Yayın Kurulu tarafından karar verilir.
+(4) Yayınlanacak eserlerdeki bariz maddi hatalar, Daire Başkanlığı tarafından düzeltilerek yazarına bilgi verilir. Eser, Daire Başkanlığı ya da Yayın Kurulunun uygun görmesi halinde, düzeltilmek ya da güncellenmek üzere yazarına iade edilebilir. Düzeltilerek üç ay içinde Genel Müdürlüğe teslim edilen eserler yeniden değerlendirmeye alınır.

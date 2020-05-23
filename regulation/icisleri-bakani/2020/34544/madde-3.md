@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununun 121 inci maddesi, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 161 inci maddesi ve 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmeliğin 21 inci maddesine dayanılarak hazırlanmıştır.

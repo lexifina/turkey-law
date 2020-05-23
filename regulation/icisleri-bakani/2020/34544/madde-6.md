@@ -1,0 +1,2 @@
+Yayın faaliyetleri
+MADDE 6 – (1) Genel Müdürlüğün yayın faaliyetleri; yayın amaçları doğrultusunda süreli veya süreli olmayan yayınlar, görme engelliler için hazırlanmış olan yayın, afiş, broşür, bilgilendirici belge gibi basılı eserler ile basılı olmayan dijital ortamda depolanan ve Genel Müdürlük internet sitesinde hizmete sunulacak elektronik eserleri hazırlamak, hazırlatmak, temin etmek, yayınlamak ve dağıtmaktır.
