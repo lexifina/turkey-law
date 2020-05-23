@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.12763",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI PERSONELİ YER DEĞİŞTİRME SURETİYLE ATANMA ESASLARINA DAİR YÖNETMELİK",
+  "number": "12763",
+  "issuer": "Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanı",
+  "issuer_slug": "akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani",
+  "path": "regulation/akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani/2009/12763",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12763&MevzuatTertip=5",
+  "source_sha256": "0504c61fca104259ff72dc44725cf875541396fc25ad192c5bfc46532ec9771e",
+  "source_bytes": 49129,
+  "published": "2009-01-04",
+  "gazette": "27100",
+  "in_force": "2020-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-23",
+      "RG-23/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-05-23",
+      "23/5/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-08-07",
+      "RG-7/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-07",
+      "7/8/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-10-03",
+      "RG-3/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-03",
+      "3/10/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-10-28",
+      "RG-28/10/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-10-28",
+      "28/10/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1604,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12763-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

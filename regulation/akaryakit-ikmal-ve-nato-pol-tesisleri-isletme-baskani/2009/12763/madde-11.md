@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Yer Değiştirme Sureti ile Atanmaya İlişkin İşlemler
+Yer değiştirme kurulu
+MADDE 11 – (1) (Değişik fıkra:RG-7/8/2015-29438) Yer Değiştirme Kurulu; bu Yönetmelik kapsamına giren personelin yer değiştirme suretiyle yapılacak atama işlemlerini incelemek ve değerlendirmek üzere, (Değişik ibare:RG-23/5/2020-31135) Personel Dairesi Başkanı başkanlığında, Memur Personel Şube Müdürü, Eğitim Şube Müdürü, Memur Personel Şefi ve Memur Personel Şube Müdürlüğünde görev yapan bir memur olmak üzere toplam 5 üyeden oluşur.
+(2) (Değişik fıkra:RG-3/10/2013-28784) Kurul, Başkanın çağrısı üzerine müracaat döneminin sona erdiği tarihi izleyen 10 gün içinde ve salt çoğunluğun katılımıyla toplanır. Başkan ve üyelerin görevde bulunmamaları halinde toplantıya vekilleri katılır. İhtiyaç duyulması halinde birden fazla toplantı da yapılabilir. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılamaz. Kurul toplantıları ve alınan gerekçeli kararlar bir tutanak ile tespit edilir ve Başkanlık onayına sunulur. Karara muhalif kalan üye gerekçesini tutanakta belirtmek zorundadır.
+(3) (Değişik fıkra:RG-7/8/2015-29438) Kurulun raportörlüğü Memur Personel Şube Müdürlüğü tarafından yerine getirilir.
+(4) (Değişik fıkra:RG-3/10/2013-28784) Kurul, atanma istek formu, tercih sırası, boş veya boşalacak kadro durumlarını; liyakat, öğrenimi, uzmanlığı, iş tecrübesi, mesleki bilgisi, hizmet gerekleri ve kamu yararı ilkelerini gözeterek karar verir.
