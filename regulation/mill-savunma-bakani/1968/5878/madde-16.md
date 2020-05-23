@@ -1,0 +1,1 @@
+Madde 16 - Meslek programlarının tatbikatında subayın gelişmesini aksatacak olan, aynı göreve mükerrer atanmalardan ve bir görevde uzun süre bırakmaktan, bilhassa temel mesleki gelişim devresinde kaçınılır. Bu husus normal olarak, uzman subaylara uygulanmaz.

@@ -1,0 +1,1 @@
+Madde 18 - Komutanlık görevi, subayın mesleki bilgi tecrübe ve önderlik kabiliyetini geliştirdiğinden ve bunların değerlendirmelerine imkan verdiğinden, subaylar her rütbede mümkün olduğu takdirde bir defa komutanlık görevlerine atanmalıdır. Üst kademedeki komutanlık görevlerine önderlik niteliklerini haiz subaylar atanır.

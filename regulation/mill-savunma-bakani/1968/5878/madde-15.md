@@ -1,0 +1,1 @@
+Madde 15 - Kıta karargah ve kurumlarda subaylara verilen özel ve ek görevler dahil atanmada planlı değişim normal bir tatbikattır. Her subay kabiliyet ve rütbesi ile uygun değişik hizmetlerde vazife görmeğe hazır olmalıdır.

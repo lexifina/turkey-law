@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.5878",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SUBAY MESLEK PROGRAMLARI YÖNETMELİĞİ",
+  "number": "5878",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "mill-savunma-bakani",
+  "path": "regulation/mill-savunma-bakani/1968/5878",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5878&MevzuatTertip=5",
+  "source_sha256": "ffa9268caea1bd4abc9accd73a9dec0578a4d692457934fa5286db9f951ed50d",
+  "source_bytes": 67118,
+  "published": "1968-08-08",
+  "gazette": "12971",
+  "in_force": "2020-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-23",
+      "RG-23/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-27",
+      "RG-27/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-16",
+      "RG-16/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-03-07",
+      "RG-07/03/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-08-14",
+      "RG-14/08/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1986-11-29",
+      "RG-29/11/1986",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1973-09-04",
+      "RG-04/09/1973",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik Resmi Gazete'de yayınlandığı tarihten itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3376,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

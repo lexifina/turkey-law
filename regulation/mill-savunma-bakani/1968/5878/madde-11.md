@@ -1,0 +1,1 @@
+Madde 11 - Astsubaylıktan subay olanlara atanmada planlı değişim uygulanmaz, sınıf ve ihtisasları ile ilgili görevlere atanmak ve lüzumlu kurslara gönderilmek suretiyle bunların sınıf ve ihtisaslarında mesleki gelişimleri sağlanır.

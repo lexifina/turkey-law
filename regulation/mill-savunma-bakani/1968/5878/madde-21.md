@@ -1,0 +1,1 @@
+Madde 21 - Öğretmenlik görevi, subaya yeni bilgiler kazandırır; şahsi ve mesleki vasıflarını geliştirerek kendisine olan güvenini artırır. Bu bakımdan kabiliyetli subaylara öncelik tanınmak suretiyle, imkan nispetinde çok sayıda subay, öğretmenlik görevlerine atanmalıdır.

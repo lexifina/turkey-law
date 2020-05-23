@@ -1,0 +1,2 @@
+Madde 7 - Subayların mesleki gelişimlerini teminde, atanmada planlı değişim esas unsurdur.
+(Değişik ibare:RG-23/5/2020-31135) Türk Silahlı Kuvvetlerinin ihtisasın dar sahalarında kesif eğitim görmüş subaylarla, değişik görevlerde geniş bir eğitim görmüş, yüksek vasıflı, çok cepheli ve her sahada bilgi ve tecrübesi olan subaylara ihtiyacı vardır. Bu sebeple subaylar, kendilerine verilecek çeşitli görevleri yapabilecek şekilde sınıfı ile ilgili her sahada kafi derecede ve en az bir ihtisasta da mütehassıs olarak yetiştirilirler.

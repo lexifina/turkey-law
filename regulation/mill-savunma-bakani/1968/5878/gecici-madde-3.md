@@ -1,0 +1,1 @@
+Geçici Madde 3 - 20 nci madde de gösterilen Teğmenlere ait kıta süresi, Harp Okulları Kanunu yürürlüğe girip bu statüde yetiştirilenler subay nasb edilinceye kadar, Teğmenlik kıta hizmetini sağlık ve eğitim gibi sebeplerle bir yıl yapanların terfileri sağlanır, ancak geri kalan kıta hizmeti diğer rütbelerinde tamamlattırılır.

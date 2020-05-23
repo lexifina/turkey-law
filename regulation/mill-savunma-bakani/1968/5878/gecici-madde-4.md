@@ -1,0 +1,1 @@
+Geçici Madde 4- (Ek:RG-29/11/1986-19296) Bu Yönetmeliğin yürürlük tarihinden önce Silahlı Kuvvetler hesabına veya izinli olarak yurtiçinde veya yurtdışında her çeşit öğrenim kurs veya staja gönderilen subaylar hakkında bu yönetmeliğin 29 uncu maddesinin değişiklikten önceki hükümleri uygulanır.

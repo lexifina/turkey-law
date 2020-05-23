@@ -1,0 +1,2 @@
+Madde 22 - Meslek programlarını aksatmamak bakımından, emir subaylığı görevlerine subaylar, Yzb., ile daha üst rütbelerde birer defa olmak üzere en fazla 2 defa atanabilirler. Her defasında görev süresi (3) yılı geçemez.
+(Değişik fıkra:RG-27/3/2019-30727) Ancak Cumhurbaşkanı, Milli Savunma Bakanı, Genelkurmay Başkanı ve Kuvvet Komutanlarının emir subayları hakkında yukarıdaki fıkra hükmü uygulanmaz.
