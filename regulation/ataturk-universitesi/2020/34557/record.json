@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-05-23",
+      "23.05.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31135",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2020/34557",
+  "published": "2020-05-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34557&MevzuatTertip=5",
+  "source_bytes": 34953,
+  "source_id": "8.5.34557",
+  "source_sha256": "1a4070c8e57edcf753f9ae662f25f4c7fc631753558e44cb7549ada4757c0808",
+  "text_status": "as-enacted",
+  "title": "ATATÜRK ÜNİVERSİTESİ ÖĞRETİM ELEMANLARININ TEKNOLOJİ\r\nGELİŞTİRME BÖLGELERİNDE GÖREVLENDİRİLME VE ŞİRKET\r\nKURABİLMELERİNE DAİR YÖNETMELİK",
+  "university_id": 181,
+  "word_count": 1197
+}
