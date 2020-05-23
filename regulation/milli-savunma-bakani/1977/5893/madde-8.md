@@ -1,0 +1,2 @@
+Yönerge:
+Madde 8 - Şerit rozetlerin şekilleri ve boyutları, beratları, teklif formları, şerit rozetle taltif teklifinde bulunmaya ve şerit rozet vermeye yetkili komutanlık ve makamlar, verilme ve takılmasının usul ve esasları, şerit rozet grupları kapsamına giren şerit rozetlerle hak sahibi olabilme şartları, Yönetmeliğin genel uygulanmasıyle kuvvetlere göre özel uygulamaya ilişkin diğer ayrıntılar Türk Silahlı Kuvvetleri Şerit Yönergesinde gösterilir.

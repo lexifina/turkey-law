@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.5893",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ ŞERİT ROZET YÖNETMELİĞİ",
+  "number": "5893",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/1977/5893",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5893&MevzuatTertip=5",
+  "source_sha256": "abe82c4c9cb4beb2291202f77fdff0ae113761bc93c65c7113e7384b214530cb",
+  "source_bytes": 16101,
+  "published": "1977-09-22",
+  "gazette": "16062",
+  "in_force": "2020-05-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/5/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-05-23",
+      "RG-23/5/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 361,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
