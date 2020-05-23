@@ -1,0 +1,6 @@
+Görev grupları arasında geçişler
+Madde 23 — Bu Yönetmeliğin 5 inci maddesinde belirtilen görev grupları arasındaki geçişler aşağıdaki esaslar çerçevesinde yapılır:
+a) Aynı ana görev grubunun alt görev grubunun kendi içinde kalmak kaydıyla, sınav yapılmaksızın ilgili personelin isteği ve atanılacak kadronun gerektirdiği özellikleri taşımak şartıyla diğer görevlere atanmak mümkündür.
+b) (Değişik:RG-1/11/2014-29162) Gruplar arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler görevde yükselme sınavına tabidir. Ancak, Başkanlıkta veya diğer kamu kurum ve kuruluşlarında daha önce bulunulan görevler ile bu görevlerle aynı düzey görevlere veya alt görevlere, görevde yükselme sınavına tabi tutulmadan atama yapılabilir.
+c) Unvan değişikliğine tabi kadrolar ile bu kadrolar arasındaki geçişler, ilgili kadro için düzenlenen unvan değişikliği sınavı sonucuna göre yapılır.
+d) (Ek:RG-23/10/2010-27738) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelden, atanılacak görev için aranan ve 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendine göre hesaplanan toplam hizmet süresine sahip olmaları ve mevzuatla aranan öğrenim şartını taşımaları kaydıyla uzman veya aynı düzeydeki görevler ile daha alt görevlere yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz.
