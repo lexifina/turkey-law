@@ -1,0 +1,4 @@
+Sorumluluk
+MADDE 5 – (1) Merkez ve taşra teşkilatının her kademedeki yöneticileri, yapmakla yükümlü bulundukları hizmet veya görevleri Başkanlık emir ve direktifleri yönünde, mevzuata, plan ve programlara uygun olarak düzenlemek ve yürütmekten üst yöneticiye karşı sorumludur.
+(2) Merkez ve taşra teşkilatının yönetim ve yürütme kademelerinde çalışan personel, bu Yönetmelikle kendisine verilen görevlerin yerine getirilmesini sağlayacak tedbirlerin alınmasından ve yerine getirilmesinden sorumludur.
+(3) Merkez ve taşra teşkilatının her kademedeki yöneticileri, amiri oldukları kuruluş ve hizmet birimlerinde kanun, tüzük ve yönetmeliklerle belirlenen görevleri zamanında ve eksiksiz olarak yapmaktan ve yaptırmaktan, maiyetindeki memurları yetiştirmekten, hal ve hareketlerini takip ve kontrol etmekten görevli ve sorumludur.
