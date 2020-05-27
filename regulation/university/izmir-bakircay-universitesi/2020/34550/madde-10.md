@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanı ile ilgili olarak Türk Dili ve Edebiyatı bölümünden bir, Yabancı Diller Yüksekokulundan bir, Üniversite öğretim elemanları arasından iki olmak üzere Müdürün önerisi ile Rektör tarafından üç yıl için görevlendirilen toplam beş üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir üye görevlendirilir.
