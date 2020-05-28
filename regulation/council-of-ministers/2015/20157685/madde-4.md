@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmeliğin uygulanmasında;
+a) Atama: Personelin rütbe, meslek derecesi ve görev unvanına uygun olarak atanmasını,
+b) Bakan: İçişleri Bakanını,
+c) Başarı belgesi: Görevlerinde olağanüstü gayret ve çalışmaları sonucu emsallerine göre başarılı görev yapan personele verilen belgeyi,
+ç) Bekleme süresi: Polis amirlerinin bulundukları rütbe ve meslek derecelerinde fiili olarak bekleyecekleri zorunlu en az süreyi,
+d) Çok iyi performans değerlendirme puanı: Performans değerlendirme sonucu oluşan, 4,00 ila 5,00 (bu puanlar dahil) arasındaki puanları,
+e) Genel Müdür: Emniyet Genel Müdürünü,
+f) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+g) İyi performans değerlendirme puanı: Performans değerlendirme sonucu oluşan, 3,00 ila 3,99 (bu puanlar dahil) arasındaki puanları,
+ğ) Kıdem: Bir rütbeye terfi tarihinden itibaren bulunduğu rütbede geçen hizmet süresini,
+h) Liyakat: Personelin bir üst rütbedeki görevlerin gereklerini yerine getirebilme niteliğini,
+ı) Meslek derecesi: Emniyet Hizmetleri Sınıfı personelinin, bulundukları rütbe ve görev unvanlarının karşılığı olan hiyerarşik yapıdaki mesleki sırasını,
+i) Personel: Emniyet Hizmetleri Sınıfı personelini,
+j) Polis Akademisi mezunu sayılanlar: En az dört yıllık yüksek öğrenimden sonra Akademide bir eğitim öğretim dönemi süresince özel eğitim görenler ile 25/4/2001 tarihli ve 4652 sayılı Polis Yüksek Öğretim Kanununa göre Polis Enstitüsünün yüksek kısmından mezun olanları,
+k) Polis amiri: Komiser Yardımcısı, Komiser, Başkomiser, Emniyet Amiri, Dördüncü Sınıf Emniyet Müdürü, Üçüncü Sınıf Emniyet Müdürü, İkinci Sınıf Emniyet Müdürü, Birinci Sınıf Emniyet Müdürü ve Sınıf Üstü Emniyet Müdürü rütbesindeki Emniyet Hizmetleri Sınıfı personelini,
+l) Performans değerlendirme puanı: Yetkili amirlerce düzenlenen performans değerlendirme raporlarında verilen puan ortalamasını,
+m) Rütbe: Emniyet Hizmetleri Sınıfı personelinin sahip olduğu hiyerarşik meslek unvanını,
+n) Terfi: Personelin bulunduğu rütbeden üst rütbeye yükselmesini,
+o) Üstün Başarı Belgesi: Üç defa başarı belgesi alanlara verilen belgeyi,
+ö) (Ek: RG-28/5/2020-31138-C.K-2581/2 md.) Birim amiri: Merkez teşkilatında Başkan veya Daire Başkanlarını, taşra teşkilatında İl Emniyet Müdürlerini, merkeze doğrudan bağlı taşra teşkilatlarında ise Polis Akademisi Başkanı, Polis Meslek Yüksek Okulu Müdürü, Polis Meslek Eğitim Merkezi Müdürü, Polis Eğitim Merkezi Müdürü ve Polis Moral Eğitim Merkezi Müdürünü,
+ifade eder.

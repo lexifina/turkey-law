@@ -1,0 +1,3 @@
+Mazereti sebebiyle sınava katılamama
+MADDE 33- (1) Sınava çağrılmalarına rağmen; yurtdışı misyon koruma, yurtdışı eğitim, yurtdışı kurs ve diğer yurtdışı görevler ile sağlık mazeretleri sebebiyle yazılı ve sözlü sınavlara giremeyenler, mazeretinin bitimini müteakip açılacak ilk yazılı ve sözlü sınava iştirak ettirilir. Bu sınavlarda başarılı olup da üst rütbeye terfiine karar verilenlerin rütbe terfi tarihi emsalleri gibi değerlendirilir ancak bu durum geriye yönelik olarak herhangi bir mali hak doğurmaz.
+(2) Birinci fıkrada sayılan mazeretler dışında sınava katılmayanlar, herhangi bir hak iddiasında bulunamazlar.

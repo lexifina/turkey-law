@@ -1,0 +1,4 @@
+YEDİNCİ BÖLÜM
+Kadrosuzluk Nedeniyle Emeklilik İşlemleri
+Beş yıl içinde terfi edemeyenlerin emeklilik işlemleri
+MADDE 39- (1) (Değişik: RG-28/5/2020-31138-C.K-2581/17 md.) Bulundukları rütbelere terfi ettikleri tarihten itibaren beş yıl içinde bir üst rütbeye terfi edemeyen Emniyet Amirleri ile Dördüncü, Üçüncü ve İkinci Sınıf Emniyet Müdürleri, emeklilik veya yaşlılık aylığı bağlanabilmesi için gerekli şartları haiz olmaları kaydıyla; Yüksek Değerlendirme Kurulunun teklifi ve Bakan onayı ile hizmet ihtiyacı sebebiyle kadrosuzluktan emekliye sevk edilir. Ancak bunlardan, hizmet ihtiyacı nedeniyle kadrosuzluktan emekliye sevk edilmesi uygun görülmeyenlerin fiili hizmet süreleri aynı usul ile iki yıl uzatılır. Bu şekilde göreve devamı uygun görülenlerin durumu iki yıl sonra tekrar değerlendirilerek, en fazla bir defa daha iki yıl süreyle uzatılabilir, görev süresi uzatılmayanlar ise kadrosuzluktan emekliye sevk edilir.

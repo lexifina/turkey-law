@@ -1,0 +1,2 @@
+Merkez Değerlendirme Kurulunun görevleri
+MADDE 17- (1) (Değişik: RG-28/5/2020-31138-C.K-2581/7 md.) Merkez Değerlendirme Kurulu; üst rütbeye yükselmek için, Kurul gündemine alınan Komiser Yardımcısı, Komiser ve Başkomiserlerin liyakat koşullarını belirlemek ve hizmet ihtiyacına göre her yıl Yüksek Değerlendirme Kurulunca tespit edilecek olan üst rütbedeki kadro miktarına göre terfilerini önermekle görevlidir.
