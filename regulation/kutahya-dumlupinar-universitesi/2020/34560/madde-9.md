@@ -1,0 +1,2 @@
+Müdür
+MADDE 9 – (1) Müdür; Üniversitenin Fen ve Mühendislik Fakültelerinden, kadrolu öğretim üyeleri arasından üç yıllık süre için Rektör tarafından görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla görevinin başında bulunamayacağı durumlarda görevi sona erer ve yeni bir Müdür görevlendirilir. Müdürün altı aydan az görevinin başında bulunamayacağı durumlarda ise yardımcılarından biri müdürlüğe vekalet eder. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur.

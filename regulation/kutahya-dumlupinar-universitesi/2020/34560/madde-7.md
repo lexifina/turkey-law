@@ -1,0 +1,2 @@
+Birim Sorumlusu
+MADDE 7 – (1) Birim Sorumlusu olarak Müdür tarafından Merkez birimlerindeki faaliyetlerin yürütülmesi ve koordinasyonundan sorumlu müdür yardımcılarından birisi görevlendirilir. Gerekli görüldüğü durumlarda cihazların teknik işleyişi, metot geliştirilmesi ve uzmanlık isteyen konularında Merkez birimlerine Müdürün önerisiyle Rektör tarafından Üniversitenin öğretim elemanlarından akademik görevleri yanı sıra sorumlu olarak yetkilendirilebilir.
