@@ -1,0 +1,4 @@
+Dâhili anons sistemleri, acil durum haberleşmesi ve genel alarm
+MADDE 74 – (1) Tam boyu 24 metre ve üzerindeki yolcu gemilerinde ana güç kaynağından ve acil güç kaynağından beslenecek ve geminin her tarafından duyulabilecek şekilde dâhili anons sistemi bulunur. Bu sistem yerine eşdeğer bir sistemde kullanılabilir.
+(2) 300 GT ve üzerindeki gemilerde acil durum toplanma istasyonu ile gemideki diğer önemli noktalar arasında iki yönlü acil durum haberleşmesini sağlayacak sabit veya iki adet taşınabilir cihazın olması zorunludur. Gemideki mevcut cihazlar bu amaç için kullanılabilir.
+(3) Tam boyu 24 metre ve üzerindeki gemilerde acil durum güç kaynağından beslenen, kumanda mahallinden kontrol edilen ve tüm yaşam mahalli ile personel ve varsa yolcu kullanımına açık tüm mahallerden duyulabilir özellikte bir genel alarm sistemi bulunur.

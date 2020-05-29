@@ -1,0 +1,2 @@
+Payroteknik malzemeler, halat atma aleti, radar yansıtıcı ve telsiz teçhizatı
+MADDE 71 – (1) Gemilerde, bu Yönetmelik gereği taşınacak payroteknik malzemeler, halat atma aleti, radar yansıtıcı ve telsiz cihazları, kumanda mahallinde kolaylıkla erişilebilecek ve kullanılacak bir şekilde, suya ve hava şartlarına dayanıklı olarak uygun koşullarda muhafaza edilir. Bu teçhizatların bulunduğu yerler uygun semboller ile markalanır. Bu teçhizatın sayıları gemilerin cinsi ve sefer bölgelerine göre bu Yönetmeliğin eklerindeki denetim listelerinde belirlenmiştir.

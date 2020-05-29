@@ -1,0 +1,3 @@
+Egzoz devresi
+MADDE 55 – (1) Egzoz boruları, tümüyle sızdırmaz ve mümkün olduğu kadar az bükümlü ve az kavisli olacak şekilde dizayn ve monte edilir ve tersten deniz suyu girişine ve yağmur suyunun motora girişine imkân vermez. Egzoz boruları mümkün olduğunca ulaşılabilir şekilde yapılır. Birden fazla sevk motorlu gemilerde her motor için bağımsız bir egzoz devresi bulunur.
+(2) Egzoz borularının diğer malzemelerle temasta bulunabileceği veya insanların temasına açık olduğu tüm noktalar izolasyon kaplaması ile veya uygun muhafazalarla korunur. Egzoz devreleri üzerinde ısıl genleşmeleri karşılayacak genleşme bağlantıları bulundurulur.

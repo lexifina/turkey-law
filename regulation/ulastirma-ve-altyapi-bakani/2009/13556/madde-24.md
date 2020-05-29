@@ -1,0 +1,5 @@
+Pencere ve lumbuzlar
+MADDE 24 – (1) Gemideki tüm lumbuz, pencereler ve tekneye bağlanma donanımları geminin sefer bölgesi ve gemide bulunduğu konuma göre maruz kalacağı maksimum dalga ve rüzgar koşullarına dayanıklı ve bütünlük gereklerini sağlar nitelikte olmak zorundadır.
+(2) Lumbuzların alt kenarları su hattından en az 500 mm yüksekte olur. Lumbuz camlarının en az 6 mm nominal kalınlıkta camdan olması gerekir. Lumbuzlarda kullanılacak camların, kırıldığında yolculara ve personele tehlike yaratabilecek şekilde parçalanmayacak özellikte olması zorunludur.
+(3) Gemilerde köprü üstünün görüşü denizin ve güneşin zararlı ışınlarından koruyacak şekilde dizayn edilir. Coğrafi şartlara göre camların buzlanmaya karşı korumalı olması gerekir. Aynı şekilde camlarda yağmur ve kar yağışı altında emniyetli görüş imkânı sağlamak için mekanik silecek sistemi ile donatılır.
+(4) Geminin kumanda mahallinde bulunan pencere ve lumbuzlar her türlü çalışma koşulunda emniyetli seyir için yeterli görüş sağlayacak şekilde konuşlandırılır ve uygun boyutta olması gerekir.

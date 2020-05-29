@@ -1,0 +1,5 @@
+Deniz suyu bağlantıları, borda boşaltım ağızları ve frengiler
+MADDE 21 – (1) Borda boşaltım ağızları en az sayıda tutulur ve mümkün olduğu kadar en derin yüklü su hattının üzerinde yer alır.
+(2) En derin yüklü su hattının altında veya 300 mm ye kadar üstünde bulunan tüm deniz açıklıklarına kapama valfi konulur.
+(3) Makine soğutma sistemine ait deniz suyu alıcıları lokal takviyeli olarak dış kaplamaya bağlanan ızgaralı ve kapama valfinden sonra konulan deniz suyu filtresi ile donatılır. Deniz suyu filtresi, korozyona dayanıklı malzemeden, sağlam olarak yapılır ve kolaylıkla açılabilecek durumda olması gerekir.
+(4) Suyun toplanabileceği havaya açık güvertelerde, benzer şekilde su geçmez kapalı üst yapılar ve güverte evleri içinde kalan fribord güvertelerinde, suyun etkin biçimde dışarı atılmasını sağlayacak yeterli boyutta ve sayıda frengi bulunur. Fribord veya üst yapı güvertelerinin havaya açık kısımlarındaki parampetlerin havuz oluşturduğu durumlarda, suyun güvertelerden hızla atılmasını sağlayacak yeterli düzenlemeler yapılır.

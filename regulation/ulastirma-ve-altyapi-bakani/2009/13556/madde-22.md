@@ -1,0 +1,4 @@
+Kapılar
+MADDE 22 – (1) Üst yapıların havaya açık perdelerindeki kapıların, deniz ve hava koşullarına karşı korunaklı olması gerekir.
+(2) Bu kapıların, her iki taraftan da kapatılabilir olması ve liman seferi yapan açık güverte altındaki mahallere doğrudan giriş sağlayan kapılarda en az 100 mm yüksekliğinde eşik bulunması veya bu emniyeti sağlayacak alternatif bir sistem bulunması gerekir. Liman seferi dışında sefer yapan gemiler, Yükleme Sınırı Sözleşmesine göre teçhiz edilmek zorundadır.
+(3) Marmara Denizinde, İstanbul ve Çanakkale Boğazlarında; Ro-Ro ve Ro-Ro/yolcu gemilerinde ve belirtilen bölgelerde düzenli sefer yapan feribotlardan tekerlekli araçların emniyetli iniş binişi için aracın gemi üzerinde manevra yapmasına imkân sağlayamayan feribotlarda, yolcu ve tekerlekli araçların gemiye emniyetli iniş binişini ve yükün emniyetli yüklenmesini ve boşaltılmasını sağlayacak baş ve kıçta olmak üzere iki adet kapak/rampa olur.

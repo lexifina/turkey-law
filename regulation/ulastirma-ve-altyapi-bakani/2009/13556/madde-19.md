@@ -1,0 +1,4 @@
+İnşa ve tadilat gerekleri
+MADDE 19 – (1) Kullanılan yapım ve donatım malzemeleri ile teçhizatın, ulusal veya uluslararası mevzuat ve kurallardaki temel şartları sağlayacak özellikte olması gerekir. Ulusal veya uluslararası standartlara uygunluk, temel şartların sağlandığını gösterir. İdare, gerekli gördüğü durumlarda malzeme ve teçhizatın temel şartları sağladığına dair yetkilendirilmiş bir kuruluş tarafından hazırlanmış sertifika veya test sonuçlarını isteyebilir.
+(2) Tekne, güverteler ve üst yapıdaki açıklıkların, geminin yapısal bütünlüğüne engel olmaması gerekir. Deniz tesirine maruz güverteler su geçirmez olur ve tüm açıklıklar su geçmez, standarda uygun, sabit kapatma donanımları ile donatılır ve eğer bu açıklıklar yaşam/yolcu mahallerine geçiş için kullanılıyorsa, her iki taraftan kumanda edilebilen kapatma donanımına sahip olur.
+(3) Bu madde sadece yeni gemilere uygulanır.

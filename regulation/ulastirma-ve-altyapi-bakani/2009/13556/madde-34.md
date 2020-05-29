@@ -1,0 +1,4 @@
+Makine ve elektrikle ilgili genel kural
+MADDE 34 – (1) Tam boyu 24 metre ve üzerindeki gemilerde makine ve elektrik donatım ve teçhizat ile ilgili tüm çizim, plan ve imalatçı firma kullanım, bakım-tutum el kitapları dâhil doküman örnekleri gemide bulundurulur. Makine dairesinde vardiya tutulan gemilerde jurnal kaydı tutulur.
+(2) Tam boyu 24 metre ve üzerindeki gemilerde ana yürütme, kontrol, buhar borusu, yakıt, sıkıştırılmış hava, elektrik ve soğutma sistemleri, yardımcı makineler, kazanlar ve diğer basınçlı kaplar, boru ve pompa tertibatı, dümen teçhizatı ve güç iletimine yönelik dişliler, şaftlar ve kaplinler, uygun olarak tasarlanacak, inşa edilecek, test edilecek, montajı yapılacak ve bakımları yapılacaktır. Periyodik testlerle ilgili hususlar Ek-20 de belirlenmiştir.
+(3) Bu madde sadece yeni gemilere uygulanır.

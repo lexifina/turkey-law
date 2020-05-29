@@ -1,0 +1,3 @@
+Tankların doldurma ve iskandil boruları
+MADDE 43 – (1) Tankların doldurma ve iskandil borularının mümkün olduğu kadar düz hatta sahip olması gerekir. Doldurma borusu çapının 1,5 katına eşit mesafe kalıncaya kadar tank içinde aşağıya doğru uzatılır. İskandil borusu tank dibine kadar uzatılır ve boru altında çarpma levhası bulunur. Boruların üst nihayetleri açık havaya uzatılır, böylece sızan yakıt veya buharların geminin içine girmesi önlenir ve bu nihayetlere viralı başlık veya kapatma valfi konulur. Uygun ve ayırt edici renkte boyanır.
+(2) Yakıt ve yağ alım istasyonları etrafına, taşan yakıt ve yağın tehlike oluşturmasını önleyecek şekilde gerekli düzenlemeler yapılır.

@@ -1,0 +1,2 @@
+Zararlı organik tutunma önleyici sistemler
+MADDE 27 – (1) Gemi ve su araçlarının su altında kalan karina ve faça kısımlarında, deniz canlılarının yüzeye tutunmasını önlemek için uygulanan kalay içerikli zararlı organik tutunma önleyici sistemler; çevreye, besin zinciri yoluyla bitki, hayvan ve insan sağlığına verdiği ciddi zararlar nedeniyle kullanılamaz. Bu madde hükmü, bu Yönetmeliğin yayımı tarihinden itibaren yeni gemi ve su araçları ile ilk havuz/kara sörveyi gelen mevcut gemi ve su araçlarını kapsar. Bu maddenin uygulama esasları İdare tarafından belirlenir.

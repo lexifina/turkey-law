@@ -1,0 +1,3 @@
+Pis su boşaltım bağlantısı ile ilgili geçiş dönemi
+GEÇİCİ MADDE 1 – (1) Mevcut gemi veya su araçlarında tuvalet, lavabo veya mutfak atıklarından herhangi birinin doğrudan denize boşaltım bağlantısının bulunduğu yapılar bu Yönetmeliğin yürürlüğe girdiği tarihten sonraki bir yıl içerisinde pis su tanklarına bağlanır.
+(2) Karina tahliye çıkışı bulunan, tam boyu 5 metre ve üzerindeki ve karasularımız dışında sefer yapma izni olmayan sadece sabit pis su tankı ile donatılan gemi ve su araçlarında bu Yönetmeliğin yürürlüğe girdiği tarihden sonra bir yıl içerisinde, pis su sistemlerinin karina çıkışlarından boşaltım yapılmayacak şekilde düzenlemeler yapılır.

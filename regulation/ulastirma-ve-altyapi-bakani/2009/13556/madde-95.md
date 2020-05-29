@@ -1,0 +1,9 @@
+Standartlar, işaretlemeler, pis su tahliye bağlantıları, kayıt
+MADDE 95 – (1) Gemi veya su araçlarında, güverte tahliye bağlantıları, bağlantı üzerinde veya yakınında görünür bir şekilde ISO 8099 a uygun olarak sembolle işaretlenir ve her bir pis su tankının üzerine tankın ismi ve hacmi markalanır.
+(2) Gemi veya su araçlarında siyah su ve gri su sistemlerinin her ikisinde de kullanılan elektrik ve valf donanımları ISO 9093-1, ISO 10133, ISO 13297 standartlarına uygun olmak zorundadır. ISO tarafından bu standartların kaldırılması durumunda bu hüküm, yerine getirilen standartlar için de geçerlidir.
+(3) Tam boyu 36 metreden küçük olan yeni gemi ve su araçlarında kullanılan siyah ve gri su sistemlerinin ilgili kısımları TSE 7787 Küçük Tekneler-Tuvalet Atıkları Alıkoyma Sistemleri hükümlerini sağlayıcı şekilde olmak zorundadır.
+(4) Kalıp derinliği 5 metre veya daha fazla olan gemi veya su araçlarında Ek-25 te yer alan Uluslararası Standartlar Örgütü (ISO) Standartında Pis Su Tahliye Bağlantısı; kalıp derinliği 5 metreden daha az olan gemi veya su araçlarında ise Ek-25 ve Ek-26 da yer alan Uluslararası Denizcilik Örgütü (IMO) Standartında Pis Su Tahliye Bağlantısından biri pis su güverte tahliye bağlantısı olarak kullanılır. Tahliye bağlantısı kolayca ulaşılabilir, kaza ile doğabilecek kirlenme ihtimalini azaltacak şekilde temiz su ve yakıt depo girişleri de dikkate alınarak operasyonel zorluk oluşturmayacak düzende yerleştirilmiş olmak zorundadır.
+(5) Tam boyu 15 metreden küçük olan gemi ve su araçlarında pis su tahliye bağlantısı yüklü fribord mesafesinin orta noktasından yukarıda kalan bordası üzerinde bulunabilir.
+(6) Yalnızca seyyar pis su tanklarının bulunduğu gemi ve su araçlarında güverte tahliye bağlatısı bulunma zorunluluğu yoktur.
+(7) Gemi ve su araçlarında pis su boşaltımları kayıt altına alınır. Kayıtla ilgili gerekler İdare tarafından belirlenir.
+(8) Bu madde sadece yeni gemi veya su araçlarına uygulanır.

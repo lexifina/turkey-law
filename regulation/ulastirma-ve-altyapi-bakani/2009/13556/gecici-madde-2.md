@@ -1,0 +1,2 @@
+İlk beş yıllık denize elverişlilik belgesi düzenleme tarihi
+GEÇİCİ MADDE 2 – (1) Bu Yönetmelik kapsamında geçerlilik süresi 5 yıl olacak şekilde düzenlenecek Denize Elverişlilik Belgesi, geminin ilk sualtı sörveyinden sonra düzenlenir. Mevcut Denize Elverişlilik Belgesinin geçerlilik süresi sualtı sörveyi tarihinden önce olan gemilere, sualtı sörveyine kadar geçerli Denize Elverişlilik Belgesi düzenlenir.

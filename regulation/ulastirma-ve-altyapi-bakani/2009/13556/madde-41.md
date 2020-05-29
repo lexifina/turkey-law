@@ -1,0 +1,15 @@
+Dümen donanımı
+MADDE 41 – (1) Tam boyu 24 metre ve üzerindeki yeni gemiler, bir ana dümen ile bir yardımcı dümen donanımı ile donatılır. Ana ve yardımcı dümen donanımları, birinin arızalanması durumunda diğerinin devre dışı kalmasını gerektirmeyecek biçimde düzenlenir. Çift sevk sistemli gemilerde yardımcı dümen donanımı zorunlu değildir.
+(2) İki veya daha fazla güç ünitesinden oluşan ana dümen donanımın olduğu yerde, güç ünitelerinden biri çalışamaz duruma geldiğinde dokuzuncu fıkrada belirtilen gerekleri haiz olarak çalışabilen ana dümen donanımı olması durumunda bir yardımcı dümen donanımına ihtiyaç yoktur. Her kontrol ünitesi ayrı bir sistem tarafından kontrol edilir.
+(3) Ana dümen donanımının, köprü üstünde, dümen açısını gösteren bir göstergesi bulunur. Dümen müşiri, dümen donanımı kontrol sisteminden bağımsızdır ve dümenin açısal konumu dümen dairesinde rahatça görülebilir bir konumda olur. Kırlangıçlardan sevk ve idare yapılıyorsa manevra emniyeti açısından buralarda da dümen müşirinin bulunması gerekir.
+(4) Gemilerde dümen donanımı güç ünitesinde, herhangi bir arıza olması durumunda, köprü üstünde sesli ve görüntülü bir alarm bulunur.
+(5) Tam boyu 24 metre ve üzerindeki gemiler dümen motorunun tüm elektrik ve elektro-hidrolik donanımlarına ait göstergeler köprü üstüne yerleştirilir.
+(6) Ana dümen donanımı ve dümen rodu, yeterli dayanıklılıkta ve geminin olabilecek maksimum hızında gemiye manevra yaptırabilecek kapasitede olur ve azami tornistan hızında ve manevra süresince hasar görmeyecek şekilde dizayn edilir.
+(7) Ana dümen donanımı ve dümen rodu, geminin en yüksek servis draftında ve en yüksek servis hızında dümeni 35° diğer alabandaya geçirme kapasitesinde olur ve aynı koşullarda 35° sancak alabandadan, 35° iskele alabandaya geçiş süresi 28 saniyeyi geçmez.
+(8) Ana dümen donanımı, güç ünitesinde bir güç kesintisi meydana gelmesi durumunda acil durum sistemi otomatik ya da manuel olarak yeniden çalıştırılabilecek şekilde dizayn edilir.
+(9) Yardımcı dümen donanımı yeterli dayanıklılıkta ve gemiyi seyretme hızında kontrol edebilecek kapasitede ve acil bir durumda hızlı bir şekilde acil durum pozisyonuna getirebilecek kabiliyette olur.
+(10) Yardımcı dümen donanımı, maksimum servis hızında veya 7 knotluk hızda en derin seyir draftında dümeni sancak 15° den iskele 15° ye 60 saniyenin altında getirebilecek kapasitede olur. Ayrıca yardımcı dümen donanımı bahsi geçen şartları yerine getirebilecek şekilde bir güç kaynağından çalışır.
+(11) Eğer dümen için yelpaze dışında başka bir sistem mevcut ise, bu sistem de dümeni bir taraftan diğer bir tarafa 30 saniyenin altında geçirebilecek kapasitede olur.
+(12) Yardımcı dümen donanımını çalıştırmak ve dümeni sabitlemek için yapılacak işleri gösterir bir talimat, dümen dairesinde veya dümen yekesi yanında kolayca görünür bir yere asılır. Kontroller dümen donanımı üzerinde açık bir şekilde markalanır.
+(13) Dümen yelpazesi deniz suyuna dayanıklı malzemeden yapılır.
+(14) Bu madde sadece yeni gemilere uygulanır.

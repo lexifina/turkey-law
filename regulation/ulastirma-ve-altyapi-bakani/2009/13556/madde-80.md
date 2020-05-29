@@ -1,0 +1,5 @@
+Çatışmayı önleme işaretleri
+MADDE 80 – (1) Gemiler denizde çatışmayı önleme kuralları gereğince cinslerine ve boylarına göre bulundurmaları gereken görünür ve sesli işaret ve alametleri ve aldiz lambasını taşırlar. Tüm aldiz lambaları ve ses işaretleri onaylı tipte olur. Tüm görünür ve ses işaretlerinin gemideki yerleşimleri denizde çatışmayı önleme kurallarına uygun olmak zorundadır.
+(2) Birinci fıkrada bahsedilen elektrikli görünür işaretler iki ayrı güç kaynağından beslenir, aksi hâlde acil durumda kullanılmak üzere yedekleri bulunur. Bu yedekler sadece silyon, borda ve pupa seyir fenerleri için gereklidir.
+(3) Tam boyu 24 metrenin üzerindeki gemilerde, elektrikli görünür işaretler geminin kumanda mahallinde bulunan bir panelden kontrol edilir, her bir işaret için bir anahtar ve gösterge lambası ile birlikte sesli alarm bulunur.
+(4) Gemi düdüğü sesinin pruvaya doğru yayılışı herhangi bir gemi yapısı ile engellenemez. Gemi düdüğü otomatik bir cihaz ile kontrol ediliyorsa bu otomatik kontrol cihazının istenildiğinde devreden çıkartılabilecek özellikte olması gerekir.

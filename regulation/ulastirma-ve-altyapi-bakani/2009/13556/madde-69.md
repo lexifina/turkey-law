@@ -1,0 +1,5 @@
+Can salları ve can kurtarma araçları suya indirme donanımları periyodik testleri
+MADDE 69 – (1) Can salları ve can kurtarma araçları suya indirme donanımları periyodik testleri aşağıda belirtilen periyotlarda İdare tarafından yetkilendirilmiş servis sağlayıcılar tarafından yapılır. Can kurtarma araçlarının periyodik testlerinin uygunluğunu gösteren test belgesi servis sağlayıcılar tarafından yayımlanır.
+(2) Can sallarının ve serbest bırakma donanımının servis istasyonlarında periyodik bakımı on yedi ayda bir yapılır. Ülkemizde yetkili servis sağlayıcısı bulunmayan can salı markalarının periyodik bakımı İdare tarafından yetkilendirilmiş herhangi bir servis sağlayıcısı tarafından denetim uzmanı gözetiminde yapılır.
+(3) Can kurtarma araçları suya indirme donanımları testi beş yılda bir toplam ağırlığın 1,1 katı ağırlık ile dinamik olarak, her yıl ise boş olarak, İdarenin veya yetkilendirilmiş kuruluşun gözetiminde yetkilendirilmiş servis sağlayıcılar tarafından yapılır.
+(4) Deniz tahliye sistemi mecburi olan gemilerde sistemin testi beş yılda bir servis istasyonlarında yapılır.
