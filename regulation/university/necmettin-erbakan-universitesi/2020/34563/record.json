@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/necmettin-erbakan-universitesi/2020/34563",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31139",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-05-29",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Necmettin Erbakan Üniversitesi",
+  "issuer_slug": "necmettin-erbakan-universitesi",
+  "kind": "regulation",
+  "published": "2020-05-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34563&MevzuatTertip=5",
+  "source_id": "8.5.34563",
+  "source_sha256": "842e1f2a8ac4c01c2054f51e7bfc4e7a5e95201d12fb92e0bcf98aa6b2dd5529",
+  "title": "NECMETTİN ERBAKAN ÜNİVERSİTESİ HAVACILIK UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 416,
+  "version_label": "oldest version available",
+  "word_count": 1213
+}
