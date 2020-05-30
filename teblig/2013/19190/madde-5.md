@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Genel Esaslar
+Duyuru metninin onaylanması için Kurula başvuru ve sorumluluk
+MADDE 5 – (1) Halka açık ortaklıkların taraf oldukları birleşme ve bölünme işlemlerinde içeriği Kurulca belirlenerek kamuya açıklanan duyuru metninin hazırlanması ve Kurulca onaylanması zorunludur. Duyuru metninin onaylanması; duyuru metninde, birleşme veya bölünme sözleşmesi ile bölünme planında, birleşme veya bölünme raporunda ve değişim oranlarına dayanak teşkil eden uzman kuruluş görüşünde yer alan bilgilerin doğru olduğunun Kurulca tekeffülü anlamına gelmez. Duyuru metinleri ve Kurulca kamuyu aydınlatma amacı ile düzenlenmesi öngörülen diğer belgeler için Kanunun 32 nci maddesinde yer alan sorumluluk hükümleri uygulanır.
+(2) Birleşme veya bölünme işlemine başlanılabilmesi için söz konusu işlemlere taraf şirketlerin yönetim organlarının karar alması gereklidir.
+(3) Yönetim organı kararının alınmasını takiben birleşme işlemine ilişkin duyuru metninin onaylanması için bu Tebliğin Ek-1’inde, bölünme işlemine ilişkin duyuru metninin onaylanması için ise bu Tebliğin Ek-2’sinde yer alan belgelerle Kurula başvurulması zorunludur. Kurula yapılacak başvuruda, varsa sermaye artırımı ile esas sözleşme madde tadiline ilişkin yönetim organı kararlarının da sunulması gerekir.

@@ -1,0 +1,17 @@
+Kurul ücreti
+MADDE 21 – (1) Birleşme işlemlerinde, aşağıda belirtilen esaslar çerçevesinde Kurulun pay ihracına ilişkin düzenlemelerinde belirtilen oranda Kurul ücreti alınır.
+a) Devralma şeklinde birleşme işlemlerinde;
+1) Devralan halka açık ortaklığın paylarının borsada işlem görmesi durumunda, birleşme nedeniyle artırılan sermayeyi temsilen ihraç edilecek payların nominal değerinden aşağı olmamak koşuluyla birleşme talebinin uygun görüldüğü Kurul karar tarihindeki borsa ikinci seans kapanış fiyatı üzerinden,
+2) Devralan halka açık ortaklığın paylarının borsada işlem görmemesi durumunda, birleşme nedeniyle artırılan sermayeyi temsilen ihraç edilecek payların nominal değeri üzerinden,
+3) Devralan şirketin halka açık ortaklık olmaması ve devrolunan halka açık ortaklığın paylarının borsada işlem görmesi durumunda, devralan şirketin mevcut sermayesinin nominal değeri ile artırılan sermayeyi temsil eden paylarının nominal değerinden aşağı olmamak üzere borsanın ilan edeceği referans fiyat dikkate alınarak hesaplanacak piyasa değeri üzerinden,
+4) Devralan şirketin halka açık ortaklık olmaması ve devrolunan halka açık ortaklığın paylarının borsada işlem görmemesi durumunda, devralan şirketin devralma nedeniyle artırılan sermayeyi temsil eden payları da dahil olmak üzere tüm paylarının nominal değeri üzerinden.
+b) Yeni şirket kurulması yoluyla birleşme işlemlerinde;
+1) Yeni şirketin paylarının borsada işlem görecek olması durumunda, birleşme sonrası sermayesini temsil eden paylarının nominal değerinden aşağı olmamak üzere borsanın ilan edeceği referans fiyat dikkate alınarak hesaplanacak piyasa değeri üzerinden,
+2) Yeni şirketin paylarının borsada işlem görecek olmaması durumunda, birleşme sonrası sermayesini temsil eden paylarının nominal değeri üzerinden.
+(2) Bölünme işlemlerinde, aşağıda belirtilen esaslar çerçevesinde Kurulun pay ihracına ilişkin düzenlemelerinde belirtilen oranda Kurul ücreti alınır. Mal varlığı unsurlarını devralan şirketlerden;
+a) Payları borsada işlem gören halka açık ortaklıkların, devraldığı mal varlığı nedeniyle artırılan sermayelerini temsilen ihraç edilecek paylarının nominal değerinden aşağı olmamak koşuluyla bölünme talebinin uygun görüldüğü Kurul karar tarihindeki borsa ikinci seans kapanış fiyatı üzerinden,
+b) Payları borsada işlem görecek şirketlerin, mevcut sermayesinin nominal değeri ile devraldığı mal varlığı nedeniyle artırılan sermayesini temsilen ihraç edilecek paylarının nominal değerinden aşağı olmamak koşuluyla borsanın ilan edeceği referans fiyat dikkate alınarak hesaplanacak piyasa değeri üzerinden,
+c) Payları borsada işlem görmeyen halka açık ortaklıkların, devraldığı mal varlığı nedeniyle artırılan sermayelerini temsilen ihraç edilecek paylarının nominal değeri üzerinden,
+ç) Devralma sonucunda halka açık ama payları borsada işlem görmeyen ortaklık haline gelecek şirketlerin, mevcut sermayesi ile devraldığı mal varlığı nedeniyle artırılan sermayesini temsilen ihraç edilecek paylarının nominal değeri üzerinden.
+(3) Kurul ücreti, onaylı duyuru metninin tesliminden önce Kurul adına açılan hesaba yatırılır.
+(4) Referans fiyat üzerinden alınacak Kurul ücretleri için, onaylı duyuru metninin tesliminden önce payların nominal değeri üzerinden ödemede bulunulur. Referans fiyatın borsa tarafından ilan edildiği tarihten itibaren 5 işgünü içerisinde, referans fiyat ile nominal değer arasındaki fark üzerinden hesaplanan ücret Kurul adına açılan hesaba ayrıca yatırılır.

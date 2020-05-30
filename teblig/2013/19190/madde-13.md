@@ -1,0 +1,4 @@
+Kolaylaştırılmış usulde birleşme
+MADDE 13 – (1) Bir veya birden fazla sermaye şirketinin oy hakkı veren paylarının %95 veya daha fazlasına sahip bir halka açık ortaklık tarafından devralınması suretiyle birleşmede, halka açık ortaklık paylarından devrolunan şirketlerin ortaklarına pay verilmesini gerektirmeyen durumlarda veya halka açık ortaklık paylarından devrolunan şirketlerin ortaklarına pay verilmesi gereken ancak halka açık ortaklık paylarının nakit karşılığının devrolunan şirketlerin ortaklarına seçimlik hak olarak önerilmesi durumlarında, kolaylaştırılmış usulde birleşme uygulanabilir.
+(2) Kolaylaştırılmış usulde birleşmede bağımsız denetim raporu, birleşme raporu ve uzman kuruluş görüşü aranmaz. Ayrıca birleşme sözleşmesinin genel kurul onayına sunulması zorunlu değildir.
+(3) Kolaylaştırılmış usulde birleşme işlemlerine ilişkin olarak içeriği Kurulca belirlenen ayrı bir duyuru metni hazırlanır.

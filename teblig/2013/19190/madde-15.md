@@ -1,0 +1,3 @@
+Bölünme sözleşmesi veya planı ile bölünme raporu
+MADDE 15 – (1) Tam bölünme veya kısmi bölünmede; malvarlığının mevcut şirketlere devredilmesi halinde bölünmeye katılan tüm şirketlerin yönetim organları tarafından imzalanmış ve Ek-5’te verilen asgari unsurları içeren bir bölünme sözleşmesi, malvarlığının yeni kurulacak şirkete veya şirketlere devredilmesi halinde ise bölünen ortaklığın yönetim organı tarafından imzalanmış ve Ek-6’da verilen asgari unsurları içeren bir bölünme planı hazırlanır.
+(2) Bölünmeye katılan şirketlerin yönetim organları tarafından Ek-7’de belirtilen asgari unsurları içeren bir bölünme raporu hazırlanır. Bölünme raporu bölünmeye taraf şirketlerin yönetim organları tarafından birlikte hazırlanabilir.

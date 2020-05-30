@@ -1,0 +1,2 @@
+BİRLEŞME VE BÖLÜNME TEBLİĞİ
+(II-23.2)
