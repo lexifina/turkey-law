@@ -1,0 +1,4 @@
+Enstitüye kayıt
+MADDE 13 – (Değişik:RG-1/6/2020-31142)
+(1) Programa kabul edilen öğrenciler; takip eden ilk yarıyılda Enstitüye Tıp-Bilim Doktoru özel öğrenci statüsünde kayıt edilir ve ilk dört yarıyılda (Fakülte dönem III ve IV’te) genel yönelim niteliğindeki lisansüstü derslerini alırlar. Ancak özel öğrenci statüleri devam ettiği sürede lisansüstü öğrenci haklarından yararlanamazlar. Bu statüdeki öğrenciler, programın üçüncü yılından itibaren Eğitim Koordinatörlüğünün onayı ile doktora yapacakları çekirdek programı seçer ve başvuruda bulunurlar. Çekirdek programlara yerleştirildikten sonra öğrenciler tam zamanlı doktora öğrencisi olarak Enstitüye kaydedilir ve öğrencilik haklarının tümünden yararlanırlar.
+(2) Program öğrencileri Fakülteden mezun oluncaya kadar lisansüstü programlara kayıt için gerekli öğrenci katkı payını ödemezler. Bu öğrencilere, Fakülte tarafından Tıp-Bilim Doktoru Bütünleşik Programı öğrencisi olduklarını gösteren bir kimlik kartı verilir.

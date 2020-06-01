@@ -1,0 +1,4 @@
+Tıp-Bilim Doktoru Danışmanı
+MADDE 14 – (Başlığı ile Birlikte Değişik:RG-1/6/2020-31142)
+(1) Programa kabul edilen her öğrenci için en geç bir ay içinde Eğitim Koordinatörlüğü tarafından bir Tıp-Bilim Doktoru danışman öğretim üyesi görevlendirilir. Danışmanın; Fakültede görevli doktor öğretim üyesi, doçent ya da profesör unvanlı bir öğretim üyesi olması gerekir. Tıp-Bilim Doktoru danışmanı; öğrencinin en yüksek bilimsel standartlarda yetişmesine yardım etmek, yönlendirmek ve iki programın bir arada yürütülmesi sırasında gerekli koordinasyonu sağlamakla görevlidir. Öğrencinin çekirdek programa kabul edilmesiyle Tıp-Bilim Doktoru danışmanının görevi sona erer.
+(2) Çekirdek programa kabul edildikten sonra her öğrenciye, Hacettepe Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliği hükümlerine göre bir doktora danışmanı atanır.

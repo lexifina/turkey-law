@@ -1,0 +1,4 @@
+Başvuruların değerlendirilmesi ve kabulü
+MADDE 10 – (1) (Değişik:RG-1/6/2020-31142) Programa öğrenci kabulü, dönem notları ortalaması, üniversiteye yerleştirme sınav puanı ve mülakat sonuçlarına göre yapılır. Mülakat ve değerlendirme ile ilgili işlemler Eğitim Koordinatörlüğü tarafından yürütülür.
+(2) (Değişik:RG-1/6/2020-31142) Öğrenci seçimi her yıl dönem II’nin son ders kurulu sırasında yapılır. Öğrencilerin başarı değerlendirmesinde ve sıralamada dönem I ve II’deki dönem notları ortalaması, mülakat notları ve yabancı dil becerileri esas alınır.
+(3) Eğitim Koordinatörlüğü, başvuru koşullarını sağlayan öğrenciler içinden, o yıl için tespit edilen kontenjan kadar öğrenciyi bir değerlendirme mülakatı yaparak belirler. Mülakatta öğrencinin önceki başarıları, yaşam hedefleri ve bilim insanı olmak için gerekli nitelikleri taşıyıp taşımadığı hususları öncelikli olarak değerlendirilir. Mülakatta kazanan öğrenci sayısı açılan kontenjandan daha az olabilir.
