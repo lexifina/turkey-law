@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/30279",
+  "submitted": "2020-06-03",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Yasin ÖZTÜRK",
+  "province": "Denizli",
+  "summary": "4 Mart 2020 tarihli Resmi Gazete'de yayımlanan sağlık personeline ek ödeme yapılması için belirlenen yönetmeliğin uygulanmasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-5fd7-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "0542c8bec69915474a6cd0610f79a2e4d1c1ef59ed6be32d753dd4f628e6d5f0",
+  "in_force": "2020-06-03",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
