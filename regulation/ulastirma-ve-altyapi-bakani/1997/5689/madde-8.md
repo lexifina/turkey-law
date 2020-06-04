@@ -1,0 +1,19 @@
+Çalışabilme Koşulları
+Madde 8- (Değişik:RG-15/2/2008-26788)
+Profesyonel sualtıadamı yeterlik belgesi alan kişilerin Türkiye Cumhuriyeti karasuları içerisinde ticari alanda faaliyet göstermek istemeleri hâlinde ilgili liman başkanlıklarından dalış müsaadesi alabilmeleri için, aşağıda belirtilen belgeleri ibraz etmeleri şarttır.
+a) Yeterlik belgesi,
+b) Şirket şartı (Ferdi olarak su ürünleri istihsali yapanlardan bu belge istenmez.),
+c) Sualtı işi dalış planı (EK-4’te olduğu gibidir.),
+d) Onaylı dalış defteri (EK-6’da olduğu gibidir.).
+Profesyonel sualtıadamı olarak Türkiye Cumhuriyeti karasularında yapılacak dalışlarda EK-2’de açıklanan personel miktarına göre dalış operasyonları planlaması zorunludur.
+Profesyonel dalış operasyonlarına katılan profesyonel sualtıadamlarının, EK-5’te belirtilen hususları yerine getirmeleri zorunlu olup, bu hususlar Sahil Güvenlik Komutanlığı birimlerince kontrol edilir.
+Profesyonel sualtıadamlarınca kullanılacak dalış takımları ile yapabilecekleri dalış derinlik limitleri EK-1’de gösterilmiştir. Bu derinliklere uyulması sorumluluğu, dalış operasyonundan sorumlu kişiye aittir.
+(Değişik fıkra:RG-4/6/2020-31145) Türkiye Cumhuriyeti karasuları ile iç sularında profesyonel sualtıadamı olarak, su ürünleri mevzuatı hükümleri kapsamında dalma yöntemiyle avcılığına izin verilen su ürünlerinin istihsalini yapmak maksadıyla dalış yapacak olanlara,
+a) 5 inci maddede yer alan nitelikleri haiz olup, 18 yaşını bitirmiş, 65 yaşını geçmemiş olmak,
+b) Türkiye’de yerleşik olarak faaliyet gösteren uluslararası akredite dalış eğitim sistemlerine göre eğitim görerek asgari 2 yıldız veya eş değer bir derecelendirme sistemi ile dalıcı olarak belgelendirilmiş olmak,
+c) İdare tarafından düzenlenecek teorik dalış eğitimini tamamlamak ve eğitim sonrası yapılacak sınavda başarılı olmak,
+şartlarını sağlayarak Liman Başkanlıklarına müracaat etmeleri durumunda; Liman Başkanlığı tarafından üzerinde “Sadece bireysel su ürünleri istihsali amacıyla dalış yapabilir.” ibaresi bulunan iki yıl süreli ‘Bireysel su ürünleri aday dalgıç belgesi’ verilir.
+(Ek fıkra:RG-4/6/2020-31145) Bireysel su ürünleri aday dalgıç belgesini ilk defa alacak olanlardan kırk yaşından gün almamış olmak şartı aranmaz. Bireysel su ürünleri aday dalgıç belgesine sahip olanlar, elli saat dalış yaptıklarını tasdikli dalış defteri ile Liman Başkanlığına sunmaları hâlinde kendilerine Liman Başkanlığı tarafından bireysel su ürünleri dalgıç belgesi yeterliği verilir.
+(Ek fıkra:RG-4/6/2020-31145) Bireysel su ürünleri aday dalgıç belgesini aldıktan sonra, belgenin geçerli olduğu iki yıllık süre içerisinde elli saat dalışı tamamlayamayanların belgeleri geçersiz olur. Bu adaylar bir yıl süre geçtikten sonra, beşinci fıkranın (c) bendinde belirtilen eğitim ve sınavdan muaf olarak yeniden bireysel su ürünleri aday dalgıç belgesi başvurusu yapabilir. Bu belge sahipleri, bireysel su ürünleri dalgıçlığının dışında ticari amaçlı dalgıçlık yapamazlar.
+(Ek fıkra:RG-4/6/2020-31145) Su ürünleri çiftliklerinde çalışacakların en az balıkadam veya üstü yeterlik belgesine sahip olmaları gerekir. Bununla birlikte bu belgelerden birisine sahip olmaksızın balıkadamların yanında çalışan ve 6 ncı madde kapsamında aday dalgıç belgesine sahip olanlara ise aynı maddede geçen eğitim ve dalış saatlerini tamamlamaları ve tasdikli dalış defteri ile Liman Başkanlığına başvurmaları halinde kendilerine Liman Başkanlığı tarafından “Sadece su ürünleri çiftliklerinde çalışabilir.” ibareli balıkadam yeterlik belgesi düzenlenir. Bu belge sahipleri, su ürünleri çiftliklerinde profesyonel sualtıadamlarının yanında çalışabilir ancak su ürünleri dalgıçlığının dışında ticari amaçlı dalgıçlık yapamazlar.
+(Ek fıkra:RG-4/6/2020-31145) Su ürünleri çiftliklerinde çalışıp aday dalgıç belgesi geçerlik süresi içerisinde yukarıdaki şartları sağlayamayanların tekrar su ürünleri çiftliklerinde aday dalgıç olarak görev yapabilmesi için bir yıl süre geçmesi gerekir.

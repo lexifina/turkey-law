@@ -1,0 +1,1 @@
+Madde 20- 40 metre’den derine yapılan dekompresyonlu dalışlar ile karışım gaz dalışlarında, dalış yapılan bölgede, dalış süresince bir sualtı hekimi ve tazyik odası bulundurulması zorunludur. (Basınç odası satıhta bulundurulamıyorsa en çok 30 dakika içinde dalgıcın tazyik altına alınabileceği bir mesafe ve ulaşım imkanı dahilinde bulunmalıdır.)

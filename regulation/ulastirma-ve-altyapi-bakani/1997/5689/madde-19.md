@@ -1,0 +1,1 @@
+Madde 19- Profesyonel sualtıadamlarının sağlık kontrolleri, normal olarak iki yıllık aralarla bünyesinde tazyik odası bulunan Deniz ve Sualtı Hekimliği Kliniklerinde yaptırılacaksa da şüphe halinde veya sualtıadamının isteği halinde her zaman tekrarlanabilir.

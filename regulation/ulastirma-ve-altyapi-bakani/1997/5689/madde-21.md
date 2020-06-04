@@ -1,0 +1,1 @@
+Madde 21- Dalış yapılan platform veya teknelerde dalış bağlı oluşabilecek hastalıklar için saf oksijen soluma düzeneği ve tankı (pulmanatör) ile dalış takım muayenelerinde onaylanmış ilk yardım seti bulundurulması zorunludur.

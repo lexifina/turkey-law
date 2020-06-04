@@ -1,0 +1,4 @@
+Muayene
+Madde 13- Profesyonel Sualtıadamları, ikişer yıllır aralarla Liman başkanlıkları tarafında, bünyesinde Tazyik odası ve Sualtı Hekimi bulunduran Deniz ve Sualtı Hekimliği Kliniklerine sevk olunarak muayene ettirilir. Muayene sürelerinin başlangıcı; yeterlik belgesi tarihi,müteakip muayeneler için ise bir önceki muayene tarihidir.
+1) Muayene sonunda sağlık durumları dalış yapmaya elverişli olmadığı anlaşılan profesyonel sualtıadamlarının yeterlik belgelerine ve sicil kütüklerine DALIŞ YAPAMAZ kayda konulur. Bu durumlarda Dalış Amirliği veya Dalış Öğretmenliği (teorik) yapma hakları saklıdır.
+2) Yeterlik Belgeleri ile sicil kütüklerine dalış yapamaz kaydı konulan Profesyonel Sualtıadamlarının, sağlık durumunun düzelmesi halinde, bünyesinde Tazyik Odası ve Sualtı Hekimi bulunduran Deniz ve Sualtı Hekimliği Kliniklerinden alacakları resmi rapor ile sabit olanların sicil kayıtları ile Yeterlik Belgelerindeki DALIŞ YAPAMAZ kaydı kaldırılır.
