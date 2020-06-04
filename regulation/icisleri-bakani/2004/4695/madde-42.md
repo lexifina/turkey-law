@@ -1,0 +1,2 @@
+Bilgi ve Belge İsteme Yetkisi
+Madde 42- Denetçiler denetim sırasında, denetim konusuyla ilgili her türlü bilgi ve belgeyi ilgili dernekten isteme yetkisine sahiptir. Bir suça delil teşkil eden belgelerin asılları alındığında, Denetçinin mühür ve imzası ile onaylanmış örnekleri, dosyasında saklanmak üzere iade edilir. Denetçiler, görevleri nedeniyle diğer kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden bilgi ve belge isteme yetkisine sahiptir.

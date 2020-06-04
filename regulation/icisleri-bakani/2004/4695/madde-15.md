@@ -1,0 +1,4 @@
+Sınav Komisyonu (Değişik başlık:RG-4/6/2020-31145)
+Madde 15- (Değişik birinci fıkra:RG-4/6/2020-31145) Yazılı ve/veya sözlü sınavı yürütecek olan sınav komisyonu Personel Genel Müdürünün başkanlığında Sivil Toplumla İlişkiler Genel Müdürü, Teftiş Kurulu Başkanı veya Yardımcısı, Başkan ve bir Denetçinin katılımı ile teşekkül eder. Sınav komisyonu sınav tarihinden en çok 15 gün önce Personel Genel Müdürlüğünün teklifi ve Bakanın onayı ile oluşturulur.
+Sınav (Değişik ibare:RG-4/6/2020-31145) komisyonu; giriş sınavı ile ilgili iş ve işlemler ile giriş sınavının Bakanlıkça yapılması durumunda, sınav sorularının hazırlanması, sınav sonuçlarının ilanı, değerlendirilmesi ve yapılacak itirazların sonuçlandırılması ve bu konuya ilişkin işleri yürütür.
+Sınavlarla ilgili iş ve işlemler Bakanlık Personel Genel Müdürlüğü tarafından yürütülür.

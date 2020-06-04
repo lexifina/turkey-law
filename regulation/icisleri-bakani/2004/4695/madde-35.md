@@ -1,0 +1,2 @@
+Yeterlik Sınavını Kazanamayanlar
+Madde 35-Yeterlik sınavında başarısız olanlara en geç bir yıl içinde yeni bir sınav hakkı tanınır. Bu sınavda da başarısız olanlar ile olumsuz sicil alanlar veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlar Dernekler Denetçi Yardımcılığı unvanını kaybederler. Sözkonusu kişiler durumlarına ve kadro derecelerine uygun başka kadrolara (Değişik ibare:RG-4/6/2020-31145) Genel Müdürlüğün görüşü, Personel Genel Müdürlüğünün teklifi ve Bakanlık Makamının onayı ile atanırlar.

@@ -1,0 +1,4 @@
+Sözlü Sınavın Yapılması
+Madde 20- Giriş sınavının yazılı ve sözlü olarak iki aşamalı yapılması halinde yazılı sınavı kazanan adaylar sözlü sınava çağrılır. Sözlü sınav, adaylara bildirilen yer, tarih ve saatte başlar. Adaylar yazılı sınavı kazanma sırasına göre sözlü sınava alınırlar.
+(Değişik ikinci fıkra:RG-4/6/2020-31145) Giriş sınavının sözlü olarak tek aşamalı yapılması halinde; KPSS puanı en yüksek olan adaydan başlamak üzere sınav ilanında belirtilen sayı kadar aday, listedeki KPSS puan sıralamalarına göre sözlü sınava alınır. Sözlü sınavın yeri, tarihi ve saati sözlü sınava katılmaya hak kazanan adaylara sınav komisyonu tarafından en az 15 gün önce Bakanlık resmi internet adresinden duyurulur.
+(Değişik üçüncü fıkra:RG-4/6/2020-31145) Sözlü sınav konuları, genel olarak hukuk, iktisat, maliye ve kamu yönetimi konularından oluşur.

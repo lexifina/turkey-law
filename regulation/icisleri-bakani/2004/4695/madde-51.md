@@ -1,0 +1,3 @@
+Denetim Raporlarının Değerlendirilmesi
+Madde 51- Denetçiler tarafından üç nüsha olarak düzenlenen denetim raporları (Değişik ibare:RG-4/6/2020-31145) Genel Müdürlüğe sunulur. İncelenen raporlar gereği yapılmak üzere, (Değişik ibare:RG-4/6/2020-31145) Genel Müdürlükçe ilgili birime gönderilir.
+Denetim sırasında, bir derneğin faaliyetten alıkonulmasını gerektirecek hallere rastlandığında durum gecikmeksizin ilgili valiliğe; suç teşkil eden fiillerin tespiti halinde, durum Cumhuriyet Başsavcılığına intikal ettirilmek üzere ilgili mülki idare amirliğine bildirilir. Bu durumlarda valiliğe ya da ilgili mülki idare amirliğine yazılan yazıların bir sureti vakit geçirilmeden (Değişik ibare:RG-4/6/2020-31145) Genel Müdürlüğe gönderilir.

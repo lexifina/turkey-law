@@ -1,0 +1,2 @@
+Denetim Sonuçlarının Yerine Getirilmesi
+Madde 52- Denetim raporlarında belirtilen hata ve noksanlıklar, valilik ve kaymakamlıklarca yapılacak bildirimler üzerine 30 gün içinde dernek yönetim kurulu başkanlığınca giderilir ve sonucu ilgili mülki idare amirliğine yazılı olarak bildirilir. Denetim raporlarında belirtilen eksikliklerin derneklerce tamamlanması ve yanlışlıkların giderilmesi ile ilgili işlemler (Değişik ibare:RG-4/6/2020-31145) sivil toplumla ilişkiler birimlerince takip edilir.
