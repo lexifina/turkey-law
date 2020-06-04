@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/30324",
+  "submitted": "2020-06-04",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Süleyman BÜLBÜL",
+  "province": "Aydın",
+  "summary": "Yasal düzenleme ile çek mağduru kişilerin cezaevinden çıkış tarihlerinin koronavirüs salgını sürecine denk gelmesi nedeniyle mağdur olmalarına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-9374-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "8c8c102419febd04ead99550868a614e4c3aa7699c7e6e494ce5590d8e41c554",
+  "in_force": "2020-06-04",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
