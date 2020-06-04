@@ -1,0 +1,3 @@
+3091 sayılı taşınmaz mal zilyetliğine yapılan tecavüzlerin önlenmesi hakkında kanun hükümleri gereğince alınan karar özetleri defteri
+MADDE 67 – (1) 3091 sayılı Taşınmaz Mal Zilyetliğine Yapılan Tecavüzlerin Önlenmesi Hakkında Kanun hükümlerince valilik ve kaymakamlığa yapılacak müracaatların kaydı, verilen kararların yazılması ve daha sonra yapılan işlemlerle ilgili sonucun bir arada görülmesini sağlamak üzere il idare kurulu müdürlüğünde 3091 Sayılı Kanun Gereğince Alınan Karar Özetleri Defteri elektronik ortamda tutulur.
+(2) Kararların asılları numara sırasına göre ayrı bir dosyada saklanır ve yılsonunda klasörüne konulur.

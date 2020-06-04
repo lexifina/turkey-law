@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.15030",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VALİLİK VE KAYMAKAMLIK BİRİMLERİ TEŞKİLAT, GÖREV VE ÇALIŞMA YÖNETMELİĞİ",
+  "number": "15030",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2011/15030",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15030&MevzuatTertip=5",
+  "source_sha256": "4717927493a19ba7c0fed24c790a36f985efa4344cebd27aa75d02d3846483fc",
+  "source_bytes": 188256,
+  "published": "2011-06-08",
+  "gazette": "27958",
+  "in_force": "2020-06-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-04",
+      "RG-4/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-04",
+      "4/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-04",
+      "RG-4/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-04",
+      "4/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-09-12",
+      "RG-12/9/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-09-12",
+      "12/9/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-28",
+      "RG-28/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-07-28",
+      "28/7/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-08-30",
+      "RG-30/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-30",
+      "30/8/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-20",
+      "RG-20/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-20",
+      "20/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

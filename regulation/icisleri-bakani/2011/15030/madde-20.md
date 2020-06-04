@@ -1,0 +1,9 @@
+Protokol şube müdürlüğünün görevleri
+MADDE 20 – (1) Protokol Şube Müdürlüğünün görevleri şunlardır:
+a) Ulusal ve resmi bayramlar ile tarihi günlerde yapılacak törenlerde; protokol düzenini uygulamak, anıtlara konulacak çelenklerin hazırlanma, taşınma ve sunulması işlerini organize ederek protokol düzenine göre yapılmasını sağlamak,
+b) 26/6/2006 tarihli ve 2006/11187 sayılı Bakanlar Kurulu Kararıyla yürürlüğe giren Devlet Cenaze Törenleri Yönetmeliğine göre düzenlenecek ulusal, resmi ve kurumsal cenaze törenleri ile ilgili işlemleri yapmak,
+c) İl kutlama ve anma komitelerinin toplantılarını organize etmek, kutlama ve anma törenlerinin ilgili kanun ve yönetmelikler çerçevesinde icra edilmesi için yetkili ve görevli kurum ve kuruluşlar ile gerekli işbirliği ve koordinasyonu sağlamak,
+ç) Resmi ziyaretler kapsamında; devlet büyüklerinin yurtiçi ve yurtdışı ziyaretleri ile yabancı devlet erkânının ülkemizi ziyaretlerinde, Dışişleri Bakanlığı Protokol Genel Müdürlüğü veya Cumhurbaşkanlığı, Başbakanlık, Bakanlık veya diğer kurum ve kuruluşlarının il teşkilatı düzeyinde hazırladıkları programlarını ilgili birimlere ulaştırmak ve gerekli koordinasyonu sağlamak,
+d) İl protokol listesinin güncel olarak tutulmasını ve valilik internet sitesinde yayınlanmasını sağlamak,
+e) Kamu ve toplum yaşamında uygulanan protokol kuralları olarak: Bayrak ve taşıt protokolü; toplantı, brifing ve tören protokolü; görev devir-teslim ve imza törenleri; kurumsal törenler ve etkinlikler, temel atma, açılış, anma, kutlama, festival, şenlik ve benzerleri; oturma düzenleri ve konuşma sıraları; davet, karşılama, ağırlama, uğurlama ile resepsiyon, kokteyl ve resmî yemekler; protokol yazıları; dini bayramlarda bayramlaşma ve benzeri temsil ile ilgili valiliğin protokol işlerini düzenlemek ve ilgili kuruluşlarla işbirliği halinde yürütmek,
+f) Mevzuat veya vali tarafından verilen diğer görevleri yapmak.

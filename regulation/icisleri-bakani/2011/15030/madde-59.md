@@ -1,0 +1,4 @@
+Dosyaların saklanmasında sorumluluk
+MADDE 59 – (1) Valilik ve kaymakamlık birimlerinde dosyalar, görevli memurun sorumluluğundadır ve ondan habersiz alınamaz. Zorunlu hallerde ise dosyanın yerine alındığına dair bir yazılı belge konulur.
+(2) Evrak veya dosyanın kurum dışına çıkarılması ilke olarak yasaktır. Vali, vali yardımcısı, kaymakam, müdür, şifre memuru gibi görevlilerin, hizmetin gerektirdiği hallerde, kurum dışına evrak götürmek zorunda kalmaları halinde en kısa sürede bu evrak veya dosya ilgili memuruna geri verilir.
+(3) Gizlilik dereceli ve muhafazası özel mevzuatı ile kurallara bağlanmış evrakın, gizli evrak için konulmuş esaslar içinde yangına, tabii afetlere, hırsızlığa karşı korunacak biçimde saklanmasından dosyalama memuru ile varsa o gizli evrakı muhafaza ile özel olarak görevlendirilmiş kişiler ortaklaşa sorumludur.
