@@ -1,0 +1,24 @@
+{
+  "number": "meeting-06-05",
+  "number_as_published": "meeting-06-05",
+  "year": 2020,
+  "title": "05 Haziran Meclis Kararları",
+  "decision_date": "2020-06-05",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2460/haziran-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2462/05-haziran-meclis-kararlari",
+  "source_sha256": "e7e1c0323c0df1a1891275ac3cf95af6e5817c1feb600c598b419a9928145c7f",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Haziran Meclis Kararları (year 2020 from the official year list '2020 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Haziran Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2462/05-haziran-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
