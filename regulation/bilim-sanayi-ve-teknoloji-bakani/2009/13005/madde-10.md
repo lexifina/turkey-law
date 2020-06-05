@@ -1,0 +1,4 @@
+Değiştirilebilir parçaların tip onayı
+MADDE 10 – (1) Bu Yönetmeliğe göre onaylanmış araçlara takılmak üzere tasarlanmış değiştirilebilir yeni kirlilik kontrol cihazları bu Yönetmeliğe ve uygulama tedbirleri ile ilgili mevzuata uygun olarak tip onayı verilmiş bir tipten değilse, bu cihazlar satılamaz veya bir araca yerleştirilemez.
+(2) Onay kuruluşu Bakanlık, bu Yönetmelikten önceki standartlara göre tasarlanan değiştirilebilir kirlilik kontrol cihazlarına, tabi olduğu şartlara uygun olmak kaydıyla, AT tip onayına kapsam genişletmesi vermeye devam edebilir. Değiştirilebilir kirlilik kontrol cihazlarının ilgili tipi onaylanmış tipten değilse, bu tür cihazlar satılamaz veya bir araca yerleştirilemez.
+(3) Aksam tip onayı şartlarının kabul edilmesinden önceki tip onaylı araçlara takılmak üzere tasarlanmış değiştirilebilir kirlilik kontrol cihazlarına birinci ve ikinci fıkra hükümleri uygulanmaz.

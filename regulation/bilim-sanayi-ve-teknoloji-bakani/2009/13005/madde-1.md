@@ -1,0 +1,4 @@
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı; 2918 sayılı Karayolları Trafik Kanunu hükümleri uyarınca motorlu araçların yapım ve kullanım bakımından karayolu yapısına ve trafik güvenliğine uyma zorunluluğunu yerine getirmek ve sağlık ve çevrenin korunması amacıyla, araçların motorlarından çıkan gaz emisyonlarının Euro 5 ve Euro 6 emisyon sınır değerlerini sağlamasını teminen; emisyonları bakımından motorlu araçların ve değiştirilebilir kirlilik kontrol cihazları gibi değiştirilebilir parçaların tip onayı için ortak teknik şartları, araçların dolaşımda uygunluğu, kirlilik kontrol cihazlarının dayanıklılığı, araç üzerinde teşhis (OBD) sistemleri, yakıt tüketiminin ölçülmesi (Mülga ibare:RG-5/6/2020-31146)(3) (…) ile ilgili usul ve esasları belirlemektir.
