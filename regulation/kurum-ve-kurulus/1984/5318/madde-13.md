@@ -1,0 +1,1 @@
+Madde 13- Kazı başkanlarının veya başkanların yetki verdiği şahısların kazıda bulunan ve müzeye teslim edilen Kültür Varlıkları üzerinde yapacakları bilimsel çalışmalarda müze idarelerince gerekli kolaylıklar sağlanır.

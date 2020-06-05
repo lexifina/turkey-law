@@ -1,0 +1,1 @@
+Madde 21- Yabancı kurum ve heyetlerce yapılan araştırma, kazı ve sondajlarda görevlendirilen Bakanlık temsilcilerinin yevmiye, yol masrafı, temsil ödeneği ve sualtı dalış tazminatı kazı başkanlarından peşinen tahsil edilip bir Devlet Bankasına yatırılan paradan ödenir. Temsil ödeneğinin miktarı her yıl Bakanlıkça tayin edilir.

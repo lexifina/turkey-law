@@ -1,0 +1,1 @@
+Madde 12- Kazı ve araştırma başkanları Kültür Varlıklarına zarar vermemek ve ticari amaçlarda kullanmamak şartı ile kazı ve araştırmada bulunan Kültür Varlıkları üzerinde mulaj, diapozitif, fotoğraf ve film alma gibi her türlü bilimsel çalışma hakkına sahiptir.
