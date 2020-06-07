@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.14977",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2011/6)",
+  "number": "14977",
+  "issuer": "Dış Ticaret Müsteşarlığı'nın bağlı olduğu Bakan",
+  "path": "teblig/2011/14977",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=14977&MevzuatTertip=5",
+  "source_sha256": "ab523c2523079b269f2974085d0145e9467616917f61fede31b46e3911bebb81",
+  "source_bytes": 21780,
+  "published": "2011-05-12",
+  "gazette": "27932",
+  "in_force": "2020-06-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-07",
+      "RG-7/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-07",
+      "7/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 382,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.14977%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
