@@ -1,0 +1,4 @@
+Başvuru
+MADDE 3 – (1) Gözetim belgesi taleplerine ilişkin başvuruların değerlendirmeye alınabilmesi için EK I’de yer alan "Gözetim Belgesi Başvuru Formu"nun usulüne uygun bir şekilde doldurulması ve EK II’deki belgelerle birlikte tam ve eksiksiz bir şekilde İthalat Genel Müdürlüğü’ne iletilmesi gerekmektedir. İthalat Genel Müdürlüğü, gerekli görmesi halinde, ek bilgi ve belgeler isteyebilir.
+(2) Gözetim belgesi düzenleme tarihinden itibaren, gözetim belgesi kapsamında ithal edilen eşyanın tümünün stokları bitinceye kadar Ek III’te yer alan tablonun Yeminli Mali Müşavirce onaylı olarak her 6 (altı) ayda bir İthalat Genel Müdürlüğü’ne iletilmesi zorunludur.
+(3) Yapılan beyanın gerçeğe aykırı olduğunun veya başvurularda sunulan bilgi ve belgelerde tutarsızlık bulunduğunun tespit edilmesi halinde gözetim belgesi düzenlenmez.
