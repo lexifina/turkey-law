@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.10995",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2007/4)",
+  "number": "10995",
+  "path": "teblig/2007/10995",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10995&MevzuatTertip=5",
+  "source_sha256": "e5e8f9ed7da98485f11cba714d31e98cd11ca7632bcae79678924cafc1e80b87",
+  "source_bytes": 26788,
+  "published": "2007-01-10",
+  "gazette": "26399",
+  "in_force": "2020-06-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"7/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-07",
+      "7/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-11",
+      "RG-11/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-11",
+      "11/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-07-28",
+      "28/7/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 15 inci gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 402,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10995%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
