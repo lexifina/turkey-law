@@ -1,0 +1,3 @@
+Şartnameler
+MADDE 14 – (1) İhalelerde, ihale konusu işin her türlü özelliğini belirten idari ve teknik şartnameler hazırlanır. İhale konusu işin teknik kriterlerine, ihale dokümanının bir parçası olan teknik şartnamelerde yer verilir. Belirlenecek teknik kriterler, verimliliği ve fonksiyonelliği sağlamaya yönelik, rekabeti engelleyici hususlar içermeyecek ve bütün istekliler için fırsat eşitliği sağlayacak nitelikte olmalıdır.
+(2) Sözleşmenin imzalanması ile teknik/idari şartname, sözleşmenin ayrılmaz bir parçası haline gelir.
