@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "423",
+  "decision_date": "2020-06-09",
+  "source_id": 32002,
+  "chamber": "5",
+  "ilam_number": "123",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32002/",
+  "source_sha256": "b8e56eab83a43117d788a284aad80f14aa0f53ebfbb000e5f592c33904f944d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
