@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20158302",
+  "number": "20158302",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ÇEYİZ HESABI VE DEVLET KATKISINA DAİR YÖNETMELİK",
+  "published": "2015-12-16",
+  "enacted": "2015-12-14",
+  "gazette_number": "29564",
+  "in_force": "2020-06-09",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 9/6/2020; source row: 8/6/2020 | 2625 | Geçici Madde 2 | 9/6/2020 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20158302&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "32fb2a04a9c97f89da03d607d2e46ac4c98916c1e0bb7afd1275f46f5a817533",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

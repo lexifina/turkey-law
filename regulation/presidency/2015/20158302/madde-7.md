@@ -1,0 +1,12 @@
+Devlet katkısı ödemesi
+MADDE 7- (1) Devlet katkısı, Bakanlık bütçesine bu amaçla konulan ödenekten karşılanır ve hak sahibine çeyiz hesabının bulunduğu banka aracılığıyla ödenir.
+(2) Katılımcı, evlilik tarihinden itibaren altı ay içerisinde uluslararası aile cüzdanı ve ilk evliliği olduğuna dair 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununun 44 üncü maddesi gereğince ilçe nüfus müdürlüklerinden alacağı belge ile çeyiz hesabının bulunduğu bankaya müracaat eder.
+(3) Banka ay içerisinde yapılan Devlet katkısı ödeme başvurularını kontrol eder ve takip eden ayın ilk on işgünü içerisinde Bakanlık tarafından hazırlanan form çerçevesinde tek liste halinde Bakanlığa iletir. Bakanlık söz konusu bilgileri bankalardan elektronik ortamda da istemeye yetkilidir.
+(4) Bakanlık, bankalar tarafından gönderilen belgelerin ulaşmasını takip eden 30 işgünü içerisinde, ilgili bilgi ve belgeleri kontrol eder ve Devlet katkısının çeyiz hesabının bulunduğu bankaya aktarılmasını sağlar. Bakanlıkça yapılacak ödemelerde çeyiz hesabının bulunduğu bankanın kayıtları ve Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü tarafından sağlanan bilgiler esas alınır.(2)
+(5) Banka, Devlet katkısını en geç Bakanlıkça aktarılmasını takip eden işgünü kendi nezdindeki hak sahibinin çeyiz hesabına aktarır veya hak sahibinin kullanımına hazır hale getirir.
+(6) Katılımcılara sadece tek çeyiz hesabı için Devlet katkısı ödenir. Birden fazla çeyiz hesabı açılması durumunda hesaplar birleştirilemez ve katılımcının Devlet katkısı için başvurduğu ilk hesaba Devlet katkısı ödenir.
+(7) Hak sahipliğinin tespitinden ve aktarılacak Devlet katkısının doğru ve tam hesaplanmasından çeyiz hesabının bulunduğu banka sorumludur. Banka hak sahipliğinin tespitinde, hak sahibi tarafından verilen ilk evliliği olduğuna dair belge ile kendi nezdindeki bilgileri kullanır.
+________________
+(1) 15/3/2019 tarihli ve 30715 sayılı Resmi Gazete’de yayımlanan 822 sayılı Cumhurbaşkanı Kararının 6 ncı maddesi ile (a) bendinde yer alan “10’udur” ibaresi “20’sidir”; “4.000” ibaresi “6.500” şeklinde, aynı fıkranın (b) bendinde yer alan “15’idir” ibaresi “22’sidir”; “4.500” ibaresi “7.500” şeklinde, aynı fıkranın (c) bendinde yer alan “20’sidir” ibaresi “25’idir”; “5.000” ibaresi “9.000” şeklinde değiştirilmiştir.
+(2) 15/3/2019 tarihli ve 30715 sayılı Resmi Gazete’de yayımlanan 822 sayılı Cumhurbaşkanı Kararının 7 nci maddesi ile bu fıkrada yer alan “on” ibaresi “30” şeklinde değiştirilmiştir.
+6562

@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Yönetmeliğin amacı; Türk vatandaşı olan veya 29/5/2009 tarihli ve 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamına giren kişilerin çeyiz hesabı ödeme planlarına, Devlet katkısına ilişkin hak ediş sürelerinin tespitine ve birikim yapılan süreler ile ödeme planlarına göre Devlet katkısı oranının ve azami tutarın farklılaştırılmasına, hesapların denetimine ve uygulamaya yönelik diğer hususlara ilişkin usul ve esasları belirlemektir.

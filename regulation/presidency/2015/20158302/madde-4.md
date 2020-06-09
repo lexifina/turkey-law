@@ -1,0 +1,8 @@
+Çeyiz hesabının açılması ve işletilmesine ilişkin genel esaslar
+MADDE 4- (1) Türk vatandaşları veya 5901 sayılı Türk Vatandaşlığı Kanununun 28 inci maddesi kapsamına giren kişiler bankalarda çeyiz hesabı açabilirler.
+(2) Çeyiz hesabı, bankaların yurtiçi şubelerinde Türk Lirası cinsinden mevduat hesabı, katılma hesabı veya özel cari hesap olarak açılabilir. Çeyiz hesabı ortak hesap olarak açılamaz.(1)
+(3) Katılımcı, çeyiz hesabının açılış tarihinde, bir defaya mahsus olmak üzere, hesabına 5 inci maddede belirtilen üst sınırı aşan bir tutar yatırabilir. Bu tutar 15.000 Türk Lirasını geçemez.
+(4) Çeyiz hesabı açılışında katılımcı ile banka arasında sözleşme ve gerektiğinde ürün işleyiş detaylarını içeren müşteri talimatı düzenlenir.
+(5) (Değişik:RG-15/3/2019-30715-C.K.-822/4 md.) Katılımcının aynı anda birden fazla aktif çeyiz hesabı bulunamaz.
+(6) (Ek:RG-15/3/2019-30715-C.K.-822/4 md.)(2) Çeyiz hesabı, katılımcıyı hak kaybına uğratmayacak şekilde bankalar arasında taşınabilir. Hesabın taşınmasına ilişkin olarak gerekli olan her türlü bilgi ve belgenin eksiksiz bir şekilde hesabın taşındığı bankaya iletilmesi ile bu işlemlerden doğacak her türlü hak kaybı ve zararın karşılanmasından hesabın hali hazırda bulunduğu banka sorumludur. Hesap taşıma işlemi dönem sonlarında ve katılımcının en az 1 ay öncesinden taşıma talebini bankaya bildirmesi şartıyla gerçekleştirilir. Bankalarca, hesabın taşınması sebebiyle katılımcıların hesap getirilerinden kesinti yapılamaz ve ücret, komisyon ve benzeri çeşitli adlar altında tahsilat yapılamaz.
+(7) 18 yaşından küçükler adına veli veya vasisi tarafından çeyiz hesabı açılabilir.

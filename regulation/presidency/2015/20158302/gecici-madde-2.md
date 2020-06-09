@@ -1,0 +1,2 @@
+Geçici Madde 2- (Ek:RG-9/6/2020-31150-C.K-2625/1 md.)
+(1) Bu maddeyi ihdas eden Yönetmelik değişikliğinin yürürlüğe girdiği tarihten 30/9/2020 tarihine kadar, 5 inci maddenin dört ve beşinci fıkralarında yer alan düzenli ödeme yapmama imkanı, aylık ödeme planını seçen katılımcılar için bir dönem içerisinde en fazla altı defa, üç aylık ödeme planını seçen katılımcılar için bir dönem içerisinde en fazla iki defa olarak uygulanır.

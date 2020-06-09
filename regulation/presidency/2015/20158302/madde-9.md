@@ -1,0 +1,5 @@
+Raporlama ve sorumluluk
+MADDE 9- (1) Bankalar çeyiz hesabına ilişkin bilgi ve belgeleri Bakanlık tarafından belirlenen usul ve esaslar çerçevesinde Bakanlığa iletir.
+(2) Bakanlık, Devlet katkısı ile ilgili ve sınırlı olmak kaydıyla bankalardan her türlü bilgi ve belgeyi, gerek yazılı gerekse elektronik ortamda istemeye yetkilidir.
+(3) 7 nci maddenin üçüncü fıkrasında yer alan sürelere uyulmamasından ve Bakanlığın talebi üzerine süresinde yapılmayan bildirimlerden kaynaklanan hak kayıplarından ve doğan zararlardan banka sorumludur.
+(4) Haksız olarak yapıldığı tespit edilen Devlet katkısının ödendiği tarihten tahsil edildiği tarihe kadar geçen süreye 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranında hesaplanacak faiz ile birlikte bir ay içinde ödenmesi gerektiği Bakanlık tarafından bir yazı ile bankaya bildirilir. Bu süre içinde ödeme yapılmaması hâlinde bu alacaklar, vergi dairesince anılan Kanun hükümlerine göre, ilgili bankalardan takip ve tahsil edilir.

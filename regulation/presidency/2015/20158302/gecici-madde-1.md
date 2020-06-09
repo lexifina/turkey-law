@@ -1,0 +1,2 @@
+Geçici Madde 1- (Ek:RG-15/3/2019-30715-C.K.-822/11 md.)
+(1) Bu maddeyi ihdas eden Yönetmelik değişikliğinin yürürlüğe girdiği tarihten önce Yeniden Değerleme Oranı uygulanmaması sebebiyle hesap bakiyesi alt limit üzerinden ödenmesi gereken tutarın altında kalan hesapların eksik kalan tutarları bu maddenin yürürlüğe girdiği tarihten itibaren üç ay içerisinde bankalar tarafından katılımcılara tamamlatılır. Katılımcı bazında eksik yatırılan aylar ve tutarlara ilişkin bilgiler Bakanlığa bildirilir.
