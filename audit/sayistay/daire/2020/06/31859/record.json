@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "422",
+  "decision_date": "2020-06-09",
+  "source_id": 31859,
+  "chamber": "5",
+  "ilam_number": "117",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31859/",
+  "source_sha256": "f6c997ccc3dcaf75e9b3df91580d403c795903c4b4a7476626b832e3d5d9f3b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
