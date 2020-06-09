@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "742",
+  "decision_date": "2020-06-09",
+  "source_id": 31754,
+  "chamber": "6",
+  "ilam_number": "259",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31754/",
+  "source_sha256": "3cc9a08c708013d90e414905c9a763772b911d80fb1cb71e12dc380ae53c19a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
