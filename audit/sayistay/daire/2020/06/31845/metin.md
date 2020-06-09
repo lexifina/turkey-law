@@ -1,0 +1,11 @@
+Fiili imalatın üzerinde hakkediş ödenmesi
+
+……. Çevre Düzenlemesi Yapılması İşinde yeni birim fiyatlı olarak sözleşme kapsamına alınan ……. poz numaralı “…….” imalatının fiili olarak gerçekleştirilenden fazla miktar üzerinden hakedişlere dahil edilerek ödenmesi suretiyle ……. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu Zararı” başlıklı 71 inci maddesinde kamu zararı; “Kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” olarak tanımlanmış ve (a) fıkrasında “İş, mal veya hizmet karşılığı olarak belirlenen tutardan fazla ödeme yapılması” (b) fıkrasında ise “Mal alınmadan, iş veya hizmet yaptırılmadan ödeme yapılması” kamu zararının belirlenmesinde esas alınacak kriterler arasında sayılmıştır.
+
+Yapılan incelemede, söz konusu iş ile ilgili ……. pozlu ……. iş kalemi teklif fiyata dahil edilmiş olmasına rağmen bu armatürlerin zeine montajında kullanılacak kasanın cetvele dahil edilmediği, işin devamında ……. kaleminin yeni fiyat uygulaması kapsamında sözleşmeye dahil edildiği, bununla birlikte ilgili montaj kasasının hakediş ödemesine esas metrajının ……. metre olduğu ancak; Denetçi tarafından yapılan fiziki incelemede yapılan imalat miktarının ……. metre olduğu, dolayısıyla ……. metrelik imalatın eksik yapılmasına rağmen hakediş ödemesinde ……. metre montaj yapılmış gibi ödeme yapılması suretiyle kamu zararına neden olunduğu, sorumluların savunmalarından ise meydana gelen kamu zararının tahsil edildiği anlaşılmıştır.
+
+Bu itibarla, ……. Çevre Düzenlemesi Yapılması İşinde yeni birim fiyatlı olarak sözleşme kapsamına alınan ……. poz numaralı “…….” imalatının fiili olarak gerçekleştirilenden fazla miktar üzerinden hakedişlere dahil edilerek ödenmesi suretiyle oluşan ……. TL kamu zararı, ahizi ……. Ltd. Şti.’den ……. tarihli hakedişten  mahsuben tahsil edildiğinden ilişilecek husus kalmadığına,
+
+İş bu ilamın tebliğ tarihinden itibaren 6085 sayılı Sayıştay Kanununun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
