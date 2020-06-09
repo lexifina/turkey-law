@@ -1,0 +1,5 @@
+Personel Çalıştırılması
+
+Denetçi tarafından düzenlenen sorguda, personel çalıştırılmasına dayalı hizmet alımı kapsamında Belediyenin ortağı olduğu … Tic.A.Ş.’de 31.12.2018 tarihinde işe başlatılan ….’un söz konusu şirkette işe alınması için gerekli olan şartlardan biri olan “Affa uğramış olsa bile devletin güvenliğine karşı, Anayasal düzene ve bu düzenin işleyişine karşı suçlardan mahkum olmamak” şartını taşımaması sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+Gönderilen savunmalardan ve raporun sonuç kısmından, ….'un yasaklanmış haklarının geri verilmesi kararı sonrası devlet memuru veya personel çalıştırılmasına dayalı hizmet alımı kapsamında belediyenin ortağı olduğu şirkette işçi olarak istihdamının mümkün olduğu anlaşıldığından …. TL için ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
