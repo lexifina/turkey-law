@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35621",
+  "decision_date": "2020-06-09",
+  "source_id": 31881,
+  "chamber": "2",
+  "ilam_number": "369",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31881/",
+  "source_sha256": "1e3db81fdbc1c078ddd4fb0d57c52ec40441bc71f64bc02d93663591e9b7c760",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
