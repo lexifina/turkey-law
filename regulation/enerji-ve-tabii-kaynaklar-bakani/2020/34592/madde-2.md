@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, umumi hayata müessir afetler nedeniyle en fazla 1 yıla kadar ertelenmesine karar verilen elektrik ve/veya doğal gaz tüketim bedellerinin tahakkuk ve/veya tahsilatına ilişkin, söz konusu ertelemeden kaynaklanan anapara haricindeki tüketicilerden tahsil edilmeyen bedellere ilişkin finansman maliyetinin gecikme zammı tutarını geçmemek üzere Enerji ve Tabii Kaynaklar Bakanlığı bütçesinden karşılanmasına yönelik iş ve işlemleri kapsar.
