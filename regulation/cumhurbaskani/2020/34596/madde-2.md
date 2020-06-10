@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, hizmet ve eserleri ile Türk kültür ve sanat hayatına önemli katkılarda bulunan, ülkemizin kültür ve sanatının yücelmesine çalışan, özgün eserleri veya hizmetleriyle üstün kabiliyet gösteren Türk vatandaşı ve yabancı uyruklu kişileri veya kurumları, Devlet adına onurlandırmak ve özendirmek üzere, Cumhurbaşkanlığınca verilecek ödüller ile buna ilişkin usul ve esasları kapsar.
