@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-06-10",
+  "issue": "31151",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Umumi Hayata Müessir Afetler Dolayısıyla Elektrik ve Doğal Gaz Tüketim Bedelleri Tahakkuk ve/veya Tahsilatlarının Ertelenmesi Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200610-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200610.htm",
+  "index_sha256": "52325281f6a60fcda803d8312effd2cc018c09eb4721a7ecaeaea301ab24df9d",
+  "index_header": "10 Haziran 2020 ... 31151 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200610.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
