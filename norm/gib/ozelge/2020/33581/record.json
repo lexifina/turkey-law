@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97726449-130[4780272385]-49485",
+  "source_id": 33581,
+  "date": "2020-06-11",
+  "title": "Dahilde işleme izni sahibi mükelleflerin ihraç kaydıyla teslimlerinde KDV iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33581",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "93e9ef0705506f0603fb857e27b3b595275c9cb1126d370384a975b5c8d709d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
