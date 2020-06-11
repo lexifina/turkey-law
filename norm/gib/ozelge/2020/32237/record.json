@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-130[150608]-E.45257",
+  "source_id": 32237,
+  "date": "2020-06-11",
+  "title": "9017.10.10.10.00 GTİP no.lu ürünün KDV oranı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32237",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "48300b4ee8fc3466334d980247978da7ecc9685392a570a893d998d73ef8fd1f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
