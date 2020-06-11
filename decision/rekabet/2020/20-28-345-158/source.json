@@ -1,0 +1,13 @@
+{
+  "number": "20-28/345-158",
+  "type": "Rekabet İhlali",
+  "decision_date": "2020-06-11",
+  "publication_date": "2020-11-16",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=1fa1365f-097a-4b8e-ae74-ca56ce94d12b",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=267",
+  "pdf_sha256": "b3563f315662bd434f80024bad8d49cf0b01f26948356bbd2f0d790368363b42",
+  "pdf_bytes": "1720040",
+  "pages": "59",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
