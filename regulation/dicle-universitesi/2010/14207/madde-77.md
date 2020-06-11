@@ -1,0 +1,4 @@
+İrtifak hakkı sözleşmesinin sona ermesi ve feshi
+MADDE 77 – (1) İrtifak hakkı sözleşme süresinin bitiminde sona erer.
+(2) Sözleşme hükümlerine aykırı davranılması, taşınmazın sözleşmede öngörülen amaç dışında kullanılması veya lehine irtifak hakkı kurulan tarafından talep edilmesi hâlinde, sözleşme İdarece feshedilir. Bu durumda, alınan teminatlar gelir kaydedilir. Ayrıca, taşınmaz üzerinde yapılması öngörülen yatırımın gerçekleştirilmeyen kısmının cari yıl maliyet bedelinin yüzde üçü oranında tazminat alınır.
+(3) İrtifak hakkı sözleşmesinin sona ermesi veya feshedilmesi hâlinde, özel hükümler saklı kalmak kaydıyla, taşınmazın üzerindeki tüm yapı ve tesisler sağlam ve işler durumda tazminat veya bedel ödenmeksizin Üniversiteye intikal eder ve bundan dolayı lehine irtifak hakkı kurulan tarafından veya üçüncü kişilerce her hangi bir hak ve talepte bulunulamaz.

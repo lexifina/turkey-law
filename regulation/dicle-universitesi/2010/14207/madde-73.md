@@ -1,0 +1,7 @@
+SEKİZİNCİ BÖLÜM
+Ön İzin, İrtifak Hakkı
+Ön izin verilmesi ve süre
+MADDE 73 – (1) Üniversite mülkiyetinde bulunan taşınmazlar üzerinde irtifak hakkı kurulmadan önce; tescil, ifraz, tevhit, terk gibi işlemlerin yapılması veya imar planının yaptırılması, değiştirilmesi ya da uygulama projelerinin hazırlanması ve onaylatılması gibi işlemlerin yerine getirilebilmesi için, bedeli karşılığında Kanunun 51 inci maddesinin birinci fıkrasının (g) bendine göre pazarlık usulüyle bir yıla kadar ön izin verilebilir. Gerekli hâllerde bu süre bedeli karşılığında uzatılabilir. Ancak, ön izin süresinin toplamı dört yılı geçemez. Ön izin ihalesinden önce ön izin şartnamesi düzenlenir.
+(2) Ön izin süresi içinde yükümlülüklerin yerine getirilmesi hâlinde, bedeli karşılığında irtifak hakkı kurulur. Ancak, ön izin süresi bitmeden önce irtifak hakkı kurulmasının talep edilmesi hâlinde, ön izin sözleşmesinde öngörülen yükümlülüklerin yerine getirilmiş olması kaydıyla, ön izin süresinin kalan kısmına ilişkin bedel, kurulacak irtifak hakkı bedelinden mahsup edilir.
+(3) Ön izin hakkı tesisinden önce ön izin sözleşmesi düzenlenir. Ön izin süresi içinde yükümlülüklerin ilgilinin kusuru dışında yerine getirilmesinin mümkün olamayacağının anlaşılması hâlinde, İdareye yapılacak başvuru üzerine sözleşme feshedilir ve teminat ile kalan süreye ilişkin ön izin bedeli iade edilir.
+(4) Ön izin sahibinin sözleşme süresi sona ermeden taahhüdünden vazgeçmesi hâlinde, İdarece sözleşme feshedilir. Bu durumda teminatı gelir kaydedilir ve kalan süreye ilişkin ön izin bedeli iade edilmez.

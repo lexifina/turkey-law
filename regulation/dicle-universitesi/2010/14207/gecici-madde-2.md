@@ -1,0 +1,3 @@
+Devam eden sözleşmelere ilişkin uygulama
+GEÇİCİ MADDE 2 – (Ek:RG-11/6/2020-31152)
+(1) Bu maddenin yayımlandığı tarihte halen devam eden bir yıldan uzun süreli kira, irtifak hakkı sözleşmelerinde ikinci ve izleyen yıllar bedelleri mevcut sözleşmeler, yenilenmeksizin 14 üncü madde hükümleri uyarınca hesaplanarak tahsil edilir. Ancak, 1/8/2018 tarihinden itibaren güncellenerek tespit edilen cari yıl kira, irtifak hakkı bedellerinin; 1/1/2019 tarihine kadar olan döneme isabet eden kısmı mevcut sözleşme hükümlerine göre, bu tarihten sonraki döneme isabet eden kısmı ise 14 üncü maddeye göre hesaplanarak gerekli tahsilat, mahsup ve iade gerçekleştirilir.

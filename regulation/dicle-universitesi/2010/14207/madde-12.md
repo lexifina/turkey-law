@@ -1,0 +1,10 @@
+Tahmin edilen bedel tespiti
+MADDE 12 – (1) Tahmin edilen bedel, İdarece tespit edilir veya ettirilir ve ihale komisyonunca karara bağlanarak İhale Komisyonu Taşınmaz Kıymet Takdir Kararında gösterilir. Bedel tespit ve takdirinde, taşınmazın konumu ve özellikleri göz önünde bulundurulmak suretiyle rayiç bedel esas alınır.
+(2) Ancak bu bedel;
+a) Satış veya trampada; taşınmazın emlak vergisine esas asgari metrekare birim değerinden, kirada ise ilk yıl için, taşınmazın emlak vergisine esas asgari metrekare birim değerinin yüzde beşinden,
+b) İrtifak hakkı kurulmasında ilk yıl için, taşınmazın üzerinde yapılması öngörülen yatırımın toplam maliyet bedelinin binde beşinden veya taşınmazın emlak vergisine esas asgari metrekare birim değerinin yüzde birinden, ön izin verilmesinde ilk yıl için, varsa taşınmaz üzerinde yapılması öngörülen yatırımın toplam maliyet bedelinin binde birinden veya taşınmazın emlak vergisine esas asgari metrekare birim değerinin binde beşinden
+az olamaz.
+(3) İdarece bedel tespit ve takdir edilirken gerektiğinde bedel veya bedelin hesabında kullanılacak fiyatlar, belediye, tarım müdürlüğü, ticaret odası, sanayi odası gibi ilgili kuruluşlardan veya bilirkişilerden de araştırılabilir.
+(4) Tahmini bedel; 28/7/1981 tarihli ve 2499 sayılı Sermaye Piyasası Kanununa tabi gayrimenkul değerleme şirketlerine tespit ettirilebilir. Bu şekilde tespit ettirilen bedel, tahmini bedel olarak dikkate alınır.
+(5) Üniversiteye ait olup 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 47 nci maddesi uyarınca kamu hizmetinin görülmesi amacıyla bu kanuna ekli cetvellerde sayılan kamu kurum ve kuruluşlarına tahsis edilen taşınmazlarda bulunan ve büfe, kantin, çay ocağı olarak kullanılmak üzere kiraya verilecek yerlerin tahmini kira bedeli, yukarıdaki hükümlere tabi olmaksızın kendisine tahsis yapılan kurum yetkililerinden alınacak bilgiler de göz önünde tutularak İdarece tespit edilir.
+(6) Tespit ve hesaplamalar bunun dayanaklarının da eklendiği bedel tespitine ait hesap tutanağında gösterilir, bu tutanak asıl evraklar arasında saklanır.

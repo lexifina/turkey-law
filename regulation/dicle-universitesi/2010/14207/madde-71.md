@@ -1,0 +1,4 @@
+Fiyat tespit komisyonu
+MADDE 71 – (Değişik:RG-11/6/2020-31152)
+(1) Üniversite taşınmazlarında kiralanan büfe, market, kantin, çay ocağı, kafeterya ve lokanta gibi yerlerde öğrencilere ve personele ihtiyaç duyacakları yiyecek, içecek, kırtasiye ve sair ihtiyaç maddelerinin kaliteli ve ucuz yoldan sunulmasını sağlamak amacıyla fiyat tespit komisyonu yılda iki defa olmak üzere her yılın Ocak ve Temmuz aylarında bu yerlerde satışa sürülen ürünlerin fiyatlarını tespit etmek üzere toplanır. Fiyat tespit komisyonunca belirlenen fiyatlar İdareye sunularak onaylanır.
+(2) Fiyat tespit komisyonunun görev süresi iki yıldır. Süre dolmadan komisyon üyeliğinin İdarece sonlandırılması veya komisyonun değiştirilmesi halinde kalan süreyi tamamlamak üzere yeni üye görevlendirilir. Üyeler aynı usulle tekrar görevlendirilebilir.

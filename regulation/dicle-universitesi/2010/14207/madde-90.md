@@ -1,0 +1,3 @@
+Ecrimisilin kesinleşmesi, vade tarihi ve tahsili
+MADDE 90 – (1) Ecrimisil; ecrimisil ihbarnamesinin, düzeltme talebinde bulunulmuş ise ecrimisil düzeltme ihbarnamesinin ilgilisine tebliğ tarihinden itibaren otuz gün içinde Strateji Geliştirme Daire Başkanlığına ödenir. Ecrimisil muhatabına tebliğ tarihini takip eden otuzuncu günün bitiminden itibaren kanuni faiz uygulanmak suretiyle tahsil edilir.
+(2) Ecrimisil ihbarnamesinin, düzeltme talebinde bulunulmuş ise ecrimisil düzeltme ihbarnamesinin tebliğ tarihinden itibaren otuz gün içinde rızaen ödenmeyen ecrimisil bedeli İdarece genel hükümlere göre icra takibi yapılmak veya dava açılmak suretiyle takip ve tahsil edilir.

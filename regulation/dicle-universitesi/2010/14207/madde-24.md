@@ -1,0 +1,2 @@
+Tekliflerin açılma zamanı
+MADDE 24 – (1) Tekliflerin açılma zamanı, Üniversitenin çalışma saati içinde olmak üzere tespit edilir. Açılma zamanı için Türkiye Radyo ve Televizyon Kurumu veya Posta ve Telgraf Teşkilatı Genel Müdürlüğünün saat ayarı esas alınır. Teklifler açılmaya başlandıktan sonra çalışma saatine bağlı kalmaksızın işleme devam olunur. Tekliflerin açılma zamanından sonra İhale Komisyonuna ulaşan teklifler dikkate alınmaz.
