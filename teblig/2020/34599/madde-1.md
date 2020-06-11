@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 3907.69.00.00.00 Gümrük Tarife İstatistik Pozisyonunda “Diğerleri” tanımı altında sınıflandırılan eşyanın ithalatında korunma önlemi uygulanması için yerli üretici tarafından yapılan başvuru neticesinde soruşturma açılması ve Ticaret Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecek soruşturmanın usul ve esaslarının belirlenmesidir.
