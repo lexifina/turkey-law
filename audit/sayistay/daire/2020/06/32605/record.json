@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "391",
+  "decision_date": "2020-06-11",
+  "source_id": 32605,
+  "chamber": "7",
+  "ilam_number": "166",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32605/",
+  "source_sha256": "4cfb886e80f393bec55065b528731716607527334085a3c7518373161e6fd7e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
