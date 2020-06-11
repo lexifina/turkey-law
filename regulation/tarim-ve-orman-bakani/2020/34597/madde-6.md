@@ -1,0 +1,8 @@
+Doğadan akrep türlerinin yakalanması
+MADDE 6 – (1) Doğadan akrep türlerinin yakalanması yasaktır. Ancak; insan veya hayvan sağlığı için akrep zehrinden elde edilen ürünlerin üretilmesi maksadıyla izin ve onay süreci tamamlanmış üretim tesislerine damızlık sağlanması için akrep türlerinin doğadan yakalanmasına, mevcut akrep türlerinin doğal yayılış alanı içerisindeki popülasyon devamlılığına olumsuz bir etkisinin olmaması durumunda, izin verilebilir.
+(2) Üreme dönemleri içerisinde doğadan akrep türleri yakalanamaz.
+(3) Hayvanlara acı çektiren, uzuvlarına zarar veren, davranışları üzerine olumsuz etkisi olan ve aynı zamanda taraf olunan uluslararası sözleşmeler ve ilgili mevzuat çerçevesinde yasaklanan yöntemlerle doğadan akrep türlerinin yakalanması yasaktır.
+(4) Hayvanların türlerine göre; insanlara, hayvanlara ve çevreye zarar vermelerini engelleyecek ve kaçmalarını önleyecek önlemler, üretim tesisi sahiplerince alınır. Tesis sahibi tarafından doğadan yakalanan anaç bireylerin, bu bireylerden elde edilen yavruların ve ölen bireylerin sayılarının bir envanter defterinde düzenli olarak tutulması sağlanır. Kaçan akreplerin yakalanma masrafları ile bu hayvanların vereceği tüm zararlardan, üretim tesisi sahibi sorumludur.
+(5) Üretim tesisinde bulunan akrep türleri, Genel Müdürlüğün izni olmadan üretim tesislerince doğaya bırakılamaz.
+(6) Üretim tesisinde bulunan akreplerin nakli, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Yurt İçinde Canlı Hayvan ve Hayvansal Ürünlerin Nakilleri Hakkında Yönetmelik hükümlerine göre yapılır ve nakil sırasında akreplerin doğaya kaçmaması için gerekli tedbirler alınır.
+(7) Doğadan yakalanan veya tesiste üretilen akreplerin ve yumurtalarının yurt dışına gönderilmesi veya satılması yasaktır.

@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34597",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AKREP TÜRLERİNİN DOĞADAN YAKALANMASINA İLİŞKİN USUL VE ESASLARA DAİR YÖNETMELİK",
+  "number": "34597",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2020/34597",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34597&MevzuatTertip=5",
+  "source_sha256": "9d495742fa509959e346840143dd7c6bb20b6b05a9b37d8cb169bb96cd317270",
+  "source_bytes": 41933,
+  "published": "2020-06-11",
+  "gazette": "31152",
+  "in_force": "2020-06-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.06.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1227,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34597-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

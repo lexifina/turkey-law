@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 9 ve 20 nci maddelerine, 24/6/2004 tarihli ve 5199 sayılı Hayvanları Koruma Kanununun 1, 4, 10 ve 28 inci maddelerine, Avrupa’nın Yaban Hayatı ve Yaşama Ortamlarını Koruma Sözleşmesinin 3 üncü maddesine, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 413, 415 ve 420 nci maddelerine dayanılarak hazırlanmıştır.
