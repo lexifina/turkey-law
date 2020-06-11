@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19579043-105[2019]-47309",
+  "source_id": 22381,
+  "date": "2020-06-11",
+  "title": "Belediyeye bağlı iktisadi işletmelerin P.S.F. veya Ö.K.C.Fişlerinin gider kaydedilip kaydedilemeyeceği, KDV nin indirilip indirilemeyceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22381",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "c2e59b78cedab508fa33092028fa12d220de9e066301d0fa10a287b38b275f22",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
