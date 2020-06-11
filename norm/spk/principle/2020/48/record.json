@@ -1,0 +1,90 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "48",
+  "decision_number": "35/735",
+  "date": "2020-06-11",
+  "title": "Kurul'un 11/06/2020 Tarih ve 35/735 Sayılı Kararı ",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/48",
+  "source_sha256": "decba695fdd2b74d8c19e93ad4e9f59bb5d68ec1fb33ec5bada251d603257345",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 48,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’nın 11/06/2020 tarih ve 35/735 sayılı Kararı Uyarınca Yapılan Duyuru:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2020-06-11",
+    "source_clauses": [
+      "1. Kurul Karar Organı’nın 11/06/2020 tarih ve 35/735 sayılı Kararı Uyarınca Yapılan Duyuru:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "7c6aaf07-3bfe-47b9-b340-3b5803e782bf",
+    "contentSource": "IlkeKarari",
+    "contentID": 48,
+    "tur": "Kurul Kararı",
+    "title": "Kurul'un 11/06/2020 Tarih ve 35/735 Sayılı Kararı ",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2020-06-11T00:00:00",
+    "kurulKararTarih": "11.06.2020",
+    "kurulToplantiNo": "35/735",
+    "bultenYili": 2020,
+    "bultenNo": 36,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "168:Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği;170:Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği;167:Yatırım Fonlarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 168,
+        "value": "Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      {
+        "key": 170,
+        "value": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      },
+      {
+        "key": 167,
+        "value": "Yatırım Fonlarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;125:Yatırım Fonlarına İlişkin Rehber;60:Borsa Yatırım Fonları;36:Yatırım Fonları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 125,
+        "value": "Yatırım Fonlarına İlişkin Rehber"
+      },
+      {
+        "key": 60,
+        "value": "Borsa Yatırım Fonları"
+      },
+      {
+        "key": 36,
+        "value": "Yatırım Fonları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/48",
+    "linkTarget": "_blank"
+  }
+}
