@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "36062021-135[2019/ÖZE-03]-29313",
+  "source_id": 33637,
+  "date": "2020-06-12",
+  "title": "Akıllı telefonların tesliminde ÖTV'nin ne şekilde hesaplanacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33637",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ae6a79c59bfef8275f0509186e372c95cdb0ea69f9984ea597e0381aae0cdeeb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
