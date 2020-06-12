@@ -1,0 +1,4 @@
+Çalışma izin belgesinin kaybolması veya değişiklikler
+MADDE 8 – (1) Çalışma izninin kaybolması veya okunmayacak şekilde tahrip olması durumunda, gazete ilanı ya da tahrip olmuş çalışma izninin eklendiği bir dilekçeyle çalışma izninin verildiği il/ilçe müdürlüğüne müracaat edilir. Uygun görülmesi halinde çalışma izin belgesi yeniden düzenlenir.
+(2) Çalışma izni almış satıcılar, izin belgesinde bulunan bilgilerden birinin değişmesi halinde bir ay içerisinde çalışma izninin aslı ve bir dilekçe ile çalışma izninin verildiği il/ilçe müdürlüğüne başvurur. Değişiklik için il/ilçe müdürlükleri gerekli hallerde ilave bilgi ve belgeleri isteyerek çalışma izni üzerinde gerekli düzeltmeyi yapar veya il/ilçe müdürlüğü tarafından yeniden çalışma izni verilir. Yeni çalışma izni verilirken izin numarası değiştirilmeden yeni tarih ile verilir.
+(3) Çalışma izninde yapılan değişiklikler kayıt sistemine kaydedilir.
