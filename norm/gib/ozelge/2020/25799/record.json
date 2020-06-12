@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "99689007-105[VUK:3-12]-E.18045",
+  "source_id": 25799,
+  "date": "2020-06-12",
+  "title": "Yabancı ülke internet alış veriş sitesi üzerinden yurtdışından yapılan alışların tevsikinde kullanılabilecek belge ve yurtdışına satış işlemlerinde düzenlenmesi gereken belge hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25799",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "48455e10a9499d50b447d45e42e7cd019c655691d2c93699698d5efe4cb7305e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
