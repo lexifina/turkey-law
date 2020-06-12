@@ -1,0 +1,6 @@
+İl/ilçe müdürlüğü tarafından yapılacak iş ve işlemler
+MADDE 8 – (1) Desteklemeden yararlanmak üzere yapılan müracaatlar, il/ilçe müdürlüğü tarafından bu Tebliğ kapsamında istenen belge ve belgelerdeki bilgiler kontrol edilerek SUBİS’e kaydedilir ve veri girişleri yapılır.
+(2) İl/ilçe müdürlüğü tarafından, SUBİS’e girilen bilgiler esas alınarak Ek-4’te yer alan İşlenmiş Su Ürünleri Desteklemeleri İlçe İcmali (İcmal-1) oluşturulur. Oluşturulan İcmal-1’ler il/ilçe müdürlüğü ilan panosunda beş iş günü askıya çıkarılır. Askıya çıkarma ve indirme işlemi en az iki görevli tarafından tutanağa bağlanır.
+(3) İcmal-1’lere yapılacak itirazlar askı süresi içinde il/ilçe müdürlüğüne yapılır. İtirazlar askı süresi içinde değerlendirilerek il/ilçe müdürlüğü tarafından karara bağlanır. Askı süresince herhangi bir itiraz olmaz ise İcmal-1’ler kesinleşmiş kabul edilir.
+(4) İlçe müdürlüğünce düzenlenen İcmal-1’ler askıdan indirilmesini müteakip onaylanarak en geç beş iş günü içinde il müdürlüğüne gönderilir.
+(5) İl müdürlüğüne gelen onaylı İcmal-1’ler, SUBİS’teki kayıtları üzerinden kontrol edilir ve Ek-5’te yer alan İşlenmiş Su Ürünleri Desteklemeleri İl İcmali düzenlenip onaylanarak beş iş günü içerisinde Balıkçılık ve Su Ürünleri Genel Müdürlüğüne gönderilir.

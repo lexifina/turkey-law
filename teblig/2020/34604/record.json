@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34604",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞLENMİŞ SU ÜRÜNLERİ DESTEKLEME TEBLİĞİ (TEBLİĞ NO: 2020/17)",
+  "number": "34604",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2020/34604",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34604&MevzuatTertip=5",
+  "source_sha256": "9a92edecc8731bebe7b30ebe7eac4333bee1b686349df475817909f848190f09",
+  "source_bytes": 58132,
+  "published": "2020-06-12",
+  "gazette": "31153",
+  "in_force": "2020-06-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.06.2020); own commencement article: \"Bu Tebliğ 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2020 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1875,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34604-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
