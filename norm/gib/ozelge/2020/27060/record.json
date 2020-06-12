@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV-1/İ/29-2019/20]-154267",
+  "source_id": 27060,
+  "date": "2020-06-12",
+  "title": "Konkordato ilan eden firmadan olan alacağın vergi kanunları karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27060",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "fec7f7769571b9a0ceef6a94966a3639f6afc377644aca2e48f0717016780cc7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
