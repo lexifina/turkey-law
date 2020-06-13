@@ -1,0 +1,3 @@
+Gemilerin tank kapasitesi ve atık kabul tesisleri
+MADDE 16 – (1) Türk bayrağı çekme hakkı bulunan ve Antarktika Andlaşma Bölgesinde faaliyette bulunacak olan veya bu faaliyetleri destekleyen gemilerin, Antarktika Andlaşma Bölgesine girmeden önce MARPOL Sözleşmesinin birinci, ikinci ve dördüncü ekleri kapsamındaki atıklar ile MARPOL Sözleşmesinin beşinci eki kapsamındaki atıkların depolanması için gemide yeterli kapasite oluşturulur. Kapasitenin uygunluğunun gemiye ait ilgili belgeler üzerinden kontrolü seferi koordine eden tüzel kişinin sorumluluğundadır.
+(2) Gemilerin Antarktika Andlaşma Bölgesini terk ettikten sonra atıklarını atık kabul tesislerine teslim ettiğine ilişkin bilgiler seferi koordine eden tüzel kişi tarafından kontrol edilir.

@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34606",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANTARKTİKA’DA ÇEVRE KORUMA PROTOKOLÜNÜN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "34606",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2020/34606",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34606&MevzuatTertip=5",
+  "source_sha256": "078598c0919ec1f6a8bba2cc47c68360ecffeb9571742de637d1ee3b4b279eee",
+  "source_bytes": 65068,
+  "published": "2020-06-13",
+  "gazette": "31154",
+  "in_force": "2020-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3769,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34606-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Katı atıkların denize boşaltımı
+MADDE 14 – (1) Kâğıt ürünler, bez parçaları, cam, metal, şişeler, seramik ve porselen malzemeler, kül, talaş, koruma ve kaplama malzemeleri dâhil tüm atıklar ile sentetik halatlar, sentetik balık ağları ve plastik çöp torbaları da dâhil bütün plastiklerin denize atılması yasaktır.
+(2) Antarktika Andlaşma Bölgesi içerisinde gemilerden kaynaklı olarak, MARPOL Sözleşmesinin beşinci ekinde izin verilen durumlar hariç olmak üzere, gıda atıkları parçalayıcı veya öğütücüden geçirildiğinde karadan veya buz sahanlığından 12 mil uzaklıkta denize tahliye edilebilir. Bu gıda atıklarının parçalandıktan sonra boyutlarının 25 milimetreden büyük olmasına izin verilmez.
