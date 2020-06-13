@@ -1,0 +1,15 @@
+{
+  "number": "K-2020/46105",
+  "award_date": "2020-06-13",
+  "heading_as_published": "13/06/2020 Tarih ve K-2020/46105 Sayılı Hakem Kararı (Nakliyat)",
+  "issue": "Hakem Karar Dergisi 42 Nisan - Haziran 2020",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs42.pdf",
+  "source_sha256": "c0db26515d35512f3f86d3477075d75834499a5ac83dbe3b663acf8870a93cbb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
