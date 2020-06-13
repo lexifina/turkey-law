@@ -1,0 +1,2 @@
+Kredi derecelendirmesi
+MADDE 7- (1) İhraç edilecek borçlanma araçlarına ilişkin olarak kredi derecelendirmesi yapılması durumunda, ihraç edilecek borçlanma aracının kredi derecelendirmesini yapan derecelendirme kuruluşunun, derecelendirme notuna esas teşkil eden bilgileri vade boyunca yılda en az bir sefer olmak üzere ve Kurulun sermaye piyasasında derecelendirme faaliyeti ve derecelendirme kuruluşlarına ilişkin düzenlemeleri çerçevesinde notun güncellenmesini gerektiren durumlarda düzenli olarak gözden geçirmesi zorunludur.

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 35– (1) 21/1/2009 tarihli ve 27117 sayılı Resmî Gazete’de yayımlanan Borçlanma Araçlarının Kurul Kaydına Alınması ve Satışına İlişkin Esaslar Hakkında Tebliğ (Seri: II, No: 22) yürürlükten kaldırılmıştır. Kurulun diğer düzenlemelerinde Borçlanma Araçlarının Kurul Kaydına Alınması ve Satışına İlişkin Esaslar Hakkında Tebliğ (Seri: II, No: 22)’e yapılan atıflar bu Tebliğe yapılmış sayılır.

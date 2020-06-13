@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 3– (1) Bu Tebliğde geçen;
+a) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan bankaları,
+b) (Değişik:RG-18/2/2017-29983) Finansman bonosu: İhraççıların bu Tebliğ hükümlerine göre borçlu sıfatıyla düzenleyip sattığı ve nominal değerinin vade tarihinde veya vade tarihine kadar taksitler halinde yatırımcıya geri ödenmesi taahhüdünü içeren, vadesi 30 günden az 364 günden fazla olmayan borçlanma aracını,
+c) (Değişik:RG-18/2/2017-29983) Borçlanma araçları: İhraççıların bu Tebliğ hükümlerine göre borçlu sıfatıyla düzenleyerek ihraç ettikleri tahvilleri, paya dönüştürülebilir tahvilleri, değiştirilebilir tahvilleri, finansman bonolarını, kıymetli maden bonolarını ve bu Tebliğin 34 üncü maddesi çerçevesinde niteliği itibari ile borçlanma aracı olduğu Kurulca kabul edilecek sermaye piyasası araçlarını,
+ç) Borsa: Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan borsayı,
+d) Değiştirilebilir tahvil (DET): İhraççı tarafından çıkarılan ve payları borsalarda işlem gören diğer ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracını,
+e) Derecelendirme kuruluşu: Türkiye'de kurulan ve Kurulun sermaye piyasasında derecelendirme faaliyeti ve derecelendirme kuruluşlarına ilişkin düzenlemeleri çerçevesinde derecelendirme faaliyetinde bulunmak üzere Kurulca yetkilendirilen derecelendirme kuruluşları ile Türkiye’de derecelendirme faaliyetlerinde bulunması Kurulca kabul edilen uluslararası derecelendirme kuruluşlarını,
+f) İhraç: Borçlanma araçlarının ihraççılar tarafından çıkarılıp, halka arz edilerek veya halka arz edilmeksizin satışını,
+g) İhraççı: Borçlanma araçlarını ihraç eden, ihraç etmek üzere Kurula başvuruda bulunan veya borçlanma araçları halka arz edilen tüzel kişileri,
+ğ) Kamuyu Aydınlatma Platformu (KAP): Mevzuat uyarınca kamuya açıklanması gerekli olan bilgilerin elektronik imzalı olarak iletildiği ve kamuya duyurulduğu elektronik sistemi,
+h) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+ı) Kıymetli maden bonoları: Kıymetli madenin işlem gördüğü borsalara üye olan kıymetli maden aracı kurumlarının belli miktarda kıymetli maden cinsinden ihraç ettikleri ve nominal değerinin vade tarihinde yatırımcıya geri ödenmesi taahhüdünü içeren, vadesi 30 günden az 364 günden fazla olmayan borçlanma aracını,
+i) Kurul: Sermaye Piyasası Kurulunu,
+j) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+k) Ortaklık: Anonim ortaklığı,
+l) Paya dönüştürülebilir tahvil (PDT): İhraççı ortaklığın sermaye artırımı suretiyle çıkaracağı paylara veya izahnamede veya ihraç belgesinde belirtilen esaslar çerçevesinde temin edilen ihraççı paylarına dönüştürme hakkı veren borçlanma aracını,
+m) (Değişik:RG-18/2/2017-29983) Tahvil: İhraççıların bu Tebliğ hükümlerine göre borçlu sıfatıyla düzenleyip sattığı ve nominal değerinin vade tarihinde veya vade tarihine kadar taksitler halinde yatırımcıya geri ödenmesi taahhüdünü içeren, vadesi 365 gün veya daha uzun olan borçlanma aracını,
+n) TCMB: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+o) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+ö) TTSG: Türkiye Ticaret Sicili Gazetesini,
+p) Yetkili kuruluş: Kurulca Kanunun 37 nci maddesi uyarınca bu Tebliğde sayılan yatırım hizmetleri ve faaliyetlerini gerçekleştirmek üzere yetkilendirilmiş yatırım kuruluşlarını,
+ifade eder.

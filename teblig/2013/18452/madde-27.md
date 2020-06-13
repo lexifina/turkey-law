@@ -1,0 +1,6 @@
+İtfa planına bağlı değiştirme
+MADDE 27– (1) DET’lerin paylar ile taksitler halinde değiştirilmesi durumunda, son taksidin DET’in vade tarihine denk gelecek şekilde belirlenmesi zorunludur.
+(2) İhraççı, DET’lerin paylar ile değiştirilmesi hakkının kullanılabilmesi için, değiştirmeye ilişkin talep toplama süresinin başlangıç tarihinden en az on beş gün önce KAP’ta özel durum açıklaması yapar. Yapılacak özel durum açıklamasında, değiştirmeye ilişkin talep toplama tarihleri, başvuru yerleri ile değiştirmeye ilişkin diğer hususlar belirtilir. Değiştirmeye ilişkin talep toplama süresi on iş gününü geçemez. DET sahipleri değiştirme süresi içinde bu haklarını, DET’lerini paylar ile değiştirmek veya anaparalarını işlemiş faiziyle birlikte geri almak üzere kullanırlar. İhraççı değiştirme talebinde bulunan DET sahiplerine yönelik olarak, değiştirilecek DET tutarı karşılığında verilmesi gereken miktardaki paylarını değiştirmek üzere DET sahiplerine arz eder.
+(3) Değiştirilecek DET’lere ilişkin olarak yapılacak talep toplama ve bildirim işlemlerinin yetkili kuruluş vasıtası ile yapılması zorunludur.
+(4) Değiştirmeye ilişkin talep toplama süresi içerisinde talepte bulunmayan DET sahiplerinin tüm hakları devam eder.
+(5) Değiştirme işlemlerinin itfa planına uygun olarak tam ve zamanında yerine getirilmesinden ihraççı sorumludur.

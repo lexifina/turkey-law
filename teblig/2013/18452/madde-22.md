@@ -1,0 +1,4 @@
+PDT sahibinin talebine bağlı olarak dönüştürme
+MADDE 22– (1) PDT’lerin tamamı veya bir kısmı PDT sahibinin talebine bağlı olarak vadeden önce paylara dönüştürülebilir.
+(2) Dönüştürme hakkını kullanmak isteyen PDT sahipleri, PDT’lerin ihracı esnasında belirtilmiş olan tarihlerden en erken bir ay önce dönüştürme hakkının kullanımı için ortaklığa bildirimde bulunurlar. Bu bildirimin yetkili kuruluş vasıtası ile yapılması zorunludur. Ortaklık, söz konusu bildirimin kolaylıkla yapılabilmesi için gerekli önlemleri alır.
+(3) Dönüştürme hakkı kullanılmak üzere talepte bulunulan toplam PDT’ler karşılığında verilecek pay sayısının, ortaklığın toplam pay sayısına oranının yüzde beşin altında kalması durumunda halka açık ihraççılar tarafından sermaye artırımı yapılmayabilir. Dönüştürme işlemlerinin tam ve zamanında yerine getirilmesinden ortaklık sorumludur.

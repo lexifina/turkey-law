@@ -1,0 +1,2 @@
+Diğer hususlar
+MADDE 13- (1) İzahnamenin ve ihraç belgesinin içeriğine, hazırlanmasına, onaylanmasına, yayınlanmasına, tescil ve ilanına, izahnamede yer alacak finansal tablolara, izahnamedeki değişikliklere ve ihraççılar tarafından yapılacak ilan ve reklamlara ilişkin hususlarda, borçlanma araçlarının ihraç ve satış esasları ile ihraççıların finansal raporlama, bağımsız denetim ve kamuyu aydınlatma yükümlülüklerinin belirlenmesinde ve bu Tebliğde yer almayan diğer konularda Kurulun ilgili düzenlemelerine uyulur.

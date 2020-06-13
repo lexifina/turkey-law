@@ -1,0 +1,6 @@
+Değiştirme fiyatı ve oranı
+MADDE 25– (1) Değiştirme fiyatı, DET sahiplerine sahip oldukları tahviller karşılığında verilecek paylar için esas alınacak fiyattır.
+(2) (Değişik:RG-18/2/2017-29983) Değiştirme oranı, değiştirme sırasında DET’in nominal değeri karşılığında verilecek pay sayısını gösterir. Halka arz edilecek DET’lerin değiştirme oranına ilişkin rapor yetkili kuruluş tarafından, DET’lere ilişkin izahnamenin onaylanmak amacıyla Kurula gönderilmesi aşamasında hazırlanır.
+(3) (Değişik:RG-18/2/2017-29983) DET’lerin halka arz edilmeksizin satılması durumunda itfa tarihinde uygulanacak değiştirme fiyatının belirlenmesinde, payları borsada işlem gören ortaklıkların halka arz edilmeksizin gerçekleştirecekleri sermaye artırımlarına ilişkin fiyat tespit esasları uygulanır.
+(4) (Değişik:RG-18/2/2017-29983) İhraç edilmiş DET’lere ilişkin değiştirme işlemleri, ihraççının ve mevcut ortakların hak ve menfaat kaybına neden olacak şekilde gerçekleştirilemez.
+(5) (Değişik:RG-18/2/2017-29983) İhraç edilen DET’lerin vadesi içerisinde sermaye artırımı, kar payı ödemesi ve benzeri nedenlerle pay fiyatını etkileyen işlemler olması durumunda değiştirme oranının belirlenmesinde düzeltilmiş fiyatlar esas alınır. Yeniden hesaplanan değiştirme oranının yatırımcılara nasıl duyurulacağına ilişkin esaslara izahname veya ihraç belgesinde yer verilir.

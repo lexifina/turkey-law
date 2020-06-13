@@ -1,0 +1,8 @@
+Mevcut başvuruların sonuçlandırılması
+Başvuruların sonuçlandırılması
+GEÇİCİ MADDE 1 – (Başlığı ile birlikte değişik:RG-18/2/2017-29983)
+(1) Bu maddenin yürürlüğe girdiği tarihte Kurul Karar Organı tarafından karara bağlanmamış izahname veya ihraç belgesi onay başvuruları, bu Tebliğ hükümlerine göre sonuçlandırılır.
+(2) Bu maddenin yürürlüğe girdiği tarihten önce Kurulca onaylanan ihraç belgeleri kapsamında yurt dışında yapılacak tertip ihraçlarında bu Tebliğin 6 ncı maddesinin dördüncü fıkrası kapsamında Kurula başvuru yapılması mümkündür. Bu durumda tertip ihraç başvurusunu yapmak üzere belirlenmiş olan güvenli elektronik imza sahibi kişilere ilişkin bilgiler (adı, soyadı, T.C. kimlik numarası, iletişim bilgileri) Kurula iletilir.
+(3) 9 uncu madde çerçevesinde hesaplanacak ihraç limitleri, derecelendirme kuruluşlarından talebe bağlı olarak yatırım yapılabilir seviyenin en yüksek ilk üç kademesine denk gelen uzun vadeli derecelendirme notu alan 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanmış olan finansal kuruluşlar ve Kanunda tanımlanan sermaye piyasası kurumları ile 21/11/2012 tarihli ve 6361 sayılı Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanununda tanımlanmış olan şirketler bakımından 31/12/2017 tarihine kadar Kurulca onaylanacak ihraç tavanları için geçerli olmak üzere yüzde yüz oranında artırılır.
+(4) Bu maddenin yürürlüğe girdiği tarihten sonra yapılacak ihraçlarda Kurula yatırılacak ücretin hesaplanmasında bu Tebliğ hükümleri uygulanır.
+(5) Bu maddenin yürürlüğe girdiği tarihten önce Kurulca onaylanan ve MKK’da kaydileştirilen yurt dışı ihraç tavanları dahilinde yapılacak tertip ihraçlarının MKK nezdinde kaydileştirilmeye devam edilmesi mümkündür.

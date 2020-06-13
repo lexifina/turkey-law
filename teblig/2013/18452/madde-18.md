@@ -1,0 +1,7 @@
+Dönüştürme fiyatı ve oranı
+MADDE 18– (1) Dönüştürme fiyatı, PDT sahiplerine sahip oldukları tahviller karşılığında verilecek paylar için esas alınacak fiyattır.
+(2) (Değişik:RG-18/2/2017-29983) Dönüştürme oranı, dönüştürme sırasında PDT’nin nominal değeri karşılığında verilecek pay sayısını gösterir. Halka arz edilecek PDT’lerin dönüştürme oranına ilişkin rapor, yetkili kuruluş tarafından PDT’lere ilişkin izahnamenin onaylanmak amacıyla Kurula gönderilmesi aşamasında hazırlanır
+(3) Dönüştürme oranının küsuratlı olması durumunda, dönüştürme sırasında toplam üzerinden küsurata isabet eden pay tutarı PDT sahibine nakden ve peşinen ödenir. Bu hesaplamada dönüştürme fiyatı esas alınır.
+(4) Payları borsada işlem gören ortaklıklarca ihraç edilecek PDT’lerin halka arz edilmeksizin satılması durumunda, dönüştürme fiyatının uygulanmasında payları borsada işlem gören ortaklıkların halka arz edilmeksizin gerçekleştirecekleri sermaye artırımlarına ilişkin fiyat tespit esasları dikkate alınır.
+(5) İhraç edilmiş PDT’lere ilişkin dönüştürme işlemleri, ortaklığın ve mevcut ortaklarının hak ve menfaat kaybına neden olacak şekilde gerçekleştirilemez.
+(6) İhraç edilen PDT’lerin vadesi içerisinde sermaye artırımı, kar payı ödemesi ve benzeri nedenlerle pay fiyatını etkileyen işlemler olması durumunda dönüştürme oranının belirlenmesinde düzeltilmiş fiyatlar esas alınır. Yeniden hesaplanan dönüştürme oranı ortaklık tarafından KAP’ta yapılan özel durum açıklaması ile kamuya duyurulur. Bu durumda izahnamede değişiklik yapılması gerekmez.

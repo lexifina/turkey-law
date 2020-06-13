@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Son ve Geçici Hükümler
+Diğer borçlanma araçlarına ilişkin onay başvurularının Kurulca sonuçlandırılması
+MADDE 34– (1) Bu Tebliğde sayılmamakla birlikte, Kurulun diğer düzenlemelerinin kapsamı içinde yer almayan ve niteliği itibari ile borçlanma aracı olduğu Kurulca kabul edilecek sermaye piyasası araçlarına ait izahname veya ihraç belgesinin onaylanmasına ilişkin başvurular, bu Tebliğ hükümlerinin kıyasen uygulanması suretiyle sonuçlandırılır.
+(2) Niteliği itibari ile borçlanma aracı olduğu kabul edilen sermaye piyasası araçlarından, yatırımcı tarafından ödenen bedelin tamamının geri ödeneceği taahhüdünü içermeyen özellikteki borçlanma araçları, yurt içinde halka arz edilerek veya tahsisli olarak satılamaz. Yatırımcı tarafından ödenen bedelin tamamının geri ödenip ödenmediğine ilişkin tespitte, yatırımcıya yapılan geri ödemelerin vade içinde veya vade sonunda yapıldığına bakılmaz.
+(3) (Ek:RG-18/2/2017-29983) Bankaların ihraç ettiği özkaynak hesaplamasına dahil edilecek nitelikteki borçlanma araçları için bu Tebliğin PDT’ye ilişkin hükümleri uygulanmaz. Bankaların bu nitelikteki borçlanma araçlarının ihracına ve halka açık bankalar bakımından paya dönüştürülmesine ilişkin esaslar Kurulca belirlenir.
