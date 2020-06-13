@@ -1,0 +1,3 @@
+Bölüm, program, anabilim dalı, anasanat dalı öğrenci temsilcisi seçimi
+MADDE 7 – (1) Bölüm/program/anabilim dalı/anasanat dalı öğrenci temsilcisi, bölüm/program/anabilim dalı/anasanat dalı öğrencilerince, kendi aralarından, seçime katılanların çoğunluğuyla bir defaya mahsus olmak üzere iki yıl için seçilir.
+(2) Bölüm/program/anabilim dalı/anasanat dalı öğrenci temsilcisinin seçilme niteliklerini kaybetmesi ya da herhangi bir nedenle süresi bitmeden önce görevinin sona ermesi halinde kalan süreyi tamamlamak üzere, ilgili bölüm/program/anabilim dalı/anasanat dalında bir ay içerisinde aynı usulle yeni bir temsilci seçilir.

@@ -1,0 +1,3 @@
+Öğrenci konseyi yönetim kurulu
+MADDE 15 – (1) Öğrenci konseyi yönetim kurulu, öğrenci konseyi genel kurulu üyelerinin, kendi aralarından, seçime katılanların salt çoğunluğuyla ve iki yıl için seçeceği biri başkan yardımcısı olmak üzere sekiz öğrenci ve öğrenci konseyi başkanından oluşur. Öğrenci konseyi yönetim kurulu, öğrenci konseyi genel kuruluna karşı sorumludur.
+(2) Öğrenci konseyi yönetim kurulu; başkanın yokluğunda başkan yardımcısının yönetiminde üç ayda bir toplanır. Kurulun toplantı gündemi, yeri ve tarihi en az yedi gün önce başkan tarafından yönetim kurulu üyelerine duyurulur. Kurul, üye tam sayısının salt çoğunluğuyla toplanır, toplantıya katılanların salt çoğunluğuyla karar alır. Oylarda eşitlik olması durumunda başkanın bulunduğu taraf çoğunluk sayılır.

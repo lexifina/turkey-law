@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34608",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEKÖĞRETİM KURUMLARI ÖĞRENCİ KONSEYLERİ VE YÜKSEKÖĞRETİM KURUMLARI ULUSAL ÖĞRENCİ KONSEYİ YÖNETMELİĞİ",
+  "number": "34608",
+  "issuer": "Yükseköğretim Kurulu Başkanı",
+  "issuer_slug": "yuksekogretim-kurulu-baskani",
+  "path": "regulation/yuksekogretim-kurulu-baskani/2020/34608",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34608&MevzuatTertip=5",
+  "source_sha256": "c4af6585c63bd6550fdcd19ea941411f1d76a219534af0a60209cd65d556b427",
+  "source_bytes": 42771,
+  "published": "2020-06-13",
+  "gazette": "31154",
+  "in_force": "2020-06-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.06.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2076,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

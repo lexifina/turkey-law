@@ -1,0 +1,4 @@
+Ulusal Öğrenci Konseyi Başkanı ve görevleri
+MADDE 20 – (1) Ulusal Öğrenci Konseyi Başkanı, öğrenci konseyi başkanları arasından kayıtlı oldukları yükseköğretim kurumlarının 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununda yer alan sırasına göre belirlenir ve bir yıl süreyle görev yapar.
+(2) Ulusal Öğrenci Konseyi Başkanı; Ulusal Öğrenci Konseyi toplantılarının gündemini belirler ve bu toplantılara başkanlık eder, Ulusal Öğrenci Konseyinin çalışmalarında koordinasyonu sağlar, alınan kararların bildirimini yapar ve uygulanmasını izler, Ulusal Öğrenci Konseyini ulusal ve uluslararası öğrenci etkinliklerinde temsil eder, görev süresi bitiminde bir yıllık faaliyet raporunu bir sonraki Ulusal Öğrenci Konseyi toplantısında sunar.
+(3) Ulusal Öğrenci Konseyi Başkanı, Yükseköğretim Genel Kurulunun öğrencilerle ilgili konuların görüşüldüğü toplantılarına, Yükseköğretim Kurulu Başkanının daveti üzerine katılır.
