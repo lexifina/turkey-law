@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce başlamış olan işlemler, 14 üncü madde ile yürürlükten kaldırılan Yönetmelik hükümlerine göre sonuçlandırılır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önceki mevzuat hükümlerine göre belge almaya hak kazanan ancak henüz belge almayanların bu hakları korunur.
+(3) Federasyonlar, bu Yönetmeliğin yürürlüğe girdiği tarihten önce düzenlenen millî sporcu belgeleri ile bunlara ilişkin her türlü belgeyi bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde Bakanlık bilişim sistemine kaydederler.
+(4) 14 üncü madde ile yürürlükten kaldırılan Yönetmelik uyarınca, doping ihlali yapılan müsabaka dışındaki müsabakalara ilişkin millî sporcu belgesi verilmeyen ya da iptal edilen sporculara, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir yıl içerisinde başvuruları halinde, doping ihlali yaptığı müsabaka dışındaki müsabakalara ilişkin millî sporcu belgesi, müsabaka tarihindeki sınıflandırmaya uygun olarak düzenlenir. Bu şekilde düzenlenecek millî sporcu belgesi, düzenleme tarihinden itibaren geçerli sayılır.

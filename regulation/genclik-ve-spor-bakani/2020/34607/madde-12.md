@@ -1,0 +1,4 @@
+Millî sporcu belgesinin iptali
+MADDE 12 – (1) Disiplin ihlali sayısına bakılmaksızın bir defada bir yıldan fazla disiplin cezası alan sporcunun disiplin ihlaline/ihlallerine konu müsabakaya ait millî sporcu belgesi iptal edilir.
+(2) Herhangi bir sebeple derecesi iptal edilen veya millî sporcu belgesi verilen müsabakada doping ihlali yaptığı sonradan anlaşılan sporcunun o müsabakaya ait millî sporcu belgesi iptal edilir.
+(3) 8 inci maddenin üçüncü fıkrasında belirtilen suçlardan mahkûm olmama şartını kaybeden veya bu şartı taşımadığı sonradan anlaşılan sporcuların durumları ilgili federasyon tarafından Bakanlığa bildirilir. Bu sporcuların millî sporcu belgeleri, ilgili federasyonun bildirimi üzerine veya resen Bakanlık tarafından iptal edilir. Federasyon tarafından bildirim yükümlülüğünün yerine getirilmemesi halinde federasyon başkanı, yönetim kurulu üyeleri ve diğer kişiler hakkında ilgili mevzuat hükümleri uygulanır.
