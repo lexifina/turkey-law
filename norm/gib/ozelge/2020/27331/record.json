@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-125[6-2019/20-370]-E.43746",
+  "source_id": 27331,
+  "date": "2020-06-15",
+  "title": "Kat karşılığı inşaat sözleşmesi kapsamında kar/zarar beyanı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27331",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "102ca191e252b7b942991f101a2700979983a3ef468fb3a35ac160c509d88754",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
