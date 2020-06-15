@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140.04.01[123-2019/13]-163423",
+  "source_id": 36116,
+  "date": "2020-06-15",
+  "title": "6306 sayılı Kanun kapsamında yeniden inşa edilen taşınmazın bağımsız bölümlerinin hasılat paylaşımlı sözleşmeye istinaden işi yüklenen müteahhit adına tapuya tescil işlemi yapılmaksızın arsa sahipleri adına tescil işlemi yapıldıktan sonra arsa sahipleri tarafından yapılacak satış işlemlerinin, 6306 sayılı Kanun kapsamında harçtan istisna olup olmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36116",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5accfd5a1b9fc76bfe4b9e233cfb65942a07763c225c3ff918522405dfd0763f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
