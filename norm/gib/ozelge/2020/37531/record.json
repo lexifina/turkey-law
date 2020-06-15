@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-125[10-2019/3]-E.163405",
+  "source_id": 37531,
+  "date": "2020-06-15",
+  "title": "Ar-ge merkezi kapsamında artırılan patent sayısı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37531",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "f3e8b5904adb7f218674795007b63915bf6b2e0955182b71bff0eda13ca65da7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
