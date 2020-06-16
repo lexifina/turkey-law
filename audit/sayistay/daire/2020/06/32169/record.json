@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35626",
+  "decision_date": "2020-06-16",
+  "source_id": 32169,
+  "chamber": "2",
+  "ilam_number": "137",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32169/",
+  "source_sha256": "9c3e5ab17fa6ef0047e7a119d81480d85ac7ca70bdef3f24191821ffc5265adb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
