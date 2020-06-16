@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/463",
+  "source_id": 7030,
+  "date": "2020-06-16",
+  "title": "“İlaç sektöründe faaliyet yürüten bir veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 16/06/2020 tarih ve 2020/463 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7030/2020-463",
+  "source_sha256": "5d62b9e3cf41a1aa85158c8a1cd44777500c590cf638fdce90b56b30700ab1e8",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
