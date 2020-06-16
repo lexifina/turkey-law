@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "361",
+  "decision_date": "2020-06-16",
+  "source_id": 32181,
+  "chamber": "3",
+  "ilam_number": "142",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32181/",
+  "source_sha256": "07813c8f4b0f4416b52652a8b4cd005e3d486a950ccf90ec34e4a57ccbf438a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
