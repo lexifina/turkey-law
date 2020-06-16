@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "361",
+  "decision_date": "2020-06-16",
+  "source_id": 32179,
+  "chamber": "3",
+  "ilam_number": "142",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32179/",
+  "source_sha256": "fc15cdb420d888b2a2db1233d2261c6797379eddef257cb30bb720c858f0f9bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
