@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "746",
+  "decision_date": "2020-06-16",
+  "source_id": 31787,
+  "chamber": "6",
+  "ilam_number": "115",
+  "item_number": 5,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31787/",
+  "source_sha256": "4b4ff2134be6a4ca638ec23ac0f0b0c49c07c261ce6783f44d9010d0aa8e5927",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
