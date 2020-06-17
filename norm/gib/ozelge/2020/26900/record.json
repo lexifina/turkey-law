@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[6-18/43]-E.158697",
+  "source_id": 26900,
+  "date": "2020-06-17",
+  "title": "Cari döneme ait zararın, öz sermaye kalemlerine ait enflasyon düzeltmesi olumlu farklarına mahsup edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26900",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e35f36e08f3d041870d59143ee36d7efa46b989fceba933ddc64d5c7417e1d1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
