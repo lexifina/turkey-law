@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47426",
+  "decision_date": "2020-06-17",
+  "source_id": 21458,
+  "chamber": "6",
+  "file_number": "45917",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21458/",
+  "source_sha256": "c3db6eb4ec9aa76f96f1f1772e3b7047d0008e8c76182bdff1b79d582c801f2f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
