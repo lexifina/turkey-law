@@ -1,0 +1,956 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"Liberation Sans";}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Balk, li.Balk, div.Balk
+	{mso-style-name:Başlık;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1362056144630, li.edf1362056144630, div.edf1362056144630
+	{mso-style-name:edf_1362056144630;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1296115642459, li.edf1296115642459, div.edf1296115642459
+	{mso-style-name:edf_1296115642459;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1373462210728, li.edf1373462210728, div.edf1373462210728
+	{mso-style-name:edf_1373462210728;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1354788000630, li.edf1354788000630, div.edf1354788000630
+	{mso-style-name:edf_1354788000630;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1305726652896, li.edf1305726652896, div.edf1305726652896
+	{mso-style-name:edf_1305726652896;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1427114045720, li.edf1427114045720, div.edf1427114045720
+	{mso-style-name:edf_1427114045720;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1257412078073, li.edf1257412078073, div.edf1257412078073
+	{mso-style-name:edf_1257412078073;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1338182530233, li.edf1338182530233, div.edf1338182530233
+	{mso-style-name:edf_1338182530233;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1426776180543, li.edf1426776180543, div.edf1426776180543
+	{mso-style-name:edf_1426776180543;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1503496475962, li.edf1503496475962, div.edf1503496475962
+	{mso-style-name:edf_1503496475962;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1338182530092, li.edf1338182530092, div.edf1338182530092
+	{mso-style-name:edf_1338182530092;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449434200705, li.edf1449434200705, div.edf1449434200705
+	{mso-style-name:edf_1449434200705;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450278888505, li.edf1450278888505, div.edf1450278888505
+	{mso-style-name:edf_1450278888505;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437192616, li.edf1449437192616, div.edf1449437192616
+	{mso-style-name:edf_1449437192616;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1373462210713, li.edf1373462210713, div.edf1373462210713
+	{mso-style-name:edf_1373462210713;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1427114045716, li.edf1427114045716, div.edf1427114045716
+	{mso-style-name:edf_1427114045716;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1503496120220, li.edf1503496120220, div.edf1503496120220
+	{mso-style-name:edf_1503496120220;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1417612754306, li.edf1417612754306, div.edf1417612754306
+	{mso-style-name:edf_1417612754306;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Arial",sans-serif;}
+p.edf1373462210682, li.edf1373462210682, div.edf1373462210682
+	{mso-style-name:edf_1373462210682;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+  color:#010000;font-weight:bold">TÜRKİYE CUMHURİYETİ</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="5"><span style="font-size:16.0pt;
+  color:#010000;font-weight:bold">ANAYASA MAHKEMESİ</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">İKİNCİ BÖLÜM</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">KARAR</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">H.T. BAŞVURUSU</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000">(Başvuru Numarası: 2017/32857)</span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000">Karar Tarihi: 17/6/2020</span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000"> </span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">İKİNCİ BÖLÜM</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">KARAR</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">GİZLİLİK TALEBİ KABUL</span></font></u></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Başkan</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Kadir ÖZKAYA</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Üyeler</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Engin YILDIRIM</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Celal Mümtaz AKINCI</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Rıdvan GÜLEÇ</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Recai AKYEL</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Raportör</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Denizhan HOROZGİL</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Başvurucu</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">H.T.</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Vekili</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Av. Mahir ÖNAL</span></font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">I.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">BAŞVURUNUN KONUSU</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">1. Başvuru, anlatımları mahkûmiyet için belirleyici ölçüde delil olarak kullanılan tanığın duruşmada sorgulanamaması nedeniyle tanık sorgulama hakkının ihlal edildiği iddiasına ilişkindir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">II.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">BAŞVURU SÜRECİ</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">2. Başvuru 11/8/2017 tarihinde yapılmıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">3. Başvuru, başvuru formu ve eklerinin idari yönden yapılan ön incelemesinden sonra Komisyona sunulmuştur.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">4. Komisyonca başvurunun kabul edilebilirlik incelemesinin Bölüm tarafından yapılmasına karar verilmiştir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">5. Bölüm Başkanı tarafından başvurunun kabul edilebilirlik ve esas incelemesinin birlikte yapılmasına karar verilmiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">6. Başvuru belgelerinin bir örneği bilgi için Adalet Bakanlığına (Bakanlık) gönderilmiştir. Bakanlık görüşünü bildirmemiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">III.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">OLAY VE OLGULAR </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">7. Başvuru formu ve eklerinde ifade edildiği şekliyle ilgili olaylar özetle şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">8. Başvurucu 1983 doğumlu olup olayların meydana geldiği tarihte Adana'da ikamet etmekte ve Türkiye Cumhuriyeti Devlet Demiryollarında memur olarak çalışmaktadır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">9. Başvurucu hakkında PKK terör örgütüne üye olma<i><span style="font-style:italic"> </span></i>suçunu işlediği gerekçesiyle Adana Cumhuriyet Başsavcılığının (CMK 250. madde ile görevli) 26/8/2008 tarihli iddianamesiyle kamu davası açılmıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">10. İddianameye göre, önceki bir tarihte güvenlik güçlerine teslim olan ve başka bir dosyada terör örgütüne üye olma suçundan sanık olan U.T., kendisi hakkında yürütülen soruşturma evresinde başvurucuyla ilgili olarak şu şekilde beyanda bulunmuştur:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000">"<i><span style="font-style:italic">H.T. </span></i>[Başvurucu], <i><span style="font-style:italic">Bitlis Tatvan'lı Eskişehir Anadolu Üniversitesi Raylı Sistemler Bölümünden 2006 yılında mezun oldu. DDY Adana İşletmesinde memur. Örgüt adına propaganda yapar. Üniversiteye yeni kayıt yaptıran öğrencilerden PKK/KONGRA-GEL terör örgütüne eleman kazandırma faaliyetinde bulunur. 2006 Nevruzunda Eskişehir'de PKK ve Abdullah Öcalan lehine slogan atarak kitleyi yönlendiriyordu.</span></i>"</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">11. U.T.nin bahse konu ifadesi üzerine başvurucunun ikametgâhında yapılan aramada, hakkında toplatma kararı bulunduğu belirtilen şu yayınlar ele geçirilmiştir: </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000">"<i><span style="font-style:italic">1 adet Kürtlerde Anadolu Merkezci Yabancılaşma, 1 adet Tohum, 1 adet Özgür Yaşamla Dialoglar isimli kitaplar, 1 adet 2008 yılına ait Salnamege Navenda Çanda Mezopotamya duvar takvimi, 4 adet Ajda isimli dergi ile 2 sayfa Tayyibin Danışmanları, 3 sayfa Ezilenlerin Pedagolojisi başlıklı belge, 2 adet Natoya Hayır başlıklı trik, 4 adet Alternatif Yaşamda Demokrasi ve Yeni Başık adlı günlük gazete, 2 adet Che Guerava'ya ait poster.</span></i>" </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">12. (Kapatılan) Adana 7. Ağır Ceza Mahkemesi (CMK 250. madde ile görevli) 21/10/2009 tarihinde başvurucu hakkında sanık U.T.nin beyanı dışında delil olmadığı gerekçesiyle başvurucunun terör örgütüne üye olma suçunu işlediğini sabit görmeyerek beraatine hükmetmiştir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">13. Hükmün Cumhuriyet savcısı tarafından temyiz edilmesi üzerine Yargıtay 9. Ceza Dairesinin 12/6/2013 tarihli kararıyla başvurucu hakkında mahkûmiyet kararı verilmesi gerektiği gerekçesiyle hükmün bozulmasına karar verilmiştir. Yargıtay ilamının ilgili kısmı şu şekildedir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000">"<i><span style="font-style:italic">Açıklamalarında samimi görülüp hakkında etkin pişmanlık hükümleri uygulanan başka dosya sanığı </span></i>[U.T.nin]<i><span style="font-style:italic"> kollukta müdafi huzurunda özgür iradesiyle verdiği ifadesi ve aşamalardaki aynı mahiyetteki anlatımları ile sanığın evinde yapılan aramada ele geçirilen haklarında toplatma kararı olduğu bildirilen yayınlar ve tüm dosya kapsamına göre örgütün hiyerarşik yapısına dahil olan sanığın gerçekleştirdiği eylem ve faaliyetleri de nazara alındığında sübuta eren yüklenen suçtan mahkumiyeti yerine yazılı gerekçe ile beraatine karar verilmesi...</span></i>"</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">14. Yargıtay bozma ilamı sonrası, Adana 7. Ağır Ceza Mahkemesinin (CMK 250. madde ile görevli) kapatılması nedeniyle dosyalarının devredildiği Adana 4. Ağır Ceza Mahkemesi (Mahkeme) bozma sonrası ilk celsede Yargıtay bozma ilamına uyulmasına karar vermiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">15. Başvurucu müdafileri bozma sonrası yargılamanın ilk celsesinde, başvurucu aleyhinde beyanda bulunan U.T.nin Mahkemece dinlenmesini talep etmiştir. Mahkeme ise bu talebi şu gerekçeyle reddetmiştir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000">"<i><span style="font-style:italic">Dosya kapsamı, toplanan deliller dikkate alınarak </span></i>[U.T.nin]<i><span style="font-style:italic"> daha önce bir başka mahkemede yapılan yargılamadaki savunmaları ve ifadeleri yeterli görülmekle yeniden mahkememizde dinlenmesine gerek bulunmadığından bu konudaki talebin reddine karar verildi."</span></i></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">16. Mahkeme; bozma sonrası yapılan yargılama sonucunda U.T.nin başvurucu hakkındaki beyanını, başvurucunun ikametgâhında yapılan aramada ele geçirilen yayınları ve daha önceden geçirdiği bazı soruşturma ve kovuşturmaları dikkate alarak 6 yıl 3 ay hapis cezasıyla mahkûmiyetine hükmetmiştir. Mahkeme, gerekçeli kararında tanık U.T.nin dinlenmesinin gerekli olmadığını Yargıtay ilamlarından örnek vererek açıklamıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">17. İlk derece mahkemesi kararının bu kez başvurucu müdafii tarafından temyiz edilmesi üzerine Yargıtay 16. Ceza Dairesinin 9/5/2017 tarihli kararı ile mahkûmiyet hükmü onanmıştır.</span></font></p>
+
+<p class="edf1362056144630" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">18. Başvurucu, Yargıtay ilamından 25/7/2017 tarihinde haberdar olduğunu belirtmiştir.</span></font></p>
+
+<p class="edf1362056144630" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">19. Başvurucu 11/8/2017 tarihinde bireysel başvuruda bulunmuştur.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">IV.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">İLGİLİ HUKUK</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">A.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Ulusal Hukuk</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">20. 4/12/2014 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu’nun <i><span style="font-style:italic">“Doğrudan soru yöneltme”</span></i> kenar başlıklı 201. maddesinin (1) numaralı fıkrası şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmaya katılan avukat; sanığa, katılana, tanıklara, bilirkişilere ve duruşmaya çağrılmış diğer kişilere, duruşma disiplinine uygun olarak doğrudan soru yöneltebilirler. Sanık ve katılan da mahkeme başkanı veya hâkim aracılığı ile soru yöneltebilir. Yöneltilen soruya itiraz edildiğinde sorunun yöneltilmesinin gerekip gerekmediğine, mahkeme başkanı karar verir. Gerektiğinde ilgililer yeniden soru sorabilir.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">21. 5271 sayılı Kanun’un<i><span style="font-style:italic"> “Delillerin ortaya konulması ve reddi” </span></i>kenar başlıklı 206. maddesinin (3) numaralı fıkrası şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“Cumhuriyet savcısı ile sanık veya müdafii birlikte rıza gösterirlerse, tanığın dinlenmesinden veya başka herhangi bir delilin ortaya konulmasından vazgeçilebilir.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">22. 5271 sayılı Kanun’un <i><span style="font-style:italic">“Duruşmada okunması zorunlu belge ve tutanaklar”</span></i> kenar başlıklı 209. maddesinin (1) numaralı fıkrası şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“Naip veya istinabe yoluyla sorgusu yapılan sanığa ait sorgu tutanakları, naip veya istinabe yoluyla dinlenen tanığın ifade tutanakları ile muayene ve keşif tutanakları gibi delil olarak kullanılacak belgeler ve diğer yazılar, adlî sicil özetleri ve sanığın kişisel ve ekonomik durumuna ilişkin bilgilerin yer aldığı belgeler, duruşmada okunur.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">23. 5271 sayılı Kanun’un<i><span style="font-style:italic"> “Duruşmada okunmayacak belgeler”</span></i> kenar başlıklı 210. maddesinin (1) numaralı fıkrası şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“Olayın delili, bir tanığın açıklamalarından ibaret ise, bu tanık duruşmada mutlaka dinlenir. Daha önce yapılan dinleme sırasında düzenlenmiş tutanağın veya yazılı bir açıklamanın okunması dinleme yerine geçemez.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">24. 5271 sayılı Kanun’un <i><span style="font-style:italic">“Duruşmada okunmasıyla yetinilebilecek belgeler”</span></i> kenar başlıklı 211. maddesi şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“(1) a) Tanık veya sanığın suç ortağı ölmüş veya akıl hastalığına tutulmuş olur veya bulunduğu yer öğrenilemezse,</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">b) Tanık veya sanığın suç ortağının duruşmada hazır bulunması, hastalık, malûllük veya giderilmesi olanağı bulunmayan başka bir nedenle belli olmayan bir süre için olanaklı değilse,</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">c) İfadesinin önem derecesi itibarıyla tanığın duruşmada hazır bulunması gerekli sayılmıyorsa,</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">Bu kişilerin dinlenmesi yerine, daha önce yapılan dinleme sırasında düzenlenmiş tutanaklar ile kendilerinin yazmış olduğu belgeler okunabilir.</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">(2) Cumhuriyet savcısı, katılan veya vekili, sanık veya müdafii birinci fıkrada belirtilenlerin dışında kalan tutanakların okunmasına birlikte rıza gösterebilirler.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">25. 5271 sayılı Kanun’un <i><span style="font-style:italic">“Delilleri takdir yetkisi”</span></i> kenar başlıklı 217. maddesi şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">“(1) Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışılmış delillere dayandırabilir. Bu deliller hâkimin vicdanî kanaatiyle serbestçe takdir edilir. </span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">(2) Yüklenen suç, hukuka uygun bir şekilde elde edilmiş her türlü delille ispat edilebilir.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">26. Terör suçlarına ilişkin ulusal hukuk için bkz. <i><span style="font-style:italic">Metin Birdal </span></i>[GK],<i><span style="font-style:italic"> </span></i>B. No: 2014/15440, 22/5/2019, §§ 28-32.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">B.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Uluslararası Hukuk</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">1.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Avrupa İnsan Hakları Sözleşmesi</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">27. Avrupa İnsan Hakları Sözleşmesi'nin (Sözleşme)<i><span style="font-style:italic"> “Adil yargılanma hakkı” </span></i>kenar başlıklı 6. maddesinin (3) numaralı fıkrasının ilgili kısmı şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">"Bir suç ile itham edilen herkes aşağıdaki asgari haklara sahiptir:</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">...</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">d) İddia tanıklarını sorguya çekmek veya çektirmek, savunma tanıklarının da iddia tanıklarıyla aynı koşullar altında davet edilmelerinin ve dinlenmelerinin sağlanmasını istemek;"</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">2.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Avrupa İnsan Hakları Mahkemesi İçtihadı</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">28. Avrupa İnsan Hakları Mahkemesine (AİHM) göre ulusal hukuktaki nitelemeye bakılmaksızın <i><span style="font-style:italic">tanık</span></i> kavramının Sözleşme kapsamında özerk bir anlamı vardır (<i><span style="font-style:italic">Damir Sibgatullin/Rusya</span></i>, B. No: 1413/05, 24/4/2012, § 45). Bu kavram duruma göre suç ortaklarını (<i><span style="font-style:italic">Trofimov/Rusya</span></i>, B. No: 1111/02, 4/12/2008, § 37), mağdurları (<i><span style="font-style:italic">Vladimir Romanov/Rusya,</span></i> B. No: 41461/02, 24/7/2008, §§ 7, 97) ve bilirkişi tanıklarını (<i><span style="font-style:italic">Doorson/Hollanda,</span></i> B. No: 20524/92, 26/3/1996, §§ 81, 82) kapsayabilir. Bu bakımdan duruşmada ister okunsun ister okunmasın ifadeleri mahkeme önünde bulunan ve mahkeme tarafından dikkate alınan kişiler, Sözleşme’nin 6. maddesinin (3) numaralı fıkrasının (d) bendi bakımından tanık olarak kabul edilmektedir (<i><span style="font-style:italic">Kostovski/Hollanda </span></i>[GK], B. No: 11454/85, 20/11/1989, § 40). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="4"><span style="font-size:13.0pt;
+color:#010000">29</span></font><font color="#010000"><span style="color:#010000">. AİHM, duruşma salonunda bulunmayan tanıkların beyanlarının mahkûmiyet hükmüne esas alındığı bir yargılamanın adilliğini değerlendirirken iki hususa vurgu yapmakta ve ilk olarak tanığın duruşmaya katılmaması için geçerli nedenlerin olup olmadığını incelemektedir. AİHM ikinci olarak -makul bir gerekçenin olduğu durumda bile- sanığın sorgulama imkânına sahip olmadığı bir tanık tarafından verilen ifadenin hükmün dayandığı tek veya belirleyici temel olup olmadığını değerlendirmektedir. Hükmün büyük ölçüde veya yalnızca bu nitelikteki tanığın ifadesine dayanması durumunda yargılamalar detaylı incelemelere tabi tutulmalıdır (<i><span style="font-style:italic">Al-Khawaja ve Tahery/Birleşik Krallık </span></i>[BD], B. No: 26766/05, 22228/06, 15/12/2011, §§ 119, 147; <i><span style="font-style:italic">Cevat Soysal/Türkiye,</span></i> B. No: 17362/03, 23/9/2014, § 75). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">30. AİHM, yukarıda bahsi geçen ilkelere ek olarak Sözleşme’nin 6. maddesinin (1) numaralı fıkrası ve aynı maddenin (3) numaralı fıkrasının (d) bendinin sanığa aleyhte ifade veren tanığın beyanlarına veya tanık ifadesinin alındığı sırada ya da yargılamanın daha sonraki bir aşamasında itiraz imkânı tanınması gerektiğini kabul etmektedir (<i><span style="font-style:italic">Van Mechelen ve diğerleri/Hollanda</span></i>, B. No: 21363/93..., 23/4/1997, § 51; <i><span style="font-style:italic">Lüdi/İsviçre,</span></i> B. No: 12433/86, 15/6/1992, § 49;<i><span style="font-style:italic"> Hümmer/Almanya, </span></i>B. No: 26171/07, 19/7/2012, § 38).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">31. Terör suçlarına ilişkin uluslararası hukuk için bkz. <i><span style="font-style:italic">Metin Birdal, </span></i>§§ 34-39.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">V.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">İNCELEME VE GEREKÇE</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">32. Mahkemenin 17/6/2020 tarihinde yapmış olduğu toplantıda başvuru incelenip gereği düşünüldü:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">A.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Tanık Sorgulama Hakkının İhlal Edildiği İddiası</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">1.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">33. Başvurucu; hakkında aleyhte beyanda bulunan U.T.nin ifadesine dayanılarak mahkûm edildiğini, Mahkemece tanık U.T.nin ifadesine başvurulması gerekirken eksik incelemeyle hüküm kurulduğunu, hakkında her türlü şüpheden uzak delil olmadığı hâlde cezalandırıldığını, bu nedenle ceza infaz kurumuna girme tehlikesiyle karşı karşıya kaldığını belirterek adil yargılanma hakkı ile kişi hürriyeti ve güvenliği hakkının ihlal edildiğini ileri sürmüştür. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">2.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">34. Anayasa'nın 36. maddesinin birinci fıkrası şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">"Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı veya davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir."</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">35. Anayasa Mahkemesi, olayların başvurucu tarafından yapılan hukuki nitelendirmesi ile bağlı olmayıp olay ve olguların hukuki tavsifini kendisi takdir eder (<i><span style="font-style:italic">Tahir Canan</span></i>, B. No: 2012/969, 18/9/2013, § 16). Bu kapsamda başvurucunun şüpheden uzak hiçbir delil bulunmamasına rağmen mahkûmiyetine hükmedilmesi nedeniyle kişi özgürlüğü ve güvenliği hakkının ihlal edildiği iddiası adil yargılanma hakkı kapsamındaki tanık sorgulama hakkı bağlamında incelenecektir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Kabul Edilebilirlik Yönünden</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">36. Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan başvurunun kabul edilebilir olduğuna karar verilmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Esas Yönünden</span></b></span></font></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">37. Anayasa Mahkemesi birçok kararında <i><span style="font-style:italic">tanık</span></i> kavramını özerk olarak yorumlamış ve tanığın sanığa isnat edilen fiil hakkında bilgi veren herhangi bir kişi olabileceğini ifade etmiştir. Bu bağlamda suçun iştirak edeni, olayın mağduru, şikâyetçi (müşteki), devletin görevlendirdiği gizli olan/olmayan soruşturmacı da tanık olabilir (<i><span style="font-style:italic">Selçuk Demir</span></i>, B. No: 2014/9783, 22/1/2015, § 35).</span></font></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">38. Anayasa Mahkemesi, benzer iddiaların ileri sürüldüğü başvurulara ilişkin olarak birçok kararında <i><span style="font-style:italic">tanık sorgulama hakkı</span></i>yla ilgili ilkeleri belirlemiştir. Buna göre bir ceza yargılamasında sanığın aleyhine olan tanıkları sorguya çekme veya çektirme hakkı vardır. Hakkında gerçekleştirilen ceza yargılaması sürecinde sanığın tanıklara soru yöneltebilmesi, onlarla yüzleşebilmesi ve tanıkların beyanlarının doğruluğunu sınama imkânına sahip olması adil bir yargılamanın yapılabilmesi bakımından gereklidir. Ancak başvurucuların tanık sorgulama hakları mutlak bir hak değildir. Makul gerekçelerle getirilen kısıtlamalar, kimi zaman başvurucunun iddia tanıklarına soru sorabilme ve onlarla yüzleşme imkânını da ortadan kaldırabilmektedir. Diğer yandan bir mahkûmiyet -sadece veya belirleyici ölçüde- sanığın soruşturma veya yargılama aşamasında sorgulama veya sorgulatma imkânı bulamadığı bir kimse tarafından verilen ifadelere dayandırılmış ise sanığın hakları Anayasa'nın 36. maddesindeki güvencelerle bağdaşmayacak ölçüde kısıtlanmış olur (<i><span style="font-style:italic">Atila Oğuz Boyalı</span></i>, B. No: 2013/99, 20/3/2014, §§ 34-56; <i><span style="font-style:italic">Az. M.</span></i>, B. No: 2013/560, 16/4/2015, §§ 46-67; <i><span style="font-style:italic">Levent Yanlık</span></i>, B. No: 2013/1189, 18/11/2015, §§ 67-86; <i><span style="font-style:italic">İsmet Özkorul</span></i>, B. No: 2013/7582, 11/12/2014, §§ 44, 45).</span></font></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">39. Sonuç olarak somut bir yargılama öncesinde veya haricinde elde edilen tanık ifadelerinin delil olarak kabulünün yargılamanın adilliğine zarar verip vermediğini değerlendirmek için iki aşamalı bir test uygulanmalıdır. İlk olarak tanığın mahkemede hazır edilmemesi geçerli bir nedenin mevcudiyetine dayanmalıdır. İkinci olarak ise okunmasıyla yetinilen ifadenin karara götüren tek ya da belirleyici kanıt olması hâlinde savunma haklarının adil yargılanmanın gerekleriyle bağdaşmayacak ölçüde sınırlandırılıp sınırlandırılmadığına bakılmalıdır (<i><span style="font-style:italic">Abdurrahim Balur</span></i>, B. No: 2013/5467, 7/1/2016, § 80).</span></font></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">40. Nitekim bu anayasal gereklilikler ilgili usul kanunlarında da belirtilmiştir. 5271 sayılı Kanun’un 210. maddesinin (1) numaralı fıkrasına göre de olayın delili bir tanığın açıklamalarından ibaret ise bu tanık duruşmada mutlaka dinlenir. Daha önce yapılan dinleme sırasında düzenlenmiş tutanağın veya yazılı bir açıklamanın okunması dinleme yerine geçemez. Yargılama konusu olayla ilgili sadece bir tanığın beyanından başka bir delilin bulunmadığı hâllerde bu tanığın duruşmada mutlaka dinlenilmesi gerektiği ifade edilerek doğrudan doğruyalık ilkesine açık bir vurgu yapılmıştır. Dolayısıyla olayın tek delilinin bir tanığın açıklamalarından ibaret olması hâlinde 5271 sayılı Kanun’un 211. maddesinin (1) numaralı fıkrası uyarınca, bu tanığın duruşmada dinlenmesi yerine önceki beyanlarının okunması ile yetinilebilmesi mümkün değildir (<i><span style="font-style:italic">Az. M.</span></i>, § 58).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">41. Somut olayda başvurucunun aleyhinde beyanda bulunan U.T., PKK terör örgütüne yönelik olarak yürütülen başka bir soruşturma kapsamında verdiği ifadesinde başvurucunun eğitim ve iş durumuna ilişkin ayrıntılı bilgiler verdikten sonra terör örgütü adına propaganda yaptığını ve üniversiteye yeni kayıt yaptıran öğrencilere yönelik PKK terör örgütüne eleman kazandırma faaliyetlerinde bulunduğunu belirtmiştir. Başvurucu hakkında tanığın bu ifadesi üzerine soruşturma başlatılmış, başvurucunun ikametgâhında arama yapılmış ve yapılan arama sonucunda toplatılmasına karar verilen bazı yayınlar ele geçirilmiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">42. Başvurucu yargılama sırasında tanık U.T.nin mahkemede dinlenmesini talep etmiş ancak Mahkeme, U.T.nin daha önce bir başka mahkemede yapılan yargılamadaki ifadelerini yeterli görmüş ve bu talebi reddetmiştir. Dolayısıyla başvurucu, aleyhinde beyanda bulunan tanığı sorgulama imkânı bulamamıştır. Bu kapsamda Mahkemece tanığın duruşmada hazır edilmesi için makul bir çaba sergilendiği söylenemez.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">43. Öte yandan tanığın duruşmada dinlenmemesi hususunda makul bir gerekçe gösterilmemiş olması adil yargılanma hakkının ihlal edildiği sonucuna ulaşılabilmesi bakımından tek başına yeterli değildir. Bu nedenle tanığın duruşmada dinlenmemiş ve başvurucu tarafından sorgulanmamış olmasının genel olarak yargılamanın hakkaniyetini zedeleyip zedelemediği de belirlenmelidir. Bu bağlamda mahkûmiyet hükmünün yalnızca veya büyük ölçüde sanığın sorgulama imkânına sahip olmadığı bir tanık tarafından verilen ifadeye dayalı olup olmadığı önem taşımaktadır. Ayrıca hükmün yalnızca veya büyük ölçüde sanığın sorgulama imkânına sahip olmadığı bir tanık tarafından verilen ifadeye dayanması durumunda savunma tarafına dengeleyici güvenceler sağlayan bir usulün takip edilip edilmediği, karşıt dengeleyici imkânlar tanınıp tanınmadığı tespit edilmelidir (<i><span style="font-style:italic">Onur Urbay</span></i>, B. No: 2014/6222, 6/3/2019, § 40). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">44. Başvurucu hakkındaki yargılama bir bütün olarak değerlendirildiğinde teşhis ve beyanı üzerine başvurucu hakkındaki soruşturmanın başlatılmasına ve diğer delillerin ele geçirilmesine neden olan tanık U.T.nin başvurucu aleyhine verdiği ifadenin mahkûmiyet hükmünde <i><span style="font-style:italic">tek</span></i> olmamakla birlikte <i><span style="font-style:italic">belirleyici</span></i> nitelikte delil olarak kabul edildiği görülmektedir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">45. Bu aşamada ise somut olayda savunma tarafına dengeleyici güvenceler sağlayan bir usulün takip edilip edilmediği, karşıt dengeleyici imkânlar tanınıp tanınmadığı tespit edilmelidir. Telafi edici faktörler bağlamında başvurucunun tanığın ifadesinin güvenilirliği hususundaki kuşkularını Mahkemeye bildirme imkânı elde ettiğini belirtmek gerekir. Öte yandan derece mahkemesinin duruşmada dinlenmeyen tanığın ifadesine ek olarak başvurucunun ikametgâhında yapılan aramada ele geçirilen yayınlara, başvurucunun daha önceden geçirdiği bazı soruşturma ve kovuşturmalara da dayandığı görülmektedir. Ancak bu hususların ifadesi mahkûmiyette belirleyici olan tanığın duruşmada dinlenmemesini telafi etmeye yeterli olduğu söylenemez. Bu kapsamda Mahkemece tanık beyanının güvenilirliği hususunda başvurucudaki şüphenin giderilmediği anlaşılmaktadır. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">46. Dolayısıyla somut olayda mahkemece, yukarıda belirtilen ilkeler çerçevesinde hükümde belirleyici etkisi olduğu anlaşılan tanığın sorgulanmasına imkan tanınarak bir sonuca ulaşılması gerekirken bu yapılmayarak karar verilmesinin bir bütün olarak yargılamanın hakkaniyetini zedelediği sonucuna ulaşılmaktadır.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">47. Açıklanan gerekçelerle başvurucunun Anayasa'nın 36. maddesinde düzenlenen adil yargılanma hakkı kapsamındaki tanık sorgulama hakkının ihlal edildiğine karar verilmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">B.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Diğer İhlal İddiaları Yönünden</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">48. Başvurucunun tanık sorgulama hakkının ihlal edildiğine karar verildiğinden yargılamanın sonucunun adil olmadığına ilişkin olarak diğer şikâyetleri hakkında kabul edilebilirlik ve esas yönünden ayrıca bir inceleme yapılmasına gerek görülmemiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">C.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">6216 Sayılı Kanun'un 50. Maddesi Yönünden</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">49. 30/11/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun'un 50. maddesinin ilgili kısmı şöyledir: </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic"> “(1) Esas inceleme sonunda, başvurucunun hakkının ihlal edildiğine ya da edilmediğine karar verilir. İhlal kararı verilmesi hâlinde ihlalin ve sonuçlarının ortadan kaldırılması için yapılması gerekenlere hükmedilir…</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic"> (2) Tespit edilen ihlal bir mahkeme kararından kaynaklanmışsa, ihlali ve sonuçlarını ortadan kaldırmak için yeniden yargılama yapmak üzere dosya ilgili mahkemeye gönderilir. Yeniden yargılama yapılmasında hukuki yarar bulunmayan hâllerde başvurucu lehine tazminata hükmedilebilir veya genel mahkemelerde dava açılması yolu gösterilebilir. Yeniden yargılama yapmakla yükümlü mahkeme, Anayasa Mahkemesinin ihlal kararında açıkladığı ihlali ve sonuçlarını ortadan kaldıracak şekilde mümkünse dosya üzerinden karar verir.”</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">50. Başvurucu, yargılamanın yenilenmesi ve manevi tazminat talebinde bulunmuştur.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">51. Anayasa Mahkemesinin <i><span style="font-style:italic">Mehmet Doğan</span></i> kararında ihlal sonucuna varıldığında ihlalin nasıl ortadan kaldırılacağı hususunda genel ilkeler belirlenmiştir (B. No: 2014/8875, 7/6/2018, [GK]). Mahkeme diğer bir kararında ise bu ilkelerle birlikte ihlal kararının yerine getirilmemesinin sonuçlarına da değinmiş ve bu durumun ihlalin devamı anlamına geleceği gibi ilgili hakkın ikinci kez ihlal edilmesiyle sonuçlanacağına da işaret etmiştir (<i><span style="font-style:italic">Aligül Alkaya ve diğerleri (2)</span></i>, B.No: 2016/12506, 7/11/2019).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">52. Bireysel başvuru kapsamında bir temel hakkın ihlal edildiğine karar verildiği takdirde ihlalin ve sonuçlarının ortadan kaldırıldığından söz edilebilmesi için temel kural mümkün olduğunca eski hâle getirmenin, yani ihlalden önceki duruma dönülmesinin sağlanmasıdır. Bunun için ise öncelikle ihlalin kaynağı belirlenerek devam eden ihlalin durdurulması, ihlale neden olan karar veya işlemin ve bunların yol açtığı sonuçların ortadan kaldırılması, varsa ihlalin sebep olduğu maddi ve manevi zararların giderilmesi, ayrıca bu bağlamda uygun görülen diğer tedbirlerin alınması gerekmektedir (<i><span style="font-style:italic">Mehmet Doğan</span></i>, §§ 55, 57). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">53. İhlalin mahkeme kararından kaynaklandığı veya mahkemenin ihlali gideremediği durumlarda Anayasa Mahkemesi, 6216 sayılı Kanunun 50. maddesinin (2) numaralı fıkrası ile İçtüzük’ün 79. maddesinin (1) numaralı fıkrasının (a) bendi uyarınca, ihlalin ve sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere kararın bir örneğinin ilgili mahkemeye gönderilmesine hükmeder. Anılan yasal düzenleme, usul hukukundaki benzer hukuki kurumlardan farklı olarak, ihlali ortadan kaldırmak amacıyla yeniden yargılama sonucunu doğuran ve bireysel başvuruya özgülenen bir giderim yolunu öngörmektedir. Bu nedenle Anayasa Mahkemesi tarafından ihlal kararına bağlı olarak yeniden yargılama kararı verildiğinde, usul hukukundaki yargılamanın yenilenmesi kurumundan farklı olarak ilgili mahkemenin yeniden yargılama sebebinin varlığını kabul hususunda herhangi bir takdir yetkisi bulunmamaktadır. Dolayısıyla böyle bir karar kendisine ulaşan mahkemenin yasal yükümlülüğü, ilgilinin talebini beklemeksizin Anayasa Mahkemesinin ihlal kararı nedeniyle yeniden yargılama kararı vererek devam eden ihlalin sonuçlarını gidermek üzere gereken işlemleri yerine getirmektir (<i><span style="font-style:
+italic">Mehmet Doğan</span></i>, §§ 58-59; <i><span style="font-style:italic">Aligül Alkaya ve diğerleri (2)</span></i>, §§ 57-59, 66-67).</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">54. Başvurucunun Anayasa'nın 36. maddesinde düzenlenen adil yargılanma hakkı kapsamında<i><span style="font-style:italic"> tanık sorgulama hakkı</span></i>nın ihlal edildiği sonucuna varılmıştır. Dolayısıyla somut başvuruda ihlalin mahkeme kararından kaynaklandığı anlaşılmaktadır. </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">55. Bu durumda tanık sorgulama hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasında hukuki yarar bulunmaktadır. Yapılacak yeniden yargılama ise bireysel başvuruya özgü düzenleme içeren 6216 sayılı Kanun'un 50. maddesinin (2) numaralı fıkrasına göre ihlalin ve sonuçlarının ortadan kaldırılmasına yöneliktir. Bu kapsamda yapılması gereken iş yeniden yargılama kararı verilerek Anayasa Mahkemesini ihlal sonucuna ulaştıran nedenleri gideren, ihlal kararında belirtilen ilkelere uygun yeni bir karar verilmesinden ibarettir. Bu sebeple kararın bir örneğinin yeniden yargılama yapılmak üzere Adana 4. Ağır Ceza Mahkemesine gönderilmesine karar verilmesi gerekmektedir.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">56. Adil yargılanma hakkı kapsamındaki tanık sorgulama hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasının yeterli giderim sağlayacağı sonucuna varıldığından tazminat taleplerinin reddine karar verilmesi gerekir.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">57. Dosyadaki belgelerden tespit edilen 257,50 TL harç ve 3.000 TL vekâlet ücretinden oluşan toplam 3.257,50 TL yargılama giderinin başvurucuya ödenmesine karar verilmesi gerekir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">VI.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">HÜKÜM</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">Açıklanan gerekçelerle;</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">A. Başvurucunun kamuya açık belgelerde kimliğinin gizli tutulması talebinin KABULÜNE,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">B. Tanık sorgulama hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">C. Anayasa'nın 36. maddesinde düzenlenen adil yargılanma hakkı kapsamında tanık sorgulama hakkının İHLAL EDİLDİĞİNE,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">D. Kararın bir örneğinin tanık sorgulama hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Adana 4. Ağır Ceza Mahkemesine (E.2014/145, K.2014/408) GÖNDERİLMESİNE,</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">E. Tazminata ilişkin taleplerin REDDİNE,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">F. 257,50 TL harç ve 3.000 TL vekâlet ücretinden oluşan toplam 3.257,50 TL yargılama giderinin başvurucuya ÖDENMESİNE,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">G. Ödemenin, kararın tebliğini takiben başvurucunun Hazine ve Maliye Bakanlığına başvuru tarihinden itibaren dört ay içinde yapılmasına, ödemede gecikme olması hâlinde bu sürenin sona erdiği tarihten ödeme tarihine kadar geçen süre için yasal FAİZ UYGULANMASINA,</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">H. Kararın bir örneğinin Adalet Bakanlığına GÖNDERİLMESİNE 17/6/2020 tarihinde OYBİRLİĞİYLE karar verildi.</span></font></p>
+</div>
