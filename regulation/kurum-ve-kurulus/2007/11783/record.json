@@ -1,0 +1,60 @@
+{
+  "source_id": "7.5.11783",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KİMYASAL SİLAHLARIN GELİŞTİRİLMESİ, ÜRETİMİ, STOKLANMASI VE KULLANIMININ YASAKLANMASI HAKKINDA KANUNUN UYGULANMASINA İLİŞKİN USUL VE ESASLAR İLE KANUN KAPSAMINDAKİ TOKSİK KİMYASAL MADDELER VE PREKÜRSÖRLERİ İLE FARKLI KİMYASAL MADDELERİN BİLDİRİMLERİNİN YAPILMASI HAKKINDA YÖNETMELİK",
+  "number": "11783",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11783",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11783&MevzuatTertip=5",
+  "source_sha256": "52a93bf6481b47df6efdb00081f1675c64ff4fc6d48ce8a17e3dd6f2eaded5fb",
+  "source_bytes": 48214,
+  "published": "2007-12-19",
+  "gazette": "26735",
+  "in_force": "2020-06-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"17/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-17",
+      "17/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-07-16",
+      "RG-16/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-16",
+      "16/7/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-09",
+      "RG-9/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-09",
+      "9/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2443,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11783%20ekler.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
