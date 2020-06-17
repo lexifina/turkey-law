@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-923809",
+  "number": "923809",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "NAKDİ TAZMİNAT VE AYLIK BAĞLANMASI HAKKINDA YÖNETMELİK",
+  "published": "1993-01-18",
+  "enacted": "1992-11-25",
+  "gazette_number": "21469",
+  "in_force": "2020-06-17",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 17/6/2020; source row: 16/6/2020 | 2656 | 1, 2, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17, 19, Geçici Madde 2, 22, Ek-A, Ek-B, Ek-C | 17/6/2020",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=923809&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "f4e8aa9f922025d19ab6e4d14c2c60acad94d36a7c6369e800c1d40d31bdc1b2",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

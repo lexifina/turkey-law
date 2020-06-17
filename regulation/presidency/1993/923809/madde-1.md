@@ -1,0 +1,5 @@
+BİRİNCİ KISIM
+Amaç, Kapsam, Hukuki Dayanak
+Amaç
+Madde 1 – (Değişik: RG-17/6/2020-31158-C.K-2656/1 md.)
+Bu Yönetmeliğin amacı; 3/11/1980 tarihli ve 2330 sayılı Nakdi Tazminat ve Aylık Bağlanması Hakkında Kanun ile 23/4/1981 tarihli ve 2453 sayılı Yurt Dışında Görevli Personele Nakti Tazminat Verilmesi ve Aylık Bağlanması Hakkında Kanun, 18/12/1981 tarihli ve 2566 sayılı Bazı Kamu Görevlilerine Nakdi Tazminat Verilmesi ve Aylık Bağlanması Hakkında Kanun, 25/10/1983 tarihli ve 2935 sayılı Olağanüstü Hal Kanunu, 1/11/1983 tarihli ve 2937 sayılı Devlet İstihbarat Hizmetleri ve Milli İstihbarat Teşkilatı Kanunu, 10/11/1988 tarihli ve 3497 sayılı Kara Sınırlarının Korunması ve Güvenliği Hakkında Kanun, 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu ve 24/2/2000 tarihli ve 4536 sayılı Denizlerde ve Yurt Yüzeyinde Görülen Patlayıcı Madde ve Şüpheli Cisimlere Uygulanacak Esaslara İlişkin Kanunda belirtilen hallerde ölen, yaralanan ve engelli hale gelenlere, bu Kanunlara göre nakdi tazminat verilmesi, aylık bağlanması ve yapılacak diğer yardımların esas ve usullerinin düzenlenmesidir.
