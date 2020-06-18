@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Hazine ve Maliye Bakanlığını,
+b) Birim: Döner sermaye işletmesi müdürlüğü ve işletmeye bağlı olarak faaliyet gösteren her bir iktisadi işletmeyi,
+c) Döner sermaye: Yükseköğretim kurumlarında kurulmuş işletmelere tahsis edilen sermayeyi,
+ç) Faaliyet dönemi: Bakanlıkça aksi kararlaştırılmadıkça malî yılı,
+d) Gelir: Öz kaynakta artışa neden olan her türlü işlemi,
+e) Gerçekleştirme görevlisi: Harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütenleri,
+f) Gider: Öz kaynakta azalışa neden olan her türlü işlemi,
+g) Harcama yetkilisi: Bütçe ile ödenek tahsis edilen her bir birimin en üst yöneticisini veya anılan görevi yürütmekle görevlendirilen kişiyi,
+ğ) Hesap dönemi: Bakanlıkça aksi kararlaştırılmadıkça malî yılı,
+h) İlgili idare: Döner sermayeli işletmelerin bağlı oldukları yükseköğretim kurumlarını,
+ı) İşletme: (c) bendi uyarınca verilen sermayenin tahsis amacını gerçekleştirmek üzere kurulan döner sermaye işletmelerini,
+i) Kanun: 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununu,
+j) Malî yıl: Takvim yılını,
+k) Muhasebe yetkilisi: Muhasebe hizmetlerinin yürütülmesinden ve muhasebe biriminin yönetiminden sorumlu, usulüne göre atanmış yöneticiyi,
+l) Muhasebe yetkilisi mutemedi: Muhasebe yetkilisi adına ve hesabına para ve parayla ifade edilebilen değerleri geçici olarak almaya, muhafaza etmeye, vermeye, göndermeye yetkili ve bu işlemlerle ilgili olarak doğrudan muhasebe yetkilisine karşı sorumlu olan görevlileri,
+m) Üst yönetici: Yükseköğretim kurumlarının üst yöneticisini,
+n) Yükseköğretim kurumları: Üniversite ile yüksek teknoloji enstitüleri ve bunların bünyesinde yer alan fakülteler, enstitüler, yüksekokullar, konservatuvarlar, araştırma ve uygulama merkezleri ile bir üniversite veya yüksek teknoloji enstitüsüne bağlı meslek yüksekokullarını,
+ifade eder.

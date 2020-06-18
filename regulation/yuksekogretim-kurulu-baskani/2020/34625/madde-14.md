@@ -1,0 +1,2 @@
+Devir ve teslim süreleri
+MADDE 14 – (1) Muhasebe yetkilisi, muhasebe yetkilisi mutemedi, taşınır kayıt yetkilisi gibi para ve mal işleri ile görevli memurlar arasındaki devir ve teslim sürelerine ilişkin olarak 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 171 inci maddesi ve 12/11/1974 tarihli ve 7/9044 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Devlet Memurlarının Çekilmelerinde Devir ve Teslim Süreleri Hakkında Yönetmelik hükümleri uygulanır.

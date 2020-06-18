@@ -1,0 +1,3 @@
+Yönetmeliğin yürürlük tarihinden önce yapılmış olan işlemler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce yükseköğretim kurumlarında mevcut döner sermaye işletmesi yönetmeliklerine göre başlanmış iş ve hizmetler sonuçlanıncaya kadar yürürlükteki mevzuat hükümlerinin uygulanmasına devam olunur.
+(2) Yükseköğretim kurumları bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde yönetmeliklerini bu Yönetmeliğe uygun hale getirirler. Bu süre içerisinde yükseköğretim kurumu döner sermaye işletmesi yönetmeliklerinin bu Yönetmeliğe aykırı olmayan hükümlerinin uygulanmasına devam edilir.
