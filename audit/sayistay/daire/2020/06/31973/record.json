@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10783",
+  "decision_date": "2020-06-18",
+  "source_id": 31973,
+  "chamber": "1",
+  "ilam_number": "215",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31973/",
+  "source_sha256": "2600dd9a43c6f43930905a4e0c37d61cde6a23f86a726458d2bfc141e29692fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
