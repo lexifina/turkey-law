@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10788",
+  "decision_date": "2020-06-18",
+  "source_id": 32282,
+  "chamber": "1",
+  "ilam_number": "147",
+  "item_number": 7,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32282/",
+  "source_sha256": "eb2afb3cf8ad84f693758030200d9a2e1b0b12ad77b02a9a988aa39be50c54c0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
