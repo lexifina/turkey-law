@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9394",
+  "decision_date": "2020-06-18",
+  "title": "\"Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri\"ne ilişkin",
+  "resmi_gazete_date": "2020-06-25",
+  "resmi_gazete_number": "31166",
+  "categories": [
+    "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ezhsDZAbQjw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ezhsDZAbQjw="
+  ],
+  "source_sha256": "e05ee346a315c6a38a4d4efdb82fa2479fe96f256b8eb346dc01750ffda79627",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33885,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-06-18",
+  "law_text_complete": true
+}
