@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10787",
+  "decision_date": "2020-06-18",
+  "source_id": 32287,
+  "chamber": "1",
+  "ilam_number": "378",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32287/",
+  "source_sha256": "28792cb1592ede601af970778f1a9d5ef1d193f1683c91e9cdddfd843426d75b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
