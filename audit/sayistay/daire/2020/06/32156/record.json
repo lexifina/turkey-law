@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "747",
+  "decision_date": "2020-06-18",
+  "source_id": 32156,
+  "chamber": "6",
+  "ilam_number": "135",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32156/",
+  "source_sha256": "bf25960a33a712d4e0ae016516ed8dc573c26fb469a72e3b96a2c440d8caecdc",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
