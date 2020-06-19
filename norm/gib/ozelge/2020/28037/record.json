@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK1-21708]-E.437797",
+  "source_id": 28037,
+  "date": "2020-06-19",
+  "title": "Şirket aktifine kayıtlı gayrimenkullere ilişkin geçmişe dönük ödenen kira bedellerinin gider yazılıp yazılmayacağı ve muhasebe kaydı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28037",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "216f8c9155e4f6ba1cdc071ca30cc385876672af650d6e7c03031131c4e1005e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
