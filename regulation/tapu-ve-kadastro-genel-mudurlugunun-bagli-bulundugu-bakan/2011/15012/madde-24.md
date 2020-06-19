@@ -1,0 +1,4 @@
+Tez danışmanı
+MADDE 24 – (1) Uzmanlık tezinin hazırlanması sürecinde, uzman yardımcısına rehberlik etmek ve tezin bilimsel tez yazım usul ve esaslarına, seçilen konunun niteliğine, Genel Müdürlüğün görev alanı ile ilgili hususlara ve onaylanan tez planına uygunluğunu temin etmek maksadıyla Tez ve Yeterlik Sınavı Komisyonunca bir danışman belirlenir. Tez danışmanı, uzman yardımcısına tez hazırlama sürecinde yardımcı olmak maksadıyla tavsiyelerde bulunur.
+(2) Uzmanlar ile Genel Müdürlük teşkilatı veya diğer kamu kuruluşlarında görev yapan ve daha önce lisansüstü programlarda akademik çalışma yapmış, konusunda uzman kamu görevlileri tez danışmanı olarak belirlenir. Gerektiğinde üniversitelerden de danışman belirlenebilir. Uygun bulunan tez danışmanları, (Değişik ibare:RG-19/6/2020-31160) Personel Dairesi Başkanlığınca uzman yardımcılarına tebliğ edilmek suretiyle kesinleşir.
+(Değişik başlık:RG-8/6/2012-28317) Tez planının hazırlanması

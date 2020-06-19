@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.15012",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAPU VE KADASTRO UZMANLIĞI YÖNETMELİĞİ",
+  "number": "15012",
+  "issuer": "Tapu ve Kadastro Genel Müdürlüğünün bağlı bulunduğu Bakan",
+  "issuer_slug": "tapu-ve-kadastro-genel-mudurlugunun-bagli-bulundugu-bakan",
+  "path": "regulation/tapu-ve-kadastro-genel-mudurlugunun-bagli-bulundugu-bakan/2011/15012",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15012&MevzuatTertip=5",
+  "source_sha256": "12204a53b296708ec44e3ec4e3381e8a249de91bc617e0675aa92684b4e75e56",
+  "source_bytes": 108573,
+  "published": "2011-05-28",
+  "gazette": "27947",
+  "in_force": "2020-06-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-19",
+      "RG-19/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-19",
+      "19/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-01",
+      "RG-1/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-01",
+      "1/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-08",
+      "RG-8/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-08",
+      "8/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4139,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

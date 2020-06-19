@@ -1,0 +1,8 @@
+Başvuru şartları
+MADDE 7 – (Değişik:RG-8/6/2012-28317)
+(1) Yarışma sınavına katılabilmek için 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde yer alan genel şartlara ek olarak aşağıdaki şartlar aranır:
+a) (Değişik:RG-19/6/2020-31160) En az dört yıllık eğitim veren yükseköğretim kurumlarının hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakülteleri; harita, harita kadastro, jeodezi, jeodezi ve fotogrametri, geomatik, bilgisayar, yazılım, elektrik-elektronik mühendisi yetiştiren fakülteleri; tapu ve kadastro, gayrimenkul geliştirme ve yönetimi, arşivcilik, kütüphanecilik, bilgi ve belge yönetimi bölümleri ile programında Osmanlı paleografyası derslerine yer verilen tarih ve Türk dili ve edebiyatı bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulu Başkanlığınca kabul edilmiş yurtiçi veya yurtdışı yükseköğretim kurumlarından mezun olmak.
+b) (Değişik:RG-1/3/2014-28928) Yarışma sınavının yapıldığı yılın ocak ayının birinci günü itibarıyla otuz beş yaşını doldurmamış olmak.
+c) Son başvuru tarihi itibarıyla, geçerlilik süresi dolmamış KPSS’den, yarışma sınav duyurusunda belirtilen puan türlerine göre asgari puana sahip olmak.
+(2) (Ek:RG-19/6/2020-31160) Genel Müdürlük, yarışma sınavı duyurusunda yer vermek suretiyle, sınavı birinci fıkrada sayılan tüm fakülte ve bölüm mezunlarına yönelik olarak yapabileceği gibi, hizmet gereklerini ve Genel Müdürlüğün ihtiyaç durumunu dikkate alarak belirleyeceği fakülte ve bölümlerden bir kısmına yönelik olarak da yapabilir.
+(3) (Ek:RG-19/6/2020-31160) Genel Müdürlük, öğrenim alanlarına göre kontenjan belirleyebilir.
