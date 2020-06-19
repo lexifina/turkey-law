@@ -1,0 +1,4 @@
+İzleme ve Değerlendirme Komitesi
+MADDE 6 – (1) İzleme ve Değerlendirme Komitesi, merkez başvurularının değerlendirilmesi, merkezlerin performanslarının ve ortaklık yapılarının izlenmesi amacıyla Yükseköğretim Kurulu tarafından oluşturulur.
+(2) İzleme ve Değerlendirme Komitesi, Yükseköğretim Kurulu Başkan Vekili, TÜBİTAK Başkanı, Hazine ve Maliye Bakanlığından ve Strateji ve Bütçe Başkanlığından en az genel müdür düzeyinde birer üst düzey yetkili ve Yükseköğretim Kurulu tarafından belirlenecek araştırma odaklı bir yükseköğretim kurumunda en az bir dönem rektörlük yapmış ve belirlendiği tarih itibarıyla rektörlük görevinde bulunmayan iki öğretim üyesinden oluşur. İzleme ve Değerlendirme Komitesi Yükseköğretim Kurulu Başkan Vekili başkanlığında ayda bir kez toplanır; kararlarını oy çokluğu ile alır ve oyların eşit olması halinde başkanın oyu iki oy sayılır.
+(3) Alınan kararlar Yükseköğretim Kuruluna sunulur.
