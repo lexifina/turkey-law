@@ -1,0 +1,40 @@
+{
+  "source_id": "7.5.34360",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN BİLGİ SİSTEMLERİ VE ELEKTRONİK BANKACILIK HİZMETLERİ HAKKINDA YÖNETMELİK",
+  "number": "34360",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2020/34360",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34360&MevzuatTertip=5",
+  "source_sha256": "3a26c590241921345963ae2fdd4a81d53aceb6c340a158e1ed6988c8ebc79a81",
+  "source_bytes": 216363,
+  "published": "2020-03-15",
+  "gazette": "31069",
+  "in_force": "2020-06-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-20",
+      "RG-20/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-20",
+      "20/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 15438,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
