@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "180",
+  "decision_date": "2020-06-23",
+  "source_id": 32048,
+  "chamber": "8",
+  "ilam_number": "261",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32048/",
+  "source_sha256": "d4b8f81417d6f73e08cce58b57c2260cc8fce6b369ba9db952f837ec2a4d61bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
