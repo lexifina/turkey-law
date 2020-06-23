@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "748",
+  "decision_date": "2020-06-23",
+  "source_id": 32079,
+  "chamber": "6",
+  "ilam_number": "126",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32079/",
+  "source_sha256": "329a2bff378bec539119395e11a7c6862e5e6e653d7b5e2342091ff133ec261f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
