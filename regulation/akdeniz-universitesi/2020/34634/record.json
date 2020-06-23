@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-06-23",
+      "23.06.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 23 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31164",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-06-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Akdeniz Üniversitesi",
+  "issuer_slug": "akdeniz-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/akdeniz-universitesi/2020/34634",
+  "published": "2020-06-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34634&MevzuatTertip=5",
+  "source_bytes": 50654,
+  "source_id": "8.5.34634",
+  "source_sha256": "ae284fbe24514e937c98ff073df0e640af8a07ea0723ee5416996f8172c04bf4",
+  "text_status": "as-enacted",
+  "title": "AKDENİZ ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 178,
+  "word_count": 2501
+}
