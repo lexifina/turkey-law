@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/471",
+  "source_id": 6772,
+  "date": "2020-06-23",
+  "title": "“Ülkemizde temsilciliği bulunan bir yabancı bankanın 6698 sayılı Kanun kapsamında veri sorumlusu sayılıp sayılmayacağı ve Veri Sorumluları Siciline kayıt yükümlülüğü hakkındaki görüş talebi” ile ilgili olarak Kişisel Verileri Koruma Kurulunun 23.06.2020 tarihli ve 2020/471 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6772/2020-471",
+  "source_sha256": "885a847d3f9b4e3a547225023f075dce1fc200a8d0e8bc7d05add929cbce9b8a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
