@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Trakya Cam Sanayii A.Ş. tarafından gerçekleştirilen ve Düzce Cam San. ve Tic. A.Ş. tarafından desteklenen başvuruya istinaden İsrail Devleti menşeli 7005.29 gümrük tarife pozisyonu altında “Diğerleri” olarak yer alan renksiz düzcam ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
