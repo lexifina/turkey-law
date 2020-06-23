@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "181",
+  "decision_date": "2020-06-23",
+  "source_id": 32134,
+  "chamber": "8",
+  "ilam_number": "136",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32134/",
+  "source_sha256": "e024b9839dd82d2601d225e6c61b0f4ca35ebe56ddb84c1855b14fc87957f7da",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
