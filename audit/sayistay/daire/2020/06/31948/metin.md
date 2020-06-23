@@ -1,0 +1,29 @@
+İHALE FESİH TAZMİNATLARI ÜZERİNDEN KDV ÖDENMESİ
+
+Katma Değer Vergisi (KDV)’nin konusuna girmeyen ihale fesih tazminatları üzerinden KDV ödenmek suretiyle kamu zararına sebebiyet verildiği iddiasına ilişkin yapılan incelemede;
+
+Kamu idarelerinde 4734 sayılı Kamu İhale Kanunu’nun 62’nci maddesinin (e) bendi uyarınca personel çalıştırılmasına dayalı hizmet alımı ihalesi kapsamında çalışan işçiler, 696 sayılı Kanun Hükmünde Kararname (KHK) uyarınca sürekli işçi kadrolarına geçirilmiş, söz konusu hizmet alım ihaleleri ise mezkur KHK ile feshedilmiştir.
+
+696 sayılı KHK’nin 127’nci maddesi ile 375 sayılı KHK’ye eklenen geçici 23’üncü maddenin ilgili kısmında;
+
+“Sürekli işçi kadrolarına geçirileceklerin istihdam edilmesine esas hizmet alım sözleşmeleri, birinci fıkrada öngörülen geçiş işleminin yapıldığı tarih itibarıyla feshedilmiş sayılır. Feshedilmiş sayılan sözleşmelerden, sadece yapılan işin tutarı her türlü fiyat farkı hariç sözleşme bedelinin %80 ’ini aşmayanlar için yükleniciye, sözleşmenin yürütülmesine ilişkin her türlü zarara karşılık her türlü fiyat farkı hariç sözleşme bedelinin %80’i ile yapılan işin tutarı arasındaki bedel farkının %5 ’i fesih tarihindeki fiyatlar dikkate alınarak sözleşmeyi yürüten idare tarafından, yapmış olduğu vergi, resim, harç ve paylar dahil olmak üzere tüm giderler ve mahrum kaldığı kâr karşılığı olmak üzere tazminat olarak ödenir ve başkaca bir ödeme yapılmaz. Yüklenici başka bir hak talebinde bulunamaz... " denilmektedir.
+
+3065 sayılı Katma Değer Vergisi (KDV) Kanunu’nun; 1/1’inci maddesinde, Türkiye’de ticari, sınai, zirai faaliyet ve serbest meslek faaliyeti çerçevesinde yapılan teslim ve hizmetlerin KDV’ye tabi olduğu, 4/1’inci maddesinde, hizmetin teslim ve teslim sayılan haller ile mal ithalatı dışında kalan işlemler olduğu ve bu işlemlerin bir şeyi yapmak, işlemek, meydana getirmek, imal etmek, onarmak, temizlemek, muhafaza etmek, hazırlamak, değerlendirmek, kiralamak, bir şeyi yapmamayı taahhüt etmek gibi, şekillerde gerçekleşebileceği hüküm altına alınmıştır.
+
+Öte yandan, konu ile ilgili olarak 60 No.lu KDV Sirküleri’nin “1.2. Tazminatlar” başlıklı bölümünde; “1.2.1. Herhangi bir teslim veya hizmetin karşılığı olarak ortaya çıkmayan tazminat ve benzeri ödemeler prensip olarak KDV’nin konusuna girmemektedir. Bu kapsamda, işin sözleşme şartlarına uygun yapılmaması, işin verilen süre içerisinde tamamlanmaması, sözleşmenin feshedilmesi gibi nedenlerle tazminat, cayma bedeli v.b. adlarla yapılan cezai şart mahiyetindeki ödemeler herhangi bir teslim veya hizmetin karşılığı olmadığından KDV’nin konusuna girmemektedir. ” düzenlemeleri yer almaktadır.
+
+Yukarıda yer alan mevzuat düzenlemelerinden, 696 sayılı KHK hükümleri gereğince sürekli işçi kadrosuna geçirileceklerin istihdam edilmesine esas hizmet alımı sözleşmelerinin feshi nedeniyle, idare tarafından yükleniciye yapılacak ödemelerin herhangi bir teslim veya hizmetin karşılığını teşkil etmediğinden KDV’ye tabi olmadığı, ayrıca 696 sayılı KHK’nın ilgili kısmında da söz konusu tazminat ödemelerinin vergiler de dahil olmak üzere tüm giderlerin karşılığı olarak yapıldığı ve başkaca bir ödeme yapılmaması gerektiği anlaşılmaktadır.
+
+Yapılan incelemede, ... Belediyesi tarafından yürütülmekte olan ve 696 sayılı KHK gereği feshedilen personel çalıştırılmasına dayalı hizmet alımı ihalelerinde, hesaplanan fesih tazminatları üzerinden KDV ödemesi de yapılmakta olduğu tespit edilmiştir.
+
+Savunmalarda söz konusu ödemenin … Genel Müdürlüğünce yayımlanan özelge doğrultusunda yapıldığı ve yapılan KDV ödemelerinin vergi dairesine yatırılmış olması sebebiyle kamu zararı doğmadığı belirtilmiştir.
+
+Savunma ekinde gönderilen … Genel Müdürlüğü yazısı, kişiye özel bir duruma ilişkin verilmiş görüş yazısı olup, Sayıştay’ın hüküm vermesi açısından bağlayıcılık teşkil etmemektedir. Kaldı ki, mezkur yazıda yer alan “…yüklenici firmalardan sözleşme bedelinin %80’i ile gerçekleşen ihale bedeli arasındaki farkın %5’i tutarındaki bedele ilişkin düzenlenecek faturalarda KDV hesaplanması...” ifadesi ile kastedilen, hesaplanan tazminat bedeline zaten KDV’nin de dâhil olduğu, tazminat tutarına isabet eden KDV’nin faturada ayrıca gösterilmesi gerektiği hususudur. Ancak mevcut durumda sorumlular hesapladıkları tazminatı tutarı üzerinden ayrıca KDV hesaplaması da yaparak kamu zararına sebebiyet vermişlerdir.
+
+Sorumlularca ifade edilen bir diğer husus olan, sorgu konusu KDV ödemelerinin vergi dairesine yatırılmış olması sebebiyle kamu zararı doğmamış olduğu iddiasına ilişkin olarak ise, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71’inci maddesinde yer alan “Kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır." şeklinde yapılan kamu zararı tanımındaki “kamu kaynağı” tanımı tüm kamu sektörünü kapsayacak şeklinde genişletilerek değil, denetlenen idarenin bütçesi şeklinde yorumlanmalıdır. Zira sorgu evrakında izahatı istenen kamu zararı, ... Belediyesi 2018 yılı bütçesi hesap ve işlemlerinin denetimi sırasında tespit edilen kamu zararıdır. Aksi takdirde yalnızca mal ve hizmet alımları sebebiyle özel sektöre yapılan ödemeler kamu zararı kapsamına girecek, hatta kamu sermayeli işletmelerden yapılan mal ve hizmet alımlarında yapılan mevzuata aykırı ödemeler dahi kamu zararı olarak değerlendirilemeyecektir.
+
+Bu itibarla; mevzuatında yer almadığı halde fesih tazminatları üzerinden KDV ödemesi yapılması sonucu ortaya çıkan …. TL tutarındaki kamu zararının;
+
+ 1 Harcama Yetkilisi …ve Gerçekleştirme Görevlisi …’e
+
+müştereken ve mütelsilen 6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizleri ile ödettirilmesine, anılan Kanun’un 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
