@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47646",
+  "decision_date": "2020-06-24",
+  "source_id": 22955,
+  "chamber": "6",
+  "file_number": "45828",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22955/",
+  "source_sha256": "4009c76436839345b5e2b878f938f94959aefe99bdd0e84095c9a86a4d4551d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
