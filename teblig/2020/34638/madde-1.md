@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Marcegaglia TR Paslanmaz Çelik Sanayi ve Ticaret A.Ş. tarafından yapılan başvuruya istinaden Vietnam Sosyalist Cumhuriyeti menşeli 7306.40.20.90.00 ve 7306.40.80.90.00 gümrük tarife istatistik pozisyonları altında yer alan “Diğerleri” ile 7306.61.10.00.00 gümrük tarife istatistik pozisyonu altında yer alan “Paslanmaz çelikten olanlar” ürünlerine yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
