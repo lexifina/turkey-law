@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-06-24",
+  "issue": "31165",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Helal Akreditasyon Kurumu Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200624-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200624.htm",
+  "index_sha256": "87d62b794e6b8add87e1c5c0ce8d25ea56de7fb6b2b19579562fd53816b8907a",
+  "index_header": "24 Haziran 2020 ... 31165 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200624.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
