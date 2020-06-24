@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Petkim Petrokimya Holding A.Ş. tarafından gerçekleştirilen başvuruya istinaden Amerika Birleşik Devletleri ve Almanya Federal Cumhuriyeti menşeli 3904.10.00.00.19 gümrük tarife istatistik pozisyonu altında yer alan “yalnız süspansiyon tipi polivinil klorür” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önlemlere ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
