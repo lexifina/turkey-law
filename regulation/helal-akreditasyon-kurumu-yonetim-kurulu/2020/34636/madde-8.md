@@ -1,0 +1,3 @@
+Unvan değişikliği suretiyle yapılacak atamalara ilişkin genel şartlar
+MADDE 8 – (1) Bu Yönetmeliğin 5 inci maddesinin ikinci fıkrasında sayılan kadrolara unvan değişikliği suretiyle atanacaklarda yazılı ve sözlü sınavda başarılı olma şartı aranır.
+(2) Unvan değişikliği yazılı sınavları, Kurum tarafından belirlenecek görev alanları ve atama yapılacak görevin niteliğine ilişkin konularda Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı, Milli Eğitim Bakanlığı veya yükseköğretim kurumlarından birine yaptırılır ve bu sınavlara katılacaklarda, Kurumda veya öğrenim durumları ile ilgisi bulunmayan görevlerde belirli süre hizmet yapmış olma şartı aranmaz.

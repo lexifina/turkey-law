@@ -1,0 +1,6 @@
+Sınav kurulu ve görevleri
+MADDE 16 – (1) Kurumca yapılacak ya da yaptırılacak görevde yükselme ve unvan değişikliği sınavına ilişkin işlemleri yürütmek üzere, beş asıl ve üç yedek üyeden oluşan sınav kurulu teşkil edilir. Sınav kurulu, Başkan veya görevlendireceği kişinin başkanlığında, atamaya yetkili amirce belirlenecek personel birimi temsilcisi ile diğer üyelerden teşekkül eder. Asıl üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(2) Sınav kurulunu teşkil eden üyeler, sınavlara alınacak personelden, lisansüstü öğrenim hariç öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar. Sınav kurulu başkan ve üyelerinin, eşleri veya ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının sınava katılmaları halinde, bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yedek üye veya üyeler görevlendirilir.
+(3) Sınav kurulu üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır. Çekimser oy kullanılmaz.
+(4) Sınav kurulunun sekretarya hizmetleri, insan kaynaklarından sorumlu birimce yürütülür.
+(5) Sınav kurulu; görevde yükselme yazılı sınavlarının yapılması veya yaptırılması, unvan değişikliği yazılı sınavlarının yaptırılması, sözlü sınavların yapılması, sınav sonuçlarının ilanı ve yapılan itirazların sonuçlandırılması ile sınavlara ilişkin diğer iş ve işlemleri yürütür.
