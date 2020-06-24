@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47439",
+  "decision_date": "2020-06-24",
+  "source_id": 22749,
+  "chamber": "6",
+  "file_number": "45602",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22749/",
+  "source_sha256": "76e99891c3f6dfe76bcb9e9ef9118586662743fa24c8b3fb486922961d4a2b74",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
