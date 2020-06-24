@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7246",
+  "year": 2020,
+  "title": "Rekabetin Korunması Hakkında Kanunda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-06-24",
+  "gazette_issue": "31165",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200624-1.htm",
+  "source_sha256": "5cbba3fa96615bcedf0cc69d253e82af14195e30b53d66abbaf6b776531dd0b2",
+  "text_sha256": "72a7397df10d72d97e7fe02f771aac5be689130914b8a8f657ec8e6b355c41ae",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/06/24/31165-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/06/20200624-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
