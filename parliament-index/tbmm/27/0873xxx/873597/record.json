@@ -1,0 +1,125 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 873597,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "ABDULLAH GÜLER (İSTANBUL)",
+  "summary": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 128 milletvekilinin Hukuk Muhakemeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında (2/2735) (S. Sayısı: 216)",
+  "title": "Ve Adalet ve Kalkınma Partisi Grup Başkanvekili Tokat Milletvekili Özlem Zengin ile 128 milletvekilinin Hukuk Muhakemeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında (2/2735) (S. Sayısı: 216)",
+  "first_sitting_date": "2020-06-24",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 44,
+      "sitting": 104,
+      "sitting_date": "2020-06-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c044/tbmm27044104.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c044/tbmm27044fih.pdf",
+      "pages": [
+        "270:290",
+        "291:301",
+        "302:305",
+        "305:316",
+        "326:344",
+        "352:354",
+        "356:372",
+        "379:381",
+        "382:384",
+        "384",
+        "386"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 44,
+      "sitting": 105,
+      "sitting_date": "2020-06-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c044/tbmm27044105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c044/tbmm27044fih.pdf",
+      "pages": [
+        "540:543",
+        "545:547",
+        "554:557",
+        "558:561",
+        "562:564",
+        "564:566",
+        "567:572",
+        "572:575",
+        "582:589",
+        "596:597"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 45,
+      "sitting": 106,
+      "sitting_date": "2020-07-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c045/tbmm27045106.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c045/tbmm27045fih.pdf",
+      "pages": [
+        "80:84",
+        "84",
+        "86:90",
+        "92",
+        "99:108",
+        "109:113",
+        "121",
+        "121:123",
+        "126:139",
+        "139:142"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 46,
+      "sitting": 114,
+      "sitting_date": "2020-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046114.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046fih.pdf",
+      "pages": [
+        "506:519",
+        "520:530",
+        "531:535",
+        "537:538"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 46,
+      "sitting": 115,
+      "sitting_date": "2020-07-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046115.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046fih.pdf",
+      "pages": [
+        "725:729",
+        "731:736",
+        "737:742",
+        "742:743",
+        "744:745",
+        "746:753",
+        "759",
+        "764:769",
+        "769:787",
+        "788"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2020-06-24",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
