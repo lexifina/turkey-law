@@ -1,0 +1,4 @@
+Hizmet gereği atama
+MADDE 11 – (Değişik:RG-1/3/2019-30701)
+(1) Haklarında adli veya idari bir soruşturma yapılmış ve bu soruşturma sonucunda o yerde kalmasında sakınca görülmüş olan memurun hizmet bölgelerindeki veya hizmet alanlarındaki zorunlu çalışma sürelerini tamamlamadan ve yer değiştirme suretiyle atanma dönemi beklenmeksizin hizmetin gereği olarak yer değiştirme suretiyle ataması yapılabilir.
+(2) Hizmet gereği yer değişikliği yapılan personelin ayrıldığı hizmet bölgesindeki eksik hizmetleri aynı hizmet bölgesi içindeki başka bir hizmet alanında tamamlattırılır. Memurun görev yaptığı hizmet bölgesinde ihtiyaç bulunmaması halinde diğer hizmet bölgelerine de ataması yapılabilir. Bu şekilde ataması yapılan memurun ayrıldığı hizmet bölgesindeki eksik hizmetleri daha sonra tamamlattırılır.

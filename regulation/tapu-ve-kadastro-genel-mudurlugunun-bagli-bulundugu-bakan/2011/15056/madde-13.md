@@ -1,0 +1,6 @@
+Naklen veya açıktan atamalar
+MADDE 13 – (1) Diğer kamu kurum ve kuruluşlarında çalışanlardan askerlik (Değişik ibare:RG-5/3/2014-28932) ile varsa Genel Müdürlük birimlerinde daha önce yapmış olduğu hizmeti hariç Devlet memuriyetinde on iki yıldan fazla hizmeti bulunanlar, aynı unvana veya Tapu ve Kadastro Genel Müdürlüğü Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde belirlenen bu unvanın bulunduğu aynı gruptaki diğer unvanlara veya daha alt gruptaki unvanlara atanamazlar.
+(2) Genel Müdürlüğe naklen geçiş yapanlar atandıkları kadrolarda (Değişik ibare:RG-25/6/2020-31166) beş yıl çalışmadan, Bölge Müdürü, Bölge Müdür Yardımcısı, Şube Müdürü, Kadastro Müdürü, Tapu Müdürü, (Ek ibare:RG-25/6/2020-31166) İşletme Müdürü, İşletme Müdür Yardımcısı, Tapu Sicil Müdür Yardımcısı (Ek ibare:RG-25/6/2020-31166) , Kadastro Müdür Yardımcısı kadrolarına doğrudan atanamazlar.
+(3) Diğer kurum ve kuruluşlardan Genel Müdürlüğe naklen atanacaklarda aşağıdaki şartlar aranır;
+a) 657 sayılı Devlet Memurları Kanununun 125 inci maddesi kapsamında disiplin cezası almamış olmak,
+b) Destek hizmetleri grubunda sayılan unvanlara atanmak için en az orta öğrenim, idari hizmetler grubundaki unvanlara atanmak için en az iki yıllık yüksek öğrenim, diğer hizmet gruplarındaki unvanlara atanmak için ise en az dört yıllık yükseköğrenim mezunu olmak.

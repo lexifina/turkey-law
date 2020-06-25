@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.15056",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ PERSONELİ ATAMA VE YER DEĞİŞTİRME ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "15056",
+  "issuer": "Tapu ve Kadastro Genel Müdürlüğünün bağlı bulunduğu Bakan",
+  "issuer_slug": "tapu-ve-kadastro-genel-mudurlugunun-bagli-bulundugu-bakan",
+  "path": "regulation/tapu-ve-kadastro-genel-mudurlugunun-bagli-bulundugu-bakan/2011/15056",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15056&MevzuatTertip=5",
+  "source_sha256": "d038ea53538e0375474eba29ceaef03c0b618e5406752dbb1088de4dc5bdef54",
+  "source_bytes": 170330,
+  "published": "2011-06-20",
+  "gazette": "27970",
+  "in_force": "2020-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-06-25",
+      "RG-25/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-25",
+      "25/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-03-01",
+      "RG-1/3/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-03-01",
+      "1/3/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-05",
+      "RG-5/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-05",
+      "5/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-05-16",
+      "RG-16/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-16",
+      "16/5/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3695,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
