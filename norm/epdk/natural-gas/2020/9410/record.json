@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9410",
+  "decision_date": "2020-06-25",
+  "title": "Palen Enerji Doğalgaz Dağıtım Endüstri ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-06-27",
+  "resmi_gazete_number": "31168",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uxsspP40Oj4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uxsspP40Oj4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TMBD5+TfGoY="
+  ],
+  "source_sha256": "fb4d675fae24457606b6d021fc14e58f22d97ebee448c7ce09aea28e60b6ee2f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-06-25",
+  "law_text_complete": true
+}
