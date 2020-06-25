@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "749",
+  "decision_date": "2020-06-25",
+  "source_id": 31745,
+  "chamber": "6",
+  "ilam_number": "114",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/31745/",
+  "source_sha256": "e79a55a7975f53d1fb27550cacb61ec8e058cc8dc3a490842e33b8a51f4d76e4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
