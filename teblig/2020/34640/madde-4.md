@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4 – (1) Önleme tabi ürün, 8301.40.11.00.00 GTİP altında kayıtlı “silindirli kapı kilitleri (elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.40.19.00.11 GTİP altında kayıtlı “soğuk hava deposuna mahsus olanlar (elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.40.19.00.19 GTİP altında kayıtlı “diğerleri (elektromekanik, elektromanyetik, tam elektronik olanlar hariç)”, 8301.60.00.00.11 GTİP altında kayıtlı “kapı kilidi silindirleri (barel)” ile 8301.60.00.00.19 GTİP altında kayıtlı “yalnız kapı kilitleri için kilit kasası”dır.
+(2) Bahse konu GTİP, yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Önleme tabi ürünün TGTC’de yer alan tarife pozisyonlarında ve/veya eşya tanımlarında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
