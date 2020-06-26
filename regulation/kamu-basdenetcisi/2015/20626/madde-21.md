@@ -1,0 +1,4 @@
+Naklen ve özelleştirilen kurumlardan atanma
+MADDE 21 – (1) Diğer kamu kurum ve kuruluşlarında görev yapanlardan, bu Yönetmelikte belirtilen aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara genel hükümlere göre naklen atama yapılabilir. Ancak, bu şekilde atanacaklarda bu Yönetmelikte kadro için öngörülen şartlardan Kurumda veya belirli bir alt görevde çalışmış olma şartı dışındaki şartlar aranır.
+(2) Diğer personel kanunlarına tabi olanların Devlet Memurları Kanununa tabi görevlere atanmalarında ihraz ettikleri unvanlar, aynı unvanın olmaması halinde öğrenim durumu ve ihraz ettiği unvanla birlikte atanacağı unvan ve Devlet Personel Başkanlığının olumlu görüşü dikkate alınır.
+(3) 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesi uyarınca ilk defa yapılan atamalarda bu Yönetmelik hükümleri uygulanmaz.
