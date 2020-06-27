@@ -1,0 +1,13 @@
+Ayrılma hakkının kullandırılması yükümlülüğünden muafiyet halleri
+MADDE 16 – (1) Aşağıda belirtilen önemli nitelikteki işlemlerde bu Tebliğ hükümleri çerçevesinde ayrılma hakkının kullandırılması yükümlülüğünden muafiyet tanınabilir:
+a) Önemli nitelikteki işlemlere özgü olarak gönüllü olarak pay alım teklifinde bulunulmasının Kurulca uygun görülmesi.
+b) İmtiyazların bedelsiz olarak kaldırılması ile konu veya kapsam bakımından daraltılması işlemleri.
+c) Ortaklığın muaccel borçlarını ödeyememesi, nakit ve benzerleri ile alacaklarının borçlarını karşılayamaması veya faaliyetini geçici durdurması durumları da dahil olmak üzere finansal güçlükten kurtulmak amacıyla gerçekleştirdiği önemli nitelikteki işlemler.
+ç) Ortaklığın 4 üncü maddenin birinci fıkrasının (c) bendinde düzenlenen sınırlı ayni hak tesisi karşılığında maddi menfaat elde etmesi.
+d) Birleşme ve Bölünme Tebliği (II-23.2)’nde tanımlanan birleşme amaçlı ortaklığın taraf olduğu birleşme işlemleri.
+e) Ortaklığın, sermayesinin %90’ından daha azına sahip olduğu bağlı ortaklıkları ile 4 üncü maddenin birinci fıkrasının (c) bendi çerçevesinde gerçekleştirdiği işlemler.
+f) Yönetim kontrolünün bir kamu kurumu ile birlikte sağlandığı ya da kamu kurumlarının yönetim kontrolüne sahip olmadığı ancak imtiyazlı pay sahibi olduğu ortaklıklarca yapılan önemli nitelikteki işlemler.
+g) Devrolan ortaklığın temel faaliyet konularının ve finansal yapısının devralan şirket nezdinde esaslı bir değişiklik olmaksızın korunduğu ve devrolan ortaklığın pay sahiplerinin işlem sonrasında devralan şirket sermayesinde asgari 2/3 oranında paya sahip olduğu, aynı gerçek ve/veya tüzel kişi tarafından yönetim kontrolüne sahip olunan grup içi birleşme işlemleri.
+(2) Muafiyet talepleri için yönetim kurulu karar tarihini izleyen on iş günü içinde Kurula başvurulması gerekir. Kurulca yapılacak incelemeler ve talep edilecek bilgi ve belgelerin değerlendirilmesi sonucunda muafiyet koşullarının sağlandığı kanaatine varılırsa, ayrılma hakkı kullandırılması yükümlülüğünden muafiyet tanınabilir.
+(3) Birinci fıkranın (c) bendi çerçevesinde yapılacak muafiyet başvurularında, ortaklığın finansal güçlük içinde bulunduğunu ve önemli nitelikteki işlemin finansal güçlükten çıkması sonucunu doğurabilecek olumlu etkilerini gösteren ve Kurulun bilgi sistemleri düzenlemelerine göre bağımsız denetim yapmaya yetkili kuruluşlar tarafından hazırlanan bağımsız güvence raporunun Kurula sunulması zorunludur.
+(4) Ayrılma hakkının kullandırılması yükümlülüğünden muaf tutulmak üzere Kurula başvuruda bulunulması ile söz konusu başvurunun sonucu hakkında ortaklık tarafından Kurulun özel durumların kamuya açıklanmasına ilişkin düzenlemeleri çerçevesinde kamuya açıklama yapılır.

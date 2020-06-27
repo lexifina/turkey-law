@@ -1,0 +1,6 @@
+Açıklanmış önemli nitelikteki işlemler
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girdiği tarihten önce kamuya açıklanan önemli nitelikteki işlemler, bu Tebliğin 20 nci maddesi ile yürürlükten kaldırılan Tebliğ hükümlerine göre sonuçlandırılır. Ancak, payları borsada işlem gören ortaklıklarda ayrılma hakkına sahip pay sahipleri ve pay tutarlarının belirlenmesinde;
+a) Kanunun 24 üncü maddesinde değişiklik yapan 20/2/2020 tarihli ve 7222 sayılı Bankacılık Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun Resmî Gazete’de yayımlandığı 25/2/2020 tarihinden önce kamuya açıklanan önemli nitelikteki işlemler için, 25/2/2020 tarihi,
+b) 25/2/2020 tarihi ile bu Tebliğin yürürlüğe girdiği tarih arasında kamuya açıklanan önemli nitelikteki işlemler için işlemlerin kamuya açıklanma tarihi,
+esas alınır. Esas alınan tarihler itibarıyla pay sahipliğine ilişkin belirleme yapılırken takasın tamamlanmasına bakılmaksızın eşleşmiş emirler dikkate alınır.
+(2) Birinci fıkrada belirtilen önemli nitelikteki işlemler açısından ayrılma hakkı talebine konu payların ortaklık tarafından satın alınmasından önce bu Tebliğe uygun olarak diğer pay sahiplerine veya yatırımcılara önerilmesine ilişkin yönetim kurulu kararı alınabilir.

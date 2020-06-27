@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğin uygulanmasında;
+a) Ana ortaklık: Türkiye Muhasebe Standartları/Türkiye Finansal Raporlama Standartlarında tanımlanan ana ortaklıkları,
+b) Bağlı ortaklık: Türkiye Muhasebe Standartları/Türkiye Finansal Raporlama Standartlarında tanımlanan bağlı ortaklıkları,
+c) Banka:19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununda tanımlanan bankaları,
+ç) Borsa: 6362 sayılı Kanunun 3 üncü maddesinde tanımlanan sistemler ve pazar yerlerini,
+d) Finansal kuruluş: Kalkınma ve yatırım bankaları hariç olmak üzere, 5411 sayılı Kanunda tanımlanan finansal kuruluşları,
+e) Finansal tablolar: 13/6/2013 tarihli ve 28676 sayılı Resmî Gazete’de yayımlanan Sermaye Piyasasında Finansal Raporlamaya İlişkin Esaslar Tebliği (II-14.1)’nde tanımlanan finansal tabloları,
+f) İlişkili taraf: Türkiye Muhasebe Standartları/Türkiye Finansal Raporlama Standartlarında tanımlanan ilişkili tarafı,
+g) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+ğ) KAP: Kamuyu Aydınlatma Platformunu,
+h) Kontrol: Türkiye Muhasebe Standartları/Türkiye Finansal Raporlama Standartlarında tanımlanan kontrolü,
+ı) Kurul: Sermaye Piyasası Kurulunu,
+i) İİK: 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununu,
+j) Mal varlığı: Ortaklığın finansal tablolarında duran varlık olarak sınıflandırılan varlıkları ve satış amaçlı sınıflandırılan duran varlıkları ile bağlı ortaklıkları,
+k) MKK: Merkezi Kayıt Kuruluşu Anonim Şirketini,
+l) Ortaklık: Kitle fonlaması platformları aracılığıyla para toplayanlar hariç olmak üzere, payları halka arz edilmiş olan veya halka arz edilmiş sayılan anonim ortaklıkları,
+m) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+n) Yönetim kontrolü: Ortaklığın oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunmasını, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunmasını,
+ifade eder.

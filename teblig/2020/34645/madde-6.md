@@ -1,0 +1,18 @@
+Önemlilik ölçütü
+MADDE 6 – (1) 4 üncü maddenin birinci fıkrasının (c) bendinde belirlenen önemli nitelikteki işlemler için önemlilik ölçütü, yönetim kurulu karar tarihi itibarıyla;
+a) Ortaklığın kamuya açıklanmış son finansal tablolarına göre işleme konu mal varlığının kayıtlı değerinin varlık (aktif) toplamına oranının veya,
+b) İşlem tutarının, son altı aylık dönem içinde oluşan günlük düzeltilmiş ağırlıklı ortalama borsa fiyatlarının aritmetik ortalaması dikkate alınarak hesaplanan ortaklık değerine oranının veya,
+c) Ortaklığın kamuya açıklanmış son yıllık finansal tablolarına göre önemli nitelikteki işleme konu mal varlığından elde edilen gelirin, sürdürülen faaliyetler dönem net karı/zararına etki eden tüm gelir kalemlerinin toplamına oranının,
+%75’ten fazla olması durumudur.
+(2) Gayrimenkul yatırım ortaklıkları ile girişim sermayesi yatırım ortaklıkları için önemlilik ölçütünün belirlenmesinde birinci fıkranın (a) bendi hükümleri uygulanır.
+(3) Birinci fıkranın (b) bendi mal varlığının devri dışındaki işlemlerde uygulanmaz. Birinci fıkranın (b) bendinin uygulanmasında Kurulca;
+a) Kanunun 107 nci maddesinde sayılan fiiller nedeniyle 101 inci veya 107 nci maddeleri kapsamında işlem yapılmasına veya,
+b) Ekonomiyi ya da sektörü etkileyen olağanüstü gelişmelerin varlığının kabulüne,
+ilişkin karar alınmış olması durumunda, karara esas teşkil eden dönemler dikkate alınmaz. Bu süreler hesaplamaya esas alınan dönemlerin başına eklenmek suretiyle dönemler tamamlanır.
+(4) Konsolide finansal tablo hazırlayan ortaklıklar açısından birinci fıkradaki oranların hesaplanmasında bağlı ortaklıkları tarafından yapılan işlemler de dikkate alınır. Bu kapsamda ana ortaklık konsolide finansal tabloları açısından önemlilik ölçütlerini sağlayan ve bağlı ortaklıklarca yapılan işlemler, ana ortaklık açısından önemli nitelikteki işlem kabul edilir. Bu durum, halka açık bağlı ortaklıkların bu Tebliğden doğan yükümlülüklerini ortadan kaldırmaz.
+(5) Ortaklığın finansal tablolarında konsolide edilen bağlı ortaklıklarındaki paylarının;
+a) Kontrol kaybına yol açacak şekilde satılması durumunda, birinci fıkranın (a) ve (c) bentleri uyarınca yapılacak hesaplamalarda, bağlı ortaklığın konsolidasyona ilişkin eliminasyon sonrasında konsolide finansal tablolara dahil edilen aktif toplamı veya gelir kalemlerinin tamamı, ortaklığın konsolide finansal tablolardaki aktif toplamı veya gelir kalemlerinin toplamına oranlanır.
+b) Kontrol kaybına yol açmayacak şekilde satılması durumunda ise birinci fıkranın (b) bendi uygulanır.
+(6) Önemli nitelikteki işleme ilişkin yönetim kurulu kararının kamuya açıklandığı tarih itibarıyla Kurumsal Yönetim Tebliği (II-17.1) uyarınca Birinci ve İkinci Grupta yer alan ortaklıklar, gayrimenkul yatırım ortaklıkları ve girişim sermayesi yatırım ortaklıkları dışındaki payları borsada işlem gören ortaklıklardan, fiili dolaşımdaki pay oranı yüzde %50’nin üstünde olanlar için, birinci fıkrada belirtilen oran %50 olarak uygulanır. Ayrıca bu fıkra kapsamındaki ortaklıkların orana bağlı olmaksızın fiili faaliyet konusunun tümüyle değişmesine yol açan 4 üncü maddenin birinci fıkrasının (c) bendinde sayılan işlemleri de önemli nitelikteki işlem kabul edilir.
+(7) Bu Tebliğde belirtilen oranlara ilişkin sınırların altında kalmak amacıyla, ekonomik bir bütünlük oluşturan mal varlığına ilişkin işlemlerin ilk işlem tarihinden itibaren on iki aylık bir dönem içinde birkaç seferde yapılması durumunda, işlemler tek bir işlem olarak dikkate alınır.
+(8) Ortaklıkların hem konsolide hem de konsolide olmayan finansal tablolarının bulunması durumunda, bu madde kapsamındaki oranların hesaplanmasında konsolide finansal tabloları esas alınır.
