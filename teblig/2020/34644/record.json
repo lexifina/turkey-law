@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31168",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31168",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-06-27",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "İçişleri Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-65-0.json",
+      "id": "65",
+      "label": "İçişleri Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=65&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "icisleri-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-06-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34644&MevzuatTertip=5",
+  "source_bytes": 41760,
+  "source_id": "9.5.34644",
+  "source_sha256": "4329a2e8a071abfd1cb8946469ff5d29032cea076c6fcbb83024c85a449e0ebe",
+  "title": "KİMLİK PAYLAŞIMI SİSTEMİ ÜZERİNDEN ALINAN BİLGİLER KARŞILIĞINDA KATILMA PAYI ÖDENMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "word_count": 1115
+}

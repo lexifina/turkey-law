@@ -1,0 +1,2 @@
+Tahakkuk ve bildirim
+MADDE 7 – (1) Genel Müdürlükçe katılma payları takvim yılının üçer aylık dönemleri itibarıyla her bir dönemde yapılan sorgulamalar üzerinden kurumsal bazda hazırlanan ve sorgu miktarları ile tahakkuk ettirilen katılma paylarını gösteren çizelgeler ödeme yükümlülüğü bulunanlara dönemi takip eden ayın 15 inci günü akşamına kadar iadeli posta ile bildirim için gönderilir. Söz konusu çizelgeler bildirimi müteakip, tebliğ tarihini de gösterir şekilde İçişleri Bakanlığının muhasebe hizmetlerini yürüten Merkez Saymanlık Müdürlüğüne gönderilir.

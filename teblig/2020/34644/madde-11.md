@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 11 – (1) 21/9/2006 tarihli ve 26296 sayılı Resmî Gazete’de yayımlanan Kimlik Paylaşımı Sistemi Üzerinden Alınan Bilgilerin Ücretlendirilmesine İlişkin Esas ve Usuller Hakkında Tebliğ ile 7/11/2009 tarihli ve 27399 sayılı Resmî Gazete’de yayımlanan Kimlik Paylaşımı ve Adres Kayıt Sistemi Üzerinden Alınan Bilgiler Karşılığında Katılma Payı Ödenmesine İlişkin Usul ve Esaslar Hakkında Tebliğ yürürlükten kaldırılmıştır.
