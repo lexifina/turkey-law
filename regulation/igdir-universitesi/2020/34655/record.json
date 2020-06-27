@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-06-27",
+      "27.06.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31168",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-06-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Iğdır Üniversitesi",
+  "issuer_slug": "igdir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/igdir-universitesi/2020/34655",
+  "published": "2020-06-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34655&MevzuatTertip=5",
+  "source_bytes": 30318,
+  "source_id": "8.5.34655",
+  "source_sha256": "45c07017c987578a871d902fd010fb660386b7047573057a712ff1b6b5743fbb",
+  "text_status": "as-enacted",
+  "title": "IĞDIR ÜNİVERSİTESİ İŞ SAĞLIĞI VE GÜVENLİĞİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 320,
+  "word_count": 1400
+}
