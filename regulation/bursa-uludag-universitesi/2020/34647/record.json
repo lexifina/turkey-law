@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.34647",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "BURSA ULUDAĞ ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "34647",
+  "issuer": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+  "issuer_slug": "bursa-uludag-universitesi",
+  "path": "regulation/bursa-uludag-universitesi/2020/34647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34647&MevzuatTertip=5",
+  "source_sha256": "0fe18c1019987c8535029e675b7d07650108e73db1cd063016389de3df36739c",
+  "source_bytes": 109872,
+  "published": "2020-06-28",
+  "gazette": "31169",
+  "in_force": "2020-06-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.06.2020); own commencement article: \"Bu Yönetmelik 2020-2021 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2020-2021 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7608,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
