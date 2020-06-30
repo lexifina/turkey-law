@@ -1,0 +1,20 @@
+{
+  "applicant": "N.Y.",
+  "application_date": "2016-10-06",
+  "application_number": "2016/21840",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-06-30",
+  "id": "c5c63105-51db-e1b5-a40b-1db3c4f92be2",
+  "in_force": "2020-06-30",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM1YzYzMTA1LTUxZGItZTFiNS1hNDBiLTFkYjNjNGY5MmJlMg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "c680f0a0132bb978d745a57545202bd1ad6daad308adbed65d249c2d06a8333e",
+  "version_label": "as-enacted"
+}
