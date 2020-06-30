@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/504",
+  "source_id": 6932,
+  "date": "2020-06-30",
+  "title": "“Veri sorumlusu bir havayolu şirketi tarafından ilgili kişiye ait çağrı merkezi görüşme kayıtlarının transkriptinin teslim edilmemesi” hakkında Kişisel Verileri Koruma Kurulunun 30/06/2020 tarihli ve 2020/504 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6932/2020-504",
+  "source_sha256": "6ffc9154fd52465e8be52129cff78f0948ec1ff21d0103c6ea1b550efcc17852",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
