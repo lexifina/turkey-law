@@ -1,0 +1,29 @@
+{
+  "number": "83",
+  "number_as_published": "2020/83",
+  "year": 2020,
+  "month": 6,
+  "title": "Haliliye İlçesi, Kısas Mahallesinde bulunan mülkiyeti Belediyemize ait 241 ada 1 numaralı parselde kayıtlı arsa vasıflı 2.289,30 m² yüzölçümlü taşınmazın üzerinde bulunan binanın (Eski Kısas Belde Hizmet Binası) 1. katının tamamının söz konusu sağlık hizmetlerinin aksamaması amacıyla, 5393 Sayılı Belediye Kanununun 18. maddesinin (e) fıkrası “Taşınmaz mal alımına, satımına, trampa edilmesine, takasına, tahsisine, tahsis şeklinin değiştirilmesine veya tahsisli bir taşınmazın kamu hizmetinde ihtiyaç duyulmaması hâlinde tahsisin kaldırılmasına; üç yıldan fazla kiralanmasına ve süresi otuz yılı geçmemek kaydıyla bunlar üzerinde sınırlı aynî hak tesisine karar vermek” hükmüne istinaden ekli protokol hükümleri kapsamında yeni ASM (Sağlık Ocağı) Binası ve 112 İstasyonu yapılana kadar geçici olarak Şanlıurfa İl Sağlık Müdürlüğüne tahsis edilmesi için Belediye Encümenine, aynı Kanunun 38. Maddesinin (g) bendi uyarınca sözleşme ve protokol imzalamak üzere Belediye Başkanına yetki verilmesi hususu görüşülerek oy birliği ile karara bağlandı.",
+  "decision_date": null,
+  "index_date": "2020-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2020",
+  "source": "https://www.haliliye.bel.tr/icerik/5666/39/haziran-2020",
+  "official_page": "https://www.haliliye.bel.tr/icerik/5666/39/haziran-2020",
+  "official_document": null,
+  "source_sha256": "12450a9e1aedeb6867e8599ade386a450c0e7c232b4555b39b76d1aae0e0561b",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2020-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "HAZİRAN 2020",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
