@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35629",
+  "decision_date": "2020-06-30",
+  "source_id": 32047,
+  "chamber": "2",
+  "ilam_number": "404",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32047/",
+  "source_sha256": "7b5a807bf8b4719cefc81a249cf4ce213a041223205b63049da2321055f9c64a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
