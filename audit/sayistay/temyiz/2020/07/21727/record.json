@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47921",
+  "decision_date": "2020-07-01",
+  "source_id": 21727,
+  "chamber": "7",
+  "file_number": "45091",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21727/",
+  "source_sha256": "cf415deb1cc394fcaf3668109304f7a48acda823db2764643d75fbeafa2039a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

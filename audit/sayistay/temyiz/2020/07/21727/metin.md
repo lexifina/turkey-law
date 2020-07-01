@@ -1,0 +1,5 @@
+Genel kurul üyelerine mevzuat hükümlerine aykırı olarak aynı gün için birden fazla huzur hakkı ödenmesi:
+
+2- 81 sayılı İlamın 9. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’nın itiraz başvurusu üzerine düzenlenen 45004 sayılı dosya, 01.07.2020 tarih ve 47860 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Harcama Yetkilisi sıfatıyla temyiz talep eden …’yu) ilgilendiren ve aynı mahiyette olan 45091 sayılı işbu dosyanın da sözü edilen (45004 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 01.07.2020 tarih ve 47921 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
