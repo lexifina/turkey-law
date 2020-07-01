@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 30/6/2020 tarihli ve 2710 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Bazı Sanayi Ürünlerinin İthalatında Tarife Kontenjanı Uygulanması Hakkında Karar uyarınca, bu Tebliğin Ek-1’indeki tabloda Gümrük Tarife Pozisyonu (GTP) ve tanımları yer alan eşyanın ithalatında açılan tarife kontenjanlarının dağıtımı, yönetimi ile başvuru ve kullanım usul ve esaslarını düzenlemektir.
