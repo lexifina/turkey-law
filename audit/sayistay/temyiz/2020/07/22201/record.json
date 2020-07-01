@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47845",
+  "decision_date": "2020-07-01",
+  "source_id": 22201,
+  "chamber": "6",
+  "file_number": "45974",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22201/",
+  "source_sha256": "c8dcddab10468acefbc4f43487e18b0c671a31903cb405f95a2def401c87e5ed",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
