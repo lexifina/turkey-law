@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2020/27",
+  "meeting_date": "2020-07-01",
+  "meeting_date_as_published": "1.7.2020",
+  "decision_no": "11",
+  "source_id": 13888,
+  "title": "RTÜK kararı 2020/27-11 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/13888",
+  "source_sha256": "14236245cba5180bdb8572f716c380756a6b443e52259446ea0a4a6fb741f6c6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
