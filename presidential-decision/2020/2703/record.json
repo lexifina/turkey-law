@@ -1,0 +1,31 @@
+{
+  "number": "2703",
+  "title": "İTHALAT REJİMİ KARARINA EK KARAR (KARAR SAYISI: 2703)",
+  "official_url": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=20&MevzuatNo=2703&MevzuatTertip=5",
+  "listing_url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.2703.pdf",
+  "gazette_date": "2020-06-30",
+  "gazette_number": "31171",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Official own commencement article: MADDE 2- Bu Karar 1/7/2020 tarihinde yürürlüğe girer.; official MBS publication date 30.06.2020",
+  "publication_evidence": {
+    "published": "2020-06-30",
+    "gazette": "31171",
+    "basis": "official MBS listing resmiGazeteTarihi/resmiGazeteSayisi",
+    "listed_published": "30.06.2020",
+    "listed_gazette": "31171"
+  },
+  "first_law": null,
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "source_sha256": "c06d58844e8d1ce835a81ddb44c9588a2d7c6cd84749051ac8af9496c94c2705",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "held_annexes": [
+    {
+      "title": "Eki iÃ§in tÄ±klayÄ±nÄ±z.",
+      "official_url": "https://www.mevzuat.gov.tr/anasayfa/20.5.1658-Ek.xlsx",
+      "status": "not included; linked annex remains to be added"
+    }
+  ]
+}
