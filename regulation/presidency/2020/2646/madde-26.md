@@ -1,0 +1,6 @@
+Süreli ve kişiye özel yazışmalar
+MADDE 26- (1) Güvenli elektronik imza ile imzalanan süreli belgelerde “ACELE” veya “GÜNLÜDÜR” ibaresine üstveride ve üst yazı üzerinde yer verilir. “GÜNLÜDÜR” ibaresi taşıyan belgelere cevap verilmesi gereken süre veya tarih, metin içinde ve ilgili üstveri alanında belirtilir.
+(2) “ACELE” ibaresi taşıyan belgeye derhâl ve süratle; “GÜNLÜDÜR” ibaresi taşıyan belgeye belirtilen süre içinde cevap verilir.
+(3) Elektronik ortamda veya zorunlu hâllerde ya da olağanüstü durumlarda hazırlanan süreli belgelerde “ACELE” veya “GÜNLÜDÜR” ibaresi yazı alanının sağ üst köşesinde kırmızı renkli olarak belirtilir (Örnek 19/A, 19/B). Birden fazla sayfalı belgelerde “ACELE” veya “GÜNLÜDÜR” ibaresi sadece birinci sayfada belirtilir (Örnek 9).
+(4) “KİŞİYE ÖZEL” ibaresi, belgenin ilgilisine teslim edilmesini ve sonrasında yürütülecek süreci ifade eder.
+(5) “KİŞİYE ÖZEL” ibaresi taşıyan belgenin zarfı açılmadan zarf üzerinde yer alan bilgiler, yetkili birimce EBYS’ye veya kurumsal belge kayıt sistemine kaydedilir ve ilgilisine teslim edilir. “KİŞİYE ÖZEL” ibaresi taşıyan belge üzerinde yalnızca ilgili kişi tasarruf hakkına sahiptir ve ilgilinin talebi ile EBYS’ye kaydedilir.

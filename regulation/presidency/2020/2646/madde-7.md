@@ -1,0 +1,2 @@
+Yazı tipi ve harf büyüklüğü
+MADDE 7- (1) Hazırlanan belgelerde “Times New Roman” veya “Arial” yazı tipi normal yazı stilinde kullanılır. Harf büyüklüğünün Times New Roman için 12 punto, Arial için 11 punto olması esastır. Ancak gerekli hâllerde yazı alanında harf büyüklüğü 9 puntoya, iletişim bilgileri kısmında ise 8 puntoya kadar düşürülebilir. Belge eklerinde farklı yazı tipi ve harf büyüklüğü kullanılabilir.

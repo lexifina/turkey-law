@@ -1,0 +1,3 @@
+Belgenin iade edilmesi
+MADDE 32- (1) İdareye muhatabı olmadığı hâlde elektronik ortamda güvenli elektronik imzalı bir belge gelmesi durumunda, belgenin muhatabı olunmadığı bilgisi ve söz konusu belgeye ilişkin tanımlayıcı bilgiler, gönderene elektronik ortamda iletilir. Ancak asıl muhatabın açıkça belli olması durumunda, belge muhataba iletilebilir ve gönderen idareye bilgi verilebilir. Bu durumda belgenin bir kopyası elektronik ortamda muhafaza edilir.
+(2) İdareye muhatabı olmadığı hâlde fiziksel ortamda gelen bir belgenin asıl muhatabı anlaşılamıyorsa gönderene iade edilir. Ancak asıl muhatabın açıkça belli olması durumunda, gerektiğinde belgenin bir sureti alınarak aslı muhatabına gönderilir ve belgeyi gönderene de bilgi verilir.

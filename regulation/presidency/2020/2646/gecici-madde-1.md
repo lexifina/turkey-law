@@ -1,0 +1,3 @@
+EBYS’lerin uyumlu hale getirilmesi
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kurulan EBYS’ler, idarelerce altı ay içinde bu Yönetmelik hükümlerine uyumlu hâle getirilir. Bu Yönetmeliğin yürürlüğe girdiği tarihten sonra kurulacak olan EBYS’ler, bu Yönetmelik hükümlerine uyumlu şekilde kurulur.
+(2) 30 uncu maddenin birinci fıkrasında belirtilen güvenli elektronik imza ile imzalanan belgelerin, elektronik ortamda gönderilmesi ve alınması işlemlerini sağlamak amacıyla yetki verilmiş üçüncü taraf aracılığıyla oluşturulacak kullanıcı hesaplarını temin etmeyen idareler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren üç ay içinde kullanıcı hesaplarını temin ederek DETSİS’e kaydeder ve faal olarak kullanımını sağlar.

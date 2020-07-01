@@ -1,0 +1,4 @@
+Paraf
+MADDE 21- (1) Paraf bölümünde tarih, unvan, ad ve soyad bilgileri kısaltma kullanılmadan ast-üst ilişkisine uygun olarak belirtilir. Güvenli elektronik imza ile imzalanan belgeye ait paraf bilgileri, belgenin üstverisinde tutulur (Örnek 19/A). Belge muhataba iletildiğinde, belgeye ait paraf bilgileri paylaşılmaz.
+(2) Elektronik ortamda hazırlanan belgelerde paraf, güvenli elektronik imza veya elektronik onay ile atılır. Elektronik onaylar, EBYS’nin günlük raporlarında kayıt altına alınır. Günlük raporlar, günlük olarak zaman damgasıyla damgalanır ve günlük raporlarının saklama süresi ilişkili olduğu belgelerin saklama süresinden daha kısa olamaz.
+(3) Zorunlu hâllerde veya olağanüstü durumlarda el yazısıyla atılan paraf, kaybolmayacak ve kâğıda işlemesini sağlayacak mavi kalemle atılır. Fiziksel ortamda hazırlanan belgelerde paraflar, belgenin sadece idarede kalacak nüshasında, yazı alanının sonunda ve sol kenarında yer alır (Örnek 19/B).

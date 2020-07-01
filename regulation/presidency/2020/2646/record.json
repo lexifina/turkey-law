@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-2646",
+  "number": "2646",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "RESMÎ YAZIŞMALARDA UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2020-06-10",
+  "enacted": "2020-06-09",
+  "gazette_number": "31151",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımını takip eden ayın birinci günü yürürlüğe girer.\"; Resmî Gazete 2020-06-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=2646&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "28efdcd7222e10a80692209159b3fb182c9c5fd02cf6b8053346dd6639363c04",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://mevzuat.gov.tr/mevzuatmetin/21.5.2646-Ek.pdf",
+      "source_caption": "Ekleri görmek için tıklayınız",
+      "source_href": "https://mevzuat.gov.tr/mevzuatmetin/21.5.2646-Ek.pdf",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://mevzuat.gov.tr/mevzuatmetin/21.5.2646-Ek.pdf",
+      "source_caption": "Ekleri görmek için tıklayınız",
+      "source_href": "https://mevzuat.gov.tr/mevzuatmetin/21.5.2646-Ek.pdf",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}
