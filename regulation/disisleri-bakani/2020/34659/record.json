@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34659",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DIŞİŞLERİ BAKANLIĞI ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "34659",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/2020/34659",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34659&MevzuatTertip=5",
+  "source_sha256": "7fc8c9f4d2f5b23e9beefd6b54a6c3907d1908a73898896fc1b7c5d51e3c11a3",
+  "source_bytes": 16642,
+  "published": "2020-07-01",
+  "gazette": "31172",
+  "in_force": "2020-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 528,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
