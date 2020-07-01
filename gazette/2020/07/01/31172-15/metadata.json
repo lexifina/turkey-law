@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-07-01",
+  "issue": "31172",
+  "edition": "regular",
+  "item": 15,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARLARI",
+  "title": "Yargıtay 13. ve 23. Hukuk Dairelerine Ait Kararlar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200701-15.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200701.htm",
+  "index_sha256": "962d131d61016847b9ebed8c1fcb2554ebb2d42a522fd8ad2b85de1a7b96fab2",
+  "index_header": "1 Temmuz 2020 ... 31172 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200701.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
