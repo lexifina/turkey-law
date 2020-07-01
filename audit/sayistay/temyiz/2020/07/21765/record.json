@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "47940",
+  "decision_date": "2020-07-01",
+  "source_id": 21765,
+  "chamber": "6",
+  "file_number": "43627",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21765/",
+  "source_sha256": "40a54ba0ecf693dad3a8345d72baad7e57e8bb925623235b12bd93a9c906505f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
