@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34657",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BÜYÜK ENDÜSTRİYEL KAZALARLA İLGİLİ HAZIRLANACAK BÜYÜK KAZA SENARYO DOKÜMANI TEBLİĞİ",
+  "number": "34657",
+  "issuer": "Aile, Çalışma ve Sosyal Hizmetler Bakanı",
+  "path": "teblig/2020/34657",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34657&MevzuatTertip=5",
+  "source_sha256": "ebfd33ec827d5151590b1445fb14c9d2a9dbb98122a5eacc89ef9309d8311d1e",
+  "source_bytes": 31393,
+  "published": "2020-06-30",
+  "gazette": "31171",
+  "in_force": "2020-07-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/7/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/7/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 697,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34657-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
