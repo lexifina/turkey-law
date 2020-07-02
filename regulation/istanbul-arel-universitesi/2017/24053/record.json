@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 22 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-11-03",
+      "03.11.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2018-12-10",
+      "RG-10/12/2018-30621",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-12-10",
+      "RG-10/12/2018-30621",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-07-02",
+      "RG-2/7/2020-31173",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-12-10",
+      "10/12/2018",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-07-02",
+      "2/7/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/7/2020-31173",
+  "first_law": null,
+  "gazette": "30229",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-07-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Arel Üniversitesi",
+  "issuer_slug": "istanbul-arel-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-arel-universitesi/2017/24053",
+  "published": "2017-11-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24053&MevzuatTertip=5",
+  "source_bytes": 41246,
+  "source_id": "8.5.24053",
+  "source_sha256": "88fd9282932752faadf5f859b6b3b9daa012116097f7efd3ab89bd598321a73f",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL AREL ÜNİVERSİTESİ YAZ ÖĞRETİMİ YÖNETMELİĞİ",
+  "university_id": 310,
+  "word_count": 1517
+}
