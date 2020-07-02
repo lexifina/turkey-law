@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9434",
+  "decision_date": "2020-07-02",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi tarafından 1/7/2020 tarihinden itibaren uygulanacak iletim sistem kullanım ve sistem işletim tarifeleri",
+  "resmi_gazete_date": "2020-07-03",
+  "resmi_gazete_number": "31174",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+nhy+XDffSc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+nhy+XDffSc="
+  ],
+  "source_sha256": "19f6ac2b3d2d10a53008c591ac39a2c77dbccacf8ab142212d55815b78d82c43",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-07-02",
+  "law_text_complete": true
+}
