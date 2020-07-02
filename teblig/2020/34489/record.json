@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34489",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/2)",
+  "number": "34489",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34489",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34489&MevzuatTertip=5",
+  "source_sha256": "0ddeded508b738623e383da5bb7b5920aa2c81d9cf72894b9cf08089fc880ac7",
+  "source_bytes": 16418,
+  "published": "2020-05-05",
+  "gazette": "31118",
+  "in_force": "2020-07-02",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 2/7/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 2/7/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 220,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34489-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
