@@ -1,0 +1,13 @@
+{
+  "number": "20-32/402-183",
+  "type": "Diğer",
+  "decision_date": "2020-07-02",
+  "publication_date": "2020-11-30",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=17b4df72-0d2c-438c-b4a3-0d262aa9d82c",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=266",
+  "pdf_sha256": "7690e353822bc5a061088bcef949ec6d18810113113755a3dc2af4fe031d4f25",
+  "pdf_bytes": "460475",
+  "pages": "2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
