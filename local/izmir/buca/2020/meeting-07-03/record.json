@@ -1,0 +1,23 @@
+{
+  "number": "meeting-07-03",
+  "number_as_published": null,
+  "year": 2020,
+  "title": "03.07.2020 Tarihli Meclis Karar Özeti",
+  "decision_date": "2020-07-03",
+  "source": "https://www.buca.bel.tr/tr/meclis-kararlari/2020",
+  "official_document": "https://www.buca.bel.tr/uploads/council-decisions/03.07.2020-Tarihli-Meclis-Karar-Özeti.pdf",
+  "source_sha256": "c850d289f1cd9252101099f1bf47b81edf665d32e9d57d8941f9b244ca22662a",
+  "issuer": "Buca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-07-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.07.2020 (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "list_date": "2020-07-03"
+}
