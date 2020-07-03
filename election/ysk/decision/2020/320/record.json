@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2020/320",
+  "list_number": "320",
+  "decision_date": "2020-07-03",
+  "title": "2839 sayılı Milletvekili Seçimi Kanununun 40 ıncı maddesi ve 298 sayılı Seçimlerin Temel Hükümleri ve Seçmen Kütükleri Hakkında Kanunun 47 nci maddesinin son fıkrası uyarınca verilmesi Yüksek Seçim Kurulunun iznine tabi olan bilgi ve belgelerin çeşitli kamu kurum ve kuruluşlarınca talep edilmesi üzerine yapılacak işlemlere ilişkin Yüksek Seçim Kurulunun 2020/320 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78308/2020.320.pdf",
+  "source_sha256": "973dcc34141b42b6e1cbc7d676852fcc94d21cea6233ca2f84eda33f8c577fcb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2020-07-03",
+  "law_text_complete": false
+}
