@@ -1,0 +1,25 @@
+{
+  "number": "meeting-07-07",
+  "number_as_published": "meeting-07-07",
+  "year": 2020,
+  "title": "07 TEMMUZ 2020 MECLİS KARARLARI",
+  "decision_date": "2020-07-07",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=17",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/GzuLlMvwOoDCjxZANg.pdf",
+  "source_sha256": "48e001466e7c19d7378c1bdf83cc501c4bc9aa915d63d1f02c368fee7d3d6ef3",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-07-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 TEMMUZ 2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07 TEMMUZ 2020 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "d1cb0719d24bd94).pdf",
+  "list_date": "2020-07-07"
+}
