@@ -1,0 +1,931 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"Liberation Sans";}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.Balk, li.Balk, div.Balk
+	{mso-style-name:Başlık;
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Liberation Sans",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1362056144630, li.edf1362056144630, div.edf1362056144630
+	{mso-style-name:edf_1362056144630;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1461584857875, li.edf1461584857875, div.edf1461584857875
+	{mso-style-name:edf_1461584857875;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1463746527608, li.edf1463746527608, div.edf1463746527608
+	{mso-style-name:edf_1463746527608;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1360324668109, li.edf1360324668109, div.edf1360324668109
+	{mso-style-name:edf_1360324668109;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1463746527604, li.edf1463746527604, div.edf1463746527604
+	{mso-style-name:edf_1463746527604;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1441191676538, li.edf1441191676538, div.edf1441191676538
+	{mso-style-name:edf_1441191676538;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1419319848927, li.edf1419319848927, div.edf1419319848927
+	{mso-style-name:edf_1419319848927;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1562844433141, li.edf1562844433141, div.edf1562844433141
+	{mso-style-name:edf_1562844433141;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:black;}
+p.edf1363590918387, li.edf1363590918387, div.edf1363590918387
+	{mso-style-name:edf_1363590918387;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1482259350700, li.edf1482259350700, div.edf1482259350700
+	{mso-style-name:edf_1482259350700;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1445521795003, li.edf1445521795003, div.edf1445521795003
+	{mso-style-name:edf_1445521795003;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1436528573148, li.edf1436528573148, div.edf1436528573148
+	{mso-style-name:edf_1436528573148;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1524120325020, li.edf1524120325020, div.edf1524120325020
+	{mso-style-name:edf_1524120325020;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	color:black;}
+p.edf1450278888505, li.edf1450278888505, div.edf1450278888505
+	{mso-style-name:edf_1450278888505;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1508758624940, li.edf1508758624940, div.edf1508758624940
+	{mso-style-name:edf_1508758624940;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449652110386, li.edf1449652110386, div.edf1449652110386
+	{mso-style-name:edf_1449652110386;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1512030380988, li.edf1512030380988, div.edf1512030380988
+	{mso-style-name:edf_1512030380988;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1427889034831, li.edf1427889034831, div.edf1427889034831
+	{mso-style-name:edf_1427889034831;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1363589658683, li.edf1363589658683, div.edf1363589658683
+	{mso-style-name:edf_1363589658683;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1441631047213, li.edf1441631047213, div.edf1441631047213
+	{mso-style-name:edf_1441631047213;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="4"><span style="font-size:14.0pt;
+  color:#010000;font-weight:bold">TÜRKİYE CUMHURİYETİ</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="5"><span style="font-size:16.0pt;
+  color:#010000;font-weight:bold">ANAYASA MAHKEMESİ</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">BİRİNCİ BÖLÜM</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">KARAR</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">B.K. BAŞVURUSU</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000">(Başvuru Numarası: 2018/2111)</span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000">Karar Tarihi: 8/7/2020</span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000"> </span></font></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">BİRİNCİ BÖLÜM</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold">KARAR</span></font></b></p>
+			</td>
+		</tr>
+		<tr height="33" style="height:25.0pt">
+			<td height="33" style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;
+  height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+  color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">GİZLİLİK TALEBİ KABUL</span></font></u></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Başkan</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Hasan Tahsin GÖKCAN</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Üyeler</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Serdar ÖZGÜLDÜR</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Burhan ÜSTÜN</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Muammer TOPAL</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold"> </span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Selahaddin MENTEŞ</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Raportör</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">Fatih HATİPOĞLU</span></font></p>
+			</td>
+		</tr>
+		<tr height="30" style="height:22.7pt">
+			<td height="30" style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">Başvurucu</span></font></b></p>
+			</td>
+			<td height="30" style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000;font-weight:bold">:</span></font></b></p>
+			</td>
+			<td height="30" style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;color:#010000">B.K.</span></font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold"> </span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">I.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">BAŞVURUNUN KONUSU</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">1. Başvuru, tutukluluğun makul süreyi aşması, sulh ceza hâkimliklerinin bağımsız ve tarafsız olmaması, savcılık görüşünün tebliğ edilmemesi, soruşturma dosyasına erişimin kısıtlanması, tutukluluk incelemelerinin hâkim/mahkeme önüne çıkarılmaksızın yapılması ve tutuklamaya etkin şekilde itiraz edilememesi nedenleriyle kişi hürriyeti ve güvenliği hakkının; kısıtlama kararı dolayısıyla suçlamalar hakkında yeterli bilgi sahibi olunamaması, etkili bir soruşturma yürütülmemesi ve davanın makul sürede açılmaması nedenleriyle adil yargılanma hakkının ihlal edildiği iddialarına ilişkindir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">II.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">BAŞVURU SÜRECİ</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">2. Başvuru 10/1/2018 tarihinde yapılmıştır.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">3. Başvuru, başvuru formu ve eklerinin idari yönden yapılan ön incelemesinden sonra Komisyona sunulmuştur.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">4. Komisyonca başvurucunun adli yardım talebinin kabulüne ve yargılama giderlerini ödemekten geçici olarak muaf tutulmasına ve başvurunun kabul edilebilirlik incelemesinin Bölüm tarafından yapılmasına karar verilmiştir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">III.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">OLAY VE OLGULAR</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">5. Başvuru formu ve eklerinde ifade edildiği şekliyle ve Ulusal Yargı Ağı Bilişim Sistemi (UYAP) aracılığıyla erişilen bilgi ve belgeler çerçevesinde ilgili olaylar özetle şöyledir:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">A.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Genel Bilgiler </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">6. Türkiye 15 Temmuz 2016 tarihinde askerî darbe teşebbüsüyle karşı karşıya kalmış ve bu nedenle 21/7/2016 tarihinde ülke genelinde olağanüstü hâl ilan edilmiştir. Olağanüstü hâl 19/7/2018 tarihinde son bulmuştur. Kamu makamları ve yargı organları -olgusal temellere dayanarak- bu teşebbüsün arkasında Türkiye'de çok uzun yıllardır faaliyetlerine devam eden ve son yıllarda Fetullahçı Terör Örgütü (FETÖ) ve/veya Paralel Devlet Yapılanması (PDY) olarak isimlendirilen bir yapılanmanın olduğunu değerlendirmişlerdir (<i><span style="font-style:italic">Aydın Yavuz ve diğerleri</span></i> [GK], B. No: 2016/22169, 20/6/2017, §§ 12-25).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">7. Darbe teşebbüsü sırasında ve sonrasında ülke genelinde darbe girişimiyle bağlantılı ya da doğrudan darbe girişimiyle bağlantılı olmasa bile FETÖ/PDY ile bağlantılı olan ve aralarında yargı mensuplarının da bulunduğu çok sayıda kişi hakkında Cumhuriyet başsavcılıkları tarafından soruşturma başlatılmıştır. Bu kapsamda teşebbüsün savuşturulduğu gün Ankara Cumhuriyet Başsavcılığınca (Başsavcılık) -aralarında Yüksek Mahkeme üyelerinin de bulunduğu- üç bine yakın yargı mensubu hakkında FETÖ/PDY ile bağlantılarının bulunduğu iddiasıyla başlatılan soruşturmada bu kişilerin büyük bölümü hakkında gözaltı ve tutuklama tedbirlerine başvurulmuştur (<i><span style="font-style:
+italic">Aydın Yavuz ve diğerleri</span></i>, §§ 51, 350).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">B.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucuya İlişkin Süreç</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">8. Konya Cumhuriyet savcısı olarak görev yapan başvurucu hakkında 15 Temmuz darbe teşebbüsünden sonra Başsavcılık tarafından ağır cezalık suçüstü hâli bulunduğu değerlendirilerek FETÖ/PDY'nin hiyerarşik yapılanmasında yer aldığı iddiasıyla soruşturma başlatılmış ve anılan soruşturma kapsamında başvurucu 17/7/2016 tarihinde Konya'da gözaltına alınmıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">9. Konya 2. Sulh Ceza Hâkimliği 19/7/2016 tarihinde başvurucunun FETÖ/PDY'ye üye olma suçundan tutuklanmasına karar vermiştir.</span></font></p>
+
+<p class="edf1461584857875" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">10. Başvurucu 25/7/2016 tarihinde tutuklama kararına itiraz etmiş, Konya 3. Sulh Ceza Hâkimliği 27/7/2016 tarihinde başvurucunun itirazını kesin olarak reddetmiştir.</span></font></p>
+
+<p class="edf1461584857875" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">11. Konya Cumhuriyet Başsavcılığı yetkisizlik kararı ile soruşturma dosyasını Başsavcılığa göndermiştir.</span></font></p>
+
+<p class="edf1461584857875" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">12. Bu arada Ankara Sulh Ceza Hâkimliklerince başvurucunun tutukluk durumu değerlendirilmiş ve tutukluluğa yönelik itirazları karara bağlanmıştır. Bu kapsamda Ankara 2. Sulh Ceza Hâkimliği 7/4/2017 tarihinde başvurucunun tutukluluk hâlinin devamına karar vermiş, başvurucunun anılan karara itirazını Ankara 3. Sulh Ceza Hâkimliği 13/12/2017 tarihinde kesin olarak reddetmiştir. </span></font></p>
+
+<p class="edf1461584857875" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">13. Başvurucu kararı 14/12/2017 tarihinde öğrendiğini bildirmiştir.</span></font></p>
+
+<p class="edf1461584857875" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">14. Başvurucu 10/1/2018 tarihinde bireysel başvuruda bulunmuştur. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">15. Başsavcılık 19/12/2017 tarihli iddianame ile başvurucunun terör örgütüne üye olma suçundan cezalandırılması istemiyle aynı yer ağır ceza mahkemesinde kamu davası açmıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">16. Ankara 28. Ağır Ceza Mahkemesi (Mahkeme) 5/1/2018 tarihinde iddianameyi kabul etmiş ve Mahkemenin E.2018/24 sayılı dosyası üzerinden kavuşturma aşaması başlamıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">17. Mahkeme 21/3/2018 tarihinde yaptığı duruşmada başvurucunun<i><span style="font-style:italic"> </span></i>savunmasını almış ve duruşma sonunda başvurucunun tahliyesine karar vermiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">18. Mahkeme 29/11/2018 tarihinde yaptığı duruşmada başvurucunun<i><span style="font-style:italic"> </span></i>terör örgütüne üye olma<i><span style="font-style:italic"> </span></i>suçundan 7 yıl 6 ay hapis cezası ile cezalandırılmasına karar vermiştir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">19. Dava, bireysel başvurunun incelendiği tarih itibarıyla istinaf mahkemesinde derdesttir.</span></font></p>
+
+<p class="edf1482259350700" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">IV. İLGİLİ HUKUK</span></font></b></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">20. İlgili hukuk için bkz. Salih Sönmez, B. No: 2016/25431, 28/11/2018, §§ 33-56.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">V.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">İNCELEME VE GEREKÇE</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">21. Mahkemenin 8/7/2020 tarihinde yapmış olduğu toplantıda başvuru incelenip gereği düşünüldü:</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">A.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Kişi Hürriyeti ve Güvenliği Hakkının İhlal Edildiğine İlişkin İddialar</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">1.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Tutukluluğun Makul Süreyi Aştığına İlişkin İddia</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">22. Başvurucu; tahliye taleplerinin kabul edilmediğini, tutukluluğun devamına ilişkin kararların gerekçeden yoksun olduğunu, bu kararlarda tutuklama nedenlerinin somut olgulara dayalı olarak açıklanmadığını, kendisi yönünden bir kişiselleştirme yapılmadığını ve adli kontrolün yetersiz kalma nedenlerinin gösterilmediğini, tutukluluğa yönelik itirazlarının da gerekçesiz bir şekilde reddedildiğini, dolayısıyla somut hiçbir neden gösterilmeden matbu gerekçelerle sürdürülen tutukluluğun makul süreyi aştığını belirterek kişi hürriyeti ve güvenliği hakkının, adil yargılanma hakkının ve masumiyet karinesinin ihlal edildiğini ileri sürmüştür. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">23. Anayasa Mahkemesi, olayların başvurucu tarafından yapılan hukuki nitelendirmesi ile bağlı olmayıp olay ve olguların hukuki tavsifini kendisi takdir eder (<i><span style="font-style:italic">Tahir Canan</span></i>, B. No: 2012/969, 18/9/2013, § 16). Başvurucunun şikâyetinin özü, tutukluluğunun devam ettirilmesinin hukuka aykırı olduğuna ilişkindir. Buna göre başvurucunun şikâyetlerinin Anayasa'nın 19. maddesinin yedinci fıkrası çerçevesinde değerlendirilmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">24. Anayasa'nın 148. maddesinin üçüncü fıkrasının son cümlesi şöyledir:</span></font></p>
+
+<p class="edf1482259350700" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">"Başvuruda bulunabilmek için olağan kanun yollarının tüketilmiş olması şarttır."</span></font></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">25. 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun'un <i><span style="font-style:
+italic">"Bireysel başvuru hakkı"</span></i> kenar başlıklı 45. maddesinin (2) numaralı fıkrası şöyledir:</span></font></p>
+
+<p class="edf1482259350700" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><font color="#010000" face="Times New Roman" size="2"><span style="font-size:11.0pt;
+color:#010000;font-style:italic">"İhlale neden olduğu ileri sürülen işlem, eylem ya da ihmal için kanunda öngörülmüş idari ve yargısal başvuru yollarının tamamının bireysel başvuru yapılmadan önce tüketilmiş olması gerekir."</span></font></i></p>
+
+<p class="edf1441631047213" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">26. Bireysel başvuru yolunun ikincil niteliği gereği Anayasa Mahkemesine bireysel başvuruda bulunabilmek için öncelikle olağan kanun yollarının tüketilmesi zorunludur (<i><span style="font-style:italic">Ayşe Zıraman ve Cennet Yeşilyurt, </span></i>B. No: 2012/403, 26/3/2013, §§ 16, 17). </span></font></p>
+
+<p class="edf1363590918387" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">27. Anayasa Mahkemesi, tutukluluğun kanunda öngörülen azami süreyi veya makul süreyi aştığı iddiasıyla yapılan bireysel başvurular bakımından bireysel başvurunun incelendiği tarih itibarıyla başvurucu tahliye edilmiş ise asıl dava sonuçlanmamış da olsa -ilgili Yargıtay içtihatlarına atıf yaparak- 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu'nun 141. maddesinde öngörülen tazminat davası açma imkânının tüketilmesi gereken etkili bir hukuk yolu olduğunu belirtmektedir (<i><span style="font-style:italic">Erkam Abdurrahman Ak</span></i>, B. No: 2014/8515, 28/9/2016, §§ 48-62; <i><span style="font-style:italic">İrfan Gerçek</span></i>, B. No: 2014/6500, 29/9/2016,§§ 33-45).</span></font></p>
+
+<p class="edf1363590918387" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">28. Somut olayda bireysel başvuruda bulunduktan sonra 21/3/2018 tarihinde tahliyesine karar verilen başvurucunun tutukluluğunun makul süreyi aştığına ilişkin iddiası, 5271 sayılı Kanun'un 141. maddesi kapsamında açılacak davada incelenebilir. Bu madde kapsamında açılacak dava sonucuna göre başvurucunun tutukluluğunun makul süreyi aştığının tespiti hâlinde görevli mahkemece başvurucu lehine tazminata da hükmedilebilecektir. Buna göre 5271 sayılı Kanun'un 141. maddesinde belirtilen dava yolu başvurucunun durumuna uygun, telafi kabiliyetini haiz, etkili bir hukuk yoludur ve bu olağan başvuru yolu tüketilmeden yapılan bireysel başvurunun incelenmesi bireysel başvurunun <i><span style="font-style:italic">ikincillik niteliği</span></i> ile bağdaşmamaktadır.</span></font></p>
+
+<p class="edf1363590918387" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">29. Açıklanan gerekçelerle başvurucunun tutukluluğun makul süreyi aştığı iddiasına ilişkin olarak yargısal başvuru yolları tüketilmeden bireysel başvuru yapıldığı anlaşıldığından başvurunun bu kısmının <i><span style="font-style:italic">başvuru yollarının tüketilmemesi</span></i> nedeniyle kabul edilemez olduğuna karar verilmesi gerekir.</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">2.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Sulh Ceza Hâkimliğinin Bağımsız ve Tarafsız Olmadığına İlişkin İddia</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">30. Başvurucu; tutuklama kararını ve tutukluluğa itirazın reddi kararını veren sulh ceza hâkimliklerinin bağımsız ve tarafsız olmadığını, kapalı devre sistemle çalıştığını, dolayısıyla etkili bir başvuru mercii olmadığını, bu nedenle tutuklamaya karşı etkili başvuru hakkının ihlal edildiğini ileri sürmüştür.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">31. Başvuru konusu olayda ileri sürülen <i><span style="font-style:italic">sulh ceza hâkimliklerinin bağımsız ve tarafsız olmaması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği </span></i>iddiasına ilişkin olarak daha önce bireysel başvuruda bulunulduğu ve başvurucunun anılan şikâyetiyle ilgili olarak 2017/24301 sayılı dosya üzerinden <i><span style="font-style:italic">Birinci Bölüm İkinci Komisyon</span></i> tarafından yapılan inceleme sonunda <i><span style="font-style:italic">açıkça dayanaktan yoksun olması</span></i> nedeniyle<i><span style="font-style:italic"> kabul edilemezlik</span></i> kararı verildiği<i><span style="font-style:italic"> </span></i>tespit edildiğinden başvurunun bu şikâyet yönünden mükerrer başvuru niteliğinde olduğu anlaşılmaktadır.</span></font></p>
+
+<p class="edf1360324668109" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">32. Açıklanan gerekçelerle başvurunun <i><span style="font-style:
+italic">mükerrer başvuru olması</span></i> nedeniyle reddine karar verilmesi gerekir.</span></font></p>
+
+<p class="edf1360324668109" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">3.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Savcılık Görüşünün Tebliğ Edilmediğine İlişkin İddia</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">33. Başvurucu, alınan Savcılık görüşlerinin kendisine tebliğ edilmemesi nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiğini ileri sürmüştür.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">34. Başvuru konusu olayda ileri sürülen <i><span style="font-style:italic">Savcılık görüşünün tebliğ edilmemesi nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği </span></i>iddiasıyla ilgili olarak daha önce bireysel başvuruda bulunulduğu ve başvurucunun anılan şikâyetine ilişkin olarak 2016/15130 sayılı dosya üzerinden<i><span style="font-style:italic"> İkinci</span></i> <i><span style="font-style:italic">Bölüm Birinci Komisyon</span></i> tarafından yapılan inceleme sonunda <i><span style="font-style:italic">anayasal ve kişisel önemden yoksun olması</span></i> nedeniyle<i><span style="font-style:italic"> kabul edilemezlik</span></i> kararı verildiği<i><span style="font-style:italic"> </span></i>tespit edildiğinden başvurunun bu şikâyet yönünden mükerrer başvuru niteliğinde olduğu anlaşılmaktadır.</span></font></p>
+
+<p class="edf1360324668109" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">35. Açıklanan gerekçelerle başvurunun <i><span style="font-style:
+italic">mükerrer başvuru olması</span></i> nedeniyle reddine karar verilmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">4.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Soruşturma Dosyasına Erişimin Kısıtlandığına İlişkin İddia</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">36. Başvurucu; soruşturma dosyasında gizlilik kararının bulunması nedeniyle bir kısım Savcılık belgesini inceleyemediğini, yine kanunen verilmesi gereken bazı belgelerin kendisine verilmediğini belirterek kişi hürriyeti ve güvenliği hakkının ihlal edildiğini ileri sürmüştür.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">37. Başvuru konusu olayda ileri sürülen <i><span style="font-style:italic">soruşturma dosyasına erişimin kısıtlanması nedeniyle kişi hürriyeti ve güvenliği hakkının ihlal edildiği </span></i>iddiasıyla ilgili olarak daha önce bireysel başvuruda bulunulduğu ve başvurucunun anılan şikâyetine ilişkin olarak 2016/15130 sayılı dosya üzerinden <i><span style="font-style:italic">İkinci Bölüm Birinci Komisyon</span></i> tarafından yapılan inceleme sonunda <i><span style="font-style:italic">açıkça dayanaktan yoksun olması</span></i> nedeniyle<i><span style="font-style:italic"> kabul edilemezlik</span></i> kararı verildiği<i><span style="font-style:italic"> </span></i>tespit edildiğinden başvurunun bu şikâyet yönünden mükerrer başvuru niteliğinde olduğu anlaşılmaktadır.</span></font></p>
+
+<p class="edf1360324668109" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">38. Açıklanan gerekçelerle başvurunun <i><span style="font-style:
+italic">mükerrer başvuru olması</span></i> nedeniyle reddine karar verilmesi gerekir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">5.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Tutukluluk İncelemelerinin Hâkim/Mahkeme Önüne Çıkarılmaksızın Yapıldığına İlişkin İddia</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">39. Başvurucu, tutukluluk incelemelerinin duruşmasız olarak yapıldığını belirterek kişi hürriyeti ve güvenliği hakkının ihlal edildiğini ileri sürmüştür. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="edf1441631047213" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">40. Bireysel başvuru yolunun ikincil niteliği gereği Anayasa Mahkemesine bireysel başvuruda bulunabilmek için öncelikle olağan kanun yollarının tüketilmesi zorunludur (<i><span style="font-style:italic">Ayşe Zıraman ve Cennet Yeşilyurt</span></i>, §§ 16, 17). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">41. Anayasa Mahkemesi <i><span style="font-style:italic">Salih Sönmez</span></i> kararında, tutukluluk incelemelerinin duruşmasız yapılması ve/veya makul sürede hâkim/mahkeme önüne çıkarılmama şikâyetini incelemiştir. Anayasa Mahkemesi anılan kararda inceleme tarihi itibarıyla başvurucunun hâkim/mahkeme önüne çıkarılmış olması hususunu nazara alarak verilecek bir ihlal kararının yeniden hâkim önüne çıkarılmasını sağlamayacağını ve serbest kalması sonucunu doğurmayacağını belirtmiş, bu durumda yalnızca kişinin uzun süre hâkim/mahkeme önüne çıkarılmamasıyla ilgili bir hak ihlalinin tespiti ve gerekiyorsa belli bir miktar tazminata hükmedilmesiyle yetinileceği sonucuna varmıştır (<i><span style="font-style:italic">Salih Sönmez,</span></i> §§ 162-177).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">42. Öte yandan Anayasa Mahkemesi anılan kararda bu tür ihlal iddiaları bakımından öncelikle aynı giderim imkânını sağlayan başvuru yollarının tüketilmesi ve bunlardan sonuç alınamaması hâlinde bireysel başvuruda bulunulması gerektiğini açıklayarak 5271 sayılı Kanun'un 141. maddesinde belirtilen dava yolunun başvurucunun durumuna uygun, telafi kabiliyetini haiz, etkili bir hukuk yolu olduğu tespitini yapmış ve başvuru yollarının tüketilmediği sonucuna varmıştır.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">43. Somut olayda Mahkeme 5/1/2018 tarihinde iddianameyi kabul etmiş ve E.2018/24 sayılı dosya üzerinden yargılama başlamıştır. Başvurucu -1 yıl 8 ay 2 gün sonra- 21/3/2018 tarihinde yapılan duruşmada Mahkeme önüne çıkmış ve itirazlarını etkili bir biçimde ileri sürme fırsatına sahip olmuştur. Dolayısıyla somut başvuru yönünden anılan karardan ayrılmayı gerektiren bir durum söz konusu değildir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">44. Açıklanan gerekçelerle başvurucunun tutukluluk incelemelerinin hâkim/mahkeme önüne çıkarılmaksızın yapıldığına ilişkin iddiası ile ilgili olarak yargısal başvuru yolları tüketilmeden bireysel başvuru yapıldığı anlaşıldığından başvurunun bu kısmının <i><span style="font-style:
+italic">başvuru yollarının tüketilmemiş olması </span></i>nedeniyle kabul edilemez olduğuna karar verilmesi gerekir. </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">6.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Tutuklamaya Karşı İtiraz Hakkının Etkin Olarak Kullanılamadığına İlişkin İddia</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">a.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">45. Başvurucu, tutukluluğun devamı kararlarına karşı yaptığı bir kısım itirazının geç değerlendirildiğini belirterek kişi hürriyeti ve güvenliği hakkı ile etkili başvuru hakkının ihlal edildiğini ileri sürmüştür.</span></font></p>
+
+<p class="edf1436528573148" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">b.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">46. Anayasa Mahkemesi, olayların başvurucu tarafından yapılan hukuki nitelendirmesi ile bağlı olmayıp olay ve olguların hukuki tavsifini kendisi takdir eder (<i><span style="font-style:italic">Tahir Canan,</span></i> § 16). Başvurucunun şikâyetinin özü, tutukluluğun devamına dair kararlara yaptığı itirazların geç değerlendirilmesinin hukuka aykırı olduğuna ilişkindir. Başvurucunun bu başlık altındaki şikâyetlerinin Anayasa'nın 19. maddesinin sekizinci fıkrası kapsamında incelenmesi gerekmektedir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">47. Bireysel başvuru yolunun ikincil niteliği gereği Anayasa Mahkemesine bireysel başvuruda bulunabilmek için öncelikle olağan kanun yollarının tüketilmesi zorunludur (bkz. §§ 25-27). </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">48. 5271 sayılı Kanun'un 141. maddesinin (1) numaralı fıkrasının (k) bendi, yakalanan veya tutuklanan kişilere yakalama ve tutuklama işlemine karşı kanunda öngörülen başvuru imkânlarından yararlandırılmamaları durumunda maddi ve manevi her türlü zararlarının tazminini isteyebilmelerine imkân sağlamaktadır. Anayasa Mahkemesi bireysel başvurunun incelendiği tarih itibarıyla tahliyesine karar verilen başvurucular yönünden anılan yolun tüketilmesi gereken etkili bir hukuk yolu olduğu sonucuna varmıştır (<i><span style="font-style:italic">Cafer Yıldız,</span></i> B. No: 2014/9308, 9/1/2018, §§ 37-40; <i><span style="font-style:italic">Yaşar Saçlı, </span></i>B. No: 2014/9311, 24/1/2018, §§ 37-40). </span></font></p>
+
+<p class="edf1441631047213" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">49. Somut olayda başvurunun incelendiği tarih itibarıyla tahliye olduğu anlaşılan başvurucu yönünden anılan kararlardan ayrılmayı gerektiren bir durum söz konusu değildir.</span></font></p>
+
+<p class="edf1441631047213" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">50. Buna göre 5271 sayılı Kanun'un 141. maddesinde belirtilen dava yolu başvurucunun durumuna uygun, telafi kabiliyetini haiz, etkili bir hukuk yoludur ve bu olağan hak arama yolu tüketilmeden yapılan bireysel başvurunun incelenmesi bireysel başvurunun <i><span style="font-style:italic">ikincillik niteliği</span></i> ile bağdaşmamaktadır. </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">51. Açıklanan gerekçelerle başvurunun bu kısmının<i><span style="font-style:italic"> başvuru yollarının tüketilmemesi </span></i>nedeniyle kabul edilemez olduğuna karar verilmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">B. Adil Yargılanma Hakkının İhlal Edildiğine İlişkin İddia</span></font></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">1.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Başvurucunun İddiaları </span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">52. Başvurucu; dosyadaki kısıtlama kararı dolayısıyla suçlamalar hakkında yeterli bilgiye sahip olamaması, etkili bir soruşturma yürütülmemesi ve davanın makul sürede açılmaması nedenleriyle adil yargılanma hakkının ihlal edildiğini ileri sürmüştür.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">2.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">Değerlendirme</span></b></span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">53. Başvurucunun bu bölümdeki şikâyetlerinin Anayasa'nın 36. maddesi kapsamında incelenmesi gerekir.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">54 Bireysel başvuru yolunun ikincil niteliği gereği Anayasa Mahkemesine bireysel başvuruda bulunabilmek için öncelikle olağan kanun yollarının tüketilmesi zorunludur (bkz. §§ 25-27).</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">55. Somut olayda başvurucu, soruşturma süreci devam ederken bireysel başvuruda bulunmuş; sonrasında hakkında kamu davası açılmıştır. Anayasa Mahkemesince bireysel başvurunun karara bağlandığı tarih itibarıyla başvurucu hakkındaki yargılama dosyasının istinaf mahkemesinde derdest olduğu görülmektedir (bkz. § 20). Başvurucunun başvuru formunda dile getirdiği ve bu kısımda yer verilen şikâyetlerini yargılamada ve sonrasında istinaf/temyiz aşamalarında ileri sürebilme, bu aşamalarda inceletme imkânı bulunmaktadır. Bu çerçevede derece mahkemelerinin yargılama ve istinaf/temyiz süreçleri beklenmeden soruşturma sürecindeki adil yargılanma hakkının ihlal edildiğine ilişkin şikâyetlerin başvurucu tarafından bireysel başvuruya konu edildiği görülmüştür.</span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">56. Açıklanan gerekçelerle başvurunun bu kısmının<i><span style="font-style:italic"> başvuru yollarının tüketilmemiş olması</span></i> nedeniyle kabul edilemez olduğuna karar verilmesi gerekir. </span></font></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000;font-weight:bold">VI.</span></font></b><font color="#010000"><span style="color:#010000"> <b><span style="font-weight:bold">HÜKÜM</span></b></span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">Açıklanan gerekçelerle </span></font></p>
+
+<p class="edf1363590918387" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">A. Başvurucunun gizlilik talebinin kabulüne ve kimlik bilgilerinin kamuya açık belgelerde GİZLİ TUTULMASINA, </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">B. 1. Tutukluluğun makul süreyi aştığına ilişkin iddianın <i><span style="font-style:italic">başvuru yollarının tüketilmemesi</span></i> nedeniyle KABUL EDİLEMEZ OLDUĞUNA,</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">2. Sulh ceza hâkimliklerinin bağımsız ve tarafsız olmaması dolayısıyla kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın <i><span style="font-style:italic">mükerrer olması</span></i> nedeniyle REDDİNE, </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">3. Savcılık görüşünün tebliğ edilmemesi dolayısıyla kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın<i><span style="font-style:italic"> mükerrer olması</span></i> nedeniyle REDDİNE, </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">4. Soruşturma dosyasına erişimin kısıtlanması dolayısıyla kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın<i><span style="font-style:italic"> mükerrer olması</span></i> nedeniyle REDDİNE, </span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">5. Tutukluluk incelemelerinin hâkim/mahkeme önüne çıkarılmaksızın yapıldığına ilişkin iddianın <i><span style="font-style:italic">mükerrer </span></i>olması nedeniyle REDDİNE,</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">6. Tutuklamaya etkin şekilde itiraz edilememesi dolayısıyla kişi hürriyeti ve güvenliği hakkının ihlal edildiğine ilişkin iddianın <i><span style="font-style:italic">başvuru yollarının tüketilmemesi</span></i> nedeniyle KABUL EDİLEMEZ OLDUĞUNA,</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">7. Adil yargılanma hakkının ihlal edildiğine ilişkin iddianın <i><span style="font-style:italic">başvuru yollarının tüketilmemesi</span></i> nedeniyle KABUL EDİLEMEZ OLDUĞUNA,</span></font></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><font color="#010000" face="Times New Roman" size="3"><span style="font-size:12.0pt;
+color:#010000">C. 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanunu'nun 339. maddesinin (2) numaralı fıkrası uyarınca tahsil edilmesi mağduriyetine neden olacağından başvurucunun yargılama giderlerini ödemekten TAMAMEN MUAF TUTULMASINA 8/7/2020 tarihinde OYBİRLİĞİYLE karar verildi. </span></font></p>
+</div>
