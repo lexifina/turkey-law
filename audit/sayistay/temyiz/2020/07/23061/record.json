@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48081",
+  "decision_date": "2020-07-08",
+  "source_id": 23061,
+  "chamber": "6",
+  "file_number": "46167",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23061/",
+  "source_sha256": "b4f65ad60cde05062a0102d17f9f5582c34199cc79403897cbe16574384dbc84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
