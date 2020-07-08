@@ -1,0 +1,20 @@
+{
+  "number": "443",
+  "title": "ÜCRETE TABİ İŞLER TARİFESİ",
+  "decision_date": "2020-07-08",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1525",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1525/443",
+  "source_sha256": "9ce39fb8a2b5e1337eba57a7bd6070a669e6669a47f37934e626da22230d6d6b",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2020-07-08",
+  "in_force_basis": "Official Birleşim Tarihi: 08.07.2020; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 2",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
