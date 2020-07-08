@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48131",
+  "decision_date": "2020-07-08",
+  "source_id": 20844,
+  "chamber": "6",
+  "file_number": "46051",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20844/",
+  "source_sha256": "1c5cc39e479c1677311cdce64cfbb84b71bac3194515b8484cbf578dfbe723b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
