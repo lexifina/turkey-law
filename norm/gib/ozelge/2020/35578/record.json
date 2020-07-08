@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13334133-140.04.01-10621",
+  "source_id": 35578,
+  "date": "2020-07-08",
+  "title": "Pay sahipleri tarafından kısmen veraset yoluyla, kısmen satın alma yoluyla edinilen müşterek mülkiyete konu taşınmazın pay sahipleri arasında ifrazen taksiminde harç uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35578",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "51f79e7a40c9a0552c494d16fe88bcbafc3a6d84e1b27c40380dba7bf18a69c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
