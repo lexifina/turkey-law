@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "248",
+  "decision_date": "2020-07-08",
+  "title": "MEC.KAR. (mut, barabanlı, karşıyaka ve güllük 3 adet trafo).doc",
+  "listed_as": "248 MEC.KAR. (mut, barabanlı, karşıyaka ve güllük 3 adet trafo).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/248-meckar-mut-barabanli-karsiyaka-ve-gulluk-3-adet-trafodoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-temmuz-2020-meclis-kararlari",
+  "listing_sha256": "ca11f86fd8249ab70600035157ea009578efafef63642f9424917a489e569359",
+  "meeting_title": "08 TEMMUZ 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
