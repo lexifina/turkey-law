@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48109",
+  "decision_date": "2020-07-08",
+  "source_id": 20807,
+  "chamber": "6",
+  "file_number": "46068",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20807/",
+  "source_sha256": "c01c9deec9ed18038598919a41452f678972e1e9465690dc9d7bb990a1256db2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
