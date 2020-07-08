@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48163",
+  "decision_date": "2020-07-08",
+  "source_id": 20876,
+  "chamber": "6",
+  "file_number": "44670",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/20876/",
+  "source_sha256": "78932906fa6bc764bf7df3131617d76f433b20ee63796fe8d4f53d1d3658b7fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
