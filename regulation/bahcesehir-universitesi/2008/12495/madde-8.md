@@ -1,0 +1,4 @@
+Eğitim süresi
+MADDE 8 – (1) İngilizce hazırlık sınıfında eğitimin süresi en çok iki yarı yıldır.
+(2) İngilizce hazırlık programında daha önce iki yıl okuyup başarısız olan ve Öğrenci Seçme Sınavı veya Yabancı Uyruklu Öğrenci Sınavı ile yeniden kayıt hakkı elde eden ön lisans ve lisans öğrencileri hazırlık sınıfına tekrar kayıt yaptırabilir.
+(3) Derslere devam yükümlülüklerini yerine getirdikleri halde, gerekli not ortalamasını sağlayamadıkları için ilişiği kesilen lisans öğrencilerine akademik takvimde belirtilen tarihlerde yapılacak yeterlik sınavlarına üç yıl süresince katılma hakkı tanınır. Sınavlara katılmayanlar için mazeret sınavı açılmaz. Bu sınavlara katılan öğrenciler, öğrencilik haklarından yararlanamaz. Sınavlara katılmak için adayların Senato tarafından belirlenen akademik takvimde belirtilen tarihe kadar Öğrenci İşleri Dairesi Başkanlığına dilekçe ile başvuru yapması zorunludur.
