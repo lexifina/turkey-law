@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34682",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DÜŞEY ENGEL VERİLERİNİ TOPLAMA VE SUNMA YÖNETMELİĞİ",
+  "number": "34682",
+  "issuer": "Milli Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2020/34682",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34682&MevzuatTertip=5",
+  "source_sha256": "8134452975d19db31152a06402ab63e4445df88cc60fdd2c309a785d5ea8df80",
+  "source_bytes": 22919,
+  "published": "2020-07-09",
+  "gazette": "31180",
+  "in_force": "2020-07-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.07.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1115,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34682-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
