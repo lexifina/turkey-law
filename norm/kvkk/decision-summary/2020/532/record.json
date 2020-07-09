@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/532",
+  "source_id": 7032,
+  "date": "2020-07-09",
+  "title": "“Bir sigorta şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 09/07/2020 tarih ve 2020/532 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7032/2020-532",
+  "source_sha256": "3e0701e026413004ca9e233b7b67f0596891b777fc9bbe61bc81791298ae0527",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
