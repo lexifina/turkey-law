@@ -1,0 +1,4 @@
+Bilirkişi görüşünün değerlendirilmesi
+MADDE 29 – (1) Bilirkişi raporu, tüketici hakem heyeti tarafından diğer delillerle birlikte değerlendirilir.
+(2) Tüketici hakem heyeti, bilirkişi raporundaki eksiklik yahut belirsizliğin tamamlanması veya açıklığa kavuşturulmasını sağlamak için yeni sorular yöneltmek suretiyle tüketici hakem heyeti başkanının bilirkişiden ek rapor istemesini talep edebilir. Talep edilmesi halinde on beş işgünü içinde ek raporunu sunmayan bilirkişiye ücret ödenmez.
+(3) İhtiyaç halinde bilirkişinin görüşünü sözlü olarak açıklamasına karar verilirse açıklamaları tutanağa geçirilir ve bilirkişinin tutanağa imzası alınır. Kurul halinde görevlendirme söz konusu ise bilirkişilerin, bilgilerine başvurulan hususu hemen aralarında müzakere etmelerine imkan tanınır ve müzakere sonucunda açıklanan görüş tutanağa geçirilerek bilirkişilere imzalatılır.

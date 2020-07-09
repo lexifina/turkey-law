@@ -1,0 +1,4 @@
+Liste
+MADDE 21 – (1) Liste, bilirkişilerin sicil numaraları, ad ve soyadları, temel uzmanlık alanları ve alt uzmanlık alanları, ikamet ettikleri veya mesleki ya da ticari faaliyetlerini yürüttükleri il ve ilçe bilgileri ve meslekleri gösterilmek suretiyle il müdürlükleri tarafından tablo halinde düzenlenir.
+(2) Liste, tüm tüketici hakem heyetlerince bilirkişi görevlendirmesi yapılırken kullanılmak üzere, il müdürlükleri tarafından Bakanlığın internet sitesinde kendilerine ayrılmış olan internet sayfasında yayımlanır ve il sınırı içinde kurulu bulunan tüm tüketici hakem heyetlerine ayrıca yazıyla bildirilir.
+(3) 23 üncü maddenin on üçüncü fıkrası hükmü saklı kalmak üzere; tüketici hakem heyeti başkanı, tüketici hakem heyetinin kurulu bulunduğu yerin il müdürlüğü tarafından hazırlanan listede yer alan bilirkişiler arasından görevlendirme yapar.

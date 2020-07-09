@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.34683",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜKETİCİ HAKEM HEYETLERİ BİLİRKİŞİLİK YÖNETMELİĞİ",
+  "number": "34683",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2020/34683",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34683&MevzuatTertip=5",
+  "source_sha256": "cb1fb2d111cc483aaab53186109392024af97a429ba2501d86b6627b09e82ff0",
+  "source_bytes": 77347,
+  "published": "2020-07-09",
+  "gazette": "31180",
+  "in_force": "2020-07-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.07.2020)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

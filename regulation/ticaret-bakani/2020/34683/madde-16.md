@@ -1,0 +1,5 @@
+İlan ve başvurunun yapılacağı yer
+MADDE 16 – (1) İl müdürlükleri tarafından, sicillerin ve listelerin oluşturulması veya ihtiyaca göre güncellenmesi amacıyla, her yıl Ekim ayının ilk haftasında Bakanlığın internet sitesinde kendilerine ayrılmış olan internet sayfası ile il sınırları içerisinde bulunan kaymakamlıkların internet sayfalarında ve gerekli görülen diğer mecralarda tüketici hakem heyetleri bilirkişiliği başvurusuna ilişkin ilan yapılır.
+(2) İlanda, il müdürlükleri tarafından sicile ve listeye başvuru ve kabul şartları, başvuru için gerekli belgeler, başvurulacak uzmanlık alanları ve başvuruların alınacağı tarihler ile diğer ihtiyaç duyulan bilgilere yer verilir.
+(3) Listede yer verilen uzmanlık alanlarında ihtiyacı karşılayacak sayıda bilirkişi bulunmaması halinde, il müdürlükleri tarafından belirli dönemlere bağlı kalınmaksızın bu Yönetmelik uyarınca listeye yeni bilirkişi kaydı yapılabilir.
+(4) Başvurular ikamet edilen ya da mesleki faaliyetin yürütüldüğü yerdeki il müdürlüğüne yapılır. İkamet edilen yer ile mesleki faaliyetin yürütüldüğü yerin farklı olması halinde başvuru, bu yerlerde bulunan il müdürlüklerinden yalnızca birine yapılır.

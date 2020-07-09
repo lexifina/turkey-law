@@ -1,0 +1,2 @@
+Etik ilkelerin kapsamı ve etik ilkelere bağlılık
+MADDE 6 – (1) Sicile ve listeye kaydolan bilirkişiler ile 23 üncü maddenin on dördüncü fıkrası uyarınca liste dışından görevlendirilen kişiler, 7 ila 14 üncü maddelerde düzenlenen etik ilkelere ve bilirkişilik göreviyle bağdaştığı ölçüde 13/4/2005 tarihli ve 25785 sayılı Resmî Gazete’de yayımlanan Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelikte düzenlenen etik ilkelere uymakla yükümlüdürler.

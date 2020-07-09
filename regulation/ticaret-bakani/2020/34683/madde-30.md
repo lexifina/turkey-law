@@ -1,0 +1,2 @@
+Bilirkişi ücreti
+MADDE 30 – (1) Bilirkişi ücreti, Kanunun 71 inci maddesi uyarınca Hazine ve Maliye Bakanlığının uygun görüşü alınarak Bakanlık tarafından belirlenen Tüketici Hakem Heyeti Başkan ve Üyelerine ve Raportör Olarak Görevlendirilen Diğer Kamu Personeline Ödenecek Huzur Hakkı ve Huzur Ücretleri ile Bilirkişilere Ödenecek Ücrete İlişkin Usul ve Esaslara uygun şekilde Bakanlıkça hazırlanan ve duyurulan tarifeye göre tüketici hakem heyeti başkanı tarafından belirlenir ve aynı usul ve esaslara göre bilirkişiye ödenir.
