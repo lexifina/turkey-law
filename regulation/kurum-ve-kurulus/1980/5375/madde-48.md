@@ -1,0 +1,2 @@
+Mal ve Hizmetlerin Değerlendirilmesi:
+Madde 48 – Üretilen mal ve hizmetlerin satış değerleri maliye bedellerine kar yüzdesi eklenerek tespit edilir. Maliyet bedellerine eklenecek kar yüzdeleri, piyasa fiyatı ve kar hadleri dikkate alınarak hesaplanır. Gerektiğinde kültürel ve sosyal maksatlarla daha düşük bir fiyatın uygulanabilmesi, ilgili kuruluşun teklifi ve Maliye Bakanlığının uygun görüşüne bağlıdır.

@@ -1,0 +1,3 @@
+Sayıştay’a Gönderilecek Belgeler:
+Madde 46 – (Değişik:RG-27/07/2007-26595)
+Düzenlenen yönetim dönemi hesabı; defter, cetvel ve tablolar ile Döner Sermayeli İşletmeler Bütçe ve Muhasebe Yönetmeliği uyarınca düzenlenmesi gereken yıl sonu sayım tutanakları, hesap dönemi sonu itibarıyla görev başında bulunan muhasebe yetkilisi tarafından yönetim dönemi hesabı adı altında oluşturulacak bilanço ve ekleri bir dosya ile birlikte şubat ayı sonuna kadar Sayıştaya gönderilir. Asılları Sayıştaya gönderilen yönetim dönemi cetvel ve tabloların yevmiye defteri hariç onaylı örnekleri Maliye Bakanlığı ile Kültür ve Turizm Bakanlığına da gönderilir.

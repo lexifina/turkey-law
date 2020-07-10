@@ -1,0 +1,3 @@
+Taşınır konsolide görevlisi
+MADDE 31 – (Başlığı ile birlikte değişik:RG-27/07/2007-26595)
+Döner Sermaye İşletmesinin merkez ve merkez dışındaki harcama birimlerinin taşınır hesaplarının konsolide edilmesi işlemlerini yürütmek üzere merkez, bölge, il ve gerek görülmesi hâlinde ilçe teşkilatlarında birer taşınır konsolide görevlisi görevlendirilir. Merkezdeki taşınır konsolide görevlileri, harcama birimleri ile taşradaki taşınır konsolide görevlilerinden aldıkları Taşınır Hesap Cetvellerini konsolide ederek, İşletmenin Taşınır Kesin Hesap Cetveli ile Taşınır Hesabı İcmal Cetvelini üst yönetici adına hazırlamakla yükümlüdür.

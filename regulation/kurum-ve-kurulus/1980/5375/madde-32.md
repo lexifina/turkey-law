@@ -1,0 +1,3 @@
+Taşınır kayıt ve kontrol yetkilisi
+MADDE 32 – (Başlığı ile birlikte değişik:RG-27/07/2007-26595)
+Döner Sermaye İşletmesinin taşınır kayıt ve işlemleri; memuriyet veya çalışma unvanına bağlı kalmaksızın Taşınır Mal Yönetmeliği uyarınca ve bu Yönetmelikte belirtilen usule uygun şekilde bu işlemleri yapabilecek bilgi ve niteliklere sahip Döner Sermaye İşletmesi Merkez Müdürlüğünce görevlendirilen harcama yetkilisinin denetimi altında bulunan personel tarafından yapılır. Taşınır kayıt ve kontrol yetkilisinin izin veya hastalık gibi sebeplerle görevi başında bulunmadığı zaman bu görev işletmenin diğer personeli tarafından yerine getirilir. Taşınır işlemleri yoğun olan harcama birimlerinde birden fazla taşınır kayıt ve kontrol yetkilisi görevlendirilebilir.

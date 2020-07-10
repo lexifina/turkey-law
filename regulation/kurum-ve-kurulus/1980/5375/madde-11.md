@@ -1,0 +1,2 @@
+MADDE 11 – (Değişik:RG-24/12/2010-27795)
+Döner Sermaye İşletmesi Merkez Müdürlüğünün harcama yetkilisi, aynı zamanda Yönetim Kurulu Başkanı olan Kültür ve Turizm Bakanlığı ilgili (Değişik ibare:RG-16/10/2018-30567) Bakan Yardımcısıdır. İlgili (Değişik ibare:RG-16/10/2018-30567) Bakan Yardımcısı bu yetkisini genel müdür, Döner Sermaye İşletmesi Merkez Müdürü ve taşrada belli limitler dâhilinde işletme müdürüne veya il kültür ve turizm müdürüne devredebilir.

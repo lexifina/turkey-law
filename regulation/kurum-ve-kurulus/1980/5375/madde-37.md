@@ -1,0 +1,4 @@
+Başka Görevliler:
+Madde 37 – (Değişik:RG-27/07/2007-26595)
+Döner sermaye işlemlerinin Kültür ve Turizm Bakanlığı personeline gördürülmesi asıldır. Ancak, iş gerektirirse döner sermaye teşkilatında teknik ve idarî müdür yardımcıları, şube müdürleri, memur, sözleşmeli personel, devamlı ve geçici işçi çalıştırılabilir. Bunlarla ilgili kadrolar ilgili mevzuat uyarınca Döner Sermaye İşletmesi Merkez Müdürlüğünün önerisi üzerine Kültür ve Turizm Bakanlığı Personel Dairesi Başkanlığı tarafından sağlanır.
+Döner sermaye işlerinde çalıştırılacak memurların atamaları Yönetim Kurulu kararı üzerine Kültür ve Turizm Bakanı tarafından; sözleşmeli personel sözleşmeleri Yönetim Kurulu kararına bağlı olarak Bakanın verdiği yetki ile; işçi atamaları ise kadro içinde bulunmak şartıyla Merkez Müdürlüğünce yapılır.

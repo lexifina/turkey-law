@@ -1,0 +1,6 @@
+İşletme Kurulu ve diğer birimlerdeki karar organı:
+Madde 15 – (Değişik birinci fıkra:RG-27/07/2007-26595) Döner sermaye işletmelerinde karar organı; İşletme Kuruludur. İşletme Kurulu; İşletme Müdürü başkanlığında biri teknik, öteki idarî konularda görevli iki müdür yardımcısı veya şube müdürü ile muhasebe yetkilisi veya muhasebe yetkilisi mutemedinden teşekkül eder.
+Toplantı ve karar nisabı en az üçtür.
+(Değişik üçüncü fıkra: RG-08/07/2004-25516) İşletme kurulmayan birim ve yerlerde döner sermaye işleri ilgili karar organı birim yöneticisi veya Yönetim Kurulunun teklifi üzerine Bakan tarafından görevlendirilecek başka bir görevlidir. Birim yöneticilerine veya başka bir görevliye döner sermaye ile ilgili işler konusunda verilecek görev, yetki ve sorumluluklar bu Yönetmelik esaslarına uygun olarak Yönetim Kurulunca belirlenir.
+(Değişik dördüncü fıkra:RG-08/07/2004-25516)Yönetim Kurulu, gerekli gördüğü birim ve yerlerde karar alma yetkisini sınırları belli olmak kaydıyla, birim yöneticisi veya başka bir görevli başkanlığında tespit edeceği bir kurula da devredebilir.
+İşletme kurulmayan birimlerde döner sermaye işlemleri Döner Sermaye İşletmesi Merkez Müdürlüğüne bağlı olarak yürütülür.
