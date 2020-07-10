@@ -1,0 +1,16 @@
+{
+  "decision_date": "2020-07-10",
+  "history_type": "as-enacted",
+  "in_force": "2020-07-10",
+  "in_force_basis": "Official decision header \"Karar No:675 10.07.2020\"; as-adopted council record, later commencement not established",
+  "number": "675",
+  "omitted_images": 0,
+  "referenced_images": 0,
+  "source": "https://s.ankara.bel.tr/files/2815/9609/0872/K20_675.docx",
+  "source_images": 0,
+  "source_listing": "https://www.ankara.bel.tr/meclis/kararlar?page=663",
+  "source_sha256": "0bdb18ebe6a338d7250fe4e223f2b30a6f1b450ed3069e8eab4f6d3af2c2d682",
+  "source_text_comparison": "OOXML paragraphs vs independent python-docx official-source paragraphs; explicit list labels checked against original numbering.xml",
+  "text_scope": "Official downloadable council record and its included reports; other referenced material is not reconstructed.",
+  "title": "Çankaya İlçesi Yaşamkent Mahallesi 3207.Cadde ile 3222.caddelerin arasına konulan trafik lambalarından 1 tanesinin kaldırılmasına ilişkin Kent Estetiği Komisyonu Raporu oylanarak oybirliğiyle kabul edildi."
+}
