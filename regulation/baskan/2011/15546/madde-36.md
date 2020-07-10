@@ -1,0 +1,2 @@
+Uzman yardımcılarının çalışma düzeni ve sorumluluğu
+MADDE 36 – (1) Uzman Yardımcıları, yardımcılık süresince varsa çalıştıkları birimdeki birim amirlerince uygun görülen Uzmanın gözetimi altında çalışmalarını yürütür. Uzman Yardımcıları bu Yönetmelikle kendilerine verilen görevleri mevzuata ve etik değerlere uygun olarak ve zamanında yerine getirme konusunda bağlı bulunduğu birim amirine karşı doğrudan sorumludur.

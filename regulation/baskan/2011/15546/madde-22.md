@@ -1,0 +1,4 @@
+Tezlerin teslimi
+MADDE 22 – (1) (Değişik:RG-20/5/2015-29361) Uzman Yardımcıları, hazırladıkları tezlerini belirtilen süre içinde Birim Amirine teslim etmek zorundadırlar. Tez danışmanları, aynı süre içinde, rehberlik ettikleri tez hakkındaki görüşlerini ve Uzman Yardımcısının çalışmalarını, nihai kanaatini de içeren bir rapor halinde personel işlerinden sorumlu daire başkanlığına gönderir. Birim Amirlerine teslim edilen tezler beş iş günü içinde, personel işlerinden sorumlu daire başkanlığına gönderilir.
+(2) Personel işlerinden sorumlu daire başkanlığı, yeterlik sınavına girmeye hak kazanmış Uzman Yardımcılarının tezlerini ve danışman raporlarını Yeterlik Sınavı Kuruluna teslim eder.
+(3) (Değişik:RG-20/5/2015-29361) Tez konuları belirlendikten sonra resmi belge ile ispatı mümkün mazeret nedeniyle tezini teslim edemeyen uzman yardımcısına Yeterlik Sınavı Kurulu tarafından otuz günü aşmamak üzere ek süre verilebilir.

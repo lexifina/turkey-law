@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-10/7/2020-31181) Başkan: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanını,
+b) (Değişik:RG-10/7/2020-31181) Başkanlık: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığını,
+c) Birim: KOBİ Uzman ve KOBİ Uzman Yardımcılarının görev yaptıkları merkez ve taşra teşkilatındaki birimleri,
+ç) Birim Amiri: KOBİ Uzman ve KOBİ Uzman Yardımcılarının görev yaptıkları merkez ve taşra teşkilatındaki birim amirini,
+d) Giriş Sınavı: KOBİ Uzman Yardımcılığına giriş sınavını,
+e) Giriş Sınavı Kurulu: KOBİ Uzman Yardımcılığına Giriş Sınavını yürütecek olan kurulu,
+f) KOSGEB: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığını,
+g) (Değişik:RG-3/9/2013-28754) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ğ) KPSS: 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri çerçevesinde Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca yapılacak olan A Grubu Kamu Personel Seçme Sınavını,
+h) Merkez Teşkilatı: Ana hizmet, danışma ve denetim birimleri ile yardımcı hizmet birimlerini,
+ı) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+i) (Değişik:RG-10/7/2020-31181) Personel: 375 sayılı Kanun Hükmünde Kararnamenin ek 27 nci maddesi uyarınca idari hizmet sözleşmesi ile çalışan asli personeli,
+j) (Değişik:RG-10/7/2020-31181) Taşra Teşkilatı: Merkez Teşkilatı dışında kalan birimleri,
+k) Tez Danışmanı: Yeterlik sınavına katılan Uzman Yardımcısına tez çalışmalarında nezaret eden kişiyi,
+l) Uzman: Başkanlıkta İdari Hizmet Sözleşmesi ile istihdam edilen KOBİ Uzmanını,
+m) Uzman Yardımcısı: Başkanlıkta İdari Hizmet Sözleşmesi ile istihdam edilen KOBİ Uzman Yardımcısını,
+n) (Değişik:RG-20/5/2015-29361) Yeterlik Sınavı: KOBİ Uzman Yardımcısının, KOBİ Uzmanlığına terfien atanmak amacıyla hazırlayacağı tez ve yazılı değerlendirmeyi içeren sınavı,
+o) Yeterlik Sınavı Kurulu: KOBİ Uzmanlığı Yeterlik Sınavını yürütecek olan kurulu,
+ö) Yönetici: Başkanlıkta yönetim kademesinde görev alan personeli,
+ifade eder.

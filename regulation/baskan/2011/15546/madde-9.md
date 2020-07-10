@@ -1,0 +1,5 @@
+Giriş sınavı kurulu
+MADDE 9 – (1) Giriş Sınavı Kurulu, Başkan tarafından görevlendirilecek bir Başkan Yardımcısının başkanlığında, giriş sınavı kurulu başkanı dahil beş asil (Değişik ibare:RG-10/7/2020-31181) ve beş yedek üyeden oluşur. Üyelerden personel işlerinden sorumlu daire başkanı Kurulun tabiî üyesi olup, diğer üyeler, Başkan tarafından; ana hizmet birimleri, danışma ve denetim birimleri ile yardımcı hizmet birimlerinin amirleri veya bu birimlerden görevlendirilecekler arasından belirlenir. Yedek üyeler, asil üyelerin katılamadıkları durumlarda belirlenme sıralarına göre, kurul başkanının katılamadığı durumlarda ise, yerine vekalet eden Başkan Yardımcısı Giriş Sınavı Kuruluna katılırlar.
+(2) Kurulun sekreterya hizmetleri personel işlerinden sorumlu daire başkanlığınca yürütülür.
+(3) Kurul, üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz.
+(4) Kurulun Başkan ve üyeleri; eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının katıldıkları sözlü sınavlarda görev alamazlar; bunların yerine yedek üyeler katılır.

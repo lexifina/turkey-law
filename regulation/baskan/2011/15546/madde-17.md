@@ -1,0 +1,6 @@
+Yeterlik sınavı kurulu
+MADDE 17 – (1) (Değişik:RG-20/5/2015-29361) Yeterlik Sınavı Kurulu, Başkan tarafından görevlendirilecek bir Başkan Yardımcısının başkanlığında, Yeterlik Sınavı Kurulu başkanı dahil en az beş üyeden oluşur. Üyeler, Başkan tarafından; başkan yardımcıları, ana hizmet birimleri, danışma ve denetim birimleri ile yardımcı hizmet birimlerinin amirleri veya bu birimlerden görevlendirilecekler (Mülga ibare:RG-10/7/2020-31181) (…) arasından belirlenir. Yedek üyeler de aynı yöntemle asil sayısı kadar belirlenir. Yedek üyeler, asil üyelerin katılamadıkları durumlarda belirlenme sıralarına göre, kurul başkanının katılamadığı durumlarda ise, yerine vekalet eden Başkan Yardımcısı Yeterlik Sınavı Kuruluna katılırlar.
+(2) Kurulun sekreterya hizmetleri personel işlerinden sorumlu daire başkanlığınca yürütülür.
+(3) Kurul, üye tam sayısı ile toplanır. Kararlar oy çokluğu ile alınır, çekimser oy kullanılmaz.
+(4) Birden fazla yeterlik sınavı kurulu oluşturulabilir. Personel işlerinden sorumlu daire başkanı kurullardan en az birinde doğal üye olarak yer alır.
+(5) (Ek:RG-20/5/2015-29361) Kurulun Başkan ve üyeleri; eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve kayın hısımlarının katıldıkları sınavlarda görev alamazlar.

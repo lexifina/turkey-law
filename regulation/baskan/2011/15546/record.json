@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.15546",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOSGEB KOBİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "15546",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2011/15546",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15546&MevzuatTertip=5",
+  "source_sha256": "9cb9745bc9ca7edcf0bac09a94885cffc4d848c5f0d82b1aff75fd6479de51dd",
+  "source_bytes": 107515,
+  "published": "2011-12-04",
+  "gazette": "28132",
+  "in_force": "2020-07-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-10",
+      "RG-10/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-10",
+      "10/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-22",
+      "RG-22/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-22",
+      "22/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-20",
+      "RG-20/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-20",
+      "20/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-03",
+      "RG-3/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-03",
+      "3/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4835,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
