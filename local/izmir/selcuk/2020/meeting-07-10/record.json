@@ -1,0 +1,25 @@
+{
+  "number": "meeting-07-10",
+  "number_as_published": "meeting-07-10",
+  "year": 2020,
+  "title": "10 Temmuz 2020 Tarihli Meclis Kararları",
+  "decision_date": "2020-07-10",
+  "source": "https://www.selcuk.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2020&type=karar",
+  "official_document": "https://www.selcuk.bel.tr/fileserver/uploads/79vwxa8.pdf",
+  "source_sha256": "54a07ec815a7bff4ac7f69f795d0549f13f8854419302e9424564b41f08d6a27",
+  "issuer": "Selçuk Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 TEMMUZ 2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "10 Temmuz 2020 Tarihli Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "10 Temmuz 2020",
+  "list_year": 2020
+}
