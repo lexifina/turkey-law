@@ -1,0 +1,23 @@
+{
+  "number": "29",
+  "number_as_published": "29",
+  "year": 2020,
+  "title": "Salı Pazarı hk.",
+  "decision_date": "2020-07-10",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/33",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/29-sali-pazarinin-kaldirilmasi-10072020.pdf",
+  "source_sha256": "8085f5d3651247df33b37a73dd2936a167206fd745de1f4f8f68ff9572a8f556",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-07-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Temmuz 2020 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
