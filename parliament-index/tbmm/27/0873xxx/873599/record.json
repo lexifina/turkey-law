@@ -1,0 +1,91 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 873599,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "MEHMET SAİT KİRAZOĞLU (GAZİANTEP)",
+  "summary": "Ve 56 Milletvekilinin Türk Silahlı Kuvvetleri Disiplin Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/3002) (S. Sayısı: 223)",
+  "title": "Ve 56 Milletvekilinin Türk Silahlı Kuvvetleri Disiplin Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/3002) (S. Sayısı: 223)",
+  "first_sitting_date": "2020-07-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 46,
+      "sitting": 112,
+      "sitting_date": "2020-07-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046112.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046fih.pdf",
+      "pages": [
+        "86:98",
+        "103:113",
+        "115:118",
+        "122:126",
+        "130:133",
+        "139"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 46,
+      "sitting": 113,
+      "sitting_date": "2020-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046113.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046fih.pdf",
+      "pages": [
+        "228:240",
+        "241:242",
+        "243:245",
+        "246:251",
+        "251:256",
+        "256:261",
+        "261:262",
+        "263:266",
+        "267:279",
+        "279:281",
+        "283:293",
+        "293:299",
+        "299:305"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    },
+    {
+      "cilt": 46,
+      "sitting": 114,
+      "sitting_date": "2020-07-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046114.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c046/tbmm27046fih.pdf",
+      "pages": [
+        "418:419",
+        "420:431",
+        "431:445",
+        "447:451",
+        "451:453",
+        "453:457",
+        "459:460",
+        "461:472",
+        "473",
+        "474:477",
+        "480:481",
+        "482:489",
+        "489:494",
+        "494:503"
+      ],
+      "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=3&v_cilt="
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1b497ed641d05c559caeb0ff4f15c5ecee40f7a288dba7150a207ec860380d7c",
+  "in_force": "2020-07-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; sittings the index lists without a date are dated from the official Tutanak Dergisi sitting listing (Tarih Sıralı Erişim); index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
