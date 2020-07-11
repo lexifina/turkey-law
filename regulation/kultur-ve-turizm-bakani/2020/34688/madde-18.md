@@ -1,0 +1,6 @@
+Proje müellifi ve ekibinde aranacak nitelikler
+MADDE 18 – (1) Alt ölçekli uygulama projelerini hazırlayacak mimar, peyzaj mimarı veya kentsel tasarım konusunda yüksek lisans yapmış şehir plancısı/şehir ve bölge plancısı olan proje müellifinin asgari aşağıdaki niteliklere sahip olması gerekmektedir:
+a) 3458 sayılı Kanunun 1 inci maddesinde belirlenen niteliklere sahip olmak ve 6235 sayılı Kanunun 33 üncü maddesi uyarınca ilgili meslek odasına kayıtlı olmak,
+b) İlgili meslek odalarından alınmış büro tescil belgesine sahip olmak.
+(2) Alt ölçekli uygulama projelerini hazırlayacak proje ekibinin içerisinde; asgari mimar ve/veya restorasyon konusunda yüksek lisans yapmış mimar, sanat tarihçisi ve/veya arkeolog, şehir plancısı/şehir ve bölge plancısı, peyzaj mimarı ve alanın niteliğine göre sorunları ve potansiyellerinin gerektirmesi halinde diğer meslek gruplarından uzmanlar (jeoloji mühendisi, harita mühendisi, makine mühendisi, elektrik mühendisi ve benzeri) da istihdam edilir. Bu ekipte yer alacak meslek odası bulunan uzmanların birinci fıkranın (a) bendinde tanımlanan özellikleri taşıması zorunludur.
+(3) Müellifler iş tanımına göre ekiplerinde belli sürelerle ya da sürekli olarak görev yapacak uzmanların isimlerini, özgeçmişlerini ve istenecek diğer belgelerin Başkanlıkça onaylı örneklerini sözleşme aşamasında Başkanlığa vermek zorundadır.

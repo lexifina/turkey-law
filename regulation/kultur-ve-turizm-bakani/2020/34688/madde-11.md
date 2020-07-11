@@ -1,0 +1,5 @@
+Alt ölçekli uygulama projeleri
+MADDE 11 – (1) Kapadokya Alanında, Başkanlıkça gerek görülen alanlarda alt ölçekli uygulama projeleri yapılır ya da yaptırılır. İlgili yerel idarece alt ölçekli uygulama projeleri hazırlanarak Başkanlığa teklif edilebilir. Bu projeler Komisyonca uygun bulunduktan sonra ilgili yerel idarece uygulanır. Yapılacak uygulamalar Başkanlıkça denetlenir.
+(2) Alt ölçekli uygulama projelerinin; alanın kimliğini vurgulayıcı, doğal, kültürel, arkeolojik, tarihi ve sosyal özellikleri ile kullanıcılar açısından önem taşıyan kesimleri için özel ayrıntıları içerecek biçimde hazırlanması; parsel tasarımı, bitkisel ve yapısal peyzaj ile açık alan düzenlemelerini içermesi; engelli erişimi, taşıt ve yaya ulaşımı, otopark ilişkilerini kurması zorunludur.
+(3) Projeler her türlü mimari, doğal, kültürel ve arkeolojik öğelerin ölçülü olarak işlendiği plankote içeren varsa kadastral durum işlenmiş onaylı hâlihazır haritalar üzerine çizilir.
+(4) Alt ölçekli uygulama projeleri; uygun ölçekte, yeterli sayıda kesit, siluet ve üç boyutlu modellemeleri içerecek şekilde, proje raporu ve uygulama tasarım rehberi ile birlikte sunulur.
