@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Tez ve Yeterlik Süreci
+Tez konusunun belirlenmesi
+MADDE 17 – (1) Aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç olmak üzere, Ajansta iki yılını tamamlayan uzman yardımcıları Başkanlığın görev alanı ile ilgili konularda üç farklı tez konusu önerisini bağlı bulunduğu Genel Koordinatöre sunar. Sunulan konuların Genel Koordinatör tarafından uygun görülmemesi halinde uzman yardımcısı tarafından ilave tez konusu sunulur. Tez konusu, Genel Koordinatörün uygun görüşü ve Başkanın onayı ile belirlenir. Belirlenen tez konusu aynı usul ile en fazla iki defaya mahsus olmak üzere değiştirilebilir.
+(2) Tez konusu belirlenen uzman yardımcıları için, Başkanın onayı ile tez danışmanı belirlenir. Tez danışmanı, Ajanstaki uzman, koordinatör ve üstü pozisyonlarda görev yapan yöneticiler veya üniversiteler ile diğer kamu kurum ve kuruluşlarında görev yapan doktora derecesine sahip görevliler arasından belirlenir.
+(3) Uzman yardımcıları, tezlerini danışmanlarının rehberliğinde hazırlar. Tezin hazırlanmasında, konunun başka bir kurum ve kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları açısından aynı şekilde incelenip savunulmamış olması esastır. Uzman yardımcısının hazırlayacağı tezin kendi görüş ve değerlendirmeleri ile önerilerini içermesi ve bilimsel çalışma etiğine uygun olması gerekir.

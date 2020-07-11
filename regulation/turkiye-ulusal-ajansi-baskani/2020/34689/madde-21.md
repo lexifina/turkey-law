@@ -1,0 +1,6 @@
+Yeterlik sınavı
+MADDE 21 – (1) Yeterlik sınavına girebilmek için aylıksız izin, toplamı üç ayı aşan hastalık ve refakat izinleri hariç, uzman yardımcısı olarak adaylıkta geçen süreler dâhil en az üç yıl Ajansta görev yapmış olmak ve hazırladığı tezin başarılı kabul edilmesi şarttır.
+(2) Yeterlik sınavı, Tez ve Yeterlik Sınav Kurulu tarafından uygun görülen yer ve tarihte yazılı veya sözlü olarak yapılır.
+(3) Yeterlik sınav soruları Tez ve Yeterlik Sınav Kurulu tarafından hazırlanır. Sınav sorularının hazırlanması ve cevaplarının değerlendirilmesi için gerektiğinde öğretim üyelerinden veya konusunda uzman kamu personelinden yararlanılabilir.
+(4) Yeterlik sınavı Başkanlığın görev alanına giren ve sınavdan en az bir ay önce ilân edilen konulardan yapılır. Yeterlik sınavında başarılı olabilmek için; yazılı sınav yapılması halinde sınavda yüz tam puan üzerinden en az yetmiş puan alınması, sözlü sınav yapılması halinde ise Tez ve Yeterlik Sınav Kurulu üyelerince yüz puan üzerinden verilen puanların aritmetik ortalamasının en az yetmiş puan olması şarttır.
+(5) Yeterlik sınavında başarılı olamayanlar veya sınava girmeye hak kazandığı hâlde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir.

@@ -1,0 +1,3 @@
+Şahsi hallerde meydana gelen değişikliklerin bildirilmesi
+MADDE 58 – (1) Personel; yerleşim yeri adresi ve iletişim bilgileri ile evlenme, boşanma, nüfus bilgileri, doğum ve ölüm gibi şahsi hallerde meydana gelecek her türlü değişikliği otuz gün içerisinde birimine bildirmekle yükümlüdür. İletişim adresinde meydana gelen değişiklik bildirilmediği takdirde, personelin bilinen en son adresine yapılacak bildirimler tebellüğ edilmiş sayılır.
+(2) Personelin ücretinde değişikliklere sebep olabilecek belgelerin ücretlere yansıtılabilmesi için her ayın onuncu gününden önce Ajansa sunulması gerekir. Bu tarihten sonra sunulan belgeler bir sonraki ayın ücret ödemesinde dikkate alınır.

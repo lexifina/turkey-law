@@ -1,0 +1,17 @@
+Giriş sınavları
+MADDE 11 – (1) Giriş sınavı Ajansın görev alanı ve personel alınacak pozisyonun nitelikleri dikkate alınarak sınav duyurusunda belirtilen konulardan yapılır. Uzman Yardımcısı için yazılı sınav konuları; alan bilgisi, Ajansın görev alanına ait konular ile genel yetenek ve genel kültür başlıklarından oluşur. Yazılı sınavda soruların bu başlıklar bakımından hangi ağırlıkta değerlendirmeye tabi tutulacağına sınav ilanında yer verilir. Alan bilgisi, sınav ilanında yer alan fakülte ve bölümlere göre belirlenir.
+(2) Yazılı sınav yapılması durumunda sınav; klasik veya test yahut klasik ve test yöntemiyle basılı veya elektronik ortamda yapılabilir. Sınav, Ajans tarafından yapılabileceği gibi protokolle belirlenecek esaslara göre ÖSYM Başkanlığına, Millî Eğitim Bakanlığına, üniversitelere veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırılabilir.
+(3) Sözlü sınav, adayların;
+a) Sınav konularına ilişkin bilgi düzeyi,
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+d) Genel yetenek ve genel kültürü,
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+yönlerinden değerlendirilerek, ayrı ayrı puan verilmek suretiyle gerçekleştirilir. Adaylar, komisyon tarafından (a) bendi için elli puan, (b) ila (e) bentlerinde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar her bir komisyon üyesince ayrı ayrı tutanağa geçirilir. Bunun dışında sözlü sınav ile ilgili herhangi bir kayıt sistemi kullanılmaz.
+(4) Uygulamalı sınav, Ajansın görev alanına uygun konularda ve giriş sınavı duyurusunda belirtilen usul ve şekilde gerçekleştirilir.
+(5) Giriş sınavında başarılı sayılmak için, komisyon başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır. Birden fazla sınav yapılması halinde başarı puanı, bu sınavlardan alınan puanların aritmetik ortalamasından oluşur.
+(6) Başarı puanı en yüksek olan adaydan başlanmak suretiyle giriş sınavı duyurusunda belirtilen pozisyon sayısı kadar asıl adayın isimleri Ajansın resmi internet sayfasında ilan edilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz. Adayların başarı puanının eşit olması halinde sırasıyla varsa yazılı sınav puanı, sözlü/uygulamalı sınav puanı, bunların eşit olması halinde merkezi sınav puanı yüksek olan, bunun eşit olması halinde diploma tarihi önce olan, bunun da eşit olması halinde yaşı büyük olan aday tercih edilir.
+(7) Yapılan sınavlarda başarılı olmak şartıyla, giriş sınavı duyurusunda belirtilen pozisyon sayısının yarısını geçmemek üzere komisyon tarafından belirlenen sayıda yedek adayın isimlerini kapsayan bir liste ilan edilebilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz. Yedek listede yer alan adayların hakları ilan tarihini takip eden on iki ay için geçerli olup, daha sonraki sınavlar için müktesep hak veya herhangi bir öncelik hakkı teşkil etmez.
+(8) Giriş sınavında bu maddenin beşinci fıkrasında belirtilen puanı almış olmak, adaylar için müktesep hak teşkil etmez.
+(9) Adaylar, giriş sınavı sonuçlarına, sonuçların açıklandığı tarihten itibaren beş işgünü içerisinde gerekçesini de belirterek yazılı olarak itiraz edebilirler. İtirazlar en geç kırkbeş gün içinde incelenir ve sonuç ilgiliye yazılı olarak bildirilir.

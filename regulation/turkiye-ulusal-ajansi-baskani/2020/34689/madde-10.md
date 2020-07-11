@@ -1,0 +1,5 @@
+Sınav komisyonu
+MADDE 10 – (1) Başvuruların incelenmesi, giriş sınavının gerçekleştirilmesi, sonuçlarının ve itirazların değerlendirilmesi ile adayların ilan edilen niteliklere uygunluğundan sınav komisyonu sorumludur.
+(2) Sınav komisyonu; Başkanın teklifi ve Avrupa Birliği Başkanının onayı ile görevlendirilecek biri komisyon başkanı olmak üzere beş kişiden teşekkül eder. Komisyon Başkanı; Başkan, Genel Koordinatör veya Koordinatörlerden belirlenir. Personel alımı yapılacak pozisyonun özel teknik bilgi gerektirmesi halinde, öğretim üyeleri ile diğer kamu kurum ve kuruluşlarından konusunda uzman en fazla iki kişi ilave komisyon üyesi olarak görevlendirilebilir. Aynı usulle en az iki yedek üye belirlenir.
+(3) Sınav Komisyonunun başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının katıldıkları sınavda görev alamazlar.
+(4) Komisyon, en az 5 üye ile toplanır ve oy çokluğu ile karar alır.

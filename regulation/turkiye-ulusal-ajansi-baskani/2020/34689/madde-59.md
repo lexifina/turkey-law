@@ -1,0 +1,3 @@
+İnsan kaynakları bilgi sistemi ve bildirim
+MADDE 59 – (1) Personel, Türkiye Cumhuriyeti kimlik numarası esas alınarak insan kaynakları bilgi sistemine kaydedilir. Her personel için, gerçek veya elektronik ortamda bir özlük dosyası tutulur. Özlük dosyasına, personelin mesleki bilgileri, mal bildirimi verme zorunluluğu olanlar için mal bildirimleri, varsa inceleme, soruşturma, denetim raporları, disiplin cezaları ile ödül ve başarı belgeleri ile özlük işlemlerine ilişkin diğer belgeler konulur.
+(2) Personelin atanmasına, pozisyon değişikliklerine, görevin sona ermesine ilişkin bilgiler ile gerekli görülen diğer bilgiler kamu personeli bilgi sisteminde ilgili “Kamu E-uygulama” modülüne kaydedilir.
