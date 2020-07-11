@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 3,
+  "esas_no": "7/32145",
+  "submitted": "2020-07-11",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mustafa Sezgin TANRIKULU",
+  "province": "İstanbul",
+  "summary": "10 Mart-10 Temmuz 2020 tarihleri arasında depresyon, kaygı bozukluğu gibi sebeplerle sağlık kuruluşlarına başvuranlar ile 60 yaş üstü kronik rahatsızlığı bulunan ve koronavirüsten hayatını kaybeden Bakanlık personel sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-70c0-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "5f609c03445cc2eaeb19920252bcb46944ddc909248ff991a32a0702f8594371",
+  "in_force": "2020-07-11",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
