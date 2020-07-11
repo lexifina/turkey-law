@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-07-11",
+  "issue": "31182",
+  "edition": "regular",
+  "item": 20,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kapadokya Alan Planları Yapımı ve Yürürlüğüne İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200711-20.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200711.htm",
+  "index_sha256": "429b7b391ac4d8727dc77ca7039c1bbe879065a39d47de19e87aad9de97abec9",
+  "index_header": "11 Temmuz 2020 ... 31182 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200711.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
