@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-07-13",
+  "issue": "31184",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Sabahattin Zaim Üniversitesi Nükleer Algılayıcılar ve Robotik Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200713-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200713.htm",
+  "index_sha256": "8168954cd13b8b72775e535432f23680cb359f4b9c11712369e592a3ea1d8c85",
+  "index_header": "13 Temmuz 2020 ... 31184 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200713.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
