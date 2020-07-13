@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-07-13",
+      "13.07.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31184",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-07-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2020/34694",
+  "published": "2020-07-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34694&MevzuatTertip=5",
+  "source_bytes": 31364,
+  "source_id": "8.5.34694",
+  "source_sha256": "431a37eb686b4f566b61ce0939cdc7554f2af1be677c468b78b660d36103a627",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ NÜKLEER\r\nALGILAYICILAR VE ROBOTİK UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 901
+}
