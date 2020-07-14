@@ -1,0 +1,4 @@
+Dağıtım
+MADDE 4 – (1) Tarife kontenjanlarının dağıtımında söz konusu eşyayı üretiminde hammadde veya ara mal olarak kullanan sanayicilerin talepleri öncelikle dikkate alınır.
+(2) Talep edilen toplam tarife kontenjanı miktarının, açılmış olan tarife kontenjanı miktarı ile eşit veya bu miktardan daha az olması durumunda taleplerin tam olarak karşılanması esastır. Daha önce başvuru sahibi firmaya kontenjan tahsis edilmiş olması durumunda, bu kontenjanı kullanma performansı dağıtım yapılırken göz önünde bulundurulur.
+(3) Talep edilen toplam tarife kontenjanı miktarının açılan tarife kontenjanı miktarından daha fazla olması durumunda ise dağıtım; geçerli başvuru sayısı, toplam talep miktarı, üretim faaliyeti, fiili sarfiyat, üretim miktarı, üretim kapasitesi, tüketim kapasitesi, toplam ithalat miktarı ve daha önce tahsis edilmiş bulunan tarife kontenjanını kullanma performansları kriterlerinden bir veya birkaçı dikkate alınmak suretiyle gerçekleştirilir.
