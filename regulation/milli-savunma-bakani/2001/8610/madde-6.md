@@ -1,0 +1,3 @@
+Tabancaların Bakım ve Onarımı
+Madde 6 — Personelin görevde bulunduğu süre içerisinde, satışı yapılan tabanca üzerinde, tabancanın orijinalliğini bozacak nitelikte tadilat yapılmaz, iz veya işaret konulamaz.
+Personelin görevi sırasında, kusuru olmadan arızalanan tabancaların garanti kapsamı dışındaki tamiri, demirbaş silâhlara uygulanan şekilde yapılır. Bu tabancaların onarılamayacak kadar hasarlı duruma gelmesi halinde, ilgili Kuvvet Komutanlığı (Mülga ibare:RG-14/7/2020-31185) (…) tarafından envanter kaydı silinir. Bu şekilde zatî demirbaş tabancası envanter kayıtlarından silinen personele, ikinci kez zatî demirbaş tabanca satışı yapılmaz.

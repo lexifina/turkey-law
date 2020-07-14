@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.8610",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLÂHLI KUVVETLERİ PERSONELİNE GÖREVLERİNDE KULLANILMAK ÜZERE BEDELİ MUKABİLİ ZATÎ DEMİRBAŞ TABANCA SATIŞINA DAİR YÖNETMELİK",
+  "number": "8610",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2001/8610",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8610&MevzuatTertip=5",
+  "source_sha256": "67dd26759f0cf31212fed0ee069c3121c2882e2134d8d8bb638632243cd3cfaf",
+  "source_bytes": 33083,
+  "published": "2001-05-08",
+  "gazette": "24396",
+  "in_force": "2020-07-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-14",
+      "RG-14/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-14",
+      "14/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-10-27",
+      "RG-27/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1030,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.8610-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
