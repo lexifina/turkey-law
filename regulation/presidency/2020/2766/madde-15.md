@@ -1,0 +1,5 @@
+Muayene ve kabul işlemleri
+MADDE 15- (1) Bu Usul ve Esaslar kapsamındaki mal alımlarının muayene ve kabulü için harcama yetkilisi tarafından kişi ya da kişiler, muayene ve kabul işlemleri için görevlendirilebilir. Mal alımlarında muayene ve kabul için görevlendirilen kişi ya da kişiler, teslim alınacak malın kabule uygun olduğunu tespit ederse, bir tutanak tanzim edip imza altına alarak kabulünü gerçekleştirir.
+(2) Bu Usul ve Esaslar kapsamındaki hizmet alımlarında, muayene ve kabul işlemleri harcama yetkilisi tarafından en az üç kişiden oluşturulan muayene ve kabul komisyonu eliyle yürütülür. Bu komisyon, bahse konu işin kabule engel teşkil eden herhangi bir eksik ve kusur içermediğini tespit ederse, hizmet işleri kabul onay belgesini hazırlayarak imza altına alır ve harcama yetkilisinin onayına sunar.
+(3) Mal teslim, hizmet ifa edilmedikçe kabulü yapılamaz. Ancak taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmi kabul ve kısmi kabule istinaden de kabul edilen kısımlarla orantılı olarak kısmi ödeme yapılabilir.
+(4) Hizmet alımlarında kontrol teşkilatında görev alanlar muayene kabul komisyonunda görevlendirilemez.
