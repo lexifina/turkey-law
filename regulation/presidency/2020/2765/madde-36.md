@@ -1,0 +1,3 @@
+İhalenin iptali
+MADDE 36- (1) Şirket, herhangi bir aşamada, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. Bu husus ihale dokümanında açıkça belirtilir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Şirket bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez ve şirketten herhangi bir hak ve ödeme talebinde bulunulamaz. Ancak şirket isteklilerden herhangi birinin talepte bulunması halinde ihalenin iptal edilme gerekçelerini talepte bulunan isteklilere bildirir.
+(2) İhalenin iptal edilmesi durumunda iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.

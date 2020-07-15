@@ -1,0 +1,3 @@
+İhale işlem dosyası
+MADDE 16- (1) Şirket, ihalesi yapılacak her iş için bir işlem dosyası düzenler. Bu dosyada; onay belgesi ve eki yaklaşık maliyet hesap cetveli, ihale dokümanı, istekliler tarafından sunulan başvurular veya teklifler ile isteklilere yapılan bildirimlere ilişkin tebligat ve alındı belgeleri, itirazlar ve sonuçları, sözleşme sureti ve diğer belgeler ile ihale komisyonu tutanak ve kararları gibi ihale süreciyle ilgili bütün belgeler bulunur.
+(2) Gerekli incelemeyi yapmalarını sağlamak amacıyla, daveti izleyen 3 iş günü içinde, ihale komisyonu üyelerine tüm ihale dokümanının bir sureti, dosya halinde veya dijital ortamda verilir.

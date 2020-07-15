@@ -1,0 +1,4 @@
+Avans verilmesi
+MADDE 49- (1) Bu Usul ve Esaslar kapsamında yapılacak mal ve hizmet alımları ile yapım işlerinde, karşılığında teminat alınmak suretiyle avans verilebilir. Ancak kamu kurum ve kuruluşları ile müesseseleri, bağlı ortaklıkları ve iştiraklerinden, üniversite ve araştırma enstitülerinden, Türk Silahlı Kuvvetlerini güçlendirmek amacıyla özel kuruluş kanunları ile kurulan vakıflar veya bunların doğrudan veya dolaylı olarak birlikte ya da ayrı ayrı sermayesinin yarısından fazlasına sahip oldukları her çeşit kuruluş, müessese, birlik işletme veya şirketlerden bu Usul ve Esaslar kapsamında yapılacak mal ve hizmet alımları ile yapım işlerinde teminat şartı aranmaz.
+(2) Yapılacak alımlarda avans verilip verilmeyeceği, verilecekse oranı, avans teminatı miktarı ve süresi ile mahsup usulleri ihale dokümanında belirtilir.
+(3) Avanslar hiçbir suretle üçüncü kişilere temlik edilemez.

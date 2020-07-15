@@ -1,0 +1,2 @@
+İhale sonucunun Kamu İhale Kurumuna bildirilmesi
+MADDE 55- (1) Şirket ihtiyaçları için gerçekleştirilecek mal ve hizmet alımı ile yapım işleri ihale sonuçları, sözleşmenin taraflarca imzalanmasını müteakip, 4734 sayılı Kanunda belirtilen süre içerisinde Kamu İhale Kurumuna bildirilir. Bu Usul ve Esaslar kapsamında gerçekleştirilen ihalelere ilişkin sonuç bildirimleri Kamu İhale Bülteninde yayımlanmaz.

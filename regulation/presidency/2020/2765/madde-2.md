@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar; güvenlik ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Cumhurbaşkanı veya ilgili Bakanlık tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan yurt içinden ve yurt dışından yapılacak mal ve hizmet alımları ile yapım işlerini kapsar.

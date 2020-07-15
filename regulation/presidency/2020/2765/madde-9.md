@@ -1,0 +1,6 @@
+Pazarlık usulü
+MADDE 9- (1) Pazarlık usulü, şirketin bu Usul ve Esaslar kapsamındaki mal ve hizmet alımı ile yapım işlerine yönelik ihtiyaçlarını karşılamak amacıyla ilan yapılmaksızın ihale yetkilisince davet edilen isteklilerin teklif verebildiği usuldür. Davet edilecek istekliler ihale yetkilisince belirlenir ve davet edilecek istekli sayısı, teklif verebilecek yeterli sayıda isteklinin bulunamaması durumu hariç üçten az olamaz.
+(2) Pazarlık usulü ile yapılan ihalelerde, teklif alınması belli bir şekle bağlı değildir. İhaleler, ihale komisyonu tarafından işin nitelik ve gereğine göre, bir veya daha fazla istekliden teklif almak ve bedel üzerinden anlaşmak suretiyle yapılır.
+(3) Tekliflerin alınması ve değerlendirilmesini müteakip ihale sonuçlandırılır. Şirket ekonomik açıdan en avantajlı teklif sahibi istekli ile kamu menfaati gereği bir kez daha fiyat görüşmesi yapabilir. Nihai teklif bedeli ilk teklif bedelinden yüksek olamaz.
+(4) İsteklilere gönderilecek ihaleye davet yazısı, ihale sonuç bildirimleri ile sözleşmeye davet yazısı elden, posta, faks veya elektronik posta ile yapılabilir.
+(5) Davet edilen isteklilerin dışında herhangi bir gerçek veya tüzel kişi ihaleye katılamaz. Davet edilmeyenler, davet edilme ve doküman alma talebinde bulunamaz.

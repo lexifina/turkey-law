@@ -1,0 +1,2 @@
+Aynı fiyatın teklif edilmesi
+MADDE 33- (1) Birden fazla istekli tarafından aynı fiyatın teklif edilmesi ve bu tekliflerin uygun görülmesi halinde varsa fiyat dışı unsurlarda dikkate alınarak ekonomik açıdan en avantajlı teklif belirlenir. Fiyat dışı unsurlar belirlenmemişse iş deneyim belge tutarı yüksek olan istekli üzerine ihale sonuçlandırılır. İş deneyim belgesi istenmeyen durumlarda bu hususla ilgili ihale dokümanında gerekli düzenlemeler yapılır.
