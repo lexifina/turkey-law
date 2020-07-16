@@ -1,0 +1,2 @@
+Kesin teminatların geri verilmesi
+MADDE 37 – (1) Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı Başkanlığa herhangi bir borcunun olmadığı tespit edildikten sonra alınmış olan kesin teminat yükleniciye iade edilir. Bu tespit tarihinden itibaren iki yıl içinde Başkanlığın yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde ilgili emanet hesaplarına alınır.

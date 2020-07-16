@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34704",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAPADOKYA ALAN BAŞKANLIĞI SATIN ALMA VE İHALE USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "34704",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2020/34704",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34704&MevzuatTertip=5",
+  "source_sha256": "2410843c63b57726ba2b8a9622e68dbfd7cc7a4d9b42c50f6afe0f2fae4d3e1a",
+  "source_bytes": 113706,
+  "published": "2020-07-16",
+  "gazette": "31187",
+  "in_force": "2020-07-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.07.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6969,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

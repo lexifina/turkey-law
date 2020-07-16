@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Sözleşmenin Uygulanması
+İş miktarının artma veya eksilmesi
+MADDE 33 – (1) Sözleşmenin uygulanması sırasında taahhüt edilen işte; projede, malzemede, detayda, imalat veya imalat miktarlarında öngörülemeyen durumlar nedeniyle zorunlu olarak revizyon yapılması halinde bu değişikliklerle ilgili işin bedelinde artma veya eksilme meydana geldiği takdirde, artışa konu olan işin, sözleşmeye esas proje içinde kalması ve idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması halinde yüklenici sözleşme bedelinin yüzde ellisi içinde kalan fazlasını veya eksiğini aynı sözleşme hükümleri çerçevesinde yapmaya mecburdur. Değiştirilen veya ilave edilen iş oranında ek teminat almak kaydıyla arttırılacak işe gerekli süre verilir. Yüklenici bu suretle işin artmış veya eksilmiş olmasından dolayı süre hariç hiç bir istek ve iddiada bulunamaz.
+(2) İşin bu şartlar dahilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir. Ancak bu durumda, işin tamamının ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur.

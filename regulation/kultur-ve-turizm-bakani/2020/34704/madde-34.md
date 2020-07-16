@@ -1,0 +1,2 @@
+Fiyat farkı
+MADDE 34 – (1) Başkanlık tarafından yapılacak ihalelerde fiyat farkı hesaplamaları 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 8 inci maddesine istinaden Kamu İhale Kurumunun teklifi ve Cumhurbaşkanlığı Kararnamesi ile çıkartılan usul ve esaslar çerçevesinde yapılır. Fiyat farkı hesaplamaları ile ilgili hükümlerin şartnamelerde ve sözleşmede belirtilmesi zorunludur.

@@ -1,0 +1,2 @@
+Sözleşmeye davet
+MADDE 28 – (1) Kesinleşen ihale kararının tebliğ tarihini izleyen günden itibaren beş gün içinde, üzerine ihale kalan istekliye, tebliğ tarihini izleyen beş gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu imza karşılığı tebliğ edilir veya iadeli taahhütlü mektup ile tebligat adresine postalanmak suretiyle bildirilir. Mektubun postaya verilmesini takip eden yedinci gün kararın istekliye tebliğ tarihi sayılır.
