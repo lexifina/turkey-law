@@ -1,0 +1,24 @@
+{
+  "number": "224",
+  "number_as_published": "224",
+  "year": 2020,
+  "title": "Nazım İmar Planı Değ. (KARAKÖPRÜ-SEYRANTEPE)",
+  "decision_date": "2020-07-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/10004/106/nazim-imar-plani-deg-karakopru-seyrantepe",
+  "official_document": null,
+  "source_sha256": "2ce95a8e32d94cdee6cd747db19b7ffcd4f05e8a9915132c9ec23fb3ed812be6",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2020-07-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.07.2020 tarih ve 224 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2020-08-13",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
