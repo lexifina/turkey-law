@@ -1,0 +1,2 @@
+Yüklenicilerin sorumluluğu
+MADDE 51 – (1) Yükleniciler taahhütleri çerçevesinde kusurlu veya standartlara uygun olmayan malzeme verilmesi veya kullanılması, taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirilmemesi ve benzeri nedenlerle ortaya çıkan gizli ayıp, zarar ve ziyandan doğrudan sorumludurlar. Bu zarar ve ziyan genel hükümlere göre tedarikçiye veya istekliye ikmal ve tazmin ettirilir. Ayrıca haklarında 4735 sayılı Kanunun 27 nci maddesi hükümleri uygulanır.

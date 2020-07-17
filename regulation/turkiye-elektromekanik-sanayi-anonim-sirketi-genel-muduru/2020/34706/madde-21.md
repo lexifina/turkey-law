@@ -1,0 +1,4 @@
+Belli istekliler arasında ihale usulü
+MADDE 21 – (1) Belli istekliler arasında ihale usulü, ihtiyaç konusu mal veya hizmet alımlarında işin özelliğinin uzmanlık, ileri teknoloji, özel durumlar gerektirmesi nedeniyle açık ihale usulünün uygulanamadığı durumlarda, idarece tedarikçi listesinden ihale konusu işle ilgili olan en az üç mal ve/veya hizmet tedarikçisinin ilan yapılmaksızın davet edilerek ihalenin gerçekleştirildiği usulü ifade eder.
+(2) İşin niteliğine göre rekabeti engellemeyecek şekilde ihale dokümanı ile davet mektubunda belirtilen değerlendirme kriterlerine ve kaynakların verimli kullanılması esasına göre tekliflerin değerlendirmesi yapılarak ihale sonuçlandırılır.
+(3) İhaleye üçten az mal ve/veya hizmet tedarikçisinin teklif vermesi durumunda teklif verenler arasında bu maddenin ikinci fıkrasında belirtilen şekilde değerlendirme yapılarak ihale sonuçlandırılabilir.

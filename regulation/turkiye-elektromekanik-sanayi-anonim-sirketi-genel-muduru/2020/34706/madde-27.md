@@ -1,0 +1,4 @@
+İhale dokümanının verilmesi
+MADDE 27 – (1) İhale dokümanı idarede bedelsiz görülebilir. Ancak ihaleye katılmak isteyen istekliler ile mal veya hizmet alımı tedarikçilerinin bu dokümanı satın almaları zorunludur. Doküman bedeli, basım maliyetini aşmayacak ve rekabeti engellemeyecek şekilde idare tarafından tespit edilir. İhale dokümanları Satın Alma Müdürlüğü tarafından verilir.
+(2) İhale dokümanları, kamu kurum ve kuruluşları ile özel hâllerde katılımı artırmak için amil-i mütehassıs firmalara ve idareden kaynaklanan ihale tekrarlarında bir önceki ihaleye iştirak eden ve bir sonraki ihale için de şartname talep eden isteklilere bedelsiz olarak verilebilir.
+(3) İdarece gerek görülmesi durumunda ihale dokümanları istekliler ile mal veya hizmet alımı tedarikçilerine bedelli olarak CD ortamında verilebilir.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye Elektromekanik Sanayi Anonim Şirketi Genel Müdürlüğünün merkez ve taşra teşkilatının 4734 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (g) bendi ile istisnaya tabi tutulan Ana Statüsünde belirtilen ticari ve sınai faaliyetleri çerçevesinde, doğrudan mal ve hizmet üretimine veya ana faaliyetlerine yönelik ihtiyaçlarının temini için yapacağı mal ve hizmet alımlarını kapsar.
+(2) Bu Yönetmelik kapsamında gerçekleştirilen ihale ve alımlarda ceza ve yasaklara ilişkin hükümler hariç olmak üzere, aksi bu Yönetmelikte belirtilmedikçe 4734 sayılı Kanun ile 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanunu hükümleri uygulanmaz.

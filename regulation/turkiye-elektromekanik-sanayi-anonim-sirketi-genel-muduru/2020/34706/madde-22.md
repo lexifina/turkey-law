@@ -1,0 +1,13 @@
+Pazarlık usulü
+MADDE 22 – (1) Pazarlık usulü ile ihale yapılabilmesi için;
+a) Açık ihale usulü veya belli istekliler arasında ihale usulü ile yapılan ihale sonucunda ihalenin bağlanamaması,
+b) Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi anî ve beklenilmeyen olayların, savunma ve güvenlikle ilgili özel durumların veya idare tarafından önceden öngörülmeyen ihtiyaçların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması,
+c) İhalenin, araştırma ve geliştirme sürecine ihtiyaç gösteren ve seri üretime konu olmayan nitelikte olması,
+ç) İhale konusu mal veya hizmet alımlarının özgün nitelikte ve karmaşık olması nedeniyle teknik ve mali özelliklerinin gerekli olan netlikte belirlenememesi,
+d) Mal veya hizmetin özelliği veya önemi itibarıyla satın almanın belirli istekli veya tedarikçilerden yapılmasında fayda görülmesi,
+e) 4734 sayılı Kanunun 21 inci maddesinin birinci fıkrasının (f) bendinde belirtilen parasal tutara kadar olan mal ve hizmet alımı,
+f) Kamu ve özel sektör kuruluşlarından alınan süreli taahhüt işlerinin ifası için yapılacak alımlar,
+g) İhtiyaç konusu mal veya hizmetin temininin ivedilik arz etmesi, açık ihale usulünün uygulanması halinde işin ifasında gecikme yaşanacağı kanaatinin oluşması,
+hallerinden en az birinin bulunması zorunludur.
+(2) İşin özelliğinin gerektirmesi nedeniyle pazarlık usulüyle yapılacak ihalelerde isteklilerin ekonomik ve malî yeterlikleri ile mesleki ve teknik yeterliklerinin belirlenmesinin öngörüldüğü durumlarda, bankalardan temin edilecek belgeler, isteklinin iş hacmini gösteren belgeler ve iş deneyim belgeleri üzerinden öngörülecek kriterler, idarece işin niteliğine uygun ve yaklaşık maliyetle uyumlu biçimde, parasal tutar olarak belirlenir ve yeterlik kriterleri olarak istenir.
+(3) Davet edilecek istekli sayısında alt ve üst limit olmaksızın pazarlık yönteminde tedarikçi listesi içinden veya dışından istekli veya mal veya hizmet alımı tedarikçileri ilan yapılmaksızın davet edilebilir. Pazarlık yöntemiyle ihaleye davet edilen istekliler ile mal veya hizmet alımı tedarikçilerinden ihale yetkilisinin onayı alınarak geçici teminat mektubu istenmeyebilir. Bu yöntemde teklif yazılı mektup şeklinde verilir. Pazarlık oturumu ihaleye iştirak eden bütün istekliler ile mal veya hizmet alımı tedarikçilerinin huzurunda yapılır. İhale komisyonunca, istenilen belgelerin tamam olup olmadığının kontrolü yapılır. Pazarlık yönteminde ihaleye davet edilen istekliler ile mal veya hizmet alımı tedarikçilerinin ihaleye iştirak ettiğini belgeleyen pazarlık ihalesine katılım tutanağı ile teknik ve ticari görüşmeler pazarlık tutanağında kayıt altına alınır. Fiyat açısından beklenen fayda oluşana kadar birden fazla pazarlık oturumu gerçekleştirilebilir.

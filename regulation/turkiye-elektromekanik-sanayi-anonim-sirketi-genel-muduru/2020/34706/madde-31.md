@@ -1,0 +1,2 @@
+Geçici teminat
+MADDE 31 – (1) İhalelerde, teklif edilen bedelin % 3’ünden az olmamak üzere, istekli veya mal veya hizmet alımı tedarikçileri tarafından verilecek tutarda geçici teminat alınır. İhale konusu mal veya hizmetin sadece yurt dışından temin edilebileceği durumlarda ihaleye iştirak edecek veya ihaleye davet edilecek istekli ile mal veya hizmet alımı tedarikçilerinden geçici teminat istenmeyebilir.

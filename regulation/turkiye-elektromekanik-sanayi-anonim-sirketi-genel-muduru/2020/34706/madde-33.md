@@ -1,0 +1,3 @@
+Banka teminat mektupları
+MADDE 33 – (1) Tekliflerin geçerlilik süresinden en az otuz gün fazla süreli olmak kaydıyla, geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması halinde, geçici teminat mektuplarının süresi de aynı süre ile uzatılır.
+(2) Kesin teminat mektupları süreli olup, kesin teminat mektubunun süresi işin kesin kabulünün en az otuz gün sonrasını kapsayacak şekilde, eğer işin garanti süresi varsa garanti süresi bitiminin en az otuz gün sonrasını kapsayacak şekilde idare tarafından belirlenir. İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul edilmez. Banka teminat mektupları işi bittikten sonra ilgili bankaya, istekliye veya yetkilendirilmiş vekiline iade edilir.

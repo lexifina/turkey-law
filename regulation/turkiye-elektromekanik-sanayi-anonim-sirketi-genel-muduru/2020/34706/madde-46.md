@@ -1,0 +1,6 @@
+İş artışı ve eksilişi
+MADDE 46 – (1) Mal ve hizmet alımlarında öngörülmeyen durumlar nedeniyle bir iş artışının veya eksilişinin zorunlu olması halinde, sözleşmeden önce yaklaşık maliyetin veya sözleşmeden sonra sözleşme bedelinin % 30’una kadar, ihale yetkilisinin onayı ile ihale kapsamında iş artışına veya iş eksilişine gidilebilir.
+(2) Sözleşme bedelinin % 70'inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yüklenici işi bitirmek zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 70'i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5'i geçici kabul tarihindeki fiyatlar üzerinden ödenir.
+(3) Birden fazla malzeme veya hizmet kaleminden oluşan sözleşmelerde bu oranın kalem veya sözleşme bedeli bazında kullanılması idarenin takdirindedir.
+(4) Onarım, tadilat, modernizasyon, revizyon, bakım ve benzeri hizmet alımı sözleşmelerinde teknik şartnamesinde belirtilmesi ve yüklenici tarafından tekliflerinde fiyatlandırılmış olması şartıyla gerçekleştirilen opsiyonel işler, işin gereği olduğu için iş artışı olarak değerlendirilmez.
+(5) İş artışı halinde 4734 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (g) bendinde belirlenen ve her takvim yılı için tebliğ ile güncellenen parasal sınır aşılamaz.

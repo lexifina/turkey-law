@@ -1,0 +1,9 @@
+Temel ilkeler
+MADDE 6 – (1) İdare yapacağı ihalelerde aşağıdaki temel ilkelere göre hareket eder:
+a) Saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların verimli kullanılmasını sağlar.
+b) Ödeneği bulunmayan hiçbir iş için ihaleye çıkılamaz. Ancak ertesi mali yılda gerçekleşebilecek veya süreklilik arz eden ve ödeneği her yıl rutin olarak programlanan mal ve hizmet alımları için bir önceki mali yıl sona ermeden ihaleye çıkılabilir. Ancak, ihale tarihi itibariyle İdarenin mali durumu sebebiyle malın tek ihale ile tamamının satın alınamayacağı fakat İdarenin bir zarar veya gecikme cezasına uğramaması için malın bir kısmının acil olarak alınması gerektiği hallerde mal kısımlar halinde alınabilir.
+c) Satın alma, karlılık ve verimlilik esaslarına göre yapılır. Satın alma işleminde karlılık, fiyatta en ucuzun değil, fiyat yönünden en avantajlı teklifin veya uygun bedelin tespiti suretiyle sağlanır.
+ç) İhtiyaçların, mümkün olduğunca, ilk kaynağından temin edilmesi esastır.
+d) Satınalma süreçlerinde hata, eksiklik, yanlışlık ve usulsüzlük gibi riskleri ortadan kaldırmak amacıyla birimler arasındaki görevler ayrılığı ilkesine uyulur. Talebin belirlenmesi, mal veya hizmet kabulü ve ödeme, denetim, muayene ve kabul süreçlerinin talep birimleri tarafından; mal veya hizmet alımı tedarikçisi seçimi ve sipariş yönetiminin ise satınalma birimi tarafından yürütülmesi esastır.
+e) Bu Yönetmeliğe göre yapılacak ihalelerde açık ihale usulü ve belli istekliler arasında ihale usulü temel usullerdir. Pazarlık usulü özel hallerde kullanılabilir.
+f) 4734 sayılı Kanunun geçici 4 üncü maddesinin birinci fıkrası gereğince Kamu İhale Kurumu tarafından belirlenen mal ve hizmet alımları bu Yönetmeliğe göre gerçekleştirilecektir.
