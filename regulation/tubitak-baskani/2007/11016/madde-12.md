@@ -1,0 +1,2 @@
+Değişiklik bildirimi
+MADDE 12 – (1) Değişiklik talepleri, ilgili programın uygulama esaslarında belirlenen başvuru kural ve usullerine uygun olarak yapılır. Programlar kapsamında desteklenen projelerle ile ilgili kapsam, süre, bütçe ve idari konularda gerekçeli olarak sunulan değişiklik talepleri, TÜBİTAK tarafından değerlendirilip onaylandıktan sonra yürürlüğe girer. Değişiklik bildirimlerine ilişkin değerlendirme süreçleri ilgili programın uygulama esaslarında belirtilir.

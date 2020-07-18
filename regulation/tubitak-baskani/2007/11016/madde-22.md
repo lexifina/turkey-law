@@ -1,0 +1,3 @@
+Gizlilik
+MADDE 22 – (1) Destek programlarına yapılan başvuruların değerlendirme ve izleme süreçlerinde görev alan kişilere sunulan bilgi ve belgeler, kuruluşa ait "ticari gizli bilgi" veya "hizmete özel bilgi" olarak kabul edilir ve üçüncü kişilere herhangi bir yolla aktarılmaz. Bu bilgi ve belgeler 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanununun kapsamı dışındadır.
+(2) 3568 sayılı Kanun, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu ve diğer mevzuat hükümleri de saklı kalmak kaydıyla, gizlilik hükümlerine aykırı davranan kişi ve kuruluşlar TÜBİTAK desteklerinden yararlanamazlar ve destek kapsamına alınan projelerde hiçbir şekilde görev alamazlar.

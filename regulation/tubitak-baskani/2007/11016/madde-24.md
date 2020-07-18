@@ -1,0 +1,3 @@
+Fikri ve sınaî mülkiyet hakları
+MADDE 24 – (Değişik:RG-2/2/2013-28547)
+(1) Bu Yönetmelik kapsamında yürütülen destek programları çerçevesinde desteklenen projelerin yürütülmesi aşamasında veya gerçekleştirilmesi sonucunda fikri ve sınaî mülkiyete konu olabilecek bir buluş (patent, faydalı model), endüstriyel tasarım, eser, entegre devre topografyaları ve teknik bilgi gibi bir fikri ürün ortaya çıkması halinde 278 sayılı Kanunun ilgili hükümleri uygulanır. Desteklenmesine karar verilen projelerle ilgili olarak ortaya çıkması muhtemel fikri ve sınaî tüm haklar, aksi proje sözleşmesinde belirtilmedikçe kuruluşun tasarrufuna devredilir.
