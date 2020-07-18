@@ -1,0 +1,13 @@
+Yapılabilecek faaliyetler ve yasaklar
+MADDE 12 – (1) Gayrimenkul değerleme kuruluşları; gayrimenkul değerleme faaliyetinin yanı sıra, gayrimenkullerle ilgili piyasa araştırması, fizibilite çalışması, gayrimenkul ve buna bağlı hakların hukuki durumunun analizi, boş arazi ve geliştirilmiş proje değeri analizi, en verimli ve en iyi kullanım değeri analizi gibi alanlarda danışmanlık hizmeti verebilirler. Mesleki uzmanlıklarının dışında yer alan ve özel ihtisas ve tecrübe gerektiren gayrimenkul dışı varlıkların değerleme faaliyetlerini üstlenemezler. Kurulun, gayrimenkul dışındaki varlıkların sermaye piyasası mevzuatı kapsamındaki değerlemelerine ilişkin düzenlemelerinde yer alan hükümler saklıdır.
+(2) Bir gayrimenkulün 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 684 üncü maddesi uyarınca bütünleyici parçası ile 686 ncı maddesi uyarınca eklentisi olan unsurları da münferit olarak değerleyebilirler.
+(3) Gayrimenkul değerleme kuruluşları, birinci ve ikinci fıkralarda belirtilen faaliyetler dışında emlak komisyonculuğu dahil başka bir faaliyette bulunamazlar. Bilgi ve yeteneklerinin yeterli olmadığı işleri kabul edemezler.
+(4) Gayrimenkul değerleme uzmanları ile konut değerleme uzmanları ise;
+a) Aynı anda birden fazla gayrimenkul değerleme kuruluşunda istihdam edilemezler, ortak olamazlar, başka sermaye piyasası kurumlarında ortak veya yönetici olamazlar,
+b) Meslekleri ile ve meslek onurlarıyla bağdaşmayan davranışlarda bulunamazlar,
+c) Mesleki uzmanlıklarının dışında yer alan ve özel ihtisas ve tecrübe gerektiren varlıkların değerleme faaliyetlerini üstlenemezler,
+ç) Değerleme hizmeti verdikleri, müşterisi konumunda olan ortaklıklarda ve iştiraklerinde her ne unvanla olursa olsun aradan 2 yıl geçmedikçe görev alamazlar,
+d) Mesleki özen ve titizlik kuralları kapsamında gerekli zamanı ayıramayacakları değerleme hizmetlerini kabul edemezler.
+(5) Gayrimenkul değerleme kuruluşları tarafından değerleme kadrosunda gayrimenkul değerlemesi yapmak üzere tam zamanlı olarak istihdam edilen gayrimenkul değerleme uzmanları, birinci ve ikinci fıkralarda belirtilen faaliyetler dışında emlak komisyonculuğu dahil başka bir faaliyette bulunamazlar.
+(6) Gayrimenkul değerleme kuruluşları ile sözleşme imzalamak suretiyle kuruluşlara dışarıdan değerleme hizmeti sağlayan gayrimenkul değerleme uzmanları ile konut değerleme uzmanlarına beşinci fıkra hükümleri uygulanmaz. Ancak bu kişiler hiçbir koşulda emlak komisyonculuğu faaliyetinde bulunamazlar.
+(7) Gayrimenkul değerleme kuruluşları ve gayrimenkul değerleme uzmanları, Kanunun 76 ncı maddesinin onuncu fıkrası uyarınca, Birlik Statüsüne ve Birlik tarafından alınacak kararlara uymakla yükümlüdürler.

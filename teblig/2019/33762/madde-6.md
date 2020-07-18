@@ -1,0 +1,3 @@
+Kurul incelemesi ve yetkilendirmenin kapsamı
+MADDE 6 – (1) Gayrimenkul değerleme kuruluşlarının yetkilendirilmesi konusundaki başvurular; Kurulca, Tebliğde aranan şartların yerine getirilip getirilmediği hususları gözönüne alınarak incelenir. İnceleme sonucunda uygun görülen kuruluşlar Sermaye Piyasasında Gayrimenkul Değerlemesi Yapmaya Yetkili Kuruluşlar Listesine alınır ve Kurulca kamuya duyurulur.
+(2) Kuruluşun yetkilendirilmesi, söz konusu kuruluşun ve işlemlerinin Kurulca tekeffülü anlamına gelmez. Kuruluşun sermaye piyasası mevzuatı kapsamı dışında yapmış olduğu değerleme faaliyetleri Kurul nezdinde herhangi bir sorumluluk doğurmaz.

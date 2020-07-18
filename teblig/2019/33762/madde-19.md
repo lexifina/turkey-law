@@ -1,0 +1,3 @@
+Sır saklama yükümlülüğü
+MADDE 19 – (1) Gayrimenkul değerleme uzmanları, kuruluşun yöneticileri ile kuruluşa dışarıdan değerleme hizmeti veren kişiler; müşterileri ve değerlemesini yaptıkları işlerle ilgili bilgileri açıklayamazlar; kendilerine veya üçüncü kişilere doğrudan veya dolaylı menfaat sağlama veya başkalarını zarara uğratma amacıyla kullanamazlar. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.
+(2) Ancak; müşterilerinin açık onayı veya talebinin olması, mevzuat uyarınca yetkili kamu kuruluşlarınca veya Birlik tarafından talep edilmesi hallerinde söz konusu bilgiler ilgililere verilebilir.
