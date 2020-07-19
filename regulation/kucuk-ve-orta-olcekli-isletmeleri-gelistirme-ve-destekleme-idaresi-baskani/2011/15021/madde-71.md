@@ -1,0 +1,6 @@
+Teftiş defteri ve dosyası
+MADDE 71 – (1) Başkanlığın merkez ve taşra birimlerinde teftiş dosyaları ve defteri bulunur.
+(2) Müfettişlere ait rapor veya rapor yerine gönderilmiş özet ve her türlü yazışmalar ayrı bir dosyada tarih sırasına göre saklanır.
+(3) Müfettişler, teftiş ettikleri birimleri, teftişin başlangıç ve bitiş tarihlerini teftiş defterlerine yazarlar. Bu deftere ayrıca rapor gereği idarece verilen talimatların tarih ve sayıları ile yerine getirilen hususlar, teftiş edilen birimin amiri tarafından yazılır ve altları imzalanır.
+(4) Müfettişler, teftiş sırasında teftiş defteri ve dosyasını inceleyerek önceden tenkit edilen hususların ne dereceye kadar düzeltildiğine ve verilen talimatların yerine getirilip getirilmediğine bakarak raporlarında bu hususlara da yer verirler. Teftiş dışında görevli gittikleri zamanlarda da teftiş defteri ile dosyalarını inceleyebilirler.
+(5) Teftiş defteri ve dosyasının tutulmasından, korunmasından, devir ve teslim işleminden denetlenen birimin amiri ve müdürü sorumludur. Birim amirleri ve müdürler teftiş defteri ve dosyasını teftiş raporları ile birlikte saklamak ve görev değişikliğinde birbirlerine devretmek mecburiyetindedirler. Devir işlemleri tutanağa bağlanır.

@@ -1,0 +1,7 @@
+Yazılı sınavların yapılış şekli
+MADDE 31 – (1) Yazılı sınavlar, duyurulmuş olan yer ve saatte başlar, geç gelenler sınava alınmazlar. Her aday, sınav giriş belgesi kontrol edilmek suretiyle salona alınır. Sınava giren adaylar, yanlarında sınav giriş belgesi ile birlikte resmi makamlarca verilmiş geçerli bir kimlik belgesi bulundurmak zorunda olup, istendiğinde bunları sınav görevlilerine ibraz etmekle yükümlüdürler.
+(2) Soru zarflarının kapalı ve mühürlü olduğu adaylara gösterilir.
+(3) Kopya girişiminde bulunanlar bir tutanakla tespit edilerek sınavdan çıkarılır ve bir daha giriş sınavına alınmazlar.
+(4) Sınav, önceden tespit edilen saatte bitirilir.
+(5) Sınav kağıdının adı-soyadı ve aday numarasını içeren bölümünün aday tarafından kapatılması zorunludur. Sınavın sonunda toplanan cevap kâğıtları bir zarfa konur, üzerine hangi sınava ait olduğu, sınav grubu, sınav tarihi ve yeri, içine konan kâğıt sayısı yazılarak kapatılır. Zarfın üstü, mühürlenerek imzalanır.
+(6) Sınav gözlemcileri ve görevlileri ile sınavı en son terk eden adayın da katılımıyla bir sınav durum tespit tutanağı düzenlenir ve imzalanır. Bu tutanak; sınavın tarihi ve yeri, sınava başlama ve bitiş saatleri, sınava giren ve girmeyen adaylar, sınav sırasında bir olay olup olmadığı, olmuşsa olayın mahiyeti ile ilgili bilgileri içerir ve sınav kâğıtlarının bulunduğu zarfla birlikte giriş sınavı komisyonu başkanına teslim edilir.

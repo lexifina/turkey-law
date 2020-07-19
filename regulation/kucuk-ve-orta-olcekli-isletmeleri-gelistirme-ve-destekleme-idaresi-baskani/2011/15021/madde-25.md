@@ -1,0 +1,3 @@
+Giriş sınavının ilanı
+MADDE 25 ‒ (1) (Değişik:RG-19/7/2020-31190) Sınava giriş şartları, başvuru yeri, başvuru tarihleri, sınavın yapılacağı yer ve tarih, sınav konuları, başvuruda istenilecek belgeler, pozisyon sayısı ile gerekli görülen diğer hususlar sınav gününden en az otuz gün önce 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur.
+(2) Adayların başvuru ve kayıt süresi, yazılı sınav tarihinden en az on gün önce bitecek şekilde tespit edilir.

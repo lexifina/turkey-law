@@ -1,0 +1,2 @@
+Yabancı dil eğitimi
+MADDE 57 ‒ (1) Müfettişlerin, meslekleriyle ilgili inceleme ve araştırma yapmak veya kurs ve öğrenim görmek üzere yurtdışına gönderilme, uluslararası toplantılara katılma, küçük ve orta ölçekli işletmelere ilişkin yabancı yayınları izleme ve inceleme olanağına kavuşabilmelerini sağlamak amacıyla, yabancı dil öğrenimi için dil kurslarından yararlanmaları halinde, eğitim masrafları genel hükümlere göre Başkanlık tarafından karşılanır. Yabancı dil kurslarına katılacak olanlar Kurul Başkanlığının teklifi ve Başkanın onayı ile belirlenir.

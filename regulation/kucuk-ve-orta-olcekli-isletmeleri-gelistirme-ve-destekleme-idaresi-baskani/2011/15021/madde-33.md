@@ -1,0 +1,5 @@
+Yazılı sınavda başarının saptanması
+MADDE 33 ‒ (1) 31 ve 32 nci maddelerde belirtilen işlemler tamamlandıktan sonra giriş sınavı komisyonu başarılı olanları tespit eder.
+(2) Yazılı sınavda her sınav grubunun tam puanı 100'dür. Sınavın kazanılması için sınav yapılan her gruptan, en az 50 puan alınması ve grupların not ortalamasının 70 puandan aşağı olmaması şarttır. Ancak ortalama puanın hesaplanmasında yabancı dil değerlendirmeye alınmaz. Ortalamada 70 ve yukarı puan alan adaylar en yüksek puan alan adaydan başlamak üzere sıralamaya tabi tutulur. İlan edilen boş pozisyonun dört katı aday yazılı sınavı kazanmış sayılarak sözlü sınava çağrılır. Sonuncu aday ile aynı puanı alan adaylar da kontenjan gözetilmeksizin sözlü sınava çağrılır.
+(3) Giriş sınavı komisyonunca yapılan değerlendirme sonucunda yazılı sınavda başarılı olan adaylar için bir tutanak düzenlenerek, giriş sınavı komisyonunca imzalanır.
+(4) Yazılı sınavı kazanan adayların durumları, sözlü sınavdan önce Kurul Başkanlığınca gerekli görülmesi halinde araştırılır. Gerekirse, Kurul Başkanlığınca adaylarla ön görüşme yapılabilir veya yaptırılabilir.

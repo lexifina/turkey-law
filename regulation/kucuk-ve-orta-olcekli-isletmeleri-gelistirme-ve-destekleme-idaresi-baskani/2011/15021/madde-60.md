@@ -1,0 +1,2 @@
+İnceleme
+MADDE 60 ‒ (1) Başkan veya Kurul Başkanı tarafından istenilen konular, ilgili mevzuatın uygulanmasında görülen noksanlık ve aksaklıklar ile Başkanlık personeli ile denetime tabi birim yönetici ve diğer görevlilerin eylem ve işlemlerinin ortaya çıkardığı hukuki ve idari durumların tespiti, herhangi bir olayın açıklığa kavuşturulması ya da kişiler ve kurumlar yönünden genel hükümlere veya 3628 sayılı Mal Bildiriminde Bulunulması Rüşvet ve Yolsuzluklarla Mücadele Kanununa göre soruşturma yapılmasının gerekip gerekmediğinin belirlenmesidir.

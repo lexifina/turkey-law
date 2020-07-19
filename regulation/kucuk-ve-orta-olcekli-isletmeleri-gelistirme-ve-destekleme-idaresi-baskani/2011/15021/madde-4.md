@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4 ‒ (1) Bu Yönetmelikte geçen;
+a) Başkan: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanını,
+b) Başkanlık: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığını (KOSGEB),
+c) Büro: KOSGEB Rehberlik ve Denetim Kurulu Başkanlığı Bürosunu,
+ç) Çalışma merkezi: Devamlı denetim ve teftişi sağlamak amacıyla kurulan merkezi,
+d) (Değişik:RG-19/7/2020-31190) Destek modeli: 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 234 üncü maddesi kapsamında verilen KOSGEB desteklerini,
+e) Giriş sınavı: Yazılı ve sözlü sınavdan oluşan müfettiş yardımcılığı giriş sınavını,
+f) Görev standartları: Görevlerin amacına uygun şekilde, verimli, etkin ve uygulama birliği içinde, etik ilkeler gözetilerek gerçekleştirilmesini temin etmek, görev sonuçlarının adil ve güvenilir olmasını sağlamak, görevlerin kalite kontrol, görevlilerin ise performans bakımından değerlendirilmesine zemin hazırlamak maksadıyla müfettişlerce uyulması gereken genel ilke ve kuralları tespit amacıyla Kurul Başkanlığının teklifi ve Başkanın onayı ile uygulamaya konulan KOSGEB Rehberlik ve Denetim Kurulu Görev Standartlarını,
+g) (Değişik:RG-19/7/2020-31190) İşletmeler: 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkındaki Cumhurbaşkanlığı Kararnamesinin 407 nci maddesine göre belirlenen küçük ve orta büyüklükteki işletmeleri (KOBİ),
+ğ) Kamu Personel Seçme Sınavı: 3/5/2002 tarihli ve 24744 sayılı Resmî Gazete’de yayımlanan, Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelikte (A) grubu olarak adlandırılan kadrolara atanacaklar için kurumların kendi mevzuatlarına göre düzenleyecekleri giriş sınavına kabul edilecekleri belirlemek amacıyla kullanılacak olan puanları sağlayan merkezi sınavı (KPSS),
+h) Kurul: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Rehberlik ve Denetim Kurulunu,
+ı) Kurul Başkanı: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Rehberlik ve Denetim Kurulu Başkanını,
+i) Kurul Başkanlığı: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Rehberlik ve Denetim Kurulu Başkanlığını,
+j) Müdür: KOSGEB Rehberlik ve Denetim Kurulu Başkanlığı büro müdürünü,
+k) Müfettiş: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Rehberlik ve Denetim Kurulu Başkanını, başmüfettişlerini ve müfettişlerini,
+l) Müfettiş yardımcısı: Bağımsız olarak denetim ve soruşturma yapmaya yetkili olan veya olmayan müfettiş yardımcılarını,
+m) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+n) Refakat müfettişi: Kurul Başkanına yardımcı olmak üzere görevlendirilen müfettişleri,
+o) Yeterlik sınavı: Müfettiş yardımcılarına üç yılın sonunda yapılan yazılı ve sözlü sınavı,
+ifade eder.

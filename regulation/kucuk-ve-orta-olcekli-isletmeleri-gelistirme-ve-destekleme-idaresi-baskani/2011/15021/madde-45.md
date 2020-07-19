@@ -1,0 +1,2 @@
+Yeterlik sınavından önce kuruldan çıkarılma
+MADDE 45 ‒ (1) Müfettiş yardımcılarından, başarı değerlendirmesi ve yetişme notlarına göre müfettişliğe atanamayacağı anlaşılanlar ile müfettişlik karakter ve vasıflarıyla bağdaşmayacak tutum ve davranışları hukuki delilleri ile saptananlar, yeterlik sınavı beklenmeksizin Kurul dışında Başkanlık içerisinde öğrenim durumuna ve hizmet süresine uygun pozisyona atanırlar.

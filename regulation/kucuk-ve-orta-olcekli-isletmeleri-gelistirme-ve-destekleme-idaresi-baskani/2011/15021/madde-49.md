@@ -1,0 +1,5 @@
+Yeterlik sınavı notlarının değerlendirilmesi ve itiraz
+MADDE 49 ‒ (1) Yeterlik sınavı notu, yetişme, yazılı ve sözlü sınav notlarının ortalamasından oluşur.
+(2) Yazılı sınav kâğıtları, yeterlik sınavı komisyonu üyeleri tarafından değerlendirilir. Yazılı sınavda başarılı sayılabilmek için 48 inci maddede belirtilen konulardan alınan notların ortalamasının en az 70 olması gerekir.
+(3) Yazılı sınavda başarılı olan müfettiş yardımcıları sözlü sınava tabi tutulurlar. Sözlü sınavda müfettiş yardımcılarına yeterlik sınavı komisyonu üyelerinin her biri 100 tam puan üzerinden not verir. Verilen notların ortalaması sözlü sınav notunu teşkil eder. Sözlü sınavda başarılı sayılabilmek için bu notun en az 70 olması şarttır.
+(4) Yazılı ve sözlü sınav sonuçlarına itirazlar, yazılı ve sözlü sınav sonuçlarının açıklanmasından itibaren yedi iş günü içinde bir dilekçe ile Kurul Başkanlığına yapılır. Bu itirazlar, yeterlik sınavı komisyonu tarafından en geç on iş günü içinde incelenir ve sonuç ilgiliye yazılı olarak bildirilir.

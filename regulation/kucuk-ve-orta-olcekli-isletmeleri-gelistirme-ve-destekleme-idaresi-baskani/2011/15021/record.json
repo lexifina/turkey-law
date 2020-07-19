@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.15021",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KOSGEB REHBERLİK VE DENETİM KURULU YÖNETMELİĞİ",
+  "number": "15021",
+  "issuer": "Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanı",
+  "issuer_slug": "kucuk-ve-orta-olcekli-isletmeleri-gelistirme-ve-destekleme-idaresi-baskani",
+  "path": "regulation/kucuk-ve-orta-olcekli-isletmeleri-gelistirme-ve-destekleme-idaresi-baskani/2011/15021",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15021&MevzuatTertip=5",
+  "source_sha256": "fed74e1b58c7760769a7f61c9a0b9b4cbbfafaccb2d135104a1db147647050dd",
+  "source_bytes": 173339,
+  "published": "2011-06-05",
+  "gazette": "27955",
+  "in_force": "2020-07-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-19",
+      "RG-19/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-19",
+      "19/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-05-14",
+      "RG-14/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-14",
+      "14/5/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-06-05",
+      "RG-5/6/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-06-05",
+      "5/6/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9307,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

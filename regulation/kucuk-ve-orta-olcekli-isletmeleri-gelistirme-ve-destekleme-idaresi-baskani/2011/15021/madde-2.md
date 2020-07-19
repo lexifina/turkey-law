@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 ‒ (1) Bu Yönetmelik, Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı Rehberlik ve Denetim Kurulunun görevlerini, Rehberlik ve Denetim Kurulu Başkanı, başmüfettiş, müfettiş ve müfettiş yardımcılarının görev, yetki ve sorumlulukları ile seçilmelerini, atanmalarını ve yetiştirilmelerini, Kurulun çalışma usul ve esaslarını, Kurul Bürosunun görev, yetki ve sorumlulukları ile denetlenenlerin yükümlülüklerini kapsar.

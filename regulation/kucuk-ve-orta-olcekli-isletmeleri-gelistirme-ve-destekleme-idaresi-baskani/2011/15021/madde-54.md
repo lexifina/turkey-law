@@ -1,0 +1,5 @@
+Kuruldan ayrılan müfettişlerin yeniden atanmaları
+MADDE 54 ‒ (1) Başkanlık içinde veya dışında başka bir göreve atanan ya da istifa ederek ayrılan müfettişler, Kurulda boş pozisyon bulunduğu ve meslekten ayrı kaldıkları süre içinde müfettişlik mesleğinin şeref ve onurunu zedeleyici harekette bulunmadıkları, 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları İşler Hakkında Kanun ile getirilen düzenlemelere aykırı iş ve işlemler yapmadıkları ve Kurula yararlı olabilecekleri anlaşıldığı takdirde, Başkanın onayı ile yeniden müfettişliğe atanabilirler. Başkanlık içinde bir göreve atananlar yeniden müfettişliğe dönmek istediklerinde, yukarıdaki usul ve esaslar dikkate alınarak öncelikle atamaları yapılır.
+(2) Muvazzaf askerlik görevini yapmak üzere görevlerinden ayrılan müfettiş ve müfettiş yardımcılarının, terhislerinden sonra görevlerine dönmeleri sağlanır.
+(3) Müfettişlik sıfatını kazandıktan sonra bu görevden ayrılanlardan müfettişliğe dönenler kıdem bakımından dönemlerinin sonuna alınırlar.
+(4) Müfettiş yardımcıları görevden ayrıldıkları takdirde yeniden atanamazlar.

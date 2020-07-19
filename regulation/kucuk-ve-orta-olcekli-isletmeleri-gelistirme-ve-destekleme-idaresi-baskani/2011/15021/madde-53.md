@@ -1,0 +1,6 @@
+Müfettişlerin kıdemi
+MADDE 53 ‒ (1) Müfettişlik kıdeminde esas alınan süre, müfettiş yardımcılığında, müfettişlikte, müfettişlik sıfat ve pozisyonu muhafaza edilmek şartıyla idari görevlerde, ücretli ve ücretsiz tüm kanuni izinlerde geçirilen süredir.
+(2) Müfettişlik kıdemine esas süreleri aynı olanlar için kıdem sırası, müfettiş yardımcıları açısından giriş sınavındaki, müfettişler için yeterlik sınavındaki başarı derecelerine göre tespit edilir.
+(3) Başmüfettişlerin kıdem sırası, müfettişlerden öncedir. Başmüfettişler arasındaki kıdem sırasının tespitinde başmüfettişliğe atanma tarihi, aynı tarihte atananlar için müfettişlik kıdemi, müfettişlik kıdemi de aynı olanlar için yeterlik sınavındaki başarı derecesi esas alınır.
+(4) Kurul Başkanlığı yaptıktan sonra bu görevden ayrılanlar istekleri halinde müfettişlik görevine dönerler ve dönemlerinin en kıdemlisi sayılırlar. Aynı dönemde bu durumda birden fazla müfettiş olması durumunda, bunların kıdem sırasının tespitinde müfettişlik kıdemi esas alınır.
+(5) Aynı giriş sınavı ile Kurulda göreve başlayan müfettiş yardımcılarından, 51 inci maddedeki nedenler ile müfettişliğe geç atananların kıdemleri, kendi dönemlerinden olan müfettişlerden sonra gelir.
