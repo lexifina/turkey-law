@@ -1,0 +1,6 @@
+Hayvan satış yeri çalışma izni için müracaat ve çalışma izni verilmesi
+MADDE 6 ‒ (1) (Değişik:RG-18/2/2020-31043) Hayvan satış yeri tesis kurma izni alarak tesislerini onaylı projelerine göre yapmış olan gerçek ve tüzel kişi ve kuruluşlar ile resmi kuruluşlar, çalışma izni alabilmek için ekinde hayvan satış yeri sorumlu yöneticisi veteriner hekim istihdamına dair belge bulunan dilekçe ile fiziki olarak veya elektronik ortamda valiliğe müracaat eder.
+(2) Müracaat belgeleri il müdürlüğünce incelenir. İbraz edilen belgelerin tetkiki ve mahallinde yapılan inceleme sonunda teknik ve hijyenik yönden uygun bulunan hayvan satış yerine, mülki idare amirinin onayı alındıktan sonra il müdürlüğü tarafından, EK-3’te belirtilen çalışma izin belgesi düzenlendikten sonra EK-4’e uygun olarak ruhsat düzenlenir
+(3) Çalışma izni verilen hayvan satış yeri için bir numara verilir ve bu numara kayıt sistemine kaydedilir.
+(4) İl müdürlüğü çalışma izni verilen hayvan satış yeri ve hayvan satış yerine verilen kayıt numarası bilgilerini içeren bir yazı ile Bakanlığa bilgi verir.
+(5) İl müdürlüğü tarafından çalışma izni verilen hayvan satış yerinin faaliyete başlayabilmesi için, ruhsatlandırma için müracaatı yapan gerçek ve tüzel kişi ve kuruluşlar ile resmi kuruluşlar yetkili idareden iş yeri açma ve çalışma ruhsatı alır.

@@ -1,0 +1,3 @@
+İdari yaptırımlar
+MADDE 13 ‒ (1) Hayvan satış yeri kurma ve çalışma izni almadan faaliyete geçen gerçek ve tüzel kişi ve kuruluşlar ile resmi kuruluşlara ait hayvan satış yerlerine 5996 sayılı Kanunun ilgili hükümlerine göre idari yaptırımlar uygulanır ve bunlar faaliyetten men edilir.
+(2) Hayvan satış yerlerinde Yönetmelik hükümlerinin ihlali veya Bakanlık merkez ve il/ilçe müdürlükleri tarafından yapılan denetimlerde mevzuata aykırı hususların tespiti, görülen noksanlıkların ve aksaklıkların verilen süre içerisinde giderilmemesi veya eksikliklerin devam etmesi hallerinde on beş gün arayla verilen iki kez yazılı ikazı takiben hayvan satış yeri il veya ilçe hayvan sağlık zabıtası komisyonları tarafından kapatılır.

@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.15646",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVAN SATIŞ YERLERİNİN RUHSATLANDIRILMA VE DENETLEME USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "15646",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15646",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15646&MevzuatTertip=5",
+  "source_sha256": "09db67406b2a7dba7aa8b786a3b501799d30a7870a3299b6cf891387ab0477fd",
+  "source_bytes": 54843,
+  "published": "2011-12-24",
+  "gazette": "28152",
+  "in_force": "2020-07-19",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-19/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-19",
+      "RG-19/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-19",
+      "19/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-18",
+      "RG-18/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-18",
+      "18/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-03",
+      "RG-3/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-03",
+      "3/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2596,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15646-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

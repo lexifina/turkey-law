@@ -1,0 +1,4 @@
+Denetim
+MADDE 12 ‒ (1) Hayvan (Değişik ibare:RG-19/7/2020-31190) satış yerlerinin çalışmaları, 5996 sayılı Kanuna uyulup uyulmaması yönünden Bakanlık merkez ve il/ilçe müdürlüklerince görevlendirilen veteriner hekimlerin denetimine tabidir.
+(2) Resmi veteriner hekim, en az yılda dört defa periyodik olarak ve gerektiğinde süreye bakılmaksızın bu Yönetmelik kapsamında hayvan satış yerlerini denetler ve EK-5’te yer alan formla eksiklikleri belirler. Denetim tutanağı hazırlayarak noksanlık varsa bunları ilgili öneriler ile birlikte, giderilmesi için belirli bir süre vererek hayvan satış yeri sahibine veya sorumlu yöneticisine bildirir. Yetkililerce eksikliklerin giderilmesi için verilecek süre üç aydan fazla olamaz.
+(3) Denetim raporlarının tanziminden sonra hayvan satış yerinin durumu hakkında kapatma dahil karar, il veya ilçe hayvan sağlık zabıtası komisyonları tarafından verilir.

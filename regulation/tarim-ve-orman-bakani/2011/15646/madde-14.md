@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Hayvan park ve panayırları ile ilgili hususlar
+MADDE 14 ‒ (1) (Değişik cümle:RG-18/2/2020-31043) Gerçek ve tüzel kişi ve kuruluşlar ile resmi kuruluşlar hayvan park ve panayırları açmak için mahallin en büyük mülki amirine açılış tarihinden en az 2 ay önce fiziki olarak veya elektronik ortamda müracaat eder. İl/ilçe müdürlükleri ve hayvan sağlık zabıtası komisyonu hayvan park ve panayırının kurulacağı yerin çevresindeki yerleşim yerlerine gürültü ve kötü koku nedeniyle rahatsız etmeyecek uygun bir mesafede bulunup bulunmadığını inceler. Etrafındaki yerleşim alanlarında salgın hayvan hastalığı olup olmadığını araştırır. Belirtilen şartları taşımayan yerler için il/ilçe müdürlükleri ve hayvan sağlık zabıtası komisyonu tarafından müracaat olumsuz olarak değerlendirilir. Belirtilen şartlara uygun olan yerler için ise park ve panayır esnasında çıkması muhtemel hastalıklara karşı tedbirlerini alarak açılışından en az 21 gün önce Bakanlığa bildirerek açılma izni alır.
+(2) Hayvan park ve panayırlarında bu Yönetmelikle belirlenen ruhsatlandırma şartları aranmaz.
