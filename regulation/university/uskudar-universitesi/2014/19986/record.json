@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/uskudar-universitesi/2014/19986",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-19/7/2020",
+  "first_law": null,
+  "gazette": "29092",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-07-19",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Üsküdar Üniversitesi",
+  "issuer_slug": "uskudar-universitesi",
+  "kind": "regulation",
+  "published": "2014-08-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19986&MevzuatTertip=5",
+  "source_id": "8.5.19986",
+  "source_sha256": "9a397edbb901f094f3f3d6148e2d28537399e23644fcb6f9548ea3710d009ccf",
+  "title": "ÜSKÜDAR ÜNİVERSİTESİ YAZ EĞİTİM-ÖĞRETİMİ YÖNETMELİĞİ",
+  "university_id": 372,
+  "version_label": "oldest version available",
+  "word_count": 1369
+}
