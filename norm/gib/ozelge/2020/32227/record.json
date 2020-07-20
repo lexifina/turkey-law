@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-E.531482",
+  "source_id": 32227,
+  "date": "2020-07-20",
+  "title": "6307.90.98.90.19 GTİP numaralı bisiklet koruyucu örtüsünün KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32227",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "d2f502a3614d244fb999660bce1d15262f41d4aae1ea9fa910e54bc33534d8c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
