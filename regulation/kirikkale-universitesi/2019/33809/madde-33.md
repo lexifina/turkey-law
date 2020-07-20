@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Bilimsel Hazırlık Programı, Özel Öğrenci Kabulü ve Yatay Geçişler
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 33 – (1) Lisansüstü programlara kabul edilen öğrencilerden, lisans veya yüksek lisans derecesini, kabul edildikleri lisansüstü programından farklı alanlarda almış olanlar ile lisans veya yüksek lisans derecesini başka yükseköğretim kurumlarından almış olan yüksek lisans, doktora veya sanatta yeterlik programı adayları için eksikliklerini gidermek amacıyla bilimsel hazırlık programı uygulanabilir.
+(2) Bilimsel hazırlık programında alınması zorunlu dersler, ilgili lisansüstü programını tamamlamak için gerekli görülen derslerin yerine geçemez. Ancak bilimsel hazırlık programındaki bir öğrenci, bilimsel hazırlık derslerinin yanı sıra başkanlığın önerisi ve enstitü yönetim kurulunun onayı ile lisansüstü programa yönelik dersler de alabilir. Bir yarıyılda alınan dersler 30 AKTS’yi geçemez. Bilimsel hazırlık programında alınması gerekli dersler, anabilim/anasanat dalı akademik kurulunun teklifi ile enstitü kurulunca belirlenir.
+(3) Bilimsel Hazırlık Programı ile ilgili devam, ders sınavları, ders notları, derslerden başarılı sayılma koşulları, ders tekrarı, kayıt silme ve diğer hususlar için; öğrencinin ders aldığı programın tabi olduğu birimin yürürlükte olan ilgili mevzuat hükümleri uygulanır.
+(4) Bilimsel Hazırlık Programında alınan derslere ait notlar, lisansüstü not çizelgelerinde yer almaz.
+(5) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır. Yaz öğretimi bu süreye dâhil edilmez. Bu süre dönem izinleri dışında uzatılamaz ve süre sonunda başarılı olamayan öğrencinin enstitü ile ilişiği kesilir. Bu programda geçirilen süre, ilgili lisansüstü programın sürelerine dâhil edilmez.
