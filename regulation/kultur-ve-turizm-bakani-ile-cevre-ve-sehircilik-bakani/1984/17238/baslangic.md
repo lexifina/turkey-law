@@ -1,0 +1,2 @@
+DEFİNE ARAMA YÖNETMELİĞİ
+AMAÇ :
