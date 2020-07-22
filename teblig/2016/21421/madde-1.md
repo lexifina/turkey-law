@@ -1,0 +1,6 @@
+BİRİNCİ BÖLÜM
+Genel Bilgi ve İşlemler
+Soruşturma
+MADDE 1 – (1) 6802.23 ve 6802.93 gümrük tarife pozisyonları (GTP) altında yer alan granitin Çin Halk Cumhuriyeti (ÇHC) menşeli olanlarının ithalatı, 10/7/2012 tarihli ve 28349 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/14) kapsamında 174 ABD Doları/Ton tutarında dampinge karşı önleme tabidir.
+(2) Mevcut dampinge karşı önlemin etkinliği 31/12/2010 tarihli ve 27802 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Bazı Ticaret Politikası Önlemleri Mevzuatına Konu Eşyanın İthalatının İzlenmesine İlişkin Tebliğ İthalat: (2011/20) ile takip edilmekte olup, çeşitli sektör temsilcileri anılan ürünün ithalatında uygulanan önlemin, önleme tabi ürünün Vietnam üzerinden ülkemize ihraç edilmesi suretiyle etkisiz kılındığı iddiası ile Ekonomi Bakanlığına başvuruda bulunmuştur.
+(3) Bu çerçevede, mevcut damping önleminin etkisiz kılındığına yönelik yeterli delillerin bulunması üzerine 12/12/2014 tarihli ve 29203 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2014/42) ile başlatılan önlemlerin etkisiz kılınmasına ilişkin soruşturma tamamlanmıştır.

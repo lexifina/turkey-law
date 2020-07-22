@@ -1,0 +1,5 @@
+ÜÇÜNÇÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Sonuç
+MADDE 9 – (1) Vietnam’da mukim üretici/ihracatçı firmalar ile bu firmalarca üretilmiş olduğu beyan edilen soruşturma konusu graniti Türkiye’ye ihraç eden firmaların, yürürlükteki dampinge karşı vergiden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda, İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2012/14) ile ÇHC menşeli granit ithalatında yürürlükte bulunan 174 ABD Doları/Ton tutarındaki dampinge karşı kesin önlemi etkisiz kıldığı sonuç ve kanaatine ulaşılmıştır.
+(2) (Değişik:RG-22/7/2020-31193)(1) Vietnam’da yerleşik Dong A Granite Stone Co., Enterprise 380 Phu Tai Joint Stock Co. ve Hoan Cau Granite Co. Ltd firmalarının bahse konu önlemi etkisiz kılmaya yönelik bir faaliyetleri bulunmadığı anlaşılmıştır. Bu çerçevede, Vietnam’da mukim Dong A Granite Stone Co., Enterprise 380 Phu Tai Joint Stock Co. ve Hoan Cau Granite Co. Ltd firmalarında üretildiği belirlenen ürünlere ilişkin işlemlerde üretici sertifikası aranarak söz konusu dampinge karşı önlemin uygulanmaması gerektiği değerlendirilmiştir.

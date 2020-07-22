@@ -1,0 +1,3 @@
+Önlemlerin etkisiz kılınmasına ilişkin belirlemeler
+MADDE 8 – (1) Vietnam’da yerleşik Dong A Granit ve Enterprise 380 Phu Tai Joint Stock Co. firmalarının Vietnam’da kurulu üretim kapasiteleri bulunduğu ve faal olarak üretim yaptıkları görülmüştür. Firmaların soru formu kapsamında sunmuş olduğu bilgiler yerinde doğrulama çalışması esnasında teyit edilmiştir.
+(2) (Değişik:RG-22/7/2020-31193)(1) Soruşturma kapsamında işbirliğinde bulunan Tan Trung Nam Co. Ltd ve Anh Khoa Gia Lai Mineral Joint Stock Company firmalarının da Vietnam’da kurulu üretim kapasiteleri bulunduğu ve faal olarak üretim yaptıkları görülmüş ancak soru formu kapsamında sağladıkları bilgilerin tamamı doğrulanamamıştır.
