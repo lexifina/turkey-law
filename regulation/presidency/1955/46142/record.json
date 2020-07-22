@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-46142",
+  "number": "46142",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ERAT SEVKİYAT YÖNETMELİĞİ",
+  "published": "1955-12-23",
+  "enacted": "1955-11-16",
+  "gazette_number": "9188",
+  "in_force": "2020-07-22",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 22/7/2020; source row: 21/7/2020 | 2775 | 4, 5, 64, 89 | 22/7/2020",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=46142&MevzuatTur=21&MevzuatTertip=3",
+  "source_sha256": "2da5dad46270669da8d898fd3284664971ee3a9742e7ec16ae934215973fe8cc",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "single-file",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
