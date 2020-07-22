@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4 – (1) Önleme tabi ürün, 4011.50.00.00.00 GTİP’i altında yer alan “bisikletlerde kullanılan kauçuktan yeni dış lastikler”, 4013.20.00.00.00 GTİP’i altında yer alan “bisikletlerde kullanılan kauçuktan iç lastikler” ve 8714.99.90.00.00 GTİP’i altında yer alan “diğerleri; aksam ve parçalar (yalnız 4011.50.00.00.00 GTİP’te yer alan dış lastikleri ihtiva eden bisiklet tekerlekleri, jantı hariç)” ile yine aynı GTİP’te yer alan “diğerleri; aksam ve parçalar (yalnız 4013.20.00.00.00 GTİP’te yer alan iç lastikleri ihtiva eden bisiklet tekerlekleri, jantı hariç)”dir.
+(2) Bahse konu GTİP’ler, yalnızca bilgi amaçlı verilmiş olup bağlayıcı mahiyette değildir.
+(3) Önleme tabi ürünün TGTC’de yer alan tarife pozisyonlarında ve/veya eşya tanımlarında yapılacak değişiklikler, bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.
