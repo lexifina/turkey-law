@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/559",
+  "source_id": 6790,
+  "date": "2020-07-22",
+  "title": "“Kişisel verilerin 108 sayılı Sözleşme dayanak gösterilerek yurt dışına aktarılması hakkında” Kişisel Verileri Koruma Kurulunun 22/07/2020 tarih ve 2020/559 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6790/2020-559",
+  "source_sha256": "a408f44dfb48dce2c26311e704243bf319b1ede97f5172e537ebbda6c338b2f6",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
