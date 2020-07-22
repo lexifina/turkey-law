@@ -1,0 +1,3 @@
+Naklen atamalar
+MADDE 22 – (1) Diğer kamu kurum ve kuruluşlarında görev yapanlardan, bu Yönetmelikte belirtilen aynı unvana, bu unvanla aynı düzeydeki veya daha alt düzeydeki diğer unvanlara, söz konusu unvanlar için mevzuatla aranan öğrenim ve sertifika gibi belgelere sahip olma şartlarını taşımaları kaydıyla, genel hükümlere göre naklen atama yapılabilir. Söz konusu personelden doktora öğrenimini bitirmiş olanlar hakkında 19 uncu maddenin birinci fıkrasının (d) ve (f) bentlerindeki hükümler de uygulanabilir.
+(2) Diğer personel mevzuatına tabi olanların atamalarında ihraz ettikleri unvanların bu Yönetmelikteki denk kadroları, Aile, Çalışma ve Sosyal Hizmetler Bakanlığının görüşü doğrultusunda belirlenir.

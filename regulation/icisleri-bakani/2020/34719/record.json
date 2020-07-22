@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34719",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İL ÖZEL İDARELERİ İLE İL ÖZEL İDARELERİNİN ÜYESİ OLDUKLARI MAHALLİ İDARE BİRLİKLERİ PERSONELİNİN GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ ESASLARINA DAİR YÖNETMELİK",
+  "number": "34719",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/34719",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34719&MevzuatTertip=5",
+  "source_sha256": "f24e5a12fc8a7d7084552598e4fd70f044a7816c8a88a5ee4a6239eea55b7709",
+  "source_bytes": 72268,
+  "published": "2020-07-22",
+  "gazette": "31193",
+  "in_force": "2020-07-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.07.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4145,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
