@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/560",
+  "source_id": 6798,
+  "date": "2020-07-22",
+  "title": "Site Yönetimlerine ilişkin 6698 sayılı Kişisel Verilerin Korunması Kanunu ile 634 sayılı Kat Mülkiyeti Kanunu çerçevesinde Kişisel Verileri Koruma Kurulu’nun 22.07.2020 tarihli ve 2020/560 sayılı Kararı’nda yer alan değerlendirmeler",
+  "source": "https://www.kvkk.gov.tr/Icerik/6798/2020-560",
+  "source_sha256": "afda6f95b0062bdaf6955f79fb1337ad4678936702495fc794481351f11ce286",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
