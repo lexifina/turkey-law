@@ -1,0 +1,2 @@
+Genel başarı notunun hesaplanması
+MADDE 11 – (1) Genel başarı notu, öğrencinin yıl sonu genel sınavına girip giremeyeceğini belirler. Genel başarı notu; ara sınavlar, dönem sonu sınavları, kısa süreli sınavlar, ödevler ve projelerden yıl içinde alınan puanlar ile derse katılım durumunun değerlendirilmesi ile verilecek puanların ortalamasının alınması yoluyla elde edilir. Yıl sonu genel sınavına girebilmek için genel başarı notunun 100 puan üzerinden en az 60 olması gerekir.

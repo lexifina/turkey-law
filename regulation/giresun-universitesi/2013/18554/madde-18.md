@@ -1,0 +1,2 @@
+Yaz dönemi programı
+MADDE 18 – (1) Hazırlık sınıfında devam zorunluluğunu yerine getirmesine rağmen başarısız olan öğrencileri takip eden yeterlik sınavlarına hazırlamak amacıyla öğrenim ücreti alınarak hazırlık sınıfı yaz dönemi programı açılabilir. Yaz dönemi programı, Yönetim Kurulunun teklifi ve Senatonun kararıyla açılır. Yaz dönemi programına kabul edilme ölçütleri Yüksekokul tarafından belirlenir ve önceden ilan edilir. Yaz dönemi programına ilişkin esaslar ilgili mevzuat hükümlerine Senato tarafından karara bağlanır.

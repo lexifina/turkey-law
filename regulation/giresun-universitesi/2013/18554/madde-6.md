@@ -1,0 +1,5 @@
+Yabancı dil hazırlık eğitim-öğretimi ve süresi
+MADDE 6 – (1) Yüksekokulda yabancı dil hazırlık eğitim-öğretimi zorunlu ve isteğe bağlı olmak üzere iki şekilde yapılır.
+(2) Zorunlu yabancı dil hazırlık eğitim-öğretimi; ön lisans, lisans ve yüksek lisans öğrencileri için bir yıl hazırlık ve bir yıl destek eğitim-öğretimi olmak üzere en çok iki yıl süreyi kapsar. Zorunlu yabancı dil hazırlık eğitim-öğretimi başarı koşullarını yerine getiren öğrenciler, kayıtlı oldukları birimlerinde eğitim-öğretimlerine devam etmeye hak kazanırlar.
+(3) İsteğe bağlı yabancı dil hazırlık eğitim-öğretimine devam etmek öğrencinin isteğine bağlıdır. İsteğe bağlı yabancı dil hazırlık eğitim-öğretimi ön lisans, lisans ve yüksek lisans öğrencileri için en çok bir akademik yıl süreli hazırlık eğitim-öğretimini kapsar. İsteğe bağlı hazırlık sınıfı tekrar edilmez.
+(4) Hazırlık sınıfında geçirilen süre, öğrencinin ön lisans, lisans veya lisansüstü eğitim-öğretim programlarında görmekle yükümlü olduğu derslere ilişkin kredi saatleri açısından dikkate alınmaz ve öğrencinin normal eğitim süresinin dışında tutulur.
