@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9460",
+  "decision_date": "2020-07-23",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin 17 nci maddesi gereğince, 1/8/2020 tarihinden itibaren, görevli tedarik şirketlerinin tüzel kişilik kayıtlarına ilişkin",
+  "resmi_gazete_date": "2020-07-28",
+  "resmi_gazete_number": "31199",
+  "categories": [
+    "Organize Toptan Satış Piyasalarına İlişkin Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OxnZIseTbuc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OxnZIseTbuc="
+  ],
+  "source_sha256": "1aee7239b49e217fb8d1ea84109f9525f844bd82aa19f60ac827bb6da5bba49e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33860,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-07-23",
+  "law_text_complete": true
+}
