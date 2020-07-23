@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9472",
+  "decision_date": "2020-07-23",
+  "title": "İzmirgaz Doğal Gaz Dağıtım Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik alınmış olan 05/10/2017 tarihli ve 7334 sayılı Kurul Kararının revize edilmesine yönelik",
+  "resmi_gazete_date": "2020-08-04",
+  "resmi_gazete_number": "31203",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=THRJJH/x6oc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=THRJJH/x6oc="
+  ],
+  "source_sha256": "003392c3392737fe62c7ab631dfd3690e298333de53860847abb5f99e5fbf3a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-07-23",
+  "law_text_complete": true
+}
