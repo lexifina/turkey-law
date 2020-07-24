@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 6 – (1) 16/9/2015 tarihli ve 29477 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2015/44) ile ÇHC menşeli 8515.39 GTP’inde yer alan “Diğerleri (Yalnız aksesuarları hariç net 13 kg ve altındaki kaynak makineleri)” tanımlı ürün ithalinde 29 ABD Doları/Adet ila 154 ABD Doları/Adet arasında firma bazında değişen tutarlarda dampinge karşı kesin önlem yürürlüğe konulmuştur.
