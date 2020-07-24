@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.26910",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERİ DEPOLAMA KURULUŞUNA YAPILACAK RAPORLAMALARA İLİŞKİN ESASLAR HAKKINDA TEBLİĞ (IV-87.1)",
+  "number": "26910",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "path": "teblig/2018/26910",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=26910&MevzuatTertip=5",
+  "source_sha256": "29214897fc0398069ba099e1e1df0f439a4e25fdd0e3b6a5fa7fff95ba14ee04",
+  "source_bytes": 60406,
+  "published": "2018-10-27",
+  "gazette": "30578",
+  "in_force": "2020-07-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-24",
+      "RG-24/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-24",
+      "24/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-26",
+      "RG-26/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-26",
+      "26/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2720,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.26910-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
