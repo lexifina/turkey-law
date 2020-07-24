@@ -1,0 +1,72 @@
+{
+  "source_id": "7.5.17265",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK PATENT VE MARKA KURUMU SINAİ MÜLKİYET UZMANLIĞI YÖNETMELİĞİ",
+  "number": "17265",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/17265",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17265&MevzuatTertip=5",
+  "source_sha256": "de2db56c1ed1551dba1f30a07bd2a8a799603e124f69ba57476db63555a01751",
+  "source_bytes": 84576,
+  "published": "2013-04-06",
+  "gazette": "28610",
+  "in_force": "2020-07-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/7/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-07-24",
+      "RG-24/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-24",
+      "24/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-24",
+      "RG-24/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-24",
+      "24/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-29",
+      "RG-29/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-29",
+      "29/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-05",
+      "RG-5/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-05",
+      "5/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4212,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

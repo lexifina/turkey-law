@@ -1,0 +1,5 @@
+Sınav sonuçlarının duyurulması ve itiraz
+MADDE 13 – (1) Sınav sonuçları sözlü sınavın bitimini takip eden (Değişik ibare:RG-24/6/2020-31165) on beş iş günü içinde Başkanın onayı ile (Değişik ibare:RG-29/5/2018-30435) Kurum internet sitesinde (Mülga ibare:RG-29/5/2018-30435) (…) ilan edilir.
+(2) Adaylar yazılı ve/veya sözlü sınav sonuçlarına ilan tarihinden itibaren yedi gün içerisinde yazılı olarak itiraz edebilirler. İtirazlar en geç yedi gün içerisinde Kurul tarafından değerlendirilerek sonuçlandırılır ve adaylara yazılı olarak bildirilir. Yazılı sınavın başka kurum veya kuruluşlar ile üniversitelere yaptırılması durumunda, sınav sonuçlarına itirazların karara bağlanma süresi on beş gündür.
+(3) Ataması yapılanların sınavla ilgili belgeleri, ilgililerin özlük dosyalarında; başarısız olanlar ile başarılı olduğu halde herhangi bir nedenle atanamayanların sınav belgeleri ise dava açma süresinden az olmamak kaydıyla bir sonraki sınava kadar Kurumca saklanır.
+(4) Atanamayanların başvuru belgeleri, giriş sınavı sonuçlarının ilanını izleyen iki ay içinde talepleri halinde ilgililere iade edilir.

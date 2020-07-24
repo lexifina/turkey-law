@@ -1,0 +1,10 @@
+Başvuruda istenen belgeler ve başvuru işlemleri
+MADDE 8 – (1) Giriş sınavına katılmak isteyen adaylar; (Değişik ibare:RG-29/5/2018-30435) Kurumdan temin edecekleri başvuru formuna, aşağıdaki belgeleri eklerler:
+a) T.C. Kimlik Numarası beyanı.
+b) Mezuniyet belgesinin aslı veya (Değişik ibare:RG-29/5/2018-30435) Kurumca onaylı örneği, eğitimini yurtdışında tamamlamış olanlar için diploma denkliğinin yetkili makamlarca kabul edildiğini gösterir belgenin aslı veya (Değişik ibare:RG-24/7/2020-31195) Kurumca onaylı örneği.
+c) KPSS sonuç belgesinin (Mülga ibare:RG-29/5/2018-30435) (…) bilgisayar çıktısı.
+ç) 4.5x6 ebadında iki adet vesikalık fotoğraf.
+(2) Birinci fıkrada belirtilen belgeler ve gerekli görülen hallerde istenilen diğer belgeler, (Değişik ibare:RG-29/5/2018-30435) Kurum Personel Dairesi Başkanlığına son başvuru tarihi mesai saati bitimine kadar teslim edilir veya posta yoluyla ulaştırılır. Sınav ilanında belirtildiği takdirde başvurular (Değişik ibare:RG-24/7/2020-31195) Kurum internet sitesi üzerinden alınır.
+(3) İstenilen belgelerin en geç son başvuru tarihi mesai saati bitimine kadar (Değişik ibare:RG-29/5/2018-30435) Kuruma ulaşmış olması gerekir. Başvuruların internet sitesi üzerinden alınması halinde, birinci fıkrada belirtilen belgelerin son başvuru tarihini müteakip on gün içerisinde (Değişik ibare:RG-24/7/2020-31195) Kuruma sunulması şarttır. Postadaki gecikmeler ve ilanda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+(4) İstenen belgelerde gerçeğe aykırı beyanda bulundukları tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Atamaları yapılmış ise iptal edilir. Ayrıca, bu kişiler hakkında Cumhuriyet Savcılığına suç duyurusunda bulunulur.
+(5) Giriş sınavı ile ilgili sekretarya hizmetleri, (Değişik ibare:RG-29/5/2018-30435) Kurum Personel Dairesi Başkanlığınca yürütülür. Personel Dairesi Başkanlığı süresi içerisinde yapılan başvuruları inceleyerek giriş sınavına katılmaya hak kazananları (Değişik ibare:RG-29/5/2018-30435) Kurum internet sitesinde ilan eder.
