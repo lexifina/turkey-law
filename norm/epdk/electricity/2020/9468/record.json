@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9468",
+  "decision_date": "2020-07-24",
+  "title": "Görevli tedarik şirketleri tarafından; Yeşil Tarifeyi seçen tüketicilere ilişkin",
+  "resmi_gazete_date": "2020-07-24",
+  "resmi_gazete_number": "31195",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları",
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zz5INAEZhUs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zz5INAEZhUs=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lvwA9wgQrr8="
+  ],
+  "source_sha256": "f94a047238f431288bada9c2cbfcf062a11d12ec4bdb5996788bf031c182d780",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-07-24",
+  "law_text_complete": true
+}
