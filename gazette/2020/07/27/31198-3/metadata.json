@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-07-27",
+  "issue": "31198",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Lokman Hekim Üniversitesi İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200727-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200727.htm",
+  "index_sha256": "b538eb3e5b8646a11419846f5bae2bcf241b27b9d456f9a25856593dd4c1d629",
+  "index_header": "27 Temmuz 2020 ... 31198 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200727.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
