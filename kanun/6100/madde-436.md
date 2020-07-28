@@ -9,4 +9,4 @@ e) Tahkim yeri ve kararın tarihi,
 f) Kararı veren hakem veya hakem kurulu üyelerinin tamamı veya çoğunluğunun imzaları ve karara eklenmiş ise karşı oy yazısı,
 gösterilir.
 (2) Aksi kararlaştırılmadıkça, hakem veya hakem kurulu kısmi kararlar verebilir.
-(3) Hakem kararı, hakem veya hakem kurulu başkanı tarafından taraflara bildirilir; ayrıca kararın aslı dosya ile birlikte mahkemeye gönderilir ve mahkemece saklanır.
+(3) (Değişik:22/7/2020-7251/45 md.) Hakem kararı; hakem, hakem kurulu başkanı veya ilgili tahkim kurumu tarafından taraflara bildirilir. Ayrıca kararın aslı dosya ile birlikte mahkemeye gönderilir ve mahkemece saklanır.

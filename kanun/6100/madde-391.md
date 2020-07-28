@@ -6,4 +6,4 @@ b) Tedbirin, açık ve somut olarak hangi sebebe ve delillere dayandığı,
 c) Tereddüde yer vermeyecek şekilde, neyin üzerinde ve ne tür bir tedbire karar verildiği,
 ç) Talepte bulunanın, ne tutarda ve ne türde bir teminat göstereceği,
 yazılır.
-(3) İhtiyati tedbir talebinin reddi hâlinde, kanun yoluna başvurulabilir. Bu başvuru öncelikle incelenir ve kesin olarak karara bağlanır.
+(3) (Değişik:22/7/2020-7251/40 md.) İhtiyati tedbir talebinin reddi kararı gerekçeli olarak verilir ve bu karara karşı kanun yoluna başvurulabilir. Yüzüne karşı aleyhine ihtiyati tedbir kararı verilen taraf da kanun yoluna başvurabilir. Bu başvurular öncelikle incelenir ve kesin olarak karara bağlanır.
