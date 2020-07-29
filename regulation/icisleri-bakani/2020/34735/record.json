@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34735",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI AFET VE ACİL DURUMLARA İLİŞKİN HİZMET STANDARTLARI VE AKREDİTASYON ESASLARININ BELİRLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "34735",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/34735",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34735&MevzuatTertip=5",
+  "source_sha256": "d97442d9d3802a1ddbdc9a40cab5979346de79c37cbe2e1ab130dc0ab6ecced5",
+  "source_bytes": 84626,
+  "published": "2020-07-29",
+  "gazette": "31200",
+  "in_force": "2020-07-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.07.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4698,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34735-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
