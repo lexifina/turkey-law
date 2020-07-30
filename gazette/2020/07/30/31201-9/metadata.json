@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-07-30",
+  "issue": "31201",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (Tebliğ No: 2014/4)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2020/21)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200730-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200730.htm",
+  "index_sha256": "a1b1c749168040c82d8f539d88ed9b1b17fa5076378034572a9b3a945ee41a21",
+  "index_header": "30 Temmuz 2020 ... 31201 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200730.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
