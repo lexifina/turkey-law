@@ -1,0 +1,2 @@
+Sırrın ifşası
+MADDE 33 – (1) Bu Yönetmeliğin tatbikinde vazifeli bulunan kimseler, bu vazifeleri dolayısıyla amme borçlusunun ve onunla ilgili kimselerin şahıslarına, mesleklerine, işlerine, muamele ve hesap durumlarına ait öğrendikleri sırlarla, gizli kalması lazım gelen diğer hususları ifşa ettikleri takdirde 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 239 uncu maddesine göre cezalandırılır.

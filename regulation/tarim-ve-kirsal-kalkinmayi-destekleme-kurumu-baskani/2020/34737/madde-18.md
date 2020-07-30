@@ -1,0 +1,2 @@
+Kefilin takibi
+MADDE 18 – (1) Asıl borçludan takip ve tahsili gereken alacağın şahsi kefilden müştereken ve müteselsilen aranılması gerektiğinden, bu alacağın takibine asıl borçlu ile birlikte eş zamanlı olarak kefil hakkında da başlanır. Bu takibe, Kanunun 56 ncı maddesine dayanılarak hazırlanan bir yazının kefile, alma haberli tebliği suretiyle başlanır. Yazı ile verilen on beş günlük süre içerisinde ödeme yapılmaması halinde, Kanunun 62 ve devam eden maddelerine göre işlem yapılır.

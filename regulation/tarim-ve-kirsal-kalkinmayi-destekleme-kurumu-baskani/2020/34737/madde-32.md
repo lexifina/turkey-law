@@ -1,0 +1,3 @@
+Tahsil imkânsızlığı ve zamanaşımı sebebiyle terkin
+MADDE 32 – (1) Kanunun 106 ncı maddesi kapsamında yapılacak terkin işlemlerinde, Kurum Başkanı veya Kurum Başkanının yetkili kılacağı İl Koordinatörü yetkilidir.
+(2) Tahsili zamanaşımına uğrayan Kurum alacaklarının terkin edilmesiyle ilgili işlemlerde, alacağın zamanaşımına uğradığına ilişkin tespit ve terkin için hazırlanacak cetvel İl Koordinatörlükleri tarafından hazırlanır, ancak bu alacakların Kurum kayıtlarından çıkarılmasına ilişkin onay işlemleri Kurum Başkanı veya Kurum Başkanının merkezde yetki vereceği makam tarafından gerçekleştirilir.
