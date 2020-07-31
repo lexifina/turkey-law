@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2020,
+  "month": 7,
+  "title": "TEMMUZ 2020 BELEDİYE MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2020-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2020",
+  "source": "https://www.unye.bel.tr/duyuru/temmuz-2020-belediye-meclis-kararlari/",
+  "official_page": "https://www.unye.bel.tr/duyuru/temmuz-2020-belediye-meclis-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/temmuz-2020-belediye-meclis-kararlari/",
+  "source_sha256": "1a168a239af030b1ccab0c101b27dc5ab6c1b379a8515f1aa0803580b67f8dcb",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "TEMMUZ 2020 BELEDİYE MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 5 scanned image(s); not transcribed here"
+}
