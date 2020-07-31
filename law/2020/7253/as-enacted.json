@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7253",
+  "year": 2020,
+  "title": "İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanunda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-07-31",
+  "gazette_issue": "31202",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200731-1.htm",
+  "source_sha256": "0423b0d9a4f931aa83efe74281735d95c5db77dbfd67ae20f20a07543ecfa05d",
+  "text_sha256": "1c6243bbc1ebc7bd1f33773f41f0ed5b798a06124561535a8cf6bd90f55112d1",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/07/31/31202-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/07/20200731-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
