@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2020,
+  "month": 7,
+  "title": "Temmuz Ayı Meclis Kararları (61-62-63-64-65-66-67-68-69)",
+  "decision_date": null,
+  "index_date": "2020-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2020",
+  "source": "https://www.bartinozelidare.gov.tr/2020-yili-meclis-kararlari",
+  "official_page": "https://www.bartinozelidare.gov.tr/2020-yili-meclis-kararlari",
+  "official_document": "https://www.bartinozelidare.gov.tr/kurumlar/bartinozelidare.gov.tr/il_genel_meclisi/2020/meclis-kararlari/Temmuz_61_69.pdf",
+  "source_sha256": "2e49c368cfca85f2777a9eda56091214cf39893c3fc7f68fee103e6a34501839",
+  "issuer": "Bartın İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Temmuz Ayı Meclis Kararları (61-62-63-64-65-66-67-68-69)",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2020 Yılı Meclis Kararları"
+}
