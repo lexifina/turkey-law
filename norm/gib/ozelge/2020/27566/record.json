@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-567870",
+  "source_id": 27566,
+  "date": "2020-08-04",
+  "title": "Yurt dışında açılan şube iş yerleri için ihracatı destekleme fonu tarafından kira yardımı olarak ödenen ve gelir olarak kaydedilen tutarın gider olarak gösterilip gösterilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27566",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7ac5225631d2d1b786461fce014760fc91dcfd36c0acb94a26e4dfc8826ce550",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
