@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[Geç.67-2018/712]-567742",
+  "source_id": 38883,
+  "date": "2020-08-04",
+  "title": "Adi Ortaklığın Türev Piyasası İşlemlerinde Gelir Vergisi Kanununun Geçici 67. Maddesi Gereğince Tevkifat Yapılıp Yapılmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38883",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "28c2daec4a12a2686e93a196628951168e36986673836c7ef284d806323fc684",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
