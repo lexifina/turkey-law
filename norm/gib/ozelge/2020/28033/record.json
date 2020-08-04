@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[8-2018/222]-E.567754",
+  "source_id": 28033,
+  "date": "2020-08-04",
+  "title": "Orman Genel Müdürlüğü’nden tahsis edilen alana ilişkin kira bedeli haricinde yapılan ağaçlandırma ve ilave ağaçlandırma bedelinin giderleştirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28033",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7cfd14ec48a9890d27dad0db471f81d3a5b2006c0b051bd89ccac4809af81409",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
