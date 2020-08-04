@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[15-2019/206]-E.567768",
+  "source_id": 27565,
+  "date": "2020-08-04",
+  "title": "İrlanda mukimi firmadan internet ortamında alınan hizmetlerin 476 sayılı Cumhurbaşkanı Kararı kapsamında değerlendirilip değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27565",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e18de9d67ef2585395557f7ff4b7365be48202130ec2e408a9cd86b43e50459b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
