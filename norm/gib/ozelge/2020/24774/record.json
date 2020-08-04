@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[mük121-2019/37]-567753",
+  "source_id": 24774,
+  "date": "2020-08-04",
+  "title": "Vergiye uyumlu mükelleflere vergi indirimi uygulamasında üç dönem faaliyette bulunma zorunluluğu bulunup bulunmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24774",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "512b5c98cae59d6156a4e610856af845889e086941f7447358fc062be7ac8347",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
