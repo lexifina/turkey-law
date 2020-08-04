@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[8-2018/275]-E.567807",
+  "source_id": 28032,
+  "date": "2020-08-04",
+  "title": "Sulh Protokolüne göre ödenen geçmiş yıl kiralarının hangi yılın gideri olarak dikkate alınacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28032",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "f1e87b5373f7f29cbb0b7197d4bed04886ba9a61c35468a919a2c6d50c6ad8f0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
