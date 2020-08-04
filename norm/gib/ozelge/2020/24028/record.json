@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[2-2019/50]-567732",
+  "source_id": 24028,
+  "date": "2020-08-04",
+  "title": "Vakıf Tarafından Elde Edilen Eurobond Faiz Geliri ve Alım Satım Kazançlarının Beyan Edilip Edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24028",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "d3e8304518f42bdf5d6aa4c0952c2eea6c83f13cdcd7c68d439d5b15b8c76a30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
