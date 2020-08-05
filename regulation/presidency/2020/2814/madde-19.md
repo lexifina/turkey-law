@@ -1,0 +1,2 @@
+Teminat olarak kabul edilecek değerler
+MADDE 19- (1) Bu Usul ve Esaslar kapsamındaki mal ve hizmet alımları ile yapım işlerinde, tedavüldeki Türk parası, bankalar tarafından verilen teminat mektupları, Türkiye’de yerleşik sigorta şirketleri tarafından kefalet sigortası kapsamında düzenlenen kefalet senetleri ile Hazine ve Maliye Bakanlığınca ihraç edilen Devlet İç Borçlanma Senetleri ve bu senetler yerine düzenlenen belgeler teminat olarak kabul edilir.

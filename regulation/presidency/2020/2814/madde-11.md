@@ -1,0 +1,2 @@
+Yaklaşık maliyet
+MADDE 11- (1) Mal ve hizmet alımı ile yapım işlerinin ihalesi yapılmadan önce, Başkanlık tarafından, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyete ihale dokümanında yer verilmez ve yaklaşık maliyet isteklilere veya ihale süreci ile resmi ilişkisi olmayan diğer kişilere açıklanmaz.

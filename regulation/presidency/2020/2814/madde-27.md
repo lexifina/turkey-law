@@ -1,0 +1,3 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 27- (1) İhale komisyonu kararı üzerine Başkanlık, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Başkanlık bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. İhalenin iptal edilmesi nedeniyle isteklilerce Başkanlıktan herhangi bir hak talebinde bulunulamaz. Ancak Başkanlık isteklilerin talepte bulunması halinde ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.
+(2) İhalenin iptal edilmesi durumunda iptal nedenleri gözden geçirilerek yeniden ihaleye çıkılabilir.

@@ -1,0 +1,2 @@
+İhale sonucunun Kamu İhale Kurumuna bildirilmesi
+MADDE 36- (1) Başkanlık bu Usul ve Esaslar kapsamındaki ihtiyaçları için gerçekleştirilecek mal ve hizmet alımı ile yapım işleri ihale sonuçlarını, sözleşmenin taraflarca imzalanmasını müteakip 4734 sayılı Kanunda belirtilen süre içerisinde Kamu İhale Kurumuna bildirir. Bu Usul ve Esaslar kapsamında gerçekleştirilen ihalelere ilişkin sonuç bildirimleri Kamu İhale Bülteninde yayımlanmaz.
