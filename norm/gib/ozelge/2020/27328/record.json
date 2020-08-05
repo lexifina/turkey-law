@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.16.01-125[9-2017/344]-569174",
+  "source_id": 27328,
+  "date": "2020-08-05",
+  "title": "Sermaye azalışında meydana gelen zararın kurum kazancının tespitinde gider olarak dikkate alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27328",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "bf5c984fe6ee289198dab4bfb4ed88b22d533f65bfc5a0d2d5ebb4242d6e83c1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
