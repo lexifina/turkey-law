@@ -1,0 +1,6 @@
+Akreditasyon kullanım ücret/payı hesaplanması ve ödenmesi
+MADDE 4 – (1) Yurt içinde faaliyet gösteren akredite kuruluşlardan;
+a) Akredite oldukları kapsamlarda yürüttükleri faaliyetler dolayısıyla 2020 yılında elde ettikleri brüt gelirleri toplamı yirmi bin (20.000) Türk Lirası ve altında olanlar ile akreditasyon kapsamındaki faaliyetlerden herhangi bir gelir elde etmeyenler, gelirleri ile ilgili bildirimde bulunur, ancak akreditasyon kullanım ücret/payı ödemez.
+b) Akredite oldukları kapsamlarda yürüttükleri faaliyetler dolayısıyla 2020 yılı içinde elde ettikleri brüt gelirlerinin toplamı yirmi bin (20.000) Türk Lirasının üzerinde olanlar, brüt gelirlerinin toplamı üzerinden binde altı (% 0,6) oranında hesaplanacak ücret/payı, izleyen yılın Mart ayı sonuna kadar Türk Akreditasyon Kurumunun bildireceği banka hesap numaralarına öder.
+(2) Yurt dışında faaliyet gösteren akredite kuruluşlar ise, akreditasyon kullanımı ile ilgili herhangi bir bildirimde bulunmaz ve kullanım ücret/payı ödemez.
+(3) Yurt içinde faaliyet gösteren kuruluşların kullanım ücret/payı ile ilgili bildirim yapmaması ya da hesaplanan ücret ve payı süresi içerisinde Türk Akreditasyon Kurumu hesaplarına yatırmaması halinde, kuruluş hakkında hem yasal takip işlemi hem de akreditasyonun askıya alınması işlemi başlatılır.
