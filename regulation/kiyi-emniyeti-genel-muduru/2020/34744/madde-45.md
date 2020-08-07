@@ -1,0 +1,5 @@
+Müfettişlerin kıdemi
+MADDE 45 – (1) Müfettişlik kıdemine esas süre; müfettiş yardımcılığında, müfettişlikte ve ücretli tüm kanuni izinlerde geçirilen süredir.
+(2) Müfettişlik kıdemine esas süreleri aynı olanlar için kıdem sırası; müfettiş yardımcıları açısından giriş sınavındaki, müfettişler için yeterlik sınavındaki başarı derecelerine göre tespit edilir.
+(3) Başmüfettişlerin kıdem sırası, müfettişlerden öncedir. Başmüfettişler arasındaki kıdem sırasının tespitinde; başmüfettişliğe atanma tarihi, aynı tarihte atananlar için müfettişlik kıdemi, müfettişlik kıdemi aynı olanlar için yeterlik sınavındaki başarı derecesi esas alınır.
+(4) Teftiş Kuruluna, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesi uyarınca atananlardan; yeterlik sınavında başarı göstermek suretiyle müfettiş, denetmen, denetçi, kontrolör unvanlarından birini iktisap edenlerin, denetim mesleğinde geçen süreleri ile üst kademe kamu yöneticiliklerinde geçen sürelerinin tamamı, denetim mesleğinden olmayanların ise hizmet sürelerinin yarısı, denetim meslek kıdeminden sayılır.

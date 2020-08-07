@@ -1,0 +1,4 @@
+Haberleşme
+MADDE 64 – (1) Müfettişler, görevlerine ilişkin konularda Kuruluşa bağlı bütün birimler, kamu kurum ve kuruluşları, gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak, Cumhurbaşkanlığı, TBMM, Yüksek Mahkemeler ile bakanlıkların merkez ve yurt dışı kuruluşlarına ve yabancı ülkelere yönelik olarak yapılan yazışmalar ise Teftiş Kurulu Başkanlığı aracılığıyla genel esaslara göre yapılır.
+(2) Müfettişler, görev konuları dışında Genel Müdürlük merkez teşkilatı ile Teftiş Kurulu Başkanlığı aracılığıyla haberleşme sağlarlar.
+(3) Müfettişler, görevli gittikleri yerlere varışı aynı gün veya en geç ertesi işgünü, buradan ayrılışı ise bir işgünü önce veya hareket tarihinde, Elektronik Belge Yönetim Sistemi üzerinden veya elektronik posta ya da faksla yazılı olarak Başkanlığa bildirirler. Zorunlu hallerde telefonla da bildirim yapabilirler.

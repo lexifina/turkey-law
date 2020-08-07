@@ -1,0 +1,3 @@
+Müfettiş yardımcısı talebinde bulunma
+MADDE 21 – (1) Müfettiş yardımcısı ihtiyacının karşılanması için Türkiye İş Kurumundan talepte bulunularak; 29/6/2009 tarihli ve 2009/15188 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarına İşçi Alınmasında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik hükümleri uyarınca Kuruluşa gönderilen listelerdeki adaylar sınava tabi tutulur.
+(2) Giriş sınavlarının yapılacağı tarihler, yapılacağı yerler ve giriş şartları Resmî Gazete ile Aile, Çalışma ve Sosyal Hizmetler Bakanlığı ve Kuruluşun internet sitesinde yayımlanır. İlan, sınav tarihinden en az bir ay önce yapılır.

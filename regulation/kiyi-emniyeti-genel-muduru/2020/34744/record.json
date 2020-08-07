@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34744",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "34744",
+  "issuer": "Kıyı Emniyeti Genel Müdürü",
+  "issuer_slug": "kiyi-emniyeti-genel-muduru",
+  "path": "regulation/kiyi-emniyeti-genel-muduru/2020/34744",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34744&MevzuatTertip=5",
+  "source_sha256": "421ca4b2c4262010697f91885836bbca969ada3a9bc155434703eb5e3742ff0d",
+  "source_bytes": 146036,
+  "published": "2020-08-07",
+  "gazette": "31206",
+  "in_force": "2020-08-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.08.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8737,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

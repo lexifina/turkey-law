@@ -1,0 +1,2 @@
+Birlikte görev
+MADDE 13 – (1) Teftiş, inceleme ve soruşturma programlarının gruplar halinde uygulanmasında, her gruba dahil müfettişlerden en kıdemlisi o grubun başkanı sıfatıyla çalışmaları düzenler. Grup başkanları ayrıca, işe başlarken ve çalışmaların devamı sırasında teftiş ve incelemelere yönelik en uygun yöntemi belirleyerek, işlerin seyrini takip ve sonuç alınmasını sağlayabilecek fikir ve tedbirlerin uygulanmasını temin ederler.

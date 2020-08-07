@@ -1,0 +1,2 @@
+Yeterlik sınavından önce kuruldan çıkarılma
+MADDE 37 – (1) Müfettiş yardımcılarının sıhhi, ahlaki veya mesleki yetersizlik hallerinin; sağlık kurulu raporu, müfettiş raporu ve yargı kararıyla ispatlanması halinde, müfettişlik dışında Kuruluşta görev yapmalarına engel halin olmaması koşulu ile Teftiş Kurulu dışında durumlarına uygun diğer kadrolara atanırlar, aksi takdirde Kuruluşla ilişikleri kesilir.

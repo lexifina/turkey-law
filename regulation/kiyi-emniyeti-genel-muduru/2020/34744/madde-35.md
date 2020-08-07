@@ -1,0 +1,7 @@
+Müfettiş yardımcılarını yetiştirme programı
+MADDE 35 – (1) Müfettiş yardımcıları 3 yıllık sürede aşağıdaki programa göre yetiştirilirler:
+a) Birinci dönem çalışmaları: Kurulun yetki alanına giren teftiş, inceleme ve soruşturma ile ilgili yürürlükteki mevzuatın yardımcılara öğretilmesi, Kuruluş faaliyet konularının bizzat işyerlerinde tanıtılmasının sağlanması amacıyla hizmet içi eğitim şeklinde düzenlenir.
+b) İkinci dönem çalışmaları: Bu dönem çalışmaları müfettiş refakatinde yapılır. Teftiş ve soruşturmalarda müfettiş yardımcılarının yetiştirilmesine özel önem ve öncelik verilir. Refakat müfettişleri programlarını; mevzuat ve uygulamasının, teftiş ve soruşturma usullerinin refakatlerindeki müfettiş yardımcılarınca yeterli derecede öğrenilmesini sağlayacak şekilde düzenler ve uygularlar. Bu dönem çalışmalarının en az iki müfettiş refakatinde yapılması esastır.
+c) Üçüncü dönem çalışmaları: Birinci ve ikinci dönem çalışmalarını başarı ile bitiren müfettiş yardımcılarına, yanında çalıştıkları müfettişlerin mütalaaları da alınarak, Teftiş Kurulu Başkanlığınca resen teftiş, inceleme ve soruşturma yetkisi verilebilir.
+(2) Resen teftiş, inceleme ve soruşturmaya yetkili kılınan müfettiş yardımcıları; resen veya lüzumu halinde diğer yardımcılarla veya müfettişlerle birlikte görev yaparlar.
+(3) Müfettiş yardımcılarının üçüncü döneme ait çalışmaları, yetişmelerinin tamamlanması hususu da gözönünde tutularak Teftiş Kurulu Başkanlığınca düzenlenir.
