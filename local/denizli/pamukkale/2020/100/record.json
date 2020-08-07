@@ -1,0 +1,24 @@
+{
+  "number": "100",
+  "number_as_published": "2020/100",
+  "year": 2020,
+  "title": "Belediye Meclisinin Eylül ayı toplantısının “04 Eylül 2020 Cuma günü saat 15.00’de” yapılmasının uygun görüldüğü hk.",
+  "decision_date": "2020-08-07",
+  "source": "https://www.pamukkale.bel.tr/y-255-2020-yili-agustos-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "503fcf5feff2637a320b5c38554a37367adab04f2bfe05c030ec9ae302e94132",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2020-08-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.08.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.pamukkale.bel.tr/y-255-2020-yili-agustos-ayi-meclis-karar-ozetleri",
+  "listing_label": "2020 YILI AĞUSTOS AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
