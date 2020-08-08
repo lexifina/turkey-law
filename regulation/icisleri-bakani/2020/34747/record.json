@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34747",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERİ PAYLAŞIMI KURULU YÖNETMELİĞİ",
+  "number": "34747",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/34747",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34747&MevzuatTertip=5",
+  "source_sha256": "fd139c057101fc9d0cc5a356f514447040cb764967349957148528d2a790d62d",
+  "source_bytes": 41994,
+  "published": "2020-08-08",
+  "gazette": "31207",
+  "in_force": "2020-08-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.08.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2109,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

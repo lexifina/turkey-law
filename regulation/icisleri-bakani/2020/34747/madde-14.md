@@ -1,0 +1,3 @@
+Verilerin teslimi ve imhası
+MADDE 14 – (1) Kişisel verilerin elektronik ortamda toplu olarak gönderilmesi veya tesliminde gizli evraka ilişkin usul ve esaslar uygulanır.
+(2) Elektronik ortamda gönderilen veya teslim edilen kişisel veriler, işlenmesini gerektiren sebeplerin ortadan kalkması sonrasında, 28/10/2017 tarihli ve 30224 sayılı Resmî Gazete’de yayımlanan Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında Yönetmelik hükümleri kapsamında alıcı kurum ve diğer kişiler tarafından silinir veya yok edilir.
