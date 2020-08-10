@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-E.581109",
+  "source_id": 32223,
+  "date": "2020-08-10",
+  "title": "Non aseptik ve aseptik sıvı gıda ambalaj torbalarına uygulanması gereken KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32223",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "0b28744469c84f1f30e8657b0bc273b4e348f82aa187ab46b53ded3590ad756d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
