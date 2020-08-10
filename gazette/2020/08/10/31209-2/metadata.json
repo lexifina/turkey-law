@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-08-10",
+  "issue": "31209",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstinye Üniversitesi Medya Çalışmaları Uygulama ve Araştırma Merkezi (İSÜMED) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200810-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200810.htm",
+  "index_sha256": "91f69170de9a21bf3464d225391a1197e1e6020262da618b6822084a22c18e20",
+  "index_header": "10 Ağustos 2020 ... 31209 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200810.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
