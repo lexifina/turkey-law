@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "606",
+  "decision_date": "2020-08-10",
+  "official_id": "28327",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2020&ay=&gun=&txtSozcuk=&draw=1&start=600&length=100&txtKararNo=",
+  "source_listing_sha256": "688ec58c4ab5da8d0c61048b1ee536ce484fc70a9ac9c87ea7c5ea61fcecf3b2",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
