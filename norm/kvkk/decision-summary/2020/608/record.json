@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/608",
+  "source_id": 6927,
+  "date": "2020-08-11",
+  "title": "“İlgili kişinin, bilet satın almamasına karşın bir havayolu şirketinden uçak bileti satın aldığına dair SMS alması” hakkında Kişisel Verileri Koruma Kurulunun 11/08/2020 tarihli ve 2020/608 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6927/2020-608",
+  "source_sha256": "342dc5931aa8ce4e9367df0d2fc820f53c318c8328145d0ee969699e6a20ee6f",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
