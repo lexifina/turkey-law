@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-155[Ek-2-2018/10]-225052",
+  "source_id": 35148,
+  "date": "2020-08-11",
+  "title": "İhracat ve transit ticaret ile ilgili düzenlenen gümrük beyannamelerinin damga vergisine tabi olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35148",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "7d3092636662fd62596fa41b97b16f1d0c679eec78152005e617f59f24997838",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
