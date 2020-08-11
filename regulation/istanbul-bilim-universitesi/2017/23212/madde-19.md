@@ -1,0 +1,2 @@
+Öğrenime ara verme
+MADDE 19 – (1) Öğrenciler, 18 inci maddenin birinci fıkrasında sayılan geçerli mazeretlerin bulunması halinde, Fakülte Yönetim Kurulu kararı ile normal öğrenim süresinin yarısı kadar süre akademik izinli sayılabilirler. Bu süreler azami öğrenim süresinden sayılmaz. Ancak sürekli sağlık sorunları olan ve bu durumu sağlık raporu ile belgeleyenler bu süre kısıtlaması dışındadır. Bu şekilde izin alan öğrenciler derslere devam edemez ve öğrencilik haklarından yararlanamaz.

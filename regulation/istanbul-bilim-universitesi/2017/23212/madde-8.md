@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 8 – (1) Bir bildirimin, öğrencinin Fakülteye bildirdiği adrese yollanması ve öğrenci bilgi sistemi üzerinden bildirim yapılması halinde tebligat şartları yerine getirilmiş sayılır. Eş zamanlı olarak Üniversite internet sitesinde ilan edilir.
+(2) Öğrenciler, Fakülteye kayıt olurken bildirdikleri adresi değiştirdikleri takdirde, değişiklikten itibaren en geç bir ay içinde bilgi vermekle yükümlüdürler. Adres değişikliğini bildirmeyen, yanlış veya eksik bildiren öğrencilerin, verdikleri adreslerine tebligatın gönderilmesi halinde tebligat kendilerine yapılmış sayılır.

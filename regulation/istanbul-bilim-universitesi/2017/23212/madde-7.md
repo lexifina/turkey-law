@@ -1,0 +1,2 @@
+Kimlik kartı
+MADDE 7 – (1) Kesin kayıt yaptıran öğrenciye, Üniversitenin öğrenci kimlik kartı verilir. Fakülteden ayrılan, çıkarılan, kaydı silinen veya mezun olan öğrencilerden geri alınan kimlik kartları öğrencilerin dosyalarında saklanır. Kimlik kartının kaybedilmesi halinde yenisinin verilebilmesi için, kaybın yerel bir gazetede ilan edilmesi ve bu ilanın ilgili öğrenci bürosuna getirilmesi gerekir.
