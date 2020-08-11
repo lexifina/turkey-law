@@ -1,0 +1,17 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-120[24860224772]-E.67858",
+  "source_id": 24323,
+  "date": "2020-08-11",
+  "title": "GİB özelge 93767041-120[24860224772]-E.67858",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24323",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "text_status": "metadata-only: the official text shows a 11-digit number (possible national ID); official link only",
+  "privacy_withheld": true,
+  "law_text_complete": false
+}
