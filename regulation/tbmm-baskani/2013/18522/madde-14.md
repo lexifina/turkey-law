@@ -1,0 +1,3 @@
+İtiraz
+MADDE 14 – (1) Adaylar sınavlara ilişkin itirazlarını, sınavlara katılacaklara yapılacak bildirimden ve sınavlarda başarılı olanların ilanından itibaren beş iş günü içinde gerekçelerini belirtmek suretiyle sınav birimine yazılı olarak yapabilirler.
+(2) Bu itirazlar Sınav Kurulu tarafından incelenir ve sonucu en geç yedi iş günü içinde ilgiliye yazılı olarak bildirilir. Uygulama sınavlarına yapılan itirazların değerlendirilmesinde ilgili komisyonun da görüşü alınır. İtirazlar üzerine katılımcı listesinde veya sınav puanlarında değişiklik olması halinde katılımcı listesi veya başarı sıralaması yeniden hazırlanarak duyurulur. Sınav Kurulunun itiraz üzerine verdiği kararlar idari bakımdan kesindir.
