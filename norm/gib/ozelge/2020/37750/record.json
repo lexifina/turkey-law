@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84098128-120[70-2019/3]-225522",
+  "source_id": 37750,
+  "date": "2020-08-11",
+  "title": "Banka aracılığıyla \"Kiram Güvende Sistemi\" ile tahsil edilen kira bedelinin nasıl beyan edileceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37750",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4178af27fd4f650b76965e615611888ee8dac3c0e460f9a0ea182241bb114340",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
