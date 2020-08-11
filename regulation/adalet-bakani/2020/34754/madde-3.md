@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 5/12/1951 tarihli ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu, 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 1 inci maddesi, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 50 nci maddesi ve 23/8/2006 tarihli ve 2006/10932 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarınca Ödenecek Telif ve İşlenme Ücretleri Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Adli ve idari yargı birimleri: Adli yargı ilk derece mahkemeleri ve bölge adliye mahkemelerinde ilgili Cumhuriyet başsavcılığını, idari yargı ilk derece mahkemeleri ve bölge idare mahkemelerinde bölge idare mahkemesi başkanlığını,
+b) Ansiklopedi: Hukuk ve adalet alanında bilgileri ayrıntılı olarak veren çok geniş kapsamlı birkaç ciltten oluşan kitabı,
+c) Bakan: Adalet Bakanını,
+ç) Bakanlık: Adalet Bakanlığını,
+d) Başkanlık: Adalet Bakanlığı Eğitim Dairesi Başkanlığını,
+e) Bibliyografya: Hukuk ve adalet alanında belli bir konuyla ya da dönemle ilgili kitapların, eserlerin tümünü içine alan ya da en iyilerini seçerek sıralayan kılavuzu,
+f) Derleme: Özgün eser üzerindeki haklar saklı kalmak kaydıyla, ansiklopediler ve antolojiler gibi muhtevası seçme ve düzenlemelerden oluşan ve bir düşünce yaratıcılığı sonucu olan eseri,
+g) Elektronik yayın: Geleneksel yöntemlerle hazırlanmış veya basılmış kitap ve derginin her türlü elektronik ortamda sadece okunabilmesi amacıyla sunulmuş şeklini ve doğrudan elektronik ortamda hazırlanmış şeklini,
+ğ) Eser: Sahibinin hususiyetini taşıyan, Bakanlığın görev alanıyla ilgili ilim ve edebiyat, musiki, güzel sanatlar veya sinema eserleri olarak sayılan her nevi fikir ve sanat mahsullerini,
+h) İşlenme: Başka bir eserden veya eserlerden yararlanılarak meydana getirilen ve bu eserlere göre müstakil olmayıp hazırlayanın da katkılarını taşıyan yazılı fikir ve sanat ürünlerini,
+ı) Kamu kurum ve kuruluşu: Genel ve özel bütçeli kamu idareleri, mahalli idareler ile bunlara bağlı döner sermayeli kuruluşlar ve fonları,
+i) Kurul: Adalet Bakanlığı Yayın Danışma Kurulunu,
+j) Kurul Başkanı: Adalet Bakanlığı Yayın Danışma Kurulu Başkanını,
+k) Manyetik depolama üniteleri: Geleneksel yöntemlerle hazırlanmış veya basılmış kitap ve derginin her türlü elektronik ortamda okunabilmesi amacıyla CD, DVD ve benzeri şekillerde depolanmış şeklini,
+l) Tercüme: Yazıldığı dilden başka bir dile aynen çevrilen eseri,
+m) Yazar: Yayımlanan ya da yayımlanacak her türlü yayının yazarını,
+n) Yıllık yayın programı: Kurulun, bu Yönetmelik tarafından kendisine verilen görev ve yetkiler çerçevesinde yayım işleri alanında faaliyetlerini belirlediği bir yıllık takvimi,
+ifade eder.

@@ -1,0 +1,2 @@
+Yarışma ve ısmarlama yoluyla eser temini
+MADDE 17 – (1) Bu Yönetmelik kapsamına giren eserlerin yazdırılması veya yaptırılması için Kurul kararıyla ödüllü ve ödülsüz yarışmalar açılabilir veya ısmarlanabilir. Yarışma sonucunda verilecek olan ödül, telif ücreti yerine geçmekle beraber, Kurulun önerisi üzerine bütçe imkânları doğrultusunda benzer yarışmalarda belirlenen ödüller göz önüne alınarak, Bakan tarafından belirlenir.

@@ -1,0 +1,4 @@
+Eserlerin toplanması ve arşivlenmesi
+MADDE 18 – (1) Bakanlık merkez ve taşra teşkilatı ile bağlı ve ilgili kuruluşlarınca çıkarılan yayınların, teftiş raporu niteliği taşımayan raporların, yönetmelik, genelge ve her türlü dokümanın birer nüshası Başkanlığa gönderilir.
+(2) Bakanlık teşkilatının mevcut ve yeni faaliyetlerini tanıtıcı, teşkilatta işbirliğini ve iş verimliliğini arttırıcı konular ile uygulamalı ve teorik konularda kaynak eser, kitap, süreli ve tanıtıcı yayınlar, bilimsel araştırmalar, inceleme raporları, bilimsel tebliğ, bülten, derleme ve benzeri yazı ve çeviriler ile diğer sanatsal eserler Başkanlıkta toplanarak değerlendirilir. Uygun görülenler Kurul gündemine getirilir.
+(3) Yayımlanan her türlü eser Başkanlıkta muhafaza edilir. Ayrıca Bakanlıkça basılan eserlerden on adet ve satın alınan eserlerden bir adet olmak üzere arşiv oluşturulur.

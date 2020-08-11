@@ -1,0 +1,3 @@
+Yayın ve tanıtım izni
+MADDE 29 – (1) Bakanlık hizmet birimleri ile adli ve idari yargı birimleri, Kuruldan izin almadan süreli ve süresiz yayın faaliyetinde bulunamaz.
+(2) Adli ve idari yargı birimleri, Kurul Başkanının izni olmadan, yurt içi ve yurt dışında, yükseköğretim kurumları dahil eğitim ve öğretim kurumlarında, fuar, sergi, sempozyum, panel ve söyleşi gibi etkinliklerde; kitap, dergi, işleme, tanıtım filmi ve benzeri eserleri tanıtım, satış ve benzeri faaliyetlerde bulunamazlar. Adli ve idari yargı birimlerinin izin talepleri Başkanlığa iletilir ve Başkanlıkça Kurul Başkanına sunulur.
