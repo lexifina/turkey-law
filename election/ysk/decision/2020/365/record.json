@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2020/365",
+  "list_number": "365",
+  "decision_date": "2020-08-11",
+  "title": "24 Haziran 2018 tarihinde birlikte yapılmış olan Cumhurbaşkanı Seçimi ve Milletvekili Genel Seçimlerinde yurt içi ve yurt dışında oy kullanılan sandık sayıları ile bu sandıklarda siyasi partilerce görevlendirilen ve fiilen görev yapan kişilerle ilgili sayısal bilgilerin verilmesine ilişkin Yüksek Seçim Kurulunun 2020/365 sayılı kararı ve eki",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78310/2020.365.pdf",
+  "source_sha256": "66cdc5df04e559af76b89d408469d3781c1a09db126be68bc91fab58a8ca9780",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2020-08-11",
+  "law_text_complete": false
+}
