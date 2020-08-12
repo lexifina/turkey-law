@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.02[15-2019/3]-227045",
+  "source_id": 37227,
+  "date": "2020-08-12",
+  "title": "Firmalarca Dağıtılan Broşürlerin ve Market İsmi Yazan Poşetlerin İlan ve Reklam Vergisine Tabi Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37227",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7361413e3be66501a1f44b85ddf244e25b6c2d5481c01be39670fd795e911cee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
