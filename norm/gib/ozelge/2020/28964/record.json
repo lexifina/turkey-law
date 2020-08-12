@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-130[2017/6]-68170",
+  "source_id": 28964,
+  "date": "2020-08-12",
+  "title": "Ödeme Yapılan Dekonta İstinaden KDV İndrimi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28964",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e86949fdd89738840940535455a4429a6c51ca13d458c00cf9ce6e27c2f87b2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
