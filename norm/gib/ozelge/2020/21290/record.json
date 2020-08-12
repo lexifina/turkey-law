@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[GVK.ÖZ.2019.85]-124377",
+  "source_id": 21290,
+  "date": "2020-08-12",
+  "title": "Limited şirket ortaklığı bulunan kişinin serbest meslek faaliyetinden dolayı genç girişimci kazanç istisnasından faydalanıp faydalanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21290",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "311904449cf53abad84b01288203a83399c02b8177ee294a147c3e8fd56e5d16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
