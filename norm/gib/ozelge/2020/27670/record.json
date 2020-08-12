@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[8-2018/222]-E.567754",
+  "source_id": 27670,
+  "date": "2020-08-12",
+  "title": "Kooperatife ait muhtelif demirbaşı, tesisler ile traktör ve ekipmanlarının bedelsiz olarak site yönetimine devrinin KDV ve Kurumlar Vergisi karşısındaki durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27670",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7b4785a257de959bcdadf73780d5679cd67a2f63cb55cffba8eb18ad0a4722cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
