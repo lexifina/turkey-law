@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-120[19-515-19]-44372",
+  "source_id": 23188,
+  "date": "2020-08-12",
+  "title": "Vakıflarda evlada ödenen galle fazlası ve yöneticiye ödenen ücretin gelir vergisi kesintisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23188",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "cd1e4870f06899a111751244211bd3c4298dc102b1c333eb555df97586ef693c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
