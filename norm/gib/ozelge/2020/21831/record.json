@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-130[37-2016/20-614]-59424",
+  "source_id": 21831,
+  "date": "2020-08-12",
+  "title": "İnternette ödenen reklam giderlerinin gider olarak indirilip indirilemeyeceği, hizmet karşılığı yapılan ödemeler üzerinden Gelir Vergisi ve KDV yönünden tevkifat yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21831",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "16b667a9450196e233158538db7498300632bf99077ede28aba2e2a427691054",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
