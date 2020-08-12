@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67630374-135-15428",
+  "source_id": 33924,
+  "date": "2020-08-12",
+  "title": "Engelliden Engelliye Satış Usulüyle ÖTV'siz olarak üzerine alan aracı satmak istediğinde ÖTV'nin durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33924",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "82e5e9ff8af321c31dcebe9059fc85a369c20477d9121c74286d95f011aa7cf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
