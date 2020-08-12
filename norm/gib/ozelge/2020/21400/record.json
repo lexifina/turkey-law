@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-120.03.08[GVK: 1-2]-26736",
+  "source_id": 21400,
+  "date": "2020-08-12",
+  "title": "Fazla çalışma ücretinden gelir vergisi tevkifatı yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21400",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "99c216c1b2b6711c8c2559e838e41289f1216bef772e950275f48dfafbe1aa35",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
