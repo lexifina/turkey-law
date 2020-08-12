@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[28-2019.2140]-E.227117",
+  "source_id": 32211,
+  "date": "2020-08-12",
+  "title": "Koter kalemi ve koter plağı tesliminde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32211",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "45eef32da38ef5eda936560491638eeeb4780c2bb4338cd29aee15e5de2384b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
