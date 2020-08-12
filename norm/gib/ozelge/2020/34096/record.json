@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.63.15.01-200.03.02-22578",
+  "source_id": 34096,
+  "date": "2020-08-12",
+  "title": "Veraset yoluyla intikal eden araçlarda ÖTV istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/34096",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ae9193ab7cb04b75ca2eccc9ea839e1b3b5671bf414c6a1b52a2df97acf70fd2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
