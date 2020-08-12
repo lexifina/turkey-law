@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "37009108-130-E.63682",
+  "source_id": 32221,
+  "date": "2020-08-12",
+  "title": "150 m² ye kadar olan konut teslimlerinde ortak alanların (depo, enerji ve hidrofor odası, güvenlik holü, sığınak, kapalı otopark) iade hesabına dahil edilip edilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32221",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6c5cf21edaac4397b402eca826d5a16f869febded12315af2b196bfec7cf08e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
