@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125.02[KVK.2019.ÖZ.39]-E.124257",
+  "source_id": 28174,
+  "date": "2020-08-12",
+  "title": "Resen terk eden mükellefin yeniden işe başlaması halinde geçmiş yıllara ait zararların mahsubu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28174",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "96121ec6d396e331f0d19eed3b43f436da0a37589dbdb084d8084a351badc403",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
