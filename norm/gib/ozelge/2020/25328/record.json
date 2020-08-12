@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95133703-105-41778",
+  "source_id": 25328,
+  "date": "2020-08-12",
+  "title": "Ticari faaliyetine ilişkin olarak bilanço usulüne göre defter tutan mükellefin, aynı zamanda serbest meslek faaliyetinde bulunması halinde, elde ettiği kazançlara ilişkin beyannamelerin Defter-Beyan Sistemi üzerinden mi, e-Beyanname uygulaması üzerinden mi verileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25328",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "a74fe76297d7ad6d6569fd18315a96e87b63f9f50fe05a360ac1237a597566d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
