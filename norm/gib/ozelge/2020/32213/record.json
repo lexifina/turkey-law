@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-19-306]-E.114288",
+  "source_id": 32213,
+  "date": "2020-08-12",
+  "title": "Sağlık kabininde verilen hizmetin KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32213",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "93e378a0f00317262ec7e2b754a0274cf56c8ee33b94946e616052b9a5d7a1b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
