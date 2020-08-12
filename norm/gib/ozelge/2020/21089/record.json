@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.04.02[18-2017-19]-227158",
+  "source_id": 21089,
+  "date": "2020-08-12",
+  "title": "Serbest meslek kazanç istisnası kapsamındaki heykel çalışmalarının işyeri kiralamak ve personel çalıştırmak suretiyle yapılması halinde gelir vergisi tevkifatı olup olmadığı hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21089",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e2e1345c975957a779ad373e7daca81639686c371b62d7b5823551873c9c5ac1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
