@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "65771276-140.02-10848",
+  "source_id": 35500,
+  "date": "2020-08-12",
+  "title": "İŞKUR tarafından Toplum Yararına Programı kapsamında istihdam edilmek üzere başvuracak olan katılımcıları belirlemek üzere noter huzurunda kura çekilişi yapılması durumunda, söz konusu çekiliş dolayısıyla Aile Çalışma ve Sosyal Hizmetler Bakanlığına bağlı Müdürlüğün noter harcından muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35500",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "117a2ad680a3b1f6332a16fdcff8985e70b33a65e6fa6f6d1d9bec5d9e9a7471",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
