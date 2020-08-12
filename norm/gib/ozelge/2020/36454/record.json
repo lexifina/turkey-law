@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-170[2019/]-21263",
+  "source_id": 36454,
+  "date": "2020-08-12",
+  "title": "%68 engelli, sol alt ekstremite ve diğer hastalıkları olan kişinin MTV engelli istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36454",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "83e0d976bbedf946e8b84f3aa799c98a4306151137367edb5c758a47ffad2f73",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
