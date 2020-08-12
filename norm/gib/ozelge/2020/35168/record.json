@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-155[18-515-75]-44551",
+  "source_id": 35168,
+  "date": "2020-08-12",
+  "title": "5746 Sayılı Kanuna göre Destek Sözleşmesinin Damga Vergisi İstisnası Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/35168",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "4551b9749ad551be99ced28cf223e8abb6dd0946532f35c23533b8c8e23aff28",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
