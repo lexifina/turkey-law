@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-23996]-593302",
+  "source_id": 26936,
+  "date": "2020-08-13",
+  "title": "İkinci el (kullanılmış) özel teknenin amortismanı oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26936",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0235fa5e019cc5f18adc0f89a1d5b6c85af3e9b4ff203d7a5479524c3ebc1b60",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
