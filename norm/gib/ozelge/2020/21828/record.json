@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-120[2017-720-32]-E.67136",
+  "source_id": 21828,
+  "date": "2020-08-13",
+  "title": "Kombine Büro Yönetimi Faaliyetlerinin Vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21828",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8216d95dc8ad916c85ce1277d605da3ba33cc07fb6627798368a77d9a2965ea1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
