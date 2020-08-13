@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25953680-045.02-29054",
+  "source_id": 35420,
+  "date": "2020-08-13",
+  "title": "5648 sayılı Tarım ve Kırsal Kalkınmayı Destekleme Hizmetleri Hakkında Kanunun uygulaması ile ilgili iş ve işlemlerde Kurumun yargı harçlarından muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35420",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "5495bc2cb6f8fba76ed75047ef6afbffd35753a7c9eca4010034876bec65c232",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
