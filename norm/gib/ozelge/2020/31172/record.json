@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49366803-130[2019-KDV-13/k]-E.7906",
+  "source_id": 31172,
+  "date": "2020-08-13",
+  "title": "Bağışlanmak üzere inşa edilen caminin yapımında kullanılacak mal ve hizmet alımlarında KDV istisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31172",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "21810842fd7a0eeb5d5f0f68dd5344be51a70b3d897c9548f89c2f9da13a2faf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
