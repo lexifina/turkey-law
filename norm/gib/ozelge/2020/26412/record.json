@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-21307]-593518",
+  "source_id": 26412,
+  "date": "2020-08-13",
+  "title": "Yabancı havayolu şirketinin Türkiye şubesininin, IATA üzerinden biletlerini satan acentalara bilet bedellerinin fatura edilme yükümlülüğü hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26412",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "39d82715091eed7c4aa965452b4409ad1154b6c7c59df46f1b0ba6b4df3cad79",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
