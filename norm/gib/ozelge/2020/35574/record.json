@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-140[57-2020/20-429]-60179",
+  "source_id": 35574,
+  "date": "2020-08-13",
+  "title": "Belediyeye ait olan ve 6306 sayılı Kanun kapsamında \"riskli alan\" ilan edilen taşınmazların yıkılarak yerine inşa edilen yeni binalarda bulunan Belediyesi ve işi yüklenen müteahhit Şirkete ait bağımsız bölümlere ilişkin olarak tapuda yapılacak cins tashihi işlemlerinden harç aranılıp aranılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35574",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3ca16426012351833db563d42dbd8396f588d3c4bf57b85f99acdcac42be66c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
