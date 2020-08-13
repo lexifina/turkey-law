@@ -1,0 +1,2 @@
+Toplantı ve karar nisabı
+MADDE 12 – (1) Döner Sermaye İşletmesi Yönetim Kurulu en az beş üyenin iştiraki ile toplanır. Genel Müdürün veya Genel Müdür Yardımcısının bulunmadığı toplantıya en kıdemli üye başkanlık eder. Kararlar toplantıya katılanların çoğunluğu ile alınır. Oyların eşitliği halinde, başkanın oyunun bulunduğu yönde çoğunluk sağlanmış sayılır. Oturumun intizamını, görüşme ve kararların tutanağa geçirilmesini Başkan sağlar.
