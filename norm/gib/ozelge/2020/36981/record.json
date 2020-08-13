@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-175.01.01.01[66.02.09]-66075",
+  "source_id": 36981,
+  "date": "2020-08-13",
+  "title": "Büyük Ölçekli Tavuk Kümeslerinin Emlak Vergisine Tabi Olup Olmadığı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/36981",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "ceebb0a85573b2e36e9b57594135d559ca70f5920374b04d718d02df72bb7ba9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
