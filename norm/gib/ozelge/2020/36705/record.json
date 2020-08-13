@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.17.01-180[2017/2]-227465",
+  "source_id": 36705,
+  "date": "2020-08-13",
+  "title": "Garimenkul satın alınması amacıyla kullanılan kredinin vadesinden önce ödeme yapılarak kapatılması ve kredi tamamı üzerinden tahhkkuk ettirilerek ödenen BSMV'in iadesi hk",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36705",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "c1e8a62655107f3858da4d901617307a4efd5cbb5cebee8197ecb60ffc54a46a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
