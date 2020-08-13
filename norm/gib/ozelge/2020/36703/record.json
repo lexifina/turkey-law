@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.06.17.01-180[KDV5.I.29.2016.4]-214007",
+  "source_id": 36703,
+  "date": "2020-08-13",
+  "title": "Turizm faaliyeti kapsamında kullanılan kredilerde VRHİB kapsamında BSMV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36703",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "682cb0a51e25e2454c75096d67f19c99c909af63202dc557267da2f58c07bddd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
