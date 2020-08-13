@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31212",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31212",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-13",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-100.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-08-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34759&MevzuatTertip=5",
+  "source_bytes": 56337,
+  "source_id": "9.5.34759",
+  "source_sha256": "8bb7d3ad6962d1526ca203c51a9ecd9b0eda1aac3ff5268c8aa857e1104b5813",
+  "title": "TÜRK GIDA KODEKSİ SALÇA VE BENZERİ ÜRÜNLER TEBLİĞİ (TEBLİĞ NO: 2020/19)",
+  "word_count": 1767
+}

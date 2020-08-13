@@ -1,0 +1,2 @@
+Uyum zorunluluğu
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yayımı tarihinden önce faaliyet gösteren gıda işletmecileri tarafından bu Tebliğin yayımı tarihinden önce üretilen, etiketinde domates veya biber salçası izlenimi veren markalar, salça görseli, domates/biber görseli ve benzeri ifadeler ve görseller kullanılmayan domates/biber bazlı yemeklik ürünler 31/12/2020 tarihine kadar piyasada bulunabilir. Domates/biber bazlı yemeklik ürünler 31/12/2020 tarihinden sonra bu Tebliğ hükümlerine uygun olarak piyasaya arz edilir.
