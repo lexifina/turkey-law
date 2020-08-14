@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[32-2020/283]-596333",
+  "source_id": 21662,
+  "date": "2020-08-14",
+  "title": "Doğum nedeniyle ücretsiz izne ayrılan eşten dolayı, ücretli çalışan eşin asgari geçim indiriminden yararlanıp yararlanmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21662",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "62f6f7a4f62d8f728c79519fcd7fbedeb8a43d417ec74517dc7d9bfc6760e77d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
