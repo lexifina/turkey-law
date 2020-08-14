@@ -1,0 +1,4 @@
+Uygulama ve değerlendirme
+MADDE 11 – (1) Eğitim kurumlarında rehberlik ve psikolojik danışma hizmetleri; gelişimsel ve önleyici hizmetler, iyileştirici hizmetler ve destek hizmetler esas alınarak sunulur.
+(2) Rehberlik ve psikolojik danışma hizmetleri; bireysel ve grupla psikolojik danışma ve rehberlik, psikoeğitim programı uygulama, akran temelli çalışmalar, bireyi tanıma tekniklerini uygulama, seminer, panel, konferans, kurs ve gezi düzenleme, sınıf rehberliği çalışmaları ile yayın hazırlama gibi faaliyetlerle yürütülür. İhtiyaç halinde bu hizmetler çevrimiçi bilgi teknolojileri kullanılarak uzaktan verilebilir.
+(3) Okul rehberlik ve psikolojik danışma programı; ders yılı boyunca rehber öğretmen/psikolojik danışman, sınıf rehber öğretmenleri, öğretmenler ve eğitim kurumu yöneticileri ile iş birliği içerisinde uygulanır ve programın etkililiği ders yılı sonunda kanıta dayalı olarak değerlendirilir.

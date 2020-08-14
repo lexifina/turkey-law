@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34760",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI REHBERLİK VE PSİKOLOJİK DANIŞMA HİZMETLERİ YÖNETMELİĞİ",
+  "number": "34760",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2020/34760",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34760&MevzuatTertip=5",
+  "source_sha256": "4b0ef2856fba9e8ebde3c72bb794e99915561dff79b09551734bd2d72e072806",
+  "source_bytes": 79945,
+  "published": "2020-08-14",
+  "gazette": "31213",
+  "in_force": "2020-08-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.08.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4690,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
