@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2019/120]-595945",
+  "source_id": 29688,
+  "date": "2020-08-14",
+  "title": "İnternet Ortamında Verilen Reklam Hizmetleri İçin Yapılan Ödemelerden KDV ve Gelir Vergisi Tevkifat Yapılıp Yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/29688",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "2df23e938bf406ee276a5bef26101b2554fe64962eecc03597c972a17d944340",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
