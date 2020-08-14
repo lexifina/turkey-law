@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95133703-105-42349",
+  "source_id": 25797,
+  "date": "2020-08-14",
+  "title": "Akaryakıt dağıtıcısı ana firmaya ait POS cihazının, bayii tarafından yapılan satışlara ait bedelin tahsilinde bayiler tarafından kullanılıp kullanılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25797",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "c4c140344359ef8cfc0c00b9db4bc041dbaabf7d31d2d08d48d0897cc1a8e367",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
