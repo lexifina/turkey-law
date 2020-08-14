@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[4-2017/256]-E.596286",
+  "source_id": 20805,
+  "date": "2020-08-14",
+  "title": "Kooperatifin boşta duran gayrimenkullerini kiraya vermesi ve ortaklarından aldığı aidat, gecikme faizlerinin vergilendirilmesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/20805",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d91425bb0b01fcc7cff4a861bd75f933a8a3e27508fc5c2693903c5f141d5fc3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
