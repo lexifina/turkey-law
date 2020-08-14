@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "437",
+  "decision_date": "2020-08-14",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/437-meckar-2020-2021-yili-ogrenim-yardimidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-agustos-2020-meclis-kararlari",
+  "listing_sha256": "07bef9862bc655ba7b19fbe78574ca102307bf0dd82b3d0e179ba51629a47fe3",
+  "meeting_title": "14 AĞUSTOS 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
