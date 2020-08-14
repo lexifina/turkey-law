@@ -1,0 +1,2 @@
+Şube Genel Kuruluna katılma koşulları
+Madde 55 — Şube Genel Kurulunda bulunmak, görüşmelere katılmak ve oy kullanmak için, Oda Yönetim Kurulu tarafından hazırlanıp, görevli hakim tarafından kesinleştirilmiş üye listesinin imzalanması yoluyla alınmış Genel Kurul giriş kartının ve Oda kimlik kartının gösterilmesi zorunludur. Sadece oy verme sırasında, Oda kimlik kartı yerine resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.

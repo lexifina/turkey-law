@@ -1,0 +1,2 @@
+Şube Genel Kurulunda adaylık
+Madde 56 — Şube Genel Kurulunda yapılacak seçimler için her üye kendisini ya da yazılı onayı alınmak kaydı ile başka bir üyeyi aday gösterebilir. Aday olmak için toplantıya katılmak zorunlu değildir. Seçime geçilmeden önce, Divan Başkanlığınca seçim yapılacak organ ve seçilecek asil ve yedek üyelerin sayısı Genel Kurula bildirilerek adaylar belirlenir ve kesin aday listesi isim okunarak duyurulur. Seçime, aday listesinde ismi bulunanlar katılabilir. İsmi bulunmayanlara verilen oylar geçersiz sayılır

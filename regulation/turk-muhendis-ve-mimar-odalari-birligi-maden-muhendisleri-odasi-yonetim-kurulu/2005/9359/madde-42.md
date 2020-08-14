@@ -1,0 +1,2 @@
+Oda Onur Kurulu kuruluş ve çalışma yöntemi
+Madde 42 — Oda Onur Kurulu, Oda Genel Kurulunca iki (2) yıl süre ile seçilen beş (5) asil, beş (5) yedek üyeden oluşur. Asil ve yedek üyelerin sıralamasında alınan oyların eşitliği durumunda Oda sicil numarası küçük olana öncelik verilir. Oda Onur Kurulunun çalışmalarında 10/7/2002 tarihli ve 24811 sayılı Resmî Gazete’de yayımlanan TMMOB Disiplin Yönetmeliği hükümleri uygulanır.

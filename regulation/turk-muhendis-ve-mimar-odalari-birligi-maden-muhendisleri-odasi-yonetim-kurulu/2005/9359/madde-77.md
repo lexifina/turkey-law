@@ -1,0 +1,3 @@
+Temsilcilik açılması
+Madde 77 — Belirli bir bölgede ya da il merkezlerinde, Oda çalışmalarının gerektireceği durumlarda Oda Yönetim Kurulunun kararı ile Bölge ve İl Temsilcilikleri kurulur. Bölge ve İl Temsilcileri ve Yardımcıları Oda Yönetim Kurulu kararı ile atanır. Bölge ve İl Temsilcilikleri çalışmaları bir temsilci ve en fazla dört (4) temsilci yardımcısı tarafından yürütülür. Bölge Temsilcilik sınırları içerisindeki il ve işyeri temsilcilikleri, çalışmalarını Bölge Temsilciliği aracılığıyla yürütür.
+Üyelerin yoğunlaştığı iş yerlerinde, Oda ve üye arasındaki ilişkileri geliştirmek amacıyla Oda Yönetim Kurulu kararı ile İşyeri Temsilcilikleri kurulabilir. Kurulan İşyeri Temsilciliklerine, Temsilci ve Yardımcıları Oda Yönetim Kurulu kararı ile atanır.

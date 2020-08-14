@@ -1,0 +1,2 @@
+Oda Yönetim Kurulunun oluşumu
+Madde 31 — Oda Yönetim Kurulu, Oda Genel Kurulunca iki (2) yıl için seçilmiş, yedi (7) asil üyeden oluşur. Ayrıca, yedi (7) de yedek üye seçilir. Yapılan seçim sonunda asil üye adaylarından en çok oy almış yedi (7) üye asil, yedek üye adaylarından en çok oy almış yedi (7) üye de yedek üye olur. Asil ve yedek üyelerin sıralanmasında alınan oyların eşitliği durumunda Oda sicil numarası küçük olan öncelik kazanır.

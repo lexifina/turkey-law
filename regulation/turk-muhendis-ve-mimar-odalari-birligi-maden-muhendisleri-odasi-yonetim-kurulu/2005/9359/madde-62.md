@@ -1,0 +1,2 @@
+Şube Yönetim Kurulunun oluşumu
+Madde 62 — Şube Yönetim Kurulu, Şube Genel Kurulunca iki (2) yıl için seçilen yedi (7) asil üyeden oluşur. Ayrıca yedi (7) de yedek üye seçilir. Yapılan seçim sonunda asil üye adaylarından en çok oy almış yedi (7) üye asil ve yedek üye adaylarından en çok oy almış yedi (7) üye de yedek üye olur. Asil ve yedek üyelerin sıralamasında alınan oyların eşitliği durumunda Oda sicil numarası küçük olana öncelik verilir.

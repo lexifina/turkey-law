@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Üyelik
+Odaya üyelik
+Madde 7— Üyelik statüleri aşağıdaki gibidir:
+a) Asil üyelik: Türkiye Cumhuriyeti uyruğunda olup, yurt içinde en az dört (4) yıllık maden mühendisliği lisans eğitimi veren eğitim kurumlarından birini bitiren ya da yurt dışındaki maden mühendisliği eğitimi veren kurumlardan mezun olan ve diplomasının denkliği Yükseköğretim Kurulunca onaylanan, böylelikle Türkiye sınırları içerisinde maden mühendisliği mesleğini uygulamaya hak kazanan mühendis veya yüksek mühendisler, mesleklerinin uygulanmasını gerektiren işlerle uğraşabilmek için Odaya üye olmak ve üyelik niteliğini korumak zorundadır. Lisansüstü eğitimi ile alınan unvan ikinci bir lisans diploması olarak değerlendirilemez ve buna dayanılarak Odaya kayıt yapılamaz.
+b) Geçici üyelik: Türkiye’de mesleklerini uygulamalarına kanunlar gereğince izin verilen yabancı uyruklu mühendislerden, maden mühendisliği eğitimi almış veya diplomasının denkliği Yükseköğretim Kurulunca kabul edilmiş olanlar, Odaya geçici üye olarak kaydolur. Geçici üyelik, çalışma izni süresi ile sınırlıdır. Geçici üyeler, Oda organlarında görev alamaz ve Oda organ seçimlerinde oy kullanamaz ancak Oda asil üyelerinin bütün hak, görev ve sorumluluklarını taşırlar.
+c) Öğrenci üyelik: Maden mühendisliği öğrenimi gören öğrenciler Odaya öğrenci üye olarak kaydolabilir. Öğrenci üyeliğe ilişkin konularda TMMOB nin belirlediği esaslar ve uyguladığı düzenlemeler geçerlidir.

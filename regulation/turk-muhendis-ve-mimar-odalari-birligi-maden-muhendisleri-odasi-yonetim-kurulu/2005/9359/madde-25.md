@@ -1,0 +1,2 @@
+Oda Genel Kurulunda karar yeter sayısı
+Madde 25 — Oda Genel Kurulu, kararlarını katılanların oy çokluğu ile alır. Oylarda eşitlik durumunda, Divan Başkanının kullandığı oy yönünde çoğunluk sağlanmış sayılır. Yalnız, bu Yönetmeliğin değiştirilebilmesi için görüşmelere katılanların en az üçte iki (2/3)sinin olumlu oyu gereklidir. Ana Yönetmelik değişikliklerinde görüşmelere katılan delege sayısı Oda Yönetim, Denetleme ve Onur Kurulları asil üye sayısı ile Oda TMMOB Yönetim, Denetleme ve Onur Kurulu asil üyeleri sayıları toplamından az olamaz.

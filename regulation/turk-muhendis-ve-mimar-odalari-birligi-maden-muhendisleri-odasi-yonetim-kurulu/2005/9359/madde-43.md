@@ -1,0 +1,2 @@
+Oda Denetleme Kurulu
+Madde 43 — Oda Denetleme Kurulu, Oda Genel Kurulu tarafından iki (2) yıl süreyle görev yapmak üzere seçilen (Değişik ibare:RG-8/8/2010-27666) beş (5) asil üyeden oluşur. Ayrıca (Değişik ibare:RG-8/8/2010-27666) beş (5) de yedek üye seçilir. Denetleme Kurulu gerektiğinde üye tamsayısının salt çoğunluğu ile toplanır. Asil ve yedek üyelerin sıralamasında alınan oyların eşitliği durumunda Oda sicil numarası küçük olana öncelik verilir. Denetleme Kurulu çalışmalarında TMMOB ve Odalar Denetim Yönetmeliği hükümleri uygulanır.

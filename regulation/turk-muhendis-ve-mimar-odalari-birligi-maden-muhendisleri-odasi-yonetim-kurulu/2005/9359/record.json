@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.9359",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ MADEN MÜHENDİSLERİ ODASI ANA YÖNETMELİĞİ",
+  "number": "9359",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Maden Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-maden-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-maden-muhendisleri-odasi-yonetim-kurulu/2005/9359",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=9359&MevzuatTertip=5",
+  "source_sha256": "5f2057085588eff57e069734a8c92cb73cd7468096a0607e31cb5cf021af9867",
+  "source_bytes": 147346,
+  "published": "2005-08-24",
+  "gazette": "25916",
+  "in_force": "2020-08-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/8/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-08-14",
+      "RG-14/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-08-14",
+      "14/8/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-06-07",
+      "RG-7/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-08-08",
+      "RG-8/8/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-08-29",
+      "R.G.-29/8/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9156,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

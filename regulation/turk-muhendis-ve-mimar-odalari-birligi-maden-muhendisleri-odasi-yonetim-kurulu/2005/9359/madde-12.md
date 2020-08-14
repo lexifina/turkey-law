@@ -1,0 +1,4 @@
+Üyelikten ayrılma ve yeniden üyelik başvurusu
+Madde 12 — Üyelikten ayrılma ve yeniden üyelik başvurusu aşağıdaki usul ve esaslara tabidir:
+a) Herhangi bir nedenle mesleki etkinliğini sürdürmek istemeyen üyeler, bu durumu Oda Yönetim Kuruluna yazılı olarak bildirmek, gerektiğinde belgelemek, Oda kimlik kartını geri vermek ve o tarihe kadar olan üyelik ödentilerinin tümünü ödemek koşuluyla, Yönetim Kurulunun kararı ile üyelikten ayrılabilir. TMMOB Kanunu ve maden mühendisliğini ilgilendiren diğer mevzuat bundan sonra bu kişiler için uygulanmaz. İlgili kanunlar ve bu yönetmelikteki istisnai hükümler saklıdır. Üyelikten ayrılan ya da çıkarılan üyeler Oda süreli yayınları ile duyurulur.
+b) Üyelikten ayrılan üyenin yeniden başvurması üzerine, durumu incelenir. Sonuç olumlu ise Odaya kaydı yeni bir üye gibi yapılır.

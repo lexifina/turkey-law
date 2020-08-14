@@ -1,0 +1,2 @@
+Üyelik ödentileri ve adres bildirimi
+Madde 80 — Yıllık üyelik ödentisi, Oda Yönetim Kurulunun vereceği karara göre peşin ya da eşit taksitlerle alınır. Geçmiş yıllara ait üye ödentisi, borcun ödendiği tarihteki üye ödentisi miktarı üzerinden alınır. Her türlü ödenti ve para cezalarını, yazılı bildirim tarihinden itibaren otuz (30) gün içinde ödemeyenler hakkında, 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanunu hükümleri uygulanır. Adreslerini değiştiren üyeler yeni adreslerini bildirmedikçe, eski adreslerine yapılan duyurular iletilmiş sayılır.
