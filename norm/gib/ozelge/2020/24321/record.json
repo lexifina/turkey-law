@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[89-2018/285]-595925",
+  "source_id": 24321,
+  "date": "2020-08-14",
+  "title": "GMSİ mükellefi eşe ait indirilemeyen hayat sigortası primlerinin kendisine ait serbest meslek kazancı matrahından indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24321",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "7419aec8324c1b1b0ff8af72a3058bffd8678b8fa6d16c0088a7234c67b1ae8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
