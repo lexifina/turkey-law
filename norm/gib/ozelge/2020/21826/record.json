@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[37-2019/997]-E.596338",
+  "source_id": 21826,
+  "date": "2020-08-14",
+  "title": "UBER firmasına şehir içi taşımacılık hizmeti veren şahsın ödediği komisyon bedeli ile elde ettiği hizmet gelirini nasıl belgelendireceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21826",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "31aeb0fb016ff591584196c94a948cf267533beac07c6e54f1e6aaf7152d5d9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
