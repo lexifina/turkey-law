@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[8-2015/170]-598285",
+  "source_id": 22516,
+  "date": "2020-08-14",
+  "title": "Hasılat paylaşımı karşılığı işi yapan firmaya arsa sahibi firma tarafından yapılan giderlerin yansıtma faturası ile yansıtmasının vergi mevzuatı açısından durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22516",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7f86434b31e7aea3fab7c241770edc92ad752a84a86b2f8d433066a86a9c3804",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
