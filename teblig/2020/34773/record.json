@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34773",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BÜYÜK ENDÜSTRİYEL KAZALARDA UYGULANACAK DÂHİLİ ACİL DURUM PLANLARI HAKKINDA TEBLİĞ",
+  "number": "34773",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2020/34773",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34773&MevzuatTertip=5",
+  "source_sha256": "7c7ebb56e501bb1c8104d7c2badf1c8d1b9254dcf558d4ca116a75fa51246d64",
+  "source_bytes": 123504,
+  "published": "2020-08-15",
+  "gazette": "31214",
+  "in_force": "2020-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3593,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34773-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,17 @@
+İKİNCİ BÖLÜM
+Genel Yükümlülükler
+İşletmecinin dâhili acil durum planı ile ilgili yükümlülükleri
+MADDE 5 – (1) İşletmeci; kuruluşunda meydana gelmesi muhtemel kazaların çevreye olan etkilerini önlemek ve azaltmak için gerekli her türlü tedbiri almakla yükümlüdür. Yönetmelikte, bu Tebliğde ve diğer ilgili mevzuatta belirtilen usul ve esasları dikkate alarak bir dâhili acil durum planı hazırlar veya hazırlatır, nihai planı bir ay içinde Bakanlığın bildirim sistemine yükler ve kuruluşta bulundurur.
+(2) Yeni açılacak kuruluşlar, faaliyete geçmeden önce dâhili acil durum planını hazırlar veya hazırlatır, nihai planı Bakanlığın bildirim sistemine yükler ve kuruluşta bulundurur.
+(3) Dâhili acil durum planı, büyük kaza senaryo dokümanında belirtilen her bir kaza türünü (yangın, patlama, toksik yayılım) içerecek şekilde tüm büyük kaza senaryolarına uygulanabilecek nitelikte ve endüstriyel kazayı tetikleyebilecek deprem, sel, taşkın gibi doğal afetler de dikkate alınarak hazırlanır.
+(4) İşletmeci bu Tebliğde belirtilen tüm prosedürleri hazırlar ve uygular. Prosedürlerle belirlenen hususlar dâhili acil durum planının ilgili başlığı altında özetlenir ve bu başlık altında prosedüre ve ilgili bölüme atıf yapılır.
+(5) İşletmeci dâhili acil durum planını, acil durumlarda gecikmeye mahal vermeden derhal uygular.
+(6) İşletmeci, kuruluşta çalışan personel sayısını dikkate alarak, dâhili acil durum planında yer alan her bir acil müdahale senaryosu için Ek-1’de belirtilen hizmet gruplarından gerekli olanları kurar ve hizmet gruplarına bu Tebliğin 15 inci maddesi kapsamında belirlediği eğitimlerin verilmesini sağlar.
+(7) İşletmeci, acil durum müdahalelerinde kullanılacak kaynakların ve diğer ekipmanların bakımı, muayenesi, incelenmesi ve test edilmesi için uygun düzenlemelerin yapılmış olduğunu göstermekle yükümlüdür. Yangınla mücadele ekipmanları gibi doğrudan hafifletme işlevine sahip ekipmanlar, personelin kazadan haberdar edilmesinde kullanılan alarmlar gibi anahtar işlevlere sahip diğer ekipmanlar bu düzenlemeler kapsamında ele alınır.
+(8) İşletmeci, güvenlik yönetim sisteminin “acil durumlar için planlama” başlıklı beşinci unsuru başta olmak üzere, diğer unsurların ilgili kısımları kapsamında kuruluşunda dâhili acil durum planı ile ilgili olarak Yönetmelikte ve bu Tebliğde belirtilen esas ve usullere göre aşağıdaki yükümlülükleri yerine getirir:
+a) Dâhili acil durum planının hazırlanmasında, güvenlik raporu ve büyük kaza senaryo dokümanını dikkate alarak Ek-2’deki formata ve içeriğine uyar.
+b) Dâhili acil durum planının hazırlanması sürecinde kilit paydaşlarla gerekli istişareyi yapar.
+c) Kuruluşun faaliyet ve özelliklerine ilişkin bu Tebliğ ve eklerinde belirtilmeyen ilave bir açıklama gerekmesi halinde dâhili acil durum planına gerekli ilavelerin yapılması işletmecinin sorumluluğundadır.
+ç) Büyük kaza senaryo dokümanında öngörülen senaryolar dâhilinde her türlü acil durumu karşılayacak kuruluş içi acil durumlar, yangınla mücadele ve yangından korunma için yeterli sayıda, uygun kaynak ve ekipmanı planlar, sağlar veya bu ihtiyacı karşılayacak şekilde hizmet alır veya işbirliği yapar.
+(9) İşletmeci; acil durumun sona erdiği ilan edilir edilmez ve kuruluş güvenli hale getirilir getirilmez ilgili tüm verilerin toplanmasının ardından, acil durum ya da ramak kala olaylarından etkilenen alanın temizlenmesini sağlar.
+(10) İşletmeci, büyük bir kaza meydana geldiği takdirde, Yönetmeliğin 17 nci maddesi gereği ilgili kurumları bu kazadan derhâl haberdar eder ve kaza ile ilgili bilgi sağlar.

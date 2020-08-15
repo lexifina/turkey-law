@@ -1,0 +1,3 @@
+Büyük endüstriyel kazaya müdahale senaryoları
+MADDE 10 – (1) İşletmeci, büyük endüstriyel kazaya müdahale senaryolarının tanımlanması amacıyla güvenlik yönetim sisteminin “acil durumlar için planlama” başlıklı beşinci unsuru kapsamında acil durum müdahale senaryolarının belirlenmesi ile ilgili prosedürü hazırlar ve uygular.
+(2) İşletmeci, büyük kaza senaryo dokümanında belirtilen her bir büyük kaza senaryosunu karşılayacak şekilde Ek-2’nin B Bölümünde yer alan “acil durum yönetim sistemi” başlıklı 5 inci maddesinde belirtilen hususlar dikkate alınarak büyük endüstriyel kazaya müdahale senaryosu tanımlar ve Ek-4’te yer alan format dâhilinde özet haline getirir.

@@ -1,0 +1,2 @@
+Deniz kirliliğine müdahale
+MADDE 19 – (1) Kuruluşta kıyı ve/veya deniz kirliliği meydana gelmesi veya olasılığının öngörülmesi durumunda, sadece kıyı ve/veya deniz kirliliği olaylarına müdahale faaliyetleri Yönetmeliğin 13 üncü maddesinde belirtilen 3/3/2005 tarihli ve 5312 sayılı Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun kapsamında hazırlanan Kıyı Tesisi Risk Değerlendirmesi ve Acil Müdahale Planına göre icra edilir.
