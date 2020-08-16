@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-08-16",
+  "issue": "31215",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Kavram Meslek Yüksekokulu İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200816-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200816.htm",
+  "index_sha256": "05a4fae82e07c5b86dfed19a20be7763b22d53cc7bad9ae1093544a53cae1135",
+  "index_header": "16 Ağustos 2020 ... 31215 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200816.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
