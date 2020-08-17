@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-08-17",
+      "17.08.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31216",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Şırnak Üniversitesi",
+  "issuer_slug": "sirnak-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sirnak-universitesi/2020/34765",
+  "published": "2020-08-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34765&MevzuatTertip=5",
+  "source_bytes": 45803,
+  "source_id": "8.5.34765",
+  "source_sha256": "bb0590c1d481b5a7adc25f000f59b8e0da03006cb08a5a7cf1ca604231b45b8d",
+  "text_status": "as-enacted",
+  "title": "ŞIRNAK ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 345,
+  "word_count": 972
+}
