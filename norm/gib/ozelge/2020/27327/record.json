@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-125.04.02[7-2019/1]-E.33775",
+  "source_id": 27327,
+  "date": "2020-08-17",
+  "title": "Eğitim kooperatifi üyelerinin çocuklarına eğitim verilmesinin kurumlar vergisi ve katma değer vergisi muafiyetine etkisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27327",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "bcb84e7aa0a2877ca1a6a528377e43e97a9d154f15a89311074ca9708a49c5b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
