@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[2020/109]-600730",
+  "source_id": 34315,
+  "date": "2020-08-17",
+  "title": "Muvafakatnamenin damga vergisi ve harca tabi olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34315",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "b53c70f3d02b34977720769f3f9172eda3030f551740bc7aabe49697b6202fda",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
