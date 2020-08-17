@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının iş birliği ile sağlık ekonomisi, politikası ve sağlık teknolojileri ile ilgili alanlarda ulusal ve uluslararası araştırma-geliştirme (Ar-Ge) faaliyetlerinde bulunmak, ulusal ve uluslararası araştırma merkezleri ve üniversitelerle iş birliği yaparak bu alandaki bilimsel bilginin aktarılması ve sağlık sektöründe yaygınlaşması için eğitim programları düzenlemek, sağlık için ayrılan sınırlı kaynakların rasyonel kullanılmasını sağlamak üzere olası karar modelleri için veri toplamak, analiz etmek, değerlendirmek ve kısıtlı kaynakların optimal tahsisi için seçenekler geliştirmek, ekonomik değerlendirme raporları hazırlamak, yayımlar yapmak, bilimsel çalışma ve araştırmalarda bulunmaktır.
