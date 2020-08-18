@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "429",
+  "decision_date": "2020-08-18",
+  "source_id": 32744,
+  "chamber": "5",
+  "ilam_number": "227",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32744/",
+  "source_sha256": "2fdadbbd6c378648b2087ef90a978c04c469da34da650e0dffa75653e9313d21",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
