@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "428",
+  "decision_date": "2020-08-18",
+  "source_id": 32469,
+  "chamber": "5",
+  "ilam_number": "155",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32469/",
+  "source_sha256": "fb4a4d34bf91fe6fd9fe7158f9c9523e0beef07e4d5e976dcf5e15941b925f95",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
