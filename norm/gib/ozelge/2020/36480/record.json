@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-170[2019/4.1-14]-612287",
+  "source_id": 36480,
+  "date": "2020-08-20",
+  "title": "Görme engeli bulunan vatandaşın adına kayıt ve tescilli taşıtın mtv istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36480",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "d36cddbbe90c81bba79644615c2554a9241f51d36e32feda20d36fc78786a15c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
