@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 50 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-06-14",
+      "14.06.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-08-20",
+      "RG-20/8/2020-31219",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2020-08-20",
+      "20/8/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-20/8/2020-31219",
+  "first_law": null,
+  "gazette": "31155",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-20",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2020/34618",
+  "published": "2020-06-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34618&MevzuatTertip=5",
+  "source_bytes": 147565,
+  "source_id": "8.5.34618",
+  "source_sha256": "7537aa5a0d56e62660082c29960792537cd8905eeb73da585d49db934ad0c430",
+  "text_status": "current-consolidated",
+  "title": "MANİSA CELAL BAYAR ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM\r\nVE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 9658
+}
