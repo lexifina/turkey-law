@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9500",
+  "decision_date": "2020-08-20",
+  "title": "Kırgaz Kırıkkale Kırşehir Doğal Gaz Dağıtım Pazarlama Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-08-22",
+  "resmi_gazete_number": "31221",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DwytWBg/tsQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DwytWBg/tsQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NCJLDa/C1sU="
+  ],
+  "source_sha256": "a39650c8a251f0703e6ce46d01f5c8d688fca3caf59916f0e8392dad8e8ef588",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-08-20",
+  "law_text_complete": true
+}
