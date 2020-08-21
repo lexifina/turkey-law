@@ -1,0 +1,2 @@
+Sözleşme
+MADDE 18 – (1) Doktora sonrası araştırma bursu almaya hak kazananlarla Kurum Başkanı arasında bir sözleşme imzalanır. Bu sözleşmede araştırmacının, sunduğu araştırma projesi çerçevesinde çalışmalarını tamamlayacağı, hazırlayacağı eseri Kuruma zamanında teslim edeceği, eserin basım hakkının öncelikle Kurumda olacağı, basılması durumunda telif ödenmeyeceği, aksi takdirde kendisine ödenen burs miktarının yasal faizi ile birlikte geri alınacağı ve bu Yönetmelik ile belirlenmiş benzeri hükümler yer alır.

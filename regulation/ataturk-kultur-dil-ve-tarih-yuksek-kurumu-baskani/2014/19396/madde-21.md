@@ -1,0 +1,3 @@
+Burslunun desteklenmesi
+MADDE 21 – (1) Lisansüstü burslulara, kendi talepleri üzerine, bilimsel etkinliklere katılmak, bilimsel kaynak ve doküman temini, saha araştırması, kazı masrafları veya benzeri masraflar için, Kurumun teklifi ve Yönetim Kurulunun kararıyla, bir yıl içerisinde bir aylık burs miktarının dört katını aşmamak üzere ek ödeme yapılabilir.
+(2) Yurt içi veya yurt dışı bilimsel bir etkinliğe katılmak için destek istenilmesi durumunda, destek isteyen burslunun, Kuruma, bu etkinliğe davet edildiğini veya katılacağını ispat eder belge sunması, etkinlikten en az bir ay önce başvuruda bulunması gerekmektedir.

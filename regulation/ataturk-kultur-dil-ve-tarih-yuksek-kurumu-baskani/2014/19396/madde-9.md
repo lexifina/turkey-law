@@ -1,0 +1,3 @@
+Başvuruların değerlendirilmesi
+MADDE 9 – (1) Başvuru formları, bu Yönetmelik ile ilanda belirtilen şartlara uygunluk açısından Kurumlar tarafından incelenip uygun bulunan (Mülga ibare:RG-21/8/2020-31220) (…) lisansüstü öğrenim ve doktora sonrası araştırma bursu adayları, Yüksek Kurum ve Kurumların genel ağ sayfalarında ilan edilerek mülakata çağrılır.
+(2) (Ek:RG-21/8/2020-31220) Başvuru formları, bu Yönetmelik ile ilanda belirtilen şartlara uygunluk açısından Kurumlar tarafından yapılan inceleme sonucunda burs almaya hak kazanan lisans öğrencileri, Yüksek Kurum ve Kurumların genel ağ sayfalarında ilan edilir.

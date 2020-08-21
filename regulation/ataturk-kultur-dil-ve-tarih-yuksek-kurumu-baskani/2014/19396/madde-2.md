@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 11/10/2011 tarihli ve 664 sayılı Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 9 uncu maddesinin ikinci fıkrasının (h) bendi, 10 uncu maddesinin ikinci fıkrasının (k) ve (n) bentleri, 11 inci maddesinin ikinci fıkrasının (ı) ve (j) bentleri, 12 nci maddesinin ikinci fıkrasının (g) bendi, 16 ncı maddesinin birinci fıkrasının (c) bendi ve 22 nci maddesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,3 @@
+Sözleşme
+MADDE 13 – (Değişik:RG-21/8/2020-31220)
+(1) Lisansüstü, doktora sonrası veya buna eş değer burs almaya hak kazananlarla Kurum Başkanı arasında bir sözleşme imzalanır. Sözleşmede, her altı ayda bir tez çalışmasının ilerleyişine dair bir raporu ve çalışma tamamlandığında bir kopyasını burs veri tabanına kaydetmekle yükümlü olduğu, burs almaya hak kazanılan alanın ve tez konusunun Yönetim Kurulunca kabul edilebilecek geçerli bir mazereti olmaksızın öğrenim boyunca değiştirilemeyeceği, öğrenim sonunda hazırlanan tezin basılı ve dijital bir suretinin Kuruma verileceği, aksi takdirde uygulanacak yaptırımlar, tezin basım hakkının öncelikle Kurumda olduğu gibi hususlar yer alır.
