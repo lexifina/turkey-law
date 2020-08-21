@@ -1,0 +1,3 @@
+Teknik İlke ve Kurallar Rehberi
+MADDE 6 – (1) TR Karekod kullanılarak belirli bir ödeme sistemi aracılığıyla gerçekleştirilecek işlemlere ilişkin iş akışlarını da içeren Teknik İlke ve Kurallar Rehberi, ilgili sistem işleticisinin başvurusu üzerine Banka tarafından belirlenir. Banka, ödemeler alanının gelişimi için gerekli görmesi durumunda, belirli bir ödeme hizmeti türü için de TR Karekod kullanılarak gerçekleştirilecek işlemlere ilişkin iş akışlarını içeren Teknik İlke ve Kurallar Rehberini hazırlamaya yetkilidir.
+(2) Birinci fıkra uyarınca hazırlanacak Teknik İlke ve Kurallar Rehberinin dağıtım ve paylaşım prosedürü Banka tarafından belirlenir.

@@ -1,0 +1,3 @@
+TR Karekod işlemlerinde işyerinin sorumlulukları
+MADDE 9 – (1) TR Karekod kullanılarak ödeme yapılmasına imkân sunacak işyeri, ödeme işleminin karekod ile yapılabileceğine ilişkin ödeme hizmeti kullanıcılarını bilgilendirmekle yükümlüdür. Bu fıkra kapsamında yapılacak bilgilendirme Banka tarafından belirlenecek gösterim şekline uygun şekilde yapılır.
+(2) TR Karekod kullanılarak ödeme yapılmasına imkân sunacak işyeri, TR Karekod işlemlerinin karekodda yer alan bilgiler ile uyumlu bir şekilde gerçekleştirilmesi ve ödeme işlemi yapılırken karekodda yer alan bilgilerin bütünlüğünün korunması konusunda gerekli özeni gösterir ve statik karekod kullanılarak yapılan ödeme işlemlerinde karekodun fiziksel güvenliği ve okunabilirliğinin korunması amacıyla gerekli tedbirleri alır.
