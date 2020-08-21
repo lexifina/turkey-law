@@ -1,0 +1,247 @@
+21 Ağustos 2020 CUMA
+Resmî Gazete
+Sayı : 31220
+YÖNETMELİK
+Türkiye Cumhuriyet Merkez Bankasından:
+ÖDEME HİZMETLERİNDE TR KAREKODUN ÜRETİLMESİ VE
+KULLANILMASI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, ödeme hizmetlerinde TR
+Karekodun üretilmesi ve kullanılmasına ilişkin usul ve esasları
+düzenlemektir.
+(2) Bu Yönetmelik, 20/6/2013 tarihli ve 6493 sayılı
+Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik
+Para Kuruluşları Hakkında Kanun çerçevesinde ödeme hizmeti kapsamına giren
+ve karekod kullanılarak yapılan ödeme işlemlerini kapsar.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 6493 sayılı Kanunun 12 nci
+maddesinin üçüncü ve altıncı fıkraları ile 18 inci maddesinin altıncı
+fıkrasına dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Alıcı: Ödeme işlemine konu fonun ulaşması
+istenen gerçek veya tüzel kişiyi,
+b) Banka: Türkiye Cumhuriyet Merkez Bankası Anonim
+Şirketini,
+c) BKM: Bankalararası Kart Merkezi Anonim
+Şirketini,
+ç) Dinamik karekod: Kullanılacak ödeme işlemine
+özel olarak üretilen ve tek kullanımlık olan karekodu,
+d) Gönderen: Kendi ödeme hesabından veya ödeme
+hesabı bulunmaksızın ödeme emri veren gerçek veya tüzel kişiyi,
+e) İşyeri: Bir mal veya hizmet bedeline ilişkin
+ödemenin Teknik Doküman kapsamında üretilmiş karekodlar kullanılarak
+yapılmasını alıcı taraf olarak kabul eden gerçek veya tüzel kişiyi,
+f) İşyeri tarafından sunulan karekod: Müşterilerin,
+işyeri tarafından sunulan karekodu, kullandıkları uygulama aracılığı ile
+okuması ve ödeme işlemini başlatması esasına dayanan karekod modelini,
+g) Karekod: Tarama usulü ile ödeme işlemlerinde
+kullanılmak üzere oluşturulan; alfa numerik verileri, karakterleri ve
+simgeleri depolayan, bakana göre sol alt köşede, sol üst köşede ve sağ üst
+köşede üç kare desen işaretleyiciden oluşan ve kare siyah-beyaz noktalar ya
+da pikseller şeklinde siyah ve beyaz modüllere sahip olan iki boyutlu kodu,
+ğ) Karekod Üretici Kodu: TR Karekod üretebilmek
+için gerekli kodu,
+h) Karekod Yönlendirme Sistemi: Karekodların ve
+içeriğinde yer alan bilgilerin ödeme hizmeti sağlayıcıları arasında
+transfer edilmesini sağlayan altyapıyı,
+ı) Kullanıcı: Karekod kullanarak ödeme yapan gerçek
+veya tüzel kişiyi,
+i) Ödeme emri: Ödeme hizmeti kullanıcısı tarafından
+ödeme işleminin gerçekleşmesi amacıyla ödeme hizmeti sağlayıcısına verilen
+talimatı,
+j) Ödeme hizmeti: 6493 sayılı Kanunun 12 nci
+maddesinde belirtilen hizmetleri,
+k) Ödeme hizmeti sağlayıcısı: 6493 sayılı Kanunun
+13 üncü maddesinde belirtilen kuruluşları,
+l) Ödeme işlemi: Gönderen veya alıcının talimatı
+üzerine gerçekleştirilen fon yatırma, aktarma veya çekme faaliyetini,
+m) Ödeme kartı: 23/2/2006 tarihli ve 5464 sayılı
+Banka Kartları ve Kredi Kartları Kanunu kapsamında ihraç edilen banka
+kartları ve kredi kartları ile 6493 sayılı Kanun kapsamında ihraç edilen
+ödeme aracı niteliğindeki kartları,
+n) Ödeme sistemi: Üç veya daha fazla katılımcı
+arasındaki transfer emirlerinden kaynaklanan fon aktarımlarının
+gerçekleştirilmesini sağlamak amacıyla yapılan takas ve mutabakat işlemleri
+için gerekli altyapıyı sunan ve ortak kuralları olan yapıyı,
+o) Ödeme sistemi işleticisi: Ödeme sisteminin
+günlük işleyişinden sorumlu olan ve sistem işletimi için gerekli olan
+faaliyet iznine sahip tüzel kişiyi,
+ö) Statik karekod: İçeriği sabit olan ve birden
+fazla ödeme işleminde kullanılabilen karekodu,
+p) Teknik Doküman: 6493 sayılı Kanun çerçevesinde
+ödeme hizmeti kapsamına giren ve karekod kullanılarak yapılan her türlü
+işlem için karekod üretilirken uyulması gereken temel ilke ve kuralları
+belirleyen bu Yönetmeliğe ekli “TR Karekod İlke ve Kuralları” başlıklı
+dokümanı,
+r) TR Karekod: Teknik Dokümanda yer alan usul ve
+esaslara göre oluşturulan ve 6493 sayılı Kanun kapsamındaki ödemelerde
+kullanılabilecek olan karekodu,
+s) TR Karekod işlemi: Teknik Dokümanda yer alan
+usul ve esaslara göre oluşturulan karekod kullanılarak gerçekleştirilen
+ödeme işlemini,
+ifade eder.
+İKİNCİ BÖLÜM
+TR Karekod ve Karekod Yönlendirme Sistemi
+TR
+Karekod ile yapılacak ödemeler
+MADDE 4 – (1) 6493 sayılı Kanun çerçevesinde ödeme hizmeti
+kapsamına giren ve karekod kullanılarak yapılan her ödeme işleminde, TR
+Karekod kullanılır.
+(2) Banka, TR Karekod kullanılarak
+gerçekleştirilebilecek ödeme işlemlerine üst sınır getirebilir.
+(3) Banka, ödeme hizmeti sağlayıcıları, TR Karekod
+işlemlerinin gerçekleştirildiği sistem işleticileri, işyerleri, dış hizmet
+sağlayıcıları gibi faaliyetleri karekod ile ödeme yapılmasıyla ilgili
+taraflardan gerekli bilgi ve belgeleri istemeye ve ihtiyaç halinde yerinde
+inceleme yapmaya yetkilidir.
+(4) Ödeme hizmeti sağlayıcısının, işyerlerinin,
+gönderenin, alıcının ve ilgili diğer tarafların TR Karekod aracılığıyla
+başlatılan ödeme işlemleri ile ilgili, gerçekleşen ödeme işleminin
+mahiyetine bağlı olarak tabi olduğu diğer mevzuattan kaynaklanan
+sorumlulukları saklıdır.
+TR
+Karekod üretimi ve Karekod Üretici Kodu
+MADDE 5 – (1) TR Karekod, Karekod Üretici Koduna sahip olan
+ödeme hizmeti sağlayıcısı ve Banka tarafından uygun görülen ödeme sistemi
+işleticisi tarafından üretilir.
+(2) Birinci fıkra kapsamında üretilecek TR Karekod,
+Teknik Dokümanda yer alan ilke ve kurallara uygun olarak üretilir.
+(3) Ödeme hizmeti sağlayıcısı, TR Karekod üretimi
+konusunda dış hizmet alımı yapabilir.
+(4) Karekod Üretici Kodu, ödeme hizmeti
+sağlayıcısının ve Banka tarafından uygun görülen ödeme sistemi işleticisinin
+talebi üzerine BKM tarafından belirlenir ve internet sitesinde oluşturulacak
+listede duyurulur.
+Teknik
+İlke ve Kurallar Rehberi
+MADDE 6 – (1) TR Karekod kullanılarak belirli bir ödeme
+sistemi aracılığıyla gerçekleştirilecek işlemlere ilişkin iş akışlarını da
+içeren Teknik İlke ve Kurallar Rehberi, ilgili sistem işleticisinin
+başvurusu üzerine Banka tarafından belirlenir. Banka, ödemeler alanının
+gelişimi için gerekli görmesi durumunda, belirli bir ödeme hizmeti türü
+için de TR Karekod kullanılarak gerçekleştirilecek işlemlere ilişkin iş
+akışlarını içeren Teknik İlke ve Kurallar Rehberini hazırlamaya yetkilidir.
+(2) Birinci fıkra uyarınca hazırlanacak Teknik İlke
+ve Kurallar Rehberinin dağıtım ve paylaşım prosedürü Banka tarafından
+belirlenir.
+Karekod
+Yönlendirme Sistemi
+MADDE 7 – (1) TR Karekod ile gerçekleşecek ödeme hizmetlerine
+ilişkin süreçlerde gerekli olması durumunda karekodun ve içeriğinde yer
+alan bilgilerin, ödeme hizmeti sağlayıcıları arasında transferini sağlamak
+üzere BKM tarafından Karekod Yönlendirme Sistemi kurulur ve işletilir.
+(2) Karekod Yönlendirme Sisteminin işletim
+kuralları, katılım şartları ve maliyet prensibine göre ücretlendirme
+esasları dâhil olmak üzere bu maddenin uygulanmasına dair her türlü usul ve
+esaslar Bankaca belirlenir ve internet sitesinde ilan edilir.
+ÜÇÜNCÜ BÖLÜM
+Tarafların Hak ve Yükümlülükleri
+TR
+Karekod işlemlerinde ödeme hizmeti sağlayıcısının yetki ve sorumlulukları
+MADDE 8 – (1) Ödeme hizmeti sağlayıcısı, TR Karekod
+kullanarak gerçekleştirilmesini sağlayacağı ödeme hizmetleri ile ilgili
+olarak, Teknik Dokümana uygun bir şekilde karekod oluşturulmasını
+sağlamakla ve TR Karekodla yapılacak ödemelerin güvenli ve sorunsuz bir
+şekilde gerçekleştirilmesi için gerekli önlemleri almakla yükümlüdür.
+(2) Ödeme hizmeti sağlayıcısı, 4 üncü maddenin
+ikinci fıkrası kapsamında belirlenen sınırları aşmamak kaydıyla, TR Karekod
+kullanılarak yapılacak ödeme işlemleri için üst sınır belirleyebilir.
+(3) Ödeme hizmeti sağlayıcısı, TR Karekodun
+üretilmesi esnasında mümkün olduğu ölçüde karekod kalitesinin ve
+okunabilirliğinin yüksek olmasına özen gösterir ve karekod bütünlüğünün
+korunmasını sağlar.
+(4) Ödeme hizmeti sağlayıcısı, TR Karekod
+kullanılarak yapılacak ödeme işlemlerinin karekodda yer alan bilgiler ile
+uyumlu şekilde gerçekleştirilmesinden ve ödeme işlemi gerçekleştirilirken
+karekodda yer alan bilgilerin bütünlüğünün korunmasından sorumludur.
+(5) Ödeme hizmeti sağlayıcısı, statik karekod
+kullanılarak yapılacak ödeme işlemlerinde karekodun fiziksel güvenliği ve
+okunabilirliğinin korunması amacıyla ihtiyaç duyulan tedbirlerin alınması
+için gerekli özeni gösterir ve işyeri tarafından gerekli tedbirlerin
+alınmasına ilişkin olarak çerçeve sözleşmede gerekli hükümlere yer verir.
+(6) Ödeme hizmeti sağlayıcısının, karekod üretimi
+için dış hizmet alması halinde gerçekleşen ödeme işleminin mahiyetine göre
+ödeme hizmeti sağlayıcısının tabi olduğu mevzuatta dış hizmet kullanımı ile
+ilgili yer alan hükümlere uyulur.
+(7) TR Karekod işlemlerinde, ödeme işleminin
+gerçekleşmesinin ardından alıcının ödeme hizmeti sağlayıcısı alıcıya,
+gönderenin ödeme hizmeti sağlayıcısı gönderene işlemin gerçekleştiğine dair
+telefon, kısa mesaj ya da uygulama gibi uygun yöntemlerle en kısa sürede
+bilgi sağlamakla yükümlüdür.
+TR
+Karekod işlemlerinde işyerinin sorumlulukları
+MADDE 9 – (1) TR Karekod kullanılarak ödeme yapılmasına
+imkân sunacak işyeri, ödeme işleminin karekod ile yapılabileceğine ilişkin
+ödeme hizmeti kullanıcılarını bilgilendirmekle yükümlüdür. Bu fıkra
+kapsamında yapılacak bilgilendirme Banka tarafından belirlenecek gösterim
+şekline uygun şekilde yapılır.
+(2) TR Karekod kullanılarak ödeme yapılmasına imkân
+sunacak işyeri, TR Karekod işlemlerinin karekodda yer alan bilgiler ile
+uyumlu bir şekilde gerçekleştirilmesi ve ödeme işlemi yapılırken karekodda
+yer alan bilgilerin bütünlüğünün korunması konusunda gerekli özeni gösterir
+ve statik karekod kullanılarak yapılan ödeme işlemlerinde karekodun
+fiziksel güvenliği ve okunabilirliğinin korunması amacıyla gerekli
+tedbirleri alır.
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Yabancılık
+unsuru içeren işlemler
+MADDE 10
+– (1) Yabancı ülke mevzuatına göre
+ihraç edilen ödeme araçları kullanılarak yurt içinde yapılan, işlemin
+taraflarından birinin yurt dışında yerleşik olduğu ve ödeme işlemi için
+yurt dışında yerleşik bir ödeme hizmeti sağlayıcısının altyapısından
+yararlanılan karekodlu ödeme işlemleri için TR Karekod kullanılması zorunlu
+değildir.
+Uygulama
+esasları
+MADDE 11
+– (1) Banka, bu Yönetmelik
+hükümlerini yorumlamaya, bu Yönetmelikte yer almayan ya da açıklık
+bulunmayan konularda genel hükümleri de göz önünde bulundurarak karar vermeye,
+uygulamayı düzenlemek ve yönlendirmek için tebliğ, genelge ve talimat
+yayımlamaya yetkilidir.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1 – (1) Karekodla ödeme
+imkânı sağlayan ödeme hizmeti sağlayıcıları, kullanılan karekodları ve
+ilgili altyapılarını en geç 31/12/2021 tarihine kadar bu Yönetmelik, Teknik
+Doküman ve sundukları ödeme hizmetinin bir ödeme sistemi aracılığıyla işlem
+gerçekleştirilmesini gerektirmesi durumunda söz konusu ödeme sistemiyle
+ilgili hazırlanacak Teknik İlke ve Kurallar Rehberi ile uyumlu hale
+getirmek zorundadır. Banka, bu süreyi bir yılı geçmeyecek şekilde uzatmaya
+yetkilidir.
+(2) İşyerlerine, ödeme kartları ya da Banka
+tarafından işletilen ödeme sistemleri aracılığıyla ödeme kabul etme imkânı
+sunan ödeme hizmeti sağlayıcıları, en geç 31/12/2021 tarihine kadar
+anlaşmalı oldukları işyerlerinde, Teknik Dokümanda yer alan, işyeri
+tarafından sunulan dinamik karekod yöntemi kullanılarak ödeme yapılmasına
+olanak sağlayan altyapıyı oluşturmakla yükümlüdür. Banka, bu süreyi bir
+yılı geçmeyecek şekilde uzatmaya yetkilidir.
+(3) İşyerlerinin ödeme kartları ya da Banka
+tarafından işletilen ödeme sistemleri aracılığıyla ödeme kabul etme
+esnasında ödeme hizmeti sağlayıcılarının sundukları ödeme altyapısına ilave
+olarak farklı cihaz ve uygulamalar kullanması durumunda, kullanılan ilave
+cihaz ve uygulamaların sahipleri de işyerinde Teknik Dokümanda yer alan
+işyeri tarafından sunulan karekod yöntemi kullanılarak ödeme yapılmasına
+olanak sağlayan altyapının en geç 31/12/2021 tarihine kadar oluşturulması
+için gerekli önlemleri alır. Banka, bu süreyi bir yılı geçmeyecek şekilde
+uzatmaya yetkilidir.
+(4) Banka, ödeme hizmeti sağlayıcısından, üçüncü
+fıkra kapsamında gerekli önlemleri alma konusunda makul bir gerekçe
+sunmaksızın çaba göstermeyen işyerine sunduğu ödeme altyapısı hizmetlerini
+durdurmasını istemeye yetkilidir.
+Yürürlük
+MADDE 12
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 13
+– (1) Bu Yönetmelik hükümlerini
+Türkiye Cumhuriyet Merkez Bankası Başkanı yürütür.
+Ekleri için tıklayınız.
