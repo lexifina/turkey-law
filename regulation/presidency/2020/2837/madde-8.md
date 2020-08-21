@@ -1,0 +1,4 @@
+Kimlik Paylaşımı Sisteminin kullanılması
+MADDE 8- (1) Alıcı kurumların Kimlik Paylaşımı Sistemi yoluyla yapabilecekleri sorgulama yöntemleri, sorgu sayısı limitleri ve alabilecekleri veriler, Kurul tarafından belirlenir. Alıcı kurumlar, tanımlanan yetkilerine ilişkin veri ve dokümanlara Genel Müdürlüğün sunduğu portal üzerinden erişim sağlar.
+(2) Kimlik Paylaşımı Sistemi, alıcı kurumların web sayfaları ile ulaşabilecekleri etkileşimli sorgulamalar ve kendi yazılım uygulamaları içerisine ekleyecekleri eklentiler ile sorgulama yapmalarına olanak verecek web servislerinden oluşur.
+(3) Alıcı kurumun almaya yetkili olduğu veri, sorgu sonucu gönderilir. Alıcı kurumun mevcut yetkilerine ek olarak yetki talep etmesi durumunda, talep ettiği yetkinin kullanma gerekçesi ve yasal dayanağının belirtilmesi zorunludur. Talep edilen ek yetkinin verilip verilmeyeceğine dair değerlendirme Kurul tarafından yapılır.

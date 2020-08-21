@@ -1,0 +1,1 @@
+[1] 22/8/2020 tarihli ve 31221 sayılı Resmî Gazete’de yayımlanan düzeltme ile 21 Ağustos 2020 tarihli ve 31220 sayılı Resmî Gazete’de yayımlanan Kimlik Paylaşımı Sistemi Yönetmeliği’nin 1 inci maddesinde sehven “Hizmetleri” olarak yer alan ibare “İşleri” şeklinde değiştirilerek düzeltilmiştir.

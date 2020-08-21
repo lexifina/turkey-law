@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alıcı kurum: Kimlik Paylaşımı Sisteminden faydalanan Genel Müdürlük dışındaki kurum ve kamu hizmeti sunan tüzel kişilikleri,
+b) Alt kullanıcı: Alıcı kurumun, uygulamalar üzerinden web servis yolu ile Kimlik Paylaşımı Sisteminden faydalanması için yetkilendirdiği kişileri,
+c) Bakanlık: İçişleri Bakanlığını,
+ç) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
+d) IP adresi: İnternet ya da diğer paket anahtarlamalı ağlara bağlı cihazların, ağ üzerinden birbirleri ile veri alışverişi yapmak için kullandıkları adresi,
+e) İdari kullanıcı: Alıcı kurum adına Kimlik Paylaşımı Sistemi ile ilgili iş ve işlemleri yürütmeye ve imzaya yetkili kurum temsilcisini,
+f) Kanun: 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununu,
+g) Kimlik numarası: Genel Müdürlük merkezi veri tabanında tutulan kimlik numaralarını,
+ğ) Kimlik Paylaşımı Sistemi: Merkezi veri tabanında tutulan verilerin alıcı kurumlar ile paylaşıldığı sistemi,
+h) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+ı) Kullanıcı: Alıcı kurumca tanımlanan idari kullanıcıyı, teknik kullanıcıları, servis kullanıcısını ve alt kullanıcıları,
+i) Kurul: Merkezi veri tabanında yer alan verilerin paylaşımına ilişkin talepleri değerlendirmek üzere oluşturulan Veri Paylaşımı Kurulunu,
+j) Kurum: Genel Müdürlük dışındaki diğer kamu kurum ve kuruluşlarını,
+k) Merkezi veri tabanı: Genel Müdürlükçe elektronik ortamda tutulan verileri,
+l) Nüfus müdürlüğü: İl nüfus ve vatandaşlık müdürlüğü ile ilçe nüfus müdürlüğünü,
+m) Portal: Bu Yönetmelikle yetkileri tanımlanmış olan alıcı kurum kullanıcılarının iş ve işlemlerini takip ettiği elektronik ortamı,
+n) Servis kullanıcısı: Alıcı kurum adına Kimlik Paylaşımı Sistemi aracılığıyla sunulan web servis hizmetlerinin eklenti yolu ile kullanılabilmesi için merkezi veri tabanında oluşturulan sanal kullanıcıyı,
+o) Taahhütname: Alıcı kurumların imzaladığı ve paylaşılan verilerin güvenliğini sağlamaya yönelik almayı taahhüt ettiği idari ve teknik tedbirleri içeren belgeyi,
+ö) Teknik kullanıcı: İdari kullanıcı tarafından Kimlik Paylaşımı Sisteminden faydalanması için merkezi veri tabanına tanımlanmış kişileri,
+ifade eder.

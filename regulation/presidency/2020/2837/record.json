@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-2837",
+  "number": "2837",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KİMLİK PAYLAŞIMI SİSTEMİ YÖNETMELİĞİ",
+  "published": "2020-08-21",
+  "enacted": "2020-08-20",
+  "gazette_number": "31220",
+  "in_force": "2020-08-21",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2020-08-21, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=2837&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "f3a881127b87e285ebf24324594c1f4f109af0ec1cb79dcf0b7c205afed5101e",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
