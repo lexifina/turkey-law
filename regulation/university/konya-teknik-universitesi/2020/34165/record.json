@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 22/8/2020",
+  "first_law": null,
+  "gazette": "30999",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-22",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Konya Teknik Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2020-01-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34165&MevzuatTertip=5",
+  "source_bytes": 29304,
+  "source_id": "8.5.34165",
+  "source_sha256": "39bf6db2fd233d0d1f004a331d0b5a3679789f85d78030a96f105527c85710a5",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "KONYA TEKNİK ÜNİVERSİTESİ OBRUK UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 485,
+  "version_label": "oldest version available",
+  "word_count": 873
+}
