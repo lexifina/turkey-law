@@ -1,0 +1,2 @@
+Aday olma ve aday gösterme
+Madde 72 — Pazar günü yapılacak seçimler için, Genel Kurulca adaylar önerilir. Genel Kurula katılan üyeler, kendilerini ve başka bir üyeyi aday gösterebilirler. Aday olmak için Genel Kurul toplantısına katılmak zorunlu değildir. Ancak, Genel Kurulda bulunmayan adayların adaylıkları için yazılı onaylarının alınması zorunludur. Adayların saptanmasından sonra, Başkanlık Divanınca aday listesi okunarak duyurulur. Aday listesinde adları bulunmayan üyelere verilen oylar, geçersizdir.

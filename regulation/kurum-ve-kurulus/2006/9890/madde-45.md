@@ -1,0 +1,2 @@
+Onur Kurulunun giderleri
+Madde 45 — Onur Kurulunun kendisine inceleme için gönderilmiş işlerin gerektirdiği her türlü giderler, Oda Bütçesinden karşılanır. Bilirkişi giderleri, Kurulca bilirkişi incelemesine gerek görülmüşse Oda Bütçesinden, istek üzerine bilirkişi incelemesi yapılıyorsa, istekte bulunanlarca peşin olarak Oda veznesine yatırılan ücretten karşılanır. Karar sonucuna göre, giderlerin kimden alınacağı, Kurul kararında belirlenir.

@@ -1,0 +1,2 @@
+Bütçe uygulaması ve harcama yetkisi
+Madde 75 — Bütçe, Oda Genel Kurulunda kabul edildikten sonra uygulanır. Oda Yönetim Kurulu, olağan genel kurulun yapılacağı takvim yılı başından bütçenin kabul edileceği Genel Kurul toplantısına kadar geçecek süre içinde, her ay için bir önceki yıl bütçesinin 1/12 oranında harcama yapabilir. Ancak, niteliği bakımından bir kez de yapılacak giderlerin bu dönem içinde yapılması gerekirse, bu gibi harcamalar 1/12 oranı aranmadan Oda Yönetim Kurulunca yapılabilir.

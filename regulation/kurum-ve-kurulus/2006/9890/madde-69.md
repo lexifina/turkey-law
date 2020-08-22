@@ -1,0 +1,2 @@
+İşyeri temsilcilikleri
+Madde 69 — Üyelerin yoğunlaştığı işyerlerinde, Oda-üye ilişkilerini geliştirmek amacı ile, şube yönetim kurulu önerisi ve Oda Yönetim Kurulu kararı ile işyeri temsilcilikleri kurulabilir. Kurulan işyeri temsilciliklerine, işyeri temsilcilikleri ve yardımcıları şube yönetim kurulu kararı ile atanır. İşyeri temsilciliklerinin çalışma esasları ve görevleri, Oda Örgüt Kuruluş Görev ve Yetki Yönetmeliği ile düzenlenir.

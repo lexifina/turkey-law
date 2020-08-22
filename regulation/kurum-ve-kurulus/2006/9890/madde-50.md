@@ -1,0 +1,3 @@
+Oda Denetleme Kurulu
+Madde 50 — Oda Denetleme Kurulu, Oda Genel Kurulunca iki yıl için seçilen (Değişik ibare:RG-21/4/2012-28271) beş asil ve beş yedek üyeden oluşur. Denetleme Kurulu, gerektiğinde üye çoğunluğu ile toplanır, çalışmalarını TMMOB ve Odalar Denetim Yönetmeliğine göre yürütür.
+Nedeni ne olursa olsun, üst üste üç kez toplantıya ve/veya denetimlere katılmayan veya katılamayacağını bildiren Denetleme Kurulu üyesi çekilmiş sayılır ve yerine sıradaki yedek üye geçer. Çekilen üyelerin yerine yedek üye kalmaz ve Kurul üye sayısı, salt çoğunluğun altına düşerse, Olağanüstü Oda Genel Kurulu yapılarak yeniden Denetleme Kurulu asil ve yedek üyeleri seçilir. Yeni seçilen Denetleme Kurulu ilk Olağan Genel Kurul toplantısına kadar görev yapar.

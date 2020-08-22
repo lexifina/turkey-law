@@ -1,0 +1,2 @@
+Kuruluş
+Madde 5 — TMMOB Tekstil Mühendisleri Odası; yurt içinde ve dışında Tekstil Mühendisliği eğitimi veren kuruluşların fakülte ve bölümlerinden mezun olarak diploma veya ruhsatname almış, böylece Türkiye sınırları içinde meslek ve sanatlarını uygulamaya yasal yetkili olup, mesleksel çalışmalarda bulunan tüm yüksek mühendis ve mühendisleri içinde toplayan 6235 sayılı Türk Mühendis ve Mimar Odaları Birliği Kanununa göre kurulmuş, kamu tüzel kişiliğine sahip bir meslek kuruluşudur. TMMOB Tekstil Mühendisleri Odası bu Yönetmelik hükümlerine tabidir.

@@ -1,0 +1,2 @@
+Yönetim Kurulu üyeliğinin düşmesi ve yeniden görev bölümü
+Madde 31 — Nedeni ne olursa olsun, üç ay süre ile toplantılara katılmayan ya da katılmayacağını bildiren veya özürsüz olarak bir yıl içinde olağan toplantıların dörtte birine (¼) katılmayan, Yönetim Kurulu üyesi çekilmiş sayılır ve yerine sırada bulunan yedek üye geçer. Yönetim Kurulu üyelerinin yarısından fazlasının birlikte çekilmesi durumunda, yerleri yedeklerle doldurulur ve ilk toplantıda, yeniden görev bölümü yapılır.

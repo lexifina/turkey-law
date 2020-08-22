@@ -1,0 +1,4 @@
+Bölge / İl Temsilcilikleri
+Madde 68 — Oda çalışmalarının gerektirdiği durumlarda Şube Yönetim Kurulunun önerisi ve Oda Yönetim Kurulu kararıyla şube etkinlik alanı içerisinde şubeye bağlı olarak il temsilcilikleri kurulur.
+Gerektiğinde, üye yoğunluğu, coğrafi koşullar ve diğer etkenler değerlendirilerek şubenin uzak etkinlik alanı içinde, şube yönetim kurulunun oluru ve Oda yönetim kurulunun kararı ile etkinlik alanları da belirtilerek, doğrudan merkezle bağlantılı çalışabilen bölge temsilcilikleri kurulabilir. Bölge temsilciliği, etkinlik alanı içinde olduğu şube genel kurulunda temsil edilir. Oda Yönetim Kurulu temsilcilik kurulması yolunda Şube Yönetim Kurulu önerilerini değerlendirerek aldığı karar üzerine atama yapar.
+Bölge / il temsilcilikleri çalışmaları, bölge / il temsilcisi ve yardımcısı tarafından yürütülür. Bölge / il temsilcisi ve yardımcısının atanması, çalışma esasları, görev ve yetkileri Oda Örgüt Kuruluş, Görev ve Yetki Yönetmeliği ile düzenlenir.

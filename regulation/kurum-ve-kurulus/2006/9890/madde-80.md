@@ -1,0 +1,2 @@
+Yolluk ve zorunlu giderler
+Madde 80 — Oda Genel Kuruluna katılacak delegelerin, doğal üyelerin ve TMMOB Genel Kuruluna katılacak Oda delegeleri ile adayların yolluk ve benzeri giderleri, Oda Bütçesinin ilgili bölümünden karşılanır. Toplantının yapıldığı ilin belediye sınırları içinde oturanlara yolluk ödenmez. Toplantının yapıldığı il dışından gelerek toplantıya katılan doğal üye ve delegelere, geldikleri iller dikkate alınarak, Oda Yönetim Kurulunca saptanacak miktarda yolluk ödenir.

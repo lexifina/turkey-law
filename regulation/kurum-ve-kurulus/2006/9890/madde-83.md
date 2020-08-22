@@ -1,0 +1,2 @@
+Oda kimlik belgesi alma zorunluluğu
+Madde 83 — Diploma veya ruhsatname almak suretiyle Türkiye’de Tekstil Mühendisi olarak çalışabilecek duruma gelmiş ve bu Yönetmelik gereğince Odaya kayıtları yapılmış mühendis ve yüksek mühendisler, Odaya üye olduklarını gösteren kimlik kartı almak zorundadırlar. Oda üye kimlik kartı almayanlar veya disiplin nedeniyle kartı yenilenmemiş olanlar Tekstil Mühendisliği hizmetlerinde çalışamazlar. Ancak, bu Yönetmeliğin 82 nci maddesinde belirtilen istisnai durumlar saklıdır.

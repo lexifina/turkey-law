@@ -1,0 +1,2 @@
+Geçici üyeler
+Madde 9 — Türkiye’de mesleklerini uygulamalarına kanunlar gereğince izin verilen yabancı uyruklu mühendislerden, tekstil mühendisliği eğitimi almış veya denkliği kabul edilmiş olanlar, Odaya geçici üye olarak kaydolurlar. Geçici üyelik, çalışma izni süresi ile sınırlıdır. Geçici üyeler, Oda organlarında görev alamazlar ve Odanın organ seçimlerinde oy kullanamazlar ancak, Oda asil üyelerinin bütün hak, yetki ve sorumluluklarını taşırlar.

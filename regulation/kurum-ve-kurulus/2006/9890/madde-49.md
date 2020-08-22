@@ -1,0 +1,2 @@
+Kesinleşen cezaların uygulanması ve duyurulması
+Madde 49 — Üyeler ve üye olmayan meslek mensuplarından geçici olarak mesleği uygulamaktan uzaklaştırılanlar, bu süre içinde hiçbir biçimde mesleki etkinlikte bulunamazlar, mesleklerinin uygulanması için imza kullanamazlar. Aksine davranılırsa, uygulanan ceza bir misli artırılır. Aksine davranışta ısrar edenlerle ilgili 46 ncı maddenin (e) bendindeki ceza uygulanır. Verilen kararlar, uygun bir biçimde duyurulur ve uygulanmasını sağlamak üzere ilgililere bildirilir. Kesinleşen cezalar üyenin siciline işlenir.

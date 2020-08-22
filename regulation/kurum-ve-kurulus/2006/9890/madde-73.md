@@ -1,0 +1,2 @@
+Oda ve Birlik organlarında aynı anda yer alma koşulları
+Madde 73 — Bir üye Oda organlarında, yalnız ve ancak bir göreve seçilebilir. Oda organlarına seçilenler, TMMOB organlarına da seçilebilir. Ancak, Oda Onur Kurulu üyesi seçilen bir üye, Yüksek Onur Kurulu üyeliği adaylığına seçilemez. Seçimler sonucunda, oylarda eşitlik olursa, Oda numarası küçük olan öncelik kazanır. Görev süresi sona eren, üye aynı göreve yeniden seçilebilir.

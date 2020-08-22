@@ -1,0 +1,2 @@
+Kimlik belgesi ibraz etme zorunluluğu
+Madde 20 — Oda Genel Kurulunda bulunmak, görüşmelere katılmak ve oy kullanmak için Oda Yönetim Kurulunca hazırlanıp, görevli hakim tarafından kesinleştirilmiş delege listelerinin imzalanması yoluyla alınmış Genel Kurul giriş kartının ve Oda üye kimlik kartının gösterilmesi zorunludur. Oy verme sırasında, Oda üye kimlik kartı yerine resmi kuruluşlarca verilmiş resimli kimlik kartları da kullanılabilir.

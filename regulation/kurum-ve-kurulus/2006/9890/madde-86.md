@@ -1,0 +1,2 @@
+Yabancı uyruklu mühendisler
+Madde 86 — Yabancı uyruklu mühendis ve yüksek mühendislerin Tekstil Mühendisliği hizmetleri hakkında, 1/2/2005 tarihli ve 25714 sayılı Resmî Gazete‘de yayımlanarak yürürlüğe giren Türk Mühendis ve Mimar Odaları Birliği Yabancı Mühendis, Mimar ve Şehir Plancılarının Çalışma İznine Esas Değerlendirilmesi ve Geçici Üyelik Müracaatları Hakkında Yönetmelik hükümleri uygulanır.

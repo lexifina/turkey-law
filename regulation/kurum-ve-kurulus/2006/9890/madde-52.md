@@ -1,0 +1,2 @@
+Oda Danışma Kurulu
+Madde 52 — Oda Danışma Kurulu; Odanın TMMOB Kurullarında görev yapan üyeleri, Oda Yönetim, Onur, Denetleme Kurulları, Şube Yönetim Kurulları, Oda Yönetim Kurulunun gerekli gördüğü Oda uzmanlık komisyonları üyeleri ve Oda Müdüründen oluşur. Oda Danışma Kurulunun toplanamayacağı ivedi durumlarda, Oda Yönetim Kurulu, gerekli konuları danışmak için şube başkanlarını ve gerektiğinde sekreterlerini ve/veya saymanlarını toplantıya çağırabilir.
