@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2020/34786",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31221",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-22",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2020-08-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34786&MevzuatTertip=5",
+  "source_id": "8.5.34786",
+  "source_sha256": "a11f82cf17b6112601ef224b1e069506b0089cfb4ab81a2b82e0473c7dcde47c",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 1286
+}
