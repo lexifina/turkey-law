@@ -1,0 +1,3 @@
+Hazırlık sınıfında eğitim ve öğretimin kapsamı
+MADDE 6 – (1) Hazırlık sınıfında eğitim-öğretim, zorunlu ve isteğe bağlı olarak bu Yönetmelikteki esaslar çerçevesinde Yüksekokul tarafından yürütülür. Yönetim Kurulu her akademik yıl öncesinde bu Yönetmelik hükümleri doğrultusunda hazırlık eğitimi ile ilgili tüm usul ve esasları belirler ve duyurur.
+(2) Yönetim Kurulu hazırlık eğitimini koordine etmek üzere ilgili yabancı dillerde koordinatörler görevlendirebilir. Arapça hazırlık sınıflarının koordinasyonunu yürütmek üzere İlahiyat Fakültesi öğretim elemanlarından birisi koordinatör olarak görevlendirilebilir.

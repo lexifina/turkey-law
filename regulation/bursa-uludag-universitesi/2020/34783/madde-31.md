@@ -1,0 +1,5 @@
+Uluslararası değişim programları yabancı dil seviye tespit sınavı
+MADDE 31 – (1) Uluslararası değişim programları yabancı dil seviye tespit sınavı, Erasmus, Mevlana, Secondos ve benzeri değişim programları kapsamında yurt dışında eğitim görecek öğrencilere yönelik olarak, her eğitim-öğretim yılında Almanca, Arapça, Fransızca ve İngilizce dillerinde yılda iki kez yapılır. Sınav tarihleri Yönetim Kurulu tarafından belirlenir.
+(2) Uluslararası değişim programları yabancı dil seviye tespit sınav sonuçları ile yabancı dil kurs sınav sonuçları eşdeğerliliği Yönetim Kurulu tarafından teklif edilir ve Senato tarafından belirlenir.
+(3) Değişim programlarının sınav ücreti, Yüksekokulun teklifi üzerine Üniversite Yönetim Kurulu tarafından belirlenir. Belirlenen sınav ücreti, ilgili birim tarafından Yabancı Diller Yüksekokulunun Döner Sermaye hesabına yatırılır.
+(4) Uluslararası değişim programları yabancı dil seviye tespit sınavı Yüksekokul Kurulunca belirlenen usul ve esaslara göre kısmen veya tamamen bilgisayar destekli yapılabilir.

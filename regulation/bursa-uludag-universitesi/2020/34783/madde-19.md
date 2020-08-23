@@ -1,0 +1,2 @@
+Ödev ve ders dışı ilave çalışmalar
+MADDE 19 – (1) Ödev ve ders dışı ilave çalışmalar; öğrencilerin sınıf ortamında edindikleri bilgi ve becerilerini, sosyal ve akademik ortamlarda kullanabilme ve geliştirebilmelerini teşvik edici nitelikteki çalışmalarından oluşur. Ödev ve ders dışı ilave çalışmalar Yüksekokul Kurulunca belirlenen usul ve esaslara göre kısmen veya tamamen bilgisayar destekli ve/veya uzaktan öğretim ile yapılabilir.
