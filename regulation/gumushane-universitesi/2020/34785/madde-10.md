@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 10 – (1) Müdürün önerisi üzerine Merkezin faaliyet alanları konusunda eğitim ve araştırma deneyimine sahip Üniversite öğretim elemanları arasından iki kişi Rektör tarafından müdür yardımcısı olarak görevlendirilir. Müdürün görevi başında bulunmadığı zamanlarda, yerine belirlediği müdür yardımcısı vekâlet eder. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yerine getirirler.

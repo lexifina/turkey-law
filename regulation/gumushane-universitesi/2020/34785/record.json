@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-08-23",
+      "23.08.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31222",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2020/34785",
+  "published": "2020-08-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34785&MevzuatTertip=5",
+  "source_bytes": 34517,
+  "source_id": "8.5.34785",
+  "source_sha256": "8a5e3dba877a74f13d974d9279b84055592b6d8327e6e3baec509eb786af0072",
+  "text_status": "as-enacted",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ KARİYER GELİŞTİRME UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 1643
+}
