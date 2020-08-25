@@ -1,0 +1,2 @@
+Sınav Şartı
+Madde 5 — Sözleşmeli uzmanlar içim (Değişik ibare:RG-25/8/2020-31224) Yüksek Kurum Uzmanlığı Yönetmeliği hükümlerine göre ilân vererek ve aynı Yönetmelik esaslarına göre kurulacak sınav komisyonlarınca yazılı sınav ve mülakat yapılabileceği gibi, akademik kariyeri olanlar ve bulunmasında güçlük çekilenler veya yetişme özelliği bulunanlar 6. maddede açıklanan şartlarla Yönetim Kurulu kararı ile sınavsız olarak da alınabilirler.

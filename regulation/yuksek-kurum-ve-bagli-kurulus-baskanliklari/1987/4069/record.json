@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4069",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATATÜRK KÜLTÜR, DİL VE TARİH YÜKSEK KURUMU VE KURULUŞUNA DÂHİL KURUMLARDA SÖZLEŞMELİ UZMAN ÇALIŞTIRILMASI HAKKINDA YÖNETMELİK",
+  "number": "4069",
+  "issuer": "Yüksek Kurum ve bağlı kuruluş başkanlıkları",
+  "issuer_slug": "yuksek-kurum-ve-bagli-kurulus-baskanliklari",
+  "path": "regulation/yuksek-kurum-ve-bagli-kurulus-baskanliklari/1987/4069",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4069&MevzuatTertip=5",
+  "source_sha256": "bab4bb3887d1ac3bea379423d95f2bc8e153ba0f9140cf314e40069e45e6e078",
+  "source_bytes": 24727,
+  "published": "1987-07-22",
+  "gazette": "19525",
+  "in_force": "2020-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-08-25",
+      "RG-25/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 792,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
