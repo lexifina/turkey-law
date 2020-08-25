@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-sisli-meslek-yuksekokulu/2013/17101",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 35 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-25/8/2020",
+  "first_law": null,
+  "gazette": "28551",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-25",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstanbul Şişli Meslek Yüksekokulu",
+  "issuer_slug": "istanbul-sisli-meslek-yuksekokulu",
+  "kind": "regulation",
+  "published": "2013-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17101&MevzuatTertip=5",
+  "source_id": "8.5.17101",
+  "source_sha256": "50e3119d391eaa4ed4ff856db15b231e6cbec5a6957b13ed62462b8d9b6dad49",
+  "title": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU ANA YÖNETMELİĞİ",
+  "university_id": 433,
+  "version_label": "oldest version available",
+  "word_count": 3091
+}

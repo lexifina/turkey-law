@@ -1,0 +1,5 @@
+Öğretim elemanları
+MADDE 18 – (1) Öğretim elemanlarının seçimi ve görevlendirilmeleri ilgili mevzuat hükümlerine göre, Mütevelli Heyet tarafından yapılır. Öğretim elemanları; profesör, doçent, yardımcı doçent, öğretim görevlisi, araştırma görevlisi, uzman, okutman ve diğer eğitim öğretim faaliyetlerinde görev yapan akademik personeli kapsar.
+(2) Tam zamanlı olarak çalışan öğretim elemanları Müdürün önerisi ve Başkanın onayı ile atanır. Kısmi zamanlı öğretim elemanlarının görev süreleri Mütevelli Heyet tarafından belirlenir.
+(3) Öğretim elemanlarının atanmalarında devlet meslek yüksekokullarına atamalarda aranan şartlara ilave olarak, Yüksekokulun gerekli gördüğü diğer şartlar da aranabilir. Öğretim elemanlarının temini ve atanmasında iş hayatındaki uzmanlık ve deneyimleri de göz önünde bulundurulur.
+(4) Öğretim elemanlarının görevlerini yapmaları, öncelikle bağlı bulundukları bölüm/program başkanı ve Müdür tarafından izlenir. Öğretim elemanlarının görev tanımları Yüksekokul Kurulu ve Yönetim Kurulu önerisi ile Mütevelli Heyetçe belirlenir.

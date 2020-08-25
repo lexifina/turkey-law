@@ -1,0 +1,2 @@
+Öğretim dili
+MADDE 25 – (1) Öğretim dili Türkçe’dir. 4/12/2008 tarihli 27074 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümleri çerçevesinde Yüksekokul Kurulunun önerisi, Mütevelli Heyetin kararı, Yükseköğretim Kurulunun onayı ile Yüksekokulun bazı bölüm ve programlarında kısmen veya tamamen Türkçe veya yabancı dillerde eğitim yapılmasına veya İngilizce dışında yabancı dillerin zorunlu ders olarak okutulmasına karar verilebilir.

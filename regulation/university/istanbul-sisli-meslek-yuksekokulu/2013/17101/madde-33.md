@@ -1,0 +1,4 @@
+İzinler ve özlük işleri
+MADDE 33 – (1) Yüksekokulda görev alacak olan akademik ve idari personelin çalışma esasları, 2547 sayılı Kanun hükümlerine tabidir. Bu personele aylık ve diğer özlük hakları bakımından ise 4857 sayılı İş Kanunu hükümleri uygulanır.
+(2) Akademik ve idari personel, 4857 sayılı Kanun hükümleri dahilinde ücretli izin kullanırlar. Akademik personelin izin kullanma tarihi, ilgili bölüm/program başkanı veya Müdür tarafından akademik takvime uygun olarak belirlenir. Müdürün izni Başkan, bölüm/program başkanlarının ve birim başkanlarının izni Müdür, diğer akademik personelin izni ise ilgili birim amirinin önerisi üzerine Müdür tarafından verilir.
+(3) Öğretim elemanları dışındaki personelin izni ise Müdürün önerisi ve Mütevelli Heyetin belirleyeceği esaslar çerçevesinde yürütülür.
