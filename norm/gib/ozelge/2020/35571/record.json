@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60757842-140-E.13552",
+  "source_id": 35571,
+  "date": "2020-08-25",
+  "title": "Taşınmaz üzerine inşa edilen bağımsız bölümün arsa malikleri adına tescil edildikten sonra tekrar malikler arasında paylaşımı nedeniyle kura çekimi sonrası hisselerin karşılıklı tapuda devir işleminin yapılması durumunda, 6306 sayılı Kanuna göre tapu harcından istisna tutulmasının mümkün olup olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35571",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "3f31c06b6f9494420796ab56cb2451aee70d4cb7ad6aacb39f0bb0948a8bcd9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
