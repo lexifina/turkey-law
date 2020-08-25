@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34791",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TURİZM İŞLETMESİ BELGELİ KONAKLAMA TESİSLERİNE BİSİKLET DOSTU KONAKLAMA TESİSİ BELGESİ VERİLMESİNE DAİR TEBLİĞ",
+  "number": "34791",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2020/34791",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34791&MevzuatTertip=5",
+  "source_sha256": "a5e73ae717fb9ad357f008b5d2c1758d0da89c06f58df7cf7db5691e48766590",
+  "source_bytes": 20767,
+  "published": "2020-08-25",
+  "gazette": "31224",
+  "in_force": "2020-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 719,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34791-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
