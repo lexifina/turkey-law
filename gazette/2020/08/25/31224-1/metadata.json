@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-08-25",
+  "issue": "31224",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Bilim Kurulu Çalışma Usul ve Esaslarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200825-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200825.htm",
+  "index_sha256": "4fdb0b8d4f473bedf0f0dc587a5f70bf734476c67a6b57a5ce39b5461d9bd1b1",
+  "index_header": "25 Ağustos 2020 ... 31224 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/08/20200825.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
