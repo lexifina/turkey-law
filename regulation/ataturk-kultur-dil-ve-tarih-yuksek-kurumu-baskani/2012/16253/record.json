@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.16253",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATATÜRK KÜLTÜR, DİL VE TARİH YÜKSEK KURUMU YÜKSEK DANIŞMA KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "16253",
+  "issuer": "Atatürk Kültür, Dil ve Tarih Yüksek Kurumu Başkanı",
+  "issuer_slug": "ataturk-kultur-dil-ve-tarih-yuksek-kurumu-baskani",
+  "path": "regulation/ataturk-kultur-dil-ve-tarih-yuksek-kurumu-baskani/2012/16253",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16253&MevzuatTertip=5",
+  "source_sha256": "251e879a67070276af7b58ce98755070736569295cb25f20c95c8b8d872d89ab",
+  "source_bytes": 23226,
+  "published": "2012-06-21",
+  "gazette": "28330",
+  "in_force": "2020-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-08-25",
+      "RG-25/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-08-25",
+      "25/8/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 558,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
