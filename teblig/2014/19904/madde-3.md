@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Banka: 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 3 üncü maddesinde tanımlanan bankaları,
+b) BDDK: Bankacılık Düzenleme ve Denetleme Kurumunu,
+c) İDMK: İpoteğe dayalı menkul kıymetleri,
+ç) İpotek finansmanı kuruluşu, İFK: Münhasıran bu Tebliğde belirtilen faaliyetlerin yerine getirilmesi amacıyla anonim şirket şeklinde kurulmuş olan sermaye piyasası kurumunu,
+d) İpotekli sermaye piyasası araçları: Kanunun 3 üncü maddesinin birinci fıkrasının (i) bendinde tanımlanan sermaye piyasası araçlarını,
+e) İTMK: İpotek teminatlı menkul kıymetleri,
+f) Kanun: 6362 sayılı Kanunu,
+g) Konut finansmanı: Kanunun 57 nci maddesinin birinci fıkrasında tanımlanan faaliyeti,
+ğ) Konut finansmanı fonu, KFF: İDMK karşılığında toplanan paralarla, İDMK sahipleri hesabına, inançlı mülkiyet esaslarına göre fon içtüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığını,
+h) Konut finansmanı kuruluşları: Konut finansmanı kapsamında doğrudan tüketiciye kredi kullandıran ya da finansal kiralama yapan bankalar ile BDDK tarafından konut finansmanı faaliyetinde bulunması uygun görülen finansal kiralama şirketleri ve finansman şirketlerini,
+ı) Kurul: Sermaye Piyasası Kurulunu,
+i) Mesleki özen ve titizlik ilkesi: Dikkatli ve basiretli bir kişinin aynı koşullar altında ayrıntılara vereceği önemi ve göstereceği dikkat ve gayreti,
+j) Önemli etkiye sahip ortak: İFK’nın sermaye veya oy haklarının dolaylı olarak % 10 veya daha fazlasını temsil eden paylara veya bu oranın altında olsa dahi genel kurulda yönetim kurulu üye sayısının salt çoğunluğuna karşılık gelen sayıda üyelikler için seçme veya aday gösterme hakkı veren imtiyazlı paylara sahip olan kişiyi,
+k) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+l) Varlıklar: İDMK, İTMK, varlığa dayalı menkul kıymet ve varlık teminatlı menkul kıymet ihracına konu edilebilecek nitelikteki kredi ve alacakları, ipotekli sermaye piyasası araçlarını, varlığa dayalı menkul kıymetleri, varlık teminatlı menkul kıymetleri ve Kurulca uygun görülen diğer varlıkları,
+m) Varlık finansmanı: Kanunun 57 nci maddesinin dördüncü fıkrasında tanımlanan faaliyeti,
+n) Varlık finansmanı fonu, VFF: Varlığa dayalı menkul kıymet karşılığında toplanan paralarla, varlığa dayalı menkul kıymet sahipleri hesabına inançlı mülkiyet esaslarına göre fon içtüzüğü ile kurulan ve tüzel kişiliği olmayan mal varlığını,
+o) Varlık kiralama şirketi, VKŞ: Münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulmuş olan sermaye piyasası kurumunu,
+ö) VDMK: Varlığa dayalı menkul kıymetleri,
+p) VTMK: Varlık teminatlı menkul kıymetleri,
+ifade eder.

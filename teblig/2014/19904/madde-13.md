@@ -1,0 +1,3 @@
+Bağımsızlık ilkesi
+MADDE 13 – (1) İFK yöneticileri ve personeli faaliyetlerinde bağımsız olmak zorundadırlar. Bağımsızlık, mesleki faaliyetin dürüst ve tarafsız yürütülmesini sağlayacak bir anlayış ve davranışlar bütünüdür. Yöneticilerin ve personelin faaliyetleri sırasında, dürüst ve tarafsız olmalarının yanında, bağımsızlıklarını ortadan kaldırabilecek özel durumların da bulunmaması şarttır.
+(2) İFK yöneticileri ve personeli çalışmaları sırasında ortaya çıkabilecek çıkar çatışmalarından uzak kalmak, dürüstlük ve tarafsızlıklarını etkileyebilecek müdahalelere imkan vermemek, ayrıca dürüstlük ve tarafsızlıklarını etkileyebilecek iş ve işlemlerden kaçınmak zorundadırlar.
