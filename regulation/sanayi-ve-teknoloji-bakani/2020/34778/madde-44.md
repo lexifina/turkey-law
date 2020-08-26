@@ -1,0 +1,2 @@
+Yeterlik sınav sonucunun belirlenmesi
+MADDE 44 – (1) Yeterlik sınav sonucu; bu Yönetmeliğin 35 inci maddesine göre belirlenen yetişme notunun %20’si, bu Yönetmeliğin 41 inci maddesine göre belirlenen yazılı sınav notunun %50’si ile bu Yönetmeliğin 43 üncü maddesine göre belirlenen sözlü sınav notunun %30’u alınarak belirlenir ve toplamda en az 70 puan alanlar yeterlik sınavında başarılı olmuş sayılırlar.

@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Müfettişlerin Çalışma ve Görevlendirilme Esasları
+Denetim programları ve görevlerin yürütülmesi
+MADDE 51 – (1) Yıllık planlı denetimler, Bakan onayı çerçevesinde önceden hazırlanan programlara göre yürütülür. Lüzumu halinde Bakanlık imza yetkileri düzenlemesi veya mevcut programdaki yetkilendirmeye dayandırılarak Başkan tarafından programda değişiklik yapılabileceği gibi Bakan onayı ile ek program da yapılabilir.
+(2) Başkanlıktan yazılı veya sözlü aksi yönde bir talimat olmadıkça işler, konunun kamu düzeni açısından önemi, zaman aşımı olup olmadığı gibi hususlar göz önüne alınarak görevlendirilen müfettiş veya yetkili müfettiş yardımcısı tarafından belirlenecek öncelik sırasına göre yürütülür. Mücbir durumlar hariç olmak üzere, bir görev üzerinde çalışılıyor olması diğer bir göreve başlanılmasına engel değildir.
+(3) Görev yazısında ayrıca belirtilmediği veya yıllık/hastalık izni gibi geçerli mazeretleri olmadığı takdirde müfettiş veya yetkili müfettiş yardımcıları kendilerine verilen görev yazısını takip eden iş günü işe başlamış sayılırlar. Görev yazısında belirtilen sürelere uyulması esastır. Ancak müfettiş veya yetkili müfettiş yardımcısı tarafından işlemlerin belirtilen sürelerde gerçekleşmeyeceğinin anlaşıldığı durumlarda Başkanlıkça ek süre verilebilir.

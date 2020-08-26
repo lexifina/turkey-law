@@ -1,0 +1,2 @@
+Genel durum raporu
+MADDE 68 – (1) Genel durum raporu; Başkanlığın bir yıllık faaliyetlerini, genel veya sektörel denetim çalışmalarını, yürütülen hizmetlerin genel durumunu, varsa alınabilecek önlemlere ilişkin görüş ve önerileri içerecek şekilde Bakana sunulmak ve ilgili mevzuatın belirlediği çerçevede Devlet Denetleme Kuruluna gönderilmek üzere Başkanlıkça veya görevlendirilecek müfettiş veya yetkili müfettiş yardımcıları tarafından düzenlenir.

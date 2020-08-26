@@ -1,0 +1,4 @@
+Yetişme notu
+MADDE 35 – (1) Müfettiş yardımcılarının yetişme notları; bu Yönetmeliğin 32 nci maddesinin sekizinci fıkrasına göre belirlenen teorik eğitim sonrası sınav notu, aynı maddenin on ikinci fıkrasında belirtilen tezin yeterli olması, bu Yönetmeliğin 33 üncü maddesinin dördüncü fıkrasına göre belirlenen Müfettiş yardımcısı eğitim notları ile bu Yönetmeliğin 34 üncü maddesine göre yetkili müfettiş yardımcısı olarak yaptıkları, inceleme, araştırma, soruşturma ve denetim ile ilgili her türlü çalışmanın ve düzenledikleri raporların yeterlik sınavı öncesinde Sınav kurulunca incelenip değerlendirilmesiyle saptanır.
+(2) Yetişme notu, 100 tam puan üzerinden Sınav kurulu üyelerinin ayrı ayrı verecekleri notların ortalaması alınarak saptanır ve sonucu bir tutanağa bağlanır.
+(3) Yetişme notunun ortalamasının 70’ten aşağı olması halinde müfettiş yardımcısı başarısız sayılır.

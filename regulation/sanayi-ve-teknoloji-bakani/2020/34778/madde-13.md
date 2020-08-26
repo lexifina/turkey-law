@@ -1,0 +1,8 @@
+Müfettiş ve müfettiş yardımcılarının sorumlulukları ile yasaklar
+MADDE 13 – (1) Müfettiş ve müfettiş yardımcıları; mevzuatla kendilerine tanınan yetkileri tam olarak kullanmaktan, genel hükümlerin tanımladığı geçerli mazeretleri olmadıkça görevlerini eksiksiz ve ön görülen zaman içerisinde yerine getirmekten sorumludurlar.
+(2) Müfettiş ve müfettiş yardımcıları, mesleğin gerektirdiği saygınlığı ve güven duygusunu sarsacak nitelikte davranışlarda bulunamazlar. Görevin başarıyla yerine getirilmesi, adil ve nesnel bir sonucun ortaya çıkması amacıyla dürüstlük, bağımsızlık, tarafsızlık, güvenilirlik ve yeterlik ilkelerini gözeten bir yaklaşım içinde olmak zorundadırlar. Müfettiş ve müfettiş yardımcıları görev sırasında Denetim Görevlilerinin Uyacakları Mesleki Etik Davranış İlkeleri Hakkında Yönetmelikte belirtilen mesleki etik davranış ilkelerine uymak zorundadırlar. Ayrıca;
+a) Denetime bağlı olanların icra işlerine karışamazlar.
+b) İnceledikleri belge ve defterlerde, işlemlerin denetlendiğini gösterir tarih ve imza dışında açıklama ve düzeltme yapamazlar.
+c) Teftiş, inceleme ve soruşturma için gidecekleri yerleri, yapacakları işleri, görevleri, dolayısıyla edindikleri gizli bilgi ve belgeleri açıklayamazlar, gizli yazıları başkalarına yazdıramazlar.
+ç) Teftiş, inceleme ve soruşturmayla görevli bulundukları sırada, bu işlerle ilgili kimselere konuk olamazlar, doğrudan veya dolaylı olarak soruşturmayla ilgili olanların hizmet ve ikramlarını kabul edemezler, bunlarla alış veriş yapamazlar, borç alıp veremezler.
+d) Beşeri ve sosyal ilişkilerin gerektirdiği hususlar bu yasakların dışındadır.

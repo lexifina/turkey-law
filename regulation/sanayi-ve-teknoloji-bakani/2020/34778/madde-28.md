@@ -1,0 +1,2 @@
+Sınav sonucuna itiraz
+MADDE 28 – (1) Müfettiş yardımcılığı giriş sınavının sonuçlarının Bakanlık internet sitesinde ilan edilmesi tarihinden başlayarak 5 (beş) iş günü içinde Başkanlığa dilekçe ile başvurmak suretiyle sınav sonuçlarına itiraz edilebilir. İtirazlar, Sınav kurulunca incelenir. Sınav kurulu incelemelerini en geç 10 (on) iş günü içerisinde tamamlar. Kurul, inceleme sonucunu bir tutanağa bağlayıp Başkanlığa sunar. Başkanlıkça inceleme sonucuna göre işlem yapılır. Karar ilgiliye yazılı olarak bildirilir.

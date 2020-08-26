@@ -1,0 +1,2 @@
+Sınav ilanı
+MADDE 16 – (1) Atama yapılacak kadroların sınıfları, dereceleri, sınava katılma şartları, başvuru yeri, başvuru tarihleri, Başkanlıkça belirlenecek KPSS puan türü veya türleri ile taban puanı, sınavın yapılacağı yer ve tarih, sınav konuları, başvuruda istenilecek belgeler ile gerekli görülen diğer hususlar; Resmî Gazete’de ve Bakanlık internet sitesinde sınav gününden en az 30 gün önce ilan edilmek suretiyle duyurulur.
