@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/649",
+  "source_id": 6815,
+  "date": "2020-08-27",
+  "title": "“Biyometrik imza verisinin kullanılmasına ilişkin görüş talebi” ile ilgili olarak Kişisel Verileri Koruma Kurulunun 27.08.2020 Tarihli ve 2020/649 Sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6815/2020-649",
+  "source_sha256": "3b12d652b8e2324afee0787321c9ce59d634f29bcd238fb68eca6423e3c9a85f",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
