@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "432",
+  "decision_date": "2020-08-27",
+  "source_id": 32193,
+  "chamber": "5",
+  "ilam_number": "218",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32193/",
+  "source_sha256": "99477954e299ac3935409992760447f71a86e84b981ca0da8302e6c639242b14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
