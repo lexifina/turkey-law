@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-08-27",
+      "27.08.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31226",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2020/34796",
+  "published": "2020-08-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34796&MevzuatTertip=5",
+  "source_bytes": 37615,
+  "source_id": "8.5.34796",
+  "source_sha256": "965bab84cabec0ec1e3a540f8c6263cfbf8cc2160a11bc18e1a19f28c1b8ff98",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ SÜRDÜRÜLEBİLİR ÇEVRE UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 1839
+}
