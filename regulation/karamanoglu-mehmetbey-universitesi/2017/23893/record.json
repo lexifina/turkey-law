@@ -1,0 +1,44 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-09-18",
+      "18.09.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-08-29",
+      "RG-29/8/2020-31228",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-29/8/2020-31228",
+  "first_law": null,
+  "gazette": "30184",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-29",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Karamanoğlu Mehmetbey Üniversitesi",
+  "issuer_slug": "karamanoglu-mehmetbey-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karamanoglu-mehmetbey-universitesi/2017/23893",
+  "published": "2017-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23893&MevzuatTertip=5",
+  "source_bytes": 28886,
+  "source_id": "8.5.23893",
+  "source_sha256": "f4e6d75a79387c13ed61f46b6c8be94e90f9a1799f8472dcfcaa2dd55811c52f",
+  "text_status": "current-consolidated",
+  "title": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ GIDA GELİŞTİRME\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 311,
+  "word_count": 1135
+}
