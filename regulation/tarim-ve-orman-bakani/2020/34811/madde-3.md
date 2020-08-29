@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 4 üncü, 11 inci, 33 üncü, 34 üncü ve 36 ncı maddeleri ile 25/6/1973 tarihli ve 1766 sayılı Kanunla uygun bulunan Bakteriyolojik (Biyolojik) ve Zehirleyici Silâhların Geliştirilmesi, Yapımı ve Stoklanmasının Yasaklanması ve Bunların İmhasına İlişkin Sözleşmeye dayanılarak hazırlanmıştır.
