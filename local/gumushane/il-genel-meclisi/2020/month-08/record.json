@@ -1,0 +1,29 @@
+{
+  "number": "month-08",
+  "year": 2020,
+  "month": 8,
+  "title": "İl Genel Meclisi'nin 2020 yılı Ağustos ayında aldığı KARARLAR",
+  "decision_date": null,
+  "index_date": "2020-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2020",
+  "source": "https://www.gumushaneozelidare.gov.tr/agustos-2020-kararlari",
+  "official_page": "https://www.gumushaneozelidare.gov.tr/agustos-2020-kararlari",
+  "official_document": "https://www.gumushaneozelidare.gov.tr/kurumlar/gumushaneozelidare.gov.tr/İl Genel Meclisi/Kararlar/2020/2020_Agustos_karar.doc",
+  "source_sha256": "71d61c30fb9736b173084d5a4539044bf2da81c9680fc3ddf3463abb2d8ad48d",
+  "issuer": "Gümüşhane İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "İl Genel Meclisi'nin 2020 yılı Ağustos ayında aldığı KARARLAR",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "Ağustos 2020 Kararları"
+}
