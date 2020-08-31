@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-08-31",
+      "31.08.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31230",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-08-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nuh Naci Yazgan Üniversitesi",
+  "issuer_slug": "nuh-naci-yazgan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nuh-naci-yazgan-universitesi/2020/34807",
+  "published": "2020-08-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34807&MevzuatTertip=5",
+  "source_bytes": 29222,
+  "source_id": "8.5.34807",
+  "source_sha256": "b58c7df843f6665efffe7a37804624cfd7b1151e71c1aa70bc776c1b0e8dc447",
+  "text_status": "as-enacted",
+  "title": "NUH NACİ YAZGAN ÜNİVERSİTESİ UZAKTAN EĞİTİM UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 330,
+  "word_count": 1039
+}
