@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-175.02[2018/7.1-13]-636861",
+  "source_id": 37286,
+  "date": "2020-08-31",
+  "title": "Vakıf Üniversitesi'ne ait öğrenci yurtlarının çevre temizlik vergisinden muaf olup olmadığı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37286",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "3e21da658977b3dbcf23b7769204f99d3916f0b98c43689b21de9d017653adf5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
