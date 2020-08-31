@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "16700543-155[17-515-210]-47478",
+  "source_id": 34558,
+  "date": "2020-08-31",
+  "title": "Fesih ihbarnamelerinde damga vergisi ve noter harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/34558",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "eb246f0864c16917ecb40579d1dca663b5ff49b5763eab21941bfbd464d7ed10",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
