@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.34816",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 77)",
+  "number": "34816",
+  "path": "teblig/2020/34816",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34816&MevzuatTertip=5",
+  "source_sha256": "633a52a4cb11f5fe467b51b6b47eaee34e249a7c5d31c5bd6348faaacdc2bf4f",
+  "source_bytes": 7631,
+  "published": "2020-09-01",
+  "gazette": "31231",
+  "in_force": "2020-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2020)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 136,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34816-EK.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
