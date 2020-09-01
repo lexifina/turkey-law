@@ -1,0 +1,207 @@
+1 Eylül 2020 SALI
+Resmî Gazete
+Sayı : 31231
+TEBLİĞ
+Sanayi ve Teknoloji Bakanlığından:
+HARİCİ GÜÇ
+KAYNAKLARININ ÇEVREYE DUYARLI TASARIM
+GEREKLİLİKLERİNE DAİR TEBLİĞ (2019/1782/AB)
+(SGM:2020/5)
+Amaç
+MADDE 1 –
+(1) Bu Tebliğin amacı, 23/6/2010
+tarihli ve 2010/643 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan
+Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin
+uygulanmasına yönelik olarak harici güç kaynaklarının piyasaya arzına
+ve/veya hizmete sunulmasına ilişkin çevreye duyarlı tasarım
+gerekliliklerini belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Tebliğ harici güç
+kaynaklarını kapsar.
+(2) Bu Tebliğ;
+a) Gerilim dönüştürücülerini,
+b) Kesintisiz güç kaynaklarını,
+c) Güç kaynağı fonksiyonu olmayan batarya şarj
+cihazlarını,
+ç) Aydınlatma dönüştürücülerini,
+d) Medikal cihazlar için olan harici güç
+kaynaklarını,
+e) Etkin ethernet üzerinden güç sağlayan
+enjektörleri,
+f) Otonom cihazlar için olan bağlantı
+istasyonlarını,
+g) Üzerinde veya ambalajında “yalnızca … için yedek
+parça olarak kullanılan harici güç kaynağı” ifadesinin ve birlikte
+kullanılacağı birincil yük ürününün/ürünlerinin açıkça gösterilmesi
+şartıyla, sadece 1/1/2021 tarihinden önce piyasaya arz edilen belirli bir
+harici güç kaynağının yerine kullanılmak üzere yedek parça veya servis
+parçası olarak 1/4/2025 tarihinden önce piyasaya arz edilen harici güç
+kaynaklarını,
+kapsamaz.
+Dayanak
+MADDE 3 –
+(1) Bu Tebliğ; 10/7/2018 tarihli
+ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesine ve 23/6/2010 tarihli ve
+2010/643 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Enerji ile
+İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğe dayanılarak
+hazırlanmıştır.
+AB
+mevzuatına uyum
+MADDE 4 –
+(1) Bu Tebliğ; Avrupa Parlamentosu
+ve Konseyi’nin 2009/125/AB sayılı Direktifi uyarınca Harici Güç
+Kaynaklarının Çevreye Duyarlı Tasarım Gerekliliklerine Dair 278/2009/AT
+sayılı Komisyon Tüzüğünü yürürlükten kaldıran 2019/1782/AB sayılı Komisyon
+Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
+Tanımlar
+MADDE 5 –
+(1) Bu Tebliğin amaçları
+bakımından 1 inci maddede belirtilen Yönetmelikte yer alan tanımlara ek
+olarak;
+a) AB: Avrupa Birliğini,
+b) Alçak gerilimli harici güç kaynağı: Etiket çıkış
+gerilimi 6V’dan az, etiket çıkış akımı ise 550 mA’ya eşit ya da daha büyük
+olan harici güç kaynağını,
+c) Aydınlatma dönüştürücüsü: Çok düşük gerilimli
+ışık kaynaklarıyla birlikte kullanılan harici bir güç kaynağını,
+ç) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+d) Bilgi teknolojisi cihazı: Birincil fonksiyonu
+verinin ya da telekomünikasyon mesajlarının girişi, depolanması, gösterimi,
+erişimi, iletimi, işlemesi, anahtarlaması ya da kontrolü fonksiyonlarından
+biri veya bu fonksiyonların kombinasyonu olan ve tipik olarak bilgi
+transferi için çalışan bir veya daha fazla terminal portu ile donatılmış
+herhangi bir cihazı,
+e) Çoklu gerilim çıkışlı harici güç kaynağı: Şebeke
+gücü kaynağından sağlanan AC giriş gücünü eş zamanlı olarak daha küçük DC
+veya AC gerilim seviyesinde birden fazla çıkışa dönüştürebilen harici güç
+kaynağını,
+f) Elektrik kaynağı: 230 (±%10) Volt ve 50 Hz
+alternatif akıma sahip hattan sağlanan elektrik kaynağını,
+g) Eşdeğer model: Sağlanacak teknik bilgilerle aynı
+teknik özelliklere sahip olsa da aynı imalatçı, ithalatçı veya yetkili
+temsilci tarafından ayrı bir model tanımlayıcı ile farklı bir model olarak
+piyasaya arz edilen veya hizmete sunulan modeli,
+ğ) Etkin ethernet üzerinden güç sağlayan enjektör:
+Şebeke giriş gücünü daha düşük seviyede DC gerilim çıkışına dönüştüren, bir
+veya daha fazla ethernet giriş ve/veya çıkış portuna sahip, ethernet çıkış
+portuna bağlı bir veya birkaç cihaza güç aktaran ve sadece standart bir
+süreci takip eden uyumlu cihazı ya da cihazları algıladığında çıkış portuna
+anma gerilimi sağlayan cihazı,
+h) Etkin konum: Harici güç kaynağının girişinin
+şebekeye, çıkışının da birincil yüke bağlı olduğu durumu,
+ı) Etkin konum verimliliği: Harici güç kaynağı
+tarafından etkin konumda üretilen gücün o gücü üretmek için gerekli olan
+giriş gücüne oranını,
+i) Etiket çıkış gücü (Po): İmalatçı tarafından belirlenmiş
+maksimum çıkış gücünü,
+j) Gerilim dönüştürücü: 230 V’luk şebeke gerilimini
+karakteristik özellikleri benzer olacak şekilde 110 V’luk çıkış gerilimine
+dönüştürebilen cihazı,
+k) Harici güç kaynağı: Aşağıdaki özeliklerin tamamına
+sahip olan cihazı,
+1) Ana besleme kaynağından gelen alternatif akım
+(AC) girişini, bir veya birden çok daha düşük gerilim değerinde doğru (DC)
+veya alternatif (AC) akım çıkışına dönüştürmek üzere tasarlanan,
+2) Ana yükü teşkil eden bir veya birden fazla ayrı
+cihazla kullanılan,
+3) Ana yükü teşkil eden cihazdan veya cihazlardan
+ayrı olarak fiziksel bir muhafaza içinde bulunan,
+4) Ana yükü teşkil eden cihaza veya cihazlara
+erkek/dişi elektriksel bağlantılarla, kablolarla, kordonlarla veya diğer kablo
+bağlantılarıyla kablolu veya sökülebilir şekilde bağlanan,
+5) 250 W değerini aşmayan etiket çıkış gücüne sahip
+olan,
+6) Bu Tebliğin EK-I’inde yer alan ev ve ofis tipi
+elektrikli ve elektronik cihazlarla birlikte kullanılan.
+l) İç mekân: Radyo ve televizyon alıcılarının
+kullanımının söz konusu cihaza 10 metre mesafe içerisinde olmasının
+beklenildiği ortamı,
+m) Kesintisiz güç kaynağı: Şebeke enerjisi kabul
+edilemez bir gerilim seviyesine düştüğünde, otomatik yedekleme gücü
+sağlayan cihazı,
+n) Model tanımlayıcı: Belirli bir ürün modelini
+aynı markaya ya da aynı imalatçı, ithalatçı veya yetkili temsilciye ait
+diğer modellerden ayıran genellikle alfanümerik olan kodu,
+o) Ortalama etkin verimlilik: Etiket çıkış
+geriliminin %25, %50, %75 ve %100’lük değerlerindeki etkin konum
+verimliliklerinin ortalamasını,
+ö) Otonom cihazlar için bağlantı istasyonu: Hareket
+etmesini gerektiren görevlerini herhangi bir kullanıcı müdahalesi olmadan
+yerine getiren pilli bir cihazın şarj olmak için yerleştiği ve cihazın bağımsız
+hareketlerini yönlendirebildiği cihazı,
+p) Pil şarj cihazı: Çıkış arayüzü üzerinde
+sökülebilir bir pile doğrudan bağlanan cihazı,
+r) Yüksüz durum: Harici bir güç kaynağının
+girişinin şebekeye bağlı olduğu, çıkışının ise herhangi bir birincil yüke
+bağlı olmadığı durumu,
+ifade eder.
+Çevreye
+duyarlı tasarım gereklilikleri
+MADDE 6 –
+(1) Bu Tebliğ kapsamındaki harici
+güç kaynakları için Ek II’de yer alan çevreye duyarlı tasarım
+gereklilikleri uygulanır.
+Uygunluk
+değerlendirmesi
+MADDE 7 –
+(1) Enerji ile İlgili Ürünlerin
+Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde
+belirtilen uygunluk değerlendirme yöntemi, aynı Yönetmeliğin Ek- IV’ünde
+yer alan iç tasarım kontrol sistemi veya Ek-V’inde yer alan uygunluk
+değerlendirmesine ilişkin yönetim sistemine göre yerine getirilir.
+(2) Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde yer alan uygunluk
+değerlendirmesinin amaçları bakımından teknik dosya Ek-II’nin 2 nci
+maddesinin (c) bendinde listelenen parametrelerin beyan edilen değerlerini
+içerir.
+(3) Teknik dosyada, belirli bir model için yer alan
+bilgiler aşağıda belirtilen yöntemlerden herhangi biri veya her ikisi
+birden kullanılarak elde edildiğinde teknik dosya, söz konusu hesaplamanın
+ayrıntılarını, hesaplamanın doğruluğunu sağlamak için imalatçılar
+tarafından yapılan değerlendirmeyi ve uygun hallerde, farklı imalatçıların
+modelleri arasındaki kimlik beyanını içerir.
+a) Sağlanan teknik bilgilerle aynı teknik
+özelliklere sahip ancak farklı bir imalatçı tarafından üretilen bir model
+üzerinden,
+b) Aynı veya farklı bir imalatçının başka bir
+modelinden tasarım veya dış değerleme metodu temelinde yapılan hesaplama
+aracılığıyla.
+(4) Teknik dosya, model tanımlayıcıları da dâhil
+olmak üzere tüm eşdeğer modellerin bir listesini içerir.
+Piyasa
+gözetimi ve denetimi amaçlı doğrulama yöntemi
+MADDE 8 –
+(1) Bakanlık, Enerji ile İlgili
+Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 5 inci maddesinin
+ikinci fıkrasında belirtilen piyasa gözetimi ve denetimi kontrollerini
+yaparken Ek III’te belirtilen doğrulama yöntemini uygular.
+Gösterge
+niteliğinde ölçütler
+MADDE 9 –
+(1) Bu Tebliğin yürürlüğe girdiği
+tarihte piyasada bulunan en iyi performans gösteren ürün ve teknolojiler
+için gösterge niteliğindeki ölçütler Ek-IV’te belirtilmiştir.
+Danışma
+kurulu toplantılarına katılım
+MADDE 10 –
+(1) Bakanlık, bu Tebliğ ile ilgili
+olarak Avrupa Komisyonu tarafından oluşturulan harici güç kaynakları ile
+ilgili danışma kurulu toplantılarına katılım sağlar.
+Yürürlükten
+kaldırılan mevzuat
+MADDE 11 –
+(1) 27/8/2011 tarihli ve 28038
+sayılı Resmî Gazete’de yayımlanan Harici Güç Kaynaklarının Yüksüz Durumdaki
+Enerji Tüketimi ve Ortalama Aktif Verimi ile İlgili Çevreye Duyarlı Tasarım
+Gereklerine Dair Tebliğ (SGM-2011/11) yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 12 –
+(1) Bu Tebliğ 1/1/2021 tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 13 –
+(1) Bu Tebliğ hükümlerini Sanayi
+ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız
