@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[121-19/6]-229870",
+  "source_id": 24753,
+  "date": "2020-09-02",
+  "title": "Mükellefin ölümü nedeniyle verilen beyannamede tevkif yoluyla ödenen vergilerden mahsup imkanı bulunmayan vergi iade alacağının mirasçıların vergi borçlarına mahsup yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24753",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "357476302fc0396434fc1c34c1422539f5175a0726ebe52262992ad7a0bc5685",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
