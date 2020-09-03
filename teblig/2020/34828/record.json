@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34828",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2020/22)",
+  "number": "34828",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2020/34828",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34828&MevzuatTertip=5",
+  "source_sha256": "f17d5a8d0b399a40331782f0892e095267253bf9c4cda8628c376bd99a69171f",
+  "source_bytes": 12058,
+  "published": "2020-09-03",
+  "gazette": "31233",
+  "in_force": "2020-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 121,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "Ek-1%20Dokuma%20Kumaş%20Tasarımcısı%20(Seviye%206).docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
