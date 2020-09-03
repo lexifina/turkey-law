@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[23-18/11]-231275",
+  "source_id": 20794,
+  "date": "2020-09-03",
+  "title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu uyarınca, kadın hizmet erbabına kreş ve gündüz bakımevi hizmeti verilmek suretiyle sağlanan menfaatlere ilişkin istisna",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20794",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bcc65282441333fd05ed538deab0a439e42e4b0046dd19c76d6d11c209a09d08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
