@@ -1,0 +1,3 @@
+Ruhsat işlemi
+MADDE 9 – (1) Tabancanın cinsi, tipi ve seri numarası, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca şahsi silah envanterine ve personelin kimlik kartına işlenir. Ruhsat işlemleri, Kanun ile Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik esaslarına göre yürütülür.
+(2) Bu Yönetmelik hükümleri gereği yetkili personele bedeli mukabili satışı yapılarak kayıt ve takip işlemleri personelin şahsi silah envanterinde izlenilen tabancaların ruhsatlarına, ilgisine göre “Jandarma Genel Komutanlığı/Sahil Güvenlik Komutanlığının müsaadesi olmadan satılamaz, devredilemez, hibe edilemez.” şerhi işlenir.

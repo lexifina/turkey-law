@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34827",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞI PERSONELİNE GÖREVLERİNDE KULLANILMAK ÜZERE BEDELİ MUKABİLİ ZATÎ DEMİRBAŞ TABANCA SATIŞINA DAİR YÖNETMELİK",
+  "number": "34827",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/34827",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34827&MevzuatTertip=5",
+  "source_sha256": "2366e1a18accfd25d89b7d804e98ef46d1dd7bf9df9d154f9f2d64661423e6ad",
+  "source_bytes": 34353,
+  "published": "2020-09-03",
+  "gazette": "31233",
+  "in_force": "2020-09-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.09.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 884,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

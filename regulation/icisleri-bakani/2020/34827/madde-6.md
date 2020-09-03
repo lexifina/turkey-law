@@ -1,0 +1,3 @@
+Tabancaların bakım ve onarımı
+MADDE 6 – (1) Personelin görevde bulunduğu süre içerisinde, satışı yapılan zatî tabanca üzerinde, tabancanın orijinalliğini bozacak nitelikte tadilat yapılamaz, iz veya işaret konulamaz.
+(2) Personelin görevi sırasında, kusuru olmadan arızalanan tabancaların garanti kapsamı dışındaki tamiri, birlik imkânları dâhilinde, teçhizat (istihkak) silâhlara uygulanan şekilde yapılır. Bu tabancaların onarılamayacak kadar hasarlı duruma gelmesi veya çeşitli nedenlerle zayi olması halinde, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı tarafından envanter kaydı silinir. Bu şekilde zatî demirbaş tabancası envanter kayıtlarından silinen personele, ikinci kez zatî demirbaş tabanca satışı yapılmaz.
