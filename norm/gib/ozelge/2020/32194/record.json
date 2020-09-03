@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV5/I/28/2020/91]-E.231360",
+  "source_id": 32194,
+  "date": "2020-09-03",
+  "title": "Asansör Bakım ve Onarım Hizmetlerinde KDV Oranı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32194",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e8f81ce148dbd0a29c29c9e1107edc896750b29264771b5c863deb6e68c8fa9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
