@@ -1,0 +1,20 @@
+{
+  "applicant": "Y.K.",
+  "application_date": "2016-08-11",
+  "application_number": "2016/14347",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-06-02",
+  "id": "2118e997-9920-66f9-f41f-2293b2225718",
+  "in_force": "2020-09-03",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-09-03",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjIxMThlOTk3LTk5MjAtNjZmOS1mNDFmLTIyOTNiMjIyNTcxOA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3232be255d24213cfeb91fe0bd93e5801e0c04f59a29b6be55db527a1180e9d3",
+  "version_label": "as-enacted"
+}
