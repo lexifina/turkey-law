@@ -1,0 +1,5 @@
+Kurulun görev ve sorumlulukları
+MADDE 6 – (1) Kurul, konusu ve tarihi Oda Yönetim Kurulu ile birlikte belirlenen fotoğraf, film ve karikatür yarışmaları düzenler ve seçici kurullarını oluşturur. Yarışmaya katılan fotoğraf, film ve karikatürlerin sergilenmesi/gösterimi ve katalog olarak yayımlanması için gerekli çalışmaları yapar.
+(2) Odanın eğitim, sunum, broşür, afiş ve benzeri konularında kullanılmak ve bu alanlardaki Oda arşivini zenginleştirmek için gerekli çalışmaları yürütür ve yerbilimlerine özgün nitelikli eserleri araştırarak eser sahibi ile Ek-1’de yer alan telif hakkı sözleşmesini de yaparak Oda arşivini oluşturur.
+(3) Oda arşivine ait fotoğraf, saydam/slayt, film ve karikatürleri düzenler, geliştirir.
+(4) Oda üyelerine yönelik, fotoğraf çekim, sunum ve işleme teknikleri ile karikatürle ilgili eğitimleri planlar, Oda Yönetim Kuruluna sunar ve bu eğitimler TMMOB Jeoloji Mühendisleri Odası Yönetim Kurulunun 1/8/2017 tarihli ve 815 sayılı kararı ile kabul edilen TMMOB Jeoloji Mühendisleri Odası Eğitim Merkezi Yönetmeliği kapsamında yürütülür.
