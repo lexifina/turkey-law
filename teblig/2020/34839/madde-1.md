@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 12/9/2011 tarihli ve 2011/2257 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ürünlerin Enerji ve Diğer Kaynak Tüketimlerinin Etiketleme ve Standart Ürün Bilgileri Yoluyla Gösterilmesi Hakkında Yönetmeliğin uygulanmasına yönelik olarak, endüstriyel tip soğutmalı depolama kabinlerinin piyasaya arz edilmesi ve/veya hizmete sunulması ile ilgili etiketleme ve bunlara ait ilave ürün bilgilerinin temin edilmesine yönelik gereklilikleri belirlemektir.

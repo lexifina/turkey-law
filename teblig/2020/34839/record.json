@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34839",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ENDÜSTRİYEL TİP SOĞUTMALI DEPOLAMA KABİNLERİNİN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (SGM: 2020/4)",
+  "number": "34839",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2020/34839",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34839&MevzuatTertip=5",
+  "source_sha256": "a3726a76201b698cd1bc421fc827c7ac2a8beddba615f6780fe247524dd885cd",
+  "source_bytes": 45030,
+  "published": "2020-09-05",
+  "gazette": "31235",
+  "in_force": "2020-09-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.09.2020); own commencement article: \"Bu Tebliğ yayımı tarihinden bir yıl sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34839-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
