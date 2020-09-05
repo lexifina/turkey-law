@@ -1,0 +1,2 @@
+Geçici hüküm
+GEÇİCİ MADDE 1 – (1) 12/6/2019 tarihinden önceki dönemlere ait destek ödemelerine ait başvurular hakkında, 21/3/2016 tarihli ve 2016/8673 sayılı Bakanlar Kurulu Kararı ile bu Tebliğin 12 nci maddesiyle yürürlükten kaldırılan Yeraltı Kömür İşletmelerinde İşçi Maliyetlerine Uygulanacak Desteğe İlişkin Tebliğ (Sıra No: 1) hükümleri uygulanır ve ödemeler söz konusu hükümler çerçevesinde gerçekleştirilir.

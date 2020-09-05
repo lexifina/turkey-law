@@ -1,0 +1,3 @@
+Yanlış beyan üzerine yapılacak işlemler
+MADDE 11 – (1) Açık ve yer altı üretim yöntemi ile faaliyette bulunulan sahalarda, açık işletmelerden üretilen kömürün yer altı üretimi olarak beyan edilmesinin ve/veya dışarıdan kömür alındığının tespiti halinde, fazladan ödenen destek tutarı yasal faizi ile birlikte geri alınır.
+(2) Birinci fıkraya göre fazladan ödenen destek tutarı işverene ödenecek müteakip destek tutarlarından mahsup edilir ve fazladan ödenen destek tutarının tamamının mahsup edildiği ayı izleyen aydan itibaren 6 ay süre ile destek ödemesi yapılmaz. Fazladan ödenen destek tutarının müteakip aylardan karşılanamaması durumunda, karşılanamayan tutar genel hükümlere göre takip ve tahsil edilir.

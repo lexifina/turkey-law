@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.34575",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YER ALTI KÖMÜR İŞLETMELERİNDE İŞÇİ MALİYETLERİNE UYGULANACAK DESTEĞE İLİŞKİN TEBLİĞ",
+  "number": "34575",
+  "issuer": "Maden ve Petrol İşleri Genel Müdürü",
+  "path": "teblig/2020/34575",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34575&MevzuatTertip=5",
+  "source_sha256": "d917fd10a51b1d77f38da5c96bfb66d73f1c3acb341488e141672aed207339dd",
+  "source_bytes": 63646,
+  "published": "2020-06-03",
+  "gazette": "31144",
+  "in_force": "2020-09-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"5/9/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-09-05",
+      "5/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğin, a) 9 uncu maddesi 12/6/2019 tarihinden geçerli olmak üzere yayımı tarihinde, b) Diğer maddeleri yayımı tarihinde, yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3332,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34575-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
