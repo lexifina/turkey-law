@@ -1,0 +1,3 @@
+Uygunluk değerlendirmesi
+MADDE 6 – (1) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinin ikinci fıkrasında belirtilen uygunluk değerlendirmesi işlemleri, aynı Yönetmeliğin Ek-IV’ünde belirtilen iç tasarım kontrolüne veya aynı Yönetmeliğin Ek-V’inde belirtilen yönetim sistemine göre yapılır.
+(2) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde belirtilen uygunluk değerlendirmesi işlemleri kapsamındaki teknik dosya, bu Tebliğin Ek-II’sinin 2 numaralı paragrafı, Ek-V’inin 2(b) numaralı paragrafı ve Ek-VII’sinin 2(b) numaralı paragraflarında belirtilen bilgileri içermelidir.

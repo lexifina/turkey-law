@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğin amacı, 23/6/2010 tarihli ve 2010/643 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin uygulanmasına yönelik olarak, endüstriyel tip soğutmalı depolama kabinlerinin, hızlı soğutma kabinlerinin, yoğuşturma ünitelerinin ve proses çillerlerinin piyasaya arz edilmesi ve/veya hizmete sunulması ile ilgili çevreye duyarlı tasarım gerekliliklerini belirlemektir.
