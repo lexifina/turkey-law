@@ -1,0 +1,8 @@
+EUR.1 Dolaşım Belgesinin gümrük idaresince incelenmesi ve vize edilmesi
+MADDE 23 – (1) Gümrük idareleri ve Bakanlıkça yetkilendirilen kuruluşlar, EUR.1 Dolaşım Belgelerinin kurallara uygun olarak doldurulup doldurulmadığını kontrol edip belgede kayıtlı eşyanın 5 veya 6 ncı madde hükümleri gereğince Türkiye menşeli olduğu veya sayıldığı hususunda, ihracata ait diğer evrakı da inceleyerek kesin bir kanıya vardıktan sonra gerekli işlemleri tamamlar.
+(2) Birinci fıkra uyarınca gümrük idareleri;
+a) Dolaşım belgelerinin bu Yönetmelikteki şartlara uygun olup olmadığını,
+b) İhraç konusu eşyanın cins, nevi, nitelik ve miktar itibarıyla dolaşım belgesindeki kayıtlara uygun olup olmadığını,
+c) İhraç konusu eşyanın menşeli olduğunu veya sayıldığını,
+ürüne ve imalatında kullanılan girdilere ait diğer evrakın yanı sıra, nakliyeciler tarafından verilen kara, demiryolu, hava ve deniz taşımalarına ilişkin konşimento, manifesto, yük senetleri, fatura ve beyannameye eklenen diğer belgeleri ve gerektiğinde muhasebe kayıt ve defterlerini incelemek ve ihraç konusu eşyayı 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğindeki esaslara göre muayene etmek suretiyle kontrol eder.
+(3) EUR.1 Dolaşım Belgesi, Anlaşma ile sağlanan tercihli ticarette yazılı delil olarak ancak gümrük idaresinin mührü veya kaşesi ile hüküm ifade edeceğinden, 24 üncü maddenin ikinci fıkrasında belirtildiği şekilde alınan dökümde, belgenin (11) numaralı “Gümrük Vizesi” alanında elektronik sistem tarafından basılan ve beyanı değerlendirerek belgeyi vize eden gümrük idaresinin adı, vize tarihi, gümrük mührü veya kaşesi yer alır.

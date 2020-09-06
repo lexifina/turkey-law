@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34837",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ İLE BOLİVARCI VENEZUELA CUMHURİYETİ ARASINDAKİ TİCARETİN GELİŞTİRİLMESİ ANLAŞMASI ÇERÇEVESİNDE MENŞE KÜMÜLASYON SİSTEMİ KAPSAMI TİCARETTE EŞYANIN TERCİHLİ MENŞEİNİN TESPİTİ HAKKINDA YÖNETMELİK",
+  "number": "34837",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2020/34837",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34837&MevzuatTertip=5",
+  "source_sha256": "8f613232c51641fa5195229c94d6b0264ea4247fdb522a33d9e3aff3acc13436",
+  "source_bytes": 168398,
+  "published": "2020-09-06",
+  "gazette": "31236",
+  "in_force": "2020-09-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.09.2020); own commencement article: \"Bu Yönetmelik 21/8/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 21/8/2020 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5704,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34837-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

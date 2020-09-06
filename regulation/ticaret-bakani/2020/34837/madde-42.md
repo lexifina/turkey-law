@@ -1,0 +1,4 @@
+Anlaşmazlıkların çözümü
+MADDE 42 – (1) Bu Yönetmelik esasları çerçevesinde yapılacak uygulamada meydana gelecek tereddüt ve anlaşmazlıklar, bu Yönetmeliğe ilişkin işlemlerin yürütülmesiyle görevli kuruluşlarca Bakanlığa (Uluslararası Anlaşmalar ve Avrupa Birliği Genel Müdürlüğüne) iletilir.
+(2) Bu tereddüt ve anlaşmazlıklardan 38 ila 41 inci maddelerde belirtilen sonradan kontrol işlemlerine ilişkin olup Taraf ülkeler yetkili idarelerince kendi aralarında çözümlenemeyenler veya 1 inci maddede belirtilen Anlaşmanın “Menşeli Ürünler Kavramının Tanımı ve İdari İşbirliği Yöntemlerine İlişkin Ek III”ünün yorumlanmasında ortaya çıkan sorunlar Alt Komiteye sunulur.
+(3) Tatmin edici bir çözüme varılamaması halinde, etkilenen Taraf, Anlaşmanın “Anlaşmazlıkların Çözümü” bölümündeki anlaşmazlıkların çözümü mekanizmasına başvurabilir. Bu durumda, Alt Komitede yapılan değerlendirmeler, anlaşmazlıkların çözümü mekanizmasında oluşturulan danışma sürecinde dikkate alınır.

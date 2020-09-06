@@ -1,0 +1,7 @@
+Yeterli işçilik veya işlem görmüş ürünler
+MADDE 8 – (1) 5 inci maddeye göre tamamen elde edilmemiş ürünler (imalat işleminde üçüncü ülkeler menşeli girdi kullanılan ürünler), EK-2’de yer alan listede belirtilen şartlar yerine getirildiği takdirde yeterli derecede işçilik veya işlem görmüş olarak kabul edilir. EK-2’de yer alan listede belirtilen şartlar, Anlaşma kapsamındaki tüm ürünler için, bu ürünlerin imalatında kullanılan menşeli olmayan girdiler üzerinde yapılması gerekli işçilik ve işlemleri gösterir ve sadece bu girdilere ilişkin olarak geçerlidir. Aynı şekilde söz konusu listede o ürün için belirtilen şartları yerine getirerek menşe statüsü kazanmış bir ürün, başka bir ürünün imalatında kullanıldığı durumda, onun bileşiminde yer aldığı ürüne tatbiki mümkün şartlar kendisine uygulanmaz ve bu malların imalatında kullanılmış olabilecek menşeli olmayan girdiler dikkate alınmaz.
+(2) Birinci fıkrada belirtilen duruma rağmen, EK-2’de yer alan listede belirtilen şartlar uyarınca bir ürünün imalatında kullanılmaması gereken menşeli olmayan girdiler, ancak;
+a) Toplam kıymetlerinin, ürünün fabrika çıkış fiyatının % 10'unu geçmemesi,
+b) Menşeli olmayan girdilerin azami değeri olarak EK-2’de yer alan listede verilmiş olan yüzdelerin, bu bendin uygulanması suretiyle aşılmaması,
+şartı ile kullanılabilir.
+(3) Birinci ve ikinci fıkra hükümleri, üretim sırasında gerçekleştirilen işlem veya işçiliğin 9 uncu madde hükümlerine göre yetersiz sayılmadığı hallerde uygulanır.

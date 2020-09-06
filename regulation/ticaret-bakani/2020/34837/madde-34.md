@@ -1,0 +1,4 @@
+Ticari mahiyette olmayan eşyanın menşe ispatından muafiyeti
+MADDE 34 – (1) Küçük paketler halinde gerçek kişilerden gerçek kişilere gönderilen veya yolcuların zati ya da hediyelik eşyasının bir bölümünü oluşturan eşya; ticarete konu olmamaları, bu Yönetmelik gereklerini yerine getirdiklerinin beyan edilmesi ve bu beyanın doğruluğu hakkında şüphe bulunmaması halinde EUR.1 Dolaşım Belgesi istenmeksizin menşeli ürünler olarak kabul edilir. Posta yoluyla gelen eşyada beyan, gümrük beyanı üzerinde veya bu belgeye eklenen bir kağıt üzerinde yapılabilir.
+(2) Alıcıların, yolcuların veya ailelerinin şahsi kullanımına mahsus ürünler içeren arızi ithalat, eşyanın tabiatı ve miktarı itibariyle ticari bir amaç gözetilmediği bariz ise, ticari ithalat olarak kabul edilmez.
+(3) Birinci ve ikinci fıkralardaki ürünlerin toplam kıymetinin, küçük paketler halindeki eşyada 500 Avro’yu, yolcu zati ve hediyelik eşyasında 1200 Avro’yu geçmemesi gerekir.

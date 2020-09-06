@@ -1,0 +1,3 @@
+EUR.1 Dolaşım Belgesinin kullanıma hazır hale getirilmesi
+MADDE 24 – (1) Düzenlenen EUR.1 Dolaşım Belgesi fiili ihraç gerçekleştiği veya kesinleştiği anda ihracatçıya verilmek üzere hazır bulundurulur.
+(2) İhracatçılar veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcilerince, vize işleminin tamamlanmasından sonra elektronik sistem üzerinde yer alan bilgilerin 19 uncu maddeye göre belirlenen şekil şartlarını taşıyan ve aynı maddede belirtilen şekilde temin edilen yeşil meneviş zeminli matbu EUR.1 Dolaşım Belgesi üzerine yazıcı vasıtasıyla dökümü alınır. Dökümü alınan belgenin (12) numaralı “İhracatçının Beyanı” kutusu ihracatçı tarafından imzalanır.

@@ -1,0 +1,4 @@
+Sonradan kontrol talebi
+MADDE 38 – (1) İthalatçı ülke yetkili idareleri, EUR.1 Dolaşım Belgelerinin sonradan kontrolünü talep edebilir.
+(2) İthalatçı ülke yetkili idaresi, ihracatçı ülke yetkili idaresince verilen EUR.1 Dolaşım Belgelerinin gerçekliği veya eşyanın gerçek menşeine ilişkin bilgilerin doğruluğu hakkında makul bir şüphesi olduğunda veya sondaj usulü ile yapacağı kontrol sonucunda anılan belgeleri sonradan kontrol talebi ile 23 üncü madde hükümleri çerçevesinde onaylayan ihracatçı ülke yetkili idaresine geri gönderir.
+(3) İthalatçı ülke yetkili idareleri, EUR.1 Dolaşım Belgesi ve faturayı, yahut bu belgelerin birer kopyasını, gerektiğinde araştırmanın gerekçelerini de belirterek ihracatçı ülkenin yetkili idarelerine geri gönderir. EUR.1 Dolaşım Belgelerinde yer alan bilgilerin doğru olmadığı kanaatini uyandıran elde edilmiş tüm belge ve bilgi, kontrol talebini desteklemek üzere gönderilir.

@@ -1,0 +1,2 @@
+Parçalar halinde ithalat
+MADDE 30 – (1) İthalatçının talebi üzerine ve Bakanlıkça belirlenen şartlara binaen, Armonize Sistemin 2(a) Genel Kuralı anlamındaki birleştirilmemiş veya monte edilmemiş halde olan ve Armonize Sistemin XVI ncı ve XVII nci Bölümlerinde ya da 7308 ve 9406 no’lu pozisyonlarında yer alan ürünlerin, parçalar halinde ithal edilmesi halinde, bu tür ürünler için tek bir EUR.1 Dolaşım Belgesi, ilk parçanın ithalatı esnasında gümrük idaresine verilecektir.
