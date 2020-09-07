@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2018-08]-232727",
+  "source_id": 25796,
+  "date": "2020-09-07",
+  "title": "Toplu iş sözleşmesinden kaynaklanan işçi alacakları ve sendika aidatlarının belgelendirilmesi ile hakedişe ilişkin damga vergisinin hakediş faturasında gösterilip gösterilemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25796",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "53d8687a5ea69bf2a3e19365382442775368bd5e85aeaecb3eb592dc26b9be14",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
