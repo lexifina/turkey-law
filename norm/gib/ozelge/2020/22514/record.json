@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[327-2019-165]-232743",
+  "source_id": 22514,
+  "date": "2020-09-07",
+  "title": "Yap-İşlet-Devret kapsamında üretilen ve işletme hakkı süresi sonunda Bakanlığın belirleyeceği bir Kuruma devredilecek olan amortismana tabi iktisadi kıymetlerin itfası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22514",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b4e5f825a6317de200f86d03b22b72eff88e2a2697ebd6e686b7b9095c2fbc87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
