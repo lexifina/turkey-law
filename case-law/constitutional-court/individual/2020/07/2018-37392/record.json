@@ -1,0 +1,20 @@
+{
+  "applicant": "M.B.",
+  "application_date": "2018-12-25",
+  "application_number": "2018/37392",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2020-07-23",
+  "id": "a79005ba-454d-e8a1-1a0a-8d3d582386b3",
+  "in_force": "2020-09-08",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-09-08",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmE3OTAwNWJhLTQ1NGQtZThhMS0xYTBhLThkM2Q1ODIzODZiMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "00def54674b4bb9088de29f2ec868e60a12dba7200f2475260e3b280df223ddd",
+  "version_label": "as-enacted"
+}
