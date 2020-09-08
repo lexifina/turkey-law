@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-09-08",
+      "08.09.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31238",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-09-08",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gelişim Üniversitesi",
+  "issuer_slug": "istanbul-gelisim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gelisim-universitesi/2020/34840",
+  "published": "2020-09-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34840&MevzuatTertip=5",
+  "source_bytes": 22945,
+  "source_id": "8.5.34840",
+  "source_sha256": "da2613198bd4136cb770067aba9f74ec9672aa2f5654051a6e2b1cece2dcb3dd",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GELİŞİM ÜNİVERSİTESİ SİBER GÜVENLİK UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 321,
+  "word_count": 857
+}
