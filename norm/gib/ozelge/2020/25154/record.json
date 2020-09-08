@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "19579043-105-72388",
+  "source_id": 25154,
+  "date": "2020-09-08",
+  "title": "Belediyeler ve bağlı işletmeleri tarafından yapılan şehiriçi yolcu taşımacılığında Ba-Bs bildirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25154",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "6c983891413746682287e213fb0183dfb87c9fbdd0e843f2f47e63489dab6477",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
