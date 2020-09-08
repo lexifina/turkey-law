@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "473",
+  "decision_date": "2020-09-08",
+  "title": "-MEC.KAR.(Mut_Meydan 479, 485, 486 ADA).doc",
+  "listed_as": "473-MEC.KAR.(Mut_Meydan 479, 485, 486 ADA).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/473-meckarmut-meydan-479-485-486-adadoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/8-eylul-2020-meclis-kararlari",
+  "listing_sha256": "6e0a7d1234ee678e6a33cfc7f4b7d269ed64366b6c448e8b16534c5d3af96fb4",
+  "meeting_title": "8 EYLÜL 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
