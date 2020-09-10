@@ -1,0 +1,22 @@
+{
+  "number": "134",
+  "number_as_published": "2020/134",
+  "year": 2020,
+  "title": "Kadro ihdası",
+  "decision_date": "2020-09-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-eylul-ayi-meclis-kararlari/1783",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-134/1784",
+  "source_sha256": "d9d716f9139de5b90eb65582f3fd65fd83210fb69d036a4c0780ec1bc645bc45",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "951b86dcc8bf28f98e08c105296653d9f25192883c8068ee2285ac7db2ce08d1"
+}
