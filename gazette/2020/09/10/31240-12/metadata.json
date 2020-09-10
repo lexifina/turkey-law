@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-09-10",
+  "issue": "31240",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Yetkilendirilmiş Gümrük Müşavirliği Tebliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200910-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200910.htm",
+  "index_sha256": "8c411e68913c1f97afea332fe61439ec95d32a579fcc4028f02839e6f3648a47",
+  "index_header": "10 Eylül 2020 ... 31240 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200910.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
