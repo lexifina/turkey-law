@@ -1,0 +1,13 @@
+{
+  "number": "20-41/567-252",
+  "type": "Diğer",
+  "decision_date": "2020-09-10",
+  "publication_date": "2020-12-15",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=1a6fcf9e-3afb-4a85-9366-569090e7eb81",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=264",
+  "pdf_sha256": "7fc1475b57f08e402a9032fffaacc517eef9c5956e30e6b5647a44b7b963fa1a",
+  "pdf_bytes": "320649",
+  "pages": "7",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
