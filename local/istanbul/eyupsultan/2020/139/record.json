@@ -1,0 +1,22 @@
+{
+  "number": "139",
+  "number_as_published": "2020/139",
+  "year": 2020,
+  "title": "İller Bankasından teminat mektubu alınması",
+  "decision_date": "2020-09-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-eylul-ayi-meclis-kararlari/1783",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-139/1786",
+  "source_sha256": "d9d716f9139de5b90eb65582f3fd65fd83210fb69d036a4c0780ec1bc645bc45",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "466ee869b0057bfa9e29604eb21a2e2ab1bc4cc16a5892ab21faf7842b9bfc44"
+}
