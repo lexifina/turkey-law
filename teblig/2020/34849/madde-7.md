@@ -1,0 +1,6 @@
+Teminatlı menkul kıymetlere ve bir teminat içeren borçlanma araçlarına ilişkin hükümler
+MADDE 7 – (1) 21/1/2014 tarihli ve 28889 sayılı Resmî Gazete’de yayımlanan Teminatlı Menkul Kıymetler Tebliği (III-59.1)’nde düzenlenen teminatlı menkul kıymetlerin sahipleri ve herhangi bir surette teminat ile korunan borçlanma araçlarının sahipleri, sahip oldukları borçlanma araçlarını ilgilendiren konularda, ihraççının teminatsız borçlanma aracı sahiplerinden ayrı olarak kendi aralarında Tertip BASK oluştururlar. Tedavülde bulunan diğer borçlanma aracı sahipleri için Genel BASK hakkı saklıdır.
+(2) Teminatlı menkul kıymet sahipleri ve herhangi bir surette teminat ile korunan borçlanma aracı sahipleri Genel BASK toplantılarına katılamaz. Ancak;
+a) Kısmi teminata sahip olunması durumunda teminatsız kalan tutarlar için Genel BASK’a katılma hakkı doğar.
+b) Tertip BASK’ı oluşturan tertipler lehine yeni teminat oluşturulmasına karar verilmesi halinde yalnızca mevcut teminat varlığı etkilenen teminatlı menkul kıymet sahipleri ve/veya herhangi bir surette teminat ile korunan borçlanma aracı sahiplerinin Genel BASK’a katılma hakkı doğar.
+(3) İkinci fıkranın (a) bendi uyarınca toplantıya katılma hakkı olanların katıldığının tespitinden toplantı başkanlığı sorumludur.
