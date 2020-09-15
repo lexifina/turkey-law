@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "182",
+  "decision_date": "2020-09-15",
+  "source_id": 32055,
+  "chamber": "8",
+  "ilam_number": "1",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32055/",
+  "source_sha256": "ecd91f274635cb822f202b27e648dc21806a4a6440d9f5ed42a98d85cd781387",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
