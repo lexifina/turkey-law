@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48205",
+  "decision_date": "2020-09-16",
+  "source_id": 23095,
+  "chamber": "6",
+  "file_number": "44999",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23095/",
+  "source_sha256": "459ef5d5319b56505a2570ebe06138c6e75ace3cbca7c08ee11b760f35709943",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
