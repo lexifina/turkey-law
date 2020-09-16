@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.34862",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 400)",
+  "number": "34862",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2020/34862",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34862&MevzuatTertip=5",
+  "source_sha256": "be72f43c18078cb5fd94078bbe73453b8183c05e6ca8852df3a887c181355e05",
+  "source_bytes": 39598,
+  "published": "2020-09-16",
+  "gazette": "31246",
+  "in_force": "2020-09-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.09.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2270,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34862-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
