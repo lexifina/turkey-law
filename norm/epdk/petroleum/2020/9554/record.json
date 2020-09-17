@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9554",
+  "decision_date": "2020-09-17",
+  "title": "Savka Platform Ve Boru Hatları İnşaatı İşletmeciliği Nakliyat Akaryakıt İç Ve Dış Tic. A.Ş.’nin; PİL/2463-5/27374 sayılı iletim lisansı kapsamında faaliyette bulunan iletim tesisine ilişkin",
+  "resmi_gazete_date": "2020-09-20",
+  "resmi_gazete_number": "31250",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1m26c92Qy00=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1m26c92Qy00=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PC6zMZuRKAI="
+  ],
+  "source_sha256": "175b527a58514d40b1e17aa3d3f9fd4a757ec284caff6cdb2cf40ec654147a0e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-09-17",
+  "law_text_complete": true
+}
