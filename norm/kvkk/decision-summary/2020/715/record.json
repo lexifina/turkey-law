@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/715",
+  "source_id": 7017,
+  "date": "2020-09-17",
+  "title": "“Bir e-ticaret şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 17/09/2020 tarih ve 2020/715 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7017/2020-715",
+  "source_sha256": "7bbaf7cf4c68fdf10de10473166d808aa3c8623324c38d95c786f5539ab48e58",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
