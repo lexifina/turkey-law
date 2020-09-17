@@ -1,0 +1,13 @@
+{
+  "number": "20-42/577-257",
+  "type": "Diğer",
+  "decision_date": "2020-09-17",
+  "publication_date": "2020-12-28",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=65470595-6d75-423b-8d06-369e771e1134",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=263",
+  "pdf_sha256": "3f5cbfa1c9fa539300e998405053ec0ce34c53f02017e7d663f4736684a4a06c",
+  "pdf_bytes": "313614",
+  "pages": "6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
