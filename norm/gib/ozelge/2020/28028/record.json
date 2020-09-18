@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2017/245]-688000",
+  "source_id": 28028,
+  "date": "2020-09-18",
+  "title": "Bedelsiz satılacak marka hakkı devri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28028",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e7a3f8c3d7d83a2a88baf9dd56bab3933553b0d45c59d36deeb6f3c5ec2edcc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
