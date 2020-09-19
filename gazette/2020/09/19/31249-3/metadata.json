@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-09-19",
+  "issue": "31249",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Kadir Has Üniversitesi İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200919-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200919.htm",
+  "index_sha256": "ba106354d77ac83eec0fc9a976eb3aa3f5ec76e67f11984f2bc616e9f0853c66",
+  "index_header": "19 Eylül 2020 ... 31249 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200919.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
