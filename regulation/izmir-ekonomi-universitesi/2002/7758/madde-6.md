@@ -1,0 +1,6 @@
+Yönetim Kurulu
+Madde 6- (Değişik birinci fıkra:RG-14/1/2018-30301) Yönetim Kurulu; EKOSEM Müdürü, İzmir Ekonomi Üniversitesi Rektörü tarafından görevlendirilen üç kişi ve İzmir Ekonomi Üniversitesi Mütevelli Heyeti tarafından Mütevelli Heyeti üyeleri arasından belirlenen bir kişi olmak üzere toplam beş kişiden oluşur. Yönetim Kurulu üyelerinin görev süresi bir yıldır. Süresi dolan üyeler yeniden görevlendirilebilir. Süreleri bitmeden ayrılan üyelerin yerine kalan süreyi doldurmak üzere yenileri görevlendirilir.
+Yönetim Kurulu, EKOSEM Müdürü nün daveti üzerine her ay, gerekli durumlarda daha sık toplanır ve merkezin faaliyetlerini gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu salt çoğunlukla toplanır katılan üyelerin salt çoğunluğu ile karar alır.
+Yönetim Kurulu, EKOSEM Müdürüfnün her faaliyet dönemi sonunda hazırlayacağı faaliyet raporunun düzenlenmesine ilişkin esasları tespit eder, sunulan raporu değerlendirir, bir sonraki döneme ait çalışma programını düzenler.
+Eğitim programları sonunda başarı belgesi, sertifika ve benzeri belgelerin verilme koşullarını belirler ve Üniversite Senatosufna önerir.
+EKOSEM Müdürü ile birlikte EKOSEM bütçe taslağını hazırlar ve Mütevelli Heyetinin onayına sunulmak üzere Rektöre sunar.
