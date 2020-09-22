@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "433",
+  "decision_date": "2020-09-22",
+  "source_id": 32950,
+  "chamber": "5",
+  "ilam_number": "173",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32950/",
+  "source_sha256": "fe6ec922d03b304797880a253d8d098e4228eac74901a63ee46d42949df4a54d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
