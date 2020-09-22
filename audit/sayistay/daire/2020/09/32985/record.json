@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "433",
+  "decision_date": "2020-09-22",
+  "source_id": 32985,
+  "chamber": "5",
+  "ilam_number": "173",
+  "item_number": 36,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32985/",
+  "source_sha256": "4a330cf3aaa38781cfa2c49dc8fa8e298f196bd67183a123c615026b46951627",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
