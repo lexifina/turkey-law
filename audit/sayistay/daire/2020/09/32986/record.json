@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "433",
+  "decision_date": "2020-09-22",
+  "source_id": 32986,
+  "chamber": "5",
+  "ilam_number": "173",
+  "item_number": 37,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32986/",
+  "source_sha256": "94e92f0647e04c952af32e31dc291fcf41e948b50e833a1359dea02c8235afc9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
