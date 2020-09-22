@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "433",
+  "decision_date": "2020-09-22",
+  "source_id": 32984,
+  "chamber": "5",
+  "ilam_number": "173",
+  "item_number": 35,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32984/",
+  "source_sha256": "6c3190672062ab3174acec89e3a45c659fefd8656803dd204addbd33d6fb4c5f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
