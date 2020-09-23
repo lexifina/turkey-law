@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48243",
+  "decision_date": "2020-09-23",
+  "source_id": 21268,
+  "chamber": "2",
+  "file_number": "42614",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21268/",
+  "source_sha256": "9acdf0f5f32bbcc99ce84e2eae4173bf96d1fb8ef406a2ab56a2b5134ed1ce13",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
