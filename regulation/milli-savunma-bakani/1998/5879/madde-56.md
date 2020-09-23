@@ -1,0 +1,3 @@
+General ve amiraller için kıt’a görevi
+Madde 56- (Değişik birinci cümle:RG-26/12/2014-29217) General ve amiraller, korgeneral ve koramiralliğe yükselebilmek için tuğgeneral/tuğamiral ve tümgeneral/tümamiral rütbelerinde toplam en az 20 ay, orgeneral ve oramiralliğe yükselebilmek için ise korgeneral/koramiral, tümgeneral/tümamiral, tuğgeneral/tuğamiral rütbelerinde toplam en az 30 ay kıt’a görevi yapmak zorundadırlar. Kanunun 47 nci maddesinin birinci fıkrasının (f) bendi kapsamına girmeyen tümgeneraller ve tümamiraller ile tuğgeneraller ve tuğamiraller için kıt’a görevini yapmak zorunluluğu aranmaz.
+Hangi görevlerin kıt’a görevi sayılacağı, Genelkurmay Başkanlığınca çıkarılacak bir yönergede gösterilir.

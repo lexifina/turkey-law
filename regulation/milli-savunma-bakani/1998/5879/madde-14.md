@@ -1,0 +1,2 @@
+Sicil üstlerinin aynı şahıs olamayacağı
+Madde 14- Sicil belgesinin düzenlendiği tarihte bir subayın birinci, ikinci veya üçüncü sicil üstü aynı şahıs olamaz.

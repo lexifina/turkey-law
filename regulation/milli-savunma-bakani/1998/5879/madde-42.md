@@ -1,0 +1,2 @@
+Sicil notu ortalaması aynı olanların yeterlik derecesi
+Madde 42- Yeterlik derecesi sıralamasında, sicil notu ortalaması aynı olanların kendi aralarındaki öncelikleri için, bulunulan rütbedeki geçerli sicil notlarının ortalaması dikkate alınır. Bu durumda da eşitlik varsa, eşitlik bozuluncaya kadar sıra ile bir önceki rütbelerine ait geçerli sicil notlarının ortalamalarına bakılır. Eşitliğin bozulmaması hâlinde, bu Yönetmeliğin 93 ncü maddesinin birinci fıkrasının (d), (f) ve (g) bentleri hükümleri uygulanır.

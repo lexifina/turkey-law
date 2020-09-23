@@ -1,0 +1,3 @@
+Nasıp tarihleri lehlerine düzeltilenlerin kademe ilerlemeleri
+Madde 74- Çeşitli sebeplerle nasıp tarihleri lehlerine düzeltilenlerin yeni nasıp tarihlerine göre, Kanunun EK-VI Sayılı Cetvelindeki kademe intibakları, ilerleyebileceği bir kademe bulunmak şartıyla nasıp düzeltilmesi ile ilgili (Değişik ibare:RG-17/10/2014-29148) onay metninde yazılı tarihten; (Değişik ibare:RG-17/10/2014-29148) onay metninde tarih yoksa, onay tarihinden geçerli olarak yapılır. İlgili komutanlıklar veya kurum amirlikleri, nasıp düzeltme emirlerinin suretini maaş bordrosuna eklerler.
+Bu şekilde kademe ilerlemesi yapanlar, şartları taşıyorlarsa, müteakip 30 Ağustos tarihinde yeniden kademe ilerlemesi yapabilirler.

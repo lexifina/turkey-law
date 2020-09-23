@@ -1,0 +1,4 @@
+Özlük dosyalarının bulunacağı yerler ve muhafaza sorumluluğu (Değişik başlık:RG-21/8/2014-29095) (1)
+Madde 96- (Değişik birinci fıkra:RG-7/3/2006-26101) Subayların kıt’a özlük dosyası birinci sicil üstünde bulunur. Diğer özlük dosyası; asteğmen, teğmen, üsteğmen, yüzbaşı, binbaşı, yarbay ve albayların, Kuvvet Komutanlıkları (Mülga ibare:RG-23/2/2017-29988) (…) Personel Başkanlığında; general ve amirallerin, (Değişik ibare:RG-14/6/2017- 30096) Yüksek Askeri Şûra Sekretaryasında bulunur.
+(Değişik ikinci fıkra:RG-21/8/2014-29095)(1) Bunların usulüne göre muhafazasından; ilgili sicil üstleri ile Kuvvet Komutanlıkları (Mülga ibare:RG-23/2/2017-29988) (…) Personel Başkanlığı ve (Değişik ibare:RG-14/6/2017- 30096) Yüksek Askeri Şûra Sekretaryası sorumludur.
+Sicil üstleri, yazacakları sicillere dayanak olmak üzere astlarının, her hareket ve faaliyetlerinden kanaat sahibi olmaya çalışırlar.

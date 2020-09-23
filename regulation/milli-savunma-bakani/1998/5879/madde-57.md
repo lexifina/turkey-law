@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Terfide Özel Hükümler
+Belirli oranlarda sicil veya kıt’a hizmeti noksanı olanların rütbe terfii işlemleri
+Madde 57- Belirli oranlarla sicil mecburiyetini tamamlayamamak veya kıt’a hizmeti noksanı sebebiyle, rütbe terfii şartlarını kazanamamış subaylar hakkında aşağıdaki esaslara göre işlem yapılır :
+a. Belirli oranlarda sicil mecburiyetini; hava değişimi, atanma, kurs ve sair zorunlu nedenlerle tamamlayamayan teğmen, üsteğmen, yüzbaşı, binbaşı ve yarbaylar, bu şartı tamamladıkları tarihi takip eden 30 Ağustos tarihinde terfi edeceklerle birlikte, terfi işlemine tâbi tutulurlar. Terfi ettikleri takdirde nasıpları, emsalleri tarihine götürülür.
+Yedek subaylıktan muvazzaf subaylığa geçirilen teğmenler için, teğmenlik rütbesinde bir sicil yeterli sayılır.
+b. Kıt’a hizmeti noksanı nedeniyle rütbe terfi şartlarını kazanamamış olan teğmen, üsteğmen ve yüzbaşılar, kıt’a hizmetini tamamladıkları tarihi takip eden 30 Ağustos tarihinde terfi sırasına gireceklerle birlikte, terfi işlemine tâbi tutulurlar. Terfiye hak kazandıkları takdirde nasıpları, emsallerinin nasıp tarihine götürülür.
+c) (Ek:RG-6/5/2002-24747) Terfi sırasında olanlardan albaylar hariç olmak üzere 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun 38 inci maddesinin birinci fıkrasında yer alan belirli oranda sicil mecburiyetini, sicil belgelerinin düzenlenmesinden sonra, 30 Ağustos tarihine kadar tamamlayan ve haklarında üç aylık süreyi doldurduğu tarih itibariyle sicil belgesi düzenlenenlerin terfi işlemleri, terfi etmiş olan emsallerinin şartlarını haiz olmak kaydıyla Türk Silâhlı Kuvvetleri Personel Kanununun 33 üncü maddesinin birinci fıkrasına bağlı kalınmaksızın derhal yapılır. Terfi edenlerin nasıpları emsallerinin nasıp tarihine götürülür.

@@ -1,0 +1,3 @@
+Muayeneye sevk ve sağlık raporunun değerlendirilmesi
+Madde 108- (Başlığı ile birlikte değişik:RG-7/6/2013-28670)
+Muvazzaf astsubaylardan muvazzaf subay yazılı sınavını kazananların, (Değişik ibare:RG-23/2/2017-29988) Sağlık Bakanlığına bağlı engelli sağlık raporu vermeye yetkili sağlık teşkillerine sevk edilerek, sağlık bakımından elverişli olup olmadıkları saptanır. Sağlık raporu veya ön rapor, mülakattan önce kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personel Başkanlıklarında bulunacak şekilde gönderilir. Sağlık raporu veya ön raporu uygun olmayanlar mülakata alınmazlar.

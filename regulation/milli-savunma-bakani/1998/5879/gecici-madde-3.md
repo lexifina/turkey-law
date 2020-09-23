@@ -1,0 +1,1 @@
+Geçici Madde 3- 2 Eylül 1993 tarihinde görevde olan subaylara, bir üst rütbeye yükselinceye veya bulundukları rütbenin yaş haddine kadar, bu Yönetmelikle yürürlükten kaldırılan Subay Sicil Yönetmeliğinin 18 Haziran 1993 tarihli ve 21611 sayılı Resmî Gazete’de yayımlanan Yönetmelikle değişik 34 ve 65 nci maddelerinin uygulamasına devam edilir.

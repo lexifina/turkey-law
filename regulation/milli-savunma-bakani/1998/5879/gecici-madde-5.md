@@ -1,0 +1,1 @@
+Geçici Madde 5- Askeri hakim subaylar hakkında kanuni düzenleme yapılıncaya kadar, 26 Ekim 1963 tarihli ve 357 sayılı Askeri Hakimler Kanununun 24 Mayıs 1989 tarihli ve 3562 sayılı Kanunla değişik 12 nci maddesi ile öngörülmüş bulunan sicil belgelerinin uygulanmasına devam edilir.

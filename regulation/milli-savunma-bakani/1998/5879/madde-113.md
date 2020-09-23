@@ -1,0 +1,4 @@
+Okul ve kurslardaki öğretim ve eğitim
+Madde 113- Emsalleri arasında temayüz etmiş astsubaylardan seçme sınavlarını kazanmış ve kontenjana girmiş olanlar, geçirilecekleri subay sınıfları ile ilgili okul ve kurslarda öğrenim ve eğitime tâbi tutulurlar. Bu öğrenim ve eğitim, okullarının tâbi oldukları esasa göre yapılır. Öğrenim ve eğitim sonunda başarı gösteremeyenlerin, okulla ilişikleri kesilir ve kıt’alarına iade edilirler.
+En az dört yıl süreli fakülte veya yüksek okulu bitiren ve yapılan seçme sınavını kazanarak kontenjana girmiş olanlardan subaylığa nasbedilenler, ilk açılacak sınıfları ile ilgili subay sınıf okulları temel eğitimine, sınıfları ile ilgili okulları olmayanlar ise özel askerî eğitime tâbi tutulurlar. Başarı gösteremeyenler bir sonraki dönem eğitimine katılırlar. İkinci dönem eğitimde de başarı gösteremeyenler, görevlerine iade edilirler ve yeniden eğitime tâbi tutulmazlar.
+Bunların nasbedildikleri rütbeye ait bekleme süresi bir yıl uzatılır.
