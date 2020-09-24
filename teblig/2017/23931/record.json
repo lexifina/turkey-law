@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.23931",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İŞ EKİPMANLARININ PERİYODİK KONTROLLERİNİ YAPMAYA YETKİLİ KİŞİLERİN KAYIT VE EĞİTİMLERİNE İLİŞKİN TEBLİĞ",
+  "number": "23931",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2017/23931",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23931&MevzuatTertip=5",
+  "source_sha256": "f2d5fa34b19cf8f0f01c24b04c2fbf2b882f5d9344a7f6793a049b58bdff26a6",
+  "source_bytes": 42175,
+  "published": "2017-10-01",
+  "gazette": "30197",
+  "in_force": "2020-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-09-24",
+      "RG-24/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-24",
+      "24/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden itibaren bir ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1592,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
