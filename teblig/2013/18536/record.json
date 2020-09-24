@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.18536",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ASBEST SÖKÜMÜ İLE İLGİLİ EĞİTİM PROGRAMLARINA İLİŞKİN TEBLİĞ",
+  "number": "18536",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "path": "teblig/2013/18536",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18536&MevzuatTertip=5",
+  "source_sha256": "c2717c33ffc1a518db412410937d2f23a8484ee4d3902cc83d220c0053a91511",
+  "source_bytes": 21161,
+  "published": "2013-06-29",
+  "gazette": "28692",
+  "in_force": "2020-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-09-24",
+      "RG-24/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-24",
+      "24/9/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 524,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18536-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
