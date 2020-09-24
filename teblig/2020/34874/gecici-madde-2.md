@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) “19UY0401-5 Sayılı Florlu Sera Gazlı Cihazlar Teknik Personeli” başlıklı ulusal yeterlilik kapsamında verilen belgeler, Ozon Tabakasını İncelten Maddelere İlişkin Yönetmeliğin 21 inci maddesi doğrultusunda geçerlidir.

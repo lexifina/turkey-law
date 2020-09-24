@@ -1,0 +1,5 @@
+Bildirim
+MADDE 9 – (1) Florlu sera gazları içeren veya çalışması bu gazlara dayanan ekipmanlara müdahale eden ve ilgili faaliyetleri yürüten gerçek kişilerin Mesleki Yeterlilik Belgelerinde ve ilgili faaliyetleri yürüten tüzel kişilerin Hizmet Yeri Belgelerinde oluşan herhangi bir değişiklik Bakanlığa, MYK ve TSE tarafından elektronik olarak bildirilir.
+(2) Yapılan denetimler, denetimlere ilişkin yapılan işlemler ve benzeri konuları kapsayan bir önceki yıla ait sayısal verilerden oluşan rapor, TSE tarafından hazırlanarak yazılı ya da elektronik olarak her yıl 30 Mart tarihine kadar Bakanlığa iletilir.
+(3) Askıya alınan ve iptal edilen belgelere ve yetkilendirilmiş belgelendirme kuruluşlarına yapılan denetimlere ilişkin bir önceki yıla ait sayısal verilerden oluşan rapor, MYK tarafından, yazılı ya da elektronik olarak her yıl 30 Mart tarihine kadar Bakanlığa iletilir.
+(4) Belgesi iptal edilen gerçek kişilere ait bilgiler MYK ve Hizmet Yeri Belgesi iptal edilen tüzel kişilere ait bilgiler TSE tarafından iptal tarihinden itibaren 10 (on) iş günü içerisinde Bakanlığa bildirilir.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; 4/1/2018 tarihli ve 30291 sayılı Resmî Gazete’de yayımlanan Florlu Sera Gazlarına İlişkin Yönetmelik kapsamında florlu sera gazları içeren solvent, soğutma, iklimlendirme ve ısı pompası, yangın söndürme sistemleri, elektrikli şalt cihazları, frigorifik araçlarda bulunan soğutma ünitelerine müdahale eden ve ilgili faaliyetleri yürüten gerçek kişilerin ve soğutma, iklimlendirme ve ısı pompası, yangın söndürme sistemleri sektörlerinde ve elektrikli şalt cihazlarında ilgili faaliyetleri yürüten tüzel kişilerin belgelendirilmesine ilişkin usul ve esasları kapsar.
+(2) Bu Tebliğ, üretim tesislerinde florlu sera gazları içeren ekipman üreticileri tarafından yerinde yapılan üretim ve onarım faaliyetlerine uygulanmaz.
