@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "403",
+  "decision_date": "2020-09-24",
+  "source_id": 32564,
+  "chamber": "7",
+  "ilam_number": "164",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32564/",
+  "source_sha256": "38992135f616b269c43fa992fbc72c27753fa6424322a003f726f792afe6885c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
