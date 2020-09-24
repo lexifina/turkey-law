@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-09-24",
+  "issue": "31254",
+  "edition": "regular",
+  "item": 31,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hukuk Muhakemeleri Kanunu Tanık Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200924-31.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200924.htm",
+  "index_sha256": "e7adf409231b9633c59a2cd713d20a4d114b4b937579e3b3204f8b7c14ab3f6e",
+  "index_header": "24 Eylül 2020 ... 31254 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/09/20200924.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
