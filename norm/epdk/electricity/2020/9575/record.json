@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9575",
+  "decision_date": "2020-09-24",
+  "title": "2021 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2020-09-27",
+  "resmi_gazete_number": "31257",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8gULROEjsU4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=8gULROEjsU4="
+  ],
+  "source_sha256": "532d2342e518e082315f25f5cb2e0e6210cfaa6308e96ededdff6b1a30ef9c15",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-09-24",
+  "law_text_complete": true
+}
