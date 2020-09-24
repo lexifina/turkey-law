@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9566-2",
+  "decision_date": "2020-09-24",
+  "title": "Zorunlu Petrol Stoku ve Gelir Payı Yükümlülüklerine İlişkin Usul ve Esaslar Hakkında Kararda Değişiklik Yapılmasına Dair",
+  "resmi_gazete_date": "2020-09-27",
+  "resmi_gazete_number": "31257",
+  "categories": [
+    "Zorunlu Petrol Stoku Kupon Sistemi ve Gelir Payına İlişkin Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fa442wE1kG0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fa442wE1kG0="
+  ],
+  "source_sha256": "8bbf16b51b3db2ed61713d2196cdab83781344793a2cb54f8100ac9bbad5090b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4728,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-09-24",
+  "law_text_complete": true
+}
