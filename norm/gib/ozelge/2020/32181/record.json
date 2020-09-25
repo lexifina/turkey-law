@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-20-208]-E.142959",
+  "source_id": 32181,
+  "date": "2020-09-25",
+  "title": "Kooperatifin üyeleri vasıtasıyla vermiş olduğu servis taşımacılığında uygulanacak KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32181",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "e08ee161c5a7641bcfdc4779d4f3ffa3d6a68ee4a840686d36803cc396d6a14a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
