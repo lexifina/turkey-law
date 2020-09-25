@@ -1,0 +1,6 @@
+Tazminatlı hayvan hastalıkları, tazminat oranları ve uygulamalar
+MADDE 4 – (1) Tazminatlı hayvan hastalıkları ve tazminat oranları ek-l'de belirtilmiştir. Tazminat ödenecek hayvanlar için tazminat bedeli, işletmenin bulunduğu mahallin rayiç bedelleri dikkate alınarak yerel kıymet takdir komisyonu tarafından belirlenir.
+(2) Bakanlık; bütçe imkânları, hastalıklarla ilgili bilimsel veriler ile eradikasyon ve kontrol programlarına göre, ek-l'de belirtilen tazminatlı hastalıklardan hangilerine tazminat ödemesi yapacağını, ödeme yapılacak yerleri ve uygulama zamanını belirler.
+(3) Tazminatlı hastalıklara yakalanan hayvanlar ile tazminatlı hastalıktan şüpheli hayvanlara el konulur. Bu hayvanların kesim, itlaf ya da imha işleminin gerçekleştirilmesine kadar, bakım masrafları sahibi tarafından karşılanmak üzere, sahibine yediemin olarak teslim edilir.
+(4) Tazminatlı hastalıklara yakalanan hayvanlar ile Bakanlığın kestirilmesini uygun gördüğü tazminatlı hastalıktan şüpheli hayvanlar otuz gün içerisinde kestirilir. Bu süre içerisinde uygun kesim yeri bulunamadığı takdirde söz konusu hayvanlar mahallinde Bakanlıkça itlaf ve imha edilir.
+(5) Tazminatlı hastalıklar nedeniyle kestirilen hayvanların sarf ve tüketimi mümkün olan et, deri ve diğer kısımlarının bedeli hak ettiği tazminattan düşülür.
