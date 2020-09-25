@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135-705416",
+  "source_id": 33633,
+  "date": "2020-09-25",
+  "title": "8418.50.19.00.00 G.T.İ.P. numaralı bar buzdolabı ve yatay tip teşhir soğutucusunun ÖTVye tabi olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33633",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "653b9c9c46b744a4050746de30bcd11e7ef1bceb45bb03205c31dcd34289700a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
