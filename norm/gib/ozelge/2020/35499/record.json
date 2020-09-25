@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "60938891-140.02.99[HARÇ: 10-2]-E.34646",
+  "source_id": 35499,
+  "date": "2020-09-25",
+  "title": "Kooperatiflere düzenlenecek imza sirkülerinde Noter Harcı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35499",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "05a801e8a10705a8a027b0d2dd383069ba3e4af13c0e3ca7e195b0cebd3b7ad4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
