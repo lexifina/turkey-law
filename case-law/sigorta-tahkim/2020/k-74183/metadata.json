@@ -1,0 +1,15 @@
+{
+  "number": "K-2020/74183",
+  "award_date": "2020-09-25",
+  "heading_as_published": "25.09.2020 Tarih ve K-2020/74183 Sayılı Hakem Kararı (Tekne)",
+  "issue": "Hakem Karar Dergisi 43 Temmuz - Eylül 2020",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs43.pdf",
+  "source_sha256": "429980f898f11da540b2b7f44f75055ffa4333648264191ae07520556986b108",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
