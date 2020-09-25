@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21253973-045-11905",
+  "source_id": 36701,
+  "date": "2020-09-25",
+  "title": "Kambiyo muamelelerinde BSMV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36701",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b61a78b16ba5d5972b5b3bfdc317263f9e1567d8454a8bc8ee87b2eea1646edd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
