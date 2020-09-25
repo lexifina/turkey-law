@@ -1,0 +1,2 @@
+Merkezi yurt dışında bulunan kartlı sistem kuruluşlarının Türkiye’de şube açmaları
+MADDE 7 – (1) Kanunun 4 üncü maddesinin dördüncü fıkrası uyarınca temsilcilik açmamak kaydıyla, merkezi yurt dışında bulunan kartlı sistem kuruluşlarının Türkiye’de şube açmalarına ilişkin olarak 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların İzne Tabi İşlemleri İle Dolaylı Pay Sahipliğine İlişkin Yönetmeliğin, birinci fıkrasının (e) bendi hariç 5 inci maddesi ve 6 ncı maddesi hükümleri uygulanır.

@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (1) Kartlı sistem kuran, kart çıkaran, üye işyeri anlaşması yapan kuruluşlar, kartlı işlemler için (Değişik ibare:RG-25/9/2020-31255) bilgi alışverişi yapan kuruluşlar ile üye işyerleri ve kart hamilleri bu Yönetmelik hükümlerine tâbidir.
+(2) Kendi işyerleri ile sınırlı olmak üzere, mal veya hizmetlerin vadeli satışı ile alıcının borç alacak durumunun izlenmesi amacıyla kart çıkaran veya sistem oluşturan veya herhangi bir kredilendirme işlemi yapılmaksızın veya hesaba bağlı olmaksızın önceden belirlenen bir tutarla sınırlı olmak üzere kart düzenleyen gerçek veya tüzel kişiler bu Yönetmelik hükümlerine tâbi değildir.

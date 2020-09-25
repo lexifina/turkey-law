@@ -1,0 +1,4 @@
+Uygulanmayacak hükümler (Değişik başlık:RG-25/9/2020-31255)
+MADDE 28 – (Değişik:RG-31/12/2013-28868)(5)
+(1) (Değişik:RG-6/7/2018-30470) Bankalar hakkında bu Yönetmeliğin 5, 8, 9, 11, 12, 13, 14, 15, 16 ncı maddeleri ile yedinci ve sekizinci fıkrası hariç 26 ncı maddesine ilişkin hükümleri uygulanmaz.
+(2) (Ek:RG-25/9/2020-31255) Kanun ve bu Yönetmelik hükümleri kapsamında üye işyerleri ile anlaşma yapma faaliyeti izni alan kuruluşların, 6493 sayılı Kanun kapsamında bankalar dışındaki ödeme hizmeti sağlayıcılarından biri olması halinde bu kuruluşlar hakkında bu Yönetmeliğin 12 nci maddesinin ikinci, üçüncü, beşinci ve dokuzuncu fıkraları, 14 üncü maddesinin birinci fıkrasının birinci cümlesi, 15 inci maddesinin beşinci ve altıncı fıkraları, 16 ncı maddesi, 26 ncı maddesinin birinci fıkrasına ilişkin hükümleri uygulanmaz.

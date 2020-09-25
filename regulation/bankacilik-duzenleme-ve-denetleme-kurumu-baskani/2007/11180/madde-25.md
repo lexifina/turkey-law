@@ -1,0 +1,3 @@
+Üye işyerleri
+MADDE 25 – (1) Üye işyerleri, kartın kullanımı sonucunda kart ve kart hamili ile ilgili edindikleri bilgileri, kanunla yetkili kılınan kişi, kurum ve kuruluşlar hariç olmak üzere kart hamilinin yazılı rızasını almadan başkasına açıklayamaz, tahsilât amacıyla saklanan harcamaya ait bilgi ve belgeler ile kart hamilince verilen yazılı onay çerçevesinde, dönemsel ödemelerin tahsili amacıyla muhafaza edilen bilgi ve belgeler hariç olmak üzere saklayamaz ve hiçbir şekil ve suretle kopyalayamaz.
+(2) Üye işyerleri, kart bilgilerini üye işyeri anlaşması yaptığı kuruluş dışındaki şahıs veya kuruluşlarla paylaşamaz, satamaz, satın alamaz ve takas edemez. Üye işyeri anlaşması yapan kuruluşlar, bu fıkranın uygulanmasını gözetmekle yükümlüdür.

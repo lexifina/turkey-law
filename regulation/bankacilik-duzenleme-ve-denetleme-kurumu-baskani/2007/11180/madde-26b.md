@@ -1,0 +1,7 @@
+Bilgi sistemlerinin tesisi
+MADDE 26/B – (Ek:RG-1/8/2009-27306) (1)
+(1) Kuruluş içinde tesis edilecek bilgi sistemleri, kuruluşun ölçeği, faaliyetlerinin ve sunulan ürünlerin niteliği ve karmaşıklığı ile uyumlu olarak yapılandırılır.
+(2) Bilgi sistemleri kuruluşla ilgili tüm bilgilerin elektronik ortamda güvenli bir şekilde saklanılmasına ve kullanılmasına imkan verecek yapıda tesis edilir. Bilgi sistemlerinin güvenilirliğinin sağlanması ve düzenli olarak güncellenerek gerekli değişikliklerin yapılması zorunludur.
+(3) Kuruluşlar, bilgi sistemlerinde kesilmeler yaşandığı durumlarda dahi faaliyetlerinin kesintisiz devam etmesinin sağlanmasına yönelik olarak, bilgi sistemlerinin bir tehlikeye maruz kalmadan kurtarılması ve benzeri konularda destek hizmeti alınması imkanlarını da dikkate almak suretiyle, faaliyetleri yeniden başlatma ve devamlılık sağlama planları oluşturmak ve bunları dönemsel olarak test etmek zorundadırlar.
+(4) Kuruluşların bilgi sistemlerinin unsurları ile kontrolüne ilişkin asgari usul ve esasları belirlemeye Kurul yetkilidir.
+(5) Beklenmedik durumlar nedeniyle mevcut verilerin kaybının önlenmesi amacıyla bir veri yedekleme merkezi oluşturulur. (Değişik ibare:RG-25/9/2020-31255) Bilgi alışverişi kuruluşları veri yedekleme merkezinin yerini, yurt içinde olmak kaydıyla veriye yetkisiz erişim risklerini de dikkate alarak acil ve beklenmedik durumların etki alanı dışında kalacak şekilde belirlerler.
