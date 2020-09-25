@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-130[KDV.2020.180]-E.146944",
+  "source_id": 32179,
+  "date": "2020-09-25",
+  "title": "Lunapark İçindeki Oyuncakların Kullanımında KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32179",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "5b1e8d8e976f96a986d096a7c5dc332e46359e0b903ef1aeb2c83735346a2d72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
