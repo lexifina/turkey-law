@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Siber güvenlik, kuantum hesaplama ve veri bilimi ile ilgili konularda ulusal ve uluslararası düzeyde Ar-Ge faaliyetleri yapmak, temel bilim kuramlarını oluşturan donanım ve yazılım mühendisliği alanında araştırmalar yürütmek.
+b) Teknolojinin sürdürülebilir bir biçimde geliştirilmesiyle kurulacak endüstri ilişkileri çerçevesinde Ülkemizin siber güvenlik, kuantum hesaplama ve veri bilimi teknolojilerinde yerli ve milli katma değerli yüksek teknoloji çözümleri üretmesini sağlamak.
+c) Siber güvenlik, kuantum hesaplama ve veri bilimi araştırmalarına dayalı teknoloji geliştirme suretiyle Ülkemizin ihtiyaçlarına yönelik uluslararası seviyede rekabetçi ve dışa bağımlılığı azaltan verimlilik artırıcı yenilikçi yöntem ve ürünleri uygulamaya koymak.
+ç) Siber güvenlik, kuantum hesaplama ve veri bilimi alanında yeni nesil yetişmiş nitelikli insan gücü ihtiyacını karşılamak üzere gereken eğitimleri tasarlamak, lisans/lisansüstü seviyelerinde programlar ve dersler oluşturulmasına katkıda bulunmak, akademik tez ve bilimsel yayın üretimini desteklemek, firmalara ve kamuya yönelik özel kurslar düzenlemek, ilgili tüm kurumsal ve uygulamalı eğitim faaliyetlerini koordine etmek.
+d) Ürettiği bilginin kullanımını yaygınlaştırmak ve siber güvenlik, kuantum hesaplama ve veri bilimi alanında farkındalığı artırmak için toplumun her kesimine yönelik eğitimler ve tanıtım faaliyetleri düzenlemek, sivil toplum kuruluşları ile iş birliği yapmak ve yaygın katılımı sağlamak.
+e) Faaliyetlerine destek sağlamak üzere siber güvenlik, kuantum hesaplama ve veri bilimi konularında ortaklıklar oluşturmak, proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.

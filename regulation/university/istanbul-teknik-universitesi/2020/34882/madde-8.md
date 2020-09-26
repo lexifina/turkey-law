@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Rektör tarafından Üniversitenin Elektrik ve Elektronik Fakültesi öğretim üyeleri arasından üç yıl için görevlendirilir. Müdürün önerisi üzerine en fazla 2 kişi, Rektör tarafından üç yıl süre ile müdür yardımcısı olarak görevlendirilir. Müdür, görevi başında bulunmadığı zaman yardımcılarından birini vekil bırakır. Göreve vekalet kesintisiz altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Süresi dolan Müdür aynı usulle yeniden görevlendirilebilir.
+(2) Süresi tamamlanmadan ayrılan veya görevden alınan Müdür yerine kalan süreyi tamamlamak üzere aynı usulle yeni Müdür görevlendirilir.
