@@ -1,0 +1,3 @@
+İhaleye katılımda yeterlik kuralları
+MADDE 5 – (1) Üniversite, 4 üncü maddede belirtilen temel ilkeler doğrultusunda, ihaleye katılacak isteklilerden, ekonomik ve mali yeterlik ile mesleki ve teknik yeterliklerinin belirlenmesine ilişkin ihtiyaç duyulan bilgi ve belgeleri ister.
+(2) Bu madde kapsamında istenen belgelerden hangilerinin taahhütname olarak sunulabileceği Üniversite tarafından belirlenir. Gerçeğe aykırı hususlar içeren taahhütname sunulması veya ihale üzerinde kalan istekli tarafından taahhüt altına alınan durumu tevsik eden belgelerin sözleşme imzalanmadan önce verilmemesi halinde bu durumda olanlar ihale dışı bırakılarak geçici teminatları gelir kaydedilir.

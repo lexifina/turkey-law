@@ -1,0 +1,4 @@
+Onay belgesi
+MADDE 10 – (1) İhalesi yapılacak her iş için bir onay belgesi hazırlanır. Onay belgesinde; ihale konusu olan işin nevi, niteliği, miktarı, varsa proje numarası, tahmini bedeli, kullanılabilir bütçe miktarı, avans verilecekse şartları, ihalede uygulanacak usul, ilanın metni ve geçici teminat miktarı belirtilir. Onay belgesinde ayrıca, şartname ve eklerinin bedelinin ne olacağı gösterilir.
+(2) İhale yetkilisi tarafından ihale onay belgesinin onaylanmasıyla birlikte ihale süreci başlar; taraflarca sözleşmenin imzalanması veya ihalenin iptali ile sona erer.
+(3) Ön ilan yapılması durumunda, bu ilandan önce ihale onay belgesi ihale yetkilisinin onayına sunulur. Bu belgeye sadece tahmini hesap cetvelinin eklenmesi yeterlidir. İhale veya ön yeterlik ilanı yayımlanmadan önce, yeniden ihale onay belgesi hazırlanarak ihale yetkilisinin onayına sunulur.
