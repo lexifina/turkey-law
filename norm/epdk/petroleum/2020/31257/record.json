@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "31257",
+  "decision_date": "2020-09-27",
+  "title": "Zorunlu Petrol Stoku Kupon Sistemine İlişkin Usul ve Esaslar Hakkında Karar (Son Hali)",
+  "categories": [
+    "Zorunlu Petrol Stoku Kupon Sistemi ve Gelir Payına İlişkin Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p0w5d9nE/Pw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=p0w5d9nE/Pw="
+  ],
+  "source_sha256": "4afc39e17dc94c13ae6f0742717c359787f9121aa8ce5708eee4620f824415b4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4728,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-09-27",
+  "law_text_complete": true
+}
