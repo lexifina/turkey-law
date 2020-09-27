@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce İstanbul Üniversitesi bünyesinde iken İstanbul Üniversitesi-Cerrahpaşaya aktarılan fakülte, yüksekokul, meslek yüksekokulu, enstitü, araştırma ve uygulama merkezleri bünyesinde mevcut döner sermaye işletmesi yönetmeliklerine göre başlanmış iş ve hizmetler sonuçlanıncaya kadar İstanbul Üniversitesi Döner Sermaye İşletmesi mevzuat hükümlerinin uygulanmasına devam olunur.
