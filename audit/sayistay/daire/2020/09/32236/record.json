@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "404",
+  "decision_date": "2020-09-28",
+  "source_id": 32236,
+  "chamber": "7",
+  "ilam_number": "156",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32236/",
+  "source_sha256": "e58f8f9d09173e08031e032f594d32a96f1c34f742b99210b97c9203d87c99cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
