@@ -1,0 +1,2 @@
+Danışma Kurulu ve görevleri
+MADDE 13 – (1) Danışma Kurulu, Rektör veya ilgili rektör yardımcısının başkanlığında yılda en az bir kez toplanır. Ancak Müdürün önerisi ve Rektörün/rektör yardımcısının gerekli gördüğü hallerde bir defadan fazla da toplanabilir. Danışma Kurulu, Merkezin danışma organı olup, kararları tavsiye niteliğindedir. Danışma Kurulu, Merkezin yapacağı işlere ilişkin görüş bildirir ve yeni tekliflerde bulunabilir.
