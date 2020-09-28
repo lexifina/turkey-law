@@ -1,0 +1,6 @@
+Süre
+MADDE 39 – (1) Doktora programının süresiyle ilgili esaslar şunlardır:
+a) Bilimsel hazırlıkta geçen süre hariç, tezli yüksek lisans derecesiyle kabul edilenler için kaydolduğu programa ilişkin derslerin verildiği dönemden başlamak üzere her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın sekiz yarıyıl olup azami tamamlama süresi on iki yarıyıl; lisans derecesiyle kabul edilenler için on yarıyıl olup azami tamamlama süresi on dört yarıyıldır.
+b) Gerekli kredili dersleri başarıyla tamamlamanın azami süresi tezli yüksek lisans derecesiyle kabul edilenler için dört yarıyıldır. Bu süreler sonunda öğretim planında yer alan AKTS kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya CC, DC, DD, FF, YZ veya DZ harf notu aldığı dersi/dersleri bulunan veya en az 2,50 (75) GNO’yu sağlayamayan öğrencinin programdan ilişiği kesilir.
+c) Kredili derslerini başarıyla tamamlayan, doktora yeterlik sınavında başarılı olan ve doktora tez önerisi kabul edilen ancak doktora tez çalışmasını (a) bendinde belirtilen on iki veya on dört yarıyıl sonuna kadar tamamlayamayan öğrencinin programdan ilişiği kesilir.
+ç) Öğrenci, programın mezuniyet koşullarını yerine getirdiği takdirde, programın süresinden önce de mezun olabilir.

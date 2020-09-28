@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 14 – (1) Öğrencilerin yarıyıl sonu sınavlarına girebilmeleri için kayıt yaptırdığı teorik dersin en az %70’ine, uygulama/laboratuvarların ise %80’ine devam etmiş olmaları gerekir. Uygulamalara devam esasları, EYK tarafından belirlenir. Bir dersten, Senato tarafından belirlenmiş haklı ve geçerli nedenlerden kaynaklı olsa dahi, devam koşulunu yerine getirmeyen ve/veya uygulamalardan başarılı olamayan öğrenci, o dersin dönem sonu ve bütünleme sınavlarına giremez. Ancak EYK tarafından Üniversiteyi veya Türkiye’yi temsilen görevlendirilen bir öğrenci, Rektörlük onayından sonra bu süreler içinde izinli sayılır.
+(2) Uzaktan öğretim programlarına kayıtlı öğrencilerin derslere devam koşulları, ilgili EABD başkanlığının önerisi ve EYK kararıyla belirlenir.
