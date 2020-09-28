@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "Yürürlük\nMADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n",
+  "first_law": null,
+  "gazette": "31258",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-09-28",
+  "in_force_basis": "source commencement article: enters into force on publication",
+  "issuer": "İzmir Demokrasi Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2020-09-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34877&MevzuatTertip=5",
+  "source_bytes": 28388,
+  "source_id": "8.5.34877",
+  "source_sha256": "1d90a232a60a1ddaf01ba860c3e583823f7f0fa6e2ac06c9add9c8c38bac08e4",
+  "structure": "article-files",
+  "text_status": "as-enacted",
+  "title": "İZMİR DEMOKRASİ ÜNİVERSİTESİ YAPAY ZEKA VE VERİ ANALİTİĞİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 471,
+  "version_label": "oldest version available",
+  "word_count": 1228
+}
