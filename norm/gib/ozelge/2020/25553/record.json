@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.41.15.02-105-83060",
+  "source_id": 25553,
+  "date": "2020-09-28",
+  "title": "Kalite problemi nedeniyle yurt dışında imha edilen ürünün maliyet bedelinin giderleştirilmesi, imha edilen ürüne ilişkin yurt dışı firma tarafından düzenlenen Debit Note veya ihracatçı tarafından düzenlenen Credit Note'un kayıtların tevsikinde kullanılıp kullanılamayacağı, yurt dışı firmaya verilecek ciro primi için düzenlenmesi gereken belge hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25553",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "a04e6dee0c5e0e4981fb1b87e2d5e44147e048ca0766d3b9de7b8bcde66655f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
