@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.34.17.01-130-711311",
+  "source_id": 25552,
+  "date": "2020-09-28",
+  "title": "Sipariş üzerine yurtiçinde imal ettirilen ve yurtdışındaki firmaya daha önce faturası düzenlenen özel kalıpların, yurtdışındaki firmanın talebi üzerine serbest bölgedeki temsilcisine gönderilmesinde belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25552",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "bf1564240cdadfc21f5e4e2ab8f81ceadf21e3482753214bb08b1373c948f255",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
