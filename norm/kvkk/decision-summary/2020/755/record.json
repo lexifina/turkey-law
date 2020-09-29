@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/755",
+  "source_id": 6955,
+  "date": "2020-09-29",
+  "title": "“İlgili kişinin aidat borcu bilgisinin site yönetimi tarafından ev sahibine iletilmesi” hakkında Kişisel Verileri Koruma Kurulunun 29/09/2020 tarihli ve 2020/755 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6955/2020-755",
+  "source_sha256": "2f19347f9d385c28060b2e2a5f9ad88826acee9ab83b3cbd3c1c37dd3cc4a47f",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
