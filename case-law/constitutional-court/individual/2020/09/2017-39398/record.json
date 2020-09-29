@@ -1,0 +1,20 @@
+{
+  "applicant": "K.K. (2)",
+  "application_date": "2017-12-04",
+  "application_number": "2017/39398",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-09-29",
+  "id": "c6c9a314-c301-06ce-959c-b1866ff8d14e",
+  "in_force": "2020-09-29",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM2YzlhMzE0LWMzMDEtMDZjZS05NTljLWIxODY2ZmY4ZDE0ZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "8ccf1d795e3e52c5f560e6806abc1cc4d074a0762b57f60add63811c50274db1",
+  "version_label": "as-enacted"
+}
