@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/744",
+  "source_id": 6997,
+  "date": "2020-09-29",
+  "title": "“Bir Bankanın veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 29.09.2020 tarih ve 2020/744 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6997/2020-744",
+  "source_sha256": "4b0ce61ad4799d0ea0da7080648aa3c1e936b34984158568096c6ea307f09539",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
