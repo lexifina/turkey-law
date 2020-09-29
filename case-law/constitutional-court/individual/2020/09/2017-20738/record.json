@@ -1,0 +1,20 @@
+{
+  "applicant": "H.K.",
+  "application_date": "2017-04-17",
+  "application_number": "2017/20738",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-09-29",
+  "id": "dd7f98bd-2926-38d7-ce4b-72d350efec2a",
+  "in_force": "2020-09-29",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmRkN2Y5OGJkLTI5MjYtMzhkNy1jZTRiLTcyZDM1MGVmZWMyYQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "696ee0f73b5cc2e19a32b52f28c0ec3df993c0363a4c4f7af19dbd9b891df398",
+  "version_label": "as-enacted"
+}
