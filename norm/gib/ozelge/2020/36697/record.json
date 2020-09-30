@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-180-149362",
+  "source_id": 36697,
+  "date": "2020-09-30",
+  "title": "Üniversitenin ilaç ithlataı için satı aldığı dövizlr üzerinden Kambiyo Muamelelerinde BSMV İstisnası hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36697",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "76fd49d4eb59d9e1a7665c71aecf57b4df6b0d4f289a7bc3af5efb7e6f79e40a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
