@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48272",
+  "decision_date": "2020-09-30",
+  "source_id": 22398,
+  "chamber": "5",
+  "file_number": "45505",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22398/",
+  "source_sha256": "4e6811bc4a37b91b664221191f120a84a5e4b3f140aaef38ae221dc269553911",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
