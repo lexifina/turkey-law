@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9579",
+  "decision_date": "2020-09-30",
+  "title": "1/10/2020 tarihinden geçerli olmak üzere, Elektrik Üretim Anonim Şirketi (EÜAŞ) tarafından uygulanacak aktif elektrik enerji toptan satış tarifesi hakkında",
+  "resmi_gazete_date": "2020-10-01",
+  "resmi_gazete_number": "31261",
+  "categories": [
+    "EÜAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YCmT+C4mukQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YCmT+C4mukQ="
+  ],
+  "source_sha256": "a74bbb3388d8f233ca834b16bb125567fddd6669bd40b1cef86ca1d45078aaa1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1522,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-09-30",
+  "law_text_complete": true
+}
