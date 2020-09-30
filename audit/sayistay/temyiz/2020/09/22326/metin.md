@@ -1,0 +1,7 @@
+Konu: Sosyal denge tazminatının yasayla belirlenen limitlerine uyulmaksızın ödenmesi.
+
+2-183 sayılı asıl ilamın 3’üncü maddesi ile, ... Belediye Başkanlığı ile ... Sendikası (...) arasında 30.03.2016 tarihinde imzalanan ve 0.... 0.... 2016-3.... 12.2017 dönemini kapsayan ek protokolün, avukat ve müfettişlere sosyal denge tazminatının yasayla belirlenen limitlerine uyulmaksızın ve ayrıca 1.... 04.2012 tarihinde uygulanmakta olan sözleşmeye yeni mali haklar getirecek şekilde düzenlenmeyle yasal sınırları aşan sosyal denge tazminatı ödemesi yapılması sonucunda oluşan toplam ....  TL’ye tazmin hükmü verilmiştir.
+
+İlam hükmüne ilişkin temyiz dilekçesi ve Başsavcılık karşılaması işbu tutanağın/ ilamın 1’inci maddesinde belirtildiği gibi olup sözü edilen maddede yer alan gerekçelerle;183 sayılı İlamın 3. maddesiyle verilen tazmin hükmünün, sorumluluk yönünden BOZULMASINA, sorumluluğun yalnızca sözleşmeyi akdeden belediye başkanının uhdesinde kalmak suretiyle, yeni hüküm tesisinin temini için dosyanın hükmü veren DAİREYE GÖNDERİLMESİNE, (işbu tutanağın/ilamın 1’inci maddesinde belirtilen Üye .... ’ın ilave gerekçesi ile .... Daire Başkanı ....  ve Üyeler .... , .... , .... , .... , ....  ve .... ’ın ayrışık görüş gerekçesi aynı kalmak üzere) 6085 sayılı Kanunun 26 ncı maddesi hükmü gereğince Başkanın bulunduğu taraf üstün tutulmak suretiyle,
+
+Karar verildiği 30.09.2020 tarih ve 48253 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
