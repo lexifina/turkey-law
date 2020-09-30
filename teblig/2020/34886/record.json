@@ -1,0 +1,36 @@
+{
+  "source_id": "9.5.34886",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2020/25)",
+  "number": "34886",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2020/34886",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34886&MevzuatTertip=5",
+  "source_sha256": "62defbe41a2a947a5297cc8fad32359d4708979c67a576aff88ae5412e5625e9",
+  "source_bytes": 9585,
+  "published": "2020-09-30",
+  "gazette": "31260",
+  "in_force": "2020-09-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.09.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 154,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "https://www.resmigazete.gov.tr/eskiler/2020/09/20200930-11-1.pdf",
+    "https://www.resmigazete.gov.tr/eskiler/2020/09/20200930-11-2.pdf",
+    "https://www.resmigazete.gov.tr/eskiler/2020/09/20200930-11-3.pdf",
+    "9.5.34886-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
