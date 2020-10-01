@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35632",
+  "decision_date": "2020-10-01",
+  "source_id": 33307,
+  "chamber": "2",
+  "ilam_number": "181",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33307/",
+  "source_sha256": "4b8fe7237f5d5c8aeac10b973f060c29dab2784c1c5c16166825f498ceb7b89a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
