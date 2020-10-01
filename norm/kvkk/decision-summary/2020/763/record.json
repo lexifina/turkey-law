@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/763",
+  "source_id": 7033,
+  "date": "2020-10-01",
+  "title": "“İnternetten market alışveriş hizmeti veren veri sorumlusunun veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 01.10.2020 tarih ve 2020/763 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7033/2020-763",
+  "source_sha256": "ddde10e901ef76324475d661dcb3dbdfb572479586bce5503dacacf11c89f0f9",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
