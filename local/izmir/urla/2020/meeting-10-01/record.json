@@ -1,0 +1,24 @@
+{
+  "number": "meeting-10-01",
+  "number_as_published": "meeting-10-01",
+  "year": 2020,
+  "title": "01 Ekim Meclis Kararları",
+  "decision_date": "2020-10-01",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2485/ekim-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2486/01-ekim-meclis-kararlari",
+  "source_sha256": "c2f08fdb5c720b66e3573005e9187f1ca3455187ab7e086264d8f1456e32c3e9",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01 Ekim Meclis Kararları (year 2020 from the official year list '2020 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Ekim Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2486/01-ekim-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
