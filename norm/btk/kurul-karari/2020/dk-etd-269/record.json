@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2020/DK-ETD/269",
+  "source_id": "2020/DK-ETD/269",
+  "date": "2020-09-22",
+  "title": "Mobil Elektronik Haberleşme Hizmetleri Azami Ücret Tarifesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/5bcf18ec-f408-4e7a-836c-27eada0407cf.pdf",
+  "source_sha256": "dae79c0c81053d54ae958a5214e9e07807f4db71e2cdaee53de8fa5bf330c6a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
