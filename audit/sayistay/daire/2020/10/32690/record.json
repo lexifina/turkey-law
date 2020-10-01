@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "751",
+  "decision_date": "2020-10-01",
+  "source_id": 32690,
+  "chamber": "6",
+  "ilam_number": "160",
+  "item_number": 33,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32690/",
+  "source_sha256": "8eb3f5eb9bf6c0ec7b5d3a657a1b1811c9b7104adccdacb0aeff5106b7532057",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
