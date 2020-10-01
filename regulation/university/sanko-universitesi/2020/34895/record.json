@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/sanko-universitesi/2020/34895",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31261",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-10-01",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Sanko Üniversitesi",
+  "issuer_slug": "sanko-universitesi",
+  "kind": "regulation",
+  "published": "2020-10-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34895&MevzuatTertip=5",
+  "source_id": "8.5.34895",
+  "source_sha256": "43a879579dcd4bdc29ffa6fea76fd64760be47a259dd33e764fe0309245456ba",
+  "title": "SANKO ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 441,
+  "version_label": "oldest version available",
+  "word_count": 6318
+}
