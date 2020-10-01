@@ -1,0 +1,5 @@
+Komisyonlar
+MADDE 7 – (1) İhale yetkilisi, Üniversitenin görevlilerinden birinin başkanlığında, ihale konusu işin uzmanı olmak şartıyla en az iki kişinin katılımıyla kurulacak komisyonları görevlendirir. İhale sürecindeki işlemlerin gerçekleştirilmesi amacıyla ihale komisyonunun; muayene ve kabul işlemleri için ise muayene ve kabul komisyonu kurulması zorunludur.
+(2) Komisyonlara yardımcı olmak üzere, ihale kararlarına katılmamak şartı ile gereği kadar personel ve uzman da görevlendirilebilir.
+(3) Komisyonlar üye tam sayısıyla toplanır. Komisyon kararları çoğunlukla alınır. Oyların eşit olması halinde başkanın bulunduğu taraf çoğunlukta kabul edilir. Kararlarda çekimser kalınamaz. Karşı oy kullanan üye, karşı oy gerekçesini kararın altına yazarak imzalamak zorundadır. Komisyon başkan ve üyeleri oy ve kararlarından sorumludur.
+(4) İhale komisyon başkanı, satın alma teklifi ile ihaleye ilişkin her aşamadaki belgelerin hazırlanmasını, bu belgelerin ihale yetkilisinin onayına sunulmasını, her bir ihale için ihale işlem dosyasının tutulmasını sağlamakla ve ihale yetkilisine karşı ihale işlemlerini yürütmekle görevli olan kişidir.
