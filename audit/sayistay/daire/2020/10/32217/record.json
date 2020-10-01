@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35631",
+  "decision_date": "2020-10-01",
+  "source_id": 32217,
+  "chamber": "2",
+  "ilam_number": "263",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32217/",
+  "source_sha256": "10fe24123d4f5993079f0d83e3ba1b5792f583f6632edcbc58bd2d85a9aa2497",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
