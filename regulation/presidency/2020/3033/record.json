@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3033",
+  "number": "3033",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KİMYASAL, BİYOLOJİK, RADYOLOJİK, NÜKLEER TEHDİT VE TEHLİKELERE DAİR GÖREV YÖNETMELİĞİ",
+  "published": "2020-10-01",
+  "enacted": "2020-09-30",
+  "gazette_number": "31261",
+  "in_force": "2020-10-01",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2020-10-01, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3033&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "da6d57e1a0aeb26df4c56d14f017bfc65ae63ff8faa302273a69eb12fdfea45e",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

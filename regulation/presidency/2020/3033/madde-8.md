@@ -1,0 +1,9 @@
+Çevre ve Şehircilik Bakanlığının görev ve sorumlulukları
+MADDE 8- (1) Bu Yönetmeliğin uygulanmasına ilişkin olarak Çevre ve Şehircilik Bakanlığının görev ve sorumlulukları şunlardır:
+a) KBRN maddelerinin çevre güvenliği ve insan sağlığına ilişkin risklerinin değerlendirilmesi ve bu maddelerle kirlenmiş alanların iyileştirilmesi ile ilgili olarak gerekli çalışmaları ilgili kurum ve kuruluşlarla iş birliği içerisinde yürütmek.
+b) KBRN olaylarının çevresel etkilerinin tespit edilmesi ve izlenmesi amacıyla çevresel unsurlardan (toprak, hava, su kaynakları ve benzerlerinden) numune alınmasını, alınan numunelerin güvenle ilgili birimlere sevk edilerek analizlerin yaptırılmasını sağlamak ve analiz sonuçlarına yönelik olarak Başkanlığa ve ilgili diğer kurumlara bilgi vermek.
+c) KBRN olayları sonucu ortaya çıkabilecek radyoaktif atıklar haricinde, olay yerinde ve sağlık tesislerinde dekontaminasyon sonucu oluşan atıklar dahil olmak üzere her türlü atık maddelerin ve işlevi biten numunelerin taşınması, depolanması ve bertaraf edilmesi ile ilgili işlemlerin gerçekleştirilmesini sağlamak ve bu konuda stratejilerin belirlenmesi amacıyla çalışmalar yapmak.
+ç) KBRN olaylarının çevresel etkilerini değerlendirmek ve çevrenin iyileştirilmesine yönelik çalışmaları yürütmek.
+d) Valiliklerin talebi üzerine, uzun süreli boşaltma veya tahliye durumlarında, hazineye ait arsa, arazi ve gayrimenkullerin geçici veya daimi olarak tahsisini sağlamak.
+e) Yer altı ve yer üstü sularının, denizlerin ve toprağın korunması, kirliliğin önlenmesi veya bertaraf edilmesi amacıyla, kirletici unsurlar ile kirliliğin giderilmesi ve kontrolüne ilişkin usul ve esasları tespit etmek, uygulanmasın sağlamak ve acil müdahale planları yapmak veya yaptırmak.
+f) KBRN tehdit ve tehlikelerine karşı, illerde belediyeler vasıtasıyla şehir şebeke sularına yönelik güvenlik ve koruma önlemlerini almak, KBRN olayı meydana gelmesi durumunda ilgili birimleri aracılığıyla gerekli çalışmaları yürütmek.

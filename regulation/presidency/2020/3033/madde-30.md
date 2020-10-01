@@ -1,0 +1,2 @@
+Yönerge hazırlanması
+MADDE 30- (1) Bu Yönetmelikte ve kurumların kendi özel mevzuatında belirtilen KBRN görevlerinin yerine getirilmesi için ilgili bakanlık, kurum ve kuruluşlarca, bu Yönetmeliğin yayımını müteakip bir yıl içinde Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehdit ve Tehlikelere Dair Görev Yönergesi hazırlanır. Yönerge, merkezde kurumların en üst amirlerince, illerde ise valilerce onaylanarak yürürlüğe konulur. Yönergenin bir nüshası onaylanmasından sonraki üç ay içerisinde Başkanlığa gönderilir.
