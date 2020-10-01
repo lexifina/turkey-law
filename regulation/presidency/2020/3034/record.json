@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3034",
+  "number": "3034",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "COĞRAFİ BİLGİ SİSTEMİ UZMANLIĞI YÖNETMELİĞİ",
+  "published": "2020-10-01",
+  "enacted": "2020-09-30",
+  "gazette_number": "31261",
+  "in_force": "2020-10-01",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2020-10-01, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3034&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "828e804561ce6de2490d658d6410a9a123f6a90a9ba7ad6a4e050983c2262b87",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

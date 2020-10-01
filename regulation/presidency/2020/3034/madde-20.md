@@ -1,0 +1,10 @@
+DÖRDÜNCÜ BÖLÜM
+Uzmanlık Tezi ve Yeterlik Sınavı
+Uzmanlık tezi ve tez danışmanı
+MADDE 20- (1) Genel Müdürlük tarafından, idarenin görev sahası ve coğrafi bilgi sistemleri ile ilgili konularda her bir idare için tez havuzu belirlenir. Tez havuzunda yer alan konu sayısı, ilgili idaredeki uzman yardımcısı sayısının iki katından az olamaz.
+(2) Uzman yardımcılarının tez konuları aylıksız izin, toplamda üç ayı aşan hastalık ve refakat izni hariç olmak üzere, adaylıkta geçen süre dahil en geç ikinci yılın sonuna kadar belirlenir.
+(3) İdare için belirlenen tez havuzundan uzman yardımcıları tarafından seçilen tez konusu, birim amirinin onayıyla kesinleşir.
+(4) Uzmanlık tezi; uzman yardımcısının ileri düzeyde araştırma becerisi kazanması, çalıştığı kurumun projelerinde planlama, uygulama, izleme ve değerlendirme faaliyetlerinin gerçekleştirmesinde uzmanlık kazandıracak düzeyde bilimsel esaslara uygun olarak hazırlanır. Tez konusu, tez danışmanının rehberliğinde daha önce uygulaması yapılmamış bir teorinin geçerliliğinin bilimsel esaslara uygun olarak test edilmesi, kurumsal soruna orijinal çözüm sunulabilmesi ve sunulan öneriyi desteklemek için nasıl bir yöntem geliştirilmesi gerektiği esasına dayanır.
+(5) Uzman yardımcısı, tez konusunun kesinleşmesine müteakip dörder aylık dönemlerde teze ilişkin yaptığı çalışmalar hakkında tez jürisi ile değerlendirme toplantısı gerçekleştirir.
+(6) Uzmanlık tezinin, aylıksız izin, toplamda üç ayı aşan hastalık ve refakat izni hariç olmak üzere, adaylıkta geçen süre dahil en geç üçüncü yılın sonunda birim amirine teslim edilmesi esastır. Süresi içerisinde tezini teslim edemeyenlere, birim amirince altı ayı aşmamak üzere ilave süre verilir.
+(7) Tez danışmanı, idarelerde 49 sayılı Coğrafi Bilgi Sistemleri Hakkında Cumhurbaşkanlığı Kararnamesi ile öngörülen işlerde görevli uzman, daire başkanı ve üstü personel arasından birim amirince belirlenir. Gerektiğinde Genel Müdürlükte görevli uzman, daire başkanı ve üstü personel arasından veya yükseköğretim kurumlarında görevli öğretim üyelerinden de tez danışmanı belirlenebilir.

@@ -1,0 +1,4 @@
+Yarışma sınavı duyurusu ve başvuru
+MADDE 10- (1) Atama yapılacak kadro ve/veya pozisyonların sayıları, öğrenim dallarına ve/veya idarelere göre kontenjanları, KPSS puan türleri, asgari taban puan ve puan sıralamasına göre kaç adayın davet edileceği, yarışma sınavına katılacak olanlarda aranan genel ve özel şartlar, müracaat tarihi, yeri, şekli ve istenecek belgeler, yarışma sınavının yeri, şekli, tarihi, sınav konuları ile ağırlık puanları ve diğer hususlar; sınava başvuru için öngörülen son tarihten en az otuz gün önce Resmî Gazete ile Cumhurbaşkanınca belirlenen kurumun, Bakanlığın ve talepte bulunan idarenin internet sayfasında ilan edilmek suretiyle duyurulur.
+(2) Yarışma sınavı başvurusu; sınav duyurusunda yer alan başvuru formuyla elektronik ortamda yapılır.
+(3) Başvuru formunda yer alan belge ve bilgilerin teyidi, ilgili kurum ve kuruluşlardan Bakanlıkça yapılır.
