@@ -1,0 +1,13 @@
+Yaygın ve süreklilik arz eden işlemler
+MADDE 10 – (1) Ortaklıklar ve bağlı ortaklıkları ile ilişkili tarafları arasındaki yaygın ve süreklilik arz eden işlemlerin kapsamı ve bu işlemlere ilişkin şartlar yönetim kurulu tarafından karara bağlanır. Söz konusu işlemlerin kapsamında ve şartlarında önemli bir değişiklik olması durumunda, konu hakkında yeniden yönetim kurulu kararı alınır.
+(2) Ortaklıklar ve bağlı ortaklıkları ile ilişkili tarafları arasındaki yaygın ve süreklilik arz eden işlemlerin bir hesap dönemi içerisindeki tutarının,
+a) Alış işlemlerinde kamuya açıklanan son yıllık finansal tablolara göre oluşan satışların maliyetine olan oranının,
+b) Satış işlemlerinde kamuya açıklanan son yıllık finansal tablolara göre oluşan hasılat tutarına olan oranının,
+%10’dan fazla bir orana ulaşacağının öngörülmesi durumunda, yönetim kurulu kararına ilaveten, ortaklık yönetim kurulu tarafından işlemlerin şartlarına ve piyasa koşulları ile karşılaştırılmasına ilişkin olarak bir rapor hazırlanır ve bu raporun tamamı veya sonucu KAP’ta açıklanır. Oranların hesaplanmasında, aynı nitelikteki işlemlerin toplu değerlendirilmesi esas olup, aynı ortaklık ile yapılan ve farklı nitelikteki işlemlerin her birinin ayrı birer işlem olarak değerlendirilmesi gerekir. Bağımsız yönetim kurulu üyelerinin çoğunluğunun söz konusu işlemleri onaylamaması halinde, muhalefet gerekçesinin KAP’ta açıklanması zorunludur.
+(3) İkinci fıkra kapsamında hazırlanacak raporlarda asgari olarak aşağıdaki hususlara yer verilmesi zorunludur:
+a) İşleme taraf şirketler hakkında ticaret unvanı, şirket ile ilgili olan faaliyetleri, halka açık olup olmadığı, yıllık bazda aktif toplamı, faaliyet karı, net satışlar gibi özet finansal veriler ve benzerlerini de içerecek bilgi.
+b) İşleme taraf şirketlerle olan ilişkilerin niteliği, ortaklığın faaliyetlerine olan etkisi hakkında genel bilgi.
+c) İşlemin dayandığı sözleşmenin tarihi, konusu, ticari sır niteliğinde olmamak kaydıyla sözleşmedeki önemli unsurlar, daha önce izahname gibi dokümanlarda yer verilmiş ise buna ilişkin bilgi.
+ç) İşlemin piyasa koşullarına uygunluğu değerlendirilirken esas alınan kriterler.
+d) İşlemin piyasa koşullarına uygun olup olmadığı hakkında değerlendirme.
+(4) Temettü dağıtımı, sermaye artırımı nedeniyle yeni pay alma hakkı kullanımı ve yöneticilerin mali haklarına ilişkin ödemeler ile menkul kıymet yatırım ortaklıklarının, gayrimenkul yatırım ortaklıklarının ve girişim sermayesi yatırım ortaklıklarının ilişkili taraflarından aldıkları portföy yönetimi, yatırım danışmanlığı ve sermaye piyasası araçlarının alım satımına aracılık hizmetleri ile bankaların ve finansal kuruluşların olağan faaliyetlerinden kaynaklanan ilişkili taraf işlemleri için bu madde hükümleri uygulanmaz.

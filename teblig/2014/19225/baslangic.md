@@ -1,0 +1,2 @@
+KURUMSAL YÖNETİM TEBLİĞİ
+(II-17.1)
