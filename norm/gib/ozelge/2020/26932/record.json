@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-24519]-729558",
+  "source_id": 26932,
+  "date": "2020-10-02",
+  "title": "Havalı tüfeğin amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26932",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e52e7b9aff89e8e6ae6ab84873b44c4311e1d58847fa4c65427981085dfdfe9e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
