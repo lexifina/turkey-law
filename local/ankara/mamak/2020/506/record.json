@@ -1,0 +1,23 @@
+{
+  "number": "506",
+  "number_as_published": "506",
+  "year": 2020,
+  "title": "Diriliş Mahallesinde bulunan 72 adet taşınmazın ihale ile satışı veya trampa (takas) edilmesi için Belediye Başkanına yetki verilmesine ilişkin Meclis Kararı",
+  "decision_date": "2020-10-05",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e7ea5c74-a84d-42bf-9790-c28fa4c044da",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 2020-10-05T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
