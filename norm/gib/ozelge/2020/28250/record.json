@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-125[KV-18-69]-E.114489",
+  "source_id": 28250,
+  "date": "2020-10-06",
+  "title": "Yurtdışında gerçek ve tüzel kişilere verilen tasarım, mimarlık ve montaj hizmetlerinden elde edilen gelirin kurumlar vergisi beyannamesinde indirim konusu yapılıp yapılmayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28250",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "c0d985ea767765799229171f2f8f5ff550c156608126ae94c5ea68d53cae5bd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
