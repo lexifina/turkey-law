@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "362",
+  "decision_date": "2020-10-06",
+  "source_id": 32222,
+  "chamber": "3",
+  "ilam_number": "145",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32222/",
+  "source_sha256": "8df0a3f51600d95261c0d865b8d59aef47cfb73bfa9d8f3058b61e2da0bb2e87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
