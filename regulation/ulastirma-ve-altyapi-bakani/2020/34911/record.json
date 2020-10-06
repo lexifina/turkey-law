@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34911",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KÖPRÜ DEPREM YÖNETMELİĞİ",
+  "number": "34911",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2020/34911",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34911&MevzuatTertip=5",
+  "source_sha256": "84685182049bf46ea99c44f38031712991a3f84db4c89cac4e81bb5fe6245636",
+  "source_bytes": 12753,
+  "published": "2020-10-06",
+  "gazette": "31266 Mükerrer",
+  "in_force": "2020-10-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinden bir yıl sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 164,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34911-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
