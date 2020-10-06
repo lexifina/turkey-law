@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.23490",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "OZON TABAKASINI İNCELTEN MADDELERE İLİŞKİN YÖNETMELİK",
+  "number": "23490",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23490",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23490&MevzuatTertip=5",
+  "source_sha256": "45deade1e1d0e7992c074e5abe48c9c6fdc5fd7cf518546c6019119a602fd1e5",
+  "source_bytes": 74083,
+  "published": "2017-04-07",
+  "gazette": "30031",
+  "in_force": "2020-10-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"6/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-06",
+      "6/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-28",
+      "RG-28/7/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-07-28",
+      "28/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3739,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23490-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
