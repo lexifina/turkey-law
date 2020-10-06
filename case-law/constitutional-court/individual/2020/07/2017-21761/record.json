@@ -1,0 +1,20 @@
+{
+  "applicant": "N.K.",
+  "application_date": "2017-04-24",
+  "application_number": "2017/21761",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-07-22",
+  "id": "3af8d78f-f0bb-ce32-32bc-9d19fbee7bfc",
+  "in_force": "2020-10-06",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-10-06",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNhZjhkNzhmLWYwYmItY2UzMi0zMmJjLTlkMTlmYmVlN2JmYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "cdf95de8ea089559c3345fb04087cd578a681810b968b14190a4572cd4cf8fcd",
+  "version_label": "as-enacted"
+}
