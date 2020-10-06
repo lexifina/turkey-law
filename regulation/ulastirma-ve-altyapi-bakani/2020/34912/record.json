@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34912",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE YALITIMLI VE SÖNÜMLEYİCİLİ KÖPRÜ VE VİYADÜKLER DEPREM YÖNETMELİĞİ",
+  "number": "34912",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2020/34912",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34912&MevzuatTertip=5",
+  "source_sha256": "dd591805ca7cd50aeae8cbdf6d236bd336068161297ad34b1c8de0edc760d0f7",
+  "source_bytes": 10193,
+  "published": "2020-10-06",
+  "gazette": "31266 Mükerrer",
+  "in_force": "2020-10-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinden bir yıl sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34912-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
