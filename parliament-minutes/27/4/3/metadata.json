@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 4,
+  "sitting": 3,
+  "sitting_date": "2020-10-07",
+  "listed_date": "07 Ekim 2020 Çarşamba",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/4/3/5e356636-7251-44b0-8353-b4409febee93.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=60fa7ae8-df1e-4586-add3-0185ceac628c",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=4",
+  "source_sha256": "dbd02861ed99284bcf017489cca338a373d95cb1bca19a27ad5d454ad73924eb",
+  "source_bytes": 743269,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
