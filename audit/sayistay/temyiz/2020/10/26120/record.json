@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48349",
+  "decision_date": "2020-10-07",
+  "source_id": 26120,
+  "chamber": "5",
+  "file_number": "45394",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26120/",
+  "source_sha256": "015c04313c57a87eaf065e6d5738fd4d7fd8e3398414129b3a00fc2bf5a5da84",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
