@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.23479",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ADALET BAKANLIĞI DİSİPLİN YÖNETMELİĞİ",
+  "number": "23479",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2017/23479",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23479&MevzuatTertip=5",
+  "source_sha256": "017462314f37c4025528a3e02ed2c985bdd4fd91af9756c14fc05f4f7c9deae2",
+  "source_bytes": 69671,
+  "published": "2017-04-05",
+  "gazette": "30029",
+  "in_force": "2020-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"7/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-07",
+      "7/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-15",
+      "RG-15/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-15",
+      "15/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3406,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23479-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
