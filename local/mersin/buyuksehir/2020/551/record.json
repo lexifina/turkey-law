@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "551",
+  "decision_date": "2020-10-08",
+  "title": "MEC.KAR. (akdeniz ihsaniye 10123 ada 4 parsel).doc",
+  "listed_as": "551 MEC.KAR. (akdeniz ihsaniye 10123 ada 4 parsel).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/551-meckar-akdeniz-ihsaniye-10123-ada-4-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-ekim-2020-meclis-kararlari",
+  "listing_sha256": "dffda3ba9c9bf06fc99d0e0300cf72c97846641c2041d0a7effdd55b7171c41d",
+  "meeting_title": "08 EKİM 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
