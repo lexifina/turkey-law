@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "8730",
+  "decision_date": "2020-10-08",
+  "title": "Farklılaştırılmış Akaryakıtlara İlişkin Kurul Kararının",
+  "repealed_note": "(Eski Versiyon)",
+  "categories": [
+    "Petrol Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=E+7ZOfuRXuw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=E+7ZOfuRXuw="
+  ],
+  "source_sha256": "9ee4b4dfc877ab3d9a7877f60bf167ea014c3a95db413946687b306dcbab93db",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14711,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2020-10-08",
+  "law_text_complete": false
+}
