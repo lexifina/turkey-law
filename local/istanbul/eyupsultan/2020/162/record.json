@@ -1,0 +1,22 @@
+{
+  "number": "162",
+  "number_as_published": "2020/162",
+  "year": 2020,
+  "title": "ESTUR tüzel kişi temsilcisi belirlenmesi",
+  "decision_date": "2020-10-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-ekim-ayi-meclis-kararlari/1821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-162/1828",
+  "source_sha256": "495564c0df56c2a5882e8d56f0fc7c9ab413bb2b61559cf944fc408e88d034bb",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.10.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "51f0ae63398a151ae040b39b0778796bee45c0d301f6b8d226b9d20c42b9670b"
+}
