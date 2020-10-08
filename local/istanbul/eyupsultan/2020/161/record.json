@@ -1,0 +1,22 @@
+{
+  "number": "161",
+  "number_as_published": "2020/161",
+  "year": 2020,
+  "title": "ESBAŞ tüzel kişi temsilcisi belirlenmesi",
+  "decision_date": "2020-10-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-ekim-ayi-meclis-kararlari/1821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-161/1827",
+  "source_sha256": "495564c0df56c2a5882e8d56f0fc7c9ab413bb2b61559cf944fc408e88d034bb",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.10.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "3a36e6d6c64302b7e083fbcfc19e0c44a4a6f8fb92ee30b31faef796566ab753"
+}
