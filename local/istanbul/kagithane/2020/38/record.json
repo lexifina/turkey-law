@@ -1,0 +1,22 @@
+{
+  "number": "38",
+  "number_as_published": "38",
+  "year": 2020,
+  "title": "Merkez Mah. H-120 pafta, 8488",
+  "decision_date": "2020-10-08",
+  "source": "https://www.kagithane.istanbul/kagithane_belediyesi/meclis/2020-Meclis-Kararlari/643/0/0",
+  "official_document": "https://www.kagithane.istanbul/images/pdf/meclis-karari/jpg/2020/38-2020.jpg",
+  "source_sha256": "22329382d0ec2f440eee728463a428d78a15d35cffa1121b67dd4d1f0f36a6c1",
+  "issuer": "Kağıthane Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Ekim 2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "subject_note": "subject (KARAR ÖZET) as the official list prints it; the list shows only its first ~30 characters"
+}
