@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[229-2019-243]-E.258628",
+  "source_id": 25793,
+  "date": "2020-10-08",
+  "title": "Kooperatife ait arsaların 3.kişilere satışının vergi kanunları karşısındaki durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25793",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "855460b5b419c5c826666f061baa3533942c1c5e8e215ea7d8a4f0fac75a904b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
