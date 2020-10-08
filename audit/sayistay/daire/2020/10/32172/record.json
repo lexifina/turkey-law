@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "184",
+  "decision_date": "2020-10-08",
+  "source_id": 32172,
+  "chamber": "8",
+  "ilam_number": "141",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32172/",
+  "source_sha256": "c9deee5c3597e0c2cdae8f7e9b2b61443b35f81b2608de6b74b319e93235e186",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
