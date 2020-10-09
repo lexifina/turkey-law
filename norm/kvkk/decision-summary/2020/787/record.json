@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/787",
+  "source_id": 6860,
+  "date": "2020-10-09",
+  "title": "“Sağlık sektöründe faaliyet gösteren bir şirketin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 09.10.2020 tarih ve 2020/787 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6860/2020-787",
+  "source_sha256": "9d3901332d0b7a857ebd43304d430ad3bf8c3b651c6f85f53e0a990a66201881",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
