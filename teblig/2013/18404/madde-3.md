@@ -1,0 +1,32 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (Değişik:RG-23/1/2014-28891)
+(1) Bu Tebliğde geçen;
+a) Altyapı şirketi: 8/6/1994 tarihli ve 3996 sayılı Bazı Yatırım ve Hizmetlerin Yap-İşlet-Devret Modeli Çerçevesinde Yaptırılması Hakkında Kanunda tanımlanan sermaye şirketini veya yabancı şirketi, altyapı yatırım hizmetlerini ilgili mevzuatta düzenlenen diğer kamu-özel işbirliği veya özelleştirme modelleri çerçevesinde yürütecek şirketi veya merkezi yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları, mahalli idareler ve kamu iktisadi teşebbüsleri tarafından yürütülen altyapı yatırım ve hizmetlerini gerçekleştirmek üzere kurulan şirketi,
+b) Altyapı yatırım ve hizmetleri: 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununda düzenlenen merkezi yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları, mahalli idareler ve kamu iktisadi teşebbüsleri tarafından yürütülen tarım, sulama, madencilik, imalat, enerji, ulaştırma, haberleşme, bilgi teknolojileri, turizm, konut, kültür, kentsel ve kırsal altyapı, belediye hizmetleri, kentsel dönüşüm, çevre, araştırma-geliştirme hizmetleri ile eğitim, sağlık, adalet, güvenlik, genel idare altyapısı ve benzeri yatırım ve hizmetleri ile bu yatırım ve hizmetlere ilişkin projeleri ve bunlara dayalı hakları,
+c) Bakanlık: Gümrük ve Ticaret Bakanlığını,
+ç) Birlik: Türkiye Sermaye Piyasaları Birliğini,
+d) Borsa: 6362 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan sistemler ve pazar yerleri ile yurt dışı borsaları,
+e) BİAŞ: Borsa İstanbul A.Ş.’yi,
+f) (Değişik:RG-2/1/2019-30643) Danışman şirket: Ortaklık ile yaptığı bir sözleşme çerçevesinde ortaklığa proje geliştirme ve kontrol hizmetleri de dahil olmak üzere ortaklık portföyünün geliştirilmesi ve alternatif yatırım imkanlarının araştırılmasına yönelik veya ortaklığa mali, hukuki veya teknik danışmanlık hizmetleri sunan şirketi,
+g) Gayrimenkul değerleme kuruluşu: Sermaye piyasasında değerleme faaliyetinde bulunacak değerleme kuruluşlarına ve değerleme faaliyetine ilişkin Kurul düzenlemelerinde tanımlanan şirketi,
+ğ) Halka açık pay: Merkezi Kayıt Kuruluşu A.Ş. nezdinde borsada işlem görebilir pay olarak izlenen payları,
+h) İdare: Yüksek Planlama Kurulunca altyapı yatırım ve hizmetlerini yaptırmak üzere altyapı şirketi ile sözleşme yapmaya yetkili kılınan ve/veya hizmetin asli sahibi olan kamu kurum ve kuruluşlarını,
+ı) İlişkili taraf: Türkiye Muhasebe Standartları çerçevesinde Kurulca belirlenen düzenlemelerde yer alan ilişkili tarafı,
+i) İşletme dönemi: İdare ile yapılan sözleşmede özel bir dönem belirtilmemişse, yatırım döneminin tamamlanarak tesisin gelir elde etmeye yönelik olarak faaliyette bulunduğu dönemi,
+j) İşletmeci şirket: Ortaklık ile yaptığı bir sözleşme çerçevesinde ortaklığın mülkiyetinde bulunan veya kiralamış olduğu otel, hastane, alış veriş merkezi, iş merkezi, ticari parklar, ticari depolar, konut siteleri, süper marketler ve bunlara benzer nitelikteki gayrimenkuller ile altyapı yatırım ve hizmetleri kapsamında kurulan tesisleri ticari maksatla işleten şirketi,
+k) Kanun: 6362 sayılı Sermaye Piyasası Kanununu,
+l) KAP: Kamuyu Aydınlatma Platformunu,
+m) Kurul: Sermaye Piyasası Kurulunu,
+n) Müteahhit: Ortaklık ile yaptığı bir sözleşme çerçevesinde, ortaklığın portföyünde yer alan projelerin inşaat işlerini gerçekleştirmeyi taahhüt eden gerçek ya da tüzel kişiyi,
+o) Nitelikli yatırımcı: Kurulun sermaye piyasası araçlarının satışına ilişkin düzenlemelerinde tanımlanan kişileri,
+ö) Ortaklık: Gayrimenkul yatırım ortaklığını,
+p) Ortaklık aktif toplamı: Bu Tebliğde aksi belirtilmedikçe, ortaklığın konsolide olmayan/bireysel finansal tablolarında yer alan aktif toplamını,
+r) Ortaklık portföyü: Ortaklığın aktifinde yer alan 4 üncü maddenin birinci fıkrasında sayılan varlık ve haklardan oluşan malvarlığını,
+s) SPL: Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu A.Ş.’yi,
+ş) Takasbank: İstanbul Takas ve Saklama Bankası A.Ş.’yi,
+t) TTK: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,
+u) TTSG: Türkiye Ticaret Sicili Gazetesini,
+ü) Yap-İşlet-Devret Modeli: 3996 sayılı Kanunda tanımlanan modeli,
+v) Yatırım dönemi: İdare ile yapılan sözleşmede özel bir dönem belirtilmemişse, altyapı yatırım ve hizmetleri ile ilgili her türlü inşaat, ihrazat, imalat, sondaj, tesisat, montaj ve benzeri işlemlerin bir bölümünün veya bütününün gerçekleştirildiği dönemi,
+y) Yönetim kontrolü: Tek başına veya birlikte hareket ettikleri kişilerle birlikte doğrudan veya dolaylı olarak ortaklığın oy haklarının yüzde ellisinden fazlasına veya genel kurulda yönetim kurulu üye sayısının salt çoğunluğuna karşılık gelen sayıda üyelikler için aday gösterme hakkı veren imtiyazlı payların çoğunluğuna sahip olunmasını
+ifade eder.

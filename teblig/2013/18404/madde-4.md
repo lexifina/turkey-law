@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Genel Esaslar
+Ortaklık tanımı
+MADDE 4 – (Değişik:RG-23/1/2014-28891)
+(1) Gayrimenkul yatırım ortaklığı, bu Tebliğ ile belirlenmiş usul ve esaslar dahilinde, gayrimenkuller, gayrimenkul projeleri, gayrimenkule dayalı haklar, altyapı yatırım ve hizmetleri, sermaye piyasası araçları, Takasbank para piyasası ve ters repo işlemleri, Türk Lirası cinsinden vadeli mevduat veya katılma hesabı, yabancı para cinsinden vadeli ve vadesiz mevduat veya özel cari ve katılma hesapları ile iştirakler ve Kurulca belirlenecek diğer varlık ve haklardan oluşan portföyü işletmek amacıyla paylarını ihraç etmek üzere kurulan ve Kanunun 48 inci maddesinde sınırı çizilen faaliyetler çerçevesinde olmak kaydı ile bu Tebliğde izin verilen diğer faaliyetlerde bulunabilen sermaye piyasası kurumudur.
+(2) Altyapı yatırım ve hizmetlerinden oluşan portföyü işleten ortaklıkların münhasıran bu faaliyette bulunmak üzere kurulmaları/dönüşmeleri zorunlu olup, ortaklık esas sözleşmesinde bu yönde hüküm bulunması zorunludur.
+(3) Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işletecek ortaklıklar altyapı yatırım ve hizmeti ile ilişkili olmayan gayrimenkuller, gayrimenkul projeleri ve gayrimenkule dayalı haklara yatırım yapamazlar. Bu Tebliğ kapsamındaki diğer ortaklıklar da, ana faaliyet konularına ilişkin gayrimenkul veya gayrimenkul projelerine bağlı olarak yürütülen ve arızi nitelik taşıyanlar hariç olmak üzere, altyapı yatırım ve hizmetleri ile bunlar kapsamındaki varlık ve haklara yatırım yapamazlar.

@@ -1,0 +1,90 @@
+{
+  "source_id": "9.5.18404",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GAYRİMENKUL YATIRIM ORTAKLIKLARINA İLİŞKİN ESASLAR TEBLİĞİ (III-48.1)",
+  "number": "18404",
+  "issuer": "Kurul",
+  "path": "teblig/2013/18404",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18404&MevzuatTertip=5",
+  "source_sha256": "7ea6bd3b26afa1b61ea40657e0d67c5912f082994364d16a9310d6dbcd22da0e",
+  "source_bytes": 154276,
+  "published": "2013-05-28",
+  "gazette": "28660",
+  "in_force": "2020-10-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-09",
+      "RG-9/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-09",
+      "9/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-09-27",
+      "RG-27/9/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-09-27",
+      "27/9/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-02",
+      "RG-2/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-02",
+      "2/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-10",
+      "10/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-01-17",
+      "RG-17/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-17",
+      "17/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-23",
+      "RG-23/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-23",
+      "23/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12027,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18404-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

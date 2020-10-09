@@ -1,0 +1,3 @@
+Kurul ücreti
+MADDE 48 – (1) Ortaklıkların Kanunun 130 uncu maddesi uyarınca yatırmak zorunda oldukları Kurul ücretinin hesaplanmasında Kurulun ilgili düzenlemelerine uyulur.
+(2) (Ek:RG-23/1/2014-28891) Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işletecek ortaklıkların paylarının halka arzından veya nitelikli yatırımcıya satışından önce sermaye artırımı yapılması halinde, yapılacak ilk sermaye artırımında, ortaklık sermayesini temsil eden paylar ile ihraç edilecek payların tamamının nominal değeri üzerinden Kurul ücreti alınır. Payların halka arzından veya nitelikli yatırımcıya satışından önce yapılacak daha sonraki sermaye artırımlarında ihraç edilecek payların nominal değeri üzerinden Kurul ücreti alınır.

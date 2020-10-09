@@ -1,0 +1,6 @@
+Borçlanma sınırı
+MADDE 31 – (Değişik:RG-23/1/2014-28891)
+(1) Ortaklıklar, fon ihtiyaçlarını veya portföyleri ile ilgili maliyetleri karşılamak amacıyla hesap dönemi sonunda hazırlayıp kamuya açıkladıkları konsolide olmayan veya bireysel finansal tablolarında yer alan öz sermayelerinin beş katı kadar kredi kullanabilirler. Söz konusu kredilerin üst sınırının hesaplanmasında ortaklığın finansal kiralama işlemlerinden doğan borçları ve gayri nakdi kredileri de dikkate alınır.
+(2) Ortaklıklar sermaye piyasası mevzuatındaki sınırlamalar dahilinde borçlanma aracı ihraç edebilirler. Ancak ihraç edecekleri borçlanma araçları için sermaye piyasası mevzuatı uyarınca hesaplanacak ihraç limitinden birinci fıkrada bahsedilen krediler düşülür.
+(3) Ortaklıklar, Kurul düzenlemeleri çerçevesinde gayrimenkul sertifikası ve portföydeki gayrimenkullerin satışından veya satış vaadi sözleşmelerinden kaynaklanan senetli alacakları ile kira gelirlerinin teminatı altında varlık teminatlı menkul kıymet ihraç edebilirler.
+(4) Kurul, münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işleten ortaklıklar için altyapı yatırım ve hizmetlerinin niteliğini dikkate almak suretiyle borçlanma sınırını artırabilir.

@@ -1,0 +1,5 @@
+Gayrimenkul yatırım ortaklığı olarak faaliyette bulunma hakkının ortadan kalkması
+MADDE 44/A – (Ek:RG-23/1/2014-28891)
+(1) Ortaklıkların;
+a) Süreli olarak kuruldukları durumlarda esas sözleşmede belirtilen süre dolduğu halde süre uzatımı talebi ile Kurula başvurulmaması,
+b) Münhasıran altyapı yatırım ve hizmetlerinden oluşan portföyü işletmek amacıyla kurulmaları durumunda, portföydeki altyapı yatırım faaliyetine ilişkin lisans iptali, idare ile yapılan sözleşmelerin feshi ve sözleşme süresinin sona ermesi veya projenin tamamlanması gibi ortaklığın amaç ve faaliyet konusunun tamamlanması veya faaliyetinin gerçekleştirilmesinin olanaksız hale gelmesine neden olan bir durumunun ortaya çıkması halinde gayrimenkul yatırım ortaklığı olarak faaliyette bulunma hakları ortadan kalkar. Ortaklıklar, bu durumun ortaya çıktığı tarihten itibaren en geç üç ay içinde esas sözleşme hükümlerini gayrimenkul yatırım ortaklığı olarak faaliyette bulunmayacak şekilde değiştirmek üzere Kurula başvurmakla yükümlüdürler. Ortaklıklar bu değişiklikleri yapmadığı takdirde, TTK’nın 529 uncu maddesinin birinci fıkrasının (b) ve (c) bentleri hükümleri gereğince sona ermiş sayılır.

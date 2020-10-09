@@ -1,0 +1,4 @@
+Ortaklığın amacı ve faaliyet konusu
+MADDE 5 – (Değişik:RG-23/1/2014-28891)
+(1) Ortaklıklar; münhasıran altyapı yatırım ve hizmetlerinden oluşan bir portföyü veya 4 üncü maddenin birinci fıkrasında belirtilen diğer varlık ve haklardan oluşan bir portföyü işletmek üzere kurulabileceği gibi belirli bir projeye, gayrimenkule veya altyapı yatırım ve hizmetine yatırım yapmak ya da belirli bir alanda faaliyet göstermek amacıyla da kurulabilirler.
+(2) Belirli alanlarda faaliyet göstermek veya belirli bir projeye, gayrimenkule veya altyapı yatırım ve hizmetine yatırım yapmak üzere kurulan ortaklıkların aktif toplamlarının en az %75’i bu faaliyet kapsamında yapılan yatırımlardan oluşur ve bu ortaklıkların unvanlarında söz konusu faaliyete, projeye, gayrimenkule veya altyapı yatırım ve hizmetine ilişkin bir ifadeye yer verilir.

@@ -1,0 +1,5 @@
+İmtiyazlı pay ihracı
+MADDE 14 – (Değişik:RG-23/1/2014-28891)
+(1) Ortaklıklar, yönetim kurulu üyelerinin seçiminde aday gösterme imtiyazı tanıyan paylar dışında imtiyaz veren herhangi bir menkul kıymet ihraç edemezler. Aday gösterme imtiyazının yaratılmasında TTK’nın 360 ıncı maddesi hükümleri uygulanmaz. Halka açılma sonrasında, hiçbir şekilde yönetim kurulu üyeliğine aday gösterme imtiyazı da dahil olmak üzere imtiyaz yaratılamaz.
+(2) Bu Tebliğin yayımı tarihinden önce oyda imtiyaz veren pay ihraç etmiş olan ortaklıklar için TTK’nın 479 uncu maddesinin ikinci fıkrası hükmü uygulanmaz.
+(3) Kurulun belirlediği esaslar çerçevesinde, faaliyetlerinin makul ve zorunlu kıldığı haller saklı kalmak kaydıyla, Kurul düzenlemelerine uygun olarak hazırlanmış finansal tablolarına göre üst üste beş yıl dönem zararı eden halka açık ortaklıklarda, birinci fıkra kapsamındaki imtiyazlı paylar Kurul kararı ile ortadan kalkar. Bu hükmün uygulanmasında, konsolide finansal tablo hazırlama yükümlülüğü bulunan halka açık ortaklıklar için konsolide finansal tablolar esas alınır. İmtiyazlı payların kamu kurum ve kuruluşlarına ait olması halinde bu fıkra hükmü uygulanmaz.

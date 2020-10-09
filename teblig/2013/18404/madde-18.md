@@ -1,0 +1,6 @@
+Genel müdür
+MADDE 18 – (1) (Değişik:RG-23/1/2014-28891) Ortaklıkta genel müdür olarak görev yapacak kişinin dört yıllık yükseköğrenim kurumlarından mezun olması, 7 nci maddenin birinci fıkrasının (e) bendi dışındaki bentlerinde yer alan şartları taşıması ve altyapı, hukuk, inşaat, bankacılık, gayrimenkul ve finans gibi alanlarda en az beş yıllık tecrübeye sahip olması zorunludur. Yalnızca gayrimenkul alım satım işi ile uğraşmak bu alanda edinilmiş tecrübe sayılmaz.
+(2) Yukarıda belirtilen şartları taşıyan genel müdürün münhasıran ve tam zamanlı olarak bu görev için istihdam edilecek/edilmiş olması zorunludur.
+(3) Genel müdür, başka kurum ve kuruluşlarda, icrai nitelikte olmaması ve ortaklıktaki görevinin ifasında zafiyete neden olmaması kaydıyla, yönetim kurulu üyeliği yapabilir. TTK’nın 396 ncı madde hükmü saklıdır.
+(4) (Değişik:RG-23/1/2014-28891) Genel müdürlük görevine son 12 aylık süre içerisinde altı aydan fazla vekalet edilemez. Bu sürenin sonunda bu göreve yeniden vekaleten atama yapılamaz.
+(5) (Değişik:RG-23/1/2014-28891) Genel müdürlük görevine yeni bir atama yapılması halinde atamaya ilişkin karar, atanan kişinin birinci fıkrada yer alan şartları sağladığını tevsik edici belgelerle birlikte atamayı takip eden en geç 10 iş günü içinde Kurula ve SPL’ye gönderilir.
