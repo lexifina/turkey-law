@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31315688-120.01.02.07[2020]-19922",
+  "source_id": 38820,
+  "date": "2020-10-12",
+  "title": "Şehir içi ve şehirler arası nakliyecilik faaliyeti ile iştigal eden mükellefin işyeri olarak gösterdiği konuta ait giderlerin ticari kazanç tespitinde indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38820",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "e931490408f0529fe1fb440b19a3c896297afe047371848425b9a2ab37df5421",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
