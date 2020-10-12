@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "407",
+  "decision_date": "2020-10-12",
+  "source_id": 32514,
+  "chamber": "7",
+  "ilam_number": "163",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32514/",
+  "source_sha256": "592b3fda04b5c750d833459b980ecb281aa938f6e0b09f57f0cb7a9685ccb12f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
