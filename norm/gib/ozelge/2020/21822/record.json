@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[113-2020/24]-E.755416",
+  "source_id": 21822,
+  "date": "2020-10-12",
+  "title": "Hasılat Esaslı Kazanç Tespiti Usulü",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21822",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "457a1c5709e5767d48b857bf8b7afa9b29dccaea6613b14a6a196c0e656db7fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
