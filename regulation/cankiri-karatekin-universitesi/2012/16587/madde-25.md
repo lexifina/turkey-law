@@ -1,0 +1,2 @@
+Meslek yüksekokullarına intibak
+MADDE 25 – (1) Lisans öğrenimine devam ederken kaydı silinen öğrencilerden meslek yüksekokullarının ilgili programlarına kayıt olmak isteyenlerin başvuruları; 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre ilgili yönetim kurulu tarafından değerlendirilir.

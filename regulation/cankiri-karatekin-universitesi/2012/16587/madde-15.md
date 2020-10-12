@@ -1,0 +1,2 @@
+Sınav notuna itiraz
+MADDE 15 – (1) Öğrenci sınav sonucuna, notların ilan edilmesinden itibaren bir hafta içerisinde ilgili akademik birime itirazda bulunabilir. İtiraz, maddi hata yönünden ilgili öğretim elemanı tarafından incelenir. İnceleme sonucu, akademik birim tarafından en geç iki hafta içinde öğrenciye duyurulur. İlgili kurul kararı Üniversitenin Öğrenci İşleri Daire Başkanlığına gönderilir.

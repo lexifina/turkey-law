@@ -1,0 +1,5 @@
+Ders alma ve alınan dersi transfer etme
+MADDE 11 – (1) (Mülga:RG-30/10/2016-29873) (2)
+(2) Öğrenci önceki yarıyıllarda/yıllarda alınması gereken dersleri, alamamış veya alıp başarısız olmuş ise o derslerin verildiği ilk yarıyılda/yılda öncelikle en alt yarıyıldan/yıldan başlamak üzere almak zorundadır. Seçmeli derslerin ve değişim programı kapsamında alınan derslerin öncelik sırasının belirlenmesinde ilgili kurul yetkilidir.
+(3) Öğrenci bir yarıyılda programının çakışmaması şartı ve danışman onayı ile 36 AKTS kredi yüküne kadar, devam zorunluluğu olmamak şartıyla ders tekrarı durumunda 42 AKTS’ye kadar ders alabilir. (Ek cümle:RG-12/10/2020-31272) Bu hüküm, Üniversitenin Diş Hekimliği Fakültesi ve Hukuk Fakültesi için ilgili birim kurulu önerisi ile Senato tarafından belirlenir.
+(4) Öğrenciler; ilgili yönetim kurulu kararı ile Üniversitenin diğer akademik birimlerinden, yurt içindeki diğer yükseköğretim kurumlarından ve denkliği YÖK tarafından kabul edilen yabancı ülkelerdeki yükseköğretim kurumlarından ders alabilir ve bu derslerin kredilerini transfer ettirebilir.
