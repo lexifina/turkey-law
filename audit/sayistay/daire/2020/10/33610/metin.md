@@ -1,0 +1,21 @@
+Ceza Kesintisi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda ve duruşmada hazır bulunanların dinlenmesi sonucunda;
+
+A) Denetçi tarafından, “………Tadilat Yapım İşi”nde Teknik Şartnameye göre süresinde verilmeyen araç için ceza kesintisinin yapılmaması sonucu kamu zararına neden olunduğu iddia edilmişse de;
+
+İşe ait Genel Teknik Şartnamenin “Diğer Hususlar” başlıklı 14’üncü maddesinde, “Yüklenici, Yapı denetim görevlisinin kullanımı için yer teslimini takip eden 2 hafta içerisinde 4 adet binek tipi (klimalı) ruhsatlı 2015 model ve üstü asgari 1230 cc- 85 hp otomobil ekipmanları ile birlikte temin etmekle yükümlü olacaktır. Araçlarla ilgili tüm giderler (akaryakıt masrafları dahil, aylık her araç için 4'er depo yakıt) ogs sistemi, tamir ve bakım masrafları, ile vergiler, kasko dahil sigorta pirimleri gibi masraflar yükleniciye ait olacaktır. Belirtilen süre içerisinde yüklenicinin aracı teslim etmemesi veya yakıtını temin etmemesi halinde İdare tarafından cezai işlem uygulanacaktır ve yüklenicinin hakedişinden kesilecektir.” denilmektedir.
+
+Söz konusu araçlar Teknik Şartnameye göre İdareye ………. tarihinde teslim edilmesi gerekirken 21 gün geç olarak ………. tarihinde teslim edilmiştir. Teknik Şartnamede cezai işlem uygulanacağı belirtilmesine karşın uygulanacak cezanın ne olduğu belirtilmemiş, bu cezanın ne şekilde uygulanacağı konusunda bir düzenlemeye yer verilmemiştir. Cezai şart konusunda somut bir belirleme yapılmadığı için İdare tarafından ilgili araçların 21 gün geç teslim alınmasına mukabil olarak yükleniciye 40 gün geç teslim edilmiştir. Dolayısıyla, İdarece rakamsal bir cezai işlem uygulanmamakla birlikte araçların geç teslim edilmesi şeklinde bir uygulamaya gidilerek dolaylı bir şekilde bir cezai işlem uygulandığı anlaşılmıştır.
+
+Bu itibarla, mevzuatına uygun olduğu anlaşılan ……….. TL ile ilgili olarak ilişilecek husus bulunmadığına, 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
+
+B) “…….. ……………………. Tadilat Yapım İşi”nde Teknik Şartnamede istenen hususların yerine getirilmemesine rağmen ceza kesintisinin yapılmadığı görülmüştür.
+
+İdari Şartname eki Şantiye Yönetim Şartnamesinde 48 adet İSG ceza cetveli düzenlenmiştir. İşin yeri teslimi …….. tarihinde yapılmıştır. Şartnamedeki hükümlere göre bu işlemlerin iş yeri tesliminden sonra yapılması gerekmektedir. Aksi takdirde aykırılık devam etmiş olmaktadır. Şantiye Yönetim Şartnamesinin 8’inci maddesinde de, “Cezai müeyyidelerin ödenmemesi durumunda, ceza bedelleri hak edişten kesilecektir. Yüklenicinin bu duruma itiraz hakkı yoktur.” düzenlemesi yapılmıştır.
+
+Şartnamede Yüklenicinin risk değerlendirmesi yapacağı ya da yaptıracağı, aksi halde aykırılığın devam ettiği her ay için ……. TL ceza uygulanacağı, yine Yüklenicinin acil durumları belirleyeceği, acil durumlar için tedbir alacağı, acil durum planlarını hazırlayacağı, destek elemanı görevlendireceği, araç gereç sağlayacağı, acil durumlarda işyeri dışındaki kuruluşla irtibatı sağlayacak düzenlemeyi yapacağı, aksi halde aykırılığın devam ettiği her ay için …… TL ceza uygulanacağı belirtilmiştir.
+
+Yukarıda belirtilen düzenlemelere aykırı olarak yüklenicinin risk değerlendirmesi yapılması hakkındaki hükme aykırılık nedeniyle …… TL, acil durum planlarının yapılması hakkındaki hükme aykırılık nedeniyle ………. TL olmak üzere toplam ………. TL kamu zararına neden olunduğu görülmüştür. Bununla birlikte, sorumluların savunmaları ve savunma ekinde sunulan belgelerden söz konusu kamu zararı tutarı ……… TL’nin …….. tarih ve ……. numaralı alındı belgesi ile tahsil edildiği anlaşılmıştır.
+
+Bu itibarla, Şartnamede istenen yükümlülüklerin süresinde yapılmamasına karşın ceza kesintisi yapılmaması sonucu oluşan kamu zararı tutarı ……… TL, ……… tarih ve ……….. numaralı alındı belgesi ile Ahizi ………. Ltd. Şti.’den hesap yılından sonra tahsil edildiğinden ilişilecek husus kalmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
