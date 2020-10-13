@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "752",
+  "decision_date": "2020-10-13",
+  "source_id": 33627,
+  "chamber": "6",
+  "ilam_number": "184",
+  "item_number": 93,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33627/",
+  "source_sha256": "c126076c839b5a409c46955631294c3d92ca4042f1ed332a9a9347b3e7dcdb8c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
