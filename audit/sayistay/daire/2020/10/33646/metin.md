@@ -1,0 +1,25 @@
+Yemek Yardımı
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Halkla İlişkiler Şube Müdürlüğü bünyesinde bulunan ……. biriminde çalıştırılmak üzere ihale ile istihdam edilen personele mevzuata aykırı olarak yemek yardımı yapıldığı görülmüştür.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 8'inci maddesinde her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumlu ve yetkili kılınmış mercilere hesap vermek zorunda olduğu, 32'nci maddesinde harcama yetkililerinin, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumlu olduğu,  5216 sayılı Büyükşehir Belediyesi Kanunu’nun “Büyükşehir belediye başkanının görev ve yetkileri” başlıklı 18’inci maddesinde, Belediye teşkilatının en üst amiri olarak belediye teşkilâtını sevk ve idare etmek, beldenin ve belediyenin hak ve menfaatlerini korumak, büyükşehir belediyesinin hak ve menfaatlerini izlemek ile diğer kanunların belediye başkanlarına verdiği görev ve yetkilerden büyükşehir belediyesi görevlerine ilişkin olan hizmetleri yerine getirmek ve yetkileri kullanmanın belediye başkanının görev ve yetkilerinden olduğu belirtilmiştir.
+
+…….. ihale kayıt numaralı “……… Çağrı Merkezi Hizmet Alımı” ihalesine ilişkin dokümanlarda (şartname/sözleşme) ihale kapsamında çalışan kişilere yemek yardımı yapılacağına ilişkin herhangi bir düzenleme bulunmamaktadır. İhale Şartname ve Sözleşmesinde yemek yardımı yapılması öngörülmemiş iken, ihale yapıldıktan sonra bu iş için …….. ihale kayıt numarası ile “…….. Çağrı Merkezi Hizmet Alımı” ihalesinde çalıştırılan 47 kişiye yemek yardımı yapılması için …… numarası ile doğrudan temin kapsamında alım yapılmıştır. ………. numaralı doğrudan teminin Teknik Şartnamesinde ise alınacak yemeklerin hangi çeşitlerde ve ne miktarda olacağı belirlenmesine rağmen personele bu yemekler verilmeyerek bunun yerine 2 ay boyunca her kişiye günde bir öğün olacak şekilde toplam …….. adet yemek karşılığı personelin yemek kartlarına para yüklenmiştir.
+
+İhale edilen bu işte çalıştırılan …….. personeli yemek yardımı yapılacak personel kapsamında olmadığı gibi bu kişiler Şirket çalışanı olarak belediyenin personeli de değildir. Diğer taraftan,  ihale dokümanlarında da böyle bir yardımın yapılacağı öngörülmemiştir. Bu sebeple, söz konusu kişilere yemek yardımı yapılması mümkün değildir.
+
+Açıklanan gerekçelerle, mevzuata aykırı yemek yardımı yapılması sonucu  ……. TL kamu zararına neden olunmuştur.
+
+Sorumluluğa İlişkin Açıklama: Doğrudan temin usulü ile ……… biriminde çalışan personele yemek yardımı yapılması için Başkanlık makamına yazılan yazıda talepte bulunan Birim Ambar Memuru .... ....., malzeme isteğinde bulunan Birim Yetkilisi …… ……, uygun görüşle arz eden ....  ..... ile doğrudan temini onaya arz eden Daire Başkan Vekili …… ……. ve hem Başkanlık makamına yazılan yazıya hem de doğrudan temine onay veren Genel Sekreter Yardımcısı …. ………. ile ödeme emri belgesinde imzası bulunan Gerçekleştirme Görevlisi ve Harcama Yetkilisi ile birlikte sorumludurlar.
+
+Bu itibarla, söz konusu kamu zararı tutarı ………. TL’nin, Harcama Yetkilisi (……….) ....  ..... ve Gerçekleştirme Görevlisi (………) ………. ……….. ile Diğer Sorumlular (……….) …… …………, (………) .... ..... ve (………..) ……… ……..’a müştereken ve müteselsilen 6085 sayılı Kanun’un 53’üncü maddesi gereğince hüküm tarihinden itibaren işleyecek faizi ile ödettirilmesine anılan Kanun’un 55’inci maddesi uyarınca tebliğ tarihinden itibaren altmış gün içinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Karşı Oy:
+
+Üye  ...... .......’un karşı oy gerekçesi:
+
+Sorumluların savunmaları ve savunma ekinde sunulan belgelerden, …….. biriminde yapılan işin niteliği gereği personelin 7/24 kesintisiz olacak şekilde 3 vardiya usulü ile çalıştığı, bu projenin hayata geçirilmesi planlandığında çalışacak kişiler için yeni bina yapılması ve burada yemek hizmeti verilmesi düşünülmüş ise de inşaat ihalesindeki aksamadan dolayı personelin yeni binada göreve başlayamadığı, binada yemek hizmeti verileceği düşünülmüş olduğundan yapılan ilk ihaleye sehven yemek ücreti kalemi eklenmesinin unutulduğu, fakat devam eden süreçte binanın teslim alınmasında yaşanan aksaklıklar nedeniyle çalışanların göreve başladıkları ….. mevkiinde günün her saatinde yemek bulabilecekleri konumda olmadıkları, söz konusu personelin yemek ihtiyacının karşılanması amacıyla doğrudan temin şeklinde alım yapıldığı, 2 ay sonra sehven yapılan bu hatanın giderildiği ve yeni yapılan ihale bedeline personelin yemek giderlerinin de eklendiği anlaşılmıştır.
+
+Belirtilen gerekçelerle, konu hakkında ilişilecek husus bulunmadığına karar verilmesi gerektiğinden çoğunluk görüşüne katılmıyorum.
