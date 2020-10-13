@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.11931",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TERÖRLE MÜCADELEDE GÖREV ALAN PERSONELİN, BU GÖREVLERİNİN İFASINDAN DOĞDUĞU İDDİA EDİLEN SUÇLARDAN DOLAYI YAPILAN SORUŞTURMA VE KOVUŞTURMALARDA MÜDAFİ OLARAK BELİRLEDİĞİ AVUKAT VEYA AVUKATLARIN ÜCRETLERİNİN ÖDENME USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "11931",
+  "issuer": "Millî Savunma Bakanı ve İçişleri Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ve-icisleri-bakani",
+  "path": "regulation/milli-savunma-bakani-ve-icisleri-bakani/2008/11931",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11931&MevzuatTertip=5",
+  "source_sha256": "32c3c4c09fd61e0a0642a666ffc5aedc20a1f6f3dced4b8979b249fabd4b67e3",
+  "source_bytes": 42853,
+  "published": "2008-01-26",
+  "gazette": "26768",
+  "in_force": "2020-10-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-13",
+      "RG-13/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-13",
+      "13/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-12-28",
+      "28/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-01-19",
+      "19/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-09-07",
+      "7/9/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-21",
+      "RG-21/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-21",
+      "21/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1515,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

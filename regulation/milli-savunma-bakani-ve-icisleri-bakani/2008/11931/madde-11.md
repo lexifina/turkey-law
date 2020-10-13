@@ -1,0 +1,13 @@
+Komisyon ve çalışma düzeni
+MADDE 11 – (Değişik:RG-13/10/2020-31273)
+(1) Bu Yönetmeliğe göre, personele avukatlık ücreti ödenmesine yönelik olarak 9 uncu maddenin birinci fıkrasının (a) bendine göre iletilen talepleri incelemek ve başvuranın bu Yönetmelik kapsamındaki hakkı çerçevesinde bir veya birden fazla seçeceği avukatına avukatlık ücretinin ödenip ödenmeyeceğine, ödenecek ise ücret miktarına, ücretin defaten mi, taksitle mi ödeneceğine, taksitle ödenecek ise kaç taksitte ödeneceğine ve taksit ödeme zamanlarına karar vermek üzere;
+a) Milli Savunma Bakanlığında; Personel Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısının başkanlığında, Bütçe ve Mali Hizmetler Genel Müdürü, Personel Genel Müdürü, Hukuk Hizmetleri Genel Müdürü ile avukatlık ücreti ödenmesi talebinde bulunan asker kişilerin bağlı bulunduğu Kuvvet Komutanlıklarının Harekât Başkanı ve Personel Başkanından,
+b) İçişleri Bakanlığında; Hukuk Hizmetleri Genel Müdürlüğünün bağlı bulunduğu Bakan Yardımcısının başkanlığında, Hukuk Hizmetleri Genel Müdürü, Personel Genel Müdürü ve Destek Hizmetleri Dairesi Başkanından,
+c) Jandarma Genel Komutanlığında; Personel Başkanlığından sorumlu Jandarma Genel Komutan Yardımcısı Başkanlığında, Asayiş Başkanı, Personel Başkanı, İstihbarat Başkanı, Mali Hizmetler Başkanı ve Hukuk Hizmetleri Başkanından,
+ç) Milli İstihbarat Teşkilatı Başkanlığında; MİT Başkanının uygun göreceği MİT Başkan Yardımcısının başkanlığında, MİT Başkanı tarafından belirlenecek üç Başkan ve Hukuk Müşavirinden,
+d) Sahil Güvenlik Komutanlığında; Sahil Güvenlik Komutanı tarafından belirlenen Komutan Yardımcısı Başkanlığında, Harekat Başkanı, Personel Başkanı, Strateji Geliştirme Başkanı, İstihbarat Başkanı ve Hukuk Hizmetleri Başkanından,
+e) Emniyet Genel Müdürlüğünde; Personel Dairesi Başkanlığının bağlı bulunduğu Emniyet Genel Müdür Yardımcısı başkanlığında, Özel Harekat Başkanı, İstihbarat Başkanı, Birinci Hukuk Müşaviri, Personel Dairesi Başkanı, Terörle Mücadele Dairesi Başkanı ve Strateji Geliştirme Daire Başkanından,
+oluşan bir Komisyon kurulur.
+(2) Komisyonun sekretarya hizmetleri Milli Savunma Bakanlığında Personel Genel Müdürlüğünce, İçişleri Bakanlığında Hukuk Hizmetleri Genel Müdürlüğünce, Emniyet Genel Müdürlüğünde Hukuk Müşavirliğince, diğerlerinde Personel Başkanlıklarınca yürütülür.
+(3) Komisyon, bütün üyelerinin hazır bulunması ile toplanır ve salt çoğunlukla karar verir.
+(4) Komisyon tarafından verilen karar, ilgisine göre Millî Savunma Bakanının, İçişleri Bakanının, Jandarma Genel Komutanının, Milli İstihbarat Teşkilatı Başkanının, Sahil Güvenlik Komutanının ve Emniyet Genel Müdürünün onayı ile kesinleşir.
