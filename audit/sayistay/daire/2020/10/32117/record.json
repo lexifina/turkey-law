@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "234",
+  "decision_date": "2020-10-13",
+  "source_id": 32117,
+  "chamber": "4",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32117/",
+  "source_sha256": "15eaf8de19609d05f366af6a892e3db3fb560020e62761d30bb1c7e3ffff9dd1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
