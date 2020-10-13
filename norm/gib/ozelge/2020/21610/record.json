@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "42152853-250.99-11689",
+  "source_id": 21610,
+  "date": "2020-10-13",
+  "title": "Serbest meslek erbabının, %80 engelli babasının engellilik indiriminden faydalanıp faydalanmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21610",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "c0a9b060926a26b5c7a2fdd1ff2f223ee628b20407a4a4421cfe94f6a83bf938",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
