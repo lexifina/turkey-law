@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "752",
+  "decision_date": "2020-10-13",
+  "source_id": 33489,
+  "chamber": "6",
+  "ilam_number": "184",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33489/",
+  "source_sha256": "560bb6b929e4ea5b7a6781f0e1f46cf80da3b14ffee219457eb7750317bbfc64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
