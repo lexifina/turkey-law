@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "233",
+  "decision_date": "2020-10-13",
+  "source_id": 32139,
+  "chamber": "4",
+  "ilam_number": "139",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32139/",
+  "source_sha256": "dd156143d1bb70344da971b94462c668243a8fd0915d7d15d106ad62021d547f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
