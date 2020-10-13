@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "752",
+  "decision_date": "2020-10-13",
+  "source_id": 33639,
+  "chamber": "6",
+  "ilam_number": "184",
+  "item_number": 105,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33639/",
+  "source_sha256": "7ef267e0bee2d2f05ed71ad4f82c613518b5b958bf66f8687cf7a9bc5cdc5037",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
