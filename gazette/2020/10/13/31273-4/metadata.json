@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-10-13",
+  "issue": "31273",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Çift Kullanımlı Malzeme ve Teknolojilere Dair Belgelerin Onaylanmasına İlişkin Tebliğ (İthalat: 2020/20)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201013-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201013.htm",
+  "index_sha256": "98cce4925279704ef1204c2cdd056120eb1e90a2bb18e9096498b019d866cee8",
+  "index_header": "13 Ekim 2020 ... 31273 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201013.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
