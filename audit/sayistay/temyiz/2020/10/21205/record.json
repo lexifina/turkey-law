@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48372",
+  "decision_date": "2020-10-14",
+  "source_id": 21205,
+  "chamber": "7",
+  "file_number": "46236",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21205/",
+  "source_sha256": "ac059dcaa4b69465dce84327bd2be23c52eb1fdcddc18a7961ae6c84bf6afbcd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
