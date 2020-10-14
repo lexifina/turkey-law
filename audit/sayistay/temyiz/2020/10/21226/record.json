@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48390",
+  "decision_date": "2020-10-14",
+  "source_id": 21226,
+  "chamber": "5",
+  "file_number": "44650",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21226/",
+  "source_sha256": "b1765c77e1ac674fe98ec0540756f0834c31111494d2112c18a28fd8a89f59f6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
