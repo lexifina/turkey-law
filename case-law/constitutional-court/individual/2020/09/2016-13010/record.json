@@ -1,0 +1,20 @@
+{
+  "applicant": "E.Ü.",
+  "application_date": "2016-07-15",
+  "application_number": "2016/13010",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2020-09-17",
+  "id": "2da9ca51-c392-d8df-5d3f-303bb3a1d6bd",
+  "in_force": "2020-10-14",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-10-14",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJkYTljYTUxLWMzOTItZDhkZi01ZDNmLTMwM2JiM2ExZDZiZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "dcaf9aa568ac8b4c5ac88698c7ef9a9619228bdbcbc9289c16a52d10f74792e4",
+  "version_label": "as-enacted"
+}
