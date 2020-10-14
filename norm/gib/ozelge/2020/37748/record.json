@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-120[2018-720-01]-87235",
+  "source_id": 37748,
+  "date": "2020-10-14",
+  "title": "Zirai İşletmeye Dahil Olan Bahçelerin ve Araçların Kiraya Verilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37748",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "89b04f18d6ce4dd4c0c1eb1b0cf21a2ee9f1178545cb017a9c5350bf2b8c14d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
