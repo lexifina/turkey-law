@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "434",
+  "decision_date": "2020-10-15",
+  "source_id": 32613,
+  "chamber": "5",
+  "ilam_number": "587",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32613/",
+  "source_sha256": "8a1e7bbf44176ed98133b3d53b4c1a4cea98b39e78a724ec263d7181e69e5ece",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
