@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10789",
+  "decision_date": "2020-10-15",
+  "source_id": 32275,
+  "chamber": "1",
+  "ilam_number": "4",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32275/",
+  "source_sha256": "cbe7bc076b0d7e3017f1dfd143d78a37df47f84d7839c5b7a3811aa1f24e2b2a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
