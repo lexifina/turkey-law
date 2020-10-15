@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10793",
+  "decision_date": "2020-10-15",
+  "source_id": 32291,
+  "chamber": "1",
+  "ilam_number": "422",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32291/",
+  "source_sha256": "f009087c6a1d55660b0441cd8607d0f8fd6663a052b6a8dd7ace1b92f03e0411",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
