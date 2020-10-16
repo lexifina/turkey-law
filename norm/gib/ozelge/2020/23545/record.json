@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[313-2019-458]-267580",
+  "source_id": 23545,
+  "date": "2020-10-16",
+  "title": "Lüks restoran olarak alınan işyerinin avukatlık ofisine dönüştürülmesi için yapılan harcamaların indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23545",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "c6988cfde96a820d747a7b7f054482543c80e36bd4cb6492ce2694fa3112a77a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
