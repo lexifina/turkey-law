@@ -1,0 +1,13 @@
+Sektörel Riskler Değerlendirme Daire Başkanlığı
+MADDE 19- (1) Sektörel Riskler Değerlendirme Daire Başkanlığı, Başkan tarafından atanacak daire başkanı, ihtiyaç halinde yeterli sayıda grup başkanları ve meslek personeli ile diğer personelden oluşur.
+(2) Başkan; görev yapacak daire başkanı ile grup başkanlarının görev dağılımını belirler, grup başkanları ile diğer personeli görevlendirir.
+(3) Sektörel Riskler Değerlendirme Daire Başkanlığının görev, yetki ve sorumlulukları şunlardır:
+a) Gözetim ve denetime tabi kişi ve kuruluşların mali bünyelerine, finansal tablolar ve muhasebe işlemleri, sermaye yeterlilik, tarife işlemleri, teknik karşılıklar, aktüerya raporları, hasar ve tazminat işlemleri, iç sistemler, yatırım politikası, reasürans politikası, çalışma usul ve esasları, yönetim ve organizasyon yapısı, yardımcı hizmet faaliyetleri ve benzeri ana faaliyet konusunu ilgilendiren hususlara ilişkin düzenleme yapmak ve bunların mevzuata uygunluk kriterlerini belirlemek.
+b) Risk yönetimine ilişkin olarak modelleri, metodları, oranları, testleri ve diğer her türlü analiz yöntemini ilgili hizmet birimleriyle birlikte belirlemek.
+c) Gözetim ve denetime tabi kişi ve kuruluşların faaliyetlerinin uluslararası prensiplere ve uygulamalara uyumunu sağlamak amacıyla gerekli çalışmaları yapmak.
+ç) Sektör ölçeğinde analiz faaliyetleri yürütmek, periyodik olarak konsolide raporlar hazırlamak.
+d) Aktüerlere ilişkin mevzuatı hazırlamak, güncellemek, uygulanmasını takip etmek, aktüerlikle ilgili unvanlara sahip olanların liste ve sicil işlemlerini değerlendirmek ve sonuçlandırmak, aktüerlerin gözetimini diğer hizmet birimleriyle birlikte yürütmek, gerekli tedbirleri uygulamak.
+e) Ulusal ve uluslararası düzeyde muadil yetkili merciler ile ilgili işlemleri yürütmek ve yapılacak taslak ikili ve çok taraflı anlaşma ve sözleşmeler hakkında çalışmaları yürütmek, bunların uygulanmasını takip etmek ve bu konularda Kurum içi koordinasyonu sağlamak.
+f) Ulusal ve uluslararası düzeyde birlikler ve merciler nezdinde Kurum faaliyet alanlarıyla ilgili olarak üyelik tesisi konusunda araştırmada bulunmak ve sonuçlarını ilgili hizmet birimleriyle paylaşmak, gerekli görülen üyelik başvurusu için Başkanlığa öneride bulunmak, söz konusu birlikler ve mercilerle ilişkilerin Kurum içi koordinasyonu sağlamak.
+g) Görev alanına giren konularda yurt içi ve yurt dışında çeşitli kurum, kuruluş ve organizasyonlar nezdinde kurulan komite, komisyon, heyet ve benzeri oluşumlara katılım sağlamak, bunların toplantı, eğitim, seminer ve benzeri organizasyonlarını katılımcı olarak takip etmek.
+ğ) Başkan tarafından verilen diğer görevleri yapmak.

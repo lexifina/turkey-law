@@ -1,0 +1,16 @@
+Bilgi Teknolojileri Daire Başkanlığı
+MADDE 23- (1) Bilgi Teknolojileri Daire Başkanlığı, Başkan tarafından atanacak daire başkanı, ihtiyaç halinde yeterli sayıda grup başkanları ve meslek personeli ile diğer personelden oluşur.
+(2) Başkan; görev yapacak daire başkanı ile grup başkanlarının görev dağılımını belirler, grup başkanları ile diğer personeli görevlendirir.
+(3) Bilgi Teknolojileri Daire Başkanlığının görev, yetki ve sorumlulukları şunlardır:
+a) Kurum bilişim ve bilgi sistemlerini tasarlamak, geliştirmek, ikmalini yapmak, yönetmek, bilgi güvenliği politikaları geliştirerek ve güvenlik katmanları oluşturarak bilgi güvenliğini sağlamak ve teknolojik gelişmelere uyumlu şekilde güncelleştirilmesini temin etmek, bu kapsamda uluslararası uygulamaları da dikkate alarak olağanüstü durum merkezi tesis etmek ve işletmek.
+b) Kurum hizmet birimlerinin etkin faaliyette bulunabilmesi için bilgi işlem konusundaki yazılım ve donanım ihtiyacını belirlemek, bu konulardaki satın alma işlemlerinde Yönetim Hizmetleri Daire Başkanlığına teknik destek sağlamak ve bilgi işlem konusunda tüm birimlere destek vermek.
+c) İlgili hizmet birimleriyle koordinasyon ve iş birliği içinde; bilişim çözümlerinin sürdürülebilirliğinin sağlanması için çalışmaları yürütmek, mevzuat çalışmalarına katılmak, Kurumun eylem planlarında bilgi teknolojileri hakkındaki stratejileri oluşturmak ve uygulanmasını sağlamak.
+ç) Gözetim ve denetime tabi kuruluşların bilgi sistemlerinin iş sürekliliği ve bilgi güvenliği konularında yeterliliklerin ölçülmesine yönelik kriter ve standartlar belirlemek, gerçekleştirilecek denetimlerde Denetim Dairesi Başkanlığına destek olmak.
+d) Diğer hizmet birimlerinin katkılarıyla, gözetim ve denetime tabi kişi ve kuruluşlardan, diğer kamu kurum ve kuruluşlarından, ilgili yurt içi ve yurt dışı kaynaklardan Kurumun görev alanına giren konularda sağlanan bilgileri Kurum veri tabanında toplamak, bu bilgilerin işlenmesini sağlayacak bilgi sistemlerini kurmak.
+e) Veri kalitesinin artırılması amacıyla verinin eksiksiz, tanımlandığı şekilde, belirlenen kapsamda ve zamanında alınmasına yönelik her türlü kontrol prosedürünü oluşturmak, düzenleme, gözetim ve denetim sürecinde doğru, sağlıklı ve güvenilir bilginin kullanılmasına katkı sağlamak amacıyla gerekli her türlü tedbirin alınmasını sağlamak.
+f) Elektronik ortamda hazırlanan bilgi ve belgelerin Kurum içinde ve Kurum dışında etkin, verimli ve güvenli bir şekilde paylaşımını temin etmek, elektronik belge uygulamaları ile ilgili teknik çalışmaları yapmak, Kurum yönetimine ve diğer hizmet birimlerine, rapor ve yayımlarla destek sağlamak.
+g) Periyodik olarak kamuya duyurulacak istatistiki yayımları, biçim ve sunumuna ilişkin usul ve esasları ilgili hizmet birimlerinin koordinasyonuyla belirleyerek yayımlamak.
+ğ) Kurumun internet ve intranet hizmetlerini yürütmek.
+h) İlgili birimlerle koordinasyon ve iş birliği içinde son kullanıcı bilişim eğitimlerini planlamak ve yürütmek.
+ı) Görev alanına giren konularda yurt içi ve yurt dışında çeşitli kurum, kuruluş ve organizasyonlar nezdinde kurulan komite, komisyon, heyet ve benzeri oluşumlara katılım sağlamak, bunların toplantı, eğitim, seminer ve benzeri organizasyonlarını katılımcı olarak takip etmek.
+i) Başkan tarafından verilen diğer görevleri yapmak.
