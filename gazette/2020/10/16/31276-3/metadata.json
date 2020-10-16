@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-10-16",
+  "issue": "31276",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Asansör Piyasa Gözetimi ve Denetimi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016.htm",
+  "index_sha256": "6b7850c6a9c1f71bd01255bed7e47738ae3f9b603efa70de8be3d6783cbb6e0d",
+  "index_header": "16 Ekim 2020 ... 31276 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
