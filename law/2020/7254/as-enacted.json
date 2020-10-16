@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7254",
+  "year": 2020,
+  "title": "Kamu Malî Yönetimi ve Kontrol Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-10-16",
+  "gazette_issue": "31276",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016M1-1.htm",
+  "source_sha256": "3bbbd03ecd9a39103e71890708370758f95532cd7bd06e2c76bf99bb7449c791",
+  "text_sha256": "b9b983fa08bf7448ae84284088ce5f0c680426329d98f5d25cc93c5328a7c812",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/10/16/31276-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201016M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
