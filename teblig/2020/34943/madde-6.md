@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 6 – (1) Normal değerin tespitinde, başvuru konusu ülke olan Suudi Arabistan için ChemOrbis veri tabanı verilerinden elde edilen 2020 yılı ilk 6 aylık dönemi ortalama iç piyasa fiyatları kullanılmıştır. Söz konusu değerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(2) İhraç değerinin tespitinde, TÜİK’in 2020 yılı ilk 6 aylık dönemine ait başvuru konusu ürünün başvuru konusu ülke bazında gerçekleşen ithalatında oluşan ortalama ihraç fiyatı dikkate alınmıştır. Söz konusu ihraç fiyatından harici navlun ve sigorta bedelleri düşülerek anılan değerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(3) Normal değer ile ihraç fiyatı mümkün olduğu ölçüde aynı ticari aşamada, diğer bir ifadeyle, fabrika çıkış aşamasında karşılaştırılmış olup hesaplanan damping marjının Yönetmeliğin 28 inci maddesinde yer alan ihmal edilebilir oranın üzerinde olduğu tespit edilmiştir.
