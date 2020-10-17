@@ -1,0 +1,2 @@
+Yabancı ülke unsurlarının Türk arama kurtarma bölgesi içerisinde bir arama kurtarma faaliyeti icra etmesi
+MADDE 33- (1) Türk arama kurtarma bölgesi içerisinde arama kurtarma çalışmaları yapmak isteyen veya bir arama kurtarma faaliyetine katkı sağlamak isteyen yabancı ülkenin talebi veya ihtiyaç duyulması halinde yabancı ülkeden yardım istenmesi hususları Araştırma Geliştirme Komitesi tarafından önceden belirlenecek esaslar doğrultusunda AAKKM tarafından Dışişleri Bakanlığı koordinasyonunda değerlendirilir.

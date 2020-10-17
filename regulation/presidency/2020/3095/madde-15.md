@@ -1,0 +1,6 @@
+Milli Savunma Bakanlığının görev ve sorumlulukları
+MADDE 15- (1) Milli Savunma Bakanlığının görev ve sorumlulukları şunlardır:
+a) Genelkurmay Başkanlığında ve ilgili kuvvet komutanlıklarında arama kurtarma merkezlerini ve belirleyeceği yerlerde bunların alt birimlerini oluşturmak, oluşturduğu birimlerin imkân ve kabiliyetlerini AAKKM ve AKKM’ler ile paylaşmak, bu merkezleri ve arama kurtarma maksatlı hava aracı tahsis edecek birimleri 24 saat kesintisiz hizmet vermek üzere uluslararası standartlarda altyapı, teçhizat ve personel ile donatmak.
+b) AAKKM ve/veya ilgili AKKM’nin talebi doğrultusunda, imkân ve kabiliyetlerini, askeri görevlerine mâni olmamak kaydıyla, arama kurtarma faaliyetlerinde kullanmak.
+c) Arama kurtarma faaliyetlerinin etkinlikle yürütülmesini sağlamak amacıyla Genelkurmay Başkanlığının, ilgili kuvvet komutanlıklarının ve HVAKKM’nin ihtiyaç duyacağı malzeme, teçhizat, hava aracı ve benzeri malzemelerin tedarik ve temin işlemlerini yürütmek ve uzun menzilli hava aracı görevlendirmelerinde ilgili komutanlığın bakım ve yakıt sağlamak maksadıyla lojistik alım protokolünü yapmak.
+ç) Gerekli hallerde Genelkurmay Arama Kurtarma Merkezi adına görev ve sorumluluklarında aksamaya mahal vermemek amacıyla ilgili mevzuatına göre hizmet ve/veya danışmanlık alımı yapmak.

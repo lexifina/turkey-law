@@ -1,0 +1,5 @@
+Acil durum safhaları
+MADDE 6- (1) Acil durum safhaları AAKKM tarafından veya AAKKM ile koordineli olarak ilgili AKKM tarafından ilan edilir. Arama kurtarma faaliyetinin sona erdirilmesi halinde, ilan edilen acil durum safhasının da sona erdiği kabul edilir. Acil durum safhaları aşağıdaki gibidir:
+a) Şüphe safhası: Hava veya deniz aracı veya içindeki kişilerin emniyeti açısından şüphenin oluştuğu durumdur. Bu safhada, olay takip edilir ve daha fazla bilgi toplanır. Arama kurtarma birimlerinin olay yerine gönderilmesine gerek yoktur.
+b) Alarm safhası: Hava veya deniz aracı veya içindeki kişilerin güç durumda bulundukları ve yardıma ihtiyaçları olabileceği, fakat acil müdahale gerektirmeyen durumdur. Acil eylem gerektiren bilinen bir tehlike yoktur. Durumun kötüleşmesi ihtimaline karşın arama kurtarma birimleri olay yerine gönderilebilir.
+c) Tehlike safhası: Hava veya deniz aracı veya içindeki kişilerin vahim ve yakın bir tehlike içinde olduğu ve acil yardım gerektirdiği makul bir kesinlik olan durumdur. Gecikmeksizin arama kurtarma operasyonuna başlanır.
