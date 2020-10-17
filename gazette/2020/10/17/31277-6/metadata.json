@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-10-17",
+  "issue": "31277",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Tarife-Sınıflandırma Kararları) (Seri No: 25)’nde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 33)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201017-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201017.htm",
+  "index_sha256": "8ac5d0042f6128beb92576eaa2d92c51df499887a86d30c81a23d555a899d371",
+  "index_header": "17 Ekim 2020 ... 31277 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201017.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
