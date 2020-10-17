@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.23433",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 25)",
+  "number": "23433",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2017/23433",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23433&MevzuatTertip=5",
+  "source_sha256": "a61d45e52615153fcc4be30582511b6b9b15d0e3bbfba68a34eaeafd41fa5b0f",
+  "source_bytes": 40271,
+  "published": "2017-03-21",
+  "gazette": "30014",
+  "in_force": "2020-10-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"17/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-17",
+      "17/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 428,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23433-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
