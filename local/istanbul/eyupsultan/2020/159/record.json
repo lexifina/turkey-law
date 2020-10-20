@@ -1,0 +1,22 @@
+{
+  "number": "159",
+  "number_as_published": "2020/159",
+  "year": 2020,
+  "title": "2021 yılı Bütçe Tasarısı",
+  "decision_date": "2020-10-20",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-ekim-ayi-meclis-kararlari/1821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-159/1826",
+  "source_sha256": "495564c0df56c2a5882e8d56f0fc7c9ab413bb2b61559cf944fc408e88d034bb",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.10.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "02582a9dc36d6c95f7ee12735e48265aa20912ac3b60e11730c70b1a42299087"
+}
