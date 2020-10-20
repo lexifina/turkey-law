@@ -1,0 +1,22 @@
+{
+  "number": "136",
+  "number_as_published": "2020/136",
+  "year": 2020,
+  "title": "Rize, Çayeli Belediyesi ile kardeş şehir olma",
+  "decision_date": "2020-10-20",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-ekim-ayi-meclis-kararlari/1821",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-136/1823",
+  "source_sha256": "495564c0df56c2a5882e8d56f0fc7c9ab413bb2b61559cf944fc408e88d034bb",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-10-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.10.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "55d5ce1b385a68cd783dfc5f567db2e2d2ff30a8f2ccd94db002555b7f3d3027"
+}
