@@ -1,0 +1,8 @@
+Şahsen özel burs için aylıksız izin verilmesinin şartları
+MADDE 17 – (1) Şahsen özel burs, memurun şahsi girişimleri sonucunda;
+a) Yükseköğretim Kurulunca yabancı memleketlerin uygun görülen üniversite, yüksekokul, enstitü, eğitim merkezleri ve diğer öğretim kuruluşlarından veya (Değişik ibare:RG-20/10/2020-31280) Cumhurbaşkanlığınca uygun görülen yurt dışındaki dernek, vakıf veya mesleki teşekkülü niteliğindeki kuruluşlardan,
+b) Uluslararası resmi kuruluşlardan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmeliğin amacına göre temin ettiği burslardır.
+(2) Şahsen özel burs sağlayan memurlara iki yıla kadar aylıksız izin verilebilir. Gerekirse bu süre bir katına kadar artırılabilir.
+(3) Şahsen özel burs sağlayan memurlara, burs verilme konusuyla ilgili dalda dört yıllık yüksek öğrenim görmüş olması kaydıyla, Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmeliğin 6, 8, 10, 11, 18, 19, 21 ve 23 üncü maddeleri hükümleri uygulanır.
+(4) Yurt dışı eğitim için ücretsiz izin talebinde bulunan aday, katılmayı planladığı yurt dışı eğitim programının seviyesini, konusunu, süresini ve içeriğini belirten bir dilekçe ile Personel Dairesi Başkanlığına müracaat eder. Bu dilekçeye çalıştığı birim amirinin uygun görüşü ile bağlı olduğu Başkan Yardımcısının muvafakatini içeren yazıyı, yurt dışı eğitim kurumundan temin edilen kabul belgesini ve 12 nci maddenin birinci fıkrasında sayılan yabancı dil belgelerinden birini ekler.
+(5) Personel Dairesi ilgilinin talebini Kurula sunar. Kurul tarafından talebin uygun görülmesi halinde adaya ücretsiz izin verilmesine ilişkin iş ve işlemler Personel Dairesi Başkanlığınca sonuçlandırılır.

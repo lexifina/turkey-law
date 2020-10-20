@@ -1,0 +1,2 @@
+Duyuru
+MADDE 13 – (1) (Değişik ibare:RG-20/10/2020-31280) Cumhurbaşkanı kararı ile (Değişik ibare:RG-20/10/2020-31280) Kuruma tahsis edilen kontenjan ve gerekli diğer bilgiler ile Kurul tarafından tespit edilen uluslararası kuruluşlardaki staj ve kurslara ilişkin bilgiler ilgili personele duyurulmak üzere Personel Dairesi Başkanlığınca birimlerine bildirilir. Birimler durumu üç iş günü içerisinde imza karşılığında tüm personele duyurur.

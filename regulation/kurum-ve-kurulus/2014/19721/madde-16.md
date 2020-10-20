@@ -1,0 +1,6 @@
+Dış burs ve teknik işbirliği programları için aday tespiti
+MADDE 16 – (1) (Değişik ibare:RG-20/10/2020-31280) Kurumun muhtelif birimlerine gelen bütün dış burs veya teknik işbirliği programları, ilgili birimlerce, gecikmeye meydan verilmeksizin Personel Dairesi Başkanlığına bildirilir. Bildirilen tüm programlar, Personel Dairesi Başkanlığı tarafından (Değişik ibare:RG-20/10/2020-31280) Kurum birimlerine süreli olarak duyurulur.
+(2) Birimler yurt dışı adaylarını, adayın yurt dışı eğitime gönderilmesinin (Değişik ibare:RG-20/10/2020-31280) Kurumun görevleri itibarıyla önemini açıklayan ayrıntılı raporu Personel Dairesi Başkanlığına bildirir.
+(3) Birimlerce teklif edilen adaylar, Personel Dairesi Başkanlığı tarafından Kurula iki gün içerisinde intikal ettirilir. Kurulda bir hafta içerisinde görüşüldükten sonra alınan karar iki gün içinde Personel Dairesi Başkanlığına bildirilir.
+(4) Başvuru süresi sınırlı programlara gönderilmek üzere birimlerce teklif edilen adaylar, Kurulca belirlenen eğitim politika ve prensipleri doğrultusunda Kurulun teklifi ve Yönetim Kurulunun onayı ile kesinleşir.
+(5) Evrak kayıtlarına girdiği gün itibarıyla başvuru süresi beş günden az kalan programlar için adaylar Kurul Başkanı tarafından doğrudan belirlenir ve belirlenen adaylar Yönetim Kurulunun onayı ile kesinleşir.
