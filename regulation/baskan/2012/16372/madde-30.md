@@ -1,0 +1,2 @@
+Uzmanlığa atanma
+MADDE 30 – (1) Yeterlik sınavında başarılı olan uzman yardımcılarının uzman kadrolarına atanabilmeleri, (Değişik ibare:RG-4/1/2019-30645) YDS’den Kurumca belirlenen dil veya dillerden asgari (C) düzeyinde veya dil yeterliği bakımından buna veya bunlara denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye uzman yardımcılığı döneminde veya yeterlik sınavından itibaren en geç iki yıl içinde sahip olma şartına bağlıdır. Bu şartı taşıyan uzman yardımcıları uzmanlığa atanır.

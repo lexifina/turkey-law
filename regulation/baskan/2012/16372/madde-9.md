@@ -1,0 +1,4 @@
+Başvuru şekli ve yeri
+MADDE 9 – (1) Giriş sınavına başvurular Kurum internet sayfasında yayımlanacak sınav başvuru formunun elektronik ortamda doldurulması suretiyle yapılır. Bu formu elektronik ortam dışında doldurarak süresi içerisinde şahsen veya posta ile başvuranların başvuruları da kabul edilir. Postadaki gecikmeler ve ilanda belirtilen süreler içinde yapılmayan başvurular değerlendirmeye alınmaz. Bu şekilde yapılan başvurular, başvuru sahibi için herhangi bir hak oluşturmaz.
+(2) Yazılı sınavda başarılı olan adaylardan, ayrıca diploma veya mezuniyet belgesinin veya eğitimini yurt dışında tamamlamış olanlar için denklik belgesinin asıllarının sözlü sınav öncesinde Kuruma ibrazı zorunlu olup, bir örneği onaylanarak alınır ve aslı ilgiliye iade edilir.
+(3) Giriş sınavının yalnızca sözlü olarak yapılması halinde yukarıda sayılan belgeler sözlü sınavdan önce teslim edilir.

@@ -1,0 +1,3 @@
+Yıllık inceleme raporu
+MADDE 38 – (1) Yıllık inceleme planının ilişkin olduğu yılsonu itibarıyla, plan dâhilinde yapılan çalışmalar değerlendirilerek Kurumun çalışma durum ve sonuçlarını göstermek üzere yıllık inceleme raporu düzenlenir ve Kurula sunulur.
+(2) Yıllık inceleme raporu, yıllık inceleme planına paralel olarak hazırlanır. Çalışma sonuçlarına ilişkin yıllık inceleme planında belirlenen hedeflerin ne ölçüde gerçekleştirildikleri, tahlil ve kıyaslama yapılarak değerlendirilir. Ayrıca aramalı incelemeler, önemli olaylar, etütler ve planda yer almayan diğer çalışmaların yıl içerisinde gerçekleşmesi halinde bunlar hakkında da açıklamalar yapılır.

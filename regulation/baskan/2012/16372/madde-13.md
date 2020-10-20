@@ -1,0 +1,4 @@
+Yazılı sınavın değerlendirilmesi ve sonuçların duyurulması
+MADDE 13 – (1) Yazılı sınav, yüz tam puan üzerinden değerlendirilir. Yetmiş ve üzeri puan alan adaylar, en yüksek puan alan adaydan başlamak üzere, 8 inci maddenin birinci fıkrasının (b) bendinin (1), (2) ve (3) numaralı alt bentleri göz önünde bulundurulmak suretiyle sıralanarak tutanağa bağlanır ve atama yapılacak kadro sayısının dört katına kadar aday sözlü sınava çağrılır. Son sıradaki adayla eşit puan alan adaylar da sözlü sınava çağrılır.
+(2) Yazılı sınavın başka kurum veya kuruluşlara yaptırılması halinde, bu kurum veya kuruluşlar yazılı sınav sonuçlarını listeler halinde sınava ilişkin diğer belgelerle birlikte Sınav Komisyonuna teslim ederler.
+(3) Sözlü sınavın yeri, tarihi ve sözlü sınava girmeye hak kazanan adaylara ilişkin listeler, uygun yerlere asılmak ve Kurum resmi internet sitesinde ilan edilmek suretiyle duyurulur.

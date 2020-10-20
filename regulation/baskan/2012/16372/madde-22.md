@@ -1,0 +1,6 @@
+Yetki sınavı
+MADDE 22 – (1) Yetki sınavı, Sınav Komisyonunca yapılır. İnsan Kaynakları ve Destek Hizmetleri Dairesi Başkanlığı, sınava gireceklerin gerekli şartları taşıyıp taşımadıklarını tespit eder ve sınav tarihini en az iki ay önceden bildirir.
+(2) Yetki sınavında başarılı olabilmek için yüz tam puan üzerinden en az yetmiş puan alınması şarttır. Yetki sınavında başarılı olan uzman yardımcıları tek başına, denetim yetkisi kazanırlar ve bu durum kendilerine yazılı olarak bildirilir.
+(3) Yetki sınavında başarılı olamayanlar sınav tarihinden, geçerli mazeretleri sebebiyle yetki sınavına giremeyenler mazeretlerinin kalktığı tarihten, yetki sınavına giriş için gerekli şartları taşımayanlar ise gerekli şartları haiz oldukları tarihten itibaren iki aydan az olmamak üzere belirlenecek sürede yetki sınavına alınırlar.
+(4) İkinci kez girdikleri yetki sınavında da başarılı olamayanlar ile gerekli şartları sonradan kazandığı veya mazeretleri kalktığı halde yapılan ilk sınava girmeyen uzman yardımcıları bir daha yetki sınavına çağrılmazlar. Yeterlik sınavına altı aydan daha az bir süre kalması halinde, yeterlik sınavına girecekler için yetki sınavı yapılmaz.
+(5) Gerekli görülmesi halinde yetki sınavının yapılmasından önce, sınav konularına ilişkin olarak eğitim verilebilir.

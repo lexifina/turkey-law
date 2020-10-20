@@ -1,0 +1,4 @@
+Yabancı ülkelere gönderilme
+MADDE 47 – (1) Uzmanlar, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde mesleklerine ait hizmetlerde yetiştirilmek, eğitilmek, bilgilerini artırmak, staj, öğrenim veya ihtisas yaptırılmak amacıyla yabancı ülkelere gönderilebilirler.
+(2) Uzmanlar, mesleki incelemelerde bulunmak amacıyla bir yıldan fazla olmamak üzere yurtdışına geçici görevle gönderilebilir.
+(3) 33 üncü maddenin iki ve üçüncü fıkralarında belirtilen görevleri ifa edecek uzman ve uzman yardımcıları, gerektiğinde gözetim veya denetime tabi olan bağımsız denetçi ve bağımsız denetim kuruluşlarının yurt dışı faaliyetlerini denetlemek üzere yurt dışında görevlendirilebilir.

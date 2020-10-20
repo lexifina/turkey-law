@@ -1,0 +1,2 @@
+Meslekten çıkarılma
+MADDE 31 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, 29 uncu maddeye göre verilen ikinci sınav hakkında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler uzman yardımcısı unvanını kaybederler ve Kurumda durumlarına uygun memur unvanlı kadrolara atanırlar.

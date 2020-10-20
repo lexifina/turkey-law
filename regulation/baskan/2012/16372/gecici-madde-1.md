@@ -1,0 +1,5 @@
+Uzman istihdamı
+GEÇİCİ MADDE 1 – (1) 26/9/2011 tarihli ve 660 sayılı Kamu Gözetimi Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihten itibaren bir yıl içinde, bu Kanun Hükmünde Kararnameye ekli (1) sayılı cetvelde yer alan uzman kadro sayısının yüzde otuzunu geçmemek üzere, uzman yardımcılığı sınavına giriş için aranan öğrenim şartını taşımak ve başvuru tarihinde kırk yaşını doldurmamış olmak şartıyla;
+a) Mesleğe özel yarışma sınavı ile giren ve meslek içi eğitim sonrasında yapılan yeterlik sınavında başarılı olup, Kurula üye veren kamu kurum ve kuruluşlarında çalışmakta olanlar,
+b) Yükseköğrenim kurumlarında araştırma görevlisi veya öğretim elemanı olarak çalışmış olanlardan, muhasebe, finans, denetim veya hukuk alanlarında doktora çalışmalarını tamamlayanlar,
+Kurum tarafından yapılacak sınavda başarılı olmaları halinde bu Yönetmeliğin 30 uncu maddesinde belirtilen yabancı dil şartı aranmaksızın uzman kadrosuna atanabilir. Bu maddeye göre atanacak uzmanların sınav ve mesleki kıdemlerine ilişkin usul ve esaslar Kurum tarafından belirlenir.
