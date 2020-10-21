@@ -1,0 +1,20 @@
+{
+  "applicant": "S.A.",
+  "application_date": "2017-12-19",
+  "application_number": "2017/40199",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-09-08",
+  "id": "98387e43-1dde-9ce2-76f7-b7ba5236fe6d",
+  "in_force": "2020-10-21",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2020-10-21",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjk4Mzg3ZTQzLTFkZGUtOWNlMi03NmY3LWI3YmE1MjM2ZmU2ZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3b8fd7aeb7862a2eac33a186171cb300b28959bcefce49e0c215ac939c2e1c68",
+  "version_label": "as-enacted"
+}
