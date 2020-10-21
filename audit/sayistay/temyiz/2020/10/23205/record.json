@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48441",
+  "decision_date": "2020-10-21",
+  "source_id": 23205,
+  "chamber": "6",
+  "file_number": "45758",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23205/",
+  "source_sha256": "cfb954135430c4e2bded7c886bd2d3700b2e055169481366ec88d6ae0155ccee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
