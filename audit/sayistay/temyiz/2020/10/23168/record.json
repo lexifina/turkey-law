@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48403",
+  "decision_date": "2020-10-21",
+  "source_id": 23168,
+  "chamber": "6",
+  "file_number": "45788",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23168/",
+  "source_sha256": "f901e6372dbcbeb6013152428e64301d05e9f48ff74b79fe6c0980eafd4d825e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
