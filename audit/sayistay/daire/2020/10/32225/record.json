@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "764",
+  "decision_date": "2020-10-22",
+  "source_id": 32225,
+  "chamber": "6",
+  "ilam_number": "3",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32225/",
+  "source_sha256": "2304703f1a7ca07de85f5fe898c0a1207b981f1ca48bf10d9f7c76ae753db860",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
