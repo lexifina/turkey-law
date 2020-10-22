@@ -1,0 +1,618 @@
+22 Ekim 2020 PERŞEMBE
+Resmî Gazete
+Sayı : 31282
+YÖNETMELİK
+İçişleri Bakanlığından:
+TÜRKİYE
+CUMHURİYETİ KİMLİK KARTI ELEKTRONİK
+KİMLİK
+DOĞRULAMA SİSTEMİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak, Tanımlar ve Kısaltmalar
+Amaç
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Türkiye Cumhuriyeti
+kimlik kartı ile gerçekleştirilen elektronik kimlik doğrulama sistemi ile
+ilgili usul ve esasları belirlemektir.
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Türkiye Cumhuriyeti kimlik
+kartı ile gerçekleştirilen elektronik kimlik doğrulama sistemi
+uygulamasında yapılacak iş ve işlemlere ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 25/4/2006 tarihli ve 5490
+sayılı Nüfus Hizmetleri Kanununun 41 inci maddesi ile 10/7/2018 tarihli ve
+30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı
+Hakkında Cumhurbaşkanlığı Kararnamesinin 258 inci maddesi hükümlerine
+dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Akıllı kart okuyucu: Kimlik doğrulama sürecinde
+kimlik kartının elektronik olarak kullanılmasını sağlayan terminali,
+b) Bakan: İçişleri Bakanını,
+c) Bakanlık: İçişleri Bakanlığını,
+ç) Beyaz Liste: Kimlik doğrulama işlemi yapması
+onaylanmış Kart Erişim Cihazı listesini,
+d) Biyometrik veri: Elektronik sistemler aracılığı
+ile kimlik doğrulama işlemlerinin gerçekleştirilmesini sağlamak amacıyla
+kullanılan kişiye özgü veriyi,
+e) EKDS Değerlendirme Komisyonu: EKDS’nin kullanılması
+için gerekli inceleme, değerlendirme ve izin işlemlerini gerçekleştirmek
+üzere Bakan onayı ile oluşturulan komisyonu,
+f) Elektronik Kimlik Doğrulama Sistemi (EKDS):
+Türkiye Cumhuriyeti kimlik kartının elektronik kimlik doğrulama
+işlemlerinde kullanılabilmesini sağlayan sistemi,
+g) EKDS standardı: Türk Standartları Enstitüsü
+(TSE) tarafından EKDS ile ilgili belirlenen standartları,
+ğ) ESHS: Elektronik sertifika hizmet sağlayıcısını,
+h) Genel Müdür: Nüfus ve Vatandaşlık İşleri Genel
+Müdürünü,
+ı) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri
+Genel Müdürlüğünü,
+i) Güvenli Erişim Modülü (GEM) Akıllı Kartı: Kart
+erişim cihazı üzerindeki kriptografik işlemlerin gerçekleştirilmesi için
+kullanılan güvenli modülü,
+j) Güvenli iletişim sertifikası: KEC ve rol sunucusu
+arasında güvenli hat kurmak için gerekli olan sertifikayı,
+k) Hizmet alan: KDHS’den EKDS hizmeti alan kurum,
+kuruluş ve kişileri,
+l) Hizmet veren: EKDS kullanarak hizmet sunan kamu
+veya özel hukuk tüzel kişileri ile EKDS hizmetinden faydalanarak hizmet
+veren bir kamu veya özel hukuk tüzel kişiliğinde elektronik kimlik
+doğrulama işleminin gerçekleştirilmesinde rol alan yetkili personeli,
+m) HSM: Donanımsal güvenlik modülünü,
+n) Kart Erişim Cihazı (KEC): Vatandaşın kimliğini
+doğrulama işlevi için kullanılan terminali,
+o) KEC standardı: Elektronik kimlik kartları için
+güvenli kart erişim cihazları ile ilgili TSE tarafından belirlenen standartları,
+ö) KEC üreticisi: KEC standardına göre KEC üretimi
+yapan kamu veya özel hukuk tüzel kişilerini,
+p) Kimlik doğrulama: Kimlik kartını ibraz eden
+kişinin kimlik doğrulama sertifikası, PIN, biyometrik veri, dijital
+fotoğraf veya kartın fiziksel güvenlik öğeleri kullanılarak doğrulanmasını
+ve geçerlenmesini,
+r) Kimlik doğrulama başarım onayı: Kimlik doğrulama
+sunucusu tarafından kimlik doğrulama bildiriminin doğrulanması sonrasında
+oluşturulan ve hizmet alanın sistemlerine gönderilen imzalı veri nesnesini,
+s) Kimlik Doğrulama Bildirimi (KDB): KEC’in GEM
+Akıllı Kart aracılığı ile elektronik kimlik doğrulama için kimlik kartı ile
+etkileşim halinde yapmış olduğu kriptografik ve biyometrik işlemlerin
+sonucunu gösteren elektronik bildirimi,
+ş) Kimlik Doğrulama Hizmet Sağlayıcı (KDHS): EKDS
+standartlarına uygun olarak elektronik kimlik doğrulama ve kimlik
+doğrulamanın arşivlenmesine ilişkin hizmeti sağlayan kamu veya özel hukuk
+tüzel kişilerini,
+t) Kimlik Doğrulama Politikası (KDP): KEC
+tarafından kimlik doğrulama işleminde kullanılacak yöntem ve parametreleri
+içeren sayısal veriyi,
+u) Kimlik Doğrulama Politika Sunucusu (KDPS):
+EKDS’de Kimlik Doğrulama Politikası üretmek ve yayımlamak için kullanılan
+sunucuyu,
+ü) Kimlik doğrulama sertifikası: Kimlik doğrulaması
+amacıyla kullanılan sertifikayı,
+v) Kimlik Doğrulama Sunucusu (KDS): EKDS’de kimlik
+doğrulama bildirimlerini doğrulayan ve kimlik doğrulama başarım onayını
+dönen ve sonucu kaydeden sunucuyu,
+y) Kimlik kartı: Türkiye Cumhuriyeti kimlik
+kartını,
+z) Kimlik kartındaki veriler: 5490 sayılı Nüfus
+Hizmetleri Kanununun 41 inci maddesi hükümlerine göre Bakanlık tarafından
+belirlenen bilgileri,
+aa) MRZ: Makine tarafından okunabilen bölgeyi,
+bb) Ortak kriterler: Uluslararası Standartlar
+Organizasyonunun Uluslararası Bilgi Teknolojileri Güvenlik Değerlendirme
+Standardı olarak kabul ettiği ISO 15408 güvenlik standardını,
+cc) PIN: Kimlik sahibi ile kartın eşleştirilmesine
+olanak sağlayan sayısal veriyi,
+çç) PUK: PIN bloke edildiğinde, blokeyi kaldırmak
+için kullanılan sayısal veriyi,
+dd) Rol: Kimlik kartındaki alanlara erişmek isteyen
+taraflara tanımlanan erişim yetkisini,
+ee) Rol doğrulama: Kimlik kartındaki rol yetkisi
+gerektiren alanlara erişmek isteyen uygulamaların yetkisini kontrol etmekte
+kullanılan yöntemi,
+ff) Rol sertifikası: Rol doğrulamada kullanılan
+yetki sertifikasını,
+gg) Rol sunucusu: Rol doğrulamada kullanılan ve
+kimlik kartındaki alanlara erişen sunucuyu,
+ğğ) Taahhütname: KDHS’nin sorumluluk alanıyla
+ilgili EKDS kapsamında bulunan verilerin güvenliğinin ve idamesinin
+sağlanmasına ilişkin yeterli korumayı taahhüt ettiği idari ve teknik
+tedbirleri kapsayan belgeyi,
+hh) Uygunluk belgesi: EKDS veya KEC standardına
+uygun ürün olduğuna dair TSE tarafından verilen belgeyi,
+ıı) Yazılım yayıncı sertifikası: KEC yazılım
+paketlerini imzalamak için kullanılan sertifikayı,
+ifade eder.
+İKİNCİ BÖLÜM
+Temel Esaslar
+Kimlik
+kartının kullanım alanları
+MADDE 5 – (1) Kimlik kartında; kişi bilgileri, fotoğraf,
+imza, yonga, MRZ ve barkod alanları, biyometrik veri, elektronik
+sertifikalar ile güvenlik öğeleri bulunur.
+(2) Kimlik kartı, kimlik doğrulama amacıyla
+kullanılır.
+(3) Kimlik kartının elektronik imza aracı olarak
+kullanılmasında 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu
+hükümleri uygulanır.
+(4) Kimlik kartının temassız yongasındaki bilgiler
+ikili antlaşma yapılan ülkelerde seyahat belgesi olarak kullanılabilir.
+Yetki ve
+sorumluluk
+MADDE 6 – (1) EKDS ile ilgili inceleme, değerlendirme ve
+izin işlemlerini gerçekleştirmek üzere Bakan onayı ile Genel Müdürün
+başkanlığında EKDS Değerlendirme Komisyonu oluşturulur. Genel Müdürlük
+inceleme, değerlendirme ve izin işlemleri için EKDS yönetim altyapısını
+kurar.
+(2) Görevli ESHS, Bakan onayı ile belirlenerek
+Genel Müdürlüğün resmi internet sitesinden duyurulur.
+(3) Görevlendirilen ESHS’nin sağlayacağı tüm
+anahtar ve sertifikaların başvuru, temin, dağıtım, teslim ve iptal
+işlemlerine ilişkin yöntemi belirlemeye Genel Müdürlük yetkilidir.
+(4) Genel Müdürlük, hizmet alan, KDHS ve KEC
+üreticilerinden EKDS’ye ilişkin her türlü bilgi ve belgeyi istemeye
+yetkilidir.
+(5) Görevlendirilen ESHS, görevlendirildiği alanla
+sınırlı olmak üzere yazılım yayıncı, KDS, KDPS, güvenli iletişim, rol
+sertifikalarının ve GEM akıllı kartının üretiminden, tesliminden ve
+bunların teslim edilene kadar güvenliğinin sağlanmasından sorumludur.
+(6) Görevlendirilen ESHS tarafından EKDS ile ilgili
+sunulan hizmetlerden alınacak bedellerin üst sınırı Bakan onayı ile
+belirlenir.
+(7) EKDS üzerinden yapılan kimlik doğrulama iş ve
+işlemlerine ilişkin hukuki sonuçlar; KEC üreticisi, KDHS ve hizmet alanın sorumluluğundadır.
+(8) Genel Müdürlük, EKDS hizmetine ilişkin yaptığı
+çalışmalarla ilgili yıllık durum raporu hazırlar ve internet sayfasından
+yayınlar.
+ÜÇÜNCÜ BÖLÜM
+Başvuru ve
+Değerlendirme Süreci
+KDHS
+genel şartları
+MADDE 7 – (1) KDHS olabilmek için kamu veya özel hukuk tüzel
+kişilerinin aşağıdaki asgari şartları taşımaları zorunludur:
+a) TS EN ISO/IEC 27001 Bilgi Güvenliği Yönetim
+Sistemi sertifikası sahibi olmak.
+b) TSE tarafından EKDS ile ilgili yayımlanan
+standartlara uygunluğunu belgelemek.
+c) KDHS’nin sorumluluk alanıyla ilgili EKDS’nin
+güvenliği ve idamesine dair alınacak idari ve teknik tedbirleri kapsayan
+taahhütnameyi imzalamak.
+KDHS
+başvuru süreci
+MADDE 8 – (1) Kamu veya özel hukuk tüzel kişileri, KDHS olma
+talebini içeren başvurusunu Genel Müdürlüğün resmi internet sitesinde
+yayımlanan yöntem ile Genel Müdürlüğe yapar.
+(2) Başvurular en geç 3 (üç) ay içinde EKDS
+Değerlendirme Komisyonu tarafından sonuçlandırılarak Bakan onayına sunulur.
+Kararlar, Genel Müdürlük tarafından başvuru sahibine bildirilir.
+(3) EKDS Değerlendirme Komisyonu tarafından,
+başvuru şartlarında eksiklik bulunması halinde bu eksikliklerin giderilmesi
+için başvuruda bulunanlara 1 (bir) ayı geçmemek üzere süre verilir. EKDS
+Değerlendirme Komisyonu eksikliklerin giderilmesinden itibaren en geç 2
+(iki) ay içinde başvuruyu sonuçlandırır.
+(4) Onay verilen KDHS’ler, Genel Müdürlüğün
+internet sitesi üzerinden kamuoyuna duyurulur.
+(5) EKDS Değerlendirme Komisyonu tarafından yapılan
+inceleme sonucunda başvuru şartlarının yerine getirilmediğinin tespit
+edilmesi halinde uygun görülmeyen başvuru gerekçeli olarak başvuru sahibine
+bildirilir.
+(6) Bildirilen eksikliklerin giderilmesi halinde,
+başvuru sahibi, bu maddede belirtilen şekilde yeniden başvurusunu
+gerçekleştirebilir.
+KDHS
+sürecindeki değişiklikler
+MADDE 9 – (1) KDHS, faaliyete geçtikten sonra, yapmış olduğu
+başvuru şartlarında herhangi bir değişiklik meydana gelmesi halinde, bu
+değişiklikleri en geç 20 (yirmi) gün içinde Genel Müdürlüğe bildirir ve
+taahhütname bu değişikliklere uygun olarak yenilenir. Meydana gelen
+değişikliğin bildirilmediğinin tespit edilmesi halinde 26 ncı maddenin
+birinci fıkrasının (b) bendine göre işlem yapılır.
+(2) Bu Yönetmelikte, EKDS ile ilgili standartlarda
+veya taahhütnamede yapılan değişikliklere KDHS’nin ne kadar sürede uyum sağlayacağını
+belirlemeye Genel Müdürlük yetkilidir. KDHS’nin değişikliklere uyum
+sağlayamaması durumunda, KDHS faaliyet izni Bakan onayı ile iptal edilir.
+KDPS, rol
+ve güvenli iletişim sertifikaları başvuru süreci
+MADDE 10 – (1) KDHS, hizmet alan adına, TSE tarafından
+yayımlanan KDPS ve rol sunucusuna ilişkin EKDS standardını sağlamak
+şartıyla, KDPS ile rol ve güvenli iletişim sertifikaları talep etmek üzere,
+Genel Müdürlüğün resmi internet sitesinde yayımlanan yöntem ile Genel
+Müdürlüğe başvuru yapar.
+(2) Kamu kurum ve kuruluşları, rol ve güvenli
+iletişim sertifikası başvurularını Genel Müdürlüğün belirleyeceği yönteme
+uygun olarak doğrudan yapabilir.
+(3) Genel Müdürlük, EKDS Değerlendirme Komisyonunun
+kararı ve Bakan onayı neticesinde, talebi uygun görülenleri yetkilendirmek
+üzere ESHS’ye ve başvuru sahibine bildirir.
+GEM
+akıllı kartı ve yazılım yayıncı sertifikası başvuru süreci
+MADDE 11 – (1) KEC üreticileri, GEM akıllı kartı talepleri
+için aşağıdaki belgelerle birlikte Genel Müdürlüğe başvuru yapar:
+a) KEC standardı uygunluk belgesi,
+b) Ortak kriterler uygunluk belgesi,
+c) Kullanılacak KEC yazılımı sürümü,
+ç) Talep edilen GEM akıllı kartı miktarı.
+(2) KEC üreticileri, GEM akıllı kartı talebini
+içeren başvurularını Genel Müdürlüğün resmi internet sitesinde yayımlanan
+yöntem ile Genel Müdürlüğe yapar.
+(3) Başvurular en geç 3 (üç) ay içinde EKDS
+Değerlendirme Komisyonu tarafından sonuçlandırılarak Bakan onayına sunulur.
+Genel Müdürlük, başvurusu onaylananların GEM akıllı kartı ve yazılım
+yayıncı sertifikası taleplerini ESHS’ye ve başvuru sahibine bildirir.
+(4) GEM akıllı kartı ve yazılım yayıncı sertifikası
+talepleri uygun görülen KEC üreticilerine ilişkin detaylar Genel Müdürlüğün
+resmi internet sitesi üzerinden kamuoyuna duyurulur.
+(5) EKDS Değerlendirme Komisyonu tarafından yapılan
+incelemede, başvuru şartlarının yerine getirilmediğinin tespit edilmesi
+halinde uygun görülmeyen başvurunun sonucu gerekçeli olarak başvuru
+sahibine bildirilir.
+(6) Başvuru sahibi, bildirilen eksiklikleri
+gidermesi halinde bu maddede belirtilen şekilde başvurusunu yeniden gerçekleştirebilir.
+DÖRDÜNCÜ BÖLÜM
+Sertifikasyon
+Süreci
+KDS
+sertifikası oluşturulması süreci
+MADDE 12 – (1) EKDS’yi
+işletmek isteyen KDHS, Genel Müdürlüğün resmi internet sitesinde yayımlanan
+yöntem ile KDS sertifikası talebini Genel Müdürlüğe iletir ve talep EKDS
+Değerlendirme Komisyonu tarafından sonuçlandırılarak Bakan onayına sunulur.
+(2) Genel Müdürlük, onaylanan KDS sertifikası
+taleplerini ESHS’ye en geç 7 (yedi) iş günü içerisinde bildirir.
+(3) Görevli ESHS, Genel Müdürlük tarafından
+geçerlilik süresi belirlenen KDS sertifikasını oluşturur ve en geç 7 (yedi)
+iş günü içerisinde teslim eder.
+(4) ESHS, üretilen KDS sertifikasını kamuya açık
+bir dizinde yayımlar ve dizin hizmetinin kesintisiz olarak verilmesini
+sağlar.
+(5) Görevli ESHS, KDS sertifikası başvurusundan
+sonra sertifikayı oluşturur ve KDHS’nin HSM’sine yükler.
+KDPS, rol
+ve güvenli iletişim sertifikalarının oluşturulması
+MADDE 13 – (1) Genel Müdürlük, uygun görülen, KDPS, rol ve
+güvenli iletişim sertifikası taleplerini ESHS’ye bildirir.
+(2) Görevli ESHS, KDPS ve rol sertifikasını üretir
+ve başvuru sahibine en geç 30 (otuz) gün içinde teslim eder.
+(3) Rol sertifikasının özel anahtarı HSM’de
+saklanır.
+(4) Güvenli iletişim sertifikası, görevli ESHS
+tarafından rol sertifikası ile birlikte teslim edilir.
+GEM
+akıllı kartının oluşturulması
+MADDE 14 – (1) KEC üreticisi, onay verilen miktardaki GEM
+akıllı kartını, ESHS ile yapacağı GEM akıllı kart sözleşmesi ile beraber
+görevli ESHS’den talep eder.
+(2) GEM akıllı kartları, sözleşmenin
+imzalanmasından sonra sözleşmede belirtildiği şekilde kullanıma kapalı ve
+aktifleştirilmemiş halde, başvuru tarihinden itibaren en geç 30 (otuz) gün
+içerisinde yazılım yayıncı sertifikası ile birlikte KEC üreticisine teslim
+edilir.
+GEM
+akıllı kartının kullanıma açılması
+MADDE 15 – (1) KDHS, hizmet alanın KEC ile eşleşmiş GEM
+akıllı kartlarının kullanıma açılmasına ilişkin başvuruyu, Genel Müdürlüğün
+resmi internet sitesinde yayımlanan yöntem ile Genel Müdürlüğe yapar.
+(2) Genel Müdürlük, GEM akıllı kartlarının
+kullanıma açılması talebini herhangi bir idari ve teknik engelin bulunmaması
+halinde görevli ESHS’ye en geç 7 (yedi) iş günü içerisinde bildirir.
+(3) Görevli ESHS, kendisine bildirilen GEM akıllı
+kartlarındaki sertifikaları en geç 7 (yedi) iş günü içerisinde kullanıma
+açarak Genel Müdürlüğe ve KDHS’ye bildirir.
+Sertifika
+iptal süreci
+MADDE 16 – (1) EKDS’de üretilen bütün sertifikaların
+iptalleri görevlendirilmiş ESHS tarafından aşağıdaki gerekçelerle
+yapılabilir:
+a) Genel Müdürlüğün talebi,
+b) Sertifika sahiplerinin talebi,
+c) Sertifikanın ilişkili olduğu özel anahtarın
+yüklendiği ortamın kaybolması veya çalınması,
+ç) Sertifikanın ilişkili olduğu özel anahtarın
+güvensiz veya kullanılmaz hale gelmesi,
+d) KEC üreticisinin GEM akıllı kartlarının
+içerisindeki sertifikaların iptal edilmesini talep etmesi.
+(2) Rol sertifikaları ve güvenli iletişim
+sertifikalarının geçerlilik süresi sona erdiğinde yenilenmesi durdurulur.
+İptal talebi yapılan rol sertifikaları ve güvenli iletişim sertifikalarının
+talep yapıldığı andan itibaren kullanılmamasının sağlanması KDHS ve
+sertifika sahibi kurumun sorumluluğundadır.
+(3) Sertifika iptal talepleri, görevli ESHS
+tarafından belirlenen yöntemle doğrudan ESHS’ye yapılır.
+(4) Görevli ESHS kendisine iletilen sertifika iptal
+taleplerine derhal müdahale eder, bildirim ve iptal işleminin sonucunu
+Genel Müdürlüğe en geç 2 (iki) iş günü içerisinde raporlar. İptal işleminin
+gerçekleştirilmemesi durumunda ortaya çıkabilecek sorumluluk görevli
+ESHS’ye aittir.
+(5) Görevli ESHS, sertifikalara ilişkin iptal durum
+kaydını herhangi bir kimlik doğrulamasına gerek olmaksızın ücretsiz ve
+kesintisiz olarak kamu erişimine açık tutar.
+(6) İptal edilen sertifikalara ilişkin iptal
+sebepleri, olası riskler ve alınacak önlemlere ilişkin kamuoyu duyuruları
+görevli ESHS tarafından yapılır.
+BEŞİNCİ BÖLÜM
+Yükümlülükler
+ESHS’nin
+yükümlülükleri
+MADDE 17 – (1) Yetkili ESHS, EKDS’ye ilişkin iş ve
+işlemlerini, Genel Müdürlüğün kuracağı yönetim altyapısı üzerinden Genel
+Müdürlüğe bildirir.
+(2) Yetkili ESHS, EKDS’ye ilişkin sunduğu
+hizmetlerin sürekli ve kesintisiz sağlanması için gerekli önlemleri alır.
+(3) Yetkili ESHS, Bakanlığın izni dışında EKDS’ye
+ilişkin iş ve işlemlerin hiçbirini yürütmez.
+KDHS’nin
+yükümlülükleri
+MADDE 18 – (1) KDHS, kurduğu altyapı sistemindeki beyaz
+listeyi Genel Müdürlük ile paylaşır.
+(2) KDHS verdiği hizmeti, Genel Müdürlük ile
+paylaştığı beyaz liste ile sınırlamakla yükümlüdür.
+(3) KDHS, beyaz liste dışında tesis edilmeye
+çalışılan işlemleri engellemeye ve yaptığı tespiti Genel Müdürlüğe
+bildirmekle yükümlüdür.
+(4) KDHS, EKDS ile ilgili verdiği hizmette
+kullandığı donanım ve yazılımların EKDS standartlarına uygunluğuna ve
+bunların güvenliğine ilişkin gerekli tedbirleri almakla yükümlüdür.
+(5) KDHS, imzalanan ve güncellenen taahhütname
+hükümlerine uymakla yükümlüdür.
+Hizmet
+alanın yükümlülükleri
+MADDE 19 – (1) Hizmet alan, yeni temin ettiği veya
+operasyonel sebeplerden dolayı;
+a) Çalıştığı KEC üreticilerinden,
+b) Temin ettiği KEC’lerin seri numaralarından,
+c) KEC’ler ile ilişkilendirilmiş GEM akıllı kart
+seri numaralarından,
+ç) Çalıştığı KDHS’lerden,
+herhangi birinde veya tamamında değişiklik olması
+durumunda; söz konusu hususları, anlaşma sağladığı veya değişikliğin olduğu
+tarihten itibaren en geç 20 (yirmi) gün içerisinde Genel Müdürlüğe
+iletilmek üzere KDHS’ye bildirmekle yükümlüdür.
+ALTINCI BÖLÜM
+Teknik
+Hususlar, Güvenlik ve Denetim
+KDHS
+verileri
+MADDE 20 – (1) KDHS, EKDS’ye ilişkin imza oluşturma ve
+doğrulama verileri ile sertifikasını Türkiye Cumhuriyeti sınırları dışına
+çıkaramaz.
+(2) KDHS’ye ait imza oluşturma ve doğrulama
+verilerinin geçerlilik süresi 10 (on) yılı aşamaz.
+Elektronik
+kimlik doğrulama sisteminde verilerin güvenliği
+MADDE 21 – (1) Kimlik kartındaki veriler kimlik doğrulama
+amacı dışında kullanılamaz.
+(2) Hizmet alan ve KDHS, kimlik kartındaki
+verilerin hukuka aykırı olarak işlenmesi ile söz konusu verilere hukuka
+aykırı olarak erişilmesini önlemek ve muhafazasını sağlamak amacıyla, uygun
+güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari
+tedbirleri alır. Özel nitelikli kişisel veriler için ayrıca, 24/3/2016
+tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun 6 ncı
+maddesinin dördüncü fıkrası uyarınca Kişisel Verileri Koruma Kurulu
+tarafından belirlenen yeterli önlemler alınır.
+(3) Biyometrik veriler ile kimlik kartlarına ait
+PIN veya PUK bilgileri toplanamaz, saklanamaz ve paylaşılamaz.
+(4) EKDS Değerlendirme Komisyonunun belirlediği
+yetkiler dâhilinde hizmet alanlar, 5490 ve 6698 sayılı Kanunlarda
+belirtilen usul ve esaslara uymakla ve hizmet verdiği ilgili birimlerin de
+bu esaslar dâhilinde işlem yaptığını takip etmekle yükümlüdür.
+(5) ESHS tarafından verilen anahtar, sertifika ve
+yetkiler Bakanlığın izni olmadan devredilemez.
+Elektronik
+kimlik doğrulama sistemi sunucularına erişim ve güvenlik
+MADDE 22 – (1) KDHS yetkili personeli ve EKDS’de kullanılacak
+yazılım, EKDS standardında belirlenen esaslara göre EKDS sunucularına
+erişir.
+(2) EKDS sunucularına ve çevre birimlerine karşı
+yetkisiz erişimlerin engellenmesi amacıyla KDHS tarafından geri izleme ve
+güvenlik sistemi kurulur.
+(3) EKDS ile ilgili güvenliğe ilişkin olarak 6698
+sayılı Kanun ve ilgili mevzuata uygun gerekli her türlü teknik ve idari
+tedbirler alınır.
+(4) EKDS ile ilgili güvenliğe ilişkin diğer usul ve
+esaslar Genel Müdürlük tarafından belirlenir.
+KDS’den
+kimlik doğrulama başarım onayı alınmadan hizmetin verilmesi
+MADDE 23 – (1) Kimlik doğrulama işlemi için KDS’den kimlik
+doğrulama başarım onayı alınmadan hizmet verilmesinin sorumluluğu hizmet
+alana aittir.
+Geri
+izleme
+MADDE 24 – (1) EKDS’ye ilişkin kayıtlar, KDHS tarafından EKDS
+standartlarına uygun şekilde geri izleme bilgisi olarak 8 (sekiz) yıl
+süreyle saklanır.
+Denetim
+MADDE 25 – (1) EKDS’nin mevzuata, ilgili standartlara ve
+taahhütnameye uygun olarak işletilip işletilmediği Genel Müdürlükçe
+denetlenir.
+(2) Genel Müdürlük yapacağı denetimlerde kamu kurum
+ve kuruluşlar ile özel hukuk tüzel kişilerinden faydalanabilir veya hizmet
+alabilir.
+(3) Denetim sırasında, denetim yapmaya yetkili
+görevliler, EKDS ile ilgili her türlü belge ve kayıtları isteyebilir; EKDS
+ile ilgili fiziki alanlara girebilir.
+(4) Denetim sonucuna göre mevzuata aykırı faaliyet
+gösterdiği tespit edilenler hakkında, 5490 ve 6698 sayılı Kanunlar ile
+26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili madde
+hükümlerine göre işlem yapılır.
+YEDİNCİ BÖLÜM
+Faaliyetin Sona
+Ermesi
+Denetim
+sonucunda KDHS’nin faaliyetine son verilmesi
+MADDE 26 – (1) Denetim sonucunda;
+a) Genel Müdürlük tarafından faaliyetinin devamına
+engel teşkil edecek bir durumun tespit edilmesi halinde KDHS’nin
+faaliyetlerine 1 (bir) ayı geçmemek üzere belirlenecek süre içerisinde son
+verileceği hizmet alanlarla paylaşılır ve sürenin sonunda KDHS’nin
+faaliyetine Bakan onayı ile son verilir.
+b) KDHS’nin gerekli şartları yerine getirmediğinin
+tespit edilmesi halinde, eksikliğin giderilmesi için KDHS’ye 3 (üç) aya
+kadar süre verilebilir. KDHS’nin, verilmiş olan sürenin sonunda eksikliği
+giderememesi halinde KDHS’nin faaliyetlerine 1 (bir) ayı geçmemek üzere
+belirlenecek süre içerisinde son verileceği hizmet alanlarla paylaşılır ve
+sürenin sonunda KDHS’nin faaliyetine Bakan onayı ile son verilir.
+(2) Hizmet alan, KDHS’nin faaliyeti sonlanmadan
+önce başka bir KDHS ile kimlik doğrulama hizmeti almak üzere anlaşır.
+(3) Hizmet alan, faaliyetine son verilen KDHS’de
+saklanan, KDB verilerinin anlaştığı KDHS’ye devrinden eski KDHS ile
+birlikte müteselsilen sorumludur.
+(4) Genel Müdürlük, mücbir sebeplerin ortaya çıkması
+halinde bu maddede belirtilen süreleri uzatabilir.
+(5) Faaliyetine son verilen KDHS, hizmet alanların
+tamamının devir işlemlerini tamamlamasını müteakip kimlik doğrulama
+hizmetine son verir.
+(6) Faaliyetine son verilen KDHS, devir
+işlemlerinden sonra KDB verileri ve EKDS ile ilgili imza oluşturma verisi
+ile yedeklerini imha eder ve bu durumu kayıt altına alarak Genel Müdürlüğe
+bildirir.
+(7) Kimlik doğrulama hizmetinin devredilebileceği
+herhangi bir KDHS’nin bulunamaması durumunda kimlik doğrulama faaliyetine
+son verilen KDHS’nin oluşturduğu KDB verilerini teslim alacak merciyi
+belirlemeye Genel Müdürlük yetkilidir. KDB verilerini teslim alan merci,
+KDB verilerini bu Yönetmelikte belirtildiği süre kadar saklamak ve veriyi
+sakladığı süre içerisinde adli ve idari taleplere cevap vermekle
+yükümlüdür.
+KDHS’nin
+kendi faaliyetine son vermesi halinde yapılacak işlemler
+MADDE 27 – (1) KDHS, faaliyetine son vereceği tarihten en az
+3 (üç) ay önce durumu Genel Müdürlüğe bildirir.
+(2) KDHS ve Genel Müdürlük, KDHS’nin faaliyetine
+son vereceğini internet sayfasında yayımlar.
+(3) KDHS; faaliyetine son verme tarihine kadar
+hizmetlerine devam eder. Genel Müdürlük alacağı karar doğrultusunda 1 (bir) ayı geçmemek üzere süreyi
+uzatabilir.
+(4) Hizmet alan, KDHS’nin faaliyeti sonlanmadan
+önce başka bir KDHS ile kimlik doğrulama hizmeti devri konusunda anlaşır.
+(5) Genel Müdürlük, taraflar arasında anlaşma
+sağlanması halinde, faaliyetine son verilen KDHS’de bulunan KDB verilerinin
+devredilmesine karar verir.
+(6) Hizmet alan, faaliyetine son veren KDHS’de
+saklanan, KDB verilerinin anlaştığı KDHS’ye devrinden eski KDHS ile
+birlikte müteselsilen sorumludur.
+(7) KDHS, devir işlemlerinin tamamlanmasını
+müteakip kimlik doğrulama hizmetine son verir.
+(8) Faaliyetine son veren KDHS, devir işlemlerinden
+sonra KDB verisini ve EKDS ile ilgili imza oluşturma verisi ile yedeklerini
+imha eder ve bu durumu kayıt altına alarak Genel Müdürlüğe bildirir.
+(9) Kimlik doğrulama hizmetinin devredilebileceği
+herhangi bir KDHS’nin bulunamaması durumunda kimlik doğrulama faaliyetine
+son veren KDHS’nin oluşturduğu KDB verilerini teslim alacak merciyi
+belirlemeye Genel Müdürlük yetkilidir. KDB verilerini teslim alan merci,
+KDB verilerini bu Yönetmelikte belirtildiği süre kadar saklamak ve veriyi
+sakladığı süre içerisinde adli ve idari taleplere cevap vermekle
+yükümlüdür.
+Hizmet
+alanın KDHS değişikliği yapması
+MADDE 28 – (1) Hizmet alan, hizmet almakta olduğu KDHS’yi
+değiştirebilir.
+(2) Hizmet alan, hizmet alımına son verdiği KDHS’de
+saklanan KDB verilerinin, anlaştığı KDHS’ye devrinden eski KDHS ile
+birlikte müteselsilen sorumludur.
+(3) KDB verilerini devir alan KDHS, KDB verilerini
+bu Yönetmelikte belirtildiği süre kadar saklamak ve veriyi sakladığı süre
+içerisinde adli ve idari taleplere cevap vermekle yükümlüdür.
+Hizmet
+alanın faaliyetine son vermesi
+MADDE 29 – (1) Hizmet alanın, faaliyetine son vermesi
+halinde; hizmet aldığı KDHS, KDB verilerini bu Yönetmelikte belirtildiği
+süre kadar saklamak ve veriyi sakladığı süre içerisinde adli ve idari
+taleplere cevap vermekle yükümlüdür.
+SEKİZİNCİ BÖLÜM
+Kimlik Doğrulama
+Yöntemleri
+Kimlik
+doğrulama yöntemleri
+MADDE 30 – (1) Kimlik
+doğrulama işlemleri aşağıdaki yöntemlerden biri kullanılarak
+gerçekleştirilir:
+a) Fiziksel kimlik doğrulama: Kart gövdesi üzerinde
+bulunan görsel güvenlik özellikleri ve kimlik bilgileri kullanılarak
+yapılan doğrulama yöntemidir.
+b) Kimlik doğrulama sertifikası ile kimlik
+doğrulama: Kimlik doğrulama sertifikasının Genel Müdürlük tarafından
+verildiğinin ve geçerliliğinin akıllı kart okuyucu kullanılarak kontrol
+edilmesi yöntemidir.
+c) KEC kullanılarak kimlik doğrulama sertifikası
+ile kimlik doğrulama: Kimlik doğrulama sertifikasının ve temaslı yonganın
+Genel Müdürlük tarafından verildiğinin ve geçerliliğinin KEC kullanılarak
+kontrol edilmesi yöntemidir.
+ç) KEC kullanılarak kimlik doğrulama sertifikası ve
+fotoğraf ile kimlik doğrulama: Kimlik doğrulama sertifikasının ve temaslı
+yonganın Genel Müdürlük tarafından verildiğinin ve geçerliliğinin KEC
+kullanılarak kontrol edilmesi ve vatandaşın kimlik kartından okunan
+fotoğrafının hizmet veren tarafından doğrulanması yöntemidir.
+d) KEC kullanılarak kimlik doğrulama sertifikası ve
+biyometrik veri ile kimlik doğrulama: Kimlik doğrulama sertifikasının ve
+temaslı yonganın Genel Müdürlük tarafından verildiğinin ve geçerliliğinin,
+KEC kullanılarak kontrol edilmesi ve vatandaşın biyometrik verisinin KEC
+kullanılarak doğrulanması yöntemidir.
+e) KEC kullanılarak kimlik doğrulama sertifikası,
+fotoğraf ve biyometrik veri ile kimlik doğrulama: Kimlik doğrulama
+sertifikasının ve temaslı yonganın Genel Müdürlük tarafından verildiğinin
+ve geçerliliğinin KEC kullanılarak kontrol edilmesi, vatandaşın biyometrik
+verisinin KEC kullanılarak doğrulanması ve vatandaşın kimlik kartından
+okunan fotoğrafının hizmet veren tarafından doğrulanması yöntemidir.
+f) Kimlik doğrulama sertifikası ve PIN ile kimlik
+doğrulama: Kimlik doğrulama sertifikasının Genel Müdürlük tarafından
+verildiğinin ve geçerliliğinin Akıllı Kart Okuyucu kullanılarak kontrol
+edilmesi ve kimlik doğrulama PIN’inin akıllı kart okuyucu kullanılarak
+doğrulanması yöntemidir.
+g) KEC kullanılarak kimlik doğrulama sertifikası ve
+PIN ile kimlik doğrulama: Kimlik doğrulama sertifikasının ve temaslı
+yonganın Genel Müdürlük tarafından verildiğinin ve geçerliliğinin KEC
+kullanılarak kontrol edilmesi ve kimlik doğrulama PIN’inin KEC kullanılarak
+doğrulanması yöntemidir.
+ğ) KEC kullanılarak kimlik doğrulama sertifikası,
+PIN ve fotoğraf ile kimlik doğrulama: Kimlik doğrulama sertifikasının ve
+temaslı yonganın Genel Müdürlük tarafından verildiğinin ve geçerliliğinin
+KEC kullanılarak kontrol edilmesi, kimlik doğrulama PIN’inin KEC
+kullanılarak doğrulanması ve vatandaşın kimlik kartından okunan fotoğrafının
+hizmet veren tarafından doğrulanması yöntemidir.
+h) KEC kullanılarak kimlik doğrulama sertifikası,
+PIN ve biyometrik veri ile kimlik doğrulama: Kimlik doğrulama
+sertifikasının ve temaslı yonganın Genel Müdürlük tarafından verildiğinin
+ve geçerliliğinin KEC kullanılarak kontrol edilmesi, kimlik doğrulama
+PIN’inin ve vatandaşın biyometrik verisinin KEC kullanılarak doğrulanması
+yöntemidir.
+ı) KEC kullanılarak kimlik doğrulama sertifikası,
+PIN, fotoğraf ve biyometrik veri ile kimlik doğrulama: Kimlik doğrulama
+sertifikasının ve temaslı yonganın Genel Müdürlük tarafından verildiğinin
+ve geçerliliğinin KEC kullanılarak kontrol edilmesi, kimlik doğrulama
+PIN’inin ve vatandaşın biyometrik verisinin KEC kullanılarak doğrulanması
+ve vatandaşın kimlik kartından okunan fotoğrafının hizmet veren tarafından
+doğrulanması yöntemidir.
+(2) Kimlik doğrulama yöntemlerinden hangisinin veya
+hangilerinin kullanılacağı, hizmet alan kurumun tabi olduğu mevzuat
+hükümlerine ve hizmetin niteliğine uygun olarak hizmet alan tarafından
+belirlenir.
+(3) Genel Müdürlük tarafından belirlenecek diğer
+yöntemler standart olarak tanımlandıktan sonra, kimlik tespit ve doğrulama
+yöntemi olarak kullanılabilir.
+DOKUZUNCU BÖLÜM
+Çeşitli ve Son
+Hükümler
+Faaliyet
+raporu
+MADDE 31 – (1) KDHS, her yıl Mart ayı sonuna kadar Genel
+Müdürlüğe bir önceki yıla ilişkin rapor verir. Rapor aşağıdaki asgari
+unsurları içerir:
+a) Yıl içinde sunulan hizmetin detaylarını,
+b) Varsa kendisine devredilen KDB verilerini,
+c) Genel Müdürlük tarafından istenecek diğer bilgi
+ve belgeleri.
+(2) Genel Müdürlük tarafından talep edilmesi
+durumunda, görevlendirilen ESHS, EKDS’nin kullanımına yönelik rapor
+hazırlamakla sorumludur.
+Tereddütlerin
+giderilmesi
+MADDE 32 – (1) Bu Yönetmeliğin uygulanması sırasında
+doğabilecek tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye
+Bakanlık yetkilidir.
+Yürürlük
+MADDE 33 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 34 – (1) Bu Yönetmelik hükümlerini İçişleri Bakanı
+yürütür.
