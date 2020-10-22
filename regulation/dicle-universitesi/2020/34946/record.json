@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-10-22",
+      "22.10.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31282",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-10-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Dicle Üniversitesi",
+  "issuer_slug": "dicle-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/dicle-universitesi/2020/34946",
+  "published": "2020-10-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34946&MevzuatTertip=5",
+  "source_bytes": 40937,
+  "source_id": "8.5.34946",
+  "source_sha256": "0cddc5a5771c9b3fc5521549abbbf9e1ada17eb18af7ae5a12a487e917a30043",
+  "text_status": "as-enacted",
+  "title": "DİCLE ÜNİVERSİTESİ SAĞLIK UYGULAMA VE\r\nARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 188,
+  "word_count": 1746
+}
