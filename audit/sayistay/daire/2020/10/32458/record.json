@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "409",
+  "decision_date": "2020-10-22",
+  "source_id": 32458,
+  "chamber": "7",
+  "ilam_number": "167",
+  "item_number": 41,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32458/",
+  "source_sha256": "5b2719b5b92a7acf3410fa5fd4c0f6f98b37fd240725bdd4cc782c84b34f4256",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
