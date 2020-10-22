@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "753",
+  "decision_date": "2020-10-22",
+  "source_id": 32270,
+  "chamber": "6",
+  "ilam_number": "149",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32270/",
+  "source_sha256": "57efb31f9ba596494c34ce1aae4a443605a37869a76d31ad2fe463e5dda4fa0f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
