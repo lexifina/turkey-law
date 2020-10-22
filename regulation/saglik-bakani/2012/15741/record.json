@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.15741",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAĞLIK BAKANLIĞI TAŞRA TEŞKİLATI İDARİ VE HİZMET BİRİMLERİ KADRO STANDARTLARI YÖNETMELİĞİ",
+  "number": "15741",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2012/15741",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15741&MevzuatTertip=5",
+  "source_sha256": "ac98855f7451de48713511c183ee623f7e8acdff36e1a7a56402842632a0f2dc",
+  "source_bytes": 124171,
+  "published": "2012-01-04",
+  "gazette": "28163",
+  "in_force": "2020-10-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-22",
+      "RG-22/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-22",
+      "22/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-10-07",
+      "RG-7/10/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-10-07",
+      "7/10/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-12",
+      "12/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-05-20",
+      "20/5/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-13",
+      "13/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 860,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
