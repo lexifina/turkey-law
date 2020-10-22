@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/816",
+  "source_id": 7018,
+  "date": "2020-10-22",
+  "title": "“Bir teknoloji şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 22/10/2020 tarih ve 2020/816 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7018/2020-816",
+  "source_sha256": "7eeb1b9fe78016e36cc9bec8c6cd5e6af9dbc66218c0d91e0b0355b0e9c5383e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
