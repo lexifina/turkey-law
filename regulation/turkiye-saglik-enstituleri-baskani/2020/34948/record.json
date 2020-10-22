@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34948",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE SAĞLIK ENSTİTÜLERİ BAŞKANLIĞI PROJE DESTEK PROGRAMLARINA İLİŞKİN YÖNETMELİK",
+  "number": "34948",
+  "issuer": "Türkiye Sağlık Enstitüleri Başkanı",
+  "issuer_slug": "turkiye-saglik-enstituleri-baskani",
+  "path": "regulation/turkiye-saglik-enstituleri-baskani/2020/34948",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34948&MevzuatTertip=5",
+  "source_sha256": "54d96c2ee56d69290cd42fdf71319322d462f52f528b1eb2d6832c3179175c36",
+  "source_bytes": 56159,
+  "published": "2020-10-22",
+  "gazette": "31282",
+  "in_force": "2020-10-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2925,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
