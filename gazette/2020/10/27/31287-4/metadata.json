@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-10-27",
+  "issue": "31287",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Hazine ve Maliye Bakanlığı Defterdarlık Uzmanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201027-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201027.htm",
+  "index_sha256": "277c1da8ec2b3393b55d70ab9e2a512e85e1ef36233f25c8dd68714dcf9e61c3",
+  "index_header": "27 Ekim 2020 ... 31287 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/10/20201027.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
