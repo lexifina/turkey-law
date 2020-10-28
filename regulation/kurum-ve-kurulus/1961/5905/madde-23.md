@@ -1,0 +1,1 @@
+Madde 23 - Amirler icabında hükmedecekleri cezanın cins ve miktarını yalnız yapılan yolsuzluğun ve kabahatin derecesi ile ölçmemeli, astın itaate nizam ve intizama itiyadını gözönüne koyarak onun istidat, ruhi haletini de hesaba katarak tâyin etmelidir. Bu iş âmirlerden maharet ve cesaret ister.

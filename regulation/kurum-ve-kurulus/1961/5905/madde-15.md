@@ -1,0 +1,1 @@
+Madde 15 - Amirlerin emirlerini, maiyetinde bulunan rütbe ve kıdemce kendisinden büyük personel de yapmağa mecburdur. Amirler de bu zevata rütbeleri itibarı ile lâyık oldukları saygıyı göstermeğe mecburdurlar.

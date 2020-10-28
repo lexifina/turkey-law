@@ -1,0 +1,1 @@
+Madde 257 - Silâhlı veya silâhsız olarak çatı altında veya dışında hangi amaçla olursa olsun toplanmış bir kıt'aya âmir veya üst tarafından merhaba veya günaydın asker veya merhaba veya günaydın üçüncü bölük nasılsınız, iyi misiniz, Allaha ısmarladık, bayramınız kutlu olsun, uğurlar olsun asker gibi hitaplara karşı hep bir ağızdan sağ ol diye cevap verilir.

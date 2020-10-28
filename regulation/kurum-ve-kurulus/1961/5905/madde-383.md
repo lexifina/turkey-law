@@ -1,0 +1,1 @@
+Madde 383 - Kendisine nöbet hizmeti sırası gelen bir rütbe sahibinin mazeretinin zuhuru halinde o gün için nöbete girmemesi birlik kumandanı veya kurum âmirinin tarafından muvafık görülürse hizmet kendisinden sonra gelene teveccüh eder. Ve durum nöbet alacak olana en kısa zamanda duyurulur. Mazeret kalktığında geçmiş nöbetlerinden bir tanesi tutturulur.

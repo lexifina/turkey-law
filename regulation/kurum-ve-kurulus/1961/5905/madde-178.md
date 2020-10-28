@@ -1,0 +1,1 @@
+Madde 178 - Yasak edilmiş evrak ve risalelerin ve propaganda vasıtalarının veya askerlik için zararlı görülen şeylerin kışla, konak ve ordugâhlara sokulmamasını ve şüpheli şahısların askerlerle temas ettirilmemesini temin ve kontrol eder.

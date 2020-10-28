@@ -1,0 +1,1 @@
+Madde 704 - Öldürülmesine veteriner tarafından rapor verilen hayvanlar kafile kumandanı tarafından tâyin edilecek bir heyetin gözü önünde öldürülür ve bir de zabıt kâğıdı tutulur. Böyle hayvanlar derisi ile beraber derince gömülür ve bulundukları ahırlar fenni bir surette temizlenir.

@@ -1,0 +1,1 @@
+Madde 649 - Kışlada bulunmak emri verildikten sonra er, erbaş astsubay ve subaylardan hiç bir kimse kışladan emirsiz ayrılamaz. Herhangi bir sebeple veya iş maksadiyle kışla dışına çıkarılacak kuvvetin miktarı durumun ehemmiyetine göre hesap edilmeli ve bu kuvvet silâhlı ve cephaneli olmalıdır.

@@ -1,0 +1,1 @@
+Madde 655 - Asker her an ve zamanında ve hususiyle silâh başına emir veya işareti verildiği vakit hemen takınıp kuşanacak ve süratle çıkabilecek veçhile eşya ve teçhizatı hazır bulunmalıdır. Bu gibi zamanlarda kışla ve konakların dışında bulunan askerler hemen kışlaya koşar ve çabucak hazırlanıp evvelden tesbit edilen yere giderler.

@@ -1,0 +1,2 @@
+Madde 149 - Merasim elbisesiyle iştirak edilecek kutlama ve resmî kabullerde subaylar şapka, kılıçla beraber sol ellerinde (Şapka içi vücuda dönük, viziyeri aşağıya gelmek ve viziyerden tutulmak suretiyle) eldivenli (Sol el eldivenli ve sağ eldiven sol elde) olmak üzere kapalı merasim yerine girerler.
+Merasim elbisesi giymeyi icap ettiren ziyafetlerde subaylar şapka ve kılıçlarını mahalli mahsusa bırakırlar. Bu takdirde kılıç kulaklıkları da kemerden çıkarılarak kılıç ile beraber bırakılır.

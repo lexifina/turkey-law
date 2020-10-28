@@ -1,0 +1,1 @@
+Madde 509 - Filika ve sair vasıtalar asılırken veya mayna dururken emniyetle çalışılmasına, eşya naklinde armadorluk işleri ile gerekli palanga donanımları, açavele ve kasavele donatılmasını yaparlar.

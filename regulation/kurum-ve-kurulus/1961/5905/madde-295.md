@@ -1,0 +1,1 @@
+Madde 295 - Hastalık raporunu âmir keyfiyeti, bir derece yukarı âmirine arzeder. 24 saatten fazla hasta olanların durumu kıtalarda tümen (Deniz ve havada eşidi birlikler) kumandanlıklarına kadar, karargâhta ve askerî kurumlarda bir derece yukarı âmirine bildirilir.

@@ -1,0 +1,1 @@
+Madde 63 - Sıhhi mazereti olmadığı halde âmirlerinden müsaade almaksızın vazifeleri başına gelmeyenler veya geç gelenler, bu hareketleri kanunda muayyen bir suç teşkil etmediği ve muayyen bir ceza ile karşılanmadığı hallerde, disiplin cezası ile cezalandırılırlar. Bu hal tekerrür ederse her defasında ceza şiddetlendirilmekle beraber siciline de geçirilir.

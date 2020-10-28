@@ -1,0 +1,2 @@
+Madde 27 - Amirler; bayramlarda, bulundukları garnizonlardaki kışlalara giderek askerlerle bayramlaşmalı ve hem bayramlarda, hem de her münasip fırsatta bizzat hastaneye giderek veya yerlerine rütbeli ve yetkili birini göndererek hasta yatan subay, astsubay, erbaş ve erlerin hal ve hatırlarını sormalıdırlar. Bilhassa bölük kumandanları bu ziyaretleri bizzat yapmalıdır.
+Bu ziyaretler askerin kalbinde derin sevgi izleri bırakır ve âmirlerine karşı besledikleri itimadı çoğaltır.

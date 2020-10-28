@@ -1,0 +1,1 @@
+Madde 699 - Kafile eratından birinin ölmesi halinde askerî veya mülki tabipten bir rapor alınarak cenazesi dinî merasimle gömülür. Ölenlerin gerek Hükümet tarafından verilmiş ve gerek şahsına ait bulunan eşyası kıtasına teslim edilmek üzere beraber taşınır. Şayet beraber taşımakta güçlük varsa silâh ve cephaneden gayrisi en yakın askerî garnizona teslim olunur.

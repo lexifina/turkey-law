@@ -1,0 +1,2 @@
+5 - Su verme
+Madde 338 - Hayvanlara her mevsimde günde en az iki defa su içirmeli sıcak mevsim ve iklimlerde öğle vakti de su verilmelidir. Hayvanlar su içerlerken fasılasız su içmelerine müsaade edilmemeli, dinlendire dinlendire içirilmelidir. İnsanların içmiyeceği herhangi bir su (mecburiyet olmadıkça) hayvanlara içirilmemelidir. Hayvanları bulaşıcı hastalıklardan ve sülüklerden korumak için rastgele umumi yalaklardan sulamak yasaktır. Bu takdirde kovalarla içirilmelidir.

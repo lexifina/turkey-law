@@ -1,0 +1,1 @@
+Madde 628 - Her nizam karakolunda nöbet yerlerini ve nöbetçisinin genel ve özel talimatını ihtiva eden bir (Nizam karakolu talimatı) ve bir de yangın halinde hareket tarzını gösterir bir talimat, kıt'anın günlük ve nöbet hizmetlerini ve daha buna benzer işleri gösterir cetveller bulunur.

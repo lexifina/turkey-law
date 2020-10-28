@@ -1,0 +1,2 @@
+Madde 429 - Nöbetçiler görevlerine ve nöbet alacakları mevkilere göre günlük, eğitim veya işbaşı kıyafetinde olarak görevlerine mahsus işaret veya silâh taşıyarak nöbet alırlar.
+Nöbetçilerin günlük kıyafet ile nöbet alacakları yerler ve taşıyacakları teçhizat kıyafet kararnamesinde gösterilmiştir. Gemi kumandanı duruma göre veya lüzum gördüğü ahvalde bütün nöbetçilere günlük elbise giymelerini emredebilir.

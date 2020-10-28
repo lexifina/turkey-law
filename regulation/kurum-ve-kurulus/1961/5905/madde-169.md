@@ -1,0 +1,1 @@
+Madde 169 - Garnizon kumandaları bütün Silâhlı Kuvvetler mensuplarının silâhla veya silâhsız meydana getirecekleri suçlara karşı mâni tedbir alırlar. Silâhlı kuvvetlerin onuru, haysiyeti ve mevcudiyeti aleyhine vâkı olacak bozguncu hareketlerin teşvik ve tertipçilerini bir taraftan men, takip ve tevkif eder, diğer taraftan bunların kendi âmirlerine keyfiyeti haber verirler.

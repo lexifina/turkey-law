@@ -1,0 +1,1 @@
+Madde 349 - Hayvanların altına yataklık olarak ot, saman, çavdar sapı konur. Bunlardan tedarik mümkün olmazsa hastalıkla bulaşık olmayan yanmış kuru ve temiz gübre serilir. Bu yataklıklar her gün kaldırılmalı, yaşları ve pislenmiş olanları atılmalıdır. Kullanılabilecek kısımlar tekrar kurutulduktan sonra kullanılmalıdır.

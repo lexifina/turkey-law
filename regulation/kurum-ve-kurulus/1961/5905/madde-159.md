@@ -1,0 +1,1 @@
+Madde 159 - Garnizon kumandanları ihtilâl, isyan ve bu gibi mühim ve acele olayları kendi âmirleri ile beraber doğruca Millî Savunma Bakanlığı ve Genelkurmay Başkanlığına da en seri vasıta ile bildirirler.

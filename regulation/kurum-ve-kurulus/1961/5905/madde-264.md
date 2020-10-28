@@ -1,0 +1,1 @@
+Madde 264 - Bölük kumandanları aldığı vukuat raporunu gözden geçirir, üst makama arzedilmesine lüzum gördüklerini ve halli kendi salâhiyeti dışında olan bölük personelinin yazı ile olan müracaatlarını bağlıyarak muayyen vaktinde takdim eder.

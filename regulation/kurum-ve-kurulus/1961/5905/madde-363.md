@@ -1,0 +1,1 @@
+Madde 363 - Onbaşı, erlerine kendi bölüğünün subaylarını, astsubaylarını ve kışladaki diğer birlik kumandanlarını şahsen tanıtır. Rütbelerini ve kışlaya civar yerlerde oturanların oturdukları yerleri öğretir. Maiyetinin münasebetsiz ve yabancı kimselerle görüşmemelerine dikkat eder.

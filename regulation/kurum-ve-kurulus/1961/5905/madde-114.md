@@ -1,0 +1,1 @@
+Madde 114 - Savaşın her hangi bir devrinde memleketin ve silâhlı kuvvetlerin kuvveti hakkında emniyet ve itimadı sarsacak ve kalbi yılgınlığa ve bezginliğe düşürecek söz söyleyenler, silâh ve cephanesini atanlar ileri gitmekten çekinenler, kaçmağa yeltenenler, yağmaya kalkışanlar askerî Ceza Kanununa göre ve kumandanların haiz oldukları selâhiyetle hemen şiddetle cezalandırılır.

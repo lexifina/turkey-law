@@ -1,0 +1,1 @@
+Madde 354 - Tavlalarda ara ağaçlarının daima iyi ve sağlam bir halde bulunmasına dikkat edilmeli, yular zincirlerinin kırılması halinde, hayvanları yaralamamak için tel ile bağlanmasına asla müsaade etmemelidir.

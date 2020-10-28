@@ -1,0 +1,1 @@
+Madde 711 - Yangın şehir veya kasaba içinden çıkar da o mahallin en büyük mülkiye âmiri tarafından askerin yardımı istenirse, garnizon kumandanı ve dar zamanlarda her birlik kumandanı yardım için kâfi kuvvette bir kıta sevkeder. Bu kuvvetten yangın söndürmeğe tefrik edilen kısım silâhsız ve karakol vazifesi görecek olanlar silâhlı olur.

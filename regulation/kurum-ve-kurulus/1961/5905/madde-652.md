@@ -1,0 +1,1 @@
+Madde 652 - Askerin silâh başı edilmeleri kaideten boru veya trampet veya alarm düdüğü vesair işaretiyle olur. Bu işaret icabında uzaktan işitilip görülecek surette mesalâ; top, işaret tabancası attırmak ve ateş yaktırmak, tayyare uçurmak ve telefon gibi evvelden kararlaştırılacak vasıtalarla da yapılır.

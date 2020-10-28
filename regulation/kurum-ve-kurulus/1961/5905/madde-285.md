@@ -1,0 +1,1 @@
+Madde 285 - Tabibin lüzum gördüğü hastalar hastaneye gönderilir. Hastaneye sevkedilecek er ve erbaşlara noksansız olarak hasta kabul tezkeresi doldurulur. Açık künye ve aşıları yazılmakla beraber ilk bakan tabibin müşahadesi ve tatbik ettiği ilâçların yazılması şarttır.

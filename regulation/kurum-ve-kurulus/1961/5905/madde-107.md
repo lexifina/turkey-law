@@ -1,0 +1,1 @@
+Madde 107 - Erbaş ve erler, Silâhlı Kuvvetlerde öğrendiği askerî vazifeleri terhisten sonra da unutmamağa ve silâh altında kazanılan çeviklik, dayanıklılık ve sporculuk hassalarını muhafazayı gayret etmeli, askerliğin meziyetini ve yüksek ruhunu sivil arkadaşlarına, çocuklarına ve akrabalarına aşılamağa çalışmalıdır.

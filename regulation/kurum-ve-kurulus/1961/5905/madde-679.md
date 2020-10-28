@@ -1,0 +1,1 @@
+Madde 679 - Uzak garnizonlarda oturan subay, askerî memur ve astsubay ailelerinin şehirle irtibatları ve çocukları okula götürülüp getirilmesini temin için garnizon kumandanlığınca bir program dahilinde vasıta tahsis edilir.

@@ -1,0 +1,1 @@
+Madde 351 - Ahırlarda temizlik ve intizam temini ahıra memur astsubay ve erbaşlara aittir. Ahır hizmetlerinin görülmesi için topçu ve süvaride her top veya manga için bir ahır nöbetçi eri, diğer sınıflarda (Değişik ibare:RG-29/8/2014-29103) 20-30 hayvana bir er hesabiyle günlük ahır nöbetçileri tâyin olunur. Ahır nöbetçilerine iş elbisesi verilir.

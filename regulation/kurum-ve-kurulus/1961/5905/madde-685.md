@@ -1,0 +1,1 @@
+Madde 685 - Yürüyüşe başlamadan evvel kafile komutanı teslim alınacak herşeyi sayı veya tartısına göre tamam olarak teslim alır. Muhafız kıtanın vazifesi ve kafilenin sureti hareketi hakkında kafile komutanına icap eden emir ve talimatla idare ve iaşe işlerine ait ayrıca emir ve talimat verilir.

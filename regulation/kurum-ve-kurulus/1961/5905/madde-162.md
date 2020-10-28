@@ -1,0 +1,1 @@
+Madde 162 - Yukarıdaki iki maddede, yazılı işlerin iyi görülebilmesi için şehir ve kısımlarının haritası ve bu harita üzerinde muhabere vasıtalarının nevileri, umumi kurumların ve her nevi sivil teşkilâtın ve özel kurumların yerleri tesbit edilir.

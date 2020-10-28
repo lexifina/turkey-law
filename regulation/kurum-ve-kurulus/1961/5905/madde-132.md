@@ -1,0 +1,1 @@
+Madde 132 - Bütün muvazzaf, yedek subayların, askerî memurların ve astsubayların kendi hesaplarına doğrudan doğruya bastırılarak neşrettirecekleri askerî eser ve makalelere (Özel askerî neşriyat) adı verilir. Özel askerî neşriyat, matbuat ve matbualar kanunu ile telif hakkı ve askerî kanunlara tabidir.

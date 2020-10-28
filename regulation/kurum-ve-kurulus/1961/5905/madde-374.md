@@ -1,0 +1,1 @@
+Madde 374 - Kanunun ve disiplinin muhafazası icabettiği zaman subay da yoksa astsubaylar astlarını yakalamak hak ve yetkisine haizdir. İlk ihtarı dinlemeyen sarhoş ve mütecaviz astları derhal nezaret altına aldırır ve hemen ilk âmirine durumu bildirir.

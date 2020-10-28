@@ -1,0 +1,1 @@
+Madde 376 - Subay her türlü ahvalde, Cumhuriyete sadakat, yurda ve vazifeye muhabbette ve her hususta örnek olmalı, onurlu olan askerlik hizmetine nefsini hasredip icabında hayatını feda etmekten çekinmemelidir.

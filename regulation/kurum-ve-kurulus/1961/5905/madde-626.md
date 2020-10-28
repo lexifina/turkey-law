@@ -1,0 +1,1 @@
+Madde 626 - Eski karakolun nöbet yerlerinde bulunan erleri karakola geldikten sonra eski karakol kumandanı kıt'asına silâhbaşına ederek karakoldan hareket ettirir ve münasip yere kadar götürerek oradan erbaş ve erlerin koğuşlarına gitmelerine müsaade eder.

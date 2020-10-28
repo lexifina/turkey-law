@@ -1,0 +1,2 @@
+Madde 81 – (Değişik:RG-26/12/2014-29217)
+Askeri şahıslarla ilgili siciller ve diğer resmi kağıtlarda renkli fotoğraf kullanılır. Bu amaçla çektirilecek fotoğraflar için kıyafet günlük elbisedir. Baş açık ve tıraşlı olmalıdır. Pasaport ve özel vazife belgesi alanların fotoğrafı yerine göre sivil veya resmi kıyafetli olabilir. Bu fotoğrafların özellikleri, kullanım yerine göre nizamlarla belirlenir.

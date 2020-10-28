@@ -1,0 +1,1 @@
+Madde 280 - Sivil tabip bulunmıyan garnizonlarda şehir içi veya civarında vukubulacak adli vakalara müddeiumuminin talebi üzerine garnizondaki askeri tabip, garnizon vazifesine halel gelmemek şartiyle ve garnizon kumandanının emriyle gider, bu gidiş ve geliş masrafları mahalli hükümetçe temin edilir.

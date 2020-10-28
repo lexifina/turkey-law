@@ -1,0 +1,1 @@
+Madde 460 - Gemiye herhangi bir malzeme ve yiyecek maddeleri geldiğinde ilgili subaylara derhal haber verir, ikmal işleri için istenen vasıta ve personeli tefrik eder ve ikmal maddelerinin alınmasını sağlar.

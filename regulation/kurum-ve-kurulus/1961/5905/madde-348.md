@@ -1,0 +1,2 @@
+Madde 348 - Ahırlara mahsus malzeme ve vasıtalar her zaman tam ve daima kullanılabilecek bir halde olmalıdır. Bilhassa yem torbaları ve tımar edevatı ve yemlikler daima iyi ve temiz bir halde bulundurulmalı ve kullanmadan evvel tekrar temizlenmelidir.
+Eleme ve kırma makineleri ve yemler hayvanlardan ayrı, emin ve rutubetsiz bir yerde saklanmalı, yem temizleme işi ahırın dışında hususi bir yerde yapılmalıdır.

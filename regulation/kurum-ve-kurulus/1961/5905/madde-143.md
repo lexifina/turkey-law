@@ -1,0 +1,1 @@
+Madde 143 - Ast, üst'e her yerde yol vermeğe ve umumi ulaştırma vasıtaları içinde yer vermeğe ve kolaylık göstermeğe çalışır. Bunun için mümkün oldukça yerin ve yolun müsait kısmı üste terk edilmelidir. Merdivenler ve dar geçitler gibi yerlerde astlar durarak üstlerini selâmlar ve yol verirler.

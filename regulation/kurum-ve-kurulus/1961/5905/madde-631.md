@@ -1,0 +1,1 @@
+Madde 631 - Her nöbet yeri için nöbetin cinsi ve nev'ine göre (Kiler, hapishane emniyet, cephanelik...) bir talimat yapılır ve varsa nöbetçi kulübesine, yoksa kışla karakolunun içine asılır. Nöbet tesliminde de nöbet yerine mahsus talimat maddelerinin nöbetçilere söylenmesi ve tekrar ettirilmesi lazımdır.

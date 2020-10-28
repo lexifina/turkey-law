@@ -1,0 +1,1 @@
+Madde 186 - İçilecek suyun iyiliğine, saflığına mütemadiyen dikkat olunmalı, terkibinde sıhhate zarar verecek maddelerin bulunup bulunmadığı sık sık muayene ettirilmeli ve hangilerinin içileceği ve hangilerinin içilmiyeceği levhalarla işaret edilmelidir.

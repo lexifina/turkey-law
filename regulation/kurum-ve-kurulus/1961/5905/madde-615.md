@@ -1,0 +1,1 @@
+Madde 615 - Nizam karakolundan uzak ve ıssız yerlere çıkarılan nöbetçilerin tüfekleri geceleyin dolu ve kapalı bulunur. Ceza evi ve tutuk evlerinde bulunan nöbetçiler ile fevkalâde hallerde bütün nöbetçilerin silâhları gece ve gündüz dolu bulundurulur. Nöbetçilere verilecek mermi miktarını kışla kumandanı tesbit ve emreder.

@@ -1,0 +1,2 @@
+Madde 422 - (Değişik:RG – 05/03/1999 - 23630)
+Gemi limanda iken, subaylar arasında vardiya amirliği ve nöbetçi subaylığı tutulur. Gemideki subay mevcudu, nöbet hizmetlerinin yürütülmesine izin vermediği takdirde astsubaylar da; gerek vardiya amiri, gerekse nöbetçi subayı olarak görevlendirilebilir. İhtiyaca göre bu nöbetler birleştirilebilir. Bu hususlar komutan tarafından açıklanarak, nöbet tutacak subay ve astsubaylar belirlenir.

@@ -1,0 +1,1 @@
+Madde 703 - Bu hayvanda ruam, kuduz vesaire gibi bulaşıcı ve kızıl kurt gibi korkulu hastalıklar görülürse veyahut kuduz bir hayvan tarafından ısırılacak olursa her askerî veteriner ve bulunmadığı takdirde her Hükümet veya belediye veterineri, hayvanı muayene etmeğe ve fennen alınması lâzımgelen tedbirleri almağa mecburdurlar.

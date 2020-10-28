@@ -1,0 +1,1 @@
+Madde 189 - Mevcut aydınlatma ve ısıtma vasıtalarının ve bunlara ait teferruatın, paratonerlerin, telli ve telsiz muhabere vasıtalarının daima iyi ve işe yarıyacak bir halde bulunmasına dikkat edilir.

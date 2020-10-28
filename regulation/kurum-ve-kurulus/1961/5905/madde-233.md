@@ -1,0 +1,1 @@
+Madde 233 - Celp ve terhis sıralarında konaklarda fazla miktarda erbaş ve erler bulunacağından disiplinin temini için konak kumandanı ve inzibat subayı ile muvakkaten çalışmak üzere konak emrine verilen subaylar arasında devretmek üzere nöbet tutulur.

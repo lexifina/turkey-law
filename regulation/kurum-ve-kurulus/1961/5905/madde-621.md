@@ -1,0 +1,1 @@
+Madde 621 - Nizam karakol görevini alacak olan kuvvet, onu çıkaran bölüğün (Kıt'anın) kumandanı tarafından toplanma yerinde gözden geçirilir ve ondan sonra nöbetçi subay veya astsubayının emrine verilir.

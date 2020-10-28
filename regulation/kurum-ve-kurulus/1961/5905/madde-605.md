@@ -1,0 +1,3 @@
+Gözcülerin görevleri
+Madde 605 - Seyir halinde bulunan her gemi köprü üstü, güverteye veya lüzumu halinde baş ve kıç güverteye geminin seyir istikametini, gemiye balık adam veya mayın, torpito, uçak gibi bir şey gelip gelmediğini ve denize bir şey düşüp düşmediğini gözetlemek ve ufkun her tarafını tarassut etmek üzere gözcüler konur.
+Gözcüler, gündüz gemi, kayık, duman enkaz, kara sahil, ada ve şüpheli herhangi bir yeri ve gece fener, ışık, tenvir mermisi, top alevli, veri fişeği gibi fasılalı ziyaları, ışıksız tekne ve karaltılar gibi gördüğü şeyleri her sesi ve gürültüyü cihet ve istikametlerini söylemek üzere köprü üstüne rapor ederler.

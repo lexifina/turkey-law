@@ -1,0 +1,1 @@
+Madde 127 - Silâhlı Kuvvetler mensupları gazete ve risalelere iç ve dış siyaseti hakkında yazı yazamazlar. Hükümet ve askerlik aleyhinde tenkitte bulunamazlar gizli olan askerlik iş ve tertipleri hakkında neşriyat yapamazlar.

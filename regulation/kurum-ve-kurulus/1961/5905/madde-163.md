@@ -1,0 +1,1 @@
+Madde 163 - Şehirde velisi bulunmayan muvazzaf ve emekli subay, askerî memur ve astsubayların ailelerine ve bunların dul ve yetimlerine müracaat vukuunda mümkün olabilecek yardım ve kolaylık gösterilir.

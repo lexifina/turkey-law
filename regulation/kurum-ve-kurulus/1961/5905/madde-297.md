@@ -1,0 +1,1 @@
+Madde 297 - Normal ahvalde ayaktan müracaat halinde veya meskenlerdeki muayene sonunda reçete yazılması gerektiği zaman, tâbipçe reçeteye hastayı muayeneye sevkeden makam ile yazısının tarih ve numarasının yazılması mecburidir.

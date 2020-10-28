@@ -1,0 +1,1 @@
+Madde 221 - Konak kumandanı : Mıntakasında bulundukları kolordulara bağlı olup bunların direktifleri dairesinde konağın tertip, intizam ve temizliğinden, konağa uğrayanların muntazam sevkinden, konak içinde disiplinin tesisinden, iaşe ve idarenin pürüzsüz cereyanından mesuldür.

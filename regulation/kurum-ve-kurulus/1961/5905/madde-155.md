@@ -1,0 +1,1 @@
+Madde 155 - Kahve, gazino, sinema ve sair buna benzer umumi yerlerde bulunurken subay, askerî memur ve astsubaylar içeriye girince kahve küçük ise erbaş ve erlerin hepsi birden, büyük ise üst önlerinden geçerken kalkarak, her biri esas duruşta başları ile üstü selâmlarlar.

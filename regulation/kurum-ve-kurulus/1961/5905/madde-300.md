@@ -1,0 +1,1 @@
+Madde 300 - Acil vakalarda tabibin derhal tatbikına lüzum gördüğü reçete muhteviyatı en yakın eczaneden hasta tarafından temin edilir. Parası hastaca verilir. Bilâhare hasta, reçeteye verdiği ücreti, tevsik etmek şartiyle bağlı bulunduğu saymanlıktan usulüne göre alır.

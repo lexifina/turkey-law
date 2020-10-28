@@ -1,0 +1,1 @@
+Madde 100 - Asker, elbise, eşya ve teçhizatındaki ufak tefek sökük yırtık gibi işleri kendisi yapmalıdır. Daha büyük tamirleri ise derhal en yakın âmirine haber vermelidir. Sökükler dikilirken ve yama yapılırken kullanılacak ipliğin ve yamalığın rengi elbise kumaşının rengine uygun olmalıdır.

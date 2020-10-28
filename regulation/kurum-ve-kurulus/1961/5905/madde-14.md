@@ -1,0 +1,1 @@
+Madde 14 - Amir, maiyetine eşit muamele yapmağa ve haklarında âdil hareket etmeğe mecburdur. Fakat iyilik ve koruma düşüncesi âmirin kanun ve nizamlardan ayrılmasına sebep olamaz. Amir, göreve bağlılık ve gayret, kanun ve nizamlara uyarlık, çalışkanlık, hal ve tavrı ile maiyetine örnek olacaktır.

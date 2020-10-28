@@ -1,0 +1,1 @@
+Madde 238 - Konaklarda bütçeye ait masrafların tahakkuk ve tediye muameleleri ve bilcümle ayniyatın idare ve muhasebesi mevcut kanunlara tayinat talimatnamesine müstakil kıt'a ve müessese için konulmuş olan hükümlere göre ifa edilir.

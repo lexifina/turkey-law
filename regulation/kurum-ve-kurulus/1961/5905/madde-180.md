@@ -1,0 +1,1 @@
+Madde 180 - Kışla, konak ve ordugâhlarda askerler arasında emniyeti bozacak veya disiplini gevşetecek hareketlerin vaktinde ve derhal haber almakla ve genişlemesine meydan vermeden emniyet ve disiplini iade ve muhafaza etmekle vazifelidir.

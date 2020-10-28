@@ -1,0 +1,1 @@
+Madde 171 - Garnizon kumandanları, garnizona özel müsaade ile gelen üniformalı ecnebi subaylardan mensup oldukları silâhlı kuvvetlerdeki hüviyetleri, ne maksat veya memuriyetle seyahat ettikleri hakkında şifahi malûmat alırlar ve bunlara müracaatlarında icabeden yardımları yaparlar.

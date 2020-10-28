@@ -1,0 +1,1 @@
+Madde 134 - Astlar, üstlerden evvel selâm vermeye mecburdurlar. Aynı rütbede olanlar veya birbirinin rütbesini tefrik edemiyenler birbirini beklemeden selâmlarlar. Üstüne selâm vermemek cezai muciptir.

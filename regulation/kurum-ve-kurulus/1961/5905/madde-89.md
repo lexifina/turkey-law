@@ -1,0 +1,3 @@
+3 - Sağlığın korunması için vazifeler
+Madde 89 - Her insanın memleketine, aile ve şahsına karşı vazifelerini iyi ve tam olarak yapabilmesi sağlam ve sıhhatte olmasına bağlıdır. Bilhassa askerlik herkesten tam bir sağlık ve dinçlik ister. Sağlık: Temizliğe, spora ve her hususta itidale riayetle korunur. Temizliğe bakmayan, sağlığını korumayan ve bu yüzden renksiz, kansız, cılız ve gevşek kalan askerler vazifelerini yapamazlar ve bunun cezasını hem kendisine, hem mesleğine ve hem de memleketine çektirirler. Hiç bir asker bu hataya sapamaz ve her asker kendine iyi bakmaya mecburdur.
+Her kademedeki âmirler askerlerin sağlığı ile ilgili yukarıda sayılan hususları yakinen takip ve gerekli tedbirleri almakla da mükelleftirler.

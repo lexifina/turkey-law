@@ -1,0 +1,1 @@
+Madde 294 - Hastalık hakkında rapor ancak, hastanın âmiri tarafından yazılan yazı üzerine muayene eden tabip tarafından verilir. Hastanın kendi isteği üzerine rapor tanzim edilmez. Tabip raporu hastayı muayene ve tedavi eden tabip veya tabipler veyahut kurumlar baştabipleri tarafından hastanın âmirine gönderilir. Rapor tanzimi talimatına uygun olarak yapılır.

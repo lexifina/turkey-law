@@ -1,0 +1,1 @@
+Madde 277 - Kendi birliğinin bulunduğu başka bir yerde hastalanan askerler hastalıklarını oranın garnizon veya merkez kumandanlığına haber verirler. Hasta haberini alan kumandan lüzumu halinde, hastanın nezdine tabip göndermeye, icabederse hastayı askeri bir hastaneye, yoksa başka bir hastaneye nakletmeye mecburdur.

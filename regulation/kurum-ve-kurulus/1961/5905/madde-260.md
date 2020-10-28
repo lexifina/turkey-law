@@ -1,0 +1,2 @@
+Madde 260 - Muayene ve denetlemeye yetkili âmir ve üstler hastahanelerle sıhhi ve veteriner kurumları denetleme ve muayeneye geldikleri zaman hastahane baştabipleri ve kurumların âmir veya müdürleri ve tedavi ile meşgul olmayan tabip ve veterinerler tarafından günlük resmî elbiseyle karşılanır. Denetleme ve muayene müddetince baştabip veya kurum âmir veya müdürü âmirin yanında bulunur. Tabipler tedavilerine memur oldukları hastaları koğuşlarında ve lâboratuvar tabipleri kendi çalışma odalarında bulunurlar.
+Hasta koğuşlarına silâhsız olarak girilir.

@@ -1,0 +1,1 @@
+Madde 474 - Gemide vakit cetvelinin uygulanmasından, gemi temizlik ve nete bataryasından, arya ve hisa bayrak merasiminden, silâhların fora ve kapela burndasından ve gemi vasıtalarının programa göre idaresinden sorumludur.

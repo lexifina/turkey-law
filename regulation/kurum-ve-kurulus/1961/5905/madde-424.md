@@ -1,0 +1,2 @@
+Madde 424 - Gemi kumandanı duruma göre gözcü, kampanacı, deniz filikacısı, sabotaj ve balık adamı, emniyet devriyeleri veya nöbetçileri ihdas edebilir.
+Emniyet nöbetçileri, gemiye patlayıcı ve yanıcı maddeler alınırken bunların alınacağı cephanelik, akaryakıt sarnıçları gibi yerler ile bu yerler arasına veya bunlara zarar gelmesi muhtemel mevkileri kripto, kasa v.s. yerlere lüzumu kadar silâhlı veya tabancalı olarak konulur ve her türlü yangına karşı emniyet tertibatları alınmış olarak diğer ilgili personel ile takviye edilir.

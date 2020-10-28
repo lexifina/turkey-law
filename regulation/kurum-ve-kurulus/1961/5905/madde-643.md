@@ -1,0 +1,1 @@
+Madde 643 - Hazır kıt'anın bütün erbaş ve erleri hep bir arada ve mümkün ise ayrı bir oda ve koğuşta bulundurulur. Hazır kıt'a gece dahi seferi teçhizatlı silâhlı ve giyimli olarak harekete hazır bulunur. Bu kıt'anın nöbetle uyku uyuyup uyumayacağı çıkaran kumandanca emredilir.

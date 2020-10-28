@@ -1,0 +1,1 @@
+Madde 235 - Konaklarda izdihamı men için kafilenin sevk sıra ve zamanları kolordularca iyice temin edilmelidir. Askerlik şubelerinden konaklara gönderilecek sevk erleri kafileler halinde ve jandarma muhafazasında gönderilmelidir. Celp ve terhis gibi mühim sevkiyat zamanlarında garnizon kumandanları konakları daha sık teftiş ederler.

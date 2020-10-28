@@ -1,0 +1,1 @@
+Madde 693 - Muhafızlar, bilhassa ârızalı arazide, şehir, kasaba ve köprülerin yakınında, sokaklarda velhasıl harb esirlerinin ve mahpuslarının kaçmalarına müsait olabilecek bütün mevki ve hallerde dikkatlerini artırmalı, meskûn yerlerden mecburiyet olmadıkça durmadan geçmelidir.

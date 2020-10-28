@@ -1,0 +1,1 @@
+Madde 454 - Nöbetleri esnasında işleri bizzat takip ve kontrol etmek suretiyle bu talimatname, veya kumandanın emirleri ile tâyin ve açıklanmış bulunan vazifelerin doğru ve emniyetli bir şekilde yapılmasını sağlayacaktır.

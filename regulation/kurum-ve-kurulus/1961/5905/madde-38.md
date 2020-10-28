@@ -1,0 +1,2 @@
+Madde 38 - Bölüklerde (birlik ve bataryaların, gemilerde bölüm âmirleri) günlük emirleri (birlik, batarya) kumandanı tarafından görevlendirilen personel tarafından bölük (Birlik, batarya, bölüm) subay ve astsubaylarının her birine tebliğ ettirir. Emri okuyan her subay ve astsubay emrin altına imza koyar ve müsaade edilen emirler için icabeden notu alır. Bu günlük emir bilâhare dosyasına konur.
+Havada uçuş filoları ve benzeri birliklerde alınan günlük emirler birlik kuman-danı tarafından ilgili personele topluca okutturulup imza ettirilerek dosyaya konur.

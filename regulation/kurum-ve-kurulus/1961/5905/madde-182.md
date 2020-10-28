@@ -1,0 +1,1 @@
+Madde 182 - Yangın halinde önce, kurtarılacak değerli eşyaların ve kâğıtların muhafazaları üzerine muhafazanın büyüklüğü ile mütenasip ve göze çarpacak büyüklükte kırmızı renk üzerinde beyaz boya ile (Yangından ilk önce kurtarılacaktır) yazılı etiketler yapıştırılmalıdır.

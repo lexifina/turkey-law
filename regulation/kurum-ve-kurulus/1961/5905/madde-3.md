@@ -1,0 +1,1 @@
+Madde 3 - Disiplinin azıcık dahi bozulduğunu veya gevşediğini sezen her âmir bunun maddi ve manevi sebeplerini araştırarak gidermeğe ve disiplinin korunması için icabında kanun ve nizamlar dairesinde her türlü tedbirleri almağa ve yetkilerini tamamiyle kullanarak disiplini sağlamağa mecburdur.

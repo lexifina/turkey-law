@@ -1,0 +1,1 @@
+Madde 507 - Gemi nöbetçi subayı ve astsubayının emri ile gemide vakit cetveline göre yoklama, tabur, yat kalk vesair zamanlarını ve sair emirleri, alârmı, kumanda gereci ile veya avz ile gemide yayar.

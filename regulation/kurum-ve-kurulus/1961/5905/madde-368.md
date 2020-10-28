@@ -1,0 +1,1 @@
+Madde 368 - Çavuş, kumandanı olduğu birliğin âmiridir. Bunu yetiştirmek, sevk ve idare etmekle mükelleftir. Emrinde bulunan daha küçük birliklere ait vazifelerin takibinden zamanında ve pürüzsüz yapılmasından ve disiplinin korunmasından mesuldür.

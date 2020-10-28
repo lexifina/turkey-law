@@ -1,0 +1,1 @@
+Madde 6 - Resmî veya hususi bir iş sebebiyle bir âmir veya üst ile münasebette bulunacak her ast, her zaman askerî usullere ve askerî terbiyeye tamamiyle uymağa ve onlara karşı yüksek bir saygı göstermeğe mecburdur.

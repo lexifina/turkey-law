@@ -1,0 +1,1 @@
+Madde 187 - Bulaşıcı hastalıklar baş gösterince hastalığın önünü almak ve hastalığı kırmak için derhal tabib ve veterinerler tarafından lüzum gösterilecek tedbirler alınır. Verilecek rapor üzerine bulaşık eşya yakılır ve icap eden yer ve eşya dahil dezenfekte edilir.

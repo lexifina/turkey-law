@@ -1,0 +1,2 @@
+Madde 167 - Garnizon kumandanları Silâhlı Kuvvetler mensuplarının dışarda kıyafet kararnamesine uygun olarak giyinmiş bulunmalarını kontrol ve kararname ahkâmını tatbik ederler.
+Ulusal bayramlarda askerî elbise giymelerine müsaade edilen emekli subay, askerî memur, astsubaylardan başka Silâhlı Kuvvetler mensubu olmadıkları halde askerî elbise giyenleri derhal giymekten meneder ve bunların suçlarının derecesine göre haklarında lâzım gelen kanuni işlemi yaparlar.

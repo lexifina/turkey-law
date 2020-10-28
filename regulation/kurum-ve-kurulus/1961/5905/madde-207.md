@@ -1,0 +1,1 @@
+Madde 207 - Koğuşlar içinde manevra ve muharebe fişekleri ve tüfek doldurmak, boşaltmak ve hakikî el bombaları ve tahrip cephanesiyle eğitim yapmak ve koğuşlarda bunların ve parlayıcı, yanıcı maddelerin bulundurulması yasaktır.

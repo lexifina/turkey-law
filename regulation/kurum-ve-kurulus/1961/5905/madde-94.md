@@ -1,0 +1,2 @@
+Madde 94 - Yukarıdaki maddelerde yazılı hususlardan başka :
+Temizlik için suya alışkın olmak ve suyu sevmek, sıhhat için sıcaktan kaçıp vücudu soğuğa alıştırmak, temiz hava almak, güneşten yolu ile istifade etmek, lüzumundan fazla iç çamaşırı giymemek ve bu suretle hafif kalmak, sıhhati bozacak ve hastalığı getirecek her türlü ahvalden kaçınmak, sağlığın büyük değerini bilenler için en çok dikkat edilecek noktalardır.

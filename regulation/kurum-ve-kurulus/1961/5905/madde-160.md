@@ -1,0 +1,1 @@
+Madde 160 - Garnizon kumandanlıklarında, o garnizon dâhilindeki bütün kıtaların teşkilâtı içinde oturdukları kışla, karakol... ve sairenin yerleri, isimleri şehirde oturan silâhlı kuvvetlere mensup bütün subay, askerî memur ve astsubayların kendisi o şehirde bulunmayan muvazzaf subaylarla askerî memurlar ve astsubay ailelerinin adreslerini bulundurur.

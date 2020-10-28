@@ -1,0 +1,1 @@
+Madde 21 - Resmî işlerden dolayı sırası düştükçe verilen öğütlerin, yapılan tenbih ve ihtarların hükümsüz ve tesirsiz kaldığını gören ve hususiyle vazifede ihmal ve kayıtsızlık sezen her âmir derhal kanuni selâhiyetini kullanarak maiyetini yola getirmeğe mecburdur.

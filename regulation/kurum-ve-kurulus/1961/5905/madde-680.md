@@ -1,0 +1,1 @@
+Madde 680 - Gündelik ve muayyen tarifeli umumi vasıtaları işlemediği garnizon ve kıtalara tâyin edilen subay, askerî memur ve astsubayların zatî eşyaları ile ailesi efradı ve kendisi umumi vasıtanın en son gittiği yerden vazife mahalline kadar askeri vasıta ile götürülür ve getirilir. Bu husus garnizon kumandanlığınca düzenlenir.

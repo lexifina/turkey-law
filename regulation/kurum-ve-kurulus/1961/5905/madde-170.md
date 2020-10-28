@@ -1,0 +1,1 @@
+Madde 170 - Dıştan bozguncu harekette bulunanlar hakkında garnizon kumandanları hükümet makamlarının dikkat nazarlarını celbeder ve şehirde bu gibi fesatların umumi bir şekil alacağı anlaşılırsa gerekli tedbirler alarak üstlerine bildirirler.

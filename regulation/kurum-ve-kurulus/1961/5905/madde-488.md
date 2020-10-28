@@ -1,0 +1,1 @@
+Madde 488 - Lümbar ağzı personelinin her zaman tertipli bulunmalarından nöbetçi vardiyanın, gemide, vakit cetvelinin ve sair emirlerin zamanında ve doğru yaymasını, izinsiz ve vazifesiz hiç bir erbaş veya erin gemiden ayrılmamasını ve gemiden çıkanların temiz giyimli olmasını, gemiye ait bir şeyi dışarıya çıkarmamalarını temin etmekten sorumludur.

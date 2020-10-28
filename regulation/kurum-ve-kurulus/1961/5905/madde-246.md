@@ -1,0 +1,2 @@
+Madde 246 - Bir kışlada bir sınıftan veya başka sınıflardan bir kaç birlik bulunursa yalnız beraber yapılacak hizmete ait hususlar kışla kumandanı tarafından tesbit olunur.
+Eğitim alanı, atış meydanlarının birlikler arasında taksimi ve bütün birliklerin istifade etmesi lâzım gelen kapalı manej ve saire gibi yerler için muntazam bir sıra tertibi garnizon veya kışla kumandanları tarafından emredilir.

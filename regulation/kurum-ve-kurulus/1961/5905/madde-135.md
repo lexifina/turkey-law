@@ -1,0 +1,1 @@
+Madde 135 - Selâmlama, rütbe ve makam farkı olmıyarak her asker tarafından bütün bir ciddiyet ve hürmetle tam olarak yapılır. Selâmlamada hareketleri usulden aykırı yapmak, laubalilik göstermek, eli yarım ve ağır kaldırmak, sol eli cepte bulundurmak, sağ elde bir şey bulundurarak sol el ile selâmlamak, selâmlarken baş ve gözle başka tarafa bakmak yasaktır.

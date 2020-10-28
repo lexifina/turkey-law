@@ -1,0 +1,1 @@
+Madde 651 - Birliklerin silâh başına edilmeleri ilgili ve yetkili kumandanların emriyle olur. Bir kışladan bir kısım askerin fevkalâde ahval karşısında silâh başına edilmesi kışla kumandanının veya kışla nöbetçi âmirinin emriyle olabilir.

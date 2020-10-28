@@ -1,0 +1,1 @@
+Geçici Madde 1 - Bu yönetmeliğin 662 nci maddesi gereğince hazırlanacak yönerge yürürlüğe girinceye kadar, Kara Kuvvetleri Komutanlığınca çıkarılmış olan ST 19-1 Askeri İnzibat Talimnamesi hükümlerinin uygulanmasına devam olunur.(3)

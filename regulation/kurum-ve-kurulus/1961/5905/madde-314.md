@@ -1,0 +1,2 @@
+Madde 314 - (Değişik: RG-29/09/2004-25598)
+Subay, askerî memur ve astsubayların sağlıklarını korumak bakımından azamî üç senede bir defa olmak üzere sağlık durumlarının tespiti maksadıyla sağlık kurulu muayenelerine tâbi tutulurlar. Bu muayenelerin zamanı, müddeti ve ne suretle yapılacağı Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı sağlık başkanlıkları veya şubelerince tespit ve tayin olunur.

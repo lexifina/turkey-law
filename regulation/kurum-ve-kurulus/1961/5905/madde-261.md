@@ -1,0 +1,1 @@
+Madde 261 - Kıt'alara ait kiler, depo ve ambarların denetlenmesinde onların memurları denetleme ve muayene âmirini kendi kapılarında karşılarlar ve kısa olarak icap eden malûmatı verirler. Denetlenecek bu yerler eğer bir birliğe aitse o birliğin kumandanı ve levazım heyeti denetleme âmirinin yanında bulunur.

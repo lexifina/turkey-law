@@ -1,0 +1,1 @@
+Madde 498 - Yemek dağıtımını yaptırır. Sofraların zamanında hazırlanmasını, bulaşık yıkanmasını, er mangalarının temizlik ve intizamını, gemi temizliği ile sair müteferrik işlerin yapılması için er tefriki ile hizmetin yapılmasını icra eder.

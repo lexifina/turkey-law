@@ -1,0 +1,1 @@
+Madde 386 - Nöbetçi personel birden bire hastalanma, herhangi bir husus için mahkemeye çağrılma, herhangi bir mühim vazifenin yapılması maksadiyle yetkili âmirin müsaadesi ile vazifelerini kendisinden sonra gelene devir ve teslim edebilirler.

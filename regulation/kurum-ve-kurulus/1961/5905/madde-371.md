@@ -1,0 +1,2 @@
+Madde 371 - Çavuş, kendi birliğine düşen hizmetlerin, emrinde bulunan daha küçük birliklere (insan, hayvan, araba ve sair vasıtalara bir hizmet sırası tertip ederek, hakkaniyetle ve sıra ile gördürmeli ve sorulunca kimin ve neyin nerede ve hangi hizmette olduğunu bilerek cevap verebilmelidir.
+Atlı sınıflarda çavuş fevkalâde haller müstesna olmak şartı ile hayvan tımar etmez ancak birliğinde bulunan hayvanların tımarlarının usulü dairesinde iyi yapılmasına nezaret ve dikkat eder.

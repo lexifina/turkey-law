@@ -1,0 +1,1 @@
+Madde 67 - Acemi erlerin gece yatısına izinli bırakılması ancak bir ay eğitim gördükten sonra caizdir. Bunlara yukarıdaki maddelerdeki ahval ve şerait içinde izin verilmesi ancak askerce giyinip kuşanmayı, askerin şerefini koruma usullerini ve selâmlamayı iyice öğrenmiş ve izin verene güven gelmiş olmasına bağlıdır.

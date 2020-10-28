@@ -1,0 +1,2 @@
+Madde 353 - Her hayvanın tımar malzemesi kutular içinde veya bunlar için hususi surette yapılmış torbalar içinde eyer veya koşum takımlarının bulunduğu yerin altında asılı olarak bulundurulur ve bunların üzerlerine gene ait olduğu hayvanın tırnak numarası yazılır. Hayvanın eyer ve koşum takımları ahırların içinde ve hayvanların gerisinde bunlar için yapılmış yerlere konulur ve üstleri örtülür.
+Yem torbaları keza hayvanın diğer teçhizat ve malzemesi yanında asılı bulunur.

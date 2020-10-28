@@ -1,0 +1,1 @@
+Madde 694 - Tren veya vapurlarda harb esirleri ve mahpuslar diğer yolculardan ayrı bir yerde bulundurulmalıdır. Muhafızlar harb esirlerinin veya mahpusların bulunacağı yerlerin kapı ve pencereleri yakınında bulunmalıdırlar. Mahpuslardan karşı koyanlara ve kaçmalarından şüphe edilenlere kelepçe vurulmalı, yoksa ip, kayış vesaire gibi vasıtalarla elleri bağlanmalıdır.

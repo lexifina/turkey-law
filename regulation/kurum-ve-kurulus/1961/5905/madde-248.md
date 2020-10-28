@@ -1,0 +1,1 @@
+Madde 248 - Günlük eğitim müddetleri hiç bir zaman 6 saatten aşağı olmıyacaktır. Yazın bu müddetin uzatılması emredilebilir. Ve bu husus kuvvet kumandanlıkları eğitim direktifleri dahilinde tâyin ve tatbik olunur.

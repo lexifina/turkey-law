@@ -1,0 +1,1 @@
+Madde 690 - Kafile kumandanı yürüyüşte muhafızları harb esirlerinin veya mahpusların dörtbir tarafını saracak veçhile tertipler, kendisi de en geriden yürür. Eğer muhafızlar bir veya birkaç kişiden ibaretseler harb esirlerinin veya mahpusların gerisinde yürürler.

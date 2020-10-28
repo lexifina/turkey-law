@@ -1,0 +1,3 @@
+12 - Kışla, konak, hastane ve diğer kurumların denetlenmesi ve muayenesi
+Madde 258 - Kışla ve konakların üstler ve kumandanlar tarafından denetleneceği haber verildiği zaman, kıt'a bütün mevcudu ile emrolunan şekil, zaman ve yerde hazırlanıp denetleme yapacak zatın gelmesini bekler.
+Denetleme yapacak zatı, birlik veya kışla kumandanı ve nöbetçi âmiri kışlanın kapısında karşılar. Kışlada oturan birliklere mensup kumandanlar subaylariyle beraber mıntakalarında hazır bulunurlar. Her birlik kumandanı denetleme yapan zatı kendi birliği mıntıkasına gireceği yerde bekler ve mıntıkalarına gelince mevcut pusulasını takdim eder ve kendi mıntıkaları içinde denetleme bitinceye kadar denetliyenin yanında bulunur.

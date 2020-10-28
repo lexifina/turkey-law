@@ -1,0 +1,1 @@
+Madde 714 - Her garnizon kumandanı, askerin yardımına lüzum hâsıl olacak yangınlar vukuunda askerin yapacağı vazifelerle intizamın ve Hükümet mallarının muhafazası için ne gibi tedbirler alınacağını mahallin en büyük mülkiye âmiri ile evvelce görüşerek bir talimatla tesbit eder.

@@ -1,0 +1,1 @@
+Madde 636 - Nöbetçiler genel olarak iki saatte bir değiştirilir. Ancak nöbet hizmetinin ve iklim şartlarının özelliği dolayısiyle zaruri hallerde bu müddetler azaltılabilir veya çoğaltılabilir. Çoğaltma 4 saati geçemez.

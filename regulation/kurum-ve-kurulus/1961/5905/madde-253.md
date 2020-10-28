@@ -1,0 +1,2 @@
+Madde 253 - Erbaş ve erler üzerinde barışta muhabere fişeği bulunması ve taşınması yasaktır. (630; 650) maddelerdeki haller müstesnadır.
+Eğitim ve tatbikatlarda bu yüzden bir kaza olursa kazaya sebep olan er'in sıra ile bölük kumandanına kadar olan âmirleri sorguya çekilir. Ve kazanın ehemmiyet derecesine göre haklarında kanuni işlem yapılır. Bunun içindir ki, her eğitim, tatbikat, manevra için toplanışta kıt'anın muayenesi esnasında tüfeklerin, eğitim ve manevra fişeklerinin inceden inceye muayeneden geçirilmesi, eğitimlerden evvel bunun tekrar edilmesi lâzımdır.

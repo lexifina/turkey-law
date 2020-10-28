@@ -1,0 +1,1 @@
+Madde 242 - Birliğin sıhhiye astsubay, erbaş ve erlerin gerek revir gerekse birliğin bütün sıhhi işlerinde kullanılır. Lüzumunda muvakkat bir zaman için bunlardan başka revirlere yardımcı er de verilebilir.

@@ -1,0 +1,6 @@
+Madde 302 - Reçeteye :(1)
+a) Eczanelerde imal edilmek üzere yazılmış ilâçlar en çok bir haftalık yazılır. Lüzumlu hallerde her defasında yeniden muayene edilmek ve kontrol yapılmak şartıyla bir şahıs için ayrı zamanlarda olmak üzere beş defa aynı reçete tekrar edilebilir. Bu takdirde reçeteye 1, 2, 3, 4, 5 diye sıra numarası konur, bundan fazlasını şahıs öder.
+b) Müstahzar ilâçlarda bir tedavi dozu orijinal ambalâj bozulmadan verilir. Bunlardan reçeteye bir adetten fazla yazılamaz. Diğer şartlar (a) fıkrası gibidir.
+c) Yalnız radyolojik veya lâboratuvar teşhis ve tedavileri için kullanılacak orijinal ambalâjlar bir defada lüzumu kadar yazılabilir.
+d) Bir hasta için memlekette olmayan ilâç kullanma mecburiyeti varsa hastalığın mahiyeti, kullanılacak ilâcın ismi, nasıl ve ne kadar müddet kullanılacağı sıhhi kurul raporu ile tevsik edilip usulünce onaylandıktan sonra ithal müsaadesi alınarak getirilebildiği takdirde masraf bütçeden ödenir.
+e) Hayatı tehdit eden veya müzmin hastalıklarda -tüberküloz, diyabet, sara, kalp ve damar hastalıkları v.s. gibi -uzun müddet kullanılacak ilâçlarda nasıl ve ne kadar kullanılacağı sıhhi kurul raporu ile tespit ve onaylanarak ve reçetelerde bu durum belirtilerek alınabilir. Ancak bu müddet her defasında iki yılı geçemez.

@@ -1,0 +1,1 @@
+Madde 623 - Her nöbet yerine ve devriyeye bir numara verilir. Yeni karakol, nöbetçi yerlerine ve çıkarılacak devriyelerin adedine göre postalara taksim edilir. Her nöbet postasının erleri posta içinde ayrıca bir sıra numarası alır. (Meselâ: bir numaralı nöbet yerinin bir numaralı nöbetçisi, iki numaralı nöbetçisi gibi),

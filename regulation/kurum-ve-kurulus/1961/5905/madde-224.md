@@ -1,0 +1,2 @@
+Madde 224 - Konaklardan geçen erbaş ve erlere sıcak yemek vermek esastır. Fakat zaman ve ahvalin icap ettirdiği vaziyetlerde Silâhlı Kuvvetlerin tabi olduğu muhtelif iaşe usullerinden en münasibi seçilerek tatbik olunabilir.
+Kumanyalar ve sair soğuk ve kuru yemekler iklim ve mevsime erbaş ve erlerin sevk edilecekleri nakil vasıtalarına göre cins ve miktarları, mevzu ve usuller dahilinde ve maksada uygun bir şekilde hazırlanarak verilir.

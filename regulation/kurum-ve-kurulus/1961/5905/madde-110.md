@@ -1,0 +1,1 @@
+Madde 110 - Erbaş ve erler izinli bulunduğu zamanlarda bütün dost ve düşman gözlerinin kendi üzerinde olduğunu düşünerek ve yalnız kendisinin değil bütün milletine ve silâhlı kuvvetlere ait onur ve haysiyeti kıracak hallerden ve yasak edilen şeyleri yapmaktan çekinmelidir.

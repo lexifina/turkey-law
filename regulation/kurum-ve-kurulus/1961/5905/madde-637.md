@@ -1,0 +1,1 @@
+Madde 637 - Fevkalâde hallerde şehir ve kasabalar içine konan karakolların hareket tarzı, karakolun çıkmasını emreden birlik veya garnizon kumandanı tarafından maksada vaziyete ve nizamlar uygun bir şekilde yapılacak talimatlarla tanzim olunur.

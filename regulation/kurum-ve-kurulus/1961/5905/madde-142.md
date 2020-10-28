@@ -1,0 +1,1 @@
+Madde 142 - Bir subay grubu diğer bir subay grubuna veya bir subay grubu tek bir subaya tesadüfünde bütün subaylar ayrı ayrı selâm verirler. Astsubaylar da subaylar gibi hareket ederler. Erbaş ve erlerin selâmını subay veya astsubaylardan en kıdemlisi iade eder.

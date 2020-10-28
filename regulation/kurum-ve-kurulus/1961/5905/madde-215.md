@@ -1,0 +1,1 @@
+Madde 215 - Hamamda eşyaları ve demirbaş malzemeyi muhafaza etmek, temizlik ve bakımını yapmak, istenilen zamanda hizmete hazır bulundurulmak üzere lüzumu kadar müstahdem ve er tahsis edilir. Bu müstahdem ve er levazım heyetinin emrinde bulunup ve çamaşırhaneye de bakarlar.

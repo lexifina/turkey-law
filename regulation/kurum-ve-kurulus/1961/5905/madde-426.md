@@ -1,0 +1,1 @@
+Madde 426 - Nöbetçilerin duracakları mevkileri; gemi kumandanları tarafından ayrıca emir verilmedikçe; müessir bir şekilde kontrol ve murakabe edebileceği, kendisine verilen vazifeleri en iyi bir şekilde yapmasına imkân verecek mahaller olacaktır.

@@ -1,0 +1,1 @@
+Madde 10- Astın, aldığı bir emirden dolayı âmirine mütalâada bulunması kat’îyen yasaktır. Alınan emir hiç bir kayıt ve şarta bağlanmaksızın ve hiç bir düşünceye kapılmaksızın yapılacaktır. Bir emri alırken veya aldıktan sonra mırıldanmak, doğru bulmadığını sezdirecek hal ve harekette bulunmak cezayı müstelzimdir.

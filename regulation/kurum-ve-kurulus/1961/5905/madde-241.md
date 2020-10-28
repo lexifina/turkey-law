@@ -1,0 +1,2 @@
+9 - Revirler
+Madde 241 - Tabibin hastaneye göndermeye lüzum görmediği hafif hastalarla hastalıkları kıt'a yanında ayakta tedavisi mümkün erbaş ve erlerin tedavi ve bakımı için her alay (Deniz ve havada benzeri) ve müstakil birlikte kışla içinde kabil olduğu kadar erbaş ve er koğuşlarından uzakça bir yer ayrılır. Buna (Revir) denir. Revir, en az iki bölmeli olmalıdır. Bu revirlerde sıhhi malzemenin korunması, hastaların bakılması ve hastane usullerinin tamamı ile tatbiki alay (Deniz ve havada benzeri) baş tabibi tarafından temin olunur.

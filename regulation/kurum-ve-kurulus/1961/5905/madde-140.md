@@ -1,0 +1,1 @@
+Madde 140 - Gazinolarda camekân önünde oturan ast dışarda bir üst'ün geçtiğini görürse toparlanarak başla selâm verir. Sokaktan geçen ast bir gazinoda camekân önünde bir üst'ün oturduğunu görürse el ile selâmlıyarak geçer.

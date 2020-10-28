@@ -1,0 +1,1 @@
+Madde 256 - Hizmete çıkanlar, nöbetçi onbaşısı, nöbetçi çavuşu ve icabında bölük nöbetçi subayı tarafından gözden geçirilir. Hizmete ayrılan ve hazırlanan erlerin başına bir onbaşı memur edilmiş ise erler nöbetçi onbaşısı tarafından o onbaşıya ve eğer hizmete gidecek erler bir subay veya astsubay emrine girecek ise nöbetçi çavuşu tarafından onlara takdim olunur.

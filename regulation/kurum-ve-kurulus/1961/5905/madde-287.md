@@ -1,0 +1,1 @@
+Madde 287 - Hastaneye sevkedilen er ve erbaşların üzerlerindeki melbusat hasta kabul tezkeresinin arkasındaki yerlere aynen yazılır. Hastaneye sevkedilen hastalar muhakkak bir vasıta ile gönderilir. Vasıtanın temininden ve hastanın hastaneye naklinden birlik veya karargâh kumandanı veyahut da kurum âmirleri sorumludur. Hastaneden dönenler kıta veya kurum tabiplerine gösterilir.

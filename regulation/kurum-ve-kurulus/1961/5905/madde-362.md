@@ -1,0 +1,1 @@
+Madde 362 - Onbaşı, kendi erleriyle birlikte bir masada yemek yer; sofranın temizlik ve düzgünlüğüne, yemeğin erlerine eşit olarak dağıtılmasına dikkat eder. Erlerinden hizmet ve nöbette bulunanların yemeklerini ayırtır.

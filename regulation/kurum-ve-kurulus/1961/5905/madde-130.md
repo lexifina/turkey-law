@@ -1,0 +1,1 @@
+Madde 130 - Türk Silâhlı Kuvvetleri için yapılan kanunlar ve nizamnameler ile harb tarihi encümeni tarafından yazılan harb tarihleri ve gizli hizmete mahsus olan bütün askerî kitaplar (Resmî askeri neşriyat) adını alır. Bunların hazırlanması ve meydana getirilmesi askerî neşriyat talimatında yazılıdır.

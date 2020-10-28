@@ -1,0 +1,1 @@
+Madde 115 - Her hangi fevkalâde bir hal sebebi ile intizamı bozulan bir kıt'aya toplanmak için verilecek ilk emir veya işaret üzerine çabuk toplanarak tekrar düşmana karşı koyacak ve saldıracak derecede disiplin ruhu aşılanmalıdır. İyi eğitim görmüş cesur ve namuslu askerin değeri bu gibi tehlikeli zamanlarda belli olur.

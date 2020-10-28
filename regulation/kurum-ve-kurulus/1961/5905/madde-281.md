@@ -1,0 +1,1 @@
+Madde 281 - Sivil hastane bulunmıyan mahallerde halktan derhal ameliyat yapılmasına muhtaç olanların veya o mahalde vukua gelecek adli vakalarda müddeiumuminin talebi üzerine ağır ve müdahaleyi mucip yaralıların askeri hastaneye alınması icabedebilir. Bu gibilerin tedavi masrafları kendilerinden ve fakir olanlarınki mahallin belediyesinden alınır.

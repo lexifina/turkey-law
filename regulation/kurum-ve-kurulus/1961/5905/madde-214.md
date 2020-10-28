@@ -1,0 +1,2 @@
+4 - Hamam ve çamaşır yıkama yerleri
+Madde 214 - Her alay, müstakil birlik ve kurumlarda (deniz ve havada benzeri) bir hamam ve duş yerleri ve bir de çamaşır yıkama yeri bulunur. Bunlar ait olduğu kıt'a tarafından idare olunur. Hamam ve çamaşır yıkama zamanları alay, (deniz ve havada benzeri) veya müstakil birlik kumandanları ve kurum âmirleri tarafından mevsim ve ihtiyaca göre tesbit ve taksim edilerek birliklere tamim edilir, emirsiz olarak hamamdan hariç yerlerde yıkanmak ve çamaşırhaneden başka yerlerde çamaşır yıkamak yasaktır.

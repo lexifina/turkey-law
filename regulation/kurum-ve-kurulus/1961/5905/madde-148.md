@@ -1,0 +1,1 @@
+Madde 148 - Bir koridorda veya salonda baş açık dururken subay, askerî memur ve astsubaylarla öğrenciler arasında selâmlaşma yalnız başın göğse doğru eğilmesiyle olur. Kışla, ordugâh koridoru, pavyon içerisi gibi kısa mesafelerde tüfek elde olarak yüründüğü sırada üste tesadüf olunduğu takdirde yanaşık düzen ve merasim talimatnamesindeki esaslar dahilinde selâm verilir.

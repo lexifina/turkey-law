@@ -1,0 +1,6 @@
+Madde 310 - (Değişik birinci fıkra: RG-29/09/2004-25598) Subay, askerî memur ve astsubayların yurt içinde ve dışında vefat etmeleri hâlinde cenaze masrafları ile cenazenin arzu edilen yere nakli için yapılacak masraflar; Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçesinden ödenir.
+Şöyle ki :
+a) Sağlık müesseselerinde tedavi edilmekte iken ölenler bu müessese tarafından kaldırılır.
+b) Sağlık müesseselerinde tedavide iken ölmüş olup da ölü sahipleri tarafından evinden kaldırılması istenen kimselerin cenaze masrafları ölü sahibinin ibraz edeceği masraf belgesine göre saymanlıklarca ödenir. Ölü sahibi, saymanlığa cenazeye ait masraf faturalarını getiren kimliği vesikalarla bilinen hakiki veya hükmi şahıstır, masraflar bu şekilde faturayı getirene ödenir.
+c) Ölü sahiplerine âcil ihtiyaçlarına binaen, cenaze masraflarına sarfedilmek ve bilâhare mahsubu yapılmak üzere ilgili saymanlıklarınca yeteri kadar avans verilir. Ölü sahibi, o yerdeki askerî veya mülki teşkilâttan birinden alacağı bir belge ile kimliğini isbat eder ve avansı alır.
+d) Cenaze masrafları; yıkama, tedfîn, tabut, cenazenin mezarlığa nakli, din adamı, kabir yeri ve kabir açma masraflarıdır. Cenaze masrafları, cenazenin defnedildiği yerin en yüksek rayicine göre ödenir.

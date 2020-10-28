@@ -1,0 +1,18 @@
+2 - Ordu evleri ve askeri gazinolar:
+Madde 664 - (Mülga birinci fıkra:RG-26/12/2014-29217)
+Bunlar askerî binalar olup askerî mahal vasıf ve mahiyetini haizdir.
+1 - (Mülga:RG-26/12/2014-29217)
+2 - (Mülga:RG-26/12/2014-29217).
+3 - (Mülga:RG-26/12/2014-29217)
+4 - Subaylar, askeri memurlar ve astsubaylar ile bunların emeklileri orduevlerinin ve askeri gazinoların tabii üyeleridirler.
+Tabii üyeler ile orduevleri, askeri gazino ve öteki askeri sosyal tesislerden yararlanma hakkına sahip diğer kişilerin (…);(1)
+a) (Ek ibare: 17/11/2007-26703) Bu Mahallerde(1) Siyasi konuşma yapmaları, siyasi telkin ve öneride bulunmaları, yasal ve yasa dışı kurulmuş bulunan siyasi amaçlı parti, kuruluş, dernek ve örgütlerden herhangi biri hakkında propaganda yapmaları yasaktır. Bu yasağa uymayanlar hakkında gerektiğinde yasal işlem yaptırılmakla birlikte, emekli üyeler ile sosyal tesislerden yararlanma hakkına sahip diğer kişilerden birinin bu tür faaliyette bulunduğu herhangi bir şekilde tesbit edilenler anılan sosyal tesislerden yararlanma haklarını kaybederler.
+b) Söz atma, sarkıntılık, ırz ve iffete tecavüz, askerlik haysiyet ve şerefine dokunan fiilleri işlemeleri veya orduevleri, askerî gazino ve öteki askerî sosyal tesislerde(1) uyulması öngörülen kurallara uymamakta ısrar etmeleri halinde bunlar hakkında gerektiğinde yasal işlem yaptırılmakla birlikte bu tesislere girişleri Genelkurmay Başkanlığınca yasaklanabilir. Yapılan yasal işlem sonucunda bu fiilleri işlemedikleri anlaşılanlar hakkında, daha önce alınmış olan yasaklama kararı Genelkurmay Başkanlığınca kaldırılır.
+c) (Değişik: RG-14/02/1999-23611) Emekli üyeler ile bunların aile fertlerinden birisinin, irticai, bölücü, yıkıcı faaliyetler içerisinde yer aldığının ya da Türk Silâhlı Kuvvetleri aleyhinde beyanda veya faaliyette bulunduğunun tespit edilmesi halinde, bu kimselerin, orduevleri, askerî gazinolar ve diğer askerî sosyal tesislere girişleri, Genelkurmay Başkanlığınca geçici veya sürekli olarak yasaklanabilir.
+ç) (Ek: RG-17/11/2007-26703) Kendisine özel bir görev verilmediği halde görevi ve sıfatı icabı muvazzaflık yaptığı dönemde bulunduğu görev ve görev yerleri hakkında beyanat veren, yazı yazan veya sair surette açıklamada bulunan, astlık-üstlük münasebetlerini zedelemeye, amir veya komutanlara karşı güven hissini yok etmeye yönelik olarak açıkça aşağılayıcı söz ve davranışta bulundukları çeşitli komutanlık ve resmî kaynaklardan intikal eden bilgi ve belgelerden tespit edilenlerin orduevleri, askerî gazinolar ve diğer askerî sosyal tesislere girişleri, Genelkurmay Başkanlığınca geçici veya sürekli olarak yasaklanabilir.
+d) (Ek:RG-16/10/2020-31276) İlgili mevzuat gereği açığa alınan, terör örgütlerine veya Millî Güvenlik Kurulunca Devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut bunlarla irtibatı olduğu değerlendirilerek 30 iş gününden daha fazla süre ile geçici görevden uzaklaştırılan Türk Silahlı Kuvvetleri personeli ile aynı gerekçelerle görevden uzaklaştırılan Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin orduevleri, askeri gazinolar ve diğer askeri sosyal tesislere girişleri görevden uzak kaldıkları süre zarfında; emekli üyeler ile sosyal tesislerden yararlanma hakkına sahip diğer kişilerden bu durumları nedeniyle soruşturma veya kovuşturma altında bulunanların orduevleri, askeri gazinolar ve diğer askeri sosyal tesislere girişleri ise soruşturma veya kovuşturma süresince Millî Savunma Bakanlığınca geçici olarak yasaklanabilir.
+5 - (Mülga:RG-26/12/2014-29217)
+6 - (Mülga:RG-26/12/2014-29217)
+7 - (Mülga:RG-26/12/2014-29217)
+8. (Mülga:RG-26/12/2014-29217)
+9. (Mülga:RG-26/12/2014-29217)

@@ -1,0 +1,1 @@
+Madde 176 - Her birlik kumandanı kışlanın, konak veya ordugâhın kendi birliğine ait kısmında, kanun ve nizamlarla tâyin edilen hususların tamamı ile yapılmasından mesuldür. Kumandan da bu hususlara nezaret ve takip eder. Hiçbir birliğe verilmeyen, taksimden dışarı kalmış kısımların iyi muhafazası için kumandanlıkça ayrıca tedbirler alınır.

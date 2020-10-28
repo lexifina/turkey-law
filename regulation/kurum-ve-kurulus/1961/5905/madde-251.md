@@ -1,0 +1,1 @@
+Madde 251 - Bölük (Gemilerde bölüm) astsubayı, her eğitim ve tatbikata veya teftişlere çıkışta örneğine göre bir mevcut pusulası hazırlar ve bölüğün en kıdemli subayına verir. Bu pusula bölüğün takdimi esnasında bölüm kumandanına verilir. Bölük kumandanı tarafından tetkik edilerek imza edilir ve icabında daha büyük âmire takdim olunur.

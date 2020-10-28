@@ -1,0 +1,1 @@
+Madde 2 - Tam ve sağlam bir disiplin için, âmir ile maiyetin karşılıklı sevgi ve saygı ile birbirlerine itimat beslemeleri şarttır. Böyle olmıyan disiplin tehlikeli olur ve sıkışık zamanlarda çabuk gevşer, bu da muvaffakiyetsizliği ve felaketi doğurur.

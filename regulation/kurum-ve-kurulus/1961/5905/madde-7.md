@@ -1,0 +1,1 @@
+Madde 7 - Amirlerin, üstlerin asker ve şahsi şeref ve haysiyetlerine dokunacak sözler söylemek, nerede olursa olsun çekiştirmek, şahsiyetlerini hor ve hakir görmek gibi teşebbüslerin; Silâhlı Kuvvetlerin disiplin ruhuna asla uygun olmayan çok fena haller olduğunu ve bunların hiç bir zaman cezasız kalmıyacağını her askerin bilmesi lâzımdır.

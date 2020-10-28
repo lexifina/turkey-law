@@ -1,0 +1,2 @@
+Madde 236 - Muhtelif kıt'alara mürettep oldukları halde aynı ulaştırma aracı ile aynı istikamete gidecek erbaş ve erler büyük bir kafile halinde sevk edilmelidir. Ve böyle kafilelerin başına muhtelif kıt'aya mürettep küçük kafilelerin yanında bulunacak muhafız erlerden maada tercihan bir subay bulunmazsa bir astsubay tâyin edilmelidir.
+Kafileye memur subay ve astsubay erlerin ulaştırma vasıtalarında muntazaman sevkini, disiplinini temin etmeye mecburdur.

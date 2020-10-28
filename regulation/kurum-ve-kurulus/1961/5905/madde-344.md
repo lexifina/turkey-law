@@ -1,0 +1,2 @@
+7 - Hayvanlarda hastalık alâmetleri, hastalıklar ve hasta hayvanlara yapılacak işlem ve ilk tedbirler
+Madde 344 - Hayvanlara bakan astsubay erbaş ve erler, nalbantlar veterinerin bulunmadığı veyahut hayvanlariyle bir vazife veya memuriyete gittikleri zamanlarda hastalanacak hayvanlara yapılması lâzım olan tedbirleri bilmeli ve yapabilmelidirler. Bu sebeple bunların hayvan hastalıklarına ait alametleri bilmeleri lâzımdır.

@@ -1,0 +1,1 @@
+Madde 305 - Yabancı memleket müstahzarlarının ithal durumları gözönünde tutularak döviz ziyaına meydan verilmemek amaciyle reçetelere mevcut ise yerli ve ucuz olan müstahzarlar (İlâçlar) tercihan yazılacaktır.(1)

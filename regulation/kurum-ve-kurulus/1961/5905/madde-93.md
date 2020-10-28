@@ -1,0 +1,6 @@
+Madde 93 - Sıhhat için şunlara da çok dikkat edilmelidir.
+a. Mideyi ve barsakları temiz tutmak (Bunun için yenecek ve içilecek şeylerin temizliğine dikkat etmek, midenin zor öğüteceği iyi pişmemiş yemekleri, olmamış ve yıkanmamış meyvaları yememek, ağır ve iyi çiğnemek, yemekten sonra bir saat kadar midenin öğütme işini aksatacak beden faaliyetlerinde bulunmamak, su ve saire içmemek.)
+b. Başı açık güneşte fazla durmamak, çok sıcaklarda vücudu birden bire serinletmekten ve çok soğuklarda birden bire ısıtmaktan kaçınmak terli iken su içmemek, şayet içmeye mecbur kalınırsa az miktarda yudum yudum ve ağızda alıştırarak içmek ve içtikten sonra da zarar görmemek için hızlıca yürümek ve hareket yapmak, terli iken hava cereyanları olan yerlerde bulunmamak, toz yutmamağa çalışmak.
+c. Alkollü içki kullanmamak, iştahı kesen, dimağa, kalbe ve ciğerlere zararı dokunan tütünü de mümkün olduğu kadar kullanmamak.
+d. Yaş yerlerde ve daima nemli olduğu için çimenlere ve taş üzerine oturmamak, oturmağa mecbur kalınırsa ayak ve baldırı kaba et altına almak, su kenarlarını pisletmemek.
+e. Korkunç ve bulaşık hastalıkların sebebi bit olduğundan her askerin bundan temizlenmesi ve hiç bit bulundurmaması esastır.

@@ -1,0 +1,1 @@
+Madde 654 - Silâh başına emir veya işaretiyle o mevkide bulunan bütün birlikler kendilerini muharebeye hazır bir hale koyarlar, böyle bir halde birliklerin alacakları tertipler kuvvetlerin özel talimat ve emirlerine göre olur.

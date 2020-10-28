@@ -1,0 +1,2 @@
+Madde 122 - Esaret halinde askerler rütbe ve mevki itibariyle daha büyük olan esir düşmüş âmir ve üstlerine eskisi gibi itaat etmeye ve saygı göstermeye, arkadaşları ile güzel geçinerek askerî terbiyeye aykırı hallerden sakınmağa ve hususiyle millî ve askerî onuru muhafazaya mecburdurlar.
+Her esir yurda dönüşte esaret zamanındaki hususi ve umumi hayatına dair hesap vermeğe mecbur olduğunu düşünerek hükümetin, milletin, yurdun onur ve menfaatlerini haiz olduğu rütbesinin haysiyetini her şeyden yüksek tutmağa her vakitten ziyade mecburdur.

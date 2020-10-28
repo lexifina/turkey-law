@@ -1,0 +1,1 @@
+Madde 708 - Kafile kumandanları aldıkları vazifeyi bitirip dönünce âmirlerine döndüklerini bildirirler ve ayrıca yazı ile bir de rapor verirler. Vazifeye giderken şayet kendilerine masraf için para verilmiş ise dönüşlerini takip eden bir kaç gün zarfında masraflarına mukabil aldıkları makbuzları teslim ederek hesaplarını keserler.

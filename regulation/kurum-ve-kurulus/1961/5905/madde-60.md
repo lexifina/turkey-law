@@ -1,0 +1,1 @@
+Madde 60 - Yabancı memleketlere izinli gidenler sivil elbise giyerler. Bunlar izinli giderken ayrıca usulüne göre pasaport muamelesine de tabidirler ve gittikleri yerlerdeki Türkiye Cumhuriyeti Elçiliğinde yoksa konsoloshanesine giderek ziyaret yapmaya, gittiği yerde bunlar yoksa en yakın elçilik veya konsolosluğa yazı ile yerini ve adresini bildirmeye mecburdurlar.

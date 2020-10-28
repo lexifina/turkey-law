@@ -1,0 +1,1 @@
+Madde 66 - Hafta tatili ile dinî ve ulusal bayramlarda izinli çıkacak erbaş ve erler her bölükten bir astsubay veya erbaşın emri altında topluca kışladan çıkarılır. Kışla, kasaba veya şehirden uzaksa izinli erbaş ve erleri getirip götürmek için birlikçe araç tahsil edilebilir.

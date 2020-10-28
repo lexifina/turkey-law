@@ -1,0 +1,2 @@
+Madde 288 – (Değişik:RG-14/6/2018-30451)
+Erbaş ve erlerin kıta, karargâh ve askeri kurumlara katılış ve ayrılışlarında genel sağlık muayeneleri yapılır. Bu muayeneler; ilk altı aylık devrede üç ayda bir, bundan sonraki devrede altı ayda bir olmak üzere tekrarlanır. Muayenelerin sonuçları, sağlık fişlerine kaydedilir. Bu muayenelerde göz önünde bulunacak noktalar, anamnez ve fizik muayene ile birlikte; ağız ve diş muayenesi ve kan grupları tayinidir. Bunlar ilk aylık muayenelerde tekemmül ettirilerek, sağlık fişlerine yazılmış olacaktır.

@@ -1,0 +1,1 @@
+Madde 43 - Askerler ve Silâhlı Kuvvetlerde çalışan sivil personel geçici veya hususi bir memuriyet ile doğrudan doğruya bağlı olmadıkları diğer bir âmir emrinde bulundukları esnada, muvakkat âmir, mezkûr personelin sözlü veya yazı ile olan her türlü müracaatlarını kabul ederek işlem yapar, yetkileri dışındakileri müracaat edenin esas âmirine bildirir.

@@ -1,0 +1,1 @@
+Madde 392 - Diğer kurumlarda (As. D., Ş., orduevi, dikimevi, fabrika, depo, ikmal merkezi) gibi tesis ve teşekküllerde bu teşekküllerin âmirleri mevcut personeli ve ihtiyaçları nazara alarak bu Yönetmelikte konulmuş esaslar dahilinde subay, askerî memur, astsubay ve diğer personel arasında gerekli nöbet hizmetlerini düzenler.

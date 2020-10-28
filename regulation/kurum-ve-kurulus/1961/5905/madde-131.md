@@ -1,0 +1,1 @@
+Madde 131 - Millî Savunma Bakanlığı tarafından Silâhlı Kuvvetler hesabına satın alınarak veya yazdırılarak veyahut yabancı dillerden çevirtilerek bastırılıp neşredilen eserlere (Resmî olmayan askerî neşriyat) adı verilir. Resmî olmayan askerî neşriyat muayyen zamanlarda çıkarılan askerî mecmua, risalelerle hizmete mahsus olmayan muhtelif askeri ve fenni kitaplardır.

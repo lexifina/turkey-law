@@ -1,0 +1,1 @@
+Madde 229 - Konaklardan perakende veya kafile halinde geçen erbaş ve erlerin hasta olanlarının ilk tedavileri doktor tarafından yapılır. Hastaneye yatmasına lüzum görülenler vesikaları diğerlerinden ayrılarak bir memurla hastaneye sevkedilir. Bu gibiler, sevkeden makamla mürettep olduğu makama bildirilir.

@@ -1,0 +1,2 @@
+SUBAY, ASKERî MEMUR VE ASTSUBAYLARIN HASTALIKLARI HALİNDE YAPILACAK İŞLEM
+Madde 292 - Subay, askerî memur ve astsubaylar hastalandıkları zaman hastalıklarını bizzat veya yazı ile veya başka bir vasıta ile âmirlerine bildirmeye mecburdurlar. Amirleri hastalık haberini alınca hastayı, kıta veya kurum tabibine, yoksa kanunun 58 inci maddesinin b fıkrası ve bu husustaki talimatname hükümleri gereğince vazifelendirilen tabibe, şayet hasta kalkamayacak durumda ise tabibi hastaya gönderir.

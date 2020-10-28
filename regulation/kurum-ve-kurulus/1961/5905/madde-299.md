@@ -1,0 +1,2 @@
+Madde 299- (Değişik: RG-29/09/2004-25598)
+Yetkili tabiplerce yazılmış olan reçete muhteviyatının kıt’a, askerî kurum ve hastahanelerce aynen temin edilip verilmesi asıldır. Ancak, reçete muhteviyatı buralarda bulunmadığı takdirde Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı sağlık başkanlıkları veya şubelerince tespit edilen eczanelerden parasız olarak alınır. Bu eczaneler, bilâhare en yakın saymanlıklardan usulüne göre reçetelerin tutarını topluca alırlar.

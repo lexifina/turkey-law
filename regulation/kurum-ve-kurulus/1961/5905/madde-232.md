@@ -1,0 +1,1 @@
+Madde 232 - Konaklarda kantin mevcut ise Silâhlı Kuvvetler İç Hizmet Talimatnamesinin kantinler hakkındaki ahkâmına göre hareket edilir. Şayet, kantin mevcut değilse seyyar satıcıların fiyatlarda ihtikâra sapmamalarına ve satılan şeylerin sıhhate zararlı olmamasına çok dikkat edilmelidir.

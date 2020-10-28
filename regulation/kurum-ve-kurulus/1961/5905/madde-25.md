@@ -1,0 +1,1 @@
+Madde 25 - Gerek boru vesair işaretlerle, gerekse ağızdan veya yazı ile veya her türlü muhabere araçları ile verilen emirlerin behemahal tam vaktinde yapılmasına çok dikkat etmek ve gecikilirse katiyyen af edilmeyip maiyetini vazifelerini sevmeğe ve tam vaktinde yapmağa alıştırmak her âmirinin birinci vazifesidir.

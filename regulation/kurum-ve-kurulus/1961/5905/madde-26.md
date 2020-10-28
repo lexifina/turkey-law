@@ -1,0 +1,1 @@
+Madde 26 - Amirler, maiyetinin katlandığı her türlü zahmet ve mahrumiyetlere fiziki imkân nispetinde beraber katlanmalı, bir kolaylık çıkınca bunlardan istifade için nefsini sona bırakmalı ve bir zorluk çıkınca bilâkis öne atılmayı şerefli bir vazife telakki etmelidir.

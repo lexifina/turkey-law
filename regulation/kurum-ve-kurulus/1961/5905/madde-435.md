@@ -1,0 +1,1 @@
+Madde 435 - Sahil ve deniz inzibatının sağlanması telsiz nöbeti, hava, su üstü ve denizaltı emniyeti bu gemiye aittir. Birden fazla nöbetçi gemi olduğu takdirde vazifeleri en büyük birlik kumandanlığınca düzenlenir.

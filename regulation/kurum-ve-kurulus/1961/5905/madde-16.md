@@ -1,0 +1,1 @@
+Madde 16 - Vazife esnasında âmirlerin maiyetleri ile münasebetleri daima ciddi olmalı, vazife dışındaki münasebet ve görüşmeleri de samimi ve candan olmalı, bununla beraber itaat ve itimat hislerini bozacak derecede senli benli olmamalıdır.

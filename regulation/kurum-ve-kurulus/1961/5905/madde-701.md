@@ -1,0 +1,1 @@
+Madde 701 - Hastalık sebebiyle bir yere teslim edilen erat ve hayvanların iaşe ilmuhaberini hemen vermek imkânı yoksa, bu sonradan gönderilmek üzere bunlar kafile kumandanlığınca verilecek muvakkat bir muhtıra üzerine teslim olundukları mahallerce iaşe olunurlar.

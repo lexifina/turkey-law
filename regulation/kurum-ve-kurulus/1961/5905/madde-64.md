@@ -1,0 +1,1 @@
+Madde 64 - Nöbetçi olmayan kışlada gece vazifesi olmayan veya kendisine ayrıca hususi vazife verilmeyen subaylar, askerî memurlar, astsubaylar ve sivil personel bakım, yerleşme ve ertesi günkü vazife ve hizmetlerini tanzim ettikten sonra kışladan ayrılabilirler.

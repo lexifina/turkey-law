@@ -1,0 +1,1 @@
+Madde 45 - Şikâyetleri incelemeye yetkili olan âmirler bizzat şikâyeti neticelendirirler. Daha yukarıdaki âmirlerin karar ve hükümlerine luzüm gösteren şikâyetleri onlara bildirirler ve alacakları hüküm ve kararlarını şikâyetçiye tebliğ ederler.

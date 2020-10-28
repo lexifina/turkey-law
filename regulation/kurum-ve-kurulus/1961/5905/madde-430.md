@@ -1,0 +1,1 @@
+Madde 430 - Nöbetçiler nöbet yerlerinde görevinin özelliğine göre ayakta veya oturur halde bulunur. Hiç bir zaman dayanmaz, uyumaz, silâhını bırakamaz, müsaade edilen mesafe içersinde dolaşabilir. Daima etrafına bakar, dinler, gelen ve geçenlere, gemiye yaklaşan veya civarından geçen vasıtalara dikkat eder. Sigara içmesi özel talimata göre olur.

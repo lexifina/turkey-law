@@ -1,0 +1,1 @@
+Madde 696 - Harb esiri ve mahpus kafilelerinin geceyi geçirecekleri yerde varsa garnizon kumandanlığına yoksa mahalli Hükümete haber verilerek bunların kaçmalarına meydan vermiyecek kapalı ve münasip yerler istenir ve buralarda emniyet altında yerleştirilir.

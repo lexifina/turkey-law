@@ -1,0 +1,1 @@
+Madde 58 - Hava ve yol halleri nakil vasıtalarının vaziyeti sebepleri ile vukua gelecek gecikmeler, alâkadar nakil vasıtaları idarelerinin veya mahalli kumandanın (Garnizon, merkez, deniz üs, jandarma) onanmış belgeleri ile tevsik edilmek lâzımdır.

@@ -1,0 +1,1 @@
+Madde 39 - Bölük kumandanı; günlük emirden bölük erbaş ve erlerine aynen tebliğ edilmesi lâzım gelenleri bölüğün tutacağı günlük emir defterine geçirir. Ve bölüğün iç hizmetine ait ayrıca bir diyeceği varsa bunu da ilâve eder. Bu emir akşam yoklamasından sonra bölük nöbetçi subayı, nöbetçi astsubayı veya nöbetçi erbaşı tarafından bütün erbaş ve erlere okunur ve anlatılır.

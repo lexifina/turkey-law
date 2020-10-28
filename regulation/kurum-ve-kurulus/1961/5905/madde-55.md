@@ -1,0 +1,4 @@
+Madde 55 - Disiplin âmirleri tarafından subaylara, askerî memurlara, ast subaylara ve sivil personele verilen cezalar, cezanın kısaca sebep ve mahiyeti, ceza görenin kimliği ve cezanın tatbik tarihi ile nihayet 2 gün içinde bir derece üst âmire yazı ile bildirilir, sicil Esas Kayıt defterine geçirilir ve dosyasına konulur.
+Gemilerde disiplin yolu ile cezalandırılan subay, astsubay, erbaş ve erlerin cezaları ikinci kumandan tarafından infaz edilir.
+Erbaş ve erlerin disiplin cezaları bölük kumandanına en kısa zamanda bildirilir.
+Askerî mahkemelerle disiplin âmirleri tarafından hükmolunan ve tatbik edilen cezaların ikmalinde cezalının kimliği, cezanın mahiyeti ve bittiği gün hakkındaki malûmatla birlikte her ay zarfındaki vukuat ay nihayetinde alay ve muadil makamlardan üst makamlara bir cetvel ile muntazaman bildirilir.

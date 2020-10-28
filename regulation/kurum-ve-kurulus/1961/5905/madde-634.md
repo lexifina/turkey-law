@@ -1,0 +1,2 @@
+4 - Nöbetçilerin değiştirilmesi:
+Madde 634 - Nöbet değiştirme saati geldiği veya buna mahsus işaret verildiği zaman yeni nöbetçi kıt'ası ve yeni değiştirici onbaşı nizam karakol talimatı ile tâyin edilmiş olan kendilerine mahsus toplanma yerinde toplanır. Burada nöbet değiştirici onbaşı süngü takması emredilmiş olan nöbetçilere süngü taktırır, tüfeklerin dolu bulunması icap eden ahvalde tüfekleri doldurtur. Emniyet kanatlarının kapalı bulunmasına bilhassa dikkat edilmelidir ve nöbet yerlerini sıra ile dolaşmak üzere kıt'ayı düzgün olarak sevk eder.

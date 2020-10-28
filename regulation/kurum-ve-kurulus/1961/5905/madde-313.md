@@ -1,0 +1,2 @@
+Madde 313 - Cenazenin naklinde mümkünse askerî vasıtalardan istifade edilir. Cenazenin naklinde kullanılacak aracın cinsi mevsime ve diğer şartlara göre mahalli ilgili tabiple garnizon kumandanlığının müştereken vereceği karara bağlıdır. Mümkün olduğu nispette süratli vasıtalar tercih edilir.
+Cenaze merasimine katılanların camiden mezarlığa gidip dönmeleri için mümkün olduğu takdirde garnizon komutanlığınca araç tahsis edilir.

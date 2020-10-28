@@ -1,0 +1,97 @@
+{
+  "source_id": "7.5.5905",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET YÖNETMELİĞİ",
+  "number": "5905",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/1961/5905",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5905&MevzuatTertip=5",
+  "source_sha256": "3e6d6021009d21d04d82aa3ea1e9e88fa44108958472fe67d733d39addd083fb",
+  "source_bytes": 681518,
+  "published": "1961-09-06",
+  "gazette": "10899",
+  "in_force": "2020-10-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/10/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-10-28",
+      "RG-28/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-16",
+      "RG-16/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-14",
+      "RG-14/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-14",
+      "RG-14/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-11-25",
+      "RG-25/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-05-03",
+      "RG-3/5/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-12-26",
+      "RG-26/12/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-08-29",
+      "RG-29/8/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-27",
+      "RG-27/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-05-30",
+      "RG-30/5/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-05-16",
+      "RG-16/5/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-11-17",
+      "RG-17/11/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 43255,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn1#_ftn1",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn3#_ftn3",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn4#_ftn4",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn9#_ftn9",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn10#_ftn10",
+    "http://mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/mevzuat/cache/yonetmelik/http:/mevzuat.basbakanlik.gov.tr/cache/yonetmelik/7.5.5905.htm#_ftn11#_ftn11"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

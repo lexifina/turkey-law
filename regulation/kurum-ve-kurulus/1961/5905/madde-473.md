@@ -1,0 +1,1 @@
+Madde 473 - Güverte nöbetçi subayına ait görevleri bilir. Bu görevleri zamanında nöbetçi subayına yardımcı olarak emrine göre hizmet icra eder. Nöbet işlerinin yürütülmesinden birinci derecede sorumludur. Nöbetini sekizer saatlik vardiyalar halinde tutar. Nöbette uyumaz. Yedek zamanı nöbetçi subayına haber vererek emrine göre hareket edecektir.

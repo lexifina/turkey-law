@@ -1,0 +1,1 @@
+Madde 71 – (Değişik fıkra: RG-16/5/2012-28294) Er ve erbaşlar; Genelkurmay Başkanlığınca müsaade edilen haller ile yıllık izinlerini kullandıkları veya hava değişiminde bulundukları müddet içerisinde sivil elbise giyebilirler. Ancak, bunlar tarlalarında ve iş yerlerinde çalıştıkları zaman sivil elbise giymeye mecburdurlar.

@@ -1,0 +1,1 @@
+Madde 614 - Nizam karakol erbaş ve erlerin kıt'alarında silâhlı ve seferi teçhizatlı (Cephane dâhil) olarak çıkarılır. Bu karakoldan çıkacak nöbetçi ve devriyelerin nöbet esnasında da seferi teçhizatını kamilen taşıyıp taşımıyacakları o zamanki vaziyete göre kumandanlıkça tâyin ve emrolunur.

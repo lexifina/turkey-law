@@ -1,0 +1,1 @@
+Madde 315 - Ayrıca kumandan ve askerî kurum âmirleri ve bunların muvafakati ile tabipler, sağlık durumları kontrolüne lüzum görülen subay, askerî memur ve astsubayları her zaman muayeneye tabi tutabilirler.

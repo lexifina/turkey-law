@@ -1,0 +1,1 @@
+Madde 481 - Makine bölümünde vakit cetvelinin uygulanması, makine kazanlar ve sair yerlerde gerekli liman personelinin tam olarak bulundurulması. Vardiya değişmesinin vaktinde yapılması. Su, yakıt, sarfiyatında tasarruf sağlanması ile sorumludur.

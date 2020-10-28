@@ -1,0 +1,2 @@
+8 - Derneklerle münasebet
+Madde 124 - Askerlik kendi ülküsünden doğan hususiyle manevi değerleriyle başlı başına bir meslektir. Türk Silâhlı Kuvvetleri her türlü siyasi mülahaza ve tesirlerin üstündedir. Bundan ötürü Silâhlı Kuvvetler mensuplarının hükümet tarafından tasdikli veya tasdiksiz siyasi parti ve derneklere girmeleri ve bunların siyasi faaliyetleriyle münasebette bulunmaları ve her türlü siyasi gösteri, toplantı ve seçim işlerine karışmaları ve bu maksatla nutuk beyanat vermeleri ve makale yazmaları yasaktır.

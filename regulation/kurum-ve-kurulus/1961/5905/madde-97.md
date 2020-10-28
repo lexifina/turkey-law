@@ -1,0 +1,3 @@
+4 - Silâh, malzeme, teçhizat, elbise ve eşyanın korunması ve bakımı için vazifeler
+Madde 97 - Silâhlı Kuvvetlere ait her çeşit Devlet malının bakım ve koruması ve muhafazası elde mevcut talimat, tarifname ve talimnamelere ve hususi surette verilen emirlere göre yerine getirilir.
+Silahlı Kuvvetlerin muharebe kudretini felce uğratacak olan her çeşit Devlet malının bakım, korunma ve muhafazası konusunda mazeret serdi ve kabulü caiz değildir. Her rütbedeki kumandanlar bu hizmetlerle yakinen ve bizzat alâkadar olmağa ve bu mevzuda gereken her türlü tertip ve tedbirleri almağa mecbur ve mükelleftirler.

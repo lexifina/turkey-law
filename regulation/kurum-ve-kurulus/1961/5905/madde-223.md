@@ -1,0 +1,4 @@
+Madde 223 - Konaklar, kendi kadrosundan başka celp ve terhis gibi toplu ve kafile halindeki erbaş ve erler, hava değişimi, memur veya sair suretlerle iaşeye müstehak perakende erbaş ve erler ve verilecek emir dairesinde lüzum görülecek kıta ve müesseseleri iaşe ederler.
+Asker konaklarının bulunduğu garnizondaki kıtalardan hava değişimi, memur veya sair suretlerle gidecek erbaş ve erler konağa uğratılmadan kıtalarınca sevkedilir.
+Konağa gelenlerin ellerinde mutlaka iaşe ilmühaberi sevk muhtırası veya sevk pusulası ve sair resmî vesikalar bulunmalıdır.
+Ellerinde tâyin ilmühaberi olmadığı halde konaklara müracaat edecek perakende erbaş ve erler iaşe olunur ve aynı zamanda Ordu Mal Yönetmeliğinin tâyin ilmühaberi bahsindeki ilgili maddesi ile bu maddeyi takip eden maddeler hükümlerine göre işlem yapılır.

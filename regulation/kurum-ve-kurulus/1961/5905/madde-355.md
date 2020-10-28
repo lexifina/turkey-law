@@ -1,0 +1,1 @@
+Madde 355 - Bulaşık hastalıktan dolayı ölen, öldürülen bir hayvanın mutbiyesi başka bir hayvanda kullanılamaz. Teçhizat ve malzeme kıta veterineri tarafından fennî bir surette temizlendikten sonra emirle kullanılabilir.

@@ -1,0 +1,2 @@
+Madde 190 - Kışla, konak ve ordugâhlarda birden ziyade kapu varsa nizam karakolunun bulunduğu kapudan başkası yat borusunda kapanır ve kalk borusunda açılır. Pavyon usulü kışlalarda personelin giriş çıkması için yalnız bir kapı lüzumunda açık bırakılır.
+Silâh, araç, hayvanların ve sairenin girip çıkması için de varsa başka bir kapu gösterilir ve bu kapı ancak hizmet zamanlarında açtırılır ve kapattırılır.

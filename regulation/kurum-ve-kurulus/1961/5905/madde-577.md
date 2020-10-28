@@ -1,0 +1,2 @@
+Madde 577 - (Değişik:RG – 05/03/1999 - 23630)
+Makine vardiya subayının esas görevi; kazanlar, ana makineler, gaz türbini ve yardımcı makinelerin emniyet ve kifayetle çalıştırılmasını ve köprüüstünden verilen makine komutlarının zamanında ve tam olarak uygulanmasını sağlamak; geminin seyrini ve emniyetini ilgilendiren hususlarda, vardiya amiri, başçarkçı ve gemi komutanının emirlerine göre gerekli tedbirleri almak ve işlemlerini başlatmaktır.

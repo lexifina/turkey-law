@@ -1,0 +1,2 @@
+Madde 121 - Savaşta esir düşen asker silâhlı kuvvetlere girerken içtiği and'ı asla hatırından çıkarmamalı ve kendi silâhlı kuvvetlerine ve yurduna zarar getirecek hiç bir haberi düşmana vermemelidir. Esir kendi memleketinin menfaati uğuruna icabında yalan söyliyebilir.
+Esir olan her askerin kendi silâhlı kuvvetlerine ve yurduna yardım etmiyeceğine ve memleketine bırakıldığı halde düşmana karşı hareket etmiyeceğine dair söz vermesi yasaktır.

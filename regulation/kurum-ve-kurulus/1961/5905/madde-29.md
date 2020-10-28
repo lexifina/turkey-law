@@ -1,0 +1,1 @@
+Madde 29 - Emir vermekte makamlar silsilesine tabi olmak usulünden ayrılarak hal ve vaziyet icabı ikinci ve daha alt derecedeki makama emir vermek mecburiyetinde kalan âmir, atlanmış olan kademelere mümkünse derhal, değilse imkân hâsıl olunca keyfiyetten haber verir. Emir alan ise ilk fırsatta kendi âmirini aldığı emirden haberdar eder.

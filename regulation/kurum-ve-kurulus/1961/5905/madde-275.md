@@ -1,0 +1,2 @@
+Madde 275- (Değişik: RG-29/09/2004-25598)
+Kıt’a, karargâh veya askerî kurum tabibi olarak görevlendirilen serbest çalışan sivil tabiplerin ücretleri, mukavelesine göre Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçelerinden ödenir. Diğer kıt’a veya askerî kurum tabipleri ile belediye ve hükümet tabiplerine veya resmî vazifeli sivil tabiplere ücret ödenmez.

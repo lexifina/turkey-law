@@ -1,0 +1,4 @@
+HASTALANAN ER VE ERBAŞLAR HAKKINDA YAPILACAK İŞLEM
+Madde 283 - Hastalananlar ve tabibe sıhhi bir sebeple danışmak isteyenler hastalıklarını derhal âmirine haber vermiye mecburdur. Hastalanan bunu yapmazsa en yakın âmiri tarafından haber verilir. Bunların haricinde her sabah birlik vazifeye sevkedilmeden hastalanan olup olmadığı sorulur. Hastalık haberi verenler veya âmiri tarafından görülen hastalar vizite defterine yazılır. Vizite defteri nöbetçi subayı tarafından imzalandıktan sonra bir erbaş refakatinde veya sorumlu bir personel ile vizite yerine, tabibin muayenesine gönderilir.
+Birliğinden izin, hava değişimi v.s. gibi sebeplerle uzakta bulunan er ve erbaşlara gözlük v.s. cihazlar verilemez. Bunlar ancak kendi birliklerince verilir.
+Mesai saati dışında hastalananlarda yine aynı şekilde vizite defterine yazdırılarak imzalandıktan sonra nöbetçi tabibine gönderilir.

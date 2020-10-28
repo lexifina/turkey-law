@@ -1,0 +1,1 @@
+Madde 339 - Kışla haricinde su vermek lüzumu halinde mümkün oldukça akar ve temiz sular tercih edilmelidir. Yürüyüşlerde hayvan terli iken su vermek lâzım gelirse ağır ağır içmesi için ağızdan kantarma çıkarmamalıdır. Vazifeden terli olarak dönen hayvanlara teri kurumadan su içirilmemelidir.

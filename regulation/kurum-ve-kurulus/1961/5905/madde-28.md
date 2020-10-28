@@ -1,0 +1,2 @@
+4 - Emir
+Madde 28 - Emir; her türlü askerî vazifelerin ve hizmetlerin nâzımıdır. Emrin üniforma ile verilmesi lâzımdır. Üniformasız olan bir âmirin verdiği emirleri onu tanıyanlar yapmağa mecburdur. Üniformasız iken emir vermek lüzumunu gören âmirler (Kanuna göre emir vermek mevkiinde bulunan üstler) ast tarafından tanınmıyorlarsa kimlik kartları ile kendilerini tanıtırlar. Bu ahvalde de astlar tarafından emirleri yapılır.

@@ -1,0 +1,2 @@
+Madde 318- (Değişik: RG-29/09/2004-25598)
+Dış memleketlerde tedavisini isteyen veya tedavisine lüzum görülen hastalar yalnız Gülhane Askerî Tıp Akademisine sevk edilir. Burada Profesörler Kurulunca hastalık için gerekli rapor verilir. Bu raporda; hastalığının Türkiye’de tedavisinin imkânsız olduğu, hangi dış memlekette ve mümkün ise bu memleketin hangi şehrinde tedavisinin mümkün olduğu, gerekli fennî mütalâalara ilâveten açıklanır. Bu raporlar; Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının onayı ile tekemmül eder.

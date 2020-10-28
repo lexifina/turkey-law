@@ -1,0 +1,1 @@
+Madde 265 - Tabur ve benzer kumandanı müracaat, şikayet, ceza ve saire gibi hususattan kendi salâhiyetinde olanların icabına bakar yetkisi dışında olanları muhtevi olmak üzere hazırlatacağı tabur ve benzeri vukuat raporunu bir derece daha büyük kumandana takdim eder.

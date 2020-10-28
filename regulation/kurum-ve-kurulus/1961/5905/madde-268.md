@@ -1,0 +1,1 @@
+Madde 268 - Vukuat raporunu takdim zamanı bölüklerden müstakil ve müfrez taburlarda tabur ve benzeri kumandanına ve alay (Deniz ve havada benzeri) kumandanına en geç saat on ikide varacak şekilde hesap edilerek tâyin edilmelidir. Derhal haber vermesi icap eden vak'alar hemen haber verilir.

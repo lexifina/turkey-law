@@ -1,0 +1,1 @@
+Madde 103 - Erbaş ve erler, askerlik hizmetine gelinceye kadar okuma ve yazmayı öğrenmemiş ise Silâhlı Kuvvetlerde bulunurken bunları öğrenmeğe mecburdur. Silâhlı Kuvvetlerdeki vazife ve hizmetlerden hakkı ile istifade ederek memlekete daha yükselmiş bir yurttaş olarak dönmek, erbaş ve erlerin başlıca emeli olmalıdır.

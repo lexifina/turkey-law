@@ -1,0 +1,1 @@
+Madde 471 - Seyir hazırlıklarında, limanda ana makinelerin torna çark edilmesinden önce gemi nöbetçi subayına torna çarkın yapılmasında mahzur olup olmadığını öğrenecek ve yetkili personelin mevkilerini almalarını sağlayacak ve bundan sonra torna çark'a müsaade edecektir.

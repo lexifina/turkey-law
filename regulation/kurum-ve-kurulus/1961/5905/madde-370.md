@@ -1,0 +1,1 @@
+Madde 370 - Çavuş, tavır ve harekette, ahlâkta ve nazarî ve amelî bilgide ve tatbikte astlarına mükemmel bir örnek olmalı ve mesleğinin icabettirdiği bütün bilgilerden ders vermeğe, talim ettirmeğe ve hayvan terbiyesine kudretli olmalıdır.

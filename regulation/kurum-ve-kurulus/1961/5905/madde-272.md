@@ -1,0 +1,1 @@
+Madde 272 - Hastalanan askerlerin muayene ve tedavileri kendi kıta, karargâh ve kurumlarının kadrolarında mevcut tabiplerce yapılır. Bunlar mevcutken başka bir kıta karargâh veya kurum tabibine veya diğer tabiplere muayene ettirilmezler.

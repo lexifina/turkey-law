@@ -1,0 +1,1 @@
+Madde 312 - Cenazenin bir yerden diğer bir yere nakli Hıfzıssıhha Kanunu hükümlerine uyularak ve mahallinde tahnit yapmak imkânı varsa yapılarak veya hiç olmazsa bozulmasına engel olacak tedbirler (Frigo tertibatı) alınarak ve gömülmeden yapılır. Bu şartlarda nakil masrafı bütçeden ödenir. Gömüldükten sonra yapılacak nakil masrafları ödenmez.

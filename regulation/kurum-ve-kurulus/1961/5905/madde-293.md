@@ -1,0 +1,2 @@
+Madde 293 - Müstacel vakalarda hasta durumunu âmirine bildirmekle beraber, yakın ise kendi kıta veya askerî kurum tabibine, değilse civardaki kıta veya askerî kurum tabibine askerî hastane tabibine, Hükümet veya belediye tabibine ve bunlardan hiçbiri yoksa serbest çalışan bir sivil tabibe müracaat edebilir.
+Serbest çalışan sivil tabibe müracaatı zaruri olduğu takdirde muayene, tedavi ve nakil masrafı kendisine aittir.

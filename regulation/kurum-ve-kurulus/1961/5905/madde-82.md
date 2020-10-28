@@ -1,0 +1,1 @@
+Madde 82 - Bütün subay, askerî memur ve astsubay, askerî öğrenci er ve erbaşların her nevi süs ve moda cereyanlarından sakınmaları kıyafet ve tuvaletlerinde sadeliği esas tutmaları şarttır. Sivil personel de aynı kaidelere uymak mecburiyetindedir.

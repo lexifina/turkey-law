@@ -1,0 +1,1 @@
+Madde 512 - Gemi başüstünde dolaşarak demir tertibatı ve zincirinin durumuna, geminin tarayıp, taranmadığına, zincirden kimsenin tırmanmadığına, gündüz demir şamandırasına, gece baş liman fenerlerinin yandığına, gemiye iskelelerden başka bir yerden kimsenin çıkmamasına dikkat eder. Ve emniyeti sağlar.

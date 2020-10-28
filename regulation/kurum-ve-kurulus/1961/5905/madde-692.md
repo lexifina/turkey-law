@@ -1,0 +1,1 @@
+Madde 692 - Mahpusların muhafızlarla veyahut diğer kimselerle münasebette bulunmalarının önüne geçilmelidir. Aksi halde bu münasebetten mahpusların kaçmalarını kolaylaştıracak imkânlar hâsıl olabilir.

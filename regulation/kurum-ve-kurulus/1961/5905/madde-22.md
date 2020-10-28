@@ -1,0 +1,1 @@
+Madde 22 - Oy vermek ve kanaat söylemek icap eden herhangi bir işte mesuliyet; oy ve kanaat sahiplerine ait olduğu hallerde (Satın alma komisyonları, muayene komisyonları vesaire) âmirler, oyun şu veya bu suretle ve kanaatın de şu veya bu merkezde olması hakkında emir veremezler.

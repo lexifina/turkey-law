@@ -1,0 +1,1 @@
+Madde 627 - Nizam karakolunun temizliğine ve nizamına bakmak üzere yedek olarak fazladan getirilen erlerden biri memur edilir. Nöbette olmıyan erler tüfeklerini tüfekliye posta posta ve nöbet sırasiyle korlar. Teçhizat ve eşyalarını da hemen giyinip kuşanacak veçhile başuçlarında derli toplu olarak bulundururlar.

@@ -1,0 +1,1 @@
+Madde 206 - Koğuşlarda yapılacak temizlikler ve bu maksatla alınması lâzımgelen tertipler (Silâhlı Kuvvetler Sıhhatı Koruma) Talimatında yazılmıştır. Bu temizlik ve tedbirlere riayet olunur ve ihmal edenler mesul tutulur.

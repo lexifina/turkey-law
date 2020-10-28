@@ -1,0 +1,1 @@
+Madde 8 - Ast; âmirin her emrini bütün tahammül kuvvetini, sarf ederek istekle ve tam zamanında yapmağa mecburdur. Bundan başka gerek vazife sırasında ve gerekse vazife dışında âmirlerine yardım etmek de her ast'ın borcudur.

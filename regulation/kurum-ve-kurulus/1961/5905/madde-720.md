@@ -1,0 +1,4 @@
+Madde 720 - 211 sayılı Türk Silâhlı Kuvvetleri İç Hizmet Kanununun 120 nci maddesine istinaden tanzim olunan Türk Silâhlı Kuvvetleri İç Hizmet Yönetmeliği 27 Mayıs 1961 tarihinden itibaren mer'idir.
+____________
+(1) 17/11/2007 tarihli ve 26703 sayılı Resmi Gazete’de Yayınlanan Yönetmelik değişikliği ile 664 üncü maddenin ikinci fıkrasının 4 numaralı bendinin ikinci paragrafında yer alan "bu mahallerde" ibaresi metinden çıkarılmış, aynı bendin (a) alt bendinin başına "Bu mahallerde;" ibaresi eklenmiş, (b) alt bendinde yer alan "anılan yerlerde" ibaresi "orduevleri, askerî gazino ve öteki askerî sosyal tesislerde" olarak değiştirilmiştir.
+(2) 145/2018 tarihli ve 30421 sayılı Resmi Gazete’de yayımlanan değişiklik ile Yönetmeliğin 65 inci maddesinin dördüncü fıkrasından sonra gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.

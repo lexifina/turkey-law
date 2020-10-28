@@ -1,0 +1,2 @@
+Madde 30 - Emirler açık, kısa ve kesin olmalı ve astın verilen emri tamamen anlayacağına ve anladığına dair emir veren âmire kanaat gelmelidir. Bir vazife veya hizmetin yapılması için yalnız emir vermek yetmez; verilen emri zamanında takip etmek ve istenilen işin başarılmasını emniyete almak her âmirin vazifesidir.
+İcabında verilen emrin ne vakte kadar yapılması lâzım geldiği ve emrin yapılma tarzı da açıkça bildirilmelidir. Bu vakti tâyin ve tahditte âmir çok hesaplı ve toleranslı davranmalı, olmıyacak veya vazifeyi eksik bırakacak vakit darlığına meydan verilmemelidir.

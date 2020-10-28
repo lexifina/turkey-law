@@ -1,0 +1,1 @@
+Madde 342 - Vazifeden dönüşte ilk yapılacak iş, hayvanın terini kurutmak ve temizlemektir. Yaz ve kış müsait havalarda çok terli hayvanları hemen ahıra sokmayıp bir müddet yedekte rüzgârsız yerde gezdirmeli ve bu esnada kolan gevşetilmiş bulunmalıdır. Bu suretle teri az çok kuruyan hayvanın ayaklarının çamurunu bukalığına kadar güzelce yıkayıp kurutmalı ve ahıra çekmelidir.

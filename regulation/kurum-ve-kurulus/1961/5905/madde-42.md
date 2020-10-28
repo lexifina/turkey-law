@@ -1,0 +1,2 @@
+Madde 42 - Amirler; astların sözlü veya yazı ile olan her türlü müracaatlarını sükûnet ve iyi kalplilikle dinlerler ve incelerler. Bunlardan uygun olanları kendi salâhiyetleri içinde ise kendileri neticelendirirler. Salâhiyetleri dışındakileri icabediyorsa kendi fikirlerini de yazarak en geç üç gün zarfında daha büyük makama gönderirler.
+Yetkili makam da en geç bir ay içinde neticeyi müracaat sahibine bildirmeye mecburdur.

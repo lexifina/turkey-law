@@ -1,0 +1,1 @@
+Madde 719 - 1 Mart 1961 tarihinde yürürlüğe girmiş ve 9 Mart 1961 tarih ve 10753 sayılı Resmî Gazete ile neşredilmiş bulunan Silâhlı Kuvvetler İç Hizmet Sağlık İşleri Yönetmeliği yürürlükten kaldırılmıştır.

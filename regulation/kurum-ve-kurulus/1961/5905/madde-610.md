@@ -1,0 +1,1 @@
+Madde 610 - Karakol ve nöbetçiler kanun ve nizamlarla tâyin edilen yerlere konur. Karakol hizmeti kaideden yaya sınıflar tarafından yahut atlı sınıflardan yaya olarak yapılır. Bunların atlı veya motorlu olarak bulunmaları icap ediyorsa o şekilde tertip olunurlar.

@@ -1,0 +1,1 @@
+Madde 181 - Hangarlarda, garajlarda, tamirhanelerde, akaryakıt tevzi yerlerinde, çatı aralarında, yem, ot ve saman ambarlarında, ahırlarda, hülâsa kolaylıkla ateş alabilecek maddelerin bulunduğu yerlerde sigara içmek, çakmak çakmak, muhafazasız mum veya lâmba ile dolaşmak ve kışlanın içinde kolaylıkla ateş alabilecek maddeler bulundurmak yasaktır.

@@ -1,0 +1,1 @@
+Madde 98 - Asker, Devlet tarafından bedelsiz ve emanet olarak kendisine verilen her çeşit Devlet malını hiç bir surette kimseye satmıyacağı gibi böyle bir iş yapmağa kalkışanları duyar veya bilirse âmirine derhal haber vermeye mecburdur.
