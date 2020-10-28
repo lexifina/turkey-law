@@ -1,3 +1,3 @@
 Ücret alınmayacak hâller
-Madde 9 - Bilimsel yönden tabiata ve türlerine zararlı olan hayvanların bu Kanun gereğince görevliler veya avcılar tarafından avlanmasında ücret alınmamasına ilişkin usul ve esaslar Bakanlık tarafından tespit edilir.
-Yabancı devletlerin diplomatik pasaport taşıyan temsilcileri ile Devlet misafirlerinden, ikili veya çok taraflı sözleşmelere ve mütekabiliyet esasına bağlı olarak avlanma izin ücreti veya avlama ücreti alınmayabilir.
+Madde 9 –(Değişik:28/10/2020-7255/16 md.)
+Bilimsel yönden tabiata ve türlerine zararlı olan hayvanların bu Kanun gereğince görevliler veya avcılar tarafından avlanması ile avlanma izin ücreti ve avlanma ücreti alınmayacak diğer kişilere ilişkin usul ve esaslar Genel Müdürlük tarafından çıkarılan yönetmelikle belirlenir.[9]
