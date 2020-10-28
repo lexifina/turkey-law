@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9663",
+  "decision_date": "2020-10-28",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi’ne ait yer altı depolama lisanslı Silivri Yer Altı Doğal Gaz Depolama Tesisi’nin (BOTAŞ Silivri Depolama Tesisi) birinci tarife uygulama dönemine ilişkin",
+  "resmi_gazete_date": "2020-10-31",
+  "resmi_gazete_number": "31290",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eJVcyYXBnEM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eJVcyYXBnEM="
+  ],
+  "source_sha256": "5dff3b21ccb9147b910024405fb51180d632a2ebe5826a3789d370342b97fb52",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-10-28",
+  "law_text_complete": true
+}
