@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34959",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENİZLERDE FAALİYET GÖSTEREN BALIK ÇİFTLİKLERİNİN ÇEVRESEL YÖNETİMİ YÖNETMELİĞİ",
+  "number": "34959",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2020/34959",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34959&MevzuatTertip=5",
+  "source_sha256": "c8d2c503d785e3936947cd8979853eb2e65272ae9d2923f83c46ca5be8354d13",
+  "source_bytes": 39412,
+  "published": "2020-10-28",
+  "gazette": "31288",
+  "in_force": "2020-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1865,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34959-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
