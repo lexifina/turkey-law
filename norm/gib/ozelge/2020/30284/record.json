@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-130[KDV.2020.156]-E.163658",
+  "source_id": 30284,
+  "date": "2020-10-30",
+  "title": "Katma Değer Vergisi Kanunu Uygulamaları hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30284",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "507d13004df24170b0032bb48f1946a9b6e0be5bfb7a91d0c60ba863a3e4be30",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
