@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34969",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN BİTKİSİ TOHUMLUKLARI PİYASASINDA YETKİLENDİRME, DENETLEME VE ORMAN BİTKİ PASAPORTU YÖNETMELİĞİ",
+  "number": "34969",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2020/34969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34969&MevzuatTertip=5",
+  "source_sha256": "1ab7b3e0e19f9aa5eb387e0a290ec82ae1b1b717093a7c00a4c5a1578d7ac5ff",
+  "source_bytes": 95087,
+  "published": "2020-10-31",
+  "gazette": "31290",
+  "in_force": "2020-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5148,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34969-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
