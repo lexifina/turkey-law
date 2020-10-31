@@ -1,0 +1,29 @@
+{
+  "number": "174",
+  "number_as_published": "2020/174",
+  "year": 2020,
+  "month": 10,
+  "title": "5393 sayılı Belediye Kanununun 41. Maddesinde “Belediye Başkanı, mahallî idareler genel seçimlerinden itibaren altı ay içinde; kalkınma plânı ve programı ile varsa bölge plânına uygun olarak stratejik plân ve ilgili olduğu yılbaşından önce de yıllık performans programı hazırlayıp belediye meclisine sunar. Stratejik plân, varsa üniversiteler ve meslek odaları ile konuyla ilgili sivil toplum örgütlerinin görüşleri alınarak hazırlanır ve belediye meclisi tarafından kabul edildikten sonra yürürlüğe girer. Nüfusu 50.000'in altında olan belediyelerde stratejik plân yapılması zorunlu değildir. Stratejik plân ve performans programı bütçenin hazırlanmasına esas teşkil eder ve belediye meclisinde bütçeden önce görüşülerek kabul edilir.” Hükmüne istinaden yıllık Performans Programı hazırlanarak ekte sunulmuştur. Haliliye İlçe Belediyemizin 2021 Yılı Performans Programı oy birliği ile kabul edilip karara bağlandı.",
+  "decision_date": null,
+  "index_date": "2020-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2020",
+  "source": "https://www.haliliye.bel.tr/icerik/5670/39/ekim-2020",
+  "official_page": "https://www.haliliye.bel.tr/icerik/5670/39/ekim-2020",
+  "official_document": null,
+  "source_sha256": "3eea8dddac23f815d7bace67e1cd11fa74791e13d45db6a108dc424ed247ec3b",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2020-10-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ekim 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "EKİM 2020",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
