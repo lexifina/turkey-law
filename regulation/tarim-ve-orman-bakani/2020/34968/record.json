@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.34968",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK GIDA KODEKSİ HAZIRLAMA YÖNETMELİĞİ",
+  "number": "34968",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2020/34968",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34968&MevzuatTertip=5",
+  "source_sha256": "ddcbc81fe7e21478045c9504c78d56df78ed263d3e610269ad6ffbe1c9a122d9",
+  "source_bytes": 26828,
+  "published": "2020-10-31",
+  "gazette": "31290",
+  "in_force": "2020-10-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.10.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1044,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
