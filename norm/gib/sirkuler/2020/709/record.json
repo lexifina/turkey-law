@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-132 / 2020-11",
+  "source_id": 709,
+  "date": "2020-11-01",
+  "title": "İzmir’de meydana gelen deprem nedeniyle, 2 Kasım 2020 (31 Ekim 2020 tarihinin hafta sonu tatiline rastlaması nedeniyle) günü sonuna kadar verilmesi gereken 2020/Eylül dönemine ilişkin “Form Ba-Bs” bildirimlerinin verilme ve mezkûr tarihe kadar oluşturulma",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/709",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "621fea4527c673afa10839ec82e8d5b8d91f13a1a619fed312da2638b2158dbe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
