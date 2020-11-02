@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-130[29-2016-61]-42479",
+  "source_id": 22380,
+  "date": "2020-11-02",
+  "title": "Adi Ortaklık Kurulmadan Önce Ortaklar Adına Kesilen Faturaların Adi Ortaklıkta Kullanımı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/22380",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3907b3155cb94fb24fdcbe95c42b85ce448262ecc726057ba9f0ca246e411094",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
