@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "21152195-130[99-2019.2252]-E.322301",
+  "source_id": 31533,
+  "date": "2020-11-02",
+  "title": "Antrepodaki ürünler için ambalaj malzemesi, malzemenin nakliye gideri ve antrepoya ödenen bedelin indirim ve iadesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31533",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "4ce918eaa5f79a33c06f50dcce52f3dafcba264d67d53de41eda3a587de2104f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
