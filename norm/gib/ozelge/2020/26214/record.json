@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "95462982-105[VUK.ÖZLG-20-42]-E.165721",
+  "source_id": 26214,
+  "date": "2020-11-02",
+  "title": "Özel okullarda, bedeli peşin alınan ancak Covid-19 salgını nedeniyle eğitim verilemeyen dönemler için fatura düzenlenip düzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26214",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "efcf96380e42ace56aad05becccaa24c951d2d1a3d18dff7bab76baa87cb0548",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
