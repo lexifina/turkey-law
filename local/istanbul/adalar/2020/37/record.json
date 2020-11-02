@@ -1,0 +1,24 @@
+{
+  "number": "37",
+  "number_as_published": "37",
+  "year": 2020,
+  "title": "Kültür ve Sosyal İşler Müdürlüğünün Kapatılması",
+  "decision_date": "2020-11-02",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2020-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/",
+  "official_document": null,
+  "source_sha256": "415b9293edfa41a518ca9bbb6aa5f76f88bd9671b057d2d645d6e06bd977852a",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2020-11-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.11.2020 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2020/37",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2020-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/"
+}
