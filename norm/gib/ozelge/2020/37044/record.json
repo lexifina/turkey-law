@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-175.01[2019/EVK-ÖZE-02]-59533",
+  "source_id": 37044,
+  "date": "2020-11-02",
+  "title": "Yapı Kayıt Belgesine Sahip Mükelleflerin İndirimli Emlak Vergisi Uygulaması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37044",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7824ad69389dd51b5a852a2f664f04877c25542fc34fcabf3f5b4be0d4a382e1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
