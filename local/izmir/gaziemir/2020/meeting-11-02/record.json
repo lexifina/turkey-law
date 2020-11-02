@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-02",
+  "number_as_published": "meeting-11-02",
+  "year": 2020,
+  "title": "02.11.2020 KARAR ÖZETİ",
+  "decision_date": "2020-11-02",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=32",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/b7cad9e584aa63cd7dafba68a37381ceb7cad9e584aa63cd7dafba68a37381ce.doc",
+  "source_sha256": "58d0e05d6784f16ea6f54305f350e3c464def5f45f43cc1b6068614a60dd0aea",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.11.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.11.2020 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "09.11.2020"
+}
