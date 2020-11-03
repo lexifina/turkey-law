@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2020/YK-YED/302",
+  "date": "2020-11-03",
+  "title": "Hisse Devri İzin Talebi (Superwi - Orka)",
+  "relevant_unit": "Yetkilendirme Dairesi Başkanlığı",
+  "publication_date": "2020-11-03",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=37",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/5127ce86-80e5-4842-82f7-95d12b3e22fa.pdf",
+  "source_sha256": "008fd5afc1cb37ec66e9df88eb06c485d17423c077c33c769961555d4f907a1c",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2020-11-03",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 03.11.2020; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
