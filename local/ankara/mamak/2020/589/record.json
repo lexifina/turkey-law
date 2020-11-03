@@ -1,0 +1,23 @@
+{
+  "number": "589",
+  "number_as_published": "589",
+  "year": 2020,
+  "title": "Belediyemizce 2020 yılının ilk 9 aylık diliminde ne kadar vergi tahsil edildiğine ilişkin Meclis Kararı",
+  "decision_date": "2020-11-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=78794c34-be2c-48c3-b958-9c1928c193cf",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2020-11-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
