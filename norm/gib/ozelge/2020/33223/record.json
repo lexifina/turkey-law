@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[227-2017-366]-288397",
+  "source_id": 33223,
+  "date": "2020-11-03",
+  "title": "Harcırah ödemelerindeki konaklama ve yol giderlerine ilişkin KDV tutarlarının indirim konusu yapılması ve belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/33223",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "a943247bf1ccbdeefa1e8906f60281b2a83f246068ef8c5ae8927e993e19f071",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
