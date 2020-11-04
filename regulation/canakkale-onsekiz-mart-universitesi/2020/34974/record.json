@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-11-04",
+      "04.11.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31294",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-11-04",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2020/34974",
+  "published": "2020-11-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34974&MevzuatTertip=5",
+  "source_bytes": 30530,
+  "source_id": "8.5.34974",
+  "source_sha256": "3032e453bc527e4551b05d46a57ad834936878576e9001d43d1f475c6d35b988",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ GELENEKSEL TÜRK \r\nSPORLARI VE OYUNLARI UYGULAMA VE ARAŞTIRMA \r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 1240
+}
