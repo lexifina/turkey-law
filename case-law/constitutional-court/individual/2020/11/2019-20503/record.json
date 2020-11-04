@@ -1,0 +1,20 @@
+{
+  "applicant": "A.N.Ş.",
+  "application_date": "2019-06-12",
+  "application_number": "2019/20503",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2020-11-04",
+  "id": "2a728830-5a7a-e0f5-07bd-202fa5bba88b",
+  "in_force": "2020-11-04",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjJhNzI4ODMwLTVhN2EtZTBmNS0wN2JkLTIwMmZhNWJiYTg4Yg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "22fffde0d0696c78c595bff8f465ac093a76d1e956f69bc29773b05b258ca32a",
+  "version_label": "as-enacted"
+}
