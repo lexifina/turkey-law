@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-19-143]-167954",
+  "source_id": 21287,
+  "date": "2020-11-04",
+  "title": "Avukat babası ile aynı işyerinin farklı odalarında çalışan avukatın, genç girişimcilerde kazanç istisnasını ihlal edip etmediği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21287",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "7a066baf2dc5e56a97aabcda6af6848076db6e856e46a55d8cdd79ec3e445e7d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
