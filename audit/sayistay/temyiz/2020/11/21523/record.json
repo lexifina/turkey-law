@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48465",
+  "decision_date": "2020-11-04",
+  "source_id": 21523,
+  "chamber": "5",
+  "file_number": "41499",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21523/",
+  "source_sha256": "f7902c1ede1320b899bd452ecf7b371ae9025aaa79c330d3ba25ed6b8cdb5953",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
