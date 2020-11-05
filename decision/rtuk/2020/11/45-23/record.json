@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2020/45",
+  "meeting_date": "2020-11-05",
+  "meeting_date_as_published": "5.11.2020",
+  "decision_no": "23",
+  "source_id": 14819,
+  "title": "RTÜK kararı 2020/45-23",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/14819",
+  "source_sha256": "4ebcda2ee8e67617f4aea9b8c906c702168369bc4a23becf7022306a86debaa8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
