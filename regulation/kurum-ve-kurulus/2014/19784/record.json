@@ -1,0 +1,39 @@
+{
+  "source_id": "7.5.19784",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TANITMA VE KULLANMA KILAVUZU YÖNETMELİĞİ",
+  "number": "19784",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/19784",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19784&MevzuatTertip=5",
+  "source_sha256": "78def1dc139e59a7aa76a44e4c36101bdf73d7e37cf94a6f34feb491e90d8b24",
+  "source_bytes": 28340,
+  "published": "2014-06-13",
+  "gazette": "29029",
+  "in_force": "2020-11-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-05",
+      "RG-5/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-05",
+      "5/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1243,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
