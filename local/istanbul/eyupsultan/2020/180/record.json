@@ -1,0 +1,22 @@
+{
+  "number": "180",
+  "number_as_published": "2020/180",
+  "year": 2020,
+  "title": "Taşınmaz satışı",
+  "decision_date": "2020-11-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-kasim-ayi-meclis-kararlari/1836",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-180/1839",
+  "source_sha256": "4ef3d10abf79ce7ae5a2747200e932d9a7234b704770412413a321ae61a004f2",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.11.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "29aebf524e63974af267bd3a0c634a68a1e3c4b7618ba801f443f31f6dafcbc0"
+}
