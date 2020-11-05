@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10794",
+  "decision_date": "2020-11-05",
+  "source_id": 32817,
+  "chamber": "1",
+  "ilam_number": "169",
+  "item_number": 17,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32817/",
+  "source_sha256": "953dc0e7c00dc3ece6ab9d06506faa8970742f31978461f52d528f6ba78c839a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
