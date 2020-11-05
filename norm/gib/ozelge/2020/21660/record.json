@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.03.06.01[32-2020/2]-48523",
+  "source_id": 21660,
+  "date": "2020-11-05",
+  "title": "Engellilik indirimi alan çalışanın ilave asgari geçim indiriminden faydalanması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21660",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0dc24619424f28dc8834df396f822847dcafd7ef8b305a941fce197255840280",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
