@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Azami tamir süresi: Bu Yönetmeliğe ekli listede yer alan her mal grubu için tespit edilen süreleri,
+b) Bakanlık: (Değişik ibare:RG-12/2/2020-31037)(1) Ticaret Bakanlığını,
+c) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü,
+ç) İl Müdürlüğü: Bakanlık ticaret il müdürlüklerini,
+d) (Değişik:RG-5/11/2020-31295)(2) İş günü: Ulusal, resmî ve dini bayram günleri ile yılbaşı, 1 Mayıs, 15 Temmuz ve pazar günleri dışındaki çalışma günlerini,
+e) İthalatçı: Kamu tüzel kişileri de dâhil olmak üzere, bu Yönetmeliğe ekli listedeki malları ticari veya mesleki amaçlarla ithal ederek satım, kira, finansal kiralama veya benzeri bir yolla piyasaya süren gerçek veya tüzel kişiyi,
+f) Kanun: Tüketicinin Korunması Hakkında Kanunu,
+g) Kullanım ömrü: Malın, tüketiciye teslim tarihinden başlayan ve bu Yönetmeliğe ekli listede yer alan her mal grubu için tespit edilen süreleri,
+ğ) Mal: Alışverişe konu olan taşınır eşyalardan, Bakanlıkça tespit ve ilan edilen, satış sonrası hizmet istenecek ürünler listesinde yer alan malı,
+h) Özel servis: Herhangi bir üretici veya ithalatçıya bağlı olmaksızın faaliyette bulunan servis istasyonlarını,
+ı) Satıcı: Kamu tüzel kişileri de dâhil olmak üzere ticari veya mesleki amaçlarla tüketiciye mal sunan ya da mal sunanın adına ya da hesabına hareket eden gerçek veya tüzel kişiyi,
+i) Satış sonrası hizmet yeterlilik belgesi: Yurt içinde üretilen veya ithal edilen mallar ile ilgili olarak, Bakanlıkça tespit ve ilan edilen kullanım ömrü süresince üretici veya ithalatçılar tarafından verilmesi zorunlu montaj, bakım ve onarım hizmetleri için, yeterli teknik kadro, takım, teçhizat bulunduğunu gösteren ve firmanın unvanı ile merkez adresine göre düzenlenen belgeyi,
+j) Servis istasyonu: Yetkili servis istasyonları ile özel servisleri,
+k) Tüketici: Ticari veya mesleki olmayan amaçlarla hareket eden gerçek veya tüzel kişiyi,
+l) Üretici: Kamu tüzel kişileri de dâhil olmak üzere, bu Yönetmeliğe ekli listedeki malları üretenler ile mal üzerine markasını, unvanını veya herhangi bir ayırt edici işaretini koyarak kendisini üretici olarak gösteren gerçek veya tüzel kişiyi,
+m) Yetkili servis istasyonu: Üretici veya ithalatçıların ürettikleri veya ithal ettikleri mallar için; kullanım ömürleri süresince satış sonrası montaj, bakım ve onarım hizmetlerini yürütmek üzere, kendileri tarafından veya aralarındaki sözleşme uyarınca, bu amaçla yetki verilen gerçek veya tüzel kişiler tarafından kurulan ya da kurulmuş bulunan tesisleri,
+n) (Ek:RG-5/11/2020-31295)(2) Kalıcı veri saklayıcısı: Tüketicinin kendisine gönderilen bilgiyi, bu bilginin amacına uygun olarak makul bir süre incelemesine elverecek şekilde kaydedilmesini ve değiştirilmeden kopyalanmasını sağlayan ve bu bilgiye aynen ulaşılmasına imkân veren kısa mesaj, elektronik posta, internet, disk, CD, DVD, hafıza kartı ve benzeri her türlü araç veya ortamı,
+ifade eder.
