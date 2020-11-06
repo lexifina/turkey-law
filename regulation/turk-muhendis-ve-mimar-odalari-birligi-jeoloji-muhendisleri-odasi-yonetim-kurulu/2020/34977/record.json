@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.34977",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TMMOB JEOLOJİ MÜHENDİSLERİ ODASI ALTIN ÇEKİÇ JEOLOJİ BİLİM, ARAŞTIRMA/MAKALE VE HİZMET ÖDÜLLERİ YÖNETMELİĞİ",
+  "number": "34977",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Jeoloji Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-jeoloji-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-jeoloji-muhendisleri-odasi-yonetim-kurulu/2020/34977",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34977&MevzuatTertip=5",
+  "source_sha256": "314a63d117416cb4c9b7ad10a234f7ef9ef8a344bece98b08402f3b5c8cc1964",
+  "source_bytes": 33049,
+  "published": "2020-11-06",
+  "gazette": "31296",
+  "in_force": "2020-11-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.11.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1403,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34977-%20EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
