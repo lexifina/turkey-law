@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-06",
+  "number_as_published": "meeting-11-06",
+  "year": 2020,
+  "title": "06/11/2020 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2020-11-06",
+  "source": "https://www.emet.bel.tr/karar/06112020-meclis-toplantisi-ve-kararlar/32/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/zet.doc",
+  "source_sha256": "da5de7a4bea407bf2e16c315a51f3f497e1746938f0bdb8cda1d0462d008bcb0",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06/11/2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06/11/2020 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/06112020-meclis-toplantisi-ve-kararlar/32/"
+}
