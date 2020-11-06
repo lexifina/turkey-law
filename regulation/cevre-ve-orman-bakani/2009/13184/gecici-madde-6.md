@@ -1,0 +1,3 @@
+Mevcut büyük yakma tesisleri için istisnai durumlar
+GEÇİCİ MADDE 6 – (Ek:RG-20/12/2014-29211)
+(1) 1/6/1987 tarihinden önce, faaliyet öncesi veya faaliyet sonrası için herhangi bir izin almış ve tesisin 31/7/2011 tarihinden 31/12/2019 tarihine kadar 20.000 saatten fazla çalıştırılmayacağını, 8/6/2011 tarihine kadar yazılı olarak taahhüt etmiş işletmeler; her yıl 31 Ocak gününe kadar Çevre ve Şehircilik İl Müdürlüğüne, tesisin kalan işletme ömrü için izin verilen, çalıştıkları ve çalışmaları için kalan süreyi belirten kaydı sunmaları koşulları ile Ek-5.A.1.4’te belirtilmiş olan emisyon sınır değerlerine uymaktan 31/12/2019 tarihine kadar muaftırlar.

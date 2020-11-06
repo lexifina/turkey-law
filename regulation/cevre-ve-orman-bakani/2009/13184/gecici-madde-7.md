@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 7 – (Ek:RG-20/12/2014-29211)
+(1) 1987 tarihinden önce kurulmuş olan yatay üretim prosesi bacası olan tesislerde 1/3/2015 tarihine kadar dikey bacaya geçişe dair iş termin planının (atık gaz dağılım modelini ve baca gazı ölçümünün yapılabilmesi için gerekli izokinetik şartların sağlanacağına dair bilgileri de kapsayan) Bakanlığa sunulması koşulu ile 1/1/2016 tarihine kadar bacaların dikey hale getirilmesi zorunludur. Bu süre içinde atık gazların atmosfere dikey çıkışla verilmesine ilişkin şart aranmaz.

@@ -1,0 +1,6 @@
+Ek düzenlemelerin uygulanması
+MADDE 15 – (1) Ek düzenlemelerin uygulanmasında;
+a) Bu Yönetmeliğin esaslarını yerine getirmek amacı ile (Değişik ibare:RG-30/3/2010-27537) (1) uygunluk kararı vermeye yetkili merci (Değişik ibare:RG-30/3/2010-27537) uygunluk kararı verildikten sonra gerektiğinde ek düzenlemeler isteyebilir. Bu ek düzenlemede Ek-9 daki esaslar dikkate alınır.
+b) Yapılacak ek düzenleme, işletici ve işletilen tesis için aşırı ekonomik yük getiriyorsa ve teknolojik seviye bakımından uygulanabilir değilse bu konuda bir mecburiyet getirilemez. Ek düzenleme teknolojik olarak uygulanabilir olmakla beraber ancak belli bir süre sonra ekonomik hale gelecekse yetkili merci ek düzenlemenin bu süreden sonra uygulanmasını kabul edebilir. Bir ek düzenleme teknolojik olarak uygulanabildiği halde, ekonomik sebeplerle tesisi işleten tarafından uygulanamazsa (Değişik ibare:RG-30/3/2010-27537) (1) uygunluk kararı 17 nci madde hükümlerine göre iptal edilir.
+c) Ek düzenleme tesisin yeri, yapısı ve işletmesi üzerinde önemli değişiklikler gerektiriyorsa, yapılacak değişiklikler 13 üncü maddede öngörülen hükümlere tabidir.
+ç) Ek düzenlemeler, Geçici 2 ve Geçici 3 üncü maddelerde yer alan tesislere de getirilebilir.

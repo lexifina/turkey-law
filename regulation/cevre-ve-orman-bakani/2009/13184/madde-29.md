@@ -1,0 +1,3 @@
+Toplam hava emisyonu sınırlaması
+MADDE 29 – (Değişik:RG-20/12/2014-29211)
+(1) Yetkili merci, sanayi tesislerinin yoğun olarak bulunduğu, toplam emisyon sınırlaması yapılacak kritik bölgelerde faaliyet gösteren işletmelerin tümünden herhangi bir anda dış havaya verilen toplam emisyonu sınırlandırıcı tedbirler isteyebilir. Toplam emisyon sınırlaması yapılacak kritik bölgeler yetkili merci tarafından belirlenir. Yetkili merci, bu bölgelere kurulacak çevre iznine tabi olan veya olmayan yeni bir tesisin toplam emisyon miktarıyla ilgili olarak geçici veya sürekli sınırlandırma kararları alabilir veya yeni bir tesisin bölge içinde kurulmasına Planlama ve ÇED aşamalarında yapılan değerlendirmelerde dikkate alınarak uygunluk kararı vermeyebilir.

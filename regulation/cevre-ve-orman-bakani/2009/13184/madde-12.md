@@ -1,0 +1,2 @@
+Kirlilikten kaynaklanan zararlar
+MADDE 12 – (1) Bir işletmeden/tesisten kaynaklanan emisyonların etkilerinin komşu bir taşınmaza zarar vermesini önlemek amacıyla zararlı etkinin ortadan kaldırılması için gerekli tedbirlerin alınması faaliyet sahibinden yetkili merci tarafından istenir. Daha önce verilen ve kesinleşen bir izin bu Yönetmelik hükümlerine aykırılığın tespit edilmesi durumunda kaldırılır.

@@ -1,0 +1,2 @@
+Kaza sonucu emisyon
+MADDE 32 – (1) Bir tesisten ihmal sonucu veya ihmale dayalı gereken tedbirlerin alınmaması sonucu normal çalışmasında öngörülenden fazla ve hava kirliliğine yol açacak şekilde emisyon yayılırsa veya hava kalitesini bozacak şekilde kimyasal maddeler hava alıcı ortamına atılırsa, işletme sahibi/işletmeci, emisyonun en kısa sürede normal seviyeye inmesi için gerekeni yapar. Yetkili merci, kaza sonucu çıkan emisyonun normal seviyeye indirilmesi için işletme sahibine veya işletmecisine gerekli tedbirleri almasını ister.
