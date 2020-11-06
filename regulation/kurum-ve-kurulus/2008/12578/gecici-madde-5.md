@@ -1,0 +1,2 @@
+Bağlanacak aylıkların hesaplanması
+GEÇİCİ MADDE 5 – (1) Yurtdışında sigortalılık veya ev kadını olarak geçen sürelerini borçlandıktan sonra 8/5/2008 tarihinden 2008 yılı Ekim ayı başına kadar tahsis talebinde bulunan sigortalılar ve bu tarihler arasında ölen sigortalıların hak sahiplerine bağlanacak aylıkların hesaplanmasında 5510 sayılı Kanunla mülga ilgili sosyal güvenlik kanunları hükümleri uygulanır.

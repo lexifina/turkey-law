@@ -1,0 +1,3 @@
+506 sayılı Kanunun geçici 20 nci maddesine tabi sandıklar
+GEÇİCİ MADDE 4 – (1) (Değişik:RG-6/11/2020-31296) (4) 8/5/2008 tarihi ile 506 sayılı Kanunun geçici 20 nci maddesine tabi sandıkların 5510 sayılı Kanunun geçici 20 nci maddesine göre devredileceği tarih arasında geçerli olmak üzere, Yönetmeliğin 13 üncü ve 14 üncü maddelerinde geçen “Kurum” ibaresi, 506 sayılı Kanunun geçici 20 nci maddesine tabi sandıkları da kapsar.
+(2) Yönetmelik gereğince örnekleri Kurumca hazırlanan belgeler, gerekli düzeltmeler yapılmak kaydıyla birinci fıkrada belirtilen devir tarihine kadar 506 sayılı Kanunun geçici 20 nci maddesine tabi sandıklarca da kullanılır.

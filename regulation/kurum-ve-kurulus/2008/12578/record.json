@@ -1,0 +1,37 @@
+{
+  "source_id": "7.5.12578",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURTDIŞINDA GEÇEN SÜRELERİN BORÇLANDIRILMASI VE DEĞERLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "12578",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2008/12578",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12578&MevzuatTertip=5",
+  "source_sha256": "836e4b13600fc8d881449d72e9eebc89d7290ccbff99c5e906d7e30006cbf41c",
+  "source_bytes": 80373,
+  "published": "2008-11-06",
+  "gazette": "27046",
+  "in_force": "2020-11-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-06",
+      "RG-6/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3731,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

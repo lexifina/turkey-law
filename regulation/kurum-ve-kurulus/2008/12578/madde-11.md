@@ -1,0 +1,5 @@
+Borçlanmadan vazgeçme ve borçlanma miktarının iadesi
+MADDE 11 – (1) Borçlanma başvurusunda bulunup borcu tebliğ edilmeden ya da tebliğ edildikten sonra üç aylık süre içinde borçlanma başvurusundan vazgeçtiklerini yazılı olarak (Değişik ibare:RG-6/11/2020-31296) (4) Kuruma bildirenlerin borçlanma başvuruları geçersiz sayılır.
+(2) Tahakkuk ettirilen borcun tamamını veya bir kısmını ödeyenlerden borçlanmalarının iptal edilmesi için başvuruda bulunanların ödedikleri borçlanma tutarının tamamı, faiz uygulanmaksızın (Mülga ibare:RG-6/11/2020-31296) (…) Türk Lirası olarak iade edilir. Kısmi iade yapılmaz.
+(3) Borçlandıkları hizmetleri ile malullük ve yaşlılık aylığı bağlanmasına hak kazanamayan sigortalılar ile ölüm aylığı bağlanamayan hak sahiplerine başvuruları halinde ödenen borçlanma tutarının tamamı faiz uygulanmaksızın (Mülga ibare:RG-6/11/2020-31296) (…) Türk Lirası olarak iade edilir.
+(4) Borçlandıkları hizmetler dikkate alınarak aylık bağlanmış olanlar, borçlanma başvurusundan vazgeçemezler ve bunların ödedikleri borçlanma tutarı iade edilmez.

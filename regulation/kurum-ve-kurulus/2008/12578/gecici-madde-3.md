@@ -1,0 +1,4 @@
+Önceki borçlanma sürelerinin değerlendirilmesi
+GEÇİCİ MADDE 3 – (1) 2008 yılı Ekim ayı başından önceki sürelerin borçlanılması halinde, 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının;
+a) (a) bendi kapsamında bulunan sigortalılar için borçlanılan sürelere ilişkin prime esas kazançlar, Kanunun 5 inci maddesine göre belirlenen sigortalılık süresinin başlangıç tarihi dikkate alınmaksızın 5510 sayılı Kanunun 41 inci maddesine göre borçlanmaya esas sürenin ilgili aylarına mal edilir.
+b) (b) bendi kapsamında bulunan sigortalılar için borçlanılan süreler, 2/9/1971 tarihli ve 1479 Esnaf ve Sanatkarlar ve Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu Kanunu veya 17/10/1983 tarihli ve 2926 sayılı Tarımda Kendi Adına ve Hesabına Çalışanlar Sosyal Sigortalar Kanununun mülga hükümlerine göre tabi oldukları son basamak üzerinden talebe bakılmaksızın basamak intibakında değerlendirilir.
