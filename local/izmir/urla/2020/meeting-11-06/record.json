@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-06",
+  "number_as_published": "meeting-11-06",
+  "year": 2020,
+  "title": "6 KASIM 2020 MECLİS KARARLARI 6 KASIM 2020 MECLİS KARARLARI",
+  "decision_date": "2020-11-06",
+  "source": "https://www.urla.bel.tr/ListeSayfa/2489/kasim-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/2492/6-kasim-2020-meclis-kararlari",
+  "source_sha256": "77926ed9c0fc1af07d5ece97ad419a41c6c9f928821dd5d98eea7d79d3d15817",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 6 KASIM 2020 MECLİS KARARLARI 6 KASIM 2020 MECLİS KARARLARI (year 2020 from the official year list '2020 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "KASIM AYI MECLİS KARARLARI",
+  "official_page": "https://www.urla.bel.tr/Sayfa/2492/6-kasim-2020-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
