@@ -1,0 +1,7 @@
+Görevlendirme esasları
+MADDE 6 – (1) Soruşturma evresinde görev yapan müdafi veya vekil, engel bulunmadığı takdirde kovuşturma evresinde de öncelikle görevlendirilir.
+(2) Soruşturma veya kovuşturma makamlarınca aralarında menfaat çatışması bulunduğu bildirilmediği takdirde birden fazla şüpheli, sanık, mağdur, şikâyetçi, suçtan zarar gören veya katılan için aynı müdafi veya vekil görevlendirilebilir.
+(3) Baro tarafından müdafi veya vekil olarak atanan avukat, haklı mazereti hâlinde görevlendirilmesine ilişkin yazıya dayanarak başka bir avukata yetki verebilir.
+(4) Müdafi veya vekilin mesleği bırakması ya da kanunî engellerle davadan çekilmesi hâlinde, baro tarafından yeni bir müdafi veya vekil görevlendirilir.
+(5) (Değişik:RG-7/11/2020-31297) Dosyada görevli müdafi veya vekilin, istinaf veya temyiz kanun yolu muhakemesinde yapılacak duruşmaya katılmayacağını bildirmesi durumunda, zorunlu müdafi veya vekil gerektiren hâllerde görevlendirme, kanun yolu incelemesini yapacak mahkeme tarafından (Danıştay Sekizinci Dairesinin 24/12/2025 tarihli ve E.:2025/1380 K.:2025/10316 sayılı kararı ile iptal ibare: birden fazla baronun bulunduğu illerde bürodan, diğer yerlerde doğrudan) o yer barosundan istenir.
+(6) Müdafi veya vekil, soruşturma evresinde ya da duruşmada hazır bulunmaz veya vakitsiz olarak duruşmadan çekilir veya görevini yerine getirmekten kaçınırsa, Cumhuriyet savcısı, hâkim veya mahkeme derhal başka bir müdafi veya vekil görevlendirilmesi için gerekli işlemi yapar.
