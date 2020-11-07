@@ -1,0 +1,15 @@
+{
+  "kind": "regulation",
+  "issuer": "Türkiye Barolar Birliği",
+  "title": "CEZA MUHAKEMESİ KANUNU GEREĞİNCE MÜDAFİ VE VEKİLLERİN GÖREVLENDİRİLMELERİ İLE YAPILACAK ÖDEMELERİN USUL VE ESASLARINA İLİŞKİN YÖNETMELİK",
+  "date": "2020-11-07",
+  "date_source": "official-amendment-annotation",
+  "in_force_basis": "Latest amendment annotation printed in the official TBB PDF: RG-7/11/2020-31297.",
+  "commit_kind": "consolidated",
+  "source": "http://d.barobirlik.org.tr/mevzuat/avukata_ozel/yonetmelikler/2012/cmkyonetmeligi.pdf",
+  "source_sha256": "116f278de4ffaa289a8adeadf1205fc1ebf630e2754ef57dcf9dd8b49adf5e1a",
+  "text_status": "current-text",
+  "version_label": "oldest version available",
+  "text_file": "text.txt",
+  "personal_data": "general professional rule; no case-party publication in this record"
+}
