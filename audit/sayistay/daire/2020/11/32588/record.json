@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "410",
+  "decision_date": "2020-11-09",
+  "source_id": 32588,
+  "chamber": "7",
+  "ilam_number": "170",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32588/",
+  "source_sha256": "bc874415d6922c76e47c3eb5677b03a3a0011dd575c42713e20192a403611777",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
