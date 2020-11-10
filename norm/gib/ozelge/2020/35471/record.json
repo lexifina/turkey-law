@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-140.08[108-2019-11]-330602",
+  "source_id": 35471,
+  "date": "2020-11-10",
+  "title": "Emniyet hizmetlerinden hizmet süresi doldurarak ayrılan personelin silah ruhsat harcı muafiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35471",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "1258435bd3d652ca30c66ffd5d52e53458f800c4d6aed0ad7ca7148d3b16352d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
