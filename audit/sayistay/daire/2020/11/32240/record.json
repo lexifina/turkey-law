@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "187",
+  "decision_date": "2020-11-10",
+  "source_id": 32240,
+  "chamber": "8",
+  "ilam_number": "373",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2015,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32240/",
+  "source_sha256": "62434adf8140b30b31ad705cc05ef5c2a5ae5c90591150b01f8ad0011327a462",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
