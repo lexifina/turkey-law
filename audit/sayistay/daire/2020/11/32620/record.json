@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "438",
+  "decision_date": "2020-11-10",
+  "source_id": 32620,
+  "chamber": "5",
+  "ilam_number": "16",
+  "item_number": 5,
+  "account_year": 2019,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32620/",
+  "source_sha256": "274daf5cb374b85b8ebcb5eb2f0f46f40a6d3b8762032c82a8c9df1107cab0fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
