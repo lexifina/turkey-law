@@ -1,0 +1,5 @@
+Başarı listesinin hazırlanması ve duyurulması
+MADDE 14 – (Değişik:RG-27/11/2013-28834)
+(1) (Değişik:RG-26/5/2017-30077) Görevde yükselme ve unvan değişikliği suretiyle yapılacak atamalarda başarı puanı esas alınır. Başarı puanı, yazılı ve sözlü veya uygulama sınav puanlarının aritmetik ortalaması esas alınmak suretiyle tespit edilir. Unvanlar itibarıyla en yüksek puan alan adaydan başlamak üzere başarı listesi oluşturulur.
+(2) Sınav Kurulu, sınav duyurusunda ilan edilen kadro sayısını geçmeyecek sayıda asil aday belirler. Ayrıca, asil aday (Değişik ibare:RG-26/5/2017-30077) sayısını geçmeyecek sayıda yedek aday belirlenebilir. Başarı listesinin oluşturulmasında esas alınan puanların eşit olması hâlinde sırasıyla; daha üst öğrenimi bitirmiş olanlara, hizmet süresi fazla olanlara, üst öğrenim mezuniyet notu yüksek olanlara öncelik verilir.
+(3) Başarı listesi uygulama ve sözlü sınavların yapıldığı tarihten itibaren on iş günü içinde İKB tarafından Kurumun hizmet binalarında ve yerel ağda personele duyurulur.

@@ -1,0 +1,15 @@
+Uygulama sınavı ve sözlü sınav
+MADDE 13 – (1) Görevde yükselme ve unvan değişikliği yazılı sınav sonuçları, uygulama sınavına veya sözlü sınava katılmaya hak kazananların listesi ile sınavların yapılacağı yer, uygulama sınavı veya sözlü sınav tarihinden en az on beş iş günü önce Kurumun hizmet binalarında ve yerel ağda duyurulur. (Mülga cümle:RG-27/11/2013-28834) (…)
+(2) Yazılı sınavlarda başarılı olanlardan; alt yazıcı, aşçı, berber, bilgisayar teknisyeni, ciltçi, çay ocakçı ve garson, elektronik dizgi operatörü, fotoğrafçı, garson, görsel tasarımcı, kameraman, montajcı, muhabir, musahhih, ofsetçi, oto tamir ustası, pastacı, programcı, rehber, resim kayıt elemanı, resim seçici, (Mülga ibare:RG-10/11/2020-31300)(…) sesçi, sistem analisti, spiker, şoför, tekniker, teknik ressam, teknisyen, tercüman, usta, ustabaşı, yangın söndürme eri ve yönetmen unvanlı kadrolara başvuranların görevin gereğini yerine getirmedeki yeterliklerinin ölçülmesi amacıyla uygulama sınavı, 5 inci maddede yer alan ve yukarıda sayılanlar dışında kalan kadro unvanlarına başvuranlara sözlü sınav yapılır.
+(3) Uygulama sınavlarını yapmak üzere (Ek ibare:RG-27/6/2014-29043) Genel Sekreter veya Genel Sekreter yardımcılarının başkanlığında, bir başkan, dört asil ve üç yedek üyeden oluşan komisyonlar kurulur. Komisyon üyeleri ilgili birim yöneticileri ile kadronun görev alanıyla ilgili, Kurumun ve ihtiyaç duyulması halinde diğer kamu kurumlarının ihtisas sahibi personeli arasından TBMM Başkanının onayı ile belirlenir. Komisyonlar çalışma usul ve esasları bakımından 9 uncu madde hükümlerine tabidir.
+(4) Uygulama sınavı adaylara, görevin gereğini yerine getirmedeki yeterlikleri yönünden %50, beşinci fıkranın (c), (ç), (d), (e) ve (f) bentleri için %10 oranında ayrı ayrı puan verilmesi suretiyle yapılır. Görevin gereğini yerine getirmedeki yeterliklerin tespitine ilişkin değerlendirme kriterleri sınavdan önce belirlenerek adaylara duyurulur. Komisyon başkanı ve üyelerince her aday için ayrı ayrı verilen notların aritmetik ortalaması alınarak adayların uygulama sınavı puanı tespit edilir.
+(5) Sözlü sınav, başvuranlara;
+a) (Değişik:RG-27/11/2013-28834) Yazılı sınav konularına ilişkin bilgi düzeyi,
+b) Görevin gereğini yerine getirmeye ilişkin iş bilgisi,
+c) Genel yetenek ve genel kültürü,
+ç) Muhakeme gücü ve ifade yeteneği,
+d) Liyakati, davranış ve tepkilerinin atanmak istediği kadroya uygunluğu,
+e) Özgüveni ve ikna kabiliyeti,
+f) Yeniliklere uyumu ve gelişime açık olması,
+yönlerinden (a) bendi için %30, (b) bendi için %20, diğer bentler için ise %10 oranında ayrı ayrı puan verilmesi suretiyle gerçekleştirilir. (a), (b) ve (c) bentlerine ilişkin sorular ve cevapları sınav öncesinde hazırlanır. Sınav Kurulu başkanı ve üyelerince her aday için ayrı ayrı not verilir. Bu notların aritmetik ortalaması alınarak adayın sözlü sınav puanı belirlenir.
+(6) Sözlü sınavda (Değişik ibare:RG-27/11/2013-28834) veya uygulama sınavında başarılı sayılabilmek için yüz puan üzerinden en az yetmiş puan almak şarttır.

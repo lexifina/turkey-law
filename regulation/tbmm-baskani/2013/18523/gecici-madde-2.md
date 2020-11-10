@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğe göre yapılacak ilk görevde yükselme ve unvan değişikliği sınavında, norm kadroda atanacaklarda aranacak şartlar arasında yer alan gerekli yabancı dil ve düzeyi ile gerekli mesleki eğitim, sertifika veya diğer eğitimlerden sınav duyurusunda belirtilenler aranır.
+(2) (Ek:RG-27/6/2014-29043) Aşçıbaşı ve şef garson kadroları için yapılacak ilk görevde yükselme sınavında norm kadroda atanacaklarda aranacak şartlar arasında yer alan gerekli öğrenim düzeyi bir alt öğrenim düzeyi olarak uygulanabilir.
