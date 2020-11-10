@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "242",
+  "decision_date": "2020-11-10",
+  "source_id": 32321,
+  "chamber": "4",
+  "ilam_number": "267",
+  "item_number": 10,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32321/",
+  "source_sha256": "8ca5beecc59a1c02ef54543165f5da581c08b2df62924c3db4537f7ce85cf75b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
