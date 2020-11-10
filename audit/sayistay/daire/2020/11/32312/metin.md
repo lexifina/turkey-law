@@ -1,0 +1,27 @@
+KDV – FAİZ
+
+…………. A.Ş. yükleniminde bulunan ve 3065 sayılı Katma Değer Vergisi Kanununun 13/e maddesi uyarınca istisna kapsamında bulunan “…………. İnşaatı İşi”ne ait kesin hakediş kontrolü sırasında işin ara hakedişlerinde yükleniciye yersiz olarak KDV ödendiğinin İdare tarafından anlaşılmasının ardından …………. TL’nin …………. yevmiye numaralı muhasebe işlem fişi ile 140-Kişilerden Alacaklar hesabına borç kaydedildiği, 2016 yılı içinde …………. TL’si anapara, …………. TL’si faiz olmak üzere toplam …………. TL tahsilat yapıldığı, …………. TL anapara alacağının ise 2017 yılına devrettiği,
+
+Bakanlık tarafından hesaplanan faiz tutarına itiraz eden yüklenicinin; kendilerine ödenen KDV’nin beyannamelerine intikal ettirilerek vergi dairesine bildirildiğini, istisna kapsamında olan bu iş nedeniyle yüklendikleri KDV tutarlarını da iade almamış olduklarından bir kamu zararının oluşmadığını, yapılan hatalı işlemle ilgili bir kusurları olmadığı için KDV tutarının ödeme tarihinden geri iade tarihine kadar geçen süre için faiz istenmesinin yerinde olmadığını iddia etmeleri üzerine, …………. TL tutarındaki KDV’nin, yüklenici firmadan tahsilinde uygulanacak faizin hesaplanmasında yaşanan tereddütlerin giderilmesi amacıyla, Maliye Bakanlığı Muhasebat Genel Müdürlüğünden alınan …………. sayılı yazıda; şirketin beyanlarını düzelttiğini gösterir vergi dairesi yazısını ibraz etmesi üzerine Katma Değer Vergisi Genel Uygulama Tebliğinin 2.1.4.3. başlığı altındaki esaslar uyarınca genel bütçe kapsamındaki Bakanlık adına ödemeyi yapan muhasebe birimince yersiz tevkifatlara ilişkin kaydın oluşturulması ve söz konusu KDV'nin kalan tutarının Bakanlığa iade edilmesinden sonra söz konusu tutarlara ilişkin faiz alınıp alınmayacağı hususunun 659 sayılı KHK kapsamında Bakanlığın Hukuk Müşavirliği tarafından değerlendirilmesinin uygun olacağının belirtildiği,
+
+Bunun üzerine, Bakanlık tarafından yersiz ödenen KDV tutarının Bakanlığa ödenmesinden sonra faiz alınıp alınmayacağı hususunda Hukuk Müşavirliğinden alınan …………. sayılı görüşte faiz tutarının, “geri isteme iradesinin borçluya ulaştığı tarihten geri ödemenin yapıldığı tarihe kadar geçen süre” için hesaplanması gerektiği yönünde değerlendirme yapılarak, …………. TL tutarındaki faiz alacağının muhasebe kayıtlarından silindiği hususunun sorgu konusu edildiği görülmüştür.
+
+3065 sayılı Katma Değer Vergisi Kanununun 13/e maddesinde;
+
+“e) (Ek: 16/7/2004-5228/14 md.; Değişik: 1/7/2006-5538/8 md.) Limanlara bağlantı sağlayan demiryolu hatları, limanlar ve hava meydanlarının inşası, yenilenmesi ve genişletilmesi işlerini fiilen kendisi yapan veya yaptıran mükellefler ile genel bütçeli idarelere bu işlere ilişkin olarak yapılan mal teslimleri ve inşaat taahhüt işleri,” istisna kapsamına alınmıştır.
+
+Bakanlık tarafından ihalesi yapılan ve yukarıdaki madde kapsamına giren “…………. İnşaatı” işinin ara hakedişlerinde yersiz olarak KDV ödenmiştir. Durumun İdare tarafından anlaşılmasının ardından kesin hesapta hata düzeltilerek fazla ödenen …………. TL …………. yevmiye numaralı muhasebe işlem fişi ile 140-Kişilerden Alacaklar hesabına borç kaydedilmiştir. 2016 yılı içinde …………. TL’si anapara, …………. TL’si faiz olmak üzere toplam …………. TL tahsilat yapılmıştır. Tahsil edilemeyen …………. TL anapara alacağı 2017 yılına devretmiştir.
+
+Yüklenici, Strateji Geliştirme Başkanlığına muhatap …………. tarihli yazısında alacağın faizine itiraz etmiştir. Bunun üzerine Strateji Geliştirme Başkanlığının …………. sayılı yazısı ile Bakanlık Hukuk Müşavirliğinden konuya ilişkin görüş istenmiştir.
+
+Konuya ilişkin Hukuk Müşavirliğinin …………. sayılı yazısında;
+
+“… fazla ve yersiz ödemelerden doğan Devlet alacaklarında faiz başlangıç tarihi, geri isteme iradesinin borçluya ulaştığı tarih olup, tahakkuk daireleri ve saymanlıkların borçlunun, borcunu ödemesi için en kısa sürede ihtarda bulunulmasından sonra borçluya ulaştığı tarihten itibaren faiz istenebileceği göz önüne alınarak Başkanlığınızca gerekli işlemlerin yapılması gerektiği değerlendirilmektedir.” denilmektedir.
+
+Bu görüş doğrultusunda, Strateji Geliştirme Başkanlığının …………. sayılı yazısına istinaden, ödenmesi gereken faiz tutarı tekrar hesaplanarak …………. TL’ye indirilmek suretiyle İdarenin alacağının …………. TL’sinin silindiği anlaşılmıştır.
+
+Raporda Hukuk Müşavirliğinin faizin nasıl hesaplanması gerektiğini belirten görüşünün hangi yasal düzenlemeye dayandığına dair herhangi bir açıklama yer almadığı ifade edilmiş ise de; savunmalardan faiz tutarının, “geri isteme iradesinin borçluya ulaştığı tarihten geri ödemenin yapıldığı tarihe kadar geçen süre” için hesaplanması gerektiği yönündeki değerlendirmenin Borçlar Kanununun 107’nci maddesi ile Muhasebat Genel Müdürlüğünün 16 sıra no.lu Genel Tebliğine dayandığı, Hukuk Müşavirliğince verilen hukuki görüşlerin istişari nitelikte olup, uygulayıcı birimi bağlayıcı nitelikte olmadığı, yüklenici tarafından tahsil edilen KDV tutarlarının yasal defter kayıtlarına intikal ettirildiği ve söz konusu tutara ilgili dönem KDV beyannamelerinde yer verildiği, hatanın anlaşılması üzerine beyannamelerin düzeltilerek tahsil edilmiş olan KDV tutarlarının İdareye iade edildiği ve söz konusu inşaat işi için yüklenilmiş olan KDV tutarlarının da vergi dairesinden iade alındığı, bu nedenle mevzuatına uygun olduğu anlaşıldığından …………. TL ile ilgili olarak ilişilecek bir husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
+
+Karar verildi.
