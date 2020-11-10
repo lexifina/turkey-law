@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20663",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BÜYÜK MİLLET MECLİSİ ONUR ÖDÜLÜ YÖNETMELİĞİ",
+  "number": "20663",
+  "issuer": "Türkiye Büyük Millet Meclisi Başkanı",
+  "issuer_slug": "turkiye-buyuk-millet-meclisi-baskani",
+  "path": "regulation/turkiye-buyuk-millet-meclisi-baskani/2015/20663",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20663&MevzuatTertip=5",
+  "source_sha256": "ce1abd5cebc5a4be5e0bebb32dadf457ab89cbe1cf2d6a8ffba980c2038bba15",
+  "source_bytes": 21684,
+  "published": "2015-04-09",
+  "gazette": "29321",
+  "in_force": "2020-11-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-10",
+      "RG-10/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-10",
+      "10/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 728,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
