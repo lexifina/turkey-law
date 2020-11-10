@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "43626428-130-E.24527",
+  "source_id": 27748,
+  "date": "2020-11-10",
+  "title": "Şirket aktifinde iki yıldan uzun süre kalan taşınmazın kat karşılığı devri hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27748",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "7e6199ac8788f3fe2c54cec4acb4fc5fa0b631a4f1079b2c52e49d614da03775",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
