@@ -1,0 +1,12 @@
+İKİNCİ KISIM
+Göreve Alma ve Görevle İlgili Hükümler
+BİRİNCİ BÖLÜM
+İstihdam ve Adaylık
+İstihdam Şekli
+Madde 31- Enstitüde çalışan personel üç grupta toplanır:
+a) Kadrolu personel: Enstitünün asli ve sürekli hizmetlerini ifa ile görevlendirilen ve Enstitüce ihdas edilen kadrolarda istihdam edilen personeldir.
+b) Geçici personel: Geçici nitelikte olan hizmetleri yapmak üzere veya kadrolu istihdama ihtiyaç olmayan durumlarda, çalıştırılan ve kadrolu sayılmayan personeldir.
+c) Sözleşmeli personel: Enstitünün yıllık programlarında yer alan önemli projelerin hazırlanması, gerçekleştirilmesi, işletilmesi ve işlerliği için şart olan zaruri ve istisnai hallere münhasır olmak üzere özel bir meslek bilgisine ve ihtisasına ihtiyaç gösteren veya tam gün çalışmaya ihtiyaç göstermeyen geçici işlerde veya kadrolu personel yerine sözleşme ile yaptırılmasında fayda görülen işlerde istihdam edilmek üzere çalıştırılan yerli ve yabancı personeldir.
+(Ek fıkra:RG-23/8/2013-28744) Özel bilgi ve ihtisas gerektiren işlerde diğer kanunların sözleşmeli personel çalıştırılması hakkındaki hükümlerine bağlı olmaksızın toplam kadro sayısının % 2’sini geçmemek üzere sözleşmeli olarak çalıştırılan yerli ve yabancı personeldir. Bu şekilde çalıştırılacaklarda aranacak şartlar ile çalıştırma usul ve esasları ilgili yönerge ile belirlenir.
+(Ek fıkra:RG-23/8/2013-28744) Belirli süreli, geçici nitelikte ve özel bilgi ve uzmanlık gerektiren işlerde yurt içinde ve yurt dışında Enstitü dışından inceleme elemanı görevlendirilebilir. Enstitü dışından görevlendirilen ve uhdesinde kamu görevi bulunmayan inceleme elemanlarının günlük inceleme ücreti, asgarî ücretin aylık brüt tutarının % 25’ini aşmamak üzere Yönetim Kurulu tarafından belirlenir.
+(Ek fıkra:RG-23/8/2013-28744) 8/6/1984 tarihli ve 217 sayılı Devlet Personel Başkanlığı Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesinde sayılan kamu kurum ve kuruluşlarında çalışanlar, kurumlarının muvafakatiyle, aylık, ödenek, her türlü zam ve tazminatları ile diğer malî ve sosyal hak ve yardımları kurumlarınca ödenmek kaydıyla geçici olarak Enstitüde görevlendirilebilir. Bu personel, kurumlarından aylıklı izinli sayılır. İzinli oldukları sürece memuriyetleri ile ilgili özlük hakları devam eder ve bu süreler terfi ve emekliliklerinde hesaba katılır. Terfileri başkaca bir işleme gerek kalmaksızın süresinde yapılır. Bu fıkraya göre görevlendirilecek personel, toplam personel sayısının % 1’ini geçemez.

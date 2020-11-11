@@ -1,0 +1,2 @@
+Eğitim Planı
+Madde 79- Hizmet içi eğitimden beklenen amaçların gerçekleşmesi için, izlenecek yolları gösteren eğitim politikasına ilişkin düzenlemeler, (Değişik ibare:RG-5/6/2010-27602) İnsan Kaynakları Dairesi Başkanlığının teklifi üzerine Genel Sekreterin katılımı ve Başkanın onayı ile tesbit edilir. Belirlenen politika çerçevesinde, diğer birimlerin görüşleri ve mevcut verilere göre belirlenecek ihtiyaçlar ve imkanlar göz önünde bulundurulmak suretiyle uzun vadeli eğitim planları yapılır.

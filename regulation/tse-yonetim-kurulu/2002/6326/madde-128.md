@@ -1,0 +1,5 @@
+Disiplin Kurulları ile İlgili Ortak Hükümler
+Madde 128- Kurul Başkan ve üyeleri iki yıllık sürelerle Başkan tarafından görevlendirilir. Göreve bağlı başkan ve üyeliklerde görev değişikliğine uygun görevlendirme 15 gün içinde yapılır.
+Disiplin kurulları, bu madde uyarınca üyelerin salt çoğunluğunun katılımı ile toplanır ve oy çokluğu ile karar alır. Eşitlik halinde Kurul Başkanının tarafına itibar edilir. Zorunlu nedenlerle Kurul Başkanının katılamadığı toplantılarda disiplin kuruluna kıdemli üye, üst disiplin kuruluna ise Genel Sekreter Yardımcısı başkanlık eder. Çoğunluktan farklı düşünen üye tutanaklarda gerekçeleri ile karşı oy belirtebilir.
+Haklarında son üç yıl içinde aylıktan kesme ve kademe ilerlemesinin durdurulması cezası verilenlerle memuriyete engel olmayan bir suçtan hüküm giyenler kurul üyesi olamaz. Bu durumda olanların yerine aynı birimlerden görevlendirme yapılır.
+Kurul başkan ve üyeleri kendilerine, eşlerine, ikinci derece dahil kan ve sıhri hısımlarına, disiplin cezası verilmesini teklif ettikleri, disiplin soruşturmasını yaptıkları personele ait işlerle ilgili toplantılara katılamazlar.

@@ -1,0 +1,3 @@
+Görevden Uzaklaştırılan veya Görevinden Uzak Kalan Personelin Hak ve Yükümlüğü
+Madde 136- Görevden uzaklaştırılan ve görevi ile ilgili olsun veya olmasın herhangi bir suçtan tutuklanan veya göz altına alınan personele bu süre içinde aylıklarının üçte ikisi ödenir. Bu gibiler bu Yönetmeliğin öngördüğü sosyal hak ve yardımlardan faydalanmaya devam ederler.
+138 inci maddede sayılan durumların gerçekleşmesi halinde bunların aylıklarının kesilmiş olan üçte biri kendilerine ödenir. Görevden uzakta geçirdikleri süre, derecelerindeki kademe ilerlemesinde ve bu sürenin derece yükselmesi için gerekli en az bekleme süresini aşan kısmı, üst dereceye yükselmeleri halinde bu derecede kademe ilerlemesi yapılmak suretiyle değerlendirilir.

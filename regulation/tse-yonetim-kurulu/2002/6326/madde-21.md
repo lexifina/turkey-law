@@ -1,0 +1,4 @@
+Müracaat ve Şikayet
+Madde 21- Personel, idarenin işlemlerinden dolayı üst merciilere silsile yolu ile müracaat edebilir, şikayette bulunabilir. Müracaat ve şikayetler bir üst amirden başlayarak silsile yolu ile şikayet edilen amirler atlanarak yapılır. Personel bu Yönetmelik ve diğer ilgili mevzuatın kendilerine uygulanmasını isteyebilir.
+(Ek fıkra:RG-23/8/2013-28744) Personel hakkındaki ihbar ve şikâyetlerin, garaz nedeniyle veya mücerret hakaret için, uydurma bir suç isnadı suretiyle yapıldığı ve soruşturma veya yargılamanın tabi olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, haksız isnada uğrayan personelin disiplin amirlerinin teklifi üzerine Başkan, isnatta bulunanlar hakkında Cumhuriyet Savcılığına başvurur.
+(Ek fıkra:RG-23/8/2013-28744) Ayrıca ceza soruşturmasından bağımsız olarak disiplin soruşturması da yapılır.

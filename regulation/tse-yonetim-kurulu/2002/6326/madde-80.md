@@ -1,0 +1,2 @@
+Eğitim Programı
+Madde 80- Eğitim planı çerçevesinde; eğitim konularını, eğitime tabi tutulacakları, eğitimde görevlendirilecekleri, eğitimin yerini, başlama tarihini, süresini, araç ve gereçlerini ve her bir eğitim programının tahmini maliyetini gösteren yıllık eğitim programı hazırlanır. (Değişik ibare:RG-30/09/2005-25952) İnsan Kaynakları Dairesi Başkanlığının, diğer birimlerin görüşlerini de alarak hazırlayacağı yıllık eğitim programı, Genel Sekreterin katılımı ve Başkanın onayıyla yürürlüğe girer.

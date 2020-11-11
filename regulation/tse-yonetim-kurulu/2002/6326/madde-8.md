@@ -1,0 +1,3 @@
+Tarafsızlık ve Devlete Bağlılık
+Madde 8- Personel siyasi partilere üye olamaz, herhangi bir siyasi parti, kişi veya zümrenin yararını veya zararını hedef tutan bir davranışta bulunamaz, görevini yerine getirirken dil, ırk, cinsiyet, siyasi düşünce, felsefi inanç, din ve mezhep gibi ayrım yapamaz; hiçbir şekilde siyasi ve ideolojik beyanda bulunamaz ve bu eylemlere katılamaz.
+Personel her halde Devletin menfaatlerini korumak mecburiyetindedir. Türkiye Cumhuriyeti Anayasasına ve kanunlarına aykırı olan, ülkenin bağımsızlığını ve bütünlüğünü bozan, Devletin güvenliğini tehlikeye düşüren herhangi bir faaliyette bulunamaz, aynı nitelikte faaliyet gösteren herhangi bir hareket ve gruplaşmaya, teşekküle veya derneğe katılamaz, bunlara yardım edemez.

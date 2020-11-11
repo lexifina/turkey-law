@@ -1,0 +1,2 @@
+İkramiye
+Madde 104- TSE’de kadrolu çalışan personele bir yıllık bütçe döneminde aylık, yan ödeme, ek gösterge ve taban aylığı dahil, sosyal yardımlar hariç olmak üzere birer aylık ücreti tutarında 10 Haziran, 10 Ağustos, 10 Ekim ve 10 Aralık tarihlerinde dört ikramiye ödenir. Ödeme tarihleri resmi tatil ile çakışırsa, ücretler tatilden önceki gün ödenir. TSE ile ilişiği kesilmiş veya atanmış olup da henüz göreve başlamamış personele ikramiye ödenmez.

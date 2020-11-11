@@ -1,0 +1,3 @@
+Yabancı Dil Tazminatı
+MADDE 107- (Değişik:RG-5/6/2010-27602)
+Enstitüde çalışan personelden Enstitüce belirlenen yabancı dillerden herhangi birinden başarılı olanlara Yönetim Kurulunca belirlenecek miktarda yabancı dil tazminatı verilir. Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavı (KPDS)’ndan en az (C) düzeyinde puan almış olanlar veya uluslararası geçerliliği olan yabancı dil bilgisi seviye tespit sınavlarından birisinden en az bu puana eşdeğer puan almış olanlar yabancı dil tazminatı almaya hak kazanır. Yabancı dil sınav sonuçlarına göre beş yıl ödeme yapılabilir. Beş yıldan sonra her beş yıl bir alt gruptan ödeme yapılır ve en alt gruptan ödeme yapılanların yabancı dil tazminatı kesilir.

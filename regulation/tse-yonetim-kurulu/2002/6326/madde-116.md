@@ -1,0 +1,2 @@
+Disiplin Amirlerinin Yetkileri
+Madde 116- Disiplin amirleri Enstitü hizmetlerinin gereği gibi yürütülmesini sağlamak amacıyla kanun, tüzük, yönetmelik, yönerge ve genelgelerin emrettiği görevleri yurt içinde ve yurt dışında yerine getirmeyenlere, uyulmasını zorunlu kıldığı hususları yapmayanlara, yasakladığı işleri yapanlara, durumun niteliği ve ağırlık derecesine göre, bu Yönetmelikte yazılı disiplin cezalarından yetkisi dahilinde bulunanları vermeye, özel kanunların disiplin işleriyle ilgili olarak verdiği yetkileri kullanmaya yetkilidir.

@@ -1,0 +1,3 @@
+Disiplin Kurulunun Teşekkülü
+Madde 123- (Değişik:RG-30/09/2005-25952)
+Disiplin ve soruşturma işlerini yönetmelik hükümlerine göre yürüterek karara bağlamak üzere Genel Sekreter Yardımcılarından birinin başkanlığında, (Ek ibare:RG-23/8/2013-28744) Rehberlik ve Denetim Kurulu Başkanlığınca görevlendirilecek bir Başdenetçi, Hukuk Müşavirliğince görevlendirilecek bir avukat ile İnsan Kaynakları Dairesi Başkanlığınca görevlendirilecek bir müdür ve/veya bir uzman personel ve Genel Sekreter tarafından belirlenecek (Değişik ibare:RG-23/8/2013-28744) bir ana hizmet birimi grup başkanı veya müdüründen oluşan Disiplin Kurulu kurulur.

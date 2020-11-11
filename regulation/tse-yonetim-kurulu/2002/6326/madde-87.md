@@ -1,0 +1,3 @@
+Sağlık Yardımı
+Madde 87- Enstitü personeline Sosyal Sigortalar mevzuatına göre sağlık yardımları yapılır. Enstitü, merkez ve taşra teşkilatındaki personelin muayene ve tedavileri için, sağlık ve yardımcı sağlık personeli istihdam edebilir, bu amaçla ünite açabilir veya özel sağlık kuruluşları ile anlaşabilir, Yönetim Kurulunca belirlenecek esaslar çerçevesinde özel sigorta kurumlarıyla sağlık, kaza ve benzeri sigortaları için anlaşma yapabilir.
+(Değişik fıkra:RG-23/8/2013-28744) Yurtdışına görevle veya eğitim-öğretim amacıyla gönderilen personel, 5510 sayılı Kanunun ek 4 üncü maddesi çerçevesinde sağlık yardımından faydalandırılır.

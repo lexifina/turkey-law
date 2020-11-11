@@ -1,0 +1,4 @@
+Enstitü Dışında Görev
+Madde 28- Enstitünün iştirakçisi veya taraf olduğu teşebbüslerden, Yönetim Kurulunca uygun görülenler hariç, Enstitü personeli, Enstitü dışında resmi ya da özel geçici veya sözleşmeli, ücretli veya ücretsiz herhangi bir görev kabul edemez. Yapı, kalkınma ve tüketim kooperatifleri, dernek ve meslek odalarında üyelik, yönetim ve denetim kurulu üyeliği ile mahkemelerce bilirkişilik görevi verilenler bu madde kapsamı dışındadır.
+(Değişik fıkra:RG-21/8/2009-27326) Hakemlik, tasfiye memurluğu, çeşitli kurul ve komisyon çalışmaları ile özel kanunlardaki hükümlere göre diğer kurumlarda Genel Sekreterin teklifi Başkanın onayı ile görev yapılabilir.
+(Ek fıkra:RG-16/08/2004-25555) Ancak kamu kurum ve kuruluşlarının kendi mevzuatları hükmü uyarınca Enstitü personelinden geçici görevle görevlendirilmesinin istenilmesi halinde; talepte bulunan kamu kurum ve kuruluşunun talebi Yönetim Kurulunca karara bağlanır.

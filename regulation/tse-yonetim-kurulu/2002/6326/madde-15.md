@@ -1,0 +1,3 @@
+Mal Bildirimi
+Madde 15- Personel, Enstitüde göreve başladığında ve son rakamı sıfır ve beşle biten yıllarda kendisine, eşine ve velayeti altındaki çocuklarına ait taşınır ve taşınmaz mallar, alacak ve borçları ile ilgili olarak mal bildirimi verir.
+Bildirdiği mal bildiriminde herhangi bir değişiklik olduğunda, değişiklik bir ay içerisinde Enstitüye bildirilir. Bildirmeyenler hakkında 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu ve bu kanuna dayalı olarak çıkarılan yönetmeliklere göre işlem yapılır. Mal bildirimi, Devlet memurlarının tabi olduğu usul ve esasa göre yapılır.
