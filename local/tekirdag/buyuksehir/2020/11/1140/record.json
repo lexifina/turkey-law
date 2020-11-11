@@ -1,0 +1,20 @@
+{
+  "number": "1140",
+  "title": "PLAN DEĞİŞİKLİĞİ",
+  "decision_date": "2020-11-11",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1605",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1605/1140",
+  "source_sha256": "f034c18f4c971eead32987826f5538a0ebdd8aee25a3f76fa4b9bec9265e0455",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2020-11-11",
+  "in_force_basis": "Official Birleşim Tarihi: 11.11.2020; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
