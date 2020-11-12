@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "767",
+  "decision_date": "2020-11-12",
+  "source_id": 32273,
+  "chamber": "6",
+  "ilam_number": "379",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32273/",
+  "source_sha256": "cbed6a1f3afb7750f396d06182a17fba4f824aec74be4f52a0bd3d3113ce5f9f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
