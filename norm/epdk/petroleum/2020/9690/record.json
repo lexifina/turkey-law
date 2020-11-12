@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9690",
+  "decision_date": "2020-11-12",
+  "title": "Akpet Akaryakıt Dağıtım A.Ş.’nin; PİL/6542-2/37515 sayılı İletim Lisansı kapsamında faaliyette bulunan Mersin tesisine ilişkin",
+  "resmi_gazete_date": "2020-11-14",
+  "resmi_gazete_number": "31304",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y6rnS/c6pC8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y6rnS/c6pC8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ELpcUSRKDhE="
+  ],
+  "source_sha256": "d381fec1c351124215c623a51d12aafc60af227742542a77c57166aea7b3fc8c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-11-12",
+  "law_text_complete": true
+}
