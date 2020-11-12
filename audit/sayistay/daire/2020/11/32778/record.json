@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10797",
+  "decision_date": "2020-11-12",
+  "source_id": 32778,
+  "chamber": "1",
+  "ilam_number": "586",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32778/",
+  "source_sha256": "4fe8fda276930bdebf50bf0eaac2fbd89c6b22dbeea73c595f46ac2c7748b138",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
