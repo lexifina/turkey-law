@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-120[GVK.ÖZ.2020.11]-171273",
+  "source_id": 23179,
+  "date": "2020-11-12",
+  "title": "Ödenen şahıs sigorta primlerinin gelir vergisinden indiriminde ücret matrahını oluşturan gelir kalemleri",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23179",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "1df02585ac2254ccd344564fff132438d0097f91c845acbb45445bfd831340d4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
