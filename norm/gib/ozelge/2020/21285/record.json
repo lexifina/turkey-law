@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-120.01.02.04[40.01.135]-E.104726",
+  "source_id": 21285,
+  "date": "2020-11-13",
+  "title": "Eczacılık faaliyetinin anneden devralınması neticesinde mükellefin genç girişimci istisnasından faydalanıp faydalanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21285",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "78bf61bfb755068baa2611215a3c0963e98282e0bf591298bf57d8e2ecd87b0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
