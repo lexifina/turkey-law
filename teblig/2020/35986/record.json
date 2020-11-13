@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.35986",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/6)",
+  "number": "35986",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/35986",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=35986&MevzuatTertip=5",
+  "source_sha256": "9cb7cf35f321a3af8e6ebbf2efc866cebe5d3f0b0094c3c1e76919375a1919de",
+  "source_bytes": 15295,
+  "published": "2020-11-13",
+  "gazette": "31303",
+  "in_force": "2020-11-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.11.2020); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 260,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.35986-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
