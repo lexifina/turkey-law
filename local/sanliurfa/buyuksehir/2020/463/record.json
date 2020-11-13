@@ -1,0 +1,24 @@
+{
+  "number": "463",
+  "number_as_published": "463",
+  "year": 2020,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI",
+  "decision_date": "2020-11-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/10800/106/nazim-ve-uygulama-imar-plani",
+  "official_document": null,
+  "source_sha256": "a5fb790b3eb46be6eb72a379600428a6d7c7f889f4fa15b9ed1a75e48809a313",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2020-11-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.11.2020 tarih ve 463 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2020-12-07",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
