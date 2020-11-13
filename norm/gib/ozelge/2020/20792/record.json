@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[23-2019/1193]-842884",
+  "source_id": 20792,
+  "date": "2020-11-13",
+  "title": "Kanada'daki firmaya Türkiye'den verilen muhabirlik faaliyeti ile elde edilen ücret gelirinin vergilemesi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20792",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "2a51a95c24ea266f58f3cd720c2f92b1030603cf11a0145826e4c900b2af4ca3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
