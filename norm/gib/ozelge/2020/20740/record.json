@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[86-2020/507]-E.842955",
+  "source_id": 20740,
+  "date": "2020-11-13",
+  "title": "Türkiye' deki şirketten elde edilen temmettü gelirinin beyanı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20740",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "cb7bd1a2a16d7a993b74795561266d4a1928d21557beea1d19324b906fed8c2c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
