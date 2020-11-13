@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[Mük.20-2020/647]-E.841043",
+  "source_id": 21286,
+  "date": "2020-11-13",
+  "title": "Genç girişimci kazanç istisnasından yararlanan mükellefin aynı zamanda yurt dışında mukim firmalara verilen yazılım hizmetinden elde edilen kazancın indirim konusu yapılıp yapılmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21286",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a6d91c8a05e74a3d8c07f35664a8d2392d1c2fde9dd7b274099f1351efd8d217",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
