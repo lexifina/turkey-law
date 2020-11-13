@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[113-2020/270]-E.843089",
+  "source_id": 24726,
+  "date": "2020-11-13",
+  "title": "Hasılat esaslı vergilendirme usulüne tabi mükellef tarafından yapılan araç satışına ilişkin elde edilen hasılatın beyanı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24726",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "4dd92fc3221ae686287e3ff68b426ec1cd95af03723168837c39495c50c15796",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
