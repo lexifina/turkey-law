@@ -1,0 +1,24 @@
+{
+  "number": "470",
+  "number_as_published": "470",
+  "year": 2020,
+  "title": "Nazım İmar Planı Değ. (Eyyübiye-Hacılar)",
+  "decision_date": "2020-11-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/10970/106/nazim-imar-plani-deg-eyyubiye-hacilar",
+  "official_document": null,
+  "source_sha256": "c30b240889c69df9b7503564d09e671eada4f9b4e6bce49c981d539ca638dbfb",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2020-11-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.11.2020 tarih ve 470 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-01-15",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
