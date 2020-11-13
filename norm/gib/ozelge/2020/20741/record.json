@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[123-2019/1386]-E.844709",
+  "source_id": 20741,
+  "date": "2020-11-13",
+  "title": "Yurtdışı mukimi firmalardan Türkiye'deki aracı kurumlar vasıtasıyla elde edilen temettü gelirlerinden yurt dışında kesilen vergilerin mahsubu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20741",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d5953767c922351c6a93a9cfd36b2e208d95472bc9296be35e16131ddf4a40e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
