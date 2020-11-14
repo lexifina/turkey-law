@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.11004",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇÜ VE ÖLÇÜ ALETLERİ DAMGA YÖNETMELİĞİ",
+  "number": "11004",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11004",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11004&MevzuatTertip=5",
+  "source_sha256": "5c819dc03a9c5d08abce803a50ff9a18e09ecca9115cceaab9d1d8bac729cce3",
+  "source_bytes": 43141,
+  "published": "2007-01-11",
+  "gazette": "26400",
+  "in_force": "2020-11-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-14",
+      "RG-14/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-14",
+      "14/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-29",
+      "RG-29/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-29",
+      "29/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2007 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1876,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

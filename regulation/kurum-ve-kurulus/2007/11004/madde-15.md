@@ -1,0 +1,2 @@
+Damgaların kullanılması
+MADDE 15 – (1) Sert zeminlere tatbik olunacak vurma damgaların, vurulacak zeminde rahatlıkla okunacak şekilde iz bırakmasını temin için bu işleme elverişli çekiç kullanılması, sıkma damgaların ise sert zeminlere uygulanmaması ve sıkıldığı zemin üzerinde okunur bir şekilde iz bırakması zorunludur. Periyodik muayene damgasının ölçü aleti üzerinde tüketicinin rahatlıkla görebileceği bir yerde ve üzerindeki bilgilerin okunur şekilde olması gerekir.
