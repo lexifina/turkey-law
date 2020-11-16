@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35831311-120.05-13382",
+  "source_id": 37747,
+  "date": "2020-11-16",
+  "title": "Kira geliri elde edilen gayrimenkullere ilişkin kredi faizi, amortisman bedeli, bina ve çevre aydınlatma giderleri ile asansör giderlerinin indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37747",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "75d0b82f6603cdc5566f42279190c73a5a0c4672cf0d4f1ff38bbb4ad024e9cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
