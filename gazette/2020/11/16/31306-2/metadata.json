@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-11-16",
+  "issue": "31306",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çanakkale Onsekiz Mart Üniversitesi Enerji Kaynakları Araştırma ve Uygulama Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/11/20201116-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/11/20201116.htm",
+  "index_sha256": "ee7fcbd7bdea0456ba7e9635b1519ca0b9203c57a0718da590f4ba8ba84720c4",
+  "index_header": "16 Kasım 2020 ... 31306 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/11/20201116.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
