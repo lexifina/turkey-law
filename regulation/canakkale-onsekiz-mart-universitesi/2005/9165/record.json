@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 13 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-07-24",
+      "24.07.2005",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-11-16",
+      "RG-16/11/2020-31306",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-11-16",
+      "RG-16/11/2020-31306",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-11-16",
+      "RG-16/11/2020-31306",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-11-16",
+      "RG-16/11/2020-31306",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-11-16",
+      "RG-16/11/2020-31306",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-11-16",
+      "16/11/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-16/11/2020-31306",
+  "first_law": null,
+  "gazette": "25885",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-11-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2005/9165",
+  "published": "2005-07-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=9165&MevzuatTertip=5",
+  "source_bytes": 38211,
+  "source_id": "8.5.9165",
+  "source_sha256": "e7c1592b8a73866a33b44db3225117432d80f6b749e792d09e9ecdd4527ac32a",
+  "text_status": "current-consolidated",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ ENERJİ KAYNAKLARI ARAŞTIRMA VE UYGULAMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 1210
+}
