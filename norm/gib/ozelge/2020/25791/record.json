@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[227-2019-536]-E.311469",
+  "source_id": 25791,
+  "date": "2020-11-17",
+  "title": "Eğitim-öğretim ücretinin anlaşmalı bankanın kredi kartı ile tahsilinde sağlanan taksit imkanı karşılığında banka tarafından alınan/kesilen komisyon için Üniversite tarafından fatura düzenlenip düüzenlenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25791",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "77c5247bff345d9e49500097790702dd683c81a8d552ba4bbd887425c6ce74aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
