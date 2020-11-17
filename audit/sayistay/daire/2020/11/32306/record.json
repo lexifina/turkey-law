@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "364",
+  "decision_date": "2020-11-17",
+  "source_id": 32306,
+  "chamber": "3",
+  "ilam_number": "6",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32306/",
+  "source_sha256": "f998ef553039ea6147cb51c46c72b2fa38b36eec1f8fbe1dd284a7e558ad3ffa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
