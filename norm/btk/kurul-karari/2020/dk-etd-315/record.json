@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2020/DK-ETD/315",
+  "source_id": "2020/DK-ETD/315",
+  "date": "2020-11-17",
+  "title": "Mahkeme Kararı'nın İfası (Azami Ücret Tarifesi (TT Mobil))",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/d893fd16-c408-42ee-be30-21af7a8b3005.pdf",
+  "source_sha256": "b08ea908a6d8538be88d0a39afeceabe080489a236b8500cf6a8791006cbe79d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
