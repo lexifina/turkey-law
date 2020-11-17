@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.01.03[9-2020/28]-50643",
+  "source_id": 20866,
+  "date": "2020-11-17",
+  "title": "Seyyar fotoğrafçılık ve video çekimi faaliyetinin esnaf muaflığı kapsamında değerlendirilip değerlendirilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20866",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "541fe79a8f7784c4d6f2629adab4e580c471eb43760274ee4af8dcf29fc8c49d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
