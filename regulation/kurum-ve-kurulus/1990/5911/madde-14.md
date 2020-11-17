@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+BİLİMSEL VE İDARİ FAALİYETLER
+Toplantılar
+Madde 14 - Bilimsel ve idari konuları görüşmek üzere Genel Kurulun karar alması halinde, Komisyon Ulusal ve uluslararası toplantılar düzenler. Düzenlenen bu toplantılara, Genel Kurul ve Yürütme Kurulu üyeleri ile Genel Sekreter dışında, Komisyon Başkanının daveti üzerine Komisyonun konu ve faaliyetleriyle ilgili Ulusal ve Uluslararası kurum ve kuruluşlar ile özel kişiler katılır. Bu toplantılarda bütün kararlar, asıl üyelerin oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın oyunun bulunduğu görüş geçerli sayılır. Davetli üyeler oylamalara katılamazlar.
+a) Ulusal Toplantılar : Asker ve sivil tarihçileri, askeri tarih dalında bilimsel araştırma yapmaya teşvik etmek, Uluslararası kolokyum ve kongrelere hazırlamak ve ilgililerin Türk askeri tarihinin çeşitli konularında yapılan bu çalışmalardan yararlanmalarını sağlamak maksadıyla, Ulusal düzeyde seminer, kolokyum ve konferans türünde bilimsel toplantılar düzenlenir.
+b) (Değişik:RG-17/11/2020-31307) Uluslararası Toplantılar: Genel Kurulca alınan karar doğrultusunda, uluslararası kolokyum, kongre, diğer bilimsel ve idari faaliyetlerin Türkiye’de tertiplenmesi ve bu toplantılara katılım Uluslararası Komisyon Tüzüğü hükümlerine göre yapılır.
+Bu tür katılma ve temaslar 5 Mayıs 1969 tarih ve 1173 sayılı Milletlerarası Münasebetlerin Yürütülmesi ve Koordinasyonu Hakkındaki Kanunun 1 inci maddesi uyarınca, Dışişleri ve Milli Savunma Bakanlıkları ile diğer ilgili Bakanlık ve kurumlarla işbirliği dahilinde yapılır.
+c) Raporların Verilmesi: Ulusal ve Uluslararası toplantıların raporları, bu toplantıyı takip eden otuz gün içerisinde Komisyon Başkanına verilir.

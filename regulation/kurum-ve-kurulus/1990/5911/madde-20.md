@@ -1,0 +1,2 @@
+Uluslararası Faaaliyetlere İlişkin Kayıt Ücretlerinin Sarfı
+Madde 20 - Komisyon tarafından düzenlenen Uluslararası bilimsel faaliyetlere katılacak yabancı delegelerden kayıt, gezi ve diğer bilimsel ve sosyal faaliyetler karşılığı alınacak ücretler, Tertip Komitesi tarafından toplanır ve tespit edilen mali esaslar çerçevesinde kullanılır. Bu masraflardan arta kalacak paraların hazineye irad kaydedilmesi için gerekli işlem yapılır.

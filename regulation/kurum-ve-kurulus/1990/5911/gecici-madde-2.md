@@ -1,0 +1,1 @@
+Geçici Madde 2 - TATK'nun bu Yönetmeliğe göre çalışmaya başlayabilmesi için ilk Genel Kurulu teşkil edecek üyelerden, yüksek öğretim ve araştırma kurum ve kuruluşlarının temsilcileri dışındakiler, Yürütme Kurulu tarafından seçilir.
