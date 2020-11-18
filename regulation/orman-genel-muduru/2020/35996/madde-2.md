@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 31/10/1985 tarihli ve 3234 sayılı Orman Genel Müdürlüğüne İlişkin Bazı Düzenlemeler Hakkında Kanunun ek 3 üncü maddesi ve 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete'de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 796 ncı maddesine dayanılarak hazırlanmıştır.
