@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+İşletmenin Faaliyet Alanları, Yönetim Organları ve İşleyişine İlişkin Esaslar
+Faaliyet alanları
+MADDE 5 – (1) İşletme; eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıdaki faaliyetlerde bulunur:
+a) Yükseköğretim kurumları dışındaki kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce talep edilecek bilimsel görüş, proje, araştırma ve benzeri hizmetler yapmak, seminer, konferans, sempozyumlar düzenlemek, kurslar açmak,
+b) Danışmanlık, her türlü tercüme hizmetleri, plan, proje uygulama, deney raporları, fizibilite etüdü, proses değerlendirmesi ve geliştirmesi, model deneyleri, bilgi işlem ve iş değerlendirmesi veya organizasyonu, analiz, ölçme ve etanolaj hizmetleri ve faaliyet alanı ile ilgili olarak bakım, onarım, basım, yayın, cilt ve üretimle ilgili hizmetleri yapmak,
+c) Eğitim ve öğretime yönelik uygulamalarla sınırlı olmak üzere, sportif alanda bireysel ve takım olarak performans değerlendirmesi, psikolojik danışmanlık, diyet analiz ve kontrolü, antrenman planlaması, sporcu sağlığını koruma ve geliştirmeye yönelik hizmetlerde bulunmak,
+ç) Güzel sanatlar, müzik ve sahne sanatları alanlarında yaratıcı ve araştırma çalışmaları ile eğitim, öğretime yönelik uygulamalarla sınırlı kalmak üzere grafik tasarımı, afiş, broşür, sergi ve fuar düzenlenmesi, iç ve dış mekan düzenlemeleri, tanıtım ve reklam filmleri, resim, heykel, seramik çalışmaları, müzikli oyunlar ve tiyatro oyunları yazılması, sahnelenmesi, bale ve tiyatro temsilleri ile konser ve resitaller düzenlenmesi ve benzeri hizmetleri yapmak,
+d) (Değişik:RG-18/11/2020-31308) Mevcut fiziki kapasiteyi değerlendirerek hizmet birimlerinin faaliyet alanı ile sınırlı olmak üzere yukarıda sayılanlar dışında kalan her türlü iş, hizmet ve mal üretiminde bulunmak.
