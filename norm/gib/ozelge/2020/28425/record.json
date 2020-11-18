@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2019/1601]-E.854745",
+  "source_id": 28425,
+  "date": "2020-11-18",
+  "title": "İnternet ortamında reklam hizmetinin verilmesine aracılık eden şirketin, Google firmasına yaptığı ödemelerde tevkifat yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28425",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "868b95b8e65d3927b187c81febf826ffbbe62a0db6c14967ef3be97a30ac6642",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
