@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35635",
+  "decision_date": "2020-11-19",
+  "source_id": 32692,
+  "chamber": "2",
+  "ilam_number": "19",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32692/",
+  "source_sha256": "6ccbd146c492ecc32452d4bd655d02e7538fcae814dfd1e6bf3d8b3f153b49b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
