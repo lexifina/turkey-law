@@ -1,0 +1,3 @@
+Onay belgesi
+MADDE 12 – (1) Birim Yöneticisinin teklifi, bağlı olduğu Başkan Yardımcısının uygun görüşü ve İdare Başkanının onayı ile İhalesi yapılacak her iş için bir onay belgesi hazırlanır. (Değişik ikinci cümle:RG-25/1/2008-26767) Onay belgesinde, ihale konusu olan işin nev’i, niteliği, miktarı tahmin edilen bedeli/geliri, teminat miktarı veya oranı, ihalede, 26 ncı maddede düzenlenen açık ihale usulünün uygulanacağı, 15 inci maddede belirlenen ilân şeklinin uygulanacağı ve ilanın adedi, geçici teminat miktarı, komisyon kurulacaksa ihale komisyonunun kaç kişiden ve kimlerden kurulacağı belirtilir.
+(2) Onay belgesinde ayrıca varsa şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği, bedel karşılığı verilecekse bedelin ne olacağı gösterilir.

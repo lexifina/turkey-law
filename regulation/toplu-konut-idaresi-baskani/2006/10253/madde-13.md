@@ -1,0 +1,3 @@
+İhale komisyonları
+MADDE 13 – (1) Arsa satışı karşılığı gelir paylaşımı ihalelerinde; İdare Başkanı, ikisi ihale konusu işin uzmanı, biri muhasebe veya mali işlerden bir personel olması şartıyla, İdare personelinden en az beş kişiyi, biri komisyon Başkanı olmak üzere, yedek üyeleri de belirleyerek ihale komisyonu olarak görevlendirir.
+(2) İhale komisyonları eksiksiz olarak toplanır. Komisyon kararları oy çokluğu ile alınır. Kararlarda çekimser kalınamaz. Karşı oy kullanan üye, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır. Komisyon başkan ve üyeleri oy ve kararlarından sorumludur.
