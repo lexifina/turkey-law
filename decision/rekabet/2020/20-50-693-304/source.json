@@ -1,0 +1,13 @@
+{
+  "number": "20-50/693-304",
+  "type": "Rekabet İhlali",
+  "decision_date": "2020-11-19",
+  "publication_date": "2021-06-28",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=abffc703-9c41-4d75-8af3-c1301dfea53a",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=249",
+  "pdf_sha256": "3e8d123095ed250924bf55d27abad5dfeeeeb86ee13658b087b465dfce6cd899",
+  "pdf_bytes": "1180486",
+  "pages": "46",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
