@@ -1,0 +1,20 @@
+{
+  "applicant": "M.A.B.",
+  "application_date": "2015-01-07",
+  "application_number": "2015/288",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-11-19",
+  "id": "125476f7-921e-be29-a06c-bab583151e8b",
+  "in_force": "2020-11-19",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjEyNTQ3NmY3LTkyMWUtYmUyOS1hMDZjLWJhYjU4MzE1MWU4Yg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "658b8687cc289219793e63c5fc3b07cb77836172cbef49e42e982784e5a7378e",
+  "version_label": "as-enacted"
+}
