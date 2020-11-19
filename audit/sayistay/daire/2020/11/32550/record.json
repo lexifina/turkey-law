@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35633",
+  "decision_date": "2020-11-19",
+  "source_id": 32550,
+  "chamber": "2",
+  "ilam_number": "269",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32550/",
+  "source_sha256": "80a2adb225f1fa751fcddf20aca22e954cc83170af4fb0bf8927aab00503ad3e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
