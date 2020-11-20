@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu, Merkezin karar organıdır. Yönetim Kurulu; Müdür, iki müdür yardımcısı ve Müdürün önereceği, Üniversitede görevli öğretim elemanları arasından Rektör tarafından görevlendirilen iki kişiyle birlikte toplam beş üyeden oluşur. Yönetim Kurulu üyelerinin görev süreleri üç yıldır. Görev süresi dolmadan ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen bir üyenin yerine aynı usulle Rektör tarafından görevlendirme yapılır.
+(2) Yönetim Kurulu, yılda en az iki kere ve gerektiğinde Müdürün çağrısı üzerine ve Müdürün başkanlığında toplanır ve kararlar oy çokluğu ile alınır. Oylamada eşitlik olması halinde, Müdürün kullandığı oy yönünde çoğunluk sağlanmış sayılır.
