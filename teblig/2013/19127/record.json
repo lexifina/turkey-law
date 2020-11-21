@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.19127",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 16)",
+  "number": "19127",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2013/19127",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19127&MevzuatTertip=5",
+  "source_sha256": "ed674ef122e6835d500e5970944105446a5bf83ee1d9b03558eaf32ecfe6c55d",
+  "source_bytes": 15739,
+  "published": "2013-12-14",
+  "gazette": "28851",
+  "in_force": "2020-11-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"21/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-21",
+      "21/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 294,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.19127%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
