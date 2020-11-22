@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (Değişik:RG-22/11/2020-31312)
+(1) Merkezin faaliyet alanları şunlardır:
+a) Günümüz ulaşım teknolojilerinin uygulanmasında, yürütülmesinde ve denetiminde ilgili mevzuat hükümleri kapsamında kurum/kuruluşlara danışmanlık ve müşavirlik hizmeti vermek.
+b) Merkezin ilgi alanına giren akıllı kara, deniz ve hava taşıtları, akıllı ulaştırma sistemleri, bağlantılı ve otonom araçlar, robotlar, robot grupları, ileri otomotiv teknolojileri, elektrikli taşıt teknolojileri, yakıt pili, güneş gözesi ve benzeri temiz ve yenilenebilir enerji kullanan taşıt teknolojileri, karmaşık simülasyon, sanal ortamların ve yazılımların geliştirilmesi veya uygulanması alanlarında araştırma-geliştirme (Ar-Ge) çalışmaları yapmak veya bu çalışmalara katılmak.
+c) Merkezin ilgi alanına giren konularda geleceğin teknolojilerini tespit etmeye yönelik akademik ve teknolojik faaliyetleri izlemek, yönelimleri inceleyip öngörü çalışmaları yapmak.
+ç) İlgili mevzuat hükümleri kapsamında Merkezin ilgi alanına giren konularda faaliyette bulunan ulusal ve uluslararası kamu ve özel kurum ve kuruluşlar ile Merkezin amacı doğrultusunda iş birliğinde bulunmak, ortak çalışmalar düzenlemek, uygulama ve araştırma projeleri hazırlamak, bu projelere kaynak yaratmak ve projeleri uygulamak ve/veya uygulamanın takibini yapmak.
+d) Hızla değişmekte ve yenilenmekte olan ulaştırma teknolojileri ve akıllı sistemlerle ilgili olarak mesleki eğitim programları düzenlemek, bu bağlamda otomotiv sanayi ve tedarik sanayii ile kamu kurum ve kuruluşları çalışanlarının yeni bilgilerle donatılmalarını sağlamak.
+e) Yapılacak çevresel etki değerlendirmeleri ile ulaşım yatırımlarının inşaat ve işletme aşamasındaki çevresel etkilerini belirlemek, ekolojik ve sürdürülebilir kentler ve ulaştırma sistemleri için proje etütleri yapmak, gerektiğinde yapılan bu planlama çalışmalarının kontrolörlüğünü ve danışmanlığını yapmak.
+f) Merkezin ilgi alanına giren konularda araştırma yapmaya müsait bir kütüphane, elektronik bilgi bankası ve arşiv oluşturmak, ulusal ve uluslararası iletişim ağlarına katılmak veya ihtiyaç olduğunda yeni bir ağ oluşturmak, Merkeze ait, süreli ve süresiz yayınlar hazırlamak.
+g) Merkezin ilgi alanına giren konularda yüksek lisans ve doktora çalışmalarını teşvik etmek ve Üniversitenin Lisansüstü Eğitim Dekanlığı ile iş birliği yapmak.

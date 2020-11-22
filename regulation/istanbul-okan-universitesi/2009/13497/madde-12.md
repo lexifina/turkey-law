@@ -1,0 +1,3 @@
+Merkez danışma kurulu
+MADDE 12 – (Değişik:RG-22/11/2020-31312)
+(1) Merkez Danışma Kurulu; Merkez Müdürü tarafından Üniversitenin içinden veya istekleri halinde Üniversite dışından önerilen kişiler arasından Rektör tarafından görevlendirilen en çok on kişiden oluşur. Danışma Kurulu, Merkezin faaliyetleriyle ilgili stratejik planların hazırlanmasında ve uygulanmasında Merkez Müdürü ve Merkez Yönetim Kuruluna katkılarda bulunur. Danışma Kurulu üyelerinin görev süresi ve görevlendirilmelerine ilişkin usul ve esaslar, Yönetim Kurulu üyelerinin görev süresi ve görevlendirilmelerine ilişkin usul ve esaslar ile aynıdır.

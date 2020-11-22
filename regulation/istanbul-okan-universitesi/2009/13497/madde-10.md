@@ -1,0 +1,4 @@
+Merkez yönetim kurulu
+MADDE 10 – (Değişik:RG-22/11/2020-31312)
+(1) Merkez Yönetim Kurulu (MYK); Merkez Müdürü dâhil yedi kişiden oluşur. Merkez Müdürü dışındaki üyeler, Üniversitede tam gün çalışan öğretim elemanları, öğretim üyeleri ve/veya idari personel arasından üç yıl için Senato tarafından görevlendirilir. Süreleri dolan MYK üyeleri yeniden görevlendirilebilir. Süresi bitmeden ayrılan veya altı aydan fazla Üniversite dışında görevlendirilen MYK üyelerinin yerine, kalan süreyi doldurmak üzere yenileri görevlendirilir.
+(2) Merkez Yönetim Kurulu, Müdürün çağrısı ile en az yılda iki kez Müdür başkanlığında toplanır. Gerektiğinde Müdürün daveti üzerine olağanüstü olarak da toplanabilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır. Oyların eşitliği durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
