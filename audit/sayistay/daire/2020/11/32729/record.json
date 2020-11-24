@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "365",
+  "decision_date": "2020-11-24",
+  "source_id": 32729,
+  "chamber": "3",
+  "ilam_number": "26",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32729/",
+  "source_sha256": "477e5649a01fa1852161b29db06deb73b44210e20bb80f29f0a21cb31ade4d89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
