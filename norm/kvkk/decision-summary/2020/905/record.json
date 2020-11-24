@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/905",
+  "source_id": 6862,
+  "date": "2020-11-24",
+  "title": "“Bir sigorta şirketinin kişisel veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 24.11.2020 tarih ve 2020/905 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6862/2020-905",
+  "source_sha256": "2ef87d1943dce6f6845b0d8061ea00764981841f96c1bb9c6d1f4a5ee3edca96",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
