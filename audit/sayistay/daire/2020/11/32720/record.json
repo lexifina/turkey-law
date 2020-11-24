@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "365",
+  "decision_date": "2020-11-24",
+  "source_id": 32720,
+  "chamber": "3",
+  "ilam_number": "26",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32720/",
+  "source_sha256": "7ec32e32842feaa07255af9520657f3f02be548db5c73753650b91bde59d8470",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
