@@ -1,0 +1,136 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7257",
+  "year": 2020,
+  "title": "Elektrik Piyasası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2020-11-25",
+  "adopted_as_published": "25/11/2020",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "02.12.2020 No: 31322",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507257.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 105",
+  "committee_reports": [
+    {
+      "label": "TBMM 238 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052016ss0238.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 896323,
+      "title": "Elektrik Piyasası Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": "25/11/2020",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507257.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 238 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052016ss0238.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 49,
+          "sitting": 2,
+          "sitting_date": "2020-10-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c049/tbmm27049002.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c049/tbmm27049fih.pdf",
+          "pages": [
+            "15"
+          ]
+        },
+        {
+          "cilt": 51,
+          "sitting": 11,
+          "sitting_date": "2020-11-03",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c051/tbmm27051011.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c051/tbmm27051fih.pdf",
+          "pages": [
+            "264"
+          ]
+        },
+        {
+          "cilt": 52,
+          "sitting": 16,
+          "sitting_date": "2020-11-17",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052016.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052fih.pdf",
+          "pages": [
+            "626:649"
+          ]
+        },
+        {
+          "cilt": 52,
+          "sitting": 17,
+          "sitting_date": "2020-11-18",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052017.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c052/tbmm27052fih.pdf",
+          "pages": [
+            "795:807",
+            "809.810",
+            "812:816",
+            "819:841"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 19,
+          "sitting_date": "2020-11-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c053/tbmm27053019.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c053/tbmm27053fih.pdf",
+          "pages": [
+            "108:145",
+            "147:152",
+            "162:182"
+          ]
+        },
+        {
+          "cilt": 53,
+          "sitting": 20,
+          "sitting_date": "2020-11-25",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c053/tbmm27053020.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c053/tbmm27053fih.pdf",
+          "pages": [
+            "246:250",
+            "252:262",
+            "264:266",
+            "268:270",
+            "270",
+            "271:274",
+            "274:276",
+            "277:279",
+            "280:282",
+            "283:287",
+            "288:292",
+            "293:297",
+            "297:299",
+            "300:305",
+            "306:309",
+            "311",
+            "313:325"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=101&v_kullanici_id=27483210",
+      "page_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e",
+  "issuer": "TBMM",
+  "in_force": "2020-11-25",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 25/11/2020; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
