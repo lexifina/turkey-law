@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "440",
+  "decision_date": "2020-11-26",
+  "source_id": 33090,
+  "chamber": "5",
+  "ilam_number": "37",
+  "item_number": 34,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33090/",
+  "source_sha256": "bac85a81ddf93e9b005355e05684d19639ac69aae0ec688275f9c833518ca329",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
