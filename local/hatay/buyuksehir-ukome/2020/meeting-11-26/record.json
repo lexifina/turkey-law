@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-26",
+  "number_as_published": "meeting-11-26",
+  "year": 2020,
+  "title": "26.11.2020 tarihli ve 2020/257-283 sayili UKOME Genel Kurul Kararlari",
+  "decision_date": "2020-11-26",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=4bc3bb41-7c7e-4536-9103-8c5932801e2c&page=8&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/08022021112219.pdf",
+  "source_sha256": "124a2e7338e67166df7f2623aac9786225658137edc340f1a516f4c56ae5f100",
+  "issuer": "Hatay Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-11-26",
+  "in_force_basis": "Decision date as printed in the official council listing: 26.11.2020; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "26.11.2020 tarihli ve 2020/257-283 sayili UKOME Genel Kurul Kararlari",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "26.11.2020",
+  "official_page": "https://www.hatay.bel.tr/ukome-kararlari"
+}
