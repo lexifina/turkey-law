@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "440",
+  "decision_date": "2020-11-26",
+  "source_id": 33077,
+  "chamber": "5",
+  "ilam_number": "37",
+  "item_number": 23,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33077/",
+  "source_sha256": "9f524c41a448e6e6ca33aa6593e2ac6c328bd33b102b0864b30962876611c167",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
