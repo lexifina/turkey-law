@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9729",
+  "decision_date": "2020-11-26",
+  "title": "Akmercan Delta Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-11-28",
+  "resmi_gazete_number": "31318",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=htARanlJ2nY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=htARanlJ2nY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c+vm4P40guA="
+  ],
+  "source_sha256": "fcebe415e318be97cd0a73431d6fa71b592c54b8132d8ccd26aad0466c44d82c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-11-26",
+  "law_text_complete": true
+}
