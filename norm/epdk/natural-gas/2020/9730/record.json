@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9730",
+  "decision_date": "2020-11-26",
+  "title": "Gazdaş Gaziantep Doğal Gaz Dağıtım Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik alınmış olan 11/07/2019 tarihli ve 8717 sayılı Kurul Kararı ile değişik 05/10/2017 tarihli ve 7338 sayılı Kurul Kararının revize edilmesine yönelik",
+  "resmi_gazete_date": "2020-11-28",
+  "resmi_gazete_number": "31318",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EvJszmgLa4A=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=EvJszmgLa4A=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xwjDyyQXblA="
+  ],
+  "source_sha256": "5e2c90a5dfcf73b53da22c510ab80639ab0b6aaf9829fedaa19d48d338e3c3dd",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-11-26",
+  "law_text_complete": true
+}
