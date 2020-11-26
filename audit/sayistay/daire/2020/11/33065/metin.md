@@ -1,0 +1,99 @@
+Personel atama
+
+....................... Belediyesinde zabıta komiseri olarak görünen ..........................’nın atandığı tarihte yürürlükte olan yönetmelikteki şartları taşımadığı halde zabıta komiserliğine atanması  suretiyle ............................. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+Türkiye Cumhuriyeti Anayasası’nın 128 inci maddesinde, devletin ve diğer kamu tüzel kişilerinin, genel idare esaslarına göre yürütmekle yükümlü oldukları kamu hizmetlerinin gerektirdiği asli ve sürekli görevlerin memurlar ve diğer kamu görevlileri eliyle görüleceği ve memurların nitelik, atanma, ödev, yetki, hak ve yükümlülükleri, aylık ve ödenekleri ve diğer özlük işlerinin kanunla düzenleneceği belirtilmiş, 657 sayılı Devlet Memurları Kanununda da memurların hizmet şartları, nitelikleri, hak ve yükümlülükleri ile parasal ve özlük hakları objektif kurallara bağlanarak hukuki statüleri belirlenmiştir. Bu bağlamda, Devlet personel rejimi ve bunun hukuki sujesi olan memurluk, statü hukukuna dayanmakta, kadroda bu hukukun ayrılmaz parçasını oluşturmaktadır. 657 sayılı Kanun'un 33 üncü maddesi ile kanun koyucu, her kurumda çalıştırılacak personelin tamamı için görev yerlerinin belirtilerek kadro tespiti zorunluluğunu getirmiş, kadrosuz memur çalıştırılamayacağını kurala bağlamıştır. Yasada, hizmetin önemi, hizmet yerinin özellikleri ve yoğunluğu gibi kriterler esas alınmak suretiyle personel kadrolarının tespit edilmesi ve bu hizmetleri göreceklerin kendi sınıfları içindeki derece durumlarına uygun olmak kaydıyla o kadronun aylığını almaları amaçlanmıştır. Kadro, memurun çalıştığı belli bir görev yerini ifade etmekte, memurun yapacağı iş, onun kadrosu ile ilişkili bulunmaktadır.
+
+Nitekim, 657 sayılı yasada devlet memurluğunda yükselmenin kariyer ve liyakat ilkeleri çerçevesinde yapılması esası benimsenmiştir.
+
+Bu kapsamda; 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin B fıkrasında, kurumların 1 ve 2’nci dereceli kadrolar için en az 10 yıl, 3 ve 4’üncü dereceli kadrolar için en az 8 yıl hizmeti bulunan ve yükseköğrenim görenlerin atanabileceği belirtilmiştir.
+
+18.04.1999 gün ve 23670 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin 2 nci maddesinde;  bu Yönetmeliğin belediyeler ile bunların kurdukları birlik, müessese ve işletmelere ait memur kadrolarında, müdür ve daha alt görevlere görevde yükselme mahiyetindeki asaleten atanmalarında uygulanacağı, “Görevde Yükselmeye İlişkin Esaslar” başlıklı ikinci bölümünün “Öğrenim düzeyi” başlıklı 5inci maddesinde; Devlet memurlarının Müdür ve Şube Müdürlüğüne atanabilmesi için en az dört yıllık yükseköğrenimim, şef kadrosuna atanabilmesi için en az iki yıllık yükseköğrenimim görmüş olmaları gerektiği, 11 inci maddesinde; Görevde yükselme eğitiminde başarılı olanların bu Yönetmelik kapsamında bulunan görevlere atanabilmeleri için kurumlarınca çıkarılacak görevde yükselme yönetmeliğine uygun olarak yapılacak sınava katılarak başarılı bulunmalarının şart olduğu, kurumların bu yönetmelik hükümlerine aykırı olmamak şartıyla kendi yönetmeliklerini çıkarabilecekleri düzenlenmiştir. Mahalli idarelerle ilgili ilk yönetmelik 02.02.2000 günlü, 23952 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren “İl Özel İdareleri,  Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmeliktir.” Bu yönetmeliğin iptaline ilişkin Danıştay 5. Dairesinin 2000/4306 Esas 2003/5767 sayılı kararında, yapılan düzenlemenin hukuka uygun olduğuna ve uyulması gereken norm olduğuna karar verilmiştir.  İdari yargı  (Danıştay) denetiminden geçen yönetmeliğe uygun olarak atamaların yapılması gerekir.
+
+02.02.2000 gün ve 23952 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren ve atamanın yapıldığı yılda yürürlükte olan İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmeliğin “Hizmet grupları” başlıklı 5 inci maddesinde; c) (Ek: 10/05/2001-24398) Zabıta Hizmetleri Grubunun 1) Zabıta amiri, 2) Zabıta baş komiseri, 3) Zabıta komiseri, 4) Zabıta komiser yardımcısı, 5) Zabıta memurundan oluştuğu,9’uncu maddesinin ilk cümlesinde, Eğitimini tamamlayanların bu Yönetmelik kapsamında bulunan görevlere atanabilmeleri için kurumlarınca yaptırılacak sınava katılarak başarılı olmalarının şart olduğu, “Öğrenim düzeyi” başlıklı 14 üncü maddesinde,
+
+“Bu Yönetmeliğe tabi personelde öğretim düzeyi ile ilgili olarak;
+
+k) (Ek: 10/05/2001-24398) Zabıta amiri, Zabıta baş komiseri, zabıta komiseri, itfaiye grup amiri, itfaiye başçavuşu kadrolarına atanabilmek için en az iki yıllık yükseköğrenimim, diğer kadrolara atanabilmek için en az orta öğrenim mezunu olmak,”
+
+düzenlemeleri yapıldıktan sonra “Hizmete ilişkin özel şartlar” başlıklı 15 inci maddesinde ise; hizmet süresi ile ilgili belirlemeler yapılmıştır. Yönetmeliğin Geçici 1 inci maddesinde de; “İhtiyaç duyulan hallerde bu Yönetmelik kapsamında bulunan personelden 18/4/1999 tarihinde görevde bulunanlar için bu Yönetmelikte öngörülen öğrenim düzeyinin bir alt öğrenim düzeyi esas alınabilir.”, “Zabıta ve itfaiye personeli” başlıklı 20 nci maddesinde; “İtfaiye ve zabıta personeli için ilgili yönetmeliklerinde belirlenen niteliklerin yanında, bu Yönetmelikte öngörülen görevde yükselmeye ilişkin usul ve esaslar uygulanır.
+
+Söz konusu personelin ilgili yönetmeliklerinde bulunan görevde yükselmeye ilişkin hükümler uygulanmaz.” denilmiştir.
+
+Yukarıdaki düzenlemelere göre kişinin zabıta komiserliğine atanabilmesi için en az iki yıllık yükseköğrenimim mezunu olması, belirli görevlerde belirli sürede bulunması ve yazılı sınavda başarılı olması gerekir.
+
+11.07.2007 gün ve 26490 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Belediye Zabıta Yönetmeliğinin “Görevde yükselme şartları” başlıklı 17 nci maddesinde,
+
+“(1) Bu Yönetmeliğin 6 ncı maddesinde sayılan unvanlardan daire başkanı ve zabıta müdürü dışındaki kadrolara yapılacak atamalarda aşağıdaki şartlar aranır.
+
+c) Zabıta komiserliğine atanabilmek için;
+
+1) En az lise mezunu olmak,
+
+2) 4 yıllık yükseköğrenimim mezunları için 2 yıl; 2 yıllık yüksekokul mezunları için 3 yıl, lise ve dengi okul mezunları için 4 yıl zabıta memuru olarak çalışmış olmak,
+
+3) Son üç yıllık sicil notu ortalaması en az iyi derecede olmak,
+
+4) Görevde yükselme sınavında başarılı olmak,
+
+5) Kadro durumu elverişli olmak,
+
+şartları aranır.
+
+(2) Belediyeler, atanılacak görevin niteliği itibariyle aranacak hizmet sürelerini, 657 sayılı Kanunun 68 inci maddesinin (B) bendi hükümlerine göre değerlendirerek kendi kurumlarında ve diğer kurumlarda geçen hizmet sürelerini dikkate alarak belirlerler. Bu sürelerin en az iki yılının zabıta teşkilatında geçmiş olması şarttır. Ancak, yeni kurulan belediyeler ile görevde yükselmeyle ilgili ilanlara başvuru olmaması halinde en az iki yıl çalışmış olmak şartı aranmaz.”
+
+“Yönetmelikte hüküm bulunmayan haller” başlıklı 51 inci maddesinde,
+
+“ (1) Bu Yönetmelikte hüküm bulunmayan hallerde;
+
+“ı) 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan, Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik,
+
+hükümleri uygulanır.”
+
+düzenlemeleri yapılmıştır.
+
+15.09.1997 tarihinde açıktan sınavla zabıta memuru olarak atanan ......................., 14.10.2007 tarihinde 4’üncü dereceli zabıta komiserliği kadrosuna sınava girmeden atanmıştır.14.10.1984 tarihinde ilköğretimden, 10.08.2000 tarihinde liseden ve 26.06.2015 tarihinde Yüksek Okul .............................. Üniversitesi Yüksekokulundan (ön lisans) mezun olmuştur.
+
+İdare/kamu hukukunda atama/görevlendirme belli şart ve niteliklere bağlanmıştır. Belirtilen kadrolara atanma veya görevlendirme ancak şartların sağlanmasıyla mümkündür.
+
+Yönetmelikte en az iki yıllık yükseköğrenimim mezunu olma şartı istendiği, bu kişinin 18.04.1999 tarihi itibariyle memur olarak çalışması ancak ilköğretim mezunu olması nedeniyle Yönetmeliğin Geçici 1 inci maddesinden faydalanamamaktadır. Ayrıca atandığı kadro derecesi itibariyle 657 sayılı Kanun’un 68/B maddesinde istenen yükseköğrenimim şartını da sağlamamaktadır. Bu nedenle Yönetmelikteki okul şartını sağlamamaktadır. ............................... atamanın yapıldığı tarihte atanacağı kadro için öngörülen okul ve sınav şartı yerine getirilmeden atanmıştır.
+
+11.07.2007 gün ve 26490 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Belediye Zabıta Yönetmeliğinin “Görevde yükselme şartları” başlıklı 17 nci maddesi esas alınırsa okul şartı sağlanmasına karşın görevde yükselme sınavında başarılı olmak şartı sağlanmamıştır.
+
+İçişleri Bakanlığının ............................ gün ve Mül. Tef. Ku.Bşk............................. sayılı kararında, “657 sayılı Devlet Memurları Kanunu’nun 76 ve 3’üncü maddesi ile 02.02.2000 tarihli İl Özel İdareleri Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik Müessese ve İşletmeler de Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik hükümlerinin atamanın yapıldığı tarihte yürürlükte olduğu ve görevde yükselme ve unvan değişikliği eğitim ve sınavı düzenlenmeden, bu hususta duyuruya çıkılmadan, başvurular alınmadan ilgili yapılan atamaların mevzuata aykırı olduğu anlaşıldığından denilerek atama yapanlar hakkında içişleri bakanının onayı ile soruşturma izni verilmiş, ............................ Asliye Ceza Mahkemesinin Esas .......................... ve Karar ......................... sayılı ilamında da İl Özel idareleri, Belediyeler ve özel idareler ve belediyelerin kurdukları birlik, müessese ve işletmeler ile bunlara bağlı döner sermayeli kuruluşlardaki memurların, görevde yükselme esaslarına dair yönetmelik hükümlerine aykırı olarak atamaların yapıldığının sabit görüldüğü ve sanıkların üzerlerine atılı Görevi Kötüye Kullanma suçunu işlediği sübut bulmakla ayrı ayrı cezalandırılmaları yoluna gidilerek, sanıkların ayrı ayrı 6'şar ay 7'şer gün hapis cezası ile cezalandırılmalarına ve CMK 231 maddesi gereğince hükmün açıklanmasının geri bırakılmasına ve sanıkların CMK 231/8 maddesi gereğince ayrı ayrı 5'er yıl süre ile denetim sürelerine tabi tutulmalarına karar verilmiştir.
+
+Sorumluluk yönünden yapılan inceleme;
+
+Yukarıda esası yönünden değerlendirilen hukuki işlemi 5018 sayılı Kanun’un 71 inci maddesinde düzenlenen kamu zararının unsurları ile fiil ve netice arasındaki illiyet bağı çerçevesinde değerlendirilecektir.
+
+5018 sayılı Kanunun 71 inci maddesinde, kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır, şeklinde tanımlanmıştır. Mevzuata aykırı işlem veya eylemlerin neticesinde ortaya çıkan bu zararı; kamu zararının objektif unsuru olarak kavramsallaştırılabiliriz. Kamu görevlilerinin varlığı, mevzuata aykırı karar, işlem veya eylemlerin varlığı ve kusur derecesinin belirlenmesine ilişkin hususları da kamu zararının sübjektif unsurları kapsamında değerlendirmek gerekmektedir.
+
+Nitekim 6085 sayılı Sayıştay Kanunu’nun 7 inci maddesinin üçüncü fıkrasında, “Sorumlular; mevzuata aykırı karar, işlem veya eylemleri ile illiyet bağı kurularak oluşturulan ilamda yer alan kamu zararından tek başlarına veya birlikte tazmin ile yükümlüdür.” denilerek sorumluların tazmin yükümlülüğü kamu zararı ile mevzuata aykırı karar, işlem veya eylemleri arasında illiyet bağının varlığına bağlanmıştır.
+
+Bahse konu mevzuat hükümlerini birlikte değerlendirdiğimizde; hesap yargılamasında kamu zararına birden fazla sorumlunun sebep olduğunun tespiti halinde oluşan bu zarardan söz konusu sorumluların müştereken ve müteselsilen sorumlu tutulmaları gerektiği de açıktır.
+
+Kural olarak bir mali karar, işlem veya eylemin yapılmasında görev alanlardan her birinin işlemi diğer işlemlerin nedeni olduğu takdirde herkes ortaya çıkan zarardan sorumlu tutulacaktır. Bu kapsamda, somut olayda atama işleminin gerçekleştirilmesi sürecince yer alan; zabıta memuru olarak çalışırken zabıta komiserliğine atama işlemini olura arz eden zabıta amir vekili ........................., teklif eden Personel Müdür Vekili ......................... ve onaylayan Belediye Başkanı ......................... hatalı atamadan dolayı sorumlu olduğu gibi yapılan atamanın mevzuata aykırı olduğu Bakanlık izni ve mahkeme kararıyla sabit olduğu belli olmasına karşın dönemin İnsan Kaynakları ve Eğitim Müdürü .......................... ile Belediye Başkanı ......................... atamanın iptalini yapmadıklarından dolayı sorumludurlar.
+
+Diğer taraftan Mevcut Harcama Yetkilisi ve Gerçekleştirme Görevlisine sorumluluk atfedilip sorgu tebliğ edilmiş ise de, Harcama Yetkilisi ve Gerçekleştirme Görevlisi olarak maaşlara imza atan kişilerin mevzuata aykırı atamadan haberdar olmalarının ancak sorgunun tebliği ile olduğu, mevzuata aykırı yapılan işlemi, sorgu tebliğ edilene kadar bilmedikleri değerlendirildiğinden yapılan ödemelerden kaynaklanan kamu zararından da sorumlu tutulamayacaktır. Yine, kamu görevlisinin kamu zararından sorumlu tutulabilmesi için, kamu görevlisinin mevzuata aykırı karar, işlem veya eylemi ile meydana gelen kamu zararı arasında uygun illiyet bağının bulunması gerektiği ifade edilmişti. Somut olayda gerçekleşen  mevzuata aykırı atama işleminin mevcut Belediye Başkanı ............................’ın görevde bulunduğu  dönemde gerçekleşmediği ve  kamu zararına neden olan süreçte de bulunmadığı anlaşıldığından Belediye Başkanı ..............................’a sorumluluk atfetmek 6085 sayılı  Kanunun 7 inci ve 5018 sayılı Kanunun 71 inci maddesi kapsamında mümkün değildir.
+
+Zabıta komiserliğine atanmak için yönetmelikteki okul ve sınav şartını taşımayan .........................’nın zabıta komiserliğine atanmadan önceki kadrosu zabıta memuru olduğu için fazla ödemenin hesabında zabıta komiseri ile zabıta memuru arasındaki farkın alındığı görülmüştür.
+
+Neticeten, kamu görevlilerinin ilk kez bir göreve atanırken ya da görevde yükselme suretiyle üst göreve atanırken söz konusu görevin gerektirdiği nitelikleri taşıması zorunludur. Bu zorunluluk atama tarihi bakımından geçerli olduğu gibi görevin sürdürüldüğü süre zarfı yönünden de taşınması gereklidir. Bu çerçevede ilgilinin bu kadroya atanabilmek için gereken sınav şartını taşımadığı açıktır. Bir görev için öngörülen koşulların taşınmaması halinde bu görevin belirli bir süre yürütülmüş olması ilgili lehine kazanılmış hak oluşturmaz. Söz konusu koşulların atama süresince de taşınması zorunlu olduğundan bu koşulun taşınmadığının daha sonra tespit edilmesi bu kişinin bu kadroda çalışmasına hukuki engel oluşturur.
+
+İstikrar bulan Danıştay kararlarında belirtildiği üzere idarelerin yokluk, açık hata, memurun gerçek dışı beyanı ve hilesi ile atama şartlarını taşımaması durumunda süre kaydı aranmaksızın bütün işlemleri geri alabileceği kuşkusuzdur. Kişinin mevzuata aykırı bir şekilde atanması açık hata kapsamında bulunmaktadır.
+
+Söz konusu kişinin ataması 18.03.2020 tarihinde iptal edildiği için atamanın iptali için Bakanlığa yazılmasına gerek bulunmamaktadır.
+
+Bu itibarla, .......................... Belediyesinde zabıta komiseri olarak görünen ......................’nın atandığı tarihte yürürlükte olan yönetmelikteki şartları taşımadığı halde zabıta komiserliğine atanması  sonucu oluşan ve ayrıntılı hesabı tabloda gösterilen ...................... TL kamu zararının;
+
+Atama işlemini olura arz eden Diğer Sorumlular; zabıta amir vekili ......................., teklif eden Personel Müdür Vekili ...................... ve onaylayan Belediye Başkanı ....................., yapılan atamanın mevzuata aykırı olduğu Bakanlık izni ve mahkeme kararıyla sabit olduğu belli olmasına karşın atamanın iptaliyle ilgili gerekli işlemi yapmayan dönemin İnsan Kaynakları ve Eğitim Müdürü .................... ile Belediye Başkanı .......................’a,
+
+Müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oyçokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+Üye .......................’in karşı oy gerekçesi;
+
+“Atama işleminin usulüne uygun olup olmadığını bilmesi gereken kişiler, düzenledikleri ödeme emirleriyle ödeme işlemini gerçekleştiren gerçekleştirme görevlileri ve harcama yetkilileridir. Bu kişiler ödeme işlemini gerçekleştirirken, ödemenin mevzuata uygunluğunu gözetmek ve aksi durumda gerekli düzeltme işlemini yapmakla yükümlüdür. ..........................Belediyesinin çok büyük bir kurum olmaması sebebiyle bu atamalardan habersiz oldukları düşünülemez. Bu kişiler ödeme işlemlerini gerçekleştirirken gerekli uyarıları yapmadıklarından sorumludurlar. Uyarılarına rağmen Belediye Başkanları ödemede ısrar etmiş olsaydılar Başkanlar tek başlarına sorumlu olurlardı. Anayasamıza göre alt konumda olan görevliler ancak yazılı olarak kanunsuz emirleri yerine getirmeye zorlanmaları durumunda sorumlu tutulamazlar. Açıklanan nedenlerle ödeme emirlerinde imzaları bulunan gerçekleştirme görevlileri ile harcama yetkilileri yapılan mevzuata aykırı ödemeden sorumlu oldukları değerlendirilmektedir.”
