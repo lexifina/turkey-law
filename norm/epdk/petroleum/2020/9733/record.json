@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9733",
+  "decision_date": "2020-11-26",
+  "title": "Opet Petrolcülük A.Ş.’nin; DEP/476-161/10881 sayılı Depolama Lisansı kapsamında Mersin Tesisine ilişkin depolama tarifesine ilişkin",
+  "resmi_gazete_date": "2020-11-28",
+  "resmi_gazete_number": "31318",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jfiWIkj+vZI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jfiWIkj+vZI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=brQnTDD4qrE="
+  ],
+  "source_sha256": "50da803ac5ef8f4daf6541d15836e190062cf1eed072007f676939c07de5350f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-11-26",
+  "law_text_complete": true
+}
