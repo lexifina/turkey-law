@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "674",
+  "decision_date": "2020-11-26",
+  "title": "council decision (subject withheld: may concern individual persons)",
+  "listed_as": null,
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/674-meckaresnaf-yardimidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/26-kasim-2020-meclis-kararlari",
+  "listing_sha256": "f270b2608acba17e9162107c7ba8df1f4bf9520e20b8004482ea72e6439945a7",
+  "meeting_title": "26 KASIM 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": true
+}
