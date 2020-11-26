@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9731",
+  "decision_date": "2020-11-26",
+  "title": "Trakya Bölgesi Doğal Gaz Dağıtım Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik alınmış olan 29/08/2019 tarihli ve 8805 sayılı Kurul Kararı ile değişik 29/03/2018 tarihli ve 7766 Kurul Kararı’nın revize edilmesine",
+  "resmi_gazete_date": "2020-11-28",
+  "resmi_gazete_number": "31318",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xfdqJIQi0zE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xfdqJIQi0zE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wT1hXk4yTp4="
+  ],
+  "source_sha256": "80a0f47784cffcf471f5013536963b40f1a5202f66746928c42fd6e2421a8f7e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-11-26",
+  "law_text_complete": true
+}
