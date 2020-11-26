@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "440",
+  "decision_date": "2020-11-26",
+  "source_id": 33069,
+  "chamber": "5",
+  "ilam_number": "37",
+  "item_number": 15,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33069/",
+  "source_sha256": "ced65b0bf159e9e3968279c9152f15fc8a46232a2ee5f2aaf791972a51d37aa1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
