@@ -1,0 +1,5 @@
+Yurt dışında bulunan varlıkların bildirimi üzerine banka veya aracı kurumlarca yapılacak işlemler
+MADDE 5 – (1) Gerçek ve tüzel kişiler yurt dışında bulunan varlıkları, iki nüsha olarak hazırlayacakları Ek-1'de yer alan form ile bankalara veya aracı kurumlara bildireceklerdir. Formun bir nüshası, ilgili banka veya aracı kurum tarafından, varsa bildirim nedeniyle açılan hesaba ilişkin bilgiler yazılıp tasdik edildikten sonra, düzenlenen banka dekontları veya işlem sonuç formlarıyla birlikte ilgilisine geri verilecektir.
+(2) Bildirimin gerçek veya tüzel kişinin vekili ya da kanuni temsilcisi tarafından yapılması halinde, bankalar veya aracı kurumlarca söz konusu vekil veya kanuni temsilcinin yetkili olup olmadığı hususu kontrol edilecektir.
+(3) Bildirime konu edilen varlıklara ilişkin olarak banka veya aracı kurumlar tarafından, bildirimde bulunanlardan herhangi bir belge istenilmeyecektir.
+(4) Banka veya aracı kurumlardan, bildirime konu edilen varlıklara ilişkin olarak vergi dairelerince herhangi bir belge istenilmeyecektir.

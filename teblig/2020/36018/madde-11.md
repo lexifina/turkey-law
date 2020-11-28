@@ -1,0 +1,7 @@
+İnceleme ve tarhiyat yapılmayacak haller
+MADDE 11 – (1) Geçici 93 üncü maddenin yedinci fıkrası uyarınca, bildirimde bulunulan varlıklar nedeniyle hiçbir suretle vergi incelemesi ve vergi tarhiyatı yapılmayacaktır. Bu hükümden yararlanabilmek için;
+a) Yurt dışında bulunan bildirime konu varlıkların bildirimin yapıldığı tarihten itibaren üç ay içinde Türkiye’ye getirilmesi ya da Türkiye’deki banka veya aracı kurumlarda açılacak bir hesaba transfer edilmesi,
+b) Türkiye’de bulunan ve taşınmazlar dışındaki bildirime konu varlıkların ise banka veya aracı kurumlardaki hesaplara yatırıldığını gösterir belgelerle tevsik edilmesi,
+gerekmektedir.
+(2) Bildirilen varlıkların, yurt dışında bulunan banka veya finansal kurumlardan kullanılan ve 17/11/2020 tarihi itibarıyla kanuni defterlerde kayıtlı olan kredilerin en geç 30/6/2021 tarihine kadar kapatılmasında kullanılması mümkün olup, defter kayıtlarından düşülmesi kaydıyla, borcun ödenmesinde kullanılan varlıklar için Türkiye’ye getirilme şartı aranmaksızın vergi incelemesi ve vergi tarhiyatı yapılmaması imkanından yararlanılacaktır.
+(3) 17/11/2020 tarihi itibarıyla kanuni defterlerde kayıtlı olan sermaye avanslarının, yurt dışında bulunan para, altın, döviz, menkul kıymet ve diğer sermaye piyasası araçlarının anılan tarihten önce Türkiye’ye getirilmek suretiyle karşılanmış olması halinde, söz konusu avansların defter kayıtlarından düşülmesi kaydıyla, vergi incelemesi ve vergi tarhiyatı yapılmaması imkanından yararlanılabilecektir.

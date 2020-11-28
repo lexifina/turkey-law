@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Türkiye’de Bulunan Varlıkların Bildirimi
+Türkiye’de bulunan varlıkların bildirimi
+MADDE 6 – (1) Gelir veya kurumlar vergisi mükelleflerince sahip olunan ve Türkiye'de bulunan, ancak kanuni defter kayıtlarında yer almayan; para, altın, döviz, menkul kıymet ve diğer sermaye piyasası araçları ile taşınmazlar, madde kapsamında 30/6/2021 tarihine (bu tarih dâhil) kadar Ek-2’de yer alan bildirim ile gelir veya kurumlar vergisi yönünden bağlı olunan vergi dairelerine elektronik ortamda bildirilebilecektir.
+(2) Yurt içinde sahip olunan ancak kanuni defter kayıtlarında yer almayan para, altın, döviz, menkul kıymet ve diğer sermaye piyasası araçları ile taşınmazlar, madde kapsamında bildirim konusu yapılabilecektir.
+(3) Anılan madde kapsamında, taşınmazlar dışındaki bildirime konu varlıkların, gelir veya kurumlar vergisi mükelleflerince banka veya aracı kurumlardaki hesaplara yatırılması gerekmektedir. Bu minvalde, bildirime konu kıymetlerin banka veya aracı kurumlara yatırılarak varlıklarının ispatlanması ve banka ve aracı kurumlarca düzenlenmesi zorunlu belgelerle tevsiki şarttır.
+(4) Geçici 93 üncü madde kapsamında bildirilen taşınmazların ayni sermaye olarak konulmak suretiyle işletme kayıtlarına alınması halinde, sermaye artırım kararının bildirim tarihi itibarıyla alınmış olması ve söz konusu kararın bildirim tarihini izleyen onuncu ayın sonuna kadar ticaret siciline tescil edilmesi kaydıyla, bu madde hükümlerinden faydalanılabilir.
+(5) Yurt içinde bulunan varlıklar için gelir veya kurumlar vergisi mükelleflerince vergi dairelerine tek bir bildirim verilmesi esastır. Ancak, 30/6/2021 tarihine kadar birden fazla bildirimde (düzeltme amacıyla yapılan bildirimler dâhil) bulunulması mümkündür.
