@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.36017",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ANKARA BİLİM ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "36017",
+  "issuer": "ANKARA BİLİM ÜNİVERSİTESİ",
+  "issuer_slug": "ankara-bilim-universitesi",
+  "path": "regulation/ankara-bilim-universitesi/2020/36017",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36017&MevzuatTertip=5",
+  "source_sha256": "dda925b56b314937ba03477265851e744a3ff76f13ba66d66df05c5bcb1a9ac0",
+  "source_bytes": 25872,
+  "published": "2020-11-28",
+  "gazette": "31318",
+  "in_force": "2020-11-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.11.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1111,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
