@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.17236",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULAŞTIRMA VE HABERLEŞME UZMANLIĞI İLE DENİZCİLİK UZMANLIĞI YÖNETMELİĞİ",
+  "number": "17236",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2013/17236",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17236&MevzuatTertip=5",
+  "source_sha256": "a74f9ada89b478012cd24ac1091bd0ad377f996c3cb5455df94f9cfb8766766f",
+  "source_bytes": 75547,
+  "published": "2013-03-27",
+  "gazette": "28600",
+  "in_force": "2020-11-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/11/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-11-28",
+      "RG-28/11/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-11-28",
+      "28/11/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3594,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Giriş sınavı duyurusu
+MADDE 6 – (1) Sınava katılma şartları, son başvuru tarihi, başvuru yeri, başvuruda istenecek belgeler, KPSS puanı ve türü, atama yapılacak kadroların sınıfı ve dereceleri, hangi alandan kaç uzman yardımcısının alınacağı, sınava girebileceklerin sayısı, sınavın yeri, zamanı, içeriği ve değerlendirme yöntemi ile gerekli görülen diğer hususlar son başvuru tarihinden en az bir ay önce Resmî Gazete’de, Türkiye genelinde yayımlanan tirajı en yüksek ilk beş gazetenin en az birinde ve Bakanlığın internet sayfasında ilân verilmek suretiyle duyurulur.

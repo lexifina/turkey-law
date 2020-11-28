@@ -1,0 +1,1 @@
+[1] 15/1/2019 tarihli ve 30656 (Mükerrer) sayılı Resmi Gazete’de yayımlanan değişiklik ile yönetmeliğin adı “Ulaştırma Ve Haberleşme Uzmanlığı, Havacılık ve Uzay Teknolojileri Uzmanlığı İle Denizcilik Uzmanlığı Yönetmeliği” iken yönetmeliğe işlendiği şekilde değiştirilmiştir.

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 35 – (1) 16/10/2009 tarihli ve 27378 sayılı Resmî Gazete’de yayımlanan Ulaştırma ve Haberleşme Uzman ve Uzman Yardımcılarının Sınav, Atama, Çalışma Usul ve Esasları Hakkında Yönetmelik ile 22/4/2007 tarihli ve 26501 sayılı Resmî Gazete’de yayımlanan Denizcilik Müsteşarlığı Denizcilik Uzman Yardımcılığı Giriş Sınavı ve Denizcilik Uzmanlığı Yeterlik Sınavı ile Denizcilik Uzmanlarının Çalışma Usul ve Esasları Hakkında Yönetmelik yürürlükten kaldırılmıştır.

@@ -1,0 +1,3 @@
+Uzman yardımcılığına atama
+MADDE 15 – (1) Adayların uzman yardımcılığına atanmaları başarı derecesi sıralamasına göre yapılır. Sınavda başarılı olup göreve başlamayanların veya ataması yapılıp herhangi bir sebeple görevden ayrılanların yerine, yedek listedeki adaylardan en yüksek puan alan yedek adaydan başlamak üzere atama yapılabilir. Yedek adayların hakları Giriş Sınavı sonuçlarının açıklanmasından itibaren altı ay geçerlidir.
+(2) Giriş sınavı sonucu atanarak göreve başlatılanlar, onbeş gün içinde (Değişik ibare:RG-28/11/2020-31318) Aile, Çalışma ve Sosyal Hizmetler Bakanlığı ve ÖSYM’ye bildirilir.

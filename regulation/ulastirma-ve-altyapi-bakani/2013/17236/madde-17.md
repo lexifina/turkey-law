@@ -1,0 +1,3 @@
+Sınav komisyonu
+MADDE 17 – (1) (Değişik:RG-28/11/2020-31318) Sınav komisyonu; ilgili Bakan Yardımcısı ya da uzman yardımcısının istihdam edileceği birimin amirinin başkanlığında, birim amirinin yardımcısı, daire başkanı ile uzmanlardan, başkan dâhil olmak üzere beş üyeden oluşur. Ayrıca aynı nitelikleri haiz üç kişi sınav komisyonu yedek üyesi olarak belirlenir. İhtiyaç duyulması halinde üniversite öğretim üyeleri arasından en fazla iki kişi sınav komisyonu asil üyesi olarak görevlendirilebilir. Öğrenim dalları itibariyle ayrı ayrı kontenjan belirlenmesi halinde birden fazla sınav komisyonu oluşturulabilir.
+(2) Sınav komisyonu asil ve yedek üyelerini belirlemeye Bakan yetkilidir.
