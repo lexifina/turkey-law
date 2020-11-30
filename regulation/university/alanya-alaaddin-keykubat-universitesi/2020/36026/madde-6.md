@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Disiplinler arası bir uygulama ve araştırma alanı olan çocuk çalışmalarıyla ilgili Üniversitenin ilgili akademik birimlerinin eğitim, öğretim, araştırma ve geliştirme faaliyetlerine katılımını sağlamak.
+b) 0-18 yaşlar arasındaki; normal gelişim gösteren, özel gereksinimi olan veya özel gereksinimli olup kurumda yaşayan, çalışan, mülteci ve suça itilmiş korunmaya muhtaç çocuklar ve hastanede yatan çocukların eğitim, psikolojik, sosyolojik, sağlık ve hukuki gereklerine uygun tüm gelişim alanlarını destekleyici programlar geliştirmek, aileye, profesyonellere ve topluma hizmet sunmak amacıyla çocuk gelişimi alanında; eğitim, uygulama ve araştırma hizmeti vermek.
+c) Merkezin amacı doğrultusunda ilgili kamu kurumları ve sivil toplum kuruluşlarıyla ilgili mevzuat hükümleri kapsamında bilimsel işbirliği çerçevesinde danışmanlık faaliyetlerini sürdürmek.
+ç) İlgili mevzuat hükümleri kapsamında çocukla ilgili farklı disiplinlerden bilim insanları ile uzmanları bir araya getirerek, ulusal ve/veya uluslararası araştırma/geliştirme/eğitim projeleri oluşturmak ve yürütülmesini sağlamak.
+d) Merkezde yürütülen çalışmaların sonuçlarını, çocukların yüksek yararını gözeterek çeşitli platformlarda ilgili profesyoneller, sivil toplum kuruluşları ve kurumlarla paylaşmak.
+e) İlgili mevzuat hükümleri kapsamında çocuk ile ilgili ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans gibi bilimsel aktiviteler düzenlemek, kitap, dergi, broşür yayımlamak, yazılı ve görsel basın organlarında programlar düzenlemek.
+f) Çocuk ile ilgili konularda aydınlatıcı, bilimsel nitelikte bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını ve toplumsal bilincin geliştirilmesini sağlamak.
+g) Bebeklik, erken çocukluk, okul öncesi, okul çağı ve ergenlik dönemlerindeki normal gelişim gösteren ve/veya özel gereksinimli tüm çocukların sağlık, gelişim ve eğitim hizmetlerine daha rahat ulaşmasını sağlamak amacıyla Merkez bünyesinde gerekli birimleri kurmak ve çalışmalarını takip etmek.
+ğ) Üniversitenin çocukla ilgili her alanda öğrenim gören ön lisans, lisans ve lisansüstü öğrencileri ile Üniversitede ilgili alanda çalışan öğretim elemanları için araştırma ve bilimsel çalışma ortamları hazırlamak ve öğrencilere uygulama olanağı sağlamak.
