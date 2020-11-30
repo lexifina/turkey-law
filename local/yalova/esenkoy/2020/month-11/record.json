@@ -1,0 +1,31 @@
+{
+  "number": "month-11",
+  "year": 2020,
+  "month": 11,
+  "title": "9- Kasım 2020 Ayı 2. Birleşim Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2020-11-30",
+  "date_precision": "month",
+  "period": "Kasım 2020",
+  "source": "https://www.esenkoy.bel.tr/mecliskararlari",
+  "official_page": "https://www.esenkoy.bel.tr/mecliskararlari",
+  "official_document": "https://www.esenkoy.bel.tr/upload/mecliskararlari/U4eaf0e0UqVf1og.doc",
+  "source_sha256": "a97a6b5ae0769b41844d7d608b5f6921179526613ed5dddf45b0201ce569862c",
+  "issuer": "Esenköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-11-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Kasım 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "9- Kasım 2020 Ayı 2. Birleşim Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "file_name": "U4eaf0e0UqVf1og.doc",
+  "list_date": "2020-11-11",
+  "list_number": "9- Kasım 2020 Ayı 2. Birleşim Meclis Karar Özetleri"
+}
