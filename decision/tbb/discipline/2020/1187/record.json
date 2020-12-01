@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1187",
+  "date": "2020-12-01",
+  "title": "T. 1.12.2020 E. 2020/782 K. 2020/830",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1187",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=2&yil=2020",
+  "listing_sha256": "f3a51fc5db69b9cd7e2df4bbfe70373bd1492b582a747104bf11ca2ece7f7a84",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
