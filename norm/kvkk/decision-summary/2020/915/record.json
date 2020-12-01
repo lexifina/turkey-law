@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/915",
+  "source_id": 6872,
+  "date": "2020-12-01",
+  "title": "“Belediyede memur olarak görev yapan ilgili kişinin, veri sorumlusu bünyesinde işe giriş çıkış takibinin biyometrik veri işlenerek yapılması” hakkında Kişisel Verileri Koruma Kurulunun 01/12/2020 tarihli ve 2020/915 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6872/2020-915",
+  "source_sha256": "2432a5b17a98378d6cb1dc89981e01a60553b95a14affb60e2dfa989f0afa88e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
