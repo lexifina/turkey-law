@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "244",
+  "decision_date": "2020-12-01",
+  "source_id": 32339,
+  "chamber": "4",
+  "ilam_number": "8",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32339/",
+  "source_sha256": "11d0abc07a47498517661aebb9d76370c475c6a1477b503b3ba837861468d982",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
