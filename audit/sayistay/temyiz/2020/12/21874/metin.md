@@ -1,0 +1,5 @@
+Kesin teminatın güncellemeden kaydedilmesi ve gecikme cezasının kesilmemesi (Alacak davası açılmış ve alacak kaydı yapılmış):
+
+2- 157 sayılı İlamın 7. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’nın itiraz başvurusu üzerine düzenlenen 45518 sayılı dosya, 02.12.2020 tarihli ve 48525 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan açıklamalar doğrultusunda -İdarece yapılan işlemler ve sorumlular tarafından gönderilen belgeler de incelenerek- konu hakkında 6085 sayılı Kanunun 50 inci maddesinin birinci fıkrası kapsamında verilebilecek hükümler ve kararlar bağlamında yeniden hüküm tesis edilmesini/karar verilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; yukarıda adı geçen sorumluyu ilgilendiren ve aynı mahiyette olan 45428 sayılı işbu dosyanın da sözü edilen (45518 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 02.12.2020 tarih ve 48526 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
