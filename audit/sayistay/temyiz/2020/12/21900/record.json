@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48542",
+  "decision_date": "2020-12-02",
+  "source_id": 21900,
+  "chamber": "2",
+  "file_number": "43521",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21900/",
+  "source_sha256": "dbe52b7fd8ad293bad75755c63406f9d66e122a98d5034e4fd2a5fc03f150f16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
