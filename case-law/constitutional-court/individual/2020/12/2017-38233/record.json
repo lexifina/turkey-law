@@ -1,0 +1,20 @@
+{
+  "applicant": "M.R.T.A.Ş.",
+  "application_date": "2017-11-24",
+  "application_number": "2017/38233",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2020-12-02",
+  "id": "fa675d85-67aa-22d9-ac69-0f3f0ea51d42",
+  "in_force": "2020-12-02",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZhNjc1ZDg1LTY3YWEtMjJkOS1hYzY5LTBmM2YwZWE1MWQ0Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9f32a9f01d6fbee78a5851fdff0f42dfa49566ebe858ec26d8d75ab1a651f9aa",
+  "version_label": "as-enacted"
+}
