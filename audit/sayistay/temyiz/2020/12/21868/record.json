@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48521",
+  "decision_date": "2020-12-02",
+  "source_id": 21868,
+  "chamber": "4",
+  "file_number": "46600",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21868/",
+  "source_sha256": "7d90f6a144f9ccc393ccaaf1276f4112012e46bb7bae7994996c64a302c745e4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
