@@ -1,16 +1,15 @@
 Yürütme
 Madde 15- Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-9389
-I Sayılı Cetvel (29/12/2010 tarihli ve 6094 sayılı Kanunun hükmüdür.)
-Yenilenebilir Enerji Kaynağına Dayalı Üretim Tesis Tipi | Uygulanacak Fiyatlar (ABD Doları cent/kWh)
-a. Hidroelektrik üretim tesisi | 7,3
-b. Rüzgar enerjisine dayalı üretim tesisi | 7,3
-c. Jeotermal enerjisine dayalı üretim tesisi | 10,5
-d. Biyokütleye dayalı üretim tesisi (çöp gazı dahil) | 13,3
-e. Güneş enerjisine dayalı üretim tesisi | 13,3
-9390
+(Değişik:25/11/2020-7257/22 md.) I Sayılı Cetvel
+Yenilenebilir Enerji Kaynağına Dayalı Üretim Tesis Tipi | Uygulanacak Fiyatlar
+a. Hidroelektrik üretim tesisi | 7,3 (ABD Doları cent/kWh)
+b. Rüzgar enerjisine dayalı üretim tesisi | 7,3 (ABD Doları cent/kWh)
+c. Jeotermal enerjisine dayalı üretim tesisi | 10,5 (ABD Doları cent/kWh)
+ç. Biyokütleye dayalı üretim tesisi (çöp gazı dâhil) | 13,3 (ABD Doları cent/kWh)
+d. Güneş enerjisine dayalı üretim tesisi | 13,3 (ABD Doları cent/kWh)
+e. 10/5/2019 tarihinden itibaren bağlantı anlaşmasına çağrı mektubu almaya hak kazanılan yenilenebilir enerji kaynaklarına dayalı lisanssız elektrik üretim faaliyeti kapsamındaki tesisler | EPDK tarafından TL kuruş/kWh olarak ilan edilen kendi abone grubuna ait perakende tek zamanlı aktif enerji bedeli
 II Sayılı Cetvel (29/12/2010 tarihli ve 6094 sayılı Kanunun hükmüdür.)
-Tesis Tipi | Yurt İçinde Gerçekleşen İmalat | Yerli Katkı İlavesi (ABD Doları cent/kWh)
+Tesis Tipi | Yurt İçinde Gerçekleşen İmalat | Yerli Katkı Fiyatları[17] (ABD Doları cent/kWh)
 A- Hidrolelektrik üretim tesisi | 1- Türbin | 1,3
 2- Jeneratör ve güç elektroniği | 1,0
 B- Rüzgar enerjisine dayalı üretim tesisi | 1- Kanat | 0,8
@@ -39,4 +38,3 @@ E- Biyokütle enerjisine dayalı üretim tesisi | 1- Akışkan yataklı buhar ka
 F- Jeotermal enerjisine dayalı üretim tesisi | 1- Buhar veya gaz türbini | 1,3
 2- Jeneratör ve güç elektroniği | 0,7
 3- Buhar enjektörü veya vakum kompresörü | 0,7
-9390-1
