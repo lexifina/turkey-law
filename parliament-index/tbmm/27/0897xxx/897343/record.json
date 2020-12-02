@@ -1,0 +1,75 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897343,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "title": "TBMM fihrist kaydı 897343 (Teklifler / Temel Kanun Teklifleri)",
+  "first_sitting_date": "2020-12-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 54,
+      "sitting": 22,
+      "sitting_date": "2020-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c054/tbmm27054022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c054/tbmm27054fih.pdf",
+      "pages": [
+        "112:130",
+        "134:140",
+        "142:147",
+        "149:165"
+      ]
+    },
+    {
+      "cilt": 54,
+      "sitting": 23,
+      "sitting_date": "2020-12-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c054/tbmm27054023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c054/tbmm27054fih.pdf",
+      "pages": [
+        "233:238",
+        "240:261",
+        "262:274",
+        "282:293",
+        "293:302"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 37,
+      "sitting_date": "2020-12-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059037.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059fih.pdf",
+      "pages": [
+        "59:64",
+        "65:70",
+        "70:71",
+        "71:74",
+        "75:77",
+        "77:91",
+        "92:114",
+        "115:125",
+        "126:165",
+        "165:180",
+        "183:187",
+        "187:190",
+        "191:203"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=101&v_kullanici_id=27484797",
+  "source_sha256": "c9bbea1bd4e461fb5a6fa75bef0e22b922464ba12085c30ba27ec0e4bef17f00",
+  "in_force": "2020-12-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: entry may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
