@@ -1,0 +1,2 @@
+Geçici Madde 3 – Bu kanunun yürürlüğe girdiği tarihte çarşı ve mahallat bekçi teşkilatına ait her türlü taşınır, taşınmaz mallar ve kıymetlerle, para ve alacaklar, borç ve taahhütler ve teçhizat, elbiseler ve araçlar, bekçi hizmetlerinde kullanılmak kaydiyle il özel idarelerine devredilir.
+25 Nisan 1966 tarihine kadar tahakkuk etmiş bekçi ücretleri ve bakayası da 6183 sayılı Amme Alacaklarının Tahsili Usulü Hakkındaki Kanuna göre il özel idarelerince tahsil edilir ve ek bekçi teşkilatı bütçesine irat kaydolunur.

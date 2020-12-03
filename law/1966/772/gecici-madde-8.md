@@ -1,0 +1,1 @@
+Geçici Madde 8 – Bütçelerinin aylık ve ücret tertiplerinde ödenek bulunmaması sebebiyle bekçi ücretlerini ödiyemiyen özel idareler borçlanmak suretiyle bekçi ücretlerini ödemişlerse borçlanılan miktar geçici 6 ncı maddenin 1 inci fıkrasındaki hükme göre tahsil edilen bekçi parasından alınmak suretiyle mahsub edilir.

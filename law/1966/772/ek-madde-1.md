@@ -1,0 +1,3 @@
+Ek Madde 1 – (25/7/1967 - 920/2 md. ile gelen ek madde hükmü olup teselsül için numaralandırılmıştır.)
+Çarşı ve Mahalle Bekçileri Teşkilatının personel, yönetim ve hizmet masrafları ile araç, gereç, kurs ve diğer her türlü masrafları ve yönetmelikle tespit olunan giyecek, silah ve teçhizat masrafları Devletçe, il özel idareleri 1967 yılı ek bütçelerine bu maksatla konulmuş bulunan ödenekler toplamını geçmemek üzere, il özel idarelerine ödenir.
+Ancak, yeni kurulacak belediyelerle, teşekkül edecek çarşı ve mahalleler için masrafa yapılacak ilaveler ve bekçi teşkilatı masrafları için her il'e tahsis edilecek ödeneğin tevzi esas ve usulleri her yıl İçişleri ve Maliye Bakanlıklarınca müştereken tespit edilir.

@@ -1,0 +1,1 @@
+Madde 17 – Çarşı ve mahalle bekçileri işten birlikte veya kamu hizmetlerini aksatacak şekilde münferiden çekilemiyecekleri gibi, sendika kuramaz, kurulmuş sendikalara iştirak edemez, siyasi parti ve teşekküllere giremez, siyasi faaliyette bulunamaz ve grev yapamazlar.

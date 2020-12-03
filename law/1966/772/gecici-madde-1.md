@@ -1,0 +1,2 @@
+Geçici Madde 1 – İntibak şekil ve esasları valinin veya görevlendireceği vali muavininin başkanlığında emniyet müdürü, il Jandarma komutanı, özel idare müdürü ve il daimi komisyon üyelerinden birinin katılması ile kurulacak bir kurul tarafından tesbit edilir ve uygulanmak üzere atamaya yetkili amirlere bildirilir.
+Şu kadar ki, intibak suretiyle verilecek ücret, halen ödenmekte olan ücretten aşağı olamaz.

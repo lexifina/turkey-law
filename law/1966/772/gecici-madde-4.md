@@ -1,0 +1,1 @@
+Geçici Madde 4 – Bu kanunun yürürlüğe girdiği tarihte il genel meclisleri toplantı halinde değilse, bu kanunla il genel meclisine verilmiş olan görev ve yetkiler bir defaya mahsus olmak üzere il daimi encümenlerince ifa olunur.

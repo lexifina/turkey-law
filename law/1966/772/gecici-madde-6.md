@@ -1,0 +1,1 @@
+Geçici Madde 6 – Bu kanunun yürürlüğe girdiği yıla mahsus olmak üzere bekçi paraları tahakkuk ve tahsil edilinceye kadar bekçi teşkilatı mensuplarına verilecek ücretler, mevcut bekçi paraları ile karşılanamazsa bilahare mahsubu yapılmak üzere il özel idarelerince aylık ve ücret tertiplerinden ödenir.

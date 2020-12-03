@@ -1,0 +1,4 @@
+Geçici Madde 2 – Bu kanunun yürürlüğe girdiği tarihte 29 Nisan 1330 tarihli çarşı ve Mahallat Bekçileri hakkındaki Kanuna göre çalıştırılan bekçibaşı, bekçi, bekçi adayı ve bekçi bürosu personelinden iki seneden fazla fasılasız hizmeti bulunanların bu kanunda belirtilen tahsil şartını haiz olmasalar dahi kesin olarak intibakları yapılır.
+İki seneden az hizmeti bulunanlardan ilkokul mezunu ve 60 yaşını geçmemiş olanların aday olarak intibakları yapılır ve bunlar hakkında bu kanunun 9 uncu maddesi hükmü uygulanır.
+Bu intibaklar atamaya yetkili amirlerce yapılır.
+İntıbak sırasında 60 yaşını doldurması sebebiyle ilişiği kesilenlerden, fasılasız 5 seneye kadar (5 sene dahil) hizmeti olanlara 2500 lira, 10 seneye kadar (10 sene dahil) hizmeti olanlara 4000 lira, 10 seneden fazla hizmeti olanlara da 5000 lira tazminat verilir.
