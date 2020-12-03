@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10801",
+  "decision_date": "2020-12-03",
+  "source_id": 32775,
+  "chamber": "1",
+  "ilam_number": "168",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32775/",
+  "source_sha256": "be98381b335529b0750c687893b9fc4aaeb22b1dbd6f206a0a43ea66cf6b4a94",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
