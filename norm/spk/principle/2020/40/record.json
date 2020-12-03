@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "40",
+  "decision_number": "75/1482",
+  "date": "2020-12-03",
+  "title": "Kurul'un i-SPK 48.11 (03/12/2020 Tarih ve 75/1482 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/40",
+  "source_sha256": "f11556a4a516a9b8a2fde47bef6c60994f9ed848bc2e09ab6d6718e127f5036e",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 40,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’ nın i-SPK 48.11 (03/12/2020 tarih ve 75/1482 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2020-12-03",
+    "source_clauses": [
+      "1. Kurul Karar Organı’ nın i-SPK 48.11 (03/12/2020 tarih ve 75/1482 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "00260d70-667c-4a38-a5db-15218255c7d9",
+    "contentSource": "IlkeKarari",
+    "contentID": 40,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK 48.11 (03/12/2020 Tarih ve 75/1482 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2020-12-03T01:00:00",
+    "kurulKararTarih": "03.12.2020",
+    "kurulToplantiNo": "75/1482",
+    "bultenYili": 2020,
+    "bultenNo": 74,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "163:Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 163,
+        "value": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "8:Kolektif Yatırım Kuruluşları;25:Gayrimenkul Yatırım Ortaklıkları",
+    "ilgiliKonular": [
+      {
+        "key": 8,
+        "value": "Kolektif Yatırım Kuruluşları"
+      },
+      {
+        "key": 25,
+        "value": "Gayrimenkul Yatırım Ortaklıkları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/40",
+    "linkTarget": "_blank"
+  }
+}
