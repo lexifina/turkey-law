@@ -1,0 +1,6 @@
+Denetim, haksız ödemelerin geri alınması ve hak mahrumiyeti
+MADDE 18 – (1) Onaylanan yatırımın termin planına uygun olarak yapılıp yapılmadığı il proje yürütme birimi tarafından denetlenir. Yatırımın tamamlanması ve hak edişlerin ödenmesi sonrasında inşaat, makine, alet ve ekipman açısından üç yıl süre ile yılda en az bir defa olmak üzere il proje yürütme birimince işletmeler denetlenir. Yapılacak kontrol ve denetimler sonucunda tespit edilen hata veya noksanlıkların, uygulama rehberinde belirlenen süre içerisinde yatırımcı tarafından giderilmesinin zorunlu olduğu yazı ile yatırımcıya bildirilir.
+(2) Bu Tebliğ ile uygulama rehberinde yer almayan hususlarda taşrada oluşacak problemlerin çözümünde, yürürlükteki mevzuat çerçevesinde kalmak koşulu ile il müdürlükleri yetkilidir.
+(3) Destekleme ödemeleri ile ilgili hususlarda denetimi sağlayacak tedbirleri Bakanlık alır.
+(4) Haksız ödendiği tespit edilen destekleme ödemeleriyle ilgili alacaklar, ödemenin yapıldığı tarih itibarıyla 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre yasal faizi ile birlikte geri alınır.
+(5) Kararla belirlenen destekleme ödemelerinden, idari hata sonucu düzenlenen belgelerle yapılan ödemeler hariç olmak üzere, haksız yere yararlandığı tespit edilen yatırımcılar beş yıl süreyle hiçbir destekleme programından yararlandırılmazlar.

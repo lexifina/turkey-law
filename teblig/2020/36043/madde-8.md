@@ -1,0 +1,3 @@
+İpekböcekçiliği
+MADDE 8 – (1) Bu Tebliğ kapsamında Bakanlıkça belirlenecek illerde dut bahçesi tesisi, ipek böceği besleme evi inşası, makine, alet ve ekipman alımından gerçek ve tüzel kişiler yararlandırılır.
+(2) Kararın yürürlüğü süresince faaliyet alanı ipekböceği besleme/flatürle ipek çekimi olan tüzel kişilik vasıflarına haiz kooperatif/işletmelerin ipekböcekçiliği konusunda aynı ilde birden fazla veya çeşitli illerde yapacağı dut bahçesi tesisi, ipek böceği besleme evi inşaatı, makine, alet ve ekipman alımları tek bir proje olarak kabul edilir, projenin tamamlanan kısımları için ayrı ayrı veya birlikte ödeme yapılabilir.

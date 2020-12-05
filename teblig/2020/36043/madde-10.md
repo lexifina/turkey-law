@@ -1,0 +1,3 @@
+Yatırım süresi
+MADDE 10 – (1) Yatırıma ilişkin uygulama, yer tespit tutanağının düzenlendiği tarih itibari ile başlar ve bir yıl içerisinde bitirilir. Yatırım projesinin belirlenen sürede tamamlanmaması halinde yatırımcının gerekçesi ile yapacağı yazılı başvurusu üzerine, il proje değerlendirme komisyonunun uygun görüşü doğrultusunda, merkez proje değerlendirme komisyonunca yatırımcıya bir defaya mahsus olmak üzere bir yıl ek süre verilebilir.
+(2) Termin planına göre yükümlülüklerini yerine getirmeyen, yatırımını tamamlamayan veya yatırım yapmaktan vazgeçen yatırımcının projesi il değerlendirme komisyonu tarafından iptal edilir ve hibe desteğinden yararlandırılmazlar.
