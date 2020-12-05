@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-10-27",
+      "27.10.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-12-05",
+      "RG-5/12/2020-31325",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-05",
+      "5/12/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-5/12/2020-31325",
+  "first_law": null,
+  "gazette": "29158",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2014/20165",
+  "published": "2014-10-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20165&MevzuatTertip=5",
+  "source_bytes": 32388,
+  "source_id": "8.5.20165",
+  "source_sha256": "5de422913ca05166adc03670659dc4701966a1e5bf5224625e64bcd8385de2e9",
+  "text_status": "current-consolidated",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ TASARIM, MİMARLIK VE KENT ARAŞTIRMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 1163
+}
