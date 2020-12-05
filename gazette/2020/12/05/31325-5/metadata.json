@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-05",
+  "issue": "31325",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yerli Hayvan Irk ve Hatlarının Tescili Hakkında Tebliğ (Tebliğ No: 2004/39)’de Değişiklik Yapılmasına Dair Tebliğ (No: 2020/33)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201205-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201205.htm",
+  "index_sha256": "06b6ab81c27fa1b8aec9315a06b3ca6b47fcf868c76c878855a3b73bf2833cbc",
+  "index_header": "5 Aralık 2020 ... 31325 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201205.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
