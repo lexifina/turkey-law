@@ -1,0 +1,6 @@
+Bilimsel hazırlık programına öğrenci kabulü
+MADDE 14 – (1) Başvurulan yüksek lisans veya doktora programı öncesindeki eğitim düzeyinde eksiklikleri belirlenmiş olan öğrencilere, bu eksikliklerini gidermek amacıyla aşağıda belirtilen koşullar çerçevesinde bilimsel hazırlık programı uygulanabilir:
+a) Bilimsel hazırlık programı kapsamında, lisans dersleri veya başka bir lisans programından dersler aldırılabilir. Bu dersler, ilgili programı tamamlamak için gerekli görülen derslerin yerine geçemez.
+b) Bilimsel hazırlık programında alınacak dersler ile ilgili devam, sınavlar, başarı puanları ve diğer esaslar için öğrencinin ders aldığı programın tabi olduğu mevzuat hükümleri uygulanır. Ancak koşullu durumdaki dersler başarısız kabul edilir.
+(2) Bilimsel hazırlık programında geçirilecek süre en çok iki yarıyıldır, yaz öğretimi bu süreye dâhil edilmez, bu süre dönem izinleri dışında uzatılamaz ve bu Yönetmelikte belirtilen yüksek lisans veya doktora programı sürelerine dâhil edilmez. Bilimsel hazırlık programını tamamlayamayan adayların Enstitü ile ilişkileri kesilir.
+(3) Bu madde kapsamına giren bir öğrencinin bilimsel hazırlık programı, birinci ve ikinci fıkralarda yer alan hükümler dikkate alınarak anabilim dalı tarafından hazırlanır ve akademik takvime göre ders kayıtları başlamadan önce Enstitü Yönetim Kurulunda onaylanır.

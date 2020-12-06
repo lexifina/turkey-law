@@ -1,0 +1,11 @@
+Mazeret, izin ve öğrenime ara verme
+MADDE 48 – (1) Öğrencilere haklı ve geçerli mazeretleri nedeniyle, mazeretlerini olayın meydana geldiği tarihten itibaren en geç on gün içinde Enstitüye yazılı olarak bildirmeleri ve belgelendirmeleri halinde, Enstitü Yönetim Kurulunca en çok beş gün mazeret izni verilebilir.
+(2) Öğrencilerin, sağlık kuruluşlarından alacakları sağlık raporunu, raporun bitiş tarihinden itibaren en geç beş gün içinde bir dilekçe ekinde Enstitüye bildirmeleri gerekir.
+(3) Mazeretlerini belgelendirmeleri ve yazılı olarak başvurmaları koşuluyla, öğrencilere Enstitü Yönetim Kurulu kararı ile aşağıda belirtilen, normal öğretim süresinden sayılmayan izinler verilebilir:
+a) Sağlık kuruluşlarından alınan ve öğretim dönemini kapsayan en az iki aylık sağlık raporu olan öğrencilere, en çok iki yarıyıla kadar,
+b) Öğrencilerden; her yarıyılın ders başlangıcından itibaren on beş gün içerisinde belgelendirmek şartı ile eğitim, öğretim, araştırma, görevlendirme, yurt dışına çıkma ve/veya benzeri nedenlerle, en çok iki yarıyıla kadar,
+c) Öğrenim süresi içinde askere gitmek isteyen öğrencilere, askerlik süresi kadar,
+izin verilebilir.
+(4) Mazeretleri Enstitü Yönetim Kurulunca kabul edilen veya öğrenimine ara verilen öğrenciler, raporlu ya da mazeretli veya öğrenimine ara verilen süre içinde derslere veya ders sınavlarına ya da tez savunma sınavlarına giremez. Bu süre içinde girilen dersler ve ders sınavları ile yapılan tez savunma sınavları geçersiz sayılır.
+(5) Verilen izin süresi içinde, öğrencinin Enstitü Yönetim Kurulunca kabul edilen geçerli talebi üzerine, verilen iznin kalan kısmı iptal edilebilir. Ancak, izin nedeninin geçerli olmadığının belirlenmesi halinde, verilen izin iptal edilir ve o tarihe kadar izinde geçen süre öğrenim süresinden sayılır.
+(6) Öğrenimine ara veren öğrencilerin; geçerli nedenleri ortadan kalktıktan sonra, on gün içinde duruma ilişkin belgelerle birlikte, öğrenimlerine kaldıkları yerden devam etmek üzere, Enstitüye yazılı olarak başvurmaları gerekir. Başvurunun süresi içinde yapılmaması ya da belgelerin Enstitü Yönetim Kurulunca yeterli görülmemesi durumunda öğrenime ara verme süresi iptal edilir. Verilen süre, öğrenim süresinden sayılır.

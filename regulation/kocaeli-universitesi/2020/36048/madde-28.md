@@ -1,0 +1,3 @@
+Süre
+MADDE 28 – (1) Yüksek lisans programının süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarı ile tamamlayamayan veya bu süre içerisinde Üniversitenin ön gördüğü başarı koşullarını/ölçütlerini yerine getiremeyen, genel not ortalaması 4 üzerinden en az 2,50 olmayan, azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin ilişiği kesilir.

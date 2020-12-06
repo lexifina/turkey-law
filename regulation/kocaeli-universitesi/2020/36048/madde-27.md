@@ -1,0 +1,7 @@
+Programın amacı ve kapsamı
+MADDE 27 – (1) Yüksek lisans programının amacı, öğrencinin bilimsel araştırma veya uygulama yaparak bilgiye erişme, bilgiyi değerlendirme, yorumlama ve üretme yetkinliği kazanmasını sağlamaktır.
+(2) Yüksek lisans programı, bir eğitim-öğretim yılı 60 AKTS kredisinden az olmamak koşulu ile seminer dersi dâhil en az sekiz ders ve tez çalışması olmak üzere toplam en az 120 AKTS kredisinden oluşur.
+(3) Öğrenci alacağı derslerin; Seminer ve Bilimsel Araştırma Teknikleri ile Araştırma ve Yayın Etiği dersleri hariç olmak üzere, en az üçünü kabul edildiği lisansüstü programından almak zorundadır. Seminer dersi ve tez çalışması başarılı veya başarısız olarak değerlendirilir. Seminer sunumları herkese açık bir şekilde yapılır.
+(4) Anabilim dalının önerisi ve Enstitü Yönetim Kurulunun kararı ile tez çalışmasına bir proje çalışması da eklenebilir. Öğrenci, yüksek lisans programında 40 AKTS ders yükünü başardıktan sonra tez çalışmasına kayıt yaptırabilir.
+(5) Danışmanın ve anabilim dalı başkanlığının önerisi ve Enstitü Yönetim Kurulunun kararı ile öğrenci, alacağı derslerin lisans öğrenimi sırasında alınmamış olması koşuluyla, en çok ikisini lisans derslerinden seçebilir. Bu dersler için, 19 uncu maddede belirlenen başarı ölçütleri esas alınır. Ayrıca, danışmanın ve anabilim dalı kurulunun önerisi, Enstitü Yönetim Kurulunun kararı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders seçilebilir.
+(6) Tezler, Enstitünün tez yazım kurallarına uygun biçimde Türkçe ya da İngilizce olarak yazılır.

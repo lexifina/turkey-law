@@ -1,0 +1,7 @@
+Doktora tez savunma sınavı
+MADDE 43 – (1) Tez savunma sınavı, tezin sunulması ve bunu izleyen soru-cevap bölümünden oluşur. Savunma sınavı adayın çalışmasıyla ilgili konularda bilgi, yorumlama ve sentez gücünü değerlendirmeyi amaçlar. Sınav yeri ve tarihi en az yedi gün önce anabilim dalı başkanlığınca ilan edilir. Sınav en çok 120 dakika sürelidir.
+(2) Tez savunma sınavı dinleyicilere açık yapılır; ancak öğrenciye yalnız jüri üyeleri soru sorar.
+(3) Tez savunma sınavının tamamlanmasından sonra jüri, dinleyicilere kapalı olarak tez hakkında salt çoğunlukla kabul, ret veya düzeltme kararı verir. Bu karar, anabilim dalı başkanlığınca sınavı izleyen üç gün içinde Enstitüye tutanakla bildirilir.
+(4) Tezi kabul edilen öğrenci, jüri üyelerinin de önerileriyle son haline getirilmiş tezini Enstitü tez yazım kurallarına uygun hazırlayıp ciltlenmiş olarak, en geç bir ay içerisinde Enstitüye teslim eder. Enstitü Yönetim Kurulu talep halinde teslim süresini en fazla bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve bu süresinin dolması halinde Üniversite ile ilişiği kesilir.
+(5) Tezi hakkında jüri tarafından düzeltme kararı verilen öğrenci, bir kez verilecek en çok altı aylık ek süre içinde gerekli düzeltmeleri yaparak tezini aynı jüri önünde yeniden savunması gerekir. Bu savunmada da başarısız bulunan öğrencinin Üniversite ile ilişiği kesilir.
+(6) Tezi başarısız bulunarak reddedilen öğrencinin Üniversite ile ilişiği kesilir.
