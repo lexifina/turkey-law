@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 31 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-12-06",
+      "06.12.2020",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 31 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31326",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nuh Naci Yazgan Üniversitesi",
+  "issuer_slug": "nuh-naci-yazgan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nuh-naci-yazgan-universitesi/2020/36049",
+  "published": "2020-12-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36049&MevzuatTertip=5",
+  "source_bytes": 113653,
+  "source_id": "8.5.36049",
+  "source_sha256": "1b2f94926d17fff7153d2672fe06e9d0de033b4191bbbb3c573c6ec9d2f5bace",
+  "text_status": "as-enacted",
+  "title": "NUH NACİ YAZGAN ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 330,
+  "word_count": 3292
+}

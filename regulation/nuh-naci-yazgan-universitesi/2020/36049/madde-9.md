@@ -1,0 +1,3 @@
+Öğrenim ücreti, indirim ve burslar
+MADDE 9 – (1) Fakültede eğitim-öğretim ücretlidir. Yıllık öğrenim ücreti ile öğrencilere verilecek burslar, indirimler ve bunlara ilişkin esaslar, her yıl Mütevelli Heyet tarafından belirlenir ve ders yılı başında ilan edilir.
+(2) Öğrencilerin her eğitim-öğretim yılı başında, ders kayıtları öncesinde öğrenim ücretini ödemeleri gerekir. Öğrenim ücretini, belirlenen taksitler ve süreler içerisinde ödemeyen öğrencinin kaydı yenilenmez. Mazeretleri kabul edilen öğrencilerin, süresi içerisinde ödemedikleri öğrenim ücretini, ilgili mevzuat hükümlerine göre belirlenen gecikme faizi ile birlikte ödemeleri gerekir.

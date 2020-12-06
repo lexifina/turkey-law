@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Akademik danışman: Öğrenciye eğitim-öğretim, ders alma işlemleri ve benzeri konularda yardımcı olması için görevlendirilmiş öğretim elemanını,
+b) Anabilim dalı: Nuh Naci Yazgan Üniversitesi Diş Hekimliği Fakültesine bağlı anabilim dalını,
+c) AKTS: Avrupa Kredi Transfer Sistemini,
+ç) Bahar yarıyılı: Çift sayılı yarıyılları,
+d) Dekanlık: Nuh Naci Yazgan Üniversitesi Diş Hekimliği Fakültesi Dekanlığını,
+e) Ders yılı: Güz ve Bahar yarıyıllarından oluşan bir eğitim-öğretim yılını,
+f) Güz yarıyılı: Tek sayılı yarıyılları,
+g) Fakülte: Nuh Naci Yazgan Üniversitesi Diş Hekimliği Fakültesini,
+ğ) Fakülte Kurulu: Nuh Naci Yazgan Üniversitesi Diş Hekimliği Fakülte Kurulunu,
+h) Fakülte Yönetim Kurulu: Nuh Naci Yazgan Üniversitesi Diş Hekimliği Fakülte Yönetim Kurulunu,
+ı) Genel ağırlıklı not ortalaması (GANO): Her bir dersten elde edilen başarı notunun AKTS kredisi ile çarpılmasından elde edilen sonuçların toplamının, toplam AKTS kredisine bölünmesi ile bulunacak değeri,
+i) Mütevelli Heyet: Nuh Naci Yazgan Üniversitesi Mütevelli Heyetini,
+j) Öğrenci İşleri Daire Başkanlığı: Nuh Naci Yazgan Üniversitesi Öğrenci İşleri Daire Başkanlığını,
+k) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+l) Senato: Nuh Naci Yazgan Üniversitesi Senatosunu,
+m) Üniversite: Nuh Naci Yazgan Üniversitesini,
+n) Üniversite Yönetim Kurulu: Nuh Naci Yazgan Üniversitesi Yönetim Kurulunu,
+o) YÖK: Yükseköğretim Kurulunu,
+ifade eder.
