@@ -1,0 +1,14 @@
+{
+  "capture_mode": "metadata-only",
+  "decision_date": "2020-12-07",
+  "history_type": "as-enacted",
+  "in_force": "2020-12-07",
+  "in_force_basis": "Official council decision header \"Karar No:1640 07.12.2020\"; decision/adoption date of metadata record.",
+  "number": "1640",
+  "source": "https://s.ankara.bel.tr/files/1716/0883/2883/K20_1640.docx",
+  "source_listing": "https://www.ankara.bel.tr/meclis/kararlar?page=615",
+  "source_number": "1640",
+  "source_sha256": "56c1b8a61f44a7efeff79a524e747470718a218e09508874448ef8dc81f2d03d",
+  "text_withheld_reason": "Attached meeting minutes contain individual property matters: metadata and official link only.",
+  "title": "Ankara Büyükşehir Belediye Meclisi Karar No: 1640"
+}
