@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "366",
+  "decision_date": "2020-12-08",
+  "source_id": 32464,
+  "chamber": "3",
+  "ilam_number": "11",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32464/",
+  "source_sha256": "f688eb4ee00174e90b63310107122226d04d7df212abae79d325872b10a2f821",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
