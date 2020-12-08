@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "188",
+  "decision_date": "2020-12-08",
+  "source_id": 32266,
+  "chamber": "8",
+  "ilam_number": "223",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32266/",
+  "source_sha256": "7d4b120010940333ad6f7c6234d64d279f4a1001ad6a775c3ae1f8e58eb0a189",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
