@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/927",
+  "source_id": 6871,
+  "date": "2020-12-08",
+  "title": "“Unutulma hakkı kapsamında ilgili kişinin arama motorunda adı ve soyadı ile bağlantılı sonuçların kaldırılması talebi”ne ilişkin Kişisel Verileri Koruma Kurulunun 08/12/2020 tarihli ve 2020/927 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6871/2020-927",
+  "source_sha256": "fc0723525456a345e4e534aca47b23f1f3e5620d8e0ab40e618de1e2e643b577",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
