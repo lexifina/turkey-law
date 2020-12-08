@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "696",
+  "decision_date": "2020-12-08",
+  "title": "-MEC.KAR.(AKDENİZ 15000 NİP DEĞİŞİKLİĞİ).doc",
+  "listed_as": "696-MEC.KAR.(AKDENİZ 15000 NİP DEĞİŞİKLİĞİ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/696-meckarakdeniz-15000-nip-degisikligidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/8-aralik-2020-meclis-kararlari",
+  "listing_sha256": "f28ed8393f53af332f17cee2fb774286d866af3c7735bd3868771c9fcba88b9a",
+  "meeting_title": "8 ARALIK 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
