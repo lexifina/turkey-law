@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/934",
+  "source_id": 7035,
+  "date": "2020-12-08",
+  "title": "“Enerji sektöründe faaliyet gösteren veri sorumlusunun veri ihlali bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 08/12/2020 tarih ve 2020/934 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7035/2020-934",
+  "source_sha256": "68b0b6a358fc308de11cb8b9dd4f3ed890a0460c4fe894b93a8783cf07cc0059",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
