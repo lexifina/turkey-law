@@ -1,0 +1,3 @@
+Ek ödenekler
+Madde 20 – Bütçedeki limitler dışında ek ödeneğe ihtiyaç duyulduğunda, gerekçeli ek ödenek teklifleri Muhasebe ve Mali İşler Müdürlüğüne yapılır. Muhasebe ve Mali İşler Müdürlüğü ek ödenek tekliflerini gerekçeli olarak Müdürlük Makamı'na takdim eder. (Değişik cümle: RG-9/12/2020-31329-C.K-3276/6 md.) Müdürlük Makamının uygun görüşü sonucu; ünitelere ait ek ödenek teklifleri Atatürk Orman Çiftliği Müdürü kararı ile, genel idare giderleriyle ilgili ek ödenek teklifleri ise Atatürk Orman Çiftliği Müdürünün teklifi, Tarım ve Orman Bakanlığının olumlu görüşü ve Hazine ve Maliye Bakanlığının onayı ile kesinlik kazanır.
+Yukarıda belirtilen işlemler tamamlanmadıkça bir ödeme bulunulamaz ve ödeme yetkisi verilemez.

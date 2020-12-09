@@ -1,0 +1,2 @@
+Bütçe genel talimatı
+Madde 9 – A.O.Ç. Müdürlüğü, her yıl işletme bütçelerinin kapsamı, hazırlama şekli ile programının hazırlanmasında açıklık, doğruluk, karşılaştırmayı mümkün kılma, tasarruf ve iş verimini arttırma prensiplerinin gözönünde bulundurulmasını içeren bir talimatı Ağustos ayı içerisinde ünitelere gönderir. Üniteler, bütçe tekliflerini A.O.Ç. Müdürlüğüne Eylül ayı sonuna kadar verirler.
