@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "52796708-120[49520]-E.18554",
+  "source_id": 21283,
+  "date": "2020-12-09",
+  "title": "Ortaklığın sona erdirilip aynı faaliyete kendi nam ve hesabına devam edilmesi, önceden yararlanılan genç girişimcilerde kazanç istisnasının ihlali olmadığı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21283",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "34b3b4bcc73e975b6697a0ba1d54208a1659cf5c1e630e95504cdcfe39284917",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
