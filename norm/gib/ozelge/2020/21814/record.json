@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-120[94-2019/20-755]-E.114148",
+  "source_id": 21814,
+  "date": "2020-12-09",
+  "title": "Serbest meslek erbabına banka tarafından yapılan prim ödemesinde tevkifat uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21814",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b12ec0479402ff7e7e604f8d1d81463d599ab070c283bc8a284d7c0d44a71ecf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
