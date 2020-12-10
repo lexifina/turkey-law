@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.36054",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN SAYILMAYAN TAPULU TAŞINMAZLAR ÜZERİNDEKİ AĞAÇ VE AĞAÇÇIKLARDAN FAYDALANILMASI HAKKINDA YÖNETMELİK",
+  "number": "36054",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2020/36054",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36054&MevzuatTertip=5",
+  "source_sha256": "ff1ee7015ee2fefbbdbed6941a2af6376afa06b1a051578bd0deec3f3178473c",
+  "source_bytes": 60060,
+  "published": "2020-12-10",
+  "gazette": "31330",
+  "in_force": "2020-12-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.12.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3792,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.36054-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

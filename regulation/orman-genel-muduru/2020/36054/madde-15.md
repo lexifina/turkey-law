@@ -1,0 +1,7 @@
+Hizmet giderleri
+MADDE 15 – (1) Orman Kanununun 116 ncı maddesinin (B) fıkrasında ve bu Yönetmeliğin 5 inci maddesinin ikinci ve üçüncü fıkralarında belirtilen yerlerde yapılacak pazar satışları için hizmet gideri; arazi incelemelerine katılacak işletme şefliği heyeti, işletme müdürlüğü heyeti ve uygunluk kontrolü yapacak olanlara ödenecek her türlü yol giderleri ve gündelikleri ile zaruri olarak kullanılan resmî hizmet vasıtalarının işletme giderleri toplamından oluşur. Buna göre hesaplanan hizmet gideri her yılbaşında Orman Genel Müdürlüğü tarafından orman bölge müdürlüklerine bildirilir. Hizmet gideri talep sahibince avans olarak orman idaresine yatırılır. Arazi incelemeleri, uygulamaları ve kontrollerine katılacak işletme şefliği heyeti, işletme müdürlüğü heyeti ve uygunluk kontrolü yapacak olanlara ödenecek hizmet bedeli avans olarak alınan hizmet giderinden karşılanır, artan bedel ilgilisine iade edilir. Hizmet bedeli ödemeleri 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine tabi değildir.
+(2) Hizmet gideri yatırılmadan arazi incelemesine çıkılmaz.
+(3) İtiraz incelemelerinden hizmet gideri alınmaz.
+(4) Hizmet bedeli ödenmesi ve mahsup işlemleri, sarf evrakına dayalı olarak işletme müdürlüğünce usulüne göre yapılır.
+(5) Her parsel için ayrı dosya açılır, giderler ayrı ayrı hesaplanarak tahsil edilir.
+(6) Avansların tahsili ile hesaplardan yapılacak her türlü ödeme ve iade işlemleri orman işletme müdürlüğünce genel hükümlere göre kontrol edilir.

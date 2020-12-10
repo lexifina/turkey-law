@@ -1,0 +1,4 @@
+Belgelerin araziye uygulanması, arazi inceleme raporu
+MADDE 10 – (1) Bu Yönetmeliğin 5 inci maddesinin ikinci ve üçüncü fıkralarında belirtilen pazar satışları için müracaat evraklarının incelenmesi, arazi keşfi ve belgelerin araziye uygulanması ile arazi inceleme raporunun tanzimi serbest ormancılık büro ve şirketleri tarafından yapılır. İşletme müdürlüğü heyeti tarafından Oda onaylı işlem dosyası evrakları arazide ve büroda kontrol edilerek hazırlanan arazi inceleme raporu, işletme müdürlüğü onayına gönderilir.
+(2) Arazi inceleme raporunun, işletme müdürlüğünce uygun görülmesi halinde onaylanarak, Oda onaylı işlem dosyasının bir takımı işletme şefliğine gönderilir. Uygun görülen veya görülmeyen taleplerin neticesi, işletme müdürlüğünce gerekçeleri açıklanmak suretiyle on beş gün içinde talep sahibine bildirilir.
+(3) Orman alanlarına bitişik tapulu taşınmazların orman sınır aplikasyonu işletme müdürlüğü/işletme şefliği heyetince yapılır.
