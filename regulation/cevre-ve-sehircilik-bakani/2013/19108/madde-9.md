@@ -1,0 +1,4 @@
+Hayvanlar ve insanlar üzerindeki testler
+MADDE 9 – (1) (Değişik:RG-10/12/2020-31330 Mükerrer) Bu Yönetmeliğin amacı bakımından yeni testlerin yapılması durumunda, 13/12/2011 tarihli ve 28141 sayılı Resmî Gazete’de yayımlanan Deneysel ve Diğer Bilimsel Amaçlar İçin Kullanılan Hayvanların Refah ve Korunmasına Dair Yönetmelik ile 15/2/2014 tarihli ve 28914 sayılı Resmî Gazete’de yayımlanan Hayvan Deneyleri Etik Kurullarının Çalışma Usul ve Esaslarına Dair Yönetmelik kapsamında hayvanlar üzerinde uygulanacak olan testler, yalnızca veri güvenilirliğini ve kalitesini sağlayan başka bir alternatif yöntemin olmaması durumunda gerçekleştirilir.
+(2) Bu Yönetmeliğin amacı bakımından, insan dışındaki primatlar üzerinde de test yapılmaz.
+(3) Bu Yönetmeliğin amacı bakımından, insanlar üzerinde test yapılmaz. Ancak, klinik çalışmalar gibi, diğer kaynaklardan elde edilen veriler bu Yönetmeliğin amacı doğrultusunda kullanılabilir.

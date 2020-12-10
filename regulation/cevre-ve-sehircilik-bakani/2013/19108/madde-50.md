@@ -1,0 +1,2 @@
+Koruma hükmü
+MADDE 50 – (1) (Değişik ibare:RG-10/12/2020-31330 Mükerrer) İlgili Kurum, bu Yönetmeliğin tüm koşulları yerine getirilse bile, madde veya karışımın sınıflandırma, etiketleme veya ambalajlamadan kaynaklanan nedenlerle insan sağlığı ve çevre için ciddi risk oluşturduğuna dair haklı sebepleri varsa uygun olan geçici önlemleri alabilir. Böyle bir durumda (Değişik ibare:RG-10/12/2020-31330 Mükerrer) İlgili Kurum, Yetkili Mercii 15 gün içerisinde haberdar eder ve verdiği kararın nedenlerini bildirir.

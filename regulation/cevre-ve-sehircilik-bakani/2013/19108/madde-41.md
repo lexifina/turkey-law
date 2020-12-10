@@ -1,0 +1,12 @@
+Bildirimde bulunma yükümlülüğü
+MADDE 41 – (1) 40 ıncı maddede belirtilen maddeleri piyasaya arz eden imalatçı veya ithalatçı veya imalatçı veya ithalatçı grupları 43 üncü maddede ayrıntıları verilen envantere maddenin dâhil edilmesi için aşağıdaki bilgileri, Yetkili Mercie (Değişik ibare:RG-10/12/2020-31330 Mükerrer) Kimyasal Kayıt Sistemi aracılığıyla sunar:
+a) (Değişik:RG-10/12/2020-31330 Mükerrer) Maddeyi piyasaya arz etmekten sorumlu bildirimde bulunanın Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğin Ek-6’sının 1 numaralı başlığında yer alan kimliği.
+b) (Değişik:RG-10/12/2020-31330 Mükerrer) Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğin Ek-6’sının 2.1 ila 2.3.4 numaralı başlıklarında yer alan maddenin kimliği.
+c) 15 inci maddeye uygun olarak maddenin sınıflandırması.
+ç) Maddenin, bazı zararlılık sınıflarına veya farklılaşmalara göre sınıflandırılamaması durumunda, bu durumun sınıflandırmaya dair veri yokluğundan, verilerin sonuca ulaştırıcı nitelikte olmamasından veya sonuca ulaştırıcı nitelikte olup yetersiz olmasından kaynaklanıp kaynaklanmadığına ilişkin bilgi.
+d) (Değişik:RG-10/12/2020-31330 Mükerrer) Uygun durumda, 12 nci maddeye göre özel konsantrasyon sınır değerleri veya M- katsayıları ile birlikte Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğin Ek-1’inin 1, 2 ve 3 numaralı başlıklarına uygun gerekçeler.
+e) Maddeye ilişkin 19 uncu maddenin birinci fıkrası (ç), (d) ve (e) bentlerinde belirtilen etiketleme bilgileri ile birlikte maddenin, 27 nci maddeye uygun olarak belirlenmiş ilave zararlılık ifadesi.
+(2) 17 nci maddenin birinci fıkrasında belirtilen gözden geçirme işlemine uygun olarak maddenin sınıflandırmasının ve etiketlemesinin değiştirilmesine karar verilmiş ise bildirimde bulunan birinci fıkrada yer alan bilgileri güncelleyerek Yetkili Mercie bildirir.
+(3) Maddelerin piyasaya arz edilmelerini takip eden bir ay içinde, birinci fıkraya uygun olarak bildirimde bulunulur.
+(4) Kendi halinde veya karışım içinde maddelerin ithal edilmesi durumunda, ithalatçı birinci, ikinci ve üçüncü fıkralarda belirtilen hükümleri, yükümlülük kendisinde olmak üzere, yurtdışında yerleşik gerçek veya tüzel kişilerin bir akitle belirlediği Türkiye’de yerleşik temsilcileri aracılığı ile de yerine getirebilir.
+(5) (Ek:RG-10/12/2020-31330 Mükerrer) Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğe göre kaydı yapılan maddeler için, tekrar bildirim yapılmasına gerek yoktur.

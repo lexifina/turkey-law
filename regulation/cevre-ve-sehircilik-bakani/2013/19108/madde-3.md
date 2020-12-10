@@ -1,0 +1,5 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik;
+a) (Değişik:RG-10/12/2020-31330 Mükerrer) 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi, 24/4/1930 tarihli ve 1593 sayılı Umumi Hıfzıssıhha Kanunu, 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu, 29/6/2001 tarihli ve 4703 sayılı Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun ve 14/8/1987 tarihli ve 87/12028 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tekel Dışı Bırakılan Patlayıcı Maddelerle Av Malzemesi ve Benzerlerinin Üretimi, İthali, Taşınması, Saklanması, Depolanması, Satışı, Kullanılması, Yok Edilmesi, Denetlenmesi Usul ve Esaslarına İlişkin Tüzüğe dayanılarak,
+b) 31/12/2008 tarihli Avrupa Birliği Resmî Gazetesi’nde yayımlanan 1272/2008 sayılı Madde ve Karışımların Sınıflandırılması, Etiketlenmesi ve Ambalajlanması Hakkındaki Avrupa Parlamentosu ve Avrupa Konseyi Tüzük hükümlerine paralel olarak,
+hazırlanmıştır.

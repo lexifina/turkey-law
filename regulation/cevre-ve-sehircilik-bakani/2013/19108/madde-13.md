@@ -1,0 +1,3 @@
+Eşik değerler
+MADDE 13 – (1) Zararlı olarak sınıflandırılan bir maddenin tanımlanmış bir safsızlık, katkı veya bileşen halinde bir başka maddeyi içerdiği durumlarda, tanımlanmış safsızlık, katkı veya bileşenin konsantrasyonu, ek-1’in birinci bölümünün 1.1.2.2 numaralı başlığında belirtilen eşik değerine eşit veya fazla ise, sınıflandırma amacıyla bu durum göz önüne alınır.
+(2) Zararlı olarak sınıflandırılan maddeyi, bileşen, tanımlanmış bir safsızlık veya katkı maddesi olarak içeren karışımın sınıflandırılmasında, konsantrasyonu ek-1’in birinci bölümünün 1.1.2.2 numaralı başlığında belirtilen eşik değerine eşit veya fazla olan maddeler dikkate alınır.
