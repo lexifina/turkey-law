@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "411",
+  "decision_date": "2020-12-10",
+  "source_id": 32596,
+  "chamber": "7",
+  "ilam_number": "162",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32596/",
+  "source_sha256": "034651d4f44ae4cdea67ea78c7fcc26d8404e90cacf8a01b8d35a29a437f8bc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
