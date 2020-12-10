@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.36053",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "ANKARA BİLİM ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "number": "36053",
+  "issuer": "ANKARA BİLİM ÜNİVERSİTESİ",
+  "issuer_slug": "ankara-bilim-universitesi",
+  "path": "regulation/ankara-bilim-universitesi/2020/36053",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36053&MevzuatTertip=5",
+  "source_sha256": "6d13de9ee477912330301b0ed3666b4df71b2a8dcfaf2087d38f532dc8661283",
+  "source_bytes": 87917,
+  "published": "2020-12-10",
+  "gazette": "31330",
+  "in_force": "2020-12-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.12.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6011,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
