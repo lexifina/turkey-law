@@ -1,0 +1,17 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-920295",
+  "source_id": 28955,
+  "date": "2020-12-10",
+  "title": "GİB özelge 39044742-130[Özelge]-920295",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28955",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "text_status": "metadata-only: the official text shows a 11-digit number (possible national ID); official link only",
+  "privacy_withheld": true,
+  "law_text_complete": false
+}
