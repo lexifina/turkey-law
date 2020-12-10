@@ -1,0 +1,22 @@
+{
+  "number": "198",
+  "number_as_published": "2020/198",
+  "year": 2020,
+  "title": "Rami Cuma Mahallesi, 272 ada, 12 parselde plan tadilatı",
+  "decision_date": "2020-12-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2020-aralik-ayi-meclis-kararlari/1843",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-198/1847",
+  "source_sha256": "51967c9fa984093f8cabf76b8b21325129b4307bff8f06116c2f0aca1e2b92f5",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-12-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.12.2020 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "371fdf6601625d5d631cf2bc7c7cab887a6cae963bb4c82c6cc7ac8227f7b736"
+}
