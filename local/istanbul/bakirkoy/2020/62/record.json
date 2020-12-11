@@ -1,0 +1,23 @@
+{
+  "number": "62",
+  "number_as_published": "62",
+  "year": 2020,
+  "title": "09.10.2020 tarih ve 54 sayılı Belediye Meclis Kararının iptal edilmesi ve Mülkiyeti Belediye Başkanlığımıza ait Bakırköy ilçesi Şenlikköy Mahallesi 205 ada, 11 parsel sayılı 3.729,35 m2 yüzölçümlü taşınmazın devir işlemlerinin (BYUAŞ)’ye yapılabilmesi",
+  "decision_date": "2020-12-11",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/31",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/62-emlak-ve-istimlak-md-senlikkoy-205-ada-11-parselin-ayni-sermaye-artisina-esas-teskil-etmek-uzere-byuasa-devri-11122020.pdf",
+  "source_sha256": "759e4b744b5ca7d02078ddaaa960a2cbde6127d87e33b1e9dbdbb1bd7355cedf",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2020-12-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Aralık 2020 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
