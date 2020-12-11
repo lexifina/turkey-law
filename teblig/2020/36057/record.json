@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31331",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31331",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-11",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ulaştırma ve Altyapı Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-664-0.json",
+      "id": "664",
+      "label": "Ulaştırma ve Altyapı Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=664&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ulastirma-ve-altyapi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-12-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36057&MevzuatTertip=5",
+  "source_bytes": 37580,
+  "source_id": "9.5.36057",
+  "source_sha256": "902d587715ed3657fc5698112180fd42234e6f8bbd676080a5d26e687fc4223f",
+  "title": "KIYI TESİSLERİNDE GEMİLERE VERİLEN HİZMETLERE İLİŞKİN TEBLİĞ",
+  "word_count": 826
+}

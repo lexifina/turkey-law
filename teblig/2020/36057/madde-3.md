@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 478 inci maddesine, 26/9/2011 tarihli ve 655 sayılı Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararnamenin 28 inci maddesine, 14/4/1341 tarihli ve 618 sayılı Limanlar Kanununa ve taraf olduğumuz ilgili uluslararası mevzuata dayanılarak hazırlanmıştır.
