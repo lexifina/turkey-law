@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-12",
+  "issue": "31332",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "6446 Sayılı Elektrik Piyasası Kanununun 16 ncı Maddesi Uyarınca 2021 Yılında Uygulanacak Para Cezaları Hakkında Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201212-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201212.htm",
+  "index_sha256": "c9ec6620b0f14602d890c1cb87168cd7a0d4b2d8762d0815571441e5246b565b",
+  "index_header": "12 Aralık 2020 ... 31332 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201212.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
