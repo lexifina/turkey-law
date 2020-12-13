@@ -1,0 +1,2 @@
+Araştırma geliştirme fonları kapsamındaki mal ve hizmet alımları
+MADDE 43 – (1) Kamu kurum ve kuruluşları ile uluslararası kuruluşların araştırma geliştirme projeleri için sağladıkları fonlar kapsamında gerçekleştirilecek mal ve hizmet alımları, Üniversitenin faaliyet alanı içerisinde kalmak kaydıyla fonun tahsis amacı ve miktarı esas alınarak, fon sağlayan kurum/kuruluş ile yapılan protokol çerçevesinde belirlenecek usule göre gerçekleştirilir. Protokolde mal ve himzet alımlarına ilişkin hüküm bulunmaması halinde bu Yönetmelik hükümleri uygulanır.
