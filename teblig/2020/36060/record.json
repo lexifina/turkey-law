@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36060",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2020/9)",
+  "number": "36060",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/36060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36060&MevzuatTertip=5",
+  "source_sha256": "375a053321140fddead45f6a0fd2a52d01ecfac571466fe2cbc07dd2328f8c1e",
+  "source_bytes": 10234,
+  "published": "2020-12-02",
+  "gazette": "31322",
+  "in_force": "2020-12-13",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 13/12/2020 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 13/12/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 223,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36060-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
