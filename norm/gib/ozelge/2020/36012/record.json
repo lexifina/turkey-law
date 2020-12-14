@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-140.01.99[63.01.79]-112463",
+  "source_id": 36012,
+  "date": "2020-12-14",
+  "title": "Vefat eden Kıbrıs gazisinin çocuğunun 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamında silah ruhsat harcından muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36012",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "356cc81583d886e0a7f5b44790dcd9076dcecab64b4a1cf8e20a144dd7bf5796",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
