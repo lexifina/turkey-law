@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 13 – (1) Danışma Kurulu, Müdür, müdür yardımcıları ve Yönetim Kurulu üyelerinin yanı sıra Yönetim Kurulunun önerisi ile bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve tecrübelerinden yararlanılabilecek Üniversite içi ve Üniversite dışı kişilerden olmak üzere, Rektör tarafından üç yıl süre ile görevlendirilen en fazla 15 kişiden oluşur.
+(2) Danışma Kurulu, Rektör ya da görevlendireceği bir rektör yardımcısının başkanlığında yılda en az bir kez toplanır. Danışma Kurulunun toplantılarında çoğunluk aranmaz. Danışma Kurulu üyeleri, Merkezin amacı ve görevleri kapsamına giren kişisel görüşlerini kurul toplantısı dışında yazılı veya sözlü olarak Müdüre bildirebilirler.

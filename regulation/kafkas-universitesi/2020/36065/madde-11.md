@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu, tabii üye olan Müdür ve müdür yardımcıları dahil yedi üyeden teşekkül eder. Diğer dört üye merkezin çalışma alanı ile ilgili öğretim üyeleri arasından Müdürün teklifi üzerine Rektör tarafından üç yıl süre ile görevlendirilir. Yönetim Kurulu, Müdürün daveti ile yılda en az iki defa Merkezin faaliyetlerini görüşmek üzere toplanır. Yönetim Kurulu ancak üye sayısının yarısından fazla olmak şartı ile oy çoğunluğu sağlandığında karar alabilir.
