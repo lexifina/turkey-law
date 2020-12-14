@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-140[ÖZG-7-2020]-62551",
+  "source_id": 36013,
+  "date": "2020-12-14",
+  "title": "Mükellefin vefat eden Kore gazisi babasının satın aldığı silah için düzenelenecek ruhsatın 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun kapsamında harçtan muaf olup olmadığı hususunda",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36013",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "55c19954af879b4df890002f40622d1712333e207cb9e93f2be3652d704b0a7e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
