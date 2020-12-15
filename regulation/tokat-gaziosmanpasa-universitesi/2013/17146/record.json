@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-02-22",
+      "22.02.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "RG-15/12/2020-31335",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-12-15",
+      "15/12/2020",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-15/12/2020-31335",
+  "first_law": null,
+  "gazette": "28567",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-15",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2013/17146",
+  "published": "2013-02-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=17146&MevzuatTertip=5",
+  "source_bytes": 25988,
+  "source_id": "8.5.17146",
+  "source_sha256": "c74339b626228031447b98e5af328438bad0b239e363ca6243b158576ebc9ec1",
+  "text_status": "current-consolidated",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 747
+}
