@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.01[37-2020/16]-E.55674",
+  "source_id": 21812,
+  "date": "2020-12-15",
+  "title": "... Kanalı Üzerinden Yapılan Yayından Elde Edilen Kazanç",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21812",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e14ee00af1088a3b4c8d2f3f37504525e6be142b46b3151f875d9db631495f07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
