@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2020/957",
+  "source_id": 7020,
+  "date": "2020-12-15",
+  "title": "“Bir ilaç şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 15/12/2020 tarih ve 2020/957 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7020/2020-957",
+  "source_sha256": "7703200e34dc0412c158116d9a5ca75f39e43e2935c5d53b32cb75bd2cc87bdd",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
