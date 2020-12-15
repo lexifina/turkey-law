@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "368",
+  "decision_date": "2020-12-15",
+  "source_id": 32748,
+  "chamber": "3",
+  "ilam_number": "28",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32748/",
+  "source_sha256": "49573b0d45f2416413ccae926dcdf1b2bca726f507c6d3987597727b436bf79d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
