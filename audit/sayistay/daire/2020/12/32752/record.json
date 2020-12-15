@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "368",
+  "decision_date": "2020-12-15",
+  "source_id": 32752,
+  "chamber": "3",
+  "ilam_number": "28",
+  "item_number": 5,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32752/",
+  "source_sha256": "38176c5fc2ef41054d513af28588e845b297699453c2d13384c64a1d2d2d26b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
