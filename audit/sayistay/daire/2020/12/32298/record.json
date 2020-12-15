@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "245",
+  "decision_date": "2020-12-15",
+  "source_id": 32298,
+  "chamber": "4",
+  "ilam_number": "5",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32298/",
+  "source_sha256": "8dbfc73dff1f80a729581c5cc880c1b8a449842913bc0135cbaddf08050d35a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
