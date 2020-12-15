@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "715",
+  "decision_date": "2020-12-15",
+  "title": "-MEC.KAR. (BARO İLE PROTOKOL İMZA YETKİSİ RET).doc",
+  "listed_as": "715-MEC.KAR. (BARO İLE PROTOKOL İMZA YETKİSİ RET).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/715-meckar-baro-ile-protokol-imza-yetkisi-retdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/15-aralik-2020-meclis-kararlari",
+  "listing_sha256": "2455fa36537c2df6089e36de16787902859bbe6159910bc4c1d97f20231f74d1",
+  "meeting_title": "15 ARALIK 2020 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
