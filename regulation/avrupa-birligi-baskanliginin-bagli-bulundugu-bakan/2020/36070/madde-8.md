@@ -1,0 +1,2 @@
+Giriş sınavı komisyonu
+MADDE 8 – (1) Giriş sınavı komisyonu, Başkanın kendisi veya genel müdürler arasından belirleyeceği komisyon başkanı dâhil toplam beş üyeden oluşur. Yönetim Hizmetleri Dairesi Başkanı komisyonun tabii üyesi olmak üzere diğer üyeleri ve üç yedek üyesi, Daire Başkanı ve üstü kadrolarda bulunanlar arasından Başkan tarafından belirlenir. Komisyon üye tamsayısı ile toplanır ve oy çokluğu ile karar alır.

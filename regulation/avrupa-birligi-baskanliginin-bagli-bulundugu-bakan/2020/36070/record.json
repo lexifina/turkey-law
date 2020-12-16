@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.36070",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AVRUPA BİRLİĞİ İŞLERİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "36070",
+  "issuer": "Avrupa Birliği Başkanlığının bağlı bulunduğu Bakan",
+  "issuer_slug": "avrupa-birligi-baskanliginin-bagli-bulundugu-bakan",
+  "path": "regulation/avrupa-birligi-baskanliginin-bagli-bulundugu-bakan/2020/36070",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36070&MevzuatTertip=5",
+  "source_sha256": "f7f742b38e039e482f2f7339f2002aa4353c84fc659bf619f2790bf9ae0de0b7",
+  "source_bytes": 40390,
+  "published": "2020-12-16",
+  "gazette": "31336",
+  "in_force": "2020-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2271,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

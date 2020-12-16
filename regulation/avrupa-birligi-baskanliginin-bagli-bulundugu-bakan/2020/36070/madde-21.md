@@ -1,0 +1,2 @@
+Yeniden atanma
+MADDE 21 – (1) Bu Yönetmelik hükümlerine göre uzman unvanını kazandıktan sonra Başkanlıktaki görevlerinden başka kamu kurumlarına geçenler de dâhil kendi isteğiyle ayrılıp da yeniden atanmak isteyenler; boş kadro olması, Başkanlığın ihtiyacı bulunması ve YDS’den son iki yıl içinde İngilizce, Fransızca, Almanca dillerinden birinden asgari (C) düzeyinde puan almış olmaları veya dil yeterliliği bakımından bunlara denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olmaları şartıyla Başkanlıkta uzman kadrolarına atanabilirler.

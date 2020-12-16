@@ -1,0 +1,2 @@
+Mevcut uzman yardımcıları hakkında uygulanacak mevzuat
+GEÇİCİ MADDE 1 – (1) Başkanlıkta, 22 nci madde ile yürürlükten kaldırılan Avrupa Birliği İşleri Uzmanlığı Yönetmeliği kapsamında uzman yardımcılığı kadrolarına atanmış olanların yeterlik sınavları ve uzman kadrolarına atanmaları mezkûr mülga Yönetmelik ve ilgili mevzuat hükümlerine göre sonuçlandırılır. Ancak bu kapsamda oluşturulacak tez değerlendirme komisyonu ile yeterlik sınavı komisyonu Başkanlığın güncel teşkilat yapısı, hiyerarşik yapı ve unvanları dikkate alınarak belirlenir.
