@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36068",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2021 YILINA AİT GENEL YATIRIM VE FİNANSMAN PROGRAMININ UYGULANMASINA İLİŞKİN USUL VE ESASLARIN BELİRLENMESİNE DAİR TEBLİĞ",
+  "number": "36068",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2020/36068",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36068&MevzuatTertip=5",
+  "source_sha256": "37f87b12d394b9b27afe911b8b97f0f38a26484e2de63fdb1c847b812a663c2e",
+  "source_bytes": 54350,
+  "published": "2020-12-16",
+  "gazette": "31336",
+  "in_force": "2020-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2020); own commencement article: \"Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğin 1 inci, 2 nci, 3 üncü, 4 üncü, 11 inci, 22 nci ve 23 üncü maddeleri yayımı tarihinde, diğer maddeleri ise 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36068-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
