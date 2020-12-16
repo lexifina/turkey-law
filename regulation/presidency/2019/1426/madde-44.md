@@ -1,0 +1,5 @@
+Akıntı
+Madde 44- (1) Çanakkale Boğazı’nda üst akıntı şiddeti 4 mil/saatin üstüne çıktığında, manevra hızı 10 mil/saat ve daha aşağı olan tehlikeli yük taşıyan gemiler, büyük gemiler ve derin su çekimli gemiler Boğaz’a girmeyecek ve akıntı şiddetinin 4 mil/saat ve altına düşmesini bekleyeceklerdir. Ancak yukarıdaki gemilerin dışında kalan gemiler isterlerse geçişlerini TBGTH Merkezinin tonajlarına uygun olarak öngöreceği römorkör/römorkörleri alarak yapabilirler.
+(2) Çanakkale Boğazı’nda üst akıntı şiddeti 6 mil/saatin üstüne çıktığında hızı ne olursa olsun tehlikeli yük taşıyan gemiler, büyük gemiler ve derin su çekimli gemiler Çanakkale Boğazı’na girmeyecek ve akıntı şiddetinin 6 mil/saatin altına düşmesini bekleyeceklerdir.
+(3) TBGTH Merkezi, akıntılarla ilgili durumları gemilere ve ilgililere duyurur.
+(4) Akıntı şiddetinin veya düzeninin normale dönmesi üzerine TBGTH Merkezince, bekleyen gemilerin Boğaza giriş sırası, bu gemilerin en kısa zamanda Boğazdan geçmelerini sağlamak için, TÜBRAP’a göre tespit edilen geçiş sırasına ve gemilerin niteliklerine göre belirlenerek gemilere ve ilgililere duyurulur.

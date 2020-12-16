@@ -1,0 +1,2 @@
+Acente ile buluşma yerleri
+Madde 49- (1) Çanakkale Boğazı'nda seyreden gemiler; demir yerleri dışında acente ile temas yapamazlar. Ancak zorunlu hallerde TBGTH Merkezinden izin alarak kendi trafik şeritlerinin en sancak tarafında, trafik ayırım düzenine uyarak ve seyir şartlarını bozmadan, 1 saati aşmayacak şekilde Kanlıdere ve Karanfil Fenerlerini birleştiren hattın güneyinde acente teması yapabilirler.

@@ -1,0 +1,5 @@
+Hava çekimi
+Madde 33- (1) Boğazlardan trafik ayırım düzenine uygun olarak geçiş yapan gemiler, boğaz köprülerinin seyir emniyeti ile ilgili ikaz ışıklarına özen göstereceklerdir.
+(2) Hava çekimi 58 metre ve daha yüksek olan gemiler İstanbul Boğazı’ndan, hava çekimi 70 metre ve daha yüksek olan gemiler Çanakkale Boğazı’ndan geçmeyecektir.
+(3) İstanbul Boğazı için hava çekimi 54 metre ile 58 metre arasında olan gemilere, Çanakkale Boğazı için 66 metre ile 70 metre arasında olan gemilere, rotalarını korumaları için Bakanlığın/İdarenin gerekli gördüğü sayıda ve güçte römorkör eşlik edecektir.
+(4) Üçüncü fıkrada belirtilen gemilerin azami hava çekimi, tanınmış bir klas kuruluşu veya geminin klas kuruluşu tarafından yetkilendirilecek bir firma tarafından tespit edilip belgelendirilecek ve geçiş öncesi Liman Başkanlığı ile TBGTH Merkezine yazılı olarak bilgi verilecektir. Seyir emniyeti ile can, mal, deniz ve çevre güvenliği gözetilerek, söz konusu gemilerin Türk Boğazlarından emniyetli geçişine ilişkin ilave geçiş şartları tespit edilerek ilgili Liman Başkanlığı tarafından acentesine bildirilir.

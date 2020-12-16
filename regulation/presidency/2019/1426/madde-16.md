@@ -1,0 +1,2 @@
+Geçiş sırasında kaza ve arıza
+Madde 16- (1) İstanbul ve Çanakkale Boğazlarından geçerken kaza, arıza, zorunlu demirleme gibi bir nedenle uğraksız geçişi bozulan gemi, ilgili TBGTH Merkezine hemen bilgi vererek tavsiye ve talimat isteyeceklerdir. İlgili TBGTH Merkezince kendilerinin ve çevrenin güvenliğini sağlayacak önlemler tamamlandıktan sonra kılavuz kaptan alacaklar ve geçişin tamamlanması için öngörülenleri yerine getireceklerdir.

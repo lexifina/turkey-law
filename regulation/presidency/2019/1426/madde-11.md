@@ -1,0 +1,4 @@
+Uğraksız geçen gemilerin demirleme şartları
+Madde 11- (1) Türk Boğazlarından uğraksız geçiş yapan gemiler, zorunlu gereksinimlerini karşılamak üzere, TBGTH Merkezinden izin almak şartıyla 24 üncü maddede gösterilen demirleme yerlerinde, ilgili kuruluşların gözetimi altında serbest pratika almaksızın 168 saat kalabilirler. Bakanlık/İdare gerekli gördüğü hallerde bu süreyi kısaltabilir.
+(2) Bu süre içinde, gemilerde; ölüm, hastalık, gemiadamı değişimi, izin veya acente teması, yakıt, kumanya ikmali, arıza onarımı ve benzeri zorunluluk hallerine ilişkin faaliyetler icra edilebilir.
+(3) Demirleme yerlerinde birinci fıkrada belirtilen süreden fazla kalmak isteyen uğraksız geçiş yapan gemiler, gösterilen demirleme yerlerine demirleyip, serbest pratika almak zorundadır. Demirlemek suretiyle uğraksız geçişini bozan gemiler hakkında sağlık, emniyet, gümrük ve diğer mevzuatın gerektirdiği denetim ve işlemler uygulanır.

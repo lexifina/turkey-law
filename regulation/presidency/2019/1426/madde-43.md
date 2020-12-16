@@ -1,0 +1,2 @@
+Yerel deniz trafiği
+Madde 43- (1) Çanakkale Boğazı’nın karşılıklı iki kıyısı arasında aykırı olarak geçiş yapan, iskeleler arası seyreden şehir hattı gemileri ile diğer deniz araçları trafik ayırım şeritlerini en kısa yoldan geçecekler, Ege’den Marmara’ya ve Marmara’dan Ege’ye seyreden gemilerin yollarından çıkacaklar ve bu gemilere çapariz vermeyeceklerdir. Ancak çatışma olasılığı varsa, gemiler Uluslararası Denizde Çatışmayı Önleme Sözleşmesinin ilgili hükümleri uyarınca gerekli önlemleri alacaklardır.

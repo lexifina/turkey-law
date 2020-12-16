@@ -1,0 +1,2 @@
+Türk Limanlarına uğramış ya da uğrayacak gemilerin emniyet ve gümrük denetimleri
+Madde 39- (1) İstanbul Boğazı’nda, trafik ayırım şeritleri içinde emniyet ve gümrük denetimleri yapılamaz. Ancak gerekli görülen durumlarda emniyet ve gümrük denetimleri, gemiye çıkacak görevlilerce kılavuz kaptan alma yerlerinde, geminin gideceği limana kadar yolda, limanda veya kendilerine ayrılmış demir yerlerinde yapılır.

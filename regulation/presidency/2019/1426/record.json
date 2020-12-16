@@ -1,0 +1,151 @@
+{
+  "id": "presidency-regulation-1426",
+  "number": "1426",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRK BOĞAZLARI DENİZ TRAFİK DÜZENİ YÖNETMELİĞİ",
+  "published": "2019-08-15",
+  "enacted": "2019-08-14",
+  "gazette_number": "30859",
+  "in_force": "2020-12-16",
+  "in_force_basis": "Latest source commencement-table date: 2020-12-16; official source:  | 15/12/2020 | 3305 | 26, 37, Ek 1.4, Ek-2(2), Harita 9 | 16/12/2020 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=1426&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "3d9d664b32305fa250451978d4f14a338775dcc5a8e014478b01eaa82faf9a8d",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 12,
+    "referenced": 0,
+    "omitted": 12
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "b9e0808315b504c10b721a63f1813cf2084455faab5c93406912d6016e0146bb",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "4b22e4d2f396a0f976d10d98fdaa905ad89e609ce88becf33c33c1f300e9c381",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image003.jpg",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "17414cd7ec544fbabd218c09d7169e5168bbb838920892a593465afb4fb61f31",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image004.jpg",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "ee66e93b857a3fdd5adf518c770f4b2f719b6f8776835c3f7d5514087ad968a6",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image005.jpg",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f2f6900ff806e8cba27dc9031c55aeac05eee2b8cbdf3dad909bfe2625ba2a78",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image006.jpg",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8b22e618345b2c86c1d0e67eba6d2405a226a4be8741b7f03e142f9c7e65177a",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image007.jpg",
+      "description": "Official embedded image 7 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 7,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "b5591545d4906cae2ad20dc4e791ce08a0994486105c1a5ab055cfe1256fae3c",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image008.jpg",
+      "description": "Official embedded image 8 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 8,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "92ba698dff4030ad00b6723b15d504f77ffc42393063d5f36e829f7df614e3cd",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image009.png",
+      "description": "Official embedded image 9 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 9,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "9dd87ab2707322efa3d2d3b32555b39e36f439f3c8c7066695b56787004b357a",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image010.jpg",
+      "description": "Official embedded image 10 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 10,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "e703c1c90712186fb7bd27437b93d7ee426a135a033e596637dd71523d8db57c",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image011.jpg",
+      "description": "Official embedded image 11 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 11,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "27f89b9df87ab4bda6c3b5f290b04e35d04e833a574aa7f566492db92a68922d",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.1426_dosyalar/image012.jpg",
+      "description": "Official embedded image 12 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 12,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f26ea3b99103c6de7ca7212c554b400662614b67ee8f17013bf2bc4bbd1e5fde",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

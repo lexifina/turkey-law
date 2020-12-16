@@ -1,0 +1,3 @@
+Emniyetli seyir yapma yeteneğini kaybeden gemiler
+Madde 8- (1) Türk Boğazlarına girmeden önce, seyir cihazı arızaları da dâhil olmak üzere herhangi bir teknik nedenle emniyetli seyir yapma yeteneğini kaybeden gemiler; telefon, faks ya da VHF ile durumlarını ilgili TBGTH Merkezine bildireceklerdir.
+(2) TBGTH Merkezleri; birinci fıkra uyarınca bildirimde bulunan gemiye ve durumu 6 ncı maddenin son fıkrasına uyan gemiye sörvey ve onarım işleri için demirde bekleyeceği yeri en kısa zamanda bildirecektir. Sörvey ve onarım işleri ve elde edilen sonuçlar hakkında bilgi verilen TBGTH Merkezi, bu bilgileri değerlendirerek; ya geminin olağan geçiş yapabileceğini ya da emniyetli geçiş için belirli tedbirler alınmak suretiyle geçiş yapabileceğini ilgili geminin kaptanına bildirir.
