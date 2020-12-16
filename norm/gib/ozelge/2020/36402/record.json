@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-160[2020/5.1-17]-936136",
+  "source_id": 36402,
+  "date": "2020-12-16",
+  "title": "Maddi-Manevi tazminat borcunun veraset beyannamesinde gösterilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36402",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "f2270b5fc2b5292c84db4c5c132b8cbd5942353fb48eec61c47ce5e9722a53de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
