@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9814",
+  "decision_date": "2020-12-17",
+  "title": "2021 yılı için serbest tüketici limitine ilişkin",
+  "resmi_gazete_date": "2020-12-22",
+  "resmi_gazete_number": "31342",
+  "categories": [
+    "Serbest Tüketici",
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A81YWMk9Yb4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=A81YWMk9Yb4="
+  ],
+  "source_sha256": "afae129311b2b5c6e6830298b6a634d6a7a5d3d07ccb17455d3ca794356a9052",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-17",
+  "law_text_complete": true
+}
