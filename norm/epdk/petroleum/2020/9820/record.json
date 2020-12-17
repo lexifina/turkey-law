@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9820",
+  "decision_date": "2020-12-17",
+  "title": "2021 yılında petrol piyasası faaliyetlerine ilişkin uygulanacak gelir payı bedelleri",
+  "resmi_gazete_date": "2020-12-22",
+  "resmi_gazete_number": "31342",
+  "categories": [
+    "Zorunlu Petrol Stoku Kupon Sistemi ve Gelir Payına İlişkin Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JigoZ5pjEAk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JigoZ5pjEAk="
+  ],
+  "source_sha256": "39f09e653017297f2f544c69f15a98fa35090b58eb8b5573303c83be657d81e3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4728,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-17",
+  "law_text_complete": true
+}
