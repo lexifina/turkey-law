@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-17",
+  "issue": "31337",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "CUMHURBAŞKANI KARARLARI",
+  "title": "İthalat Rejimi Kararına Ek Karar (Karar Sayısı: 3308)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201217-2.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201217.htm",
+  "index_sha256": "afb29b64ad19c68e621f4a275ccaf4b16c4d26fc05cb27f655bfe576429d3954",
+  "index_header": "17 Aralık 2020 ... 31337 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201217.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item page not HTML"
+}
