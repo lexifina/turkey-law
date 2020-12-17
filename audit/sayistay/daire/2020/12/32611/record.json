@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "370",
+  "decision_date": "2020-12-17",
+  "source_id": 32611,
+  "chamber": "3",
+  "ilam_number": "20",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32611/",
+  "source_sha256": "eaf878150ae932c894208c9c43c58be313e39d66f091c3a38a56eaf82ea26bf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
