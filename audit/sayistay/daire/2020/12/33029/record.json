@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "413",
+  "decision_date": "2020-12-17",
+  "source_id": 33029,
+  "chamber": "7",
+  "ilam_number": "178",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33029/",
+  "source_sha256": "7bf543779a647b5f47124b1c033efee07d928954ef2af6241eba741c19b415f6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
