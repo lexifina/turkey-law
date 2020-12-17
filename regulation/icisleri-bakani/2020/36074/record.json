@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.36074",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL GÜVENLİK KOMUTANLIĞI DALIŞ HİZMETLERİ YÖNETMELİĞİ",
+  "number": "36074",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/36074",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36074&MevzuatTertip=5",
+  "source_sha256": "2ac237535ef6451b7d731fb11b6b0e84d6647ffb1cbbe9e41f953ea0a7f880a3",
+  "source_bytes": 64011,
+  "published": "2020-12-17",
+  "gazette": "31337",
+  "in_force": "2020-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2020); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3671,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

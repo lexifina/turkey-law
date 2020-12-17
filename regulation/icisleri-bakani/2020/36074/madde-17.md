@@ -1,0 +1,10 @@
+Kurbağa adam ve dalgıç statülerinin verilmesi, değiştirilmesi, kaldırılması
+MADDE 17 – (1) Dalış Kıymetlendirme Kurulu, dalış hizmetleriyle ilgili kurbağa adam ve dalgıç statüleri vermeye, değiştirmeye, kaldırmaya ve bunlara yönelik araştırma yapmaya yetkilidir. Aşağıdaki durumlar kurbağa adam ve dalgıç statüsünün kaldırılmasını gerektirebilir:
+a) Sıhhi yetersizlik: Su altı personelinin, Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde belirtilen sağlık niteliklerini taşımadığının, aynı Yönetmelikte belirtilen tam teşekküllü hastanelerin sağlık kurullarınca saptanmasıdır. Personelin kurbağa adam ve dalgıç statüsü sağlık raporunun imzalandığı tarihte sona erer.
+b) Disiplinsizlik: Su altı personelinin bir sicil dönemi içerisinde;
+1) En son alınan disiplin cezasının kesinleştiği tarihten geriye doğru son 1 yıl içinde 10 disiplin ceza puanı,
+2) En son alınan disiplin cezasının kesinleştiği tarihten geriye doğru son 5 beş yıl içinde 20 disiplin ceza puanı,
+almasıdır.
+c) Mesleki yetersizlik: Su altı personelinin; yönergede belirtilmiş görevlerin yerine getirilmesi kapsamında, kurbağa adam nitelik belgesi veya dalgıç nitelik belgesinde belirtilen yeterli puana ulaşamaması veya Eğitim Değerlendirme Sınavlarında (EDS) başarı gösterememesidir.
+(2) Disiplinsizliği ve mesleki yetersizliği tespit edilen su altı personeli, haklarında kesin karara varılmak üzere Dalış Kıymetlendirme Kuruluna sevk olunur. Bu personelin durumu, Dalış Kıymetlendirme Kurulunda görüşülür ve hakkında "Kurbağa Adam veya Dalgıç Görevi Yapamaz" kararı verilenlerin kurbağa adam veya dalgıç statüsü, Sahil Güvenlik Komutanının kurul kararını tasdik ettiği tarihte sona erer.
+(3) Kurbağa adam veya dalgıç statüsü Eğitim Değerlendirme Sınavlarındaki başarısızlığı nedeniyle sona erdirilen personelden, müteakip dönemde kara ve deniz fizik kondisyon seviyesi tekrar istenen seviyeye gelenlerin durumu Dalış Kıymetlendirme Kurulunun kararına göre yeniden değerlendirilebilir.

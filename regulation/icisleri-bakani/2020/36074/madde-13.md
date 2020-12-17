@@ -1,0 +1,8 @@
+Kurslar, belgeler ve bröveler
+MADDE 13 – (1) Dalış hizmetlerinin yürütülmesi maksadıyla yetiştirilecek su altı personelinin iştirak edeceği, tanımlarda belirtilen kurslar yurt içi/yurt dışı mesleki gelişim plânı çerçevesinde verilir. Kursları başarı ile bitiren kursiyerlere iştirak ettiği kursa ait bitirme belgesi verilir. Dalış Kıymetlendirme Kurulunca yapılacak değerlendirmeyi müteakip adayların kurbağa adam ve dalgıç statüleri onaylanır ve/veya yetki verilir. Kurbağa adam ve dalgıç statüsü onaylanan ve/veya yetki verilen su altı personeli, ilgili dalış hizmetlerini icra eder.
+(2) Dalış hizmetlerinin yürütülmesi maksadıyla, Sahil Güvenlik Komutanlığınca meslek içi eğitim kapsamında verilen eğitimlerde alınan belgeler hariç olmak üzere, ilgili bakanlık veya federasyonlarca onaylı dalıcı belgesi bulunan adayların başvurularından Dalış Kıymetlendirme Kurulunca uygun görülenler Sahil Güvenlik Komutanlığınca onaylanır.
+(3) Kurbağa adam ve dalgıç statüsü onaylanan su altı personeline yönerge ile belirlenen dalış uzmanlık kursları verilebilir.
+(4) Kurbağa adam veya dalgıç kursunu bitiren Sahil Güvenlik Komutanlığı personeline kurs bitirme belgesi ve ilgili mevzuat hükümleri kapsamında bröve verilir.
+(5) Hizmet alımı ile alınacak su altı eğitimlerine iştirak ettirilen personele ayrıca diploma, kurs belgesi ve bröve verilmez.
+(6) Kurbağa adam veya dalgıç kursunu bitiren Sahil Güvenlik Komutanlığı personeline, ilgili bakanlıklar ve federasyonlarla yapılacak protokollere istinaden denklik belgeleri verilebilir.
+(7) Sınavların not değerlendirmesi, diploma ve bröve verme hususları yönerge ile belirlenir.
