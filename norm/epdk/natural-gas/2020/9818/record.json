@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9818",
+  "decision_date": "2020-12-17",
+  "title": "2021 yılı boyunca uygulanmak üzere, serbest tüketici olma sınırına ilişkin",
+  "resmi_gazete_date": "2020-12-22",
+  "resmi_gazete_number": "31342",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YgppwYEo0Jo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=YgppwYEo0Jo="
+  ],
+  "source_sha256": "6da36b295bac4a00107748a8fd55f0e8edff4d575fa3bf1eeac9a097b85f69d0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-17",
+  "law_text_complete": true
+}
