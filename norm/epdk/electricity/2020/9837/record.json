@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9837",
+  "decision_date": "2020-12-17",
+  "title": "Organize Toptan Doğal Gaz Satış Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedeller ve Uygulamaya İlişkin Yöntem Bildirimi”nde ifade edilen ücretlerin belirlenmesine yönelik",
+  "resmi_gazete_date": "2020-12-22",
+  "resmi_gazete_number": "31342",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XBje4F3pChA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=XBje4F3pChA="
+  ],
+  "source_sha256": "839b980c14ac6cdc79d8218cb5b26fddbb4ad9a11588f885478e90af46fdbab1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-17",
+  "law_text_complete": true
+}
