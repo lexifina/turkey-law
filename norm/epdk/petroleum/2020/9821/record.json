@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "9821",
+  "decision_date": "2020-12-17",
+  "title": "31/12/2022 tarihine kadar “oksitlenme kararlılığı” özelliğinin teknik düzenleme kapsamında aranmamasına",
+  "resmi_gazete_date": "2020-12-22",
+  "resmi_gazete_number": "31342",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vYBsoDX/r4c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vYBsoDX/r4c="
+  ],
+  "source_sha256": "efd25a2824296f098761f7fc77a31e5e5d69834cc0b7d05f7b982060677a45c4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-17",
+  "law_text_complete": true
+}
