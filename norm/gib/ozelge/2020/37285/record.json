@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-175-63217",
+  "source_id": 37285,
+  "date": "2020-12-17",
+  "title": "Free Shop İşletmelerinin Çevre Temizlik Vergisi İstisnası Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37285",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e256b9424809debe0aa83d2ed78ef286fa95819c0b479601c00c7c7fa4b4b4c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
