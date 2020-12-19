@@ -1,0 +1,21 @@
+Uygulamaya ilişkin özel esaslar
+MADDE 6 – (1) Şirket; dayanışma, yardımlaşma, fon veya hesapların ayırımı gibi esaslara dayalı farklı bir faaliyet modeli uygulayabilir. Söz konusu modelin danışma komitesince onaylanması ve bu Yönetmelik hükümlerine aykırılık oluşturmayacak şekilde uygulanması zorunludur.
+(2) Katılım esasları çerçevesinde faaliyet gösteren şirketler ile reasürans, koasürans ve retrosesyon faaliyetleri yürütülmesi esastır. Söz konusu faaliyetlere ilişkin ihtiyaç duyulan işbirliği, ürün ve hizmetin bulunamaması durumunda, danışma komitesinin onayı alınmak şartıyla ve belirli süre ve alanlar ile sınırlı olmak üzere diğer şirketlerle bu faaliyetler yürütülebilir.
+(3) Şirketlerin katılım faaliyetleri ile doğrudan ilgili birimlerinde bu Yönetmelik hükümlerini uygulayabilecek gerekli eğitim ve donanıma sahip olan şirket personeli çalıştırılması zorunludur. Katılım birimi haricindeki ilgili diğer birim personelinin katılım finans alanında lisans veya lisansüstü programlardan birinden mezun olması veya Kurumca uygun görülecek ulusal veya uluslararası sertifika sahibi olması zorunludur.
+(4) Teknik personel unvanına sahip aracıların ve bireysel emeklilik aracılarının bu Yönetmelik kapsamında faaliyet gösteren şirket ve kuruluşlarla çalışabilmesi, Sigortacılık Eğitim Merkezi ve Emeklilik Gözetim Merkezi tarafından yapılacak ilgili eğitim ve sınavlara katılmaları ile mümkündür. Katılım esasları ve uygulamasına ilişkin konular teknik personel eğitimine ve sınavına, bireysel emeklilik aracıları sınavına ve tamamlayıcı eğitim programına dâhil edilir.
+(5) Kuruluşlar, katılım sigortacılığı faaliyetleri ile sınırlı olmak üzere aşağıda belirtilen hususları yerine getirmekle yükümlüdür:
+a) Bünyesinde danışma komitesi oluşturmak veya danışma komitesi fonksiyonunu dışarıdan hizmet alımı ile gerçekleştirmek.
+b) Varsa katılım esasları çerçevesinde sunulması planlanan ürün veya hizmetlerde, düzenlenecek form, sözleşme, poliçe ve bilgilendirme metinlerinde, havuz, fon ve hesapların yönetiminde danışma komitesinin onayını almak.
+c) Bünyesinde katılım uyum birimi kurmak veya katılım uyum birimi faaliyetlerinden sorumlu olmak üzere katılım finans alanında lisans veya lisansüstü programlardan birinden mezun olan veya Kurumca uygun görülecek ulusal veya uluslararası sertifika sahibi yeterli sayıda personel tahsis etmek.
+ç) Katılım esaslı faaliyet gösteren şirketlerden gelen finansal varlıkları ayrı fon, havuz veya hesaplar üzerinden katılım esasları çerçevesinde yönetmek.
+d) Katılım esaslı faaliyet gösteren şirketlerin aracılığıyla satılan ürün ve hizmet bedellerinin yönetiminde, yatırım yapılacak varlıkların seçimi, değerlendirilmesi ile nakit yönetiminde, kuruluşça bu ürün ve hizmetlere ilişkin yapılan ödemelerde ve kuruluşun bu kapsamdaki diğer finansal faaliyetlerinde katılım esasları çerçevesinde hareket etmek.
+e) Bu fon, havuz veya hesaplara ait giriş, yatırım ve çıkışların katılım sigortacılığı dışındaki faaliyetlere ait fon, havuz ve hesaplar ile karışmaması için gerekli tedbirleri almak.
+f) Katılım iç denetim raporunu 12 nci maddede yer alan hükümler çerçevesinde düzenlemek.
+(6) Emeklilik şirketinin katılım esaslı faaliyette bulunabilmesi için unvanında katılım ibaresi bulunan emeklilik planı kurması zorunludur. Katılım emeklilik planına sadece katılım emeklilik fonları dâhil edilebilir.
+(7) Katılım esaslarına uygunluğu danışma komitesince onaylanması gereken bireysel emeklilik faaliyetleri aşağıda sayılmıştır:
+a) Katılım emeklilik fonlarının kurulması.
+b) Portföylere alınan varlıkların seçimi.
+c) Kesinti yapısı, sunulan ek faydalar ve plan kapsamındaki diğer hususlar.
+ç) Katkı payı tahsilatı, cayma, ayrılma, aktarım ve emeklilik işlemlerinde nakit olarak yönetilen tutarların işlem gördüğü hesapların seçimi.
+(8) Yedinci fıkrada sayılan faaliyetlerin danışma komitesince onaylandığı şekliyle uygulanmasından şirket yönetim kurulu sorumludur.
+(9) Katılım esaslı hayat sigortacılığı faaliyetinde bulunmayan ve emeklilik fonlarının tamamı katılım emeklilik fonlarından oluşmayan şirket, danışma komitesi fonksiyonunu dışarıdan hizmet alımı ile gerçekleştirebilir. Söz konusu şirket, bünyesinde katılım uyum birimi kurar veya katılım uyum biriminin faaliyetlerinden sorumlu yeterli sayıda personel görevlendirir.

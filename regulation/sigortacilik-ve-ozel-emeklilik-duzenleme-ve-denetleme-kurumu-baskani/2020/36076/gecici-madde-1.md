@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Hâlihazırda pencere usulüyle faaliyet gösteren sigorta şirketlerinin faaliyet süresi 31/12/2021 tarihine kadardır. Bu tarihten itibaren, sahip olunan portföy sigortalıların onayı dahilinde katılım sigortacılığı faaliyetinde bulunan diğer sigorta şirketlerine devredilir. İlgili sigortacılık mevzuatı hükümleri saklı kalmak kaydıyla söz konusu devir Kurum iznine tabidir.
+(2) Pencere usulüyle faaliyet gösteren şirketler, müstakil bir katılım uyum birimi kurabilir veya katılım uyum biriminin faaliyetlerinden sorumlu yeterli sayıda personel de görevlendirebilir ve danışma komitesi fonksiyonunu dışarıdan hizmet alımı ile gerçekleştirebilir.
