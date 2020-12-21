@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük\nMadde 7 - Maliye Bakanlığı ve Sayıştayın görüşü alınarak hazırlanan bu Yönetmelik yayımı tarihinde yürürlüğe girer.\n"
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 21/12/2020",
+  "first_law": null,
+  "gazette": "24072",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-21",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Van Yüzüncü Yıl Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2000-06-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7465&MevzuatTertip=5",
+  "source_bytes": 30545,
+  "source_id": "8.5.7465",
+  "source_sha256": "83d6399f4caa5741c304a92759b17f6fba68366805b04db427c3b109620bb600",
+  "structure": "article-files",
+  "text_status": "current-consolidated",
+  "title": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 472,
+  "version_label": "oldest version available",
+  "word_count": 1079
+}
