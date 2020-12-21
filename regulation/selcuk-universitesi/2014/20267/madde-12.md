@@ -1,0 +1,5 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkezin projelerine özel uzmanlık alanlarında katkı sağlamak ve Merkez faaliyetleriyle ilgili değerlendirmede bulunmak üzere oluşturulur.
+(2) Danışma Kurulu; Üniversitede görevli öğretim elemanlarıyla diğer kamu kurum ve kuruluşlarından veya sivil toplum temsilcilerinden sinirbilim alanında bilgi, deneyim ve eser sahibi kişiler arasından Müdürün önerisi üzerine Rektör tarafından üç yıl için görevlendirilen en fazla yirmibir üyeden oluşur. Süresi dolmadan görevlerinden ayrılan üyelerin yerine, kalan süreyi doldurmak için aynı usulle yeni üyeler görevlendirilir. Süresi biten üyeler tekrar görevlendirilebilir.
+(3) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez, üye tam sayısının salt çoğunluğuyla toplanır ve kararlar oy çokluğuyla alınır. Oyların eşitliği halinde Danışma Kurulunun en yaşlı üyesinin kullandığı oy yönünde çoğunluk sağlanmış kabul edilir. Danışma Kuruluna Müdür başkanlık eder.
+(4) Danışma Kurulunun aldığı kararlar Yönetim Kuruluna tavsiye niteliğindedir; ancak bu kararlara Merkezin genel durumu ve işleyişi hakkında her yılın sonunda Rektöre sunulacak raporda yer verilir.

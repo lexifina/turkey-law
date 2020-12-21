@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amacı; sinirbilim araştırmaları ile ilgili olarak Selçuk Üniversitesi öncülüğünde Üniversite dahilindeki temel, klinik anabilim dallarının ve işbirliğine açık ulusal ve uluslararası üniversiteler ve ilgili bilim merkezlerinin multidisipliner çalışma prensipleri içinde çalışmalar yapmasını kolaylaştıracak fiziksel ve bilimsel ortamı oluşturmak; kapsamlı ulusal ve uluslararası projeler gerçekleştirmek; bütçelendirilmiş projelerin yürütülmesi için fiziki ve teknik destek sağlamak; sinirbilim alanında yetkin bilim insanı ve akademisyen yetiştirilmesine destek olmak; sinirbilimi ilgilendiren sahalarda üniversite-sanayi işbirliğini desteklemek; bilimsel çevrelerde ve kamuoyunda sinirbilim araştırmalarına yönelik ilgi ve bilgi birikimini arttırmak, bu alanda ulusal ve uluslararası bilimsel organizasyonlar düzenlemek ve bilimsel katkı sağlamaktır.

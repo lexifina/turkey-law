@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdür ve Müdür Yardımcıları dahil olmak üzere yedi kişiden oluşur. Müdür ve Müdür Yardımcıları dışındaki üyeler, temel tıbbi bilimler ve klinik tıbbi bilimler alanından en az birer kişi olmak üzere ve temel tıbbi bilimler ile klinik tıbbi bilimler alanındaki üyelerin sayısı eşit olacak şekilde Üniversite öğretim üyeleri arasından Müdürün önerisiyle Rektör tarafından üç yıl için görevlendirilir.
+(2) Müdür ve Müdür Yardımcıları dışındaki Yönetim Kurulu üyeleri en çok üç kez üst üste görevlendirilebilirler ve tekrar görevlendirilmeleri için en az bir dönem ara vermelidirler. Süresi bitmeden ayrılan üyelerin yerine kalan sürelerini doldurmak üzere yenileri aynı yöntemle seçilir.
+(3) Yönetim Kurulu yılda en az dört defa olağan olarak ve gerektiğinde Müdürün çağrısı üzerine olağanüstü şekilde salt çoğunlukla toplanır. Yönetim Kurulu kararları oy çokluğu ile alınır, oyların eşitliği halinde Müdürün kullandığı oy yönünde çoğunluk sağlanmış kabul edilir.
+(4) Salt çoğunluğun sağlanamadığı Yönetim Kurulu toplantıları en geç bir ay içerisinde, salt çoğunluk aranmaksızın tekrar yapılır.
+(5) Ardışık iki veya birbirini takip eden iki yıl içerisinde toplam dört olağan Yönetim Kurulu toplantısına katılmayan Yönetim Kurulu üyesinin üyeliğine Müdürün önerisiyle Rektör tarafından son verilir.
