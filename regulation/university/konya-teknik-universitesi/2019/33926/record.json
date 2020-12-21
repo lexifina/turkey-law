@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 21/12/2020",
+  "first_law": null,
+  "gazette": "30935",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2020-12-21",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Konya Teknik Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-11-01",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=33926&MevzuatTertip=5",
+  "source_bytes": 24129,
+  "source_id": "8.5.33926",
+  "source_sha256": "3b1ab97df66b855b46389c6df90572f5a8a6b7958b8da1894ea6bcbe603f379a",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "KONYA TEKNİK ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 485,
+  "version_label": "oldest version available",
+  "word_count": 555
+}
