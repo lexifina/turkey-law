@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2020/DK-ETD/354",
+  "date": "2020-12-22",
+  "title": "Çağrı Başlatma İndirim ve THK Yeni Satış Kampanyaları (Türk Telekom)",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2021-01-09",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=34",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/d10a03fc-2df6-43f5-ae0c-e09bc4bd8f06.pdf",
+  "source_sha256": "b62c10804829ac7d817c6f8262f7ad3e6caec83e6994b070ee70d659d1b1a1cf",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2020-12-22",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 22.12.2020; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
