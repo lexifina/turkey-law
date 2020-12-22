@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "190",
+  "decision_date": "2020-12-22",
+  "source_id": 32362,
+  "chamber": "8",
+  "ilam_number": "262",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2011,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32362/",
+  "source_sha256": "53cd5daff2eb0a178e5f4b6bc77e6daff06c01e970dbb6fa59faafbab9c3c0ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
