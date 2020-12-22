@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK1-24325]-E.954561",
+  "source_id": 25789,
+  "date": "2020-12-22",
+  "title": "Spor tesislerinin dönüştürülmesi, yenilenmesi karşılığında verilen reklam hizmeti dolayısıyla Belediye tarafından düzenlenen \"Alındı Belgesi\"nin kayıtların tevsikinde fatura yerine tevsik edici belge olarak kullanılıp kullanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25789",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "5847fd1a101385069e31a5b25ffe4fad32b79ea0a70465405f53010a909f63b1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
