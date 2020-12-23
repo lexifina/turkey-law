@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.11217",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE GELİRLERİNİN TAKİP VE TAHSİLİ İLE TAHSİLAT KARŞILIĞI ÖNGÖRÜLEN ÖDENEĞİN KULLANIMI HAKKINDA YÖNETMELİK",
+  "number": "11217",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2007/11217",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11217&MevzuatTertip=5",
+  "source_sha256": "d22c35eb482ba5782a8e91b091d2a543350f3dc443f57db24e2ebbdda5209b8d",
+  "source_bytes": 66189,
+  "published": "2007-04-03",
+  "gazette": "26482",
+  "in_force": "2020-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-12-23",
+      "RG-23/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-23",
+      "23/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-07-28",
+      "28/7/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-10-25",
+      "RG-25/10/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-10-25",
+      "25/10/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-03-19",
+      "RG-19/3/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-03-19",
+      "19/3/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik (Mülga ibare:RG-19/3/2009-27174) (…) yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2812,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
