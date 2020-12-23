@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.34050",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRİK GİRİŞ GÜCÜ 125 W İLE 500 kW ARASINDA OLAN MOTORLARLA TAHRİK EDİLEN FANLARLA İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLERİNE DAİR TEBLİĞ (SVGM: 2019/15)",
+  "number": "34050",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2019/34050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34050&MevzuatTertip=5",
+  "source_sha256": "72c068e65870b863ae8900387e78dfbe161ebd49f02057353a399004127966be",
+  "source_bytes": 54610,
+  "published": "2019-12-20",
+  "gazette": "30984",
+  "in_force": "2020-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-12-23",
+      "RG-23/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-23",
+      "23/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden bir yıl sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1357,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.34050-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
