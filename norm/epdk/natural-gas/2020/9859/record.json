@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9859",
+  "decision_date": "2020-12-24",
+  "title": "04/04/2019 tarihli ve 8522 sayılı Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı hk.",
+  "resmi_gazete_date": "2020-12-26",
+  "resmi_gazete_number": "31346",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q8LKQc5vV5c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Q8LKQc5vV5c="
+  ],
+  "source_sha256": "328c8572cc85cb13bc91353d8d3a7ca17b0c424be66156e89fad03013947b127",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-24",
+  "law_text_complete": true
+}
