@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10802",
+  "decision_date": "2020-12-24",
+  "source_id": 33139,
+  "chamber": "1",
+  "ilam_number": "175",
+  "item_number": 9,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33139/",
+  "source_sha256": "0df45281f3287e4afe658f13dddb20b5e1eb7fbdbbde21fcd0d260e68517f637",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
