@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "770",
+  "decision_date": "2020-12-24",
+  "source_id": 33826,
+  "chamber": "6",
+  "ilam_number": "188",
+  "item_number": 15,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33826/",
+  "source_sha256": "4b2392233c8052d721c0bc7d9777ca014bd424f1805ab5ca312d1ed9ce3b1a1e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
