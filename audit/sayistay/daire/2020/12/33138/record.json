@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10802",
+  "decision_date": "2020-12-24",
+  "source_id": 33138,
+  "chamber": "1",
+  "ilam_number": "175",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33138/",
+  "source_sha256": "7c03d3d15d76cb793715664a149320f58e8f41ca037846b3d6fa8e10b91b06f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
