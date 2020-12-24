@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10804",
+  "decision_date": "2020-12-24",
+  "source_id": 32777,
+  "chamber": "1",
+  "ilam_number": "274",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32777/",
+  "source_sha256": "0d5391eebb24d812f30d462985ad641b99e335ff6d2063d629563b620c7db12c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
