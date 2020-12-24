@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10802",
+  "decision_date": "2020-12-24",
+  "source_id": 33144,
+  "chamber": "1",
+  "ilam_number": "175",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33144/",
+  "source_sha256": "a19a9db8e7e8f4dbc94f23d724a9a6793d0b85d5c4f3b739638dd9cb2c62497b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
