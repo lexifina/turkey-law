@@ -1,0 +1,24 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9888",
+  "decision_date": "2020-12-24",
+  "title": "3/12/2020 tarihli ve 9754 sayılı Kurul Kararının ikinci maddesinin revize edilmesine ilişkin",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Trn037YTUDI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Trn037YTUDI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gH1V3jvbMx0="
+  ],
+  "source_sha256": "d7334e72d31b624df0bf1a57a6cce739894de55f913cfb59b09a9a77ac943eda",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-24",
+  "law_text_complete": true
+}
