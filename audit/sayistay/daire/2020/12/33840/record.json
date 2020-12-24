@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "770",
+  "decision_date": "2020-12-24",
+  "source_id": 33840,
+  "chamber": "6",
+  "ilam_number": "188",
+  "item_number": 29,
+  "account_year": 2018,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33840/",
+  "source_sha256": "416eed4a0c85d2851ce0294a30d885582b086d38649bd6164e32131f7189ff5e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
