@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10803",
+  "decision_date": "2020-12-24",
+  "source_id": 32840,
+  "chamber": "1",
+  "ilam_number": "172",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32840/",
+  "source_sha256": "ab514a33f9264ef7c9d255f4a023163c41f2079963bdbffcda6c217a5dd1fc70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
