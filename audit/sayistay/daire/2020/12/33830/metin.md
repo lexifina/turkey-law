@@ -1,0 +1,13 @@
+Hakediş Ödemesi
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+Denetçi tarafından düzenlenen sorguda, asansör hız kontrol cihazının yenisiyle değişimi ve tamir, bakım, onarım işi için yapılan piyasa araştırmalarında toplam bedel (KDV dahil) teklif eden firmaların tekliflerinin KDV’siz hale getirilerek piyasa araştırma tutanağına yansıtılmaması sonucu teklifi KDV dahil olan firmaya mükerrer olarak KDV ödenmesi suretiyle kamu zararına neden olunduğu iddia edilmişse de;
+
+Kamu İhale Genel Tebliği’nin “4734 sayılı Kanun’un 22’nci maddesinin (d) bendi gereğince ihtiyaçların temini” başlıklı bölümünde yer alan 22.5.1’inci maddesinde, “Ancak bu bent kapsamında gerçekleştirilecek yapım işlerinde fiyat araştırmasının, Yapım İşleri İhaleleri Uygulama Yönetmeliğinde belirlenen yaklaşık maliyetin hesaplanmasına ilişkin esas ve usullere göre yapılması zorunludur.” denilerek doğrudan temin yöntemiyle yapılan yapım işlerinde piyasa fiyat araştırmasına ilişkin olarak Yapım İşleri İhaleleri Uygulama Yönetmeliği’nde yaklaşık maliyetin tespiti için belirlenen esas ve usullere atıf yapılmıştır.
+
+Yapım İşleri İhaleleri Uygulama Yönetmeliği’nin “Yaklaşık maliyet hesabına esas fiyat ve rayiçlerin tespiti” başlıklı 10’uncu maddesinin (4)’üncü fıkrasında ise “Fiyat araştırması için yapılan çalışmalarda fiyat sorulacak kişi ve kuruluşlara yazılan yazıda fiyatı tespit edilecek iş grubu, iş kalemi veya malzemenin ayrıntılı özellikleri ye standardına yer verilir, fiyat istenecek kişi ve kuruluşlara aynı koşulları taşıyan yazılarla başvurulur ve fiyatlar Katma Değer Vergisi hariç istenir. İstenen özellikleri taşımayan fiyat bildirimleri ve proforma faturaları dikkate alınmaz. ” denilmektedir.
+
+Sorgunun ilişikli olduğu ödeme emri ekinde bulunan piyasa araştırma tutanaklarında yukarıda yer verilen mevzuat hükümleri uyarınca firmalardan teklifler KDV hariç olarak istendiğinden, söz konusu tekliflerde KDV ile ilgili herhangi bir açıklama yer almasa da fiyatların KDV hariç olarak değerlendirilmesi gerektiği sonucuna varılmıştır. Dolayısıyla … hizmet binasında bulunan asansörün hız kontrol cihazının yenisiyle değişimi ve tamir, bakım, onarım işinde … Asansör firmasının teklifinde KDV hariç ifadesi bulunmasa da teklifi KDV hariç verdiğinden, anılan firmaya mükerrer KDV ödemesi yapılmamış ve kamu zararına neden olunmamıştır.
+
+Bu itibarla, sorgu konusu … TL ödeme ile ilgili ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İşbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
