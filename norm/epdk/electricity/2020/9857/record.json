@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9857",
+  "decision_date": "2020-12-24",
+  "title": "Tahmini Tüketim Değeri Belirleme Metodolojisi",
+  "resmi_gazete_date": "2020-12-29",
+  "resmi_gazete_number": "31349",
+  "categories": [
+    "Elektrik Piyasası Düzenleyici Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bkPVyLqjMq4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=bkPVyLqjMq4="
+  ],
+  "source_sha256": "7cd1c57f397fd267c3781dedf4e149a35361a75612ccdba4fb17227dda8610ed",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14799,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2020-12-24",
+  "law_text_complete": false
+}
