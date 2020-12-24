@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girmesinden itibaren üç ay içerisinde büyükşehir belediyelerinin bulunduğu il valilikleri, il trafik komisyonlarında UKOME’lerin görevli oldukları konularla ilgili almış oldukları karar, bilgi ve belgeleri UKOME birimlerine devrederler.

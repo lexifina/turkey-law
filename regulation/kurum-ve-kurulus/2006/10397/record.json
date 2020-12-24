@@ -1,0 +1,82 @@
+{
+  "source_id": "7.5.10397",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BÜYÜKŞEHİR BELEDİYELERİ KOORDİNASYON MERKEZLERİ YÖNETMELİĞİ",
+  "number": "10397",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2006/10397",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10397&MevzuatTertip=5",
+  "source_sha256": "b426a773bdc5efa00c77989ce1eaba2a11c7c4407f4c75d737eba7eca13ffc20",
+  "source_bytes": 81132,
+  "published": "2006-06-15",
+  "gazette": "26199",
+  "in_force": "2020-12-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/12/2020\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2020-12-24",
+      "RG-24/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-24",
+      "24/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-19",
+      "RG-19/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-19",
+      "19/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-23",
+      "RG-23/5/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-04-25",
+      "RG-25/4/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-04-25",
+      "25/4/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-14",
+      "RG-14/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-01-14",
+      "14/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3403,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

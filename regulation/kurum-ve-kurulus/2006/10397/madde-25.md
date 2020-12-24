@@ -1,0 +1,2 @@
+Personel görevlendirilmesi
+MADDE 25 – (1) AYKOME ve UKOME’nin işlerini yürütmek üzere oluşturulan birimlerde, büyükşehir belediye personeli dışında da kamu kurum ve kuruluşlarından program hazırlama, etüt proje yapma ve kontrollük gibi hizmetlerde çalıştırılmak üzere konusunda uzman olan personel geçici olarak görevlendirilebilir. Görevlendirme ve özlük haklarına ilişkin hususlarda yürürlükteki mevzuat hükümleri uygulanır.
