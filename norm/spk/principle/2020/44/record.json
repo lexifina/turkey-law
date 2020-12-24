@@ -1,0 +1,70 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "44",
+  "decision_number": "78/1573",
+  "date": "2020-12-24",
+  "title": "Kurul'un i-SPK.128.16 (24.12.2020 Tarih ve 78/1573 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/44",
+  "source_sha256": "c04f12c5728f08930169a5a48dcad818536a25848f0e6e94efad023485ab6e8f",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 44,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: C) Kurul Karar Organı’nın i-SPK.128.16 (24.12.2020 tarih ve 78/1573 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2020-12-24",
+    "source_clauses": [
+      "C) Kurul Karar Organı’nın i-SPK.128.16 (24.12.2020 tarih ve 78/1573 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "7c25ccb7-e945-4f36-b3c7-f4515a7a64bd",
+    "contentSource": "IlkeKarari",
+    "contentID": 44,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK.128.16 (24.12.2020 Tarih ve 78/1573 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2020-12-24T01:00:00",
+    "kurulKararTarih": "24.12.2020",
+    "kurulToplantiNo": "78/1573",
+    "bultenYili": 2020,
+    "bultenNo": 77,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "6:Sermaye Piyasası Araçları;30:Pay Satış Bilgi Formu",
+    "ilgiliKonular": [
+      {
+        "key": 6,
+        "value": "Sermaye Piyasası Araçları"
+      },
+      {
+        "key": 30,
+        "value": "Pay Satış Bilgi Formu"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/44",
+    "linkTarget": "_blank"
+  }
+}
