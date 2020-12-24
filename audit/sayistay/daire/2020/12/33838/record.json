@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "770",
+  "decision_date": "2020-12-24",
+  "source_id": 33838,
+  "chamber": "6",
+  "ilam_number": "188",
+  "item_number": 27,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33838/",
+  "source_sha256": "ed7c736700d2addd3090ae99fd586e95bd0bb26c69dedab6e11e8ff20ae75e4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
