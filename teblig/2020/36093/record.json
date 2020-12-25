@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.36093",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5580 SAYILI KANUN KAPSAMINDA AÇILAN ÖZEL OKULLARDA ÖĞRENİM GÖREN VE ÖNCEKİ YILLARDA EĞİTİM VE ÖĞRETİM DESTEĞİ KAPSAMINA ALINIP ÖĞRETİM KADEMESİNİ TAMAMLAMAYAN ÖĞRENCİLERE 2020-2021 EĞİTİM ÖĞRETİM YILINDA EĞİTİM VE ÖĞRETİM DESTEĞİ ÖDEMESİNE İLİŞKİN TEBLİĞ",
+  "number": "36093",
+  "issuer": "Millî Eğitim Bakanı ile Hazine ve Maliye Bakanı",
+  "path": "teblig/2020/36093",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36093&MevzuatTertip=5",
+  "source_sha256": "8da3d868a959d958f0b547e61c39725596f5fb8838005db1253eb8fcbcda4b98",
+  "source_bytes": 18662,
+  "published": "2020-12-25",
+  "gazette": "31345",
+  "in_force": "2020-12-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.12.2020); own commencement article: \"bu Tebliğ, 2020-2021 eğitim ve öğretim yılı için geçerli olmak üzere yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "bu Tebliğ, 2020-2021 eğitim ve öğretim yılı için geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 607,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
