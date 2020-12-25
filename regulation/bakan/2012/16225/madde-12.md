@@ -1,0 +1,4 @@
+Sözlü sınav
+MADDE 12 – (1) (Değişik:RG-28/5/2013-28660) Yarışma sınavının yazılı ve sözlü sınavdan oluşması halinde, yazılı sınavdaki başarı sırasına göre, yarışma sınavının sadece sözlü sınavdan oluşması halinde ise KPSS puanı sırasına göre atama yapılacak kadro sayısının dört katı kadar aday sözlü sınava çağrılır. Çağrılacak olan son sıradaki aday ile eşit puana sahip adayların tamamı da sözlü sınava çağrılır.
+(2) (Değişik:RG-28/5/2013-28660) Sözlü sınava girme hakkını kazananlara, sözlü sınavın yapılacağı yer, gün ve saat sözlü sınav tarihinden en az on gün önce Bakanlık ve Genel Müdürlük internet sitesinde ilan edilmek suretiyle duyurulur.
+(3) Sınav Kurulu, sözlü sınavı, 657 sayılı Devlet Memurları Kanununun ek 41 inci maddesi çerçevesinde değerlendirir ve adayların sözlü sınav puanını belirler.

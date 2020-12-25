@@ -1,0 +1,4 @@
+Sınav hazırlık komisyonu ve görevleri
+MADDE 9 – (1) Hizmet birimleri personeli arasından başkan dahil beş üyeden oluşan Sınav Hazırlık Komisyonu (Değişik ibare:RG-31/12/2019-30995) Bakan Yardımcısı onayı ile kurulur.
+(2) Sınav Hazırlık Komisyonu, yarışma sınavı hazırlık çalışmaları yapar, yarışma sınavı başvurularını inceler ve aranılan şartların adaylarda mevcut olup olmadığını tespit eder. Sınava katılacak sayıda adayı tutanakla belirleyerek, son başvuru tarihinden itibaren on gün içinde Genel Müdürlüğe bildirir.
+(3) (Değişik:RG-28/5/2013-28660) Yarışma sınavına çağrılacak adayların sayısı, atama yapılacak kadro sayısının yirmi katından, sadece sözlü sınav yapılması halinde dört katından fazla olamaz. KPSS puanı en yüksek olan adaydan başlamak üzere yapılan sıralama sonucunda son sıradaki aday ile eşit puana sahip diğer adaylar da sınava çağrılır.
