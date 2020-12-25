@@ -1,0 +1,63 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897335,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "ABDULLAH GÜLER (İSTANBUL)",
+  "summary": "Ve 43 Milletvekilinin Kitle İmha Silahlarının Yayılmasının Finansmanının Önlenmesine Dair (2/3261) (S. Sayısı: 247)",
+  "title": "Ve 43 Milletvekilinin Kitle İmha Silahlarının Yayılmasının Finansmanının Önlenmesine Dair (2/3261) (S. Sayısı: 247)",
+  "first_sitting_date": "2020-12-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 59,
+      "sitting": 39,
+      "sitting_date": "2020-12-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059039.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059fih.pdf",
+      "pages": [
+        "303:305",
+        "308:328",
+        "330:335",
+        "337:351",
+        "352:360",
+        "362:365",
+        "366:370",
+        "373:384",
+        "385:410",
+        "411:422",
+        "423:453"
+      ]
+    },
+    {
+      "cilt": 59,
+      "sitting": 40,
+      "sitting_date": "2020-12-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c059/tbmm27059fih.pdf",
+      "pages": [
+        "518:520",
+        "520:527",
+        "528:574",
+        "576:609",
+        "610:643",
+        "643:644",
+        "645:657"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=101&v_kullanici_id=27484797",
+  "source_sha256": "c9bbea1bd4e461fb5a6fa75bef0e22b922464ba12085c30ba27ec0e4bef17f00",
+  "in_force": "2020-12-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
