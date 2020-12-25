@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-25",
+  "issue": "31345",
+  "edition": "regular",
+  "item": 14,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2020-2021 Eğitim Öğretim Yılında Organize Sanayi Bölgeleri İçinde ve Dışında Açılan/Açılacak Özel Mesleki ve Teknik Anadolu Liselerinde Öğrenim Gören/Görecek Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201225-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201225.htm",
+  "index_sha256": "6b055fe0d590afd46bfb5efa2c28342345f7d784853b092d55f46b3152a1ebd8",
+  "index_header": "25 Aralık 2020 ... 31345 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201225.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
