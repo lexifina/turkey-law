@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-26",
+  "issue": "31346",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "6502 Sayılı Tüketicinin Korunması Hakkında Kanunun 77 nci Maddesine Göre 2021 Yılında Uygulanacak Olan İdari Para Cezalarına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201226-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201226.htm",
+  "index_sha256": "cc281f788c7513ce681ad8a0899f6e23831206ea45424534790c02cf7fb0a437",
+  "index_header": "26 Aralık 2020 ... 31346 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201226.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
