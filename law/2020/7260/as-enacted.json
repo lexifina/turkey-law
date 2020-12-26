@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7260",
+  "year": 2020,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Tercihli Ticaret Anlaşmasının Onaylanmasının Uygun Bulunmasına ve Anlaşmanın Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-12-26",
+  "gazette_issue": "31346",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201226-1.htm",
+  "source_sha256": "c296ff5b6f9a6fcb0e04ca5692746651ae406c0ff7ba580d7787a497ef1961b4",
+  "text_sha256": "2458ef670ce91844e662696abc3cd4ae28be6ef2c81c95cecf942d1b0d87a595",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/12/26/31346-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201226-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
