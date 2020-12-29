@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2020/657",
+  "list_number": "657",
+  "decision_date": "2020-12-29",
+  "title": "Yüksek Seçim Kurulunun, 10/12/2020 tarih ve 2020/628 sayılı kararının giriş bölümünün ikinci pragrafında yer alan “16/03/2020” tarihinin “16/03/2018” olarak, aynı kararın “SONUÇ” bölümünün 1 inci maddesinde yer alan “05/04/2020” tarihinin “05/04/2008” olarak ve söz konusu karar ile kabul edilen 5393 Sayılı Kanuna Göre Yapılacak Halkoylamasında Seçmenlerin Oylarına Başvurma Usul ve Esaslarına İlişkin Örnek 147 sayılı Genelge’nin 72 nci maddesinde yer alan “05/04/2020” tarihinin “05/04/2008” olarak düzeltilmesine ilişkin 2020/657 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78335/2020-657.pdf",
+  "source_sha256": "92e752494a4150db29d5b2f4eb0f7b197be21a7503ccefade334fd7be963504a",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 2,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2020-12-29",
+  "law_text_complete": false
+}
