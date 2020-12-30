@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.36139",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2872 SAYILI ÇEVRE KANUNU UYARINCA ALINACAK GERİ KAZANIM KATILIM PAYI TUTARLARINA İLİŞKİN TEBLİĞ (2021/1)",
+  "number": "36139",
+  "path": "teblig/2020/36139",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36139&MevzuatTertip=5",
+  "source_sha256": "174d82b98ee24994f1e6c053f4e3786cadce776e349f87fdfe23ecfd0bfde0be",
+  "source_bytes": 11896,
+  "published": "2020-12-30",
+  "gazette": "31350 2.Mükerrer",
+  "in_force": "2020-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2020)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 204,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36139-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
