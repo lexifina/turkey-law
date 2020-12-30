@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9947",
+  "decision_date": "2020-12-30",
+  "title": "Enerya Konya Gaz Dağıtım Anonim Şirketi’nin (Şirket) ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-12-31",
+  "resmi_gazete_number": "31351",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2ih5BkP8htQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2ih5BkP8htQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2dEikw0XPMM="
+  ],
+  "source_sha256": "ea8d646206f72457e0a7131c0aa288e6ff01463722c55a607c7871119f1346ad",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-30",
+  "law_text_complete": true
+}
