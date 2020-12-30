@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9959",
+  "decision_date": "2020-12-30",
+  "title": "Uşak Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2020-12-31",
+  "resmi_gazete_number": "31351",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=erjZyKbB5NQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=erjZyKbB5NQ="
+  ],
+  "source_sha256": "abab4c238229410d743c65c734983e88ac9f6ee351cc89128cf0e96b8f5cba66",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2020-12-30",
+  "law_text_complete": true
+}
