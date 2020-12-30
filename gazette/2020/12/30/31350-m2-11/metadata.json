@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-30",
+  "issue": "31350",
+  "edition": "mükerrer 2",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Türkiye Denetim Standartları Tebliği No: 62 (Özel Hususlar – Tek Bir Finansal Tablonun Bağımsız Denetimi ile Finansal Tablolardaki Belirli Unsurların, Hesapların veya Kalemlerin Bağımsız Denetimi Hakkında Bağımsız Denetim Standardı 805)’in Yürürlükten Kaldırılmasına Dair Türkiye Denetim Standartları Tebliği No: 90",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201230M2-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201230M2.htm",
+  "index_sha256": "d7decab4abfb38a4eb7003c79203480120e877786906117ac04b4879d53ddf73",
+  "index_header": "30 Aralık 2020 ... 31350 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201230M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
