@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9956",
+  "decision_date": "2020-12-30",
+  "title": "Türkiye Elektrik İletim Anonim Şirketi’nin; İletim Gelirinin Düzenlenmesi Hakkında Tebliğ kapsamında, altıncı uygulama dönemi işletme giderleri ve yatırım bileşeni",
+  "resmi_gazete_date": "2020-12-31",
+  "resmi_gazete_number": "31351",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k5GdsAmGH2M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k5GdsAmGH2M=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3SWUp/Ieu+o="
+  ],
+  "source_sha256": "702c552b9daec9e9c500597496ef617b4dbeb7e4897cfc58411e5786efa06188",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2020-12-30",
+  "law_text_complete": false
+}
