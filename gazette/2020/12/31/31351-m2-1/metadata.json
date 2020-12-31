@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-31",
+  "issue": "31351",
+  "edition": "mükerrer 2",
+  "item": 1,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7259 2019 Yılı Merkezi Yönetim Kesin Hesap Kanunu",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M2-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M2.htm",
+  "index_sha256": "be42c8d7ccd1f1ac0f953a31dc2ec482e1e4d3b8c8b96b0a5f6418a0ff1f883c",
+  "index_header": "31 Aralık 2020 ... 31351 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M2.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
