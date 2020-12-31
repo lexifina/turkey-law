@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7258",
+  "year": 2020,
+  "title": "2021 Yılı Merkezi Yönetim Bütçe Kanunu",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2020-12-31",
+  "gazette_issue": "31351",
+  "edition": "mükerrer 1",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M1-1.htm",
+  "source_sha256": "9f1aa2101c744a3baf2a79e7334836a7d826cef5df6b26378c4761de4faeaa40",
+  "text_sha256": "c3c62a0949fda143203daa8353c88d3c0ac2b6ca1bd39982a158c5f0396d795f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2020/12/31/31351-m1-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M1-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
