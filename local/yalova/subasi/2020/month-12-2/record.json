@@ -1,0 +1,29 @@
+{
+  "number": "month-12-2",
+  "year": 2020,
+  "month": 12,
+  "title": "2020 Aralık Ayı Meclis Toplantısı",
+  "decision_date": null,
+  "index_date": "2020-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2020",
+  "source": "https://www.subasi.bel.tr/karar/2020-aralik-ayi-meclis-toplantisi",
+  "official_page": "https://www.subasi.bel.tr/karar/2020-aralik-ayi-meclis-toplantisi",
+  "official_document": "https://www.subasi.bel.tr/karar/2020-aralik-ayi-meclis-toplantisi",
+  "source_sha256": "cdbdae6c5f70fb94846e0acc2d17677a3f6943dc9d1bb8e5807e264b2ad64a77",
+  "issuer": "Subaşı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2020 Aralık Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
