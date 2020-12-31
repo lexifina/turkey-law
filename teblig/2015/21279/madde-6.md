@@ -1,0 +1,13 @@
+Aracı kurumlar tarafından repo ve ters repo işlemlerine konu edilebilecek finansal araçlar
+MADDE 6 – (1) Repo ve ters repo işlemlerine konu olabilecek finansal araçlar aşağıda belirtilmiştir:
+a) Devlet tahvili, hazine bonosu, gelire endeksli senet ve gelir ortaklığı senetleri dahil olmak üzere yurt içinde veya yurt dışında ihraç edilmiş kamu borçlanma araçları, 28/3/2002 tarihli ve 4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun çerçevesinde kurulan varlık kiralama şirketleri tarafından yurt içinde veya yurt dışında ihraç edilen kira sertifikaları.
+b) TCMB tarafından ihraç edilen likidite senetleri.
+c) (Değişik:RG-31/12/2020-31351)(1) Özelleştirme İdaresi Başkanlığı, Türkiye Varlık Fonu Yönetimi Anonim Şirketi, Türkiye Varlık Fonu, Toplu Konut İdaresi Başkanlığı, kamu iktisadi kuruluşları, mahalli idareler ve bunlarla ilgili idare, işletme ve kuruluşların Kanun uyarınca ihraç ettikleri borçlanma araçları.
+ç) Bankalar tarafından ihraç edilenler de dahil olmak üzere yurt içinde veya yurt dışında Türkiye’de yerleşik ihraççılar tarafından ihraç edilmiş borçlanma araçları.
+d) Türkiye’de yerleşik ihraççılar tarafından yurt içinde veya yurt dışında ihraç edilmiş kira sertifikaları.
+e) (Değişik:RG-31/12/2020-31351)(1) Türkiye’de yerleşik ihraççılar tarafından yurt içinde veya yurt dışında ihraç edilmiş varlığa dayalı menkul kıymetler, varlık teminatlı menkul kıymetler, ipoteğe dayalı menkul kıymetler, ipotek teminatlı menkul kıymetler, gayrimenkul sertifikaları ve projeye dayalı menkul kıymetler.
+f) Borsa İstanbul A.Ş. tarafından Borsa İstanbul A.Ş. pazarlarında repo ve ters repo işlemlerine konu olmak üzere belirlenen paylar.
+g) (Ek:RG-31/12/2020-31351)(1) Serbest fonlar hariç olmak üzere yatırım fonlarının katılma payları.
+ğ) (Ek:RG-31/12/2020-31351)(1) Hazine ve Maliye Bakanlığı ve kurum ve kuruluşları ile TCMB’nin üyesi veya ortağı olduğu uluslararası kuruluş niteliğindeki yabancı kuruluşlarca ihraç edilmiş borçlanma araçları, kira sertifikaları, gayrimenkul sertifikaları, projeye dayalı menkul kıymetler, varlığa dayalı menkul kıymetler, varlık teminatlı menkul kıymetler, ipoteğe dayalı menkul kıymetler ve ipotek teminatlı menkul kıymetler.
+(2) Birinci fıkranın (ç), (d) ve (e) bentlerinde yer alan finansal araçlardan, yalnızca yurt içinde ya da yurt dışındaki borsalarda veya teşkilatlanmış diğer pazar yerlerinde işlem görenler, repo ve ters repo işlemlerine konu olabilir.
+(3) (Ek:RG-31/12/2020-31351)(1) Birinci fıkranın (ğ) bendinde sayılan varlıkların repo ve ters repo işlemine konu edilmesi, buna ilişkin talebin Takasbank’a iletilmesi üzerine Takasbank tarafından belirlenecek tarihten sonra mümkün olabilir.

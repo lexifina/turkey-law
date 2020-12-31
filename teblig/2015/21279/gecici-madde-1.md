@@ -1,0 +1,4 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ III-37.1 uyarınca işlem aracılığı ve/veya portföy aracılığı faaliyet izni almak üzere Kurula başvuruda bulunan aracı kurumlar, başvuruları sonuçlanıncaya kadar repo ve ters repo işlemlerini bu Tebliğ hükümlerine göre gerçekleştirir.
+(2) İşlem aracılığı ve/veya portföy aracılığı faaliyetinde bulunmak üzere başvuruda bulunmuş veya faaliyet izni almış aracı kurumlardan 16/12/2014 tarihi itibariyle repo yetki belgeleri Kurulca geçersiz sayılanlar, 5 inci madde uyarınca bildirim yapmış kabul edilecek olup, bu kurumlardan repo-ters repo işlemi yapmayacak olanların bu durumlarını ayrıca bildirmeleri gerekir.
+(3) Dar yetkili olarak yetkilendirilmiş olan veya bu kapsamda Kurula başvuruda bulunmuş olan aracı kurumlar ise bu Tebliğin yayımı tarihinden itibaren sadece mevcut işlemleri kapatma amaçlı işlem yapabilirler.

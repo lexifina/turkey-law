@@ -1,0 +1,4 @@
+İşlem limitleri
+MADDE 11 – (1) Aracı kurumların toplam repo tutarı bakiyesi ile ters repo tutarı bakiyesi arasındaki fark, sermaye yeterliliği yükümlülükleri uyarınca bir önceki ay sonu itibariyle hesaplanan özsermaye tutarının 20 katını aşamaz.
+(2) Borsa İstanbul A.Ş. bünyesinde gerçekleştirilen işlemler ile TCMB ile gerçekleştirilen işlemler hariç, aynı kişi ve kuruluşla gerçekleştirilen işlemlerde, repo tutarı bakiyesi ile ters repo tutarı bakiyesi arasındaki fark aracı kurumun birinci fıkra uyarınca hesaplanan özsermayesinin 2 katını aşamaz.
+(3) (Ek:RG-31/12/2020-31351)(2) Repo ve ters repoya konu edilen, aracı kurumların kendilerinin veya sermaye, yönetim ve denetimlerine hâkim oldukları bağlı ortaklık, iştirak ve müesseseleri ile aracı kurumların mevduat ve katılım bankaları hariç nitelikli pay sahiplerinin ihraç ettiği finansal araçların tutarı birinci fıkra uyarınca hesaplanan aracı kurum özsermayesinin %10’unu aşamaz.
