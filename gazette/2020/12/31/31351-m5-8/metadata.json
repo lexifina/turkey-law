@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-31",
+  "issue": "31351",
+  "edition": "mükerrer 5",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "2021 Yılı Serbest Muhasebecilik, Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Asgari Ücret Tarifesi",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5.htm",
+  "index_sha256": "d665d8ce424d22f1c10df136887b3f88b622df0ec48c28b119b3363003c7f6b9",
+  "index_header": "31 Aralık 2020 ... 31351 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M5.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
