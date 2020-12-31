@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.36145",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2021 YILI ARABULUCULUK ASGARİ ÜCRET TARİFESİ",
+  "number": "36145",
+  "path": "teblig/2020/36145",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36145&MevzuatTertip=5",
+  "source_sha256": "dea1ade5e3a9750d22b67834fd1dcb1f93ccad521c8777a6dd8833e2720205c1",
+  "source_bytes": 19378,
+  "published": "2020-12-31",
+  "gazette": "31351",
+  "in_force": "2020-12-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.12.2020)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 819,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36145-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
