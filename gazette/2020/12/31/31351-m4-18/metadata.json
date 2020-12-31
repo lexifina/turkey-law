@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-31",
+  "issue": "31351",
+  "edition": "mükerrer 4",
+  "item": 18,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İhracatta Ticari Kalite Denetimlerinin Risk Esaslı Yapılması Amacıyla Firmaların Sınıflandırılmasına İlişkin Tebliğ (Ürün Güvenliği ve Denetimi: 2021/22)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M4-18.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M4.htm",
+  "index_sha256": "03fe2d204bd2fbfc70b663dd930cf5c090460eec9dbf6102d28d0186d5bc4629",
+  "index_header": "31 Aralık 2020 ... 31351 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
