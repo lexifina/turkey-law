@@ -1,0 +1,28 @@
+{
+  "number": "month-12-2",
+  "year": 2020,
+  "month": 12,
+  "title": "ARALIK 2020",
+  "decision_date": null,
+  "index_date": "2020-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2020",
+  "source": "https://www.kandira.bel.tr/karar/aralik-2020",
+  "official_page": "https://www.kandira.bel.tr/karar/aralik-2020",
+  "official_document": "https://www.kandira.bel.tr/uploads/files/RAPOR%20NO-5%20(%C4%B0%C3%87K%C4%B0L%C4%B0%20ALAN%20B%C3%96LGES%C4%B0).pdf",
+  "source_sha256": "09f4d67a9dd99bcb9639ccaa27500c8c2fdb4e64860a60dbb86aa3d7db599c65",
+  "issuer": "Kandıra Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ARALIK 2020",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
