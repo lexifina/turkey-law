@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2020-12-31",
+  "issue": "31351",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bankalarca Ticari Müşterilerden Alınabilecek Ücretlere İlişkin Usul ve Esaslar Hakkında Tebliğ (Sayı: 2020/4)'de Değişiklik Yapılmasına İlişkin Tebliğ (Sayı: 2020/19)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231.htm",
+  "index_sha256": "218c1460dd1bee6d7daba4550deccee1987bb28ffaa7138c8ba9c4b5e9551bd7",
+  "index_header": "31 Aralık 2020 ... 31351 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2020/12/20201231.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
