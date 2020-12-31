@@ -1,0 +1,2 @@
+year,number,published,title,source,source_sha256,representation,act_path,words,omitted_sections,note
+2020,38,2020-12-31,Kurul'un 31/12/2020 Tarih ve 79/1624 Sayılı Kararı,https://mevzuat.spk.gov.tr/api/IlkeKarari/File/38,5910d6bfad3560a2c3d32a5e72e2fc30b06c3ffaf3cbfed32412da1ba0ab5545,regulatory-text,norm/spk/principle/2020/38,102,,whole official standalone text; decision date independently present in PDF
