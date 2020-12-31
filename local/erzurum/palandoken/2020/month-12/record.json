@@ -1,0 +1,29 @@
+{
+  "number": "month-12",
+  "year": 2020,
+  "month": 12,
+  "title": "Aralık Ayı Meclis Kararları (2020_aralik-ayi-meclis-karari-1621199565.pdf)",
+  "decision_date": null,
+  "index_date": "2020-12-31",
+  "date_precision": "month",
+  "period": "Aralık 2020",
+  "source": "https://www.palandoken.bel.tr/meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://www.palandoken.bel.tr/dokumanlar/meclis-kararlari/2020_aralik-ayi-meclis-karari-1621199565.pdf",
+  "source_sha256": "f2f881c824c70e1a558a026d1af857765452b08a41cb2bb3e51bb9ad5be3ab38",
+  "issuer": "Palandöken Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2020-12-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Aralık 2020); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Aralık Ayı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name"
+}
