@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, ürün güvenliği ve teknik düzenlemeler mevzuatı uyarınca ihracatta ticari kalite denetimine tâbi ürünlerin risk analizi esaslı olarak hangi sıklıkta denetime tâbi tutulacağının belirlenmesi amacıyla, bu ürünleri ihraç eden firmaların sınıflandırılmasına, sınıflandırmada esas alınacak özelliklere, sınıfı belirlenen firmaların hak ve yükümlülüklerine ilişkin usul ve esasları düzenlemektir.

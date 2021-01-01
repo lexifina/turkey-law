@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Ticaret Bakanlığını,
+b) Bakanlık laboratuvarı: Bakanlığın Bölge Müdürlüklerine bağlı laboratuvarları,
+c) Bölge Müdürlüğü: Bakanlığın Bölge Müdürlükleri arasından Dış Ticarette Risk Esaslı Kontrol Sistemi (TAREKS)’nde ilan edilenleri,
+ç) Dış Ticarette Risk Esaslı Kontrol Sistemi (TAREKS): Ürün güvenliği ve teknik düzenlemeler mevzuatı uyarınca yürütülen denetim, uygunluk ve izin işlemlerinin elektronik ortamda ve risk analizi esaslı olarak yapılması amacıyla kurulan internet tabanlı uygulamayı,
+d) Döner Sermaye İşletmesi: Bakanlık Döner Sermaye İşletmesini,
+e) Fiili denetim: Fiziki muayene ve/veya laboratuvar analizini,
+f) Firma: İhracatta ticari kalite denetimine tâbi ürünlerin üretimini ve/veya işlenmesini ve/veya ihracatını yapan, kamu kurumları dâhil, tüm gerçek ve tüzel kişiler ile bunların temsilcilerini,
+g) Genel Müdürlük: Ürün Güvenliği ve Denetimi Genel Müdürlüğünü,
+ğ) İşletme: Ürünün ihracata hazırlanması amacıyla firmanın merkezinde ya da başka yerlerde birbirinden bağımsız şekilde firmanın aynı vergi numarasına bağlı olarak faaliyet gösteren her bir işletmeyi,
+h) Kalite Sistem Belgesi: Bir ürün veya hizmetin sağlanmasına yönelik olarak kalite konusunda istenen gereklerin yerine getirildiğini gösteren ISO 9000, ISO 9001, ISO 22000, HACCP, GAP, GLOBALGAP, BRC Global Standard For Food Safety, İyi Tarım Uygulamaları Sertifikası, IFS (International Food Standard), FFSC 22000 belgelerinden biri veya birkaçını,
+ı) Komisyon: Firmaların sınıflandırma başvuruları ile sınıflandırılan firmaların ürünün üretim ve/veya işlenmesinde gerekli teknik altyapıları (depo, makine, üretim bandı, laboratuvar ve benzeri), Sorumlu Denetçileri, laboratuvar elemanlarını ve faaliyetlerini değerlendirmek veya denetlemek üzere Bölge Müdürlüğü tarafından en az biri Ticaret Denetmeni olmak üzere en az iki kişiden oluşturulan ekibi,
+i) Laboratuvar elemanı: Ürünlerin ilgili teknik düzenlemelere göre fiziksel ve kimyasal analizlerini yapabilecek nitelikte personeli (ürünün özelliğine göre gıda mühendisi, ziraat mühendisi, kimya mühendisi, kimyager, veteriner veya biyolog),
+j) Marka Tescil Belgesi: Sınıflandırma başvurusunda bulunan firmaya ait markanın, Türk Patent ve Marka Kurumu siciline kayıtlı olduğunu gösteren veya yurt dışında tescil edilmiş olması durumunda ilgili ülke makamlarınca düzenlenmiş belgeyi,
+k) Risk analizi: İhracata konu ürünlerden gerekli görülenlerin ilgili teknik düzenlemelere uygun olmama ihtimali çerçevesinde; ürünün niteliği, üretim dönemi, fiyatı, hava şartları, işleme ve paketleme işlemleri, saklama şartları, taşıma aracı ve ticareti yapılan partinin miktarı, ihraç, ithal veya menşe ülkesi, firmanın teknik altyapısı, büyüklüğü ve ticaretteki payı, üretim yelpazesi, saklama, paketleme, işleme gibi üretim tesisinin altyapısı ve taşıma şartları, önceki denetimlerden elde edilen uygunsuzluklar (geri çevirme ve ret işlemleri, geri gelen ürün bildirimleri ve benzeri), diğer bakanlıklardan alınan bilgiler, yurt dışından alınan geri bildirimler, denetimin yapıldığı yerin özellikleri ve firma tarafından beyan edilen bilgiler ve ürünün uygunsuzluğunu gösterebilecek diğer tüm bilgiler dikkate alınarak fiili denetime tâbi tutulması gereken ürünlerin belirlenmesi işlemini,
+l) Sorumlu Denetçi: Dört yıllık yükseköğretim lisans programını tamamlamış ve bu Tebliğ uyarınca aranan gerekli şartları sağlayarak Sorumlu Denetçi olmaya hak kazanan kişileri,
+m) Ticari kalite denetimi: İhracata konu ürünlerin ilgili teknik düzenlemelere uygunluğunun risk analizine göre seçici ve yeterli düzeyde olacak biçimde yapılan denetimini,
+n) Ticaret Denetmeni: İhracatta ve ithalatta ticari kalite denetimlerini yürütme yetkisini haiz, denetime konu ürünlerin ilgili teknik düzenlemelerine ilişkin bilgiye sahip denetmen ve denetmen yardımcılarından oluşan personeli,
+ifade eder.

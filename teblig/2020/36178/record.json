@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36178",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İHRACATTA TİCARİ KALİTE DENETİMLERİNİN RİSK ESASLI YAPILMASI AMACIYLA FİRMALARIN SINIFLANDIRILMASINA İLİŞKİN TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2021/22)",
+  "number": "36178",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/36178",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36178&MevzuatTertip=5",
+  "source_sha256": "8b92435cd0901f7bd4e3b1eb2489c17c9d3f2f083a85430a6bb5d301b5687669",
+  "source_bytes": 53223,
+  "published": "2020-12-31",
+  "gazette": "31351 (4.Mükerrer)",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2708,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36178-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
