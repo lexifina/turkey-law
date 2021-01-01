@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36124",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 86)",
+  "number": "36124",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2020/36124",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36124&MevzuatTertip=5",
+  "source_sha256": "e0c97eeae4440ca73c2346b3e75ef1d1ea829a372663a364629ba19c253f851a",
+  "source_bytes": 15481,
+  "published": "2020-12-29",
+  "gazette": "31349 Mükerrer",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 232,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36124-EK.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
