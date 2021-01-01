@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.36108",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MESLEK BİRLİKLERİNE VERİLECEK YETKİ BELGESİ HAKKINDA YÖNETMELİK",
+  "number": "36108",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2020/36108",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36108&MevzuatTertip=5",
+  "source_sha256": "a675f02acf74750f5a877a81173997fc9e4fbb99f11427b7d3f34f8909b8beb0",
+  "source_bytes": 24020,
+  "published": "2020-11-07",
+  "gazette": "31297",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 999,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
