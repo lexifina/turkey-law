@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.36105",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK PİYASASI TARİFELER YÖNETMELİĞİ",
+  "number": "36105",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurumu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurumu-baskani/2020/36105",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36105&MevzuatTertip=5",
+  "source_sha256": "ac10460c964adee83775135740bfcfe4c569d1d8c8a51c2c2803531a9203cf50",
+  "source_bytes": 67581,
+  "published": "2020-06-19",
+  "gazette": "31160",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3612,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
