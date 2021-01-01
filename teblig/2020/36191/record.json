@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "date_gazette": "31351 5.Mükerrer",
+  "date_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31351 5.Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-100.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=100&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36191&MevzuatTertip=5",
+  "source_bytes": 8677,
+  "source_id": "9.5.36191",
+  "source_sha256": "6bdfc822894c99f008ece20beac8a819982cae91f541e8d17d3443904374e37c",
+  "title": "ETİL ALKOL VE METANOLÜN ÜRETİMİ İLE İÇ VE DIŞ TİCARETİNE İLİŞKİN\r\nUSUL VE ESASLAR HAKKINDA YÖNETMELİĞİN 25 İNCİ VE 26 NCI\r\nMADDELERİNİN UYGULANMASINA DAİR TEBLİĞ\r\n(TEBLİĞ NO: 2020/51)",
+  "word_count": 216
+}
