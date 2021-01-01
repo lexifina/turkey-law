@@ -1,0 +1,4 @@
+Yönetmeliğin yürürlük tarihinden önce ihale ilanı yapılan ve sözleşmesi imzalanmamış ihaleler ile prosedür revizesi
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarih itibarıyla ihale ilanı yapılmış ve sözleşmeye bağlanmamış ihaleler 18 inci madde ile yürürlükten kaldırılan Elektrik Dağıtım Şirketlerinin Satın Alma-Satma ve İhale Prosedürlerinin Hazırlanması ve Uygulanması Yönetmeliğine göre sonuçlandırılabilir.
+(2) Elektrik dağıtım şirketleri satın alma, satma ve ihale prosedürlerini, bu Yönetmeliğin yayımı tarihinden itibaren 1 ay içerisinde bu Yönetmeliğe uygun olarak revize ederek Kuruma sunar.
+(3) 16 ncı maddede yer alan hükümler, 18 inci madde ile yürürlükten kaldırılan Elektrik Dağıtım Şirketlerinin Satın Alma-Satma ve İhale Prosedürlerinin Hazırlanması ve Uygulanması Yönetmeliğine göre ihale edilen işler için de uygulanır.

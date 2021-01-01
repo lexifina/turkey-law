@@ -1,0 +1,8 @@
+Yerli istekli ve yerli malı avantajı sağlanan ihaleler
+MADDE 11 – (1) Sözleşme bedeli 5.000.000 TL’nin altında olan tüm ihalelerde, yalnızca yerli isteklilerin katılabileceğine ilişkin düzenleme yapılabilir.
+(2) İsteklilerin, yerli istekli oldukları, teklif kapsamında sunduğu, Türkiye Cumhuriyeti kimlik kartı, Türkiye Ticaret Sicili Gazetesi, vergi levhası ve benzeri belgeler üzerinden değerlendirilir. Yerli istekli olunduğuna ilişkin ayrıca bir belge istenmez.
+(3) İhaleye yalnızca yerli isteklilerin katılması ve/veya yerli malı teklif eden yerli istekliler lehine fiyat avantajı tanınmasına yönelik olarak;
+a) İsteklilerce teklif edilen malın yerli malı olduğu, Yerli Malı Belgesi ile belgelendirilir. Yerli Malı Belgesi ve yerli katkı oranlarına ilişkin uygulamalar ve düzenlemelerde Yerli Malı Tebliği (SGM 2014/35) hükümleri esas alınır.
+b) Ortak girişimlerin yerli istekli sayılabilmesi için bütün ortaklarının yerli istekli olması zorunludur.
+c) Bu madde kapsamında yapılacak alımlara ilişkin; alım yapılacak ürünler, alım garantisi verilecek ürünler ve garanti süreleri, varsa ürün için uygulanacak asgari yerli katkı oranı, uygulanacak fiyat avantajı oranı, miktar, parasal limitler, alım yöntem ve kuralları, fiyat farkı, iş artışı, iş eksilişi ve benzeri şartlar ile sözleşmeye ilişkin hususlara yönelik bu Yönetmeliğe uygun olarak yapılan düzenlemelere ihale dokümanlarında yer verilir.
+ç) Yerli malı teklif eden yerli istekli lehine avantaj uygulanan ihalelerde, yerli malı olduğuna yönelik belgeleri sunmayan veya öngörülen yerli malı ve yerli istekli şartlarını sağlamayan isteklinin teklifi değerlendirme dışı bırakılamaz, yalnızca avantajdan yararlandırılmaz.
