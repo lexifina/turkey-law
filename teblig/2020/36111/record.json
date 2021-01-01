@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "date_gazette": "31332",
+  "date_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31332",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-12-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36111&MevzuatTertip=5",
+  "source_bytes": 18340,
+  "source_id": "9.5.36111",
+  "source_sha256": "77a7f0fb39965670d818898229d636e0cfc4edc0dd5a9d701bc452da37fedad9",
+  "title": "4646 SAYILI DOĞALGAZ PİYASASI KANUNUNUN (ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASI VE DOĞALGAZ PİYASASI HAKKINDA KANUN) 9 UNCU MADDESİ UYARINCA 2021 YILINDA UYGULANACAK PARA CEZALARI HAKKINDA TEBLİĞ",
+  "word_count": 241
+}

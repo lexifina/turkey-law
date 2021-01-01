@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 - (1) Bu Tebliğin amacı, 18/4/2001 tarihli ve 4646 sayılı Doğalgaz Piyasası Kanununun (Elektrik Piyasası Kanununda Değişiklik Yapılması ve Doğalgaz Piyasası Hakkında Kanun) 9 uncu maddesinde düzenlenmiş olan idari para cezalarının 28/11/2020 tarihli ve 31318 sayılı Resmî Gazete‘de yayımlanan Vergi Usul Kanunu Genel Tebliği'nde (Sıra No: 521) 2020 yılı için yeniden değerleme oranını % 9,11 (dokuz virgül on bir) oranında artırılarak yeniden belirlenmesidir.
