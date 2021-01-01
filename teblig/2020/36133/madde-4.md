@@ -1,0 +1,4 @@
+Diğer idari para cezaları
+MADDE 4 - (1) 5015 sayılı Kanunun 19 uncu maddesinin birinci fıkrasının (a) bendinin, bayilik lisans sahipleri tarafından ihlali halinde (a) bendinde yer alan cezaların yarısı uygulanır.
+(2) Ulusal marker ekleme işlemlerine nezaret etmek üzere yetki verilen bağımsız gözetim firmalarının yükümlülüklerini yerine getirmemeleri halinde 5015 sayılı Kanunun 19 uncu maddesinin birinci fıkrasının (a) bendinde belirtilen idari para cezasının dörtte biri uygulanır.
+(3) Serbest kullanıcı lisansı sahiplerince 5015 sayılı Kanunun 19 uncu maddesinin birinci fıkrasının (d) bendinin ihlali halinde, altmış altı bin sekiz yüz yetmiş üç Türk Lirasından az olmamak ve yüz otuz üç bin yedi yüz kırk yedi Türk Lirasının geçmemek üzere fiilin işlendiği tarihten bir önceki yılda ilgili lisansa konu petrol piyasası faaliyetine ilişkin net satış hasılatının binde beşi oranında idari para cezası uygulanır.
