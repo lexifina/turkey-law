@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "date_gazette": "31332",
+  "date_quote": "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31332",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2020-12-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36113&MevzuatTertip=5",
+  "source_bytes": 19800,
+  "source_id": "9.5.36113",
+  "source_sha256": "a35fd9c7273552068956f58c2785a3d8b6f70bf222936c22a27c155eec4329a5",
+  "title": "5307 SAYILI SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) PİYASASI\r\nKANUNU VE ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK\r\nYAPILMASINA DAİR KANUNUN 16 NCI MADDESİ UYARINCA\r\n2021 YILINDA UYGULANACAK PARA CEZALARI\r\nHAKKINDA TEBLİĞ",
+  "word_count": 242
+}
