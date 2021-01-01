@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36107",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARİCİ GÜÇ KAYNAKLARININ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2019/1782/AB) (SGM:2020/5)",
+  "number": "36107",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2020/36107",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36107&MevzuatTertip=5",
+  "source_sha256": "44cb4c94b6280880bddf8ee3a6189e0f0b3a0d34ca2df33676eb7dc0595c19ad",
+  "source_bytes": 26454,
+  "published": "2020-09-01",
+  "gazette": "31231",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1177,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "https://www.resmigazete.gov.tr/eskiler/2020/09/20200901-4-1.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
