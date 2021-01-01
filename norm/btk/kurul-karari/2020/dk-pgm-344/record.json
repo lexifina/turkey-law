@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2020/DK-PGM/344",
+  "source_id": "2020/DK-PGM/344",
+  "date": "2020-12-15",
+  "title": "2021 Yılı PGM Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/61922c38-e8b1-4a39-8c0f-0111e60bc36f.pdf",
+  "source_sha256": "4a3c8288ca961c2fabcf12c9a1a0bb60ed5a6f98f429a381efc17c23da633af9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
