@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36127",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DAMGA VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 65)",
+  "number": "36127",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2020/36127",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36127&MevzuatTertip=5",
+  "source_sha256": "47baea199c9ea1f5e1018119d35e965aa09aaa76be02f83bd38b069d0404cffc",
+  "source_bytes": 14567,
+  "published": "2020-12-29",
+  "gazette": "31349 Mükerrer",
+  "in_force": "2021-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 245,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36127-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
