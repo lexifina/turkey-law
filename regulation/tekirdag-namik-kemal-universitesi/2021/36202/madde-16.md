@@ -1,0 +1,3 @@
+Hastane Müdürü ve görevleri
+MADDE 16 – (1) Sağlık idaresi veya sağlık kurumları işletmeciliği lisans mezunu veya temel eğitimi idare ve işletmecilik olan fakültelerden mezun olan en az on yıllık kamu hizmeti tecrübesi olan ya da sağlık kurumları işletmeciliği alanında yüksek lisans yapmış olan ve/veya hastane yönetim hizmetlerinde beş yıl deneyimi olan adaylar arasından ilgili mevzuat hükümlerine uygun olarak Dekanın önerisi ile Rektör tarafından Hastane Müdürü görevlendirmesi yapılabilir.
+(2) Hastane Müdürünün görev ve sorumlulukları Müdürün görev ve sorumluluk alanları ile sınırlı olup Hastane Müdürü, Müdür tarafından belirlenen usul ve esaslara göre çalışmak ve verilen görevleri yapmakla yükümlüdür.
