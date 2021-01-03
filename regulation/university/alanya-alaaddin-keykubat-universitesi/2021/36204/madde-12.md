@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; konuyla ilgili Üniversitede görevli öğretim elemanları ve Merkezin çalışma alanlarına katkıda bulunabilecek spor bilimleri alanında çalışan kişiler arasından Müdürün önerisi üzerine, Rektör tarafından üç yıl için görevlendirilen on üyeden oluşur. Danışma Kuruluna, Müdür başkanlık eder, müdür yardımcıları da kurulun doğal üyesidir. Görev süresi bitmeden görevlerinden ayrılan üyelerin yerine, kalan süreyi doldurmak için aynı yöntemle yenileri görevlendirilir. Görev süresi biten üye tekrar görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki kez toplanır.
+(3) Danışma Kurulunun görevi; Merkez projelerine özel uzmanlık alanlarında katkı sağlamak ve Merkezin faaliyetleri ile ilgili olarak değerlendirmede bulunmaktır.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-alaaddin-keykubat-universitesi/2021/36204",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31353",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-03",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Alanya Alaaddin Keykubat Üniversitesi",
+  "issuer_slug": "alanya-alaaddin-keykubat-universitesi",
+  "kind": "regulation",
+  "published": "2021-01-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36204&MevzuatTertip=5",
+  "source_id": "8.5.36204",
+  "source_sha256": "911f0f27d03508134cbd56a6ef3bb36add5c2931a54b22908cb7fe657c6376fc",
+  "title": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ SPOR BİLİMLERİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 457,
+  "version_label": "oldest version available",
+  "word_count": 1994
+}
