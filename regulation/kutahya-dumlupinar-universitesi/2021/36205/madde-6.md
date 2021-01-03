@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Nöroteknoloji ve biyomedikal sinyal işleme sistemlerinin tasarımı, geliştirilmesi ve üretimine yönelik Ar-Ge faaliyetlerini yürütmek, nöroteknoloji ve biyomedikal sinyal işleme alanında ileri düzeyde bilimsel araştırmalar yapmak ve teknoloji geliştirmek, yapılan araştırmaları teşvik etmek, desteklemek; çalıştaylar, seminerler, konferanslar ve sempozyumlar düzenlemek, bu alanlardaki sorunları ve hedefleri incelemek, ilgili kuruluşlara önerilerde bulunmak.
+b) Nöroteknoloji ve biyomedikal sinyal işleme alanında eğitim ile ilgili program yapmak, eğitim, yönetim ve araçlarının geliştirilmesi için çalışmalar yapmak, sertifika programları düzenlemek, eğitim faaliyetlerini yürütmek, süreli ve süresiz yayınlar çıkarmak, ilgili kurum ve kuruluşlara önerilerde bulunmak.
+c) Kamu kurumlarını ve özel sektörü bilgilendirmek, bilimsel görüş vermek ve rapor hazırlamak.
+ç) Kamu kurum ve kuruluşları ile özel sektöre nöroteknoloji ve biyomedikal sinyal işleme teknolojileri konusunda araştırma, danışmanlık, tasarım, üretim, bakım, onarım ve benzeri hizmetler sunmak ve gerçekleştirmek.
+d) Nöroteknoloji ve biyomedikal sinyal işleme sanayi sektöründe, üniversitelerde, diğer araştırma kurumlarında ve Merkezde çalışan araştırmacı ve teknik personeli eğitmek, kurs ve benzeri eğitim programları düzenlemek.
+e) Merkez, kamu kurumları ve ilgili sektör iş birliği ile, gelişen teknoloji ve Türkiye’nin ilgili alandaki ihtiyacını karşılayabilecek, hedef ürün odaklı proje değerlendirme-geliştirme çalışmalarını yürütmek.
+f) Merkezin çalışma alanlarına giren konularda yaz-kış okulu, kurs, seminer, sempozyum, kongre, konferans gibi bilimsel toplantılar düzenlemek, gerekirse katılım belgesi vermek, fuar düzenlemek veya bu tür etkinliklere katılmak.

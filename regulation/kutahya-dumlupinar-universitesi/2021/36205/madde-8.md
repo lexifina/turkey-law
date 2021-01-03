@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; nöroteknoloji ve biyomedikal sinyal teknolojiler geliştirmesi konusunda tecrübeye sahip, Üniversitenin profesör unvanlı öğretim üyeleri arasından, Rektör tarafından dört yıllık süre için görevlendirilir. Süresi biten Müdür aynı yöntemle tekrar görevlendirilebilir.
+(2) Müdür, Yönetim Kurulu üyeleri arasından iki üyeyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür yardımcılarından biri, Müdürün görevi başında bulunmadığı zamanlarda Müdüre vekâlet eder. Müdürün görev süresi bitince müdür yardımcılarının da görevi sona erer. Müdürün istifa etmesi veya altı aydan fazla bir süre görevi başında bulunmaması durumunda aynı usulle yeni Müdür görevlendirilir.
