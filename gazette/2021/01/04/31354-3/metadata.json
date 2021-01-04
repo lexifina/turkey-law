@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-01-04",
+  "issue": "31354",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sivas Cumhuriyet Üniversitesi Gıda Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/01/20210104-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/01/20210104.htm",
+  "index_sha256": "e1883d05483236ddc88a795048ccdd744e32c70add263e32d9f1b1d6408b19a9",
+  "index_header": "4 Ocak 2021 ... 31354 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/01/20210104.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
