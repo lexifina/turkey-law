@@ -1,0 +1,3 @@
+Koordinasyon grupları ve görevleri
+MADDE 12 – (1) Üniversitedeki; fakültelerde dekan başkanlığında bölüm başkanlarından, enstitülerde müdür veya bunların yardımcılarının başkanlığında ana bilim dalı başkanlarından, yüksekokullarda müdür veya bunların yardımcılarının başkanlığında bölüm (program) başkanlarından veya bu birimlerin görevlendirecekleri birer öğretim elemanından, Rektörlüğe bağlı bölümlerde ise bölüm başkanının başkanlığında başkan yardımcılarından birisi ve bir öğretim elemanından oluşan koordinasyon grupları oluşturulur.
+(2) Koordinasyon gruplarının görevi; NEVSEM'in amaç ve ilkeleri doğrultusunda yapmayı düşündükleri inceleme, araştırma, eğitim, uygulama ve yayın faaliyetlerini görüşüp uygulanması için Yönetim Kuruluna yazılı olarak teklif etmektir.
