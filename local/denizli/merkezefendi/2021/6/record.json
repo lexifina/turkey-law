@@ -1,0 +1,23 @@
+{
+  "number": "6",
+  "number_as_published": "6",
+  "year": 2021,
+  "title": "council decision",
+  "decision_date": "2021-01-04",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2021-1-15--OCAK-AYI-MECLiS-KARAR-oZETLERi",
+  "official_document": null,
+  "source_sha256": "812b9f5a663074fc9bd4a6c0f03ca6f67d364a1be7447bb6ff537e6888b3a1c8",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2021-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 4.01.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2021-1-15--OCAK-AYI-MECLiS-KARAR-oZETLERi",
+  "record_scope": "one council decision (published decision summary)"
+}
