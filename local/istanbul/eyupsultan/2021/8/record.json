@@ -1,0 +1,22 @@
+{
+  "number": "8",
+  "number_as_published": "2021/08",
+  "year": 2021,
+  "title": "2021 Denetim Komisyonu Üye Seçimi",
+  "decision_date": "2021-01-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-ocak-ayi-meclis-kararlari/1858",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-08/1880",
+  "source_sha256": "aad55f8ab21ed0f8c264605253e738de5cfd1535dc8aa4b03fcadcae71b7df7e",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-01-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.01.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "666fec8fff10be186482c083961df9c8d184e4a352e28f334b29df195ac0af5a"
+}
