@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "771",
+  "decision_date": "2021-01-05",
+  "source_id": 33525,
+  "chamber": "6",
+  "ilam_number": "185",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33525/",
+  "source_sha256": "8e0b8563c833b4d9a31d9018eec904857330d8f4c8ff82436569da6efb8c95dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
