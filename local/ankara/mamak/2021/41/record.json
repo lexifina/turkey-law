@@ -1,0 +1,27 @@
+{
+  "number": "41",
+  "number_as_published": "41",
+  "year": 2021,
+  "title": "İnşaat ruhsatı taleplerinin çok az olduğu bu dönemde İmar ve Şehircilik Müdürlüğünün bu süreçten faydalanarak mahkemelerce iptal edilen plan çalışmalarına ilişkin Meclis Kararı",
+  "decision_date": "2021-01-05",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8a0f514e-b6f8-4924-aeef-bbf377c26c4f",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-01-05T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=8a0f514e-b6f8-4924-aeef-bbf377c26c4f",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=87abf6f2-9956-4891-b3c2-1d4a37e63ec7"
+  ]
+}
