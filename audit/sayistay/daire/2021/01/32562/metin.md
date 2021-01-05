@@ -1,0 +1,17 @@
+Yersiz Ödeme
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+“… Belediyesi … Pazar Yeri Yapım İşi”nin yapımı sırasında üçüncü kişiye verilen zararın karşılanması amacıyla idare tarafından ilgilisine ödenen tutarın işin yüklenicisi … Ltd. Şti.’ye rücu edilmediği görülmüştür.
+
+İdare ile işin yüklenicisi arasında … tarihinde imzalanan Sözleşme’nin “İşin ve iş yerinin sigortalanması ve korunması” başlıklı 17’nci maddesinde “Yüklenicinin iş ve iş yerinin korunması ve sigortalanması ile ilgili sorumlulukları konusunda Yapım İşleri Genel Şartnamesinde yer alan hükümler uygulanır.” denilmiştir.
+
+Yapım İşleri Genel Şartnamesi’nin “İş ve işyerlerinin korunması ve sigortalanması” başlıklı 9’uncu maddesinin beşinci fıkrasında; “İşin devamı sırasında işyerinde yapılacak çalışmalar nedeniyle, işçilerle çevre halkının kazaya uğramalarını, zarar görmelerini ve işlerde zarar ve hasar meydana gelmesini önleyici tedbirlerin alınmasından da yüklenici sorumlu olup, alınan bütün tedbirlere rağmen, yüklenicinin yaptığı işlerden dolayı üçüncü kişilerin kendilerine veya mallarına zarar verilmesi ihtimaline karşı mali mesuliyet sigortası yaptırmakla da yükümlüdür. Mali mesuliyet sigorta bedeli olarak, bu konuda sigorta şirketlerinin uygulamalarında kullandığı bedeller esas alınır.”,
+
+Aynı maddenin yedinci fıkrasında ise; “Yüklenicinin sözleşme ile üstlendiği sorumluluk ve yükümlülükler söz konusu sigortalarla sınırlandırılmamış olduğundan, inşaat sigorta poliçelerinin genel şartlarının “Teminat dışında kalan haller” maddesinde belirtilen, yüklenicinin kusurlu olduğu hallerde, kusur nedeniyle sigortanın ödemediği bedeller için yüklenici idareden hiçbir talepte bulunamayacağı gibi, işin devamı süresince meydana gelecek kazalardan, bu kazaların sebep olacağı can ve mal kaybından ve üçüncü kişilere verilecek her türlü zararlardan yüklenici doğrudan sorumlu olacaktır. Yüklenici veya alt yüklenicilerin sigorta kapsamı içinde veya dışında kalan hareket ve fiillerinden dolayı meydana gelecek bütün talep ve iddiaların karşılanması yükümlülüğü de yükleniciye aittir.”
+
+hükümlerine yer verilmiştir. Anılan mevzuat hükümleri uyarınca, işin yapılması sırasında üçüncü kişilere verilecek her türlü zararlardan yüklenici doğrudan sorumlu olup, bu çerçevede yüklenici veya alt yüklenicilerin sigorta kapsamı içinde veya dışında kalan hareket ve fiillerinden dolayı meydana gelecek bütün talep ve iddiaların karşılanması yükümlülüğü de yine yükleniciye aittir.
+
+Sorgu konusu olayda ise;  işin yapımı esnasında, ekili alanları zarara uğrayan üçüncü kişinin uğradığı zarar idarece karşılandığı halde; ödenen tutarın yukarıda yer verilen Sözleşme ve Şartname hükümleri uyarınca zarardan doğrudan sorumlu olması gereken yükleniciye  rücu edilmesi gerekirken edilmemesi suretiyle …-TL kamu zararına neden olunmuşsa da; bu kamu zararı tutarının  … tarihinde yüklenici firma … Ltd. Şti’den tahsil edildiği ve tahsilatın … tarih ve … no.lu yevmiye ile kayıt altına alındığı görülmüştür.
+
+Bu itibarla; “…Belediyesi … Pazar Yeri Yapım İşi”nin yapımı sırasında idare tarafından karşılanan üçüncü kişiye verilen zararın işin yüklenicisine rücu edilmemesi suretiyle neden olunan kamu zararı tutarı …-TL tahsil edildiğinden konu hakkında ilişilecek husus kalmadığına 6085 sayılı Kanun’un 55’inci maddesi uyarınca iş bu ilamın tebliğ tarihinden itibaren 60 gün içinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
