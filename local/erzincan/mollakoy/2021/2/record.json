@@ -1,0 +1,26 @@
+{
+  "number": "2",
+  "number_as_published": "02",
+  "year": 2021,
+  "title": "Taşınmaz satışı hk.",
+  "decision_date": "2021-01-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/11/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/tasinmaz-satisi-hk/2/",
+  "source_sha256": "74208470d86330c00824c0cfb0f1e875308e50979a866215c961e873cbc4859f",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-01-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Ocak 2021 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/tasinmaz-satisi-hk/2/",
+  "listing_label": "Taşınmaz satışı hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
