@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "776",
+  "decision_date": "2021-01-05",
+  "source_id": 32944,
+  "chamber": "6",
+  "ilam_number": "29",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32944/",
+  "source_sha256": "64ce746fd18f0c54bdb2d16389ee848e6287924c4e232d40d20e39668e7a41e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
