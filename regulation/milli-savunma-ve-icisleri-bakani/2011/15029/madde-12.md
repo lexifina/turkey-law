@@ -1,0 +1,5 @@
+Hizmet şartları ve yedeklik dönemi
+MADDE 12 ‒ (1) Sözleşmeli erbaş ve erler ile sözleşmeli er adayları asker kişi sayılırlar. Sözleşmeli erbaşlar muvazzaflık hizmetinde olan emsal rütbedeki erbaşların üstü, emsal rütbedeki uzman erbaşların astıdır. Sözleşmeli erbaş ve erlerin kendi rütbesindeki diğer bir sözleşmeli erbaş ve erle astlık üstlük ilişkisi yoktur. Cezaî müeyyideler ile yargılama usulü bakımından er ve erbaşların tâbi olduğu hükümlere tâbi olurlar. Sözleşmeli erbaşlar hakkında rütbenin geri alınması feri cezası uygulanmaz.
+(2) Sefer görev emirleri, askerlik yükümlülüğünü yerine getirdikleri sınıf, branş ve statüye göre çıkarılır.
+(3) Terhis kaydı, yedeklik yoklaması, hizmete celp, eğitim ve tatbikat gibi yedeklik dönemine ilişkin olarak 6191 sayılı Kanunda düzenlenmeyen hususlarda 21/6/1927 tarihli ve 1111 sayılı Askerlik Kanunu ile 16/6/1927 tarihli ve 1076 sayılı Yedek Subaylar ve Yedek Askeri Memurlar Kanununun ilgili hükümleri uygulanır.
+(4) Sözleşmeli erbaş ve erler, 8/10/1986 tarihli ve 86/11092 tarihli Bakanlar Kurulu Kararıyla yürürlüğe konulan Türk Silâhlı Kuvvetleri Sağlık Yeteneği Yönetmeliğinde yer alan er sınıflarında istihdam edilir.

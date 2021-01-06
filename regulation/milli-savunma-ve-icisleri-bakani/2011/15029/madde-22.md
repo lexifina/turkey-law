@@ -1,0 +1,8 @@
+İzin
+MADDE 22 ‒(Değişik:RG-23/8/2015-29454)
+(1) Sözleşmeli erbaş ve erlerin barışta her yıl 30 gün yıllık planlı izin hakkı vardır. Bu müddete yol dâhil değildir. Ayrıca, kısa süreli mazeretlerde kullanılmak üzere onbeş güne kadar yıllık mazeret izni verilebilir. Yıllık izinlerin verilmesi, zamanı ve süresi hizmetin aksamaması esas alınmak suretiyle kıta, karargâh ve kurum amirlerince düzenlenir. Yıllık planlı izine giden personele takvim yılında bir defa olmak üzere intikal aracına bağlı olarak, fiilen yolda geçecek süreler göz önüne alınarak, izin vermeye yetkili makam tarafından 4 güne kadar yol izni verilir. On beş günlük yıllık mazeret izni dışında sözleşmeli erbaş ve erlere;
+a) Ana, baba, eş, çocuk ve kardeşlerinin ölümü halinde on gün,
+b) Eşinin doğum yapması halinde on gün,
+c) Yangın, deprem, su baskını gibi olağanüstü bir mazeret dolayısıyla bir yıl içerisinde otuz güne kadar mazeret izni verilebilir. Verilen mazeret izinleri yıllık izne mahsup edilmez. Görev ve hizmet ihtiyacının gerektirdiği durumlarda asgari tugay ve eşidi komutan veya amirin yazılı onayı ile personel izinden geriye çağrılabilir. Personelin izinden çağrılması, gecikmesinde sakınca bulunan hallerde sözlü olarak yapılabilir ve her halükarda bu durum bir görevlendirme yazısı ile yazılı hale getirilerek bu yazının bir sureti personelin özlük dosyasında muhafaza edilir. Bu personelin izinden dönüş masrafları ile tekrar izne gidiş masrafları 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenir. Sözleşmeli erbaş ve erlerin izin işlemleri 211 sayılı Kanuna ve 6/9/1961 tarihli ve 10899 sayılı Resmî Gazete’de yayımlanan Türk Silâhlı Kuvvetleri İç Hizmet Yönetmeliği esaslarına göre düzenlenir.
+ALTINCI BÖLÜM
+İaşe, Giyecek, Bakım, Barınma, Kıyafet, Silâhları,

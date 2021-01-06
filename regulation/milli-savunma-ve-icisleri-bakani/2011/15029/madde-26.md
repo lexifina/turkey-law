@@ -1,0 +1,3 @@
+Tertip edilme ve kuvvet değiştirme
+MADDE 26 ‒ (1) (Değişik:RG-13/11/2014-29174) Sözleşmeli erbaş ve erlerin ilk ve müteakip birliklere tertibi, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı Personel Başkanlıklarınca yapılır. Bu şekilde tertip edilen personel hakkında 1111 sayılı Kanunun erbaş ve erlere ilişkin hükümleri uygulanır.
+(2) Sözleşmeli erbaş ve erlerin, istihdam edildikleri kadro görev yerlerinin bağlı olduğu kuvvetin değişmesi durumunda, ilgili kuvvet komutanlıkları, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının görüşleri alındıktan sonra Genelkurmay Başkanlığı tarafından kuvvetleri değiştirilebilir.

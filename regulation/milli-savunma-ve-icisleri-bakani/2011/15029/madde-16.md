@@ -1,0 +1,8 @@
+Ön sözleşmenin idarece fesih halleri
+MADDE 16 ‒ (1) Sözleşmeli er adaylarının ön sözleşmeleri, aşağıdaki nedenlerle süresinin bitiminden önce feshedilir:
+a) Tugay, bağımsız tugay, tümen, jandarma bölge (ve eşidi) komutanlarınca veya eşidi kurum amirlerince; kolordu ve orduya (ve eşidi) doğrudan bağlı birlikleri ile eşidi kurum amirlikleri için kurmay başkanlarınca; kuvvet komutanlıkları, Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı ve Genelkurmay Başkanlığı ile Millî Savunma Bakanlığına doğrudan bağlı birlikleri için personel başkanlıklarınca veya yetki verilen makamlarca; askeri eğitim esnasında başarısız veya disiplinsiz olduğuna karar verilmek.
+b) Yetkili sağlık kurullarınca askeri eğitime ve/veya göreve devam edemez kararı verilmiş olmak.
+c) Sözleşmeli er adayı olma şartlarından herhangi birini taşımadığı sonradan anlaşılmak veya sözleşme süresi içinde bu şartlardan herhangi birini kaybetmek.
+ç) Askerî eğitimin üçte birine katılmamak.
+(2) Ön sözleşme döneminde görevlerini icra ederken veya görevleri dolayısıyla bir saldırıya veya kazaya uğrayan ya da bir meslek hastalığına yakalanma neticesinde askerî eğitimin üçte birine devam etmeyerek başarısız kabul edilenler, bir kez olmak üzere sonraki dönemde açılacak askeri eğitime planlanırlar. Sonraki dönemde istekli olmaları, aranan sağlık ve diğer niteliklerini korumaları halinde yeniden ön sözleşme yapılarak eğitime alınırlar.
+(3) Türk Silâhlı Kuvvetleri ile ilişikleri kesilen ön sözleşme dönemindeki personelden, peşin olarak ödenen aylık ve aylık ile birlikte ödenen diğer tüm özlük haklarının çalışılmayan günlere ait kısmı geri alınır.

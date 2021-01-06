@@ -1,0 +1,4 @@
+Duyuru
+MADDE 6 ‒ (1) Genelkurmay Başkanlığınca gerekli görüldükçe yayımlanan prensipler çerçevesinde kuvvet komutanlıkları ile Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca; önceki yıl uygulamaları ve yeni ihtiyaçlar dikkate alınarak sözleşmeli er istihdamı ile ilgili direktif yayımlanır ve temin tarihleri ast birlik ve kurumlar ile askerlik şubelerine yayımlanarak muvazzaflık hizmetini yapmakta olan erbaş ve erlere duyurulur.
+(2) Terhisten sonra sözleşmeli er olmak isteyenler için kuvvet komutanlıkları, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca belirlenecek tarihlerde basın organlarında, sözleşmeli erbaş ve er sistemini tanıtıcı, başvuru şekil ve şartlarını açıklayan ilânlar verilir.
+(3) Türk Silâhlı Kuvvetlerinin ihtiyaçları dikkate alınarak istihdamı plânlanan sözleşmeli erbaş ve er kadroları hakkında 18/5/1929 tarihli ve 1453 sayılı Zabitan ve Askerî Memurların Maaşatı Hakkında Kanunun 2 nci maddesi hükmü uygulanır.

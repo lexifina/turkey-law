@@ -1,0 +1,3 @@
+Mesai Saatleri, İkamet ve Diğer Hususlar
+Sözleşmeli erbaş ve erlerin iaşe, giyecek, bakım ve barınmaları
+MADDE 23 ‒ (1) Sözleşmeli erbaş ve erlerin ön sözleşme dönemi de dâhil olmak üzere, giyecek, bakım ve barınmaları ile iaşeleri erbaş ve erler gibi Devlet tarafından sağlanır. Bunlara, bu kapsamda başkaca bir ödeme yapılmaz. Sözleşmeli erbaş ve erlerin giyim, kuşam istihkakları; Genelkurmay Başkanlığının uygun görüşü alınarak kuvvet komutanlıkları, Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığı tarafından hazırlanacak ve ilgili bakanlıklarca onaylanacak istihkak ve tahsis listelerinde gösterilir.

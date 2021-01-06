@@ -1,0 +1,4 @@
+Ön Sözleşmenin ve Sözleşmenin İdarece Fesih Halleri
+Sözleşme süreleri
+MADDE 14 ‒ (1) Sözleşmeli er adayları ön sözleşme yapılarak askerî eğitime alınırlar. Askerî eğitimi başarı ile tamamlayanlarla, bu Yönetmeliğin 9 uncu maddesinde belirtilen yetkili komutanlıklarca dört yıldan fazla olmamak kaydıyla en az üç yıllık sözleşme yapılır. (Değişik cümle:RG-13/11/2014-29174) Müteakip sözleşmeler, bir yıldan az, üç yıldan fazla olmamak şartıyla azamî yedi yıllık hizmet süresi sonuna kadar uzatılabilir.
+(2) Sıkıyönetim, seferberlik, savaş veya terörle mücadeleden kaynaklanan zorunlu hallerde ihtiyaç duyulanların sözleşme süreleri, talebe ve yaş haddine bakılmaksızın kuvvet komutanları, Jandarma Genel Komutanı veya Sahil Güvenlik Komutanının istemi üzerine ve durumun devamı müddetince Genelkurmay Başkanının onayı ile uzatılabilir.
