@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar; Savunma Sanayii Başkanlığı ile Savunma Sanayii Başkanlığının doğrudan ya da dolaylı olarak sermayesinin yarısından fazlasına sahip bulunduğu her çeşit kuruluş, müessese, birlik, işletme ve şirketler tarafından, 4734 sayılı Kanunun 3 üncü maddesinin (b) bendi kapsamında gerçekleştirilen mal ve hizmet alımları ile yapım işlerini, araştırma geliştirme projelerini, yenilikçi projeleri, yapılabilirlik etütlerini ve danışmanlık hizmetlerini kapsar.
+(2) Proje başlama kararında uluslararası işbirliğiyle yapılacağı belirtilen projeler ile devletlerarası ikili veya çok taraflı anlaşmalar neticesinde yapılacak alımlar, 4734 sayılı Kanunun 3 üncü maddesinin (b) bendi kapsamında ve bu Usul ve Esaslara tabi olmaksızın gerçekleştirilir.

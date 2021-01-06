@@ -1,0 +1,9 @@
+YEDİNCİ BÖLÜM
+Teminatlar ve Proje Kaynağı
+Teminatlara ilişkin esaslar
+MADDE 13- (1) Proje kapsamında alınacak teminatların türü, oranı, süresi ve iade koşulları İdare tarafından belirlenir.
+(2) İhalelerde isteklilerden İdare tarafından belirlenen oranda geçici teminat alınır. Ancak teklife çağrı dosyasında belirtilmesi şartıyla geçici teminat alınması zorunlu değildir.
+(3) Sözleşmenin yapılmasından önce, istekliden sözleşme bedelinin % 6’sı oranına kadar kesin teminat alınır. Ancak özellikli durumlarda ve gerekçe belirtmek suretiyle Başkanın onayı ile kesin teminat alınmamasına karar verilebilir. Bu durumda, avans niteliği taşımayan her ödeme tutarından % 6 oranına kadar yapılacak kesintiler teminat olarak alıkonulur.
+(4) İhaleye, mevzuat gereği teminat vermesi mümkün olmayan isteklilerin katılması halinde, bu durumun yazılı ve gerekçeli olarak açıklanması şartıyla bu isteklilerden teminat alınmaz.
+(5) Proje kapsamında avans ödemesi yapılacak olması halinde söz konusu ödemeler, ödeme tutarına eşit teminatın sunulması akabinde yapılır.
+(6) Türk Silahlı Kuvvetleri Stratejik Hedef Planı ile ilgili mal ve hizmet alımı, üretimi, yenileştirme, yapım, ana silah ve malzeme sistemleri ile mühimmatın yurt içinden ve yurt dışından tedarik edilmesi halinde genel ve özel bütçeli kuruluşlar, il özel idareleri, belediyeler, kamu iktisadi teşebbüsleri, müessese ve bağlı ortaklıkları ile sermayesinin yarısından fazlası Türk Silahlı Kuvvetleri Güçlendirme Vakfına ait olan işletmelere verilecek avanslar karşılığında teminat aranmayabilir. İhtiyaç makamının İçişleri Bakanlığı (Emniyet Genel Müdürlüğü, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı için) olması ve bir mali yıl içinde tamamlanması mümkün olmayan alımlarında Türk Silahlı Kuvvetleri Stratejik Hedef Planı ile ilgili olma şartı aranmaz.

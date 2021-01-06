@@ -1,0 +1,4 @@
+Proje kaynağı
+MADDE 14- (1) Milli Savunma Bakanlığı (Genelkurmay Başkanlığı ve Kuvvet Komutanlıkları dahil tüm bağlıları), İçişleri Bakanlığı (Jandarma Genel Komutanlığı, Sahil Güvenlik Komutanlığı, Emniyet Genel Müdürlüğü), Savunma Sanayii Başkanlığı ile Milli İstihbarat Teşkilatı Başkanlığının istihbarat ve güvenliğe ilişkin ihtiyaçları için gerekli olan kaynak, Fona aktarılması şartıyla Fondan karşılanır. Ancak gerekli durumlarda aktarım şartı aranmaz.
+(2) Birinci fıkra kapsamı dışında kalan diğer kamu kurum ve kuruluşlarının ihtiyaçlarının tedariki ise ancak kaynağının yılı Bütçe Kanunu veya ilgili kanunlarda yer alan hükümlere istinaden Fona aktarılması şartıyla yapılır.
+(3) AR-GE projeleri, acil alım projeleri, yenilikçi projeler, yapılabilirlik etütleri ve danışmanlık hizmetleri için Fondan ayrılacak kaynak, yıllara sari olarak SSİK kararı ile belirlenir.
