@@ -1,0 +1,22 @@
+{
+  "number": "160",
+  "number_as_published": "2020/160",
+  "year": 2020,
+  "title": "Otoparklardan indirimli yararlanma şartları",
+  "decision_date": "2021-01-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-ocak-ayi-meclis-kararlari/1858",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2020-160/1859",
+  "source_sha256": "aad55f8ab21ed0f8c264605253e738de5cfd1535dc8aa4b03fcadcae71b7df7e",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.01.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "e3742c9078262d2cfcab8d012f6c4bad8ed698213d2d66bb6768fae02d7b2702"
+}
