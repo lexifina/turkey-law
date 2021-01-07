@@ -1,0 +1,3 @@
+6831 SAYILI ORMAN KANUNUNUN EK 16 NCI MADDESİ KAPSAMINDA ORMAN SINIRLARI DIŞINA ÇIKARMA İŞLEMLERİNE İLİŞKİN YÖNETMELİK
+Cumhurbaşkanı Kararının Tarihi : 6/1/2021 Sayısı : 3413
+Yayımlandığı Resmî Gazetenin Tarihi : 7/1/2021 Sayısı : 31357

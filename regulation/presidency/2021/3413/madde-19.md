@@ -1,0 +1,6 @@
+İş bitirme, şekli ve hukuki inceleme ile sonuçlandırma tutanaklarının düzenlenmesi
+MADDE 19- (1) Bir belde, köy veya mahallede bu Yönetmelik kapsamında uygulamanın yapılmasında; ilgili belde, köy veya mahallenin orman kadastro sınırları içerisindeki Devlet ormanlarında arazi, hava fotoğrafı ve haritaları üzerinde gerekli incelemelerin yapıldığını ve uygulamaların bitirildiğini belirtir iş bitirme tutanağı düzenlenir.
+(2) Bu uygulamaya ait harita, tutanak, teknik ve diğer belge suretleri bulundurularak oluşturulan dosya, şekli ve hukuki inceleme yapılması için ilgili Bölge Müdürlüğüne gönderilir.
+(3) Bölge Müdürlüğünce, en geç beş gün içinde arazi ve dosya üzerinde gerekli incelemeler yapılarak şekli ve hukuki inceleme raporu düzenlenip cevaplandırılır.
+(4) Komisyon, Bölge Müdürlüğünden gelen şekli ve hukuki inceleme raporu ve ekli belgelere göre kararı değiştirecek bir husus varsa, şekli ve hukuki noksanlıkları düzeltme tutanağı tanzim ederek gerekli düzeltmeleri yapar, sonuçlandırma tutanağını tanzim ederek yapılan işlemi Bölge Müdürlüğüne bildirir.
+(5) Şekli ve hukuki inceleme işlemlerinin diğer hususlarında, Orman Kadastrosu ve 2/B Uygulama Yönetmeliği ile Teknik İzahname esaslarına göre işlem yapılır.

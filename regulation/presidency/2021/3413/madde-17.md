@@ -1,0 +1,2 @@
+Orman sınırları dışına çıkarılacak yerlerde numaralandırma
+MADDE 17- (1) Orman sınırları dışına çıkarılacak yerlerin sınırlarının numaralandırılmasında, en kuzeybatıdaki sınır noktasına 5001 numaralı orman sınır noktası verilerek çalışmalara başlanır ve saat ibresi yönünde devam edilmek ve teselsül ettirilmek suretiyle numara verilir. Orman kadastrosu ve 2/B uygulamalarına ilişkin 5001 numaralı orman sınır noktası mevcut ise numaralandırmaya 6001’den başlanır.

@@ -1,0 +1,4 @@
+Uygulama şartları
+MADDE 7- (1) Bu Yönetmelik kapsamında orman sınırları dışına çıkarma uygulaması yapılabilmesi için; belde, köy veya mahallelerde, orman kadastrosu ve 6831 sayılı Kanunun 3302 sayılı Kanunla değişik 2/B madde uygulamalarının yapılıp kesinleşmiş olması ve fenni hata içermemesi gerekir. Ancak 31/12/1981 tarihinden sonra tahsisen alınmış, fiilen orman olmayan, tapuda orman vasfı ile tescilli alanlarda, 6831 sayılı Kanunun 3302 sayılı Kanunla değişik 2/B madde uygulamasının yapılıp yapılmadığına bakılmaksızın uygulanır.
+(2) Bu Yönetmelik hükümlerine göre yapılacak orman sınırı dışına çıkarma uygulamaları, diğer kadastro çalışmaları ile birleştirilerek yapılmaz.
+(3) Bu Yönetmelik kapsamındaki orman sınırı dışına çıkarılacak alanlarda, 3402 sayılı Kanunun 22 nci maddesinin kadastrosu yapılmış olan yerlerin ikinci defa kadastroya tabi tutulamayacağına ilişkin hükmü uygulanmaz.

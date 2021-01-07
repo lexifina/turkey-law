@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3413",
+  "number": "3413",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "6831 SAYILI ORMAN KANUNUNUN EK 16 NCI MADDESİ KAPSAMINDA ORMAN SINIRLARI DIŞINA ÇIKARMA İŞLEMLERİNE İLİŞKİN YÖNETMELİK",
+  "published": "2021-01-07",
+  "enacted": "2021-01-06",
+  "gazette_number": "31357",
+  "in_force": "2021-01-07",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-01-07, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3413&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "58221afee4d7a138b5b0ceeecd22a373fb0c67efd5a3c48d54b7223a81917c56",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
