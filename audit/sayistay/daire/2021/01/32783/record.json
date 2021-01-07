@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10807",
+  "decision_date": "2021-01-07",
+  "source_id": 32783,
+  "chamber": "1",
+  "ilam_number": "25",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32783/",
+  "source_sha256": "63f4d35709189e8f79a53fc3acc1d31e1f019ab45a74295f528e481923dd5555",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
