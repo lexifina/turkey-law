@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10809",
+  "decision_date": "2021-01-07",
+  "source_id": 33126,
+  "chamber": "1",
+  "ilam_number": "426",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33126/",
+  "source_sha256": "7d7904816fab0f761d20951a43d5ec81a241ce107dcff94206dd70637365ff6a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
