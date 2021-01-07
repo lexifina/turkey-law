@@ -1,0 +1,24 @@
+{
+  "number": "2",
+  "number_as_published": "2021-2",
+  "year": 2021,
+  "title": "İlçemiz Kızılağaç Mahallesinde bulunan 3523 Sokak isminin “Zabıta Cengiz Enç Sokak” olarak değiştirilmesine, Cadde ve Sokak İsimlerini Belirleme Komisyonunun 18.12.2020 tarih ve 2020/25 sayılı raporu doğrultusunda, oy çokluğu ile karar verildi.",
+  "decision_date": "2021-01-07",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2021-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 7.1.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2191",
+  "summary_shortened_in_listing": false,
+  "record_scope": "one council decision (summary as listed)"
+}
