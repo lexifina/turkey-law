@@ -1,0 +1,22 @@
+{
+  "number": "6",
+  "number_as_published": "2021/06",
+  "year": 2021,
+  "title": "Düğmeciler Mahallesi, 340/13, 340/14, 340/22, 340/23, 340/24, 340/27, 340/28, 340/29, 340/30, 340/32, 342/2, 342/4, 342/5, 342/78, 342/80, 343/9, 343/52, 343/53, 344/54, 344/55, 344/56, 494/3, 494/4, 494/5, 494/132, 494/133 parselleri, 494 ada 146 parselin bir kısmını ve tescil dışı alanlarına ilişkin 1/5000-1/1000 ölçekli Plan Değişikliği",
+  "decision_date": "2021-01-07",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-ocak-ayi-meclis-kararlari/1858",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-06/1866",
+  "source_sha256": "aad55f8ab21ed0f8c264605253e738de5cfd1535dc8aa4b03fcadcae71b7df7e",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.01.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "5b40d073df15ee814520565bb85c8ccb029e0440235dcfa3668921cb46617913"
+}
