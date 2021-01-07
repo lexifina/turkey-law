@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10805",
+  "decision_date": "2021-01-07",
+  "source_id": 32787,
+  "chamber": "1",
+  "ilam_number": "23",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32787/",
+  "source_sha256": "17968f9499a1345a515b0d9ad1d32b6a52d670fe14ebced69c2e8e9dbe4c1027",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
