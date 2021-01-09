@@ -1,0 +1,4 @@
+Soruşturma konusu ürün
+MADDE 4 – (1) Soruşturma konusu ürün, 7208.10.00, 7208.25.00, 7208.26.00, 7208.27.00, 7208.36.00, 7208.37.00, 7208.38.00, 7208.39.00, 7208.40.00, 7208.52.10, 7208.52.99, 7208.53.10, 7208.53.90, 7208.54.00, 7211.13.00, 7211.14.00, 7211.19.00, 7212.60.00, 7225.19.10, 7225.30.10, 7225.30.30, 7225.30.90, 7225.40.15, 7225.40.90, 7226.91.20, 7226.91.91, 7226.91.99 gümrük tarife pozisyonları (GTP) altında yer alan “Alaşımlı veya alaşımsız, (plakaj hariç) herhangi bir kaplama işlemine tabi tutulmamış sıcak haddelenmiş yassı çelik”lerdir.
+(2) Bahse konu GTP’ler yalnızca bilgi amaçlı verilmiş olup, bağlayıcı mahiyette değildir.
+(3) Ürünün TGTC’de yer alan tarife pozisyonunda ve/veya eşya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin uygulanmasına engel teşkil etmez.

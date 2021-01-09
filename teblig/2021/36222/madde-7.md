@@ -1,0 +1,7 @@
+Maddi zarar/maddi zarar tehdidi ve nedensellik iddiası
+MADDE 7 – (1) Yönetmeliğin 17 nci maddesi çerçevesinde maddi zarar/maddi zarar tehdidi iddiası incelenmiştir.
+(2) AB ve Güney Kore menşeli soruşturma konusu ürün ithalatı 2018 - 2019Ç4/2020Ç3 döneminde mutlak ve nispi olarak artış göstermiştir.
+(3) AB menşeli ithalatın, yerli üretim dalının fiyatlarını 2018 yılı ile 2019Ç4/2020Ç3 döneminde kırdığı ve baskıladığı, 2019 yılında baskıladığı; Güney Kore menşeli ithalatın ise yerli üretim dalının fiyatlarını 2019Ç4/2020Ç3 döneminde kırdığı ve baskıladığı, 2019 yılında ise baskıladığı tespit edilmiştir.
+(4) Yerli üretim dalı tarafından zarara ilişkin olarak sunulan bilgi, belge ve deliller kullanılarak yapılan değerlendirmede; 2018-2019Ç4/2020Ç3 döneminde birim maliyetlerindeki önemli düşüşe rağmen, birim fiyatlarındaki daha yüksek oranlı azalma nedeniyle yerli üretim dalının karlılığının önemli ölçüde düştüğü, neticede buna bağlı ekonomik göstergelerinde de bozulmalar yaşandığı anlaşılmıştır.
+(5) AB ve Güney Kore’nin üretim kapasitesi ve ihracat kabiliyeti bakımından soruşturma konusu ürün bağlamında küresel pazarda ön sıralarda yer aldığı görülmüştür.
+(6) Başvuru aşamasında sunulan deliller ve ithalata ilişkin resmî istatistikler esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen AB ve Güney Kore menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara/maddi zarar tehdidine yol açtığı değerlendirilmiştir.
