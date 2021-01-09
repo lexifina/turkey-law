@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 4/8/2019 tarihli ve 30852 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2019/23) ile Çin Halk Cumhuriyeti, Hindistan Cumhuriyeti ve Malezya menşeli 5402.47 gümrük tarife pozisyonu altında yer alan “Diğerleri, poliesterlerden” ürününe yönelik başlatılan ve T.C. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
