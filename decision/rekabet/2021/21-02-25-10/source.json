@@ -1,0 +1,13 @@
+{
+  "number": "21-02/25-10",
+  "type": "Diğer",
+  "decision_date": "2021-01-11",
+  "publication_date": "2021-02-15",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=e3bd6f42-4954-4177-b4ee-7783d47c4131",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=258",
+  "pdf_sha256": "3b0680f06d4771398f55e57c673b324838a76e8842b8b9b7e85dc83a0352328a",
+  "pdf_bytes": "471824",
+  "pages": "4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
