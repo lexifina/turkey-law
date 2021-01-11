@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/antalya-bilim-universitesi/2021/36224",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 38 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 38 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31361",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-11",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Antalya Bilim Üniversitesi",
+  "issuer_slug": "antalya-bilim-universitesi",
+  "kind": "regulation",
+  "published": "2021-01-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36224&MevzuatTertip=5",
+  "source_id": "8.5.36224",
+  "source_sha256": "97d11b03436e2154c5e1d52450db4677ec399aaef2059992613b459b59f6bfb2",
+  "title": "ANTALYA BİLİM ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM\r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 418,
+  "version_label": "oldest version available",
+  "word_count": 6649
+}

@@ -1,0 +1,8 @@
+Diğer hükümler
+MADDE 36 – (1) Yüksek lisans ve doktora programları ile sanatta yeterlik çalışmasına, hangi lisans ve yüksek lisans programlarından mezun olanların başvurabileceği, ilgili EADB önerisi ile EK tarafından belirlenir.
+(2) Derslere devam zorunludur. Teorik derslerin %30’undan ve diğer ders türlerinin %20’sinden fazlasına devam etmeyen öğrenci, o ders veya derslerin yarıyıl sonu genel sınavlarına alınmaz. Öğrencinin devam durumu dersin sorumlu öğretim elemanı tarafından izlenir.
+(3) Yabancı uyruklu adaylarla lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların lisansüstü programlara kabulüne ilişkin usul ve esaslar Senato tarafından belirlenir.
+(4) Tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir.
+(5) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.
+(6) Tıpta ve diş hekimliğinde uzmanlık doktoraya eşdeğer düzeyde olup, bu uzmanlık eğitimleri 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliğine göre yürütülür.
+(7) Üniversite tarafından, afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.

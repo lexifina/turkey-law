@@ -1,0 +1,6 @@
+Tez danışmanı atanması
+MADDE 8 – (1) Tezli yüksek lisans programında, EADB her öğrenci için Üniversitenin kadrosunda bulunan bir tez danışmanını en geç birinci yarıyılın sonuna kadar; öğrencinin danışmanıyla beraber belirlediği tez konusunu da en geç ikinci yarıyılın sonuna kadar enstitüye önerir. Tez danışmanı ve tez konusu EYK onayı ile kesinleşir.
+(2) Danışmanlar, ilgili EABD öğretim üyeleri veya diğer birimlerde görev yapan ilgili bilim alanının öğretim üyeleri arasından atanır. Ancak Üniversitede belirlenen niteliklere sahip öğretim üyesi bulunmaması halinde, Üniversitede ders veren veya EYK tarafından başka bir yükseköğretim kurumundan öğretim üyesi danışman olarak seçilebilir.
+(3) Tez çalışmasının gerektirdiği durumlarda ikinci bir danışman atanabilir. Atanacak ikinci tez danışmanı, Üniversite kadrosu dışından da en az doktora derecesine sahip kişilerden olabilir.
+(4) Öğrencinin alacağı derslerin belirlenmesi ve kayıt işlemleri danışman atanıncaya kadar EADB tarafından, danışman atanması sonrasında ise danışman tarafından yürütülür.
+(5) Danışman değişikliği öğrencinin ve/veya danışmanın EYK’ya yazılı başvurusu, önceki danışmanın, EADB’nin, yeni danışmanının onayı ve EYK’nın kararı ile gerçekleşir.

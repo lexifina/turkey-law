@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans programı
+MADDE 11 – (1) Tezsiz yüksek lisans programı, öğrenciye mesleki konularda bilgi kazandırarak mevcut bilginin uygulamada nasıl kullanılacağını gösterir.
+(2) Tezsiz yüksek lisans programı 60 AKTS’den az olmamak kaydıyla en az 10 ders ve bir dönem projesi olmak üzere toplam 120 AKTS kredisinden oluşur. Bu 10 dersten bir tanesi bilimsel araştırma yöntemleri ve etiği konularını içeren bir ders olmak zorundadır. Öğrenci, dönem projesi dersinin alındığı yarıyılda dönem projesi dersine kayıt yaptırmak ve yarıyıl sonunda yazılı proje ve/veya rapor vermek zorundadır. Dönem projesi dersi kredisiz olup başarılı veya başarısız olarak değerlendirilir.
+(3) Öğrencinin alacağı derslerin en fazla üç tanesi, lisans öğrenimi sırasında alınmamış olması kaydıyla, lisans derslerinden seçilebilir. Ayrıca EADB önerisi ve EYK onayı ile diğer yükseköğretim kurumlarında verilmekte olan derslerden en fazla iki ders seçilebilir.
