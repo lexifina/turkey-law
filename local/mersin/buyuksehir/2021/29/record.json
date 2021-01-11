@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "29",
+  "decision_date": "2021-01-11",
+  "title": "-MEC.KAR. ( Deniz Kızı BÜFE Form AVM iŞLETME HAKKI DEVRİ ).doc",
+  "listed_as": "29-MEC.KAR. ( Deniz Kızı BÜFE Form AVM iŞLETME HAKKI DEVRİ ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/29-meckar---deniz-kizi-bufe-form-avm-isletme-hakki-devri--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/11-ocak-2021-meclis-kararlari",
+  "listing_sha256": "bfa3cd563c5bd488698479cefb94b12bb69ab226a5732ccd74bf3531381563ea",
+  "meeting_title": "11 OCAK 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
