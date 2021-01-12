@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.23459",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORGANİZE TOPTAN DOĞAL GAZ SATIŞ PİYASASI YÖNETMELİĞİ",
+  "number": "23459",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurulu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurulu-baskani/2017/23459",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23459&MevzuatTertip=5",
+  "source_sha256": "ac43877a50ab1f0d81ab0a9adff0ee9c3f1f65cc3b412adde2af903cbb046148",
+  "source_bytes": 100426,
+  "published": "2017-03-31",
+  "gazette": "30024",
+  "in_force": "2021-01-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/1/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-01-12",
+      "RG-12/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-12",
+      "12/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5152,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
