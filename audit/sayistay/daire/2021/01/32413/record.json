@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "192",
+  "decision_date": "2021-01-12",
+  "source_id": 32413,
+  "chamber": "8",
+  "ilam_number": "13",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32413/",
+  "source_sha256": "60337bb5c3865e51402bf1d750b5dec175540252657caba2319d2cb05e995251",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
