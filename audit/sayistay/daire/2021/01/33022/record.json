@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "372",
+  "decision_date": "2021-01-12",
+  "source_id": 33022,
+  "chamber": "3",
+  "ilam_number": "590",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33022/",
+  "source_sha256": "9c3a7d240175e5ab71ca39d7503aa902df957d9c57a7a1273e90acb73a8ef9e6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
