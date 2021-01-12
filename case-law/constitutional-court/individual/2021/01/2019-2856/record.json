@@ -1,0 +1,20 @@
+{
+  "applicant": "M.E.G.",
+  "application_date": "2019-01-21",
+  "application_number": "2019/2856",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2021-01-12",
+  "id": "afed7f22-6128-81ba-2d8c-01a04b458d4e",
+  "in_force": "2021-01-12",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFmZWQ3ZjIyLTYxMjgtODFiYS0yZDhjLTAxYTA0YjQ1OGQ0ZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "e611130affa58666a827f35353dc3d70e47f63fbd7998f45fed87be65522a5e0",
+  "version_label": "as-enacted"
+}
