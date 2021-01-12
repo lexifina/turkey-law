@@ -1,0 +1,35 @@
+Mevzuatta öngörülen üst limite uyulmadan araç kiralanması
+
+… San. ve Tic. Ltd. Şti.’nin yükleniminde bulunan 12 ay süreli 1 Adet Kamyonet (Panelvan) Kiralanması Hizmet Alımı işinde, mevzuatta öngörülen üst limitlere uyulmadan araç kiralanması sonucu kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+237 sayılı Taşıt Kanunu’nun, “Kanunun şümulü” başlıklı 1’inci maddesinin (a) fıkrasında; belediyeler tarafından kullanılacak olan taşıtların bu Kanun hükümlerine tabi olduğu belirtilmiş olup, aynı Kanun’un 3’üncü maddesinde, “taşıt” kavramı, “motorlu ve motorsuz bütün ulaştırma araçları” olarak tarif edilmiştir. Yine, anılan Kanun’un 12’nci maddesinin 2’nci fıkrasının (f) bendinde; hizmet alımı suretiyle edinilecek taşıtların cinsi, adedi, yaşı, hangi hizmetlerde kullanılacağı, kaynağı, yabancı menşeli olup olmayacağı ve diğer hususlar için gerekli esas ve usullerin, Bakanlar Kurulu’nca (02.07.2018 tarih ve 703 sayılı KHK’nın 180’inci maddesiyle yapılan değişiklikle Cumhurbaşkanınca) saptanacağı belirtilmiştir.
+
+Bu maddeye dayanılarak 17.03.2006 tarih ve 2006/10193 sayılı Bakanlar Kurulu Kararı ile “Hizmet Alımı Suretiyle Taşıt Edinilmesine İlişkin Esas ve Usuller” yayımlanmıştır.
+
+Anılan “Esas ve Usuller”in;
+
+“Kapsam” başlıklı 2’nci maddesinde; “Bu Esas ve Usuller, 237 sayılı Kanuna tabi olan kurumları ve taşıtları kapsar.”
+
+“Temel amaç” başlıklı 5’inci maddesinde;
+
+“Kamu hizmetlerinin gerektirdiği taşıt ihtiyacının hizmet alımı yoluyla karşılanmasının temel amacı, kamudaki taşıt giderlerinin asgari seviyeye indirilmesi ve kaynakların savurganlığa yol açılmadan, bütçe olanaklarıyla uyumlu bir biçimde kullanımının sağlanmasıdır.”
+
+ “Genel Esaslar” başlıklı 6’ncı maddesinin ikinci fıkrasında ise;
+
+“(2) Genel yönetim kapsamındaki kamu idareleri ile bu idarelere bağlı döner sermayelerin (Cumhurbaşkanlığı Genel Sekreterliği ile TBMM Genel Sekreterliği ve Milli İstihbarat Teşkilatı Başkanlığı hariç) hizmetleri için ihtiyaç duyulan binek, station-wagon, arazi binek, kaptı kaçtı, panel ve pick-up tipi taşıtların (fiilen arazi üzerinde çalışan arazi binek ve pick-up’lar hariç) hizmet alımı yöntemiyle ediniminde;
+
+a) Şoför giderleri hariç yapılan taşıt kiralamalarında aylık kiralama bedeli (katma değer vergisi hariç, her türlü bakım-onarım, sigorta ve benzeri giderler dahil), taşıtın Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan ve harcama talimatının verildiği yılın ocak ayı itibarıyla uygulanacak Motorlu Kara Taşıtları Kasko Değer Listesinde yer alan kasko sigortası değerinin %2’sini aşmayacaktır.
+
+…” hükümlerine yer verilmiştir.
+
+Yukarıda yer verilen mevzuat hükümleri gereğince, Taşıt Kanunu’na tabi kurumlar tarafından, şoför giderleri hariç yapılan taşıt kiralamalarında, aylık kiralama bedelinin (katma değer vergisi hariç, her türlü bakım-onarım, sigorta ve benzeri giderler dahil), taşıtın Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan ve harcama talimatının verildiği yılın Ocak ayı itibarıyla uygulanacak Motorlu Kara Taşıtları Kasko Değer Listesinde yer alan kasko sigortası değerinin %2'sini aşmaması gerekmektedir.
+
+Bu kapsamda, sorguya konu edilen … plaka numaralı … model … marka 1 adet kamyonet (panelvan) için aylık ödenecek kira bedeli tespit edilirken, söz konusu aracın 2019 yılı Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan … TL tutarındaki kasko sigortası değerinin % 2’si olan (… x 0,02) KDV hariç … TL’yi ve KDV dahil … TL’yi aşmaması gerekirken, İdarece aylık KDV dahil … TL kira ödendiği görülmüştür.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71’inci maddesinde, kamu zararı; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanmış olup, anılan maddenin (a) bendinde; “İş, mal veya hizmet karşılığı olarak belirlenen tutardan fazla ödeme yapılması” ve (d) bendinde “İş, mal veya hizmetin rayiç bedelinden daha yüksek fiyatla alınması veya yaptırılması” hususları kamu zararının tespitinde esas alınan kriterler arasında sayılmıştır.
+
+Konu hakkında, sorumlular tarafından gönderilen savunmalarda; bahsi geçen kamyonetin Belediye Başkanının köylere yaptığı ziyaretlerde dağıtılan yardım ve hediyeler ile ses sisteminin taşınması için kullanıldığı, yani genel olarak binek amaçlı olarak değil yük amaçlı olarak kullanıldığı gerekçesiyle, yapılan kiralamanın Hizmet Alımı Suretiyle Taşıt Edinilmesine İlişkin Esas ve Usuller’in 6’ncı maddesinin 2’nci fıkrası kapsamında değerlendirilmediği belirtilmişse de, Usul ve Esaslardaki % 2 kira kısıtlamasına tabi araçlar incelendiğinde; “station wagon, kaptıkaçtı” gibi binek amaçlı araçlara yer verildiği gibi “pick-up ve panel” gibi hem yük taşıma hem de binek amaçlı olarak kullanılan taşıtlara da yer verildiği görüldüğünden, aracın kullanım amacının, % 2 kira kısıtlamasına tabi olup olmama noktasında, herhangi bir belirleyiciliğinin olmadığı açıktır.
+
+Buna ilaveten, 25.12.2014 tarih ve 29216 sayılı Resmi Gazete’de yayımlanan 2014/7039 sayılı Bakanlar Kurulu Kararı ile yapılan düzenlemeyle sadece “fiilen arazi üzerinde çalışan arazi binek ve pick up” tipi taşıtlar için bir istisna getirilmişse de, fiilen arazi üzerinde çalışmadığı anlaşılan bahse konu edilen … plaka numaralı … model … marka panelvan kamyonetin, bu istisna kapsamında değerlendirilmesi mümkün bulunmamaktadır.
+
+Bu itibarla, … San. ve Tic. Ltd. Şti.’den 12 ay süre ile kiralanan … plaka numaralı … model … marka 1 adet kamyonetin (panelvan), 2019 yılı Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan kasko değerleri listesindeki kasko bedeli … TL olduğundan, bahse konu araç için ödenmesi gereken aylık kiralama bedelinin KDV hariç (… x 0,02) … TL’yi ve KDV dahil … TL’yi aşmaması gerekirken, aylık KDV dahil … TL kira bedeli ödenmesi sonucu KDV dahil [(…-…) x 9] … TL kamu zararına sebebiyet verildiği görülmüşse de, bu tutarın … tarih ve … yevmiye numaralı MİF ile Yüklenici … San. ve Tic. Ltd. Şti.’ den mahsuben tahsil edildiği anlaşıldığından, konu hakkında ilişilecek bir husus kalmadığına, yapılan tahsilatın ilamda gösterilmesine oy birliğiyle, karar verildi.
