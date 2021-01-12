@@ -1,0 +1,24 @@
+{
+  "number": "24",
+  "number_as_published": "24",
+  "year": 2021,
+  "title": "Uygulama İmar Planı Değ. (Haliliye-Yeşildirek)",
+  "decision_date": "2021-01-12",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11044/106/uygulama-imar-plani-deg-haliliye-yesildirek",
+  "official_document": null,
+  "source_sha256": "e5218e2add1f6e82ede3d5772369804823cb329d431afd054ddec32e34e5c662",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-01-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.01.2021 tarih ve 24 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-01-29",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
