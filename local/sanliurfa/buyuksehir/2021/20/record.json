@@ -1,0 +1,24 @@
+{
+  "number": "20",
+  "number_as_published": "20",
+  "year": 2021,
+  "title": "NAZIM İMAR PLANI DEĞİŞİKLİĞİ BOZOVA/GÖLBAŞI(ADALI)",
+  "decision_date": "2021-01-12",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11107/106/nazim-imar-plani-degisikligi-bozova-golbasiadali",
+  "official_document": null,
+  "source_sha256": "2da5867370821434e70b6d9bfde61c9d08aaf8a171dce7fa8bc7f4b928152216",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-01-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.01.2021 tarih ve 20 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-02-15",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
