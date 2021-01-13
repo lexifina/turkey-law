@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce verilen yetki devirleri, ilgililerce bu Yönetmeliğin yürürlüğe girmesini müteakip altmış gün içerisinde yenilenmemesi durumunda geçersiz sayılır.
