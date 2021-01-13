@@ -1,0 +1,16 @@
+{
+  "decision_date": "2021-01-13",
+  "history_type": "as-enacted",
+  "in_force": "2021-01-13",
+  "in_force_basis": "Official decision header \"Karar No:76 13.01.2021\"; as-adopted council record, later commencement not established",
+  "number": "76",
+  "omitted_images": 0,
+  "referenced_images": 0,
+  "source": "https://s.ankara.bel.tr/files/5916/1122/8568/K21__76.docx",
+  "source_images": 0,
+  "source_listing": "https://www.ankara.bel.tr/meclis/kararlar?page=602",
+  "source_sha256": "f44912d28cd0b5b96c189e6495d28e3a99e88faea3a6513744176741984bfc61",
+  "source_text_comparison": "OOXML paragraphs vs independent python-docx official-source paragraphs; explicit list labels checked against original numbering.xml",
+  "text_scope": "Official downloadable council record and its included reports; other referenced material is not reconstructed.",
+  "title": "Belediyemiz Dış İlişkiler Dairesi Başkanlığı bünyesinde Uluslarası Proje ve Bilgi Takip Merkezi kurulmasına ilişkin AB ve Dış İlişkiler Komisyonu Raporu oylanarak oybirliğiyle kabul edildi."
+}
