@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.36226",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2872 SAYILI ÇEVRE KANUNU UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (2021/2)",
+  "number": "36226",
+  "path": "teblig/2021/36226",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36226&MevzuatTertip=5",
+  "source_sha256": "a08618b699643561951aedb579badaf7fb68a4c5decdaa349a8892d4d64d74eb",
+  "source_bytes": 8648,
+  "published": "2021-01-13",
+  "gazette": "31363",
+  "in_force": "2021-01-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.01.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36226-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
