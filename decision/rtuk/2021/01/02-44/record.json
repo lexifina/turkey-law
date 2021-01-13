@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/02",
+  "meeting_date": "2021-01-13",
+  "meeting_date_as_published": "13.1.2021",
+  "decision_no": "44",
+  "source_id": 15126,
+  "title": "RTÜK kararı 2021/02-44",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15126",
+  "source_sha256": "bfb0bd2ed459aebde56247271741d4eb770f52bc3590a18e4e3e4b6664c3b95d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
