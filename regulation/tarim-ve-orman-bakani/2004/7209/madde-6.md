@@ -1,0 +1,5 @@
+Üretme İstasyonunun Yerinin Belirlenmesi ve Onayı
+Madde 6 —
+Av ve yaban hayvanı üretme yeri ve istasyonlarının tesisi için; il müdürlüğü ve ilgili orman işletme müdürlüğü ile birlikte; kuruluş amacı ve yer seçimi için öngörülen hususlar dikkate alınarak mahallinde gerekli inceleme, araştırma ve çalışmalar yapılır. Bu çalışmaların bitimini müteakip gerekçeli rapor hazırlanır. Hazırlanan gerekçeli rapora istinaden il müdürlüğünce Ek-1’de yer alan ön etüt raporu düzenlenir.
+İl müdürlüğü tarafından teklif edilen, ön etüt raporlarından uygun görülen üretme yeri ve istasyonun kurulacağı alanın tahsisi, Genel Müdürlükçe, Bakanlık adına ilgili kurum veya kuruluşlardan istenir. İlgili kurum veya kuruluş alanın tahsisini uygun gördükten sonra Bakan onayı ile üretme yeri ve istasyonun kuruluşu yapılır.
+Bakanlık tarafından kurulacak orman içi su ürünleri üretme istasyonlarının projeleri 1380 sayılı Su Ürünleri Kanununun 13 üncü maddesi ile 29/6/2004 tarihli ve 25507 sayılı Resmî Gazete’de yayımlanan Su Ürünleri Yetiştiriciliği Yönetmeliği gereğince, Tarım ve Köyişleri Bakanlığınca onaylanır.
