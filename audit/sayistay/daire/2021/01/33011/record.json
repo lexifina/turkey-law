@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "441",
+  "decision_date": "2021-01-14",
+  "source_id": 33011,
+  "chamber": "5",
+  "ilam_number": "31",
+  "item_number": 22,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33011/",
+  "source_sha256": "d8b0e14973e11143fb400d3eb2f8c96c45048b95906aa6ff12a8c56172883c32",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
