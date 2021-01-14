@@ -1,0 +1,2 @@
+Geçici Madde 2 — 1/1/2002 tarihine kadar bandrol gelirleri, Bakanlık adına ulusal bir bankada açılacak özel bir hesaba yatırılır.
+Bu hesapta toplanan gelirler; bandrol bastırılması ve dağıtılmasına, fikri mülkiyet sisteminin güçlendirilmesine, yurt içindeki ve yurt dışındaki kültür varlıklarının korunmasına ve devam ettirilmesine yönelik faaliyetlerin gerçekleştirilmesi amacıyla kullanılır. Bu gelirlerin harcama usul ve esasları Bakan onayı ile belirlenir.

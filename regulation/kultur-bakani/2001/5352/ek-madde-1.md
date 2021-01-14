@@ -1,0 +1,4 @@
+İmha
+EK MADDE 1 – (Ek:RG-1/11/2010-27746) (Değişik:RG-13/3/2012-28232)
+Usulüne uygun biçimde temin edilmiş bandrollerin kullanılmaması veya hatalı kullanımı hallerinde, söz konusu bandrollerin imhası Genel Müdürlükçe oluşturulacak bir komisyon veya noter marifetiyle, imha edilen bandrollerin seri numaralarının açık şekilde belirtildiği bir tutanak tanzim edilmek suretiyle gerçekleştirilir. İmha işlemi sonucunda usulüne uygun düzenlenmiş imha tutanağı Genel Müdürlüğe gönderilir.
+(Ek fıkra:RG-14/1/2021-31364) Bandrol suçları kapsamında ele geçirilen materyal, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Suç Eşyası Yönetmeliği çerçevesinde imha edilir. Faili tespit edilemeyen bandrol suçları kapsamında ele geçirilen materyal ise, numune alınmasına ilişkin hüküm saklı kalmak kaydıyla, Suç Eşyası Yönetmeliğinde öngörülen kriterler aranmaksızın imha edilir.

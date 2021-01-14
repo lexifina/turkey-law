@@ -1,0 +1,70 @@
+{
+  "source_id": "7.5.5352",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANDROL UYGULAMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "5352",
+  "issuer": "Kültür Bakanı",
+  "issuer_slug": "kultur-bakani",
+  "path": "regulation/kultur-bakani/2001/5352",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5352&MevzuatTertip=5",
+  "source_sha256": "30ccad41df1820a818c81cb9c74133e0b191cf07b4a2040c9fb066743037683d",
+  "source_bytes": 62232,
+  "published": "2001-11-08",
+  "gazette": "24577",
+  "in_force": "2021-01-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/1/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-01-14",
+      "RG-14/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-03-13",
+      "RG-13/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-11-01",
+      "RG-1/11/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2006-04-25",
+      "RG-25/04/2006",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-09-09",
+      "RG-09/09/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-11-06",
+      "RG-6/11/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-11-06",
+      "RG-06/11/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2004-11-06",
+      "RG -06/11/2004",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2344,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
