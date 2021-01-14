@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35638",
+  "decision_date": "2021-01-14",
+  "source_id": 33413,
+  "chamber": "2",
+  "ilam_number": "64",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33413/",
+  "source_sha256": "1b4f0eded4c5557afc7123e11b11de22480e7f4eae78ffaa9179c916e6c2791b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
