@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.36228",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAYVAN KAYNAKLI DOKULAR KULLANILARAK İMAL EDİLEN TIBBİ CİHAZLARA DAİR YÖNETMELİK",
+  "number": "36228",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/36228",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36228&MevzuatTertip=5",
+  "source_sha256": "86652f0fa5ed5ca265f0869fa8d93c8976ae96ab39abe5413a8a85c1de03e85a",
+  "source_bytes": 49878,
+  "published": "2021-01-14",
+  "gazette": "31364",
+  "in_force": "2021-01-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.01.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1300,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.36228-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

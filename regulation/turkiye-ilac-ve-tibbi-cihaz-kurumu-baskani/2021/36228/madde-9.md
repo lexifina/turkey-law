@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 9 – (1) Bu Yönetmelik, hayvan kaynaklı dokular kullanılarak imal edilen vücuda yerleştirilebilir aktif tıbbi cihazlar ve tıbbi cihazlar bakımından 93/42/AET sayılı Tıbbi Cihaz Direktifinde ve 90/385/AET sayılı Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Direktifinde yer alan gerekliliklere ilişkin özel şartları düzenleyen 8/8/2012 tarihli ve (AB) 722/2012 sayılı Avrupa Komisyonu Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.

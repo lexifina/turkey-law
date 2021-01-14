@@ -1,0 +1,4 @@
+Uygunluk Değerlendirme Prosedürleri, Piyasaya Arz ve Hizmete Sunum
+Risk analizi ve risk yönetimi
+MADDE 4 – (1) Tıbbi Cihaz Yönetmeliğinin 11 inci maddesinin beşinci fıkrası veya Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin 10 uncu maddesi uyarınca uygunluk değerlendirmesine yönelik başvuru yapılmadan önce, bu Yönetmeliğin 1 inci maddesinin birinci fıkrasındaki tıbbi cihazların imalatçısı ya da imalatçının yetkili temsilcisi Ek-I’de yer alan risk analizini ve risk yönetimi planını uygular.
+(2) Bu Yönetmeliğin 1 inci maddesinin birinci fıkrası kapsamına giren ısmarlama cihazlar ve klinik araştırma amaçlı cihazlar için Vücuda Yerleştirilebilir Aktif Tıbbi Cihazlar Yönetmeliğinin Ek VI’sı veya Tıbbi Cihaz Yönetmeliğinin Ek VIII’i uyarınca imalatçının ya da yetkili temsilcisinin beyanı ve dokümantasyon, ayrı ayrı Ek-I’in 1 numaralı maddesinde belirtilen özel şartlara uygunluğu da karşılar.
