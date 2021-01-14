@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "443",
+  "decision_date": "2021-01-14",
+  "source_id": 33149,
+  "chamber": "5",
+  "ilam_number": "41",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33149/",
+  "source_sha256": "f7d914d843012f076a2b481e0eab3ca1dc1bacec229b6e8f432ca2b6fc447a51",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
