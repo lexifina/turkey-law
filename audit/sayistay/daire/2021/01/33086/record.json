@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "445",
+  "decision_date": "2021-01-14",
+  "source_id": 33086,
+  "chamber": "5",
+  "ilam_number": "229",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33086/",
+  "source_sha256": "21a3cac3fc41b7dd018e3cccc8baea6caf3092451b4a51d72e96ddab0a3cedde",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
