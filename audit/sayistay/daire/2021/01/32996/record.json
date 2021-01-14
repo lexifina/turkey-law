@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "441",
+  "decision_date": "2021-01-14",
+  "source_id": 32996,
+  "chamber": "5",
+  "ilam_number": "31",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32996/",
+  "source_sha256": "a949a2d6287b7370882be6c1ae0fa012a2b1c655e9587fdb4abf903808fb0396",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
