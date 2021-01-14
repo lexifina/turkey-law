@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "779",
+  "decision_date": "2021-01-14",
+  "source_id": 33190,
+  "chamber": "6",
+  "ilam_number": "42",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33190/",
+  "source_sha256": "bcf2af1e219fd1d0f662d0d34eb38eef4d14b7d3f6f44b42b253dc941c4ce613",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
