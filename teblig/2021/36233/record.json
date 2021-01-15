@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.36233",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "DEĞERLİ KONUT VERGİSİ UYGULAMA GENEL TEBLİĞİ",
+  "number": "36233",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/36233",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=36233&MevzuatTertip=5",
+  "source_sha256": "9e87645acb9e16248776bc24a3501f8bedb940f909b882f9a9f0cd20555c0fb1",
+  "source_bytes": 78368,
+  "published": "2021-01-15",
+  "gazette": "31365",
+  "in_force": "2021-01-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.01.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3303,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.36233-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
