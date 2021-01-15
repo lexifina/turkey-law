@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-01-15T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-01-15",
+  "official_number": "84974990-130[KDV-4-14017-İ-2017/17]-18341",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28951",
+  "source_id": "ozelge:28951",
+  "source_row_sha256": "ceeb59b6bd6a48f0dee75249d36bb6a1f24168b6fe54b7f2e5ac98cb77a1f7fb",
+  "title": "Yurt dışından limanlara gelen malların limanlardan serbest bölgelere taşınması hizmetinin KDVden istisna olup olmadığı hk.",
+  "version_label": "as-enacted",
+  "word_count": 554
+}
