@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-01-17",
+      "17.01.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31367",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Sabahattin Zaim Üniversitesi",
+  "issuer_slug": "istanbul-sabahattin-zaim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-sabahattin-zaim-universitesi/2021/36235",
+  "published": "2021-01-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36235&MevzuatTertip=5",
+  "source_bytes": 161533,
+  "source_id": "8.5.36235",
+  "source_sha256": "cf2472c7ae8b0bbaccd1b4a421ceac26056d8838623c92a234879e189ea4ae61",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 360,
+  "word_count": 6065
+}
