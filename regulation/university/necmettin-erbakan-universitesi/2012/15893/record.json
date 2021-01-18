@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/necmettin-erbakan-universitesi/2012/15893",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Maliye Bakanlığı ile Sayıştayın görüşleri alınan bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-18/1/2021",
+  "first_law": null,
+  "gazette": "28205",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-18",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Necmettin Erbakan Üniversitesi",
+  "issuer_slug": "necmettin-erbakan-universitesi",
+  "kind": "regulation",
+  "published": "2012-02-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15893&MevzuatTertip=5",
+  "source_id": "8.5.15893",
+  "source_sha256": "4fedb55d59d29b6d0858bddfe8233196d22bb7c94c6797008659b5adbaf75300",
+  "title": "NECMETTİN ERBAKAN ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 416,
+  "version_label": "oldest version available",
+  "word_count": 699
+}

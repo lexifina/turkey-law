@@ -1,0 +1,3 @@
+Yönetim organı
+MADDE 6 – (1) Üniversite Yönetim Kurulu, İşletmenin de Yönetim Kuruludur.
+(2) (Değişik:RG-18/1/2021-31368) Üniversite Yönetim Kurulu; işletmeyi idare etmek üzere Yürütme Kurulu oluşturabilir ve yetkilerini uygun gördüğü ölçüde Yürütme Kuruluna devredebilir. Yürütme Kurulu; Üniversite Yönetim Kurulu tarafından seçilecek bir rektör yardımcısı, üç öğretim elemanı (dekan ve yüksekokul müdürü de olabilir) ve döner sermaye işletme müdürü olmak üzere beş kişiden oluşur. Yürütme Kurulu üye tam sayısının salt çoğunluğu ile ayda en az bir defa toplanır ve kararlarını üye tam sayısının salt çoğunluğu ile alır. Yürütme Kurulu Başkanı gününü önceden belirtmek üzere Yürütme Kurulunu her zaman toplantıya çağırabilir.
