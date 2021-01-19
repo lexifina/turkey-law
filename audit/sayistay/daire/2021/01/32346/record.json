@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "255",
+  "decision_date": "2021-01-19",
+  "source_id": 32346,
+  "chamber": "4",
+  "ilam_number": "225",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32346/",
+  "source_sha256": "a2f0c30bdaa3bc23c0938ad2e5d4636666745cd555f577e4766fc1b1690e70b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
