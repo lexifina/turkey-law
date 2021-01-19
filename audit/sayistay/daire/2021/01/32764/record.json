@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "194",
+  "decision_date": "2021-01-19",
+  "source_id": 32764,
+  "chamber": "8",
+  "ilam_number": "35",
+  "item_number": 12,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32764/",
+  "source_sha256": "a5f1371b9143182a3c4a855069f499cfb79d39df4c36fcdc3478db5e0a01cb9a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
