@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48705",
+  "decision_date": "2021-01-20",
+  "source_id": 23288,
+  "chamber": "5",
+  "file_number": "46732",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23288/",
+  "source_sha256": "860cf4dd5c5e3875140f881da2ea8efd6ac2a7af374d11f63dc843110f67f4a1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
