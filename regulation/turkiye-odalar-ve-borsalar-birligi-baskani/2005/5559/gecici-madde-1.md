@@ -1,0 +1,1 @@
+Geçici Madde 1 — 1/6/2004 tarihinden itibaren bir yıl içinde il odasına veya borsasına bağlı olarak şubeye dönüşen oda ve borsalarda, üyelerin bu oda veya borsaya, oda ve borsaların da Birliğe olan aidat borçları ve gecikme zamları silinir ve üyeler beş yıl herhangi bir aidat ödemezler.

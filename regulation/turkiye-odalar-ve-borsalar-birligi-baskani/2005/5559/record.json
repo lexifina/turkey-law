@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.5559",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAYIT ÜCRETİ İLE YILLIK AİDAT VE MUNZAM AİDATIN TESPİTİ VE ÖDENMESİ HAKKINDA YÖNETMELİK",
+  "number": "5559",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/5559",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5559&MevzuatTertip=5",
+  "source_sha256": "4bbd58a2548b16ff83f7696fb6d2cb0fde2129ac53b4f24babb10172ad19c67c",
+  "source_bytes": 47248,
+  "published": "2005-01-08",
+  "gazette": "25694",
+  "in_force": "2021-01-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/1/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-01-20",
+      "RG-20/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-20",
+      "20/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-01-31",
+      "RG-31/1/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-01-31",
+      "31/1/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1910,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,1 @@
+Geçici Madde 2 — Üyelerin oda ve borsalara, oda ve borsaların da Birliğe olan gecikmiş aidat borçlarının tamamının, 1/6/2004 tarihinden itibaren altı ay içinde ödenmesi halinde bu borçlara ait gecikme zamları silinir.
