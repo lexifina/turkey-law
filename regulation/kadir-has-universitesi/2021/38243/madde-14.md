@@ -1,0 +1,2 @@
+Personel ihtiyacı
+MADDE 14 – (1) Merkezin teknik, idari ve akademik personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesine göre Rektör tarafından görevlendirilecek personel tarafından karşılanır. Bu kapsamda Merkezde en az bir araştırma uzmanı görevlendirilir. Araştırma uzmanının hukuk fakültesi mezunu ve iyi derecede yabancı dil bilgisi olması gerekir. Yabancı dil yeterliliği Üniversitenin istihdama ilişkin yabancı dil yeterlik şartları çerçevesinde ölçülür.
