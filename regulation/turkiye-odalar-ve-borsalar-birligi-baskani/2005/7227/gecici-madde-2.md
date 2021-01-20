@@ -1,0 +1,1 @@
+Geçici Madde 2 — 1/6/2004 tarihinden önce kurulmuş olan ajanlıklar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren iki ay içinde bu Yönetmelik hükümleri çerçevesinde ilgili odaya bağlı şube veya temsilciliğe dönüştürülür.

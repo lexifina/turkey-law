@@ -1,0 +1,7 @@
+Şubeye Dönüşüm
+Madde 6 — Bölge odasının, coğrafi bölge illerindeki toplam üye sayısının yarısından fazlasının talebi üzerine kurulması halinde coğrafi bölge içinde kurulu bulunan tüm il ve ilçe odaları; bölge odasının, coğrafi bölge içinde kurulu bulunan il ve ilçe odalarının en az üçte ikisinin meclislerinin ayrı ayrı alacağı üye tamsayısının üçte ikisinin kararıyla kurulması halinde ise kurucu il ve ilçe odaları şube haline dönüşür.
+Bölge borsasının, bölge illerindeki toplam üye sayısının yarısından fazlasının talebi üzerine kurulması halinde bölge içinde kurulu bulunan tüm il ve ilçe borsaları; bölge borsasının, borsa meclislerinin ayrı ayrı alacağı üye tamsayısının üçte ikisinin kararıyla kurulması halinde ise kurucu borsalar şube haline dönüşür.
+Bölge oda veya borsasının çalışma merkezi, kuruluş talebindeki görüşler dikkate alınarak Bakanlıkça belirlenir.
+İlçe oda ve borsaları, meclislerinin üye tamsayısının üçte ikisinin kararıyla bölge ya da il oda veya borsasının şubesine dönüşebilir.
+Şubeye dönüşen oda ve borsaların varlıkları tüm aktif ve pasifleriyle birlikte bağlandığı oda veya borsaya intikal eder. Devir işlemleri, şubeye dönüşen oda ve borsalarda organ seçimlerinin tamamlanmasını müteakip üç ay içinde yapılır.
+Şubeye dönüşen oda ve borsada çalışan personelin, bağlanılan oda veya borsada mevcut statülerine göre istihdamına devam olunur. Bu personel hakkında bağlanılan oda veya borsa çalışanlarının tabi olduğu mevzuat uygulanır.

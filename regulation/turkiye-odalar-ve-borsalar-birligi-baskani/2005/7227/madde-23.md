@@ -1,0 +1,3 @@
+Yazışmalar
+Madde 23 — Şubeler, görevleriyle ilgili konularda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle doğrudan yazışma yapabilir. Ancak, Bakanlık, Birlik ve çalışma alanı dışındaki kamu kurum ve kuruluşları ile diğer oda ve borsalarla yazışmalarını bağlı bulundukları oda veya borsalar aracılığıyla yaparlar.
+Temsilcilikler, kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle yazışma yapamaz. Ancak, odalar temsilciliğin çalışma alanındaki üyeleriyle yazışmalarını temsilcilik aracılığıyla yapabilir. Odalar, temsilciliğin çalışma alanındaki üyeleriyle doğrudan yazışmaları halinde, durum ayrı bir yazıyla temsilciliğe bildirilir.
