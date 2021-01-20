@@ -1,0 +1,3 @@
+Diğer birimlerle ortak çalışma ve koordinasyon
+MADDE 51 – (1) Müfettişler, görevlendirildikleri konularda Bakanlık merkez, taşra ve yurtdışı teşkilatları ile bağlı, ilgili ve ilişkili kuruluşlarında aynı birim veya konularda başlatılmış olan soruşturma, inceleme ve denetimleri kendisi yürütür.
+(2) Bakan veya Başkan tarafından görev verilmesi halinde, diğer kamu kurum ve kuruluşlarının denetim elemanları ile müşterek rehberlik, teftiş, inceleme, ön inceleme ve soruşturma yapılabilir. Bakanlıkça başlatılan ve müşterek çalışmayı gerektiren inceleme, teftiş ve soruşturmalarda koordinasyon görevi Bakanlık müfettişi tarafından yürütülür.

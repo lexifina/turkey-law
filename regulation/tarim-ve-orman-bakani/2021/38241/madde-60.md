@@ -1,0 +1,4 @@
+Raporların düzenlenmesi
+MADDE 60 – (1) Yazılı ve ıslak imzalı olarak hazırlanan raporların her sayfası ekleriyle birlikte müfettişlik mührü ile mühürlenir ve paraf edilir. Son sayfasına müfettişin veya müfettişlerin adı, soyadı, unvanı yazılarak, raporu düzenleyen müfettiş veya müfettişler tarafından imzalanır.
+(2) Raporlara takvim yılı itibarıyla 1’den başlamak üzere bir sıra numarası verilir. Bu sıra numarası 1 Ocak'tan 31 Aralık tarihine kadar devam eder. Birden fazla müfettiş tarafından yazılan raporlarda, kıdem sırasına göre her biri kendi rapor sıra numarasını verir.
+(3) Raporlarda yer verilen tespit, görüş ve önerilerin; tereddüde sebep olmayacak şekilde açık, anlaşılır ve yazım kurallarına uygun bir üslupla yazılmasına; ilgili mevzuata ve soruşturma, inceleme, denetim ve araştırma sonucu ulaşılan delillere dayandırılmasına özen gösterilir.

@@ -1,0 +1,2 @@
+Yetki
+MADDE 69 – (1) Başkanlık, bu Yönetmeliğin uygulanmasında doğabilecek tereddütlerin giderilmesinde, soruşturma, inceleme ve denetim ile diğer görevlere ilişkin usul ve esasların belirlenmesinde, görev alanına giren iş ve işlemlerin bilgi işlem sistemleri üzerinden yapılmasını sağlamaya veya zorunlu tutmaya, bu Yönetmelikte yer alan rapor, yazı ve diğer belgelerin düzenlenmesine ilişkin usul ve esasları belirlemeye yetkilidir.

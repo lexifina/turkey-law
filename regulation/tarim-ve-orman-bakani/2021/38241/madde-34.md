@@ -1,0 +1,5 @@
+Değerlendirme belgesi ve yetki verilmesi
+MADDE 34 – (1) Müfettişler tarafından, refakatinde çalışan müfettiş yardımcıları hakkında, Ek-1’de yer alan Müfettiş Yardımcısı Değerlendirme Raporu düzenlenir. Değerlendirme belgesini, her görev bitimini ve/veya refakat bitimini takip eden yirmi gün içerisinde düzenleyerek Başkanlığa kapalı ve gizli zarf içerisinde sunarlar.
+(2) Müfettiş yardımcılarına, üçüncü yıllarında Başkanlıkça yapılan değerlendirme, tez jürisinin değerlendirmesi ile refakatinde çalıştıkları müfettişlerin değerlendirmeleri Başkanlıkça dikkate alınarak bağımsız olarak soruşturma, inceleme ve denetim yetkisi Başkanın önerisi ve Bakan onayı ile verilebilir.
+(3) Yetki verilen müfettiş yardımcıları, müfettiş yetkilerini kullanırlar.
+(4) Refakatinde görev yaptığı müfettişlerin hakkında olumsuz değerlendirme belgesi düzenlediği veya düzenlediği bazı raporlar ve diğer çalışmaları Başkanlıkça yeterli bulunmadığı değerlendirilen müfettiş yardımcısı, durumu hakkında yazılı olarak Başkanlıkça bilgilendirilir.

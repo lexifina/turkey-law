@@ -1,0 +1,2 @@
+Müfettişlikten ayrılmada yapılacak işlemler
+MADDE 67 – (1) Müfettişlikten ayrılanlar; sonuçlandırılmış görevlere ilişkin raporları, henüz sonuçlandırılmamış görevlere ilişkin belgeleri, kendilerine teslim edilen resmî mührü, kimlik belgesini, demirbaş ve diğer eşyayı ayrılmadan önce Başkanlığa iade etmek zorundadır. Sonuçlandırılmamış görevlere ilişkin işlemler hakkında ellinci madde hükümleri uygulanır.

@@ -1,0 +1,10 @@
+Görevden uzaklaştırma
+MADDE 17 – (1) Müfettişler, görevlendirildikleri hususlarla ilgili görevi başında kalmasında sakınca görülen kişileri, aşağıdaki durumlarda görevlerinden uzaklaştırabilirler:
+a) Soruşturma, inceleme ya da denetimi güçleştirecek, engelleyecek ve yanlış yönlendirecek davranışlarda bulunması, evrakta sahtecilik, kayıtlarda tahrifat yapması veya evrakta sahtecilik, kayıtlarda tahrifat yaptığı yönünde kuvvetli şüphe bulunması, istenen belgeleri göstermekten ve bunlarla ilgili soruları cevaplamaktan kaçınması.
+b) 3628 sayılı Kanunun 17 nci maddesine giren eylemlerde bulunması.
+c) Kamu hizmeti gerekleri yönünden görevi başında kalmasında sakınca bulunması.
+(2) Görevden uzaklaştırma kararı, soruşturma, inceleme ve denetim işleminin her aşamasında alınabilir.
+(3) Görevden uzaklaştırma kararı, Müfettiş tarafından gerekçesiyle görevden uzaklaştırılana, Başkanlığa, Personel Genel Müdürlüğüne, bağlı olduğu amire ve aylığının ödendiği birime yazıyla derhal bildirilir.
+(4) Herhangi bir personelin görevden uzaklaştırılması sebebiyle işlerin aksamaması için gerekli tedbirler o birimin amirince alınır. Görevden uzaklaştırıldığı halde işini devretmeyip görevi başında kalmakta ısrar ettiği tutanakla belgelenen personel hakkında, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 262 nci maddesi gereğince gerekli işlem yapılması için müfettiş tarafından derhal o yerin yetkili merciine müracaat edilir ve düzenlenen tutanak da bu yazıya eklenir.
+(5) Soruşturma sonunda disiplin yüzünden memurluktan çıkarma veya cezai bir işlem uygulanmasına lüzum kalmayanlar için alınmış olan görevden uzaklaştırma tedbiri, atamaya yetkili amir tarafından kaldırılır. Müfettişler, görevlendirildikleri hususlarla ilgili olarak görevden uzaklaştırma tedbiri uygulananlar hakkındaki bu tedbirin kaldırılmasını gerektiren durumları derhal Başkanlığa bildirirler. Bu bildirim üzerine görevliler, atamaya yetkili amirlerince görevlerine başlatılırlar.
+(6) Görevden uzaklaştırılana ait soruşturma ile bu soruşturmaya ait rapor üzerinde yapılacak işlemlerin diğer işlerden önce tamamlanması ve sonuçlandırılması esastır.

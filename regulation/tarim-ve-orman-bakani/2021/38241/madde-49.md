@@ -1,0 +1,8 @@
+Müfettişlerin görevlendirilmesi ile çalışma usul ve esasları
+MADDE 49 – (1) Müfettiş, Bakan talimatı veya onayı üzerine Başkan tarafından görevlendirilir ve çalışma sonuçlarını Başkanlığa bildirir.
+(2) Müfettişlerin üzerinde tek ya da heyet olarak birden fazla görev olabilir. İşlerin, tabi oldukları süreleri aksatmayacak şekilde yapılması esastır.
+(3) Çalışmaların sonuçlarına ait bütün rapor ve yazıların çalışma esnasında düzenlenmesi ve tamamlanması esastır.
+(4) Müfettişler görevlendirildikleri konularda bağımsız olarak çalışırlar. Ancak, gerekli görülen durumlarda; soruşturma, inceleme ve denetim işlemlerinin birden fazla Müfettiş tarafından birlikte yürütülmesi de mümkündür. Bu tür çalışmalarda iş bölümünü yapmak, işlerin zamanında sonuçlandırılmasını sağlamak, Başkanlıkla haberleşmeyi yürütmek kıdemli müfettiş tarafından yerine getirilir. Diğer yazışmalar, işin gereğine göre heyet başkanının ya da heyet üyelerinin tamamının imzalarıyla yapılır. Başkan yardımcılarının müşterek çalışmalarda görev alması halinde, heyeti başkan yardımcısı koordine eder.
+(5) Birlikte yürütülen işlerde müşterek rapor düzenlenmesi esastır.
+(6) Görevlendirme yapılırken işin ivediliği, niteliği, kapsamı ve sair nedenlerle Başkanlıkça işin tamamlanması için belirlenen süreye uyulması esastır.
+(7) Müfettişler, görevleri ile ilgili konularda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak, Cumhurbaşkanlığı, TBMM, yüksek yargı organları, diğer Bakanlıkların merkez ve yurtdışı birimleriyle olan yazışmalar Başkanlık aracılığıyla genel esaslara göre yapılır.

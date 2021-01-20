@@ -1,0 +1,9 @@
+Müfettiş yardımcılarının yetiştirilme süreci
+MADDE 33 – (1) Müfettiş yardımcıları, 657 sayılı Kanun ile 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik hükümleri çerçevesinde adaylık eğitimine ve bu Yönetmelikte belirtilen esaslar dâhilinde mesleki eğitime tabi tutulurlar.
+(2) Müfettiş yardımcıları üç yıllık yetişme dönemine tabidirler.
+(3) Müfettiş yardımcıları; üç yıllık yetiştirilme süresinin ilk iki yılında, Başkanlıkça belirlenecek çalışma programına göre müfettiş refakatinde görevlendirilirler.
+(4) Müfettişler, refakatlerindeki müfettiş yardımcılarının meslek ve hizmet gereklerine uygun şekilde yetiştirilmelerinden sorumludurlar.
+(5) Başkanlıkça, mesleki görev ve yetki alanına giren konularda; soruşturma, inceleme ve denetim usulleri ile ilgili mevzuatın öğretilmesi amacıyla eğitim programları düzenlenir.
+(6) Müfettiş yardımcıları, müfettiş refakatinde görevlendirildikleri sürede müfettişin rehberliği doğrultusunda görevlerini yerine getirirler. Müfettiş yardımcıları, bu sürede tek başlarına soruşturma, inceleme ve denetim yapamaz ve bağımsız rapor düzenleyemezler.
+(7) Müfettiş yardımcıları mesleğe başladıktan sonra, ilk iki yıllık yetiştirilme süreci boyunca üzerinde çalışmak ve bu sürenin sonunda teslim edilmek üzere Başkanlıkça belirlenen tez konuları ile ilgili çalışmalarını yaparlar. Süresi içinde tezlerini sunmayan veya tezleri kabul edilmeyenlere tezlerini sunmaları veya yeni bir tez hazırlamaları için altı ayı aşmamak üzere ilave süre verilir.
+(8) Tez konularının belirlenmesi, en az iki başkan yardımcısının dâhil olduğu tez jürisi oluşturulması, tezin kabulü ve teslimine ilişkin hususlar Başkanlıkça yürürlüğe konulan Yönerge ile belirlenir. Yeterlik sınavına girilebilmesi için hazırlanan tezin bu usul ve esaslar çerçevesinde yeterli bulunması şarttır.

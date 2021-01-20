@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Tarım ve Orman Bakanını,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Başkan: Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanını,
+ç) Başkanlık: Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanlığını,
+d) Başkan Yardımcısı: Görevlerin yürütülmesinde Başkana yardımcı olmak üzere, Bakan onayına istinaden başkan yardımcısı olarak görevlendirilen başmüfettiş veya müfettişi,
+e) Büro Şube Müdürlüğü: Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanlığı bünyesinde bulunan Şube Müdürlüğünü,
+f) Büro Şube Müdürlüğü personeli: Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanlığı Büro Şube Müdürlüğünde görevli tüm personeli,
+g) Denetim: Bakanlık teşkilat yapısında yer alan ve ilgili mevzuatla ilişkilendirilen tüm birimlerin, görevlerini mevzuata uygun biçimde yerine getirip getirmediği, kamu kaynaklarının etkili, ekonomik ve verimli şekilde kullanılıp kullanılmadığı ile ilgililerin sorumluluğunun tespiti ve süreçlerin iyileştirilmesini kapsayan faaliyetler bütününü,
+ğ) Elektronik Belge Yönetim Sistemi: Bakanlık hizmetlerinin daha etkin, etkili ve verimli kullanılabilmesi amacıyla uygulamaya konulan elektronik bilgi sistemini,
+h) İnceleme: Belirli bir konunun ya da sorunun saptanması ve durumun ortaya çıkartılmasına yönelik faaliyetler bütününü,
+ı) Kamu Personel Seçme Sınavı (KPSS): Kurumların kendi mevzuatına göre düzenleyecekleri giriş sınavına kabul edilecekleri belirlemek amacıyla kullanılacak olan puanları sağlayan ve 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik çerçevesinde yapılan merkezi sınavı,
+i) Koordinatör: Başkanlığın gerekli gördüğü iş ve işlemlerinin yürütülmesinde, görev verilen heyetin sevk ve idaresi için görevlendirilen başkan yardımcısını,
+j) Müfettiş: Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanlığı başmüfettişi ve müfettişini,
+k) Rehberlik: Bakanlıkça yürütülen faaliyetlerin hedef ve amaçlara uygun olarak daha etkin gerçekleştirilmesine katkıda bulunmak, Bakanlığın hedef ve amaçlarına ulaşmasını sağlamak üzere, Ülke genelinde ya da bölgesel düzeyde konu veya proje bazında inceleme ve araştırma yapmak, uygulamada karşılaşılan sorunlara çözümler üretmek, Bakanlık politikalarının etkinliğini değerlendirmek, uygulama yöntem ve sonuçları üzerinde analizler yaparak alternatif öneriler sunmak, yeni politikaların Bakanlık birimlerince daha iyi anlaşılmasını temin etmek amacıyla yapılan çalışmaları,
+l) Sınav Kurulu: Bakan onayı ile Başkan veya başkan yardımcılarından birinin başkanlığında, başmüfettiş ile müfettiş kadrolarında görev yapanlar arasından belirlenecek en az beş asıl ve üç yedek üyeden oluşan ve müfettiş yardımcılığı giriş ve yeterlik sınavını yapmaya yetkili olan kurulu,
+m) Soruşturma: Görevleri veya sıfatları sebebi ile özel soruşturma usulüne tabi olanlarla ilgili mevzuat hükümleri saklı kalmak kaydıyla mevzuatında tanımlanmış eylem ve işlemlerin gerçek mahiyetini ortaya çıkartmak maksadıyla ilgili kişiler hakkında yapılan inceleme, araştırma ve tahkik faaliyetleri bütününü,
+n) Teftiş: Denetim, rehberlik, inceleme, ön inceleme, soruşturma ve araştırma faaliyetlerinin tümünü,
+o) Uzaktan çalışma: Müfettişlerin gerektiğinde elektronik iletişim kanallarını kullanarak Bakanlık Elektronik Belge Yönetim Sistemi, telekonferans, elektronik posta gibi araçlarla çalışmalarını sürdürmesini,
+ö) Yetkili müfettiş yardımcısı: İki yıl refakatte müfettiş yardımcılığı yaptıktan sonra, tek başına göreve gidebilmesi için Başkanlıkça yetki verilen müfettiş yardımcısını,
+ifade eder.

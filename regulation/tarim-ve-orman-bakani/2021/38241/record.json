@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38241",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE ORMAN BAKANLIĞI REHBERLİK VE TEFTİŞ BAŞKANLIĞI YÖNETMELİĞİ",
+  "number": "38241",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38241",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38241&MevzuatTertip=5",
+  "source_sha256": "4696d62ba36bbf3c5c9da23120471fae77e7304791a9b5dceffba8045781a4ac",
+  "source_bytes": 171514,
+  "published": "2021-01-20",
+  "gazette": "31370",
+  "in_force": "2021-01-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.01.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9310,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38241-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

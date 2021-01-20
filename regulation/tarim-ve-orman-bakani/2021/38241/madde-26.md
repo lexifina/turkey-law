@@ -1,0 +1,5 @@
+Sınavın yapılması
+MADDE 26 – (1) Sınav Başkanlık tarafından yapılıyorsa; yazılı sınav, sınav kurulunun gözetim ve denetimi altında yapılır. Sınav disiplinini sağlamak, kopya çekilmesine ve başkasının yerine sınava girilmesine engel olmak, sınavı düzenli yürütüp sonuçlandırmak sınav kurulunun görevidir.
+(2) Yazılı sınav sorularını içeren mühürlü zarflar, sınava katılanların önünde açılarak, sınava başlanır ve durum tutanakla tespit edilir. Sınav sonunda toplanan cevap kağıtları bir zarfa konulur, üzerine sınav grubu, sınav tarihi ve yeri, içine konulan kağıt sayısı yazılarak kapatılır. Zarfın üzeri mühürlenerek imzalanır. Bu hususlar ile sınav sırasında meydana gelen kayda değer olaylar, sınavı tamamlayan son iki adayın da katılımıyla sınav kapanış tutanağı ile tespit edilir.
+(3) Kopya çekenler yahut kopya çekme girişiminde bulunanlar, sınav disiplinini bozanlar sınav salonundan çıkarılır, durum bir tutanakla tespit edilir. Bunlar bir daha sınava alınmazlar.
+(4) Sınav başlama ve bitiş tutanakları ile cevap kağıtlarının konulduğu zarflar sınav sonunda Başkana teslim edilir.

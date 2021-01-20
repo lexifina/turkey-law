@@ -1,0 +1,7 @@
+Giriş sınavı duyurusu ve başvuru
+MADDE 20 – (1) Giriş sınavı duyurusu aşağıda belirtilen esaslar çerçevesinde Başkanlıkça yapılır:
+a) Atama yapılacak müfettiş yardımcısı kadrolarının sayısı ve derecesi, Bakanlıkça KPSS’ye göre belirlenen asgari puan ve puan türü, alınacak personelde aranacak şartlar ile giriş sınavının tarihi, yapılacağı yer, içeriği, değerlendirme yöntemi, başvuru mercii ve son başvuru tarihi ile gerekli görülen diğer hususlar, 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur. İlan, ilk başvuru tarihinden en az on beş gün önce yapılır.
+b) Giriş sınavı duyurusunda Başkanlıkça belirlenen fakülteler ve bölümlerden mezun olan ve istenen puan türünden yeterli puanı alan adaylar başvuru yapabilirler.
+c) Adaylar, Başkanlıkça hazırlanan sınav başvuru formu ile Başkanlığa müracaat ederler. Elektronik ortamdaki veya postadaki gecikmelerden dolayı zamanında ulaşmayan başvurular işleme konulmaz.
+ç) Adayların başvuru ve kayıt süresi, sınavın başlama tarihinden en geç on beş gün önce bitecek şekilde tespit edilir.
+d) Sözlü sınavın tarihi ve yapılacağı yer, sözlü sınavdan en az on beş gün önce, sınava girmeye hak kazanan adayların isimleri ile birlikte Bakanlığın ve Başkanlığın resmî internet adresinde ilan edilir.
