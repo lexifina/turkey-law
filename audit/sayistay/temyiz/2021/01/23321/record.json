@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48734",
+  "decision_date": "2021-01-20",
+  "source_id": 23321,
+  "chamber": "5",
+  "file_number": "46726",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23321/",
+  "source_sha256": "bb9dc733e493964e46bdea0ae47937573a491f19571747dcf35bb06a1f877294",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
