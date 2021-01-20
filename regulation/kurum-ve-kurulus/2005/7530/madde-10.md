@@ -1,0 +1,4 @@
+Disiplin soruşturmasının sonuçlandırılması
+Madde 10 - Soruşturmacı tarafından hazırlanan fezleke disiplin kuruluna sevk edilir. Disiplin kurulu, hazırlanan fezlekeye bağlı kalmaksızın incelemesini evrak üzerinden yapar. İnceleme sonucunda, disiplin kurulu ya suçun oluşmadığına ve dolayısıyla ceza gerekmediğine karar verir ya da suçun oluştuğuna kanaat getirerek meclise ceza teklifinde bulunur.
+Disiplin kurulunun ceza verilmesine ilişkin kararı, kararın verildiği tarihten itibaren on gün içinde meclis gündemine alınmak üzere, disiplin kurulu başkanı tarafından yazılı olarak meclis başkanına sunulur.
+Disiplin kurulu, gerekli görürse hakkında soruşturma yapılan üyeyi dinleyebilir, noksan saydığı soruşturma işlemlerinin tamamlanmasını aynı soruşturmacıdan veya olayın yeniden soruşturulmasını görevlendireceği başka bir soruşturmacıdan isteyebilir.

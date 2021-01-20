@@ -1,0 +1,5 @@
+Disiplin soruşturması
+Madde 8 - Üyeler hakkında disiplin soruşturması disiplin kurulu tarafından yürütülür. Soruşturmanın her safhasında gizlilik esastır.
+Disiplin kurulu, yönetim kurulunun soruşturma açılmasına dair kararının kendilerine iletilmesinden itibaren en çok iki ay içinde suç oluştuğuna kanaat getirerek ceza önermek veya suç oluşmadığına ve dolayısıyla ceza gerekmediğine karar vermek zorundadır. Bu süre, lüzumu halinde disiplin kurulunun önerisi üzerine veya doğrudan yönetim kurulu kararıyla uzatılabilir. Ancak, disiplin soruşturması en geç bir yıl içinde sonuçlandırılır. Bu süre içinde disiplin soruşturmasının sonuçlandırılmaması halinde üye hakkında soruşturma yürütülemez ve disiplin cezası verilemez.
+Ceza davasına konu teşkil eden fiil ve hallerden dolayı ayrıca disiplin soruşturması açılması durumunda soruşturma, disiplin kurulunun önerisi üzerine veya doğrudan yönetim kurulu kararıyla ceza mahkemesi kararının kesinleşme tarihinden itibaren bir yıl içinde de yapılabilir.
+Bu maddenin uygulanmasından disiplin kurulu sorumludur.

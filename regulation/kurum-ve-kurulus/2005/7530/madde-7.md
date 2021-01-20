@@ -1,0 +1,5 @@
+Soruşturma açılmaması kararına itiraz
+Madde 7 - İhbar veya şikayette bulunanlar, yönetim kurulunun soruşturma açılmasına yer olmadığına ilişkin kararlarına karşı tebellüğ tarihinden itibaren on beş gün içinde Yüksek Disiplin Kuruluna itiraz edebilir.
+İtirazlar bir dilekçeyle yapılır. İtiraz edenin kimliği, adresi ve imzası bulunmayan dilekçeler işleme konulmaz.
+İtiraz üzerine, Yüksek Disiplin Kurulu tarafından alınan karar, soruşturma açılmasına yer olmadığına ilişkin ise itirazda bulunana, soruşturma açılmasına ilişkin ise yönetim kuruluna bildirilir. Yönetim kurulu, alacağı bir karar ile Yüksek Disiplin Kurulunun soruşturma açılmasına ilişkin kararını bildirim tarihinden itibaren on gün içinde disiplin kuruluna havale eder. Havale işlemi, alınan kararın yönetim kurulu başkanı tarafından yazılı olarak disiplin kurulu başkanına sunulması suretiyle yapılır
+Soruşturma açılmasına yer olmadığına ilişkin kararın konusunu oluşturan fiil ve hallerden dolayı, yönetim kurulu tarafından yeniden bir karar verilebilmesi, yeni kanıtların elde edilmesine bağlıdır.

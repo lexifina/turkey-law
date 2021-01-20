@@ -1,0 +1,2 @@
+Öncelikli uygulanacak hükümler
+Madde 42 - Disiplin kuruluna seçilme yeterlilik ve engelleri, disiplin kurulu üyelerinin seçim usul ve esasları ile disiplin kurulu üyelik vasfının yitirilmesi hususlarında öncelikli olarak bu Yönetmelik hükümleri, bu Yönetmelikte hüküm bulunmayan hallerde ise 19/1/2005 tarihli ve 25705 sayılı Resmi Gazetefde yayımlanan Türkiye Odalar ve Borsalar Birliği İle Odalar ve Borsalar Organ Seçimleri Hakkında Yönetmelik hükümleri uygulanır.

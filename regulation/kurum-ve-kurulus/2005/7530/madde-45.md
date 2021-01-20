@@ -1,0 +1,5 @@
+Yürütme
+Madde 45 - Bu Yönetmelik hükümlerini (Değişik ibare:RG-20/1/2021-31370) Ticaret Bakanı yürütür.
+_____________
+(1) Danıştay İdari Dava Daireleri Kurulunun 19/11/2012 tarihli ve Esas:2008/3239, Karar:2012/2115 sayılı Kararı ile bu Yönetmeliğin 5 inci maddesinin (b) bendinin (1) numaralı alt bendindeki ... veya eylem ve işlemde... ibaresini iptal eden Danıştay Sekizinci Dairesinin 2/4/2008 tarihli ve Esas:2006/5567, Karar:2008/2405 sayılı Kararı onanmıştır. Daha sonra İdari Dava Daireleri Kurulunun 12/3/2015 tarihli ve Esas:2013/4845, Karar:2015/773 sayılı Kararı ile söz konusu iptal kararına ilişkin karar düzeltme istemi reddedilmiştir.
+(2) Danıştay İdari Dava Daireleri Kurulunun 19/11/2012 tarihli ve Esas:2011/74, Karar:2012/2118 sayılı Kararı ile bu Yönetmeliğin 5 inci maddesinin (b) bendinin (8) numaralı alt bendini iptal eden Danıştay Sekizinci Dairesinin 1/6/2010 tarihli ve Esas:2008/7230, Karar:2010/3144 sayılı Kararı onanmıştır. Daha sonra İdari Dava Daireleri Kurulunun 17/6/2015 tarihli ve Esas:2013/3194, Karar:2015/2810 sayılı Kararı ile söz konusu iptal kararına ilişkin karar düzeltme istemi reddedilmiştir.
