@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "785",
+  "decision_date": "2021-01-21",
+  "source_id": 33471,
+  "chamber": "6",
+  "ilam_number": "59",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33471/",
+  "source_sha256": "6e93bf92e7538ffc5617e17c25977e5b596d13a2b6064a42480e92d12ed8f19e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
