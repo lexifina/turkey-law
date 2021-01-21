@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-12-14",
+      "14.12.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-01-21",
+      "RG-21/1/2021-31371",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-01-21",
+      "21/1/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/1/2021-31371",
+  "first_law": null,
+  "gazette": "31334",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2020/36066",
+  "published": "2020-12-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=36066&MevzuatTertip=5",
+  "source_bytes": 28143,
+  "source_id": "8.5.36066",
+  "source_sha256": "2d1821c2d57b3989db7638840a60c71ae531b290035ee6ccbd4c9bab8ad2a856",
+  "text_status": "current-consolidated",
+  "title": "KOCAELİ ÜNİVERSİTESİ ARİTMİ, ELEKTROFİZYOLOJİ VE KALP PİLİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 912
+}
