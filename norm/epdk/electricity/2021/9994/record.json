@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9994",
+  "decision_date": "2021-01-21",
+  "title": "Sakarya 2. OSB’nin 2021 yılı Revize Dağıtım Bedelleri",
+  "categories": [
+    "OSB ve EB Dağıtım Sisteminin Kullanımına İlişkin Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pPYUbE9zUH8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pPYUbE9zUH8="
+  ],
+  "source_sha256": "795a352bd4673df72d6f274745697ad82b6893f4a0decb210ae7de12bd098a25",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1516,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2021-01-21",
+  "law_text_complete": false
+}
