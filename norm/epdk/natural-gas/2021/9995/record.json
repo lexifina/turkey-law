@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "9995",
+  "decision_date": "2021-01-21",
+  "title": "2021 yılı ulusal doğal gaz tüketim tahminine ilşkin",
+  "resmi_gazete_date": "2021-01-23",
+  "resmi_gazete_number": "31373",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eEgU/24h2js=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=eEgU/24h2js="
+  ],
+  "source_sha256": "b4d2127bbba5ab3513158550ce31c2960edfc74e969eea9f7534c7451b080b3f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-01-21",
+  "law_text_complete": true
+}
