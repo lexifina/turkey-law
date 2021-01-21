@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10814",
+  "decision_date": "2021-01-21",
+  "source_id": 33128,
+  "chamber": "1",
+  "ilam_number": "427",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2013,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33128/",
+  "source_sha256": "574e90d0c5cc5eedf468e025a96eff4fda9378cbb668dd415dbdbb2e50221a7b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
