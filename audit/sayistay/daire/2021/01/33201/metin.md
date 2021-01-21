@@ -1,0 +1,13 @@
+… yükleniminde bulunan … ihale kayıt numaralı ve … TL bedelli Park ve Bahçeler Genel Temizlik ve Bakım Hizmeti Alım İşi kapsamında çalışırken alt işveren olan yüklenici tarafından sözleşmesi … tarihinde feshedilen …’e Belediye tarafından ödenen kıdem tazminatının alt işverene rücu edilmesi gerektiği iddia edilmektedir.
+
+22.02.2019 tarihli ve 30694 sayılı Resmi Gazete’de yayımlanan 7166 sayılı Sosyal Hizmetler Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun’un 11’inci maddesi ile, 4857 sayılı İş Kanunu’nun 112’nci maddesine, “4734 sayılı Kanunun 62 nci maddesinin birinci fıkrasının (e) bendi uyarınca alt işverenler tarafından çalıştırılan işçilere, 11/9/2014 tarihinden sonra imzalanan ihale sözleşmeleri kapsamında, kamu kurum ve kuruluşlarına ait işyerlerinde 11/9/2014 tarihinden sonra geçen süreye ilişkin olarak kamu kurum ve kuruluşları tarafından yapılan kıdem tazminatı ödemeleri için sözleşmesinde kıdem tazminatı ödemesinden ötürü alt işverene rücu edileceğine dair açık bir hükme yer verilmemişse alt işverenlere rücu edilmez.” fıkrası eklenmiştir. Bu fıkra hükmü ile, kamu kurum ve kuruluşları tarafından yapılan kıdem tazminatı ödemeleri için sözleşmesinde kıdem tazminatı ödemesinden ötürü alt işverene rücu edileceğine dair açık bir hükme yer verilmemişse alt işverenlere rücu edilme imkanı ortadan kaldırılmıştır.
+
+Ancak bu fıkra, Anayasa Mahkemesinin 15.10.2019 tarihli ve 30919 sayılı Resmi Gazete’de yayımlanan 19.09.2019 tarihli ve 2019/42 esas, 2019/73 karar sayılı kararı ile iptal edilmiştir. 2709 sayılı Türkiye Cumhuriyeti Anayasası’nın 153’üncü maddesi hükmüne göre, Anayasa Mahkemesinin iptal kararları geriye yürümez ve Resmi Gazete’de yayımlandığı tarihte, iptal edilen ilgili kanun hükmü yürürlükten kalkar. Buna göre, 4857 sayılı Kanun’a eklenen söz konusu fıkra hükmü 15.10.2019 tarihinde yürürlükten kalkmıştır.
+
+Söz konusu sözleşmenin feshedildiği … tarihinde anılan fıkra hükmü yürürlükte olduğundan, Belediyenin ödediği kıdem tazminatı için alt işverene rücu edilmemesinde mevzuata aykırı bir husus bulunmamaktadır.
+
+Kaldı ki 2016 yılında yürürlükte bulunan mevzuat hükümlerine uygun olarak kıdem tazminatları dikkate alınmadan verilen teklifler üzerinden yapılan ihale sonucunda düzenlenmiş sözleşme hükümleri gereğince çalışanların kıdem tazminatlarının idarece ödenmesi gerekmektedir.
+
+Bu itibarla, sorguda kamu zararı olduğu iddia edilen … TL için ilişilecek bir husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
