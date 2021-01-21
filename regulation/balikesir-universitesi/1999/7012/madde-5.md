@@ -1,0 +1,2 @@
+Yürürlükten Kaldırılan Yönetmelikler
+Madde 5- 16.04.1984 tarih ve 18374 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Uludağ Üniversitesi Necatibey Eğitim Fakültesi Döner Sermaye İşletmesi Yönetmeliği ve değişiklikleri ile 28.06.1984 tarih ve 18445 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Uludağ Üniversitesi Balıkesir Mühendislik Fakültesi ve bağlı Yüksekokulları Döner Sermaye İşletmesi Yönetmeliği ve değişiklikleri, bu yönetmeliğin yayımı tarihinden itibaren yürürlükten kaldırılmıştır.
