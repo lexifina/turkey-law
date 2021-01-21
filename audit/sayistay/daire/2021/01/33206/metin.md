@@ -1,0 +1,9 @@
+Personel çalıştırılmasına dayalı hizmet alım sözleşmeleri kapsamında yükleniciler tarafından çalıştırılmaktayken 375 sayılı Kanun Hükmünde Kararname’nin geçici 24’üncü maddesi kapsamında, Belediye şirketi olan …Hizmet Müşavirlik İnş. Tic. San. A.Ş.’nde işçi statüsüne geçirilenlere Belediye bütçesinden, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesi hükümleri yerine anılan Şirket ile Hizmet İş Sendikası arasında imzalanan ve …-… tarihlerini kapsayan toplu iş sözleşmesi hükümlerine göre ödeme yapıldığı iddia edilmektedir.
+
+375 sayılı Kanun Hükmünde Kararname’nin geçici 24’üncü maddesi kapsamında belediye şirketlerinde işçi statüsüne geçirilenlerin ücreti ile diğer mali ve sosyal hakları, yine anılan madde hükmü gereğince, geçişten önce alt işveren işçilerini kapsayan, Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesinin bitimine kadar bu toplu iş sözleşmesinin uygulanması suretiyle oluşan ücret ile diğer mali ve sosyal haklardan fazla olamaz.
+
+Gönderilen savunmalardan; anılan Şirket’te işçi statüsüne geçirilenlere Yüksek Hakem Kurulu tarafından karara bağlanan ve süresi en son sona erecek toplu iş sözleşmesi hükümleri esas alınarak ödeme yapıldığı; anılan Şirket ile Sendika arasında imzalanan ve …-… tarihlerini kapsayan toplu iş sözleşmesi hükümlerinin ise anılan Şirket’te işçi statüsüne geçirilenleri değil, Şirketin diğer işçilerini kapsadığı anlaşılmıştır. Şirketin diğer işçilerine Şirket ile Sendika arasında imzalanan toplu iş sözleşmesine göre ödeme yapılması da mevzuata aykırı değildir.
+
+Bu itibarla, kamu zararı olduğu iddia edilen … TL ile ilgili olarak ilişilecek husus bulunmadığına;
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
