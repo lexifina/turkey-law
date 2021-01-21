@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "784",
+  "decision_date": "2021-01-21",
+  "source_id": 33464,
+  "chamber": "6",
+  "ilam_number": "60",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33464/",
+  "source_sha256": "4acd6b40e05e7ea5b1d3953c886f7f86e6d00bf8b4a5dd04546e9ac2873d6939",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
