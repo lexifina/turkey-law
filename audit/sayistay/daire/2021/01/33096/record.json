@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10813",
+  "decision_date": "2021-01-21",
+  "source_id": 33096,
+  "chamber": "1",
+  "ilam_number": "38",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33096/",
+  "source_sha256": "b76490e441aa9970baa085588e9a161e20428f03649dbc0a3f0bcee2d081d06a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
