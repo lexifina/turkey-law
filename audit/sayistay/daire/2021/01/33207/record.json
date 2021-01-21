@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10812",
+  "decision_date": "2021-01-21",
+  "source_id": 33207,
+  "chamber": "1",
+  "ilam_number": "44",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33207/",
+  "source_sha256": "a0fa0dc6791b70659202fa53479637b992ecdd2bf089c44259d302b8085a7426",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
