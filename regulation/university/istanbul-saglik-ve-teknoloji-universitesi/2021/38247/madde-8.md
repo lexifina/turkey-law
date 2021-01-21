@@ -1,0 +1,2 @@
+Başhekim (Müdür)
+MADDE 8 – (1) Başhekim (Müdür); Üniversitenin öğretim üyeleri arasından, Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Görev süresi biten Başhekim (Müdür) yeniden görevlendirilebilir. Başhekim (Müdür) sağlıkla ilgili bağlı birimlerin de yöneticisidir. Başhekim (Müdür), gerektiğinde Rektörün teklifi ve Mütevelli Heyetinin onayı ile iki yıllık süre dolmadan da görevinden alınabilir. Başhekim (Müdür)’in önerisi ve Mütevelli Heyetinin onayı ile Başhekim (Müdür) yardımcıları görevlendirilebilir.

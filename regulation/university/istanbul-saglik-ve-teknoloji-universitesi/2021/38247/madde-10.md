@@ -1,0 +1,2 @@
+Başhekim (Müdür) Yardımcısı
+MADDE 10 – (1) Başhekim (Müdür) Yardımcısı; en az lisans düzeyinde eğitim almış kişiler arasından, Başhekim (Müdür)’in önerisi ve Rektörün teklifi üzerine Mütevelli Heyetinin onayı ile iki yıl için görevlendirilir. Başhekim (Müdür)’in görevi sona erdiğinde Başhekim (Müdür) Yardımcısının da görevi kendiliğinden sona erer. Görev süresi biten Başhekim (Müdür) Yardımcısı yeniden görevlendirilebilir. Gerektiğinde Rektörün teklifi Mütevelli Heyetinin onayı ile Başhekim (Müdür) Yardımcısı iki yıllık süre dolmadan da görevinden alınabilir.
