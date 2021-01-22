@@ -1,0 +1,15 @@
+Adaylarda aranacak nitelikler
+MADDE 7 – (1) Hukuk branşına kabul olunabilmek için aşağıdaki nitelikler aranır:
+a) Hukuk fakültelerinden veya denkliği Yükseköğretim Kurulu tarafından onaylanmış yurt dışındaki bir hukuk fakültesinden mezun olmak.
+b) Sağlık Yeteneği Yönetmeliğinde Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı general/amiral, subay ve astsubayların hastalıklarına göre görevlendirilecekleri branşları gösteren (2) numaralı branş belirleme çizelgesinde hukuk branşından subaylar için belirlenen sağlık şartlarına uygun sağlık raporu almak.
+c) Dış kaynaktan temin edilecek ve/veya diğer yükseköğretim kurumlarında Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına yetiştirilecek subay adayları ve öğrenciler için Temin Yönetmeliklerinde subay adayları ve öğrencilere yönelik belirlenen nitelikleri haiz olmak.
+ç) İç kaynaktan seçilecek subaylar için en az üsteğmen, en çok binbaşı rütbesinde olmak, başvuru tarihi itibarıyla sicil notlarının ortalaması, sicil tam notunun %93’ü veya üzeri olmak, ilgili mevzuatla düzenlenmiş herhangi bir alt branş ve/veya ihtisasa başvurmak suretiyle seçilmiş olmamak.
+d) Terör örgütlerine veya Millî Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, iltisakı veya irtibatı olmamak.
+e) Ertelenmiş, seçenek yaptırımlara çevrilmiş, hükmün açıklanmasının geri bırakılmasına karar verilmiş, affa uğramış veya 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile; 2803 sayılı Kanunun 15 inci maddesinin ikinci fıkrasında belirtilen suçlar ile 5237 sayılı Kanunda belirtilen; cinsel dokunulmazlığa karşı suçlar, genel ahlaka karşı suçlar, Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar ve kamunun sağlığına karşı suçlardan mahkum olmamak.
+f) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat, isyan suçları ile 22/5/1930 tarihli ve 1632 sayılı Askeri Ceza Kanununun 148 inci maddesinde belirtilen suçlardan mahkum olmamak.
+g) Taksirli suçlar hariç olmak üzere, bu fıkrada belirtilen suçların dışındaki suçlardan, toplam olarak 21 gün ve daha fazla hapis, oda hapsi veya hizmet yerini terk etmeme cezası ile mahkum veya cezalandırılmamış olmak.
+ğ) Başvuru tarihinde, hakkında meslekten veya memuriyetten çıkarma cezası gerektiren disiplinsizliklerden dolayı adli ve/veya idari soruşturma yapılmıyor olmak.
+h) 7068 sayılı Kanun kapsamında, başvuru tarihinden itibaren geriye doğru son bir yıl içerisinde toplamda beş veya üzeri ya da son üç yıl içerisinde toplamda on iki veya üzeri ceza puanı almamış olmak.
+ı) Başvuru tarihinde, herhangi bir sebeple görevden uzaklaştırılmış olmamak veya tutuklu bulunmamak.
+i) İlgili mevzuat doğrultusunda belirlenen sınavlardan gerekli taban puanlara sahip olmak ve yapılacak değerlendirmeler neticesinde başarılı olarak PTYP ile belirlenmiş kontenjana girmek.
+j) Meslek öncesi eğitimi sonunda başarılı olmak.

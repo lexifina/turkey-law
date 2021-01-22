@@ -1,0 +1,6 @@
+Meslek öncesi eğitimin esasları
+MADDE 11 – (1) Meslek öncesi eğitimin kesintisiz yapılması esas olup adaylar, eğitim süresince yıllık mazeret ve mazeret izni hariç izin kullanamazlar.
+(2) 9 uncu maddenin sekizinci fıkrasında sayılan haller ile savaş, olağanüstü hal ve sıhhi nedenler hariç, meslek öncesi eğitimin üçte ikisine katılamayanlar veya katılmayanlar başarısız kabul edilir. Sayılan gerekçelerle bu eğitime katılamayan adayların eğitime devam etme durumları Personel Başkanlığınca değerlendirilir.
+(3) Başarılı olan iç kaynaktan subaylar, ilgili mevzuat doğrultusunda branş değişikliği işlemine tabi tutularak diğer kaynaklardan başarılı adaylarla birlikte, ilgisine göre Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığının hukuk branşı kadrolarına atanırlar.
+(4) Başarılı olan sözleşmeli subaylara, 4678 sayılı Kanun hükümleri saklı kalmak şartıyla muvazzaflığa geçiş sınavlarındaki yazılı ve mülakat baraj puanları, emsalleri olan sözleşmeli subaylar için belirlenmiş baraj puanının %20 altı olarak uygulanır ve branşları için sınavda barajı geçen aday sayısı kadar kontenjan tahsis edilir.
+(5) Başarı gösteremeyenlerden; iç kaynaktan alınanlar, Sağlık Yeteneği Yönetmeliği hükümleri saklı kalmak şartıyla eski branşlarında kalır, dış kaynaktan alınanlar ise ilgili mevzuat doğrultusunda branş değişikliği işlemine tabi tutulur.
