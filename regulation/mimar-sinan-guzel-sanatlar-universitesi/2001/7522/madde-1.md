@@ -1,0 +1,4 @@
+MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ (1)
+Kapsam ve Dayanak
+Madde 1 — (Değişik:RG-23/1/2021-31373)
+Bu Yönetmelik; Mimar Sinan Güzel Sanatlar Üniversitesinin tüm eğitim-öğretim, araştırma ve uygulama birimlerinin faaliyetlerini kapsamak üzere, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 58 inci maddeleri ile 18/6/2020 tarihli ve 31159 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Döner Sermaye İşletmelerinin Kurulmasına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.
