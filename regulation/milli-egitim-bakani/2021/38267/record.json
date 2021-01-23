@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38267",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ YÖNETMELİĞİ",
+  "number": "38267",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2021/38267",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38267&MevzuatTertip=5",
+  "source_sha256": "36ab9ae3c6b8d069a3578fd55c94c89abd93de1f29f6804a924ac2a118b2580f",
+  "source_bytes": 68075,
+  "published": "2021-01-23",
+  "gazette": "31373",
+  "in_force": "2021-01-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.01.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3942,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

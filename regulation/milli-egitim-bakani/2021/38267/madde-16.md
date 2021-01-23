@@ -1,0 +1,2 @@
+Taşınır işlemleri
+MADDE 16 – (1) Taşınırların kayıtlara alınmasında, verilmesinde ve izlenmesinde; 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği hükümleri uygulanır. Bu işlemler, işletme ve hizmet birimlerinde, ayrı ayrı ilgili birim yetkilisince görevlendirilen taşınır kayıt yetkilisi ve taşınır kontrol yetkilisi görevlilerince yürütülür.
