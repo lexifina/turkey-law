@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür, tercihen aşı araştırma ve geliştirme konusunda en az iki yıl çalışmış olan Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Süresi biten Müdür tekrar görevlendirilebileceği gibi, görev süresi dolmadan aynı usul ile görevden alınabilir. Müdür görevi başında bulunmadığı zaman müdür yardımcılarından birini vekil bırakır. Müdür yardımcısı da bulunmazsa, Yönetim Kurulu üyelerinden biri vekil olarak bırakılır. Vekâlet süresinin altı ayı aşması durumunda yerine yeni Müdür atanır.

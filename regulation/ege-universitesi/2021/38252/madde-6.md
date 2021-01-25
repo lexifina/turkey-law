@@ -1,0 +1,28 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Uygulamaya yönelik olarak çok disiplinli bir anlayışla lisansüstü eğitim/öğretim programları açmak.
+b) Ülke düzeyinde ileri düzeyde araştırma yapma imkânının yaratılması, araştırmacı insan kaynağının nicelik ve nitelik yönünden geliştirilmesi ve araştırma kurumları ile sanayi işbirliğine katkı sağlanması amacıyla sanayi doktora programı ve ulusal/uluslararası doktora sonrası araştırma programlarının açılmasını sağlamak.
+c) İlgili Bakanlıklarca hazırlanacak yasal düzenleme çalışmalarına katkı sağlamak.
+ç) Akademi, özel sektör, kamu kurum ve kuruluşlarının katılımıyla, araştırma, uygulama, planlama, strateji ve politika geliştirme konusunda çalışmalar yapmak.
+d) Aşı bilimi alanında AR-GE yapmak, çalışmaları koordine etmek, izlemek, bu amaçla program ve projeler geliştirmek.
+e) Kamu kurum ve kuruluşları, özel hukuk tüzel kişileri ve gerçek kişilerle birlikte aşı bilimi alanında ortak AR-GE yapılmasını veya yaptırılmasını sağlamak, bunları desteklemek, teşvik etmek, iş birliği yaparak ortak projeler geliştirmek ve yürütmek.
+f) Kamu kaynağı kullanılan projeler ile kamu kurum ve kuruluşlarının finanse ettiği projelere başvurmak.
+g) Yapılacak araştırmalarda, ulusal ve uluslararası kurum ve kuruluşlarla işbirliği yapmak.
+ğ) Yurt dışındaki ve yurt içindeki kurum ve kuruluşlarla AR-GE konularında işbirliği yaparak yürütülen proje çalışmalarını Merkez bünyesinde toplayacak bir çalışma ortamı hazırlamak.
+h) Üniversite sanayi iş birliğini güçlendirmek ve bu kapsamda sektörün AR-GE ve yenilik kapasitesini geliştirmeye yönelik çalışmalar yürütmek ve uygulanabilir sonuçların sanayiye aktarımını yapmak.
+ı) Sektörde gereksinim duyulan ara eleman ve sistem odaklı sertifikalı uzmanların eğitimini sağlamak amacıyla mesleki eğitim ve kalifiye personel yetiştirilmesine yönelik faaliyetlerde bulunmak.
+i) Gerçekleştirilen bilimsel araştırmalardan elde edilen bilgi ve deneyim birikiminin, topluma yönelik yüksek katma değerli ürün ve hizmetlere dönüştürülmesi konusunda öncü rol oynamak.
+j) Aşı bilimi alanındaki gelişme, buluş ve yeniliklerin ülkemiz hizmetlerinde kullanımına ve yaygınlaştırılmasına, toplum ve bireyin bilgi ve teknolojiye ulaşım düzeyinin yükseltilmesine dönük AR-GE yapmak ve/veya yaptırmak.
+k) AR-GE sonucu geliştirilen ve/veya üretilen teknik ve yöntemlerin üretim, tanıtım ve kullanılmasını, bunlardan yararlanılmasını sağlamak, bu maksatla ilgili sektörlerle iş birliği ve ortaklıklar yapmak; elde edilen çıktıların ticari değere dönüştürülmesini ve bu alanlardaki girişimciliği desteklemek.
+l) Ülkemizin aşı geliştirme alanında öncelikli politikalarının belirlenmesinde çalışmalar yapmak, ilgili Bakanlık ve bağlı kuruluşlarınca talep edilecek saha araştırmaları, AR-GE, yayın ve danışmanlık hizmetlerini yerine getirmek.
+m) Aşı geliştirme alanına giren hususlarda ilgili Bakanlıklar ve bağlı kuruluşları tarafından talep edilen işleri Yönetim Kurulu kararı ile yapmak veya yaptırmak.
+n) İlgili Bakanlığa bağlı kuruluşlar, yükseköğretim kurumları ve özel sektör ile iş birliği içerisinde aşı geliştirme alanında faaliyet gösteren merkezlerin kalite ve akreditasyon kurallarının belirlenmesinde, Akreditasyon Enstitüsüne bilimsel katkı sağlamak ve adı geçen Enstitü ile iş birliği yapmak.
+o) Aşı geliştirme alanında AR-GE’nin özendirilmesi, bu alandaki yeni gelişme ve teknolojilerin izlenmesi ve bu gelişmelerin uygulamaya aktarılması amacıyla ulusal/uluslararası seminer, kurs, konferans, sempozyum, çalıştay, kolokyum, kongre ve benzeri etkinlikler ile ilgili mevzuat hükümleri çerçevesinde sertifika verilmesi öngörülen eğitim-öğretim programlarını düzenlemek ve uygulamak.
+ö) Görev alanına giren faaliyetlerle ilgili danışmanlık hizmeti vermek ve görüş bildirmek üzere bilim kurulları, ulusal ve uluslararası danışma kurulları ve komisyonlar oluşturmak.
+p) Yönetim Kurulunca belirlenecek usul ve esaslar çerçevesinde fikri mülkiyet haklarını koruyacak ve geliştirecek şekilde aşı geliştirme alanındaki ulusal ve uluslararası literatür ve patentleri takip etmek, yeni patent başvuru alanlarını keşfetmek ve gerçekleştirmek, araştırmacılar adına bu süreçleri gerektiğinde karşılıksız olarak yürütmek veya desteklemek, fikri haklar, lisans ve bilgi aktarımı amacıyla girişimlerde bulunmak.
+r) Yönetim Kurulunca belirlenecek usul ve esaslar çerçevesinde fikri mülkiyet ve lisans haklarının satın alınması, satılması ve bu konuda ortaklık yapılmasının sağlanması konusunda Rektöre teklifte bulunmak.
+s) Uluslararası kurum ve kuruluşların aşı geliştirme alanındaki gelişmelerle ilgili yayınlarını takip etmek, gerekli görülenleri tercüme ettirerek yayımlamak, görev ve faaliyet alanı ile ilgili yayınlar yapmak.
+ş) Aşı geliştirme alanında bilim ve teknolojinin geliştirilmesi amacıyla teknopark, kuluçka merkezinde aşı ile ilişkili şirket kurulmasına yönelik girişimleri teşvik etmek.
+t) Yurt içi ve yurt dışı iş birliği ağları ve kümelenme faaliyetlerini desteklemek, yurt içi ve yurt dışı toplantı, proje pazarı, bilim fuarı, yarışma ve benzeri etkinlikleri düzenlemek ve desteklemek, araştırmacı eğitimi veren kurum ve programları desteklemek.
+u) Görev ve yetkileri kapsamında yurt içinde veya yurt dışında, kamu ve özel hukuk tüzel kişilerine ait aşı geliştirme konularıyla ilgili kurum/kuruluşlar ve laboratuvarları, insan kaynağı, fiziki mekân ve altyapı, donanım, finansman dâhil her türlü kaynağı iş birliği ve/veya birlikte kullanım protokolü çerçevesinde kullanmak veya kendisine ait kaynakları kullandırmak.
+ü) Uygulama ve araştırma alanıyla ilgili birimler ile iş birliği yapmak.
