@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/ankara-sosyal-bilimler-universitesi/2014/20134",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-25/1/2021",
+  "first_law": null,
+  "gazette": "29144",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-25",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Ankara Sosyal Bilimler Üniversitesi",
+  "issuer_slug": "ankara-sosyal-bilimler-universitesi",
+  "kind": "regulation",
+  "published": "2014-10-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=20134&MevzuatTertip=5",
+  "source_id": "8.5.20134",
+  "source_sha256": "9a6055ae7b50f9ea5aaf5ec1473c2697c6ff200ed9deefb43697f1026a4b7c32",
+  "title": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 432,
+  "version_label": "oldest version available",
+  "word_count": 580
+}
