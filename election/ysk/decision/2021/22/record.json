@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2021/22",
+  "list_number": "22",
+  "decision_date": "2021-01-26",
+  "title": "298 sayılı Kanunun 14. maddesinin 11. bendi ve 2820 sayılı Kanunun 36. maddesindeki koşullara uygun olarak 01/01/2021 tarihinden altı (6) ay öncesi olan 01/07/2020 tarihi itibariyle illerin en az yarısında teşkilatını kurmuş ve büyük kongrelerini yapmış olan ve 298 sayılı Kanunun 47. maddesine göre seçmen kütüklerinin verileceği siyasi partilerin tespiti ve ilgili siyasi partilere seçmen kütüğünün verilmesinde uygulanacak ana kuralların belirlenmesine ilişkin Yüksek Seçim Kurulunun 26/01/2021 tarihli ve 2021/22 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/78355/2021-22.pdf",
+  "source_sha256": "44e520c7f73774f696af479269ece1560932fd2a03971185649794f285a9d10d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2021-01-26",
+  "law_text_complete": false
+}
