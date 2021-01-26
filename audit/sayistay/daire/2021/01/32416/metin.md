@@ -1,0 +1,75 @@
+Taşıt Kiralama Bedeli
+
+…......... tarihli ve …......... sayılı ilamın …......... inci maddesiyle hüküm dışı bırakılan konunun 6085 sayılı Sayıştay Kanununun 50 nci maddesinin üçüncü fıkrası hükmü gereğince görüşülmesinin devamına karar verildi.
+
+Anılan ilam maddesinde;
+
+Doğrudan temin yöntemiyle alınan taşıt kiralama hizmeti için mevzuatın öngördüğü aylık azami sınırın üzerinde kira bedeli ödenmesi sonucu sebebiyet verildiği iddia edilen …......... TL tutarındaki kamu zararından kaynaklı mali sorumluluğun eksik tespit edildiği, şöyle ki; sorgunun ilişikli ödeme emri belgelerinde imzası bulunan Harcama Yetkilileri ve Gerçekleştirme Görevlisi ile Piyasa Fiyat Araştırması Tutanağını imzalayan kamu görevlileri nezdinde düzenlendiği, ancak, mevzuatın öngördüğü azami sınırın üzerinde bir bedelle yapılacak taşıt kiralamasını; ekinde Piyasa Fiyat Araştırması Tutanağı bulunan ve söz konusu Tutanaktaki üç teklif fiyatın ortalaması üzerinden yaklaşık maliyeti belirleyen İhale Onay Belgesini imzalamak suretiyle uygun bulan ve aynı zamanda bahse konu taşıt kiralamasına ilişkin Sözleşmeyi imzalayan (….........) …......... (sadece Harcama Yetkilisi olarak imzaladığı ödeme emri belgelerindeki tutarlar için sorumlu tutulmuştur.) ile aynı İhale Onay Belgesini “Olur Veren” sıfatıyla imzalayan (….........) ….........’in, 2018 yılındaki tüm ödemeler için yani her bir ödeme emri bazında sorumluluğa dahil edilmediği, ayrıca, İhale Onay Belgesinde imzası bulunan (….........) ….........’in, Piyasa Fiyat Araştırması Tutanağındaki imzası nedeniyle ve tüm ödemeler için sorumluluğa dahil edilmesine rağmen, söz konusu İhale Onay Belgesindeki imzası hasebiyle sorumlu tutulmadığı ve bu gerekçeye dayanılarak savunmasının alınmadığı belirtilmiş,
+
+Bu bağlamda da, bahse konu sorumluluk eksikliğinin giderilmesi suretiyle yeni bir sorgu yapılmasına ve savunmaların alınmasını müteakiben düzenlenecek ek raporun yargılanmasına değin konunun hüküm dışı bırakılmasına karar verilmiştir.
+
+Bunun üzerine, Denetçi tarafından yapılan ek sorgu ile sorumluların savunmaları alınarak ilama esas ek rapor düzenlenmiş olup, söz konusu ek rapor ile eki bilgi ve belgeler de Daire tarafından ilgili mevzuat çerçevesinde değerlendirilmiştir.
+
+17.03.2006 tarihli ve 2006/10193 sayılı Bakanlar Kurulu Kararına ekli “Hizmet Alımı Suretiyle Taşıt Edinilmesine İlişkin Esas ve Usuller”in;
+
+“Kapsam” başlıklı 2 nci maddesinde; “Bu Esas ve Usuller, 237 sayılı Kanuna tabi olan kurumları ve taşıtları kapsar.”
+
+“Genel Esaslar” başlıklı 6 ncı maddesinin ikinci ve üçüncü fıkralarında da;
+
+“(2) Genel yönetim kapsamındaki kamu idareleri ile bu idarelere bağlı döner sermayelerin (Cumhurbaşkanlığı Genel Sekreterliği ile TBMM Genel Sekreterliği hariç) hizmetleri için ihtiyaç duyulan binek, station-wagon, arazi binek, kaptı kaçtı, panel ve pick-up tipi taşıtların hizmet alımı yöntemiyle ediniminde;
+
+ a) Şoför giderleri hariç yapılan taşıt kiralamalarında aylık kiralama bedeli (katma değer vergisi hariç, her türlü bakım-onarım, sigorta ve benzeri giderler dahil), taşıtın Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan ve harcama talimatının verildiği yılın ocak ayı itibarıyla uygulanacak Motorlu Kara Taşıtları Kasko Değer Listesinde yer alan kasko sigortası değerinin %2’sini aşmayacaktır.
+
+b) Şoför giderleri dahil yapılan taşıt kiralamalarında aylık kiralama bedeli, (a) bendine göre tespit edilecek tutara yürürlükteki brüt asgari ücretin yüzde elli artırımlı tutarının ilave edilmesi suretiyle hesaplanacak tutarı aşmayacaktır.
+
+(3) İkinci fıkranın (a) bendinde belirlenen oranı, idareler ve taşıt cinsleri itibarıyla %20’ye kadar arttırmaya ve eksiltmeye Maliye Bakanlığı yetkilidir.”
+
+hükümlerine yer verilmiştir.
+
+Ayrıca, anılan Esas ve Usullerin yukarıda bahsedilen kapsam maddesinde atıf yapılan 05.01.1961 tarihli ve 237 sayılı Taşıt Kanununun 1 inci maddesinde;
+
+“a) Genel bütçeye dahil dairelerle katma ve özel bütçeli idareler ve bunlara bağlı sabit ve döner sermayeli müesseseler, il özel idareleri, belediyeler ve bunların bağlı kuruluşları ile mahalli idare birlikleri,
+
+….. tarafından kullanılacak taşıtlar bu Kanun hükümlerine tabidir.”
+
+denilmiş olup, 10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 3 üncü maddesinde de; genel yönetim kapsamındaki kamu idarelerinin; uluslararası sınıflandırmalara göre belirlenmiş olan, merkezi yönetim kapsamındaki kamu idareleri, sosyal güvenlik kurumları ve mahalli idareleri ifade ettiği hükme bağlanmıştır.
+
+Dolayısıyla, genel yönetim kapsamındaki kamu idarelerinden olup 237 sayılı Kanuna tabi bulunan …......... Belediyesinin yapacağı taşıt kiralamalarını, anılan Esas ve Usuller çerçevesinde gerçekleştirmesi ve bu bağlamda da; rapora konu edilen …......... marka ve modelli, …......... şase nolu taşıtın (şoförsüz ve akaryakıt giderleri İdareye ait olacak şekilde) kiralanması karşılığında ödenebilecek aylık kira bedelinin, katma değer vergisi hariç, Türkiye Sigorta, Reasürans ve Emeklilik Şirketleri Birliği tarafından yayımlanan ve harcama talimatının verildiği 2018 yılının Ocak ayı itibarıyla uygulanacak Motorlu Kara Taşıtları Kasko Değer Listesinde yer alan kasko sigortası değerinin %2’sini (…......... x 0,02 = …......... TL’yi) aşmaması gerekmektedir.
+
+Ancak, söz konusu taşıt kiralamasına ait hakediş bedellerini içeren ilişikli ödeme emri belgelerine bakıldığında; yıllık toplam …......... TL (KDV hariç) bedelle kiralanan taşıt için …......... TL (KDV hariç) tutarında aylık kira bedeli ödendiği ve böylelikle mevzuatın öngördüğü azami sınırın aylık bazda …......... TL (KDV dahil …......... TL), 2018 yılı itibarıyla ödeme yapılan on bir ay için de toplam …......... TL (…......... x 11) aşılarak, 5018 sayılı Kanunun 71 inci maddesinde; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanan kamu zararına sebebiyet verildiği görülmüştür. Zira, aynı maddenin ikinci fıkrasının (d) bendinde de; “İş, mal veya hizmetin rayiç bedelinden daha yüksek fiyatla alınması veya yaptırılması” kamu zararına sebebiyet veren haller arasında sayılmıştır.
+
+Sorumlular tarafından her ne kadar söz konusu taşıt kiralamasının, aciliyet nedeniyle 04.01.2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22 nci maddesinde düzenlenen doğrudan temin yöntemiyle gerçekleştirildiği ve bu yöntemin ihale usulü olmaması nedeniyle anılan Esas ve Usuller kapsamında değerlendirilmediği belirtilmişse de, Esas ve Usullerin 6 ncı maddesinin ikinci fıkrasında; taşıt kiralama usulüyle ilgili bir ayrıma gidilmemiş “yapılan taşıt kiralamalarında” ifadesi kullanılarak tüm kiralamalar kapsama dahil edilmiş olup yine Esas ve Usullerin başka bir maddesinde de istisnai bir hükme yer verilmemiştir.
+
+4734 sayılı Kanunun 22 nci maddesinin son fıkrasında; “Bu maddeye göre yapılacak alımlarda, ihale komisyonu kurma ve Kanunun 10 uncu maddesinde sayılan yeterlik kurallarını arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak ihtiyaçlar temin edilir.” denilmiş, 15.08.2007 tarihli ve 26614 sayılı Resmi Gazete’de yayımlanan Mahalli İdareler Harcama Belgeleri Yönetmeliğinin 3 üncü maddesinin son bendinde de; piyasa fiyat araştırması tutanağı; doğrudan temin usulüyle ihale komisyonu kurulmadan yapılacak alımlarda; alımı yapmakla görevlendirilen kişi veya kişilerce yapılan piyasa fiyat araştırması sonucunda alınan teklifleri, uygun görülen fiyat ile yükleniciyi gösteren ve söz konusu kişi veya kişilerce imzalanan tutanak şeklinde tanımlanmıştır. Dolayısıyla, doğrudan temin suretiyle gerçekleştirilen alımlardaki süreç; ihtiyacın tespit edilerek ihale yetkilisince alıma karar verilmesi, bu ihtiyaç için fiyat araştırması yapmak üzere bir veya birden fazla kişinin ihale yetkilisi tarafından görevlendirilmesi, bu kişi veya kişilerin piyasadan alınan mevcut teklifleri gösteren ve bu teklifler arasından en uygun fiyatlısını belirten piyasa fiyat araştırması tutanağını düzenlemesi ve en nihayetinde söz konusu tutanak ile tespit edilen fiyatın ihale yetkilisince onaylanması şeklinde işlemektedir. Bu durumda da; düzenlenen piyasa fiyat araştırması tutanağının değil bu fiyata verilen olurun (rapora konu kiralama işi için; piyasa fiyat araştırması tutanağında yer verilen üç teklif fiyatın ortalaması üzerinden yaklaşık maliyeti belirleyen ihale onay belgesinin) harcama talimatı kabul edilmesi gerekmektedir. Zira tutanakta tespit edilen fiyatın, mevzuatın öngördüğü azami fiyatın üzerinde olması halinde bu fiyattan yapılacak alıma ihale yetkilisince onay verilmeyerek teklif sürecinin tekrar işletilmesi veya ihtiyacın 4734 sayılı Kanunda öngörülen ihale usulleri ile temin edilmesi yoluna gidilmesi icap etmektedir.
+
+5018 sayılı Kanunun “Hesap verme sorumluluğu” başlıklı 8 inci maddesinde yer alan; “Her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanlar, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumludur ve yetkili kılınmış mercilere hesap vermek zorundadır.” hükmünden de görüleceği üzere kamu kaynağından dolayı hesap verecek kişilerde unvan ayrımına gidilmemiş, genel olarak kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, söz konusu yetkinin karşılığı sorumluluğu taşıyacağı öngörülerek idare hukukunda geçerli olan yetki-sorumluluk dengesi prensibine uygun bir düzenleme getirilmiştir.
+
+Dolayısıyla, mevzuata aykırı bir ödemeden dolayı sorumluluğun belirlenmesinde her bir olayın münferiden değerlendirmeye tabi tutulması ve harcama süreci dikkate alınarak ödeme emri üzerinde imzası bulunan harcama yetkilisi ve gerçekleştirme görevlisi ile birlikte genel olarak harcama yapılmasına ilişkin bağlayıcı bir karar alan, talimat veren veya düzenleme yapan kişilere de yetki-sorumluluk dengesi prensibine uygun olarak sorumluluk yüklenmesi gerekmektedir.
+
+Rapora konu kamu zararından kaynaklı mali sorumluluğun yukarıda yer verilen mevzuat hükümleri ve açıklamalar çerçevesinde değerlendirilmesi sonucunda da;
+
+- Harcama Yetkilileri ve Gerçekleştirme Görevlisinin sadece imzaladıkları ilişikli ödeme emri belgelerine isabet eden kamu zararı tutarından,
+
+- Bahse konu taşıt kiralamasına ilişkin “harcama talimatı” niteliğinde kabul edilebilecek olan İhale Onay Belgesini ve Sözleşmeyi imzalayan kamu görevlilerinin ise, 2018 yılındaki kamu zararının tamamından,
+
+5018 sayılı Kanunun 71 inci maddesindeki kamu zararı tanımında öngörülen “illiyet bağı” şartının mevcudiyeti nedeniyle sorumlu olduğu,
+
+- Diğer taraftan, Piyasa Fiyat Araştırması Tutanağını imzalayan ve görevleri sadece fiyat araştırması yaparak mevcut teklifler arasından en uygun fiyatı tespit etmek olan personelin ((….........) …......... ile (….........) ….........’un) ise; gerek düzenledikleri Tutanağa esas tekliflerde hata veya yanıltıcı bir durumun tespit edilmemiş olması gerekse hangi fiyattan kiralama yapılacağına dair karar verme yetkilerinin bulunmaması nedeniyle sorumlu tutulamayacağı,
+
+anlaşılmıştır.
+
+Bu itibarla, …......... tarihli ve …......... sayılı ilamın …......... inci maddesi ile verilen hüküm dışı kararının kaldırılmasına ve …......... TL tutarındaki kamu zararının;
+
+…......... TL’sinin gerek Harcama Yetkilisi sıfatıyla gerekse İhale Onay Belgesi ve Sözleşmedeki imzası nedeniyle sorumlu olan (….........) …......... , Gerçekleştirme Görevlisi (….........) …......... ile İhale Onay Belgesini imzalayan Diğer Sorumlular (….........) …......... ve (….........) ….........’e,
+
+…......... TL’sinin Harcama Yetkilisi (….........) …......... , Gerçekleştirme Görevlisi …......... , İhale Onay Belgesi ve Sözleşmedeki imzası nedeniyle sorumlu olan …......... ile İhale Onay Belgesini imzalayan Diğer Sorumlular …......... ve ….........’e,
+
+müştereken ve müteselsilen, 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faiziyle birlikte ödettirilmesine, anılan Kanunun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Azınlık Görüşü:
+
+Daire Başkanı …......... ile Üye ….........’nin karşı oy gerekçesi;
+
+“4734 sayılı Kamu İhale Kanununun 22 nci maddesinin son fıkrasında yer alan; “Bu maddeye göre yapılacak alımlarda, ihale komisyonu kurma ve Kanunun 10 uncu maddesinde sayılan yeterlik kurallarını arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak ihtiyaçlar temin edilir.” hükmünden de anlaşılacağı üzere, doğrudan temin bir ihale usulü olmayıp, bu yöntemle yapılacak alımlar için, öncelikle ihtiyacın tespiti ve alıma karar verilmesi, ardından piyasa fiyat araştırması yaparak alımı gerçekleştirmek üzere bir veya birden fazla kişinin ihale yetkilisince yazılı şekilde görevlendirilmesi ve bu kişi veya kişilerce de alınan teklifler arasından en uygununun tespit edilerek bu fiyattan alım yapılmasına karar verilmesi gerekmektedir. Dolayısıyla, ihale yetkilisi tarafından görevlendirilmiş kişilerce düzenlenen piyasa fiyat araştırması tutanağı, ihale suretiyle gerçekleştirilen alımlardaki ihale onay belgesinin yerine geçmekte ve harcama talimatı da bu tutanak olmaktadır. Zira, Mahalli İdareler Harcama Belgeleri Yönetmeliğine ekli Piyasa Fiyat Araştırması Tutanak Örneğinde de; “4734 sayılı Kamu İhale Kanununun 22 nci Maddesi uyarınca doğrudan temin usulüyle yapılacak alımlara ilişkin yapılan piyasa araştırmasında firmalarca/kişilerce teklif edilen fiyatlar tarafımca / tarafımızca değerlendirilerek yukarıda adı ve adresleri belirtilen kişi / firma / firmalardan alım yapılması uygun görülmüştür.” ifadesine yer verilmek suretiyle söz konusu Tutanağın sadece fiyat tespitini değil aynı zamanda yapılan değerlendirme ve alınan kararı ihtiva ettiği hususu vurgulanmıştır.
+
+Bu itibarla, rapora konu kamu zararı için hakkında tazmin hükmü verilen kamu görevlileri (Harcama Yetkilileri, Gerçekleştirme Görevlisi ve İhale Onay Belgesini imzalayanlar) ile birlikte Piyasa Fiyat Araştırması Tutanağında imzası bulunan (….........) …......... ile (….........) ….........’un da sorumlu tutulması gerekmektedir.”
