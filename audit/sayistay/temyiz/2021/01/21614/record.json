@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48753",
+  "decision_date": "2021-01-27",
+  "source_id": 21614,
+  "chamber": "8",
+  "file_number": "46944",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21614/",
+  "source_sha256": "af8de2d3eb32c9c0289fc4d4ef859343c1ea4fcfbfbd22627af698f5a90f1536",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
