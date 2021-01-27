@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48749",
+  "decision_date": "2021-01-27",
+  "source_id": 21607,
+  "chamber": "8",
+  "file_number": "46942",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21607/",
+  "source_sha256": "698e1d983ba444285701f85fa7aedb8d82835d45b97b8348b1aaa4763caf29fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
