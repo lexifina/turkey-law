@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48747",
+  "decision_date": "2021-01-27",
+  "source_id": 21579,
+  "chamber": "7",
+  "file_number": "45422",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21579/",
+  "source_sha256": "9bde693a7b9bbb79e4b3f190f1ab8f5a4147394cc710027cc2c05f78e75f9ec0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
