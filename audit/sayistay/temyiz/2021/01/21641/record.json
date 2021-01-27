@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48781",
+  "decision_date": "2021-01-27",
+  "source_id": 21641,
+  "chamber": "8",
+  "file_number": "46709",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21641/",
+  "source_sha256": "464777f22ce9ee48a38de2dc7c806d84f46735b959017014c38d9746fe1ab1e0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
