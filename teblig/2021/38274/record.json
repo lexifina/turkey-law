@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38274",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/3)",
+  "number": "38274",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38274",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38274&MevzuatTertip=5",
+  "source_sha256": "cb8e4aae32254f8cb2f4dd9ce02a9c721a94182e35cb5f5d74b899b911758153",
+  "source_bytes": 44170,
+  "published": "2021-01-28",
+  "gazette": "31378",
+  "in_force": "2021-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 574,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38274-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
