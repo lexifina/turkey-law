@@ -1,0 +1,114 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7263",
+  "year": 2021,
+  "title": "Teknoloji Geliştirme Bölgeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2021-01-28",
+  "adopted_as_published": "28/01/2020",
+  "date_basis": "adopted-repaired",
+  "official_gazette_as_published": "03.02.2021 No: 31384",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507263.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 105",
+  "committee_reports": [
+    {
+      "label": "TBMM 229 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060041ss0229.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 896329,
+      "title": "Teknoloji Geliştirme Bölgeleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": "28/01/2020",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507263.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 229 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060041ss0229.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 48,
+          "sitting": 1,
+          "sitting_date": "2020-10-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c048/tbmm27048001.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c048/tbmm27048fih.pdf",
+          "pages": [
+            "53"
+          ]
+        },
+        {
+          "cilt": 50,
+          "sitting": 4,
+          "sitting_date": "2020-10-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c050/tbmm27050004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c050/tbmm27050fih.pdf",
+          "pages": [
+            "45"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 41,
+          "sitting_date": "2021-01-26",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060041.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060fih.pdf",
+          "pages": [
+            "303:325"
+          ]
+        },
+        {
+          "cilt": 60,
+          "sitting": 42,
+          "sitting_date": "2021-01-27",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060042.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c060/tbmm27060fih.pdf",
+          "pages": [
+            "766:804. 807:810",
+            "813:837"
+          ],
+          "date_from": "https://www5.tbmm.gov.tr/develop/owa/tutanak_dergisi_pdfler.birlesimler?v_meclis=1&v_donem=d27&v_yasama_yili=4&v_cilt="
+        },
+        {
+          "cilt": 61,
+          "sitting": 43,
+          "sitting_date": "2021-01-28",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c061/tbmm27061043.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c061/tbmm27061fih.pdf",
+          "pages": [
+            "74:78",
+            "79:97",
+            "99:100",
+            "101:103",
+            "104:107",
+            "108:121",
+            "122:129",
+            "130:153",
+            "188:206"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=101&v_kullanici_id=27484872",
+      "page_sha256": "19b2b50686e11b078208dae8963619b688c3cd0f3928daf0594c75a5c9943aed"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "19b2b50686e11b078208dae8963619b688c3cd0f3928daf0594c75a5c9943aed",
+  "issuer": "TBMM",
+  "in_force": "2021-01-28",
+  "in_force_basis": "Kabul tarihi as printed in the official TBMM kanunlar index is 28/01/2020, whose year is a misprint: the one cited sitting with the same day and month is 2021-01-28; date of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
