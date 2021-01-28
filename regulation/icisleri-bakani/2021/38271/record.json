@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38271",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL GÜVENLİK KOMUTANLIĞI ÖDÜL YÖNETMELİĞİ",
+  "number": "38271",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38271",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38271&MevzuatTertip=5",
+  "source_sha256": "f167fae994e617f0937c67b48bfb928ba04a74f0491d82b65d6e2a36b64dfe38",
+  "source_bytes": 107287,
+  "published": "2021-01-28",
+  "gazette": "31378",
+  "in_force": "2021-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3092,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38271-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Başarı ve üstün başarı belgesi
+MADDE 12 – (1) Olağanüstü gayret ve çalışmaları ile emsallerine göre başarılı görev yapmak suretiyle; kamu kaynağında önemli ölçüde tasarruf sağlanmasında, kamu zararının oluşmasının önlenmesinde ve önlenemez kamu zararının önemli ölçüde azaltılmasında, kamusal fayda ve gelirlerin beklenenin üzerinde artırılmasında veya sunulan hizmetlerin etkinlik ve kalitesinin yükseltilmesinde somut olaylara ve verilere dayalı olarak katkı sağladıkları tespit edilen personele başarı belgesi verilebilir. Üç defa başarı belgesi alanlara üstün başarı belgesi verilir.
+(2) Bu madde kapsamındaki ödülleri vermeye, merkez teşkilatında görevli personel için Bakan, taşra teşkilatında görevli personel için ilgisine göre Vali veya Kaymakam yetkilidir.

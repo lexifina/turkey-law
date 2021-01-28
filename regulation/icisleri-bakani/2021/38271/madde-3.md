@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 122 nci maddesine, 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 19 uncu, 23 üncü ve ek 5 inci maddelerine, 12/12/2016 tarihli ve 2016/9742 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personel Yönetmeliğinin 46, 47, 48, 49 ve 50 nci maddelerine dayanılarak hazırlanmıştır.

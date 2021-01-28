@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ana görevler: Kanunlar ve düzenlemelerle Sahil Güvenlik Komutanlığına verilen asli görevleri,
+b) Aylık: Gösterge ve ek gösterge toplamının, memur aylık katsayısı ile çarpımı sonucunda çıkan para miktarını,
+c) Bakan: İçişleri Bakanını,
+ç) Bakanlık: İçişleri Bakanlığını,
+d) Berat: Madalya ve başarı şerit rozetlerinin hak edildiğinin ispatı olan belgeyi,
+e) Bröve: Personelin yetkinliklerini gösteren, üzerinde bu yetkinliğe özgü simgeler bulunan metal görünümlü kabartma işaretleri,
+f) Destek görevler: Ana görevlerin icrasını, arka planda yapılan çalışmalarla mümkün kılan yardımcı görevleri,
+g) Komutan: Sahil Güvenlik Komutanını,
+ğ) Minyatür: Hangi üniformalarda kullanılacağı 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete'de yayımlanan Sahil Güvenlik Komutanlığı Kıyafet Yönetmeliğiyle belirlenen, madalyaların 1/3 ve brövelerin 1/2 oranında küçültülmüş halini,
+h) Ödül: 657 sayılı Devlet Memurları Kanununun 122 nci maddesinde geçen başarı, üstün başarı ve üstün başarı belgesi alanlara verilebilen para ödülü, 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun 19 uncu ve ek 5 inci maddeleri ile 9742 sayılı Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Personel Yönetmeliğinin 46, 47, 48, 49 ve 50 nci maddelerinde geçen, takdir belgesi, para mükâfatı, şerit rozet, bröve ve madalyayı,
+ı) Ödül Değerlendirme Kurulu: Ödül tekliflerini değerlendirmek ve onaya sunulacakları tespit etmek üzere Sahil Güvenlik Komutanlığında oluşturulan kurulu,
+i) Ödül onay formu: Madalya ve başarı şerit rozetleri için beratı, nakdi ödüller için Yönerge ile belirlenen formu, takdir, başarı ve üstün başarı belgesi için matbu belgeyi, bröveler için sertifikayı,
+j) Personel: Sahil Güvenlik Komutanlığı kadrolarında görevli subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, devlet memuru, sözleşmeli personel, uzman erbaş ve sözleşmeli er ve erbaşları,
+k) Şerit rozet: Boyu otuz beş, eni dokuz milimetre ölçülerinde levhalara özel renk ve şekillerde dokuma kumaşın sarılması ile oluşan işaretleri,
+l) Üniformalı personel: Sahil Güvenlik Komutanlığında görevli subay, sözleşmeli subay, astsubay, sözleşmeli astsubay, uzman erbaş, sözleşmeli er ve erbaşları,
+m) Vektör tabanlı çizim: Çözünürlükten bağımsız her bir nesnenin matematiksel ifadelerle oluşturulduğu ve detay kaybetmeden herhangi bir boyuta ölçeklendirilebilen grafik türünü,
+n) Yetkili makam:
+1) Takdir belgesi için sıralı amirleri,
+2) Başarı ve üstün başarı belgeleri için ilgilisine göre Kaymakam, Vali veya Bakanı, üstün başarı para ödülü için ilgilisine göre Vali veya Bakanı,
+3) Para mükâfatı için miktara göre Komutan veya Bakanı,
+4) Eğitim sonucunda verilen bröveler için ilgili eğitim biriminin amirini, hizmet süresi sonucunda verilen bröveler için Komutanı,
+5) Şerit rozetler için Komutanı,
+6) Madalya için Bakanı,
+o) Yönerge: Bu Yönetmelik hükümlerini açıklamak, görev dağılımını ve usulleri belirlemek, şerit rozet ve brövelerin şekillerini tanımlamak maksadı ile Komutan tarafından onaylanan yönergeyi,
+ifade eder.
