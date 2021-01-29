@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdür ve müdür yardımcısı olmak üzere toplam beş kişiden oluşur. Yönetim Kurulu; Müdür tarafından, Merkez faaliyetlerine yakın programlar arasından önerilecek öğretim elemanları arasından Rektör tarafından görevlendirilir. Yönetim Kuruluna Müdür başkanlık eder. Üyeler üç yıl için görevlendirilir. Süresi biten Yönetim Kurulu üyeleri yeniden seçilebilir. Yönetim Kurulu, yılda en az iki defa toplanır. Toplantı salt çoğunlukla yapılır ve kararlar oy çokluğu ile alınır.

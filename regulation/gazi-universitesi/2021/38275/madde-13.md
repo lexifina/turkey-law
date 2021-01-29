@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 13 – (1) Merkezin faaliyet alanlarında bilgi, tecrübe ve eser sahibi uzman bilim insanları ve bu alanlarda ilgili çalışmaları bulunan kurum temsilcileri arasından olmak üzere en fazla yedi üyeden oluşur. Bu üyeler Yönetim Kurulunun önerisiyle belirlenir ve Rektör tarafından görevlendirilir. Danışma Kurulu üyeleri yeniden görevlendirilebilir. Danışma Kurulu toplantılarına Müdür başkanlık eder ve Danışma Kurulunun kararları tavsiye niteliğindedir.
