@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu; Merkezin amacı ve faaliyet alanları kapsamında, bilgi ve deneyim sahibi uzman bilim insanları ile bu alanlarla ilgili çalışmalarda bulunan kurum ve kuruluş temsilcileri olmak üzere en fazla yirmi beş üyeden oluşur. Danışma Kurulu üyeliğine seçilme ve üyeliğe son verme, Yönetim Kurulunun salt çoğunluğunun kararı ile gerçekleşir. Danışma Kurulu, Müdürün yazılı daveti üzerine yılda en az bir defa salt çoğunluk aranmaksızın toplanır.
+(2) Danışma Kurulunun görevi; Merkezin çalışma alanları ile ilgili konularda görüşlerini bildirmek ve önerilerde bulunmaktır.
