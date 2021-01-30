@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "9954",
+  "decision_date": "2021-01-30",
+  "title": "01/01/2021 tarihinden itibaren geçerli elektrik tarife tabloları hakkında",
+  "resmi_gazete_date": "2021-01-31",
+  "resmi_gazete_number": "31351",
+  "categories": [
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DAPYYCb42YE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DAPYYCb42YE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=k/f4r+Ghn4U="
+  ],
+  "source_sha256": "5f7b11fb2c4fc72225ee3fe10123a6f3e05cfc15cd513166e223be06d3f4fbde",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1327,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-01-30",
+  "law_text_complete": true
+}
