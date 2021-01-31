@@ -1,0 +1,29 @@
+{
+  "number": "month-01-2",
+  "year": 2021,
+  "month": 1,
+  "title": "BEYKÖY BELEDİYESİ - 2021 YILI OCAK AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "decision_date": null,
+  "index_date": "2021-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2021",
+  "source": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2021-yili-ocak-ayi-2-birlesim-meclis-karar-ozeti",
+  "official_page": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2021-yili-ocak-ayi-2-birlesim-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2021-yili-ocak-ayi-2-birlesim-meclis-karar-ozeti",
+  "source_sha256": "518924548bd8fc1a0842f56b15107897c635c4e846d041689e0e412b49a0b435",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2021-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "BEYKÖY BELEDİYESİ - 2021 YILI OCAK AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
