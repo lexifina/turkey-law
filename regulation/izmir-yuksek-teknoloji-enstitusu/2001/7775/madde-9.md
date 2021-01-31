@@ -1,0 +1,2 @@
+Müdür Yardımcısı
+Madde 9- Rektör, SEM Müdürüne yardımcı olmak amacıyla Müdürün önerdiği en fazla iki kişiyi Müdür Yardımcılığına atayabilir. Müdürün katılmadığı toplantılara, görevlendireceği Müdür Yardımcısı katılır ve Müdüre 4 aya kadar vekalet edebilir. Müdür yardımcıları Müdürün daveti üzerine Yönetim Kurulu toplantılarına katılabilir. Müdür Yardımcısının Müdüre vekaleten katıldığı toplantılarda oy hakkı vardır.

@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 11- Bu Yönetmelik Resmî Gazete’de yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2001-11-08",
+      "08.11.2001",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-01-31",
+      "RG-31/1/2021-31381",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-01-31",
+      "31/1/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-31/1/2021-31381",
+  "first_law": null,
+  "gazette": "24577",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-01-31",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2001/7775",
+  "published": "2001-11-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=7775&MevzuatTertip=5",
+  "source_bytes": 21465,
+  "source_id": "8.5.7775",
+  "source_sha256": "acbaf7cfa301aee210d0f1ff9779056bda15fee724a3bc8be1f9fdb002b3b436",
+  "text_status": "current-consolidated",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ\r\nSÜREKLİ EĞİTİM MERKEZİ (SEM) YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 472
+}
