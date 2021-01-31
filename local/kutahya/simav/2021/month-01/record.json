@@ -1,0 +1,28 @@
+{
+  "number": "month-01",
+  "year": 2021,
+  "month": 1,
+  "title": "2021 Yılı Ocak Ayı 1. Birleşim Meclis Karar Özeti",
+  "decision_date": null,
+  "index_date": "2021-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2021",
+  "source": "https://www.simav.bel.tr/karar/2021-yili-ocak-ayi-1-birlesim-meclis-karar-ozeti/37/",
+  "official_page": "https://www.simav.bel.tr/karar/2021-yili-ocak-ayi-1-birlesim-meclis-karar-ozeti/37/",
+  "official_document": "https://www.simav.bel.tr/dosya/meclis/dosyalar/ocak-ayi-1-birlesim.docx",
+  "source_sha256": "3a9a88f4840b503bf1997a6cce6c988474cb19249028a579e08d8f94cdad95f1",
+  "issuer": "Simav Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2021-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2021 Yılı Ocak Ayı 1. Birleşim Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
