@@ -1,0 +1,28 @@
+{
+  "number": "month-01-2",
+  "year": 2021,
+  "month": 1,
+  "title": "Ocak Ayı Meclis Kararları 2. Oturum",
+  "decision_date": null,
+  "index_date": "2021-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2021",
+  "source": "https://yesilyurt.bel.tr/meclis-kararlari/2021-yili-meclis-kararlari",
+  "official_page": null,
+  "official_document": "https://yesilyurt.bel.tr/upload/files/2021-yili-meclis-kararlari/2021-yili-meclis-kararlari_8341.pdf",
+  "source_sha256": "e2bdf299f91455aef39447bd546312192ea4f87726e27092d6ea5f06e4296fa8",
+  "issuer": "Yeşilyurt Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2021-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Ocak Ayı Meclis Kararları 2. Oturum",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
