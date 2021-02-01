@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38269",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "TAŞINMAZ KÜLTÜR VARLIKLARINA YARDIM SAĞLANMASINA DAİR YÖNETMELİK KAPSAMINDAKİ PARASAL LİMİTLERİN GÜNCELLENMESİ HAKKINDA TEBLİĞ (TEBLİĞ NO: 2021/2)",
+  "number": "38269",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "path": "teblig/2021/38269",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38269&MevzuatTertip=5",
+  "source_sha256": "f4fa5edc51fbdcdef66b5364570523d5dfb57791d7e2775691f7e6a87a3f84bb",
+  "source_bytes": 9173,
+  "published": "2021-01-23",
+  "gazette": "31373",
+  "in_force": "2021-02-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/2/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/2/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 146,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38269-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
