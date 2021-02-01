@@ -1,0 +1,25 @@
+{
+  "number": "meeting-02-01",
+  "number_as_published": "meeting-02-01",
+  "year": 2021,
+  "title": "01 ŞUBAT 2021 MECLİS KARARLARI",
+  "decision_date": "2021-02-01",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=16",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/fj6iy3AtHi9MOac48q.pdf",
+  "source_sha256": "c5ab3bf474df43508517c097faf602095365f1e1c69e37df084b7a09b9624969",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-02-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01 ŞUBAT 2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01 ŞUBAT 2021 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "6b62e03c142f8b9d.pdf",
+  "list_date": "2021-02-01"
+}
