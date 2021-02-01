@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 4,
+  "esas_no": "7/40888",
+  "submitted": "2021-02-01",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aydın ÖZER",
+  "province": "Antalya",
+  "summary": "Son on yılda TTK bünyesinde istihdam edilen maden mühendisi sayısına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-6fdc-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9c62c825d532f80234920d663797d33c350cd31bc8784136f4ba268c54090f2b",
+  "in_force": "2021-02-01",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
