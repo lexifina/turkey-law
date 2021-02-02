@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1 – (1) Bu Tebliğ, 3/6/2020 tarihli ve 31144 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemlerine İlişkin Tebliğ (Tebliğ No: 2020/3) ile başlatılan ve 10/5/2004 tarihli ve 2004/7305 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İthalatta Korunma Önlemleri Hakkında Karar ve 8/6/2004 tarihli ve 25486 sayılı Resmî Gazete’de yayımlanan İthalatta Korunma Önlemleri Yönetmeliği çerçevesinde yürütülen soruşturma sonucunda alınan kararı içermektedir.
