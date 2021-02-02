@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-02-02",
+  "issue": "31383",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2021/2)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210202-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210202.htm",
+  "index_sha256": "d30bc3e63b3dce4678d464129fefb529732aa0f6b55c82ab123fca7e0d0b2c94",
+  "index_header": "2 Şubat 2021 ... 31383 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210202.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
