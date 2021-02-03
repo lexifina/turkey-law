@@ -1,2 +1,3 @@
 Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler
-MADDE 21. — Bu Kanunun 8 inci maddesinin dört ve beşinci fıkraları ile 15 ve 19 uncu maddesi hükümleri, elektronik sertifika hizmet sağlama faaliyeti yerine getiren kamu kurum ve kuruluşları hakkında uygulanmaz.
+Madde 21- (Değişik:28/1/2021-7263/13 md.)
+Bu Kanunun 19 uncu maddesi hükmü, elektronik sertifika hizmet sağlama faaliyeti yerine getiren kamu kurum ve kuruluşları hakkında uygulanmaz.
