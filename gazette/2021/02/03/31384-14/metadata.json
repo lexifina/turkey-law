@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-02-03",
+  "issue": "31384",
+  "edition": "regular",
+  "item": 14,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7266 Türkiye Cumhuriyeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Arasında Serbest Ticaret Anlaşması, Türkiye ve Birleşik Krallık Hükümetleri Arasında Menşe Kurallarına Dair Ortak Bildiri, Türkiye ve Birleşik Krallık Hükümetleri Arasında Mutabakat Zaptı ve Kuzey İrlanda ile Ticarete İlişkin Olarak Türkiye Cumhuriyeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Arasında Teati Edilen Mektupların Onaylanmasının Uygun Bulunması ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesi Hakkında Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-14.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203.htm",
+  "index_sha256": "c8cf401192c2486b1a97079ad56f0cf6994156e4a713ae1666d345a476ddbcc6",
+  "index_header": "3 Şubat 2021 ... 31384 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
