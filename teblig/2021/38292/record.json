@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2021 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31384",
+  "date_quote": "Bu Tebliğ 1/1/2021 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31384",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-03",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2021 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-200.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-02-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38292&MevzuatTertip=5",
+  "source_bytes": 12144,
+  "source_id": "9.5.38292",
+  "source_sha256": "ef7e2b1c6fbff4c4c95f7267e9383c5cdd817581a72d21fd9aad530c2705d99f",
+  "title": "2021 YILI ÖZEL EĞİTİME İHTİYAÇ DUYAN BİREYLERE VERİLECEK\r\nEĞİTİM DESTEĞİ TUTARLARINA İLİŞKİN TEBLİĞ",
+  "word_count": 380
+}
