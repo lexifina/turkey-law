@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7264",
+  "year": 2021,
+  "title": "7264 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-03",
+  "gazette_issue": "31384",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-12.htm",
+  "source_sha256": "3487dbaf8f4040b6c1f5d50c9f556180e85cba71fcbcc9ae7e75f011a8fac6a5",
+  "text_sha256": "2d3f2554b5e2ab92c1d7dd7efba7f38eb43afd1488d60aef98098e75cfe2286b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/03/31384-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
