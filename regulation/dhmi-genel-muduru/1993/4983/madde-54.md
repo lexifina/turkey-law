@@ -1,0 +1,6 @@
+Madde 54 -(Değişik:RG-9/7/2002-24810)
+DHMİ Genel Müdürlüğü Müfettişleri; yolluklarını merkezde ya da görevli olmaları halinde taşra birimlerinde kendilerine verilen kredi cüzdanları ile alırlar.Kredi cüzdanı tamamen kullanıldıktan sonra yenisi alınmak üzere Teftiş Kurulu Başkanlığına iade edilir.Kredi cüzdanının kaybedilmesi halinde durum derhal TeftişKurulu Başkanlığına bildirilir.
+Çekilen paranın hakedilen miktarı aşmaması asıldır.Ertesi aya borç devri ancak, ayın son günlerinde görevle ilgili olarak yolculuk yapılması halinde uygun görülebilir. Bu takdirde, fazla çekilen miktar, en geç izleyen ay içinde iade veya mahsup suretiyle kapatılır. Kesinlikle diğer yıla borç veya alacak devredilmez.
+Müfettişler; çalışmalarını, yolluklarını aylık olarak düzenleyecekleri çalışma ve hakediş cetvellerinde gösterirler.
+Bu cetvellerin ait olduğu ayı takip eden ayın ilk haftası içinde hazırlanarak Teftiş Kurulu Başkanlığına gönderilmesi gerekir.
+Çalışma cetvelinde, çalışmalar günler itibariyle ve ana hatlarıyla belirtilir.Ay içinde yazılan raporlara yer verilir. Müfettişlerin yolculuk ve geceleme giderleri, aylık istihkakları ve bunlara karşılık alınan paraları gösteren tablolar doldurulur.Görevle ilgili olarak yaptıkları harcamaları gösterir gerekli belgeler hakediş cetveline eklenir.
