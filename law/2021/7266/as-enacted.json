@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7266",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Arasında Serbest Ticaret Anlaşması, Türkiye ve Birleşik Krallık Hükümetleri Arasında Menşe Kurallarına Dair Ortak Bildiri, Türkiye ve Birleşik Krallık Hükümetleri Arasında Mutabakat Zaptı ve Kuzey İrlanda ile Ticarete İlişkin Olarak Türkiye Cumhuriyeti ile Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Arasında Teati Edilen Mektupların Onaylanmasının Uygun Bulunması ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki verilmesi Hakkında",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-03",
+  "gazette_issue": "31384",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-14.htm",
+  "source_sha256": "ce9f7d8154f0a16f969e29570d8595b4302d7a1a1ebab9e30ac5c5fa718e4684",
+  "text_sha256": "0c02f3e0785dd9f3dd3f97121ebc17b2840f057fa27cafd5a8c4d6c1bf43a128",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/03/31384-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
