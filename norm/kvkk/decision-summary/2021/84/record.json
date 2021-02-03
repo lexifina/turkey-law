@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/84",
+  "source_id": 6920,
+  "date": "2021-02-03",
+  "title": "“Veri sorumlusu sabit telefon hizmeti sağlayan işletmeci tarafından bir hastanenin müşterilerinin kişisel verilerinin hukuka aykırı olarak işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 03/02/2021 tarihli ve 2021/84 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6920/2021-84",
+  "source_sha256": "d72134e28d54cfcd60336501b8fd015040899ce3a71c9e92bb5b2e1c78d9e266",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
