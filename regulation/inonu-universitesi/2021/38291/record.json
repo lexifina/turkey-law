@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-03",
+      "03.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31384",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-03",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İnönü Üniversitesi",
+  "issuer_slug": "inonu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/inonu-universitesi/2021/38291",
+  "published": "2021-02-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38291&MevzuatTertip=5",
+  "source_bytes": 27944,
+  "source_id": "8.5.38291",
+  "source_sha256": "eb6ec0050686ad372daa4f1df36770f5d84a537f00b1ad991a517e29ecf273a2",
+  "text_status": "as-enacted",
+  "title": "İNÖNÜ ÜNİVERSİTESİ ARSLANTEPE ARKEOLOJİ ÇALIŞMALARI \r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 201,
+  "word_count": 1103
+}
