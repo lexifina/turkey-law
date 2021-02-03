@@ -1,0 +1,3 @@
+Yönetim organları
+MADDE 6 – (1) Döner Sermaye İşletmesinin Yönetim Kurulu Üniversite Yönetim Kuruludur.
+(2) (Değişik:RG-3/2/2021-31384) Üniversite Yönetim Kurulu; İşletmeyi idare etmek üzere Yürütme Kurulu oluşturabilir ve yetkilerini uygun gördüğü ölçüde Yürütme Kuruluna devredebilir. Yürütme Kurulu, Üniversite Yönetim Kurulu tarafından seçilecek bir rektör yardımcısı ile dekanlar, yüksekokul müdürleri ve diğer öğretim elemanları arasından seçilecek üç öğretim elemanı ve Döner Sermaye İşletme Müdürü olmak üzere toplam beş kişiden oluşur. Yürütme Kurulu, en az üç üyenin katılımı ile toplanır ve kararlar oy çokluğu ile alınır.
