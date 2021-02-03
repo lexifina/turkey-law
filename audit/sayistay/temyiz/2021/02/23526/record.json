@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48826",
+  "decision_date": "2021-02-03",
+  "source_id": 23526,
+  "chamber": "5",
+  "file_number": "45351",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23526/",
+  "source_sha256": "20756db03c19ba026201eebe4a60a286c289566e53c5488bb5116bf8acf75e37",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
