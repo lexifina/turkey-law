@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/05",
+  "meeting_date": "2021-02-03",
+  "meeting_date_as_published": "3.2.2021",
+  "decision_no": "86",
+  "source_id": 15249,
+  "title": "RTÜK kararı 2021/05-86",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15249",
+  "source_sha256": "c76942627d424ef153d48c1d27b54ab75f69aefc9f9da5c5ab0e64745722fb3a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
