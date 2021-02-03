@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/05",
+  "meeting_date": "2021-02-03",
+  "meeting_date_as_published": "3.2.2021",
+  "decision_no": "54",
+  "source_id": 15217,
+  "title": "RTÜK kararı 2021/05-54",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15217",
+  "source_sha256": "42851dded75aea6eb6caa8a482511af95b66526f2336adbd3aaa967ccb0698d0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
