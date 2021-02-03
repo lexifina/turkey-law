@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7265",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti ile Arnavutluk Cumhuriyeti Arasında Serbest Ticaret Anlaşması ile Kurulan Ortak Komitenin Türkiye Cumhuriyeti ile Arnavutluk Cumhuriyeti Arasında Serbest Ticaret Anlaşmasına Ek \"Menşeli Ürünler\" Kavramının Tanımı ve İdari İş Birliği Yöntemlerine İlişkin Protokol II'yi Değiştiren 1/2020 Sayılı Kararının Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Protokoller ve Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki verilmesine İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-03",
+  "gazette_issue": "31384",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-13.htm",
+  "source_sha256": "565f404dfcf8ac75c5205705f18ad7a3c0a4175ced459d2f1fc4ce47de4168ca",
+  "text_sha256": "77d659cfe6b8fc96405e1eefa7d4e54f8586cd89e2478f01e00d5f24eba045e3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/03/31384-13",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210203-13.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
