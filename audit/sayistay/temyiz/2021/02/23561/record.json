@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48862",
+  "decision_date": "2021-02-03",
+  "source_id": 23561,
+  "chamber": "5",
+  "file_number": "44720",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23561/",
+  "source_sha256": "c0ac10cdba76a480f066f08b804f478b115f065f3ea3fbcb1d762f5c13cb7613",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
