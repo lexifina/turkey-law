@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "414",
+  "decision_date": "2021-02-04",
+  "source_id": 33179,
+  "chamber": "7",
+  "ilam_number": "179",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33179/",
+  "source_sha256": "6dcc2789bfc969e41fe360bf65352c6ec2b063b163bad229ec9665e716b6645b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
