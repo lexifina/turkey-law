@@ -1,0 +1,2 @@
+İhalenin sözleşmeye bağlanması
+MADDE 45 – (1) Bu Yönetmelik kapsamında istisna edilenler hariç yapılan bütün ihaleler bir sözleşmeye bağlanır. Üniversite tarafından hazırlanan sözleşmeler imza yetkisine sahip yönetici ile yüklenici tarafından imzalanır. Yüklenicinin ortak girişimci olması hâlinde sözleşmeler ortak girişimin bütün ortakları tarafından imzalanır. İhale/ön yeterlilik dokümanında aksi belirtilmedikçe sözleşmelerin notere tescili ve onaylatılması zorunlu değildir. İhale/ön yeterlik dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.

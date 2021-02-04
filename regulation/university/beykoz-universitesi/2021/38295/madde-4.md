@@ -1,0 +1,7 @@
+Temel ilkeler
+MADDE 4 – (1) Üniversite, bu Yönetmeliğe göre yapılacak ihalelerde; saydamlığı, rekabeti, eşit muameleyi, güvenirliği, gizliliği, kamuoyu denetimini, ihtiyaçların uygun şartlarla ve zamanında karşılanmasını ve kaynakların verimli kullanılmasını sağlamakla yükümlüdür.
+(2) 31/12/2005 tarihli ve 26040 sayılı Resmî Gazete’de yayımlanan Vakıf Yükseköğretim Kurumları Yönetmeliğinin 28 inci maddesine aykırı nitelikte ihale yapılamaz.
+(3) Anahtar teslimi yapım ihaleleri hariç, aralarında kabul edilebilir doğal bir bağlantı olmadığı sürece mal alımı, hizmet alımı ve yapım işleri bir arada ihale edilemez.
+(4) Bu Yönetmelikte belirlenmiş limitlerin altında kalmak amacıyla ihale konusunu oluşturan işler kısımlara bölünemez.
+(5) Üniversite, Mütevelli Heyet kararıyla gelecek yıllara yaygın yüklenmeler gerçekleştirebilir. Birden fazla yılı kapsayan işlerde ihaleye çıkılabilmesi için işin süresine uygun olarak yıllar itibarıyla öngörülen ödeneğin bütçelerinde bulunmasını sağlamak üzere programlamanın yapılmış olması zorunludur. Yatırım projesi kapsamındaki işlerde ilk yıl için öngörülen ödenek, proje maliyetinin %10’undan az olamaz ve başlangıçta daha sonraki yıllar için programlanmış olan ödenek dilimleri sonraki yıllarda azaltılamaz.
+(6) Üniversite, Mütevelli Heyet kararıyla, belirli koşulları taşıyan isteklilerin sisteme kabul edildiği ve elektronik olarak teklif verebildiği elektronik satın alma sistemleri oluşturulabilir veya bu sistemlere katılabilir.
