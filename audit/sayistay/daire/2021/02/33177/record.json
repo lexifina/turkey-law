@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "414",
+  "decision_date": "2021-02-04",
+  "source_id": 33177,
+  "chamber": "7",
+  "ilam_number": "179",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33177/",
+  "source_sha256": "d4de2ce1282dd6969f8091adebaecbf53edc06e4edb60bbb04a7a9869c2a03ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
