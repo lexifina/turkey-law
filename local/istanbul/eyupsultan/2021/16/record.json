@@ -1,0 +1,22 @@
+{
+  "number": "16",
+  "number_as_published": "2021/16",
+  "year": 2021,
+  "title": "council decision",
+  "decision_date": "2021-02-04",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-subat-ayi-meclis-kararlari/1868",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-16/1871",
+  "source_sha256": "757507d50b0f52991acd2e5540e06d94335ddd3c781a0fed85f3cc4fa6ad3654",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2021-02-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.02.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "0ef95023e6fbcf12f46183e4cb7c3f7b51359da464a04a3819bb757761a44b36"
+}
