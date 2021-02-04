@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "414",
+  "decision_date": "2021-02-04",
+  "source_id": 33183,
+  "chamber": "7",
+  "ilam_number": "179",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33183/",
+  "source_sha256": "628615ca14963958e768fd1d7accf1eb0e76c8649eab23fd79e3628fb94aa225",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
