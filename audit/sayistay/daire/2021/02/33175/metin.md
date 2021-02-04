@@ -1,0 +1,29 @@
+Bazı taşınmazların, ihale yapılmaksızın ve bedelsiz olarak Sosyal ve Eğitim Amaçlı İktisadi İşletme tarafından işletilmesi:
+
+ ... ... Üniversitesi’nin mülkiyetinde olan bazı taşınmazların, ihale yapılmaksızın ve bedelsiz olarak Sosyal ve Eğitim Amaçlı İktisadi İşletme tarafından işletilmesi için tahsisi suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yapılan incelemede;
+
+Raporda “5018 sayılı sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Taşınmaz Tahsisi” başlıklı 47’nci maddesinde;
+
+“Kamu idareleri, kanunlarında belirtilen kamu hizmetlerini yerine getirebilmek için mülkiyetlerindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri, birbirlerine ve köy tüzel kişiliklerine bedelsiz olarak tahsis edebilirler. Tahsis edilen taşınmaz, amaç dışı kullanılamaz.
+
+Hazinenin özel mülkiyetindeki taşınmazlarla Devletin hüküm ve tasarrufu altındaki yerleri tahsis etmeye, kamu ihtiyaçları için gerekli olmayanların tahsisini kaldırmaya Maliye Bakanlığı; diğer taşınmazları tahsis etmeye ve tahsisini kaldırmaya ise maliki kamu idaresi yetkilidir. Bu maddenin uygulanmasına ilişkin esas ve usûller Maliye Bakanlığınca çıkarılacak yönetmelikle belirlenir.
+
+Kanunlardaki özel hükümler saklıdır.”
+
+Yukarıda yer verilen mevzuat hükmüne göre kamu kurumları taşınmazlarını ancak birbirlerine ve köy tüzel kişiliklerine tahsis edebilecek olmaları nedeniyle üniversiteye ait bir taşınmazın kullanım hakkının ancak 2886 sayılı Devlet İhale Kanununa göre yapılacak ihale sonucunda kiralama veya satış yoluyla verilmesi gerekmektedir. Dolayısı ile üniversiteye ait taşınmazların iktisadi işletmeye bu şekilde bedelsiz tahsisi hukuken mümkün bulunmamaktadır.
+
+29.05.2018 tarihli Yönetim Kurulu kararıyla,  Hastane Acil Servis Yolu Girişi Sağ tarafında bulunan Otopark Yeri, Rektörlük ... Kafe ve Tıp Fakültesi Derslikler Bölümü Girişi Kafeterya Yeri(Oksijen Kafe)’ nin üniversite iktisadi işletmesine bedelsiz devri sonucu oluşan 240.105 TL kamu zararının, raporda belirtilen sorumlularıdan tazmini uyguun olur” denilmişse de:
+
+Söz konusu İktisadi İşletmenin, …Üniversite Senatosu’nun 20.10.2015 tarih, 449/5 sayılı toplantısında kabul edilen “… Sosyal ve Eğitim Amaçlı İşletmeler Kurma ve İşletme Yönergesi” ile kurulduğu ve yönerge madde 3 uyarınca da kapsamının, “Üniversitenin sahip olduğu sosyal, eğitim ve dinlenme amaçlı tesisleri (misafirhaneler, kreş, anaokulu, ilk ve ortaöğretim okulları, gündüz bakımevi, yemekhaneler, kantinler, büfeler, park ve otopark alanları, kafeterya, kültür ve kongre merkezi, açık ve kapalı spor tesisleri) gibi mevcut, devralınacak veya yeniden kurulacak tesis ve hizmetleri kapsar” şeklinde olduğu anlaşılmıştır.
+
+2547 sayılı Yükseköğretim Kanunu’nun 47/a maddesinde bulunan; “Yükseköğretim kurumları, Yükseköğretim Kurulunun yapacağı plan ve programlar uyarınca, öğrencilerin beden ve ruh sağlığının korunması, barınma, beslenme, çalışma, dinlenme ve boş zamanlarını değerlendirme gibi sosyal ihtiyaçlarını karşılamak ve bu amaçla bütçe imkânları nispetinde okuma salonları, yataklı sağlık merkezleri, mediko - sosyal merkezleri, öğrenci kantin ve lokantaları açmak, toplantı, sinema ve tiyatro salonları, spor salon ve sahaları, kamp yerleri sağlamakla ve bunlardan öğrencilerin en iyi şekilde yararlanmaları için gerekli önlemleri almakla görevlidirler.”  hükmü uyarınca ilgili kantin- kafeterya ve otoparklar Üniversitenin Sosyal ve Eğitim Amaçlı İktisadi İşletmesine devredilmiştir. Yukarıda belirtilen hükümler uyarınca da raporda yer alan spor tesisi, kafeterya, otopark vb. Üniversitenin sahip olduğu tüm tesislerin İktisadi İşletme tarafından işletilmesi mümkündür.
+
+Ayrıca, … Sosyal ve Eğitim Amaçlı İktisadi İşletmesi sermayesinin %100'ünün ... ... Üniversitesi'ne ait olduğu ve  ayrı bir tüzel kişiliği olmadığı,  Yönetim kurulu başkanı ve üyelerinin tamamının Rektör tarafından atandığı ve tamamının ... ... Üniversitesi mensubu olduğu, … Sosyal ve Eğitim Amaçlı İktisadi İşletmesinin elde ettiği gelirlerin bir kısmının yine işlettiği yerlerin bakım onarım ve diğer ihtiyaçları için karşılandığı, Üniversitenin iktisadi işletmeler yoluyla kendi işlettiği birimlerden kira değil, ancak öz gelir veya kar elde ettiği, İktisadi İşletmenin faaliyetlerinden elde edilen karların yönetim kurulu kararı ile Üniversite bütçesine aktarılabileceği de anlaşılmıştır.
+
+Öte yandan, Sosyal ve Eğitim Amaçlı İktisadi İşletmesi ise ayrı bir tüzel kişilik olmadığından, hesap ve işlemleri hem iç denetime hem de Sayıştay denetimine tabiidir. Ayrı bir tüzel kişiliği olmayan iktisadi işletmenin yaptığı işlemler sonucu bir kamu zararı oluşursa  bu da Sayıştay yargısına konu edilebilmektedir.
+
+Sonuç olarak; ... ... Üniversitesi Yönetim Kurulunun 13.02.2018 tarih ve 1338 sayılı ve 29.05.2018 tarih ve 1349 sayılı toplantılarında alınan kararlar ile 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Taşınmaz Tahsisi” başlıklı 47’nci maddesinde aykırı şekilde bir tahsis işlemi yapılmasının söz konusu olmadığı, mülkiyeti Üniversiteye ait olan sorguda belirtilen taşınmazların yine mülkiyeti Üniversiteye ait olan … Sosyal ve Eğitim Amaçlı İktisadi İşletmesi tarafından işletilmesi yönünde bir karar alındığı, başka bir deyişle burada mülkiyeti Üniversiteye ait olan bir taşınmazın farklı bir tüzel kişiliğe tahsisinin söz konusu olmadığı, İktisadi İşletme, ayrı ve bağımsız bir üçüncü kişi değil, üniversitenin kendi işletmesi olduğundan İktisadi İşletmeye devrin ihale ile ve bedel karşılığı yapılmasının beklenemeyeceği değerlendirilmiştir.
+
+Bu itibarla; ... ... Üniversitesi’nin mülkiyetinde olan bazı taşınmazların, ihale yapılmaksızın ve bedelsiz olarak Sosyal ve Eğitim Amaçlı İktisadi İşletme tarafından işletilmesi için tahsisi konusunda ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
