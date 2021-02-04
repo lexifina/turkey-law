@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10817",
+  "decision_date": "2021-02-04",
+  "source_id": 33797,
+  "chamber": "1",
+  "ilam_number": "391",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33797/",
+  "source_sha256": "d42856fec522bd20d1ef812567b0522bda9b46c1b67960ab55f9bc7011d20eba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
