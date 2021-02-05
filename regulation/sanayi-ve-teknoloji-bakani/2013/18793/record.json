@@ -1,0 +1,88 @@
+{
+  "source_id": "7.5.18793",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARTI ALETLERİ MUAYENE YÖNETMELİĞİ",
+  "number": "18793",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2013/18793",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18793&MevzuatTertip=5",
+  "source_sha256": "d751695a99ae4b87b671461bbfedbf68b1c80eb58b8f994444faf71971c0e117",
+  "source_bytes": 66444,
+  "published": "2013-09-04",
+  "gazette": "28755",
+  "in_force": "2021-02-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/2/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-02-05",
+      "RG-5/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-05",
+      "5/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-15",
+      "RG-15/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-15",
+      "15/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-11",
+      "RG-11/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-11",
+      "11/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-10",
+      "10/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-30",
+      "RG-30/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-30",
+      "30/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-05-22",
+      "RG-22/5/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-05-22",
+      "22/5/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4328,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18793-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
