@@ -1,0 +1,4 @@
+Biyokütle ve fosil karbon oranının belirlenmesi
+MADDE 37 – (Değişik:RG-5/2/2021-31386)
+(1) İşletme, karışık yakıt ve malzemeler için, biyokütle yokmuş gibi kabul ederek fosil oranı %100 olarak hesaplayabilir veya bu Tebliğin EK-2’sinde tanımlanan kademeleri uygulayarak ikinci fıkraya göre biyokütle oranını hesaplar.
+(2) Kademe seviyesinin gerekliliklerine bağlı olarak, işletme, biyokütle oranını belirlemek için analiz yapar; ancak, birinci fıkranın uygulanması teknik olarak uygulanabilir değilse veya makul olmayan bir maliyete yol açıyorsa, işletme biyokütlenin belirlenmesi için alternatif bir tahmin metodunu kullanabilir. Tanımlanmış ve izlenebilir girdi akışları ile bir üretim prosesi kaynaklı yakıtlar ve malzemeler için işletme, sürece giren ve çıkan fosil ve biyokütle karbonunun kütle dengesi üzerine bu tahmini dayandırır.

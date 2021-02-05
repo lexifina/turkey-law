@@ -1,0 +1,12 @@
+Uygulanabilir kademeler
+MADDE 24 – (1) Faaliyet verisini ve her bir hesaplama faktörünü belirlemek için, 19 uncu maddenin birinci fıkrasına göre gerekli kademeler tanımlanırken, işletme:
+a) Kategori A tesisleri için ve kaynak akışının ticari standart yakıt olması halinde veya bir hesaplama faktörünün gerekli olduğu durumlarda ek-4’te listelenen en düşük,
+b) (a) bendi dışındaki durumlarda ise ek-2’de tanımlanan en yüksek,
+kademeleri uygular. Ancak, işletme (a) bendine göre uygulanması gereken kademenin teknik olarak uygun olmadığını Bakanlığa belgelemesi durumda, en düşük kademe 1 olmak koşuluyla, kategori C tesisleri için gerekenden bir seviye daha düşük kademeyi, kategori A ve B tesisleri için ise gerekenden en fazla iki seviye daha düşük kademeyi uygulayabilir. Ayrıca, Bakanlık işletmeye, (b) bendine göre uygulanması gereken kademeden daha düşük bir kademe uygulanmasına yönelik olarak, uygulanan kademenin en düşük kademe 1 olması ve aşağıdaki koşulların karşılanması şartı ile üç yıla kadar bir geçiş dönemi için izin verebilir:
+1) Uygulanması gereken kademenin teknik olarak elverişli olmadığının tespit edilmesi,
+2) Uygulanması gereken kademeye nasıl ve ne zaman erişilebileceği ile ilgili bir gelişim planının sunulması.
+(2) İşletme, küçük kaynak akışlarına ilişkin faaliyet verisi ve her bir hesaplama faktörü için, uygulanan kademenin en düşük kademe 1 olması koşuluyla, teknik olarak elverişli olan en yüksek kademeyi uygular.
+(3) İşletme, önemsiz kaynak akışlarına ilişkin faaliyet verisi ve her bir hesaplama faktörü için, ilave bir çaba olmadan herhangi bir kademeye ulaşamıyorsa, kademe kullanmak yerine ihtiyatlı tahminler yaparak faaliyet verisini ve her bir hesaplama faktörünü belirler.
+(4) Yükseltgenme faktörü ve dönüşüm faktörü için, işletme, asgari olarak, ek-2’de listelenen en düşük kademeleri uygular.
+(5) 23 üncü madde çerçevesinde proses girdisi olarak kullanılan veya kütle dengesinde kullanılan yakıtlar için, Bakanlığın t (Değişik ibare:RG-5/2/2021-31386) CO2 /t veya t (Değişik ibare:RG-5/2/2021-31386) CO2 /Nm3 olarak ifade edilen emisyon faktörlerinin kullanılmasına izin verdiği yakıtlar için NKD, ek-2’de tanımlanan en yüksek kademeler yerine daha düşük kademeler kullanılarak izlenir.
+(6) (Ek:RG-5/2/2021-31386) Hesaplama faktörlerinin elde edilmesi için uygulanacak kademelerin seçilmesinde makul olmayan maliyetlerin değerlendirilmesine ilişkin kurallar Bakanlık tarafından belirlenir.

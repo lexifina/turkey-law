@@ -1,0 +1,3 @@
+İzleme sınırları
+MADDE 18 – (1) İşletme, tesisinin izleme sınırlarını tanımlar. İşletme, tesiste yürütülen ve Yönetmeliğin ek-1’inde listelenen faaliyetlere ait emisyon kaynakları ve kaynak akışlarının sebep olduğu ilgili sera gazlarını izleme sınırına dahil eder. Ayrıca, raporlama dönemi süresince olağan faaliyetler ile birlikte devreye alma–devre dışı bırakma ve acil durumları içeren olağan dışı durumlardan kaynaklanan emisyonları da izleme sınırına dâhil eder. Taşıma amaçlı kullanılan hareketli makinalardan kaynaklanan emisyonlar hariç tutulur.
+(2) İzleme ve raporlama süreci tanımlanırken, işletme ek-3’te belirtilmiş olan sektörlere özgü hususları da dâhil eder.

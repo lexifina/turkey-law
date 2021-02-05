@@ -1,0 +1,2 @@
+Emisyon hesabının teyidi
+MADDE 44 – (1) İşletme, nitrik asit üretiminden kaynaklanan N2O emisyonları ve transfer edilen sera gazları hariç olmak üzere, aynı emisyon kaynakları ve kaynak akışları için değerlendirilen her bir sera gazının yıllık emisyonlarını hesaplayarak, ölçüm temelli yöntem ile belirlenen emisyonlar ile karşılaştırarak kontrolünü yapar. Kademe yönteminin kullanımı gerekli değildir.

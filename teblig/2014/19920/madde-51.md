@@ -1,0 +1,2 @@
+Bilgi teknolojilerinin kalite güvencesi
+MADDE 51 – (1) 49 uncu maddenin üçüncü fıkrasının (b) bendi kapsamında, işletme 49 uncu maddenin ikinci fıkrasının (a) bendi kapsamında tanımlanan risk ile bağlantılı olarak bilgi teknolojileri sisteminin güvenilir, doğru ve düzenli veriyi işleyecek şekilde tasarlanmasını, belgelenmesini, test edilmesini, uyarlanmasını, kontrol edilmesini ve bakımının yapılmasını temin eder. Bilgi teknolojileri sisteminin kontrolü; erişim kontrolü, yedekleme kontrolü, geri yükleme, süreklilik planı ve güvenliği içerir.

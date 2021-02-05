@@ -1,0 +1,3 @@
+Kayıtlar ve belgelendirme
+MADDE 57 – (1) İşletme, ek-8’de listelenen bilgiler de dâhil olmak üzere ilgili bütün veri ve bilgiyi en az 10 yıl saklar. Belgelendirilmiş ve arşivlenmiş izleme verisi, Yönetmelik ile doğrulama ve akreditasyona ilişkin mevzuat kapsamında, yıllık emisyon raporlarının doğrulanmasına imkan sağlayacak şekilde oluşturulur.
+(2) İşletme, ilgili bütün belgelerin, kontrol faaliyetlerinin yanı sıra veri akış faaliyetlerini yürütmek amacıyla, her zaman erişilebilir olmalarını temin etmelidir. İşletme, bu belgeleri, Yönetmelik ile doğrulama ve akreditasyona ilişkin mevzuat kapsamında, emisyon raporlarını doğrulayan doğrulayıcı kuruluşun ve Bakanlığın talep etmesi durumunda vermekle yükümlüdür.

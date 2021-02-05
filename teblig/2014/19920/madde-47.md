@@ -1,0 +1,5 @@
+Transfer edilen (Değişik ibare:RG-5/2/2021-31386) CO2
+MADDE 47 – (1) (Değişik ibare:RG-5/2/2021-31386) CO2 transfer eden tesis, transfer edilen tesise ilişkin kimlik bilgilerini yıllık emisyon raporunda sunar.
+(2) İşletme, bir tesisten diğerine transfer edilen (Değişik ibare:RG-5/2/2021-31386) CO2 miktarını belirlemek için, 41, 42 ve 43 üncü maddelerde yer alan ölçüm temelli yöntemleri kullanır. Emisyon kaynağı ölçüm noktasına tekabül eder ve emisyonlar transfer edilen (Değişik ibare:RG-5/2/2021-31386) CO2 miktarı olarak ifade edilir.
+(3) İşletme, bir tesisten diğerine transfer edilen (Değişik ibare:RG-5/2/2021-31386) CO2 miktarını belirlemek için, ek-7’nin birinci bölümünde tanımlanan kademe 4’ü uygular. Ancak, işletme, söz konusu kademenin uygulanmasının teknik olarak elverişli olmadığını belgelemesi halinde bir düşük kademeyi uygulayabilir.
+(4) İşletmeler hem transfer eden hem de transfer edilen tesislerde transfer edilen (Değişik ibare:RG-5/2/2021-31386) CO2 miktarını belirleyebilirler. Bu durumda, 46 ncı maddenin üçüncü fıkrası uygulanır.

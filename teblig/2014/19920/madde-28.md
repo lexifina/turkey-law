@@ -1,0 +1,3 @@
+Hesaplama faktörlerinin belirlenmesi
+MADDE 28 – (1) İşletme, hesaplama faktörlerini ya varsayılan değerler ya da uygulanabilir kademeye bağlı analize dayanan değerler olarak belirler.
+(2) İşletme, kurutulmadan veya laboratuvar analizi için işlem görmeden önce, emisyona sebep olan işlem için satın alınan veya kullanılan yakıt veya malzemenin durumunu referans alarak ilgili faaliyet verisi için kullanılan durum ile tutarlı hesaplama faktörlerini belirler ve raporlar. Bu yaklaşım ile daha yüksek doğruluğun elde edilebileceği durumlarda, işletme laboratuvar analizlerinin yürütüldüğü duruma ait faaliyet verisini ve hesaplama faktörlerini sürekli olarak raporlayabilir.

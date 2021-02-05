@@ -1,0 +1,5 @@
+Biyokütle kaynak akışları
+MADDE 36 – (1) İşletme, bir kaynak akışının yalnızca biyokütleyi içerdiği durumda, kademeleri kullanmadan biyokütle içeriği ile ilgili analitik kanıt sunarak, biyokütle kaynak akışlarının faaliyet verisini belirleyebilir. İşletme söz konusu kaynak akışının diğer malzemeler veya yakıtlar ile karışmadığından emin olur.
+(2) Biyokütlenin emisyon faktörü sıfır olarak kabul edilir. Karışık bir yakıt veya malzemenin emisyon faktörü, 28 inci madde kapsamında belirlenen ön emisyon faktörünün, yakıt veya malzemenin fosil karbon oranı ile çarpılmasıyla hesaplanır ve raporlanır.
+(3) Karışık yakıtların veya malzemelerin turba, ksilit ve fosil karbon oranları biyokütle olarak değerlendirilmez.
+(4) (Değişik:RG-5/2/2021-31386) Karışık yakıtların veya malzemelerin biyokütle oranının %97’ye eşit veya daha yüksek olduğu durumlarda veya yakıt veya malzemenin fosil oranından kaynaklı emisyon miktarına bağlı olarak, kaynak akışının önemsiz kaynak akışı olarak nitelendiği durumlarda, faaliyet verisini ve ilgili hesaplama faktörlerini belirlemek için, enerji denge yöntemini dahil ederek asgari yöntem kullanılabilir.

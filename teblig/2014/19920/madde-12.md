@@ -1,0 +1,3 @@
+Basitleştirilmiş izleme planları
+MADDE 12 – (1) Bakanlık, 45 inci madde kapsamında işletmelere basitleştirilmiş izleme planlarını kullanmaları için izin verebilir, bu amaçla 48 inci ve 49 uncu maddeler kapsamında belirtilen veri akışı tanımı ve kontrol prosedürlerini de içeren şablonlar ve kılavuzlar yayımlayabilir.
+(2) Birinci fıkrada bahsedilen basitleştirilmiş izleme planının onayından önce, Bakanlık, teklif edilen kontrol faaliyetlerinin ve kontrol faaliyetleri için teklif edilen prosedürlerin dâhili riskler ve tanımlanmış kontrol riskleri ile orantılı olup olmadıklarını değerlendirmek için işletmeden basit bir risk değerlendirmesi yürütmesini talep edebilir.

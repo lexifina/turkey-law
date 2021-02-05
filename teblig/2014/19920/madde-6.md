@@ -1,0 +1,3 @@
+Tutarlılık, karşılaştırılabilirlik ve şeffaflık
+MADDE 6 – (1) İzleme ve raporlama her zaman tutarlı ve karşılaştırılabilir esaslar çerçevesinde oluşturulur. Bu amaçla, işletme, Bakanlık tarafından onaylanan değişikliklere ve istisnalara bağlı olarak, aynı izleme yöntemini ve veri gruplarını kullanmakla yükümlüdür.
+(2) İşletme, tahminlerini, referanslarını, faaliyet verisini, emisyon faktörlerini, yükseltgenme faktörlerini ve dönüşüm faktörlerini içeren izleme verilerini doğrulayıcı kuruluş ve Bakanlık tarafından emisyonların verisinin yeniden üretilmesini mümkün kılacak şeffaflıkta toplar, kaydeder, analiz eder ve belgelendirir.
