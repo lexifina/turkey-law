@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.18606",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EGZOZ GAZI EMİSYON ÖLÇME CİHAZLARI MUAYENE YÖNETMELİĞİ",
+  "number": "18606",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2013/18606",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18606&MevzuatTertip=5",
+  "source_sha256": "73c700c461050df36113251bf6a485464a30a5b77bb4764282d10373fc202be7",
+  "source_bytes": 69100,
+  "published": "2013-07-19",
+  "gazette": "28712",
+  "in_force": "2021-02-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/2/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-02-05",
+      "RG-5/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-05",
+      "5/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-11",
+      "RG-11/10/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-10-11",
+      "11/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-10",
+      "10/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-02-24",
+      "RG-24/2/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-02-24",
+      "24/2/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5115,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18606%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
