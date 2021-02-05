@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-02-05",
+  "issue": "31386",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Isı Sayaçları Muayene Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210205-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210205.htm",
+  "index_sha256": "ddeeb28e96b55289be1ec67c5d717449125c65088926d23c72611dc14656e842",
+  "index_header": "5 Şubat 2021 ... 31386 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210205.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
