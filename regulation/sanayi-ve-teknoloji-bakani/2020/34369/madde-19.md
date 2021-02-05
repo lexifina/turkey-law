@@ -1,0 +1,4 @@
+Tez jürisi
+MADDE 19 – (1) Birim amirinin teklifi ve Bakanın onayı ile uzman yardımcılarının görev yaptığı birimlerde tez jürisi oluşturulur.
+(2) Jüri, uzman yardımcısının görev yaptığı birimin bağlı olduğu bakan yardımcısı veya ilgili birim amiri başkanlığında, birim amirleri, daire başkanları, sanayi ve teknoloji uzmanları veya yükseköğretim kurumlarının ilgili dallarında görev yapan öğretim üyeleri arasından belirlenecek toplam beş üyeden oluşur. (Mülga cümle:RG-5/2/2021-31386) Ayrıca, aynı usulle beş yedek üye tespit edilir.
+(3) Jüri en az dört üye ile toplanır. Jüri üyelerinin her biri, savunma toplantısının ardından teze ilişkin puanlamasını yapar. Yüz tam puan üzerinden yapılacak değerlendirmede, verilen notların aritmetik ortalaması en az yetmiş puan olan tez başarılı kabul edilir. Jüri, her bir üyenin vermiş olduğu puanları ve tezin başarılı veya başarısız sayılma nedenlerini içeren bir değerlendirme raporu hazırlar.

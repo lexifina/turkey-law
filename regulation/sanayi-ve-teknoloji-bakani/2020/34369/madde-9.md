@@ -1,0 +1,2 @@
+Başvuruların incelenmesi ve adayların giriş sınavına kabulü
+MADDE 9 – (1) Giriş sınavının sekretarya hizmetleri, (Değişik ibare:RG-5/2/2021-31386) Genel Müdürlükçe yürütülür. (Değişik ibare:RG-5/2/2021-31386) Genel Müdürlük, başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder. Gerçeğe aykırı beyanda bulunduğu tespit edilenlerin başvurusu geçersiz sayılır. Giriş sınavına katılmaya hak kazanan adaylar Bakanlık internet sitesinde ilan edilir.

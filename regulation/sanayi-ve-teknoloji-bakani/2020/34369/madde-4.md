@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Sanayi ve Teknoloji Bakanını,
+b) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+c) (Değişik:RG-5/2/2021-31386) Genel Müdürlük: Sanayi ve Teknoloji Bakanlığı Yönetim Hizmetleri Genel Müdürlüğünü,
+ç) Birim: Bakanlık merkez teşkilatı hizmet birimlerini,
+d) Birim amiri: Birimin en üst amirini,
+e) Eğitim: Sanayi ve teknoloji uzmanları ile sanayi ve teknoloji uzman yardımcılarının kurum, kuruluş ve işletmelerde tabi tutuldukları uygulamalı eğitimi,
+f) Giriş sınavı: Sanayi ve Teknoloji Uzman Yardımcılığına Giriş Sınavını,
+g) Giriş Sınavı Komisyonu: Sanayi ve Teknoloji Uzmanlığı Giriş Sınavı Komisyonunu,
+ğ) İşletme: Yasal statüsü ne olursa olsun, bir veya birden çok gerçek veya tüzel kişiye ait olup, bir ekonomik faaliyette bulunan birimleri,
+h) Jüri: Tez Jürisini,
+ı) KPSS: Kamu Personeli Seçme Sınavını,
+i) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+j) Tez: Uzmanlık Tezini,
+k) Uzman: Sanayi ve Teknoloji Uzmanını,
+l) Uzman yardımcısı: Sanayi ve Teknoloji Uzman Yardımcısını,
+m) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+n) Yeterlik Sınavı: Sanayi ve Teknoloji Uzmanlığı Yeterlik Sınavını,
+o) Yeterlik Sınav Komisyonu: Sanayi ve Teknoloji Uzmanlığı Yeterlik Sınav Komisyonunu,
+ifade eder.
