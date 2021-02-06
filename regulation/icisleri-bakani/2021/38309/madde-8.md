@@ -1,0 +1,3 @@
+Yetki belgesi başvurusunda istenen teminat bedeli
+MADDE 8 – (1) Yetki belgesi için yapılacak başvuruda teminat bedeli beş milyon Türk Lirasıdır. Bu tutar her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi uyarınca tespit ve ilan edilen yeniden değerleme oranında, takvim yılı başından geçerli olmak üzere artırılarak uygulanır. Bu suretle teminat bedelinin hesaplanmasında bir Türk Lirasının küsuru dikkate alınmaz.
+(2) Yetki belgesinin süresinin uzatılmasında, uzatma başvurusunun yapıldığı tarihteki teminat bedeli hesaplanarak ilave teminat bedeli yetkili aracı kuruma bildirilir. Bildirimden itibaren bir ay içerisinde ilave teminat bedeline ilişkin banka teminat mektubu veya dekontu Bakanlığa sunulur.

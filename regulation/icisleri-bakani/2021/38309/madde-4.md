@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Askıya alma: Yetkili aracı kurumların Kanun ve bu Yönetmelik kapsamında yabancıların iş ve işlemlerinin takibi, belge hazırlama ve ilgili mercilere sunma yetkisinin belli bir süre durdurulmasını,
+b) Bakan: İçişleri Bakanını,
+c) Bakanlık: İçişleri Bakanlığını,
+ç) Başvuru: Kanun ve ilgili mevzuat kapsamında yapılan ikamet izni başvurularını,
+d) Başvuru sahibi: Kanun ve ilgili mevzuat kapsamında ikamet izni başvurusunda bulunan kişiyi,
+e) Büro personeli: Yetkili aracı kurumun temizlik, yazışma, belge hazırlama ve lojistik hizmetleri gibi yan hizmetlerini yapan personelini,
+f) Genel Müdür: Göç İdaresi Genel Müdürünü,
+g) Genel Müdürlük: Göç İdaresi Genel Müdürlüğünü,
+ğ) İkamet izni: Türkiye’de kalmak üzere verilen izin belgesini,
+h) Kanun: 4/4/2013 tarihli ve 6458 sayılı Yabancılar ve Uluslararası Koruma Kanununu,
+ı) Kanuni faiz: 4/12/1984 tarihli ve 3095 sayılı Kanuni Faiz ve Temerrüt Faizine İlişkin Kanunun 1 inci maddesi kapsamında düzenlenen faizi,
+i) KEP hesabı: Bu Yönetmelik kapsamında bildirim yapılmasında kullanılan ve 25/8/2011 tarihli ve 28036 sayılı Resmî Gazete’de yayımlanan Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmelikte tanımlanan elektronik posta hesabını,
+j) MERSİS: Ticaret Bakanlığınca tutulan Merkezi Sicil Kayıt Sistemini,
+k) Sistem: Genel Müdürlük tarafından kurulan başvuru değerlendirme ve izleme sistemini,
+l) Sorumlu müdür: Yetkili aracı kurumda görevli tüm personelin koordinasyon ve denetimi ile yetkili aracı kurumun iş ve işlemlerinden Bakanlığa ve Genel Müdürlüğe karşı sorumlu olan yetkili aracı kurumun sahibi, ortağı veya tam süreli olarak istihdam edilen çalışanını,
+m) Uzman personel: Başvurunun alınmasından sonuçlandırılmasına kadar olan süreçte yabancıların başvurularıyla ilgili iş ve işlemleri takip etmek üzere yetkili aracı kurumda tam süreli olarak istihdam edilen personeli,
+n) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
+o) Yetki belgesi: Kanun kapsamında yabancıların ikamet izni başvurularına ilişkin iş ve işlemlerin takibi ile her türlü belgeyi hazırlamak ve ilgili mercilere sunmak için gerekli şartları taşıyan aracı kurumlara Bakanlık tarafından yetki çevresi belirlenerek verilen belgeyi,
+ö) Yetkili aracı kurum: Nitelikleri ve görev çerçevesi bu Yönetmelikle belirlenmiş ve Bakanlık tarafından yetkilendirilen kurum veya kuruluşu,
+ifade eder.
