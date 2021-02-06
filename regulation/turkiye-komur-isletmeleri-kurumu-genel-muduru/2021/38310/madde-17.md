@@ -1,0 +1,2 @@
+Sınav sonuçlarının duyurulması
+MADDE 17 – (1) Yazılı sınav sonucu, yazılı sınavın yapıldığı tarihten itibaren 20 gün içinde duyurulur. Sözlü sınav ise yazılı sınav sonucunun duyurulmasından itibaren 30 gün içinde tamamlanır. Yazılı ve sözlü sınav sonuçlarının ortalamalarının alınması suretiyle tespit edilecek olan nihai sonuçlar ise yazılı sınav sonuçlarının duyurulmasından itibaren 2 ay içinde Kişisel Verilerin Korunması Kanunu ve ilgili mevzuat hükümlerine uygun biçimde Kurumun sınav için oluşturduğu yazılım üzerinden duyurulur.
