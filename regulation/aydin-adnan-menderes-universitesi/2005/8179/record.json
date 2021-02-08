@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 15 — Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2005-05-27",
+      "27.05.2005",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-02-08",
+      "RG-8/2/2021-31389",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-08",
+      "RG-8/2/2021-31389",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-08",
+      "RG-8/2/2021-31389",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-08",
+      "RG-8/2/2021-31389",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-08",
+      "RG-8/2/2021-31389",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-08",
+      "8/2/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-8/2/2021-31389",
+  "first_law": null,
+  "gazette": "25827",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-08",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Aydın Adnan Menderes Üniversitesi",
+  "issuer_slug": "aydin-adnan-menderes-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/aydin-adnan-menderes-universitesi/2005/8179",
+  "published": "2005-05-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=8179&MevzuatTertip=5",
+  "source_bytes": 38598,
+  "source_id": "8.5.8179",
+  "source_sha256": "5c0a63f39702973ee328e626238b7864630e4f4d5928336027db1da69a9e1e00",
+  "text_status": "current-consolidated",
+  "title": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ BİLİM VE TEKNOLOJİ\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 176,
+  "word_count": 1254
+}
