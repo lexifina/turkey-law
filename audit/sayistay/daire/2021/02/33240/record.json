@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10819",
+  "decision_date": "2021-02-09",
+  "source_id": 33240,
+  "chamber": "1",
+  "ilam_number": "45",
+  "item_number": 33,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33240/",
+  "source_sha256": "ba263f0aa4d2015b282cb3d907abe52b1ee11101a460ff6775b023b8bef03392",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
