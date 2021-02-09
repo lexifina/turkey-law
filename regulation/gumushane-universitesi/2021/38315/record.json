@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-09",
+      "09.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31390",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-09",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2021/38315",
+  "published": "2021-02-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38315&MevzuatTertip=5",
+  "source_bytes": 34298,
+  "source_id": "8.5.38315",
+  "source_sha256": "0fec39fc8ddbf8aa845038dfc631075211c88ea0ee398225bdaeea27aeddcee7",
+  "text_status": "as-enacted",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ \r\nYÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 704
+}
