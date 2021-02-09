@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/115",
+  "source_id": 6928,
+  "date": "2021-02-09",
+  "title": "“Bankaya olan borcundan dolayı ilgili kişinin yakınına Bankanın sözleşmeli avukatı tarafından ilgili kişinin borç bilgisinin iletilmesi” hakkında Kişisel Verileri Koruma Kurulunun 09/02/2021 tarihli ve 2021/115 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6928/2021-115",
+  "source_sha256": "43d4b2ed02cd93d1d1426f6682db08d855607f955124e1ca798fba06199bff72",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
