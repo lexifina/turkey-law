@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38316",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 525)",
+  "number": "38316",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/38316",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38316&MevzuatTertip=5",
+  "source_sha256": "fb6d044e65a0bedaa9d3a6819f41f2f79a26856e3da4d1bde74f0a0f544d1261",
+  "source_bytes": 10804,
+  "published": "2021-02-09",
+  "gazette": "31390",
+  "in_force": "2021-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 250,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38316-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
