@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48975",
+  "decision_date": "2021-02-10",
+  "source_id": 22584,
+  "chamber": "6",
+  "file_number": "47078",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22584/",
+  "source_sha256": "43da5f10cdb193b1c5531802d1a77d0df3c231fbd2bdadea6f055bc4769241dd",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
