@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "48934",
+  "decision_date": "2021-02-10",
+  "source_id": 22513,
+  "chamber": "8",
+  "file_number": "46136",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2017",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/22513/",
+  "source_sha256": "6d921e56e0075745438689df5146858f4f152b1cb2ec3448772a9f1a6b4787aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
