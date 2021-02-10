@@ -1,0 +1,24 @@
+{
+  "number": "75",
+  "number_as_published": "75",
+  "year": 2021,
+  "title": "Nazım İmar Planı Değ. (Siverek-Camikebir)",
+  "decision_date": "2021-02-10",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11840/106/nazim-imar-plani-deg-siverek-camikebir",
+  "official_document": null,
+  "source_sha256": "f615855e36c62119affdfb33d8c8acc22af5bd37c019a41a9445916009ae8604",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-02-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.02.2021 tarih ve 75 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-07-13",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
