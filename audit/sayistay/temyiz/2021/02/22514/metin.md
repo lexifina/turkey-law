@@ -1,0 +1,5 @@
+Yapım işinde; demir içeren imalatta % 7 ağırlık fazlası için yersiz ödeme yapılması:
+
+4- 186 sayılı İlamın 3. maddesinin (A) bendiyle verilen … TL’nin tazminine dair hükümde Diğer Sorumlu sıfatı ile iştiraki bulunan …’un itiraz başvurusu üzerine düzenlenen 46134 sayılı dosya, 10.02.2021 tarihli ve 48931 tutanak sayılı Temyiz Kurulu Kararı (4. maddesi) ile; -tazmin hükmünün konunun esası yönünden yerinde olduğu ifade edilerek- temyiz talebinde bulunan Gerçekleştirme Görevlisinin sorumlular arasından çıkarılmasını ve buna göre sorumluluk yönünden yeniden bir tespit yapılmasını teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; yukarıda adı geçen sorumluyu ilgilendiren ve aynı mahiyette olan 46136 sayılı işbu dosyanın da sözü edilen (46134 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 10.02.2021 tarih ve 48934 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
