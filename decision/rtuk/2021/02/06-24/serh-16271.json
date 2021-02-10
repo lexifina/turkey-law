@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2021/06",
+  "meeting_date": "2021-02-10",
+  "meeting_date_as_published": "10.2.2021",
+  "decision_no": "24",
+  "source_id": 16271,
+  "title": "RTÜK kararı 2021/06-24 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/16271",
+  "source_sha256": "f36c732b59cd2f893a1a7219af79df6547fd752a44ebf77579e2d99dc38fa9b6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
