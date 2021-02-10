@@ -1,0 +1,350 @@
+10 Şubat 2021 ÇARŞAMBA
+Resmî Gazete
+Sayı : 31391
+YÖNETMELİK
+Çevre ve Şehircilik Bakanlığından:
+COĞRAFİ BİLGİ
+SİSTEMLERİNE İLİŞKİN OLUŞTURULAN KURULLAR
+VE ÇALIŞMA HEYETLERİ HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam,
+Dayanak ve Tanımlar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı ve kapsamı; 7/11/2019
+tarihli ve 30941 sayılı Resmî Gazete’de yayımlanan 49 sayılı Coğrafi Bilgi
+Sistemleri Hakkında Cumhurbaşkanlığı Kararnamesinde oluşturulan kurulların
+çalışma usul ve esasları ile çalışma heyetleri ve alt çalışma gruplarının
+oluşturulması ve bunların çalışma usul ve esaslarını belirlemektir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 14/2/2020 tarihli ve 7221
+sayılı Coğrafi Bilgi Sistemleri ve Bazı Kanunlarda Değişiklik Yapılması
+Hakkında Kanun, Coğrafi Bilgi Sistemleri Hakkında Cumhurbaşkanlığı
+Kararnamesi ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan
+1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı
+Kararnamesinin 97 nci ve 108 inci madde hükümlerine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 3 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Ağ hizmetleri: Elektronik ortamda veri erişimi,
+paylaşımı ve kullanımı için coğrafi veri ve veri bilgisinin aranması,
+görüntülenmesi, dönüştürülmesi, indirilmesi ve bedelli veya bedelsiz veri
+paylaşımına imkân sağlayan hizmetlerini,
+b) Bakanlık: Çevre ve Şehircilik Bakanlığını,
+c) Birlikte çalışabilirlik: Farklı işlevsel
+birimler arasında, bu birimlerin benzersiz karakteristiği hakkında bilgi
+sahibi olmadan ya da en az bilgiyle, iletişim kurabilme, program yürütebilme,
+veri gönderebilme ve alabilme yeteneğini,
+ç) Coğrafi
+bilgi: Öznitelik bilgisi ve topolojik bilgiyi içeren nitelik kazandırılmış
+coğrafi veriyi,
+d) Coğrafi bilgi sistemi: Her türlü coğrafi
+verinin; üretilmesi, temini, depolanması, işlenmesi, yönetilmesi, analiz
+edilmesi, paylaşılması, sunulması ve güncel tutulması için gerekli olan
+donanım, yazılım, insan kaynağı, standartlar ve yöntemler bütününü,
+e) Coğrafi veri: Konum bilgisi içeren her türlü
+veriyi,
+f) Coğrafi veri hizmeti: Coğrafi veri ve veri
+bilgisinin standartlara uygun olarak paylaşımına yönelik iş ve işlemleri,
+g) Coğrafi veri teması: Belirli bir konuya ilişkin
+olarak ulusal veya uluslararası standartlara uygun hazırlanan coğrafi veri
+topluluğunu,
+ğ) Çalışma heyeti: Coğrafi bilgi hizmetleri
+kapsamında veri tanımlama dokümanı hazırlama, inceleme, araştırma,
+geliştirme, projelendirme ve danışmanlık faaliyetlerini yürüten heyeti,
+h) Genel Müdürlük: Coğrafi Bilgi Sistemleri Genel
+Müdürlüğünü,
+ı) Kamu kurum ve kuruluşları: Coğrafi veri üreten,
+paylaşan ve kullanan genel bütçe kapsamındaki kamu idareleri ve özel
+bütçeli idareler, bunlara bağlı döner sermayeli kuruluşlar, düzenleyici ve
+denetleyici kurumlar, sosyal güvenlik kurumları, kamu iktisadi teşebbüsleri
+ve bunların bağlı ortaklıkları ile müessese ve işletmeleri, il özel idareleri,
+belediyeler ve bağlı kuruluşları ile bunların kurduğu veya üyesi olduğu
+mahalli idare birlikleri, müessese, işletme ve bunların döner sermayeli
+kuruluşları ile özel kanunla kurulan kamu şirket ve kuruluşlarını,
+i) Kurul: Türkiye Coğrafi Bilgi Sistemi Kurulunu,
+j) Sorumlu kurum: Coğrafi veri sorumluluk
+matrisinde yer alan coğrafi veri temasının üretim, uyumlaştırma,
+güncelleme, güvenlik ve paylaşımından sorumlu olan ve ilgili temaya ait
+veriyi üreten diğer kamu kurum ve kuruluşlarıyla gerekli koordinasyonu
+sağlayan kamu kurum ve kuruluşunu,
+k) Tanımlama dokümanı: Coğrafi veri temalarına
+ilişkin uygulama kurallarını, teknik esasları ve standartları belirleyen
+dokümanı,
+l) Türkiye Coğrafi Bilgi Sistemi: Coğrafi verilere,
+veri setlerine ve veri servislerine erişimi ve paylaşımı kolaylaştırmak
+amacıyla ulusal kaynakların verimli bir şekilde kullanılması, bilgi
+teknolojilerinden istifade edilmesi ile süreç, koordinasyon ve takip
+mekanizmalarının işletilmesi için gerekli düzenlemelerin ve planlamanın
+yapılması ve bunların icra edilmesini sağlayan sistemi,
+m) Tema çalışma heyeti: Veri tanımlama dokümanı
+hazırlama faaliyetini yürüten çalışma heyetini,
+n) Temel çalışma heyeti: Coğrafi bilgi hizmetleri
+kapsamında inceleme, araştırma, geliştirme, projelendirme ve danışmanlık
+faaliyetlerini yürüten çalışma heyetini,
+o) Ulusal Coğrafi Bilgi Platformu: Bakanlık
+tarafından oluşturulan e-Devlet kapısına entegre elektronik altyapıyı,
+ö) Ulusal Coğrafi Veri Paylaşım Matrisi: Kamu kurum
+ve kuruluşları ile gerçek ve tüzel kişilerin; coğrafi veriye erişim,
+paylaşım ve kullanım yetkilerini tanımlayan matrisi,
+p) Ulusal Coğrafi Veri Sorumluluk Matrisi: Coğrafi
+veri temaları ile bu temalardan sorumlu olan kamu kurum ve kuruluşlarını
+gösteren matrisi,
+r) Veri bilgisi: Coğrafi veri hakkındaki
+tanımlayıcı ve açıklayıcı bilgileri, meta veriyi,
+s) Yürütme Kurulu: Türkiye Coğrafi Bilgi Sistemi
+Yürütme Kurulunu,
+ifade eder.
+İKİNCİ BÖLÜM
+Kurullar
+Türkiye
+Coğrafi Bilgi Sistemi Kurulu
+MADDE 4 – (1) 49 sayılı Cumhurbaşkanlığı Kararnamesinin 8
+inci maddesi ile teşekkülü, görevleri ve toplanma tarihleri belirlenen
+Türkiye Coğrafi Bilgi Sistemi Kurulunun; toplantıya çağırma ve katılım,
+toplantı gündemi, kararların alınması, çalışma şekli ve üyelik süresine
+ilişkin hususlar aşağıdadır:
+a) Toplantı çağrısı yazılı ve sözlü olarak yapılır.
+b) Türkiye Coğrafi Bilgi Sistemi Kurulunun kurum
+temsilcisi üyelerinin üyelikleri, kurumlarındaki görevleri süresince devam
+eder.
+c) Kurum temsilcisi üyelerin kanuni izin, geçici
+görev, görevden uzaklaştırma ve benzeri nedenlerle kurumlarındaki
+görevlerinde bulunmamaları halinde, yerlerine fiilen bu görevi yürütenler
+katılır.
+ç) Kurulun toplantı gündemi Türkiye Coğrafi Bilgi
+Sistemi Yürütme Kurulu tarafından belirlenir. Gündemin belirlenmesini
+müteakip Türkiye Coğrafi Bilgi Sistemi Kurulu toplantıya çağrılır. Toplantı
+sayısına bir sınırlama getirilmez. Kurul salt çoğunlukla toplanır,
+toplantıya katılan üyelerin salt çoğunluğu ile karar verilir. Ancak karar
+yeter sayısı dörtten az olamaz. Eşitlik olması durumunda Başkanın oy
+kullandığı yönde karar alınır. Kararlar; Kanun ve ilgili mevzuattaki
+dayanakları ile bilimsel gerekçeleri belirtilerek yazılır.
+d) Türkiye Coğrafi Bilgi Sistemi Kurulu, Kurulda
+görüşülmesi için gönderilen dokümanların tam olarak Kurula ibraz edildiği
+tarihten itibaren, talepleri en geç iki toplantı içinde karara bağlar.
+e) Kurul aldığı kararlarda ilgili kararın Resmî
+Gazete’de yayımlanmasına ilişkin hükmü belirtir.
+Türkiye
+Coğrafi Bilgi Sistemi Yürütme Kurulu
+MADDE 5 – (1) 49 sayılı Cumhurbaşkanlığı Kararnamesinin 9
+uncu maddesi ile teşekkülü, görevleri ve toplanma tarihleri belirlenen
+Türkiye Coğrafi Bilgi Sistemi Yürütme Kurulunun; toplantıya çağırma ve
+katılım, toplantı gündemi, kararların alınması, çalışma şekli ve üyelik
+süresine ilişkin hususlar aşağıdadır:
+a) Toplantı çağrısı yazılı ve sözlü olarak yapılır.
+b) Yürütme Kurulu üyelerinde olan değişiklikler ve
+vekâleten katılımlar en kısa sürede Yürütme Kurulu sekretaryasına
+bildirilir.
+c) Yapılan toplantıda bir sonraki olağan
+toplantının günü belirlenir.
+ç) Yürütme Kurulu üyelerinin üyelikleri,
+kurumlarındaki görevleri süresince devam eder. Yürütme Kurulu üyelerinin
+kanuni izin, geçici görev, görevden uzaklaştırma ve benzeri nedenlerle
+kurumlarındaki görevlerinde bulunmamaları halinde, yerlerine fiilen bu
+görevi yürütenler katılır.
+d) Mahalli idareler, diğer kamu kurum ve
+kuruluşları Yürütme Kurulunda görüşülmesini istedikleri hususları bağlı,
+ilgili veya ilişkili oldukları Bakanlık aracılığıyla Yürütme Kurulu sekretaryasına
+bildirir. Toplantı gündemi Genel Müdürlükçe belirlenir.
+e) Toplantı gündemini oluşturan dokümanlar üyelere
+en az 5 gün öncesinden gönderilir, ek süre verilmez.
+f) Yürütme Kurulu üyeleri toplantıya gündemle
+ilgili hazırlıklı gelir.
+g) Yürütme Kurulu tarafından düzeltilmesi gerektiği
+bildirilen konular Bakanlık tarafından değerlendirilerek gerekli görülürse
+çalışma gruplarına gönderilir ve tekrar Yürütme Kuruluna sunulur.
+ğ) Kurul tarafından düzeltilmesi gerektiği
+bildirilen konular Yürütme Kuruluna gönderilir. İlgili konular, Yürütme
+Kurulu tarafından incelenerek gerek görülmesi durumunda Genel Müdürlüğe
+iletilir. Genel Müdürlük konu ile ilgili çalışma heyet/heyetlerine görev
+verir. Çalışma heyet/heyetlerinden gelen rapor Genel Müdürlük tarafından Yürütme
+Kuruluna sunulur.
+h) Yeni coğrafi tema teklifleri gerekçeleri ile
+birlikte Genel Müdürlüğe sunulur. Genel Müdürlük ilgili teklifi çalışma
+heyet/heyetlerine iletir. Çalışma heyet/heyetlerinden gelen rapor Genel
+Müdürlük tarafından Yürütme Kuruluna sunulur. Yürütme Kurulu tarafından
+yapılan oylama sonucu yeni tema teklifi kabul ya da reddedilir.
+(2) Yürütme Kurulu Coğrafi bilgi hizmetlerinin
+uygulanmasına yönelik koordinasyonu sağlar.
+Sekretarya,
+kararların alınması ve duyurulması
+MADDE 6 – (1) Türkiye Coğrafi Bilgi Sistemi Kurulu ve
+Türkiye Coğrafi Bilgi Sistemi Yürütme Kurulunun sekretarya hizmetleri Genel
+Müdürlük tarafından yürütülür.
+(2) Sekretarya aşağıdaki hizmetleri yürütür:
+a) Kurul kararlarına ilişkin gerekli ödeneklerin
+ilgili kurumların bütçelerinde yer almasına ilişkin öneri taslaklarını
+hazırlamak ve gerekli yazışmaları yürütmek.
+b) Kurul toplantılarının tutanaklarını tutmak.
+c) Kurul kararlarını ilgili bakanlık, kamu kurum ve
+kuruluşlarına bildirmek ve uygulanmasını takip etmek.
+ç) Üyelerin toplantıya hazırlıklı gelmesi için
+dokümanları kurumlara önceden göndermek.
+d) Coğrafi bilgi hizmetlerinin uygulanmasına
+yönelik koordinasyonu sağlamak.
+e) Kamu kurum ve kuruluşlarınca Kurula bildirilmiş
+olan coğrafi bilgi sistemine ilişkin faaliyet raporlarının yıllık rapor
+halinde yayımlanmasını sağlamak.
+f) Ulusal Coğrafi Veri Sorumluluk Matrisi ve Ulusal
+Coğrafi Veri Paylaşım Matrisini hazırlayarak Kurulun onayına sunmak.
+g) Kurulun olağan ve olağanüstü toplantılarını
+düzenlemek.
+ğ) Kurul üyelerinde olan değişiklikleri ilgili
+kurumlara bildirmek.
+h) Kurul ve Yürütme Kurulunun yazışma, haberleşme
+ve yayın gibi sekretarya işlerini ve buna ilişkin çalışmaların
+koordinasyonunu yürütmek.
+ÜÇÜNCÜ BÖLÜM
+Çalışma
+Heyetlerinin Oluşturulması ve Nitelikleri
+Çalışma
+heyetlerinin oluşturulması
+MADDE 7 –
+(1) Çalışma heyetlerinin adı ve
+görev tanımları tablosu; coğrafi veri temaları, coğrafi bilgi sistemi
+konusunda temel konular veya gelen talepler göz önünde bulundurularak
+Bakanlık tarafından belirlenir. Bakanlık tarafından onaylanan tablo her yıl
+Ocak ayında ulusal coğrafi bilgi platformunda yayımlanır. İhtiyaç duyulması
+durumunda çalışma heyetlerinin adı ve görev tanımları güncellenir ve
+coğrafi bilgi platformunda yayımlanır.
+(2) Kamu kurum ve kuruluşları bir sonraki yıl için
+ihtiyaç duydukları teknik ve idari danışmanlık hizmetlerine yönelik olarak
+çalışma heyeti oluşturulması teklifini en geç Aralık ayına kadar yazılı
+olarak Genel Müdürlüğe iletir. Söz konusu teklif;
+a) Çalışmanın konusunu,
+b) Çalışmanın amacını,
+c) Çalışma heyeti ile ilgili kurum kuruluşları ve
+çalışma heyetinin başkanını,
+ç) Öngörülen asgari ve azami çalışma süresini,
+d) Çalışma heyetinin öngörülen bütçesini,
+içerir.
+Çalışma
+heyeti üyelik esasları
+MADDE 8 –
+(1) Çalışma heyetlerinin üye
+sayısı ve görev süresi Bakanlık tarafından belirlenir.
+(2) Çalışma heyetinde; kamu kurum ve kuruluşları,
+üniversite, sivil toplum kuruluşları, yerel yönetimlerin temsilcileri ile
+gerçek kişiler üye olarak yer alabilir. Bir kişi üçten fazla çalışma
+heyetinde görev alamaz.
+(3) Genel Müdürlük çalışma heyeti için ilgili kamu
+kurum ve kuruluşları, üniversite, sivil toplum kuruluşları ve yerel
+yönetimlerden üye talep edebilir. Üye talep edilen kurumlar konusunda
+yetkin personeli bildirir.
+(4) Kurumlar ve gerçek kişiler ise ulusal coğrafi
+bilgi platformu aracılığı ile yapılan duyuru üzerine üyelik başvurusunda
+bulunabilir. Bakanlık başvuruları değerlendirerek üyelik işlemini
+sonuçlandırır.
+(5) Genel Müdürlük her çalışma heyetine üye verir.
+(6) Genel Müdürlük heyetlere ait üyelerin isim
+listesini ve toplantı tarihlerini hazırlar.
+(7) Çalışma heyeti üyelerinin yer aldığı liste ile
+toplantı tarihleri Genel Müdür tarafından onaylanır.
+DÖRDÜNCÜ BÖLÜM
+Çalışma
+Heyetlerinin Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esasları
+Çalışma
+heyetinin görevleri
+MADDE 9 –
+(1) Çalışma heyetinin görevleri
+aşağıda belirtilmiştir:
+a) Ulusal Coğrafi Veri Sorumluluk Matrisinde yer
+alan coğrafi veri temalarına ait tanımlama dokümanlarını hazırlamak ve
+Genel Müdürlüğe sunmak.
+b) Coğrafi bilgi sistemi kapsamında özel ihtisas
+gerektiren konularla ilgili ulusal veya uluslararası yayınları inceleyerek
+araştırma, geliştirme, projelendirme ve danışmanlık faaliyetleri yapmak.
+c) Bakanlıkça düzenlenecek toplantı, konferans,
+sempozyum, panel ve benzeri faaliyetlerin hazırlık çalışmalarına katkı
+sağlamak.
+Çalışma
+heyetinin çalışma usulü
+MADDE 10
+– (1) Çalışma heyeti üyelerine
+Genel Müdürlük tarafından üyelik bildirimi yapılır.
+(2) Çalışma
+heyeti, çalışmasını Bakanlıkça belirlenen toplantı takvimine göre yürütür.
+Çalışma heyeti gerekçesi ile birlikte ilave toplantı talep edebilir.
+Bakanlığın onaylaması ile ilave toplantı yapılabilir.
+(3) İlk toplantıya Genel Müdürlükten katılan üye
+başkanlık eder. Çalışma heyetleri ilk toplantıda heyetin başkanını seçer,
+çalışma usulü ve iş planını belirler ve Genel Müdürlüğe sunar.
+(4) Çalışma heyeti, her toplantı sonunda
+Genel Müdürlük tarafından oluşturulan standart şablonu kullanarak toplantı
+tutanağı hazırlar ve Genel Müdürlüğe raporlar. Gerek görülmesi durumunda
+raporlar, platformdan yayımlanır.
+(5) Çalışma heyeti toplantısına; kamu kurum
+ve kuruluşları, üniversite, sivil toplum kuruluşlarının, yerel yönetimler
+ve tüzel kişilerin temsilcileri ile gerçek kişilerin görüşleri alınmak
+üzere davet edilebilir.
+(6) Çalışma
+heyetleri kendi içinde alt çalışma grupları oluşturabilir.
+(7) Çalışma heyetinden gelen talepler ve raporlar
+Bakanlık tarafından değerlendirilerek karara bağlanır.
+Çalışma
+heyeti raporu
+MADDE 11
+– (1) Tema çalışma heyeti, Genel
+Müdürlük tarafından oluşturulmuş veri tanımlama şablonuna uygun olarak veri
+tanımlama dokümanını planlanan takvime göre son toplantısının ardından en
+geç 15 gün içinde hazırlar ve Genel Müdürlüğe sunar.
+(2) Temel çalışma heyeti; Genel Müdürlük tarafından
+oluşturulmuş standart şablonu kullanarak çalışma konusu ile ilgili
+planladığı, yürüttüğü ve gerçekleştirdiği faaliyetleri içeren çalışma
+heyeti raporunu planlanan takvime göre son toplantısının ardından en geç 15
+gün içinde hazırlar ve Genel Müdürlüğe sunar.
+(3) Çalışma heyetlerince hazırlanan rapor, Genel
+Müdürlük tarafından değerlendirilerek Yürütme Kuruluna sunulur.
+(4) Çalışma heyeti raporunun değerlendirilmesi
+aşamasında, Genel Müdürlük tarafından gerekli görülmesi halinde, raporun
+konusu hakkında gerekli mesleki niteliklere sahip uzman kişilerden oluşan
+rapor değerlendirme kurulu oluşturulabilir.
+Çalışma
+heyeti raporları ile dokümanların yayımı ve dosyalanması
+MADDE 12
+– (1) Çalışma heyeti tarafından
+hazırlanan çalışma heyeti raporunun ve veri tanımlama dokümanının yayın,
+dağıtım ve kullanım haklarının sahibi Bakanlıktır. Bakanlık izni olmadan
+çoğaltılamaz.
+(2) Çalışma heyeti raporu ve veri tanımlama
+dokümanı ile ilgili hazırlık çalışmalarını içeren dokümanlar, heyet
+çalışması sonuçlanıp Genel Müdürlüğe sunulmadan önce de hiçbir yerde ve
+yazılı-sözlü hiçbir biçimde yayımlanamaz.
+(3) Çalışma heyetlerine ait karar ve yazışmalar,
+tutanaklar, belgeler, kararlar ve raporlar çalışma grup dosyası içerisinde
+Genel Müdürlük sekretarya birimi tarafından arşivde saklanır.
+Çalışma
+heyetlerinin ve üyeliklerinin sonlandırılması
+MADDE 13
+– (1) Çalışma heyetinin görevini
+tamamlaması ile Bakanlık tarafından çalışma heyeti ve üyelikleri
+sonlandırılır.
+(2) Çalışma heyeti üyesinin üyelikten ayrılmak
+istemesi durumunda, talebini kurumuna yazılı olarak beyan eder. İlgili
+kurum uygun görmesi durumunda Bakanlığa bildirerek çalışma heyeti üyesini
+değiştirebilir.
+(3) Bakanlık tarafından ihtiyaç duyulması halinde
+çalışma heyeti üyelerinin üyeliklerinin sonlandırılması için ilgili kuruma
+öneri yapabilir.
+(4) Gerçek kişiler ise ulusal coğrafi bilgi
+platformu aracılığı ile üyelikten ayrılma talebini Bakanlığa bildirir.
+Bakanlık talebi değerlendirerek üyelikten ayrılma işlemini sonuçlandırır.
+(5) Bir yıl içinde yıllık izin, hastalık ve mazeret
+izinleri hariç toplam dört veya üst üste iki toplantıya katılmayan heyet
+üyesinin üyeliği sona erer ve ilgilisine yazı ile bildirilir.
+Çalışma
+heyeti üyelerinin huzur hakkı
+MADDE 14
+– (1) Çalışma heyetlerinde görev
+alanlara 49 sayılı Cumhurbaşkanlığı Kararnamesinin 18 inci maddesinin
+ikinci fıkrasında belirtilen esaslar çerçevesinde huzur hakkı ödenir.
+(2) Çalışma heyeti için bu Yönetmelik kapsamında
+yapılacak harcamalar Bakanlığın bütçesine konulacak ödenekten ve/veya
+Bakanlık Döner Sermaye İşletmesinden karşılanır.
+Yürürlük
+MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 16 – (1) Bu Yönetmelik hükümlerini Çevre ve Şehircilik
+Bakanı yürütür.
