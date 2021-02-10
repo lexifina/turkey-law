@@ -1,0 +1,5 @@
+Haksız fesih neticesinde kesin teminatın gelir kaydedilmemesi:
+
+186 sayılı İlamın 29. maddesiyle verilen … TL’nin tazminine dair hükümde Diğer Sorumlu sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 45506 sayılı dosya, 10.02.2021 tarihli ve 48925 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Yönetim Kurulu Kararı Üzerinde İmzası Bulunan) Diğer Sorumlu sıfatıyla temyiz talep eden …’i)] ilgilendiren ve aynı mahiyette olan 46144 sayılı işbu dosyanın da sözü edilen (45506 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 10.02.2021 tarih ve 48929 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
