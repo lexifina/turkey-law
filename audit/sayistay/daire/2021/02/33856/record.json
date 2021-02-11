@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "451",
+  "decision_date": "2021-02-11",
+  "source_id": 33856,
+  "chamber": "5",
+  "ilam_number": "90",
+  "item_number": 5,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33856/",
+  "source_sha256": "5ef9359a04448561a5012bfdba4de1d7d880918f0764fdf6ba0e89a68dd1f324",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
