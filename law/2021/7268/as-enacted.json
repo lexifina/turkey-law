@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7268",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Kültür Merkezlerinin Kuruluşu, İşleyişi ve Faaliyetleri Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-11",
+  "gazette_issue": "31392",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210211-1.htm",
+  "source_sha256": "8cb158eaa937068be61b9cab249d87865d7232ca329680a94afe43e07220e566",
+  "text_sha256": "6788387b973142e92eb671b89de022ab2a2ac9d272e1e842f095f7ddfe862e76",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/11/31392-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210211-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
