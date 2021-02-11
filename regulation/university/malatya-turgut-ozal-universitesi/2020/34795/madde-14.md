@@ -1,0 +1,3 @@
+Mazeretler
+MADDE 14 – (1) Mazereti nedeniyle devamsızlık gösterenlerin mazeretleri Fakülte Yönetim Kurulu tarafından karara bağlanır. Öğrencinin, eğitim-öğretim süresinde, sağlık nedeni ile mazeretli sayılabilmesi için hastalığını sağlık raporu ile belgelendirmesi ve bu raporun Fakülte Yönetim Kurulunca kabul edilmesi gerekir. Sağlık mazereti Fakülte Yönetim Kurulunca kabul edilen öğrenci, rapor süresince derslere devam edemez ve sınavlara giremez.
+(2) Mazeretlerle ilgili her türlü müracaat, mazeretin bitim tarihinden itibaren en geç bir hafta içinde Dekanlığa yapılır. Daha sonra yapılan müracaatlar, geç sunulan raporlar veya yalnız sınav tarihlerini kapsayan raporlar işleme konulmaz.

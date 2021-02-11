@@ -1,0 +1,3 @@
+Staj sınavı
+MADDE 24 – (1) Dönem IV ve V’te her stajın sonunda o staj eğitim ve öğretim içeriğini kapsayan staj sınavı yapılır. Staj sınavı yazılı ya da hem yazılı hem sözlü ve/veya uygulamalı olarak yapılır. Staj sınavının uygulama şekline ve hangi ölçme değerlendirme yönteminin kullanılacağına ilgili stajın anabilim dalı akademik kurulu karar verir. Not takdirinde öğrencinin staj süresindeki çalışma ve başarısı da göz önüne alınır. Yazılı sınavının, staj sonu notuna katkısı en az %40’tır. Staj sınavından öğrencinin başarılı sayılabilmesi için staj sınavı notunun en az C2 olması zorunludur. Staj sınavları ve staj bütünleme sınavları için ayrıca mazeret sınavı açılmaz.
+(2) Dönem IV ve V’te sınav sonuçları öğrenciye sadece not olarak bildirilir.

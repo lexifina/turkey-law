@@ -1,0 +1,2 @@
+Kayıt yenileme ve öğrenci katkı payı
+MADDE 9 – (1) Öğrenciler öğrencilik haklarından ve muafiyetlerinden yararlanabilmek ve sınavlara girebilmek için, her eğitim-öğretim yılının başında kayıt yenilemekle yükümlüdürler. Öğrenci katkı payı/öğrenim ücreti ödemesi gerekirken ödeme yapmayan öğrencilerin kayıt işlemleri tamamlanmış sayılmaz ve bu durumda bulunan öğrenciler öğrencilik haklarından istifade edemezler. Öğrencinin kayıt yenilemediği yıl öğrenim süresinden sayılır.

@@ -1,0 +1,2 @@
+Ön şart ve dönem tekrarı
+MADDE 29 – (1) Tıp doktorluğu eğitim-öğretiminde her dönem bir sonraki dönemin ön şartıdır. Bu nedenle bir dönemi geçemeyen öğrenci bir üst döneme devam edemez. Öğrenci dönem I, II ve III’te kaldığı dönemi, dönem IV ve V’te kaldığı stajları ve dönem VI’da kaldığı intörnlük çalışmalarını aynı şekilde tekrarlar. Ancak ortak zorunlu dersler ve seçmeli dersler bu hükümlerin dışındadır. Bu derslerle ilgili olarak 22 nci maddenin birinci fıkrasının (b) bendi hükümleri uygulanır.
