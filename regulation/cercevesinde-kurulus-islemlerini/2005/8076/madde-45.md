@@ -1,0 +1,4 @@
+Oda denetleme kurulunun oluşumu ve çalışma şekli
+Madde 45 — (Değişik birinci fıkra: RG-19/06/2005-25850) Oda Denetleme Kurulu, Oda Genel Kurulunca iki yıl süreyle seçilen beş asil beş yedek üyeden oluşur. Oda denetlemelerinde Türk Mühendis ve Mimar Odaları Birliği ve Odalar Denetim Yönetmeliği uygulanır.
+Denetleme Kurulu salt çoğunlukla toplanır. Mazeretsiz olarak, üst üste üç kez toplantıya ya da denetlemelere katılmayan Oda Denetleme Kurulu üyesi, Denetleme Kurulu üyeliğinden çekilmiş sayılır. Yerine sıradaki yedek üye geçer.
+Görevden ayrılan ya da çekilmiş sayılan Oda Denetleme Kurulu üyeleri yerine geçecek üye kalmaz ve Kurul üye sayısı salt çoğunluğun altına düşerse Oda Olağanüstü Genel Kurul toplantısı yapılarak, yeniden Denetleme Kurulu asil ve yedek üyeleri seçilir. Yeniden seçilen Denetleme Kurulu ilk Olağan Genel Kurul toplantısına kadar görev yapar.

@@ -1,0 +1,2 @@
+Oda genel kurulunda karar yeter sayısı
+Madde 18 — Oda Genel Kurulu, kararlarını oylamaya katılanların çoğunluğu ile alır. Oylarda eşitlik olursa, Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır. Yalnız Oda yönetmeliklerinde yapılacak değişiklikler için, oylamaya (Değişik ibare:RG-5/3/2015-29286) katılan delegelerin üçte ikisinin olumlu oyu gerekir. Oylamaya (Değişik ibare:RG-5/3/2015-29286) katılan delegelerin sayısı, hazirun listesinin dörtte birinin altına düştüğünde, yönetmelik değişikliği yapılamaz.

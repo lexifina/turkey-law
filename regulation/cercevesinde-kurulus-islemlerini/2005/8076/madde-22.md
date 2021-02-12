@@ -1,0 +1,2 @@
+Oda genel kurulunun olağanüstü toplantıya çağırılmaması
+Madde 22 — Oda Yönetim Kurulunu oluşturan asil ve yedek üyelerin hepsinin birden çekilmesi ve boşalan Yönetim Kurulu üyeliğine çağrılacak yedek üye kalmadığı durumda, Oda Genel Kurulu, yapılan başvuruya karşın geçerli neden olmaksızın Oda Yönetim Kurulu ya da TMMOB Yönetim Kurulu tarafından Olağanüstü toplantıya çağrılmadığı taktirde, Odaya kayıtlı üye sayısının beşte birinin yetkili mahkemeye başvurmaları ile toplantının yapılması istenebilir.

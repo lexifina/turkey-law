@@ -1,0 +1,2 @@
+Şube yönetim kurulunun oluşumu ve görev dağılımı
+Madde 58 — Şube Yönetim Kurulu, iki yıl için seçilen yedi asil, yedi yedek üyeden oluşur ve Şube Genel Kurul seçimlerinin kesinleşmesinden sonra en çok yedi gün içinde Genel Kurul divan başkanı yada yardımcısının çağrısı ile en yaşlı üyenin başkanlığında ilk toplantısını yapar. Yapılan ilk toplantıda, gizli oylama ile aralarından bir başkan, bir ikinci başkan, bir yazman ve bir sayman üye seçmek suretiyle görev bölümü yapar.

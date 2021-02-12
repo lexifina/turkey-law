@@ -1,0 +1,2 @@
+Üyelikten ayrılma
+Madde 10 — Herhangi bir nedenle mesleki etkinliğini sürdürmek istemeyen, askerlik görevi hariç silahlı kuvvetler mensubu olan ya da kamu kurum ve kuruluşlarında asli ve sürekli görevde çalışırken üyelikten ayrılmak isteyen üyeler, bu durumu Oda Yönetim Kuruluna yazılı olarak bildirmek, gerektiğinde belgelemek, Oda kimlik belgesi ile adına düzenlenmiş diğer belgeleri geri vermek ve o tarihe kadar olan üyelik ödentilerinin tamamını ödemek koşuluyla, Odadan ayrılabilirler.

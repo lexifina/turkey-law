@@ -1,0 +1,2 @@
+Oda genel kurulunun açılması
+Madde 15 — Genel Kurul toplantısı, Oda başkanı, ikinci başkan ya da Yönetim Kurulunun kendi içinde belirleyeceği bir üye tarafından, TMMOB gözlemcisinin toplantıda hazır bulunmasıyla açılır ve başkanlık divanı seçimi yapılır. Başkanlık divanı, bir başkan, bir başkan yardımcısı ve iki yazmandan oluşur. Genel Kurulda TMMOB Genel Kurul Yönetmeliği ve bu Yönetmelik hükümleri uygulanır.

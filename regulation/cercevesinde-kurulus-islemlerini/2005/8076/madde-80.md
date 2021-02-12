@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Oda seçimlerinde uygulanacak esaslar
+Madde 80 — (Ek ibare:RG-5/3/2015-29286) Delege Oda ve Şube organ seçimleri Türk Mühendis ve Mimar Odaları Birliği Kanununda belirlenen hükümlere uygun olarak yargı gözetiminde ve gizli oyla yapılır. Başkanlık Divanı ile görevlendirilecek komisyon ve komite üyelikleri için seçimler, aksine bir karar alınmadıkça açık oyla yapılır.
+(Ek fıkra:RG-5/3/2015-29286) Delege seçimlerinde; delegeliğe aday asil ve yedek üyelerin sicil numaralarına göre sıralandığı ortak oy pusulaları kullanılır. Asıl ve yedek adaylar için ayrı ortak oy pusulaları hazırlanır. (Değişik cümle:RG-4/2/2017-29969) Oy pusulalarına asil ve yedek delege sayısı kadar adayın ad ve soyadları, oy pusulalarında ayrılmış bölümlere yazılır. (Değişik cümle:RG-4/2/2017-29969) Oy pusulalarına yazılı isimler, asil ve yedek delege sayısından fazla olamaz. Oy sayımında asil ve yedek üyeler, ayrı ayrı aldıkları oy sayısına göre sıralanır. Eşit oy alanlardan oda sicil numarası küçük olan seçilmiş sayılır. Delege seçimlerinde basılı aday listeleri kullanılabilir.

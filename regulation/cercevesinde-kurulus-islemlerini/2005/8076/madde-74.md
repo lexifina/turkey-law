@@ -1,0 +1,3 @@
+Üyelik ödentilerinin ödenmesinde uygulanacak yaptırımlar
+Madde 74 — Oda üyelik ödentisini, ait olduğu yıl içinde ödemeyenlere yazılı bildirim yapılır. Bildirim tarihinden başlayarak otuz gün içinde ödemeyenler hakkında 9/6/1932 tarihili 2004 sayılı İcra ve İflas Kanununun ilgili hükümleri uygulanır. Uyuşmazlık halinde ülke çapında Ankara Mahkemeleri ve icra daireleri yetkilidir. Üyeler adres değişikliklerini bir ay içinde Odaya bildirirler. Adreslerini değiştiren üyeler yeni adreslerini bildirmedikleri taktirde 11/2/1957 tarihli ve 7201 sayılı tebligat kanununun 21 inci maddesinin hükümleri uygulanır.
+Yıl içinde ödenmemiş ya da önceki yıllara ait üye ödentileri, borcun ödendiği tarihteki ödenti miktarı üzerinden alınır.

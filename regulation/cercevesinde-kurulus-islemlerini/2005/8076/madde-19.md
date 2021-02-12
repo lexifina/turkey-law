@@ -1,0 +1,3 @@
+Oda genel kurul tutanağı
+Madde 19 — Genel Kurul görüşmeleri ve kararları bir tutanağa bağlanarak, divan başkanı, başkan yardımcısı ve yazmanlar tarafından imzalanıp, dosyasında saklanmak ve bir örneği TMMOB ye iletilmek üzere Oda Yönetim Kuruluna verilir. Divan kurulu, yukarıdaki işlemlerin tamamlanmasını takip etmekten, Genel Kurulun başlamasından Seçim Kurulunun seçim sonuçlarını resmi tebliğine kadar geçen süre boyunca, sorumlu ve görevlidir.
+Genel Kurul başkanlık divanı, Genel Kurulda alınmış kararları Genel Kurul karar defterine yazar ve karar defteri divan başkanı ve yardımcısı tarafından imzalanır. Seçim kurulunun resmi tebliği geldiği zaman Genel Kurul karar defterine yapıştırılır ve Genel Kurul karar defteri saklanmak üzere Oda Yönetim Kuruluna verilir.

@@ -1,0 +1,2 @@
+Şube genel kurulunun açılışı
+Madde 53 — Şube Genel Kurulu, Şube başkanı, ikinci başkan ya da Yönetim Kurulunun kendi içinden belirleyeceği bir üye tarafından, Oda gözlemcisinin toplantıda hazır bulunmasıyla açılır ve gündemin birinci maddesi gereğince Başkanlık Divanı seçilir. Başkanlık divanı, bir başkan, bir başkan yardımcısı ve iki yazmandan oluşur. Şube Genel Kurulunda TMMOB Genel Kurul Yönetmeliği hükümleri uygulanır.

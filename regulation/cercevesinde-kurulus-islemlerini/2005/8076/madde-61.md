@@ -1,0 +1,21 @@
+Şube yönetim kurulunun görev ve yetkileri
+Madde 61 — Şube Yönetim Kurulunun başlıca görev ve yetkileri şunlardır:
+a) (Değişik:RG-5/3/2015-29286) Şube Genel Kurulunda alınan kararları uygulamak, Oda Genel Kuruluna katılacak şube delegelerini Odaya sunmak, Odanın amaçlarının gerçekleşmesine çalışmak ve bu doğrultuda her türlü girişimde bulunmak,
+b) Şube üyelerinin, TMMOB Kanunu, TMMOB Ana Yönetmeliği ve bu Yönetmelik hükümleri içinde hak ve yetkilerini iyi bir biçimde kullanmalarını gözetmek,
+c) Sorumluluk bölgesinde kongre, konferans, seminerler ve benzeri toplantılar düzenlemek, bu konularda Oda Yönetim Kuruluna bilgi vermek, gerekirse Odanın maddi ve manevi yardımını sağlamak,
+ç) Mesleki eğitim ve öğretim konularında incelemelerde bulunmak, Odaya öneriler hazırlamak, mesleki hizmetler karşılığı belirlenmiş asgari ücretlerin ve çalışma şartlarının uygulanmasını sağlamak,
+d) Şube Genel Kurulunu olağan ve olağanüstü toplantıya çağırmak, toplantı yeri, günü ve saatini tespit ederek, ülke genelinde yayınlanan günlük bir gazete aracılığı ile duyurmak, toplantı çağrısını toplantı tarihinden on beş gün önce bütün üyelere göndermek, Şube Yönetim Kurulu çalışma raporunu, Şube gelir ve gider cetvellerini ve Şube Genel Kurulu gündemini hazırlamak, Şube Genel Kurul toplantısının yapılabilmesi için gerekli her türlü tedbiri almak,
+e) Kendisine bağlı illerde, gereksinim duyulması halinde, il ve ilçe temsilcisi ve yardımcısını ve gerekli gördüğü yerlerde işyeri temsilcilerini Oda merkezinin onayı ile atamak,
+f) Şubenin aylık gelir ve giderlerini Oda merkezi sistemine göre hazırlayarak, her ay sonunda Oda merkezine göndermek,
+g) Oda Genel Kurulunda görüşmek üzere Şube giderleri için tahmini ödenek hesaplayarak bunu Oda merkezine bildirmek,
+h) TMMOB il koordinasyon kurulu üyeliğine atama yapmak ve atananların isimlerini Odaya bildirmek,
+ı) Şube Danışma Kurulunun yılda en az (Değişik ibare:RG-19/06/2005-25850) bir kez toplanmasını sağlamak, Kurul toplantısında geliştirilen önerileri yazılı olarak Oda Yönetim Kuruluna göndermek,
+i) Odanın, Şube etkinlik alanı dahilinde sahip olduğu taşınmaz malları, Oda adına idare etmek,
+j) Geçici ve sürekli hizmetliler kadrosunu saptayarak, Şube Genel Kurulunun ve Oda Yönetim Kurulunun onayına sunmak,
+k) Oda Denetleme Kurulunun Şubeyi denetlemesi sırasında yardımcı olmak,
+l) Kendisine bağlı il, ilçe ve işyeri temsilcilerinin yönetmeliklerde sözü edilen giderlerini karşılamak,
+m) Üye tabanının genişletilmesi için gerekli çalışmalar yapmak, Jeofizik eğitimi yapan, bölgedeki üniversite öğrencilerine mesleği ve örgütü tanıtma konusunda çalışmalar yapmak, yardımda bulunmak,
+n) Şube Yönetim Kurulu çalışmalarına yardımcı olmak üzere komisyonlar kurmak, üyelerini seçmek ve çalışmalarını düzenlemek,
+o) Oda Onur Kurulu ile ilgili konuları, gerekli bilgi ve belgeleri ile birlikte Oda Yönetim Kuruluna zamanında iletmek,
+ö) Şube Yönetim Kurulunun ilk toplantı tarihinden başlayarak, en çok on beş gün içinde, bütçe taslağı ve yeni dönem çalışma programını hazırlayarak Oda Yönetim Kuruluna göndermek ve onayını almak,
+p) Oda Yönetim Kurulunca verilecek diğer görevleri yerine getirmek.

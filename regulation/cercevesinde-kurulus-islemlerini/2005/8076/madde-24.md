@@ -1,0 +1,20 @@
+Oda genel kurulunun görev ve yetkileri
+Madde 24 — Oda Genel Kurulunun başlıca görev ve yetkileri şunlardır:
+a) TMMOB nin amaçlarından yalnız Odayı ilgilendiren konularda karar almak,
+b) Oda amaçlarının gerçekleşmesi konusunda kararlar almak, Odanın gelişmesi için gerekli etkinlik alanlarını ve ilkelerini saptamak,
+c) Yönetim Kurulu raporlarını incelemek, hakkında karar vermek ve gelecek dönem çalışmalarını yönlendirici kararlar almak,
+ç) Oda hesaplarını, bilanço ve gelir-gider cetvellerini, Denetleme Kurulu raporunu incelemek ve haklarında karar vererek, Yönetim Kurulunu aklamak,
+d) Yönetim Kurulunun getireceği yeni dönem gelir ve gider bütçeleri, geçici ya da sürekli ücretliler kadrolarını inceleyip, değiştirmek ya da olduğu gibi kabul etmek,
+e) Yönetim, Denetleme ve Onur Kurulu üyelerinin oturum ücretleri ile profesyonel genel sekreterlik kadrosu ödeneğini saptamak,
+f) Oda Yönetim Kurulunun önerisi ya da Oda Genel Kurulunu oluşturan (Değişik ibare:RG-5/3/2015-29286) delegelerin beşte birinin verecekleri önerge üzerine Yönetmelik değişikliklerini görüşüp, karara bağlamak,
+g) Gerektiğinde, Oda Yönetim Kurulu tarafından kabul edilerek yürürlüğe konan yönetmelikleri inceleyip, değiştirerek ya da olduğu gibi onaylamak,
+h) Meslekte en az on yıl kıdemli üyeler arasından, toplam üye sayısının yüzde iki (%2)si oranında ve delege sayısının hesaplanmasında kesirler dikkate alınmadan, üç kişiden az ve yüz kişiden fazla olmamak üzere TMMOB Genel Kuruluna katılacak asil ve yedek delegeleri iki yıl süre için seçmek,
+i) Odanın sahip olduğu ya da olacağı taşınmaz mallar hakkında karar almak ya da bu konularda Yönetim Kuruluna yetki vermek,
+j) Oda Yönetim Kurulu, Onur Kurulu ve Denetleme Kurulu asil ve yedek üyelerini iki yıl için seçmek,
+k) TMMOB Yönetim Kurulu için üç, TMMOB Yüksek Onur Kurulu için bir ve TMMOB Denetleme Kurulu için bir aday adayını iki yıl için seçmek,
+l) TMMOB genel sekreterliği seçimlerine katılacak Oda adayını seçmek ya da aday belirlemek için Oda Yönetim Kuruluna yetki vermek,
+m) Gereken bölgelerde şubeler ve bölge temsilcilikleri kurmak veya kapatılması konularında karar almak ve bunların merkezlerini bağlı olacak illeri saptamak. Bölge temsilcilikleri kurma konusunda Oda Yönetim Kurulunu yetkilendirmek,
+n) TMMOB Genel Kurulu veya Yönetim Kurulu kararı doğrultusunda Odaya üye olan farklı uzmanlık mensuplarının Odaya katılmaları ve Odadan ayrılmaları konusunda karar almak,
+p) Odanın borç alması, borç vermesi, kurduğu ya da katıldığı kuruluşlara ilişkin kararlar almak ya da bu konuda Yönetim Kuruluna yetki vermek,
+r) Onur üyeliği, adaylarını onamak veya onur üyeliğine son vermek,
+s) Fahri üyelik, adaylarını onamak veya fahri üyeliğine son vermek.
