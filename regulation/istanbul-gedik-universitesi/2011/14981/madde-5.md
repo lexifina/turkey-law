@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Mütevelli Heyet, Akademik Organlar ve Görevleri
+Mütevelli heyetin oluşumu
+MADDE 5 – (1) Mütevelli Heyet, Üniversitenin tüzel kişiliğini temsil eder ve Üniversitenin en üst karar organıdır.
+(2) Mütevelli Heyet, Kurucu Vakıf Yönetim Kurulu tarafından ilgili mevzuat hükümlerinde öngörülen şartlara haiz adaylar arasından seçilen en az yedi kişiden oluşur. Rektör, Mütevelli Heyetin doğal üyesidir, ancak Kurucu Vakıf Yönetim Kurulu başkan ve üyeleri ile bunların birinci derece kan ve kayın hısımları ile eşlerinden Mütevelli Heyette görev alacakların sayısı ikiyi geçemez.
+(3) Mütevelli Heyet üyelerinin görev süresi dört yıldır. Süresi biten üyeler yeniden seçilebilir. Mütevelli Heyet; üyelerin yeniden seçilmesi ve üyelerinden herhangi birinin görev süresi dolmadan görevinden alınabilmesi için gerekli düzenlemeleri yaparak ilan eder.
+(4) Mütevelli Heyet üyelerinden birinin istifası, görev süresinin dolması, ölüm veya sair sebeple üyeliğin sona ermesi halinde veya yeni bir üye ihtiyacı oluşması halinde her bir üyelikle ilgili olarak Mütevelli Heyeti tarafından seçim yapılır ve Yükseköğretim Kuruluna bildirilir.
+(5) Mütevelli Heyetin doğal üyesi olan Rektör, kendisini ilgilendiren toplantılara ve oylamalara katılamaz. Mütevelli Heyet Başkanlığına seçilemez. Rektör dışındaki Üniversite mensupları Mütevelli Heyette görev alamazlar.
+(6) Mütevelli Heyet üyeliği fahridir. Ancak; Kurucu Vakıf Yönetim Kurulu kararı ile Mütevelli Heyet üyelerine toplantıya katılma yol ve huzur hakkı verilebilir. Verilecek miktar bir yılda onikiyi geçmemek üzere katılacakları her toplantı için, 2547 sayılı Kanunun 6 ncı maddesinde Yükseköğretim Genel Kurulu üyeleri için öngörülen ücreti aşamaz. Mütevelli Heyet başkan ve üyelerine bunun dışında herhangi bir ödeme yapılmaz.
+(7) Mütevelli Heyet üyeleri salt çoğunluk ile toplanır ve kararlar salt çoğunluk ile alınır. Üçüncü turda salt çoğunluk sağlanamazsa dördüncü turda oy çoğunluğu esası uygulanır.
+(8) Her üye oyunu, kabul veya ret olarak kullanmak zorundadır. Çekimser oy kullanılamaz. Mütevelli Heyet üyelerinin adları, seçildikleri tarihi izleyen otuz gün içinde Yükseköğretim Kuruluna (YÖK) bildirilir. Mütevelli Heyetinin oluşumunda yapılan değişiklikler de aynı şekilde bildirilir.

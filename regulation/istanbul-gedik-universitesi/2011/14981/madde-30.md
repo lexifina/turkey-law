@@ -1,0 +1,6 @@
+Öğretim elemanları
+MADDE 30 – (1) Üniversitenin öğretim elemanları; öğretim üyeleri, öğretim görevlileri, okutmanları ile öğretim yardımcılarından oluşur.
+(2) Öğretim elemanları Rektörün önerisiyle Mütevelli Heyet tarafından seçilerek atanır.
+(3) Öğretim elemanlarının atanmalarında, Devlet yükseköğretim kurumlarındaki atanmalarda aranan şartlara ilaveten Üniversitenin akademik yönden gerekli gördüğü diğer şartlar da aranabilir. Meslek yüksekokullarında özellikle uygulamalı derslerde görevlendirilecek öğretim elemanlarının atanmasında çalışma deneyimine sahip olması şartı aranabilir.
+(4) Öğretim elemanlarının değerlendirilmesi, uygun görülen akademik unvanlarda görevlendirilmeleri ve yükseltilmeleri ilgili mevzuat hükümlerine göre Üniversitenin yetkili akademik organlarınca yapılır.
+(5) Üniversitede görev alacak olan akademik ve idari personelin çalışma esasları, 2547 sayılı Kanunda Devlet üniversiteleri için öngörülen hükümlere tabidir. Bu personelin aylık ve diğer özlük hakları hususlarında ise, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümleri uygulanır. Öğretim elemanlarının görevlerini yapmaları öncelikle bağlı bulundukları bölüm başkanı ile dekan, enstitü ve yüksekokul müdürleri ve Rektör tarafından izlenir ve denetlenir.

@@ -1,0 +1,2 @@
+Rektör yardımcıları
+MADDE 10 – (1) Rektör; Üniversitedeki profesör unvanlı kişiler arasından akademik ve idari konularda görev yapacak en fazla üç kişiyi Rektör yardımcısı olarak seçer ve Mütevelli Heyetin onayına sunar. Rektör yardımcılarının görev süreleri dört yıldır. Rektör gerekli gördüğü hallerde yardımcılarını değiştirebilir. Rektörün görevi sona erdiğinde yardımcılarının da görev süresi sona erer. Rektör, görev başında bulunmadığında rektör yardımcılarından birini yerine vekil olarak bırakır. Vekâlet, en fazla altı ay sürer.

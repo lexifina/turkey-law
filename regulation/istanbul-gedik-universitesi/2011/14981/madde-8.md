@@ -1,0 +1,5 @@
+Rektör
+MADDE 8 – (1) Rektör, Üniversitenin yürütme organının başıdır.
+(2) Rektör, YÖK’ün olumlu görüşü alınarak Mütevelli Heyet tarafından ilgili mevzuat hükümlerine göre dört yıllık süre için atanır. Süresi sona eren Rektör aynı usulle yeniden atanabilir.
+(3) Rektör, görevi başında olmadığı zaman yardımcılarından birini yerine vekil olarak bırakır. Rektör görevi başından iki haftadan fazla uzaklaştığında YÖK’e bilgi verir. Göreve vekâlet altı aydan fazla sürerse yeni Rektör atanır.
+(4) Rektör; Üniversitenin ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde kullanılmasında ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında, gerektiği zaman güvenlik önlemlerinin alınmasında, eğitim-öğretim, bilimsel araştırma ve yayım faaliyetlerinin devlet kalkınma plan, ilke ve hedefleri doğrultusunda planlanıp yürütülmesinde, bilimsel ve idari gözetim ve denetimin yapılmasında ve bu görevlerin alt birimlere aktarılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında Mütevelli Heyete karşı birinci derecede yetkili ve sorumludur.

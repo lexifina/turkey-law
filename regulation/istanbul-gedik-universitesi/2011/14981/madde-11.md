@@ -1,0 +1,2 @@
+Senato
+MADDE 11 – (1) Senato; Üniversitenin akademik organıdır. Rektörün başkanlığında, rektör yardımcıları, dekanlar, her fakülteden kendi kurullarınca üç yıl için seçilecek birer öğretim üyesi, Rektörlüğe bağlı enstitü ve yüksekokul müdürlerinden oluşur. Senato her eğitim-öğretim yılı başında ve sonunda olmak üzere yılda en az iki kere olağan olarak toplanır. Rektör gerekli gördüğü hallerde Senatoyu toplantıya çağırır. Senatonun raportörü Üniversite Genel Sekreteridir.
