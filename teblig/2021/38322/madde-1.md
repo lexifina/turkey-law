@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Üntes Isıtma Klima Soğutma Sanayi ve Ticaret A.Ş. tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 8415.83.00.90.00 gümrük tarife istatistik pozisyonu altında kayıtlı “yalnız belirli salon tipi sıcak ve soğuk hava cihazları (fancoil)” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

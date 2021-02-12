@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda, bir NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulu Kararı ile ÇHC menşeli 8415.83.00.90.00 GTİP’i altında kayıtlı “yalnız belirli salon tipi sıcak ve soğuk hava cihazları (fancoil)” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
