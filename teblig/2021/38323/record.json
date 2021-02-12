@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.38323",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2920 SAYILI SİVİL HAVACILIK KANUNU UYARINCA VERİLECEK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ (2021/1)",
+  "number": "38323",
+  "path": "teblig/2021/38323",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38323&MevzuatTertip=5",
+  "source_sha256": "b72669171aa4128be289bd0866548f3493bfe6c09c9e10a5e2f4302c1cf1bebb",
+  "source_bytes": 8387,
+  "published": "2021-02-12",
+  "gazette": "31393",
+  "in_force": "2021-02-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.02.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38323-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
