@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Devlet ormanlarında 31/12/2011 tarihinden önce toplu yerleşimin bulunduğu; yaylak ve otlak olarak kullanılan alanlar içindeki yerler ile yılın belirli dönemlerinde geleneksel yaylacılık maksadıyla yerleşim yeri olarak kullanılan alanlardan, kullanım bütünlüğü de dikkate alınarak yayla alanı olarak tespit ve ilan edilen yayla alanları ile bu alanlarda bulunan her türlü bina ve tesisleri kapsar.

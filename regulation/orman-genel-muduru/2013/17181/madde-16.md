@@ -1,0 +1,3 @@
+Kira bedelinin tahsili ve gecikme zammı
+MADDE 16 – (1) (Değişik:RG-13/2/2021-31394) Birinci yıl kira bedelinin tamamı, onaylanan ihale kararının ilgilisine tebliğ edildiği tarihten itibaren on beş gün içinde peşin alınır. İkinci ve müteakip yıllar kira bedelleri, Türkiye İstatistik Kurumunca yayımlanan Tüketici Fiyat Endeksi (TÜFE – oniki aylık ortalamalara göre yüzde değişim) oranında artırılmak suretiyle hesaplanır ve takip eden ayın son mesai gününe kadar peşin alınır.
+(2) Süresinde ödenmeyen kira bedelleri için, 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesi hükmü tatbik edilir.

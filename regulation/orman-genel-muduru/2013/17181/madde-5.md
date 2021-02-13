@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Yayla Alanları Tespiti ve İlanı
+Yayla alanı olarak kullanılan alanların tespiti
+MADDE 5 – (1) Devlet ormanlarında bulunan toplu yerleşim yerleri ile geleneksel yaylacılık alanları, Yayla Alanı Tespit Komisyonu tarafından tespit edilir.
+(2) Yayla Alanı Tespit Komisyonu tarafından tespit edilen bu alanların sınırları belirlenerek 1/25000 ölçekli topoğrafik haritalara işlenir veya işlettirilir ve sınır tespitine ilişkin tutanak düzenlenerek bu Komisyon tarafından imzalanır. Tespit edilen bu alanlar hakkında, Genel Müdürlük tarafından istenilen formata uygun rapor düzenlenir. Düzenlenen rapor, harita, tutanak ve diğer eklerle birlikte Genel Müdürlüğe gönderilir.
+(3) 2873 sayılı Milli Parklar Kanunu kapsamına giren alanlar ile 4915 sayılı Kara Avcılığı Kanununa göre ilan edilmiş yaban hayatı geliştirme sahalarında tespit edilen yayla alanları için Doğa Koruma ve Milli Parklar Genel Müdürlüğünün uygun görüşü alınır.
+(4) Yayla Alanı Tespit Komisyonu tarafından tespit edilen ve Genel Müdürlüğe bildirilen bu alanlar incelenip değerlendirilerek yayla alanı olarak ilan edilmesi uygun görülenler Bakanlığa bildirilir. Bakanlık tarafından bu alanların yayla alanı olarak ilan edilmesi amacıyla (Değişik ibare:RG-13/2/2021-31394) Cumhurbaşkanı kararı alınmak üzere Cumhurbaşkanlığına teklif edilir.
+(5) (Ek:RG-13/2/2021-31394) 6831 sayılı Orman Kanununun 2 nci maddesinin birinci fıkrasının (B) bendi kapsamında uygulama yapılmamış belde, köy ve mahallelerde yayla alanı tespiti yapılmaz. Bu gibi yerlerde 6831 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (B) bendi kapsamında yapılacak uygulamanın bitirilmesi beklenir.

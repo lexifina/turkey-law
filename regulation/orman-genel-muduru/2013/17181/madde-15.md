@@ -1,0 +1,2 @@
+Kiracıların sorumluluğu
+MADDE 15 – (1) Kullanıcı, onaylanan ihale kararının kendisine tebliğ edildiği tarihten itibaren onbeş gün içinde geçici teminatı kesin teminata çevirmek ve ilgili orman işletme müdürlüğünce düzenlenecek sözleşmeyi imzalamak, ilk yıl kira bedeli ile sözleşmeye ait tahakkuk edecek vergi, resim ve harçları ve diğer giderleri ödemek, varsa diğer yükümlülükleri yerine getirmek zorundadır. Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale iptal edilir ve geçici teminat irat kaydedilir.

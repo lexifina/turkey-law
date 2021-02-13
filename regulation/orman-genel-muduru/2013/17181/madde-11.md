@@ -1,0 +1,2 @@
+Kiralama usulü
+MADDE 11 – (1) Kullanıcısı tespit edilen ve kesinleşen bina ve tesisler vaziyet planına göre, tespit tarihinden itibaren, bir yıl içinde kullanıcısının talebi hâlinde, rayiç bedelden az olmamak kaydıyla, tespit edilen tahmini kira bedeli üzerinden ilgili orman işletme müdürlüğü tarafından 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununun 51 inci maddesinin birinci fıkrasının (g) bendine göre pazarlık usulüyle kullanıcı ile yapılacak ihale sonucunda kararlaştırılacak bedel karşılığında kiraya verilir.

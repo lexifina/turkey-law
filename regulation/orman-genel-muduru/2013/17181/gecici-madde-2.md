@@ -1,0 +1,3 @@
+Kira bedelinin tahsili ve gecikme zammı
+GEÇİCİ MADDE 2 – (Ek:RG-13/2/2021-31394)
+(1) Bu maddenin yürürlüğe girdiği tarihte halen devam eden bir yıldan uzun süreli kira sözleşmelerinde ikinci ve izleyen yıllar bedelleri mevcut sözleşmeler yenilenmeksizin 9 uncu maddeye göre hesaplanarak tahsil edilir. Ancak, 1/8/2018 tarihinden itibaren güncellenerek tespit edilen cari yıl kira bedellerinin; 1/1/2019 tarihine kadar olan döneme isabet eden kısmı mevcut sözleşme hükümlerine göre, bu tarihten sonraki döneme isabet eden kısmı ise 9 uncu maddeye göre hesaplanarak gerekli tahsilat, mahsup ve iadesi gerçekleştirilir.

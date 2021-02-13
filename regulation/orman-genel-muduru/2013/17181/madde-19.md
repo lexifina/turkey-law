@@ -1,0 +1,5 @@
+Kiralanmayan bina ve tesisler
+MADDE 19 – (1) Yayla alanındaki bina ve tesislerden, kullanıcısı tespit edilemeyenler ile tespit tarihinden itibaren bir yıl içerisinde kullanıcısı tarafından kiralanmayanlar yıkılır.
+(2) Yayla alanlarında bulunan;
+a) Kamu hizmetinde kullanılan, bütçelerinden ayrılan ödenek veya yardımlarla yapılan Hükümet, belediye, karakol, okul binaları, köy odası, hastane veya diğer sağlık tesisleri, kütüphane, kitaplık, namazgah, cami, genel mezarlık, çeşme, kuyular, yunak ile kapanmış olan yollar, meydanlar, pazar yerleri, parklar, bahçeler, boşluklar ve benzeri hizmet malları gibi resmi bina ve tesisler, kuruluş kanunlarıyla yürütmekle görevli oldukları hizmetleri yerine getirilmesi amacıyla, genel bütçe kapsamındaki kamu idarelerine bedelsiz izin verilmek suretiyle kullandırılır.
+b) Yol, meydan, köprü gibi orta malları ve kayalar, tepeler, dağlar, bunlardan çıkan kaynaklar gibi sahipsiz yerler ile göl, nehir gibi genel sular vaziyet planlarında gösterilmekle yetinilir.

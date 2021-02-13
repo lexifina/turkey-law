@@ -1,0 +1,17 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-13/2/2021-31394) Bakan: Tarım ve Orman Bakanını,
+b) (Değişik:RG-13/2/2021-31394) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Bölge Müdürlüğü: Orman Bölge Müdürlüklerini,
+ç) Genel Müdürlük: Orman Genel Müdürlüğünü,
+d) Geleneksel yaylacılık alanı: Devlet ormanlarında bulunan, yılın belirli dönemlerinde geleneksel yaylacılık maksadıyla yaylak ve otlak olarak kullanılan ve 31/12/2011 tarihinden önce üzerlerinde yerleşim yeri bulunan alanları,
+e) (Değişik:RG-13/2/2021-31394) Kira bedeli tespit komisyonu: İlgili orman bölge müdür yardımcısının başkanlığında, orman bölge müdürlüğünde görevli makine ikmal şube müdürü, ilgili orman işletme müdürü veya yardımcısı ve orman işletme şefi veya emlak şefi, varsa orman bölge veya orman işletme müdürlüğünde görevli, yoksa Genel Müdürlükçe görevlendirilecek bir inşaat mühendisi veya mimar veya inşaat teknikerinden oluşan beş kişilik komisyonu,
+f) Kiraya verme: Genel Müdürlük sabit kıymetlerine alınan yayla alanlarındaki her türlü bina ve tesislerin kiraya verilmesini,
+g) Kullanıcı tespit komisyonu: İlgili orman işletme müdürü veya yardımcısının başkanlığında (Değişik ibare:RG-13/2/2021-31394) orman işletme şefi veya emlak şefi, orman koruma ekibinde görevli orman muhafaza memuru ve yayla alanının sınırları içerisinde bulunduğu muhtarlık veya belediye başkanlığınca bildirilecek en az iki temsilciden oluşan en az beş kişilik komisyonu,
+ğ) Orman İdaresi: Orman Genel Müdürlüğü merkez ve taşra teşkilatını,
+h) Rayiç bedel: Bu Yönetmelik hükümlerine göre kiraya verilecek bina ve tesislerin 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu hükümlerine göre tespit ve takdir edilen bedelini,
+ı) (Değişik:RG-13/2/2021-31394) Sabit kıymet bedel tespit komisyonu: İlgili orman bölge müdür yardımcısının başkanlığında, orman bölge müdürlüğünde görevli makine ikmal şube müdürü, ilgili orman işletme müdürü veya müdür yardımcısı ve orman işletme şefi veya emlak şefi, varsa orman bölge veya orman işletme müdürlüğünde görevli, yoksa Genel Müdürlükçe görevlendirilecek bir inşaat mühendisi veya mimar veya inşaat teknikerinden oluşan beş kişilik komisyonu,
+i) Toplu yerleşim yeri: Devlet ormanlarında yaylak ve otlak olarak kullanılan alanlar içinde bulunan, 31/12/2011 tarihinden önce üzerinde birbirine yakın olan ve birden fazla bina ve/veya tesis bulunan yerleşim yerlerini,
+j) Yayla alanı: Devlet ormanlarında toplu yerleşimin bulunduğu yaylak ve otlak olarak kullanılan alanlar içersindeki yerler ile geleneksel yaylacılık alanlarından, Genel Müdürlük tarafından tespit edilerek uygun görülen ve Bakanlığın teklifi üzerine (Değişik ibare:RG-13/2/2021-31394) Cumhurbaşkanı kararıyla ilan edilen alanları,
+k) Yayla alanı tespit komisyonu: İlgili orman bölge müdür yardımcısı başkanlığında, orman bölge müdürlüğünde görevli makine ikmal şube müdürü, kadastro ve mülkiyet şube müdürü, orman köy ilişkileri şube müdürü, orman koruma veya orman zararlılarıyla mücadele şube müdürü, ilgili orman işletme müdürü, ilgili orman işletme şefi ve harita mühendisi veya teknikerinden oluşan sekiz kişilik komisyonu, ayrıca, tespit edilecek yayla alanı 9/8/1983 tarihli ve 2873 sayılı Milli Parklar Kanunu kapsamına giren alanlar ile 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanununa göre ilan edilmiş yaban hayatı geliştirme sahalarında ise (Değişik ibare:RG-13/2/2021-31394) Bakanlığın ilgili bölge müdürlüğünde görevli milli parklar şube müdürünün ilave edilmesiyle oluşan dokuz kişilik komisyonu,
+ifade eder.

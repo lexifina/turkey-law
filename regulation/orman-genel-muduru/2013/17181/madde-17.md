@@ -1,0 +1,2 @@
+Sözleşme devri
+MADDE 17 – (1) Sözleşme süresiyle sınırlı olmak kaydıyla kira sözleşmesi, ilgili orman işletmesinin izniyle alt ya da üst mirasçılara devredilebilir. Kira sözleşmelerinin devri için, kiracının yükümlülüklerini yerine getirmiş olması ve devir talebinde bulunduğu tarih itibarıyla sözleşmeden doğan herhangi bir borcunun olmaması gerekmektedir. Kira sözleşmesinin devredilmesi halinde kira işlemi aynı şartlarda devam eder.
