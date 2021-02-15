@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-15",
+      "15.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31396",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-15",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Arel Üniversitesi",
+  "issuer_slug": "istanbul-arel-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-arel-universitesi/2021/38330",
+  "published": "2021-02-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38330&MevzuatTertip=5",
+  "source_bytes": 28391,
+  "source_id": "8.5.38330",
+  "source_sha256": "dfa024d640abd4f660d01894c4d4d89936f266f591a875d8707ccebdbd20dea1",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL AREL ÜNİVERSİTESİ YAPAY ZEKA ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 310,
+  "word_count": 1052
+}
