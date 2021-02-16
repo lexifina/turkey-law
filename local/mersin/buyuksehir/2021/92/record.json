@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "92",
+  "decision_date": "2021-02-16",
+  "title": "-MEC.KAR. (ULUSLARARASI GÖÇ ÖRGÜTÜ İLE İŞBİRLİĞİ PROTOKOLÜ).doc",
+  "listed_as": "92-MEC.KAR. (ULUSLARARASI GÖÇ ÖRGÜTÜ İLE İŞBİRLİĞİ PROTOKOLÜ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/92-meckar-uluslararasi-goc-orgutu-ile-isbirligi-protokoludoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-subat-2021-meclis-kararlari",
+  "listing_sha256": "f2185017ec72b0d5fc6a50354b6935575934f71c51a7b1bfa8a6a8433668f3a8",
+  "meeting_title": "16 ŞUBAT 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
