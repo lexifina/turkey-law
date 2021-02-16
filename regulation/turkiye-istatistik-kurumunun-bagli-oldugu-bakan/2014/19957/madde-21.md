@@ -1,0 +1,5 @@
+Uygulamalı istatistik temel eğitimi
+MADDE 21 – (1) Temel, hazırlayıcı eğitim ve stajda başarılı olan aday uzman yardımcıları ile uzman yardımcılığına atanmadan önce memurluğa asaleten atanmış olan uzman yardımcılarına, uygulamaya yönelik temel istatistik bilgilerini arttırmak ve alan uygulamalarını öğrenmelerini sağlamak için Başkanlık ve Bölgelerde uygulamalı istatistik temel eğitimi verilir.
+(2) Uygulamalı istatistik temel eğitimi, Daire Başkanlıklarının iş ve iş yükleri dikkate alınarak Merkez birimlerinde altı ay ve Bölge Müdürlüklerinde en fazla altı aylık süreyi aşmamak üzere yaptırılır.
+(3) Uygulamalı istatistik temel eğitiminin içeriği, Başkanlıkta ve bölgelerde hangi birimlerde ne kadar süre yapılacağı Yürütme Komisyonu tarafından belirlenir.
+(4) Uygulamalı istatistik temel eğitimine tabi tutulan uzman yardımcısı, çalıştığı Bölge Müdürlüğünde yaptığı işler, varsa işlerle ilgili karşılaştığı sorunlar, iş verimini artırmak için çözüm önerileri ve anketler hakkında rapor düzenler. (Ek cümle:RG-16/2/2021-31397) Düzenlenen raporlar Eğitim Daire Başkanlığına teslim edilir.

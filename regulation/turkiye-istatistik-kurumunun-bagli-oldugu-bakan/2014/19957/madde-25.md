@@ -1,0 +1,2 @@
+Tez jürisi
+MADDE 25 – (1) Tez Jürisi; Kurumda daire başkanı, bölge müdürü, istatistik müşaviri, uzman veya öğretim üyeleri arasından biri tez danışmanı olmak üzere, Yürütme Komisyonu tarafından üç asil, iki yedek üyeden oluşturulur. Tez Jürisi, kendi içinden bir üyeyi başkan olarak seçer. Jüri üye tam sayısı ile toplanır ve salt çoğunlukla karar alır. Asil üyelerin mazereti nedeniyle tez savunmasına katılamayacaklarını yazılı olarak bildirmeleri hâlinde yerlerine yedek üyeler sırasıyla çağrılır.

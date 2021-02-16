@@ -1,0 +1,2 @@
+Giriş sınavının ilanı
+MADDE 7 – (1) Uzman yardımcılığı kadroları için yapılacak giriş sınavının kadro sayısı, başvuru şartları, yeri, şekli, tarihleri, gerek görülmesi hâlinde öğrenim dalları ve kontenjanları; sınavın şekli, konuları ve değerlendirme yöntemi ile gerekli görülen diğer bilgileri içeren ilan metni, sınav tarihinden en az bir ay önce Resmî Gazete’de (Mülga ibare:RG-26/3/2017-30019) (…) yayımlanır. (Değişik cümle:RG-16/2/2021-31397) Ayrıca Cumhurbaşkanınca belirlenen kurumun internet sitesi ve Kurumun internet sitesinde ilan edilir.

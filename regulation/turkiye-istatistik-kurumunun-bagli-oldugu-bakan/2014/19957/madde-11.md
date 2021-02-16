@@ -1,0 +1,2 @@
+Giriş sınavı komisyonu
+MADDE 11 – (1) Giriş sınavı komisyonları, giriş sınavını yapmak, sonuçları değerlendirmek ve yapılmışsa itirazları inceleyerek karara bağlamak üzere, bir başkan yardımcısının başkanlığında daire başkanları, bölge müdürleri, hukuk müşavirleri, istatistik müşavirleri, uzmanlar veya yükseköğrenim kurumları öğretim elemanları arasından oluşturulur. Gerekli hâllerde birden fazla komisyon oluşturulabilir.

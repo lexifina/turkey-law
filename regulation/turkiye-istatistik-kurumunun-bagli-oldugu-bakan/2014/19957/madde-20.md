@@ -1,0 +1,2 @@
+Temel, hazırlayıcı eğitim ve staj
+MADDE 20 – (1) Giriş Sınavı sonucunda başarılı olup uzman yardımcısı olarak ataması yapılanlar adaylık dönemi içinde, 657 sayılı Devlet Memurları Kanununun 55 inci maddesi ve 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik hükümlerine uygun olarak ilk yıl temel, hazırlayıcı eğitim ve staja tabi tutulur.

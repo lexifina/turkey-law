@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başkan: Türkiye İstatistik Kurumu Başkanını,
+b) Başkanlık: Türkiye İstatistik Kurumu Başkanlığını,
+c) Eğitim dokümanları: Kurumun görev alanına ilişkin olarak hazırlanan hizmet içi eğitim dokümanlarını,
+ç) Giriş sınavı: Türkiye İstatistik Kurumu Uzman Yardımcılığı Giriş Sınavını,
+d) Giriş Sınavı Komisyonu: Türkiye İstatistik Kurumu Uzman Yardımcılığı Giriş Sınavı Komisyonunu,
+e) Kılavuz: Kurumun hazırladığı/uygun gördüğü tez hazırlama ve değerlendirme kılavuzunu,
+f) KPSS: Kamu Personel Seçme Sınavını,
+g) Kurum: Türkiye İstatistik Kurumunu,
+ğ) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+h) Tez: Uzman yardımcısı tarafından hazırlanan uzmanlık tezini,
+ı) Tez Jürisi: Uzman yardımcılarının, uzman olabilmeleri için hazırladıkları tezi değerlendirmekle görevli jüriyi,
+i) Uygulamalı istatistik temel eğitimi: Kurumun merkez veya taşra teşkilatında görevli uzman yardımcılarının temel istatistik alt yapılarını güçlendirmek ve alan uygulamalarını öğrenmelerini sağlamak üzere yapılan eğitim programını,
+j) Uzman: Türkiye İstatistik Kurumu Uzmanını,
+k) Uzman yardımcısı: Türkiye İstatistik Kurumu Uzman Yardımcısını,
+l) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+m) Yeterlik sınavı: Türkiye İstatistik Kurumu Uzmanlığı yeterlik sınavını,
+n) Yeterlik Sınavı Komisyonu: Yeterlik Sınavını yapan komisyonu,
+o) Yeterlik sınavına hazırlama eğitimi: Yeterlik Sınavı öncesi yapılan eğitimi,
+ö) Yürütme Komisyonu: Uzman yardımcılarının eğitimlerinden, giriş sınavı ile yeterlik sınavının organizasyon ve koordinasyon faaliyetlerinin yürütülmesinden sorumlu Komisyonu,
+ifade eder.
