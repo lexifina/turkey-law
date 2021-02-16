@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35644",
+  "decision_date": "2021-02-16",
+  "source_id": 33254,
+  "chamber": "2",
+  "ilam_number": "49",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33254/",
+  "source_sha256": "e3f484fe47525c15d754094e78f322355ed56b077511398571f3d3330fd5be59",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
