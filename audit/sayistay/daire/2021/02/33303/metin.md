@@ -1,0 +1,9 @@
+“İlçemiz Çeşitli Cadde ve Sokaklarında Sıcak Asfalt Kaplama İşi” ile “Çevre Duvarı ve Panel Çit Yapım İşi”  ihalelerinde komisyon kararı ile süre uzatımı kararları alınmasına rağmen damga vergisi kesintisinin yapılmadığı görülmüştür.
+
+488 sayılı Damga Vergisi Kanununun “Konu” başlıklı 1 inci maddesinde bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu hükme bağlanmış; Kanuna ekli (1) sayılı tablonun “Kararlar ve Mazbatalar” başlıklı 2 nci bölümünün (1/b) bendine göre belli parayı ihtiva etmeyen Meclis kararlarının 2018 yılı için 58.80 TL ve 2019 yılı için 72.70 TL damga vergisine tabi olduğu belirtilmiştir.
+
+ “İlçemiz Çeşitli Cadde ve Sokaklarında Sıcak Asfalt Kaplama İşi”nde 2018 yılında bir, 2019 yılında ise iki defa; “Çevre Duvarı ve Panel Çit Yapım İşi”nde ise 2018 yılında iki, 2019 yılında ise üç defa komisyon kararı ile süre uzatım kararı verildiği görülmüştür. İhale kapsamında süre uzatım kararının, komisyon tarafından verildiği durumlarda maktu damga vergisine tabi tutulması gerektiği hüküm altına alınmış olup komisyon kararı ile verilen süre uzatımı kararlarından damga vergisi kesilmeyerek kamu kaynağında artışa engel olunduğu görülmüştür.
+
+Yapılan incelemede, “İlçemiz Çeşitli Cadde ve Sokaklarında Sıcak Asfalt Kaplama İşi” ile “Çevre Duvarı ve Panel Çit Yapım İşi”  ihalelerinde komisyon kararı ile süre uzatımı kararları alınmasına rağmen damga vergisi kesintisinin yapılmaması suretiyle kamu zararına sebebiyet verildiği görülmüşse de; toplam … TL tutarındaki kamu zararından … TL’sinin … Tic. ve San. A.Ş’den; … TL’sinin … İnşaat’tan … tarih ve … numaralı muhasebe işlem fişi tahsil edildiği anlaşıldığından konu hakkında ilişilecek bir husus kalmadığına;
+
+ İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
