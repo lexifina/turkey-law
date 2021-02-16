@@ -1,0 +1,9 @@
+Kaçak elektrik kullanımı nedeniyle cezaya sebebiyet verildiği tespit edilmiştir.
+
+Elektrik Piyasası Tüketici Hizmetleri Yönetmeliğinin 5 inci maddesinin birinci fıkrasında, elektrik enerjisi almak isteyen tüzel kişilerin ilgili tedarik şirketine başvuracağı; 26 ncı maddesinde, sözleşme olmadan dağıtım sistemine müdahale ederek elektrik enerjisi tüketilmesi halinde bu durumun kaçak elektrik enerjisi tüketimi kabul edileceği ve 30 uncu maddesinde de kaçak elektrik kullanım dolayısıyla hesaplanan tüketim bedelinin fatura edilirken 1,5 (bir buçuk) katı ile çarpılarak kaçak enerji bedelinin tespit edileceği hususu düzenlenmiştir.
+
+Yapılan incelemede, … Belediyesinin, elektrik tedarikçisi ile aralarında abonelik sözleşmesi olmaksızın kaçak elektrik tükettiği, mevzuata aykırı bu tüketim sonucunda da tüketilen elektriğin kendisine 1,5 kat fazla şekilde fatura edildiği anlaşılmıştır. Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 6 ncı maddesinde kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesi kamu zararı olarak belirlendiğinden kaçak elektrik kullanımı sebebi ile normal fatura tutarının üzerine katlanılan yüzde elli fazla kısmı kamu zararı oluşturduğu görülmüştür.
+
+Anılan nedenle kaçak elektrik kullanımı sebebiyle fazla ödenen … TL tutarındaki kamu zararından … TL’sinin …’dan, … TL’sinin …’dan … tarih ve … numaralı muhasebe işlem fişi ile tahsil edildiği anlaşıldığından, konu hakkında ilişilecek bir husus kalmadığına;
+
+            İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
