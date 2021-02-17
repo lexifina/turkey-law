@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49043",
+  "decision_date": "2021-02-17",
+  "source_id": 23389,
+  "chamber": "5",
+  "file_number": "47195",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23389/",
+  "source_sha256": "4ae7c87965298037b729c95ea1a6bfbc986f16a3e59484c79aeeafe2cf4564b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
