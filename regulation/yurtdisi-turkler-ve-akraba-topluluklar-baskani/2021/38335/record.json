@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38335",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURTDIŞI TÜRKLER VE AKRABA TOPLULUKLAR BAŞKANLIĞI MALİ DESTEK YÖNETMELİĞİ",
+  "number": "38335",
+  "issuer": "Yurtdışı Türkler ve Akraba Topluluklar Başkanı",
+  "issuer_slug": "yurtdisi-turkler-ve-akraba-topluluklar-baskani",
+  "path": "regulation/yurtdisi-turkler-ve-akraba-topluluklar-baskani/2021/38335",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38335&MevzuatTertip=5",
+  "source_sha256": "144d646342a7c1864a16692c01fe836a1be33771aa56b58aa29c9d0c2d1c9e07",
+  "source_bytes": 35376,
+  "published": "2021-02-17",
+  "gazette": "31398",
+  "in_force": "2021-02-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.02.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1808,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
