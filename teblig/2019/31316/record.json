@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.31316",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ZEMİN VE TEMEL ETÜDÜ UYGULAMA ESASLARI VE RAPOR FORMATINA DAİR TEBLİĞ",
+  "number": "31316",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2019/31316",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=31316&MevzuatTertip=5",
+  "source_sha256": "c3a17b622407cb70464ce95e4587b63258996e040fe735c93df9f70f520f81fb",
+  "source_bytes": 16792,
+  "published": "2019-03-09",
+  "gazette": "30709",
+  "in_force": "2021-02-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"17/2/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-02-17",
+      "17/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 292,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.31316-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

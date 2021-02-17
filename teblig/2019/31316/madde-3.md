@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 107 nci maddesinin birinci fıkrası ile 18/3/2018 tarihli ve 30364 mükerrer sayılı Resmî Gazete’de yayımlanan Türkiye Bina Deprem Yönetmeliğinin eki Deprem Etkisi Altında Temel Zemini ve Temellerin Tasarımı İçin Özel Kuralların 16.2.2 nci maddesine ve 3/7/2017 tarihli ve 30113 sayılı Resmî Gazete’de yayımlanan Planlı Alanlar İmar Yönetmeliğinin 4 üncü maddesinin (ççççç) bendine dayanılarak hazırlanmıştır.

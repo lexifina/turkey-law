@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ; yeni inşa edilecek yapılar için; bölgenin jeolojisi, bölgesel deprem özellikleri, yapı özellikleri, zemin özellikleri, civar yapılar, yeraltı suyu durumu ve çevre koşulları dikkate alınarak zemin araştırmaları için yapılması gereken planlama, arazi araştırmaları ve laboratuvar çalışmalarıyla bu çalışmalara dayalı olarak hazırlanacak zemin ve temel etüt raporları ile mevcut binaların değerlendirilmesi, riskli yapı tespiti ve güçlendirilmesi süreçlerinde yapılması gereken zemin araştırmalarını kapsar.
