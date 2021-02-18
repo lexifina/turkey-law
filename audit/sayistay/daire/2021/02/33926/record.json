@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "453",
+  "decision_date": "2021-02-18",
+  "source_id": 33926,
+  "chamber": "5",
+  "ilam_number": "96",
+  "item_number": 15,
+  "account_year": 2019,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33926/",
+  "source_sha256": "10e98510a533720559a692506a7e33f10ba804ae24193e665f07e9c69077d4bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
