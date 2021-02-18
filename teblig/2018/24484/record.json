@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.24484",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRİK ELEKTRONİK VE HİZMET İHRACATÇILARI BİRLİĞİNİN UNVANININ DEĞİŞTİRİLMESİ VE HİZMET İHRACATÇILARI BİRLİĞİ KURULMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: İHRACAT 2018/3)",
+  "number": "24484",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24484",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24484&MevzuatTertip=5",
+  "source_sha256": "aebd60e4114efd73b76acd185a6f27f2d78ad77d13f49441fe033c877a5e399f",
+  "source_bytes": 14580,
+  "published": "2018-03-24",
+  "gazette": "30370",
+  "in_force": "2021-02-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/2/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-02-18",
+      "RG-18/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-18",
+      "18/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 134,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
