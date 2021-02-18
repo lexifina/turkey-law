@@ -1,0 +1,13 @@
+{
+  "number": "21-08/109-45",
+  "type": "Diğer",
+  "decision_date": "2021-02-18",
+  "publication_date": "2021-06-10",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=d65a25c6-bae3-40f8-8117-901cf6fc3f0b",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=252",
+  "pdf_sha256": "22e1b2b41dd02118edf568e38302ee4697c255b517aa7454481d73fe1956c7ca",
+  "pdf_bytes": "244519",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official title"
+}
