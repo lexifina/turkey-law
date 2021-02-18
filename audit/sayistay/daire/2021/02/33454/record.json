@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "787",
+  "decision_date": "2021-02-18",
+  "source_id": 33454,
+  "chamber": "6",
+  "ilam_number": "56",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33454/",
+  "source_sha256": "db1da324fe7d152dcee133bcee72b9322a9f9ad6f2479a80b05c8bb28e7111a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
