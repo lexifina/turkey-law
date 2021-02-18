@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "453",
+  "decision_date": "2021-02-18",
+  "source_id": 33995,
+  "chamber": "5",
+  "ilam_number": "96",
+  "item_number": 66,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33995/",
+  "source_sha256": "9b3118b2b45d3a59f8a2993364fd8d5b096484702cfff3c96df443af961d1aae",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
