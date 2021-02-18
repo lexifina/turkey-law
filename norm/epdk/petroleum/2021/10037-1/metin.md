@@ -1,0 +1,13 @@
+20 Şubat 2021 Tarihli ve 31401 Sayılı Resmi Gazete
+
+Enerji Piyasası Düzenleme Kurumundan:
+
+KURUL KARARI
+
+Karar No: 10037-1 Karar Tarihi: 18/02/2021
+
+Enerji Piyasası Düzenleme Kurulunun 18/02/2021 tarihli toplantısında; ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/473-14/10348 sayılı depolama lisansı kapsamında Karaduvar Mahallesi - Mersin adresinde faaliyette bulunan Karaduvar Tesisine ilişkin depolama tarifesinin ekteki şekilde tadil edilerek onaylanmasına,
+
+karar verilmiştir.
+
+EK: ATAŞ Anadolu Tasfiyehanesi A.Ş. - Karaduvar Tesisi Depolama Tarifesi
