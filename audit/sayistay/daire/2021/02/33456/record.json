@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "787",
+  "decision_date": "2021-02-18",
+  "source_id": 33456,
+  "chamber": "6",
+  "ilam_number": "56",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33456/",
+  "source_sha256": "9cd8e6931a96eac407eef6a6f7941c9578761dfa204eb2447d4508a0a0a99870",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
