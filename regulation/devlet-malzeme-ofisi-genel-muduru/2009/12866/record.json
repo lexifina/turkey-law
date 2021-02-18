@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.12866",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET MALZEME OFİSİ SÖZLEŞMELİ PERSONELİ SİCİL AMİRLERİ YÖNETMELİĞİ",
+  "number": "12866",
+  "issuer": "Devlet Malzeme Ofisi Genel Müdürü",
+  "issuer_slug": "devlet-malzeme-ofisi-genel-muduru",
+  "path": "regulation/devlet-malzeme-ofisi-genel-muduru/2009/12866",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12866&MevzuatTertip=5",
+  "source_sha256": "462dabf3d8157ec8bc7a7fb4f153d66ae9edae7c97c20de3881263e381d9e6e7",
+  "source_bytes": 38973,
+  "published": "2009-02-13",
+  "gazette": "27140",
+  "in_force": "2021-02-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/2/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-02-18",
+      "RG-18/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-18",
+      "18/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 359,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
