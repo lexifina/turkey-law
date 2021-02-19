@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-02-20",
+      "20.02.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "RG-19/2/2021-31400",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-02-19",
+      "19/2/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/2/2021-31400",
+  "first_law": null,
+  "gazette": "28919",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2014/19413",
+  "published": "2014-02-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19413&MevzuatTertip=5",
+  "source_bytes": 19796,
+  "source_id": "8.5.19413",
+  "source_sha256": "bfe0880d8729ba55063565210eedf9be14f50737ac500f47b6b983202411777d",
+  "text_status": "current-consolidated",
+  "title": "GALATASARAY ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 653
+}
