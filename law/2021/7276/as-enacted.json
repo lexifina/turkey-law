@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7276",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuzey Kıbrıs Türk Cumhuriyeti Hükümeti Arasında Enerji Alanında İş Birliğine İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-8.htm",
+  "source_sha256": "34d1f69b169359a54ccf33e811da4361403839eca26a0cc1e865c15d7bb0a66b",
+  "text_sha256": "c9f004dcd6154bc33e2164bac847bb9db3041808d3a2b2fe135cce53701f84cf",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
