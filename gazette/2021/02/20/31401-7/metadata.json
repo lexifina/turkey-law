@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-02-20",
+  "issue": "31401",
+  "edition": "regular",
+  "item": 7,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7275 Türkiye Cumhuriyeti ile İsviçre Konfederasyonu Arasında Tarım Anlaşmasının Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki Verilmesine İlişkin Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220.htm",
+  "index_sha256": "01e13f5d44b541863b24f440f10d7a67109a1775123d13e0524c20e667a7dc8f",
+  "index_header": "20 Şubat 2021 ... 31401 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
