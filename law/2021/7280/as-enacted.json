@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7280",
+  "year": 2021,
+  "title": "7280 sayılı Kanun",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-12.htm",
+  "source_sha256": "11c8d72688128cb660a3a72710f8fb3d20488ca51b67fe89856286d5c05eeb14",
+  "text_sha256": "804bcebf70183958f76cbcd4b133784a370b60d189641066e1e26c8be6e3e265",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
