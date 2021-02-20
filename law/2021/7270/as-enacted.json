@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7270",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Azerbaycan Cumhuriyeti Hükümeti Arasında Savunma Sanayi İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-2.htm",
+  "source_sha256": "38f81ec797e882523eccad40568bc05e6c8bd29085f6e2b3ecaf92ea6536371b",
+  "text_sha256": "d7933c9506b7dd38f34230e985e826e74917d6d12da37c4ac4c65505812a571f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
