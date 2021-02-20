@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7275",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti ile İsviçre Konfederasyonu Arasında Tarım Anlaşmasının Onaylanmasının Uygun Bulunduğuna ve Anlaşmanın Eklerine İlişkin Değişikliklerin Cumhurbaşkanınca Doğrudan Onaylanmasına Dair Yetki verilmesine İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-7.htm",
+  "source_sha256": "f85e82f192a4022b66ac8fe7600d72f564ebccab359a419f0e49b11ccda205da",
+  "text_sha256": "f6a40d4c45d55440f8ef2e0f02d4bab0cf2fd0929db4f38c745bb7ddf8ca9251",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
