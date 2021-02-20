@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7277",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Bolivarcı Venezuela Cumhuriyeti Hükümeti Arasında Gelir Üzerinden Alınan vergilerde Çifte vergilendirmeyi Önleme ve vergi Kaçakçılığı ile vergiden Kaçınmaya Engel Olma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-9.htm",
+  "source_sha256": "11f8425b9de5a28adbd9213be2df84a958acad0fe1f2204b816daf69aac3f3fb",
+  "text_sha256": "6823875c32f48dee38e1e13d73d988bdb06fe6935915e3e87368d7346c46c614",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-9",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-9.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
