@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7271",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükûmeti ile Kazakistan Cumhuriyeti Hükûmeti Arasında Askeri İş Birliği Anlaşmasının Notalarla Birlikte Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-02-20",
+  "gazette_issue": "31401",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-3.htm",
+  "source_sha256": "1cd30fff35f626d7d6b29a1650bd9a3b25cb781a57e4c2bd714046beb7875150",
+  "text_sha256": "30d9fbd73637023647f2b31738c488e62f13e4d98b11b51b75b154066b42a142",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/02/20/31401-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/02/20210220-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
