@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2017-05-31",
+      "31.05.2017",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-02-21",
+      "RG-21/2/2021-31402",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-02",
+      "RG-02/02/2020-31027",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-02",
+      "RG-02/02/2020-31027",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-02-02",
+      "02/02/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2021-02-21",
+      "21/2/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-21/2/2021-31402",
+  "first_law": null,
+  "gazette": "30082",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-21",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Atatürk Üniversitesi",
+  "issuer_slug": "ataturk-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ataturk-universitesi/2017/23617",
+  "published": "2017-05-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23617&MevzuatTertip=5",
+  "source_bytes": 38889,
+  "source_id": "8.5.23617",
+  "source_sha256": "3e06493e2d55bf93319c427352d32e9b8205f42092864cb052b4d685e5e490f1",
+  "text_status": "current-consolidated",
+  "title": "ATATÜRK ÜNİVERSİTESİ HALI KİLİM VE EL SANATLARI UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 181,
+  "word_count": 1377
+}
