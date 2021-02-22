@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-22",
+      "22.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31403",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-22",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hakkari Üniversitesi",
+  "issuer_slug": "hakkari-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hakkari-universitesi/2021/38341",
+  "published": "2021-02-22",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38341&MevzuatTertip=5",
+  "source_bytes": 163566,
+  "source_id": "8.5.38341",
+  "source_sha256": "ce21bc66caab0afc50b0cc4bba0171f407ed70cc0d134530b4ce7d52225d4b53",
+  "text_status": "as-enacted",
+  "title": "HAKKARİ ÜNİVERSİTESİ LİSANSÜSTÜ\r\nEĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 346,
+  "word_count": 12066
+}
