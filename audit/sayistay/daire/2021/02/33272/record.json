@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "375",
+  "decision_date": "2021-02-23",
+  "source_id": 33272,
+  "chamber": "3",
+  "ilam_number": "52",
+  "item_number": 19,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33272/",
+  "source_sha256": "3270b36eaafdee9e7029870ba9ee6f5921754884e31c8a5fd2774c365cc28d96",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
