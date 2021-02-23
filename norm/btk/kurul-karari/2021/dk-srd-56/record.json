@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SRD/56",
+  "source_id": "2021/DK-SRD/56",
+  "date": "2021-02-23",
+  "title": "Posta Hizmetlerine Yönelik Alternatif Teslimat Modellerinin Uygulanması",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/23049b52-7324-46fb-ba0e-63ba5a1188ee.pdf",
+  "source_sha256": "4a14a4fe055f4303aa6a4967c5c6eb8a10bae9844efd59dccd723e4a16e4ee95",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
