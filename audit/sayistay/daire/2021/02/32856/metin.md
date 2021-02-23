@@ -1,0 +1,67 @@
+VEKALET ÜCRETİ ÖDEMESİ
+
+Boş bulunan ………. İl Müdürlüklerine vekâlet eden valilik personeline, yürüttükleri vekâlet görevi nedeniyle 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan ………“İl Müdürü” kadrosu için belirlenen ücret ve tazminat göstergesi esas alınarak vekâlet ücreti ödemesi yapılmak suretiyle kamu zararına sebebiyet verilmesi hususunun sorgu konusu edildiği görülmüştür.
+
+Türkiye Cumhuriyeti Anayasası’nın 128’inci maddesinin ikinci fıkrasında;
+
+"Memurların ve diğer kamu görevlilerinin nitelikleri, atanmaları, görev ve yetkileri, hakları ve yükümlülükleri, aylık ve ödenekleri ve diğer özlük işleri kanunla düzenlenir. Ancak, malî ve sosyal haklara ilişkin toplu sözleşme hükümleri saklıdır.”
+
+Denilmek suretiyle, memurların ve diğer kamu görevlilerinin mali ve sosyal haklarının ancak kanunla düzenlenebileceği, bunun tek istisnasının da mali ve sosyal haklara ilişkin toplu sözleşme olduğu, hüküm altına alınmıştır.
+
+Buna göre, memurların ve diğer kamu görevlilerinin herhangi bir mali ve sosyal haktan yararlanabilmesi, söz konusu hakkın kanunla düzenlenmiş olması veya toplu sözleşmede yer alması halinde mümkündür.
+
+Memur kadrolarına vekâleten atananların yararlanacakları mali haklar mevzuatta açıkça düzenlenmiş olup ilgili mevzuatında belirtilen şartların tümünü taşımak kaydıyla, vekalaten atananlara atandığı kadroya bağlı olarak vekâlet aylığı, zam ve tazminat farkı ile ek ödeme farkından biri, birkaçı veya tümü ödenebilmektedir.
+
+Türkiye Cumhuriyeti Anayasası’nın bahsi geçen 128’inci maddesi hükmüne uygun olarak, Devlet memurlarının sınıfları, nitelikleri, atanmaları, görev ve yetkileri, hakları ve yükümlülükleri, aylık ve ödenekleri ile diğer özlük işleri 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamede düzenlenmiştir.
+
+02/11/2011 tarihli ve 28103 sayılı Mükerrer Resmi Gazete’de yayımlanan Kamu Görevlilerinin Mali Haklarının Düzenlenmesi Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair 666 sayılı Kanun Hükmünde Kararnamenin 1’inci maddesi ile 375 sayılı Kanun Hükmünde Kararnameye eklenen ek 10’uncu maddede;
+
+"Cumhurbaşkanlığı İdari İşler Başkanlığı ve Cumhurbaşkanlığına bağlı olarak kurulan başkanlıklar ve Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatı, Başbakanlık ve bakanlıklar ile bunların bağlı ve ilgili kuruluşları (Milli İstihbarat Teşkilatı Müsteşarlığı, Toplu Konutİdaresi Başkanlığı ile 2659 sayılı Kanunun 30 uncu maddesi ve 399 sayılı Kanun Hükmünde Kararnamenin ek 2 nci maddesi kapsamında bulunanlar hariç), sosyal güvenlik kurumları, Türkiye İnsan Hakları ve Eşitlik Kurumu, Yüksek Seçim Kurulu, Yükseköğretim Kurulu, Üniversitelerarası Kurul ve Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının;
+
+a) Merkez teşkilatlarında Mülki İdare Amirliği Hizmetleri Sınıfına ait kadrolarda yer alanlar ile 28/2/1985 tarihli ve 3160 sayılı Kanuna göre tazminat alanlar hariç olmak üzere bu Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvelde yer alan unvanlı kadrolarda bulunanlardan,
+
+b) Taşra teşkilatlarına ait kadrolarda bulunup, kadro unvanları ekli (II) sayılı Cetvelde yer alanlardan,
+
+c) Merkez teşkilatlarında; Dışişleri Meslek Memuru ve Konsolosluk ve İhtisas Memurları, özel yarışma sınavı sonucunda mesleğe yardımcı veya stajyer olarak alınıp belirli süreli yetiştirme döneminden sonra özel bir yeterlik sınavı sonunda müfettiş, uzman, denetçi, kontrolör, aktüer ve stenograf unvanlı kadrolara (mevzuatı uyarınca söz konusu kadrolara atananlar dâhil) atananlar ve bunların yardımcı ve stajyerleri ile iç denetçilerden ekli (III) sayılı Cetvelde yer alan unvanlı kadrolarda bulunanlardan,
+
+aylıklarını 657 sayılı Devlet Memurları Kanununa göre almakta olanlara anılan Cetvellerde kadro unvanlarına karşılık gelen gösterge rakamlarının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarlarda ücret ve tazminat verilir. Bu ödemelere hak kazanılmasında ve bunların ödenmesinde aylıklara ilişkin hükümler uygulanır. Ekli (II) ve (III) sayılı Cetvellerde atandıkları kadro dereceleri esas alınarak belirlenen ücret ve tazminatlar, 657 sayılı Kanunun 45 inci maddesine göre atananlar ile haklarında aynı Kanunun 67 nci maddesi uygulananlar için kazanılmış hak aylık dereceleri dikkate alınarak ödenir. Tazminat damga vergisi hariç herhangi bir vergiye tabi tutulmaz.
+
+Bu madde kapsamına giren personele; bu Kanun Hükmünde Kararnamenin 1 inci maddesinin (D) bendi, 2 nci, 28 inci, ek 1 inci, ek 4 üncü ve ek 13 üncü maddeleri hariç olmak üzere diğer maddelerinde öngörülen her türlü ödemeler ile ek 9 uncu maddesinin üçüncü ve dördüncü fıkralarında belirtilen mevzuat hükümlerine göre yapılan ödemeler, 4/6/1937 tarihli ve 3201 sayılı Kanunun ek 21 inci maddesinde öngörülen ödeme, 657 sayılı Kanunda ödenmesi öngörülen aylık, ek gösterge, zam ve tazminatlar ve makam tazminatı ile avukatlık vekalet ücreti ve temsil tazminatı ödenmez.
+
+Ekli (II) sayılı Cetvel kapsamında yer alan kadrolara vekaleten atananlara vekalet görevi nedeniyle birinci fıkrada belirtilen ödemeler yapılmaz. Ekli (II) ve (III) sayılı Cetvellerde yer alan kadrolarda bulunan ve ekli (II) sayılı Cetvel kapsamındaki başka kadrolara veya diğer kadrolara vekaleten atanan personele, birinci fıkrada belirtilen ödemeler dikkate alınmaksızın, 657 sayılı Kanunun 86 ncı maddesi hükümleri çerçevesinde ve 175 inci maddesine göre vekaleten atanılan kadrolar için belirlenmiş olan aylık göstergeleri ve ek göstergeler esas alınarak vekalet aylığı ve anılan Kanunun 152 nci maddesi uyarınca yürürlüğe konulan Cumhurbaşkanı kararının vekalete ilişkin hükümleri uyarınca işgal ettikleri kadrolar ve vekaleten atandıkları kadrolar için belirlenmiş olan zam ve tazminatlarının toplam tutarı esas alınarak zam ve tazminat farkı ödenir.
+
+Diğer kanunların bu maddeye aykırı hükümleri uygulanmaz.
+
+Bu maddenin uygulamasına ilişkin olarak ortaya çıkabilecek tereddütleri gidermeye ve uygulamayı yönlendirmeye Maliye Bakanlığı yetkilidir.”
+
+Şeklinde bir düzenlemeye yer verilmek suretiyle, anılan Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvel kapsamında yer alan kadrolara vekâleten atananlara, ilgili mevzuatta öngörülmüş bulunan tüm şartların bir arada sağlanması halinde vekâlet aylığı ile zam ve tazminat farkının ödenebileceği hüküm altına alınmıştır.
+
+Bununla birlikte, Anayasa Mahkemesinin 01.03.2017 tarihli ve Esas No: 2017/52, Karar No: 2017/32 sayılı Kararı ile 666 sayılı Kanun Hükmünde Kararnamenin 1’inci maddesiyle 375 sayılı Kanun Hükmünde Kararnameye eklenen ek 10’uncu maddenin üçüncü fıkrasının birinci cümlesinde yer alan; “Ekli (II) sayılı Cetvel kapsamında yer alan kadrolara vekâleten atananlara vekâlet görevi nedeniyle birinci fıkrada belirtilen ödemeler yapılmaz.” ibaresi, söz konusu düzenlemenin 666 sayılı Kanun Hükmünde Kararnamenin dayanağı olan 6223 sayılı Kamu Hizmetlerinin Düzenli, Etkin Ve Verimli Bir Şekilde Yürütülmesini Sağlamak Üzere Kamu Kurum Ve Kuruluşlarının Teşkilat, Görev Ve Yetkileri İle Kamu Görevlilerine İlişkin Konularda Yetki Kanunu kapsamında bulunmaması ve anılan Kanunla Bakanlar Kuruluna verilen yetki kamu görevlilerinin "atanma, nakil, görevlendirilme, seçilme, terfi, yükselme, görevden alınma ve emekliye sevk edilme usul ve esasları" ile sınırlı iken, söz konusu düzenlemenin doğrudan mali haklara ilişkin olması gerekçesiyle “Afet ve Acil Durum Yönetimi Başkanlığı İl Müdürü” kadrosu yönünden Anayasa'ya aykırı bulunarak iptal edilmiştir.
+
+Savunmalarda, Anayasa Mahkemesinin bahsi geçen 01.03.2017 tarihli ve Esas No: 2017/52, Karar No: 2017/32 sayılı Kararı sonrasında, ….. İl Müdürü vekillerine ödenecek olan vekalet ücreti ödemesinin 375 sayılı KHK eki (II) sayılı cetvel esas alınarak hesaplanması ve ödenmesi önünde herhangi bir yasal engel bulunmadığı, buna göre herhangi bir kamu zararına yol açılmadığı belirtilmiş ise de;
+
+375 sayılı Kanun Hükmünde Kararnamenin ek 10’uncu maddesinin üçüncü fıkrasının birinci cümlesinde yer alan; "Ekli (II) sayılı Cetvel kapsamında yer alan kadrolara vekâleten atananlara vekâlet görevi nedeniyle birinci fıkrada belirtilen ödemeler yapılmaz.” ibaresi 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvelde yer alan kadrolara vekâleten atananlara, vekâlet görevi nedeniyle yararlanabilecekleri mali haklar bakımından yeni bir sınırlama getirmediği gibi, bu ibarenin tamamen kaldırılmış olması da herhangi bir mali hak doğurmamaktadır. Dolayısıyla, bu kadrolara vekâleten atananların söz konusu kadrolar için öngörülen ücret ve tazminatlardan yararlanabileceğine dair açık bir düzenleme yapılmadıkça, Anayasa Mahkemesinin Kararı sonucunda anılan ibarenin iptal edilmesi gerekçe gösterilerek, bu kadrolara vekâleten atananlara ücret ve tazminat ödenmesine imkân bulunmamaktadır.
+
+Kaldı ki, Anayasa Mahkemesinin anılan Kararından sonra da konuya ilişkin herhangi bir kanuni düzenleme yapılmamış ve “Kamu Görevlilerinin Geneline ve Hizmet Kollarına Yönelik Mali ve Sosyal Haklara İlişkin 2018 ve 2019 Yıllarını Kapsayan 4. Dönem Toplu Sözleşmede” konuyla ilişkili herhangi bir hükme yer verilmemiştir.
+
+Bu itibarla, Anayasanın 128’inci maddesinin, memurların ve diğer kamu görevlilerinin mali ve sosyal haklarının kanunla ya da toplu sözleşmeyle düzenlenebileceğine dair emredici hükmü ışığında, “…. İl Müdürlüğü” kadrosuna vekâleten atananlara söz konusu vekâlet görevi nedeniyle, “……. İl Müdürü” için 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvelde öngörülen ücret ve tazminatların ödenebileceğine dair kanuni düzenleme yapılmadıkça veya memurlar ve diğer kamu görevlileri için yapılan toplu sözleşmelerde herhangi bir hükme yer verilmedikçe, “….. İl Müdürü” kadrosuna vekâleten atananların söz konusu “İl Müdürü" için öngörülen ücret ve tazminatlardan yararlandırılmasına imkân bulunmamaktadır.
+
+Öte yandan, ……. İl Müdürü kadrosunun 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı Cetvel kapsamında yer aldığı, ancak İl ………. Müdürlüklerine vekalet eden personelin asli görevlerinin söz konusu cetvellerde yer almadığı da dikkate alındığında, bu kadrolara vekâleten atananların 657 sayılı Kanunun 86 ıncı maddesi ile diğer düzenlemelerde yer alan tüm şartları taşımaları halinde sadece 657 sayılı Kanunun 175’inci maddesinde öngörülen vekâlet aylığı ile Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Kararın 9’uncu maddesi uyarınca öngörülen zam ve tazminat farkından yararlandırılması mümkün olabilir.
+
+Ancak, Denetim ekibince sorgu ile, yapılan vekâlet ödemesinin 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan ……… İl Müdürü kadrosu için belirlenen ücret ve tazminat göstergesi esas alınarak yapılan ödeme mi, yoksa 657 sayılı Kanunun 175 maddesinde öngörülen vekâlet aylığı ile Devlet Memurlarına Ödenecek Zam ve Tazminatlara İlişkin Kararın 9’uncu maddesi uyarınca öngörülen zam ve tazminat farkından oluşan ödeme mi olduğunun bildirilmesinin istenmesine rağmen, sorumlularca ilgililere sadece 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan …….. İl Müdürü kadrosu için belirlenen ücret ve tazminat göstergesi esas alınarak vekâlet ödemesi yapıldığı bildirilmiş olup bu hususta başkaca bir açıklama yapılmamıştır.
+
+Diğer taraftan, ……'a yapılan vekalet ödemesi nedeniyle gerçekleştirme görevlisi olarak sorumlu tutulan ……… İl Müdürlüğü personeli savunmalarında, …….. İl Müdürü olarak görev yapmakta olan ……..’ın söz konusu dönemler için yapılan ödemelerin kamu zararı oluşturduğuna hükmedilmesi durumunda sorumluluğu hem şahsi hem de ödeme mercii olarak (Harcama Yetkilisi) kendisine ait olduğunu bildirmesi üzerine, amirlerinin emir ve talimatları doğrultusunda ödeme evraklarını hazırlamış olduklarını belirtmişlerdir.
+
+5018 sayılı Kanunun 33’üncü maddesi uyarınca bütçeden bir giderin yapılabilmesi için; iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak alındığının veya gerçekleştirildiğinin görevlendirilmiş kişi veya komisyonlarca onaylanmış ve gerçekleştirme belgelerinin düzenlenmiş olması gerekmektedir. Ayrıca, bir mali işlemin gerçekleştirilmesinde görevli olanların sorumlu addedilebilmeleri için bu kişilerin yetkili ve görevli olması ve giderin bu görevlilerce düzenlenen belgeye dayanması gerektiği de aynı maddede belirtilmiştir.
+
+Bu nedenle, ödeme emri belgesine eklenmesi gereken taahhüt ve tahakkuk işlemlerine ilişkin fatura, beyanname, tutanak gibi gerçekleştirme belgelerini düzenleyen veya bu belgeleri kabul eden gerçekleştirme görevlilerinin, bu görevleriyle ilgili olarak yapmaları gereken iş ve işlemlerle sınırlı olarak sorumlulukları bulunmaktadır.
+
+Dolayısıyla vekalet ücreti ödeme evraklarını hazırlayan ve gerçekleştirme görevlisi sıfatıyla imzalayan kişilerin sorumluluğu söz konusu olup bu nedenle yapılan savunmanın kabulüne imkan bulunmamaktadır.
+
+Yukarıda yazılı gerekçelerle, boş bulunan …….. İl Müdürlüklerine vekâlet eden valilik personeline, yürüttükleri vekâlet görevi nedeniyle 375 sayılı Kanun Hükmünde Kararnameye ekli (II) sayılı cetvelde yer alan “……… İl  Müdürü” kadrosu için belirlenen ücret ve tazminat göstergesi esas alınarak vekâlet ücreti ödemesi yapılması sonucu oluşan …. TL’nin sorumlularına ortaklaşa ve zincirleme,
+
+6085 sayılı Sayıştay Kanunu’nun 53’üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine, anılan Kanunun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere,
+
+Oy birliğiyle,
+
+Karar verildi.
