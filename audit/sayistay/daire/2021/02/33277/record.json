@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "375",
+  "decision_date": "2021-02-23",
+  "source_id": 33277,
+  "chamber": "3",
+  "ilam_number": "52",
+  "item_number": 24,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33277/",
+  "source_sha256": "dac1f2cacd5edd0f9158875a73f5eafaf27cfe1af5a837de46b05424487d69fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
