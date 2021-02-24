@@ -1,0 +1,6 @@
+İnceleme, bilgi ve belge isteme ve dosyanın tekemmülü
+MADDE 8- (1) Başvuru, Komisyon Başkanı tarafından raportöre tevdi edilir. Raportör öncelikle başvuru formu ile başvuruda sunulan belgelerde eksiklik olup olmadığını kontrol eder. Herhangi bir eksiklik varsa Komisyon Başkanı, eksikliğin giderilmesi için başvurana on beş gün süre verir. Başvuran, belirtilen eksiklikleri tamamlayarak ilgili evrakı 6 ncı maddede belirtilen usulle Komisyona iletir. Öngörülen süre içinde mazeretsiz olarak eksikliklerin tamamlanmaması halinde mevcut dosya kapsamına göre karar verilir.
+(2) Komisyon, başvuruların değerlendirilmesinde ihtiyaç duyulan her türlü bilgi ve belgeyi kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerden talep edebilir. Komisyon, ihtiyacın belirlenmesi ve ilgililerden talep edilmesi konusunda Komisyon Başkanını yetkilendirebilir. Kamu kurum ve kuruluşları bu talebi belirlenen süre içinde yerine getirmek zorundadır.
+(3) İnceleme sürecinde temsil belgesi veya vekâletnamenin geçersiz hale gelmesi, başvurunun karara bağlanmasını engellemez.
+(4) İnceleme sürecinde başvuranın vefat etmesi halinde, kanuni mirasçılarından yeni başvuru alınmaksızın başvuru karara bağlanır.
+(5) Dosya tekemmül ettiğinde raportör dosyayı Komisyona sunar.

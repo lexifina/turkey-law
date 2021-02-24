@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Usul ve Esasların amacı; 23/6/2020 tarihli ve 7248 sayılı 1924 tarih ve 491 sayılı Teşkilâtı Esasiye Kanununun Bazı Hükümlerinin Kaldırılması ve Bazı Hükümlerinin Değiştirilmesi Hakkında Geçici Kanunun Bazı Hükümlerinin Yürürlükten Kaldırılması ve Neden Olunan Mağduriyetlerin Giderilmesi Hakkında Kanun gereğince 13/10/2020 tarihli ve 2020/439 sayılı Cumhurbaşkanı Kararı ile kurulan Komisyonun çalışma usul ve esasları ile Komisyona başvuru şeklini belirlemektir.

@@ -1,0 +1,100 @@
+{
+  "id": "presidency-regulation-3564",
+  "number": "3564",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "27 MAYIS 1960 ASKERİ DARBE MAĞDURLARININ ZARARLARININ TAZMİNİ AMACIYLA KURULAN KOMİSYONUN ÇALIŞMA USUL VE ESASLARI",
+  "published": "2021-02-24",
+  "enacted": "2021-02-23",
+  "gazette_number": "31405",
+  "in_force": "2021-02-24",
+  "in_force_basis": "Official own commencement clause: 2021-02-24; official source: Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.; official Gazette 2021-02-24",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3564&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "3cfb0a6648c80b7358d2f305bf6254fd89fecae036a54066b7a388262a2270b0",
+  "source_links": [
+    {
+      "type": "reference",
+      "status": "referenced",
+      "source_url": "https://1960tazminatkomisyonu.adalet.gov.tr",
+      "source_caption": "https://1960tazminatkomisyonu.adalet.gov.tr",
+      "source_href": "https://1960tazminatkomisyonu.adalet.gov.tr",
+      "reason": "Reference link preserved from the official text."
+    }
+  ],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 6,
+    "referenced": 0,
+    "omitted": 6
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "46aff98580de3299469e2155a35421b5e7441971370ff917b739085ecde7db06",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image002.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f9177f7d81e6648ba757087be1e34cc0cf9dd1f5204922ca0b0e3bb6ec55cd94",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image003.png",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8e2d7ebc67547b77f37a3d439e701370879c994ac282976c83cbdf5c98ae6012",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image004.png",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f8a4c4c983d87b65a97a4d7daf0935261f72844e70d73be660763efe44c5c29d",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image005.png",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "022c2914a154a89716d85b877b47eee46211bb60afbc682e8d3c8c2b9edf4edc",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.3564_dosyalar/image006.png",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "03a1527ded84fd75b1396ff9ada2fdbd68ef6429804ce43216b402ea802ce232",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
