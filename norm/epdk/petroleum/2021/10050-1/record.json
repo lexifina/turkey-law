@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10050-1",
+  "decision_date": "2021-02-25",
+  "title": "Aves Güney Antrepoculuk A.Ş.’nin; DEP/7646-3/39543 sayılı Depolama Lisansı kapsamında faaliyette bulunan Mersin Depolama ve Dolum Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2021-03-02",
+  "resmi_gazete_number": "31411",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HJdpQ85EZFM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HJdpQ85EZFM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JVDYK69DmyQ="
+  ],
+  "source_sha256": "e686cdbc414bb7114420e1dcd77128612deff7fe0c881263c5292fe57cc7acb6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-02-25",
+  "law_text_complete": true
+}
