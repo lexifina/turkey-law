@@ -1,0 +1,67 @@
+Personel atama
+
+Büyükşehir Belediyesinde şube müdürü olarak görünen .........................’ın atamasının mevzuata aykırı yapılması suretiyle ............................. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+5302 sayılı İl Özel idaresi Kanunu’nun “İl özel idaresi teşkilâtı” başlıklı 35 inci maddesinin dördüncü fıkrasında; “İlçelerde, özel idare işlerini yürütmek amacıyla kaymakama bağlı ilçe özel idare teşkilâtı oluşturulabilir.”, “Norm kadro ve personel istihdamı” başlıklı 36 ncı maddesinde; “Norm kadro ilke ve standartları İçişleri Bakanlığı ve Devlet Personel Başkanlığı tarafından müştereken belirlenir. Bu ilke ve standartlar çerçevesinde norm kadro çalışmasını il özel idaresi yapar veya yaptırır. İl özel idaresi personeli, vali tarafından atanır ve ilk toplantıda il genel meclisinin bilgisine sunulur.”
+
+10.06.2007 gün ve 26548 sayılı Resmî Gazetede yayımlanarak yürürlüğe giren İl Özel İdareleri Norm Kadro İlke ve Standartlarina Dair Yönetmeliğin “İlçe özel idaresi kurulması” başlıklı 17 nci maddesinin birinci fıkrasında; “5302 sayılı İl Özel İdaresi Kanununun 35 inci maddesi çerçevesinde ilçelerde özel idare teşkilatı kurulması durumunda, ildeki ilçe sayısını geçmeyecek sayıda ilçe özel idare müdürü kadrosu bu Yönetmeliğin Ek 4’ünde yer alan (I) sayılı Özel İdareler Memur Kadro Kütüğüne uygun olarak ihdas edilerek özel idarenin kadrolarına eklenir.”
+
+düzenlemeleri yapılmıştır.
+
+Norm kadro yönetmeliği kadrolarda standardı getiren hangi kadroların kullanılacağını, kullanılacak kadroların en üst ve alt derecelerinin belirlendiği düzenlemedir. Norm kadro yönetmeliğinde belirtilen kadrolara yapılacak atamaların nasıl olacağı ile ilgili düzenleme bulunmamaktadır. Kadrolara nasıl atama yapılacağı Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik ile 04.07.2009 gün ve 27278 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelikte belirtilmiştir. 04.07.2009 günlü Yönetmeliğin 5/1/a-1 maddesinde müdürler görevde yükselmeye tabi tutulacak kadrolar arasında sayılmıştır. Yönetmelikte yer alan düzenlemelere göre kişinin müdürlüğe atanabilmesi için dört yıllık okul mezunu olması, belirli görevlerde belirli sürede bulunması ve yazılı sınavda başarılı olması gerekir. İdare/kamu hukukunda atama/görevlendirme belli şart ve niteliklere bağlanmıştır. Belirtilen kadrolara atanma veya görevlendirme ancak şartların sağlanmasıyla mümkündür.
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda; 15.05.1989 tarihinde memuriyete başlayan .................................... 03.08.2001 tarihinde ............................. Üniversitesi İşletme Fakültesi İşletme Bölümünün ilk iki yılını (önlisans) bitirmiş, 15.04.2010 tarihinde görevde yükselme sınavıyla şef kadrosuna, şef olarak çalışırken 15.11.2013 tarihinde sınava girmeden ilçe özel idare müdürü olarak atanmış ve 31.03.2014 tarihinde 6360 sayılı Kanun gereği naklen şube müdürü olarak atanmıştır. ................................... dört yıl süreli okul mezunu değildir.
+
+ Atamanın yapıldığı tarihte atanacak kadro için öngörülen duyuruya çıkılma, başvurular alınma ve eğitime katılma ile sınav şartı yerine getirilmemiştir. İlçe özel idare müdürü kadrolarına atanabilmek için Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelikteki görevde yükselme ve unvan değişikliği için gerekli hizmet süreleri, eğitim düzeyi, sınav ve sınav sonrası eğitim gibi hususlarda yapılan düzenlemelerde gereken şartların yerine getirilmesi gerekmektedir.
+
+02.02.2000 gün ve 23952 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmelikte ilçe özel idare müdürü yer alırken 04.07.2009 gün ve 27278 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelikte yer almamasının ilçe özel idare müdürlüğüne yapılacak atamanın görevde yükselme sınavına tabi olmadığı anlamına gelmediği açıktır.
+
+04.07.2009 günlü Yönetmelikte “ilçe özel idare” müdürü yer almasa da “müdür” yer aldığı için ve ilçe özel idare müdürü de “müdür” olduğundan sınava tabidir. Diğer taraftan 5442 sayılı İl İdaresi Kanunu’nun 8 inci maddesinde; “İlçe idare kurulu, kaymakamın başkanlığı altında tahrirat katibi, malmüdürü, Hükümet hekimi, milli eğitim memuriyle tarım memuru ve veterinerden teşekkül eder.” denilmekte olup, ilçe özel idare müdürü “ilçe idare şube başkanlıkları ile bunlarla aynı düzeydeki diğer görevlere” kapsamında değildir.
+
+Diğer taraftan, sınava girmeden ilçe özel idare müdürlüğüne atanıp buradan naklen şube müdürlüğüne geçilmesi de mümkün değildir. 657 sayılı Kanun’un 68/B maddesine göre yapılan atama sonucu bu müdürlüğün kazanılmış hak kabul edilerek naklen şube müdürlüğüne atanabileceğini kabul etmek mümkün değildir. İlçe özel idare müdürlüğüne atanmış olma herhangi bir kazanılmış hak teşkil etmeyeceği gibi şube müdürlüğüne atanmanın basamağı da değildir.
+
+Kamu görevlilerinin ilk kez bir göreve atanırken ya da görevde yükselme suretiyle üst göreve atanırken söz konusu görevin gerektirdiği nitelikleri taşıması zorunludur. Bu zorunluluk atama tarihi bakımından geçerli olduğu gibi görevin sürdürüldüğü süre zarfı yönünden de taşınması gereklidir. Bu çerçevede ilgilinin Büyükşehir Belediyesindeki şube müdürü kadrosuna atanırken bu kadroya atanabilmek için gereken şartı taşımadığı açıktır. Bir görev için öngörülen koşulların taşınmaması halinde bu görevin belirli bir süre yürütülmüş olması ilgili lehine kazanılmış hak oluşturmaz. Söz konusu koşulların atama süresince de taşınması zorunlu olduğundan bu koşulun taşınmadığının daha sonra tespit edilmesi bu kişinin bu kadroda çalışmasına hukuki engel oluşturur. İlgilinin gerekli koşulları taşımadan şube müdürlüğüne atandığı anlaşıldığında bu görevi yürütebilmesine olanak da bulunmamaktadır. İdari yargı, istikrarlı olarak koşullarını taşımadığı halde yapılan atamanın açık hata kapsamında olduğu ve bu nedenle yapılan ödemelerin her zaman geri alınacağına dair kararlar vermektedir.
+
+Anayasa Mahkemesi ve Danıştay kararlarında belirtildiği üzere kazanılmış hak, hakkın elde edildiği tarihteki düzenlemelere (mevzuata) uygun edilmesi halinde geçerlidir. Hakkın elde edildiği tarihteki düzenlemelere (mevzuata) uygun elde edilmeyen hak, kazanılmış hak olarak değerlendirilemez.
+
+Sorumluluk yönünden yapılan inceleme;
+
+Yukarıda esası yönünden değerlendirilen hukuki işlem 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71 inci maddesinde düzenlenen kamu zararının unsurları ile fiil ve netice arasındaki illiyet bağı çerçevesinde değerlendirilecektir.
+
+5018 sayılı Kanunun 71 inci maddesinde, kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır, şeklinde tanımlanmıştır. Mevzuata aykırı işlem veya eylemlerin neticesinde ortaya çıkan bu zararı; kamu zararının objektif unsuru olarak kavramsallaştırılabiliriz. Kamu görevlilerinin varlığı, mevzuata aykırı karar, işlem veya eylemlerin varlığı ve kusur derecesinin belirlenmesine ilişkin hususları da kamu zararının sübjektif unsurları kapsamında değerlendirmek gerekmektedir.
+
+Nitekim, 6085 sayılı Sayıştay Kanunu’nun 7 inci maddesinin üçüncü fıkrasında, “Sorumlular; mevzuata aykırı karar, işlem veya eylemleri ile illiyet bağı kurularak oluşturulan ilamda yer alan kamu zararından tek başlarına veya birlikte tazmin ile yükümlüdür.” denilerek sorumluların tazmin yükümlülüğü kamu zararı ile mevzuata aykırı karar, işlem veya eylemleri arasında illiyet bağının varlığına bağlanmıştır.
+
+Bahse konu mevzuat hükümlerini birlikte değerlendirdiğimizde; hesap yargılamasında kamu zararına birden fazla sorumlunun sebep olduğunun tespiti halinde oluşan bu zarardan söz konusu sorumluların müştereken ve müteselsilen sorumlu tutulmaları gerektiği de açıktır.
+
+Kural olarak bir mali karar, işlem veya eylemin yapılmasında görev alanlardan her birinin işlemi diğer işlemlerin nedeni olduğu takdirde herkes ortaya çıkan zarardan sorumlu tutulacaktır. Bu kapsamda, somut olayda; 06.12.2012 gün ve 28489 sayılı Resmi Gazetede yayımlanan On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair 6360 sayılı Kanun gereği kadrosu Büyükşehir Belediyesine nakledilen ................................’ın 2014 yılında şube müdürlüğüne ataması yapılırken atamasının yönetmeliğe uygun olup olmadığı konusunda gerekli araştırmayı yapmayan dönemin Büyükşehir Belediyesi İnsan Kaynakları Şube Müdürü ................................. ile İnsan Kaynakları ve Eğitim Daire Başkanı ...................................hatalı atamadan dolayı Harcama Yetkilileri ve Gerçekleştirme Görevlileri ile birlikte sorumludur.
+
+Nitekim, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunun “Harcama Talimatı ve Sorumluluk” başlıklı 32 nci maddesinde; “Bütçelerden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatlarında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+
+Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumludur” denilmekle birlikte,
+
+“Giderlerin Gerçekleştirilmesi” başlıklı 33 ncü maddesinde; “Bütçelerden bir giderin yapılabilmesi için iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak alındığının veya gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi; harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır. Gerçekleştirme görevlileri, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütürler”
+
+hükümlerine yer verilmiştir.
+
+5018 sayılı Kanun uyarınca, harcama yetkilileri ve gerçekleştirme görevlileri, giderin gerçekleştirilmesi ve harcamanın yapılması süreçlerinde, mevzuata uygunluk açısından kontrolleri sağlamakla yükümlüdürler. Yapılacak harcama, nitelik itibariyle hukuka aykırı nitelik taşıyorsa, söz konusu işlemleri yapmaktan kaçınmak durumundadırlar.
+
+Bu itibarla, Büyükşehir Belediyesi şube müdürlüğünde görünen .....................................’ın atamasının mevzuata aykırı yapılması  sonucu oluşan .....................................TL kamu zararının;
+
+................................ TL’sinin Harcama Yetkilisi ................................, Gerçekleştirme Görevlisi ........................... ile Diğer Sorumlular yapılan atamanın yönetmeliğe uygun olup olmadığı konusunda gerekli araştırmayı yapmayan ................................. ile ..............................’e,
+
+............................ TL’sinin Harcama Yetkilisi ............................, Gerçekleştirme Görevlisi ......................... ile Diğer Sorumlular yapılan atamanın yönetmeliğe uygun olup olmadığı konusunda gerekli araştırmayı yapmayan .............................. ile .............................’e,
+
+............................. TL’sinin Harcama Yetkilisi ............................, Gerçekleştirme Görevlisi ............................  ile Diğer Sorumlular yapılan atamanın yönetmeliğe uygun olup olmadığı konusunda gerekli araştırmayı yapmayan .......................... ile ....................................’e,
+
+Müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oyçokluğuyla,
+
+karar verildi.
+
+Azınlık Görüşü:
+
+Üye .......................................’in karşı oy gerekçesi;
+
+“İçişleri Bakanlığı Görevde Yükselme ve Unvan Değişikliği Usul ve Esaslarına Dair Yönetmeliğinin “Devredilen veya özelleştirilen kuruluşlardan atama” başlıklı 25 inci maddesinin (b) fıkrasında; “12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile büyükşehirlerde tüzel kişilikleri sona eren İl Özel İdarelerinden Yatırım İzleme ve Koordinasyon Başkanlıklarına Devir, Tasfiye ve Paylaştırma Komisyonlarınca atanan ya da belediye ve bağlı kuruluşlara devredilen norm kadro ve ihtiyaç fazlası personelden aynı Kanununun geçici 1 inci maddesi kapsamında Bakanlığa ilk defa atanacaklarda” bu yönetmelik hükümlerinin uygulanmayacağı belirtilmiştir. Söz konusu personelin atamasının da bu kapsamda değerlendirilmesi gerektiğinden konunun mevzuata uygun olduğu değerlendirilmektedir.”
