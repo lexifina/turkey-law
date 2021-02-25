@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/154",
+  "source_id": 6998,
+  "date": "2021-02-25",
+  "title": "“Bir sigorta şirketinin veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 25.02.2021 tarih ve 2021/154 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6998/2021-154",
+  "source_sha256": "b166c5bceb0d412b02c4d8732d0fdb69ebb28939fa054eb35f4c0e21f89d095a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
