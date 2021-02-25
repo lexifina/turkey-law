@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "421",
+  "decision_date": "2021-02-25",
+  "source_id": 33194,
+  "chamber": "7",
+  "ilam_number": "54",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33194/",
+  "source_sha256": "61d31342aab0622835a048dbefa76c8745f64e3ef9e84819c9871e5f3dc06bb4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
