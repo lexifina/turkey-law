@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "455",
+  "decision_date": "2021-02-25",
+  "source_id": 34055,
+  "chamber": "5",
+  "ilam_number": "89",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34055/",
+  "source_sha256": "2fc0634845e930c49008e2ef2b72dad3c4d3e3320fe201d8ac5f2687ffc0a6f5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
