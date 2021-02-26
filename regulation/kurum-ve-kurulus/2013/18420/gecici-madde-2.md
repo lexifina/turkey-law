@@ -1,0 +1,2 @@
+Mevcut BMGK Listelerinin Uygulanması
+GEÇİCİ MADDE 2 – (1) BMGK’nın 1267 (1999), 1988 (2011), 1989 (2011) sayılı kararlarıyla Kanun yürürlüğe girdiği tarih itibarıyla listelenmiş ve haklarında Bakanlar Kurulu kararı çıkarılmamış kişi, kuruluş veya organizasyonlara ilişkin Dışişleri Bakanlığı kanalıyla iletilen bilgiler, Bakanlar Kurulunca malvarlığının dondurulması kararı alınması için Başkanlık tarafından Başbakanlığa gönderilir. Bakanlar Kurulunun Resmî Gazete’de yayımlanan kararı gecikmeksizin uygulanır.

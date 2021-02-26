@@ -1,0 +1,8 @@
+Denetim için görevlendirme yapılması
+MADDE 19 – (1) Başkanın görevlendirme talebi üzerine, ilgili birim amirinin teklifi ve bağlı veya ilgili bulundukları Bakanın onayı ile denetimi yapmak üzere denetim elemanları görevlendirilir. Görevlendirme, talep tarihinden itibaren en geç yedi gün içinde yapılır. Bu kapsamda talepte bulunulan birim bu talebin gereğini yerine getirmek zorundadır.
+(2) Başkanlık bünyesinde geçici olarak görevlendirilen denetim elemanları ve maliye uzmanları, Başkan tarafından görevlendirilir. Geçici görevli denetim elemanları için ilave onay prosedürü aranmaz.
+(3) Denetim ile görevlendirilenler, göreve ilişkin Başkanlık yazısının kendisine tebliğinden itibaren en geç yedi gün içinde göreve başlayarak göreve başlama tarihini bu süre içinde Başkanlığa bildirirler.
+(4) Denetim ile görevlendirilenler, Başkanlıkça, yürütmekte oldukları denetimlerde bağlantı kurularak kendilerine intikal ettirilen konuları, ayrı bir görevlendirme onayı aranmaksızın ilk görevlendirme onayı kapsamında sonuçlandırır.
+(5) Başkanlık, gerekli gördüğü durumlarda maliye uzmanı ve denetim elemanlarından oluşan bir ekip kurabilir. Başkanlık, denetimle görevlendirilenlerden birini koordinasyonu sağlamak amacıyla görevlendirebilir. Başkanlıkça görevlendirilen koordinatör, ekip çalışmalarının planlanması, yürütülmesi ve zamanında sonuçlandırılması ile ortak rapor düzenlenmesi konularında yetkili ve sorumludur.
+(6) (Mülga:RG-26/2/2021-31407)
+(7) Denetimle görevlendirilenlere 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümleri saklı kalmak kaydıyla, (7.000) gösterge rakamının memur aylık katsayısıyla çarpımı sonucunda bulunan tutarı geçmemek üzere Başkanlıkça belirlenen denetim süresince Başkanlık onayı ile aylık ek ücret ödenir.
