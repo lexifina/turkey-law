@@ -1,0 +1,2 @@
+Malvarlığının dondurulması kararı ve karara aykırı davranışın hukuki sonuçları
+MADDE 10 – (1) Kararın Resmî Gazete’de yayımlanmasından itibaren, karara aykırı olarak yapılan malvarlığının ortadan kaldırılmasına, tüketilmesine, dönüştürülmesine, transferine, devir ve temlik edilmesine veya sair tasarruflara yönelik her türlü işlem hükümsüzdür. Bu tasarruf ve işlemlerle ilgili olarak 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun iyi niyetin korunmasına ilişkin hükümleri saklıdır.

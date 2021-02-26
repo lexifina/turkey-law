@@ -1,0 +1,3 @@
+Suç duyurusu ve BMGK’ya yapılacak bildirim
+MADDE 9 – (1) Kanunun 5 inci maddesinde belirtilen suçların işlendiği hususunda olguların varlığının tespiti halinde, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre gerekli işlemler yapılmak üzere ilgililer hakkında Cumhuriyet başsavcılığına suç duyurusunda bulunulur. Soruşturma ve kovuşturma sonucunda verilen kararlar Komisyona sunulmak üzere gecikmeksizin Başkanlığa gönderilir.
+(2) Birinci fıkra uyarınca suç duyurusunda bulunulması üzerine, keyfiyet ilgili kamu kurum ve kuruluşu tarafından ayrıca Komisyona bildirilir. Komisyon gerekli görmesi halinde BMGK’ya iletilmek üzere durumu Dışişleri Bakanlığına bildirebilir.

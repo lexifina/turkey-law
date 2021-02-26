@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38353",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KİTLE İMHA SİLAHLARININ YAYILMASININ FİNANSMANININ ÖNLENMESİNE İLİŞKİN KANUNUN UYGULANMASINA DAİR USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "38353",
+  "issuer": "Adalet, Dışişleri, Enerji ve Tabii Kaynaklar, Hazine ve Maliye, İçişleri ve Ticaret Bakanları",
+  "issuer_slug": "adalet-disisleri-enerji-ve-tabii-kaynaklar-hazine-ve-maliye-icisleri-ve-ticaret-bakanlari",
+  "path": "regulation/adalet-disisleri-enerji-ve-tabii-kaynaklar-hazine-ve-maliye-icisleri-ve-ticaret-bakanlari/2021/38353",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38353&MevzuatTertip=5",
+  "source_sha256": "6eb2706ec43e9adfcb7dd369eceaa7c41a94b977c6ba7f9f8c1bdaaa14803d02",
+  "source_bytes": 129151,
+  "published": "2021-02-26",
+  "gazette": "31407",
+  "in_force": "2021-02-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.02.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4020,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

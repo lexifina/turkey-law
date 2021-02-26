@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Malvarlığının Dondurulması ile Yasak İşlem ve Faaliyetler
+BMGK’nın malvarlığının dondurulması ve listeleme kararları ile bu kararlara karşı başvurular
+MADDE 4 – (1) BMGK’nın 1718 (2006) ve 2231 (2015) sayılı kararları uyarınca yasaklanan işlem ve faaliyetler ile listelenen kişi, kuruluş, organizasyon ve deniz ulaşım araçlarına ilişkin Dışişleri Bakanlığı kanalıyla iletilen bilgiler, gecikmeksizin karar alınması için Başkanlık tarafından ivedilikle Cumhurbaşkanlığına gönderilir.
+(2) Yasak işlem ve faaliyetler ile listelenen kişi, kuruluş, organizasyon ve deniz ulaşım araçlarının BMGK’nın 1718 (2006) ve 2231 (2015) sayılı kararlarından çıkarılmaları halinde, buna ilişkin gecikmeksizin karar alınması için Dışişleri Bakanlığı aracılığıyla iletilen bilgiler, Başkanlık tarafından ivedilikle Cumhurbaşkanlığına bildirilir.
+(3) Cumhurbaşkanının birinci ve ikinci fıkralar uyarınca alacağı kararlar, Resmî Gazete’de yayımlanarak gecikmeksizin uygulanır. Yayımlanan kararlar BMGK’ya bildirilmek üzere Başkanlık tarafından Dışişleri Bakanlığına iletilir.
+(4) Birinci fıkrada belirtilen listeleme kararlarına karşı BMGK’ya yapılacak başvurular, varsa ilgili belgeler de eklenerek yazılı ve gerekçeli olarak Komisyona bildirilir. Yapılan başvurular, BMGK’nın 1718 (2006) ve 2231 (2015) sayılı kararları ile belirlenen başvuru mercii ve yöntemlerine ilişkin düzenlemeler gözetilerek Başkanlık tarafından BMGK’ya iletilmek üzere Dışişleri Bakanlığına gönderilir.

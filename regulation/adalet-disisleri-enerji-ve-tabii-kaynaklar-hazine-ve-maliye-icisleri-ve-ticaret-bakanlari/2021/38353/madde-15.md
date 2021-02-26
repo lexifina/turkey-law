@@ -1,0 +1,2 @@
+Muhafaza ve ibraz
+MADDE 15 – (1) Hakkında malvarlığının dondurulması kararı verilmiş olanlar ile malvarlığının dondurulması kararının yerine getirilmesi bildiriminde bulunulan gerçek ve tüzel kişiler; 11 ve 13 üncü maddeler kapsamındaki işlemlere ilişkin her türlü ortamdaki belgeleri düzenleme tarihinden, defter ve kayıtları ise son kayıt tarihinden itibaren sekiz yıl süre ile muhafaza etmek ve istenmesi halinde yetkililere ibraz etmek zorundadır.
