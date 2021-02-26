@@ -1,0 +1,5 @@
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte piyasada bulunan uyumlaştırılabilir cihazlar ile bu Yönetmeliğin yürürlüğe girdiği tarihten sonraki 3 aylık süre içerisinde piyasaya arz edilecek olan uyumlaştırılabilir cihazlar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 6 ay içerisinde üretici, imalatçı veya ithalatçı tarafından CMAS yönteminin kullanılmasını sağlayacak şekilde uyumlaştırılır. Üretici, imalatçı veya ithalatçı piyasaya arzını gerçekleştirmediği cihazların uyumlaştırılmasından sorumlu değildir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten 3 ay sonra, bu Yönetmelik gereklerini karşılamayan cihazlar piyasaya arz edilemez.
+(3) 11 inci madde gereğince, cihazların tanıtma ve kullanma kılavuzlarında bulunması gereken ibareler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 1 yıl boyunca cihaz ambalajı içine konulacak bilgilendirme sayfasında yer alabilir.
+(4) İşletmeciler 5 inci maddenin birinci fıkrasında yer alan teknik altyapıyı bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 3 ay içerisinde kurar ve işletir.

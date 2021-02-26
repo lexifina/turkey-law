@@ -1,0 +1,4 @@
+CBS yöntemine ilişkin gereklilikler
+MADDE 10 – (1) İşletmeci CBS yöntemiyle kullanıcılara göndereceği uyarı bildirimlerini, yetkili kullanıcı tarafından sistem aracılığıyla bildirilen coğrafi alandan bağımsız olarak uyarı bildirimi onay sürecindeki tüm onay işlemlerinin tamamlanmasını müteakip azami 5 dakika içerisinde işleyerek kullanıcılara iletilmek üzere yayımlar.
+(2) CBS yöntemi ile kullanıcılara iletilmek üzere işletmecilere iletilen her bir uyarı bildirimi, iletilecek kullanıcı sayısından ve belirtilen coğrafi alandan bağımsız olarak tek bir talep sayılır. İşletmeci, her bir takvim yılı içerisinde kendisine iletilen toplam taleplerin asgari %95’ini birinci fıkrada belirtilen süreler dâhilinde yerine getirmekle yükümlüdür.
+(3) Ulusal mobil uyarı sistemi kapsamında CBS yöntemiyle yapılacak uyarı bildirimleri seçilen coğrafi bölge, il, ilçe ve alan bazında, ikinci dil desteği ile yayımlanabilir.

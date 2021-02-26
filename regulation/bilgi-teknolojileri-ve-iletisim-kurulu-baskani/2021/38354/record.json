@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38354",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL MOBİL UYARI SİSTEMİNİN KURULMASINA VE İŞLETİMİNE İLİŞKİN YÖNETMELİK",
+  "number": "38354",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2021/38354",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38354&MevzuatTertip=5",
+  "source_sha256": "c9a51d90f7d70f9668606c8786adcc9e070420319ac3024c7ddcdd0626b4dc0c",
+  "source_bytes": 55924,
+  "published": "2021-02-26",
+  "gazette": "31407",
+  "in_force": "2021-02-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.02.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2499,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

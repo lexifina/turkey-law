@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 5/11/2008 tarihli ve 5809 sayılı Elektronik Haberleşme Kanununun 4 üncü maddesinin birinci fıkrasının (h) bendi, 6 ncı maddesinin birinci fıkrasının (ş) bendi, 12 nci maddesinin ikinci fıkrasının (ğ) bendi ve beşinci fıkrası, 51 inci maddesinin beşinci ve sekizinci fıkraları ile 60 ıncı maddesinin birinci, onbirinci, onikinci ve onüçüncü fıkralarına dayanılarak hazırlanmıştır.
