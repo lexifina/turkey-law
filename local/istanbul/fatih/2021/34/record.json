@@ -1,0 +1,29 @@
+{
+  "number": "34",
+  "number_as_published": "2021/34",
+  "year": 2021,
+  "month": 2,
+  "title": "Demirtaş Mahallesi, 471 Ada 50, 52 Ve 4 Parsellerin Bir Kısmına İlişkin TEKLİF-34518942 Plan İşlem Numaralı 1/1000 Ölçekli Koruma Amaçlı Uygulama İmar Planı Değişikliği",
+  "decision_date": null,
+  "index_date": "2021-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2021",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2021&ay=2",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202134/352",
+  "official_document": null,
+  "source_sha256": "628bc1efdefc2bfb0b763bcae73e901674881b527680a1acd79e33fb7d880efd",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2021-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2021-02"
+}
