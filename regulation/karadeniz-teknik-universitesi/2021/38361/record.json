@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-28",
+      "28.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31409",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2021/38361",
+  "published": "2021-02-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38361&MevzuatTertip=5",
+  "source_bytes": 19436,
+  "source_id": "8.5.38361",
+  "source_sha256": "90368d7207fe9ab51faa47e78fcd83e729352ca7143d38a20fec5ccb41b2e262",
+  "text_status": "as-enacted",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ DÖNER SERMAYE\r\nİŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 856
+}
