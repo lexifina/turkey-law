@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-28",
+      "28.02.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 11 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31409",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-02-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2021/38358",
+  "published": "2021-02-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38358&MevzuatTertip=5",
+  "source_bytes": 22499,
+  "source_id": "8.5.38358",
+  "source_sha256": "24494b0fa575e4705745d9679c57c71016c347d057564d1beda6ed359308fbc4",
+  "text_status": "as-enacted",
+  "title": "BALIKESİR ÜNİVERSİTESİ DOWN SENDROMU ÇALIŞMALARI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 920
+}
