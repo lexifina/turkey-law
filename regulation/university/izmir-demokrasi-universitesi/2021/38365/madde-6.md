@@ -1,0 +1,16 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Disiplinler arası araştırma ve uygulama alanlarından özel gereksinimli bireyler ve özel eğitim konularında, Üniversitenin ilgili akademik birimlerinin eğitim, öğretim, araştırma ve geliştirme faaliyetlerine katılımını sağlamak.
+b) Başta Üniversitede öğrenim gören ve çalışan özel gereksinimli bireyler olmak üzere toplumun bütün kesimlerindeki özel gereksinimli bireylere ve özel eğitime gereksinim duyan öğrencilere yönelik araştırmalar ve uygulamalar yapmak.
+c) Özel gereksinimli bireylerin ve özel eğitime gereksinim duyan öğrencilerin yükseköğretim dâhil eğitim kademelerinin hepsinden en üst seviyede yararlanabilmesi için gerekli imkân ve uygulamaların sağlanmasına yönelik çalışmalar yapmak.
+ç) Özel gereksinimli bireylerin ve özel eğitime gereksinim duyan öğrencilerin akademik, sosyal, mesleki alanlar başta olmak üzere yaşamla ilgili her alanda kendilerini gerçekleştirmelerini sağlamak amacıyla yapılacak çalışmalarda ilgili mevzuat hükümleri kapsamında yerel, ulusal ve uluslararası düzeylerdeki sivil toplum örgütleriyle iş birliği yapmak ve sürdürmek.
+d) İlgili mevzuat hükümleri kapsamında özel gereksinimli bireylerle ve özel eğitime gereksinim duyan öğrencilerle çalışmakta olan resmî ve özel eğitim kurumlarıyla iş birliği yaparak bu kurumlarda görev yapmakta olan eğitimcilere yönelik güncel konu ve gelişmeler hakkında eğitim faaliyetleri düzenleyerek yaşam boyu öğrenme süreçlerine katkıda bulunmak.
+e) Özel gereksinimli bireyler ve özel eğitim konularına ilişkin bilimsel veri tabanı oluşturmak ve ilgili mevzuat hükümleri kapsamında resmî kurumlar ve sivil toplum kuruluşlarına bilimsel iş birliği çerçevesinde danışmanlık faaliyetlerini sürdürmek.
+f) Farklı disiplinlerden özel gereksinimli bireyler ve özel eğitim konularında araştırmalar yapan bilim insanları ile uzmanları bir araya getirerek, ulusal ve/veya uluslararası düzeylerde araştırma/geliştirme projeleri oluşturmak ve yürütülmesini sağlamak.
+g) Özel gereksinimli bireyler ve özel eğitim konularında ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans, çalıştay gibi bilimsel aktiviteler düzenlemek.
+ğ) Özel gereksinimli bireyler ve özel eğitim konularında aydınlatıcı bilimsel bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını sağlamak.
+h) Birimler arası iş birliği yaparak özel gereksinimli bireyler ve özel eğitim konularıyla ilgili toplumsal bilinci ve farkındalığı geliştirme konusunda topluma eğitim hizmetleri vermek.
+ı) Yetersizliğin önlenmesi ve sorunların azaltılması yönünde çalışmalar yapmak, özel gereksinimli bireylerin etkin ve kaliteli rehabilitasyon hizmetlerinden faydalanmasını sağlamak ve özel gereksinimli bireyler ile iletişimde bulunduğu diğer bireylerin yaşam kalitesini artırıcı çalışmalar yapmak.
+i) Özel eğitim alanında sorunların azaltılmasına yönelik çalışmalar yapmak, özel eğitime gereksinim duyan öğrencilerin özel eğitim ve destek hizmetlerinden daha etkin faydalanmasını sağlamak, sosyal becerilerini ve yaşam kalitelerini artırıcı çalışmalar yapmak.
+j) Özel gereksinimli bireylere yönelik ulusal ve uluslararası alanda örnek olacak model programlar oluşturarak, yaygınlaştırılmasını sağlamak.
+k) Özel eğitim alanı ile ilgili öğretim teknolojileri ve materyalleri geliştirmek.
