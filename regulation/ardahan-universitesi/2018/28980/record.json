@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-11-18",
+      "18.11.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-03-01",
+      "RG-1/3/2021-31410",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-01",
+      "RG-1/3/2021-31410",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-01",
+      "RG-1/3/2021-31410",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-01",
+      "RG-1/3/2021-31410",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-01",
+      "1/3/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-1/3/2021-31410",
+  "first_law": null,
+  "gazette": "30599",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-01",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2018/28980",
+  "published": "2018-11-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=28980&MevzuatTertip=5",
+  "source_bytes": 25417,
+  "source_id": "8.5.28980",
+  "source_sha256": "5dd3c70180fc2dbbad5e1c546369a7a9e7c9fc9557674b98d94050b942ddaf83",
+  "text_status": "current-consolidated",
+  "title": "ARDAHAN ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 694
+}
