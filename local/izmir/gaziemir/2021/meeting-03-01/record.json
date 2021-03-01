@@ -1,0 +1,24 @@
+{
+  "number": "meeting-03-01",
+  "number_as_published": "meeting-03-01",
+  "year": 2021,
+  "title": "01.03.2021 KARAR ÖZET?",
+  "decision_date": "2021-03-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=29",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/f78e88a7add7db2fbe0afdb14564771df78e88a7add7db2fbe0afdb14564771d.doc",
+  "source_sha256": "55387c29250b0fa12154aa6f56c0ed387ca53b216e1a11707b87fa074de6bd66",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-03-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.03.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.03.2021 KARAR ÖZET?",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "09.03.2021"
+}
