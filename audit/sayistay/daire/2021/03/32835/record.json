@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "205",
+  "decision_date": "2021-03-02",
+  "source_id": 32835,
+  "chamber": "8",
+  "ilam_number": "384",
+  "item_number": 3,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/32835/",
+  "source_sha256": "f346361d48c5705e278e3553e5d73f2f05a9195bddf88cfaeea1cb2411f04030",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
