@@ -1,0 +1,4 @@
+Koruma önlemleri usulü
+MADDE 11- (1) Yetkili kuruluşlar tarafından 10 uncu maddenin dördüncü ve beşinci fıkraları gereğince alınan tedbire karşı üye ülkelerden veya Komisyondan itiraz olması ve Komisyon tarafından yapılan inceleme sonucunda, söz konusu tedbirin haklı bir gerekçeye dayanmadığına hükmedilmesi halinde, yetkili kuruluşlar tedbiri yürürlükten kaldırır.
+(2) Komisyon tarafından yapılan incelemede, bir üye ülke tarafından alınan ulusal tedbirin, haklı bir gerekçeye dayandığına hükmedilmesi halinde yetkili kuruluşlar, uygunsuz ürünün piyasadan çekilmesini sağlamak için gerekli önlemleri alır ve konuya ilişkin Komisyonu bilgilendirir.
+(3) 10 uncu maddenin ikinci, dördüncü, beşinci veya onuncu fıkralarında ya da bu maddenin ikinci fıkrasında belirtilen düzeltici ya da kısıtlayıcı tedbirler, tedarikçinin uygun olduğunu ispat ettikleri hariç olmak üzere, uygunsuz bulunan modelin tüm birimlerine ve eş değer modellerine de uygulanır.

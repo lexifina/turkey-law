@@ -1,0 +1,27 @@
+Uygulama tebliğleri
+MADDE 14- (1) Yetkili kuruluşlar, belirli ürün grupları için etiketlerle ilgili ayrıntıları, uygulama tebliğleri ile düzenler.
+(2) Uygulama tebliğleri, aşağıdaki kriterleri karşılayan ürün grupları hakkında düzenlenir:
+a) Son mevcut sayısal veriler ve piyasaya arz edilen ürün miktarları göz önüne alındığında, ürün grubunun enerji tasarrufu ve bu duruma bağlı olarak diğer kaynakların tasarrufu konusunda kayda değer bir potansiyele sahip olması.
+b) Ürün grubu içinde eş değer işlevselliğe sahip modellerin performans düzeylerinde, önemli ölçüde farklılık bulunması.
+c) Ürün grubunun, satın alınabilme ve yaşam döngüsü maliyetine ilişkin kayda değer olumsuz bir etkinin olmaması.
+ç) Bir ürün grubu için enerji etiketleme gerekliliklerinin yerine getirilmesinin, kullanım sırasında ürünün işlevselliği üzerinde kayda değer olumsuz bir etkisinin olmaması.
+(3) Belirli ürün grupları ile ilgili uygulama tebliğlerinde, aşağıdaki hususların özellikle belirtilmesi gereklidir:
+a) Ayrıntılı etiketleme gerekliliklerine tabi olan, “enerji ile ilgili ürün” tanımına giren ve etiketleme ile ilgili ayrıntılı şartlara tabi tutulacak olan belirli ürün grubunun tanımı.
+b) Tüm ürün grupları için mümkün olduğu ölçüde tek tip tasarım özelliklerine sahip, her durumda görülebilir ve okunaklı, içinde enerji tüketim düzeylerini A’dan G’ye kadar olan büyük harflerle gösteren bir ölçeğin yer aldığı etiketin tasarımı ve içeriği.
+c) A’dan G’ye kadar olan sınıflandırma ölçeklerinin müşteri açısından önemli ölçüde enerji ve maliyet tasarrufunu ve uygun ürünün ayırt edilmesini sağlamayı hedeflediği dikkate alınarak, sınıflandırmanın A’dan G’ye kadar olan ölçekleri ve uygulanabilir enerji tüketiminin etiket üzerinde görünür bir konumda nasıl sergileneceği.
+ç) Diğer kaynak ve tamamlayıcı bilgilerin kullanılmasının mümkün olduğu durumlarda, etikette ürünün enerji verimliliğinin vurgulanması, tamamlayıcı bilgilerin açık ve anlaşılır olması ve etiketin bir bütün olarak müşteriler açısından etkinliği ve açıkça anlaşılabilirliği üzerinde olumsuz bir etki oluşturmaması gerektiği hususları ile bu bilgilerin yetkili kuruluşlar tarafından ölçülebilir ve doğrulanabilir fiziksel ürün özelliklerine ilişkin verilere dayanması gerektiği.
+d) Uygulanabilir hallerde, merkezi ev enerji yönetimi sisteminden veya bu sistem aracılığıyla gelen sinyaller, fiyat sinyalleri, doğrudan kontrol sinyalleri ve yerel ölçüm sinyalleri gibi dış uyaranlara cevap olarak enerji tüketim şekillerini otomatik olarak değiştirebilen veya optimize edebilen ya da enerji kullanımının tüm enerji sistemi üzerindeki çevresel etkisini arttırmak amacıyla enerji verimliliğini ve yenilenebilir enerji alımını arttıran diğer hizmetleri sunan akıllı ürünleri müşterilerin tanımasını sağlamak için etikete bir atıf eklenmesi gerektiği hususlarını.
+e) 5 inci maddenin birinci fıkrasında yer alan gereklilikler, tüketiciler, tedarikçiler ve satıcıların çıkarımları ile etkileri de dikkate alınarak, etiketin ürüne zarar vermeden ürünün üzerine yapıştırılması, ambalaj üzerine basılması, elektronik formatta sunulması ya da elektronik ortamda sergilenmesi gibi etiketin teşhir edileceği yerleri.
+f) Uygulanabilir hallerde, ürünlerin etiketlenmesi için kullanılabilecek elektronik yolları.
+g) Etiket ve ürün bilgi formunun mesafeli satış durumunda temin edilme şeklini.
+ğ) 5 inci maddenin birinci fıkrası gereğince, ürün bilgi formunun parametrelerini veri tabanına girme olasılığı da dahil olmak üzere, gerekli içerikler ve uygun olduğu hallerde ürün bilgi formu ve teknik dosyaya ilişkin format ve diğer detayları.
+h) Gerekliliklere uygunluk doğrulandığında, yetkili kuruluşlar tarafından kullanılacak olan doğrulama toleranslarını.
+ı) Etiket üzerinde yer alan enerji sınıfı ve verimlilik sınıfları aralığının, okunaklı ve görünür olması da dahil olmak üzere, görsel tanıtımlara ve tanıtıcı teknik materyallere nasıl dahil edileceğini.
+i) Enerji verimliliği endeksi (EEI) ya da bu endekse eş değer bir parametrenin tanımı da dahil olmak üzere, etiket ve ürün bilgi formu bilgilerinin belirlenmesi için kullanılacak olan ve 13 üncü maddede belirtilen ilgili ölçüm ve hesaplama yöntemlerini.
+j) Daha büyük cihazların belirli bir enerji seviyesine ulaşması için daha yüksek bir enerji verimliliği seviyesinin gerekli olup olmadığını.
+k) Ürün bilgi formunda bulunan ürün performansı hakkında daha ayrıntılı bilgiye, müşterilerin elektronik olarak erişmesini sağlayan ilave atıfların formatı, söz konusu atıfların bir internet sitesi adresi, bir dinamik kare kodu (QR Kodu), elektronik etiketlere verilen bir internet adresi veya tüketici odaklı diğer herhangi bir araçla olabileceğine dair bilgileri.
+l) Kullanım sırasında ürünün enerji tüketimini tanımlayan uygun enerji sınıflarının, ürünün interaktif ekranında nasıl ve nerede gösterilmesi gerektiği.
+m) Uygulanabilir hallerde, farklı iklim bölgelerinde enerji performanslarındaki farklılıkları.
+n) 5 inci maddenin beşinci fıkrası gereğince veri tabanının uygunluk bölümünde veya tedarikçinin bünyesinde bilgiyi saklama gerekliliğine ilişkin olarak, uygun hallerde ürünün ortalama ömrü ile bağlantılı, on beş yıldan daha kısa bir muhafaza süresini.
+(4) Yetkili kuruluşlar, her ürün grubu için ayrı bir uygulama tebliği düzenler.
+(5) Yetkili kuruluşlar, ilgili tüm uyumlaştırılmış standartlara tam atıfları içeren Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin geliştirilmesine yönelik önlemleri alır ve ilgili tüm uygulama tebliğlerinin güncel bir envanterini tutar.

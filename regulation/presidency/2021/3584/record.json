@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3584",
+  "number": "3584",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ENERJİ ETİKETLEMESİ ÇERÇEVE YÖNETMELİĞİ",
+  "published": "2021-03-02",
+  "enacted": "2021-03-01",
+  "gazette_number": "31411",
+  "in_force": "2021-03-02",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-03-02, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3584&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "bd3550c506ea0e8027fb6d7e64a5472c5bc819cf10652f1305d725c31c8c629d",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

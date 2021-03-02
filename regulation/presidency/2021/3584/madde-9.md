@@ -1,0 +1,4 @@
+Ürünlerin piyasa gözetimi, denetimi ve kontrolü
+MADDE 9- (1) Bu Yönetmelik hükümlerine göre yapılacak denetim, 4703 sayılı Kanun ve bu Kanuna dayanılarak 13/11/2001 tarihli ve 2001/3529 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik hükümlerine göre sorumluluk alanlarında bulunan ürün gruplarına yönelik olarak yetkili kuruluşlar tarafından yapılır.
+(2) Yetkili kuruluşların Ürünlerin Piyasa Gözetimi ve Denetimine Dair Yönetmelik gereğince oluşturduğu genel piyasa gözetimi ve denetimi programları ya da sektöre özel programlar, bu Yönetmeliğin etkili bir şekilde uygulanmasını sağlayan faaliyetleri içermelidir.
+(3) Bu Yönetmeliğe ya da ilgili uygulama tebliğlerine uygunsuzluğun olması durumunda yetkili kuruluşlar, tedarikçiden belge denetimi giderlerini ve fiziksel ürün testlerinin giderlerini alma hakkına sahiptir.
