@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "376",
+  "decision_date": "2021-03-02",
+  "source_id": 33415,
+  "chamber": "3",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33415/",
+  "source_sha256": "6b9c7c7f23bdc159c6750f5ee46d2dd2ea17981ae3b3f9ff6ae6fefeb4607898",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
