@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49142",
+  "decision_date": "2021-03-03",
+  "source_id": 21285,
+  "chamber": "1",
+  "file_number": "45086",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/21285/",
+  "source_sha256": "64275ac3fd72acb02028e223c6f3a1b3514d8b74be915c8524dbc550329c71a4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
