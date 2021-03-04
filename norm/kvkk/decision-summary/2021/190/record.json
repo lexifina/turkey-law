@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/190",
+  "source_id": 7000,
+  "date": "2021-03-04",
+  "title": "“Bankacılık sektöründeki veri sorumlusunun veri ihlal bildirimi hakkında” Kişisel Verileri Koruma Kurulunun 04.03.2021 tarih ve 2021/190 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7000/2021-190",
+  "source_sha256": "6af2c8e10edf7ddff841c1cf0961cdc61cb5594f8b583625460ee5a6249998b5",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
