@@ -1,0 +1,3 @@
+İhale dokümanında değişiklik veya açıklama yapılması
+MADDE 24 – (1) İlan yapıldıktan sonra ihale dokümanında değişiklik yapılmaması esastır. Değişiklik yapılması zorunlu olursa, bunu gerektiren sebep ve zorunluluklar bir tutanakla tespit edilerek önceki ilanlar geçersiz sayılır ve iş yeniden aynı şekilde ilan olunur.
+(2) İstekliler tekliflerini hazırlarken ihale dokümanında açıklanmasına ihtiyaç duyulan hususlarla ilgili olarak ilan veya davet tarihinden itibaren üç gün içerisinde yazılı olarak açıklama talep edebilir. Bu talebin idarece uygun görülmesi halinde yapılacak açıklama, bu tarihe kadar ihale dokümanı alan bütün isteklilere son teklif verme gününden en geç iki iş günü öncesinde bilgi sahibi olmalarını temin edecek şekilde yazılı olarak gönderilir.

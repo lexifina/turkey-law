@@ -1,0 +1,2 @@
+Sözleşmeye davet
+MADDE 36 – (1) 35 inci maddeye göre kesinleşen ihale kararının tebliğinden veya ön kontrol gereken hallerde ön kontrol yapıldığını bildiren günden itibaren üç gün içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen en geç üç iş günü içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu imza karşılığı elden tebliğ edilir veya iadeli taahhütlü mektup ile tebligat adresine postalanmak suretiyle bildirilir.

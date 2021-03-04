@@ -1,0 +1,6 @@
+İhale komisyonu
+MADDE 5 – (1) İhale yetkilisi, biri başkan olmak üzere, ilgili birim personelinden işin uzmanı iki kişinin katılımıyla kurulacak en az üç kişiden oluşan ihale komisyonunu, yedek üyeler de dahil olmak üzere görevlendirir.
+(2) Yaklaşık maliyeti 4734 sayılı Kanunun 22 nci maddesinin birinci fıkrasının (d) bendinde belirtilen Büyükşehir Belediyesi sınırlarındaki idarelerin ihtiyaçları için belirlenen doğrudan temin limitinin üç katını geçen ihalelerde ihtiyaç duyulması halinde ilgili birim personelinden katılacak kişilerden birisinin yerine muhasebe veya mali işlerden sorumlu bir personel ihale komisyonunda görevlendirilebilir.
+(3) Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilan veya daveti izleyen üç gün içinde ihale komisyonu üyelerine verilir.
+(4) İhale komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+(5) İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.

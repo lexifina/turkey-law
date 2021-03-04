@@ -1,0 +1,26 @@
+İhale dokümanının içeriği ve idari şartnamede yer alması zorunlu hususlar
+MADDE 22 – (1) İhale dokümanında; isteklilere talimatları da içeren idari şartnameler ile yapılacak ihalenin teknik özelliklerini kapsayan teknik şartnameler, sözleşme tasarısı ve gerekli diğer belge ve bilgiler bulunur.
+(2) İdari şartnamede ihale konusuna göre asgari aşağıdaki hususların belirtilmesi zorunludur:
+a) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı,
+b) İdarenin adı, adresi, telefon ve faks numarası,
+c) İhale usulü, ihale tarih ve saati ile tekliflerin nereye verileceği,
+ç) İsteklilere talimatlar,
+d) İsteklilerde aranılan şartlar, belgeler ve yeterlik kriterleri,
+e) İhale dokümanında açıklama isteme ve yapılma yöntemleri,
+f) Tekliflerin geçerlilik süresi,
+g) İhale konusu işin tamamına veya bir kısmına teklif verilmesinin mümkün olup olmadığı,
+ğ) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin teklif fiyatına dahil olacağı,
+h) Tekliflerin alınması, açılması ve değerlendirilmesinde uygulanması gereken ve bu Yönetmelikte belirtilen usul ve esaslar,
+ı) İhale kararının alınmasından sözleşmenin imzalanmasına kadar uygulanması gereken ve bu Yönetmelikte belirtilen usul ve esaslar,
+i) Teklif ve sözleşme türü,
+j) Geçici ve kesin teminat oranları ile teminatlara ait şartlar,
+k) İhale saatinden önce ihalenin ihale yetkilisi tarafından iptal edilmesinde idarenin serbest olduğu,
+l) Bütün tekliflerin reddedilmesi ve ihalenin iptal edilmesinde ihale yetkilisinin serbest olduğu,
+m) İhale konusu işin başlama ve bitirme tarihi, yapılma yeri, teslim şartları ve gecikme halinde alınacak cezalar,
+n) Sözleşme kapsamında yaptırılabilecek iş artışları ile iş eksilişi durumunda karşılıklı yükümlülükler,
+o) Vergi, resim ve harçlar ile sözleşme ile ilgili diğer giderlerin kimin tarafından ödeneceği,
+ö) Denetim, muayene ve kabul işlemlerine ilişkin şartlar,
+p) Anlaşmazlıkların çözümü,
+r) İhale konusu alımın ceza ve ihalelerden yasaklama hükümleri hariç 4734 sayılı Kanundan istisna olduğunun belirtilmesi,
+s) Teklif ve sözleşme türü,
+ş) Ödeme yeri ve şartlarıyla avans verilip verilmeyeceği, verilecekse şartları ve miktarı.
