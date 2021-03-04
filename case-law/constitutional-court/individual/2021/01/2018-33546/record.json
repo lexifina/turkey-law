@@ -1,0 +1,20 @@
+{
+  "applicant": "M.D.",
+  "application_date": "2018-11-20",
+  "application_number": "2018/33546",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2021-01-28",
+  "id": "6cf267ab-21d2-7594-87d3-2a147f15d3c6",
+  "in_force": "2021-03-04",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2021-03-04",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjZjZjI2N2FiLTIxZDItNzU5NC04N2QzLTJhMTQ3ZjE1ZDNjNg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "dd87057b65e30edfd7999d24a8a2a44197653bb46b8ab9d4fddae35fc97ffc98",
+  "version_label": "as-enacted"
+}
