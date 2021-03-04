@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1233",
+  "date": "2021-03-04",
+  "title": "T. 4.03.2021 E. 2021/125 K. 2021/164",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1233",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=5&yil=2021",
+  "listing_sha256": "3cfd2db27c6b4e587906c67e406883bb47933da8986b094e676dc21a2eecd2a8",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
