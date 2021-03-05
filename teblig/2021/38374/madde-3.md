@@ -1,0 +1,4 @@
+Denetim elemanınca düzenlenecek belgeler ve yapılacak işlemler
+MADDE 3 – (1) Denetim elemanı avans talebini, görev onayına istinaden harcama birimince oluşturulan sürece bağlı olarak elektronik ortamda e-Devlet kapısı üzerinden harcama birimine iletir. Harcama birimince, denetim elemanından avans talebine ilişkin belge istenmez.
+(2) Denetim elemanınca talep edilecek tutar, görev süresiyle sınırlı olmak ve göreve başlanılan ayda ayın kalan gün sayısını geçmemek üzere, en fazla birer aylık süreler için hesaplanacak gündelik tutarı ile yapılması muhtemel yol, konaklama gibi diğer zorunlu giderler toplamını aşamaz.
+(3) Denetim elemanınca, alınan avanslara ilişkin harcama belgeleri takip eden ayın onuncu gününe kadar bağlı bulundukları harcama birimine ulaştırılır, varsa bu döneme ilişkin avans artığı aynı süre içerisinde iade edilir.
