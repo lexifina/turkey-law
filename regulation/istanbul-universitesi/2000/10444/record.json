@@ -1,0 +1,69 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "Madde 7 —(Değişik:RG-5/3/2021-31414) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2000-03-10",
+      "10.03.2000",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-03-05",
+      "RG-5/3/2021-31414",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2018-03-22",
+      "RG-22/3/2018-30368",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-05",
+      "RG-5/3/2021-31414",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-05",
+      "RG-5/3/2021-31414",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-05",
+      "RG-5/3/2021-31414",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-03-05",
+      "RG-5/3/2021-31414",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ]
+  ],
+  "date_quote": "RG-5/3/2021-31414",
+  "first_law": null,
+  "gazette": "23989",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-05",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2000/10444",
+  "published": "2000-03-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=10444&MevzuatTertip=5",
+  "source_bytes": 28732,
+  "source_id": "8.5.10444",
+  "source_sha256": "54418ef62856c76a5c8e7c6bce4cca626bdb190cba3250703b6f267f16fead28",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1317
+}

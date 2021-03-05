@@ -1,0 +1,1 @@
+Geçici Madde 2 — Bu Yönetmeliğin yayımı tarihinden-önce İstanbul Üniversitesi Fakülte, Yüksekokul, Enstitü, Araştırma ve Uygulama Merkezleri bünyesinde mevcut döner sermaye işletmesi yönetmeliklerine göre başlanmış iş ve hizmetler sonuçlanıncaya kadar eski mevzuat hükümlerinin uygulanmasına devam olunur.
