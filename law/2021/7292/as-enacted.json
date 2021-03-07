@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7292",
+  "year": 2021,
+  "title": "Finansal Kiralama, Faktoring ve Finansman Şirketleri Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-07",
+  "gazette_issue": "31416",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210307-10.htm",
+  "source_sha256": "4fbddf1182198d0fdfef13a34a2540b6136f8993443f0b72cef624c634f1d357",
+  "text_sha256": "75ba7cbdf6400a444d29fe30462b35f12003f0f5026fdc381075de05f0142371",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/07/31416-10",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210307-10.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
