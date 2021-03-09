@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/205",
+  "source_id": 7113,
+  "date": "2021-03-09",
+  "title": "“İşten çıkarma sürecinde veri sorumlusu işveren tarafından ilgili kişinin kişisel verilerinin hukuka aykırı olarak işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 09/03/2021 tarihli ve 2021/205 sayılı Karar Özeti ",
+  "source": "https://www.kvkk.gov.tr/Icerik/7113/2021-205",
+  "source_sha256": "e7afdd13202e9851d845e5ef56ff74be1767fa4c26254943dc252fe2472c4ac7",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
