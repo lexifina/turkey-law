@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başhemşire: Merkezin hemşirelik hizmetleri idari sorumluluğunu yürütmek üzere görevlendirilen kişiyi,
+b) Başhemşire yardımcıları: Başhemşireye bağlı olarak Merkezde görevlendirilen kişileri,
+c) Danışma Kurulu: Merkezin Danışma Kurulunu,
+ç) Dekan: Kırşehir Ahi Evran Üniversitesi Tıp Fakültesi Dekanını,
+d) Hastane Başmüdürü: İdari hizmetler koordinatörü olarak idari, mali ve teknik hizmet sorumluluğunu yürütmek üzere Merkezde görevlendirilen kişiyi,
+e) Hastane Müdürü: Rektörlüğün Hastane Müdürü kadrosunda olan ve Hastane Başmüdürüne bağlı olarak Merkezde görevlendirilen kişiyi,
+f) Hastane müdür yardımcıları: Hastane müdür yardımcısı olarak Merkezde görevlendirilen kişileri,
+g) Laboratuvar birimi: Laboratuvar merkezi bünyesindeki her bir laboratuvarı,
+ğ) Laboratuvar merkezi: Birden fazla uzmanlık dalında kurulan laboratuvarı,
+h) Merkez (Hastane): Kırşehir Ahi Evran Üniversitesi Sağlık Uygulama ve Araştırma Merkezini,
+ı) Müdür (Başhekim): Merkezin Müdürünü,
+i) Müdür yardımcıları (Başhekim yardımcıları): Merkezin müdür yardımcılarını,
+j) Ünite sorumlusu: Anabilim dalı, klinik, laboratuvar gibi ünitelerin hekimlik hizmeti dışındaki faaliyetlerinden sorumlu idari personeli,
+k) Ünite: Merkezin idari ve tıbbi bütünlüğü içerisinde yer alan alt birimleri,
+l) Üniversite: Kırşehir Ahi Evran Üniversitesini,
+m) Rektör: Kırşehir Ahi Evran Üniversitesi Rektörünü,
+n) Yönetim Kurulu: Merkezin Yönetim Kurulunu,
+ifade eder.

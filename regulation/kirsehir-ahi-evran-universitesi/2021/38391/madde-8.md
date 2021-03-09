@@ -1,0 +1,6 @@
+Müdür (Başhekim) ve yardımcıları (başhekim yardımcıları)
+MADDE 8 – (1) Müdür (Başhekim); Tıp Fakültesinde devamlı statüde çalışan, Dahili ve Cerrahi Bilimlerde, branşında Tıpta Uzmanlık unvanını almış, tercihen profesörler veya doçentler arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir veya süresinden önce görevine son verilebilir.
+(2) Müdür devamlı statüde çalışan öğretim üyeleri arasından birinci fıkrada belirtilen özellikleri haiz en az iki en çok beş öğretim üyesini müdür yardımcısı olarak Rektörün onayına sunar. Müdürün görevi sona erdiğinde, yardımcılarının görevi de kendiliğinden sona erer. Görev süresi biten müdür yardımcıları aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir.
+(3) Müdür veya yardımcılarından biri Merkezin işleyişindeki koordinasyonun temini açısından Merkezin satın alma komisyon başkanı olarak Rektör tarafından görevlendirilir.
+(4) Müdür yardımcıları, görevlendirildikleri konularda Merkez hizmetlerinin yürütülmesinde Müdüre yardımcı olurlar.
+(5) Müdürün görevi başında bulunmadığı zamanlarda yardımcılarından biri Müdüre vekalet eder. Vekaletin altı aydan fazla sürmesi halinde yeni Müdür görevlendirilir.

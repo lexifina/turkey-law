@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Diğer birimler
+MADDE 20 – (1) Merkezde ve Merkeze bağlı olarak çalışan sağlık hizmetleri ile ilgili ünitelerde bulunan servis, poliklinik veya laboratuvar birimleri ve diğer birimlerde görevli idari personel yürüttükleri hizmetler açısından Hastane Başmüdürüne karşı sorumludur.
+(2) Anabilim dallarına ait servis, poliklinik, laboratuvarlar ve ünitelerin çalışma düzeni ve işleyişinden anabilim dalı başkanları sorumludur. Anabilim dalı başkanları bu hizmetlerin yürütülmesi bakımından Müdüre karşı sorumludur.
+(3) Merkeze bağlı ünitelerin sorumluları, ünitede görev yapan idari personel arasından Müdür tarafından iki yıl için görevlendirilir.
+(4) Merkeze bağlı olarak laboratuvar merkezi kurulabilir. Laboratuvar merkezinin çalışma düzeni ilgili mevzuata göre belirlenir. Laboratuvar merkezi sorumlusu Müdürün önerisi üzerine öğretim elemanları arasından Rektör tarafından iki yıl için görevlendirilir. Müdürün görevi sona erdiğinde laboratuvar merkezi sorumlusunun görevi de kendiliğinden sona erer. Görev süresi biten laboratuvar merkezi sorumlusu aynı usulle yeniden görevlendirilebilir veya süresinden önce aynı usulle görevden alınabilir. Laboratuvar merkezi bünyesinde bulunan laboratuvar birimlerinin sorumluluklarını ilgili anabilim dalı başkanı veya onun önerdiği ve Dekan tarafından görevlendirilen bir uzman yürütür. Laboratuvar merkezi sorumlusu Yönetim Kuruluna karşı sorumludur.

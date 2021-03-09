@@ -1,0 +1,3 @@
+Hastane Başmüdürü (İdari Hizmetler Koordinatörü)
+MADDE 13 – (1) Hastane Başmüdürü; tercihen Rektörlüğün Başmüdür kadrosunda olan kişi veya sağlık idaresi, sağlık kurumları işletmeciliği veya sağlık yönetimi alanlarından lisans mezunu ya da temel eğitimi idare ve işletmecilik olan fakültelerden mezun olup sağlık yönetimi ve sağlık kurumları işletmeciliği alanında lisansüstü eğitim yapmış veya en az 10 yıl Merkezin yönetim hizmetlerinde görev yapan lisans mezunu, ilgili mevzuatta belirtilen şartlara uygun kişiler arasından Müdürün teklifi üzerine Rektör tarafından görevlendirilir. Hastane Başmüdürü, Müdüre karşı sorumludur.
+(2) Hastane Başmüdürünün görevde bulunmadığı veya izinde olduğu durumlarda belirlediği Hastane Müdürlerinden birisi kendisine vekalet eder.
