@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "257",
+  "decision_date": "2021-03-09",
+  "source_id": 33430,
+  "chamber": "4",
+  "ilam_number": "70",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33430/",
+  "source_sha256": "6d61f3ba477f0ed9e8de7706e51781fa3560a339f6ed900df46b813ad93a940d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
