@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "206",
+  "decision_date": "2021-03-09",
+  "source_id": 33043,
+  "chamber": "8",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33043/",
+  "source_sha256": "d6c4c92311789821d9a56c1ca9f1a3c788c40412b2f5b1d349aef5bd17f0444c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
