@@ -1,0 +1,56 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897339,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "AHMET KILIÇ (BURSA)",
+  "summary": "Ve 21 Milletvekilinin Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3427) (S. Sayısı: 252)",
+  "title": "Ve 21 Milletvekilinin Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3427) (S. Sayısı: 252)",
+  "first_sitting_date": "2021-03-09",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 66,
+      "sitting": 56,
+      "sitting_date": "2021-03-09",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c066/tbmm27066056.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c066/tbmm27066fih.pdf",
+      "pages": [
+        "448:466",
+        "469:477"
+      ]
+    },
+    {
+      "cilt": 67,
+      "sitting": 57,
+      "sitting_date": "2021-03-10",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c067/tbmm27067057.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c067/tbmm27067fih.pdf",
+      "pages": [
+        "83:89",
+        "89:96",
+        "100:137",
+        "141:144",
+        "146:157",
+        "159:165",
+        "172:180",
+        "180:181",
+        "182:183"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=101&v_kullanici_id=27484797",
+  "source_sha256": "c9bbea1bd4e461fb5a6fa75bef0e22b922464ba12085c30ba27ec0e4bef17f00",
+  "in_force": "2021-03-09",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
