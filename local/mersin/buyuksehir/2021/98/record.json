@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "98",
+  "decision_date": "2021-03-09",
+  "title": "MEC.KAR.(Akdeniz İlçesi, Nacarlı Mahallesi, 377 ada 3 parsel mahkeme kararı).doc",
+  "listed_as": "98 MEC.KAR.(Akdeniz İlçesi, Nacarlı Mahallesi, 377 ada 3 parsel mahkeme kararı).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/98-meckarakdeniz-ilcesi-nacarli-mahallesi-377-ada-3-parsel-mahkeme-kararidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/09-mart-2021-meclis-kararlari",
+  "listing_sha256": "49a00e52d0df1db2ee632d17e9da2ab2aba151137e8b8378ca8e8c25349874bd",
+  "meeting_title": "09 MART 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
