@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Veri Türü, Gönderimi, Derlenmesi ve Raporlanması
+Malî veriler
+MADDE 5 – (1) Malî veriler; Bakanlıkça hazırlanan ve işletmelerin ilgili mevzuat uyarınca tabi oldukları muhasebe sistemleri ile Muhasebe Sistemi Uygulama Genel Tebliğlerine uygun olarak düzenlenen bilanço ve gelir ile Bakanlıkça hazırlanan sermaye bilgileri, yatırım ve finansman gerçekleşme ve yatırım ve finansman program tablolarından oluşur.
+(2) Bilanço; işletmelerin belirli bir tarihteki iktisadi ve malî durumunu yansıtan, varlıklarını, borçlarını ve özkaynaklarını, aktif ve pasif hesaplar şeklinde gerçeğe uygun ve doğru bir biçimde gösteren tablodur.
+(3) Gelir tablosu, işletmenin belirli bir hesap döneminde elde ettiği tüm hasılat ve gelirler ile katlandığı tüm maliyet ve giderleri sınıflandırılmış olarak gösteren ve dönem faaliyet sonuçlarını kâr veya zarar olarak özetleyen tablodur.
+(4) Sermaye bilgileri tablosu; işletmelerin özkaynaklarında yer alan sermaye hesabında görülen değişimleri sınıflandırarak, varsa diğer ortaklara ilişkin bilgileri içeren tablodur. Bu tablo, işletme hesapları ile devlet hesaplarının uyumu amacıyla hazırlanmıştır.
+(5) Yatırım ve finansman gerçekleşme tablosu ile yatırım ve finansman program tablosu; 8/6/1984 tarihli ve 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararnameye tabi kamu iktisadi teşebbüsleri ile bağlı ortaklıkları, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanuna tabi özelleştirme programında yer alan ve kamu payı yüzde ellinin üzerinde bulunan kuruluşlar ile Türkiye Radyo Televizyon Kurumu (TRT) ve Atatürk Orman Çiftliği Müdürlüğü için hazırlanmış bir tablolar setidir. Bu tablolar seti ilgili kamu işletmelerine ayrıca gönderilir.

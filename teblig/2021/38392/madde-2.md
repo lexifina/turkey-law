@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Ek-1’de yer alan ve sermayesinin yarısından fazlası kamu kurum ve kuruluşlarına ait olan veya faaliyet alanı itibarıyla ticari nitelik taşıyıp Sayıştay tarafından denetlenen işletmeleri kapsar. Herhangi bir şekilde toplam kamu payı yüzde elli ve altına düşen işletmeler bu Tebliğ kapsamından çıkarılır. Toplam kamu payı yüzde ellinin üzerine çıkan işletmeler ise bu Tebliğ kapsamına alınır. İşletmelerde birden fazla kamu kurum veya kuruluşu pay sahibi ise toplam oran dikkate alınır.
