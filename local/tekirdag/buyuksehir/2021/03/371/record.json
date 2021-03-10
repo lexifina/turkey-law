@@ -1,0 +1,20 @@
+{
+  "number": "371",
+  "title": "İTİRAZ",
+  "decision_date": "2021-03-10",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1685",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1685/371",
+  "source_sha256": "cf010a06bc0ba7adc9685e59a32a53a524a879862d1a1e87874ba97533bea341",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2021-03-10",
+  "in_force_basis": "Official Birleşim Tarihi: 10.03.2021; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
