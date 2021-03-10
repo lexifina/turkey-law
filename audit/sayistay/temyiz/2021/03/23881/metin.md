@@ -1,0 +1,7 @@
+Konu: İşçi Ücreti
+
+5) 395 sayılı Ek ilamın 7 inci maddesi ile ... İlçe Özel İdaresinde çalışan (Özel İdare ile Köy Hizmetleri Genel Müdürlüğünün 2005 yılında birleşmesinden önce Özel İdarede işe alman) işçilerin maaş ödemelerinde; ... Sendikası ile ... İl Özel İdaresi adına ... (... Sendikası) arasında imzalanan 3. Dönem Toplu İş Sözleşmesinin geçici 4 üncü maddesine aykırı olarak, intibak işlemlerinde muhtelif hesaplama hataları yapılması ve aynı zamanda işçilerin pozisyon adı ile gelebileceği azami derecenin üzerinde derecelere taşınmaları nedeniyle sebep olunan ... TL’nin
+
+A) Yerel mahkemece öngörülen hakkın verilmesi kapsamında olmayıp İdarece kurulan komisyon tarafından tespit edilen hesaplama hatalarından kaynaklanan ... TL’sinin tazminine hükmedilmiştir.
+
+İlamda Üst Yönetici olarak sorumlu tutulan Vali ..., Diğer Sorumlu olarak sorumlu tutulan Genel Sekreter ... ve Hukuk Müşaviri ...,  Harcama Yetkilisi olarak sorumlu tutulan ... tarafından gönderilen temyiz dilekçeleri, Başsavcılık Mütalaası işbu tutanağın/ilamın 1’inci maddesinin (A) bendinde  belirtildiği gibi olup sözü edilen bentte yer alan gerekçelerle; 395 sayılı Ek İlam’ın 7 nci maddesinin (A) bendi ile verilen tazmin hükmünün, 18.10.2016 tarih ve 42293 sayılı Temyiz Kurulu Kararında belirtildiği üzere tekrardan BOZULARAK DAİRESİNE TEVDİİNE,(işbu tutanağın/ilamın 1/A maddesinde belirtilen Üyeler ..., ..., ..., ..., ..., ..., ...’ın ilam hükmünün tasdiki gerekir şeklindeki ve ...’nin ilam hükmünün bozulması gerekir şeklindeki karşı görüşü aynı kalmak üzere) oy çokluğuyla;
