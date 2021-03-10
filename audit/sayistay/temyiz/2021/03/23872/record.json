@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49194",
+  "decision_date": "2021-03-10",
+  "source_id": 23872,
+  "chamber": "1",
+  "file_number": "44918",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2012",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23872/",
+  "source_sha256": "7e5676a2b2b4c01d9f502974ce32920720b2c41a865acb91c850bb5d22332685",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
