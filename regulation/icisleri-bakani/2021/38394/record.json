@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38394",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI MADALYA VE NAKDİ ÖDÜL YÖNETMELİĞİ",
+  "number": "38394",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38394",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38394&MevzuatTertip=5",
+  "source_sha256": "0409a803e982699ecf30da123e6c7e43e40886a7ed968d86ba1ad40c3fc50552",
+  "source_bytes": 55708,
+  "published": "2021-03-10",
+  "gazette": "31419",
+  "in_force": "2021-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3546,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38394-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
