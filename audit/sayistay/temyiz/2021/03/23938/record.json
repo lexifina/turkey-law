@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49200",
+  "decision_date": "2021-03-10",
+  "source_id": 23938,
+  "chamber": "1",
+  "file_number": "44878",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23938/",
+  "source_sha256": "d9bd3f136b340fba7ad8833f7f5fd2a2ebafee51c381f0f573adc68b7358472e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
