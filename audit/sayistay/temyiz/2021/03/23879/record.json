@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49197",
+  "decision_date": "2021-03-10",
+  "source_id": 23879,
+  "chamber": "1",
+  "file_number": "44850",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2013",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23879/",
+  "source_sha256": "10f1a3feb69382aef17e1f4378f3a3a376fd6f185bd5957a0a0552beaa8c2fff",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
