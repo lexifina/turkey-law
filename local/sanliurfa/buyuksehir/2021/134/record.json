@@ -1,0 +1,24 @@
+{
+  "number": "134",
+  "number_as_published": "134",
+  "year": 2021,
+  "title": "Nazım İmar Planı (Siverek-Haliliye)",
+  "decision_date": "2021-03-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11467/106/nazim-imar-plani-siverek-haliliye",
+  "official_document": null,
+  "source_sha256": "04ae6bfcdae3a1036f17116238976e4ec71639cafbab096d23794fc10af3ef09",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.03.2021 tarih ve 134 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-04-26",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
