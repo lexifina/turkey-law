@@ -1,0 +1,20 @@
+{
+  "applicant": "T.A.A.",
+  "application_date": "2016-10-31",
+  "application_number": "2016/22510",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-03-11",
+  "id": "3c4cf828-fdf0-5976-e0a6-8cdd3f4bfc26",
+  "in_force": "2021-03-11",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjNjNGNmODI4LWZkZjAtNTk3Ni1lMGE2LThjZGQzZjRiZmMyNg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "1a0eb3dcf7bd1a22c9d0ab818867b1075cb818d5911844bb67da5372ab419440",
+  "version_label": "as-enacted"
+}
