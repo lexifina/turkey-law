@@ -1,0 +1,24 @@
+{
+  "number": "130",
+  "number_as_published": "130",
+  "year": 2021,
+  "title": "NAZIM İMAR PLANI-(HALİLİYE-ÇAMLIDERE)",
+  "decision_date": "2021-03-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11559/106/nazim-imar-plani-haliliye-camlidere",
+  "official_document": null,
+  "source_sha256": "f58dc5d23a67bbb0b38d564f72141613b547afd972f1c6146bf7fdd00b3e771b",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.03.2021 tarih ve 130 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-05-24",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
