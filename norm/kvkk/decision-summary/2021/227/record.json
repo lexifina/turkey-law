@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/227",
+  "source_id": 7115,
+  "date": "2021-03-11",
+  "title": "“Bir eğitim kurumu tarafından ilgili kişinin cep telefonu numarasının herhangi bir veri işleme şartına dayanmaksızın işlenmesi ve ilgili numaraya reklam içerikli SMS gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 11/03/2021 tarihli ve 2021/227 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7115/2021-227",
+  "source_sha256": "ae1642216c8017f61c29531944a84aa01a431d6b3d9f4c392553b2e18cef06e3",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
