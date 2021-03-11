@@ -1,0 +1,27 @@
+{
+  "number": "212",
+  "number_as_published": "212",
+  "year": 2021,
+  "title": "Belediyemizin 2020 yılı içerisinde Bilgi Evi, hanımlar lokali, meslek kursları alanındaki yatırımlar hk. 2 Sayılı Eğitim ve Kültür ve Halkla İlişkiler Komisyon Raporuna ilişkin Meclis Kararı",
+  "decision_date": "2021-03-11",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=018edb28-dc9d-4613-92a9-7e8cbcdb6bdc",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-03-11T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=018edb28-dc9d-4613-92a9-7e8cbcdb6bdc",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=a3e49514-a3d7-4e5e-a6a9-796836b8c911"
+  ]
+}
