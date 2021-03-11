@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "794",
+  "decision_date": "2021-03-11",
+  "source_id": 33671,
+  "chamber": "6",
+  "ilam_number": "72",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33671/",
+  "source_sha256": "a2a5797eadd5499976fa291cbb034861bbf06d4546d1d3c1dee49a2d1a2377e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
