@@ -1,0 +1,3 @@
+Eğitim süreleri
+MADDE 7 – (1) Jandarma Genel Komutanlığı nam ve hesabına yapılacak yurt içi lisansüstü eğitimler; bilimsel hazırlık ve yabancı dil hazırlık süresi hariç olmak üzere, yüksek lisans eğitimi için en fazla altı yarıyıl olmak üzere üç yılda, doktora eğitimi için en fazla on iki yarıyıl olmak üzere altı yılda, doktora eğitimine lisans notu ile kabul edilenler için ise en fazla on dört yarıyıl olmak üzere yedi yılda tamamlanır.
+(2) Jandarma Genel Komutanlığı nam ve hesabına yapılacak yurt dışı lisansüstü eğitim süreleri için Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmeliğin 11 inci maddesinde belirtilen hükümler esas alınır.

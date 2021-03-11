@@ -1,0 +1,2 @@
+Kendi nam ve hesabına lisansüstü eğitim
+MADDE 11 – (1) Personel, görev ve sorumluluklarını aksatmamak ve eğitime ilişkin tüm giderler kendisine ait olmak koşuluyla kendi nam ve hesabına lisansüstü eğitim yapabilir. Personel, eğitime kabul edildiği tarihten itibaren iki ay içerisinde bir dilekçe ile kabul edildiği eğitime ilişkin bilgileri Jandarma Genel Komutanlığına bildirmekle yükümlüdür. Personelin kendi nam ve hesabına lisansüstü eğitime devam ediyor olması, gerektiğinde atama yapılmasına engel teşkil etmez.

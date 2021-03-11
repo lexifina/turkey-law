@@ -1,0 +1,2 @@
+Başarısızlık
+MADDE 17 – (1) 15 inci maddede belirtilen sebeplerden dolayı başarısız kabul edilerek Jandarma Genel Komutanlığı nam ve hesabına devam ettiği lisansüstü eğitimine son verilen personel hakkında, 2803 sayılı Kanunun ek 14 üncü maddesi, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek 34 üncü maddesi ve 926 sayılı Kanunun 36 ncı maddesinde belirtilen hükümlere göre işlem yapılır.

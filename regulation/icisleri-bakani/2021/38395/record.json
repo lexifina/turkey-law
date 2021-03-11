@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38395",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI PERSONELİNİN LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "38395",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38395",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38395&MevzuatTertip=5",
+  "source_sha256": "0ec2f3198dce7dcdf32a20be1bc1f4b78d2462f5f5c038fbd960559077cf6156",
+  "source_bytes": 101189,
+  "published": "2021-03-11",
+  "gazette": "31420",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3500,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

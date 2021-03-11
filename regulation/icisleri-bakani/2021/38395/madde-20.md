@@ -1,0 +1,2 @@
+Tez, kitap, makale ve bildiri benzeri bilimsel faaliyetler için veri toplama izni
+MADDE 20 – (1) Jandarma Genel Komutanlığının kurumsal yapısı ve personelin kurumsal değer, tutum, görüş, öneri, bilgi ve tecrübesine başvurularak ya da Jandarma Genel Komutanlığı arşivinden veya ilgili birimlerden veri/bilgi alınarak yapılacak çalışmalara yönelik veri toplama faaliyetleri için izin alınır. İzin talebi, 19 uncu madde hükümleri çerçevesinde incelenerek sonuçlandırılır.

@@ -1,0 +1,19 @@
+Jandarma Genel Komutanlığı nam ve hesabına lisansüstü eğitime başvuru şartları
+MADDE 12 – (1) Jandarma Genel Komutanlığı nam ve hesabına lisansüstü eğitime gideceklerde;
+a) Muvazzaf subay olma,
+b) Jandarma Genel Komutanlığınca belirlenen hizmet yılı koşullarını sağlama,
+c) Terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette bulunduğuna karar verilen yapı, oluşum veya gruplara iltisakı veya irtibatı olmama,
+ç) Ertelenmiş, seçenek yaptırımlara çevrilmiş, hükmün açıklanmasının geri bırakılmasına karar verilmiş, affa uğramış veya 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler geçmiş olsa bile 2803 sayılı Kanunun 15 inci maddesinin ikinci fıkrasında belirtilen suçlar ile 5237 sayılı Kanunda belirtilen cinsel dokunulmazlığa karşı suçlar, genel ahlaka karşı suçlar, devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar ve kamunun sağlığına karşı suçlardan mahkum olmama,
+d) Firar, amir veya üste fiilen taarruz, emre itaatsizlikte ısrar, üste hakaret, mukavemet, fesat, isyan suçları ile 22/5/1930 tarihli ve 1632 sayılı Askeri Ceza Kanununun 148 inci maddesinde belirtilen suçlardan mahkum olmama,
+e) Taksirli suçlar hariç olmak üzere, (ç) ve (d) bentlerinde belirtilen suçların dışındaki suçlardan, toplam olarak 21 gün ve daha fazla hapis, oda hapsi veya hizmet yerini terk etmeme cezası ile mahkum veya cezalandırılmamış olma,
+f) Personel seçimine ilişkin başvurunun yapıldığı tarihte hakkında meslekten veya memuriyetten çıkarma cezası gerektiren suçlardan dolayı adli ve/veya idari soruşturma yapılmıyor olma,
+g) 31/1/2018 tarihli ve 7068 sayılı Genel Kolluk Disiplin Hükümleri Hakkında Kanun Hükmünde Kararnamenin Kabul Edilmesine Dair Kanun kapsamında, başvuru tarihinden itibaren geriye doğru son beş yıl içinde, toplamda on iki ay veya daha fazla kademe ilerlemesinin durdurulması cezası almamış olma,
+ğ) Personel seçimine ilişkin başvurunun yapıldığı tarihte herhangi bir sebeple görevden uzaklaştırılmış veya tutuklu bulunmama,
+h) Yurt dışı lisansüstü eğitimlere yönelik olarak kontenjan ayrılan bilim dalında eğitim veren ilgili yükseköğretim kurumundan şartsız kabul almış olma,
+ı) Yurt dışı lisansüstü eğitimlere yönelik olarak Sağlık Bakanlığı tarafından yetkilendirilen hastanelerden 31/10/2016 tarihli ve 2016/9431 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı Sağlık Yeteneği Yönetmeliğinde belirtilen hükümler doğrultusunda yurt dışında görev yapabileceğine dair sağlık kurulu raporu almış olma,
+şartları aranır.
+(2) Jandarma Genel Komutanlığı nam ve hesabına yüksek lisans eğitimini tamamlayan personel, yüksek lisans eğitiminden mezun olduğu gün itibarıyla iki yıl geçmeden Jandarma Genel Komutanlığı nam ve hesabına doktora eğitimine başvuramaz.
+(3) Jandarma Genel Komutanlığı nam ve hesabına icra edilecek lisansüstü eğitim kontenjanına birden fazla personelin başvurması halinde, daha önceden kendi nam ve hesabına aynı seviyede lisansüstü eğitim almamış olan personele öncelik verilir.
+(4) Jandarma Genel Komutanlığı nam ve hesabına lisansüstü eğitimini tamamlayan personel, Jandarma Genel Komutanlığı nam ve hesabına icra edilen aynı seviyedeki lisansüstü eğitimlere tekrar başvuramaz.
+(5) Birinci fıkranın (f) bendinde belirtilen durumda olan personel hakkında soruşturmaya yer olmadığı kararı, kovuşturmaya yer olmadığı kararı, ceza verilmesine yer olmadığı kararı, hükmün açıklanmasının geri bırakılması veya kesinleşmiş beraat kararı verilmesi durumunda; adaya, personel seçimine katılamadığı süre kadar ilave başvuru hakkı verilir.
+(6) Birinci fıkranın (ğ) bendinde belirtilen durumda olan personelin haklarındaki bu tedbirlerin sona ermesi halinde; adaya, personel seçimine katılamadığı süre kadar ilave başvuru hakkı verilir.
