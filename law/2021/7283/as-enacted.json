@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7283",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Somali Federal Cumhuriyeti Hükümeti Arasında Kalkınma İş Birliği Anlaşması ve Anlaşmada Değişiklik Yapılmasına Dair Notaların Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-11",
+  "gazette_issue": "31420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-2.htm",
+  "source_sha256": "4b93dc975db7437fda6437f60ac4f5800ddc2dc9a4aee83235df33c6c3f49013",
+  "text_sha256": "a02ed9d03c43c6738c6cf2895f72765d92ed6ecf34bb8ee3437f36a5f865cca7",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/11/31420-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
