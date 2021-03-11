@@ -1,0 +1,68 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7297",
+  "year": 2021,
+  "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2021-03-11",
+  "adopted_as_published": "11/03/2021",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "20.03.2021 No: 31429",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507297.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 105",
+  "committee_reports": [
+    {
+      "label": "TBMM 252 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c066/tbmm27066056ss0252.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 896363,
+      "title": "Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": "11/03/2021",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507297.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 252 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c066/tbmm27066056ss0252.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 67,
+          "sitting": 57,
+          "sitting_date": "2021-03-10",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c067/tbmm27067057.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c067/tbmm27067fih.pdf",
+          "pages": [
+            "83:89",
+            "89:96",
+            "100:137",
+            "141:144",
+            "146:157",
+            "159:165",
+            "172:180",
+            "180:181",
+            "182:183"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=101&v_kullanici_id=27483210",
+      "page_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e",
+  "issuer": "TBMM",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 11/03/2021; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
