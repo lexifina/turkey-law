@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7287",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Cibuti Cumhuriyeti Arasında Denizcilik Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-11",
+  "gazette_issue": "31420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-6.htm",
+  "source_sha256": "05010855f5ab3b02a3bbb975144e0cd17ff8a864d040f00998d72ae4b8a40135",
+  "text_sha256": "cf423e83b75a00f1a24bb8fb024706fd20439867f22633e431e645300a6429ee",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/11/31420-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
