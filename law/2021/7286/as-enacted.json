@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7286",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Moritanya İslam Cumhuriyeti Hükümeti Arasında Balıkçılık ve Deniz Ekonomisi Alanında İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-11",
+  "gazette_issue": "31420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-5.htm",
+  "source_sha256": "f00c14bba68aee9a862e7ba4c1f1baeee96c34de19150e26f05735923d3fd2c0",
+  "text_sha256": "748362b20936ca667f4e01508cc1103979da8c519d8fb182a7226157aa3ba55d",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/11/31420-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
