@@ -1,0 +1,4 @@
+Devir
+MADDE 14 – (1) Arama ve işletme ruhsatları, hukuki bir sakınca olmadığının belirlenmesi durumunda 5 inci maddede belirtilen şartları haiz gerçek veya tüzel kişilere devredilebilir.
+(2) Ruhsat sahibi, ruhsatını devretmek istediği gerçek veya tüzel kişiye ait bilgi ve belgeleri İdareye yazılı olarak bildirir. (Ek cümle:RG-24/9/2013-28775) Devir eden, arama/işletme faaliyet raporu verir. İdare bildirim tarihinden itibaren onbeş gün içerisinde devir işlemlerinin 5 inci maddeye uygunluğu açısından değerlendirerek sonucunu ruhsat sahibine bildirir. Ek-7’de belirtilen ruhsat devir formuna göre hazırlanmış belge, İdarede görevli yetkilinin huzurunda karşılıklı olarak imzalanarak devir işlemi tamamlanmış olur.
+(3) İdare tarafından kaynağa ilişkin hak verilmesi, hakların devredilmesi, haciz, rehin, ipotek ve sona erme hususlarını içeren sicil tutulur. Haklar, sicile işlendiği tarihte yürürlüğe girerek hüküm ve sonuç doğurur.

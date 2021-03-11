@@ -1,0 +1,3 @@
+Görevlendirme giderlerinin karşılanması
+MADDE 13 – (1) Memuriyet mahalli dışında MTA tarafından görevlendirilen konu ile ilgili personel ve yardımcı personele 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 50 nci maddesi ile ilişkilendirilmeksizin, her yıl Bütçe Kanunu ile belirlenen gündelik harcırah miktarının iki katı tutarında 6245 sayılı Harcırah Kanunu genel hükümlerine göre harcırah ödenir bu madde kapsamında ödenen gündelik tutarında herhangi bir ad altında kesinti yapılmaz.
+(2) MTA tarafından yapılacak inceleme ve denetimler için gerekli görülmesi halinde, diğer ilgili bakanlık, kamu kurum ve kuruluşlarının da katılımı istenebilir. Bu şekilde yapılan görevlendirmelerde de personelin günlük harcırah miktarı yukarıdaki hükümlere göre belirlenir.

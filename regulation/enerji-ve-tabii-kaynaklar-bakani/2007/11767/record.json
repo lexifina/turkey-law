@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.11767",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JEOTERMAL KAYNAKLAR VE DOĞAL MİNERALLİ SULAR KANUNU UYGULAMA YÖNETMELİĞİ",
+  "number": "11767",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2007/11767",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11767&MevzuatTertip=5",
+  "source_sha256": "e994bdd684ffde74e0c45103c465c68c5cd12b4829f6188b0accea40ce4ae26e",
+  "source_bytes": 197120,
+  "published": "2007-12-11",
+  "gazette": "26727",
+  "in_force": "2021-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-03-11",
+      "RG-11/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-11",
+      "11/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-05-30",
+      "RG-30/5/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-05-30",
+      "30/5/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-24",
+      "RG-24/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-24",
+      "24/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12586,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11767-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
