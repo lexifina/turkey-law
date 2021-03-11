@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "794",
+  "decision_date": "2021-03-11",
+  "source_id": 33670,
+  "chamber": "6",
+  "ilam_number": "72",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33670/",
+  "source_sha256": "c34117fc86b1e8ded20a79ad76ef1d37e7b642bbe4b59b780fde303d01c931c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
