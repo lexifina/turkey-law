@@ -1,0 +1,24 @@
+{
+  "number": "129",
+  "number_as_published": "129",
+  "year": 2021,
+  "title": "NAZIM İMAR PLANI (AKÇAKALE-KORUKLU)",
+  "decision_date": "2021-03-11",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11328/106/nazim-imar-plani-akcakale-koruklu",
+  "official_document": null,
+  "source_sha256": "7216172734c0da1164109d53c1e1f33a131b6c1550206fcce25a4be01bfee8f1",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.03.2021 tarih ve 129 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-03-31",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
