@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7285",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Gürcistan Hükümeti Arasında Yatırımların Karşılıklı Teşviki ve Korunmasına İlişkin Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-11",
+  "gazette_issue": "31420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-4.htm",
+  "source_sha256": "da0ac38b0055d5a012f6ea7077938eba6b2cd9e7db08110f3c01e975d4933dc9",
+  "text_sha256": "a528811042074f8fc87bc4030a0a7b285ed4a5f0186d8dc272ef53d20fcb3bff",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/11/31420-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
