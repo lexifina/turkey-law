@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "429",
+  "decision_date": "2021-03-11",
+  "source_id": 33387,
+  "chamber": "7",
+  "ilam_number": "63",
+  "item_number": 5,
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33387/",
+  "source_sha256": "a0978c0d88c24fe684c1debf5d3658023ffb1b4c66713ca7ec3d056fd09b63a6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
