@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/228",
+  "source_id": 7117,
+  "date": "2021-03-11",
+  "title": "“Hukuk Bürosu tarafından ilgili kişinin kişisel verilerinin muhatabı ve tarafı olmadığı icra takibi ile ilgili işlemlerde hukuka aykırı olarak işlenmesi ve icra dosyasına ilişkin ilgili kişinin telefon numaralarına mesajlar gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 11/03/2021 tarihli ve 2021/228 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7117/2021-228",
+  "source_sha256": "9cc9b23a3d99565859987dc04e68cdf7d978f65f3f7118516e9cb7a88c3f8de1",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
