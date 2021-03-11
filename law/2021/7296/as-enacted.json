@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7296",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ürdün Haşimi Krallığı Hükümeti Arasında Gemiadamı Belgelerinin Karşılıklı Tanınmasına İlişkin Protokolün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-11",
+  "gazette_issue": "31420",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-14.htm",
+  "source_sha256": "087f8af197e1d294a946c3c3e6fdd719f2312b72c1d7a217e618770936e53dda",
+  "text_sha256": "0d39912e08faa6dde650c58671ecfb6cfede6a80ba468b32ed59d88f9e2f1b77",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/11/31420-14",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210311-14.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
