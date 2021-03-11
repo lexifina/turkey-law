@@ -1,0 +1,25 @@
+{
+  "number": "meeting-03-11",
+  "number_as_published": "meeting-03-11",
+  "year": 2021,
+  "title": "HATAY BÜYÜKŞEHİR BELEDİYE MECLİSİNİN 11 MART 2021TARİHLİ OLAĞAN TOPLANTISINDA ALINAN KARAR ÖZETLERİ",
+  "decision_date": "2021-03-11",
+  "source": "https://www.hatay.bel.tr/api/documents?menuItemId=bbc57955-f40b-40e1-8097-3396c2320e15&page=9&pageSize=10&search=",
+  "official_document": "https://www.hatay.bel.tr/icerik/dosyalar/hatay-buyuksehir-belediye-meclisinin-11-mart-2021tarihli-olagan-toplantisinda-alinan-karar-ozetleri.pdf",
+  "source_sha256": "3a8a0bc2acaf0991f04d4f241d5cf77490e7c80f5a20c9c5233e48cad3804098",
+  "issuer": "Hatay Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-03-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 MART 2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "HATAY BÜYÜKŞEHİR BELEDİYE MECLİSİNİN 11 MART 2021TARİHLİ OLAĞAN TOPLANTISINDA ALINAN KARAR ÖZETLERİ",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "listing_date": "22.03.2021",
+  "official_page": "https://www.hatay.bel.tr/meclis-kararlari"
+}
