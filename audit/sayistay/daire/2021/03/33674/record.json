@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "794",
+  "decision_date": "2021-03-11",
+  "source_id": 33674,
+  "chamber": "6",
+  "ilam_number": "72",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33674/",
+  "source_sha256": "11ede517a7e47184e0bfd0290d317d95594ba5c3bd163a9be61410ab8164e385",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
