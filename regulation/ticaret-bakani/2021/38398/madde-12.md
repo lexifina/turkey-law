@@ -1,0 +1,2 @@
+Karşılıklı tanıma hükmü
+MADDE 12 – (1) Yetkili kuruluşlar hazırladıkları ulusal teknik düzenlemelere, uygulanabilir ve gerekli olan her durumda “Avrupa Birliği üyesi bir ülkede yasal olarak piyasada bulundurulan ürünlerin bu (düzenleyici işlemin ismi yazılacak) hükümleri çerçevesinde belirtilen kurallara uygun olduğu varsayılır. Bu kuralların uygulanması Düzenlenmemiş Alanda Karşılıklı Tanıma Yönetmeliği hükümlerine tabidir.” şeklinde bir karşılıklı tanıma hükmünü koyar.

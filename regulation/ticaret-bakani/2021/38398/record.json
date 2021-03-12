@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38398",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DÜZENLENMEMİŞ ALANDA KARŞILIKLI TANIMA YÖNETMELİĞİ",
+  "number": "38398",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2021/38398",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38398&MevzuatTertip=5",
+  "source_sha256": "b9f4a981be41d550d57625bd3e1bdbcaeb57876ddf9efbe6e9bdd7d91442da49",
+  "source_bytes": 86064,
+  "published": "2021-03-12",
+  "gazette": "31421",
+  "in_force": "2021-03-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2703,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38398-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
