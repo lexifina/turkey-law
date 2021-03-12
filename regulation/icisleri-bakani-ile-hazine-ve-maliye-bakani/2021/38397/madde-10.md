@@ -1,0 +1,3 @@
+Personelin öğrencilik ve ön sözleşme dönemine ait maliyet hesabı
+MADDE 10 – (1) Akademide öğrenim veya eğitim gören personelin, öğrencilik veya ön sözleşme dönemine ilişkin maliyet hesabı, Ek-2’de yer alan çizelgedeki maliyet kalemlerini kapsayacak biçimde Akademi tarafından yapılır.
+(2) Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı adına, eğitimin bir bölümünü veya tamamını Akademi haricinde gören personelin, öğrencilik ve ön sözleşme dönemine ilişkin maliyet hesabı, öncelikle eğitim veya öğrenim kurumunun kendi mevzuatına göre, olmaması durumunda Ek-2’de yer alan çizelgedeki maliyet kalemlerini kapsayacak biçimde Akademi tarafından ilgili eğitim ve öğretim kurumundan talep edilir.

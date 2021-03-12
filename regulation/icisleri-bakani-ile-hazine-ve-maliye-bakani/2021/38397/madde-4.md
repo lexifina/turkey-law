@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Akademi: Jandarma ve Sahil Güvenlik Akademisi Başkanlığını ve bağlılarını,
+b) Alacağın takibinden sorumlu birim: İlgisine göre Mali Hizmetler Başkanlığı veya Strateji Geliştirme Başkanlığınca belirlenecek öğrenim, eğitim ve yetiştirme masraflarının tahsil ve takibinden sorumlu birimi,
+c) Eğitim merkezi: Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin, branş ve ihtisas kapsamındaki kadro görevlerine yönelik meslek içi eğitimlerinin tek elden icrası maksadıyla teşkil edilen; ismi, kuruluşu ve teşkilatı İçişleri Bakanlığı, Millî Savunma Bakanlığı veya Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığının kuruluş ve kadrolarında gösterilen her türlü eğitim ve öğretim kurumunu,
+ç) Eğitim öğretim dönemi: İntibak eğitimini müteakip başlayacak dönemi,
+d) Eğitim vermekle görevlendirilen diğer birimler: Eğitim merkezleri dışındaki hizmet içi eğitim vermekle görevlendirilen birimleri,
+e) Hizmet içi eğitim: Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı personelinin yeni veya ilk kez atandığı bir göreve ilişkin bilgi vermek, yeni gelişen bir teknoloji, teçhizat veya silah sistemine ilişkin bilgilendirme yapmak, değişen mevzuat ve uygulamalar hakkında güncel bilgiler vermek, kolluk görevlerine ilişkin özel alanlarda bilgilendirme yapmak üzere, yurt içi ve/veya yurt dışında teorik veya uygulamalı her türlü kurs, eğitim, sertifika programı, seminer, konferans, panel, sempozyum, kongre gibi faaliyetleri,
+f) İlk sözleşme süresi: Sözleşmeli subay ve astsubayların ilk nasıp tarihleri ile başlayan sözleşme süresini,
+g) İntibak eğitimi: Mesleki disipline uyum sağlamak için verilen eğitimi,
+ğ) İntibak süresi: Öğrenciler ile sözleşmeli subay ve astsubay adaylarının intibak eğitimine katılımı ile başlayan ve yemin etmesi ile sona eren süreyi,
+h) Mali Hizmetler Başkanlığı: Jandarma Genel Komutanlığı Mali Hizmetler Başkanlığını,
+ı) Maliyet raporu: Ek-3’te yer alan maliyet kalemleri esas alınarak hesaplanan eğitim maliyetlerini gösteren raporu,
+i) Öğrenci: Subay, astsubay veya uzman jandarma naspedilmek üzere, Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığı nam ve hesabına eğitim ve/veya öğretim kurumlarında öğrenim gören kişileri,
+j) Ön sözleşme dönemi: Sözleşmeli subay ve astsubayların, subay veya astsubay naspedilmeden önce eğitime başladıkları tarih ile ilk nasıp tarihlerine kadar olan dönemi,
+k) Personel: Jandarma Genel Komutanlığı ile Sahil Güvenlik Komutanlığında görevli ve mecburi hizmet yükümlülüğü bulunan subay, astsubay ve uzman jandarmalar ile ilk sözleşme süresi içinde yer alan sözleşmeli subay ve astsubayları,
+l) Personel Başkanlığı: Jandarma Genel Komutanlığı Personel Başkanlığı ile Sahil Güvenlik Komutanlığı Personel Başkanlığını,
+m) Sözleşmeli astsubay adayı: Sözleşmeli astsubay yetiştirilmek amacıyla ön sözleşme yapılarak eğitime alınanları,
+n) Sözleşmeli subay adayı: Sözleşmeli subay yetiştirilmek amacıyla ön sözleşme yapılarak eğitime alınanları,
+o) Strateji Geliştirme Başkanlığı: Sahil Güvenlik Komutanlığı Strateji Geliştirme Başkanlığını,
+ifade eder.

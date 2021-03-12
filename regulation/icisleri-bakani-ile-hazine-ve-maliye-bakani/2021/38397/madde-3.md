@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilat, Görev ve Yetkileri Kanununun 13/A ve ek 14 üncü maddeleri, 13/6/2001 tarihli ve 4678 sayılı Türk Silahlı Kuvvetlerinde İstihdam Edilecek Sözleşmeli Subay ve Astsubaylar Hakkında Kanunun 18 inci maddesi ile 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanununun ek 10 uncu maddesine dayanılarak hazırlanmıştır.

@@ -1,0 +1,2 @@
+Yurt dışına eğitim amacıyla gönderilen personelden alınacak yüklenme senedi ile muteber imzalı müteselsil kefalet senedi
+MADDE 9 – (1) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek 34 üncü maddesine göre; öğrenim yapmak, yetiştirilmek, eğitilmek, bilgilerini artırmak, staj yapmak veya benzeri bir nedenle geçici süreli görevlendirilmek suretiyle, üç ay veya daha fazla süre ile yurt dışına gönderilen personelden, örneği Hazine ve Maliye Bakanlığınca belirlenen Yüklenme Senedi ile Muteber İmzalı Müteselsil Kefalet Senedi alınır.

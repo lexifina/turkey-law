@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38397",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞI ÖĞRENİM, EĞİTİM VE YETİŞTİRME MASRAFLARININ TESPİT VE TAHSİLİ İLE YÜKLENME VE KEFALET SENEDİNİN DÜZENLENMESİ HAKKINDA YÖNETMELİK",
+  "number": "38397",
+  "issuer": "İçişleri Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "icisleri-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/icisleri-bakani-ile-hazine-ve-maliye-bakani/2021/38397",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38397&MevzuatTertip=5",
+  "source_sha256": "3c991f06cb72f628061869cf278e6892b1425e589737b3817f8010ca8e7fdcc8",
+  "source_bytes": 83608,
+  "published": "2021-03-12",
+  "gazette": "31421",
+  "in_force": "2021-03-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2561,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38397-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
