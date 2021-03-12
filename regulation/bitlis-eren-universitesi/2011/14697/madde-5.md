@@ -1,0 +1,17 @@
+İKİNCİ BÖLÜM
+İşletmenin Faaliyet Alanları, Yönetim Organları ve İşleyişine İlişkin Esaslar
+Faaliyet alanları
+MADDE 5 – (1) İşletme; eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıdaki faaliyetlerde bulunur:
+a) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce talep edilecek bilimsel görüş, proje, araştırma ve benzeri hizmetler yapmak, seminer, konferans, sempozyumlar düzenlemek, her türlü kurs açmak,
+b) Danışmanlık, her türlü tercüme hizmetleri, plan, proje uygulama, deney raporları, fizibilite etüdü, süreç değerlendirmesi ve geliştirmesi, model deneyleri, iş değerlendirmesi veya organizasyonu, analiz ve ölçme hizmetlerini yürütmek,
+c) Faaliyet alanı ile ilgili olarak bakım, onarım, basım, yayın, cilt ve üretimle ilgili hizmetleri yapmak,
+ç) Bilimsel, teknik, kültürel, sanatsal, tarım ve sağlık ile ilgili araştırma ve uygulamaları teşvik etmek amacıyla çevre kampları ve incelemeleri düzenlemek ve alınacak bilimsel sonuçların uygulamasını yapmak,
+d) Sanayi kuruluşlarınca üretilen çeşitli malların her türlü standartlara uygunluğu konusunda raporlar düzenlemek, analiz ve ölçümler yapmak, projeler hazırlamak veya uygulamak,
+e) Eğitim ve öğretime yönelik uygulamalarla sınırlı olmak üzere, sportif alanda bireysel ve takım olarak performans değerlendirmesi, psikolojik danışmanlık, diyet analiz ve kontrolü, antrenman planlaması, sporcu sağlığını koruma ve geliştirmeye yönelik hizmetlerde bulunmak,
+f) Turizme ilişkin rehberlik, seyahat, konaklama, ve yiyecek-içecek ile ilgili her türlü hizmet üretmek, kuruluşlar işletmek ve üretimleri ile ilgili faaliyetlerde bulunmak,
+g) Mevcut fiziki kapasiteyi değerlendirerek birimlerin faaliyet alanları ile sınırlı olmak üzere iş ve hizmet üretmek, elde edilen ürünleri önceden Rektörün izni alınmak şartıyla pazarlamak ve satımı yapılmak üzere satış ve teşhir yerleri açmak,
+ğ) Üniversitenin bilgisayar alt yapısını kullanarak bilişim alanında her türlü iş ve hizmetleri üretmek.
+h) (Ek:RG-17/2/2014-28916) Bölgenin okul öncesi eğitim çağı çocuklarının eğitim sorunlarının tespiti ile sorunların giderilmesine yönelik yeni projeler üretmek ve bu suretle eğitim kalitesini arttırmak, okul öncesi eğitim, aile-çocuk iletişimi, çocuk sağlığı ve çocuk psikolojisi alanlarında bilimsel araştırmalar ve çalışmalar yapmak, Sağlık Hizmetleri Meslek Yüksekokulu Çocuk Bakımı ve Gençlik Hizmetleri Bölümüne bağlı çocuk gelişimi programı öğrencilerinin, uygulama ve staj yapabilmeleri için kreş, anaokulu ve çocuk kulübü kurmak ve işletmek,
+ı) (Ek:RG-17/2/2014-28916) İlgili bakanlık kurum ve kuruluşlarla işbirliği yaparak, Üniversitenin çocuk gelişimi programında öğrenim gören öğrencilerine ve öğretim elemanlarına uygulama, araştırma ve bilimsel çalışma ortamları hazırlamak,
+i) (Ek:RG-17/2/2014-28916) Kreş, anaokulu ve çocuk kulübünde eğitim görecek çocukların, eğitim ve sağlık bilimleri gereklerine uygun fiziksel, zihinsel, sosyal, psiko-motor, duygusal açılardan gelişimlerini ve yaratıcılıklarını en üst seviyeye çıkarmak, problem çözme, düşünme ve karar verme becerilerini desteklemek ve bu alanda eğitim kalitesini geliştirecek programlar oluşturmak,
+j) (Ek:RG-17/2/2014-28916) Eğitimin sürekliliği ve okul öncesi eğitim çağındaki çocukların tüm alanlardaki gelişimlerini desteklemek amacıyla, aile ve çocuk bakımını üstlenen bireylere yönelik eğitim programları ve kurslar düzenlemek.
