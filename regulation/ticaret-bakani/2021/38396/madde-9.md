@@ -1,0 +1,17 @@
+Bildirim yükümlülüğü
+MADDE 9 – (1) Üreticiler ve dağıtıcılar sahip oldukları bilgi ve mesleki birikim çerçevesinde, piyasaya arz ettikleri veya piyasada bulundurdukları bir ürünün genel güvenlik gerekleri açısından tüketicilere yönelik riskler taşıdığını bildikleri veya bilmelerinin gerektiği durumlarda, tüketicilere yönelik riskleri önlemek için risk teşkil eden hususlar ile alınan düzeltici önlemler ve sonuçları hakkında yetkili kuruluşu ivedilikle ve ayrıntılı bir biçimde bilgilendirir.
+(2) Ciddi risklerin varlığı hallerinde, birinci fıkrada bahsi geçen bilgilendirme en az aşağıdakileri içermelidir:
+a) Ciddi risk arz eden ürün veya ürün grubunun tam olarak belirlenmesini mümkün kılacak bilgiler.
+b) Ciddi risk arz eden ürünlerin oluşturduğu risklerin tam tanımlanması.
+c) Ciddi risk arz eden ürünün izlenebilirliği ile ilgili kullanılabilir bütün bilgiler.
+ç) Tüketicileri riskten korumak için alınacak önlemlerin tanımlanması.
+(3) Yetkili kuruluş, erken müdahale ve hızlı bilgi değişiminin sağlanabilmesi amacını gözeterek;
+a) 8 inci maddenin altıncı fıkrasının (b) ila (e) bentlerinde öngörülen önlemlerin alınması halinde; bu önlemleri, önlemlerin alınış nedenlerini, önlemlerde meydana gelen değişiklikleri ve önlemlerin kaldırılması hakkında bilgileri,
+b) Ciddi risk taşıyan bir ürünün piyasaya arzının veya kullanımının yasaklanması, kısıtlanması veya özel koşullara tabi tutulmasına yönelik bir önlem aldıklarında, önlem almaya karar verdiklerinde, üretici ve dağıtıcılara bu yönde alınabilecek zorunlu veya ihtiyari önlemler konusunda yol gösterdiklerinde veya onlarla ortak bir anlayışa vardıklarında; alınan önlemleri, önlemlerin sürelerini, alınış nedenlerini, alınan önlemlere ilişkin değişiklikleri veya alınan önlemlerin kaldırılması hakkında bilgileri, üretici ve dağıtıcılar tarafından alınan gönüllü önlemleri en az aşağıdaki hususları içeren bilgiler ile birlikte;
+1) Ürünün ve üründen kaynaklı riskin tam olarak belirlenmesini mümkün kılacak bilgileri,
+2) Her türlü test ve analiz sonuçları ile risk düzeyi değerlendirmesine ilişkin sonuçların özetleri de dahil olmak üzere bahse konu riskin tanımını,
+3) Ürünün izlenebilirliğine ilişkin bilgiler ve var ise alıcı ülke bilgileri ile alıcı ülkedeki tedarik zinciri bilgileri,
+4) Tüketicileri riskten korumak için alınan veya alınması öngörülen önlemlerin süresi ve içeriğine ilişkin bilgileri,
+27/7/2013 tarihli ve 28720 sayılı Resmî Gazete’de yayımlanan Piyasa Gözetimi ve Denetimi Sonuç ve Önlemlerin Kaydı ve Bildirimi Yönetmeliğinde belirlenen usul ve esaslara uygun olarak Bakanlığa bildirir.
+(4) Üçüncü fıkra kapsamında bildirimi yapılan önlemin bir kimyasal maddenin, karışımın veya ürünün kullanımını veya piyasaya arzını kısıtlamayı amaçladığı durumlarda ve mevcut olduğu hallerde, yetkili kuruluş ivedilikle söz konusu madde veya karışım ile bilinen ve mevcut ikamelerine ilişkin verilerin bir özetini veya referanslarını, Bakanlığa bildirir. Söz konusu bildirimde, alınan önlemlerin tüketici sağlığı ve güvenliği üzerine beklenen etkilerine ilişkin bilgiler ile 23/6/2017 tarihli ve 30105 mükerrer sayılı Resmî Gazete’de yayımlanan Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmeliğe uygun şekilde yürütülmüş risk analizi de yer alır.
+(5) Bakanlık bu madde kapsamında yetkili kuruluşlardan derlediği bilgilerin kaydını tutar. Bu bilgileri gerekli görülen durumlarda, karşılıklılık esasında Avrupa Komisyonuna iletebilir.

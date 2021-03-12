@@ -1,0 +1,5 @@
+Dağıtıcıların yükümlülükleri
+MADDE 7 – (1) Dağıtıcılar, kendi faaliyetleri ile sınırlı olmak üzere;
+a) Üreticiler ve yetkili kuruluşlarla etkin bir işbirliği yapar. Özellikle risklerin önlenmesine yönelik alınan önlemler kapsamında ürünün risk taşıdığı her durumda üreticiyi ve 9 uncu madde kapsamında yetkili kuruluşu bilgilendirir. Ürünün menşeinin izlenebilirliği için gerekli belgeleri bulundurur, talebi halinde yetkili kuruluşa sunar. Yetkili kuruluşun talimatlarını ivedilikle yerine getirir.
+b) Sahip oldukları bilgi ve mesleki birikim çerçevesinde bu Yönetmelik hükümlerine uygun olmadığını bildikleri veya bilmelerinin gerektiği ürünleri tedarik etmeyerek, genel ürün güvenliği gereklerine uygunluğun sağlanmasına yardım edecek şekilde faaliyette bulunur.
+c) Üreticinin ürüne ilişkin riskler ve önlemler hakkında kendilerine bildirdiği bilgileri, varsa tedarik zincirindeki bir sonraki dağıtıcıya iletmek ve 6 ncı maddenin ikinci fıkrasının (f) bendinde belirtilen duyuruyu müşterilerinin kolaylıkla görebileceği veya ulaşabileceği yerlere koymak zorundadır.

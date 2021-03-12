@@ -1,0 +1,2 @@
+Üretici ve dağıtıcıyı sorumluluktan kurtaran haller
+MADDE 14 – (1) Piyasaya arz ettikleri veya piyasada bulundurdukları ürünün bu Yönetmelik hükümlerine uygun olmadığını tespit edip yetkili kuruluşun talebi ve uyarısı olmadan uygunsuzluğun giderilmesi ve riskin ortadan kaldırılması için ürünün geri çağrılması da dâhil olmak üzere gerekli tedbirleri kendiliğinden alan ve uygunsuzluğu tamamen gideren üreticiler ve dağıtıcılar için Kanunda düzenlenen idari yaptırımlar uygulanmaz.
