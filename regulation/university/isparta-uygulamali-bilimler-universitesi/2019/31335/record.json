@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 13/3/2021",
+  "first_law": null,
+  "gazette": "30712",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-13",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Isparta Uygulamalı Bilimler Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2019-03-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31335&MevzuatTertip=5",
+  "source_bytes": 25332,
+  "source_id": "8.5.31335",
+  "source_sha256": "ca2f9ad4785b094ba45c20e92dac834a299bd3eb709c50ee84055d166a452a39",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 498,
+  "version_label": "oldest version available",
+  "word_count": 678
+}
