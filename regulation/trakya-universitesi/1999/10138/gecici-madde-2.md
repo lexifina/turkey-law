@@ -1,0 +1,1 @@
+Geçici Madde 2 – Bu Yönetmeliğin yayımından önce mevcut Döner Sermaye İşletmesi Yönetmeliklerine göre başlanmış bulunan sözleşmeler ve diğer işler sonuçlanıncaya kadar eski mevzuatın uygulanmasına devam olunur.

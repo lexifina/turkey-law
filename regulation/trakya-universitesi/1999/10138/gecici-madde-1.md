@@ -1,0 +1,1 @@
+Geçici Madde 1 – Bu Yönetmeliğin yayımından önce mevcut Döner Sermaye İşletmelerinin bütün mal varlığı ve personeli başkaca bir işleme gerek kalmaksızın, bu yönetmelikle kurulan Döner Sermaye İşletmesine devredilir.
