@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-03-14",
+      "14.03.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31423",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-14",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İzmir Yüksek Teknoloji Enstitüsü",
+  "issuer_slug": "izmir-yuksek-teknoloji-enstitusu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/izmir-yuksek-teknoloji-enstitusu/2021/38404",
+  "published": "2021-03-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38404&MevzuatTertip=5",
+  "source_bytes": 26667,
+  "source_id": "8.5.38404",
+  "source_sha256": "89f24ed6afd58cd211ed51b4e53a20c32170dfb3cd310a04eff05e33553d6acd",
+  "text_status": "as-enacted",
+  "title": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ NÜKLEER MANYETİK REZONANS\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 204,
+  "word_count": 1013
+}
