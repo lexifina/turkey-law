@@ -1,0 +1,2 @@
+Çalışma grupları
+MADDE 15 – (1) Yönetim Kurulu tarafından, Merkezin amaçları doğrultusunda çalışmalar yapmak üzere gerekli görülen konularda çalışma grupları oluşturulur. Bu gruplar yapılacak çalışmanın niteliğine göre, Üniversitenin öğretim elemanları ve bu konuda uzman kişilerden oluşturulabilir. Çalışma gruplarının görev süreleri Yönetim Kurulu kararı ile belirlenir. Görev süresi tamamlanan çalışma grubunun, Müdüre, yürütülen çalışma ile ilgili bir rapor sunması gerekir.
