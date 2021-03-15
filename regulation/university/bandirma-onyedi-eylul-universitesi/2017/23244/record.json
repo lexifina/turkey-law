@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/bandirma-onyedi-eylul-universitesi/2017/23244",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-15/3/2021",
+  "first_law": null,
+  "gazette": "29948",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-15",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Bandırma Onyedi Eylül Üniversitesi",
+  "issuer_slug": "bandirma-onyedi-eylul-universitesi",
+  "kind": "regulation",
+  "published": "2017-01-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=23244&MevzuatTertip=5",
+  "source_id": "8.5.23244",
+  "source_sha256": "be3ff971132c920c2329bebb820a538a214e30619ae76485a514a562ff16ade8",
+  "title": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ DÖNER\r\nSERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 455,
+  "version_label": "oldest version available",
+  "word_count": 581
+}
