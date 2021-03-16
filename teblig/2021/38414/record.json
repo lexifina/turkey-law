@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31425",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31425",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-16",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-500.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=500&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-03-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38414&MevzuatTertip=5",
+  "source_bytes": 35010,
+  "source_id": "9.5.38414",
+  "source_sha256": "7c6f696577579d062baaaf3aa8cbe5cc98f35634b41cfc095150067c10d5de07",
+  "title": "REKABETİ SINIRLAYICI ANLAŞMA, UYUMLU EYLEM VE KARARLAR\r\nİLE HÂKİM DURUMUN KÖTÜYE KULLANILMASINA YÖNELİK\r\nÖNARAŞTIRMALARDA VE SORUŞTURMALARDA SUNULACAK TAAHHÜTLERE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/2)",
+  "word_count": 1618
+}
