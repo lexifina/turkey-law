@@ -1,0 +1,3 @@
+Rekabeti kayda değer ölçüde kısıtlamayan anlaşma ve kararların soruşturma konusu yapılmaması
+MADDE 6 – (1) 5 inci madde uyarınca piyasada rekabeti kayda değer ölçüde kısıtlamayan anlaşma ve kararlar, Kurul tarafından soruşturma konusu yapılmayabilir.
+(2) Anlaşma taraflarının veya teşebbüs birliği üyelerinin anlaşmadan ya da karardan etkilenen ilgili pazarlardaki pazar paylarının tam olarak tespit edilememesi gibi nedenlerle soruşturma açılması halinde, hakkında soruşturma açılan teşebbüslerin ve teşebbüs birliklerinin pazar paylarının 5 inci maddede yer alan eşikleri aşmadığının soruşturma sürecinde anlaşılması durumunda Kurul soruşturmaya son verebilir.
