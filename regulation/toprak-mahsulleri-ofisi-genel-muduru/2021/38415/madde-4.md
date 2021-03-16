@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması hâlinde aynı alt grupta gösterilen görevleri,
+c) Genel Müdür: Toprak Mahsulleri Ofisi Genel Müdürünü,
+ç) Genel Müdürlük: Toprak Mahsulleri Ofisi Genel Müdürlüğünü,
+d) Görevde yükselme: Bu Yönetmelikte belirlenen kadro veya pozisyon unvanlarına aynı veya başka hizmet gruplarından yapılacak yükselme niteliğindeki atamaları,
+e) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+f) Hizmet grupları: Aynı düzey görevler ile benzer görevlerin yer aldığı grupları,
+g) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendinde sayılan süreleri,
+ğ) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç diğer günleri,
+h) Kadro veya pozisyon unvanı: Personelin Toprak Mahsulleri Ofisi Genel Müdürlüğündeki kadro veya pozisyon unvanını,
+ı) Merkez: Toprak Mahsulleri Ofisi Genel Müdürlüğü merkez teşkilatını,
+i) Taşra teşkilatı: Toprak Mahsulleri Ofisi Genel Müdürlüğü merkez teşkilatı dışındaki birimleri,
+j) TMO: Toprak Mahsulleri Ofisi Genel Müdürlüğünü,
+k) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+l) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu kazanılan unvanlara ilişkin görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+m) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler esas alınarak belirlenen daha üst düzeydeki görevleri,
+n) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ifade eder.

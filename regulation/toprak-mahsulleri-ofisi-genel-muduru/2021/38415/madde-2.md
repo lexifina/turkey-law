@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Toprak Mahsulleri Ofisi Genel Müdürlüğünün merkez ve taşra teşkilatında 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararnameye tabi olarak istihdam edilen personelden görevde yükselme veya unvan değişikliği suretiyle atanacakları kapsar.

@@ -1,0 +1,2 @@
+Yazılı sınavın duyurulması
+MADDE 13 – (1) İnsan Kaynakları Dairesi Başkanlığınca; atama yapılacak kadro ve pozisyon unvanı, sayısı, varsa derecesi, sınıfı ile sınava başvuru tarihi, başvuru süresi, sınav yeri, sınav tarihi ile atama yapılacak kadro ve pozisyonlara ilişkin sınav konularının başlıkları ve sınavdaki ağırlıkları sınavdan en az altmış gün önce personele duyurulur ve TMO internet sayfasında ilan edilir.

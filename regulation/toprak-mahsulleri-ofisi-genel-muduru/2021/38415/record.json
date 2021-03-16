@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38415",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPRAK MAHSULLERİ OFİSİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "38415",
+  "issuer": "Toprak Mahsulleri Ofisi Genel Müdürü",
+  "issuer_slug": "toprak-mahsulleri-ofisi-genel-muduru",
+  "path": "regulation/toprak-mahsulleri-ofisi-genel-muduru/2021/38415",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38415&MevzuatTertip=5",
+  "source_sha256": "d13906c6639cf228673a3e8c35c60de023c14b4191c4cdd1162bd8e8fd24373a",
+  "source_bytes": 147536,
+  "published": "2021-03-16",
+  "gazette": "31425",
+  "in_force": "2021-03-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3740,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
