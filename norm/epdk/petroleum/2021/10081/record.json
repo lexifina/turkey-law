@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10081",
+  "decision_date": "2021-03-17",
+  "title": "5015 sayılı Petrol Piyasası Kanununun 10 uncu maddesi uyarınca petrol piyasasında iki ay süreyle uygulanacak akaryakıt fiyatının tespitine ilişkin",
+  "resmi_gazete_date": "2021-03-18",
+  "resmi_gazete_number": "31427",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0yvpKHeRfMM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0yvpKHeRfMM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S5mf8pSERXk="
+  ],
+  "source_sha256": "b2111d1aa09fb84851b127fa5444e550d8dadb991af1a821f94a5d4a72b7867a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-03-17",
+  "law_text_complete": true
+}
