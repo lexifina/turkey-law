@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38418",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2021/6)",
+  "number": "38418",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2021/38418",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38418&MevzuatTertip=5",
+  "source_sha256": "63e010e914871dfc5e72c6808377e568a972a596f8ab3b96f8fb85bc193f3320",
+  "source_bytes": 8315,
+  "published": "2021-03-17",
+  "gazette": "31426",
+  "in_force": "2021-03-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.03.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 115,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38418-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
