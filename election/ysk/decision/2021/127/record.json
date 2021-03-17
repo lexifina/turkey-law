@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2021/127",
+  "list_number": "127",
+  "decision_date": "2021-03-17",
+  "title": "Afyonkarahisar İli Sinanpaşa İlçesi Güney Beldesi Belediye Başkanlığı ile Belediye Meclis Üyeliği Seçimleri ve herhangi bir nedenle boşalmış bulunan köy ve mahalle muhtarlıkları ile ihtiyar meclisi/heyeti üyelikleri seçimleri ile Yüksek Seçim Kurulu kararlarıyla yapılmasına karar verilen köy ve mahalle muhtarlıkları ile ihtiyar meclisi/heyeti üyelikleri seçimlerinin 6 Haziran 2021 Pazar günü birlikte yapılmasına ilişkin Yüksek Seçim Kurulunun 2021/127 sayılı kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/80044/2021.127.pdf",
+  "source_sha256": "dfbd82891855076f18bf176b10a3f2dd5d2b589b31c2cc4ccafa949b7418e5c7",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 5,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2021-03-17",
+  "law_text_complete": false
+}
