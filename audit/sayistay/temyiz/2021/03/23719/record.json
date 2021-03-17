@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49223",
+  "decision_date": "2021-03-17",
+  "source_id": 23719,
+  "chamber": "7",
+  "file_number": "45981",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23719/",
+  "source_sha256": "c955f3c1222307ad59b7cd51d12348fb2a00abc78f5bc53900e6ac54f225d888",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
