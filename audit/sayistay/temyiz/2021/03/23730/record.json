@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49234",
+  "decision_date": "2021-03-17",
+  "source_id": 23730,
+  "chamber": "7",
+  "file_number": "46327",
+  "account_year": "2015",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23730/",
+  "source_sha256": "e853f5150681159884e78f3fb6d575eecb34241d423295574528b4cdd15c3b49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
