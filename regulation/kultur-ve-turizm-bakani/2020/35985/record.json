@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.35985",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAPADOKYA ALAN BAŞKANLIĞI TURİZM AMAÇLI SPORTİF FAALİYET YÖNETMELİĞİ",
+  "number": "35985",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2020/35985",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=35985&MevzuatTertip=5",
+  "source_sha256": "d0ed73a0c280b3328feb4046e85a5119b711e7fdef9787eab752824fa47d5bf4",
+  "source_bytes": 44433,
+  "published": "2020-11-13",
+  "gazette": "31303",
+  "in_force": "2021-03-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/3/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-03-18",
+      "RG-18/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-18",
+      "18/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2228,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.35985-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
