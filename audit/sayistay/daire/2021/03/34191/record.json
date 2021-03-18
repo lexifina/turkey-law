@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10824",
+  "decision_date": "2021-03-18",
+  "source_id": 34191,
+  "chamber": "1",
+  "ilam_number": "102",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34191/",
+  "source_sha256": "5ad340193fa1a30a8122e6d011d7145e913a1f1877fed0e6f3832566eccdfb56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
