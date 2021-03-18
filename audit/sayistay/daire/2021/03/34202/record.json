@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10824",
+  "decision_date": "2021-03-18",
+  "source_id": 34202,
+  "chamber": "1",
+  "ilam_number": "102",
+  "item_number": 18,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34202/",
+  "source_sha256": "8a5293a613d167a41cb63acaca497219244519420addaa212008e6c2a2cdea8d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
