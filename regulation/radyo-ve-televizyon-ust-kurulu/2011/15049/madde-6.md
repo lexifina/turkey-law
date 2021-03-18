@@ -1,0 +1,8 @@
+Giriş sınavına katılma şartları
+MADDE 6 – (1) Giriş sınavına katılmak isteyenlerin aşağıdaki şartları taşımaları gerekir:
+a) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 48 inci maddesinin birinci fıkrasının (A) bendinde yazılı genel şartları taşımak,
+b) (Değişik:RG-18/6/2014-29034) Üniversitelerin en az dört yıllık öğrenim veren fakülte ve yüksek okullar ile denkliği yetkili makamlarca kabul edilen yurt dışındaki eğitim kurumlarının; hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler, ilahiyat ile iletişim fakültelerinden veya fakültelerin Türk dili ve edebiyatı, sosyoloji, psikoloji, (Ek ibare:RG-18/3/2021-31427) sosyal hizmet, tarih, matematik ve istatistik bölümleri ile elektrik-elektronik, elektronik, bilgisayar, yazılım, elektronik ve haberleşme mühendisliğinden mezun olmak,
+c) Üst Kurul tarafından belirlenen KPSS puan türünden başvuru ilanında belirtilen taban puan ve üzeri puanı almış olmak,
+ç) (Değişik:RG-18/6/2014-29034) Üst Kurul tarafından ilanda belirtilen dillerin birinden, ÖSYM tarafından yapılan YDS’den asgari (D) düzeyinde ya da dil yeterliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olmak,
+d) (Değişik:RG-18/6/2014-29034) Giriş sınavının yapıldığı yılın ocak ayının birinci günü itibarıyla 35 yaşını doldurmamış olmak,
+e) KPSS’den Üst Kurul tarafından ilanda belirtilen puan türlerinden en yüksek puanı alan adaydan başlamak üzere yapılan sıralamada, ataması yapılacak uzman yardımcısı kadro sayısının dört katına kadar aday arasına girmiş olmak. Son sıradaki adayla aynı puana sahip olan adaylar da sınava kabul edilirler.

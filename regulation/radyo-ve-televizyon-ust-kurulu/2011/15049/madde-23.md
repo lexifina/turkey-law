@@ -1,0 +1,6 @@
+Yeterlik sınavı
+MADDE 23 – (1) (Değişik:RG-18/6/2014-29034) Tez savunmasında başarılı bulunan uzman yardımcıları, aylıksız izin ile toplamda üç ayı aşan hastalık ve refakat izni hariç olmak üzere, Üst Kurulda fiilen en az üç yıl çalışmak kaydıyla yeterlilik sınavına girmeye hak kazanırlar.
+(2) Yeterlik sınavı, yeterlik sınavı komisyonu tarafından, adayın Üst Kurul hizmetlerinin ve uzmanlığın gerektirdiği bilgilere, kişisel niteliklere ve yeteneklere sahip olup olmadıkları da göz önüne alınarak, Üst Kurul mevzuatı konusunda genel bilgilerinin (Mülga ibare:RG-18/3/2021-31427) ölçülmesi amacıyla yazılı ve sözlü olarak yapılır.
+(3) Yeterlik sınavı sonucunda, her sınav komisyonu üyesi ayrı ayrı not takdir eder. Bunların aritmetik ortalaması sınav başarı notudur. Adayın başarılı sayılabilmesi için not ortalamasının yüz üzerinden en az yetmiş olması şarttır.
+(4) Yeterlik sınavı sonunda; sınav komisyonu başkanı, ayrı ayrı her üyenin verdiği notu gösteren bir çizelge ve sınav tutanağı tanzim ederek sonucu Üst Kurul Başkanına bildirir.
+(5) Sınavda başarılı olamayanlar veya sınava girmeye hak kazandığı halde geçerli mazereti nedeniyle sınav hakkını kullanmayanlara bir yıl içinde ikinci bir sınav hakkı daha verilir.

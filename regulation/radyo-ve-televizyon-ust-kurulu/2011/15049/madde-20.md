@@ -1,0 +1,6 @@
+Tez hazırlama süreci ve tezin teslimi
+MADDE 20 – (1) Uzman yardımcılarının bilimsel esaslara uygun olarak danışman gözetiminde hazırlayacakları tezlerinde yeni görüş ve önerilere yer vermeleri gereklidir.
+(2) Tezin, Üst Kurulda veya başka bir kurum ve kuruluşta daha önce uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları açısından aynı tarzda incelenip savunulmamış olması esastır. Uzman yardımcısının Türkçe hazırlayacağı uzmanlık tezinin kendi görüş ve değerlendirilmelerini de içermesi, Üst Kurul tarafından uygun görülen Tez Hazırlama Yönergesi usullerine uyulması ve bilimsel çalışma etiğine uygun olması gerekir.
+(3) Uzman Yardımcısı tezini, tez danışmanı raporu ile birlikte tez konusu verilen tarihten itibaren en geç on iki ay içinde Daire Başkanlığına teslim etmek zorundadır. (Ek cümle:RG-18/6/2014-29034) Oniki aylık sürenin hesabında aylıksız izin ile toplamı üç ayı aşan hastalık izni ve refakat izni süreleri dikkate alınmaz.
+(4) (Değişik:RG-18/6/2014-29034) Süresi içinde tezlerini sunmayan uzman yardımcılarına tezlerini sunmaları için altı ayı aşmamak üzere ilave süre verilir.
+(5) (Değişik:RG-18/6/2014-29034) Geçerli mazereti olmaksızın belirtilen süreler içinde tezini teslim etmeyen uzman yardımcıları, bu unvanlarını kaybederek, Üst Kurulda durumlarına uygun memur unvanlı kadrolara atanırlar.

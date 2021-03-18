@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.15049",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RADYO VE TELEVİZYON ÜST KURULU UZMANLIĞI YÖNETMELİĞİ",
+  "number": "15049",
+  "issuer": "Radyo ve Televizyon Üst Kurulu",
+  "issuer_slug": "radyo-ve-televizyon-ust-kurulu",
+  "path": "regulation/radyo-ve-televizyon-ust-kurulu/2011/15049",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15049&MevzuatTertip=5",
+  "source_sha256": "2bb4927d176dad82cb379c01888b3c33d004cc6b7b72ce844e36bc186fdc70e9",
+  "source_bytes": 112560,
+  "published": "2011-06-16",
+  "gazette": "27966",
+  "in_force": "2021-03-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/3/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-03-18",
+      "RG-18/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-18",
+      "18/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-06-18",
+      "RG-18/6/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-06-18",
+      "18/6/2014",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-10-08",
+      "RG-8/10/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-10-08",
+      "8/10/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4386,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
