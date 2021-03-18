@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/242",
+  "source_id": 7121,
+  "date": "2021-03-18",
+  "title": "“İlgili kişinin kişisel verilerinin bir tur şirketi tarafından üçüncü kişilerle paylaşılması” hakkında Kişisel Verileri Koruma Kurulunun 18/03/2021 tarihli ve 2021/242 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7121/2021-242",
+  "source_sha256": "20c67c2abc84044e805bfe19ae77012c9297596909d4b7137070e00e528a14ed",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
