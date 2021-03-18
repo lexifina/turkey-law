@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10086-1",
+  "decision_date": "2021-03-18",
+  "title": "Petrol Ofisi A.Ş.’nin depolama lisansı kapsamında faaliyette bulunan Kırıkkale Terminaline ilişkin",
+  "resmi_gazete_date": "2021-03-20",
+  "resmi_gazete_number": "31429",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7P+17p/+p6E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7P+17p/+p6E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rR1HIyHzW2E="
+  ],
+  "source_sha256": "e05a95f12002aac6ea17d803dea8329eeaf28ee38082d2a9bbe4468db4e8b38b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-03-18",
+  "law_text_complete": true
+}
