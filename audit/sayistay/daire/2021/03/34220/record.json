@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "795",
+  "decision_date": "2021-03-18",
+  "source_id": 34220,
+  "chamber": "6",
+  "ilam_number": "425",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34220/",
+  "source_sha256": "60f3f5b70098d02005ed74a55d79d4cde7921ba5375aa3415f3152eef3a7f5a9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
