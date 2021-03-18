@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10087",
+  "decision_date": "2021-03-18",
+  "title": "Diyarbakır Doğal Gaz Dağıtım Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik alınmış olan 30/05/2019 tarihli ve 8640 sayılı Kurul Kararı ve 28/06/2018 tarihli ve 7931 sayılı Kurul Kararı ile değişik 09/11/2017 tarihli ve 7434 sayılı Kurul Kararının revize edilmesi",
+  "resmi_gazete_date": "2021-03-20",
+  "resmi_gazete_number": "31429",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r7RNk/o8JnI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r7RNk/o8JnI="
+  ],
+  "source_sha256": "49ef3ab0e7664484118f001b3faacfe59e3b3b4ed1b0d194664ae6be5029e7fc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-03-18",
+  "law_text_complete": true
+}
