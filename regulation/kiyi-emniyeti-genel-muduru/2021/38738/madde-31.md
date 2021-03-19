@@ -1,0 +1,3 @@
+Ön yeterlik şartnamesi
+MADDE 31 – (1) İdare, bellli istekliler arasında ihale usulü ile yapacağı ihalede, ön yeterlik şartnamesini, Yönerge eki tip ön yeterlik şartnamesini esas alarak hazırlar. Tip ön yeterlik şartnamesinde boş bırakılan veya dipnota alınan hususlar; işin özelliğine göre Kamu İhale Kanunu, Kamu İhale Sözleşmeleri Kanunu ve diğer ilgili mevzuat hükümlerine göre düzenlenebilir.
+(2) İdare, tip ön yeterlik şartnamesinde düzenlenmeyen ancak, işin özelliğine göre düzenlenmesine gerek duyulan hususları, maddeler halinde düzenleyerek ön yeterlik şartnamesinin “Diğer Hususlar” bölümüne ekleyebilir.

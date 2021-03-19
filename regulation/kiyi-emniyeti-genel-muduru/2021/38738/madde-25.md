@@ -1,0 +1,17 @@
+İhale usulüne tabi olmayan alım yöntemleri
+MADDE 25 – (1) Bu madde kapsamında; ihale usulleri için tespit edilen kurallara uyulmaksızın; ilan yapılmadan, teminat alınmadan, ihale komisyonu kurma ve anılan yeterlik kriterlerini arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak mal veya malzeme temin edilir.
+(2) Bu maddenin uygulanmasında ihtiyacın niteliğine göre, ilan yapılması, teminat alınması, ihale komisyonu kurulması, isteklilerde belirli yeterlik kriterlerinin aranması ile şartname ve sözleşme düzenlenmesi gibi hususlar İdarenin takdirindedir.
+(3) Bu maddeye göre ihtiyaçların karşılanmasında onay belgesi düzenlenmesi, onayı takiben ihale yetkilisince görevlendirilen kişi veya kişiler tarafından piyasada fiyat araştırması yapılması ve buna ilişkin belgelerin dayanakları ile birlikte onay belgesine eklenmesi zorunludur. İdarece gerekli görülmesi halinde, fiyat araştırmaları bu Yönetmelikte yaklaşık maliyetin belirlenmesine ilişkin usul ve esaslar çerçevesinde yapılabilir.
+(4) Bu madde kapsamında yapılacak alımlarda yaklaşık maliyet hesaplanması zorunlu olmayıp, İdarece gerek görülmesi halinde bu Yönetmelikte belirtilen usul ve esaslar çerçevesinde yaklaşık maliyet hesaplanabilir.
+(5) Aşağıda belirtilen hallerde ihtiyaçlar ilân yapılmaksızın, sözleşme yapma ve teminat alma zorunluluğu bulunmaksızın temin edilebilir:
+a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
+b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
+c) Mevcut mal, makine, tesis, teçhizat, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için, ihtiyaç duyulan orijinal yedek parça, ek malzeme veya bakım, onarım, revizyon, teknik destek ve hizmetlerin ilk alım yapılan gerçek veya tüzel kişinin kendisi ile gerekli formaliteleri tamamlayarak, talep sahibi ünitenin de uygun görüşü alınarak, sözleşme yapma ve teminat alma zorunluluğu olmaksızın alım gerçekleştirilir.
+ç) İdarenin, Kamu İhale Kanununun 22 nci maddesinin (d) bendinde belirtilen ve her yıl Kamu İhale Kurumunca güncellenen parasal limitin yedi katını aşmayan ihtiyaçları.
+d) İdarenin ihtiyacına uygun taşınmaz malın alımı veya kiralanması.
+e) Gemi kurtarma ve tahlisiye operasyonu esnasında temini gereken mal ve hizmet alımları.
+f) Deniz vasıtalarının yurt dışında görevlendirilmeleri halinde, ihtiyaç duyacakları mal ve hizmet alımları ile görevli bulundukları yerlerde yapacakları mal ve hizmet alımları.
+(6) Beşinci fıkranın (a) ve (b) bentleri uyarınca yapılacak alımlarda bu Yönetmelik kapsamında hazırlanacak Yönerge ekinde yer alan “Tek Kaynaktan Temin Edilen Mallara/Hizmetlere İlişkin Form” talep sahibi ünite tarafından, formdaki dipnot belirlemelerine göre düzenlenir.
+(7) Beşinci fıkranın (a) ve (b) bentleri kapsamında yapılacak alımlarda İdarenin ihtiyaçlarını en uygun şekilde karşılamak amacıyla davet edilecek istekli ile teknik şartlar ve fiyat üzerinde görüşme yapılarak onaya yetkili merciinin onayını almak suretiyle ihtiyaçlar temin edilebilir.
+(8) Beşinci fıkranın (d) bendinin uygulanması halinde, Yönetim Kurulunun ıttılasına sunulmak kaydıyla Genel Müdürlük Makamından onay alınması ve piyasa fiyat araştırması yapılması zorunludur.
+(9) Bu madde kapsamında yapılan alımlarda talep halinde iş deneyim belgesi düzenlenerek verilir.

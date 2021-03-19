@@ -1,0 +1,3 @@
+Aşırı düşük teklifler
+MADDE 53 – (1) İhale komisyonu verilen teklifleri değerlendirdikten sonra; verilen tekliflere, İdarenin tespit ettiği yaklaşık maliyete veya ihale dokümanındaki diğer hükümlere göre teklif fiyatı aşırı düşük olanları tespit eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler ile ilgili ayrıntıları yazılı olarak ister.
+(2) İhale komisyonu; yapılan yazılı açıklamaları dikkate alarak, aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.

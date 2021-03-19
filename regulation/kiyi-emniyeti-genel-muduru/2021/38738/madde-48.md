@@ -1,0 +1,6 @@
+Açılması ve Değerlendirilmesi
+Tekliflerin hazırlanması ve sunulması
+MADDE 48 – (1) Teklif mektubu ve geçici teminat da dahil olmak üzere ihaleye katılabilme şartı olarak istenilen bütün belgeler bir zarfa konulur. Zarfın üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait olduğu ve İdarenin açık adresi yazılır. Zarfın yapıştırılan yeri istekli tarafından imzalanır ve mühürlenir veya kaşelenir.
+(2) Mal alımı ihalelerinde, ihale dokümanında alternatif teklif verilebileceğine dair hüküm bulunması halinde, alternatif teklifler de aynı şekilde hazırlanarak sunulur.
+(3) Teklifler ihale dokümanında belirtilen ihale saatine kadar sıra numaralı alındılar karşılığında İdareye verilir. Bu saatten sonra verilen teklifler kabul edilmez ve açılmaksızın iade edilir. Teklifler iadeli taahhütlü olarak da gönderilebilir. Posta ile gönderilecek tekliflerin ihale dokümanında belirtilen ihale saatine kadar İdareye ulaşması şarttır. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
+(4) Verilen teklifler, zeyilname düzenlenmesi hali hariç, herhangi bir sebeple geri alınamaz ve değiştirilemez.

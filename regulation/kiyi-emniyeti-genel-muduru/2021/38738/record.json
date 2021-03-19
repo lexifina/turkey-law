@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38738",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜNÜN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (G) BENDİ UYARINCA YAPACAĞI MAL VE HİZMET ALIMLARINDA UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "38738",
+  "issuer": "Kıyı Emniyeti Genel Müdürü",
+  "issuer_slug": "kiyi-emniyeti-genel-muduru",
+  "path": "regulation/kiyi-emniyeti-genel-muduru/2021/38738",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38738&MevzuatTertip=5",
+  "source_sha256": "89a4656be4d5f60efe9a314de6a634f4a3080c1f5ce80493b09516b987ac3d10",
+  "source_bytes": 170719,
+  "published": "2021-03-19",
+  "gazette": "31428",
+  "in_force": "2021-03-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11488,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

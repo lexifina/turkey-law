@@ -1,0 +1,2 @@
+Yaklaşık maliyet
+MADDE 13 – (1) Mal veya hizmet alımları ihalesi ve gerekli hallerde alım işlemleri yapılmadan önce İdarece, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanaklarıyla birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyete ihale ve ön yeterlik ilanlarında ya da davet yazısında yer verilmez, isteklilere, alım veya ihale süreci ile ilişkisi olmayan diğer kişilere açıklanmaz.

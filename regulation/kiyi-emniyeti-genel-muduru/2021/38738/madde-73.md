@@ -1,0 +1,3 @@
+İdarece hazırlanacak mevzuat
+MADDE 73 – (1) İdare, bu Yönetmelik kapsamında; yönerge ve talimatlar çıkarmaya yetkilidir. İdare yetkilerini, düzenleyici işlemler tesis ederek ve özel nitelikli kararlar alarak kullanabilir. Yönerge ve talimatların Hukuk Müşavirliğinin görüşü alınarak Yönetim Kurulunun Onayına sunulması esastır.
+(2) İdarece bu Yönetmelik kapsamında yapılacak ihale ve alımlarda kullanılmak üzere, öncelikle altı aylık süre içerisinde bir yönerge hazırlanır, bu yönergede iş ve işlemlerin yapılma şekli ile görevlilerin iş ve işlemlere ilişkin izleyecekleri yöntem ve dokümanlar belirlenir.
