@@ -1,0 +1,3 @@
+Farklılıklar ve şekli hatalar
+MADDE 29 – (1) “TR-AZ Menşe İspat Belgesi”ndeki beyanlar ile ürünlerin ithalat işlemlerini yerine getirmek amacıyla gümrük idarelerine ibraz edilen belgelerdeki ifadeler arasında küçük farklılıkların bulunması, belgenin gümrüğe sunulan ürünlere tekabül ettiğinin kesin olarak ortaya konması kaydıyla söz konusu “TR-AZ Menşe İspat Belgesi”nin geçerliliğini kendiliğinden ortadan kaldırmaz.
+(2) “TR-AZ Menşe İspat Belgesi”nin üzerindeki ifadelerin doğruluğu üzerinde şüphe yaratması söz konusu olmayan, yazım hatası gibi bariz maddi hatalar, bu belgelerin reddedilmesini gerektirmez.

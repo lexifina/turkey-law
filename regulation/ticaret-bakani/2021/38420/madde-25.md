@@ -1,0 +1,6 @@
+MADDE 25 – (1) “TR-AZ Menşe İspat Belgesi”, ihracatçı ülkedeki onay tarihinden itibaren on ay geçerli olur ve bu süre zarfında ithalatçı ülkenin yetkili idarelerine ibraz edilmesi gerekir.
+(2) İthalatçı ülkenin yetkili idarelerine ibraz edilecek “TR-AZ Menşe İspat Belgesi”, istisnai durumlar nedeniyle birinci fıkrada belirtilen süreden sonra da uygulanan tercihli muamele çerçevesinde kabul edilebilir.
+(3) Diğer geç ibraz hallerinde, ithalatçı ülkenin yetkili idaresi, eşyanın belirtilen son tarihten önce gümrüğe sunulmuş olması kaydıyla “TR-AZ Menşe İspat Belgesi”ni kabul edebilir.
+(4) “TR-AZ Menşe İspat Belgesi”nin ibraz süresinden sonra tercihli muameleden yararlanabilmesi için, bu sürenin bitiminden önce eşyanın gümrüğe gelmiş ve yine bu süreden önce ithalatçı veya gümrük beyannamesini imzalamaya yetkili kanuni temsilcisi tarafından yazılı olarak ilgili gümrüğe başvurulmuş olması gerekir.
+(5) İlgili gümrük idaresi durumu bağlı olduğu bölge müdürlüğüne intikal ettirir. İlgili bölge müdürlüğü konuyu inceleyerek mücbir sebep ve olağanüstü hal mevcudiyetine kanaat getirir ve ek süre istemine ilişkin gerekçeleri haklı bulur ise belgelerin süresini en çok bir ay uzatabilir.
+“TR-AZ Menşe İspat Belgesi”nin ibrazı

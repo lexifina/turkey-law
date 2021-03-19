@@ -1,0 +1,2 @@
+Transit haldeki veya antrepodaki eşyaya ilişkin geçici hükümler
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik hükümlerine uygun olan ve Anlaşmanın yürürlüğe girdiği tarihte transit halinde olan ya da antrepolarda veya serbest bölgelerde geçici depolanan eşyaya, ithalatçı ülkenin gümrük idaresine söz konusu tarihten itibaren dört ay içinde, eşyanın 14 üncü madde hükümleri çerçevesinde doğrudan nakledilmiş olduğunu gösteren belgelerle beraber ihracatçı ülkenin gümrük idaresince sonradan verilmiş bir “TR-AZ Menşe İspat Belgesi”nin sunulması kaydıyla tercihli rejim uygulanabilir.

@@ -1,0 +1,8 @@
+MADDE 20 – (1) Gümrük idareleri ve Bakanlıkça yetkilendirilen kuruluşlar, “TR-AZ Menşe İspat Belgesi”nin kurallara uygun olarak doldurulup doldurulmadığını kontrol edip belgede kayıtlı eşyanın 5 veya 6 ncı madde hükümleri gereğince Türkiye menşeli olduğu veya sayıldığı hususunda, ihracata ait diğer evrakı da inceleyerek kesin bir kanıya vardıktan sonra gerekli işlemleri tamamlar.
+(2) Birinci fıkra uyarınca gümrük idareleri;
+a) “TR-AZ Menşe İspat Belgesi”nin bu Yönetmelikteki şartlara uygun olup olmadığını,
+b) İhraç konusu eşyanın cins, nevi, nitelik ve miktar itibarıyla menşe ispat belgesindeki kayıtlara uygun olup olmadığını,
+c) İhraç konusu eşyanın menşeli olduğunu veya sayıldığını,
+ürüne ve imalatında kullanılan girdilere ait diğer evrakın yanı sıra, nakliyeciler tarafından verilen kara, demiryolu, hava ve deniz taşımalarına ilişkin konşimento, manifesto, yük senetleri, fatura ve beyannameye eklenen diğer belgeleri ve gerektiğinde muhasebe kayıt ve defterlerini incelemek ve ihraç konusu eşyayı 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinde yer alan esaslara göre muayene etmek suretiyle kontrol eder.
+(3) “TR-AZ Menşe İspat Belgesi”, Anlaşma ile sağlanan tercihli ticarette yazılı delil olarak ancak gümrük idaresinin mührü veya kaşesi ile hüküm ifade ettiğinden, 21 inci maddenin ikinci fıkrasında belirtildiği şekilde alınan dökümde, belgenin (12) numaralı “Kontrol” kutusunda elektronik sistem tarafından basılan ve beyanı değerlendirerek belgeyi vize eden gümrük idaresinin adı, vize tarihi, gümrük mührü veya kaşesi yer alır.
+“TR-AZ Menşe İspat Belgesi”nin kullanıma hazır hale getirilmesi

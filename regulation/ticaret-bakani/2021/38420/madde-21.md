@@ -1,0 +1,3 @@
+MADDE 21 – (1) Düzenlenen “TR-AZ Menşe İspat Belgesi” fiili ihraç gerçekleştiği veya kesinleştiği anda ihracatçıya verilmek üzere hazır bulundurulur.
+(2) İhracatçılar veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcilerince, vize işleminin tamamlanmasından sonra elektronik sistem üzerinde yer alan bilgilerin 16 ncı maddeye göre belirlenen şekil şartlarını taşıyan ve aynı maddede belirtilen şekilde temin edilen yeşil meneviş zeminli matbu “TR-AZ Menşe İspat Belgesi” üzerine yazıcı vasıtasıyla dökümü alınır. Dökümü alınan belgenin (13) numaralı “Başvuru Sahibinin Beyanı” kutusu ihracatçı tarafından imzalanır.
+“TR-AZ Menşe İspat Belgesi”nin ihracattan sonra verilmesi

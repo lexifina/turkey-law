@@ -1,0 +1,3 @@
+İkili menşe kümülasyonu
+MADDE 6 – (1) 7 nci madde hükümleri saklı kalmak üzere, bir Taraf Ülke menşeli girdiler, diğer Taraf Ülkede bir ürüne dâhil edildiklerinde, o Taraf Ülke menşeli kabul edilirler. Girdi olarak kullanılacak ürünler 9 uncu maddede atıfta bulunulan işlemlerin ötesine geçen işçilik veya işlemlere tabi tutulmuş olmaları kaydıyla bu girdilerin yeterli işçilik veya işleme tabii tutulmaları gerekmez.
+(2) Bir Taraf Ülkede gerçekleştirilen işçilik veya işlem 9 uncu maddede belirtilen işlemlerin ötesine geçmez ise o Taraf Ülkede eklenen katma değerin imalatta kullanılan diğer Taraf Ülke menşeli girdilerin kıymetini geçmesi kaydıyla elde edilen ürün o Taraf Ülke menşeli olarak kabul edilir.

@@ -1,0 +1,4 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yaptırımlar
+MADDE 37 – (1) Bu Yönetmelik hükümlerine aykırı fiiller hakkında 4458 sayılı Kanun, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu ile yürürlükteki ilgili diğer mevzuat hükümleri uygulanır.
