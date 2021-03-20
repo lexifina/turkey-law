@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7301",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti ve Karadağ Arasında Karadağ Vatandaşlarına Konsolosluk Yardımı Sunulması Hakkında Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-5.htm",
+  "source_sha256": "0ac2ce96fef10b54996a125eb8708e4e681ebaac866584acdc5f634f74c92750",
+  "text_sha256": "366827d8e91d4c26984d2dfb486d270018d920b64395935e0bd887a08cbe17f9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
