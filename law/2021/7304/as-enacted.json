@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7304",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti ve Hırvatistan Cumhuriyeti Arasında Cezai Konularda Karşılıklı Adli Yardımlaşma Anlaşmasının Notalarla Birlikte Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-8.htm",
+  "source_sha256": "ae92d9fa3cb8826852097df4aebdba751e12c84273ec731e7f0da2a8f3c6af71",
+  "text_sha256": "46c8a498186c57c08a1d21d255ef65807c839d1802eda0855ffcc0d15701b78a",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-8",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-8.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
