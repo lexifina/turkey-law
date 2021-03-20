@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7300",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Ürdün Haşimi Krallığı Hükümeti Arasında Ticari ve Ekonomik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-4.htm",
+  "source_sha256": "572be0792ba505ba1fd7ffc1cf4003f411138f65e5c04b49e5e60e28ba3af5ae",
+  "text_sha256": "b5561ff1ac30675b4f1ec8369a1a5036681579beba8e6df0594c5957d6da091b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
