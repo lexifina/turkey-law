@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7303",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Çin Halk Cumhuriyeti Hükümeti Arasında Karayoluyla Uluslararası Yük ve Yolcu Taşımacılığı Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-7.htm",
+  "source_sha256": "b33eb63404c8fe8a4c828ff507d1cba6ca941aa646e53ca254a41db0484bc4cb",
+  "text_sha256": "d7b869d500fd0c2a014aa91d79a4de2992f8f732460703914ee8309552b66880",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
