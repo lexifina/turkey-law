@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-03-20",
+      "20.03.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31429",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-20",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Manisa Celal Bayar Üniversitesi",
+  "issuer_slug": "manisa-celal-bayar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/manisa-celal-bayar-universitesi/2021/38429",
+  "published": "2021-03-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38429&MevzuatTertip=5",
+  "source_bytes": 28801,
+  "source_id": "8.5.38429",
+  "source_sha256": "385118a59e2275ef658bd004bcfb0b0f1415b9fb1dff42ef34089da1d0a7b676",
+  "text_status": "as-enacted",
+  "title": "MANİSA CELAL BAYAR ÜNİVERSİTESİ MANİSA VE YÖRESİ TÜRK\r\nEL SANATLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 184,
+  "word_count": 1261
+}
