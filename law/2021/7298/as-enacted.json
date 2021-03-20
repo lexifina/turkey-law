@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7298",
+  "year": 2021,
+  "title": "Ekonomik İşbirliği Teşkilatı (EİT) Kültür Enstitüsü Şartının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-2.htm",
+  "source_sha256": "53df55291c3af95728db6382a963b1046b6d1d600e48dd6ea8c74d7a0d4c8382",
+  "text_sha256": "3243137ae8713abf4866cfc4b22cd69d70b6f0bc074d6feabcf1cfcbf0aed09b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
