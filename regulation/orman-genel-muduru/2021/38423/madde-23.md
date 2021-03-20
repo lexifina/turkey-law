@@ -1,0 +1,4 @@
+Kurum içi ve kurum dışından yapılacak atamalar
+MADDE 23 – (1) Görevlerinden herhangi bir şekilde ayrıldıktan sonra tekrar dönmek isteyenler, gerekli koşulları taşımaları ve boş kadro bulunması durumunda, ihtiyaç ve hizmet gerekleri doğrultusunda ayrıldıkları göreve, aynı düzey görevlerden birine ya da daha alt düzeydeki bir göreve atanabilirler.
+(2) Diğer kamu kurum ve kuruluşlarında görev yapanlardan, bu Yönetmelikte belirtilen aynı unvana veya bu unvanın bulunduğu aynı alt gruptaki diğer unvanlara veya daha alt unvanlara bu Yönetmelikte yer alan atanılacak kadronun gerektirdiği nitelikleri ve özellikleri taşımak kaydıyla genel hükümlere göre naklen atama yapılabilir.
+(3) 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesi uyarınca, özelleştirilen kuruluşlardan ilk defa naklen yapılan atamalarda, bu Yönetmelik hükümleri uygulanmaz.

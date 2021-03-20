@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alt görev: 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Bakanlık: Tarım ve Orman Bakanlığını,
+ç) Bölge Müdürlüğü: Orman Bölge Müdürlüğünü,
+d) Genel Müdürlük: Orman Genel Müdürlüğünü,
+e) Görevde yükselme: Bu Yönetmelikte belirtilen görevde yükselmeye tabi görevlere aynı veya başka hizmet gruplarından yapılacak görevde yükselme niteliğindeki atamaları,
+f) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre görevde yükselme suretiyle atanacaklar için yapılan veya yaptırılan yazılı ve yapılan sözlü sınavı,
+g) Hizmet birimi: Orman Genel Müdürlüğü merkez ve taşra teşkilatında yer alan birimleri,
+ğ) Hizmet grubu: Aynı düzey görevler ile benzer görevlerin yer aldığı grupları,
+h) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendi hükümlerine göre hesaplanan süreleri,
+ı) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç diğer günleri,
+i) Orman işletme şefi: Orman işletme müdürlüklerine bağlı orman işletme şefliklerinde orman mühendisliği bölümü mezunu olan ve mühendis kadrosunda orman işletme şefliği görevini yürütenleri,
+j) Şef (teknik): Orman işletme, orman fidanlık, ağaçlandırma ve toprak muhafaza, depo, kadastro ve mülkiyet, arboretum, elektronik haberleşme ve atölye, eğitim merkezi, emlak, ormancılık müze, tamir bakım ve atölye, makine işletme ve bakım, tıbbı ve aromatik bitkiler merkezi, site bakım şefliği görevini yürüten personeli,
+k) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+l) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yaptırılan yazılı ve yapılan sözlü sınavı,
+m) Üst görev: 1 sayılı Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler esas alınarak belirlenen daha üst düzeydeki görevleri,
+n) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+ifade eder.
