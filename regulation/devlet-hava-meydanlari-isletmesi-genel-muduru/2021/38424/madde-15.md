@@ -1,0 +1,3 @@
+Olağanüstü ve zorunlu hallerde yer değiştirmeler
+MADDE 15 – (1) Genel hayatı etkileyen deprem, su baskını, yangın, salgın ve benzeri afetler ile durumlarını belgelendirmek şartıyla can güvenliği gibi özel hayatı olumsuz etkileyen nedenlere bağlı olarak görevini verimli biçimde yerine getirme imkânı kalmayanlardan yer değiştirme suretiyle tayin talebinde bulunanların tayinleri Personel Planlama Cetveline göre Kuruluşun ihtiyacı olan bir yere yapılabilir.
+(2) 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi uyarınca hakkında adli makamlarca ünitenin değiştirilmesine ilişkin koruyucu tedbir kararı alınan personelin yer değiştirme işlemi yapılır.

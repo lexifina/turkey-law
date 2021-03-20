@@ -1,0 +1,2 @@
+Diğer nedenlere bağlı yer değiştirmeler
+MADDE 18 – (1) Ataması yapıldıktan sonra gerçekleşen terör eylemlerinin etkisi ve sebebiyle eş veya çocukları şehit olan, eş veya çocukları çalışamayacak derecede malul olan ya da malul olup da çalışabilir durumda olan personelin yer değiştirme suretiyle atanma talepleri, bu durumlarını ilgili makamlarca belgelendirmiş olması kaydıyla, Personel Planlama Cetveli dikkate alınmak suretiyle bu Yönetmelikteki kısıtlayıcı hükümlere bakılmaksızın bir defaya mahsus olmak üzere yerine getirilir.
