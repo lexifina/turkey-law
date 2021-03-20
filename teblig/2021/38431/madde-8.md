@@ -1,0 +1,12 @@
+Desteklemeye ilişkin genel esaslar
+MADDE 8 – (1) 2017/9760 sayılı Karar kapsamında kurulmuş veya yatırımı devam eden işletmelerden, damızlık koç-teke alan yetiştiriciler yararlanır.
+(2) Damızlık koç-teke alan yetiştiriciler, her otuz baş anaç hayvana kadar bir baş koç-teke olmak üzere en fazla beş baş koç-teke alabilir ve destekleme hibesinden bir kez yararlandırılır.
+(3) Yetiştiricilerin satın alacağı damızlık koç-tekeler ile damızlık küçükbaş hayvanların uygulama rehberinde belirlenmiş olan teknik ve sağlık şartlarını taşıması gerekir. Damızlık olarak yetiştirilecek hayvanlar bölgedeki yaygın olarak yetiştiriciliği yapılan hâkim ırklardan olmalıdır.
+(4) Damızlık olarak yetiştirilecek koç-tekeler; halk elinde hayvan ıslahı ülkesel projesi kapsamında olan işletmelerden, Bakanlık küçükbaş hayvanların ırk ıslahına yönelik soy kütüğü ve ön soy kütüğü kayıtlarının tutulduğu işletmelerden ve TİGEM işletmelerinden temin edilir.
+(5) Damızlık küçükbaş hayvan yatırımları kapsamında alınacak hayvanlar; halk elinde hayvan ıslahı ülkesel projesi kapsamında olan işletmelerden, Bakanlık küçükbaş hayvanların ırk ıslahına yönelik soy kütüğü ve ön soy kütüğü kayıtlarının tutulduğu işletmelerden, TİGEM işletmelerinden veya birlik üyesi yetiştiricilerin işletmelerinden temin edilir.
+(6) Hibe kapsamında birliklerce alınan ve satılan damızlık koç-tekelerin seçimi, kurulmuş işletmelerin bulunduğu il müdürlüklerince; damızlık küçükbaş hayvan yatırımları kapsamında alınacak hayvanların seçimi ise bu kapsama alınan illerdeki il müdürlüklerince görevlendirilen bir ziraat mühendisi (zooteknist) ve bir veteriner hekimden oluşan seçim heyetince uygulama rehberinde belirlenen teknik kriterler ve sağlık şartları doğrultusunda yapılır.
+(7) Yatırımlar kapsamında, desteklemeye esas damızlık koç-teke ve damızlık küçükbaş hayvan birim fiyatları merkez değerlendirme komisyonunca belirlenerek uygulama rehberinde yayımlanır.
+(8) Damızlık koç-teke ve damızlık küçükbaş hayvan alan yetiştiriciler iki yıl kendi işletmesinde tutmak zorundadır. Gerekli kontroller il müdürlüğünce yapılır.
+(9) Damızlık küçükbaş hayvan alımı yatırımı kapsamına alınacak iller, yetiştiricilerin alacakları koyun-keçi ve koç-teke sayıları uygulama rehberinde belirlenir.
+(10) Damızlık küçükbaş hayvan yatırımı ve damızlık koç-teke alımında Kararda belirtilen hibe oranları uygulanır.
+(11) Uygulama rehberi Genel Müdürlük tarafından hazırlanıp Bakanlık internet sayfasında yayımlanır.

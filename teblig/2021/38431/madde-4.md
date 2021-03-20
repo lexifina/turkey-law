@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Tebliğde geçen;
+a) Anaç hayvan: Yetiştiricinin koç-teke alımı için müracaat tarihinde, en az 15 aylık (450 gün) yaşta olan dişi koyun ve keçiyi,
+b) Bakanlık: Tarım ve Orman Bakanlığını,
+c) Banka: T.C. Ziraat Bankası A.Ş. Genel Müdürlüğünü,
+ç) Birlik: Damızlık Koyun Keçi Yetiştiricileri İl Birliklerini,
+d) Damızlık koç-teke: Bakanlık kayıt sistemlerine kayıtlı 12-36 aylık (360-1080 gün) yaş aralığındaki damızlık koç-tekeyi,
+e) Damızlık küçükbaş hayvan: Damızlık küçükbaş hayvan yatırımı kapsamında yetiştiricilere dağıtımı yapılacak olan ve dağıtım tarihinde en az 15 aylık (450 gün) yaşta olan dişi koyun-keçi ile 12-36 aylık (360-1080 gün) yaş aralığındaki damızlık koç-tekeyi,
+f) Genel Müdürlük: Hayvancılık Genel Müdürlüğünü,
+g) Hak ediş icmali: İl hayvan alımı yürütme komisyonunca hazırlanarak il müdürlüğünce onaylanan ve Genel Müdürlüğe gönderilen damızlık koç-teke alımı ile damızlık küçükbaş hayvan yatırımına esas bilgileri içeren icmal cetvelini,
+ğ) Hibe desteği: Damızlık küçükbaş hayvan yatırımı kapsamında Bakanlıkça belirlenecek olan illerde küçükbaş hayvan yatırımı ile 2017/9760 sayılı Karar hükümlerine göre kurulmuş veya yatırımı devam eden işletmelerin her birinden Karar kapsamında damızlık koç-teke alımı için verilen mali katkıyı,
+h) Hibe tutarı: 2017/9760 sayılı Karar hükümlerine göre kurulmuş veya yatırımı devam eden işletmelerden, damızlık koç-teke alımı için yapılacak desteklemenin Karar kapsamında %50 nakdi tutarını, Kararda belirtilen damızlık küçükbaş hayvan yatırımı için ise yapılacak desteklemenin %85 nakdi tutarını,
+ı) İl müdürlüğü: İl tarım ve orman müdürlüğünü,
+i) İşletme: 2017/9760 sayılı Karar kapsamında kurulmuş ve koç-tekelerin damızlık niteliği kazanana kadar barındırıldığı yerleri,
+j) Karar: 20/10/2020 tarihli ve 3099 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Hayvancılık Yatırımlarının Desteklenmesine İlişkin Kararı,
+k) TİGEM: Tarım İşletmeleri Genel Müdürlüğünü,
+l) Uygulama rehberi: Damızlık küçükbaş hayvan yatırımı ve damızlık koç-teke alımlarıyla ilgili olarak; başvuru detayları, icmaller, formlar, idari ve teknik detaylar, izleme ve değerlendirme, konu ile ilgili uygulama birimlerince yapılacak iş ve işlemler, birim fiyatları ve hibe tutarları ile ihtiyaç duyulacak diğer konuların yer aldığı Genel Müdürlükçe yayımlanacak olan rehberi,
+m) Yetiştirici: Birlik üyesi olan ve/veya olmayan gerçek ve tüzel kişileri,
+n) 2017/9760 sayılı Karar: 9/1/2017 tarihli ve 2017/9760 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Hayvancılık Yatırımlarının Desteklenmesine İlişkin Kararı,
+ifade eder.
