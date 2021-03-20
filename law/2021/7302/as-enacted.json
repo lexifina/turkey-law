@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7302",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Doğu Karayip Devletleri Örgütü Arasında Mutabakat Muhtırasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-20",
+  "gazette_issue": "31429",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-6.htm",
+  "source_sha256": "917f27c9f5956900ad0c1d48ae76bc6a4e1650ed2fc4129967ba74db8a318ed1",
+  "text_sha256": "2a7e91580c0813520f762069f3f26d68c85178281f88091a07ee2c64b6005c00",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/20/31429-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210320-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
