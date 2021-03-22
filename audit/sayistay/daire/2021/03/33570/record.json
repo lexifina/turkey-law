@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "440",
+  "decision_date": "2021-03-22",
+  "source_id": 33570,
+  "chamber": "7",
+  "ilam_number": "83",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33570/",
+  "source_sha256": "45f9718635af9d5a3f34b007487de191a6968155f61330b315256836d18711cf",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
