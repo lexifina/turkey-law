@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "440",
+  "decision_date": "2021-03-22",
+  "source_id": 33571,
+  "chamber": "7",
+  "ilam_number": "83",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33571/",
+  "source_sha256": "4fda0074e55a91850c893b7ba8927585c616a4bc096a40cee37b30df9115eac6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
