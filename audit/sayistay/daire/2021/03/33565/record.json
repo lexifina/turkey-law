@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "440",
+  "decision_date": "2021-03-22",
+  "source_id": 33565,
+  "chamber": "7",
+  "ilam_number": "83",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33565/",
+  "source_sha256": "303f68ea7da1a3863610847f2c5732fe1f2231b8c5fecc63e0077cb5c7e15649",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
