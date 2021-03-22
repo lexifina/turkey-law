@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "440",
+  "decision_date": "2021-03-22",
+  "source_id": 33567,
+  "chamber": "7",
+  "ilam_number": "83",
+  "item_number": 4,
+  "account_year": 2019,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33567/",
+  "source_sha256": "0541a39df0d6634a5599d76c4b2a0f9d06d90a291ab84895031dd1f12024c054",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
