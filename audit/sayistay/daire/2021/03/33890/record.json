@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35647",
+  "decision_date": "2021-03-23",
+  "source_id": 33890,
+  "chamber": "2",
+  "ilam_number": "76",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33890/",
+  "source_sha256": "52a94cc42c1741aef44303771d9db2c06744d2b2456ec05e2f559b1b1b2f8ef1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
