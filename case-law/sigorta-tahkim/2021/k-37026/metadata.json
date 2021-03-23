@@ -1,0 +1,15 @@
+{
+  "number": "K-2021/37026",
+  "award_date": "2021-03-23",
+  "heading_as_published": "23.03.2021 Tarih ve K-2021/37026 Sayılı Hakem Kararı (Maluliyet)",
+  "issue": "Hakem Karar Dergisi 45 Ocak - Mart 2021",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs45.pdf",
+  "source_sha256": "d54ebb8fb8f807e95b789b354bb425e3d52d89cab569ec8f354868690914cc0d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
