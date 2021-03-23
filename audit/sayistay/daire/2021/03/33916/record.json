@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35647",
+  "decision_date": "2021-03-23",
+  "source_id": 33916,
+  "chamber": "2",
+  "ilam_number": "76",
+  "item_number": 21,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33916/",
+  "source_sha256": "fceaa0f8c9bf16ca87f0d5c571b239a9df17e7a7389d62db5477466ff9ae579d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
