@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-03-23",
+  "issue": "31432",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Savunma Üniversitesi Astsubay Meslek Yüksekokulları Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210323-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210323.htm",
+  "index_sha256": "c4b1bd9a66d1d6883bfb6eef08167c405a7e270a1f106c9bbd3161d4600f4d50",
+  "index_header": "23 Mart 2021 ... 31432 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210323.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
