@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/12",
+  "meeting_date": "2021-03-23",
+  "meeting_date_as_published": "23.3.2021",
+  "decision_no": "74",
+  "source_id": 15750,
+  "title": "RTÜK kararı 2021/12-74",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15750",
+  "source_sha256": "fc3cfbc53966d69dee865a764da211bcfe1e801fdacdca0a6e83ad27c182e2e6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (6 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
