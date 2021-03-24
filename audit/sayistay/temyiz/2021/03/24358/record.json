@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49304",
+  "decision_date": "2021-03-24",
+  "source_id": 24358,
+  "chamber": "5",
+  "file_number": "46546",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24358/",
+  "source_sha256": "2247bed400f32197cf4ecf485072f4b88277e0375885d3480aaaf678d376cf2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
