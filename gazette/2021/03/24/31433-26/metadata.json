@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-03-24",
+  "issue": "31433",
+  "edition": "regular",
+  "item": 26,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7314 Türkiye Cumhuriyeti Hükümeti ve Çad Cumhuriyeti Hükümeti Arasında Teknik ve Kalkınma İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-26.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324.htm",
+  "index_sha256": "a40544ca6362763971a5466689d25fd49b65bf873a5f221e8782392ebf83286e",
+  "index_header": "24 Mart 2021 ... 31433 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
