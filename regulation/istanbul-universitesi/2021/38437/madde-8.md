@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Rektör tarafından, Üniversitenin Fen Fakültesi Moleküler Biyoloji ve Genetik Bölümü öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur.
+(2) Rektör Müdürün önerisiyle, Yönetim Kurulu üyeleri arasından bir kişiyi Müdür Yardımcısı olarak görevlendirir. Müdür Yardımcısı, Müdürün verdiği işleri yapar ve Müdürün bulunmadığı zamanlarda ona vekâlet eder. Vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde, Müdür yardımcısının görevi de sona erer.
