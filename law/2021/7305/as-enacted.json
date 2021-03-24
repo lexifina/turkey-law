@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7305",
+  "year": 2021,
+  "title": "Güneydoğu Avrupa Çokuluslu Barış Gücü Anlaşmasına Ek Altıncı Protokolün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-24",
+  "gazette_issue": "31433",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-17.htm",
+  "source_sha256": "a48a4478dd536ec811eff671528e21dd14ad026d9fc4b69d4036702d4e086b2d",
+  "text_sha256": "b9019103bca03a030d9e9eaa078f1a6ca1d34872322166273861d7fb869d6d2b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/24/31433-17",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-17.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
