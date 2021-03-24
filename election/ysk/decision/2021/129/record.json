@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2021/129",
+  "list_number": "129",
+  "decision_date": "2021-03-24",
+  "title": "298 sayılı Kanunun 14 üncü maddesinin 11 inci bendine göre, 06 Haziran 2021 Pazar günü yapılacak olan Afyonkarahisar İli Sinanpaşa ilçesi Güney Beldesi Belediye Başkanlığı ve Belediye Meclis Üyeliği seçimlerine katılacak olan siyasi partilerin belirlenmesine ilişkin Yüksek Seçim Kurulunun 24/03/2021 tarihli ve 2021/129 sayılı kararı.",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/80047/2021-129.pdf",
+  "source_sha256": "26b877cd5c9be59b13527619eac0f117c3955fdcf83c7d1bd2153606754f45eb",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2021-03-24",
+  "law_text_complete": false
+}
