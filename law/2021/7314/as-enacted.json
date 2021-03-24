@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7314",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Çad Cumhuriyeti Hükümeti Arasında Teknik ve Kalkınma İş Birliği Protokolünün Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-03-24",
+  "gazette_issue": "31433",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-26.htm",
+  "source_sha256": "7b88a6825deba570f96cf78ab62efd0b6977cda51e36891e9d5627f225a303a8",
+  "text_sha256": "0c9b3ddf454d9531ba8c975324a48a940714a9710b36678c37e8ef4022535ea2",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/03/24/31433-26",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210324-26.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
