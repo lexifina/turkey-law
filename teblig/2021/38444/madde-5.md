@@ -1,0 +1,3 @@
+Üretim ve faaliyet izni
+MADDE 5 – (1) Üretim ve faaliyet izni başvuru dosyaları en geç otuz gün içinde incelenir. Eksiklik tespit edilmesi halinde, bu eksiklikler bildirim tarihinden itibaren otuz gün içinde tamamlanır. Eksik bulunan bilgi ve belgelerin süresi içinde tamamlanmaması halinde başvuru işleme konulmaz.
+(2) Başvurunun tamamlanmasını müteakiben en geç on beş gün içinde Bakanlık tarafından görevlendirilen personel marifetiyle mahallinde veya dosya üzerinden inceleme yapılır. Bu süre içinde hazırlanan rapor, Bakanlığa sunulmasından itibaren on beş gün içinde karara bağlanır. Uygun bulunan tesisler için sigara filtresi üretimi amacıyla üretim ve faaliyet uygunluk belgesi düzenlenir.
