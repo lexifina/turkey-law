@@ -1,0 +1,400 @@
+25 Mart 2021 PERŞEMBE
+Resmî Gazete
+Sayı : 31434 (Mükerrer)
+TEBLİĞ
+Sanayi ve Teknoloji Bakanlığından:
+BİLGİSAYARLAR
+VE BİLGİSAYAR SUNUCULARI İLE İLGİLİ ÇEVREYE
+DUYARLI TASARIM GEREKLİLİKLERİNE DAİR
+TEBLİĞ
+(2013/617/AB) (SGM:2021/14)
+Amaç
+MADDE 1 –
+(1) 23/6/2010 tarihli ve 2010/643
+sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Enerji ile İlgili Ürünlerin
+Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin uygulanmasına yönelik
+olarak bilgisayarların piyasaya arz edilmesi ile ilgili çevreye duyarlı
+tasarımı gereklilikleri ve bunlara ait ilave ürün bilgilerinin temin
+edilmesine yönelik gereklilikleri belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Tebliğ, dâhili veya harici
+güç kaynağına bağlı olarak doğrudan alternatif akım (AC) elektrik kaynağı
+üzerinden çalışan;
+a) Masaüstü bilgisayarlarına,
+b) Tümleşik masaüstü bilgisayarlarına,
+c) Dizüstü bilgisayarlarına (tablet bilgisayarlar,
+slate bilgisayarlar ve taşınabilir küçük istemciler dâhil),
+ç) Masaüstü küçük istemcilerine,
+d) İş istasyonlarına,
+e) Taşınabilir iş istasyonlarına,
+f) Küçük boyutlu sunuculara,
+uygulanır.
+(2) Bu Tebliğ;
+a) Oyun konsollarına,
+b) Takma birimlerine,
+uygulanmaz.
+Dayanak
+MADDE 3 –
+(1) Bu Tebliğ; 10/7/2018 tarihli
+ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 385 inci ve 508 inci
+maddeleri ile 23/6/2010 tarihli ve 2010/643 sayılı Bakanlar Kurulu
+Kararıyla yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.
+AB
+mevzuatına uyum
+MADDE 4 –
+(1) Bu Tebliğ; Avrupa Parlamentosu
+ve Konseyinin 2009/125/AT sayılı Tüzüğü uyarınca yayımlanan Bilgisayarların
+ve Bilgisayar Sunucularının Çevreye Duyarlı Tasarım Gerekliliklerini
+belirleyen 26/6/2013 tarihli ve (AB) 2013/617 sayılı Tüzüğü ile bu Tüzükte
+değişiklik yapan 30/11/2016 tarihli ve (AB) 2016/2282 sayılı Komisyon
+Tüzüğü ve 15/3/2019 tarihli ve (AB) 2019/424 sayılı Komisyon Tüzüğü esas
+alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
+Tanımlar
+MADDE 5 –
+(1) Bu Tebliğde geçen;
+a) AB: Avrupa Birliğini,
+b) Ayrık grafik kartı (dGfx): Yerel bellek
+denetleyici arabirimine ve yerel grafiklere özel belleği olan ve aşağıdaki
+kategorilerden birine giren bir veya daha fazla grafik işleme birimi içeren
+ayrık bir iç bileşeni,
+1) G1 (FB_BW ≤ 16),
+2) G2 (16 < FB_BW ≤ 32),
+3) G3 (32 < FB_BW ≤ 64),
+4) G4 (64 < FB_BW ≤ 96),
+5) G5 (96 < FB_BW ≤ 128),
+6) G6 (FB_BW > 128 (FB Veri Genişliği <
+192-bit)),
+7) G7 (FB_BW > 128 (FB Veri Genişliği ≥
+192-bit)).
+7.1. Çerçeve arabellek bant genişliği (FB_BW), bir dGfx
+üzerindeki tüm GPU’lar tarafından saniyede işlenen veri miktarı anlamına
+gelmektedir ve aşağıdaki formülle hesaplanır.
+7.2. Çerçeve arabellek bant genişliği = (Veri Hızı
+x Veri Genişliği) / (8 x 1000)
+7.2.1. Bu formülde geçen;
+7.2.1.1. Çerçeve arabellek genişliği
+Gigabayt/saniye (GB/s) ile ifade edilir;
+7.2.1.2. Veri hızı, MHz ile ifade edilen etkin
+bellek veri sıklığıdır;
+7.2.1.3. Veri genişliği, bit (b) ile ifade edilen
+çerçeve arabellek (FB) veri genişliğidir;
+7.2.1.4. Formüldeki ‘8’, hesaplamayı Bayt’a
+dönüştürür;
+7.2.1.5. 1000’e bölerek, Megabayt Gigabayt’a
+dönüştürülür.
+c) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) Bilgisayar: Mantıksal işlemler gerçekleştiren,
+verileri işleyen, giriş aygıtlarını kullanan, bilgi çıktılarını ekranda
+görüntüleme yeteneğine sahip ve normalde işlemler gerçekleştirmek üzere bir
+merkezi işlem birimi (CPU) içeren, merkezi işlem birimi (CPU) bulunmaması
+halinde, hesaplama işlem birimi işlevini gerçekleştiren ve bilgisayar
+sunucusuna istemci ağ geçidi olma işlevine sahip olan cihazı,
+d) Dâhili hafıza: Verilerin kalıcı olarak belleğe
+kaydedilmesini sağlayan dâhili bir bileşeni,
+e) Dâhili güç kaynağı: Bilgisayara güç sağlamak
+amacıyla elektrik kaynağından AC voltajını, DC voltajına dönüştürmek için
+tasarlanan ve aşağıdaki özelliklere sahip olan bileşeni;
+1)
+Bilgisayar kasası içerisinde bulunur, ancak bilgisayar ana kartından
+ayrıdır.
+2) Güç kaynağı, güç kaynağı ile elektrik kaynağı
+gücü arasında ara devre olmaksızın tek bir kabloyla elektrik kaynağına
+bağlanır.
+3) Tümleşik bir masaüstü bilgisayardaki ekrana DC
+bağlantısı haricinde, güç kaynağı ile bilgisayar bileşenleri arasındaki tüm
+güç bağlantıları bilgisayar kasası içindedir.
+4) Bilgisayar tarafından kullanılmak üzere, harici
+bir güç kaynağından gelen tekli DC gerilimini çoklu gerilimlere dönüştürmek
+için kullanılan dâhili DC-DC dönüştürücüleri dahili güç kaynağı olarak
+kabul edilmez.
+f) Dizüstü bilgisayar: Özellikle taşınabilir olarak
+ve bir AC güç kaynağına bağlanarak veya bağlanmadan uzun süre çalıştırılmak
+üzere tasarlanmış bir bilgisayar anlamına gelen, görüntülenen köşegen ekran
+büyüklüğü en az 22,86 cm (9 inç) olan tümleşik bir ekrana sahip ve tümleşik
+bir batarya veya diğer taşınabilir güç kaynakları ile çalışma yeteneğine
+sahip olan, ayrıca aşağıdaki alt türleri içeren bilgisayarı,
+1) Tablet bilgisayar: Takılı olarak hem dokunmatik
+ekrana, hem de fiziksel bir klavyeye sahip olan ve bir tür dizüstü
+bilgisayar olarak tanımlanan bir üründür.
+2) Slate bilgisayar: Tümleşik dokunmatik bir ekran
+içeren, ancak takılı olarak kalıcı bir fiziksel klavyesi bulunmayan bir tür
+dizüstü bilgisayar anlamına gelmektedir.
+3) Taşınabilir ince istemci: Temel işlevsellik elde
+etmek için uzak bir bilgisayar kaynağı (örneğin, bilgisayar sunucusu, uzak
+iş istasyonu) bağlantısına güvenen ve ürüne tümleşik dönen saklama ortamı
+bulunmayan bir dizüstü bilgisayar türünü,
+4) Aşağıda belirtilen dizüstü bilgisayar
+kategorileri, bu Tebliğin amaçları doğrultusunda tanımlanmış olup,
+bunlardan dizüstü bilgisayar tanımına uymasına rağmen, boştaki güç ihtiyacı
+6 W’tan az olan ürünler, bu Tebliğin amaçları doğrultusunda dizüstü
+bilgisayar olarak değerlendirilmez.
+4.1.‘Kategori A’ dizüstü bilgisayar, Kategori B,
+Kategori C dizüstü bilgisayar tanımlarına uymayan dizüstü bilgisayar
+anlamına gelmektedir.
+4.2.‘Kategori B’ dizüstü bilgisayar, en az bir
+ayrık grafik kartına (dGfx) sahip dizüstü bilgisayar anlamına gelmektedir.
+4.3. ‘Kategori C’ dizüstü bilgisayar, asgari olarak
+aşağıdaki özelliklere sahip bir dizüstü bilgisayar anlamına gelmektedir:
+4.3.1. CPU içinde en az iki fiziksel çekirdek,
+4.3.2. Asgari iki gigabayt (GB) sistem belleği,
+4.3.3. G3 (FB Veri Genişliği > 128-bit), G4, G5,
+G6 veya G7 sınıflandırmasına uygun ayrık bir grafik kartı (dGfx).
+g) Ekran uyku konumu: Ekranın bağlı bir cihazdan veya
+dâhili bir uyarandan (bir zamanlayıcı veya meşgul sensörü gibi) sinyal
+aldıktan sonra geçtiği kullanıcının sağladığı bir girdi sinyaliyle de bu
+güç konumuna geçebildiği; bağlı bir cihaz, ağ, uzaktan kumanda ve/veya
+dâhili uyarandan işaret aldığında çalışır konumuna geçtiği; ürün bilgileri,
+durum görüntüleri veya algılayıcı temelli işlevler gibi kullanıcı odaklı
+veya koruyucu işlevler haricinde görüntü üretmediği güç konumunu,
+ğ) Harici güç kaynağı: Aşağıda sıralanan
+özelliklere sahip olan cihazı;
+1) Şebeke güç kaynağından gelen alternatif akım
+(AC) gücü girdisini düşük gerilimli doğru akım (DC) veya AC çıktısına
+dönüştürmek için tasarlanmıştır.
+2) Aynı anda yalnızca bir DC veya AC çıkış
+gerilimini dönüştürme yeteneğine sahiptir.
+3) Ana yükü teşkil eden ayrı bir cihazla
+kullanılması amaçlanmıştır.
+4) Ana yükü teşkil eden cihazdan ayrı bir fiziksel
+kasa içermektedir.
+5) Ana yükü teşkil eden cihaza, çıkarılabilir veya
+fiziksel bağlantılı erkek/dişi elektrik bağlantısı, kablo, kordon veya
+diğer kablolama yoluyla bağlanır.
+6) Nominal çıkış gücü 250 W’ı geçemez.
+h) İş istasyonu: Yoğun hesaplama içeren diğer
+görevlerin yanı sıra temelde grafikler, Bilgisayar Destekli Tasarım,
+yazılım geliştirme, finansal ve bilimsel uygulamalar için kullanılan yüksek
+performanslı, tek kullanıcılı ve aşağıdaki özelliklere sahip olan
+bilgisayarı;
+1) Arızalar arasındaki ortalama süre (MTBF) en az
+15.000 saattir,
+2) Hata düzeltme koduna (ECC) ve/veya arabelleğe
+sahiptir,
+3) Aşağıdaki beş özellikten en az üçüne sahiptir:
+3.1. Yüksek kalitede grafikler için ek güç
+desteğine sahiptir (örneğin, çevre birimleri bağlantı kartı (PCI)-E 6-pin
+12 V ek güç beslemesi),
+3.2. Grafik yuvasına ve/veya PCI-X desteğine ek
+olarak, sistemi anakart üzerinde x4 PCI-E’den daha fazlası için
+bağlanmıştır.
+3.3. Tek biçimli bellek erişimi (UMA) grafiklerini
+desteklemez,
+3.4. Beş veya daha fazla PCI, PCI-E veya PCI-X
+yuvası içerir,
+3.5. İki veya daha fazla CPU için çoklu işlemci
+desteği vardır (fiziksel olarak ayrı CPU paketlerini/yuvalarını
+desteklemelidir; yani tek birçok çekirdekli CPU desteği yoktur).
+ı) Küçük boyutlu sunucu: Genellikle masaüstü
+bilgisayar bileşenlerini bir masaüstü biçim katsayısı içinde kullanan,
+ancak temelde diğer bilgisayarlar için depolama makinesi olarak kullanılmak
+üzere ve ağ altyapı hizmetleri ve veri/ortam barındırma hizmeti sunmak gibi
+işlevleri yerine getirmek üzere tasarlanmış ve aşağıdaki özelliklere sahip
+olan bilgisayar türünü;
+1) Tüm veri işleme, saklama ve ağ arayüzlerinin tek
+bir kutuda yer alması için masaüstü bilgisayarlarınkine benzer bir kaide,
+kule veya başka bir yapı unsurunda tasarlanmıştır,
+2) Günün 24 saati, haftanın 7 günü çalışacak
+şekilde tasarlanmıştır,
+3) Temelde ağ bağlantılı istemci birimleri yoluyla
+birkaç kullanıcıya hizmet eden eşzamanlı çok kullanıcılı bir ortamda
+çalışmak için tasarlanmıştır,
+4) Bir işletim sistemiyle birlikte piyasaya arz
+edilmesi durumunda, işletim sistemi ana sunucu veya alt uç sunucu
+uygulamaları için tasarlanmıştır,
+5) G1 haricinde herhangi bir sınıflandırmaya uyan
+ayrık bir grafik kartı (dGfx) ile birlikte piyasaya arz edilemez.
+i) Masaüstü bilgisayar: Ana birimin kalıcı bir
+yerde konumlanması amaçlanan ve taşımak üzere tasarlanmamış, harici bir
+ekran ve klavye ve fare gibi harici çevre birimleriyle kullanılmak üzere
+tasarlanmış ve aşağıda kategorileri bulunan bir bilgisayarı,
+1) Aşağıda belirtilen masaüstü bilgisayar
+kategorileri, bu Tebliğin amaçları doğrultusunda tanımlanmıştır:
+1.1. ‘Kategori A’ masaüstü bilgisayar, Kategori B,
+Kategori C, Kategori D masaüstü bilgisayar tanımlarına uymayan masaüstü
+bilgisayar anlamına gelmektedir.
+1.2. ‘Kategori B’ masaüstü bilgisayar,
+aşağıdakileri içeren bir masaüstü bilgisayar anlamına gelmektedir:
+1.2.1. CPU içinde iki fiziksel çekirdek,
+1.2.2. Asgari iki gigabayt (GB) sistem belleği.
+1.3.‘Kategori C’ masaüstü bilgisayar, aşağıdakileri
+içeren bir masaüstü bilgisayar anlamına gelmektedir:
+1.3.1. CPU içinde üç veya daha fazla fiziksel
+çekirdek,
+1.3.2. Aşağıdaki iki özellikten en az birinin
+yapılandırmasını,
+1.3.2.1. Asgari iki gigabayt (GB) sistem belleği,
+ve/veya
+1.3.2.2. Ayrık bir grafik kartı (dGfx).
+1.4. ‘Kategori D’ masaüstü bilgisayar,
+aşağıdakileri içeren bir masaüstü bilgisayar anlamına gelmektedir:
+1.4.1. CPU içinde en az dört fiziksel çekirdek,
+1.4.2. Aşağıdaki iki özellikten en az birinin
+yapılandırmasını:
+1.4.2.1. Asgari dört gigabayt (GB) sistem belleği,
+ve/veya
+1.4.2.2. G3 (FB Veri Genişliği > 128-bit), G4,
+G5, G6 veya G7 sınıflandırmasına uygun ayrık bir grafik kartı (dGfx).
+j) Masaüstü ince istemci: Temel işlevsellik elde etmek
+için uzak bir bilgisayar kaynağı (örneğin, bilgisayar sunucusu, uzak iş
+istasyonu) bağlantısına dayanan ve ürüne tümleşik olarak dönel saklama
+ortamı bulunmayan, ana birimi, kalıcı bir konumda kullanılmak üzere
+tasarlanan (örneğin bir masa üstünde) ve taşınabilir olmayan bilgi çıktılarını
+harici veya ürüne dâhil edilmiş olması halinde dâhili bir ekrana
+yansıtabilen bir bilgisayarı,
+k) Merkezi İşlem Birimi (CPU): Bilgisayarda
+talimatların yorumlanmasını ve gerçekleştirilmesini kontrol eden ve
+aşağıdaki özellikleri içeren bir bileşeni;
+1) CPU, “işletim sistemi çekirdekleri” olarak
+bilinen bir veya birden fazla fiziksel işlemci içerebilir. Bir fiziksel
+işlemci, fiziksel olarak mevcut bir işlemci anlamına gelir. İlave ‘sanal’
+veya ‘mantıksal’ işlemcileri, fiziksel işlemci olmayan bir işletim sistemi
+çekirdeğinin biri veya daha fazlasından meydana gelir.
+2) Bir işletim sistemi çekirdeğinin daha fazlası,
+tek bir CPU fiziksel yuvası bulunan bir işlemci paketinde bulunabilir.
+3) CPU’da toplam işletim sistemi çekirdeklerinin
+sayısı, tüm CPU fiziksel yuvalarına bağlanan cihazlar tarafından sağlanan
+işletim çekirdeklerinin toplamıdır.
+l) Taşınabilir iş istasyonu: Bilgisayar oyunları
+haricinde yoğun hesaplama içeren diğer görevlerin yanı sıra temelde
+grafikler, bilgisayar destekli tasarım, yazılım geliştirme, finansal ve
+bilimsel uygulamalar için kullanılan, özellikle taşınabilir olarak ve bir
+AC güç kaynağına doğrudan bağlanarak veya bağlanmadan uzun süre
+çalıştırılmak üzere tasarlanmış, yüksek performanslı, tek kullanıcılı ve
+aşağıdaki özelliklere sahip bir bilgisayarı,
+1) Taşınabilir iş istasyonları tümleşik bir ekrana
+sahiptir ve tümleşik bir batarya ile veya diğer taşınabilir güç kaynakları
+ile çalışma yeteneğine sahiptir.
+2) Taşınabilir iş istasyonlarının büyük kısmı
+harici bir güç kaynağı kullanır ve tümleşik bir klavyeye ve işaret aygıtına
+sahiptir. Taşınabilir iş istasyonları aşağıdaki özelliklere sahiptir:
+2.1. Arızalar arasındaki ortalama süre (MTBF) en az
+13.000 saattir,
+2.2. En az G3 (FB Veri Genişliği > 128-bit), G4,
+G5, G6 veya G7 sınıflandırmasına uygun ayrık bir grafik kartına (dGfx)
+sahiptir,
+2.3. Üç veya daha fazla dâhili depolama cihazı
+eklenebilir,
+2.4. En az 32 GB sistem belleğini destekler.
+m) Tümleşik masaüstü bilgisayar: Bilgisayar ve
+ekran biriminin tek bir birim halinde işlev gördüğü, AC gücünü tek kablo
+ile alan ve aşağıdaki özelliklere sahip olan bilgisayarı,
+1) Tümleşik masaüstü bilgisayarlar iki şekilde
+olabilir:
+1.1. Ekran ve bilgisayar, fiziksel olarak birleşik
+tek bir birim halindedir;
+1.2. Ekran bilgisayardan ayrıdır, ancak doğru akım
+(DC) güç kablosu ile ana kasaya bağlanmaktadır. Tümleşik bir masaüstü
+bilgisayarın kalıcı bir yerde konumlanması amaçlanmıştır ve taşımak üzere
+tasarlanmamıştır. Tümleşik masaüstü bilgisayarlar, temelde işitsel-görsel
+sinyallerin görüntülenmesi ve alınması için tasarlanmamıştır. Aşağıda
+belirtilen tümleşik masaüstü bilgisayar kategorileri, bu Tebliğin amaçları
+doğrultusunda tanımlanmıştır:
+1.2.1.‘Kategori A’ tümleşik masaüstü bilgisayar,
+Kategori B, Kategori C, Kategori D tümleşik masaüstü bilgisayar tanımlarına
+uymayan tümleşik masaüstü bilgisayar anlamına gelmektedir.
+1.2.2. ‘Kategori B’ tümleşik masaüstü bilgisayar,
+aşağıdakileri içeren bir tümleşik masaüstü bilgisayar anlamına gelmektedir:
+1.2.2.1. CPU içinde iki fiziksel çekirdek,
+1.2.2.2. Asgari iki gigabayt (GB) sistem belleği.
+1.2.3.‘Kategori C’ tümleşik masaüstü bilgisayar,
+aşağıdakileri içeren bir tümleşik masaüstü bilgisayar anlamına gelmektedir:
+1.2.3.1. CPU içinde üç veya daha fazla fiziksel
+çekirdek,
+1.2.3.2. Aşağıdaki iki özellikten en az birinin
+yapılandırmasını:
+1.2.3.2.1. Asgari iki gigabayt (GB) sistem belleği,
+1.2.3.2.2. Ayrık bir grafik kartı (dGfx).
+1.2.4. ‘Kategori D’ tümleşik masaüstü bilgisayar,
+aşağıdakileri içeren bir tümleşik masaüstü bilgisayar anlamına gelmektedir:
+1.2.4.1. CPU içinde en az dört fiziksel çekirdek,
+1.2.4.2. Aşağıdaki iki özellikten en az birinin
+yapılandırmasını:
+1.2.4.2.1. Asgari dört gigabayt (GB) sistem
+belleği, ve/veya
+1.2.4.2.2. G3 (FB Veri Genişliği> (28-bit), G4,
+G5, G6 veya G7 sınıflandırmasına uygun ayrık bir grafik kartı (dGfx).
+n) Oyun konsolu: Temel işlev olarak video oyunları
+oynamak üzere tasarlanmış şebeke güç kaynağına bağlı bağımsız ve aşağıdaki
+özellikleri taşıyan cihazı,
+1) Oyun konsolu, genellikle ana oyun oynama ekranı
+olarak harici bir ekran çıkışı sağlamak üzere tasarlanmıştır. Oyun
+konsolları, genellikle bir CPU, sistem belleği ve bir grafik işleme birimi
+veya birimleri (GPU) içerir ve sabit sürücüler ve diğer dâhili saklama
+seçenekleri ve optik sürücüler içerebilir.
+2) Oyun konsolları genellikle temel giriş cihazı
+olarak harici bir klavye veya fare yerine kumanda kolları veya diğer
+interaktif kollarla çalışır. Oyun konsolları, normalde kişisel bilgisayar
+işletim sistemleri içermez, daha ziyade oyun konsollarına özgü işletim
+sistemleriyle çalışır.
+3) Temel oyun oynama ekranı olarak tümleşik bir
+ekran içeren ve bir AC güç kaynağına doğrudan bağlanarak değil, tümleşik
+bir bataryayla veya diğer taşınabilir güç kaynaklarıyla çalışan taşınabilir
+oyun cihazları da bir tür oyun konsolu olarak değerlendirilir.
+o) Takma birimi: Çevre birimlere bağlanmayı
+artırmak veya bağlantıları bütün haline getirmek gibi görevler için bir
+bilgisayara bağlanmak üzere tasarlanmış ayrıca ağ bağlantılı bilgisayardaki
+dâhili bataryaların şarj edilmesini de kolaylaştırabilen ayrık bir ürünü,
+ö) Ürün tipi: Masaüstü bilgisayar, tümleşik
+masaüstü bilgisayar, dizüstü bilgisayar, masaüstü ince istemci, iş
+istasyonu, taşınabilir iş istasyonu, küçük ölçekli sunucu, oyun konsolu,
+takma birimi, dahili güç kaynağı veya harici güç kaynağını belirten cihazı,
+ifade eder.
+(2) Eklerin amaçları doğrultusunda, ilave tanımlar
+Ek-I’de belirtilmiştir.
+Çevreye
+duyarlı tasarım gereklilikleri
+MADDE 6 –
+(1) Bilgisayarlar çevreye duyarlı
+tasarım gereklilikleri Ek-II’de yer almaktadır.
+(2) Bilgisayarların geçerli olan çevreye duyarlı
+tasarım gerekliliklerine uygunluğu, Ek-III’te yer alan yöntemler
+kullanılarak ölçülür.
+Uygunluk
+değerlendirme
+MADDE 7 –
+(1) Enerji ile İlgili Ürünlerin
+Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde atıfta
+bulunulan uygunluk değerlendirme yöntemleri, aynı Yönetmeliğin Ek-IV’ünde
+belirtilen iç tasarım kontrol sistemleri veya Ek-V’inde belirtilen uygunluk
+değerlendirmesi yönetim sistemine göre yerine getirilir.
+Piyasa
+gözetimi ve denetimi ve doğrulama yöntemleri
+MADDE 8 –
+(1) Piyasa gözetimi ve denetimi,
+Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmelikte
+belirtilen kurallar uyarınca yürütülür.
+(2) Bilgisayarların geçerli olan çevreye duyarlı
+tasarım gerekliliklerine uygunluğunun denetimi, bu Tebliğin Ek-III’ünün 2
+nci maddesinde belirtilen doğrulama yöntemine uygun olarak yürütülür.
+Gösterge
+niteliğinde ölçütler
+MADDE 9 –
+(1) Bu Tebliğin yürürlüğe girdiği
+tarihte piyasada mevcut olan en iyi performansa sahip ürünlere ve
+teknolojiye ilişkin gösterge niteliğindeki ölçütler, Ek-IV’te
+tanımlanmıştır.
+Danışma
+kurulu işlemleri
+MADDE 10
+– (1) Bakanlık, bu Tebliğ ile
+ilgili olarak, Avrupa Komisyonu tarafından, çalışmalar yapmak üzere kurulan
+danışma kurulu toplantılarına katılım sağlar.
+Yürürlükten
+kaldırılan tebliğ
+MADDE 11
+– (1) 13/2/2015 tarihli ve 29266
+sayılı Resmî Gazete’de yayımlanan Bilgisayarlar ve Bilgisayar Sunucuları ile
+İlgili Çevreye Duyarlı Tasarım Gereklerine Dair Tebliğ (SGM:2015/4)
+yürürlükten kaldırılmıştır.
+Yürürlük
+MADDE 12
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 13
+– (1) Bu Tebliğ hükümlerini Sanayi
+ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız
