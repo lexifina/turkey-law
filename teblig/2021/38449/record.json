@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38449",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KAYNAK EKİPMANLARI İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2019/1784/AB) (SGM:2021/17)",
+  "number": "38449",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38449",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38449&MevzuatTertip=5",
+  "source_sha256": "0d2ef4e8b3b0ccd91b53b806c9b47eb220fbb56c5d91daea330fca7918a7d2a1",
+  "source_bytes": 28189,
+  "published": "2021-03-25",
+  "gazette": "31434 Mükerrer",
+  "in_force": "2021-03-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.03.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1469,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38449-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
