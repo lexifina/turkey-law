@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38458",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRONİK EKRANLARIN ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2019/2021/AB) (SGM:2021/5)",
+  "number": "38458",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38458",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38458&MevzuatTertip=5",
+  "source_sha256": "770200731b0e74d48e999901c7038d49dcef1a17daf0d27cf770e50862373dad",
+  "source_bytes": 45402,
+  "published": "2021-03-25",
+  "gazette": "31434 Mükerrer",
+  "in_force": "2021-03-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.03.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2338,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38458%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
