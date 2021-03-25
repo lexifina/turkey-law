@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.28965",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KALICI ORGANİK KİRLETİCİLER HAKKINDA YÖNETMELİK",
+  "number": "28965",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2018/28965",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=28965&MevzuatTertip=5",
+  "source_sha256": "edea1a1534ff45fe845eeea7f5080bb8993bca951898c731dbdf73702cd9d765",
+  "source_bytes": 54483,
+  "published": "2018-11-14",
+  "gazette": "30595",
+  "in_force": "2021-03-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/3/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-03-25",
+      "RG-25/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-25",
+      "25/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2535,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.28965-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
