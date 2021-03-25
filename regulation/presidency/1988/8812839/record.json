@@ -1,0 +1,30 @@
+{
+  "id": "presidency-regulation-8812839",
+  "number": "8812839",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TÜRKİYEDE İLMİ ARAŞTIRMA, İNCELEME YAPMAK VE FİLM ÇEKMEK İSTEYEN YABANCILAR VEYA YABANCILAR ADINA MÜRACAAT EDENLER İLE YABANCI BASIN-YAYIN MENSUPLARININ TABİ OLACAKLARI ESASLAR",
+  "published": "1988-04-29",
+  "enacted": "1988-04-04",
+  "gazette_number": "19799",
+  "in_force": "2021-03-25",
+  "in_force_basis": "Latest source commencement-table date: 2021-03-25; official source: 24/3/2021 | 3746 | 25/3/2021 | 31434 | 2 | 25/3/2021",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=8812839&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "0b175601a5bc69a027306259b3bfea5e0c9dd7ea05cd514383f6515f3fa89339",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}

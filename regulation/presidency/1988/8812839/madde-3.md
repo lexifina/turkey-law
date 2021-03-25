@@ -1,0 +1,5 @@
+İzin
+Madde 3- İzin almak için yapılacak müracaatlar, söz konusu araştırma, inceleme veya çekilecek film, çalışma süre ve yerleri ile müracaat sahibi hakkında gerekli bilgileri ihtiva eder.
+Müracaat sahibinin yapacağı araştırma ve inceleme konusunda eseri olup olmadığı, izin verilmesi sırasında gözönünde tutulur.
+(Değişik üçüncü fıkra: 6/10/2003 – 2003/6270 BKK/2. md) Arkeolojik kazı ve yüzey araştırmalarına ilişkin müracaatlar; yurt içinde kendi büyükelçiliği vasıtasıyla Dışişleri Bakanlığına, yurt dışında ise Türkiye Cumhuriyeti temsilciliklerine yapılır. Dışişleri Bakanlığı yapılan müracaatı değerlendirir, konunun özelliğine göre ilgili bakanlık ve kuruluşların da görüşlerini alır ve sonucunu ilgiliye bildirir.
+(Ek dördüncü fıkra: 6/10/2003 – 2003/6270 BKK/2. md) Arkeolojik kazılar ve yüzey araştırmaları dışındaki müracaatlar, doğrudan araştırma, inceleme, çekim ve benzeri çalışmanın yapılacağı mahaldeki birime veya bu birimin bağlı olduğu idareye bizzat veya posta (fax, e-mail v.b.) yoluyla yapılabilir. Müracaatlar en geç beş gün içinde sonuçlandırılır. Müracaatlar ve sonuçları hakkında ilgili diğer makamlara bilgi verilir.
