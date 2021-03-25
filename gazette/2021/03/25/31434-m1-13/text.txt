@@ -1,0 +1,224 @@
+25 Mart 2021 PERŞEMBE
+Resmî Gazete
+Sayı : 31434 (Mükerrer)
+TEBLİĞ
+Sanayi ve Teknoloji Bakanlığından:
+SUNUCULAR VE
+VERİ DEPOLAMA ÜRÜNLERİ İLE İLGİLİ ÇEVREYE
+DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ
+(2019/424/AB) (SGM:2021/15)
+Amaç
+MADDE 1 –
+(1) Bu Tebliğin amacı, 23/6/2010
+tarihli ve 2010/643 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan
+Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin
+uygulanmasına yönelik sunucuların ve çevrimiçi veri depolama ürünlerinin
+piyasaya arzına ve/veya hizmete sunulmasına ilişkin çevreye duyarlı tasarım
+gerekliliklerini belirlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Tebliğ, sunucuları ve
+çevrimiçi veri depolama ürünlerini kapsar.
+(2) Bu Tebliğ, aşağıda belirtilen ürünleri
+kapsamaz:
+a) Gömülü uygulamalarda kullanılan sunucuları.
+b) Bilgisayarlar ve Bilgisayar Sunucuları ile
+İlgili Çevreye Duyarlı Tasarım Gerekliliklerine Dair Tebliğ (2013/617/AB)
+(SGM:2021/14)’e göre küçük ölçekli sunucular olarak sınıflandırılan
+sunucuları.
+c) Dörtten fazla işlemci soketine sahip sunucuları.
+ç) Sunucu cihazlarını.
+d) Büyük sunucuları.
+e) Tam hata toleranslı sunucuları.
+f) Ağ sunucularını.
+g) Küçük veri depolama ürünlerini.
+ğ) Büyük veri depolama ürünlerini.
+Dayanak
+MADDE 3 –
+(1) Bu Tebliğ; 10/7/2018 tarihli
+ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 385 inci ve 508 inci
+maddeleri ile 23/6/2010 tarihli ve 2010/643 sayılı Bakanlar Kurulu
+Kararıyla yürürlüğe konulan Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğe dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 –
+(1) Bu Tebliğin uygulanması
+bakımından Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin
+Yönetmelikte yer alan tanımlara ek olarak aşağıdaki tanımlar geçerlidir:
+a) AB: Avrupa Birliğini,
+b) Ağ sunucusu: Yazılım tanımlı bir ağ üzerinden
+sanallaştırılmış ağ ortamı desteği ile bağlantı noktalarını ve hızı dinamik
+olarak yeniden yapılandırma kabiliyetine sahip toplam hat hızı verimi 12
+GB/s veya daha fazla 11’den çok ağ bağlantı noktasına ek olarak, bir sunucu
+ile aynı bileşenleri içeren ağ ürününü,
+c) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) Büyük sunucu: Bir veya daha fazla tam çerçeve
+kabinet içerisinde yer alan önceden entegre/önceden test edilmiş bir sistem
+olarak gönderilen ve en az 32 ayrı giriş/çıkış soketine sahip yüksek
+bağlantı giriş/çıkış alt sistemi içeren esnek sunucuyu,
+d) Büyük veri depolama ürünü: Tek nokta hatası
+olmama, kesintisiz hizmet verme ve tümleşik depolama denetleyicisine sahip
+olma özelliklerini haiz ve maksimum yapılandırmasında 400'den fazla veri
+depolama aygıtını destekleyen üst düzey veya ana bilgisayar veri depolama
+ürününü,
+e) Çevrimiçi veri depolama ürünü: İlk veriye
+maksimum 80 milisaniyenden daha az bir sürede rastgele veya sıralı bir
+şekilde erişilebilen, rastgele veri erişimli ve çevrimiçi kullanım için
+tasarlanmış bir veri depolama ürününü,
+f) Çok düğümlü sunucu: Sunucu düğümlerinin çalışma
+sırasında değiştirilebilir şekilde tasarlanmadığı, gücün paylaşılan güç
+kaynağı üniteleri aracılığıyla tüm düğümlere dağıtıldığı, tek bir mahfaza
+ve bir veya daha fazla güç kaynağı ünitesini paylaşan iki veya daha fazla
+bağımsız sunucu düğümüyle tasarlanmış sunucuyu,
+g) Dörtten fazla işlemci soketine sahip sunucu: Bir
+işlemcinin kurulumu için tasarlanmış dörtten fazla arabirim içeren (çok
+düğümlü sunucular için her sunucu düğümünde dörtten fazla işlemci soketine
+sahip olan) sunucuyu,
+ğ) Esnek sunucu: Sistemin mikro mimarisine, merkezi
+işlem birimine (CPU) ve yonga setine entegre edilmiş kapsamlı güvenilirlik,
+kullanılabilirlik, servis verilebilirlik ve ölçeklenebilirlik özellikleri
+ile tasarlanmış sunucuyu,
+h) Gömülü uygulama: Genellikle salt okunur bellek
+(rom) veya flaş bellek gibi geçici olmayan bir bellekte depolanan, bir
+endüstriyel cihazda ya da tüketici cihazında kalıcı olarak bulunan yazılım
+uygulamasını,
+ı) Katı hal sürücüsü (SSD): Veri depolama için
+manyetik plakaları döndürmek yerine kalıcı katı hal belleğini okuyan ve
+yazan veri depolama cihazını,
+i) Küçük veri depolama ürünü: En fazla üç veri
+depolama cihazı içeren veri depolama ürününü,
+j) Sabit disk sürücüsü (HDD): Bir veya daha fazla
+dönen manyetik disk plakasını okuyan ve yazan veri depolama cihazını,
+k) Sunucu: Masaüstü bilgisayarlar, dizüstü
+bilgisayarlar, masaüstü küçük istemciler, internet protokollü telefonlar,
+akıllı telefonlar, tabletler, telekomünikasyon, otomatik sistemler ve diğer
+sunucular gibi istemci cihazlar için ağa bağlı kaynakları yöneten veya
+onlara hizmet sağlayan, temel olarak klavye ya da fare gibi doğrudan
+kullanıcı giriş cihazları ile değil ağ bağlantıları ile erişilen ve
+aşağıdaki özelliklere sahip bilgi işlem ürününü;
+1) Sunucu işletim sistemlerini (OS) ve/veya
+hipervizörleri desteklemek üzere tasarlanma ve kullanıcı tarafından
+yüklenen kurumsal uygulamaları çalıştırmayı hedefleme,
+2) Hata düzeltme kodunu ve/veya tampon belleği (hem
+tamponlanmış çift sıralı bellek modülleri hem de tamponlanmış yerleşik
+yapılandırmalar dâhil) destekleme,
+3) Tüm işlemcilerin paylaşılan sistem belleğine
+erişimine imkân verme ve tek bir işletim sistemi (OS) veya hipervizör
+tarafından bağımsız olarak görülebilme.
+l) Sunucu cihazı: Kullanıcının sağladığı yazılımı
+yürütmesi amaçlanmayan, bir veya daha fazla ağ üzerinden hizmet sunan,
+genellikle bir web veya komut satırı arabirimi üzerinden yönetilen ve
+önceden yüklenmiş bir işletim sistemi (OS) ile özel bir işlev veya sıkıca
+bağlı işlevler kümesi gerçekleştirmek için kullanılan bir uygulama yazılımı
+ile birlikte gelen sunucuyu,
+m) Tam hata toleranslı sunucu: Tüm bilgisayar
+bileşenlerinin aynı ve eşzamanlı iş yüklerini çalıştıran iki düğüm arasında
+çoğaltıldığı, tam donanım yedeklemesiyle (kritik görev uygulamalarında
+sürekli kullanılabilirlik için tek bir iş yükünü eş zamanlı ve tekrarlı
+olarak çalıştırmak amacıyla) tasarlanmış bir sunucuyu, (Örneğin, bir düğüm
+hata verir veya onarım gerektirirse, ikinci düğüm kesinti süresini önlemek
+için iş yükünü tek başına çalıştırabilir.)
+n) Veri depolama cihazı: Bağımsız disklerin yedek
+dizilerinin alt sistemleri, robotik teyp kitaplıkları, dosyalayıcılar ve
+dosya sunucuları ve son kullanıcı programları tarafından doğrudan
+erişilemeyen ve bir tür dâhili önbellek yerine kullanılan depolama
+aygıtları gibi depolama öğelerinin toplanması haricinde kalıcı veri
+depolama sağlayan aygıtı,
+o) Veri depolama ürünü: Doğrudan veya bir ağ
+üzerinden bağlı istemcilere ve cihazlara veri depolama hizmetleri sağlayan
+aşağıdaki özelliklere sahip tam işlevli bir depolama sistemini;
+1) Veri depolama ürünü mimarisinin ayrılmaz bir
+parçası olan bileşenler ve alt sistemler (örn. denetleyiciler ve diskler
+arasında dâhili iletişimi sağlayan) veri depolama ürününün bir parçası
+olarak kabul edilir,
+2) Buna karşılık normalde veri merkezi
+seviyesindeki bir depolama ortamıyla ilişkilendirilen bileşenler (örn.
+harici depolama alanı ağının çalışması için gerekli cihazlar) veri depolama
+ürününün bir parçası olarak değerlendirilmez,
+3) Bir veri depolama ürünü, tümleşik depolama
+denetleyicileri, veri depolama aygıtları, gömülü ağ öğeleri, yazılım ve
+diğer aygıtlardan oluşabilir.
+ifade eder.
+(2) İlave tanımlar Ek-I’de yer almaktadır.
+Çevreye
+duyarlı tasarım gereklilikleri
+MADDE 5 –
+(1) Sunucular ve çevrimiçi veri
+depolama ürünleri için çevreye duyarlı tasarım gereklilikleri Ek-II’de yer
+almaktadır.
+(2) Bu Tebliğin yürürlük tarihinden itibaren
+sunucular Ek-II’nin 1.1.1 inci, 1.2.1 inci, 1.2.2 nci, 2.1 inci, 2.2 nci,
+3.1 inci, 3.3 üncü ve 3.4 üncü maddelerinde belirtilen çevreye duyarlı
+tasarım gerekliliklerini sağlar.
+(3) Bu Tebliğin yürürlük tarihinden itibaren
+çevrimiçi veri depolama ürünleri Ek-II’nin 1.1.1 inci, 1.2.1 inci, 1.2.2
+nci, 3.2 nci, 3.3 üncü ve 3.4 üncü maddelerinde belirtilen çevreye duyarlı
+tasarım gerekliliklerini sağlar.
+(4) Bu Tebliğin yürürlük tarihinden itibaren
+sunucular ve çevrimiçi veri depolama ürünleri Ek-II’nin 1.2.3 üncü
+maddesinde belirtilen çevreye duyarlı tasarım gerekliliklerini sağlar.
+(5) 1 Ocak 2023’ten itibaren sunucular ve çevrimiçi
+veri depolama ürünleri Ek-II’nin 1.1.2 nci maddesinde belirtilen çevreye
+duyarlı tasarım gerekliliklerini sağlar.
+(6) Çevreye duyarlı tasarım gerekliliklerine
+uygunluk Ek-III’te belirtilen yöntemlere göre ölçülür ve hesaplanır.
+Uygunluk
+değerlendirme
+MADDE 6 –
+(1) Enerji ile İlgili Ürünlerin Çevreye
+Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde belirtilen
+uygunluk değerlendirme yöntemi, söz konusu Yönetmeliğin Ek-IV’ünde
+belirtilen iç tasarım kontrolü veya Ek-V’inde belirtilen uygunluk
+değerlendirmesine ilişkin yönetim sistemidir.
+(2) Enerji ile İlgili Ürünlerin Çevreye Duyarlı
+Tasarımına İlişkin Yönetmeliğin 10 uncu maddesi uyarınca uygunluk
+değerlendirmesinin amaçları bakımından, teknik dosya bu Tebliğin
+Ek-II’sinin 3.4 üncü maddesinde yer alan bilgileri içerir.
+Piyasa
+gözetimi ve denetimi için doğrulama yöntemleri
+MADDE 7 –
+(1) Bakanlık, Enerji ile İlgili
+Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 5 inci maddesinin
+ikinci fıkrasında belirtilen piyasa gözetimi ve denetimini
+gerçekleştirirken, Ek-IV’te belirtilen doğrulama yöntemini uygular.
+Önlemler
+MADDE 8 –
+(1) İmalatçı veya ithalatçı, bu
+Tebliğde belirtilen teknik dosyada veya temin edilen herhangi bir dokümanda
+yer alan parametrelerin herhangi birini daha iyi bir seviyeye çıkarmak
+amacıyla, test edildiğini (örneğin test koşulları veya test çevrimini
+öğrenerek) algılama ve test sırasındaki performansını özellikle otomatik
+olarak değiştirme özelliklerine sahip olacak şekilde tasarlanan ürünü
+piyasaya arz edemez.
+Gösterge
+niteliğindeki ölçütler
+MADDE 9 –
+(1) Bu Tebliğin yürürlüğe girdiği
+tarihten itibaren piyasada mevcut olan en iyi performansa sahip sunucular
+ve veri depolama ürünlerine ilişkin gösterge niteliğindeki ölçütler Ek-V’te
+tanımlanmaktadır.
+Danışma
+kurulu
+MADDE 10
+– (1) Bakanlık, bu Tebliğ ile
+ilgili olarak, Avrupa Komisyonu tarafından, çalışmalar yapmak üzere kurulan
+danışma kurulu toplantılarına katılım sağlar.
+AB
+mevzuatına uyum
+MADDE 11
+– (1) Bu Tebliğ, (AT) 2009/125
+sayılı Avrupa Parlamentosu ve Konseyinin Tüzüğü uyarınca yayımlanan
+Sunucuların ve Veri Depolama Ürünlerinin Çevreye Duyarlı Tasarım
+Gerekliliklerini belirleyen, (AB) 617/2013 sayılı Tüzüğü tadil eden,
+15/3/2019 tarihli ve (AB) 2019/424 sayılı Komisyon Tüzüğü esas alınarak AB
+mevzuatına uyum çerçevesinde hazırlanmıştır.
+Yürürlük
+MADDE 12
+– (1) Bu Tebliğ yayımı tarihinde
+yürürlüğe girer.
+Yürütme
+MADDE 13
+– (1) Bu Tebliğ hükümlerini Sanayi
+ve Teknoloji Bakanı yürütür.
+Ekleri için tıklayınız
