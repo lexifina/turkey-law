@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Malezya ve Yunanistan menşeli/çıkışlı 5903.20 gümrük tarife pozisyonu altında kayıtlı “mensucat, poliüretanla emdirilmiş, sıvanmış, kaplanmış veya lamine edilmiş-deri taklidi/diğerleri” (PÜ suni deri) ithalatında re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

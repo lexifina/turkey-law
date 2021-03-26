@@ -1,0 +1,4 @@
+Başvuru ve mevcut durum
+MADDE 5 – (1) 5/2/2005 tarihli ve 25718 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2005/2) ile; ÇHC menşeli 5903.20.10.10.00 ve 5903.20.10.90.00 GTİP’li eşyanın ithalatında 1 ABD Doları/Kg, 5903.20.90.10.00 ve 5903.20.90.90.00 GTİP’li eşyanın ithalatında 2,2 ABD Doları/Kg tutarında dampinge karşı önlem uygulanmaya başlanmıştır. Son nihai gözden geçirme soruşturmasına ilişkin İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/44) ile anılan önlemin devamına karar verilmiştir.
+(2) ÇHC menşeli PÜ suni deri ithalatında uygulanan dampinge karşı önlemlerin Malezya ve Yunanistan üzerinden yapılan ithalat ile etkisiz kılındığına yönelik re’sen yapılan değerlendirmeler üzerine Bakanlık tarafından bir inceleme başlatılmıştır.
+(3) Mezkûr önlemin etkisiz kılındığına ilişkin bulgular Kanun, Karar ve Yönetmelik hükümleri çerçevesinde değerlendirilmiştir.
