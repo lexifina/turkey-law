@@ -1,0 +1,5 @@
+Eşgüdüm ve Denetleme Kurulu ve görevleri
+Madde 16 — (Değişik birinci fıkra:RG-26/3/2021-31435) Eşgüdüm ve denetleme kurulu, alan başkanı, danışma kurulunca kendi içinden seçilecek iki üye ile hizmetine ihtiyaç duyulan idarelerden birer temsilci olmak üzere Bakanlıkça tespit edilecek en az beş üyeden oluşur. Alan başkanı, eşgüdüm ve denetleme kurulunun da başkanıdır. Eşgüdüm ve denetleme kurulunda yer alan kurum temsilcisi üyelerin üyelikleri kurumlarının görevlendirdiği süre boyunca devam eder.
+(Değişik ikinci fıkra:RG-26/3/2021-31435) Eşgüdüm ve denetleme kurulu yılda en az iki kere mahallinde toplanır. Kurul toplantısının bu Yönetmelikte belirlenen görevleri kapsamındaki gündemi alan başkanı tarafından belirlenir.
+(Değişik üçüncü fıkra:RG-26/3/2021-31435) Alan başkanının talebi üzerine veya Bakanlık gerekli gördüğü takdirde kurul, olağanüstü toplantıya çağırılabilir. Kurul salt çoğunlukla toplanır ve toplantıya katılan üyelerin en az dörtte üçünün oylarıyla karar alır.
+Eşgüdüm ve denetleme kurulu, yönetim planı taslağını inceleyerek altı ay içinde onaylar ve planın uygulanmasını denetler.

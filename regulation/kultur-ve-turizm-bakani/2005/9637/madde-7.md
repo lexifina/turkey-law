@@ -1,0 +1,4 @@
+Yönetim planı
+Madde 7 — (Değişik:RG-26/3/2021-31435)
+Yönetim planı taslağı, Bakanlık tarafından atanan alan başkanının eşgüdümünde, alanın niteliğine bağlı olarak farklı meslek gruplarına mensup uzmanlardan oluşturulacak bir ekip tarafından bu Yönetmelik esaslarına göre hazırlanır.
+Plan taslağının hazırlanması öncesinde ve hazırlanma sürecinde ilgili kurum ve kuruluşların, yerel halkın, ilgili sivil toplum örgütlerinin, meslek odalarının, üniversitelerin, gerekli görülecek özel sektör temsilcilerinin ve alanda mülkiyet hakkı bulunanların katılımı ile bilgilendirme ve yönetim planına veri oluşturacak konuların belirlenmesi amacıyla ilgili tarafların katıldığı asgari iki toplantı düzenlenir. Bu toplantılar halka, mahalli idarelerce panolara asılacak ilanlarla, mahalli idarelerin internet siteleri ve sosyal medya hesapları vasıtasıyla, diğerlerine yazı ile duyurulur.

@@ -1,0 +1,5 @@
+Denetim Birimi ve görevleri
+Madde 17 — Eşgüdüm ve denetleme kurulunun denetim görevini yerine getirebilmesi amacıyla bir denetim birimi kurulabilir.
+Denetim birimi, yönetim planlarının hazırlanması ve uygulanması sürecinde görev alan denetim elemanları ve üniversitelerin mimarlık, şehir ve bölge planlama, sanat tarihi, arkeoloji, kamu yönetimi, ekonomi ve işletme bölümlerinden mezun uzman personel arasından (Değişik ibare:RG-26/3/2021-31435) Bakanlıkça görevlendirilecek en az beş üyeden oluşur.
+Denetim birimi, yönetim planlarının uygulamasını denetler. Yönetim planıyla belirlenen yönetim, koruma, sunum, tanıtım ve ziyaretçi yönetimi stratejileri doğrultusunda denetim birimince alana yönelik yapılan çalışmaların yıllık performans değerlendirmelerini yapar ve bir sonraki yılın çalışma programını hazırlayarak eşgüdüm ve denetleme kuruluna sunar.
+Denetim birimi, ilgili kamu kurum ve kuruluşları ile üçüncü kişilerden yönetim planı ve uygulaması ile ilgili her türlü bilgi ve belgeyi istemeye yetkilidir.

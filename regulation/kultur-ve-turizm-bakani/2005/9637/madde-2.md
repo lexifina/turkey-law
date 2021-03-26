@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 — Bu Yönetmelik; sit alanları, ören yerleri ve etkileşim (Ek ibare:RG-26/3/2021-31435) –geçiş sahaları ile bağlantı noktalarının yönetim alanlarının belirlenmesi, yönetim planlarının hazırlanması, onaylanması, uygulanması ve denetlenmesi ile alan yönetimini gerçekleştirmek üzere görev alacak danışma kurulu, alan başkanı, eşgüdüm ve denetleme kurulu, denetim birimi ve anıt eser kurulunun görev, yetki ve sorumluluklarının belirlenmesine ilişkin usul ve esasları kapsar.
