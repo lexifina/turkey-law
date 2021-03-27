@@ -1,0 +1,4 @@
+Yetkinin iptali
+Madde 13 – (Değişik fıkra:RG-16/10/2020-31276) Kullanıcının yetkisi, Kanun kapsamındaki şirket ve şubelerin noter tarafından düzenlenmiş azilnameyi Genel Müdürlük KEP adresine göndermesini müteakip iptal edilir. Başvuruda, Kanun kapsamındaki şirket ve şubeleri temsile yetkili kişilerce Bakanlık internet sayfasında yer alan örneğe uygun olarak noter tarafından düzenlenmiş azilname aranır.
+Kullanıcının yetkisinden feragat etmesi halinde, söz konusu durumun noter kanalıyla veya iadeli taahhütlü olarak kanun kapsamındaki şirket ve şubeye bildirildiğini tevsik eden (Değişik ibare:RG-16/10/2020-31276) belgelerin Genel Müdürlük KEP adresine gönderilmesini müteakip yetki iptal edilir.
+Fiil ehliyetinin sınırlandırıldığı, gaipliği, ölümü veya adına işlem yaptığı Kanun kapsamındaki şirket ve şubelerin tüzel kişiliğini kaybettiği öğrenilen ve gerekli görülen diğer hallerde nitelikli elektronik sertifika sahibi kişilerin yetkileri Bakanlıkça re’sen iptal edilir.

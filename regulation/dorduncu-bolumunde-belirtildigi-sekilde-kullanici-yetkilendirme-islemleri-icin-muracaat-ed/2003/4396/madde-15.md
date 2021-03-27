@@ -1,0 +1,6 @@
+Güncelleme işlemleri
+Madde 15 – (Değişik:RG-16/10/2020-31276)
+Kanun kapsamındaki şirket ve şubelerin bilgilerinde (unvan, vergi dairesi, iletişim bilgileri ve benzeri) değişiklik yapılması durumunda Genel Müdürlüğe müracaat olmaksızın Kanun kapsamındaki şirket ve şube adına kullanıcı söz konusu değişiklikleri E-TUYS’ta günceller.
+Kanun kapsamındaki şirket ve şubelerin vergi numarasında değişiklik yapılması durumunda, Kanun kapsamındaki şirket ve şubeler söz konusu değişiklikleri tevsik eden belgeleri Genel Müdürlük KEP adresine gönderir. Genel Müdürlükçe Kanun kapsamındaki şirket ve şubelerin önceki vergi numarasıyla yaptığı kullanıcı yetkileri iptal edilir. Yeni vergi numaralı Kanun kapsamındaki şirket ve şubelerin bilgilerinin güncellenmesi ve kullanıcılarının yetkilendirilmesi için 10 uncu maddenin birinci fıkrasında belirtilen belgeleri Genel Müdürlük KEP adresine gönderir.
+Faaliyetine son veren veya verilen Kanun kapsamında şirket ve şubeler söz konusu durumu tevsik eden belgeleri Genel Müdürlük KEP adresine gönderir. Genel Müdürlük Kanun kapsamındaki şirket ve şubelerin bilgisini güncelleyerek kullanıcı yetkilerini iptal eder.
+Kanun kapsamındaki şirket ve şubeler veya kullanıcılara ait diğer bilgi ve belgelerdeki değişiklikler, E-TUYS’ta güncellenir veya Genel Müdürlük KEP adresine gönderilir.

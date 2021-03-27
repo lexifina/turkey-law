@@ -1,0 +1,4 @@
+Kanun kapsamındaki şirket ve şubelerin E-TUYS’ta tanımlanması ve yetkilendirme onayı
+Madde 11 – Yetkilendirme başvurusu üzerine, Kanun kapsamındaki şirket ve şube bilgilerinin E-TUYS’akaydedilmesini ve sunulan belgelerin usulüne uygunluğunun kontrolünü müteakip, Genel Müdürlük tarafından E-TUYS aracılığıyla onay işlemleri başlatılır. Usulüne uygun olmayan başvurular işleme alınmaz.
+Genel Müdürlük, sunulan bilgi ve belgeler doğrultusunda ve/veya ilgili mevzuat çerçevesinde değişiklik ve güncelleme isteme, ek bilgi ve belge talep etme ya da kanun kapsamındaki şirket ve şubenin tanımlama ve yetkilendirme başvurusunu reddetme hakkına sahiptir.
+Genel Müdürlük, yetkilendirme talebinin sonucunu, kullanıcının beyan ettiği elektronik posta adresine bildirir. Genel Müdürlük, ulaşmayan bildirimlerden sorumlu değildir.

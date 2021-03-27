@@ -1,0 +1,79 @@
+{
+  "source_id": "7.5.4396",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞRUDAN YABANCI YATIRIMLAR KANUNU UYGULAMA YÖNETMELİĞİ",
+  "number": "4396",
+  "issuer": "dördüncü bölümünde belirtildiği şekilde kullanıcı yetkilendirme işlemleri için müracaat ederler ve belirtilen usul ve esaslar çerçevesinde işlemlerini",
+  "issuer_slug": "dorduncu-bolumunde-belirtildigi-sekilde-kullanici-yetkilendirme-islemleri-icin-muracaat-ed",
+  "path": "regulation/dorduncu-bolumunde-belirtildigi-sekilde-kullanici-yetkilendirme-islemleri-icin-muracaat-ed/2003/4396",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4396&MevzuatTertip=5",
+  "source_sha256": "403eb68aee98444457bbb860f0eecf7d54fc669c33d194405760698920873808",
+  "source_bytes": 72323,
+  "published": "2003-08-20",
+  "gazette": "25205",
+  "in_force": "2021-03-27",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-27/3/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-03-27",
+      "RG-27/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-27",
+      "27/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-16",
+      "RG-16/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-16",
+      "16/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-01",
+      "RG-1/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-01",
+      "1/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-03",
+      "RG-3/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-03",
+      "3/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2795,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.4396%20ek%204.xls",
+    "7.5.4396%20ek%205.xls",
+    "7.5.4396%20ek%206.xls",
+    "7.5.4396%20ek%207.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
