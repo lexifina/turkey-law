@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-03-27",
+  "issue": "31436",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bankacılık Hesaplarından Kaynaklanan Faiz Oranı Riskinin Standart Şok Yöntemiyle Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210327-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210327.htm",
+  "index_sha256": "fa7017ce7ab21cbc118665004dd16cc4c7f0c8000f438bba64654f9f0c183fc8",
+  "index_header": "27 Mart 2021 ... 31436 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/03/20210327.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
