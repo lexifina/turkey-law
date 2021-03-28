@@ -1,0 +1,2 @@
+Araştırma geliştirme fonları kapsamındaki mal ve hizmet alımları
+MADDE 49 – (1) Kamu kurum ve kuruluşları ile uluslararası kuruluşların araştırma ve geliştirme projeleri için sağladıkları fonlar kapsamında gerçekleştirilecek mal ve hizmet alımları, Meslek Yüksekokulunun faaliyet alanı içerisinde kalmak kaydıyla fonun tahsis amacı ve miktarı esas alınarak, fon sağlayan kurum/kuruluş ile yapılan protokol çerçevesinde belirlenecek usule göre gerçekleştirilir. Protokolde mal ve hizmet alımlarına ilişkin hüküm bulunmaması halinde bu Yönetmelik hükümleri uygulanır.

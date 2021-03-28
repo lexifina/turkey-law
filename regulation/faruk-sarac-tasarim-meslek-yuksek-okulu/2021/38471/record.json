@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 52 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-03-28",
+      "28.03.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 52 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31437",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-03-28",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Faruk Saraç Tasarım Meslek Yüksek Okulu",
+  "issuer_slug": "faruk-sarac-tasarim-meslek-yuksek-okulu",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/faruk-sarac-tasarim-meslek-yuksek-okulu/2021/38471",
+  "published": "2021-03-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38471&MevzuatTertip=5",
+  "source_bytes": 241303,
+  "source_id": "8.5.38471",
+  "source_sha256": "cdeb74cce7c943c1d107b3f213f441cdf40f30bb822172cab996ebead64d05ab",
+  "text_status": "as-enacted",
+  "title": "FARUK SARAÇ TASARIM MESLEK YÜKSEKOKULU\r\nİHALE YÖNETMELİĞİ",
+  "university_id": 362,
+  "word_count": 9067
+}

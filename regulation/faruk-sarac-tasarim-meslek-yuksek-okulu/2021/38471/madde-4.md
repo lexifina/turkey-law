@@ -1,0 +1,6 @@
+İhale ve tedarik yönetim ofisi
+MADDE 4 – (1) Meslek Yüksekokulunda, mal ve hizmet alım-satımları ile yapım, taşınmaz alım-satım, kiralama, kiraya verme, trampa, sınırlı ayni hak tesisi gibi işlemler, Meslek Yüksekokulu bünyesindeki ihale ve tedarik yönetim ofisi tarafından gerçekleştirilir.
+(2) İhaleye çıkılabilmesi için gerekli hazırlıklar ihale ve tedarik yönetim ofisi tarafından gerçekleştirilir. İhale konusu işe ilişkin tahmini bedel hesap cetveli, idari ve teknik şartnameler, sözleşme tasarısı ve diğer dokümanlar hazırlanarak ihale onay belgesine eklenir ve bu belge ihale yetkilisinin onayına sunulur.
+(3) İhale ve tedarik yönetim ofisi, doğrudan temin şeklindeki alım yöntemi için onay belgesi hazırlayıp ihale yetkilisi onayına sunar. İhale yetkilisince görevlendirilecek ihale ve tedarik yönetim ofisi çalışanları tarafından doğrudan temin amaçlı piyasada fiyat araştırması yapılarak tutanağa bağlanıp belgelerin eklenmesi suretiyle ihtiyaçlar temin edilir.
+(4) İhale ve doğrudan temin onayları, ihale dokümanları, piyasa fiyat araştırmasına ilişkin belgeler, diğer satın alma belgeleri ihale ve tedarik yönetim ofisince muhafaza edilir.
+(5) Taşınmaz satımı, kiralama, kiraya verme, trampa, sınırlı ayni hak tesisi işlemleri öncesi Mütevelli Heyetinden onay alınır.

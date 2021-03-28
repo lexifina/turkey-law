@@ -1,0 +1,6 @@
+İhale talepleri
+MADDE 5 – (1) İhtiyaçların tespitinde, verilen hizmetlerin aksamaması ve gereksiz stoklardan kaçınılması için kısa ve uzun dönem planlamaların yapılması, bu yönde gerekli tedbirlerin alınması gerekir. Meslek Yüksekokulunun stratejisine uygun olarak ihtiyaçlar tüm birimlerle birlikte planlanmalıdır.
+(2) Meslek Yüksekokulu birimleri, ihale taleplerini birim adı, tarih, işin tanımı, özelliği, ölçüsü, cinsi, miktarı, gerekçe ve acil ise belirterek ve yönetici onayını almış olarak ihale talep formuyla ihale ve tedarik yönetim ofisine iletirler.
+(3) Belirlenmiş yöntemlerle talebi yapılmamış, net olarak tanımlanmayan veya gerekli onayları alınmamış ihale talepleri işleme alınmaz.
+(4) Talep eden birim tarafından, talep edilen mal veya hizmet alımı veya yapım işine ilişkin teknik şartname ve ekleri hazırlanır ve talep ile birlikte ihale ve tedarik yönetim ofisine iletilir.
+(5) İhale ve tedarik yönetim ofisinde toplanan tüm ihale talepleri, ayrı ayrı veya birleştirilerek değerlendirilir. Stok seviyeleri, bütçeye uygunluk ve ödenek kontrolü yapılır. Gerek duyulduğunda talep sahibi birimlerin yetkililerinden, talebin yeniden incelenmesi ve varsa eksikliklerin giderilmesi istenebilir. Tamamlanan onayları alınmış, tam ve eksiksiz talepler için ihale ve tedarik yönetim ofisince ihale işlemleri başlatılır.

@@ -1,0 +1,2 @@
+İhalenin sözleşmeye bağlanması
+MADDE 44 – (1) Bu Yönetmelik kapsamında istisna edilenler hariç yapılan bütün ihaleler bir sözleşmeye bağlanır. Meslek Yüksekokulu tarafından hazırlanan sözleşmeler imza yetkisine sahip yönetici ile yüklenici tarafından imzalanır. Yüklenicinin ortak girişim olması halinde, sözleşmeler ortak girişimin bütün ortakları tarafından imzalanır. İhale/ön yeterlik dokümanında aksi belirtilmedikçe sözleşmelerin notere tescili ve onaylattırılması zorunlu değildir. İhale/ön yeterlik dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.

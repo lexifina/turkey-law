@@ -1,0 +1,5 @@
+Sözleşmenin devri
+MADDE 45 – (1) Sözleşme, Meslek Yüksekokulunun yazılı izni ile başkasına devredilebilir. Ancak devir alacaklarda ilk ihaledeki şartlar aranır. Ayrıca, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devir alınamaz. İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, kesin teminatı gelir kaydedilir.
+(2) Sözleşmenin bu Yönetmeliğe aykırı bir şekilde devredilmesi halinde, tespit tarihi itibarıyla sözleşme feshedilmiş sayılır. Bu tarihi izleyen yedi gün içinde Meslek Yüksekokulu tarafından fesih kararı alınır. Bu karar, karar tarihini izleyen beş gün içinde yükleniciye bildirilir.
+(3) İsim ve statü değişikliğinden, ticari işletmenin adı ve unvanındaki değişiklik ve işletmenin nevinde meydana gelen değişiklik anlaşılır.
+(4) Meslek Yüksekokulunun yazılı izni ile yapılan sözleşmelerin devir tarihi, devir sözleşmesinin noter tarafından onaylandığı tarihtir.
