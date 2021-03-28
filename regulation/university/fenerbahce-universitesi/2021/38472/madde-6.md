@@ -1,0 +1,18 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Uluslararası tartışma ve görüşmelere katkı sağlamak, etkinlikler ve uygulamalar düzenlemek, Merkezin amaçları doğrultusunda araştırma ve yayınlar yapmak, stratejiler geliştirmek, araştırma programları ve projeler yürütmek, uygulamalar ve projeler sonucunda elde edilen bulguları raporlamak, araştırma çalışmalarının eşgüdümünü sağlamak, uzman personel temin etmek.
+b) Spor bilimlerinde temel ve uygulamalı araştırmalar yapmak, yeni araştırma ve ölçüm yöntemleri geliştirmek, diğer kurumlar tarafından bu konularda yapılan projelere yardımcı olmak.
+c) Disiplinlerarası araştırma ve uygulama alanı olan spor bilimleri konusunda, Üniversitenin ilgili akademik birimlerinin eğitim, araştırma, uygulama ve geliştirme faaliyetlerine katılımını sağlamak.
+ç) Meta disipliner olarak toplumun tüm kesimlerinde spor bilimlerine yönelik araştırmalar ve uygulamalar yapmak, konuya ilişkin bilimsel veri tabanını oluşturmak ve ilgili kamu ve sivil toplum kuruluşlarıyla bilimsel işbirliği çerçevesinde danışmanlık faaliyetlerini sürdürmek.
+d) Spor araştırmalarında tematik destek oluşturmak için ağ ve değişim platformları sağlamak, iletişim ağları ve veri tabanlarıyla bilgiye erişim hizmetlerinden yararlanma olanakları sunmak, pilot çalışmalar yürütmek, teknik bilgi sağlamak, kurumları sertifikalandırmak.
+e) Spor bilimlerine yönelik ulusal ve uluslararası katılımlı kongre, panel, sempozyum, konferans, uzmanlık kursu gibi bilimsel aktiviteler düzenlemek ve gerektiğinde bu çalışmalarla ilgili katılım belgeleri vermek; aydınlatıcı, bilimsel nitelikte bilgilerin sözlü ve/veya yazılı olarak kamuoyuna ulaştırılmasını sağlamak ve sertifika programları düzenlemek.
+f) Spor araştırmaları temalı bilimsel proje yarışmaları düzenleyerek bilimsel çalışmaları teşvik etmek ve bu çalışmaların yaygınlaştırılmasını sağlamak.
+g) Sportif branşlarda federasyonlarla koordineli olarak ulusal ve uluslararası yarışmalar ve etkinlikler organize etmek.
+ğ) Yurt içinde ve yurt dışında benzer amaçlar için çalışan merkez ve kurumlarla işbirliği yapmak, bilgi alışverişinde bulunmak ve bilimsel ziyaretler gerçekleştirmek.
+h) Spor bilimlerine yönelik ihtiyaçların analizi ve sorunların azaltılması yönünde çalışmalar yapmak, çocuk, genç ve dezavantajlı grupların spora yönlendirilmesinde gerekli ölçme ve değerlendirmeleri yapmak, araştırmalar yoluyla yaşam kalitesini arttırmada katkı sağlamak.
+ı) Profesyonel ve amatör sporcuların sportif performans gelişimlerine yönelik olarak danışmanlık yapmak, her yaş grubunu içine alan sağlıklı aktif yaşam ve beslenme için aktiviteler düzenlemek ve önermek.
+i) Takımlara ve bireylere yönelik performans analizi, oyun ve maç analizi, teknik ve taktik istatistiksel analizleri düzenlemek, performans testlerini yorumlamak ve antrenman programlarını oluşturmak.
+j) Profesyonel ve amatör sporcuların sağlık kontrollerinin, yenilenme, rehabilitasyon ve tedavilerinin yapılmasında ve performans değerlendirmelerinde Üniversitenin ilgili anabilim dalları ile işbirliği yapmak.
+k) Kulüplere, takımlara ve bireylere yönelik spor sakatlıkları ve yaralanmalarından korunma, uygun spor ekipmanı ve koruyucu araç-gereç kullanımı konularında eğitim ve danışmanlık hizmetleri vermek.
+l) Özel gruplar ve engellilerde sosyal ve sportif rehabilitasyon programları geliştirmek, uygulamak ve bu amaçlar doğrultusunda ekipman desteği sağlamak.
+m) Spor yaralanmalarının tedavisinden öte, yaralanmaların önlenmesine yönelik çalışmalarda bulunmak, yaralanmış sporcuların spora dönüş dönemlerinde destek olmak, bölge spor adamları ve sporcularına sağlık desteği hizmeti sunmak.
