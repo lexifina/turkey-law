@@ -1,0 +1,8 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Elektrikli, otonom veya insansız kara, deniz, hava ve uzay araçlarının geliştirilmesi ile ilgili konularda ulusal ve uluslararası düzeyde rekabetçi ve dışa bağımlılığı azaltan Ar-Ge faaliyetleri yapmak.
+b) Teknolojinin sürdürülebilir bir biçimde geliştirilmesiyle kurulacak endüstri ilişkileri çerçevesinde elektrikli, otonom veya insansız kara, deniz, hava ve uzay araçları teknolojilerinde yerli ve milli katma değerli yüksek teknoloji çözümleri üretmesini sağlamak.
+c) Elektrikli, otonom veya insansız kara, deniz, hava ve uzay araçları alanında yeni nesil yetişmiş nitelikli insan gücü ihtiyacını karşılamak üzere gereken eğitimleri tasarlamak, lisans/lisansüstü seviyelerinde programlar ve dersler oluşturulmasına katkıda bulunmak, akademik tez ve bilimsel yayın üretimini desteklemek, firmalara ve kamuya yönelik özel kurslar düzenlemek, ilgili tüm kurumsal ve uygulamalı eğitim faaliyetlerini koordine etmek.
+ç) Üretilen bilginin kullanımını yaygınlaştırmak ve farkındalığı artırmak için toplumun her kesimine yönelik ulusal ve uluslararası düzeyde paydaş platformları, eğitim programları, sertifika programları, çalıştaylar, toplantılar, seminerler, konferanslar, kongreler ve ödül programları düzenlemek ve diğer üniversitelerle iş birliği yapmak.
+d) Faaliyetlerine destek sağlamak üzere elektrikli, otonom veya insansız kara, deniz, hava ve uzay araçları konularında ortaklıklar oluşturmak, proje üretmek, iş ve hizmet modelleri geliştirmek ve uygulamak.
+e) Ulusal veya uluslararası fonlar ve destekler aracılığı ile projeler gerçekleştirmek.
