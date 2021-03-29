@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Merkezin çalışma alanlarında faaliyet gösteren, ulusal ve uluslararası alanda medikal ve imalat sektöründe uzman, teorik ve pratik bilgi birikimine sahip beş kişiden oluşur. Danışma Kurulu üyeleri, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl süre ile görevlendirilir. Üyelik süresi tamamlanan üye yeniden görevlendirilebilir. Üyeliğin herhangi bir sebeple boşalması halinde kalan süreyi tamamlamak üzere aynı usulle yeni üye seçilir.
+(2) Danışma Kurulu, Müdürün başkanlığında yılda en az bir kez toplanır ve tüm kararlarını toplantıya katılan üyelerin oy çokluğu ile alır.
