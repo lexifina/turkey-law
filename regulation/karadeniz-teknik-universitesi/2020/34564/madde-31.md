@@ -1,0 +1,4 @@
+Diplomalar
+MADDE 31 – (1) Fakültede aşağıdaki diplomalar verilir:
+a) Temel diş hekimliği bilimleri ön lisans diploması: İlk iki eğitim-öğretim yılındaki bütün derslerin sınavlarını başarmış olmak şartı ile diş hekimliği eğitimine başlayıp tamamlayamayan öğrencilerin ön lisans diploması alabilmesi ve meslek yüksekokullarına intibak ettirilmeleri; 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete'de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre yapılır.
+b) Diş hekimliği diploması: Fakülte akademik programında bulunan bütün dersleri, Ders Kurullarını, uygulamaları, klinik uygulama ve benzeri çalışmaları başarı ile tamamlayan öğrencilere verilir. Diplomanın şekli ve üzerinde yer alacak bilgiler Rektörlükçe düzenlenir. Diplomalar hazırlanıncaya kadar öğrenciye diplomasını alırken iade etmek üzere geçici mezuniyet belgesi verilebilir.

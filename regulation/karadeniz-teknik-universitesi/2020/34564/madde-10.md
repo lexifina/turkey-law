@@ -1,0 +1,3 @@
+Eğitim-öğretim programları ve türleri
+MADDE 10 – (1) Dersler ve Ders Kurulları; teorik, pratik, klinik uygulama, alan ve benzeri çalışma programları şeklinde verilir.
+(2) (Değişik:RG-29/3/2021-31438) Fakültede yıl esasına göre örgün eğitim ve sınıf geçme sistemi uygulanır. Tüm dersler için devam zorunludur. Ancak mesleki zorunlu dersler dışında kalan derslerden başarısız olan öğrenciler eğer devamsızlık nedeniyle başarısızlık söz konusu değilse bir üst sınıftaki derslere ve kaldığı ortak zorunlu ve seçmeli derslere kaydını yaptırır. Yıl içinde alttan aldığı bu derslerin sadece ara sınav, yılsonu ve bütünleme sınavlarına katılır.

@@ -1,0 +1,2 @@
+Sınav dallarının sonuca etkisi
+MADDE 22 – (1) Ders Kurulu sonu sınavları, Ders Kurulu yılsonu sınavı, Ders Kurulu bütünleme sınavı ve mazeret sınavlarında, öğrenci sınavda sorusu bulunan her bir bilim ya da anabilim dallarına ait puanların en az %50’sini almak zorundadır. Öğrenci bir bilim ya da anabilim dalına ait toplam puanın %50’sinin altında not aldığında, aldığı not ile o bilim ya da anabilim dalının toplam puanının %50’si arasında kalan puan farkı, sınav toplam puanından düşülür.
