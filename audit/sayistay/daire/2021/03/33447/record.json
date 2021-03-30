@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "258",
+  "decision_date": "2021-03-30",
+  "source_id": 33447,
+  "chamber": "4",
+  "ilam_number": "69",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33447/",
+  "source_sha256": "ef81495f71157cc95fb66eea7e8363c969c8301d367af6469f3f0d4d4c4d9d1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
