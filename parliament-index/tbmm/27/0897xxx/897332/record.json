@@ -1,0 +1,96 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897332,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "RAMAZAN CAN (KIRIKKALE)",
+  "summary": "Ve 64 Milletvekilinin Güvenlik Soruşturması ve Arşiv Araştırmasına Dair (2/2972) (S. Sayısı: 220)",
+  "title": "Ve 64 Milletvekilinin Güvenlik Soruşturması ve Arşiv Araştırmasına Dair (2/2972) (S. Sayısı: 220)",
+  "first_sitting_date": "2021-03-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 68,
+      "sitting": 65,
+      "sitting_date": "2021-03-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c068/tbmm27068065.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c068/tbmm27068fih.pdf",
+      "pages": [
+        "865:890",
+        "892:894",
+        "895"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 66,
+      "sitting_date": "2021-03-31",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069066.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069fih.pdf",
+      "pages": [
+        "59:67",
+        "78:79",
+        "80:85",
+        "85:87"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 67,
+      "sitting_date": "2021-04-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069067.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069fih.pdf",
+      "pages": [
+        "163"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 68,
+      "sitting_date": "2021-04-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069068.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069fih.pdf",
+      "pages": [
+        "276:296",
+        "297:299",
+        "300:317",
+        "318:328",
+        "330:335"
+      ]
+    },
+    {
+      "cilt": 69,
+      "sitting": 69,
+      "sitting_date": "2021-04-07",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069069.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c069/tbmm27069fih.pdf",
+      "pages": [
+        "484:487",
+        "487:500",
+        "501:506",
+        "507:523",
+        "531:536",
+        "537:543",
+        "547:559",
+        "563:564"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=101&v_kullanici_id=27484797",
+  "source_sha256": "c9bbea1bd4e461fb5a6fa75bef0e22b922464ba12085c30ba27ec0e4bef17f00",
+  "in_force": "2021-03-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
