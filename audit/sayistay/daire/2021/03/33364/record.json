@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "209",
+  "decision_date": "2021-03-30",
+  "source_id": 33364,
+  "chamber": "8",
+  "ilam_number": "55",
+  "item_number": 54,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33364/",
+  "source_sha256": "80f5a5f187de0347f574d8d25ee6e814387120c93bad49deda65c4223b9fce37",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
