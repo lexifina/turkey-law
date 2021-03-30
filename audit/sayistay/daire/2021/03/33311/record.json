@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "209",
+  "decision_date": "2021-03-30",
+  "source_id": 33311,
+  "chamber": "8",
+  "ilam_number": "55",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33311/",
+  "source_sha256": "02d038f7a0644b45c9c3f62ada24233571aa223d48e02c6201c89c0ad3671b17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
