@@ -1,0 +1,3 @@
+Yedek üyelere görev verilmesi
+MADDE 10 – (1) 9 uncu maddede belirtilen sebeplerle boşalan üyeliklere yedek üyeler görevlendirilir. Görevlendirilecek yedek üyenin iki ay ve daha kısa bir süre içerisinde atama, kurs, dış görev, geçici görev ve benzeri sebeplerle birlikten ayrılacağı biliniyorsa seçim derhal yenilenir.
+(2) İzin, istirahat ve benzeri nedenlerle iki aydan kısa süreli olarak görevden ayrılan asıl üyenin yerine, kasa ve muhasebe görevleri aynı üyede olmamak şartıyla kantin başkanının uygun göreceği üye görevlendirilir. Kantin başkanının ayrılması halinde ise, üyelerden en kıdemlisi ikiz görevli olarak kantin başkanlığı görevini yürütür.

@@ -1,0 +1,2 @@
+Avans
+MADDE 20 – (1) Kantin sermayesi ve geliri borç verme amacı ile kullanılamaz. Ancak, kantin başkanlığının bağlı olduğu birlik komutanının yazılı izni alınmak ve hizmetle ilgisi olmak kaydıyla içinde bulunulan ayın sonuna kadar kapatılması şartıyla avans verilebilir. Verilen avans, hizmetin bitiminde gerekli evrak düzenlenerek en geç verilen ayın sonunda kapatılır. Birinci avans kapatılmadan ikinci avans verilemez. Birliğe verilmiş avans, yılsonu kapanış bilânçosunda devredilemez.

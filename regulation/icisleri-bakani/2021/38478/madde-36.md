@@ -1,0 +1,7 @@
+Promosyonlar
+MADDE 36 – (1) Promosyon gelirleri:
+a) Kullanılacak mal olarak alınmış ise, ilgili saymanlıkça fatura bedelleri üzerinden taşınır mal işlem belgesi kesilerek irada alınır.
+b) Satılacak mal olarak alınmış ise, kantin işletme defterine sıfır alış fiyatı üzerinden kaydedilir. Satış fiyatı, emsali malın satış fiyatı ile aynı olacak şekilde işlem yapılır, kantin bilânçosunun 2 nci maddesi “kantin gelirleri” hanesine “ticari mal promosyonu” olarak kaydedilir.
+c) Nakit olarak alınmış ise kantin bilânçosunun 2 nci maddesi “nakit promosyonu” hanesine nakit olarak kaydedilir. Ayrıca kasa defterine girdisi yapılarak, muhasebe kayıtlarına intikali sağlanır. Promosyon gelirleri, bir defada veya parça parça harcanabilir. Mali yılsonunda harcanmayan promosyon gelirleri sermayeye dahil edilir.
+ç) Bu şekilde elde edilecek gelir, öncelikle Sahil Güvenlik Komutanlığı personelinin eğitim ihtiyaçları ile birliklerin ödeneği olmayan öncelikli ihtiyaçlarının temininde ve kantin sermayesinin enflasyona karşı güçlendirilmesinde kullanılır. Promosyon bağış sözleşmeleri ile yapılan işlemlerin belge ve dayanakları, kantin heyeti tarafından teftiş evrakına dâhil edilmek üzere teftişi alan Sahil Güvenlik Komutanlığı hesap müfettişi/müfettiş yardımcılarına ibraz edilir.
+d) Promosyon gelirlerinden yapılan harcamalarında 38 inci maddede belirtilen usul ve esaslar (onay belgesi tanzimi, piyasa fiyat araştırması ve benzeri) uygulanır.

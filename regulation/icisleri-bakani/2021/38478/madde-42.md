@@ -1,0 +1,4 @@
+Üst komutanlık payları
+MADDE 42 – (1) Kantinlerin aylık bilânçoda belirtilen tüm gelirlerinden (brüt satış kârı, faiz geliri, promosyon geliri, kira geliri, konsinye geliri ve benzeri gelirler dâhil olup, üst komutanlık paylarından yapılan tahsisler ile diğer kantinlerden aktarılan nakit değerler hariç) ödeyecekleri üst komutanlık pay oranları, Sahil Güvenlik Komutanlığı tarafından tespit edilir. Tespit edilen üst komutanlık payları, kantin heyetince, bilânçonun birlik komutanı tarafından onayını müteakip her ayın en geç onuna kadar ilgili hesaba yatırılır. Havale/EFT’lerde havale/EFT masrafları kantin giderlerinden sayılır.
+(2) Üst Komutanlık paylarından kaynak tahsisine Sahil Güvenlik Komutanlığı yetkilidir.
+(3) Üst komutanlık paylarının tahsisi ve değerlendirilmesi ile tahsis edilen payların harcanmasında 33 üncü ve 38 inci maddelerde belirtilen usul ve esaslar uygulanır.

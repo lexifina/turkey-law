@@ -1,0 +1,2 @@
+Belgelerde yapılacak işlemler
+MADDE 47 – (1) Kantin ambar defteri, kantin işletme defteri, para teslim defteri, yan kuruluş işletme defteri ve kantin kasa defterinin sayfaları, malî yılbaşında numaralandırılarak kantin heyeti tarafından mühürlenir. Bilahare, ait olduğu yıl ve yaprak sayısı yazılarak, birlik komutanı tarafından onaylanır. Kantinle ilgili defter ve belgeler, teftişe tâbi evrak olduklarından kantin heyetince muhafaza edilir.

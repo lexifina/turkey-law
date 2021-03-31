@@ -1,0 +1,2 @@
+Yazar kasa/elektronik pos cihazları işlemleri
+MADDE 31 – (1) Kantinlerde yazar kasa kullanılması zorunludur. Kantin gelirlerinin yeterli olması durumunda barkod sistemi temin edilerek kullanılabilir. Yazar kasalar, elektronik pos cihazları, mesai başlangıcında kasiyerlerin huzurunda sıfırlanarak ruloları takılır. Mesai bitiminde, yazar kasa, elektronik pos cihazları rulosundaki miktar ile kasadaki nakit para ve kredili satışların slip toplamı miktarı kasa sorumlusu tarafından karşılaştırılır. Eşitlik olmaması halinde, nedenleri araştırılır.

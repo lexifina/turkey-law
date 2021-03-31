@@ -1,0 +1,5 @@
+Hesap ve tasfiye teftişi ile iç denetim
+MADDE 53 – (1) Hesap teftişi; kantinin bir hesap yılı içerisindeki faaliyetlerinin ve bütün gelir gider belgelerinin incelenerek kesin sonuca varılması amacı ile yapılır.
+(2) Tasfiye teftişi; kantin başkanlığının faaliyetine son vermesi, bu amaçla teftişe tabi kantinlerin zimmetindeki taşınır veya taşınmaz mallarını, sermayelerini ve varlıklarını başka bir kantine, vardiya yatakhanelerine, eğitim ve kongre merkezlerine, gazinolara ve moral eğitim merkezlerine; tamamen devretmesi, zimmet veya sermaye yönünden sıfıra indirilmesi maksadıyla yapılır.
+(3) Hesap ve tasfiye teftişleri Sahil Güvenlik Komutanlığı müfettiş ve müfettiş yardımcıları tarafından ilgili mevzuatta belirlenen usul ve esaslara göre yapılır.
+(4) İç denetim; kaynakların ekonomiklik, etkililik ve verimlilik esaslarına göre yönetilip yönetilmediğini değerlendirmek ve rehberlik etmek maksadıyla Sahil Güvenlik Komutanlığı İç Denetçileri tarafından ilgili mevzuatta belirlenen iç denetim standartlarına uygun olarak yapılır.

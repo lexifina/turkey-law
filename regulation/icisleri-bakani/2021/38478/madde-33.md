@@ -1,0 +1,3 @@
+Hâsılatın değerlendirilmesi
+MADDE 33 – (1) Satışlardan elde edilen hâsılat ve kantinin nakdi sermayesi kantinin bulunduğu il ve ilçede bulunan bir kamu sermayeli bankanın şubesinde; kamu sermayeli bankaların şubesinin bulunmadığı il veya ilçede ise kantin heyetince belirlenecek mali bünyesi güçlü ve yüksek getiri sağlayan bir mevduat bankası şubesinde kantin heyeti adına açılacak Türk Lirası cinsinden bir hesaba yatırılır. Bankadan para çekme işlemi kantin başkanı ve muhasip üyenin çift imzası ile yapılır.
+(2) Kantin paraları, birliğin bulunduğu il ve ilçede banka şubesi olmadığı takdirde birlik komutanınca belirlenecek para kasasında muhafaza edilir.

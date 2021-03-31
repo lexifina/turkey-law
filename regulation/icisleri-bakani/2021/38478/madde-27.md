@@ -1,0 +1,2 @@
+İzin ve yetki belgeleri
+MADDE 27 – (1) Kantinlerde “Tütün, tütün mamulleri, makaron, yaprak sigara kağıdı, sigara filtresi, alkol ve alkollü içkilerin üretim, satış ve sunum faaliyetlerine ilişkin izin ve yetki belgeleri” alınmak koşuluyla tütün mamullerinin satışı yapılabilir. Sözleşmeli erbaş/erler ile erbaş/erlerin istifade etmediği kantin, kantin şubeleri veya yan işletmelerde alkollü içki satışı yapılabilir.

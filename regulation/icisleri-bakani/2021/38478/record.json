@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38478",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL GÜVENLİK KOMUTANLIĞI KANTİN YÖNETMELİĞİ",
+  "number": "38478",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38478",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38478&MevzuatTertip=5",
+  "source_sha256": "50ce5241191c7032ed352b91ff9b93460ebd6b3dad20ebb9ced03c879f7afd95",
+  "source_bytes": 132307,
+  "published": "2021-03-31",
+  "gazette": "31440",
+  "in_force": "2021-03-31",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (31.03.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8855,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38478-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
