@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49450",
+  "decision_date": "2021-03-31",
+  "source_id": 26686,
+  "chamber": "6",
+  "file_number": "46908",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26686/",
+  "source_sha256": "e4db22b3d15883545d2c0373ae7c00db5f594ec79f2542358033dc590e919507",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
