@@ -1,0 +1,29 @@
+{
+  "number": "43",
+  "number_as_published": "2021/43",
+  "year": 2021,
+  "month": 3,
+  "title": "Alemdar Mahallesi, 36 Ada 14 Parsel, 38 Ada 11, 19 Ve 68 Parsel, 41 Ada 11, 12 Ve 13 Parsellere İlişkin TEKLİF-34224471 Plan İşlem Numaralı 1/1000Ölçekli Koruma Amaçlı Uygulama İmar Planı Değişikliği",
+  "decision_date": null,
+  "index_date": "2021-03-31",
+  "date_precision": "month",
+  "period": "Mart 2021",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2021&ay=3",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/202143/361",
+  "official_document": null,
+  "source_sha256": "b1b9d4287b426f4e611986e8d55a7ebf5313aae99ef219e843e15f053aaef821",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2021-03-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mart 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2021-03"
+}
