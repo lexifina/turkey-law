@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10827",
+  "decision_date": "2021-03-31",
+  "source_id": 34118,
+  "chamber": "1",
+  "ilam_number": "97",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34118/",
+  "source_sha256": "9602b94bb10eb2f43870824530cb1c49448e4fb1ead88485eea6bdd0820972fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
