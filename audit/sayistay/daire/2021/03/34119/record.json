@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10827",
+  "decision_date": "2021-03-31",
+  "source_id": 34119,
+  "chamber": "1",
+  "ilam_number": "97",
+  "item_number": 6,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34119/",
+  "source_sha256": "e761a52fb64090cf35845af1d951e2676b03d950148a90b8015d749d5e0e736b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
