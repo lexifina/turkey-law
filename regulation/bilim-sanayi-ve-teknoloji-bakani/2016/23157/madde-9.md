@@ -1,0 +1,5 @@
+Dış gürültü seviyesinin ölçülmesi
+MADDE 9 – (1) Teknik servisler; EK III’ün 1.3.1 maddesinde belirtilen test koşulları ve yöntemleri uyarınca hareket halinde pnömatik lastikli T kategori ve lastik dokulu paletli C kategori tarım ve orman araçlarının dış gürültü seviyelerini, tip onayının amaçları bakımından ölçer.
+(2) EK III’ün 1.3.2 maddesinde belirtilen test koşulları ve yöntemleri aynı zamanda sabit halde (durur vaziyette) T kategori ve lastik dokulu paletli C kategori araçlar için uygulanır ve ilgili sonuçlar EK III’ün 1.3.2.4 maddesi hükümleri uyarınca teknik servisler tarafından kaydedilir.
+(3) Teknik servisler; EK III’ün 1.3.2 maddesinde belirtilen sabit test koşulları ve yöntemleri uyarınca zincir paletli C kategori tarım ve orman araçlarının dış gürültü seviyelerini, tip onayının amaçları bakımından ölçer.
+(4) EK III’ün 1.3.3 maddesinde belirtilen test koşulları ve yöntemleri aynı zamanda, zincir paletli C kategori araçlara uygulanır ve ilgili sonuçlar teknik servisler tarafından kaydedilir.

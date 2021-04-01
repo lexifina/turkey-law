@@ -1,0 +1,14 @@
+Kirletici emisyonlarına ve dış gürültü seviyelerine ilişkin genel şartlar
+MADDE 4 – (1) İmalatçılar, EK I ve EK II’de belirtilen kirletici emisyonları ile ilgili şartlara ve EK III’te belirtilen dış gürültü seviyeleri hakkındaki şartlara uymak zorundadır.
+(2) Egzozdan çıkan kirletici emisyonları ve dış gürültü seviye şartlarına ilişkin tip onayı, onay kuruluşu tarafından farklı araç varyantları, versiyonları ve motor tipleri ve ailelerini kapsayacak şekilde genişletilebilir. Ancak bu durumda araç varyantı, tahrik ünitesi ve kirlilik kontrol sistemi parametrelerinin, AB/167/2013 Yönetmeliğinin 19 uncu maddesinin üçüncü ve dördüncü fıkrasında belirtilen seviyeler dâhilinde kalması veya eşit performansa sahip olması gerekmektedir.
+(3) İmalatçı, onaylanmış araç tipinin AB/167/2013 Yönetmeliğinin 19 uncu maddesi uyarınca piyasaya arzından sonra tarım ve orman aracının çevresel ve tahrik ünitesi performansını etkileyebilecek şekilde sistemler, aksamlar ve ayrı teknik üniteler üzerinde yapılan tüm değişiklikleri onay kuruluşuna gecikmeksizin bildirir. Raporlama yükümlülüğü aşağıdakileri kapsar.
+a) 97/68/AT Yönetmeliğinin EK II ve bu Yönetmeliğin EK I’inin 9.1 maddesinde belirtilen şekilde motor ailesine veya motor tipine ilişkin parametreler,
+b) 97/68/AT Yönetmeliğinin EK I’inin 6.10 maddesi ve bu Yönetmeliğin EK I’inin 9.1.10 maddesi ile EK II’sinin 3.3 maddesinde tarif edilen şekilde motorun kirletici egzoz emisyonları son işleme sistemi,
+c) EK III’te verilen şartlar uyarınca araca ait dış gürültü emisyonları azaltma sistemi.
+(4) İmalatçı; birinci, ikinci ve üçüncü fıkralar ile 14 üncü madde hükümlerine ek olarak aşağıda verilen çevresel ve tahrik ünitesi şartlarına uyar.
+a) Referans yakıtlar konusunda 120 sayılı BM/AEK Regülasyonunun 01 sayılı değişiklik serisinin Ek 7’sinde veya 97/68/AT Yönetmeliğinin EK V’inde belirtilen şartlar,
+b) Kirlilik kontrol cihazları ve değiştirilebilir kirletici kontrol cihazları konusunda 97/68/AT Yönetmeliğinin EK III İlave 5’inde belirtilen şartlar,
+c) Test ekipmanları konusunda 97/68/AT Yönetmeliğinin EK III’ünde belirtilen şartlar.
+(5) İmalatçı, onay kuruluşuna üçüncü fıkrada bahsi geçen değişikliklerin, tip onayında kanıtlanan çevresel performans ile ilişkili olarak aracın çevresel performansını etkilemediğini gösteren kanıtlar sunar.
+(6) İmalatçı, piyasaya arz edilen veya hizmete giren ve bu Yönetmeliğin 9 ila 13 üncü maddeleri uyarınca tip onayı gerekli olan değiştirilebilir kirletici kontrol cihazlarının, uygulanabilir durumlarda 97/68/AT Yönetmeliğinin EK I’inin 4.1.1 maddesinde belirtilen test prosedürleri ve ayrıntılı teknik şartlar uyarınca onaylandığını gösterir.
+(7) Değiştirilebilir kirletici kontrol cihazına sahip araçlar, orijinal kirletici kontrol cihazına sahip olan araçlarla aynı çevresel test şartlarını ve kirlilik emisyonu sınır değerlerini sağlar.

@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.23157",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM VE ORMAN ARAÇLARININ ÇEVRESEL VE TAHRİK ÜNİTESİ PERFORMANSINA YÖNELİK ŞARTLAR HAKKINDA TİP ONAYI YÖNETMELİĞİ (AB/2015/96)",
+  "number": "23157",
+  "issuer": "Bilim, Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "bilim-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/bilim-sanayi-ve-teknoloji-bakani/2016/23157",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23157&MevzuatTertip=5",
+  "source_sha256": "3f65a9fcbe4a24d70de3f6e0615e56b4ea531ebf7a431d7ef3c30ce3591fcd53",
+  "source_bytes": 46468,
+  "published": "2016-12-28",
+  "gazette": "29932 (Mükerrer)",
+  "in_force": "2021-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-01",
+      "RG-1/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-01",
+      "1/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-11",
+      "RG-11/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-11",
+      "11/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-16",
+      "RG-16/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-16",
+      "16/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2018 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2436,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23157-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
