@@ -1,0 +1,2 @@
+Diğer mekanik tehlikelere karşı korumaya uygulanan koşullar
+MADDE 27 – (1) AB/167/2013 Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (m) bendinde atıf yapılan T, C, R ve S kategori araçlar için 9 ilâ 14 üncü, 19 ve 23 üncü maddelerde sözü edilenler dışındaki aracın kontrolsüz hareketi ve sıvıları taşıyan boruların yırtılması, keskin kenarlar ve açılar, kaba yüzeylere karşı korumaya ilişkin yönler dâhil, mekaniksel tehlikelere karşı korumaya uygulanan test prosedürleri ve koşullar, bu Yönetmeliğin EK XXIV’üne uygun olarak yürütülür ve doğrulanır.

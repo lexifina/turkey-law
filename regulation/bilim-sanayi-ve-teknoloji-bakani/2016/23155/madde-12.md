@@ -1,0 +1,2 @@
+Yuvarlanmaya karşı koruyucu yapılara uygulanan koşullar; dar izli traktörlerdeki öne monte edilmiş yuvarlanmaya karşı koruyucu yapılar
+MADDE 12 – (1) AB/167/2013 Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (a) bendinde atıf yapılan (Değişik:RG-16/4/2020-31101) T2/C2, T3/C3 ve T4.3/C4.3 kategori araçlar için dar izli traktörlere dair öne monte edilmiş yuvarlanmaya karşı koruyucu yapılara uygulanan test prosedürleri ve koşulları, bu Yönetmeliğin EK IX’una uygun olarak yürütülür ve doğrulanır.

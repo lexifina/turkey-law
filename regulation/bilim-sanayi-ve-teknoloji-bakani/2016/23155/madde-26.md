@@ -1,0 +1,2 @@
+Kontrol sistemleri ve acil durum ve otomatik durdurma cihazlarının emniyet ve güvenirliği dâhil kontrol cihazlarına uygulanan koşullar
+MADDE 26 – (1) AB/167/2013 Yönetmeliğinin 18 inci maddesinin ikinci fıkrasının (l) bendinde atıf yapılan T ve C kategori araçların kontrol sistemleri ve acil durum ve otomatik durdurma cihazlarının emniyet ve güvenirliği dâhil kontrol cihazlarına uygulanan test prosedürleri ve koşulları, bu Yönetmeliğin EK XXIII’üne uygun olarak yürütülür ve doğrulanır.
