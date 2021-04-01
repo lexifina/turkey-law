@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35649",
+  "decision_date": "2021-04-01",
+  "source_id": 33952,
+  "chamber": "2",
+  "ilam_number": "93",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33952/",
+  "source_sha256": "40d15f7ac21b4bbfab8288760acb8c1f4abe13719d60d43571e9b7a730aae344",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
