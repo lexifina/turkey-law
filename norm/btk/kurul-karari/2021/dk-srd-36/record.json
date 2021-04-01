@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SRD/36",
+  "source_id": "2021/DK-SRD/36",
+  "date": "2021-02-09",
+  "title": "Fiyat Sıkıştırmasının Tespitine, Önlenmesine ve Giderilmesine İlişkin Usul ve Esaslar ve Ortalama Abone Ömrünün Belirlenmesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/4f565cca-a7be-46cf-b517-35cc2ec06ef1.pdf",
+  "source_sha256": "1e1be91efc6a2a9128751578e8f8b4f3164aafa37a20461489808452721c79a3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
