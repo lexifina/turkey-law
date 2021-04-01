@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.23590",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RÜZGÂR VEYA GÜNEŞ ENERJİSİNE DAYALI ÜRETİM TESİSİ KURMAK ÜZERE YAPILAN ÖNLİSANS BAŞVURULARINA İLİŞKİN YARIŞMA YÖNETMELİĞİ",
+  "number": "23590",
+  "issuer": "Enerji Piyasası Düzenleme Kurulu Başkanı",
+  "issuer_slug": "enerji-piyasasi-duzenleme-kurulu-baskani",
+  "path": "regulation/enerji-piyasasi-duzenleme-kurulu-baskani/2017/23590",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23590&MevzuatTertip=5",
+  "source_sha256": "f42472e16ce747da6542b8cc1615918446c5c79cf9795f6a1e4b9a2cf5823396",
+  "source_bytes": 68102,
+  "published": "2017-05-13",
+  "gazette": "30065",
+  "in_force": "2021-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-01",
+      "RG-1/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-01",
+      "1/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-08-23",
+      "RG-23/8/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-08-23",
+      "23/8/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4050,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23590-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
