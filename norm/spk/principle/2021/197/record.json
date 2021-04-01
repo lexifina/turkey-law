@@ -1,0 +1,70 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "197",
+  "decision_number": "17/551",
+  "date": "2021-04-01",
+  "title": "Kurul'un i-SPK.35/A.1 (01.04.2021 Tarihli ve 17/551 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/197",
+  "source_sha256": "5d3ac5e2f7aefddbfb490c1dd04738c4addf9921331486e67d82323592d4ef19",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 197,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: Kurul Karar Organı’nın i-SPK.35/A.1 (01.04.2021 tarihli ve 17/551 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2021-04-01",
+    "source_clauses": [
+      "Kurul Karar Organı’nın i-SPK.35/A.1 (01.04.2021 tarihli ve 17/551 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "f30bf327-6b7a-4710-8ca4-beecf0f21bcf",
+    "contentSource": "IlkeKarari",
+    "contentID": 197,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK.35/A.1 (01.04.2021 Tarihli ve 17/551 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2021-04-01T00:00:00",
+    "kurulKararTarih": "01.04.2021",
+    "kurulToplantiNo": "17/551",
+    "bultenYili": 2021,
+    "bultenNo": 17,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "2:Yatırım Hizmetleri ve Faaliyetleri;152:Paya Dayalı Kitle Fonlaması",
+    "ilgiliKonular": [
+      {
+        "key": 2,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri"
+      },
+      {
+        "key": 152,
+        "value": "Paya Dayalı Kitle Fonlaması"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/197",
+    "linkTarget": "_blank"
+  }
+}
