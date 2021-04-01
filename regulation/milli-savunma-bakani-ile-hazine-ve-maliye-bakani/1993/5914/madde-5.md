@@ -1,0 +1,2 @@
+Avans ve Kredinin Bir Başka Mutemede Devri
+Madde 5- Bir mutemet üzerindeki avans ve kredinin bir kısmı veya tamamı (Değişik ibare:RG-1/4/2021-31441) harcama yetkilisinin yazılı izni ile ikinci bir mutemede devredilebilir. Bu durumda mutemet, devralan mutemetden alacağı belgeyi (Değişik ibare:RG-1/4/2021-31441) harcama yetkilisinin izin yazısıyla birlikte (Değişik ibare:RG-1/4/2021-31441) muhasebe birimine vererek zimmetini devreder. İkinci mutemet de hesabını, 6 ncı maddede belirtilen süreler içinde (Değişik ibare:RG-1/4/2021-31441) muhasebe birimine vermekle yükümlüdür.

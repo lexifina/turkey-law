@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.5914",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLÂHLI KUVVETLERİ STRATEJİK HEDEF PLANININ GERÇEKLEŞTİRİLMESİ MAKSADIYLA YAPILACAK HARCAMALAR İÇİN VERİLEN AVANS VE KREDİ İŞLEMLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "5914",
+  "issuer": "Millî Savunma Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-hazine-ve-maliye-bakani/1993/5914",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5914&MevzuatTertip=5",
+  "source_sha256": "814ac877c5cc551a9055b093aefa44b29fbc8d572c39246e6ba21799e882cb3f",
+  "source_bytes": 34435,
+  "published": "1993-04-11",
+  "gazette": "21549",
+  "in_force": "2021-04-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-01",
+      "RG-1/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-29",
+      "RG-29/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-11-27",
+      "RG-27/11/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "1994-10-25",
+      "RG-25/10/1994",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik, 1 Ocak 1993 tarihinden geçerli olmak üzere yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1630,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5914%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

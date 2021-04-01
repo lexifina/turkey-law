@@ -1,0 +1,3 @@
+Avans Artıklarının Devri
+Madde 10- Bu kısımda yer alan hükümlere göre müteahhitlere verilen avanslardan mahsup edilemeyen artıklar ertesi yıla devredilmekle birlikte ödenekleri iptal olunur. Devredilen avans artıklarının karşılığı, yeni yılda, (Değişik ibare:RG-1/4/2021-31441) Hazine ve Maliye Bakanlığınca ilgili kuruluş bütçesinde açılacak özel bir tertibe ödenek kaydolunur.
+Devredilen avans artığı, karşılığı hizmet yerine getirilerek kanıtlayıcı belgeleri (Değişik ibare:RG-1/4/2021-31441) muhasebe birimine verildiğinde, tutarı bu maksatla devredilen ödenekten karşılanmak suretiyle, yılı bütçesine gider kaydedilerek kapatılır.
