@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35651",
+  "decision_date": "2021-04-01",
+  "source_id": 33968,
+  "chamber": "2",
+  "ilam_number": "94",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33968/",
+  "source_sha256": "3f8780c5355ac8d0b644d58ea86b630c7d1edf2c88392b50cfd0d2c7a6a8b73f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
