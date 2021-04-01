@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-ETD/90",
+  "source_id": "2021/DK-ETD/90",
+  "date": "2021-03-31",
+  "title": "Mobil Elektronik Haberleşme Hizmetleri Azami Ücret Tarifesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/3ace28e4-e627-4651-8db2-5e4373c53e58.pdf",
+  "source_sha256": "109c517c6df21966c4b0ffae4e7dcf837d9108fe338ad9cac92640dba1084b91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
