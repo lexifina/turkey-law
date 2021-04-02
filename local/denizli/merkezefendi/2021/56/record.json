@@ -1,0 +1,23 @@
+{
+  "number": "56",
+  "number_as_published": "56",
+  "year": 2021,
+  "title": "01/03/2021 tarihinde Cumhurbaşkanlığı Kabinesinde alınan kararlar çerçevesinde ve İçişleri Bakanlığı'nın 02/03/2021 tarih ve 3519 sayılı genelgesi doğrultusunda, faaliyetleri durdurulan veya pandemi süresince işleri zayıflayan işletmeler 2 Mart 2021 tarihinden itibaren faaliyetlerine yeniden başlamıştır. Çevre ve Şehircilik Bakanlığı tarafından açıklanan 15/12/2020 tarihli ve 268495 sayılı genelgenin (a) (b) bentlerine istinaden ekli listedeki işletmelerin kira şartlarının yeniden değerlendirmesinin, incelenmek üzere Plan ve Bütçe Komisyonuna havale edilmesine, 02/04/2021 tarihinde oybirliğiyle karar verildi.",
+  "decision_date": "2021-04-02",
+  "source": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2021-4-9---NISAN-AYI-MECLIS-KARAR-OZETLERI",
+  "official_document": null,
+  "source_sha256": "c8250d1dc5e6e41951b39e857df8ff799e80956b7181658dd74ad5ff64f9d549",
+  "issuer": "Merkezefendi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2021-04-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 2.04.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.merkezefendi.bel.tr/meclis-karar.aspx?karar=2021-4-9---NISAN-AYI-MECLIS-KARAR-OZETLERI",
+  "record_scope": "one council decision (published decision summary)"
+}
