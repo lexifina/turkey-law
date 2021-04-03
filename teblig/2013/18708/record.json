@@ -1,0 +1,72 @@
+{
+  "source_id": "9.5.18708",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GEÇİCİ VE YABANCI PLAKALI TAŞITLARDAN ALINACAK GEÇİŞ ÜCRETLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 68)",
+  "number": "18708",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "path": "teblig/2013/18708",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18708&MevzuatTertip=5",
+  "source_sha256": "734c48d093304f2109c12342ecec95eafec65381c80ba62126d1ac6a463603a2",
+  "source_bytes": 27887,
+  "published": "2013-08-07",
+  "gazette": "28731",
+  "in_force": "2021-04-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-03",
+      "RG-3/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-03",
+      "3/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-02",
+      "RG-2/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-02",
+      "2/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-02-21",
+      "RG-21/2/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-02-21",
+      "21/2/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, 1/9/2013 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
