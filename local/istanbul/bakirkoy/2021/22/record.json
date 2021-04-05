@@ -1,0 +1,23 @@
+{
+  "number": "22",
+  "number_as_published": "22",
+  "year": 2021,
+  "title": "council decision",
+  "decision_date": "2021-04-05",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/29",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/22-meclis-2-baskan-vekili-05042021.pdf",
+  "source_sha256": "1b86b3770b6c872f2b687b383fefc75a01efc65d43493dfa52008dac45a76a23",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2021-04-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Nisan 2021 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
