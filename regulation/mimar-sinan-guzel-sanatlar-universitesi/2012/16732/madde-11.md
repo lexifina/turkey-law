@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu; Merkez Müdürü, iki müdür yardımcısı ve Üniversitenin öğretim elemanları arasından görevlendirilen dört kişi olmak üzere toplam yedi üyeden oluşur. Merkez Müdürü ve müdür yardımcıları dışındaki üyeler, Merkez Müdürünün önerisi ve Rektörün onayı ile görevlendirilir. Görev süresinin bitiminden önce ayrılan ya da altı aydan fazla Üniversite dışında görevlendirilenlerin yerine, kalan süreyi tamamlamak üzere Rektör tarafından yeni üye atanır.
