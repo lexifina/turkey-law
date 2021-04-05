@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/333",
+  "source_id": 7105,
+  "date": "2021-04-05",
+  "title": "“Bir sigorta şirketi tarafından işlenen kişisel verilerin üçüncü kişiye aktarılması ve ilgili kişiye veri aktarımına ilişkin aydınlatma yapılmaması” hakkında Kişisel Verileri Koruma Kurulunun 05/04/2021 tarih ve 2021/333 sayılı Karar Özeti ",
+  "source": "https://www.kvkk.gov.tr/Icerik/7105/2021-333",
+  "source_sha256": "cf4c9f630fb2e003a03bd3d6202f6d51e33e049190fefa4570f75560553ff6dd",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
