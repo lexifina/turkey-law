@@ -1,0 +1,4 @@
+Danışma Kurulu
+MADDE 14 – (1) Müdür ve müdür yardımcıları Danışma Kurulunun doğal üyeleridir. Danışma Kurulu, doğal üyelere ek olarak, fizyoterapi ve rehabilitasyon alanıyla doğrudan ilgisi olan ve sahip olduğu birikim ve tecrübelerinden yararlanılabilecek nitelikteki Üniversite içindeki ve dışındaki kişilerden oluşmak üzere Yönetim Kurulunun önerisi ile Rektör tarafından üç yıl süre ile görevlendirilen en çok on beş kişiden oluşur. Ayrıca, gerek görülmesi halinde, Müdürün önerisi ve Rektörün onayı ile görüş ve düşüncelerine başvurulacak en çok beş kişi daha davet edilebilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine Rektör ya da görevlendireceği bir rektör yardımcısının da katılımıyla yılda en az bir kez salt çoğunluk aranmadan toplanır.
+(3) Görev süresi bitmeden ayrılan veya altı aydan fazla süreyle başka yerde görevlendirme nedeniyle toplantılara katılamayacak olan üyelerin yerine kalan süreyi tamamlamak üzere aynı usulle yeni üyeler görevlendirilebilir.
