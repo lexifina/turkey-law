@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-04-05T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-04-05",
+  "official_number": "84974990-130[KDV.1/H-9-2020/33]-122692",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28948",
+  "source_id": "ozelge:28948",
+  "source_row_sha256": "1e36a447a85b8292d9bebc63cda712b4c60cb1bd1febb667c9debfb8065b255b",
+  "title": "Ambulans hizmetinde KDV uygulaması",
+  "version_label": "as-enacted",
+  "word_count": 1295
+}
