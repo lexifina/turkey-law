@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları, Merkezin amaçlarını gerçekleştirmek üzere Türklerin tarih içerisinde yaşadığı bütün eski ve yeni yurtlarını, bu yurtlarda yaşamış ve yaşamakta olan tüm Türk topluluklarını, Türklerin bu yurtlarda dil, tarih ve edebiyat eserleri başta olmak üzere meydana getirdikleri kültür eserlerini ve Türk kültürünün çevre kültürlerle olan münasebetlerini incelemek üzere gerçekleştirilecek her türlü çalışmalar oluşturmaktır.
