@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-04-05",
+  "issue": "31445",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Dokuz Eylül Üniversitesi Sürekli Eğitim Merkezi (DESEM) Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210405-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210405.htm",
+  "index_sha256": "b20b85ddee84ea584a8f685201863c869c5144e771cfef696955db4239d0b6c0",
+  "index_header": "5 Nisan 2021 ... 31445 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210405.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
