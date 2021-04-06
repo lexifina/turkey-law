@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "460",
+  "decision_date": "2021-04-06",
+  "source_id": 34944,
+  "chamber": "5",
+  "ilam_number": "432",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34944/",
+  "source_sha256": "c99f695616408a34e539877733ac7bcad9cee8bc340c325129b6ea01e5dbd2f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
