@@ -1,0 +1,10 @@
+Harcama Yetkilisi ve Sermaye Limiti
+İşletmenin faaliyet alanları
+MADDE 4 – (1) İşletme çalışmaları sırasında eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıda belirtilen faaliyetlerde bulunur:
+a) Yükseköğretim kurumları dışındaki kuruluşlar ile gerçek ve tüzel kişiler tarafından talep edilecek konularda; bilimsel görüş vermek, proje hazırlamak, araştırma ve benzeri hizmetleri yapmak, kurslar açmak, seminer, konferans ve sempozyum düzenlemek.
+b) Danışmanlık, plan, deney, model deneyleri, bilgi işlem organizasyonu, iş değerlendirilmesi, analiz, ölçme, muayene, teknik kontrol, kalite kontrolü, standartlara uygunluğun tetkiki, teknik bakım, ekspertiz, ölçü ayarı yapmak ve bu hizmetlere ilişkin raporları düzenlemek.
+c) Klinik, poliklinik, ameliyathane, laboratuvar ve atölyelerde, insan, hayvan, bitki ve her türlü madde, malzeme üzerinde yapılacak her çeşit muayene, analiz, deney, tahlil, ameliyat, ölçme, tetkik, tedavi, hemşirelik, hasta bakıcılık, bakım, üretim ile ilgili iş ve benzeri hizmetler yapmak ve bu amaçla yataklı, yataksız, sabit, geçici, gezici sağlık tesisleri, uygulama eczanesi, ilaç üreticilerinin çeşitli nedenlerle imha etmek istedikleri ilaçları, kimyasalları ilgili mevzuat hükümlerine göre imha etmek.
+ç) Mevcut fiziksel kapasiteyi değerlendirerek, hizmet birimlerinin faaliyet alanı ile sınırlı olmak üzere, mal ve hizmet üretmek ve Yönetim Kurulunun izni alınmak koşuluyla üretilen mal ve hizmetleri pazarlamak, satmak, satış yerleri açmak ve işletmek.
+d) Her türlü basım ve yayım hizmetlerini yerine getirmek.
+e) Yabancı dil, yabancılara Türkçe öğretimi, pedagojik formasyon, bilgi işlem, yazılım ve donanım, bilirkişilik ve arabuluculuk eğitimi gibi konularda eğitim hizmetleri faaliyetlerinde bulunmak.
+f) Üniversite sanayi işbirliği kapsamında çalışmalar yapmak, sanayi kuruluşlarınca üretilen çeşitli malların standartlara uygunluğu konusunda raporlar düzenlemek, analiz ve ölçümler yapmak, projeler hazırlamak veya uygulamak.
