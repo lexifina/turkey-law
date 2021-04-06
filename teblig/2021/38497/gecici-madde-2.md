@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) 31/12/2021 tarihine kadar, genel kurulu toplantıya çağıranlar tarafından genel kurula katılabilecekler listesi düzenlenirken geçici 1 inci madde uyarınca MKK’ye bildirilmek üzere şirkete başvuruda bulunan ancak henüz şirket tarafından MKK’ye bildirilmeyen pay sahipleri de dikkate alınır.

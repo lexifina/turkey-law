@@ -1,0 +1,3 @@
+Küçükler, kısıtlılar ve mirasçıların bildirimi
+MADDE 14 – (1) Külli halefiyete dayanan devirlerde, ilgililer tarafından hak sahipliğini gösterir belgeyle birlikte yapılacak bildirim üzerine MKK kayıtlarında gerekli değişiklik yapılır.
+(2) Mahkemece ergin kılınmayan on sekiz yaşından küçük olanlar ile kısıtlıların bu Tebliğ hükümleri uyarınca yapacağı bildirimler bunların veli, vasi veya yasal temsilcileri tarafından yerine getirilir. Bildirimlerde veli, vasi veya yasal temsilcinin adı, soyadı, vatandaşlığı, Türkiye Cumhuriyeti kimlik numarası, yabancı kimlik numarası, mavi kart numarası veya pasaport numarası ve iletişim bilgilerine de yer verilir.

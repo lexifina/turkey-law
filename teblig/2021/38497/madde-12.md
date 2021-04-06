@@ -1,0 +1,4 @@
+Şirket ve pay sahiplerinin bilgilendirilmesi
+MADDE 12 – (1) Şirket tarafından yapılan bildirim üzerine şirkete ve pay sahibine; devralan tarafından yapılan bildirim üzerine ise devralan ve devredene kaydın oluşturulduğu hususunda MKK tarafından sistemde kayıtlı telefona kısa mesaj veya elektronik posta adresine elektronik posta gönderilmek suretiyle bilgilendirmede bulunulur.
+(2) Pay sahipleri, adlarına kayıtlı olan hamiline yazılı pay senetlerine ilişkin bilgilere MKK sistemi üzerinden erişebilir ve bu kayıtlar hakkında MKK’den tevsik edici belge alabilir. MKK tarafından oluşturulan belgeler tek başına herhangi bir pay sahipliği hakkı tesis etmez.
+(3) Şirket ve pay sahipleri daha önce bildirdikleri iletişim bilgilerinde değişiklik olması halinde bu değişiklikleri MKK’ye bildirmekle yükümlüdür. İletişim bilgisinin güncelliğinden ilgili şirket veya pay sahibi sorumludur.

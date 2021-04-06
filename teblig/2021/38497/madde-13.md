@@ -1,0 +1,4 @@
+Hacze ve tedbire konu edilen paylar
+MADDE 13 – (1) Muhafaza altına alınmak suretiyle icra müdürlüklerince veya tahsil dairelerince hacze veya yargı mercilerince verilen bir karara istinaden tedbire konu edilen pay senedi hakkında ilgili merciin senet üzerinde yer alan ve MKK tarafından üretilen tekil numarayı içerecek şekilde şirkete yapacağı bildirim üzerine MKK nezdinde gerekli kayıt şirket tarafından oluşturulur. Bu kayıtlar ilgili merciin bildirimi üzerine aynı usulle sistemden kaldırılır.
+(2) İlgili merci tarafından aksi yönde bir karar verilmedikçe haczedilen veya tedbire konu edilen pay senedine ilişkin olarak devir bildirimi kaydedilemez.
+(3) 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu uyarınca elkonulan hamiline yazılı paylara ilişkin bildirim elkoyma işlemini uygulayan merci tarafından bu maddenin birinci fırkasında belirtilen bilgiler ile birlikte MKK’ye yapılır ve gerekli kayıt MKK tarafından oluşturulur.

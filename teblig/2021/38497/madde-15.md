@@ -1,0 +1,2 @@
+Ücret
+MADDE 15 – (1) Bu Tebliğ uyarınca MKK tarafından verilecek hizmetlerden, tahakkuk edecek vergilerle birlikte Ek-1’de belirtilen ücretler alınır. Bu ücretler, her yıl Türkiye İstatistik Kurumu tarafından Türkiye geneli için hesaplanan Tüketici Fiyat Endeksi ve Yurtiçi Üretici Fiyat Endeksinin, Aralık ayına ilişkin yıllık değişim oranlarının aritmetik ortalaması oranında artırılır. Yapılan hesaplama sonucunda tespit edilen tutarlarda tam sayıdan sonraki küsuratlar dikkate alınmaz.

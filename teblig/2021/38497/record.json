@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38497",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HAMİLİNE YAZILI PAY SENETLERİNİN MERKEZİ KAYIT KURULUŞUNA BİLDİRİLMESİ VE KAYIT ALTINA ALINMASI HAKKINDA TEBLİĞ",
+  "number": "38497",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38497",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38497&MevzuatTertip=5",
+  "source_sha256": "21a2ee37fa793340c19bc96a4495e85cd6605ca458ad363833d2434223cf58f3",
+  "source_bytes": 36714,
+  "published": "2021-04-06",
+  "gazette": "31446",
+  "in_force": "2021-04-06",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (06.04.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2020,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38497-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
