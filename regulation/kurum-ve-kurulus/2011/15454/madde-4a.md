@@ -1,0 +1,3 @@
+MADDE 4/A – (Ek:RG-15/10/2014-29146)
+(1) Vergi incelemelerinde etkinlik, verimlilik, koordinasyon ve uygulama birliğinin sağlanması amacıyla aynı konu, sektör veya mükellef grubuna yönelik olarak yapılan incelemeler neticesinde Vergi Müfettişleri tarafından düzenlenen vergi inceleme raporlarını değerlendirmek üzere, Başkan tarafından belirlenen, meslekte on yılını tamamlamış Vergi Müfettişleri arasından görevlendirilecek en az üç asil ve yeterli sayıda yedek üyeden müteşekkil rapor değerlendirme komisyonları oluşturulabilir.
+(2) İhtiyaca göre oluşturulacak rapor değerlendirme komisyonu sayısı ile bu komisyonlar tarafından değerlendirilecek raporlara ilişkin konu, sektör veya mükellef grupları Başkanlık tarafından belirlenir.

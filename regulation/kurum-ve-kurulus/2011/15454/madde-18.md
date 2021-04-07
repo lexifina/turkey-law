@@ -1,0 +1,6 @@
+ALTINCI BÖLÜM
+Çeşitli ve Son Hükümler
+Merkezi Rapor Değerlendirme Komisyonu tarafından doğrudan değerlendirilecek raporlar
+MADDE 18 – (1) Vergi Müfettişleri tarafından yapılan vergi incelemeleri neticesinde, bir vergi türü ve vergilendirme dönemi için düzenlenen vergi inceleme raporunda tarhı öngörülen vergi tutarının, 10 milyon TL’yi aşması halinde, söz konusu rapor, doğrudan Merkezi Rapor Değerlendirme Komisyonunca değerlendirilir. Bu tutar, her yıl bir önceki yıla ilişkin olarak Kanun uyarınca belirlenen yeniden değerleme oranında artırılır. Bu hesaplamada yüz bin TL’ye kadar olan küsuratlar dikkate alınmaz.
+(2) Vergilendirme dönemi bir yıldan daha kısa olan vergi türlerine ilişkin düzenlenen vergi inceleme raporlarında, birinci fıkrada belirtilen sınır tespit edilirken o vergi türü için tarhı öngörülen vergi tutarlarının yıllık toplamı dikkate alınır.
+(3) Yapılan vergi incelemesi neticesinde düzenlenen bir vergi inceleme raporunun, doğrudan Merkezi Rapor Değerlendirme Komisyonunca değerlendirilmesinin gerekmesi halinde, aynı inceleme görevi nedeniyle ilgili mükellef nezdinde düzenlenen diğer vergi inceleme raporlarının da Merkezi Rapor Değerlendirme Komisyonunca değerlendirilmesi esastır.

@@ -1,0 +1,5 @@
+Merkezi Rapor Değerlendirme Komisyonu
+MADDE 6 – (1) Vergi Müfettişlerince düzenlenen raporlara ilişkin olarak Vergi Müfettişleri ile rapor değerlendirme komisyonları arasında uyuşmazlığa konu raporların üst değerlendirme mercii, Merkezi Rapor Değerlendirme Komisyonudur.
+(2) Merkezi Rapor Değerlendirme Komisyonu, Vergi Denetim Kurulu Başkanlığı bünyesinde Başkan tarafından belirlenen, bir Başkan Yardımcısının başkanlığında dört (Değişik ibare:RG-7/4/2021-31447) daire başkanından oluşan toplam beş üyeden oluşur. Başkanlık, ihtiyaçlar ölçüsünde birden fazla komisyon kurabilir.
+(3) Vergi Müfettişleri ile ilgili rapor değerlendirme komisyonları arasında uyuşmazlığa konu raporların, bir üst değerlendirme mercii olarak Merkezi Rapor Değerlendirme Komisyonunda görüşüldüğü toplantılara, raporu düzenleyen Vergi Müfettişi ile arasında uyuşmazlık bulunan rapor değerlendirme komisyonu üyeleri, üye olarak katılamazlar.
+(4) (Ek:RG-7/4/2021-31447) Başkanlık, Merkezi Rapor Değerlendirme Komisyonunun iş ve işlemlerinin yürütülmesine yardımcı olmak ve Komisyona görüş sunmak üzere yeterli sayıda Vergi Müfettişini raportör olarak görevlendirebilir.

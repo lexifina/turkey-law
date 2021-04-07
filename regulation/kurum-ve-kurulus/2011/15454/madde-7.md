@@ -1,0 +1,6 @@
+Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonu
+MADDE 7 – (1) Vergi incelemesi yapmaya yetkili kılınan diğer memurlarca düzenlenen raporlara ilişkin olarak incelemeyi yapan ile ilgili rapor değerlendirme komisyonları arasında uyuşmazlığa konu raporların üst değerlendirme mercii, Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonudur.
+(2) Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonu; Vergi Dairesi Başkanının başkanlığında, grup müdürleri, müdürler ve/veya vergi dairesi müdürleri arasından Vergi Dairesi Başkanı tarafından seçilecek en az iki asil ve yeterli sayıda yedek üyeden oluşur.
+(3) Vergi incelemesi yapmaya yetkili kılınan diğer memurlar ile rapor değerlendirme komisyonları arasında uyuşmazlığa konu raporların, Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonunda görüşüldüğü toplantılara, incelemeyi yapan ile arasında uyuşmazlık bulunan rapor değerlendirme komisyonu üyeleri, üye olarak katılamazlar.
+(4) Vergi Dairesi Başkanlığı kurulmayan yerlerde düzenlenen raporlara ilişkin üst değerlendirme mercii, Gelir İdaresi Başkanlığı tarafından belirlenen Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonudur.
+(5) Vergi Dairesi Başkanlığı Üst Rapor Değerlendirme Komisyonunun sekretarya hizmetleri Vergi Dairesi Başkanı tarafından belirlenecek grup müdürlüğünce yürütülür.
