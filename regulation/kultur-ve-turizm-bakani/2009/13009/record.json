@@ -1,0 +1,73 @@
+{
+  "source_id": "7.5.13009",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR YATIRIMLARININ VE GİRİŞİMLERİNİN BELGELENDİRİLMESİNE VE NİTELİKLERİNE İLİŞKİN YÖNETMELİK",
+  "number": "13009",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2009/13009",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13009&MevzuatTertip=5",
+  "source_sha256": "4a9e4f6f8251282665f9e0b5d8e3db6e34d1d3b6ce0d3e0fcf649cf91839292f",
+  "source_bytes": 86021,
+  "published": "2009-04-24",
+  "gazette": "27209",
+  "in_force": "2021-04-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-07",
+      "7/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-14",
+      "RG-14/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-14",
+      "14/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-10-16",
+      "RG-16/10/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-10-16",
+      "16/10/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-03-27",
+      "RG-27/3/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-03-27",
+      "27/3/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4092,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

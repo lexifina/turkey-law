@@ -1,0 +1,2 @@
+Belgeye işletmeci şerhine ilişkin işlemler
+MADDE 30 – (1) Kültür tesisleri bünyesinde yer alan yan üniteler, ayrı ayrı tüzel kişiler veya dernek veya vakıflar tarafından işletilebilir. Belge sahibinin ve işletmecinin birlikte yazılı talebi ve işletmeci adına ilgili kurumu tarafından düzenlenmiş işyeri açma ve çalışma ruhsatı ile başvurulması halinde belgeye, işletmeci unvanı şerh edilebilir. Tahsisli tesislerde ayrıca, kiralamaya ilişkin ilgili kurumun uygun görüşü istenilir.
