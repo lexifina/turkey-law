@@ -1,0 +1,3 @@
+Ödettirilecek tazminat miktarı
+Madde 7 – (Değişik:RG-7/4/2021-31447)
+Harp okullarında, astsubay meslek yüksekokullarında veya Millî Savunma Bakanlığı nam ve hesabına fakülte, yüksekokul ve meslek yüksekokullarında okuyan öğrencilerden idari yönden bağlı bulunduğu komutanlıktan disiplinsizlik, başarısızlık veya diğer nedenlerle ilişiği kesilenlerin/ayrılanların gördükleri öğrenim süresince bu öğrenciler için Devlet tarafından yapılan masraflar, Örnek-2’de yer alan giderleri kapsayacak biçimde maliyet hesaplaması yapılarak öğrencilere, kanuni temsilcilerine ve kefalet senedindeki miktarı aşmamak üzere kefillerine tazminat olarak ödettirilir.

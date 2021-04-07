@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.5803",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HARP OKULLARI VE ASTSUBAY MESLEK YÜKSEKOKULLARINA ALINAN ÖĞRENCİLER İLE MİLLÎ SAVUNMA BAKANLIĞI NAM VE HESABINA FAKÜLTE, YÜKSEKOKUL VE MESLEK YÜKSEKOKULLARINDA OKUYAN ÖĞRENCİLER İÇİN YÜKLENME SENEDİ DÜZENLENMESİNE VE BU OKULLARDAN ÇEŞİTLİ SEBEPLERLE AYRILACAK ÖĞRENCİLERE VEYA KEFİLLERİNE ÖDETTİRİLECEK TAZMİNATA DAİR YÖNETMELİK",
+  "number": "5803",
+  "issuer": "Millî Savunma Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/milli-savunma-bakani-ile-hazine-ve-maliye-bakani/1985/5803",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5803&MevzuatTertip=5",
+  "source_sha256": "e85ce632883764a3d31f5b15de4e051b42cc1a46c16e138c6cb16c80874e266f",
+  "source_bytes": 36369,
+  "published": "1985-09-03",
+  "gazette": "18857",
+  "in_force": "2021-04-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-7/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-07",
+      "RG-7/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-11-27",
+      "RG-27/11/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-11-29",
+      "RG-29/11/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-01-09",
+      "RG-9/1/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1557,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
