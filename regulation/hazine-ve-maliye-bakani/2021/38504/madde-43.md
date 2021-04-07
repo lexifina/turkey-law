@@ -1,0 +1,3 @@
+Genel Çalışma Raporu
+MADDE 43 – (1) Başkanlıkça, Genel Çalışma Planının ilişkin olduğu yıl sonu itibarıyla, plan dâhilinde yapılan vergi incelemeleri ile teftiş, denetim ve diğer çalışmaların değerlendirilerek Başkanlığın çalışma durum ve sonuçlarını göstermek üzere Genel Çalışma Raporu düzenlenerek Bakana sunulur.
+(2) Genel Çalışma Raporu, Genel Çalışma Planına paralel olarak hazırlanır. Çalışma sonuçlarına ilişkin Genel Çalışma Planında belirlenen hedeflerin ne ölçüde gerçekleştirildikleri, tahlil ve kıyaslama yapılarak değerlendirilir. Ayrıca aramalı incelemeler, önemli olaylar, etütler ve planda yer almayan diğer çalışmaların yıl içerisinde gerçekleşmesi halinde bunlar hakkında da açıklamalar yapılır.

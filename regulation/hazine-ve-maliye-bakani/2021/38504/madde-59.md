@@ -1,0 +1,3 @@
+Ön inceleme raporu
+MADDE 59 – (1) Memurlar ve diğer kamu görevlilerinin görevleri sebebiyle işledikleri suçlarla ilgili olarak soruşturma izni verilmesi kararında değerlendirmeye alınmak amacıyla yapılan ön inceleme sonucunda düzenlenmesi gereken rapordur. Raporun sonuç bölümünde, ileri sürülen iddialarla ilgili eylemlerin soruşturma iznini gerektirip gerektirmediği ve ulaşılan sonucun hukuki dayanağı, herhangi bir tereddüte yer vermeyecek şekilde belirtilir.
+(2) Yeterli sayıda düzenlenen ön inceleme raporları, soruşturma iznini vermeye yetkili mercie intikal ettirilmek üzere, Başkanlığa teslim edilir.

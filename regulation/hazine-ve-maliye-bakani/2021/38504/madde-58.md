@@ -1,0 +1,5 @@
+Teftiş raporları üzerine yapılacak işlemler
+MADDE 58 – (1) Cevaplı, görüş ve öneri ile genel kuruluş raporları üzerine yapılması gereken işlemlerin ilgili dairelerde izlenmesi Başkanlığa aittir.
+(2) Raporlar üzerine ilgili üst makamların uygulanmasını yerinde gördükleri işlemlere veya katılmadıkları hususlara ait bildirimler Başkanlıkça, raporu yazan Vergi Müfettişine, rapor birden fazla Vergi Müfettişine ait ise en kıdemlisine gönderilir.
+(3) Vergi Müfettişleri, yapılan tebligatı uygun ve yeterli buldukları takdirde “Görülmüştür” notu ile Başkanlığa geri gönderirler. Aksi halde konu ile ilgili görüşlerini gerekçeleriyle birlikte, en geç 15 gün içinde Başkanlığa bildirirler.
+(4) Vergi Müfettişlerinin bu yeni görüşleri karşısında dairelerin kendi tutum ve işlemlerini değiştirmemeleri halinde, Başkanlık konuyu üç kıdemli Vergi Müfettişine birlikte inceletir. Bu incelemeye ait raporu, gerekirse kendi görüşünü de ekleyerek, Bakanlık Makamına sunar ve durumu ilgili Vergi Müfettişine de bildirir. Yapılacak işleme Bakanın kararı esas olur.

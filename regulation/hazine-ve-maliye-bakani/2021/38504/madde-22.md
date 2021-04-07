@@ -1,0 +1,2 @@
+Temel eğitim seminer notunun tespiti ve sonucunun değerlendirilmesi
+MADDE 22 – (1) Temel eğitimde her bir konu veya konu grubu itibarıyla ayrı ayrı sınav yapılırken, temel eğitim sonunda da tüm konuları kapsayan genel bir sınav yapılır. Her bir konu veya konu grubu itibarıyla yapılacak sınavlardan 100 tam puan üzerinden alınan puanların aritmetik ortalamasının %40’ı ile temel eğitim sonunda genel sınavda 100 tam puan üzerinden alınan notun %60’ının toplamı temel eğitim seminer notunu oluşturur.

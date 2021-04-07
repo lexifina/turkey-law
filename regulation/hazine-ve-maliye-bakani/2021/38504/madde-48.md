@@ -1,0 +1,2 @@
+Diğer birimlerle birlikte yapılan çalışmaların koordinasyonu
+MADDE 48 – (1) 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 219 uncu maddesi kapsamındaki birimlerin denetim elemanlarının aynı Kararnamenin 228 inci maddesinin dördüncü fıkrasında sayılan konularda görevlendirilmiş olmaları halinde koordinasyon, vergi ve mali konularda Vergi Müfettişlerince, diğer konularda Bakan onayında belirlenecek birimdeki denetim elemanı tarafından sağlanır.
