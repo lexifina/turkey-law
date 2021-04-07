@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38502",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ULUSAL AJANSI DANIŞMA KURULU YÖNETMELİĞİ",
+  "number": "38502",
+  "issuer": "Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanı",
+  "issuer_slug": "avrupa-birligi-egitim-ve-genclik-programlari-merkezi-baskani",
+  "path": "regulation/avrupa-birligi-egitim-ve-genclik-programlari-merkezi-baskani/2021/38502",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38502&MevzuatTertip=5",
+  "source_sha256": "d5fe3ad6a28d725f3e5d97c094371ee318f85f141ab149e06fc051a726219023",
+  "source_bytes": 18721,
+  "published": "2021-04-07",
+  "gazette": "31447",
+  "in_force": "2021-04-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 617,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
