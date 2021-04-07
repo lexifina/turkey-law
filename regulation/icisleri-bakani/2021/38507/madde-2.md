@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Jandarma Genel Komutanlığı nam ve hesabına, 26/4/2014 tarihli ve 28983 sayılı Resmî Gazete’de yayımlanan Tıpta ve Diş Hekimliğinde Uzmanlık Eğitimi Yönetmeliği kapsamında yaptırılacak uzmanlık eğitimlerini planlayan Jandarma Genel Komutanlığı birimleri ile Jandarma ve Sahil Güvenlik Akademisini ve bu eğitimlere tabi tutulan Jandarma Genel Komutanlığı sağlık personelini kapsar.
