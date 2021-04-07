@@ -1,0 +1,5 @@
+Performans değerlendirme notlarının muhafazası ve görevli birimin sorumluluğu
+MADDE 29 – (1) Başkanlıkta her Vergi Müfettişi ve Vergi Müfettiş Yardımcısı için yapılan değerlendirmelere ilişkin olarak performans değerlendirme dosyası oluşturulur.
+(2) Performans değerlendirme dosyalarını muhafaza etmekle görevli birim ve çalışanları, edindikleri bilgileri açıklayamazlar. Bu esaslara uymadığı tespit edilenler hakkında, 657 sayılı Devlet Memurları Kanununun disiplin hükümleri uygulanır ve bir daha aynı görevde çalıştırılmazlar.
+(3) Performans değerlendirme notlarını içeren her türlü yazışma, evrak ve belgelerin sevkinde ve performans değerlendirme formlarının ve dosyalarının muhafazasında gizlilik esastır.
+(4) Başkanlık, performans değerlendirme dosyalarının elektronik ortamda oluşturulmasına yetkilidir. Bu kapsamda Başkanlık, elektronik ortamda oluşturduğu dosyalara ilişkin olarak (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıklarından ya da ilgililerden istediği her türlü belge, form ve benzeri dokümanların, belirleyeceği kurumsal elektronik posta adresine gönderilmesini isteyebilir.

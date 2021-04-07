@@ -1,0 +1,18 @@
+Çalışmaların puanlandırılması
+MADDE 22 – (1) Vergi Müfettişleri ve yetkili Vergi Müfettiş Yardımcıları, görevlendirme neticesinde yaptıkları vergi incelemelerinden, nezdinde inceleme yapılan mükellefin net satışları ile aktif büyüklüğünün aritmetik ortalamasının ve öz sermaye büyüklüklerinin, Ek-4’te yer alan sınırlara isabet eden puanları, incelemenin tam ve sınırlı olma durumuna göre alırlar.
+(2) Birinci fıkraya göre yapılan görevlendirmelerin ekip halinde yapılması durumunda, her bir ekip üyesi yapılan bütün işlerden Ek-4’te yer alan sınırlara isabet eden puanı alır.
+(3) Sahte belge veya muhteviyatı itibarıyla yanıltıcı belge kullanımına ilişkin incelemeler için 1 puan alınır. Bu kapsamda mükellefin birden fazla hesap döneminin incelenmesi durumunda her bir ilave dönem için 0,25 puan eklenir. Ancak ilave alınacak puan, 0,50 puanı geçemez.
+(4) Vergi Müfettişleri veya Vergi Müfettiş Yardımcılarına verilen teftiş ve idari soruşturma işlerinin bitirilmesiyle 20 puana kadar performans puanı verilir.
+(5) Mali Suçları Araştırma Kurulu Başkanlığından gelen işler ile mahkemeler veya savcılıklarca yapılması istenen işlerin, bir ila dördüncü fıkralar kapsamına girmemesi halinde, işin bitiminde her iş için 10 puan alınır.
+(6) Tamamlanan her bir karşıt tespit görevlendirmesi için 0,25 puan alınır.
+(7) Rapor değerlendirme komisyonunun değerlendirmesine tabi olan raporlara ilişkin işlerden, bu maddeye göre performans puanı alınabilmesi, söz konusu raporların Rapor Değerlendirme Komisyonunca değerlendirilerek puanlanmış olmasına bağlıdır.
+(8) Tarhiyat öncesi uzlaşma komisyonlarında görevlendirilenler, her mükellef başına 0,25 puan alırlar. Bu fıkra gereğince verilecek puanlar toplamı, bir takvim yılı için 20 puanı aşamaz.
+(9) Yapılan her sınav başına; giriş sınav kurulunda yer alanlar 10, yetki sınav komisyonunda yer alanlar 5, yeterlik sınav kurulunda yer alanlar 15 ve diğer sınav komisyonlarında yer alanlar 4 puan alırlar. Bu sınavların klasik yazılı yöntemle yapılması halinde puanlar iki kat olarak hesaplanır.
+(10) Temel hazırlık eğitimi, hizmet içi eğitim ve hizmet içi seminerlerde Başkanlığın görevlendirmesi ile ders verenler, ders saati başına 0,25 puan alırlar.
+(11) Konferans, seminer, panel, sempozyum, çalıştay ve toplantı gibi çalışmalara, Başkanlığın izni ile konuşmacı veya yönetici olarak katılınması durumunda, her bir görevlendirme için 2 puan alınır.
+(12) Başkanlıkça görevlendirilen ancak yukarıdaki fıkralarda sayılmayan kanun ve yönetmelik tasarılarının hazırlanması, rapor değerlendirme komisyonu üyeliği, ihbar ve inceleme taleplerini değerlendirme komisyonu üyeliği gibi çeşitli konularda yapılan görevlendirmeler ile Başkanlık emrindeki her nevi görevlendirmelerde, her ay için 10 puandan fazla olmamak üzere Başkanlıkça puan verilir. Bu fıkra gereğince verilecek puanlar toplamı, bir takvim yılı için 100 puanı aşamaz.
+(13) (Değişik ibare:RG-7/4/2021-31447) Daire Başkanı olarak görevlendirilen Vergi Müfettişleri ile Daire Başkanlıklarında Daire Başkanına yardımcı olmak üzere görevlendirilen Vergi Müfettişleri hakkında bu madde kapsamındaki performans değerlendirmesi Başkan tarafından yapılır. Bu fıkra gereğince verilecek puanlar toplamı, bir takvim yılı için 100 puanı aşamaz.
+(14) Bu maddede tanımlı olmayan diğer işler veya çalışmalar, nitelik itibarıyla en uygun işin veya çalışmanın puanlamasına tabi olur.
+(15) (Değişik:RG-24/3/2017-30017) Bakanlık, Ek-4’te yer alan sınırları %300’üne kadar artırmaya veya %25’ine kadar indirmeye yetkilidir.
+(16) (Ek:RG-24/3/2017-30017)(1) (Mülga:RG-7/4/2021-31447)
+(17) Bu maddeye göre elde edilecek puanlar, Ek-1B ve Ek-2B’de yer alan form üzerinde gösterilir.

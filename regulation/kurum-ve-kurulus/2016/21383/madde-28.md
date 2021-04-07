@@ -1,0 +1,3 @@
+Değerlendirmelerin geçerli sayılmayacağı haller
+MADDE 28 – (1) Re’sen veya yapılan itirazlar neticesinde Başkanlık tarafından yapılan veya yaptırılacak inceleme sonucunda kötü niyet veya özel maksatla gerçeğe aykırı değerlendirme yaptığı anlaşılan değerleyicinin değerlendirmesi geçersiz sayılarak varsa diğer değerleyicilerin değerlendirmesine göre, yoksa son üç yılın aritmetik ortalaması esas alınarak Başkanlıkça değerlendirilir. Üç yıldan az çalışılmış ise son iki yıl notunun aritmetik ortalamasına, iki yıldan az çalışılması durumunda ise son bir yılın notu esas alınır.
+(2) Kötü niyet veya özel maksatla performans değerlendirme formlarını gerçeğe aykırı doldurdukları veya gerçeğe aykırı değerlendirme yaptıkları anlaşılan değerleyicilerin cezai sorumlulukları saklıdır.
