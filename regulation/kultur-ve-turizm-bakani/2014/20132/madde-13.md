@@ -1,0 +1,9 @@
+Bütçe
+MADDE 13 – (1) Bütçe, bir metin ile eki cetvellerden oluşur. Bütçe metninde; gelir tahminleri ve bunların hukuki dayanakları, gider tahminleri, harcama yetkisinin devrine ilişkin esaslar ve parasal limitler ile bütçeye ilişkin diğer hususlara yer verilir.
+(2) Bütçeye bağlı cetveller şunlardır:
+a) (A) Cetveli: Gelir tahminlerini türleri itibarıyla gösterir.
+b) (B) Cetveli: Harcamalar için öngörülen ödenekleri gösterir.
+c) (C) Cetveli: Personel kadrolarını (işçi) gösterir.
+(3) Başkanlığın bütçe dönemi 1 ocak-31 aralık tarihleri arasıdır.
+(4) Başkanlıkça yıllık program ve faaliyetler dikkate alınarak hazırlanan bütçe her yıl ağustos ayı sonuna kadar Bakanlığa sunulur ve incelendikten sonra Bakan onayı ile yürürlüğe girer. Bütçe yılı takvim yılıdır, bütçe dışı harcama yapılamaz. Başkanlık yılı bütçesinde ödeneği bulunması ve Bakanın uygun görüşünün alınması kaydıyla satın alma suretiyle edinilmesi ekonomik olmayan her türlü makine-teçhizat, cihazlar ve taşıtlar ile yangınla mücadele amacıyla hava ve deniz araçlarının kiralanması veya finansal kiralama suretiyle temini; temizlik, yemek, koruma ve güvenlik ile personel taşıma hizmetleri, 16/6/2005 tarihli ve 5369 sayılı Evrensel Hizmet Kanuna göre sağlanan sabit ve ankesörlü telefon hizmetleri ile acil yardım çağrıları hizmetleri, harita, plan, proje, etüt ve müşavirlik hizmetleri, ulusal araştırma geliştirme kurumlarının süreli ve süresiz yayın alımları, orman ağaçlandırma ve amenajman işleri, kit karşılığı cihaz alımı için; süresi üç yılı geçmemek, finansal kiralama suretiyle temin edileceklerde ise dört yıl olmak üzere Başkanın onayıyla gelecek yıllara yaygın yüklenmeye girişebilir. Ödenekler arası aktarma yapmaya Başkan yetkilidir. Açılması gereken yeni tertipler ile gelir kodları, Bakanlık ile mutabakat sağlanarak açılır.
+(5) Başkanlık bütçesinde cari yıl içinde harcanmayan tutarlar bir sonraki yıl bütçesinin ilgili tertiplerine devredilir.

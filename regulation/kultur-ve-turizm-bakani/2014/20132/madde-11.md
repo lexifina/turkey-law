@@ -1,0 +1,2 @@
+Başkanlık gelirlerinin yönetimi
+MADDE 11 – (1) Başkan, Kamu Haznedarlığı Genel Tebliği çerçevesinde bankalarda hesap açmaya veya daha önce açılmış hesapları tek bir hesap altında toplamaya, her türlü bankacılık işlemlerini yapmaya ve toplanan paraların nemalandırılmasına yetkilidir. Başkan, bu yetkilerinin tamamını veya bir kısmını yazılı olmak ve sınırlarını açıkça belirlemek kaydıyla Başkan Yardımcısına devredebilir.
