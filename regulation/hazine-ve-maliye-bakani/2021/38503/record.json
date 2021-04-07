@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38503",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERGİ DENETİM KURULU DANIŞMA KOMİSYONU YÖNETMELİĞİ",
+  "number": "38503",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2021/38503",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38503&MevzuatTertip=5",
+  "source_sha256": "aee1084f40ae15eb7aabe24f50f383fdc82d4637d7d3df61b324f4839712c3c3",
+  "source_bytes": 75624,
+  "published": "2021-04-07",
+  "gazette": "31447",
+  "in_force": "2021-04-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1496,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
