@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Çeşitli Hükümler
+Sözleşme imzalanması
+Madde 31 – Tekliflerin değerlendirilmesi yapıldıktan, Bakanlık'ça tesis kurma ve işletme izni verileceği TEAŞ'a bildirildikten sonra, 26 ncı maddede öngörülen koşullar çerçevesinde başarılı teklif sahibi şartname ve sözleşmede öngörüleceği şekilde üretim şirketini oluşturur. Oluşturulan bu üretim şirketine Bakanlıkça tesis kurma ve işletme izni verildikten sonra TEAŞ tarafından sözleşme imzalanmak üzere davet edilir ve sözleşme imzalanır.
+Seçilen ve kendisine bildirim yapılan teklif sahibi sözleşme imzalamaya mecburdur. Bu mecburiyete uymadığı takdirde, başarılı teklif sahibinin geçici teminat mektubu TEAŞ adına paraya çevrilerek gelir kaydedilir ve değerlendirmede ikinci olan teklif sahibi, yukarıda belirtilen şekilde sözleşme imzalamaya çağırılır. İkinci teklif sahibi ile de sözleşme imzalanamaz ise aynı şekilde üçüncü teklif sahibi sözleşme imzalamaya çağırılır.
+TEAŞ'ın, seçilen ve kendisine bildirim yapılan teklif sahibinin sözleşme imzalama mecburiyetine uymaması halinde değerlendirmede ikinci olan, değerlendirmede ikinci olan teklif sahibinin de bu mecburiyete uymaması halinde, değerlendirmede üçüncü olan teklif sahibi ile sözleşme imzalama aşamasında teklif esasları ve şatlarının değişmemesi koşuluyla indirim isteme hakkı saklıdır.

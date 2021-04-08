@@ -1,0 +1,28 @@
+ÜÇÜNCÜ BÖLÜM
+Şartname ve Sözleşmede Yer Alması Gereken Hususlar
+Şartnamede yeralması gereken hususlar
+Madde 9 – Yap-İşlet modeli ile yapılan ihalelerdeki şartnamelerde işin özelliğine göre, özel ve teknik şartlardan başka aşağıdaki hususlar da belirtilir.
+a) İsteklilerde aranacak özellikler,
+b) Santralın yeri (yöre olarak), yakıt tipi, ünite ve toplam santral gücü,
+c) Minimum ve maksimum ünite gücü, maksimum santral kapasitesi,
+d) İhale ve teklif verme şekli, müddeti ve yeri, ihaleden vazgeçme,
+e) Önyeterlilik ve yeterlilikle ilgili şartlar,
+f) Fiyat ve teklifin geçerlilik süresi,
+g) Sözleşme fiyatlarına eskalasyon uygulanıp uygulanmayacağı,
+h) İsteklilerin yükümlülükleri,
+ı) Üretim şirketinin oluşturulma şekli,
+i) Sözleşmenin imzalanması ile ilgili ön koşullar,
+j) Hazine garantisi verilip verilmeyeceği,
+k) Geçici teminat mektubunun hazırlanması ile ilgili kurallar ve şartlar, geçici teminat miktarı ve teminat olarak nelerin kabul edilebileceği, istenebilecek diğer belgeler, geçici teminat iade şartları,
+l) Her türlü vergi, resim, harç, pay, fon ve ihale masrafları, teminat masrafları ve diğer kanuni yükümlülükler ile sözleşme süresi boyunca gerekli her türlü sigortanın üretim şirketinin sorumluluğunda olacağı,
+m) İstenen garantiler ile bu garantilerin şartları,
+n) Katma Değer Vergisinin teklif fiyatına dahil olup olmadığı,
+o) Üretim tesisinin işletmeye alınması ile ilgili olarak zamanlamada bir sınırlama olup olmadığı,
+ö) İhaleye katılacaklarda aranılan mali ve teknik yeterlilik şartları ve nitelikler,
+p) Projenin finansmanı ile ilgili olarak talep edilen bilgi ve belgeler,
+r) TEAŞ'ın 2886 sayılı Devlet İhale Kanunu'na tabi olmadığı,
+s) Kanuni ikametgah ve tebligat adresleri, yetki belgeleri,
+t) Yazışmalarda kullanılacak dilin Türkçe olacağı, Türkçe ve yabancı dilde hazırlanan şartnamenin yorumlanmasında anlaşmazlık veya çelişki olduğu takdirde Türkçe metnin esas alınacağı,
+u) Referans listeleri,
+ü) Geçici ve kesin teminatların paraya çevrilme ve TEAŞ adına gelir kaydedilme koşulları,
+v) Gerekli görülecek diğer hususlar,

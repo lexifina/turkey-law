@@ -1,0 +1,3 @@
+İzin ve Ruhsat
+Madde 30 – Tesisin başarılı geçici kabulü yapıldıktan sonra Bakanlık tarafından şirkete işletme ruhsatı verilir.
+Üretim şirketinin Bakanlıkça verilen izin ve ruhsat şartlarına uymaması halinde, sözleşmede belirtilen usulde Bakanlıkça ihtar edilir. Üretim şirketinin ihtira konu aykırı tutumunun devam etmesi halinde; tutumunu ve aykırılığa neden olan durumu düzeltmesi için üretim şirketine bir süre tanınır. Tanınacak süre sözleşmede belirtilir. Bu süre sonunda da üretim şirketince gerekli işlemin yapılmaması veya önlemin alınmaması durumunda söz konusu izin iptal edilir. Bu madde kapsamında üretim şirketine yapılan ihtarlar TEAŞ'a da bildirilir. Bu konuda 4 üncü maddenin (e) bendi hükmü de dikkate alınır.

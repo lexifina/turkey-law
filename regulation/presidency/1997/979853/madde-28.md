@@ -1,0 +1,2 @@
+Geçici ve kesin kabul
+Madde 28 – Tesisin geçici kabul işlemleri Bakanlığın uygulama esasları çerçevesinde sözleşmede yer alan hükümlere uygun olarak yapılır. Bu Yönetmelik kapsamı işlerde; üretim tesisinin kesin kabul işlemleri, geçici kabul sırasında tesbit edilen fakat sözleşmede öngörülen hükümler çerçevesinde geçici kabulün yapılmasına engel teşkil etmeyen eksik ve kusurlu işlerin tamamlanması için öngörülen süre sonunda yapılır.

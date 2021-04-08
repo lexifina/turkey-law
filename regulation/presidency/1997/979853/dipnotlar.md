@@ -1,0 +1,1 @@
+[1] 8/4/2021 tarihli ve 31448 sayılı Resmî Gazete’de yayımlanan 3794 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu fıkrada yer alan “imza sirküleri” ibaresi “sicil tasdiknamesi” şeklinde değiştirilmiştir.

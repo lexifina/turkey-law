@@ -1,0 +1,5 @@
+ALTINCI BÖLÜM
+Teklif Açma, Önyeterlilik ve Teklif Değerlendirme Komisyonlarının Oluşturulması
+Komisyonların oluşumu ve yetkilendirme
+Madde 23 – Teklif açma, önyeterlilik ve değerlendirme komisyonları TEAŞ'ın ihtisas birimlerinde çalışan, konusunda uzman elemanlardan TEAŞ Genel Müdürünün onayıyla oluşturularak yetkilendirilir. Komisyonun onayı sarısanda komisyon başkanı olarak görevlendirilecek TEAŞ Genel Müdür Yardımcısı da TEAŞ Genel Müdürünce belirlenir. Önyeterlilik ve değerlendirme komisyonları; hukuk müşavirliği ile mali işler ve finans yönetimi, ticaret, planlama, termik santralların ihalesi ve tesisi, termik santralların işletmesi, iletim şebekelerinin tesisi ve ihalesi, iletim şebekeleri işletme, iletişim, kontrol ve otomasyon, yük dağıtımı, özelleştirme ve çevre ile ilgili birimlerden en az birer elemanın katılımıyla oluşturulur.
+Teklif açma komisyonu ise; hukuk müşavirliği, ticaret, termik santralların ihalesi ve tesisi, iletim şebekelerinin tesisi ve ihalesi, özelleştirme ile ilgili birimlerden en az birer elemanın katılımıyla oluşturulur.
