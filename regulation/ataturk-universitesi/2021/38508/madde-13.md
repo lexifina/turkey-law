@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 13 – (1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine, Merkezin faaliyet alanları ile ilgili çalışmalarıyla tanınan sahasında uzman Türk ya da ilgili mevzuat hükümleri kapsamında yabancı bilim insanları, araştırmacılar, uzmanlar ve kamu kurum ve kuruluşları, sivil toplum kuruluşları ve özel sektör temsilcileri arasından Rektör tarafından üç yıl için görevlendirilen en fazla 35 kişiden oluşur. Süresi biten üyeler yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az iki kez toplanır. Toplantılara Müdür başkanlık eder. Danışma Kurulu; Merkezin danışma organı olup, kararları tavsiye niteliğindedir.
