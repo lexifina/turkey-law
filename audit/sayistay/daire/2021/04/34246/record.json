@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "462",
+  "decision_date": "2021-04-08",
+  "source_id": 34246,
+  "chamber": "5",
+  "ilam_number": "105",
+  "item_number": 14,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34246/",
+  "source_sha256": "2d89a48321e2cc3a052a157f4c7e62a56a75c87354050a7491e6e17ac65a36e0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
