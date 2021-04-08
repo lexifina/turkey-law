@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10132",
+  "decision_date": "2021-04-08",
+  "title": "17/03/2021 tarihli ve 10081 sayılı Kurul Kararının ekinde yer alan “Fiyat Farkı Tablosu” nun ekteki tablo ile değiştirilmesi",
+  "resmi_gazete_date": "2021-04-10",
+  "resmi_gazete_number": "31450",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6O9ZswjdgS4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=6O9ZswjdgS4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=m4hOfdPZYQE="
+  ],
+  "source_sha256": "a2d4dbbb8c06722a366b6b63f9e4d8604d1bfa29277741c57af51ce0f6f8359a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-08",
+  "law_text_complete": true
+}
