@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10829",
+  "decision_date": "2021-04-08",
+  "source_id": 34182,
+  "chamber": "1",
+  "ilam_number": "192",
+  "item_number": 4,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34182/",
+  "source_sha256": "a28c10a876b51da7d4c8505ff87d4d96784710a4518ebde7a201d2f2620a2506",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
