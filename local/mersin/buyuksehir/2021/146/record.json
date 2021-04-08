@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "146",
+  "decision_date": "2021-04-08",
+  "title": "MEC.KAR.(ANAMUR BAHÇELİEVLER 179 ADA 41 PARSEL).doc",
+  "listed_as": "146 MEC.KAR.(ANAMUR BAHÇELİEVLER 179 ADA 41 PARSEL).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/146-meckaranamur-bahcelievler-179-ada-41-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-nisan-2021-meclis-kararlari",
+  "listing_sha256": "dd267695409dedc13dacd1c832e33020836439abafdede4b3e70a945dc521753",
+  "meeting_title": "08 NİSAN 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
