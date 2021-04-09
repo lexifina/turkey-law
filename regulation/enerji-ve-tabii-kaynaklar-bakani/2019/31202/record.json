@@ -1,0 +1,41 @@
+{
+  "source_id": "7.5.31202",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER GÜÇ SANTRALLERİNİN PROJE VE KABUL YÖNETMELİĞİ",
+  "number": "31202",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2019/31202",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31202&MevzuatTertip=5",
+  "source_sha256": "95397088f1ae1df89d2b29cbb23900816a25de5e7c2850e9276daaaaf407296e",
+  "source_bytes": 41120,
+  "published": "2019-01-18",
+  "gazette": "30659",
+  "in_force": "2021-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"9/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-09",
+      "9/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1559,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31202-Ek.DOCX"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
