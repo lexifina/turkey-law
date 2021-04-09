@@ -1,0 +1,5 @@
+Devlet hakkının dağıtılması
+Madde 33 – (Değişik:RG-29/5/2013-28661)
+Ruhsat sahibi tarafından yatırılan Devlet hakkının %25’i il özel idare payı olarak ruhsatın bulunduğu ilin özel idaresine, %25’i ruhsatın bulunduğu en yakın köyden başlamak kaydıyla köylerin yer aldığı bölge ile sınırlı olarak altyapı yatırımlarında kullanılmak üzere faaliyet alanındaki payı oranında, doğrudan ilgili ilçe veya ilçelerin Köylere Hizmet Götürme Birlikleri hesabına, %50’si de Hazine hesabına yatırılır.
+Tahakkuk eden ve süresinde ödenmeyen Devlet hakkının, 6183 sayılı Kanun hükümlerine göre takip ve tahsil edilmek üzere, aktarılacağı il özel idareleri ve Köylere Hizmet Götürme Birliğinin payı belirtilmek suretiyle ilgili tahsil dairelerine il özel idaresince bilgi verilir ve bu Devlet hakkı 6183 sayılı Kanunun 51 inci maddesine göre gecikme zammı oranı uygulanarak tahsil edilir.
+Süresinde tahakkuk ettirilmeyen Devlet hakkına, tahakkuk ettirilmesi gereken ayın son gününden tahakkuk ettirildiği tarihe kadar geçen süre için 6183 sayılı Kanunun 51 inci maddesine göre hesaplanacak gecikme zammı oranında faiz uygulanır.

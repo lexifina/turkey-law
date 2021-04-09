@@ -1,0 +1,9 @@
+İntikal
+Madde 27 – I (a) Grubu maden ruhsatları ile ilgili hak ve yükümlülükler, miras yolu ile bir bütün olarak intikal eder. Bu haklar mirasçıların rızası olsa da bölünemez.
+Mirasçıların altı ay içinde, intikal eden haklarını bir bütün olarak kullanması ve bu hakkı aralarından maden hakkı alabilecek birine ya da maden hakkı alabilecek özel ya da tüzel kişiye devir etmek üzere il özel idaresine müracaat etmeleri zorunludur. Aksi taktirde ruhsat iptal edilir.
+Mirasçıların anlaşamamaları halinde içlerinden birinin mahkemeye müracaat etmesi ve ruhsat ile ilgili konunun yargıya intikal ettiğini gösterir bir belge ve veraset ilamı ile birlikte il özel idaresine müracaat etmesi durumunda mahkeme sonucu beklenir.
+Dava sonuçlanıncaya kadar, mahkeme, Kanuna göre durumu uygun olan birini mümessil olarak tayin eder. Ruhsatlarla ilgili hukuki sorumluluklar mirasçılara; cezai sorumluluklar mahkeme tarafından tayin edilen mümessile aittir. Mirasçıların mümessile, vekil tayin edilmiş ise vekile rücu hakları saklıdır.
+Davanın verilen altı aylık yasal süreden sonra kesinleşmesi halinde, mahkemenin ruhsat hakkını verdiği kişinin mahkeme kararı ile birlikte iki ay içinde intikal için gerekli belgelerle il özel idaresine müracaat etmesi zorunludur. Aksi halde ruhsat iptal edilerek mirasçıların Kanun ile ilgili hakları sona erer.
+Ölüm tarihinden itibaren altı ay içerisinde il özel idaresine intikal işlemleri için müracaat edilmediği takdirde, ruhsat iptal edilir. İntikal talebinin ruhsat süresi içinde yapılması zorunludur. Ancak ölüm tarihinin ruhsat süresinin son iki ayı içinde olması durumunda, Kanun ile ilgili yükümlülüklerin yerine getirilmesi için ruhsat süresi sonundan itibaren iki ay ek süre verilir.
+Ruhsat sahibinin vefatı ile intikal işlemi tamamlanıncaya kadar geçen sürede ruhsat hukukundan mirasçılar sorumludur.
+Devir ve intikal belgeleri ile gerekli harç ve teminat makbuzlarının il özel idaresine verilmesini takiben intikal işlemleri yürütülür.

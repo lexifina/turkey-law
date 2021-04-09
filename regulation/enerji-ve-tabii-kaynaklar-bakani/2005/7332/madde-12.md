@@ -1,0 +1,7 @@
+İşletme faaliyet belgeleri
+Madde 12 – (Başlığı ile birlikte değişik:RG-29/5/2013-28661)
+Ruhsat sahibi her yıl Nisan ayı sonuna kadar; Kanunun 29 uncu maddesi gereğince Ek Form-4’teki işletme faaliyet bilgi formu ile Ek Form-5’e uygun olarak hazırladığı satış bilgi formunu ve üretim yapılmış ise imalat haritasını ilgili idareye verir. Akarsu yatağı, deniz ve göllerde bulunan I. Grup (a) bendi maden işletme ruhsatlı sahalardan imalat haritası istenmez.
+Üretim yapılan ruhsat sahalarında faaliyet bilgi formu ve imalat haritası, üretim yapıldığı dönemde ruhsat sahası için atanmış olan teknik nezaretçi veya idareye verildiği tarih itibarıyla ruhsat sahası için atanmış durumda olan teknik nezaretçi tarafından imzalanır. Teknik nezaretçi imzası olmadan idareye verilen bu fıkrada sayılan belgeler geçersiz sayılır.
+İşletme faaliyetinde bulunulmaması halinde, ruhsat sahibi gerekçesini yazılı olarak idareye bildirir. Bu durumda, Kanunun 29 uncu maddesinde belirtilen belgelerden sadece satış bilgi formunun verilmesi yeterlidir.
+İlgili idare, il bazında yapılan I (a) Grubu maden üretim, satış ve Devlet hakkı miktarlarını, her yıl Haziran ayı sonuna kadar maden cinsine göre ayrı ayrı olarak Genel Müdürlüğe bildirmek zorundadır.
+Bu madde kapsamında ruhsat sahibinin yükümlülüklerini yerine getirmemesi halinde ruhsat teminatı ilgili idare adına irat kaydedilir ve yükümlülük yerine getirilinceye kadar ruhsat alanındaki faaliyet durdurulur.

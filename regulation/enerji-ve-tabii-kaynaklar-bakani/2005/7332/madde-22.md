@@ -1,0 +1,3 @@
+Sevk fişlerinin saklanması
+Madde 22 – (Değişik:RG-29/5/2013-28661)
+İlgili idareden alınan sevk fişlerinin inceleme ve denetimler esnasında istenilmesi halinde ruhsat sahibince ibraz edilmesi zorunludur. Kullanılmış sevk fişlerinin kullanıldığı tarihi takip eden takvim yılından başlayarak beş yıl süre ile saklanması gereklidir. Sevk fişlerinin herhangi bir nedenle kaybedilmesi halinde, kaybedilme tarihinden itibaren ruhsat sahibinin bu durumu en geç bir ay içinde ilanla veya resmî makamlardan alınmış bir yazı ile belgelemesi ve ilgili idareye bildirmesi zorunludur. Aksi takdirde bu durum beyanlardaki hata ve noksanlık olarak kabul edilerek işlem yapılır.

@@ -1,0 +1,3 @@
+Üretim ve sevkıyatın bildirilmemesi
+Madde 17 – (Değişik:RG-29/5/2013-28661)
+Denetim, inceleme ve ölçümler sonucunda, yaptığı üretim ve sevkiyatı bildirmediği veya eksik bildirdiği tespit edilen ruhsat sahiplerine, ödenmesi gereken Devlet hakkına ilaveten bildirilmeyen miktar için hesaplanacak Devlet hakkının on katı tutarında idari para cezası verilir. Ayrıca, bu fiil haksız yere hak iktisabı kapsamında yapılmış fiil sayılarak Kanunun 10 uncu maddesi kapsamında işlem tesis edilir. Ancak, bu kapsamda uygulanan idari para cezasına esas Devlet hakkı miktarının yıllık ruhsat harcından az olması halinde, üretilen miktar üzerinden hesaplanan Devlet hakkı tutarı esas alınır.

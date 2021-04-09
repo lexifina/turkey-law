@@ -1,0 +1,1 @@
+Geçici Madde 1 – 3213 sayılı Maden Kanununun 6 ncı maddesindeki hükümleri taşımayan taşocağı ruhsat sahipleri, bu Yönetmeliğin yayımı tarihinden itibaren altı aylık süre içinde durumlarını Kanunun 6 ncı maddesine uygun hale getirmek zorundadırlar. Aksi halde ruhsat, süresi sonunda iptal edilir.

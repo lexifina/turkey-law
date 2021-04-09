@@ -1,0 +1,4 @@
+Özel mülkiyete tabi alanlara ruhsat verilmesi
+Madde 8 – (Değişik:RG-29/5/2013-28661)
+Kendi mülkü içinde I (a) Grubu maden ruhsatı almak isteyen gerçek veya tüzel kişiler, ilgili idareye talep harcı ile müracaat ederek ruhsat talebinde bulunur. İl özel idaresince Genel Müdürlüğün uygun görüşü alınarak bu alanların yerinde tetkiki için ilgili kamu kurum ve kuruluşlarının yetkililerinden oluşan bir heyet oluşturulur. Bu heyet tetkik sonucu yazılı görüşlerini otuz gün içinde il özel idaresine bildirir. Bu süre içinde görüş bildirilmemesi olumlu görüş olarak değerlendirilir.
+İlgili kamu kurum ve kuruluşlarının yukarıdaki şekilde görüşünün alınmasını takiben uygun görülen alanlara ihale edilmeden ruhsat verilir. Özel mülkiyete tabi alanlarda mülk sahibinin izninin alınması halinde ilgili idare tarafından belirlenen muhammen bedelin yatırılmasını müteakip üçüncü şahıslara da ruhsat verilir.

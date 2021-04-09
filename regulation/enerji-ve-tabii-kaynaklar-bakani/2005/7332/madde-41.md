@@ -1,0 +1,2 @@
+Geçici tatillerde teminat iradı
+Madde 41 – Geçici tatil gerektiren durumun ortadan kalkmasından itibaren üç ay içinde ruhsat sahibi faaliyete geçmek zorundadır. Aykırı hareket edenlerin teminatı irat kaydedilerek en geç altı ay içinde faaliyete geçmesi tebliğ edilir. Verilen bu süre içerisinde faaliyete geçilmemesi halinde işletme projesinde beyan edilen üretim miktarının %10'u üzerinden Devlet hakkı alınır.

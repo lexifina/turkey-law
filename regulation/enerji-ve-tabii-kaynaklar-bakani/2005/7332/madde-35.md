@@ -1,0 +1,2 @@
+Devlet hakkının ödenmesi
+Madde 35 – Devlet hakkı her yıl Haziran ayının son günü mesai bitimine kadar ruhsat sahibi tarafından ilgili yerlere yatırılır. Yatırıldığına dair makbuzları il özel idaresine verir. Süresinde tahakkuk ettirilmeyen Devlet hakkına, tahsil edilmesi gereken ayın son gününden tahsil edildiği tarihe kadar geçen süre için 6183 sayılı Kanunun 51 inci maddesine göre gecikme zammı oranında faiz uygulanır.

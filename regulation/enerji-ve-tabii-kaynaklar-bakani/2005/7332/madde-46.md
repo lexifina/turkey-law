@@ -1,0 +1,2 @@
+Sicil kayıtlarının yazılmasında hata yapılması
+Madde 46 – Sicil kayıtlarında silinti, kazıntı, çizinti yapılmaz. Sicil kaydında bir yanlışlık yapıldığı takdirde sicil sorumlusu, il özel idare müdürünün ya da görevlendirdiği yetkili ile birlikte yapılan yanlışlığı üzeri okunabilecek şekilde çizerek, gerekli düzeltmeleri yapar. Yapılan düzeltme değişiklik defteri adı altında bir deftere tarih ve sıra numarasına göre işlenir. Bu kayıt, sicil sorumlusu ve il özel idare müdür ya da yetkilendirdiği eleman tarafından imzalanır.

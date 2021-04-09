@@ -1,0 +1,6 @@
+Denetim raporlarının hazırlanması
+Madde 24 – İnceleme ve denetimlerde faaliyet bilgi formu, projeler, sevk fişleri, satış bilgi formları ve bunlara ait kanuni defterler, makbuzlar, diğer belgeler incelenir. Mevzuat gereği her türlü inceleme ve tespit yapılır. (Ek cümle:RG-29/5/2013-28661) Her türlü denetimde çevre ile uyum planına uygun çalışılıp çalışılmadığı kontrol edilir.
+İnceleme ve denetim sonunda düzenlenen tutanak maden ruhsat sahibi veya vekili tarafından imzalanır. İmzadan imtina edilmesi ya da ruhsat ile ilgili yetkili birinin tetkik esnasında bulunmaması halinde durum tutanakla tespit edilir.
+Yapılan inceleme sonuçları, gerekçeleri ve belgeleri ile birlikte bir tutanak halinde iki kopya olacak şekilde tanzim edilir. Tutanağın aslı dosyasında saklanır, ikincisi ruhsat sahibine verilir. Bu tutanakta belirtilen hususlar ruhsat sahibine tebliğ edilmiş sayılır.
+İnceleme ve denetimler sonucu rapor kapsamında ruhsat sahibinin yükümlülükleri ve uygulanan yaptırımlar yapılacak tek tebligatla bildirilir. Bu tebligat, maden ruhsat sahibinin dosyasındaki taahhütnamesine dayalı olarak ruhsat sahibince verilmiş adrese yapılır.
+Ruhsat sahasında yapılan tetkiklere ait detay bilgileri içeren rapor hazırlanır. Ruhsat sahibinin talep etmesi durumunda bir örneği verilir.

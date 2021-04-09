@@ -1,0 +1,4 @@
+İşletme faaliyeti teminat iradı
+Madde 39 – İşletme açısından tehlikeli durumların tespiti halinde, bu halleri gidermek için ruhsat sahibine altı aya kadar süre verilir, mücbir sebepler dışında bu süre uzatılmaz. Bu süre sonunda projeye uygun faaliyette bulunulmaması veya tehlikeli durumun ortadan kaldırılmaması halinde teminat irat kaydedilerek işletme faaliyeti durdurulur.
+Ruhsat sahibi, her yıl Nisan ayı sonuna kadar bir önceki yıl içinde gerçekleştirdiği işletme faaliyetleri ile ilgili satış bilgi formunu il özel idaresine vermekle yükümlüdür. Yükümlülüğün yerine getirilmemesi halinde teminat irat kaydedilir. Yükümlülük yerine getirilinceye kadar faaliyet durdurulur.
+Beş yıllık sürede mücbir sebepler ve beklenmeyen haller dışında üç yıldan fazla üretim yapılmayan ruhsatlar, teminatları irat kaydedilerek iptal edilir.

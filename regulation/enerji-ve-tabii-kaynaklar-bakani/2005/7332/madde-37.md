@@ -1,0 +1,4 @@
+Madencilik faaliyetinde izinler
+Madde 37 – (Değişik:RG-29/5/2013-28661)
+Tarım toprağı, sit alanı, milli parklar, tabiat parkları, tabiat anıtı ve tabiatı koruma alanları, orman sayılan alanlar, mera alanları ve sulak alanlar gibi izne tabi alanlarda izin alınmadan veya ÇED, gayrisıhhi müessese izinlerinin sınıfı dışındaki izinlerle faaliyette bulunulduğunun tespiti halinde faaliyetler durdurulur. ÇED, gayrisıhhi müessese izni ve mülkiyete ait izin alınmadan faaliyette bulunulduğunun tespiti halinde üretim faaliyeti durdurulur ve teminat irat kaydedilir. Bu ihlallerin üç yıl içinde üç kez yapıldığının tespiti halinde ise teminat irat kaydedilerek ruhsat iptal edilir.
+Madencilik faaliyetleri ve/veya bu faaliyetlere bağlı tesisler için ilgili kamu kurum ve kuruluşlarından alınan izin veya görüşler, ruhsatın süresinin uzatılması halinde de geçerlidir.

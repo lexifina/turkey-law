@@ -1,0 +1,2 @@
+Röper noktaları
+Madde 14 – I (a) Grubu maden ruhsat sahibi faaliyette bulunduğu alanın yakınında faaliyet alanını görecek şekilde yaptığı haritalarda ve yapılacak denetimlerde kullanmak üzere 6 derecelik dilime esas en az iki adet beton sütun ya da benzeri röper noktası belirler. Bu noktaların kot ve koordinatları gerçek değerler kullanılarak harita tekniğine uygun hassaslıkta uygun bir ölçüm aleti ile belirlenerek arazide muhafaza edilir. Denizlerdeki bu grup madenler bu hükmün dışındadır.

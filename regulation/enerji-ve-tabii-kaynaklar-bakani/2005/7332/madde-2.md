@@ -1,0 +1,3 @@
+Kapsam
+Madde 2 – (Değişik:RG-29/5/2013-28661)
+Bu Yönetmelik; 4/6/1985 tarihli ve 3213 sayılı Maden Kanunu hükümlerine göre I (a) Grubu kapsamındaki inşaat ile yol yapımında kullanılan ve tabiatta doğal olarak bulunan kum ve çakıl, %80’in altında SiO2 içeren kum, akarsu yataklarındaki ve SiO2 oranına bakılmaksızın denizlerdeki kum, çakıl alanları ile ariyet malzemesi alanlarının ihale edilmesini, ruhsatlandırılmasını, faaliyete başlamak için alınacak izinleri, bu madenlerin işletilmesini, üretim esaslarını, işletme dönemleri işlemlerini, faaliyetlerin denetim ve kontrolünü, terk, devir ve intikal işlerini, ruhsat sahipleri tarafından düzenlenecek belgeleri, ödenecek bedelleri, maden sicili ile ilgili yapılacak usul ve esasları kapsar.
