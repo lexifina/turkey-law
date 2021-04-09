@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38509",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MERKEZ AV KOMİSYONU, İL VE İLÇE AV KOMİSYONLARININ GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38509",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38509",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38509&MevzuatTertip=5",
+  "source_sha256": "1faad5b7188a184d1e9817b06431ac61dad20ba14dc96c0b61380df9eca92d89",
+  "source_bytes": 55023,
+  "published": "2021-04-09",
+  "gazette": "31449",
+  "in_force": "2021-04-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3477,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
