@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.21558",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YETKİLENDİRİLMİŞ TÜZEL KİŞİLER İLE İLGİLİ YÖNETMELİK",
+  "number": "21558",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2016/21558",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21558&MevzuatTertip=5",
+  "source_sha256": "eedf70b392aafeffd692d5a68ecf1ac3f38f3d86a48cf6103339cf9bf40ec0c3",
+  "source_bytes": 88514,
+  "published": "2016-06-03",
+  "gazette": "29731",
+  "in_force": "2021-04-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-09",
+      "RG-9/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-09",
+      "9/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5151,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21558-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
