@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1230",
+  "date": "2021-04-10",
+  "title": "T. 10.04.2021 E. 2021/217 K. 2021/256",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1230",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=3&yil=2021",
+  "listing_sha256": "b0016c9976e277f66088bf60a27ea147ad238028664424d9b9c2e1ede39ba255",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
