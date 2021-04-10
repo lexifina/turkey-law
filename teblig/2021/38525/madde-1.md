@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici MKS Marmara Entegre Kimya Sanayi Anonim Şirketi tarafından yapılan başvuruya istinaden Çin Halk Cumhuriyeti menşeli 2915.12.00.00.12 gümrük tarife istatistik pozisyonu altında yer alan “sodyum formiat” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
