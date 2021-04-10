@@ -1,0 +1,4 @@
+Meclis Başkanı, Yardımcıları ve Kâtip Üye Seçimi
+Madde 27- Meclis, üyelerinin seçiminin kesinleşmesinden itibaren genel sekreterin çağrısı üzerine en yaşlı üyenin başkanlığında yapacağı ilk toplantıda yargı gözetiminde olmaksızın kendi üyeleri arasından dört yıl için bir başkanı ile bir veya iki başkan yardımcısı ve kâtip üyeyi gizli oy ve açık tasnif usulüyle seçer.
+Meclis başkanı ve yardımcıları, aynı zamanda yönetim ve disiplin kurulu başkan ve üyeliği görevlerini yapamaz.
+Meclis üyeliğine seçilen tüzel kişiler, meclis üyeliği seçimlerinin kesinleşmesinden itibaren bir (1) gün içinde meclis üyeliğinde tüzel kişiyi temsil edecek gerçek kişinin ismini oda veya borsaya bildirir. Bu süre içinde bildirimin yapılmaması halinde, meclis üyeliği seçimlerinde oy kullanan tüzel kişinin gerçek kişi temsilcisi, meclis başkanı, yardımcıları ve kâtip üye seçiminde oy kullanamaz.

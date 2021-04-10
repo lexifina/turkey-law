@@ -1,0 +1,2 @@
+Konsey Üyeleri Seçimi
+Madde 16- Genel Kurul delegelerinden ticaret ve sanayi odaları delegeleri Ticaret ve Sanayi Odaları Konseyinin, ticaret odaları delegeleri Ticaret Odaları Konseyinin, sanayi odaları delegeleri Sanayi Odaları Konseyinin, deniz ticaret odaları delegeleri Deniz Ticaret Odaları Konseyinin ve ticaret borsaları delegeleri Ticaret Borsaları Konseyinin otuz asil ve otuz yedek üyesini seçer. Ancak konsey üye sayısı genel kurulda temsil edilen ilgili delege sayısının yarısını geçemez.

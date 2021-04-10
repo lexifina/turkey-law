@@ -1,0 +1,3 @@
+Geçici Madde 3 – (Ek:RG 2/3/2005-25743)
+Bu Yönetmeliğin 5 inci maddesinin ikinci, üçüncü ve dördüncü fıkraları ile 6 ncı maddesinin dördüncü, beşinci ve altıncı fıkraları 2005 yılı Mart ayında yapılacak oda ve borsa organ seçimlerinde uygulanmaz.
+Bu Yönetmeliğin 18 inci maddesinin ikinci fıkrası ile 41 inci maddesinin (d) ve (e) bentlerinde düzenlenmiş bulunan; tüzel kişilerin gerçek kişi temsilcilerinin oy kullanma sırasında ibraz edecekleri, temsil ve bağlayıcı işlemler yapmaya yetkili olduklarına ilişkin belgede ahzukabza da yetkili olduklarına dair kayıtlar 2005 yılı Mart ayında yapılacak oda ve borsa organ seçimlerinde aranmaz.

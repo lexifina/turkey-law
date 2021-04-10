@@ -1,0 +1,3 @@
+Seçimlerin İptali
+Madde 23- Hâkim herhangi bir sebeple seçimi durdurduğu veya seçim sonuçlarını etkileyecek ölçüde bir usulsüzlük veya mevzuata aykırı uygulama sebebiyle seçimlerin iptaline karar verdiği takdirde, iptaline karar verilen sandıkla ilgili olarak, süresi bir aydan az, iki aydan fazla olmamak üzere seçimin yenileneceği günü tespit ederek ilgili oda veya borsa ile Birlik ve Bakanlığa bildirir.
+Seçimlerin tamamının iptali halinde, seçimler yenileninceye kadar geçen sürede, oda veya borsanın meclis ve yönetim kurulu görevini yapmak üzere Birlik tarafından üç veya beş kişilik bir kurul atanır. Bu kurulda yer alacaklar, oda ve borsa üyeleri veya personeli arasından atanabileceği gibi oda ve borsa dışından da atanabilir.

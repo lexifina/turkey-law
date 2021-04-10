@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.8104",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ İLE ODALAR VE BORSALAR ORGAN SEÇİMLERİ HAKKINDA YÖNETMELİK",
+  "number": "8104",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2005/8104",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8104&MevzuatTertip=5",
+  "source_sha256": "aa95432a221b818de19b1e26baf56e5d12cc6c3ceea879790325e5ae89cb556c",
+  "source_bytes": 139472,
+  "published": "2005-01-19",
+  "gazette": "25705",
+  "in_force": "2021-04-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-10",
+      "RG-10/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-20",
+      "RG-20/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-24",
+      "RG-24/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-14",
+      "RG-14/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-04-09",
+      "RG-9/4/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-03-02",
+      "RG-2/3/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-03-02",
+      "RG 2/3/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8634,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

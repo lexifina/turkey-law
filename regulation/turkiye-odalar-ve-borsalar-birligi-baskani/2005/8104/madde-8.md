@@ -1,0 +1,6 @@
+Vergi Mükellefiyetinin Takibi
+Madde 8- Oda ve borsalar her yılın Ocak ayı içinde vergi dairelerinden temin edecekleri, vergi mükelleflerine ve vergi mükellefiyetini sona erdirenlere ilişkin bilgiler kapsamında üyelerinin vergi kayıtlarını izlemek ve güncel halde tutmak zorundadır.
+Oda ve borsalar, üyelerinin vergi mükellefiyetlerine ilişkin olarak yapılacak ihbar ve şikâyetleri inceleyerek sonucuna göre hareket eder.
+Meslek komitesi ve meclis seçimlerinden azami üç ay, asgari bir ay önce mahalli gazetelerde ve oda ve borsanın duyuru panosunda ilan edilmek suretiyle üyeler, vergi mükellefiyetlerine ilişkin oda ve borsa kayıtlarını kontrole davet edilir. Bu ilânlarda, kayıtların incelemeye açık tutulacağı süre, kayıtların düzeltilmesi için uygulanacak yöntem ve süresinde başvurulmaması nedeniyle kayıtların düzeltilememesi halinde oda ve borsa kayıtlarının doğruluğunun üye tarafından kabul edilmiş sayılacağı hususları belirtilir.
+Vergi mükellefiyetinin sona erdiği tespit edilen üyeye durum bir yazıyla bildirilir. Bu yazı ile üye açıklama yapmaya ve bir hata varsa düzeltmeye davet olunur. Üyenin yazının tebellüğünden itibaren otuz (30) gün içinde başvurmaması veya elde edilen bilginin yanlışlığını bir belge ile tevsik etmemesi halinde oda ve borsa organlarındaki görevi kendiliğinden sona erer.
+Bu maddenin uygulanmasından yönetim kurulu sorumludur.

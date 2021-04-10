@@ -1,0 +1,1 @@
+Geçici Madde 1- 2004 yılı Ekim ayında yapılması gereken oda ve borsa organ seçimleri 2005 yılı Mart ayı içinde yapılır. 2005 yılı Mart ayında yapılacak oda ve borsa organ seçimlerinde, organ üyeliğine seçilenlerin görev süresi 2008 yılı Ekim ayında yapılacak genel seçimlere kadar devam eder.
