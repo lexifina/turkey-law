@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "211",
+  "decision_date": "2021-04-13",
+  "source_id": 33769,
+  "chamber": "8",
+  "ilam_number": "92",
+  "item_number": 27,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33769/",
+  "source_sha256": "924606a5df067a1146ea0c6c99dcdb4463836e4b2a766a7e4e5e15a57055d978",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
