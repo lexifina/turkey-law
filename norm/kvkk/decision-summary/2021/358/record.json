@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/358",
+  "source_id": 7106,
+  "date": "2021-04-13",
+  "title": "“İlgili kişiye bir banka tarafından SMS gönderilmesi ve ilgili kişinin bu banka nezdindeki kişisel verilerinin imha edilmesi talebinin yerine getirilmemesi hakkında” Kişisel Verileri Koruma Kurulunun 13/04/2021 tarihli ve 2021/358 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7106/2021-358",
+  "source_sha256": "b8b1013b597a59392fb4f3b64df0b878b1defae87021b48faa9f816eb5cb698e",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
