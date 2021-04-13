@@ -1,0 +1,20 @@
+{
+  "applicant": "M.S.D. VE S.Ç.A.",
+  "application_date": "2017-11-17",
+  "application_number": "2017/37439",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-04-13",
+  "id": "880a0b86-76c3-788a-fbb7-914df4c22634",
+  "in_force": "2021-04-13",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg4MGEwYjg2LTc2YzMtNzg4YS1mYmI3LTkxNGRmNGMyMjYzNA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "be4938cf67ad7362dee67f6edf8cab6fb29921e644405833ac07ca379fda6c54",
+  "version_label": "as-enacted"
+}
