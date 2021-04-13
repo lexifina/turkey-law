@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "211",
+  "decision_date": "2021-04-13",
+  "source_id": 33773,
+  "chamber": "8",
+  "ilam_number": "92",
+  "item_number": 31,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33773/",
+  "source_sha256": "fa5dce69dac4d4fa69c9c11511aefe209d06b4d7f360ae5a805fb1e75ad4da2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
