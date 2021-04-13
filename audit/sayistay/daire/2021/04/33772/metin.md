@@ -1,0 +1,19 @@
+Devamlı surette şehir dışında tutulan makam aracını kullanan şoföre yapılan harcırah ödemelerinin ve aracın akaryakıt giderlerinin kurum bütçesinden karşılanması
+
+… Üniversitesi’ne ait bir aracın, Rektör …’ın …seyahatlerinde kullanılmak üzere devamlı surette … Havalimanı’nda tutulması ve bu aracı …’da kullanmak üzere Üniversitede görevli bir şoförün Rektör ile birlikte …’da görevlendirilmesi nedeniyle araca ait akaryakıt giderleri ile şoföre yapılan harcırah ödemelerinin kurum bütçesinden karşılanması sonucu … TL kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+237 sayılı Taşıt Kanunu’nun, “Taşıt verilecekler” başlıklı 4’üncü maddesinde; emirlerine ve zatlarına binek otomobili verilenler (1) sayılı cetvelde, makam hizmetlerine tahsis edilen taşıtlar (2) sayılı cetvelde gösterilmiş ve hizmetlerine araç tahsis edilen makamların gösterildiği (2) sayılı cetvelde rektörlerin de sayıldığı görülmüştür.
+
+Aynı Kanun’un; “Kurumların edinebilecekleri taşıtlar” başlıklı 7’nci maddesinin üçüncü fıkrasında; bu Kanun kapsamında tahsis olunan taşıtların münhasıran resmi hizmetin ifasında kullanılmak üzere daire veya kurumlarının sorumlu makamlarınca tevzi ve tahsis olunacağı hüküm altına alınmıştır.
+
+Yine, 6245 sayılı Harcırah Kanunu’nun “Harcırahın unsurları” başlıklı 5’inci maddesinde; harcırahın, yol masrafı, yevmiye, aile masrafı ve yer değiştirme masrafını ihtiva ettiği ve bu Kanuna tabi olanların, bunlardan birine, birkaçına veya tamamına müstahak olabileceği belirtilmiştir.
+
+Yapılan incelemede, Üniversiteye ait bir aracın, Rektör …’ın …seyahatlerinde kullanılmak üzere devamlı surette … Havalimanında tutulduğu, Rektörün …’ya gelişlerinde, Üniversitede görevli şoför …’ın da bu aracı …’da kullanmak üzere görevlendirildiği, sorgu konusu edilen kamu zararının; …'ın …'da gerçekleşen Bakanlık ziyaretlerinde ve ikili görüşmelerinde kendisine eşlik etmek üzere resmi olarak görevlendirilen adı geçen şoföre yapılan harcırah ödemeleri ile bu işlerin yürütülmesi için kullanılan bahse konu araç için yapılan akaryakıt harcamalarına ilişkin olduğu anlaşılmıştır.
+
+237 sayılı Taşıt Kanunu’nun, yukarıda bahsedilen 4’üncü maddesi uyarınca, hizmetlerine araç tahsis edilen makamlar arasında rektörlere de yer verildiğinden, Rektör …’ın …’ten …’ya, resmi taşıtla gelmeyi tercih etmesi halinde, kullanılan araca ilişkin akaryakıt giderleri ile aracı kullanacak makam şoförüne yapılacak harcırah ödemelerinin 6245 sayılı Kanun’da belirtilen esaslar çerçevesinde kurumun bütçesinden karşılanması mümkündür. Nitekim, konu hakkında sorumlular tarafından gönderilen savunmalardan, Rektörün görevli olarak …’da bulunduğu tarihler ile şoför …’ın görevlendirme tarihlerinin birbiriyle örtüştüğü ve …’a yapılan harcırah ödemelerinin de 6245 Sayılı Harcırah Kanunu’na uygun olarak memuriyet mahallinin dışında geçirdiği bu süreler dikkate alınarak gerçekleştirildiği anlaşılmıştır.
+
+Sonuç itibarıyla, Rektör …’ın resmi araç ve şoförle birlikte …’ten …’ya karayoluyla gelmesi durumunda, yapılması gereken harcırah ödemeleri ve katlanılması gereken giderler toplamı ile şoför …’a yapılan harcırah ödemesi ve …’da bulundurulan araca ait akaryakıt giderleri toplamı karşılaştırılmadan, sorgu konusu edilen ödemelerin doğrudan kamu zararı olarak kabul edilemeyeceği değerlendirilmiştir.
+
+Diğer taraftan, Üniversiteye ait bir aracın devamlı surette …’da bulundurulmasının mevzuata uygun olup olmadığı hususunun idari yönden değerlendirilmesi gerekmekte olup, nitekim, söz konusu araç kullanımına ilişkin gerekli idari soruşturmanın yapıldığı ve Yükseköğretim Kurulu Yüksek Disiplin Kurulu’nun … tarihli ve … sayılı kararıyla, Rektör … hakkında, bahse konu uygulama nedeniyle ¼ oranında aylıktan kesme cezası uygulandığı görülmüştür.
+
+Bu itibarla, sorgu konusu edilen ancak kamu zararı oluşturmayan … TL’lik ödeme hakkında ilişilecek bir husus bulunmadığına, oy birliğiyle karar verildi.
