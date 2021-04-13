@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/361",
+  "source_id": 7109,
+  "date": "2021-04-13",
+  "title": "“Bir bankanın mobil uygulamalar üzerinden ilgili kişiye rızası dışında tanıtım iletileri göndermesi” hakkında Kişisel Verileri Koruma Kurulunun 13/04/2021 tarihli ve 2021/361 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7109/2021-361",
+  "source_sha256": "e0596c0e8b290083451e789a84184632ffec76a87bee24a43b250eea0c6ff593",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
