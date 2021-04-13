@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "211",
+  "decision_date": "2021-04-13",
+  "source_id": 33746,
+  "chamber": "8",
+  "ilam_number": "92",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33746/",
+  "source_sha256": "30950a490f29edaf51dc67d58937d8fa1300a400f8c47695577a0ccb1c07b247",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
