@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "210",
+  "decision_date": "2021-04-13",
+  "source_id": 33731,
+  "chamber": "8",
+  "ilam_number": "189",
+  "item_number": 8,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33731/",
+  "source_sha256": "e06cd2a227113b69070b230dfa15f3db6aab57cb653525f9c7a2237e4c8848e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
