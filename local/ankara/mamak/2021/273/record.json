@@ -1,0 +1,27 @@
+{
+  "number": "273",
+  "number_as_published": "273",
+  "year": 2021,
+  "title": "Belediyemiz 2020 Yılı içerisinde yatırım projeleri ile ilgili İller Bankasından ne kadar kredi çekildiğine ilişkin 3 Sayılı Plan ve Bütçe Komisyon Raporuna ilişkin Meclis Kararı",
+  "decision_date": "2021-04-14",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=2cc8b4b1-d22b-43b5-98d8-8c059b70c623",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-04-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-04-14T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=2cc8b4b1-d22b-43b5-98d8-8c059b70c623",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4b8dc267-54b9-4d87-a33b-79826fd9aada"
+  ]
+}
