@@ -1,0 +1,4 @@
+Korumadan Yararlanacak Kişiler
+Madde 6 — Entegre devre topoğrafyası koruma hakkından, Kanunun öngördüğü şekilde, Türkiye Cumhuriyeti vatandaşları, Türkiye Cumhuriyeti sınırları içinde ikametgahı olan ve sınai veya ticari faaliyette bulunan gerçek ve tüzel kişiler ile ilgili uluslararası anlaşmaların hükümleri dahilinde başvuru hakkına sahip kişiler yararlanır.
+Birinci fıkra kapsamı dışında kalmakla beraber, Türkiye Cumhuriyeti uyruğundaki kişilere kanunen veya fiilen entegre devre topoğrafyası koruması tanıyan devletlerin uyruğundaki gerçek ve tüzel kişiler de karşılıklılık ilkesi gözetilerek Türkiye’de bu haktan yararlanırlar.
+Türkiye Cumhuriyeti vatandaşlarının entegre devre topoğrafyalarını, diğer ülkelerin tescil etmesi veya tescil edeceğini yazılı olarak bildirmesi karşılıklılık ilkesi olarak kabul edilir.

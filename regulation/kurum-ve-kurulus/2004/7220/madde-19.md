@@ -1,0 +1,2 @@
+Tescil Belgesinin Yeniden Düzenlenmesi
+Madde 19 — Adres, unvan değişiklikleri, nev’i değiştirme, birleşme, devir, intikal, tescil belgesinin kaybı gibi benzeri hallere ilişkin olarak, talep üzerine tescil belgesinin yeniden düzenlenerek entegre devre topoğrafyası hak sahibine veya vekiline gönderilebilmesi için Tebliğde belirtilen tescil belgesi düzenleme ücretinin ödendiğini gösterir (Değişik ibare:RG-27/11/2015-29545) bilginin verilmesi zorunludur.
