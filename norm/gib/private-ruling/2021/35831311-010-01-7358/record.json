@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-04-14T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-04-14",
+  "official_number": "35831311-010.01-7358",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31165",
+  "source_id": "ozelge:31165",
+  "source_row_sha256": "9889ba7661c4322f405b8a13db46d7a73542a2d9af5f937781d0263f1f221107",
+  "title": "Katma Değer Vergisi Oranı",
+  "version_label": "as-enacted",
+  "word_count": 400
+}
