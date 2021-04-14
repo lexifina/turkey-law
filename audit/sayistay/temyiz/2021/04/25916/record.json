@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49510",
+  "decision_date": "2021-04-14",
+  "source_id": 25916,
+  "chamber": "6",
+  "file_number": "44924",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25916/",
+  "source_sha256": "cabf7c2cb7da2ffe517ef04b460667a6e65aecd1c81c8f9022067de6f755f9bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
