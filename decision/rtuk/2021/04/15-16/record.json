@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/15",
+  "meeting_date": "2021-04-14",
+  "meeting_date_as_published": "14.4.2021",
+  "decision_no": "16",
+  "source_id": 15896,
+  "title": "RTÜK kararı 2021/15-16",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15896",
+  "source_sha256": "0d26f3f560aac7620409386b33b3ac2f6fba010a346971259974e6b7674e2b5a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
