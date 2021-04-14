@@ -1,0 +1,23 @@
+{
+  "number": "257",
+  "number_as_published": "257",
+  "year": 2021,
+  "title": "Çorum Ortaköy Belediye Başkanlığı Belediyemiz demirbaş kayıtlarında bulunan 1 adet 06 YB 504 plakalı 2000 model Ford-Transit kamyonet panelvana ilişkin Meclis Kararı",
+  "decision_date": "2021-04-14",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e6a649a0-2f6d-4ee0-981e-5bcab6778f84",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-04-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-04-14T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar"
+}
