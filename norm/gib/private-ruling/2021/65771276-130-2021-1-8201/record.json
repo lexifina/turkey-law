@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-04-14T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-04-14",
+  "official_number": "65771276-130[2021/1]-8201",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28947",
+  "source_id": "ozelge:28947",
+  "source_row_sha256": "ae0bd635ba7ceb74ad1b8b0ba4d93f61a5a5186782b5079ce41e17e97afbbc5c",
+  "title": "KDV Tevkifatı hk.",
+  "version_label": "as-enacted",
+  "word_count": 500
+}
