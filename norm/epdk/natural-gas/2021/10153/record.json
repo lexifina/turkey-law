@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10153",
+  "decision_date": "2021-04-15",
+  "title": "Udaş Uşak Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2021-04-16",
+  "resmi_gazete_number": "31456",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=klHlTcNe/wQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=klHlTcNe/wQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nfPdGrnPvoI="
+  ],
+  "source_sha256": "7ba1c4eb5d62d4471c64db634ae82e9afb890d677f75875ec954bcdee050479b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-15",
+  "law_text_complete": true
+}
