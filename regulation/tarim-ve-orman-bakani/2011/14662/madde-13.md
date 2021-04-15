@@ -1,0 +1,7 @@
+Resmi önlemler
+MADDE 13 – (1) (Değişik:RG-28/3/2017-30021) Yapılan makroskobik kontroller esnasında herhangi bir semptoma rastlanması durumunda operatör, müdürlükçe ön görülen önlemleri alır. Gerektiğinde zararlı organizmaların teşhisi için bitki sağlığı kontrolörü tarafından numune alınarak analiz için ilgili laboratuvara gönderilir. Analiz sonucuna itirazlar Bitki Karantinası Yönetmeliği kapsamında değerlendirilir.
+(2) Zararlı organizma ile bulaşık olduğu tespit edilen bitki, bitkisel ürün ve diğer maddelere, masrafı sahibine ait olmak üzere, gerekli bitki sağlığı önlemleri uygulanır. Uygulanan önlemler sonucunda zararlı organizma yayılma riski ortadan kalktığında bitki pasaportu ile nakline ilgili müdürlük izin verebilir.
+(3) Zararlı organizma ile bulaşık olduğu tespit edilen bitki, bitkisel ürün ve diğer maddeler, bitki sağlığı önlemlerinin yeterli olmadığı ve zararlı organizmaların yayılma riskinin devam ettiği durumlarda ilgili müdürlüğün gözetiminde operatör tarafından imha edilir.
+(4) Zararlı organizmanın yayılma riski ortadan kalkıncaya kadar, üreticinin faaliyetlerinin bir kısmı veya tamamı yasaklanır.
+(5) Gerekli görülen yerlerde bitkilerin cins, nevi veya çeşidi değiştirilebilir; münavebe tatbik ettirilebilir, ekim ve dikimine yasak getirilebilir veya gerekli fenni tedbirler uygulanabilir.
+(6) Operatörler, zararlı organizmaya rastlanması durumunda hızla ilgili müdürlüklere gerekli karantina tedbirlerinin alınması ve izlenebilirliğin sağlanması için bilgi vermek zorundadırlar.

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-8/7/2019-30825 Mükerrer) Bakanlık: Tarım ve Orman Bakanlığını,
+b) Bitki: Canlı bitkiler ile bunların derin dondurulmamış meyve ve sebzeleri, yumrular, soğansılar, soğanlar ve rizomlar, kesme çiçekler, yapraklı dallar, budama artığı yapraklar, yapraklar, bitki doku kültürleri, canlı polen, göz, kalem ve çelik gibi canlılığını koruyan belirli parçaları ile dikim amaçlı olan botanik tohumlarını,
+c) Bitki pasaportu: Bitki sağlığı ile ilgili bu Yönetmelikte belirlenen bitki sağlığı standartlarının ve özel şartların karşılandığını gösteren, çeşitli bitki ve bitkisel ürünler için standart hale getirilmiş, Bakanlıkça belirlenen usullere uygun olarak hazırlanan ve Bakanlık veya Bakanlıkça yetkilendirilenler tarafından düzenlenen resmi etiketi veya belirli ürünler için Bakanlıkça kabul edilen etiket dışındaki işareti,
+ç) (Değişik:RG-28/3/2017-30021) Bitki sağlığı kontrolörü: İl ve ilçe müdürlükleri ile karantina müdürlüklerinde bitki sağlığı konularında görev yapan; resmî kontroller yapmak, üretim sahalarında bitki sağlığı önlemleri alınması için talimat vermek, operatörleri resmî kayıt sisteminde kayıt altına almak, bitki pasaportu basmak üzere veya operatörleri bitki pasaportu basımı için yetkilendirmek üzere görevlendirilen ziraat mühendisini,
+d) Bitkisel ürün: Bitkisel orijinli, işlem görmemiş veya basit bir işlemden geçmiş, bitki tanımına girmeyen ürünleri,
+e) (Değişik:RG-28/3/2017-30021) Bakanlık kayıt sistemleri: EK-1’de yer alan bitki, bitkisel ürün ve diğer maddeler ile bunları üreten, ithalatını ve ticaretini yapan ve depolayanları kayıt altına almak üzere Bakanlık tarafından oluşturulan ilgili kayıt sistemlerini,
+f) Diğer maddeler: Bitki sağlığı açısından zararlı organizma taşıma riski bulunan, bitki ve bitkisel ürünler dışında kalan maddeleri,
+g) (Değişik:RG-28/3/2017-30021) Genel Müdürlük: Gıda ve Kontrol Genel Müdürlüğünü,
+ğ) İkame bitki pasaportu (RP): Orijinal bitki pasaportunun yerine düzenlenen pasaportu,
+h) Karantina: Zararlı organizmaların ülkeye girişini veya ülke içinde yayılmasını önlemek amacıyla, bitki, bitkisel ürün ve diğer maddeler ile bulaşma ihtimali bulunan madde ve malzemelerin kontrol altına alınmasını,
+ı) Korunmuş bölgeler (ZP): Bu Yönetmelik kapsamında yer alan, bir veya birden fazla bölgede yerleşik olan, bir veya birden fazla zararlı organizmanın o bölge için endemik olmadığı, çevre koşulları söz konusu zararlı organizmanın yerleşmesine uygun olmasına rağmen, o bölgede yerleşmemesi için korunan veya bu bölgelerde bulunmalarına rağmen eradikasyona tabi tutulan ve bu koşulların sağlandığı Bakanlıkça belirlenen usul ve esaslara göre uygun sürvey sonuçları ile kanıtlanarak tanınan, düzenli ve sistematik olarak izlenen, söz konusu organizmanın o bölgede ortaya çıkması durumunda bildirimi zorunlu olan ve özel önlem alınan bölgeleri,
+i) Müdürlük: Bakanlık il ve ilçe müdürlükleri ile zirai karantina müdürlüklerini,
+j) Nihai tüketici: Ürünü bir daha satmamak üzere kendi bünyesinde kullanmak amacıyla satın alanları,
+k) (Değişik:RG-28/3/2017-30021) Operatör: EK-1’de yer alan bitki, bitkisel ürün ve diğer maddeler ile yemeklik patates üretenleri, ithal edenleri, depolayanları ve bunların ticaretini yapan, gerçek ya da tüzel kişiler ile kamu kurum ve kuruluşlarını,
+l) Resmi kontrol: Bu Yönetmelik kapsamındaki faaliyetlerin bu Yönetmelik hükümlerine uygunluğunun doğrulanması için, bitki sağlığı kontrolörlerine verilen yetki çerçevesinde gerçekleştirdikleri izleme, gözetim, denetim, muayene, karantina, numune alma, analiz ve benzeri kontrolleri,
+m) Zararlı organizma: Bitki veya bitkisel ürünlere zarar veren bitki, hayvan veya patojenik ajanların tür, strain veya biyotiplerini,
+n) (Ek:RG-28/3/2017-30021) Bitki Karantinası Yönetmeliği: 3/12/2011 tarihli ve 28131 sayılı Resmî Gazete’de yayımlanan Bitki Karantinası Yönetmeliğini,
+o) (Ek:RG-28/3/2017-30021) Laboratuvar: Bakanlık Araştırma Enstitüsü ve Zirai Karantina Müdürlüğü laboratuvarları ile Bakanlık tarafından belirlenmiş analizleri yapabilen yetkili laboratuvarları,
+ifade eder.
