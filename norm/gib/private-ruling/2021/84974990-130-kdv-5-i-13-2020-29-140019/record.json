@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-04-15T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-04-15",
+  "official_number": "84974990-130[KDV/5 -İ- 13-2020/29]-140019",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28942",
+  "source_id": "ozelge:28942",
+  "source_row_sha256": "38764e1de56ff37ef97fe5cbc0929a1ab65edd0b32809ec1d1daaf81f9ac9067",
+  "title": "Personel Yer Belirleme Cihazı Tesliminde KDV Kanununun 13-f maddesi kapsamında istisna uygulaması",
+  "version_label": "as-enacted",
+  "word_count": 571
+}
