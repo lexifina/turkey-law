@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-04-15",
+  "issue": "31455",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Çevre Ajansının Teşkilatı ve Çalışma Usul ve Esasları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210415-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210415.htm",
+  "index_sha256": "e6b157ab5b3d292bcae47f8f29a7b1fa9f07c9d60234edc0d11f4c54cd6daa95",
+  "index_header": "15 Nisan 2021 ... 31455 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210415.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
