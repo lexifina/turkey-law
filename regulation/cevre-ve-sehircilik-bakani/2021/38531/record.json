@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38531",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ÇEVRE AJANSININ TEŞKİLATI VE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38531",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/38531",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38531&MevzuatTertip=5",
+  "source_sha256": "a4f17f6063ebecb8408bb4b5a87de1d2c58679a9ee3f5815fd8908ec1da95a82",
+  "source_bytes": 59328,
+  "published": "2021-04-15",
+  "gazette": "31455",
+  "in_force": "2021-04-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3307,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

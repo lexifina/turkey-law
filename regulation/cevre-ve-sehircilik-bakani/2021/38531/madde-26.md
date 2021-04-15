@@ -1,0 +1,3 @@
+Yasaklar
+MADDE 26 – (1) Ajans personeli, iş sözleşmesi ile üstlenmiş olduğu görevlerini aksatacak ya da etkileyecek, Ajansın görev alanı ile doğrudan ya da dolaylı olarak ilişki kurulabilecek başka bir iş veya hizmette çalışamaz ve 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu hükümleri uyarınca tacir veya esnaf sayılmasını gerektirecek bir faaliyette bulunamaz.
+(2) Yönetim Kurulu ve Danışma Kurulu üyeleri ile Ajans Başkanı ve Başkan Yardımcılarının eşleri, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları, evlatlıkları, evlat edinenleri, ortakları ve yasal danışmanları ile şirketlerine Ajansın asli faaliyetleri kapsamında iş verilemez.

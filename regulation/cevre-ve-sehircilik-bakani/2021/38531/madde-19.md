@@ -1,0 +1,3 @@
+Ajans personelinin istihdamı
+MADDE 19 – (1) Ajansta, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa tabi en fazla iki yüz personel istihdam edilebilir. Bu sayıyı unvan bazında dağıtmaya Yönetim Kurulu yetkilidir.
+(2) Uzman ve altı unvanlarda istihdam edilecek personelin her bir unvan bazında ayrı ayrı en fazla yüzde ellisi, 29/6/2009 tarihli ve 2009/15188 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarına İşçi Alınmasında Uygulanacak Usul ve Esaslar Hakkında Yönetmelik hükümleri çerçevesinde, diğer personel ise Yönetim Kurulunun belirleyeceği usul ve esaslar çerçevesinde istihdam edilebilir.

@@ -1,0 +1,3 @@
+Mali haklar ve sosyal güvenlik
+MADDE 23 – (1) Ajans Başkanına, yardımcılarına ve personeline mali ve sosyal hak ve yardımlar kapsamında yapılan bütün ayni ve nakdî ödemelerin bir aylık toplam net tutarı; 375 sayılı Kanun Hükmünde Kararnamenin ek 11 inci maddesi uyarınca belirlenen emsali personele mali ve sosyal hak ve yardımlar kapsamında yapılması öngörülen ödemelerin bir aylık toplam net tutarını geçmemek üzere Cumhurbaşkanı veya yetkilendireceği makamca belirlenir.
+(2) İstihdam edilen personel, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır.
