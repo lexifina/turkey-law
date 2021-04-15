@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10152",
+  "decision_date": "2021-04-15",
+  "title": "Sürmeli Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin ikinci tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2021-04-16",
+  "resmi_gazete_number": "31456",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tL1iJj5QSxU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=tL1iJj5QSxU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9K1Mlb6ZKg4="
+  ],
+  "source_sha256": "e7938692ae88da22a3133d03629f87e6f7d5f71c4c74d462aa134fe3c47c6625",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-15",
+  "law_text_complete": true
+}
