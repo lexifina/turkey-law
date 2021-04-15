@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-04-15T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-04-15",
+  "official_number": "84974990-130[KDV-1/İ/01-2020/42]-140031",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28941",
+  "source_id": "ozelge:28941",
+  "source_row_sha256": "b46b550f029d478272c5960d83c4868b118f88c825e5db19439582a86f15fe45",
+  "title": "OSB'ce yapılan arsa tahsis işleminin KDVye tabi olup olmadığı",
+  "version_label": "as-enacted",
+  "word_count": 463
+}
