@@ -1,0 +1,9 @@
+Belediyelerce yapılacak işlemler
+MADDE 6 – (1) Kırsal mahalle veya kırsal yerleşik alan belirlemesi için önce ilgili ilçe belediye meclisince karar alınır. Teklifi içeren bu karar, gerekçeleri ile beraber büyükşehir belediye başkanlığına gönderilir. İlçe belediye meclisinin kararının ve teklifinin büyükşehir belediye başkanlığı kayıtlarına intikal ettiği tarihten itibaren büyükşehir belediye meclisinin yapacağı ilk toplantıda karar ve teklif gündeme getirilir ve büyükşehir belediye meclisi, en geç doksan gün içinde kırsal mahalle veya kırsal yerleşik alan tespitine ilişkin kararını verir.
+(2) Büyükşehir belediye meclisi belirtilen süre içinde karar almak zorundadır. Büyükşehir belediye meclisi, ilçe belediyesinden gelen teklifi aynen veya değiştirerek kabul eder ya da reddeder.
+(3) Büyükşehir belediye meclisi, ilçe belediyesinden gelen kırsal mahalle veya kırsal yerleşik alan teklifini değerlendirirken;
+a) Kırsal mahalle ile ilgili teklifi, mahallenin bitişiğindeki diğer mahalleler ile ekonomik ve sosyal bütünlüğün gerektirmesi halinde komşu mahallelerde kırsal yerleşik alan belirlemek suretiyle genişletme veya daraltma,
+b) Bir mahalle içindeki kırsal yerleşik alanla ilgili teklifi, mahalle sınırlarına kadar genişletme,
+yönünde karar alabilir.
+(4) Büyükşehir belediye meclisi, ilçe belediyesinden gelen kırsal mahalle veya kırsal yerleşik alan teklifini ilçe belediyesi sınırlarını kapsayacak veya aşacak şekilde değiştiremez.
+(5) Kırsal mahalle veya kırsal yerleşik alan olarak tespit edilen yerler için bir süre kısıtlaması öngörülemez. İlçe belediyelerince kırsal mahalle veya kırsal yerleşik alan olarak tespit edilen yerlerin bu özelliklerinin kaybedildiğinin tespiti halinde Kanunun ek 3 üncü maddesi uyarınca bu maddedeki usulle kırsal mahalle veya kırsal yerleşik alan niteliği kaldırılabilir.

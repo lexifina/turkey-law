@@ -1,0 +1,3 @@
+Kırsal mahalle veya kırsal yerleşik alanlarda uygulanmayacak muafiyetler ve indirimler
+MADDE 11 – (1) Kırsal mahalle veya kırsal yerleşik alan olarak belirlenen yerlerde, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu uyarınca bilanço esasına göre defter tutan (sadece hasılat defteri tutan yabancı nakliyat kurumları dâhil) mükellefler, 9 uncu ve 10 uncu maddelerde belirtilen muafiyet ve indirimlerden yararlanamazlar.
+(2) Kırsal mahalle veya kırsal yerleşik alan uygulamasında muafiyet ve indirimlerin başlaması ve son bulmasında, 213 sayılı Kanuna göre bilanço esasına göre defter tutma yükümlülüğünün başladığı ve son bulduğu tarihler dikkate alınır.
