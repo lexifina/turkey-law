@@ -1,0 +1,24 @@
+{
+  "number": "216",
+  "number_as_published": "216",
+  "year": 2021,
+  "title": "Nazım ve Uygulama İmar Planı (Eyyübiye/yenice)",
+  "decision_date": "2021-04-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11496/106/nazim-ve-uygulama-imar-plani-eyyubiye-yenice",
+  "official_document": null,
+  "source_sha256": "1a8c5303a2490cd28a3c2d92a6fd7a50dd1808943df5dd60a356c18c36f93210",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-04-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.04.2021 tarih ve 216 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-05-03",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
