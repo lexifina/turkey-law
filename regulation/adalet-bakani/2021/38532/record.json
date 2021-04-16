@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38532",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SEÇİM MÜDÜRLÜKLERİNİN ADALET MÜFETTİŞLERİ TARAFINDAN DENETLENMESİNE DAİR YÖNETMELİK",
+  "number": "38532",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2021/38532",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38532&MevzuatTertip=5",
+  "source_sha256": "598743149446ffc6e7604c4593549aaf84ac4d57ac1b3a55b88b7b45207d7a06",
+  "source_bytes": 23246,
+  "published": "2021-04-16",
+  "gazette": "31456",
+  "in_force": "2021-04-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 748,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38532-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

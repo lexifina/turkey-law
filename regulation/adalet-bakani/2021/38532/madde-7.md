@@ -1,0 +1,3 @@
+Adalet müfettişleri tarafından denetlenemeyecek işler ile ihbar ve şikâyetler hakkında yapılacak işlemler
+MADDE 7 – (1) İl ve ilçe seçim kurulu, başkanlıkları ile müdürlüklerin seçime ilişkin iş ve işlemleriyle bu işlere yönelik kararları denetlenemez. Bu konulara ilişkin yapılan ihbar ve şikâyetler herhangi bir işlem yapılmaksızın Başkanlık vasıtasıyla Kurula iletilir.
+(2) Denetim sırasında görevlilerin disiplin soruşturmasını gerektirir bir eylemi ile karşılaşılırsa durum bir yazı ile Başkanlık vasıtasıyla Kurula bildirilir. Ceza soruşturmasını gerektiren hâllerde durum ilgili Cumhuriyet başsavcılığına da intikal ettirilir.
