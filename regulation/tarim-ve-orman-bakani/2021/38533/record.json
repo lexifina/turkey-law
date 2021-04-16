@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38533",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GIDA VE YEMLERDE TAKLİT VE TAĞŞİŞ FİİLİ VE İDARİ PARA CEZALARININ HESAPLANMASINA DAİR YÖNETMELİK",
+  "number": "38533",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38533",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38533&MevzuatTertip=5",
+  "source_sha256": "5b1160214116a689d6125784501ffed7dcbe8edac98bd9ce04f72a234f3e3193",
+  "source_bytes": 36044,
+  "published": "2021-04-16",
+  "gazette": "31456",
+  "in_force": "2021-04-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 952,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
