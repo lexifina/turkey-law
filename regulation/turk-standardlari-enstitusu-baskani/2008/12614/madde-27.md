@@ -1,0 +1,3 @@
+Kapalı teklif usulünde tekliflerin verilmesi
+MADDE 27 – (1) Teklifler ilanda belirtilen saate kadar, sıra numaralı alındılar karşılığında İdareye verilir. Alındı numarası zarfın üzerine yazılır. Teklifler iadeli taahhütlü olarak da gönderilebilir. Bu takdirde, dış zarfın üzerine İdarenin açık adresi ile teklifin hangi işe ait olduğu, isteklinin adı ve soyadı ile açık adresi yazılır. Posta ile gönderilecek tekliflerin ilanda belirtilen saate kadar İdareye ulaşması şarttır. Postadaki gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
+(2) İdareye verilen teklifler herhangi bir sebeple geri alınamaz.

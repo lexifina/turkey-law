@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Genel Kurul: Enstitü Genel Kurulunu,
+b) İdare/TSE/Enstitü: Türk Standardları Enstitüsünü,
+c) İhale: Bu Yönetmelikte yazılı usul ve şartlarla, işin istekliler arasında seçilecek birisi üzerinde bırakıldığını gösteren ve yetkili mercilerin onayıyla tamamlanan sözleşmeden önceki işlemleri,
+ç) İhale yetkilisi/Harcama yetkilisi: Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisini,
+d) İstekli: İhaleye katılan gerçek veya tüzel kişiler ile bunların oluşturdukları ortak girişimleri,
+e) Kiraya verme: Taşınmazların ve hakların kiraya verilmesini,
+f) Merkez: Enstitünün Ankara merkez teşkilatını,
+g) Müşteri: Kendisine ihale yapılan istekli veya isteklileri,
+ğ) Satış: Taşınır veya taşınmazların satışını,
+h) Sözleşme: İdare ile istekli arasında yapılan yazılı anlaşmayı,
+ı) Şartname: Yapılacak işlerin genel, özel, teknik ve idarî esas ve usullerini gösteren belge veya belgeleri,
+i) Tahmin edilen bedel: İhale konusu olan işlerin tahmin edilen bedelini,
+j) Taşınır: Çeşitleri ile kod numaraları, 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Taşınır Mal Yönetmeliğine ekli taşınır kod listesinin (A) ve (B) bölümlerinde gösterilen taşınırları,
+k) Taşınmaz: TSE mülkiyetinde bulunan arazi, arsa, bina ve benzeri taşınmaz değerleri,
+l) Taşra: Enstitünün merkez dışındaki birimlerini,
+m) Uygun bedel: Tahmin edilen bedelden aşağı olmamak üzere, teklif edilen bedellerin en yükseğini,
+n) Üst Yönetici: TSE Başkanını,
+o) Yüklenici: Üzerine ihale yapılan ve sözleşme imzalanan istekliyi,
+ö) Yönetim Kurulu: Enstitü Yönetim Kurulunu,
+ifade eder.

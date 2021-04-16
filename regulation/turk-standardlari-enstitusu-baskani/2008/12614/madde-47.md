@@ -1,0 +1,3 @@
+İdarenin görev ve sorumluluğu
+MADDE 47 – (1) İdare, 46 ncı maddede belirtilen süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmak ve taşınır ve taşınmazların satışında, ferağa ait işlemleri tamamlamak, şartnamede belirtilen sınır ve evsafa göre; satılan, kiraya verilen taşınmazları teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi hâlinde müşteri, sürenin bitiminden itibaren onbeş gün içinde, on gün müddetli bir noter ihtarnamesiyle bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde teminat geri verilir. Müşteri, ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
+(2) Tebligatın, 40 ıncı maddede belirtilen sürede yapılmamasından dolayı İdarenin zararına sebep olanlar hakkında kanunî işlem yapılır.

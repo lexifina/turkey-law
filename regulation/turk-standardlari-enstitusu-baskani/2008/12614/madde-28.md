@@ -1,0 +1,3 @@
+Kapalı teklif usulünde dış zarfların açılması
+MADDE 28 – (1) Tekliflerin açılma saati gelince, kaç teklif verilmiş olduğu bir tutanakla tespit edildikten sonra dış zarflar hazır bulunan istekliler önünde alınış sırasına göre açılarak, istenilen belgelerin ve geçici teminatın eksiksiz olarak verilip verilmediği kontrol edilir. Dış zarfın üzerindeki alındı sıra numarası iç zarfın üzerine de yazılır.
+(2) Belgeleri ile teminatı usulüne uygun ve tam olmayan isteklilerin teklif mektubunun bulunduğu iç zarfları açılmayarak başkaca işleme konulmadan, diğer belgelerle birlikte kendilerine veya vekillerine iade olunur. Bu konuda, iade gerekçelerini de içeren bir tutanak düzenlenir. Teklif mektubu kendilerine iade edilenler ihaleye katılamazlar.

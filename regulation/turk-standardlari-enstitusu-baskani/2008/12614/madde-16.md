@@ -1,0 +1,3 @@
+İhale komisyonları
+MADDE 16 – (1) Bu Yönetmelik kapsamındaki usul ve esaslar çerçevesinde; ihale yetkilisi; ikisi ihale konusu işin uzmanı, biri muhasebe veya malî işlerden bir personel olması şartıyla, TSE personelinden en az beş kişiyi, biri komisyon başkanı olmak üzere, yedek üyeleri de belirleyerek ihale komisyonu olarak görevlendirir.
+(2) İhale komisyonları eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Karşı oy kullanan üye, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur.
