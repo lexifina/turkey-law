@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda, NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli 7307.91.00.00.00 GTİP altında kayıtlı “flanşlar”, 7307.93.11.00.11 GTİP altında kayıtlı “dirsekler”, 7307.93.11.00.12 GTİP altında kayıtlı “kavisler” ve 7307.93.19.00.00 GTİP altında kayıtlı “diğerleri” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
