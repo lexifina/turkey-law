@@ -1,0 +1,13 @@
+Merkezin faaliyet alanları
+MADDE 6 ‒ (1) Merkezin faaliyet alanları şunlardır:
+a) Üniversite bünyesindeki tarım ve gıda alanında faaliyet gösteren birimlerde yapılan bitkisel ve hayvansal üretim ve gıda güvenliği ile ilgili faaliyetleri düzenlemek.
+b) Üniversitede fakülte ve meslek yüksekokullarının ön lisans, lisans ve lisansüstü öğretim programlarında bitkisel, hayvansal üretim, gıda ürünleri üretimi ve işleme, gıda güvenliği ile ilgili uygulama dersleri, pratik çalışmalar, staj, tez ve araştırma projeleri için uygun yer, materyal ve hizmet sağlamak.
+c) Üniversitenin tarımsal üretime uygun alan ve tesislerinde üretim yapmak üzere ilgili kamu ve özel sektör kurumları ile işbirliği yapmak, Üniversite birimlerinin kapasite ve kullanım alanlarına göre bitkisel ve hayvansal üretimi gerçekleştirmek üzere planlama yapmak ve koordinasyonu sağlamak.
+ç) Bitkisel, hayvansal ve her türlü gıda üretimine ilişkin projelerin hazırlanmasında ve rapor hazırlamada danışmanlık yapmak, planlama ve organizasyon yapmak, danışmanlık ve bilirkişilik hizmetleri vermek, kamu ve özel kurumlarla işbirliği yapılarak gerçekleştirilecek bilimsel projeler, ar-ge projeleri ve altyapı projeleri için destek vermek, tarımsal üretimden kaynaklanan çevre sorunlarının çözümüne yönelik projeler yürütmek.
+d) Genetik ve ıslah konuları ile ilgili danışmanlık hizmeti vermek.
+e) Merkezin amaçları doğrultusunda yapılacak yayınlara destek vermek, veri ve dokümantasyon merkezi oluşturmak, çevre ve bölge üreticilerine ulusal ve uluslararası düzeyde kongre, panel, konferans, sempozyum, çalıştay, kurs ve seminer tarzında eğitim amaçlı programlar düzenlemek.
+f) Geliştirilecek ve uygulanacak üretim model ve yöntemleri ile bölge üreticilerinin sorunlarına çözümler üretmek, tarım ve gıda güvenliği ile ilgili olarak yapılan çalışmaların üreticilere ulaştırılması ve yaygınlaştırılmasına destek olmak.
+g) Ülkemizin kalkınma planlarına uygun olarak ve belirlenen hedefler doğrultusunda tarımsal üretimde verim ve üretim artışını sağlamaya yönelik araştırma ve geliştirme çalışmaları yapmak.
+ğ) Bölgede bulunan biyoçeşitlilik kaynaklarının muhafazası ve tanımlanması konusunda faaliyetlerde bulunmak.
+h) Kamu ve özel sektör kuruluşlarının, gerçek ve tüzel kişilerin taleplerine ilişkin proje ve rapor hazırlamalarında laboratuvar analizleri, test ve deneyler yapma, uygulamalı araştırmalar yürütme, danışmanlık ve bilirkişilik hizmetleri verme konusunda koordinasyonu sağlamak, birimlerin olanakları kapsamında bu alanlarda faaliyetler yürütülmesi için gerekli organizasyonu sağlamak.
+ı) Kamu kuruluşları, tarımsal amaçlı kooperatif birlikleri, yetiştirici birlikleri ve diğer tarımsal amaçlı örgütler ile iş birliğini geliştirmek.
