@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevi
+MADDE 12 – (1) Danışma Kurulu; Merkezin faaliyet alanları ile ilgili çalışmaları bulunan sağlık bilimleri, sosyal bilimler ve fen bilimleri alanlarından en az beşer üye olmak üzere en fazla yirmi üyeden oluşur. Danışma Kurulu üyeleri, Müdürün teklifi üzerine Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi biten üyeler yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+(2) Danışma Kurulu, yılda en az bir kez herhangi bir çoğunluk şartı aranmaksızın toplanır. Kararlar, toplantıya katılanların oy çokluğu ile alınır. Oyların eşit olması halinde kapalı oylama yapılır. Kapalı oylama sonucunda eşitliğin bozulmaması durumunda Müdürün kullandığı oy yönünde çoğunluk sağlanmış olur.
+(3) Danışma Kurulunun görevi; Merkezin faaliyetleri hakkında istişari nitelikte görüş bildirmek ve önerilerde bulunmaktır.
