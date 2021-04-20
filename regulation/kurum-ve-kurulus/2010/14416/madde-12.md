@@ -1,0 +1,4 @@
+Yeniden tahsis
+MADDE 12 – (1) Bu Yönetmeliğin 9 uncu maddesinde yenileme için belirtilen sürenin sonunda yenileme için bir talep gelmemesi halinde ilgili alan adı yeniden tahsise açılır ve bu alan adının tahsise açıldığı bilgisi Kurumun İnternet sitesinde yayımlanır. Ancak yeniden tahsise açılan bu alan adları için bir ay süre ile başvuru talebi alınmaz.
+(2) (Değişik:RG-20/4/2021-31460) Alan adının tahsise kapalı veya tahsisi kısıtlı adlar listesine alınma gerekçesi dışında başka bir gerekçeyle iptal edilmesi ve sahibinin alan adından feragat etmesi gibi durumlarda ilgili alan adı yeniden tahsise açılır ve bu alan adının tahsise açıldığı bilgisi Kurumun İnternet sitesinde yayımlanır. Ancak yeniden tahsise açılan alan adları için iki ay süre ile başvuru talebi alınmaz.
+(3) Yeniden tahsise açılan alan adları için başvuruların alınması ve bu alan adlarının tahsisi bu Yönetmeliğin 7 nci ve 8 inci maddeleri çerçevesinde yapılır.
