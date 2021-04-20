@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-04-20",
+  "issue": "31460",
+  "edition": "regular",
+  "item": 11,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı Menşeli Bazı Ürünlerin İthalatında Tarife Kontenjanı Uygulanmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210420-11.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210420.htm",
+  "index_sha256": "6271f901c95b085f8b3fbfa4fcfbb019092c43d8432b7c70ed37fbbb3ed167a5",
+  "index_header": "20 Nisan 2021 ... 31460 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210420.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
