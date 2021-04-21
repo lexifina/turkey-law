@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-04-21",
+      "21.04.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31461",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-04-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2021/38545",
+  "published": "2021-04-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38545&MevzuatTertip=5",
+  "source_bytes": 18296,
+  "source_id": "8.5.38545",
+  "source_sha256": "1e9c7bd489922287ba6c8fa3226344b016e158aaf16fccc8b5849d962804ff95",
+  "text_status": "as-enacted",
+  "title": "ANADOLU ÜNİVERSİTESİ DÖNER SERMAYE \r\nİŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 588
+}
