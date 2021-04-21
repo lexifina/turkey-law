@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49525",
+  "decision_date": "2021-04-21",
+  "source_id": 23989,
+  "chamber": "8",
+  "file_number": "46009",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23989/",
+  "source_sha256": "d73e33470ac3c5807c061df6e01dd6eb0fac64eb76e76afe96baac5b8da2f41d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
