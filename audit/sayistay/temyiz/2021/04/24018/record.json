@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49545",
+  "decision_date": "2021-04-21",
+  "source_id": 24018,
+  "chamber": "1",
+  "file_number": "46490",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24018/",
+  "source_sha256": "3426b6a01259a00773ebf194316ea8a8955dfaa799e80f129916c69462a5c0d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
