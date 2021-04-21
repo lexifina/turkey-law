@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49519",
+  "decision_date": "2021-04-21",
+  "source_id": 23980,
+  "chamber": "4",
+  "file_number": "47130",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2011",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23980/",
+  "source_sha256": "3ac405c923756a9ca241a250ccd2d56c509c370de91cde269832b49aae63418c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
