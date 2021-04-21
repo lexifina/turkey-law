@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49525",
+  "decision_date": "2021-04-21",
+  "source_id": 23987,
+  "chamber": "8",
+  "file_number": "46009",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23987/",
+  "source_sha256": "09ef6e0c290a23b47fa582f9983af054fa317e5cfb8e07b4375ce85b00e2b94d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
