@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49538",
+  "decision_date": "2021-04-21",
+  "source_id": 24011,
+  "chamber": "8",
+  "file_number": "46517",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24011/",
+  "source_sha256": "1abed1203219282862ca2eb1dbc0b2f10a4458f9c3a0a24d48d09fe7d86c20d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
