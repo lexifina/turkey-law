@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49522",
+  "decision_date": "2021-04-21",
+  "source_id": 23983,
+  "chamber": "4",
+  "file_number": "43817",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23983/",
+  "source_sha256": "7f04f28f437a0ce03821973321f3321b248800e027bedc7818dded83548d92d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
