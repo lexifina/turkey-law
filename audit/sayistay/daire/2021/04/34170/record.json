@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "381",
+  "decision_date": "2021-04-22",
+  "source_id": 34170,
+  "chamber": "3",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34170/",
+  "source_sha256": "afb614d14c8875f1b0dc16799cab86f617b4e41124d975e4f38eb9ed192b31ac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
