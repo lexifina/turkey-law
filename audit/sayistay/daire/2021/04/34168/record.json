@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "381",
+  "decision_date": "2021-04-22",
+  "source_id": 34168,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34168/",
+  "source_sha256": "d3b790c3fec76818e11a38b411bf0ccd243e695868502dcf4467f1b2155a410f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
