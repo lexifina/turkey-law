@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "381",
+  "decision_date": "2021-04-22",
+  "source_id": 34172,
+  "chamber": "3",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34172/",
+  "source_sha256": "39e9077e3d42aee802b45a868ab0c291db669acea2780bf69475e65bafebf6ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
