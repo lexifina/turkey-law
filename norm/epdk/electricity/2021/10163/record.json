@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10163",
+  "decision_date": "2021-04-22",
+  "title": "Otomatik Sayaç Okuma Sistemlerinin Kapsamına ve Sayaç Değerlerinin Belirlenmesine İlişkin Usul ve Esaslarda Değişiklik Yapılması Hakkında Karar",
+  "resmi_gazete_date": "2021-05-09",
+  "resmi_gazete_number": "31479",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rDl3e31lSco=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rDl3e31lSco="
+  ],
+  "source_sha256": "7ff079961b3eb765c9247541c0e44b39837c9dc9edcb40a0a7abaebb07554de1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-22",
+  "law_text_complete": true
+}
