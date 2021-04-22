@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7316",
+  "year": 2021,
+  "title": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-04-22",
+  "gazette_issue": "31462",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210422-1.htm",
+  "source_sha256": "c15734495686629b7580fbca31e26941505c08c606b014205b84ca2150a12495",
+  "text_sha256": "045cb27d971dba1d0ed00a11de3656fb0f38a41a6e1a2ed62536bbad953abe94",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/04/22/31462-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210422-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
