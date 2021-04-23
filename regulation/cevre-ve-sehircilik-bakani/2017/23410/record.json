@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.23410",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EGZOZ GAZI EMİSYONU KONTROLÜ YÖNETMELİĞİ",
+  "number": "23410",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2017/23410",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23410&MevzuatTertip=5",
+  "source_sha256": "6045dec1a2ff5ed6d30e38095a81e5650a84690e6b1a8db30d5c383d5c2325a6",
+  "source_bytes": 94162,
+  "published": "2017-03-11",
+  "gazette": "30004",
+  "in_force": "2021-04-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-23",
+      "RG-23/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-23",
+      "23/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5466,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23410-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
