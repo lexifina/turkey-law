@@ -1,0 +1,3 @@
+Görevlendirmeler ve taleplerin karşılanması
+MADDE 11 – (1) 10 uncu maddenin birinci fıkrasının (a), (b) ve (d) bentleri çerçevesinde yürütülecek ortak çalışmalar, ilgili idarelerin iç denetim birimlerinin talebi üzerine, üst yöneticiler arasında doğrudan iletişim kurulmak suretiyle planlanır.
+(2) Ortak çalışmaya ilişkin iç denetçi görevlendirilmesi talebi ilgili idarelerce öncelikle karşılanır. Görevlendirmenin mümkün olmadığı haller, gerekçesiyle birlikte talepte bulunan idareye bildirilir. Talebi karşılanmayan idare, durumu alınan cevaplarla birlikte en geç 10 iş günü içinde Kurula bildirir.

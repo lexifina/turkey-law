@@ -1,0 +1,10 @@
+İç denetim birimi başkanlıklarının kurulması ve yönetimi
+MADDE 8 – (1) Kanunun 63 üncü maddesinin son fıkrasında “Kamu idarelerinin yapısı ve personel sayısı dikkate alınmak suretiyle, İç Denetim Koordinasyon Kurulunun uygun görüşü üzerine, doğrudan üst yöneticiye bağlı iç denetim birimi başkanlıkları kurulabilir.” hükmü yer almıştır. Buna göre, kamu idarelerinde iç denetim birimi başkanlıklarının kurulabilmesi Kurulun uygun görüşüne bağlıdır. Atanan iç denetçi sayısı üç ve üzerinde belirlenen idarelerin iç denetim birimi başkanlığı kurmalarına Kurul tarafından genel uygun görüş verilmiştir. Bu hususta ayrıca Kurulun görüşünün sorulmasına gerek bulunmamaktadır.
+(2) Atanan iç denetçi sayısı üç ve üzerinde olan idarelerde doğrudan üst yöneticiye bağlı iç denetim birimi başkanlıklarının kurulması; Kamu İç Denetim Standartlarının yeterli ve etkin bir şekilde hayata geçirilmesi açısından önemlidir.
+(3) İç denetim birimi başkanlığı kurulan idarelerde, iç denetçilerden birisi üst yönetici tarafından iç denetim birim başkanı olarak görevlendirilir ve bu görevlendirmeler en geç 10 iş günü içinde Kurula ayrıca bildirilir. İç denetim birimi başkanı, iç denetim birimi başkanlığını yönetir ve iç denetim mevzuatında tanımlı görev ve yetkileri yürütür.
+(4) İç denetim birimleri, üst yönetici dışında başka birim veya yöneticilerle ilişkilendirilemez ve üst yöneticiler, iç denetim faaliyetlerine ilişkin rol ve sorumluluklarını astlarına devredemezler.
+(5) Atanan iç denetçi sayısı onun altında olan idarelerde iç denetim birimi başkanları, denetim ve danışmanlık görevleri de yürütebilirler.
+(6) İç denetim birimlerinde büro hizmetlerini yürütmek üzere yeterli sayıda personel görevlendirilir.
+(7) İç denetim birimlerine idarelerin teşkilat şemalarında yer verilir.
+(8) Atanan iç denetçi sayısı üçün altında olan idarelerde iç denetim faaliyetlerinin koordinasyonu, üst yönetici tarafından görevlendirilen iç denetçi tarafından sağlanır.
+(9) İç denetim birimleri, idare içi ve idare dışı yazışmalarda iç denetim birimi başlığını kullanacaklardır.

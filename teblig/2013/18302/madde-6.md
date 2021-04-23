@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+İç Denetçi Atamaları ve İç Denetim Birimi Başkanlıklarının Kurulması
+İç denetçi atamaları
+MADDE 6 – (1) İdareler, 8/10/2005 tarihli ve 25960 sayılı Resmî Gazete’de yayımlanan İç Denetçi Adayları Belirleme, Eğitim ve Sertifika Yönetmeliği kapsamında yapılan sınavlarda başarılı olarak sertifika almış iç denetçi adayları ile mevcut iç denetçiler arasından naklen atama yoluyla iç denetçi kadrolarına atama yapabilirler. Ancak mevcut iç denetçiler arasından naklen atama yapılmasında 7 nci maddedeki kayıt ve sınırlamalara uyulur. Kanunun geçici 21 inci maddesi hükümleri saklıdır.
+(2) İdareler, sertifika sahibi iç denetçi adayları ile belli bir süre iç denetçilik yaptıktan sonra başka görevlere atananlar arasından iç denetçi kadrolarına atama yapmadan önce, ilgililerin sertifikalarının kullanılabilir durumda olup olmadığını Kuruldan teyit ettirirler.
+(3) Kanunun 65 inci maddesinin son fıkrası uyarınca, iç denetçiler, bakanlıklar ve bağlı idarelerde üst yöneticinin teklifi üzerine Bakan, diğer idarelerde üst yönetici tarafından sertifika sahibi kişiler arasından atanır. Atama işlemlerinin yürütülmesinde, Kanunun 65 inci maddesi ve diğer ilgili iç denetim mevzuatı ile 657 sayılı Devlet Memurları Kanununun genel hükümlerine de uyulur.
+(4) İç denetçi kadrolarına yapılan atamalar ile bu kadroların herhangi bir nedenle boşalması halleri, en geç 10 iş günü içinde Kurula bildirilir.
