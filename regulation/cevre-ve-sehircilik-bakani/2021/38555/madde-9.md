@@ -1,0 +1,2 @@
+Gelir tahmini
+MADDE 9 – (1) Bütçenin gelir tahmini, kesin sonucu alınan son üç yılın gelir artış oranları esas alınarak yapılır. Ayrıca bütçenin uygulanacağı mali yıl içinde herhangi bir nedenle gelirlerde artış meydana gelmesi bekleniyor ise bu ve benzeri hususlar ile tahakkuk ettirildiği yıl içinde tahsil edilemeyen ve sonraki yıllara devreden alacaklardan cari yıl içinde tahsil edileceği tahmin edilenler gelir tahminlerinde dikkate alınır.

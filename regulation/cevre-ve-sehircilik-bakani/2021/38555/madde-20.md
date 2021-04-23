@@ -1,0 +1,3 @@
+Harcamalarda aranacak belgeler
+MADDE 20 – (1) Giderlerin ödenmesinde, ödeme karşılığında alınan fatura veya fatura yerine geçen belge, ücret bordrosu gibi belgelere dayandırılması esas olup, bunun dışında 31/12/2005 tarihli ve 26040 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Merkezî Yönetim Harcama Belgeleri Yönetmeliği hükümleri kıyasen uygulanır. Harcamanın türüne göre, zorunlu hâllerde bu belgeler dışında harcamaya ilişkin diğer belgeler de kullanılabilir.
+(2) Yapılan harcamalarda kullanılan kanıtlayıcı belgeler, harcamalara esas teşkil eder; ancak bu belgelerin içeriğinden ve doğruluğundan harcamayı gerçekleştirenler sorumludur.

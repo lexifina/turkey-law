@@ -1,0 +1,2 @@
+Sorumluluk
+MADDE 18 – (1) Muhasebe belgelerini düzenleyen personel ile bunları amir sıfatıyla tetkik ve imza eden yetkililer, işlemleri denetleyen görevliler, bir belgenin geçerli olabilmesi için o belgenin kapsamına dikkat etmekle yükümlü olup bu işlerle görevlendirilmiş personel, işlemlerin yürürlükte bulunan mevzuata göre yapılmamasından ya da gecikmesinden dolayı, ilgi derecelerine göre müteselsilen sorumludurlar.

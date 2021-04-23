@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38555",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ÇEVRE AJANSI BÜTÇE VE MUHASEBE YÖNETMELİĞİ",
+  "number": "38555",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/38555",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38555&MevzuatTertip=5",
+  "source_sha256": "4fb4a898d429d687eb9985062abd5c055163e3b8ad41a9b7aa219eca9429a542",
+  "source_bytes": 39668,
+  "published": "2021-04-23",
+  "gazette": "31463",
+  "in_force": "2021-04-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2001,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
