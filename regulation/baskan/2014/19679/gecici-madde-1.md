@@ -1,0 +1,2 @@
+TETAŞ tarafından yapılan ithalat ve/veya ihracat faaliyetleri
+GEÇİCİ MADDE 1 – (1) TETAŞ, Kanunun 27 nci maddesine göre mevcut sözleşmeler kapsamında imzalanmış olan enerji alış ve satış anlaşmalarını yürütür. Mevcut imtiyaz ve uygulama sözleşmeleri kapsamında enerji alış ve satış anlaşmaları imzalayabilir, hükümetler arası anlaşmalar kapsamında elektrik enerjisi ithalat veya ihracat anlaşmaları imzalayabilir.

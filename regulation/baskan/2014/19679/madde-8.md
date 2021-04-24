@@ -1,0 +1,25 @@
+Senkron paralel olmayan bağlantılarda ithalat ve/veya ihracat faaliyeti için yapılacak başvurular
+MADDE 8 – (Değişik:RG-24/4/2021-31464)
+(1) Senkron paralel olmayan bağlantılarda ithalat faaliyetinde bulunmak için yapılan lisans tadili başvurularında aşağıdaki bilgi ve belgelerin Kuruma sunulması zorunludur:
+a) İthalat yapılacak ülke.
+b) İthal edilmesi öngörülen elektrik enerjisinin üretiminde kullanılan yakıt türü veya türleri.
+c) İthal edilmesi öngörülen elektrik enerjisinin megavat (MW) cinsinden azami gücü, kilovatsaat (kWh) cinsinden yıllık miktarı.
+ç) İthalat faaliyeti için öngörülen başlama tarihi ve faaliyet süresi.
+d) İthal edilmesi öngörülen elektrik enerjisinin ülke sınırındaki teslim noktaları.
+e) İthalatta kullanılacak yöntem.
+f) Karşı ülkede elektrik enerjisi ithalatı ile ilgili Bakanlık ve/veya yetkili Kurumla yapılan ve ilgili şirketin unvanını ve bu fıkra kapsamında bilgileri kapsayan ve ilgili enterkonneksiyon hattının kullanılabileceğini belirtir; ön anlaşma, protokol veya niyet mektubu ve söz konusu enerjinin tedarik edilmiş veya edileceğine ilişkin muhatap şirket ile yapılan ön anlaşma, protokol veya niyet mektubu. Ayrıca imza tarihi eski olmakla birlikte başvuru yapılacak süre için yürürlükte olan bir Anlaşma sunulması halinde söz konusu Anlaşmanın geçerli olduğuna ilişkin olarak başvuru sahibi tarafından verilecek yazılı taahhütname.
+g) Lisans tadil bedelinin yatırıldığına ilişkin belge.
+(2) Senkron paralel olmayan bağlantılarda ihracat faaliyetinde bulunmak için yapılan lisans tadili başvurularında aşağıdaki bilgi ve belgelerin Kuruma sunulması zorunludur:
+a) İhracat yapılacak ülke.
+b) İhraç edilmesi öngörülen elektrik enerjisinin megavat (MW) cinsinden azami gücü ve kilovatsaat (kWh) cinsinden yıllık miktarı.
+c) İhracat faaliyeti için öngörülen başlama tarihi ve faaliyet süresi.
+ç) İhraç edilmesi öngörülen elektrik enerjisinin ülke sınırındaki teslim noktaları.
+d) İhracatta kullanılacak yöntem.
+e) Karşı ülkede elektrik enerjisi ihracatı ile ilgili Bakanlık ve/veya yetkili kurumla yapılan ve ilgili şirketin unvanını ve bu fıkra kapsamında belirtilen bilgileri içeren ve ilgili enterkonneksiyon hattının kullanılabileceğini belirtir ön anlaşma, protokol veya niyet mektubu. Ayrıca imza tarihi eski olmakla birlikte başvuru yapılacak süre için yürürlükte olan bir Anlaşma sunulması halinde söz konusu Anlaşmanın geçerli olduğuna ilişkin olarak başvuru sahibi tarafından verilecek yazılı taahhütname.
+f) Lisans tadil bedelinin yatırıldığına ilişkin belge.
+(3) Karşı ülkede elektrik enerjisi ithalatı/ihracatı ile ilgili Bakanlık ve/veya yetkili Kurumla yapılan ön anlaşma, protokol veya niyet mektubu, söz konusu ülkedeki Türk Konsolosluğundan veya Lahey Devletler Özel Hukuku Konferansı çerçevesinde hazırlanan 20/6/1984 tarihli ve 3028 sayılı Kanun ile kabul edilen Yabancı Resmi Belgelerin Tasdiki Mecburiyetinin Kaldırılması Sözleşmesi hükümlerine göre onaylanmış olmalıdır.
+(4) Bu madde kapsamında belirtilen bilgi ve belgelerin eksiksiz olarak Kuruma sunulması durumunda;
+a) Tedarik lisansına veya üretim lisansına sahip tüzel kişiler tarafından; mevcut ya da yapılacak hatlar vasıtasıyla uluslararası enterkonneksiyon şartı oluşmuş ülkelerden ya da ülkelere, tedarik lisansı sahibi tüzel kişiler için ithalat ve/veya ihracat faaliyetlerinde üretim lisansına sahip tüzel kişiler içinse ihracat faaliyetinde bulunmak üzere başvuruda bulunulması halinde, Kurum tarafından, Bakanlık görüşü ile teknik konulara ilişkin olarak Sistem İşletmecisinin görüşü alınır.
+b) Görüşlerin olumlu olması halinde, başvuru Kurum internet sayfasında duyurulur. Duyuruyu izleyen on beş gün içerisinde, aynı hattı kullanmak suretiyle ithalat ve/veya ihracat faaliyetinde bulunmak isteyen tedarik lisansı sahibi tüzel kişiler ile aynı hattı kullanmak suretiyle ihracat faaliyetinde bulunmak isteyen üretim lisansı sahibi tüzel kişiler de Kuruma başvurabilir. Süresinde yapılan başvurular sonuçlandırılıncaya kadar aynı hat için yeni başvuru kabul edilmez.
+c) Aynı hat için birden fazla lisans tadil başvurusu olması ve kısıt oluşması halinde, başvurular bu Yönetmelik hükümleri doğrultusunda sonuçlandırılmak üzere ilgili Sistem İşletmecisine ve başvuru sahiplerine bildirilir. Sistem İşletmecisi başvuru sahipleri arasında yapılacak yarışma ile kapasite tahsisine ilişkin işlemleri bu Yönetmelik hükümleri çerçevesinde kırk beş gün içerisinde sonuçlandırarak Kurul kararı alınmasını teminen sonucu Kuruma bildirir. Yarışmayı kazanan başvuru sahibinin süresi içerisinde dokuzuncu maddede belirtilen belgelerle birlikte lisans tadili için Kuruma başvurmaması durumunda bu durum Sistem İşletmecisine bildirilir ve yarışmada ikinci olan tüzel kişi hakkında Kurul kararı alınması için işlem başlatılır.
+ç) Ulusal elektrik sisteminin elektrik enerjisinin ithal ya da ihraç edileceği ülkenin elektrik sistemi ile senkron paralel şekilde işletilebilmesinin mümkün olmaması durumunda ithalat veya ihracat faaliyetlerinden hangisinin yapılacağına ilişkin olarak Bakanlık görüşü esas alınır.

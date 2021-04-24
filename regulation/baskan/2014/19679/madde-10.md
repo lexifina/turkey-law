@@ -1,0 +1,3 @@
+İthalat ve ihracat faaliyetlerinde dengeleme mekanizmasına ilişkin süreç
+MADDE 10 – (Değişik:RG-24/4/2021-31464)
+(1) Enterkonneksiyon hat kapasitesini kullanarak ithalat ve/veya ihracat yapmak amacıyla hat kapasite tahsisine hak kazanmış lisans sahibi tüzel kişiler ve/veya diğer ülkede yapılan ihalelerde Fiziksel İletim Hakkı elde etmiş olan kişi veya kuruluşlar ile enerji alış/satış anlaşması yapmış olan ithalat ve/veya ihracat hakkı sahibi şirketleri kapsayan dengeleme mekanizmasına ilişkin faaliyetler ve uzlaştırma işlemleri dengeleme ve uzlaştırmaya ilişkin mevzuat hükümleri uyarınca yürütülür.
