@@ -1,0 +1,2 @@
+Hizmet sunucularının yükümlülükleri
+MADDE 13 − (1) Yapılacak işte hizmet sunucusu kooperatifler, köy tüzel kişilikleri(1) ve köylüler, aldığı işin işverenidir. İşten doğan 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, 22/5/2003 tarihli ve 4857 sayılı İş Kanunu ile her türlü iş kazası ve vergi mevzuatından doğacak yükümlülüklerden hizmet sunucuları sorumludur.

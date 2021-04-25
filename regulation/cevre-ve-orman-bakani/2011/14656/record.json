@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.14656",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AĞAÇLANDIRMA, EROZYON KONTROLÜ VE SİLVİKÜLTÜR İŞLERİNDE BİRİM FİYAT USULÜ İLE HİZMET ALIMLARINA DAİR YÖNETMELİK",
+  "number": "14656",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2011/14656",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14656&MevzuatTertip=5",
+  "source_sha256": "97f5dd7be1d655b34c305f3476b4a42a17ca6b0806e5955aeaf6aacedf8d8051",
+  "source_bytes": 47569,
+  "published": "2011-01-09",
+  "gazette": "27810",
+  "in_force": "2021-04-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/4/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-04-25",
+      "RG-25/4/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-04-25",
+      "25/4/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-28",
+      "28/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-05-23",
+      "23/5/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1851,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
