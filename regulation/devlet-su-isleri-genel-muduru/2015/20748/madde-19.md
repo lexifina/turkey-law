@@ -1,0 +1,4 @@
+Denetim sorumlusu
+MADDE 19 – (1) Su yapılarının projelerinin etüt, planlama, teknik araştırma, proje yapımı, proje kontrolü, proje tasdiki, inşa ve denetim faaliyetlerinde toplam olarak en az on yıl çalışmış mühendis ve mimarlar denetim sorumlusu olabilirler.
+(2) Denetim sorumlusu, tüm SYDF personelinin sevk ve idaresinden, hizmetlerin ifası için DSİ, yatırımcı, yüklenici ve ilgili diğer birimler ve resmi kurumlar ile gerekli yazışmaların yapılmasından, işbu Yönetmelik gereğince hazırlanacak olan raporların düzenlenmesinden sorumludur. Sevk ve idaresi altındaki denetim elemanlarının yaptığı iş ve işlemlerden öncelikle ilgili personel olmak üzere denetim sorumlusu da müteselsilen sorumludur.
+(3) Aynı anda başka bir SYDF’de çalıştığı tespit edilen denetim sorumlusu, bu tespiti takip eden iki yıl süresince hiçbir SYDF’de çalışamaz.

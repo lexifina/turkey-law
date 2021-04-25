@@ -1,0 +1,4 @@
+Denetimi DSİ tarafından yapılan su yapıları
+GEÇİCİ MADDE 4 – (Ek:RG-24/9/2019-30898)
+(1) 15/5/2018 tarihi ile bu maddenin yürürlüğe girdiği tarih arasındaki dönemde su yapılarının denetiminin DSİ tarafından yapılması durumunda; denetim hizmeti bedeli, 7 nci maddenin sekizinci fıkrası uyarınca yatırımcıdan tahsil edilir.
+(2) 15/5/2018 tarihinden önce EK-3’te yer alan protokol imzalanarak DSİ tarafından denetim hizmeti verilen işlerde, bu tarihten önce tahsil edilmiş olan denetim hizmet bedelleri hakkında herhangi bir mahsup veya iade işlemi yapılmaz. 15/5/2018 tarihinden önce EK-3’te yer alan protokol imzalandığı halde denetim hizmet bedeli hiç ödenmeyen veya kısmen ödenen alacakların kalan tutarı, 15/5/2018 tarihinden önce imzalanmış olan EK-3’te yer alan protokol hükümlerine göre yatırımcıdan tahsil edilir.
