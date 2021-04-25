@@ -1,0 +1,4 @@
+Taksitli satışlar
+MADDE 57 – (1) Satış bedeli taksitle de ödenebilir. Taksitle ödeme halinde, satış bedelinin en az dörtte biri, vergi, harç ve giderleri peşin, kalanı en fazla bir yılda eşit taksitlerle ödenir. Ücret ve bedeller peşin, kalanı en fazla bir yılda eşit taksitlerle ödenir. Alacağın kalan kısmına kanuni faiz uygulanır.
+(2) Taksit süresi ve sayısı lüzumu halinde Genel Müdürlük tarafından belirlenebilir.
+(3) Taksitli satışlarda, taksit tutarını ve kanuni faizlerini karşılayacak miktarda kesin ve süresiz teminat mektubu verilmesi halinde taşınmaz alıcısı adına devredilir. Alıcısı adına mülkiyet devri yapılmayan taşınmazlara ilişkin taksitli satışlarda, alıcı tarafından yükümlülüklerin yerine getirilmemesi durumunda, tahsil edilen tutarlardan ihale sırasında alınan geçici teminata isabet eden tutar idareye irat kaydedilerek kalanı alıcıya iade edilir.

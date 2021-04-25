@@ -1,0 +1,3 @@
+Mevcut kira sözleşmelerindeki bedel artışı
+GEÇİCİ MADDE 1 – (Ek:RG-13/2/2021-31394)
+(1) Bu maddenin yürürlüğe girdiği tarihte halen devam eden bir yıldan uzun süreli kira ve irtifak hakkı sözleşmelerinde ikinci ve izleyen yıllar bedelleri mevcut sözleşmeler yenilenmeksizin 12 nci maddeye göre hesaplanarak tahsil edilir. Ancak, 1/8/2018 tarihinden itibaren güncellenerek tespit edilen cari yıl kira ve irtifak hakkı bedellerinin; 1/1/2019 tarihine kadar olan döneme isabet eden kısmı mevcut sözleşme hükümlerine göre, bu tarihten sonraki döneme isabet eden kısmı ise 12 nci maddeye göre hesaplanarak gerekli tahsilat, mahsup ve iadesi gerçekleştirilir.

@@ -1,0 +1,4 @@
+Alt kiracılık(1)
+MADDE 67 – (1) Genel Müdürlük taşınmazları, talepleri halinde kamu idarelerine, kanunla kendilerine verilen yetki ve görevleri yerine getirmek amacıyla; cari yıl kira bedeline ilave olarak kamu idaresi ile üçüncü kişi arasında düzenlenen kira sözleşmesinden elde edilen gelirin, cari yıl kira bedelinden fazla olan kısmının yüzde yirmibeşinin idareye ayrıca ödenmesi kaydıyla alt kiracılık hakkı da tanınmak suretiyle kiralama yapılabilir.
+(2) (Ek:RG-13/2/2021-31394)(1) Gerçek ve özel hukuk tüzel kişilerince kiralanan taşınmazın asli kiralama amacı dışında kalan ve yüzölçümünün yüzde yirmi beşini geçmeyen kısmının, kiracı tarafından üçüncü kişilere kiraya verilmesine, elde edilen kira gelirinin yüzde yirmi beşinin İdareye ödenmesi şartıyla Bakanlık tarafından izin verilebilir.
+(3) Alt kiracı, bu hakkı gerçek ve tüzel kişilere kısmen veya tamamen devredemez ve sözleşmelerine ortak alamaz.

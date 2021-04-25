@@ -1,0 +1,11 @@
+Tahmin edilen bedel tespiti
+MADDE 12 – (1) Tahmin edilen bedel, bedel tespit komisyonunca tespit edilir ve rapora bağlanır. Bedel tespit ve takdirinde, taşınmazın konumu ve özellikleri göz önünde bulundurulmak suretiyle rayiç bedel esas alınır.
+(2) Ancak bu bedel;
+a) (Değişik:RG-13/2/2021-31394) Satış, devir ve trampada; üzerinde bulunan ve mevcut durumu itibarıyla kullanılması ekonomik olmayan binaların yıkım masrafını aşan asgari levazım bedeli ve varsa bu nitelikte olmayan diğer binaların Çevre ve Şehircilik Bakanlığınca belirlenen yapı yaklaşık birim maliyetlerinden az olmamak üzere aşınma payı da dikkate alınarak belirlenecek rayiç bedel ile taşınmazın zemininin rayiç değerinin toplamıdır.
+b) İrtifak hakkı kurulmasında ilk yıl için, taşınmazın rayiç bedelinin yüzde ikisinden az olmamak üzere tespit ve takdir edilir.
+c) Kirada ise ilk yıl için, Genel Müdürlüğün özel mülkiyetindeki taşınmazın rayiç bedelinin, orman sayılan alanlarda bulunan yapı ve tesislerin ise yapı yaklaşık maliyetinin yüzde beşinden az olmamak üzere tespit ve takdir edilir.
+(3) İdarece bedel tespit ve takdir edilirken gerektiğinde bedel veya bedelin hesabında kullanılacak fiyatlar, ilgili kuruluş veya bilirkişilerden de araştırılabilir.
+(4) (Değişik:RG-13/2/2021-31394) Tahmin edilen bedel; 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanunu hükümlerine göre sermaye piyasasında değerleme faaliyetinde bulunmak üzere yetkilendirilen değerleme kuruluşları ile Genel Müdürlükçe görevlendirilecek denetim elemanlarına tespit ettirilebilir. Bu şekilde tespit ettirilen bedel, tahmin edilen bedel olarak dikkate alınır.
+(5) (Değişik:RG-13/2/2021-31394) Tespit ve hesaplamalar bunun dayanaklarının da eklendiği tahmin edilen bedel tespit raporunda gösterilir, rapor asıl evrak arasında saklanır.
+(6) Büfe, kantin, çay ocağı olarak kullanılmak üzere kiraya verilecek yerlerin tahmini kira bedeli, yukarıdaki hükümlere tabi olmaksızın idarece tespit edilir.
+(7) (Değişik:RG-13/2/2021-31394) Bir yıldan uzun süreli kira ve irtifak hakkı sözleşmelerinde ikinci ve izleyen yıllar bedelleri, Türkiye İstatistik Kurumunca yayımlanan Tüketici Fiyat Endeksi (TÜFE-on iki aylık ortalamalara göre yüzde değişim) oranında arttırılır.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Genel Müdürlüğün özel mülkiyetindeki taşınmazların satışı, (Ek ibare:RG-13/2/2021-31394) devri, taşınmaz gelirinin yatırım projelerinde değerlendirilmesi, trampası, arsa veya kat karşılığı inşaat yaptırılması, kiraya verilmesi, üzerinde irtifak hakkı kurulması, ecrimisil ve tahliye işlemleri ile orman sayılan alanlarda bulunan yapı ve tesislerin kiraya verilmesi, ecrimisil ve tahliye işlemlerini kapsar.

@@ -1,0 +1,2 @@
+Taşınmazların müşteri tarafından adına tescil ettirilmesi
+MADDE 56 – (1) Genel Müdürlüğün özel mülkiyetindeki taşınmazı ihale ile satın alan müşteri; satış bedelini, vergi, resim, harç ve diğer masrafları ödemesi şartıyla, şartnamede yazılı süre içinde taşınmazı namına tescil ettirmeye mecburdur. Aksi takdirde müşteri, vukua gelecek hasar, zarar, fuzuli işgal ve diğer sebeplerle idareden bir talepte bulunamaz.

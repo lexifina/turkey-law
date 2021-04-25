@@ -1,0 +1,3 @@
+Müşterinin sözleşmenin bozulmasına neden olması
+MADDE 48 – (1) Sözleşme yapıldıktan sonra müşterinin taahhüdünden vazgeçmesi veya taahhüdünü, şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi veya kiraya verilen, ya da irtifak hakkı kurulan taşınmazı sözleşmesinde öngörülen amaç dışında kullanması ve idarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumu devam ettirmesi halinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı idareye gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(2) Gelir kaydedilen kesin teminat, müşterinin borcuna mahsup edilemez.

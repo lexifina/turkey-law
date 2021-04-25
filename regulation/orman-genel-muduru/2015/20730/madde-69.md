@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+İrtifak Hakkı İşlemleri
+İrtifak hakkı kurulması
+MADDE 69 – (1) Genel Müdürlüğün özel mülkiyetindeki taşınmazlar üzerinde 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununa göre en fazla yirmidokuz yıla kadar, oturma hakkı hariç olmak üzere irtifak hakkı kurulabilir. Bu taşınmazlar üzerinde taşınmaz yükü ve taşınmaz rehni tesis edilemez.
+(2) İrtifak hakkı lehtarının kusuru dışında kamudan kaynaklanan, hakkın tamamen kullanılmasını ve işin yürütülmesini en az otuz gün süreyle engelleyen hukuki veya fiili bir imkansızlık durumunun ortaya çıkması ya da mücbir sebeplerin varlığı halinde, irtifak hakkı lehtarının talebi üzerine irtifak hakkı süresi, kamudan kaynaklanan fiili veya hukuki imkansızlık durumunun veya mücbir sebeplerin ortadan kalkmasına kadar geçecek süre kadar dondurulur. Dondurulan süre için bedel alınmaz. Sürenin yeniden işlemeye başladığı tarihte alınacak bedel, dondurulan yıl bedelinin geçen süre kadar sözleşmesinde belirtilen oranda artırılması suretiyle tespit edilir. Ancak, dondurulan yıl için ödenmiş olan bedelin dondurulan süreye isabet eden kısmı sözleşmesinde belirtilen oranda artırılmak suretiyle yeni tespit edilen bedelden mahsup edilir. Dondurulan süre sözleşme süresine eklenir.
+(3) İrtifak hakkı kurulmasında kanunlardaki ve diğer ilgili mevzuattaki özel hükümler saklıdır.

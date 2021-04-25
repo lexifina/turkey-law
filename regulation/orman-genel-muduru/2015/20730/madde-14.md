@@ -1,0 +1,4 @@
+Bedellerin ödenme şekli ve yıllık bedel artışları
+MADDE 14 – (1) Satış bedeli (taksitli satışlarda satış bedelinin en az dörtte biri); tüm vergiler, harçlar ve giderleri peşin alınmak suretiyle, ihalenin onaylanmasına ilişkin kararın müşteriye tebliğ tarihinden itibaren onbeş gün içinde peşin olarak ödenir.
+(2) (Değişik:RG-13/2/2021-31394) İlk yıl irtifak hakkı ve kira bedelinin tamamı; tüm vergiler, harçlar ve giderleri peşin alınmak suretiyle, onaylanan ihale kararının ilgilisine tebliğ edildiği tarihten itibaren on beş gün içinde peşin ödenir. Müteakip yıllar irtifak hakkı ve kira bedelleri sözleşmede belirtilen tarihte peşin olarak ödenir.
+(3) On yılı geçen kiralamalarda ve irtifak hakkı tesisinde, sözleşmenin onuncu yılının sonunda, idarece gerek görülürse bedel, cari bedelin altında kalmamak kaydıyla yeniden belirlenebilir.
