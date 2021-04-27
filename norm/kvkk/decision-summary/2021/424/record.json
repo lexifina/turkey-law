@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/424",
+  "source_id": 7114,
+  "date": "2021-04-27",
+  "title": "“Bir bankanın, varlık yönetim şirketinin ve üç farklı avukatın borçlu olmayan ilgili kişinin kişisel verisini işleyerek icra takibi başlattıkları iddiası” hakkında Kişisel Verileri Koruma Kurulunun 27/04/2021 tarihli ve 2021/424 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7114/2021-424",
+  "source_sha256": "c89f2d1578abab8cb00a98356eed9bc4369bfd38049d91217acf3badc9ddcd86",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
