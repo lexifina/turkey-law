@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/427",
+  "source_id": 6981,
+  "date": "2021-04-27",
+  "title": "“Bir e-ticaret sitesi (veri sorumlusu) nezdinde gerçekleşen veri ihlali hakkında yapılan resen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 27/04/2021 tarih ve 2021/427 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6981/2021-427",
+  "source_sha256": "10809cc2030c06b192b1da4fb461808ee4220ccedae287eca989ee9c0ecc39c9",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
