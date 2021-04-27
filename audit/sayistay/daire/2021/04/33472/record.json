@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "262",
+  "decision_date": "2021-04-27",
+  "source_id": 33472,
+  "chamber": "4",
+  "ilam_number": "71",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33472/",
+  "source_sha256": "4ac0d8ec92865ecfdca52cb669e424e7f8a92d4d39ebd45418977a8b52bc06f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
