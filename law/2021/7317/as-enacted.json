@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7317",
+  "year": 2021,
+  "title": "Lisanslı Harita Kadastro Mühendisleri ve Büroları Hakkında Kanunda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-04-27",
+  "gazette_issue": "31467",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210427-7.htm",
+  "source_sha256": "d01aa2d88ab7882343c6dbb9b7fd10582e285c1170dbeb603aff78959b4e72c2",
+  "text_sha256": "01b2e549f79e07239c613d93398ce96e30b1508dc06db369d7dc840dc5fda4a8",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/04/27/31467-7",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210427-7.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
