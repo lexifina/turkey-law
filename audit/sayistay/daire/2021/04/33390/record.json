@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "260",
+  "decision_date": "2021-04-27",
+  "source_id": 33390,
+  "chamber": "4",
+  "ilam_number": "183",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33390/",
+  "source_sha256": "f6cafe11a498a6a14c4a6dd89f2d494892a792ca0c7fe401369776eff703f6d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
