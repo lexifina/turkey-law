@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/17",
+  "meeting_date": "2021-04-28",
+  "meeting_date_as_published": "28.4.2021",
+  "decision_no": "35",
+  "source_id": 15958,
+  "title": "RTÜK kararı 2021/17-35",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/15958",
+  "source_sha256": "0e818437cbee14432b89c7f5406b84e01775fd1f6da47452d972309e697b0c2a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
