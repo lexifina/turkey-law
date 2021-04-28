@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49552",
+  "decision_date": "2021-04-28",
+  "source_id": 24123,
+  "chamber": "1",
+  "file_number": "45364",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24123/",
+  "source_sha256": "a9d96ac1552cdc4db920ae294708ffc4c65f68d2a32f18309ec9f93b548eda65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
