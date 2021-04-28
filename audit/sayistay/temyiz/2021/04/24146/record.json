@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49568",
+  "decision_date": "2021-04-28",
+  "source_id": 24146,
+  "chamber": "2",
+  "file_number": "44549",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24146/",
+  "source_sha256": "b198a5708460dc9ca576211120f0edcc9dc561c119d12bb4ad83d6b49e89cdd4",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
