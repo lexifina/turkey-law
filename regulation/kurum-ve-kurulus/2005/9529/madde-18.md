@@ -1,0 +1,4 @@
+Meclis kararlarının yürürlüğe girmesi
+Madde 18 — Meclisin almış olduğu kararların tam metni, kararın kesinleştiği tarihten itibaren en geç yedi gün içinde belediye başkanı tarafından il merkezi belediyeler ile merkez ilçeye bağlı olan belediyelerde valiye, ilçe merkezi ve ilçeye bağlı belediyelerde kaymakama gönderilir ve uygun araçlarla halka duyurulur. Vali veya kaymakama gönderilmeyen kararlar yürürlüğe girmez.
+Meclis kararları iki suret olarak mülki idare amirliğine gönderilir. (Mülga cümle:RG-27/11/2014-29188) (…)
+Valilik, kaymakamlık ve büyükşehir belediye başkanlığınca, teslim alınan kararın son sayfasına, karar tarihi, teslim alındığı tarih ve kayıt numarası yazıldıktan sonra kararın bir sureti belediyeye iade edilir. Bu şekilde kayıtları tamamlanan karar teslim alan makam tarafından dosyasında saklanır. Bu kararları kaydetmek üzere ilgili idareler tarafından bir defter tutulur.

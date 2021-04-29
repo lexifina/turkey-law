@@ -1,0 +1,3 @@
+Mecliste düzenin sağlanması
+Madde 12 — Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür. Meclis görüşmeleri sırasında söz alan üyenin konu dışına çıkması, kişiliğe dokunur söz söylemesi, diğer üyelerin hatibin sözünü kesmesi ve meclisin düzenini bozacak davranışta bulunması yasaktır. Buna aykırı davranan üyeler, başkan tarafından uyarılır, buna rağmen davranışlarında ısrar eden üye başkanın talimatıyla görevliler tarafından meclisten çıkarılır.
+Meclis görüşmeleri sırasında sükûnetin bozulması durumunda başkan tarafından ilgililere ihtarda bulunulur. Görüşmelere devam edilemeyeceğinin anlaşılması halinde başkan oturuma ara verebileceği gibi görüşmeleri bir sonraki birleşime erteleyebilir.

@@ -1,0 +1,2 @@
+Toplantı yeri
+Madde 7 — Meclis toplantıları meclis toplantı salonu olarak belirlenen yerde yapılır. Toplantının bu yer dışında yapılmasının zorunlu olduğu durumlarda, toplantı gününden en az üç gün önceden üyelere bildirilmek ve belediye sınırları içerisinde olmak kaydıyla başkanın belirlediği yerde toplantı yapılabilir. Bu şekildeki toplantının yeri ve zamanı gündemin duyurulmasındaki usullerle belde halkına duyurulur.

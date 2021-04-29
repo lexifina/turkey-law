@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Toplantı Usul ve Esasları
+Meclisin ilk toplantısı
+Madde 5 — Meclis, mahalli idareler seçim sonuçlarının ilânını takip eden beşinci gün belediye başkanının başkanlığında kendiliğinden toplanır. (Değişik cümle:RG-21/8/2014-29095) Başkanın toplantıya katılamaması durumunda en yaşlı üye toplantıya başkanlık eder. Başkan tarafından meclisin en genç iki üyesi geçici kâtip olarak davet olunur. Başkanlıkça yoklama yapılarak salt çoğunluğun mevcut olduğu tespit edildikten sonra meclis, birinci ve ikinci başkan vekillerini, en az iki kâtip üyeyi seçer. Kâtip üyeler seçildikten sonra en genç iki üye yerlerini seçilmiş kâtip üyelere bırakırlar.
+(Değişik ikinci fıkra:RG-27/11/2014-29188) Ayrıca, bu toplantıda encümene üye seçimi, il ve ilçe belediyeleri ile nüfusu 10.000’in üzerindeki belediyelerde plan ve bütçe komisyonuyla imar ve bayındırlık komisyonu, büyükşehir belediyelerinde ise plan ve bütçe, imar ve bayındırlık, çevre ve sağlık, eğitim, kültür, gençlik ve spor komisyonu ile ulaşım komisyonlarına ve gerekli görülmesi halinde diğer komisyonlara üye seçimi yapılır.
