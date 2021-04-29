@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38563",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞI ÖĞRETMENEVİ VE AKŞAM SANAT OKULLARI YÖNETMELİĞİ",
+  "number": "38563",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2021/38563",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38563&MevzuatTertip=5",
+  "source_sha256": "3c39fa07772aed681a3f98d23eb4ac8d07e9510145ed68a1df08bc0d247ea986",
+  "source_bytes": 50991,
+  "published": "2021-04-29",
+  "gazette": "31469",
+  "in_force": "2021-04-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.04.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2473,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
