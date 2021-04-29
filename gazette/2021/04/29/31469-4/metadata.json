@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-04-29",
+  "issue": "31469",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "ANA STATÜ",
+  "title": "Türkiye Geleneksel Türk Okçuluk Federasyonu Ana Statüsü",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210429-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210429.htm",
+  "index_sha256": "ca5a5ee2dc7c707f518a80f50537337c4f6bed76a9dbe138525103423ab7cd3e",
+  "index_header": "29 Nisan 2021 ... 31469 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/04/20210429.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
