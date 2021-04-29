@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10180-2",
+  "decision_date": "2021-04-29",
+  "title": "Teminat Usul ve Esaslarında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2021-05-06",
+  "resmi_gazete_number": "31476",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UzHF9TdYK1E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UzHF9TdYK1E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MSpDpQ5C/7E="
+  ],
+  "source_sha256": "aa9f787233615eaa4f22ea9bdacce7eda234c1405e678406973657ee0a0af63f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-29",
+  "law_text_complete": true
+}
