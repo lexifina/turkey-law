@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10180-1",
+  "decision_date": "2021-04-29",
+  "title": "Vadeli Elektrik Piyasası İşletim Usul ve Esaslarında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2021-05-06",
+  "resmi_gazete_number": "31476",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s1+Npq53UzM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=s1+Npq53UzM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kb2ZHC9fyxk="
+  ],
+  "source_sha256": "5a293c6727df057a94af4a587f7382a34896b283b423f3b27b8a2a6fda5a0e3f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-04-29",
+  "law_text_complete": true
+}
