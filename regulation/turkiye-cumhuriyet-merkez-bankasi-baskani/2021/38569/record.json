@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38569",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖDEMELERDE KRİPTO VARLIKLARIN KULLANILMAMASINA DAİR YÖNETMELİK",
+  "number": "38569",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "issuer_slug": "turkiye-cumhuriyet-merkez-bankasi-baskani",
+  "path": "regulation/turkiye-cumhuriyet-merkez-bankasi-baskani/2021/38569",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38569&MevzuatTertip=5",
+  "source_sha256": "ec6189c217a249a7db0f1253b301046d7921efdbd9253f13aac9324a2c66ffd7",
+  "source_bytes": 15869,
+  "published": "2021-04-16",
+  "gazette": "31456",
+  "in_force": "2021-04-30",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 30/4/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 30/4/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 298,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

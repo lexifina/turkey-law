@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 14/1/1970 tarihli ve 1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanununun 4 üncü maddesinin üçüncü fıkrasının (I) numaralı bendinin (f) alt bendi ile dördüncü fıkrası ve 20/6/2013 tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 12 nci maddesinin üçüncü fıkrası ile 18 inci maddesinin altıncı fıkrasına dayanılarak hazırlanmıştır.
