@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38567",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 314)",
+  "number": "38567",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/38567",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38567&MevzuatTertip=5",
+  "source_sha256": "24ba4cd9c33a518a40eb1d165b7dc56fca4a4bb3f98d2de9d0ad56fa1af2fb90",
+  "source_bytes": 82360,
+  "published": "2021-04-30",
+  "gazette": "31470",
+  "in_force": "2021-04-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.04.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4195,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38567-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
