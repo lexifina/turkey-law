@@ -1,0 +1,5 @@
+Sözleşme kapsamında yapılabilecek iş artışı ve iş eksilişi
+MADDE 55- (1) Sözleşme konusu işlerde, öngörülmeyen durumlar nedeniyle sözleşme türüne bağlı olmaksızın iş artışı veya iş eksilişine gidilebilir. İş artışına konu işlerin birim fiyat üzerinden hesaplanabilecek işler olması gereklidir.
+(2) Sözleşme konusu işte iş artışı yapılabilmesi için sözleşmeye esas iş içerisinde kalınması ve iş artışı yapılan iş kaleminin asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması şartları aranır. İş artışı durumunda işin süresinde değişiklik ve sözleşme bedelinin % 40’ına kadar sözleşme bedelinde artış yapılabilir. Artışa konu iş, sözleşme ve ihale dokümanındaki hükümler çerçevesinde aynı yükleniciye yaptırılır.
+(3) İş artışı veya iş eksilişi yapılması durumunda sözleşme süresi, sözleşme bedeli ve değiştirilen diğer hükümler ek bir sözleşmeye bağlanır.
+(4) İşin ikinci fıkrada belirtilen şartlar dahilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı tasfiye edilir. Ancak bu durumda, işin tamamının ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur.

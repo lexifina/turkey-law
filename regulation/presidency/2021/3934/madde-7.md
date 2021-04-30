@@ -1,0 +1,4 @@
+İhaleye katılamayacak olanlar ve yasak fiil veya davranışlar
+MADDE 7- (1) Bu Usul ve Esaslar kapsamındaki mal ve hizmet alımlarında, 4734 sayılı Kanunun 10 uncu maddesinin ihale dışı bırakmaya ilişkin hükümleri uygulanır.
+(2) 4734 sayılı Kanunun 11 inci maddesinde belirtilenler, bu Usul ve Esaslar kapsamındaki mal ve hizmet alımlarına ilişkin ihalelere katılamazlar. Bu yasaklara rağmen ihaleye katılan istekliler, ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca bu durumun tekliflerin değerlendirmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal edilir.
+(3) Bu Usul ve Esaslar kapsamında yapılacak mal ve hizmet alımlarına ilişkin iş ve işlemlerde 4734 sayılı Kanunun 17 nci maddesinde belirtilen fiil veya davranışlarda bulunulması yasaktır. Bu yasak fiil veya davranışlarda bulunanlar hakkında 4734 sayılı Kanunun dördüncü kısmında belirtilen hükümler uygulanır.

@@ -1,0 +1,9 @@
+Sözleşme düzenlenmesi
+MADDE 22- (1) İdarece gerekli görülmesi halinde, harcama yetkilisinin onayı ile belirlenen yüklenici, sözleşmeyi imzalamak üzere yazılı olarak davet edilir. Bu davette, sözleşmenin tutarı ve işin kapsamına uygun olarak yükleniciden; mesleki faaliyetini sürdürdüğünü gösteren belge, emekli gerçek kişi olması halinde geçmişte yürüttüğü mesleki faaliyetlere ilişkin belgeler, ilgili personelin eğitimi ve mesleki niteliklerinin uygunluğunu gösteren belgeler, sözleşme imzalamaya yetkili kişiyi tevsik eden belge, iş deneyimi, bitirdiği iş miktarını ve türünü gösteren bilgi ve belgeler, mali durumu ile ilgili bilgi ve belgeler gibi sözleşme imzalanmadan önce ibraz edilmesi idarece gerekli görülen diğer bilgi ve belgeler talep edilebilir.
+(2) Sözleşme imzalanmadan önce sözleşmeye ait damga vergisinin yüklenici tarafından yatırıldığını gösteren belgenin idareye ibrazı gereklidir. Ayrıca yüklenicinin yasaklı olup olmadığı EKAP üzerinden araştırılır, yasaklı olduğu belirlenen yüklenici ile sözleşme imzalanmaz.
+(3) Doğrudan alım usulü ile yapılacak alımlarda, kesin teminat alınıp alınmamasına, alınacaksa miktarına idare tarafından karar verilir.
+(4) Sözleşmeyi, yüklenici ile idare adına harcama yetkilisi imzalar.
+(5) Bu Usul ve Esaslarda düzenlenen sözleşmeyle ilgili hükümler, niteliğine uygun düştüğü ölçüde, doğrudan alım usulüyle yapılacak alımlarda da uygulanır.
+(6) Doğrudan alım usulü ile yapılacak alımlarda ön ödeme yapılıp yapılmamasına idare tarafından karar verilir. Ön ödeme yapılacak hallerde 46 ncı madde hükümleri uygulanır.
+(7) Uluslararası kuruluşlara doğrudan alım usulüyle yaptırılacak işlerde, sözleşme yerine geçmek üzere mektup teatisi, mutabakat zaptı veya idarece belirlenecek başka yazılı bir yöntem kullanılabilir.
+(8) Yabancı gerçek ve tüzel kişilerle yapılacak sözleşmelerde, yüklenici ile yapılacak sözleşmenin imza yeri ile imzaya ilişkin diğer şartlar idarenin takdirindedir.

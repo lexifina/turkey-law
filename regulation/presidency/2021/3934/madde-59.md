@@ -1,0 +1,3 @@
+Muayene ve kabul
+MADDE 59- (1) Teslim edilen mal, hizmet veya yapılan işin muayene ve kabul işlemleri, idarelerce kurulacak ikisi konunun uzmanı en az üç kişilik muayene ve kabul komisyonları tarafından yapılır. Mal veya yapılan iş yüklenici tarafından idareye teslim edilmedikçe muayene ve kabul işlemleri yapılamaz.
+(2) Ancak sözleşmesinde hüküm bulunması halinde; imalat veya üretim süreci gerektiren işler, muayene ve kabul komisyonlarının yetki ve sorumluluğunu kaldırmaması şartıyla, ihale dokümanında belirtilen kalite ve özelliklere göre yapılıp yapılmadığı hususunda, idare tarafından belirli aşamalarda ve aralıklarla denetlenebilir.

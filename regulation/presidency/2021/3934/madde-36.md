@@ -1,0 +1,2 @@
+Alt yükleniciler
+MADDE 36- (1) İhale konusu işin özelliği nedeniyle ihtiyaç görülmesi halinde, ihale aşamasında isteklilerden alt yüklenicilere yaptırmayı düşündükleri işleri belirtmeleri, sözleşme imzalanmadan önce de alt yüklenicilerin listesini idarenin onayına sunması istenebilir. Ancak bu durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu ortadan kaldırmaz.

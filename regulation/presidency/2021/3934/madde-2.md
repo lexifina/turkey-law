@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasının (j) bendi kapsamında Türkiye Çevre Ajansının, 24/12/2020 tarihli ve 7261 sayılı Türkiye Çevre Ajansının Kurulması İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanuna uygun olarak depozito yönetim sisteminin kurulması ve işletilmesi faaliyetlerine ilişkin yapacağı mal ve hizmet alımlarını kapsar.

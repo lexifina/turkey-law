@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 40- (1) İhale komisyonu kararı üzerine idare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak idare, isteklilerin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.

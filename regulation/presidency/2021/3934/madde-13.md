@@ -1,0 +1,4 @@
+İhale komisyonu
+MADDE 13- (1) İhale yetkilisi; biri başkan olmak üzere, ilgili birim personelinden iki kişinin katılımıyla kurulacak en az 5 kişiden ve tek sayıda oluşan ihale komisyonunu, yedek üyeler de dahil olmak üzere görevlendirir. İdarede yeterli sayıda veya nitelikte personel bulunmaması halinde, 4734 sayılı Kanun kapsamındaki idarelerden komisyona üye alınabilir. Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği, ilan veya daveti izleyen üç gün içinde ihale komisyonu üyelerine verilir.
+(2) İhale komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır. Kararlarda çekimser kalınamaz. Komisyon başkan ve üyeleri, oy ve kararlarından sorumludur. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+(3) İhale komisyonunca alınan kararlar ve düzenlenen tutanaklar, komisyon başkanının ve üyelerinin adı, soyadı ve görev unvanı belirtilerek imzalanır.

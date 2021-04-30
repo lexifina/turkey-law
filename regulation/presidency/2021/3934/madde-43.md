@@ -1,0 +1,4 @@
+Kesin teminat
+MADDE 43- (1) Taahhüdün sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, davet ve ilanlı pazarlık usulüyle yapılacak ihalelerde sözleşmenin imzalanmasından önce ihale üzerinde kalan istekliden sözleşme bedeli üzerinden hesaplanmak suretiyle % 6 oranında kesin teminat alınır.
+(2) Fiyat farkı ödenmesi öngörülerek ihale edilen işlerde fiyat farkı olarak ödenecek bedelin sözleşme bedelinde artış meydana getirmesi halinde bu artış tutarının % 6’sı oranında teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat hakedişlerden kesinti yapılmak suretiyle de karşılanabilir.
+(3) Kesin teminat mektupları süresiz veya otomatik temditli olarak verilir. İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul edilmez.
