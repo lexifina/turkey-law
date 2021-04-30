@@ -1,0 +1,29 @@
+{
+  "number": "85",
+  "number_as_published": "2021/85",
+  "year": 2021,
+  "month": 4,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2021-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2021",
+  "source": "https://www.haliliye.bel.tr/icerik/5676/39/nisan-2021",
+  "official_page": "https://www.haliliye.bel.tr/icerik/5676/39/nisan-2021",
+  "official_document": null,
+  "source_sha256": "6adea556385f40a7a87880053010621ae4e5a24eed58da4bd5f1592a17402069",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: summary appears to concern individual persons; official page only",
+  "in_force": "2021-04-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Nisan 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "NİSAN 2021",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
