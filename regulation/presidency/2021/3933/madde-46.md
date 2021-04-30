@@ -1,0 +1,2 @@
+Fiyat farkı
+MADDE 46- (1) Bu Usul ve Esaslar kapsamındaki ihalelerde esas alınacak para birimi yabancı ülke para birimi olduğunda fiyat farkı hesaplanmaz. İhale onay belgesi ile iş tanım dokümanı ve/veya idari şartname ve sözleşmede belirtilmek kaydıyla Türk parası esas alınarak yapılacak ihalelerde, 5/1/2002 tarih ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 8 inci maddesi gereğince yürürlüğe konulan esaslara göre fiyat farkı hesaplanabilir.

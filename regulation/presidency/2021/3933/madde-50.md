@@ -1,0 +1,2 @@
+İade edilemeyen teminatlar
+MADDE 50- (1) 49 uncu maddeye göre mahsup işlemi yapılmasına gerek bulunmayan hallerde, işin kabul tarihinden veya garanti süresinin bitim tarihinden itibaren iki yıl içinde idarenin yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilmeyen kesin teminat mektupları hükümsüz kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde idareye gelir kaydedilir.

@@ -1,0 +1,5 @@
+Yaklaşık maliyet
+MADDE 9- (1) Hizmet alımlarının ihalesi yapılmadan önce idarece, her türlü fiyat araştırması yapılarak katma değer vergisi hariç olmak üzere yaklaşık maliyet belirlenir ve dayanakları ile birlikte bir hesap cetvelinde gösterilir. Yapılan her türlü araştırmaya rağmen, gerçek fiyatları yansıtmadığı düşünülen durumlarda, gerekçesi açıklanarak yaklaşık maliyet idarece re’sen belirlenir.
+(2) Yaklaşık maliyete ihale ve ön yeterlik ilanlarında yer verilmez, isteklilere veya ihale süreci ile resmi ilişkisi olmayan diğer kişilere açıklanmaz.
+(3) İdarenin, alınacak hizmete ilişkin gider kalemlerinden bir kısmını kendisinin karşılaması durumunda, yaklaşık maliyet hesabında bu gider kalemlerine ilişkin maliyet rakamları yaklaşık maliyet rakamından düşülür.
+(4) Hizmetin, özgün niteliği veya ileri teknoloji nedeniyle özel uzmanlık gerektiren ve seri üretime konu olmayan nitelikte olması ve sadece belirli hizmet sunucularından temin edilebilecek alımlar ile yabancı ülkelerden yapılacak alımlar ve sınai ve teknolojik zorunlulukların gerektirdiği durumlarda, ihale yetkilisinin onayı alınarak bedel tahmini yapılmadan ihale yapılabilir.

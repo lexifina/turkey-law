@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, finansmanın tamamı Boru Hatları ile Petrol Taşıma A.Ş. (BOTAŞ) Genel Müdürlüğü tarafından karşılanarak, elde edilen sonuçların sadece kendi faaliyetlerinin yürütülmesinde faydalanıldığı haller hariç olmak üzere, Boru Hatları ile Petrol Taşıma Anonim Şirketi (BOTAŞ) tarafından 4734 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (f) bendi kapsamında yapılacak her türlü araştırma ve geliştirme hizmet alımlarını kapsar.

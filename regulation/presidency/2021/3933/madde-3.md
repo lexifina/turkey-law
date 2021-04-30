@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Usul ve Esaslar, 4/1/2002 tarihli ve 4734 Kanunun 3 üncü maddesinin birinci fıkrasının (f) bendi ile ek 11 inci maddesine dayanılarak hazırlanmıştır.

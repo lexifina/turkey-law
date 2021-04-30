@@ -1,0 +1,2 @@
+Yerli isteklilerle ilgili düzenlemeler
+MADDE 33- (1) Yaklaşık maliyeti 8 inci maddede belirtilen eşik değerin altında kalan ihalelere sadece yerli isteklilerin katılması, yaklaşık maliyeti 8 inci maddede belirtilen eşik değerin üzerindeki ihalelerde; bütün yerli istekliler lehine %15 oranına kadar fiyat avantajı sağlanması hususlarında idarece, ihale dokümanına hükümler konulabilir. Ancak yabancı istekliler ile ortak girişim yapmak suretiyle ihalelere katılan yerli istekliler bu hükümden yararlanamaz.

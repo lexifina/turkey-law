@@ -1,0 +1,2 @@
+Avans verilmesi
+MADDE 43- (1) Bu Usul ve Esaslar kapsamında yapılacak hizmet alımlarında; ihale onay belgesinde, iş tanım dokümanında ve/veya idari şartnamede ve sözleşmede yer alması kaydıyla isteklilere yetkili bankalardan birinin vereceği teminat mektubu veya devlet tahvili karşılığında ihale bedelinin % 25’ini geçmemek üzere avans verilebilir. Ancak bu miktarın üzerinde avans verilmesinin zorunlu olduğu hallerde bu oran ihale yetkilisi tarafından en fazla % 30’a kadar çıkarılabilir.
