@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38583",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "LASTİKLERİN YAKIT VERİMLİLİĞİ VE DİĞER PARAMETRELER İLE İLGİLİ ETİKETLENMESİ HAKKINDA YÖNETMELİK (AB/2020/740)",
+  "number": "38583",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2021/38583",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38583&MevzuatTertip=5",
+  "source_sha256": "f2e527fa6f60c30a6b08d1a43ddb0a21a7792e554871e2a82c3b0a5896b78eb8",
+  "source_bytes": 43098,
+  "published": "2021-04-17",
+  "gazette": "31457",
+  "in_force": "2021-05-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/5/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/5/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2495,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38583-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

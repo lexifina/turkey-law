@@ -1,0 +1,3 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 14 – (1) Bu Yönetmelik, Lastiklerin Yakıt Verimliliği ve Diğer Parametreler Bakımından Etiketlenmesine ilişkin 25/5/2020 tarihli ve (AB) 2020/740 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
+(2) Bu Yönetmelik hükümlerinde herhangi bir anlaşmazlık veya yanılgı olması durumunda, birinci fıkrada belirtilen ve bu Yönetmeliğin esas aldığı (AB) 2020/740 sayılı Regülasyonun orijinal metni esas alınır. (AB) 2020/740 sayılı Regülasyonun uygulaması kapsamında AB’de yayımlanan karar/açıklayıcı doküman bu Yönetmeliğin amaçları bakımından uygulanır.
