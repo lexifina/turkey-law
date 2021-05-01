@@ -1,0 +1,4 @@
+Kullanım hakkı süresi
+MADDE 14 – (1) Kullanım hakkı süresi, aksi Elektronik Haberleşme Hizmet, Şebeke ve Altyapılarının Tanım, Kapsam ve Sürelerinde belirtilmediği sürece şebeke ve hizmetin niteliği ile başvuru sahibinin talebi de dikkate alınmak suretiyle belirli aralıklarla gözden geçirilmeye tabi tutularak, yirmi beş yıldan fazla olmamak üzere Kurum tarafından belirlenir.
+(2) Sayısı sınırlandırılmayan kullanım hakkını yenilemek isteyen işletmeci, kullanım hakkı süresinin bitiminden oniki ve altı ay önceki tarihler arasında, Kurum tarafından belirlenen bildirim formu ve kullanım hakkı başvuru formunda yer alan bilgi ve belgeler ile kullanım hakkının yenilenmesi için Kuruma başvurabilir. Kurum, yenileme talebini değerlendirerek kullanım hakkını yenileyebilir.
+(3) Sayısı sınırlandırılan kullanım hakkının yenilenmesine ilişkin usul ve esaslar ilgili ihale şartnamesinde düzenlenir.

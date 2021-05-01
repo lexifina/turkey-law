@@ -1,0 +1,4 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 7 – (Ek:RG-30/12/2014-29221)
+(1) Hâlihazırda Sabit Telefon Hizmeti sunmak üzere yetkilendirilmiş işletmecilerin bu Yönetmeliğin 7 nci maddesinin birinci fıkrasının (ç) bendinde belirtilen sermaye şartını sağladıklarını gösterir belgelerle birlikte bu fıkranın yürürlüğe girmesinden itibaren 3 ay içerisinde Kuruma başvurmaları gerekmektedir. Anılan tarihe kadar sermaye şartını sağlayamayan şirketlerin yetkilendirmeleri kendiliğinden iptal olmuş sayılır.
+(2) Bu Yönetmeliğin19 uncu maddesinin birinci fıkrasının (u) bendinde belirtilen teknik altyapıyı kurmayan Sabit Telefon Hizmeti yetkilendirmesine sahip işletmecilere, bu yetkilendirme kapsamında hizmet sunan diğer işletmecilerin, bu fıkranın yürürlüğe girmesinden itibaren 2 ay içerisinde hizmet sunumlarına son vermeleri gerekmektedir.

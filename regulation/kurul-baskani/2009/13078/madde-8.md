@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Bildirim ve Kullanım Hakkı
+Bildirim
+MADDE 8 – (1) Elektronik haberleşme hizmeti sunmak ve/veya şebekesi veya altyapısı kurup işletmek isteyen ve 7 nci maddedeki koşulları sağlayan şirket, faaliyete başlamadan önce, Kurum tarafından belirlenen bildirim formunu doldurmak suretiyle Kuruma bildirimde bulunur. Bildirim yazılı olarak veya elektronik ortamda güvenli elektronik imza ile yapılır.
+(2) (Değişik:RG-11/6/2016-29739) Kaynak tahsisi gerektirmeyen elektronik haberleşme hizmetini sunmak, şebekesini veya altyapısını kurup işletmek için bildirimde bulunan şirket, yetkilendirme şartlarını sağlamış olduğunun Kurum tarafından kendilerine bildirildiği tarih itibariyle yetkilendirilmiş sayılarak işletmeci statüsü kazanır ve Kurum tarafından belirlenen ve Kurumun resmi internet sitesinde yayımlanan Elektronik Haberleşme Hizmet, Şebeke ve Altyapılarının Tanım, Kapsam ve Sürelerindeki Bildirim Kapsamında Sunulan Kaynak Tahsisi İçermeyen Hizmetler bölümünde yer alan hükümler çerçevesinde ilgili hizmetin sunumuna başlayabilir. Kurum resmi internet sitesinde güncel olarak yayımlanan işletmeci listesinde söz konusu işletmeciye ilişkin gerekli bilgileri yayımlamak suretiyle kayıtlama işlemini gerçekleştirir. Kayıtlama işletmecinin Kuruma kayıtlı olduğu süre boyunca geçerlidir.
+(3) (Değişik:RG-11/6/2016-29739) Kurum, bildirimin bu Yönetmelik hükümlerine uygun olarak yapıldığını teyit eden ve işletmecinin hak ve yükümlülüklerini içeren bir yazıyı işletmeciye gönderir.
+(4) (Değişik:RG-1/5/2021-31471) Kurum kayıtlarına giren bildirim başvuru formunda eksiklik/uygunsuzluk tespit edilen şirkete, söz konusu eksiklik/uygunsuzlukları gidermesi hususu bildirim başvuru formunun Kurum kayıtlarına girmesinden itibaren en geç altmış gün içinde bildirilir.
+(5) (Mülga:RG-1/5/2021-31471)
+(6) Başvurunun ilgili mevzuata uygun olmaması nedeniyle doğabilecek her türlü zarardan işletmeci sorumludur.
+(7) (Mülga:RG-11/6/2016-29739)
+(8) Milli Frekans Planı kapsamında serbest kullanıma yönelik olarak ayrılan frekans bantları kullanılmak suretiyle sunulacak olan elektronik haberleşme hizmeti veya kurulup işletilecek olan şebeke ve altyapıları bildirim ile yetkilendirilir.
+(9) Sabit ve mobil uyduya çıkış (up–link) cihazının yayıncı kuruluşları ve haber ajansları tarafından kendi faaliyetleri dışında, üçüncü şahıslara elektronik haberleşme hizmeti verilmesinde kullanılması ve/veya ticari amaç güdülmesi halinde yetkilendirmeye tabi olur.

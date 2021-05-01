@@ -1,0 +1,4 @@
+Kullanım hakkı sayısının sınırlandırılması gerekmeyen haller
+MADDE 11 – (1) Kurum tarafından kullanım hakkı sayısının sınırlandırılmasının gerekmediği tespit edilen elektronik haberleşme hizmeti sunmak, şebekesi ve/veya altyapısını kurup işletmek isteyen ve 7 nci maddede yer alan şartları haiz işletmeci adayları, Kurum tarafından belirlenen bildirimi de içeren kullanım hakkı başvuru formunu eksiksiz doldurmak suretiyle Kuruma başvurur.
+(2) Kullanım hakkı başvurusu, elektronik haberleşme hizmet, şebeke ve/veya altyapısına yönelik olarak ayrı ayrı yapılır.
+(3) Kullanım hakkı sayısının sınırlandırılmasının gerekmediği tespit edilen elektronik haberleşme hizmeti, şebekesi ve/veya altyapısı için, bu tespitten sonraki bir tarihte yapılacak ikinci bir tespitte kullanım hakkı sayısının sınırlandırılması gerektiği sonucu ortaya çıkarsa, Kurum bu tespite istinaden sayısı sınırlandırılmış kullanım hakkı verebilir.

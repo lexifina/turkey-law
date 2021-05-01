@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) İşletmecilerden 2010 yılında tahsil edilecek 2009 yılına ait idari ücretlerin hesaplanmasında, yetkilendirme süresi esas alınmak kaydıyla, 1/1/2009–31/12/2009 dönemindeki, İnternet Servis Sağlayıcısı olan işletmecilerin ise 10/5/2009–31/12/2009 dönemindeki net satışları dikkate alınır.

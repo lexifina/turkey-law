@@ -1,0 +1,7 @@
+Kullanım hakkı ücreti
+MADDE 17 – (1) Kullanım hakkı verilmesine ve söz konusu kaynakların etkin bir şekilde kullanılmasının teminine yönelik olarak kullanım hakkı ücreti alınır.
+(2) Kullanım hakkı ücretlerinin asgari değerleri, Kanunun 11 inci maddesinin beşinci fıkrasına göre belirlenir.
+a) Sayısı sınırlandırılmamış kullanım hakkı ücretleri, asgari değerlerden az olmamak kaydıyla Kurul tarafından belirlenen ücretlerdir. Kurulun, gerekli gördüğü hallerde, bu ücreti yeniden değerlendirme ve belirleme hakkı saklıdır. Kullanım hakkı ücretinin tarafsız, şeffaf ve orantılı olması esastır.
+b) Sayısı sınırlandırılmış kullanım hakkı ücretleri ise yapılacak ihale sonucunda oluşan ve Kurul tarafından onaylanan ücretlerdir.
+(3) Kullanım hakkı ücretleri, 16/6/2005 tarihli ve 5369 sayılı Evrensel Hizmet Kanunu hükümleri saklı kalmak kaydıyla Hazineye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır. Zamanında ödenmeyen kullanım hakkı ücretleri, Kurumun bildirimi üzerine, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümleri uyarınca, ilgili vergi dairesince tahsil olunur.
+(4) (Değişik:RG-23/9/2011-28063) Kullanım hakkı kapsamında tahsis edilen kaynakların bir kısmının veya tamamının Kuruma iade edilmesi veya Kurumca geri alınması ya da kullanım hakkının herhangi bir nedenle iptali/feshi veya sona ermesi durumunda tahsil edilmiş kullanım hakkı ücreti kısmen ya da tamamen iade edilmez.
