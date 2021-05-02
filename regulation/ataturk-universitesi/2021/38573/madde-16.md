@@ -1,0 +1,2 @@
+Personel ihtiyacı
+MADDE 16 – (1) Merkezin akademik, uzman ve idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi gereğince Rektör tarafından karşılanır.

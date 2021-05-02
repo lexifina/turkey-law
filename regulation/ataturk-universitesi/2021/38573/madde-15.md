@@ -1,0 +1,3 @@
+Araştırmacıların sorumlulukları ve çalışma şartları
+MADDE 15 – (1) Merkezin olanaklarından, Üniversite bünyesinde bulunan tüm akademik birimlerden araştırmacılar yararlanabilir. Araştırmacıların Merkezde yürütecekleri tüm çalışmalarında uymaları gereken hususlar Müdür tarafından belirlenir. Araştırmacıların söz konusu hususlara uymaması durumunda Merkez imkânlarını kullanma hakları Yönetim Kurulu kararıyla iptal edilir.
+(2) Araştırma yürütücüsü Merkezde yürütülen ve tamamlanan araştırmalar ile ilgili olarak yapılan yayım ve bilimsel raporlarda Merkezin açık adını belirtmek, yayımın ya da bilimsel raporun bir örneğini altı ay içinde Merkeze iletmek zorundadır.
