@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Birim: Hakkında veri toplanacak gerçek ve tüzel kişiler ile mekânlar gibi sabit bir nesne sınıfını,
+b) Çalışma alanı: Bir eğitim programı, ders veya modülde kapsanan içeriğin konusu, disiplini veya branşını,
+c) Eğitim ve öğretim programı: Daha önceden belirlenmiş öğrenme amaçlarını gerçekleştirmeye veya kesintisiz bir dönemde belirli bir eğitsel görev setini başarmaya yönelik olarak tasarlanmış ve düzenlenmiş eğitim faaliyetlerinin uyumlu bir setini veya sırasını,
+ç) Eğitim seviyeleri: Tasarlanan her bir programda verilen bilgi, beceri ve yetkinlikler de dâhil, öğrenme tecrübelerinin derecelerine bağlı olarak eğitim programlarını gruplayan bir sıralı seti,
+d) Ekonomik faaliyet: Ekipman, işgücü, imalat teknikleri, bilgi ağı veya ürünler gibi kaynakların bazılarının ya da tamamının belirli mal ya da hizmetleri ortaya çıkaracak şekilde bir araya getirilmesini,
+e) Hanehalkı: Tek başına yaşayan kişiler ile aralarında akrabalık bağı bulunsun ya da bulunmasın aynı konutta yaşayan, barınma, gıda ve benzeri ihtiyaçlarını ortaklaşa karşılayan, hanehalkı hizmet veya yönetimine katılan kişilerden oluşan topluluğu,
+f) İdari kayıt: Kurum ve kuruluşların gerek mevzuat çerçevesinde tutmakla zorunlu oldukları gerekse kurumsal hizmetlerin yürütülmesinde ihtiyaç duydukları konularda kişi, işletme veya olay bazında düzenlenen doğum raporu, ölüm raporu, işyeri tescil belgesi, vergi mahsubu gibi rapor, belge ve benzeri dokümanları,
+g) Kayıt sistemi: Çoğunlukla istatistiksel bilgi üretmek amacıyla bir ya da birden fazla veri setinin birleştirilmesinden oluşan, sistematize edilmiş veri sistemlerini,
+ğ) Konsey: İstatistik Konseyini,
+h) TÜİK: Türkiye İstatistik Kurumunu,
+ı) Kurum ve kuruluşlar: 5429 sayılı Kanunun 2 nci maddesinin (e) bendinde yapılan tanım kapsamında Cumhurbaşkanlığı ve bakanlıklar ile bunların bağlı, ilgili ve ilişkili kuruluşlarını, mahallî idareler ve bunların bağlı ve ilgili kuruluşları ile birlik ve şirketlerini, Türkiye Cumhuriyet Merkez Bankası, Borsa İstanbul A.Ş. ve üniversiteler de dâhil olmak üzere, tüzel kişiliği haiz enstitü, teşebbüs, teşekkül, birlik, döner sermaye, fon ve sair adlarla kurulmuş olan diğer kurum ve kuruluşlar ile kamu kurumu niteliğindeki meslek kuruluşlarını,
+i) Meslek: Ana görev ve sorumluluklar açısından büyük oranda benzer özellikleri olan iş kümesini,
+j) Sınıflama: İstatistiki gözlemler evrenini, istatistik amaçlı araştırmanın niteliklerine göre olabildiğince homojen gruplara ayıran, verilerin uyumlu bir şekilde toplanmasında, işlenmesinde ve sunulmasında kullanılan ortak dili,
+k) Sınıflama komisyonu: Sınıflamadan sorumlu kurum başkanlığında oluşturulan ve sınıflamaya ilişkin teknik çalışmaları yürüten komisyonu,
+l) Sınıflama Sunucusu: Ulusal ve uluslararası istatistiki sınıflamaların ve ilgili teknik dokümanların yer aldığı portalı,
+m) Sorumlu kurum: İlgili sınıflamanın güncellenmesi, ulusal düzeyde kullanılmasına yönelik kaynakların hazırlanması, kurumlar arası koordinasyonun sağlanması ve benzeri çalışmaları yürüten kurum ve kuruluşu,
+n) Ürün: Ekonomik faaliyetler sonucunda ortaya çıkan mal ve hizmetleri,
+o) Yeterlilik: Bireyin öğrenme kazanımlarını belirli ölçütlere göre edindiğinin bir değerlendirme ve geçerlilik kazandırma sürecinin sonunda tanınması halinde elde edilen resmi belgeyi,
+ifade eder.
