@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1215",
+  "date": "2021-05-06",
+  "title": "T. 6.05.2021 E. 2021/277 K. 2021/333",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1215",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=3&yil=2021",
+  "listing_sha256": "b0016c9976e277f66088bf60a27ea147ad238028664424d9b9c2e1ede39ba255",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
