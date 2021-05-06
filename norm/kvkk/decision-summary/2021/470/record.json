@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/470",
+  "source_id": 6982,
+  "date": "2021-05-06",
+  "title": "“İlgili kişinin yemek kartı hesap hareketlerine ilişkin kişisel verilerine erişim talebinin veri sorumlusu tarafından yerine getirilmediği iddiası” hakkında Kişisel Verileri Koruma Kurulunun 06/05/2021 tarihli ve 2021/470 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/6982/2021-470",
+  "source_sha256": "e5d788688f95eecede3eec9a463bae4d0264544a63ae89f215c9a234ac5bbece",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
