@@ -1,0 +1,8 @@
+Av turizmi izin belgesinin iptali
+MADDE 9 – (1) 1618 sayılı Kanun çerçevesinde, Kültür ve Turizm Bakanlığınca işletme belgeleri iptal edilen (A) ve (C) grubu seyahat acentelerinin veya işletme belgeleri geri alınan seyahat acentelerinin av turizmi izin belgeleri Genel Müdürlükçe iptal edilir.
+(2) Bakanlıkça koruma altına alınan yaban hayvanları ile bu yaban hayvanlarından av turizmi kapsamında avına izin verilenlerini yasa dışı avlattıran av turizmi izin belgesi sahibi (A) ve (C) grubu seyahat acentelerinin av turizmi izin belgesi Genel Müdürlükçe iptal edilir. Bu acentelere av turizmi izin belgesi bir daha verilmez.
+(3) Bakanlıkça koruma altına alınan yaban hayvanları ile bu yaban hayvanlarından av turizmi kapsamında avına izin verilenlerin dışındaki av ve yaban hayvanlarını yasa dışı olarak avlattıran av turizmi izin belgesi sahibi (A) ve (C) grubu seyahat acentelerinin av turizmi izin belgesi Genel Müdürlükçe bir yıl askıya alınır.
+(4) Av ve yaban hayvanı gözlem turları ile fotoğraf ve film çekimleri düzenleyecek acentelerin Genel Müdürlükçe belirlenen yükümlülükleri ihlal etmesi durumunda av turizmi izin belgesi bir yıl askıya alınır.
+(5) Kanun ve bu Yönetmelik hükümlerine aykırı hareket eden acenteler; fiilleriyle ilgili olarak ayrıca 1618 sayılı Kanun kapsamında değerlendirilmeleri için Kültür ve Turizm Bakanlığına bildirilir.
+(6) Kültür ve Turizm Bakanlığı, işletme belgeleri iptal edilen (A) ve (C) grubu seyahat acentelerini Bakanlığa bildirir.
+(7) İşletme belgeleri iptal edilmesine rağmen av organizasyonları, av ve yaban hayatı gözlem turları ile fotoğraf ve film çekimleri düzenleyen acenteler hakkında 1618 sayılı Kanunun ilgili hükümleri ve Kanunun 25 inci maddesi uygulanır.

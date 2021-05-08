@@ -1,0 +1,80 @@
+{
+  "source_id": "7.5.21503",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AV TURİZMİ KAPSAMINDA AVLANMALARA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "21503",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2016/21503",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21503&MevzuatTertip=5",
+  "source_sha256": "9c5e0501be1be60af367882f7b16a4f429cb5189fe99a681b412803431b48c37",
+  "source_bytes": 121886,
+  "published": "2016-04-14",
+  "gazette": "29684",
+  "in_force": "2021-05-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/5/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-05-08",
+      "RG-8/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-08",
+      "8/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-01-17",
+      "RG-17/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-17",
+      "17/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-15",
+      "RG-15/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-15",
+      "15/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-09-24",
+      "RG-24/9/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-09-24",
+      "24/9/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-05-18",
+      "18/5/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6790,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.21503-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,3 @@
+Av rehberleri ve av kılavuzlarının görev yapabilmeleri
+GEÇİCİ MADDE 2 – (1) Av organizasyonlarında görevlendirilen av rehberi niteliğindeki kişiler, bu Yönetmelik hükümleri çerçevesinde sertifika programı düzenleninceye kadar av organizatörü olarak görevlerini sürdürebilirler. Ancak, av organizatörleri bu Yönetmeliğin yürürlüğe girdiği tarihten sonra görev yapabilmeleri için, düzenlenecek av organizatörleri sertifika programına katılıp kimlik almak zorundadırlar.
+(2) Bu Yönetmelikten önce av kılavuzu kimliği almış olanlar, bu Yönetmeliğin yayımından sonra Genel Müdürlükçe belirlenen esaslar doğrultusunda görev yapabilirler.

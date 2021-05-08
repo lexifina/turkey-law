@@ -1,0 +1,3 @@
+Silah ve aksamı ile mermilerin Türkiye’ye getirilmesi ve taşınması
+MADDE 26 – (1) Yabancı turist avcılar ile yabancı uyruklular, 6136 sayılı Kanun ile Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik kapsamında tüfek ve aksamı ile mermilerini geçici olarak Türkiye’ye getirebilirler.
+(2) Yabancılar, yivli veya yivsiz av tüfeklerini 6136 sayılı Kanun ve 11/9/1981 tarihli ve 2521 sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanun ile Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Yönetmelik hükümleri saklı kalmak koşuluyla Türkiye’de taşıyabilirler.
