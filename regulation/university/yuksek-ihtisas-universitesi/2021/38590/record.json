@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/yuksek-ihtisas-universitesi/2021/38590",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31479",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-05-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Yüksek İhtisas Üniversitesi",
+  "issuer_slug": "yuksek-ihtisas-universitesi",
+  "kind": "regulation",
+  "published": "2021-05-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38590&MevzuatTertip=5",
+  "source_id": "8.5.38590",
+  "source_sha256": "bdbbc9cd6e25f4473786495a6a21cbb0b5c75c8d7d5aba53881a02f9572b63f4",
+  "title": "YÜKSEK İHTİSAS ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 463,
+  "version_label": "oldest version available",
+  "word_count": 6050
+}
