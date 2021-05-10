@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-05-10",
+      "10.05.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31480",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-05-10",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fırat Üniversitesi",
+  "issuer_slug": "firat-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/firat-universitesi/2021/38586",
+  "published": "2021-05-10",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38586&MevzuatTertip=5",
+  "source_bytes": 17264,
+  "source_id": "8.5.38586",
+  "source_sha256": "18322072b44ba56cd8f94775ac3d6a888fe837e5fce4315b0ecaf6352acd24ce",
+  "text_status": "as-enacted",
+  "title": "FIRAT ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ\r\nYÖNETMELİĞİ",
+  "university_id": 193,
+  "word_count": 656
+}
