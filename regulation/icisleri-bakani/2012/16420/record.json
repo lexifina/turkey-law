@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.16420",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI VE SAHİL GÜVENLİK KOMUTANLIĞINDA GÖREVLİ DEVLET MEMURLARININ YER DEĞİŞTİRME SURETİYLE ATANMALARINA İLİŞKİN YÖNETMELİK",
+  "number": "16420",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2012/16420",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16420&MevzuatTertip=5",
+  "source_sha256": "f0d0acac153be839f0e0894a26a342a7a49bcde9501f92947a46db1c6f1d23f4",
+  "source_bytes": 62593,
+  "published": "2012-07-27",
+  "gazette": "28366",
+  "in_force": "2021-05-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/5/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-05-10",
+      "RG-10/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-10",
+      "10/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-28",
+      "RG-28/3/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-03-28",
+      "28/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-24",
+      "24/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-03-28",
+      "RG-28/3/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-03-28",
+      "28/3/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2884,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16420-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
