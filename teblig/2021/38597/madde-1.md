@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üreticiler Mode Medikal San. ve Tic. Ltd. Şti., Şanlılar Tıbbi Cihazlar ve Medikal Kimya San. ve Tic. Ltd. Şti. ve AGS Medikal Ürünleri İthalat İhracat Tic. Ltd. Şti. tarafından yapılan başvuruya istinaden Kore Cumhuriyeti menşeli 9021.29.00.00.00 gümrük tarife istatistik pozisyonu altında yer alan “İmplantlar” ürününe yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
