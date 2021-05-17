@@ -1,0 +1,22 @@
+{
+  "number": "90",
+  "number_as_published": "2021/90",
+  "year": 2021,
+  "title": "Zabıta Müdürlüğü tarife teklif",
+  "decision_date": "2021-05-17",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-mayis-ayi-meclis-kararlari/1939",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-90/1943",
+  "source_sha256": "8abb1ee49fca197d647237f4540b9abbc5cb16f4c7b5e812e39c7051a5f90c61",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-05-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.05.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "7cc172ff9eeea0656e202ced587dbe10d696b361ca23befd5511fcd36f0fba65"
+}
