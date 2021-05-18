@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.31064",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "RADYO VE TELEVİZYON ÜST KURULU KARASAL YAYIN LİSANSI VE SIRALAMA İHALESİ USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "31064",
+  "issuer": "Radyo ve Televizyon Üst Kurulu",
+  "issuer_slug": "radyo-ve-televizyon-ust-kurulu",
+  "path": "regulation/radyo-ve-televizyon-ust-kurulu/2018/31064",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31064&MevzuatTertip=5",
+  "source_sha256": "84cc70d5292cab99e4c468296d98526a1f5bb4ea3e07101aadb7c41cc125415e",
+  "source_bytes": 96744,
+  "published": "2018-12-23",
+  "gazette": "30634",
+  "in_force": "2021-05-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/5/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-05-18",
+      "RG-18/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-18",
+      "18/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5079,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.31064-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
