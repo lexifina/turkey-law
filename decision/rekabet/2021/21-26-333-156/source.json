@@ -1,0 +1,13 @@
+{
+  "number": "21-26/333-156",
+  "type": "Diğer",
+  "decision_date": "2021-05-20",
+  "publication_date": "2021-11-09",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=50ec44de-f2d5-44e1-bbab-a51cf46a9037",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=237",
+  "pdf_sha256": "057f57bb407d78bac5d565b5cca8d433b8304c267493cb0dc1b9681e10f7d409",
+  "pdf_bytes": "445102",
+  "pages": "17",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
