@@ -1,0 +1,13 @@
+{
+  "number": "21-26/324-150",
+  "type": "Rekabet İhlali",
+  "decision_date": "2021-05-20",
+  "publication_date": "2021-12-10",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=ea3a39fd-6b7e-4224-9509-c9925a8c93ad",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=230",
+  "pdf_sha256": "1add32cb9ef1ba4c883c7ce3b67807a9d042d7850a01a0bca48467f64247300d",
+  "pdf_bytes": "687495",
+  "pages": "23",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
