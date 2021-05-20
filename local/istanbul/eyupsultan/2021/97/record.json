@@ -1,0 +1,22 @@
+{
+  "number": "97",
+  "number_as_published": "2021/97",
+  "year": 2021,
+  "title": "2021/61 sayılı meclis teklifindeki sehven yapılan hatadan dolayı meclis kararında düzeltme",
+  "decision_date": "2021-05-20",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-mayis-ayi-meclis-kararlari/1939",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-97/1949",
+  "source_sha256": "8abb1ee49fca197d647237f4540b9abbc5cb16f4c7b5e812e39c7051a5f90c61",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-05-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.05.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "add9d6731772da2f4a5c39e961d19b5223cc6ef59543d87e1a2cfb0d694e0c1b"
+}
