@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 4,
+  "esas_no": "7/45613",
+  "submitted": "2021-05-21",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Aziz AYDINLIK",
+  "province": "Şanlıurfa",
+  "summary": "Mart 2020-Nisan 2021 tarihleri arasında Şanlıurfa'da yaşanan intihar vakalarının araştırılmasına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-8ef3-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "057adb99fcb3fade8603d9d5393004f1fb5557067d7cb90e5f8d7785d26521ec",
+  "in_force": "2021-05-21",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
