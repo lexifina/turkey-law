@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.32655",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI REHBERLİK VE PSİKOLOJİK DANIŞMA HİZMETLERİ YÖNETMELİĞİ",
+  "number": "32655",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2019/32655",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32655&MevzuatTertip=5",
+  "source_sha256": "a60f3d48ca848c616988b3d33fce0281a9b08c90ee8129ad268e381976b390b7",
+  "source_bytes": 72097,
+  "published": "2019-07-09",
+  "gazette": "30826",
+  "in_force": "2021-05-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/5/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-05-22",
+      "RG-22/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-22",
+      "22/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3274,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
