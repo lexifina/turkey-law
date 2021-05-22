@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda, NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli 5407, 5810, 6005, 6006 ve 6303 GTP’leri altında yer alan ve GTİP’lerinin tam listesi Ek’te yer alan “suni veya sentetik liflerden belirli mensucat veya tekstil ürünü”ne yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
