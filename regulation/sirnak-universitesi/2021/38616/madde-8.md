@@ -1,0 +1,3 @@
+Müfredat
+MADDE 8 – (1) Lisansüstü programların müfredatında yer alan dersler; zorunlu ve/veya seçmeli olmak üzere iki gruba ayrılır. Seçmeli ders yükümlülüklerini sağlamak için alınabilecek derslerden oluşan havuz müfredatta belirtilir. Seçmeli ders havuzuna eklenecek veya çıkartılacak derslerle ilgili anabilim/anasanat dalı akademik kurulunun görüşü, Enstitü Kurulu kararı ile Rektörlüğe bildirilir.
+(2) Lisansüstü eğitim programları, eğitim hedefleri, programlara giriş ve mezuniyet koşulları, programların içerdiği zorunlu ve seçmeli dersler, bunların kredileri ve benzeri konulara ilişkin esaslar anabilim/anasanat dalı akademik kurulu önerisi, Enstitü Yönetim Kurulunun görüşü, Enstitü Kurulu kararı ve Senatonun onayı ile belirlenir.

@@ -1,0 +1,3 @@
+Tebligat
+MADDE 53 – (1) Eğitim-öğretim, sınavlar ve benzeri konularda enstitü tarafından, enstitüde ya da Üniversite veya enstitü internet sayfasında ya da yerel veya ulusal gazetede yapılan ilan ve duyurular öğrencinin şahsına yapılmış sayılır.
+(2) Öğrenci hakkındaki diğer bireysel işlemlerle ilgili her türlü tebligat, kayıtları sırasında enstitüye bildirdikleri adrese yazılı olarak veya elektronik yolla yapılır. Yanlış veya eksik adres bildiren veya adres değişikliklerini enstitüye bildirmeyen öğrencilerin, adres kayıt sisteminde yerleşim yeri adresinin tespit edilememesi durumunda, enstitüde bulunan adresine yapılan tebligat kendilerine yapılmış sayılır, öğrenci tebligat konusunda hiçbir hak talebinde bulunamaz.

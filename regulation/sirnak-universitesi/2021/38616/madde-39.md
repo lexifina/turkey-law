@@ -1,0 +1,7 @@
+Tezsiz yüksek lisans diploması
+MADDE 39 – (1) Kredili derslerini ve dönem projesini başarıyla tamamlayan yüksek lisans öğrencisine tezsiz yüksek lisans diploması verilir.
+(2) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü anabilim/anasanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Tezsiz yüksek lisans programına devam edenler, bu Yönetmelikte yer alan varsa ilgili anabilim dalındaki tezli yüksek lisans programı için belirlenen şartları yerine getirmek kaydıyla, tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler anabilim/anasanat dalının görüşü ve Enstitü Yönetim Kurulunun kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.
+(4) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçişler sadece güz yarıyılları için kabul edilir. Bunun için gerekli başvurular ilan edilen takvime uygun olarak bahar yarıyılı sonu itibari ile yapılır.
+(5) Başvuruda bulunan öğrencilerin en az, o dönem başvurdukları tezli yüksek lisans programı için, programa son sırada kaydı yapılan öğrencinin ALES ve AGNO değerlerine sahip olması gerekmektedir. ALES puanının istenilmediği programlarda yalnızca AGNO değeri dikkate alınır.
+(6) Geçişi takiben öğrenci, tezli yüksek lisans programındaki zorunlu dersleri almak zorundadır. Ayrıca, tezsiz yüksek lisans programında geçirilen süreler, tezli yüksek lisans programındaki sürelere dâhil edilir.

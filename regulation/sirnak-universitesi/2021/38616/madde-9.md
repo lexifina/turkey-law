@@ -1,0 +1,10 @@
+Derslerin açılması
+MADDE 9 – (1) Her yarıyıl, açılacak dersler anabilim/anasanat dalı akademik kurulunun önerisi, Enstitü Kurulu kararı ve Senatonun onayı ile kabul edilir.
+(2) İlk defa açılacak dersler, kapatılacak dersler, dersin isminde veya AKTS kredisinde yapılacak değişiklikler ilgili anabilim/anasanat dalı akademik kurulunun teklifi ve Enstitü Kurulunun onayı ile Senato tarafından karara bağlanır.
+(3) Lisansüstü düzeydeki dersler öğretim üyeleri tarafından verilir. Zorunlu hallerde anabilim/anasanat dalı başkanlığının gerekçeli önerisi ve Enstitü Yönetim Kurulunun onayı ile doktoralı öğretim görevlilerine ve sanatçı öğretim elemanlarına da lisansüstü düzeyde dersler verdirilebilir. Gerekli görüldüğünde Üniversite Yönetim Kurulu kararı ile Üniversite dışından da görevlendirme yapılabilir. Üniversite dışından görevlendirileceklerin en az doktora derecesine sahip olmaları gerekir.
+(4) Çok disiplinli programlarda açılacak dersi verecek öğretim elemanlarını görevlendirme hususunda anabilim/anasanat dalı başkanlığı tarafından ilgili fakülte veya yüksekokulun uygun görüşü alınır.
+(5) Uzmanlık alan dersi tez danışmanları tarafından yarıyıl ve yaz tatilleri de dâhil olmak üzere öğrenci mezun olana kadar yürütülür. Tez çalışmasının birden fazla danışman tarafından yönetildiği durumlarda uzmanlık alan dersleri birinci tez danışmanı tarafından yürütülür.
+(6) Tez çalışması dersi her bir tez öğrencisi için haftada bir pratik ders saati olmak üzere açılır.
+(7) Tezli yüksek lisans programlarında bir öğrencinin bir yarıyıl için alabileceği azami kredi saati, uzmanlık alan dersi hariç, on beş kredi saattir.
+(8) Tezsiz yüksek lisans programları hariç lisansüstü programlarda öğrenciler, danışmanları gözetiminde hazırladıkları bilimsel bir konunun incelenip irdelenmesine dayanan bir seminer çalışmasını hazırlamak zorundadır.
+(9) Öğretim üyelerinin doktora programı için en az dört yarıyıl bir lisans programında ya da iki yarıyıl boyunca tezli yüksek lisans programında ders vermiş olması; yüksek lisans programı için ise en az iki yarıyıl boyunca bir lisans programında ders vermiş olması gerekir.

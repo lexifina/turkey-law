@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-05-23",
+      "23.05.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 57 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31489",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-05-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Şırnak Üniversitesi",
+  "issuer_slug": "sirnak-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sirnak-universitesi/2021/38616",
+  "published": "2021-05-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38616&MevzuatTertip=5",
+  "source_bytes": 292114,
+  "source_id": "8.5.38616",
+  "source_sha256": "bf0520b5e1bd3832369522a09b824e318a7b651216c6ac2bb46f1be1c07d5ec5",
+  "text_status": "as-enacted",
+  "title": "ŞIRNAK ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE\r\nÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 345,
+  "word_count": 10733
+}

@@ -1,0 +1,3 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 19 – (1) Üniversite içindeki başka bir enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılı tamamlamış olan başarılı öğrenci, lisansüstü programlara yatay geçiş yoluyla kabul edilebilir. Yatay geçiş yoluyla kabul edilme koşulları ilgili yönerge ile belirlenir.
+(2) Yatay geçiş yapmak isteyen öğrenci, devam etmekte olduğu programı tanıtan ve kayıtlı olduğu derslerden başarı durumunu belirten belgeleri dilekçesine ekleyerek, izleyen yarıyıl öğretiminin başlama tarihinden en az on beş gün önce, Enstitü Müdürlüğüne başvurur. Başvurular, ilgili anabilim/anasanat dalı başkanlığının görüşü alınarak Enstitü Yönetim Kurulunda öğretimin başlama tarihinden önce karara bağlanır.

@@ -1,0 +1,10 @@
+Sınavlar
+MADDE 25 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı ve mazeret sınavı olmak üzere dört türdür.
+(2) Derslerde ara sınav yapılabilir. Yarıyıl süresince yaptırılan proje, ödev, laboratuvar, atölye ve benzeri çalışmalar da ara sınav yerine geçebilir.
+(3) Uzmanlık alan dersi, seminer dersi ve tez çalışması dersi hariç, her ders için yarıyıl sonu sınavı yapılması zorunludur. Bu sınav akademik takvimde ilan edilen süreler içerisinde yapılır. Sınavın yapılış biçimi sorumlu öğretim elemanı tarafından belirlenir. Yarıyıl sonu sınavına girmesi gerektiği halde girmeyen öğrenci o dersten başarısız sayılır.
+(4) Akademik takvimde ilan edilen süreler içerisinde bütünleme sınavı yapılır. Bir dersten yarıyıl sonu sınavına girme hakkı olmayanlar o dersin bütünleme sınavına giremezler. Bütünleme sınav sonucu yarıyıl sonu sınav sonucu yerine sayılır.
+(5) Öğrencilerin yarıyıl sonu/bütünleme sınavlarına girebilmeleri için teorik derslerin ve/veya etkinliklerin %70’ine, uygulamalı derslerin ve/veya diğer öğrenim etkinliklerinin de %80'ine devam etmiş olmaları gerekir. Ayrıca anabilim/anasanat dalı kurulu kararı ile ara sınav başarı koşulu da aranabilir.
+(6) Mazereti sebebiyle ara sınavlara giremeyen ve mazereti Enstitü Yönetim Kurulunun kararı ile kabul edilen öğrenci, ara sınav haklarını aynı yarıyıl içinde kullanır.
+(7) Yarıyıl sonu sınavı ve bütünleme sınavı için mazeret sınavı yapılmaz. Ancak bir dersin yarıyıl sonu sınavı ve bütünleme sınavı tarihini kapsayacak şekilde aralıksız oluşan ve Enstitü Yönetim Kurulunun kararı ile kabul edilen mazeretlerde o ders için bütünleme sınav tarihini takip eden üç ay içerisinde mazeret sınavı hakkı verilir. Mazeret sınavında alınan başarı notu o dersin alındığı yarıyılın akademik başarı not ortalamasına ve genel akademik başarı not ortalamasına katılarak değerlendirilir.
+(8) Mazeret sınavına girmek isteyen öğrencinin mazeret durumunu en geç dersin sınavının yapıldığı tarihi takip eden 5 iş günü içerisinde anabilim/anasanat dalına yapması gerekir.
+(9) Sınav sonuçları sınavın yapıldığı tarihi müteakip en geç on beş gün içerisinde ilan edilir.

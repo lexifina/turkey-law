@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Öğrenci Kontenjanları, Giriş Koşulları ve İlanı, Lisansüstü Programlara
+Başvuru, Değerlendirme, Kayıtlar ve Öğrenci Kabulü
+Öğrenci kontenjanları
+MADDE 11 – (1) Lisansüstü programlara alınacak öğrenci kontenjanları; Yükseköğretim Kurulu tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınarak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde enstitü anabilim/anasanat dalı kurulunun görüşü ve Enstitü Kurulunun önerisi üzerine Senato tarafından belirlenir. Ancak, Yükseköğretim Kurulu ile yapılan protokol dâhilinde ve üniversite-sanayi işbirliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir.
+(2) Yeni kurulan ve gelişmekte olan üniversitelerden veya yüksek teknoloji enstitülerinden lisansüstü eğitim yapmak amacıyla gönderilecek araştırma görevlileri, ilgili üniversite veya yüksek teknoloji enstitüsünün önerisi, Öğretim Üyesi ve Araştırıcı Yetiştirme Kurulunun görüşü ve YÖK kararı ile ilgili Enstitü Yönetim Kurulunun belirleyeceği koşullara göre Üniversitede lisansüstü programlara kabul edilirler.

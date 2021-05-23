@@ -1,0 +1,4 @@
+Eğitim düzeyleri ve dönemleri
+MADDE 6 – (1) Lisansüstü eğitim; yüksek lisans, sanatta yeterlik ve doktora düzeylerinden oluşur.
+(2) Yüksek lisans düzeyi; lisans diploması veya buna eşdeğer bir derece almış olanların yapacakları öğrenim, bilimsel araştırma ve uygulama faaliyetlerini kapsar. Yüksek lisans düzeyindeki programlar tezli ve tezsiz olarak yürütülür. Üniversitede Yükseköğretim Kurulu kararı üzerine; öğretim elemanı ve öğrencilerin aynı mekânda bulunma zorunluluğu olmaksızın, bilgi ve iletişim teknolojilerine dayalı olarak öğretim faaliyetlerinin planlandığı ve yürütüldüğü lisansüstü uzaktan öğretim programları açılabilir.
+(3) Eğitim ve öğretim; yarıyıl esasına göre, güz ve bahar dönemi olarak düzenlenir. Yaz okulu döneminde de dersler açılabilir. Bunların süresi ve şekli, Enstitü Kurulunun önerisi üzerine Senato tarafından karara bağlanır.
