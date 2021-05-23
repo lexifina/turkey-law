@@ -1,0 +1,8 @@
+Merkezin görevleri
+MADDE 6 – (1) Merkezin görevleri şunlardır;
+a) Tarım, hayvancılık, sanayi ve ticaret gibi sektörlerdeki işletmelere ve talep eden diğer kişi, kurum ve kuruluşlara; sürekli eğitim programlarından oluşan mesleki ve teknik eğitim yoluyla yeni bilgi ve teknolojileri sunmak; mesleki, bilimsel bilgi, beceri ve teknoloji düzeyini yükseltmek, üretkenliği ve verimliliği arttırmak için sürekli eğitim faaliyetlerinde bulunmak,
+b) Ulusal ve uluslararası kurum ve kuruluşlar ile gerçek ve tüzel kişilere; meslek içi eğitim, yeni teknoloji-bilgi yoğun mesleki eğitim ve üstü gelişim kursları, konferanslar, seminerler, kurs ve sertifika programları düzenlemek, faaliyetlerini planlamak ve gerektiğinde bu kursları uzaktan eğitim biçiminde vermek, Üniversitede uzaktan eğitimin altyapısının oluşturulmasına ve geliştirilmesine katkıda bulunmak ve bu amaçla benzeri merkezlerle işbirliği ve koordinasyonu sağlamak,
+c) Sürekli eğitim faaliyetleriyle ilgili olarak araştırma, inceleme, proje yapmak veya yaptırmak; Üniversitenin laboratuvar, kütüphane, dershane ve benzeri eğitim imkanlarından yararlanmak,
+ç) Merkezin amaçları doğrultusunda, yurtiçi ve yurtdışı benzeri kuruluşlarla işbirliği yapmak,
+d) Üniversitelerde lisans, yüksek lisans ve doktora düzeyinde, sürekli eğitim ile ilgili ders, konferans ve seminerler verilmesini, sempozyum ve kongreler düzenlenmesini desteklemek ve katkıda bulunmak; öğrencilerin sürekli eğitimle ilgili konulara yönelmesini, tezler hazırlamasını özendirmek ve gerekli desteği sağlamak,
+e) Amaçları doğrultusunda yayın yapmak veya yaptırmak, Üniversitenin kütüphane kaynaklarının geliştirilmesine katkıda bulunmak, gerektiğinde kitaplık ve arşiv oluşturmak.
