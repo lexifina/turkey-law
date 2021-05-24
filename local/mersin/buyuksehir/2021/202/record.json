@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "202",
+  "decision_date": "2021-05-24",
+  "title": "MEC.KAR.(AKDENİZ NÜZHETİYE 88 ADA).doc",
+  "listed_as": "202 MEC.KAR.(AKDENİZ NÜZHETİYE 88 ADA).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/202-meckarakdeniz-nuzhetiye-88-adadoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/24-mayis-2021-meclis-kararlari",
+  "listing_sha256": "043849a0039a72cafe1f6566f132af6515d7ddd9e96422e2137ca6aefb916e10",
+  "meeting_title": "24 MAYIS 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
