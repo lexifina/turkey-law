@@ -1,0 +1,2 @@
+Çalışma alanları
+MADDE 5 – (1) Merkezin çalışma alanları; Bakanlığın onayıyla, Merkezin amaçları doğrultusunda, kamu, özel sektör ve uluslararası kuruluş ve kişilerin ihtiyaç duydukları alanlarda, ulusal veya uluslararası düzeyde eğitim/öğretim ve sertifika programları, kurslar, seminerler, konferanslar düzenlemek, bu faaliyetlerin koordinasyonunu sağlamak ve bu alanlardaki Üniversite olanaklarının tanıtımını yapmaktır.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38619",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA ÜNİVERSİTESİ SÜREKLİ EĞİTİM MERKEZİ YÖNETMELİĞİ",
+  "number": "38619",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2021/38619",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38619&MevzuatTertip=5",
+  "source_sha256": "73200baaac0407851ab5a8c0730edc19cb277588f14b503bd08f224e79fa346f",
+  "source_bytes": 23277,
+  "published": "2021-05-25",
+  "gazette": "31491",
+  "in_force": "2021-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 968,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
