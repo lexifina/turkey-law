@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7319",
+  "year": 2021,
+  "title": "Sigortacılık ile Diğer Bazı Alanlara İlişkin Kanunlarda ve Bir Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-05-25",
+  "gazette_issue": "31491",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/05/20210525-12.htm",
+  "source_sha256": "65c8b58322ccc40e9e633b019e94ceab69da014a6ac2bb53849b61145d82f043",
+  "text_sha256": "20552a66fe0f0f146af2e3ba2b83a568db2c1b132c86b4ebee48edc8ab91f8c9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/05/25/31491-12",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/05/20210525-12.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
