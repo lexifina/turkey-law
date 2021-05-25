@@ -1,0 +1,3 @@
+Çalışma saatlerinin düzenlenmesi
+MADDE 23 – (1) UMKE personelinin Bakanlıkça veya ilgili valilikçe onaylanmış UMKE faaliyetleri kapsamında eğitim, kurs, toplantı, seminer, konferans, tatbikat (gece açık arazi üzerinde konaklamalı ve süreklilik arz eden tatbikatlar dahil), seyyar hastanelerin kurulması, kaldırılması, bakımı, onarımı ve benzeri faaliyetlere katılması durumunda, faaliyet süresinin 8 saatten az olmaması kaydıyla, her bir gün 8 saat olarak aylık çalışma süresinden sayılır. Söz konusu faaliyetlerin 8 saatten az sürmesi halinde, faaliyete esas saatler aylık çalışma süresinden sayılır.
+(2) UMKE Personeli tarafından gerçekleştirilen medikal kurtarma operasyonlarında geçen sürelerin tamamı aylık çalışma süresinden sayılır.

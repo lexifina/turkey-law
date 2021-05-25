@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38620",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFETLERDE VE ACİL DURUMLARDA SAĞLIK HİZMETLERİ YÖNETMELİĞİ",
+  "number": "38620",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2021/38620",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38620&MevzuatTertip=5",
+  "source_sha256": "7b4e52330bd2075f7015f704ec19f1deee92cc08c9e43a6c8a20b942af24fe07",
+  "source_bytes": 71202,
+  "published": "2021-05-25",
+  "gazette": "31491",
+  "in_force": "2021-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4039,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
