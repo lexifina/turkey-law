@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "252",
+  "decision_date": "2021-05-27",
+  "title": "- MEC.KAR. (56 adet otobüsün taşıt cetveline eklenmesi).doc",
+  "listed_as": "252- MEC.KAR. (56 adet otobüsün taşıt cetveline eklenmesi).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/252--meckar-56-adet-otobusun-tasit-cetveline-eklenmesidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/27-mayis-2021-meclis-kararlari",
+  "listing_sha256": "78c4421a023da62cf63708bad31d2569a42e11a70c64656d8394c2b8e5df3ce5",
+  "meeting_title": "27 MAYIS 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
