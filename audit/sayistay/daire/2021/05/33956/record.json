@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35656",
+  "decision_date": "2021-05-27",
+  "source_id": 33956,
+  "chamber": "2",
+  "ilam_number": "88",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/33956/",
+  "source_sha256": "4581cfd68ba2177e52084820f0117e89820a9ee880effa62f6dfa4e2508f411e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
