@@ -1,0 +1,2 @@
+Onaylanmış kuruluşların eşgüdümü ve iş birliği
+MADDE 13- (1) Yetkili kuruluşlar, görevlendirdikleri onaylanmış kuruluşları, yürüttükleri uygunluk değerlendirme faaliyetleri sırasında karşılaştıkları sorunları değerlendirmek ve çözüm önerileri oluşturmak amacıyla toplantıya çağırabilir. Yetkili kuruluş, bu toplantılar sonucunda ortaya çıkan hususları, gerektiği takdirde Bakanlığa ve diğer yetkili kuruluşlara iletir.

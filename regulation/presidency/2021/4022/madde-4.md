@@ -1,0 +1,26 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AB: Avrupa Birliğini,
+b) Akreditasyon: Bir ulusal akreditasyon kurumu tarafından bir uygunluk değerlendirme kuruluşunun belirli bir uygunluk değerlendirme faaliyetini yerine getirmek üzere ilgili ulusal veya uluslararası standartların belirlediği gerekleri ve uygulanabildiği yerlerde ilgili sektörel düzenlemelerde öngörülen ek gerekleri karşıladığının tespitine ve resmi kabulüne ilişkin kamu faaliyetini,
+c) Bakanlık: Ticaret Bakanlığını,
+ç) Eşdeğerlik incelemesi: Bir ulusal akreditasyon kuruluşunun, diğer ulusal akreditasyon kuruluşları tarafından bu Yönetmelik, ilgili AB mevzuatı ve uygun olduğu durumlarda ilave sektörel teknik özellikler kapsamında değerlendirilmesine ilişkin sürecini,
+d) İmalatçı: Ürünü imal ederek veya ürünün tasarımını veya imalatını yaptırarak kendi isim veya ticari markası ile piyasaya arz eden gerçek veya tüzel kişiyi,
+e) Komisyon: Avrupa Komisyonunu,
+f) Modül: İlgili teknik düzenleme gereğince, ürünün taşıdığı risklere göre hangi uygunluk değerlendirmesi işlemlerine tabi tutulacağını gösteren yollardan her birini,
+g) Onaylanmış kuruluş: Bir teknik düzenleme kapsamında uygunluk değerlendirme faaliyetinde bulunmak üzere Türkiye veya bir AB üyesi ülkenin yetkili kuruluşu tarafından bu Yönetmelik ve ilgili teknik mevzuatta belirlenen esaslar doğrultusunda görevlendirilen ve isimleri Komisyona bildirilen uygunluk değerlendirme kuruluşunu,
+ğ) Piyasada bulundurma: Ürünün ticari faaliyet yoluyla, bedelli veya bedelsiz olarak dağıtım, tüketim veya kullanım için piyasaya sağlanmasını,
+h) Piyasaya arz: Ürünün piyasada ilk kez bulundurulmasını,
+ı) Standart: Tanınmış bir standardizasyon kuruluşu tarafından tekrar eden veya devamlı kullanım için kabul edilen, uyum zorunluluğu olmayan aşağıdaki teknik gerekliliklerden birini;
+1) Uluslararası bir standardizasyon kuruluşu tarafından kabul edilen uluslararası standartları,
+2) Bir Avrupa standardizasyon kuruluşu tarafından kabul edilen Avrupa standartlarını,
+3) AB uyum mevzuatının uygulanabilmesi için Komisyonun talebi üzerine kabul edilen Avrupa standartlarını,
+4) Ulusal standardizasyon kuruluşu tarafından kabul edilen ulusal standartları,
+i) Teknik düzenleme: İdari hükümler de dahil olmak üzere ürünün niteliğini, işleme veya üretim yöntemlerini veya bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme veya uygunluk değerlendirme işlemlerini tek tek veya birkaçını ele alarak belirleyen, uyulması zorunlu mevzuatı,
+j) Teknik şartname: Bir ürünün, sürecin veya hizmetin karşılaması gereken teknik şartları belirleyen belgeyi,
+k) TÜRKAK: Türk Akreditasyon Kurumunu,
+l) Uygunluk değerlendirmesi: Ürün, süreç, hizmet, sistem, kişi veya kuruluşa ilişkin belirli şartların yerine getirilip getirilmediğini gösteren süreci,
+m) Uygunluk değerlendirme kuruluşu: Kalibrasyon, test, belgelendirme ve muayene dahil olmak üzere uygunluk değerlendirme faaliyeti gerçekleştiren kuruluşu,
+n) Uyumlaştırılmış standart: AB uyum mevzuatının uygulanabilmesi için Komisyonun talebi üzerine kabul edilen standardı,
+o) Yetkili kuruluş: Ürünlere ilişkin teknik düzenlemeleri hazırlayan, yürüten veya ürünleri denetleyen kamu kuruluşunu,
+ö) Yetkili temsilci: İmalatçının 7223 sayılı Kanun ve ilgili diğer mevzuat kapsamındaki bazı yükümlülüklerini onun adına yerine getirmek üzere imalatçı tarafından yazılı şekilde görevlendirilen Türkiye’de yerleşik gerçek veya tüzel kişiyi,
+ifade eder.

@@ -1,0 +1,11 @@
+Bildirim süreci ve atama
+MADDE 10- (1) Onaylanmış kuruluş adayına ilişkin gerekli kayıt ve belgeler Bakanlık aracılığıyla Komisyona bildirilir. Bildirim; görevlendirilen test, muayene ve/veya belgelendirme kuruluşunun adı, adresi, uygunluk değerlendirmesi yapacağı modüller ile ürünler de dahil olmak üzere ilgili uygunluk değerlendirmesi faaliyetlerine ve kuruluşun yetkinliğine dair tüm detayları içerir. Yetkili bir kuruluş, 5 inci maddenin onuncu fıkrası çerçevesinde akredite edilmemiş bir uygunluk değerlendirme kuruluşunu onaylanmış kuruluş olarak görevlendirdiği takdirde, bu kuruluşun yetkinliğinin ilgili teknik düzenleme kapsamında doğrulanmasını temin edecek nitelikteki kanıt ve belgeleri, görevlendirmede göz önünde bulundurulan geçerli gerekçeleri içeren resmi bir açıklama ile birlikte gerektiğinde Komisyona gönderilmek üzere Bakanlığa iletir.
+(2) Komisyona bildirim tarihinden itibaren, onaylanmış kuruluş adayının yeterliliğinin değerlendirilmesinde akreditasyon belgesi kullanılmış ise iki hafta, kullanılmamış ise iki aylık süre içinde Komisyon veya AB üyesi devletler, bildirimi yapılan onaylanmış kuruluş adayının yeterliği hakkında ek bilgi isteyebilir veya itirazda bulunabilir.
+(3) Yetkili kuruluşlar, AB üyesi bir devlet tarafından görevlendirilen onaylanmış kuruluş adaylarının yeterliklerine ilişkin ek bilgi taleplerini veya itirazlarını ikinci fıkrada belirtilen süreler içinde Komisyona iletilmek üzere Bakanlığa bildirebilir.
+(4) Bildirimi yapılan uygunluk değerlendirme kuruluşu, Komisyon tarafından kimlik kayıt numarası tahsis edilerek Avrupa Birliği Yeni Yaklaşım Onaylanmış Kuruluşlar Bilgi Sisteminde yayımlanması ile onaylanmış kuruluş statüsü kazanır.
+(5) Onaylanmış kuruluşların bildirime konu faaliyet ve özelliklerinde meydana gelen değişiklikler Bakanlık aracılığıyla Komisyona bildirilir.
+(6) Yetkili kuruluşlar, onaylanmış kuruluşlara ilişkin bilgileri resmi internet sitesi üzerinden duyurur. Bu duyuruda asgari olarak aşağıda yer alan hususlar bulunur:
+a) Bir uygunluk değerlendirme kuruluşunun onaylanmış kuruluş olarak atanması.
+b) Onaylanmış kuruluşların faaliyetleri kapsamında meydana gelen değişiklikler.
+c) 12 nci maddenin ikinci fıkrasında öngörülen kararlara ilişkin bilgiler.
+ç) Onaylanmış kuruluşların iletişim bilgilerinde meydana gelen değişiklikler.

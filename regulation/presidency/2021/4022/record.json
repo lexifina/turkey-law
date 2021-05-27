@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-4022",
+  "number": "4022",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "UYGUNLUK DEĞERLENDİRME KURULUŞLARI VE ONAYLANMIŞ KURULUŞLAR YÖNETMELİĞİ",
+  "published": "2021-05-27",
+  "enacted": "2021-05-26",
+  "gazette_number": "31493",
+  "in_force": "2021-05-27",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-05-27, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4022&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "a011eef01f4dabe157a1b312189dfda65e87181f7b99c3e41f7b85a5edfb4fdc",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

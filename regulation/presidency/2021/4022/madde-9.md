@@ -1,0 +1,2 @@
+Akreditasyonun tercih edilmesi
+MADDE 9- (1) Yetkili kuruluşlar, onaylanmış kuruluşları görevlendirirken 5 inci maddenin onuncu fıkrası çerçevesinde akredite edilmiş olan uygunluk değerlendirme kuruluşlarını tercih eder. Yetkili kuruluşlar, 5 inci maddenin onuncu fıkrası çerçevesinde akredite olmayan uygunluk değerlendirme kuruluşlarını ancak 7 nci maddenin ikinci fıkrasında belirtilen kanıt ve belgeler ile geçerli gerekçelerin varlığı halinde onaylanmış kuruluş olarak görevlendirebilir.

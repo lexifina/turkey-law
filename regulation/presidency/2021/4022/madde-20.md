@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 20- (1) Bu Yönetmelik, “Akreditasyon ile Piyasa Gözetimi ve Denetiminin Kurallarının Belirlenmesi Hakkında 9/7/2008 tarihli ve (AB)765/2008 sayılı Avrupa Parlamentosu ve Konsey Tüzüğü” ile “Ürünlerin Piyasaya Arzına İlişkin Genel Çerçeve Hakkında 9/7/2008 tarihli ve (AB)768/2008 sayılı Avrupa Parlamentosu ve Konsey Kararı” esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.

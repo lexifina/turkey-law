@@ -1,0 +1,9 @@
+Onaylanmış kuruluşların yükümlülükleri
+MADDE 11- (1) Onaylanmış kuruluşlar, uygunluk değerlendirme kuruluşlarının 5 inci maddede belirlenen sorumluluklarına ilave olarak;
+a) İmalatçının, ilgili teknik düzenlemenin veya ilgili uyumlaştırılmış standardın veya teknik şartnamenin şartlarına uymadığını tespit ettiklerinde, imalatçıdan gerekli düzeltici önlemleri almasını talep etmek ve uygunluk belgesi düzenlememek,
+b) Uygunluk belgesi düzenledikten sonra yapacakları gözetim sırasında ürünün uygunsuzluğunu tespit ettikleri takdirde, imalatçıdan gerekli düzeltici önlemleri almasını talep etmek ve gerekirse uygunsuzluk haliyle orantılı olarak belgeyi askıya almak veya geri çekmek,
+c) (b) bendinde belirtilen uygunsuzluk ile ilgili olarak imalatçı tarafından gerekli düzeltici önlemlerin alınmadığı veya bu önlemlerin istenen etkiyi doğurmadığı durumlarda uygunsuzluk haliyle orantılı bir şekilde belgenin kapsamını veya süresini kısıtlamak, belgeyi askıya almak veya geri çekmek,
+ç) Vermeyi reddettikleri, kısıtladıkları, askıya aldıkları veya geri çektikleri belgeler, onaylanmış kuruluş görevlendirilmesi kapsam ve şartlarını etkileyen değişiklikler, piyasa gözetim ve denetimini gerçekleştiren yetkili kuruluşlardan aldıkları uygunluk değerlendirme faaliyetlerine ilişkin bilgi talepleri ve talep edilmesi halinde, Türkiye dışındaki faaliyetleri ve yüklenici ilişkileri de dahil olmak üzere onaylanmış kuruluş olarak gerçekleştirdikleri uygunluk değerlendirme faaliyetleri ve diğer faaliyetler hakkında kendilerini görevlendiren yetkili kuruluşları bilgilendirmek,
+d) Görevlendirildikleri teknik düzenlemenin kapsamına giren aynı ürün grubuna ilişkin aynı tür faaliyetleri sürdüren diğer onaylanmış kuruluşlara olumsuz sonuçlanan uygunluk değerlendirme işlemleri ile talep edilmesi halinde, olumlu sonuçlanan uygunluk değerlendirme işlemleri hakkında bilgi vermek,
+e) İlgili teknik düzenlemede belirtilen diğer sorumlulukları yerine getirmek,
+zorundadır.
