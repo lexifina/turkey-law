@@ -1,0 +1,7 @@
+Maddi zarar/maddi zarar tehdidi ve nedensellik iddiası
+MADDE 7 – (1) Soruşturma konusu ürünün 2020 yılı öncesinde sınıflandırıldığı GTİP’in (3919.90.80.30.00) çok farklı ürünleri içerdiği ve 2020 yılında ithalatın büyük çapta ürün GTİP’i (3919.90.80.30.11) yerine farklı bir GTİP’ten (3919.90.80.30.19) gerçekleştiği anlaşıldığından, zarar incelemesinde esas alınan ithalat verileri Bakanlık istatistik veri tabanında Bakanlık tarafından yapılan ayrıştırma çalışması ile tespit edilmiştir.
+(2) Yapılan çalışma sonuçları doğrultusunda, Yönetmeliğin 17 nci maddesi çerçevesinde maddi zarar/maddi zarar tehdidi iddiası incelenmiştir.
+(3) Almanya menşeli soruşturma konusu ürün ithalatı 2018-2020 döneminde mutlak ve nispi olarak artış göstermiştir.
+(4) Almanya menşeli ithalatın, yerli üretim dalının fiyatlarını kırdığı ve baskıladığı tespit edilmiştir.
+(5) Yerli üretim dalı tarafından zarara ilişkin olarak sunulan bilgi, belge ve deliller kullanılarak yapılan değerlendirmede; yurt içi satış birim fiyatlarındaki artışın birim maliyetlerindeki artışın altında kalması neticesinde, karlılığının 2020 yılı içinde fiili zarara döndüğü, neticede buna bağlı ekonomik göstergelerinde de bozulmalar yaşandığı anlaşılmıştır.
+(6) Başvuru aşamasında sunulan deliller ve ithalat verileri esas alınarak yapılan tespitler ışığında, dampingli olduğu iddia edilen Almanya menşeli ithalatın yerli üretim dalının ekonomik göstergelerinde maddi zarara/maddi zarar tehdidine yol açtığı değerlendirilmiştir.

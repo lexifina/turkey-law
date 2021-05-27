@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 6 – (1) Normal değerin tespitinde Almanya iç piyasasına perakende satış yapan bir internet sitesinden alınan birim fiyat normal değer olarak alınmış, söz konusu fiyat, perakendeci ve toptancı/distribütör kar payları düşülerek fabrika çıkış aşamasına getirilmiştir.
+(2) İhraç fiyatı olarak Almanya menşeli soruşturma konusu ürünün ülkemizdeki ilk bağımsız alıcıya toptan satış fiyatı esas alınmış, bu fiyattan toptancı/distribütör karı düşülmüştür. Bu suretle normal değer ve ihraç fiyatının aynı ticari aşamada olduğu varsayılmış; yurtdışı navlun, sigorta ve gümrükleme masrafları için ihracatçı lehine olacak şekilde ayrıca ayarlama yapılmamıştır.
+(3) Bu maddede açıklandığı şekilde tespit edilen normal değer ile Türkiye’ye ihraç fiyatının karşılaştırılması neticesinde, Almanya menşeli ürünler için hesaplanan damping marjının Yönetmeliğin 28 inci maddesinde zikredilen ihmal edilebilir oranın üzerinde olduğu tespit edilmiştir.

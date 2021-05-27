@@ -1,0 +1,2 @@
+Başvurunun temsil niteliği
+MADDE 5 – (1) Başvuru aşamasında sunulan delillerden, yerli üretici BES Reklam Ürünleri San. ve Tic. A.Ş. tarafından yapılan ve diğer yerli üreticiler Frimpeks Kimya ve Etiket San. Tic. A.Ş. ile Remifol Folyo San. ve Tic. A.Ş. tarafından desteklenen başvurunun Yönetmeliğin 20 nci maddesi uyarınca yerli üretim dalı adına yapıldığı anlaşılmıştır. Bu kapsamda, başvuru sahibi BES Reklam Ürünleri San. ve Tic. A.Ş. bu Tebliğin ilgili bölümlerinde “yerli üretim dalı” olarak anılacaktır.

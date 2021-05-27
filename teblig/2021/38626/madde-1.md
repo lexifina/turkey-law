@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici BES Reklam Ürünleri San. ve Tic. A.Ş. tarafından yapılan ve diğer yerli üreticiler Frimpeks Kimya ve Etiket San. Tic. A.Ş. ile Remifol Folyo San. ve Tic. A.Ş. tarafından desteklenen başvuruya istinaden, Almanya Federal Cumhuriyeti menşeli 3919.90.80.30 gümrük tarife pozisyonu altında sınıflandırılan “Genişliği 1 metreyi geçen kendinden yapışkanlı dijital baskı folyoları” ithalatına yönelik bir damping soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
