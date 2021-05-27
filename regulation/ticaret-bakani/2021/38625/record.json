@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38625",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UYGUNLUK DEĞERLENDİRME YÖNTEMLERİ YÖNETMELİĞİ",
+  "number": "38625",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2021/38625",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38625&MevzuatTertip=5",
+  "source_sha256": "e162d2eefd7718db51ec5a89158941968c6d22aacb9df54e497de184c29ed66a",
+  "source_bytes": 23723,
+  "published": "2021-05-27",
+  "gazette": "31493",
+  "in_force": "2021-05-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.05.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 959,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38625-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
