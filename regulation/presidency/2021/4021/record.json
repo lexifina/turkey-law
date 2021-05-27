@@ -1,0 +1,41 @@
+{
+  "id": "presidency-regulation-4021",
+  "number": "4021",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "\"CE\" İŞARETİ YÖNETMELİĞİ",
+  "published": "2021-05-27",
+  "enacted": "2021-05-26",
+  "gazette_number": "31493",
+  "in_force": "2021-05-27",
+  "in_force_basis": "Official own commencement clause: 2021-05-27; official source: Bu Yönetmelik yayımı tarihinde yürürlüğe girer.; official Gazette 2021-05-27",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4021&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "c93ade5b7ca35e2af40090bc107cac3fe9581fc8464f96fc1b07a5833462b917",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 1,
+    "referenced": 0,
+    "omitted": 1
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.4021_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "1137bbfef65293ab664b34fdde8c709f48bf81e1309fe537caaae523b164f5c9",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

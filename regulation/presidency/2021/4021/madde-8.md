@@ -1,0 +1,2 @@
+Dağıtıcının yükümlülükleri
+MADDE 8- (1) Dağıtıcı, ürünü piyasada bulundururken gerekli özeni gösterir. Dağıtıcı ilgili teknik düzenlemede belirlenen diğer yükümlülükleri saklı kalmak kaydıyla, ürünü piyasada bulundurmadan önce ürünün, “CE” işaretini taşıdığını ve uygunluğu gösteren belgelere sahip olduğunu doğrular. Yetkili kuruluşun talebi halinde ürünlerin uygunluğunu gösteren tüm bilgi ve belgeleri yetkili kuruluşa sunar.

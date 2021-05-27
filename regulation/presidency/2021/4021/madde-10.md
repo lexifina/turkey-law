@@ -1,0 +1,14 @@
+MADDE 10- (1) “CE” işaretinin ürüne konulması ve kullanılmasına dair genel esaslar şunlardır:
+a) İmalatçı, “CE” işaretini ürüne koymak veya konulmasını temin etmek suretiyle, ürünün bu işaretin konulmasını öngören ilgili teknik düzenleme veya düzenlemelere uygunluğunun kendi sorumluluğunda olduğunu ve ürünün gerekli tüm uygunluk değerlendirme işlemlerine tâbi tutulduğunu beyan etmiş sayılır.
+b) Bir ürünün “CE” işaretinin konulmasını gerektiren birden fazla teknik düzenlemeye tâbi olması durumunda, ürünün üzerindeki “CE” işareti, ilgili tüm teknik düzenlemelerin uygulanabilir hükümlerinin tamamının imalatçı tarafından yerine getirildiği yönünde karine teşkil eder. Ancak bir ya da daha fazla teknik düzenlemenin bir geçiş dönemi süresince imalatçıya uygulama konusunda bir seçme hakkı tanıdığı durumlarda “CE” işareti, sadece uygulanan teknik düzenleme veya düzenlemelerin hükümlerine uygunluğu gösterir.
+c) “CE” işareti;
+1) Bu Yönetmeliğin ekinde yer alan (EK-1 “CE” İŞARETİNİN ŞEKLİ)’nde belirtilen şekle uygun olarak “CE” harflerinden oluşur ve çizimdeki oranlara uyarak küçültülmesi ve büyütülmesi dışında işaretin tasarımı değiştirilemez.
+2) İlgili teknik düzenlemede aksi belirtilmedikçe, asgarî 5 mm ebadında olur.
+3) Ürüne veya bilgi plakasına veya ürünün yapısı gereği bunun mümkün olmadığı veya kalıcılığının garanti edilemediği durumlarda ambalajına ve ilgili teknik düzenlemenin öngördüğü ürün beraberindeki belgelere görünür, okunabilir ve silinmeyecek şekilde konulur.
+4) Ürün piyasaya arz edilmeden önce konulur.
+5) Sadece imalatçı veya onun yetkili temsilcisi tarafından konulur.
+ç) İlgili teknik düzenlemenin gerektirdiği durumlarda, “CE” işaretinin yanında, üretim kontrol safhasında yer alan onaylanmış kuruluşun kimlik kayıt numarası da yer alır. Kimlik kayıt numarası, onaylanmış kuruluşun kendisi veya kuruluşun talimatları çerçevesinde imalatçı veya imalatçının yetkili temsilcisi tarafından konulur. Bir ürünün farklı teknik düzenlemelerin kapsamına girmesi sebebiyle birden fazla onaylanmış kuruluşun değerlendirmesine tabi tutulması durumunda, “CE” işaretinin yanında üretim kontrol safhasında yer alan tüm onaylanmış kuruluşların kimlik kayıt numaraları yer alır.
+d) Ürünün üzerinde “CE” işaretiyle birlikte piktogramlar veya belirli bir riski veya kullanımı betimleyen diğer işaretler de yer alabilir.
+e) Ürüne “CE” işaretinin anlamı ve şekli hakkında üçüncü şahısları yanıltacak başka işaretler veya betimlemeler konulamaz. Diğer her türlü işaret, ürüne ancak “CE” işaretinin görünebilirliğini, okunabilirliğini ve anlamını bozmayacak şekilde konulabilir.
+f) “CE” işareti sadece teknik düzenlemelerin konulmasını öngördüğü ürünlerde kullanılabilir ve başka ürünlerde kullanılamaz.
+g) İlgili teknik düzenlemelerin gerektirdiği durumlarda “CE”işareti görme engellilerce de okunabilecek şekilde konulur.
