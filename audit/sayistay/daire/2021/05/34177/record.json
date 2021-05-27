@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35654",
+  "decision_date": "2021-05-27",
+  "source_id": 34177,
+  "chamber": "2",
+  "ilam_number": "99",
+  "item_number": 4,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34177/",
+  "source_sha256": "f2071adfea3ff84153fb5a7ad5e0adbd3e5ce8ac375a03c220b712e9220216a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
