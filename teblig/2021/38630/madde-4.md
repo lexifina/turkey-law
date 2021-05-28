@@ -1,0 +1,6 @@
+Karar
+MADDE 4 – (1) Yürütülen soruşturma sonucunda, mevcut önlemin yürürlükten kalkması durumunda dampingin ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu EK’te yer almaktadır.
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ve Ticaret Bakanının onayı ile 12/4/2015 tarihli ve 29324 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2015/9) ile yürürlükte olan dampinge karşı önlemin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.
+GTP | Eşya Tanımı | Menşe Ülke | Dampinge Karşı Önlem (ABD Doları/Kg)
+5603.14 | Yalnız, poliüretanla kaplanmış, sıvanmış veya lamine edilmiş dokumaya elverişli suni ve sentetik liflerden m2 ağırlığı 150 gr’ı geçen dokunmamış mensucat | Çin Halk Cumhuriyeti | 1,9 ABD Doları/Kg
+3921.13 | Yalnız, dokumaya elverişli maddelerden mesnedi bulunan, m2 ağırlığı 150 gr’ı geçen deri taklitleri | Çin Halk Cumhuriyeti | 1,9 ABD Doları/Kg

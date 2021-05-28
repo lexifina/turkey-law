@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 8/4/2020 tarihli ve 31093 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2020/6) ile Çin Halk Cumhuriyeti menşeli 5603.14 ve 3921.13 gümrük tarife pozisyonları altında yer alan “koagüle suni deri” ürününe yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
