@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Rektör tarafından görevlendirilen ilgili Rektör Yardımcısının başkanlığında, Müdür, Veteriner Fakültesi Dekanı, Ziraat Fakültesi Dekanı ile ilgili kamu ve sivil toplum kuruluşu temsilcileri arasından Rektör tarafından üç yıllığına görevlendirilen üç üye olmak üzere toplam yedi üyeden oluşur.
+(2) Danışma Kurulunun başkanı ilgili Rektör Yardımcısıdır. İlgili Rektör Yardımcısının katılamadığı durumlarda, Danışma Kuruluna Müdür başkanlık eder. Danışma Kurulu, ilgili Rektör Yardımcısının çağrısı üzerine yılda en az iki kez salt çoğunlukla olağan olarak toplanır. İlgili Rektör Yardımcısı gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+(3) Danışma Kurulunun görevi; Merkezin faaliyetleri ile ilgili değerlendirmeler yapmak ve önerilerde bulunmaktır.

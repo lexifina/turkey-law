@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversite bünyesinde bulunan yem bitkileri üretimi, hayvansal üretim ve hayvansal gıda konularında yürütülecek olan araştırma, uygulama, eğitim ve yayım faaliyetlerini koordine etmek, çalışma alanlarına ilişkin konularda eğitim veren başta Veteriner ve Ziraat Fakülteleri olmak üzere diğer akademik birimlerin eğitim-öğretim, gezi, inceleme, staj, proje ve tez çalışmaları gibi faaliyetlerine destek vermek, modern yetiştirme ve ıslah yöntemleri geliştirerek uygulamak, bu bilgi ve tecrübe pratiklerini paydaşlara, üretici ve öğrencilere tanıtmak, yem bitkileri üretimi, hayvansal üretim ve hayvansal gıda üretimi ile ilgili entegre tesislerin kurulmasına destek vermek, bölgesel ve ulusal kalkınmaya katkı sağlayacak iş birliği mekanizmaları kurmak ve bunları sürdürülebilir hale getirmek için gerekli olan kurumsal yapıyı oluşturmaktır.
