@@ -1,0 +1,6 @@
+Çalışma usul ve esasları
+MADDE 8 – (1) Danışma Kurulu, Yönetim Kurulunun çağrısı üzerine, Genel Sekreterliğin tüm üyelere yaptığı yazılı veya elektronik davet ile yılda en az bir kez toplanır. Ancak gerekli hallerde, Yönetim Kurulunun çağrısı üzerine Danışma Kurulu olağanüstü toplanabilir. Toplantıya Yönetim Kurulu Başkanı başkanlık eder. Yönetim Kurulu Başkanının katılamadığı durumlarda Genel Sekreter ya da Yönetim Kurulu Başkanının görevlendireceği başka bir üye toplantıya başkanlık eder.
+(2) Toplantı günü, yeri ve gündemi toplantı tarihinden en az on beş gün önce yazılı olarak veya elektronik ortamda Danışma Kurulu üyelerine duyurulur.
+(3) Danışma Kurulu üyeleri, Yönetim Kurulunca belirlenen ve kendilerine önceden gönderilen gündemi inceler, görüş ve önerilerini toplantı sırasında sözlü veya yazılı olarak iletirler.
+(4) Danışma Kurulunun kararları tavsiye niteliğindedir. Kararlar, 4 üncü maddenin birinci fıkrasının (a) ve (b) bentlerinin her birinden ayrı ayrı olmak üzere toplantıda hazır bulunanların oy çokluğu ile alınır.
+(5) Genel Sekreterlik tarafından Danışma Kurulu kararlarına ilişkin raporlar dikkate alınarak genel bir faaliyet raporu hazırlanır ve en geç Aralık ayının sonuna kadar Yönetim Kuruluna iletilir.

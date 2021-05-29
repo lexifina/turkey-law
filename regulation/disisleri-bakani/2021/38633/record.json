@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38633",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK AKREDİTASYON KURUMU DANIŞMA KURULUNUN GÖREVLERİ, TOPLANTI USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38633",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/2021/38633",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38633&MevzuatTertip=5",
+  "source_sha256": "b25ad1711a568745681b22ce95fb6e3d97a32e788431c0ca82185f2497958de8",
+  "source_bytes": 36091,
+  "published": "2021-05-29",
+  "gazette": "31495",
+  "in_force": "2021-05-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.05.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 805,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
