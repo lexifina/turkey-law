@@ -1,0 +1,8 @@
+İKİNCİ BÖLÜM
+Genel Kurul Toplantılarına İlişkin Esaslar
+Toplantı çeşitleri
+MADDE 5 – (1) Şirketlerde aşağıda sayılan genel kurul toplantıları ve imtiyazlı pay sahipleri özel kurul toplantısı yapılır:
+a) Olağan genel kurul toplantısı: Şirket organlarının seçimine, finansal tablolara, yönetim kurulunun yıllık faaliyet raporuna, kârın kullanım şekline, dağıtılacak kâr ve kazanç paylarının oranlarının belirlenmesine, yönetim kurulu üyelerinin ibraları ile faaliyet dönemlerini ilgilendiren ve gerekli görülen diğer konulara ilişkin müzakereler yapmak ve karar almak üzere her hesap dönemi için yapılan toplantılardır.
+b) Olağanüstü genel kurul toplantısı: Şirket için lüzumu halinde veya zorunlu ve ivedi sebepler çıktığı takdirde yapılan ve gündemini toplantı yapılmasını gerektiren sebeplerin oluşturduğu toplantılardır.
+c) İmtiyazlı pay sahipleri özel kurulu toplantısı: İmtiyazlı payların bulunduğu şirketlerde, genel kurulun imtiyazlı pay sahiplerinin haklarını sınırlayacak tarzda esas sözleşmeyi değiştirmeye karar vermesi halinde, Kanunun 454 üncü maddesine göre esas sözleşme değişikliği kararını onaylamak için sadece imtiyazlı pay sahiplerinin katılımıyla yapılan toplantılardır.
+(2) İmtiyazlı pay sahiplerinin haklarını ihlal edecek nitelikteki esas sözleşme değişikliğinin görüşüleceği genel kurul toplantısında, imtiyazlı payları temsil eden sermayenin en az yüzde altmışına sahip olan imtiyazlı pay sahiplerinin veya temsilcilerinin toplantıda hazır bulunmaları ve bunların çoğunluğunun genel kurulda esas sözleşme değişikliğine olumlu oy vermeleri halinde, ayrıca özel kurul toplantısı yapılmaz.

@@ -1,0 +1,5 @@
+Talimatların iletilmesi
+MADDE 47 – (1) Tevdi eden, katılma ve oy hakkının nasıl kullanılacağına ilişkin talimatlarını, her bir gündem maddesi için ayrı ayrı olmak kaydıyla kabul veya red şeklinde belirtmek suretiyle tevdi edilene bildirir. Bu bildirim, asgari olarak Ek-7’de yer verilen örnekteki bilgileri ihtiva etmek kaydıyla, taraflar arasında mutabık kalınan iletişim araçlarıyla yapılabilir.
+(2) Kanunun 1527 nci maddesi uyarınca genel kurul toplantısına elektronik ortamda katılma ve oy kullanma sistemini uygulayan şirketlerin yapacakları genel kurul toplantılarına ilişkin talimatlar tevdi edilene, gizliliğini sağlayacak teknik yeterliliğe haiz olması durumunda, Elektronik Genel Kurul Sisteminden de iletilebilir.
+(3) Genel kurul toplantısının ertelenmesi halinde, birinci ve ikinci fıkra uyarınca verilen talimatlar, tevdi eden tarafından değiştirilmediği sürece, hukuken bunun devamı sayılan genel kurul toplantısı için de geçerlidir.
+(4) Tevdi eden daha önce vermiş olduğu talimatları en geç genel kurul toplantı tarihinden bir gün öncesine kadar birinci ve ikinci fıkrada belirtilen şekilde değiştirebilir.

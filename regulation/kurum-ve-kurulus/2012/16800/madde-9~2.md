@@ -1,0 +1,2 @@
+Gündemin görüşülmesine geçilmeden önce yapılacak işlemler
+MADDE 9 – (1) Toplantı başkanı, genel kurula toplantı gündemini okur veya okutur. Başkan tarafından gündem maddelerinin görüşülme sırasına ilişkin bir değişiklik önerisi olup olmadığı sorulur, eğer bir öneri varsa bu durum genel kurulun onayına sunulur. Toplantıda hazır bulunan oyların çoğunluğunun kararıyla gündem maddelerinin görüşülme sırası değiştirilebilir.

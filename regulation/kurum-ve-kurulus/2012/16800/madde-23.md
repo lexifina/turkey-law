@@ -1,0 +1,5 @@
+Toplantının açılması ve yönetimi
+MADDE 23 – (1) Çağrısı yönetim kurulu tarafından yapılan toplantılar, iç yönergede yapılan belirlemeye uygun olarak, çağrısı yönetim kurulu dışındaki yetkililer tarafından yapılan toplantılar ise iç yönergede bu konuda belirleme yapılmamışsa bu yetkililer tarafından fiziki ve elektronik ortamda açılır.
+(2) Genel kurul, açılışı müteakip bu Yönetmeliğin 14 üncü maddesi uyarınca oluşturulacak toplantı başkanlığı tarafından yönetilir.
+(3) Bakanlık temsilcisinin bulunması zorunlu olan toplantılarda bakanlık temsilcisinin, diğer toplantılarda ise toplantı başkanının; şirket esas sözleşmesi ve iç yönergesi ile Kanun ve diğer ilgili mevzuatta öngörülen hususların yerine getirildiğini ve gerekli nisabın sağlandığını tespit etmesinden sonra toplantıya devam edilir.
+(4) Tek pay sahipli anonim şirketlerde, bu pay sahibi genel kurulun tüm yetkilerine sahiptir. Tek pay sahibinin genel kurul sıfatıyla alacağı kararların geçerlilik kazanabilmesi için yazılı olmaları şarttır.

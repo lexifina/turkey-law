@@ -1,0 +1,4 @@
+Toplantı başkanlığı
+MADDE 14 – (1) Esas sözleşmede aksine herhangi bir düzenleme yoksa toplantıyı yönetecek başkan ve gereğinde başkan yardımcısı genel kurul tarafından seçilir.
+(2) Toplantı başkanı, tutanak yazmanı ile gerek görürse oy toplama memurunu tayin ederek başkanlığı oluşturur. Ayrıca tutanak yazmanı ve oy toplama memuru seçilmemişse, bunlara ait görevler toplantı başkanı tarafından yerine getirilir. Elektronik Genel Kurul Sistemindeki teknik işlemlerin toplantı anında yerine getirilmesi için toplantı başkanı tarafından uzman kişiler de görevlendirilebilir. Tek pay sahipli şirketlerde (Değişik ibare:RG-9/10/2020-31269) başkanlık oluşturulması ile genel kurul toplantısına katılabilecekler listesinin hazırlanması zorunlu değildir.
+(3) (Ek:RG-27/10/2015-29515) Belirlenen toplantı başkanı öncelikle toplantıya katılım hakkı veren belgelerin mevzuata uygunluğunun yönetim organınca kontrol edilip edilmediğini tespit ederek, hazır bulunanlar listesini imzalar.

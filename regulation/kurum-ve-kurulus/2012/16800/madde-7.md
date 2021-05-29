@@ -1,0 +1,6 @@
+Toplantı zamanı
+MADDE 7 – (1) Genel kurul toplantıları aşağıda belirtilen zamanlarda yapılır:
+a) Olağan genel kurul toplantısı, her hesap dönemi sonundan itibaren üç ay içinde yapılır. Buna göre hesap dönemi takvim yılı olan şirketlerde toplantılar yılın ilk üç ayı içinde, özel hesap dönemi olan şirketlerde ise, hesap döneminin bittiği günü izleyen ilk üç ay içinde yapılır.
+b) Olağanüstü genel kurul toplantısı, şirket için toplantının yapılmasını gerektiren durumların ortaya çıktığı zamanlarda yapılır.
+c) İmtiyazlı pay sahipleri özel kurulu; imtiyazlı payların bulunduğu şirketlerde genel kurul tarafından imtiyazlı pay sahiplerinin haklarını ihlal edecek mahiyette esas sözleşme değişikliğine karar verilmesi halinde, anılan karar tarihinden itibaren en geç bir ay içinde toplantıya çağrılır. Bu süre sonuna kadar imtiyazlı pay sahipleri toplantıya çağrılmazsa, her imtiyazlı pay sahibi yönetim kurulunun çağrı süresinin son gününden başlamak üzere onbeş gün içinde, bu kurulun toplantıya çağrılmasını mahkemeden isteyebilir. Çağrıya rağmen süresi içinde imtiyazlı pay sahipleri özel kurulu toplanamazsa, genel kurul kararı onaylanmış sayılır.
+(2) Esas sözleşme değişikliği Bakanlık iznine tabi olan şirketlerde bu amaçla yapılacak genel kurul toplantıları, ancak bu izin alındıktan sonra yapılır.

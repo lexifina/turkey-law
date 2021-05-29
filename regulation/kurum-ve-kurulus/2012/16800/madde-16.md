@@ -1,0 +1,4 @@
+Hazır bulunanlar listesi
+MADDE 16 – (1) (Değişik:RG-29/5/2021-31495) Genel kurul toplantısına katılabilecekler listesi; 6362 sayılı Kanunun 13 üncü maddesi uyarınca kayden izlenen paylar ile hamiline yazılı paylar bakımından Merkezi Kayıt Kuruluşundan sağlanan pay sahipleri çizelgesine, diğer paylardan senede bağlanmamış bulunan veya nama yazılı olan paylar ile ilmühaber sahipleri için pay defteri kayıtlarına göre yönetim kurulunca hazırlanır ve söz konusu liste yönetim kurulu başkanı veya başkanın yetkilendireceği yönetim kurulu üyelerinden biri tarafından imzalanır.
+(2) Genel kurul toplantısına katılabilecekler listesi, Ek-2’deki örneğe uygun olarak hazırlanır.
+(3) Yönetim kurulunca hazırlanan genel kurul toplantısına katılabilecekler listesi, toplantıda hazır bulunan pay sahipleri veya temsilcileri, toplantı başkanı ile Bakanlık temsilcisinin bulunma zorunluluğu olan toplantılarda Bakanlık temsilcisi tarafından imzalanır ve hazır bulunanlar listesi adını alır.

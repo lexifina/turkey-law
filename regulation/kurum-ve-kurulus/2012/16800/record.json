@@ -1,0 +1,64 @@
+{
+  "source_id": "7.5.16800",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANONİM ŞİRKETLERİN GENEL KURUL TOPLANTILARININ USUL VE ESASLARI İLE BU TOPLANTILARDA BULUNACAK BAKANLIK TEMSİLCİLERİ HAKKINDA YÖNETMELİK",
+  "number": "16800",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2012/16800",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16800&MevzuatTertip=5",
+  "source_sha256": "a268128b119f3f1fb355157f3a314b416b2604e03e97efd4e307e0a33f9df8da",
+  "source_bytes": 238989,
+  "published": "2012-11-28",
+  "gazette": "28481",
+  "in_force": "2021-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-05-29",
+      "RG-29/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-29",
+      "29/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-09",
+      "RG-9/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-09",
+      "9/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-10-27",
+      "RG-27/10/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-10-27",
+      "27/10/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-01-13",
+      "13/1/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11102,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

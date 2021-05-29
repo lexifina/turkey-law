@@ -1,0 +1,3 @@
+Talimat istenmesi
+MADDE 46 – (1) Tevdi edilen, her genel kurul öncesinde Kanunun 429 uncu maddesi uyarınca tevdi edene başvurarak genel kurul gündeminde yer alan konularla ilgili hangi yönde oy kullanılacağına ilişkin talimatını talep etmekle yükümlüdür. Bu yükümlülük yerine getirilmeden genel kurula katılınmış olması, Kanunun 433 üncü maddesinin ikinci fıkrasına göre yetkisiz katılma anlamına gelmez.
+(2) Zamanında bildirim yapılmakla birlikte tevdi edenden talimat alınamamışsa tevdi edilen oyunu genel talimata uygun olarak kullanır. Böyle bir talimat yoksa tevdi edilen oyunu yönetim kurulunun önerileri yönünde verir.

@@ -1,0 +1,6 @@
+Toplantı sonunda yapılacak işlemler
+MADDE 29 – (1) Toplantı başkanı genel kurul toplantı tutanağının bir nüshasını ve hazır bulunanlar listesi dahil toplantı ile ilgili diğer tüm belgeleri, derhal şirkete teslim eder. Yönetim kurulunca genel kurul toplantısından sonra genel kurul tutanağının noter tasdikli bir sureti ile Bakanlık temsilcisi bulunan toplantılarda temsilcinin görevlendirme yazısının bir nüshası ve ticaret sicili müdürlüğünce istenecek diğer belgeler, derhal ilgili ticaret sicili müdürlüğüne verilir.
+(2) Yönetim kurulu tescil ve ilana tabi hususları, ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesinde ilan ettirir. İnternet sitesi açmakla yükümlü olan şirketler, genel kurul tutanağını hemen internet sitelerinde de ilân eder.
+(3) Toplantı başkanı, hazır bulunanlar listesinin, gündemin ve genel kurul toplantı tutanağının birer nüshasını Bakanlık temsilcisine teslim eder.
+(4) Bu maddede belirtilen belgelerin Elektronik Genel Kurul Sistemi üzerinden elektronik platformlara iletilmesine Bakanlıkça karar verilebilir.
+(5) Genel kurul işlemleri ile ilgili belgelerin elektronik ortamda güvenli elektronik imza ile düzenlenmesi halinde bu belgelerde noter onayı aranmaz.

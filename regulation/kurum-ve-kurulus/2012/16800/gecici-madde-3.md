@@ -1,0 +1,3 @@
+Hamiline yazılı pay senedi sahipleri için geçiş hükmü
+GEÇİCİ MADDE 3 – (Ek:RG-29/5/2021-31495)
+(1) 31/12/2021 tarihine kadar, genel kurulu toplantıya çağıranlar, Kanunun geçici 14 üncü maddesi uyarınca Merkezi Kayıt Kuruluşuna bildirilmek üzere şirkete başvuruda bulunan ancak henüz Merkezi Kayıt Kuruluşuna bildirilmeyen pay sahiplerini de genel kurula katılabilecekler listesine dâhil eder. Hamiline yazılı pay senedi sahibi; gerçek kişi ise kimliğini, tüzel kişi ise tüzel kişiyi temsile yetkili olduğunu gösteren yetki belgesi ve kimliğini ibraz etmek suretiyle genel kurula katılabilecekler listesini imzalar.

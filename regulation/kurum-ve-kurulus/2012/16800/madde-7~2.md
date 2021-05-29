@@ -1,0 +1,5 @@
+Toplantı başkanlığının oluşturulması
+MADDE 7- (1) Bu İç Yönergenin 6 ncı maddesi hükmü uyarınca toplantıyı açan kişinin yönetiminde öncelikle önerilen adaylar arasından genel kurulun yönetiminden sorumlu olacak pay sahibi olma zorunluluğu da bulunmayan bir başkan ve gerek görülürse başkan yardımcısı seçilir.
+(2) Başkan tarafından en az bir tutanak yazmanı ve gerekli görülürse yeteri kadar oy toplama memuru görevlendirilir. (Esas sözleşmede aksine bir hüküm varsa bu hususa ve tek pay sahipli anonim şirketlerde bu pay sahibinin toplantı başkanlığı için öngörülen tüm görevleri tek başına yerine getirebileceğine ilişkin hususa iç yönergede yer verilir. Ayrıca elektronik genel kurul sistemini kullanan şirketler için bu konudaki teknik işlemlerin toplantı anında yerine getirilmesi amacıyla toplantı başkanı tarafından uzman kişiler görevlendirilebileceği de İç Yönergede belirtilir.)
+(3) Toplantı başkanlığı, toplantı tutanağını ve bu tutanağa dayanak oluşturan diğer evrakı imzalama hususunda yetkilidir.
+(4) Toplantı başkanı genel kurul toplantısını yönetirken Kanuna, esas sözleşmeye ve bu İç Yönerge hükümlerine uygun hareket eder.

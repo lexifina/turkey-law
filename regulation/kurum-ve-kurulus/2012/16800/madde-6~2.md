@@ -1,0 +1,2 @@
+Toplantının açılması
+MADDE 6 – (1) Toplantı şirket merkezinin bulunduğu yerde (Esas sözleşmede aksine bir hüküm varsa bu durum belirtilecektir.), önceden ilan edilmiş zamanda (Kanunun 416 ncı maddesinde belirtilen çağrısız toplantı hükümleri saklıdır) yönetim kurulu başkanı ya da başkan yardımcısı veya yönetim kurulu üyelerinden birisi tarafından, Kanunun 418 inci ve 421 inci maddelerinde belirtilen nisapların sağlandığının bir tutanakla tespiti üzerine açılır. (Esas sözleşmede aksine bir hüküm varsa bu durum belirtilecektir.)
