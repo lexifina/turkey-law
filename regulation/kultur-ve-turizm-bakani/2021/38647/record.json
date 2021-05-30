@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38647",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAPADOKYA ALAN BAŞKANLIĞI HİZMET BİRİMLERİ ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38647",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2021/38647",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38647&MevzuatTertip=5",
+  "source_sha256": "d5eaa9050474655abd68565f99c0547a626667f0d2aba04c65fba79a85f9bd2f",
+  "source_bytes": 29519,
+  "published": "2021-05-30",
+  "gazette": "31496",
+  "in_force": "2021-05-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.05.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
