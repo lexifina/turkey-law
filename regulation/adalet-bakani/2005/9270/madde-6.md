@@ -1,0 +1,3 @@
+İnceleme ve değerlendirme yaptırmaya yetkili merci
+Madde 6 — Sahteliğinden şüphe edilen banknotların, Cumhuriyet başsavcılıkları veya mahkemelere en yakın olan veya en kolay ulaşılabilen Türkiye Cumhuriyet Merkez Bankası merkez veya taşra birimleri tarafından inceleme ve değerlendirme yapılmak üzere gönderilmesine Cumhuriyet başsavcılığı, hâkim veya mahkeme tarafından karar verilir.
+(Ek ikinci fıkra:RG-30/5/2021-31496) Türkiye Cumhuriyet Merkez Bankası merkez ve taşra birimlerince sahteliğinden şüphe edilen banknotlar hakkında birinci fıkra uyarınca karar alınmaksızın inceleme ve değerlendirme raporu düzenlenerek Cumhuriyet başsavcılığına ihbarda bulunulur.
