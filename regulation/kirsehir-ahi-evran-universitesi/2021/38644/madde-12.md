@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; Yönetim Kurulunun önerisi üzerine, çalışma konularıyla ilgili Üniversite öğretim elemanları ile istekleri halinde; kamu kurum ve kuruluşları ile özel sektör kurum ve kuruluş temsilcileri ve uzmanlar arasından, üç yıllık süre için Rektör tarafından görevlendirilen en fazla 5 kişiden oluşur. Görev süresi biten üye yeniden görevlendirilebilir veya görev süresi bitmeden aynı usulle görevinden alınabilir.
+(2) Danışma Kurulunun görevi; Yönetim Kuruluna bilimsel ve teknolojik danışmanlık yapmak ve kendisine sunulan konularda incelemeler yaparak görüş bildirmektir.
