@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu, Müdür ve müdür yardımcıları dahil beş üyeden oluşur. Yönetim Kurulunun diğer iki üyesi Müdürün önereceği dört öğretim elemanı arasından Rektör tarafından üç yıl süreyle görevlendirilir. Yönetim Kurulu ayda bir defa toplanır. Müdür, gerekli gördüğü hallerde Yönetim Kurulunu toplantıya çağırabilir. Yönetim Kurulu, üye tam sayısının salt çoğunluğuyla toplanır ve hazır bulunanların salt çoğunluğuyla karar alır. Oyların eşitliği halinde Müdürün oyu yönünde karar alınmış sayılır.
