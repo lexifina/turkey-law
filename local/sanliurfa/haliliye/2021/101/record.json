@@ -1,0 +1,29 @@
+{
+  "number": "101",
+  "number_as_published": "2021/101",
+  "year": 2021,
+  "month": 5,
+  "title": "Mahalli İdareler Bütçe ve Muhasebe Yönetmeliği’nin 40. Maddesine istinaden Müdürlüğümüz tarafından mali yılın bitiminden itibaren hazırlanan kesin hesap cetvelleri Belediye Encümenimizin 22.04.2021 tarih ve 78 sayılı kararıyla incelenmiş olup, 5393 sayılı Yasanın 34/a maddesi gereğince, Kesin Hesap ve ekleri görüşülerek oy birliği ile kabul edilip karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2021-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2021",
+  "source": "https://www.haliliye.bel.tr/icerik/5677/39/mayis-2021",
+  "official_page": "https://www.haliliye.bel.tr/icerik/5677/39/mayis-2021",
+  "official_document": null,
+  "source_sha256": "58a4857ce1b0f7001783cb64d77c3917e5eb59e61f2130fbab277a2acff96e68",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2021-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "MAYIS 2021",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
