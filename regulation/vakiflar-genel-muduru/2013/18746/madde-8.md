@@ -1,0 +1,6 @@
+Burs verilme süresi
+MADDE 8 – (Değişik:RG-12/9/2020-31242)
+(1) Burs almaya hak kazanan öğrenciye, öğrencilik halinin devam etmesi ve burs almaya engel bir durumunun olmaması koşuluyla öğrenim gördüğü programın varsa hazırlık sınıfı ve normal öğrenim süresince burs verilir.
+(2) Aynı aileden sadece bir öğrenciye burs verilir.
+(3) Genel Müdürlükten burs alan ön lisans mezunu öğrencilerden Dikey Geçiş Sınavı ile eğitimlerine ara vermeden başka bir yükseköğretim kurumuna geçen öğrencilerin bursları kesilmez. Bu durumda olan öğrencilere varsa intibak döneminde bursları ödenir ancak önceki yükseköğretim kurumunda aldığı burs süresi ile yeni yükseköğretim kurumunda verilecek burs süresi toplamı, yeni yükseköğretim kurumunun normal eğitim süresini geçemez.
+(4) Genel Müdürlükten burs alıyorken okumakta oldukları programdan başka bir programa yatay geçiş yapan öğrencilerin, önceki yükseköğretim kurumunda son eğitim yılında başarılı olmaları kaydı ile bir kereye mahsus olmak üzere bursları kesilmez. Bu durumda olan öğrencilerin varsa intibak döneminde bursları ödenir; ancak yükseköğretim kurumunu değiştiren öğrencinin önceki aldığı burs süresi ile yeni yükseköğretim kurumunda verilecek burs süresi toplamı, yeni yükseköğretim kurumunun normal öğrenim süresini geçemez.
