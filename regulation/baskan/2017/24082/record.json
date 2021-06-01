@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24082",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İNSAN HAKLARI VE EŞİTLİK UZMANLIĞI YÖNETMELİĞİ",
+  "number": "24082",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2017/24082",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24082&MevzuatTertip=5",
+  "source_sha256": "08089210cf58d84ecdbe288549ae23498f7d6d86f0f588b2fd23768c5b65f3d7",
+  "source_bytes": 88222,
+  "published": "2017-11-11",
+  "gazette": "30237",
+  "in_force": "2021-06-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/6/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-06-01",
+      "RG-1/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-01",
+      "1/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-04",
+      "RG-4/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-04",
+      "4/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4349,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
