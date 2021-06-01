@@ -1,0 +1,74 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-08-20",
+      "20.08.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "RG-1/6/2021-31498",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-01",
+      "1/6/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-1/6/2021-31498",
+  "first_law": null,
+  "gazette": "31219",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-01",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2020/34779",
+  "published": "2020-08-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34779&MevzuatTertip=5",
+  "source_bytes": 47301,
+  "source_id": "8.5.34779",
+  "source_sha256": "bd26156b73cd8c8db314178e7cab409c30feb0ebdc51097a68ff4cbcd43a8e28",
+  "text_status": "current-consolidated",
+  "title": "ANKARA ÜNİVERSİTESİ KALKINMA ÇALIŞMALARI UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 853
+}
