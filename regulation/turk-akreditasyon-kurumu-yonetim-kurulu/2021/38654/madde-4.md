@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Çalışma: 9/3/2010 tarihli ve 27516 sayılı Resmî Gazete’de yayımlanan İyi Laboratuvar Uygulamaları Prensipleri, Test Birimlerinin Uyumlaştırılması, İyi Laboratuvar Uygulamalarının ve Çalışmaların Denetlenmesi Hakkında Yönetmelik kapsamında yer alan madde ve müstahzarların sorumlusu yetkili merci ile tüm ürün ve kimyasal grupları ile tüm test gruplarını kapsayan testlerinin yapılacağı test birimlerinin uygunluğunu değerlendiren yetkili kurum ve kuruluşlara sunmak için, tasarlanmış test maddelerinin özellikleri veya güvenilirlikleri ile ilgili veriler elde etmek için laboratuvar şartlarında, arazide veya serada yapılan test ya da test dizilerini,
+b) Denetim ekibi: Ulusal İLU İzleme Merci adına test birimlerini ve çalışmaları denetlemekle görevli olan kişi/kişileri,
+c) İyi laboratuvar uygulamaları (İLU): Klinik çalışmalar dışındaki sağlık ve çevre güvenliği çalışmalarının planlanması, yapılması, izlenmesi, kaydedilmesi, arşivlenmesi ve rapor edilmesi şartları ve yönetim usulleri ile ilgili kalite sistemini,
+ç) İLU uygunluk durumu: Ulusal İLU İzleme Merci tarafından belirlenen, test birimlerinin İLU prensiplerine uygunluk derecesini,
+d) İLU uygunluk izlemesi: İLU prensiplerine uygunluğun doğrulanması amacı ile test birimlerinin veya çalışmaların periyodik denetimini,
+e) MAD (Verilerin Karşılıklı Kabulü) sistemi: Katılımcı ülkelerin, kimyasallar üzerinde yapılan çeşitli klinik olmayan testlerin sonuçlarının karşılıklı olarak kabulünü sağlayan OECD tarafından geliştirilen sistemi,
+f) OECD: Ekonomik İşbirliği ve Kalkınma Teşkilatını,
+g) Sponsor: Klinik dışı sağlık ve çevre güvenliği çalışmalarını başlatan, destekleyen veya sunan kurum veya kuruluşu,
+ğ) Standart çalışma prosedürleri (SÇP): Çalışma planı veya test rehberlerinde detaylı olarak açıklanmayan faaliyetlerin veya testlerin nasıl yapılacağını açıklayan yazılı dokümanları,
+h) Sözleşme: İyi Laboratuvar Uygulamaları Uygunluk İzleme Sözleşmesini,
+ı) Test birimi: Klinik dışı sağlık ve çevre güvenliği çalışmaları için gerekli olan kişileri, işyerlerini ve işletim birimini veya birimlerini, birden fazla merkezdeki çalışmaların yürütüldüğü çok merkezli çalışmalar için test birimini, çalışma yöneticisinin bulunduğu merkez ile tek tek ya da toplu olarak tüm bireysel test merkezlerini,
+i) Test birimi yönetimi: Test biriminin İLU prensiplerine uygun olarak düzenlenmesi ve yürütülmesinde yetkili ve yasal olarak sorumlu kişi veya kişileri,
+j) TÜRKAK: Türk Akreditasyon Kurumunu,
+k) Ulusal İLU İzleme Merci: Yetkili merciin sorumluluğunda olan tüm ürün ve kimyasal grupları ile tüm test gruplarının uygunluk denetlemesini gerçekleştirmek ve uygunluk beyanı vermek üzere TÜRKAK’ı,
+l) Ulusal İLU Uygunluk İzleme Programı: Test birimlerinin İLU’ya uygunluğunun izlenmesi için Ulusal İLU İzleme Merci tarafından oluşturulan denetim ve çalışma denetimleri ayrıntılı programını,
+m) Uygunluk: Test birimlerinin İLU prensiplerine ve SÇP’ye uygun olduğunun resmî olarak belirlenmesi faaliyetlerini,
+n) Uygunluk denetlemesi: Test birimlerinin İyi Laboratuvar Uygulamaları Prensipleri, Test Birimlerinin Uyumlaştırılması, İyi Laboratuvar Uygulamalarının ve Çalışmaların Denetlenmesi Hakkında Yönetmelik hükümlerine ve ilgili SÇP’ye uygun olup olmadığının tespit edilebilmesi için yapılan her türlü tetkik ve faaliyeti,
+o) Yetkili Merci: Kozmetik ürünler ve beşeri tıbbi ürünler ile biyosidallerin kontrolü için Sağlık Bakanlığını, veteriner tıbbi ürünler, pestisitler, gıda katkı maddeleri ve yem katkı maddelerinin kontrolü için Tarım ve Orman Bakanlığını, sanayi kimyasalları ve müstahzarların kontrolü için Çevre ve Şehircilik Bakanlığını,
+ifade eder.

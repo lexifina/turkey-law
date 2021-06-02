@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38654",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İYİ LABORATUVAR UYGULAMALARI UYGUNLUK İZLEME PROGRAMI YÖNETMELİĞİ",
+  "number": "38654",
+  "issuer": "Türk Akreditasyon Kurumu Yönetim Kurulu",
+  "issuer_slug": "turk-akreditasyon-kurumu-yonetim-kurulu",
+  "path": "regulation/turk-akreditasyon-kurumu-yonetim-kurulu/2021/38654",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38654&MevzuatTertip=5",
+  "source_sha256": "b3ebd74fee33cd54d647968d27d63622ee9cccaaecc5eae7e47628094047ba96",
+  "source_bytes": 41439,
+  "published": "2021-06-02",
+  "gazette": "31499",
+  "in_force": "2021-06-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2317,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,4 @@
+Avrupa Komisyonu ve OECD ile ilişkiler
+MADDE 11 – (1) TÜRKAK her yıl İLU faaliyetleri kapsamında denetlenen test birimlerinin listesini, denetim tarihlerini ve denetim sonuçlarının kısa bir özetini içeren bir rapor hazırlar. Bu raporu, her yılın 31 Mart tarihine kadar OECD Sekretaryasına iletir.
+(2) Test birimlerinde İLU prensiplerine uygun olmayan hususların, test biriminin yaptığı çalışmaların bütünlüğünü veya geçerliliğini etkileyebilecek derecede önemli olması durumunda en kısa süre içerisinde OECD üye ülkeleri ile OECD üyesi olmayan ancak MAD sistemine dâhil olan ülkelere bilgi verilir.
+(3) Avrupa Komisyonuna yapılacak bildirimler İyi Laboratuvar Uygulamaları Prensipleri, Test Birimlerinin Uyumlaştırılması, İyi Laboratuvar Uygulamalarının ve Çalışmaların Denetlenmesi Hakkında Yönetmelik hükümlerine göre gerçekleştirilir.
