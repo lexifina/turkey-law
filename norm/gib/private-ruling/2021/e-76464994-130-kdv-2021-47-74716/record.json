@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-06-02T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-06-02",
+  "official_number": "E-76464994-130[KDV.2021.47]-74716",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30275",
+  "source_id": "ozelge:30275",
+  "source_row_sha256": "ff1e8b372e44feb16859a42b7e151e68771167990d7237b0a26be30d2428cb1a",
+  "title": "KDV tevkifat oranı hk.",
+  "version_label": "as-enacted",
+  "word_count": 504
+}
