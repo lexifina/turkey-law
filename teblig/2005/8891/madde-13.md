@@ -1,0 +1,3 @@
+ATA Karnesi Kayıtlarının Kapatılması
+Madde 13 - ATA Karnesi ile yurda geçici ithaline izin verilen eşyanın, geçici ithalat rejimi şartlarının yerine getirilmesi suretiyle yurtta kalma süresi içinde yurt dışı edilmesi veya bu Tebliğin 8 ve 12 nci maddelerinde belirtilen işlemlerden herhangi birine tabi tutulması halinde, geçici ithal kayıtları kapatılır.
+Ayrıca, (Mülga ibare:RG-8/3/2018-30354) (...) ATA Karnesi kayıtlarının, çeşitli nedenlerle takibat sonucunda kapatılması halinde, kapatma teyitlerinin (Değişik ibare:RG-8/3/2018-30354) Türkiye Odalar ve Borsalar Birliği’ne en kısa sürede gönderilmesi gerekir.

@@ -1,0 +1,3 @@
+Süre Değişimi
+Madde 7 - ATA Karneleri kapsamında yurda geçici ithali yapılan eşyanın, geçici ithali sırasında tespit edilen yurtta kalma süresinden daha uzun bir süre yurtta kalmasının istenilmesi halinde, bir dilekçe ile gümrük idaresine müracaat edilerek, karnenin geçerlilik süresini geçmemek üzere süre uzatımı talebinde bulunulması gerekir.
+Süre uzatımı talebinin yasal süresi içinde yapıldığının, eşyanın tahsis yerinde tahsis amacına uygun olarak kullanıldığının ve ilk giriş ayniyetine uygun olarak bulunduğunun anlaşılması halinde, karne geçerlilik süresini aşmayacak şekilde süre uzatımı yapılır.

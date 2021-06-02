@@ -1,0 +1,2 @@
+Geçici Madde 1 — (Ek:RG-12/11/2005-25991)(1)
+Yürürlükten kaldırılan 20/2/2000 tarihli ve 23970 sayılı Resmî Gazete'de yayımlanan 2 Seri Nolu Gümrük Genel Tebliği (Geçici İthalat)'nin yürürlükte bulunduğu tarihte ATA karnesi eşliğinde geçici ithal edilen eşya ile ilgili olarak, süre uzatımı talebinde bulunulmuş olsun veya olmasın, ATA karnesinin geçerlilik süresinin bulunması halinde, gümrük idarelerince bu tebliğin 6 ncı maddesinde belirtilen süreler esas alınır.

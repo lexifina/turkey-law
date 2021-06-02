@@ -1,0 +1,61 @@
+{
+  "source_id": "9.5.8891",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GEÇİCİ İTHALAT) SERİ NO: 4",
+  "number": "8891",
+  "path": "teblig/2005/8891",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=8891&MevzuatTertip=5",
+  "source_sha256": "70a1370b55b1d271291a2a39fca0d9f117e78b5104c73557408a9e9e8fcb1337",
+  "source_bytes": 52401,
+  "published": "2005-03-21",
+  "gazette": "25762",
+  "in_force": "2021-06-02",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-2/6/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-06-02",
+      "RG-2/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-02",
+      "2/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-03-08",
+      "RG-8/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-03-08",
+      "8/3/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2005-11-12",
+      "RG-12/11/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-11-12",
+      "12/11/2005",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2634,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.8891%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
