@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-06-02",
+  "issue": "31499",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tıbbi Cihaz Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1-2.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1.htm",
+  "index_sha256": "270334ef65d108baf19e5a80c365798dfe40c0f873fd4bad7198e74ed7422ceb",
+  "index_header": "2 Haziran 2021 ... 31499 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210602M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; item page not HTML"
+}
