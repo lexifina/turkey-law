@@ -1,0 +1,6 @@
+Mahalli idareler dışındaki kuruluş ve birimlerde kamu zararlarından doğan alacaklar ile diğer alacakların tespiti
+MADDE 77 – (1) Müfettişlerin görev ve yetki alanında bulunan, genel bütçe kapsamındaki kamu idareleri, Sosyal Yardımlaşma ve Dayanışma Vakıfları ve idari tasarruflarla oluşturulan birim ve hesaplarda kamu zararlarından doğanlar ile diğer alacakların;
+a) Teftiş sırasında tespit edilmesi halinde, konu teftiş raporunda ayrı bir başlık altında belirtilir veya gerek görülmesi halinde ayrı bir tazmin raporu da düzenlenebilir. Raporların bir örneği mahallinde mülki idare amiri aracılığıyla kamu idaresinin yetkilisine verilir.
+b) Özel teftiş ve denetim sırasında tespit edilmesi halinde, bunlar özel teftiş ve denetim raporlarında ayrı bir başlık altında belirtilir veya gerek görülmesi halinde ayrı bir tazmin raporu da düzenlenebilir ve bu raporlar Başkanlığa verilir.
+c) Araştırma, ön inceleme, inceleme ve soruşturma sırasında tespit edilmesi halinde, bunlarla ilgili olarak ayrıca tazmin raporu düzenlenerek Başkanlığa verilir.
+(2) Raporlarda, sorumlularla birlikte tahsil sürecine dahil edilecek ilgililer de belirtilir. Ayrıca, Kişilerden Alacaklar Hesabına Kaydedilerek Tahsil Edilecek Tutarlar Özeti Çizelgesi düzenlenip raporlara eklenir.

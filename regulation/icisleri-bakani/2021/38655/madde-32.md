@@ -1,0 +1,4 @@
+Birden çok müfettişin birlikte çalışması
+MADDE 32 – (1) Görevin niteliğine göre bir işte, birden çok müfettiş görevlendirilebilir. Bu durumda çalışmaları, kıdemli müfettiş düzenler, işlerin süresinde bitirilmesini sağlayacak önlemleri alır.
+(2) Düzenlenecek rapor türüne ve içeriğine ilişkin olarak, müfettişler arasında görüş ayrılığı olması halinde, çoğunluğun görüşüne uygun hareket edilir. Eşitlik halinde kıdemli müfettişin tercihine uyulur. Aykırı görüş ve önerilere raporda yer verilir.
+(3) Mülkiye müfettişlerince; merkez birimleri ve bağlı kuruluşların müfettiş veya diğer denetim elemanları ile ortaklaşa yürütülen görevlerde bu Yönetmelikteki usul ve esaslar uygulanır. Ortaklaşa yürütülen görevlerde mülkiye müfettişi; birden fazla mülkiye müfettişi görevlendirilmiş ise bunlardan kıdemli olanı çalışmaları düzenler ve işlerin süresinde bitirilmesini sağlayacak önlemleri alır.

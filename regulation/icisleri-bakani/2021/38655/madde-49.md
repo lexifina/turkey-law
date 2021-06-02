@@ -1,0 +1,3 @@
+Genel teftiş raporlarının cevaplandırılması
+MADDE 49 – (1) Genel teftiş raporlarında eleştiri ve öneri konusu yapılan hususlar, raporun teslim tarihinden itibaren otuz gün içinde ilgili kurum ve kuruluş amirlerinin de görüşleri alınmak suretiyle, ilgisine göre kaymakam ve vali tarafından cevaplandırılarak, Valilik tarafından Bakanlığa bildirilir.
+(2) Bakanlık merkez birimleri ile bağlı kuruluşların merkez birimlerinin genel teftişi sonucunda düzenlenen raporlarda eleştiri ve öneri konusu yapılan hususlar, raporun teslim tarihinden itibaren otuz gün içinde ilgili birim veya kuruluşun amiri tarafından cevaplandırılarak Başkanlığa bildirilir.

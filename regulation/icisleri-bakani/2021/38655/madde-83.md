@@ -1,0 +1,3 @@
+Adli makamlarla iş birliği
+MADDE 83 – (1) Müfettişlerin araştırma, ön inceleme, disiplin soruşturması ve soruşturma görevleriyle ilgili olarak, bir ceza soruşturması kapsamındaki bilgi ve belgelere ihtiyaç duymaları halinde; yetkili ve görevli Cumhuriyet başsavcılıkları, müfettişin yazılı istemi üzerine, delillerin bir örneğini dizi pusulasına bağlı olarak müfettişlere verirler. Bu durumda, şayet müdafiin dosya içeriğini inceleme veya belgelerden örnek alma yetkisinin kısıtlanmasına ilişkin hâkim kararı varsa, müfettişler bu kararın etkisiz hale gelmesini önleyecek tedbirleri alırlar.
+(2) Birinci fıkra kapsamında mahkemelerden bilgi ve belge istenmesi gerektiği takdirde; müfettişlerce mahkemelerden yazılı istemde bulunulur.

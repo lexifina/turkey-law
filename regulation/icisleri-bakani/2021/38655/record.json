@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38655",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇİŞLERİ BAKANLIĞI MÜLKİYE TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "38655",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38655",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38655&MevzuatTertip=5",
+  "source_sha256": "1564764502e3114bc8e7d83c6f061d5da797966f3ed2764354e6a7b571318373",
+  "source_bytes": 179111,
+  "published": "2021-06-02",
+  "gazette": "31499",
+  "in_force": "2021-06-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 10205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
