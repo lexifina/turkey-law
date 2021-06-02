@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Birinci madde ile yürürlükten kaldırılan Tıbbi Cihazlar Alanında Faaliyet Gösterecek Onaylanmış Kuruluşlara Dair Tebliğin onaylanmış kuruluşların gözetim ve izleme süreçlerine ilişkin hükümleri 27/5/2024 tarihine kadar uygulanmaya devam eder.

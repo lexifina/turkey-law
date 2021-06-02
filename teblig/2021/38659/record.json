@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31499 Mükerrer",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31499 Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-02",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sağlık Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-87-0.json",
+      "id": "87",
+      "label": "Sağlık Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=87&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "saglik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-06-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38659&MevzuatTertip=5",
+  "source_bytes": 6692,
+  "source_id": "9.5.38659",
+  "source_sha256": "31ad946accd13a42a178b07c1d380d825f8bd8f4b2a2c0d9cf0348f82eb12b2b",
+  "title": "TIBBİ CİHAZLAR ALANINDA FAALİYET GÖSTERECEK ONAYLANMIŞ\r\nKURULUŞLARA DAİR TEBLİĞİN YÜRÜRLÜKTEN KALDIRILMASINA İLİŞKİN TEBLİĞ",
+  "word_count": 91
+}
