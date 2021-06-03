@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7320",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Kuveyt Devleti Hükümeti Arasında Gelir ve Servet Üzerinden Alınan Vergilerde Çifte Vergilendirmeyi Önleme Anlaşmasını Tadil Eden Protokolün Onaylanmasının Uygun Bulunduğuna İlişkin",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-1.htm",
+  "source_sha256": "677a46240d1bb2186b6e53f2956f5b0139eb78c53db077e8d753820bbbc66b8a",
+  "text_sha256": "810904c920212b8da308c23bfde94b399ab2f960db079629a87f28e6fd0dc2f9",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
