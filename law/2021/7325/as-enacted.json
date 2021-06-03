@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7325",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Honduras Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-6.htm",
+  "source_sha256": "0586c9b6007030ce7179e5c4f0aeb5325636b6fbb6d5c5ed011a063a57e0ce71",
+  "text_sha256": "0221d5514d6456f616a94e13f212141b2a61c8f8720e85852aafd8489068da77",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-6",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-6.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
