@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7322",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Etiyopya Federal Demokratik Cumhuriyeti Hükümeti Arasında Madencilik ve Hidrokarbon Alanlarında İş Birliğine Dair Anlaşmanın Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-3.htm",
+  "source_sha256": "5a4c2565a39c47ae4a11c02b236dc2379402ce9b3bdb9fe6c9d49fdf1116f4ef",
+  "text_sha256": "83845bcc2137dc5405571bd8a737e21e376db7ac2589259172c0fc382dcabf5b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-3",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-3.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
