@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7323",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Gümrük ve Ticaret Bakanlığı ile Vietnam Sosyalist Cumhuriyeti Maliye Bakanlığı Arasında Gümrük Konularında İş Birliği ve Karşılıklı Yardım Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-4.htm",
+  "source_sha256": "2b99e57f76d0fd924c6fc5330309e7e2bc023e346deef30512c83eb5dddeed3f",
+  "text_sha256": "83c32427b3bea99eb2ef78fd5c4a11c2a56ef319c3be7c81cc9847a5c6c73745",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-4",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-4.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
