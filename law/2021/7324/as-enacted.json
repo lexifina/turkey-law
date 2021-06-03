@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7324",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ve Guatemala Cumhuriyeti Hükümeti Arasında Hava Ulaştırma Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-5.htm",
+  "source_sha256": "8061a41b40d3035f1811c680ef42d87f42b5bb891145f3b2fce2d502ed8a3028",
+  "text_sha256": "e617ed77ea9241ff051c19c6e078d2c9a1b1e8c2f46f937a72f500dcfb0fdc85",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-5",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-5.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
