@@ -1,0 +1,5 @@
+Bazı elektrik faturalarının zamanında ödenmemesi nedeniyle karşılaşılan gecikme cezaların Birlik bütçesinden ödenmesi sonucu 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesine göre kamu zararına sebebiyet verildiği görülmüş olmakla beraber, sorumlular tarafından gönderilen savunmalardan söz konusu kamu zararının tahsil edildiği anlaşılmıştır.
+
+Bu itibarla, bazı elektrik faturalarının zamanında ödenmemesi sonucu Birlik bütçesinden ödenen gecikme cezalarına ilişkin toplam … TL’den … TL’sinin Birlik Başkanı …’den, … TL’sinin …’tan, … TL’sinin …’den ve … TL’sinin …’dan … tarihli ve …, …, … ve … nolu tahsilat makbuzları ile tahsil edildiği; … TL’nin … tarih ve … numaralı Muhasebe İşlem Fişi ile gelir hesaplarına alındığı görüldüğünden konu hakkında ilişik kalmadığına,
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliği ile,
