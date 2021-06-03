@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7321",
+  "year": 2021,
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Mozambik Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İş Birliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-03",
+  "gazette_issue": "31500",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-2.htm",
+  "source_sha256": "f10c135b4a4f014cf05e3703b6da021be538a5876c3109ac1fc80d8082ba70fc",
+  "text_sha256": "ed970e91f4c572c77017bc9ed81540b2e9032a956aa331c9f9b2336a48108d9b",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/03/31500-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210603-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
