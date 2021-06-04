@@ -1,0 +1,4 @@
+Ön izin belgesi
+MADDE 10 – (1) Birim açmak isteyen yönetici tarafından, Bakanlıktan ön izin almak için Ek-1’de yer alan dilekçe ile Müdürlüğe başvuru yapılır.
+(2) Yapılan başvuru Müdürlükçe oluşturulan Sağlık Hizmetleri Başkanı veya başkan yardımcısı ile çocuk nöroloji uzmanı, nöroloji uzmanı ve fiziksel tıp ve rehabilitasyon uzmanlarından en az ikisinden oluşturulacak en az dört kişilik inceleme ekibi tarafından, ilin demografik verileri, başvuruyu yapan sağlık tesisinin ve ilin sağlık alt yapısı, birim için beklenen hasta yüküne dair bilgileri içeren bir rapor oluşturulur ve bu rapor, başvuru tarihinden itibaren en geç otuz gün içerisinde Bakanlığa gönderilir.
+(3) Bakanlıkça, planlama ve ilden gelen rapor dikkate alınarak değerlendirme yapılır. Uygun görülen başvurular için ön izin belgesi düzenlenir.

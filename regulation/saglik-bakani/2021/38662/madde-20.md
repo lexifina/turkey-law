@@ -1,0 +1,2 @@
+Sosyal çalışmacının/sosyal hizmet uzmanının görevleri
+MADDE 20 – (1) Sosyal çalışmacı/sosyal hizmet uzmanı, birime başvuran hastaların müracaatları sonrası ev ziyareti yaparak yerinde tespit yapmak, raporlamak ve takiplerde hastanın sosyal işlevselliğini sağlamak, korumak, geliştirmek, hastaları rehabilite etmek amacıyla gereken sosyal hizmet müdahalesini belirleyerek gerçekleştirmek, sosyal destek programlarına erişimini sağlamakla görevlidir.
