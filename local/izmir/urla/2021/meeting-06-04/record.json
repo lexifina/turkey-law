@@ -1,0 +1,24 @@
+{
+  "number": "meeting-06-04",
+  "number_as_published": "meeting-06-04",
+  "year": 2021,
+  "title": "04 Haziran Meclis Kararları",
+  "decision_date": "2021-06-04",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4516/haziran-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4518/04-haziran-meclis-kararlari",
+  "source_sha256": "6a421fc85e1751cf97bb5e67fb7a3ec18858e060fd9bb7528a700e2b6eb8a740",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Haziran Meclis Kararları (year 2021 from the official year list '2021 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Haziran Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4518/04-haziran-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
