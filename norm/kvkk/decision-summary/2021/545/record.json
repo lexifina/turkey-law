@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/545",
+  "source_id": 7116,
+  "date": "2021-06-04",
+  "title": "‘‘Veri sorumlusu tarafından ilgili kişinin cep telefonu numarasına reklam amaçlı SMS gönderilmesi’’ hakkında Kişisel Verileri Koruma Kurulunun 04/06/2021 tarihli 2021/545 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7116/2021-545",
+  "source_sha256": "c48035d8d9cfe4ecd51daed35d465d84d559cf705c30db28b3174809d106f095",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
