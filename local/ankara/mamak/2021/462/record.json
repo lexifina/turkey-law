@@ -1,0 +1,27 @@
+{
+  "number": "462",
+  "number_as_published": "462",
+  "year": 2021,
+  "title": "Demirlibahçe Mahallesi, 1585 ada 19 nolu parsel üzerinde bulunan ve Gençlik ve Spor Bakanlığı tarafından gençlik merkezi olarak kullanılan taşınmaza İlişkin Meclis Kararı.",
+  "decision_date": "2021-06-05",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=9af66961-8a34-4ab9-819b-728f23b2d229",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-06-05T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=9af66961-8a34-4ab9-819b-728f23b2d229",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6d9f482e-e441-4d12-8d9f-b883703bee83"
+  ]
+}
