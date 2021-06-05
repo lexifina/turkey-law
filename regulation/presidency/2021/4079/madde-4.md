@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) A kotası: Yurt içi talebe göre üretilen ve pazarlama yılı içinde iç pazara verilebilen şeker miktarını,
+b) B kotası: A kotasının belli bir oranına tekabül eden ve güvenlik payı için bulundurulmak üzere üretilen şeker miktarını,
+c) Bakan: Tarım ve Orman Bakanını,
+ç) Bakanlık: Tarım ve Orman Bakanlığını,
+d) Başkan: Tarım ve Orman Bakanlığı Şeker Dairesi Başkanını,
+e) Başkanlık: Tarım ve Orman Bakanlığı Şeker Dairesi Başkanlığını,
+f) C şekeri: A ve B kotaları dışında üretilen ve yurt içinde pazarlanamayan şeker ile işlenmek üzere ihraç kaydıyla temin edilen ham ve beyaz şekeri,
+g) Daire başkanı: Başkan tarafından denetim faaliyetlerini yönetmek üzere görevlendirilen daire başkanını,
+ğ) Ekim alanı: Şirketlerin veya fabrikaların şekerin hammaddesi olan pancarı, üreticilerle sözleşme yapmak suretiyle temin ettiği, sınırları kesin olarak belirlenen coğrafi alanı,
+h) İmalatçı: Şekeri girdi olarak kullanmak suretiyle kendi nam ve hesabına veya başka bir gerçek ya da tüzel kişi adına üretim yapan, paketleyen, yarı mamul, mamul ya da ürün olarak piyasaya arz eden gerçek ya da tüzel kişiyi,
+ı) Kanun: 4/4/2001 tarihli ve 4634 sayılı Şeker Kanununu,
+i) Münavebe: Şekerin hammaddesi olan bitkiler ile diğer kültür bitkilerinin, aynı alanda, iklim ve toprak özellikleri dikkate alınarak art arda yetiştirildiği ve periyodik olarak tekrarlandığı sistemi,
+j) Numune: İlgili mevzuat çerçevesinde değerlendirilmek üzere alınan şeker veya şekerli mamul ile bunların hammaddesi, ara mamulü ve yan ürünleri ile yüksek yoğunluklu tatlandırıcılardan alınan örneği,
+k) Ölçüm cihazları: Debimetre, kantar, sayaçlar, ölçüm ve analiz ile ilgili ekipmanları,
+l) Şeker: Beyaz şeker (standart, rafine küp ve kristal şeker), yarı beyaz şeker, rafine şeker, ham şeker ve kahverengi şeker olarak sınıflandırılan, pancar veya kamıştan üretilen kristallendirilmiş sakaroz ile nişasta kökenli izoglukoz, likid ya da kurutulmuş halde glukoz şurubu, sakaroz veya invert şeker veya her ikisinin karışımının suda çözünmesinden meydana gelen şeker çözeltisi ve invert şeker şurubu ile inülin şurubunu,
+m) Şeker piyasası: Hammaddenin temininden mamul veya yarı mamul olarak şeker ve tatlandırıcıların üretimi, temini, satışı, işlenmesi, depolanması, dağıtımı, bayiliği, kullanımı ve bunlarla ilişkili iş ve işlemlerden oluşan piyasayı,
+n) Şirket: Bir veya birden fazla sayıda şeker fabrikasını bünyesinde bulunduran ve işleten tüzel kişiliği,
+o) Tedarikçi: Şirketlere ve imalatçılara hammadde, yarı mamul, mamul, yardımcı malzeme sağlayan gerçek ve tüzel kişileri,
+ifade eder.

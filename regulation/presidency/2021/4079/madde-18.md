@@ -1,0 +1,2 @@
+Yolluk ve diğer hakların alınması
+MADDE 18- (1) Yetkili kuruluşlar tarafından düzenlenen eğitime katılarak piyasa gözetimi ve denetimi sertifikası almış olan personele, fiilen piyasa gözetimi ve denetimi için 4634 sayılı Kanun kapsamında görevlendirilmeleri hâlinde 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununa göre hak ettikleri gündeliklerin bir buçuk katı tutarında gündelik ödenir. Ancak, 6245 sayılı Kanunun 33 üncü maddesinin (b) fıkrasında sayılanlar hakkında bu madde hükmü uygulanmaz.

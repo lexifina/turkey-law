@@ -1,0 +1,6 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yaptırımlar
+MADDE 16- (1) Yapılan denetimlerde, ilgili mevzuat hükümlerine aykırılık tespit edilmesi halinde, bu Yönetmelikte yer alan hükümler çerçevesinde işlem tesis edilerek fiilin niteliğine göre Kanunun 11 inci maddesinde öngörülen yaptırımlar uygulanır.
+(2) Bakanlık tarafından bilgi isteme, izleme, denetim veya yerinde inceleme hallerinde; istenen bilgilerin yanlış, eksik veya yanıltıcı olarak verildiğinin saptanması veya hiç bilgi verilmemesi ya da yerinde inceleme imkânının verilmemesi hallerinde, bu fiili işleyen gerçek veya tüzel kişiler yedi gün içinde bilgilerin verilmesi ve/veya inceleme imkânının sağlanması için ihtar edilir. Bu süre zarfında bilgilerin verilmemesi ve/veya inceleme imkânının sağlanmaması halinde, gerçek veya tüzel kişilere Kanunun 11 inci maddesinin altıncı fıkrasına göre idari para cezası verilir.
+(3) Denetim ve inceleme faaliyeti yapılan gerçek veya tüzel kişilik tarafından düzenlenen sevk irsaliyesi üzerinde ilgili mevzuat hükümleri gereğince bulunması gereken unsurlardan herhangi birisinin eksik olduğunun tespiti halinde bu fiili işleyen gerçek ve tüzel kişiler hakkında Kanunun 11 inci maddesinin altıncı fıkrasına göre idari para cezası verilir.

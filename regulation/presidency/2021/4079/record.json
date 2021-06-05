@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-4079",
+  "number": "4079",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ŞEKER PİYASASI İZLEME VE DENETİM YÖNETMELİĞİ",
+  "published": "2021-06-05",
+  "enacted": "2021-06-04",
+  "gazette_number": "31502",
+  "in_force": "2021-06-05",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-06-05, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4079&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "bbff9137134e4c0c767b94c1afec77cdd640b47c21aed52cfe1f1a29e6e13a95",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
