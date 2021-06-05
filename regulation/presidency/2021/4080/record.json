@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-4080",
+  "number": "4080",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ŞEKER KOTALARININ DÜZENLENMESİ VE UYGULANMASINA İLİŞKİN YÖNETMELİK",
+  "published": "2021-06-05",
+  "enacted": "2021-06-04",
+  "gazette_number": "31502",
+  "in_force": "2021-06-05",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-06-05, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4080&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "bed4a55fe221e6cd2c18ff16fe7bcb961968a94f4b1a348e3780a126a05178f4",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
