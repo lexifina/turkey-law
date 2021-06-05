@@ -1,0 +1,5 @@
+Ödemeler
+MADDE 12 – (1) Hammadde bedel ödemeleri, fabrika bazında pancar alımının tamamlandığı tarihten itibaren altmış gün içinde gerçekleştirilir. Bu ödeme, üreticinin talebi olmaksızın ayni avans uygulamak veya şeker teslim etmek suretiyle yapılamaz. Buna aykırı hükümlere sözleşmede yer verilemez.
+(2) Şirketler, C pancarı veya B kotası pancarı temin etmesine karşın, C şekeri veya B kotası şeker üretmediği durumlarda, temin edilen bu pancarlardan fiili olarak, üretilen şeker kotası türünün hammadde fiyatı ile teslim edilen pancarın fiyatı arasındaki farkı üreticiye öder.
+(3) Hammaddenin üreticiler tarafından doğrudan fabrika merkezine nakledilmesinden doğacak nakliye bedellerinin belirlenmesi ile ilgili hususlar sözleşmede açıklanır. Nakliye bedelinin hesaplanmasında, üretim yapılan köy/mahalle ile pancarın teslim edildiği fabrika arasındaki mesafe dikkate alınır.
+(4) Ekimde kullanılacak tohum çeşidinin tespiti, temini ve üreticilere teslimi şirketlere veya fabrikalara aittir. Şirket, bu yetkisini üretici temsilcilerine devredebilir.

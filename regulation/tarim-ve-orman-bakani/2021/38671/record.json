@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.38671",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ŞEKER VE HAMMADDELERİ YÖNETMELİĞİ",
+  "number": "38671",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2021/38671",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38671&MevzuatTertip=5",
+  "source_sha256": "1b1a3fb23c0968fc7e366ee7e179760e46a8df2b88e512f457e7a0c9ae9b3185",
+  "source_bytes": 51846,
+  "published": "2021-06-05",
+  "gazette": "31502",
+  "in_force": "2021-06-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.06.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3218,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

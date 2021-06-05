@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Hammadde Temini ve Fiyatları
+Hammadde temini
+MADDE 5 – (1) Şirketlere veya fabrikalara tahsis edilen pancar şekeri kotalarının üretim ve arz garantisi için gerekli olan şeker pancarı, belirlenen ekim alanlarından, üreticiler veya temsilcileri ile şirketler veya fabrikalar arasında sözleşme düzenlenmesi suretiyle temin edilir.
+(2) Şirketler, üreticilerle yaptıkları sözleşmeleri pancar kayıt sistemine kayıt etmek zorundadır.
+(3) Şirketler, kendilerine tahsis edilen pancar şekeri kotalarını karşılamak üzere sözleşme yapmadan önce; üreticiler ile bu üreticilere tahsis edilecek A ve B kotası şeker pancarı miktarının tespitine ilişkin esasları ve uygulanacak münavebe metodunu Bakanlığa bildirir. Şirketler, bildirdikleri münavebe dönem ve esaslarına uygun ekim yaptırmakla yükümlüdür. Bu esaslara uygun ekim yaptırmadığı veya Bakanlığa bildirdiği münavebe planı dışında ekim yaptırdığı tespit edilen Şirketlere, Şeker Kanununun 11 inci maddesinin altıncı ve yedinci fıkra hükümleri uygulanır.
+(4) A ve B kotaları dışında şeker hammaddesi olarak üretilen ve teslim edilen pancar C pancarı olarak kabul edilir.
+(5) C şekeri karşılığı pancarın alınıp alınmaması, şirketler ile üretici veya üretici temsilcilerinin mutabakatına bağlıdır.
+(6) A ve B kotası pancar üretimi için yapılacak sözleşmeler için bu Yönetmelik gereği yer alması gereken sözleşme unsurları, C pancarı temin etmek için düzenlenen sözleşmelerde de bulunmak zorundadır.
+(7) Şeker tanımına girmeyen veya şeker üretim prosesi dışında değerlendirilen nihai ürünlerin üretimi için ihtiyaç duyulan şeker pancarının üretilmesine ilişkin müracaatlar Bakanlığa yapılır. Bu şekilde sözleşmeye bağlanacak hammadde miktarı ve fiyatı Bakanlığa ekim başlamadan önce bildirilir. Bakanlık, sözleşmede fiyat, net miktar, münavebe planı ve elde edilecek ürünler belirtilmek koşuluyla üretime izin verebilir. Pancar üretimi yapılacak parselin pancar kayıt sistemine kaydedilmesi zorunludur. Bu tür izinlerde münavebe planına uyulacağına dair taahhütname istenir. Bu amaçla ürettirilecek pancar, C pancarı kapsamı dışındadır.
