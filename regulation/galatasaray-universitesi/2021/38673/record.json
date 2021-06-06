@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 30 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-06",
+      "06.06.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 30 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31503",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Galatasaray Üniversitesi",
+  "issuer_slug": "galatasaray-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/galatasaray-universitesi/2021/38673",
+  "published": "2021-06-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38673&MevzuatTertip=5",
+  "source_bytes": 62981,
+  "source_id": "8.5.38673",
+  "source_sha256": "5de7f0fa80375800f936a9a81610b4ca1a9e8afcd32732d80724c73fb81323ad",
+  "text_status": "as-enacted",
+  "title": "GALATASARAY ÜNİVERSİTESİ HUKUK FAKÜLTESİ EĞİTİM-ÖĞRETİM \r\nVE SINAV YÖNETMELİĞİ",
+  "university_id": 194,
+  "word_count": 3532
+}
