@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-07",
+      "07.06.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31504",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2021/38669",
+  "published": "2021-06-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38669&MevzuatTertip=5",
+  "source_bytes": 30589,
+  "source_id": "8.5.38669",
+  "source_sha256": "1067880ca0653375da5a491a10c463606f2165bcf0f7e152ae422f6317beb3ad",
+  "text_status": "as-enacted",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ AFET VE ACİL DURUM \r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 1216
+}
