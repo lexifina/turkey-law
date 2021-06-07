@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-07",
+      "07.06.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31504",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Mersin Üniversitesi",
+  "issuer_slug": "mersin-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/mersin-universitesi/2021/38667",
+  "published": "2021-06-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38667&MevzuatTertip=5",
+  "source_bytes": 30784,
+  "source_id": "8.5.38667",
+  "source_sha256": "c0dd898153a1d0f63779e1201f3337d74565dd926046fe181e6c130594791ef7",
+  "text_status": "as-enacted",
+  "title": "MERSİN ÜNİVERSİTESİ NÜKLEER BİLİMLER UYGULAMA \r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 211,
+  "word_count": 1269
+}
