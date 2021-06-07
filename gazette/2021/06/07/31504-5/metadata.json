@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-06-07",
+  "issue": "31504",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Mersin Üniversitesi Nükleer Bilimler Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210607-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210607.htm",
+  "index_sha256": "5b2de9ee18b2ec551abb98756a1375460b834e3782be04857918952ffb03831d",
+  "index_header": "7 Haziran 2021 ... 31504 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210607.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
