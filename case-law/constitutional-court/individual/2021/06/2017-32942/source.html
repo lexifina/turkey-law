@@ -1,0 +1,807 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS PGothic";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.stbalk, li.stbalk, div.stbalk
+	{mso-style-name:"Üst başlık";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452515726395, li.edf1452515726395, div.edf1452515726395
+	{mso-style-name:edf_1452515726395;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1474809887997, li.edf1474809887997, div.edf1474809887997
+	{mso-style-name:edf_1474809887997;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1449419213507, li.edf1449419213507, div.edf1449419213507
+	{mso-style-name:edf_1449419213507;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449652191023, li.edf1449652191023, div.edf1449652191023
+	{mso-style-name:edf_1449652191023;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1431933470578, li.edf1431933470578, div.edf1431933470578
+	{mso-style-name:edf_1431933470578;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1430911608515, li.edf1430911608515, div.edf1430911608515
+	{mso-style-name:edf_1430911608515;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:14.0pt;
+	font-family:Dialog;
+	color:black;}
+p.edf1450278888507, li.edf1450278888507, div.edf1450278888507
+	{mso-style-name:edf_1450278888507;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1430911382713, li.edf1430911382713, div.edf1430911382713
+	{mso-style-name:edf_1430911382713;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452515799605, li.edf1452515799605, div.edf1452515799605
+	{mso-style-name:edf_1452515799605;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450278888505, li.edf1450278888505, div.edf1450278888505
+	{mso-style-name:edf_1450278888505;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449652110386, li.edf1449652110386, div.edf1449652110386
+	{mso-style-name:edf_1449652110386;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1478499608785, li.edf1478499608785, div.edf1478499608785
+	{mso-style-name:edf_1478499608785;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450084648204, li.edf1450084648204, div.edf1450084648204
+	{mso-style-name:edf_1450084648204;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419594272479, li.edf1419594272479, div.edf1419594272479
+	{mso-style-name:edf_1419594272479;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1464250365882, li.edf1464250365882, div.edf1464250365882
+	{mso-style-name:edf_1464250365882;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452515799559, li.edf1452515799559, div.edf1452515799559
+	{mso-style-name:edf_1452515799559;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419597503565, li.edf1419597503565, div.edf1419597503565
+	{mso-style-name:edf_1419597503565;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452515799512, li.edf1452515799512, div.edf1452515799512
+	{mso-style-name:edf_1452515799512;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection2
+	{page:WordSection2;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:14.0pt;color:#010000">TÜRKİYE CUMHURİYETİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:16.0pt;color:#010000">ANAYASA MAHKEMESİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">İKİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">B.Y. VE Y.O.Y. BAŞVURUSU</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">(Başvuru Numarası: 2017/32942)</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">Karar Tarihi: 8/6/2021</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000"> </span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:14.15pt;text-align:center;text-indent:.05pt"><b><span style="color:#010000">İKİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:14.15pt;text-align:center;text-indent:.05pt"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:460.6pt;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="614">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p> </p>
+
+<p><b><span new="" roman="" style="font-size:12.0pt;font-family:" times=""></span></b></p>
+
+<p> </p>
+
+<div class="WordSection2">
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><span style="color:#010000">RESEN GİZLİLİK KARARI VERİLDİ</span></u></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Başkan</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Kadir ÖZKAYA</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Üyeler</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Engin YILDIRIM</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Celal Mümtaz AKINCI</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Rıdvan GÜLEÇ</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Basri BAĞCI</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Raportör</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Ali KOZAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Başvurucular</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">1. B.Y.</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">2. Y.O.Y.</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">I.</span></b><span style="color:#010000"> <b>BAŞVURUNUN KONUSU</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">1. Başvuru, suça sürüklenen çocuğa güvenlik tedbiri uygulanmasının aile hayatına saygı hakkının ihlal ettiği iddiasına ilişkindir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">II.</span></b><span style="color:#010000"> <b>BAŞVURU SÜRECİ</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">2. Başvurular 7/7/2017 tarihinde yapılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">3. Başvuru, başvuru formu ve eklerinin idari yönden yapılan ön incelemesinden sonra Komisyona sunulmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">4. Komisyon tarafından 2018/126 sayılı bireysel başvurunun kişi yönünden irtibat nedeniyle 2017/32942 sayılı dosya ile birleştirilmesine ve incelemenin 2017/32942 numaralı başvuru üzerinden yapılmasına karar verilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">5. Komisyonca kabul edilebilirlik incelemesinin Bölüm tarafından yapılmasına karar verilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">6. Bölüm Başkanı tarafından başvurunun kabul edilebilirlik ve esas incelemesinin birlikte yapılmasına karar verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">7. Başvuru belgelerinin bir örneği bilgi için Adalet Bakanlığına gönderilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">III.</span></b><span style="color:#010000"> <b>OLAY VE OLGULAR </b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">8. Başvuru formu ve eklerinde ifade edildiği şekliyle olaylar özetle şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">9. Birinci başvurucunun oğlu olan ve 2002 yılında doğan ikinci başvurucunun İstanbul Üniversitesi Tıp Fakültesinin 2006 yılında düzenlediği raporla %70 oranında otistik olduğu tespit edilmiştir. Ayrıca 2009 yılında Çapa Tıp Fakültesi gözetiminde, altı aylık aile terapisi sonrasında ikinci başvurucu hakkında A Tipi Otizm raporu düzenlenmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">10. İkinci başvurucunun öğrenimine devam ettiği okulda hizmetli olarak görev yapan iki kişi, Cumhuriyet Başsavcılığına (Başsavcılık) ikinci başvurucu hakkında şikâyet dilekçesi vermiştir. Dilekçelerden, ikinci başvurucunun bir hizmetli ile bir öğrenciye saldırdığından yakınıldığı anlaşılmaktadır. Başsavcılık, ikinci başvurucu hakkında basit yaralama suçundan soruşturma başlatmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">11. Başsavcılık, 1/6/2016 tarihinde devam eden soruşturma bağlamında ikinci başvurucu hakkında tedbir kararı verilmesini yetkili Asliye Hukuk Mahkemesinden (Mahkeme) talep etmiştir. Başsavcılık talebinde; ceza soruşturması başlatılmasına rağmen suça sürüklenen çocuğun 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu'nun 31. maddesi kapsamında farik ve mümeyyiz olmadığı için kovuşturma açılamayacağı belirtilmiştir. On beş yaşını doldurmayan ve işlediği fiilin anlam ve sonuçlarını algılama ve davranışlarını yönlendirme yeteneği olmayan suça sürüklenen çocukların bir ceza ve usul ilişkisinin tarafı olamayacağı vurgulanmıştır. Bununla birlikte anılan özellikteki suça sürüklenen çocuk hakkında 3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanunu'nun 5. maddesi gereği koruma ve güvenlik tedbirine hükmolunabileceği belirtilerek ikinci başvurucu hakkında anılan Kanun kapsamında koruma ve güvenlik tedbirine karar verilmesi talep edilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">12. Mahkeme, Çocuk Mahkemesi sıfatıyla yaptığı yargılamada; tensiple çocuk hakkında güvenlik tedbiri uygulanıp uygulanmayacağı yönünde bilirkişi raporu alınmasına karar vermiştir. Bu kapsamda bir psikolog ve iki sosyologdan oluşan bilirkişi heyetinden sosyal inceleme raporu almıştır. 28/7/2016 tarihli raporun başvurucular, okul müdürü, öğretmenler, şikâyetçiler gibi ilgili ve ikinci başvurucuyla bilgisi olan kişilerle görüşme yapılarak hazırlandığı görülmüştür. Raporda; ikinci başvurucunun otizm teşhisli olduğu, göz teması kurmaktan kaçındığı, yeniliğe ve yeni kişilerle iletişime kapalı olduğu, annesi ve babasıyla iletişim sıkıntısı yaşamadığı, ailenin çocuklarıyla ilgilendiği belirtilmiştir. İkinci başvurucunun yeni bir çevreye alışmasının zor olduğu, bu nedenle ailesiyle kalmasının çocuğun üstün menfaatine olduğu ancak kronik otizm teşhisi nedeniyle sağlık kontrollerinin ve gerekli takibin sağlanması adına desteklenmesi gerektiği vurgulanarak 5395 sayılı Kanun kapsamında bakım tedbirine ihtiyaç olmasa da sağlık tedbiri kararı alınmasının çocuğun yararına olduğu değerlendirmesine yer verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">13. İkinci başvurucunun ebeveynleri Mahkeme tarafından 14/2/2017 tarihli duruşmada dinlenmiştir. Çocuğun babası, tedbir talebinin Kanun'un amacına uygun olmadığını ve tedbir uygulanmasına rıza göstermediğini vurgulamıştır. Birinci başvurucu beyanında; çocuğu hakkında arka arkaya açılmış ceza soruşturmalarının kötü niyetli girişimlerin sonucu olduğunu, çocuğun yararına olmadığı açık olan özel eğitim uygulamasına zorlamak amacına yönelik olduğunu, çocuğun anılan uygulamadan zarar gördüğünü, bu durumu tanık ve hastane raporlarıyla kanıtlayabileceğini belirtmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">14. Mahkeme; Başsavcılığın taleplerinin kabulüne, çocuk hakkında üç ayda bir, Devlet Hastanesinde muayene edilmek suretiyle sağlık tedbiri uygulanmasına 25/2/2017 tarihinde karar vermiştir. Kararın gerekçesinde; hükme esas alınabilecek nitelikte olan bilirkişi raporunda sağlık tedbirinin uygulanmasının uygun olacağının tespit edildiği hatırlatıldıktan sonra söz konusu tedbirin alınmasının çocuğun yüksek menfaatine olduğu, çocuğun fiziksel ve ruhsal gelişimine önemli katkı sağlayacağı kanaatine varıldığı vurgulanmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">15. Birinci başvurucu bu karara kendi adına ve ikinci başvurucuya velayeten itiraz etmiştir. İtiraz dilekçesinde; Mahkemenin bakım tedbiri konusunda rapor alınması için bilirkişi heyetine dosyayı tevdi etmesine rağmen bilirkişilerin Mahkemenin yerine geçerek sağlık tedbiri uygulanması yönünde görüş bildirdiklerini belirtmiştir. Çocuk hakkında okuldan uzaklaştırmanın mümkün olmaması nedeniyle ikinci başvurucunun özel eğitim adı altında bir sınıfta tecrit edilmesinin sağlanmaya çalışıldığını, bu şekilde eğitim görmesini sağlamak amacıyla kötü niyetli olarak soruşturmalar başlatıldığını ifade etmiştir. Çocuğun okulda yaşadığı sıkıntıların gözönüne alınmadığı, durduk yere saldıran biri gibi tanıtılmaya çalışıldığı, ikinci başvurucunun tedavi tedbirine ihtiyacı olmadığı, tüm tedavi ve bakımının ailesi tarafından karşılandığı, tedbirin Kanun'un amacına uygun olmadığı vurgulanmıştır. İtiraz merci olan yetkili Asliye Hukuk Mahkemesi 13/3/2017 tarihinde tedbir kararının usul ve yasaya uygun olduğu gerekçesiyle itirazın reddine karar vermiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">16. Nihai karar başvuruculara 8/6/2017 tarihinde tebliğ edilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">17. 7/7/2017 tarihinde bireysel başvuruda bulunulmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">18. Öte yandan İl Sağlık Müdürlüğü, Uzman Doktor A.E.nin ikinci başvurucuya dair muayene raporunu Mahkemeye sunarak üç ayda bir hastanede muayene şeklinde uygulanan sağlık tedbirinin sonlandırılmasını talep etmiştir. Mahkeme 20/3/2019 tarihinde ikinci başvurucu hakkındaki sağlık tedbirinin kaldırılmasına karar vermiştir.</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">IV.</span></b><span style="color:#010000"> <b>İLGİLİ HUKUK</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A.</span></b><span style="color:#010000"> <b>Ulusal Hukuk</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">19. 5237 sayılı Kanun'un <i>"Yaş küçüklüğü"</i> kenar başlıklı 31. maddesinin ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1) Fiili işlediği sırada oniki yaşını doldurmamış olan çocukların ceza sorumluluğu yoktur. Bu kişiler hakkında, ceza kovuşturması yapılamaz; ancak, çocuklara özgü güvenlik tedbirleri uygulanabilir.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">(2) Fiili işlediği sırada oniki yaşını doldurmuş olup da onbeş yaşını doldurmamış olanların işlediği fiilin hukukî anlam ve sonuçlarını algılayamaması veya davranışlarını yönlendirme yeteneğinin yeterince gelişmemiş olması hâlinde ceza sorumluluğu yoktur. Ancak bu kişiler hakkında çocuklara özgü güvenlik tedbirlerine hükmolunur. İşlediği fiilin hukukî anlam ve sonuçlarını algılama ve bu fiille ilgili olarak davranışlarını yönlendirme yeteneğinin varlığı hâlinde, bu kişiler hakkında suç, ağırlaştırılmış müebbet hapis cezasını gerektirdiği takdirde oniki yıldan onbeş yıla; müebbet hapis cezasını gerektirdiği takdirde dokuz yıldan onbir yıla kadar hapis cezasına hükmolunur. Diğer cezaların yarısı indirilir ve bu hâlde her fiil için verilecek hapis cezası yedi yıldan fazla olamaz..."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">20. 5237 sayılı Kanun'un <i>"Çocuklara özgü güvenlik tedbirleri"</i> kenar başlıklı 56. maddesi şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1) Çocuklara özgü güvenlik tedbirlerinin neler olduğu ve ne suretle uygulanacakları ilgili kanunda gösterilir." </span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">21. 5395 sayılı Kanun'un <i>"Tanımlar"</i> kenar başlıklı 3. maddesinin (1) numaralı fıkrasının ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"Bu Kanunun uygulanmasında;</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">a) Çocuk: Daha erken yaşta ergin olsa bile, onsekiz yaşını doldurmamış kişiyi; bu kapsamda,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">1. Korunma ihtiyacı olan çocuk: Bedensel, zihinsel, ahlaki, sosyal ve duygusal gelişimi ile kişisel güvenliği tehlikede olan, ihmal veya istismar edilen ya da suç mağduru çocuğu,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">2. Suça sürüklenen çocuk: Kanunlarda suç olarak tanımlanan bir fiili işlediği iddiası ile hakkında soruşturma veya kovuşturma yapılan ya da işlediği fiilden dolayı hakkında güvenlik tedbirine karar verilen çocuğu,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">...</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">İfade eder."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">22. 5395 sayılı Kanun’un <i>"Temel ilkeler"</i> kenar başlıklı 4. maddesinin ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1) Bu Kanunun uygulanmasında, çocuğun haklarının korunması amacıyla;</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">…</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">b) Çocuğun yarar ve esenliğinin gözetilmesi,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">…</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">d) Çocuk ve ailesi bilgilendirilmek suretiyle karar sürecine katılımlarının sağlanması,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">…</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">f) İnsan haklarına dayalı, adil, etkili ve süratli bir usûl izlenmesi,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">g) Soruşturma ve kovuşturma sürecinde çocuğun durumuna uygun özel ihtimam gösterilmesi,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">h) Kararların alınmasında ve uygulanmasında, çocuğun yaşına ve gelişimine uygun eğitimini ve öğrenimini, kişiliğini ve toplumsal sorumluluğunu geliştirmesinin desteklenmesi,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">j) Tedbir kararı verilirken kurumda bakım ve kurumda tutmanın son çare olarak görülmesi, kararların verilmesinde ve uygulanmasında toplumsal sorumluluğun paylaşılmasının sağlanması,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">…</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">İlkeleri gözetilir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">23. 5395 sayılı Kanun'un <i>"Koruyucu ve destekleyici tedbirler"</i> kenar başlıklı 5. maddesinin (1) numaralı fıkrasının ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"Koruyucu ve destekleyici tedbirler, çocuğun öncelikle kendi aile ortamında korunmasını sağlamaya yönelik danışmanlık, eğitim, bakım, sağlık ve barınma konularında alınacak tedbirlerdir. Bunlardan;</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">...</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">d) Sağlık tedbiri, çocuğun fiziksel ve ruhsal sağlığının korunması ve tedavisi için gerekli geçici veya sürekli tıbbî bakım ve rehabilitasyonuna, bağımlılık yapan maddeleri kullananların tedavilerinin yapılmasına,</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">...</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">Yönelik tedbirdir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">24. 5395 sayılı Kanun'un <i>"Çocuklara özgü güvenlik tedbiri"</i> kenar başlıklı 11. maddesi şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1)Bu Kanunda düzenlenen koruyucu ve destekleyici tedbirler, suça sürüklenen ve ceza sorumluluğu olmayan çocuklar bakımından, çocuklara özgü güvenlik tedbiri olarak anlaşılır."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">25. 5395 sayılı Kanun'un <i>"Mahkemelerin görevi"</i> kenar başlıklı 26. maddesinin (3) numaralı fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"Mahkemeler ve çocuk hâkimi, bu Kanunda ve diğer kanunlarda yer alan tedbirleri almakla görevlidir."</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">26. 24/12/2006 tarihli ve 26386 sayılı Resmî Gazete'de yayımlanan Çocuk Koruma Kanununa Göre Verilen Koruyucu ve Destekleyici Tedbir Kararlarının Uygulanması Hakkında Yönetmelik'in <i>"Koruyucu ve destekleyici tedbir kararı alınmasında yetki ve usûl"</i> kenar başlıklı 8. maddesinin ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">"(1) Çocuklar hakkında koruyucu ve destekleyici tedbir kararı; çocuğun anası, babası, vasisi, bakım ve gözetiminden sorumlu kimse, Aile ve Sosyal Politikalar Bakanlığı Çocuk Hizmetleri Genel Müdürlüğü ve Cumhuriyet savcısının istemi üzerine veya re'sen çocuğun menfaatleri bakımından kendisinin, ana, baba, vasisi veya birlikte yaşadığı kimselerin bulunduğu yerdeki çocuk hâkimince alınır.</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> (2) Çocuk mahkemesi bulunmayan yerlerde, bu mahkeme kurulup göreve başlayıncaya kadar hakkında kovuşturma başlatılmış olanlar hariç, korunma ihtiyacı olan çocuklar hakkında tedbir kararları, aile mahkemeleri kurulan yerler bakımından bu mahkemeler, kurulu bulunmayan yerler bakımından asliye hukuk mahkemelerince alınır..."</span></i><span style="color:#010000"> </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B.</span></b><span style="color:#010000"> <b>Uluslararası Hukuk</b></span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">27. Avrupa İnsan Hakları Mahkemesi (AİHM), önüne gelen birçok davada aile yaşamına saygının kamu makamlarına ebeveynler ve çocuklarını bir araya getirmek şeklinde pozitif bir görev yüklediğini ve bunun ayrılığa devletin değil bir ebeveynin yol açtığı durumlarda da geçerli olduğunu, bu alandaki pozitif yükümlülüğün bireyler arasındaki ilişkiler alanında dahi aile yaşamına saygıyı güvence altına almak için tasarlanmış, hem bireylerin haklarını koruyan düzenleyici yargısal bir çerçeve oluşturulmasını hem de fiilen hayata geçirilecek uygun tedbirlerin alınmasını gerektirdiğini ifade etmektedir (<i>Hokkanen/Finlandiya,</i> B. No: 19823/92, 23/9/1994, § 58; <i>Glaser/Birleşik Krallık,</i> B. No: 32346/96, 19/9/2000, § 63; <i>Bajrami/Arnavutluk,</i> B. No: 35853/04, 12/12/2006, § 52).</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">28. AİHM, çocuğun ve ebeveynin menfaatlerine ilişkin değerlendirmenin ulusal yargı makamlarınca yapılması gerektiğini kabul etmekle birlikte uyuşmazlığa ilişkin yargılama prosedürünün adil olması ve ilgililere bütün haklarını kullanabilme olanağı sağlaması gerektiğini ifade etmekte; bu bağlamda ulusal mahkemelerin özellikle olgusal, duygusal, psikolojik, maddi ve tıbbi nitelikteki bütün faktörler ile ailenin durumunu derinlemesine inceleyip incelemediğini, çocuğun yüksek menfaatlerini tespit etmek suretiyle ilgili kişilerin de yararlarına ilişkin makul bir değerlendirme ve dengelemede bulunulup bulunulmadığını belirlemek durumunda olduğunu belirtmektedir (<i>İlker Ensar Uyanık/Türkiye,</i> B. No: 60328/09, 3/5/2012, § 52; <i>Neulinger ve Shuruk/İsviçre </i>[BD], B. No: 41615/07, 6/7/2010, § 139). </span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">29. Öte yandan derece mahkemelerinin çocuklarla ilgili koruma tedbirlerinin değerlendirilmesinde aile hayatı kapsamındaki ilişkilerin sürdürülebilir ve etkili olmasını temin edecek şekilde hareket etmesi zaruridir. Bu kapsamda -özellikle müdahalenin ölçülülüğü noktasında- derece mahkemelerinin takdir yetkilerini makul ve sağduyulu bir şekilde kullanıp kullanmadıkları hususunu değerlendirme durumunda olan AİHM, bu bağlamda müdahaleyi haklı göstermek için öne sürülen gerekçelerin ilgili ve yeterli olup olmadığını incelemek durumundadır (<i>Bronda/İtalya,</i> B. No: 22430/93, 9/6/1998, § 59; <i>Hokkanen/Finlandiya,</i> § 55).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">V.</span></b><span style="color:#010000"> <b>İNCELEME VE GEREKÇE</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">30. Mahkemenin 8/6/2021 tarihinde yapmış olduğu toplantıda başvuru incelenip gereği düşünüldü:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A.</span></b><span style="color:#010000"> <b>Başvurucuların İddiaları </b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">31. Birinci başvurucu; oğlunun ortaokula başladığı yıl onu okuldan uzaklaştırmak amacıyla baskılar olduğunu, velilerden imza toplandığını, hastane raporu alınmaya zorlandıklarını, haklarında asılsız iddialarla şikâyetler yapıldığını ve ceza soruşturmaları açıldığını belirtmiştir. Ceza soruşturmaları açılması için asılsız iddialarla şikâyetler yapılmasının amacının okuldan uzaklaştıramadıkları oğlu hakkında tedbir kararı aldırmak olduğunu sonradan anladığını, soruşturma içeriği gerektirmemesine rağmen güvenlik tedbiri uygulanmasına karar verildiğini belirtmiştir. Başsavcılığın tedbir talebinden haricen haberdar olup itirazlarını ve delillerini sunmalarına rağmen Mahkemenin dikkate almadığını, çocuğun önceki tedavi sürecine ilişkin belgeler istenmeden karar verildiğini iddia etmiştir. Hükmedilen sağlık tedbirinin usulü bir işlemden ibaret, uygulanma imkânı olmayan bir tedbir olduğunu, doktorun çocuğu tanıması için bile en az altı ay geçmesi gerektiğini, kamu makamları tarafından asılsız belgelerle çocuk ile ailesinden kurtulmaya ve ailenin çocuğunu korumasının engellenmeye çalışıldığını ve çocuğuyla ilgili raporun gizliliğin kaldırılarak uygulandığını vurgulayan birinci başvurucu özel hayatın gizliliği ve eğitim hakkı ile aile hayatına saygı ve çocuk haklarının ihlal edildiğini ileri sürmüştür.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B.</span></b><span style="color:#010000"> <b>Değerlendirme</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">32. Anayasa’nın 20. maddesinin birinci fıkrasının ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> “Herkes, ... aile hayatına saygı gösterilmesini isteme hakkına sahiptir. ... aile hayatının gizliliğine dokunulamaz.”</span></i></p>
+
+<p class="edf1464250365882" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">33. Anayasa’nın 41. maddesi şöyledir:</span></p>
+
+<p class="edf1464250365882" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> “Aile, Türk toplumunun temelidir ve eşler arasında eşitliğe dayanır. </span></i></p>
+
+<p class="edf1464250365882" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">Devlet, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması ve aile planlamasının öğretimi ile uygulanmasını sağlamak için gerekli tedbirleri alır, teşkilatı kurar. </span></i></p>
+
+<p class="edf1464250365882" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">Her çocuk, korunma ve bakımdan yararlanma, yüksek yararına açıkça aykırı olmadıkça, ana ve babasıyla kişisel ve doğrudan ilişki kurma ve sürdürme hakkına sahiptir. </span></i></p>
+
+<p class="edf1464250365882" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000">Devlet, her türlü istismara ve şiddete karşı çocukları koruyucu tedbirleri alır.”</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">34. Anayasa Mahkemesi, olayların başvurucu tarafından yapılan hukuki nitelendirmesi ile bağlı olmayıp olay ve olguların hukuki tavsifini kendisi takdir eder (<i>Tahir Canan</i>, B. No: 2012/969, 18/9/2013, § 16). Başvurucunun iddialarının çocuk hakkında uygulanan tedbir kararı sürecinde çocuğun üstün yararına aykırı şekilde hareket edildiği temelinde ileri sürüldüğü anlaşılmakla başvurunun bir bütün hâlinde Anayasa'nın 20. maddesinde düzenlenen aile hayatına saygı hakkı kapsamında incelenmesi gerektiği değerlendirilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">1.</span></b><span style="color:#010000"> <b>Kabul Edilebilirlik Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">35. Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan özel hayata saygı hakkının ihlal edildiğine ilişkin iddianın kabul edilebilir olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">2.</span></b><span style="color:#010000"> <b>Esas Yönünden </b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">a.</span></b><span style="color:#010000"> <b>Genel İlkeler</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">36. Ebeveyn ve çocuk arasındaki aile yaşamının anne ve babanın birlikte yaşamamaları veya ortak yaşama son vermeleri ya da çocuğun kamu koruması altına alınması sonrasında da devam edeceği açıktır. Devletin pozitif tedbirler alma yükümlülüğü konusunda Anayasa’nın 20. ve 41. maddeleri anne, baba ve çocuk arasındaki bağın devamlılığını sağlamak üzere tedbirler alınmasını isteme hakkını ve kamusal makamların bu tür tedbirleri alma yükümlülüğünü içermektedir. 41. maddede her çocuğun yüksek yararına aykırı olmadıkça anne ve babasıyla kişisel ve doğrudan ilişki kurma ve ilişkiyi sürdürme hakkına sahip olduğu açıkça belirtilmektedir (<i>Serpil Toros,</i> B. No: 2013/6382, 9/3/2016, § 67; <i>Selim Adıyaman, </i>B. No: 2013/8846, 9/3/2016, § 45).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">37. Bununla birlikte ebeveyn ve çocuk arasındaki aile yaşamının tesisinde dikkate alınması gereken temel unsur çocuğun üstün menfaatidir. Bu bakımdan anne ve babanın çocukla ilişki kurma konusundaki hukuki menfaatleri ile çocuğun sağlığı ve gelişimi açısından üstün olan menfaati arasında adil denge kurulması gerekmektedir. Anne ve baba ile temasın çocuğun üstün menfaatini ağır şekilde tehdit ettiği durumlarda, kamu makamlarının çocuğu koruyacak şekilde tedbirler alma yükümlülüğü bulunmaktadır (<i>Serpil Toros, </i>§ 80).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">38. Ayrıca Anayasanın 41. maddesinde ifade edilen<i> çocuğun yüksek yararı</i> mahkemeler, idari makamlar ve yasama organı tarafından yapılan ve çocukları ilgilendiren bütün faaliyetlerde gözetilmesi gereken bir ilkedir. Bu bağlamda çocuklar üzerinde etki doğuracak bir işlem yapılacağı zaman bu işlemin çocuğun yararına uygun olup olmadığı yönünde bir değerlendirme yapılması, aile hayatına saygı hakkının öngördüğü pozitif yükümlülüklerin yerine getirilmesi açısından oldukça önemlidir (<i>Şükran İrge,</i> B. No: 2016/8660, 7/11/2019, § 33).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">39. Bu bağlamda ebeveynlerin hak ve yetkileri ile çocuğun yararının çatışması hâlinde devletin çocuğun ruhsal ve fiziksel gelişimini koruyacak şekilde tedbirler alması pozitif yükümlülüklerin de bir gereğidir. Ancak ebeveynlerle çocuk arasındaki aile bağlarının korunması esas olup çocuğun üstün yararına olanın belirlenmesinde çocuğun içinde bulunduğu şartları değerlendirerek hazırlanacak uzman görüşlerinden yararlanılmak suretiyle çatışan menfaatler arasında adil bir dengenin korunması gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">40. Bu bağlamda koruma kararları ile ilgili başvurular bağlamında Anayasa Mahkemesinin görevi de ilgili kamusal makamların yerini alarak çocuk için uygun koruma önlemlerinin ne olduğunu bizzat karara bağlamak değildir. Ancak söz konusu süreçte aile hayatına saygı hakkının gerektirdiği güvencelerin gerek ebeveyn gerek çocuk açısından gözetilip gözetilmediğinin denetlenmesi zaruridir (<i>Serpil Toros, </i>§ 88).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">41. Öte yandan mevzuatın yorumlanmasıyla ilgili sorunları çözmek öncelikle derece mahkemelerinin yetkisi ve sorumluluk alanındadır. Çocuğun üstün yararı başvuru konusu dava açısından en önemli unsur olup olayın tüm tarafları ile doğrudan temas hâlinde bulunan derece mahkemelerinin olayın koşullarını değerlendirmek açısından daha avantajlı konumda bulunduğu da tartışmasızdır. Anayasa Mahkemesinin rolü ise bu kuralların yorumunun Anayasa’ya uygun olup olmadığını belirlemekle sınırlıdır <i>M.M.E. ve T.E., </i>B. No: 2013/2910, 5/11/2015, § 135)</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">b.</span></b><span style="color:#010000"> <b>İlkelerin Olaya Uygulanması</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">42. 5237 sayılı Kanun'da yaş küçüklüğü ceza sorumluluğunu ortadan kaldıran ya da azaltan bir hâl olarak düzenlenmiştir. Ayrıca ceza sorumluluğu bulunmayan çocuklar hakkında çocuklara özgü güvenlik tedbirleri uygulanabileceği ve anılan tedbirlerle ilgili düzenlemenin kanun ile düzenleneceğinin belirlendiği görülmüştür. Bu kapsamda çıkarılan 5395 sayılı Kanun ile suça sürüklenen çocuklara uygulanabilecek güvenlik tedbirleri ile uygulama koşulları belirlenmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">43. Mevzuat birlikte değerlendirildiğinde; suça sürüklenen ve ceza sorumluluğu olmayan çocuklar yönünden uygulanabilir olan tedbirlerin amacının genel olarak çocuğun korunması, varsa zararlı eğilimlerinin önüne geçilmesi, aile ve çevreyle uyumu sağlanarak topluma kazandırılması ve yeniden suç işlemesinin önlenmesi olduğu anlaşılmaktadır. Bu bağlamda sağlık tedbiri ile de çocuğun fiziksel ve ruhsal sağlığının korunması, tedavisi için geçici veya sürekli tıbbi bakım ve rehabilitasyon hizmetlerinin sağlanması, bağımlılık yapan maddeleri kullananların tedavilerinin yapılması amaçlandığı söylenebilir. Ayrıca mevzuata göre suçun ağırlığının hangi güvenlik tedbirin uygulanacağı yönünde bir etkisinin olmadığı gözetildiğinde, çocuğun üstün yararı ilkesi bağlamında çocuğun durumuna en uygun ve çocuğun yararına olan tedbirin belirlenmesinin hedeflendiği anlaşılmaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">44. Bu noktadan hareketle suça sürüklenen ve ceza sorumluluğu olmayan çocuğa çocuklara özgü güvenlik tedbirinin uygulanıp uygulanmayacağı veya hangi tedbirin uygulanacağı konusunda karar verilirken uzmanların da yardımına başvurularak çocuğun içinde bulunduğu koşullar, çocuğun kişilik yapısı ve özellikleri gözetilmek suretiyle çocuğun yüksek yararına olanın tespit edilmesi gerektiği vurgulanmalıdır. Zira Anayasanın 41. maddesinde ifade edilen<i> çocuğun yüksek yararı</i> mahkemeler, idari makamlar ve yasama organı tarafından yapılan ve çocukları ilgilendiren bütün faaliyetlerde gözetilmesi gereken bir ilkedir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">45. Açıklamalar bağlamında somut olay değerlendirildiğinde kasten yaralama suçundan ceza soruşturması yürütülen ikinci başvurucu hakkında ilgili Başsavcılık tarafından ceza ehliyeti olmadığı için güvenlik tedbiri uygulanması talep edildiği görülmüştür. Mahkemenin suça sürüklenen çocuğun durumuyla ilgili inceleme yaptığı, bu kapsamda sosyal inceleme raporuyla çocuğun sağlık durumu ve içinde bulunduğu şartlar değerlendirilerek sağlık tedbirine hükmedilmesinin çocuğun yararına olduğunun tespit edildiği, Mahkemenin de anılan tespiti gözeterek sağlık tedbiri uygulamasının çocuğun üstün yararına olduğu kanaatine ulaştığı anlaşılmaktadır. Üç ayda bir Devlet Hastanesinde muayene edilmesi şeklinde uygulanan sağlık tedbirinden beklenen amacın hasıl olduğunun ve uygulanmasını gerektirecek bir durumun kalmadığının ilgili doktor raporuyla anlaşılması üzerine de tedbirin Mahkeme tarafından kaldırıldığı görülmüştür. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">46. Yargılama süreci ve uzman raporu birlikte değerlendirildiğinde; ikinci başvurucunun bakımı, sağlığı ve ihtiyaçları hususlarında ailesinin çocuğun özel durumuna uygun şekilde özenli davrandığı; ebeveynlerin onun ruhsal ve fizyolojik gelişimini destekleyici şekilde hareket etmeye çalıştıkları anlaşılmıştır. Bununla birlikte uzman raporunda ailenin çocuğun sağlık durumuyla ilgili desteklenmesi amacıyla da sağlık tedbirinin tavsiye edildiğini de gözeten Mahkemenin, ebeveynlerin çocuk üzerindeki hak ve yetkilerini kaldırmadan ve aileden ayırmadan ikinci başvurucu hakkında üç ayda bir Devlet Hastanesinde muayene edilmesine karar verdiği görülmüştür. Bu durumda Mahkemenin ebeveynlerin menfaatleri ile çocuğun menfaatleri arasında adil bir denge kurduğu söylenebilir. Ayrıca yargı makamlarının çocuğun üstün menfaatini gözeterek sağlık tedbiri öngördükleri, birinci başvurucunun ise sağlık tedbiri uygulanmasının neden çocuğun yararına olmadığı yönünde somut açıklamalar yapmadığı görülmüştür.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">47. Bu durumda Mahkemenin ikinci başvurucunun durumunu, özelliklerini, uzman görüşünü ve çocuğun üstün yararı ilkesini gözeterek bir sonuca ulaştığı, amacına ulaştığının anlaşılması sonrası güvenlik tedbirinin Mahkeme tarafından kaldırıldığı, birinci başvurucunun Mahkeme tarafından bizzat beyanının alındığı ve aile hayatına saygı hakkının gerektirdiği usul güvencelerinden yararlanarak yargılamaya etkin katılımının sağlandığı hususları birlikte değerlendirildiğinde yargılama sürecinde aile hayatına saygı hakkının öngördüğü pozitif yükümlülüklerin yerine getirildiği anlaşılmakla aile hayatına saygı hakkına yönelik açık bir ihlalin mevcut olmadığı sonucuna ulaşılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">48. Açıklanan gerekçelerle aile hayatına saygı hakkının öngördüğü pozitif yükümlülükler yerine getirildiği anlaşılmakla, Anayasa'nın 20. maddesinde güvence altına alınan aile hayatına saygı hakkının ihlal edilmediğine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">VI.</span></b><span style="color:#010000"> <b>HÜKÜM</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">Açıklanan gerekçelerle;</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">A. Başvurunun niteliği gereği kamuya açık belgelerde başvurucuların kimliğinin RESEN GİZLİ TUTULMASINA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">B. Aile hayatına saygı hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,</span></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">C. Anayasa’nın 20. maddesinde güvence altına alınan aile hayatına saygı hakkının İHLAL EDİLMEDİĞİNE,</span></p>
+
+<p class="edf1393440552765" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">D. Yargılama giderlerinin başvurucular üzerinde BIRAKILMASINA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">E. Kararın bir örneğinin Adalet Bakanlığına GÖNDERİLMESİNE 8/6/2021 tarihinde OYBİRLİĞİYLE karar verildi. </span></p>
+</div>
