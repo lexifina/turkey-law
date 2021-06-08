@@ -1,0 +1,2 @@
+Yazışma usulü
+MADDE 11 – (1) Denetim yapmakla görevlendirilen Kurum personeli, görevinin gerektirdiği durumlarda ilgili kişi, kurum ve kuruluşlar ile yapacağı yazışmaları ilgili hizmet birim amiri aracılığıyla veya yetkilendirilmesi durumunda doğrudan yapar. Kurum adına denetim yapmakla yetkilendirilen diğer kamu kurum ve kuruluşları ile özel denetim kuruluşları, denetimin gerektirdiği yazışmaları doğrudan yapar.

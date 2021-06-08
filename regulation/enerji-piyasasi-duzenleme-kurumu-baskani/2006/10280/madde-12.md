@@ -1,0 +1,2 @@
+Raporların sunulması
+MADDE 12 – (1) Denetim yapmakla görevlendirilen Kurum personeli tarafından düzenlenen rapor ile Kurum adına denetim yapmakla yetkilendirilen diğer kamu kurum ve kuruluşları ile özel denetim kuruluşları tarafından düzenlenen ve mevzuat ihlali tespitini içeren rapor, tutanak veya yazılar, ilgili hizmet birim amirine iletilir. İlgili hizmet birim amiri, kendi görüşünü de belirtmek suretiyle rapor, tutanak veya yazıları Başkanlığa sunar. Başkan, söz konusu rapor, tutanak ve yazıları Kurul gündemine öncelikle alır.

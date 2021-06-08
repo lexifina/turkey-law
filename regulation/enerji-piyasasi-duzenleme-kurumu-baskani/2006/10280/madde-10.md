@@ -1,0 +1,2 @@
+Denetim yapmakla görevli personelin kendisini tanıtma zorunluluğu
+MADDE 10 – (1) Denetim yapmakla görevlendirilen Kurum personeli ile Kurum adına denetim yapmakla yetkilendirilen diğer kamu kurum ve kuruluşları ile özel denetim kuruluşlarına ait personel, göreve başlamadan önce kimlik belgesi ve görevlendirme yazısıyla kendisini denetlenen gerçek kişi veya tüzel kişi yetkilisine tanıtmak zorundadır. Personelin görevlendirme yazısında denetimin amacı, kapsamı, süresi ve yetkinin çerçevesi yer alır.

@@ -1,0 +1,3 @@
+Adli ve idari makamlara başvuru
+MADDE 30 – (1) Kurul, resen ya da yapılmakta olan denetim, ön araştırma veya soruşturmanın herhangi bir safhasında elde edilen bulgular neticesinde, ilgili mevzuat hükümlerine açıkça bir aykırılık tespit etmesi halinde, dava açmak da dahil olmak üzere her türlü adli ve idari makama başvuru kararı alabilir. Bu tür kararlar ilgili mercilere bildirilir.
+(2) Ayrıca Kurum, piyasa faaliyetlerine ilişkin olarak açılmış veya açılacak kamu davalarına müdahil olabilir. Bu konularla ilgili olarak suç duyurusunda bulunabileceği gibi mevzuatın uygulanması açısından, adli ve mülki makamlardan yaptırım talebinde bulunabilir.
