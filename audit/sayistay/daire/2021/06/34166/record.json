@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "217",
+  "decision_date": "2021-06-08",
+  "source_id": 34166,
+  "chamber": "8",
+  "ilam_number": "106",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34166/",
+  "source_sha256": "d46c2dc28f9b0edf85c0411844d93c5a6336a06cbc006d0f9322b81da0605f63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
