@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-İD/152",
+  "source_id": "2021/DK-İD/152",
+  "date": "2021-06-08",
+  "title": "Yeni Abonelere Güvenli İnternet Hizmeti Aile Profili’nin Varsayılan Olarak Belirlenmesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/897f2d46-53f3-484d-853a-8cdd6a52ed4d.pdf",
+  "source_sha256": "31d1174cf2f4bcb1d3b169680282fc311dc18ea819f2b8d74d959c7f0550c8e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
