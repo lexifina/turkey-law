@@ -1,0 +1,20 @@
+{
+  "applicant": "B.Y. VE Y.O.Y.",
+  "application_date": "2017-07-07",
+  "application_number": "2017/32942",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-06-08",
+  "id": "b8282cbb-7325-d665-14ca-e6f8c9f66e5e",
+  "in_force": "2021-06-08",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI4MjgyY2JiLTczMjUtZDY2NS0xNGNhLWU2ZjhjOWY2NmU1ZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "b61aac12d45458403c84f5ed330b497552d9071955ad3f6a832ab34d3876cff2",
+  "version_label": "as-enacted"
+}
