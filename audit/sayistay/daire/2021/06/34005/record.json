@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "263",
+  "decision_date": "2021-06-08",
+  "source_id": 34005,
+  "chamber": "4",
+  "ilam_number": "290",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34005/",
+  "source_sha256": "87a5b28d63e62dba3d25880f600255693b954e925bc42478a0e26e475062ebe2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
