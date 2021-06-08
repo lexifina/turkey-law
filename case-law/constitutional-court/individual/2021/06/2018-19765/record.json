@@ -1,0 +1,20 @@
+{
+  "applicant": "Y.A.",
+  "application_date": "2018-07-09",
+  "application_number": "2018/19765",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-06-08",
+  "id": "4d77d18a-1339-421d-3df8-1edf93acbb2d",
+  "in_force": "2021-06-08",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjRkNzdkMThhLTEzMzktNDIxZC0zZGY4LTFlZGY5M2FjYmIyZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "838aa94bfd2a1b004f990c3c6d3c347ce7bbe3690f1c214fe7612e9a7f49b3a8",
+  "version_label": "as-enacted"
+}
