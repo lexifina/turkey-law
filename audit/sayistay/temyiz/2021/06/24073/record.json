@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49705",
+  "decision_date": "2021-06-09",
+  "source_id": 24073,
+  "chamber": "5",
+  "file_number": "43738",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24073/",
+  "source_sha256": "b922e24df395adc95271dc78eb3f548e80bb8e11766a03cf8c8384fe6a22c49c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
