@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49682",
+  "decision_date": "2021-06-09",
+  "source_id": 24024,
+  "chamber": "2",
+  "file_number": "47162",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24024/",
+  "source_sha256": "81ff159787dadbc759c47cc4e795e67ce39eccf7fb2051a24a8a0e6196150aa9",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
