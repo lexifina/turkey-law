@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-06-09",
+  "issue": "31506",
+  "edition": "mükerrer 1",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Zirai Mücadele Alet ve Makineleri Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210609M1-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210609M1.htm",
+  "index_sha256": "bd97c8c598cf10e1489be81037cc70b8bc25228d61edf40bc4d00e62ebd7bc3f",
+  "index_header": "9 Haziran 2021 ... 31506 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210609M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
