@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2013-08-12",
+      "12.08.2013",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "RG-23/10/2020-31283",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-06-09",
+      "RG-9/6/2021-31506",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2020-10-23",
+      "23/10/2020",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2021-06-09",
+      "9/6/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-9/6/2021-31506",
+  "first_law": null,
+  "gazette": "28733",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-09",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "İstanbul Üniversitesi",
+  "issuer_slug": "istanbul-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-universitesi/2013/18716",
+  "published": "2013-08-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=18716&MevzuatTertip=5",
+  "source_bytes": 26157,
+  "source_id": "8.5.18716",
+  "source_sha256": "fec96ae39023666ba1cb339a91fc50dee32bbcdbf66fee393abcac4498bc26e2",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL ÜNİVERSİTESİ TOPLUM HEKİMLİĞİ UYGULAMA  VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 202,
+  "word_count": 1031
+}
