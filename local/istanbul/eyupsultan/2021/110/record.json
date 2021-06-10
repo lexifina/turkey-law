@@ -1,0 +1,22 @@
+{
+  "number": "110",
+  "number_as_published": "2021/110",
+  "year": 2021,
+  "title": "Güzeltepe Mahallesi 576 Ada 7 Parsele İlişkin 1/5000 ve 1/1000 İmar Planı Değişikliği Teklifi",
+  "decision_date": "2021-06-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-haziran-ayi-meclis-kararlari/1953",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-110/1956",
+  "source_sha256": "b51ed3805b00dd429340d5c566ff0e5da33fab04ad24d047b8bf154cd6d8dd17",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.06.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "61380b91c9b9cb1c794b20b540ee7383fbcb7ce89386978886038501a2f4529f"
+}
