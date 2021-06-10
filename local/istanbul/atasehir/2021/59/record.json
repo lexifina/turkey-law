@@ -1,0 +1,22 @@
+{
+  "number": "59",
+  "number_as_published": "2021/059",
+  "year": 2021,
+  "title": "10.06.2021 tarihli ve 2021/059 sayılı karar",
+  "decision_date": "2021-06-10",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=38",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/10062021-tarihli-ve-2021059-sayili-karar",
+  "source_sha256": "ab7950959796ef710ab2ead4c685d3c1cb054a01bdeb925a57d9694ec599dfce",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.06.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/10062021-tarihli-ve-2021059-sayili-karar"
+}
