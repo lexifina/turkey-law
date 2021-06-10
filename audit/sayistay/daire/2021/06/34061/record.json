@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "812",
+  "decision_date": "2021-06-10",
+  "source_id": 34061,
+  "chamber": "6",
+  "ilam_number": "288",
+  "item_number": 1,
+  "account_year": 2017,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34061/",
+  "source_sha256": "8a8afbc1af7113929dd0db5c2c85928483c9bb4c011039de1a7d3d1aa8ce8e57",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
