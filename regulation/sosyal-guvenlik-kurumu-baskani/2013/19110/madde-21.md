@@ -1,0 +1,2 @@
+Meslekten çıkarılma
+MADDE 21 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve (Değişik ibare:RG-1/11/2014-29162) Kurumda durumlarına uygun memur unvanlı kadrolara atanırlar.
