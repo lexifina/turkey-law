@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "809",
+  "decision_date": "2021-06-10",
+  "source_id": 34077,
+  "chamber": "6",
+  "ilam_number": "289",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34077/",
+  "source_sha256": "2d4f2bbe02e9ea495fb1f1b86f4b48184f5adc6af1e2d6a9709ebde6b4b75a79",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
