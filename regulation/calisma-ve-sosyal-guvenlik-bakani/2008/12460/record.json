@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.12460",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FİİLİ HİZMET SÜRESİ ZAMMI UYGULAMASININ USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "12460",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2008/12460",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12460&MevzuatTertip=5",
+  "source_sha256": "26fa4eb2667920f5ebb9427fc2ed4f7394c243f2bfd8a1a75e71d77f79c54ed8",
+  "source_bytes": 96879,
+  "published": "2008-09-27",
+  "gazette": "27010",
+  "in_force": "2021-06-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/6/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-06-11",
+      "RG-11/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-11",
+      "11/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-07-27",
+      "RG-27/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-27",
+      "27/7/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-01-10",
+      "RG-10/1/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-01-10",
+      "10/1/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, 2008 yılı Ekim ayı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4124,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

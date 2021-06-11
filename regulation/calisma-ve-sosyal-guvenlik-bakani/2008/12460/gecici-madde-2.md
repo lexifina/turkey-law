@@ -1,0 +1,3 @@
+Maden işyerlerinin yeraltı veya yeraltı münavebeli işleri
+GEÇİCİ MADDE 2 – (1) Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendine tabi olan sigortalılardan maden işyerlerinin yeraltı veya yeraltı münavebeli işlerinde çalışmaları bulunanların, 2008 yılı Ekim ayı başından önce veya sonra bu işlerde geçen çalışmalarının en az 1800 gün olması halinde bu çalışmalarının dörtte biri toplam prim ödeme gün sayılarına ilave edilir.
+(2) 2008 yılı Ekim ayı başından sonra maden işyerlerinin yeraltı veya yeraltı münavebeli işlerinde çalışmaları bulunan sigortalıların, malullük, yaşlılık ve ölüm sigortaları primi, Yönetmeliğin 7 nci maddesinin birinci fıkrasının (a) bendinde 180 gün fiili hizmet süresi zammına tabi olanlar için belirlenen tutardır.
