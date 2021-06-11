@@ -1,0 +1,23 @@
+{
+  "number": "43",
+  "number_as_published": "43",
+  "year": 2021,
+  "title": "Pazar Yerinin Yenilenmesi",
+  "decision_date": "2021-06-11",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/28",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/43-emlak-ve-istimlak-md-pazar-yerinin-yenilenmesi-11062021.pdf",
+  "source_sha256": "916bc25370f4a855d0f6ef88b8b7eb25b9eddda68bc56cf528f4555ee98020e2",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Haziran 2021 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
