@@ -1,0 +1,2 @@
+Ekipman ve demirbaşlar
+MADDE 15 – (1) Araştırma projeleri ve ortak iş birlikleri kapsamında alınan ve alınacak tarım ve hayvancılıkla ilgili her türlü alet, ekipman ve demirbaş Merkez envanterine kaydedilerek kullanıma açılır. Merkeze gerçek ve tüzel kişiler tarafından tarım ve hayvancılık faaliyetlerinde kullanılmak üzere hibe edilen tüm cihaz ve malzemelerin ayniyat kayıtları yapıldıktan sonra öncelikle Merkez tarafından kullanılması esastır.
