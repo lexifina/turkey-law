@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 11 – (1) Danışma Kurulu; Rektör ya da ilgili Rektör yardımcısının başkanlığında Müdürün önerisi Rektörün onayı ile merkezin amacı ve faaliyet alanları ile ilgili kamu kuruluşları, sivil toplum kuruluşları ve sektör temsilcileri, girişimciler/işletmeler ve alanında yetkin kişilerden iki yıllığına görevlendirilen en çok 10 kişiden oluşur. Aynı usulle üyelerin üyeliklerine son verilebilir.
+(2) Danışma Kurulu; Müdürün başkanlığında ve yazılı daveti üzerine, yılda en az bir defa toplanır ve salt çoğunluk aranmadan Merkezin faaliyetleriyle ilgili konularda tavsiye niteliğinde görüş ve önerilerde bulunur.
