@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-06-11T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-06-11",
+  "official_number": "84974990-130[KDV-1/İ/09-2021/18]-184696",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30261",
+  "source_id": "ozelge:30261",
+  "source_row_sha256": "d8ef31b8d5149138708b73682cccb09051f7f07fa5092aa663c86994a74ea155",
+  "title": "Kargo taşıma hizmetinde KDV tevkifatı",
+  "version_label": "as-enacted",
+  "word_count": 560
+}
