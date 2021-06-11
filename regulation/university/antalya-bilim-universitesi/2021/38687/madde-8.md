@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Üniversitenin Turizm Fakültesinde tam zamanlı çalışan öğretim üyeleri arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi biten Müdür tekrar görevlendirilebilir.
+(2) Müdüre yardımcı olmak üzere, Müdürün önerisiyle, Rektör tarafından Yönetim Kurulu üyelerinden birisi Müdür Yardımcısı olarak görevlendirilir. Müdüre görevi başında olmadığı zamanlarda Müdür Yardımcısı vekâlet eder. Vekâlet süresi altı ayı geçemez. Vekâlet süresi altı aydan fazla sürerse yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde Müdür Yardımcısının da görevi sona erer.
