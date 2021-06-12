@@ -1,0 +1,2 @@
+Müdür
+MADDE 8 – (1) Müdür; Merkezin çalışma alanı olan müzik ile ilgili akademik birimlerde görev yapan öğretim üyeleri arasından, Rektör tarafından üç yıl süreyle görevlendirilir. Müdür Merkezin tüm faaliyetlerinden Rektöre karşı sorumludur. Müdür görevinde bulunamadığı durumlarda yardımcısını vekil bırakır. Vekâlet altı aydan fazla sürmez. Vekâletin altı aydan fazla sürmesi durumunda Müdürün görevi sona erer.

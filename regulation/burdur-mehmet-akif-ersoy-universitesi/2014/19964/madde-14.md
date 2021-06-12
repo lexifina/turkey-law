@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 14 – (1) Danışma Kurulu; (Değişik ibare:RG-12/6/2021-31509) Üniversitenin öğretim elemanları, farklı üniversitelerden öğretim elemanları, ilgili kuruluş temsilcileri ve Merkeze yararlı olabileceği düşünülen kişiler arasından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıllığına görevlendirilen beş üyeden oluşur. Danışma Kurulunda görevlendirilen üye sayısı içinde, Üniversitenin öğretim elemanı sayısı üçten az olamaz.

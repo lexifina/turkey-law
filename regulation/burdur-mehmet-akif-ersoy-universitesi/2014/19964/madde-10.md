@@ -1,0 +1,2 @@
+Müdür Yardımcısı
+MADDE 10 – (1) Müdüre yardımcı olmak üzere, Müdürün önerisi ile Rektör tarafından en fazla iki kişi Müdür Yardımcısı olarak görevlendirilir. Müdür Yardımcısının görevi Müdürün görev süresi bittiğinde ya da Müdürün talebi doğrultusunda Rektör oluru ile sona erer. Müdürün görevi başında bulunmadığı zamanlarda yerine Müdür Yardımcısı vekalet eder. Müdür Yardımcısı Yönetim Kurulu toplantılarına katılır ve oy verebilir.
