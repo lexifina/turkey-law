@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Çevre ve Şehircilik Bakanını,
+b) Bakanlık: Çevre ve Şehircilik Bakanlığını,
+c) Birleşik çevre denetimi: Tesis veya faaliyetlerin çalışmalarının 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan mevzuata uygunluğunun bir arada ele alındığı çevre denetimlerini,
+ç) Çevre bilgi sistemleri: Kanunda tanımlı yükümlülüklerin uygulanması, izlenmesi veya denetlenmesine yönelik Bakanlıkça oluşturulmuş yazılımları,
+d) Çevre birimi: Bakanlık ve İl Müdürlüklerinin, Kanun kapsamında iş ve işlemlerini yürüten teknik birimlerini,
+e) Çevre denetçisi: Çevre birimlerinde görev alan ve 9 uncu maddede belirtilen şartları taşıyan kişiyi,
+f) Çevre denetçisi adayı: Çevre birimlerinde görev alan ve çevre denetçisi olmak amacıyla denetim faaliyetlerine katılan kişiyi,
+g) Çevre denetim ekibi: Çevre denetimini gerçekleştirmek üzere 8 inci madde hükümleri uyarınca oluşturulan denetim ekibini,
+ğ) Çevre denetimi: Tesis veya faaliyetlerin 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan mevzuata uygunluğunu kontrol etmek için, tesis veya faaliyetlere ilişkin bilgilerin tarafsız bir şekilde toplanmasını, değerlendirilmesini, tespitlerin tutanak altına alınmasını, gerektiğinde rapor haline getirilmesini ve uygunsuzluk halinde idari yaptırım kararını verme ile yetkilendirilmiş makama bildirilmesini,
+h) Çevre gönüllüsü: Bakanlıkça, uygun niteliklere sahip kişiler arasından seçilen ve 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan düzenlemelere aykırı faaliyetleri Bakanlığa bildiren kişiyi,
+ı) Çevresel risk değerlendirmesi: Tesis veya faaliyetlerin çevre ve insan sağlığı üzerindeki potansiyel etkisi ile denetim sıklığını yansıtan ve risk değerlendirme yöntemi ile belirlenen sınıflandırmayı,
+i) Denetim planı: Denetim otoritesinin öncelikleri ile hedeflerini belirleyen ve denetim programlarını içeren stratejik dokümanı,
+j) Deniz kirliliği denetçisi: Gemilerden kaynaklanan deniz kirliliğinin kontrolünde görevlendirilecek olan ve nitelikleri Bakanlıkça belirlenen deniz kirliliği denetim personelini,
+k) Deniz kirliliği denetim ekibi: İki veya daha fazla deniz kirliliği denetçisinden oluşan ve Bakanlıkça yetki verilmiş kurum ve mercilerin yetkili makamı tarafından görevlendirilen denetim ekibini,
+l) E-denetim sistemi: Çevre denetim süreçlerinin yürütüldüğü yazılımları içeren sistemi,
+m) Gemi: Kullanma amacı ne olursa olsun, denizde ve iç sularda kürekten başka bir aygıtla yola çıkabilen tüm deniz araçlarını, hava yastıklı tekneleri, hidrofil botlar, platformlar ve denizaltılar gibi her türlü yapı ve tipteki tekneyi,
+n) İhlal: 2872 sayılı Çevre Kanununda ve ilgili mevzuatta belirtilen yasaklara, standartlara ve yükümlülüklere aykırılığı,
+o) İl Müdürlüğü: Çevre ve Şehircilik İl Müdürlüklerini,
+ö) Kanun: 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununu,
+p) Konu bazlı çevre denetimi: Tesis veya faaliyetlerin, 2872 sayılı Çevre Kanunu ve bu Kanuna dayanılarak yürürlüğe konulan mevzuattan en az birine uygunluğunun ele alındığı çevre denetimlerini,
+ifade eder.

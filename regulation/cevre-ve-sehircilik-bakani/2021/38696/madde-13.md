@@ -1,0 +1,3 @@
+Plansız denetimler
+MADDE 13 – (1) Kaza ya da olay gibi durumlarda veya gerek görüldüğü hallerde yapılan ani denetimler ile şikâyet ve ihbar denetimleri, denetim planına bağlı olmaksızın birleşik ya da konu bazlı çevre denetimi olarak yapılır.
+(2) Bakanlık veya İl Müdürlüklerine bildirilen şikâyetler, 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu ile 1/11/1984 tarihli ve 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanuna uygun olması şartıyla değerlendirmeye alınır ve şikâyet konusunun Çevre Kanunu kapsamında olması halinde denetim gerçekleştirilir. İhbar durumunda ise ihbar konusunun Çevre Kanunu kapsamında olması halinde denetim gerçekleştirilir.

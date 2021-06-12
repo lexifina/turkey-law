@@ -1,0 +1,4 @@
+Yetkili birimler
+MADDE 7 – (1) Bakanlığın tesis veya faaliyetleri denetlemekle yetkili birimleri; Çevresel Etki Değerlendirmesi, İzin ve Denetim Genel Müdürlüğü, Çevre Yönetimi Genel Müdürlüğü, Tabiat Varlıklarını Koruma Genel Müdürlüğü ile İl Müdürlükleridir.
+(2) 21/10/2006 tarihli ve 26326 sayılı Resmî Gazete’de yayımlanan Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanunun Uygulama Yönetmeliğinin 23 üncü maddesinin üçüncü fıkrası ile anılan Yönetmeliğin 54 üncü maddesinin birinci, ikinci ve üçüncü fıkralarında belirtilen hususlarda Çevresel Etki Değerlendirmesi, İzin ve Denetim Genel Müdürlüğü ile İl Müdürlükleri denetim yapmaya yetkilidir.
+(3) Çevre mevzuatının yetkili kıldığı kurum ve mercilerin denetim yetkileri saklıdır.

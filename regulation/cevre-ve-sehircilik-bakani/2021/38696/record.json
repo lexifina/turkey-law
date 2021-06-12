@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38696",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE DENETİMİ YÖNETMELİĞİ",
+  "number": "38696",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/38696",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38696&MevzuatTertip=5",
+  "source_sha256": "a0622661c4aaee528a419ff17a795e35d7065eab58f46e394f55f7d452d76eef",
+  "source_bytes": 91220,
+  "published": "2021-06-12",
+  "gazette": "31509",
+  "in_force": "2021-06-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5501,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38696-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

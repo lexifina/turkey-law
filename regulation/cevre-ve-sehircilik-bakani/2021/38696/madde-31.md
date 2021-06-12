@@ -1,0 +1,3 @@
+Gemilere verilecek idarî para cezalarının ödeme şekli ve süresi
+MADDE 31 – (1) Kanunda belirtilen ihlallere neden olan gemilere verilen idarî para cezası derhâl ve defaten ödenir. Cezanın derhâl ve defaten ödenmemesi hâlinde; kirleten gemi yetkilisi, sahibi, işleteni, kiracısı, sigortacısı, acentesi veya ilgili kuruluşundan teminat göstermesi istenir. Banka teminat mektubu veya geminin bağlı olduğu kulüp sigortacısı tarafından düzenlenecek teminat mektubu, teminat olarak kabul edilir.
+(2) Kirliliğin oluşmasını müteakip geminin neden olduğu kirliliği kendi imkânları ile giderdiği tespit edildiği takdirde, idarî para cezası üçte bir oranında uygulanır.

@@ -1,0 +1,4 @@
+Gemilere verilecek idarî para cezasının ödenmesinde teminat gösterilmemesi
+MADDE 32 – (1) Kanunda belirtilen ihlallere neden olan gemilere verilen idarî para cezalarının derhâl ve defaten ödenmemesi veya bu hususta yeterli teminat gösterilmemesi hâlinde gemi, idarî para cezası vermeye yetkili merciin talebi üzerine yetkili kurum tarafından seyrüseferden ve faaliyetten men edilir.
+(2) Kendi makineleri ile tahrik edilemeyen deniz vasıtaları hakkında gerekli zabıt tutularak durum en yakın sahildar il veya ilçe merkezindeki savcılığa intikal ettirilir.
+(3) Yabancı bir geminin seyrüsefer veya faaliyetten men edilmesi hâlinde ilgili liman başkanlıklarınca, gemilerin bayrak devletine veya ait olduğu devlete uygun vasıtalarla, alınan tedbirler ve verilen cezalar hakkında gecikmeksizin bilgi verilir.
