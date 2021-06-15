@@ -1,0 +1,27 @@
+{
+  "number": "meeting-06-15",
+  "number_as_published": "meeting-06-15",
+  "year": 2021,
+  "title": "15.06.2021 tarihli meclis kararları",
+  "decision_date": "2021-06-15",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=24",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2021/2021-06-15.doc",
+  "source_sha256": "1b239c7920f8fec068c0f9465884f894685cbc336a14482f8f717b1b2ec8b414",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-06-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.06.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "15.06.2021 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=24",
+  "item_title": "2021 Haziran",
+  "file_label": "2021-06-15",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
