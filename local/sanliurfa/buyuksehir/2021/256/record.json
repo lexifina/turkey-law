@@ -1,0 +1,24 @@
+{
+  "number": "256",
+  "number_as_published": "256",
+  "year": 2021,
+  "title": "Nazım ve Uygulama İmar Planı Değ.(Eyyübiye/Akçamescit, Küçükhan,Büyükhan)",
+  "decision_date": "2021-06-15",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11733/106/nazim-ve-uygulama-imar-plani-degeyyubiye-akcamescit-kucukhanbuyukhan",
+  "official_document": null,
+  "source_sha256": "50cddfbf66e9e3abd3d7802917659df04140f189060ade6af3383bcfbdcd808d",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-06-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.06.2021 tarih ve 256 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-06-30",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
