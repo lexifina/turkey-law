@@ -1,0 +1,3 @@
+Müdür yardımcısı ve görevleri
+MADDE 10 – (Değişik:RG-15/6/2021-31512)
+(1) Müdüre çalışmalarında yardımcı olmak üzere Üniversitenin kadrolu öğretim elemanları arasından en fazla üç öğretim elemanı, Müdürün önerisi üzerine Rektör tarafından üç yıl için müdür yardımcısı olarak görevlendirilir. Görev süresi dolan müdür yardımcısı tekrar görevlendirilebilir. Müdürün görevi sona erdiğinde müdür yardımcısının da görevi sona erer. Müdürün katılamadığı toplantılara görevlendireceği müdür yardımcısı başkanlık eder ve gerektiğinde 6 aya kadar vekâlet edebilir. Vekâlet 6 aydan fazla sürerse yeni Müdür görevlendirilir.
