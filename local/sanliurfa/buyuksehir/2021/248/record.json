@@ -1,0 +1,24 @@
+{
+  "number": "248",
+  "number_as_published": "248",
+  "year": 2021,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(AKÇAKALE-BOLATLAR)",
+  "decision_date": "2021-06-15",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11752/106/nazim-ve-uygulama-imar-planiakcakale-bolatlar",
+  "official_document": null,
+  "source_sha256": "2adf1229b854ab5516c7fd3fb7755833dc530f740471a9b37cd64558b2395603",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-06-15",
+  "in_force_basis": "Decision date as printed in the official council listing: 15.06.2021 tarih ve 248 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-07-01",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
