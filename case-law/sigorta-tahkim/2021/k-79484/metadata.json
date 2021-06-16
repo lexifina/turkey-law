@@ -1,0 +1,15 @@
+{
+  "number": "K-2021/79484",
+  "award_date": "2021-06-16",
+  "heading_as_published": "16/06/2021 Tarihli ve K-2021/79484 Sayılı Hakem Karar (Sağlık)",
+  "issue": "Hakem Karar Dergisi 46 Nisan - Haziran 2021",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs46.pdf",
+  "source_sha256": "049f5989bef6b40694ca078a6cf7b1494b5a48d4e05d2f7c16fab20bc3854867",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
