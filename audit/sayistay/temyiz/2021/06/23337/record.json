@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49718",
+  "decision_date": "2021-06-16",
+  "source_id": 23337,
+  "chamber": "1",
+  "file_number": "45534",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23337/",
+  "source_sha256": "2acd89982965ace0f9de592e3a86acfe19b92c27557b92678cffd1c62e286f72",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
