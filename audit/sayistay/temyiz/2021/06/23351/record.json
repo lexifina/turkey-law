@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49732",
+  "decision_date": "2021-06-16",
+  "source_id": 23351,
+  "chamber": "2",
+  "file_number": "46586",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23351/",
+  "source_sha256": "3100fef5ac6a1121066f1c5d3b979caa074980186aba5b2e9a3a20b00b89fcbb",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
