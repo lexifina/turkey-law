@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49741",
+  "decision_date": "2021-06-16",
+  "source_id": 23360,
+  "chamber": "2",
+  "file_number": "46640",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23360/",
+  "source_sha256": "a44c237b6050b32edee6a80dceabb4c5278b48d36251a31163df4ee1eb2cf476",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
