@@ -1,0 +1,26 @@
+Faaliyet alanları
+MADDE 6 – (Değişik:RG-17/6/2021-31514)
+(1) Merkezin faaliyet alanları şunlardır:
+a) Yerel, ulusal ve uluslararası düzeyde her türlü eğitim programı; mesleki eğitim programları, hizmet içi eğitim programları, bilgisayar-bilişim programları, dil eğitim programları, sağlık eğitim programları gibi programlar ile bu konularda kurslar, seminerler, çalıştaylar, konferanslar ve fuarlar düzenlemek.
+b) İlgili mevzuat hükümleri kapsamında kariyer planlama ve mesleki gelişim, nitelikli iş bulma imkânı sağlayan sertifika programları düzenlemek, kurumsal anlaşmalarla özel program ve paket eğitim programları sunmak, gelişen ve sürekli değişen iş dünyasının çalışanlarına yeni teknolojileri tanıtmak ve bu yönde bilgi ve becerilerin kazandırılmasını sağlamak, kampüs içinde ve dışında genel katılıma açık dersler ve ilgiye dayalı kurslar düzenlemek.
+c) İnternet yoluyla her yaşa ve ilgi grubuna yönelik eğitim programları sunmak.
+ç) İlgili mevzuat hükümleri kapsamında kamu ve özel kuruluşlara yönelik özel olarak hazırlanmış eğitim programları düzenlemek ve uzman konuşmacıların katılımıyla seminerler organize etmek.
+d) Ara eleman yetiştirmeye yönelik kurslar ve örgün eğitim hizmeti sunmak, ihtiyaç duyulan her konuda ve her yaş grubuna cevap verebilecek eğitici, eğlendirici, ruh ve beden sağlığını geliştirecek, ailevi, mesleki ve toplumsal değerler konularında bilinçlendirici ve katılımcı bir toplum yapısının oluşumuna katkı verecek programlar düzenlemek.
+e) Üniversitede ilgili birimlerin verecekleri kursları düzenlemek, ilgili birimlerin talebi üzerine her türlü bilimsel, eğitsel, sosyal ve kültürel çalışmalara yönelik organizasyonlar yapmak ve bu alanlarda ilgili birimler tarafından yapılacak organizasyonlara her türlü teknik, araç-gereç ve malzeme desteği sağlamak.
+f) Faaliyet alanlarıyla ilgili her türlü basım ve yayım işlerini yürütmek, kitap, dergi, broşür, katalog ve benzeri yayımlar yapmak, okuma alışkanlıklarını geliştirici etkinlikler düzenlemek.
+g) İlgili mevzuat hükümleri kapsamında yurt içi ve yurt dışındaki üniversite, eğitim, belgelendirme, basın-yayın, danışmanlık ve diğer kurum ve kuruluşlarla Merkezin amaçlarına uygun iş birliği yapmak, ortak veya onlar adına eğitim, proje, araştırma, danışmanlık, seminer, sempozyum, kongre, konferans, çalıştay ve benzeri her türlü faaliyeti gerçekleştirmek veya gerçekleştirilmesine aracılık etmek.
+ğ) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası her türlü sınav organizasyonu gerçekleştirmek veya gerçekleştirilmesine aracılık yapmak.
+h) Öğrenci ve mezunlar için kariyer imkânlarını araştırmak, mezunların istihdam alanına giren işletmelerin ve kuruluşların adres ve genel bilgilerinin bulunduğu envanterler oluşturmak ve bunları düzenli olarak güncellemek.
+ı) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası kuruluşlarla iş birliğinin gelişmesine katkıda bulunmak, projeler hazırlamak, bilimsel ve mesleki konularda yayınlar yapmak, öğrenci ve öğretim elemanı değişim programlarını yürütmek, yabancı ülkelerden gelen öğrencilerin/öğretim elemanlarının ihtiyaç duyacağı kursları ve programları düzenlemek.
+i) Uzaktan eğitim ile her türlü eğitim programı, bölgesel, ulusal ve uluslararası toplantı, seminer, çalıştay, konferans ve sempozyumlar düzenlemek, değişen ve gelişen koşullar altında uzaktan eğitim alanındaki diğer görevlerin yerine getirilmesiyle ilgili tüm çalışmaları yürütmek.
+j) Gerek görüldüğü durumlarda eğitim ve sertifika ve benzeri programları Bologna sürecine ve Avrupa Kredi Transfer Sistemi temelli kredi sistemine uygun olarak gerçekleştirmek, ilgili programın tamamlanmasına yönelik önceden kazanılmış yeterlilikleri tanımak.
+k) Eğitim imkânı bulamamış kişilere kendini geliştirme ve yenileme ortamı sağlamak.
+l) Gönüllülük esasına uygun çalışma alanlarında görev alabilecek bireyleri yetiştirerek bu alandaki çalışmaları teşvik etmek.
+m) Merkezin amaçları çerçevesinde engelli bireylerin hayatını kolaylaştıracak ve onları topluma kazandıracak etkinlikler düzenlemek.
+n) İlgili mevzuat hükümlerine göre, faaliyetlere katılıp başarılı olanlara faaliyet türüne göre düzenlenmiş başarı belgesi, katılım belgesi, sertifika ve benzeri belgeler vermek.
+o) Faaliyetleriyle ilgili konularda bilgilendirici yayımlar hazırlayarak öğrencileri, mezunları, ilgili kurum ve kuruluşları bilgilendirmek.
+ö) TS EN ISO/IEC 17024 eğitim-danışmanlık şartlarına, Türk Akreditasyon Kurumu tarafından öngörülen akreditasyon gerekliliklerine ve Mesleki Yeterlilik Kurumu tarafından belirlenen esaslarla uyumlu olarak ilgili mevzuat hükümleri kapsamında gerekli kurumların onayı ile ulusal ve uluslararası personel belgelendirme sertifikasyonu eğitimleri düzenlemek, sınavlar yapmak, belge, sertifika ve katılım belgesi vermek.
+p) İlgili mevzuat hükümleri kapsamında faaliyet alanları ile ilgili her türlü danışmanlık hizmeti vermek veya almak.
+r) Faaliyet alanları ile ilgili olarak ilgili taraflarla görüşmeler yapmak, projeler hazırlamak ya da hazırlatmak.
+s) Sürekli eğitim kapsamında Rektörlükçe önerilen ve/veya Yönetim Kurulunca kararlaştırılan diğer faaliyetleri gerçekleştirmek.
+ş) İlgili mevzuat hükümleri kapsamında Sivil Havacılık Genel Müdürlüğü onaylı eğitim programları düzenlemek.
