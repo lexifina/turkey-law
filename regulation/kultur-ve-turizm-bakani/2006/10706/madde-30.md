@@ -1,0 +1,8 @@
+Kontrolörlerin çalışma esasları
+MADDE 30 – (1) Kontrolörler, aşağıdaki esaslara göre çalışır:
+a) Kontrolörler, istihdam edildikleri genel müdürlüğün görev alanına giren konularda her türlü inceleme, araştırma ve denetim işlerini; 5225 sayılı Kanun, 2634 sayılı Kanun ve 1618 sayılı Kanun ile (Değişik ibare:RG-18/6/2021-31515) 31/5/2019 tarihli ve 1134 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Turizm Tesislerinin Niteliklerine İlişkin Yönetmelik, 24/4/2009 tarihli ve 27209 sayılı Resmî Gazete’de yayımlanan Kültür Yatırımlarının ve Girişimlerinin Belgelendirilmesine ve Niteliklerine İlişkin Yönetmelik, 4/9/1996 tarihli ve 22747 sayılı Resmî Gazete’de yayımlanan Seyahat Acentaları Birliği Yönetmeliği ve ilgili mevzuatta belirlenen esaslara göre yürütürler.
+b) Kontrolörler, bu fıkranın (a) bendinde belirtilen hususları; 5225 sayılı Kanun, 2634 sayılı Kanun ile 1618 sayılı Kanun ve ilgili yönetmeliklerin amaçlarına Bakanlığın genel ilke ve politikalarına göre gerçekleştirir, uygulamaların mevzuata, plan ve programlara uygun olarak yürütülmesini sağlamak amacıyla gerekli önerileri hazırlayıp (Mülga ibare:RG-18/6/2021-31515) genel müdürlüğe sunarlar.
+c) Görevlerini yaparken öğrenmiş oldukları her türlü mevzuata aykırı işlem ve faaliyetleri gereği yapılmak üzere derhal Başkana bildirirler.
+ç) Mevzuatın uygulanmasından doğan eksiklik ve yanlışlıkların giderilmesi ve düzeltilmesi yollarını araştırır, alınması gerekli önlemleri ve tekliflerini Başkana bildirirler.
+d) Refakatlerine verilecek stajyer kontrolörlerin meslekte yetişmelerini sağlarlar.
+e) (Mülga ibare:RG-18/6/2021-31515) genel müdürlükçe verilen diğer görevleri yaparlar.

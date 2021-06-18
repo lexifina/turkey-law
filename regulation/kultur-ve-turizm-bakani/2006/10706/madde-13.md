@@ -1,0 +1,5 @@
+Sınav komisyonu
+MADDE 13 – (1) (Değişik cümle:RG-17/10/2018-30568) Sınav Komisyonu; Bakan Yardımcılarından birinin başkanlığında, birim amirleri ve bunların yardımcıları, daire başkanları veya konusunda uzman kurum personeli arasından belirlenen, bir başkan ve altı üye olmak üzere toplam yedi kişiden oluşur. Bunlar arasından üç yedek üye belirlenir. İhtiyaç duyulması halinde üniversite öğretim üyeleri arasından en fazla iki kişi sınav komisyonu asil üyesi olarak görevlendirilebilir.
+(2) Sınav komisyonu asil ve yedek üyelerini belirlemeye Bakan yetkilidir.
+(3) (Ek:RG-18/6/2021-31515) Sınav komisyonu üye tam sayısı ile toplanır ve oylama yapılarak karar alınması gereken durumlarda kararlar üye tam sayısının salt çoğunluğu ile alınır. Oylamada çekimser oy kullanılamaz. Karşı oylar gerekçeleriyle belirtilir.
+(4) (Ek:RG-18/6/2021-31515) Sınav komisyonu ve üyeleri, boşanmış olsalar dahi eşlerinin, ikinci dereceye kadar (dâhil) kan ve kayın hısımlarının ve evlatlıklarının katıldığı sınavlarda görev alamazlar ve yerlerine yedek üyeler komisyonda görev yapar.

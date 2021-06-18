@@ -1,0 +1,2 @@
+Denetim ve şikayet defteri
+MADDE 42 – (1) Tüm belge sahipleri, bir denetleme defteri ve bir şikayet defteri bulundururlar. Bu defterler İl Kültür ve Turizm Müdürlükleri tarafından her sayfası numaralandırıldıktan sonra mühürlenerek tasdik olunur. Denetim elemanları, her denetimden sonra girişimin denetlendiği tarihi belirterek şikayet ve denetleme defterini inceler ve kimliklerini yazıp imzalarını atarlar. Şikayet defteri, şikayet ve temennilerini yazmak isteyecek kişilerce rahatça ulaşılabilecek bir yerde bulundurulur.

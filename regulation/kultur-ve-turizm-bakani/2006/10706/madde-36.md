@@ -1,0 +1,2 @@
+Görevin devamlılığı ve devri
+MADDE 36 – (1) Kontrolör, Başkanca verilen araştırma, inceleme, değerlendirme ve denetleme görevini görevlendirme onayında belirtilen yer, şekil ve süre zarfında bitirmekle yükümlüdür. Ancak; verilen işi geri bırakma ve devir zorunluluğu doğarsa, Başkanın uygun görmesi halinde işi geri bırakabilir veya devredebilir. Devir durumunda, yapılan çalışmalar görevi devralan kontrolöre yazılı olarak bildirilir. Görevi devralan kontrolör, Başkan tarafından belirtilen yer, şekil ve süre zarfında görevi sonuçlandırır.
