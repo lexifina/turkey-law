@@ -1,0 +1,5 @@
+Devir ve nakil işlemleri
+MADDE 11 – (1) Devir ve nakil için aşağıda belirtilen işlemler yapılır.
+a) Merkezin devrinde taraflar, noterden alacakları devir senedi ile İl/İlçe Müdürlüğüne başvurur. Merkezi devir alacak şahıslardan devir senedine ek olarak 7 nci maddenin birinci fıkrasının (a),(b),(ç) ve (e) bentlerinde yer alan belgelerin düzenlenmesi istenir. Binanın iç düzenlemesinde değişiklik yapılması durumunda (f) bendinde belirtilen hükümler uygulanır.
+b) Merkezin başka bir adrese naklinde ise kurucu, yeni binaya ait adresi içerir bir dilekçe ile İl/İlçe Müdürlüğüne başvurur. İl/İlçe Müdürlüğünce yerinde yapılacak inceleme sonucunda bir durum raporu düzenlenir. Binanın uygun bulunması halinde, kurucudan 7 nci maddenin birinci fıkrasının (c),(ç),(d),(e),(f) ve (g) bentlerinde belirtilen belgelerin düzenlenmesi istenir.
+c) Devir ve nakil için düzenlenen belgeler İl Müdürlüğünce Valilik onayına sunulur. Onaydan sonra açılış izin belgesi düzenlenir. Dosyalardan biri ve onayın bir örneği Genel Müdürlüğe gönderilir.

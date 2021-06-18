@@ -1,0 +1,8 @@
+Kurucu ve sorumlu müdürde aranacak koşullar
+MADDE 6 – (1) Kuruluş açacak ya da açılmış bir kuruluşu devir alacak kişilerde;
+a) Türkiye Cumhuriyeti Vatandaşı olmak,
+b) Medeni hakları kullanma ehliyetine sahip olmak,
+c) Taksirli suçlar ile kısa süreli hapis cezasına seçenek yaptırımlara çevrilmiş veya aşağıdaki sayılan suçlar dışında tecil edilmiş hükümler hariç olmak üzere, bir yıl veya daha fazla hapis cezası veyahut affa uğramış olsalar bile Devletin güvenliğine karşı işlenen suçlarla, basit veya nitelikli zimmet, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı veya şeref ve haysiyeti kırıcı suçtan veya kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma suçlarından dolayı hükümlü bulunmamak,
+koşulları aranır.
+(2) Kamu kurum ve kuruluşları ile özel hukuk tüzel kişileri açılış ya da devir işlemleri için bir temsilci gösterebilir. Temsilcide, gerçek kişiler için gerekli olan koşullar aranır.
+(3) (Değişik:RG-31/7/2009-27305) Ticaret şirketi şeklinde yapılanmış tüzel kişiler için, şirket ilanının yayımlandığı ve kuruluş açılışının faaliyetleri kapsamında olduğunu gösterir ticaret sicil gazetesi, vergi levhası (Mülga ibare:RG-18/6/2021-31515), tüzel kişilerin göstereceği temsilciden, sermaye şirketleri için, temsilcinin hissedarlar arasında olduğunu gösterir noterden onaylı belge ve karar örneği, vakıf, dernek, sendika veya oda şeklinde yapılanmış tüzel kişilerde tüzel kişilerin göstereceği temsilciden yönetim kurulu üyesi olduğunu gösterir idarece onaylı belge ve karar örneği, kuruluşun açılışının vakıf senedi/dernek tüzüğünde yer aldığını gösterir belge istenir.

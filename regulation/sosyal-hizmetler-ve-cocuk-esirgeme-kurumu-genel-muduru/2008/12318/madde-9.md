@@ -1,0 +1,4 @@
+Açılış izni için yapılacak işlemler
+MADDE 9 – (1) Düzenlenen belgelerin belirlenen esaslara uygun olması ve personelinin tamamlanmış olması halinde, merkezin hizmete açılması İl Müdürlüğünün teklifi ve Valiliğin onayı ile gerçekleşir. Tüm belgeleri İl Müdürlüğünce onaylanan dosyalardan biri il diğeri İlçe Müdürlüğünde kalır. Üçüncü dosya açılış izin belgesi düzenlenip, imzalandıktan sonra temsilci ya da merkez sorumlu müdürüne imza karşılığında verilir. Dördüncü dosya ve açılış izin onayının bir örneği Genel Müdürlüğe gönderilir.
+(2) Açılış izin belgesinin, merkezin görülebilecek bir yerine asılması gerekir.
+(3) Açılış izin belgesi verilen her merkezin işveren ve işyerinin ismi ve yaptığı işin çeşidi İl Müdürlüğünce bir ay içinde o yerin bağlı bulunduğu Bölge Çalışma Müdürlüğüne bildirilir.
