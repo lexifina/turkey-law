@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Türkiye Şişe ve Cam Fabrikaları A.Ş. tarafından gerçekleştirilen, Düzce Cam Sanayi ve Ticaret A.Ş., Erdem Dış Ticaret A.Ş. ve İnci Cam Ltd. Şti. tarafından desteklenen başvuruya istinaden Çin Halk Cumhuriyeti menşeli 7009.91 gümrük tarife pozisyonunda (GTP) yer alan “çerçevesiz cam aynalar” ürününe yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin olarak nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
