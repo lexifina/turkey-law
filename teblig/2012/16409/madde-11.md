@@ -1,0 +1,4 @@
+İzin sahibi firmanın yükümlülükleri
+MADDE 11- (1) Bu Tebliğ kapsamında taşıma yapacak araçlara takılacak teknik özellikleri itibarıyla Bakanlıkça aracın takip edilebilirliğini sağlayan araç takip sistemleri ve takip ünitelerinin temininden ve söz konusu araç takip sistemlerinin tüm altyapı, veri iletim giderleri ve oluşabilecek diğer giderlerin karşılanmasından izin sahibi firma sorumludur.
+(2) Macun tahlili yöntemi ile yapılacak tespitte kullanılacak macunun ve takograf kayıtlarının kontrolüne ilişkin teçhizatın izin sahibi firma tarafından temin edilerek ilgili gümrük idarelerine teslimi gerekir.
+(3) Taşımanın sözleşme sahibi firma tarafından yapılmaması durumunda, bu taşımadan doğabilecek gümrük vergileri ve diğer mali yüklerden taşıyıcı firma ile izin sahibi firma müteselsilen sorumludur.
