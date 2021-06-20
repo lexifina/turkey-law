@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-06-20",
+  "issue": "31517",
+  "edition": "regular",
+  "item": 8,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İhalelere Yönelik Başvurular Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210620-8.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210620.htm",
+  "index_sha256": "eea20f9037232c7dd41104691055199d2e022bf8e828b1c5ebfaa897e579295f",
+  "index_header": "20 Haziran 2021 ... 31517 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210620.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
