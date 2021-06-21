@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38730",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "7326 SAYILI KANUN KAPSAMINDA GÜMRÜK ALACAKLARININ YENİDEN YAPILANDIRILMASINA İLİŞKİN TEBLİĞ",
+  "number": "38730",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38730",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38730&MevzuatTertip=5",
+  "source_sha256": "b717a588da9b3bd3538ce10ac651320f0131fa31898150b363cf6ceb1665aa58",
+  "source_bytes": 74065,
+  "published": "2021-06-21",
+  "gazette": "31518",
+  "in_force": "2021-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4869,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38730-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
