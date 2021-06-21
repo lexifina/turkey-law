@@ -1,0 +1,6 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; Merkezin genel çalışma alanı olan Göller Yöresi disiplininde Üniversitenin Fen-Edebiyat Fakültesi Arkeoloji Bölümü öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten Merkez Müdürü, yeniden aynı usulle görevlendirilebilir.
+(2) Merkez Müdürü, çalışmalarında kendisine yardımcı olmak üzere, ilgili alanda araştırma yapan öğretim elemanlarından Merkez Müdür yardımcılarını görevlendirmek üzere Rektörün onayına sunar. Merkez Müdürüne çalışmalarında yardımcı olmak üzere ve Merkez Müdürünün önerisi üzerine Merkez Yönetim Kurulu üyeleri arasından iki kişi üç yıl için Rektör tarafından Merkez Müdür Yardımcısı olarak görevlendirilir. Merkez Müdürü görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Vekâlet altı aydan fazla sürerse yeni Merkez Müdürü görevlendirilir.
+(3) Merkez Müdürünün katılamadığı toplantılara, görevlendireceği Merkez Müdür yardımcısı katılır ve Merkez Müdürlüğüne altı aya kadar vekâlet edebilir.
+(4) Merkez Müdürü, gerekli gördüğü hâllerde yardımcılarının değiştirilmesini teklif edebilir.
+(5) Merkez Müdürünün görevi sona erdiği zaman, yardımcılarının da görevi sona erer. Görevinden ayrılan Merkez Müdür yardımcıları yerine kalan süreyi tamamlamak üzere yeni Merkez Müdür yardımcıları görevlendirilir.
