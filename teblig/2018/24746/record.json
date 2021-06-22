@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.24746",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜRCİSTAN MENŞELİ BAZI TARIM VE İŞLENMİŞ TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24746",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24746",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24746&MevzuatTertip=5",
+  "source_sha256": "20c0abe8b6285223f27aa2003e9d730629f8b51e096c6e459c7b3b6aabd869f3",
+  "source_bytes": 42442,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2021-06-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"22/6/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-06-22",
+      "22/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1960,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24746-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
