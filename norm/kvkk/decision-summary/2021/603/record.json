@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/603",
+  "source_id": 7131,
+  "date": "2021-06-22",
+  "title": "“İlgili kişinin internet alışveriş sayfası üzerinden ev adresine teslim talepli olarak vermiş olduğu siparişlerinin veri sorumlusu kargo şirketi tarafından, hiçbir suretle belirtmediği halde işyeri adresine gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 22/06/2021 tarihli ve 2021/603 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7131/2021-603",
+  "source_sha256": "72098edafdd57f1882436c354c84246ca708cb5c7d9a58b49aeb4aa5f1a91748",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
