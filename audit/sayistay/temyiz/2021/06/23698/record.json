@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49777",
+  "decision_date": "2021-06-23",
+  "source_id": 23698,
+  "chamber": "3",
+  "file_number": "45114",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23698/",
+  "source_sha256": "f02caf7a665833a56722aefdcde9518e38a83ba67cf14addaf528e4c95a5b1e7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
