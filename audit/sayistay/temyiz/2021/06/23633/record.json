@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49753",
+  "decision_date": "2021-06-23",
+  "source_id": 23633,
+  "chamber": "5",
+  "file_number": "46518",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/23633/",
+  "source_sha256": "6c0c51d2f88db08e1e6b6c607de88942c43f4ea4ed4698d1b3839cd4dc9867f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
