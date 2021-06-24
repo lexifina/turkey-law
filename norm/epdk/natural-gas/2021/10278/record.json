@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10278",
+  "decision_date": "2021-06-24",
+  "title": "Akmercan Muğla Doğal Gaz Dağıtım Sanayi ve Ticaret A.Ş.’nin (Şirket) perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2021-06-26",
+  "resmi_gazete_number": "31523",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nv/w8XOZuSs=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nv/w8XOZuSs="
+  ],
+  "source_sha256": "a5bbb88b6df850158e956ef5f0c1c24712b7ad449850edfcdaf8add6470ec272",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-06-24",
+  "law_text_complete": true
+}
