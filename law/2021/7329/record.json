@@ -1,0 +1,103 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7329",
+  "year": 2021,
+  "title": "Askerî Ceza Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2021-06-24",
+  "adopted_as_published": "24/06/2021",
+  "date_basis": "adopted",
+  "official_gazette_as_published": "30.06.2021 No: 31527",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507329.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 105",
+  "committee_reports": [
+    {
+      "label": "TBMM 268 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073094ss0268.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 896395,
+      "title": "Askerî Ceza Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": "24/06/2021",
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc105/kanuntbmmc105/kanuntbmmc10507329.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 268 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073094ss0268.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 73,
+          "sitting": 94,
+          "sitting_date": "2021-06-22",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073094.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073fih.pdf",
+          "pages": [
+            "279:291",
+            "297:301",
+            "302"
+          ]
+        },
+        {
+          "cilt": 73,
+          "sitting": 95,
+          "sitting_date": "2021-06-23",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073095.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073fih.pdf",
+          "pages": [
+            "406:410",
+            "412:424",
+            "425:427",
+            "428:431",
+            "432:456",
+            "456:461",
+            "462:464",
+            "466:479",
+            "482",
+            "483:489",
+            "490:491"
+          ]
+        },
+        {
+          "cilt": 73,
+          "sitting": 96,
+          "sitting_date": "2021-06-24",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073096.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c073/tbmm27073fih.pdf",
+          "pages": [
+            "566:568",
+            "569:576",
+            "587:593",
+            "598:600",
+            "601",
+            "602:606",
+            "608:617",
+            "617:621",
+            "621:628",
+            "628:635"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=101&v_kullanici_id=27483210",
+      "page_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e",
+  "issuer": "TBMM",
+  "in_force": "2021-06-24",
+  "in_force_basis": "Kabul tarihi (date of adoption by the TBMM) as printed in the official TBMM kanunlar index: 24/06/2021; record of adoption, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
