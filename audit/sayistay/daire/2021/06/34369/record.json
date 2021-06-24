@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10831",
+  "decision_date": "2021-06-24",
+  "source_id": 34369,
+  "chamber": "1",
+  "ilam_number": "116",
+  "item_number": 11,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34369/",
+  "source_sha256": "e134684b8157f3c37522648c3ccaf62fd7e4ca8e20525d04618183388683ba4e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
