@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10279",
+  "decision_date": "2021-06-24",
+  "title": "Palen Enerji Doğal Gaz Dağıtım End. ve Ticaret Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2021-06-26",
+  "resmi_gazete_number": "31523",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CKiRb9M3kY0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=CKiRb9M3kY0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kPThUiCTxu8="
+  ],
+  "source_sha256": "b5f9ef53bda6e71851ad7510e7ffcc5f37ddd35589f1be68b2470862ed9b59f3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-06-24",
+  "law_text_complete": true
+}
