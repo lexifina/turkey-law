@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35671",
+  "decision_date": "2021-06-24",
+  "source_id": 34473,
+  "chamber": "2",
+  "ilam_number": "123",
+  "item_number": 5,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34473/",
+  "source_sha256": "a1f69bd2b848137a6b97b26dd11cfe136021f16661fe7ca164ed4b41f5d469f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
