@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10831",
+  "decision_date": "2021-06-24",
+  "source_id": 34364,
+  "chamber": "1",
+  "ilam_number": "116",
+  "item_number": 6,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34364/",
+  "source_sha256": "380862eefdc2713191273633ae52dc3f58282efd4cccbcb8774eb1f15dc258c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
