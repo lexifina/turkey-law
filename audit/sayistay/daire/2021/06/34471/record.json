@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35671",
+  "decision_date": "2021-06-24",
+  "source_id": 34471,
+  "chamber": "2",
+  "ilam_number": "123",
+  "item_number": 3,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34471/",
+  "source_sha256": "2ad6da85d3085e740c4b4806cd8cfe77c796a4e642734897f7362397404466df",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
