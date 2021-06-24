@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35671",
+  "decision_date": "2021-06-24",
+  "source_id": 34476,
+  "chamber": "2",
+  "ilam_number": "123",
+  "item_number": 8,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34476/",
+  "source_sha256": "2d4b32af2dcad54bda11c98c89bd14bf21c1e7d9bf20374f98f2200c9e15ee40",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
