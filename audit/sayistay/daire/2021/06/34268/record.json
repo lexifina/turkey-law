@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35672",
+  "decision_date": "2021-06-24",
+  "source_id": 34268,
+  "chamber": "2",
+  "ilam_number": "115",
+  "item_number": 4,
+  "public_body_type": "Diğer",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34268/",
+  "source_sha256": "33d2f1ce9f34e276c84770431a3eba9a7180467cddd0233dddd3942f94a7c827",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
