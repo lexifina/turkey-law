@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38737",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 35)",
+  "number": "38737",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38737",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38737&MevzuatTertip=5",
+  "source_sha256": "0a827a9714029c998ef0e6d2c1d2bc4b38ba7c0fc7c9dbf4db5a980d7e7fd00f",
+  "source_bytes": 85990,
+  "published": "2021-06-24",
+  "gazette": "31521",
+  "in_force": "2021-06-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.06.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 627,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38737-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
