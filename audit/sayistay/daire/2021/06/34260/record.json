@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35673",
+  "decision_date": "2021-06-24",
+  "source_id": 34260,
+  "chamber": "2",
+  "ilam_number": "107",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34260/",
+  "source_sha256": "f5ec33d30abf90e3e29bb5e8c7f748bde15d1fa34f31b34da8565088a90c9aaa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
