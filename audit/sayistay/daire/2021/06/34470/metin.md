@@ -1,0 +1,23 @@
+… Sulama Birliği bütçesinden kanuni sınırın üzerinde personel gideri gerçekleştirilmesi tespitine ilişkin olarak;
+
+6172 sayılı Sulama Birlikleri Kanunu’nun “Personel İstihdamı” başlıklı 14 üncü maddesinde;
+
+“Birliğin amacına uygun idari, teknik ve yardımcı teknik personel 22/5/2003 tarihli ve 4857 sayılı İş Kanunu hükümlerine göre çalıştırılır. Çalıştırılan personelin işvereni birliktir.
+
+Birliklerde istihdam edilecek teknik personel; sulama işletmeciliğinin gerektirdiği amaca yönelik eğitimin verildiği fakülte veya yüksekokul mezunları arasından çerçeve ana statüde belirlenen esaslar dahilinde seçilir.
+
+Birliğin toplam personel giderleri, gerçekleşen en son yıl bütçe gelirlerinin her takvim yılı başından geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranı ile çarpımı sonucu bulunan miktarın % 30'unu aşamaz. Bu oran ihtiyaç olması halinde birliğin talebi üzerine Bakan onayı ile % 40’a kadar artırılabilir. Yıl içerisinde aylık ve ücretlerde beklenmedik bir artışın meydana gelmesi sonucu personel giderlerinin söz konusu oranları aşması durumunda; cari yıl ve izleyen yıllarda personel giderleri bu oranların altına ininceye kadar yeni personel alımı yapılamaz. Yeni personel alımı sebebiyle bu oranın aşılması halinde oluşan kamu zararı, zararın oluştuğu tarihten itibaren hesaplanarak kanuni faiziyle birlikte başkandan tahsil edilir.”
+
+denilmektedir.
+
+7139 sayılı Devlet Su İşleri Genel Müdürlüğünün Teşkilat Ve Görevleri Hakkında Kanun İle Bazı Kanunlarda Ve Gıda, Tarım Ve Hayvancılık Bakanlığının Teşkilat Ve Görevleri Hakkında Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun’un 51 inci maddesinde;
+
+“(7) Birliğe Bakan tarafından görevlendirilen kamu personeli Başkan, görevlendirme süresince kurumundan aylıklı izinli sayılır ve kadrosuna bağlı olarak ödenen her türlü aylık, mali ve sosyal haklarının kurumu tarafından ödenmesine devam olunur. Bu şekilde görevlendirilenlere, damga vergisi hariç herhangi bir vergi ve kesintiye tabi tutulmaksızın, sulama birliği hizmet alanı 1.000 hektara kadar olanlar için (10.000) gösterge rakamının, 1.000 hektar dâhil 10.000 hektara kadar olanlar için (15.000) gösterge rakamının ve 10.000 hektar ve fazla olanlar için (20.000) gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarda her ay huzur hakkı ödenir. Başkana ödenecek huzur hakkı prime esas kazanca dâhil edilmez.
+
+(8) ….. Fesih işlemleri sonucu tüzel kişiliği sona eren birliklerin personeli, taşınır ve taşınmaz malvarlığı, hakları, borç ve alacakları bünyesinde birleştirme işlemi gerçekleştirilen birliğe geçer.” denilmektedir.
+
+6172 sayılı Sulama Birlikleri Kanununun yukarıda yer verilen 14 üncü maddesine göre; Birliğin toplam personel giderleri, gerçekleşen en son yıl bütçe gelirlerinin her takvim yılı başından geçerli olmak üzere o yıl için Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranı ile çarpımı sonucu bulunan miktarın % 30'unu aşamayacak olup yıl içerisinde aylık ve ücretlerde beklenmedik bir artışın meydana gelmesi sonucu personel giderlerinin söz konusu oranları aşması durumunda cari yıl ve izleyen yıllarda personel giderleri bu oranların altına ininceye kadar yeni personel alımı yapılamayacaktır. Yeni personel alımı sebebiyle bu oranın aşılması halinde oluşan kamu zararı, zararın oluştuğu tarihten itibaren hesaplanarak kanuni faiziyle birlikte başkandan tahsil edilmelidir.
+
+Yargılamaya esas raporda … Sulama Birliği bütçesinden kanuni sınırın üzerinde personel gideri gerçekleştirildiği tespitine yer verilmiş olmakla birlikte 2018 yılı tahsilatlarının düşük olması ve sulama alanlarının 2019 yılına oranla az olması ile birlikte, 2019 yılında sulama alanları ve yapılması gereken hizmetlerin artması nedeniyle hizmet alımı yapılmasına ihtiyaç duyulduğu bu nedenle de, Birlik tarafından hizmet alımı ihalesi ile personel istihdam edildiği anlaşılmıştır. Analitik bütçe sınıflandırmasında hizmet alımlarının “mal ve hizmet alım giderleri” altında sınıflandırıldığı, “personel giderleri” altında sınıflandırılmadığı görülmektedir. Dolayısı ile, hizmet alımı yoluyla yapılan ödemeler personel gideri olarak dikkate alınamayacağından, kanuni sınırın üzerinde personel gideri gerçekleştirilmesi tespitine ilişkin olarak hesap ve işlemlerin yasal düzenlemelere uygunluğuna; yargılamaya esas rapora konu … TL tutarı ile ilgili olarak ilişilecek bir husus bulunmadığına;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliği ile;
