@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35674",
+  "decision_date": "2021-06-24",
+  "source_id": 35520,
+  "chamber": "2",
+  "ilam_number": "406",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35520/",
+  "source_sha256": "50d4f7fe0e20ae7fda858165ddb3971f80187db478903c6010165259ca10ea54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
