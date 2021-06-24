@@ -1,0 +1,5 @@
+… Sulama Birliği tarafından büro personelinin yemek bedelinin ödendiği görülmüşse de, yapılan savunmalarda İdare tarafından hazırlanan mesaha listelerinin ilgili mahallelerde 1 ay süreyle askıya çıkarılarak ilan edildiği; tahakkuklar kesinleştikten sonra bundan haberdar olmayan tapu sahipleri ile sorunlar yaşandığı ve bu sorunların aşılması adına borçlulara ihbar yapılmasının gerekli görüldüğü, mesai sonrasında bu işlemin yapıldığı; bu amaçla gece mesaisine kalan büro personeline akşam yemeği verme imkânının bulunmaması nedeniyle fazla çalışma günlerinde paket servis ile yemek alındığı anlaşılmaktadır.
+
+Birliğin menfaati göz önünde bulundurularak birlik adına büro personeline gece mesaisi yaptırıldığı ve bu kapsamda yemek hizmeti alamayan personelin yemek giderlerinin İdare tarafından karşılandığı anlaşılmış olup … Sulama Birliği tarafından gece mesaisine kalan personelin …TL tutarındaki yemek bedelinin ödenmesi işleminin yasal düzenlemelere uygunluğuna;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliği ile;
