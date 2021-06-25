@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38740",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ORMAN ÜRÜNLERİNİN SATIŞ USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38740",
+  "issuer": "Orman Genel Müdürü",
+  "issuer_slug": "orman-genel-muduru",
+  "path": "regulation/orman-genel-muduru/2021/38740",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38740&MevzuatTertip=5",
+  "source_sha256": "1249da5d45404f89280cb230533441a08781198a8dc07693a0f0bd5606b86e47",
+  "source_bytes": 54865,
+  "published": "2021-06-25",
+  "gazette": "31522",
+  "in_force": "2021-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2483,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
