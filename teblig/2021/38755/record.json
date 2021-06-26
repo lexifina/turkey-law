@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31523",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31523",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-26",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-400.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=400&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-06-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38755&MevzuatTertip=5",
+  "source_bytes": 29279,
+  "source_id": "9.5.38755",
+  "source_sha256": "bf29cdf38b99b160d918a89434fe3af42a8283103c6e219825ea5a386380d987",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/5)",
+  "word_count": 700
+}
