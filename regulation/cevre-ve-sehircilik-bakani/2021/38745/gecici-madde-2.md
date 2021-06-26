@@ -1,0 +1,2 @@
+Mevcut ambalaj atıkları yönetim planlarının sürekliliği
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce mahalli idarelerce hazırlanıp uygun bulunan ambalaj atıkları yönetim planları, bu Yönetmelik hükümleri ve Sıfır Atık Yönetmeliği ile getirilen düzenlemeler uyarınca yürütülür. Mevcut ambalaj atıkları yönetim planları mahalli idarelerin Sıfır Atık Yönetmeliğinde öngörülen geçiş takvimi uyarınca sıfır atık yönetim sistemine geçişleri ile birlikte son bulur.

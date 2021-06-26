@@ -1,0 +1,2 @@
+Diğer depozito uygulamaları
+MADDE 18 – (1) Yeniden/tekrar kullanılabilir ambalajlara yönelik depozito uygulamaları da depozito yönetim sistemi dâhilinde değerlendirilir ve bu sistem hükümlerine tabi tutulur. Depozito yönetim sistemine katılım zorunluluğu bulunmayan tek kullanımlık ambalajlı ürünleri piyasaya süren işletmeler, Ajans tarafından uygun görülmesi durumunda Ajans tarafından belirlenecek özel şartlar doğrultusunda bu ambalajlı ürünleri için depozito yönetim sistemine dâhil olabilirler.

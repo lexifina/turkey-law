@@ -1,0 +1,5 @@
+Bildirimler, beyanlar ve planlar ile bu kapsamda sunulan bilgi ve belgelerin değerlendirilmesi
+MADDE 25 – (1) Bakanlık ve/veya il müdürlüğü ile Ajans; mahalli idareler/yetkili idareler, piyasaya sürenler, ambalaj üreticileri, tedarikçiler, çevre lisanslı atık işleme tesisleri dâhil ilgili taraflarca yapılan bildirim ve sunulan belgelerin içerikleri ve iletilme yöntem ve dönemlerini belirler, bunları inceler ve çalışmaları denetler.
+(2) Ambalaj üreticileri, piyasaya sürenler ve tedarikçileri tarafından bir önceki sene piyasaya arzı gerçekleştirilen asgari ambalajların türleri, kullanım ve tasarım özellikleri ve miktarlarına ilişkin veriler her yıl Mart ayının sonuna kadar Ambalaj Bilgi Sistemi üzerinden Bakanlığa bildirilir.
+(3) Depozito yönetim sistemi kapsamında yürütülen faaliyetlere yönelik bildirim ve beyanlar Ajans tarafından belirlenen esaslar doğrultusunda ve Ajansa ait bilgi sistemleri üzerinden yapılır.
+(4) Bakanlık ve/veya Ajans tarafından gerekli görülmesi halinde; ilgili taraflar, bildirim ve belgelerini yeminli mali müşavire ve/veya bağımsız denetim kuruluşlarına inceletir ve inceleme raporunu Bakanlığa ve/veya Ajansa sunar.

@@ -1,0 +1,8 @@
+ALTINCI BÖLÜM
+Ambalaj Atıklarının Yönetimi ve Geri Dönüşüm/Geri Kazanım Hedefleri
+Ambalaj atıklarının biriktirilmesi, toplanması ve taşınması
+MADDE 19 – (1) Ambalaj atığı üreticileri, ambalaj atıklarının biriktirilmesine, geçici depolanmasına, toplayıcılara teslim edilmesine, taşınmasına ve geri kazanımının sağlanmasına yönelik olarak Atık Yönetimi Yönetmeliği ve Sıfır Atık Yönetmeliği hükümlerine uymakla yükümlüdürler.
+(2) Ambalaj atıkları, Sıfır Atık Yönetmeliği hükümleri esas alınarak sıfır atık yönetim sistemi uygulamalarına ve İl Sıfır Atık Yönetim Sistemi Planlarına uygun olarak toplanır.
+(3) Yetkili idareler, ambalaj atıklarının belirli bir sistem dâhilinde toplanarak geri kazanımlarının sağlanması, bu atıkların düzenli depolama tesislerine gönderilmemesi ve bu tesislerce de kabul edilmemesi için gerekli önlemleri almakla yükümlüdür.
+(4) Tehlikeli ve radyoaktif madde ambalajları haricindeki ambalajlar için uygulanan depozito yönetim sistemi kapsamında boş ambalajların biriktirilmesi, geçici depolanması ve taşınması faaliyetlerinde atık yönetimi mevzuatında belirlenen izin ve lisans şartları aranmaz. Anılan faaliyetler için Ajans tarafından belirlenecek idari, mali ve teknik düzenlemelere uyulur. Depozito yönetim sistemi kapsamında toplanan yeniden/tekrar kullanılabilir ambalajların yeniden kullanıma alınması faaliyeti geçici faaliyet belgesi/çevre lisansından muaftır.
+(5) Tehlikeli madde ambalajları için uygulanan depozito yönetim sistemi kapsamında boş ambalajların biriktirilmesi, geçici depolanması, toplanması ve taşınması faaliyetleri için ilgili diğer mevzuat hükümleri ile Bakanlıkça ve Ajans tarafından ayrıca belirlenecek idari, mali ve teknik düzenlemelere uyulur.

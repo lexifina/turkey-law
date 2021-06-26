@@ -1,0 +1,3 @@
+Ağır metal konsantrasyonları
+MADDE 13 – (1) Ambalaj üreticileri, ambalajda veya ambalaj bileşenlerinde bulunan kurşun, kadmiyum, cıva, artı altı değerlikli krom konsantrasyonlarının toplamının 100 ppm’i aşmamasını sağlamak zorundadır. Ancak tamamen kurşunlu kristal camdan yapılan ambalajlar için bu zorunluluk geçerli değildir.
+(2) Cam ambalaj üretiminde geri dönüştürülmüş malzeme kullanılması durumunda, her bir cam fırını için ayrı ayrı bakılmak kaydı ile temsili örneklerde ardışık on iki ay süre içinde yapılan toplam ağır metal analizlerinin aylık ortalamalarının 200 ppm sınırını aşmaması şartıyla birinci fıkrada belirtilen konsantrasyon limitleri aşılabilir.

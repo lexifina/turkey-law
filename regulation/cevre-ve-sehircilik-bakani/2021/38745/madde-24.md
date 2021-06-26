@@ -1,0 +1,4 @@
+Ambalaj Komisyonu
+MADDE 24 – (1) Bakanlıkça oluşturulan Ambalaj Komisyonu, biri başkan olmak üzere Bakanlık personeli ile Ajans personeli, Bakanlığın uygun göreceği ekonomik işletmeler, mahalli idareler ve diğer yetkili idareler, kamu kurum ve kuruluşları, meslek odaları, çevre lisanslı atık işleme tesisleri, satış noktaları ve ilgili diğer sektörlerin yetkili temsilcilerinden oluşur.
+(2) Ambalaj Komisyonu, yılda en az bir kere Bakanlığın belirleyeceği gündemle Bakanlık temsilcisinin başkanlığında toplanır. Komisyonun sekretarya hizmetleri, Bakanlık tarafından yürütülür. Toplantı yer ve zamanı ile gündemine ilişkin hususlar, toplantı tarihinden en az 15 gün önce Bakanlık tarafından üyelere bildirilir.
+(3) Ambalaj Komisyonu, bu Yönetmelik doğrultusunda yürütülen çalışmaları ve uygulamaları değerlendirerek tavsiye kararları alır.

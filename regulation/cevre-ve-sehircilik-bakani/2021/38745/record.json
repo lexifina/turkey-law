@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38745",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AMBALAJ ATIKLARININ KONTROLÜ YÖNETMELİĞİ",
+  "number": "38745",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/38745",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38745&MevzuatTertip=5",
+  "source_sha256": "2e0dc4b33029b53c901cc9317a5142556f791c295e19c5c7751f257f9dddac34",
+  "source_bytes": 118067,
+  "published": "2021-06-26",
+  "gazette": "31523",
+  "in_force": "2021-06-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6030,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38745-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

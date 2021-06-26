@@ -1,0 +1,3 @@
+Geri dönüşüm ve geri kazanım hedeflerinin yerine getirilmesi
+MADDE 22 – (1) Bakanlık, genişletilmiş üretici sorumluluğu planlaması ile ulusal atık yönetimi ve eylem planı uygulamaları kapsamında gerekli koordinasyonu sağlayarak 21 inci maddede belirtilen hedeflere ulaşılması için strateji ve politikaları belirler, izleme, hesaplama ve raporlama süreçlerini oluşturur ve uygular.
+(2) Toplam geri dönüşüm ve geri kazanım hedeflerine yönelik hesaplamalarda yurt içinde piyasaya sürülen ambalaj miktarları, yurt içinde toplanan ve işlenen ambalaj atığı miktarları, yeniden kullanıma alma ve hazırlama dâhil olmak üzere depozito yönetim sistemi kapsamında toplanan ve işlenen ambalaj miktarları esas alınır.

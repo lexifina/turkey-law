@@ -1,0 +1,2 @@
+Depozito yönetim sistemi ve mevcut depozito uygulamaları
+GEÇİCİ MADDE 5 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce Bakanlıkça belirlenen usul ve esaslar uyarınca hazırlanıp onaylanan depozito uygulama planları kapsamında yürütülen yeninden/tekrar kullanılabilir ambalajlara yönelik depozito yönetim sistemi uygulamaları Ajans tarafından belirlenen usul ve esasların yürürlüğe girmesine kadar bu Yönetmeliğe uyumlu olarak sürdürülür.

@@ -1,0 +1,2 @@
+Mevcut geri dönüşüm, geri kazanım yükümlülükleri
+GEÇİCİ MADDE 1 – (1) Piyasaya süren işletmelerin ve mevcut yetkilendirilmiş kuruluşların 28 inci madde ile yürürlükten kaldırılan Ambalaj Atıklarının Kontrolü Yönetmeliği kapsamında oluşmuş olan geri dönüşüm ve geri kazanım hedeflerinin yerine getirilmesine ilişkin yükümlülükleri anılan Yönetmelik hükümleri gözetilerek Bakanlıkça belirlenen usul ve esaslar doğrultusunda yerine getirilir.
