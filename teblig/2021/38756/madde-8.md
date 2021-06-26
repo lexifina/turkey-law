@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda, NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli 8418.69 GTP altında kayıtlı “diğerleri-yalnızca merkezi iklimlendirme ve proses suyunun soğutulmasında kullanılan chiller (absorbsiyon ve santrifüj kompresörlü olanlar hariç)” ürününe yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
