@@ -1,0 +1,2 @@
+Konu
+MADDE 1 – (1) Çin Halk Cumhuriyeti’nin Vuhan kentinde ortaya çıkan ve birçok ülkeye yayılan Koronavirüs (COVID-19) salgınına ilişkin olarak 24/3/2020 tarihli ve 31078 mükerrer sayılı Resmî Gazete’de yayımlanan Vergi Usul Kanunu Genel Tebliği (Sıra No: 518) ile kronik rahatsızlığı bulunması nedeniyle sokağa çıkma yasağı kapsamına giren ve 22/3/2020 ila sokağa çıkma yasağının sona ereceği tarih (bu tarihler dâhil) arasında mücbir sebep halinde olduğu kabul edilenlerin mücbir sebep hallerinin sona erdirilmesine yönelik açıklamalar bu Tebliğin konusunu teşkil etmektedir.
