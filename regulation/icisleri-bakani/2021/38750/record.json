@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38750",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL GÜVENLİK GÖREVLİLERİ SAĞLIK ŞARTLARI YÖNETMELİĞİ",
+  "number": "38750",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38750&MevzuatTertip=5",
+  "source_sha256": "3073806fbd9bb7d1147827c964351483617a787bfa46bd09793e51431879b86c",
+  "source_bytes": 60148,
+  "published": "2021-06-26",
+  "gazette": "31523",
+  "in_force": "2021-06-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1453,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38750-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
