@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-27",
+      "27.06.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31524",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-06-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kahramanmaraş Sütçü İmam Üniversitesi",
+  "issuer_slug": "kahramanmaras-sutcu-imam-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kahramanmaras-sutcu-imam-universitesi/2021/38749",
+  "published": "2021-06-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38749&MevzuatTertip=5",
+  "source_bytes": 27398,
+  "source_id": "8.5.38749",
+  "source_sha256": "cc8605b3ba721f5a93179804afaca9301e03d7ad2921c51328e6cf52fe7958dc",
+  "text_status": "as-enacted",
+  "title": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ BİLGİSAYAR \r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 205,
+  "word_count": 991
+}
