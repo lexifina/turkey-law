@@ -1,0 +1,4 @@
+TEKDÜZEN HESAP PLANI HAKKINDA YÖNETMELİK
+Amaç ve kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, Türkiye Finansal Raporlama Standartlarına uygun olarak muhasebe ve finansal raporlama sisteminde üretilen, denetim ve gözetim için gerekli olan bilgilerin doğrulanabilir ve denetlenebilir bir şekilde doğrudan ve sağlıklı olarak elde edilmesini, ekonominin izlenmesi ve yönlendirilmesi için ihtiyaç duyulan finansal bilgilere ve diğer istatistikî bilgilere doğrudan ulaşılmasını, finansal analiz, risk analizi, verimlilik analizi gibi çeşitli analiz ve yorumlar için ihtiyaç duyulan bilgilerin standart bir şekilde elde edilmesini sağlamaktır.
+(2) (Değişik:RG-29/6/2021-31526) Türkiye’de faaliyette bulunan bankalar, finansal kiralama, faktoring, finansman ve tasarruf finansman şirketleri bu Yönetmelik hükümlerine tâbidir.

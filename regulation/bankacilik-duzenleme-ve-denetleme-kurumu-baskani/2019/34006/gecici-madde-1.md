@@ -1,0 +1,2 @@
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) Kurul tarafından bu Yönetmelik hükümleri uyarınca hesap planları ve açıklamaları oluşturulana kadar, 20/9/2017 tarihli ve 30186 (mükerrer) sayılı Resmî Gazete’de yayımlanmış olan Tekdüzen Hesap Planı ve İzahnamesi Hakkında Tebliğ ile Katılım Bankalarınca Uygulanacak Tekdüzen Hesap Planı ve İzahnamesi Hakkında Tebliğ ve 24/12/2013 tarihli ve 28861 sayılı Resmî Gazete’de yayımlanmış olan Finansal Kiralama, Faktoring ve Finansman Şirketlerince Uygulanacak Tekdüzen Hesap Planı ve İzahnamesi Hakkında Tebliğ hükümleri uygulanmaya devam olunur.
