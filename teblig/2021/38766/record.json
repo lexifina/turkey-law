@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.38766",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ELEKTRİK MOTORLARININ VE DEĞİŞKEN HIZ SÜRÜCÜLERİNİN ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2019/1781/AB) (SGM: 2021/16)",
+  "number": "38766",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38766",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38766&MevzuatTertip=5",
+  "source_sha256": "9320fb824d87b1db5d09dc974a7cf1e122bea4548d1bda2429d29b3e3542f106",
+  "source_bytes": 72924,
+  "published": "2021-04-28",
+  "gazette": "31468",
+  "in_force": "2021-06-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/6/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-06-29",
+      "RG-29/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-29",
+      "29/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğin 9 uncu maddesinin birinci fıkrası yayımı tarihinde, diğer maddeleri ise (Değişik ibare:RG-29/6/2021-31526) 15/8/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2085,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38766-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
