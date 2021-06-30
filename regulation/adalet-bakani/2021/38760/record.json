@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38760",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HUKUK MUHAKEMELERİNDE SES VE GÖRÜNTÜ NAKLEDİLMESİ YOLUYLA DURUŞMA İCRASI HAKKINDA YÖNETMELİK",
+  "number": "38760",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2021/38760",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38760&MevzuatTertip=5",
+  "source_sha256": "d2d48da24994f8bcfde2ededddace6e07ad27d8b5567398db3c6d6fb093cd914",
+  "source_bytes": 35086,
+  "published": "2021-06-30",
+  "gazette": "31527",
+  "in_force": "2021-06-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.06.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1607,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
