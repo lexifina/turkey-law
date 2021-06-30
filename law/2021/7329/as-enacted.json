@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7329",
+  "year": 2021,
+  "title": "Askerî Ceza Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-06-30",
+  "gazette_issue": "31527",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210630-1.htm",
+  "source_sha256": "4f9dc1b8e2a67f575c76c5453cc00244baf2128fb02db7cbf3444f8c8275212b",
+  "text_sha256": "6e409dd7e3bca689efbf92883b5d74b9025c86d19344588487e2db7463a29e4f",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/06/30/31527-1",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/06/20210630-1.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
