@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10293",
+  "decision_date": "2021-06-30",
+  "title": "Organize Toptan Doğal Gaz Satış Piyasası İşletim Usul ve Esaslarının (PUE) \"Günlük Referans Fiyat Hesaplanması\" başlıklı 6.2 maddesi \"Tekliflerin Yapısı ve içeriği ve Teklif Tipleri\" başlıklı 6.4 maddesi ve \"Olağandışı Durumlar\" başlıklı 11.1 maddesi çerçevesinde Kurulun bu konuda alacağı yeni bir karara kadar geçerli karar",
+  "resmi_gazete_date": "2021-07-01",
+  "resmi_gazete_number": "31528",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G5iLabhcs8c=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=G5iLabhcs8c="
+  ],
+  "source_sha256": "7d46ac5efd15b222dfcbc769d7216944eaa8a0fbe17b59aaa65886614e9fe7c5",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-06-30",
+  "law_text_complete": true
+}
