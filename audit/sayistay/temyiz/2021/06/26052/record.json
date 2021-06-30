@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49873",
+  "decision_date": "2021-06-30",
+  "source_id": 26052,
+  "chamber": "4",
+  "file_number": "47830",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26052/",
+  "source_sha256": "def6da778f261c4f7dc0eac3413d7ac9258038599a80567630ded36854e0a310",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
