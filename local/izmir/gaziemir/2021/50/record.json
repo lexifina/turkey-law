@@ -1,0 +1,29 @@
+{
+  "number": "50",
+  "number_as_published": "50",
+  "year": 2021,
+  "month": 6,
+  "title": "50 NOLU KARAR HAZİRAN 2021 MAZERET KARARI",
+  "decision_date": null,
+  "index_date": "2021-06-30",
+  "date_precision": "month",
+  "period": "Haziran 2021",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=28",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=28",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/85f83830fab79583eba1149410e4daa285f83830fab79583eba1149410e4daa2.doc",
+  "source_sha256": "a0df7aed8b7a08b2849ea1c6d6f59f0d0010b3c8df532f21c0617f4c6cb88691",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2021-06-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Haziran 2021); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "14.06.2021",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
