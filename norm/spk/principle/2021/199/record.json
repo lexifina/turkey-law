@@ -1,0 +1,75 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "199",
+  "decision_number": "33/1028",
+  "date": "2021-07-01",
+  "title": "Kurul'un i-SPK.22.5 (01.07.2021 Tarih ve 33/1028) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/199",
+  "source_sha256": "a04c57d14ca0a424857f14feab5da72368eea6783dac6884056c0a3a2a361bef",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 199,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 1. Kurul Karar Organı’nın i-SPK.22.5 (01.07.2021 tarih ve 33/1028 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2021-07-01",
+    "source_clauses": [
+      "1. Kurul Karar Organı’nın i-SPK.22.5 (01.07.2021 tarih ve 33/1028 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "92951aee-f239-45ea-8728-9dfcfb23f8e9",
+    "contentSource": "IlkeKarari",
+    "contentID": 199,
+    "tur": "İlke Kararı",
+    "title": "Kurul'un i-SPK.22.5 (01.07.2021 Tarih ve 33/1028) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2021-07-01T00:00:00",
+    "kurulKararTarih": "01.07.2021",
+    "kurulToplantiNo": "33/1028",
+    "bultenYili": 2021,
+    "bultenNo": 32,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "91:Geri Alınan Paylar Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 91,
+        "value": "Geri Alınan Paylar Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "4:Halka Açık Ortaklıklar;72:Geri Alınan Paylar",
+    "ilgiliKonular": [
+      {
+        "key": 4,
+        "value": "Halka Açık Ortaklıklar"
+      },
+      {
+        "key": 72,
+        "value": "Geri Alınan Paylar"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/199",
+    "linkTarget": "_blank"
+  }
+}
