@@ -1,0 +1,3 @@
+Şikâyetlerin değerlendirilmesi ve denetim
+MADDE 12 – (1) İlgili valilik veya kaymakamlıkça vale hizmetlerinin belli aralıklarla denetimi için ilgili vali veya kaymakam tarafından belirlenen kişinin başkanlığında; yetkili idare, emniyet veya jandarma, şoförler odası ve ilgili vali veya kaymakam tarafından belirlenen vale hizmetleri alanında faaliyet gösteren sivil toplum kuruluşu temsilcilerinden bir denetim komisyonu oluşturulur. Komisyon vale işletmelerinin bu Yönetmeliğe uygun faaliyet gösterip göstermediği, varsa şikâyetlerin değerlendirilmesi hususlarında yerinde denetim yapar.
+(2) Denetim sonucu tespit edilen aykırılıklar yetkili kurumlara gereği yapılmak üzere iletilir.

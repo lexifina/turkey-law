@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38763",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İŞLETMELER VE İŞYERLERİNİN ARAÇ PARK HİZMETLERİNİN (VALE) YÜRÜTÜLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "38763",
+  "issuer": "İçişleri Bakanı ile Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "icisleri-bakani-ile-cevre-ve-sehircilik-bakani",
+  "path": "regulation/icisleri-bakani-ile-cevre-ve-sehircilik-bakani/2020/38763",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38763&MevzuatTertip=5",
+  "source_sha256": "0f7f9fadc4eeba7d698f02ac47fcb212aa850333b6704e80a83f75bee38da620",
+  "source_bytes": 37540,
+  "published": "2020-12-25",
+  "gazette": "31345",
+  "in_force": "2021-07-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/7/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1726,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38763-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
