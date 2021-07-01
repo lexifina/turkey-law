@@ -1,0 +1,69 @@
+Ön protokol sözleşmesinde belirlenen kira tutarının süresinden önce artırılması:
+
+ ...Bakanlığının Merkez Teşkilatı ve İl Müdürlüklerinin, ön protokol sözleşmesi yöntemi ile belirli bir bedel üzerinden anlaşılarak yapımı tamamlandıktan sonra, mülk sahipleri ile kira sözleşmesi imzalanan yurt binaları için, ön protokol sözleşmesinde belirlenen kira tutarının süresinden önce artırılması sonucunda fazla ödeme yapılması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak  yapılan incelemede;
+
+351 sayılı Yüksek Öğrenim Kredi ve Yurtlar Kurumu Kanunu'nun 7’nci maddesine dayanılarak hazırlanan Yüksek Öğrenim Kredi ve Yurtlar Kurumu Tarafından Taşınmaz Satın Alınması, Satılması, Trampa Yapılması, İrtifak Hakkı ve Benzeri Ayni Nitelikteki Hakların Tesisi ile Taşınmaz Kiralanması ve Kiraya Verilmesi Hakkında Yönetmeliğin “Taşınmaz kiralanması işlemleri” başlıklı 18’inci maddesinin birinci fıkrasında; yurt ihtiyacı bulunan yerlerde yönetim kurulu kararı ile 4734 sayılı Kanunun 22’nci maddesine göre taşınmaz kiralanabileceği belirtilmiştir.
+
+Aynı Yönetmelik’in “Ön protokolle taşınmaz kiralanması” başlıklı 19’uncu maddesinde aynen;
+
+“(1) Yurt ihtiyacı bulunan yerlerde mülkiyeti veya kullanım hakkı gerçek veya tüzel kişilere ait olan arsa üzerine yurt binası inşa etmek isteyen gerçek veya tüzel kişilerce, Kurumun uygun göreceği ya da belirleyeceği yurt projesine göre yapılacak olan binalar ile yapımı devam eden binaların kiralanması için, Yönetim Kurulu kararı doğrultusunda ön protokol yapılır.
+
+(2) Kira başlangıç tarihi, binanın teslim tarihi olarak belirlenir ve kira bedeli bu tarih itibariyle ödenir.”,
+
+“Yıllık kira artışları” başlıklı 23’üncü maddesinin birinci fıkrasının (a) bendinde ise;
+
+“(1) Kurum tarafından;
+
+a) Kiralanacak taşınmazlarda ikinci izleyen yıllar kira bedelleri, Türkiye İstatistik Kurumunca yayımlanan Üretici Fiyatları Endeksi (ÜFE bir önceki yılın aynı ayına göre yüzde değişimi) oranında, …
+
+arttırılır.”
+
+denilmek suretiyle ön protokol yapma yetkisi, kira başlangıç tarihi ve yıllık kira artış oranlarına ilişkin hususlar belirlenmiştir.
+
+Bununla birlikte istekliler ile yapılan pazarlık ve görüşme neticesinde akdedilen “Tip ön protokol sözleşmesi”nin ŞARTLAR bölümünün;
+
+3’üncü maddesinde, kira süresinin Kuruma teslim tarihinden başlamak üzere 15 yıl olduğu,
+
+5’inci maddesinde, binanın aylık kira bedelinin stopaj dahil KDV hariç … TL olduğu,
+
+6’ncı maddesinde, kira başlangıcının binanın kuruma teslim tarihi olacağı ve kira ödemelerinin bu tarihten itibaren yapılacağı,
+
+10’uncu maddesinde, kira süresinin binanın kuruma teslim tarihinden başlamak üzere 15 yıl olduğu ve yıllık kira artışının her yıl Maliye Bakanlığı tarafından yayımlanan Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelgede açıklandığı üzere ÜFE oranını geçemeyecek şekilde belirleneceği,
+
+ifadelerine yer verilmiştir.
+
+Yapılan incelemede; kira bedellerinin, ön protokol sözleşmelerindeki kira bedellerinden farklı belirlendiği, bu farklılığın; ÜFE artış oranındaki tutarın, teslim alınma tarihi itibariyle ilave edilmesinden kaynaklandığı görülmüştür.
+
+Konunun 351 sayılı Kanun gereğince Yönetim Kurulunun onayına sunulduğu ve 30.11.2017 tarihli ve 10112 sayılı Yönetim Kurulu Kararı ile; “…yapım süresi cezalı çalışılmaksızın bir yılı geçen kiralamalarda anlaşmaya varılan bedele son bir yıl ÜFE uygulanarak kira bedeli belirlenmesi ve belirlenen bu bedel üzerinden kira sözleşmesi düzenlenmesi hususu” nun karara bağlandığı anlaşılmıştır.
+
+Ayrıca Yüksek Öğrenim Kredi ve Yurtlar Kurumu Tarafından Taşınmaz Satın Alınması, Satılması, Trampa Yapılması, İrtifak Hakkı ve Benzeri Ayni Nitelikteki Hakların Tesisi İle Taşınmaz Kiralanması ve Kiraya Verilmesi Hakkında Yönetmeliğin 25 inci maddesi “Bu Yönetmeliğin uygulanmasına ilişkin usul ve esaslar Genel Müdürlük tarafından çıkarılacak alt düzenleyici işlemler ile belirlenir.” hükmüne amirdir. Söz konusu hüküm doğrultusunda İdare tarafından 03.10.2012 tarihinde “Yüksek Öğrenim Kredi ve Yurtlar Kurumu Genel Müdürlüğü Taşınmaz Talimatı” onaylanarak yürürlüğe konulmuştur.
+
+03.10.2012 tarihinde onaylanan Taşınmaz Talimatı’nın;
+
+-14’üncü maddesinin 14’üncü fıkrasında; “Binanın teslim süresinin bir yıldan fazla olması halinde Talimatın 27’nci maddesinin 1’inci fıkrasının (a) bendi hükümleri uygulanır.”,
+
+-“Yıllık Kira Artışları” başlıklı 27’nci maddesinin (1) inci fıkrasının (a) bendinde ise “Kurum tarafından, kiralanacak taşınmazlarda ikinci ve izleyen yıllara kira bedelleri, Türkiye İstatistik Kurumunca yayımlanan Üretici Fiyatları Endeksi (ÜFE bir önceki yılın aynı ayına göre yüzde değişimi) oranında artırılır.” denilmektedir.
+
+İdare ve gerçek veya tüzel kişiler arasında yapılan ön protokollerde, protokolün imzalandığı yıl içerisinde binanın bitirilmesi ve teslim edilmesi halinde ön protokolde belirlenen aylık kira bedeline ÜFE artışı yapılmadığı, anlaşmaya varılan kira bedeli üzerinden kira sözleşmesi düzenlendiği görülmüştür.
+
+	Protokolün imzalandığı yıl içerisinde teslim edilemeyen binalarla ilgili olarak ise; anlaşmaya varılan ön protokolle kiralama tekliflerinde, Bakanlık tarafından ancak anlaşmanın yapıldığı yılın fiyatları dikkate alınabilmekte yapımı bir yılı geçecek tekliflerde binanın bir yıldan uzun sürede biteceği önceden öngörülse dahi binanın teslim edileceği tarihe ilişkin gelecek yıllara ait artışların nasıl ve ne şekilde olacağı öngörülememektedir. Bu nedenle de Bakanlık ile gerçek veya tüzel kişiler arasında yurt yapımı için kira sözleşmesi yerine ön protokol imzalanmaktadır. Ayrıca; ön protokolde belirtilen fiyat ileriki yıllarda kira sözleşmesi imzalanırken bir altlık teşkil etmektedir ve Yönetim Kurulu kararlarında ve pazarlık esnasında bir bedel gerektirdiği için kullanıldığı anlaşılmıaktadır. Yoksa; tarafların henüz yapımına başlanmamış, sadece avan projesi olup inşaat ruhsatı almamış, ortada olmayan bir binanın 2 yıl sonra biteceği düşünülerek bugünkü şartlarda kesin bir fiyat öngörüsünde bulunabilmesi mümkün değildir. Bakanlık ve gerçek ve/veya tüzel kişiler pazarlık esnasında 2 yıl sonrası için ortada olmayan bir bina ile ilgili kesin bir fiyat öngörüsünde bulunabilseydi doğrudan ön protokol yerine kira sözleşmesi imzalanabilirdi.
+
+	Ayrıca; kira bedeline uygulanan ÜFE artışında, Yüksek Öğrenim Kredi ve Yurtlar Kurumu Tarafından Taşınmaz Satın Alınması, Satılması, Trampa Yapılması, İrtifak Hakkı ve Benzeri Ayni Nitelikteki Hakların Tesisi İle Taşınmaz Kiralanması ve Kiraya Verilmesi Hakkında Yönetmelik’in 20’nci maddesinde belirtilen “Kira Bedelinin Sınırı” başlıklı “aylık kira bedelinin kapasite ile bir öğrenciden alınacak aylık yatak ücretinin çarpımı sonucunda bulunacak tutarın %70’ini geçmemesi” hususunun da dikkate alındığı, ÜFE sonucu hesaplanan kira bedelinin bu sınırı geçmediği görülmüştür.
+
+Bu nedenle yapılan kiralamaların Raporda tespit edildiği haliyle Yönetmelik’te belirlenen azami sınıra (Yurt yatak ücreti * kapasite * 0,70) göre ortalama %6 daha düşük olduğu, ekspertiz raporlarında belirtilen piyasa rayiçlerinden ise %10 daha düşük olduğu görülmekte olup, kamu zararı olarak nitelendirilebilecek durumun oluşmadığı değerlendirilmiştir.
+
+	Kredi ve Yurtlar Kurumu Yönetim Kurulunun 30.11.2017 tarih ve 10112 sayılı kararı ile “ ...yapım süresi cezalı çalışılmaksızın bir yılı geçen kiralamalarda anlaşmaya varılan bedele son bir yıl ÜFE uygulanarak kira bedeli belirlenmesi ve belirlenen bu bedel üzerinden kira sözleşmesi düzenlenmesi hususunda” yetki alındığı ve ön protokollerin "Genel ve Teknik Şartname"nin 23’üncü maddesine de bu hükmün derç edildiği  görülmüştür.
+
+ 	Sonuç olarak, tarafların henüz yapımına başlanmamış, sadece avan projesi olup inşaat ruhsatı almamış, ortada olmayan bir binanın 2 yıl sonra biteceği düşünülerek bugünkü şartlarda kesin bir kira bedeli öngörüsünde bulunabilmesi mümkün değildir. İdare ile gerçek veya tüzel kişiler arasındaki pazarlık esnasında 2 yıl sonrası için ortada olmayan bir bina ile ilgili kesin bir fiyat öngörüsünde bulunabilseydi ön protokol yerine doğrudan kira sözleşmesi imzalanması mümkün olabilirdi. Ayrıca yukarıda belirtilen mevzuatta ön protokolle belirlenen kira bedelinin aynen kira sözleşmelerinde de korunması gerektiğine ilişkin bir hüküm de bulunmamaktadır.
+
+	Bu  itibarla; ...Bakanlığının Merkez Teşkilatı ve İl Müdürlüklerinin, ön protokol sözleşmesi yöntemi ile belirli bir bedel üzerinden anlaşılarak yapımı tamamlandıktan sonra, mülk sahipleri ile kira sözleşmesi imzalanan yurt binaları için, ön protokol sözleşmesinde belirlenen kira tutarının süresinden önce artırılması sonucunda fazla ödeme yapılması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak yukarıda   açıklanan gerekçelerle konu hakkında  ilişilecek husus bulunmadığına oy çokluğuyla,
+
+		Azınlık Görüşü;
+
+Üye … azınlık görüşü; ‘Rapora konu edilen ön protokol ve kira sözleşmelerinin daha önce başka bir mal sahibi tarafından adli yargıda dava konusu edilmiştir. Ankara Bölge Adliye Mahkemesi 15. Hukuk Dairesi’nin konu ile ilgili 2018/2559 Karar Numaralı gerekçeli kararında aynen;
+
+“…Taraflar arasında imzalanan 07.08.2015 tarihli ön protokol ile davacı tarafından Afyonkarahisar Kocatepe Üniversitesi Kampüs alanında yapılacak binanın öğrenci yurdu olarak kullanılmak üzere davalıya kiralanmasının kararlaştırıldığı anlaşılmaktadır. BK’nun 29.Maddesi, bir sözleşmenin ileride kurulmasına ilişkin sözleşmelerin geçerli olduğu ve kanunda öngörülen istisnalar dışında önsözleşmenin geçerliliğinin ileride kurulacak sözleşmenin şekline bağlı olduğu hükmüne yer verilmiştir. Ön sözleşme niteliğindeki taraflar arasındaki ön protokolün 3.maddesinde kira süresinin binanın kuruma teslim tarihinden itibaren 15 yıl olduğu, 5.Maddesinde binanın aylık kira bedelinin stopaj dahil KDV hariç 382.000 TL olup aylık peşin ödeneceği, 6.Maddesinde kira başlangıcının binanın kuruma teslim tarihi olacağı ve bu tarihten sonra da kira bedellerinin ödeneceği, 8.Maddesinde kiralananın ön protokol imzalandığı tarihten itibaren tamamlanarak 01/06/2017 tarihinde teslim edileceği,10.Maddesinde her yıl Maliye Bakanlığı tarafından yayınlanan Kamu İdarelerinin Taşınmaz Kiralamalarına İlişkin Genelgede açıklandığı üzere ÜFE oranını geçmeyecek şekilde kira bedelinin artırılacağı kararlaştırılmıştır. Ön protokolde belirtilen kira sözleşmesinin başlangıcı, kira bedeli ve ödeme tarihi, bina bitip kiracıya teslim edildikten sonra düzenlenecek kira sözleşmesine ilişkin hükümler olduğu ve kira ödemesi başladıktan sonra bu hükümlerin uygulanacağı anlaşılmaktadır. Kiralananın kiraya veren tarafından, kiracıya 09/06/2017 tarihli teslim tutanağı ile teslim edildiği görülmektedir. Ön protokolde kira başlangıcının bina teslim tarihinden itibaren başlayacağı belirtilmiş ise de sözleşmenin başlangıç ve süresinin taraflarca her zaman uzatılıp kısaltılabileceğini ve değiştirilebileceğini yasaklayan herhangi bir Kanun maddesi bulunmamaktadır. Ön sözleşmede binanın yapımı sırasında geçecek süre için herhangi bir artış şartı öngörülmediği halde taraflarca 03/07/2017 düzenleme tarihli sözleşme ile kira başlangıcı 09/07/2017 tarihi olarak belirtilmiş ve kira bedelinin de stopaj dahil KDV hariç 506.000 TL olarak belirlenmiş, aynı sözleşmenin 4.maddesinde Kamu İdarelerinin taşınmaz kiralamalarına ilişkin genelgede açıklandığı üzere bir önceki yılın aynı ayına göre değişim oranı ile ÜFE artışı uygulanmak sureti ile kira bedelinin belirlendiği belirtilmiştir. Ön sözleşmede artış şartı öngörülmediği gibi kira sözleşmesindeki artış şartı ise sözleşmenin başlangıcından itibaren 1 yıllık sürenin sonunda uzayan dönem için öngörülmüştür. Sonradan yapılan sözleşmenin bir önceki sözleşmeyi de iptal ettiğine dair bir hüküm bulunmamaktadır. Ön sözleşmede artış şartı öngörülmediği halde İdarece sehven ek sözleşme ile ÜFE oranında artış şartı uygulanarak kira bedelinin belirlenmesi doğru değildir. Öte yandan taraflar arasında düzenlenen 26/09/2017 tarihli ek sözleşme ile 03/07/2017 tarihinde yapılan kira sözleşmesinde kira bedeline yönelik ücretin iptal edildiği ve yapılan kapasite artışı nedeni ile orantılı olarak aylık kira bedelinin stopaj dahil KDV hariç 440.768 TL olarak belirlendiği ve bu bedelin kira başlangıç tarihinden itibaren uygulanacağının imza altına alındığı ancak kiraya verenin imzalarken her türlü dava haklarını saklı tutmuş ise de kira sözleşmesinin bina teslim tarihinde başlayacağı ve kira sözleşmesinin bitim tarihinden itibaren uzayan dönemde artış şartının geçerli olacağı, ön sözleşmeden sonra kira süresi başlamadan artış şartının uygulanması da mümkün olmadığı gibi bu bedelin de kiracı tarafından ödeme yükümlülüğünün bulunmadığı gözetildiğinde ek sözleşmeye yönelik itirazları yerinde görülmemiştir… “denilmek suretiyle mal sahibinin istinaf talebini esastan reddetmiştir.
+
+Davacı tarafından yapılan temyiz başvurusu üzerine; Yargıtay 3. Hukuk Dairesi 2019/1164 Esas ve 2019/10218 Karar No’lu ilamıyla, Bölge Adliye Mahkemesi kararında yazılı gerekçelere göre temyiz itirazlarının reddi ve Bölge Adliye Mahkemesi kararının onanmasına karar vermiştir.
+
+Görüleceği üzere Rapora konu edilen ön protokol ve kira sözleşmelerinin yargısal olarak denetlenmesinde görevli yüksek mahkeme kararı ve gerekçesinde konunun esası şüpheye mahal bırakmayacak şekilde ortaya konulmaktadır. Bu itibarla Yargıtay Kararının benzer uyuşmazlıklarda da emsal teşkil edeceği düşünüldüğünden ...Bakanlığının Merkez Teşkilatı ve İl Müdürlüklerinin, ön protokol sözleşmesi yöntemi ile belirli bir bedel üzerinden anlaşılarak yapımı tamamlandıktan sonra, mülk sahipleri ile kira sözleşmesi imzalanan yurt binaları için, ön protokol sözleşmesinde belirlenen kira tutarının süresinden önce artırılması sonucunda fazla ödeme yapılması suretiyle kamu zararına sebebiyet verilmesi iddiası ile ilgili olarak kamu zararının sorumlularına müştereken ve müteselsilen ödettirilmesinin uygun olacağı düşünülmektedir.” demiştir.

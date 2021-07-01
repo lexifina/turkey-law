@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "454",
+  "decision_date": "2021-07-01",
+  "source_id": 34426,
+  "chamber": "7",
+  "ilam_number": "127",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34426/",
+  "source_sha256": "b64d7c30281a87719c43364bbf59bd383a4bd2580e72a96768d83c636e8c96b7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
