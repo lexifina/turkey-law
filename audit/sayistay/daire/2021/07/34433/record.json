@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "454",
+  "decision_date": "2021-07-01",
+  "source_id": 34433,
+  "chamber": "7",
+  "ilam_number": "127",
+  "item_number": 8,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34433/",
+  "source_sha256": "bb1cd66fd4bbe68eba3c889400b0285088a1d66221b9a25c7cded888e5e3e3b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
