@@ -1,0 +1,7 @@
+Yazılı sınav aşaması
+MADDE 12 – (1) Giriş sınavının yazılı aşaması, Kuruma alınacak personelin bilgi düzeyini belirlemeye yönelik olarak Kurum tarafından yapılır. Gerekli görülen hallerde ÖSYM Başkanlığına, Millî Eğitim Bakanlığına veya yükseköğretim kurumlarından birine yaptırılabilir. Yazılı sınav için konusunda uzmanlaşmış kişi veya kuruluşlardan gerekli destek sağlanabilir.
+(2) Yazılı sınav, mezun olunan bölümlerin müfredatına uygun konularda ve/veya Hukuk, İktisat, İşletme, Maliye, Kamu Yönetimi, Muhasebe, Ekonometri, Matematik, İstatistik, Aktüerya, Sigortacılık ve Finans alanları içerisinden belirlenecek konularda yapılır.
+(3) Sınav ilanında belirtilmek kaydıyla ikinci fıkrada belirtilen konularda değişiklik yapılabilir.
+(4) Atama yapılacak kadro sayısının fakülte ve/veya öğrenim dalları itibarıyla ayrı ayrı belirlenmesi durumunda, adayların hangi sınav konularından sorumlu olacağı sınav duyurusunda belirtilir.
+(5) Yazılı sınav için belirlenecek sınav konularına ilave olarak yabancı dil sınavı yapılabilir.
+(6) Yazılı sınavda adayların fakülte veya öğrenim dallarına göre belirlenecek her konu grubu 100 üzerinden değerlendirilir ve başarılı sayılabilmek için her konu grubundan en az 60 puan alınması ve sınav ortalamasının en az 70 puan olması gerekir. Yazılı sınav sonucunda 70 puandan az olmamak üzere, en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen kadronun dört katına kadar aday sözlü sınava çağrılır. Son sıradaki adayla aynı puana sahip olan adaylar da sözlü sınava katılmaya hak kazanır.

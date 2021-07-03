@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Meslek Personelinin Görevleri ve Seçimi
+Meslek personelinin görevleri
+MADDE 4 – (1) Meslek personeli; 3/6/2007 tarihli ve 5684 sayılı Sigortacılık Kanunu, 28/3/2001 tarihli ve 4632 sayılı Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu, Cumhurbaşkanlığı Kararnamesi ve ilgili diğer mevzuatla Kuruma verilen görevleri tam ve eksiksiz yerine getirmekle ve Kurumun görev alanına giren mevzuat değişikliklerini takip etmek, mevzuatın geliştirilmesi ile ilgili çalışmalar yaparak uygulamada aksayan yönlerine ilişkin görüş ve önerilerini bildirmek, mevzuata ilişkin taslakların hazırlanmasına ve görüşülmesine katkıda bulunmak, Ülke sigortacılığının ve özel emeklilik uygulamalarının gelişmesi, sigortalıların ve katılımcıların korunması için alınması gerekli tedbirleri belirlemeye katkıda bulunmak, araştırma, analiz, teftiş, denetim, inceleme ve soruşturma yapmakla görevlidir.
+(2) Meslek personeli, etik davranış ilkelerine uygun davranmak, sır saklamak, adil ve tarafsız olmakla sorumludur.

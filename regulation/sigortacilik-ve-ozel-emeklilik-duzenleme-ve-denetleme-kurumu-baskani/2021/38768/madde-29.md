@@ -1,0 +1,4 @@
+Yeterlik sınav notu ve sonucu
+MADDE 29 – (1) Yeterlik sınav notu yazılı ve sözlü sınav notları aritmetik ortalamasından oluşur. Yeterlik sınav notu ortalaması, 100 tam puan üzerinden en az 70 puan olan uzman yardımcıları yeterlik sınavında başarılı sayılır ve başarı sıralamasında bu not esas alınır.
+(2) Sınav sonuçlarına, açıklanmasından itibaren yedi iş günü içerisinde Kuruma yazılı olarak itiraz edilebilir. Bu sürenin bitiminden itibaren itiraz, yeterlik sınavı komisyonu tarafından en geç on iş günü içinde karara bağlanır ve sonucu ilgiliye yazılı olarak bildirilir. Süresi içinde yapılmayan itirazlar dikkate alınmaz.
+(3) Yeterlik sınavında başarılı olamayanlar veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlar, yeterlik sınavı sonuçlarının açıklandığı tarihten itibaren bir yıl içerisinde olmak kaydıyla yeterlik sınavı komisyonu tarafından belirlenecek bir tarihte ikinci kez yeterlik sınavına tabi tutulur.

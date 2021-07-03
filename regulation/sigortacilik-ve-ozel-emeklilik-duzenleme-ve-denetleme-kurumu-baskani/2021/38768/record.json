@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38768",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIK VE ÖZEL EMEKLİLİK DÜZENLEME VE DENETLEME KURUMU MESLEK PERSONELİ YÖNETMELİĞİ",
+  "number": "38768",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2021/38768",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38768&MevzuatTertip=5",
+  "source_sha256": "f0a742f279af515bcd3480b572a08e558ccecc758b2b20f92f32e4cb3e62b3be",
+  "source_bytes": 127425,
+  "published": "2021-07-03",
+  "gazette": "31530",
+  "in_force": "2021-07-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.07.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3705,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

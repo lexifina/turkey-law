@@ -1,0 +1,2 @@
+Uzmanlığa atanma
+MADDE 30 – (1) Uzmanlık tezi kabul edilen ve yeterlik sınavında başarılı olanların uzman kadrolarına atanabilmeleri, yeterlik sınavı tarihinde geçerli olan veya yeterlik sınavından itibaren en geç iki yıl içerisinde alınmış bulunan Yabancı Dil Bilgisi Seviye Tespit Sınavından asgari (C) düzeyinde puana veya dil yeterliği bakımından buna denkliği kabul edilen ve uluslararası geçerliliği bulunan başka bir belgeye sahip olmaları şartına bağlıdır.

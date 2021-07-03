@@ -1,0 +1,3 @@
+Yetiştirme programı
+MADDE 19 – (1) Uzman yardımcıları, 21/2/1983 tarihli ve 83/6061 sayılı Bakanlar Kurulu kararı ile kabul edilen Aday Memurların Yetiştirilmelerine İlişkin Genel Yönetmelik çerçevesinde Başkan tarafından belirlenen usul ve esaslara göre mesleki eğitime tabi tutulur.
+(2) Eğitim dönemi içerisinde daire başkanlıklarında fiilen görevlendirilen uzman yardımcılarının mesleki uygulamayı öğrenmeleri sağlanır. Uygulama çalışmaları, ilgili daire başkanlarının sorumluluğu altında yürütülür. Adayların, yetişme program ve gereksinmelerine göre hangi tür inceleme ve araştırmalarda, hangi birimlerde, ne kadar süre ile çalışacakları Başkan tarafından belirlenir.

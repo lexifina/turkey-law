@@ -1,0 +1,3 @@
+Yeterlik sınav komisyonu
+MADDE 25 – (1) Yeterlik sınavı komisyonu, Başkanın başkanlığında veya görevlendireceği başkan yardımcısının başkanlığında olmak üzere Başkan tarafından başkan yardımcıları, daire başkanları veya grup başkanları arasından belirlenecek toplam beş asıl üye ile iki yedek üyeden oluşur. Yeterlik sınav komisyonu, üye sayısının salt çoğunluğu ile toplanır ve toplantıya katılanların oyçokluğuyla karar alır. Komisyonda çekimser oy kullanılamaz. Kurum içinden tespit edilecek iki yedek üye, asıl üyelerin herhangi bir nedenle yeterlik sınav komisyonuna katılamamaları ve toplantı yeter sayısı sağlanamaması halinde, tespit sırasına göre komisyona katılır.
+(2) Yeterlik sınavı komisyonunun sekretarya hizmetleri Yönetim Hizmetleri Daire Başkanlığınca yürütülür.
