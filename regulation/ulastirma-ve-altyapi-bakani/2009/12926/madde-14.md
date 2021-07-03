@@ -1,0 +1,4 @@
+MADDE 14 – (Başlığı ile Birlikte Değişik:RG-3/7/2021-31530)
+(1) Bu Yönetmelikte aksi belirtilmedikçe, tam boyu 15 metreden küçük gemi ve su araçları ile Gezi Tekneleri ve Kişisel Deniz Taşıtları Yönetmeliği kapsamına giren teknelerin tonilatoları EK II’de tarif edilen ölçme kuralına göre ölçülür.”
+(2) Tam boyu 15 metreden küçük gemi ve su araçları için üç boyut ölçme kuralının uygulanışı ile ilgili ayrıntılar ve ölçme metodunun uygulanışı EK II’de yer alan Balık Avlama Gemileri Hariç Tam Boyu 15 Metreden Küçük Gemi ve Su Araçlarının Tonilatolarının Ölçülmesi Esasları (Üç Boyut Ölçme Kuralı)’nda tarif edilmiştir.
+(3) Gezi Tekneleri ve Kişisel Deniz Taşıtları Yönetmeliği kapsamına giren tekneler için üç boyut ölçme kuralının uygulanışı ile ilgili ayrıntılar ve ölçme metodunun uygulanışı EK II’de yer alan Ulusal Standarda Göre Ölçüldüğünde Boyu (LH) 24 Metreden (Dahil) Küçük Özel Teknelerin Tonilatolarının Ölçülmesi Esaslarında tarif edilmiştir.

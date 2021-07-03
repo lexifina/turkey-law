@@ -1,0 +1,4 @@
+Tam boyları 15 (dahil) metreden büyük gemi ve su araçlarının ölçümünde istisna
+GEÇİCİ MADDE 1 – (Başlığı ile birlikte değişik:RG-7/6/2013-28670)
+(1) Tam boyu 15 (dahil) metre ile sözleşmeye göre tescil boyu 24 metre arasında olan gemi ve su araçları ile Sözleşmeye göre tescil boyu 24 (dahil) metreden büyük olan ve ulusal sefer yapan bu Yönetmelik kapsamındaki gemi ve su araçlarının tonilatoları için 31/12/2014 tarihine kadar 7 nci madde hükümleri kapsamında yapılacak ölçme başvurularında maliki veya yetkili temsilcisinin yazılı talebi üzerine Ek III’te tarif edilen ölçme kuralına göre ölçülür. Yazılı talep olmadığı durumlarda veya 31/12/2014 tarihinden sonra bu gemi ve su araçları sözleşme ve eklerinde belirtilen gros ve net tonilato tespit esaslarına göre ölçülür.
+(2) Ek III’te tarif edilen ölçme kuralına göre ölçülen gemi ve su araçları için Ek V-(B)’de yer alan forma uygun ölçme raporu kullanılır ve Ek IV-(B)’de yer alan tonilato belgesi düzenlenir.

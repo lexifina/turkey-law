@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Uygulama Esasları, Görev ve Yetki
+Uygulama Esasları
+MADDE 5 – (1) (Değişik:RG-7/6/2013-28670) Balık avlama gemisi haricindeki gemi ve su aracının tam boyu ölçülürken baş ve kıç tarafında yapısal olarak devam eden sabit platform olması halinde platformun en uç kısmından ölçü alınır, sökülüp takılabilen platformlar ise ölçüme dahil edilmez. Gemi ve su aracının baş ve kıç tarafında pruvadan itibaren ileriye doğru uzatılan, tekne güvertesinin dışına çıkan uzantıların olması halinde tam boy ölçüsü alınırken bu uzantılar dikkate alınmaz. Gemi ve su aracının baş bodoslaması küpeşte şeklinde tasarımlanmış ise tam boy küpeştenin en ucundan alınır.
+(2) (Değişik:RG-3/7/2021-31530) Balık avlama cinsi gemilerin tam boy ölçümlerinde tekne yapısının dışına çıkan baş kasara, küpeşte, ön küpeşte, sabit platform ve kıç aynalık gibi yapılar tam boya dâhil edilir. Ancak bu cinsteki gemilerde avlanma esnasında kullanılan hizmet botlarının suyla buluşmasını sağlayan rampaların 1,5 metreye kadar olan kısmı, ölçümlerde tam boya dâhil edilmez. Ulusal mevzuata göre gerçekleştirilecek denetim ve belgelendirmelerde bu tam boy değeri dikkate alınır
+(3) (Değişik:RG-7/6/2013-28670) Kaydı zorunlu olmayan gemi ve su araçlarının bu Yönetmelik kapsamında belgelendirilmesi malikin talebine bağlıdır.

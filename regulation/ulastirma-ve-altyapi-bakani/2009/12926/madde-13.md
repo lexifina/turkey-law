@@ -1,0 +1,5 @@
+Balık avlama gemilerinin tonilatolarının ölçülmesi
+MADDE 13 – (1) (Değişik:RG-7/6/2013-28670) Tam boyu 15 (dahil) metreden büyük olan yeni balık avlama gemilerinin tonilatoları, sözleşmede belirtilen gros ve net tonilato tespit esasları ile ölçülür.
+(2) (Değişik:RG-7/6/2013-28670) Tam boyu 15 metreden küçük balık avlama gemilerinin tonilatoları Ek I de tarif edilen kurallara göre ölçülür. Ek I de tarif edilen kurallarda geminin gros tonilatosu hesabında üst yapılar, set ve kasara gibi kapalı hacimler dikkate alınmaz. Ancak gemi malikinin yazılı talepte bulunması ve ölçüm için yetkili makam tarafından gerekli olduğu belirtilen planları sunması durumunda bu gemiler, sözleşmede belirtilen gros ve net tonilato tespit esasları ile ölçülür.
+(3) Balıkçı gemileri için düzenlenen tonilato belgelerinde, tadilat nedeniyle gros tonajı değişenlerin güvenlik tonajı (GTs) bilgileri ayrıca belirtilir.
+Tam boyları 15 metreden küçük gemi ve su araçları ile Gezi Tekneleri ve Kişisel Deniz Taşıtları Yönetmeliği kapsamına giren teknelerin tonilatolarının ölçülmesi

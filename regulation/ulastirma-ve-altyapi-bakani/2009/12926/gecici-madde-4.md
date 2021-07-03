@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 4 – (Ek:RG-3/7/2021-31530)
+(1) Bu maddenin yayımlanmasından önce, balık avlama cinsi gemilerde balık avlama amacıyla kullanılan hizmet botlarının suyla buluşmasını sağlayan rampaların ölçümleri 5 inci maddenin ikinci fıkrasına uygun olmayan gemiler, 17/11/2009 tarihli ve 27409 sayılı Resmî Gazete’de yayımlanan Gemilerin Teknik Yönetmeliği kapsamındaki karada yapılacak ilk su altı sörveyine kadar mevzuata uygun hale getirilerek belgelendirilir. Karada yapılacak ilk su altı sörveyinden sonra hizmet botlarının suyla buluşmasını sağlayan rampaların 5 inci maddedeki ilgili şartları sağlamadığı tespit edilen gemiler durumlarını bu şartlara uyduruncaya kadar belgelendirilmez.
+(2) Bu Yönetmelik kapsamında ölçümü yapılmış veya ölçümü yapılacak gemilere yerleştirilmesi gereken gemi kimlik tanımlama sistemi, İdarece gerekli altyapının tamamlanmasının ardından yayımlanacak uygulama talimatında belirtilen usullere göre tahsis edilecektir.
+(3) İkinci fıkrada belirtilen uygulama talimatı İdarece yayımlanıncaya kadar tonilato ölçümü için başvuru sahibinden gemi kimlik tanımlama sistemi tahsis belgesi istenmeyecektir.

@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.12926",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİLERİN TONİLATOLARINI ÖLÇME YÖNETMELİĞİ",
+  "number": "12926",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2009/12926",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=12926&MevzuatTertip=5",
+  "source_sha256": "92dbfbba3f741aee222e457af66e40dd136731d4c33ecce7d3abcba42337a460",
+  "source_bytes": 84377,
+  "published": "2009-03-12",
+  "gazette": "27167",
+  "in_force": "2021-07-03",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-3/7/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-07-03",
+      "RG-3/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-03",
+      "3/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-06-07",
+      "RG-7/6/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-06-07",
+      "7/6/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-04-02",
+      "RG-2/4/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-04-02",
+      "2/4/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3918,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.12926-ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
