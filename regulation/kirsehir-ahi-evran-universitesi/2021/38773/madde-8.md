@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür; Üniversitenin kadrolu öğretim elemanları arasından, Tıp Fakültesi Fiziksel Tıp ve Rehabilitasyon Anabilim Dalı Başkanının önerisi ile Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin tüm faaliyetlerinden Rektöre karşı birinci derecede sorumludur.
+(2) Müdür, kadrolu öğretim elemanları arasından tercihen Fiziksel Tıp ve Rehabilitasyon uzman hekimi olmak üzere, en çok iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür, görevi başında olmadığı zaman yardımcılarından biri Müdüre vekâlet eder. Görevi başında bulunmama süresi altı ayı aştığı takdirde yeni Müdür görevlendirilir.
