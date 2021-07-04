@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevi
+MADDE 12 – (1) Müdür ve müdür yardımcıları, Danışma Kurulunun doğal üyeleridir. Danışma Kurulu; doğal üyeleri ile Merkezin faaliyet alanıyla ilgili konularda deneyimi ve denizcilik eğitimiyle alakalı çalışmaları bulunan Üniversite içindeki ve/veya Üniversite dışındaki kişiler arasından Rektör tarafından üç yıl için görevlendirilen en az sekiz, en çok on beş üyeden oluşur. Danışma Kurulu üyelerinin en az üçü; özel ve kamu kurum ve kuruluşlarından, istekli olmaları ve kurum/kuruluşlarının muvafakati bulunması kaydıyla Yönetim Kurulunun önerisi üzerine Rektör onayıyla seçilen temsilcilerden oluşur.
+(2) Danışma Kurulu, yılda en az bir kez Müdürün çağrısı üzerine çoğunluk şartı aranmaksızın toplanır.
+(3) Danışma Kurulunun görevi; Merkezin faaliyet alanı ile ilgili konularda görüş bildirmek ve tavsiyelerde bulunmaktır.
