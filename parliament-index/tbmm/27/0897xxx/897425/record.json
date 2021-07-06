@@ -1,0 +1,36 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897425,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Doğrudan Gündeme Alma Önergeleri",
+  "name": "ULAŞ KARASU (SİVAS)",
+  "summary": "(2/1209) esas numaralı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi'nin doğrudan gündeme alınmasına ilişkin önergesi (4/140)",
+  "title": "(2/1209) esas numaralı Yatırımların ve İstihdamın Teşviki ile Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanunda Değişiklik Yapılmasına Dair Kanun Teklifi'nin doğrudan gündeme alınmasına ilişkin önergesi (4/140)",
+  "first_sitting_date": "2021-07-06",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 74,
+      "sitting": 99,
+      "sitting_date": "2021-07-06",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074099.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074fih.pdf",
+      "pages": [
+        "93:95"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2021-07-06",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
