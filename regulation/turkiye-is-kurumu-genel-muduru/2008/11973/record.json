@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.11973",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURTDIŞI İSTİHDAM HİZMETLERİ YÖNETMELİĞİ",
+  "number": "11973",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2008/11973",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11973&MevzuatTertip=5",
+  "source_sha256": "3323332cf6521f108a4ed926ab3b988df36ae7d1bccc994cbb7a907c50f687ba",
+  "source_bytes": 33088,
+  "published": "2008-02-16",
+  "gazette": "26789",
+  "in_force": "2021-07-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/7/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-07-06",
+      "RG-6/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-06",
+      "6/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-03-11",
+      "RG-11/3/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-03-11",
+      "11/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1104,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
