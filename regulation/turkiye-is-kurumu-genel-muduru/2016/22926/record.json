@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.22926",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL İSTİHDAM BÜROLARI YÖNETMELİĞİ",
+  "number": "22926",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2016/22926",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22926&MevzuatTertip=5",
+  "source_sha256": "4ea0702e3823c1b8b1c2497c71ea2de4d1da62cd24e79e2c9eef89ae8fb448bd",
+  "source_bytes": 85264,
+  "published": "2016-10-11",
+  "gazette": "29854",
+  "in_force": "2021-07-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/7/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-07-06",
+      "RG-6/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-06",
+      "6/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4501,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
