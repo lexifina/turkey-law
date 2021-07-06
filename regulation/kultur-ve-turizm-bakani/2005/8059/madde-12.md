@@ -1,0 +1,4 @@
+Sertifika uygulamasının denetimi ve yaptırımlar
+Madde 12 — (Değişik:RG-8/3/2008-26810) Bu Yönetmelik gereğince sertifika alması zorunlu yerlerin sertifika alıp almadıklarının denetimi illerde mülki idare amirleri tarafından oluşturulacak bir komisyon marifetiyle, dolum tesislerinin denetimi ise Bakanlık tarafından yapılır.
+(Değişik fıkra:RG-4/3/2011-27864) Denetimler sonucu, alınması zorunlu sertifikaları almaksızın faaliyet gösterdiği bir tutanakla tespit edilenlere mülki idare amirlerince, 30/3/2005 tarihli ve 5326 sayılı Kabahatler Kanununun 17 nci maddesinin ikinci fıkrası hükmü göz önünde bulundurularak, Kanunun Ek 10 uncu maddesinin birinci fıkrasının (1) numaralı bendinde öngörülen idari para cezası verilir.
+Para cezasının ödenmiş olması sertifika alınmasına ilişkin yükümlülüğü kaldırmaz.

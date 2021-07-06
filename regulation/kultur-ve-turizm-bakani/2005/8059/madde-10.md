@@ -1,0 +1,3 @@
+Geçici satış sertifikası
+Madde 10 – (Başlığı ile Birlikte Değişik:RG-6/7/2021-31533)(1)
+Bu Yönetmelik hükümleri çerçevesinde sertifika almış yerler; fuar, festival veya kültürel nitelikteki diğer etkinliklerin düzenlendiği alanlarda kitap veya fikir ve sanat eserlerini içeren taşıyıcı materyallerin satışına ilişkin stand açmaları halinde söz konusu etkinliği düzenleyen firma veya kuruluştan alacakları belgeyi etkinliğin düzenleneceği ilin kültür ve turizm müdürlüğüne ibraz etmek suretiyle etkinlik süresince satış yapabilir. Bunun için, etkinlik isim ve tarihinin yazılı olduğu bir sertifika nüshası düzenlenir. Bu işlem için ayrıca ücret alınmaz.

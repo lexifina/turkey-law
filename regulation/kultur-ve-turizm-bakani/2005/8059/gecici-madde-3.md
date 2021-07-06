@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (Ek:RG-6/7/2021-31533)(1)
+17/5/2006 tarihli ve 26171 sayılı Resmî Gazete’ de yayımlanan Fikir ve Sanat Eserlerinin Kayıt ve Tescili Hakkında Yönetmeliğin 6 ncı maddesi gereğince düzenlenen geçici ve sürekli yapımcı belgeleri geçerlilik sürelerinin bitiminde yenilenmez. Bu belgelerin süresinin bitiminde, yapımcı belgelerinin yerini almak üzere, 5 inci maddenin birinci fıkrasının (ç) bendi gereğince sertifika almak zorunludur.
