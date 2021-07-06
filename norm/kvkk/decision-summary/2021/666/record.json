@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/666",
+  "source_id": 7133,
+  "date": "2021-07-06",
+  "title": "“Şikâyetçinin yeni doğan bebeğine ait doğum belgesinde yer alan kişisel verilerin üçüncü kişiler tarafından Özel Hastane olarak faaliyet gösteren veri sorumlusundan hukuka aykırı olarak ele geçirilmesi” hakkında Kişisel Verileri Koruma Kurulunun 06/07/2021 tarihli ve 2021/666 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7133/2021-666",
+  "source_sha256": "9a431b903a2b1e1acd7dfdd01d772caedbeee78d0816bb176b818157b71e5971",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
