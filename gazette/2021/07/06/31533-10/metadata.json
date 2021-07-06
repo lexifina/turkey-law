@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-07-06",
+  "issue": "31533",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Fikir ve Sanat Eserlerinin Tespit Edildiği Materyallerin Dolum, Çoğaltım ve Satışını Yapan veya Yayan İşletmelerin Sertifikalandırılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210706-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210706.htm",
+  "index_sha256": "116384b0adbcf045641723daac434c74339bff4c3694199336e41c0f1fed57f6",
+  "index_header": "6 Temmuz 2021 ... 31533 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210706.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
