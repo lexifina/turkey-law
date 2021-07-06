@@ -1,0 +1,4 @@
+İnceleme sonucu yapılacak işlemler (1)
+MADDE 13 – (Değişik:RG-25/8/2017-30165)
+(1) Asıl işveren - alt işveren ilişkisinin iş müfettişlerince incelenmesi sonucunda muvazaanın tespitine ilişkin gerekçeli müfettiş raporu ve tutulan tutanaklar Çalışma ve İş Kurumu İl Müdürlüğünce işverenlere tebliğ edilir. Tebliğ tarihinden itibaren otuz işgünü içinde işverenlerce yetkili iş mahkemesine itiraz edilebilir. İtiraz üzerine görülecek olan dava basit yargılama usulüne göre dört ay içinde sonuçlandırılır. Mahkemece verilen kararın temyizi hâlinde Yargıtay altı ay içinde kesin olarak karar verir. Kamu idarelerince bu raporlara karşı yetkili iş mahkemelerine itiraz edilmesi ve mahkeme kararlarına karşı diğer kanun yollarına başvurulması zorunludur.
+(2) Rapora otuz iş günü içinde itiraz edilmemiş veya mahkeme muvazaalı işlemin tespitini onamış ise tescil işlemi iptal edilir ve alt işverenin işçileri başlangıçtan itibaren asıl işverenin işçileri sayılır.
