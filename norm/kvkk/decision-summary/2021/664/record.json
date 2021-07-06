@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/664",
+  "source_id": 7132,
+  "date": "2021-07-06",
+  "title": "“İlgili kişinin, doğal gaz dağıtımı yapan bir şirket tarafından düzenlenen faturasında kişisel verisi niteliğindeki banka bilgisine yer verilmesi” hakkında Kişisel Verileri Koruma Kurulunun 06/07/2021 tarihli ve 2021/664 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7132/2021-664",
+  "source_sha256": "f8795e5befd1948e63a0620adf2fc8118306dfbed02b04a0adcd54e994d0ca5a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
