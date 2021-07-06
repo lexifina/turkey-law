@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen tanımlardan:
+a) Bağlantılı Hak Sahibi: Eser sahibinin manevi ve mali haklarına zarar vermemek kaydıyla komşu hak sahipleri ile filmlerin ilk tespitini gerçekleştiren film yapımcılarını,
+b) Bakanlık: Kültür ve Turizm Bakanlığını,
+c) Eser: Sahibinin hususiyetini taşıyan ilim ve edebiyat, musiki, güzel sanatlar veya sinema eserleri olarak sayılan her nevi fikir ve sanat mahsullerini,
+ç) Eser Sahibi: Eseri meydana getirenleri, 5846 sayılı Fikir ve Sanat Eserleri Kanunu’nun 18 inci maddesinin ikinci fıkrasında düzenlenen çalıştıran ve tayin edenleri ve 19 uncu maddesinin birinci ve ikinci fıkrasında düzenlenen mirasçıları,
+d) Fonogram: Sinema eseri gibi görsel-işitsel eserler içindeki ses tespitleri hariç olmak üzere, bir icrada yer alan seslerin veya diğer seslerin veya ses temsillerinin tespit edildiği ses taşıyıcı fiziki ortamı,
+e) Genel Müdürlük: Telif Hakları ve Sinema Genel Müdürlüğünü,
+f) ISRC ve ISWC kodu: Müzik eserlerinin belirlenmesini sağlayan ve Uluslararası Fonogram Yapımcıları Birliği (IFPI) ve Uluslararası Eser Sahipleri Konfederasyonu (CİSAC) tarafından verilen uluslararası standart kayıt kodunu,
+g) Kanun: 5846 sayılı Fikir ve Sanat Eserleri Kanununu,
+ğ) Kayıt-tescil: Eser üzerindeki mali ve manevi hakların ihlal edilmemesi, mali haklara ilişkin yararlanma yetkilerinin takip edilmesi maksadıyla bu Yönetmelik ile düzenlenen prosedüre uygun olarak Bakanlık tarafından gerçekleştirilen, hak sahipliklerinin belirlenmesinde ispat kolaylığı sağlayan işlemi,
+h) Kayıt-tescil belgesi: Kayıt-tescil yapıldığına dair başvuru sahibine verilecek belgeyi,
+ı) Mali Hak Sahibi: Eser üzerindeki işleme, çoğaltma, yayma, temsil ve işaret, ses veya görüntü nakline yarayan araçlarla umuma iletim haklarını kullanma yetkilerini haiz gerçek ve tüzel kişileri,
+i) Meslek Birliği: Üyelerinin fikir ve sanat eserlerinden kaynaklanan ortak çıkarlarını korumayı ve hakların idaresini, takibini, alınacak ücretlerin tahsilini ve hak sahiplerine dağıtımını sağlamayı amaçlayan idari ve mali açıdan Bakanlığın denetimine tabi birlikleri,
+j) Özel işaret: Eserlerin veya yapımların topluma sunumu sırasında aleniyet tarihi ve hak sahibinin adı veya unvanını belirten işareti,
+k) Sinema eseri: Her nevi bedii, ilmi, öğretici veya teknik mahiyette olan veya günlük olayları tespit eden filmler veya sinema filmleri gibi, tespit edildiği materyale bakılmaksızın, elektronik veya mekanik veya benzeri araçlarla gösterilebilen, sesli veya sessiz, birbiriyle ilişkili hareketli görüntüler dizisini,
+l) Sinema filmi: Sinema sanatına özgü dil ve yöntemler ile meydana getirilen belgesel, kurgu, animasyon ve benzeri türlerde; konulu veya konusuz, uzun veya kısa metrajlı, tespit edildiği materyale bakılmaksızın elektronik, mekanik veya benzeri araçlarla gösterilebilen, sesli veya sessiz, birbiriyle ilişkili hareketli görüntüler dizisinden ibaret filmleri,
+m) Yapımcı: Bir icra ürünü olan veya sair sesleri ilk defa tespit eden fonogram yapımcıları ile filmlerin ilk tespitini gerçekleştiren film yapımcılarını,
+n) (Değişik:RG-6/7/2021-31533)(1) Yapımcı sertifikası: 18/4/2005 tarihli ve 25790 sayılı Resmî Gazete’de yayımlanan Fikir ve Sanat Eserlerinin Tespit Edildiği Materyallerin Dolum, Çoğaltım ve Satışını Yapan veya Yayan İşletmelerin Sertifikalandırılmasına İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 5 inci maddesi gereğince film ve fonogram yapımcılarının alması gereken belgeyi,
+ifade eder.
