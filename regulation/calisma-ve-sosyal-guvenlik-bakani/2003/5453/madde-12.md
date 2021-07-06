@@ -1,0 +1,5 @@
+Çalışma İzinlerinin Değerlendirilme Süresi
+Madde 12 —Bakanlık, özellik arzeden doğrudan yabancı yatırımlar ile bu Yönetmeliğin 6 ncı maddesinde belirtilen kapsamda bulunan irtibat bürolarında istihdam edilecek kilit personel için yapılan çalışma izni veya süre uzatımı müracaatlarını, belgelerin tam ve eksiksiz olması kaydıyla, Bakanlığa müracaat tarihinden itibaren en geç onbeş gün içinde sonuçlandırır.
+Başvurunun eksik evrak ile yapıldığının tespiti halinde, eksik evrakların tamamlanması istemiyle Bakanlık tarafından başvuru sahibine bilgi verilir. Bu durumda, onbeş günlük değerlendirme süresi eksik evrakların Bakanlığa intikal ettiği tarih itibariyle başlar.
+Yurt dışından yapılan müracaatlarda, onbeş günlük süre, tüm belgelerin Bakanlığa ulaştığı tarihten itibaren başlar.
+Özellik arzeden doğrudan yabancı yatırımlarda mesleki eğitim alanındaki bir görevde istihdam edilecek yabancı uyruklu kilit personel için yapılan çalışma izni müracaatlarında, birinci paragrafta geçen onbeş günlük değerlendirme süresine ilişkin hüküm uygulanmaz.

@@ -1,0 +1,3 @@
+Çalışma Vizesinin Alınması
+Madde 9 —Özellik arzeden doğrudan yabancı yatırımlarda çalışmak üzere çalışma izin belgesi alan kilit personelin, bu belgeyi aldıkları tarihten itibaren en geç doksan gün içinde Türkiye’nin dış temsilciliklerine çalışma vizesi talebinde bulunmaları ve ülkeye giriş yaptıkları tarihten itibaren en geç otuz gün içinde İçişleri Bakanlığına ikamet tezkeresi almak için başvurmaları zorunludur.
+Türkiye’de öğrenim amacıyla verilen ikamet izinleri hariç, herhangi bir sebebe istinaden en az altı ay süreli ikamet izni almış olup da bu izin süresi içerisinde çalışma izni verilmiş kilit personel için, Türkiye’nin dış temsilciliklerinden çalışma vizesi alması koşulu aranmaz.

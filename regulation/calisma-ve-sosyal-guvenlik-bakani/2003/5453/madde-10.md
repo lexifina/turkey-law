@@ -1,0 +1,18 @@
+Müracaatta Aranacak Belgeler
+Madde 10 —Özellik arzeden doğrudan yabancı yatırımlarda istihdam edilecek kilit personel statüsündeki yabancıların çalışma izinleri için aşağıdaki belgelerle müracaat edilir:
+a) Şirket veya şubenin "özellik arzeden doğrudan yabancı yatırım" olduğuna ilişkin bilgi ve belgeler:
+1) Yabancı ortakların toplam sermaye payının en az 400 milyar Türk Lirası olduğuna ilişkin belgeler (Defter kaydının şirket onaylı sureti, şirket onaylı bilançosu, Türkiye Ticaret Sicil Gazetesi fotokopisi gibi belgeler),
+2) Şirket veya şubenin yaptığı son yıl ihracat tutarının en az 1 milyon ABD Doları olduğuna ilişkin belgeler (İhracat bedeline ilişkin banka dekontu, banka yazısı, döviz alım belgesi fotokopisi, şirket onaylı gelir tablosu gibi belgeler),
+3) Şirket veya şubenin son yıl cirosunun en az 30 trilyon Türk Lirası olduğuna ilişkin belgeler (Şirket onaylı gelir tablosu gibi belgeler),
+4) Şirket veya şubede son yıl içinde Sosyal Sigortalar Kurumu’na kayıtlı en az 250 personelin istihdam edilmesi durumunda, bu durumu belgeleyen Sosyal Sigortalar Kurumu bordrosu gibi belgeler,
+5) Şirket veya şubenin yatırımda bulunacak olması halinde, öngörülen asgari sabit yatırım tutarının en az 10 trilyon Türk Lirası olduğunu belgeleyen Yatırım Teşvik Belgesi, Turizm Teşvik Belgesi gibi belgeler,
+6) Ana şirketin, merkezinin bulunduğu ülke dışında en az bir ülkede daha doğrudan yabancı yatırımı bulunduğunu gösteren Faaliyet Belgesi veya Faaliyet Raporu veya ilgili ülke resmi makamlarından alınacak yazı ile istihdam edilecek kilit personelin yurt dışındaki ana şirket tarafından görevlendirildiğine ilişkin görevlendirme yazısı.
+b) Yabancı personelin kilit personel olduğuna ilişkin bilgi ve belgeler:
+1) Kilit personelin tanımının yapıldığı 4 üncü maddenin (a) bendinde yer alanlar için (Mülga ibare:RG-6/7/2021-31533) Türkiye Ticaret Sicil Gazetesi fotokopisi, yönetim kurulu veya ortaklar kurulu kararı fotokopisi gibi belgeler,
+2) Kilit personelin tanımının yapıldığı 4 üncü maddenin (b) bendinde yer alanlar için bonservis ve tercümesi, diploma sureti ve tercümesi ile bu kapsamdaki personelin istihdam edileceği alana yönelik diğer belge ve bilgiler ve tercümesi (Örneğin ihracat elemanları için ülkeler bazında ihracatı gösteren ilgili bankaca onaylı banka dekontu, banka yazısı, döviz alım belgesi fotokopisi, şirket onaylı gelir tablosu gibi belgeler),
+c) İrtibat bürosu faaliyetleri için, son yıl içinde yurt dışından en az 200.000 ABD Doları veya karşılığı döviz getirilmiş olduğuna ilişkin belgeler (Büro yetkilisi için yetki belgesi ve döviz transferi ile ilgili banka dekontu, banka yazısı, döviz alım belgesi fotokopisi gibi belgeler),
+d) Her biri eksiksiz ve okunaklı biçimde doldurulmuş, işveren kaşesi ve yabancı personelin orijinal imzasını ve yabancı personelin vesikalık fotoğrafını içeren, Yabancıların Çalışma İzinleri Hakkında Kanunun Uygulama Yönetmeliği ekinde yer alan Yabancı Personel Bildirim Formu (4 adet),
+e) Yabancı Personel Bildirim Formunda işveren ve yabancı personelin her ikisinin de orijinal imzasının olmadığı durumlarda taraflar arasında yapılmış bireysel akit sözleşmesi veya işverence yapılan iş teklifinin işçi tarafından kabul edildiğine dair işe kabul belgesi veya onaylı sureti,
+f) Yabancı personelin ilgili Türk Konsolosluğundan veya noterden onaylı ve geçerlilik süresi dolmamış pasaport sureti ve tercümesi,
+g) Yabancı personelin Yabancıların Çalışma İzinleri Hakkında Kanunun Uygulama Yönetmeliği ekinde yer alan "özgeçmiş formatı"na uygun olarak doldurulacak özgeçmiş formu,
+h) İşveren tarafından hazırlanacak çalışma izni talep dilekçesi.
