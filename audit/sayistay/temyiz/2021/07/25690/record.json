@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49887",
+  "decision_date": "2021-07-07",
+  "source_id": 25690,
+  "chamber": "6",
+  "file_number": "47230",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25690/",
+  "source_sha256": "80ac5765c551a890a020ca161466352907b706d446f78e77310758db5c5cc0cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
