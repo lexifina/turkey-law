@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49888",
+  "decision_date": "2021-07-07",
+  "source_id": 25691,
+  "chamber": "6",
+  "file_number": "47228",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25691/",
+  "source_sha256": "53f9e8438191e0a0c48a4655cedbcda1b982ab838634157ea112126e383a46c0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
