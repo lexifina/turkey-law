@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "291",
+  "decision_date": "2021-07-08",
+  "title": "MEC.KAR.(TOROSLAR ÇAVUŞLU 3854 ADA 8-10-12 PARSELLER).doc",
+  "listed_as": "291 MEC.KAR.(TOROSLAR ÇAVUŞLU 3854 ADA 8-10-12 PARSELLER).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/291-meckartoroslar-cavuslu-3854-ada-8-10-12-parsellerdoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/08-temmuz-2021-meclis-kararlari",
+  "listing_sha256": "73f187c57ef34bc1d09c7553a4782a8e006a4bd42f42ee4e533e1b2806966fd4",
+  "meeting_title": "08 TEMMUZ 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
