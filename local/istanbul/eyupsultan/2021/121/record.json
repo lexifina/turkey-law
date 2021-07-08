@@ -1,0 +1,22 @@
+{
+  "number": "121",
+  "number_as_published": "2021/121",
+  "year": 2021,
+  "title": "Geçici izin belgesi",
+  "decision_date": "2021-07-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-temmuz-ayi-meclis-kararlari/2111",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-121/2114",
+  "source_sha256": "09ca72597fa7d864dbf3f190631c8e8f43555e1dd1df6fd51db4b183e4a3197b",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-07-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.07.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "fe6392859cfae0b5279bfadc0be71f8397ec5621429679f9e9fdf111f5bfe855"
+}
