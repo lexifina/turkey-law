@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-07-09T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-07-09",
+  "official_number": "76464994-130[KDV.2019.73]-93626",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31976",
+  "source_id": "ozelge:31976",
+  "source_row_sha256": "cf8d665add911b6443f97d2f661cc6fb8c4ed8743391ca9e356e3d26aa803c16",
+  "title": "Kur Farkında KDV Uygulaması",
+  "version_label": "as-enacted",
+  "word_count": 1227
+}
