@@ -1,0 +1,4 @@
+Mevcut önlem
+MADDE 6 – (1) ÇHC ve Rusya menşeli “halat ve kablolar” ürününe yönelik 1/12/2004 tarihli ve 25657 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2004/24) ile ÇHC menşeli olanlar için 1 ABD doları/kg, Rusya menşeli olanlar için ise 0,5 ABD doları/kg dampinge karşı önlem yürürlüğe konulmuştur.
+(2) 21/7/2010 tarihli ve 27648 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2010/22) ile tamamlanan birinci NGGS’de, yürürlükte olan dampinge karşı önlemin aynen uygulanmaya devam edilmesine karar verilmiştir.
+(3) 14/7/2016 tarihli ve 29770 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/31) ile tamamlanan ikinci NGGS’de, yürürlükte olan dampinge karşı önlemin kapsamının daraltılarak uygulanmaya devam edilmesine karar verilmiştir.
