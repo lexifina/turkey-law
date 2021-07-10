@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-07-10",
+  "issue": "31537",
+  "edition": "regular",
+  "item": 27,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2021/39)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210710-27.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210710.htm",
+  "index_sha256": "931d45223ecedd212afb1a9170f5834d56cbdcb947984583b93f315835472271",
+  "index_header": "10 Temmuz 2021 ... 31537 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210710.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
