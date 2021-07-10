@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-4269",
+  "number": "4269",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ÜRÜNLERİN PİYASA GÖZETİMİ VE DENETİMİNE DAİR ÇERÇEVE YÖNETMELİK",
+  "published": "2021-07-10",
+  "enacted": "2021-07-09",
+  "gazette_number": "31537",
+  "in_force": "2021-07-10",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2021-07-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4269&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "60f12fbcf58bfb6bdcf79edbeb69b3d4db6b7d09d86c70fa0f185f13f564e386",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

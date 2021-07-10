@@ -1,0 +1,3 @@
+İktisadi işletmecilerin bilgilendirilmesi
+MADDE 13- (1) Bakanlık, Kanun ve Kanunun uygulama mevzuatından kaynaklanan ürün gereklilikleri, bu kapsamda iktisadi işletmecilerin hakları, yükümlülükleri ile diğer kurallara ilişkin bilgileri ve yürürlükte olan teknik düzenlemelerin güncel listesini kendi internet sitesinde yayımlar.
+(2) Yetkili kuruluşlar, sorumlulukları altında bulunan ve yürürlükte olan teknik düzenlemelerin listesini bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir ay içerisinde Bakanlığa iletir. Yetkili kuruluşların sorumlulukları altında bulunan teknik düzenlemelere ilişkin listede bir değişiklik olduğunda, yetkili kuruluşlar bu değişikliği derhal Bakanlığa bildirir.

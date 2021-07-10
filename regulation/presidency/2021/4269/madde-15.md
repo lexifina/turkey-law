@@ -1,0 +1,22 @@
+Piyasa Gözetimi ve Denetimi Önlemleri ile İktisadi İşletmecilerin Usule İlişkin Hakları
+Yetkili kuruluşların görevleri
+MADDE 15- (1) Yetkili kuruluşlar;
+a) İlgili teknik düzenlemeler veya genel ürün güvenliği mevzuatı kapsamında fiziki olarak veya uzaktan iletişim araçları vasıtasıyla piyasaya arz edilen veya piyasada bulundurulan ürünlerin etkin piyasa gözetimi ve denetimini yapar.
+b) (a) bendinde belirtilen mevzuata ve bu Yönetmeliğe uygunluğun sağlanması amacıyla iktisadi işletmeciler tarafından uygun ve orantılı düzeltici önlem alınmasını sağlar.
+c) İktisadi işletmeciler tarafından düzeltici önlem alınmadığı, zamanında alınmadığı veya alınan önlemleri yetkili kuruluşun eksik veya yetersiz bulduğu veya iktisadi işletmecinin tespit edilemediği durumlarda, uygun ve orantılı önlemleri alır.
+(2) Yetkili kuruluşlar, yetkilerini kullanırken ve görevlerini yerine getirirken bağımsız, tarafsız ve önyargısız hareket eder.
+(3) Yetkili kuruluşlar, birinci fıkra kapsamındaki faaliyetlerinin bir parçası olarak, işaret veya belge kontrolleri veya duyusal inceleme yoluyla ve uygun durumlarda yeterli sayıda numuneye dayalı fiziksel ve laboratuvar kontrolleri aracılığıyla veya yerinde muayene ve test yoluyla etkin piyasa gözetimi ve denetimi sağlamak amacıyla kaynaklarını ve işlemlerini önceliklendirerek ve 29 uncu madde kapsamındaki ulusal piyasa gözetimi ve denetimi stratejisini dikkate alarak, ürünlerin özelliklerine uygun denetimleri, yeterli ölçekte ve sıklıkta yapar. Yetkili kuruluşlar, hangi denetimlerin hangi ürün gruplarında ve hangi ölçekte uygulanacağına karar verirken aşağıdaki hususları göz önünde bulundurarak riske dayalı bir yaklaşım takip eder:
+a) Ürünlerle ilgili olası tehlikeler ve uygunsuzluklar, ürünün sebep olduğu kaza veya yaralanma verileri, mümkünse bunların piyasadaki gerçekleşme sıklığı.
+b) İktisadi işletmecilerin kontrolü altındaki faaliyetler ve işlemler.
+c) İktisadi işletmecilerin geçmişe dönük uygunsuzluk kayıtları.
+ç) İlgili olduğu durumlarda, ithalat aşamasında gerçekleştirilen denetimlerde ortaya çıkan risk profili.
+d) Tüketici şikayetleri ile diğer kamu kurum ve kuruluşlarından, iktisadi işletmecilerden, medyadan veya uygunsuzluğu gösterebilecek diğer kaynaklardan alınan bilgiler.
+(4) Yetkili kuruluşlar, denetimi yapan birimlerine yönelik olarak numune alımı da dahil olmak üzere il veya bölge bazında denetime tabi olacak ürün, risk, firma ve benzeri verileri içeren sektörel denetim programları hazırlar, uygular ve bu programları periyodik olarak günceller. Programla ilgili genel bilgileri ve yapılan güncellemeleri kamuya duyurur ve Bakanlığın talebini müteakip bir ay içinde Bakanlığa gönderir.
+(5) Yetkili kuruluşlar, denetimleri fiilen yapan birimlerinin bölgelerine ilişkin ürün veya sektör bazlı firma verilerini merkez teşkilatına iletmesini ve bu verilerin periyodik olarak güncellenmesini sağlar.
+(6) İktisadi işletmeciler tarafından ürünlerinin ilgili teknik düzenlemelere uygunluğunu doğrulamak amacıyla 26/5/2021 tarihli ve 4022 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliği kapsamında akredite edilmiş uygunluk değerlendirme kuruluşlarınca veya ilgili mevzuatın gerektirdiği hallerde, yetkili kuruluşlar tarafından yetki verilmiş uygunluk değerlendirme kuruluşlarınca düzenlenen test raporları veya belgelerinin sunulması durumunda, yetkili kuruluşlar bu raporları veya sertifikaları dikkate alır. Türkiye’de veya karşılıklılık ilkesi saklı kalmak kaydıyla AB üyesi bir ülkede yerleşik bir uygunluk değerlendirme kuruluşunca verilmiş belgeler ve test raporları, kuruluşun yeterliliğine ilişkin gerekçelerle reddedilemez.
+(7) Yetkili kuruluşlar, ilgili teknik düzenlemeler veya genel ürün güvenliği mevzuatı kapsamındaki ürünlerle ilgili olarak;
+a) Riskler veya uygunsuzluklarla ilgili şikayetlerin veya raporların takip edilmesine,
+b) İktisadi işletmeciler tarafından yapılmış olması gereken düzeltici önlemlerin yapıldığının doğrulanmasına,
+ilişkin usul ve esasları belirler.
+(8) Yetkili kuruluşlar, AB üyesi ülkedeki muhataplarıyla iletişim ve koordinasyonu sağlamak amacıyla AB uyum mevzuatının uygulanması kapsamında kurulan idari işbirliği gruplarına katılım sağlar.
+(9) İlgili teknik düzenlemelerde yer alan korunma önlemleri kapsamında, bir AB üyesi ülkedeki bir yetkili kuruluşun kararına dayanarak uygun olmadığı kabul edilen ürünlerin, yetkili kuruluşlar tarafından yapılan soruşturmalarda aksine bir sonuç çıkmadıkça, uygun olmadığı varsayılır.

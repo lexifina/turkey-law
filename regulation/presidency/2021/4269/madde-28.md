@@ -1,0 +1,5 @@
+Piyasa Gözetimi, Denetimi ve Ürün Güvenliği Değerlendirme Kurulu
+MADDE 28- (1) Piyasa Gözetimi ve Denetimi Koordinasyon Kurulu tarafından hazırlanan plan ve programları değerlendirmek, etkin bir ithalat ve iç piyasa denetimi için temel hedef ve stratejilerle alınacak tedbirleri belirlemek ve bu amaçla üst düzeyde kararlar almak, ilgili kurumlar arasında işbirliğini ve eşgüdümü sağlamak üzere Piyasa Gözetimi, Denetimi ve Ürün Güvenliği Değerlendirme Kurulu oluşturulur.
+(2) Kurul, Ticaret Bakanının koordinatörlüğünde; yetkili kuruluşların en üst amirlerinin katılımıyla yılda en az bir defa toplanır.
+(3) Kurulun sekretarya hizmetleri Bakanlık tarafından yürütülür. Ticaret Bakanı, ihtiyaç halinde yetkili kuruluşlar dışındaki diğer kamu kurum ve kuruluşları, üniversiteler, özel sektör, sivil toplum ve meslek kuruluşlarını Kurulun çalışmalarına davet edebilir.
+(4) Üçüncü fıkra kapsamında ilgili kamu kurum ve kuruluşları, genel ekonomik hedefler, insan sağlığı ve güvenliği, kamu yararı doğrultusunda ürün güvenliği politika ve stratejilerinin uygulanması amacıyla Kurul tarafından yürütülecek çalışmalara katkı ve destek sağlar.

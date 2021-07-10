@@ -1,0 +1,2 @@
+İktisadi işletmeciler tarafından önlemlerin duyurulması
+MADDE 23- (1) Risk taşıyan ürünlerle ilgili olarak kendiliğinden veya yetkili kuruluşların talebi üzerine Kanunun ve bu Yönetmeliğin gerektirdiği önlemleri alan iktisadi işletmeci, bu önlemler ve ürünün içerdiği riskler hakkındaki bilgileri Kanunun 18 inci maddesi kapsamında duyurur. Duyuru, Kanunun 18 inci maddesinin birinci fıkrasında belirtilen asgari bilgileri içerecek şekilde yetkili kuruluşlarca belirlenen yöntem ve süre çerçevesinde yapılır.
