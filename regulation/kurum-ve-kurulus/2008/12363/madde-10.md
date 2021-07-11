@@ -1,0 +1,3 @@
+Seferberlik tatbikatlarına veya eğitimlerine katılan yedek erbaş ve erlere ödenecek harçlık
+MADDE 10 – (1) Seferberlik tatbikatlarına veya eğitimlerine katılan yedek erbaş ve erlere, tatbikat veya eğitim süresinin her günü için, 22/5/2003 tarihli ve 4857 sayılı İş Kanununa göre 16 yaşını doldurmuş bekâr işçilere uygulanmakta olan aylık net asgari ücretin otuzda biri tutarında ödeme yapılır.
+(2) Ancak ilgili mevzuat gereğince, seferberlik tatbikatı veya eğitimi süresince; görevli bulundukları kamu kurum veya kuruluşlarından, çalışmakta oldukları işyerlerinden veya Sosyal Güvenlik Kurumundan maaş, ücret veya aylıklarını tam olarak almaya devam eden yedek erbaş ve erlere bu maddeye göre harçlık ödenmez.
