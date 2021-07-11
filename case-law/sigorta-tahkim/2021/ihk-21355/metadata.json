@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2021/21355",
+  "award_date": "2021-07-11",
+  "heading_as_published": "11/07/2021 Tarih ve 2021/İHK-21355 Sayılı İtiraz Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 47 Temmuz - Eylül 2021",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs47.pdf",
+  "source_sha256": "010de30c086d67dfa10a9930e91f97febff089275819f6904e1c574710f6e8ca",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
