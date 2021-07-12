@@ -1,0 +1,23 @@
+{
+  "number": "449",
+  "number_as_published": "449",
+  "year": 2021,
+  "title": "Diğer Konular",
+  "decision_date": "2021-07-12",
+  "source": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari (form POST yil=2021&ay=07)",
+  "official_document": null,
+  "source_sha256": "06f2867d4f5a81a4cf807105d8756c09fea00cdaa018baf38e8bea3885ed36d2",
+  "issuer": "Denizli Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2021-07-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12-07-2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/kurumsal/belgeler/meclis-kararlari",
+  "subject_heading": "Diğer Konular"
+}
