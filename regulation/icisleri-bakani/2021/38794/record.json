@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38794",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AFET VE ACİL DURUM ARAMA VE KURTARMA BİRLİK MÜDÜRLÜKLERİ İLE İL AFET VE ACİL DURUM ARAMA VE KURTARMA EKİPLERİNİN KURULUŞU, GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38794",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/38794",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38794&MevzuatTertip=5",
+  "source_sha256": "a7a5bc23c70196278d2bcc106005ce6584e7948223e145f27bc34c4998bdc6d9",
+  "source_bytes": 87025,
+  "published": "2021-07-13",
+  "gazette": "31540",
+  "in_force": "2021-07-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.07.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
