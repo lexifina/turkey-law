@@ -1,0 +1,20 @@
+{
+  "applicant": "S.K.",
+  "application_date": "2018-07-16",
+  "application_number": "2018/24280",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2021-03-17",
+  "id": "d205fc8c-9f14-bef1-61e3-f139a6eb0d86",
+  "in_force": "2021-07-13",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2021-07-13",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmQyMDVmYzhjLTlmMTQtYmVmMS02MWUzLWYxMzlhNmViMGQ4Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f258004e8746000e92cdf24591294113fcb8aeb3bd5bc87301366a3225758113",
+  "version_label": "as-enacted"
+}
