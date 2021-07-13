@@ -1,0 +1,75 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 897349,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler / Temel Kanun Teklifleri",
+  "name": "ATAY USLU (ANTALYA)",
+  "summary": "Ve 23 Milletvekilinin Turizmi Teşvik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3517) (S. Sayısı: 255)",
+  "title": "Ve 23 Milletvekilinin Turizmi Teşvik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3517) (S. Sayısı: 255)",
+  "first_sitting_date": "2021-07-13",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 74,
+      "sitting": 102,
+      "sitting_date": "2021-07-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074102.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074fih.pdf",
+      "pages": [
+        "580",
+        "588:611",
+        "612:629",
+        "632:636",
+        "638",
+        "639:654"
+      ]
+    },
+    {
+      "cilt": 74,
+      "sitting": 103,
+      "sitting_date": "2021-07-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074103.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c074/tbmm27074fih.pdf",
+      "pages": [
+        "774:790",
+        "791:796",
+        "798:807",
+        "808:817",
+        "818:823",
+        "823:854"
+      ]
+    },
+    {
+      "cilt": 75,
+      "sitting": 105,
+      "sitting_date": "2021-07-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c075/tbmm27075105.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c075/tbmm27075fih.pdf",
+      "pages": [
+        "463:474",
+        "475:479",
+        "480:502",
+        "503:518",
+        "519:532",
+        "533:539",
+        "543",
+        "544:556"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=101&v_kullanici_id=27484797",
+  "source_sha256": "c9bbea1bd4e461fb5a6fa75bef0e22b922464ba12085c30ba27ec0e4bef17f00",
+  "in_force": "2021-07-13",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
