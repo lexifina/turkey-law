@@ -1,0 +1,24 @@
+{
+  "number": "343",
+  "number_as_published": "343",
+  "year": 2021,
+  "title": "NAZIM İMAR PLANI-(SIRRIN-HALİLİYE)",
+  "decision_date": "2021-07-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/11918/106/nazim-imar-plani-sirrin-haliliye",
+  "official_document": null,
+  "source_sha256": "f4fe5d4546db62b603a4fe064004ad34513eead85cbaf299f90013c5a7602642",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2021-07-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.07.2021 tarih ve 343 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2021-08-04",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=3"
+}
