@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49928",
+  "decision_date": "2021-07-14",
+  "source_id": 24227,
+  "chamber": "1",
+  "file_number": "47478",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24227/",
+  "source_sha256": "0ca0423513e8441df6b3020b8f1bfd2a9bd3a7d1acdd0e7741c6f9ed089c3d56",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
