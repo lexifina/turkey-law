@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49915",
+  "decision_date": "2021-07-14",
+  "source_id": 24203,
+  "chamber": "6",
+  "file_number": "46766",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2012",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24203/",
+  "source_sha256": "ffc3a0aa857229b8f0799f3ed9cd629584fd797702c395a01edf7e0a778c7703",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
