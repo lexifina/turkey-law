@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31541 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31541 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-07-14",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ulaştırma ve Altyapı Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-664-0.json",
+      "id": "664",
+      "label": "Ulaştırma ve Altyapı Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=664&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ulastirma-ve-altyapi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-07-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38800&MevzuatTertip=5",
+  "source_bytes": 40230,
+  "source_id": "9.5.38800",
+  "source_sha256": "1ad81c9be6258cc23db0aa225de0ff347fa5725e2c05516d2fc2a67f588c10d2",
+  "title": "KARAYOLUYLA YOLCU TAŞIMACILIĞI ALANINDA UYGULANACAK\r\nTAVAN ÜCRET TARİFESİ HAKKINDA TEBLİĞ",
+  "word_count": 518
+}
