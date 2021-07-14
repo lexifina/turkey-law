@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49910",
+  "decision_date": "2021-07-14",
+  "source_id": 24190,
+  "chamber": "8",
+  "file_number": "46269",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24190/",
+  "source_sha256": "e9f3600f3f6fa7a07d6fb5f9ee55d84d37ac3c09de445d47874a35dcb79d06a0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
