@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49922",
+  "decision_date": "2021-07-14",
+  "source_id": 24214,
+  "chamber": "1",
+  "file_number": "47304",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24214/",
+  "source_sha256": "bbec6aa8aac15f078f56a1368149f64c7ae490c439bc2b83b07591f2dffb0ecb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
