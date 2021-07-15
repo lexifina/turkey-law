@@ -1,0 +1,2 @@
+Mevcut uzman ve uzman yardımcıları
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte Bakanlıkta görev yapmakta olan uzman yardımcılarının yeterlik sınavları ve uzmanlığa atanmaları, 2/7/2018 tarihli ve 703 sayılı Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararnamenin geçici 1 inci maddesinin on sekizinci fıkrası gereğince bu Yönetmelik hükümlerine göre sonuçlandırılır.

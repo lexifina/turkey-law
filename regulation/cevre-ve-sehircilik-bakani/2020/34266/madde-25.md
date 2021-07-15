@@ -1,0 +1,4 @@
+Yeterlik sınav komisyonu, görevleri ve değerlendirme
+MADDE 25 – (1) Yeterlik sınav komisyonu, atamaya yetkili amirin uygun göreceği Bakan Yardımcısı veya görevlendireceği en az Genel Müdür Yardımcısı düzeyinde birinin başkanlığında, Daire Başkanı ve daha üst kadrolardaki personel ile en az bir Çevre ve Şehircilik Uzmanından olmak üzere, başkan dâhil beş üyeden oluşur. Belirtilen unvanlara sahip kişiler arasından üç kişi daha yeterlik sınav komisyonu yedek üyesi olarak belirlenir. Gerekmesi halinde birden fazla yeterlik sınav komisyonu kurulabilir.
+(2) Yeterlik sınav komisyonu; yazılı sınav sorularının hazırlanması ve cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevlidir.
+(3) Yeterlik sınav komisyonu, kararlarını oyçokluğu ile alır, oylamada çekimser oy kullanılamaz.

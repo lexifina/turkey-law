@@ -1,0 +1,2 @@
+Ek sınav hakkı ve başarısızlık hali
+MADDE 26 – (1) Yeterlik sınavına girmeye hak kazandığı halde sınavda başarılı olamayan veya sınava girmeye hak kazandığı halde geçerli mazereti olmaksızın sınav hakkını kullanmayanlara, bir yıl içinde ikinci kez sınav hakkı verilir. İkinci sınavda da başarı gösteremeyen veya sınav hakkını kullanmayan uzman yardımcısı, durumuna uygun memur unvanlı kadrolara atanır.
