@@ -1,0 +1,2 @@
+İrade beyanlarının birbirine uygun olması
+MADDE 14 – (1) Resmî senetteki irade beyanları açık olur. Kişiden kişiye değişik yorumlanacak kavramlara yer verilmez. Akdin türüne göre bütün esaslı noktalara yer verilir. Taraflardan birinin irade beyanında yer alan unsurların her birini, taraflardan diğerinin irade beyanı tam olarak karşılar. Bu suretle akdin konusuna ilişkin bütün noktalarda tarafların anlaşmış olmaları sağlanır.

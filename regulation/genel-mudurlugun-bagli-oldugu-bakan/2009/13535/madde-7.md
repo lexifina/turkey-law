@@ -1,0 +1,21 @@
+Resmî senedin içeriği
+MADDE 7 – (1) Resmî senette;
+a) Gerçek kişi olan tarafların akde bizzat katılmaları halinde, bunların kimlik bilgileri, vatandaşlık numaraları, (Mülga ibare:RG-8/7/2019-30825 Mükerrer) (…) tebligata esas adresleri ve imzaları,
+b) Gerçek kişi olan taraflar yapılacak işlemde temsil ediliyorsa, kanunî veya akdî temsilcilerinin ve temsil olunanın kimlik bilgileri, vatandaşlık numaraları ve temsilcinin (Mülga ibare:RG-8/7/2019-30825 Mükerrer) (…) tebligata esas adresleri ve imzaları,
+c) Ticaret şirketlerinin unvanları, kayıtlı oldukları ticaret sicil memurluğu ve ticaret sicil ve vergi numaraları, bu şirketleri temsile yetkili olan kişilerin kimlik bilgileri, vatandaşlık numaraları, tebligata esas adresleri ve imzaları,
+ç) Vakıfların unvanları ve vakıf sicil numarası, derneklerin unvanları ve dernek tescil numaraları ile bu tüzel kişileri temsile yetkili olan kişilerin kimlik bilgileri, vatandaşlık numaraları, tebligata esas adresleri ve imzaları,
+d) Akit sırasında hazır bulundurulmuş ise, tanıkların veya tercümanın kimlik bilgileri, vatandaşlık numaraları, tebligata esas adresleri ve imzaları,
+e) Resmî senedi hazırlayan, onaylayan, tescili yapan, akit öncesi ve tescil sonrası kontrolü yapan görevlilerin adları, soyadları, unvanları ve imzaları,
+f) Taşınmazı tanımlayan bilgiler (taşınmazın mahallesi veya köyü, pafta, ada ve parsel numaraları, var ise bağımsız bölüm numarası, yüzölçümü, hissesi, cinsi, sınırı, tapu kaydının cilt ve sayfa numaraları),
+g) Taşınmazı kısıtlayan hususlara ilişkin bilgiler (irtifak hakları, taşınmaz yükü, taşınmaz rehni, şerhler, beyanlar),
+ğ) Taşınmazın kayıtlı değeri veya emlak vergisi değeri ve/veya taşınmazın devri veya bir hakkın tesis ve devri için taraflar arasında kararlaştırılan bedel,
+h) Tarafların işlemlere ilişkin irade beyanları,
+ı) Tarafların kanunî yükümlülükleri kabulüne ilişkin açıklamaları,
+i) Tasarrufî işleme yönelik tescil talebini içeren irade beyanları,
+j) Resmî senedin düzenlenme yeri ve tarihi,
+k) Yevmiye tarihi ve numarası ile yevmiye saat ve dakikası,
+l) Tapu harcı, damga vergisi ve döner sermaye ücretine ilişkin bilgiler,
+m) Zorunlu deprem sigortası poliçesi düzenlenmesi gereken durumlarda, sigorta poliçesinin düzenlendiği sigorta şirketinin unvanı, poliçe tarihi ve numarası,
+n) Tapu senedi ve/veya ipotek belgesini teslim alanın adı, soyadı ve imzası,
+o) 2644 sayılı Tapu Kanununun 26 ncı maddesinin beşinci fıkrasına göre yetki devri yapılması halinde, yetki devrine ilişkin belirtme ve imza,
+yer alır.

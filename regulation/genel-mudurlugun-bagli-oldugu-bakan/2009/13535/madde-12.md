@@ -1,0 +1,2 @@
+Kanunî yükümlülüklere ilişkin konular
+MADDE 12 – (1) Geçmiş emlâk vergisi borcundan tarafların müteselsilen sorumlu olduklarına, yurtiçinden tebligat adresi gösterilmesi gerektiğine ve adres değişikliklerinin (Değişik ibare:RG-15/7/2021-31542) tapu müdürlüğüne bildirilmemesi halinde Tebligat Kanunu hükümlerine göre hareket edileceğini bildiklerine ilişkin tarafların kabullerini içeren açıklamalarına resmî senedin akit metni bölümünde yer verilir.

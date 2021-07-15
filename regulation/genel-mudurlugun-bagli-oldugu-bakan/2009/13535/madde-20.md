@@ -1,0 +1,3 @@
+Resmî senedin imzalanması
+MADDE 20 – (1) (Değişik:RG-8/7/2019-30825 Mükerrer) Resmî senede “okudum” ibaresinin yazdırılmasından sonra, aynı mürekkepli kalemle taraflar imza yerlerini imzalarlar. Taraflar arasında imzalama işi aynı anda yapılır. Tarafların imzası alındıktan sonra resmî senedi, müdür ve/veya görevlendirilen memur ve düzenleyen görevli de imza eder. Ayrıca müdür ve/veya görevlendirilen memur, daire mührü ile kendi imza yerini mühürler.
+(2) Resmî senet birden fazla sahifeden oluşuyor ise, resmî senedin her sahifesi akde katılan ve akit huzurunda yapılan kişiler tarafından ayrı ayrı imzalanır.

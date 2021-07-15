@@ -1,0 +1,3 @@
+Tescilden sonra kontrol
+MADDE 25 – (1) Müdür ve/veya görevlendirilen personel, tescil kontrolünü yapar. Tescil görevi ile tescili kontrol görevi aynı kişide birleşemez. Bu hüküm resmî senet düzenleme yetkisine sahip tek personel bulunan (Değişik ibare:RG-15/7/2021-31542) tapu müdürlüklerinde uygulanmaz.
+(2) Tescilde eksiklik ve yanlışlık bulunmuyorsa, kontrol işini yapan personel resmî senedin ilgili sütununa “tescil kontrolü yapıldı” ibaresiyle birlikte adını, soyadını yazarak imza eder. Tescilde eksiklik ve yanlışlık tespit edilmiş ise, 18/5/1994 tarihli ve 94/5623 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Tapu Sicili Tüzüğü hükümlerine göre hareket edilir.

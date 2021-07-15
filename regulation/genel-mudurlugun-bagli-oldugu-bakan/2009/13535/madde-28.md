@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Akdin daire dışında alınması
+MADDE 28 – (1) Taraflardan birinin (Değişik ibare:RG-15/7/2021-31542) tapu müdürlüğüne gelmesine engel bir durumu varsa ve müdürlükçe de uygun görülmesi halinde, akit daire dışında yapılabilir. Bu halde başvuru istem belgesinde adres ve varsa telefon numarası da belirtilir. Akdin yapılacağı yer, ilçe mülkî idari sınırlarıdır. Ancak; büyükşehir belediye teşkilâtının bulunduğu yerlerde, büyükşehir belediye sınırları esas alınır.
+(2) Müdür, iki tapu sicil görevlisini daire dışında işlem yapmaları için görevlendirir. Bu görevlendirme hazırlanan resmî senedin uygun bir yerine yazılır ve müdür tarafından imzalanır. Görevliler belirtilen adrese gittikten sonra, o taşınmaz malla ilgili kısıtlayıcı bir istem gelirse, bu durum telefonla veya memur gönderilerek görevlilere bildirilir. Taraflar akdi imza etmemiş ise, gelen kısıtlama taraflara görevliler tarafından bildirilir ve yevmiye defterine işlemden önce kaydedilir. Gelen kısıtlama, işlemin yapılmasına engel ise, müdür istemi reddeder.

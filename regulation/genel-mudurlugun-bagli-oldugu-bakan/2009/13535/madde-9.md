@@ -1,0 +1,4 @@
+Resmî senedi onaylayacak memurlar
+MADDE 9 – (1) (Değişik ibare:RG-15/7/2021-31542) Tapu müdürlüklerinde müdür olarak görev yapanlar ve müdürlük görevine vekâlet edenler resmî senedi onaylayarak akdi gerçekleştirir.
+(2) (Değişik ibare:RG-15/7/2021-31542) Tapu müdürünün yetki vermesi halinde ise, resmî senedi, taraflar ile hazırlayan (Değişik ibare:RG-15/7/2021-31542) tapu müdürlüğü görevlileri imzalar, görevlendirilen memur onaylayarak akdi gerçekleştirir.
+(3) 2644 sayılı Tapu Kanununun 26 ncı maddesinin ikinci fıkrasına göre, illerde bulunan (Değişik ibare:RG-15/7/2021-31542) tapu müdürlükleri dışındaki müdürlüklerden akitli ve akitsiz işlemleri 500’ün altında olan yerlerde, tapu hizmetlerini yürütmek üzere, Genel Müdürlük tarafından yakın il veya ilçelerde görevli (Değişik ibare:RG-15/7/2021-31542) tapu müdürü veya görevlendirilen yetkili memura veya memurlara belirli günlerde yetki verilebilir.

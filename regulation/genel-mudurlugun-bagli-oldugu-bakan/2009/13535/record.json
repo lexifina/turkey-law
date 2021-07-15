@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.13535",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAPU SİCİL MÜDÜRLÜKLERİNCE DÜZENLENEN RESMÎ SENETLERE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "13535",
+  "issuer": "Genel Müdürlüğün bağlı olduğu Bakan",
+  "issuer_slug": "genel-mudurlugun-bagli-oldugu-bakan",
+  "path": "regulation/genel-mudurlugun-bagli-oldugu-bakan/2009/13535",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13535&MevzuatTertip=5",
+  "source_sha256": "87f1bbdeb2e1b395728552d04dd59ceaaa2af9704b39d1a7960076ffc85673f7",
+  "source_bytes": 66508,
+  "published": "2009-11-10",
+  "gazette": "27402",
+  "in_force": "2021-07-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/7/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-07-15",
+      "RG-15/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-15",
+      "15/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3145,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.13535-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
