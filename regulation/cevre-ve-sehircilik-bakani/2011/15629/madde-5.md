@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Yarışma Sınavı ve Atamaya İlişkin Esaslar
+Yarışma sınavı
+MADDE 5 – (1) Uzman yardımcıları, mesleğe yarışma sınavı ile alınır. Yarışma sınavı, kadro ve ihtiyaç durumuna göre Bakanlıkça uygun görülen zamanlarda ve öğrenim dallarında sınav kurulu tarafından yapılır. Yarışma sınavının, yazılı ve sözlü olarak iki aşamalı veya yalnızca sözlü olarak yapılmasına sınav kurulunca karar verilir.
+(2) Yarışma sınavı; kadro ve ihtiyaç durumu gözetilerek, 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik hükümleri çerçevesinde, KPSS sonuçlarına göre, sınav ilânında belirtilen taban puan esas alınarak, giriş sınavına çağrılacak aday sayısı, atama yapılacak kadro sayısının yirmi katından, yalnızca sözlü sınav yapılması halinde sözlü sınava çağrılacak aday sayısı giriş sınavı duyurusunda belirtilen kadronun dört katından fazla olmamak üzere katılacak adaylar belirlenmek suretiyle yapılır.

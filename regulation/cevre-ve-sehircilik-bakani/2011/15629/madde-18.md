@@ -1,0 +1,3 @@
+Sınav kurulu
+MADDE 18 – (1) Sınav kurulu; (Değişik ibare:RG-16/10/2019-30920) ilgili Bakan Yardımcısının veya görevlendireceği en az Genel Müdür düzeyinde birinin başkanlığında, daire başkanı ve daha üst kadrolardaki personel ile fiilen en az on yıl çalışmış uzmanlardan, başkan dâhil olmak üzere beş üyeden oluşur. Ayrıca, aynı vasıfları haiz beş kişi yedek üye olarak belirlenir. İhtiyaç hâlinde, üniversite öğretim üyeleri arasından en fazla iki kişi, sınav kurulunda asil üye olarak görevlendirilebilir.
+(2) Sınav kurulunun asil ve yedek üyeleri (Değişik ibare:RG-16/10/2019-30920) Bakan tarafından belirlenir.

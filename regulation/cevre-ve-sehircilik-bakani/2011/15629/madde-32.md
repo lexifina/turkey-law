@@ -1,0 +1,3 @@
+Uzmanların ve uzman yardımcılarının eğitilmeleri
+MADDE 32 – (1) (Değişik:RG-30/10/2016-29873) Uzman yardımcılarına göreve başlamalarından itibaren bir yıl içerisinde (Değişik ibare:RG-16/10/2019-30920) bir aydan az (Değişik ibare:RG-16/10/2019-30920) üç aydan çok olmayacak şekilde hizmet içi eğitim verilir. Bakanlığın görev alanıyla ilgili verilecek eğitimin içeriği, (Değişik ibare:RG-16/10/2019-30920) Bakan Yardımcısının başkanlığında birim amirlerinden müteşekkil bir komisyon tarafından belirlenir. Bu komisyon Bakan Oluru ile kurulur.
+(2) Uzmanlar ve uzman yardımcıları Bakanlıkça uygun görülen kurum dışı kurs ve sertifika programı niteliğindeki eğitimlerden ve Bakanlıkça hazırlanan bir program dâhilinde yabancı dil eğitiminden faydalandırılabilirler.
