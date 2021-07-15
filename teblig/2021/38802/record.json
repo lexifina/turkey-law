@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38802",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 405)",
+  "number": "38802",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2021/38802",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38802&MevzuatTertip=5",
+  "source_sha256": "d15353059c6ebc48070cfe090857f536627fb826b13aef95961ed572bced60f0",
+  "source_bytes": 83585,
+  "published": "2021-07-15",
+  "gazette": "31542",
+  "in_force": "2021-07-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.07.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2364,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38802-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
