@@ -1,0 +1,2 @@
+Flama
+MADDE 10 – (1) Bakanlığın kurumlarını temsil eden flamalar atlas kumaştan yapılır. Flamanın dış yüzü Türk bayrağı rengindedir. Dış yüzün göndere temas eden üst köşesinde logo/amblemin yanı sıra okulun adı ve miladi tarihle okul/kurumun tesis tarihi siyah renkte temel büyük harflerle yazılır. Flamaların iç yüzünde Bakanlığın flama rengini temsil eden açık mavi renk ile kurum rengi dik üçgen şeklinde paylaşımlı olarak yer alır. Bakanlığı temsil eden flamanın her iki yüzünde de flama rengini temsil eden açık mavi renk kullanılır.

@@ -1,0 +1,5 @@
+Logo ve amblem
+MADDE 9 – (1) (Değişik:RG-22/2/2019-30694) Bakanlık kurumlarında kullanılan Bakanlık logosu tam bir daire şeklindedir. Dairenin tam ortasında sayfaları açılmış kitap, meşale, ortasında çember içinde Türk Bayrağı’nın Ay ve Yıldızı, çevresinde daire şeklinde “TÜRKİYE CUMHURİYETİ MİLLÎ EĞİTİM BAKANLIĞI” yazısı, tüm bunların çevresinde ise tarihteki bağımsız 16 büyük Türk Devleti’ni simgeleyen 16 yıldız yer alır. Logonun daire zemininin beyaz; kitap, meşale alevi, ay yıldız, yıldızlar ve yazıların kırmızı renkte olması esastır. Bunun dışındaki kullanım renkleri Bakanlıkça hazırlanan kılavuzda belirtilir. Bakanlık logosu her türlü kurum tanıtım uygulamalarında kullanılır. Logo uygulamalarında kurum renklerine yer verilebilir.
+(2) (Değişik:RG-22/2/2019-30694) Bakanlık amblemi kitap, meşale, ortasında çember içinde Türk Bayrağı’nın Ay ve Yıldızı, çevresinde tarihteki bağımsız 16 büyük Türk Devleti’ni simgeleyen 16 yıldızdan oluşur.
+(3) Bakanlık logo ve amblemi ile birlikte kurumların özelliklerine uygun logo ve amblemlere de yer verilebilir.
+(4) Bakanlık logo ve amblemini bağlı kuruluşlar ile özel öğrenci yurtları da kullanır.

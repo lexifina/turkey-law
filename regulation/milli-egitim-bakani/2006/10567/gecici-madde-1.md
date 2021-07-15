@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Logo, tabela ve kurum tanıtımına ait diğer uygulamalara, Yönetmeliğin yayımını izleyen 1 yılık süre içerisinde geçilir. Başlıklı kâğıt, dosya, zarf ve benzeri tüketim malzemelerinin kullanımına ise mevcut stokları tükeninceye kadar devam edilir. Yeniden basımda bu Yönetmelik hükümlerine göre işlem yapılır.
