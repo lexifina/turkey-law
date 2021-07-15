@@ -1,0 +1,2 @@
+Karar ve işlemler
+MADDE 8 – (1) Yapılan inceleme sonucunda, NGGS açılabilmesi için yeterli bilgi, belge ve delillerin bulunduğu anlaşıldığından, İthalatta Haksız Rekabeti Değerlendirme Kurulunun kararı ile ÇHC menşeli 8715.00.10.00.00 GTİP’i altında kayıtlı “bebek arabaları” ile 8715.00.90.00.00 GTİP’i altında kayıtlı “yalnızca bebek arabalarının şasileri” ürünlerine yönelik olarak Yönetmeliğin 35 inci maddesi çerçevesinde bir NGGS açılmasına karar verilmiştir.
