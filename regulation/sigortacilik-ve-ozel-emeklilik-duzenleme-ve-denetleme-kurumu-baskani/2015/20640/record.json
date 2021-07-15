@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.20640",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YILLIK GELİR SİGORTALARI YÖNETMELİĞİ",
+  "number": "20640",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2015/20640",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20640&MevzuatTertip=5",
+  "source_sha256": "620aff96aa95c114ac47a01d4249321c71ddefe961ad89ab4b2843996edcc74f",
+  "source_bytes": 37317,
+  "published": "2015-04-01",
+  "gazette": "29313",
+  "in_force": "2021-07-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/7/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-07-15",
+      "RG-15/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-15",
+      "15/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden altı ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1677,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

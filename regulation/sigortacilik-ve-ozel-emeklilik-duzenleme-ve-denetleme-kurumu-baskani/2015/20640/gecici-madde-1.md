@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girmesinden önce onaylanmış olan yıllık gelir sigortası tarife ve varsa kâr payı teknik esasları çerçevesinde bu Yönetmeliğin yürürlük tarihine kadar sözleşme akdedilebilir. Bahse konu tarihten sonrası için, bu Yönetmeliğin 4 üncü maddesi uyarınca (Değişik ibare:RG-15/7/2021-31542) Kurumca yeterli bulunan şirketler tarafından bu Yönetmelik hükümleri çerçevesinde hazırlanacak tarife ve varsa kâr payı teknik esaslarına göre yıllık gelir sigortası sözleşmesi akdedilebilecektir.

@@ -1,0 +1,3 @@
+Kurumsal internet sitesi üzerinden bilgilendirme zorunluluğu
+MADDE 6 – (1) Şirket kurumsal internet sitesinde; yıllık gelir sigortası ürünlerine ilişkin bilgileri sunmak ve sigorta ettirenlerin güvenli şekilde giriş yaptıkları alanlarda, yıllık gelir sigortası sözleşmelerinin teminatlarına, ödenen ve ödenecek irat tutarlarına, varsa kâr payı uygulamasına, matematik karşılık tutarlarına, yapılan kesintilere ve ürün kapsamında yer alan diğer güncel bilgilere erişebilmelerine imkan tanımak zorundadır.
+(2) (Değişik ibare:RG-15/7/2021-31542) Kurum, yıllık gelir sigortası ürünlerine ilişkin şirketlerin kurumsal internet sitelerinde yayımlanacak bilgilerin kapsam ve esaslarını belirleyebilir.

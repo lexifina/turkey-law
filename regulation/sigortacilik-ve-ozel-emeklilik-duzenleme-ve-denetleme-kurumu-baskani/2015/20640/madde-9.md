@@ -1,0 +1,4 @@
+Ölüm düzeyi (mortalite) tablosu
+MADDE 9 – (1) Yıllık gelir sigortalarına ilişkin tarife teknik esaslarında TRHA tablosu kullanılır. Şirketler, TRHA tablosunda sigortacılık prensipleri dahilinde ihtiyatlı bir şekilde değişiklik yapabilir. Hazırlanan tablo ve yapılan varsayımlara ilişkin hususları içeren aktüer onaylı rapor tarife teknik esaslarına eklenir.
+(2) (Değişik ibare:RG-15/7/2021-31542) Kurum, yıllık gelir sigortası ürünlerinde kullanılacak ölüm düzeyi tablosunu değiştirmeye ve kullanılabilecek tablolara yeni tablolar eklemeye yetkilidir.
+(3) Şirketler, uygulamaya konmadan on beş iş günü öncesinde tablo değişikliği ve varsayımlarını içeren aktüer onaylı rapor ile beraber (Değişik ibare:RG-15/7/2021-31542) Kuruma bilgi vermek kaydıyla, ihtiyatlı olarak seçtikleri farklı ölüm düzeyi tabloları kullanabilir.

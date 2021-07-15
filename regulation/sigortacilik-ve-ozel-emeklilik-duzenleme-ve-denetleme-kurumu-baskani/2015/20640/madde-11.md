@@ -1,0 +1,2 @@
+Sigortadan ayrılma
+MADDE 11 – (1) Şirket, 6102 sayılı Türk Ticaret Kanununun 1500 üncü maddesinin ikinci fıkrası uyarınca, sigortadan ayrılma talebi halinde sigortalının sağlıklı olduğunu ispat etmesini isteyebilir. Anılan Kanun hükmünün uygulanması durumunda, sigortadan ayrılma talebi halinde istenecek, sigortalının sağlık durumuna ilişkin yapılacak değerlendirmeye esas bilgi ve belgeler ile ilgili diğer hususlar poliçe ve bilgilendirme formunda açıkça belirtilir.
