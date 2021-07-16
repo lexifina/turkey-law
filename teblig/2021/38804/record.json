@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38804",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 530)",
+  "number": "38804",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/38804",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38804&MevzuatTertip=5",
+  "source_sha256": "c75a5f09720057566268cb51236129dc1940bc4473ac8e8cb2bd9271c7b55e9f",
+  "source_bytes": 214749,
+  "published": "2021-07-16",
+  "gazette": "31543",
+  "in_force": "2021-07-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.07.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5894,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38804-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

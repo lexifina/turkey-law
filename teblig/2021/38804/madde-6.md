@@ -1,0 +1,4 @@
+Yeniden değerlemeye esas değer
+MADDE 6 – (1) Yeniden değerleme, iktisadi kıymetlerin ve varsa bunlara ait amortismanların, 213 sayılı Kanunda yer alan değerleme hükümlerine göre tespit edilen ve mezkûr Kanunun geçici 31 inci maddesinin yedinci fıkrasının yürürlüğe girdiği 9/6/2021 tarihi itibarıyla yasal defter kayıtlarında yer alan değerleri üzerinden yapılır.
+(2) İktisadi kıymetlerden amortismana tabi olanlar için amortismanın herhangi bir yılda eksik ayrılması veya hiç ayrılmamış olması durumunda, yeniden değerlemeye esas alınacak değer, bu amortismanlar tam olarak ayrılmış varsayılarak belirlenir.
+(3) 213 sayılı Kanunun 272 nci ve 273 üncü maddeleri uyarınca maliyet bedeline intikal ettirilen giderler ile 163 ve 334 Sıra No.lu Vergi Usul Kanunu Genel Tebliğleri uyarınca maliyet bedeline dâhil edilen kredi faizleri ve kur farkları da yeniden değerleme kapsamına girmektedir.

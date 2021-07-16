@@ -1,0 +1,4 @@
+Yeniden değerleme yapılabilecek süre
+MADDE 8 – (1) Yeniden değerleme, uygulamadan yararlanma hakkını haiz mükelleflerin 9/6/2021 tarihi itibarıyla yasal defter kayıtlarında yer alan iktisadi kıymetler ve varsa bunlara ait amortismanlar esas alınmak suretiyle 31/12/2021 tarihine kadar yapılabilecektir.
+(2) Bahse konu uygulamadan yararlanılması için, söz konusu tarihe kadar yeniden değerleme işleminin yapılması ve değer artışına ilişkin verginin de yeniden değerleme işleminin yapıldığı tarihi izleyen ayın son günü akşamına kadar beyan edilip, üç eşit taksitte (ilk taksiti beyanname verme süresi içinde, izleyen taksitler sırasıyla beyanname verme süresini takip eden ikinci ve dördüncü ayda olmak üzere) ödenmesi zorunludur.
+(3) Beyanda bulunduktan sonra, anılan madde kapsamında yeniden değerlemeye tabi tutulmak istenen ilave iktisadi kıymetler için ek beyanname verilmesi mümkündür. Bu durumda da, yukarıda belirtilen şartlar aranır.
