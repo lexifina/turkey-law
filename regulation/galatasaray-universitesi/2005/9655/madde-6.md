@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+Madde 6 — Merkez, bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlarına ulaşmak için aşağıdaki faaliyetlerde bulunur:
+a) Radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi alanlarındaki gelişmeleri ve teknolojileri takip ederek bilimsel araştırma ve geliştirme faaliyetlerinde bulunmak,
+b) Radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi konusunda lisans ve lisansüstü düzeyde yapılacak proje çalışmalarına alt yapı oluşturmak,
+c) Radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi alanında yer alan ulusal ve uluslararası kamu ve özel kurum ve kuruluşlarla işbirliği faaliyetlerinde bulunmak,
+d) Radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi araçlarının eğitim, uzaktan eğitim, interaktif eğitim ve benzeri alanlarda kullanılmasına yönelik projeler geliştirmek ve uygulamak,
+e) Kurslar, seminerler, konferanslar, etkinlikler ve benzeri organizasyonlar düzenlemek,
+f) Radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi alanlarında kamu ve özel kuruluşlardan gelen taleplere yönelik olarak, araştırma-geliştirme çalışmalarında bulunmak ve ara eleman ihtiyacını karşılamaya yönelik eğitim çalışmalarını yürütmek,
+g) Bilimsel ve teknik faaliyetlerin yürütülmesi için her türlü proje çalışmaları yapmak, radyo, televizyon, çoklu ortam (multimedya), yazılı basın, haber ajansı, masaüstü yayıncılık, sinema, reklam ve halkla ilişkiler, pazarlama iletişimi alanlarındaki yayınları projelendirmek ve gerçekleştirmek.
