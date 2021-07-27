@@ -1,0 +1,6 @@
+Merkez müdürü
+MADDE 8 – (1) Merkez Müdürü; Merkezin genel çalışma alanı olan halkbilimi disiplininde Üniversitenin kadrolu öğretim elemanları arasından Rektör tarafından üç yıl için görevlendirilir. Görev süresi biten Merkez Müdürü, yeniden aynı usulle görevlendirilebilir.
+(2) Merkez Müdürü, çalışmalarında kendisine yardımcı olmak üzere, ilgili alanında araştırma yapan öğretim elemanlarından müdür yardımcılarını görevlendirmek üzere Rektörün onayına sunar. Müdüre çalışmalarında yardımcı olmak üzere ve Müdürün önerisi üzerine Yönetim Kurulu üyeleri arasından iki kişi üç yıl için Rektör tarafından Müdür Yardımcısı olarak görevlendirilir. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+(3) Merkez Müdürünün katılamadığı toplantılara, görevlendireceği müdür yardımcısı katılır ve Merkez Müdürlüğüne altı aya kadar vekâlet edebilir.
+(4) Merkez Müdürü, gerekli gördüğü hâllerde yardımcılarının değiştirilmesini teklif edebilir.
+(5) Merkez Müdürünün görevi sona erdiği zaman, yardımcılarının da görevi sona erer. Görevinden ayrılan müdür yardımcıları yerine kalan süreyi tamamlamak üzere yeni Müdür Yardımcıları görevlendirilir.
