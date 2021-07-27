@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdür, Müdür yardımcıları ile mermer ve doğal taş teknolojileri konusunda yayın ve çalışmaları bulunan Üniversite öğretim elemanları arasından Rektör tarafından görevlendirilecek üç üye olmak üzere toplam altı kişiden oluşur. Yönetim Kurulu üyelerinin görev süresi üç yıl olup, süresi biten üyeler yeniden görevlendirilebilir. Süresi dolmadan ayrılan veya altı aydan fazla görevlendirme sebebiyle toplantılara katılamayacak olan üyenin yerine, kalan süreyi tamamlamak üzere yine Müdürün teklifiyle Rektör tarafından yeni üye görevlendirilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+(2) Yönetim Kurulu, Müdürün çağrısı üzerine en az yılda bir defa salt çoğunlukla toplanır ve kararlar oy çokluğu ile alınır.
+(3) Müdür, Yönetim Kurulunun da başkanıdır. Müdürün yokluğunda bu görevi, Müdüre vekâlet eden Müdür yardımcısı yürütür.
