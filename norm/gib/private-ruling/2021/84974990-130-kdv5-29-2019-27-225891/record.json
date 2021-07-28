@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-07-28T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-07-28",
+  "official_number": "84974990-130[KDV5.29.2019.27]-225891",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27064",
+  "source_id": "ozelge:27064",
+  "source_row_sha256": "316083435700a7be95d7ead0443b12ba2d97daee0d47200e191bf0bef21ca111",
+  "title": "Kamudan olan alacakların iskonto uygulanmak suretiyle tahsilinde feragat edilen tutarın değersiz alacak sayılıp sayılmayacağı",
+  "version_label": "as-enacted",
+  "word_count": 1610
+}
