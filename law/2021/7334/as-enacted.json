@@ -1,0 +1,20 @@
+{
+  "record_type": "law-as-enacted-text",
+  "number": "7334",
+  "year": 2021,
+  "title": "Turizmi Teşvik Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "file": "as-enacted.txt",
+  "gazette": "Resmî Gazete",
+  "published": "2021-07-28",
+  "gazette_issue": "31551",
+  "edition": "regular",
+  "source": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210728-2.htm",
+  "source_sha256": "292082087830e84e9f5a177c2eb0b87de0a43b81853f50d53c862837f20c5bb2",
+  "text_sha256": "d02acfc6f928d5bdb1838c81d2acbdc44f7f51f39d81565675e7cfba2fd3e3a3",
+  "text_status": "as-published",
+  "gazette_item": "gazette/2021/07/28/31551-2",
+  "item_link": "https://www.resmigazete.gov.tr/eskiler/2021/07/20210728-2.htm",
+  "link_format": "htm",
+  "extraction": "html.parser block text == regex tag strip + unescape (letters)",
+  "in_force_basis": "Resmî Gazete publication date of the as-enacted text; commencement not asserted (the law states its own entry into force)"
+}
