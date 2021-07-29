@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10339-2",
+  "decision_date": "2021-07-29",
+  "title": "Doğal Gaz Dağıtım Şirketlerinin Uygulayacakları Sistem Kullanım Bedellerinin Hesaplanmasına İlişkin",
+  "resmi_gazete_date": "2021-07-31",
+  "resmi_gazete_number": "31554",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3pSpiXKRELA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3pSpiXKRELA="
+  ],
+  "source_sha256": "08dd5c7ef7496d02e1c0e3cb0ff2cadf4673e67e8abd4c9b67d9dc3862fb2ae0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-07-29",
+  "law_text_complete": true
+}
