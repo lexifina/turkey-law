@@ -1,0 +1,29 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10338",
+  "decision_date": "2021-07-29",
+  "title": "Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Karar",
+  "resmi_gazete_date": "2021-08-03",
+  "resmi_gazete_number": "31557",
+  "categories": [
+    "Bayi Denetim Sisteminin Kurulması ve Uygulanması için Tüzel Kişilerin Yetkilendirilmesi Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N3LFAIS0ew4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=N3LFAIS0ew4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=UFclJGEdre0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HneGokv6k58=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QBVo2d6+SsQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kqkD8v3DvNM="
+  ],
+  "source_sha256": "1eb8a1329d7c8387a4c5af753d734f7084741623dfdf42510f966ebf8c636437",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27578,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-07-29",
+  "law_text_complete": true
+}
