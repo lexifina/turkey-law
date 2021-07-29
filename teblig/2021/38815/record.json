@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38815",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 88)",
+  "number": "38815",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/38815",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38815&MevzuatTertip=5",
+  "source_sha256": "68c221af7a1f2fa7b524fc3ce03ea85e089a60ea4997c5ab9d8262e5e1a66677",
+  "source_bytes": 15201,
+  "published": "2021-07-29",
+  "gazette": "31552",
+  "in_force": "2021-07-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.07.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 696,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38815-Ek.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

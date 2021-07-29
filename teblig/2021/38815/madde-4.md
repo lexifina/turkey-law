@@ -1,0 +1,2 @@
+Yapı kullanma izninin valilikler ve diğer kurum/kuruluşlarca verilmesinde cins tashihi harcının tahsili
+MADDE 4 – (1) Yapı kullanım izninin belediyeler dışında valilikler ve diğer kurum/kuruluşlarca verildiği durumlarda, cins tashihi harçlarının vergi dairelerince tahsiline 14/3/2009 tarihli ve 27169 sayılı Resmî Gazete’de yayımlanan Harçlar Kanunu Genel Tebliği (Seri No: 59)’nde belirlenen usul ve esaslar çerçevesinde devam edilir.
