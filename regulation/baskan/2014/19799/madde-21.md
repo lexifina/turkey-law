@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Yükümlülükler ve Eşgüdüm
+Kurumsal yükümlülükler
+MADDE 21 – (1) Başkanlık; Kurul adına Türkiye Burslarına ilişkin iş ve işlemlerin koordinasyonu ve yürütülmesinden sorumlu olup Türkiye Bursları kapsamında burslandırılarak yerleştirilmesi yapılan öğrencilerin bilgilerini gerektiğinde, Dışişleri Bakanlığı, İçişleri Bakanlığı, (Değişik ibare:RG-30/7/2021-31553) Kredi ve Yurtlar Genel Müdürlüğü ve YÖK başta olmak üzere ilgili kurumlarla paylaşır. Söz konusu kurumlar öğrencilerle ilgili işlemlerde bu bilgileri esas alırlar.
+(2) Dışişleri Bakanlığı; burs programlarının duyurulması, başvuru, sınav ve değerlendirme sürecine ilişkin gerekli desteğin sağlanması, kazanan adaylara ait belgelerin tasdik edilmesi, dosyaların ilgili kurumlara gönderilmesi, adayların vize/ikamet izni işlemlerinin yapılması, burslu öğrencilerin ülkelerinde bulundukları esnada belirli bir süreliğine ya da sürekli olarak öğrenimlerine devam etmelerine engel teşkil eden bir durumun olması halinde sunulan bilgi ve belgelerin ilgili kurumlara gönderilmesi işlemlerinden sorumludur.
+(3) İçişleri Bakanlığı; burs kazanan adayların vize/ikamet izni işlemlerinin yürütülmesi ve yabancılarla ilgili mevzuata dair diğer işlemlere ilişkin gerekli düzenlemelerin yapılmasından sorumludur.
+(4) YÖK; üniversitelerdeki kontenjan ve bölümlerin bildirilmesi, adayların üniversitelere yerleştirilme işlemlerinin ve uygulamaya ilişkin diğer akademik işlemlerin yürütülmesinden sorumludur.
+(5) Üniversiteler; öğrencilerin kayıt ve akademik işlemlerinin yürütülmesinden ve uluslararası öğrenci ofisleri aracılığıyla öğrencilerin akademik, sosyal ve kültürel ihtiyaçlarının karşılanmasından sorumludur.
+(6) İlgili kamu kurum ve kuruluşları Türkiye Burslusu öğrencilerin muhatap olduğu süreçlerin kolaylaştırılması konusunda gerekli tedbirleri alır.

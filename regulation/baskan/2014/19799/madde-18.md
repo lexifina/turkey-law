@@ -1,0 +1,3 @@
+Bursluluk işlemleri
+MADDE 18 – (1) Bursluluk sürecinin başlangıcından sonuna kadar geçen süre içerisinde öğrencinin bursluluk durumunu ilgilendiren her türlü uygulama, açık ve anlaşılır bir şekilde düzenlenir ve öğrencilerin kolayca ulaşabileceği bir ortamda sunulur. Başkanlık veya ilgili kamu kurumları öğrencinin bursluluk durumunu etkileyen her türlü bilgi ve belgenin doğrudan kaynağından temin edilmesine yönelik tedbirleri alır.
+(2) İdari süreçlerin etkin bir şekilde yürütülmesi amacıyla, öğrencinin vize, ikamet tezkeresi, kayıt, ödemeler, izin ve benzeri işlemlerine ilişkin her türlü tedbir Başkanlık ve ilgili kamu kurumları tarafından alınır.

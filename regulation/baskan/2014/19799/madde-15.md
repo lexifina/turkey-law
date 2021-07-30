@@ -1,0 +1,4 @@
+Türkçe öğretimi
+MADDE 15 – (1) Öğrenciler, ilk yıl Türkçe öğretimine tabi tutulurlar. Ancak adaylardan Başkanlık tarafından talep edilen düzeyde Türkçe bilen ve bu durumu geçerli bir belge ile belgelendirenler bu eğitimden muaf tutulurlar.
+(2) Başkanlık ve ilgili kurumlar adayların yerleştirildikleri bölüm ve programları göz önünde bulundurarak düzeyleri için gerekli seviyede Türkçe öğrenmeleri hususunda her türlü tedbiri alır.
+(3) (Ek:RG-30/7/2021-31553) Başkanlıkça uygun görülmesi halinde, yabancı dilde eğitim verilen bölüm/programlara yerleştirilen öğrenciler, talep edilen düzeyde Türkçe dil yeterlilik belgesini burslandırıldıkları düzeyde eğitimlerini tamamlamadan önce Başkanlığa sunmaları kaydıyla, Türkçe öğretimine tabi olmadan doğrudan bölüm/programlarında eğitimlerine başlayabilir.

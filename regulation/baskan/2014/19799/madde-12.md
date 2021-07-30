@@ -1,0 +1,4 @@
+Başvuru
+MADDE 12 – (1) Türkiye Burslarına başvurular, başarılı öğrencilerin Türkiye’yi tercih etmelerine yardımcı olacak şekilde, doğru zaman ve yöntemle alınır. Başvurular herkesçe ulaşılabilir bir şekilde, kolay ve anlaşılabilir bir yöntemle elektronik ortamda alınır.
+(2) (Değişik:RG-30/7/2021-31553) Elektronik ortamda başvurunun mümkün olmadığı durumlarda elden başvuru alınması Başkanlık kararı ile mümkündür.
+(3) (Değişik:RG-30/7/2021-31553) Burs programlarına yalnızca yabancı uyruklular başvurabilir. Türk vatandaşları, Kuzey Kıbrıs Türk Cumhuriyeti vatandaşları hariç çifte vatandaşlıklarından biri Türk vatandaşlığı olanlar ya da herhangi bir sebeple Türk vatandaşlığını kaybetmiş olanlar, Türkiye Burslarından faydalanamazlar. Burslu iken Türkiye Cumhuriyeti vatandaşlığı kazananların durumu ise Başkanlık tarafından özel olarak değerlendirilir ve bursluluğun devamı ya da iptaline karar verilir.
