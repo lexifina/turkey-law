@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 4814.20.00.00.00, 4814.90.10.00.00 ve 4814.90.70.10.00 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 9/7/2021 tarihli ve 4247 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Duvar Kâğıdı ve Benzeri Duvar Kaplamaları İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması için açılan tarife kontenjanının kullanım usul ve esaslarını düzenlemektir.
