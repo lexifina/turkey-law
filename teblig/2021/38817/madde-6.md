@@ -1,0 +1,2 @@
+Mevcut önlem
+MADDE 6 – (1) ÇHC menşeli 73.04 GTP altında yer alan ve tam listesi Ek’te verilen “demir (dökme demir hariç) ve çelikten dikişsiz çekme borular” ürününe yönelik 4/8/2016 tarihli ve 29791 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/35) ile üretici/ihracatçı firma bazında 100 ABD doları/ton ile 120 ABD doları/ton arasında değişen tutarlarda dampinge karşı kesin önlemler yürürlüğe konulmuştur.
