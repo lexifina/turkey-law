@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.20617",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ATIKLARIN KARAYOLUNDA TAŞINMASINA İLİŞKİN TEBLİĞ",
+  "number": "20617",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2015/20617",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=20617&MevzuatTertip=5",
+  "source_sha256": "dac2fbf4f787355ade26b01cb7a8799db883c5b9c4d077d3e431e16cf5d4c368",
+  "source_bytes": 83658,
+  "published": "2015-03-20",
+  "gazette": "29301",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4535,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.20617-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

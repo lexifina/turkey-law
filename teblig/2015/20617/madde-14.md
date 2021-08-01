@@ -1,0 +1,11 @@
+Lisans alacak firmaların araçlarında aranacak şartlar
+MADDE 14 – (1) Lisans alacak araçlar için aşağıdaki şartlar aranır;
+a) Lisans başvuru tarihinde atık taşıyacak araçların yaşı ilk tescil tarihinden itibaren 10’dan büyük olamaz. Karayolları Trafik Yönetmeliğinde yer alan “M” kategorisi araçlar ve “O” kategorisi araçlar hariç motorsuz araçlara lisans belgesi düzenlenmez.
+b) Atık taşıma lisansı düzenlenecek olan aracın, Karayolu Taşıma Yönetmeliği hükümlerine uygun olarak verilmiş geçerli yetki belgesine (C1/C2/K1/K2/L1/L2/N1/N2) kayıtlı olması gerekir.
+c) Lisanslı araçlarda mobil cihaz bulunması zorunludur.
+ç) Tıbbi atıkların taşınacağı araçların bu Tebliğin ek-4’ünde belirtilen teknik özelliklere sahip olması gerekir.
+d) Taşınan atığın fiziksel ve kimyasal özelliğini içeren bilgi ve acil durumda kullanılacak gerekli malzeme ile acil durumlarda uygulanmak üzere alınacak tedbirlere ilişkin talimatname araçlarda bulundurulur.
+e) Taşımada konteyner kullanılması halinde konteynerlerin zemini sızıntılara karşı yüksekliği en az 10 cm olan ızgara sistemi ile donatılır. Konteynerlere lisans düzenlenmemekle birlikte kayıt altına alınması amacıyla konteyner üzerine il müdürlüklerince belirlenen sıra numarası dikey yüksekliği en az 20 cm olacak şekilde firmalarca yazdırılır. Konteynerlere verilecek sıra numaraları “taşıma firma lisans numarası - konteyner sıra numarası” şeklinde düzenlenir. Konteyner taşıyan araç lisanslandırılır.
+f) Araçlarda gerekli koruyucu malzeme olarak eldiven, önlük, emniyet gözlüğü, koruyucu maske, emniyet ayakkabısı, kuru kimyevi tozlu yangın söndürme cihazı, saçılma ve dökülmelere karşı temizleme kiti bulundurulur.
+g) Tıbbi atık taşıma aracı hariç olmak üzere taşıma aracı kasasının veya tankerin yanlarında ve arka kısmında olmak üzere dikey yüksekliği en az 20 cm olan “Atık Taşıma Aracı” ibaresi bulundurulur. Firma logosu ve reklamları tehlikelilik işaretlerini kapatacak büyüklükte olamaz.
+ğ) Tıbbi atık taşıma araçlarının dış yüzeylerinin turuncu renkli olması, sağ, sol ve arka yüzeylerinde görülebilecek uygun büyüklükte ve siyah renkli Tıbbi Atıkların Kontrolü Yönetmeliğinde örneği yer alan “Uluslararası Biyotehlike” amblemi ile siyah harfler ile yazılmış “DİKKAT! TIBBİ ATIK” ibaresinin bulunması zorunludur.
