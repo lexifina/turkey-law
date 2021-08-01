@@ -1,0 +1,4 @@
+MADDE 10 – İNŞAATIN VE İŞLETMENİN KONTROLÜ
+Taşınmaz maliki idare inşaat aşamasında ve işletme süresince kullanma izni verilen taşınmazın üzerindeki bütün yapı ve tesisleri kontrol etmeye veya ettirmeye yetkilidir. Bu sırada belirlenecek hata ve noksanlıklar, taşınmaz maliki idarece saptanacak süre ve şartlarla izin sahibince tamamlanır.
+İnşaatın belirlenen süre içerisinde projeye uygun olarak tamamlanmasını müteakip, taşınmaz maliki idarenin yapacağı kontrollerde tesisin onarımının gerektiği saptandığı takdirde masrafı izin sahibi tarafından karşılanmak koşuluyla gerekli onarım izin sahibince yapılır ve taşınmaz maliki idareden hiçbir bedel talebinde bulunulamaz.
+Taşınmaz maliki idare tarafından işletme süresince 4706 sayılı Kanunun ek 3 üncü maddesinde, Kamu Taşınmazlarının Yatırımlara Tahsisine İlişkin Usul ve Esaslarda ve sözleşmesinde yer alan hükümlere uyulup uyulmadığı her zaman denetlenebilir.

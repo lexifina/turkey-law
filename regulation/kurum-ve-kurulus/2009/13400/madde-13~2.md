@@ -1,0 +1,2 @@
+MADDE 13 – ALINMASI GEREKEN ÖNLEMLER
+Kullanma iznine konu edilen yer bina ise; izin sahibi sabotaj, yangın gibi tehlikelere karşı her türlü tedbiri almak, taşınmazı sigorta ettirmek, temiz bulundurmak, gerektiği takdirde binanın genel görünüm ve ahengine uygun biçimde boya ve badana gibi onarımları yapmak, arsa veya arazi ise; değerini düşürmeyecek, özelliğini, verim gücünü bozmayacak önlemleri almak, tedbirsizlik, dikkatsizlik, ihmal, kusur gibi nedenlerle meydana gelecek zarar ve ziyanı ödemek zorundadır.

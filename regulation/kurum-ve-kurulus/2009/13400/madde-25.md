@@ -1,0 +1,2 @@
+İrtifak hakkı ve kullanma izni süresinin sona ermesi
+MADDE 25 – (1) İrtifak hakkı ve kullanma izni, sözleşme süresi sonunda sona erer. Bu durumda; makine, teçhizat ve demirbaşlar hariç diğer yapı ve tesisler taşınmaz maliki idareye intikal eder. Bundan dolayı hak lehtarı veya kullanma izni sahibi ile üçüncü kişilerce herhangi bir hak ve talepte bulunulamaz. Ancak, yatırımcının talep etmesi halinde, üzerindeki yapı ve tesisler dikkate alınmak suretiyle genel hükümlere göre bedeli karşılığında doğrudan irtifak hakkı tesis edilir veya kullanma izni verilir.

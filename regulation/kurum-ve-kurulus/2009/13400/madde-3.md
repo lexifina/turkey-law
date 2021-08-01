@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Usul ve Esaslar, 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun Ek 3 üncü maddesi ile (Değişik ibare:RG-16/10/2012-28443) 15/6/2012 tarihli ve 2012/3305 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yatırımlarda Devlet Yardımları Hakkında Karara dayanılarak hazırlanmıştır.

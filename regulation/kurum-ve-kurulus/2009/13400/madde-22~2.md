@@ -1,0 +1,3 @@
+MADDE 22 – DAVALARLA İLGİLİ YAPILACAK İŞLEMLER
+Kullanma izni ile ilgili olarak açılmış ya da açılacak her türlü davaya ilişkin husumeti izin sahibi karşılayacak, açılan davaları öğrendiği tarihten itibaren on beş gün içinde yazılı olarak taşınmaz maliki idareye bildirilir. Bildirilmemesinden dolayı taşınmaz maliki idare aleyhine doğabilecek her türlü zarar ve ziyandan izin sahibi idareye karşı sorumludur.
+Ayrıca, üzerinde kullanma izni verilen taşınmazla/alanla ilgili olarak izin sahibi aleyhine açılacak her türlü dava izin sahibi tarafından 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu hükümleri uyarınca on beş gün içinde taşınmaz maliki idareye ihbar edilir.

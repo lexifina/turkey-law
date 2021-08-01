@@ -1,0 +1,3 @@
+MADDE 22 – DAVALARLA İLGİLİ YAPILACAK İŞLEMLER
+İrtifak hakkı ile ilgili olarak açılmış ya da açılacak her türlü davaya ilişkin husumeti hak lehtarı karşılayacak, açılan davaları öğrendiği tarihten itibaren on beş gün içinde yazılı olarak idareye bildirilecektir. Bildirilmemesinden dolayı idare aleyhine doğabilecek her türlü zarar ve ziyandan hak lehtarı taşınmaz maliki idareye karşı sorumludur.
+Ayrıca, üzerinde irtifak hakkı tesis edilen taşınmazla ilgili olarak hak lehtarı aleyhine açılacak her türlü dava hak lehtarı tarafından 18/6/1927 tarihli ve 1086 sayılı Hukuk Usulü Muhakemeleri Kanunu hükümleri uyarınca on beş gün içinde taşınmaz maliki idareye ihbar edilir.

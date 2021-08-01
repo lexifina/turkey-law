@@ -1,0 +1,89 @@
+{
+  "source_id": "7.5.13400",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU TAŞINMAZLARININ YATIRIMLARA TAHSİSİNE İLİŞKİN USUL VE ESASLAR",
+  "number": "13400",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2009/13400",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13400&MevzuatTertip=5",
+  "source_sha256": "cc8b058ac47bfefed5ffd6fd47a95eeb26070c76d014cf013c9d6df52f1fee8b",
+  "source_bytes": 488644,
+  "published": "2009-09-03",
+  "gazette": "27338",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-12-28",
+      "RG-28/12/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-12-28",
+      "28/12/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-11-15",
+      "RG-15/11/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-11-15",
+      "15/11/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-10-16",
+      "RG-16/10/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-10-16",
+      "16/10/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-07-29",
+      "RG-29/7/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-07-29",
+      "29/7/2010",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2001-06-29",
+      "29/6/2001",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "1953-07-21",
+      "21/7/1953",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11075,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
