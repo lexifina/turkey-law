@@ -1,0 +1,4 @@
+Ödül ve ikramiyeler
+MADDE 13 – (1) Personele verilecek ödül ve ikramiyelerin ödenmesinde Çeşitli Ödemeler Bordrosu (Örnek :12) ile birlikte, aşağıda belirtilen belgeler ödeme belgesine eklenir.
+a) 657 sayılı Devlet Memurları Kanunu hükümleri uyarınca emsallerine göre başarılı görev yapan devlet memurlarına verilecek ödüllerde; (Değişik ibare:RG-23/5/2019-30782) Belediyeler ve bunların bağlı idareleri ile belediyelerin kurduğu birlikler için Çevre ve Şehircilik Bakanı, il özel idareleri ve bunların kurdukları birlikler için İçişleri Bakanı, belediyeler ve il özel idarelerinin müştereken kurdukları birlikler için İçişleri Bakanı ve Çevre ve Şehircilik Bakanının ayrı ayrı onayı, ilave olarak birer aylık daha ödül verilmesi gereken hallerde (Değişik ibare:RG-23/5/2019-30782) Cumhurbaşkanı onayı,
+b) İlgili mevzuatı gereği personele verilecek ödül ve ikramiyelerin ödenmesinde; ilgili mevzuatında belirtilen yetkili makam onayı veya kararı.
