@@ -1,0 +1,5 @@
+Görev ve Yetkileri
+Madde 12- Komisyon, Bu Yönetmelikte yazılı esasları göz önünde tutarak karne isteğinde bulunanların sicillerini ve belgelerini inceleyerek aşağıda yazılı hususlar hakkında karar verir.
+a) Belgelerde belirtilen işlerin niteliği, müteahhitlik sicili, mesleki öğrenimi ve işteki başarı derecesine göre karnenin verilip verilmeyeceğini, verilecek veya değiştirilecek karnenin grubunu tespit eder.
+b) Maddi bir hata yapıldığı veya belgelerinin geçersizliği sonradan anlaşılan bir müteahhide ait karneyi Komisyon geri ister, düzeltir veya hükümsüz olduğunu karara bağlar,
+c) Üç yıllık karne dönemi içerisinde, idareye verdiği belgelerde, yaptığı işlerde malzeme ve işçilikte hile yapıldığı veya fen ve sanat kurallarına uymadığı tespit edilenlerin, ihaleye fesat karıştırmış olanların, Harita Müteahhitlik Karnesi isteğinde gerçeğe uymayan veya tahrif edilmiş belgeleri verdikleri veya karnelerini muvazaatı şekilde kullandıkları başvuru sırasında veya sonradan anlaşılanların karnelerinin süreli veya süresiz iptaline karar verir.

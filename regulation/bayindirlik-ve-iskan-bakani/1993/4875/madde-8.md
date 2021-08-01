@@ -1,0 +1,6 @@
+Yeterlik Belgesi Komisyonunun Görevleri
+Madde 8- Komisyon ihale ilanını şartnamesine göre ve bu Yönetmeliğin 9. maddesinde belirtilen belgelerle müteahhidin bitirmiş ve yapmakta olduğu işlerdeki tutum ve başarısını, taahhüt etmiş olduğu işlerin türünü ve her yönden iş kapasitesini inceler ve yapacağı değerlendirmeye göre istekliye yeterlik belgesi verilip verilmeyeceğini karara bağlar. Diğer şartlar tamam ve yerine getirilmiş olsa dahi;
+a) Bu Yönetmeliğin 9. maddesinde belirtilen belgelerin gerçek dışı olduğu anlaşılanlara,
+b) Yeterlik belgesi aldığı halde ihaleye katılmamayı ve teklif vermemeyi alışkanlık haline getirenlere,
+c) Taahhüt işlerinden doğan, idarece tespit edilmiş ve ita amiri tarafından onaylanmış borcunu süresi içinde ödemeyenlere,
+d) Son üç yıl içinde idareye karşı taahhüt etmiş oldukları herhangi bir işe ait sözleşmeleri, yürürlükteki kanun, tüzük, yönetmelik ve kararnamelerin cezasız feshi ile ilgili hükümleri dışında kalan ve kendi kusurlarından kaynaklanan nedenlerle feshedilenlere, Bir yıl süre ile yeterlik belgesi verilmez. İdareler (c) ve (d) bentlerinde belirtilen durumlardaki kişileri, bu durumlarının onaylanması tarihini izleyen bir ay içinde Bayındırlık ve İskan Bakanlığına bildirmek zorundadırlar.

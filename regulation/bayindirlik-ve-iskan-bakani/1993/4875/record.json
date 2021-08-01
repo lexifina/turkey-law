@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.4875",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HARİTA MÜHENDİSLİK HİZMETLERİNİ YÜKÜMLENECEK MÜELLİF VE MÜELLİF KURULUŞLARININ EHLİYETDURUMLARINA AİT YÖNETMELİK",
+  "number": "4875",
+  "issuer": "Bayındırlık ve İskan Bakanı",
+  "issuer_slug": "bayindirlik-ve-iskan-bakani",
+  "path": "regulation/bayindirlik-ve-iskan-bakani/1993/4875",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4875&MevzuatTertip=5",
+  "source_sha256": "bcef53b38d43cc8ef78037a9d2376082daab2f4d83885a1db7b6afa44f12805a",
+  "source_bytes": 61128,
+  "published": "1993-10-11",
+  "gazette": "21725",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-07-31",
+      "R.G.31/7/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-04-28",
+      "RG 28/4/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2439,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
