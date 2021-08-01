@@ -1,0 +1,51 @@
+{
+  "source_id": "9.5.9553",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (Sıra No: 300)",
+  "number": "9553",
+  "path": "teblig/2005/9553",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=9553&MevzuatTertip=5",
+  "source_sha256": "2ae40545254900c41a236c0b0710b0404d1a22674733cc329db92ba217a96524",
+  "source_bytes": 137153,
+  "published": "2005-10-20",
+  "gazette": "25972",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-09-16",
+      "RG-16/9/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-17",
+      "RG-17/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-24",
+      "RG-24/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8015,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.9553%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
