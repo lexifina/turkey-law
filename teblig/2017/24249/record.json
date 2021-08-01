@@ -1,0 +1,54 @@
+{
+  "source_id": "9.5.24249",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 382)",
+  "number": "24249",
+  "path": "teblig/2017/24249",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24249&MevzuatTertip=5",
+  "source_sha256": "747a35c518b6e2085968d174607505355e618c9db2bfc2408854ce4d5e108323",
+  "source_bytes": 59726,
+  "published": "2017-12-31",
+  "gazette": "30287",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-08-02",
+      "RG-2/8/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-08-02",
+      "2/8/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3333,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24249-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
