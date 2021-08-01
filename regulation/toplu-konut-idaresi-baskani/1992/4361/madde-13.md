@@ -1,0 +1,3 @@
+Belediyelerce Konut Satışı
+Madde 13 - Belediyeler, Toplu Konut Bölgelerinin diledikleri miktardaki bölümü veya tamamı üzerinde, doğrudan Belediye olarak veya Belediye Şirketlerince konut yaptırabilirler. Bu durumda, Belediye veya Belediye Şirketi tarafından konut yaptırılacak arsalar satışa konu edilmez. Ancak bu arsaların arsa bedeli, Muhammen Arsa Satış Bedeli üzerinden, Belediye veya Belediye Şirketi tarafından Toplu Konut Bölgesi Hesabına yatırılır. Bu bedelin ödeme şekli Onikinci Maddede belirtilen şartlara uyularak Belediyece belirlenir
+Belediye veya Belediye Şirketlerinin Konut Yaptıranlar olarak uyacakları usül ve esaslar Doküman-8' de belirlenmiştir.

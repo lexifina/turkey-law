@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.4361",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELEDİYE ARSALARI ÜZERİNDE TOPLU KONUT VE KENTSEL ÇEVRE ÜRETİMİ VE KREDİLENDİRİLMESİNE DAİR YÖNETMELİK",
+  "number": "4361",
+  "issuer": "Toplu Konut İdaresi Başkanı",
+  "issuer_slug": "toplu-konut-idaresi-baskani",
+  "path": "regulation/toplu-konut-idaresi-baskani/1992/4361",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4361&MevzuatTertip=5",
+  "source_sha256": "8529d26d6472916532a131f2597625848ef796b53f57ed094887f5c2e6076d12",
+  "source_bytes": 134082,
+  "published": "1992-11-14",
+  "gazette": "21405",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-08-19",
+      "RG-19/8/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2000-02-29",
+      "RG-29/02/2000",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5985,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

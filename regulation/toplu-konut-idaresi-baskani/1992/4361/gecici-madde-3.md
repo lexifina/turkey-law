@@ -1,0 +1,2 @@
+Geçici Madde 3 — (Ek:05/07/2005-25866)
+Bu Yönetmeliğin yayımından önce konut inşaatları tamamlanmamış ve konut kredisi dilim ödemeleri halen devam eden projeler ile Konut Kredisi Uygunluk Belgesi düzenlenerek kredilendirilecek projelerde müşavirlik hizmetleri bu Yönetmelik hükümlerine göre veya Belediye bünyesinde kurulacak toplu konut birimleri ve kontrol teşkilatları aracılığı ile sağlanması zorunludur.

@@ -1,0 +1,6 @@
+Teknik Hizmetler Kredisinin Açılması
+Madde 7 - Toplu Konut Bölgesi Uygunluk Belgesi verilen Toplu Konut Projelerinin Teknik Hizmetlerinin yapımı için Belediyeye, İdare tarafından açılacak kredi Bankalar tarafından kullandırılır. Toplu Konut Bölgesi Uygunluk Belgesinin geçerlilik süresi 3 aydır. Bu süre içinde;
+a) Belediye ile İdare arasında, örneği Doküman-3 olarak verilen, Toplu Konut Bölgesi Hizmetleri Protokolü yapılır.
+b) Toplu Konut Bölgesi Hizmetlerinin koordinasyon ve yönetimi için 9 uncu maddede belirtilen esaslar çerçevesinde bir Yönetim Müşaviri seçilir ve Proje Yöneticisi belirlenir.
+c) Belediye, Banka ile kredi ilişkisini kurar ve Bankaca istenen tür ve miktarda teminat tesis ederek veya Belediyenin İller Bankası payları teminat gösterilerek kredi sözleşmesini yapar ve buna göre Toplu Konut Bölgesi Hesabı açılır.
+Bu işlemlerin tamamlanmasından sonra; Teknik Hizmetler kredisi, onaylı Fizibilite Raporu ekinde bulunan Finansman Akış Tablosuna uygun olarak, Banka tarafından açılır. Banka, Kredinin açılan dilimi için İdareden ödenek aktarılmasını talep eder. İdare, Fonun finansman imkanlarına göre kredi karşılığı olan miktarın ilgili Bankadaki Toplu Konut Bölgesi Hesabına aktarılması için T.C. Merkez Bankasına ödeme talimatı verir.

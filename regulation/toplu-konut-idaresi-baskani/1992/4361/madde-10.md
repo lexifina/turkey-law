@@ -1,0 +1,3 @@
+Teknik ve İdari Hizmetler
+Madde 10 - Toplu Konut Bölgesinin yatırıma hazırlanması amacıyla yapılacak tüm teknik ve idari hizmetler, Teknik Hizmetler kredisinin açılması ile Belediye tarafından ve Yönetim Müşavirinin çalışmaları ile İdarece onaylı Ön Fizibilite Raporuna ve Doküman-4 ve 5'te belirlenen esaslara uygun şekilde yapılır.
+Toplu Konut Bölgesinin konut yatırımlarına uygun hale gelmesini sağlayacak olan hizmetlerin tamamlanmasından sonra, Yönetim Müşaviri marifetiyle Belediye tarafından, Ön Fizibilite Raporu revize edilerek, uygulama projeleri değerleri ve keşifleri kullanılarak bir Kesin Fizibilite Raporu hazırlanır ve ekinde Kesin İş Programı ve Finansman Akış Tablosu düzenlenir. Böylece muhammen arsa satış bedelleri hesabı kesin şeklini alır.
