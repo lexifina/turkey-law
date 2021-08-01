@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38823",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BOSNA HERSEK MENŞELİ BAZI ÜRÜNLERİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "38823",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38823",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38823&MevzuatTertip=5",
+  "source_sha256": "56d40d6018a61ec72e6128fd7b320eb0fefcf24c60374feeb915640529b5dedb",
+  "source_bytes": 38490,
+  "published": "2021-07-31",
+  "gazette": "31554",
+  "in_force": "2021-08-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/8/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/8/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1948,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38823-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

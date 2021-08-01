@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Ek-1’de yer alan listede bulunan ve tahsisat yöntemi TTY olan BH008, BH009, BH010, BH011 kod no’lu tarife kontenjanlarına ilişkin olarak 14 üncü madde ile yürürlükten kaldırılan Bosna ve Hersek Menşeli Bazı Tarım ve İşlenmiş Tarım Ürünleri İthalatında Tarife Kontenjanı Uygulanmasına İlişkin Tebliğ kapsamında 2021 yılı için düzenlenen ithal lisansları, üzerlerinde belirtilen süre sonuna kadar geçerlidir.
