@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Hak Sahipliği, Başvuru Süresi ve Satış İşlemleri
+Hak sahibi olabilme koşulları ve başvuru süresi
+MADDE 5 – (1) Hazineye ait tarım arazilerinin doğrudan satın alınmasında hak sahibi olunabilmesi için;
+a) Bu taşınmazların kiracılarının 31/12/2011 tarihi itibarıyla en az üç yıldan beri taşınmazı kiralamış olmaları ve halen kira sözleşmesinin devam ediyor olması, kullanıcılarının ise bu taşınmazları 31/12/2011 tarihi itibarıyla en az üç yıldan beri tarımsal amaçlı kullanıyor olmaları ve kullanımlarının halen devam ettiğinin İdarece belirlenmiş olması ya da bu taşınmazların kullanım ve süre şartlarına tabi olunmaksızın paydaşı olunması,
+b) Kanunun yürürlüğe girdiği 26/4/2012 tarihinden itibaren iki yıl içerisinde bu taşınmazları Kanun hükümlerine göre doğrudan satın almak için İdareye başvurulmuş olması,
+c) İdarece tespit ve tebliğ edilen satış bedelinin itiraz edilmeksizin kabul edilmesi,
+gerekir.
+(2) Paylı taşınmazların paydaşları dışında kiracı veya başka bir kişi tarafından kullanılması halinde, öncelik paydaşlara tanınır. Paydaşlar tarafından satın alınmaması halinde taşınmaz varsa sırasıyla hak sahibi kiracıya veya kullanıcısına satılabilir.
+(3) Taşınmazların kullanım sürelerinin tespitinde; kiracı veya kullanıcı hak sahiplerinin taşınmazı kesintisiz olarak kiraladığı veya kullandığı sürelerin toplamı dikkate alınır. Hak sahibi olmayan önceki kullanıcıların kullanım süreleri dikkate alınmaz. Nadasa bırakılan arazilerde nadas süresi, kullanım süresine dâhil olacak şekilde dikkate alınır.
+Örnek-1: Yozgat İlinde bulunan ve belediye ve mücavir alan sınırları dışında kalan 1461 parsel numaralı taşınmazın (E) adlı kişi tarafından 15/5/2008-10/2/2010 tarihleri arasında kullanıldığı ve bu kullanımına ilişkin ecrimisil tahsil edildiği, daha sonra 10/2/2010 tarihinden itibaren 5 yıllık kira sözleşmesi yapıldığı, kira sözleşmesinin devam ettiği ve adı geçen kişinin süresi içerisinde bu taşınmazı doğrudan satın alma talebinde bulunduğu anlaşılmıştır. Buna göre, (E)’nin kullanımında geçen süre ile kira sözleşmesinde geçen süreler birlikte değerlendirilerek, adı geçenin başvurusu kabul edilir.
+Örnek-2: Amasya İlinde bulunan ve belediye ve mücavir alan sınırları dışında kalan 5 parsel numaralı taşınmaz (C) adlı kişi tarafından 2007-2009 yılları arasında kullanılmıştır. 31/12/2011 tarihi itibarıyla bu taşınmazın kullanıcısı olan (D) tarafından 12/2/2013 tarihinde taşınmazı doğrudan satın alma talebinde bulunulmuştur. (D)’nin 31/12/2011 tarihi itibarıyla en az üç yıllık kullanım süresi bulunmadığından başvurusu reddedilir.

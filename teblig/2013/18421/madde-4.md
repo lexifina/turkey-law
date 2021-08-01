@@ -1,0 +1,12 @@
+Tanımlar
+MADDE 4 – (1) Bu Genel Tebliğde geçen;
+a) Bakanlık: Maliye Bakanlığını (Milli Emlak Genel Müdürlüğü),
+b) Hak sahibi: Hazineye ait tarım arazilerinin; 31/12/2011 tarihi itibarıyla en az üç yıldan beri tarımsal amaçla kiralayan ve kira sözleşmesi halen devam eden kiracıları veya bu arazileri aynı süreyle tarımsal amaçla kullanan ve kullanımlarının halen devam ettiği İdarece belirlenen kullanıcıları ya da paydaşlarından; 6292 sayılı Kanunun yürürlüğe girdiği 26/4/2012 tarihinden itibaren iki yıl içerisinde bu arazileri bedeli karşılığında doğrudan satın almak için İdareye başvuran ve İdarece tespit ve tebliğ edilen satış bedelini itiraz etmeksizin kabul edenleri,
+c) İdare: İllerde defterdarlıkları, ilçelerde malmüdürlüklerini,
+ç) Kanun: 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanunu,
+d) Rayiç bedel: Taşınmazın, 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu veya 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanun hükümlerine göre tespit ve takdir edilen bedelini,
+e) Satış bedeli: Rayiç bedelin yüzde ellisini,
+f) Satış işlemleri: Peşin satışlarda bedelin tahsilinden ferağ dâhil diğer işlemlere, taksitli satışlarda ise sözleşmenin düzenlenmesine kadar olan süreci,
+g) Tarım arazisi: Toprak, topografya ve iklimsel özellikleri tarımsal üretim için uygun olup, hâlihazırda tarımsal üretim yapılan veya yapılmaya uygun olan veya imar, ihya, ıslah edilerek tarımsal üretim yapılmaya uygun hale dönüştürülebilen arazileri,
+ğ) Tarımsal amaçlı yapı: Toprak koruma ve sulamaya yönelik altyapı tesisleri, entegre nitelikte olmayan hayvancılık ve su ürünleri üretim ve muhafaza tesisleri ile zorunlu olarak tesis edilmesi gerekli olan müştemilatı, mandıra, ağıl, kümes, üreticinin bitkisel üretime bağlı olarak elde ettiği ürünü için ihtiyaç duyacağı yeterli boyut ve hacimde depolar, un değirmeni, tarım alet ve makinelerinin muhafazasında kullanılan sundurma ve çiftlik atölyeleri, seralar, tarımsal işletmede üretilen ürünün özelliği itibarıyla hasattan sonra iki saat içinde işlenmediği takdirde ürünün kalite ve besin değeri kaybolması söz konusu ise bu ürünlerin işlenmesi için kurulan tesisler ile Gıda, Tarım ve Hayvancılık Bakanlığı tarafından tarımsal amaçlı olduğu kabul edilen entegre nitelikte olmayan diğer tesisleri,
+ifade eder.

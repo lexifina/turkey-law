@@ -1,0 +1,41 @@
+{
+  "source_id": "9.5.18421",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 355)",
+  "number": "18421",
+  "path": "teblig/2013/18421",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18421&MevzuatTertip=5",
+  "source_sha256": "a60888eade4d468ef70c17690fc438688f6f254e57e815b11e2f8b88cf1c7eb8",
+  "source_bytes": 72894,
+  "published": "2013-05-31",
+  "gazette": "28663",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4273,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18421-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

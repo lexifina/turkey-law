@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan hükümler
+MADDE 17 – (1) 29/8/2007 tarihli ve 26628 sayılı Resmî Gazete’de yayımlanan Milli Emlak Genel Tebliğinin (Sıra No: 313) “XI. Satış Usulleri” bölümünün “C) Özel Kanun Hükümlerine Göre Satış” başlıklı alt bölümünün “4070 Sayılı Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun Hükümlerine Göre Satış” başlıklı birinci bölümü ile “XV. Son Hükümler” başlıklı bölümünün birinci fıkrasının (h) bendinde yer alan “4070” ibaresi yürürlükten kaldırılmıştır.
