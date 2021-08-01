@@ -1,0 +1,7 @@
+Komisyonun görev ve yetkileri
+MADDE 5 – (1) Komisyon ;Gerçek kişi ve firmaların yurt içinde ve yurt dışında bitirdikleri işlerin tamamını bu Tebliğ ve Yönetmelik hükümleri çerçevesinde inceler ve aşağıdaki görevleri yapar;
+a) "Yurtdışı Müteahhitlik Belgesi" veya yerine geçen "Yurtdışı Geçici Müteahhitlik Belgesi " verilip verilemeyeceğini ve verilecek belgenin grup ve tutarını tespit ederek karara bağlamak,
+b) Maddî bir hatanın yapıldığı veya gerçek kişi ve firmanın Bakanlığa ibraz ettiği belgelerin geçersizliğinin sonradan anlaşılması halinde, gerçek kişi ve firmadan adına düzenlenen Yurtdışı Müteahhitlik Belgesi’ni veya bunun yerine geçen Yurtdışı Geçici Müteahhitlik Belgesini geri istemek, düzeltmek veya hükümsüz olduğunu karara bağlamak,
+c)Yurtdışı Müteahhitlik Belgesi veya bunun yerine geçen Yurtdışı Geçici Müteahhitlik Belgesi isteğinde Bakanlığı yanıltıcı gerçeğe uymayan veya tahrif edilmiş belgeler verdikleri müracaat sırasında veya sonradan anlaşılanlar ile belgelerini mevzuata aykırı şekilde kullandıkları anlaşılanların belgelerini iptal etmek, (2) yıldan az olmamak üzere süreli veya süresiz belge verilmemesine karar vermek,
+ç) Kanun ve yönetmeliklerde yazılı ceza hükümleri ile ihalelere katılmaları yurtiçinde ve yurtdışında süreli ve süresiz olarak hükmen yasaklanmış olan firmalara "Yurtdışı Müteahhitlik Belgesi" veya bunun yerine geçen "Yurtdışı Geçici Müteahhitlik Belgesi" verilmemesini, verilmiş olanlarında iptal edilmesini karara bağlamak.
+(2) (1)’ inci fıkradaki kararlar Bakan Onayı ile kesinleşir.

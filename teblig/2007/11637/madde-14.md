@@ -1,0 +1,5 @@
+Başvuru
+MADDE 14 – (Başlığı ile Birlikte Değişik:RG-8/7/2019-30825 Mükerrer)
+(1) Yurtdışı müteahhitlik belgesi başvuruları gerçek veya tüzel kişiliğin temsile yetkilisi tarafından yapılır.
+(2) Başvurularda yurtdışında bitirilen işler için, Türkiye Cumhuriyeti’nin yabancı ülke temsilcilikleri (Elçilikler ve Konsolosluklar) tarafından tasdikli veya Apostil şerhi tatbikli, yürürlükteki mevzuata uygun, işin alındığına dair belge, iş deneyim belgesi, sözleşme, ilk ve son hakediş raporlarının aslı ve bu belgelerin Türkiye Cumhuriyeti’nin yabancı ülke temsilcilikleri (Elçilikler ve Konsolosluklar) tarafından tasdikli veya Türkiye’deki yeminli tercümanlarca Türkçe’ye çevrilmiş ve ardından da tercümanın bağlı bulunduğu noterce tasdiklenmiş Türkçe tercümesinin aslı istenir.
+(3) Başvuru sahibinin ana statüsünü gösteren ticaret sicili, kimlik bilgileri, (Mülga ibare:RG-1/8/2021-31555) ticaret veya sanayi odası kaydı, yurt içinde bitirdikleri işler için iş deneyim belgesi bilgileri ve müteahhit kıymetlendirme raporu Bakanlıkça elektronik ortamda temin edilir. Bunlardan Bakanlıkça temin edilemeyen bilgi ve belgeler başvuru sahibinden ayrıca istenir.

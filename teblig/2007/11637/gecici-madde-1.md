@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 – (1) Yürürlükten kaldırılan Tebliğlere göre daha önce Yurtdışı Müteahhitlik Belgesi veya yerine geçen Yurtdışı Geçici Müteahhitlik Belgesi almış veya almaya hak kazanmış olan gerçek kişi ve firmaların "Yurtdışı Müteahhitlik Belgesi" veya yerine geçen "Yurtdışı Geçici Müteahhitlik Belgesi" ile ilgili hakları, belgelerin geçerlilik süresinin sonuna kadar saklıdır.
+(2) Bu Tebliğin yürürlüğe girmesinden önce Bakanlığa yapılan müracaatlara ilişkin iş ve işlemler, bu Tebliğ hükümlerine göre sonuçlandırılır.

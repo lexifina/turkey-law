@@ -1,0 +1,57 @@
+{
+  "source_id": "9.5.11637",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YURTDIŞI MÜTEAHHİTLİK BELGESİ TEBLİĞİ (TEBLİĞ NO : TAU / 2007 - 001)",
+  "number": "11637",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2007/11637",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11637&MevzuatTertip=5",
+  "source_sha256": "9aa440e740a4ac2b324bb8f3deb1c34825fde879aabb075988f263507491529f",
+  "source_bytes": 37045,
+  "published": "2007-09-25",
+  "gazette": "26654",
+  "in_force": "2021-08-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-07-08",
+      "RG-8/7/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-07-08",
+      "8/7/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2009-02-03",
+      "3/2/2009",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1466,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

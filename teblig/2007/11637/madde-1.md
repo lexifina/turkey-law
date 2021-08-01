@@ -1,0 +1,2 @@
+Amaç
+MADDE 1 – (1) Bu Tebliğ; Ülkemizi yurtdışında temsil edebilecek nitelikteki müteahhitlik firmalarının oluşmasını sağlamak ve çalışmalarını kolaylaştırmak üzere yurtdışında; inşaat, tesisat, montaj, mühendislik, proje, müşavirlik, işletme, bakım ve onarım gibi hizmetleri yapacak gerçek kişi ve firmalara, "Yurtdışı Müteahhitlik Belgesi" veya yerine geçen "Yurtdışı Geçici Müteahhitlik Belgesi" verilmesinin usul ve esaslarını düzenlemek amacıyla hazırlanmıştır.
