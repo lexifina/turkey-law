@@ -1,0 +1,2 @@
+Çalışma grupları ve görevleri
+MADDE 12 – (1) Çalışma grupları, Merkezin amaçları doğrultusunda projelere yönelik olarak oluşturulur. Farklı projeler için farklı çalışma grupları oluşturulur. Çalışma grubu temsilcileri, Üniversite bünyesindeki tam zamanlı ve yarı zamanlı çalışan öğretim elemanları, Haliç Üniversitesi Lisansüstü Eğitim Enstitüsü lisansüstü öğrencileri ve ilgili proje kapsamında çalışmak için başvuran ulusal ve uluslararası araştırmacı akademisyenlerden oluşturulur. Bu gruplar, Merkez tarafından düzenlenecek yönergelere bağlı olarak çalışmaları yürütürler.
