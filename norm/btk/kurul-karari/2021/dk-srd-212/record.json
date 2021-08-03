@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SRD/212",
+  "source_id": "2021/DK-SRD/212",
+  "date": "2021-08-03",
+  "title": "2019/DK-SRD/206 Nolu Kurul Kararı’nın Tadili (Posta Sektöründe Kullanıcı Haklarına Yönelik Bazı Hususlarda Düzenleyici Tedbirlerin Alınması)",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/4e65a71c-faa2-4a62-930a-788d07c4828f.pdf",
+  "source_sha256": "8fa7e77cb7c0bef910ac3dd51f6c0d0972f0417f7758a8f3416ed4261a71e8e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
