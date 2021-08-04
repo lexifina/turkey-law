@@ -1,0 +1,3 @@
+Müdür
+MADDE 7 – (1) Müdür; biyoçeşitlilik konusunda çalışmaları bulunan Üniversite (Değişik ibare:RG-4/8/2021-31558) öğretim elemanları arasından, Rektör tarafından üç yıl için görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir.
+(2) Merkez Müdürü kendisine çalışmalarında yardımcı olmak üzere, Merkezin faaliyet alanlarıyla ilgili disiplinlerde çalışmaları bulunan Üniversite öğretim elemanları arasından iki (Değişik ibare:RG-4/8/2021-31558) öğretim elemanını üç yıl süre ile Müdür yardımcısı olarak görevlendirilmek üzere Rektöre teklif eder. Müdürün görevi sona erdiğinde yardımcılarının da görevi sona erer.
