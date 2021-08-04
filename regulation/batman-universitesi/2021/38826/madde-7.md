@@ -1,0 +1,3 @@
+Öğretim dili
+MADDE 7 – (1) Enstitülerde öğretim dili Türkçedir. Ancak enstitü kurulunun önerisi ve Senatonun kararı ile belirli programlarda bütün dersler ya da bazı dersler yabancı dilde verilebilir. Tezler, sanat eseri ve sanatta yeterlik eseri çalışmasına ilişkin raporlar da Türkçe yazılır. İlgili anabilim/anasanat dalı kurulunun önerisi ve enstitü yönetim kurulunun onayı ile bir tezin/sanat eseri/sanatta yeterlik eseri çalışması raporlarının yabancı dilde yazılmasına karar verilebilir.
+(2) Ders, uygulama ve sınavlar, 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümlerine göre yapılır.

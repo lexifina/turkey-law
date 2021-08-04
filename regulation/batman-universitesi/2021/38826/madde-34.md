@@ -1,0 +1,4 @@
+Süre
+MADDE 34 – (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup, program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini ve seminer dersini başarıyla tamamlayamayan veya bu süre içerisinde bu Yönetmelik hükümlerine göre başarı koşullarını/ölçütlerini yerine getiremeyen; azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.
+(3) Yüksek lisans programından süresinden önce mezun olabilecek öğrenciler, en az üç yarıyılı doldurmak şartı ile anabilim/anasanat dalı kurulunun görüşü alınarak, anabilim/anasanat dalı başkanlığınca teklif edilir ve enstitü kurulu tarafından karara bağlanır.

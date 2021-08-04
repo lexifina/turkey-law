@@ -1,0 +1,8 @@
+Yabancı uyruklu öğrenciler
+MADDE 31 – (1) Yabancı uyruklu adayların lisansüstü programlara başvurularına ilişkin esaslar şunlardır:
+a) Yüksek lisans ve doktora programlarına başvuran adayların kabul koşulları, enstitü yönetim kurulunun teklifi üzerine Senato tarafından belirlenir.
+b) Yabancı uyruklu öğrencilerin eğitimi ilgili anabilim/anasanat dalı başkanlığının önerisi, enstitütü kurulunun kararı ve Senatonun yabancı dilde kısmi eğitim kararı ile yabancı dilde olabilir.
+c) Yabancı uyruklu öğrenciler, ilgili anabilim/anasanat dalının görüşü doğrultusunda bilimsel hazırlık programına tabi tutulabilir. Bilimsel hazırlık programını başarı ile tamamlayan öğrenciler, eğitim öğretimlerine bu Yönetmelik hükümlerine göre devam eder.
+ç) Enstitülerin lisansüstü programlarına başvurularda; ilgili programın anabilim/anasanat dalı kurulu tarafından teklif edilen ve enstitü yönetim kurulu onayıyla açılan kontenjandan daha fazla talep olması halinde, başvuran adaylar yazılı veya sözlü sınava tabi tutulur. Adayların kontenjan dâhilinde öğrenciliğe kabulleri enstitü yönetim kurulu kararı ile kesinleşir.
+d) Lisansüstü programlara başvurabilmek için Türkiye’deki bir yükseköğretim kurumundan mezun olan yabancı uyruklu öğrencilerin ALES sınavına girmiş olması gerekir. Ancak Güzel Sanatlar Fakültesinin enstitüdeki anabilim ve anasanat dalları ve Türkiye dışındaki yükseköğretim kurumlarından mezun olan yabancı uyruklu öğrenciler için ALES’e girme şartı aranmaz.
+e) Yurt dışında ikamet eden veya lisans eğitiminin tamamını yurt dışında tamamlayan Türkiye Cumhuriyeti vatandaşı adayların lisansüstü programlara kabülünde ABD/ASD’nin ALES puanı veya eşdeğer puanının en az 55 olması şartı aranır.

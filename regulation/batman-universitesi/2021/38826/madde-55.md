@@ -1,0 +1,2 @@
+ÜNİP kontenjanlarından lisansüstü programlara öğrenci kabulü
+MADDE 55 – (1) ÜNİP kontenjanından başvuran adayların, ilgili programlara ilişkin genel kontenjanlar için belirlenen asgari şartları sağlamaları gerekir. ÜNİP kontenjanından yararlanmak isteyen adaylar dilekçelerini ve asgari koşulları sağladıklarını gösteren belgeleri kendi üniversitelerine verirler. Kendi rektörlüklerince Batman Üniversitesine gönderilen başvurular Batman Üniversitesi Rektörü tarafından yanıtlanır.

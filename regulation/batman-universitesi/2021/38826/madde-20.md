@@ -1,0 +1,6 @@
+Ders tekrarı
+MADDE 20 – (1) Teorik derslerin devam koşulunu sağladıkları halde başarısız olan öğrenciler, bu derslere yeniden kayıt yaptırdıklarında, derse devam etmek zorunda değildirler ancak sınavlara katılmak zorundadırlar.
+(2) Sadece uygulamadan oluşan derslerden devam koşulunu sağladıkları halde başarısız olan öğrenciler, uygulamalara ve sınavlara katılmak zorundadırlar.
+(3) Teori ve uygulamadan oluşan derslerde devam koşulunu sağladıkları halde, yapılan uygulama sınavında başarısız olan öğrenciler, bu derse yeniden kayıt yaptırdıklarında derse ve uygulamalara devam etmek, verilecek ödev ve projeleri hazırlamak ve sınavlara katılmak zorundadırlar.
+(4) Devamsızlık veya başarısızlık nedeniyle tekrarlanması gereken derslerin programdan çıkarılması veya zorunlu nedenlerle açılamaması durumunda, danışman önerisi, anabilim dalı başkanlığı teklifi ve enstitü yönetim kurulunun onayıyla, devamsız veya başarısız olunan dersin yerine aynı kredide başka bir ders alınabilir. Bu dersin başarısızlık veya devamsızlık nedeniyle tekrarlanması durumunda, öğrenci bu dersi yeniden almak zorundadır. Bunun yerine daha önce aldığı dersi alamaz.
+(5) Öğrenci başarısız olduğu dersin yerine, o ders açık olduğu sürece başka ders alamaz.

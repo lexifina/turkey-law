@@ -1,0 +1,3 @@
+Akademik takvim
+MADDE 10 – (1) Bir eğitim-öğretim yılındaki kayıt, ders, sınav ile benzeri faaliyetlerin süre ve tarihleri, akademik takvim ile düzenlenir. Akademik takvim, enstitüler tarafından özellikleri dikkate alınarak hazırlanır ve haziran ayı sonuna kadar Senato tarafından onaylanır. Gerekli hallerde ilgili enstitü yönetim kurulu kararı ve Rektörlük onayı ile bazı dersler ve sınavlar hafta içi mesai saatleri bitiminden sonra ve/veya Cumartesi-Pazar günlerinde de yapılabilir.
+(2) Senato tarafından uygun görülmesi halinde bazı programlar ve dersler sadece uzaktan öğretim ve/veya örgün eğitim ve öğretim yoluyla yürütülebilir. Uzaktan öğretimde 2547 sayılı Kanunun 44 üncü maddesi hükümleri uygulanır.
