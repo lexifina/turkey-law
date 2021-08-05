@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10349",
+  "decision_date": "2021-08-05",
+  "title": "Petrol ve LPG Piyasalarında Uygulanan Promosyonlar Hakkında Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2021-08-07",
+  "resmi_gazete_number": "31561",
+  "categories": [
+    "Petrol Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OF9wcab7GLM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OF9wcab7GLM="
+  ],
+  "source_sha256": "8be1e10031ee04121ea93293dde92f9de4e853b8a60a51f370c1aec3eb5481a0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14711,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-08-05",
+  "law_text_complete": true
+}
