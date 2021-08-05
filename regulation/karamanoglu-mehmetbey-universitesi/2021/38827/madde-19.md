@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 19 – (1) Sınavlara itiraz, sınav sonuçlarının ilanını izleyen beş iş günü içerisinde yazılı olarak maddi hata dilekçesi hazırlanarak enstitüye yapılır. Sınav sonuçlarında maddi hataların düzeltilmesi dışında değişiklik yapılmaz. İtirazlar, dersi veren öğretim elemanınca üç iş günü içerisinde değerlendirilir. Öğretim elemanının not değişikliğiyle ilgili raporu EYK tarafından incelenerek on iş günü içerisinde karara bağlanır.

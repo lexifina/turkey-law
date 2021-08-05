@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans diploması
+MADDE 29 – (1) Kredili derslerini, dönem projesini ve gerekirse yeterlik sınavını başarıyla tamamlayan öğrenciye EYK kararından sonra tezsiz yüksek lisans diploması verilir. EYK’nin karar tarihi, öğrencinin mezun olduğu tarihtir. Öğrenciye talebi hâlinde enstitü tarafından geçici mezuniyet belgesi verilebilir.
+(2) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü ana bilim/ana sanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(3) Tezsiz yüksek lisans programına devam edenler, tezli yüksek lisans programı için belirlenmiş olan asgari şartları yerine getirmek kaydıyla tezli yüksek lisans programına geçiş yapabilirler. Bu durumda tezsiz yüksek lisans programında alınan dersler EYK kararıyla tezli yüksek lisans programındaki derslerin yerine sayılabilir.

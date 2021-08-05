@@ -1,0 +1,5 @@
+Tezli yüksek lisans diploması
+MADDE 25 – (1) Tez sınavında başarılı olmak ve diğer koşulları da sağlamak kaydıyla, yüksek lisans tezinin en az üç adet ciltlenmiş kopyasını ve CD kaydını, YÖK Tez Merkezi için gerekli evrak ve dokümanları, tez sınavına giriş tarihinden itibaren bir ay içinde enstitüye teslim eden ve tezi EYK tarafından kabul edilen yüksek lisans öğrencisi tezli yüksek lisans diploması almaya hak kazanır. EYK talep hâlinde teslim süresini en çok bir ay daha uzatabilir. Bu koşulları yerine getirmeyen öğrenci, koşulları yerine getirinceye kadar diplomasını alamaz, öğrencilik haklarından yararlanamaz ve azami süresinin dolması hâlinde ilişiği kesilir.
+(2) Mezuniyet tarihi tezin sınav jüri komisyonu tarafından imzalı nüshasının teslim edildiği tarihtir.
+(3) Tezli yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü ana bilim/ana sanat dalındaki programın YÖK tarafından onaylanmış adı bulunur.
+(4) Tezin tesliminden itibaren üç ay içinde yüksek lisans tezinin bir kopyası elektronik ortamda, bilimsel araştırma ve faaliyetlerin hizmetine sunulmak üzere enstitü tarafından YÖK’e gönderilir.

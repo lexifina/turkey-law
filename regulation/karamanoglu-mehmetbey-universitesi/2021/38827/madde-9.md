@@ -1,0 +1,10 @@
+Lisansüstü eğitime giriş sınavları ve başarı değerlendirmesi
+MADDE 9 – (1) Lisansüstü programlara müracaat eden öğrenciler için ilanda gösterilen zaman ve yerde, jüri tarafından yazılı bilim sınavı yapılır. Jüri EABDK/EASDK’nin teklifi ve EYK’nin kararıyla üç veya beş asil ve iki yedek üyeden oluşur. Jüri EABD/EASD aracılığıyla sınav evrak ve sonuçlarını en geç üç iş günü içerisinde ilgili enstitüye iletmek zorundadır. İlgili ALES notunun %50’si ve lisans mezuniyet notunun %50’si alınıp sıralama yapılarak yazılı bilim sınavına ilan edilen kontenjanın dört katı öğrenci çağrılır. Yazılı bilim sınavına katılmayan veya sınavda 50 ve üzeri not alamayan öğrencilerin başarı notu hesaplanmaz.
+(2) Lisansüstü programlarda başarı değerlendirmesi aşağıdaki şekilde yapılır:
+Program | ALES notu% | Lisans not ortalaması % | Yüksek Lisans not ortalaması % | Yabancı dil notu% | Bilim sınavı notu %
+Tezli Yüksek Lisans | 50 | 30 | - | - | 20
+Tezsiz Yüksek Lisans | - | 100 | - | - | -
+Doktora/Sanatta Yeterlik | 50 | 10 | 10 | 10 | 20
+(3) Hesaplamalara göre yüksek lisans, doktora ve sanatta yeterlikte en az 55 puan alan adaylar yüksek puandan düşük puana doğru sıralanır. Puanların eşitliği hâlinde sırayla ALES notu, mezuniyet notu, yabancı dil notu ve yazılı bilim sınavı notu dikkate alınarak sıralama yapılır.
+(4) Hazırlık sınıflarında geçen süreler hariç olmak üzere, en az 10 yarıyıl süreli eğitim yapan fakültelerden mezun olanlar için yüksek lisans mezuniyet not ortalaması yerine lisans mezuniyet not ortalamasının %20’si dikkate alınır. Bir lisans programından mezun olup yüksek lisans derecesine sahip olmayan ancak Sağlık Bakanlığınca düzenlenen esaslara göre bir laboratuvar dalında kazanılan uzmanlıkları olanların, uzmanlık notu yerine lisans mezuniyet not ortalamasının %20’si esas alınır.
+(5) İlan edilen kontenjanlar dâhilinde başarılı olan asil aday sayısı kadar yedek aday belirlenir. Puan sıralamasına göre belirlenen asil ve yedek aday listeleri enstitü tarafından Üniversitenin internet sayfasında ilan edilir.

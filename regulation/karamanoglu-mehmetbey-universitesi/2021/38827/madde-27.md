@@ -1,0 +1,3 @@
+Süre
+MADDE 27 – (1) Tezsiz yüksek lisans programını tamamlama süresi, bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın en az iki yarıyıl, en çok üç yarıyıldır. Bu sürenin sonunda başarısız olan veya programı tamamlayamayan öğrencinin Üniversite ile ilişiği kesilir.
+(2) Tezsiz yüksek lisans programında bir öğrencinin başarılı sayılabilmesi için aldığı tüm derslerden ve dönem projesinden (YT), D veya bunun üzerinde bir not alması ve en az 2,50 GANO elde etmesi gerekir. Dönem projesi en erken ikinci yarıyılın başında başlar ve azami sürenin sonuna kadar devam edebilir.
