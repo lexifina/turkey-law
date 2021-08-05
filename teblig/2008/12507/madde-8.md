@@ -1,0 +1,1 @@
+MADDE 8 – (1) (Değişik:RG-5/8/2021-31559) Bu Tebliğin 4 üncü maddesinin yedinci fıkrası hükümlerine göre yapılan kontrol sonrasında IBAN’ı yanlış olduğu tespit edilen transfer emirleri iade edilebilir veya reddedilebilir.
