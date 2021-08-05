@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "8845",
+  "decision_date": "2021-08-05",
+  "title": "Petrol ve LPG Piyasalarında Uygulanan Promosyonlar Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2021-08-07",
+  "resmi_gazete_number": "31561",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Promosyon"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LEQTUv5Eheg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LEQTUv5Eheg="
+  ],
+  "source_sha256": "01cf9aaf50b0edc82ca4e08f60791544ab5200cdf33452fd9cc36a37709f812d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 5103,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-08-05",
+  "law_text_complete": true
+}
