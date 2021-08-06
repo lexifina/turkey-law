@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-06",
+  "number_as_published": "meeting-08-06",
+  "year": 2021,
+  "title": "06.08.2021 Meclis Karar Meclis Kararı",
+  "decision_date": "2021-08-06",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=8",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/d979bcfe-16e9-4c5a-aff1-83e96c15381b.pdf",
+  "source_sha256": "b091d47681b37532d1da6dd4adfdc30fd6b7634945c46a7fb0289be09789f4a4",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-08-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.08.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.08.2021 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
