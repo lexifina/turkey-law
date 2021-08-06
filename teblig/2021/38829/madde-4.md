@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 4 – (1) Bu Tebliğ, (AT) 2009/125 sayılı Avrupa Parlamentosu ve Konseyinin Tüzüğü uyarınca yayımlanan Işık Kaynaklarının ve Ayrı Kontrol Donanımlarının Çevreye Duyarlı Tasarım Gerekliliklerini belirleyen, 11/3/2019 tarihli ve (AB) 2019/2020 sayılı Komisyon Tüzüğü ile bu Tüzükte değişiklik yapan 17/12/2020 tarihli ve (AB) 2021/341 sayılı Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
