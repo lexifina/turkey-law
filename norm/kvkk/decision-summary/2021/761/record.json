@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/761",
+  "source_id": 7137,
+  "date": "2021-08-06",
+  "title": "“Kişisel sağlık verilerinin hastanedeki yetkisiz çalışanlar tarafından velayete sahip olmayan ebeveyn ile paylaşılması” hakkında Kişisel Verileri Koruma Kurulunun 06/08/2021 tarihli ve 2021/761 sayılı Karar Özeti ",
+  "source": "https://www.kvkk.gov.tr/Icerik/7137/2021-761",
+  "source_sha256": "ac2b586cc43a2017a372efc6f5369b373bfac657b36a0b80a560c01a3eecbdad",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
