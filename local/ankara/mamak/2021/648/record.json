@@ -1,0 +1,28 @@
+{
+  "number": "648",
+  "number_as_published": "648",
+  "year": 2021,
+  "title": "Belediyemizin yapmış olduğu altyapı hizmetleriyle ilgili olarak; kazı taleplerinin nasıl karşılandığı, kazı sonrası yapılan kaplama tamirlerinin nasıl yapıldığına ilişkin Meclis Kararı.",
+  "decision_date": "2021-08-06",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=7dd60786-0a91-4c90-b2af-cf8bc0369aa6",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-08-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 2021-08-06T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=7dd60786-0a91-4c90-b2af-cf8bc0369aa6",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=6c067313-ac43-457e-8eb2-eaf13f95e442",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e9948d7f-5c11-47c8-93e9-827fc57a1039"
+  ]
+}
