@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları, nadir hastalık prevalansı ve hastalık yükünün belirlenmesi, doğum öncesi ve yenidoğan tarama stratejilerinin geliştirilmesi, ulusal kayıt sistemi oluşturulması; nadir hastalıklara yönelik mevcut tanı ve tedavi yöntemlerinin bilimsel veriler eşliğinde uygulanması, mevcut genetik tanı tekniklerine ulaşılabilirliğinin artırılması, yeni tanı ve tedavi yöntemlerinin geliştirilmesi; kamu düzeyinde nadir hastalıkların tanı ve tedavileri hakkında farkındalık yaratarak bilgilerin doğru ve yararlı bir şekilde kullanılmasının sağlanması; yetim ilaçların ve ileri tıbbi tedavilerin etkinlik ve toksisitelerinin değerlendirilmesi, doğrudan klinik uygulamalara yansıyabilecek temel araştırmaların planlanması ve disiplinler arası organizasyonun sağlanması; yetim ilaçlara ve ileri tıbbi tedavilere yönelik ARGE ve üretim planlamalarının yapılmasıdır.
