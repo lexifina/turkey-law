@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Hukuk Fakültesinde görevli tam zamanlı öğretim üyeleri arasından, liyakat ve insan hakları alanındaki tecrübesi dikkate alınarak, üç yıl için Rektör tarafından görevlendirilir. Süresi dolan Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden Rektöre karşı sorumludur. Müdür altı aydan fazla görevine devam etmezse yeni bir Müdür görevlendirilir.
+(2) Yönetim Kurulu, Müdüre çalışmalarında yardımcı olmak üzere kendi üyeleri arasından bir kişiyi Müdür Yardımcısı olarak görevlendirir. Müdür Yardımcısı, Müdürün bulunmadığı zamanlarda Müdüre vekâlet eder.
