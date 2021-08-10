@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-08-10T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-08-10",
+  "official_number": "84974990-130[KDV-2/İ/13-2020/28]-241773",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31162",
+  "source_id": "ozelge:31162",
+  "source_row_sha256": "eac46fcd118bbf4afff6db3682abf524e97a709fc70425df279ca843ff84f5e4",
+  "title": "Satışı ve kurulumu yapılan Kent Güvenliği Yönetim Sistemi ve Plaka Tanıma Sistemlerinin KDV karşısındaki durumu.",
+  "version_label": "as-enacted",
+  "word_count": 543
+}
