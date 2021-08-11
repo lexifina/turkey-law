@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-08-11",
+  "issue": "31565",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Polis Akademisi Başkanlığı Polis Amirleri Eğitimi Merkezi Giriş ve Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210811-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210811.htm",
+  "index_sha256": "0a36f9650e434888e1644b940105fbc8cd8063c13bbe34fe5a2edadcffe5002e",
+  "index_header": "11 Ağustos 2021 ... 31565 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210811.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
