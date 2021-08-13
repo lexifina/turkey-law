@@ -1,0 +1,2 @@
+El kitaplarının hazırlanması ve uygulama planı
+GEÇİCİ MADDE 2 – (1) Bu Yönetmelik gereğince hazırlanması gereken ham petrol, doğal gaz, LNG depolama ve yer altı depolama faaliyetleri ile ilgili el kitapları bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren altı ay içinde hazırlanır. El kitaplarının hazırlanması için BOTAŞ Genel Müdürlüğünde kalite müdürlüğünün bağlı olduğu daire başkanlığı tarafından yeterli sayıda komisyon oluşturulur.

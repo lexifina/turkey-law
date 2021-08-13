@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Doğal Gaz Piyasası Kanunu ile Petrol Piyasası Kanununa tabi faaliyetler kapsamına giren; BOTAŞ’a ait ham petrol ve doğal gazın iletimi ve depolanmasına ait tesislerin (LNG ve FSRU terminalleri dâhil) tasarımı, inşası ve güvenli şekilde işletilmesine dair gerekli çevre ve teknik emniyet kuralları ile boru hatları güzergâhı boyunca oluşan imar planlama çalışmaları, yapılaşma, tesis kurma, ruhsatlandırma gibi durumlar için dikkate alınması gereken emniyet veya bu tesislere yaklaşım mesafelerini kapsar.

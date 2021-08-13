@@ -1,0 +1,3 @@
+Görevli personel
+MADDE 14 – (1) Tesislerin işletilmesinde, personelin görev tanımı, eğitimi ve değerlendirilmesi ile eğitim yenileme sürelerini kapsayan program hazırlanır.
+(2) Tesislerde görevli tüm personel; acil durum, yanıcı sıvı ve gazların özellikleri ile potansiyel tehlikeler, yangınla mücadele ve ilk yardım konusunda eğitilir. Ayrıca, ilgili personel kendi görev alanlarında uygulamalı eğitime tabi tutulur. Tesislerde, eğitimi başarılı şekilde tamamlayan personel görevlendirilir. Eğitim birimleri, merkezde ünitelerin, taşrada işletme birimlerinin görüşlerini alarak, yıllık eğitim programını en geç Ekim ayı sonuna kadar hazırlar. Hazırlanan eğitim programı müteakip yılın başından itibaren yürürlüğe girer.

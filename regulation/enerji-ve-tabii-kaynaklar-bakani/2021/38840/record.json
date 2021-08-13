@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38840",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BORU HATLARI İLE PETROL TAŞIMA A.Ş. GENEL MÜDÜRLÜĞÜ (BOTAŞ) HAM PETROL VE DOĞAL GAZ BORU HATTI TESİSLERİNİN YAPIMI VE İŞLETİLMESİNE DAİR TEKNİK EMNİYET VE ÇEVRE YÖNETMELİĞİ",
+  "number": "38840",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2021/38840",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38840&MevzuatTertip=5",
+  "source_sha256": "9b868cc51937420028f6f5edefc91ce72eb45c1f137506f702994e696e755028",
+  "source_bytes": 175507,
+  "published": "2021-08-13",
+  "gazette": "31567",
+  "in_force": "2021-08-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.08.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14712,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38840-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
