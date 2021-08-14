@@ -1,0 +1,2 @@
+Diğer programlardan ders alma
+MADDE 33 – (1) Tez danışmanının önerisi, EABDK/EASDK’nin uygun görüşü ve EYK’nın kararı ile yüksek lisans öğrencileri ve yüksek lisans derecesi ile doktora/sanatta yeterlik programlarına kabul edilen öğrenciler en fazla iki, lisans derecesi ile doktora/sanatta yeterlik programlarına kabul edilen öğrenciler en fazla dört dersi Üniversitenin diğer lisansüstü programlarından veya diğer yükseköğretim kurumlarında verilmekte olan derslerden alabilirler.

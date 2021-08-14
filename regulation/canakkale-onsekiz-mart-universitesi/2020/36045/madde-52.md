@@ -1,0 +1,4 @@
+Tezsiz yüksek lisans programının sonuçlanması ve diploması
+MADDE 52 – (1) Tezsiz yüksek lisans programında bir öğrencinin başarılı sayılabilmesi için; aldığı derslerden CC veya bunun üzerinde bir not almış olması, en az 2,50 AGNO’yu sağlamış olması ve dönem projesi dersinden başarılı olması, proje danışmanı tarafından onaylanmış dönem projesinin akademik takvimde belirtilen yarıyıl sonu sınavlarının tamamlandığı tarihe kadar EABDB aracılığı ile Enstitü Müdürlüğüne teslim etmesi gerekir. Öğrenci, ağırlıklı genel not ortalaması şartını sağlayıncaya kadar süresi içinde tekrar veya yeni ders almakla yükümlüdür.
+(2) Kredili derslerini ve dönem projesini başarı ile tamamlayan öğrencinin mezuniyetine EYK tarafından karar verilir ve öğrenciye tezsiz yüksek lisans diploması verilir.
+(3) Tezsiz yüksek lisans diploması üzerinde öğrencinin kayıtlı olduğu enstitü ana bilim/ana sanat dalındaki programın Yükseköğretim Kurulu tarafından onaylanmış adı bulunur.

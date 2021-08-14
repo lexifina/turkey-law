@@ -1,0 +1,8 @@
+Tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş
+MADDE 53 – (1) (Değişik:RG-14/8/2021-31568) Tezsiz yüksek lisans programından, tezli yüksek lisans programına geçiş yapmak isteyen öğrenci; tezli yüksek lisans programına ilgili başvuru döneminde EK tarafından belirlenen başvuru koşullarını sağlayarak ilgili EABDK/EASDK’nin önerisi ve EYK’nin kararı ile bir defaya mahsus en geç ikinci yarıyılın sonuna kadar geçiş yapabilir. Bu durumda tezsiz yüksek lisans programında alınan dersler, ilgili EABDK/EASDK’nin uygun görüşü ve EYK’nin kararı ile tezli yüksek lisans programındaki derslerin yerine sayılabilir.
+(2) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçecek öğrencilerin başarısız dersinin olmaması ve 4,00 üzerinden 3,00 not ortalamasına sahip olması gerekir.
+(3) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçişte tezsiz yüksek lisansta aldığı derslerin genel akademik not ortalamasının %50’si ve alanla ilgili ALES puanının %50’sinin toplamından elde edilen puana göre başarı sıralaması yapılır.
+(4) Tezli programa geçiş yapan öğrenci, tekrar tezsiz programa geçiş yapamaz.
+(5) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçiş kontenjanı, o yılki tezli yüksek lisans programı kontenjanının %50’sinden fazla olamaz.
+(6) Tezsiz yüksek lisans programından tezli yüksek lisans programına geçen öğrenci, tezli yüksek lisans için öngörülen azami süre içinde programı tamamlar.
+(7) (Değişik:RG-14/8/2021-31568) Uzaktan öğretim tezsiz programlarından tezli programlara geçiş için öğrencinin ALES’ten en az başvurduğu programın puan türünden 65 almış olması ve EK tarafından ilgili dönem için belirlenen tezli programın gerektirdiği diğer başvuru koşullarını sağlamış olması gerekir.

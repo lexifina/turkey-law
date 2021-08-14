@@ -1,0 +1,2 @@
+Yabancı dil hazırlık programı
+MADDE 14 – (1) İleri seviyede yabancı dil becerisi gerektiren lisansüstü programlar için EK’nin önerisi, Senatonun kararı ve Yükseköğretim Kurulunun onayıyla yabancı dil hazırlık programı açılabilir. Yabancı dil hazırlık programında geçirilen süre, bu Yönetmelik hükümlerinde belirtilen yüksek lisans veya doktora/sanatta yeterlik programı sürelerine dâhil edilmez. Yabancı dil hazırlık programının uygulama esasları EK’nin önerisi ve Senatonun kararıyla düzenlenir.

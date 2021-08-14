@@ -1,0 +1,4 @@
+Öğretim yılı
+MADDE 7 – (1) Bir öğretim yılı iki yarıyıl, yarıyıl sonu ve bütünleme sınavlarından oluşur. Eğitim-öğretim döneminin kapsadığı kayıt, ders, sınav ve benzeri faaliyetlerin süre ve tarihlerine ait hususlar Senato tarafından belirlenir ve akademik takvim olarak ilan edilir.
+(2) Senato tarafından uygun görülmesi halinde bazı programlar ve dersler sadece uzaktan öğretim ve/veya örgün eğitim ve öğretim yoluyla yürütülebilir. Uzaktan öğretimde 2547 sayılı Kanunun 44 üncü maddesi hükümleri uygulanır.
+(3) İlimiz ve bağlı ilçelerinde veya ülke genelinde genel hayatı etkileyen salgın hastalık, doğal afet, elverişsiz hava koşulları gibi durumlarda bu Yönetmelikle düzenlenen eğitim, öğretim, yönetim ve işleyişe ilişkin usul ve esaslar Senato veya Rektörlük tarafından ayrıca belirlenebilir.
