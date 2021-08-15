@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.38850",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "UFUK ÜNİVERSİTESİ YABANCI DİLLER BÖLÜMÜ İNGİLİZCE HAZIRLIK PROGRAMI EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "38850",
+  "issuer": "UFUK ÜNİVERSİTESİ",
+  "issuer_slug": "ufuk-universitesi",
+  "path": "regulation/ufuk-universitesi/2021/38850",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38850&MevzuatTertip=5",
+  "source_sha256": "44e77b219c399d083dcbc870faff4568486dd25babc8535d07c7a811791e3c5a",
+  "source_bytes": 34452,
+  "published": "2021-08-15",
+  "gazette": "31569",
+  "in_force": "2021-08-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.08.2021); own commencement article: \"Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1655,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
