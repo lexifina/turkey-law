@@ -1,0 +1,2 @@
+Başhekim
+MADDE 8 – (1) Başhekim, Merkezin en üst yöneticisidir. Başhekim; Üniversitenin Diş Hekimliği Fakültesi öğretim üyeleri arasından Rektörün önerisi üzerine Mütevelli Heyet Başkanı tarafından iki yıllık süre için görevlendirilir. Görev süresi biten Başhekim yeniden görevlendirilebilir. Başhekim, gerektiğinde görev süresi dolmadan aynı usulle görevden alınabilir. Başhekim, Merkezin tüm faaliyetlerinden Rektöre ve Mütevelli Heyete karşı sorumludur.
