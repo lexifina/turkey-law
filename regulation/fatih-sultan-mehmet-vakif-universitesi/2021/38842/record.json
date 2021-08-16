@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-08-16",
+      "16.08.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31570",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-08-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Fatih Sultan Mehmet Vakıf Üniversitesi",
+  "issuer_slug": "fatih-sultan-mehmet-vakif-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/fatih-sultan-mehmet-vakif-universitesi/2021/38842",
+  "published": "2021-08-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38842&MevzuatTertip=5",
+  "source_bytes": 27277,
+  "source_id": "8.5.38842",
+  "source_sha256": "f48ec8c970480cba8c64bf3cd0d5b0595a902e4f6ce48e5c9d95659f81c99d23",
+  "text_status": "as-enacted",
+  "title": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ BİYOMEDİKAL\r\nELEKTRONİK TASARIM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 359,
+  "word_count": 1047
+}
