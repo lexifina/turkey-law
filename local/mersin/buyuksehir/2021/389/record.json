@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "389",
+  "decision_date": "2021-08-16",
+  "title": "- MEC.KAR.( Akdeniz_Nüzhetiye 88 ada 25 p ).doc",
+  "listed_as": "389- MEC.KAR.( Akdeniz_Nüzhetiye 88 ada 25 p ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/389--meckar-akdeniz-nuzhetiye-88-ada-25-p--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/16-agustos-2021-meclis-kararlari",
+  "listing_sha256": "4f23d1c839bc3cfcbf9b4282b877925dd3b52b687a74cab825b593b8e5962dbb",
+  "meeting_title": "16 AĞUSTOS 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
