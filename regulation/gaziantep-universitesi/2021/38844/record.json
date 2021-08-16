@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-08-16",
+      "16.08.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31570",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-08-16",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2021/38844",
+  "published": "2021-08-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38844&MevzuatTertip=5",
+  "source_bytes": 29876,
+  "source_id": "8.5.38844",
+  "source_sha256": "9c7e6a9fcb00e9a78b991b2a6822d7050f2cf08a711705df297c36b34fba7ed0",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ DENEY HAYVANLARI UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 1278
+}
