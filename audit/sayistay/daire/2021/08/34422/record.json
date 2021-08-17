@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "813",
+  "decision_date": "2021-08-17",
+  "source_id": 34422,
+  "chamber": "6",
+  "ilam_number": "301",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34422/",
+  "source_sha256": "333351477f667e31e65375b0fbe164c134a2d4efc39fd4b01f671a04e411c33b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
