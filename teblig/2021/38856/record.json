@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31572",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31572",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-08-18",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Dışişleri Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-70-0.json",
+      "id": "70",
+      "label": "Dışişleri Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=70&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "disisleri-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-08-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38856&MevzuatTertip=5",
+  "source_bytes": 19374,
+  "source_id": "9.5.38856",
+  "source_sha256": "65e85a224b63b5a50b0e7e6abd24fb00d1aa1bbd9e8e8ddbf342c2786f6bba1e",
+  "title": "TÜRK AKREDİTASYON KURUMUNCA UYGULANACAK AKREDİTASYON KULLANIM ÜCRETİ/PAYINA DAİR TEBLİĞ\r\n(TÜRKAK: 2021/1)",
+  "word_count": 452
+}
