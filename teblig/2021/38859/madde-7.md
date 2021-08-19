@@ -1,0 +1,5 @@
+Bağımsız bilgi sistemleri ve iş süreçleri denetimi
+MADDE 7 – (1) Kuruluşun bilgi sistemleri, iş süreçleri ve iç sistemlerinin denetimi ve denetim sonuçlarının raporlanması BSDHY ile belirlenen usul ve esaslar çerçevesinde, BSDHY kapsamında yetkilendirilmiş veya izin verilmiş bağımsız denetim kuruluşlarınca gerçekleştirilir.
+(2) BSDHY’de geçen “banka” ifadesi kuruluş; “bankacılık süreçleri” ifadesi ise kuruluşun iş süreçleri olarak uygulanır. İş süreçlerinin belirlenmesi ve denetim kapsamına dâhil edilmesinde, BSDHY’nin 5 inci maddesinde tanımlanan önemlilik kriteri dikkate alınır.
+(3) Denetçi, kuruluşun destek hizmeti alarak gerçekleştirdiği hizmetlerin bilgi sistemlerini ve iş süreçlerini nasıl etkilediğini göz önünde bulundurur, denetimini buna göre planlar ve etkin bir denetim yaklaşımı geliştirir.
+(4) İş süreçleri denetimi her yıl, bilgi sistemleri denetimi iki yılda bir kez yapılır. Kurum, gerekli gördüğü hallerde denetlenenlerden herhangi biri ya da tüm denetlenenler için, bu denetimlerin kapsamını ve sıklığını farklılaştırabilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 93 üncü maddesi ve ek 1 inci maddesi, 23/2/2006 tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanununun 27 nci maddesinin üçüncü fıkrası ve 29 uncu maddesinin ikinci fıkrası ile 10/3/2007 tarihli ve 26458 sayılı Resmî Gazete’de yayımlanan Banka Kartları ve Kredi Kartları Hakkında Yönetmeliğin 26/B maddesinin dördüncü fıkrası hükümlerine dayanılarak hazırlanmıştır.
