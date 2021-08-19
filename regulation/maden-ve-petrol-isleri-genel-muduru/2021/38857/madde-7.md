@@ -1,0 +1,6 @@
+Taleplere ilişkin usul ve esaslar
+MADDE 7 – (1) İşlem yetkilisi tarafından ilgili mevzuat kapsamındaki taleplerin, elektronik otomasyon yazılımları vasıtasıyla yapılması zorunludur.
+(2) Taleplerin, elektronik otomasyon yazılımları bünyesindeki uygulama menüleri aracılığıyla ve belirlenmiş olan işlem adımları takip edilerek yapılması zorunludur.
+(3) Talepler için hazırlanmış olan elektronik otomasyon yazılım menüleri olmasına rağmen dilekçe, e-dilekçe, resmî yazı, KEP, UETS, elektronik posta, yardım masası, posta ve benzeri farklı bir yöntem tercih edilerek Genel Müdürlüğe iletilen talepler hakkında işlem yapılmaz.
+(4) Talepler, her bir takvim günü için TSİ 00:00 ila 23:59 zaman aralığında yapılır. Talep zamanı hakkında çelişki olması halinde, zamanın belirlenmesinde kullanılan zaman damgası kabul edilir.
+(5) Elektronik otomasyon yazılımları üzerinden yapılan taleplerin geçerlilik kazanması için, bu taleplerin ilgili mevzuatında belirtilen sürenin son gününe kadar gerekli ekleri ile beraber eksiksiz olarak ilgili modül üzerinden yapılması ve varsa gerekli başvuru ücretinin ödenmiş olması zorunludur. Taleplere ilişkin ödemeler Genel Müdürlüğün belirlediği kurumsal tahsilat sistemi kullanılarak gerçekleştirilir. Ödemeye bağlı süreli talepler için kanuni sürenin tamamlandığı gün sonuna kadar ödemelerin yapılmış olması zorunludur.
