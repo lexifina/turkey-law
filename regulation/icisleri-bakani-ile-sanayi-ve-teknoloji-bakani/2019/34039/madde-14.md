@@ -1,0 +1,5 @@
+Yetki belgesi alma işlemi
+MADDE 14 – (1) Dağıtıcı, ses ve gaz fişeği atabilen silah satın alacaklara Kanunun 3 üncü maddesinin birinci fıkrasında belirtilen şartları taşımaları şartıyla satış yapar. Merkezi kayıt sisteminin devreye alınmasını müteakip yetki belgesi başvurusu elektronik ortamda yapılır. Gerekli şartları taşımaları kaydıyla, ses ve gaz fişeği atabilen silah satın almak isteyenlere merkezi kayıt sistemi aracılığıyla yetki belgesi hakları verilir.
+(2) Yetki belgesinin geçerlilik süresi 6 aydır.
+(3) Alınan her yetki belgesi ile bir adet ses ve gaz fişeği atabilen silah alınabilir. Ancak ülkemizde ikamet eden yabancılara, turistlere, mültecilere, şartlı mülteci ve ikincil koruma statüsü sahipleri ile insani ikamet izni sahipleri ve geçici koruma sağlananlara ses ve gaz fişeği atabilen silah satılamaz.
+(4) Dağıtıcının, Kanunun 3 üncü maddesinde belirtilen şartları sağlamayan ve merkezi kayıt sisteminin devreye alınmasını müteakip yetki belgesi olmayan kişilere satış yapması durumunda İçişleri Bakanlığınca verilen bayilik belgesi 5 yıl süre ile iptal edilir.

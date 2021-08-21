@@ -1,0 +1,48 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Aksam: Ses ve gaz fişeği atabilen silahın gövde (çerçeve), namlu, kapak (sürgü), toplu tabanca fişek haznesi, ateşleme tertibatı veya bunların yerine konabilen unsurlarını,
+b) Ateşli silah: Antika ateşli silahlar veya taklitleri hariç, bir patlayıcı madde etkisiyle fişek, kurşun veya mermi atan, atacak şekilde tasarlanan veya kolayca atacak hale getirilebilen namlulu herhangi bir taşınabilir silahı,
+c) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) Bilgi sistemi: Bakanlık tarafından oluşturulan ve yetkili personel tarafından e-devlet ya da kimlik doğrulama ile işlem yapılan yazılım altyapısını,
+d) Dağıtıcı: Ürünün tedarik zincirinde yer alan ve faaliyetleri ürünün güvenliğine ilişkin hususları etkilemeyen, mermi veya av malzemesi ya da yivsiz tüfek satışı yapmak için ruhsatlandırılmış, ses ve gaz fişeği atabilen silah da satabilen gerçek veya tüzel kişiyi,
+e) Genel satış amaçlı üretim: Hem yurt içi piyasaya hem de yurt dışı piyasaya satılmak üzere üretilen ürünü,
+f) Gümrük tarife istatistik pozisyonu (GTİP): Türk Gümrük Tarife Cetvelinde on iki rakamdan oluşan pozisyonu,
+g) Hariçte işleme rejimi: Serbest dolaşımdaki eşyanın hariçte işleme faaliyetlerine tabi tutulmak üzere Türkiye Gümrük Bölgesinden geçici olarak ihracı ve bu faaliyetler sonucunda elde edilen ürünlerin ithal vergilerinden tam veya kısmi muafiyet suretiyle yeniden serbest dolaşıma girişine ilişkin hükümlerin uygulandığı rejimi,
+ğ) İhracat amaçlı üretim: Sadece yurt dışı piyasaya satılmak üzere üretilen ürünü,
+h) Kanun: 23/1/2008 tarihli ve 5729 sayılı Ses ve Gaz Fişeği Atabilen Silahlar Hakkında Kanunu,
+ı) Kayıtlı elektronik posta (KEP): Elektronik iletilerin, gönderimi ve teslimatı da dâhil olmak üzere kullanımına ilişkin olarak hukukî delil sağlayan, elektronik postanın nitelikli şeklini,
+i) Kırma tabanca: Fişek beslemesi, her atış için namlunun gövde/çerçeve/kubuzdaki mafsal etrafında kırılarak elle doldurma şeklinde yapılan silahları,
+j) Kolluk birimi: İllerde il emniyet müdürlükleri ve il jandarma komutanlıklarını, ilçelerde ilçe emniyet müdürlüğü/amirliği ve ilçe jandarma komutanlıklarını,
+k) Kuruluş izni: Bu Yönetmelik kapsamında üretim yapacak işletmelerin Bakanlıktan almaları gereken izni,
+l) Merkezi kayıt sistemi: Bu Yönetmelik kapsamındaki ses ve gaz fişeği atabilen silahların üretim, satış, nakil ve bildirimine ilişkin bilgileri içeren ve İçişleri Bakanlığı bünyesinde kurulan veri tabanını,
+m) Namlu: Bu Yönetmelik kapsamında üretilen ses ve gaz fişeği atabilen silahlardan ateşleme sonucu oluşan gazın ve fişek ucunu kapatmak için kullanılan plastiğin parçacıklarının çıkışına izin veren veya tam kapalı şekilde tasarlanmış olan yivsiz-setsiz metal boruyu,
+n) Piyasa gözetimi ve denetimi: Yetkili kuruluşlar tarafından, ürünün piyasaya arzı veya dağıtımı aşamasında veya ürün piyasada iken ilgili teknik düzenlemeye uygun olarak üretilip üretilmediğinin, güvenli olup olmadığının denetlenmesi veya denetlettirilmesini,
+o) Piyasaya arz: Ürünün, tedarik veya kullanım amacıyla bedelli veya bedelsiz olarak piyasada yer alması için yapılan faaliyeti,
+ö) Prototip: Gerekli test ve incelemelere esas olmak üzere çalışma özelliklerini, performansını ve fabrikada üretilebilme koşullarını denemek için yapılan ses ve gaz fişeği atabilen numune silahı,
+p) Ses ve gaz fişeği atabilen silah: Bu Yönetmelik kapsamında özellikleri belirlenen ses ve gaz fişeği atabilen, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanun hükümlerine tabi silah vasfında olmayan; mermi çekirdeği, saçma veya katı cisim ihtiva eden özel şekil ve nitelikteki fişekleri ise atamayacak şekilde imal edilmiş, kurusıkı silah olarak da tabir edilen silahları,
+r) Şarjörlü tabanca: Fişek beslemesini, çıkabilecek şekilde üzerine monte edilmiş kutu şeklindeki hazneden alan tabancanın şeklini,
+s) Tam otomatik silah: Çalışma prensibi, ilk dolduruşun atıcı tarafından yapıldığı ve tetik çekili tutulduğunda sürekli atış yapabilen veya çekilip bırakıldığı durumlarda peş peşe birden fazla atış yapabilen vasıfta olan silahların sınıfını,
+ş) Tek tek atım yapan silah: Çalışma prensibi, her atım için namluya fişek dolumunun atıcı tarafından yapılmasını gerektiren, tam ve yarı otomatik atış yeteneği olmayan silahların sınıfını,
+t) Teknik sorumlu: Bu Yönetmelik kapsamındaki ürünle ilgili teknik resimlerin yine bu Yönetmelikte belirtildiği şekilde hazırlanarak onaylanmasından, ürünlerin bu resme ve kriminal inceleme için beyan edilen ses ve gaz fişeği atabilen silaha uygun şekilde üretilmesinden ve üretim faaliyetlerinin teknik esaslara uygun yürütülmesinden sorumlu mühendisi,
+u) Toplu tabanca: Fişek beslemesini, bir eksen etrafında dönebilen ve aynı zamanda şarjör görevi yapan silindir biçimindeki hazneden alan tabancanın şeklini,
+ü) Üretici:
+1) Bir ürünü üreten, imal eden, ıslah eden veya ürüne adını, ticarî markasını veya ayırt edici işaretini koymak suretiyle kendini üretici olarak tanıtan gerçek veya tüzel kişiyi,
+2) Üreticinin Türkiye dışında olması halinde, üretici tarafından yetkilendirilen temsilciyi ve/veya ithalatçıyı,
+3) Ürünün tedarik zincirinde yer alan ve faaliyetleri ürünün güvenliğine ilişkin hususları etkileyen gerçek veya tüzel kişiyi,
+v) Üretim izni: Bu Yönetmelik kapsamında üretim yapacak işletmeler için sırasıyla, kuruluş ve prototip üretim izninden sonra verilen izni,
+y) Yarı otomatik silah: Çalışma prensibi, ilk dolduruşu atıcı tarafından yapılan ve her atışı müteakip bir sonraki fişeği otomatik olarak atışa hazır hâle getirebilen ve her tetik çekiminde sadece bir tek atış yapabilen vasıfta olan silahların sınıfını,
+z) Yetki belgesi: Kolluk birimlerine e-devlet üzerinden yapılan müracaata istinaden, satış işleminin takip ve kontrolünü sağlayan ön onay mahiyetindeki belgeyi veya kodu,
+aa) Yetkili personel: Bakanlığa ve/veya İçişleri Bakanlığına müracaata yetkili, MERSİS veya ESBİS üzerinde firma sahibi, ortağı veya yetkilendirilmiş kişi olarak tanımlanmış personeli,
+ifade eder.
+(2) Ses ve gaz fişeği atabilen silahın genel özelliklerini açıklayan ifadelerden;
+a) Boyut: Ses ve gaz fişeği atabilen silahın ölçülendirilmesinde ele alınan üç doğrultudan uzunluk, genişlik ve derinliği,
+b) Marka: Bir teşebbüsün mallarının veya hizmetlerinin diğer teşebbüslerin mallarından veya hizmetlerinden ayırt edilmesini sağlaması ve marka sahibine sağlanan korumanın konusunun açık ve kesin olarak anlaşılmasını sağlayabilecek şekilde sicilde gösterilebilir olması şartıyla kişi adları dâhil sözcükler, şekiller, renkler, harfler, sayılar, sesler ve malların veya ambalajlarının biçimi olmak üzere her tür işaretten oluşabilen ifadeyi,
+c) Model: Aynı markanın farklı biçimlerini ifade etmek, ses ve gaz fişeği atabilen silah çeşitliliğini artırmak üzere firma tarafından yapılan tanımlamayı,
+ç) Piyasaya arz durumu: Ses ve gaz fişeği atabilen silahın genel satış amaçlı veya ihracat amaçlı olarak planlanan piyasaya arzını,
+ifade eder.
+(3) Ses ve gaz fişeği atabilen silahın teknik özelliklerini açıklayan ifadelerden;
+a) Çap/Kalibre: Bu Yönetmelik kapsamında bulunan ses ve gaz fişeği atabilen silahların fişek yatağının boyutlarına göre üretilmiş olan fişeklerin, genişlik ve uzunluğunun milimetre veya inç cinsinden ölçülendirilmesini,
+b) Sınıf: Ses ve gaz fişeği atabilen silahın çalışma prensibine göre yapılan sınıflandırmayı,
+c) Şekil: Ses ve gaz fişeği atabilen silahın fişek beslemesine göre yapılan sınıflandırmayı,
+ç) Tip: Ses ve gaz fişeği atabilen silahın namlu borusunun kapalı, eksen kaçıklığı, emniyet saclı, pimli, pimsiz, düz ve benzeri şekillerde olabilen iç yapısını,
+ifade eder.

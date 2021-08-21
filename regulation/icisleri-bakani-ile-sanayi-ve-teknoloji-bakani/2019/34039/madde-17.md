@@ -1,0 +1,5 @@
+Nakil işlemi
+MADDE 17 – (1) Ses ve gaz fişeği atabilen silahlar; fişekleri boşaltılarak, her an kullanıma ve erişim kolaylığına imkân vermeyecek şekilde ve bir kutu içerisinde Ek-3’te yer alan Ses ve Gaz Fişeği Atabilen Silah Bildirim Kartı ile nakledilebilirler. Bu silahların belirtilen şekil ve şartların dışında nakledilmesi taşıma olarak kabul edilir.
+(2) Bu silahlar bayiden veya üçüncü şahıslardan devir veya satın alınmasından itibaren bildirimde bulunulmasına kadar tanınan bir aylık süre içerisinde birinci fıkrada belirtilen usule göre ve ancak fatura ya da Ek-5’te yer alan belge ile nakledilebilir. Merkezi kayıt sisteminin devreye alınmasını müteakip üretici ve dağıtıcılar tarafından yurt içi veya yurt dışına satılan ses ve gaz fişeği atabilen silahlar, merkezi kayıt sistemi tarafından oluşturulan nakil belgesi ile nakledilir.
+(3) Birinci ve ikinci fıkralarda belirtilen işlemlere aykırı davranılması durumunda Kanunun 4 üncü maddesine göre işlem yapılır.
+(4) Ses ve gaz fişeği atabilen silahlar birinci ve ikinci fıkralarda belirtilen usullere uygun olarak posta veya kargo yoluyla nakledilebilir.

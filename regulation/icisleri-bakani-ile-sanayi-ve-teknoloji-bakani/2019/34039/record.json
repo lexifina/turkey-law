@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.34039",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SES VE GAZ FİŞEĞİ ATABİLEN SİLAHLAR HAKKINDA YÖNETMELİK",
+  "number": "34039",
+  "issuer": "İçişleri Bakanı ile Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "icisleri-bakani-ile-sanayi-ve-teknoloji-bakani",
+  "path": "regulation/icisleri-bakani-ile-sanayi-ve-teknoloji-bakani/2019/34039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34039&MevzuatTertip=5",
+  "source_sha256": "0b4dab69a5970d4e6a461ca5f6f2426457288247c22f927e1d32f07608d722f9",
+  "source_bytes": 123091,
+  "published": "2019-12-17",
+  "gazette": "30981",
+  "in_force": "2021-08-21",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-21/8/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-08-21",
+      "RG-21/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-21",
+      "21/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5126,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34039-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
