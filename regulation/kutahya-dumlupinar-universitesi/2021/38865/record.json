@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-08-23",
+      "23.08.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31577",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-08-23",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kütahya Dumlupınar Üniversitesi",
+  "issuer_slug": "kutahya-dumlupinar-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kutahya-dumlupinar-universitesi/2021/38865",
+  "published": "2021-08-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38865&MevzuatTertip=5",
+  "source_bytes": 25857,
+  "source_id": "8.5.38865",
+  "source_sha256": "c2e9731d3d9fdf994a076be52929fc791cfd72b7922e3b8bb9bb7aee62de6028",
+  "text_status": "as-enacted",
+  "title": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ İŞLETMECİLİK VE GİRİŞİMCİLİK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 190,
+  "word_count": 1038
+}
