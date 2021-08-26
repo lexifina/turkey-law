@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/847",
+  "source_id": 7140,
+  "date": "2021-08-26",
+  "title": "“İlgili kişinin bir web sitesinden kişisel verilerinin silinmesi talebinin veri sorumlusu tarafından yerine getirilmemesi” hakkında Kişisel Verileri Koruma Kurulunun 26/08/2021 tarihli ve 2021/847 sayılı Karar Özeti ",
+  "source": "https://www.kvkk.gov.tr/Icerik/7140/2021-847",
+  "source_sha256": "ad4fd59bb1bf7703723a36b653f374fd5116f762906955811e3a3f787b924a1d",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
