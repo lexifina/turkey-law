@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10378-1",
+  "decision_date": "2021-08-26",
+  "title": "Ar-Ge, Test ve İlk Dolum Amaçlı Akaryakıt Teminine İlişkin Kurul Kararı",
+  "resmi_gazete_date": "2021-08-28",
+  "resmi_gazete_number": "31582",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xzDflOoBtT8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xzDflOoBtT8="
+  ],
+  "source_sha256": "e3dd4194cb67dbe141fbdacafe630bbbd2033c30347bbbfb83a1376f89d6f7f8",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2021-08-26",
+  "law_text_complete": false
+}
