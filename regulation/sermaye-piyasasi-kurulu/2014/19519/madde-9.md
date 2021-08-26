@@ -1,0 +1,3 @@
+Hak sahiplerinin ve alacak tutarlarının tespiti
+MADDE 9 – (1) YTM, yatırım kuruluşunun tazmin kapsamında yer alan gerçek hak sahiplerini, alacak ve borç tutarlarını; Kurul, MKK, Takasbank, yatırım kuruluşu, veri depolama kuruluşu, merkezi saklama kuruluşu kayıtları ile alacaklıların başvurularında sunulan belgeler ve YTM tarafından güvenilir bulunan diğer bilgi ve belgelere dayanarak tespit eder.
+(2) Tazmin kararı tarihi itibarıyla yatırımcı hesabında görülmemekle birlikte, hak sahibi olduğu kesinleşmiş mahkeme kararıyla tespit edilen veya YTM tarafından yatırımcıya ait olduğuna karar verilen nakit ve sermaye piyasası araçları da birinci fıkra uyarınca yapılacak tespitte dikkate alınır.

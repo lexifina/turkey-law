@@ -1,0 +1,4 @@
+Saklama hesaplarındaki sermaye piyasası araçlarının dağıtımı
+MADDE 11 – (1) Yatırımcılar adına saklanan sermaye piyasası araçları hak sahiplerine öncelikli olarak dağıtılır. Dağıtıma konu olan sermaye piyasası araçları, bulundukları her bir hesap bazında ve özellikle yerine getirilmemiş takas yükümlülükleri için mahsup edilir. Bu amaçla yatırımcı hesabında bulunan sermaye piyasası araçları, münferit hesaplar itibarıyla karşılaştırılır.
+(2) 10 uncu maddenin ikinci fıkrası uyarınca yapılan ilanda belirtilen sürede borcunu ödemeyen yatırımcılara ait sermaye piyasası araçlarının dağıtımı, yatırım kuruluşunun bu araçlar üzerinde genel hükümlere göre hapis hakkı kullanma ihtimali nedeniyle tazmin sürecinin kapatılmasına bırakılır ve yapılacak işlem kapatma kararında belirtilir.
+(3) Bu dağıtım sırasında yatırım kuruluşunun operasyonel maddi hata ve eksiklikleri nedeniyle, yatırımcı hesaplarında ortaya çıkan hatalar düzeltilir.

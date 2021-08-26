@@ -1,0 +1,3 @@
+Tazmin sürecini kapatma kararı
+MADDE 18 – (1) Kurul, tazmin sürecinin tamamlanmasından sonra, YTM’nin bildirimi üzerine tazmin sürecini kapatma kararı verir. YTM, tazmin sürecinin sonuçlarını, yatırımcıları tazmin kararı alınan yatırım kuruluşlarının tedrici tasfiyesinin veya iflasının istenmesinin yararlı olup olmayacağına ilişkin gerekçeli önerisiyle birlikte Kurula sunar. Tedrici tasfiye veya iflas kararı, tazmin sürecinin işleyişini engellemez. YTM, yatırımcıların haklarına, ödediği tazmin tutarı kadar halef olur.
+(2) Tazmin sürecinin kapatıldığı Kurul tarafından 5 inci maddenin üçüncü fıkrasında yer alan kurum ve kuruluşlara bildirilir ve YTM tarafından 32 nci madde çerçevesinde ilan edilir.

@@ -1,0 +1,7 @@
+Tazmin kapsamına girmeyen kişi ve kurumlar
+MADDE 17 – (1) Aşağıda sayılan kişi ve kurumlar tazmin kapsamında değildir:
+a) Yatırımcıları tazmin kararı verilen yatırım kuruluşlarının yönetim kurulu üyeleri, yöneticileri ve şahsen sorumlu ortakları, yüzde beş veya daha fazla paya sahip ortakları, denetim kurulu üyeleri veya ilgili yatırım kuruluşları ile aynı grup içinde yer alan diğer şirketlerde benzer konumda olan kişiler ile bu kişilerin eş ve ikinci dereceye kadar kan ve kayın hısımları ile bu kişiler adına hareket eden üçüncü kişiler.
+b) Yatırımcıları tazmin kararı verilen yatırım kuruluşları ile aynı grupta yer alan diğer şirketler.
+c) (a) bendinde sayılan gerçek ve tüzel kişilerin yüzde yirmi beş veya daha fazla paya sahip olduğu şirketler.
+ç) Yatırım kuruluşlarının mali sıkıntıya düşmesine neden olan veya finansal durumunun bozulmasına önemli etkileri olan olaylarda sorumluluğu bulunan veya bu olaylardan menfaat sağlayan kişiler.
+d) (Ek:RG-26/8/2021-31580) 7/8/2014 tarihli ve 29081 sayılı Resmî Gazete’de yayımlanan Kaydileştirilen Sermaye Piyasası Araçlarına İlişkin Kayıtların Tutulmasının Usul ve Esasları Hakkında Tebliğ (II-13.1)’in 12/A maddesi kapsamında, hak sahibi ismine açılmaksızın toplu olarak tutulan hesaplara ilişkin saklama hizmeti ile sınırlı olmak üzere yurt dışında kurulmuş ve yetkilendirilmiş, yabancı hukuka tabi yabancı merkezi saklama kuruluşları ile genel saklama yetkisi bulunan yatırım kuruluşları.

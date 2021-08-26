@@ -1,0 +1,4 @@
+Tazmin tutarı
+MADDE 15 – (1) Hak sahibi her bir yatırımcıya ödenecek azami tazmin tutarı 103.930 TL’dir. Bu tutar her yıl bir önceki yıla ilişkin olarak Vergi Usul Kanununca belirlenen yeniden değerleme oranında arttırılır. Kurulun teklifi üzerine Bakanlar Kurulu tarafından, toplam tazmin tutarı beş katına kadar artırılabilir. Bu sınır, hesap sayısı, türü ve para birimine bakılmaksızın, bir yatırımcının aynı kuruluştan olan taleplerinin tümünü kapsar. YTM tarafından ödenecek azami tutarın üzerinde kalan tutarın, bir yatırımcı tarafından başka bir yatırımcıya ödenmesi amacıyla devredilmiş olması halinde, devralana YTM tarafından ödeme yapılmaz.
+(2) Yatırım kuruluşundan alacaklı görünen ve birlikte hareket ettikleri tespit edilenlere, toplamı yukarıdaki tutarı aşmamak kaydıyla ödeme yapılır.
+(3) Yatırımcı hesabında bulunduğu için aynen dağıtımı yapılan nakit ve sermaye piyasası araçları tazmin tutarının hesabında dikkate alınmaz.

@@ -1,0 +1,3 @@
+Tasfiye bakiyesi ve dağıtım listesi
+MADDE 28 – (1) Tasfiye halindeki yatırım kuruluşunun nakit ve YTM tarafından nakde çevrilen malvarlığı tasfiye bakiyesini oluşturur. Tasfiye bakiyesi, tazmin sürecinde alacağının tamamı karşılanamayan hak sahiplerinin kalan alacakları, kamu alacakları, YTM’nin alacakları ile varsa diğer alacaklıların alacaklarının ödenmesinde kullanılır.
+(2) Yatırım kuruluşu malvarlığının nakde çevrilmesini takiben, yatırımcıların tazmin edilmeyen alacaklarını gösteren bir dağıtım listesi hazırlanır. Bu listenin temin edilebileceği yerler, yapılacak ödemelerin esasları ile ödemelerin yapılacağı tarih ve yerler, 32 nci madde çerçevesinde ilan edilir.

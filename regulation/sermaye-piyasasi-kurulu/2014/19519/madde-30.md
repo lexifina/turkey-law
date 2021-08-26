@@ -1,0 +1,3 @@
+Tedrici tasfiyenin kapanması ve iflas talebi
+MADDE 30 – (1) Kurul, YTM’nin başvurusu üzerine tedrici tasfiyenin kapatılmasına karar verir. Haklarında tedrici tasfiye kararı verilenlerin aktiflerinin, tasfiyenin amacı kapsamındaki hak sahiplerinin alacaklarını, tazmin kapsamında yapılan ödemeleri ve tasfiye giderlerini karşılamaya yetmediğinin tespiti halinde YTM, Kurulun uygun görüşü ile 24 üncü maddenin birinci fıkrasında belirtilen kişilerin iflasını da isteyebilir. Söz konusu keyfiyet 32 nci madde çerçevesinde ilan edilir ve 5 inci maddede sayılan kurumlara bildirilir.
+(2) Alacaklılar cetvelinde görünen hak sahiplerine, talep etmeleri halinde, YTM tarafından tasfiyenin kendileri ile ilgili sonuçlarını gösterir bir belge verilir.

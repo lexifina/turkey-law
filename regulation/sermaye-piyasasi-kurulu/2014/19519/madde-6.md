@@ -1,0 +1,4 @@
+YTM’nin tasarruf yetkisi
+MADDE 6 – (1) YTM tarafından gerekli görülmesi hâlinde, Kurulca hakkında yatırımcıları tazmin kararı verilen kuruluşun ödemelerinin durmasına ve tüm mal varlığı üzerinde sadece YTM tarafından tasarruf edilebilmesine karar verilebilir.
+(2) Kurul tarafından birinci fıkrada belirtilen kararın alınması durumunda, ilgili yatırım kuruluşunun tüm malvarlığı üzerinde sadece YTM tarafından tasarruf edilebilir. Yatırım kuruluşuna yapılacak tüm ödemeler sadece YTM’ye yapılır. Yatırımcılar tarafından MKK nezdindeki hesapları üzerinde tesis edilmiş olan blokajlar, YTM’nin talebi üzerine MKK tarafından kaldırılır.
+(3) Bu maddede yer alan hükümler bankalar açısından, sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme ve sermaye piyasası aracı teslim yükümlülükleri açısından uygulanır.

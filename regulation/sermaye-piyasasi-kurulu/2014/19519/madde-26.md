@@ -1,0 +1,4 @@
+Nakde çevirme esasları
+MADDE 26 – (1) Tedrici tasfiye kapsamındaki yatırım kuruluşunun malvarlığına dahil sermaye piyasası araçlarından, 13 üncü maddenin ikinci fıkrası saklı kalmak üzere, borsalar ve teşkilatlanmış diğer piyasalarda işlem görenler ilgili borsa ya da teşkilatlanmış piyasada, borsalar ve teşkilatlanmış diğer piyasalarda işlem görmeyenler ise rayiç bedel üzerinden satılır.
+(2) Sermaye piyasası araçları dışında kalan menkul ve gayrimenkullerin paraya çevrilmesine ilişkin esaslar Kurulun uygun görüşü alınmak suretiyle YTM tarafından belirlenir.
+(3) Kurul, YTM, MKK, BİAŞ ve Takasbank’ın personeli ile bunların eşleri, üçüncü derece dâhil kan ve kayın hısımları ve bunlarla doğrudan veya dolaylı ilişkide bulunan kişiler, ilgili mevzuat hükümleri saklı kalmak kaydıyla, borsalar ve teşkilatlanmış diğer piyasalarda yapılan satışlar hariç, diğer satışlardan alım yapamazlar.

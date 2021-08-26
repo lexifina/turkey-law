@@ -1,0 +1,2 @@
+Yasal organların durumu
+MADDE 21 – (1) Tedrici tasfiye kararı verildikten sonra, yatırım kuruluşunun yasal organlarının görev ve yetkileri, tasfiye sonuçlanıncaya kadar YTM tarafından yerine getirilir. Tedrici tasfiyenin sonuçlandığının ilan edildiği tarihte başkaca bir işleme gerek kalmaksızın, yatırım kuruluşunun tedrici tasfiye kararı tarihinden önceki yasal organları görev ve yetkilerini yeniden üstlenirler. Yapılan işlemlerden tescili gerekli olanlar, YTM’nin talebi üzerine harca tabi olmaksızın tescil ve ilan olunur.

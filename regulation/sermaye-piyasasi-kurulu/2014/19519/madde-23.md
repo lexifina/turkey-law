@@ -1,0 +1,3 @@
+Portföylerin yönetiminin devri ve bağımsız denetim yükümlülüğü
+MADDE 23 – (1) Haklarında tedrici tasfiye kararı verilen yatırım kuruluşlarının yönettiği portföylerin yönetiminin, bir başka kuruluşa devrine Kurulca karar verilebilir.
+(2) Hakkında tedrici tasfiye kararı verilen yatırım kuruluşunun, Kurulun farklı bir kararı olmadıkça, sermaye piyasası mevzuatından kaynaklanan bağımsız denetim yükümlülüğü sona erer. Bağımsız denetim ve uzmanlık gerektiren nitelikteki sair hizmetlere ilişkin yatırım kuruluşunun mevcut sözleşmeleri feshedilerek Kurula bilgi verilir. Tedrici tasfiye amaç ve süresi ile sınırlı olmak üzere yatırım kuruluşunun adına YTM tarafından yeni sözleşmeler akdedilebilir.
