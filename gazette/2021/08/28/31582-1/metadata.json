@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-08-28",
+  "issue": "31582",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Bolu Abant İzzet Baysal Üniversitesi Döner Sermaye İşletmesi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210828-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210828.htm",
+  "index_sha256": "c83206ca8a402cffea11009e6c7528fe660cf68e685e3787987434c03f4837c8",
+  "index_header": "28 Ağustos 2021 ... 31582 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/08/20210828.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
