@@ -1,0 +1,10 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Afete yol açan deprem, taşkın, kıtlık, kuraklık, heyelan, çığ, fırtına, orman yangınları, salgın hastalıklar, atmosfer kirliliği, nükleer sızıntı, kimyasal ve endüstriyel kazalar gibi gerek doğal gerekse insan kaynaklı olaylarla ilgili disiplinler arası eğitim ve araştırma faaliyetlerini teşvik etmek ve eşgüdümü sağlamak; bu alanda elde edilen bilgileri ve örnek uygulamaları çeşitli iletişim kaynakları aracılığıyla topluma yaymak.
+b) Disiplinler arası araştırmalarla afetlerde zarar ve riski azaltma, afete hazırlık, acil müdahale, afet sonrası iyileştirme strateji ve hedeflerinin oluşturulmasına katkı sağlayacak Ar-Ge çalışmaları yapmak; kurumsal ve toplumsal öğrenme ve bilinçlenmenin geliştirilmesine yönelik eğitim programlarının planlarını hazırlamak; bu alanda araştırma ve eğitim çalışmaları yapmak.
+c) Afete hazırlık, afet sırasında müdahale ve afet sonrası ön iyileştirme için lojistik planlar hazırlamak ve uygulamak; afet yönetiminde kurumlar arasında koordinasyonu ve toplumla bütünleşmeyi sağlayacak sosyal, bilişim ve teknolojik altyapıyı tasarlamak; afet ve risk yönetim planlarını, hedeflerini ve karar destek mekanizmalarını geliştirmek.
+ç) Türkiye’nin afet yönetimi sisteminin iyileştirilmesine katkı sağlamak, afet yönetimi konusunda gerek yurt içi gerekse yurt dışında bulunan enstitü, merkez ve yükseköğretim kurumlarıyla işbirliği yapmak; ilgili mevzuatı doğrultusunda ulusal ve uluslararası kuruluşlara üye olmak ve Üniversiteyi ilgili platformlarda temsil etmek.
+d) Afet yönetimi ile ilgili konularda, Türkiye’deki kamu kurumlarına, özel kuruluşlara ve halka yönelik kurs ve sertifika programları düzenlemek, sertifikalandırma sınavları yapmak; afet eğitimi ve yönetimi ile ilgili konularda kamu kurum ve kuruluşlarına yol göstermek, sorunlarının çözümünde danışmanlık yapmak.
+e) Afet öncesi uyarı sistemleri ile afet sırasında kullanılabilecek cihaz ve sistemlerin geliştirilmesi için projeler geliştirmek ve Ar-Ge faaliyetleri yürütmek.
