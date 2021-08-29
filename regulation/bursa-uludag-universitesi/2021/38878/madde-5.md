@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; dijital dönüşüm bağlamında, Üniversite, kamu ve özel sektör kuruluşları ile sivil toplum örgütleri gibi paydaşların bilimsel bilgi birikimi, yetkin insan kaynağı, teknolojik altyapı ve finansal kaynaklar gibi imkânlarını bir araya getirerek ülke ve bölge ekonomisine katkı oluşturacak dijital dönüşüm altyapı içerikli faaliyetlerin yürütülmesini sağlamak, dijital dönüşüm sürecine girdi oluşturacak biçimde, bilimsel araştırmaların yürütülmesini teşvik etmek, Üniversitenin ve paydaşların insan kaynağının dijital dönüşüm ekseninde farkındalıklarını artırmak, dijital dönüşüm odaklı lisansüstü tez çalışmalarının yapılmasına katkı sağlamak, ulusal ve uluslararası proje çalışmalarının yürütülmesini temin etmektir.
