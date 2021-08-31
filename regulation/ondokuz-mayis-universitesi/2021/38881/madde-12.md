@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, afet eğitimi ile ilgili araştırmaları bulunan Üniversite öğretim elemanları ile konuyla ilgili kamu ve özel sektör kurum ve kuruluşlarının temsilcileri arasından Yönetim Kurulunca önerilen ve Rektör tarafından onaylanan en fazla yedi üyeden oluşur.
+(2) Danışma Kurulu, Müdürün veya yardımcısının katılmasıyla yılda en az bir kez toplanır. Üyelerinin görev süresi iki yıldır. Danışma Kurulu, Merkezin çalışmalarını değerlendirir ve yeni çalışmalar konusundaki görüş ve tavsiyelerini Yönetim Kuruluna bildirir. Danışma Kurulu toplantılarında çoğunluk aranmaz.
