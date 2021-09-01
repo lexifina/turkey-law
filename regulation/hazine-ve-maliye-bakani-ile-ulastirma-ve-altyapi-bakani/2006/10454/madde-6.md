@@ -1,0 +1,2 @@
+Katkı paylarının ödenmemesi
+MADDE 6 – (1) Beşinci maddede belirtilen sürelerde ödenmeyen katkı payları, (Değişik ibare:RG-1/9/2021-31585) Kurumun ilgili vergi dairesine yapacağı başvuru üzerine, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre takip ve tahsil edilir. Vergi dairelerince yapılan tahsilatlar ertesi ayın sonuna kadar (Değişik ibare:RG-1/9/2021-31585) Kurum hesabına aktarılır. Süresinde ödenmeyen katkı paylarına, vade tarihinden ödendiği tarihe kadar geçen süre için, 6183 sayılı Kanunun 51 inci maddesine göre gecikme zammı uygulanır.
