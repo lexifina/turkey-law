@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.38885",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 79)",
+  "number": "38885",
+  "path": "teblig/2021/38885",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38885&MevzuatTertip=5",
+  "source_sha256": "9612911584f0d287c9dd15caef09a21e7f31d7cc8c45dfaf1985944a7721ec07",
+  "source_bytes": 8541,
+  "published": "2021-09-01",
+  "gazette": "31585",
+  "in_force": "2021-09-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.09.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 136,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38885-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
