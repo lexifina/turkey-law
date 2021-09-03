@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/889",
+  "source_id": 7139,
+  "date": "2021-09-03",
+  "title": "“İlgili kişinin, bir spor tesisi tarafından açık rızası alınmaksızın yer aldığı müsabakaların kaydedilip yayınlanması” hakkında Kişisel Verileri Koruma Kurulunun 03/09/2021 tarihli ve 2021/889 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7139/2021-889",
+  "source_sha256": "dd76a1b7369e880b255b2a6073b19aab5d9e1d55ef12370035f24950de3425a5",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
