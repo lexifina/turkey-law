@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38891",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "6284 SAYILI KANUN KAPSAMINDA TEKNİK YÖNTEMLERLE TAKİP SİSTEMLERİNİN KULLANILMASINA DAİR YÖNETMELİK",
+  "number": "38891",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı ve İçişleri Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani-ve-icisleri-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani-ve-icisleri-bakani/2021/38891",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38891&MevzuatTertip=5",
+  "source_sha256": "380d9b52dec97afa8169377eeb8ffcdeef78d547527478f01bbbe12fc1587267",
+  "source_bytes": 59577,
+  "published": "2021-09-04",
+  "gazette": "31588",
+  "in_force": "2021-09-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3521,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

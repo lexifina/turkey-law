@@ -1,0 +1,6 @@
+Kararın devam etmesi ve kaldırılması
+MADDE 15 – (1) Komisyon tarafından Kararın uygulanma süresinin sona ermesinden on beş gün önce teknik araç ve yöntemlerle takibin devamı ya da kaldırılmasına ilişkin bir değerlendirme yapılır. Değerlendirme sonucunda, Kararın devamına ilişkin kanaatin oluşması halinde izlemenin kesintiye uğramaması için uygulama süresi sona ermeden on gün önce talep, ŞÖNİM tarafından aile mahkemesine sunulur.
+(2) Karar süresinin uzatılmasına ilişkin değerlendirme, sürenin sona ermesinden en az yedi gün önce ŞÖNİM tarafından kolluğun ilgili Büro/Kısım Amirliği ile izleme merkezine bildirilir.
+(3) Kararın uygulanması sürecinde; izleme merkezi, ŞÖNİM ve ilgili kolluk birimince vakanın teknik yöntemlerle takibe elverişsiz olduğunun tespit edilmesi ya da risk durumunun değişmesi gibi hallerde Kararın kaldırılması talebi, Komisyon tarafından yapılacak değerlendirme sonucunda ŞÖNİM tarafından aile mahkemesine sunulur.
+(4) Kararın süresi sona erdiğinde veya kaldırıldığında izleme personeli, şiddet mağduru ve yükümlüyü, izleme ünitelerinin teslimi için uygulama ekibine yönlendirir.
+(5) Sürenin uzatılmasının gecikmesi veya teknik yöntemlerle takibin çeşitli sebeplerle yapılamaması hallerinde ŞÖNİM tarafından vakanın risk durumuna uygun müdahale planı hazırlanır ve ilgili kurum ve kuruluşların işbirliğinde uygulanır.
