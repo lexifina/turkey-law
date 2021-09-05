@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür, dijital oyun tasarımı ve animasyon teknolojileri alanlarında deneyimli Üniversitenin akademik personeli arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir ve lüzumu halinde görevlendirildiği usule uygun olarak görevden alınabilir.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversite öğretim elemanları arasından bir kişiyi Müdür Yardımcısı olarak görevlendirmesi için Rektörün onayına sunar. Müdür Yardımcısı, Müdür ile iş birliği içinde çalışır ve Merkez çalışmalarında Müdüre yardımcı olur. Müdürün olmadığı zamanlarda Müdür adına Merkezi yönetir. Müdürün görevi sona erdiğinde Müdür Yardımcısının da görevi sona erer.
+(3) Müdürün geçici olarak görevinden ayrılması halinde yerine Müdür Yardımcısı, onun da bulunmadığı zamanlarda ise Yönetim Kurulu üyelerinin en kıdemlisi vekâlet eder. Vekâlet altı aydan fazla sürerse yeni Müdür görevlendirilir.
+(4) Müdür, Merkezin amaçları doğrultusundaki çalışmaların düzenli bir şekilde yürütülmesinden, Merkezin tüm etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı sorumludur.
