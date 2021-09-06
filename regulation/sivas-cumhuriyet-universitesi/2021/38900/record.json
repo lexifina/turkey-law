@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-09-06",
+      "06.09.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31590",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-06",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2021/38900",
+  "published": "2021-09-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38900&MevzuatTertip=5",
+  "source_bytes": 55146,
+  "source_id": "8.5.38900",
+  "source_sha256": "592d7d672e52d23f5d35a4977a422f395d90dfe0ef8e7417e9ff5804ca5e4957",
+  "text_status": "as-enacted",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ TABİAT TARİHİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1108
+}
