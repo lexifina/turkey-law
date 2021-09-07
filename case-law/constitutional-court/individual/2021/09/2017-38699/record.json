@@ -1,0 +1,20 @@
+{
+  "applicant": "I.B. VE M.B.",
+  "application_date": "2017-12-08",
+  "application_number": "2017/38699",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2021-09-07",
+  "id": "0ae18314-c1e8-5714-9cb5-489c74d189c4",
+  "in_force": "2021-09-07",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBhZTE4MzE0LWMxZTgtNTcxNC05Y2I1LTQ4OWM3NGQxODljNA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "008d6b6d546b3266c0e4581155c6673e632b4cb4111877205f8903b9f4700810",
+  "version_label": "as-enacted"
+}
