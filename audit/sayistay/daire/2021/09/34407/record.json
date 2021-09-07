@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "385",
+  "decision_date": "2021-09-07",
+  "source_id": 34407,
+  "chamber": "3",
+  "ilam_number": "121",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34407/",
+  "source_sha256": "6a9def5a54730c0932603e4f3af695f872eca95bc1c8a36a8633b146fe187e0a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
