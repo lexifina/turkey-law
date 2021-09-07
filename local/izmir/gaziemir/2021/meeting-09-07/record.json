@@ -1,0 +1,24 @@
+{
+  "number": "meeting-09-07",
+  "number_as_published": "meeting-09-07",
+  "year": 2021,
+  "title": "07.09.2021 KARAR ÖZETİ",
+  "decision_date": "2021-09-07",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=26",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/e186d80feea2b8c717373220f688eb40e186d80feea2b8c717373220f688eb40.doc",
+  "source_sha256": "3313b7a9f9d27e3ad7d2db67b3f2b835c5c83902589f65b32ee7cd3d9fa1b551",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-09-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.09.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.09.2021 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "21.09.2021"
+}
