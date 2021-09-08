@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "49939",
+  "decision_date": "2021-09-08",
+  "source_id": 24483,
+  "chamber": "1",
+  "file_number": "48017",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24483/",
+  "source_sha256": "0ea20c1cd048d47630b2afecae8c71a9897a038dda9bfdc3b8cb6908c3d3d782",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
