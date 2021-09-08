@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50116",
+  "decision_date": "2021-09-08",
+  "source_id": 24659,
+  "chamber": "6",
+  "file_number": "47729",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24659/",
+  "source_sha256": "58b5b78620eb6b770549af44f4060b9d3b7a22084f7f993dc8e02a473734eff9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
