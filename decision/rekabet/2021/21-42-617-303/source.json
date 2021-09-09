@@ -1,0 +1,13 @@
+{
+  "number": "21-42/617-303",
+  "type": "Rekabet İhlali",
+  "decision_date": "2021-09-09",
+  "publication_date": "2022-09-12",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=f0259ae9-d7fd-4b23-85f5-26964280848e",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=201",
+  "pdf_sha256": "87ccab918ada4c9a806bec5f8ec975d2a5cb4ea0f4c0fb58aa3d97a368daf5e9",
+  "pdf_bytes": "847020",
+  "pages": "5",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
