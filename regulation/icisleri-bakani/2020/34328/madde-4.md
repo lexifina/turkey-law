@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık : İçişleri Bakanlığını,
+b) Diğer birimler : Genel Müdürlük merkez birimleri dışındaki müstakil ihale komisyonu ile taşınır kayıt ve işlemlerinin ayrı olarak yürütüldüğü birimleri,
+c) Genel Müdürlük : Emniyet Genel Müdürlüğünü,
+ç) (Değişik:RG-10/9/2021-31594) Harcama yetkilisi: Bütçeyle ödenek tahsis edilen her bir harcama biriminin en üst yöneticisini,
+d) HEK: Hizmette kullanılabilme vasfını kaybeden veya arızalı hale geldiklerinde onarımları ekonomik olarak mahzurlu olan taşıt, silah, mühimmat, makine ve teçhizat ile mal ve malzemeyi,
+e) Hizmet : Kamu kurum ve kuruluşları ile özel kuruluşlar ve şahıslara, dost veya müttefik devletlere verilebilecek, Genel Müdürlük tarafından üretilen eğitim, bilgi, belge, teknik inceleme ve analiz, tesis, bakım, onarım, modernizasyon, sağlık, test, bilişim ve yazılım, veriler ve sorgulamaları, basım, yayım, çekim, montaj, seslendirme, spikerlik, tercüme, güvenlik tertibatı, danışmanlık, havacılık ve benzeri hizmetler ile Genel Müdürlüğe ait taşıt, silah, mühimmat, makine ve teçhizat, mal ve malzeme ile bina, arazi ve tesislerden istifade ettirmeyi,
+f) Hurda : Hizmette uzun süre kullanılması veya giderilmesi mümkün olmayan arızalar veya geçirdiği kazalar dolayısıyla işe yaramaz hale gelen taşıt, silah, mühimmat, makine ve teçhizat ile mal ve malzemeyi,
+g) İdare : Genel Müdürlük merkez ve taşra birimlerini,
+ğ) İhtiyaç fazlası : Çeşitli yollardan temin edilerek kuvveye alınmış, ancak kullanılabilme özelliği olmakla birlikte çeşitli nedenlerle kullanılmaksızın kuvvede bulundurulan taşıt, silah, mühimmat, makine ve teçhizat ile mal ve malzemeyi,
+h) İstekli: Yönetmelik kapsamındaki ihalelere teklif veren gerçek veya tüzel kişileri,
+ı) Kanun : 12/4/2001 tarihli ve 4645 sayılı Emniyet Genel Müdürlüğüne Ait Araç, Gereç, Mal ve Malzemenin Satış, Hibe, HEK ve Hurda Durum ve İşlemleri ile Hizmet Satışına Dair Kanunu,
+i) Komisyonlar : Genel Müdürlüğe ait araç, gereç, mal ve malzeme ile verilecek hizmetlerin standart dışı, HEK, hurda durumlarını belirlemek ve bu belirlemelere istinaden, değer tespiti, satışı, mübadele edilmesi gibi işlemlerini yapmak üzere merkezde ve diğer birimlerde harcama yetkilisi onayı ile konusuna göre her iş ve işlem için ayrı kurulabilecek olan teknik, değer tespit ve ihale komisyonlarını,
+j) Mal ve malzeme : Genel Müdürlüğün donanımı ile bakım, onarım ve idamesi için zaruri olan araç, gereç, yedek parça, cihaz ve sağlık malzemeleri ile kırpıntı, döküntü malzeme atık ve parçalarını,
+k) Makine ve teçhizat: Role, telsiz, bilgisayar gibi haberleşme ve yazılım cihazları ile kriminal laboratuvar malzemelerini ve bunların donanımlarını,
+l) Merkez : Emniyet Genel Müdürlüğünün merkez birimlerini,
+m) Muhasebe birimi : Genel Müdürlük merkezinde İçişleri Bakanlığı Merkez Muhasebe Birimini, diğer birimlerde ise o ilin Defterdarlık Muhasebe Birimini,
+n) Mühimmat : Genel Müdürlük bünyesinde bulunan silahlara ait her türlü mermi ve cephaneyi,
+o) Silah : Genel Müdürlük bünyesinde bulunan ateşli silahlar ile havan, roketatar, bomba ve benzerlerini,
+ö) Standart dışı : İmalat özellikleri itibarıyla teknik ve teknolojinin gelişimi karşısında tip, kapasite ve niteliğini kaybeden ve kullanımından vazgeçilen silah, mal ve malzeme, mühimmat, makine ve teçhizatı,
+p) Taşıt : Genel Müdürlüğe ait her türlü motorlu veya motorsuz kara, deniz ve hava ulaştırma araçlarını,
+ifade eder.

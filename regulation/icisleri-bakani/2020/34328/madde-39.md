@@ -1,0 +1,2 @@
+Hibe ve yardım
+MADDE 39 – (1) Bu Yönetmelik kapsamında yer alan taşıt, silah, mühimmat, makine ve teçhizat ile mal ve malzemeler, Bakanlıkça Türkiye Cumhuriyetinin dış siyasi tutum ve menfaatlerine aykırı olmadığı hususunda Dışişleri Bakanlığının uygun görüşü alınmak suretiyle, dost veya müttefik devletlerin emniyet ve güvenlik hizmetlerinde kullanılmak üzere ve değer tespit komisyonu tarafından bedeli de belirlendikten sonra İçişleri Bakanının onayı ile hibe edilebilir ya da değeri üzerinden veya değerinden daha az bir bedel karşılığında yardım olarak verilebilir.

@@ -1,0 +1,3 @@
+Onay belgesi
+MADDE 12 – (1) İhale işlemlerinin yürütüldüğü birim tarafından, teknik komisyon ve değer tespit komisyonu kararı doğrultusunda, ihalesi yapılacak her iş için Ek-3’te yer alan örneklere uygun onay belgesi hazırlanır ve ihale onayı alınır. Onay belgesinde ihale konusu olan işin nevi, niteliği, miktarı, tahmini bedeli, ihalede uygulanacak usul, ilanın şekli ve adedi, teminat miktarı şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği, bedel karşılığı verilecekse bedelin ne olacağı gösterilir.
+(2) İhaleye çıkılarak yapılacak hizmet satışları için harcama yetkilisinden alınacak onay belgesinde teknik komisyon ve değer tespit komisyonu kararları, verilecek hizmetin nevi, yeri ve süresi belirtilir.

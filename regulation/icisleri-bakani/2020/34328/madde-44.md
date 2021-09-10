@@ -1,0 +1,3 @@
+İdarenin görev ve sorumluluğu ve isteklinin yetkisi
+MADDE 44 – (1) İdare 35 inci maddede yazılı süre içerisinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla ve şartnamede belirtilen malı veya hizmeti alıcısına teslim etmekle yükümlüdür. Bu yükümlülüğün yerine getirilmemesi halinde alıcı, teslim tarihinden itibaren on beş gün içinde on gün müddetli bir noter ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde alıcının yatırmış olduğu kesin teminat ve ihale bedeli geri verilir. Alıcı, ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazanır.
+(2) Tebligatın yasal süre içerisinde yapılmamasından dolayı idarenin zararına sebep olanlar hakkında kanuni işlem yapılır.

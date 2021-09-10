@@ -1,0 +1,3 @@
+İhalenin sözleşmeye bağlanması
+MADDE 35 – (1) Onayda ve ilanda sözleşme yapılması belirtilmişse ihale kararının harcama yetkilisince onaylanmasını müteakip alıcı, kararın kendisine tebliğ edildiği tarihten itibaren on beş gün içinde idarece imzalanarak verilen sözleşmeyi notere tasdik ettirerek, istenmişse kesin teminatı idareye vermek zorundadır.
+(2) Alıcının, aynı süre içerisinde ihale bedelini ve alıcıya ait bulunan vergi, resim ve harçları yatırması ve diğer giderleri ödemesi gerekir. Bu zorunluluklara uymadığı takdirde protesto çekmeye, hüküm almaya gerek kalmaksızın ihale bozulur ve geçici teminatı gelir kaydolunur.
