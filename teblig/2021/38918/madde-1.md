@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Malezya menşeli/çıkışlı 4011.20.90; 4011.70.00.00.00; 4011.80.00.00.00 ve 4011.90.00.00.00 gümrük tarife pozisyonları altında kayıtlı “ağır vasıta, zirai araç ve iş makineleri dış lastikleri (kauçuktan yeni dış lastikler)” ithalatında re’sen yapılan incelemeler sonucunda önlemlerin etkisiz kılınmasına karşı soruşturma açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
