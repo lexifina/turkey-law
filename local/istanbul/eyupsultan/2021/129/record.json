@@ -1,0 +1,22 @@
+{
+  "number": "129",
+  "number_as_published": "2021/129",
+  "year": 2021,
+  "title": "Boş kadro unvan ve derece değişikliği",
+  "decision_date": "2021-09-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-eylul-ayi-meclis-kararlari/2124",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-129/2127",
+  "source_sha256": "0dcf4b2308f89796b911b021659f01fd1693af0fa84378aed351ae20f8bbb3f8",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "b90e7b808040a54f597a3e4d04c1d9d371aad3f53368a7843b3096f2e6274f5b"
+}
