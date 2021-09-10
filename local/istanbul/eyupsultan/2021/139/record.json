@@ -1,0 +1,22 @@
+{
+  "number": "139",
+  "number_as_published": "2021/139",
+  "year": 2021,
+  "title": "İslambey Mahallesi 217 Ada, 22 parselde plan değişikliği",
+  "decision_date": "2021-09-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-eylul-ayi-meclis-kararlari/2124",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-139/2136",
+  "source_sha256": "0dcf4b2308f89796b911b021659f01fd1693af0fa84378aed351ae20f8bbb3f8",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-09-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.09.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "de5c2d12a59388b4b1853a53d90a15e5d175fd93db78d58c96ee3611995dd701"
+}
