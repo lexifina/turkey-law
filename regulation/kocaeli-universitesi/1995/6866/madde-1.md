@@ -1,0 +1,1 @@
+Madde 1- Bu Yönetmeliğin amacı, Tıp Fakültesi ve Kocaeli Üniversitesi’nin sağlıkla ilgili tüm Fakülte, Enstitü ve Yüksekokullarının öğrencilerine, hastanelerinde, uygulamalı eğitim, öğretim ve araştırma olanakları sağlamak, hasta teşhis ve tedavisiyle ilgili düzenlemelerin yapılması için gerekli organları ve çalışma esaslarını belirlemektir.

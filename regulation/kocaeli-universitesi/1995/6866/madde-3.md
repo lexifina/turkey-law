@@ -1,0 +1,5 @@
+Madde 3-a) Hastane Yürütme Kurulu,
+b) Hastane Öğretim Danışma Kurulu,
+c) Hastane Başhekimliği,
+d) Hastane Başmüdürlüğü,
+e) Hastane Müdürlükleri,

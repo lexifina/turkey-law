@@ -1,0 +1,3 @@
+Hastane Başmüdürü:
+Madde 8- Hastane Başmüdürünün en az lisans düzeyinde, konusu ile ilgili bir Yüksek Öğretim Kurumu’ndan mezun olması gerekir. Ayrıca hastane ve sağlık kuruluşları yönetimi konusunda master veya doktora yapmış olması tercih nedeni olabilir.
+Hastanenin idari, mali, teknik hizmetlerinin, hastanenin amaçları doğrultusunda, yasa ve yönetmeliklere uygun olarak yönetilmesinden, Hastane Başhekimine, ilgili yasa ve yönetmelikler bakımından ise, Genel Sekretere karşı sorumludur. Döner Sermaye ve Satınalma Komisyonlarında Rektörce görevlendirilen Rektör Yardımcılarından birisine ve Hastane Başhekimine yardımcılık eder.

@@ -1,0 +1,2 @@
+Diğer Hükümler:
+Madde 11- Döner Sermaye ile ilgili işlemlerde 2547 sayılı Yüksek Öğretim Kanununun 58 inci maddesi gereğince düzenlenen 5/7/1983 tarih ve 18098 sayılı Resmi Gazete’de yayınlanan “Döner Sermaye İşletmelerinin Kurulmasında Uygulanacak Esaslara İlişkin Yönetmelik” ile ayrıca aynı yönetmeliğin 10 uncu maddesine göre düzenlenen Kocaeli Üniversitesi Döner Sermaye İşletmesi Yönetmeliği ile Tıp Fakültesi Döner Sermayesi İşletmesi Yönetmeliği hükümleri uygulanır.

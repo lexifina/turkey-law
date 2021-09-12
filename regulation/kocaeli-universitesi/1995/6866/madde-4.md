@@ -1,0 +1,4 @@
+Hastane Yürütme Kurulu:
+Madde 4- Hastane Yürütme Kurulu Rektör ya da Rektör tarafından görevlendirilecek Rektör Yardımcısı başkanlığında, Tıp Fakültesi Dekanı, Başhekim, Dekan Yardımcıları, Bölüm Başkanları, Başhekim Yardımcıları ve Hastane Başmüdürü’nden oluşur. Gerektiğinde ilgili birim yöneticileri de görüşleri alınmak üzere davet edilebilir.
+Rektör ya da Rektör Yardımcısı bu kurulun daimi başkanıdır. Hastane Yürütme Kurulu tüm hizmetlerin verimli bir işletmecilik anlayışı yürütülmesini sağlayacak ilkeleri saptar, planlar hazırlar ve kararlar alır. Çağdaş sağlık hizmeti ve ileri teknolojinin hastanelerde uygulanabilmesi doğrultusunda yeni birimlerin kurulması ve genişletilmesi hususlarında önerilerde bulunur. Hastanenin yıllık faaliyet raporunu, çalışma programını ve bütçesini hazırlar.
+Yürütme Kurulu yılda en az 4 (dört) defa toplanır. Gereği halinde başkan, kurulu daha fazla toplantıya çağırabilir.
