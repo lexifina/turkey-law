@@ -1,0 +1,2 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları; Merkezin amacına ulaşabilmek için yüzey araştırmaları, müze çalışmaları, kazılar, onarımlar, etütler, yayımlar, proje faaliyetleri yapmak; konferans-sempozyum gibi bilimsel toplantılar düzenlemek; bilimsel arşivler ve etüt koleksiyonu oluşturmak; ulusal ve yabancı müzeler ile yabancı enstitüler ve mesleki kuruluşlar, üniversiteler, müzeler, kamu ve özel sektör kuruluşlarıyla iş birliği yapmaktır.
