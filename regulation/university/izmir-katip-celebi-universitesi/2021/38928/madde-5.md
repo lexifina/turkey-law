@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Kuzey Afrika ve Endülüs ile ilgili bilimsel çalışmalar yaparak Kuzey Afrika ve Endülüsü tüm yönleri ile araştırmak, hem Anadolu’da hem de Kuzey Afrika ve İberya yarımadası (Endülüs)’nda saha çalışmaları yaparak, İzmir başta olmak üzere Anadolu’nun diğer şehirlerinin özellikle Kuzey Afrika ve Endülüs ile geçmişte var olan, günümüzde de sosyal, ekonomik ve kültürel olarak kendisini hissettiren bağları açığa çıkarabilmek ve araştırma alanına katkı sağlayacağı düşünülen üniversite, araştırma merkezi ve benzeri kurum ve kuruluşlarla ilgili mevzuat hükümleri kapsamında iş birliği ile neticede elde edilecek bilimsel bilgiyi araştırmacıların kullanımına sunabilmek ve çeşitli platformlar oluşturarak yaygınlaşması amacıyla bilimsel faaliyetler düzenlemek ve çeşitli kategorilerde yayın yapmaktır.

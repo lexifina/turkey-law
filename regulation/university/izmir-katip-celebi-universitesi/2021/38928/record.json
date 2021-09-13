@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/izmir-katip-celebi-universitesi/2021/38928",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31597",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-13",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İzmir Katip Çelebi Üniversitesi",
+  "issuer_slug": "izmir-katip-celebi-universitesi",
+  "kind": "regulation",
+  "published": "2021-09-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38928&MevzuatTertip=5",
+  "source_id": "8.5.38928",
+  "source_sha256": "f81871da9e04ccb5d7f995744b99651adfb527ce40606e67350ae3c4a8764597",
+  "title": "İZMİR KÂTİP ÇELEBİ ÜNİVERSİTESİ KUZEY AFRİKA VE ENDÜLÜS ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 389,
+  "version_label": "oldest version available",
+  "word_count": 1215
+}
