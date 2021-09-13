@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-09-13",
+  "issue": "31597",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İzmir Kâtip Çelebi Üniversitesi Kuzey Afrika ve Endülüs Çalışmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210913-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210913.htm",
+  "index_sha256": "b405ca84ce3c48a10d4bd8728c15cf256bc78cff8661f93ac301dc1293d2f2a2",
+  "index_header": "13 Eylül 2021 ... 31597 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210913.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
