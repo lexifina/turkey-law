@@ -1,0 +1,5 @@
+Eş görüşmesi ödülü ile ilgili genel hükümler
+MADDE 12 – (1) Eş görüşmesi için kuruma gelen ziyaretçilerden; Türk vatandaşı olanların Türkiye Cumhuriyeti kimlik numarasını içeren resimli bir kimlik belgesini, yabancı uyruklu olanların ise pasaport veya yerine geçebilecek bir kimlik belgesi ile birlikte hükümlü veya tutuklu ile evli olduğunu ispatlayan Türkçe tercüme edilmiş resmî onaylı belgeyi göstermesi zorunludur.
+(2) Kurul, her bir ödüllendirme kararı ile bir kez eş görüşmesi ödülü verebilir.
+(3) Cinsel saldırı, cinsel istismar veya aile içi şiddet suçu işlemiş hükümlü ve tutuklular ile eş görüşmesi ödülü verilmesinin hükümlü, tutuklu veya eşi açısından riskli görüldüğü diğer durumlarda kurumda bulunan veya başka kurumlardan temin edilen psiko-sosyal yardım servisi personeli eşlerle öncelikle ayrı ayrı görüşür. Gerekli hâllerde eşlerle birlikte de görüşme yapılabilir. Görüşme sonucunda hazırlanacak değerlendirme raporunun Kurul tarafından dikkate alınması zorunludur.
+(4) Aynı kampüs veya kurumda barındırılan hükümlü veya tutuklu eşlerin bu ödülden yararlanmaları için her ikisi hakkında da ayrı ayrı ödüllendirme kararı verilmesi gerekir.

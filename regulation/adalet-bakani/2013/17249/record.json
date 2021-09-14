@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.17249",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÜKÜMLÜ VE TUTUKLULARIN ÖDÜLLENDİRİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "17249",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2013/17249",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17249&MevzuatTertip=5",
+  "source_sha256": "31f54d2f9a85ea5286a0fa1f32bf3e7c44e9df9c805c9b8935143a9faf21b69d",
+  "source_bytes": 55099,
+  "published": "2013-03-30",
+  "gazette": "28603",
+  "in_force": "2021-09-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/9/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-09-14",
+      "RG-14/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-14",
+      "14/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2468,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.17249-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

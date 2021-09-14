@@ -1,0 +1,6 @@
+Eş görüşmesinde alınacak sağlık tedbirleri
+MADDE 15 – (1) Kurum, hükümlü ve tutuklular ile eşlerini, koruyucu sağlık tedbirleri ve kurumsal temizlik koşulları konusunda yazılı olarak bilgilendirir. Bu konuda hazırlanmış olan afiş ve broşür benzeri bilgilendirici materyaller hükümlü ve tutukluların kolayca erişebileceği yerlerde bulundurulur.
+(2) Hepatit veya HIV gibi kan ya da cinsel yolla bulaşabilecek bir hastalığı olduğu kurumca bilinen hükümlü veya tutuklunun eşi, sağlık personeli tarafından yazılı olarak bilgilendirilir.
+(3) Eş görüşmesi kapsamında kuruma gelen ziyaretçiden ikinci fıkrada yazılı türden bir hastalık taşıyıp taşımadığı konusunda hükümlü veya tutukluyu bilgilendireceği yönünde yazılı beyanı alınır.
+(4) Ceza İnfaz Kurumlarında Bulundurulabilecek Eşya ve Maddeler Hakkında Yönetmelikte geçen sağlık, temizlik ve kişisel kullanıma ilişkin malzemeler ile gerektiğinde bunların tek kullanımlık olanları, ayrıca ilaç niteliği taşımayan doğum kontrol ürünleri kurum kantininden satın alınabilir veya kurum idaresi tarafından imkânlar dâhilinde ilgili kurum ve kuruluşlardan temin edilebilir.
+(5) Görüşme odası ve eklentilerinin düzen ve temizliğinden görüşmeden yararlanan hükümlü veya tutuklu sorumludur.
