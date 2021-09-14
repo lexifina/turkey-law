@@ -1,0 +1,2 @@
+Personel sağlık dosyası oluşturulması
+MADDE 7 – (1) İstihdam edilecek infaz ve koruma memuru unvanlı personel için sağlık dosyası oluşturulur ve özlük dosyasında muhafaza edilir. Oluşturulan bu sağlık dosyasında; hastalık raporları, sağlık kurulu raporları, kişinin sağlık geçmişini tanımlayan tüm evrak, sağlık durumları ile ilgili taleplerini belirten dilekçeler ve ilgili yazışmalar muhafaza edilir.

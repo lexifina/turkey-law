@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38931",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "CEZA VE TEVKİFEVLERİ GENEL MÜDÜRLÜĞÜ İNFAZ VE KORUMA MEMURU UNVANINA ATANACAKLARDA ARANAN SAĞLIK ŞARTLARI YÖNETMELİĞİ",
+  "number": "38931",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2021/38931",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38931&MevzuatTertip=5",
+  "source_sha256": "fb7ff3dc36bcf48d88104b102d97ca31b71c3ebb350a33ccf963c288c6700e67",
+  "source_bytes": 36290,
+  "published": "2021-09-14",
+  "gazette": "31598",
+  "in_force": "2021-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 962,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38931-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
