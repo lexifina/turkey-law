@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.8345",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HÜKÜMLÜ VE TUTUKLULARIN ZİYARET EDİLMELERİ HAKKINDA YÖNETMELİK",
+  "number": "8345",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2005/8345",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8345&MevzuatTertip=5",
+  "source_sha256": "3c9c2543749fdc136e00f51292cae13ccd6978d0edc56e896e2765117fd75599",
+  "source_bytes": 97953,
+  "published": "2005-06-17",
+  "gazette": "25848",
+  "in_force": "2021-09-14",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-14/9/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-09-14",
+      "RG-14/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-14",
+      "14/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-05",
+      "RG-5/12/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-12-05",
+      "5/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-01-13",
+      "RG-13/1/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-01-13",
+      "13/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-09-13",
+      "RG-13/9/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-09-13",
+      "13/9/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-08-18",
+      "RG-18/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-18",
+      "18/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "RG-3/4/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4803,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

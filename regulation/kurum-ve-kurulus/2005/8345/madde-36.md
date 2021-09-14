@@ -1,0 +1,4 @@
+Hastanede ziyaret ve refakat (Değişik madde başlığı:RG-6/11/2009-27398)
+Madde 36 — Hasta hükümlü ve tutuklular, kurum tabibinin uygun görmesi halinde, görevli infaz ve koruma memuru nezaretinde, kurumun hastane veya revirinde ziyaret edilebilir.
+Kurum dışındaki sağlık kuruluşlarında yataklı tedavi gören hükümlü ve tutuklular, tedaviyi yapan doktorun uygun görmesi ve Cumhuriyet başsavcısı veya görevlendireceği Cumhuriyet savcısının izni ile iç güvenlik görevlileri nezaretinde ziyaret edilebilir.
+(Ek üçüncü fıkra:RG-6/11/2009-27398) Kurum dışında yatarak tedavileri yapılan hükümlülerin yanında, tedaviyi yapan hekimin raporuyla zorunlu olduğunun bildirilmesi hâlinde, eşi, annesi, babası, kardeşi, çocuğu, bunların olmaması hâlinde Cumhuriyet başsavcılığının uygun gördüğü bir aile yakını refakatçi olarak bulundurulabilir.

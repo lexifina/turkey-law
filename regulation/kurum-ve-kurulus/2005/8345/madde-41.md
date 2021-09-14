@@ -1,0 +1,3 @@
+Ziyaretlerde konuşulacak lisan
+Madde 41 — (Değişik birinci cümle:RG-6/11/2009-27398) Ziyaret esnasında görüşmelerin Türkçe yapılması esastır. Ancak, hükümlü veya tutuklunun Türkçe bilmemesi veya görüşeceğini bildirdiği yakınının Türkçe bilmediğinin beyan edilmesi halinde, Türkçe’den başka bir dilde konuşmanın yapılmasına izin verilir ve konuşma kayda alınır. Kayıtların incelenmesi sonucu, konuşmaların kurum güvenliğini veya kamu düzenini tehlikeye düşürecek nitelikte bulunması halinde, haklarında idarî ve adlî işlem yapılır.
+(Ek fıkra: RG-28/07/2007-26596) Yabancı uyruklu hükümlü ve tutukluların ziyaret ve avukat görüşlerinde, ücreti taraflarca karşılanmak koşuluyla bir tercümandan veya o dili bilen bir gönüllünün yardımından yararlanılabilir.

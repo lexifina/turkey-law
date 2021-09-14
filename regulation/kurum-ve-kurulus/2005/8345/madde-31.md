@@ -1,0 +1,2 @@
+Yabancı hükümlü ve tutukluların din adamları tarafından ziyareti
+Madde 31 — Yabancı temsilcilikler dışında, Türkiye Cumhuriyetinin yetkili makamları tarafından faaliyetleri kabul edilmiş olan dinlerin resmî temsilcileri ve din adamları, yabancı uyruklu kişileri, Bakanlığın izni ile ziyaret edebilir. Ancak bu ziyaretin ilgili hükümlü veya tutuklu tarafından da kabul edilmesi gerekir. İlgili görüşmeyi kabul etmiyorsa durum bir tutanakla tespit edilir.
