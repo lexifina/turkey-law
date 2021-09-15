@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38932",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İLAÇ VE TIBBÎ CİHAZ KURUMU PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "38932",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/38932",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38932&MevzuatTertip=5",
+  "source_sha256": "2af4effc4e4a8263ca9ddf6ea83ecbe356d429d4fa28b9f16a487bc1a3c5b909",
+  "source_bytes": 55831,
+  "published": "2021-09-15",
+  "gazette": "31599",
+  "in_force": "2021-09-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2903,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

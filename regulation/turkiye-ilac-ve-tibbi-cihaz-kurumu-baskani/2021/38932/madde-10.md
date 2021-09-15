@@ -1,0 +1,8 @@
+Duyuru ve başvuru
+MADDE 10 – (1) Görevde yükselme ve unvan değişikliği için açılacak sınavlar, Kurumun kadro durumu ile ihtiyaçlar göz önüne alınarak Kurumca uygun görülen tarihlerde yapılır.
+(2) Görevde yükselme ve unvan değişikliği sınavlarına katılma şartları, sınavların hangi usulde yapılacağı, atama izni alınan boş kadroların sınıfı, unvanı, derecesi ve sayısı, yazılı sınav tarihi ve yeri, son başvuru tarihi, yazılı sınav konu başlıkları, yazılı sınavdan en az otuz gün önce Kurumun resmî internet sitesinde ilân edilir.
+(3) İlan edilen kadrolar için belirlenen başvuru tarihinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadrolardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir.
+(4) Başvuru süresi beş iş gününden az olamaz. Aylıksız izinde bulunanlar dâhil olmak üzere ilgili mevzuat uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür.
+(5) Görevde yükselme ve unvan değişikliği sınavlarına, Kurumda 657 sayılı Kanunun 4 üncü maddesinin (A) fıkrasına tâbi olarak görev yapmakta olan ve bu Yönetmelikte belirtilen özel şartları haiz Kurum personelinin tümü başvurabilir. Diğer kurumların personeli ile aday memur statüsünde bulunanlar görevde yükselme ve unvan değişikliği suretiyle atama yapılacak kadrolar için başvuruda bulunamazlar.
+(6) Yapılan başvurular, İnsan Kaynakları Daire Başkanlığınca incelenerek aranan şartları taşıyanların listesi Kurumun resmî internet sitesinde ilan edilir.
+(7) Aday listesine üç iş günü içinde İnsan Kaynakları Daire Başkanlığına itiraz edilebilir ve itirazlar beş iş günü içinde karara bağlanır.

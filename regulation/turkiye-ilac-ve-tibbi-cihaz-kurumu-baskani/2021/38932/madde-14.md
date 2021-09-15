@@ -1,0 +1,5 @@
+Atama esasları
+MADDE 14 – (1) Atanmaya hak kazanan personel, başarı sıralaması listesinin kesinleşmesini müteakip en yüksek puandan başlamak üzere belirlenen başarı sıralamasındaki başarı puanlarına göre atanır.
+(2) Kurumca tercih alınması durumunda ise başarı sıralaması esas alınarak ilgili personelin tercihlerine göre atamaları yapılır.
+(3) Duyurulan kadrolardan herhangi bir sebeple boş kalan veya boşalanlara, başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar 13 üncü maddeye göre Kurumca belirlenen yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(4) Görevde yükselme sınavı ve unvan değişikliği sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden altı ay içinde müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadro veya pozisyonlara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tâbidir.
