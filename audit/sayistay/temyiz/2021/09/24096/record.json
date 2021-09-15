@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50145",
+  "decision_date": "2021-09-15",
+  "source_id": 24096,
+  "chamber": "5",
+  "file_number": "48499",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24096/",
+  "source_sha256": "c83ab6c1dfb6fbe2f4940ac9de826fbed18d9f7e39504952edfcf3c8b3ad26d7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
