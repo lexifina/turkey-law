@@ -1,0 +1,26 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+a) (Değişik:RG-15/9/2021-31599) Bakanlık: Tarım ve Orman Bakanlığını,
+b) (Değişik:RG-15/9/2021-31599) Genel Müdürlük: Bitkisel Üretim Genel Müdürlüğünü,
+c) Kanun: Yeni Bitki Çeşitlerine Ait Islahçı Haklarının Korunmasına İlişkin Kanunu,
+d) Islahçı: Yeni bir bitki çeşidini ıslah eden veya bulan ve geliştiren kişiyi,
+e) Hak sahibi: Islahçı veya onun hukukî haleflerini,
+f) Çeşit: Islahçı hakkının verilmesi için gerekli şartların karşılanıp karşılanmadığına bakılmaksızın, bir veya birden fazla genotipin ortaya çıkardığı bazı özelliklerin kendisini göstermesiyle tanımlanan ve aynı tür içindeki diğer genotiplerden en az bir tipik özelliği ile ayrılan ve değişmeksizin çoğaltmaya uygunluğu bakımından bir birim olarak kabul edilen en küçük taksonomik kısım içerisinde yer alan bitki grubunu,
+g) Tohumluk: Bitkilerin çoğaltımı için kullanılan vegetatif ve generatif bitki kısımlarını,
+h) Çoğaltım veya çoğaltma: Asıl veya ebeveyn bitkilerle aynı özellikleri taşıyan, bir sonraki nesil bitkilerin elde edilmesini,
+i) Üretim veya üretme:Ürün veya çoğaltım materyali elde etmek amacıyla bitki yetiştirilmesini,
+j) Çoğaltım materyali: Bitkilerin çoğaltımı için kullanılan bütün bir bitki veya kısımlarını,
+k) Tescil: Kanun kapsamındaki çeşitlerin ıslahçı hakları kütüğüne yazılmasını,
+l) Bülten: Bitki Çeşitleri Bültenini,
+m) Kütük: Islahçı hakkı başvurusu ve hakkın tescili ile ilgili hususların kayıtlı olduğu sicilleri,
+n) Katalog: İlgili mevzuat çerçevesinde ticareti yapılan çeşitlerin yayımlandığı listeyi,
+o) UPOV Sözleşmesi: Uluslararası Yeni Bitki Çeşitlerini Koruma Birliği Sözleşmesini,
+p) Farklılık: Bir çeşidin müracaatının yapıldığı tarihte herkesçe bilinen çeşitlerden, tescile esas özelliklerden, en az birisi bakımından farklılık göstermesini,
+r) Yeknesaklık: Çeşidin çoğaltımı esnasında, çoğaltma metoduna bağlı olarak beklenen varyasyonun dışındaki diğer özellikler yönünden bir örneklik göstermesini veya yeterince homojen olmasını,
+s) Durulmuşluk: Çeşidin, tekrarlanan üretimlerden sonra veya belirli çoğaltım dönemleri sonunda ilgili özellikleri değişmeksizin aynı kalmasını,
+t) Kuruluş: Yeni bitki çeşitlerine ait ıslahçı haklarının korunması görevi ile ilgili uygulamayı Genel Müdürlük adına yürüten kuruluşu,
+u) FYD: Farklılık, yeknesaklık ve durulmuşluğu,
+v) CPVO: Avrupa Birliği Bitki Çeşit Ofisini,
+y) Şahit numune: Çeşidin korumaya alındıktan sonra gerektiğinde şahit olarak kullanılmak üzere kuruluş veya ıslahçı/hak sahibinin muhafaza ettiği numuneyi,
+z) Bölge Deneme Kuruluşu: Teknik denemeleri kuruluşla işbirliği içinde yürüten kuruluşu
+ifade eder.

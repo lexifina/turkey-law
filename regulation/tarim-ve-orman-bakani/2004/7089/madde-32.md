@@ -1,0 +1,2 @@
+Zorunlu Lisansın Talep Edilmesi ile İlgili Ücret ve Teminatın Tespiti
+Madde 32 — Kanunun 23 üncü maddesinin dördüncü fıkrasının (b) bendinde belirtilen teminat ile (c) bendinde belirtilen ücret miktarı, başvuru konusunun nitelikleri, istekler ve iddiaların değerlendirilmesiyle ortaya çıkan bulguların sonucuna göre her talep için ayrı ayrı olmak üzere, bu Yönetmeliğin 34 üncü maddesine göre her yıl Bakanlık tarafından tespit edilir. Teminat ve ücretin nereye ve nasıl ödeneceği ile ilgili hususlar Bakanlıkça belirlenir.

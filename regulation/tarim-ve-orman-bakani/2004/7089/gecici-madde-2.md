@@ -1,0 +1,1 @@
+Geçici Madde 2 — Kanunun Geçici Madde 2 kapsamında yer alan çeşitlerde daha önce FYD testleri yapılarak çeşit özellik belgesi hazırlanmışsa bu Yönetmeliğin 16 ncı madde ikinci fıkrasındaki hüküm uygulanmaz.

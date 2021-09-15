@@ -1,0 +1,2 @@
+Teminat Miktarının Tespiti
+Madde 31 — Kanunun 22 nci maddesinin ikinci fıkrasının (c) bendinde belirtilen teminat miktarı, başvuru konusunun nitelikleri, istekler ve iddiaların değerlendirilmesiyle ortaya çıkan bulguların sonucuna göre her talep için ayrı ayrı olmak üzere, bu Yönetmeliğin 34 üncü maddesine göre her yıl Bakanlık tarafından tespit edilir. Teminat miktarının nereye ve nasıl ödeneceği ile ilgili hususlar Bakanlık tarafından belirlenir.

@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.7089",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YENİ BİTKİ ÇEŞİTLERİNE AİT ISLAHÇI HAKLARININ KORUNMASINA DAİR YÖNETMELİK",
+  "number": "7089",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2004/7089",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=7089&MevzuatTertip=5",
+  "source_sha256": "793ec0692638ad01c3d494469859bce3f4a80903df1bec3e4400cf87aed4ea3c",
+  "source_bytes": 112302,
+  "published": "2004-08-12",
+  "gazette": "25551",
+  "in_force": "2021-09-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/9/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-09-15",
+      "RG-15/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-03-05",
+      "RG-05/03/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6186,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

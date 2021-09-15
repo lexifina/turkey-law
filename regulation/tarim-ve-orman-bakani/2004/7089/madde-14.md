@@ -1,0 +1,2 @@
+Başvuruya İtiraz
+Madde 14 — Başvurunun bültende ilân edildiği tarihten itibaren üç ay içerisinde, çeşidin yeni, farklı, yeknesak ve durulmuş olmadığı gerekçesiyle veya başvuru sahibinin hak sahibi olmadığı veya çeşit için önerilen ismin Kanunun 9 uncu, 42 nci maddesinin (a) bendi hükümlerine ve Yönetmeliğin 20 nci maddesine uygun olmadığı gerekçesiyle Genel Müdürlük nezdinde itiraz yapılabilir. Başvuruya itiraz edenler, itirazlarında öne sürdükleri gerekçelerin bilgi ve belgelerini Genel Müdürlüğe itirazlarıyla birlikte vermek zorundadır.

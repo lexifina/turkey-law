@@ -1,0 +1,2 @@
+Arabuluculuk Talebi ile İlgili Ücret
+Madde 30 — Bu Yönetmeliğin 28 inci maddesinin ikinci fıkrasında belirtilen arabuluculuğun talep edilmesi ile ilgili ücret, talebin nitelikleri, istekler ve iddiaların değerlendirilmesiyle ortaya çıkan bulguların sonucuna göre talepte belirtilen her istek için ayrı ayrı olmak üzere, Yönetmeliğin 34 üncü maddesine göre her yıl Bakanlık tarafından tespit edilir. Arabuluculuk ücretinin nereye ve nasıl ödeneceği ile ilgili hususlar Bakanlık tarafından belirlenir.

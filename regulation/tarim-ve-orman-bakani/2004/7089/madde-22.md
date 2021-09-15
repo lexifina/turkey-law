@@ -1,0 +1,10 @@
+Tescile İtiraz
+Madde 22 — Islahçı hakkı tescilinin bültende ilân edildiği tarihten itibaren otuz gün içinde, üçüncü kişiler tarafından, tescil işlemine karşı Kanunun 32 nci, 33 üncü, 34 üncü, 36 ncı, 39 uncu, 40 ıncı, 41 inci ve 44 üncü maddelerinde belirtilen işlemlerde eksiklikler yapıldığı gerekçesiyle itirazda bulunulabilir.
+Tescile itiraz edenler aşağıdaki bilgi ve belgeleri Genel Müdürlüğe vermek zorundadır:
+a) İtiraza ait başvuru dilekçesi ve itirazını destekleyici belgeler,
+b) İtiraza ilişkin olarak bu Yönetmeliğin 34 üncü maddesinde belirtilen ve Bakanlık tarafından belirlenen ücretin yatırılmış olduğuna dair belge.
+Genel Müdürlük, otuz gün içerisinde yerine getirilmek üzere, itiraz edenden itirazını destekleyici ek bilgi, belge ve materyal isteyebilir. İtiraz eden kendisinden talep edilen bilgi, belge ve materyali verilen süre içerisinde Bakanlığa vermezse, itiraz hiç yapılmamış sayılır.
+Genel Müdürlük, ıslahçı hakkının tescili ile ilgili olarak yapılan itiraz dilekçesi ve eklerinin bir örneğini hak sahibine ve Islahçı Hakkı Tescil Komitesine göndererek, hak sahibinin itiraz ve gerekçeleri hakkındaki görüşlerini otuz gün içinde gerekçeleriyle birlikte yazılı olarak bildirmesini ister.
+Genel Müdürlük, Islahçı Hakkı Tescil Komitesinin itirazı inceleme aşamasında da gerek gördüğü hâllerde itiraz edenin ve hak sahibinin görüşlerini isteyebilir.
+Islahçı Hakkı Tescil Komitesi, itiraz edenin dilekçesini ve ekinde yer alan bilgi ve belgeleri inceleme sonucunda, ıslahçı hakkının verilmesi ile ilgili olarak birinci fıkrada belirtilen maddelerdeki işlemlerin yerine getirilmediği veya bu işlemlerin herhangi birinde önemli bir eksiklik yapıldığı kanısına varırsa, konu ile ilgili raporu Genel Müdürlüğe gönderir. Genel Müdürlük, Islahçı Hakkı Tescil Komitesinin görüşleri doğrultusunda ıslahçı hakkı tescili ile ilgili işlemin geçersizliğine ve eksikliğin yapıldığı safhaya kadar geriye dönülerek işlemlerin yeniden yapılmasına karar verir.
+Genel Müdürlük, inceleme sonucunda itirazı uygun bulmadığı takdirde, ıslahçı hakkı tescili ile ilgili yapılan itirazı reddederek durumu itiraz edene ve hak sahibine bildirir.

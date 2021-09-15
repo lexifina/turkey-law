@@ -1,0 +1,1 @@
+Geçici Madde 1 — Bu Yönetmeliğin 33 üncü ve 34 üncü maddesinde bahsedilen yıllık ve işlem ücretleri bir defaya mahsus olmak üzere, Yönetmeliğin yayımı tarihinden itibaren otuz gün içinde Bakanlık tarafından belirlenerek ilân edilir.
