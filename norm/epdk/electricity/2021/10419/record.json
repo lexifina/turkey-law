@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10419",
+  "decision_date": "2021-09-16",
+  "title": "2022 yılında uygulanacak iletim ek ücretine ilişkin",
+  "resmi_gazete_date": "2021-09-18",
+  "resmi_gazete_number": "31602",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xGMLllVwKYc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=xGMLllVwKYc="
+  ],
+  "source_sha256": "7db0404b89c37ed6e6c2f8645d723531dd193eae904ed54534f9184eebf84769",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-09-16",
+  "law_text_complete": true
+}
