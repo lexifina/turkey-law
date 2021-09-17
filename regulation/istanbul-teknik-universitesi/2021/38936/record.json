@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-09-17",
+      "17.09.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31601",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-17",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Teknik Üniversitesi",
+  "issuer_slug": "istanbul-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-teknik-universitesi/2021/38936",
+  "published": "2021-09-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38936&MevzuatTertip=5",
+  "source_bytes": 16872,
+  "source_id": "8.5.38936",
+  "source_sha256": "e94bac48276538b30c85f5b66d9bc09a620a1d8aefac1bf36dc97a39cef6dec2",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL TEKNİK ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 203,
+  "word_count": 606
+}
