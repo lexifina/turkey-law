@@ -1,0 +1,20 @@
+{
+  "applicant": "H.G.",
+  "application_date": "2018-11-02",
+  "application_number": "2018/32199",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-06-29",
+  "id": "16adb82a-d8d0-b016-36b1-df4f6388b276",
+  "in_force": "2021-09-17",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": "2021-09-17",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjE2YWRiODJhLWQ4ZDAtYjAxNi0zNmIxLWRmNGY2Mzg4YjI3Ng&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "9705f2abc6eabe8aa4cf314b3b01bf6ff7712f1b6a94e4e49bcd5eb498da5a72",
+  "version_label": "as-enacted"
+}
