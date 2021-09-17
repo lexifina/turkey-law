@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38937",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU YÖNETİM KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38937",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2021/38937",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38937&MevzuatTertip=5",
+  "source_sha256": "731d5a1743da255611d420199308c136c6cf176da04afc829e1bcdcba7a7dc22",
+  "source_bytes": 20286,
+  "published": "2021-09-17",
+  "gazette": "31601",
+  "in_force": "2021-09-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 775,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 25/6/2003 tarihli ve 4904 sayılı Türkiye İş Kurumu ile İlgili Bazı Düzenlemeler Hakkında Kanunun 6 ncı maddesi ile 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 620 nci maddesine dayanılarak hazırlanmıştır.
