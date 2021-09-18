@@ -1,0 +1,2 @@
+Müdür (Başhekim)
+MADDE 8 – (1) Müdür (Başhekim); Rektörün önerisi üzerine Mütevelli Heyet Başkanı tarafından diş hekimliği fakültesi öğretim elemanları arasından iki yıllık bir süre için görevlendirilir. Görev süresi biten Müdür (Başhekim) yeniden görevlendirilebilir. Müdür (Başhekim), görevi başında olmadığı zaman müdür (başhekim) yardımcılarından görevlendirilmiş olanı kendisine vekâlet eder. Müdürün altı aydan fazla süreyle görevi başında bulunamadığı durumlarda yeni bir Müdür görevlendirilir.
