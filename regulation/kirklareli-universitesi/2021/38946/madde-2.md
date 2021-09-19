@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; koordinatör Kırklareli Üniversitesi bünyesinde Burdur Mehmet Akif Ersoy Üniversitesi ve Tekirdağ Namık Kemal Üniversitesi iş birliği ile kurulan Kırklareli Üniversitesi, Burdur Mehmet Akif Ersoy Üniversitesi ve Tekirdağ Namık Kemal Üniversitesi Gıda Arzı Güvenliği ve Dijitalleşme Ortak Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
