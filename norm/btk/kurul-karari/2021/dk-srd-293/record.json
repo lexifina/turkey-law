@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SRD/293",
+  "source_id": "2021/DK-SRD/293",
+  "date": "2021-09-20",
+  "title": "SMS/MMS Sonlandırma Hizmetine İlişkin Tarife Kontrol Yükümlülüğü Süre Uzatımı",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/20ffe551-0ed5-4f4f-b165-8bb0bc03f61c.pdf",
+  "source_sha256": "5adc447fad4005753b2f797601e7139bf75b17db3b9e2282c21889042d111ebf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
