@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü, 36 ncı, 39 uncu, ek 32 nci ve ek 33 üncü maddelerine, 26/6/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanununun 7 nci maddesi ile 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanunun 3 üncü maddesinin on birinci fıkrasına dayanılarak hazırlanmıştır.

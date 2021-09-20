@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; Çankırı Karatekin Üniversitesinde çalışan öğretim elemanlarının teknoloji geliştirme bölgelerinde görevlendirilmeleri, şirket kurabilmeleri, kurulu bir şirkete ortak olabilmeleri ve/veya bu şirketlerin yönetimlerinde görev alabilmeleri, Teknoloji Transfer Ofisi şirket faaliyetlerinde görevlendirilmeleri ile Ar-Ge veya tasarım merkezlerinde görev alabilmelerine ilişkin hükümleri kapsar.

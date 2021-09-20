@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) Bu Yönetmelik yürürlüğe girmeden önce Çankırı Karatekin Üniversitesinde çalışan öğretim elemanlarının bölgede yer alan şirketlerde veya TTO şirketinde görevlendirilme, şirket kurma, kurulu bir şirkete ortak olma ve/veya bu şirketlerin yönetimlerinde görev almalarına ilişkin olarak Rektör tarafından onaylanmış kararlar, izin verilmiş görevlendirmeler ve yapılmış olan süre uzatım işlemleri, süreleri tamamlanıncaya kadar geçerlidir.
