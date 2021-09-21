@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2021/30910",
+  "award_date": "2021-09-21",
+  "heading_as_published": "21.09.2021 Tarihli - 2021/İHK-30910 Sayılı İtiraz Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 57 Ocak - Mart 2024",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/revizekd57.pdf",
+  "source_sha256": "914f2f69cae25f536737c7792f54f2ee426c4594bddfa7f6254156cde934c23f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
