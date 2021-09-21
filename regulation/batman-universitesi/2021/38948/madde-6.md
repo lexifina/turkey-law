@@ -1,0 +1,11 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Kadın araştırmaları konusunda lisansüstü programlar açılmasına katkıda bulunmak bu programlarda bilimsel çalışmalar geliştirmek ve bu alanda çalışacak nitelikli insan kaynağı oluşmasına katkı sunmak.
+b) Kadın çalışmaları ile ilgili eğitim, hukuk, sosyoloji, tarih, psikoloji, ekonomi gibi birçok alanda araştırma yapmak proje oluşturmak ve projelerde yer almak.
+c) İlgili mevzuat hükümleri kapsamında kadınların sosyal, siyasi ve ekonomik alanda karşılaştığı insani ve medeni hak ihlalleri, cinsiyet ayrımcılığı, her türlü şiddet, istismar ve ihmal, yıldırma, taciz, tecavüz ve ifade özgürlüğü kısıtlaması gibi kadınların her alanda karşılaştığı sorunların araştırılması, bu problemlere çözümler üretilmesi ve mevcut durumlarının iyileştirilmesi için bilimsel çalışmalar, etkinlikler ve toplantılar yapmak, dergi, kitap, rapor ve istatistiki veriler yayınlamak, eğitimler vermek, kurslar açmak, projeler geliştirmek ve uygulamak, yurt içi ve yurt dışından üniversiteler, kamu ve özel kurumlar, iş dünyası, meslek odaları ve sivil toplum kuruluşları ile iş birliği yapmak.
+ç) Toplumsal yapıda kadın hakları ve sorunları konusunda farkındalık oluşturarak, kadınların hayatın her alanında karşılaştığı problemlerin, engellemelerin azaltılmasını sağlamak ve kadın haklarını destekleyici bir kültürün gelişmesine katkı sunacak faaliyet ve etkinliklerde bulunmak.
+d) Kadınların bireysel yeteneklerini, mesleki bilgisini, sosyal, siyasi ve ekonomik alanda karar mekanizmalarına katılımlarını güçlendirecek, sosyal ve ekonomik gelişmeye de katkı sağlayacak çalışmalarda bulunmak.
+e) Kadınların dünyada ve Ülkemizdeki sosyal, ekonomik, teknolojik ve internet temelli gelişmeler karşısında kapasitesini ve becerilerini geliştirici faaliyet ve etkinliklerde bulunmak.
+f) Kadın istihdamı ve girişimciliğinin desteklenmesini sağlayıcı, kadının ekonomik alanda varlığını, katkısını, etkinliğini artırıcı ve ekonomik gücünü iyileştirici çalışmalar yapmak.
+g) Kadınların yaşamın tüm alanlarında karşılaşabilecekleri temel sorunların erken dönemde tespit edilmesi, önlenmesi ve azaltılmasına yönelik önleyici, bireysel, sosyal, ekonomik, hukuki stratejiler, politikalar ve kurumsal mekanizmalar geliştirmek.
+ğ) Merkezin amacına uygun diğer faaliyetleri yapmak.
