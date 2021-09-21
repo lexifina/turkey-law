@@ -1,0 +1,2 @@
+Konaklama yapılabilecek yerler
+MADDE 7 – (1) Kapalı ceza infaz kurumunda bulunan hükümlü ve tutuklulardan, mazeret izni sırasında gece konaklaması gerekenler; kendisine veya eşine ait evde kalabileceği gibi, kendisinin veya eşinin annesine, babasına, kardeşine, çocuğuna, torununa, büyükbabasına veya büyükannesine ait evde, güvenli görülen başka bir yerde ya da gidilen yerde bulunan kapalı ceza infaz kurumunda kalabilir.

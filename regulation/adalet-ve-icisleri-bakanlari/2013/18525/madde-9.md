@@ -1,0 +1,5 @@
+Alınacak güvenlik tedbirleri
+MADDE 9 – (1) Hükümlü veya tutukluya refakat eden dış güvenlik yetkilisinin bilgi vermesi ve talebi hâlinde izne gidilen yerdeki kolluk birimleri tarafından cenaze merasiminin yapılacağı veya konaklanacak yerde ya da talep edilen başka bir yerde gerekli güvenlik tedbirleri alınır.
+(2) Hükümlü veya tutuklu, izin süresince dış güvenlik görevlilerinin yakın nezareti altında bulundurulur.
+(3) Konaklanacak yerin içi ve çevresi de dâhil olmak üzere izin süresince alınacak tüm güvenlik tedbirlerinin nitelik ve kapsamı, görevlendirilecek personelin sayısı ve giyeceği kıyafet ile gerektiğinde hükümlü veya tutukluya devamlı ya da geçici suretle kelepçe takılıp takılmayacağı, dış güvenlik yetkilisi tarafından şahsın işlediği suç türü, kişisel durumu, koşullu salıverilme tarihi ve mevcut güvenlik riskleri dikkate alınarak belirlenir.
+(4) Mazeret izni verilen tutuklu veya hükümlünün çocuk olması durumunda, iznin geçirileceği ilin valiliği tarafından pedagog, psikolog veya sosyal hizmet uzmanı görevlendirilebilir.

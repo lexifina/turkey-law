@@ -1,0 +1,2 @@
+Giderler
+MADDE 13 – (1) Mazeret iznine refakat eden dış güvenlik görevlilerinin harcırah ve yol giderleri, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında (Değişik ibare:RG-21/9/2021-31605) Yönetmeliğin 114 üncü maddesinin altıncı fıkrası çerçevesinde, hükümlü veya tutuklu tarafından ödenir. Giderlerin bu şekilde karşılanmaması hâlinde verilen mazeret izni uygulanmaz.
