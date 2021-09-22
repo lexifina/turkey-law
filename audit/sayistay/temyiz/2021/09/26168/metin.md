@@ -1,0 +1,5 @@
+Özel yetenek sınavından toplanan ücretlerin özel bütçeye gelir kaydedilmemesi;
+
+207 sayılı Ek İlamın 1. maddesinin 1. bendiyle verilen … TL’nin tazminine dair hükümde Beden Eğitimi ve Spor Yüksekokulu Müdürü sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 47221 sayılı dosya, 22.09.2021 tarihli ve 50170 tutanak sayılı Temyiz Kurulu Kararı ile; kamu zararına sebebiyet verecek bir husus bulunmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle (ikinci kez aynı gerekçeyle) Dairesine gönderildiğinden; bir diğer sorumluyu [(Özel Yetenek Sınavını Düzenleyen) Güzel Sanatlar ve Tasarım Fakültesi Dekan Yardımcısı sıfatıyla temyiz talep eden …’ı] ilgilendiren ve aynı mahiyette olan 47222 sayılı işbu dosyanın da sözü edilen (47221 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 22.09.2021 tarihli ve 50171 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
