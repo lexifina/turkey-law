@@ -1,0 +1,13 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkez, amaçlarını gerçekleştirmek için aşağıdaki faaliyetlerde bulunur;
+a) Yeni malzeme ve yeni üretim süreçleri ile ticarileşme şansı olan ürün geliştirilmesi noktasında yenilikçi, katma değeri yüksek ve amaçlar bölümünde anılan alanlarda ileri teknolojilere dayalı araştırmalar yürütmek,
+b) Geliştirdiği, ürettiği veya sınadığı yeni metot ve malzemelerin fiziksel, kimyasal, biyolojik, mekanik ve elektronik yönden karakterizasyonunu kapsamlı bir şekilde gerçekleştirmek,
+c) Üniversite bünyesinde mevcut her türlü araç, gereç, cihaz ile birlikte araştırma laboratuvarı, uygulama ve araştırma merkezi ve benzeri birimler arasındaki ilişkilerde koordinasyonu sağlamak, geliştirmek, güçlendirmek; araştırma ve geliştirme olanaklarının birimler arası kullanıma açılmasını sağlamak,
+ç) Merkez bünyesinde sürdürülen çalışma ve elde edilen araştırmalar sonucunda gerektiğinde ulusal veya uluslararası patent başvuruları yaparak bunları Doğu Anadolu Bölgesindeki ve ülkemizdeki sanayici ve girişimcilerin kullanımına tam olarak açmak,
+d) Yapılan çalışma ve araştırma sonuçlarını uluslararası bilimsel dergilerde yayınlamak,
+e) Yurt içindeki ve yurt dışındaki benzeri amaçlarla kurulmuş merkezler ve enstitüleri yakından izlemek; onlarla gerektiğinde işbirliği yapmak, bilimsel toplantılar ve çalıştaylar düzenlemek, ortak projeler geliştirmek, bu ortak projelere finans kaynağı bulmak ve bu projeleri fikri mülkiyet hakları çerçevesinde yürütmek,
+f) Doğu Anadolu Bölgesinde mevcut olan ve kurulması planlanabilecek diğer teknopark, sanayi geliştirme ve teknoloji geliştirme merkezleri ve bunlara ilgi duyan sanayi kurum ve kuruluşlarına ihtiyaç halinde danışmanlık hizmetleri vermek ve araştırma altyapısı imkânı sunmak,
+g) Yıllık performansını, her yılın Ocak ayının son gününde, bir önceki yıla ait olacak şekilde, yayınlayacağı aktivite raporu, broşür ve kitapçıklarla, ülke genelinde kamuoyuna duyurmak.
+ğ) (Ek:RG-7/4/2020-31092) Kamu kurum ve kuruluşları, sanayi ve üçüncü şahısların analiz, test ve hizmet taleplerini, sertifika ve kurs programlarını yönetim kurulunca belirlenecek ücret karşılığında gerçekleştirmek.
+h) (Ek:RG-7/4/2020-31092) Merkezdeki mevcut cihazların tanıtılmasına, kullanım amacına, bu cihazlarla hangi tür araştırmaların veya analizlerin yapılabileceğine dair araştırmacıların gelişimine yönelik kurslar, programlar ve eğitimler düzenlemek, sınavlar yapmak, belge, sertifika ve katılım belgesi vermek.
+I) (Ek:RG-7/4/2020-31092) Bilimsel görüş bildirmek, danışmanlık ve benzeri hizmetler yapmak, ayrıca bu hizmetlere ilişkin raporlar düzenlemek.

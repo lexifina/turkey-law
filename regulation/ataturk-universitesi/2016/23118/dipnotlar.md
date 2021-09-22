@@ -1,0 +1,1 @@
+[1] 16/12/2019 tarihli ve 30980 sayılı Resmi Gazete’ de yayımlanan Yönetmelik ile bu Yönetmeliğe 16 ncı maddesinden sonra gelmek üzere madde eklenmiş ve diğer maddeler buna göre teselsül ettirilmiştir. Bu yönetmelik 20/12/2016 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
