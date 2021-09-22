@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50185",
+  "decision_date": "2021-09-22",
+  "source_id": 26185,
+  "chamber": "5",
+  "file_number": "46644",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26185/",
+  "source_sha256": "4305ba17d15dbc8ea4a25395b6a41b53575e09df409d0821c8c36fe238dc8fcd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
