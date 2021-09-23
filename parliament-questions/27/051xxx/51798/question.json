@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 4,
+  "esas_no": "7/51798",
+  "submitted": "2021-09-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut TANAL",
+  "province": "İstanbul",
+  "summary": "Mardin ili Mazıdağ ilçesinde Covid-19 tedbirleri kapsamında yapılan denetimlere ve uygulanan idari para cezalarına ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-bb19-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "1ba2626cb51e1f422b1b6c08cf822a07ab0b36e1a3edd3cab0c9e5c3d0242b17",
+  "in_force": "2021-09-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
