@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/saglik-bilimleri-universitesi/2021/38953",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31607",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-23",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Sağlık Bilimleri Üniversitesi",
+  "issuer_slug": "saglik-bilimleri-universitesi",
+  "kind": "regulation",
+  "published": "2021-09-23",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38953&MevzuatTertip=5",
+  "source_id": "8.5.38953",
+  "source_sha256": "6dd132869813fb7f8cd697fe2335eb1a93e2468ca6ac54d25c930bf7b54cad28",
+  "title": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ UZAKTAN ÖĞRENİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 454,
+  "version_label": "oldest version available",
+  "word_count": 1287
+}
