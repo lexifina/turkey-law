@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, Çin Halk Cumhuriyeti, Çin Tayvanı, Endonezya Cumhuriyeti, Kore Cumhuriyeti, Hindistan Cumhuriyeti ve Tayland Krallığı menşeli 5503.20.00.00.00 gümrük tarife istatistik pozisyonunda sınıflandırılan “poliesterden sentetik devamsız lifler (polyester elyaf)” ithalatında yürürlükte bulunan dampinge karşı kesin önlemlerin kısmen askıya alınmasına ilişkin alınan kararın yürürlüğe konulmasıdır.

@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 23/9/2021 tarihinde yürürlüğe girer",
+  "date_gazette": "31592",
+  "date_quote": "Bu Tebliğ 23/9/2021 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31592",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-23",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 23/9/2021 tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-400.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=400&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-09-08",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38952&MevzuatTertip=5",
+  "source_bytes": 25854,
+  "source_id": "9.5.38952",
+  "source_sha256": "65a3b476838bf4a2e4c6e32b127b38c1d8fe11eb607765e808491b6d07e14ded",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ\r\n(TEBLİĞ NO: 2021/44)",
+  "word_count": 521
+}

@@ -1,0 +1,5 @@
+Karar
+MADDE 6 – (1) Kararın 9 uncu maddesi çerçevesinde, Kurulun kararı ve Ticaret Bakanının onayı ile 4 üncü maddede belirtilen dampinge karşı önlemlerin, polyester elyaf ithalatında korunma önlemi kadar olan kısmının korunma önlemi yürürlükte kaldığı sürece askıya alınmasına karar verilmiştir.
+(2) Gümrük idarelerince, diğer mevzuat hükümleri saklı kalmak kaydıyla 4 üncü maddede belirtilen dampinge karşı önlemin polyester elyaf ithalatında korunma önleminden daha düşük veya eşit olması durumunda dampinge karşı önlem tahsil edilmez. Dampinge karşı önlemin, polyester elyaf ithalatında korunma önleminden fazla olması durumunda dampinge karşı önlemin fazla olan kısmı tahsil edilir.
+(3) İthalatta kota ve tarife kontenjanı idaresine ilişkin tebliğler kapsamında ithal lisansı beyan edilmesi durumunda 4 üncü maddede belirtilen dampinge karşı önlemin tamamı tahsil edilir.
+(4) Bu maddenin birinci fıkrasında düzenlenen askıya alma kararı, polyester elyaf ithalatında korunma önleminin ve 4 üncü maddede belirtilen dampinge karşı önlemlerin süresinin uzatılması durumunda da uygulanır.
