@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 5503.20.00.00.00 gümrük tarife istatistik pozisyonunda yer alan eşyanın ithalatında 23/8/2021 tarihli ve 4412 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Polyester Elyaf İthalatında Korunma Önlemi Uygulanmasına İlişkin Karar kapsamında, ek mali yükümlülük şeklinde uygulanan korunma önleminden muafiyet sağlanması amacıyla açılan tarife kontenjanının kullanım usul ve esaslarının düzenlenmesidir.

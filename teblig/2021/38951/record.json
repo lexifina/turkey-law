@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38951",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KOTA VE TARİFE KONTENJANI İDARESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/9)",
+  "number": "38951",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38951",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38951&MevzuatTertip=5",
+  "source_sha256": "c213fed8a9d44fbac13bbe29d1fb39894ee70a72be1d92c18c7ec04af488eb0a",
+  "source_bytes": 15817,
+  "published": "2021-09-11",
+  "gazette": "31595",
+  "in_force": "2021-09-23",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 23/9/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 23/9/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 697,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38951-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
