@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, içme suyu temin edilen veya temin edilmesi (Değişik ibare:RG-24/9/2021-31608) planlanan yerüstü ve yeraltı sularının kalite kategorisi, suların dâhil olduğu kategoriye göre uygulanacak arıtma sınıfları, bu sularda izlenmesi gereken parametreler için numune alma ve analiz sıklıkları ile içme suyu arıtma tesislerinin arıtma veriminin (Değişik ibare:RG-24/9/2021-31608) tespitine, projelendirilmesine ve işletilmesine ilişkin hususları kapsar.

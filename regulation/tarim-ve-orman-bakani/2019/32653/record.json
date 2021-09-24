@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.32653",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İÇME SUYU TEMİN EDİLEN SULARIN KALİTESİ VE ARITILMASI HAKKINDA YÖNETMELİK",
+  "number": "32653",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2019/32653",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=32653&MevzuatTertip=5",
+  "source_sha256": "0147d66b2690fff668e8c8369801b59e3d90dabe3ae2b12f68fa7418a51965b8",
+  "source_bytes": 44482,
+  "published": "2019-07-06",
+  "gazette": "30823",
+  "in_force": "2021-09-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/9/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-09-24",
+      "RG-24/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-24",
+      "24/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2383,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.32653-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

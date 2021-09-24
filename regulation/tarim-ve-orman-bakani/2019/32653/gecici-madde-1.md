@@ -1,0 +1,3 @@
+Belde, mahalle ve köylerde izleme
+GEÇİCİ MADDE 1 – (Ek:RG-24/9/2021-31608)
+(1) 12/11/2012 tarihli ve 6360 sayılı On Dört İlde Büyükşehir Belediyesi ve Yirmi Yedi İlçe Kurulması ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun ile büyükşehir belediyelerine bağlı ilçelerin mülki sınırları içerisinde tüzel kişiliği kaldırılarak köy iken mahalle olan ve belediye iken belde ismiyle tek mahalle olarak bağlı bulundukları ilçenin belediyesine katılan yerler ile büyükşehir dışındaki il belediyelerinin il ve ilçe merkez sınırları haricindeki belde ve köylerinde, temin edilen suyun yalnızca aynı yerleşim sınırları içinde kullanılması halinde Ek-1’de yer alan parametrelere göre yapılacak izleme 2025 yılına kadar yılda bir defa yapılır.

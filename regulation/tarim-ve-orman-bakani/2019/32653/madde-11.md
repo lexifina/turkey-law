@@ -1,0 +1,4 @@
+Numune alma ve analiz ile ilgili esaslar
+MADDE 11 – (1) İçme ve kullanma suyu temin edilen veya temin edilmesi planlanan sulardan numune alımında Yüzeysel Sular ve Yeraltı Sularının İzlenmesine Dair Yönetmelik ve 21/2/2015 tarihli ve 29274 sayılı Resmî Gazete’de yayımlanan Yer Üstü Suları, Yer Altı Suları ve Sedimentten Numune Alma ve Biyolojik Örnekleme Tebliği hükümlerine uyulması esastır.
+(2) Kalite kategorisi belirlemek üzere alınacak numunenin alım yeri; içme suyu arıtma tesisi henüz yapılmamış ise su kaynağının su alınması planlanan noktası, içme suyu arıtma tesisi işletmede ise tesis girişidir. İçme suyu arıtma verimini belirlemek için tesis girişinin yanı sıra arıtma tesisi çıkışından da numune alınır.
+(3) Numunelerin analizinde, ölçülen parametrelerin en az yüzde ellisinde akredite olma şartı aranır.
