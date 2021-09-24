@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38955",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SOSYAL GÜVENLİK KURUMUNCA ELEKTRONİK ORTAMDA YAPILACAK TEBLİGATA İLİŞKİN YÖNETMELİK",
+  "number": "38955",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2021/38955",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38955&MevzuatTertip=5",
+  "source_sha256": "a9cd8c9fe63c0c2abd8bbc428f62d2c24e4ba03cd8fb700a3a33c8970a7809bd",
+  "source_bytes": 26870,
+  "published": "2021-09-24",
+  "gazette": "31608",
+  "in_force": "2021-09-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihini izleyen ayın başından itibaren yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihini izleyen ayın başından itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1120,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

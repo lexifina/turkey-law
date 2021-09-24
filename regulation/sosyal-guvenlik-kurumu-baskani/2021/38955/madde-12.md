@@ -1,0 +1,3 @@
+Kullanılacak elektronik tebligat sisteminin belirlenmesi
+MADDE 12 – (1) Kurum, elektronik ortamda yapılacak tebligatla ilgili her türlü teknik altyapıyı kurup işletebilir veya elektronik tebligat yapmaya yetkili Kurumlarla yapılacak protokol hükümleri çerçevesinde elektronik tebligat yaptırtabilir, elektronik ortamda yapılacak tebligatla ilgili başka kurumlarca kurulmuş olan teknik altyapıyı ilgili mevzuatı doğrultusunda kullanabilir.
+(2) Kurum, elektronik ortamda yapılacak tebligatla ilgili başka Kurumlar tarafından kurulmuş olan teknik altyapının kullanılması halinde ilgili kanunlara ve bu Yönetmelikte belirlenen usul ve esaslara uygun olacak şekilde taraflar arasında yapılacak protokol hükümleri uygulanır.
