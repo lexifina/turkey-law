@@ -1,0 +1,6 @@
+Önleme aramalarında elde edilen suç delilleri hakkında yapılacak işlemler ve koruma altına alma
+MADDE 9 – (1) Önleme aramalarında elde edilen suç delilleri, aramayı icra eden görevliler tarafından 5271 sayılı Kanun çerçevesinde koruma altına alınır. Söz konusu deliller ile ilgili hususlarda Cumhuriyet başsavcılığının talimatı doğrultusunda hareket edilir.
+(2) Önleme aramalarında elde edilen ve 31/1/2013 tarihli ve 6413 sayılı Türk Silahlı Kuvvetleri Disiplin Kanununa göre bulundurulması yasak olan malzemeler hakkında bu Kanun kapsamında işlem yapılır.
+(3) Aramanın konusu ve kapsamı içinde olan, ancak suç unsuru oluşturmamakla beraber askerî mahalde taşınması, bulundurulması veya buraya sokulması yasak olan her türlü eşya koruma altına alınır ve aramaya sebep teşkil eden husus sona erdiğinde askerî mahal dışına çıkartılmak üzere ilgiliye teslim edilir.
+(4) Gemilerde 5271 sayılı Kanun kapsamında koruma altına alınan eşyaya ilişkin süreler geminin ana üs veya Deniz Kuvvetleri Komutanlığı limanlarından birine varışından itibaren başlar.
+(5) Yurt dışında konuşlu veya görev yapan askerî birliklerde koruma altına alınan bilgi, belge ve bulgular en kısa zamanda ve uygun vasıta ile yetkili hâkimliğe gönderilmek üzere yurt dışında bulunan birliğin Türkiye’de bağlı bulunduğu birlik komutanlığına gönderilir.

@@ -1,0 +1,4 @@
+Askerî mahallere giriş ve çıkışta koruma altına alınan bulgulara yapılacak işlem
+MADDE 18 – (1) Askerî mahallerde kontrol sırasında elde edilen ve suç şüphesi içeren bilgi ve bulgular hakkında 5271 sayılı Kanun ve ilgili özel kanun hükümleri çerçevesinde işlem yapılır.
+(2) Konusu disiplinsizlik teşkil eden koruma altına alınan malzemeye yönelik 6413 sayılı Kanun, 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile diğer özel disiplin mevzuatı hükümlerine göre işlem yapılır.
+(3) Askerî mahallerden çıkışta, bilgi veya malzeme kaçırıldığının tespit edilmesi halinde; durum derhal tutanağa bağlanmak ve elde edilen bulgu koruma altına alınmak suretiyle askerî mahaldeki ilgili birimine ve yetkili adli makama bildirilir. Yetkili makamın talimatına kadar kişi bekletilir ve alınacak talimat doğrultusunda hareket edilir.

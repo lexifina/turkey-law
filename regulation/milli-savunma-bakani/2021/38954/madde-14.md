@@ -1,0 +1,2 @@
+Diğer yerlerde arama
+MADDE 14 – (1) Ortak kullanıma sunulmuş kapalı ve açık alanlar ile kapalı alanların eklentilerinde, gemi, uçak ve askerî araçlarda yapılan aramalarda mümkünse o alan sorumlusu veya eşyanın sorumlusu, maliki ya da zilyedinin bulundurulması sağlanır. Bu personel bulundurulamıyor ise hazır bulunmama veya bulunamama gerekçesi tutanakta belirtilmek suretiyle, arama heyetinde bulunan personel hariç olmak üzere; aramaya tabi tutulan personelin veya eşyanın bağlı bulunduğu birimden bir personelin aramada hazır bulundurulması sağlanır.

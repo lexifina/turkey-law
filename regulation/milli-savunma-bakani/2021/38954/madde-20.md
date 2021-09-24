@@ -1,0 +1,2 @@
+Özel hükümler
+MADDE 20 – (1) Uluslararası anlaşmalar, 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanunu, mülga 26/10/1963 tarihli ve 357 sayılı Askerî Hâkimler Kanununun uygulanmasına devam olunan hükümleri, 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu ve diğer özel kanun hükümleri saklıdır. 1/11/1983 tarihli ve 2937 sayılı Devlet İstihbarat Hizmetleri ve Milli İstihbarat Teşkilatı Kanunu kapsamında Milli İstihbarat Teşkilatı mensupları hakkında bu Yönetmelik hükümleri uygulanmaz.

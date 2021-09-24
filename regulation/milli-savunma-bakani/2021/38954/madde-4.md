@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Araç: Harp araç ve gereçleri de dâhil olmak üzere her türlü nakil vasıta ve taşıtları,
+b) Arama heyeti: Bu Yönetmelik kapsamındaki arama faaliyetinde görevlendirilen birden fazla kişiden oluşan personeli,
+c) Askerî mahal: Kışla, karargâh, askerî kurum, konak, ordugâh, üs bölgeleri ve gemiler ile Millî Savunma Üniversitesine bağlı yerleşkeleri,
+ç) Duyarlı kapı: Kişilerin üzerinde bulunan metalleri yoğunluğuna göre algılayarak sesli ve ışıklı uyarıda bulunan bir elektronik sistemi,
+d) El koyma: Suçun veya tehlikelerin önlenmesi amacıyla veya suçun delili olabileceği veya müsadereye tâbi olduğu için, bir eşya üzerinde, rızası olmamasına rağmen, malik veya zilyedin tasarruf yetkisinin kaldırılması işlemini,
+e) Gece vakti: Güneşin batmasından bir saat sonra başlayan ve doğmasından bir saat evvele kadar devam eden süreyi,
+f) Gecikmesinde sakınca bulunan hâl: Derhâl işlem yapılmadığı takdirde; millî güvenlik ve kamu düzeninin, genel sağlık ve genel ahlâkın veya başkalarının hak ve hürriyetlerinin korunmasının tehlikeye girmesi veya zarar görmesi; suç işlenmesinin önlenememesi; askerî mahalde taşınması, bulundurulması veya buraya sokulması yasak olan her türlü patlayıcı, uyuşturucu madde, silâh veya eşyanın, engellenememesi veya tespit edilememesi ihtimalinin ortaya çıkması veya askerî birlik ve kurumda disiplin ve itaatin ileri derecede bozulmasının engellenmesi ve gerektiğinde hâkimden karar almak için vakit bulunmaması hâlini (Seyir halindeki gemiler ile yurt dışında konuşlu veya görev yapan birliklerde gecikmesinde sakınca bulunan hal her zaman varsayılır.),
+g) Hâkim: Yetkili sulh ceza hâkimini,
+ğ) Kışla: Askerîn barındırıldığı ve hizmet gördüğü tek bir bina veya toplu halde bulunan muhtelif binalar ile bunların müştemilatından olan diğer binalar ve arazi ile karargâh ve askerî kurumlar ile deniz kuvvetleri teşkilâtında bulunan gemiler gibi askerî tesisleri,
+h) Konak: Askerlerin barışta ve seferde geçici olarak bir zaman için iskân edildiği yerleri,
+ı) Koruma altına alma: Suçun veya tehlikenin önlenmesi ya da delil olabilecek veya müsadereye tâbi olan yahut güvenliğin sağlanması amacıyla eşyayı zilyedinin kendiliğinden vermesini veya el konulana kadar geçici olarak muhafaza edilmesini,
+i) Ordugâh: Askerlerin geçici bir zaman için açıkta çadır veya baraka ve zeminliklerde yerleştirildiği sahayı,
+j) Yetkili merci: Millî Savunma Bakanlığı merkez teşkilatında Bakanı, yetki devretmesi durumunda ilgili Bakan Yardımcılarını; Genelkurmay Başkanlığında Genelkurmay Başkanını, yetki devretmesi durumunda Genelkurmay İkinci Başkanını; kuvvet komutanlıklarında Kuvvet Komutanını, yetki devretmesi durumunda Kuvvet Kurmay Başkanını; Millî Savunma Bakanlığı taşra ve yurt dışı teşkilatı ile Millî Savunma Üniversitesi için ayrıca asgari alay komutanı eşidi kurum amirini; asgari tugay komutanı veya eşidi rütbede askerî kurum amirini (Deniz ve Hava Kuvvetleri Komutanlıklarında eşidi); bağlı olduğu limandan ayrı bulunması veya seyrüsefer halleri için gemilerde gemi komutanını veya bunların vekillerini; yukarıda sayılanlara ulaşmanın mümkün olmadığı durumlarda ilgisine göre Hukuk Hizmetleri Genel Müdürünü, Hukuk Hizmetleri Başkanını/Hukuk Hizmetleri Birim Amirini veya bunların vekillerini,
+ifade eder.

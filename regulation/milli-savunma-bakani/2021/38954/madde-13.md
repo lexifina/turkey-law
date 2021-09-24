@@ -1,0 +1,3 @@
+Üst ve eşya aramasının icrası
+MADDE 13 – (1) Üst araması sırasında, kişinin beraberinde olan eşya da, mümkünse elektromanyetik veya sair teknik cihazlarla, değilse kaba üst aramasına tâbi tutularak uygun yöntemle yapılır. Sahipsiz eşya hakkında da aynı hüküm uygulanır. Kaba üst aramasını yapacak görevli, kontrol edilecek kişiyle aynı cinsiyetten olur.
+(2) Arama sırasında rastlanan özel kâğıt ve zarﬂar, içinde müsadereye tâbi bir eşya bulunması ihtimali dışında açılmaz; açıksa dahi yazılı bilgiler okunamaz. Kişiye ait olmayan resmi nitelikteki belge ve kapalı zarflar gönderen veya alan birliğin teyidini almak üzere koruma altına alınır. Teyit almayı müteakip bu evraka gerekli işlem yapılır.
