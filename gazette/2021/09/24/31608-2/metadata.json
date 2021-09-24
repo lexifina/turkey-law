@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-09-24",
+  "issue": "31608",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Millî Savunma Bakanlığı Askerî Mahallerde Önleme Araması ve Kontrol Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210924-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210924.htm",
+  "index_sha256": "d429e0bcd15cf616429b8101913ce8b9cb9fc737dec2951bc7892ea3390d614d",
+  "index_header": "24 Eylül 2021 ... 31608 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210924.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
