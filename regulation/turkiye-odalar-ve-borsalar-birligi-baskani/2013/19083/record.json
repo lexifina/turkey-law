@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.19083",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET BORSALARINDA ALIM SATIM YAPAN ARACILAR HAKKINDA YÖNETMELİK",
+  "number": "19083",
+  "issuer": "Türkiye Odalar ve Borsalar Birliği Başkanı",
+  "issuer_slug": "turkiye-odalar-ve-borsalar-birligi-baskani",
+  "path": "regulation/turkiye-odalar-ve-borsalar-birligi-baskani/2013/19083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19083&MevzuatTertip=5",
+  "source_sha256": "f836c446f66e59f83f682ef101c2899f81af6ceb9b5c8a144398acf01dc61cd5",
+  "source_bytes": 39751,
+  "published": "2013-12-06",
+  "gazette": "28843",
+  "in_force": "2021-09-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/9/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-09-25",
+      "RG-25/9/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-09-25",
+      "25/9/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2324,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
