@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/bursa-teknik-universitesi/2021/38958",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31610",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-26",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Bursa Teknik Üniversitesi",
+  "issuer_slug": "bursa-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2021-09-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38958&MevzuatTertip=5",
+  "source_id": "8.5.38958",
+  "source_sha256": "9554b21f810d9cd494fa4f7d5a80283e5e9c49a1281c09222378595455a3a569",
+  "title": "BURSA TEKNİK ÜNİVERSİTESİ ORMANCILIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 392,
+  "version_label": "oldest version available",
+  "word_count": 1032
+}
