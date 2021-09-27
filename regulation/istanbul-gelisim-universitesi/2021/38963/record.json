@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-09-27",
+      "27.09.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31611",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-09-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "İstanbul Gelişim Üniversitesi",
+  "issuer_slug": "istanbul-gelisim-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/istanbul-gelisim-universitesi/2021/38963",
+  "published": "2021-09-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38963&MevzuatTertip=5",
+  "source_bytes": 57626,
+  "source_id": "8.5.38963",
+  "source_sha256": "e1bd6a385cd801563fa92826a58df95e5ee3d44a5ce3fd2c41e340ff8e433d14",
+  "text_status": "as-enacted",
+  "title": "İSTANBUL GELİŞİM ÜNİVERSİTESİ TÜRKÇE VE YABANCI DİL\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 321,
+  "word_count": 1250
+}
