@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-09-27",
+  "issue": "31611",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Türk Gıda Kodeksi Pestisitlerin Maksimum Kalıntı Limitleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210927M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210927M1.htm",
+  "index_sha256": "cba2ea5dcb46b65ed05cc480d637ff1d862743620e189db267ccbf32b86fba5c",
+  "index_header": "27 Eylül 2021 ... 31611 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/09/20210927M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
