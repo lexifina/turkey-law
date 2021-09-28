@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10832",
+  "decision_date": "2021-09-28",
+  "source_id": 34477,
+  "chamber": "1",
+  "ilam_number": "594",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2012,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34477/",
+  "source_sha256": "14e6e9e878fbe285af0977a72a38b11412ae12acd70f4347205526bd22670530",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
