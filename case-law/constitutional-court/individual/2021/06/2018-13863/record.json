@@ -1,0 +1,20 @@
+{
+  "applicant": "D.C.",
+  "application_date": "2018-05-04",
+  "application_number": "2018/13863",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-06-16",
+  "id": "87510599-afa5-0d36-4254-cf05e174b3ae",
+  "in_force": "2021-09-28",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2021-09-28",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjg3NTEwNTk5LWFmYTUtMGQzNi00MjU0LWNmMDVlMTc0YjNhZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3be736d6b0eb434541781490067c4c0cb2c91dcb79062acf4f7b1c189d01f762",
+  "version_label": "as-enacted"
+}
