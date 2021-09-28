@@ -1,0 +1,2 @@
+Atıflar
+MADDE 19 – (1) 11/10/2008 tarihli ve 27021 sayılı Resmî Gazete’de yayımlanan Çalışma Gücü ve Meslekte Kazanma Gücü Kaybı Oranı Tespit İşlemleri Yönetmeliği ile 20 nci madde ile yürürlükten kaldırılan Maluliyet Tespiti İşlemleri Yönetmeliğinde; çalışma gücü kaybı, vazife malullüğü, harp malullüğü ile erken yaşlanma durumlarının tespiti hükümlerine yapılan atıflar bu Yönetmelik hükümlerine yapılmış sayılır.

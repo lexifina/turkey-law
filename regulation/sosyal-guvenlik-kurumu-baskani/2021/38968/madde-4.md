@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Ağır düzeyde çalışma gücü kaybı: Bu Yönetmeliğe göre çalışma gücünün en az %60’ının kaybedilmesini,
+b) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+c) Bakmakla yükümlü olunan çocuk: Kanunun 3 üncü maddesinin birinci fıkrasının (10) numaralı bendinde belirtilen çocuğu,
+ç) Balthazard formülü: Birden fazla iş kazası veya meslek hastalığı sonucu sürekli iş göremezlik dereceleri veya birden fazla engellilik derecelerinin birleştirilmesinde kullanılan hesaplama şeklini,
+d) Başka birinin sürekli bakımına muhtaç derecede ağır engelli çocuk: 20/2/2019 tarihli ve 30692 sayılı Resmî Gazete’de yayımlanan Çocuklar İçin Özel Gereksinim Değerlendirmesi Hakkında Yönetmelikte tanımlanan “Çok ileri düzeyde ÖGV”, “Belirgin ÖGV” ve “Özel koşul gereksinimi var (ÖKGV)” ile 20/2/2019 tarihli ve 30692 sayılı Resmî Gazete’de yayımlanan Erişkinler İçin Engellilik Değerlendirmesi Hakkında Yönetmelikte tanımlanan “Tam bağımlı engelli birey” durumunu,
+e) Hafif düzeyde çalışma gücü kaybı: Bu Yönetmeliğe göre çalışma gücünün en az %40-49 arasında kaybedilmesini,
+f) Hak sahibi çocuk: Sigortalının veya sürekli iş göremezlik geliri ile malullük, vazife malullüğü veya yaşlılık aylığı almakta olanların ölümü halinde, gelir veya aylık bağlanmasına veya toptan ödeme yapılmasına hak kazanan çocuğu,
+g) Hastalık listesi: Çalışma gücünün hangi düzeyde kaybedildiğinin tespitine esas Ek-1’de yer alan listeyi,
+ğ) Kanun: 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununu,
+h) Kontrol muayenesi: Kanunun 94 üncü maddesinde belirtilen hallerde istenilen muayeneyi,
+ı) Kurum: Sosyal Güvenlik Kurumunu,
+i) Kurum Sağlık Kurulu: Çalışma gücü kaybını, vazifelerini yapamayacak şekilde meslekte kazanma gücü kaybını, erken yaşlanma halini ve kadın sigortalı çocuğunun başka birinin sürekli bakımına muhtaç derecede ağır engelli olup olmadığını belirlemeye yetkili hekimlerden ve/veya diş hekimlerinden oluşan kurulları,
+j) Maluliyet: Çalışma gücünü ağır düzeyde veya iş kazası ya da meslek hastalığı sonucu meslekte kazanma gücünün en az %60’ını, Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamındaki sigortalılar için vazifelerini yapamayacak şekilde meslekte kazanma gücünü kaybetme veya vazifelerini yapamayacak derecede hastalığa uğrayanlardan personel kanunlarına tabi olanların hastalıklarının kanunlarında tayin edilen sürelerden fazla devam ettiği, olmayanların ise hastalık sebebiyle malul sayılmalarına esas alınacak hastalık süreleri hakkında kendi özel kanunları yürürlüğe girinceye kadar Devlet Memurları Kanununun hastalık iznine ilişkin hükümleri uygulanmak suretiyle bu süreleri doldurma hallerini,
+k) Orta düzeyde çalışma gücü kaybı: Bu Yönetmeliğe göre çalışma gücünün en az %50-59 arasında kaybedilmesini,
+l) Sağlık kurulu raporu: Kurumca yetkilendirilmiş sağlık hizmeti sunucularının sağlık kurullarınca düzenlenen sağlık kurulu raporlarını,
+m) Sigortalı: Kısa ve/veya uzun vadeli sigorta kolları bakımından adına prim ödenmesi gereken veya kendi adına prim ödemesi gereken kişiyi,
+n) Sosyal Sigorta Yüksek Sağlık Kurulu: Kanunun 58 inci maddesinde belirtilen kurulu,
+o) Vazife malullüğü: Kanunun 47 nci maddesinde tarif edilen vazife ve/veya harp malullüğü hallerini,
+ifade eder.

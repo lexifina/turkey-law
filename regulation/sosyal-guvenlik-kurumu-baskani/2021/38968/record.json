@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38968",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MALULİYET VE ÇALIŞMA GÜCÜ KAYBI TESPİTİ İŞLEMLERİ YÖNETMELİĞİ",
+  "number": "38968",
+  "issuer": "Sosyal Güvenlik Kurumu Başkanı",
+  "issuer_slug": "sosyal-guvenlik-kurumu-baskani",
+  "path": "regulation/sosyal-guvenlik-kurumu-baskani/2021/38968",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38968&MevzuatTertip=5",
+  "source_sha256": "be9df64edea7eae30e3bb272d8cda90355ffea60fe035132ba700547d2153a4c",
+  "source_bytes": 92421,
+  "published": "2021-09-28",
+  "gazette": "31612",
+  "in_force": "2021-09-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2460,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38968-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
