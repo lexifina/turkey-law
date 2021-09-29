@@ -1,0 +1,2 @@
+Yazışma usulü
+MADDE 32 – (1) Müfettişler, görevlerine ilişkin konularda kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak TBMM, Cumhurbaşkanlığı ve bakanlıkların merkez ve yurt dışı teşkilatları ile bağlı ilgili ve ilişkili kurum ve kuruluşlarının merkez ve yurt dışı teşkilatları, yüksek yargı organları, Genelkurmay Başkanlığı ve kuvvet komutanlıkları karargâhlarıyla yazışmalarını Başkanlık aracılığıyla yaparlar.

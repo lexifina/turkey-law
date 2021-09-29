@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanununun ek 39 uncu, 22/5/2003 tarihli ve 4857 sayılı İş Kanununun 91 inci, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 59 uncu, 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanununun 24 üncü ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 340 ıncı maddelerine dayanılarak hazırlanmıştır.

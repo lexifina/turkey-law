@@ -1,0 +1,3 @@
+Yurt dışına gönderilme
+MADDE 30 – (1) 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik ve diğer ilgili mevzuat uyarınca Başkanlıkta fiilen en az beş yıl görev yapmış müfettişlerden Yabancı Dil Bilgisi Seviye Tespit Sınavından (YDS) en az 70 puan alanlar Bakanlığı ilgilendiren konularda inceleme ve araştırma yapmak üzere bütçenin ilgili tertibindeki ödenekten yararlandırılarak Başkanın önerisi ve Bakanın onayı ile altı ay süreli yurt dışına gönderilebilir.
+(2) Yurt dışına gönderilenler tarafından, inceleme ve araştırma konularıyla ilgili düzenlenecek yurt dışı inceleme ve araştırma raporu, dönüş tarihinden itibaren üç ay içinde Başkanlığa tevdi edilir.

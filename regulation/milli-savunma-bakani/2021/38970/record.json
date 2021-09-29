@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38970",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI TEFTİŞ KURULU BAŞKANLIĞI YÖNETMELİĞİ",
+  "number": "38970",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2021/38970",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38970&MevzuatTertip=5",
+  "source_sha256": "d00686e4702669fe18d4d6ebf19a1289bbc4323af0aa4139d059da61d4b8d1f5",
+  "source_bytes": 177118,
+  "published": "2021-09-29",
+  "gazette": "31613",
+  "in_force": "2021-09-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6208,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
