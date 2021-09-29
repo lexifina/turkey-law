@@ -1,0 +1,2 @@
+Tedarikçilerin sorumluluğu
+MADDE 56 – (1) Tedarikçiler taahhütleri çerçevesinde kusurlu veya standartlara uygun olmayan malzeme verilmesi veya kullanılması, taahhüdün sözleşme ve şartname hükümlerine uygun olarak yerine getirilmemesi ve benzeri nedenlerle ortaya çıkan gizli ayıp, zarar ve ziyandan doğrudan sorumludurlar. Bu zarar ve ziyan genel hükümlere göre tedarikçiye ikmal ve tazmin ettirilir.

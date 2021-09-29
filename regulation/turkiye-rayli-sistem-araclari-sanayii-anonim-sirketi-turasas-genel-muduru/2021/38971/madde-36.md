@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 36 – (1) İhale dokümanında belirtilmiş olması kaydı ile herhangi bir aşamada ihale komisyonu kararı üzerine ihale yetkilisinin onayı ile İdare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir ve bu halde ihaleye teklif veren istekliler İdareye karşı herhangi bir hak talebinde bulunamaz. İhalenin iptal edilmesi halinde bu durum ihaleye fiyat teklifi veren bütün isteklilere gerekçeleri ile birlikte bildirilir.

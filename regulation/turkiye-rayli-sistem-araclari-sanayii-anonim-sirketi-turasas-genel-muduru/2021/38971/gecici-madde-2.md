@@ -1,0 +1,2 @@
+Onaylı tedarikçi listeleri
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yürürlüğe girmesinden itibaren en fazla 24 ay içerisinde mal ve hizmet alımlarına ilişkin onaylı tedarikçi listeleri oluşturulur. Bu süre zarfında yapılacak mal ve hizmet alımları için, geçmişte alım yapılmış ve teknik yeterlik, ürün uygunluğu, kalite, teslimat performansı ve satış sonrası hizmetler yönünden yeterliliği ispatlanmış yükleniciler geçici olarak onaylı tedarikçi kabul edilebilir.

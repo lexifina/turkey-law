@@ -1,0 +1,10 @@
+Teminat olarak kabul edilebilecek değerler
+MADDE 33 – (1) Teminat olarak kabul edilecek değerler aşağıda belirtilmiştir:
+a) Teklifteki para cinsinden nakit. Teminatın döviz cinsinden verilmesi durumunda teminatın iade edileceği tarihte doğabilecek olan kur riski ihaleye teklif veren istekli tarafından karşılanacaktır.
+b) Bankaların ve özel finans kurumlarının düzenleyecekleri teminat mektupları. İlgili mevzuatına göre Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyecekleri teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontr-garantisi üzerine Türkiye’de faaliyette bulunan bankaların veya özel finans kurumlarının düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.
+c) Hazine Müsteşarlığınca ihraç edilen devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeler. Senetler ve bu senetler yerine düzenlenen belgelerden nominal değere faiz dâhil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat olarak kabul edilir.
+(2) Teminat mektupları veya teminat karşılığı alınan makbuzlar dışındaki teminatlar ihale komisyonlarınca teslim alınmaz. Teminat mektupları dışındaki teminatlar; Mali ve İdari İşler Dairesi Başkanlığı ile Bölge müdürlükleri, muhasebe birimlerine yatırılabileceği gibi nakit teminatlar İdarenin belirteceği banka hesaplarına da yatırılabilir. Nakit teminatın bankaya yatırılması halinde banka makbuzu veya dekontun açıklama kısmına; ihale kayıt numarası, dosya numarası ve işin konusu yazılmalıdır. İhale komisyonu gerektiğinde bankalara yatırılan nakit teminatların teyidini isteyebilir.
+(3) İstekliler banka teminat mektuplarını veya diğer teminatlar karşılığı aldıkları makbuzları tekliflerin ekine koyarlar.
+(4) Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
+(5) Her ne suretle olursa olsun, İdarece alınan teminatlar haczedilemez ve üzerine ihtiyati tedbir konulamaz.
+(6) İlgili mevzuata aykırı olarak düzenlenmiş teminat mektupları ile tutar ve/veya vade açısından yetersiz olan teminat mektupları kabul edilmez.

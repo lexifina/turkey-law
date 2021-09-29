@@ -1,0 +1,4 @@
+Taleplerin bildirilmesi
+MADDE 7 – (1) Mal ve hizmet alımları talep belgesi ile talep edilir. Talep sahibi birim hazırlayacağı yaklaşık maliyeti, teknik şartnameyi, İdari Şartnameye konulmasını istediği özel hükümleri ayrıca varsa fiyat dışı unsurları da belirterek, ödenek kalemini ve ödenek miktarını gösteren talep belgesini satın alma ve ihale organlarına gönderir.
+(2) Talep edilen mal ve hizmetin tek kaynaktan temin edilmesi zorunlu ise; gerekçesi yazılarak tek kaynaktan talep formu doldurulup talep sahibi birimlerce imzalanarak talep belgesi ekinde satın alma ve ihale organlarına gönderilir.
+(3) Talep sahibi birimler ihtiyaçlarını, pazarlık usulü veya doğrudan teminde belirtilen durumlardan biri ile karşılanmasını talep etmeleri halinde gerekçelerini ve taleplerinin pazarlık veya doğrudan teminin hangi bendi kapsamına girdiğini belirtmek zorundadır.

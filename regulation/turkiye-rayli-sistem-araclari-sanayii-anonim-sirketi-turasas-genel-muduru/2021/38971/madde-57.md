@@ -1,0 +1,4 @@
+ON BİRİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yürürlükten kaldırılan yönetmelikler
+MADDE 57 – (1) 16/12/2004 tarihli ve 25672 sayılı Resmî Gazete’de yayımlanan Türkiye Lokomotif ve Motor Sanayii Anonim Şirketi Genel Müdürlüğünün 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (G) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımları İçin Satınalma ve İhale Yönetmeliği, 4/5/2016 tarihli ve 29702 sayılı Resmî Gazete'de yayımlanan Türkiye Demiryolu Makinaları Sanayi Anonim Şirketinin 4734 Sayılı Kanunun 3 üncü Maddesinin Birinci Fıkrasının (G) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımları Hakkında Yönetmelik ve 11/1/2017 tarihli ve 29945 sayılı Resmî Gazete’de yayımlanan Türkiye Vagon Sanayi Anonim Şirketinin (TÜVASAŞ Genel Müdürlüğü) 4734 Sayılı Kamu İhale Kanununun 3/G Maddesi Kapsamında Yapacağı Mal ve Hizmet Alımları İçin Satınalma ve İhale Yönetmeliği yürürlükten kaldırılmıştır.
