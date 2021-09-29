@@ -1,0 +1,20 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: Çalışma ve Sosyal Güvenlik Bakanını,
+b) Bakanlık: Çalışma ve Sosyal Güvenlik Bakanlığını,
+c) Bakan Yardımcısı: Bakanlık Bakan Yardımcısını,
+ç) Birim: Bakanlık merkez teşkilatında kurulmuş olan hizmet birimlerini,
+d) Birim amiri: Bakanlık merkez teşkilatındaki hizmet birimlerinin en üst yöneticilerini,
+e) Giriş sınavı: Çalışma uzman yardımcılığı giriş sınavlarını,
+f) İlgili birim: Çalışma uzman yardımcısının görev yaptığı birimi,
+g) Komisyon: Giriş Sınavı Komisyonunu,
+ğ) KPSS: Kamu Personel Seçme Sınavını,
+h) Kurul: Tez ve Yeterlik Sınavı Kurulunu,
+ı) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+i) PDB: Personel Dairesi Başkanlığını,
+j) Tez: Uzman yardımcılarının hazırlayacakları uzmanlık tezlerini,
+k) Uzman: Çalışma uzmanını,
+l) Uzman yardımcısı: Çalışma uzman yardımcısını,
+m) YDS/e-YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavını/Elektronik Yabancı Dil Bilgisi Seviye Tespit Sınavını,
+n) Yeterlik sınavı: Çalışma uzman yardımcılarının uzmanlığa atanabilmek için gireceği sınavı,
+ifade eder.

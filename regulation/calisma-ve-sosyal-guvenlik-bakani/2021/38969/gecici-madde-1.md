@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce çalışma uzman yardımcısı kadrolarında bulunanların yeterlik sınavları, uzmanlığa atanmaları ile diğer iş ve işlemleri, ilgisine göre 27 nci madde ile yürürlükten kaldırılan Çalışma ve Sosyal Güvenlik Bakanlığında İstihdam Edilen Uzman ve Uzman Yardımcılığı Yönetmeliği ve Devlet Personel Uzmanlığı Yönetmeliği hükümlerine göre yapılır.

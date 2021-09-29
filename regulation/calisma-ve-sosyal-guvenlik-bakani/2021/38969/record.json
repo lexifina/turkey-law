@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38969",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇALIŞMA UZMANLIĞI YÖNETMELİĞİ",
+  "number": "38969",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2021/38969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38969&MevzuatTertip=5",
+  "source_sha256": "e71f6b6ef4194c734830aacd8e6f5aa32c91578fc8f0085f9d92c6632a40ffd4",
+  "source_bytes": 124189,
+  "published": "2021-09-29",
+  "gazette": "31613",
+  "in_force": "2021-09-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.09.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3435,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
