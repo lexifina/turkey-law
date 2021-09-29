@@ -1,0 +1,24 @@
+{
+  "number": "132",
+  "number_as_published": "2021/08/132",
+  "year": 2021,
+  "title": "Planlama ve Yapım Şube Müdürlüğü’nün Pamukkale ilçesi Kınıklı Mahallesi 6001 Sokağın dar olması sebebi ile tek yön yapılması talebi.",
+  "decision_date": "2021-09-29",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=09.2021",
+  "official_document": null,
+  "source_sha256": "383adec42658317ba13fb281cd0414db18ceb338700199dc3cbb69ff9b545425",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2021-09-29",
+  "in_force_basis": "Decision date as printed in the official council listing: 29.09.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "08",
+  "listed_subjects": 1
+}
