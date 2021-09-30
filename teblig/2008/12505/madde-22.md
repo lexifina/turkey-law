@@ -1,0 +1,4 @@
+Kanuni temsilciler, vekiller ve yabancı uyrukluların tahsis başvuruları
+MADDE 22 – (1) Kanunun öngördüğü yardım veya tahsisin yapılabilmesi için; sigortalı ve hak sahiplerinden reşit ve ergin olmayanların kanuni temsilcilerinin yazılı istekte bulunmaları şarttır.
+(2) Sigortalı veya hak sahiplerinin vekilleri tarafından yapılacak yazılı taleplerde, Kurumca verilecek ödenekler ile bağlanacak aylıklar için başvurma yetkisi bulunduğunu açıkça belirten ve noterlikçe onaylanmış vekaletnamenin ibraz edilmesi gerekir.
+(3) Yabancı uyruklu sigortalılarla, bunların hak sahipleri için, bunların hüviyetlerini gösteren 25/4/2006 tarihli ve 5490 sayılı Nüfus Hizmetleri Kanununa göre yetkili makamlar tarafından düzenlenerek verilen yabancılara ait ikamet tezkeresi, Kuruma ibraz edilir. Hak sahibi yabancılar, hak sahibi olduklarını Kurumca istenecek belgelerle ispatlar.
