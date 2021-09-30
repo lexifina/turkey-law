@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35675",
+  "decision_date": "2021-09-30",
+  "source_id": 34716,
+  "chamber": "2",
+  "ilam_number": "429",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34716/",
+  "source_sha256": "e3de81b48deefe96ff22c64faaf9368f1484bc263a053986501ee498431dd17b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
