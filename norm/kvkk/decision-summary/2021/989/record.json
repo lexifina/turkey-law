@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/989",
+  "source_id": 7143,
+  "date": "2021-09-30",
+  "title": "“İlgili kişiye ait görselin, açık rızası alınmaksızın bir internet sitesinde yer alan haber içeriğinde kullanılması” hakkında Kişisel Verileri Koruma Kurulunun 30/09/2021 tarihli 2021/989 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7143/2021-989",
+  "source_sha256": "68771f76a508612c71afe8a67b62637a19301583150c6984d34b6bc932bf44cd",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
