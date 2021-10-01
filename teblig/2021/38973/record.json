@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38973",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İSVİÇRE KONFEDERASYONU VEYA LİHTENŞTAYN PRENSLİĞİ MENŞELİ BAZI ÜRÜNLERİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "38973",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38973",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38973&MevzuatTertip=5",
+  "source_sha256": "852a7856207d55b5e8ba91e302f43b1d0b2d81d65dfbb40708d215f1db41f292",
+  "source_bytes": 34168,
+  "published": "2021-10-01",
+  "gazette": "31615",
+  "in_force": "2021-10-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.10.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1860,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38973-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
