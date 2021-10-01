@@ -1,0 +1,1 @@
+MADDE 19 – (1) (Değişik ibare:RG-1/10/2021-31615) Otuz iş günü veya daha kısa süren işlerde, işyerinin veya yapılacak işin mahiyeti itibarıyla çalışanları doğrudan etkilemesi muhtemel acil durumlar için bu Yönetmelik kapsamında yapılan özel görevlendirmeler işverence yapılır ve çalışanlar özel görevi bulunanlar ve acil durumlar ile ilgili bilgilendirilir.

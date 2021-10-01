@@ -1,0 +1,2 @@
+Acil durum planı rehberleri
+MADDE 20 – (1) Kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları, işçi-işveren ve memur sendikaları ile kamu yararına çalışan sivil toplum kuruluşlarının faaliyet gösterdikleri sektörde hazırladıkları rehber taslaklarından, Bakanlıkça bu Yönetmelik hükümlerine uygunluğu yönünden değerlendirilerek onaylanan taslaklar, Bakanlık tarafından sektör, meslek veya yapılan işlere özgü acil durum planı rehberleri olarak yayımlanır.

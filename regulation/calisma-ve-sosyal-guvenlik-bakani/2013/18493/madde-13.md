@@ -1,0 +1,5 @@
+Tatbikat
+MADDE 13 – (1) (Değişik:RG-1/10/2021-31615) Hazırlanan acil durum planının uygulama adımlarının düzenli olarak takip edilebilmesi ve uygulanabilirliğinden emin olunması için işyerlerinde, ikinci fıkrada belirtilen süreleri aşmamak kaydıyla belirlenen periyotlarla tatbikat yapılır, denetlenir ve gözden geçirilerek gerekli düzeltici ve önleyici tedbirler alınır. Gerçekleştirilen tatbikatın tarihi, görülen eksiklikler ve bu eksiklikler doğrultusunda yapılacak düzenlemeleri içeren tatbikat formu hazırlanır. Tatbikat formu hazırlanırken kullanılabilecek örnek form Ek-2’de yer almaktadır.
+(2) (Ek:RG-1/10/2021-31615)(1) Tatbikat 19/9/2013 tarihli ve 28770 sayılı Resmî Gazete’de yayımlanan Maden İşyerlerinde İş Sağlığı ve Güvenliği Yönetmeliği kapsamındaki işyerleri için anılan Yönetmelik hükümlerine göre, diğer işyerleri için en geç yılda bir yapılır.
+(3) Gerçekleştirilen tatbikat neticesinde varsa aksayan yönler ve kazanılan deneyimlere göre acil durum planları gözden geçirilerek gerekli düzeltmeler yapılır.
+(4) Birden fazla işyerinin bulunduğu iş merkezleri, iş hanlarındaki işyerlerinde tatbikatlar yönetimin koordinasyonu ile yürütülür.
