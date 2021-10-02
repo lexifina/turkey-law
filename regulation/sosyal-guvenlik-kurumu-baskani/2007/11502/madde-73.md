@@ -1,0 +1,2 @@
+Genel durum raporu
+MADDE 73 – (1) Genel Durum Raporu; Kurum merkez ve taşra birimlerinin iş, işlem ve süreçlerinin mevzuata uygunluğu ile yönetsel performans ve kaynakların etkin kullanımının ortaya çıkarılmasına, bunlara dayalı çözüm ve öneriler geliştirilmesine yönelik olarak belirli zaman aralıklarıyla Yıllık Çalışma Plan ve Programı çerçevesinde yapılan çalışmaların sonucundan, özet olarak Başkana bilgi vermek amacıyla düzenlenir.

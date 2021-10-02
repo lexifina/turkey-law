@@ -1,0 +1,2 @@
+Müfettişliğe atanma
+MADDE 46 – (1) Yeterlik sınavlarında başarılı olanlar, İngilizce, Fransızca ve Almanca dillerinden birinde Kamu Personeli Yabancı Dil Bilgisi Seviye Tespit Sınavından (Değişik:RG-3/4/2012-28253) en az (C) düzeyinde puan aldıklarını gösterir belgenin aslını veya bilgisayar çıktısını ibraz etmeleri hâlinde, başarı sırasına göre müfettiş kadrolarına atanırlar. Notlarda eşitlik halinde yetişme notu esas alınır.

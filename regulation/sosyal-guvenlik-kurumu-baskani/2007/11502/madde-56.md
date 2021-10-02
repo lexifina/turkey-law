@@ -1,0 +1,2 @@
+Yıllık Çalışma Plan ve Programının ve diğer görevlendirmelerin uygulanması
+MADDE 56 – (1) Rehberlik ve Teftiş Başkanlığınca hazırlanan ve Başkanın onayından geçen Yıllık Çalışma Plan ve Programı kapsamında teftiş çalışmaları, programdaki esaslara göre uygulanır. Program harici diğer görevlendirmeler ile Başkan Onayını gerektirmeyen diğer denetim faaliyetleri ve Müfettişlerin turne süreleri Rehberlik ve Teftiş Başkanlığınca belirlenen Rehberlik ve Teftiş Başkanlığı Çalışma Usul ve Esaslarına göre yürütülür.

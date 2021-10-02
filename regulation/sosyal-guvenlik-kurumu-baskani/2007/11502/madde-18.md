@@ -1,0 +1,4 @@
+Müfettiş yardımcılığı giriş sınav kurulu
+MADDE 18 – (1) Müfettiş yardımcılığı giriş sınav kurulu, Rehberlik ve Teftiş Başkanının başkanlığında, Rehberlik ve Teftiş Başkanının önerisi ve Başkanın onayı ile görevlendirilecek dört müfettişten oluşur. Ayrıca, aynı usulle dört yedek üye tespit edilir.
+(2) Tıp, mühendislik ve eczacılık fakültelerinden mezun olmak suretiyle özel kanunların öngördüğü; uzman tabip, tabip, diş hekimi, mühendis (elektronik, elektrik-elektronik, işletme, endüstri, yazılım ve bilgisayar), eczacı unvanını kazanmış adayların sınav sorularının hazırlanması ve mesleki bilgilerinin değerlendirilmesi için, gerektiğinde fakülte ve yüksek okulların anılan branşlarla ilgili öğretim üyelerinden yararlanılabilir.
+(3) Giriş sınavında yabancı dil bilgisinin değerlendirilmesi için gerektiğinde ilgili fakülte ve yüksek okulların öğretim üyelerinden yararlanılabilir.

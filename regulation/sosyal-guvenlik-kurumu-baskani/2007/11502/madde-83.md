@@ -1,0 +1,11 @@
+ONALTINCI BÖLÜM
+Teftişe ve Soruşturmaya Tabi Olanların Yükümlülükleri
+Teftişe ve soruşturmaya tabi olanların yükümlülükleri
+MADDE 83 – (1) Teftişe ve tahkike tabi olanların yükümlülükleri şunlardır:
+a) Kurum personeli, ayni, nakdi, menkul ve gayrimenkul her türlü varlıklarla, bunlarla ilgili belge ve defterleri, gizli de olsa bütün vesikaları, sözlü veya yazılı ilk talebinde müfettişe göstermek veya vermek, saymasına ve tetkik etmesine yardımda bulunmak zorundadır. Kurum teşkilatı; müfettişlerin görevlendirildikleri konularda, bilgi işlem sistemleri, raporlama araçları, internet, intranet ve benzeri ağlar ile veri tabanlarına erişimini sağlamak, elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgiler ve kayıtları, sözlü veya yazılı ilk talebinde müfettişe göstermek ve incelemesine sunmak zorundadır.
+b) Kurum personeli, müfettişin gerekli gördüğü evrak, kayıt ve belgelerin suretlerini veya asıllarını, elektronik, manyetik ve benzeri ortamdaki bilgiler ve kayıtların kopyalarını vermek zorundadır. Asılları alınan evrak ve belgelerin müfettişin mühür ve imzası ile tasdik edilmiş suretleri, dosyasında saklanmak üzere, evrak ve belgelerin alındığı ilgili birimlere verilir.
+c) Kurumun merkez ve taşra teşkilatındaki tüm birim yöneticileri, teftiş hizmetlerinin gereklerine uygun biçimde yürütülebilmesi için, müfettişlere görevleri süresince konumlarına uygun bir çalışma yeri sağlamak ve gerekli diğer tedbirleri almak zorundadırlar.
+ç) Teftiş veya tahkike tabi personele verilmiş olan izinlerin kullanılması, hastalık ve bunun gibi mücbir sebepler dışında, müfettişin isteği üzerine teftiş veya tahkik sonuna kadar durdurulur. İzinde olan görevliler de müfettişin isteği üzerine çağrılır.
+d) Kurumun merkez ve taşra teşkilatındaki birimlerin yöneticileri bir teftiş defteri ve dosyası tutmak, tüm teftiş raporlarını ve bunlar üzerine yapılan yazışmaları bu dosyada muhafaza etmek, görev değişimlerinde ilgililere zimmetle teslim etmek zorundadırlar.
+e) Kurum teşkilatı müfettişlere, görevlerinin ifası sırasında gereken her türlü kolaylığı göstermek ve yardımda bulunmak mecburiyetindedir.
+f) Tüm Kurum personeli, müfettişçe sorulan sözlü ve yazılı soruları geciktirmeden cevaplandırmakla yükümlüdür.

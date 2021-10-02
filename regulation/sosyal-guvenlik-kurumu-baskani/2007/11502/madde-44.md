@@ -1,0 +1,2 @@
+Yetişme notu
+MADDE 44 – (1) Yetişme notu; birinci dönem, ikinci dönem ve üçüncü dönem çalışma notları ile Rehberlik ve Teftiş Başkanı tarafından, müfettiş yardımcılarının nitelikleri, tutum ve davranışları, görev ve sorumluluk duyguları, mesleki bilgileri, çalışkanlıkları ve mesleki liyakatleri hakkında yanlarında çalıştıkları müfettişlerden talep edilen gizli yazılardaki görüşler de dikkate alınarak, 100 tam puan üzerinden verilecek notun ortalamasıdır. Yetişme notunun 70 puandan aşağı olmaması gerekir.

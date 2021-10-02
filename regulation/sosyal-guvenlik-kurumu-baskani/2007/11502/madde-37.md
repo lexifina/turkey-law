@@ -1,0 +1,3 @@
+Yetişmede bireysellik ilkesi
+MADDE 37 – (1) Müfettiş yardımcılarının bu Yönetmeliğin 36 ncı maddesindeki amaçlar yönünden yetiştirilmelerinde kişisel çaba ve çalışmaları esastır. Bu konuda, Rehberlik ve Teftiş Başkanlığı ile müfettişler tarafından yürütülen görevler; yardımcı, yönlendirici ve özendirici niteliktedir.
+(2) Müfettiş yardımcıları, Rehberlik ve Teftiş Başkanlığının uygun göreceği eğitim ve yetişme programına göre çalışmak, refakatine verildikleri müfettişlerin gösterecekleri işleri gerektiği biçimde yapmak, müfettişlik niteliğine ulaşabilmek için gerekli çabayı göstermekle yükümlüdürler.

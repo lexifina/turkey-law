@@ -1,0 +1,7 @@
+Cevaplı teftiş raporu
+MADDE 72 – (1) Cevaplı Teftiş Raporu; Kurumun merkez ve taşra teşkilatına ilişkin yapılan teftişlerde noksan ve hatalı bulunan, düzeltilmesi veya tamamlanması gereken işlemler hakkında, her ünite için ayrı ayrı tanzim edilen raporlardır.
+(2) Kendilerine cevaplı teftiş raporu gönderilen veya verilen ilgililer, tenkit olunan işlemleri usul ve mevzuat dairesinde düzeltmek ve cevaplarında bunu göstermekle görevlidirler.
+(3) Teftiş edilen birimlerin yetkilileri, tenkit maddelerinden bir kısmı veya tamamı hakkında müfettişten ayrı bir düşüncede bulundukları takdirde, dayandığı haklı ve kanuni sebepleri cevaplarında açık ve kısa bir şekilde belirtirler. Teftiş edilen birimin cevabı müfettişin son mütalaasında uygun görülmemesi halinde konu hakkında ilgili birimin nasıl hareket edeceği Rehberlik ve Teftiş Başkanının teklifi ve Başkanın Onayı ile belirlenir.
+(4) Bu esaslar dahilinde hazırlanan cevapların bir örneği müfettişlik görüşü ile birlikte teftiş dosyasında saklanır ve diğer örneği de bir yazı ekinde ilgili müfettişe verilir veya gönderilir.
+(5) Cevapların alt bölümü teftiş edilen ünitenin amiri ve ilgili servisin bağlı bulunduğu ikinci derece imza yetkilisi tarafından imzalanır.
+(6) Cevapların, ilgili ünitece, müfettiş tarafından yedi günden az olmamak üzere öngörülen sürede verilmesi, gecikerek gönderilmesi halinde, gecikme sebeplerinin açıklanması zorunludur.

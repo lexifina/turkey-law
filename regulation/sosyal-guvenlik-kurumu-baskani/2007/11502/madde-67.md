@@ -1,0 +1,2 @@
+İnceleme
+MADDE 67 – (1) Başkan veya Rehberlik ve Teftiş Başkanı tarafından istenilen konular ile kanun, tüzük, yönetmelik ve diğer mevzuatın uygulanmasında görülen noksanlık ve aksaklıklar, şikayet ve ihbarlar üzerine yapılan çalışmalar sonucunda soruşturma açılmasına gerek görülmeyen durumlar, sigorta olayları ve işyeri denetimleri hakkında veya doğrudan müfettişçe belirlenen diğer konularda inceleme yapılır.

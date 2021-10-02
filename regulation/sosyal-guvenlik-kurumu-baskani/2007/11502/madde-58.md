@@ -1,0 +1,2 @@
+Yıllık Çalışma Plan ve Programına ara verilmesi
+MADDE 58 – (1) Yıllık Çalışma Plan ve Programının ara verilmeden tamamlanması asıl olmakla birlikte, merkezlerde işlerin yoğun olması veya aciliyeti gerektiren başka konuların ortaya çıkması durumunda, Yıllık Çalışma Plan ve Programına zorunlu olarak ara verilebilir. Rehberlik ve Teftiş Başkanı, programın tamamlanması için başka müfettişler görevlendirebilir veya aynı çalışma grubundaki diğer müfettişlerden işin tamamlanmasını isteyebilir.

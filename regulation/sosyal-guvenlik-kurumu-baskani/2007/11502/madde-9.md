@@ -1,0 +1,23 @@
+Rehberlik ve Teftiş Başkanının görev, yetki ve sorumlulukları
+MADDE 9 – (1) Rehberlik ve Teftiş Başkanı, müfettiş sıfat ve yetkisini haiz olup, Başkan adına aşağıdaki görevleri yapar:
+a) Bu Yönetmeliğin 7 nci maddesinde belirtilen görevlerin yürütülmesini sağlamak,
+b) Rehberlik ve Teftiş Başkanlığını yönetmek, müfettiş ve müfettiş yardımcıları ile şube müdürlüğü personelinin çalışmalarını düzenlemek ve denetlemek,
+c) Gerektiğinde bizzat teftiş, inceleme, ön inceleme ve soruşturma yapmak,
+ç) Yıllık Çalışma Plan ve Programı hazırlayarak en geç ilgili olduğu yılın başında yürürlüğe girecek şekilde Başkanın onayına sunmak, onaylanmış programların uygulanmasını ve gerektiğinde değiştirilmesini sağlamak,
+d) Müfettiş ve müfettiş yardımcılarını, teftiş, inceleme, araştırma ve soruşturma işlerinde görevlendirmek ve uygulanmasını takip etmek,
+e) Müfettişlerden gelen raporları incelemek, eksikliklerin giderilmesini sağlamak, ilgili mercilere göndermek, ilgililerce alınacak tedbirleri ve yapılacak işlemlerin sonuçlarını takip etmek, alınması gereken tedbirlerle ilgili tekliflerde bulunmak, müfettiş raporlarının sonuçları hakkında ilgili müfettişlere bilgi verilmesini sağlamak,
+f) Müfettiş yardımcılarının işe alınması ve müfettiş yardımcılığı döneminde yetişmelerini sağlayıcı tedbirler almak,
+g) Müfettiş yardımcılığı giriş sınavı ile yetki ve yeterlik sınavlarının yapılmasını ve yürütülmesini sağlamak,
+ğ) Kanun, tüzük ve yönetmelik hükümlerine göre müfettişlerin, müfettiş yardımcılarının ve şube müdürlüğü personelinin atanma, ilerleme ve yükselmeleri ile ilgili olarak Başkana teklifte bulunmak, müfettiş ve müfettiş yardımcılarının atanmaları ve terfileri ile ilgili gereken kadro tahsis işlemlerinin zamanında yapılmasının sağlanması için gerekli çalışmaları yapmak,
+h) Müfettiş ve müfettiş yardımcılarının mesleki ve bilimsel çalışmalarını teşvik etmek ve düzenlemek, gerekirse bu çalışmaların yayımlanmasını sağlamak,
+ı) Uygulamada, müfettişler arasında mevzuatın farklı yorumlandığı hallerde, bu farklılığın giderilmesi için görüş ve uygulama birliğini sağlamak,
+i) Görev alanına giren konularda, uygulamalarda ortaya çıkan mevzuat yetersizliği ve aksaklıklarla ilgili hususlarda inceleme ve araştırma yaptırarak, alınması gereken yasal ve idari tedbirler konusunda Başkana teklifte bulunmak,
+j) Rehberlik ve Teftiş Başkanlığının tüm faaliyet alanına ilişkin uygulama birliğinin sağlanmasına yönelik rehber ve talimatların hazırlanmasını ve uygulanmasını sağlamak,
+k) Müfettiş ve müfettiş yardımcılarının çalışmalarını, iş verimlerini, görevine olan ilgilerini ve meslek gereğine göre hareket edip etmediklerini izlemek, gerekli gördüğü zamanlarda bu çalışmaları yerinde denetlemek,
+l) Müfettiş ve müfettiş yardımcılarının hak ediş ve idari hususlara ilişkin işlemlerini yürütmek,
+m) Müfettiş ve müfettiş yardımcılarının bilgi, görgü ve yeteneklerinin arttırılmasını, teftiş, inceleme ve soruşturma metotlarının geliştirilmesini, modern yönetim ve organizasyon teknikleri ile ilgili yeni uygulama ve hizmetlerin tanıtılması amacıyla kurs, seminer, konferans, yabancı ülkelerde inceleme ve araştırma şeklinde eğitim programlarının düzenlenmesini ve uygulanmasını sağlamak, yurt içi ve yurt dışında yan dal ihtisası veya sertifika programına katılacakları bu Yönetmelikte belirtilen esaslar çerçevesinde belirlemek,
+n) Müfettiş ve müfettiş yardımcılarına yönelik meslek içi eğitim programları düzenlemek, işçi, işveren ve sivil toplum kuruluşlarının bilgilendirilmesi amacıyla faaliyetler düzenlemek ve bu işlerde görevlendirilecek müfettişleri belirlemek,
+o) Müfettişler tarafından düzenlenen raporların sonuçlarına göre sosyal güvenlik mevzuatının düzenlenmesi, işveren ve sigortalı ilişkilerinin iyileştirilmesi, sosyal güvenliğin yaygınlaştırılması, iş kazası ve meslek hastalıklarının önlenmesi ve azaltılması, uygulamadaki aksaklıkların giderilmesi konularında Başkana önerilerde bulunmak,
+ö) Grup başkanlıklarında, grup başkanını Başkanın onayına sunmak, grup başkan yardımcılarını görevlendirmek,
+p) Gruplarda görev yapacak müfettiş ve müfettiş yardımcılarını belirleyerek Başkanın onayına sunmak,
+r) Kanun, tüzük, yönetmelikler çerçevesinde Başkan tarafından rehberlik ve teftiş hizmetleri ile ilgili olarak verilen benzer görevleri yapmak.

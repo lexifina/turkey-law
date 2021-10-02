@@ -1,0 +1,2 @@
+Yazılı sınav sonuçlarının duyurulması
+MADDE 30 – (1) Yazılı sınavı kazananları, başarı sırasını ve sözlü sınavın yerini, gününü ve saatini gösterir liste, Kurum Başkanlık binası ve uygun görülecek diğer yerlerde asılmak suretiyle ve Kurumun internet sitesinde ilan olunur. Sözlü sınava gireceklerin aday başvuru formunda belirttikleri adreslerine taahhütlü mektup ile sınavın yeri, günü ve saati bildirilir.

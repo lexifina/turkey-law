@@ -1,0 +1,12 @@
+Müfettiş yardımcılarını yetiştirme programı
+MADDE 38 – (1) Müfettiş yardımcıları, 3 yıllık yardımcılık döneminde aşağıdaki programa göre yetiştirilirler.
+(2) Birinci dönem çalışmaları:
+a) Sosyal güvenliğin tarihçesi, Sosyal Güvenlik Kurumunun görevleri ve organizasyon yapısının tanıtımı ile başlar ve Rehberlik ve Teftiş Başkanlığınca; teftiş, denetim, inceleme, ön inceleme ve soruşturma ile ilgili yürürlükteki mevzuatın, Kurum işlem ve faaliyetlerinin öğretilmesi ve yabancı dil bilgilerinin geliştirilmesi amacıyla altı ay süreyle teorik eğitim düzenlenir. Bu eğitim sürecinde, eğiticiler tarafından sınav yapılır. Bu sınavlar sonucunda 100 tam puan üzerinden alınan notların ortalaması, birinci dönem çalışma notu sayılır.
+(3) İkinci dönem çalışmaları:
+a) Müfettişlerin refakatinde görevlendirilmek suretiyle teftiş, inceleme, ön inceleme ve soruşturma usul ve esaslarını öğrenmelerini sağlayacak şekilde düzenlenir.
+b) Müfettiş yardımcıları refakatinde bulundukları müfettişin denetimi ve gözetimi altındadırlar. Kendilerine verilen görevleri müfettişin talimatına göre yerine getirirler. Tek başlarına inceleme, teftiş ve soruşturma yapamazlar, rapor düzenleyemezler.
+c) Müfettiş yardımcılarının yetiştirilmesi için Rehberlik ve Teftiş Başkanlığınca, mevzuat ve uygulamanın, teftiş, inceleme, ön inceleme ve soruşturma usul ve esaslarının öğrenilmesini sağlayacak şekilde bir çalışma programı hazırlanır ve uygulanır. Müfettiş yardımcılarının çalışmaları, refakatinde bulundukları müfettişler tarafından en iyi şekilde yetişmelerini sağlayacak tarzda düzenlenir.
+ç) Zaruri haller hariç, müfettiş yardımcıları üç yıllık yetiştirme dönemi içerisinde aynı müfettişin refakatinde 6 aydan fazla kalamaz. Müfettiş yardımcılarına, refakatinde bulundukları müfettişler tarafından 100 tam puan üzerinden notlar verilir. Bu notların ortalaması ikinci dönem çalışma notu sayılır.
+(4) Üçüncü dönem çalışmaları:
+a) Birinci ve ikinci dönem çalışmalarını tamamlayan müfettiş yardımcıları görevlerini yapmalarının yanı sıra, Rehberlik ve Teftiş Başkanlığınca belirlenen ve Kurumun görev alanına giren ana hizmet konularında bir tez hazırlayarak yeterlik sınavından iki ay önce Rehberlik ve Teftiş Başkanlığına verirler. Bu tezler sınav kurulu tarafından değerlendirilerek 100 tam puan üzerinden not verilir, bu not üçüncü dönem çalışma notu sayılır.
+(5) Tez konuları belirlenirken müfettiş yardımcılarının önerileri de dikkate alınır.

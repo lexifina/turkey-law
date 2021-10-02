@@ -1,0 +1,2 @@
+Soruşturma raporu
+MADDE 76 – (1) Soruşturma Raporları; Kurumun merkez ve taşra birimlerinde görevli bütün personel ile suça iştirak eden ve suç işleyen diğer şahısların, kanun, tüzük, yönetmelik ve diğer mevzuata aykırı cezai ve hukuki sorumluluklarını gerektirecek nitelikte olan, adli suç veya disiplin suçu ya da kusurlu sayılacak eylem ve davranışları hakkında yapılan soruşturmalar sonucunda düzenlenen raporlardır.

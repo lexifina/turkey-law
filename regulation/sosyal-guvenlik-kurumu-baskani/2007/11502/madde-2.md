@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Sosyal Güvenlik Kurumu Rehberlik ve Teftiş Başkanlığının kuruluş, görev ve yetkileri ile Rehberlik ve Teftiş Başkanının, Sosyal Güvenlik Kurumu Müfettişlerinin, Müfettiş Yardımcılarının ve Rehberlik ve Teftiş Başkanlığı Şube Müdürlüğünün görev, yetki ve sorumluluklarını, teftiş edilenlerin sorumluluklarını, Rehberlik ve Teftiş Başkanı ile Sosyal Güvenlik Kurumu Müfettiş ve Müfettiş Yardımcılarının seçilme ve atanmaları, özlük hakları, Rehberlik ve Teftiş Başkanlığı ile müfettiş ve müfettiş yardımcılarının çalışma usul ve esaslarını kapsar.

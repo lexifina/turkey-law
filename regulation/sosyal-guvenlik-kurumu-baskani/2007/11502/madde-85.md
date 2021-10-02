@@ -1,0 +1,6 @@
+Görevden uzaklaştırmada usul
+MADDE 85 – (1) Herhangi bir personelin görevden uzaklaştırılması sebebiyle işlerin aksamaması için gereken tedbirler ünite amirince alınır. Görevden uzaklaştırma keyfiyeti, müfettiş tarafından gerekçesi ile birlikte görevden uzaklaştırılana, ünite amirine, Rehberlik ve Teftiş Başkanlığına, Başkana ve gerek görülüyorsa diğer ilgililere yazı ile hemen bildirilir.
+(2) Görevden uzaklaştırıldığı halde işini devretmeyip, görevi başında kalmakta ısrar ettiği tutanakla belgelenen personel hakkında, 5237 sayılı Türk Ceza Kanununun 262 nci maddesi gereğince takibat yapılması için müfettiş tarafından derhal, o yerin Cumhuriyet Savcılığına müracaat edilir ve düzenlenen tutanak da bu yazıya eklenir.
+(3) Görevden uzaklaştırmanın gereği olan hususların temininde aczi veya ihmali görülen amirler hakkında da müfettiş tarafından ayrıca soruşturma yapılır. Görevden uzaklaştırılması gereken personel hakkında işledikleri suçların türü ve mahiyetine göre kanuni esaslar dâhilinde takibat yapılır.
+(4) Görevden uzaklaştırılan personele ilişkin soruşturma ile merkezdeki ünitelerce bu soruşturmaya ait rapor üzerinde yapılacak işlemin, diğer işlerden öncelikle tamamlanması ve sonuçlandırılması zorunludur.
+(5) Görevden uzaklaştırma tedbirinin kaldırılmasını gerektiren hallerde, durum müfettişçe derhal Rehberlik ve Teftiş Başkanlığına bildirilir.

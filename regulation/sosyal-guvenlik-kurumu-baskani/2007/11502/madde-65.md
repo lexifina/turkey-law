@@ -1,0 +1,2 @@
+Yabancı dil eğitimi
+MADDE 65 – (1) Müfettiş ve müfettiş yardımcılarının; müfettişliğe atanabilmek için gerekli olan KPDS belgesinin alınabilmesi, uluslararası toplantılara katılma, sosyal güvenlik alanında yabancı yayınları izleme ve inceleme olanağına kavuşabilmelerini sağlamak amacıyla, yabancı dil öğrenimi için dil kurslarından yararlanmaları halinde, eğitim masrafları genel hükümlere göre Kurum tarafından karşılanır. Yabancı dil kurslarına katılacak olanların tespitine ilişkin usul ve esaslar Rehberlik ve Teftiş Başkanlığının teklifi ve Başkanın Onayı ile belirlenir.
