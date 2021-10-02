@@ -1,0 +1,6 @@
+İKİNCİ BÖLÜM
+Konseyin Oluşumu ile Görev ve Yetkiler
+Konseyin oluşumu
+MADDE 5- (1) (Değişik:RG-2/10/2021-31616-CK-4584/2 md.) Konsey; Başkanın başkanlığında, bakanlıklar ile Yükseköğretim Kurulu, Strateji ve Bütçe Başkanlığı, Türkiye Cumhuriyet Merkez Bankası, Bankacılık Düzenleme ve Denetleme Kurumu, Sosyal Güvenlik Kurumu, Gelir İdaresi Başkanlığı ve Kişisel Verileri Koruma Kurumunu temsilen en az başkan yardımcısı veya genel müdür düzeyindeki birer üye ile Türkiye Odalar ve Borsalar Birliği, Türkiye Serbest Muhasebeci Mali Müşavirler ve Yeminli Mali Müşavirler Odaları Birliği, Vergi Konseyi, Türkiye Gazeteciler Cemiyeti, istatistik alanında faaliyet gösteren ve en fazla öğretim elemanı üyeye sahip sivil toplum kuruluşu, istatistiki sonuçlar içeren araştırma faaliyetleri yürüten gerçek kişiler veya özel hukuk tüzel kişilerinin üye olduğu en fazla üyeye sahip sivil toplum kuruluşunu temsile yetkili birer üyeden oluşur.
+(2) (Değişik:RG-2/10/2021-31616-CK-4584/2 md.) Kurumun Başkan yardımcıları Konseyin doğal üyesidir.
+(3) Konseyin görüşeceği konuların özelliklerinin gerektirmesi halinde Konsey Başkanı, diğer kurum ve kuruluşlar ile sivil toplum kuruluşlarının temsilcilerini oy hakkı olmaksızın Konsey toplantılarına çağırabilir.

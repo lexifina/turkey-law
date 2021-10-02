@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-3709",
+  "number": "3709",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İSTATİSTİK KONSEYİ YÖNETMELİĞİ",
+  "published": "2021-03-20",
+  "enacted": "2021-03-19",
+  "gazette_number": "31429",
+  "in_force": "2021-10-02",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 2/10/2021; source row: 1/10/2021 | 4584 | 4, 5 | 2/10/2021 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=3709&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "499b92842c3673bd5de471dbdae49388a1a885ee8c530fb57d1774e66ab98424",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
