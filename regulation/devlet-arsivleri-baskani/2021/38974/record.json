@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.38974",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARŞİVLERDEN YARARLANMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "38974",
+  "issuer": "Devlet Arşivleri Başkanı",
+  "issuer_slug": "devlet-arsivleri-baskani",
+  "path": "regulation/devlet-arsivleri-baskani/2021/38974",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38974&MevzuatTertip=5",
+  "source_sha256": "d6da4a3c38c13217ae8c1808406a53a5f8371c579a946f90ed58eb1ff68ad79d",
+  "source_bytes": 26901,
+  "published": "2021-10-02",
+  "gazette": "31616",
+  "in_force": "2021-10-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.10.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1132,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
