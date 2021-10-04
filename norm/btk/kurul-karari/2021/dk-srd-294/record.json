@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SRD/294",
+  "source_id": "2021/DK-SRD/294",
+  "date": "2021-09-20",
+  "title": "Haberleşme Gönderilerine İlişkin Temel Ücret",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/dca78d30-5d03-4529-9acf-c1cd2cdcb55b.pdf",
+  "source_sha256": "acc494af4c75a6ee93e643beea43ef6b7ecd43e2eae75b9397085a8b79753c48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
