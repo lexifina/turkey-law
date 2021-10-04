@@ -1,0 +1,3 @@
+Tebligat
+MADDE 34 – (1) Öğrenciye her türlü tebligat, öğrencinin resmi kayıtlarda yer alan ikamet adresine veya öğrenciye Üniversite tarafından sağlanan e-posta adresine gönderilerek yapılır. Öğrenci, Üniversiteye kayıt sırasında bildirdiği adresi değiştirdiği takdirde yeni adresini öğrenci bilgi sistemi üzerinden güncellemek zorundadır. Üniversiteye kaydolurken bildirdikleri adresleri değiştirdikleri halde, bunu Üniversiteye bildirmemiş, yanlış ya da eksik bildirmiş olan öğrencilerin, öğrenci bilgi sisteminde kayıtlı adreslerine bildirimin yapılması halinde, kendilerine bildirim yapılmış sayılır.
+(2) Öğrenciler, Üniversite tarafından verilen resmi e-posta adresini aktif durumda tutmak, sürekli e-postalarını takip etmek ve gönderilen iletileri izlemekle yükümlüdür.

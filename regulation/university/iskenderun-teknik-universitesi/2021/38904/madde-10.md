@@ -1,0 +1,2 @@
+Yatay geçişler
+MADDE 10 – (1) Yatay geçiş başvuruları, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile diğer ilgili mevzuat ve İskenderun Teknik Üniversitesi Muafiyet ve İntibak İşlemleri Yönergesi hükümlerine göre yapılır.

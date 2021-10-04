@@ -1,0 +1,2 @@
+İzinli sayılma
+MADDE 28 – (1) Öğrencinin, haklı ve geçerli bir nedenle kayıt yaptıramaması, 27 nci maddede belirtilen haklı nedenleri ve sorunları bulunması veya öğrenimlerine katkıda bulunacak Üniversite dışı burs, staj ve araştırma gibi imkânların doğması durumunda, ilgili birimin yönetim kurulu kararı ile öğrencilere kanuni zorunluluk halleri dışında en çok iki yarıyıla kadar izin verilebilir. Bu tür izin süreleri, azami öğretim süresine eklenir. Ancak, bu tür izinler ile ilgili başvuruların, eğitim-öğretim yarıyılının en geç ilk dört haftası içinde yapılması gerekir.

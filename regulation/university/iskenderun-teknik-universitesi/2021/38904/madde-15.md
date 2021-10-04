@@ -1,0 +1,2 @@
+Yan dal programı
+MADDE 15 – (1) Yan dal programı; bir diploma programına kayıtlı öğrencinin öngörülen şartları taşıması koşuluyla, aynı yükseköğretim kurumu içinde başka bir diploma programı kapsamında belirli bir konuya yönelik sınırlı sayıda dersi almak suretiyle, diploma yerine geçmeyen yan dal sertifikası alabilmelerini sağlar. Yan dal ile ilgili hususlar İskenderun Teknik Üniversitesi Çift Ana Dal ve Yan Dal Yönergesi hükümlerine göre belirlenir.

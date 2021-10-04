@@ -1,0 +1,2 @@
+Meslek yüksekokullarına intibak
+MADDE 32 – (1) Lisans öğrenimlerini tamamlayamayanların ön lisans diploması almaları veya meslek yüksekokullarına intibak ettirilmeleri; 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre yapılır.

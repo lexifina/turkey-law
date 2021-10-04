@@ -1,0 +1,3 @@
+Öğrenci değişimi
+MADDE 12 – (1) Karşılıklı anlaşmalar çerçevesinde yurt içi veya yurt dışı yükseköğretim kurumları ve Üniversite arasında Farabi, Erasmus, Mevlana ve benzeri değişim programları düzenlenebilir. Bu programlara ilişkin esaslar İskenderun Teknik Üniversitesi Öğrenci Değişim Programları Yönergesi hükümlerine göre yapılır.
+(2) Diğer yükseköğretim kurumları ile öğrenci değişimi programları çerçevesinde gönderilen öğrencilerin ilgili öğretim kurumundan aldıkları derslerden başarılı olmaları halinde; söz konusu veya eşdeğer sayılan derslerden aldıkları notlar, İskenderun Teknik Üniversitesi Muafiyet ve İntibak İşlemleri Yönergesi kapsamında ilgili kurullarda değerlendirilerek öğrenci otomasyon sistemine işlenir.

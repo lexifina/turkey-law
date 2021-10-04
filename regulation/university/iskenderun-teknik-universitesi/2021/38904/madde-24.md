@@ -1,0 +1,3 @@
+Devam mecburiyeti
+MADDE 24 – (1) Öğrenciler derslere, uygulamalara, sınavlara ve öğretim elemanının gerekli gördüğü diğer çalışmalara katılmak zorundadır. Öğrencilerin derse devam durumları dersi veren öğretim elemanı tarafından izlenir. Öğrencilerin teorik derslere en az %70, uygulamalara ise en az %80 oranında devam etmesi zorunludur. Uygulamalı derslerde başarısız olma durumunda ise ders tekrarında devam şartı, ilgili bölüm/programın teklifi, birim yönetim kurulunun onayı ile aranabilir. Ancak sadece teorik olan bir dersin devam şartını bir kez yerine getiren, fakat sınavlarında başarılı olamayan öğrencilerin bu dersi tekrarında devam şartı aranmaz.
+(2) Sağlık raporu olan öğrencilerin raporlu olarak geçirdiği süre, devamsızlık olarak kabul edilir.

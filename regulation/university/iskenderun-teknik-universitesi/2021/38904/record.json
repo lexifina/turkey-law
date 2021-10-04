@@ -1,0 +1,35 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2021/38904",
+  "availability": "text",
+  "calendar_date_basis": "Start of the undergraduate autumn teaching semester in the official academic-year calendar",
+  "calendar_date_quote": "Dönem Başlama ve Bitiş Tarihleri 04.10.2021-11.01.2022",
+  "calendar_source": "https://iste.edu.tr/files/76_files_1757618862.pdf",
+  "calendar_source_sha256": "6d3ca25965d1f5ec79f77aff5d5eb8979fb9fbe58241242c6ee07778a2c5297a",
+  "checked_on": "2026-11-15",
+  "commencement_clauses": [
+    "MADDE 37 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başında yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 37 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başında yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31589",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-04",
+  "in_force_basis": "Own commencement article: \"MADDE 37 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başında yürürlüğe girer.\"; academic-year start identified by official undergraduate autumn calendar: \"Dönem Başlama ve Bitiş Tarihleri 04.10.2021-11.01.2022\" (https://iste.edu.tr/files/76_files_1757618862.pdf)",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2021-09-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38904&MevzuatTertip=5",
+  "source_id": "8.5.38904",
+  "source_sha256": "85eef41309e1795e65b6e2f59e58ac60e9c417a1e739f5c008cb4021a30cad0f",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ ÖN LİSANS VE LİSANS EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 3671
+}

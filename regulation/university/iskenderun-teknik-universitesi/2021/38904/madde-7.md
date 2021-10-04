@@ -1,0 +1,4 @@
+Eğitim-öğretim dönemleri ve programları
+MADDE 7 – (1) Bir öğretim yılı, normal olarak her biri en az yetmiş öğretim gününden oluşan güz ve bahar yarıyıllarından oluşur. Ara sınav ve yarıyıl sonu sınavı günleri bu sürenin dışındadır. Gerekli görüldüğü takdirde Senato kararıyla dönem süreleri uzatılabilir.
+(2) İlgili birim kurulları, YÖK tarafından tespit edilen esaslara göre düzenleyecekleri bir sonraki yıla ait eğitim-öğretim programlarını, her yıl en geç bahar yarıyılı sonuna kadar Senatoya sunarlar. Akademik takvim Öğrenci İşleri Daire Başkanlığı tarafından hazırlanarak Senatoya sunulur. Birimler için ihtiyaca dönük olarak değişik akademik takvimler hazırlanabilir. Senato tarafından karara bağlanan akademik takvim, yeni eğitim-öğretim yılı başlamadan en geç bir ay önce ilan edilir.
+(3) Dersler, haftalık ders programında yer alması koşuluyla hafta sonu da yapılabilir.

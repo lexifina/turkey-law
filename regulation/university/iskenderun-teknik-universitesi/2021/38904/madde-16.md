@@ -1,0 +1,2 @@
+Çift ana dal programı
+MADDE 16 – (1) Çift ana dal programı; herhangi bir lisans programına kayıtlı olan ve gerekli koşulları sağlayan öğrencilere, konu bakımından kendi lisans programlarına yakın olan bir başka lisans programını birlikte yürüterek, ikinci bir lisans diploması almalarını sağlar. Çift ana dal ile ilgili hususlar İskenderun Teknik Üniversitesi Çift Ana Dal ve Yan Dal Yönergesi hükümlerine göre belirlenir.
