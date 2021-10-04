@@ -1,0 +1,4 @@
+Müdür
+MADDE 8 – (1) Müdür, Rektör tarafından, siyaset bilimi, uluslararası ilişkiler ve kamu diplomasisi araştırmaları konusunda deneyimli, alanında ulusal ve uluslararası düzeyde basılmış eserleri olan Üniversite öğretim üyeleri arasından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir ve lüzumu halinde görevlendirildiği usule uygun olarak görevden alınabilir.
+(2) Müdürün önerisi ve Rektörün onayıyla, Üniversitenin konuyla ilgili alanlarında çalışan tam zamanlı öğretim elemanları arasından en fazla iki kişi müdür yardımcısı olarak görevlendirilebilir. Müdürün görev süresinin dolması veya herhangi bir şekilde görevinden ayrılması halinde, müdür yardımcılarının da görevi sona erer.
+(3) Müdürün geçici sürelerle görevinden ayrılması halinde, yerine yardımcılarından biri vekâlet eder. Müdürün altı aydan fazla süreyle görevi başında bulunamayacağı durumlarda Rektör tarafından yeni bir Müdür görevlendirilir.

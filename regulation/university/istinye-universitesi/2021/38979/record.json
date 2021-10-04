@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istinye-universitesi/2021/38979",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31618",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-04",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstinye Üniversitesi",
+  "issuer_slug": "istinye-universitesi",
+  "kind": "regulation",
+  "published": "2021-10-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38979&MevzuatTertip=5",
+  "source_id": "8.5.38979",
+  "source_sha256": "5cef0c436942cb1c2497c93c5ba3718dc4726290374137c631e1e5bf3d584e97",
+  "title": "İSTİNYE ÜNİVERSİTESİ KAMU DİPLOMASİSİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 461,
+  "version_label": "oldest version available",
+  "word_count": 977
+}
