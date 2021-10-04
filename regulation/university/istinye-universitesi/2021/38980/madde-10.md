@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu; Müdürün başkanlığında, Müdür Yardımcısı ve Üniversitenin; Tıp Fakültesi, Eczacılık Fakültesi, Fen Edebiyat Fakültesi, Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi, İktisadi, İdari ve Sosyal Bilimler Fakültesi ve Sağlık Bilimleri Fakültesinden birer öğretim üyesi olmak üzere Müdür tarafından önerilen ve Rektör tarafından üç yıl için görevlendirilen toplam dokuz üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu yılda bir kez olağan ve gerektiğinde olağanüstü olarak Müdürün yazılı çağrısı üzerine salt çoğunlukla toplanır ve kararlar toplantıya katılanların salt çoğunluğu ile alınır.
+(3) Görevi sona eren üyeler yeniden görevlendirilebilirler. Üç kez arka arkaya veya toplam beş kez mazeretsiz olarak toplantıya katılmayan üyenin üyeliği düşmüş sayılır.

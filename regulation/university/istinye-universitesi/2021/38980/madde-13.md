@@ -1,0 +1,3 @@
+Proje ve eğitim gruplarının görevleri
+MADDE 13 – (1) Proje ve eğitim gruplarının görevleri; Merkezin amacına uygun projeler üretmek ve bunları uygulamaya koymaktır.
+(2) Proje ve eğitim grupları adına proje yürütücüsü tarafından, proje süresine göre belirlenecek aralıklarla Yönetim Kuruluna proje ile ilgili durum raporu sunulur. Durum raporlarına göre devamında yarar görülmeyen ve sona erdirilmesi gereken projeler, süresi sona ermeden proje ve eğitim gruplarınca gerekçeli olarak sona erdirilebilir veya devam eden başka bir proje ile birleştirilebilir. Proje ve eğitim gruplarının iş birliği içerisinde çalışmaları gerekir.
