@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdür, müdür yardımcıları, Üniversite Bilgi İşlem Daire Başkanı ve Rektörün Üniversitenin öğretim elemanları arasından görevlendireceği üç üye olmak üzere toplam yedi kişiden oluşur.
+(2) Yönetim Kurulu, Müdürün daveti ile yılda en az dört defa Merkezin faaliyetlerini görüşmek üzere toplanır. Yönetim Kurulu üye sayısının yarısından fazlasının katılımıyla toplanabilir ve toplantı yeter sayısının oy çokluğu ile karar alabilir. Oyların eşitliği halinde Müdürün oyu yönünde karar alınmış sayılır. Müdür ve yardımcılarının dışındaki üyelerin mazereti sebebiyle Yönetim Kurulu toplantılarına katılamayacak olması halinde, temsil ettikleri birimdeki yardımcılarının katılımıyla toplantı yapılır.
