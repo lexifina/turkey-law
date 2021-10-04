@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 10 – (1) Danışma Kurulu; Merkezin faaliyet alanlarında çalışmaları bulunan Üniversitenin fakülte ve anabilim dalları öğretim elemanları, istekleri halinde ulusal ve uluslararası üniversite, enstitü ve araştırma merkezlerinde görevli öğretim elemanları ile insan ilişkileri ve teknoloji alanlarında araştırma ve uygulama yapan dernek, vakıf ya da özel sektör kuruluşlarında çalışan ve/veya insan ilişkileri ve teknoloji alanlarında deneyimli kişiler arasından Müdür tarafından önerilen ve Rektör tarafından üç yıl için görevlendirilen Müdür dahil en az beş, en fazla yirmi bir üyeden oluşur.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda bir kez üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
+(3) Danışma Kurulunun görevi; Merkezin faaliyet alanına giren tüm konularda görüş bildirmek ve bu Yönetmelikte belirtilen diğer görevleri yerine getirmektir.
