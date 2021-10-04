@@ -1,0 +1,26 @@
+{
+  "number": "meeting-10-04",
+  "number_as_published": "meeting-10-04",
+  "year": 2021,
+  "title": "Meclis Karar Özetleri (2021 - 10)",
+  "decision_date": "2021-10-04",
+  "source": "https://www.develi.bel.tr/meclis-kararlari?sayfa=3",
+  "official_document": "https://www.develi.bel.tr/uploads/meclis/karar/10.04.10.2021.pdf?v=1769581819",
+  "source_sha256": "73c5546aaa2c56b8f2e3927a01aee712467af824103f504071399a3a1a16c739",
+  "issuer": "Develi Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.10.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Meclis Karar Özetleri (2021 - 10)",
+  "record_scope": "one official file of council decisions (meeting)",
+  "date_read_from": "date printed with the file in the official listing",
+  "meeting_key_as_published": "2021 - 10",
+  "official_page": "https://www.develi.bel.tr/meclis-kararlari"
+}
