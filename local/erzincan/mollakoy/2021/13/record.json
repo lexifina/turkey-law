@@ -1,0 +1,26 @@
+{
+  "number": "13",
+  "number_as_published": "13",
+  "year": 2021,
+  "title": "2021 yılı Bütçesinde birimler arası ödenek aktarımının yapılması hk.",
+  "decision_date": "2021-10-05",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/10/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/2021-yili-butcesinde-birimler-arasi-odenek-aktariminin-yapilmasi-hk/13/",
+  "source_sha256": "360facef34131e7b501be61f2b5395d9c260520003506bea55b3e5452edc5d1e",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-05",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 05.10.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/2021-yili-butcesinde-birimler-arasi-odenek-aktariminin-yapilmasi-hk/13/",
+  "listing_label": "2021 yılı Bütçesinde birimler arası ödenek aktarımının yapılması hk.",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
