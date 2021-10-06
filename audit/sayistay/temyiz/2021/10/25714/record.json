@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50197",
+  "decision_date": "2021-10-06",
+  "source_id": 25714,
+  "chamber": "3",
+  "file_number": "47945",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25714/",
+  "source_sha256": "5e2970ef6493ee52f7aafc3666366cd4e4284b07712eb66cc484a2e2a52fabc2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
