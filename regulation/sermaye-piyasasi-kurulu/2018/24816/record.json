@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.24816",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VERİ DEPOLAMA KURULUŞUNUN FAALİYET, ÇALIŞMA VE DENETİM ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "24816",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "issuer_slug": "sermaye-piyasasi-kurulu",
+  "path": "regulation/sermaye-piyasasi-kurulu/2018/24816",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24816&MevzuatTertip=5",
+  "source_sha256": "c6d97cc23c128664734ef55668a66ca2de2dc39dd66f33892685a5bba80dd600",
+  "source_bytes": 57397,
+  "published": "2018-09-19",
+  "gazette": "30540",
+  "in_force": "2021-10-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/10/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-10-06",
+      "RG-6/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-06",
+      "6/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-10-15",
+      "RG-15/10/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-10-15",
+      "15/10/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2512,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
