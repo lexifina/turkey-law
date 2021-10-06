@@ -1,0 +1,59 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7336",
+  "year": 2021,
+  "title": "7336 sayılı Kanun",
+  "adopted": "2021-10-06",
+  "date_basis": "last-sitting",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607336.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 106",
+  "committee_reports": [
+    {
+      "label": "TBMM 88 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c078/tbmm27078003ss0088.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 903016,
+      "title": "7336 sayılı Kanun",
+      "adopted_as_published": null,
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607336.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 88 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c078/tbmm27078003ss0088.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 78,
+          "sitting": 3,
+          "sitting_date": "2021-10-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c078/tbmm27078003.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c078/tbmm27078fih.pdf",
+          "pages": [
+            "118:119",
+            "121:133"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=101&v_kullanici_id=27483210",
+      "page_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "967951caf1e1e34918f7bdac7505f72e6e499b46fb8d7307ff40b898cbacab9e",
+  "issuer": "TBMM",
+  "in_force": "2021-10-06",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2021-10-06); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: title may name a private person; official links only",
+  "law_text_complete": false,
+  "privacy_withheld": true
+}
