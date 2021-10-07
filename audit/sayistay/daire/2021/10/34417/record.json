@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "476",
+  "decision_date": "2021-10-07",
+  "source_id": 34417,
+  "chamber": "5",
+  "ilam_number": "199",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34417/",
+  "source_sha256": "069b9c8e2e8aef6b70d9319314d2c4d6b1a37fbda4c9577d95ab06dbc51d5d99",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
