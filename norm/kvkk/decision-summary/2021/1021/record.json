@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1021",
+  "source_id": 7081,
+  "date": "2021-10-07",
+  "title": "“Mağazacılık faaliyeti yürüten bir veri sorumlusunun veri ihlal bildirimi” hakkında Kişisel Verileri Koruma Kurulunun 07/10/2021 tarih ve 2021/1021 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7081/2021-1021",
+  "source_sha256": "0e818c078b3bc4fbc1eb31a72358489f05954df883609b5da839685d60c04a11",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
