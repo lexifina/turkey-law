@@ -1,0 +1,22 @@
+{
+  "number": "131-142",
+  "number_as_published": "131-142",
+  "year": 2021,
+  "title": "Meclis kararları 131-142 (toplantı karar dosyası)",
+  "decision_date": "2021-10-07",
+  "source": "https://umraniye.bel.tr/kurumsal/meclis-kararlari/",
+  "official_document": "https://umraniye.bel.tr/wp-content/uploads/2026/04/20211007-131-142.pdf",
+  "source_sha256": "f06c1ba94e68f759011507c92776e8968f643a9849cfcdbaeeae91b4b99480aa",
+  "issuer": "Ümraniye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07/10/2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF per meeting listing; it holds decisions 131-142"
+}
