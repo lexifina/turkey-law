@@ -1,0 +1,38 @@
+Katlar alanı hesabına dâhil edilmeyen kullanımlar
+MADDE 22 – (1) Planlı Alanlar İmar Yönetmeliğinin 5 inci maddesinin sekizinci fıkrasında belirtilen esaslar dâhilinde;
+a) Emsal ve %30 hesabına dâhil olmayan alanlar;
+1) 27/11/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik gereğince yapılması zorunlu olan, korunumlu ya da korunumsuz normal merdiven dışındaki yangın merdiveni ve korunumlu koridorun asgari ölçülerdeki alanı ile yangın güvenlik holünün 6 m²’si,
+2) Son katın üzerindeki herhangi bir kullanıma konu edilmeyen teras çatılar,
+3) Yapının ihtiyacı için bahçede yapılan açık otoparklar,
+4) Konferans, spor, sinema ve tiyatro salonları gibi özellik arz eden umumi yapılarda düzenlenmesi zorunlu olan boşluklar,
+5) Alışveriş merkezlerinde yapılan atrium boşluklarının her katta asgari ölçülerdeki alanı,
+6) Bağımsız bölüm olarak düzenlenmeyen veya bağımsız bölümün eklentisi niteliği taşımayan, yapının taşıyıcı sistemi ile bütünleşik olmayan, bahçe alanının %20’sini geçmeyen; kameriye, pergola, sundurma ve süs havuzu,
+7) Katlar alanı kapsamında değerlendirilebilecek bir kullanımı olmayan giriş saçakları, bahçe ve istinat duvarları, bina giriş saçakları (markizler),
+b) Bodrum katlarda yapıldığı takdirde Emsal ve %30 hesabına dâhil olmayan alanlar;
+1) Zorunlu otopark alanları,
+2) Sığınak, asansör boşlukları, merdivenler, bacalar, şaftlar, ışıklıklar, ısı ve tesisat alanları, yakıt ve su depoları, jeneratör ve enerji odası, kömürlüklerin ilgili mevzuat, standart ya da bu Yönetmeliğe göre hesap edilen asgari alanları,
+3) Ortak alan niteliğindeki mescit ve müştemilatın konutlarda 150 m²’si, konut dışı yapılarda 300 m²’si,
+4) Bütün cepheleri tamamen gömülü olmak ve ortak alan niteliğinde olmak kaydıyla; otopark alanları ve bu bentte belirtilen tamamen gömülü ortak alanlar,
+5) Ticari amaç içermeyen, ortak alan niteliğindeki çocuk oyun alanlarının ve çocuk bakım ünitelerinin toplam 100 m²’si,
+c) %30 hesabı dâhilinde emsal harici olan alanlar;
+1) 6 m²’yi geçmeyen kontrol veya bekçi kulübeleri,
+2) Asgari ölçülerdeki; temele kadar inen asansör boşlukları, ışıklıklar, çöp ve atık ayrıştırma bacaları, hava bacaları, şaftlar,
+3) Ana yapının dışında kalan; binaya ait arıtma tesisi ve trafolar, jeneratör, yağmur suyu toplama havuzu, evsel atık ve geri dönüşüm hazneleri, ısı merkezi,
+4) Üstü sökülür-takılır hafif malzeme ile kenarları rüzgâr kesici cam panellerle kapatılmış olsa dahi açık oturma yerleri,
+5) Bu Yönetmelik uyarınca yapılması zorunlu olan kapıcı dairelerinin toplam 70 m2’si,
+6) Atrium ve galeri boşlukları,
+7) Ortak alan niteliğindeki mescit ve müştemilat,
+8) Bina için gerekli minimum sığınak alanı,
+9) Bu maddenin birinci fıkrasının (b) bendinde belirtilen otopark alanları dışındaki otopark alanları,
+10) Bina veya tesise ait olan ısıtma, soğutma, tesisat alanı, su sarnıcı, havalandırma sistemleri ve enerji verimliliği sistemlerinin bulunduğu alanlar, arıtma tesisi, gri su toplama havuzu, yakıt ve su depoları, trafolar, jeneratör, ısı merkezi, enerji odası, kömürlük, eşanjör ve hidrofor bölümleri,
+11) Bodrum katlarda yer alan, tek başına bağımsız bölüm oluşturmayan, bir bağımsız bölümün eklentisi olmayan, ticari amaç içermeyen, sadece binada oturanların kullanımına yönelik, toplamda emsal hesabına konu alanın % 5’ini ve 1000 m2’yi geçmeyen, ortak alan niteliğindeki yönetim ve toplantı odaları ile spor ve sosyal mekânlar,
+12) Subasman seviyesi hariç bütün cepheleri tamamen gömülü olmak ve ortak alan niteliğinde olmak kaydıyla; otopark alanları ve bu maddede belirtilen tamamen gömülü ortak alanlar,
+13) Bağımsız bölüm net alanının %15’ini geçmemek kaydıyla açık çıkma şartlarını taşıyan balkonlar, kat koridoru, kat ve ara sahanlıkları dâhil açık veya kapalı merdiven evi,
+14) Eğitim tesislerinin bodrum katlarında yer alan yemekhane, laboratuvar, atölye,
+15) Bu maddenin birinci fıkrasının (a) bendinde belirtilen süs havuzları dışındaki süs havuzları,
+16) Alışveriş merkezlerinde ve 40’tan fazla bağımsız bölümü bulunan binaların normal katlarında, binanın ortak merdiveni ile bağlantılı, dışarıdan erişimi bulunmayan, toplamda 50 m²’yi geçmeyen, ticari kullanıma konu edilemeyen, ortak alan niteliğinde kütüphane odası,
+17) Mimari projesinde belirlenen kullanım alanları,
+18) Tabii zemin veya tesviye edilmiş zemin seviyesindeki veya bu seviyenin altındaki avlular, iç bahçeler,
+19) Akaryakıt pompaları ve taşıyıcıları hariç olmak üzere kanopiler ve arkatlar,
+20) Güneş panellerinin temel ve kaidesi haricindeki kısımları,
+katlar alanına dâhil edilmez.

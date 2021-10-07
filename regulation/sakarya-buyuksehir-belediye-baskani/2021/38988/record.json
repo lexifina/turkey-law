@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.38988",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAKARYA BÜYÜKŞEHİR BELEDİYESİ İMAR YÖNETMELİĞİ",
+  "number": "38988",
+  "issuer": "Sakarya Büyükşehir Belediye Başkanı",
+  "issuer_slug": "sakarya-buyuksehir-belediye-baskani",
+  "path": "regulation/sakarya-buyuksehir-belediye-baskani/2021/38988",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38988&MevzuatTertip=5",
+  "source_sha256": "061725a0a04dbb31d235cbb506aae7234fb0d42563f789f40b747894e7afd8ef",
+  "source_bytes": 219053,
+  "published": "2021-10-07",
+  "gazette": "31621",
+  "in_force": "2021-10-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.10.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11609,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38988-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
