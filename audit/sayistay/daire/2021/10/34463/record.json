@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "478",
+  "decision_date": "2021-10-07",
+  "source_id": 34463,
+  "chamber": "5",
+  "ilam_number": "304",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34463/",
+  "source_sha256": "0d42c142c0756fe07a038d6cb58c71a9bcc43d9662ae5af897b852fb1656df65",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
