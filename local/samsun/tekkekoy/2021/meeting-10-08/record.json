@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-08",
+  "number_as_published": "meeting-10-08",
+  "year": 2021,
+  "title": "08.10.2021 MECLİS KARARLARI",
+  "decision_date": "2021-10-08",
+  "source": "https://tekkekoy.bel.tr/dosyalar/6/belediye-meclis-kararlari/?yil=2021",
+  "official_document": "https://tekkekoy.bel.tr/uploads/08102021_meclis_kararlari.doc",
+  "source_sha256": "9473bc1d7293649fb9d42bfce620ff6e22d2207b24c771bb63db86c816cfae51",
+  "issuer": "Tekkeköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.10.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "08.10.2021 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)"
+}
