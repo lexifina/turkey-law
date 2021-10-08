@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-10-08",
+  "issue": "31622",
+  "edition": "regular",
+  "item": 5,
+  "section": "YARGI BÖLÜMÜ",
+  "heading": "YARGITAY KARARI",
+  "title": "Yargıtay 3. Hukuk Dairesine Ait Karar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211008-5.pdf",
+  "link_format": "pdf",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211008.htm",
+  "index_sha256": "8d9adf5043fd8661e47e51de4dd175bb6183a78fa01428a3032d56f9269ff1e4",
+  "index_header": "8 Ekim 2021 ... 31622 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211008.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; personal-data rule (appointment, acting, judicial or person-named item): metadata and link only"
+}
