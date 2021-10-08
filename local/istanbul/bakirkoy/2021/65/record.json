@@ -1,0 +1,23 @@
+{
+  "number": "65",
+  "number_as_published": "65",
+  "year": 2021,
+  "title": "Otel ve pansiyon faaliyet konusu ile işyeri açma ve çalışma ruhsatı alma talepleri hk.",
+  "decision_date": "2021-10-08",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/27",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/65-ruhsat-ve-denetim-mudurlugu-otel-isyeri-acma-ve-calistirma-ruhsati08102021.pdf",
+  "source_sha256": "a48cab30dbedef046fcb4d613b14218a77e25ced9f76d72fb2c62b569d11fc91",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Ekim 2021 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
