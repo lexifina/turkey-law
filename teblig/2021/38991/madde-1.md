@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 7325.91.00.00.00 ve 7326.11.00.00.00 Gümrük Tarife İstatistik Pozisyonlarında (GTİP) “Öğütücü bilyalar ve öğütmeye mahsus benzeri eşya” ve “Öğütücü bilyalar ve öğütmeye mahsus diğer eşya” tanımı altında sınıflandırılan ürünün ithalatında korunma önlemi uygulanması için yerli üretici tarafından yapılan başvuru neticesinde soruşturma açılması ve Ticaret Bakanlığı (Bakanlık) İthalat Genel Müdürlüğü (Genel Müdürlük) tarafından yürütülecek soruşturmanın usul ve esaslarının belirlenmesidir.
