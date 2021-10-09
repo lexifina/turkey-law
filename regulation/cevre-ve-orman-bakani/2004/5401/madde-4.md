@@ -1,0 +1,20 @@
+Tanımlar
+Madde 4 — Bu Yönetmelikte geçen;
+Bakanlık: Çevre ve Orman Bakanlığını,
+Kanun: 2872 sayılı Çevre Kanununu,
+Katı Atıkların Kontrolü Yönetmeliği: 14/03/1991 tarihli ve 20814 sayılı Resmî Gazete’de yayımlanan Yönetmeliği,
+Tehlikeli Atıkların Kontrolü Yönetmeliği: 27/08/1995 tarihli ve 22387 sayılı Resmî Gazete’de yayımlanan Yönetmeliği,
+Hafriyat Toprağı: İnşaat öncesinde arazinin hazırlanması aşamasında yapılan kazı ve benzeri faaliyetler sonucunda oluşan toprağı,
+İnşaat Atıkları: Konut, bina, köprü, yol ve benzeri alt ve üst yapıların yapımı esnasında ortaya çıkan atıkları,
+Yıkıntı Atıkları: Konut, bina, köprü, yol ve benzeri alt ve üst yapıların tamiratı, tadilatı, yenilenmesi, yıkımı veya doğal bir afet sonucunda ortaya çıkan atıkları,
+Tehlikeli İnşaat ve Yıkıntı Atıkları: İnşaat ve yıkıntı atıkları içerisinde bulunan asbest, boya, florasan ve benzeri zararlı ve tehlikeli atıkları,
+Asfalt Atığı: Yol, havaalanı pisti ve benzeri yapıların tamiratı, tadilatı, yenilenmesi ve yıkımı sırasında ortaya çıkan ve bünyesinde asfalt, zift, doğal polimer ve benzeri malzeme bulunan atıkları,
+Bitkisel Toprak: Bitki gelişimi için organik ve inorganik madde ile hava ve su sağlayan toprağı,
+Atık Yönetimi: Hafriyat toprağı ile inşaat/yıkıntı atıklarının kaynağında ayrılarak toplanması, geçici biriktirilmesi, taşınması, tekrar kullanılması, geri kazanılması ve depolanması işlemlerini,
+İnceleme Kurulu: Hafriyat toprağı ile inşaat ve yıkıntı atıkları geri kazanım ve depolama tesisleri için yapılacak başvuruları incelemek ve sonuçlandırmak üzere oluşturulan ve 37 nci maddede belirtilen Kurulu,
+Kriz Merkezi: Doğal afet sonrasında mahallin en büyük mülki amirinin başkanlığında ilgili kurum/kuruşların katılımı ile oluşturulan komisyonu,
+Denetim Personeli: Bakanlığın merkez ve taşra teşkilatı ile belediyelerin denetim personellerini,
+Seçici Yıkım: Konut, bina, köprü, yol ve benzeri alt ve üst yapıların yıkımı öncesinde ve sırasında içindeki yabancı ve geri kazanımı mümkün olmayan maddelerden ayıklanması ve yıkımın belirli ölçülerde ve kontrollü olarak yapılmasını,
+Taşıma ve Kabul Belgesi: Ek-2’de yer alan belgeyi,
+Depolama/Geri Kazanım Tesisi İzin Belgesi: Ek-3’de yer alan belgeyi,
+ifade eder.

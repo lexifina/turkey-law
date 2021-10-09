@@ -1,0 +1,6 @@
+ÜÇÜNCÜ BÖLÜM
+Geçici Biriktirme ve Toplamaya İlişkin Esaslar
+Genel Esaslar
+Madde 13 — Hafriyat toprağı ile inşaat/yıkıntı atıklarının, üretici ve taşıyanları tarafından belediyelerin veya mahallin en büyük mülki amirinin gösterdiği ve izin verdiği geri kazanım ve depolama tesisleri dışında denizlere, göllere, akarsulara veya herhangi bir yere dökülmesi ve dolgu yapılması yasaktır.
+Faaliyetleri sonucu hafriyat toprağı ve inşaat/yıkıntı atıklarının üretimine neden olacak özel veya resmi kişi, kurum ve kuruluşlar; bu atıkların üretilmesinden önce ilgili belediyeye/mahallin en büyük mülki amirine başvurarak gerekli izinleri almak, atıklarını bu Yönetmelikte belirtilen usul ve esaslara göre bu mercilerin göstereceği geri kazanım/depolama sahasına taşınmasını sağlamakla yükümlüdürler. Bununla ilgili işlemler 23 üncü maddede belirtilen esaslara göre yapılır.
+Yapılan denetimlerde hafriyat toprağı ile inşaat/yıkıntı atıklarını Yönetmelikte belirtilen esaslara aykırı olarak çevre kirliliğine neden olacak şekilde alıcı ortama verdiği tespit edilen üretici, taşıyıcı ve depolayanlar hakkında 46 ncı maddede belirtilen cezai işlemler uygulanır. Ayrıca tespit edilen eksiklik veya kirlilik, tebliğ edilen süreler içinde giderilmezse bu atıkların toplanması, taşınması ve bertarafı maliyeti ilgililerden peşin olarak tahsil edilir.

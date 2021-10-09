@@ -1,0 +1,2 @@
+Atık Bertarafında Mali Yükümlülük
+Madde 17 — Hafriyat toprağı ile inşaat/yıkıntı atıkları üreticileri oluşan atıkların toplanması, taşınması ve bertarafı ile ilgili harcamaları karşılamakla yükümlüdürler. Bu amaçla uygulanacak bedel, geri kazanım/depolama sahasının uzaklığı ve oluşan atık miktarı esas alınarak büyükşehirlerde ilçe belediyelerinin teklifi ile büyükşehir belediyesi, diğer illerde ise il ve ilçe belediyeleri, mücavir alan sınırları dışında ise mahallin en büyük mülki amiri tarafından tespit ve ilan edilir.

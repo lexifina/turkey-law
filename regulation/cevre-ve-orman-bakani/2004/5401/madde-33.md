@@ -1,0 +1,2 @@
+Geri Kazanım Ürünleri ve Kullanım Alanları
+Madde 33 — Geri kazanılmış ürünler, ilgili standartları sağlamak şartı ile gerekli işlemlerden sonra orijinal malzemeler ile birlikte veya ayrı olarak, yeni beton üretiminde, yol, otopark, kaldırım, yürüyüş yolları, drenaj çalışmaları, kanalizasyon borusu ve kablo döşemelerinde dolgu malzemesi olmak üzere, alt ve üst yapı inşaatlarında, spor ve oyun tesisleri inşaatları ile diğer dolgu ve rekreasyon çalışmalarında öncelikli olarak kullanılır.

@@ -1,0 +1,3 @@
+İnşaat/Yıkıntı Atıklarının Geri Kazanılması
+Madde 27 — Doğal kaynakların korunması, sürdürülebilir üretim, depolanacak atık miktarının azaltılması ve ekonomik değer yaratılması amacıyla inşaat/yıkıntı atıklarının geri kazanılması esastır. Yüksek kaliteli geri kazanım ürünleri elde edilmesi ve maliyetlerin azaltılması amacıyla atıkların oluştukları yerlerde ayrılması gerekmektedir.
+Geri kazanılamayan inşaat/yıkıntı atıkları gerekli ayrıştırma ve boyut küçültme yapıldıktan sonra Katı Atıkların Kontrolü Yönetmeliği’nde belirtilen esaslara göre katı atık depolama alanında günlük örtü malzemesi olarak kullanılabilir.

@@ -1,0 +1,51 @@
+{
+  "source_id": "7.5.5401",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAFRİYAT TOPRAĞI, İNŞAAT VE YIKINTI ATIKLARININ KONTROLÜ YÖNETMELİĞİ",
+  "number": "5401",
+  "issuer": "Çevre ve Orman Bakanı",
+  "issuer_slug": "cevre-ve-orman-bakani",
+  "path": "regulation/cevre-ve-orman-bakani/2004/5401",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5401&MevzuatTertip=5",
+  "source_sha256": "5d81a76dfa01a56df5d50269366655cfa53aafcfcc2164ea7a8b5dc04e77d357",
+  "source_bytes": 80758,
+  "published": "2004-03-18",
+  "gazette": "25406",
+  "in_force": "2021-10-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/10/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-10-09",
+      "RG-9/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-09",
+      "9/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-03-26",
+      "RG-26/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3759,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.5401-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
