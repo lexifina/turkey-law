@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-01-09",
+      "09.01.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-10-11",
+      "RG-11/10/2021-31625",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-10-11",
+      "RG-11/10/2021-31625",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-10-11",
+      "RG-11/10/2021-31625",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-10-11",
+      "11/10/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/10/2021-31625",
+  "first_law": null,
+  "gazette": "28168",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ardahan Üniversitesi",
+  "issuer_slug": "ardahan-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ardahan-universitesi/2012/15775",
+  "published": "2012-01-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=15775&MevzuatTertip=5",
+  "source_bytes": 34365,
+  "source_id": "8.5.15775",
+  "source_sha256": "c8523d1d15319842c64c0c699b2d8d85281161c7e96199f0d881618f014d9e2a",
+  "text_status": "current-consolidated",
+  "title": "ARDAHAN ÜNİVERSİTESİ YAZ OKULU YÖNETMELİĞİ",
+  "university_id": 325,
+  "word_count": 1292
+}

@@ -1,0 +1,8 @@
+Devam ve başarı durumu
+MADDE 10 – (1) Yaz okulunda derslere devam zorunludur. Bir dersin devam koşulunun daha önce yerine getirilmiş olması, o derse yaz okulunda devam etme zorunluluğunu ortadan kaldırmaz.
+(2) Yaz okulunda açılan dersler için en az bir ara sınav ve en az bir yarıyıl sonu sınavı yapılır; ara sınava ve yarıyıl sonu sınavına sadece yaz okuluna kayıtlı öğrenciler girer.
+(3) Öğrencinin harfli başarı notu Senato tarafından belirlenen esaslara göre tespit edilir. Yaz okulundan alınan harfli başarı notu dersin okutulduğu ilgili döneme aktarılır. Ancak % 10’luk dilim hesaplamalarında yaz okulunda alınan harfli başarı notu değerlendirilmez.
+(4) Öğrencinin, ilgili yönetim kurulunca kabul edilen, başka yükseköğretim kurumlarının yaz okullarında alıp başarmış olduğu dersleri için S harfli başarı notu verilir. Bu tür derslerin kredisi, öğrencinin tamamlamakla yükümlü olduğu toplam krediye sayılır, fakat GNO ve yarıyıl ağırlıklı not ortalaması (YNO) hesabına katılmaz.
+(5) Tekrar edilen derslerde, alınan en son not geçerlidir ve YNO/GNO hesabında bu son not kullanılır.
+(6) (Değişik:RG-11/10/2021-31625) Yaz okuluna kaydolan ve yaz okulu sonunda mezuniyeti için devam şartını yerine getirmiş olduğu tek dersten sorumluluğu kalan ön lisans ve lisans öğrencileri, 10/10/2018 tarihli ve 30561 sayılı Resmî Gazete’de yayımlanan Ardahan Üniversitesi Önlisans-Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinin 33 üncü maddesindeki şartları sağlamak kaydıyla akademik takvimde belirtilen tarihte tek ders sınavına girme hakkı kazanır.
+(7) Öğrencinin başarı durumuna ilişkin diğer esaslar Senato tarafından belirlenir.

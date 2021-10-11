@@ -1,0 +1,8 @@
+ÜÇÜNCÜ BÖLÜM
+Derslerin Açılması, Ders Alma Esasları, Devam ve Başarı Durumu
+Derslerin açılması
+MADDE 8 – (1) Yaz okulunda açılacak dersler her yıl; fakülteler ile yüksekokullarda ilgili bölüm kurulunun, meslek yüksekokullarında bölüm başkanlıklarının, enstitülerde ise ilgili anabilim/anasanat dalı kurulunun teklifi, birim kurulunun kararı ve Senatonun onayı ile en geç bahar yarıyılına ait yarıyıl sonu sınav döneminden onbeş gün öncesine kadar belirlenir.
+(2) Yaz okulunda bir dersin açılabilmesi için gerekli en az öğrenci sayısı; lisans programlarında onbeşin, lisansüstü programlarında onun altında olmamak üzere, her yıl Üniversite Yönetim Kurulunca tespit edilir. Eğitim-öğretimin bireysel veya küçük gruplarla yapılmasının zorunlu olduğu hallerde öğrenci sayısında sınırlama yapılmaz. Buna ilişkin diğer hususlar birim yönetim kurulunun önerisi ile Üniversite Yönetim Kurulu tarafından karara bağlanır.
+(3) Senato tarafından yaz okulunda açılması onaylanan dersi verecek öğretim üyesi/görevlisi, ilgili bölüm kurulunun veya anabilim/anasanat dalı kurulunun teklifi ve birim kurulunun onayı ile belirlenir.
+(4) Yaz okulunda bir ders, kaydolan öğrenci sayısının yetersiz olması halinde açılmaz. Açılmayan derslere kaydolan öğrencilerle ilgili düzenlemeler yaz okulu koordinasyon kurulunca yapılır. Öğrenci sayısının otuzdan az olması durumunda ders gruplara bölünmez, gruplardaki öğrenci sayısı onbeşden az olamaz. Üniversite Yönetim Kurulu bu sayıları arttırabilir. Eğitim-öğretimin bireysel veya küçük gruplarla yapılmasının zorunlu olduğu hallerde öğrenci sayısına sınırlanma getirilmez.
+(5) Zorunlu dersler yaz okuluna ertelenmez, bu derslerin verilmesi gereken yarıyılda alınması gerekir.
