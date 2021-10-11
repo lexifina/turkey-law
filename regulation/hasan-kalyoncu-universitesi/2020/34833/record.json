@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2020-09-07",
+      "07.09.2020",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-10-11",
+      "RG-11/10/2021-31625",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-10-11",
+      "11/10/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-11/10/2021-31625",
+  "first_law": null,
+  "gazette": "31237",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-11",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Hasan Kalyoncu Üniversitesi",
+  "issuer_slug": "hasan-kalyoncu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hasan-kalyoncu-universitesi/2020/34833",
+  "published": "2020-09-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=34833&MevzuatTertip=5",
+  "source_bytes": 52546,
+  "source_id": "8.5.34833",
+  "source_sha256": "8df42caca6c6eb87b6c35067570d7b8e615ead228743fef7d61720518733196e",
+  "text_status": "current-consolidated",
+  "title": "HASAN KALYONCU ÜNİVERSİTESİ HUKUK ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 338,
+  "word_count": 1070
+}
