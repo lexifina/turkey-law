@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.38997",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/45)",
+  "number": "38997",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38997",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38997&MevzuatTertip=5",
+  "source_sha256": "e62aaaba0aed8bd8e749f3abdf2c80ecd693648f6712ab8dafca33f1498d5c57",
+  "source_bytes": 17058,
+  "published": "2021-10-12",
+  "gazette": "31626",
+  "in_force": "2021-10-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.10.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 244,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38997-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

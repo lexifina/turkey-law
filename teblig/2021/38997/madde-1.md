@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, 14/4/2020 tarihli ve 31099 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2020/7) ile Hırvatistan Cumhuriyeti menşeli 1901.10.00.19.00 gümrük tarife istatistik pozisyonu altında sınıflandırılan “tahıllı kaşık maması” ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.

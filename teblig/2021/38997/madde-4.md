@@ -1,0 +1,3 @@
+Karar
+MADDE 4 – (1) Yürütülen soruşturma sonucunda, Hırvatistan menşeli soruşturma konusu ürünün ithalatının dampingli olduğu fakat yerli üretim dalında maddi zarara/zarar tehdidine neden olmadığı tespit edilmiştir. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ve Ticaret Bakanının onayı ile Hırvatistan menşeli “tahıllı kaşık maması” ithalatına yönelik soruşturmanın dampinge karşı önlem almaksızın kapatılmasına karar verilmiştir.
