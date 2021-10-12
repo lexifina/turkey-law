@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "483",
+  "decision_date": "2021-10-12",
+  "source_id": 34641,
+  "chamber": "5",
+  "ilam_number": "313",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34641/",
+  "source_sha256": "775408832ed792819826604df76fa9a3e59c8a36eb04795c00b78ca1d3d2c522",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
