@@ -1,0 +1,4 @@
+Damping iddiası
+MADDE 6 – (1) Normal değerin tespitinde, Gürcistan’da geçerli iç piyasa fiyatlarına ulaşılamamış olup oluşturulmuş normal değer kullanılmıştır. Bu kapsamda, soruşturma konusu ürün için normal değer Türkiye’de benzer malın 2020 yılına ait birim imalat maliyetine genel, idari ve satış giderleri ile finansman gideri ve makul bir kârın eklenmesiyle oluşturulmuş ve söz konusu değerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(2) İhraç fiyatı olarak, soruşturmaya konu ülkeden Türkiye’ye gerçekleştirilen ihracatın FOB birim fiyatı esas alınmıştır. Anılan değerlerin fabrika çıkış aşamasında olduğu kabul edilmiştir.
+(3) Normal değer ile ihraç fiyatı mümkün olduğu ölçüde aynı ticari aşamada karşılaştırılmış olup hesaplanan damping marjının ihmal edilebilir oranın üzerinde olduğu tespit edilmiştir.
