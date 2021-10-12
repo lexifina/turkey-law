@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35679",
+  "decision_date": "2021-10-12",
+  "source_id": 34715,
+  "chamber": "2",
+  "ilam_number": "316",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34715/",
+  "source_sha256": "0e12723c23d4738740fdca5233b0f4415c712163c9cdcd7dc86400f5f161efee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
