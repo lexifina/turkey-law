@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "479",
+  "decision_date": "2021-10-12",
+  "source_id": 34719,
+  "chamber": "5",
+  "ilam_number": "138",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34719/",
+  "source_sha256": "8ed938a1449f1811491e7d7e1c66fd79a4688197379e7980cf99ce774e61e98e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
