@@ -1,0 +1,16 @@
+Tanımlar
+MADDE 3 – (1) Bu Tebliğde geçen;
+a) Bakanlık: Ticaret Bakanlığını,
+b) ÇHC: Çin Halk Cumhuriyeti’ni,
+c) EBYS: Bakanlık Elektronik Belge Yönetim Sistemini,
+ç) Genel Müdürlük: Bakanlık İthalat Genel Müdürlüğünü,
+d) GTP: Gümrük tarife pozisyonunu,
+e) Güney Kore: Kore Cumhuriyeti’ni,
+f) Hindistan: Hindistan Cumhuriyeti’ni,
+g) KEP: Kayıtlı elektronik posta adresini,
+ğ) Metalize iplik: Dokumaya elverişli ipliklerden metalize iplikler (gipe edilmiş olsun olmasın), ip, şerit veya toz şeklindeki metalle birleştirilmiş veya metalle kaplanmış 54.04 veya 54.05 pozisyonundaki şerit ve benzerlerini,
+h) NGGS: Nihai gözden geçirme soruşturmasını,
+ı) Tayvan: Çin Tayvanı’nı,
+i) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk Gümrük Tarife Cetvelini,
+j) Yönetmelik: 30/10/1999 tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesi Hakkında Yönetmeliği,
+ifade eder.
