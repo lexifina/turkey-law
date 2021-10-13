@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50236",
+  "decision_date": "2021-10-13",
+  "source_id": 24264,
+  "chamber": "5",
+  "file_number": "47116",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24264/",
+  "source_sha256": "b7f72a51e8586a44fe64db8939f8e1b10ffee1628dec32d21e20955716d7b099",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
