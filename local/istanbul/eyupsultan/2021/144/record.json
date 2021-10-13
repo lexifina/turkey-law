@@ -1,0 +1,22 @@
+{
+  "number": "144",
+  "number_as_published": "2021/144",
+  "year": 2021,
+  "title": "2022 yılı Performans Programı",
+  "decision_date": "2021-10-13",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-ekim-ayi-meclis-kararlari/2140",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-144/2141",
+  "source_sha256": "9de18f12003dcf554c724a0dea5b6c31f9b13081eb4ffad7a6e87b9341dbb4f5",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.10.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "d59ec92e87587771e5da9a42b86029a797965cbea8c9f36153eed67540a2b93e"
+}
