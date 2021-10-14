@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1051",
+  "source_id": 7261,
+  "date": "2021-10-14",
+  "title": "“İş arama ve işe alım süreçlerini yürüten bir istihdam platformunun Kişisel Verilerin Korunması Kanunu’na aykırı uygulamalarda bulunması” hakkında Kişisel Verileri Koruma Kurulunun 14/10/2021 tarihli ve 2021/1051 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7261/2021-1051",
+  "source_sha256": "c9233838699a9890f9d0dd6e9a24984fbb6abaf849ce9192357802c042e6b53b",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
