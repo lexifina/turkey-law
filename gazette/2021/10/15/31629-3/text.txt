@@ -1,0 +1,438 @@
+15 Ekim 2021 CUMA
+Resmî Gazete
+Sayı : 31629
+YÖNETMELİK
+Bilgi Teknolojileri ve İletişim Kurumundan:
+ELEKTRONİK İMZA KANUNUNUN UYGULANMASINA İLİŞKİN
+USUL VE
+ESASLAR HAKKINDA YÖNETMELİKTE DEĞİŞİKLİK
+YAPILMASINA DAİR YÖNETMELİK
+MADDE 1 – 6/1/2005 tarihli ve 25692
+sayılı Resmî Gazete’de yayımlanan Elektronik İmza Kanununun Uygulanmasına
+İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 4 üncü maddesi aşağıdaki
+şekilde değiştirilmiştir.
+“Madde 4 –
+Bu Yönetmelikte geçen;
+a) Arşiv: Bu Yönetmeliğin 14 üncü maddesinin ikinci
+fıkrasında belirtilen ve Elektronik Sertifika Hizmet Sağlayıcısının
+saklamakla yükümlü olduğu bilgi, belge ve elektronik verileri,
+b) Bildirim Şartları: Kanunun 8 inci maddesinin
+ikinci fıkrasında belirtilen şartları,
+c) Denetim: Elektronik Sertifika Hizmet
+Sağlayıcısının her türlü faaliyet ve işleyişinin ilgili mevzuat hükümlerine
+uygunluğunun incelenerek; muhtemel hata, noksanlık, usulsüzlük ve/veya
+suiistimallerin tespit edilmesi ve ilgili mevzuatta öngörülen yaptırımların
+uygulanması amacıyla yapılan çalışmalar bütününü,
+ç) Dizin: Geçerli sertifikaları içinde bulunduran
+elektronik depoyu,
+d) Elektronik Kimlik Doğrulama Sistemi (EKDS):
+Türkiye Cumhuriyeti kimlik kartının elektronik kimlik doğrulama işlemlerinde
+kullanılabilmesini sağlayan sistemi,
+e) EKDS standardı: Türk Standartları Enstitüsü
+(TSE) tarafından EKDS ile ilgili belirlenen TS 13678, TS 13679, TS 13680 ve
+TS 13681 standartlarını,
+f) EKDS Yönetmeliği: 22/10/2020
+tarihli ve 31282 sayılı Resmî Gazete’de yayımlanan Türkiye Cumhuriyeti
+Kimlik Kartı Elektronik Kimlik Doğrulama Sistemi Yönetmeliğini,
+g) Erişim Verisi: Güvenli elektronik imza oluşturma
+araçlarına erişim için kullanılan parola, biyometrik
+değer gibi verileri,
+ğ) ESHS: Elektronik Sertifika Hizmet Sağlayıcısını,
+h) İnceleme: Kuruma yapılan bildirimin gerekli
+şartları sağlayıp sağlamadığını tespit etmek amacıyla yapılan çalışmalar
+bütününü,
+ı) Güvenli Erişim Modülü (GEM) Akıllı Kartı: Kart
+erişim cihazı üzerindeki kriptografik işlemlerin
+gerçekleştirilmesi için kullanılan güvenlik modülünü,
+i) Güvenli iletişim sertifikası: Kart Erişim Cihazı
+ve rol sunucusu arasında güvenli hat kurmak için gerekli olan sertifikayı,
+j) Görevli ESHS: EKDS Yönetmeliği kapsamında
+belirlenerek Türkiye Cumhuriyeti İçişleri Bakanlığı Nüfus ve Vatandaşlık
+İşleri Genel Müdürlüğünün internet sayfasından duyurulan ESHS’yi,
+k) İptal Durum Kaydı: Kullanım süresi dolmamış
+sertifikaların iptal bilgisinin yer aldığı, iptal zamanının tam olarak
+tespit edilmesine imkân veren ve üçüncü kişilerin hızlı ve güvenli bir
+biçimde ulaşabileceği kaydı,
+l) Kanun: 15/1/2004
+tarihli ve 5070 sayılı Elektronik İmza Kanununu,
+m) Kart Erişim Cihazı (KEC): Vatandaşın kimliğini
+doğrulama işlevi için kullanılan terminali,
+n) KEC standardı: Elektronik kimlik kartları için
+güvenli kart erişim cihazları ile ilgili TSE tarafından belirlenen TS
+13582, TS 13583, TS 13584 ve TS 13585 standartlarını,
+o) Kimlik Doğrulama Bildirimi (KDB): KEC’in GEM Akıllı Kart aracılığı ile elektronik kimlik
+doğrulama için kimlik kartı ile etkileşim halinde yapmış olduğu kriptografik ve biyometrik
+işlemlerin sonucunu gösteren elektronik bildirimi,
+ö) Kimlik Doğrulama Başarım Onayı (KDBO): Kimlik
+doğrulama sunucusu DS tarafından KDB’nin doğrulanması
+sonrasında oluşturulan ve Uygulama Sunucusuna gönderilen sayısal veriyi,
+p) Kimlik Doğrulama Hizmet Sağlayıcı (KDHS): EKDS
+standartlarına uygun olarak elektronik kimlik doğrulama ve kimlik
+doğrulamanın arşivlenmesine ilişkin hizmeti sağlayan kamu veya özel hukuk
+tüzel kişilerini,
+r) Kimlik Doğrulama Yönetmeliği: 26/6/2021
+tarihli ve 31523 sayılı Resmî Gazete’de yayımlanan Elektronik Haberleşme
+Sektöründe Başvuru Sahibinin Kimliğinin Doğrulanma Süreci Hakkında
+Yönetmeliği,
+s) Kimlik kartı: Türkiye Cumhuriyeti
+vatandaşlarının kimliğini ispata yarayan Türkiye Cumhuriyeti Kimlik
+Kartını,
+ş) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu,
+t) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu,
+u) Kurumsal Başvuru: Bir tüzel kişiliğin
+çalışanları veya müşterileri veya üyeleri veya hissedarları adına yaptığı
+nitelikli elektronik sertifika başvurusunu,
+ü) Nitelikli Elektronik Sertifika: Kanunun 9 uncu
+maddesinde sayılan nitelikleri haiz elektronik sertifikayı,
+v) NVİGM: Türkiye Cumhuriyeti İçişleri Bakanlığı
+Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
+y) Özet değeri: 6/1/2005
+tarihli ve 25692 sayılı Resmî Gazete’de yayımlanan Elektronik İmza ile
+İlgili Süreçlere ve Teknik Kriterlere İlişkin Tebliğin 6 ncı maddesinde yer alan özetleme algoritmalarından biri
+kullanılarak hesaplanan değeri,
+z) Özetleme Algoritması: İmzalanacak elektronik
+verilerin sabit uzunlukta bir özetinin çıkarılmasında kullanılan
+algoritmayı,
+aa) Rol sertifikası: Rol doğrulamada kullanılan yetki
+sertifikasını,
+bb) Rol sunucusu: Rol doğrulamada kullanılan ve
+kimlik kartındaki alanlara erişen sunucuyu,
+cc) Sertifika Özet Değeri: Sertifikanın, özetleme
+algoritması ile elde edilen çıktısını,
+çç) Sertifika İlkeleri: ESHS’nin
+işleyişi ile ilgili genel kuralları içeren belgeyi,
+dd) Sertifika Uygulama Esasları: Sertifika
+ilkelerinde yer alan hususların nasıl uygulanacağını detaylı olarak anlatan
+belgeyi,
+ee) Sertifika Mali Sorumluluk Sigortası: ESHS’nin, Kanundan doğan yükümlülüklerini yerine
+getirmemesi sonucu doğacak zararların karşılanması amacıyla yaptırmakla
+yükümlü olduğu sigortayı,
+ff) Zaman Damgası İlkeleri: Zaman damgası ve
+hizmetleri ile ilgili genel kuralları içeren belgeyi,
+gg) Zaman Damgası Uygulama Esasları: Zaman damgası
+ilkelerinde yer alan hususların nasıl uygulanacağını detaylı olarak anlatan
+belgeyi
+ifade eder.
+Bu Yönetmelikte yer almayan tanımlar için Kanunda
+yer alan tanımlar geçerlidir.”
+MADDE 2 – Aynı Yönetmeliğin 9 uncu maddesinin birinci
+cümlesinde yer alan “kişilerin kimliğini;” ibaresinden sonra gelmek üzere
+“kimlik kartı,” ibaresi ve “belgelere” ibaresinden sonra gelmek üzere “veya
+elektronik ortamda Kimlik Doğrulama Yönetmeliği hükümlerine göre” ibaresi
+eklenmiş ve aynı maddenin üçüncü cümlesinden sonra gelmek üzere “Kimlik
+kartı ile 13/Ç maddesine
+ve elektronik ortamda Kimlik Doğrulama Yönetmeliği hükümlerine
+göre kişinin kimliğinin doğrulanması halinde bizzat hazır bulunma şartı
+aranmayabilir.” cümlesi eklenmiştir.
+MADDE 3 – Aynı Yönetmeliğin üçüncü bölüm başlığı
+“Sertifikasyon Süreci, Kimlik Kartına Nitelikli Elektronik Sertifika
+Yüklenmesi, Yenilenmesi ve İptali” şeklinde değiştirilmiş ve 13 üncü
+maddeden sonra gelmek üzere aşağıdaki maddeler eklenmiştir.
+“Kimlik
+kartına nitelikli elektronik sertifika yüklenmesine ilişkin genel hususlar
+Madde
+13/A – ESHS, kimlik kartına
+uzaktan nitelikli elektronik sertifika ve benzer altyapıyı kullanan farklı
+elektronik sertifikalar yükleyebilir.
+ESHS, kimlik kartına uzaktan
+nitelikli elektronik sertifika yükleme, yenileme ve iptal işlemlerini kendi
+rol ve güvenli iletişim sertifikalarını kullanarak KDHS üzerinden veya EKDS
+yönetmeliği ve EKDS standartlarına uygun olarak doğrudan KEC ile güvenli
+iletişim sağlayarak ve özel anahtarların cihazdan dışarı çıkmaması, veri
+sızıntısı olmaması için yazılımsal ve donanımsal gerekli tüm tedbirleri
+alarak/aldırarak yapabilir. Güvenli
+iletişim esnasında kullanılan tüm bileşenlerin (KDHS ve sistemleri, KEC
+cihazı ve sistemleri) Türkiye Cumhuriyeti sınırları içerisinde olması
+sağlanır.
+ESHS internet sayfasından, başvuru sahibinin kimlik
+kartına nitelikli elektronik sertifika yüklenmesi talebinin ön başvurusunu
+alabilir. Bu başvurunun uygun bulunması halinde, başvuru sahibini nitelikli
+elektronik sertifika yükleme işleminin yapılacağı KEC’in
+olduğu yere yönlendirebilir.
+Kimlik kartına nitelikli elektronik sertifika ve
+benzer altyapıyı kullanan farklı elektronik sertifikaların yüklenebilmesi
+için gerekli olan rol ve güvenli iletişim sertifikaları sadece Kanun
+kapsamında faaliyet gösteren ESHS’lere verilir.
+Görevli ESHS tarafından rol ve güvenli iletişim
+sertifikaları KEC Standardı (TS 13585) ile belirlenen sürelere uygun
+üretilir.
+Görevli ESHS, rol ve güvenli iletişim
+sertifikalarına ilişkin diğer ESHS’lerden ücret
+talep edemez.
+ESHS, kimlik kartı vasıtasıyla kimlik doğrulayarak
+uzaktan gerçekleştirilen;
+a) Nitelikli elektronik sertifika yükleme,
+b) Nitelikli elektronik sertifika yenileme,
+c) Nitelikli elektronik sertifika iptal
+işlemlerinin kesintisiz olarak yapılmasını sağlar.
+ESHS’nin rol ve güvenli iletişim sertifikası
+Madde
+13/B – ESHS, rol ve güvenli
+iletişim sertifikası başvurusuna ilişkin aşağıdaki işlemleri yapar:
+a) Rol sunucusu temin ve kurulumunu kendi
+bünyesinde TSE tarafından EKDS ile ilgili yayımlanan TS 13681 standardına
+uygun olarak gerçekleştirir.
+b) Rol sertifikası ve güvenli iletişim sertifikası
+için gerekli olan anahtar çiftlerini KEC standardında (TS 13585) belirlenen
+güvenli elektronik imza oluşturma aracında üretir.
+c) Rol Sertifikası ve Güvenli İletişim Sertifikası
+için üretmiş olduğu Sertifika İmzalama Talepleri (Certificate
+Signing Request - CSR)
+ve Rol Sunucusunun ilgili EKDS standartları ile EKDS Yönetmeliğine uygun
+olduğuna ilişkin yetkili kurum ve kuruluşlardan alınan belge ile birlikte
+Kuruma başvuruda bulunur, Kurumun onayını alır ve bu onayı NVİGM’ye iletir.
+NVİGM, ESHS’nin
+başvurusunu inceler ve uygun bulunması halinde başvuruyu Görevli ESHS’ye iletir. Aksi durumda başvuru sahibi ESHS’ye bilgi verir.
+Görevli ESHS Rol ve Güvenli İletişim
+Sertifikalarını üretir ve güvenli bir şekilde başvuru sahibi ESHS’ye iletir.
+ESHS Rol ve Güvenli İletişim Sertifikalarını kendi güvenli
+elektronik imza oluşturma aracına yükler.
+Rol Sertifikası ve Güvenli İletişim
+Sertifikalarının yenilenmesi halinde bu maddenin birinci fıkrasının (c) bendi
+kapsamında istenen bilgi ve belgeler tekrar Kuruma sunulmaz. ESHS bu
+sertifikaların yenilenmesine ilişkin NVİGM’ye
+başvuruda bulunur ve başvuru NVİGM tarafından görevli ESHS’ye
+iletilir. Görevli ESHS tarafından Rol ve Güvenli İletişim Sertifikaları
+yenilenir ve başvuru sahibi ESHS’ye iletir.
+Kimlik
+kartına nitelikli elektronik sertifika yüklenirken kullanılacak KEC
+Madde
+13/C – ESHS, kimlik kartına
+uzaktan nitelikli elektronik sertifika yüklemek, yenilemek ve iptal etmek
+amacıyla kullanılacak KEC’e ilişkin aşağıdaki
+bilgi ve belgeleri Kuruma iletir:
+a) KEC üretici bilgileri,
+b) KEC’in kullanıldığı
+yer veya uygulama bilgisini,
+c) KEC’in, TSE tarafından
+yayınlanan KEC standartlarına uygunluğunun gösterir bilgi ve belgeyi,
+ç) Güvenli elektronik imza oluşturma aracı olarak
+kullanılacak KEC’in ortak kriterler
+uygunluk belgesini,
+d) KEC’in ortak kriterlerden
+geçen KEC donanım yazılımının (firmware) veya
+ortak kriterlerden geçen KEC güncellenen donanım yazılımının özet değerini,
+e) Nitelikli elektronik sertifika yüklerken
+kullanılacak KEC’in donanım yazılımının özet
+değerinin, ortak kriterlerden geçen KEC donanım
+yazılımının özet değeri ile eşdeğer olmasının sağlanabilmesi için gerekli
+güvenlik tedbirlerini alacağına ilişkin taahhütnameyi.
+Kimlik
+kartı vasıtasıyla
+nitelikli elektronik sertifika başvurusu
+Madde
+13/Ç – Kimlik kartı vasıtasıyla
+başvuru sahibinin kimlik doğrulama işlemi EKDS Yönetmeliğinin 30 uncu
+maddesinin birinci fıkrasının (h) bendine uygun olarak yapılır.
+Kimlik doğrulama için TS 13679 standardına uygun
+olarak KDB ve KDBO üretilir. EKDS standardına uygun olarak KDB içerisinde
+asgari;
+a) Kimliği doğrulanan kişinin Kimlik Kartı
+doğrulama sertifikası örneği,
+b) Doğrulamada kullanılan yöntem bilgisi,
+c) Doğrulama zaman bilgisi
+yer alır.
+EKDS standardına uygun olarak KDBO içerisinde
+asgari;
+a) Kimlik Doğrulama Bildiriminin Tekil Numarası,
+b) KEC Seri Numarası,
+c) KDB Doğrulama İsteğinin Özeti,
+ç) Biyometrik Doğrulama
+Durumu
+yer alır.
+Ayrıca KDBO’ya ek olarak;
+a) KEC’in üretici firma
+bilgisi,
+b) KEC’in markası ve seri
+numarası,
+c) KEC’in donanım
+yazılımı bilgisi,
+ç) KEC’in donanım
+yazılımının özet değeri,
+d) Görevli ESHS tarafından imzalanmış ve GEM
+bildirim imzalama açık anahtarını içeren sertifikası
+ilgili ESHS’ye iletilir.
+ESHS, başvuru sahibinin Kimlik Kartı ve KEC
+kullanmak suretiyle Kimlik Doğrulama Yönetmeliğine uygun olarak başvuru
+belgesini PADES-LTV formatında oluşturur.
+Kimlik
+kartına nitelikli elektronik sertifika yüklenmesi
+Madde
+13/D – ESHS kimlik kartına uzaktan
+nitelikli elektronik sertifika yüklenebilmesi için öncelikle 13/Ç maddesine uygun
+olarak başvuru sahibinin kimliğini doğrular.
+Kimlik kartında daha önceden yüklenmiş sertifika
+mevcut ise başvuru sahibi bu sertifikalara ilişkin KEC vasıtasıyla
+bilgilendirilir.
+Kimlik kartında nitelikli elektronik sertifika
+yüklenebilecek bütün alanların dolu olması halinde, başvuru sahibi KEC vasıtasıyla
+bilgilendirilir ve yeni nitelikli elektronik sertifikanın kimlik kartına
+yüklenmesi için var olan sertifikalardan hangi sertifikanın üzerine
+yazılacağına ilişkin başvuru sahibinin onayı alınarak başvurunun yapıldığı ESHS’ye iletilir.
+ESHS’ye başvuru sahibinin yeni sertifika talebi, KEC
+vasıtasıyla doğrudan ya da KDHS üzerinden iletilir. Bu talebin içerisinde
+aşağıdaki bilgilerin yer alması sağlanır:
+a) Kimlik doğrulama sonucunda üretilen ve başvuru
+sahibine ait olan KDB’nin KDBO,
+b) KEC’in donanım
+yazılımının özet değeri,
+c) Sertifika üretimi için başvuru sahibinin
+sertifika geçerlilik süresine ilişkin talep bilgisi,
+ç) Başvuru sahibinin Kimlik Kartı doğrulama
+sertifikası örneği.
+ESHS, gelen başvuru talebine ilişkin; talebin
+geldiği KEC’e ait bilgilerin, Kuruma bildirmiş
+olduğu bilgiler ile uyumlu olduğunu, KDBO’nun
+13/Ç maddesinde belirtilen kriterlere uygun
+olduğunu ve EKDS Yönetmeliği kapsamında yetkili bir KDHS tarafından
+üretilmiş olduğunu kontrol eder.
+ESHS, kendisine gelen başvuru sahibinin Kimlik
+Kartı doğrulama sertifikası örneği içerisinde yer alan bilgileri kullanarak
+nitelikli elektronik sertifikayı üretir, kendi güvenli iletişim sertifikası
+ve rol sertifikasını kullanarak KEC ile güvenli iletişim kurar, sertifikayı
+ve anahtarları doğrudan veya KDHS üzerinden KEC’e
+iletir.
+ESHS’den gelen sertifika ve anahtarlar KEC vasıtasıyla
+güvenli bir şekilde kimlik kartına yüklenir.
+Kimlik kartında önceden yüklenmiş elektronik
+sertifika olup olmadığı kontrol edilir. Yüklenecek nitelikli elektronik sertifika
+ilk sertifika ise başvuru sahibinin erişim verisini oluşturması sağlanır.
+Kimlik kartında yüklü başka elektronik sertifika bulunması halinde başvuru
+sahibine “kimlik kartındaki tüm sertifikalarda aynı erişim verisinin
+geçerli olacağı” bilgisi verilerek onayı alınır, isterse yeni erişim
+verisini oluşturması ve başvuru sahibi tarafından oluşturulan erişim
+verisinin kimlik kartına yazılması sağlanır.
+Kimlik kartına yüklenen nitelikli elektronik
+sertifikaya ilişkin başvuru taahhütnamesi ve özet değeri KEC vasıtasıyla
+başvuru sahibine gösterilir ve kimlik kartına yüklenen yeni nitelikli
+elektronik sertifika ile imzalaması sağlanır. İmzalanan taahhütname başvuru
+sahibine iletilir. ESHS bu taahhütnamenin doğruluğunu ve geçerliliğini
+kontrol eder ve nitelikli elektronik sertifikanın imzalama işlemlerinde
+kullanılmasını sağlar. Taahhütnameye ilişkin doğrulamanın geçerli olmaması
+halinde ESHS tarafından sertifika sahibi bilgilendirilerek sertifika askıya
+alınır.
+Kimlik
+kartındaki nitelikli elektronik sertifikanın yenilenmesi
+Madde
+13/E – ESHS, sertifika sahibinin
+uzaktan nitelikli elektronik sertifika yenileme talebine ilişkin kimlik
+doğrulama işlemini 13/Ç maddesine uygun olarak gerçekleştirir.
+Kimlik kartındaki sertifikalar, sertifika sahibine
+KEC vasıtasıyla gösterilir, sertifika sahibinin yenilemek istediği
+nitelikli elektronik sertifikayı seçmesi sağlanır ve başvuru sahibinin
+nitelikli elektronik sertifika yenileme talebi doğrudan veya KDHS üzerinden
+ESHS’ye iletilir. Bu talebin içerisinde;
+a) Kimlik doğrulama sonucunda üretilen ve yenileme
+talebinde bulunan sertifika sahibine ait KDB’ye
+ait KDBO’nun,
+b) KEC’in donanım
+yazılımının özet değerinin,
+c) Sertifika yenilenmesi için başvuru sahibinin
+sertifika geçerlilik süresine ilişkin talep bilgisinin,
+ç) Sertifika sahibinin Kimlik Kartı doğrulama
+sertifikası örneğinin
+yer alması sağlanır.
+ESHS öncelikle gelen nitelikli elektronik sertifika
+yenileme talebindeki sertifikanın kendisine ait olup olmadığını kontrol
+eder. Sertifika kendisine ait değilse başvuru sahibinin nitelikli
+elektronik sertifika yenileme talebini reddeder. Sertifika kendisine ait
+ise ESHS gelen yenileme talebine ilişkin olarak, talebin geldiği KEC’e ait bilgilerin Kuruma bildirmiş olduğu bilgiler
+ile uyumlu olduğunu, KDB’nin 13/Ç maddesinde
+belirtilen kriterlere uygun olduğunu ve EKDS
+Yönetmeliği kapsamında yetkili bir KDHS tarafından üretilmiş olduğunu
+kontrol eder.
+ESHS, sertifika sahibinin Kimlik Kartı doğrulama
+sertifikası örneği içerisinde yer alan bilgileri kullanarak nitelikli
+elektronik sertifikayı yeniler. Kendi güvenli iletişim sertifikası ve rol
+sertifikasını kullanarak KEC ile güvenli iletişim kurar. Sertifikayı ve
+anahtarları doğrudan veya KDHS üzerinden güvenli bir şekilde KEC’e iletir. ESHS’den gelen
+sertifika KEC vasıtasıyla güvenli bir şekilde kimlik kartına yüklenir.
+Kimlik kartında önceden yüklenmiş elektronik
+sertifika olup olmadığı kontrol edilir. Kimlik kartında yüklü başka
+elektronik sertifika mevcutsa sertifika sahibine “kimlik kartındaki tüm
+sertifikalarda aynı erişim verisinin geçerli olacağı” bilgisi verilir.
+Başvuru sahibi isterse yeni erişim verisini oluşturması ve başvuru sahibi
+tarafından oluşturulan yeni erişim verisinin kimlik kartına yazılması
+sağlanır.
+Kimlik kartında yenilenen nitelikli elektronik
+sertifikaya ilişkin başvuru taahhütnamesi ve özet değeri KEC vasıtasıyla
+başvuru sahibine gösterilir ve kimlik kartında yenilenen nitelikli
+elektronik sertifika ile imzalaması sağlanır. İmzalanan taahhütname başvuru
+sahibine iletilir. ESHS bu taahhütnamenin doğruluğunu ve geçerliliğini
+kontrol eder ve nitelikli elektronik sertifikanın imzalama işlemlerinde
+kullanılmasını sağlar. Taahhütnameye ilişkin doğrulamanın geçerli olmaması
+halinde ESHS tarafından sertifika sahibi bilgilendirilerek sertifika askıya
+alınır.
+Kimlik
+kartındaki nitelikli elektronik sertifikanın iptal edilmesi
+Madde
+13/F – Sertifika sahibi tarafından
+kimlik kartındaki nitelikli elektronik sertifikanın iptal talepleri aşağıda
+belirlenen usullerden birisi ile yapılabilir:
+a) 13 üncü maddenin birinci fıkrasında yer alan
+yöntemlerden birisiyle,
+b) KEC vasıtasıyla.
+Kimlik kartındaki nitelikli elektronik sertifikanın
+iptalinin uzaktan KEC vasıtasıyla gerçekleştirilmesi halinde sertifika
+sahibinin nitelikli elektronik sertifika iptal talebine ilişkin kimlik
+doğrulama işlemi ESHS tarafından 13/Ç maddesine uygun olarak
+gerçekleştirilir.
+Kimlik kartındaki sertifikalar, sertifika sahibine
+KEC vasıtasıyla gösterilir, sertifika sahibinin iptal etmek istediği
+nitelikli elektronik sertifikayı seçmesi sağlanır ve başvuru sahibinin
+nitelikli elektronik sertifikanın iptaline ilişkin talebi doğrudan veya
+KDHS üzerinden ESHS’ye iletilir. Bu talebin
+içerisinde;
+a) Kimlik doğrulama sonucunda üretilen ve iptal
+talebinde bulunan sertifika sahibine ait KDB’ye
+ait KDBO’nun,
+b) KEC’in donanım
+yazılımının özet değerinin,
+c) İptal edilecek sertifikanın
+yer alması sağlanır.
+ESHS öncelikle gelen iptal talebindeki nitelikli
+elektronik sertifikanın kendisine ait olup olmadığını kontrol eder.
+Nitelikli elektronik sertifika kendisine ait değilse başvuru sahibinin
+iptal talebini reddeder. Nitelikli elektronik sertifika kendisine ait ise
+gelen iptal talebini derhal işleme alır ve bu talebe ilişkin olarak,
+talebin geldiği KEC’e ait bilgilerin Kuruma
+bildirmiş olduğu bilgiler ile uyumlu olduğunu, KDBO’nun
+13/Ç maddesinde
+belirtilen kriterlere uygun olduğunu ve EKDS Yönetmeliği kapsamında yetkili
+bir KDHS tarafından üretilmiş olduğunu kontrol ettikten sonra nitelikli
+elektronik sertifikayı iptal eder.
+ESHS kendi güvenli iletişim sertifikası ve rol
+sertifikasını kullanarak KEC ile doğrudan veya KDHS üzerinden güvenli
+iletişim kurar ve KEC vasıtasıyla kimlik kartından nitelikli elektronik
+sertifikanın ve anahtarın silinmesini sağlar.”
+MADDE 4 – Aynı Yönetmeliğin 14 üncü maddesinde yer alan “en
+az yirmi (20) yıl süreyle saklar.” ibaresinden önce gelmek üzere aşağıdaki
+bent eklenmiştir.
+“g) Kimlik kartı vasıtasıyla uzaktan nitelikli
+elektronik sertifika yönetimine ilişkin tüm işlemlere, bu işlemlerin
+yapıldığı zamana işlemleri yapan kişi veya kişilere ait bilgileri içeren
+kaydı güvenliğini, gizliliğini, bütünlüğünü sağlayarak”
+MADDE 5 –
+Aynı Yönetmeliğin 37 nci maddesinde yer alan “Telekomünikasyon Kurulu”
+ibaresi “Kurul” olarak değiştirilmiştir.
+MADDE 6 – Bu Yönetmelik yayımı tarihinde yürürlüğe girer.
+MADDE 7 – Bu Yönetmelik hükümlerini Bilgi Teknolojileri ve
+İletişim Kurulu Başkanı yürütür.
+Yönetmeliğin Yayımlandığı Resmî Gazete’nin
+Tarihi
+Sayısı
+6/1/2005
+25692
+Yönetmelikte Değişiklik Yapan Yönetmeliklerin Yayımlandığı
+Resmî Gazete’nin
+Tarihi
+Sayısı
+1-
+4/2/2006
+26070
+2-
+17/10/2006
+26322
+3-
+30/3/2007
+26478
