@@ -1,0 +1,15 @@
+Kimlik kartına nitelikli elektronik sertifika yüklenmesi
+Madde 13/D – (Ek:RG-15/10/2021-31629)
+ESHS kimlik kartına uzaktan nitelikli elektronik sertifika yüklenebilmesi için öncelikle 13/Ç maddesine uygun olarak başvuru sahibinin kimliğini doğrular.
+Kimlik kartında daha önceden yüklenmiş sertifika mevcut ise başvuru sahibi bu sertifikalara ilişkin KEC vasıtasıyla bilgilendirilir.
+Kimlik kartında nitelikli elektronik sertifika yüklenebilecek bütün alanların dolu olması halinde, başvuru sahibi KEC vasıtasıyla bilgilendirilir ve yeni nitelikli elektronik sertifikanın kimlik kartına yüklenmesi için var olan sertifikalardan hangi sertifikanın üzerine yazılacağına ilişkin başvuru sahibinin onayı alınarak başvurunun yapıldığı ESHS’ye iletilir.
+ESHS’ye başvuru sahibinin yeni sertifika talebi, KEC vasıtasıyla doğrudan ya da KDHS üzerinden iletilir. Bu talebin içerisinde aşağıdaki bilgilerin yer alması sağlanır:
+a) Kimlik doğrulama sonucunda üretilen ve başvuru sahibine ait olan KDB’nin KDBO,
+b) KEC’in donanım yazılımının özet değeri,
+c) Sertifika üretimi için başvuru sahibinin sertifika geçerlilik süresine ilişkin talep bilgisi,
+ç) Başvuru sahibinin Kimlik Kartı doğrulama sertifikası örneği.
+ESHS, gelen başvuru talebine ilişkin; talebin geldiği KEC’e ait bilgilerin, Kuruma bildirmiş olduğu bilgiler ile uyumlu olduğunu, KDBO’nun 13/Ç maddesinde belirtilen kriterlere uygun olduğunu ve EKDS Yönetmeliği kapsamında yetkili bir KDHS tarafından üretilmiş olduğunu kontrol eder.
+ESHS, kendisine gelen başvuru sahibinin Kimlik Kartı doğrulama sertifikası örneği içerisinde yer alan bilgileri kullanarak nitelikli elektronik sertifikayı üretir, kendi güvenli iletişim sertifikası ve rol sertifikasını kullanarak KEC ile güvenli iletişim kurar, sertifikayı ve anahtarları doğrudan veya KDHS üzerinden KEC’e iletir.
+ESHS’den gelen sertifika ve anahtarlar KEC vasıtasıyla güvenli bir şekilde kimlik kartına yüklenir.
+Kimlik kartında önceden yüklenmiş elektronik sertifika olup olmadığı kontrol edilir. Yüklenecek nitelikli elektronik sertifika ilk sertifika ise başvuru sahibinin erişim verisini oluşturması sağlanır. Kimlik kartında yüklü başka elektronik sertifika bulunması halinde başvuru sahibine “kimlik kartındaki tüm sertifikalarda aynı erişim verisinin geçerli olacağı” bilgisi verilerek onayı alınır, isterse yeni erişim verisini oluşturması ve başvuru sahibi tarafından oluşturulan erişim verisinin kimlik kartına yazılması sağlanır.
+Kimlik kartına yüklenen nitelikli elektronik sertifikaya ilişkin başvuru taahhütnamesi ve özet değeri KEC vasıtasıyla başvuru sahibine gösterilir ve kimlik kartına yüklenen yeni nitelikli elektronik sertifika ile imzalaması sağlanır. İmzalanan taahhütname başvuru sahibine iletilir. ESHS bu taahhütnamenin doğruluğunu ve geçerliliğini kontrol eder ve nitelikli elektronik sertifikanın imzalama işlemlerinde kullanılmasını sağlar. Taahhütnameye ilişkin doğrulamanın geçerli olmaması halinde ESHS tarafından sertifika sahibi bilgilendirilerek sertifika askıya alınır.

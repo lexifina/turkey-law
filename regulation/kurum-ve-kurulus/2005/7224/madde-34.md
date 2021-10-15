@@ -1,0 +1,2 @@
+Teknik Hususlara İlişkin Tebliğ
+Madde 34 – Nitelikli elektronik sertifika başvurusu, sertifikanın oluşturulması, yayımlanması, yenilenmesi, iptali ve arşivleme süreçleri dahil olmak üzere ESHS’nin işleyişine, imza oluşturma ve doğrulama verilerine, sertifika ilkelerine ve sertifika uygulama esaslarına, imza oluşturma ve doğrulama araçlarına, ESHS’nin faaliyetleri için kullandığı sistem, cihaz ile fiziki güvenliğine, personeline, zaman damgasına ve hizmetlerine ilişkin uyulması gereken teknik kriterler tebliğ ile belirlenir. Kurum gerekli görülen hallerde tebliği günceller.

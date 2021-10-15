@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 – Bu Yönetmelik; bildirim ve sertifikasyon süreçlerine, güvenli elektronik imza oluşturma ve doğrulama verileri ile araçlarına, elektronik sertifika hizmet sağlayıcısı, Kurum, nitelikli elektronik sertifika sahibi ve üçüncü kişilerin yükümlülüklerine, denetime, faaliyetin sona erme hallerine, zaman damgasına, yabancı elektronik sertifikalara, güvenliğe, teknik ve mali hususlara ilişkin usul ve esasları kapsar.
