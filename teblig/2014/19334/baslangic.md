@@ -1,0 +1,2 @@
+PAY ALIM TEKLİFİ TEBLİĞİ
+(II-26.1)

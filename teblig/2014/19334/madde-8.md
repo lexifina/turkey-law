@@ -1,0 +1,14 @@
+Pay alım teklifinin durdurulması veya yasaklanması
+MADDE 8 – (1) Pay alım teklifi bilgi formu Kurulca onaylandıktan sonra bu formda yer alan bilgilerin yanlış, yanıltıcı veya eksik olduğunun ortaya çıkması veya bilgi formu düzenlenmeksizin pay alım teklifinde bulunulması durumlarında, Kurul pay alım teklifini durdurabilir veya yasaklayabilir.
+(2) Pay alım teklifinin durdurulması halinde, durdurma kararı kamuya duyuruluncaya kadar teklife cevap veren kişilerin bu işlemlerini iptal etmeleri ya da geri almaları zorunludur.
+(3) Pay alım teklifinin Kurul tarafından yasaklandığı durumlarda, yasaklama kararı kamuya duyuruluncaya kadar yasaklanan teklife dayanılarak gerçekleştirilen işlemler teklife cevap verenler aksini bildirmemişse geçerlidir. Ancak, yasaklama kararı kamuya duyurulduktan sonra yasaklanan teklife dayanılarak gerçekleştirilen işlemler geçersizdir.
+Aracılık sözleşmesine ilişkin esaslar
+MADDDE 9 – (1) Teklifte bulunan ile yatırım kuruluşu arasında bir aracılık sözleşmesinin imzalanması zorunludur. Payları borsada işlem görmeyen ortaklıkların paylarının zorunlu pay alım teklifine konu olması halinde, yatırım kuruluşu kullanma zorunluluğuna Kurulca muafiyet verilebilir.
+(2) (Değişik:RG-16/10/2021-31630) Aracılık sözleşmesinde aşağıdaki asgari unsurların bulunması zorunludur:
+a) Pay alım teklifi yoluyla satın alınacak payların, nama ya da hamiline yazılı olduğu, imtiyazlı olup olmadığı ve imtiyazlı ise grubu ve imtiyazın niteliği.
+b) Belirli ise birim pay için ödenecek nakit veya menkul kıymet tutarı.
+c) Alınacak ücret, komisyon ya da diğer menfaatler.
+ç) Pay alım teklifinde bulunanlar tarafından teklif için yatırım kuruluşuna tevdi edilecek tutar ve bu tutarın yetersiz kalması halinde uygulanacak prosedüre ilişkin bilgi ile bu konuda yatırım kuruluşunun yükümlülükleri.
+d) İlan, duyuru ve reklamlar ile Kurula sunulacak bilgilerin kim tarafından hazırlanacağı ve/veya sunulacağı ve sorumluluk esasları.
+e) Sözleşmenin taraflarını tanıtıcı bilgiler, imzaya yetkili kişiler ve sözleşmenin tarihi.
+(3) (Ek:RG-16/10/2021-31630) Aracılık sözleşmesine ve/veya bilgi formuna hüküm konulmak suretiyle, üzerinde işlem yasağı, hukuki ihtilaf veya başka hak iddiası bulunan payların pay alım teklifine katılımı kısıtlanamaz. Söz konusu payların pay alım teklifine konu edilmeleri durumunda bu payların bedeli, işlem yasağı sona erene ya da hukuki ihtilaflar veya hak iddiaları ortadan kalkana kadar teklif sahibi adına açılacak bir hesapta nemalandırılarak bloke edilir. Bloke edilen tutar, yatırımcı tarafından bloke gerekçesinin sona ermiş olduğunun yatırım kuruluşuna tebliğini takiben, 5 inci maddenin üçüncü fıkrasındaki esaslar çerçevesinde neması ile birlikte hak sahibine ödenir. Pay alım teklifi bilgi formunda bu nitelikteki payların bedellerinin ne şekilde nemalandırılacağına ilişkin esaslara yer verilir.

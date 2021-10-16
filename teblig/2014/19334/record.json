@@ -1,0 +1,72 @@
+{
+  "source_id": "9.5.19334",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "PAY ALIM TEKLİFİ TEBLİĞİ (II-26.1)",
+  "number": "19334",
+  "issuer": "Kurul",
+  "path": "teblig/2014/19334",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=19334&MevzuatTertip=5",
+  "source_sha256": "9bdfa943ee66cd8f4c621b6e4d9ecade4dc71ea6ca876e290eaee85cbb95c403",
+  "source_bytes": 119080,
+  "published": "2014-01-23",
+  "gazette": "28891",
+  "in_force": "2021-10-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/10/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-10-16",
+      "RG-16/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-16",
+      "16/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-02",
+      "RG-2/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-02",
+      "2/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-05",
+      "RG-5/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-05",
+      "5/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-27",
+      "RG-27/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-27",
+      "27/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ, yürürlük tarihinden sonra ortaya çıkan zorunlu pay alım teklifi yükümlülükleri ile yürürlük tarihinden sonra yapılacak gönüllü pay alım tekliflerinde uygulanmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6046,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

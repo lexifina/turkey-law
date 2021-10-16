@@ -1,0 +1,4 @@
+Rekabetçi teklif
+MADDE 23 – (1) Rekabetçi teklif, ilk gönüllü pay alım teklifinin satın alma süresi içerisinde üçüncü bir tarafça yapılan teklifi ifade eder.
+(2) Rekabetçi teklif verildiğinde; ilk teklifin kabul süresi rekabetçi teklifin kabul süresinden önce sona eriyorsa, ilk teklifin kabul süresi talep üzerine rekabetçi teklifin satın alma süresinin sona erdiği tarihe kadar uzatılabilir. Bu hüküm, rekabetçi teklifin değiştirilmesi veya yasaklanması ya da yasal hükümlerle çelişmesi halinde de uygulanır.
+(3) Hedef ortaklığın paylarını elinde bulunduran ve ilk teklifi kabul etmiş olan kişiler, ilk teklif ile ilgili kabulün rekabetçi teklife ilişkin bilgi formunun yayımlanmasından önce yapılmış olması ve ilk teklife ilişkin pay devrinin henüz gerçekleşmemiş olması şartıyla kabulü geri alabilir.

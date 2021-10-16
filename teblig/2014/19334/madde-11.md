@@ -1,0 +1,13 @@
+ÜÇÜNCÜ BÖLÜM
+Zorunlu Pay Alım Teklifine İlişkin Esaslar
+Zorunlu pay alım teklifi
+MADDE 11 – (Değişik:RG-16/10/2021-31630)
+(1) Gönüllü olarak yapılan pay alım teklifi, blok veya münferit alımlar ya da diğer herhangi bir yöntemle, tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak bir ortaklığın yönetim kontrolünü sağlayan paylarını veya oy haklarını iktisap edenler, söz konusu payların veya oy haklarının iktisabının kamuya açıklandığı tarihte pay sahibi olan diğer ortakların paylarını satın almak üzere pay alım teklifinde bulunmak zorundadır.
+(2) Ortaklığın pay sahipliğinde herhangi bir değişiklik olmasa dahi, ortakların kendi aralarında yapacakları özel yazılı anlaşmalarla yönetim kontrolünü ele geçirmeleri sonucunda da pay alım teklifi zorunluluğu doğar.
+(3) Zorunlu pay alım teklifinden yararlanabilecek pay sahipleri ve pay tutarlarının belirlenmesinde;
+a) Birinci fıkra kapsamında ortaklığın yönetim kontrolünü sağlayan payların veya oy haklarının iktisabının kamuya açıklandığı tarih,
+b) İkinci fıkra kapsamında ortaklığın yönetim kontrolünü ele geçirmeye ilişkin ortakların kendi aralarında yaptıkları özel yazılı anlaşmanın kamuya açıklandığı tarih,
+esas alınır.
+(4) Hedef ortaklığın paylarının borsada işlem görmesi durumunda pay alım teklifine konu edilebilecek pay tutarları, üçüncü fıkrada belirtilen tarih itibarıyla sahip olunan paylardan fiili pay alım teklifi başlangıç tarihine kadar varsa yapılan satışların son giren ilk çıkar esasına göre ve gün sonu net bakiyeler üzerinden düşülmesi suretiyle hesaplanır. Kamuya açıklama tarihi itibarıyla ortaklıkta pay sahibi olanlar ile pay tutarlarının belirlenmesinde takasın tamamlanmasına bakılmaksızın eşleşmiş emirler dikkate alınır. Pay alım teklifinde bulunulacak pay sahipleri ile pay tutarlarını gösteren liste Merkezi Kayıt Kuruluşu A.Ş. tarafından bu maddedeki esaslar çerçevesinde hazırlanarak fiili pay alım teklifi başlangıç tarihinden bir önceki iş günü yatırım kuruluşuna verilir.
+(5) Kurul, faaliyet konusu kamu hizmeti vermek üzere kamu kurum ve kuruluşları tarafından süreli veya süresiz olarak imtiyaz verilen bir işi görmek olup da bu imtiyazı kaldırılan veya 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanunu uyarınca faaliyet izni kaldırılan ya da temettü hariç ortaklık hakları ile yönetim ve denetimi Tasarruf Mevduatı Sigorta Fonuna devredilen halka açık ortaklıkların pay sahiplerinin korunması amacıyla, imtiyazın geri alınmasına veya 5411 sayılı Kanunun ilgili hükümlerinin uygulanmasına neden oldukları tespit edilen yönetim kontrolüne sahip gerçek ve tüzel kişilere pay alım teklifi zorunluluğu getirebilir.
+(6) Zorunlu pay alım teklifi hiçbir koşula bağlanamaz.
