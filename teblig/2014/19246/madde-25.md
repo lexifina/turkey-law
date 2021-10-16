@@ -1,0 +1,4 @@
+Fon portföyündeki varlıklara ilişkin bilgi ve belgelerin muhafazası
+MADDE 25 – (1) Fon kurulunun görevini ifa etmesine yönelik olarak taraf olunan tüm sözleşmelerin, yapılan tüm yazışmaların, bu Tebliğ kapsamında hazırlanması gereken finansal tablo ve raporların ve fon kurulu kararlarının dosyalanarak, düzenlenme tarihlerinden itibaren 5 yıldan az olmamak üzere VİDMK’nın itfasına kadar geçen süre boyunca saklanması zorunludur. Bu süre içinde davaya konu edilenlerin, davanın kesin hükme bağlanmasına kadar saklanması ve yetkili mercilerce istendiğinde ibraz edilmesi gerekir.
+(2) Fon portföyünde yer alan varlıklara esas teşkil eden tüm bilgi ve belgelerin elektronik kopyalarının, yedekleri alınmak suretiyle kurucu veya hizmet sağlayıcı nezdinde muhafaza edilmesi gerekir.
+(3) Alacaklar ve kredilere ilişkin belgelerin kaynak kuruluş veya hizmet sağlayıcı tarafından muhafaza edilmesi halinde, bu hususa hizmet sözleşmesinde yer verilir.

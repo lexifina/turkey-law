@@ -1,0 +1,2 @@
+Kurul ücretinin yatırılması
+GEÇİCİ MADDE 4 – (1) 29 uncu madde kapsamında Kurul ücretinin izahname, ihraç belgesi veya tertip ihraç belgesinin alınmasından sonra ve VİDMK’nın ihraççı havuz hesabına aktarılmasından önce ödenmesi uygulamasına, MKK tarafından konuya ilişkin usul ve esasların belirlenmesini müteakip yapılacak bir duyuru ile başlanır. Söz konusu tarihe kadar Kurul ücreti; izahname, ihraç belgesi veya tertip ihraç belgesinin fon veya İFK’ya teslimi öncesinde ödenir.

@@ -1,0 +1,4 @@
+VİDMK izahnamesinde yer alacak finansal tablolar
+MADDE 23 – (1) VİDMK izahnamesinde, fonun veya İFK’nın Türkiye Muhasebe Standartlarına uygun olarak düzenlenmiş ve bağımsız denetimden geçmiş İzahname ve İhraç Belgesi Tebliğinde belirtilen finansal tablolarına yer verilir.
+(2) Fonun veya İFK’nın faaliyetlerine bir yıldan daha kısa bir süredir devam etmesi halinde, VİDMK izahnamesinde bu süreyi kapsayan Türkiye Muhasebe Standartlarında uygun olarak düzenlenmiş ve incelemeden geçirilmiş ara dönem finansal tablolara yer verilir. Fonun yeni kurulmuş olması veya kurulmasından itibaren VİDMK ihracı yapmamış olması halinde VİDMK izahnamesinde fonun finansal tablolarına yer verilmeyebilir.
+(3) VİDMK izahnamesinde yer alacak finansal tablolara ilişkin diğer hususlarla ilgili olarak Kurulun ilgili düzenlemelerinde yer alan esaslar uygulanır.

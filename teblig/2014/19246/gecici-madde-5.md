@@ -1,0 +1,2 @@
+Hizmet sağlayıcının faaliyetleri ile fon varlıklarının mevcudiyetini inceleyecek kuruluşların belirlenmesi
+GEÇİCİ MADDE 5 – (1) 13 üncü maddenin altıncı fıkrası kapsamında yapılacak inceleme sermaye piyasasında bilgi sistemleri denetimi faaliyetinde bulunabilecek kuruluşlar listesi Kurulca belirlenene kadar sermaye piyasasında bağımsız denetim faaliyetinde bulunmakla yetkili kuruluşlarca yerine getirilir.

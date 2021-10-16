@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 3 – (1) Fonların bildirimlerinin KAP’a gönderilmesi uygulamasına, bu Tebliğin yürürlüğe girdiği tarihten sonra KAP’ın işletimini yapan kurum tarafından duyurulacak tarihte başlanır. Söz konusu tarihe kadar yapılacak bildirimler fon yerine kurucu tarafından gerçekleştirilir.
+(2) VİDMK’nın tahsisli olarak veya nitelikli yatırımcılara satılması durumunda 21 inci madde uyarınca yatırımcılara yapılması gereken ilanların MKK aracılığıyla elektronik ortamda iletilmesi uygulamasına MKK tarafından duyurulacak tarihte başlanır.

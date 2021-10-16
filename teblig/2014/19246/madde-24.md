@@ -1,0 +1,13 @@
+Fon varlıklarının kaydının tutulması
+MADDE 24 – (1) Fon işlemlerine ilişkin olarak 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu ve Kanun hükümleri çerçevesinde zorunlu defterler tutulur.
+(2) (Değişik:RG-16/10/2021-31630) Fon portföyüne dâhil edilen ve 15 inci maddenin birinci fıkrasının (a) bendinin (1), (2), (3), (4) ve (8) numaralı alt bentleri ile (b) bendinin (1), (2), (3) ve (4) numaralı alt bentlerinde sayılan her bir varlığa bir dosya numarası verilir. Fonun muhasebe kayıtlarına ilişkin açıklamada ilgili varlığın dosya numarasına yer verilmesi zorunludur.
+(3) Fon portföyüne devredilen varlıklara ilişkin dosyada asgari olarak;
+a) (Değişik:RG-16/10/2021-31630) Bankalar ve finansman şirketlerince verilen krediler ile Toplu Konut İdaresi Başkanlığının gayrimenkul satışından kaynaklanan alacaklarına ilişkin olarak; borçlunun/borçluların adı, para birimi, anapara değeri, kredinin veriliş tarihi, vadesi, faiz oranı, faiz hesaplama metodu, varsa azami faiz oranı ve tutarı ile endeks bilgileri, ödeme planı, sigorta bilgileri ile VYŞ’lerin kaynak kuruluş olduğu ihraçlara dayanak teşkil eden krediler için ayrıca kredinin devralındığı banka, varsa teminatı ve diğer bağlı hakları, devir aşamasında banka tarafından sağlanan borcun tahsil edilme yüzdesi ve süresi ile gerçeğe uygun değer bilgileri, varsa hasılat paylaşımına ilişkin esaslar ve alacakların tahsili amacıyla sonradan edinilen hak ve varlıklara ilişkin bilgiler,
+b) Finansal kiralama sözleşmelerinden doğan alacaklara ilişkin olarak; kiracının ve kiralayanın adı, kira bedeli ve ödeme planı bilgileri,
+c) Mal ve hizmet üretiminde bulunan anonim ortaklıkların ticari alacakları ile ilgili olarak; borçlunun adı, para birimi, anapara değeri, vadesi, varsa faiz oranı ve ödeme planı bilgileri,
+ç) Varsa varlığın teminatına ilişkin olarak; teminatın niteliği, rehin ve sicil bilgileri, ekspertiz değeri, sigorta bilgileri,
+yer alır. Söz konusu dosyalarda veya bu dosyaların tutulduğu elektronik ortamlarda ilgili varlığın VFF, KFF veya İFK’ya aidiyeti açık ve anlaşılır bir şekilde belirtilir.
+(4) (Değişik:RG-11/11/2018-30592) Fon portföyünde yer alan;
+a) Nakdin tutarına ve nakdin tutulduğu hesabın numarasına,
+b) Menkul kıymetlere ilişkin olarak kıymetin türü ve işlemin tipine göre; varsa fon kodu, ISIN kodu, sayısı, ihraç tarihi, ihraç değeri, nominal değeri, para birimi, vadesi, faiz oranı, faiz hesaplama metodu, ödeme planı ve saklayıcıdaki hesap numarasına ilişkin bilgilere ve Kurulca gerekli görülecek diğer hususlara,
+muhasebe kayıtlarına ilişkin açıklamalarda yer verilir.
