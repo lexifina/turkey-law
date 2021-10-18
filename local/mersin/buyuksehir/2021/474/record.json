@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "474",
+  "decision_date": "2021-10-18",
+  "title": "- MEC.KAR.( Ticari Plakaların Çekme Sürelerinin Uzatılması ).doc",
+  "listed_as": "474- MEC.KAR.( Ticari Plakaların Çekme Sürelerinin Uzatılması ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/474--meckar-ticari-plakalarin-cekme-surelerinin-uzatilmasi-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-ekim-2021-meclis-kararlari",
+  "listing_sha256": "dd33b65ed7f0a2aeef00df22ad08eed2d9dc9c94b320c41e3607d38ec828ae16",
+  "meeting_title": "18 EKİM 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
