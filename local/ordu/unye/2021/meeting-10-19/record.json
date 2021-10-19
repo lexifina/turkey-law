@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-19",
+  "number_as_published": "meeting-10-19",
+  "year": 2021,
+  "title": "ÜNYE BELEDİYE MECLİSİ 19.10.2021 OLAĞANÜSTÜ TOPLANTI KARARLARI",
+  "decision_date": "2021-10-19",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisi-19-10-2021-olaganustu-toplanti-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisi-19-10-2021-olaganustu-toplanti-kararlari/",
+  "source_sha256": "577b10e653a5a27d947e120ba28195ec7a4d62c3cd7879b5700bb30a94cd79df",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-10-19",
+  "in_force_basis": "Decision date as printed in the official council listing: 19.10.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYE MECLİSİ 19.10.2021 OLAĞANÜSTÜ TOPLANTI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisi-19-10-2021-olaganustu-toplanti-kararlari/",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
