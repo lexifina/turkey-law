@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50266",
+  "decision_date": "2021-10-20",
+  "source_id": 25543,
+  "chamber": "1",
+  "file_number": "48478",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25543/",
+  "source_sha256": "74b53ea0662e373b120e33bba78dcb5e430071ae4e9ef5c7cf58c233eb57791d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
