@@ -1,0 +1,794 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name=Generator content="Microsoft Word 15 (filtered)">
+<style type="text/css"><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:"MS PGothic";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Dialog;}
+@font-face
+	{font-family:"\@MS PGothic";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoList, li.MsoList, div.MsoList
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	font-style:italic;}
+p.stbalk, li.stbalk, div.stbalk
+	{mso-style-name:"Üst başlık";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial",sans-serif;}
+p.Dizin, li.Dizin, div.Dizin
+	{mso-style-name:Dizin;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440552765, li.edf1393440552765, div.edf1393440552765
+	{mso-style-name:edf_1393440552765;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1274102374024, li.edf1274102374024, div.edf1274102374024
+	{mso-style-name:edf_1274102374024;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1385627453728, li.edf1385627453728, div.edf1385627453728
+	{mso-style-name:edf_1385627453728;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1300114209040, li.edf1300114209040, div.edf1300114209040
+	{mso-style-name:edf_1300114209040;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440831590, li.edf1393440831590, div.edf1393440831590
+	{mso-style-name:edf_1393440831590;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452435466214, li.edf1452435466214, div.edf1452435466214
+	{mso-style-name:edf_1452435466214;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1465852004783, li.edf1465852004783, div.edf1465852004783
+	{mso-style-name:edf_1465852004783;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450279197849, li.edf1450279197849, div.edf1450279197849
+	{mso-style-name:edf_1450279197849;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.default, li.default, div.default
+	{mso-style-name:default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Dialog;
+	color:#333333;}
+p.edf1449419213507, li.edf1449419213507, div.edf1449419213507
+	{mso-style-name:edf_1449419213507;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437129215, li.edf1449437129215, div.edf1449437129215
+	{mso-style-name:edf_1449437129215;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1330948598183, li.edf1330948598183, div.edf1330948598183
+	{mso-style-name:edf_1330948598183;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1426774601522, li.edf1426774601522, div.edf1426774601522
+	{mso-style-name:edf_1426774601522;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.hvl-default, li.hvl-default, div.hvl-default
+	{mso-style-name:hvl-default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450278888507, li.edf1450278888507, div.edf1450278888507
+	{mso-style-name:edf_1450278888507;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1482513817701, li.edf1482513817701, div.edf1482513817701
+	{mso-style-name:edf_1482513817701;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1363590918387, li.edf1363590918387, div.edf1363590918387
+	{mso-style-name:edf_1363590918387;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1389255072310, li.edf1389255072310, div.edf1389255072310
+	{mso-style-name:edf_1389255072310;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1436528573148, li.edf1436528573148, div.edf1436528573148
+	{mso-style-name:edf_1436528573148;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1450278888505, li.edf1450278888505, div.edf1450278888505
+	{mso-style-name:edf_1450278888505;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1385627472073, li.edf1385627472073, div.edf1385627472073
+	{mso-style-name:edf_1385627472073;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1449437192616, li.edf1449437192616, div.edf1449437192616
+	{mso-style-name:edf_1449437192616;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1393440766750, li.edf1393440766750, div.edf1393440766750
+	{mso-style-name:edf_1393440766750;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419594272479, li.edf1419594272479, div.edf1419594272479
+	{mso-style-name:edf_1419594272479;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1465852004633, li.edf1465852004633, div.edf1465852004633
+	{mso-style-name:edf_1465852004633;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1452073582152, li.edf1452073582152, div.edf1452073582152
+	{mso-style-name:edf_1452073582152;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1429711957471, li.edf1429711957471, div.edf1429711957471
+	{mso-style-name:edf_1429711957471;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1464250365882, li.edf1464250365882, div.edf1464250365882
+	{mso-style-name:edf_1464250365882;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.edf1419597503565, li.edf1419597503565, div.edf1419597503565
+	{mso-style-name:edf_1419597503565;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:595.3pt 841.9pt;
+	margin:48.8pt 70.85pt 47.05pt 70.85pt;}
+div.WordSection2
+	{page:WordSection2;}
+-->
+</style>
+<div class="WordSection1">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="font-size:14.0pt;color:#010000"> </span></b></p>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse">
+	<tbody>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:14.0pt;color:#010000">TÜRKİYE CUMHURİYETİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="font-size:16.0pt;color:#010000">ANAYASA MAHKEMESİ</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">M.Y. BAŞVURUSU</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">(Başvuru Numarası: 2018/19824)</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000">Karar Tarihi: 20/10/2021</span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><span style="color:#010000"> </span></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">BİRİNCİ BÖLÜM</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000">KARAR</span></b></p>
+			</td>
+		</tr>
+		<tr style="height:25.0pt">
+			<td style="width:16.0cm;padding:0cm 3.5pt 0cm 3.5pt;height:25.0pt" width="605">
+			<p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+  margin-bottom:10.0pt;margin-left:0cm;text-align:center"><b><span style="color:#010000"> </span></b></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+
+<p> </p>
+
+<p><b><span style="font-size:12.0pt;font-family:"Times New Roman",serif;
+color:#010000"></span></b></p>
+
+<p> </p>
+
+<div class="WordSection2">
+<p align="right" class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:right;text-indent:1.0cm"><b><u><span style="color:#010000">GİZLİLİK TALEBİ KABUL</span></u><span style="color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="margin-left:40.0pt;border-collapse:collapse">
+	<tbody>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Başkan</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Hasan Tahsin GÖKCAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Üyeler</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Muammer TOPAL</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Recai AKYEL</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Selahaddin MENTEŞ</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000"> </span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">İrfan FİDAN</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Raportör</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Çağlar ÖNCEL</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Başvurucu</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">M.Y.</span></p>
+			</td>
+		</tr>
+		<tr style="height:22.7pt">
+			<td style="width:120.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="160">
+			<p class="MsoNormal"><b><span style="color:#010000">Vekili</span></b></p>
+			</td>
+			<td style="width:10.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="13">
+			<p class="MsoNormal"><b><span style="color:#010000">:</span></b></p>
+			</td>
+			<td style="width:270.0pt;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.7pt" valign="top" width="360">
+			<p class="MsoNormal"><span style="color:#010000">Av. Berna ÖZPINAR GÜMRÜKÇÜOĞLU</span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000"> </span></b></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">I.</span></b><span style="color:#010000"> <b>BAŞVURUNUN KONUSU</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">1. Başvuru, tıbbi ihmal sonucu zarara uğranılması nedeniyle kişinin maddi ve manevi varlığını koruma hakkının ve yargılamanın makul sürede sonuçlandırılmaması nedeniyle de adil yargılanma hakkının ihlal edildiği iddialarına ilişkindir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">II.</span></b><span style="color:#010000"> <b>BAŞVURU SÜRECİ</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">2. Başvuru 11/7/2018 tarihinde yapılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">3. Başvuru, başvuru formu ve eklerinin idari yönden yapılan ön incelemesinden sonra Komisyona sunulmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">4. Komisyonca başvurunun kabul edilebilirlik incelemesinin Bölüm tarafından yapılmasına karar verilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">5. Bölüm Başkanı tarafından başvurunun kabul edilebilirlik ve esas incelemesinin birlikte yapılmasına karar verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">6. Başvuru belgelerinin bir örneği bilgi için Adalet Bakanlığı'na gönderilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">III.</span></b><span style="color:#010000"> <b>OLAY VE OLGULAR</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">7. Başvuru formu ve eklerinde ifade edildiği şekliyle ve Ulusal Yargı Ağı Bilişim Sistemi aracılığıyla erişilen bilgi ve belgeler çerçevesinde olaylar özetle şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">8. Başvurucu 2/12/2010 tarihinde sağ bacakta akut arter tıkanıklığı tanısı<i> </i>ile Ankara Üniversitesi Tıp Fakültesi İbni Sina Araştırma ve Uygulama Hastanesinde (Hastane) ameliyat edilmiştir. Bu ameliyat sonrasında vücudunun belden aşağısının felç olduğunun belirlenmesi üzerine fizik tedavi bölümüne yönlendirilmiş ancak yaklaşık dört aylık tedavi süresince bir ilerleme kaydedilememesi nedeniyle tedaviye son verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">9. Başvurucu, zararlarının tazmini amacıyla idareye yaptığı müracaata olumsuz cevap alması üzerine 5/3/2012 tarihinde Ankara 21. Asliye Hukuk Mahkemesinde, Ankara Üniversitesi Rektörlüğü (İdare) aleyhine dava açarak maddi ve manevi zararlarının tazminini talep etmiştir. Bu mahkeme tarafından yapılan değerlendirmede 12/1/2011 tarihli ve 6100 sayılı Hukuk Muhakemeleri Kanununun 3. maddesinde yer alan düzenlemenin Anayasa Mahkemesi tarafından dava tarihinden önce iptal edilmesi nedeniyle davanın idari yargı merciinde görülmesi gerektiği belirtilmiş ve 7/6/2013 tarihinde görevsizlik kararı verilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">10. Anılan görevsizlik kararının yargı yoluna müracaat edilmeksizin 18/12/2014 tarihinde kesinleşmesi üzerine başvurucu, 31/12/2014 tarihinde Ankara 3. İdare Mahkemesinde (Mahkeme) tam yargı davası açarak İdareden maddi ve manevi zararlarının tazminini talep etmiştir. Dava dilekçesinde, ameliyat sırasında ve tedavi sürecindeki hatalı müdahalelerin bir sonucu olarak başvurucunun belinden aşağısının tümüyle felç olduğu, idrarını ve gaitasını kontrol edemediği, yatağa bağımlı hâle geldiği belirtilmiştir. Dilekçede; tıbbi müdahale öncesinde aydınlatılmış onam alınmadığı, bu işlemler hakkında yeterli bilgi verilmediği ileri sürülmüştür. İdare vekilinin cevap dilekçesinde; olayda hizmet kusurundan söz edilemeyeceği, meydana gelen neticenin tıbbi komplikasyon olduğu bildirilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">11. Mahkeme, yargılama sırasında Hacettepe Üniversitesi Adli Tıp Ana Bilim Dalı Başkanlığından bilirkişi raporu almıştır. 7/6/2017 tarihli raporda; başvurucunun ameliyatı sonrasında gelişen<i> toksik miyelitin</i> (anesteziye bağlı omurilik iltihabı) öngörülemeyen bir durum olduğu ve komplikasyon olarak değerlendirilmesi gerektiği belirtilmiş, tedavi sürecinin de tıp kurallarına uygun yürütüldüğü bildirilmiştir. Mahkeme 17/7/2017 tarihli kararı ile anılan rapora atıfta bulunarak başvurucuda felç oluşmasının tıbbi ihmalden kaynaklanmadığını, yapılan işlemlerin tıp kurallarına uygun olduğunu belirtmiş ve davayı reddetmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">12. Başvurucu, istinaf yoluna müracaat ederek Mahkemenin bilirkişi raporunu tebliğ etmeden karar vermesinin savunma hakkını kısıtladığını, bilirkişi heyetinde konunun uzmanı olan hekimler yerine adli tıp uzmanlarının yer aldığını belirtmiştir. Dilekçede ayrıca, tıbbi müdahale öncesinde bu işlemin olası sonuçları konusunda bilgilendirme yapılmadığı ileri sürülmüştür. İstinaf talebini inceleyen Ankara Bölge İdare Mahkemesi 10. İdari Dava Dairesi (Daire), Mahkemenin hükme esas aldığı bilirkişi raporunun taraflara tebliğine karar vermiş; bu kapsamda anılan rapor başvurucuya tebliğ edilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">13. Başvurucu tarafından sunulan itiraz dilekçesinde; bilirkişi heyetinin oluşturulması ile ilgili itirazlar tekrar edilerek raporun somut olayın özelliklerine uygun olmadığı belirtilmiş, aydınlatılmış onam alınmadığı iddiası tekrarlanmıştır. Daire tarafından 14/5/2018 tarihinde istinaf isteminin reddine karar verilmiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">14. Nihai karar, başvurucuya 11/6/2018 tarihinde tebliğ edilmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">15. Başvurucu 11/7/2018 tarihinde bireysel başvuruda bulunmuştur. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">IV.</span></b><span style="color:#010000"> <b>İLGİLİ HUKUK</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">16. İlgili hukuk için bkz. <i>Fındık Kılıçaslan</i>, B. No: 2015/97, 11/10/2018, §§ 19-27; <i>Cihan Beyribey</i>, B. No: 2014/19450, 26/12/2018, §§ 23-28; <i>Fesih Aydar,</i> B. No: 2015/4259, 10/1/2019, §§ 24-30.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">V.</span></b><span style="color:#010000"> <b>İNCELEME VE GEREKÇE</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">17. Anayasa Mahkemesinin 20/10/2021 tarihinde yapmış olduğu toplantıda başvuru incelenip gereği düşünüldü:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">A.</span></b><span style="color:#010000"> <b>Makul Sürede Yargılanma Hakkının İhlal Edildiğine İlişkin İddia</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">1.</span></b><span style="color:#010000"> <b>Başvurucunun İddiaları</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">18. Başvurucu, yargılamanın uzun sürmesi nedeniyle makul sürede yargılanma hakkının ihlal edildiğini iddia etmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">2.</span></b><span style="color:#010000"> <b>Değerlendirme</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">19. 31/7/2018 tarihli ve 30495 sayılı Resmî Gazete'de yayımlanarak yürürlüğe giren 25/7/2018 tarihli ve 7145 sayılı Kanun'un 20. maddesiyle 9/1/2013 tarihli ve 6384 sayılı Avrupa İnsan Hakları Mahkemesine Yapılmış Bazı Başvuruların Tazminat Ödenmek Suretiyle Çözümüne Dair Kanun'a geçici madde eklenmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">20. 6384 sayılı Kanun'a eklenen geçici maddeye göre yargılamaların uzun sürmesi ve yargı kararlarının geç veya eksik icra edilmesi ya da icra edilmemesi şikâyetiyle Anayasa Mahkemesine yapılan ve bu maddenin yürürlüğe girdiği tarih itibarıyla Anayasa Mahkemesi önünde derdest olan bireysel başvuruların başvuru yollarının tüketilmemesi nedeniyle verilen kabul edilemezlik kararının tebliğinden itibaren üç ay içinde yapılacak müracaat üzerine Tazminat Komisyonu tarafından incelenmesi öngörülmüştür.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">21. Anayasa Mahkemesi <i>Ferat Yüksel </i>(B. No: 2014/13828, 12/9/2018)<i> </i>kararında; yargılamaların makul sürede sonuçlandırılmadığı ya da yargı kararlarının geç veya eksik icra edildiği ya da hiç icra edilmediği iddiasıyla 31/7/2018 tarihinden önce gerçekleştirilen bireysel başvurulara ilişkin olarak Tazminat Komisyonuna başvuru imkânının getirilmesine ilişkin yolu ulaşılabilir olma, başarı şansı sunma ve yeterli giderim sağlama kapasitesinin bulunup bulunmadığı yönlerinden inceleyerek bu yolun etkililiğini tartışmıştır (<i>Ferat Yüksel</i>, §§ 26).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">22. <i>Ferat Yüksel</i> kararında özetle anılan başvuru yolunun kişileri mali külfet altına sokmaması ve başvuruda kolaylık sağlaması nedenleriyle ulaşılabilir olduğu, düzenleniş şekli itibarıyla ihlal iddialarına makul bir başarı şansı sunma kapasitesinden mahrum olmadığı ve tazminat ödenmesine imkân tanıması ve/veya bu mümkün olmadığında başka türlü telafi olanakları sunması nedenleriyle potansiyel olarak yeterli giderim sağlama imkânına sahip olduğu hususunda değerlendirmelerde bulunulmuştur (<i>Ferat Yüksel</i>, §§ 27-34). Bu gerekçeler doğrultusunda Anayasa Mahkemesi, ilk bakışta ulaşılabilir olan ve ihlal iddialarıyla ilgili başarı şansı sunma ve yeterli giderim sağlama kapasitesi olduğu görülen Tazminat Komisyonuna başvuru yolu tüketilmeden yapılan başvurunun incelenmesinin bireysel başvurunun <i>ikincil niteliği</i> ile bağdaşmayacağı sonucuna vararak başvuru yollarının tüketilmemiş olması nedeniyle kabul edilemezlik kararı vermiştir (<i>Ferat Yüksel</i>, §§ 35, 36).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">23. Mevcut başvurunun bu kısmı yönünden söz konusu karardan ayrılmayı gerektiren bir durum bulunmamaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">24. Açıklanan gerekçelerle başvurunun bu kısmının <i>başvuru yollarının tüketilmemesi </i>nedeniyle kabul edilemez olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">B.</span></b><span style="color:#010000"> <b>Kişinin Maddi ve Manevi Varlığını Koruma Hakkının İhlal Edildiğine İlişkin İddia</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">1.</span></b><span style="color:#010000"> <b>Başvurucunun İddiaları</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">25. Başvurucu; hatalı tıbbi müdahale sonucunda yatağa bağımlı hâle geldiğini gerek fiziksel gerekse psikolojik olarak zarar gördüğünü, tıbbi müdahale öncesinde açık ve doğrudan rızasının alınmadığını, oluşabilecek komplikasyon ile ilgili bilgilendirilmediğini ifade etmiştir. Başvurucu ayrıca, yargılama sürecinde bilirkişi raporuna karşı beyanda bulunma hakkı verilmediğini, Mahkemenin haksız bir kararla tazminat taleplerini reddettiğini beyan etmiştir. Daire kararının kesin nitelik taşımasının hukuka aykırı olduğunu belirten başvurucu, sağlık hakkı ile adil yargılanma hakkının ihlal edildiğini iddia etmiştir. Başvurucu, isminin kamuya açık belgelerde gizlenmesi talebinde bulunmuştur.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">2.</span></b><span style="color:#010000"> <b>Değerlendirme</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">26. Anayasa’nın iddianın değerlendirilmesinde dayanak alınacak "<i>Kişinin dokunulmazlığı, maddi ve manevi varlığı</i>" kenar başlıklı 17. maddesinin birinci fıkrası şöyledir:</span></p>
+
+<p class="edf1450279197849" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="font-size:11.0pt;color:#010000">"<i>Herkes, yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahiptir.</i>"<i> </i></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">27. Anayasa'nın 56. maddesinin üçüncü fıkrası şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="font-size:11.0pt;color:#010000">"<i>Devlet, herkesin hayatını, beden ve ruh sağlığı içinde sürdürmesini sağlamak; insan ve madde gücünde tasarruf ve verimi artırarak, işbirliğini gerçekleştirmek amacıyla sağlık kuruluşlarını tek elden planlayıp hizmet vermesini düzenler.</i>" </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">28. Anayasa Mahkemesi, olayların başvurucu tarafından yapılan hukuki nitelendirmesi ile bağlı olmayıp olay ve olguların hukuki tavsifini kendisi takdir eder (<i>Tahir Canan</i>, B. No: 2012/969, 18/9/2013, § 16).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">29. Anayasa’nın 17. maddesinin birinci fıkrasında, herkesin maddi ve manevi varlığını koruma ve geliştirme hakkına sahip olduğu belirtilmekte olup söz konusu düzenleme, Sözleşme’nin 8. maddesi çerçevesinde özel hayata saygı hakkı kapsamında güvence altına alınan fiziksel ve zihinsel bütünlüğün korunması hakkına karşılık gelmektedir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">30. Anayasa Mahkemesi daha önceki kararlarında, kasıt söz konusu olmaksızın hekim kusuru nedeniyle vücut bütünlüğünün zarar gördüğü şeklindeki tıbbi ihmale dair şikâyetleri Anayasa'nın 17. maddesinin birinci fıkrasında düzenlenen kişinin maddi ve manevi varlığını koruma hakkı kapsamında incelemiştir (<i>Melahat Sönmez,</i> B. No: 2013/7528, 9/9/2015; <i>Ahmet Sevim,</i> B. No: 2013/474, 9/9/2015;<i> Hilmi Düzgüner,</i> B. No: 2014/9690, 11/5/2017).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">31. Anılan kararlar doğrultusunda somut olayda başvurucunun tıbbi ihmale dayalı tüm şikâyetlerinin Anayasa'nın 17. maddesinin birinci fıkrasında düzenlenen kişinin maddi ve manevi varlığını koruma hakkı kapsamında incelenmesi gerekmektedir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">a.</span></b><span style="color:#010000"> <b>Kabul Edilebilirlik Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">32. Açıkça dayanaktan yoksun olmadığı ve kabul edilemezliğine karar verilmesini gerektirecek başka bir neden de bulunmadığı anlaşılan kişinin maddi ve manevi varlığını koruma hakkının ihlal edildiğine ilişkin iddianın kabul edilebilir olduğuna karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">b.</span></b><span style="color:#010000"> <b>Esas Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">i.</span></b><span style="color:#010000"> <b>Genel İlkeler</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">33. Anayasa'nın 17. maddesinin birinci fıkrasında herkesin maddi ve manevi varlığını koruma ve geliştirme hakkına sahip olduğu belirtilmektedir. Bu kapsamda anılan Anayasa hükmü ile kişinin maddi ve manevi varlığının bütünlüğü gerek kamusal yetkilerle donatılmış kişilerin gerekse özel kişilerin müdahalelerine karşı güvence altına alınmıştır (<i>Özkan Şen</i>, B. No: 2012/791, 7/11/2013, § 40).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">34. Anayasa’nın 17. maddesinin amacı, esas olarak bireylerin maddi ve manevi varlığına karşı devlet tarafından yapılabilecek keyfî müdahalelerin önlenmesidir. Bunun yanı sıra devletin tıbbi müdahaleler nedeniyle kişilerin maddi ve manevi varlığını etkili olarak koruma, maddi ve manevi varlığına saygı gösterme şeklinde pozitif yükümlülüğü de bulunmaktadır (<i>Ahmet Acartürk</i>, B. No: 2013/2084, 15/10/2015<i>,</i> § 49). Nitekim Anayasa’nın 56. maddesinde de belirtildiği üzere pozitif yükümlülük, sağlık alanında yürütülen faaliyetleri de kapsamaktadır (<i>İlker Başer ve diğerleri</i>, B. No: 2013/1943, 9/9/2015, § 44).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">35. Devlet, bireylerin yaşam hakkı ile maddi ve manevi varlıklarını koruma hakkı kapsamında -ister kamu isterse özel sağlık kuruluşları tarafından yerine getirilsin- sağlık hizmetlerini hastaların yaşamları ile maddi ve manevi varlıklarının korunmasına yönelik gerekli tedbirlerin alınabilmesini sağlayacak şekilde düzenlemek zorundadır (<i>Ahmet Acartürk</i>, § 51).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">36. İlke olarak tıbbi ihmallere ilişkin şikâyetler konusunda temel başvuru yolu, hukuki sorumluluğu tespit adına takip edilecek olan hukuk veya idari tazminat davası yoludur (<i>Nail Artuç</i>, B. No: 2013/2839, 3/4/2014, § 38).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">37. Maddi ve manevi varlığı koruma hakkı kapsamında hukuki sorumluluğu ortaya koymak adına adli ve idari yargıda açılacak tazminat davalarının makul derecede dikkatli ve özenli inceleme şartını yerine getirmesi gerekmektedir. Derece mahkemelerinin bu tür olaylara ilişkin yürüttükleri yargılamalarda Anayasa’nın 17. maddesinin gerektirdiği seviyede derinlik ve özenle bir inceleme yapıp yapmadıklarının ya da ne ölçüde yaptıklarının da Anayasa Mahkemesi tarafından değerlendirilmesi gerekmektedir. Zira derece mahkemeleri tarafından bu konuda gösterilecek hassasiyet, yürürlükteki yargı sisteminin daha sonra ortaya çıkabilecek benzer hak ihlallerinin önlenmesinde sahip olduğu önemli rolün zarar görmesine engel olacaktır (<i>Yasin Çıldır</i>, B. No: 2013/8147, 14/4/2016, § 57; <i>Tevfik Gayretli,</i> B. No: 2014/18266, 25/1/2018, § 32).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">38. Diğer taraftan belirtmek gerekir ki olayların oluşumuna ilişkin delillerin değerlendirilmesi öncelikle idari ve yargısal makamların ödevidir. Aynı şekilde başvuru dosyasında bulunan tıbbi bilgi ve belgelerden hareketle bilirkişilerin vardığı sonuçların doğruluğu hakkında fikir yürütmek Anayasa Mahkemesinin görevi değildir (<i>Mehmet Çolakoğlu</i>, B. No: 2014/15355, 21/2/2018, § 47). Ancak kişinin maddi ve manevi varlığını koruma hakkı kapsamında yerine getirmek zorunda olduğu usul yükümlülüklerinin somut olayda yerine getirilip getirilmediğinin nesnel bir şekilde değerlendirilmesi için ilgili anayasal kurallar bağlamında derece mahkemelerinin kendilerine tanınmış takdir yetkileri çerçevesinde hareket edip etmediklerinin denetlenmesi gerekir. Bu bağlamda müdahaleyi haklı göstermek için öne sürülen gerekçelerin ilgili ve yeterli olup olmadığı incelenmelidir (<i>Murat Atılgan,</i> B. No: 2013/9047, 7/5/2015 § 44).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">39. Bu bağlamda derece mahkemelerinin gerekçeleri, tarafların kanun yoluna başvuru imkânını etkili şekilde kullanabilmesini sağlayacak surette ayrıntılı olarak ortaya konulmalı; ulaşılan sonuçlar yeterli açıklıktaki bilimsel görüş ve raporlar gibi somut, nesnel verilere dayandırılmalıdır (<i>Murat Atılgan</i>, § 45).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">40. Tıbbi müdahaleden önce kişinin gerektiği şekilde bilgilendirilerek rızasının alınmaması, kişinin maddi ve manevi varlığını koruma hakkının ihlaline sebep olabilir. İstisnai hâller dışında tıbbi müdahale ancak ilgili kişi bilgilendirilip rızası alındıktan sonra yapılabilir. Hastaların durumun farkında olarak karar verebilmelerini sağlamak için uygulanması düşünülen tedavi ve bununla bağlantılı riskler hakkında kendilerine bilgi verilmiş olmalıdır. Bunun yanı sıra yapılan bilgilendirme ile tıbbi müdahale arasında hastanın sağlıklı bir kanaate varmasını sağlayacak kadar uygun bir zaman aralığı bırakılmış olmalıdır (<i>Ahmet Acartürk</i>, § 56).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">ii.</span></b><span style="color:#010000"> <b>İlkelerin Olaya Uygulanması</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">41. Anayasa Mahkemesi, Anayasa'nın yukarıda değinilen 17. maddesi kapsamında devlete düşen pozitif yükümlülüklerin somut olay bağlamında yerine getirilip getirilmediğini denetlemek durumundadır (<i>Tevfik Gayretli,</i> § 36). Bu sebeple başvuruya konu olay, devletin, kişinin maddi ve manevi varlığını koruma ve geliştirme hakkına ilişkin pozitif yükümlülüğü kapsamında incelenmiştir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">42. Somut olayda başvurucunun iddialarının; hatalı tıbbi müdahaleler sonucunda vücudunun belden aşağısının felç olmasında idarenin hizmet kusuru bulunmasına rağmen, açmış olduğu tam yargı davasının hatalı bir değerlendirmeyle reddedilerek zararlarının giderilmemesine ve olası riskler hakkında bilgilendirilmediğine yönelik olduğu anlaşılmaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">43. Mahkeme 7/6/2017 tarihli bilirkişi raporundaki tespitleri gözönünde bulundurarak karar vermiştir. Bilirkişi raporu incelendiğinde; başvurucunun iddialarının, uzman bilirkişi heyeti tarafından başvurucuya ait tüm tedavi geçmişine, tıbbi bilgi ve belgelere göre değerlendirildiği görülmüştür. Raporda, başvurucunun sağlık şikâyetlerinin uygulanan cerrahi operasyona ve anesteziye bağlı oluşabilecek komplikasyonlar olarak kabul edilmesi gerektiği ve başvurucuya yapılan uygulamaların tıp kurallarına uygun olduğu değerlendirmesine yer verilmiştir. Buna göre derece mahkemesince yapılan yargılamada ve uzman bilirkişi raporunda yeterli somut bulgu ve tespitlere yer verilerek başvurucunun iddialarının ayrıntılı bir biçimde tartışıldığı ve karşılandığı söylenebilir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">44. Bununla birlikte başvurucunun bilirkişi raporunun tebliğ edilmemesi nedeniyle savunma hakkının kısıtlandığını ileri sürdüğü anlaşılmış ise de Dairenin istinaf incelemesi sırasında bilirkişi raporunu taraflara tebliğ ettiği ve başvurucunun bu raporu inceleyerek itiraz dilekçesi sunduğu görülmüştür (bkz. §§ 12-13). Bu itibarla, yargılama sürecinde bir avukat tarafından temsil edilen başvurucunun kararlara karşı kanuni yollara başvurabildiği ve bu surette meşru çıkarlarının korunması için söz konusu davaya gerekli olduğu ölçüde etkili katılımının sağlandığı, dava dosyasını inceleyip ayrıca bilgi ve belge sunabildiği, toplanan delillerden haberdar edildiği anlaşılmaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">45. Diğer taraftan hukukumuzda hasta hakları, tıbbi işlemlerden önce kişilerin bu işlemler ve sonuçları hakkında aydınlatılması yükümlülüğü ve Sağlık Bakanlığının tıbbi hizmetler sunan kurumlar üzerindeki denetim görevi konusunda oldukça ayrıntılı ve yeterli düzenlemelerin mevcut olduğu anlaşılmaktadır (<i>Ahmet Acartürk</i>, § 66). Ancak bu düzenlemelerin teorik olarak mevcut olması yeterli olmayıp Anayasa'nın 17. maddesindeki güvencelerin sağlanabilmesi için pratikte de etkin bir şekilde uygulanması gerekmektedir (<i>Mehmet Çolakoğlu</i>, § 49).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">46. Somut olayda başvurucu, söz konusu tıbbi müdahaleden önce olası riskler hakkında bilgilendirilmediğini ve gerektiği şekilde rızasının alınmadığını ileri sürmüştür. Başvurucunun bu iddiasını dava ve istinaf dilekçelerinde ileri sürdüğü ancak mahkemenin ve Dairenin kararında bu konuyla ilgili hiçbir gerekçeye yer verilmediği gözetildiğinde anılan iddianın yargılama makamları tarafından karşılanmadığı anlaşılmaktadır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">47. Bu durumda ameliyat sonucu oluşabilecek komplikasyon riski yönünden başvurucuya bilgi verilip verilmediğine ilişkin olarak yargılama sürecinde bir araştırma yapılmamış ve bu konu açıklığa kavuşturulamamıştır. Dolayısıyla derece mahkemelerinin kararlarında, başvurucunun ameliyat edilmeden önce yeterli bir biçimde aydınlatılıp aydınlatılmadığı ve bu durumun hukuken sonuca etkisi araştırılıp tartışılmamıştır. </span></p>
+
+<p class="edf1465852004633" style="margin-top:0cm;margin-right:14.15pt;
+margin-bottom:10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">48. Sonuç olarak; başvurucunun vücut bütünlüğüne yönelik tıbbi müdahale öncesinde tıp kurallarına göre öngörülebilir nitelikte komplikasyon ve riskler hakkında yeterli bir biçimde aydınlatılmadığı iddiası yönünden mahkeme kararlarında konuyla ilgili ve yeterli bir gerekçe ortaya konulmadığı anlaşılmaktadır. Üstelik başvurucunun belirtilen iddia ve şikâyetleri, yargılamanın sonucuna doğrudan etki edebilecek mahiyettedir. Dolayısıyla yargısal makamlarca bu değerlendirmelerin yapılmaması nedeniyle kişinin maddi ve manevi varlığının korunması ve geliştirilmesi hakkı bakımından kamu makamlarının pozitif yükümlülüklerini yerine getirmedikleri kanaatine varılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">49. Açıklanan gerekçelerle Anayasa’nın 17. maddesinde güvence altına alınan kişinin maddi ve manevi varlığının korunması hakkının ihlal edildiğine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">C.</span></b><span style="color:#010000"> <b>6216 Sayılı Kanun'un 50. Maddesi Yönünden</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">50. 30/3/2011 tarihli ve 6216 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun'un 50. maddesinin ilgili kısmı şöyledir:</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> “(1) Esas inceleme sonunda, başvurucunun hakkının ihlal edildiğine ya da edilmediğine karar verilir. İhlal kararı verilmesi hâlinde ihlalin ve sonuçlarının ortadan kaldırılması için yapılması gerekenlere hükmedilir…</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><i><span style="font-size:11.0pt;color:#010000"> (2) Tespit edilen ihlal bir mahkeme kararından kaynaklanmışsa, ihlali ve sonuçlarını ortadan kaldırmak için yeniden yargılama yapmak üzere dosya ilgili mahkemeye gönderilir. Yeniden yargılama yapılmasında hukuki yarar bulunmayan hâllerde başvurucu lehine tazminata hükmedilebilir veya genel mahkemelerde dava açılması yolu gösterilebilir. Yeniden yargılama yapmakla yükümlü mahkeme, Anayasa Mahkemesinin ihlal kararında açıkladığı ihlali ve sonuçlarını ortadan kaldıracak şekilde mümkünse dosya üzerinden karar verir.”</span></i></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">51. Başvurucu, yargılamanın yenilenmesini ve 150.000 TL manevi tazminata hükmedilmesini istemiştir. </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">52. Anayasa Mahkemesinin <i>Mehmet Doğan</i> ([GK], B. No: 2014/8875, 7/6/2018) kararında ihlal sonucuna varıldığında ihlalin nasıl ortadan kaldırılacağı hususunda genel ilkeler belirlenmiştir. Anayasa Mahkemesi diğer bir kararında ise bu ilkelerle birlikte ihlal kararının yerine getirilmemesinin sonuçlarına da değinmiş ve bu durumun ihlalin devamı anlamına geleceği gibi ilgili hakkın ikinci kez ihlal edilmesiyle sonuçlanacağına işaret etmiştir (<i>Aligül Alkaya ve diğerleri (2)</i>, B. No: 2016/12506, 7/11/2019).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">53. Bireysel başvuru kapsamında bir temel hakkın ihlal edildiğine karar verildiği takdirde ihlalin ve sonuçlarının ortadan kaldırıldığından söz edilebilmesi için temel kural, mümkün olduğunca eski hâle getirmenin yani ihlalden önceki duruma dönülmesinin sağlanmasıdır. Bunun için ise öncelikle ihlalin kaynağı belirlenerek devam eden ihlalin durdurulması, ihlale neden olan karar veya işlemin ve bunların yol açtığı sonuçların ortadan kaldırılması, varsa ihlalin sebep olduğu maddi ve manevi zararların giderilmesi, ayrıca bu bağlamda uygun görülen diğer tedbirlerin alınması gerekmektedir (<i>Mehmet Doğan</i>, §§ 55, 57). </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">54. İhlalin mahkeme kararından kaynaklandığı veya mahkemenin ihlali gideremediği durumlarda Anayasa Mahkemesi, 6216 sayılı Kanun’un 50. maddesinin (2) numaralı fıkrası ile Anayasa Mahkemesi İçtüzüğü'nün 79. maddesinin (1) numaralı fıkrasının (a) bendi uyarınca ihlalin ve sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere kararın bir örneğinin ilgili mahkemeye gönderilmesine hükmeder. Anılan yasal düzenleme, usul hukukundaki benzer hukuki kurumlardan farklı olarak ihlali ortadan kaldırmak amacıyla yeniden yargılama sonucunu doğuran ve bireysel başvuruya özgülenen bir giderim yolunu öngörmektedir. Bu nedenle Anayasa Mahkemesi tarafından ihlal kararına bağlı olarak yeniden yargılama kararı verildiğinde usul hukukundaki yargılamanın yenilenmesi kurumundan farklı olarak ilgili mahkemenin yeniden yargılama sebebinin varlığını kabul hususunda herhangi bir takdir yetkisi bulunmamaktadır. Dolayısıyla böyle bir kararın kendisine ulaştığı mahkemenin yasal yükümlülüğü, ilgilinin talebini beklemeksizin Anayasa Mahkemesinin ihlal kararı nedeniyle yeniden yargılama kararı vererek devam eden ihlalin sonuçlarını gidermek üzere gereken işlemleri yerine getirmektir (<i>Mehmet Doğan</i>, §§ 58, 59; <i>Aligül Alkaya ve diğerleri (2)</i>, §§ 57-59, 66, 67).</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">55. İncelenen başvuruda, tıbbi müdahalenin öngörülebilir nitelikteki komplikasyon ve riskleri hakkında yeterli bilgi verilmemesi, dolayısıyla özenli bir yargılama yapılmaması nedeniyle ihlal kararı verilmiştir. Bu durumda ihlalin derece mahkemesi kararından kaynaklandığı anlaşılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">56. Bu durumda kişinin maddi ve manevi varlığını koruma hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasında hukuki yarar bulunmaktadır. Buna göre yapılacak yeniden yargılama ise 6216 sayılı Kanun'un 50. maddesinin (2) numaralı fıkrasına göre ihlalin ve sonuçlarının ortadan kaldırılmasına yöneliktir. Bu kapsamda yeniden yargılama sürecinde mahkemelerce yapılması gereken iş, öncelikle hak ihlaline yol açan mahkeme kararının ortadan kaldırılmasından ve Anayasa Mahkemesini ihlal sonucuna ulaştıran nedenleri gideren, ihlal kararında belirtilen ilkelere uygun yeni bir karar verilmesinden ibarettir. Bu sebeple kararın bir örneğinin yeniden yargılama yapılmak üzere ilgili yargı merciine gönderilmesine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">57. İhlalin ve sonuçlarının ortadan kaldırılması için yeniden yargılamanın yeterli bir giderim sağlayacağı anlaşıldığından tazminat talebinin reddine karar verilmesi gerektiği sonucuna ulaşılmıştır.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">58. Dosyadaki belgelerden tespit edilen 294,70 TL harç ve 3.600 TL vekâlet ücretinden oluşan toplam 3.894,70 TL yargılama giderinin başvurucuya ödenmesine karar verilmesi gerekir.</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><b><span style="color:#010000">VI.</span></b><span style="color:#010000"> <b>HÜKÜM</b></span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">Açıklanan gerekçelerle;</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">A. Başvurucunun kamuya açık belgelerde kimliğinin gizli tutulması talebinin KABULÜNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">B. 1. Makul sürede yargılanma hakkının ihlal edildiğine ilişkin iddianın <i>başvuru yollarının tüketilmemesi </i>nedeniyle KABUL EDİLEMEZ OLDUĞUNA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:42.5pt"><span style="color:#010000">2. Kişinin maddi ve manevi varlığını koruma hakkının ihlal edildiğine ilişkin iddianın KABUL EDİLEBİLİR OLDUĞUNA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">C. Anayasa’nın 17. maddesinde güvence altına alınan kişinin maddi ve manevi varlığını koruma hakkının İHLAL EDİLDİĞİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">D. Kararın bir örneğinin kişinin maddi ve manevi varlığını koruma hakkının ihlalinin sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmak üzere Ankara 3. İdare Mahkemesine (E.2014/2284, K.2017/2216) GÖNDERİLMESİNE, </span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">E. Başvurucunun tazminat talebinin REDDİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">F. 294,70 TL harç ve 3.600 TL vekâlet ücretinden oluşan toplam 3.894,70 TL yargılama giderinin başvurucuya<b> </b>ÖDENMESİNE,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">G. Ödemenin, kararın tebliğini takiben başvurucunun Hazine ve Maliye Bakanlığı’na başvuru tarihinden itibaren dört ay içinde yapılmasına, ödemede gecikme olması hâlinde bu sürenin sona erdiği tarihten ödeme tarihine kadar geçen süre için yasal FAİZ UYGULANMASINA,</span></p>
+
+<p class="MsoNormal" style="margin-top:0cm;margin-right:14.15pt;margin-bottom:
+10.0pt;margin-left:14.15pt;text-align:justify;text-indent:1.0cm"><span style="color:#010000">H. Kararın bir örneğinin Adalet Bakanlığı’na GÖNDERİLMESİNE 20/10/2021 tarihinde OYBİRLİĞİYLE karar verildi.</span></p>
+</div>
