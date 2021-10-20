@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50267",
+  "decision_date": "2021-10-20",
+  "source_id": 25544,
+  "chamber": "1",
+  "file_number": "48467",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25544/",
+  "source_sha256": "ab65aa6993a8958a3104e232a57e338a462c64432c7c46fa3e00acab255f0c2c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
