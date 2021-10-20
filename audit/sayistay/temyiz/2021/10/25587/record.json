@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50329",
+  "decision_date": "2021-10-20",
+  "source_id": 25587,
+  "chamber": "5",
+  "file_number": "48633",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25587/",
+  "source_sha256": "4e35e9fa4a13cb960d0265e78b98c9d952dbfcb44dce7416e28228f17c533f0c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
