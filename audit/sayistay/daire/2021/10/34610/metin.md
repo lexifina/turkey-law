@@ -1,0 +1,13 @@
+Rapor maddesinde; Kadrosu Uygulamalı Bilimler Fakültesi Yönetim Bilişim Sistemleri bölümünde olan, Dr. Öğretim Üyesi …’in, Sosyal Hizmetler Bölümü Başkanlığına 2547 sayılı Kanunun 21’inci maddesine aykırı olarak vekâlet etmesi sebebiyle idari görev ödeneği ile ders yükü muafiyetinden faydalanamayacağından, kendisine idari görev ödeneği ve ders yükü muafiyeti uygulanmak suretiyle ek ders ücreti olarak ödenen toplam … TL’nin kamu zararı olduğu iddia edilmiştir.
+
+2547 sayılı Yükseköğretim Kanununun 21’inci maddesinde; bölüm başkanlarının bölümün aylıklı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde yardımcı doçentleri arasından fakültelerde dekanca, fakülteye bağlı yüksekokullarda müdürün önerisi üzerine dekanca, rektörlüğe bağlı yüksekokullarda müdürün önerisi üzerine rektörce üç yıl için atanacağı, belirtilmiş olmakla beraber, Uygulamalı Bilimler Fakültesi Sosyal Hizmetler Bölümü, yeni açılan, öğretim elemanı olmayan ve aktif hale getirilmeye çalışılan bir bölüm olduğundan, bu Bölümü eğitim-öğretime hazırlamak ve bilimsel araştırma altyapısını oluşturmak üzere Fakülte içerisinden Sosyal-Beşeri ve İdari Bilimler Temel Alanı- Yönetim ve Strateji Bilim alanında uzman olan Dr. Öğretim Üyesi …’in vekâleten bölüm başkanı olarak atanmasının zaruretten kaynaklanmış bir atama olduğu anlaşılmaktadır.
+
+Bu sebeple, Dr. Öğretim Üyesi …’e bölüm başkanı olarak yaptığı görev gereği ödenen idari görev ödeneği ve ek ders ücreti kamu zararı olarak değerlendirilemeyeceğinden, ilişilecek bir husus bulunmadığına ve yersiz tahsil edildiği anlaşılan … TL’nin ahizine iadesine;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğu ile;
+
+Azınlık Görüşü:
+
+Üye … ve …’ın karşı oy gerekçesi:
+
+“2547 sayılı Kanunun 21’inci maddesinde bölüm başkanlarının atanma usulleri ile bu görevlere vekalet edebilecek olanlar, 2547 sayılı Kanunun 36’ncı maddesinde de bölüm başkanları için haftalık ders yükü süreleri belirtilenmiş olup, söz konusu idari görevleri 2547 sayılı Kanunla belirtilen usul dışında vekaleten yürüten öğretim elemanlarına yürüttükleri görevlerinden dolayı idari görev ödeneği ödenmesi ve ders yükü muafiyeti tanınması mümkün değildir. Dr. Öğretim Üyesi …’in kadrosu Uygulamalı Bilimler Fakültesi Yönetim Bilişim Sistemleri bölümünde iken, Sosyal Hizmetler bölümü başkanlığına mevzuata aykırı olarak vekalet etmiş olması neticesinde kendisine idari görev ödeneği ödenmesi ve ek ders muafiyeti tanınması sonucu … TL kamu zararı doğmuş olup bu tutar ahizinden tahsil edildiğinden konu hakkında ilişik kalmadığına karar verilmesi gerekir.”

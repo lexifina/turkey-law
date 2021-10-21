@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35681",
+  "decision_date": "2021-10-21",
+  "source_id": 34610,
+  "chamber": "2",
+  "ilam_number": "134",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34610/",
+  "source_sha256": "4d38f42e795f1cb046b1e5a38e627473c6420634246a9de42a79e9da6702aa25",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
