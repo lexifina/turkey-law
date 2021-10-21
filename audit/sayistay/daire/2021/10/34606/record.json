@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "270",
+  "decision_date": "2021-10-21",
+  "source_id": 34606,
+  "chamber": "4",
+  "ilam_number": "135",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34606/",
+  "source_sha256": "dfbad6d8f189c5f47a9916fb505fec580920d61faa18a3ba7a8a8c3b7c0d86a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
