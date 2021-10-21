@@ -1,0 +1,4 @@
+Yabancı vakıf başvurularının incelenmesi ve izin
+Madde 24 - Yabancı vakıfların Türkiye’deki faaliyetleriyle ilgili başvuru formu ve ekleri Bakanlıkça incelenir ve varsa eksiklikleri tamamlatılır.
+Dışişleri Bakanlığının (Ek ibare:RG-9/7/2020-31180) ve gerektiğinde ilgili diğer kurumların da konu ile ilgili görüşü alındıktan sonra, Bakanlıkça gerekli değerlendirme yapılır ve değerlendirmenin olumlu olması halinde, iznin türü, kapsamı ve süresi de kararda belirtilir. Temsilcilik ve şube açma, üst kuruluş kurma veya üst kuruluşlara katılma durumlarında izin süresiz verilir. Başvuru sonuçlandıktan sonra, başvuru sahibine ve form ve ekleri ile birlikte de ilgili valiliğe on gün içinde bildirilir.
+Süreli izinler azami beş yıldır. Ancak, Bakanlık sürenin yetersiz olması halinde bu süreyi uzatabilir. Süre uzatımı talebi, sürenin dolmasından en az üç ay önce ve gerekçeli bir yazı ile yapılır. Süre uzatımının değerlendirilmesi ve sonuç için yukarıda belirtilen usul uygulanır.

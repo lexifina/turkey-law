@@ -1,0 +1,5 @@
+Kuruluş bildirimi ve dernek tüzüğünün incelenmesi
+Madde 6 - Kuruluş bildirimi ve ekinde verilen belgelerin doğruluğu ile dernek tüzüğü, alındı belgesinin düzenlendiği tarihten itibaren altmış gün içinde mülki idare amiri tarafından bizzat veya (Değişik ibare:RG-9/7/2020-31180) sivil toplumla ilişkiler birimlerine yetki verilmek suretiyle incelenir. İlçelerde kurulan derneklerin tüzükleri de ilgili valiliklerce incelenir. Yapılan inceleme sonucunda, tespit edilen Kanuna aykırılık veya noksanlığın giderilmesi kuruculardan yazılı olarak istenir.
+Kuruluş bildirimi ve ekleri ile dernek tüzüğünde, Kanuna aykırılık veya noksanlık bulunmadığı takdirde ya da Kanuna aykırılık veya noksanlığın yapılan tebligat üzerine otuz gün içinde giderilmiş olması halinde, mülki idare amirliği tarafından keyfiyet bir yazı ile dernek geçici yönetim kurulu başkanlığına derhal bildirilir.
+Kanuna aykırılık veya noksanlık otuz gün içinde giderilmediği takdirde mülki idare amiri, yetkili asliye hukuk mahkemesinde derneğin feshi hakkında davanın açılması için durumu Cumhuriyet savcılığına bildirir.
+(Mülga fıkra:RG-30/10/2011-28100)

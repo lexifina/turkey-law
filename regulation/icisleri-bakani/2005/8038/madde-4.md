@@ -1,0 +1,27 @@
+Tanımlar
+Madde 4 – (Değişik:RG-9/7/2020-31180)
+Bu Yönetmelikte geçen;
+Bakan: İçişleri Bakanını,
+Bakanlık: İçişleri Bakanlığını,
+Birlik: 3335 sayılı Uluslararası Nitelikteki Teşekküllerin Kurulması Hakkında Kanun kapsamında bulunan birlik, federasyon veya benzeri teşekkülleri,
+Dernek: 5253 sayılı Dernekler Kanunu ile 4721 sayılı Türk Medeni Kanununa göre kurulan dernekleri ve şubelerini, derneklerin oluşturdukları federasyonları ve federasyonların oluşturdukları konfederasyonlar ile yabancı derneklerin Türkiye’deki şube veya temsilciliklerini,
+Dernek eklentisi: Derneklere ait lokaller, umuma açık kamp, spor saha ve salonları ile iktisadi işletmeler hariç, yurt, kitaplık, çocuk bakım yuvası, huzur evi ve aşevi gibi dernekten ayrı bir varlığı olmayan ve derneğin amacını doğrudan desteklemek için kurulmuş yerleri,
+Dernek merkezi: Derneğin yerleşim yerinin bulunduğu il veya ilçeyi,
+Derneğin yerleşim yeri: Derneğin yönetim faaliyetlerinin yürütüldüğü yeri,
+Federasyon: Kuruluş amaçları aynı olan en az beş derneğin bir araya gelerek oluşturduğu tüzel kişiliği bulunan üst kuruluşu,
+Genel Müdürlük: Sivil Toplumla İlişkiler Genel Müdürlüğünü,
+İl müdürlüğü: Valilik bünyesindeki il sivil toplumla ilişkiler müdürlüğünü,
+İl müdürü: İl sivil toplumla ilişkiler müdürünü,
+Kanun: 5253 sayılı Dernekler Kanununu,
+Kar amacı gütmeyen kuruluş: Merkezleri yurt dışında bulunan dernek ve vakıf dışındaki diğer kar amacı gütmeyen kuruluşları,
+Konfederasyon: Dernekler tarafından oluşturulan kuruluş amaçları aynı en az üç federasyonun bir araya gelmesi ile kurulan tüzel kişiliği bulunan üst kuruluşu,
+Kütük: Dernekler kütüğünü,
+Medeni Kanun: 4721 sayılı Türk Medeni Kanununu,
+Mikro kredi: Gelir getirici bir faaliyette bulunmalarını sağlamak amacıyla sandık üyelerine ödünç olarak verilen küçük bir sermayeyi,
+Mülki idare amirliği: Dernek merkezinin bulunduğu yerin valilik veya kaymakamlığını,
+Mülki idare amiri: Dernek merkezinin bulunduğu yerin vali veya kaymakamını,
+Sandık: Derneklerin üyelerine kar payı dağıtmamak, gelir, faiz veya başka adlarla üyelerine para aktarmamak şartıyla, üyelerinin yiyecek, giyecek gibi zaruri ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi ihtiyaçlarını karşılamak için kurdukları tüzel kişiliği olmayan kuruluşu,
+Sivil toplumla ilişkiler birimi: İl sivil toplumla ilişkiler müdürlüğü ve ilçe sivil toplumla ilişkiler müdürlüğü veya şefliğini,
+Yabancı dernek: Merkezleri yurt dışında bulunan dernekler ile dernek ve vakıf dışındaki kâr amacı gütmeyen kuruluşları,
+Yabancı vakıf: Merkezleri yurt dışında bulunan vakıfları,
+ifade eder.

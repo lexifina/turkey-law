@@ -1,0 +1,6 @@
+Defterlerin tasdiki
+Madde 36 – (Değişik:RG-9/7/2020-31180)
+Bu Yönetmelikte yazılı defterleri kullanacak dernekler, elektronik ortamda tutulacak defterler hariç olmak üzere, bunları kullanmaya başlamadan önce il müdürlüğüne veya notere tasdik ettirirler. Bu defterlerin kullanılmasına sayfaları bitene kadar devam edilir ve defterlerin ara tasdiki yapılmaz. Ancak, Yevmiye Defteri kullanılacağı yıldan önce gelen son ayda, her yıl yeniden tasdik ettirilir. Büyük Defterin onaylatılması zorunlu değildir.
+Tasdik edilen her defter için ayrı bir tasdik numarası verilir. Derneğin adı, kütük numarası, yerleşim yeri, defterin türü, defterin kaç sayfadan ibaret olduğu, tasdik tarihi, tasdik numarası, tasdiki yapan makamın resmi mühür ve imzasını içeren ve şekli (EK-11)’de belirtilen, elektronik ortamda tutulan Tasdik Şerhi Formu doldurulup defterin ilk sayfasına yapıştırılarak köşeleri tasdiki yapan makam tarafından mühürlenir. Defterin son sayfası, defterin kaç sayfadan ibaret olduğu, tasdik tarihi ve numarası belirtilerek tasdik makamı tarafından mühürlenir ve imzalanır.
+Defterlerin her sayfası sıra numarasıyla teselsül edip etmediği kontrol edilerek mühürlenir.
+İl müdürlüğü, tasdikini yaptığı defterlere ilişkin bilgileri elektronik ortamda tutulan, örneği EK-12’de yer alan Tasdik Defterine kaydeder.

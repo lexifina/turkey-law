@@ -1,0 +1,4 @@
+Bildirimin şekli (Değişik başlık:RG-21/10/2021-31635)
+MADDE 19 – (Değişik:RG-23/1/2013-28537)(1)
+Yurtdışından yardım alacak olan dernekler (Ek ibare:RG-9/7/2020-31180) ile Kanunun 5 inci maddesi kapsamında faaliyet izni verilen yabancı dernekler ile yabancı vakıflar ve kar amacı gütmeyen kuruluşlar, (Değişik ibare:RG-21/10/2021-31635) Ek-4/A’da belirtilen Yurtdışından Yardım Alma Bildirimini doldurup mülki idare amirliğine bildirimde bulunurlar.
+(Ek:RG-21/10/2021-31635) Yurt dışına yardım yapacak dernekler ve Kanunun 5 inci maddesi kapsamında faaliyet izni verilen yabancı dernekler ile yabancı vakıflar ve kar amacı gütmeyen kuruluşlar, yardım yapılmadan önce Ek-4/B’de belirtilen Yurt Dışına Yapılacak Yardım Bildirimini, yardım gerçekleştirildikten sonra ise Ek-4/C’de belirtilen Yurt Dışına Yapılan Yardım Faaliyet Sonuç Bildirimini merkezinin bulunduğu sivil toplumla ilişkiler birimine verirler.

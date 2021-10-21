@@ -1,0 +1,8 @@
+Başvuru
+Madde 58 - İl merkezlerinde açılacak lokaller için valiliğe, büyükşehir belediyesi sınırları içinde kalan ilçeler dahil olmak üzere diğer ilçelerde açılacak lokaller için kaymakamlığa (Mülga ibare:RG-9/7/2020-31180) (…) başvurulur. Başvurulara aşağıda belirtilen belgeler eklenir.
+a) Lokal açılması konusunda alınmış yönetim kurulu kararının örneği,
+b) (Değişik:RG-30/10/2011-28100) Lokal olarak açılacak yerin mülk sahibi veya kiracısı olduğuna, ana gayrimenkulün mesken, iş veya ticaret yeri olduğuna, belediye ve mücavir alan sınırları içinde bulunup bulunmadığına dair dernek başkanı tarafından imzalanmış (Mülga ibare:RG-9/7/2020-31180) (…) beyan,
+c) Ana gayrimenkulun tapu kayıtlarında mesken olarak görünen yerler için kat maliklerinin oy birliği ile aldıkları kararın örneği, mesken ve işyerinin birlikte yer aldığı binalarda mesken sahiplerinin tamamının onayı ve işyeri sahiplerinin oy çokluğu ile aldıkları kararın örneği, iş hanlarında ise yönetim kurulu kararı örneği,
+d) Derneklerin; belediye ve mücavir alanlar içinde açacakları lokaller için yapı kullanma (iskan) izin belgesi, bu belgenin bulunmadığı durumlarda ise ilgili belediyeden alınacak söz konusu yerin lokal olarak kullanılmasında sakınca olmadığına dair belge; bu alanlar dışındaki lokaller için (Değişik ibare:RG-9/7/2020-31180) çevre ve şehircilik müdürlüklerinden alınacak lokal olarak kullanılmasında sakınca olmadığına dair belge.
+Belgeleri eksik olan veya mevzuata uygun olmayan başvurular değerlendirmeye alınmaz ve eksikliklerin tamamlanması için otuz günlük ek süre tanınır. Bu süre sonunda eksikliklerin tamamlanmaması halinde başvuru işlemden kaldırılır.
+Lokal olarak açılan yerin yerleşim yerinin değiştirilmesi halinde yukarıda sayılan işlemler tekrar edilir.

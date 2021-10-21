@@ -1,0 +1,2 @@
+Lokallerin denetimi
+Madde 65 - Mülki idare amiri, dernek lokallerinin, açma ve işletme belgesinde belirtilen şartlara göre işletilip işletilmediğini denetletebilir. Lokallerin denetimi, (Değişik ibare:RG-9/7/2020-31180) sivil toplumla ilişkiler birimleri ve kolluk kuvvetlerince birlikte yapılır. Lokal denetiminde önceden bildirimde bulunma ve denetimin mesai saatleri içinde yapılması şartı aranmaz.

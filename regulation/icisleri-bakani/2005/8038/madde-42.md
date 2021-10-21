@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Gelir ve Gider Usulü
+Alındı belgelerinin biçimi
+Madde 42 - Dernek gelirlerinin tahsilinde kullanılacak Alındı Belgeleri (EK- 17)’de gösterilen biçim ve ebatta yönetim kurulu kararıyla bastırılır. Alındı belgeleri, müteselsil seri ve sıra numarası taşıyan kendinden karbonlu elli asıl ve elli koçan yaprağından meydana gelen ciltler veya elektronik sistemler ve yazı makineleri aracılığıyla yazdırılan form veya sürekli kayıt formu şeklinde tertip edilir. Form veya sürekli form şeklinde bastırılacak alındı belgelerinin, belirtilen nitelikte olması zorunludur. Alındı belgesi ciltlerinin koçan kısmı iki suret olarak bastırılabilir. Ancak, koçan yaprağının bir suretinin cilt koçanında, diğerinin ise muhasebe evrakları arasında düzenli olarak saklanması zorunludur.
+(Ek fıkra:RG-9/7/2020-31180) Alındı belgeleri (EK-17)’de belirtilen bilgileri içermek koşuluyla Bakanlıkça oluşturulan veya izin verilen yazılımlar kullanılarak elektronik ortamda da düzenlenebilir. Düzenlenen bu belgeler Genel Müdürlüğün elektronik sisteminde muhafaza edilir.

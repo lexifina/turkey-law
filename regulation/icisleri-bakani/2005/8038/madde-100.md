@@ -1,0 +1,2 @@
+Yardım toplama faaliyeti
+Madde 100 - Gerçek kişiler, dernekler, kurumlar, vakıflar, spor kulüpleri, gazete ve dergilerin 2860 sayılı Yardım Toplama Kanununa göre yapacakları yardım toplama faaliyetleriyle ilgili iş ve işlemler (Değişik ibare:RG-9/7/2020-31180) sivil toplumla ilişkiler birimlerince yürütülür. (Değişik ibare:RG-9/7/2020-31180) Sivil toplumla ilişkiler birimleri, bu faaliyetlerin sonuçları hakkında ilgili valiliğe ve Bakanlığa elektronik ortamda bilgi verir.

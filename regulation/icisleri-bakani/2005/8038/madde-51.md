@@ -1,0 +1,4 @@
+Başvurunun değerlendirilmesi
+Madde 51 – (Değişik cümle:RG-30/10/2011-28100) Kamu yararına çalışan derneklerden sayılma istekleri, valilik görüşü ile birlikte bir ay içinde Bakanlığa gönderilir. Valilik görüşünde derneğin amacının ve faaliyetlerinin topluma yararlı sonuçlar verecek nitelikte ve ölçüde olup olmadığı ve kamu yararına çalışan derneklerden sayılıp sayılamayacağı açıkça belirtilir.
+İlgili bakanlıkların ve (Ek ibare:RG-9/7/2020-31180) Hazine ve Maliye Bakanlığının da görüşü alındıktan sonra, Bakanlığın teklifi ve (Değişik ibare:RG-9/7/2020-31180) Cumhurbaşkanı kararı ile dernek, kamu yararına çalışan derneklerden sayılır.
+(Değişik üçüncü fıkra:RG-9/7/2020-31180) Kamu yararına çalışan derneklerden sayılmaya ilişkin karar Bakanlıkça ilgili valiliğe bildirilir ve valilik tarafından başvuru sahiplerine tebliğ edilir.

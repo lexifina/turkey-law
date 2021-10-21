@@ -1,0 +1,3 @@
+Faaliyetten geçici olarak men etme
+Madde 66 – (Değişik fıkra:RG-23/1/2013-28537)(1) Kumar oynatıldığı, izinsiz içki kullanıldığı, umuma açık yer durumuna geldiği veya yazılı uyarıya rağmen, 63 üncü maddede belirtilen lokal yönergesine veya bu Yönetmelikte belirtilen lokaller ile ilgili diğer usul ve esaslara aykırı hareket edildiği tespit edilen lokaller, mülki idare amiri tarafından otuz günü geçmemek üzere geçici süreyle faaliyetten men edilir.
+(Değişik ikinci fıkra:RG-9/7/2020-31180) Bu maddede yazılı fiiller sebebiyle bir yıl içinde üç defa faaliyetten men edilen lokallerin izin belgeleri, mülki idare amirince iptal edilir.

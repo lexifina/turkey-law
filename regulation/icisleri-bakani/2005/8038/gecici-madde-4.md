@@ -1,0 +1,1 @@
+Geçici Madde 4 - Bu Yönetmeliğin yürürlüğe girdiği tarihten önce faaliyette bulunmasına izin verilen lokaller, durumlarını (Değişik ibare:RG-22/3/2008-26824) dört yıl içinde bu Yönetmelikte öngörülen koşullara uygun hale getirirler.

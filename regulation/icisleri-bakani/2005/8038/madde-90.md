@@ -1,0 +1,4 @@
+Kütükten silme
+Madde 90 - Derneklerin tüzel kişiliklerinin herhangi bir nedenle sona ermesi halinde, para, mal ve haklarının tasfiye ve intikal işlemlerinin tamamlanmasını müteakip, yukarıdaki madde hükümlerine göre tasfiye sonucunun bildirilmesi üzerine, bunların dernekler kütüğündeki kayıtları merkezlerinin bulunduğu yer (Değişik ibare:RG-31/7/2009-27305) il (Mülga ibare:RG-9/7/2020-31180) (…) müdürünün onayı ile silinir, şubelerinin bulunduğu valiliklere ve Bakanlığa da bilgi verilir.
+Derneklerin merkezlerinin bulunduğu il dışındaki şubelerinin kayıtları, şubenin bulunduğu yer (Değişik ibare:RG-31/7/2009-27305) il (Mülga ibare:RG-9/7/2020-31180) (…) müdürünün onayı ile silinir, (Mülga ibare:RG-9/7/2020-31180) (…).
+Yabancı dernek ve yabancı vakıfların Türkiye’deki şube ve temsilciliklerinin kütükten silinmesine ilişkin işlemler (Değişik ibare:RG-9/7/2020-31180) Genel Müdürlükçe yerine getirilir.

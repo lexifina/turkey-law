@@ -1,0 +1,4 @@
+Sandıkların denetimi
+Madde 80 - Sandığın bağlı olduğu derneğin genel kurulu, yönetim kurulu veya denetim kurulu, sandığın denetimini her zaman yapabilir. Dernek ve sandık denetim kurulları en az yılda bir kez olmak üzere sandık hesap ve faaliyetlerinin denetimini yapmakla görevli ve yetkilidir. Denetim sonuçları bir rapor halinde sandık genel kurulu ve toplandığında dernek genel kuruluna sunulur.
+Sandıkların yönetim yerleri, satış yerleri, defterleri, hesap ve işlemleri Bakanlık veya yetkili mülki idare amiri tarafından her zaman denetlettirilebilir. Bu denetleme, görevlendirilecek kolluk kuvvetleri mensupları dışındaki memur veya memurlar aracılığıyla yaptırılır.
+Denetleme sırasında, görevli memurlar tarafından istenecek her türlü defter, belge ve işlemli yazıların, denetleyen kişilere gösterilmesi ve talep halinde onaylı örneklerinin verilmesi zorunludur.

@@ -1,0 +1,3 @@
+Yabancı vakıfların izin alma yükümlülüğü
+Madde 22 – (Değişik birinci fıkra:RG-9/7/2020-31180) Yabancı vakıflar, uluslararası alanda işbirliği yapılmasında yarar görülen hallerde, karşılıklı olmak koşulu ile Dışişleri Bakanlığının ve gerektiğinde ilgili diğer kurumların da görüşü alınmak suretiyle, Bakanlığın izniyle Türkiye’de faaliyette veya işbirliğinde bulunabilir, temsilcilik veya şube açabilir, üst kuruluşlar kurabilir, kurulmuş üst kuruluşlara katılabilir veya kurulmuş vakıflarla işbirliği yapabilirler.
+(Değişik ikinci fıkra:RG-21/10/2021-31635) Bu vakıflar, Türkiye’deki faaliyetlerinde derneklerin tabi olduğu mevzuat hükümlerine tabidir.

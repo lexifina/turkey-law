@@ -1,0 +1,3 @@
+Uzaklığın ölçülmesi
+Madde 71 - Okul öncesi eğitim, ilk ve orta öğretim resmi ve özel okul binaları ile özel eğitime muhtaç bireylerin devam ettikleri kurumlar ile lokal açılmasına izin verilen yerlerin aralarındaki uzaklığın ölçümünde, bina ve tesislerin varsa bahçe kapıları, yoksa bina kapıları; kapıların birden fazla olması durumunda ise en yakını esas alınır.
+Yüz metre uzaklığın ölçümünde, mevcut cadde ve sokaklar üzerinden yaya yolu kullanılarak, yaya kurallarına göre gidilebilecek en kısa mesafe dikkate alınır. (Değişik ikinci cümle:RG-23/1/2013-28537)(1) Bu tespitleri yaptırmaya Lokal Açma ve İşletme İzin Belgesini veren mülki idare amirliği yetkilidir.

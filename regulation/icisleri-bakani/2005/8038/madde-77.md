@@ -1,0 +1,2 @@
+Sandık genel kurulu
+Madde 77 - Sandık genel kurulu, genel kurula katılma hakkı bulunan sandık üyelerinden oluşur. Üye sayısının çok olması veya üyelerin farklı yerleşim yerlerinde bulunması halinde genel kurulda nasıl temsil edilecekleri, (Değişik ibare:RG-23/1/2013-28537)(1) 74 üncü maddeyle düzenlenen sandık yönergesinde düzenlenir. Genel kurulun toplantıya çağrılması, toplantı gündemi ve yeri, toplantı ve karar yeter sayısı ve kararların üyelere duyurulması konularında, sandığın bağlı bulunduğu dernek tüzüğünün bu konuları düzenleyen hükümleri uygulanır.

@@ -1,0 +1,5 @@
+Alındı belgelerinin kullanımı
+Madde 45 - Alındı belgeleri, gelir tahsil etme görev ve yetkisine sahip bulunanlara, sayman üyelerce imza karşılığı verilir ve kullanıldıktan sonra imza karşılığı geri alınır. (Mülga cümle:RG-9/7/2020-31180) (…)
+Alındı belgeleri, sabit boyalı sert veya sivri uçlu tükenmez kalemle okunaklı bir biçimde silintisiz ve kazıntısız olarak doldurulur. Ödemede bulunana asıl yaprak koparılarak verilir, koçan kısmı ciltte bırakılır. Düzenleme sırasında hata yapılırsa, hatalı belge yaprağı ödemede bulunana verilmez. Asıl ve koçan yaprakların üzerine “İPTAL” ibaresi yazılıp her ikisi koparılmadan ciltte bırakılır.
+Form şeklinde bastırılan alındı belgeleri, elektronik sistemler aracılığıyla doldurulduktan sonra aslı ödemede bulunana verilir; sureti dosyasında muhafaza edilir.
+(Ek fıkra:RG-9/7/2020-31180) Bu Yönetmelikte öngörülen alındı ve harcama belgeleri; Yönetmelik ekindeki örneklerinde gösterilen belgelerdeki tüm bilgilerin eksiksiz doldurulması ve ilgili kişilerce imzalanması suretiyle düzenlenir.

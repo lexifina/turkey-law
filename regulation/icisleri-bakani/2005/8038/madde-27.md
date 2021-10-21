@@ -1,0 +1,4 @@
+Yabancı derneklerin başvurusu
+Madde 27 - (Değişik birinci fıkra:RG-9/7/2020-31180) Yabancı dernekler, temsilcilik veya şube açma, dernek veya üst kuruluş kurma, kurulan dernek veya üst kuruluşlara katılma ve Türkiye’de faaliyette veya işbirliğinde bulunma ile ilgili başvurularını Bakanlığa (EK-6)’da belirtilen form ve eklerini vererek yaparlar. Ayrıca, temsilcilik veya şube açma başvurularında EK-9/A’da, faaliyette veya işbirliğinde bulunma başvurularında ise EK-9/B’de bulunan örnek statüdeki bilgileri ihtiva eden ana statünün de verilmesi zorunludur.
+İşbirliği yapma başvuruları, yabancı dernek adına ülkemizde işbirliği yapılacak dernek tarafından da gerçekleştirebilir. Başvurular, Bakanlığa doğrudan yapılabileceği gibi posta aracılığıyla da yapılabilir.
+Yabancı derneklerin Türkiye’deki faaliyetleri çerçevesinde daha önce verilmiş izinlerle ilgili olarak istenen belgelerin verilmesi gerektiğinde, yeni izin başvurusunda geçerliliğini koruyan belgeler istenmez.

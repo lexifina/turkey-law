@@ -1,0 +1,3 @@
+Beyannamelerin incelenmesi
+Madde 84 - Beyannameler valiliklerce incelenir. Gerekli görülen hallerde bu inceleme Bakanlıkça da yapılabilir. Beyannamelerde eksiklik veya yanlışlıklar görülmesi halinde, ek bilgi ve belgeler istenebilir ve bunlar tamamlattırılır. Beyannamelere ilişkin istenen ek bilgi ve belgelerin verilmemesi, eksik verilmesi veya verilen sürede tamamlanmaması hallerinde ilgili dernek denetime tabi tutulabilir.
+Beyannamelerin incelenmesi esnasında konusu suç oluşturan hususların tespit edilmesi halinde, ilgili mülki idare amirliğince durum Cumhuriyet Başsavcılığına bildirilir. (Mülga cümle:RG-30/10/2011-28100) (…)

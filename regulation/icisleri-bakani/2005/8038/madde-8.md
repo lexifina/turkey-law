@@ -1,0 +1,4 @@
+Şube kuruluşunun incelenmesi ve kütüğe kaydedilmesi
+Madde 8 - Şube kuruluş bildirimi ve eklerinin mevzuata uygunluğu, kuruluş bildirimleri için verilen alındı belgelerinin düzenlendiği tarihten itibaren altmış gün içinde mülki idare amiri tarafından bizzat veya (Değişik ibare:RG-9/7/2020-31180) sivil toplumla ilişkiler birimlerine yetki verilmek suretiyle incelenir.
+Tüzüğü incelemeden geçmemiş veya inceleme sırasında belirlenen Kanuna aykırılıkları veya noksanlıkları yapılan tebligat üzerine süresi içinde gidermeyen derneklerin, şubesi açılamaz.
+Şube kuruluş bildirimi ve eklerinin incelenmesinde, sonucun kuruculara bildirilmesinde derneklere ilişkin hükümler uygulanır. Şube, şube merkezinin bulunduğu yerin (Değişik ibare:RG-9/7/2020-31180) il müdürlüğünce kütüğe kaydedilir. (Mülga cümle:RG-30/10/2011-28100) (…)

@@ -1,0 +1,2 @@
+Kapsam
+Madde 2 - Bu Yönetmelik; vakıfların bazı işlemleri ile dernekler ve dernek şube veya temsilciliklerin, federasyonlar ve konfederasyonların, merkezleri yurt dışında bulunan dernekler ile dernek ve vakıf dışındaki kâr amacı gütmeyen kuruluşların Türkiye’deki şube veya temsilciliklerinin kuruluşu, genel kurul toplantıları, uluslararası faaliyetleri, yükümlülükleri, izne tabi faaliyetleri, lokal açmaları, sandık kurmaları ve diğer hususlar ile ilgili iş ve işlemlerini kapsamaktadır.

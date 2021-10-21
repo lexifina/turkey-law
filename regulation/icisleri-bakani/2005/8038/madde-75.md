@@ -1,0 +1,3 @@
+Sandığın faaliyete geçmesi
+Madde 75 - Dernek genel kurulunca kabul edilen sandık yönergesinin yönetim kurulu üyelerince her sayfası imzalanmış bir sureti, genel kurul toplantısını izleyen (Değişik ibare:RG-21/10/2021-31635) kırk beş gün içinde dernek başkanı tarafından mülki idare amirliğine verilir.
+Sandık yönergesinin mülki idare amirliğine bildirilmesinden itibaren altı ay içinde sandık genel kurulunun toplanması ve sandık organlarının oluşturulması zorunludur. Sandık organlarının oluşturulmasına kadar, sandık işlemlerini yürütmeye dernek yönetim kurulu yetkilidir. Sandığın ilk genel kurulu, dernek yönetim kurulunun çağrısı üzerine toplanır.

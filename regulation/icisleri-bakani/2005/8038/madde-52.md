@@ -1,0 +1,2 @@
+Kamu yararına çalışan dernek statüsünün kaybedilmesi
+Madde 52 - Kamu yararına çalışan derneklerin, denetimler sonunda bu niteliklerini kaybettiği anlaşılırsa; (Ek ibare:RG-9/7/2020-31180) Hazine ve Maliye Bakanlığının ve varsa ilgili bakanlıkların görüşü alınarak, Bakanlığın teklifi ve (Değişik ibare:RG-9/7/2020-31180) Cumhurbaşkanı kararıyla haklarında alınan kamu yararına çalışan derneklerden sayılma kararı iptal edilir. Sonuç, Bakanlıkça ilgili valiliğe bildirilir ve valilik tarafından da ilgili derneğe (Değişik ibare:RG-9/7/2020-31180) tebliğ edilir.

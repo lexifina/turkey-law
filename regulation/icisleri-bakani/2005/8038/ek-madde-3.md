@@ -1,0 +1,2 @@
+Rehberlik ve geri bildirim
+Ek Madde 3 – (Ek:RG-21/10/2021-31635) (Danıştay Onuncu Dairesinin 28/5/2025 tarihli ve E.:2021/7556; K.:2025/2780 sayılı kararı ile iptal madde; Genel Müdürlük tarafından derneklerin, dernekler mevzuatı çerçevesinde tabi oldukları yükümlülüklere uymaları ve terörizmin finansmanı risklerine karşı farkındalıklarının artırılması, iyi uygulamaların paylaşılması, tavsiye ve geri bildirimlerin alınması amacıyla derneklere bulundukları risk düzeyleri ile orantılı bir şekilde eğitim programları ve çalıştaylar düzenlenmesi sağlanır.)

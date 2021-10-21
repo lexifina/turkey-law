@@ -1,0 +1,3 @@
+Platformlar
+Madde 94 - Dernekler, amaçları ile ilgisi bulunan ve kanunlarla yasaklanmayan alanlarda, diğer dernek, vakıf, sendika ve benzeri sivil toplum kuruluşlarıyla ortak bir amacı gerçekleştirmek üzere platformlar oluşturabilirler. Platformların oluşturulabilmesi için derneklerin yetkili organlarınca alınacak kararlarda, derneği temsille görevlendirilecek kişi veya kişiler belirlenir.
+Bir platformun faaliyete başlayabilmesi için, temsilciler tarafından bir mutabakat tutanağı düzenlenir. Bu tutanakta, platformun oluşturulma amacı, çalışmaların yürütüleceği yerleşim yeri ile yönetim grubu üyeleri ve koordinatörünün isimleri belirtilir.

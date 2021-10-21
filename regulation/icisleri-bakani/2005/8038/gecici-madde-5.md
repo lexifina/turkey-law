@@ -1,0 +1,1 @@
+Geçici Madde 5 - E-dernekler yazılımının devreye girmesinden itibaren iki yıl içerisinde merkez ve taşradaki mevcut arşivler, adı geçen yazılım formatında elektronik ortama aktarılır ve dijital arşivler oluşturulur.

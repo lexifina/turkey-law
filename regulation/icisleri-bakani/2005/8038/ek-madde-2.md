@@ -1,0 +1,7 @@
+Mülki idare amirlerince yaptırılan denetimlere ilişkin diğer hususlar
+Ek Madde 2 – (Ek:RG-21/10/2021-31635)
+Derneklerin denetimlerinin, mülki idare amirliklerince düzenlenen eğitim programı sonunda sertifika verilen kamu görevlileri tarafından yapılması esastır. Eğitim programında yer verilecek konulara ve diğer hususlara ilişkin usul ve esaslar Genel Müdürlükçe belirlenir.
+Ancak sivil toplumla ilişkiler birimlerinde görev yapanlar ile zorunlu hallerde diğer kamu görevlilerine yaptırılacak denetimler için sertifika şartı aranmaz.
+Mülki idare amirliklerinin ilgili mevzuatında öngörülen hususlar saklı kalmak üzere, sivil toplumla ilişkiler birimlerinde görev yapan kamu görevlilerinin katılacağı denetim konusu dâhil olmak üzere görev alanına giren hususlarda hizmet içi eğitim programları Genel Müdürlük tarafından belirlenir veya düzenlenir.
+Mülki idare amirleri tarafından denetim ile görevlendirilenler, kamu kurum ve kuruluşlarından, bankalar dâhil gerçek ve tüzel kişilerden denetim görevi kapsamına giren hususla sınırlı olarak ilgili bilgi ve belgeleri istemeye yönelik yazışmaları valilikler ve kaymakamlıklar aracılığıyla yapar.
+Mülki idare amirlerince yaptırılan denetim sonucunda düzenlenen denetim raporlarında, ilgili mevzuata göre yapılan tespit ve değerlendirmelere, yapılması gereken işlemlere ve gerekli görülen diğer hususlara yer verilir. İlgili mevzuata ve usulüne göre düzenlenen raporlara ilişkin gerekli işlemler mülki idare amirlikleri tarafından yürütülür.

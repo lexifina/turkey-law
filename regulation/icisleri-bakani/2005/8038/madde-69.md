@@ -1,0 +1,2 @@
+Süresinden önce açılma
+Madde 69 - Faaliyetten men işlemine karşı açılan davanın idare aleyhine sonuçlanması halinde; lokal bir tutanakla açılır. Mülki idare amirleri faaliyetten geçici olarak men ettikleri lokalleri mahkeme kararları dışında, süresinden önce açamazlar. Geçici olarak faaliyetten men edildiği halde süresinden önce açılan lokallerin açma ve işletme izinleri mülki idare amirince iptal edilir.
