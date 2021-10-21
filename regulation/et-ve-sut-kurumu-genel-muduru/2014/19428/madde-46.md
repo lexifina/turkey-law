@@ -1,0 +1,2 @@
+Adli soruşturma raporu
+MADDE 46 – (1) Adli soruşturma raporu; soruşturmaya tabi personel ile suça iştirak eden üçüncü şahısların, Türk Ceza Kanununa veya ceza koyan diğer mevzuata göre suç sayılan eylemleri ile ilgili olarak düzenlenen raporlardır. Raporda cezai takibat gerektiren olay, failleri ve olayı kanıtlayan somut delilleri ile birlikte açıkça gösterilir. Bu raporda idari tedbir ve tekliflere yer verilmez.

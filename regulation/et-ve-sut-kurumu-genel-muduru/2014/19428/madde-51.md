@@ -1,0 +1,2 @@
+Savunma
+MADDE 51 – (1) Haklarında disiplin veya ceza uygulaması gerektiren hallerde ilgili personelin yazılı savunmasının alınması zorunludur. Savunması alınacak personele suç sayılan fiil ve davranışları, kanıtları ile birlikte yazılı olarak açık şekilde bildirilir. Personelin talebi halinde suçlandığı konuyla ilgili belgeleri inceleme imkânı da sağlanarak ve yedi günden az olmamak üzere verilecek süre içerisinde savunmasını yapması istenir.

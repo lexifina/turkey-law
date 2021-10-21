@@ -1,0 +1,21 @@
+Cevaplı teftiş raporu
+MADDE 43 – (1) Cevaplı teftiş raporu; programlı teftişlerde noksan ve hatalı bulunan, ilgili mevzuata aykırı olan ve ilgili birim ve işyerlerince düzeltilmesi veya tamamlanması gereken işlemleri, kayıt ve hesapları, birim ve işyerinin genel durumunu, teftiş edilenlerin cevapları ile bu cevaplara ilişkin müfettişin son görüşünü içeren rapordur. Rapor, teftiş edilenlerin yürürlükteki hükümlere göre tenkidi gerekli görülen iş, işlem ve eylemleri hakkında düzenlenir. Bu raporla ilgili yapılacak iş ve işlemler aşağıda belirtilmiştir:
+a) Faaliyetlerin, ilgili mevzuata göre, kârlılık ve verimlilik ilkeleri gözetilerek etkin şekilde ve zamanında yürütülüp yürütülmediği; para, kıymetli evrak, ürün, malzeme, makine, depo, tesis, bina, araç ve gereçler ile diğer varlıkların mevzuata ve usulüne uygun olarak, kayıt ve nitelikleri bozulmayacak şekilde takip edilip edilmediği belirlenir.
+b) Yürürlükteki yazılı kural ve yöntemlerde, kadro yapısında, mevcut personelin resmi ve özel niteliklerinde ve yaptıkları işlemlerde çalışma düzenine, verimlilik ve kârlılığa engel olabilecek hususlar bulunup bulunmadığı ile ESK amaçlarının gerçekleştirilmesi bakımından görülen olumsuzluklar belirlenir.
+c) Teftiş sürecinde; personelin amaca uygun şekilde çalışması, bilgi düzeylerinin artırılması, güven, istek duygularının geliştirilmesi hususlarında rehberlik hizmeti verilir.
+ç) Raporun teftiş edilen birim ve işyerinde düzenlenmesi esastır.
+d) Herhangi bir eleştiri ve öneri getirilmeyen konulara raporda yer verilmez.
+e) Rapor, teftişin tamamlanmasından sonra gecikmeden hazırlanarak ilgililerin görüşleri alınmak üzere, teftiş edilen birim veya işyerinin en yüksek amirine teslim edilir.
+f) Teftiş sonucunda tenkide değer bir husus görülmemesi halinde rapor düzenlenmez. Bu durum bir yazıyla Başkanlığa, ilgili birim veya işyerine bildirilir.
+g) Teftiş sırasında kanuni takibatı ve/veya disiplin cezasını gerektirdiği anlaşılan hususlar cevaplı teftiş raporlarına yazılmaz. Bu ve benzeri konulardaki bilgi ve belgeler tutanağa bağlanır ve bir yazı ekinde Başkanlığa gönderilerek soruşturma talep edilir. Alınacak talimata göre hareket edilir.
+ğ) Cevaplı teftiş raporları üç nüsha olarak düzenlenir. Raporların ikinci nüshaları teftişi yapılan birim veya işyerine bırakılır. Üçüncü nüsha ise müfettişte kalır. Müfettiş tarafından hazırlanan son görüş, teftiş edilen birim veya işyerine bırakılan nüshada yer almaz.
+h) Cevaplı teftiş raporlarının ilgililerce zamanında cevaplandırılması hususunu müfettişler kendileri izler. Haklı nedenlere dayanmadan süresinde cevaplandırılmayan raporlar hakkında gereği yapılmak üzere müfettişlerce Başkanlığa bilgi verilir.
+ı) Müfettişler, alınan cevapları inceledikten sonra, en kısa sürede, son görüşlerini de belirterek raporu Başkanlığa gönderirler.
+(2) Cevaplı teftiş raporları hakkında teftiş edilen birim ve işyerlerince yapılacak işlemler aşağıda belirtilmiştir:
+a) Cevaplı teftiş raporu müfettişçe verilecek süre içinde cevaplandırılır.
+b) Kendilerine cevaplı teftiş raporu verilenler, tenkit olunan işlemleri usul ve mevzuat çerçevesinde düzeltmekle görevlidirler. Tenkit maddelerinden bir kısmı veya tamamı hakkında müfettişten farklı görüşte oldukları takdirde, bunu ve dayanağını cevaplarında açık şekilde ve kısaca belirtirler.
+(3) Genel Müdürlüğe intikal eden cevaplı teftiş raporları hakkında ilgili birimlerce aşağıdaki işlemler yapılır:
+a) Merkez birimleri, cevaplı teftiş raporlarını, kendilerine intikalinden itibaren bir ay içerisinde inceleyerek teftişi yapılan işyerine gerekli talimatı verirler. İşyerlerine verilen talimatın iki nüshası raporla birlikte Başkanlığa gönderilir. Talimatın bir nüshası Başkanlıkça ilgili müfettişe intikal ettirilir. Müfettişler bu talimatlara katılmadıkları takdirde bir ay içerisinde itiraz edebilirler. Başkanlık, bu itiraza iştirak ederse, konu yetkili makama sunularak alınacak talimata göre hareket edilir.
+b) Müfettişlerin, işyerleri ile ilgili cevaplı teftiş raporları hakkında talimat verilmeyen bir husus tespit etmeleri halinde, ilgili birime intikal ettirilmek üzere durumu bir ay içerisinde Başkanlığa bildirirler.
+c) Teftiş gören işyeri, alınan talimat üzerine yapılan işlemleri iki ay içerisinde Genel Müdürlüğe bildirmek zorundadır.
+(4) Teftişe tabi yerler, kabul edilebilir bir gerekçe olmaksızın teftiş dışı bırakılamaz.

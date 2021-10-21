@@ -1,0 +1,3 @@
+Mektupla açıklama veya ifade istenmesi
+MADDE 52 – (1) Soruşturma sırasında ilgili personel veya şahidin soruşturma yapılan yerde bulunmadığı hallerde müfettiş tarafından kendisine soru kâğıdı gönderilir. Bu kâğıt gönderilirken, personele uygun bir süre tanınır. Personel ve şahitlerin açıklama veya ifadeleri birim veya işyeri amirliği aracılığı ile de alınabilir. Bu takdirde hazırlanacak soru kâğıdı bir yazı ekinde birim veya işyeri amirine gönderilir. Birim veya işyeri amiri soru kâğıdını ilgiliye tebliğ ederek alınacak cevabı süresi içinde müfettişe gönderir.
+(2) Gerektiğinde personelin yazılı ifadesi bir başka müfettiş vasıtasıyla istinabe suretiyle de alınabilir.

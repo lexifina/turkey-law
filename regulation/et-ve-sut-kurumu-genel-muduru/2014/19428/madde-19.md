@@ -1,0 +1,5 @@
+İşin süresi ve devri
+MADDE 19 – (1) Müfettişler, kendilerine verilen işleri ara vermeden ve Başkanlıkça belirlenen sürede tamamlarlar. Süresinde tamamlanamayacağı anlaşılan işler hakkında Başkanlığa zamanında bilgi verilir ve alınacak talimata göre hareket edilir.
+(2) Müfettişlere verilen işin devredilmemesi esastır. Ancak zaruret halinde Başkanın yazılı emri ile iş ertelenebilir veya bir başka müfettişe devredilebilir.
+(3) Devredilecek işler için devri yapacak olan müfettiş bir devir notu hazırlar. En az üç nüsha olarak hazırlanacak devir notunda; devredilen işin mahiyeti, devir gününe kadar işin ne kadarının hangi safhaya kadar incelendiği, iş hakkında varılan görüş veya kanaat, işin özelliğine göre gelinen aşamadan sonra en uygun inceleme ve soruşturma şeklinin ne olması gerektiği hususları belirtilir.
+(4) Devredilen işe ait belgeleri sıra numarası altında gösteren üç nüsha dizi pusulası hazırlanır. Dizi pusulası, devir notu ve işe ait belgeler işi devralan müfettişe imza karşılığı verilir. Devir notu ve dizi pusulasının ikinci nüshası işi devreden müfettiş tarafından bir yazı ekinde Başkanlığa gönderilir. Üçüncü nüshaları ise müfettişte kalır.

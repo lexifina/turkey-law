@@ -1,0 +1,2 @@
+Müfettişlerin soruşturmadan çekilmeleri
+MADDE 39 – (1) Müfettişler, soruşturmasına görevlendirildikleri olayda 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemeleri Kanununun 22 nci maddesinde sayılan hususlardan birinin varlığını belirterek soruşturmadan çekilme isteğinde bulunabilirler. Başkanlığa yazılı olarak bildirilen çekilme isteği Başkan tarafından uygun görülürse görev başka müfettişe verilir. Uygun görülmezse durum çekilme isteğinde bulunan müfettişe yazılı olarak bildirilir.

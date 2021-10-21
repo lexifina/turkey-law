@@ -1,0 +1,2 @@
+Rapor ekleri
+MADDE 57 – (1) Teftiş, inceleme ve soruşturma sonunda hazırlanan raporların bütün ekleri müfettiş tarafından mühürlenerek imzalanır. Raporların ekleri için bir dizi pusulası yapılır. Dizi pusulasında ekin sıra numarası, tarihi, sayısı ve mahiyeti belirtilir. Dizi pusulası, mühür ve imza ile tasdik olunur. Raporların aslına eklerin asılları, diğer nüshalarına müfettişin mührünü taşıyan suretleri eklenir.

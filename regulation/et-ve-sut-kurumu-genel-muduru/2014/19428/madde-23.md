@@ -1,0 +1,2 @@
+Müfettiş yardımcılığı giriş sınavının ilanı
+MADDE 23 – (1) Kamu Personel Seçme Sınavına girmiş olan adaylardan, ESK tarafından yapılacak müfettiş yardımcılığı giriş sınavına katılacaklarda aranacak genel ve özel şartlar, başvuruların tarihi, yeri ve şekli ile istenecek bilgi ve belgeler, sınavın yeri, zamanı, sınav konuları, içeriği ve değerlendirme yöntemi ve kadro, sayı, sınıf, unvan ve derecelerini gösteren ilan sınav gününden en az 30 gün önce Resmî Gazete’de ve Türkiye genelinde yayınlanan tirajı en yüksek ilk beş gazeteden birinde ilan edilir.
