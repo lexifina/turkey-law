@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-10-22",
+  "issue": "31636",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Karayolları Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211022-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211022.htm",
+  "index_sha256": "97a1f4232d5a891da20fa842983a2b37ab50014e219d31e6dfe3eb02ba450433",
+  "index_header": "22 Ekim 2021 ... 31636 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/10/20211022.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
