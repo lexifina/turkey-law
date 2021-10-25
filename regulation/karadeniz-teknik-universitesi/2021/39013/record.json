@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-10-25",
+      "25.10.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 21 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31639",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-25",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Karadeniz Teknik Üniversitesi",
+  "issuer_slug": "karadeniz-teknik-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/karadeniz-teknik-universitesi/2021/39013",
+  "published": "2021-10-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39013&MevzuatTertip=5",
+  "source_bytes": 42236,
+  "source_id": "8.5.39013",
+  "source_sha256": "2cb1eb0089839373903ae11f735dab2d5ae2e153a722f708b9bd3c3f75ea6568",
+  "text_status": "as-enacted",
+  "title": "KARADENİZ TEKNİK ÜNİVERSİTESİ KARİYER GELİŞTİRME\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 207,
+  "word_count": 1947
+}
