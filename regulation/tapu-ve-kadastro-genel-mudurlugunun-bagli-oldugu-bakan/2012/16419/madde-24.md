@@ -1,0 +1,3 @@
+Yemin
+MADDE 24 – (1) Sicile kayıt yaptıranlar, sicil kaydına istinaden Tapu Dairesi Başkanlığınca ikinci fıkrada yer alan metne göre yemin ettirilir. Yemin tutanağı lisans sahibinin sicil dosyasında saklanır.
+(2) “Tapu işlemlerine yönelik aracılık faaliyetlerini yerine getirirken Türkiye Cumhuriyeti Anayasasına, kanunlarına ve ilgili mevzuat hükümlerine, kamu hizmeti gereklerine, hazine menfaatlerine aykırı davranmayacağıma, meslek etiği ve ahlak kurallarına uyacağıma, mesleğimi tam bir bağımsızlık ve dürüstlükle yerine getireceğime, aldığım işleri dikkat ve özenle yapacağıma namusum ve şerefim üzerine yemin ederim.”
