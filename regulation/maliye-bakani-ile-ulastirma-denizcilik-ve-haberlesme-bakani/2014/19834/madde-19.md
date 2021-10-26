@@ -1,0 +1,3 @@
+Uygulanacak hükümler
+MADDE 19 – (1) Yatırımcı proje gereğince yaptığı veya yapacağı tesis ile ilgili her türlü izinleri yetkili mercilerden almak ve yürürlükteki mevzuat hükümlerine uymak zorundadır.
+(2) Bu Yönetmelikte hüküm bulunmayan hallerde; 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu, 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanunu, 3/8/1990 tarihli ve 20594 sayılı Resmî Gazete’de yayımlanan Kıyı Kanununun Uygulanmasına Dair Yönetmelik ve Hazine Taşınmazlarının İdaresi Hakkında Yönetmelik ile diğer ilgili mevzuat hükümleri uygulanır.

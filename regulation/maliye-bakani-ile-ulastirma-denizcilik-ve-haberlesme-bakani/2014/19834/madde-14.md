@@ -1,0 +1,2 @@
+Yatırıma başlama ve bitirme süresi
+MADDE 14 – (1) İrtifak hakkı tesisine ve/veya kullanma iznine konu taşınmazın ve/veya yerin hak sahibine, izin sahibine veya temsilcisine tesliminden itibaren bir yıl içinde inşaat ruhsatı alınarak inşaata başlanır. Bir yıldan sonraki inşaat ile ilgili yatırım süresi ise termin planına uygun olarak iki yıl içinde tesis yatırımı bitirilir. Bu süreler, mücbir sebeplerin varlığı halinde İdarenin görüşü alınmak suretiyle Bakanlık tarafından bir yıla kadar uzatılabilir.

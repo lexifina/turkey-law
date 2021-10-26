@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 29/6/2001 tarihli ve 4706 sayılı Hazineye Ait Taşınmaz Malların Değerlendirilmesi ve Katma Değer Vergisi Kanununda Değişiklik Yapılması Hakkında Kanunun ek 2 nci maddesinin beşinci, altıncı, yedinci ve sekizinci fıkraları ile 13/12/1983 tarihli ve 178 sayılı Maliye Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 13 üncü maddesi ve 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Kuruluş ve Görevleri Hakkında Kanun Hükmünde Kararnamenin 12 nci maddesine dayanılarak hazırlanmıştır.

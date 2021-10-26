@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Asıl alan: Tersane, tekne imal ve çekek yeri yatırımı için irtifak hakkı tesis edilen ve/veya kullanma izni verilen Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerleri,
+b) Asıl alana ilave alan: Tersane, tekne imal ve çekek yeri yatırımı kapsamında asıl alana ilave olarak irtifak hakkı tesis edilmiş ve/veya kullanma izni verilmiş olan alanları ve bu alanlar ile proje bütünlüğü açısından henüz sözleşme yapılmaksızın birlikte kullanılan, ilgili kuruluşlarca onaylı imar planı ve uygulama projesi bulunan ve İdarece muhafazası uygun görülen mevcut alanları,
+c) Avan proje: Tesis yatırımına ilişkin ekonomik, teknik, mali ve hukuki hususları içeren ayrıntılı fizibilite raporunu,
+ç) Bakanlık: Maliye Bakanlığını (Milli Emlak Genel Müdürlüğü),
+d) Çekek yeri: Tam boyu altmış metreye kadar her türlü gemi veya su araçlarına bakım, onarım, kışlatma ile teknik altyapı ve yönetim hizmeti veren tesisi,
+e) Hasılat payı: İrtifak hakkı tesis edilen ve/veya kullanma izni verilen alanlar üzerinde bulunan tesisin işletilmesi halinde hak lehtarınca ve/veya izin sahibince, münhasıran sözleşmeye konu alanın üzerinde yapılan faaliyet sonucunda elde edilecek toplam yıllık hasılattan Hazineye ödenecek binde bir (% 0,1) oranındaki payı,
+f) Hazine taşınmazı: Hazinenin özel mülkiyetindeki taşınmazlar ile Devletin hüküm ve tasarrufu altındaki yerleri,
+g) İdare: Ulaştırma, Denizcilik ve Haberleşme Bakanlığını (Tersaneler ve Kıyı Yapıları Genel Müdürlüğü),
+ğ) İrtifak hakkı: Bir taşınmaz üzerinde yararlanmaya ve kullanıma rıza göstermeyi veya mülkiyete ilişkin bazı hakların kullanılmasından vazgeçmeyi kapsayan ve diğer bir taşınmaz veya kişi lehine aynî hak olarak kurulan yükümlülüğü,
+h) Katılım payı: Hazine taşınmazları üzerinde yeni tersane, tekne imal ve çekek yeri yatırımı yapılması amacıyla yapılacak arttırma ihalesi sonucunda oluşacak ve yatırımcılardan bir defaya mahsus olmak üzere peşin olarak tahsil edilecek bedeli,
+ı) Komisyon: 19/6/2007 tarihli ve 26557 sayılı Resmî Gazete’de yayımlanan Hazine Taşınmazlarının İdaresi Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (i) bendinde tanımlanan ve 17 nci maddesine göre oluşturulan illerdeki komisyonu,
+i) Kullanma izni: Devletin hüküm ve tasarrufu altında bulunan yerler üzerinde kişiler lehine Bakanlık tarafından verilen izni,
+j) Mevcut tesis: 18/4/2013 tarihinden önce Hazine taşınmazları üzerinde tersane, tekne imal ve çekek yeri yapılmak amacıyla irtifak hakkı ve/veya kullanma izni sözleşmesi düzenlenen tesisler ve ön izin sözleşmesi devam edenler ile yatırımcılar lehine irtifak hakkı tesis edilen ve/veya kullanma izni verilen alanlar ile proje bütünlüğü bulunan ve birlikte kullanılması zorunlu olan, müstakil kullanımını mümkün olmayan ek alanlar, onaylı imar planlarında tesis olarak belirlenmiş bölgelerde 18/4/2013 tarihi itibariyle en az beş yıl süreyle tesis olarak sözleşmeye bağlı olmaksızın kullanılan ve kullanımlarının halen devam ettiği İdare kayıtlarında tespit edilen ve İdarece muhafazası uygun görülen tesisleri,
+k) Ön izin: İrtifak hakkı kurulmadan veya kullanma izni verilmeden önce; tescil, ifraz, tevhit, terk ve benzeri işlemlerin yapılması veya imar planının yaptırılması, değiştirilmesi ya da uygulama projelerinin hazırlanması ve onaylatılması gibi işlemlerin yerine getirilebilmesi için Bakanlık tarafından verilen izni,
+l) Sözleşme: Bakanlık ile yatırımcı arasında düzenlenen/düzenlenecek irtifak hakkı ve/veya kullanma izni ile ön izin sözleşmesini,
+m) Tekne imal ve bakım yeri: Boy sınırlaması olmaksızın ahşap yat imalatı ile tam boyu yetmiş beş metreye kadar veya İdare tarafından yapılan inceleme sonucuna göre kara ve denizdeki fiziksel şartların uygun bulunması halinde yüz yirmi beş metreye kadar her türlü gemi ve su araçlarının inşa, tadilat ve bakım-onarım hizmetlerinden biri veya birkaçının yapılmasına imkân sağlayan teknik ve sosyal altyapılara sahip tesisi,
+n) Termin plan: Yatırımcı tarafından sunulan ve yapılacak yatırımların tamamlanma sürelerini gösteren İdarece onaylı planı,
+o) Tersane: Her cins ve boyutlarda gemi ve su araçlarının inşası, bakım, onarım ve tadilatlarından biri veya birkaçının yapılmasına imkân sağlayan en az elli metre deniz cephesine sahip ve gemi inşa kapasitesi belirlenmiş, teknik ve sosyal alt yapısı, yönetim, destek, bakım, onarım ve depolama birimleri de bulunan kıyı yapılarını (deniz cephesine ilişkin sınırlama İdare tarafından uygun görülen hallerde yüzde on oranında azaltılabilir),
+ö) Tesis: Tersane, tekne imal yeri ve çekek yerinden herhangi biri veya birkaçını,
+p) Yeni tesis: Mevcut tesis kapsamında olmayan tesisi,
+ifade eder.

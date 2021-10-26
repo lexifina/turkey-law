@@ -1,0 +1,22 @@
+Yatırımcıdan istenecek bilgi ve belgeler
+MADDE 9 – (1) Yatırımcılardan yapılacak tesisin özelliğine göre;
+a) Yatırımcının; adı, soyadı, unvanı, faaliyet konusu, adresi, telefon, faks ve e-posta adresi,
+b) Varsa tesis faaliyetlerine ilişkin deneyimi,
+c) Varsa son yıla ait onaylı bilanço ve kar/zarar cetveli,
+ç) Tüzel kişilerde ana sözleşme ve değişikliklerin yayımlandığı Türkiye Ticaret Sicil Gazetesinin aslı veya noter tasdikli örneği,
+d) Vergi kimlik numarası, kayıtlı bulunulan meslek odasının adı ve sicil belgesi,
+e) Yatırımcının imza beyanı, yatırımcı tüzel kişi ise (Mülga ibare:RG-26/10/2021-31640) yetkili temsilcinin/temsilcilerin yetki belgesi,
+f) Yatırım yapılacak alanın kıyı kenar çizgisinin kara ve deniz tarafında yer alan kısımları üzerinde yapılacak yatırıma ilişkin genel bilgi, yatırımların ayrı ayrı maliyet hesabı ile bu yatırım için planlanan finansman kaynağı,
+g) Kapalı ve açık alanların toplam yüzölçümü,
+ğ) İstihdam durumunu gösterir detaylı liste,
+h) Varsa kızakların türleri ve ebatları,
+ı) Varsa iskele ve rıhtım adedi ve boyutları,
+i) Yapılması öngörülen kapalı atölyelerin boyutları ve işlevleri,
+j) Yıllık çelik işleme kapasitesi, gemi adedi, yıllık gemi tonajı/cgt, dwt, gross ve en büyük gemi boyu gibi kapasiteyle ilgili bilgilerden birkaçını içeren yeni gemi inşa kapasitesi,
+k) Tesis çekek yeri olarak kullanılacaksa gemi boyutlarına göre kışlama yapılacak gemi ile bakım onarımı yapılacak gemilerin sayısını içerecek şekilde çekek yeri kapasitesi,
+l) Varsa kuru havuz/yüzer havuz ebatları ile havuzlanacak en büyük gemi tonajı,
+m) Tesise ait genel yerleşim planı,
+n) Termin planı,
+o) Tesiste kullanılacak kreynlerin türleri ve kaldırma kapasiteleri,
+ö) Genel yerleşim planında gösterilecek atık kabul tesisi bilgileri,
+istenir.

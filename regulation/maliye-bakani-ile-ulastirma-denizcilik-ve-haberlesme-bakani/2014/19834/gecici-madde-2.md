@@ -1,0 +1,10 @@
+Hissedarlara ve ortaklara yönelik uygulama
+GEÇİCİ MADDE 2 – (1) Hazine taşınmazları üzerinde tesis yapılmak amacıyla 18/4/2013 tarihinden önce lehlerine irtifak hakkı tesis edilen ve/veya adlarına kullanma izni verilen ortak şirketlerin veya kooperatiflerin ortakları ve üyelerinden 5 inci maddenin birinci fıkrasında belirtilen koşulları, hisseleri nispetinde yerine getiren yatırımcılar tarafından, ortak şirket ve/veya kooperatif koordinesinde Bakanlığa başvuruda bulunulması hâlinde; mevcut tesis tanımlaması içinde, 5 inci madde ve ilgili diğer maddelerdeki koşullar ve usullerle lehlerine Bakanlıkça yeni sözleşme düzenlenir.
+(2) Ortak şirketin veya kooperatifin ortak veya üyelerinin bu Yönetmeliğin 5 inci maddenin birinci fıkrasında belirtilen koşulları yerine getirdiğini belirtmek amacıyla yaptıkları yazılı başvuru ekinde;
+a) Konuya ilişkin ortak veya üyelerinin talep yazısı,
+b) Lehtarı oldukları irtifak hakkı ve/veya kullanma izni sözleşmelerine konu alanlardaki hangi bölgelerin ortak şirket ve/veya kooperatif tarafından tesislerin ortak hizmet ihtiyaçları için kullanılmaya devam edileceği ve kullanılan bu ortak alanlar için hangi ortak ve/veya üyeler ile sözleşme yapılacağını belirtir bilgi ve koordinatları belirtilmiş İdare tarafından onaylanmış vaziyet planları,
+c) Başvuruda bulunan ortak veya üyelerin, 18/4/2013 tarihine kadar tahakkuk eden irtifak hakkı ve/veya kullanma izni bedelleri ve gecikme zamlarının hisse paylarına düşen kısmını ve başvuran ortak veya üyelerin sözleşmeden doğan varsa hasılat payı borçları ve gecikme zamlarını ödemiş olduklarını gösteren ortak şirket veya kooperatifin yetkilileri tarafından imzalanarak onaylanmış detaylı bir ödeme-borç çizelgesi,
+ç) Ortak şirket veya kooperatifin ortak veya üyelerinin, varsa Bakanlık aleyhine açılmış davalardan tüm yargılama giderleri üstlenilerek kayıtsız ve şartsız feragat ettiklerine ilişkin belgeler,
+d) Bakanlık ve/veya İdare tarafından istenilebilecek ilave bilgi ve belgeler,
+İdareye iletilir.
+(3) İdare, yapılan başvuruyu görüşü ile birlikte Bakanlığa iletir.

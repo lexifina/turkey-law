@@ -1,0 +1,5 @@
+Katılım payı
+MADDE 11 – (1) Katılım payı bedelleri; yüzölçümleri 5.000 m²’den az olan alanlar için 100.000.-TL, 5.001 ilâ 10.000 m² arası olan alanlar için 200.000.-TL, 10.001 ilâ 20.000 m² arası olan alanlar için 300.000.-TL, 20.001 ilâ 100.000 m² arası olan alanlar için 400.000.-TL, 100.001 m² üstü olan alanlar için 500.000.-TL’dir.
+(2) Tekne imal ve çekek yerlerine ilişkin katılım payı bedelleri yüzde elli indirimli olarak belirlenir.
+(3) Birinci fıkrada belirtilen değerler her yıl Türkiye İstatistik Kurumunca yayımlanan Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE-bir önceki yılın aynı ayına göre yüzde değişim) oranında arttırılmak suretiyle güncellenir.
+(4) Sözleşmesinin sona ermesi veya feshedilmesi nedeniyle sözleşmeleri gereğince Hazineye intikal eden tesislerin yer aldığı taşınmazların üzerinde irtifak hakkı tesis edilmesine ve/veya kullanma izni verilmesine ilişkin yapılacak arttırma ihalesinde oluşan katılım payı bedeli muhdesat bedeli de eklenmek suretiyle peşin olarak tahsil edilir.
