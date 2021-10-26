@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "272",
+  "decision_date": "2021-10-26",
+  "source_id": 34556,
+  "chamber": "4",
+  "ilam_number": "311",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34556/",
+  "source_sha256": "84bb609bcd3d36da3fbc44bd5167621121bd36ba218e2a800ce378d28b9ae5e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
