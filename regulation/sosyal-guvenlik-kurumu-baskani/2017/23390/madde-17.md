@@ -1,0 +1,3 @@
+Fatura eki belgelerin incelenmesi
+MADDE 17 – (1) Örnekleme yöntemini kabul eden optisyenlik müesseselerinin sadece örnekleme sonucu tespit edilen fatura eki belgeleri; örnekleme yöntemini kabul etmeyen optisyenlik müesseselerinin ise, tüm fatura eki belgeleri Kurumca yayımlanan mevzuat ile sözleşme hükümlerine uygunluğu yönünden fatura inceleme birimleri tarafından incelenir.
+(2) Yurt dışı sigortalılara ait reçetelerde provizyon sorgulaması yapılabilen ülke sigortalıları hariç, sosyal güvenlik il müdürlüklerince düzenlenmiş ve onaylanmış Sosyal Güvenlik Sözleşmesine Göre Sağlık Yardım Belgesinin aslı veya fotokopisi ile müracaat eden kişilere ait faturalar ülke bazında ayrı ayrı olmak üzere manuel olarak düzenlenir ve tamamı incelenir.

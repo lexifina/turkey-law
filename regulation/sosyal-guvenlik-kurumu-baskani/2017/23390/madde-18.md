@@ -1,0 +1,10 @@
+İtirazlar
+MADDE 18 – (1) Optisyenlik müessesesi, incelenen fatura dönemine ait oluşan kesinti tutarı ve gerekçelerine ilişkin kabul ya da itiraz yönündeki kararını, Kurum bilgi işlem sisteminde “incelendi” ibaresinin belirdiği veya tebliğ edildiği tarihi takip eden 5 iş günü içinde Kurum bilgi işlem sistemi üzerinden bildirir. İtiraza konu her bir reçeteye ilişkin gerekçelerin yer aldığı itiraz dilekçesi Kurumun resmi internet sitesinde duyurulan ilgili birimine verilir. İtirazların faks ile bildirilmesi halinde, bildirimin aslının elden, iadeli taahhütlü posta ya da kargoya 3 iş günü içerisinde verilerek Kuruma gönderilmesi gerekir. Belirtilen süre içinde itiraz etmeyen optisyenlik müessesesi tarafından, kesinti tutarı kabul edilmiş sayılır.
+(2) İtiraz sürelerinin tespitinde, itiraz belgesinin elden verilmesi veya itirazların normal posta ile yapılması halinde belgenin Kurum kayıtlarına girdiği tarih, iadeli taahhütlü posta aracılığıyla yapılması halinde ise postaya veriliş tarihi esas alınır.
+(3) İtiraz dilekçesinde gerekçesi belirtilmemiş olan itirazlar değerlendirmeye alınmaz.
+(4) Örnekleme yöntemini kabul etmeyen optisyenlik müessesesi tarafından yapılan itiraz, Kurumun resmi internet sitesinde duyurulan ilgili birim tarafından değerlendirilerek karara bağlanır.
+(5) Kurumca örnekleme yöntemi ile yapılan inceleme sonucunda tespit edilen kesinti oranının %5’in üzerinde olması halinde;
+a) Kesinti yapılan reçetelerin Görmeye Yardımcı Tıbbi Malzeme İtiraz Değerlendirme Komisyonunca incelenmesi ya da Görmeye Yardımcı Tıbbi Malzeme İtiraz Değerlendirme Komisyonuna iletilmeksizin reçete inceleyen birimler tarafından reçetelerin tamamının incelenmesi için itirazda bulunulabilir.
+b) Tamamı incelenen reçetelerde kesinti oranının artması durumunda örneklem dışındaki reçeteler için itirazda bulunulabilir.
+(6) Reçetelerin Görmeye Yardımcı Tıbbi Malzeme İtiraz Değerlendirme Komisyonunca değerlendirilmesinin ardından ilgili faturanın tamamının incelenmesi talep edilemez.
+(7) Örnekleme yöntemini kabul etmeyen optisyenlik müessesesinin kesintilerle ilgili itirazları ise sağlık sosyal güvenlik merkezi tarafından değerlendirilerek karara bağlanır.

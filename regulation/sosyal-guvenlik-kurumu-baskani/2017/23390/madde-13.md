@@ -1,0 +1,11 @@
+İtirazlar
+MADDE 13 – (1) Eczane, incelenen fatura dönemine ait oluşan kesinti tutarı ve gerekçelerine ilişkin kabul ya da itiraz yönündeki kararını, Kurum bilgi işlem sisteminde “incelendi” ibaresinin belirdiği veya tebliğ edildiği tarihi takip eden 5 iş günü içinde Kurum bilgi işlem sistemi üzerinden bildirir. İtiraza konu her bir reçeteye ilişkin gerekçelerin yer aldığı itiraz dilekçesi Kurumun resmi internet sitesinde duyurulan ilgili birimine verilir. İtirazların faks ile bildirilmesi halinde, bildirimin aslının elden, iadeli taahhütlü posta ya da kargoya 3 iş günü içerisinde verilerek Kuruma gönderilmesi gerekir. Belirtilen süre içinde itiraz etmeyen eczanelerin kesinti tutarı eczane tarafından kabul edilmiş sayılır.
+(2) İtiraz dilekçesinde gerekçesi belirtilmemiş olan itirazlar değerlendirmeye alınmaz.
+(3) İtiraz sürelerinin tespitinde itiraza ilişkin evrakın elden verilmesi ya da itirazın normal posta ile yapılması halinde Kurum kayıtlarına girdiği tarih, iadeli taahhütlü posta ya da kargo yoluyla gönderilmesi halinde ise posta ya da kargoya veriliş tarihi elektronik ortamda yapılması durumunda da sisteme kayıt tarihi esas alınır.
+(4) Kurumca örnekleme yöntemi ile yapılan inceleme sonucunda tespit edilen kesinti oranının;
+a) A ve C grubu reçeteler için %3’ün, B grubu reçeteler için %5’in altında olması halinde yalnızca kesinti yapılan reçetelerin Eczane İtiraz Değerlendirme Komisyonunca incelenmesi için,
+b) A ve C grubu reçeteler için %3’ün, B grubu reçeteler için %5’in üzerinde olması halinde,
+kesinti yapılan reçetelerin Eczane İtiraz Değerlendirme Komisyonunca incelenmesi ya da Eczane İtiraz Değerlendirme Komisyonuna iletilmeksizin reçete inceleyen birimler tarafından reçetelerin tamamının incelenmesi için itirazda bulunulabilir.
+c) Tamamı incelenen reçetelerde kesinti oranının artması durumunda örneklem dışındaki reçeteler için ayrıca itirazda bulunulabilir.
+(5) Reçetelerin Eczane İtiraz Değerlendirme Komisyonunca değerlendirilmesinin ardından ilgili faturanın tamamının incelenmesi talep edilemez.
+(6) Örnekleme yöntemini kabul etmeyen eczanelerin kesintilerle ilgili itirazları ise sağlık sosyal güvenlik merkezi tarafından değerlendirilerek karara bağlanır.

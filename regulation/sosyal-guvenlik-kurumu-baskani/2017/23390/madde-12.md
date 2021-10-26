@@ -1,0 +1,2 @@
+Fatura eki belgelerin incelenmesi
+MADDE 12 – (1) Örnekleme yöntemini kabul eden eczanelerin reçete ve eklerinden sadece örnekleme sonucu tespit edilen reçete ve ekleri, örnekleme yöntemini kabul etmeyen eczanelerin ise tüm reçete ve ekleri Kurumca yayımlanan mevzuat ve sözleşme/protokol hükümlerine uygunluğu yönünden Kurumca görevlendirilen personel tarafından fatura teslim tarihleri dikkate alınarak incelenir.
