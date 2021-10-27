@@ -1,0 +1,5 @@
+Bilgi ve belgelerin verilmesi ve kullanılması
+MADDE 26 – (1) Lisanslı mühendislerin yerine getirmekte oldukları hizmetler için gerekli olan bilgi ve belge talepleri, ilgili tapu ve kadastro müdürlüklerince karşılanır.
+(2) Tapu ve kadastro müdürlüklerince karşılanan bilgi ve belgeler değiştirilemez, amacı dışında kullanılamaz ve paylaşılamaz. Ayrıca bilgi ve belgeler üzerinde düzeltme gerektiren durumlarda tapu ve kadastro müdürlüklerince düzeltme yapılmadan işlem gerçekleştirilemez.
+(3) Lisanslı mühendis ve büro çalışanlarının görevleri sebebiyle edindikleri bilgi ve belgeler 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili mevzuat hükümlerine aykırı şekilde kullanılamaz.
+(4) Kanun kapsamında yapılacak kadastro teknik hizmetlerinde İdare tarafından sunulan kesin koordinat değerleri doğrudan kullanılır. Diğer koordinat değerlerinde ise İdare tarafından parsele ilişkin sunulan teknik bilgi ve belgeler, varsa komşu parsellerdeki aplikasyon ve değişiklik işlemleri ile birlikte değerlendirilerek işlemin tamamlanmasından lisanslı büro sorumludur.

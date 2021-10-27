@@ -1,0 +1,3 @@
+Teminatların iadesi
+MADDE 10 – (1) Herhangi bir sebeple lisansı iptal edilenlerin, varsa kesinti haricindeki iadeye konu edilebilecek teminatları, lisans sahibine veya mirasçılarına başvuruları halinde iade edilir.
+(2) Teminatın serbest bırakılabilmesi için, İdarenin görevlendirdiği denetim elemanı tarafından lisanslı büronun iş ve işlemleri en fazla üç aylık süre zarfında incelenir. Lisanslı mühendisin yapmış olduğu iş ve işlemlerin mevzuata uygun olması halinde teminatı serbest bırakılır. Aksi takdirde zararı karşılayabilecek miktar alıkonularak, kesinti haricindeki teminat miktarı serbest bırakılır. Teminatın serbest bırakıldığı lisans sahibine veya mirasçısına bildirilir.

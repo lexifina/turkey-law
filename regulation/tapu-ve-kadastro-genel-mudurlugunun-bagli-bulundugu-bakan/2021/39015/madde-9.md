@@ -1,0 +1,4 @@
+Teminatların kullanılması ve güncellenmesi
+MADDE 9 – (1) Banka nezdindeki teminatlar, İdarenin bilgisi ve talebi dışında kullandırılamaz ve iade edilemez. Kanunun 5 inci maddesi kapsamında lisanslı büronun mali sorumluluk şartlarının oluşması durumunda, İdarenin talebi üzerine söz konusu teminatlar kullanılır.
+(2) Lisanslı mühendis tarafından; her yıl 8 inci maddeye göre güncellenmiş teminat miktarı ilanda aksi belirtilmedikçe en geç otuz gün içinde; teminatların birinci fıkra kapsamında kullanımı durumunda kullanım tarihinden itibaren en geç otuz gün içinde tamamlanarak yeni teminat belgesinin en geç on beş gün içinde kadastro müdürlüğüne teslim edilmesi zorunludur.
+(3) İkinci fıkrada belirtilen süre içinde teminat miktarlarının tamamlanmaması veya yenilenmemesi durumunda 36 ncı maddenin dördüncü fıkrasının (b) bendi hükmü uygulanır.

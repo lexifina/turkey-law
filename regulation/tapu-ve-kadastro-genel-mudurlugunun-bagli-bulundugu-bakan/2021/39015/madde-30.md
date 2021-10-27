@@ -1,0 +1,4 @@
+İş dağıtımı ve kabulü
+MADDE 30 – (1) Lisanslı bürolar, görevleri kapsamındaki işleri kabul etmek, hukukî ve teknik bir engel olmadıkça işlerin gereğini yerine getirmek zorundadır.
+(2) Talep edilen işi, mevzuatına uygun olarak İdare tarafından belirlenen kamu hizmet standartlarındaki azamî iş bitirme süreleri içerisinde sonuçlandırmakla yükümlüdür.
+(3) Bu Yönetmelik kapsamındaki iş ve işlemler için ilgilisi, il genelinde yetkili herhangi bir lisanslı büroyu seçerek işlem başvurusu yapmakta serbesttir. Lisanslı bürolar yapılan tüm başvuruları hizmet standartları süresinde karşılamakla yükümlüdür. İdare gerek gördüğü durumlarda kamu hizmetlerinin etkin ve verimli olacak şekilde yürütülmesi amacıyla lisanslı bürolar arasında iş dağıtımı yapılmasına ilişkin usul ve esasları belirlemeye yetkilidir.

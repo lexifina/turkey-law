@@ -1,0 +1,2 @@
+Bulundurulması zorunlu asgarî donanım
+MADDE 40 – (1) Lisanslı büroların ve bu büroların şubelerinin, faaliyet ve hizmetlerini aksatmadan yürütebilmeleri için, en az birer adet; elektronik takeometre, bilgisayar, yazıcı, bunların ek donanımları, bu Yönetmelik kapsamında yapacakları işlere ilişkin meslek alanı yazılım programları, teknik araç gereçleri ve telefon gibi asgarî büro donanımlarını bulundurmaları gerekir.

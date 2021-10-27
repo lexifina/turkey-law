@@ -1,0 +1,2 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) 21/4/2021tarihli ve7317 sayılı Lisanslı Harita Kadastro Mühendisleri ve Büroları Hakkında Kanunda Değişiklik Yapılmasına Dair Kanunun yürürlüğe girdiği tarih itibarıyla mevcut lisanslı bürolar, daha önce verilen lisans belgeleri ile yeni lisans belgesi verilinceye kadar bulundukları ilde yetkili olmak üzere faaliyetlerine devam ederler. Lisans sahibi olan mühendislerin lisansları İdare tarafından yeni bir lisans belgesi verilerek yenilenir.

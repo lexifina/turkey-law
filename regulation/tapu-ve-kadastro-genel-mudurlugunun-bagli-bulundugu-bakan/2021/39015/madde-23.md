@@ -1,0 +1,3 @@
+Hukukî ve cezaî sorumluluk
+MADDE 23 – (1) Lisanslı bürolarda, Kanunla kadastro teknik hizmetlerini yapmakla yetkilendirilenler, Türk Ceza Kanununun uygulanmasında kamu görevlisi sayılır ve büroların işlemlerinden dolayı zarar doğması halinde kusuru bulunana 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 1007 nci maddesi uyarınca rücu edilir.
+(2) Lisanslı mühendisler ve çalışanları yaptıkları işler dolayısıyla öğrendikleri bilgileri, meslekten ayrılsalar bile, 4721 sayılı Kanunun 1020 nci maddesi gereğince ilgilisi dışındakilere açıklayamazlar ve yaptıkları hizmet dışında kullanamazlar ve doğacak zararlardan sorumludurlar.
