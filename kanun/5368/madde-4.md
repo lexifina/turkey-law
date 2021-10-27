@@ -1,6 +1,8 @@
 Kuruluş, görev, lisans verilmesi ve denetim
-MADDE 4 —Lisanslı harita kadastro mühendislik büroları bulundukları ilçe idarî sınırlarında yetkili olmak üzere kurulur.
-Aynı ilçede birden fazla sayıda büroya lisans verilmesi veya lisanslı büroların birden fazla ilçede yetkilendirilmesi ile lisansların iptaline Tapu ve Kadastro Genel Müdürlüğü yetkilidir.
-Lisanslı harita kadastro mühendislik büroları, kadastro müdürlüklerince yürütülen hizmetlerden, tescile tâbi olmayan işlemlerin yapım ve kontrolü ile tescile tâbi olan işlemlerin yapımında görevlidir.
+Madde 4- (Değişik:21/4/2021-7317/4 md.)
+2 nci maddede yer alan şartları taşıyan ve lisans başvurusunda bulunan mühendislere, lisanslı harita ve kadastro mühendislik faaliyeti yürütebilmeleri için Tapu ve Kadastro Genel Müdürlüğü tarafından lisans verilir.
+Lisanslı harita kadastro mühendislik büroları il genelinde yetkili olmak üzere lisanslı mühendisin talep ettiği ilçede kurulur.
+Lisanslı harita kadastro mühendislik büroları, meslek alanıyla ilgili mühendis, tekniker veya teknisyen unvanlarında en az 3 kişi çalıştırmakla yükümlüdür. Bu hüküm doğrultusunda çalıştırılanlardan en az birinin lisans sahibi dışında bir mühendis olması zorunludur.
 Lisansların verilmesi, iptal edilmesi ve sicillerin tutulması ile lisanslı büro faaliyetlerinin denetimini yaparak uyarma, kınama, lisansın geçici veya sürekli iptali cezalarını vermeye Tapu ve Kadastro Genel Müdürlüğü yetkilidir.
-Kuruluş, görev, lisans verilmesi ve denetime ilişkin usul ve esaslar ile mekân, personel ve donanımlarına ilişkin hususlar yönetmelikte belirlenir.
+Bu Kanun kapsamına giren işlem başvuruları, Tapu ve Kadastro Genel Müdürlüğünce belirlenen yöntemlerle yapılır.
+Kuruluş, görev, lisans verilmesi, iş dağıtımı, lisanslı büro yetkilendirmesi ve denetime ilişkin usul ve esaslar ile mekân, personel ve donanımlarına ilişkin hususlar yönetmelikte belirlenir.
