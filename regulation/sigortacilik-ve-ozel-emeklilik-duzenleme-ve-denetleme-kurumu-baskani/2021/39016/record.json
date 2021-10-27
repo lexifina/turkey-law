@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39016",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL RİSKLER YÖNETİM MERKEZİ ÇALIŞMA USUL VE ESASLARI YÖNETMELİĞİ",
+  "number": "39016",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2021/39016",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39016&MevzuatTertip=5",
+  "source_sha256": "5eb518317f7ab98f8d18a55ad33cd51b02de00881c6e8276518f4407d1485be9",
+  "source_bytes": 53046,
+  "published": "2021-10-27",
+  "gazette": "31641",
+  "in_force": "2021-10-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.10.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2876,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
