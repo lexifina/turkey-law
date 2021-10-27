@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2021/42",
+  "meeting_date": "2021-10-27",
+  "meeting_date_as_published": "27.10.2021",
+  "decision_no": "18",
+  "source_id": 18978,
+  "title": "RTÜK kararı 2021/42-18 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/18978",
+  "source_sha256": "b48edda7b8e955b1de1507f38c1d7bdb26252904ad64f02e83a6bccdfe654e1f",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (14 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
