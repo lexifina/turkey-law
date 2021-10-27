@@ -1,0 +1,24 @@
+{
+  "number": "151",
+  "number_as_published": "2021/09/151",
+  "year": 2021,
+  "title": "council decision",
+  "decision_date": "2021-10-27",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=10.2021",
+  "official_document": null,
+  "source_sha256": "310c5b03c95698e9a81604a7e13c518211de246ef794417c1b18abf9d12de58a",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2021-10-27",
+  "in_force_basis": "Decision date as printed in the official council listing: 27.10.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "09",
+  "listed_subjects": 1
+}
