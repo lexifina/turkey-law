@@ -1,0 +1,2 @@
+İç denetçilerin kamu idareleri itibarıyla sayıları
+MADDE 18- (1) Kamu idarelerinin iç denetçi sayıları; idarelerin yerine getirmek zorunda oldukları görevler, kullandığı kaynaklar, merkez, taşra ve yurt dışı teşkilatının özelliği, toplam personel sayısı ve denetim ihtiyacı dikkate alınmak suretiyle ve denetimin maliyeti de göz önünde bulundurularak ekli listede belirlenmiştir. Kamu idareleri ilave iç denetçi ihtiyaçlarını Kurula bildirir.

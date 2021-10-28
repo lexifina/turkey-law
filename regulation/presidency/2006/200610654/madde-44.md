@@ -1,0 +1,8 @@
+Raporların sunulması
+MADDE 44- (Değişik: 24/12/2012-2012/4151 K.)
+(1) Denetim bulguları, belirli bir sürede cevaplandırılmak üzere, denetlenen birimin yöneticisine verilir. Denetlenen birimin yöneticisi, gerektiğinde çalışanlardan ve ilgililerden görüş almak suretiyle bulgularda belirtilen hususları cevaplandırarak iç denetim birimine gönderir.
+(2) Bulgu ve önerilerin önem ve düzeyi konusunda iç denetim birimi ile denetlenen birimin yöneticisi aynı görüşteyse, makul bir sürede önlem alınmasında anlaşılır.
+(3) Bulgu ve önerilerin önem ve düzeyi konusunda iç denetim birimi ile denetlenen birimin yöneticisi arasında anlaşmazlık varsa, bu duruma ilişkin değerlendirmeler rapora dahil edilir.
+(4) Denetlenen birimin görüşleri, uzlaşılamayan hususlar, denetimde tespit edilen riskler, risklerin olası etkileri, denetim sonuçlarına ilişkin genel değerlendirme ve risklerin ortadan kaldırılmasına veya en aza indirilmesine yönelik önerileri içeren nihai denetim raporu hazırlanır ve yönetici özeti de eklenerek iç denetim birimi başkanı tarafından üst yöneticiye sunulur. Denetlenen alan veya konuya ilişkin kapsamlı bir görüş ortaya konulabilmesi ve güvence seviyesinin belirtilebilmesi için, ilgili idarenin iç denetim yönergesinde güvence seviyelerinin tanımlanmış ve bunun denetlenen birimlere önceden duyurulmuş olması ile yeterli seviyede denetim kanıtı elde edilmiş olması zorunludur.
+(5) Raporlar üst yönetici tarafından değerlendirildikten sonra gereği için ilgili birimlere ve strateji geliştirme birimine gönderilir.
+(6) Denetim raporunda belirtilen önlemlerin alınıp alınmadığı iç denetim birimi tarafından izlenir.

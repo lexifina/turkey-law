@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200610654",
+  "number": "200610654",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İÇ DENETÇİLERİN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "published": "2006-07-12",
+  "enacted": "2006-06-26",
+  "gazette_number": "26226",
+  "in_force": "2021-10-28",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 28/10/2021; source row: 27/10/2021 | 4653 | 4, 13/A, 20, 28, 33, 49, 57, Ek Liste | 28/10/2021",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200610654&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "db74d41f779c0fc11d663e1c97e51c0e432cae7046eb222c46b600c5ab440dca",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,3 @@
+Birim faaliyet raporu
+MADDE 46- (1) Yıllık faaliyet raporunda; program dışı yapılanlar da dahil iç denetim faaliyetleri, iç denetim biriminin performansı, tespit ve önerileri, önerilerden onaylanmayan ve uygulanmayanlar varsa onaylanmama ve uygulanmama nedenleri, iç denetçilerin eğitimi, yönetime verilen danışmanlık hizmetleri ve diğer faaliyet sonuçları ile ilgili bilgiler yer alır.
+(2) İlgili kamu idaresinin yönetim ve kontrol sisteminin genel değerlendirmesi, önemli riskler, yönetim ve kontrol sorunları ve bunlara ilişkin önerilere de faaliyet raporunda yer verilir. Birim faaliyet raporu, Şubat ayı sonuna kadar Kurula gönderilir.

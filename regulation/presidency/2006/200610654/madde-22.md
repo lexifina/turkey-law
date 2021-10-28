@@ -1,0 +1,4 @@
+İç denetçilikte derecelendirme
+MADDE 22- (1) (Değişik: 24/12/2012-2012/4151 K.) Kamu iç denetçi sertifikası; kıdem sırası ve kadro şartları yanında iç denetçinin yeterliliği, mesleki bilgi birikimi ve temsil yeteneği dikkate alınarak ilgili idarenin teklifi üzerine Kurul tarafından derecelendirilir. İdareler puanlamaya ilişkin değerlendirmelerini; iç denetçilerin çalışmaları, hizmet içi eğitim etkinliklerine katılımı ve başarısını dikkate alarak Kurulun düzenlemelerine uygun olarak yapar.
+(2) Kamu iç denetçi sertifika dereceleri, iç denetçilerin özlük haklarının tespitinde ve kariyerlerinin planlanmasında dikkate alınır.
+(3) Kıdem sırası ve kadro şartlarının oluşmasına rağmen derecelendirme yapılmaması durumunda, buna ilişkin gerekçeler ilgili iç denetçiye ve Kurula yazılı olarak bildirilir.

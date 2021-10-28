@@ -1,0 +1,6 @@
+Yetki ve Sorumlulukları
+İç denetim birimi
+MADDE 13- (Değişik: 24/12/2012-2012/4151 K.)
+(1) İç denetim birimi, birim faaliyetleri hakkında üst yöneticiye düzenli olarak bilgi verir ve denetlenen birimlerle uzlaşılamayan hususlar ile izleme sonuçlarını üst yöneticiye ayrıca raporlar. İç denetim faaliyetinin denetim standartları ve etik kurallara uygun ve etkili bir şekilde yürütülmesi için üst yönetici ve iç denetim birimi başkanı tarafından gerekli önlemler alınır.
+(2) İç denetim birimlerinde, özellikli alanlarda yapılacak denetim faaliyetleri kapsamında idare içinden ya da diğer idarelerden teknik veya uzman personel geçici süreli görevlendirilebilir. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurul tarafından belirlenir.
+(3) İç denetim biriminin işleyişi ve yönetimi ile iç denetim faaliyetlerinin yürütülmesine ilişkin diğer usul ve esaslar, Kurulun uygun görüşü alınarak iç denetim birimleri tarafından hazırlanan ve üst yönetici tarafından yürürlüğe konulan iç denetim yönergesiyle belirlenir. İç denetim yönergesi, dönemsel olarak gözden geçirilir ve yönerge ve değişikliklerinin bir örneği Kurula gönderilir. Yönergede, plan ve program harici iç denetçilere yaptırılacak danışmanlık ve benzeri görevlerin nitelik ve süreleri denetim standartlarına uygun olarak açıkça belirtilir.
