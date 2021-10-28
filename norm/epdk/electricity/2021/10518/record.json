@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10518",
+  "decision_date": "2021-10-28",
+  "title": "Elektrik Piyasasında Önlisans veya Lisanslara Konu Üretim Tesislerinin Santral Sahalarının Belirlenmesine İlişkin Usul ve Esaslarda Değişiklik Yapılmasına Dair Usul ve Esaslar",
+  "resmi_gazete_date": "2021-11-04",
+  "resmi_gazete_number": "31649",
+  "categories": [
+    "Usul Esaslar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pVLRIul3dIM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pVLRIul3dIM="
+  ],
+  "source_sha256": "0efea41bed45ad882860fae257ad0fd92b4a537dece2b6f2afa028b2a8e222af",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1915,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-10-28",
+  "law_text_complete": true
+}
