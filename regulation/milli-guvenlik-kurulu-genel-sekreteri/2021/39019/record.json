@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39019",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ GÜVENLİK KURULU GENEL SEKRETERLİĞİ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39019",
+  "issuer": "Milli Güvenlik Kurulu Genel Sekreteri",
+  "issuer_slug": "milli-guvenlik-kurulu-genel-sekreteri",
+  "path": "regulation/milli-guvenlik-kurulu-genel-sekreteri/2021/39019",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39019&MevzuatTertip=5",
+  "source_sha256": "064efdbb2a6f2059a314c4d9d24a28ff9a864f488529d4e5fc12a58efcb65ce8",
+  "source_bytes": 36556,
+  "published": "2021-10-28",
+  "gazette": "31642",
+  "in_force": "2021-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 326,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
