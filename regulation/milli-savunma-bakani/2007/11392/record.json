@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.11392",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK SİLAHLI KUVVETLERİ SINIF OKULLARI/SINIF OKULU VE EĞİTİM MERKEZİ KOMUTANLIKLARI YÖNETMELİĞİ",
+  "number": "11392",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2007/11392",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11392&MevzuatTertip=5",
+  "source_sha256": "0edeb58541196d57f18790d44deba3bba67a05d5654cf49412dedd81e5838214",
+  "source_bytes": 109606,
+  "published": "2007-06-21",
+  "gazette": "26559",
+  "in_force": "2021-10-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/10/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-10-29",
+      "RG-29/10/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-10-29",
+      "29/10/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-10",
+      "RG-10/4/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-04-10",
+      "10/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-08-29",
+      "29/8/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 2007 – 2008 eğitim-öğretim yılı başından geçerli olmak üzere, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5815,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

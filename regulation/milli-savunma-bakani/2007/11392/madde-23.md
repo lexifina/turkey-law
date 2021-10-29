@@ -1,0 +1,3 @@
+Yüksek disiplin kurulu (Değişik başlık:RG-10/4/2015-29322)
+MADDE 23 – (Değişik:RG-29/10/2021-31643)
+(1) Yüksek disiplin kurulu, hakkında karar verilmesi istemi ile gönderilen, dış kaynaktan temin edilen muvazzaf/sözleşmeli subay, yedek subay, dış kaynaktan temin edilen muvazzaf/sözleşmeli astsubay, yedek astsubay, uzman erbaş, sözleşmeli erbaş ve er adaylarından sınıf okulları/sınıf okulu ve eğitim merkez komutanlıklarında eğitim-öğretimde bulunan öğrencilerle ilgili disiplin konularını inceleyip karara bağlayan kuruldur. Yüksek disiplin kurulu, aynı zamanda ceza inceleme kurulu olarak görev yapar.

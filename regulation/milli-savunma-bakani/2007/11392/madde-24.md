@@ -1,0 +1,4 @@
+Yüksek disiplin kurulunun kuruluşu (Değişik başlık:RG-10/4/2015-29322)
+MADDE 24 – (Değişik:RG-29/10/2021-31643)
+(1) Yüksek disiplin kurulu; sınıf okulları/sınıf okulu ve eğitim merkez komutanı başkanlığında, öğretim kurulu başkanı, öğrencinin eğitim-öğretim maksadıyla emrine verildiği en üst seviyedeki birlik komutanı veya öğrenci amiri, hukuk hizmetleri başkanı/birim amiri veya disiplin subayı ile yönergede belirtilen diğer personelden oluşur.
+(2) Temel askerlik ve subaylık/astsubaylık anlayışı kazandırma eğitimlerini Millî Savunma Üniversitesi bünyesinde gören subay ve astsubay adayları için yüksek disiplin kurulu, Millî Savunma Üniversitesi Rektörü veya görevlendireceği rektör yardımcısının başkanlığında, okul komutanı, hukuk hizmetleri başkanı/birim amiri veya disiplin subayı, eğitim yerine göre yerleşke komutanı veya öğrenci alay komutanı, eğitim yerine göre öğrenci grup komutanı veya eğitim tabur komutanından oluşur.

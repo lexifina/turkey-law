@@ -1,0 +1,5 @@
+BEŞİNCİ BÖLÜM
+İlkeler, Sınav Türleri ve Not Verme Düzeni
+İlkeler
+MADDE 16 – (1) Sınavlar; derslerin veya blok derslerin belirlenen bir bölümü veya tamamı bitirildiğinde bu dersin/blok derslerin hedeflerine ne ölçüde erişilmiş olduğunu tespit etmek, kursiyer/öğrencilerin değerlendirilmesine esas olacak başarı durumlarını saptamak amacıyla yazılı, sözlü ve/veya uygulamalı yoklamalar ile ödev ve proje çalışmaları şeklinde yapılır.
+(2) (Ek:RG-29/10/2021-31643) Sağlık nedenleri hariç, herhangi bir sebeple eğitim esnasında ayrılan aday, 6 ay ve daha fazla süre geçtikten sonra eğitime tekrar tertip edilmesi halinde ve mezuniyet notunun oluşmadığı hallerde, daha önce girmiş olsalar bile tüm derslere ve sınavlara katılmak zorundadır. 6 aydan daha az sürede eğitime tefrik edilen adaylar, mezuniyet notuna esas derslerden başarısız olduklarına ve henüz notları oluşmamış derslere devam eder. Sadece bu derslere devam eden adaylar, devam etmediği derslerin saatlerinde, Komutanlığın belirleyeceği eğitim etkinliklerine katılır.

@@ -1,0 +1,3 @@
+Dayanak
+MADDE 3 – (Değişik:RG-29/10/2021-31643)
+(1) Bu Yönetmelik; 11/5/2000 tarihli ve 4566 sayılı Harp Okulları Kanunu, 27/7/1967 tarihli ve 926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu, 4/1/1961 tarihli ve 211 sayılı Türk Silahlı Kuvvetleri İç Hizmet Kanunu, 13/6/2001 tarihli ve 4678 sayılı Türk Silahlı Kuvvetlerinde İstihdam Edilecek Sözleşmeli Subay ve Astsubaylar Hakkında Kanun, 11/4/2002 tarihli ve 4752 sayılı Astsubay Meslek Yüksek Okulları Kanunu, 18/3/1986 tarihli ve 3269 sayılı Uzman Erbaş Kanunu, 10/3/2011 tarihli ve 6191 sayılı Sözleşmeli Erbaş ve Er Kanunu ile 25/6/2019 tarihli ve 7179 sayılı Askeralma Kanununa dayanılarak hazırlanmıştır.
