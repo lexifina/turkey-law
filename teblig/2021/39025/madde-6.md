@@ -1,0 +1,4 @@
+Mevcut önlem
+MADDE 6 – (1) 12/3/2005 tarihli ve 25753 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (2005/7) ile ÇHC menşeli 9607.11 GTP altında kayıtlı "Dişleri adi metallerden olanlar" ve 9607.19 GTP altında kayıtlı "Diğerleri" ithalatında 3 ABD doları/kg seviyesinde dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) Söz konusu önlem yürütülen ilk NGGS sonucunda, 30/10/2010 tarihli ve 27744 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlemesine İlişkin Tebliğ (Tebliğ No: 2010/29) ile aynı şekilde devam ettirilmiştir.
+(3) Gerçekleştirilen ikinci NGGS neticesinde, 2/11/2016 tarihli ve 29876 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/43) ile söz konusu önlem aynı şekilde uygulanmaya devam ettirilmiştir.
