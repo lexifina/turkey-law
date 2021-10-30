@@ -1,0 +1,3 @@
+Fonun denetimi
+Madde 15 — Fon, Bakanlığın gözetim ve denetimine tâbidir. Bakanlık, Fonun tüm varlık ve işlemlerini, defterlerini, kayıtlarını, belgelerini, hesaplarını, denetim elemanları aracılığıyla denetler (Mülga ibare:RG-12/11/2011-28110) (…). Bakanlık ihtiyaca göre denetimlerde yardımcı olmak üzere teknik personel de görevlendirebilir.
+Fonun yönetici ve personeli; denetim amacıyla Bakanlıkça görevlendirilenlerin Fona ait para, mal ve para hükmündeki kâğıtları, ürünleri, kıymetli evrakı, kayıt ve defterleri gizli de olsa göstermeye, incelenmesine yardımcı olmaya, istenilen bilgileri eksiksiz ve gerçeğe uygun olarak vermeye ve diğer her türlü yardımı ve kolaylığı göstermeye mecburdur. Bunlar denetim sonucunda Bakanlıkça verilecek talimata uymak zorundadırlar.

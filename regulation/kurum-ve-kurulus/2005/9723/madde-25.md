@@ -1,0 +1,2 @@
+Geçerli para birimi
+Madde 25 — Lisanslı depoculuk teminatına ilişkin tüm işlemler Yeni Türk Lirası üzerinden yapılır. Ancak Bakanlıkça belirlenen ya da uluslararasında yaygın işlem gören yabancı para cinsinden güvenceler de teminat olarak kabul edilebilir. Bu durumda, alınan teminatlar kayıtlarda yabancı para cinsinden gösterilir. Yeni Türk Lirası karşılıklarının hesaplanmasında, Merkez Bankası Döviz Alış kuru esas alınır.

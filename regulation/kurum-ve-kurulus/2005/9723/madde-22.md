@@ -1,0 +1,5 @@
+Teminatların muhafaza ve değerlendirilmesi
+Madde 22 — (Değişik fıkra:RG-12/11/2011-28110) Fon mevcudu ve teminatlar, 18 inci maddeye göre değerlendirilir. Teminatların değerlendirilmesinden elde edilen net gelirler, ilgililerin hesabına gelir olarak kaydedilir.
+(Değişik fıkra:RG-12/11/2011-28110) Fon mevcudu ve teminatlar, yönergelere uygun olarak, Fonun bünyesinde ya da bankalarda muhafaza edilir. Menkul ve gayrimenkul teminatlar, Yönetim Kurulunca ihtiyaç görülmesi halinde, teminatı verenlere sigorta ettirilebilir. Bu takdirde, düzenlenen sigorta poliçesinin bir nüshası Fona teslim edilir.
+Fon ad ve lehine düzenlenen teminatlar, noter tastikli ve müteselsil sıra numaralı fon kayıt defterine kaydedilir. Her teminat veren adına bir teminat kayıt numarası verilir ve teminatlar bu numaralarla ayrı ayrı takip edilir. Teminatlara ilişkin kayıtlar elektronik ortamda da tutulabilir. Ancak, elektronik ortamda tutulan kayıtların, noter tastikli ve müteselsil sıra numaralı formlara çıktıları alınarak muhafaza edilir.
+(Mülga fıkra:RG-12/11/2011-28110)

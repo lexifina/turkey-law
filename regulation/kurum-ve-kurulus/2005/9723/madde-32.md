@@ -1,0 +1,2 @@
+Bilanço faaliyet raporu ve bilgilendirme
+Madde 32 — Fonun hesap dönemi takvim yılıdır. Fon, yıllık bilanço ile gelir ve gider tablosunu, hesap dönemine ilişkin faaliyetlerini, sonraki dönem hakkında görüş ve önerilerini ve alınması gereken önlemleri içeren faaliyet raporunu düzenleyerek takip eden yılın Mart ayı sonuna kadar Bakanlığa gönderir. Fon, yıl içerisinde de ara raporlar düzenleyerek faaliyetleri, görüş ve önerileri hakkında Bakanlığı bilgilendirebilir.

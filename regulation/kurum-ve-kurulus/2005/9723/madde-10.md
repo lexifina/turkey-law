@@ -1,0 +1,6 @@
+Yönetim kurulu üyeliğinin sona erme halleri
+Madde 10 — Yönetim Kurulu Başkan ve üyelerinin görevlerine, süreleri dolmadan son verilemez.
+Ancak, Yönetim Kurulu Başkanı ve üyelerinin; istifa etmesi, geçerli bir mazereti olmaksızın arka arkaya üç veya bir yılda beş Yönetim Kurulu toplantısına katılmaması, lisanslı depo işletmesi ve Borsa temsilcisinin yönetim kurulu üyeliğinin sona ermesi veya Kanunun 34 üncü maddesinde öngörülen hukuki veya cezai sorumluluğu gerektiren bir fiili işlediklerinin mahkeme kararıyla sabit görülmesi hallerinde Yönetim Kurulu üyeliği kendiliğinden sona erer.
+Görevi sona eren üyenin yerine, Başkan tarafından en geç beş işgünü içinde ilgili yedek üye çağrılır. Yönetim Kurulu üyeliklerinin tamamının boşalması halinde, yedek üyelerin çağrılması Bakanlıkça yapılır. Bu şekilde göreve başlayan üye, yerine atandığı üyenin görev süresini tamamlar.
+Yedek üyelerin çağrılmasına rağmen, üyeliklerdeki boşalma nedeniyle Yönetim Kurulu toplantı nisabını yitirmişse bu Yönetmeliğin 8 inci maddesine göre iki yıl görev yapmak üzere asil ve yedek üyeliklere atama veya seçim süreci yeniden başlatılır.
+(Değişik beşinci fıkra:RG-30/10/2021-31644) Herhangi bir nedenle boşalan Yönetim Kurulu asil ve yedek üyeliklerine, boşalmayı takiben atama ve seçim süreci en geç 30 gün içinde tamamlanır. Bu süre en fazla 1 hafta uzatılabilir.
