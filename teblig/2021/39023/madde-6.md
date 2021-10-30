@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6 – (1) 5/2/2005 tarihli ve 25718 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2005/2) ile ÇHC menşeli önlem konusu ürüne yönelik olarak 1 ABD Doları/kg ve 2,2 ABD Doları/kg tutarında dampinge karşı önlem yürürlüğe konulmuştur.
+(2) 31/10/2010 tarihli ve 27745 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2010/28) ile tamamlanan birinci NGGS ile 2/11/2016 tarihli ve 29876 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/44) ile tamamlanan ikinci NGGS’de, yürürlükte olan dampinge karşı önlemin aynen uygulanmaya devam edilmesine karar verilmiştir.
