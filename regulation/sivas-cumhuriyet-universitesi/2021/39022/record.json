@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-10-30",
+      "30.10.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31644",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-10-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2021/39022",
+  "published": "2021-10-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39022&MevzuatTertip=5",
+  "source_bytes": 27908,
+  "source_id": "8.5.39022",
+  "source_sha256": "225bf5b7ea8ebf4ec4c8c274043b9dde540c87a51058d3c421b2a0363a45311b",
+  "text_status": "as-enacted",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ KANGAL KÖPEĞİ UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1170
+}
