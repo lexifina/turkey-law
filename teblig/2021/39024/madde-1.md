@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Şişecam Elyaf Sanayii A.Ş. tarafından gerçekleştirilen başvuruya istinaden Çin Halk Cumhuriyeti menşeli “cam elyafı takviye malzemeleri (boru ve tüplerin izolasyonuna mahsus kokiller ve mahfazalar hariç; taşlama ve kesici disklerde kullanılan delikli disk şeklindeki cam dokuma hariç)” ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
