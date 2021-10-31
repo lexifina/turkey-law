@@ -1,0 +1,9 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyetleri şunlardır:
+a) Üniversiteye bağlı birimlerde ölçme ve değerlendirme çalışmaları gerçekleştirmek.
+b) Eğitim sorunları ile ilgili araştırmalar ve incelemeler yapmak, bu alanda yapılan çalışmalara katılmak ve desteklemek.
+c) Çeşitli amaçlarla seçme, sınıflama, yerleştirme, rehberlik, öğretimi geliştirme, araştırma gibi çalışmalarda kullanılan ölçme araçlarının geliştirilmesi, uyarlanması çalışmalarını planlamak, gerçekleştirmek ve bu alanda yapılan çalışmalara katılmak ve bu çalışmaları desteklemek.
+ç) İç ve dış paydaşların veri toplanması, depolanması, analiz edilmesi ve rapor edilmesine yönelik ihtiyaçları için eğitim, hizmet sağlamak.
+d) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası düzeyde öğrenci başarısını belirleme amacıyla uluslararası öğrencilerin önlisans ve lisans programlarına kabulünde kullanılmak üzere, Burdur Mehmet Akif Ersoy Üniversitesi Uluslararası Öğrenci Sınavı (MAKÜYÖS)’nı Türkçe ve başka dillerde olmak üzere yurt içinde ve yurt dışında düzenlemek, gerektiğinde elektronik ortamlarda MAKÜYÖS’ün yapılabilmesi için sınav salonları oluşturmak, yurt içi ya da yurt dışı sınav merkezlerine sınavları yürütmek üzere kurum içinde görevlendirmeler yapmak, MAKÜYÖS’ü yürütmek ve uygulanan MAKÜYÖS’e ilişkin veri çözümlemesi yapmak.
+e) İlgili mevzuat hükümleri kapsamında ulusal ve uluslararası kuruluşlarla iş birliği yapmak, ölçme ve değerlendirme ile ilgili rapor, bülten, proje, kitap, dergi ve benzeri yayımlar yapmak.
+f) Merkez faaliyetlerinin tanıtılması ve yaygınlaştırılması için internet sitesi kurmak, sınav katılımcıları ve sınav hazırlayıcılarına yönelik olarak bilgilendirici, açıklayıcı, basılı veya elektronik kitap, kitapçık, kılavuz, makale ve raporlar hazırlamak ve Merkezin amaçları doğrultusunda eserler üretmek.
