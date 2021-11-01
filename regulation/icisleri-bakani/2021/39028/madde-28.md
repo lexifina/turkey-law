@@ -1,0 +1,4 @@
+Müteakip hizmet
+MADDE 28 – (1) Herhangi bir nedenle sıralı hizmet bölgelerinde 730 hizmet puanına tekabül eden süreyi tamamlamadan bu bölgelerden ayrılanlardan noksan kalan hizmetini tamamlamak üzere sıralı hizmet bölgelerine atananların veya sıralı hizmet bölgelerine yapılan geçici görevlendirmeler nedeniyle oluşan hizmet puanı fazlalığı dikkate alınarak hizmetini birinci yılında tamamlayacak olanların müteakip hizmeti; talep etmeleri ve atama dengesi gözetilerek Jandarma Genel Komutanlığınca uygun görülmesi halinde bir defaya mahsus atamalı bulundukları yerde tamamlatılabilir.
+(2) Zorunlu haller dışında müteakip hizmet görevi öncelikle personelin atamalı bulunduğu bölgede olmak üzere aynı derecedeki bir hizmet bölgesinde yaptırılır.
+(3) Personelin müteakip hizmet talebi elektronik ortamda veya resmi yazıya ekli dilekçeyle yapılır. Talepler Jandarma Genel Komutanlığı tarafından karara bağlanır.

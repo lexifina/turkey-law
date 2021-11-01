@@ -1,0 +1,2 @@
+Eşleri Jandarma Genel Komutanlığı dışındaki kamu kurum ve kuruluşlarında çalışan personele uygulanacak esaslar
+MADDE 47 – (1) Personelin Jandarma Genel Komutanlığı dışındaki kamu kurum ve kuruluşlarında görevli eşlerinin çalışma koşullarını gerekçe göstererek yaptığı atanma talepleri, emsallerine nazaran avantaj sağlamayacak şekilde atama dengesi, hizmet ihtiyacı ve personelin safahatı gözetilerek değerlendirilir.

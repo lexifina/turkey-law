@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39028",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "JANDARMA GENEL KOMUTANLIĞI SUBAY, ASTSUBAY VE UZMAN JANDARMA ATAMA YÖNETMELİĞİ",
+  "number": "39028",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2021/39028",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39028&MevzuatTertip=5",
+  "source_sha256": "6cfa5402a638796cc1c42c403f849397cf0066cbdc4c96f90f6f6561ecee4c7e",
+  "source_bytes": 235120,
+  "published": "2021-05-10",
+  "gazette": "31480",
+  "in_force": "2021-11-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/11/2021 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/11/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7404,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
