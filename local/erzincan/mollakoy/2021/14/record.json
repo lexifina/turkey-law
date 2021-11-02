@@ -1,0 +1,26 @@
+{
+  "number": "14",
+  "number_as_published": "14",
+  "year": 2021,
+  "title": "2022 Yılına Ait Bütçe",
+  "decision_date": "2021-11-02",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/10/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/2022-yilina-ait-butce-/14/",
+  "source_sha256": "c44c00f9c9596fdf953774f6dd34e28aae1366588453acc0e59fdbdfd51452aa",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-11-02",
+  "in_force_basis": "Decision date as printed in the official council listing: Meclisi 02.11.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/2022-yilina-ait-butce-/14/",
+  "listing_label": "2022 Yılına Ait Bütçe",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "meeting date in the decision text (the item's Karar Tarihi field carries a clock time)",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
