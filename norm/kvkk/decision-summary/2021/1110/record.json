@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1110",
+  "source_id": 7265,
+  "date": "2021-11-02",
+  "title": "“Veri sorumlusunun icra takibi başlattığı müşterilerinin kişisel verilerini herkesin erişimine açık bir internet sitesinde yayımlaması” hakkında Kişisel Verileri Koruma Kurulunun 02/11/2021 tarih ve 2021/1110 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7265/2021-1110",
+  "source_sha256": "067dab31cab057560e1275f1f56fc1430ddfc476439d377b69cf7704c777708d",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
