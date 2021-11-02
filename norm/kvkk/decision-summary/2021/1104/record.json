@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1104",
+  "source_id": 7263,
+  "date": "2021-11-02",
+  "title": "“Banka tarafından ilgili kişinin cep telefonu numarasına SMS gönderilmesi suretiyle kişisel verilerinin hukuka aykırı olarak işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 02/11/2021 tarihli ve 2021/1104 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7263/2021-1104",
+  "source_sha256": "f60eb5c583063e0b1e96950780d34cf6550e9e7879fc35dc34919e14e591e095",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
