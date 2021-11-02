@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "484",
+  "decision_date": "2021-11-02",
+  "source_id": 34970,
+  "chamber": "5",
+  "ilam_number": "12",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34970/",
+  "source_sha256": "8df0d8be6a8946bb192dcc76fcfd66648276485fa13080f5036b98848fee1f02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
