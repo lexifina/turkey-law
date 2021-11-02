@@ -1,0 +1,24 @@
+{
+  "number": "meeting-11-02",
+  "number_as_published": "meeting-11-02",
+  "year": 2021,
+  "title": "02.11.2021 TARİH VE 11 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "decision_date": "2021-11-02",
+  "source": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016",
+  "official_document": "https://kusadasi.bel.tr/userfiles/02_11_2021_MECLIS_KARARI05112021121729_05112021_122121_11112021_105817.pdf",
+  "source_sha256": "eaccb57f75032b3a383053be082c6445314bf3b52f24a43f79e7888405053ef4",
+  "issuer": "Kuşadası Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-11-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.11.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "02.11.2021 TARİH VE 11 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016"
+}
