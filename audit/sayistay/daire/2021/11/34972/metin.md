@@ -1,0 +1,153 @@
+Personel atama
+
+Büyükşehir Belediyesinde zabıta şube müdürlüğüne/şube müdürlüğüne atanan ............................’nın atamasının yönetmeliğe aykırı yapılması suretiyle ........................... TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak,
+
+04.07.2009 gün ve 27278 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin, “Zabıta ve itfaiye personeli” başlıklı 21 inci maddesinde;
+
+“Zabıta ve itfaiye personelinin görevde yükselme işlemleri, ilgili mevzuat hükümlerine göre yürütülür.” denilmiştir.
+
+11.07.2007 gün ve 26490 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Belediye Zabıta Yönetmeliğinin “Görevde yükselme şartları” başlıklı 17 nci maddesinde;
+
+“(1) Bu Yönetmeliğin 6 ncı maddesinde sayılan unvanlardan daire başkanı ve zabıta müdürü dışındaki kadrolara yapılacak atamalarda aşağıdaki şartlar aranır.
+
+a) Zabıta şube müdürlüğüne atanabilmek için;
+
+1) Meslekle ilgili yüksek öğrenimi bitirmesi veya en az 4 yıllık yüksek öğrenim mezunu olmak,
+
+2) En az iki yıl zabıta amiri olarak çalışmış olmak,
+
+3) 1-4 dereceli kadrolara atanmak için 657 sayılı Kanunun 68 inci maddesinin (B) bendinde belirtilen süre kadar hizmeti bulunmak,
+
+4) Son üç yıllık sicil notu ortalaması en az iyi derecede olmak,
+
+5) Görevde yükselme sınavında başarılı olmak,
+
+6) Kadro durumu elverişli olmak,
+
+…
+
+şartları aranır.
+
+(2) Belediyeler, atanılacak görevin niteliği itibariyle aranacak hizmet sürelerini, 657 sayılı Kanunun 68 inci maddesinin (B) bendi hükümlerine göre değerlendirerek kendi kurumlarında ve diğer kurumlarda geçen hizmet sürelerini dikkate alarak belirlerler. Bu sürelerin en az iki yılının zabıta teşkilatında geçmiş olması şarttır. Ancak, yeni kurulan belediyeler ile görevde yükselmeyle ilgili ilanlara başvuru olmaması halinde en az iki yıl çalışmış olmak şartı aranmaz.”
+
+“Yönetmelikte hüküm bulunmayan haller” başlıklı 51 inci maddesinde ise;
+
+“ (1) Bu Yönetmelikte hüküm bulunmayan hallerde;
+
+“ı) 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan, Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik,
+
+hükümleri uygulanır.” düzenlemeleri yapılmıştır.
+
+Zabıta Şube Müdürlüğüne Yapılan Atamanın İncelenmesi;
+
+Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin 21 inci maddesinde zabıta personelinin görevde yükselme işlemlerinin ilgili mevzuat hükümlerine göre yürütüleceği belirtildiği için Zabıta Yönetmeliği dikkate alınmalıdır. Belediye Zabıta Yönetmeliğinin 17 nci maddesine göre, zabıta şube müdürlüğüne atanabilmesi için kişinin meslekle ilgili yükseköğrenimi bitirmiş veya en az 4 yıllık yükseköğrenim mezunu olması, en az iki yıl zabıta amiri olarak çalışmış olması,  1-4 dereceli kadrolara atanmak için 657 sayılı Kanunun 68 inci maddesinde belirtilen süre kadar hizmetinin bulunması, son üç yıllık sicil notu ortalaması en az iyi derecede olması, görevde yükselme sınavında başarılı olması, kadro durumunun elverişli olması ve hizmet süresinin en az iki yılının zabıta teşkilatında geçmiş olması gerekir.
+
+Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin Geçici 3 üncü maddesinin ikinci paragrafında, “Kurumlar, özel yönetmelikleriyle bu Yönetmeliğin yürürlüğe girdiği tarihte görevde bulunan personeli bakımından, 5 inci madde ile öngörülen öğrenim düzeyinin altında bir öğrenim düzeyi belirleyebilirler.” denildiği ve Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin 21 inci maddesinde de zabıta personelinin görevde yükselme işlemlerinin ilgili mevzuat hükümlerine göre yürütüleceği belirtildiği için Zabıta Yönetmeliğine bakılması gerekir. Zabıta Yönetmeliğinde de bir alt öğrenimin esas alınacağına dair düzenleme bulunmamaktadır.
+
+.....................................’nın hizmet cetveline göre ...... tarihinde açıktan zabıta memuru olarak atandığı, ..... tarihinde zabıta komiserliğine, ..... tarihinde İşletme ve İştirakler Daire Başkanlığına, ....... tarihinde zabıta şube müdürlüğüne, ...... ve ....... tarihinde şube müdürlüğüne atanmış, ...... tarihinde .............................. Üniversitesi İşletme Fakültesi önlisansı bitirmiştir. Bu kişi 11 gün Daire Başkanı olarak görev yaptıktan sonra zabıta şube müdürlüğüne atanmıştır.
+
+Söz konusu kişi zabıta şube müdürlüğüne atanmak için meslekle ilgili yükseköğrenimi bitirmiş veya en az 4 yıllık yükseköğrenim mezunu olma, en az iki yıl zabıta amiri olarak çalışmış olma ve görevde yükselme sınavında başarılı olma şartlarını sağlamadığı için zabıta şube müdürlüğüne atanamaz. Daire Başkanlığından zabıta şube müdürlüğüne geçilmesi de mümkün değildir. Daire Başkanı olmak için 657 sayılı Kanun’un 68/B maddesine göre yükseköğrenim ve hizmet şartı haricinde başka bir şartın olmadığı dikkate alındığında, bu atamanın kazanılmış hak kabul edilerek naklen zabıta şube müdürlüğüne atanabileceğini kabul etmek mümkün değildir. Daire Başkanlığından görevde yükselmeye tabi değil iken zabıta şube müdürlüğü görevde yükselmeye tabidir.
+
+Zabıta Şube Müdürü olarak çalışmakta iken ...... ve ..... tarihinde Park Bahçeler ve Ağaçlandırma Daire Başkanlığı altında şube müdürü kadrosuna naklen atanmıştır. Atandığı şube müdürü kadrosu Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik kapsamında görevde yükselmeye tabi olan şube müdürü kadrosudur. Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin görevde yükselme sınavına tabi olarak atanacaklarda aranacak özel şartlar başlıklı 7 nci maddesine göre bir kişinin şube müdürü olarak atanabilmesi için, 657 sayılı Kanunun 68 inci maddesinin (B) bendinde belirtilen atanma şartlarını taşıması, fakülte veya en az dört yıllık yüksekokul mezunu olması ve iki yılı uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olması ve sınavda başarılı olması gerekir. Kişi istenen üç şartı taşıyıp en az 6 ay Daire Başkanlığı görevini yaptığı takdirde müdürlüğe sınavsız atanabilir. Daire Başkanlığından müdürlüğe atanmada 20/c ile 7 nci madde hükmü birlikte dikkate alınmalıdır. 18.04.1999 tarihi itibariyle memur olduğundan ve 09.05.1997 tarihinde ön lisansı bitirdiğinden dolayı Mahalli İdareler Görevde Yükselme Yönetmeliğinin Geçici 1 inci maddesinin birinci fıkra hükmü gereği bitirdiği okul dört yıl olarak kabul edilmiştir. ....................................... atanma şartlarından en az 6 ay Daire Başkanlığı yapma ile iki yılı uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olma şartını taşımamaktadır.
+
+Diğer taraftan mevzuata aykırı olarak zabıta şube müdürü kadrosuna atanan bu kişinin zabıta şube müdürlüğüne atandığı kabul edilerek naklen şube müdürlüğüne atanabilmesi de mümkün değildir.
+
+04.07.2009 gün ve 27278 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin “Hizmet grupları arasında geçişler”  başlıklı 20 nci maddenin birinci fıkrasının (c) bendindeki, “Bu Yönetmelik kapsamı dışında bulunan daha üst görevlerde, en az altı ay süreyle çalışmış olanlar, aranan şartları taşımaları kaydıyla, bu Yönetmeliğin 5 inci maddesinde yer alan “yönetim”, “araştırma, planlama ve savunma hizmetleri” hizmetleri gruplarında gösterilen kadrolara sınavsız atanabilir. Bu Yönetmelik kapsamındaki diğer kadrolara sınavsız atanmak için altı ay çalışmış olmak şartı aranmaz.” düzenlemenin bu atamada uygulanması aynı Yönetmeliğin 21 inci maddesinde, zabıta personelinin görevde yükselme işlemlerinin ilgili mevzuat hükümlerine göre yürütüleceği belirtildiği için mümkün değildir. Zabıta yönetmeliğinde üst görevde bulunanların görevde yükselme sınavına tabi kadrolara şartları taşıyanların atanacağına dair bir düzenleme bulunmamaktadır.
+
+11 gün Daire Başkanlığı yapmış olma herhangi bir kazanılmış hak teşkil etmeyeceği gibi zabıta şube müdürlüğüne atanmanın basamağı da değildir. Kaldı ki zabıta müdürlüğüne atanmak için gerekli şartları taşımadığı için bu atamanın açık hata kapsamında olduğu dikkate alındığında Daire Başkanlığına atanma ile şube müdürlüğüne atanma arasındaki sürenin 11 gün olduğu göz önüne alındığında bu atamanın sınavsız zabıta şube müdürlüğüne atanmak için yapıldığı da açıktır.
+
+Savunmalarda kişinin ..... tarihinde önlisans mezunu olması ve Yönetmeliğin geçici maddesi gereği okulunun dört yıl kabul edildiği,  kişinin 68/B maddesine göre atandığı, 04.07.2009 tarih ve 27278 sayılı Resmi Gazete'de yayımlanan Yönetmeliğin 20/c maddesi ile üst görevlerde en az altı ay çalışma şartının getirildiği, ancak ...............................'nın atamasının yapıldığı tarihte geçerli olan Yönetmelikte bu yönde bir hüküm mevcut olmadığı, kişinin zabıta şube müdürlüğüne atamasının 2009 tarihinden önce ...... tarihinde yapıldığı göz önüne alındığında altı ay süre şartına tabi olmadığı, 657 sayılı Kanun’un 76 ncı maddesinden bahsedilerek zabıta şube müdürlüğüne atanmasında kanun ve yönetmeliklere aykırı bir durumun söz konusu olmadığı, Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin "Kazanılmış Haklar" başlıklı 22 nci maddesinden bahsedilerek şube müdürlüğü kadroları GİH sınıfında olduğundan müdürlükler arası naklen atamalarda aksine herhangi bağlayıcı bir hüküm olmadığından ..... ve .... tarihlerinde Park Bahçeler ve Ağaçlandırma Daire Başkanlığı altındaki Şube Müdürlüğüne atanmasında kanun ve yönetmeliklere aykırı bir durum olmadığı, yapılan ödemelerde ve atama kararında, kanunun geriye yürümezlik ilkesi gereğince mevzuata aykırılık bulunmadığı ifade edilmiş ise de;
+
+Uyuşmazlık .................................’nın zabıta şube müdürüne yapılan atamasının mevzuata uygun olup olmadığı ile bu atamanın kazanılmış hak kabul edilerek diğer şube müdürlüğüne yapılan atamanın yapılıp yapılamayacağı noktasındadır.
+
+18.04.1999 gün ve 23670 sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin 2 nci maddesinde bu Yönetmeliğin, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararname’nin eki (I) ve (III) sayılı cetvellerde yer alan kadrolarda, il özel idareleri ve belediyeler ile bunların kurdukları birlik, müessese ve işletmelere ait memur kadrolarında, özelleştirme kapsam ve programında bulunan kuruluşlar da dâhil olmak üzere kamu iktisadi teşebbüsleri ve bağlı ortaklıklarına ait memur kadroları ile sözleşmeli personel pozisyonlarında istihdam edilen personelin, müdür ve daha alt görevlere görevde yükselme mahiyetindeki asaleten atamaları ile en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin unvan değişikliği mahiyetindeki asaleten atamaları hakkında uygulanacağı hüküm altına alınmıştır. Aynı Yönetmeliğin “Görevde Yükselmeye İlişkin Esaslar” başlıklı ikinci bölümünün “Öğrenim düzeyi” başlıklı 5 inci maddesinde;
+
+“Devlet memurlarının bu Yönetmelik kapsamındaki görevlere atanabilmeleri için gerekli olan öğrenim düzeyleri kurumları tarafından çıkarılacak yönetmeliklerinde unvanlar itibariyle gösterilir.
+
+Devlet memurlarının;
+
+a) Müdür, Şube Müdürü, Başmühendis, (…) (1), Araştırmacı, Eğitim Uzmanı, Uzman, Müdür Yardımcısı, Çözümleyici ve bu düzeyde bulunan görevler ile daha üstü görevlere atanabilmeleri için en az dört yıllık yüksek öğrenim,
+
+b) Programcı, Şef, Amir ve bu düzeyde görevlere atanabilmeleri için en az iki yıllık yüksek öğrenim,
+
+c) Memur, Muhasebeci, Bilgisayar İşletmeni, Veri Hazırlama ve Kontrol İşletmeni, Şoför ve bu düzeydeki görevlere atanabilmeleri için en az orta öğrenim,
+
+görmüş olmaları şarttır.
+
+Ancak, kurumların kendi yönetmeliklerinde düzenlemeleri kaydıyla, sadece hizmet alanına ilişkin olarak iki yıllık yükseköğrenim görenlerin müdür ve daha alt görevlere, orta öğrenim üzerine kurumlarınca açılan en az iki yıl süreli mesleki kursları bitirenlerin ise müdür yardımcısı ve daha alt görevlere atanabilmeleri için bu maddede öngörülen öğrenim şartı aranmaz.”
+
+ve geçici 3’üncü maddesinde, “Bu Yönetmelik kapsamına giren unvanları, ilgili mevzuatları uyarınca kazananların hakları saklıdır. Bu Yönetmeliğin yayımı tarihinde görevde bulunanlardan iki yıllık yükseköğrenim görenler, diğer koşullara sahip oldukları takdirde, 5 inci maddenin uygulanması bakımından dört yıllık yükseköğrenim görmüş kabul edilirler.”
+
+düzenlemeleri yapılmıştır.
+
+............................’nın hizmet cetveline göre ..... tarihinde açıkta zabıta memuru olarak atandığı, ...... tarihinde zabıta komiserliğine, ....... tarihinde İşletme ve İştirakler Daire Başkanlığına, ...... tarihinde zabıta şube müdürlüğüne, ..... ve ...... tarihinde şube müdürlüğüne atanmış, ..... tarihinde ............................. Üniversitesi İşletme Fakültesi önlisansı bitirmiştir. Söz konusu kişi 11 gün Daire Başkanı olarak görev yaptıktan sonra zabıta şube müdürlüğüne atanmıştır.
+
+11.07.2007 gün ve 26490 sayılı Resmi Gazete'de Belediye Zabıta Yönetmeliği yayımlanarak yürürlüğe girmiştir. Kişi ...... tarihinde zabıta şube müdürlüğüne atandığına göre bu atamada Belediye Zabıta Yönetmelik hükümlerine bakılmalıdır. Zabıta şube müdürlüğüne atamanın yapıldığı tarihte 02.02.2000 gün ve 23952 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmelik yürürlükte olsa da, bu yönetmelikten sonra 11.07.2007 tarihinde yürürlüğe giren Belediye Zabıta Yönetmeliğinin daha sonra yayımlandığı ve özel olarak zabıta ile ilgili olduğu için 2007 tarihli Yönetmelik hükümlerine göre zabıta şube müdürlüğüne yapılan ataması değerlendirilmelidir.
+
+Belediye Zabıta Yönetmeliğinin 17 nci maddesine göre, zabıta şube müdürlüğüne atanabilmesi için kişinin;  meslekle ilgili yükseköğrenimi bitirmiş veya en az 4 yıllık yükseköğrenim mezunu olması, en az iki yıl zabıta amiri olarak çalışmış olması,  1-4 dereceli kadrolara atanmak için 657 sayılı Kanunun 68 inci maddesinde belirtilen süre kadar hizmetinin bulunması, üç yıllık sicil notu ortalaması en az iyi derecede olması, görevde yükselme sınavında başarılı olması, kadro durumunun elverişli olması, hizmet süresinin en az iki yılının zabıta teşkilatında geçmiş olması gerekir.
+
+Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin Geçici 3 üncü maddesinde; “Bu Yönetmelik kapsamına giren unvanları, ilgili mevzuatları uyarınca kazananların hakları saklıdır. Bu Yönetmeliğin yayımı tarihinde görevde bulunanlardan iki yıllık yükseköğrenim görenler, diğer koşullara sahip oldukları takdirde, 5 inci maddenin uygulanması bakımından dört yıllık yükseköğrenim görmüş kabul edilirler.”
+
+Kurumlar, özel yönetmelikleriyle bu Yönetmeliğin yürürlüğe girdiği tarihte görevde bulunan personeli bakımından, 5 inci madde ile öngörülen öğrenim düzeyinin altında bir öğrenim düzeyi belirleyebilirler.” denildiği için Zabıta Yönetmeliğine bakılması gerekir. Zabıta Yönetmeliğinde bir alt öğrenimin esas alınacağına dair düzenleme bulunmamaktadır.
+
+Belediye Zabıta Yönetmeliğinin “Yönetmelikte hüküm bulunmayan haller” başlıklı 51 inci maddesinin birinci fıkrasının (ı) bendinde, Bu Yönetmelikte hüküm bulunmayan hallerde, 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan, Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmelik hükümlerinin uygulanacağı belirtilmiştir.
+
+Belediye Zabıta Yönetmeliğinde hüküm yer almasa da, hüküm bulunmayan hallerde Genel Yönetmelik hükümleri uygulanacaktır.
+
+Zabıta Yönetmeliğinde belirtilmemiş olsa da, Genel Yönetmeliğin Geçici 3 üncü maddesinde, “Bu Yönetmeliğin yayımı tarihinde görevde bulunanlardan iki yıllık yükseköğrenim görenler, diğer koşullara sahip oldukları takdirde, 5 inci maddenin uygulanması bakımından dört yıllık yükseköğrenim görmüş kabul edilirler.” hükmü gereği dört yıllık okul mezunu kabul edilebilir. Bu kişi 18.04.1999 tarihinde hem memur hem de önlisans mezunudur.  Ancak Genel Yönetmeliğin geçici 3 üncü maddesinde, “…, diğer koşullara sahip oldukları takdirde, 5 inci maddenin uygulanması bakımından dört yıllık yüksek öğrenim görmüş kabul edilirler.” yer alan hükmüne göre, dört yıllık okul mezunu kabul edilme “diğer koşullara sahip oldukları takdirde” şartına bağlanmıştır. Ancak  söz konusu kişi zabıta şube müdürlüğüne atanma şartlarından “en az iki yıl zabıta amiri olarak çalışmış olma” şartını sağlamadığından dolayı bu kişinin iki yıllık önlisans mezuniyeti dört yıl olarak kabul edilemez.
+
+04.07.2009 gün ve 27278 sayılı Resmi Gazetede yayımlanarak yürürlüğe giren Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin “Hizmet grupları arasında geçişler”  başlıklı 20 nci maddenin birinci fıkrasının (c) bendindeki, “Bu Yönetmelik kapsamı dışında bulunan daha üst görevlerde, en az altı ay süreyle çalışmış olanlar, aranan şartları taşımaları kaydıyla, bu Yönetmeliğin 5 inci maddesinde yer alan “yönetim”, “araştırma, planlama ve savunma hizmetleri” hizmetleri gruplarında gösterilen kadrolara sınavsız atanabilir. Bu Yönetmelik kapsamındaki diğer kadrolara sınavsız atanmak için altı ay çalışmış olmak şartı aranmaz.” düzenlemenin bu atamada uygulanması aynı Yönetmeliğin 21 inci maddesinde, zabıta personelinin görevde yükselme işlemlerinin ilgili mevzuat hükümlerine göre yürütüleceği ve Yönetmeliğin zabıta şube müdürlüğüne yapılan atamadan sonra yürürlüğe girmesi nedeniyle mümkün değildir. Zabıta yönetmeliğinde üst görevde bulunanların görevde yükselme sınavına tabi kadrolara şartları taşıyanların atanacağına dair bir düzenleme bulunmamaktadır.
+
+Şube Müdürlüğüne Yapılan Atama ile ilgili olarak;
+
+Zabıta Şube Müdürü olarak çalışmakta iken ...... ve ..... tarihinde Park Bahçeler ve Ağaçlandırma Daire Başkanlığı altında şube müdürü kadrosuna naklen atanmıştır. Atandığı şube müdürü kadrosu Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmelik kapsamında görevde yükselmeye tabi olan şube müdürü kadrosudur. Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin görevde yükselme sınavına tabi olarak atanacaklarda aranacak özel şartlar başlıklı 7 nci maddesine göre bir kişinin şube müdürü olarak atanabilmesi için, 657 sayılı Kanunun 68 inci maddesinin (B) bendinde belirtilen atanma şartlarını taşıması, fakülte veya en az dört yıllık yüksekokul mezunu olması ve iki yılı uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olması ve sınavda başarılı olması gerekir. Kişi istenen üç şartı taşıyıp en az 6 ay Daire Başkanlığı görevini yaptığı takdirde müdürlüğe sınavsız atanabilir. Daire Başkanlığından müdürlüğe atanmada 20/c ile 7 nci madde hükmü birlikte dikkate alınmalıdır.
+
+Raporda,  18.04.1999 tarihi itibariyle memur olduğundan ve ...... tarihinde ön lisansı bitirdiğinden dolayı Mahalli İdareler Görevde Yükselme Yönetmeliğinin Geçici 1 inci maddesinin birinci fıkra hükmü gereği bitirdiği okul dört yıl olarak kabul edilmiştir. Mahalli İdareler Personelinin Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Yönetmeliğin Geçici 1 inci maddesinde birinci fıkrasında, “Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin yürürlüğe girdiği 18/4/1999 tarihinde görevde bulunan ve aynı tarih itibarıyla iki yıllık yükseköğrenim mezunu olanlar, diğer koşullara sahip oldukları takdirde 7 nci maddenin uygulanması bakımından dört yıllık yükseköğrenim mezunu kabul edilir.” denilmektedir. Yönetmeliğin geçici 1 inci maddesinde, “…, diğer koşullara sahip oldukları takdirde, 7 nci maddenin uygulanması bakımından dört yıllık yüksek öğrenim görmüş kabul edilirler.” yer alan hükmüne göre, dört yıllık okul mezunu kabul edilme “diğer koşullara sahip oldukları takdirde” şartına bağlanmıştır. Söz konusu kişi şube müdürlüğüne atanma şartlarından “iki yılı uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olması” şartını sağlamadığından dolayı iki yıllık önlisans mezuniyeti dört yıl olarak kabul edilemez.
+
+Diğer bir ifadeyle, ............................. atanma şartlarından en az 6 ay Daire Başkanlığı yapma ile iki yılı uzman, sivil savunma uzmanı, şef, ayniyat saymanı, kontrol memuru, eğitmen veya muhasebeci kadrosunda çalışmış olma şartını taşımamaktadır.
+
+Mevzuata aykırı olarak zabıta şube müdürü kadrosuna atanan bu kişinin zabıta şube müdürlüğüne atandığı kabul edilerek naklen şube müdürlüğüne atanabilmesi mümkün değildir.
+
+Neticeten, kamu görevlilerinin ilk kez bir göreve atanırken ya da görevde yükselme suretiyle üst göreve atanırken söz konusu görevin gerektirdiği nitelikleri taşıması zorunludur. Bu zorunluluk atama tarihi bakımından geçerli olduğu gibi görevin sürdürüldüğü süre zarfı yönünden de taşınması gereklidir. Bu çerçevede ilgilinin şube müdürlüğüne atanırken bu kadroya atanabilmek için gereken şartları taşımadığı açıktır. Bir görev için öngörülen koşulların taşınmaması halinde bu görevin belirli bir süre yürütülmüş olması ilgili lehine kazanılmış hak oluşturmaz. Söz konusu koşuların atama süresince de taşınması zorunlu olduğundan bu koşulun taşınmadığının daha sonra tespit edilmesi bu kişinin bu kadroda çalışmasına hukuki engel oluşturur. İlgilinin gerekli koşulları taşımadan şube müdürlüğüne atandığı anlaşıldığında bu görevi yürütebilmesine olanak da bulunmamaktadır.
+
+İlgilinin önceki görev unvanı gözetilerek şube müdürlüğü görevini yürüttüğü anlaşılmakta ise de, bu göreve atanmasının sebebini oluşturan atama tarihinde şube müdürlüğü görevini yürütüyor olması dikkate alındığında hukuken bu kadro için gerekli nitelikleri taşımadığının anlaşılması nedeniyle şube müdürlüğüne atanma işlemi de hukuken dayanaksız hale gelmektedir.
+
+Sorumluluk yönünden yapılan inceleme;
+
+Yukarıda esası yönünden değerlendirilen hukuki işlem 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71 inci maddesinde düzenlenen kamu zararının unsurları ile fiil ve netice arasındaki illiyet bağı çerçevesinde değerlendirilecektir.
+
+5018 sayılı Kanunun 71 inci maddesinde, kamu zararı; kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunmasıdır, şeklinde tanımlanmıştır. Mevzuata aykırı işlem veya eylemlerin neticesinde ortaya çıkan bu zararı; kamu zararının objektif unsuru olarak kavramsallaştırılabiliriz. Kamu görevlilerinin varlığı, mevzuata aykırı karar, işlem veya eylemlerin varlığı ve kusur derecesinin belirlenmesine ilişkin hususları da kamu zararının sübjektif unsurları kapsamında değerlendirmek gerekmektedir.
+
+Nitekim, 6085 sayılı Sayıştay Kanunu’nun 7 inci maddesinin üçüncü fıkrasında, “Sorumlular; mevzuata aykırı karar, işlem veya eylemleri ile illiyet bağı kurularak oluşturulan ilamda yer alan kamu zararından tek başlarına veya birlikte tazmin ile yükümlüdür.” denilerek sorumluların tazmin yükümlülüğü kamu zararı ile mevzuata aykırı karar, işlem veya eylemleri arasında illiyet bağının varlığına bağlanmıştır.
+
+Bahse konu mevzuat hükümlerini birlikte değerlendirdiğimizde; hesap yargılamasında kamu zararına birden fazla sorumlunun sebep olduğunun tespiti halinde oluşan bu zarardan söz konusu sorumluların müştereken ve müteselsilen sorumlu tutulmaları gerektiği de açıktır.
+
+Kural olarak bir mali karar, işlem veya eylemin yapılmasında görev alanlardan her birinin işlemi diğer işlemlerin nedeni olduğu takdirde herkes ortaya çıkan zarardan sorumlu tutulacaktır. Bu kapsamda, somut olayda atama işlemlerinin gerçekleştirilmesi sürecince yer alan;  ..... Yılı Şube Müdürlüğü Atamasına ilişkin olarak; ........................... günlü onay ile zabıta şube müdürlüğünden şube müdürlüğü kadrosuna ataması yapılan ............................’nın atamasını arz eden .....................ile olur veren ............................... hatalı atamadan dolayı Harcama Yetkilileri ve Gerçekleştirme Görevlileri ile birlikte sorumludur.
+
+Nitekim, 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunun “Harcama Talimatı ve Sorumluluk” başlıklı 32 nci maddesinde; “Bütçelerden harcama yapılabilmesi, harcama yetkilisinin harcama talimatı vermesiyle mümkündür. Harcama talimatlarında hizmet gerekçesi, yapılacak işin konusu ve tutarı, süresi, kullanılabilir ödeneği, gerçekleştirme usulü ile gerçekleştirmeyle görevli olanlara ilişkin bilgiler yer alır.
+
+Harcama yetkilileri, harcama talimatlarının bütçe ilke ve esaslarına, kanun, tüzük ve yönetmelikler ile diğer mevzuata uygun olmasından, ödeneklerin etkili, ekonomik ve verimli kullanılmasından ve bu Kanun çerçevesinde yapmaları gereken diğer işlemlerden sorumludur” denilmekle birlikte,
+
+“Giderlerin Gerçekleştirilmesi” başlıklı 33 ncü maddesinde; “Bütçelerden bir giderin yapılabilmesi için iş, mal veya hizmetin belirlenmiş usul ve esaslara uygun olarak alındığının veya gerçekleştirildiğinin, görevlendirilmiş kişi veya komisyonlarca onaylanması ve gerçekleştirme belgelerinin düzenlenmiş olması gerekir. Giderlerin gerçekleştirilmesi; harcama yetkililerince belirlenen görevli tarafından düzenlenen ödeme emri belgesinin harcama yetkilisince imzalanması ve tutarın hak sahibine ödenmesiyle tamamlanır. Gerçekleştirme görevlileri, harcama talimatı üzerine; işin yaptırılması, mal veya hizmetin alınması, teslim almaya ilişkin işlemlerin yapılması, belgelendirilmesi ve ödeme için gerekli belgelerin hazırlanması görevlerini yürütürler”
+
+hükümlerine yer verilmiştir.
+
+5018 sayılı Kanun uyarınca, harcama yetkilileri ve gerçekleştirme görevlileri, giderin gerçekleştirilmesi ve harcamanın yapılması süreçlerinde, mevzuata uygunluk açısından kontrolleri sağlamakla yükümlüdürler. Yapılacak harcama, nitelik itibariyle hukuka aykırı nitelik taşıyorsa, söz konusu işlemleri yapmaktan kaçınmak durumundadırlar.
+
+Diğer taraftan 2008 ve 2014 Yılı atamalarına ilişkin ilgililere sorumluluk atfedilip sorgu tebliğ edilmiş ise de; kamu zararına neden olan süreçte bulunmadığı anlaşıldığından bu kişilere sorumluluk atfetmek 6085 sayılı Kanunun 7 inci ve 5018 sayılı Kanunun 71 inci maddesi kapsamında mümkün değildir.
+
+Bu itibarla,
+
+Atama işleminin iptali ilgili olarak bakanlığına yazılmasına gerek bulunmadığına,
+
+Büyükşehir Belediyesinde zabıta şube müdürlüğüne/şube müdürlüğüne atanan ............................’nın atamasının yönetmeliğe aykırı yapılması sonucu oluşan .......................... TL kamu zararının;
+
+....................... TL’sinin Harcama Yetkilisi .................... (......................), Gerçekleştirme Görevlisi ..................... (.......................) ile Diğer Sorumlular; atamayı arz eden ..................... ile ......... ........................’a,
+
+....................... TL’sinin  Harcama Yetkilisi ....................... (....................), Gerçekleştirme Görevlisi ........................ (.......................)  ile Diğer Sorumlular; atamayı arz eden ....................... ile ..................’a,
+
+Müştereken ve müteselsilen 6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereğince işleyecek faizleri ile birlikte ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle,
+
+karar verildi.
