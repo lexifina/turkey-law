@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "484",
+  "decision_date": "2021-11-02",
+  "source_id": 34987,
+  "chamber": "5",
+  "ilam_number": "12",
+  "item_number": 33,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34987/",
+  "source_sha256": "02b2d2ca9e135f89f9ee0ef914b8661857103e2c4c56fd2609ef495951f9710d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
