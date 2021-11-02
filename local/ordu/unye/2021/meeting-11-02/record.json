@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-02",
+  "number_as_published": "meeting-11-02",
+  "year": 2021,
+  "title": "ÜNYE BELEDİYE MECLİSİNİN 02.11.2021 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "decision_date": "2021-11-02",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-02-11-2021-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-02-11-2021-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "source_sha256": "44bb2d604c91372a13385a76ded98853411395efd676f15706a4c6c3cba67a80",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-11-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.11.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYE MECLİSİNİN 02.11.2021 GÜNÜ YAPTIĞI OLAĞAN TOPLANTI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-02-11-2021-gunu-yaptigi-olagan-toplanti-kararlari/",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
