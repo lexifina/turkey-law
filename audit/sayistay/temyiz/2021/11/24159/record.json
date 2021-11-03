@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50367",
+  "decision_date": "2021-11-03",
+  "source_id": 24159,
+  "chamber": "4",
+  "file_number": "48815",
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24159/",
+  "source_sha256": "5f360ab963780424dcf399e6e1fd12724a8f16a9029055e31e9ae535832ebf89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
