@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1127",
+  "source_id": 7267,
+  "date": "2021-11-04",
+  "title": "“Veri sorumlusu Üniversitenin ilgili kişinin kişisel verilerini içeren belgeleri internet sitesinde yayımlaması” hakkında Kişisel Verileri Koruma Kurulunun 04/11/2021 tarihli ve 2021/1127 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7267/2021-1127",
+  "source_sha256": "7d98ac4a34ff0cf576e27a73f55acd2da90b7a60ba472773c303b9799928b6a9",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
