@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "388",
+  "decision_date": "2021-11-04",
+  "source_id": 34761,
+  "chamber": "3",
+  "ilam_number": "6",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34761/",
+  "source_sha256": "03d2826d3929b1b84b24d07e172336259ad6f5e74f1ce4fb353651edbf875fdd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
