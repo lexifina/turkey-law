@@ -1,0 +1,23 @@
+{
+  "number": "meeting-11-04",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "04.11.2021 Tarihli Meclis Karar Özeti",
+  "decision_date": "2021-11-04",
+  "source": "https://www.buca.bel.tr/tr/meclis-kararlari/2021",
+  "official_document": "https://www.buca.bel.tr/uploads/council-decisions/04.11.2021-Tarihli-Meclis-Karar-Özeti.pdf",
+  "source_sha256": "15d2b04a88c53581f85bdccaedc54bbad159388fc850ae7442fd57b59d5edc0a",
+  "issuer": "Buca Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-11-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.11.2021 (meeting date in the official title); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "list_date": "2021-11-04"
+}
