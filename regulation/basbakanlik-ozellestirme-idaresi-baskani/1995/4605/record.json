@@ -1,0 +1,38 @@
+{
+  "source_id": "7.5.4605",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI MALİ İŞLER VE MUHASEBE YÖNETMELİĞİ",
+  "number": "4605",
+  "issuer": "Başbakanlık Özelleştirme İdaresi Başkanı",
+  "issuer_slug": "basbakanlik-ozellestirme-idaresi-baskani",
+  "path": "regulation/basbakanlik-ozellestirme-idaresi-baskani/1995/4605",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4605&MevzuatTertip=5",
+  "source_sha256": "fd0ad8b76c802981492844e13608e5f8cdd1b32998ca981ae333a21a8ecf5ed7",
+  "source_bytes": 57177,
+  "published": "1995-05-16",
+  "gazette": "22285",
+  "in_force": "2021-11-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/11/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-11-04",
+      "RG-4/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2778,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

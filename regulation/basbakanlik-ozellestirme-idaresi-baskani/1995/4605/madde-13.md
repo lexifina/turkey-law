@@ -1,0 +1,2 @@
+Mizan
+Madde 13 -Mizanlar aylık ve yıllık olarak, kebir ve detay (muavin), grup ve konsolide mizanları olarak çıkarılır. Mizanlarda hesap kodları, hesap adları, hesap toplamlarını ve borç ve alacak bakiyelerini gösterecek şekilde düzenleme yapılır. Defter-i Kebir toplamları ile mizan toplamlarının birbirini tutması gerekir. Hesap dönemi sonunda envanter ve kapanış kayıtları yapılır ve kesin mizan çıkarılır. Her birimin mizanı aylık olarak düzenli şekilde alınarak dosyalanır ve muhafaza edilir. Mizan toplamı ile yevmiye defteri toplamımın birbirine eşit olması gerekir.

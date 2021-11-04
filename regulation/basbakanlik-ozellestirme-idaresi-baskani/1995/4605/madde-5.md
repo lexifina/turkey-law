@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Esas Hükümler
+Muhasebe Sistemi ve Hesap Planı
+Madde 5 - İdare'de ÖİB hesap planı uygulanır. Hesap planı İMİ Başkan Yardımcısının teklifi ve İdare Başkanı 'nın onayı ile yürürlüğe girer .İdare Başkanı ' nın onayı ile Hesap Planı Değişiklik ve İhtisas Komisyonu kurulur .Hesap Planında ana hesap kodları ve ikinci kırılmaya kadar olan tali hesap kodları ile hesap adlarına ilişkin değişiklikler ve ilaveler bu komisyon tarafından yapılarak, İdare Başkanı 'nın onayı ile yürürlüğe girer. Üçüncü kırılmadaki tali hesap kodlarında ve adlarında yapılacak değişiklikler ise, İMİ Başkan Yardımcısı'nın onayı ile yürürlüğe girer .Komisyon İMİD Başkanı'nın başkanlığında, İMİD bünyesinden üç uzman ve ilgili başkan yardımcılıklarından bildirilecek birer uzmandan müteşekkildir .İMİD Başkanı'nın bulunmadığı durumlarda, İMİD uzmanlarından en kıdemlisi başkanlığa vekalet eder.

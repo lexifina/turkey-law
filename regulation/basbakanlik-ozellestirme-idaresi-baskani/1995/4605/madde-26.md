@@ -1,0 +1,2 @@
+Kasa Anahtarları
+Madde 26 - Kasa sayımı yapılıp tutanağa bağlandıktan ve kasa defteri imza edildikten sonra kasa anahtarının bir tanesi İMİD Başkanı veya birim sorumlusunda, diğeri veznedarda kalır. Ertesi gün İMİD Başkanı veya birim sorumlusu anahtan tekrar veznedara teslim eder. Kasanın yedek anahtarları muhafaza için bankaya makbuz karşılığı teslim edilir. Kullanılan anahtarlar kaybolursa yedeklerle kasa açılır. Bu işlem tutanakla tespit edilir.

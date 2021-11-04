@@ -1,0 +1,6 @@
+Mali ve İstatistiki Tablolar
+Madde 14 - Mali tablolar olarak Bilanço, Gelir Gider Tablosu Nakit Akım Tablosu, Fon Tablosu ve bu mali tabloların ayrıntılarım gösteren nitelikteki istatistiki tablolar ay sonları itibarı ile İMİD tarafından en geç gelecek ayın 10'una kadar çıkarılır. Ay sonlarında çıkarılan mali tablolar ara dönemleri içerdiğinden dolayı istatistiki bilgi niteliğindedir. Hesap dönemi sonunda çıkarılan mizan dikkate alınarak hazırlanan ve yapılan mutabakatlar sonucunda kesin sonuca bağlanan mali tablolar ise İdarenin kesin mali sonuçlarım gösterir ve bağlayıcıdır.
+Faaliyet raporuna dönemsonu ayrıntılı mali tablolar eklenir. Diğer birimler tarafından hazırlanan istatistiki tablolar İdarenin kesin sonuçlarını göstermediği gibi bağlayıcı nitelikte de değildir. Birimlerce hazırlanan tam istatistiki tablolar mali tablolara uygun olmak zorundadır.
+a) Bilanço : Gelir gider karşılaştırmaları yapıldıktan sonra İdare'nin bütün varlık ve kaynaklarını göstermek amacıyla dönem sonu kesin mizanı dikkate alınarak hazırlanan tablolardır.
+b) Gelir Gider Tablosu : İdarenin faaliyeti sonucunda oluşan gelir ve giderler ile gelir, gider karşılaştırması sonucunda oluşan gelir-gider farklarının gösterildiği tablolardır .
+c) Nakit Akım ve Fon Tabloları : İdarenin fon ve nakit akımlarının izlenmesine yardımcı olan tablolardır.
