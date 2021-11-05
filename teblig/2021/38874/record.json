@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.38874",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/41)",
+  "number": "38874",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38874",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38874&MevzuatTertip=5",
+  "source_sha256": "8f8e04d39a91f597cfc66fbc8ed1443304119c5003726c7ecf9c8d089aa9b44e",
+  "source_bytes": 60979,
+  "published": "2021-08-26",
+  "gazette": "31580",
+  "in_force": "2021-11-05",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-5/11/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-11-05",
+      "RG-5/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-05",
+      "5/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1476,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38874-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
