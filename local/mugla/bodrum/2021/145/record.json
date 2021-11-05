@@ -1,0 +1,24 @@
+{
+  "number": "145",
+  "number_as_published": "2021-145",
+  "year": 2021,
+  "title": "Bodrum Belediyesi 2021 yılı Vergi, Harç ve Ücret Tarifeleri”ndeki grupların yeniden belirlenmesine, ayrıca belirlenen bu grupların 19.10.2021 tarih 2021/-141 sayılı meclis kararı ile kabul edilen “Bodrum Belediyesi 2022 yılı Vergi, Harç ve Ücret Tarifeleri”ne ilişkin karara eklenmesine ve bu grupların 2022 yılı tarifesindeki ...",
+  "decision_date": "2021-11-05",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2021-11-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 5.11.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2336",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
