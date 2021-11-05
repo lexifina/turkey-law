@@ -1,0 +1,2 @@
+Geçici Madde 2 - (Ek: 25/5/2007-26532)
+2007/2 sayılı Tebliğ’in yürürlüğe girdiği tarihte 2002/2 sayılı Tebliğ ile sağlanan grup muafiyetinden yararlanmakta olan, ancak 2002/2 sayılı Tebliğ’in 2007/2 sayılı Tebliğ ile değişik 2 nci maddesinde öngörülen kapsamın dışında kalan anlaşmaların bu Tebliğ’in yürürlüğe girdiği tarihten itibaren bir yıl içerisinde 4054 sayılı Kanun’un 5 inci maddesinde düzenlenen şartlara uygunluğunun sağlanması gerekir. Bu süre içerisinde anılan anlaşmalara 4054 sayılı Kanun’un 4 üncü maddesinde öngörülen yasaklama uygulanmaz.

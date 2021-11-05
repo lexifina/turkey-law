@@ -1,0 +1,2 @@
+Geçici Madde 3 – (Ek:RG-5/11/2021-31650)
+Bu maddenin yürürlüğe girdiği tarihte 2002/2 sayılı Tebliğ ile sağlanan grup muafiyetinden yararlanmakta olan, ancak 2002/2 sayılı Tebliğin 2021/4 sayılı Tebliğ ile değişik 2 nci maddesinde öngörülen kapsamın dışında kalan anlaşmaların bu maddenin yürürlüğe girdiği tarihten itibaren altı ay içerisinde 4054 sayılı Kanunun 5 inci maddesinde düzenlenen şartlara uygunluğunun sağlanması gerekir. Bu süre içerisinde anılan anlaşmalara 4054 sayılı Kanunun 4 üncü maddesinde öngörülen yasaklama uygulanmaz.

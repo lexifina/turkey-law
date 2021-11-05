@@ -1,0 +1,5 @@
+Muafiyetin Geri Alınması
+Madde 6 - (Değişik: 25/5/2007-26532)
+Bu Tebliğ ile muafiyet tanınmış bir anlaşmanın, Kanunun 5 inci maddesinde düzenlenen koşullarla bağdaşmaz etkilere sahip olduğunun tespit edilmesi halinde, Rekabet Kurulu, Kanunun 13 üncü maddesine dayanarak, anlaşmaya bu Tebliğ ile tanınan muafiyeti geri alabilir. Bu durumda Rekabet Kurulu, nihai kararını vermeden önce sağlayıcının yazılı ve/veya sözlü görüşünü, tek alıcıya sağlama yükümlülüğü içeren anlaşmalarda ise alıcının yazılı ve/veya sözlü görüşünü ister. Rekabet Kurulu ayrıca anlaşmanın diğer taraflarının ve ilgili üçüncü kişilerin yazılı ve/veya sözlü görüşlerini de isteyebilir.
+Benzer nitelikteki dikey sınırlamaların oluşturduğu paralel ağlar ilgili pazarın %50’sinden fazlasını kapsıyorsa, Rekabet Kurulu, ayrıca çıkaracağı bir tebliğ ile ilgili pazarda belirli sınırlamaları içeren dikey anlaşmaları bu Tebliğ’in sağladığı muafiyetin dışına çıkarabilir.
+İkinci fıkra uyarınca çıkarılacak tebliğler, yayımlandığı tarihten itibaren en az 6 ay geçmedikçe yürürlüğe giremez.
