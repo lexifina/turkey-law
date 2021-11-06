@@ -1,0 +1,4 @@
+Kesin Kabulün Yapılması
+Madde 24 - Kesin kabul zamanı geldiğinde, yüklenicinin yazılı başvurusu üzerine tesis sahibi tesisatın genel durumunu gözden geçirir. Geçici kabulde saptanmış olan eksik ve özürlü işlerin tamamlanmış ve düzeltilmiş olması durumunda kesin kabul işleminin yapılması için durumu Bakanlığa veya yetkili kuruluş’a bildirir.
+Bakanlık veya yetkili kuruluş kesin kabul kurulunu belirler. Kurulun oluşturulması ve yapacağı görevler geçici kabule ilişkin hükümlere göre yapılır.
+Kesin kabul kurulu gerekli gördüğü muayene, ölçme ve deneylerin yapılmasını sağlayarak tesisin kesin kabule uygun olup olmadığını saptar. Kesin kabulün yapılabilmesi için kesilecek bedeller dışında hiçbir eksiğin bulunmaması gerekir. Ancak onarılması veya düzeltilmesi gereken az fakat önemli eksikler varsa tamamlatma bedelleri saptanır, bunların tamamlanmasından sonra tutanakların onaylanması koşulu ile kabul yapılabilir.

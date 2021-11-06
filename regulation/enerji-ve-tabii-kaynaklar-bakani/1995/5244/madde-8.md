@@ -1,0 +1,5 @@
+Kabul Kurulunun Toplanması
+MADDE 8- Kabul kurulunun toplanma tarihi Bakanlık’ca veya yetkili kuruluşça belirlenir. Kabul kurulunda görev yapan görev alan başkan ve üyeler belirlenen toplanma tarihinde kabulü yapılacak tesis yerinde bulunmak zorundadırlar. Bu tarihte kabul yerinde bulunamayanlar, zamanında Bakanlığa veya yetkili kuruluşa yazılı olarak bilgi vermelidirler. Kabul kurulu listesinde bulunmasına rağmen kabule katılmayan veya katılamayan eleman kabul kurulu listesinden çıkarılır. Kurul başkanı gerek görürse ilgili kuruluştan bu elemanın yerine başka bir elemanın kurula katılması isteğinde bulunabilir.
+Tesisin yapımında kontrollük görevi yapan elemanlar kabul kurulunda görev alamazlar.
+Herhangi bir nedenle kabul kurulu belirlenen tarihten başlamak üzere iki gün içinde tesis yerinde toplanamazsa, kurul başkanı durumu Bakanlığa veya yetkili kuruluşa yazı ile bildirir ve Bakanlığın veya yetkili kuruluşun bu konudaki kararına göre hareket eder.
+Kabul kurulu başkanı, kabulün gidişi ve durumunu göz önüne alarak gerekli gördüğünde bir tutanak hazırlayarak kabule ara verebilir.

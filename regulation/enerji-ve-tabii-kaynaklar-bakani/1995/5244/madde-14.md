@@ -1,0 +1,3 @@
+Projeye Göre Değişik Uygulamalar
+Madde 14 - Tesisatın yapılması sırasında arazinin ve yolların üst ve alt durumları, su beslemesinde ve yakıtların sağlanması ve gönderilmesindeki pek çok gideri gerektiren büyük güçlükler gibi nedenlerle projenin esasına ilişkin olmayan bazı ayrıntı niteliğindeki değişikliklerin yapıldığı saptanırsa, bu durumları kabul kurulu ayrıca inceleyerek ve sakıncalı görülmemesi durumunda kabul tutanağına yazarak bunların da kabulünü önerir., Yüklenici bu gibi durumlarda, yapılacak değişikliğin kabul kurulunca gerekli görülecek proje.ve hesaplarını vermekle yükümlüdür.
+Geçici Kabulün Yapılmaması.

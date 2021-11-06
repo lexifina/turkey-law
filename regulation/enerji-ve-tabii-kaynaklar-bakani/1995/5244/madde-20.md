@@ -1,0 +1,3 @@
+Tesisin Ticari İşletmeye Açılması
+Madde 20 - Tesisin tümünün veya kısmi kabulü yapılan bölümlerinin teknik ve idari bakımdan ticari işletmeye açılmasında sakınca görülmemesi durumunda, kabul kurulunun kararı kurul başkanınca ekli forma (Ek Form 3) uygun bir yazı ile mahallin en büyük mülki amirine bildirilir. Bu bildirim üzerine tesis geçici olarak ticari işletmeye açılabilir.
+Geçici işletme durumu, geçici kabul tutanakları onaylanıncaya kadar devam eder. Onay işlemi bir ay içinde sonuçlandırılmalıdır. Onaydan sonra tesis sürekli olarak işletilebilir. Tutanaklar onaylanmaz ve kabul reddedilirse geçici ticari işletmeye son verilir.

@@ -1,0 +1,5 @@
+Kabul İçin Ön Hazırlık ve Başvuru Şekli
+MADDE 6- Tesisin geçici veya kesin kabule hazır olduğu, yüklenicinin veya tesisi yapan kimsenin tesis sahibi kuruluşa veya kişiye yazılı başvurusu üzerine; tesis sahibi yüklenici veya onun bulunamaması durumunda vekilinin katılması ile tesisin durumunun incelenerek kabule hazır olup olmadığı, hazır ise bu duruma en son hangi tarihte getirildiği bir tutanakla saptanır.
+Tesisin kabule hazır olduğu sözleşmede yer alan işlerin tümünün sözleşme ve eklerine, onaylı projelerine, bu konuda yürürlükte bulunan tüzük, yönetmelik ve şartnamelere tamamen uygun bir şekilde yapılmış olduğu belirlenerek saptanır.
+Geçici kabul önerisinin yapılabilmesi için özürlü ve eksik işlerin işletmeyi ve yapılan işten güvenle yararlanmayı kesinlikle engellememesi, özürlü ve eksik işlerin ihale fiyatları ile hesaplanacak tutarının toplam ihale bedelinin %5’ini aşmaması gereklidir. Tersi durumunda kabul isteminde bulunulmayacaktır.
+Yüklenici kabul sırasında gerekli araçları, gereçleri, inceleme ve deney olanaklarını kabul kuruluna sağlamakla yükümlüdür.

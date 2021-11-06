@@ -1,0 +1,3 @@
+ÜÇÜNCÜ BÖLÜM
+Anahtarlama (Şalt)Tesisleri
+Madde 34 - Transformatör merkezleri(veya postaları), ölçme ve/veya kumanda merkezleri ve benzeri tesisler gözle veya elle muayene edilerek, boyut denetimi yapılarak incelenmeli; bu tesislerin projelerine, şartnamelere ve ilgili yönetmeliklere uygun olarak yapılıp yapılmadıkları araştırılır. Koruma ve Ölçme cihazları ile topraklama tesisatının güvenle çalışıp çalışmadığı ayarlarının yapılıp yapılmadığı, transformatörlerdeki ve varsa kesicilerdeki yağın niteliği, seviyesi ve sıcaklığı denetlenmeli, standartlara ve uygulamalara göre gerekli diğer inceleme, muayene ve deneyler yapılmalıdır.
