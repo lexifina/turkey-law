@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları şunlardır:
+a) Özel sektörün sağlıklı hizmet sunumu ve çalışanlarının esenliği bağlamında, hizmet alanlarında insan haklarının ve kişisel/sosyal uyumun güçlenmesini sağlayıcı faaliyetlerde bulunmak.
+b) Ulusal ve uluslararası düzeyde toplumsal gruplar, şirketler, kurumlar, kuruluşlar ve kişiler arasında yaşanan anlaşmazlıkların barışçıl yollarla çözümü için çalışmalar yapmak; toplumda yüksek güven kültürünün oluşabilmesi için sosyal arabulucu, insan hakları danışmanı ve şiddetle sivil mücadele formatörü yetiştirmek üzere ilgili mevzuat hükümleri çerçevesinde ulusal ve uluslararası düzeyde sertifika programları düzenlemek; ilgili kurumlarla iş birliği içinde olmak.
+c) Yerel yönetim ve özel sektör alanlarında hizmet sunanların ve hizmet alanların karşılaşabilecekleri sorunları çatışmaya dönüşmeden barışçıl yollarla çözümleyebilmeleri için, bu alanlarda yeterince konu eğitimli ve sertifikalı sosyal aktör bulunması için çalışmalar yapmak, sosyal arabuluculuk ve pozitif sosyal tutum konularında ilgili mevzuat hükümleri çerçevesinde eğitim/sertifika programlarını hazırlamak/uygulamak.
+ç) Kültürler arası, gruplar arası, kişiler arası anlaşmazlık ve çatışma çözüm teorilerinin geliştirilmesi, şiddet öğelerinin azaltılması ve barış kültürünün yaygınlaşması için ihtiyaç duyulan etkin çözüm/uygulama modellerini araştırmak, geliştirmek ve uygulamak.
+d) Giderek artan aile içi ve akrabalar arası şiddeti, töre cinayetlerini, ayrımcılığı, sosyal dışlamayı azaltıcı ve önleyici yönde kuramsal ve uygulamalı araştırmalar yapmak, projeler üretmek ve yürütmek.
+e) Farklı inanç, düşünce ve kültür grupları arasındaki ilişkilerde, göçle ülkemize gelenlerin sosyal uyumunda, vatandaş-devlet ilişkilerinde güven arttırıcı faaliyetlerde bulunmak; bu ilişkilerin demokratik zeminine yönelik sosyal ve bilimsel çalışmalar yapmak; farklılıklara saygı bilincini güçlendirmek, birlikte yaşama kültürünün inşası ve yüksek güven kültürünün kazanımı açısından bütünleştirici sosyal projeler geliştirmek ve uygulamak.
+f) Aile, komşuluk, akrabalık, yardımlaşma, iş birliği, dayanışma, hayırseverlik, merhamet, empati, gönüllülük gibi bireysel ve toplumsal değerleri güçlendirici çalışmalar yapmak.
