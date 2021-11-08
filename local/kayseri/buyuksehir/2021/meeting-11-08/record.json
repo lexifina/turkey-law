@@ -1,0 +1,23 @@
+{
+  "number": "meeting-11-08",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "08 Kasım 2021 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2021-11-08",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/08-kasim-2021-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads//karar-ozet/08-23-06-2022-17-37.pdf",
+  "source_sha256": "4bf432e0288e2b0ae107ca734c2cac18a7799e2b96e169fb67c01c3c7b16272f",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-11-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08 Kasım 2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=5"
+}
