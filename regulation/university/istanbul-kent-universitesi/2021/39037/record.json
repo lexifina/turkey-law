@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istanbul-kent-universitesi/2021/39037",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 14 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31654",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-11-09",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstanbul Kent Üniversitesi",
+  "issuer_slug": "istanbul-kent-universitesi",
+  "kind": "regulation",
+  "published": "2021-11-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39037&MevzuatTertip=5",
+  "source_id": "8.5.39037",
+  "source_sha256": "39135fd99e75cf6634f10ba2a249a5a7f342e0c8ab9b16c2398da42f5119741d",
+  "title": "İSTANBUL KENT ÜNİVERSİTESİ ULUSLARARASI STRATEJİK\r\nARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 468,
+  "version_label": "oldest version available",
+  "word_count": 791
+}
