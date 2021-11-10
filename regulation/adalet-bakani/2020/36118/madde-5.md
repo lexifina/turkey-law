@@ -1,0 +1,2 @@
+Gözlem ve sınıflandırma merkezi personeli
+MADDE 5 – (1) Gözlem ve sınıflandırma merkezlerinde mümkün olduğunca; kriminoloji, penoloji, davranış bilimleri, adalet psikolojisi veya ceza hukuku alanında bilgi ve deneyimi olan bir müdür ve yeteri kadar psikiyatri uzmanı, hekim, adlî tıp uzmanı, psikolog, pedagog, çocuk gelişimcisi, sosyal çalışmacı, psikolojik danışman, rehberlik uzmanı ve öğretmen gibi uzman görevliler ile diğer kurum görevlileri bulundurulur.

@@ -1,0 +1,13 @@
+BEŞİNCİ BÖLÜM
+İyileştirme
+İyileştirme programları
+MADDE 25 – (1) İyileştirme ve bireyselleştirme, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin onikinci bölümü ile ilgili diğer mevzuat ve protokollerde yer alan amaç, usul ve esaslar çerçevesinde eğitim ve öğretim servisi ile psiko-sosyal yardım servislerince yürütülür. Yönetim servisi ile güvenlik ve gözetim servisi başta olmak üzere diğer tüm servis ve birimler bu çalışmalara destek vermekle yükümlüdür.
+(2) Hükümlünün ilk gözlem süresi sonunda gönderildiği ceza infaz kurumunda, psiko-sosyal değerlendirme ölçekleri de uygulanarak risk düzeyi ve bireysel ihtiyaçları belirlenir. 5275 sayılı Kanunun 73 üncü maddesi gereğince, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hükümlünün risk düzeyi ve bireysel ihtiyaçlarına göre bir iyileştirme planı hazırlanarak hükümlüye tebliğ edilir.
+(3) Yapılan gözlem, görüşme ve uygulanan risk değerlendirme ölçeği sonuçlarına göre, idare ve gözlem kurulunca;
+a) Görme, konuşma ve işitme engelliler ile özbakımını yapamayacak şekilde yatağa bağımlı hasta ya da ağır kocama hali bulunanlardan durumu hekim raporu ile tespit edilenler,
+b) İyileşme ihtimali olmadığı tıbbi olarak tespit edilen ağır psikiyatrik hastalar,
+c) Sosyal olarak iletişime tamamen kapalı olduğu psikiyatri raporu ile tespit edilenler,
+ç) Şahsi ve sosyal durumu ya da suç geçmişi nedeniyle özel gözetim ve denetim altında bulundurulmasının gerekli olduğu saptananlar ve benzeri durumda olanlar,
+hakkında gelişim değerlendirmesine tabi tutulmaması kararı verilebilir. İdare ve gözlem kurulu tarafından gelişim değerlendirmesine tabi tutulmaması kararı verilen hükümlüler için iyileştirme planı hazırlanmaz ve değerlendirmeler, yalnızca yönetim ve psiko-sosyal yardım servisi tarafından düzenlenen gözlem değerlendirme raporuna göre yapılır.
+(4) İlgili servisler tarafından uygulanan risk değerlendirme ölçekleri her iki değerlendirme döneminde bir tekrarlanarak, eğitim ve öğretim ile psiko-sosyal yardım servisleri tarafından hazırlanan iyileştirme planları bu risk değerlendirmesi sonucuna göre güncellenir.
+(5) Hükümlü, Ceza İnfaz Kurumlarının Yönetimi ile Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Yönetmeliğin 67 nci maddesi uyarınca iyileştirme programlarına tam bir uyum göstermekle yükümlüdür. Hükümlünün belirlenen programlara katılımı ve gelişimi takip edilerek altı ayda bir değerlendirilir. İlgili servislerce hazırlanan gözlem değerlendirme veya gelişim değerlendirme raporları, idare ve gözlem kurulu tarafından yapılan değerlendirmelere esas teşkil eder.

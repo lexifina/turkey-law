@@ -1,0 +1,3 @@
+Cezanın infaz edileceği ceza infaz kurumunun belirlenmesi
+MADDE 12 – (1) Gözlem sonunda, gözlem ve sınıflandırma merkezi hükümlüye ait dosyayı görüşü ile birlikte Bakanlığa gönderir. Gözlem sonucuna göre hükümlünün gönderileceği ceza infaz kurumu Bakanlıkça belirlenir. Ancak yapılan gözlem ve sınıflandırma sonunda, idare ve gözlem kurulunca aynı ceza infaz kurumunda veya o yer Cumhuriyet başsavcılığına bağlı diğer ceza infaz kurumlarında kalması uygun bulunan hükümlülerin dosyaları Bakanlığa gönderilmez ve cezalarının infazına, bulundukları veya Cumhuriyet başsavcılığınca gönderilecekleri bağlı ceza infaz kurumlarında devam olunur.
+(2) Hükümlü, belirlenen ceza infaz kurumuna gidinceye kadar ceza infaz kurumunun ayrı bir bölümünde bulundurulur.
