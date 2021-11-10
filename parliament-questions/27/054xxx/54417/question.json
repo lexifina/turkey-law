@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/54417",
+  "submitted": "2021-11-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Ömer Faruk GERGERLİOĞLU",
+  "province": "Kocaeli",
+  "summary": "Elazığ 2 Nolu Cezaevinde bulunan bir mahkumun denetimli serbestlik hükümlerinden yararlandırılmadığı iddiasına ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-0399-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "ef9e4c1b44df77c3a6bef74af99d38f01500a2baedf6a29e28d53735842c472a",
+  "in_force": "2021-11-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
