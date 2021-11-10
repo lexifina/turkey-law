@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Müracaat ve İzin
+İzin Alma Zorunluluğu
+Madde 5- (Değişik ibare:RG-8/11/2019-30942) Cumhurbaşkanınca izin almadan yardım toplayabileceği kararlaştırılan kamu yararına çalışan dernek, kurum ve vakıflar dışındaki kişi ve kuruluşlar, 2860 sayılı Kanunun 7 nci maddesi ile belirlenen makamlardan bu Yönetmelikte belirtilen usule göre izin almak zorundadırlar. (Değişik ibare:RG-8/11/2019-30942) Cumhurbaşkanınca izin almadan yardım toplayabileceği kararlaştırılan dernek, kurum ve vakıflar, bu Yönetmelik kapsamına giren yardım toplama faaliyetlerini 2860 sayılı Kanunun 7 nci maddesi ile tespit edilen usule göre ilgili ve yetkili makamlara (Ek ibare:RG-10/11/2021-31655) faaliyet sonunda Yardım Toplama Sonuç Bildirimi (Ek-4) formu ile bildirmekle yetinirler. (Ek cümle:RG-10/11/2021-31655) Bu form yardım toplama faaliyetinin yıllara sari olması halinde her takvim yılının sonunda verilir.
+İzin alınmadan veya ilgili ve yetkili makamlara bilgi verilmeden girişilen yardım toplama faaliyetleri güvenlik kuvvetlerince men edilir ve sorumlular hakkında kovuşturma yapılır.

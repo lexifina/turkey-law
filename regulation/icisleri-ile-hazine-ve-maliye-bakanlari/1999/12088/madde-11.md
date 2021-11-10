@@ -1,0 +1,4 @@
+Makbuz-Bilet Kayıt Defteri
+Madde 11- Yardım toplama faaliyetlerinde bulunanlar makbuz ve biletleri kaydetmek üzere örneği (Değişik ibare:RG-10/11/2021-31655) Ek-3’te gösterilen ve noterden (Ek ibare:RG-5/7/2011-27985) veya (Değişik ibare:RG-8/11/2019-30942) sivil toplumla ilişkiler biriminden onaylı “Makbuz-Bilet Kayıt Defteri”ni tutmak zorundadır.
+Sorumlu kurul üyesine zimmetle teslim edilen makbuz, bilet ve yardım toplama pulları, bu üye tarafından numarası en küçük olandan başlamak üzere, alt alta yazılmak suretiyle Makbuz-Bilet Kayıt Defteri’ne kaydolunur. Sayman üye olarak gösterilen sorumlu kurul üyesi bu defterin düzenli bir şekilde tutulmasından sorumludur.
+Makbuz ve biletler, Kanunun 15 inci maddesine göre yardım toplama faaliyetlerinde görev alması uygun görülenlere sayman üye tarafından zimmetle verilir ve bu deftere kaydedilir.

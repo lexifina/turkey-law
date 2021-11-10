@@ -1,0 +1,3 @@
+Makbuz ve Biletlerin Kontrolü
+Madde 10- (Değişik fıkra:RG-5/7/2011-27985) Yardım toplama faaliyetlerine girişen kişi ve kuruluşlarca bastırılan makbuz, bilet ve yardım toplama pullarının, cilt, seri ve sıra numaraları ile diğer baskı işlerinde kusur bulunup bulunmadığı sorumlu kurul tarafından kontrol edilir. Kontrolde hatalı olduğu görülen makbuz ciltleri, biletler ve yardım toplama pullarının yenisi bastırılır ve sonuç bir tutanağa bağlanır.
+Hatalı olanların yerine yeniden bastırılanlar tekrar kontrol edildikten sonra makbuz, bilet ve yardım toplama pullarının tamamı sayman olarak gösterilen sorumlu kurul üyesine zimmetle teslim edilir.
