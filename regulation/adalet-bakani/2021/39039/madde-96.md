@@ -1,0 +1,2 @@
+Aile içi şiddet vakalarında yapılacak işlemler
+MADDE 96 – (1) Yükümlülerin, eşine veya diğer aile bireylerine karşı şiddet uygulaması veya şiddet uygulama tehlikesinin bulunması ya da yükümlünün şiddete maruz kalması veya şiddete maruz kalma ihtimalinin bulunması halinde, 8/3/2012 tarihli ve 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun gereğince koruyucu ve önleyici tedbir alınmak üzere ilgili kuruma durum bildirilir.

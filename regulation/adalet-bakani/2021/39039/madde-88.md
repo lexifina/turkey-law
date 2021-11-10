@@ -1,0 +1,6 @@
+Koşullu salıverilme
+MADDE 88 – (1) Denetimli serbestlik tedbiri uygulanarak cezasının infazına karar verilen ve koşullu salıverilmesine bir aydan az süresi kalan hükümlüler hakkında vaka sorumlusu tarafından, salıverme öncesi değerlendirme raporu hazırlanmasına başlanır. Hazırlanan raporda hükümlünün denetimli serbestlik altında geçen süre içerisinde tutum ve davranışlarıyla kurallara ve yükümlülüklere uyumundaki gayret ve çabası değerlendirilir.
+(2) Salıverme öncesi değerlendirme raporunda; suçun mağduru bakımından tehlike oluşturan veya tekrar suç işleme riski yüksek bulunan hükümlüler hakkında, koşullu salıverme sonrası denetim süresi içerisinde yükümlülük belirlenmesi önerilir.
+(3) Koşullu salıverme tarihine kadar olan süresini, yükümlülüklerin gereklerine ve denetim planına uygun davranarak geçiren hükümlünün salıverme öncesi değerlendirme raporu ile infaz dosyası, 5275 sayılı Kanunun 107 nci ve 108 inci maddelerine göre işlem yapılmak üzere Cumhuriyet başsavcılığı aracılığıyla infaz hâkimliğine gönderilir.
+(4) Koşullu salıverme süresinin sonunda yükümlülüğün uygulanmasına son verilir, ilgili infaz hâkiminin kararı üzerine kayıt kapatılır.
+(5) Askerlik çağına giren ve askerliğini yapmamış hükümlülerin koşullu salıverilmeleri halinde durum, kayıtlı bulundukları askerlik şubesine bildirilir.

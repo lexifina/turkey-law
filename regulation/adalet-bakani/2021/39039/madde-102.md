@@ -1,0 +1,3 @@
+Elektronik cihazların sökülmesi, izlemenin sonlandırılması
+MADDE 102 – (1) Yükümlülüğün sona ermesi veya ihlal edilmesi, yükümlünün ceza infaz kurumuna alınması ya da yükümlünün elektronik cihazların kullanılması suretiyle takibinden vazgeçilmesi durumunda, elektronik cihazlar görevli denetimli serbestlik personelince sökülür. İzleme işlemleri sonlandırılır. Elektronik cihazlar, gerekli kontroller yapılarak yükümlüden tutanak karşılığında teslim alınır.
+(2) Elektronik cihaz izleme merkezi bilgilendirilmeden sökülmez. Elektronik cihaz sökülmesine ilişkin talep üzerine izleme merkezi tarafından sistemden elektronik takip sonlandırılır ve elektronik takibe ilişkin gerekli bilgiler ilgili müdürlüğe iletilir.

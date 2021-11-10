@@ -1,0 +1,5 @@
+Talep formu
+MADDE 114 – (1) Başvuruda bulunan salıverilen hükümlüler hakkında kendileri ile görüşme yapan denetimli serbestlik memuru tarafından talep formu düzenlenir.
+(2) Talep formu, salıverilen hükümlülerin gerekli toplumsal kaynaklardan faydalanılarak topluma yeniden kazandırılmaları ve toplumla bütünleşmelerine olanak tanınması amacıyla yürütülecek çalışmalara temel oluşturan bilgileri içerir. Bu formda kişisel bilgiler, sağlık, aile, iş ve sosyo-ekonomik durum, sosyal çevre ve ilişkiler ile kişi hakkında görüşmelerden elde edilen izlenim ve kişinin talebine ilişkin mevcut sertifika, diploma, çalışma deneyimi ile değerlendirmeler yer alır.
+(3) Talep konusu dikkate alınarak talepte bulunanın ekonomik, eğitim ve mesleki durumunu gösteren belgeler, varsa Türkiye İş Kurumu kayıt belgesi veya numarası ile müdürlükçe gerekli görülen diğer belgeler talep formuna eklenir.
+(4) Talep formu, bireysel görüşmeler ve gerektiğinde ev ziyareti yapılması suretiyle düzenlenir ve kişinin dosyasında saklanır. Bu formların saklanmasında özel hayatın gizliliğine dikkat edilir.

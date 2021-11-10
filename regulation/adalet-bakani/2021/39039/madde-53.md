@@ -1,0 +1,4 @@
+Kurumsal eğitimler ve programlar listesi
+MADDE 53 – (1) Müdürlük, eğitim programına devam etme kararlarının yerine getirilmesi, yükümlülerin topluma kazandırılması ve iyileştirme çalışmaları kapsamında, bulunduğu yargı çevresindeki kamu kurumlarının, özel sektörün ve sivil toplum kuruluşlarının yürüttükleri eğitim programları, iş ve meslek kursları ile yükümlülerin boş zamanlarının yapılandırılacağı eğitsel, sosyal, kültürel, sanatsal ve sportif etkinliklere yönelik faaliyet ve programları tespit eder.
+(2) Her yılın Aralık ayının sonuna kadar oluşturulan veya yıl içerisinde güncellenen programlar listesi, değerlendirme ve planlama bürosu ile çocuk hizmetleri bürosunda görevli personele ve vaka sorumlusuna bildirilir.
+(3) Hazırlanan kurumsal eğitimler ve programlar listesi ile çalışılacak sivil toplum kuruluşları, komisyonun onayına sunulur.

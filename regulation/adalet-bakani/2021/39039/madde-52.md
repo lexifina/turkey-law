@@ -1,0 +1,5 @@
+Çalışma protokolü
+MADDE 52 – (1) Hakkında kamuya yararlı bir işte ücretsiz olarak çalıştırılma yükümlülüğü veya gözetim altında ücret karşılığında çalıştırılma yükümlülüğü verilen yükümlülerin kurumda işe başlatılmalarından önce müdürlüğün, iş yerinin ve yükümlünün görev ve sorumluluklarının yer aldığı çalışma protokolü, denetimli serbestlik personeli, yükümlü ile iş yeri temsilcisi arasında imzalanır.
+(2) Çalışma protokolünde; yükümlünün çalıştırılacağı işin türü, mahiyeti ve süresi, uyması gereken güvenlik tedbirleri, yükümlülüklerine aykırı davranması durumunda yapılacak işlemler, iş yerinde kime karşı sorumlu olduğu, iş güvenliği ve sağlığı için gerekli önlemlerin işveren tarafından alınacağı gibi bilgiler yer alır.
+(3) Gözetim altında çalışma protokolünde yukarıdaki bilgilere ek olarak iş, vergi ve sosyal güvenlik mevzuatına ilişkin yükümlülüklerin işverenler tarafından yerine getirileceği, yükümlülere ücret ödeneceği bilgisine yer verilir.
+(4) Çalışma protokolü, yükümlünün dosyasında saklanır.

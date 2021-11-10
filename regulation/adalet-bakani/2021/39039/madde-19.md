@@ -1,0 +1,23 @@
+Çocuk hizmetleri bürosu
+MADDE 19 – (1) Denetimli serbestlik müdürlüklerinde, denetimli serbestlik kapsamındaki suça sürüklenen çocuklara yönelik hizmetleri koordine etmek ve yürütmek üzere çocuk hizmetleri bürosu oluşturulur. Mümkün olması durumunda büro, müdürlüğün diğer birimlerinden ve yetişkin yükümlülere yönelik çalışmaların yürütüldüğü kısımlardan ayrı bir yerde kurulur.
+(2) Suça sürüklenen çocuklara yönelik hizmetleri yürütmek üzere, çocuk hizmetleri bürosunda çocuk hizmetleri konusunda özel eğitim almış yeteri kadar denetimli serbestlik uzmanı görevlendirilir. Müdürlüğün iş durumu uygun ise büroda görevli uzmanlara, çocuklara yönelik hizmetler dışında başka görevler verilmez.
+(3) Suça sürüklenen çocukların risk ve ihtiyaçlarının belirlenmesi, risk ve ihtiyaçlarına uygun olarak toplum içinde denetim ve takibi ile iyileştirilmesine yönelik yapılacak çalışmaların planlanması, tespit edilen risk ve ihtiyaçlara uygun eğitim ve iyileştirme çalışmalarının uygulanması ve denetimli serbestlik sürecinin tamamında suça sürüklenen çocuğun izlenmesine yönelik iş ve işlemler, çocuk hizmetleri bürosu tarafından yerine getirilir.
+(4) Çocuk hizmetleri bürosunun görevleri şunlardır:
+a) Müdürlüğe ilk başvuru sırasında suça sürüklenen çocuk ve yasal temsilcisini denetimli serbestlik süreci, yükümlülükler, hak ve sorumluluklar ile müdürlüğün çalışmaları konusunda bilgilendirmek.
+b) Suça sürüklenen çocukların risk ve ihtiyaçlarını belirlemek.
+c) Belirlenen risk ve ihtiyaçlar ile denetimli serbestlik kararının içeriğine uygun olarak 36 ncı maddede yer alan usul ve esaslara göre denetim planı hazırlamak; hazırlanan denetim planında toplumun ve mağdurun korunmasını, kararın infaz kabiliyetini, suça sürüklenen çocuğa uygunluğunu, kamu kurum ve kuruluşları ile kamu yararına çalışan sivil toplum kuruluşlarının katkı ve desteğini dikkate almak.
+ç) Belirlenen risk ve ihtiyaçlara yönelik destek alabileceği kişi ve kuruluşlar hakkında çocuğa bilgi vermek, gerekli yönlendirmeleri yapmak ve yapılan yönlendirmelerin çocuk üzerindeki etkisini takip etmek.
+d) Hazırlanan denetim planlarını, komisyonun onayına sunmak.
+e) Komisyon tarafından, suça sürüklenen çocuklar hakkında tekrar risk ve ihtiyaç değerlendirmesi yapılması ya da denetim planının yenilenmesine karar verilmesi halinde gerekli işlemleri yapmak.
+f) Hakkında denetim planı hazırlanan suça sürüklenen çocuğun infaz dosyası ve ilgili tüm belgeleri denetim planının komisyon tarafından onaylanmasını beklemeksizin aynı gün infaz bürosuna göndermek.
+g) Suça sürüklenen çocuklara yönelik bireysel görüşme, grup çalışması, seminer ve diğer eğitim ve iyileştirme çalışmalarını yürütmek.
+ğ) Aile görüşmeleri yapmak.
+h) Gerekli görülmesi halinde suça sürüklenen çocuğun risk ve ihtiyaçlarının değerlendirilmesi, uygun müdahalenin planlanabilmesi, çocuğun tekrar suça sürüklenmesini önlemeye yönelik yürütülen çalışmalarda gerekli iş birliğinin sağlanabilmesi amacıyla ev, okul, iş yeri ve benzeri ziyaretleri yapmak.
+ı) Suça sürüklenen çocuk hakkında verilen denetimli serbestlik kararının gerekleri dışında, suça sürüklenen çocuğun istekli katılımı ile çocuğun tekrar suça sürüklenmesini önlemeye hizmet edecek ve hayatına olumlu yönde katkı sunacak diğer çalışmaları planlamak, koordine etmek, çocuğu bu çalışmalar için teşvik etmek ve bu çalışmaların çocuk üzerindeki etkilerini takip etmek.
+i) Komisyona, suça sürüklenen çocuklar hakkında yapılan değerlendirmelerde dikkate alınmak üzere çocuk ile yürütülen çalışmalar ve değerlendirme konusuna ilişkin görüşü içeren rapor sunmak.
+j) Haklarında çalışma yükümlülüğü veya eğitim kurumuna ya da programına devam etme tedbiri verilen suça sürüklenen çocukların kuruma yerleştirilmesinde, gerektiğinde çocuklara refakat etmek.
+k) 5237 sayılı Kanunun 51 inci maddesinin beşinci fıkrası, 5275 sayılı Kanunun 107 nci maddesinin dokuzuncu fıkrası ile 5395 sayılı Kanunun 38 inci maddesinin birinci fıkrası ile 39 uncu maddesinin üçüncü fıkrası gereğince belirlenen sürelerle ilgili yargı merciine sunulmak üzere denetim ve değerlendirme raporu hazırlayıp infaz bürosuna iletmek.
+l) Hapis cezasının konutta infazına karar verilen çocukların adresine gitmek, konutu inceleyerek ihtiyaçlarını tespit etmek ve tespit edilen ihtiyaçları raporlayarak vaka sorumlusuna iletmek.
+m) Denetimli serbestlik süreci başladıktan sonra on sekiz yaşını dolduran kişilerle, gerek görülmesi halinde, eğitim ve iyileştirme çalışmalarına devam etmek.
+n) Müdür tarafından çocuk hizmetleri kapsamında verilen diğer görevleri planlamak ve yapmak.
+(5) Çocuk hizmetleri bürosu, müdürlüğün yetki sınırları içerisinde çocuklara yönelik çalışma yürüten tüm kurum, kuruluş ve kişilerle koordinasyon içinde çalışır.

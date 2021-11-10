@@ -1,0 +1,4 @@
+Belirli yerlere gitmekten veya belirli etkinlikleri yapmaktan yasaklanma
+MADDE 64 – (1) Belirli yerlere gitmekten veya belirli etkinlikleri yapmaktan yasaklanma; mahkemelerce hükümlünün kişisel, sosyal ve eğitim durumu ile tekrar suç işleme riski göz önüne alınarak iyileştirmeyi ve suçun tekrarını önlemeyi esas alan, hükümlünün mahkûm olduğu hapis cezasının yarısından bir katına kadar süreyle, belirli yerlere gitmesini veya belirli etkinlikleri yapmasını yasaklayan seçenek yaptırımdır.
+(2) Belirli yerler veya etkinlikler; hükümlünün suç işlemesinde, suça yönelmesinde ya da zararlı alışkanlıklar edinmesinde veya bağımlılık yapan maddeler kullanmasında; çevresel, psikolojik, sosyal veya ekonomik etkisi bulunan ya da hükümlünün yeniden suç işlemesine yol açan etkenleri tetikleyecek yerler veya etkinliklerdir.
+(3) Yaptırımın infazı, hazırlanan denetim planının hükümlüye tebliği ile başlar, mahkemece belirtilen sürenin tamamlanmasıyla sona erer.

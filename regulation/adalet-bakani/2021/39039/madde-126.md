@@ -1,0 +1,5 @@
+Elektronik ortamda kayıt
+MADDE 126 – (1) Müdürlükte her türlü veri, bilgi ve belge akışı ile dokümantasyon işlemleri ve bunlara ilişkin her türlü kayıt, dosyalama, saklama ve arşivleme işlemlerinde UYAP bilişim sisteminin sağladığı imkânlardan, güvenli elektronik imza da kullanılmak suretiyle yararlanılır. Güvenli elektronik imza ile oluşturulan belgeler ayrıca fizikî olarak gönderilmez.
+(2) Diğer kişi, kurum veya kuruluşlara verilmek üzere elektronik ortamdan fizikî örnek çıkartılması gereken hâllerde, tutanak veya belge aslının aynı olduğu belirtilerek ad, soyad, unvan ve sicil numarası yazılmak suretiyle görevli personel tarafından imzalanır ve gerekirse mühürlenir.
+(3) Müdürlüğe elektronik ortam dışında gelen evrak, taranıp elektronik ortama aktarılarak UYAP bilişim sistemine kaydedilir. Kurum ve kuruluşlardan elektronik ortam dışında gelen evrak ile fiziken muhafazası gereken diğer belgeler ayrıca mahsus kartonlarında muhafaza edilir.
+(4) Kişisel verilerin kaydı ve paylaşılmasında bu verilerin yetkisiz kişilerce elde edilmesini veya hukuka aykırı kullanılmasını önlemek için her türlü tedbir alınır.

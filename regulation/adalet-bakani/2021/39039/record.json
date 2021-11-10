@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39039",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DENETİMLİ SERBESTLİK HİZMETLERİ YÖNETMELİĞİ",
+  "number": "39039",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2021/39039",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39039&MevzuatTertip=5",
+  "source_sha256": "b9ddddc2e14cabe8e6cf2d2001734bd9a7b11d2b76d7b0240d961ebb73df137f",
+  "source_bytes": 398885,
+  "published": "2021-11-10",
+  "gazette": "31655",
+  "in_force": "2021-11-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 22793,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

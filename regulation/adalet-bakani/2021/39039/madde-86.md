@@ -1,0 +1,3 @@
+Yabancı uyruklu hükümlüler hakkında yapılacak işlemler
+MADDE 86 – (1) Yabancı uyruklu hükümlülere ait bilgiler, ilgili mevzuat hükümleri saklı kalmak kaydıyla karşı çıkmaması hâlinde hükümlünün vatandaşı olduğu devletin diplomatik temsilcilik veya konsolosluğuna bildirilir.
+(2) İçişleri Bakanlığının ülkede kalmasında sakınca olduğunu bildirdiği yabancı uyruklu hükümlüler hakkında denetimli serbestlik tedbiri olarak, koşullu salıverilme tarihine kadar ülke sınırları içine girmeme yükümlülüğü verilerek hükümlü sınır dışı işlemlerine esas olmak üzere kolluğa teslim edilir. İçişleri Bakanlığının ilgili birimi ile yapılan yazışmada hükümlünün ülke sınırları içerisine girdiğinin tespit edilmesi halinde derhal müdürlüğe bilgi verilmesi istenir.

@@ -1,0 +1,5 @@
+Projelerin hazırlanması
+MADDE 117 – (1) Salıverilen hükümlülerin yeniden suç işlemelerinin önlenmesi ve topluma kazandırılmaları amacıyla iş ve meslek edinmelerine yönelik projeler hazırlanabilir.
+(2) Projeler, ilgili kurum veya kuruluşlar ile sivil toplum kuruluşlarının iş birliğinde hazırlanır. Bu projelerde ilgili kurum veya kuruluş ya da sivil toplum kuruluşlarının mevzuatları dikkate alınır.
+(3) İş ve meslek edindirme projelerinin, işgücü piyasası ihtiyaç analizleri doğrultusunda, en kısa sürede iş imkânı sağlayacak nitelikte olmasına dikkat edilir. Ayrıca mesleki eğitim projelerinde, katılımcılara sertifika verilmesi sağlanır. Projeler hazırlanırken o bölgede faaliyet gösteren kamu ve özel kurum veya kuruluşların hangi nitelikte personel ihtiyacı olduğu araştırılır ve bu doğrultuda mesleki eğitimler verilerek, istihdam konusunda ilgili kurumlarla çalışmalar yapılır.
+(4) Hazırlanan projelere ilişkin koruma kurulu onayı projeye eklenir. Ayrıca onaylı projelerin bir örneği Daire Başkanlığına gönderilir.

@@ -1,0 +1,7 @@
+Komisyonun toplanması ve kararların alınması
+MADDE 34 – (1) Komisyonun toplantı zamanı ve gündemi diğer üyelerin de görüşü alınarak komisyon başkanı tarafından belirlenir. Komisyon, önüne gelen işleri yedi gün içerisinde karara bağlar.
+(2) Komisyon, müdürlükte yeterli sayıda personel bulunmaması halinde başkan hariç en az iki üyeyle toplanır. Komisyon kararları, katılanların oy çokluğu ile alınır, oyların eşitliği halinde başkanın bulunduğu tarafa üstünlük tanınır. Karara muhalif olan üye muhalefetine ilişkin gerekçeyi kararın ekine yazar.
+(3) Müdür, komisyonun sekretarya işlerini yürütmek üzere yeteri kadar denetimli serbestlik personeli görevlendirebilir.
+(4) Görevlendirilen personel, gündeme alınacak talepleri inceler, araştırır, toplantı gündemini hazırlayarak müdüre sunar, komisyon kararlarını ilgilisine iletir.
+(5) Risk ve ihtiyaç belirleme işleminin yenilenmesi ile denetim planı değişikliği taleplerinde bu talep komisyonca değerlendirilir; gerekli görülmesi halinde talepte bulunan personel veya ilgili yükümlü, gerekçeleri dinlenmek üzere komisyon toplantısına davet edilir.
+(6) Çocuklar hakkında yapılan değerlendirmelerde çocuk hizmetleri bürosu tarafından hazırlanan, çocuk ile yürütülen çalışmaları ve değerlendirme konusuna ilişkin görüşü içeren rapor dikkate alınır. Talebinin olduğu durumlarda çocuk hizmetleri bürosunda görevli denetimli serbestlik uzmanı komisyon toplantısına katılır.

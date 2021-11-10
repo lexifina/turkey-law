@@ -1,0 +1,10 @@
+Denetimli serbestlik kararlarının değiştirilmesi, durdurulması veya kaldırılması
+MADDE 45 – (1) Denetimli serbestlik kararının;
+a) Yükümlünün elinde olmayan nedenlerle yerine getirilememesi,
+b) İnfazının mümkün olmaması,
+c) Yükümlünün tutuklanması, hapis cezasının infazına başlanması veya askere alınması nedeniyle infazının imkânsız hale gelmesi,
+ç) 5395 sayılı Kanunun 40 ıncı maddesinin birinci fıkrası uyarınca tedbirden beklenen yararın elde edilmesi,
+d) Hapis cezasından daha ağır sonuçlar doğurması,
+durumunda Kanunda aksine bir düzenleme yoksa vaka sorumlusunun önerisi üzerine komisyon tarafından ilgili yargı merciinden denetimli serbestlik kararının değiştirilmesi, kaldırılması veya uygun olan başka karar verilmesi talep edilebilir.
+(2) Denetimli serbestlik tedbiri uygulanarak cezanın infazına veya koşullu salıverilmede denetimli serbestlik müdürlüğünce belirlenecek yükümlülüklere tabi tutulmasına karar verilen hükümlüler hakkında belirlenen yükümlülüklerin değiştirilmesine komisyon tarafından karar verilir.
+(3) Bu Yönetmeliğin dördüncü kısmının ikinci ve dördüncü bölümü ile beşinci kısmının ikinci ve üçüncü bölümünde yer alan yükümlülüklerin yerine getirilmesi sırasında yükümlünün işlediği bir suç nedeniyle; tutuklanması veya mahkûm olduğu hapis cezasının infazına başlanması ya da askere alınması durumunda yargı mercii tarafından aksine bir hüküm de verilmez ise yükümlülüğün yerine getirilmesi durdurulur. Yükümlü, denetim süresi içerisinde serbest bırakılır veya askerlik hizmeti sona ererse yükümlülüğün yerine getirilmesine devam edilir. Denetim süresinin sonunda yükümlünün mahpusluk halinin veya askerlik durumunun devam etmesi durumunda dosya kapatılarak Cumhuriyet başsavcılığı aracılığıyla ilgili yargı merciine gönderilir. Ceza infaz kurumunda veya askerlikte geçirilen süreler denetim süresinden sayılır. Bu süre içinde rehberlik kapsamında verilen yükümlülüğün yerine getirilmesinde yargı merciine verilecek raporlar ceza infaz kurumu ile iş birliği içerisinde hazırlanır. Hâkime gönderilecek rapora esas olmak üzere üç ayda bir kişinin gelişimi ve davranışları hakkında ceza infaz kurumu idaresinden bilgi istenir.

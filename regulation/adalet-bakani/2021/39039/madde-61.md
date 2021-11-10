@@ -1,0 +1,2 @@
+Mahkeme tarafından takdir edilen diğer yükümlülükler
+MADDE 61 – (1) Sanık hakkında mahkeme tarafından 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 231 inci maddesinin sekizinci fıkrasının (c) bendi gereğince takdir edilen başka bir yükümlülüğün yerine getirilmesinde, yükümlülüğün içeriğine göre bu Yönetmeliğin ilgili maddeleri esas alınır ve hükmün açıklanmasının geri bırakılmasına ilişkin tedbirlerin yerine getirilmesine ilişkin hükümler uygulanır.

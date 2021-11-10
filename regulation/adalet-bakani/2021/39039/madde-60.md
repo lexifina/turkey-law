@@ -1,0 +1,4 @@
+Belli yerlere gitmekten yasaklama veya belli yerlere devam etme
+MADDE 60 – (1) Belirli yerlere gitmekten yasaklama veya belirli yerlere devam yükümlülüğü; mahkemece belirlenen süreyle sanığın kişisel, sosyal ve eğitim durumu ile suç işlemesindeki nedenler göz önüne alınarak iyileştirilmesini ve suçun tekrarını önlemeyi esas alan bir yükümlülüktür.
+(2) Gidilmesi yasaklanan belli yerler; sanığın suç işlemesinde, suça yönelmesinde, zararlı alışkanlıklar edinmesinde, bağımlılık yapan maddeler kullanmasında çevresel, psikolojik, sosyal, ekonomik etkisi bulunan veya sanığın yeniden suç işlemesini tetikleyecek yerleri, devam edilmesi gereken belli yerler ise; sanığın kişisel, psikolojik, sosyal gelişimi ile eğitimine katkı sağlayacak ve diğer ihtiyaçlarına uygun nitelikteki yerleri ifade eder.
+(3) Yükümlülüğün infazı, hazırlanan denetim planının sanığa tebliği ile başlar, mahkemece belirtilen sürenin tamamlanmasıyla sona erer.
