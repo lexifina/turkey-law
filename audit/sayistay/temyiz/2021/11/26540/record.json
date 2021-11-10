@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50422",
+  "decision_date": "2021-11-10",
+  "source_id": 26540,
+  "chamber": "6",
+  "file_number": "47164",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26540/",
+  "source_sha256": "3d2b300ed0bf568c16a62f5f455a7052faef9fb5f93d06a5e19db00dc36389af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
