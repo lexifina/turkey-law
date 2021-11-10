@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39040",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TASARRUF MEVDUATI SİGORTA FONU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39040",
+  "issuer": "Tasarruf Mevduatı Sigorta Fonu Başkanı",
+  "issuer_slug": "tasarruf-mevduati-sigorta-fonu-baskani",
+  "path": "regulation/tasarruf-mevduati-sigorta-fonu-baskani/2021/39040",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39040&MevzuatTertip=5",
+  "source_sha256": "5bbcef18d59cd6871db939b3d651c7603f54a867579a00b3c968685f021440a2",
+  "source_bytes": 16216,
+  "published": "2021-11-10",
+  "gazette": "31655",
+  "in_force": "2021-11-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 186,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39040-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
