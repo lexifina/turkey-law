@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35686",
+  "decision_date": "2021-11-11",
+  "source_id": 35105,
+  "chamber": "2",
+  "ilam_number": "154",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35105/",
+  "source_sha256": "57316952197940cc64ad2646073b1bcd8b6647a0d031aa7ce50121b65c54964f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
