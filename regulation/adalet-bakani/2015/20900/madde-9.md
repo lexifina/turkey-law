@@ -1,0 +1,3 @@
+İşlemlerin elektronik ortamda kaydedilmesi ve saklanması
+MADDE 9 – (1) İşleme katılanların tamamının güvenli elektronik imzası ile elektronik ortamda yapılan bir işlem için talep edilmedikçe fizikî olarak belge düzenlenmez ve bu işleme ilişkin olarak elektronik ortam dışında bir saklama yapılmaz. Bu kayıtlar iş sürekliliği ve bilgi güvenliğine ilişkin uluslararası kabul görmüş standartlara uygun olarak, yedekli ve güvenli bir şekilde saklanır.
+(2) Birinci fıkra kapsamında kalmayan diğer noterlik işlemlerinde ise işleme ait belgenin imzaya açılan son hâli noter tarafından güvenli elektronik imza ile imzalanarak TNBBS’ye kaydedilir. Belgenin ilgililerce imzalı hâli ise Noterlik Daireleri Arşiv Hizmetleri Hakkında Yönetmelik hükümlerine göre saklanır.

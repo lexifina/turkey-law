@@ -1,0 +1,2 @@
+Elektronik arşiv
+MADDE 14 – (1) Bu Yönetmelik gereğince elektronik ortamda yapılan işlemlere ilişkin bilgi ve belgeler Noterlik Daireleri Arşiv Hizmetleri Hakkında Yönetmelik hükümlerine, iş sürekliliği ve bilgi güvenliğine ilişkin uluslararası kabul görmüş standartlara uygun olarak, yedekli ve güvenli bir şekilde TNBBS’de saklanır. Belgelerin saklama süreleri de aynı Yönetmelik hükümlerine göre belge grupları esas alınarak belirlenir.
