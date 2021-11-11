@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35687",
+  "decision_date": "2021-11-11",
+  "source_id": 34713,
+  "chamber": "2",
+  "ilam_number": "4",
+  "item_number": 5,
+  "public_body_type": "Diğer",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34713/",
+  "source_sha256": "157cdf4a0dce5f9ec0f70aa20c9e4d3676f69a75b10079595f076f859311f513",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
