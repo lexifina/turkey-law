@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "483",
+  "decision_date": "2021-11-11",
+  "source_id": 35108,
+  "chamber": "7",
+  "ilam_number": "160",
+  "item_number": 3,
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35108/",
+  "source_sha256": "478b1da3161d6e859fd8d26a9a9d00df84429827dda04ed6ab3d5f1e2fbb3e08",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
