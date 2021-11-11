@@ -1,0 +1,9 @@
+Mülkiyeti …Belediyesine ait … Jimnastik Salonunun kullanımının … Amatör Spor Kulüpleri Derneğine verildiği ve bu salona ait elektrik, su ve doğalgaz faturalarının Belediye tarafından ödendiği görülmüştür.
+
+5393 sayılı Belediye Kanununun “Diğer kuruluşlarla ilişkiler” başlıklı 75 inci maddesinin birinci fıkrasının (c) bendinde Belediyelerin, belediye meclisinin kararı üzerine yapacağı anlaşmaya uygun olarak görev ve sorumluluk alanlarına giren konularda kamu yararına çalışan dernekler, Bakanlar Kurulunca vergi muafiyeti tanınmış vakıflar ile ortak hizmet projeleri gerçekleştirebileceği. Diğer dernek ve vakıflar ile mahallin en büyük mülki idare amirinin izninin alınması kaydı ile ortak hizmet projesi gerçekleştirilebileceği hüküm altına alınmıştır.
+
+Belediye tarafından; … Jimnastik Salonunun kullanımı herhangi bir meclis veya encümen kararı alınmadan ve ortak hizmet protokolü yapılmadan … Amatör Spor Kulüpleri Derneğine verilmiştir. Bu salondan elde edilen tüm gelirler belirtilen derneğe ait olduğu halde elektrik, su ve doğalgaz giderlerinin … Belediyesi tarafından ödendiği görülmüştür. Belediye tarafından ödenen söz konusu bu tutarlar 5018 sayılı Kanunun 71 inci maddesine göre kamu zararı oluşturmakla beraber, sorumlular … tarih ve … tarihli muhasebe işlem fişiyle ilgili tutarı tahsil ettiklerini bildirmişlerdir.
+
+Bu itibarla, … Amatör Spor Kulüpleri Derneğinin kullanımında olan … Jimnastik Salonuna ait elektrik, su ve doğalgaz giderlerini Belediye bütçesinden ödenmesi, sonucu oluşan … TL tutarındaki kamu zararı … tarih ve … tarihli muhasebe işlem fişiyle tahsil edildiğinden ilişilecek bir husus kalmadığına,
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliği ile,
