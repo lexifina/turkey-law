@@ -1,0 +1,112 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903111,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "MUSTAFA ARSLAN (TOKAT)",
+  "summary": "Ve İstanbul Milletvekili Abdullah Güler ile 37 Milletvekilinin İcra ve İflas Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında (2/3911) (S. Sayısı: 285)",
+  "title": "Ve İstanbul Milletvekili Abdullah Güler ile 37 Milletvekilinin İcra ve İflas Kanunu ile Bazı Kanunlarda Değişiklik Yapılması Hakkında (2/3911) (S. Sayısı: 285)",
+  "first_sitting_date": "2021-11-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 82,
+      "sitting": 18,
+      "sitting_date": "2021-11-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082018.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082fih.pdf",
+      "pages": [
+        "295:313",
+        "314:317"
+      ]
+    },
+    {
+      "cilt": 82,
+      "sitting": 19,
+      "sitting_date": "2021-11-16",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082019.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082fih.pdf",
+      "pages": [
+        "415",
+        "416"
+      ]
+    },
+    {
+      "cilt": 82,
+      "sitting": 20,
+      "sitting_date": "2022-11-17",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082020.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082fih.pdf",
+      "pages": [
+        "504",
+        "506",
+        "510:521",
+        "522:525",
+        "529:530",
+        "536:546",
+        "548:549",
+        "551:565",
+        "567",
+        "568:576"
+      ]
+    },
+    {
+      "cilt": 82,
+      "sitting": 21,
+      "sitting_date": "2021-11-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082021.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082fih.pdf",
+      "pages": [
+        "686:701",
+        "712",
+        "714:734",
+        "735:745"
+      ]
+    },
+    {
+      "cilt": 82,
+      "sitting": 22,
+      "sitting_date": "2021-11-23",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082022.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c082/tbmm27082fih.pdf",
+      "pages": [
+        "824:826",
+        "826:835",
+        "836:839",
+        "839:849",
+        "850:890"
+      ]
+    },
+    {
+      "cilt": 83,
+      "sitting": 23,
+      "sitting_date": "2021-11-24",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083023.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083fih.pdf",
+      "pages": [
+        "51:64",
+        "65:70",
+        "71:95",
+        "96:108"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2021-11-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
