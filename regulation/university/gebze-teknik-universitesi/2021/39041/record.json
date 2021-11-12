@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/gebze-teknik-universitesi/2021/39041",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 10 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31657",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-11-12",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Gebze Teknik Üniversitesi",
+  "issuer_slug": "gebze-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2021-11-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39041&MevzuatTertip=5",
+  "source_id": "8.5.39041",
+  "source_sha256": "06a33b4d9ec92282e1fa64e16658e96f6c51795f6a7132e8843a235fd5fef406",
+  "title": "GEBZE TEKNİK ÜNİVERSİTESİ DÖNER SERMAYE İŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 452,
+  "version_label": "oldest version available",
+  "word_count": 584
+}
