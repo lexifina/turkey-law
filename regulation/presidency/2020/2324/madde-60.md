@@ -1,0 +1,3 @@
+Hükümlülere ait kıymetli eşyanın korunması
+MADDE 60- (1) Hükümlülerin beraberinde getirdikleri yüzük, kolye, bilezik ve benzeri kıymetli eşya, özellikleri tam olarak belirlenerek kurum en üst amirinin görevlendirdiği bir memurun gözetiminde emanet para memuruna teslim edilir. Teslimde hazır bulunanlar, teslim alınan bu kıymetli eşyanın dökümünü içeren üçer nüsha tutanak düzenler ve hükümlüye imzalatılır. Tutanağa bağlanan kıymetli eşya bir torba ya da zarfa tutanakla birlikte konulmak suretiyle kapatılır ve mühürlenir. Tutanaklardan birisi hükümlüye verilir, diğeri ise kurum kayıtlarında saklanır.
+(2) Birinci fıkra hükmüne göre hükümlüden teslim alınan kıymetli eşya, bu amaçla tahsis edilen kasada saklanır.

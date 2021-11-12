@@ -1,0 +1,13 @@
+İşyurdu servisi
+MADDE 15- (1) İşyurdu servisi; kurumun işyurdu çalışmalarını düzenleyerek, bunların etkinlik ve verimlilik ilkeleriyle gerçekleşmesini, hükümlülere meslek edindirilmesini, piyasa şartlarına uygun üretim yapılmasını ve işyurduna ilişkin işlemlerin yürütülmesini sağlayan servistir.
+(2) İşyurdu servisinde; işyurdu müdürü, sayman, veznedar, tahsildar, işyurdu ambar memuru, satınalma memuru, bütçe, satın alma, pazarlama ve benzeri işlerden sorumlu görevliler ile işçi statüsünde çalışan personel görev yapar. Gerektiğinde kurumun kadrolu ve sözleşmeli personeli de işyurdu hizmetlerinde çalıştırılabilir.[11]
+(3) Sayman; işyurdunun para ve muhasebe işlerini, mevzuat çerçevesinde yerine getirir, muhasebe defterleri ile sarf evrakını düzenler ve korur, işyurdu ayniyat hesaplarının tutulması ile ilgili işlemleri yapar.
+(4) Veznedar; vezne teşkilatı bulunan işyurtlarında, kasadan yapılacak ödemelerin veya kasaya yapılan tahsilatla ilgili işlemleri ve kayıtları düzenler. Kasa mevcudunun kayıtlar ile mutabakatını sağlar, vezne işlemlerini mevzuata uygun olarak yürütür.
+(5) Tahsildar; tahsildar makbuzlarına istinaden, haricen yapılacak tahsilatı gerçekleştirir, günlük tahsilatı bordro düzenlemek suretiyle vezneye yatırır, veznedarın bulunmadığı zamanlarda bu göreve vekâlet eder.
+(6) Ambar memuru; işyurdu ambarına gelen malzemenin teslim alınması, kayıtlarının tutulması ve muhafazası ile ihraç işlemlerini yapar. Bu husustaki belgeleri düzenler ve korur.
+(7) Satınalma memuru; işyurdu müdürü veya ihale yetkilisinin, satınalma öncesi veya satınalma sırasında vereceği görevleri yapar.
+(8) Bütçe, pazarlama ve benzeri işlerden sorumlu görevliler; işyurdunun bütçe, pazarlama, araştırma ve geliştirme gibi hizmetlerini yürütür.
+(9) İşçi statüsünde çalışan personel; işyurdu faaliyetlerinde iş kanunlarına tâbi olarak, sürekli ve süreksiz işlerde belirli ve belirsiz süreli, kısmi ve tam süreli, deneme süreli ve diğer türde oluşturulan sözleşmeleri ile çalıştırılan personeldir. İşçi statüsünde çalıştırılan personelin ücret ve diğer sosyal hakları, işyurdu bütçesinden karşılanır. Bu personelden bazıları atölye şefi veya usta olarak görevlendirilebilir. İşçi statüsünde çalıştırılan personel, aşağıdaki görevleri yerine getirir:
+a) Atölye şefleri ve ustalar; hükümlülerin atölyelerde verimli bir şekilde çalışmalarını, meslek ve sanatlarını koruyup geliştirmelerini veya meslek ve sanat öğrenmelerini sağlar, bu çalışmalara fiilen katılır.
+b) Atölye şefleri, hükümlülerin salıverilmesinden sonra hayatını kazanabileceği bir meslek öğrenebilmesinden sorumludur.
+c) Herhangi bir şekilde meslek öğrenmekte yetersizliği görülen hükümlüler, atölye şefi tarafından kurum en üst amirine bildirilir.

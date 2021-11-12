@@ -1,0 +1,3 @@
+Salıverilecek hasta hükümlüler
+MADDE 133- (1) Salıverilme tarihinde, kurum dışına çıkarılmasına engel olacak şekilde hasta olup da hastaneye nakli veya yakınlarının refakatinde kurumdan ayrılması mümkün olmayan hükümlünün; kendi rızası ve Cumhuriyet başsavcılığının onayı ile bir hastaneye veya sağlık kurumuna nakledilinceye kadar kurumun ayrı bir bölümünde kalması sağlanır.
+(2) Birinci fıkrada belirtilen hâllerde, durum, hükümlünün ailesine, avukatına, asker kişi ise kayıtlı bulunduğu askerlik şubesine ve yabancı uyruklu ise uyruğunda olduğu devletin diplomatik temsilciliği veya konsolosluğuna kurum idaresince bildirilir.

@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+İç Güvenlik
+Kurumların iç güvenliği
+MADDE 32- (1) Kurumların iç güvenliği, Bakanlığa bağlı infaz ve koruma görevlileri tarafından sağlanır. İç güvenlik görevlileri, gerektiğinde dış güvenlik görevlileri ile işbirliği yapar.
+(2) Açık kurumlar ile çocuk eğitimevlerindeki idare ile infaz ve koruma görevlileri; firarların önlenmesi, asayiş ve disiplinin sağlanması için gözetim ve denetimle yükümlüdür.
+(3) Kurumlarda meydana gelen isyan, yangın, deprem, toplu firar, tünel kazma, duvar delme gibi asayiş ve güvenlikle ilgili olaylarda, iç güvenlik görevlilerinin yetersiz kalması hâlinde, kurum en üst amirinin istemi üzerine, kapalı kurumlarda dış güvenlik görevlileri, açık kurumlar ile eğitimevlerinde kolluk görevlileri kuruma girerek olaya müdahale etmek suretiyle gerekli tedbirleri alır.
+(4) Asayiş ve güvenlikle ilgili olarak, kurumda meydana gelen olayın yatıştırılması ve gerekli tedbirlerin alınması için kurum dış güvenlik görevlilerinin de yetersiz kalması hâlinde, kurum en üst amirinin Cumhuriyet başsavcılığı aracılığıyla yapacağı yazılı istem üzerine, kolluk kuvvetlerinden veya mahalli diğer kuvvetlerden ya da olayın kapsam ve mahiyetine göre diğer kamu kurum ve kuruluşlarından yardım alınabilir.
+(5) Yüksek güvenlikli kapalı ceza infaz kurumları ile diğer kapalı ceza infaz kurumlarının yüksek güvenlikli bölümlerinde kalan tutuklu ve hükümlülerle ilgili olarak ceza infaz kurumlarında düzenlenen tutanaklara, ilgili görevlinin açık kimliği yerine sadece sicil numarası yazılır. Bu kapsamdaki kurum görevlilerinin ifadesine başvurulması hâlinde çıkarılan davetiye veya çağrı kâğıdı görevlinin iş yeri adresine tebliğ edilir. Bu kişilere ait ifade ve duruşma tutanaklarında adres olarak sadece iş yeri adresi gösterilir.

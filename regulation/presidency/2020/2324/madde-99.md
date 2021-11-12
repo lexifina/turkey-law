@@ -1,0 +1,5 @@
+Hükümlülerin hastaneye sevki ile hastanelerde muayene ve tedavileri
+MADDE 99- (1) Hükümlünün sağlık nedeniyle bir hastaneye sevkine gerek duyulduğunda durum, cezaevi tabibi tarafından bir raporla derhal kurum en üst amirine bildirilir.
+(2) Kurumda tedavisi mümkün olmayan hastalığı bulunan hükümlülerin muayene ve tedavileri devlet ve üniversite hastanelerinde gerçekleştirilir. Hükümlülerin yatarak tedavileri bunlar için ayrılan hükümlü koğuşlarında yapılır. Hükümlü koğuşu yoksa tedavileri dış güvenlikten sorumlu güvenlik görevlileri tarafından gerekli önlemler alınarak hastanelerin diğer birimlerinde yapılır.
+(3) Açık kurumlar ile çocuk eğitimevi hükümlülerinin kurum dışındaki yatarak tedavileri, tedavi eden kurumun bulunduğu yerdeki kurumun iç güvenlik görevlileri gözetiminde ve hükümlü odası dışındaki bir bölümde yapılır.
+(4) Kurum dışında yatarak tedavileri yapılan hükümlülerin yanında, tedaviyi yapan hekimin raporuyla zorunlu olduğunun bildirilmesi hâlinde eşi, annesi, babası, kardeşi, çocuğu, bunların olmaması hâlinde Cumhuriyet başsavcılığının uygun gördüğü bir aile yakını refakatçi olarak bulundurulabilir.

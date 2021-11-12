@@ -1,0 +1,4 @@
+Disiplin eylemi nedeniyle iyi hâl kararı verilmesine engel hâller ve şikâyet
+MADDE 110- (1) Gözlem değerlendirme raporu veya gelişim değerlendirme raporunda yazılı olup da, henüz kaldırılmamış disiplin cezası bulunan hükümlü hakkında iyi hâl kararı verilemez. Hükümlünün iyi hâline ilişkin değerlendirme, ancak daha önceden verilmiş olup da disiplin cezası infaz edilmiş ve bu cezası kaldırılmış olanlar hakkında yapılabilir.[39]
+(2) Hükümlünün, disiplin cezasını gerektiren bir eylemi işlemiş olmasına rağmen, koşullu salıverilme tarihinde bu eyleminden dolayı disiplin soruşturması henüz sonuçlandırılmayanlar hakkında iyi hâl kararının verilip verilmemesi idare ve gözlem kurulunca takdir edilir.
+(3) İdare ve gözlem kurulunca, hükümlü hakkında, süre belgesindeki muhtemel koşullu salıverilme tarihi de dikkate alınarak iyi hâle ilişkin olarak bir karar verilir. İdare ve gözlem kurulunca verilen bu kararlara karşı, 4675 sayılı Kanuna göre şikâyet edilebilir.

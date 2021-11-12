@@ -1,0 +1,5 @@
+Eğitim ve öğretim ile eğitim programları
+MADDE 88- (1) Kurumlarda eğitim ve öğretim; hükümlüye yeni ve olumlu davranışlar kazandırmayı hedefleyen ve bu amacı gerçekleştirmek üzere beden, zihin, ahlâk ve duygu bakımından dengeli ve sağlıklı bir biçimde gelişmiş bir yapıya, özgür ve bilimsel düşünceye, geniş bir dünya görüşüne sahip, insan hakları ve onuruna saygılı, yapıcı, yaratıcı ve verimli kişiler olarak yetiştirmek, bilgi, yetenek, beceri ve davranışlarını geliştirmek, birlikte çalışma ve iş görme alışkanlığı kazandırarak yaşama hazırlamak, kendilerinin geçim ve mutluluklarını sağlayacak faaliyetleri içeren hizmetlerin bütünüdür.
+(2) Hükümlüye, kurumda bulunduğu süre içinde, kişiliğini geliştirecek, eğitimini güçlendirecek, yeni beceriler elde etmesini, suç işleme eğilimini yok etmeyi sağlayacak ve salıverilme sonrasına hazırlayacak eğitim programları uygulanır.
+(3) Eğitim programları; temel eğitim, orta ve yüksek öğretim, meslek eğitimi, din eğitimi, beden eğitimi, kütüphane ve psiko-sosyal hizmet konularını kapsar.
+(4) Eğitim programları, hükümlünün, yaş, cinsiyet, öğrenim durumu, ceza süresi, yetenekleri ve kültür durumuna uygun olarak hazırlanır.

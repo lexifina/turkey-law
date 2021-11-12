@@ -1,0 +1,4 @@
+İkinci müdürün görevleri
+MADDE 8- (1) (Değişik:RG-12/11/2021-31657-CK-4773/2 md.) İkinci müdür, müdürün yardımcısı olup müdür tarafından kendisine verilen işleri yürütür ve müdürün yokluğunda kendisine vekâlet eder. Birden fazla ikinci müdürün bulunması hâlinde, kimin vekâlet edeceğine kurum müdürü karar verir. Kurum müdürünün izin, görev ve rapor dışında herhangi bir sebeple görevinden ayrılması hâlinde kurum müdürlüğüne kimin vekâlet edeceği, Cumhuriyet başsavcısının görüşü alınarak Bakanlıkça belirlenir.
+(2) (Değişik:RG-12/11/2021-31657-CK-4773/2 md.) İkinci müdürler arasındaki iş bölümü kurum müdürü tarafından yapılır ve kendilerine yazılı olarak tebliğ edilir. İkinci müdürler, iş bölümüne göre kendilerine tevdi edilen iş ve işlemlerden sorumludur.
+(3) Nöbet veya vardiya sırasında görevli ikinci müdür; kurum müdürü veya vekâlet eden diğer ikinci müdürün yokluğunda veya acil ve zorunlu hâllerde, kurum müdürünün yetkilerini kullanır.

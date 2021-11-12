@@ -1,0 +1,2 @@
+Yardımcı hizmetler servisi
+MADDE 16- (1) Yardımcı hizmetler servisi; kurumun santral hizmetleri, temizlik, ısınma, ulaşım, yemek yapımı, malzeme taşınması, boşaltılması ve yüklemesi ile evrakın ilgili yerlere götürülüp getirilmesi gibi görevleri yerine getiren servistir. Yardımcı hizmetler servisinde; santral memuru, gemi adamı, şoför, kaloriferci, aşçı, hizmetli ve hasta bakıcı gibi personel görev yapar. Bu personel, amirlerinin vereceği işler ile çalıştığı iş kolunun bütün gereklerini yerine getirir.[12]

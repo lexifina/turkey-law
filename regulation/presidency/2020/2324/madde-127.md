@@ -1,0 +1,20 @@
+Hükümlülerin nakillerinde dikkat edilecek hususlar
+MADDE 127- (1) Hükümlülerin nakilleri 5275 sayılı Kanunun 53 ilâ 58 inci maddeleri hükümlerine göre gerçekleştirilir. Bu nakiller sırasında;
+a) Hastalık nedeniyle sevki zorunlu görülen hükümlü, öncelikle kurumun bulunduğu yer veya buraya en yakın tam teşekküllü devlet veya üniversite hastanesinin hükümlü koğuşuna yatırılır.
+b) Bu hastanelere gönderilen hükümlülerin başka yerlerdeki tam teşekküllü devlet veya üniversite hastanelerine sevki, sağlık kurulu raporuyla, acil ve yaşamsal tehlikesi bulunması hâlinde, varsa biri hastalığın uzmanı olmak üzere iki uzman hekim tarafından verilip, başhekim tarafından onaylanan ve hastalığın sebebi, tedavinin hangi sebeple bulunduğu hastanede gerçekleştirilemediği, hastaya nerede ve ne tür bir tedavi gerektiğini açıkça belirten bir raporla mümkündür. Bu durumda da en yakın ve hükümlü koğuşu bulunan devlet veya üniversite hastaneleri tercih edilir.
+c) Hükümlünün bu hastanelerde kontrol ve tedavisinin devam edip etmeyeceğinin sağlık kurulu raporuyla belgelendirilmesi gerekir, aksi hâlde hükümlü ait olduğu kuruma iade edilir.
+ç) Hükümlü, acil veya yaşamsal bir sağlık sorunu nedeniyle, muayene, teşhis ve tedavi amacıyla, kurumun bulunduğu yerdeki sağlık kuruluşuna geciktirilmeksizin nakledilir. Bunun için;
+1) Sağlık sorununun ortaya çıktığı anda kurumda cezaevi tabibinin, cezaevi tabibinin bulunmadığı hâllerde kurum aile hekiminin raporu,[52]
+2) Kurumda cezaevi tabibi ya da aile hekimi bulunmaması durumunda, sağlık sorununun ortaya çıktığı anda kurumda bulunan en üst yetkilinin yazılı izni,51
+3) Hükümlünün, gönderildiği sağlık kuruluşundan da, acil ve yaşamsal olarak başka bir sağlık kuruluşuna nakli gerektiğinde kurumda bulunan en üst yetkilinin yazılı izni,
+aranır. Bu hâllerde Bakanlıktan izin alınmaz, ancak yapılan işlem en seri haberleşme araçlarıyla Bakanlığa bildirilir.
+d) Hükümlü, acil hâller dışında özel sağlık kuruluşlarında tedavi edilemez. Acil hâllerin varlığı hâlinde Bakanlığa bilgi verilir.
+e) Hükümlü, sağlık nedenleriyle bulunduğu kurumda kalmasının uygun olmadığı, cezaevi tabibinin önerisi ve kurum en üst amirinin isteği üzerine alınacak sağlık kurulu raporuyla belirlendiği takdirde, başka kurumlara nakledilebilir.
+f) Analarının yanında kalmakta olan çocukların sağlık nedeniyle kurum dışına sevk edilmesi hâlinde, cezaevi tabibi tarafından verilen raporda anasının kendisine refakati zorunlu görülmüşse refakat edebilir. Çocuğun sağlık giderleri 102 nci madde hükümlerine göre karşılanır.
+(2) (Ek:RG-12/11/2021-31657-CK-4773/49 md.)[53] Çocuk hükümlüler ile maddi durumunun yetersiz olduğunu belgelendiren hükümlülerden nakil gideri alınmaz. Hükümlü tarafından, maddi durumunun tespitine ilişkin ibraz edilen belgeler, emanet para hesabındaki para transferleri de dikkate alınarak değerlendirilir. Hükümlülerin maddi durumunun tespitine ilişkin ilgili kurum ve kuruluşlardan bilgi ve belge istenebilir. Bu fıkranın uygulanmasına ilişkin hususlar Bakanlık tarafından belirlenir.
+(3) Nakledilecek hükümlüye ait, elbise ve diğer eşyası, bu konuda görevlendirilen kurum personelince, iki nüsha hâlinde düzenlenecek bir makbuz karşılığı geri verilir. Makbuzun bir sureti imza karşılığı hükümlüye verilir, diğer sureti ise defterinde saklanır.
+(4) Hükümlünün bankada şahsi parasının bulunması hâlinde bu para, nakledileceği kurumun bankadaki “Hükümlü Emanet Para Hesabı”na kayıt edilmek üzere gönderilir.
+(5) Nakledilecek hükümlüye ait gözlem ve sınıflandırma dosyası ile sevk evrakı nakli gerçekleştirecek görevliye teslim edilir. İnfaz dosyası, nakledildiği kuruma ulaştırılmak üzere, derhal ilgili yer Cumhuriyet başsavcılığına gönderilir.
+(6) Naklen gelen hükümlü hakkında, kuruma yeni gelen hükümlülere ilişkin işlemler uygulanır.
+(7) Hükümlünün, kabul odalarında bekletilmesi sırasında yapılacak işlemde, naklen geldiği kurum tarafından sevk sırasında gönderilen hükümlüye ait gözlem ve sınıflandırma dosyası ile sevk evrakı da dikkate alınır.
+(8) Hükümlülerin nakil işlemleriyle ilgili esas ve usuller Bakanlık tarafından belirlenir.

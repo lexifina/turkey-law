@@ -1,0 +1,3 @@
+Süreli hapis cezasının infazı
+MADDE 37- (1) Süreli hapis cezası, kanunda aksi belirtilmeyen hâllerde bir aydan az, yirmi yıldan fazla olamaz. Süreli hapis cezası, bu Yönetmelikte belirtilen infaz rejimine göre yerine getirilir.
+(2) Hükmedilen bir yıl veya daha az süreli hapis cezası, kısa süreli hapis cezasıdır. Kısa süreli hapis cezasına seçenek yaptırımlar, 5237 sayılı Kanunun 50 nci maddesinin birinci fıkrasının (a) ilâ (f) bentlerine göre, suçlunun kişiliğine, sosyal ve ekonomik durumuna, yargılama sürecinde duyduğu pişmanlığa ve suçun işlendiği özelliklere göre mahkemece belirlenen yaptırım şekilleridir.

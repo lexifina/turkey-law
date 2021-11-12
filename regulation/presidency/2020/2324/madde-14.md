@@ -1,0 +1,11 @@
+Eğitim ve öğretim servisi
+MADDE 14- (1) (Değişik:RG-12/11/2021-31657-CK-4773/6 md.) Eğitim ve öğretim servisi; kurumdaki eğitim ve öğretim hizmetleri, kültürel etkinlikler, kütüphane çalışmaları ve manevi rehberlik hizmetlerinin yürütüldüğü servistir. Eğitim ve öğretim servisinde; öğretmen, eğitim uzmanı ve kütüphaneci görev yapar.
+(2) Öğretmen ve eğitim uzmanı;[9]
+a) Hükümlülerin eğitim ve öğretimleri ile manevi kalkınmalarını sağlar, örgün ve yaygın eğitime devam eden hükümlülerin okul kayıtları, sınava giriş işlemleri, sevk hâlinde okul kayıtlarının nakledilmesi gibi eğitim ve öğretimleri için gerekli her türlü işlemleri yürütür ve konu hakkında bilgilendirme yapar.
+b) Her yılın eğitim ve öğretim döneminin başlangıcında eğitim ve öğretim, kurs gibi görev alanına giren konularda bir yıllık plan hazırlayarak kurum en üst amirine sunar ve eğitim ve öğretim istatistiklerini düzenler.
+c) Yıl içinde değişebilecek koşullar nedeniyle, yıllık planda değişiklikler yapar.
+ç) Kütüphanecinin bulunmadığı hâllerde, kütüphanecinin görevlerini yerine getirir.
+d) Okuma yazma bilmeyen hükümlülere, okuma yazma öğretilmesinden sorumludur. Herhangi bir sebeple öğrenme güçlüğü görülenleri, kurum en üst amirine bildirir. Kurum en üst amiri ve öğretmen bunların okuma yazma öğrenmeleri için gereken önlemleri alır. [10]
+e) Kurumda eğitim ve öğretim faaliyetlerine devam edenlerin isimlerini, başladıkları tarihi, hangi sınıfa devam ettiklerini, başlangıçtaki öğrenim düzeylerini, eğitim ve öğretimde gösterdikleri ilerlemeyi, başarısını, devam sürelerini, sınıf yükselmelerini, davranış notlarını, gözlem değerlendirme raporu veya gelişim değerlendirme raporunun ilgili bölümüne kaydeder.10
+(3) (Değişik:RG-12/11/2021-31657-CK-4773/6 md.) Kütüphaneci; kütüphane ve kitaplığa gelen eserlerin kaydını yapar, bakım ve muhafazasını, dağıtılıp toplanmasını, kütüphane ve kitaplık olarak ayrılan yerin düzeni ile her türlü ihtiyaçlarını tespit eder, iş birliği yapılan diğer kamu kurum ve kuruluşlarına ait kütüphaneler ile ilgili gerekli iş ve işlemleri yürütür.
+(4) (Ek:RG-12/11/2021-31657-CK-4773/6 md.) Eğitim ve öğretim çalışmaları ile öğretimden yararlanma ve sınavlara ilişkin usul ve esaslar Bakanlıkça çıkarılacak yönetmelikle belirlenir.

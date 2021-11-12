@@ -1,0 +1,3 @@
+Salıverilme sırasında alınacak tedbirler
+MADDE 134- (1) Hükümlünün salıverilmesi sırasında kurum en üst amirinin ihtiyaç duyması veya hükümlünün talebi hâlinde gerekli tedbirler kurumun iç ve dış güvenlik görevlilerinin işbirliği ile alınır. Ayrıca durum yerel kolluk kuvvetlerine ve ilgili makamlara bildirilir.
+(2) (Ek:RG-12/11/2021-31657-CK-4773/50 md.) Salıverilecek hükümlü çocuklar, 5395 sayılı Kanun kapsamında koruyucu ve destekleyici tedbirlerin alınması için ilgili kurumlara bildirilir. Bunlardan; kimsesi olmayan veya tüm çabalara rağmen yakınlarına ulaşılamayanlar ile yakını bulunmakla birlikte bunlara verilmesi uygun olmayacağı değerlendirilenlerden, hakkında uygun tedbir kararı alınmış olanların, Aile ve Sosyal Hizmetler İl Müdürlüğüne teslimi sağlanır.

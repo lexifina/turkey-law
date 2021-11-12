@@ -1,0 +1,10 @@
+Kültür ve sanat etkinliklerine katılma, ifade özgürlüğü ve yayınlar ile kütüphane ve kurslardan yararlanma hakkı[31]
+MADDE 73- (1) Hükümlüler 5275 sayılı Kanunun 60, 61, 62 ve 88 inci maddeleri gereğince kültür ve sanat etkinliklerine katılma ile yayınlar, kütüphaneler ve kurslardan yararlanma hakkına sahiptir.30
+(2) Kurumlarda, kültürün ve sanatın çeşitli dallarını temsil eden programlar hazırlanır ve hükümlülerin bunlara katılmaları hususundaki usuller düzenlenir. Bu programların temel hedefi, hükümlülerin ifade yeteneklerini geliştirmelerini ve bilgilerini artırmalarını sağlamaktır.
+(3) Kurumun kültür ve sanat programları, ulusal, yerel ve kültürel değerler de dikkate alınarak Bakanlıkça belirlenen esaslara göre, kurumun en üst amiri tarafından düzenlenir. Bu maksatla devletin kültür ve sanat işleriyle görevli kuruluşları gerekli yardımları yaparlar.
+(4) Hükümlüler ifade özgürlüğü çerçevesinde yayın etkinliklerinde bulunabilirler. Ancak bunun için hükümlünün kurumda bulunan çalışma esaslarını belirten koşullara, kurumun fiziki ortamına ve iç güvenliğine uygun hareket etmesi zorunludur.
+(5) (Değişik:RG-12/11/2021-31657-CK-4773/27 md.) Hükümlüler, kurumlarda bulunan kütüphane ve kitaplıklar ile gezici kitaplıklardan veya kamu kurum ve kuruluşlarına bağlı kütüphanelerde bulunan ve 5275 sayılı Kanunun 62 nci maddesindeki şartları taşıyan yayınlardan yararlandırılabilir. Buna ilişkin esas ve usuller Bakanlıkça çıkarılacak yönetmelikle belirlenir.
+(6) Genel iyileştirme programı uygulanmayan hükümlüler, her zaman kütüphaneden yararlanabilir ve düzenlenen kurslara katılabilir.
+(7) Hükümlü, iyileştirme faaliyetleri kapsamında yapılan çalışma saatleri dışında ve belirlenecek düzene göre kurum idaresince düzenlenen kurslara katılabilir. Bu konudaki programlar uzmanların önerileri ve hükümlünün istekleri dikkate alınarak kurum idaresince belirlenir.
+(8) Düzenlenecek kursların konusu, süresi, saati ve bunlardan hükümlülerin yararlanma koşulları kurum iç yönergesi ile belirlenir.
+(9) (Ek:RG-12/11/2021-31657-CK-4773/27 md.) Yabancı dilde yayımlanmış gazete ve dergilerin ceza infaz kurumuna kabul edilmesinde Bakanlık yetkilidir.
