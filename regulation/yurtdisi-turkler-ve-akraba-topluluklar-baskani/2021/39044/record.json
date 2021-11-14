@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39044",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YURTDIŞI TÜRKLER VE AKRABA TOPLULUKLAR BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39044",
+  "issuer": "Yurtdışı Türkler ve Akraba Topluluklar Başkanı",
+  "issuer_slug": "yurtdisi-turkler-ve-akraba-topluluklar-baskani",
+  "path": "regulation/yurtdisi-turkler-ve-akraba-topluluklar-baskani/2021/39044",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39044&MevzuatTertip=5",
+  "source_sha256": "fdbf8c90e50c6c33c6e854dafa635716f47fcffe87d33569e579c1ae5b11b00c",
+  "source_bytes": 10198,
+  "published": "2021-11-14",
+  "gazette": "31659",
+  "in_force": "2021-11-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39044-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
