@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "7742",
+  "decision_date": "2021-11-16",
+  "title": "Dağıtıcılar Arası Akaryakıt Ticareti Hakkında Kurul Kararı",
+  "repealed_note": "(Son Hali)",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2jvPqNqGdlM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2jvPqNqGdlM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=IjU+YPlyPM8="
+  ],
+  "source_sha256": "4734ce7b6b5d574dd86fb623ffedd5c311b81751e3e01e636e2784434f4116e4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2021-11-16",
+  "law_text_complete": false
+}
