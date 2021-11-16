@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-11-16T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-11-16",
+  "official_number": "85620172-130-39781",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30241",
+  "source_id": "ozelge:30241",
+  "source_row_sha256": "a6ba8bc65059d30e1a231dbddfbf313b09a736dd35f7315aa32ffed756c76845",
+  "title": "Tevkifat Oranı Hk.",
+  "version_label": "as-enacted",
+  "word_count": 881
+}
