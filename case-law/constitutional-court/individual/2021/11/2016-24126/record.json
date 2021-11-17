@@ -1,0 +1,20 @@
+{
+  "applicant": "M.D.",
+  "application_date": "2016-11-10",
+  "application_number": "2016/24126",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2021-11-17",
+  "id": "342c5dd9-1e76-2a02-f7c4-0ab3ec0bb12c",
+  "in_force": "2021-11-17",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjM0MmM1ZGQ5LTFlNzYtMmEwMi1mN2M0LTBhYjNlYzBiYjEyYw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "fdd5f91c33440d8db92470a0fb55607917f064c672ea2a35c44e5a2c6d4cdf0f",
+  "version_label": "as-enacted"
+}
