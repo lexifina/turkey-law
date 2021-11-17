@@ -1,0 +1,25 @@
+{
+  "number": "569",
+  "number_as_published": "569",
+  "year": 2021,
+  "title": "UKOME kararı 2021/569",
+  "decision_date": "2021-11-17",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=0&length=500&baslangicTarihi=01.01.2021&bitisTarihi=31.12.2021&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "7e3e4be6617f0b531778310a35cc8437bb3fd0d8de86ee9e422d36ac109634e4",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2021-11-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17/11/2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 11266,
+  "file_name": "2021-569.pdf",
+  "district": null
+}
