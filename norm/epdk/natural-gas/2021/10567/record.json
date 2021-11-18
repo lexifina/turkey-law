@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10567",
+  "decision_date": "2021-11-18",
+  "title": "Armadaş Arsan Maraş Doğal Gaz Dağıtım Anonim Şirketi’nin 2017-2021 yılları arası perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2021-11-19",
+  "resmi_gazete_number": "31664",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2J6SzSDtl9s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2J6SzSDtl9s="
+  ],
+  "source_sha256": "08dea7a7dce9adafb9dd01cb05ae751f8c10115dce533b94175f5243d4f92e8b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-11-18",
+  "law_text_complete": true
+}
