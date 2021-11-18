@@ -1,0 +1,4 @@
+Başvuru şekli ve yeri
+MADDE 10 – (1) Giriş Sınavı başvurusu şahsen, elden veya posta yoluyla yapılabileceği gibi, duyuruda belirtildiği takdirde internet erişimi üzerinden de yapılabilir. Postadaki gecikmeler ve duyuruda belirtilen süre içerisinde yapılmayan başvurular dikkate alınmaz.
+(2) Başvuruda bulunanlardan Giriş Sınavına katılması uygun bulunan adaylar, İdarenin kurumsal internet sitesinde duyurulur. Giriş Sınavına katılmaya hak kazanan adaylara sınav giriş belgesi verilir. Sınav giriş belgesinde, fotoğraf, kimlik bilgileri, yazılı sınav yeri ve tarihi yer alır. Giriş Sınavında sınav giriş belgesinin gösterilmesi zorunludur. Sınav giriş belgesi olmayan adaylar Giriş Sınavına katılamaz.
+(3) Sınava katılabileceği tespit edilerek duyurulan adaylardan, daha sonra sınava katılma şartlarını taşımadığı tespit edilenler, Giriş Sınavına alınmazlar. (Değişik ibare:RG-18/11/2021-31663) Bu adaylardan sınava girmiş olanların sınavları geçersiz sayılır.

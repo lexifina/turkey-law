@@ -1,0 +1,12 @@
+Yazılı Sınav
+MADDE 12 – (1) Yazılı sınava, giriş sınavı duyurusunda belirtilen KPSS puan türü ve taban puana göre başvuran adaylardan, öğrenim dalları itibarıyla en yüksek puana sahip olandan başlanarak, atama yapılacak kadro sayısının yirmi katına kadar aday çağrılır. Son sıradaki aday ile eşit puana sahip olan adayların tamamı da yazılı sınava çağrılır.
+(2) Yazılı sınav klasik veya test usulünde İdare tarafından yapılabileceği gibi; Ölçme, Seçme ve Yerleştirme Merkezi veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırılabilir. Yazılı sınavın diğer kuruluşlara yaptırılması halinde, sınava ilişkin hususlar İdare ile ilgili kuruluş arasında yapılan protokol ile belirlenir. İdare tarafından yapılması halinde, yazılı sınav Giriş Sınavı Komisyonunun gözetimi ve denetimi altında yapılır.
+(3) Yazılı sınav;
+a) Hukuk, siyasal bilgiler, iktisat, işletme, iktisadi ve idari bilimler fakültesi mezunu adaylar için, İdarenin görev alanı dikkate alınarak giriş sınavı duyurusunda belirtilen konuların yanında, aşağıda belirtilen konulardan yapılır:
+1) Ekonomi: Mikro-Makro İktisat, Para ve Ekonomi Politikası, Uluslararası Ekonomik İlişkiler ve Kuruluşlar,
+2) Maliye: Kamu Gelirleri, Kamu Harcamaları, Maliye Politikası, (Değişik ibare:RG-18/11/2021-31663) Bütçe,
+3) Hukuk: Anayasa Hukuku, İdare Hukuku, İdari Yargılama Usulü Hukuku, Medeni Hukuk (Aile ve Miras Hukuku Hariç), Borçlar Hukuku (Genel Hükümler), Ticaret Hukuku (Ticari Şirketler ve Kıymetli Evrak), Türk Vergi Hukuku, Ceza Hukuku (Genel Esaslar),
+4) Muhasebe: Genel Muhasebe, Maliyet Muhasebesi, Karşılaştırmalı Mali Tablolar Analizi.
+b) Mimarlık, şehir ve bölge planlama ve mühendislik bölümlerinden mezun olan adaylar için, İdarenin görev alanı dikkate alınarak giriş sınavı duyurusunda belirtilen konuların yanında, üniversite eğitimine ait mesleki bilgilere ilişkin konulardan yapılır.
+(4) Giriş Sınavı Komisyonu cevap kağıtlarını yüz tam puan üzerinden değerlendirerek, yazılı sınav sonuçlarını, sınav gününü takip eden en geç otuz gün içinde (Değişik ibare:RG-18/11/2021-31663) Personel Daire Başkanlığına teslim eder. Teslim edilen yazılı sınav sonuçları, onbeş gün içerisinde İdarenin kurumsal internet sitesinde ilan edilir. Yazılı sınavda başarılı sayılabilmek için en az yetmiş puan almak şarttır.
+(5) Sınavda kopya çekmeye teşebbüs edenler veya kopya çektiği tespit edilenler hakkında tutanak düzenlenir ve sınav kağıtları geçersiz sayılır. Bu adaylar, İdarece bundan sonra yapılacak sınavlara katılamazlar.

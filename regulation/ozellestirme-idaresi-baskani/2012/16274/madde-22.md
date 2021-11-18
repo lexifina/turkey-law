@@ -1,0 +1,2 @@
+Uzmanlık Tezinin hazırlanması
+MADDE 22 – (1) Uzman Yardımcıları, hazırlayacakları tezde, bilimsel esaslara uygun olarak hareket etmek, ele aldığı konuyu tarihi gelişimi içinde ve karşılaştırmalı olarak incelemek zorunda olup; tezin kendi görüş ve tavsiyelerini taşıması ve tezin daha önce yüksek lisans, doktora tezi veya başka bir amaçla, benzer tarzda hazırlanmamış ve kullanılmamış olması esastır.

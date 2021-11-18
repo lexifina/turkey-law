@@ -1,0 +1,2 @@
+Yurtdışında eğitim
+MADDE 33 – (1) Uzman ve Uzman Yardımcıları; 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurtdışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde araştırma yapmak, mesleki bilgi ve görgülerini arttırmak, lisansüstü eğitim veya doktora çalışması yapmak amacıyla yurtdışına gönderilebilirler.

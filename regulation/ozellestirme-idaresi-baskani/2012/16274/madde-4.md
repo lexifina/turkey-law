@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Başkan: Özelleştirme İdaresi Başkanını,
+b) Başkan Yardımcısı: Özelleştirme İdaresi Başkan Yardımcısını,
+c) Birim: Özelleştirme İdaresi Başkanlığı Hukuk Müşavirliği, Daire Başkanlıkları ve Proje Grup Başkanlıklarını,
+ç) Birim yöneticisi: Özelleştirme İdaresi Başkanlığı I. Hukuk Müşaviri, Daire Başkanı ve Proje Grup Başkanını,
+d) Daire Başkanı: Özelleştirme İdaresi Başkanlığında görevli Daire Başkanını,
+e) (Değişik:RG-18/11/2021-31663) Giriş sınavı: Uzman yardımcılığına giriş için yazılı ve sözlü veya İdarece uygun görülmesi halinde yalnızca sözlü olarak yapılacak olan özel yarışma sınavını,
+f) Giriş Sınavı Komisyonu: Uzman Yardımcılığı Giriş Sınavı Komisyonunu,
+g) İdare: Özelleştirme İdaresi Başkanlığını,
+ğ) (Değişik:RG-18/11/2021-31663) YDS: Yabancı Dil Bilgisi Seviye Tespit Sınavı,
+h) KPSS: Kamu Personel Seçme Sınavını,
+ı) (Değişik ibare:RG-18/11/2021-31663) Personel Daire Başkanlığı: Özelleştirme İdaresi Başkanlığı (Değişik ibare:RG-18/11/2021-31663) Personel Daire Başkanlığını,
+i) Proje Grup Başkanı: Özelleştirme İdaresi Başkanlığında görevli Proje Grup Başkanını,
+j) Tez: Uzman Yardımcılarının hazırlayacakları Uzmanlık Tezini,
+k) Tez jürisi: Uzman Yardımcıları tarafından hazırlanacak tezi inceleyen ve değerlendiren Jüriyi,
+l) Uzman: Özelleştirme İdaresi Başkanlığı Uzmanını,
+m) Uzman Yardımcısı: Özelleştirme İdaresi Başkanlığı Uzman Yardımcısını,
+n) Yeterlik Sınavı: Uzman Yardımcılarının, Uzmanlığa geçişinde yapılan yazılı sınavı,
+o) Yeterlik Sınavı Komisyonu: Uzman Yardımcılarının yeterlik sınavını gerçekleştiren sınav komisyonunu,
+ifade eder.
