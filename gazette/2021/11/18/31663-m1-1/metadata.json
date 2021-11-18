@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-11-18",
+  "issue": "31663",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karara İlişkin Tebliğ (Tebliğ No: 2018-32/45)'de Değişiklik Yapılmasına Dair Tebliğ (No: 2021-32/65)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211118M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211118M1.htm",
+  "index_sha256": "a86311a4ef85ad9e8a0fb56805d616b08169c93651b817a82e3b4cba5d58321c",
+  "index_header": "18 Kasım 2021 ... 31663 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211118M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
