@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39050",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIK VE ÖZEL EMEKLİLİK DÜZENLEME VE DENETLEME KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39050",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2021/39050",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39050&MevzuatTertip=5",
+  "source_sha256": "ab3037d8e1c2467e4d41c4c7941672fb7c5590e3312deaa7cfbacd6ecd41f808",
+  "source_bytes": 9734,
+  "published": "2021-11-19",
+  "gazette": "31664",
+  "in_force": "2021-11-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 181,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39050-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
