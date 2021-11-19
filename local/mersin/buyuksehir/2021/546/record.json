@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "546",
+  "decision_date": "2021-11-19",
+  "title": "- MEC.KAR.( ZABITA MAKTU MESAİ ÜCRETİ ).doc",
+  "listed_as": "546- MEC.KAR.( ZABITA MAKTU MESAİ ÜCRETİ ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/546--meckar--zabita-maktu-mesai-ucreti--doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/19-kasim-2021-meclis-kararlari",
+  "listing_sha256": "2751c3e36307ca2d6a0eb86e367fda408f5d40bb0651fea3c822b54208f24ca6",
+  "meeting_title": "19 KASIM 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
