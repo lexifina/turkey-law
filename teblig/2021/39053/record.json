@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39053",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA KORUNMA ÖNLEMLERİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2021/7)",
+  "number": "39053",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/39053",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39053&MevzuatTertip=5",
+  "source_sha256": "479e8b77d7cbb2204fac714deecd44ecc3c1c9e8b093ea3ed91325577498d005",
+  "source_bytes": 17684,
+  "published": "2021-11-20",
+  "gazette": "31665",
+  "in_force": "2021-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 317,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39053-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
