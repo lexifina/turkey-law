@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.39052",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "AVUKATLIK ASGARİ ÜCRET TARİFESİ",
+  "number": "39052",
+  "path": "teblig/2021/39052",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39052&MevzuatTertip=5",
+  "source_sha256": "625a47b189848672e2a0822ac32dff2104f6939502a36251864e2d3c3df9f24f",
+  "source_bytes": 36134,
+  "published": "2021-11-20",
+  "gazette": "31665",
+  "in_force": "2021-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2216,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39052-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
