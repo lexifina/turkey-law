@@ -1,0 +1,8 @@
+Genel hükümler
+MADDE 4 – (1) Ticaret Bakanlığı tarafından yürürlüğe konulan Tarım ve Orman Bakanlığının Kontrolüne Tabi Ürünlerin İthalat Denetimi Tebliğinin Ek-1/A sayılı listesinde yer alan ürünler kontrol belgesine tabidir. Aynı tebliğin Ek-1/B sayılı listesinde yer alan ürünler kontrol belgesine tabi değildir.
+(2) İthalatçı firma sunduğu bilgi ve belgelerin doğruluğundan sorumludur.
+(3) Sunulan belgelerde belirtilen miktarı geçen veteriner kontrollerine tabi ürün için kontrol belgesi onaylanmaz.
+(4) Bakanlık hayvan hastalığının nev’ine bağlı olarak, hayvan hastalıklarının bulunduğu ülke ve bölgelerden ithal edilmesi riskli olan ürünlerin listesini yayınlar. Bu listedeki hastalık taşıma riski olan ürünlerin söz konusu ülke ve bölgeden ithalatı için kontrol belgesi onaylanmaz.
+(5) Onaylanan kontrol belgesi ve ekindeki belgeler ile ithalat işlemleri sırasında sunulan belgeler uyumlu olmalıdır.
+(6) Veteriner sağlık sertifikasının geçerlilik süresi sertifikada belirtilen süre kadardır. Sertifikada süre belirtilmediği takdirde, sertifikanın düzenlendiği tarihten itibaren, havayolu ile gelen sevkiyatlarda on beş gün, karayolu ile gelenlerde otuz gün, demiryolu ile gelenlerde altmış gün, denizyolu ile gelenlerde yüz yirmi gün geçerlidir. Deprem, yangın, sel gibi doğal afetler, kanuni grev, genel salgın hastalık, savaş, ayaklanma, kısmi veya genel seferberlik ilanı gibi mücbir sebeplerden dolayı sevkiyatların gecikmesi halinde geçerlilik süresi sona eren veteriner sağlık sertifikaları Bakanlık yetkili birimlerince kabul edilir.
+(7) Kontrol belgesi onaylamaya yetkili Bakanlık birimleri ile bu birimlerin yetkilerinin kapsamı Genel Müdürlükçe belirlenir.

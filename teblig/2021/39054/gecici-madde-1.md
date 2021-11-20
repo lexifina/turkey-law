@@ -1,0 +1,2 @@
+Geçiş süreci
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin yürürlüğe girdiği tarihten önce çıkış ülkesinde ihraç amacıyla taşıma belgesine bağlanmış veya gümrük mevzuatı uyarınca gümrük idarelerine sunulmuş ürünlerin ithaline ilişkin işlemler, bu Tebliğin yürürlüğe girdiği tarihten itibaren kırk beş gün süreyle Hayvansal Ürün İthalatında Kontrol Belgesi Onaylanması ve İthalat Aşamasında Sunulması Gereken Belgeler Hakkında Tebliğ (Tebliğ No: 2012/12) hükümlerine göre yürütülür.

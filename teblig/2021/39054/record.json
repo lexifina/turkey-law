@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39054",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VETERİNER KONTROLLERİNE TABİ ÜRÜN İTHALATINDA KONTROL BELGESİ VE İTHALAT AŞAMALARINDA SUNULMASI GEREKEN BELGELER İLE BUNLARA İLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ (TEBLİĞ NO: 2021/28)",
+  "number": "39054",
+  "issuer": "Tarım ve Orman Bakanı",
+  "path": "teblig/2021/39054",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39054&MevzuatTertip=5",
+  "source_sha256": "4d0c7f0ff916a78192bab96a1722d007a5baf28a8bb05a8b6ce3d677a5eb6583",
+  "source_bytes": 31190,
+  "published": "2021-11-20",
+  "gazette": "31665",
+  "in_force": "2021-11-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.11.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1539,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39054-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
