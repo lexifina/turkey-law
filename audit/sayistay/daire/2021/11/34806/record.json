@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "831",
+  "decision_date": "2021-11-23",
+  "source_id": 34806,
+  "chamber": "6",
+  "ilam_number": "10",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34806/",
+  "source_sha256": "33040b415ee3e9d792a020c37334584aa89da4c75b386ae3694bcf3873ed49bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
