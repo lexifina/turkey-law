@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "489",
+  "decision_date": "2021-11-23",
+  "source_id": 35065,
+  "chamber": "5",
+  "ilam_number": "598",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2012,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35065/",
+  "source_sha256": "8a30f60a1672019ffb983e6a01a2521ded5037a87d25f4bef948587adcbb3343",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
