@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 9 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-06-14",
+      "14.06.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2021-11-23",
+      "RG-23/11/2021-31668",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2021-11-23",
+      "23/11/2021",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-23/11/2021-31668",
+  "first_law": null,
+  "gazette": "31511",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-11-23",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Yalova Üniversitesi",
+  "issuer_slug": "yalova-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/yalova-universitesi/2021/38708",
+  "published": "2021-06-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38708&MevzuatTertip=5",
+  "source_bytes": 23472,
+  "source_id": "8.5.38708",
+  "source_sha256": "f0169df351e5053eda2137a29805cefc9154e9ba2c68f28a3ff640573f8e3098",
+  "text_status": "current-consolidated",
+  "title": "YALOVA ÜNİVERSİTESİ DÖNER SERMAYE\r\nİŞLETMESİ YÖNETMELİĞİ",
+  "university_id": 343,
+  "word_count": 651
+}
