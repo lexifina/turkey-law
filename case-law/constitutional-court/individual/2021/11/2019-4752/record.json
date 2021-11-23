@@ -1,0 +1,20 @@
+{
+  "applicant": "K.Ş.",
+  "application_date": "2019-02-08",
+  "application_number": "2019/4752",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2021-11-23",
+  "id": "9db1eddb-c1ce-5b8c-5285-2349214af8ee",
+  "in_force": "2021-11-23",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjlkYjFlZGRiLWMxY2UtNWI4Yy01Mjg1LTIzNDkyMTRhZjhlZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "720a4533302f0b8769308aea0adab7a4888616a9171cc22783e4b45953de88fc",
+  "version_label": "as-enacted"
+}
