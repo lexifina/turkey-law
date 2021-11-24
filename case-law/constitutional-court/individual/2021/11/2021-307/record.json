@@ -1,0 +1,20 @@
+{
+  "applicant": "Z.N.Ç. VE F.İ.",
+  "application_date": "2020-12-21",
+  "application_number": "2021/307",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-11-24",
+  "id": "fb84b9de-d8f8-c092-68b3-1c0f07d2a747",
+  "in_force": "2021-11-24",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZiODRiOWRlLWQ4ZjgtYzA5Mi02OGIzLTFjMGYwN2QyYTc0Nw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "464a8117b06968c708f141a44bfae8e2f0d3edf4916bb028931963ed70e10962",
+  "version_label": "as-enacted"
+}
