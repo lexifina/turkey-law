@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39060",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU DENETÇİLİĞİ KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39060",
+  "issuer": "Kamu Başdenetçisi",
+  "issuer_slug": "kamu-basdenetcisi",
+  "path": "regulation/kamu-basdenetcisi/2021/39060",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39060&MevzuatTertip=5",
+  "source_sha256": "60df19400f0eaa69f8e65a5242c220c5dab9bca4c8d9394428fc7955a9fbaf61",
+  "source_bytes": 22711,
+  "published": "2021-11-24",
+  "gazette": "31669",
+  "in_force": "2021-11-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 272,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
