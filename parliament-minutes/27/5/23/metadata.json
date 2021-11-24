@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 5,
+  "sitting": 23,
+  "sitting_date": "2021-11-24",
+  "listed_date": "24 Kasım 2021 Çarşamba",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/5/23/78e5faf7-5719-4f9a-a894-3179d598a89b.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=cf90b010-77a7-4f66-a0e3-0185ceac6067",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=5",
+  "source_sha256": "ddf970ea966e576b1f6da4a89eeab5670217058a4366f05e409d5dceb9976c1d",
+  "source_bytes": 706715,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
