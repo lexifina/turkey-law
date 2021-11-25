@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10844",
+  "decision_date": "2021-11-25",
+  "source_id": 34897,
+  "chamber": "1",
+  "ilam_number": "320",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34897/",
+  "source_sha256": "0582c481606a446cd4f37a90ab7ae5c9f7773eca3705b999970457ccd0f829d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
