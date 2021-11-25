@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10843",
+  "decision_date": "2021-11-25",
+  "source_id": 35019,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35019/",
+  "source_sha256": "bcf5cdb6acd8f452d35985a5e54d8bb221653f230c31e851168655f367e7fbdd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
