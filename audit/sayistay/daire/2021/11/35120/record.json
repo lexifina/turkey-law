@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "486",
+  "decision_date": "2021-11-25",
+  "source_id": 35120,
+  "chamber": "7",
+  "ilam_number": "166",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35120/",
+  "source_sha256": "5b131e07e51d8c693208af9c5fb3e0f147ddfc682fa07d14740cea64c1e7055d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
