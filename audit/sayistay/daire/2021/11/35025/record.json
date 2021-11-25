@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10843",
+  "decision_date": "2021-11-25",
+  "source_id": 35025,
+  "chamber": "1",
+  "ilam_number": "220",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35025/",
+  "source_sha256": "46a31c7670818e0c47bc66ad57520004d2c7ab6cb2b422d517be540d86d439eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
