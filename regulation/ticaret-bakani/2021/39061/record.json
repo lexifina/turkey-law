@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39061",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET BAKANLIĞI GÜMRÜK HİZMETLERİ VE KAÇAKÇILIKLA MÜCADELE GÖREVLERİNE İLİŞKİN NAKDİ ÖDÜL YÖNETMELİĞİ",
+  "number": "39061",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2021/39061",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39061&MevzuatTertip=5",
+  "source_sha256": "d3d5c058e56a5e2b05bd3ff83547a42ee040c4c251d29d067d22d0f082fc4259",
+  "source_bytes": 20234,
+  "published": "2021-11-25",
+  "gazette": "31670",
+  "in_force": "2021-11-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.11.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 841,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39061-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
