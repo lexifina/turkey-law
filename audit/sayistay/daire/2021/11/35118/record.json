@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "486",
+  "decision_date": "2021-11-25",
+  "source_id": 35118,
+  "chamber": "7",
+  "ilam_number": "166",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35118/",
+  "source_sha256": "ba57d0920bb1b08c782b2b9ec218b4504d2bd48756829ce2c4a0d34112b3e112",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
