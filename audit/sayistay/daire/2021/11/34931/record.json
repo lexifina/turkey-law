@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "485",
+  "decision_date": "2021-11-25",
+  "source_id": 34931,
+  "chamber": "7",
+  "ilam_number": "153",
+  "item_number": 2,
+  "account_year": 2019,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34931/",
+  "source_sha256": "6d4f3bb995759c3926a41c2d03d89db36092b3e7a759167593fe52afc3ccb6ad",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
