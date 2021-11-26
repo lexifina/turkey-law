@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; örgün, uzaktan ve karma olmak üzere, ön lisans, lisans ve lisansüstü programları dışında verilecek eğitim programları, ulusal ve uluslararası standartlara uygun olarak ulusal ve uluslararası alanda ilgili mevzuat hükümleri çerçevesinde her türlü belgelendirme, danışmanlık hizmeti, seminerler, konferanslar, kongreler, çalıştaylar, alan araştırmaları, sınav organizasyonları ve ulusal düzeyde Avrupa birliği normlarına uyum sağlamak amacıyla meslek standartları geliştirmeye yönelik çalışmalar düzenlemek, Üniversitenin kamu, özel sektör ve uluslararası kuruluşlarla iş birliğini geliştirmesini sağlamak ve Uzaktan Eğitim Merkezinin düzenleyeceği tüm eğitim programlarına gerekli ve uygun olduğu kapsamda sürekli eğitim desteği sunmaktır.
