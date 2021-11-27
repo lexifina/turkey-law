@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-11-27",
+      "27.11.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31672",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-11-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gaziantep Üniversitesi",
+  "issuer_slug": "gaziantep-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gaziantep-universitesi/2021/39067",
+  "published": "2021-11-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39067&MevzuatTertip=5",
+  "source_bytes": 23490,
+  "source_id": "8.5.39067",
+  "source_sha256": "32c1a181fc28d141994f7d7ec833f085c631f0aab9f7ca89052006bdfb04a938",
+  "text_status": "as-enacted",
+  "title": "GAZİANTEP ÜNİVERSİTESİ KADIN VE AİLE ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 196,
+  "word_count": 923
+}
