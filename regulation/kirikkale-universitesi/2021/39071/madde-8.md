@@ -1,0 +1,2 @@
+Müdür (Başhekim)
+MADDE 8 – (1) Müdür (Başhekim), Üniversitede tam zamanlı olarak çalışan öğretim üyeleri arasından, Rektör tarafından üç yıl süre ile görevlendirilir. Süresi biten Müdür (Başhekim) aynı usulle yeniden görevlendirilebilir. Müdür (Başhekim) görevi başında bulunmadığı zaman kendisinin belirleyeceği bir müdür (başhekim) yardımcısını yerine vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür (Başhekim) görevlendirilir.

@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 11 – (1) Yönetim Kurulu; Müdür (Başhekim) başkanlığında, müdür (başhekim) yardımcıları, Rektörün üç yıl için görevlendireceği Üniversitede tam zamanlı olarak çalışan üç profesör, iki doçent ve bir doktor öğretim üyesi ile birlikte toplam dokuz üyeden oluşur.
+(2) Müdür (Başhekim)’ün olmadığı zaman müdür (başhekim) yardımcılarından birisi Müdür (Başhekim)’e vekalet eder. Müdür (Başhekim), Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Yönetim Kurulu salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır, üyeler çekimser oy kullanamazlar. Oyların eşitliği halinde Müdür (Başhekim)’ün oyu yönünde çoğunluk sağlanmış sayılır.
