@@ -1,0 +1,5 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, Üniversitedeki konuyla ilgili fakülte ve anabilim dalları, istekleri halinde ulusal ve uluslararası üniversiteler, enstitüler, araştırma merkezlerinde görevli öğretim elemanları ile aile ve kadın çalışmaları alanlarında araştırma ve üretim yapan yerli-yabancı özel sektör kuruluşlarında çalışan ve/veya aile ve kadın çalışmaları konusunda tecrübeli kişiler arasından Müdürün önerisi ile Rektör tarafından görevlendirilen en az beş en çok dokuz kişiden oluşur.
+(2) Danışma Kurulu yılda en az bir defa Müdürün çağrısı üzerine üye tam sayısının salt çoğunluğuyla toplanır.
+(3) Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan Danışma Kurulu üyesi tekrar görevlendirilebilir.
+(4) Görev süresi bitmeden ayrılan veya altı aydan fazla süreyle başka yerde görevlendirme nedeniyle toplantılara katılamayacak olan Danışma Kurulu üyesinin yerine aynı usulle yeni üye belirlenir. Bu şekilde görevlendirilen yeni üyelerin görev süresi, diğer üyelerin görev süresi tamamlanana kadardır.
