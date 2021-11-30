@@ -1,0 +1,6 @@
+İzin rapor eklerinin hazırlanması ve onaylanması
+MADDE 16 – (1) Genel bütçe kapsamındaki kamu idarelerinin bünyelerinde görevli orman mühendisi veya orman yüksek mühendislerince düzenlenenler hariç olmak üzere, (Danıştay Sekizinci Dairesinin 18/11/2025 tarihli ve E.:2022/754; K.:2025/8770 sayılı kararı ile iptal ibare: talep alanlarının koordinat özet çizelgeli harita üzerinde gösterilmesi), mantar ve tıbbi aromatik bitki yetiştiriciliği ile orman bitkisi fidanlığı uygulama projesi, uygun ölçekli vaziyet ve yerleşim planı, saha analiz raporu ve ağaç röleve planı ormancılık bürosu tarafından düzenlenerek imzalanır.
+(2) Uygulama projesi, saha analiz raporu, ağaç röleve planı, vaziyet planı ile koordinat özet çizelgeleri heyet tarafından kontrol edilir ve uygunluğu onaylanır.
+(3) Fizibilite raporu, keşif özetleri ve keşif özetlerinin vaziyet planlarına uygunluğu kontrol edilerek bölge müdürlüğü makine ikmal şube müdürlüğünce onaylanır.
+(4) Bedelsiz izinlerde metraj ve keşif özeti istenmez.
+(5) Taahhüt senetlerinin her sayfası noter tarafından onaylanır. Ancak; Genel bütçe kapsamındaki kamu idarelerinden alınacak taahhüt senedinin her sayfası kurum yetkilisi tarafından onaylanır, noter onayı aranmaz.

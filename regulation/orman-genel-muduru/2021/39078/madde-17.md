@@ -1,0 +1,6 @@
+Ön izin ve ön izin süre uzatımı
+MADDE 17 – (1) Mantar ve tıbbi aromatik bitki yetiştiriciliği ile orman bitkisi fidanlığı izinlerinde 2 ay, uygun görülen diğer taleplere 24 aya kadar ön izin verilebilir. Ön izin sahibinin ön izin süresi son günü mesai bitimine kadar bölge müdürlüğüne süre uzatımı talebinde bulunması ve mevcut taahhüt senedi hükümlerini kabul ettiğine dair ek taahhüt senedi vermesi halinde, ön izin süresinin bitim tarihinden itibaren mantar ve tıbbi aromatik bitki yetiştiriciliği ile orman bitkisi fidanlığı izinlerinde 1 ay, diğer izinlerde 12 ay süreyle ön izin ve sorumlulukları devam eder.
+(2) Ön izin süresi içinde saha teslimi yapılmaz ve hiçbir inşaat faaliyetine müsaade edilmez.
+(3) Ön izin; izin süresi son günü mesai bitimine kadar süre uzatımı talebiyle bölge müdürlüğüne müracaat edilmemesi, izin sahibinin vazgeçmesi veya istenen belgelerin süresi içinde tamamlanarak orman idaresine verilmemesi halinde resen iptal edilmiş sayılır.
+(4) Süre uzatmaları dahil, ön izin süresi içinde herhangi bir sebeple kesin izne dönüşmemiş ön izinler için herhangi bir hak iddia edilemez.
+(5) Ön izin süresi içinde mevzuatta kesin izin verilmesini engelleyen değişiklik olması halinde ön izin iptal edilir.

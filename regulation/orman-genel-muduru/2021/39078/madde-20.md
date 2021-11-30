@@ -1,0 +1,2 @@
+Mülkiyet uyuşmazlığı
+MADDE 20 – (1) Mülkiyeti konusunda uyuşmazlık bulunması nedeniyle mahkemeye intikal etmiş yerlerde hükmün kesinleşmesine kadar izin verilmez. Kesin izin verildikten sonra dava konusu olan izin alanının yargılama sonucunda orman sınırları dışında kaldığının tespit edilmesi durumunda verilen izin iptal edilir. Ancak alınan bedeller iade edilmez, teminat faizsiz olarak iade edilir.
