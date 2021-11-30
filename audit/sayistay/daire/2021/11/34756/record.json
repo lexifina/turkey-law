@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "491",
+  "decision_date": "2021-11-30",
+  "source_id": 34756,
+  "chamber": "5",
+  "ilam_number": "212",
+  "item_number": 13,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34756/",
+  "source_sha256": "d5eb4268122cb51746d992f9cb65ffeea62d6650a0b2d87b6357a6ec0a2abc23",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
