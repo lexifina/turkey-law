@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "273",
+  "decision_date": "2021-11-30",
+  "source_id": 34989,
+  "chamber": "4",
+  "ilam_number": "19",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34989/",
+  "source_sha256": "5aa4452a2e4dec0db0c7a5650ba8745affb9e470d9552e677dc080bbd9ca25c7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
