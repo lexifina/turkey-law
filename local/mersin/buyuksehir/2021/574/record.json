@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "574",
+  "decision_date": "2021-11-30",
+  "title": "- MEC.KAR.( MBB 2022 Yılı Bütçesi).doc",
+  "listed_as": "574- MEC.KAR.( MBB 2022 Yılı Bütçesi).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/574--meckar-mbb-2022-yili-butcesidoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/30-kasim-2021-meclis-kararlari",
+  "listing_sha256": "cf41ef29086f4de26ed3502abc6c8e0da756a170318c4acc1656818c914d76b0",
+  "meeting_title": "30 KASIM 2021 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
