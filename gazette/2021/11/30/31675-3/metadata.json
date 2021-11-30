@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-11-30",
+  "issue": "31675",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Orman Kanununun 17 nci Maddesinin Üçüncü Fıkrasının Uygulanması Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211130-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211130.htm",
+  "index_sha256": "b4b2e8768337607ef6a5c99c9915a40d2901e85d313668682be68f633952eb8f",
+  "index_header": "30 Kasım 2021 ... 31675 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/11/20211130.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
