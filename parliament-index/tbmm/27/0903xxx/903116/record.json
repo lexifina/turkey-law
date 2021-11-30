@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903116,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OSMAN BOYRAZ (İSTANBUL)",
+  "summary": "Ve 40 Milletvekilinin Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3950) (S. Sayısı: 287 ve 287'ye 1'inci Ek)",
+  "title": "Ve 40 Milletvekilinin Bazı Kanunlarda Değişiklik Yapılmasına Dair (2/3950) (S. Sayısı: 287 ve 287'ye 1'inci Ek)",
+  "first_sitting_date": "2021-11-30",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 83,
+      "sitting": 24,
+      "sitting_date": "2021-11-30",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083024.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083fih.pdf",
+      "pages": [
+        "191:192",
+        "199:220",
+        "222",
+        "224",
+        "224:236",
+        "237",
+        "238"
+      ]
+    },
+    {
+      "cilt": 83,
+      "sitting": 25,
+      "sitting_date": "2021-12-01",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083025.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083fih.pdf",
+      "pages": [
+        "311:317",
+        "317:371"
+      ]
+    },
+    {
+      "cilt": 83,
+      "sitting": 26,
+      "sitting_date": "2021-12-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083026.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c083/tbmm27083fih.pdf",
+      "pages": [
+        "421:443",
+        "443:446",
+        "448:455",
+        "460:464",
+        "468:486",
+        "487:489",
+        "491"
+      ]
+    },
+    {
+      "cilt": 87,
+      "sitting": 40,
+      "sitting_date": "2021-12-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c087/tbmm27087040.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c087/tbmm27087fih.pdf",
+      "pages": [
+        "456:467",
+        "480:492"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2021-11-30",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
