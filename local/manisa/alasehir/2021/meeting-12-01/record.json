@@ -1,0 +1,25 @@
+{
+  "number": "meeting-12-01",
+  "number_as_published": "meeting-12-01",
+  "year": 2021,
+  "title": "01.12.2021 ARALIK AYI MECLİS TOPLANTISINA AİT MECLİS KARAR ÖZETİ",
+  "decision_date": "2021-12-01",
+  "source": "https://www.alasehir.bel.tr/01-12-2021-aralik-ayi-meclis-toplantisina-ait-meclis-karar-ozeti.html",
+  "official_document": "https://www.alasehir.bel.tr/01-12-2021-aralik-ayi-meclis-toplantisina-ait-meclis-karar-ozeti.html",
+  "source_sha256": "1f5e4c146507c3b48718f6b5d5c5e8b45bb25949210461da7088b96ba0db65d8",
+  "issuer": "Alaşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.12.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.12.2021 ARALIK AYI MECLİS TOPLANTISINA AİT MECLİS KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.alasehir.bel.tr/01-12-2021-aralik-ayi-meclis-toplantisina-ait-meclis-karar-ozeti.html",
+  "document_note": "the decisions are published on the official page itself as 7 scanned image(s); not transcribed here"
+}
