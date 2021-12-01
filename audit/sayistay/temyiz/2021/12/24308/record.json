@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50547",
+  "decision_date": "2021-12-01",
+  "source_id": 24308,
+  "chamber": "7",
+  "file_number": "46658",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24308/",
+  "source_sha256": "eed41f6ac3872d7f7b2cbc578870750ca9dce2eb52f5f75aec3cdd8c9491df17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
