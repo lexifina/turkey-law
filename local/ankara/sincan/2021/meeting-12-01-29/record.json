@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-01-29",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "council decision",
+  "decision_date": "2021-12-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_239_-_BELEDC4B0YEYE_AC4B0T_HC4B0SSELC4B0_TAC59EINMAZLARIN_SATIC59EI_C4B0C387C4B0N_BELEDC4B0YE_ENCC39CMENC4B0NE_YETKC4B0_VERC4B0LMESC4B0.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2021-12-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
