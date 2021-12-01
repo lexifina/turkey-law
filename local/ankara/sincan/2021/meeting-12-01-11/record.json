@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-01-11",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "Akşemsettin Mahallesi 211 adanın batısındaki park alanında halihazırda mevcut 1 adet trafo yeri (5mx8m) ayrılmasına yönelik hazırlanan 1/1000 Ölçekli Uygulama İmar Planı Değişikliği oybirliğiyle kabul edildi.",
+  "decision_date": "2021-12-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_257_-_AKC59EEMSETTC4B0N_MAH-_211_ADA_TRAFO_YERC4B0.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2021-12-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
