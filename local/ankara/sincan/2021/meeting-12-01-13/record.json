@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-01-13",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "Sincan ilçesi sınırları içerisinde köy veya belde belediyesi iken mahalleye dönüşen ve kırsal özelliklerini devam ettirdiği tespit edilen; mahallelerin kırsal mahalle olarak, bölgelerin ise kırsal yerleşik alan olarak tespiti oybirliğiyle kabul edildi.",
+  "decision_date": "2021-12-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_255_-_KC396Y_VEYA_BELDE_C4B0KEN_MAHALLEYE_DC396NC39CC59EEN_KIRSAL_ALANLARIN_KIRSAL_YERLEC59EC4B0K_ALAN_TESPC4B0TC4B0.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2021-12-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
