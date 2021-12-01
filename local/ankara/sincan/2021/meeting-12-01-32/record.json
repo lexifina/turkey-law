@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-01-32",
+  "number_as_published": null,
+  "year": 2021,
+  "title": "Tandoğan Mahallesi Şehit Mehmet Metin Sokak ile Dinçer Sokak kesişiminden Ahievran Mahallesi 213. Sokak arasına demiryolu üzerine yaya geçidi yapılması oybirliğiyle kabul edildi.",
+  "decision_date": "2021-12-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_236_-_TCDD_C39CST_GEC387C4B0T_YAPIMI.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2021-12-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
