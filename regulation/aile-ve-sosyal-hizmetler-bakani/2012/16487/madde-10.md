@@ -1,0 +1,3 @@
+Giriş sınavı ön hazırlık çalışmaları
+MADDE 10 – (1) Giriş sınavı ile ilgili ön hazırlık çalışmaları sınav kurulu tarafından yürütülür.
+(2) Sınav kurulu, öngörülen süre içerisinde yapılan başvuruları inceleyerek adaylarda aranan şartların mevcut olup olmadığını tespit eder. Aranılan nitelikleri taşıyan adaylar, KPSS’den en yüksek puanı alan adaydan başlamak üzere bir sıralamaya tabi tutulur. Giriş sınavının yazılı ve sözlü sınav şeklinde yapılması halinde atama yapılacak uzman yardımcısı kadro sayısının yirmi katını, sadece sözlü sınav şeklinde yapılması halinde ise dört katını geçmemek ve son sıradaki adayla eşit puan alanlar da dahil olmak üzere giriş sınavına katılacak, ilanda belirlenen sayıda aday tutanakla belirlenir ve Bakanlık internet sayfasında ilan edilir.

@@ -1,0 +1,4 @@
+Tezin hazırlanması ve teslimi
+MADDE 21 – (1) Uzman yardımcısı tezini, konusu kendisine tebliğ edildikten sonra aylıksız izin, toplamı üç ayı aşan hastalık ve refakat izinleri ile geçici veya sürekli yurtdışı görev ya da yurtdışı eğitim süreleri hariç bir yıl içinde hazırlar.
+(2) Geçerli bir mazereti olmaksızın süresi içinde tezini teslim etmeyen uzman yardımcılarına, bir defaya mahsus olmak üzere altı ayı aşmamak üzere ek süre verilir. Verilen ilave süre içinde de tezlerini sunmayanlar, uzman yardımcısı unvanını kaybederler ve Bakanlıkta memur unvanlı kadrolara atanırlar.
+(3) Uzman yardımcısı hazırladığı tezi, beş nüsha basılmış ve ciltlenmiş olarak ve teslim tarihinden bir ay önce Eğitim ve Yayın Dairesi Başkanlığınca belirlenerek kendilerine bildirilen formata uygun bir biçimde elektronik ortamda bu Başkanlığa resmi yazı ile teslim eder. Eğitim ve Yayın Dairesi Başkanlığı tezleri incelenmek üzere jüri üyelerine dağıtır.

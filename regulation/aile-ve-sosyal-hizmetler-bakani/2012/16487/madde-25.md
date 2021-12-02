@@ -1,0 +1,2 @@
+Başarısızlık hali
+MADDE 25 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci sınavda da başarı gösteremeyen veya geçerli bir mazereti olmaksızın sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybederler ve Bakanlıkta durumlarına uygun memur unvanlı kadrolara atanırlar.

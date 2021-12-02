@@ -1,0 +1,3 @@
+Giriş sınavı duyurusu
+MADDE 8 – (Değişik:RG-19/12/2015-29567)
+(1) Giriş sınavına katılma şartları, öğrenim dalları, sınav tarihi ve yeri, sınavın yapılış şekli, değerlendirme yöntemi, KPSS puan türü ya da türleri ve asgari puanlar, puan sıralamasına göre kaç adayın çağrılacağı, atama yapılacak kadro sayısı, sınıfı ve derecesi, son başvuru tarihi, başvuruda istenecek belgeler, gerek görülmesi halinde öğrenim dallarına ait kontenjanlar, başvuru yeri ve sınavla ilgili diğer hususlar, başvuru süresinin bitiminden en az otuz gün önce (Değişik ibare:RG-2/12/2021-31677) Resmî Gazete’de ve Bakanlığın resmî internet sayfası ile Cumhurbaşkanlığınca belirlenen kurumun internet sayfasında ilan edilir.
