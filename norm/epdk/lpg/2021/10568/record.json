@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "lpg",
+  "document_type": "board-decision",
+  "number": "10568",
+  "decision_date": "2021-12-02",
+  "title": "8248 Sayılı Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2021-12-02",
+  "resmi_gazete_number": "31679",
+  "categories": [
+    "Lisans İşlemleri ile Tüzel Kişinin Ortaklık Yapısı Bildirimleri Hakkında"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+xieGlaq1UE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+xieGlaq1UE="
+  ],
+  "source_sha256": "a68f7d4ff0294bfb8bd2fdf39cc44c867276080bc08df8950e6e860d921ce653",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-101/kurul-kararlari",
+  "official_list_leaf": 34656,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-02",
+  "law_text_complete": true
+}
