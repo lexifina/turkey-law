@@ -1,0 +1,4 @@
+Kira bedeli tespiti
+MADDE 8 – (1) Kira bedeli; ilgili mevzuat hükümleri, yargı kararları, emsal rayiç, inşaat maliyet bedelleri, taşınmazın vergi değeri, taşınmazın değeri, kiralananın yatırım ve sosyal faaliyete konu olup olmaması, elektrik, su ve yakıt giderlerinin kira bedeline dâhil olup olmadığı konuları göz önünde bulundurularak tespit edilir ve bir tutanak altına alınır.
+(2) 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu kapsamına giren idarelere ve kurumlara, özel idarelere, belediyelere, kamu iktisadi kuruluşlarına, iktisadi devlet teşekkülleri ve bunların %51 veya daha fazla hissesine sahip olduğu iştiraklerine yapılacak kiralamalarda, kira bedeli tespitinde bu maddenin birinci fıkrasında belirtilen hususlar uygulanmayabilir. Her hâlükârda yıllık kira bedeli, taşınmazın yıllık emlak vergisi miktarının altında tespit olunamaz.
+(3) Kira bedeli net olarak belirlenir.

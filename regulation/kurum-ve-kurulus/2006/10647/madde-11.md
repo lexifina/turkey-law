@@ -1,0 +1,5 @@
+İhale komisyonları
+MADDE 11 – (1) (Değişik cümle:RG-2/12/2021-31677) İhale komisyonu; İdari ve Yapı İşleri Dairesi Başkanı veya ilgili müdür başkanlığında, Malî İşler Dairesi Başkanlığı, Hukuk Müşavirliği, taşınmazın emrine tahsisli ünite ve İdari ve Yapı İşleri Dairesi Başkanlığından bir personelin katılımı ile en az beş üyeden oluşur. Gerekli görülen hallerde yukarıda sayılan ünitelerden birden fazla üyenin katılımı sağlanır.
+a) İhale komisyonları, Genel Müdürlükçe oluşturulur. Genel Müdür, gerek görmesi hâlinde, komisyonu bir Genel Müdür Yardımcısı başkanlığında oluşturur. Komisyon onayının bir örneği, komisyon üyelerine bildirilmek üzere ilgili ünitelere gönderilir.
+b) (Değişik:RG-2/12/2021-31677) İhale komisyonu, başkan ve dört üyenin hazır bulunması hâlinde toplanır. Kararlar oy çokluğu ile alınır. Oyların eşitliği halinde, Başkanın oyu yönünde çoğunluk sağlanmış sayılır. Karara katılmayan üye, gerekçesini karar ekinde belirtmek suretiyle imzalar.
+c) İhale komisyonu üyeleri, kendilerine önceden tebliğ edilen ihale gününde, belirtilen yer ve saatte hazır bulunur.

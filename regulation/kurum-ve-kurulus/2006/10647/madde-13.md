@@ -1,0 +1,4 @@
+Tekliflerin değerlendirilmesi ve onaylanması
+MADDE 13 – (1) İhale komisyonu, teklif zarflarını alınış sırasına göre inceler. İsteklilerin belgelerinin eksik olup olmadığı ve teklif mektubu ile geçici teminatların usulüne uygun olup olmadığını kontrol eder. Teklif mektubu ile geçici teminatı usulüne uygun olmadığı tespit edilen isteklilerin, teklifleri değerlendirme dışı bırakılır. Bu durum bir tutanakla tespit edilir.
+a) Teklifin esasını değiştirecek nitelikte olmaması kaydı ile, eksik olan veya önemsiz bilgi eksikliği bulunan belgelerin, komisyonca belirtilen sürede tamamlanması, isteklilerden yazılı olarak istenir. Belirlenen sürede eksiklikleri tamamlamayan istekliler değerlendirme dışı bırakılır.
+b) Yapılan ihalenin yöntemine göre değerlendirme tamamlanarak, düzenlenen tutanak komisyon üyelerince imzalandıktan sonra İhale yetkilisinin onayına sunulur. İhale onayına müteakip, ihale üzerine kalan istekli dışındaki isteklilerin geçici teminatları iade edilir.
