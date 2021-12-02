@@ -1,0 +1,34 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "1240",
+  "decision_date": "2021-12-02",
+  "title": "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkında Kurul Kararı",
+  "resmi_gazete_number": "<p><span style=\"color: #ff0000;\"><strong>SON HALİ</strong></span></p>",
+  "categories": [
+    "Petrol Piyasasında Dağıtıcı Lisansı Sahiplerinin Bayi Denetim Sistemine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TKqWKw5eQWM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=TKqWKw5eQWM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iCUE9zwZ3gc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QVkXJBVrmjk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=QvkCCQ+zTcg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zeFR59s9zVE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9DM96s8tmFA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mlZUV5g39TU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ECsUajyp7ds=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mw3wOZfgq0E=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=GcPSFobvxO4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=L05uxSU2Rzc="
+  ],
+  "source_sha256": "1184a324b5f4412ee3afcd710184a3e3a684d883c5145224bef47bbe8dd168b6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 27577,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-02",
+  "law_text_complete": true
+}
