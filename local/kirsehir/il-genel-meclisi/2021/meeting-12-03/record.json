@@ -1,0 +1,26 @@
+{
+  "number": "meeting-12-03",
+  "number_as_published": "meeting-12-03",
+  "year": 2021,
+  "title": "2021 Yılı Meclis Kararları",
+  "decision_date": "2021-12-03",
+  "source": "https://www.kirsehirozelidare.gov.tr/2021-yili-meclis-kararlari",
+  "official_document": "https://www.kirsehirozelidare.gov.tr/kurumlar/kirsehirozelidare.gov.tr/Dokumanlar/meclis_kararlari/2021/12Aralik/IL-GENEL-MECLISININ-03-Aralik-2021-ZABOZETI.doc",
+  "source_sha256": "187276af7405de4eb2342fe6891827e4469929e9c5905d6d800ad37cda4cd5ec",
+  "issuer": "Kırşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03 ARALİK 2021 (official file name); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2021 Yılı Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "date_read_from": "official file name",
+  "official_page": "https://www.kirsehirozelidare.gov.tr/2021-yili-meclis-kararlari",
+  "item_title": "2021 Yılı Meclis Kararları"
+}
