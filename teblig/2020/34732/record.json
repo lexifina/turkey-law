@@ -1,0 +1,62 @@
+{
+  "source_id": "9.5.34732",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 164)",
+  "number": "34732",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2020/34732",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=34732&MevzuatTertip=5",
+  "source_sha256": "6dc95f3a0fdc5a0965d6c7852e32f4d58a9ff59bcaa4fd0a11b79ac093787671",
+  "source_bytes": 29997,
+  "published": "2020-03-06",
+  "gazette": "31060",
+  "in_force": "2021-12-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-04",
+      "RG-4/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-04",
+      "4/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-07",
+      "RG-7/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-07",
+      "7/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-07-29",
+      "RG-29/7/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-07-29",
+      "29/7/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinden otuz gün sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 373,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
