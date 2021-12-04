@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39083",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KİRLETİCİ SALIM VE TAŞIMA KAYDI YÖNETMELİĞİ",
+  "number": "39083",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2021/39083",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39083&MevzuatTertip=5",
+  "source_sha256": "7b5d8fc61f8cd851d0a5394e345b75edf6dbd96f1f757a03a14e7013e6f06cca",
+  "source_bytes": 57482,
+  "published": "2021-12-04",
+  "gazette": "31679",
+  "in_force": "2021-12-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.12.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2876,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39083-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
