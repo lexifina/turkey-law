@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-12-04",
+  "issue": "31679",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Gümrük Genel Tebliği (Gümrük İşlemleri) (Seri No: 90)’nde Değişiklik Yapılmasına Dair Tebliğ (Gümrük İşlemleri) (Seri No: 172)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211204-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211204.htm",
+  "index_sha256": "70dd01d2221a884504d82876cafa51e1c6777d72545284d399bfbb83130101d4",
+  "index_header": "4 Aralık 2021 ... 31679 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211204.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
