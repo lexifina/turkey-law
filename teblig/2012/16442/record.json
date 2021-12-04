@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.16442",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 92)",
+  "number": "16442",
+  "issuer": "Gümrük ve Ticaret Bakanı",
+  "path": "teblig/2012/16442",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16442&MevzuatTertip=5",
+  "source_sha256": "ea56cd2032a30d9391146d333648335648bfe639391d77570764b2a0eaac534a",
+  "source_bytes": 16543,
+  "published": "2012-07-31",
+  "gazette": "28370",
+  "in_force": "2021-12-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-04",
+      "RG-4/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-04",
+      "4/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 371,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
