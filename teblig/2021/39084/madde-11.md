@@ -1,0 +1,3 @@
+Veri koruma görevlisi sertifikası sınavlarına başvuru
+MADDE 11 – (1) Sınav tarihinden önceki son 4 yıl içinde katılım belgesi almış olanlar veya geçerli bir veri koruma görevlisi sertifikasına sahip olanlar arasından programda belirlenen şartları haiz olanlar veri koruma görevlisi sertifikası sınavına başvurmaya hak kazanırlar.
+(2) Personel belgelendirme kuruluşu, bu madde kapsamında gelen başvuruların bu Tebliğde belirtilen ve programda belirlenen şartlara uygun olup olmadığının kontrolü ile sınav başvurusuna ilişkin iş ve işlemleri yürütme hususunda gerekli dikkat ve özeni göstermekle yükümlüdür.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanununun 22 nci maddesinin birinci fıkrasının (e) bendi ve 17/1/2018 tarihli ve 2018/11296 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kişisel Verileri Koruma Kurumu Teşkilat Yönetmeliğinin 7 nci maddesinin birinci fıkrasının (g) ve (ı) bentleri ile 18 inci maddesinin birinci fıkrasının (a) bendine dayanılarak hazırlanmıştır.

@@ -1,0 +1,5 @@
+Yetkilendirmenin iptal edilmesi
+MADDE 10 – (1) TÜRKAK tarafından akreditasyonu geri çekilen personel belgelendirme kuruluşunun, bu durumu 3 gün içinde Kuruma bildirmesi zorunludur.
+(2) Personel belgelendirme kuruluşunun akreditasyonunun geri çekilmesi hâlinde veya sertifikasyon faaliyetine yönelik niteliği ve yeterliği ile ilgili olarak Kuruma sunulan bilgi ve belgelerin gerçeğe aykırı olduğunun tespiti ya da programın kapsamının dışında sertifikasyon faaliyetlerinin yürütüldüğünün anlaşılması hâllerinde, personel belgelendirme kuruluşunun yetkilendirilmesi Kurum tarafından iptal edilir.
+(3) Personel belgelendirme kuruluşunun yetkilendirmesinin iptal edildiği bilgisi, Kurumun resmi internet sitesinde ilan edilir.
+(4) Akreditasyonu geri çekilen personel belgelendirme kuruluşunun, bu durumu süresi içinde Kuruma bildirmemesi hâlinde, yetkilendirmesi iptal edildikten sonra yeniden program kullanma onayı alabilmesi için yetkilendirmenin iptali kararının üzerinden 6 ay geçmesi gerekmektedir.
