@@ -1,0 +1,24 @@
+{
+  "number": "meeting-12-06",
+  "number_as_published": "meeting-12-06",
+  "year": 2021,
+  "title": "06.12.2021 MECLİS TOPLANTISI VE KARARLAR",
+  "decision_date": "2021-12-06",
+  "source": "https://www.emet.bel.tr/karar/06122021-meclis-toplantisi-ve-kararlar/45/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/06122021-meclis-karari.doc",
+  "source_sha256": "036cf64b68819cff106136ea380c01411290a78da4824191dafd36e8ca069be0",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.12.2021; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "06.12.2021 MECLİS TOPLANTISI VE KARARLAR",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/06122021-meclis-toplantisi-ve-kararlar/45/"
+}
