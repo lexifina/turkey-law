@@ -1,0 +1,3 @@
+Kapasite geliştirme
+MADDE 19 – (1) Kamu işletmeleri aylık bazda gerçeğe ve ihtiyaca uygun, düzenli mali ve mali olmayan her türlü tabloları üretebilmek ve söz konusu tabloları, KİVİ sisteminde belirlenen takvime uygun olarak Bakanlığa iletebilmek için muhasebe yönetimi ve bilgi sistemini geliştirir. Kamu işletmeleri ayrıca mali ve mali olmayan diğer konsolide verilerini güvenilir bir şekilde aylık bazda üretecek bir yönetim bilgi sistemi ile bu sistemin gerektirdiği bilgi işlem altyapısını kurmak zorundadır.
+(2) Kamu işletmelerince mali işler ve muhasebe yönetim sistemlerinin gerektirdiği bilgi işlem altyapılarının iyileştirilmesi ve bu kapsamda geliştirilen kurumsal kaynak planlama projeleri tasarruf tedbirleri dışında tutulur.
