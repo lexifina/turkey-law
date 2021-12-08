@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Aktarıma İlişkin Usul ve Esaslar
+Aktarım yapılabilecek birikimler
+MADDE 4 – (1) Emeklilik taahhüt planları kapsamındaki birikim ve taahhütlere ilişkin tutarlar, kısmen veya tamamen, emeklilik sözleşmesine aktarılabilir. Bu tarihte tanımlanmış katkı veya tanımlanmış fayda esasının yahut bunların her ikisinin özelliklerini taşıyan emeklilik taahhüt planlarında tanımlı bulunan esaslara göre, işveren katkıları dahil fiili aktarım tarihine kadar gerçekleşen yurt içi ya da yurt dışındaki tüm birikimler ve taahhütlere ilişkin tutarlar aktarıma konu edilebilir.
+(2) Aktif ve pasif üyelerin birikimleri emeklilik hizmet sunucusunun yetkili organlarınca alınan karara göre bireysel emeklilik sistemine aktarılabilir. Aktarımın yapılması, aktarım tutarı ve benzer hususların üye tercihlerine bırakıldığına ilişkin karar alınması halinde aktarıma yönelik üye muvafakatnamelerinin alınması esastır. Aktarımın grup halinde ve her bir üyeyi bağlayıcı usulüne uygun alınan kararların olması halinde ise ayrıca aktif üyelerin muvafakatleri aranmaz. Bu durumda, pasif üyelerin birikimleri de kendilerinin talep veya muvafakatleri alınmak suretiyle bireysel emeklilik sistemine aktarılabilir.
+(3) Hizmet sunucusunun üyelerine veya çalışanlarına emeklilik taahhüt planı dışında teminatlar sunduğu veya taahhütlerde bulunduğu durumlarda, emekliliğe yönelik birikimler ile ilişkilendirilen varlık ve yükümlülükler ayrıştırılır.
+(4) Aktarımlar, üye veya çalışanlar adına, hesaplarına karşılık gelen ve kişisel olarak ayrıştırılmış birikimler göz önünde bulundurularak yapılır.
