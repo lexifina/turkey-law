@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/48",
+  "meeting_date": "2021-12-08",
+  "meeting_date_as_published": "8.12.2021",
+  "decision_no": "43",
+  "source_id": 16988,
+  "title": "RTÜK kararı 2021/48-43",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/16988",
+  "source_sha256": "4e2d82444729e81720bc6ac81048505cd5f268ad26a59c237086c9d891a9e794",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
