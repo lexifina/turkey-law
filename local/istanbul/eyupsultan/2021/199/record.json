@@ -1,0 +1,22 @@
+{
+  "number": "199",
+  "number_as_published": "2021/199",
+  "year": 2021,
+  "title": "Eyüpsultan ilçesi genelinde yurt alanlarına ilişkin plan notu tadilatı",
+  "decision_date": "2021-12-09",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2021-aralik-ayi-meclis-kararlari/2173",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2021-199/2176",
+  "source_sha256": "24fe60b3ce2c5c76661eb396645ba21ce9e2232d05501eb3304af3647af838fd",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.12.2021 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "3a274c36688ed8c9c821fcfaf13e627775fbb073cc0ecfde7d1abf580be016a6"
+}
