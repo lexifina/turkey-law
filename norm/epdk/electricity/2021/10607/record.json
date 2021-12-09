@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10607",
+  "decision_date": "2021-12-09",
+  "title": "Geri Ödemeye Esas Gerçekleşen Yatırım Tutarı Tespit Metodolojisi",
+  "resmi_gazete_date": "2021-12-14",
+  "resmi_gazete_number": "31689",
+  "categories": [
+    "Geri Ödemeye Esas Gerçeklesen Yatırım Tutarı Tespit Metodolojisine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=reeClexV1N0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=reeClexV1N0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/mt7gAWNM2g="
+  ],
+  "source_sha256": "e210a19658a6d2382fb18d88b01f3a97b084ca2b8cea45232ff6db25ab83839a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33872,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2021-12-09",
+  "law_text_complete": false
+}
