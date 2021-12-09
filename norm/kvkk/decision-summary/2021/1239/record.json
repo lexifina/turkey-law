@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1239",
+  "source_id": 7273,
+  "date": "2021-12-09",
+  "title": "“Veri sorumlusu Banka tarafından ilgili kişinin ailesinin telefonları üzerinden arama gerçekleştirilmesi suretiyle kişisel verilerinin paylaşılması” hakkında Kişisel Verileri Koruma Kurulunun 09/12/2021 tarihli ve 2021/1239 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7273/2021-1239",
+  "source_sha256": "f9b86bdd9a1156a9dce1114db8bcc57190c2c906acb7bfd6754bed211e45e24a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
