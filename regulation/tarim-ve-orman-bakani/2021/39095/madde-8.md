@@ -1,0 +1,2 @@
+Enstitü müdür yardımcısının nitelikleri, görev, yetki ve sorumlulukları
+MADDE 8 – (1) Enstitü müdür yardımcısının, enstitünün faaliyet alanlarıyla ilgili bağlı bulunduğu Bakanlığın merkez biriminde, enstitülerinde veya laboratuvarlarında görev yapmış en az üç yıllık mesleki tecrübeye sahip veteriner hekim olması esastır. Enstitü müdür yardımcısı, enstitü müdürünün yokluğunda enstitüyü temsil eder ve enstitünün işleyiş ve faaliyetlerinden enstitü müdürüne karşı sorumludur. Enstitü müdür yardımcısı enstitü müdürü tarafından verilecek görevleri yapar.

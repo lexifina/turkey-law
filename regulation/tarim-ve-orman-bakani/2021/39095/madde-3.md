@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun 4 üncü maddesi, 21/12/1967 tarihli ve 969 sayılı Tarım ve Köyişleri Bakanlığının Merkez ve Taşra Kuruluşlarına Döner Sermaye Verilmesi Hakkında Kanun ve 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 434 üncü maddesine dayanılarak hazırlanmıştır.
