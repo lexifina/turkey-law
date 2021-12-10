@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2021/40775",
+  "award_date": "2021-12-10",
+  "heading_as_published": "10.12.2021 Tarih ve 2021/İHK-40775 Sayılı İtiraz Hakem Heyeti Kararı (Kasko)",
+  "issue": "Hakem Karar Dergisi 48 Ekim - Aralık 2021",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs48.pdf",
+  "source_sha256": "afe3eb42adf2f31547260f5d7ea065a9685cb946580e6ac68a7b785a1e97504a",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the published text",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
