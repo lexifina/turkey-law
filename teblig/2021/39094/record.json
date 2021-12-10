@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39094",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GELİR VERGİSİ GENEL TEBLİĞİ (SERİ NO: 316)",
+  "number": "39094",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/39094",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39094&MevzuatTertip=5",
+  "source_sha256": "97d11a53e9bb09a9078c766a818767c4971e74aa1f521addaa42a9f7d06d62ff",
+  "source_bytes": 37451,
+  "published": "2021-12-10",
+  "gazette": "31685",
+  "in_force": "2021-12-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.12.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1145,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39094-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
