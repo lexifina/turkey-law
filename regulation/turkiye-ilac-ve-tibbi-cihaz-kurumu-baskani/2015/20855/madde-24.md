@@ -1,0 +1,8 @@
+Sağlık hizmet sunucularının yükümlülüğü
+MADDE 24 – (1) Sağlık hizmet sunucuları, bu Yönetmeliğe uygun olarak, kullanımları süresince cihazlarının test, kontrol ve kalibrasyonlarını yaptırmakla yükümlüdür.
+(2) Sağlık hizmet sunucuları, cihazların test, kontrol ve kalibrasyonlarının periyotlarına dair ulusal ve uluslararası protokol, kılavuz ve standartlar ile üretici kriterlerinde herhangi bir süre belirtilmemiş ise test, kontrol ve kalibrasyonları yılda en az bir kez yaptırır.
+(3) Sağlık hizmet sunucusu test, kontrol ve kalibrasyon yapılmak üzere cihaz ve aksesuarlarının kuruluşa temiz ve dezenfekte edilmiş halde teslim edilmesinden sorumludur.
+(4) Sağlık hizmet sunucusu test, kontrol ve kalibrasyon işlemlerinden geçemeyen cihazlar için düzeltici faaliyet gerçekleştirir. Bu faaliyetlerin sonrasında cihazlar tekrar test, kontrol ve kalibrasyon işlemine tabi tutulur.
+(5) Sağlık hizmet sunucusu test, kontrol ve kalibrasyon sonucunda sınırlı kullanım kararı verilen cihazlara altı ay içinde düzeltici faaliyet gerçekleştirilmesini veya bu cihazların test, kontrol ve kalibrasyonu geçemeyen fonksiyonlarının teknik müdahale ile kullanım dışı bırakılmasını sağlar. Bu faaliyetlerin sonrasında cihazlar tekrar test, kontrol ve kalibrasyon işlemine tabi tutulur.
+(6) Sağlık hizmet sunucusu, Kurumun talebi halinde test, kontrol ve kalibrasyon yapılan cihazlara ait bilgiler ile bu cihazların test, kontrol ve kalibrasyon raporlarını Kurumun elektronik veri ortamına kaydeder.
+(7) Test, kontrol ve kalibrasyonu geçemeyen veya bu işlemler sonucunda sınırlı kullanım kararı verilen cihazlarda kullanılması uygun görülmeyen fonksiyonların kullanılması durumunda, meydana gelebilecek olumsuz sonuçlardan sağlık hizmet sunucuları sorumludur.

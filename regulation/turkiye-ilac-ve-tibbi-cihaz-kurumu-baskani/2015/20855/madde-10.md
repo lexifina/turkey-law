@@ -1,0 +1,10 @@
+ÜÇÜNCÜ BÖLÜM
+Test, Kontrol ve Kalibrasyon ile İlgili Hükümler
+Test, kontrol ve kalibrasyon esasları
+MADDE 10 – (1) Kuruluşlarca, cihazların test, kontrol ve kalibrasyonlarının hangi yöntem ve periyotta yapılacağına dair ulusal ve uluslararası protokol, kılavuz ve standartlar ile üretici kriterleri dikkate alınır.
+(2) Cihazların test, kontrol ve kalibrasyonlarının periyotlarına dair ulusal ve uluslararası protokol, kılavuz ve standartlar ile üretici kriterlerinde herhangi bir süre belirtilmemiş ise test, kontrol ve kalibrasyonları yılda en az bir kez yapılır.
+(3) Test, kontrol ve kalibrasyon işlemlerinden geçemeyen cihazlar için; sağlık hizmet sunucusu düzeltici faaliyet gerçekleştirir. Bu faaliyetlerin sonrasında cihazlar tekrar test, kontrol ve kalibrasyon işlemine tabi tutulur.
+(4) Cihazın bir kısım fonksiyonlarının test, kontrol ve kalibrasyondan geçemediği ve bu fonksiyonların diğer fonksiyonların kullanımını etkilemediği hallerde test, kontrol ve kalibrasyondan geçen fonksiyonların sağlık hizmetinde kullanılabilmesi amacıyla sağlık hizmet sunucusu ile birlikte cihaza sınırlı kullanım kararı verilir. Sınırlı kullanım kararı verilen cihazın test, kontrol ve kalibrasyonu geçemeyen fonksiyonları kullanılmaz.
+(5) Test, kontrol ve kalibrasyon sonucunda sınırlı kullanım kararı verilen cihazlara altı ay içinde düzeltici faaliyet gerçekleştirilir veya bu cihazların test, kontrol ve kalibrasyonu geçemeyen fonksiyonları teknik müdahale ile kullanım dışı bırakılır. Bu faaliyetlerin sonrasında cihazlar tekrar test, kontrol ve kalibrasyon işlemine tabi tutulur.
+(6) Seyyar olmayıp montaj gerektiren ve bulunduğu yere sabitlenen cihazların yerinin değiştirilmesi durumunda, bu cihazlar tekrar test, kontrol ve kalibrasyon işlemine tabi tutulur.
+(7) Kurum, gerek gördüğü hallerde yetki gruplarında yer alan cihazlar için test, kontrol ve kalibrasyon yöntemlerini ulusal ve uluslararası protokol, kılavuz ve standartlar ile üretici kriterlerini dikkate alarak belirler. Kuruluş, bu yöntemlere uygun olarak test, kontrol ve kalibrasyon faaliyetlerini gerçekleştirmek zorundadır.

@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Diğer Hükümler
+Personel ve kapsam değişikliği
+MADDE 20 – (1) Yetki belgesi kapsamında değişiklik yapmak isteyen kuruluş, bu değişiklikler ile ilgili bilgi ve belgeleri Kuruma dilekçe ile ibraz eder. Bu dilekçenin Kuruma tesliminden itibaren bu Yönetmeliğin 6 ncı ve 7 nci maddelerinde belirtilen ilgili hükümler uygulanır.
+(2) Kurum, bu Yönetmeliğin 22 nci maddesinin birinci fıkrasına göre bildirilen değişiklikleri göz önünde bulundurarak kapsam değişikliği yapabilir.
+(3) (Değişik:RG-10/12/2021-31685) Personel değişikliği yapmak isteyen kuruluş, bu değişikliklerle ilgili bilgi ve belgeleri Kuruma dilekçe ile ibraz eder. Personel alımında bu personelin sorumlu müdür veya uzman olması durumu için ibraz edilecek dilekçeye, alımı yapılacak personelin eğitim belgesi örneği ile Kurumun talebi halinde çalışma belgesi başvuru ücretinin ödendiğine dair banka dekontu eklenir. Başvurunun Kurum tarafından uygun bulunması halinde ilgili çalışma belgeleri düzenlenir.
+(4) (Değişik:RG-10/12/2021-31685) Sorumlu müdürün görevden ayrılması, belgesinin askıya alınması veya iptali söz konusu olduğunda kuruluş, bünyesinde yer alan uzmanlardan birini bir iş günü içerisinde azami otuz güne kadar sorumlu müdür yerine görevlendirebilir. Sorumlu müdür yerine uzman görevlendirilmemesi veya azami otuz günün sonunda yeni sorumlu müdür atanmaması halinde 14 üncü maddenin birinci fıkrasının (b) bendi uygulanır.

@@ -1,0 +1,8 @@
+DÖRDÜNCÜ BÖLÜM
+Denetim ve İdari Yaptırımlar
+Kuruluşların denetimi
+MADDE 13 – (1) (Değişik:RG-10/12/2021-31685) Kuruluşun bu Yönetmelik kapsamındaki faaliyetleri, “TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının Yetkinliği İçin Genel Gereklilikler” standardının güncel haline ve bu Yönetmelik hükümleri doğrultusunda Kurumca belirlenen denetim formuna uygun olarak, Kurum tarafından yılda en az bir defa denetlenir. Kurum, TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının Yetkinliği İçin Genel Gereklilikler standardında akreditasyon şartı istediği kuruluşların denetiminde, bu kuruluşların bahse konu kapsamda bu standarda uygunluğunu gerekli gördüğü hallerde ayrıca arar.
+(2) Kuruluş; bu Yönetmelik kapsamındaki faaliyetleri ile ilgili belge ve kayıtlarını Kurum denetimine hazır bulundurur ve talebi halinde bu belge ve kayıtları yirmi iş günü içinde Kuruma verir.
+(3) (Değişik:RG-10/12/2021-31685) Kurumca düzenlenen kılavuza göre yapılan denetimler sonucunda, tespit edilen eksikliklerin giderilmesi veya gerekli tedbirlerin alınması için kuruluşa, bu Yönetmelikte başka süre belirlenmemişse kırk beş iş günü süre verilir. Ayrıca, tespit edilen eksikliğe göre bu Yönetmelikte yer alan müeyyideler uygulanır.
+(4) Bu Yönetmelik kapsamındaki hizmetlerde kişilerin hayatını ve sağlığını tehlikeye sokacak biçimde faaliyet gösterdiği tespit edilen kuruluş ve personel hakkında Türk Ceza Kanununun ilgili hükümleri uygulanır ve ilgili belgeler askıya alınır. İlgililer hakkında kesinleşmiş mahkûmiyet kararı verilmesi halinde ise söz konusu belgeler süresiz olarak iptal edilir.
+(5) (Ek:RG-10/12/2021-31685) Kurum, kuruluşun bu Yönetmelik kapsamındaki faaliyetlerinin denetimini valiliklere devredebilir.
