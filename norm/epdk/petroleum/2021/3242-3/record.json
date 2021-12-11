@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "3242/3",
+  "decision_date": "2021-12-11",
+  "title": "3242-3 sayılı Petrol Piyasasında Lisans Tadili Başvurularında Aranacak Bilgi ve Belgelere İlişkin Kurul Kararı",
+  "categories": [
+    "Lisans Başvuruları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=awopeRUev68=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=awopeRUev68="
+  ],
+  "source_sha256": "7313264b5922f2d1950022430b00443d05e5861719d5a6d01c926c65c5177d2b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4870,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-11",
+  "law_text_complete": true
+}
