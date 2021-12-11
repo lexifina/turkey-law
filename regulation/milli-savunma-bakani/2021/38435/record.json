@@ -1,0 +1,44 @@
+{
+  "source_id": "7.5.38435",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA ÜNİVERSİTESİ HARP OKULLARI YÖNETMELİĞİ",
+  "number": "38435",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2021/38435",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38435&MevzuatTertip=5",
+  "source_sha256": "e7f96658d04a1d81081cf82f2d43be436da192dbce2611663a533d1301a8df9f",
+  "source_bytes": 205971,
+  "published": "2021-03-23",
+  "gazette": "31432",
+  "in_force": "2021-12-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-11",
+      "RG-11/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-11",
+      "11/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelikte belirtilmeyen ölçme-değerlendirme usul ve esasları öğretim kurulunda karara bağlanarak Senato onayı ile yürürlüğe girer",
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11955,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
