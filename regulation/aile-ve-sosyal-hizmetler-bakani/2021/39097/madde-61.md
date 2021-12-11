@@ -1,0 +1,6 @@
+Ön inceleme
+MADDE 61 – (1) Ön inceleme; 4483 sayılı Kanun kapsamına giren memurlar ve diğer kamu görevlileri hakkında, işledikleri iddia edilen suçlardan ötürü anılan Kanunun gösterdiği yetkili merciin soruşturma izni verilmesi veya verilmemesi kararlarına dayanak teşkil etmek amacıyla yapılır ve buna ilişkin ön inceleme raporu düzenlenir.
+(2) Müfettişler tarafından görevleri sırasında ön inceleme başlatılmasını gerektiren bir suçun tespit edilmesi halinde gerekçeli bir yazı ile durum izin vermeye yetkili mercie bildirilir.
+(3) Müfettişler tarafından, 4483 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (d) ve (e) bentlerinde sayılan memur ve diğer kamu görevlileri hakkında Başkanlıktan ön inceleme izni talebinde bulunulur.
+(4) Müfettişlerce yapılacak ön inceleme sonucunda düzenlenen rapor yetkili mercie gönderilir ve eş zamanlı Başkanlığa sunulur. Düzenlenen rapor, 4483 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (d) ve (e) bentlerinde sayılan memur ve diğer kamu görevlileri hakkında ise Başkanlığa teslim edilir.
+(5) Müfettişler düzenledikleri raporlarını, 4483 sayılı Kanunun 7 nci maddesi ile belirtilen karar verme süresinin tamamlanmasından en az beş gün önce, karar verilmesine imkân sağlamak üzere yetkili mercie teslim ederler.

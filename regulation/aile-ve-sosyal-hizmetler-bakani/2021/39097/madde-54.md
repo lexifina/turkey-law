@@ -1,0 +1,4 @@
+Özel teftiş ve uygulaması
+MADDE 54 – (1) Özel teftiş; Bakanlık merkez, taşra ve yurt dışı teşkilatı, bağlı ve ilgili kuruluşları, Bakanlığın denetimine tabi resmi ve özel sosyal hizmet ve yardım kuruluşları ile 3294 sayılı Kanun hükümlerine göre kurulan vakıfların belirli konulardaki faaliyet, iş ve işlemlerinin mevzuata uygunluğu ile sundukları hizmetlerin aksayıp aksamadığının tespiti amacıyla yapılan ani ve habersiz teftiş faaliyetidir.
+(2) Yapılan bu teftişlere ilişkin özel teftiş raporu düzenlenir ve Başkanlığa teslim edilir. Rapor, Başkanlık tarafından ilgili birimlere intikal ettirilir.
+(3) Bakanlık merkez, bağlı ve ilgili birim amirleri, valiler ve Bakanlık müfettişleri özel teftiş taleplerini Başkanlığa bildirirler. Özel teftişler, Başkanlık önerisi üzerine veya doğrudan Bakan emri ile yapılır.

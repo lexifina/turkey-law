@@ -1,0 +1,5 @@
+Teftiş dosyası ve defteri
+MADDE 57 – (1) Teftiş edilen kurum ve kuruluşlarda bir teftiş dosyası tutulur. Teftiş dosyasına; birimin geçmiş yıllardaki teftişleri neticesinde tanzim edilmiş bulunan raporların bir nüshası, Bakanlık merkezinden teftiş raporuna ilişkin gönderilen emir ve talimatlar ile bunlara dayalı olarak gerçekleştirilen iş ve işlemlere dair belgeler konulur. Müfettişler; teftiş ettikleri birimlerdeki teftiş dosyalarını inceleyerek eleştirilen konularda ne ölçüde düzeltme yapıldığına, teftiş sonunda gönderilen talimat ve emirlere uyulup uyulmadığına bakarlar.
+(2) Bu dosyanın saklanmasından, devir ve tesliminden kurum ve kuruluşun amirleri ve ilgili memurları müştereken sorumludurlar.
+(3) Kurum ve kuruluşlarda sayfaları numaralandırılmış, mühürlenmiş, son sayfasına defterin kaç sayfadan ibaret olduğu yazılmış olan ve ilgili birimin en üst amirince tasdik edilmiş bir teftiş defteri bulundurulur.
+(4) Müfettişler; teftişin başlayış ve bitiş tarihlerini, hangi işleri teftiş ettiklerini ve teftişe ilişkin diğer hususları teftiş defterine yazmak suretiyle imzalarlar.

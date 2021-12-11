@@ -1,0 +1,8 @@
+Kıdem
+MADDE 44 – (1) Aynı giriş sınavı ile müfettiş yardımcılığına giren müfettiş yardımcılarının kıdemi, müfettiş yardımcılığına giriş sınavındaki başarı sırasına göre belirlenir.
+(2) Aynı giriş sınavı ile Başkanlıkta göreve başlayan müfettiş yardımcılarından, yeterlik sınavına girmeyenlerden, daha sonra yapılan yeterlik sınavıyla müfettişliğe geç atananların kıdemleri, kendi dönemlerindeki müfettişlerden sonra gelir.
+(3) Aynı giriş sınavı ile müfettiş yardımcılığına giren müfettişlerin kıdemi, yeterlik sınavındaki başarı puanlarına göre tespit edilir.
+(4) Müfettişlik kıdeminde esas alınan süre; müfettiş yardımcılığında, müfettişlikte ve diğer denetim görevlisi kadrolarında geçen süredir. Bu sürenin hesabında müfettişlik sıfat ve kadrosu muhafaza edilmek şartıyla tüm kamu kurum ve kuruluşlarındaki idari görevlerde geçirilen süreler ile tüm kanuni izinler dâhildir.
+(5) Başmüfettişlerin kıdem sırası müfettişlerden öncedir. Başmüfettişler arasındaki kıdem sırasının tespitinde müfettişlik kıdemi esas alınır.
+(6) Başkanlık yaptıktan sonra müfettişliğe dönenler dönemlerinin en kıdemlisi sayılırlar. Aynı dönemde bu durumda birden fazla müfettiş olması halinde, bunların kıdem sırasının tespitinde müfettişlik kıdemi esas alınır.
+(7) Başkanlığa, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesi uyarınca atananlardan; yeterlik sınavında başarı göstermek suretiyle müfettiş, denetmen, denetçi, kontrolör unvanlarından birini iktisap edenlerin denetim mesleğinde geçen süreleri ile üst kademe kamu yöneticiliklerinde geçen sürelerinin tamamı, denetim mesleğinden olmayanların ise hizmet sürelerinin yarısı denetim meslek kıdeminden sayılır.

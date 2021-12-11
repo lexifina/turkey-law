@@ -1,0 +1,2 @@
+Yabancı dil eğitimi
+MADDE 51 – (1) Müfettişlerin uluslararası toplantılara katılma, Bakanlığın görev alanındaki yabancı yayınları izleme ve inceleme olanağına kavuşabilmelerini sağlamak amacıyla, yabancı dil öğrenimi için dil kurslarından yararlanmaları halinde eğitim masraflarının bütçeden karşılanacak olan kısmı genel hükümlere göre ödenir. Yabancı dil kurslarına katılacak olanlar Başkanlığın teklifi ve gerekli onay ile belirlenir.

@@ -1,0 +1,7 @@
+Genel teftiş ve uygulaması
+MADDE 53 – (1) Genel teftiş; Bakanlık merkez, taşra ve yurt dışı teşkilatı, bağlı ve ilgili kuruluşları, Bakanlığın denetimine tabi resmi ve özel sosyal hizmet ve yardım kuruluşları ile 3294 sayılı Kanun hükümlerine göre kurulan vakıfların iş, işlem ve süreçlerinin mevzuata uygunluğu ile kaynakların etkin, verimli ve ekonomik kullanımını sağlamak ve Bakanlık hizmetlerinin kalitesini artırmaya yardımcı olmak için çözüm ve öneriler geliştirmek amacıyla gerçekleştirilen teftiş faaliyetidir.
+(2) Genel teftiş faaliyetleri yıllık olarak planlanır ve “Yıllık Çalışma ve Teftiş Programı” içinde yer alır. Kurum ve kuruluşların herhangi biri mutat ve makul süreler haricinde denetim dışında tutulamaz.
+(3) Yapılan bu teftişlere ilişkin genel teftiş raporu düzenlenir.
+(4) Genel teftiş raporları Başkanlığa teslim edilir. Başkanlıkça incelenerek uygun bulunan raporlar, gereği yapılmak üzere teftişi yapılan birimin hizmet bazında ilişkili olduğu Bakanlık merkez birimlerine gönderilir.
+(5) Bakanlık merkez birimleri kendisine ulaşan raporları değerlendirmek ve gerekli tedbirlerin alınmasını sağlamakla yükümlüdür. Bakanlık merkez birimleri kendilerine intikal eden raporları ilgili valiliklere gönderir ve gerekli takibatı yapar.
+(6) Teftişi yapılan birimlerce raporda yer alan tespit ve tenkitlere ilişkin cevaplar hazırlanır ve otuz gün içinde valilik tarafından Bakanlık ilgili merkez birimlerine gönderilir. Bakanlık merkez birimleri kendilerine ulaşan cevapları sonuçlandırarak nihai durum hakkında Başkanlığa bilgi verir.

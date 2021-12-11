@@ -1,0 +1,2 @@
+Giriş sınavı ilanı
+MADDE 19 – (1) Sınavın şekli, yeri ve zamanı, müracaat tarihi ve yeri, sınava katılma şartları, atama yapılacak kadro ve sınava alınacak aday sayısı, sınav konuları, istenilecek belgelere ilişkin bilgiler ile diğer hususlar giriş sınavı tarihinden en az otuz gün önce 15/7/2018 tarihli ve 30479 sayılı Resmî Gazete’de yayımlanan 10 sayılı Resmî Gazete Hakkında Cumhurbaşkanlığı Kararnamesinin 5 inci maddesinde yer alan düzenleme çerçevesinde ilan verilmek suretiyle adaylara duyurulur.

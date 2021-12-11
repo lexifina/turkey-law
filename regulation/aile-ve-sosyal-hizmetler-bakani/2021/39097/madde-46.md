@@ -1,0 +1,4 @@
+Müfettişlik güvencesi
+MADDE 46 – (1) Müfettiş ve müfettiş yardımcıları teftiş hizmetlerinin gerekleri ile bağdaşmayan sıhhi, mesleki etik veya mesleki yetersizlikleri tespit edilmedikçe görevden alınamazlar, kendi istekleri dışında diğer görevlere atanamazlar ve görevlendirilemezler.
+(2) Sıhhi, mesleki etik veya mesleki yetersizlik hallerinin; soruşturma raporu, sağlık kurulu raporu veya yargı kararı ile tevsiki esastır.
+(3) Müfettiş ve müfettiş yardımcıları kesinleşmiş yargı kararı veya disiplin soruşturmasıyla ortaya konulmuş delil karartma ve saptırma fiilleri olmadıkça; gerçekleştirdikleri teftiş, araştırma, inceleme, ön inceleme ve disiplin soruşturmaları nedeniyle yapmış oldukları işlemlerden ve sonucunda tanzim etmiş oldukları raporlardan veya mevzuatla verilen yetkilerini kullanmalarından dolayı sorumlu tutulamazlar. Kanaatleri veya aldıkları tedbirler nedeniyle açılacak özel hukuk davalarında husumet Bakanlığa tevcih edilir.

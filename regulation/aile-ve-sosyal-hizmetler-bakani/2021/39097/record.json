@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39097",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AİLE VE SOSYAL HİZMETLER BAKANLIĞI REHBERLİK VE TEFTİŞ BAŞKANLIĞI HAKKINDA YÖNETMELİK",
+  "number": "39097",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani/2021/39097",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39097&MevzuatTertip=5",
+  "source_sha256": "2d30f76746e2dbacacdf249f41069e6b92899a04c6b3aacf02b6a5ec662f56dc",
+  "source_bytes": 134682,
+  "published": "2021-12-11",
+  "gazette": "31686",
+  "in_force": "2021-12-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7766,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
