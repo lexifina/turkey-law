@@ -1,0 +1,3 @@
+Yatay geçiş
+MADDE 15 – (1) Başka bir üniversiteden Fakülteye yatay geçiş, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır.
+(2) Yatay geçiş başvuruları ilan edilen kontenjanlar uyarınca, öğrencinin almış olduğu eğitimin Fakülte eğitim programına uyum ve denkliği hakkında yatay geçiş komisyonunun görüşü ve Fakülte Kurulunun belirlediği diğer kriterler dikkate alınarak Fakülte Yönetim Kurulunca karara bağlanır.

@@ -1,0 +1,3 @@
+Ön hekimlikte değerlendirme
+MADDE 29 – (1) 6 ncı dönemde her uygulama dilimi sonunda eğitim program kapsamını yansıtacak çoklu yöntemler kullanılarak değerlendirme yapılır. Uygulama dilimi değerlendirmelerinin kapsamı, zamanlaması, yeterlilik kriterleri ve not oluşturma esasları uygulama dilimi eğitim sorumlusu tarafından belirlenir ve eğitim yılı başlangıcında ilan edilir.
+(2) Eğitim sorumluları öğrenci devamı, katılımı ve yeterliğini tespit eden staj karnesini hazırlar ve öğrenciler tarafından doldurulan karneyi eğitim dilimi sonunda onaylar. Onaylanmış karneler öğrenciler tarafından öğrenci işleri bürosuna iletilir. Bu karneler uygulama dilimi notu ve yeterliğine esas olarak kullanılır.

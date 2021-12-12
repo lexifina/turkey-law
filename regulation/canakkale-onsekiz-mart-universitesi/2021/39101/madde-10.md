@@ -1,0 +1,2 @@
+Fakülte dışında eğitim olanakları
+MADDE 10 – (1) Fakülte öğrencilerinin değişim programları çerçevesinde eğitimlerinin belli bölümlerini yurt içi ya da yurt dışı başka kurumlarda sürdürmeleri desteklenir. Öğrenci değişim olanakları Fakülte dış ilişkiler koordinatörlüğü tarafından Erasmus Programı ve Farabi Değişim Programı içinde düzenlenir. Bu konudaki başvurular Fakülte dış ilişkiler koordinatörlüğü görüşü ile birlikte Fakülte Yönetim Kurulunda değerlendirilir ve karara bağlanır.

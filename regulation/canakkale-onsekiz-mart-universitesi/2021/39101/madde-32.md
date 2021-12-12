@@ -1,0 +1,4 @@
+Sonuçların değerlendirilmesi ve not hesabı
+MADDE 32 – (1) Sınavlar 100 tam not üzerinden değerlendirilir. Not hesaplarında ondalık noktasından sonra gelen ilk basamak 5 veya daha büyükse not bir üst tamsayıya, küçükse bir alt tam sayıya eşitlenir. Notların harf ve katsayı karşılıkları için Çanakkale Onsekiz Mart Üniversitesi Önlisans-Lisans Eğitim Öğretim ve Sınav Yönetmeliği hükümleri uygulanır.
+(2) Ders kurullarında ve staj bloklarında görev alan anabilim dalları, ders yükleri oranında soru ve not ağırlığına sahiptir. Ders kurulları, dönem bitirme ve bütünleme, staj, tematik veya entegre staj bloğu bitirme ve bütünleme sınavlarına ait aşamalardan elde edilen notların, belirlenen ağırlıklara göre birleştirilmesiyle ilgili sınavların notları oluşur.
+(3) Eğitimin ilk üç yılında dönem notu; ilgili yıldaki Ders kurulu notlarının ortalamasının %60'ı ile dönem sonu bitirme sınavı veya dönem sonu bütünleme sınavı notunun %40'ının toplamından oluşur.

@@ -1,0 +1,9 @@
+DÖRDÜNCÜ BÖLÜM
+Devam Zorunluluğu ve Mazeretler
+Devam zorunluluğu
+MADDE 20 – (1) Fakülte eğitim programına dahil her tür eğitim etkinliğine (laboratuvar çalışması, tartışma, seminer, saha, klinik çalışmaları ve benzeri uygulamalar ile teorik dersler) devam zorunludur.
+(2) Kuramsal derslerin %30'undan fazlasına devam etmeyen öğrenci, ilgili Ders Kurulu sınavlarına alınmaz.
+(3) Uygulama çalışmalarının %20'sinin altındaki devamsızlık, ilgili çalışmalardan sorumlu öğretim üyelerinin uygun göreceği gün ve saatte telafi edilir. Uygulama eğitimlerinin yirmisinden fazlasına katılamayan veya telafi yükümlülüklerini yerine getirmeyen öğrenci ilgili Ders Kurulu sınavlarına alınmaz.
+(4) Stajın, tematik veya entegre staj blokları süresinin en fazla %20'sine devam etmeyen öğrenci devam etmediği staj programı öğelerini eğitim sorumlusu tarafından belirlenen zaman ve usullerde telafi etmek zorundadır. Devamsızlıklarının tamamını telafi etmeyenler ve %20'den daha fazla devamsızlığı olanlar, staj, tematik veya entegre staj blokları sınavlarına alınmazlar ve ilgili staj veya staj bloğunu tekrar etmek zorundadırlar.
+(5) Ön hekimlik uygulama dilimlerinde belirlenmiş program öğelerinin tamamına katılım zorunludur. Fakülte Yönetim Kurulu tarafından mazereti kabul edilmiş devam edilmeyen süreler, ön hekimlik uygulama dilimi eğitim sorumlusunun belirlediği zaman ve usullerde telafi edilir. Mazeretsiz devamsızlık yapanlar veya sundukları mazeret kabul edilmeyenler ön hekimlik uygulama dilimini tekrar etmek zorundadırlar.
+(6) 1 inci, 2 nci ve 3 üncü dönemde derslerine devam etmiş olup, bütünleme sınavı itibarıyla başarısız olarak değerlendirilen öğrenciler için tekrar edecekleri eğitim yılında teorik ve pratik derslere devam zorunluluğu aranmaz. Öğrenci o dönem için mevcut sınav takvimlerine uyarak sınavlara katılır.

@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Anabilim dalı: Fakülte bünyesinde bulunan anabilim dallarını,
+b) Dekan: Fakülte Dekanını,
+c) Ders Kurulu: Kavramsal bütünlük sağlayacak şekilde belirlenen amaca göre farklı anabilim/bilim dalları tarafından belirli bir süre için programlanmış kavramsal ve uygulamalı eğitim etkinlikleri grubunu,
+ç) Ders Kurulu Eğitim Komitesi: 1 inci, 2 nci ve 3 üncü dönemde; her Ders Kurulunda eğitim-öğretim faaliyetleri ile ölçme değerlendirme faaliyetlerini düzenlemek, sınavda sorulacak soruların öğrenim hedeflerine uygunluğunu denetlemek, sınavları yapmak, sonuçları zamanında duyurmak üzere Dekanlık tarafından görevlendirilmiş Ders Kurulu eğitim sorumlusu ve iki yardımcısından oluşan komiteyi,
+d) Dönem: Her eğitim-öğretim yılını,
+e) Dönem koordinatörü: Dekan tarafından her dönem için görevlendirilen ders, ders kurulları, staj, klinik, poliklinik eğitim-öğretim programlarını ve sınavlarını koordine eden Üniversitede tam zamanlı olarak çalışan Fakültede görevli öğretim üyesini,
+f) Eğitim Komisyonu: Fakültede tıp eğitiminden sorumlu üst Danışma Kurulunu,
+g) Eğitim sorumlusu: Fakültede Eğitim Komisyonu tarafından belirlenen, Ders Kurulu, staj, tematik veya entegre staj bloğu veya uygulama dilimi içinde dersi olan anabilim dallarından birinin öğretim üyesini,
+ğ) Entegre staj/tematik staj bloğu: Belirli bir tema, sistem veya organ odaklı, birbirini tamamlayan stajların ortak veya bütünleşik bir müfredat ile yürüttükleri klinik eğitimi,
+h) Fakülte: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesini,
+ı) Fakülte Kurulu: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi Fakülte Kurulunu,
+i) Fakülte Yönetim Kurulu: Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi Yönetim Kurulunu,
+j) Staj/Staj Bloğu Eğitim Komitesi: 4 üncü ve 5 inci dönemde her staj/staj bloğunda, eğitim-öğretim faaliyetleri ile ölçme değerlendirme faaliyetlerini düzenlemek, sınavda sorulacak soruların öğrenim hedeflerine uygunluğunu denetlemek, sınavları yapmak, sonuçları zamanında duyurmak üzere Dekanlık tarafından görevlendirilmiş, staj eğitim sorumlusu ve iki yardımcısından oluşan komiteyi,
+k) Öğrenci: Fakülte öğrencilerini,
+l) Ön hekimlik (intörnlük): Stajlarını tamamlamış olan öğrencilerin hekimlik mesleğini öğretim üyesi rehberliğinde uygulamalarına olanak veren on iki aylık eğitim dilimini,
+m) Pratik (uygulama): Ders kurulları kapsamında yer alan kuramsal konular ile bağlantılı, bu konuların anlaşılmasını kolaylaştıran ve/veya tıpta uygulama ve entelektüel beceri kazandırmaya yönelik eğitim etkinliğini,
+n) Senato: Çanakkale Onsekiz Mart Üniversitesi Senatosunu,
+o) Staj: Temel tıp bilgilerini almış olan öğrencilere hekimlik mesleğinin uygulanmasına yönelik, anabilim dallarınca yürütülen klinik eğitimini,
+ö) Üniversite: Çanakkale Onsekiz Mart Üniversitesini,
+ifade eder.

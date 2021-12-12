@@ -1,0 +1,2 @@
+Dönem sonu bütünleme sınavları
+MADDE 25 – (1) 1 inci, 2 nci ve 3 üncü dönem sonu bitirme sınavından en erken on, en geç yirmi gün sonra dönem sonu bütünleme sınavı yapılır. Dönem sonu bütünleme sınavları dönem sonu bitirme sınavının eş ve dengidirler. Bu sınava girebilmek için kayıt, devam ve ilan edilmiş diğer şartları yerine getirmek kaydıyla dönem sonu bitirme sınavı sonunda başarılı olamayan öğrenciler katılabilirler.

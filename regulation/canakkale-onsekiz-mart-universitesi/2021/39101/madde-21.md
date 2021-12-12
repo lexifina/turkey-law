@@ -1,0 +1,7 @@
+Mazeretler
+MADDE 21 – (1) Öğrencinin eğitim süresinde sağlık nedeniyle mazeretli sayılabilmesi için hastalığını resmî yataklı tedavi kuruluşlarından alacağı raporla belgelendirmesi ve bu raporun Fakülte Yönetim Kurulunca kabul edilmesi gerekir. Mazereti, Fakülte Yönetim Kurulunca kabul edilen öğrenci, mazereti süresince derslere devam edemez ve sınavlara giremez.
+(2) Birinci derecede akrabalarının hastalıkları veya ölümleri, kazalar, doğal afetler, tutuklanma, yargılanma, ailevi ve ekonomik nedenlerin mazeret sayılabilmesi için resmî belgelere dayandırılması gerekir.
+(3) Disiplin suçu nedeniyle verilen uzaklaştırma cezaları mazeret sayılmaz.
+(4) Mazeretlerle ilgili her türlü başvuru, mazeretin bitimi tarihinden itibaren en geç on gün içinde Dekanlığa yapılır. Daha sonra yapılan başvurular, geç sunulan raporlar veya yalnız sınav tarihlerini kapsayan raporlar işleme konulmaz.
+(5) Yönetim Kurulu öğrencinin her türlü mazeretini, takdire bağlı olarak kabul veya reddedebilir.
+(6) Türkiye’yi ve Üniversiteyi, millî takım ve üniversiteler arası folklorik, sportif, kültürel ve bilimsel alanlarda temsil eden karşılaşmalarda yer alan öğrencilerin, bu karşılaşmalara ve bunların hazırlık çalışmalarına katılmak zorunda olmaları nedeniyle eğitime devam edemedikleri süreler, devam süresinin hesabında dikkate alınmaz. Bu süreler içinde giremedikleri uygulama çalışmalarını telafi ederler ve katılamadıkları sınavlara Fakülte Yönetim Kurulunca belirlenecek tarihlerde girerler.

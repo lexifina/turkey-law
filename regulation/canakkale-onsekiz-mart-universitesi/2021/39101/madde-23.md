@@ -1,0 +1,3 @@
+Ders Kurulu sınavları
+MADDE 23 – (1) Ders Kurulu sınavları; 1 inci, 2 nci ve 3 üncü dönemler sonunda yapılan sınavlardır. Bu sınavlar bilgi ve uygulama sınavı olmak üzere iki aşama içerebilirler. Sınav zamanları, yöntem ve kapsamı ile not ağırlıkları kurul eğitim sorumlusu tarafından Ders Kurulu başlamadan önce ders programı ile birlikte ilan edilir. Ders Kurulu sınavları, Ders Kurulu Eğitim Komitesi tarafından düzenlenir. Bu sınava girebilmek için kayıt, devam ve ilan edilmiş diğer şartları yerine getirmek gereklidir.
+(2) 1 inci, 2 nci ve 3 üncü dönemdeki ders kurulları içerisinde Ders Kurulu Eğitim Komitesi tarafından tarihi ve yöntemi belirlenmiş, kurul başlamadan ilan edilmiş, diğer ölçme yöntemleri ve biçimlendirici (formative) sınavlar uygulanabilir.

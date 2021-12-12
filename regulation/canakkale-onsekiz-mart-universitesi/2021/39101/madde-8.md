@@ -1,0 +1,3 @@
+Eğitim programı
+MADDE 8 – (1) 1 inci, 2 nci ve 3 üncü dönemlerde eğitim temelde ders kurulları esasına dayanır. 4 üncü ve 5 inci dönemlerde eğitim staj, tematik veya entegre biçimde yapılandırılmış staj blokları esasına göre yürütülür. 6 ncı dönem, uygulama dilimleri hâlinde aralıksız bir yıl süren ön hekimlik (intörn) kademesidir.
+(2) Her yıldaki Ders Kurulu, staj, tematik veya entegre staj bloğu veya uygulama dilimi sayıları ve süreleri, anabilim dalları, eğitim sorumluları ve dönem koordinatörlerinin gerekçeli talepleri dikkate alınarak eğitim komisyonu önerisiyle Fakülte Kurulunca belirlenir ve Senato onayından sonra uygulanır.

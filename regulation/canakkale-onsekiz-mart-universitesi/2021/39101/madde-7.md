@@ -1,0 +1,2 @@
+Eğitim sistemi
+MADDE 7 – (1) Fakültede eğitim; ilke olarak, ulusal çekirdek eğitim programına dayalı, yetişkin eğitimi ilkelerini temel alan, zaman ve konuda bütünleştirilmiş, topluma dayalı, önceden yapılandırılmış, klinik deneyime erken başlanan, seçmeli konulara yer verilen, güncel ve geçerli ölçme ve değerlendirmede yöntemleri kullanan, sürekli ve düzenli olarak izlenip geliştirilen bir eğitimdir. Tıp eğitimine katkı sağlayacak yenilikçi eğitim etkinlikleri programda yer alır.

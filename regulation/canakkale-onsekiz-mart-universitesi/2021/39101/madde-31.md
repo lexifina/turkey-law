@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 31 – (1) Öğrenciler sınav sonuçları hakkındaki itirazlarını sonuçlar ilan edildikten sonra en geç bir hafta içerisinde Dekanlığa yazılı olarak yaparlar. Bu itirazlar, ilgili dönem koordinatörlüğü ve eğitim komitelerinden oluşan kurullarca incelenir. Maddi hata görülürse gerekli not düzeltmesi yapılır. Gerektiğinde Dekanlık, Yönetim Kurulunun kararı ile oluşacak ve biri o dersi okutan öğretim elemanlarından biri olmak şartıyla en az üç kişilik komisyona itirazı inceletebilir. Eğitim Komisyonu kararı Yönetim Kurulunda görüşülerek karara bağlanır.
