@@ -1,0 +1,2 @@
+Ders puanları ve akademik ortalama
+MADDE 37 – (1) Her yarıyıl sonunda, öğrencilerin başarı durumu ağırlıklı genel not ortalaması (AGNO) ile belirlenir. Bu amaçla, öğrencinin ders kaydı yaptığı ve not ortalamalarına katılan dersin kredi değeri ile o dersten alınan notun katsayısı çarpılarak bulunan ağırlıklı puanların toplamının, bu derslerin kredi toplamına bölünmesi ile AGNO bulunur. Not ortalamalarının hesabında işlem virgülden sonra iki hane yürütülerek yapılır. Başarı notları YT ile verilen dersler, not ortalamalarının hesabında dikkate alınmaz.

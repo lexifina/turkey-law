@@ -1,0 +1,10 @@
+Sınavlara ilişkin genel esaslar
+MADDE 27 – (1) Sınavlar; ara sınav, yarıyıl/yıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek ders sınavı/ek sınav ve muafiyet sınavı olmak üzere yedi türlüdür. Bu sınavlar; yazılı, sözlü veya hem yazılı hem sözlü ve/veya uygulamalı yapılabilir. Sınav tarihleri dekanlık tarafından sınavlardan en az bir hafta önce ilan edilir. Sözlü sınavlar tutanakla tespit edilir. Sınav evrakları en az iki yıl saklanır.
+(2) Sınavların yapılacağı yer ve tarihler Dekanlık tarafından belirlenir ve ilan edilir.
+(3) Öğrenciler sınava ilan edilen gün, saat ve yerde girmek, öğrenci kimlik belgeleri ile istenecek diğer belgeleri yanlarında bulundurmak zorundadırlar.
+(4) Öğrencilerin bir dersin sınavına girebilmesi için o yarıyılda/yılda kayıtlarını yenilemiş ve o derse kayıt yaptırmış olmaları gerekir. Öğrencilerin kayıt yaptırmadığı bir dersin sınavına veya girme hakkını kazanmadığı bir sınava girmesi durumunda aldığı not ilan edilmiş olsa da iptal edilir.
+(5) Uzaktan öğretim yoluyla verilen derslerin sınavları CUZEM’in teklifi ve Senatonun onayıyla belirlenen günlerde oturumlar halinde yapılır. Ortak zorunlu derslerin her biri için en az bir ara sınav yapılır.
+(6) Gerekli durumlarda Fakülte Yönetim Kurulu kararı ile ulusal ve dini bayramlar dışındaki Cumartesi ve Pazar günleri de sınav yapılabilir.
+(7) Sınavlarda kopya çekenler, kopya girişiminde bulunanlar veya kopyaya yardım edenler ile sınav kâğıtlarının incelenmesi sırasında kopya çektiği ya da yardım ettiği belirlenen öğrenciler o sınavlardan sıfır almış sayılır ve haklarında 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği hükümlerine göre işlem yapılır.
+(8) Yurt içindeki diğer yükseköğretim kurumlarında yaz döneminde alınan derslerin notlarının değerlendirilmesi Senato tarafından kabul edilen not dönüşüm tablosuna göre yapılır.
+(9) Engelli öğrencilerin engel durumları göz önünde bulundurularak mevcut mevzuat hükümleri çerçevesinde Fakülte Yönetim Kurulunca özel eğitim-öğretim programı ve sınav yöntemleri uygulanabilir.

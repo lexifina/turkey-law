@@ -1,0 +1,8 @@
+Özel öğrencilik
+MADDE 9 – (1) Başka yükseköğretim kurumunda kayıtlı iken öğrenci değişim programları, sağlık ve benzeri sebeplerle öğrenimlerini Fakültede sürdürmek isteyen öğrenciler, aşağıdaki şartlar çerçevesinde Fakülteye kabul edilirler:
+a) Öğrencinin, kayıtlı olduğu üniversitenin ilgili kurulları özel öğrenci olarak Fakültede öğrenim görmesine ve alacağı ders ve notların kabul edileceğine ilişkin olumlu görüşünü içeren belge ile birlikte her yarıyıl başlangıcından önce Fakülteye başvurması.
+b) Fakültede öğrenim görmek isteyen öğrencinin kabulüne yönelik olarak, Fakültenin olumlu görüş bildirmesi ve Fakülte Yönetim Kurulunun öğrencinin özel öğrencilik talebini kabul etmesi.
+(2) Fakülteye kabul edilen özel öğrenciler, Üniversitede öğrencilik haklarından yararlanamazlar. Bu öğrencilerin aldıkları dersler, kredileri ve başarı durumları her yarıyılda öğrenci işleri daire başkanlığı tarafından kayıtlı oldukları üniversiteye bildirilir.
+(3) Öğrencilik statüleri devam etmek kaydıyla öğrenci değişim programları, sağlık ve benzeri sebeplerle öğrenimine başka yükseköğretim kurumunda devam etmek isteyen öğrenciler; talep etmeleri, ilgili akademik birim yönetim kurulunun uygun görmesi ve özel öğrenci olarak gitmek istediği üniversitenin mevzuatına uygun bir şekilde ilgili kurullarınca kabul edilmeleri hâlinde özel öğrenci olarak diğer üniversitelere gidebilir.
+(4) Değişim programlarından yararlanan özel öğrenciler katkı paylarını kayıtlı oldukları üniversiteye öder. Bu öğrenciler yaz okulundan ders almaları halinde ise yaz okulu ücretini dersi aldıkları üniversiteye öder.
+(5) Özel öğrencilikle ilgili esaslar Senato tarafından belirlenir.

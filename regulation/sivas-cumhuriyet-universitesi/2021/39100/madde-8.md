@@ -1,0 +1,5 @@
+Yatay geçişler ve ders intibakları
+MADDE 8 – (1) Fakülteye kurum içi ve kurumlar arası yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine ve Senato kararlarına göre düzenlenir.
+(2) Yatay geçişlerde katkı payının hesaplanmasında öğrencinin önceki eğitiminde geçen süreler azami sürelerin hesaplanmasına dâhil edilir.
+(3) Kurumlar arası yatay geçiş kontenjanıyla gelen öğrencilerin kayıtları ilan edildikleri sınıflara yapılır. Yatay geçiş isteği kabul edilen öğrencilerin muafiyet ve intibak işlemleri Yatay Geçiş ve Muafiyet Komisyonu tarafından Sivas Cumhuriyet Üniversitesi Muafiyet ve İntibak Yönergesi hükümlerine göre eğitim-öğretim başlamadan önce kesinleştirilir.
+(4) Merkezi yerleştirme puanına göre, lisans ortalamasına göre ve daha önce herhangi bir yükseköğretim programından mezun olarak Fakülteye başvuran öğrencilerin intibak ve muafiyet işlemleri Fakültenin Yatay Geçiş ve Muafiyet Komisyonu ve Fakülte Yönetim Kurulu tarafından belirlenir.

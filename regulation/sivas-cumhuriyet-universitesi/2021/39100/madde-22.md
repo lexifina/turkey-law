@@ -1,0 +1,5 @@
+Kayıt dondurma
+MADDE 22 – (1) Kayıt dondurmak için yapılacak başvurular eğitim-öğretim yarıyılı başlamadan önce yapılır. Sağlık nedenine dayanan kayıt dondurma istekleri bu sürenin dışındadır. Öğrencinin kayıt dondurma isteği bir yarıyıldan az olamaz. Ancak kayıt dondurma üst üste iki defadan fazla olamaz. Sağlıkla ilgili nedenler hariç, haklı ve YÖK tarafından belirlenen geçerli nedenler çerçevesinde, belgelendirilmek ve Fakülte Yönetim Kurulu kararıyla lisans eğitimi boyunca dört yarıyıl/iki yıl süre ile kayıt dondurulabilir.
+(2) Ciddi ruhsal bozukluklar nedeniyle tüm öğrenim süresi içinde en fazla iki yıl süreyle kayıt dondurulabilir. Bu süreyi aşan öğrencilerden yeniden sağlık raporu istenmek ve incelenmek suretiyle, kayıt dondurma işleminin devam edip etmeyeceğine Fakülte Yönetim Kurulu karar verir.
+(3) Öğrencinin tutuklu veya hükümlü olması durumunda, müracaat etmesi hâlinde Fakülte Yönetim Kurulu kararı ile bu durumun sona ereceği tarihe kadar kaydı dondurulur.
+(4) Öğrenci, kayıt dondurduğu yarıyılda/yılda öğrenimine devam edemez ve sınavlara giremez. Kayıt donduran öğrencinin azami öğrenim süresi kayıt dondurma süresi kadar uzatılır.

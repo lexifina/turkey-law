@@ -1,0 +1,2 @@
+Ulusal ve Uluslararası Öğrenci Değişim Programları
+MADDE 20 – (1) Üniversite ile yurt içi ve yurt dışı bir yükseköğretim kurumu arasında yapılan anlaşma uyarınca öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl yurt içi veya yurt dışındaki üniversitelere gönderilebilirler. Değişim programları, ikili anlaşmalar ve YÖK tarafından belirlenen usul ve esaslar doğrultusunda uygulanır.

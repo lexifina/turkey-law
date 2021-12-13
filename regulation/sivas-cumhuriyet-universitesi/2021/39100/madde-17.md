@@ -1,0 +1,2 @@
+Üst yarıyıldan ders alma
+MADDE 17 – (1) Önceki yarıyıllardan başarısız dersi olmayan ve ağırlıklı genel not ortalaması 3,40’ın üstünde olan öğrenciler, danışmanının olumlu yazılı görüşü ve ilgili kurulların onayı ile üst yarıyıllardan veya varsa yaz okulundan ders alabilirler. Bu durumdaki öğrenciler, haftalık ders programının uygunluğuna göre bir üst yarıyıldan 36 saati aşmamak kaydıyla en fazla 2 ders alabilir. Birinci ve dördüncü sınıf öğrencileri üst yarıyıldan ders alamaz.

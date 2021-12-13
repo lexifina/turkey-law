@@ -1,0 +1,3 @@
+Eğitim-öğretim faaliyetlerinin düzeninden sorumlu fakülte komisyonları
+MADDE 5 – (1) Eczacılık Fakültesi bünyesinde yürütülen teorik ve uygulamalı dersler, stajlar, araştırma projesi dersleri, öğrencilerin muafiyet ve intibak işlemleri, sosyal ve kültürel etkinlikler, program akreditasyon ve stratejik plan süreçleri, atık yönetim ve risk değerlendirme, öğrenci değişim programları gibi alt faaliyetlerin tamamı kurumsal yapıya uygun bir komisyon veya koordinatörlük tarafından yürütülür.
+(2) Fakülte komisyonları ve koordinatörlükleri Dekanlık tarafından yönlendirilen konularda veya kendi olağan gündemleri ile toplanırlar ve aldıkları karar ve önerileri komisyon tutanakları halinde düzenli olarak Dekanlığa iletirler.

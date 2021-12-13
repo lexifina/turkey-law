@@ -1,0 +1,5 @@
+Tek ders sınavı
+MADDE 31 – (1) Tek ders sınavı, mezuniyet aşamasına gelmiş ve bir dersten başarısız olan öğrencilere, her yarıyılın sonunda dersin açıldığı döneme bakılmaksızın, derse kaydını yaptırmak (daha önceden bu dersi almak) ve dersin devamını almış olmak kaydıyla tek ders sınav hakkı verilir. Yaz okulu sonunda veya yaz döneminde staj/stajlarını başarıyla tamamlayan mezuniyetine tek dersi kalan öğrencilere de Eylül ayında tek ders sınav hakkı verilir. Bu sınavın değerlendirilmesinde ara sınav notu hesaba katılmaz. Bu sınavda asgari geçer not 100 üzerinden 60 puandır. Diğer yükseköğretim kurumlarından alınan yaz okulu başarı notlarında bu şart aranmaz.
+(2) Tek ders sınav hakkını kullanmak isteyen öğrenciler, bütünleme sınav sonuçlarının ilanından sonraki üç işgünü içinde dilekçelerini dekanlığa vererek bu haktan yararlanırlar.
+(3) Bu sınavdan alınan puan, ilgili ders için yarıyıl/yıl sonu sınav puanı olarak değerlendirilir.
+(4) Başarı notu 60 veya üzeri olan notların harf karşılığı Senato tarafından belirlenen not dönüşüm tablosuna göre yapılır.
