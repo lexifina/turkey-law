@@ -1,0 +1,6 @@
+Eğitim-öğretim programı
+MADDE 15 – (1) Eğitim-öğretim programı, Fakülte Kurulunun kararı ve Senatonun onayı ile yürürlüğe girer.
+(2) Eğitim-öğretim programı, aşağıda yer alan program bilgi paketi ve ders bilgi paketinden oluşur:
+a) Program bilgi paketi; program hakkında genel bilgi (diploma programına ait genel hükümler), kazanılan derece, öğrenim düzeyi, kayıt kabul koşulları, programın amacı, programda okutulacak derslerin yarıyıllara göre listesi, yarıyıl/yıl kodu, kredisi, saat sayıları, seçmeli ve zorunlu olma durumu, program yeterlilikleri, mezunların mesleki profili, eğitim-öğretim programının yapısı, sınavlar, değerlendirme ve not sistemi, mezuniyet koşulları, eğitim türü, program sorumlusu ve benzeri konulara ilişkin bilgileri içerir.
+b) Ders bilgi paketi; dersin ön koşulu, dili, türü, verilme şekli, öğrenme ve öğretme teknikleri, sorumluları, amacı, öğrenme çıktıları, içeriği, kaynaklar, haftalara göre işlenecek konular, değerlendirme sistemi, AKTS tablosu ve dersin program yeterliliklerine katkısını belirten tabloları içerir.
+(3) AKTS’ye göre diş hekimliği eğitim-öğretim programı 225 AKTS zorunlu, ortak zorunlu ve 75 AKTS seçmeli ders olmak üzere toplam 300 AKTS olarak hesaplanır. Bir dersin AKTS kredisinin nasıl hesaplanacağına ilişkin esaslar Senato tarafından belirlenir.

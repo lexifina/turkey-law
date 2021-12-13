@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 40 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-12-13",
+      "13.12.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 40 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31688",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-12-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Hacettepe Üniversitesi",
+  "issuer_slug": "hacettepe-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/hacettepe-universitesi/2021/39098",
+  "published": "2021-12-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39098&MevzuatTertip=5",
+  "source_bytes": 165370,
+  "source_id": "8.5.39098",
+  "source_sha256": "58e4bb78a093002bbe4951e36bd6a3eab69d72cff656885677aad7847c2e0e96",
+  "text_status": "as-enacted",
+  "title": "HACETTEPE ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 199,
+  "word_count": 5209
+}

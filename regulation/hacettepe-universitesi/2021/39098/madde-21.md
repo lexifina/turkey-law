@@ -1,0 +1,4 @@
+Klinik dersler
+MADDE 21 – (1) Fakültede dördüncü ve beşinci sınıflar, klinik ders yıllarıdır. Klinik dersler uygulamalı ders şeklinde yapılır ve klinik dersler için ara sınav ve genel sınav uygulanır. Sınavlar klinik uygulama şeklinde ve/veya yazılı/sözlü olarak da yapılabilir.
+(2) Klinik derse devam eden ancak genel sınavda başarılı olamayan veya bölüm/anabilim dalları tarafından belirlenen klinik iş ya da işlem sayısını tamamlayamadığı için genel sınava giremeyen, ancak eksik iş ya da işlemlerini telafi süresinde tamamlayan dördüncü sınıf öğrencileri bütünleme sınavına alınır. Aynı durumdaki beşinci sınıf öğrencilerine bütünleme sınav hakkı tanınmaz.
+(3) Fakültede teorik ve klinik/pratik bütünlük bulunduğundan ERASMUS ve değişim programları hariç Fakülte dışında herhangi bir kurumda teorik, klinik, pratik, alan ve benzeri derslerin yapılması ve herhangi bir kurumdan Fakülteye öğrenci başvurusu kabul edilmez.

@@ -1,0 +1,7 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim-Öğretim Programının Yürütülüş Esasları
+Klinik ders ve pratik ders uygulama ve telafi
+MADDE 20 – (1) Klinik ders ve pratik ders uygulamalarında, öğrenci eğitim-öğretim yılı içinde belirli sayıda klinik ders ve pratik ders çalışmasını verilen sürede tamamlayarak teslim etmek zorundadır. Klinik ve pratik ders uygulamalarının içeriği, sayısı ve tamamlanması gereken asgari iş ya da işlem sayısı ilgili bölüm/anabilim dalı tarafından belirlenir ve eğitim-öğretim yılı başında veya klinik ve pratik ders uygulamasının başında öğrencilere duyurulur. Bir dersin eğitim-öğretim yılı içinde tamamlanması zorunlu olan klinik ders iş ya da işlem sayısının asgari oranı, o ders için öngörülen klinik ders iş ya da işlem sayısının %70’inden fazla olamaz.
+(2) Klinik ders ve pratik ders uygulamalarında tamamlanması gereken iş ya da işlem sayısı asgari oranını tamamlayan öğrenciye eksik kalan iş ya da işlemleri tamamlaması için telafi süresi verilir.
+(3) Telafi süresi, klinik ders ve pratik ders çalışmasının sonunda, eğitim-öğretim yılı sonunda ya da normal süre ile birleşik olarak verilir. Telafi süresinin ne şekilde verileceği ilgili bölüm/anabilim dalınca belirlenerek eğitim-öğretim yılı başında veya klinik ders ve pratik ders başında öğrencilere duyurulur ve Dekanlığa resmi yazı ile bildirilir.
+(4) Klinik ders ve pratik ders uygulamalarında tamamlanması gereken iş ya da işlemleri verilen telafi süresinde de tamamlayamayan öğrenci o dersten başarısız sayılır.
