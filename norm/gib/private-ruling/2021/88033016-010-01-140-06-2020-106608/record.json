@@ -1,0 +1,19 @@
+{
+  "checked_on": "2026-11-15",
+  "images": {
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force_basis": "Official GIB ozelgeTarih: 2021-12-14T00:00:00; record issue date, no separate commencement rule stated.",
+  "kind": "private-ruling",
+  "official_date": "2021-12-14",
+  "official_number": "88033016-010.01[140-06-2020]-106608",
+  "personal_data_screen": "no national-identifier marker found by automated screen",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32047",
+  "source_id": "ozelge:32047",
+  "source_row_sha256": "2863d559fe4b85960371ddd7947c8ecdb42f15ba04d996820917ed4318ae2d41",
+  "title": "Bina inşaat harcı üzerinden KDV hesaplanıp hesaplanmayacağı hk.",
+  "version_label": "as-enacted",
+  "word_count": 597
+}
