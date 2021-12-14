@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "837",
+  "decision_date": "2021-12-14",
+  "source_id": 34799,
+  "chamber": "6",
+  "ilam_number": "11",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34799/",
+  "source_sha256": "8c65d5f513c64de58db06d5edc6f0c638cca3512a10953f6f75ef60af3494d28",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
