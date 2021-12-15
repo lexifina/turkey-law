@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50580",
+  "decision_date": "2021-12-15",
+  "source_id": 25618,
+  "chamber": "7",
+  "file_number": "49120",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25618/",
+  "source_sha256": "e211e7a9c26075ff2bea06b0ecc4380f48fb7712cc97603a556709addef0b306",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
