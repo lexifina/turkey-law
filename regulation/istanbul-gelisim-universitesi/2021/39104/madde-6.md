@@ -1,0 +1,7 @@
+Merkezin faaliyet alanları
+MADDE 6 – (1) Merkezin faaliyet alanları şunlardır:
+a) Merkezin amaçları doğrultusunda, Üniversitenin ilgili akademik ve idari birimleri ile işbirliği içinde öğrenme ve öğretimin güçlendirilmesine yönelik eğitim programları, araştırma çalışmaları ve değerlendirme faaliyetleri, kamu ve özel kuruluşlara yönelik ise ilgili mevzuat hükümleri çerçevesinde eğitim programı ve sertifika çalışmaları yürütmek.
+b) Üniversitede gerekli olan öğrenme becerilerini geliştirmek ve öğrenme başarısını artırmak ve ön lisans, lisans ve lisansüstü öğrencilerinin akademik gelişimlerini desteklemek amacıyla, onlara akademik özelliklerini tanıma, akademik hedeflerine ulaşma gibi konularda yardımcı olmak.
+c) Öğrenim becerilerini geliştirmek isteyen tam ve yarı zamanlı akademik personele destek olmak, bilgi vermek ve rehberlik etmek amacıyla; akademik personele öğretimi zenginleştirmeye yönelik öğretim modeli, strateji, yöntem ve tekniklere ilişkin eğitim programlarına ek olarak etkili iletişim, sınıf yönetimi, sunum teknikleri gibi konularda seminer ve ilgili mevzuat hükümleri çerçevesinde sertifikalı programlar düzenlemek.
+ç) Ulusal ve uluslararası nitelikte konferans, sempozyum, seminer ve benzeri faaliyetlerde bulunmak ve uzaktan eğitim aracılığı ile ilgili eğitim programlarını gerçekleştirmek.
+d) Toplumsal bağlamda dezavantajlı grupların eğitim ihtiyaçlarını kurumsal sosyal sorumluluk projeleri kapsamında ücretsiz olarak desteklemek.
