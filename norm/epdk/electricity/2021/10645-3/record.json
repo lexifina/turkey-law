@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10645-3",
+  "decision_date": "2021-12-16",
+  "title": "Yenilenebilir Enerjı Kaynak Garanti Sistemi Ve Organize Yek-G Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedel Ve Komisyonlar İle Uygulamaya İlişkin Yöntem Bildirimi",
+  "resmi_gazete_date": "2021-12-18",
+  "resmi_gazete_number": "31693",
+  "categories": [
+    "EPİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S+2UK3UBR5k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=S+2UK3UBR5k="
+  ],
+  "source_sha256": "ad39b85477f87d76ab95054b4767d68d0ea4178412a9f5a465f59067a531353a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1521,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2021-12-16",
+  "law_text_complete": false
+}
