@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35691",
+  "decision_date": "2021-12-16",
+  "source_id": 35314,
+  "chamber": "2",
+  "ilam_number": "161",
+  "item_number": 10,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35314/",
+  "source_sha256": "99505d849125bba90de66a8c46a6d339f3542e1707185f22ecbdfe345fd651b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
