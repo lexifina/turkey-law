@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-12-16",
+  "issue": "31691",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Yapı İşleri İnşaat, Makine ve Elektrik Tesisatı Genel Teknik Şartnamelerine Dair Tebliğ (Tebliğ No: YFK-2007/1)’de Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211216-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211216.htm",
+  "index_sha256": "bd01127cba26cefbf38a1f39880701bd025f1c84aea5e1d0a6131d53ee43b33d",
+  "index_header": "16 Aralık 2021 ... 31691 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211216.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
