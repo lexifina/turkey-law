@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10623",
+  "decision_date": "2021-12-16",
+  "title": "2022 yılı için uygulanacak serbest tüketici limiti",
+  "resmi_gazete_date": "2021-12-22",
+  "resmi_gazete_number": "31697",
+  "categories": [
+    "Serbest Tüketici"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=epRjZnydQP0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=epRjZnydQP0="
+  ],
+  "source_sha256": "707152668c4ecf7eddbc4762460a521cf1f65213cb545c6d63221b9e834c6422",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33857,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-16",
+  "law_text_complete": true
+}
