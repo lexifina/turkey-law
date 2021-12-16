@@ -1,0 +1,5 @@
+…, … ve … iş ortaklığı taahhüdündeki “…” işinde; yeni birim fiyat düzenlenen …, …ve … poz numaralı iş kalemleri için aşırı düşük teklif sorgu açıklaması kapsamında idareye sunulan teklif birim fiyat analizlerinde, “Yüklenici Karı ve Genel Giderler Karşılığı” %13 olarak belirlenmişken, bu oranın bahse konu yeni fiyat analizlerinde % 16,6789 olarak alındığı görülmüşse de, sorumluların savunmalarından kamu zararının tahsil edildiği anlaşılmaktadır.
+
+Bu itibarla; “…” işinde; yeni birim fiyat düzenlenen …, … ve … poz numaralı iş kalemleri için, “Yüklenici Karı ve Genel Giderler Karşılığı” nın aşırı düşük teklif sorgu açıklaması kapsamında, idareye sunulan teklif birim fiyat analizlerinde belirtilen orandan yüksek bir oranda belirlenmesi sonucu oluşan … TL kamu zararının, … tarih ve … sayılı muhasebe işlem fişi ile tahsil edildiği anlaşıldığından, ilişilecek bir husus kalmadığına;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
