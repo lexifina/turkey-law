@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10849",
+  "decision_date": "2021-12-16",
+  "source_id": 34903,
+  "chamber": "1",
+  "ilam_number": "215",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34903/",
+  "source_sha256": "29d3112dd8c4558375c9f5d3a18a52720dbd90711a755fc91f597713707da335",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
