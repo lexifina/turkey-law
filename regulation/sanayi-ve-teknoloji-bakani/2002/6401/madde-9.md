@@ -1,0 +1,1 @@
+Madde 9 — Bu Yönetmeliğin uygulanması ile ilgili hususlar ve özellikle ilave işaret konuları, tekrar incelenmeli ve gerekirse, Ölçü ve Ölçü Aletlerinin Metrolojik Kontrolları İçin Genel Esaslara Dair Yönetmelik (71/316/AT)’de belirtilen işleme göre uygun tedbirler kabul edilmelidir.

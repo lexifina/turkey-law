@@ -1,0 +1,1 @@
+Madde 8 — 15/5/1983 tarihli ISO 2955 "Bilgi işlemi- SI’yı temsil eden ve sınırlı karakter setleri olan sistemlerde kullanılan diğer birimler" Uluslararası Standardı, Paragraf 1 kapsamında bulunan alanlarda da uygulanmalıdır.

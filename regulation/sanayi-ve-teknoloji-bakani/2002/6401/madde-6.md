@@ -1,0 +1,4 @@
+Madde 6 — Bu Yönetmeliğin amacı doğrultusunda ‘İlave İşaretleme’, bu bölümde yer alan bir birim cinsinden ifade edilen miktar gösterilişi ile birlikte bulunan Ek Bölüm I kapsamında olmayan ölçü birimleri cinsinden ifade edilen miktarların bir veya birden fazla gösterilişlerini ifade eder.
+(Değişik ikinci fıkra:R.G-17/1/2010-27465) İlave işaretler kullanılabilir.
+Bununla birlikte, Bakanlık, ölçü aletlerinin tekli yasal ölçü biriminde miktar göstergelerinin bulunmasını isteyebilir.
+Ek Bölüm 1’de listelenen ölçü birimleri cinsinden belirtilen göstergeler esas olmalıdır. Özellikle Ek Bölüm 1’de listelenmeyen ölçü birimleri cinsinden belirtilen göstergeler, Ek Bölüm 1’de listelenen birimlerdeki gösterime karşılık gelen değerlerden büyük olmamak kaydıyla gösterge karakterleri cinsinden belirtilmelidir.

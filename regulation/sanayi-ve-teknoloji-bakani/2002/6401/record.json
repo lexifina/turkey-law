@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.6401",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSLARARASI BİRİMLER SİSTEMİNE DAİR YÖNETMELİK",
+  "number": "6401",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2002/6401",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=6401&MevzuatTertip=5",
+  "source_sha256": "e05832dc167104bc9182476d05989877ba86b47d8fddc49074d059f1009d13ac",
+  "source_bytes": 27405,
+  "published": "2002-06-21",
+  "gazette": "24792",
+  "in_force": "2021-12-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-16",
+      "RG-16/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-16",
+      "16/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-01-17",
+      "R.G-17/1/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-01-17",
+      "17/1/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/6/2003 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 534,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.6401-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
