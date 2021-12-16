@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1262",
+  "source_id": 7287,
+  "date": "2021-12-16",
+  "title": "“Bir sigorta şirketi tarafından ilgili kişinin banka verilerinin işlenmesi hakkında” Kişisel Verileri Koruma Kurulunun 16/12/2021 tarihli ve 2021/1262 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7287/2021-1262",
+  "source_sha256": "f63d355fd7b1226480064b4a3abd88229961de29f5bfe98569f78527900d933a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
