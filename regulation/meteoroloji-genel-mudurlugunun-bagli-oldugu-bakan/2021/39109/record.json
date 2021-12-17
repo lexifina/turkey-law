@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39109",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "METEOROLOJİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39109",
+  "issuer": "Meteoroloji Genel Müdürlüğünün bağlı olduğu Bakan",
+  "issuer_slug": "meteoroloji-genel-mudurlugunun-bagli-oldugu-bakan",
+  "path": "regulation/meteoroloji-genel-mudurlugunun-bagli-oldugu-bakan/2021/39109",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39109&MevzuatTertip=5",
+  "source_sha256": "6987009c4cf5d76db466f4e520258ca869e22e7efb2f3db98c1e2470be5cea74",
+  "source_bytes": 16347,
+  "published": "2021-12-17",
+  "gazette": "31692",
+  "in_force": "2021-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 190,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39109-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
