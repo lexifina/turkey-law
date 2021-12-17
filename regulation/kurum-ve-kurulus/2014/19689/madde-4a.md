@@ -1,0 +1,12 @@
+YYS-I ve YYS-II statüleri
+MADDE 4/A – (Ek:RG-21/2/2020-31046 Mükerrer)(10)
+(1) Yetkilendirilmiş yükümlü statüsü sahiplerine, aşağıdaki koşulları sağlamak şartıyla, yetkilendirilmiş yükümlü statüsüne ek olarak YYS-I statüsü verilir:
+a) İmalatçı olmak.
+b) YYS-I statüsü başvurusunun yapıldığı yıldan bir önceki takvim yılı veya YYS-I statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde asgari beş milyon ABD doları tutarında ihracat yapmış olmak.
+c) YYS-I statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde ortalama olarak en az elli işçi istihdam ediyor olmak veya YYS-I statüsü başvurusunun yapıldığı yıldan bir önceki takvim yılı veya YYS-I statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde asgari on milyon ABD doları tutarında ihracat yapmış olmak.
+(2) Yetkilendirilmiş yükümlü statüsü sahiplerine, aşağıdaki koşulları sağlamak şartıyla, yetkilendirilmiş yükümlü statüsüne ek olarak YYS-II statüsü verilir:
+a) İmalatçı olmak.
+b) YYS-II statüsü başvurusunun yapıldığı yıldan bir önceki takvim yılı veya YYS-II statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde asgari bir milyon ABD doları tutarında ihracat yapmış olmak.
+c) YYS-II statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde ortalama olarak en az otuz işçi istihdam ediyor olmak veya YYS-II statüsü başvurusunun yapıldığı yıldan bir önceki takvim yılı veya YYS-II statüsü başvurusunun kayda alındığı ayın ilk gününden geriye dönük bir yıl içerisinde asgari beş milyon ABD doları tutarında ihracat yapmış olmak.
+(3) Birinci fıkranın (a) bendinde belirtilen koşulun tevsikine ilişkin 10 uncu maddenin yirmi üçüncü fıkrasının (a) bendinde sayılan belgelerden birinin 11 inci veya 18 inci madde uyarınca yapılacak başvuru sırasında ibrazı gerekir.
+(4) Birinci fıkranın (b) bendi ile ikinci fıkranın (b) bendinin uygulanmasında, dış ticaret sermaye şirketleri, sektörel dış ticaret şirketleri ve/veya grup ihracatçısı aracılığıyla ihracat yapılması durumunda, bağlı bulunulan ihracatçı birliği kayıtlarına göre Türkiye İhracatçılar Meclisi veya ihracatçı birliklerince onaylı belgede kayıtlı ihracat tutarlarından dış ticaret sermaye şirketleri, sektörel dış ticaret şirketleri ve/veya grup ihracatçısı aracılığıyla yapıldığı tespit edilen ihracat tutarları da grup ithalatçısı/grup imalatçısının ihracatı olarak kabul edilir ve bu firmaların başvurusunda dikkate alınır.

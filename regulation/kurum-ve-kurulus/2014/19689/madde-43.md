@@ -1,0 +1,6 @@
+Götürü teminat yetkisinin geri alınması
+MADDE 43 – (1) Sertifika sahibinin 32 nci maddenin üçüncü fıkrası kapsamındaki götürü teminat uygulamasından yararlanmaktan vazgeçmesi durumunda götürü teminat yetkisi geri alınır. (Mülga ibare:RG-13/10/2017-30209)(...)
+(2) Götürü teminat sisteminden yararlanma hakkı geri alınan kişinin, götürü teminat kapsamındaki tüm gümrük vergileri tutarının (Mülga ibare:RG-21/2/2020-31046 Mükerrer) (…) teminata bağlanmasının ardından, götürü teminat sisteminden yararlanmak için verilen teminat iade edilir.
+(3) Birinci fıkra uyarınca geri alınan götürü teminat sisteminden yararlanma hakkının, sertifika kapsamında yeniden istenilmesi halinde 18 inci maddenin beşinci fıkrası uyarınca başvuruda bulunulması gerekir.
+(4) (Mülga:RG-13/10/2017-30209)
+(5) 123 üncü maddenin dördüncü fıkrasının uygulandığı ve birinci fıkra uyarınca 32 nci maddenin üçüncü fıkrası kapsamındaki götürü teminat uygulamasından yararlanmaktan vazgeçildiği durumda, teminat 123 üncü madde uyarınca yeni bir teminat ibraz edilinceye kadar iade edilmez. Yalnızca 32 nci maddenin üçüncü fıkrası kapsamındaki götürü teminat yetkisinin geri alınması durumunda izinli alıcı yetkisi veya ithalatta yerinde gümrükleme izni kapsamında yapılan işlemlere ilişkin olarak 98 inci veya 123 üncü madde uyarınca teminata bağlanan gümrük vergileri için ikinci fıkra hükmü uygulanmaz.

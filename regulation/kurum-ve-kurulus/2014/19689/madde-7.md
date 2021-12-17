@@ -1,0 +1,4 @@
+Yetkilendirilmiş yükümlü sertifikası başvurusu için aranacak mali yeterlilik koşulu
+MADDE 7 – (1) Başvuru sahibinin mali yapısının başvuru yılından önceki üç yıl esas alınmak suretiyle, yeminli mali müşavir tarafından incelenerek, olumlu görüşle rapora bağlanmış olması gerekir.
+(2) Birinci fıkranın uygulanmasında Ocak ilâ Mart ayları içerisinde yapılacak başvurularda bir önceki yıla ilişkin mali tabloların tamamlanamamış olması halinde, yeminli mali müşavir tarafından yapılacak incelemede başvuru yılından önceki ikinci, üçüncü ve dördüncü yıl esas alınır.
+(3) Bu maddenin uygulanmasında, mali yeterlilik, başvuru sahibinin iştigal ettiği iş alanının özellikleri de göz önüne alındığında, taahhütlerini karşılamaya yeterli bir mali durumda bulunmasını ve hakkında (Değişik ibare:RG-21/2/2020-31046 Mükerrer) iflas veya konkordato işlemleri başlatılmamış olmasını ifade eder.

@@ -1,0 +1,92 @@
+{
+  "source_id": "7.5.19689",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GÜMRÜK İŞLEMLERİNİN KOLAYLAŞTIRILMASI YÖNETMELİĞİ",
+  "number": "19689",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/19689",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=19689&MevzuatTertip=5",
+  "source_sha256": "6522a7d1a37acb5eb9ae52e65997cea23eed91edc6561156a118d88c65c7aff9",
+  "source_bytes": 782384,
+  "published": "2014-05-21",
+  "gazette": "29006",
+  "in_force": "2021-12-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-17",
+      "RG-17/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-17",
+      "17/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-19",
+      "RG-19/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-19",
+      "19/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-01",
+      "1/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-30",
+      "30/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-03-31",
+      "31/3/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-29",
+      "29/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-21",
+      "RG-21/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-21",
+      "21/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-25",
+      "RG-25/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-25",
+      "25/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 54232,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.19689-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

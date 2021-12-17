@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 – (1) Sertifikanın veriliş tarihinden itibaren altı ay süreyle 18 inci madde uyarınca sertifika kapsamında ihracatta yerinde gümrükleme izni, izinli gönderici yetkisi, izinli alıcı yetkisi veya ithalatta yerinde gümrükleme izni ilave edilmesi ile 59 uncu maddenin ikinci fıkrası, 78 inci maddenin ikinci fıkrası, 99 uncu maddenin ikinci fıkrası ve 124 üncü maddenin ikinci fıkrası uyarınca izin kapsamına tesis ilave edilmesi talepleri reddedilir.
+(2) (Mülga:RG-13/10/2017-30209)

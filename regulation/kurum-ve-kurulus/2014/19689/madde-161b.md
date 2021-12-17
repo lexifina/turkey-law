@@ -1,0 +1,10 @@
+İştigal alanında olmayan eşya
+MADDE 161/B – (Ek:RG-13/10/2017-30209)
+(1) 141 inci maddenin birinci fıkrasının (f) bendi ile 147 nci maddenin birinci fıkrasının (e) bendinde belirtilen iştigal alanında olmayan eşya; sertifika sahibinin ticaret siciline tescil ettirilmiş şirket ana sözleşmesinde belirtilen esas faaliyet konusu itibariyle aşağıdakilerin haricindeki eşyayı kapsamaktadır:
+(a) Bir hizmetin yerine getirilmesi veya bir eşyanın üretilmesinde kullanılan her türlü girdiyi,
+(b) Bir hizmetin yerine getirilmesi veya bir eşyanın üretilmesinde kullanılan her türlü araç, teçhizat ve donanım ile bunların yedek parçalarını ve sarf malzemelerini,
+(c) Yönetim ve organizasyon yapısı içerisindeki birimlerin faaliyetlerinin yürütülmesinde kullanılacak olan her türlü araç, teçhizat ve donanım ile bunların yedek parçalarını ve sarf malzemelerini,
+(ç) Faaliyet konusu kapsamında gerçekleştirilen satış ve pazarlama işlemlerinde ve yatırım ile Ar-Ge faaliyetlerinde kullanılacak eşyayı,
+(d) Faaliyet konusunda belirtilmiş olması halinde, faaliyet konusu kapsamında yurt içi veya yurt dışı satışı gerçekleştirilecek eşyayı.
+(2) Gümrük idaresince eşyanın teslim edilmesinden sonra yapılacak kontrol neticesinde ithalatta yerinde gümrükleme veya yeşil hat kapsamında işlem gören eşyanın firmanın iştigal alanında olmadığı şüphesinin doğması halinde, eşya sahibince gerekli bilgi ve belgelerin ibraz edilerek söz konusu eşyanın birinci fıkra kapsamına girdiğinin ispat edilmesi gerekir, aksi takdirde 141 ve/veya 147 nci maddenin ilgili hükümleri uyarınca işlem yapılır.
+(3) (Ek:RG-21/2/2020-31046 Mükerrer) Grup ithalatçıları ile grup ihracatçıları tarafından yapılan işlemlere yönelik olarak 121 inci maddenin beşinci fıkrasının (c) bendinin, 126 ncı maddenin birinci fıkrasının (d) bendinin, 141 inci maddenin birinci fıkrasının (f) bendinin ve 147 nci maddenin birinci fıkrasının (e) bendinin uygulanmasında, bu işlemlerin grup imalatçıları adına gerçekleştiriliyor olması şartıyla, işleme konu eşyanın adına işlem yapılan grup imalatçısının iştigal alanında bulunup bulunmadığı da dikkate alınır.

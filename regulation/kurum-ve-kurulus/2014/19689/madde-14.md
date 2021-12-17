@@ -1,0 +1,18 @@
+Yetkilendirilmiş yükümlü statüsü başvurusunun reddi
+MADDE 14 – (1) Aşağıda belirtilen durumlardan herhangi birinde başvuru ön inceleme yapılmaksızın reddedilir ve başvuru dosyası başvurunun yapıldığı bölge müdürlüğü tarafından derhal iade edilir.
+a) Başvurunun Ek-20’de yer alan tabloya göre belirlenecek yetkili bölge müdürlüğüne yapılmamış olması.
+b) Başvuru formunun 10 uncu maddenin dördüncü fıkrasına uygun olarak imzalanmamış olması.
+c) Başvuru dosyasında 10 uncu maddenin birinci fıkrasının (e) bendinde belirtilen belgelerden herhangi birinin eksik olması.
+ç) 156 ncı maddenin birinci fıkrası uyarınca sertifikası daha önce iptal edilmiş kişilerce yeni sertifika başvurusunun iptal işlemini müteakip üç yıl içerisinde yapılmış olması.
+d) Sertifika başvurusunun onaylanmış kişi statü belgesinin veya eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenlenmesine ilişkin Onaylanmış İhracatçı yetkisinin 162 nci maddenin altıncı fıkrasında belirtilen şekilde iptalini müteakip üç yıl içerisinde yapılmış olması.
+e) 4 üncü maddenin ikinci ve üçüncü fıkraları saklı kalmak kaydıyla, başvuru sahibinin başvuru tarihi itibariyle üç yıldan daha az süredir fiilen faaliyette bulunuyor olması.
+(2) 12 nci maddenin üçüncü fıkrası uyarınca bildirilen eksik bilgi ve belgeleri aynı maddenin (Değişik ibare:RG-21/2/2020-31046 Mükerrer) beşinci fıkrasında belirtilen süre içerisinde tamamlamayan (Ek ibare:RG-21/2/2020-31046 Mükerrer) veya 12 nci maddenin dördüncü ve on altıncı fıkraları ile 13 üncü maddenin on birinci fıkrasında belirtilen sürelerde ISO 9001 ve 27001 belgelerini ibraz etmeyen kişilerin başvuruları beş iş günü içerisinde reddedilerek başvuru dosyası başvurunun yapıldığı bölge müdürlüğü tarafından iade edilir.
+(3) Yapılan ön inceleme neticesinde, başvuru sahipleri tarafından;
+a) 6 ncı maddenin birinci fıkrasının (a) ilâ (h) bentlerinde,
+b) 8 inci maddede,
+sayılanlar dışındaki koşullardan herhangi birinin sağlanmadığının tespit edilmesi halinde, ön incelemenin bitimini müteakip beş iş günü içerisinde başvurunun reddedildiği başvuru sahibine bildirilerek başvuru dosyası başvurunun yapıldığı bölge müdürlüğü tarafından iade edilir.
+(4) Yapılan ön inceleme sırasında, 12 nci maddenin (Değişik ibare:RG-21/2/2020-31046 Mükerrer) on ikinci fıkrası uyarınca ibrazı istenilen soru formunun süresi içerisinde ibraz edilmemesi veya süresi içerisinde ibraz edilmiş ancak aynı madde uyarınca bildirilen eksik veya yetersiz bulunan hususların giderilmediğinin Genel Müdürlük tarafından tespit edilmiş olması halinde, aynı maddenin (Değişik ibare:RG-21/2/2020-31046 Mükerrer) on ikinci fıkrası veya (Değişik ibare:RG-21/2/2020-31046 Mükerrer) on üçüncü fıkrasının (b) bendinde belirtilen bildirimi müteakip başvurunun yapıldığı bölge müdürlüğü tarafından beş iş günü içerisinde başvurunun reddedildiği başvuru sahibine bildirilerek başvuru dosyası iade edilir.
+(5) Yapılan yerinde incelemede, 6 ncı maddenin birinci fıkrasının (a) ilâ (h) bentleri ile 8 inci maddede sayılan koşullardan herhangi birinin sağlanmadığının tespit edilmesi halinde, buna ilişkin 13 üncü maddenin üçüncü fıkrasının (a) bendinde belirtilen bildirimi müteakip başvurunun yapıldığı bölge müdürlüğü tarafından beş iş günü içerisinde başvurunun reddedildiği başvuru sahibine bildirilerek başvuru dosyası iade edilir.
+(6) Bir ilâ beşinci fıkralar uyarınca başvurusu reddedilen kişilerin bundan sonra yapacakları başvuruları yeni bir başvuru gibi değerlendirilir.
+(7) (Mülga:RG-13/10/2017-30209)
+(8) Bu madde uyarınca ret işlemi veya 15 inci madde uyarınca sertifika düzenleme işlemi tamamlanmadan, başvuru sahibince bölge müdürlüğüne yazılı olarak başvurularak sertifika başvurusunun geri çekilmesi halinde, talep doğrultusunda başvuru dosyası iade edilir.

@@ -1,0 +1,2 @@
+Basitleştirilmiş usulde düzenlenecek A.TR Dolaşım Belgelerinin sonradan düzenlenmesi
+MADDE 48 – (1) Basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izni verilmiş kişilerce, Kararın 12 ilâ 16 ncı maddeleri ile 22 nci maddesi çerçevesinde, eşyanın ihracından sonra da A.TR Dolaşım Belgesi düzenlenebilir. Bu kapsamda düzenlenen Dolaşım Belgelerinin asıl nüshası dışında kalan diğer iki nüshasından biri ihracat beyannamesine eklenir.

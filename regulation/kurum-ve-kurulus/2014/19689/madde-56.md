@@ -1,0 +1,3 @@
+Eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleyebilme izninin geri alınması
+MADDE 56 – (1) Sertifika sahibinin 18 inci madde kapsamında basitleştirilmiş işlem kapsamında eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleyebilme izninden yararlanmaktan vazgeçmesi durumunda basitleştirilmiş işlem kapsamında eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleyebilme izni geri alınır.
+(2) Birinci fıkra uyarınca geri alınan basitleştirilmiş işlem kapsamında eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleyebilme izninin sertifika kapsamında yeniden istenilmesi halinde 18 inci maddenin birinci fıkrası uyarınca başvuruda bulunulması gerekir.

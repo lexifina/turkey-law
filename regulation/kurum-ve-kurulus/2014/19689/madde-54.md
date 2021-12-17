@@ -1,0 +1,4 @@
+Eşyanın kıymetine bakılmaksızın fatura beyanı veya EUR.MED fatura beyanı düzenleyebilme izninin değiştirilmesi
+MADDE 54 – (1) İzin kapsamındaki eşyanın başka bir eşya ile değiştirilmek istenmesi, izin kapsamındaki eşyaya ilaveten yeni bir eşyanın daha izin kapsamına alınmak istenmesi, ihracatın yapıldığı ülkenin/ülke grubunun değiştirilmek istenmesi ya da ihracatın yapıldığı ülkeye veya ülke grubuna ilaveten başka bir ülke veya ülke grubu eklenmek istenmesi halinde 18 inci maddenin birinci fıkrası doğrultusunda başvuruda bulunulur.
+(2) Yapılan incelemede başvuru sahibinin başvuru konusu eşya için 52 nci maddenin birinci fıkrasında belirtilen koşulu karşıladığının tespit edilmesi halinde izin kapsamı değiştirilir.
+(3) İkinci fıkrada belirtilen değişikliğe istinaden mevcut onaylanmış ihracatçı (EUR) yetki numarası verilir. İzin sahibi kişilerce yeni yetki numarasının veriliş tarihinden itibaren değişiklik kapsamında işlem yapılabilir.

@@ -1,0 +1,2 @@
+Basitleştirilmiş usulde düzenlenecek A.TR Dolaşım Belgelerinin ikinci nüsha olarak düzenlenmesi
+MADDE 49 – (1) Basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izni verilmiş kişilerce düzenlenen A.TR Dolaşım Belgesinin çalınması, kaybedilmesi veya tahrip edilmesi halinde, Kararın 17 ve 22 nci maddeleri çerçevesinde söz konusu belgenin ikinci bir nüshası düzenlenebilir.

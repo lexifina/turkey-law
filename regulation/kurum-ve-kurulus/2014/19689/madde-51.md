@@ -1,0 +1,3 @@
+Basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izninin geri alınması
+MADDE 51 – (1) Sertifika sahibinin 18 inci madde kapsamında basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izninden yararlanmaktan vazgeçmesi durumunda basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izni geri alınır.
+(2) Birinci fıkra uyarınca geri alınan basitleştirilmiş işlem kapsamında A.TR Dolaşım Belgesi düzenleme ve vize etme izninin sertifika kapsamında yeniden istenilmesi halinde 18 inci maddenin birinci fıkrası uyarınca başvuruda bulunulması gerekir.

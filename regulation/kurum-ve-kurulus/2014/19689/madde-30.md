@@ -1,0 +1,2 @@
+Kamu alacağının süresi içinde ödenmemesi
+MADDE 30 – (1) Ekonomik etkili gümrük rejimlerine ilişkin gümrük mevzuatı ve sair mevzuatın ihlali nedeniyle ödenmesi gereken kesinleşmiş gümrük vergileri, faiz ve para cezasının tamamını tebliğ edilen ödeme süresi içerisinde ödemeyen sertifika sahibi hakkında 154 üncü maddenin (Değişik ibare:RG-21/2/2020-31046 Mükerrer) altıncı fıkrası uyarınca işlem yapılmasını teminen sertifikanın düzenlendiği bölge müdürlüğüne derhal bildirimde bulunulur.
