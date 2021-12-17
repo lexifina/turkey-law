@@ -1,0 +1,3 @@
+Görevde yükselme ve unvan değişikliği sınavı sonucu atama
+MADDE 18 – (1) Görevde yükselme veya unvan değişikliği sınavı sonucu ataması yapılan personel, atandıkları yerde en az üç yıl görev yapmak zorundadır. Ancak personelin atandığı yerde göreve başladıktan sonra ortaya çıkacak mazeret durumlarına dayalı olarak yapacağı yer değiştirme talepleri bu Yönetmeliğin ilgili hükümleri çerçevesinde değerlendirilir.
+(2) Görevde yükselme veya unvan değişikliği sınavı sonucunda, aynı unvana atanmaya hak kazanan personel; gerekli diğer şartları taşımaları ve eski görev yerlerinden ayrılmamaları kaydıyla sonuçların açıklandığı tarihten itibaren en geç 30 gün içerisinde karşılıklı becayiş talebinde bulunabilir. Personelin bu yöndeki talepleri Bakanlıkça değerlendirilir.

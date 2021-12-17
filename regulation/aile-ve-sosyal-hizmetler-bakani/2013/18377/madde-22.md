@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Yer Değiştirme Suretiyle Atamaya İlişkin İşlemler
+Duyuru ve başvuru şekli
+MADDE 22 – (1) Bulunduğu bölge veya yerin zorunlu çalışma süresini doldurarak (Değişik ibare:RG-9/7/2013-28702) yer değişikliği talebinde bulunacak personelin atanmak istedikleri yer tercihlerine esas olmak üzere, ihtiyaç gösterilecek yerleri, kadro ve unvanları gösteren listeler, başvuru şekli, süresi, kimlerin yer değiştirme talebinde bulunabileceği ve yer değiştirmeye ilişkin diğer hususlar her yıl Mart ayı sonuna kadar ayrıca tebligata gerek kalmaksızın Bakanlık internet sayfasından duyurulur. Duyuruda belirtilen tarihlere ve usule aykırı olarak yapılan müracaatlar (Mülga ibare:RG-9/7/2013-28702) (…) dikkate alınmaz. Duyuruda belirtilen süreler içerisinde personelin görevli bulunduğu birimlere intikal etmeyen müracaatları ile ilgili itirazlar değerlendirmeye alınmaz.
+(2) İsteğe bağlı yer değiştirme talebinde bulunacak personel, duyuruda ilan edilen yerlerden en az beş, en fazla on tercih yapabilir. Atama sonuçları, Bakanlık internet sayfasında duyurulur.

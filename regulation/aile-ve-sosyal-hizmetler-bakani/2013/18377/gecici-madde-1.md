@@ -1,0 +1,2 @@
+Zorunlu hizmet sürelerinin hesaplanması
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce; Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel Müdürlüğü Personeli Yer Değiştirme Suretiyle Atanma Esaslarına Dair Yönetmeliğe tabi personelden bulundukları bölge için belirlenmiş zorunlu çalışma süresini tamamlamış olanlar, bu Yönetmelikle o bölge için öngörülen zorunlu çalışma süresini tamamlamış sayılır. Zorunlu çalışma süresini tamamlamamış olanlar ise bu Yönetmelikle o bölge için öngörülen yeni zorunlu çalışma sürelerine tabidir.

@@ -1,0 +1,2 @@
+Çocuklarının öğrenim durumu sebebiyle atama
+MADDE 15 – (1) Personelden, merkezi sınavla yerleştirme yapılan orta öğretim kurumlarında öğrenim gören çocuklarının yurt veya yatılı okuma imkanı olmadığını belgelemeleri halinde, kesin kaydını yaptırdığı yıl içerisinde başvuruda bulunmak ve aynı veya alt bölgeler içerisinde olmak kaydı ile atanmak istediği ilde ihtiyaç bulunması ve kadro durumunun uygun olması halinde, okulun bulunduğu il veya dengi bir okulun bulunduğu illerden birine yer değiştirme suretiyle atama döneminde ataması yapılabilir.
