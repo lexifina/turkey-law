@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39106",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (TARİFE-SINIFLANDIRMA KARARLARI) (SERİ NO: 36)",
+  "number": "39106",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/39106",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39106&MevzuatTertip=5",
+  "source_sha256": "b448f8a901064494935510a332911a0ff262de10d7bc8626f9a3366df5015643",
+  "source_bytes": 28644,
+  "published": "2021-12-17",
+  "gazette": "31692",
+  "in_force": "2021-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 399,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39106-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
