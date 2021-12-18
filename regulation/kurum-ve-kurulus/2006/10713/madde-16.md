@@ -1,0 +1,5 @@
+Atama işlemleri
+MADDE 16 – (Başlığı ile birlikte değişik:RG-14/11/2017- 30240)
+(1) Belediyenin internet adresinde, başarı listesine göre sınavı asıl olarak kazandığı belirlenenlerden istenilecek belgeler ile belgelerin son teslim tarihine ilişkin bir duyuru yayımlanır ve atanmaya hak kazananlar, duyuruda belirtilen süre içerisinde, istenilen belgeler ile birlikte atanmak üzere yazılı başvuruda bulunur.
+(2) Belediyece yapılacak belge incelemesinden sonra atanmayı haiz olduğu tespit edilenlerin atamaları yapılır. Ancak atama için öngörülen koşullara uymayan, gerekli belgeleri süresi içinde getirmeyen veya güvenlik soruşturması olumsuz sonuçlanan adayların atamaları yapılmaz.
+(3) Atanmış olsalar dahi atanma şartlarını taşımadığı tespit edilenlerin atamalarının iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlanmaması ya da atanma hakkından vazgeçilmesi sebebiyle boş kalan kadrolara başarı puan sıralamasının ilan edildiği tarihten itibaren altı aylık süreyi aşmamak üzere, yapılacak müteakip sınava ilişkin duyuruya kadar, yedekler arasından başarı sıralamasına göre atama yapılabilir.

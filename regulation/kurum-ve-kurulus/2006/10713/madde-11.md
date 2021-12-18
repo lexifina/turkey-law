@@ -1,0 +1,4 @@
+Personel ve itfaiye amirinin görevleri
+MADDE 11 – (Başlığı ile Birlikte Değişik:RG-18/12/2021-31693)
+(1) İtfaiye teşkilatında görev yapan personel, birim amiri tarafından verilen görevleri yerine getirmekle yükümlüdürler. İtfaiye personeli, verilen görevlerin eksiksiz olarak yapılmasından disiplin ve düzenden, tesis, araç ve gereçlerin temizliği, korunması ve göreve hazır durumda tutulmasından üst amirine karşı sorumludur.
+(2) Birim amiri konumunda olmayan itfaiye amirleri sorumluluk alanındaki, itfaiye hizmetlerinin yürütülmesi için belirlenen iş ve işlemlerin yerine getirilmesi, birim/istasyon düzeni ile müdahale ekibinin sevk ve idaresi, personelin eğitim, fiziki dayanıklılık faaliyetleri ve tertibinin sağlanması, araç gereçlerin korunması ve göreve hazır tutulmasından üst amirine karşı sorumludur.

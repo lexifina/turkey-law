@@ -1,0 +1,9 @@
+Hizmet içi eğitim, kurum ve kuruluşlar ile kişilere verilen eğitimler
+MADDE 31 – (Başlığı ile Birlikte Değişik:RG-18/12/2021-31693)
+(1) İtfaiye personeline; temel itfaiyecilik eğitimi ve hizmet içi eğitim programı EK-8’e göre yıllık teorik ve uygulamalı olarak hazırlanır ve uygulanır.
+(2) Eğitim programında yer alan ders konuları, yürürlükte olan mevzuat ve standartlar çerçevesinde itfaiye teşkilatı personelinin ihtiyacı, teknolojik gelişmeler ve mahallin özellikleri dikkate alınarak hazırlanır.
+(3) İtfaiye teşkilatı personelinin EK-8’e göre belirlenen eğitimleri, Bakanlık, İçişleri Bakanlığı, Türkiye Belediyeler Birliği, yurt içi ve yurt dışında eğitim merkezi bulunan itfaiye teşkilatları veya üniversitelerin ilgili bölümleri, araştırma enstitüleri, bu konuda eğitim veren kurum ve kuruluşlar ile sivil toplum örgütleriyle ve sanayi kuruluşlarıyla iş birliği yapılarak gerçekleştirilir.
+(4) Su üstü ve su altı arama kurtarmada veya köpekli arama kurtarmada görev yapan itfaiye personeline mesleki eğitimleri ile ilgili periyodik olarak teorik ve uygulamalı eğitim programları EK-9’a göre hazırlanır.
+(5) İtfaiye teşkilatları, eğitim ve öğretim kurumlarından, askeri birliklerden, sanayi kuruluşlarından ve organize sanayi bölgelerinden, diğer kişi, kurum ve kuruluşlardan gelen eğitim taleplerini karşılar; iş birliği içinde hazırlanan programlara göre yangın önleme, söndürme teknikleri, acil tahliye, müdahale eğitimleri düzenler.
+(6) İtfaiye teşkilatları; halkı, kurum ve kuruluşları, itfaiye olaylarıyla mücadele ve itfaiye hizmetleri hakkında bilinçlendirmek ve bilgilendirmek için basın, yayın, iletişim ile ilgili basılı, yazılı ve görsel benzeri çalışmaları yapar ve yürütür.
+(7) Kentsel arama ve kurtarma temel eğitimleri bu konuda yeterli donanım ve eğitim kapasitesine sahip diğer itfaiye teşkilatları veya il afet ve acil durum müdürlükleri ile iş birliği içinde gerçekleştirilir.
