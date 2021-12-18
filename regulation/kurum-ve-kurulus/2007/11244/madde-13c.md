@@ -1,0 +1,4 @@
+Başvuruların değerlendirilmesi
+MADDE 13/C – (Ek:RG-14/11/2017- 30240)
+(1) Belediye, T.C. kimlik numarası ile ÖSYM kayıtlarının uyumunu kontrol etmek suretiyle adayları KPSS puanlarına göre sıralayarak, en yüksek puanlı adaydan başlamak üzere atama yapılacak boş kadro sayısının beş katı oranında adayı sınava çağırır. Sınava çağrılacak son sıradaki adayla aynı puana sahip olan diğer adaylar da sınava çağrılır. Sınava girmeye hak kazanan adaylar ve KPSS puanları belediyenin internet adresinde ilan edilir.
+(2) (Değişik:RG-18/12/2021-31693) Sınava çağrılan adaylara belediyece düzenlenen ve adayların kimlik bilgileri ile sınav yeri ve tarihinin bulunduğu EK-3’te yer alan bir sınav giriş belgesi gönderilir. Ancak, duyuruda belirtilmesi kaydıyla, sınav giriş belgesi belediyenin internet sitesinden erişim sağlanarak verilebilir. Bu belge sınava girişte ibraz edilir.

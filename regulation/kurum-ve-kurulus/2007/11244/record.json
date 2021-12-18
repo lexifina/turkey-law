@@ -1,0 +1,75 @@
+{
+  "source_id": "7.5.11244",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BELEDİYE ZABITA YÖNETMELİĞİ",
+  "number": "11244",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2007/11244",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11244&MevzuatTertip=5",
+  "source_sha256": "3e6e4ddbdfd45572ca4244175a1ece74596665bb24cf1ae4bb6520a2e1b9f7bb",
+  "source_bytes": 169636,
+  "published": "2007-04-11",
+  "gazette": "26490",
+  "in_force": "2021-12-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-18",
+      "RG-18/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-18",
+      "18/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-04-02",
+      "RG-2/4/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-04-02",
+      "2/4/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-05-23",
+      "23/5/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-11-14",
+      "RG-14/11/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-11-14",
+      "14/11/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-12-21",
+      "21/12/2011",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9649,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.11244%20Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,4 @@
+Spor
+MADDE 29 – (Değişik:RG-18/12/2021-31693)
+(1) Zabıta personelinin fiziki nitelikleri, periyodu zabıta birimince tespit edilecek ve yılda en az bir kez düzenlenecek spor programları ile desteklenir. Personele; kültür-fizik çalışmaları, atletizm, aletli sporlar, mukavemet ve denge sporları ile uygun görülecek diğer mesleki spor faaliyetleri yaptırılarak iş verimlilikleri arttırılır.
+(2) Zabıta personelinin belirtilen sportif çalışmaları ve mesleki sporları yapabilmesi için gerekli alan düzenlemesi ile araç gereç ve iki yılda bir verilecek özel spor kıyafetleri belediye tarafından temin edilir. Ayrıca bu konuda belediyenin spor ve sosyal tesislerinden yararlanılır. Zabıta teşkilatına yurt içi ve yurt dışında düzenlenen spor etkinliklerine ve zabıta spor müsabakalarına katılma imkânı sağlanır.
