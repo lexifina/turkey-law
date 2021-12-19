@@ -1,0 +1,3 @@
+Tebligat
+MADDE 45 – (1) Öğrencilere resmî olarak yapılması gereken her türlü tebligat, imza karşılığı şahsen kendisine veya öğrencilerin kayıt esnasında beyan ettikleri en son adresine veya öğrenciye Üniversite tarafından verilen elektronik posta adresine yapılır.
+(2) Üniversiteye kayıt yaptırırken enstitü müdürlüğüne beyan ettikleri resmi adresi değiştirdikleri halde, bunu enstitüye kaydettirmemiş bulunan, yanlış veya eksik adres vermiş olan öğrencilere enstitüdeki mevcut adreslerine tebligatın yapılmış olması halinde, 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre kendilerine tebligat yapılmış sayılır.

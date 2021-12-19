@@ -1,0 +1,6 @@
+Derslere devam zorunluluğu
+MADDE 28 – (1) Öğrencilerin sınavlara girebilmeleri için, teorik derslerin %70’ine, uygulamalı derslerin ise %80’ine devam etmiş olmaları gerekir. Bir derste bu oranlardan herhangi birisini sağlayamayan öğrenci o dersten devamsızlık nedeni ile başarısız sayılır. Devamsızlıktan kalan öğrenciler öğrenci otomasyon sisteminde ilan edilerek sınavlara giremezler.
+(2) Uzaktan eğitim programları ve örgün öğretim içinde verilen uzaktan eğitim dersleri için ilgili mevzuat hükümleri uygulanır.
+(3) Devam konusu, dersi veren ilgili öğretim elemanı tarafından izlenir ve denetlenir. Devam çizelgeleri düzenli olarak öğrenci işlerine gönderilir.
+(4) Disiplin suçu nedeniyle uzaklaştırma cezası alan ve bir dersin devam yükümlülüğünü yerine getiremeyen öğrenci o dersten başarısız sayılır. Ancak Üniversite ve/veya Türkiye’yi temsilen toplantı, spor, sanat ve benzeri faaliyetlere katılmak üzere Rektörlük onayı ile izin verilen öğrencilerin bu faaliyet süresi içindeki devamsızlıkları dikkate alınmaz.
+(5) Devam zorunluluğu yerine getirilmemiş bir ders ve/veya uygulamaların tekrarı halinde ilgili öğrenciden yeniden devam zorunluluğu aranır. Ancak bir dersten devam koşulunu yerine getirip başarısız olan öğrenci, ders tekrarı yapması durumunda derse devam zorunluluğu aranmaz.

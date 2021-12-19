@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 32 ‒ (1) Öğrenci bir dersin yarıyıl içi ve/veya yarıyıl sonu sınav sonucuna, notların ilan edilmesinden itibaren yedi gün içerisinde enstitü müdürlüğüne dilekçe ile itirazda bulunabilir. Süresi içinde yapılmayan itirazlar dikkate alınmaz. İtiraz, ilgili öğretim elemanı tarafından incelenir, değerlendirilir ve kanaatini yazılı olarak enstitü müdürlüğüne bildirir. Bu değerlendirme sonucuna yapılan itiraz enstitü yönetim kurulu tarafından sonuçlandırılır. Alınan karar öğrenci işlerine bildirilir.
