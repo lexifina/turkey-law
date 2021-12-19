@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 7 – (1) Yönetim Kurulu; Müdür ve müdür yardımcılarıyla birlikte toplam yedi üyeden oluşur. Yönetim Kurulu üyeleri Merkezin çalışma alanı ile ilgili en az doktora unvanına sahip (Değişik ibare:RG-19/12/2021-31694) öğretim elemanları arasından, Müdürün göstereceği iki kat aday arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten üyeler yeniden görevlendirilebilir. Müdür, Yönetim Kurulunun başkanıdır. Müdürün yokluğunda bu görevi, Müdüre vekâlet eden müdür yardımcısı üstlenir.
+(2) Yönetim Kurulu her eğitim-öğretim yarıyılında en az iki kez salt çoğunlukla toplanır. Kararlar oy çokluğu ile alınır. Yönetim Kurulunda oylamalar açık yapılır. Oyların eşit çıkması durumunda Müdürün oyu yönünde çoğunluk sağlanmış sayılır.
+(3)Yönetim Kurulu toplantılarına iki kez üst üste mazeretsiz olarak katılmayan üyenin Yönetim Kurulundaki üyeliği sona erer. Yönetim Kurulu üyeliğinde eksilme olması halinde aynı yöntemle görevlendirme yapılır.

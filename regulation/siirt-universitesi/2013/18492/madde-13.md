@@ -1,0 +1,2 @@
+Müdür yardımcıları
+MADDE 13 – (1) Müdürün önerisiyle, Üniversite (Değişik ibare:RG-19/12/2021-31694) öğretim elemanları arasından Rektör tarafından Merkeze iki müdür yardımcısı görevlendirilir. Müdür yardımcıları, laboratuvarlar arası koordinasyonu sağlamak ve Müdüre yardımcı olmak üzere görevlendirilirler. Müdürün görev başında bulunmadığı durumlarda müdür yardımcılarından biri vekalet eder. Müdürün görev süresinin dolması veya herhangi bir sebeple görevinden ayrılması halinde müdür yardımcılarının da görevi sona erer.

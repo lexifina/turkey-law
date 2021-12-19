@@ -1,0 +1,3 @@
+Laboratuvarlar
+MADDE 15 – (1) Labarotuvarlar; gruplar ve alt gruplara hizmet eden birimler olup, Merkezin faaliyetleri içerisinde yer alan çeşitli analiz, test, ölçüm ve üretimlerin gerçekleştirildiği yerler olup, Yönetim Kurulunun önerisi ve Üniversite Yönetim Kurulu kararıyla kurulur. Laboratuvarlar, Müdüre karşı sorumlu olan ve Müdür tarafından görevlendirilen laboratuvar yöneticisi tarafından yönetilir.
+(2) Laboratuvar yöneticilerinin görevleri; laboratuvarların yönetim ve denetimini sağlamak, çalışmaları planlamak, sağlıklı bir biçimde yürütmek, aletlerin bakım ve onarımını yaparak bunların çalışır durumda olmasını sağlamak, ihtiyaç duyulan makine–teçhizat ve diğer malzemelerin temini konusunda çalışmalar yapmaktır.
