@@ -1,0 +1,14 @@
+Harcama Yetkilisi ve Sermaye Limiti
+İşletmenin faaliyet alanları
+MADDE 4 – (1) İşletme çalışmaları sırasında eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıda belirtilen faaliyetlerde bulunur:
+a) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerce talep edilecek konularda bilimsel görüş vermek, proje hazırlamak, araştırma ve benzeri hizmetler yapmak, seminer, konferans ve sempozyumlar düzenlemek, kurslar açmak.
+b) Kamu kurum ve kuruluşları ile gerçek ve tüzel kişilerle yapılan sözleşmeler kapsamında faaliyet alanları ile ilgili danışmanlık, klinik araştırma ve klinik çalışma hizmeti vermek.
+c) Bilimsel, teknik, kültürel, sanatsal, tarım ve sağlık ile ilgili araştırma ve uygulamaları teşvik etmek amacıyla çevre kampları ve incelemeleri düzenlemek ve alınacak bilimsel sonuçların uygulamasını yapmak.
+ç) Mevcut fiziki kapasiteyi değerlendirerek, birimlerin faaliyet alanları ile sınırlı olarak mal ve hizmet üretmek, elde edilen ürünleri önceden Rektörün izni alınmak şartıyla pazarlanması ve satılması için satış ve teşhir yerleri açmak.
+d) İşletmenin laboratuvar ve atölyelerinde her çeşit makine, cihaz, alet-edevat, elektrikli ve elektronik aletlerin bakım-onarımları ile kalibrasyonlarını yapmak.
+e) İşletmenin laboratuvar ve atölyelerinde ürün ve numunelere yönelik kontrol, muayene, analiz ve ölçümler yapmak, raporlar düzenlemek, projeler hazırlamak veya uygulamak.
+f) Üniversite-sanayi iş birliği faaliyetleri kapsamında kurum ve kuruluşlar ile gerçek ve tüzel kişilere ait işyerleri, maden ocakları, bina, arsa ve araziler için fizibilite çalışmaları yapmak, bilimsel ve teknik raporlar hazırlamak.
+g) İşletmeye bağlı Sağlık Hizmetleri Uygulama ve Araştırma Hastanesi, Diş Hekimliği Fakültesi, Sağlık Bilimleri Fakültesi, Veteriner Fakültesi ve sağlık hizmeti veren diğer birimlerde klinik, poliklinik, laboratuvar ve diğer hizmet birimlerinde muayene, tahlil, tetkik, tedavi, ameliyat, girişimsel işlemler ve bakım hizmetleri ile ilgili faaliyetlerde bulunmak, sağlık hizmetleri ile ilgili açılmış olan yataklı ve yataksız tedavi kurum ve birimlerini işletmek.
+ğ) Turizm ve otelcilik faaliyetleri kapsamında; uygulama oteli işletmek, yiyecek, içecek, konaklama hizmetleri vermek, kongre, seminer, gezi ve benzer organizasyon hizmetleri sunmak, danışmanlık hizmeti vermek ve ilgili mevzuat hükümleri kapsamında Cumhuriyet Üniversitesi Sürekli Eğitim Merkezi iş birliği ile eğitim, kurs ve sertifika programları düzenlemek.
+h) İşletme birimlerinin kendi faaliyet alanlarında yapmış olduğu iş ve işlemler kapsamında araştırma-geliştirme, tasarım-yenilik faaliyetlerinde bulunmak, elde edilen bilimsel sonuçların uygulanmasını ve teknolojiye dönüşümünü sağlamak.
+ı) İşletme birimlerinin faaliyet alanı ile ilgili her türlü baskı, grafik, yayın ve basım işlerini yapmak.
