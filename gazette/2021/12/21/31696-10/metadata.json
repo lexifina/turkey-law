@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-12-21",
+  "issue": "31696",
+  "edition": "regular",
+  "item": 10,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Belediye Gelirleri Kanunu Genel Tebliği (Seri No: 54)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211221-10.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211221.htm",
+  "index_sha256": "bb06af7d1edf0d4ffec24103d9d911c736a0c7a4144758be10849776a31340a9",
+  "index_header": "21 Aralık 2021 ... 31696 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211221.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
