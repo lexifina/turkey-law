@@ -1,0 +1,11 @@
+İKİNCİ BÖLÜM
+Komisyonun Oluşturulması, Görev ve Yetkileri[2]
+Komisyonun oluşumu ve görevleri
+Madde 4- (Başlığı ile Birlikte Değişik: RG-17/10/2018-30568-C.K.-187/5 md.)
+Komisyon; Yatırım ve İşletmeler Genel Müdürlüğünden sorumlu Bakan Yardımcısının başkanlığında, Yatırım ve İşletmeler Genel Müdürü ile Yatırım ve İşletmeler Genel Müdürlüğünün Yatırım Geliştirme ve Planlama Daire Başkanlığından sorumlu Genel Müdür Yardımcısı, Yatırım Geliştirme ve Planlama Daire Başkanı ve Arazi Tahsis Daire Başkanından oluşur. Komisyon Başkanı tarafından gerekli görülmesi halinde konunun niteliğine göre temsilci veya uzman çağrılabilir.
+Komisyonun sekretarya hizmetleri, Yatırım ve İşletmeler Genel Müdürlüğünce yürütülür.
+Yatırım ve İşletmeler Genel Müdürlüğü tarafından; belirlenmesi ve ilan edilmesi öngörülen Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile Turizm Merkezleri hakkında ilgili kamu kurum ve kuruluşlardan istenilen bilgi ve belgeler, kamu kurum ve kuruluşlarınca öncelikle gönderilir ve görüş yazıları istenilen sürede, süre belirtilmeyen hallerde en geç bir ay içinde cevaplandırılır. Bu süre içinde cevap verilmediği takdirde olumlu görüş verilmiş sayılır. Ancak, sınır iptali ve sınır daraltması işlemlerinde ilgili kamu kurum ve kuruluşlarının görüşleri alınmaz.
+Yatırım ve İşletmeler Genel Müdürlüğünce; kamu kurum ve kuruluşlarının görüşleri ile birlikte fotoğraf, video kaydı ve benzeri görsel malzeme ile desteklenen ve mahallinde yapılan alan araştırmasına dayanan, bölgenin konumunu, mülkiyet durumunu, fiziksel ve doğal özelliklerini, teknik ve sosyal altyapısını, sosyal, kültürel ve ekonomik özelliklerini, arazi kullanım ve ulaşım sistemleri ile doğal ve çevresel verilerini içeren gerekçeli raporlar hazırlanarak Komisyona gönderilir.
+Komisyon; ilan edilmesi, iptal edilmesi, sınır daraltılması veya genişletilmesi öngörülen Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile Turizm Merkezlerinin mevki ve sınırlarını belirlemekle görevlidir.
+(Mülga altıncı fıkra: RG-22/12/2021-31697-CK-4940/2 md.)
+Komisyon tarafından uygun bulunarak mevki ve sınırları belirlenen Kültür ve Turizm Koruma ve Gelişim Bölgeleri ile Turizm Merkezlerine ilişkin komisyon kararı Bakanlık Makamınca onaylanır.

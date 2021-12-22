@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20047253",
+  "number": "20047253",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KÜLTÜR VE TURİZM KORUMA VE GELİŞİM BÖLGELERİ İLE TURİZM MERKEZLERİNİN BELİRLENMESİNE VE İLANINA İLİŞKİN YÖNETMELİK",
+  "published": "2004-05-15",
+  "enacted": "2004-04-16",
+  "gazette_number": "25463",
+  "in_force": "2021-12-22",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 22/12/2021; source row: 21/12/2021 | 4940 | 3, 4 | 22/12/2021",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20047253&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "277bd5b220ba144f45ef35613aecfc0c4dedae45dc7ea57c47efcd360eb2bacf",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
