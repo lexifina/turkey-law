@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50633",
+  "decision_date": "2021-12-22",
+  "source_id": 24773,
+  "chamber": "6",
+  "file_number": "47843",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24773/",
+  "source_sha256": "3b8761bd1ab0b130b2f4add9218038ecd7a54328278605156cc02a0bb8726df1",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
