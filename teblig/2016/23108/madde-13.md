@@ -1,0 +1,3 @@
+Sorumluluk
+MADDE 13 – (1) Sınır ticaretinin amacına uygun olarak yürütülmesi ve izlenmesinden ilgili Valiler sorumludur. Valiler, sınır ticareti uygulamaları dâhilindeki merciler arasında işbirliği ve koordinasyonu sağlar.
+(2) İl Değerlendirme Komisyonunun çalışma usul ve esaslarının belirlenmesi, Sınır Ticareti Belgesi ve İthalat Uygunluk Belgesinin düzenlenmesi, Sekretaryanın çalışmalarında izlenecek yöntemler ile Sınır Ticareti Bürosunun görev ve faaliyetlerine ilişkin usul ve esaslar; Karar ve bu Tebliğ hükümleri çerçevesinde, ilgili Valiliklerce Bakanlığın uygun görüşü alınmak suretiyle yürürlüğe konulan yönergelerle belirlenir.

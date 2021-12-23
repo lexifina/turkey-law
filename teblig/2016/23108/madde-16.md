@@ -1,0 +1,2 @@
+Yetki
+MADDE 16 – (1) Bu Tebliğde yer alan hususlara ilişkin olarak ilgili kurum ve kuruluşlar arasında koordinasyon sağlamaya, talimatlar vermeye, sınır ticareti yoluyla yapılacak ithalat ve ihracatın her aşamasında gerekli görülecek düzenlemeleri yapmaya ve önlemler almaya, eşya ve ülke bazında ithalatı ve ihracatı sınırlandırmaya veya durdurmaya, özel ve zorunlu durumları inceleyip sonuçlandırmaya Bakanlık yetkilidir.
