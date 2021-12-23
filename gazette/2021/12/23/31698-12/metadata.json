@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-12-23",
+  "issue": "31698",
+  "edition": "regular",
+  "item": 12,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Şili Cumhuriyeti Menşeli Bazı Tarım ve İşlenmiş Tarım Ürünleri İthalatında Tarife Kontenjanı Uygulanmasına İlişkin Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211223-12.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211223.htm",
+  "index_sha256": "852f3344bd6191599008d58bff87a5f8a467ad671ed5ea785bc8a97b4cbbdf9b",
+  "index_header": "23 Aralık 2021 ... 31698 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211223.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
