@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10658",
+  "decision_date": "2021-12-23",
+  "title": "Doğal Gaz Dağıtım Şirketleri İçin Tarife Hesaplama Usul Ve Esasları’nda Değişiklik Yapılmasına Dair Usul Ve Esaslar",
+  "resmi_gazete_date": "2021-12-25",
+  "resmi_gazete_number": "31700",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZgHUsZLjxTI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZgHUsZLjxTI="
+  ],
+  "source_sha256": "d96aafd57cac0437061d90924e61a5db53fb95b06e71bc953ceae640c951e59f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-23",
+  "law_text_complete": true
+}
