@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39119",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AİLE VE SOSYAL HİZMETLER BAKANLIĞI HİZMETLERİNE KATILIM SAĞLAYAN VE KATKIDA BULUNANLARIN ONURLANDIRILMASINA İLİŞKİN YÖNETMELİK",
+  "number": "39119",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani/2021/39119",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39119&MevzuatTertip=5",
+  "source_sha256": "90c63bf39ddac4ff529e8e2ac7f2d7b13cf4e27d5179a71b6c85e79b62e3cfda",
+  "source_bytes": 55219,
+  "published": "2021-12-23",
+  "gazette": "31698",
+  "in_force": "2021-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1240,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

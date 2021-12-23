@@ -1,0 +1,2 @@
+Teşekkür belgesi
+MADDE 12 – (1) Teşekkür belgesi, 20x30 cm ebadında olup üst orta kısmında Bakanlığın logosu bulunur. Bu belgeye onurlandırılanın adı ve soyadı ile belgenin niçin verildiği yazılarak merkez teşkilatında Bakan veya Bakan tarafından görevlendirilen Bakan Yardımcısı veya ilgili Genel Müdür/Başkan tarafından; taşra teşkilatında il müdürü tarafından imzalanır ve mühürlenir. Teşekkür belgesi uygun görülecek bir kılıf içerisinde verilir.
