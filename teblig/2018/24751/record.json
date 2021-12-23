@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.24751",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MISIR ARAP CUMHURİYETİ MENŞELİ BAZI TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24751",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24751",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24751&MevzuatTertip=5",
+  "source_sha256": "9585156c1268458c094ee1d35710ff6dac60e0a828de25650dbae8a4b53e361e",
+  "source_bytes": 43589,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2021-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-23",
+      "RG-23/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-23",
+      "23/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2009,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24751-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
