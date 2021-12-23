@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Danışma Kurulu ile Yürütme Komitesinin Oluşumu, Görevleri
+ile Toplantıları ve Sekretarya
+Danışma Kurulunun oluşumu
+MADDE 5 – (1) (Değişik:RG-23/12/2021-31698) Danışma Kurulu; Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı, Aile ve Sosyal Hizmetler Bakanlığı, Çalışma ve Sosyal Güvenlik Bakanlığı, Gençlik ve Spor Bakanlığı, Hazine ve Maliye Bakanlığı, İçişleri Bakanlığı, Kültür ve Turizm Bakanlığı, Millî Eğitim Bakanlığı, Sanayi ve Teknoloji Bakanlığı, Tarım ve Orman Bakanlığı, Ticaret Bakanlığı, Mesleki Yeterlilik Kurumu, Sosyal Güvenlik Kurumu Başkanlığı, Türkiye İstatistik Kurumu Başkanlığı, Türkiye İş Kurumu Genel Müdürlüğü, Yükseköğretim Kurulu Başkanlığı, Türkiye Odalar ve Borsalar Birliği, Türkiye Ziraat Odaları Birliği, Türkiye İşveren Sendikaları Konfederasyonu, Türkiye Esnaf ve Sanatkârları Konfederasyonu, Türkiye İşçi Sendikaları Konfederasyonu, Türkiye Devrimci İşçi Sendikaları Konfederasyonu, Hak İşçi Sendikaları Konfederasyonu, Memur Sendikaları Konfederasyonu, Kamu Emekçileri Sendikaları Konfederasyonu, Türkiye Kamu Çalışanları Sendikaları Konfederasyonu temsilcilerinden oluşur. Bu kurum ve kuruluşlar Kurulda birer üye ile temsil edilir.
+(2) (Değişik:RG-23/12/2021-31698) Toplantılara Kurum Genel Müdürü veya görevlendireceği bir genel müdür yardımcısı başkanlık eder.
+(3) Toplantılara gündem gereği, gerekli görülen kuruluşların temsilcileri ve belirli konularda kendi alanlarında uzman kişiler çağrılabilir.
