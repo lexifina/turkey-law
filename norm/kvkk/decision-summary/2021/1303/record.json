@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2021/1303",
+  "source_id": 7288,
+  "date": "2021-12-23",
+  "title": "“Araç kiralama programları yazılımcısı ve satıcısı firmalar tarafından, ilgili kişilerin verilerinin işlenmesi ve bu verilerin araç kiralama firmaları arasında paylaşılmasını sağlayan bir kara liste programı oluşturulması” hakkında Kişisel Verileri Koruma Kurulunun 23/12/2021 tarihli ve 2021/1303 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7288/2021-1303",
+  "source_sha256": "2d1ddf022a24588ce4c6922d24098b258c7dcd8b1733047ad69f5fa54560559a",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
