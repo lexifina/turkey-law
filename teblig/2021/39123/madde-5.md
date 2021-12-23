@@ -1,0 +1,5 @@
+Bilgi klasörü ve bilgi dokümanı şablonları
+MADDE 5 – (1) İmalatçılar, 2016/1628/AB Yönetmeliğinin 22 nci maddesine uygun olarak bilgi klasörleri ve bilgi dokümanları sunarken, bu Tebliğin Ek-I’inde belirtilen şablonları kullanır.
+(2) RLL kategorisindeki motorlar için 97/68/AT Yönetmeliğine uygun olarak verilen mevcut bilgi dokümanları veya 97/68/AT Yönetmeliğinin XII’nci Ekinde belirtilen denk bir tip onayına ait bilgi dokümanı 2016/1628/AB Yönetmeliğine uygun olarak tip onayı amacıyla sunulabilir.
+(3) Özel Amaçlı Motorlar (SPE) için 97/68/AT Yönetmeliğine uygun olarak verilen mevcut bilgi dokümanları veya 97/68/AT Yönetmeliğinin XII’nci Ekinde belirtilen denk bir tip onayına ait bilgi dokümanı, 2016/1628/AB Yönetmeliğine uygun olarak tip onayı amacıyla sunulabilir.
+(4) NRSh kategorisindeki motorlar için 97/68/AT Yönetmeliğine uygun olarak verilen mevcut bilgi dokümanları veya 97/68/AT Yönetmeliğinin XII’nci Ekinde belirtilen denk bir tip onayına ait bilgi dokümanı, 2016/1628/AB Yönetmeliğine uygun olarak tip onayı amacıyla sunulabilir.

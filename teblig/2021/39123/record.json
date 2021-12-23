@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39123",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARAYOLU DIŞI MOBİL MAKİNELERE TAKILAN İÇTEN YANMALI MOTORLAR İÇİN EMİSYON LİMİTLERİ VE TİP ONAYI HAKKINDA İDARİ GEREKLİLİKLERİN BELİRLENMESİNE DAİR TEBLİĞ (2017/656/AB) (SGM: 2021/26)",
+  "number": "39123",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/39123",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39123&MevzuatTertip=5",
+  "source_sha256": "277a15aaf63cc038547673ed98589b7b6a6be9624c6d51a247d88b6b088f69ed",
+  "source_bytes": 27324,
+  "published": "2021-12-23",
+  "gazette": "31698 Mükerrer",
+  "in_force": "2021-12-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.12.2021); own commencement article: \"Bu Tebliğ yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1210,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39123-%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Tebliğ, Karayolu Dışında Kullanılan Hareketli Makinalara Takılan İçten Yanmalı Motorlar İçin Gaz ve Partikül Halindeki Kirletici Emisyon Sınırları ve Tip Onayı ile İlgili Gereklilikler Hakkında Yönetmelik (2016/1628/AB)’te belirtilen, karayolu dışında kullanılan hareketli makinalara takılan veya takılması amaçlanan ve anılan Yönetmeliğin 5 inci maddesinin birinci fıkrasında belirtilen kategorilerdeki tüm motorları ve bu makinaların motorlarından kaynaklanan gaz ve partikül halindeki kirleticilere yönelik emisyon sınırlarını kapsar.

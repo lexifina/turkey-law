@@ -1,0 +1,2 @@
+Avrupa Birliği mevzuatına uyum
+MADDE 16 – (1) Bu Tebliğ, Karayolu Dışında Kullanılan Hareketli Makinalara Takılan İçten Yanmalı Motorlar için Emisyon Sınırları ve Tip Onayı ile İlgili İdari Gereklilikleri Hakkında (AB) 2016/1628 sayılı Avrupa Parlamentosu ve Konsey Tüzüğünü tamamlayan, (AB) 2018/988 sayılı Tüzük ile değişik, 19/12/2016 tarihli ve (AB) 2017/656 sayılı Komisyon Tüzüğü dikkate alınarak Avrupa Birliği mevzuatına uyum çerçevesinde hazırlanmıştır.
