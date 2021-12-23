@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.38544",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BÜYÜK BRİTANYA VE KUZEY İRLANDA BİRLEŞİK KRALLIĞI MENŞELİ BAZI ÜRÜNLERİN İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "38544",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2021/38544",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38544&MevzuatTertip=5",
+  "source_sha256": "0d648627139d0f18487d6935f793a914701e252b76ff785d087e9ff89990796b",
+  "source_bytes": 47908,
+  "published": "2021-04-20",
+  "gazette": "31460",
+  "in_force": "2021-12-23",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-23/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-23",
+      "RG-23/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-23",
+      "23/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ 20/4/2021 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1956,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38544-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
