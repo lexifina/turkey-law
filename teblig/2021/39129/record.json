@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.39129",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2022 YILI TANIKLIK ÜCRET TARİFESİ",
+  "number": "39129",
+  "path": "teblig/2021/39129",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39129&MevzuatTertip=5",
+  "source_sha256": "19b379a77fa733b0357ad38bdbd8bdfa0ebbd2019e51efbea1bba7570ad681de",
+  "source_bytes": 8983,
+  "published": "2021-12-24",
+  "gazette": "31699",
+  "in_force": "2021-12-24",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (24.12.2021)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
