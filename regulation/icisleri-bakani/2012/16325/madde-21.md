@@ -1,0 +1,4 @@
+Performans değerlendirmesi yetersiz olanlar
+MADDE 21 – (1) Performans değerlendirme puanı yetersiz olan personel yazılı olarak uyarılır. Buna ilişkin uygulama Personel Dairesi Başkanlığınca belirlenir.
+(2) Bir yıllık performansı yetersiz olarak değerlendirilen personelin görev yeri, birimi içerisinde birinci değerlendirme amiri değişecek şekilde değiştirilir. Sonraki bir yıllık performansı da yetersiz olarak değerlendirilenler hizmet içi eğitime tabi tutulur. Eğitim sonunda yapılacak sınavda başarısız olanlar ile hizmet içi eğitimde başarılı olmakla birlikte, yapılan ilk bir yıllık değerlendirmede yine performansı yetersiz olarak değerlendirilenler başka bir birime atanırlar.
+(3) Üç yıl üst üste performansı yetersiz olarak değerlendirilen personel Rehberlik ve Psikolojik Danışma Büro Amirliğine sevk edilir. İlgili uzmanlarca yapılacak değerlendirmeye göre, personel, danışma sürecine alınabilir veya gerekli görülmesi halinde sağlık kuruluşlarına sevki önerilebilir.

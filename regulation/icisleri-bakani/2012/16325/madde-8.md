@@ -1,0 +1,6 @@
+Değerlendirme zamanı
+MADDE 8 – (1) Yıllık değerlendirme, aday memurlar hariç olmak üzere, 1 Ocak-31 Aralık tarihleri arası dönemi kapsar.
+(2) Değerlendirme, yılda bir kez her yıl 1 Ocak-31 Ocak tarihleri arasında yapılır. Değerlendirme amirleri, belirtilen süre içerisinde ilgili personel hakkında PBS üzerinden değerlendirmesini yapmak zorundadır.
+(3) Kendisine bağlı personelin değerlendirmesinin zamanında yapılmasından ikinci değerlendirme amiri, ikinci değerlendirme amiri bulunmayan durumlarda birinci değerlendirme amiri, birime bağlı tüm personelin değerlendirmesinin zamanında yapılmasından ise personel işlerinden sorumlu şube müdürü/büro amiri sorumludur.
+(4) (Ek:RG-18/5/2019-30778)(2) Aday memurların değerlendirmeleri dönem bitiş tarihini takip eden bir sonraki ayın yedinci gününe kadar yapılır. Değerlendirme amirleri, belirtilen süre içerisinde ilgili personel hakkında PBS üzerinden değerlendirmelerini yapmak zorundadır.
+(5) (Değişik:RG-18/5/2019-30778) İkinci ve dördüncü fıkralarda belirtilen süreler içerisinde hukuken kabul edilebilir mazereti olmaksızın değerlendirmesini yapmayanlar hakkında 31/1/2018 tarihli ve 7068 sayılı Genel Kolluk Disiplin Hükümleri Hakkında Kanun Hükmünde Kararnamenin Kabul Edilmesine Dair Kanun hükümleri uygulanır.

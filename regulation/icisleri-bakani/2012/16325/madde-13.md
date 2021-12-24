@@ -1,0 +1,7 @@
+Değerlendirme ölçeği
+MADDE 13 – (1) Performans değerlendirme formundaki değerlendirme ölçütlerinin karşısında aşağıdaki ölçekler yer alır ve bu ölçeklere aşağıdaki puanlar verilir.
+a) “Gözlenen performans ortalamanın çok altında” ölçeği: Gözlemlenen davranışın o performans değerlendirme ölçütü için ortalamanın çok altında olduğunu ve bu davranışın çoğu zaman gerçekleştirildiğini ifade eden istisnai bir durumdur. Bu ölçeğin karşılığı 1 puandır.
+b) “Gözlenen performans ortalamanın altında, geliştirilmeye ihtiyacı var” ölçeği: Gözlemlenen davranışın o performans değerlendirme ölçütü için ortalamanın altında olduğunu ifade eder ve bu davranışın zaman zaman tekrarlandığını gösterir. Bu ölçeğin karşılığı 2 puandır.
+c) (Değişik:RG-31/12/2014-29222 4.mükerrer) “Gözlenen performans ortalama düzeyde” ölçeği: Gözlemlenen davranışın o performans değerlendirme ölçütü için ortalama düzeyde olduğunu ifade eder. Bu ölçeğin karşılığı 3 puandır.
+ç) “Gözlenen performans ortalamanın üzerinde” ölçeği: Gözlemlenen davranışın o performans değerlendirme ölçütü için ortalamanın üzerinde olduğunu ifade eder ve bu davranışın çoğu zaman gerçekleştirildiğini gösterir. Bu ölçeğin karşılığı 4 puandır.
+d) “Gözlenen performans ortalamanın çok üzerinde” ölçeği: Gözlemlenen davranışın o performans değerlendirme ölçütü için ortalamanın çok üzerinde olduğunu, ortalamanın üzerinde fazladan gayret gösterildiğini ve bu ortalamanın üzerindeki davranışın sürekli gerçekleştirildiğini ifade eden istisnai bir durumdur. Bu ölçeğin karşılığı 5 puandır.

@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakan: İçişleri Bakanını,
+b) (Ek:RG-18/5/2019-30778)(1) Bakan Yardımcısı: Görev dağılımında birimin bağlı olduğu Bakan Yardımcısını,
+c) Birim: Genel Müdürlüğün merkez ve taşra teşkilatında yer alan; (Değişik ibare:RG-31/12/2014-29222 4.mükerrer) Teftiş Kurulu Başkanlığını, Özel Güvenlik Denetleme Başkanlığını, Polis Akademisi Başkanlığını, (Ek ibare:RG-18/5/2019-30778) Özel Harekat Başkanlığını, (Ek ibare:RG-24/12/2021-31699) Trafik Başkanlığını, İstihbarat Başkanlığını, Hukuk Müşavirliğini, Daire Başkanlıklarını, (Ek ibare:RG-31/12/2014-29222 4.mükerrer) İç Denetim Birimi Başkanlığını, İl Emniyet Müdürlüklerini, (Mülga ibare:RG-18/5/2019-30778) Polis Meslek Yüksekokulu, Polis Meslek Eğitim Merkezi, Polis Eğitim Merkezi, Polis Moral Eğitim Merkezi, Kriminal Polis Laboratuvarı, (Mülga ibare:RG-24/12/2021-31699) (Mülga ibare:RG-18/5/2019-30778) Özel Kalem Müdürlüğünü ve merkez ilçeler dahil İlçe Emniyet Müdürlüklerini/Amirliklerini, yurt dışında; yurt dışı birimlerini,
+ç) Birim amiri: Emniyet Genel Müdürünü, Emniyet Genel Müdür Yardımcıları ile merkez, taşra ve yurt dışı birimlerinin rütbe bakımından en üst dereceli başkanını/müşavirini/müdürünü/amirini,
+d) Değerlendirme: Performans değerlendirmesini,
+e) Değerlendirme amiri: Maiyetinde çalışan personelin performansını, bu Yönetmelikte belirlenen esaslara göre değerlendirmekle yetkili ve görevli personeli,
+f) Değerlendirme amirleri cetveli: Kurul tarafından belirlenen, personelin performansını değerlendirmekle görevli amirlerin görev unvanı olarak belirlendiği cetveli,
+g) Genel Müdür: Emniyet Genel Müdürünü,
+ğ) Genel Müdürlük: Emniyet Genel Müdürlüğünü,
+h) Kurul: Performans Değerlendirme Kurulunu,
+ı) (Değişik:RG-31/12/2014-29222 4.mükerrer) Maddi hata: Performans değerlendirme sürecinde yapılan hesaplama hatalarını, değerlendirme amirlerinin yanlış belirlenmesini, yanlış form düzenlenmesini ve PBS üzerinden doldurulmayan formların PBS’ye yanlış kaydedilmesi gibi hususları,
+i) Performans değerlendirme formu: Performansı değerlendirecek amirin, performansı değerlendirilen personeli için doldurduğu ve performans değerlendirme puanını belirleyen formu,
+j) Performans değerlendirme modülü: Performans değerlendirmesi yapacak amirin, değerlendirme yapmak için kullandığı bilgisayar yazılımı ortamını,
+k) Performans değerlendirme ölçütü ağırlık katsayısı: Bir performans değerlendirme alanı içindeki performans değerlendirme ölçütleri için Kurulca belirlenen katsayıyı,
+l) Performans değerlendirme puanı: Performans değerlendirme sonucu oluşan puanı,
+m) PBS: Personel hizmetlerinin daha hızlı ve güvenli olarak yerine getirilmesi için geliştirilen ve Personel Bilgi Sistemi olarak adlandırılan bilgisayar programını,
+n) Teşkilat: Genel Müdürlüğün merkez, taşra ve yurtdışı teşkilatını,
+ifade eder.

@@ -1,0 +1,3 @@
+Eğitim ihtiyaçlarının belirlenmesi
+MADDE 22 – (1) Herhangi bir performans değerlendirme ölçütü için “gözlenen performans ortalamanın çok altında” ve “gözlenen performans ortalamanın altında, geliştirilmeye ihtiyacı var” şeklinde yapılan değerlendirmelerin sayısının o ölçüt için yapılan toplam değerlendirme sayısının (Ek ibare:RG-31/12/2014-29222 4.mükerrer) % 3’ünü geçmesi halinde, bu ölçütlerin listesi her değerlendirme dönemi sonunda, hizmet içi eğitim planları ya da müfredatın hazırlanmasında değerlendirilmek üzere ilgili Daire Başkanlıklarına ve/veya Polis Akademisi Başkanlığına bildirilir.
+(2) Yetersiz performansın iyileştirilmesine yönelik eğitimler ve eğitim sonucu yapılacak sınavlar (Değişik ibare:RG-18/5/2019-30778) Polis Akademisi Başkanlığınca yürütülür.
