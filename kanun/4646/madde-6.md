@@ -7,6 +7,7 @@ a) Lisans ve sertifikaların tabi olacağı usul ve esaslar:
 4) Lisanslar ve sertifikalar bir defada en az on, en fazla otuz yıl süre ile verilir.
 5) Tüzel kişiler, Kurul tarafından belirlenen lisans ve sertifika alma, yenileme, tadil, suret çıkartma, sertifika ve yıllık lisans bedellerini Kuruma ödemek zorundadır.
 6) Lisans sahibi tüzel kişiler; tesislerini, yasal defter ve kayıtlarını, Kurul denetimine hazır bulundurmak, Kurul tarafından talep edildiğinde denetime açmak ve Kurumun faaliyetlerini yerine getirebilmesi için ihtiyaç duyacağı her türlü bilgi ve belgeyi zamanında Kurula vermek zorundadır.
+7) (Ek:21/12/2021-7346/18 md.) Tüketicilerin kişisel kusurları haricinde oluşan ve (…)[4] lisans ve sertifika sahiplerinin uygulamalarından kaynaklanan tüketici mağduriyetlerinin tazminine ilişkin usul ve esaslar Kurul tarafından belirlenir.
 b) Lisanslarda asgari olarak yer alacak hükümler:
 1) Lisans kapsamında hizmet verilecek gerçek ve tüzel kişilere dair gruplar veya kategoriler ile yürütülecek faaliyet türlerini belirleyen hükümler.
 2) Bir dağıtım ya da iletim lisansı sahibinin, gerçek ve tüzel kişilere, aynı kapasiteye sahip sistem kullanıcıları arasında ayrım gözetmeksizin sisteme erişim ve sistemi kullanım imkanı sağlayacağına dair hükümler.
@@ -16,7 +17,6 @@ b) Lisanslarda asgari olarak yer alacak hükümler:
 6) Lisansın iptali ve sona ermesine ilişkin hükümler.
 7) Lisansta değişiklik yapılmasına ilişkin hükümler.
 8) Lisans sahibinin Kuruma ödemekle yükümlü olacağı bedeller ve ödeme koşullarına ilişkin hükümler.
-7925
 9) Lisans sahibine ait veya kullanımındaki tesis ve/veya tesislerin gerektiğinde lisans amaçları doğrultusunda başkalarına kullandırılması koşullarına ilişkin hükümler.
 10) Lisans sahibinin Kurul tarafından verilen tüm talimatlara uyma yükümlülüklerine ilişkin hükümler.
 11) Lisans kapsamında, Kuruldan izin alınmaksızın yapılabilecek faaliyetlere ilişkin hükümler.
@@ -33,7 +33,7 @@ c) Sertifikalarda asgari olarak;
 7) Sertifika kapsamındaki faaliyetleri ile ilgili uyuşmazlıkların hangilerinin Kurul tarafından çözüleceğine ilişkin hükümler,
 8) Sertifikada yer alan hak ve yükümlülüklerin hangi süre, koşul ve hallerde geçersiz olacağına ilişkin hükümler,
 9) Faaliyetlerin teknik gereklere göre yapılmasını sağlayacak hükümler,
-Bulunur.
+bulunur.
 d) Lisans veya sertifikaların sona ermesi: Lisans ve sertifikalar Kurul tarafından lisans veya sertifikada belirtilen yöntem uyarınca süreleri uzatılmadığı takdirde, sürelerinin bitiminde veya lisans veya sertifika sahibi gerçek veya tüzel kişinin iflası halinde kendiliğinden, lisans veya sertifika sahibi gerçek veya tüzel kişinin lisans veya sertifikadan vazgeçmeyi istemesi halinde ise ancak Kurul onayı ile sona erer.
 ÜÇÜNCÜ BÖLÜM
 Rekabetin Korunması ve Geliştirilmesi, Bilgi Verme, Hesap Ayrışımı,
