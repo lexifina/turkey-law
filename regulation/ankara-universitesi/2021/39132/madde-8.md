@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Müdür, Fakültenin kadrolu öğretim üyeleri arasından Rektör tarafından iki yıl için görevlendirilir. Süresi sona eren Müdür aynı yöntemle yeniden görevlendirilebilir. Müdürün altı aydan fazla görevi başında bulunmaması durumunda görevi sona erer ve aynı yöntemle yeni bir Müdür görevlendirilir.
+(2) Müdür, Fakültenin kadrolu öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Müdür yardımcılarının görevi, Müdürün görev süresinin sona ermesiyle biter. Müdür yardımcıları oy hakları olmaksızın Yönetim Kurulu toplantılarına katılırlar.

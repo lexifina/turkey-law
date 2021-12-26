@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-12-26",
+      "26.12.2021",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31701",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-12-26",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Ankara Üniversitesi",
+  "issuer_slug": "ankara-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-universitesi/2021/39132",
+  "published": "2021-12-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39132&MevzuatTertip=5",
+  "source_bytes": 69009,
+  "source_id": "8.5.39132",
+  "source_sha256": "6eb92df286fdc91307c7d676a980526bd58df07300abe6be4c09ec3df32c7c91",
+  "text_status": "as-enacted",
+  "title": "ANKARA ÜNİVERSİTESİ SPORDA PERFORMANS ANALİZİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 180,
+  "word_count": 1744
+}

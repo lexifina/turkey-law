@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu, Müdürün başkanlığında; müdür yardımcıları, spor bilimleri ve ilgili alanlarda bilimsel araştırma ve uygulamalarla doğrudan ilişkisi olan kişiler ile spor bilimleri ve spor bilimleriyle ilişkili alanlarda eğitim, araştırma ve uygulama faaliyetlerinde bulunmuş ve doktorasını bitirmiş öğretim elemanları arasından beş üye olmak üzere en fazla on bir üyeden oluşur. Danışma Kurulu üyeleri, Müdürün önerisi Yönetim Kurulunun kararı üzerine Rektör tarafından iki yıl için görevlendirilir.
+(2) Danışma Kurulu, Müdürün yazılı daveti üzerine yılda en az iki kez toplanır. Toplantıda alınan kararlar tavsiye niteliğindedir.
