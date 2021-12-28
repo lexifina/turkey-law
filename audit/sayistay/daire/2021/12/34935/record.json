@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "840",
+  "decision_date": "2021-12-28",
+  "source_id": 34935,
+  "chamber": "6",
+  "ilam_number": "433",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34935/",
+  "source_sha256": "5242a61be213ab37c45d09dc08e64523957d13b5caa01134284cc41dedb637e4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
