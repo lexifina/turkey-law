@@ -1,0 +1,19 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "board-decision",
+  "number": "2021/DK-ETD/412",
+  "date": "2021-12-28",
+  "title": "Genişbant Kampanyaları Süre Uzatımı",
+  "relevant_unit": "Erişim ve Tarifeler Dairesi Başkanlığı",
+  "publication_date": "2021-12-31",
+  "source": "https://www.btk.gov.tr/kurul-kararlari?page=22",
+  "official_document": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/b3936eb2-a1a4-486d-ba62-ed76a5477ea6.pdf",
+  "source_sha256": "dcc1df57e967f7179357fa7028226dd263c7bdba8830634f548967eb1358a886",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official list fields; decision text is in the linked official PDF, not transcribed",
+  "in_force": "2021-12-28",
+  "in_force_basis": "Decision date as printed in the official BTK list (Karar tarihi ve no): 28.12.2021; adoption date of the board decision; commencement not asserted",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
