@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 6 – (1) 15/2/2004 tarihli ve 25374 sayılı Resmî Gazete’de yayımlanan Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Memurları Disiplin Kurulları ve Disiplin Amirleri Yönetmeliği ile 15/2/2004 tarihli ve 25374 sayılı Resmî Gazete’de yayımlanan Türkiye Elektrik İletim Anonim Şirketi Genel Müdürlüğü Sözleşmeli Personel Disiplin Kurulları ve Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır.

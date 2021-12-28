@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39140",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK İLETİM ANONİM ŞİRKETİ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39140",
+  "issuer": "Türkiye Elektrik İletim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-elektrik-iletim-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-elektrik-iletim-anonim-sirketi-genel-muduru/2021/39140",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39140&MevzuatTertip=5",
+  "source_sha256": "2240e9bcd060858e04f7b9fe3b390b0e61c2a38767881412a414ed09def8a343",
+  "source_bytes": 10781,
+  "published": "2021-12-28",
+  "gazette": "31703",
+  "in_force": "2021-12-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 258,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39140-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
