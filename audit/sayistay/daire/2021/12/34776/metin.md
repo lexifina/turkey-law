@@ -1,0 +1,19 @@
+……………………. Müdürlüğü kontrollüğünde ve ………………………….yüklenimindeki “…………………………..İşi”nde; “Özel Analiz 35 316 Kalite paslanmaz çelik çubuklarla güçlendirmede demir döşenmesi” iş kaleminde, %7 ağırlık fazlası için yersiz ödeme yapılması sonucu ………………. TL kamu zararının sorumlularına ödettirilmesine ………. sayılı İlamın ………….. maddesiyle karar verilmişti. Söz konusu tazmin hükmüne ilişkin olarak sorumlulardan ……………’un (……………..)…………. tarih ve …………, …………..’in (……………...)………… tarih ve …………..,,  …………….’nun (………….) ………..tarih ve……………, ………………..’ın ( ………….) ........ tarih ve ........, ………………’nın (………….) …………. tarih ve…………..,, ……………..’nin (………...)………… tarih ve ……………. Sayıştay evrak kayıt numaralı dilekçeleri üzerine Temyiz Kurulu’nca verilen …………. tarih ve ……., ………., ……., …….., ………., …………, …………… tutanak numaralı bozma kararları çerçevesinde konunun 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin 7’inci fıkrası hükmü gereğince görüşülmesine karar verildi.
+
+Özel Analiz 35 pozunun yeni birim fiyat tarifinde; “Binanın temelinde bulunan çatlakların binanın temeline zarar vermemesi için içten ve dıştan hidrolik kireç esaslı harçla demir takviyesi ile güçlendirilebilmesi için paslanmaz çelik hasırların döşenmesinde her türlü malzeme ve işçilik dahil 1 kg paslanmaz çelik fiyatıdır. Ölçü: KG cinsinden ölçülür.” denilmiş olup söz konusu tarifte, yapılan iş kapsamında kullanılan malzemenin %7 ağırlık fazlası için herhangi bir bedelin ödeneceği öngörülmemiştir.
+
+Yapılan incelemede, “Özel Analiz 35 316 Kalite paslanmaz çelik çubuklarla güçlendirmede demir döşenmesi” pozuna ait metraj cetvelinde kullanılan malzemenin %7 oranında ağırlık fazlası için bedel ödendiği görülmüştür.
+
+Sorumlulardan Gerçekleştirme Görevlisi ……….. (………...) savunmasında, söz konusu ödeme emri belgesini düzenleyen sıfatıyla, ilgili kamu zararından sorumlu tutulmaması gerektiği yönünde itirazda bulunmuştur.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 71’inci maddesinde kamu zararının; “kamu görevlilerinin kasıt, kusur ve ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlandığı, bu çerçevede, kamu zararından ve mali sorumluluktan bahsedilebilmesi için kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemin bulunması; mevzuata aykırı karar, işlem veya eylem sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması durumu ile mevzuata aykırı karar, işlem veya eylem arasında bir illiyet bağının olması şartlarının birlikte aranması gerektiği anlaşılmaktadır.
+
+Muayene ve Kabul Komisyonu tarafından işin sözleşme ve şartnamesine uygun ve tam olarak yapıldığının tespit edilmesi üzerine, düzenlemiş olduğu ödeme emri belgesinde imzası bulunan ve ekli belgelerden ilam konusu hatalı ve mükerrer imalatları tespit etmesi mümkün olmayan, yapım işinin hakediş hazırlama, kontrollük, inceleme, geçici ve kesin kabul gibi işlemlerin hiçbir aşamasında görev almayan ilgilinin, Gerçekleştirme Görevlisi sıfatıyla yapmış olduğu işlem ile oluşan kamu zararı arasında bir illiyet bağının bulunmadığı değerlendirildiğinden, söz konusu ödeme emri belgesini düzenleyen olarak Gerçekleştirme Görevlisi ………….’in (………….) sorumluluğa ilişkin olarak yapmış olduğu itirazın yerinde olduğuna ve oluşan kamu zararından sorumluluğunun bulunmadığına karar verilmiştir.
+
+Bu itibarla, “Özel Analiz 35 316 Kalite paslanmaz çelik çubuklarla güçlendirmede demir döşenmesi” pozuna ait metraj cetvelinde kullanılan malzemenin %7 oranında ağırlık fazlası için yersiz ödeme yapılması sonucu oluşan …………..TL tutarındaki kamu zararının;
+
+Harcama Yetkilisi ……….. (…………..) ile Diğer Sorumlular ………… (…………), …………. (…………….), …………… (………….), ………… (…………...) ve………………’ya (……………..),
+
+Müştereken ve müteselsilen,
+
+6085 sayılı Sayıştay Kanununun 53’üncü maddesi gereği işleyecek faizleri ile ödettirilmesine, oybirliğiyle karar verildi.

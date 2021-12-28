@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "233",
+  "decision_date": "2021-12-28",
+  "source_id": 34776,
+  "chamber": "8",
+  "ilam_number": "317",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34776/",
+  "source_sha256": "b60292cbc8c5980f6da492af86110c06d626c8fa6562b40a32a1441be184a564",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
