@@ -1,0 +1,27 @@
+……………….Bakanlığı …………………….Merkez Müdürlüğü (…………..) ile …………………….arasında ………………… tarihinde imzalanan “…..………………………..İşi”ne ait Sözleşmenin kiracının talebi üzerine karşılıklı olarak sulhen ve rızaen fesih edilerek kesin teminatın iade edilmesi sonucu oluşan …………..TL kamu zararı hakkında, ……….. sayılı İlam’ın ….’uncu maddesiyle verilen tazmin hükmüne ilişkin olarak sorumlulardan ……………’ın (…………...)……….tarih ve …………,…………….’in (…………….)…………… tarih ve……………,  …………’ün (……………….) ………..tarih ve ………………,……………..’un (………….)…………..tarih ve…………….,……………..’ın (………………...)……………..tarih ve ……………. Sayıştay evrak kayıt numaralı dilekçeleri ile……………….’in (……………….)……………….tarihli dilekçesi üzerine Temyiz Kurulu’nca verilen …………… tarih ve ……….., ………., ………., ……….., ………… ile ………….. tutanak numaralı bozma kararları çerçevesinde konunun 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesinin 7’inci fıkrası hükmü gereğince görüşülmesine karar verildi.
+
+6098 sayılı Türk Borçlar Kanunu’nun “Aşırı İfa Güçlüğü” başlıklı 138’nci maddesinde;
+
+“Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural olarak dönme hakkının yerine fesih hakkını kullanır.”
+
+Hükmü yer almaktadır.
+
+Yukarıda yer verilen mevzuat hükmüne istinaden sözleşmeden karşılıklı dönülebilmesi için, sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi de mümkün olmayan olağanüstü bir durumun borçludan kaynaklanmayan bir sebeple ortaya çıkması ile borçlunun aşırı ifa güçlüğüne düşmesi ve kendisinden edimini yerine getirmesinin istenilmesinin dürüstlük kuralı ile bağdaşmıyor olması gerekmektedir.
+
+Yapılan incelemede, …………… ile ………………… arasında 2015-2016-2017 yıllarını kapsayacak şekilde 3 yıllık bir kira sözleşmesinin imzalandığı, söz konusu işin sözleşmesi uyarınca ……..’e 3 yıllık kira bedeli olarak garanti cironun % 15'i olan toplam …………TL+ KDV ödemesinin taahhüt edildiği, 2015 ve 2016 yıllarına ilişkin olarak …………… TL’nin tahsilinin sağlandığı, ancak 2015 yılı Ekim ayından itibaren iç ve dış siyasi, toplumsal temelli meydana gelen gelişmeler ile turizm sektöründe başlayan yavaşlama ve 2016 yılı Temmuz ayında yaşanan darbe girişimi gibi öngörülemeyen sebeplerle bölgede turizmin neredeyse durma noktasına gelmesi gerekçeleriyle, kiracının …………. tarihli dilekçesi ile İdareden sözleşmenin sona erdirilmesini talep ettiği, ………….. Yönetim Kurulu’nun ..... tarihli ve .... sayılı Kararıyla da sözleşmenin “Mücbir Sebepler ve Sonuçları” başlıklı 7’nci maddesine istinaden karşılıklı olarak feshedilmesine ve kesin teminatının iade edilmesine karar verildiği görülmüştür.
+
+…………… Yönetim Kurulu’nun ……….. tarihli ve …… sayılı Kararında;
+
+“………………………………………..
+
+Bu itibarla, sözleşme sonrası ortaya çıkan ve önceden öngörülemeyen, beklenmeyen hallerin vukuu neticesi yüklenicinin edimini yerine getirmesinin iktisaden güç duruma düşmesine ve aşırı ifa güçlüğüne neden olacak nitelikte olması, sözleşmeden hâsıl olması beklenen faydanın veya menfaatin her iki taraf için de gerçekleşmemesi nedeniyle Borçlar Kanunu'nun 138’inci maddesine istinaden;
+
+Bakanlığımız ile ………………………. arasında imzalanan “………………………………..”ne dair sözleşmenin “Mücbir Sebepler ve Sonuçları” başlıklı 7’nci maddesine istinaden karşılıklı olarak fesh edilmesine ve kesin teminatının iade edilmesine Bakanlık Makamının onayına sunulmak üzere oy birliği ile karar verilmiştir.”
+
+Denilmektedir.
+
+Söz konusu Sözleşmenin “Mücbir Sebepler ve Sonuçları” başlıklı 7’nci maddesi (b) bendinde, “Türkiye'de savaş veya seferberlik halleri, halk ayaklanmaları, saldırı veya terör hareketleri, sabotajlar, isyanlar veya çalışanları işinden alıkoyabilecek haller” sözleşmenin feshi için mücbir sebep olarak sayılmaktadır.
+
+Kiracı tarafından feshin gerçekleştiği ………….. tarihine kadar sözleşmede belirtilen garanti cironun üzerinde gelir elde edildiği, bu dönem için .....’ya garanti ciro payının üzerinde ödeme yapıldığı, ancak Temmuz 2016 tarihinde yaşanan darbe girişimi sonrasındaki 5 ay boyunca ödenen ciro payı rakamlarının, bir önceki yılın aynı dönemine ait rakamlarla karşılaştırıldığında gelirin durma noktasına geldiği, Ağustos-Aralık 2015 dönemindeki …………. TL olan ………… ciro payının, Ağustos-Aralık 2016 döneminde ………… TL’ye düştüğü görülmüştür.  Dolayısıyla, sözleşme öncesi öngörülmeyen, öngörülmesi beklenmeyen söz konusu terör olayları, işin ifasını güçleştiren mücbir sebep halidir. Ayrıca, kiralamaya ilişkin sözleşmenin 7’nci maddesinde saldırı ve terör hareketleri açıkça mücbir sebep olarak sayıldığından, fesih gerekçesinin haklı bir sebebe dayandığı ve sözleşmenin feshinin karşılıklı iyi niyet çerçevesinde sona erdirildiği görülmektedir.
+
+Bu itibarla,  “…………………………….İşi"ne ilişkin sözleşmenin, Borçlar Kanunu’nun 138’inci maddesine istinaden mücbir sebep hallerinin varlığı neticesinde karşılıklı feshedilip kesin teminatın iade edilmesi mevzuata uygun olduğundan, uyuşmazlık konusu …………………. TL ile ilgili olarak ilişilecek husus bulunmadığına, oybirliğiyle karar verildi.
