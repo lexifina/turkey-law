@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "235",
+  "decision_date": "2021-12-28",
+  "source_id": 34787,
+  "chamber": "8",
+  "ilam_number": "318",
+  "item_number": 1,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34787/",
+  "source_sha256": "9638e793024b255e4bf1fc3335062aaace89fe12985445d2adbd00afa6de3b36",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
