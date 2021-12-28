@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "839",
+  "decision_date": "2021-12-28",
+  "source_id": 34953,
+  "chamber": "6",
+  "ilam_number": "13",
+  "item_number": 2,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34953/",
+  "source_sha256": "58858d402996542531604878949b95f978962e7955e2b1a243c6f99b1b031af4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
