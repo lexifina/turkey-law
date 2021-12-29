@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2021/51",
+  "meeting_date": "2021-12-29",
+  "meeting_date_as_published": "29.12.2021",
+  "decision_no": "20",
+  "source_id": 17110,
+  "title": "RTÜK kararı 2021/51-20",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/17110",
+  "source_sha256": "a641b990bd305e139e3a6dfefba9c1a25129ab6d5a6b89aa3c8eb1956aceb616",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (8 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
