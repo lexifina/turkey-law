@@ -1,0 +1,2 @@
+Doktora öğrenimini bitiren personelin ataması
+MADDE 21 – (1) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personel hakkında, atanılacak görev için bu Yönetmelik ile belirlenen hizmet süresi ve öğrenim şartını taşımaları kaydıyla uzman veya aynı düzeydeki görevler ile daha alt görevlere yapılacak atamalarda bu Yönetmelik hükümleri uygulanmaz. Ayrıca doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.

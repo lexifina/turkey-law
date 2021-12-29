@@ -1,0 +1,4 @@
+Sınav sonuçlarının açıklanması ve itiraz
+MADDE 16 – (1) (Değişik:RG-25/2/2018-30343) Sınav sonuçları, sonuç tutanağının sınav kurulu tarafından düzenlenmesini müteakip beş iş günü içerisinde Kurum internet sitesinde duyurulur.
+(2) (Değişik:RG-25/2/2018-30343) İlgililer, sonuçların duyurulmasını takip eden beş iş günü içerisinde sınav sonuçlarına yazılı olarak itiraz edebilir. İtiraz başvuruları, sınav kurulu tarafından değerlendirilir; gerek görülen itiraz dilekçeleri sınavı yapan kuruma da iletilir. İtiraz sonuçları en geç on iş günü içerisinde yazılı olarak ilgililere bildirilir. İtiraz üzerine verilen karar kesindir.
+(3) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun ikinci fıkrada belirtilen süre içerisinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi halinde sınav iptal edilir ve en kısa sürede yeni sınav yapılır.

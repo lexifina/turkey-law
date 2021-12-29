@@ -1,0 +1,2 @@
+Açıktan atamalar
+MADDE 20 – (1) 657 sayılı Devlet Memurları Kanununun 92 nci maddesi çerçevesinde yapılacak atamalar hariç olmak üzere, bu Yönetmeliğin 5 inci maddesinin birinci fıkrasının (c) ve (ç) bentlerinde sayılan kadrolar ile unvan değişikliğine tabi kadrolara yapılacak açıktan atamalarda, bu Yönetmelik ile atama yapılacak kadro için belirlenen hizmet süresi ve sınav şartı dışındaki şartlar aranır.

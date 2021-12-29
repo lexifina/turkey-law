@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Görevde Yükselme ve Unvan Değişikliğine İlişkin Esaslar
+Duyuru ve başvuru
+MADDE 10 – (1) Görevde yükselme veya unvan değişikliği için açılacak sınavlarla ilgili duyuru, Kurumun kadro durumu ile ihtiyaçları göz önüne alınarak, Başkan tarafından uygun görülen tarihlerde yapılır.
+(2) (Değişik:RG-25/2/2018-30343) Görevde yükselme veya unvan değişikliği sınavları, sınav tarihinden en az kırk beş gün önce Kurum internet sitesinden duyurulur. Duyuruda, atama yapılacak boş kadroların sınıfı, unvanı, derecesi ve sayısı, aranacak şartlar, sınav konuları, son başvuru tarihi ve diğer hususlar belirtilir. Başvuru süresi en az beş iş günü olarak belirlenir. Bu duyuru üzerine, Kurum personelinden son başvuru tarihi itibarıyla sınav duyurusunda belirtilen şartları taşıyanlar, ilan edilen farklı unvanlı kadrolardan sadece birini tercih etmek suretiyle Destek Hizmetleri Daire Başkanlığına başvuruda bulunur. Anılan Daire Başkanlığı, başvuran adaylara ilişkin bilgileri sınav kurulunun değerlendirmesine sunar ve sınav kurulunca belirlenen sınava katılma şartlarını taşıyan ve taşımayan personele ait listenin Kurum internet sitesinde duyurulmasını sağlar. Aylıksız izinde bulunan Kurum personelinin de başvuruda bulunarak görevde yükselme veya unvan değişikliği sınavına katılması mümkündür. Ancak, aday memur statüsündeki Kurum personeli ile diğer kurumların personeli görevde yükselme veya unvan değişikliği sınavına başvuruda bulunamaz.
+(3) (Mülga:RG-25/2/2018-30343)
+(4) (Mülga:RG-25/2/2018-30343)
