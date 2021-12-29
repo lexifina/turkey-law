@@ -1,0 +1,5 @@
+Çalışanlara ilişkin diğer hükümler
+MADDE 8/A – (Ek:RG-27/12/2018-30638-C.K.-513/9 md.)
+(1) Çalışanların kırkbeş yaşını doldurup doldurmadığının tespitinde, bu Yönetmelik uyarınca emeklilik planına dahil edilmeleri gereken takvim yılının ilk günü esas alınır. Ancak bu maddenin yayımı tarihinden önce emeklilik planına dahil edilmesi gereken çalışanların kırkbeş yaşını doldurup doldurmadığının tespitinde, 4632 sayılı Kanunun Geçici 2 nci maddesi uyarınca 1/1/2017 tarihi esas alınır.
+(2) 22/5/2003 tarihli ve 4857 sayılı İş Kanunu, 5510 sayılı Kanun ve ilgili diğer kanunlar uyarınca çalışan sıfatını haiz olmak kaydıyla, onsekiz yaşını doldurmamış çalışanlar da bu Yönetmelik kapsamında emeklilik planına dahil edilir.
+(3) 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (c) bentlerinde yer almamakla beraber, 5510 sayılı Kanun ve ilgili diğer kanunlar uyarınca, haklarında 5510 sayılı Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (c) bentleri hükümleri uygulanan çalışanlar, bu Yönetmelik kapsamında emeklilik planına dahil edilmez.

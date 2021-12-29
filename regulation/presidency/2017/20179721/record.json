@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20179721",
+  "number": "20179721",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ÇALIŞANLARIN İŞVERENLERİ ARACILIĞIYLA OTOMATİK OLARAK EMEKLİLİK PLANINA DAHİL EDİLMESİNE İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2017-01-02",
+  "enacted": "2017-01-01",
+  "gazette_number": "29936",
+  "in_force": "2021-12-29",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 29/12/2021; source row: 28/12/2021 | 4980 | 4, 8/C | 29/12/2021 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20179721&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "835cb79979bbe4fbb13789b319a4feccf22d02f0ed6cb9c88eeedb47638a8556",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
