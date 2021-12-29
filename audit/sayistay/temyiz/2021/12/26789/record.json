@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50744",
+  "decision_date": "2021-12-29",
+  "source_id": 26789,
+  "chamber": "2",
+  "file_number": "46333",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2017",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26789/",
+  "source_sha256": "a7a01ddc9c851820519c0088a848cfba15cc6eb8db66112689cb6a716a045fc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
