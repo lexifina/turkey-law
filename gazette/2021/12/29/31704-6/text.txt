@@ -1,0 +1,598 @@
+29 Aralık 2021 ÇARŞAMBA
+Resmî Gazete
+Sayı : 31704
+YÖNETMELİK
+Bankacılık Düzenleme ve Denetleme Kurumundan:
+DİJİTAL BANKALARIN FAALİYET ESASLARI İLE SERVİS
+MODELİ BANKACILIĞI HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar
+Amaç ve
+kapsam
+MADDE 1 – (1) Bu Yönetmeliğin amacı, sadece elektronik
+bankacılık hizmetleri dağıtım kanalları üzerinden hizmet veren şubesiz
+bankaların faaliyetlerine ve bankacılık hizmetlerinin finansal teknoloji
+şirketleri ve diğer işletmelere bir servis modeli olarak sunulabilmesine
+ilişkin usul ve esasların belirlenmesidir.
+Dayanak
+MADDE 2 – (1) Bu Yönetmelik, 19/10/2005
+tarihli ve 5411 sayılı Bankacılık Kanununun 4, 6, 7, 10, 13, 35, 43 ve 93
+üncü maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte yer alan;
+a) Açık bankacılık servisleri: BSEBY’nin
+3 üncü maddesinde tanımlanan açık bankacılık servislerini,
+b) Arayüz sağlayıcı:
+Mobil uygulaması ya da internet tarayıcısı temelli arayüzü
+üzerinden, servis bankasının sunduğu bankacılık hizmetlerine bankanın açık
+bankacılık servisleri yoluyla ulaşarak, müşterilerinin bankacılık işlemlerini
+gerçekleştirmesine imkân sağlayan sermaye şirketi şeklinde kurulmuş
+işletmeleri,
+c) ATM: BSEBY’nin 3 üncü
+maddesinde tanımlanan ATM’yi,
+ç) Banka: Kanunun 3 üncü maddesinde tanımlanan
+bankaları,
+d) Bilgi sistemleri yönetimi: BSEBY’nin
+3 üncü maddesinde tanımlanan bilgi sistemleri yönetimini,
+e) BSEBY: 15/3/2020
+tarihli ve 31069 sayılı Resmî Gazete’de yayımlanan Bankaların Bilgi
+Sistemleri ve Elektronik Bankacılık Hizmetleri Hakkında Yönetmeliği,
+f) BS strateji planı: BSEBY’nin
+4 üncü maddesinde belirtilen BS strateji planını,
+g) BT operasyon yönetimi: BSEBY’nin
+26 ncı maddesinde belirtilen BT operasyon
+yönetimini,
+ğ) Destek hizmeti kuruluşu: Kanunun 3 üncü
+maddesinde tanımlanan destek hizmeti kuruluşunu,
+h) Destek Hizmetleri Yönetmeliği: 5/11/2011 tarihli ve 28106 sayılı Resmî Gazete’de
+yayımlanan Bankaların Destek Hizmeti Almalarına İlişkin Yönetmeliği,
+ı) Dış hizmet: BSEBY’nin
+3 üncü maddesinde tanımlanan dış hizmeti,
+i) Dijital banka: Bankacılık hizmetlerini fiziksel
+şubeler yerine elektronik bankacılık hizmetleri dağıtım kanalları
+aracılığıyla sunan kredi kuruluşunu,
+j) Elektronik bankacılık hizmetleri: BSEBY’nin 3 üncü maddesinde tanımlanan elektronik
+bankacılık hizmetlerini,
+k) Elektronik para: 20/6/2013
+tarihli ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme
+Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanunun 3 üncü
+maddesinde tanımlanan elektronik parayı,
+l) Finansal kuruluş: Kanunun 3 üncü maddesinde tanımlanan
+finansal kuruluşu,
+m) Finansal tüketici: 7/3/2020
+tarihli ve 31061 sayılı Resmî Gazete’de yayımlanan Finansal Tüketicilerden
+Alınacak Ücretlere İlişkin Usûl ve Esaslar
+Hakkında Tebliğ (Sayı: 2020/7)’in 4 üncü maddesinde tanımlanan finansal
+tüketiciyi,
+n) Fon: 6493 sayılı Kanunun 3 üncü maddesinde
+tanımlanan fonu,
+o) Hakim ortak: Kanunun 3
+üncü maddesinde tanımlanan hakim ortağı,
+ö) İnternet bankacılığı: BSEBY’nin
+3 üncü maddesinde tanımlanan internet bankacılığını,
+p) İTİY: 1/11/2006 tarihli
+ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların İzne Tabi İşlemleri
+ile Dolaylı Pay Sahipliğine İlişkin Yönetmeliği,
+r) Kanun: 5411 sayılı Bankacılık Kanununu,
+s) Katılım bankası: Kanunun 3 üncü maddesinde
+tanımlanan katılım bankasını,
+ş) Katılım fonu: Kanunun 3 üncü maddesinde
+tanımlanan katılım fonunu,
+t) Kesinti: BSEBY’nin 3
+üncü maddesinde tanımlanan kesintiyi,
+u) Kontrol: Kanunun 3 üncü maddesinde tanımlanan
+kontrolü,
+ü) Kurul: Bankacılık Düzenleme ve Denetleme
+Kurulunu,
+v) Kurum: Bankacılık Düzenleme ve Denetleme
+Kurumunu,
+y) Küçük ve orta büyüklükteki işletmeler (KOBİ):
+Sermaye Yeterliliği Yönetmeliğinin 3 üncü maddesinde tanımlanan ve
+sınırları Sermaye Yeterliliği Yönetmeliği uyarınca Kurul tarafından
+belirlenen KOBİ’yi,
+z) Kredi kuruluşu: Kanunun 3 üncü maddesinde
+tanımlanan kredi kuruluşunu,
+aa) Mevduat: Kanunun 3 üncü maddesinde tanımlanan
+mevduatı,
+bb) Mevduat bankası: Kanunun 3 üncü maddesinde
+tanımlanan mevduat bankasını,
+cc) Mobil bankacılık: BSEBY’nin
+3 üncü maddesinde tanımlanan mobil bankacılığı,
+çç) MTBF: İki arıza veya kesinti arası ortalama
+süreyi,
+dd) MTTR: Yaşanan arıza veya kesinti sonrası ortalama
+tamir süresini,
+ee) Ödeme aracı: 6493 sayılı Kanunun 3 üncü
+maddesinde tanımlanan ödeme aracını,
+ff) Ödeme hizmeti sağlayıcısı: 6493 sayılı Kanunun 13
+üncü maddesinde belirtilen kuruluşları,
+gg) Ön ödemeli ödeme aracı: Müşterinin ödemelerde
+kullanılabilecek fonu, ödeme aracını ihraç eden bankaya harcama yapmadan
+önce ödediği ve ödenene eşdeğer tutarda fonun elektronik para olarak ödeme
+hizmetlerinde kullanılmasına imkân veren fizikî veya fizikî varlığı
+bulunmayan ödeme aracını,
+ğğ) POS: 10/3/2007 tarihli
+ve 26458 sayılı Resmî Gazete’de yayımlanan Banka Kartları ve Kredi Kartları
+Hakkında Yönetmeliğin 4 üncü maddesinde tanımlanan POS’u,
+hh) Risk Merkezi: Kanunun ek 1 inci maddesinde
+düzenlenen Risk Merkezini,
+ıı) Sermaye Yeterliliği Yönetmeliği: 23/10/2015 tarihli ve 29511 sayılı Resmî Gazete’de
+yayımlanan Bankaların Sermaye Yeterliliğinin Ölçülmesine ve
+Değerlendirilmesine İlişkin Yönetmeliği,
+ii) Servis bankası: Servis modeli bankacılığı
+hizmetlerini sunan bankayı,
+jj) Servis modeli bankacılığı: Arayüz
+sağlayıcıların sundukları arayüz yoluyla,
+müşterilerin servis bankalarının sistemleriyle doğrudan açık bankacılık
+servisleri aracılığıyla bağlantı kurarak servis bankası üzerinden
+bankacılık işlemlerini gerçekleştirebildikleri hizmet modelini,
+kk) Sır Yönetmeliği: 4/6/2021
+tarihli ve 31501 sayılı Resmî Gazete’de yayımlanan Sır Niteliğindeki
+Bilgilerin Paylaşılması Hakkında Yönetmeliği,
+ll) Süreklilik Yüzdesi: MTBF/(MTBF+MTTR) formülü ile
+bulunacak yüzdesel değeri,
+mm) Şube: Kanunun 3 üncü maddesinde tanımlanan
+şubeyi,
+nn) Teşkilat Yönetmeliği: 2/1/2014
+tarihli ve 2014/5885 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan
+Bankacılık Düzenleme ve Denetleme Kurumu Teşkilat Yönetmeliğini,
+oo) UKTY: 1/4/2021 tarihli
+ve 31441 sayılı Resmî Gazete’de yayımlanan Bankalarca Kullanılacak Uzaktan
+Kimlik Tespiti Yöntemlerine ve Elektronik Ortamda Sözleşme İlişkisinin
+Kurulmasına İlişkin Yönetmeliği,
+öö) Veri işleme: Sır Yönetmeliğinin 3 üncü maddesinde
+tanımlanan veri işlemeyi,
+ifade eder.
+İKİNCİ BÖLÜM
+Dijital Bankaların Faaliyet Esasları
+Genel
+esaslar
+MADDE 4 – (1) Dijital bankalar, bu Yönetmelikte ya da ilgili
+alt düzenlemelerde aksi belirtilmediği sürece, mevduat ya da katılım
+bankası olmalarına göre, kredi kuruluşlarının gerçekleştirebileceği tüm
+faaliyetleri yerine getirebilirler. Dijital bankalar, Kanun ve ilgili
+düzenlemeler çerçevesinde kredi kuruluşlarının uymakla yükümlü olduğu tüm
+mevzuat hükümlerine ilave olarak bu Yönetmelikte yer verilen hükümlere de
+uymakla yükümlüdürler.
+Faaliyet
+kısıtlamaları
+MADDE 5 – (1) Dijital bankaların kredi müşterileri, yalnızca
+finansal tüketicilerden ve KOBİ’lerden oluşabilir.
+(2) Dijital bankaların, bankalar arası piyasalarda
+ya da para ve sermaye piyasalarında faaliyet göstermek suretiyle Kanunun 48
+inci maddesinde kredi olarak sayılan işlemler gerçekleştirmesi, diğer
+bankalara kredi kullandırması, KOBİ boyutunu aşan işletmeler için döviz
+kredisi kullandırması birinci fıkraya aykırılık teşkil etmez. Dijital
+bankalar, KOBİ boyutunu aşmayan işletmelere hizmet sunmaya başladıktan
+sonra, söz konusu işletmelerin KOBİ boyutunu aşması durumunda, söz konusu
+işletmeler yeniden KOBİ boyutu sınırlarına dâhil oluncaya kadar yalnızca,
+bu fıkrada KOBİ boyutunu aşan müşterilere sunulabileceği belirtilen
+hizmetleri sunabilir.
+(3) Dijital bankalar genel
+müdürlük ile genel müdürlüğe bağlı hizmet birimleri dışında muhabirlik,
+acentelik, temsilcilik gibi her ne ad altında olursa olsun teşkilatlanmaya
+gidemez, fiziksel şube açamaz, genel müdürlüğe bağlı hizmet birimlerini
+amacı dışında fiziksel şube gibi kullandıramaz, dijital ortamda
+gerçekleştirilecek olanlar hariç kiralık kasa ve emanete alma işlemleri ile
+saklama hizmetlerini sunamaz. Bir şube gibi kullanılmadığı müddetçe 6 ncı madde uyarınca müşteri şikâyetlerini ele almak
+amacıyla fiziksel bürolar oluşturulması, pazarlama hizmetleri kapsamında
+alınan hizmetler de dâhil olmak üzere Destek Hizmetleri Yönetmeliğine uygun
+olarak destek hizmeti kuruluşlarından müşteri ile yüz yüze iletişim
+kurulacak şekilde hizmet alınması ya da elektronik bankacılık hizmetleri
+dağıtım kanallarında başlayıp bu kanallarda fiili imkânsızlık nedeniyle
+tamamlanamayan ve 6 ncı maddede belirtilen
+fiziksel erişim noktalarından da gerçekleştirilemeyen işlemlerin dijital
+bankanın kendi personeli ya da destek hizmeti aldığı kuruluş personeli
+vasıtasıyla müşteri ile yüz yüze iletişim kurularak tamamlanması, bu fıkra
+hükümlerine aykırılık teşkil etmez.
+(4) Dijital bankaların, bir
+müşterisine kullandırabileceği, kredi kartları ile gerçekleştirilen
+harcamalar ve nakit çekimleri ile kredili mevduat hesapları hariç olmak
+üzere, teminatsız nakdi tüketici kredilerinin toplamı, ilgili müşterinin
+beyan edilen ve dijital bankalarca teyit edilen aylık ortalama net
+gelirinin dört katını ve müşterinin aylık ortalama net gelirinin tespit edilememesi
+halinde on bin Türk Lirasını aşamaz. Kurul bu hükümde belirtilen oran ve tutarı değiştirmeye yetkilidir.
+Gelirle bağlantılı söz konusu tutar kontrolleri, dijital bankanın yalnızca
+kendi müşterilerine yönelik kullandırdığı krediler için gerçekleştirilir.
+Dijital bankaların, müşterileri hakkında müşterinin kredi ödeme performansı,
+varlık ve yükümlülükleri, diğer bankalarca bu kişilere tahsis edilen kredi
+kartı limiti, ekonomik ve sosyal statüsü, eğitim düzeyi, yaşı ve benzeri
+ödeme gücünün değerlendirilmesinde etkili olabilecek hususlara ilişkin
+alacakları beyan ve temin edecekleri belgeler çerçevesinde, objektif kriterlere dayanmak şartıyla kendi gelir tahmin
+modellerini kullanarak yapacakları değerlendirmeler neticesinde tespit
+edecekleri gelirler, bu fıkrada belirtilen gelir teyidi niteliği taşır. Söz
+konusu gelir tespitine dayanak teşkil eden belge ve kayıtların denetime
+hazır bulundurulması ve dijital bankanın kullandığı gelir tahmin
+modellerinin bu belge ve kayıtlara göre makul ve tutarlı sonuçlar üretmesi
+şarttır.
+(5) 23/2/2016 tarihli ve
+29633 sayılı Resmî Gazete’de yayımlanan Sistemik Önemli Bankalar Hakkında Yönetmeliğe
+göre ikinci grupta yer alan sistemik önemli bankalara uygulanan sistemik
+önemli banka tamponu, anılan Yönetmelikte düzenlenen usul ve esaslara göre
+dijital bankalar için de kıyasen uygulanır.
+(6) Dijital bankanın, faaliyet izni sürecinde ya da
+faaliyet izni aldıktan sonra 9 uncu maddede belirtilen faaliyet izni için
+gerekli asgari ödenmiş sermaye tutarını, nakden ve her türlü muvazaadan ari olarak ödenmiş olmak üzere, iki milyar beşyüz milyon Türk Lirasına çıkarması halinde, dijital
+bankanın yapacağı başvuru üzerine Kurul, yeni durumda risklerini
+yönetebileceğine kanaat getirdiği dijital bankalar için bu maddede yer
+verilen faaliyet kısıtlamalarının tamamen ya da uygun göreceği bir geçiş
+planı çerçevesinde kademeli olarak kaldırılmasına karar verebilir.
+Başvurunun Kurulca uygun görülerek faaliyet kısıtlarının tamamen
+kaldırılması sonrasında, dijital bankanın, bu maddede yer verilen faaliyet
+kısıtlamalarına tabi olmaksızın, diğer kredi kuruluşlarının yapabileceği
+tüm bankacılık faaliyetlerini ilgili mevzuat çerçevesinde yerine getirmesi
+mümkün hale gelir. Kurul bu fıkrada yer verilen ödenmiş sermaye tutarını
+artırmaya yetkilidir.
+Fiziksel
+erişim noktaları
+MADDE 6 – (1) Dijital bankaların, müşteri şikâyetlerini ele
+almak üzere en az bir fiziksel büro kurması zorunludur.
+(2) Dijital bankalar kendi kuracakları ATM ağları
+ya da diğer ATM ağları üzerinden müşterilerine hizmet sunabilir.
+(3) Dijital bankalar, 23/2/2006
+tarihli ve 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu ile 6493
+sayılı Kanun uyarınca ihraç edecekleri ödeme araçlarını kabul etmek üzere
+kendileriyle anlaşma yapan işyerleri vasıtasıyla, müşterilerine nakit çekim
+ya da ön ödemeli ödeme araçlarına bakiye yükleme hizmeti verebilir. Söz konusu hizmetlerin sunulması esnasında, tutar bilgisini de
+içermek suretiyle işlemin gerçekleştirildiğinin teyit edildiğini gösterecek
+şekilde, müşteriye ödeme araçlarının kabul edildiği POS cihazları üzerinden
+kâğıt ortamında ya da internet ve mobil bankacılık dağıtım kanalları
+üzerinden sorgulama ve görüntüleme imkânı verecek şekilde elektronik
+ortamda, nakit ödeme ya da bakiye yükleme belgesinin bir nüshasının
+sunulması zorunludur.
+Hizmet
+sürekliliği taahhüdü
+MADDE 7 – (1) Dijital bankalar, sunmakta oldukları
+elektronik bankacılık hizmetleri için, her bir dağıtım kanalı bazında,
+taahhüt edilen süreklilik yüzdesi değerlerini internet sitelerinin ana
+sayfasında görünecek şekilde ilan ederler. Dijital bankaların internet bankacılığı
+ve mobil bankacılık dağıtım kanalları için taahhüt edilen süreklilik
+yüzdesi %99,8’den daha düşük bir değer olamaz.
+(2) Dijital bankalar, sunmakta oldukları elektronik
+bankacılık hizmetleri için, her bir dağıtım kanalı bazında, taahhüt edilen
+ve gerçekleşen MTBF, MTTR ve süreklilik yüzdesi değerlerini Kurumun
+belirleyeceği usul ve esaslara göre raporlamakla yükümlüdürler.
+ÜÇÜNCÜ BÖLÜM
+Dijital Bankaların Kuruluş ve Faaliyet İzninde
+Aranan İlave Şartlar
+Kuruluş
+ve faaliyet izni genel şartları
+MADDE 8 – (1) Dijital bankaların kuruluş ve faaliyet izni
+genel şartları, İTİY’de bankaların kuruluş ve
+faaliyet izni almalarına ilişkin yer verilen şartlardır. Bu Yönetmelikte
+dijital bankaların kuruluş ve faaliyet izni şartlarına ilişkin yer verilen
+hükümler, İTİY’de yer alan hükümler saklı kalmak
+üzere ilave hükümler olarak uygulanır.
+(2) Başvuru sahibinin hâkim
+ortaklarının teknoloji, elektronik ticaret ya da telekomünikasyon
+hizmetleri sunan tüzel kişiler olması durumunda, Kurul söz konusu hâkim
+ortak tüzel kişilerin ya da bu tüzel kişilerin kontrolünü elinde bulunduran
+gerçek ve tüzel kişilerin Türkiye’de yerleşik olmasını ve Türkiye’de
+yerleşik kişilerin borçluluk durumu ve mali gücüne ilişkin ellerinde
+bulundurdukları risk verilerini paylaşmaya yönelik olarak Risk Merkezi ile
+bilgi alışverişi sözleşmesi imzalamış olmalarını şart koşabilir.
+Faaliyet
+izni için gerekli asgari ödenmiş sermaye
+MADDE 9 – (1) Dijital bankaların faaliyet izni alabilmesi
+için gerekli olan asgari ödenmiş sermaye tutarı, nakden ve her türlü
+muvazaadan ari olarak ödenmiş olmak üzere, bir
+milyar Türk Lirasıdır. Kurul bu tutarı artırmaya yetkilidir.
+Yöneticilerde
+aranan şartlar
+MADDE 10 – (1) İTİY’nin 7 nci maddesinin ikinci fıkrası uyarınca yönetici
+düzeyindeki personelin yeterliliğine ilişkin yapılacak değerlendirme
+çerçevesinde, yönetici düzeyindeki personelin, icrai
+görevi olup olmadığına bakılmaksızın, dijital bankaların iş modelinin
+yapısına özgü riskleri anlamalarını ve görevlerini yerine getirmelerini
+sağlayacak yeterli bilgiye ve deneyime sahip olup olmadıkları da dikkate
+alınır. Bu kapsamda, bilgi sistemlerinden sorumlu en üst düzey yönetici
+olarak belirtilen personelin en az genel müdür yardımcısı seviyesinde
+atanmış olması ve dijital bankanın yönetim kurulu üyelerinden en az birinin
+bilgi sistemleri yönetimi alanında en az on yıl mesleki tecrübeye sahip
+olması şarttır.
+Faaliyet
+programı ve iş planı
+MADDE 11 – (1) İTİY’nin 4 üncü
+maddesinin birinci fıkrasının (a) ve (p) bentleri uyarınca Kuruma
+iletilmesi gereken faaliyet programı ve iş planı dokümanlarında ayrıca
+aşağıdaki hususlara yer verilir:
+a) İş planı dokümanında ilave olarak,
+1) Başvuru sahibinin, finansal kapsayıcılığı
+artırmaya yönelik olarak belirlediği, öğrenciler, ev hanımları, onsekiz yaş altı gençler, KOBİ’ler gibi hedef kitle ile
+bu hedef kitlede yer alan gruplara yönelik tespit ettiği ihtiyaçlar ve bu
+ihtiyaçları karşılamaya yönelik sunmayı planladığı ürün ve hizmetler ile
+pazarlama stratejisine,
+2) Hedef kitlenin oluşturduğu pazara ilişkin
+sayısal verilerle desteklenmiş pazar büyüklüğü ve pazar boşluğu analizine,
+3) Seçilen pazardaki diğer oyuncularla rekabet
+edebilmek ve sürdürülebilir bir iş modelini sağlamak üzere gelecek beş yıla
+ilişkin fiyatlama politikası, edinilmesi planlanan tahmini müşteri sayısı
+ve yapılan yatırımın ne zaman başa baş noktasına
+geleceğini de öngören finansal projeksiyonlar ve tahmini finansal tablolar
+ile bu tahminler için temel teşkil eden varsayımların makul olduğunu
+gösterir sayısal analizlere,
+yer verilir.
+b) Faaliyet programı dokümanında ilave olarak,
+1) Kritik olarak belirlenmiş sistemleri de
+gösterecek şekilde sistem ve ağ mimarisinin genel görünümüne,
+2) BS strateji planına,
+3) Planlanan bilgi sistemleri yönetimi yapısı
+kapsamında, BSEBY’de düzenlenen bilgi sistemleri
+risk yönetim sürecinin, bilgi güvenliği yönetimi sürecinin, bilgi
+sistemleri proje yönetiminin, BT operasyon yönetiminin, erişilebilirlik
+yönetimi sürecinin, bilgi sistemleri süreklilik yönetim sürecinin ve dış
+hizmet alımı süreci yönetiminin nasıl ele alınacağını açıklayan süreç
+dokümanlarına,
+4) Bilgi sistemlerine ilişkin dış hizmet alınması
+planlanıyor ise dış hizmet sağlayıcılarının ve bu sağlayıcılardan hangi
+hizmetlerin alınacağının listesi ile bu dış hizmet sağlayıcılara ilişkin
+yapılan risk değerlendirmesine,
+5) Müşteri talep, şikâyet ve itirazlarının
+alınmasını ve değerlendirilerek sonucu hakkında ilgililere cevap verilmesini
+sağlayacak sistemin işleyişine ve iş akışına ilişkin detaylı bilgilere,
+6) Elektronik bankacılık hizmetleri dağıtım
+kanallarında işlem güvenliğinin nasıl sağlanacağına ve müşteri kimliğinin
+nasıl doğrulanacağına ilişkin dağıtım kanalı bazında detaylı bilgilere,
+7) UKTY uyarınca gerçekleştirilecek uzaktan kimlik
+tespit sürecinde işlem doğruluk yüzdesini artırmak bakımından kullanılan
+teknoloji ve iş akışlarına ilişkin bilgilere,
+8) UKTY uyarınca elektronik ortamda müşteri ile
+kurulacak sözleşme ilişkilerinde, müşteriye sözleşme içeriği olarak hangi
+bilgiler gösterilmiş ise müşteri tarafından yalnızca o bilgilerin onaylanmasının
+sağlanması konusunda güvence sağlayacak teknik kontrollere ilişkin
+bilgilere,
+yer verilir.
+Bilgi
+sistemlerinin yeterlilik değerlendirmesi
+MADDE 12 – (1) İTİY’nin 7 nci maddesinin
+ikinci fıkrası uyarınca yapılacak değerlendirme sonucunda faaliyet izni
+verilebilmesi için, başvuru sahibinin bilgi sistemlerinin yeterliliği
+konusunda, Teşkilat Yönetmeliğine göre Kurumun gözetim ve denetimine tabi
+kuruluşların bilgi sistemlerinin yerinde denetimi ile görevli hizmet
+biriminin, 11 inci madde uyarınca faaliyet programı kapsamında iletilecek
+ilave belgeleri de dikkate almak suretiyle yapacağı değerlendirme
+neticesinde uygun görüşünün bulunması şartı aranır. Söz konusu hizmet
+birimi gerekli gördüğü takdirde başvuru sahibinden, Kurum tarafından bilgi
+sistemleri ve iş süreçleri denetimi yapma yetkisi verilen ve unvanları
+Kurum internet sitesinde duyurulan bağımsız denetim kuruluşları arasından
+birine, bilgi sistemlerinin ve bu sistemler üzerinde tesis ettiği
+kontrollerinin yeterliliği ve etkinliğine ilişkin bilgi sistemleri bağımsız
+denetim raporu hazırlatmasını isteyebilir.
+DÖRDÜNCÜ BÖLÜM
+Servis Modeli Bankacılığı
+Servis
+modeli bankacılığı esasları
+MADDE 13 – (1) Servis bankası yalnızca yurt içinde yerleşik arayüz sağlayıcılara ve yalnızca kendi faaliyet
+izinleri çerçevesinde servis modeli bankacılığı hizmeti verebilir.
+(2) Bankalar arayüz
+sağlayıcı olamaz.
+(3) Servis bankasının hizmet
+sunduğu arayüz sağlayıcılar, gereken izinleri
+almaksızın ticaret unvanlarında, her türlü belge, ilân ve reklamlarında
+veya kamuoyuna yaptıkları açıklamalarda banka ya da ödeme kuruluşu ve
+elektronik para kuruluşu gibi ödeme hizmeti sağlayıcısı adlarını ya da
+banka veya banka dışındaki ödeme hizmeti sağlayıcısı gibi faaliyet
+gösterdikleri, banka gibi mevduat ve katılım fonu topladıkları ya da ödeme
+hizmeti sağlayıcısı gibi fon topladıkları izlenimini uyandıracak söz ve
+deyimleri kullanamazlar. Kredi
+tahsis kararı da dâhil olmak üzere, arayüz sağlayıcının
+arayüzü üzerinden servis modeli bankacılığı
+yoluyla, müşteriye bankacılık hizmetlerinin sunulup sunulmamasına servis
+bankası karar verir ve müşteriye sunulacak bankacılık hizmetleri servis
+bankasının bilançosu üzerinden gerçekleştirilir.
+(4) Servis bankasının arayüz
+sağlayıcının müşterisine bankacılık hizmetleri sunabilmesi için söz konusu
+müşteri ile servis bankası arasında Kanunun 76 ncı
+maddesi uyarınca sözleşme ilişkisinin kurulması gereklidir. Söz konusu
+sözleşme ilişkisinin elektronik ortamda kurulması halinde, sürecin UKTY’ye uygun olarak yürütülmesi ve müşteri kimliğinin UKTY’ye uygun olarak servis bankası tarafından tespit
+edilmesi zorunludur. Servis bankası ile müşteri arasındaki sözleşme
+ilişkisi kurulması sürecinin arayüz sağlayıcının
+mobil uygulaması ya da internet tarayıcısı temelli arayüzü
+üzerinden başlatılıp yine bu hizmet kanalları üzerinden tamamlanması
+halinde, arayüz sağlayıcının söz konusu hizmet
+kanallarının BSEBY’de yer verilen güvenlik kriterlerine uygun olması ve müşteriye sözleşme içeriği
+olarak hangi bilgiler gösterilmiş ise müşteri tarafından yalnızca o
+bilgilerin onaylanmasının sağlanması konusunda güvence sağlayacak nitelikte
+olması servis bankasının sorumluluğundadır.
+(5) Müşterinin servis bankasının sunduğu hizmetlere
+erişmede kullandığı arayüz sağlayıcının mobil
+uygulaması ya da internet tarayıcısı temelli arayüzünün,
+BSEBY’nin üçüncü kısmında elektronik bankacılık
+hizmetlerine ilişkin yer verilen kimlik doğrulama ve işlem güvenliği
+yükümlülüklerine uygun olmasını sağlamak konusunda arayüz
+sağlayıcı ve servis bankası müteselsilen
+sorumludurlar. Servis bankası, bu yükümlülükleri yerine getirmeyen ya da
+sistemleri bu yükümlülükleri yerine getirme konusunda yetersiz olan arayüz sağlayıcılara servis modeli bankacılığı hizmeti
+sunamaz ve bunlardan destek hizmeti alamaz.
+(6) Arayüz sağlayıcı,
+servis bankasından hizmet almasının yanında, servis bankası ile müşteri
+arasında sözleşme ilişkisinin kurulmasına aracılık etmesi veya bu sözleşme
+kapsamında sağlamakta olduğu arayüz üzerinden,
+müşteriye servis bankası tarafından bankacılık hizmetlerinin sunulmasına
+imkân sağlaması bakımından, Destek Hizmetleri Yönetmeliği kapsamında servis
+bankasına hizmet sunan bir destek hizmeti kuruluşu niteliğindedir. Arayüz
+sağlayıcının, servis bankası adına mevduat ya da katılım fonu kabul
+etmemesi ve arayüz sağlayıcının ödeme hizmeti
+sağlayıcısı olduğu durumlar hariç olmak üzere mevduat ya da katılım fonunun
+hiçbir suretle arayüz sağlayıcı üzerinden servis
+bankasına yatırılmaması kaydıyla, bu destek hizmeti Destek Hizmetleri
+Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (ç) bendinde belirtilen
+mevduat veya katılım fonu kabulü ile mevduat veya katılım fonu kabulüne
+yönelik pazarlama faaliyeti olarak kabul edilmez. Servis bankasının,
+arayüz sağlayıcının hizmet kanalları aracılığıyla
+kredi kartı talebi toplamak suretiyle arayüz
+sağlayıcıdan destek hizmeti alması mümkün olup, servis bankasının arayüz sağlayıcıdan alacağı destek hizmetleri için
+Destek Hizmetleri Yönetmeliğinin 4 üncü maddesinin yedinci fıkrasındaki
+sınırlamalar uygulanmaz. Arayüz sağlayıcı olarak
+bir servis bankasına destek hizmeti verilebilmesi, Teşkilat Yönetmeliğine
+göre Kurumun gözetim ve denetimine tabi kuruluşların bilgi sistemlerinin
+yerinde denetimi ile görevli hizmet birimi tarafından tekemmül ettirilecek
+şekilde, Kurulun iznine tabidir. Kurul servis bankalarının hizmet
+alabileceği arayüz sağlayıcılarda aranacak ilave
+şartlar ile bu hizmet alımlarına ilişkin ilave usul ve esasları belirlemeye
+yetkilidir.
+(7) Arayüz sağlayıcının
+servis bankasına sunduğu altıncı fıkra kapsamındaki destek hizmetlerine
+ilişkin faaliyetlerini yürütmede kullandığı sistemler ve bunların
+yedekleri, 11/7/2014 tarihli ve 29057 sayılı Resmî
+Gazete’de yayımlanan Bankaların İç Sistemleri ve İçsel Sermaye Yeterliliği
+Değerlendirme Süreci Hakkında Yönetmeliğin 3 üncü maddesinde tanımlanan
+birincil sistemler kapsamında kabul edilir ve servis bankasının bu kapsamda
+arayüz sağlayıcı ile yapacağı sır niteliğindeki
+bilgi paylaşımları Sır Yönetmeliğinin 5 inci maddesinin ikinci fıkrasının
+(ç) bendi kapsamındadır. Arayüz sağlayıcının mobil uygulaması ya da internet tarayıcısı
+temelli arayüzü üzerinden, beşinci fıkraya uygun
+olarak müşteri tarafından başlatılan işlemler ve girilen emirler, Sır
+Yönetmeliğinin 6 ncı maddesinin altıncı
+fıkrasının uygulanması kapsamında servis bankasının elektronik bankacılık
+hizmetleri dağıtım kanalları üzerinden başlatılan işlemler ya da girilen
+emirler olarak kabul edilir ve müşterinin talep ya da talimatı yerine
+geçer.
+(8) Servis bankasının, bir arayüz
+sağlayıcıya hizmet verebilmesi için aralarındaki hizmet sözleşmesinde;
+a) Arayüz sağlayıcının
+müşteri ile arasında kurulacak sözleşmede, arayüz
+sağlayıcının faaliyet izni almış bir banka ya da gerekli faaliyet
+izinlerini almamış olduğu durumlarda ödeme hizmeti sağlayıcısı veya
+faaliyet iznine tabi diğer bir finansal kuruluş olmadığının açıkça
+vurgulanması,
+b) Arayüz
+sağlayıcı ile müşteri arasında kurulacak sözleşmede, bankacılık
+hizmetlerinin servis bankası tarafından sunulduğuna, servis bankası
+tarafından sunulan hizmetlerin neler olduğuna ve servis bankasının
+sorumluluklarına, servis bankası ile müşteri arasında geçerli olan sözleşme
+hükümlerine ve servis bankası hizmetlerinin diğer kullanım şartlarına
+ilişkin servis bankası internet sayfası adresine, müşterinin servis
+bankasına talep ve şikâyetlerini iletebilmesi için servis bankasınca
+sunulan müşteri hizmetlerinin internet sayfası adresi ile çağrı merkezi
+telefon numarasına açıkça yer verilmesi,
+c) Arayüz sağlayıcı ile
+müşteri arasındaki tip sözleşmenin bir örneği ile servis bankası ile
+müşteri arasında kurulan tip sözleşmenin bir örneğine, arayüz
+sağlayıcının internet sitesinin ana sayfasında görünecek şekilde yer verilmesi,
+ç) Arayüz sağlayıcının
+internet sitesinin ana sayfasında görünecek şekilde hizmet alınan servis
+bankasının/bankalarının logosu ve ismine yer verilmesi,
+d) Servis bankasının arayüz
+sağlayıcı için kartlı ödeme aracı ihraç etmesi halinde, söz konusu ödeme
+aracının üzerinde banka adı ve logosunun görünür bir şekilde yer alması,
+e) Arayüz sağlayıcıya
+müşterinin talebi doğrultusunda aktarılan sır niteliğindeki verilerin;
+1) Arayüz sağlayıcı ile
+müşteri arasındaki sözleşmenin kurulması veya ifasıyla doğrudan doğruya
+ilgili olması kaydıyla, işlemenin gerekli olması,
+2) Arayüz sağlayıcının
+hukuki yükümlülüğünü yerine getirebilmesi için işlemenin zorunlu olması,
+3) Arayüz sağlayıcı için
+bir hakkın tesisi, kullanılması veya korunması için işlemenin zorunlu
+olması,
+durumları haricinde arayüz
+sağlayıcı tarafından ya da arayüz sağlayıcı adına
+arayüz sağlayıcının hizmet aldığı servis bankası
+dışındaki taraflarca işlenmemesi ve yalnızca bu durumların gerektirdiği
+ölçü ve süre ile sınırlı olarak söz konusu verilerin işlenmesi,
+f) (e) bendi uyarınca arayüz
+sağlayıcı ya da arayüz sağlayıcı adına arayüz sağlayıcının hizmet aldığı taraflarca sır
+niteliğindeki verilerin işlendiği sistem ve veri yedeklerinin yurt içinde
+bulundurulması,
+g) (f) bendinde belirtilen sistem
+ve veri yedekleri kapsamında arayüz sağlayıcının
+bulut bilişim hizmeti alması halinde, söz konusu hizmetlerin BSEBY’nin 29 uncu maddesinin on birinci fıkrasında
+belirtildiği üzere ancak arayüz sağlayıcının
+kendisine tahsis edilmiş donanım ve yazılım kaynakları üzerinden özel bulut
+hizmet modeliyle ya da sadece Kurumun gözetim ve denetimine tabi
+kuruluşlara tahsis edilmiş donanım ve yazılım kaynaklarının fiziksel olarak
+paylaşıldığı ancak mantıksal olarak her kuruluşa özgü ayrı kaynağın
+atandığı ve Kurulun izin verdiği topluluk bulutu hizmet modeliyle dış
+hizmet alınması,
+ğ) Servis bankasının, arayüz
+sağlayıcıdan aldığı destek hizmetleri ile arayüz
+sağlayıcıya sunduğu hizmetlerle sınırlı olmak üzere, müşteri sırrı
+niteliğindeki verilerin gizliliğinin ve güvenliğinin sağlanması ile
+dördüncü ve beşinci fıkralar kapsamında arayüz
+sağlayıcının hizmet kanalları üzerinden gerçekleştirilecek işlemlerin BSEBY’nin kimlik doğrulama ve işlem güvenliği kriterlerine uygun olmasının sağlanması konusunda servis
+bankasının arayüz sağlayıcı nezdinde denetim
+yapabilmesine ve ilgili bilgi, belge ve kayıtları incelemesine imkân
+sağlanması,
+h) Arayüz sağlayıcının
+sır niteliğindeki verileri işlemede kullandığı bilgi sistemleri ile hizmet
+kanallarının BSEBY kapsamındaki yükümlülükleri sağlamadığının tespit
+edilmesi halinde ya da arayüz sağlayıcıya destek
+hizmeti kuruluşu olarak servis bankasına hizmet verebilmesine ilişkin
+Kurulca verilen iznin iptal edilmesi halinde, süresi sona ermeden
+sözleşmenin servis bankasınca derhal feshedilebilmesine imkân sağlanması,
+ı) Arayüz sağlayıcı
+tarafından, servis bankasına sağlanan hizmetler ile servis bankasından
+alınan hizmetlerin devredilememesi,
+hususlarına yer verilmesi zorunludur.
+(9) Bankaların servis modeli bankacılığı yoluyla arayüz sağlayıcılara verecekleri hizmetler, Kanunun 4
+üncü maddesinin birinci fıkrasının (v) bendi kapsamında kabul edilir ve bu
+kapsamda bankaların mevcut faaliyet izinleri çerçevesinde verebilecekleri
+hizmetleri arayüz sağlayıcılara sunabilmeleri
+için Kuruma faaliyet genişlemesi talebinde bulunmalarına gerek
+bulunmamaktadır.
+(10) Servis bankası, hizmet
+verdiği tüm arayüz sağlayıcıların listesi ve
+hangi bankacılık hizmetlerini kullandırdığını gösterecek şekilde, verdiği
+hizmetlerin kapsamı hakkında internet sitesi üzerinden bilgi vermekle ve arayüz sağlayıcılar ile imzaladığı her hizmet
+sözleşmesinin ve arayüz sağlayıcıya vereceği
+hizmetlerin kapsamında değişiklik öngören her sözleşme değişikliğinin bir
+örneğini imza tarihini müteakip bir hafta içinde yazılı olarak Kuruma göndermekle
+yükümlüdür. Kurum bu
+bilgilendirmelerin yazılı olarak yapılması yerine elektronik ortamda
+raporlanmasına yönelik usul ve esasları belirlemeye yetkilidir. Servis
+bankasının arayüz sağlayıcı ile hizmet sözleşmesi
+imzalayabilmesi için, altıncı fıkra uyarınca ilgili arayüz
+sağlayıcıya destek hizmeti kuruluşu olarak Kurul tarafından izin verilmiş
+olması şarttır. Bir arayüz sağlayıcının birden
+fazla servis bankası ile çalışabilmesi, altıncı fıkra uyarınca yapacağı
+başvuru üzerine Kurulun iznine tabidir. Kurul tarafından bu kapsamda
+verilecek izin, arayüz sağlayıcıların 6493 sayılı
+Kanunun 12 nci maddesinin birinci fıkrasının (f)
+ve (g) bentlerinde yer alan faaliyetler ile ilgili faaliyet izni alma
+yükümlülükleri de dâhil olmak üzere, ilgili diğer mevzuattan kaynaklanan
+yükümlülüklerini ortadan kaldırmaz.
+(11) Kurul bu madde uyarınca servis bankalarının arayüz sağlayıcılara vereceği hizmetlere ilişkin
+kullandıracağı açık bankacılık servisleri hakkında teknik kriterler ile usul ve esasları belirlemeye yetkilidir.
+(12) Servis bankasının, aynı zamanda arayüz sağlayıcının da müşterisi olan müşterilerinden
+alabileceği ve elde edebileceği her türlü ücret, masraf, komisyon ve
+menfaatler hakkında, 7/11/2013 tarihli ve 6502
+sayılı Tüketicinin Korunması Hakkında Kanun ile Kanunun 144 üncü maddesi ve
+ilgili alt düzenlemelerinde yer verilen hükümler saklıdır. Arayüz
+sağlayıcının, geliştirmiş olduğu arayüz üzerinden
+müşterilerine ilave olarak servis bankasının bankacılık hizmetlerini de
+sunmasına imkân tanıması ve bu kapsamda varsa servis bankasına ödediği
+hizmet bedeli karşılığında, müşterilerinden talep edeceği her türlü ücret,
+masraf, komisyon ve menfaatlerin, bu hükümlerin dolanılması amacıyla
+kullanıldığının ya da arayüz sağlayıcı tarafından
+servis bankasına sunulan destek hizmetlerinin ilgili mevzuat hükümlerine
+uygun olmadığının tespiti halinde, Kurul altıncı fıkra uyarınca arayüz sağlayıcıya vermiş olduğu izni iptal etmeye
+yetkilidir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Mevcut
+bankaların durumu
+MADDE 14 – (1) Dijital
+bankalar dışındaki faaliyet izni almış ve mevcut faaliyet izinleri
+çerçevesinde fiziksel şubeleri üzerinden de hizmet sunmaları mümkün olan
+diğer bankaların, kısmen ya da tamamen elektronik bankacılık hizmetleri
+dağıtım kanalları aracılığıyla hizmet sunmak istemesi halinde ya da mevcut
+faaliyet izinlerinin kapsamıyla sınırlı olmak kaydıyla aynı tüzel kişilik
+altında farklı bir marka adı ile kısmen ya da tamamen elektronik bankacılık
+hizmetleri dağıtım kanalları aracılığıyla hizmet sunmak istemesi halinde,
+bu Yönetmelik çerçevesinde ayrı bir başvuru yapılması gerekmez ve söz
+konusu bankalar için bu Yönetmeliğin dijital bankalarla ilgili hükümleri
+uygulanmaz. Söz konusu bankalar bu kapsamda şubelerini, ancak Kurumun uygun
+göreceği bir plan dâhilinde kapatabilirler ve bu bankaların faaliyetlerini
+sadece elektronik bankacılık hizmetleri dağıtım kanalları ile
+gerçekleştirmek istemeleri halinde, Teşkilat Yönetmeliğine göre Kurumun
+gözetimine ve denetimine tabi kuruluşların bilgi sistemlerinin yerinde denetimi
+ile görevli hizmet biriminin söz konusu bankaların bilgi sistemlerinin
+yeterliliği konusunda uygun görüşünün bulunması şartı aranır.
+Yürürlük
+MADDE 15 – (1) Bu Yönetmelik 1/1/2022
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 16 – (1) Bu Yönetmelik hükümlerini Bankacılık Düzenleme
+ve Denetleme Kurumu Başkanı yürütür.
