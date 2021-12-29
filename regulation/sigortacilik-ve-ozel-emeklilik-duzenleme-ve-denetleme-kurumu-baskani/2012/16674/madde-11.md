@@ -1,0 +1,3 @@
+Ölüm düzeyi ve hastalık düzeyi tabloları
+MADDE 11 – (1) Ürün kapsamında sunulan teminatlara ilişkin kullanılan ölüm düzeyi, iskonto edilmiş ölüm düzeyi ve hastalık düzeyi tabloları ihtiyatlı olarak seçilir. (Değişik ibare:RG-29/12/2021-31704)(2) Kurum ölüm düzeyi ve hastalık düzeyi tablolarını şirketlerin portföylerinin sonuçlarına, Birlik, Merkez veya Türkiye İstatistik Kurumu verilerine göre belirleyebilir veya revize edebilir.
+(2) Anılan tablolarda kendi portföy sonuçlarına göre değişiklik yapmak isteyen şirketler, oluşturacakları ölüm düzeyi ve hastalık düzeyi tablolarını, ilgili istatistiki verileri, hesaplama yöntemini ve varsayımları uygunluk görüşü alınmak üzere (Değişik ibare:RG-29/12/2021-31704)(2) Kuruma gönderir.
