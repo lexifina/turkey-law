@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39161",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE BİLİMLER AKADEMİSİ ARAŞTIRMA DESTEĞİ YÖNETMELİĞİ",
+  "number": "39161",
+  "issuer": "Türkiye Bilimler Akademisi Başkanı",
+  "issuer_slug": "turkiye-bilimler-akademisi-baskani",
+  "path": "regulation/turkiye-bilimler-akademisi-baskani/2021/39161",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39161&MevzuatTertip=5",
+  "source_sha256": "592adf23f7118c26cb247d91faa2f5376b35ac2771c06bd63e28f696c8561360",
+  "source_bytes": 43910,
+  "published": "2021-12-29",
+  "gazette": "31704",
+  "in_force": "2021-12-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.12.2021); own commencement article: \"Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 945,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

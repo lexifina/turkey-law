@@ -1,0 +1,6 @@
+Araştırma desteğinin mahiyeti
+MADDE 6 – (1) Araştırma desteği, Türkiye Cumhuriyeti uyruklu üyelere sağlanabilir.
+(2) Türkiye’deki bilimsel araştırma kurumlarınca (YÖK, TÜBİTAK ve benzeri) belirlenen özellikli projelerde görev yapan yabancı uyruklular şeref üyesi oldukları takdirde Konsey kararı ile araştırma desteğinden faydalandırılabilir.
+(3) Akademi üyeleri geçici olarak yurt dışında çalıştıkları takdirde kendilerine bir yıla kadar yurt dışı araştırma desteği ödenebilir. Yurt dışında yaptıkları bir yıl süreli bilimsel faaliyetler için araştırma desteği sağlanan üyelerin izleyen yıllarda yurt dışında bulunmaları halinde araştırma desteği talepleri Konsey kararıyla belirlenir.
+(4) Akademi üyelerinden T.C. vatandaşı olup yurt dışında ikamet eden ve akademik faaliyetlerini yurt dışındaki akademik ve bilimsel kuruluşlarda yürüten üyelerin Türkiye ile ilişkili yürüttükleri bilimsel faaliyetlere yönelik harcamalarının araştırma desteği kapsamında değerlendirilmesine Konsey karar verir.
+(5) Akademi üyelerinin Başkanlık veya Konsey tarafından TÜBA’yı temsilen katıldığı yurt içi veya yurt dışı bilimsel toplantılar ile TÜBA tarafından yapılan görevlendirmeler için yapılan harcamaları, üyenin de kabulü halinde araştırma desteği kapsamına alınabilir.
