@@ -1,0 +1,3 @@
+Göreve başlamama halinde yapılacak işlem
+MADDE 17 – (1) Bir göreve ilk defa veya yeniden atananlardan belge ile ispatı mümkün zorlayıcı sebepler olmaksızın 16 ncı maddedeki süre içerisinde işe başlamayanların atanmaları iptal edilir ve bunlar bir yıl süreyle Kurumda istihdam edilemezler. Bunların belge ile ispatı mümkün zorlayıcı sebepler nedeniyle göreve başlamama hali iki ayı aştığı takdirde atama işlemi atamaya yetkili merciler tarafından iptal edilir.
+(2) Başka yerdeki bir göreve atananlardan 16 ncı maddedeki süre içinde hareket ederek belli yol süresi sonunda yeni görevlerine başlamayanlara, eski görevlerinden ayrılış ve yeni görevlerine başlayış tarihleri arasında aylık verilmemek şartı ile on günlük bir süre daha atamaya yetkili mercilerce verilebilir.

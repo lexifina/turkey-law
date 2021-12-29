@@ -1,0 +1,4 @@
+İnsan kaynakları planlaması
+MADDE 6 – (1) Kurum hizmetlerinin etkin, verimli, kaliteli ve uygun sayıda personel eliyle yürütülmesinin sağlanması amacıyla, Kurum görevlerindeki değişmeler, kadroların birimler itibariyle dağılımı, Kurumda istihdamına ihtiyaç duyulacak ilave personelin kadro unvanları bazında dağılımı ve nasıl karşılanacağını, yasal düzenlemeler, istihdamı etkileyen teknolojik yenilikler, insan kaynağındaki niteliksel gelişimler ile bütçe imkanları dikkate alınmak suretiyle, yıllık olarak insan kaynakları planı hazırlanır.
+(2) İnsan kaynakları planı, Destek Hizmetleri Daire Başkanlığının koordinatörlüğünde hazırlanır ve İnsan Kaynakları Komitesinin değerlendirmesine sunulur.
+(3) Bir sonraki yıla ilişkin olarak hazırlanan insan kaynakları planı, Kurulun onayını müteakip uygulamaya geçirilir.

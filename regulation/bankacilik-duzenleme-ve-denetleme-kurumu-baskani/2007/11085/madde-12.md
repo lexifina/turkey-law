@@ -1,0 +1,4 @@
+Naklen veya yeniden atanacakların seçimi
+MADDE 12 – (1) Kamu kurum ve kuruluşlarında personel kanunlarına tabi görev yapmakta olanlar ile daha önce personel kanunlarına tabi görev yapmış olanlardan, başkan yardımcısı, daire başkanı ve meslek personeli kadroları dışındaki Kurum kadrolarına atanmak isteyenlerin, Kurumdan temin edecekleri görev talep formunu kendi el yazılarıyla anlaşılır şekilde ve doğru olarak doldurmak suretiyle Kuruma başvuruda bulunmaları gerekir.
+(2) Bu şekilde yapılan başvurular, atamanın yapılacağı kadronun gerektirdiği nitelikler ile diğer şartların taşınmasının yanı sıra Kurum hizmet ihtiyaçları dikkate alınmak suretiyle Destek Hizmetleri Daire Başkanlığı tarafından değerlendirilir ve sonuç Başkana sunulur.
+(3) Kurumda görev almak için gerekli koşullardan herhangi birini taşımadığı halde, görev talep formunda gerçek dışı beyanda bulunarak Kurumu yanılttıkları tespit edilenlerin hiçbir suretle atamaları yapılmaz, yapılmış ise iptal edilir.
