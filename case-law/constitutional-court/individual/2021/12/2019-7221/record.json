@@ -1,0 +1,20 @@
+{
+  "applicant": "E.B. VE R.B.",
+  "application_date": "2019-03-07",
+  "application_number": "2019/7221",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-12-29",
+  "id": "b769682f-414d-e9be-052c-a528186421d3",
+  "in_force": "2021-12-29",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmI3Njk2ODJmLTQxNGQtZTliZS0wNTJjLWE1MjgxODY0MjFkMw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "bc9ae35ad8b1ff5872dbc1fec73840e9598a6b89fb703657a07861bb02540eeb",
+  "version_label": "as-enacted"
+}
