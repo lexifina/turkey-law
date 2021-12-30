@@ -1,0 +1,2 @@
+Doğal niteliklerden uzaklaştırma
+MADDE 35 – (1) Tüketicilerin korunması amacıyla, halka sunulacak olan ve yiyecek, içecek veya yem maddeleriyle karıştırılabilecek biyosidal ürünlerin yenilmesini ve içilmesini önleyecek bileşenler içermesi ve buna yönelik tedbirlerin alınması zorunludur. Biyosidal ürünün doğal niteliklerinden uzaklaştırılmasından, ruhsat veya tescil başvurusunu yapan kişinin yanı sıra onunla birlikte ruhsat veya tescil sahibi sorumludur.

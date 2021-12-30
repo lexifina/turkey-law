@@ -1,0 +1,2 @@
+Piyasadan kalkacak ürünler
+GEÇİCİ MADDE 5 – (1) (Değişik ibare:RG-12/3/2014-28939) Liste-A’da listelenmeyen bir veya daha fazla aktif maddeyi ihtiva eden biyosidal ürünler 41 inci maddeye göre bildirim usulüne tabi değildir. Bunların bu Yönetmeliğin yürürlüğe girmesinden itibaren üretimi ve ithali yasaktır. Ancak hâlihazırda stoklarda bulunan bu biyosidal ürünler en fazla altı ay daha piyasaya sürülebilirler. Bu kapsamdaki biyosidal ürünlerin kullanımı için bu Yönetmeliğin yürürlüğe girmesinden itibaren en fazla on iki ay süre verilebilir.

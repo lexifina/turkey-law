@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Ruhsat ve Tescil Başvuruları
+Başvuru şartları
+MADDE 11 – (1) (Değişik:RG-30/12/2021-31705) Başvuru, Türkiye’de yerleşik olan veya kendisi, merkezi, şubesi ya da temsilcisi Türkiye’de bulunan gerçek veya tüzel kişiler ile bunların temsilcileri tarafından, bir biyosidal ürünü piyasaya arz etmek amacıyla 8 inci maddeye uygun olarak 12, 13, 14, 15 ve 16 ncı maddelerde belirtilen bilgi ve belgelerle birlikte Türkçe olarak hazırlanan dosya ile Bakanlığa başvuru yapılır. Bilgi ve belgeler yabancı dilde ise noter veya yeminli tercüman tarafından onaylı Türkçe tercümeleri de sunulur. Bakanlık dosya içeriğini fiziki ve/veya elektronik taşıyıcı ortamda talep edebilir.
+(2) Başvuru sahibi, 8 inci maddenin ikinci fıkrasının (a), (b) ve (c) bentleri uyarınca bir ruhsat veya tescil başvurusunda bulunurken bir çerçeve formülasyona ait ruhsat veya tescil için de başvurabilir. Çerçeve formülasyon için başvuru, ruhsat veya tescil başvurusunu takiben de yapılabilir.
+(3) Müracaata konu biyosidal ürünün niteliği veya önerilen kullanımıyla doğrudan ilgisi bulunmayan veri ve bilgilerin sunulması gerekli değildir. Bu durum söz konusu bilgilerin sunulmasının bilimsel olarak gerekli olmadığı ya da teknik olarak mümkün olmadığı durumlar için de geçerlidir. Bu gibi durumlarda, (Değişik ibare:RG-12/3/2020-31066) Bakanlığa geçerli bir açıklamanın sunulması gerekir.

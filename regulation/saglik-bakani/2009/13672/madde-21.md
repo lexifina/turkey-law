@@ -1,0 +1,6 @@
+Karar
+MADDE 21 – (1) (Değişik ibare:RG-12/3/2020-31066) Bakanlık ruhsat veya tescil hakkında 20 nci maddede belirtilen sürelerde başvuruyu karara bağlar ve bunu yazılı olarak başvuru sahibine bildirir.
+(2) (Değişik ibare:RG-12/3/2020-31066) Bakanlıkça biyosidal ürünün piyasaya arzının uygun görüldüğüne dair karar Ek-X’daki belgenin doldurulmasıyla oluşturulur.
+(3) (Değişik ibare:RG-12/3/2020-31066) Bakanlık, ürünlerin izlenmesi ve sınıflandırma, ambalaj, etiketleme veya güvenlik bilgi formu için ayrıntılı bilgilerin belirlenmesi koşullarını karara ekleyebilir.
+(4) (Değişik ibare:RG-12/3/2020-31066) Bakanlık bir biyosidal ürünün piyasaya arz edilemeyeceğine karar verdiği takdirde, kararını bilimsel gerekçeleriyle yazılı olarak başvuru sahibine bildirir.
+(5) (Değişik ibare:RG-12/3/2020-31066) Bakanlık her ruhsat veya tescil için karar alma konusundaki kayıtları ve her uygulama için işlemlerin bir örneğini muhafaza eder. 41 inci maddeye göre gerekli olan ve ruhsatlandırılmış veya tescil edilmiş biyosidal ürünün ve biyosidal ürün içeriğindeki aktif maddelerin biyosit envanterinde listelenmesi için Ek-VII’de belirtilen bilgiler, (Değişik ibare:RG-12/3/2020-31066) Bakanlıkça bu dosyadan elde edilir ve işlenir.

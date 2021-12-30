@@ -1,0 +1,3 @@
+Geçici etiket onayı
+GEÇİCİ MADDE 6 – (1) Piyasadaki münferit biyosidal ürünler ruhsatlandırılıncaya veya tescil edilinceye kadar geçen geçici sürede, söz konusu münferit biyosidal ürünün etiketi üzerinde o ürünün üreticisi, ithalatçısı ve dağıtıcısı olarak belirtilmiş kişiler, bahsi geçen münferit ürünlerin bu Yönetmeliğe uygunluğundan sorumludurlar.
+(2) Bu Yönetmeliğin yürürlüğe girmesinden önce (Değişik ibare:RG-12/3/2020-31066) Bakanlıktan ruhsat almış biyosidal ürün etiketleri ile ilgili olarak gerçek veya tüzel kişiler (Değişik ibare:RG-21/12/2011-28149) 1/2/2012 tarihine kadar 36 ncı maddeye göre etiket onayı başvurusunda bulunur.

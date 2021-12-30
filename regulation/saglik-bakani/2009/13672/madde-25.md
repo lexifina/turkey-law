@@ -1,0 +1,9 @@
+İptal
+MADDE 25 – (1) (Değişik ibare:RG-12/3/2020-31066) Bakanlıkça aşağıda belirtilen durumlarda ruhsat veya tescil sahibi bilgilendirildikten ve gerekiyorsa ruhsat veya tescil sahibinin sunacağı bilgiler dikkate alındıktan sonra ruhsat veya tescil iptal edilir.
+a) Biyosidal ürün içerisinde bulunan aktif maddelerden birinin artık (Değişik ibare:RG-12/3/2014-28939) Liste-A’da listelenmemesi veya (Değişik ibare:RG-12/3/2014-28939) Liste-I ya da (Değişik ibare:RG-12/3/2014-28939) Liste-IA’dan silinmesi ya da söz konusu aktif madde için gerçekleştirilen değerlendirme süreci kapsamında bu aktif maddenin (Değişik ibare:RG-12/3/2014-28939) Liste-I ya da (Değişik ibare:RG-12/3/2014-28939) Liste-IA’ya dâhil edilmemesi kararının alınması,
+b) Biyosidal ürünün ruhsatlandırılması veya ürünün tescili için aranan şartların ortadan kalkması,
+c) Biyosidal ürünün (Değişik ibare:RG-12/3/2014-28939) Liste-I ve (Değişik ibare:RG-12/3/2014-28939) Liste-IA’da bulunan aktif madde gerekliliklerini karşılayamadığının anlaşılması,
+ç) Verilen ruhsat ya da tescilin, başvuru sahibinin sunduğu yanlış ya da yanıltıcı bilgilere dayandığının anlaşılması,
+d) Uluslararası veya Avrupa Birliği düzeyindeki bir kararın (b) bendine göre ruhsat ya da tescilin iptalini gerektirmesi,
+e) (Değişik ibare:RG-12/3/2020-31066) Bakanlığın insan, hayvan veya çevre sağlığı üzerine olumsuz risklerin oluştuğuna dair geçerli nedenlerinin bulunması.
+(2) (Değişik ibare:RG-12/3/2020-31066) Bakanlık, ruhsat veya tescil sahibinin gerekçeli talebi üzerine, bir ruhsat veya tescili iptal edebilir. Ancak, eldeki stokların erimesi, tanınan sürenin iptal gerekçeleriyle uyumlu olması ve 39 uncu maddeye istinaden verilmiş herhangi bir yasaklama veya sınırlama kararı saklı kalmak kaydıyla, riskin boyutlarını dikkate almak suretiyle mevcut stokların belirli bir tarihe kadar kullanımına devam edilmesi maksadıyla belirli süreler verebilir.

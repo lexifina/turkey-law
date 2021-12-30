@@ -1,0 +1,5 @@
+Güvenlik bilgi formu
+MADDE 37 – (1) Güvenlik bilgi formlarının hazırlanmasında;
+a) Biyosidal ürünler veya biyosidal ürünlerin içerisinde kullanılacak aktif maddeler için güvenlik bilgi formlarının, (Değişik ibare:RG-12/3/2020-31066) Kimyasalların Kaydı, Değerlendirilmesi, İzni ve Kısıtlanması Hakkında Yönetmelik hükümlerine uygun olarak hazırlanması ve gerektiğinde hazır bulundurulması zorunludur. Bir biyosidal ürün için güvenlik bilgi formunun hazırlanmasından başvuru sahibi ve onunla birlikte ruhsat ya da tescil sahibi, güvenlik bilgi formunun ürünün yanında (Değişik ibare:RG-12/3/2014-28939) bulundurulmasından ise biyosidal ürünü ya da biyosidal ürünlerde kullanılacak aktif maddeyi piyasaya süren kişiler sorumludur.
+b) Tehlikeli Maddeler ve Müstahzarlara İlişkin Güvenlik Bilgi Formlarının Hazırlanması ve Dağıtılması Hakkında Yönetmelikte yer alan güvenlik bilgi formuna ilişkin bütün hükümler biyosidal ürünler ve biyosidal ürünlerde kullanılacak aktif maddeler için de geçerlidir.
+(2) (Ek:RG-12/3/2020-31066) Güvenlik bilgi formlarının mevzuata uygunluğu Bakanlıkça kontrol edilir.
