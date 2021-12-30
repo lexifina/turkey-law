@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "31705",
+  "decision_date": "2021-12-30",
+  "title": "Benzin Türlerine Etanol Harmanlanması Hakkında Tebliğde Değişiklik Yapılmasına Dair Tebliğ",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LTpnla7N3Yc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LTpnla7N3Yc="
+  ],
+  "source_sha256": "0b72b6624dde6e6dbed4477b85be9b36e0baf582068bb5217c974c97e4fde44a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-30",
+  "law_text_complete": true
+}
