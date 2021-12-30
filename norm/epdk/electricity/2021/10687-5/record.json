@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10687-5",
+  "decision_date": "2021-12-30",
+  "title": "2022 yılına ilişkin başvuru bedeli",
+  "resmi_gazete_date": "2021-12-31",
+  "resmi_gazete_number": "31706 (6. Mükerrer)",
+  "categories": [
+    "Lisanssız Elektrik Üretim Yönetmeliği Kapsamındaki Bedeller"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LcLoMNW+llw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=LcLoMNW+llw="
+  ],
+  "source_sha256": "97b25b99b0c76286bc3637bd043058f192faaf344607e79739d1caa1522a896c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1853,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-30",
+  "law_text_complete": true
+}
