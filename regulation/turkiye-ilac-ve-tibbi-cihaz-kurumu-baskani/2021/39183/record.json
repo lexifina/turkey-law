@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39183",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İLAÇ VE TIBBÎ CİHAZ KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39183",
+  "issuer": "Türkiye İlaç ve Tıbbî Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2021/39183",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39183&MevzuatTertip=5",
+  "source_sha256": "f500d36524eb1dfda331f34c783551fd06b379a13df6872a3e042f21ec1bd9ed",
+  "source_bytes": 16527,
+  "published": "2021-12-30",
+  "gazette": "31705 2.Mükerrer",
+  "in_force": "2021-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39183-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
