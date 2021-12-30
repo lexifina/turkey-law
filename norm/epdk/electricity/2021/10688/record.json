@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10688",
+  "decision_date": "2021-12-30",
+  "title": "Türkiye Elektrik İletim Anonim Şirketinin 2022 yılı sistem kullanım ve sistem işletim gelir tavanlarına ilişkin",
+  "resmi_gazete_date": "2021-12-31",
+  "resmi_gazete_number": "31706",
+  "categories": [
+    "TEİAŞ"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2nNpHGDpyCw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2nNpHGDpyCw="
+  ],
+  "source_sha256": "a5a6ed9ab74495c1a41d7fdc0e44fa6b4a84978bea471b6ea0c0fee7e2153952",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 1520,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "no text layer (image-only PDF; no OCR)",
+  "in_force": "2021-12-30",
+  "law_text_complete": false
+}
