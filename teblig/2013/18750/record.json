@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.18750",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İNTERNET ALAN ADLARI UYUŞMAZLIK ÇÖZÜM MEKANİZMASI TEBLİĞİ",
+  "number": "18750",
+  "issuer": "Kurul Başkanı",
+  "path": "teblig/2013/18750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=18750&MevzuatTertip=5",
+  "source_sha256": "d9f706268f08c95490604ef7ec4fef133287714907ca20e6ffbcaa038c2834f7",
+  "source_bytes": 50933,
+  "published": "2013-08-21",
+  "gazette": "28742",
+  "in_force": "2021-12-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-30",
+      "RG-30/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-30",
+      "30/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2944,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.18750-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

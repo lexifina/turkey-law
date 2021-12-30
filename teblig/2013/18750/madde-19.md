@@ -1,0 +1,7 @@
+İAA’nın kötü niyetle tahsis ettirilmesi veya kullanılması
+MADDE 19 – (1) Aşağıdaki durumlar, Yönetmeliğin 25 inci maddesinin birinci fıkrasının (c) bendinde ifade edilen, bir İAA’nın kötü niyetle tahsis ettirilmesi veya kullanılması olarak değerlendirilir;
+a) Şikâyet konusu İAA’nın, ticaret veya hizmet markası, ticaret unvanı, işletme adı veya kişi adı ya da diğer tanıtıcı işaretin sahibi olan şikâyetçiye veya şikâyetçinin ticari olarak rekabette bulunduğu tarafa, bu İAA’nın belgelenmiş tahsis masraflarını ve yatırım maliyetini aşan miktardaki bir meblağ karşılığında satma veya devretme amacıyla tahsis ettirilmiş olması,
+b) Şikâyet konusu İAA’nın, ticarette kullanılan marka, ticaret unvanı, işletme adı ya da diğer tanıtıcı işaretin sahibinin, bu marka, unvan, ad ya da işareti İAA’da kullanmasını engellemek amacıyla tahsis ettirilmiş olması,
+c) Şikâyet konusu İAA’nın, esasen ticari rakiplerin işlerine ya da faaliyetlerine zarar vermek amacıyla tahsis ettirilmiş olması,
+ç) İhtilaf konusu İAA’nın, ticari kazanç elde etmek amacıyla, şikâyetçinin sahibi olduğu ticarette kullanılan marka, ticaret unvanı, işletme adı ya da diğer tanıtıcı işareti ile benzerlik sağlayarak karışıklık meydana getirmek suretiyle internet kullanıcılarının İAAS’nin internet sitesine veya herhangi bir internet sitesine yönlendirilmesi amacıyla bu İAA’nın kullanılması.
+(2) Bu maddenin birinci fıkrasındaki durumlar tahdidi olmayıp, hakem veya hakem heyeti takdiri ile de İAA’nın kötü niyetle tahsis ettirildiği veya kullanıldığına karar verilebilir.

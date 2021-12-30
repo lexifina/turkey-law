@@ -1,0 +1,6 @@
+Hakemlerin çalışması
+MADDE 12 – (1) Hakemler, uyuşmazlık konusu alan adına ve taraflarına ilişkin bağımsızlık ve tarafsızlıklarını gösterir yazılı beyanlarını UÇHS'ye sunmalarını müteakip çalışmaya başlarlar. Yönetmeliğin 26 ncı maddesinde yer alan hükümler saklı kalmak ve ilgili taraflara karşı tarafsız ve adil davranmak koşuluyla hakemler çalışmaların yürütülme şekli ve yöntemi konusunda serbesttirler.
+(2) Hakem heyetinde hakemler arası koordinasyon, heyet başkanı hakem tarafından sağlanır.
+(3) Hakemler, bizzat kendileri, eşleri veya üçüncü dereceye kadar (üçüncü derece dahil) kan ve sıhri hısımları ile ilgili şikâyetlerin görüşülmesi ve karara bağlanılması gibi tarafsızlığını etkileyebilecek görevlerde yer alamaz.
+(4) Hakemi ya da hakemleri reddetmek isteyen taraf, ret isteminde bulunabileceği bir durumun ortaya çıktığını öğrendiği tarihten itibaren üç gün içinde gerekçesini açıkça belirterek ret isteminde bulunabilir ve bu istemini karşı tarafa, UÇHS’ye ve hakem heyetine bildirir. UÇHS gerekli görmesi halinde hakem seçimi sürecini tekrarlar.
+(5) Hakem, bağımsızlığını veya tarafsızlığını etkileyecek herhangi bir durumun ortaya çıkması halinde, bunu derhal UÇHS’ye bildirir. Bu durumda UÇHS, gerekli görmesi halinde, yeni bir hakem atar.
