@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10687-12",
+  "decision_date": "2021-12-30",
+  "title": "Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında 10 kW üstü lisanssız güneş enerjisine dayalı elektrik üretim tesisleri için elektrik dağıtım şirketleri tarafından yapılacak proje onay ve kabul işlemlerinde 1/1/2022 tarihinden itibaren uygulanan bedeller",
+  "resmi_gazete_date": "2021-12-31",
+  "resmi_gazete_number": "31706 (6. Mükerrer)",
+  "categories": [
+    "25 kW Üstü Lisanssız GES’ler için Proje Onay ve Kabul Bedelleri (2022 ve öncesi 10 kW)"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Fm1aypWOzJc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Fm1aypWOzJc="
+  ],
+  "source_sha256": "e071478b34b5844cfecffca014969e25e6de6488dca4ab7b456971a44c11866c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 23583,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-30",
+  "law_text_complete": true
+}
