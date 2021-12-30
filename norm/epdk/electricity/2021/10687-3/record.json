@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10687-3",
+  "decision_date": "2021-12-30",
+  "title": "1/1/2022 tarihinden itibaren uygulanan sayaç kontrol bedelleri",
+  "resmi_gazete_date": "2021-12-31",
+  "resmi_gazete_number": "31706 (6. Mükerrer)",
+  "categories": [
+    "Sayaç Kontrol Bedeli"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i5P8M+zaDAA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=i5P8M+zaDAA="
+  ],
+  "source_sha256": "81e34be0bb70b9739e54bfc313e483abd0d9e7ddeb3b2cac556935091c0c7e1a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 7528,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-30",
+  "law_text_complete": true
+}
