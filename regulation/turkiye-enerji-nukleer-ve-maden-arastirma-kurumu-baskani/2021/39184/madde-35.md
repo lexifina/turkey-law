@@ -1,0 +1,2 @@
+Yarışma sınavı belgelerinin saklanması
+MADDE 35 – (1) Sınavda başarı göstererek mesleğe alınanların sınavla ilgili belgeleri özlük dosyalarında beş yıl, bunun dışında kalan sınavla ilgili belgeler ise müteakip sınav tarihine kadar Kurum arşivinde muhafaza edilir. Konusu yargıya intikal etmiş olanların sınavla ilgili belgelerinin yargı süreci tamamlanana kadar ve verilen yargı kararı dikkate alınarak muhafazası ile ilgili tedbir alınır.

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39184",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU DENETİM HİZMETLERİ KOORDİNATÖRLÜĞÜ YÖNETMELİĞİ",
+  "number": "39184",
+  "issuer": "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani/2021/39184",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39184&MevzuatTertip=5",
+  "source_sha256": "808acdb87e16f7894b6aad5a3deb5eea7372d5964e3c6b22ac0f6cdd6dbca522",
+  "source_bytes": 202136,
+  "published": "2021-12-30",
+  "gazette": "31705 2.Mükerrer",
+  "in_force": "2021-12-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.12.2021); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11035,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

@@ -1,0 +1,2 @@
+Yazışma yöntemi
+MADDE 17 – (1) Koordinatörlükçe aksi belirlenmedikçe, denetçiler görevleri ile ilgili konularla ilgili olarak; kamu kurum ve kuruluşlarıyla, gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak, Cumhurbaşkanlığı, TBMM, yüksek yargı organları ve Bakanlıklar ile kamu kurum ve kuruluşlarının merkez ve yurtdışı teşkilatıyla yazışmalarını Koordinatörlük aracılığı ile Kurum Başkanlığınca belirlenen usul ve esaslara göre yaparlar.

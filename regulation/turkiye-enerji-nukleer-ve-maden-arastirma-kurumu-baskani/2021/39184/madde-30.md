@@ -1,0 +1,8 @@
+Yazılı sınav kâğıtlarının değerlendirilmesi
+MADDE 30 – (1) Yazılı sınav kâğıtlarının değerlendirmesi 100 tam puan üzerinden yapılır.
+(2) Değerlendirmede; sınav klasik yöntemle yapılmış ise her sorunun cevabına her üye tarafından ayrı ayrı not verilir. Her üyenin notlarının ortalaması alınarak sınav kâğıdının notu belirlenir. Sınavda test usulü uygulanmışsa, Sınav Komisyonu kendi arasından belirlediği en az iki üyenin gözetiminde cevap anahtarına göre adayın notu belirlenir. Bu not sınav notu olarak tespit edilir.
+(3) Yazılı sınava giren adaylar, alan bilgisinden yapılan yazılı sınav notlarına göre en yüksek puanlı adaydan başlamak üzere puan sıralamasına tabi tutulur. Puana göre sıralama; sınava girilen alana göre ayrı ayrı yapılır.
+(4) Yazılı sınavda başarılı sayılabilmek için alan bilgisi konularından 100 tam puan üzerinden 60 puandan az olmamak üzere ortalama 70 puan ve yabancı dil bilgisi alanından en az 60 puan almak gerekir.
+(5) Yazılı sınav alan bilgisi puanı eşit olan adayların kendi aralarındaki sıralamasında, yabancı dil bilgisi puanı yüksek olan adaya öncelik verilir. Alan bilgisi ve yabancı dil puanlarının her ikisi de eşit olan adayların kendi aralarındaki sıralamasında ise KPSS puanı yüksek olan adaya öncelik verilir.
+(6) Yazılı sınav cevap kâğıtları değerlendirilip not verildikten sonra, sonuçları ile birlikte Sınav Komisyonu Başkanınca bir tutanakla gerekli işlemleri yürütmek üzere İnsan Kaynakları Koordinatörlüğüne teslim edilir.
+(7) Yazılı sınav üniversiteler veya bu konuda uzmanlaşmış ÖSYM ve Milli Eğitim Bakanlığı gibi diğer kamu kurum ve kuruluşlarına yaptırılıyorsa, sınav sonuçları sınavı yapan kurum ve kuruluşça belirlenir.

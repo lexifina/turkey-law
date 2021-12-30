@@ -1,0 +1,2 @@
+Yeterlik sınavından önce Koordinatörlükten çıkarılma
+MADDE 46 – (1) Denetçi yardımcılığı döneminde, performansına ve çalışmasına göre denetçilikte başarı gösteremeyeceği anlaşılanlar, denetçilik göreviyle bağdaşmayacak tutum ve davranışları saptananlar, yeterlik sınavı beklenilmeksizin, Kurum teşkilatında öğrenim durumlarına uygun pozisyonlara atanırlar. Bu hususların en az iki denetçi raporu ve Koordinatörün görüşü ile belgelendirilmesi esastır.

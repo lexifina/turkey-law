@@ -1,0 +1,3 @@
+Denetim programına ara verilmesi veya iptal edilmesi
+MADDE 66 – (1) Denetim programlarının belirlenen tarih ve dönemler arasında kesintisiz uygulanması asıldır. Ancak, iş yoğunluğu, acil ve zorunlu durumlarda, denetim programına Koordinatörün teklifi ve Kurum Başkanının izni ve onayı ile ara verilebilir, ertelenebilir veya programın tamamlanması için başka denetçiler görevlendirilebilir.
+(2) Denetim programının tamamlanmasının iş durumu veya bütçe imkânları itibarıyla mümkün olmaması halinde, Koordinatör programın iptali için durumu Kurum Başkanına intikal ettirir ve alacağı talimata göre gereğini yerine getirir. Programın iptali durumunda, denetimi yapılamayan birimlerin denetimleri bir sonraki programda öncelikle yaptırılır.

@@ -1,0 +1,6 @@
+Sınav Komisyonu, görevleri ve çalışma şekli
+MADDE 20 – (1) Sınav Komisyonu, Kurum Başkanı veya görevlendireceği Kurum Başkan Yardımcısı başkanlığında Koordinatör, İnsan Kaynakları Koordinatörü ve Kurum Başkanınca görevlendirilecek iki denetçi üyenin katılımıyla toplam beş kişiden oluşur. Bu sayıya ulaşmak için gerekli denetçi sayısı bulunmazsa, eksik kalan üyeler Kurum Başkanı tarafından Kurum Başkan yardımcıları ile Hukuk Hizmetleri Koordinatörü arasından görevlendirilebilir. Ayrıca, aynı usulle üç yedek üye görevlendirilir.
+(2) Sınav Komisyonu, Komisyon Başkanının çağrısı üzerine üye tam sayısı ile toplanır, sınavlara ilişkin yapılacak iş ve işlemleri kararlaştırır. Kararlar salt çoğunlukla alınır.
+(3) Sınav Komisyonu, sınav sorularının hazırlanması, yazılı ve sözlü sınavların her türlü şüphe ve tereddütten uzak bir şekilde yapılması, sonuçlandırılması ve değerlendirilmesiyle yükümlüdür.
+(4) Ayrı ayrı tutanak düzenlenmesi suretiyle hazırlanan sınav soruları kapalı ve mühürlü zarflar içinde saklanır, sınav günü ve saatinde sınav mahallinde Sınav Komisyonu Başkanınca adayların huzurunda açılır.
+(5) Sınav Komisyonunun başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldıkları sınavda görev alamazlar. Bu durumda olan üyelerin yerine yedek üye görevlendirilir.

@@ -1,0 +1,2 @@
+Yıllık faaliyet raporu
+MADDE 75 – (1) Yıllık faaliyet raporu, Koordinatörlüğün bir yıllık çalışmalarına göre, Kurumca uygulanan politikaların ve yürütülen hizmetlerin genel durumu, idarede gözlenen yetersizlikler, mevzuat yetersizliği ve bunların giderilmesi gibi konularda alınacak yasal ve idari önlemlere dair görüş ve önerileri kapsayan ve Kurum Başkanına özet bilgi vermek amacıyla Koordinatörlükçe hazırlanan rapordur.

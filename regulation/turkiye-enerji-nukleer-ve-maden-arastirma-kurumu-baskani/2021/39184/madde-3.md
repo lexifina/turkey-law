@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Büro: Denetim Hizmetleri Koordinatörlüğünün idari ve mali iş ve işlemlerini yürütmek için oluşturulan Denetim Hizmetleri Bürosunu,
+b) Büro personeli: Denetim Hizmetleri Bürosunda görev yapan personeli,
+c) Denetçi: Denetim faaliyetlerini yürüten Koordinatör ile TENMAK başdenetçi ve denetçilerini,
+ç) Denetçi yardımcısı: TENMAK denetçi yardımcılarını,
+d) Denetim faaliyetleri: Denetim, inceleme, ön inceleme, soruşturma ve araştırma faaliyetlerinin tümünü,
+e) İnceleme: Belirli bir konunun ya da sorunun saptanması ve/veya durumun ortaya çıkartılmasına yönelik faaliyetler bütününü,
+f) Koordinatör: TENMAK Denetim Hizmetleri Koordinatörünü,
+g) Koordinatörlük: TENMAK Denetim Hizmetleri Koordinatörlüğünü,
+ğ) KPSS: 18/3/2002 tarihli ve 2002/3975 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik uyarınca yapılan Kamu Personel Seçme Sınavını,
+h) Kurum: Kısa adı TENMAK olan Türkiye Enerji, Nükleer ve Maden Araştırma Kurumunu,
+ı) Kurum Başkanı: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanını,
+i) Kurum Başkanlığı: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanlığını,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+k) Sınav Komisyonu: Denetçi yardımcılığı yarışma sınavını yapmaya yetkili komisyonu,
+l) Soruşturma: Görevleri veya sıfatları sebebi ile özel soruşturma usulüne tabi olanlarla ilgili mevzuat hükümleri saklı kalmak kaydıyla, mevzuatında tanımlanmış eylem ve işlemlerin gerçek mahiyetini ortaya çıkartmak maksadıyla ilgili kişiler hakkında yapılan inceleme, araştırma ve tahkik faaliyetlerinin bütününü,
+m) Yarışma sınavı: Denetçi yardımcısı adaylarından bilgi, tutum, davranış ve genel yetenek bakımından denetçi yardımcısı unvanıyla görev yapabilecek olanların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+n) Yeterlik Komisyonu: TENMAK denetçisi olarak atanabilmek için yapılacak yeterlik sınavını yapmaya yetkili olan komisyonu,
+o) Yeterlik sınavı: TENMAK denetçisi olarak atanabilmek için yapılacak yazılı ve sözlü sınavı,
+ö) Yetkili denetçi yardımcısı: Bir buçuk yıl refakatte denetçi yardımcılığı yaptıktan sonra, tek başına görev yapabilmesi için Kurum Başkanı tarafından yetki verilen denetçi yardımcısını,
+ifade eder.

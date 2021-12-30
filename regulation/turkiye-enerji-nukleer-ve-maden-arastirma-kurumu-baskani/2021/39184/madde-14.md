@@ -1,0 +1,15 @@
+Denetçilerin sorumlulukları
+MADDE 14 – (1) Denetçiler görevlerini yerine getirirken aşağıdaki kurallara uyarlar:
+a) Kurum Başkanından veya Koordinatörden aldıkları emirle görev yaparlar, aldıkları görevlerin sonuçlarını bir rapora bağlayarak Koordinatörlüğe sunarlar.
+b) Mesleğin ve sıfatlarının gerektirdiği saygınlığı ve güven duygusunu sarsacak nitelikte davranışlarda bulunamazlar. Tarafsızlık, eşitlik, dürüstlük, gizlilik, yetkinlik, nezaket ve saygılı olmak gibi meslek ahlakına ve ilkelerine uygun davranışlar gösterirler.
+c) Denetim, inceleme, ön inceleme, araştırma ve soruşturmayla görevli bulundukları sırada 14/9/2010 tarihli ve 27699 sayılı Resmî Gazete’de yayımlanan Denetim Görevlilerinin Uyacakları Meslekî Etik Davranış İlkeleri Hakkında Yönetmeliğe uygun hareket ederler.
+ç) İdari icraya müdahale edemezler ve denetlenen birimin faaliyetlerini aksatmayacak şekilde görevlerini yaparlar.
+d) İnceledikleri belge ve defterlerde, işlemlerin denetlendiğini gösterir tarih, imza, paraf dışında açıklama, değişiklik ve düzeltme yapamazlar; elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgi ve kayıtları değiştiremezler.
+e) Denetim, inceleme, ön inceleme ve soruşturma için gidecekleri yerleri, yapacakları işleri ve görevleri gizli tutarlar; meslekten ayrılmış olsalar dahi, görevleri dolayısıyla öğrendikleri sırları, kişisel verileri ve gizli kalması lazım gelen diğer hususları açıklayamazlar; kendilerinin veya üçüncü şahısların çıkarına, faydasına kullanamazlar. Her türlü medya ve sosyal medya alanında görevleriyle ilgili yorum ve paylaşımda bulunamazlar.
+f) Mevzuatta öngörülen yetkilerini tam olarak kullanmaktan, Kurum Başkanı ve Koordinatörce verilen iş ve görevleri, süresinde ve eksiksiz olarak yerine getirmekten sorumludurlar.
+g) Mesleki yönden kendilerini sürekli geliştirmek, değişen mevzuatı takip etmek ve görevlerinin gerektirdiği yeterliliği göstermek zorundadırlar.
+ğ) Refakatine verilen denetçi yardımcılarının en iyi şekilde yetişmesine özel bir önem verir ve bu amaçla refakat süresi boyunca denetçi yardımcılarının meslek ve hizmet gereklerine uygun şekilde yetişmelerini gözetirler.
+h) Görevli bulundukları sırada veya sonrasında, bu işlerle ilgili şahıs ve kurumlara konuk olamazlar, doğrudan ve dolaylı olarak yaptıkları görevle ilgili olanların teklif ve ikramlarını, hediyelerini kabul edemezler, bunlarla alışveriş yapamazlar, borç alıp veremezler.
+ı) Koordinatörlükçe izin verilmedikçe; Kurum ya da Koordinatörlük adına eğitim, kurs, seminer, çalıştay, panel, sempozyum, komisyon ve toplantılara katılamazlar, yayın yapamazlar, beyanda bulunamazlar, demeç veremezler.
+i) Beşeri ve sosyal ilişkilerin gerektirdiği ve denetçilik saygınlığına zarar vermeyecek etik davranış ilkelerine aykırı olmayan hususlar bu madde kapsamındaki yasaklara tabi değildir.
+j) Denetçiler, görevleriyle ilgili veya görevleri dışındaki gizlilik içermeyen tüm yazışmalarını Kurumun sağladığı elektronik belge yönetim sistemi üzerinden yapmak zorundadırlar. Mücbir sebepler dışında, denetçilerin bu sistem üzerinden yaptıkları tüm yazışmalarında elektronik imza kullanmaları esastır.

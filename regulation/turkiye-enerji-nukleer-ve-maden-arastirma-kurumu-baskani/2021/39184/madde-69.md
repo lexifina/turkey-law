@@ -1,0 +1,8 @@
+İşlerin süresinde bitirilememesi ve devri
+MADDE 69 – (1) Denetçi ve denetçi yardımcıları kendilerine verilen görevleri ara vermeden bizzat yapıp bitirmek zorundadır. Verilen sürede tamamlanamayacağı anlaşılan görevler hakkında Koordinatöre zamanında yazılı bilgi vererek, alacakları talimata göre hareket ederler.
+(2) Denetçilere verilen görevin devredilmemesi esastır. Görevi erteleme veya devir zorunluluğu doğarsa; denetçi ve denetçi yardımcıları, uhdelerindeki görevleri, Koordinatörün yazılı izniyle erteleyebilir veya devredebilirler. Bu durumda; ertelenen görev, işin mahiyetine göre Koordinatörün takdiriyle ileri bir tarihe bırakılabileceği gibi, Koordinatörün yazılı emri veya onayı ile başka bir denetçiye ve/veya denetçi yardımcısına da devredilebilir.
+(3) Devredilmesi uygun görülen görevler için devri yapacak olan denetçi veya denetçi yardımcısı;
+a) Bir devir notu hazırlar. En az iki nüsha olarak hazırlanacak devir notuna; devredilen işin ne olduğu, devir gününe kadar işin hangi kısmının ne dereceye kadar incelendiği, iş hakkında ne gibi bir görüş ve kanaate varıldığı, sonraki süreçte en uygun inceleme ve soruşturma şeklinin ne şekilde olmasının gerekeceği hakkındaki bilgi ve düşüncelerini yazar ve işi devralan denetçiye imza karşılığı verir,
+b) Devredilen işe ait bütün belgeleri sıra numarası altında gösteren dizi pusulasının bir nüshasını, belgelerle birlikte işi devralan denetçiye imza karşılığı verir,
+c) Devir notunun ve dizi pusulasının ikinci nüshalarını bir yazı ile Koordinatörlüğe gönderir.
+(4) Görevleri esnasında denetçinin vefatı, ağır hastalığa yakalanması, meslekten çıkarılma ve benzeri mücbir sebeplerle görevin tamamlanmasının mümkün olmadığı durumlarda Koordinatörce başka denetçi görevlendirilir.

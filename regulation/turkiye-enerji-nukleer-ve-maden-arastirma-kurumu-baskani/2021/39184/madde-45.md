@@ -1,0 +1,3 @@
+Yeterlik sınavına çağırma
+MADDE 45 – (1) Denetçi yardımcısı olarak aylıksız izin ile toplamı üç ayı aşan hastalık ve refakat izinleri hariç, en az üç yıl süreyle Koordinatörlükte çalışan ve belirlenen konuda hazırlayacakları tezi Tez Jürisi tarafından kabul edilenler, yazılı ve sözlü olarak iki bölüm halinde tabi tutulacakları yeterlik sınavının yazılı bölümünün tarihi, saati ve yeri Koordinatör tarafından en az 30 gün önceden bildirilmek suretiyle yeterlik sınavına çağrılırlar.
+(2) Verilen ilave süre içerisinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, aynı süre içerisinde Kurumca kendilerine bir bildirim yapılması suretiyle durumlarına uygun pozisyonlara atanırlar.

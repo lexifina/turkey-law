@@ -1,0 +1,12 @@
+Görevden uzaklaştırma ve sözleşmenin askıya alınması tedbiri
+MADDE 16 – (1) Denetçiler, görevlendirildikleri hususlarla ilgili görevi başında kalmasında sakınca görülen kişilerin, aşağıdaki şartlardan en az birinin gerçekleşmesi halinde usulüne göre görevinden uzaklaştırılması veya sözleşmesinin askıya alınması teklifini yapabilirler:
+a) Para ve para hükmündeki belge, bilgi ve senetleri, her türlü mal ve eşyayı, bunlara ait hesap, belge ve defterleri göstermekten ve bunlarla ilgili soruları cevaplamaktan kaçınmak, denetim, inceleme, ön inceleme ve soruşturmayı güçleştirecek ve engelleyecek davranışlarda bulunmak.
+b) 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununun 17 nci maddesine giren eylemlerde bulunmak.
+c) Evrakta sahtecilik ve kayıtlarda tahrifat yapmak veya evrakta sahtecilik ve kayıtlarda tahrifat yaptığı yönünde kuvvetli şüphe bulunması.
+ç) Kamu hizmeti gerekleri yönünden görevi başında kalması sakıncalı olmak.
+(2) Görevinden uzaklaştırılana veya sözleşmesi askıya alınana ait rapor üzerinde yapılacak işlerin, diğer işlerden öncelikle tamamlanması ve sonuçlandırılması zorunludur.
+(3) Birinci fıkranın (a) bendinde gösterilen hallerde, durumun bir tutanakla saptanması gerekir.
+(4) Görevden uzaklaştırma veya sözleşmenin askıya alınması önlemi, denetim, inceleme, ön inceleme veya soruşturmanın her aşamasında teklif edilebilir. Ancak, ilgilinin görevi başında kalmasının sakıncalı olduğunun açık bir biçimde ortaya konulması gerekir.
+(5) Görevden uzaklaştırma veya sözleşmenin askıya alınması teklifi, denetçi tarafından gerekçesiyle birlikte Koordinatörlüğe sunulur. Görevden uzaklaştırma veya sözleşmenin askıya alınması kararı Kurum Başkanının onayı ile gerçekleşir.
+(6) Görevden uzaklaştırma veya sözleşmenin askıya alınması keyfiyeti, Koordinatörlük tarafından gerekçesiyle birlikte görevinden uzaklaştırılana veya sözleşmesi askıya alınana, İnsan Kaynakları Koordinatörlüğüne, görevinden uzaklaştırılanın veya sözleşmesi askıya alınanın bağlı olduğu amire ve diğer ilgililere yazıyla hemen bildirilir.
+(7) Denetim, inceleme, ön inceleme veya soruşturma sonucunda, disiplin yönünden memurluktan çıkarılmasının, sözleşmesinin feshinin veya cezai bir işlem uygulanmasının gerekmediği anlaşılan memur ve diğer personel, denetçinin bu hususta Koordinatörlüğe vereceği rapor ya da yazı üzerine, Kurum Başkanınca bekletilmeksizin görevine iade edilir.

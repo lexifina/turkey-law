@@ -1,0 +1,10 @@
+Yazılı sınavın yapılma şekli
+MADDE 29 – (1) Yazılı sınav Kurum tarafından yapılıyorsa; Sınav Komisyonunun gözetim ve denetimi altında yapılır. Sınav disiplinini sağlamak, kopya çekilmesine ve başkasının yerine sınava girilmesine engel olmak, sınavı düzenli yürütüp sonuçlandırmak Sınav Komisyonunun görevidir.
+(2) Sınav saatinde adaylar sınav için belirtilen yerde hazır bulunurlar. Sınav için belirlenen saatten sonra gelen adaylar sınava alınmazlar.
+(3) Sınav duyurulan saatte başlar. Sınava giren adaylar yanlarında sınav giriş belgeleriyle birlikte resmi makamlarca verilmiş geçerli bir kimlik belgesi (nüfus cüzdanı, sürücü belgesi veya pasaport) bulundurmak zorunda olup, istenildiğinde bunları sınav görevlilerine ibraz etmekle yükümlüdürler.
+(4) Sınava, içinde sınav soruları bulunan mühürlü zarfların sınava katılanların huzurunda açılması, adaylara dağıtılması veya yazdırılması suretiyle başlanır. Bu şekilde başlanan sınava Sınav Komisyonu Başkanı tarafından görevlendirilen yeterli sayıda Kurum personeli gözcülük eder.
+(5) Adaylar, sınav sorularının cevaplarını mühürlü sınav kâğıtlarına yazarlar. Sınav kâğıtlarına, kapatılacak yer dışında, adayların kimliğini belirtecek herhangi bir yazı yazılamaz ve işaret konulamaz. Sınav kâğıdına bu şekilde yazı yazan veya işaret koyan adaylar hakkında bir tutanak düzenlenerek sınavları geçersiz sayılır.
+(6) Sınavda kopya çekenler yahut kopya çekme girişiminde bulunanlar, sınav disiplinini bozanlar sınav salonundan çıkartılır ve durum bir tutanakla tespit edilir. Bu kişiler bir daha yarışma sınavına alınmazlar.
+(7) Sınav sonunda toplanan cevap kâğıtları bir zarfa konulur, üzerine sınav grubu, sınav tarihi ve yeri, içine konulan kâğıt sayısı yazılarak kapatılır. Zarfın üzeri mühürlenerek imzalanır.
+(8) Soruların sınav başlama saatinde adayların huzurunda açıldığını, sınavın başlama ve bitiş saatini, sınava girenlerin sayısını, kaç kâğıt kullandıklarını ve sınav sırasında meydana gelen kayda değer olaylar ve sınavın akışını gösteren bir tutanak düzenlenir.
+(9) Sınav tutanağı ile cevap kâğıtlarının konulduğu mühürlü zarf, sınav sonunda Sınav Komisyonu Başkanına teslim edilir.

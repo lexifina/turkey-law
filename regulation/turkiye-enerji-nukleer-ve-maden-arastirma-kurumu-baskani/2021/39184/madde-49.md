@@ -1,0 +1,4 @@
+Yeterlik Komisyonu
+MADDE 49 – (1) Denetçi yardımcısı yeterlik sınavını yapacak olan Yeterlik Komisyonu; Koordinatör başkanlığında, Kurum Başkanınca görevlendirilecek dört denetçi üyenin katılımıyla toplam beş kişiden oluşur. Bu sayıya ulaşmak için gerekli denetçi sayısı bulunmazsa, eksik kalan üyeler Kurum Başkanı tarafından Hukuk Hizmetleri Koordinatörü, İnsan Kaynakları Koordinatörü ve diğer koordinatörler arasından görevlendirilebilir. Ayrıca, aynı usulle üç yedek üye görevlendirilir.
+(2) Yeterlik Komisyonu, Komisyon Başkanının çağrısı üzerine üye tam sayısı ile toplanır, sınavlara ilişkin yapılacak iş ve işlemleri kararlaştırır. Kararlar salt çoğunlukla alınır.
+(3) Yeterlik Komisyonunun başkan ve üyeleri; boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldıkları sınavda görev alamazlar. Bu durumda olan üyelerin yerine yedek üye görevlendirilir.

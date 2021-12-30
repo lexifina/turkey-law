@@ -1,0 +1,4 @@
+Rapor sonuçlarının bildirimi ve takibi
+MADDE 79 – (1) Kurum birimleri, Kurum Başkanı tarafından onaya bağlanmış raporlarda belirtilen ve yerine getirilmesi gereken iş ve işlemlerden kendileriyle ilgili olanların sonuçlarını, ayrıca tarih belirtilmemişse, en geç iki ay içinde Koordinatörlüğe bildirmek zorundadır. İki ay içinde sonuçlandırılması mümkün olmayan iş ve işlemler hakkında, Koordinatörlükçe aksi belirtilmedikçe, sonuçlanıncaya kadar ilgili birimce her iki ayda bir Koordinatörlüğe bilgi verilir.
+(2) Denetçilerce düzenlenen raporların sonucunda yapılan işlemlerin ilgili birimlerince Koordinatörlüğe iletilmesi üzerine, bu işlemler Koordinatörlükçe raporu yazan denetçiye gönderilir.
+(3) Denetçiler, birimlerce yapılan bu işlemleri raporları ile karşılaştırmaları sonucunda uygun ve yeterli bulmadıkları takdirde, konu ile ilgili görüşlerini gerekçeleri ile birlikte Koordinatörlüğe bildirirler.

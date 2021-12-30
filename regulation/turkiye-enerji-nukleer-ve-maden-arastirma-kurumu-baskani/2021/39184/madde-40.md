@@ -1,0 +1,2 @@
+Tez konusunun belirlenmesi
+MADDE 40 – (1) Denetçi yardımcısı, bir buçuk yıllık fiili hizmet süresini tamamladığında, bir ay içerisinde Kurumun görev alanı ile ilgili konularda üç tez konusu seçer ve Koordinatörün teklifi Kurum Başkanının onayı ile bunların içerisinden bir tez konusu belirlenir. Tez konusunun uygun bulunmaması halinde, denetçi yardımcısı on beş gün içinde Koordinatörün önerisi doğrultusunda üç yeni tez konusu daha belirler. Tez konusunun ikinci defa uygun bulunmaması halinde, tez konusu Koordinatörün teklifi ile Kurum Başkanı tarafından belirlenir.

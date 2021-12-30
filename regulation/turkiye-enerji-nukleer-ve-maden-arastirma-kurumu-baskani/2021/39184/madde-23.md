@@ -1,0 +1,2 @@
+Yarışma sınavı ilanı
+MADDE 23 – (1) Yarışma sınavı ilanı; alım yapılacak pozisyon sayısı, adaylarda aranacak şartlar, sınava katılma şartları, sınavın yapılacağı yer ve tarih, başvuruda istenilecek belgeler, başvuru yeri ve süresi, sınav konuları ve şekli, değerlendirme yöntemi ile gerekli görülen diğer hususlar, sınav gününden en az 60 gün önce Resmî Gazete ile Kurumun ve Cumhurbaşkanınca belirlenen kurumun internet sitesinde ilan edilir.

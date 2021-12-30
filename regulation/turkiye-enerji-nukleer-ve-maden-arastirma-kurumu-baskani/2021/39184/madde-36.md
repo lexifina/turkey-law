@@ -1,0 +1,7 @@
+BEŞİNCİ BÖLÜM
+Denetçi Yardımcılığına Başlama ve Yetiştirilme
+Denetçi yardımcılığına başlama ve kıdem
+MADDE 36 – (1) Yarışma sınavını kazanan asıl adaylar, tebligatta belirtilen süre içerisinde, Kurumca istenen bilgi ve belgelerle birlikte Kuruma müracaat ederler. Geçerli bir mazereti olmadığı halde süresi içinde müracaat etmeyenlerin göreve başlama işlemleri yapılmaz. İstenilen belgeler, Kurum tarafından incelenir. İnceleme sonunda noksanlıklar olduğu anlaşılırsa tamamlaması için on iş günü ek süre verilir. Bu süre sonunda belgelerini tamamlamayanlar veya getirdikleri belgelerden istihdama engel durumları olduğu anlaşılanlar ile sözleşme imzalanmaz.
+(2) Denetçi yardımcılığına başlama için gerekli şartları taşıdıkları tespit edilenler ile sözleşme imzalanır. Denetçi yardımcıları ve denetçiler ile sözleşme imzalamaya Kurum Başkanı yetkilidir.
+(3) Asıl adaylardan süresi içerisinde müracaat etmeyenler veya başlama evraklarını ibraz ettiği halde on beş gün içerisinde göreve başlamayanların yerine ya da göreve başlanılan pozisyonlarda boşalma olması halinde başarı derecesi yüksek olan yedek adaydan başlamak üzere alım yapılabilir. Sınav sonucu, göreve başlatılmayanlar için daha sonraki sınavlar için kazanılmış hak veya herhangi bir öncelik hakkı teşkil etmez.
+(4) Denetçi yardımcıları arasındaki kıdem sırası, aynı yarışma sınavını kazanarak denetçi yardımcılığına alınanlar arasındaki yarışma sınav notuna göre belirlenir.
