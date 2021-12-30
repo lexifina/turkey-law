@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10692",
+  "decision_date": "2021-12-30",
+  "title": "8851 Sayılı Dağıtıcı ve Bayi Marjlarının Paylaşımına İlişkin Kurul Kararı’nda değişiklik yapılması",
+  "resmi_gazete_date": "2021-12-31",
+  "resmi_gazete_number": "31706",
+  "categories": [
+    "Petrol Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fvbiyJkZLEQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fvbiyJkZLEQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jmFyf1QCkZQ="
+  ],
+  "source_sha256": "a6bb746f8a74881407d3264fe9959c483e8fc7a27404d6ded7c71bae153914ad",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 14725,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2021-12-30",
+  "law_text_complete": true
+}
