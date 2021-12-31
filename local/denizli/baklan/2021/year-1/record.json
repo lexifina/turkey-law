@@ -1,0 +1,27 @@
+{
+  "number": "year-1",
+  "year": 2021,
+  "title": "2021 Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2021-12-31",
+  "date_precision": "year",
+  "period": "2021",
+  "source": "https://www.baklan.bel.tr/karar/2021-meclis-karar-ozetleri",
+  "official_page": "https://www.baklan.bel.tr/karar/2021-meclis-karar-ozetleri",
+  "official_document": "https://www.baklan.bel.tr/tema/genel/uploads/meclis_kararlari/dosya/2021-MECLİS.docx",
+  "source_sha256": "45e8c95ba647446da5b9391c1d64f1d6b76692b8c8230dea2ba3bf4ad8a26509",
+  "issuer": "Baklan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document, not transcribed",
+  "in_force": "2021-12-31",
+  "in_force_basis": "The official listing dates this official file only by its year (2021); date set to 31 December of that year (turkey-law date convention for year-only sources, approved 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2021 Meclis Karar Özetleri",
+  "record_scope": "one official file of the year's council decisions"
+}
