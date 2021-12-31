@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız.",
+        "official_href": "9.5.39197-Ek.xlsx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39197&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31706",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31706",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-12-31",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ulaştırma ve Altyapı Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-664-0.json",
+      "id": "664",
+      "label": "Ulaştırma ve Altyapı Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=664&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "ulastirma-ve-altyapi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2021-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39197&MevzuatTertip=5",
+  "source_bytes": 32988,
+  "source_id": "9.5.39197",
+  "source_sha256": "276ae234f6bf9b4c7b04a13a61b618247d79975b4b88c397d7c2375a6349354e",
+  "title": "KARAYOLU YOLCU TAŞIMACILIĞINDA KULLANILAN TERMİNALLERE İLİŞKİN TAVAN ÜCRET TARİFELERİ HAKKINDA TEBLİĞ",
+  "word_count": 607
+}
