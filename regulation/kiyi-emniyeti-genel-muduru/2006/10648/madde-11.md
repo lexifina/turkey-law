@@ -1,0 +1,3 @@
+Ücretlendirmeye ilişkin istisnalar
+MADDE 11 – (1) Kuruluşun veya ülkenin uluslararası tanıtımı için kurulması talep edilen teçhizat ve sistemler ile ulusal güvenlik ve kamu geneline hitap eden sel, deprem gibi büyük felaketleri önceden tespit etme amacına yönelik olarak üniversite ve kamu kuruluşlarınca tesis edilecek sistemlerden ücret alınmaz.
+(2) Bu maddenin birinci fıkrası uyarınca yapılacak talepler, bir aydan kısa süreli ise Kuruluş Yönetim Kurulu (Değişik ibare:RG-31/12/2021-31706) bilgisine sunulmak şartıyla Genel Müdür, bir aydan uzun süreli ise Kuruluş Yönetim Kurulu onayına bağlıdır.

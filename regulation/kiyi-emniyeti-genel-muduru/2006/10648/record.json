@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.10648",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KIYI EMNİYETİ GENEL MÜDÜRLÜĞÜ TESİSLERİNDEN YARARLANACAK KİŞİ, KAMU VE ÖZEL KURULUŞLARIN SİSTEM, CİHAZ VE DONANIMLARINA YER TAHSİSİ VE KULE KULLANDIRILMASI HİZMETLERİNİN SAĞLANMASINA İLİŞKİN YÖNETMELİK",
+  "number": "10648",
+  "issuer": "Kıyı Emniyeti Genel Müdürü",
+  "issuer_slug": "kiyi-emniyeti-genel-muduru",
+  "path": "regulation/kiyi-emniyeti-genel-muduru/2006/10648",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10648&MevzuatTertip=5",
+  "source_sha256": "f3db7ffe4ade90e8bb3814da40a678f29404f62901c677415bfa384b07ef3558",
+  "source_bytes": 61700,
+  "published": "2006-09-15",
+  "gazette": "26290",
+  "in_force": "2021-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-31",
+      "RG-31/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-31",
+      "31/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2008-09-24",
+      "RG-24/9/2008",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2008-09-24",
+      "24/9/2008",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2672,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

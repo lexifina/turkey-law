@@ -1,0 +1,13 @@
+Ücretlendirmeye ilişkin ortak hükümler
+MADDE 10 – (1) Uydu antenleri için antenin yatay konumdaki izdüşüm alanı üzerinden, kurulduğu yer itibarıyla bu Yönetmeliğin 9 uncu maddesinde belirtilen yer kullanım ücretleri uygulanır.
+(2) Talep sahibi tarafından kurulan sistemler ya da kesintisiz güç kaynağı, gerilim regülatörü, akü grubu doğrultucular, elektrik dağıtım panosu, jeneratör grubu ve benzeri cihazlar için kurulduğu yer itibarıyla bu Yönetmeliğin 9 uncu maddesinde belirtilen yer kullanım ücretleri uygulanır.
+(3) Yer kullanım ücreti, m2 başına olup, ayrı bir yer tahsis edilmemiş ise cihazların oturum alanını ifade eder. 1 m2 den daha az alan 1 m2 olarak alınır. 1 m2 üzerindeki oturum alanının 0-0,5 m2 arasındaki küsuratı hesaplanmaya alınmaz. Küsuratı 0,5 ve üzeri olanlar bir üst tam sayıya tamamlanır.
+(4) Montajı yapılan cihazlar bitişik ise cihazların toplam işgal ettiği alan hesaplanır. Bitişik değil ise her bir cihazın işgal ettiği alan ayrı ayrı hesaplanır. Ancak, 1 m2 üzerindeki cihazların oturum alanının hesabında 0-0,5 m2 arasındaki küsuratı hesaplanmaya alınmaz. Küsuratı 0,5 ve üzeri olanlar bir üst tam sayıya tamamlanır. İşgal edilen alan 1 m2 den az ise ücretlendirme 1 m2 üzerinden yapılır.
+(5) Bir dizi teşkil edecek cihazların yerleşimi yapılırken, Kuruluş tarafından istendiğinin belgelenmesi şartı ile arada boşluk bırakılacak ise cihazların bitişik monte edilmesi hâlinde kaplayacağı alan üzerinden hesaplama yapılır. Küsuratlı alanlar için bu maddenin dördüncü fıkrasında yer alan şartlar aynen uygulanır. Talep sahibinin isteği ile boş alan ayrılacaksa, bu alan toplam alana dâhil edilir.
+(6) Bir cihaz kurulup bitişik alan rezerve edildiğinde, rezerve alan dâhil toplam alan hesaplanır. Küsuratlı alanlar için bu maddenin üçüncü ve dördüncü fıkrasında yer alan şartlar aynen uygulanır.
+(7) Talep sahibi tarafından kule kurulması hâlinde sadece kulenin oturduğu alan için bu Yönetmeliğin 9 uncu maddesinde belirtilen yer kullanım ücretleri uygulanır.
+(8) Talep sahibi tarafından, mevcut kulelere yükseltilerek anten konulması hâlinde, bu Yönetmeliğin 8 inci maddesinde belirtilen kule kullanım ücreti tam olarak alınır.
+(9) Talep sahibi tarafından, tesis edilecek anten plonu, baz istasyonu binası ve benzeri sistemleri korumaya almak için etrafı çevrilecek ise koruma alanının kapsadığı toplam m2 de dikkate alınarak bu Yönetmeliğin 9 uncu maddesinde belirtilen yer kullanım ücretleri uygulanır.
+(10) (Değişik:RG-24/9/2008-27007) (Mülga:RG-31/12/2021-31706)
+(11) Yer kullanım ücretleri aylık veya yıllık peşin alınır.
+(12) (Değişik ibare:RG-31/12/2021-31706) 3194 sayılı Kanunun ek 9 uncu maddesi kapsamında alınan ücretler hariç, yıllık peşin ödemelerde %10 indirim uygulanır.
