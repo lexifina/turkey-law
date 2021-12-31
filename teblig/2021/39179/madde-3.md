@@ -1,0 +1,3 @@
+Belge zorunluluğu
+MADDE 3 – (1) Tehlikeli ve çok tehlikeli işlerden olup, Meslekî Yeterlilik Kurumu tarafından standardı yayımlanan ve ekteki listede belirtilen mesleklerde, Meslekî Yeterlilik Kurumu Meslekî Yeterlilik Belgesine sahip olmayan kişiler bu Tebliğin yayımı tarihinden itibaren on iki ay sonra çalıştırılamazlar.
+(2) 5/6/1986 tarihli ve 3308 sayılı Mesleki Eğitim Kanununa göre ustalık belgesi almış olanlar ile Millî Eğitim Bakanlığına bağlı meslekî ve teknik eğitim okullarından ve üniversitelerin meslekî ve teknik eğitim veren okul ve bölümlerinden mezun olup, diplomalarında veya ustalık belgelerinde belirtilen bölüm, alan ve dallarda çalıştırılanlar için birinci fıkradaki belge şartı aranmaz.

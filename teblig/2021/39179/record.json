@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız.",
+        "official_href": "9.5.39179-EK.docx",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39179&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31706",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31706",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2021-12-31",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-105-0.json",
+      "id": "105",
+      "label": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=105&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2021-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39179&MevzuatTertip=5",
+  "source_bytes": 11201,
+  "source_id": "9.5.39179",
+  "source_sha256": "9803b5a0121f0cc616fb913720f8858ca9fee6020fc14ee99e2b02b7f0050aad",
+  "title": "MESLEKÎ YETERLİLİK KURUMU MESLEKÎ YETERLİLİK BELGESİ\r\nZORUNLULUĞU GETİRİLEN MESLEKLERE İLİŞKİN TEBLİĞ (SIRA NO: 2021/2)",
+  "word_count": 227
+}
