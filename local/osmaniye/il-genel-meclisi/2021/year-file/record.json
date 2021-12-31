@@ -1,0 +1,28 @@
+{
+  "number": "year-file",
+  "year": 2021,
+  "title": "2021 Yılı Meclis Kararları",
+  "decision_date": null,
+  "index_date": "2021-12-31",
+  "date_precision": "year",
+  "period": "2021",
+  "source": "https://www.osmaniyeozelidare.gov.tr/2021-yili-meclis-kararlari",
+  "official_page": "https://www.osmaniyeozelidare.gov.tr/2021-yili-meclis-kararlari",
+  "official_document": "https://www.osmaniyeozelidare.gov.tr/kurumlar/osmaniyeozelidare.gov.tr/dosyalar/meclis/mecliskararlari/2021/2021-YILI-1-OLAGANUSTU-IGM-KARAR-OZETI.pdf",
+  "source_sha256": "1bbabf4b7d39f3c987b6288d7686e415c1f0daf5920ff1fbdd10093f2cf70317",
+  "issuer": "Osmaniye İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number/subject as published (official list or file name); complete decision text is in the linked official document, not transcribed",
+  "in_force": "2021-12-31",
+  "in_force_basis": "The official source prints only the year of this file (2021); date set to 31 December of that year (turkey-law date convention for year-only sources, Alan 2026-11-16); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes",
+    "decision numbers and subjects"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2021 Yılı Meclis Kararları",
+  "item_title": "2021 Yılı Meclis Kararları"
+}
