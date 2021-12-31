@@ -1,0 +1,5 @@
+BSD yapma yetkisinin verilmesi
+MADDE 11 – (1) BSD yapma yetkisi almak üzere başvuruda bulunan BDK’lar bu Yönetmeliğin 10 uncu maddesinde belirtilen bilgi ve belgeler çerçevesinde Kurum tarafından değerlendirilir. Mesleki ve teknik açıdan yeterliliklerinin tespitine yönelik olarak Kurum tarafından yapılacak değerlendirme ve gerekirse yerinde incelemeler sonucunda faaliyet konularını yürütebilecek yeterliliğe sahip oldukları kanaatine varılması halinde BSD yapma yetkisi verilir, sicile kaydedilir ve bilgi sistemleri bağımsız denetim kuruluşları listesine eklenir.
+(2) Yetki başvurularının değerlendirilmesi sürecinde, Kurum tarafından gerekli görülmesi halinde BDK’nın yetkinliğinin ve yeterliliğinin ölçülebilmesi amacıyla ilave bilgi ve belgeler talep edilebilir. Talep edilen bilgi ve belgeler yetkinin verilmesine ilişkin değerlendirmelerde dikkate alınır.
+(3) Bu Yönetmelik kapsamında BSD yapma yetkisinin alınmasını sağlayan unsurların sürekliliği esastır. Kurum gerekli gördüğü durumlarda bu unsurların varlığını kontrol edebilir.
+(4) Bu Yönetmelik kapsamında BSD yapma yetkisi verilen BDK’ların unvanları Kurum internet sitesinde duyurulur.

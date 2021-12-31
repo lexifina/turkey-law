@@ -1,0 +1,3 @@
+Kurum ve yetkili kuruluşlar arası iş birliği
+MADDE 36 – (1) Kurum personeli, yetkili kuruluşların BSD sürecinin her aşamasına, bilgi ve becerilerini geliştirmek amacıyla, denetçi bağımsızlığı ilkesini zedelemeksizin izleyici sıfatı ile eşlik edebilir. Kurum personeli, yetkili kuruluşun bilgi birikimini şahsına veya bir başka yetkili kuruluşa çıkar sağlamak için kullanamaz. Yetkili kuruluş, Kurum personelinin süreçte yer alması ve bilgi birikimini artırması bakımından gerekli katkı ve çabayı gösterir.
+(2) Yetkili kuruluş birinci fıkra hükümlerinin uygulanmasına yönelik olarak denetlenendeki denetim programını, Kurumun talebine bağlı olarak, denetim çalışmalarının fiilen başlamasından önce Kuruma bildirir.

@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Kurum gözetimi ve denetimi altındaki kuruluşlar ile bilgi sistemleri bağımsız denetimine ilişkin rapor oluşturulması amacıyla sınırlı olmak üzere bankaların konsolidasyon kapsamındaki ortaklıkları, bilgi sistemleri bağımsız denetimi yapmaya yetkili bağımsız denetim kuruluşları ve bilgi sistemleri bağımsız denetimi yapmak için dış hizmet alınan kuruluşlar 1 inci maddede belirtilen amaçla sınırlı olarak bu Yönetmelik hükümlerine tabidir.

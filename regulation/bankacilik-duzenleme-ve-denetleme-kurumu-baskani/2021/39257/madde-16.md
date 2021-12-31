@@ -1,0 +1,4 @@
+Dış hizmet alımı ile bilgi sistemleri ve bankalarda iş süreçleri bağımsız denetimi yapma izninin verilmesi
+MADDE 16 – (1) Dış hizmet alımı ile BSD yapma iznini almak üzere başvuruda bulunan BDK ile BSDDHK’nın bilgi ve belgeler çerçevesinde değerlendirilerek, mesleki ve teknik açıdan yeterliliklerinin tespitine yönelik olarak Kurum tarafından gerektiğinde yerinde incelemede bulunulması neticesinde, faaliyet konularını yürütebilecek yeterliliğe sahip oldukları kanaatine varılması halinde, Kurul kararıyla, uygun görülen dönemler için BSD yapma izni verilir.
+(2) BDK’nın dış hizmet alacağı kuruluşun bu Yönetmelik kapsamında yetkili bir kuruluş olması durumunda dış hizmet alımı ile BSD yapması Kurum değerlendirmesine tabidir.
+(3) Dış hizmet alımı ile BSD yapma izni alan BDK ve BSD çerçevesinde sunduğu hizmetle sınırlı olmak üzere ilgili BSDDHK bu Yönetmelik kapsamında, aksi belirtilmedikçe, yetkili kuruluşlarla ilgili bütün hükümlere tâbidir.

@@ -1,0 +1,7 @@
+İKİNCİ BÖLÜM
+Bilgi Sistemleri ve İş Süreçleri Bağımsız Denetimine İlişkin Genel Kavramlar
+Önemlilik
+MADDE 5 – (1) Önemlilik; mesleki tecrübeye dayalı bir mütalaa konusu olup kontrol zayıflıkları sonucu ortaya çıkan ya da çıkabilecek hataların, ihmallerin, prosedürlere aykırılıkların ve hukuka aykırı fiillerin, denetlenenin finansal verilerini raporlamasına, güvenli ve kesintisiz hizmet sağlamasına olan ya da olabilecek etkisinin değerlendirilmesidir.
+(2) BSD’de önemlilik kavramı, denetimin planlanması, gerekli alanlarda yoğunlaştırılması, bulguların değerlendirilmesi ve raporlanması için kullanılabilir.
+(3) Denetlenen açısından hassasiyet arz eden verilerin bütünlüğü, tutarlılığı, güvenilirliği, gereken durumlarda gizliliği ve faaliyetlerin sürekliliği önemlilik kavramı kapsamında dikkate alınması gereken temel unsurlardır.
+(4) Finansal raporları etkileyen kontrollerin değerlendirilmesinde, süreç veya sistem tarafından yürütülen finansal işlemin değeri, işlem sıklığı gibi öğeler kullanılırken, finansal işlemlere ilişkin olmayan kontrollerin değerlendirilmesinde ise iş sürecinin kritikliği, sistem ve operasyonların maliyeti, hataların muhtemel sonuçlarının büyüklüğü, bir zaman aralığında gerçekleşen işlem/sorgu sayısı, tutulan dosyaların ve üretilen raporların niteliği, zamanlaması ve kapsamı, hizmet seviyesi anlaşmalarının gerekleri ve ceza maddelerindeki para cezası tutarları gibi öğeler kullanılır.

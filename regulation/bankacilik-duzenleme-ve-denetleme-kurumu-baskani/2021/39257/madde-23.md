@@ -1,0 +1,6 @@
+Bilgi sistemleri ve bankalarda iş süreçleri bağımsız denetimi ile bağımsız denetimin ilişkisi
+MADDE 23 – (1) Bağımsız denetim ile BSD; birbirlerinin kapsam ve sonucunu etkileyecek hususlar ihtiva etmeleri nedeni ile bütünsel bir yaklaşım içinde planlanır ve uygulanır.
+(2) Yetkili kuruluşların, Bankalar, Risk Merkezi ve bilgi alışverişi kuruluşlarında BSD gerçekleştirileceği dönemde, denetlenenin bağımsız denetim faaliyetini de yürütüyor olmaları zorunludur.
+(3) Denetçi BSD kapsamını belirlerken ve bu kapsamdaki çalışmalarını yürütürken; denetim görüşünü destekleyecek düzeyde yeterli ve uygun denetim kanıtı elde edilmesinin yanı sıra, bağımsız denetime ilişkin denetim riski değerlendirmelerini desteklemek için de denetim kanıtı elde edilmesini gözetir.
+(4) Bilgi sistemleri ve bankalarda iş süreçleri bağımsız denetimine ilişkin görüşün şartlı, olumsuz ya da görüş bildirmekten kaçınma şeklinde olması durumunda; görüş ve görüşe esas teşkil eden tespitler bağımsız denetçiye yazılı olarak iletilir.
+(5) Yetkili kuruluş, Bankalar, Risk Merkezi ve bilgi alışverişi kuruluşlarında gerçekleştireceği bilgi sistemleri ve iş süreçleri denetimi döneminde, denetlenenin bağımsız denetim faaliyetini de eşgüdümlü olarak yürütür.
