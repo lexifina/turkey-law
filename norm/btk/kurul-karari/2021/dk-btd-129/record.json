@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-BTD/129",
+  "source_id": "2021/DK-BTD/129",
+  "date": "2021-05-18",
+  "title": "Elektronik Haberleşme Sektöründe Başvuru Sahibinin Kimliğinin Doğrulanma Süreci Hakkında Yönetmelik",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/2f0fd67f-937b-49bd-8395-1eeb204ada16.pdf",
+  "source_sha256": "aff9c3065300a54b44a61fe1e3e04ae14fc264a318e3d5b5772db75d052f38e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
