@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2021-12-31",
+  "issue": "31706",
+  "edition": "mükerrer 4",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Tarım ve Orman Bakanlığının Kontrolüne Tabi Ürünlerin İthalat Denetimi Tebliği (Ürün Güvenliği ve Denetimi: 2022/5)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211231M4-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211231M4.htm",
+  "index_sha256": "fe9ff9438784c5761a96efe203ad1873015225f940c00b70bad831b5c98c55ec",
+  "index_header": "31 Aralık 2021 ... 31706 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2021/12/20211231M4.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
