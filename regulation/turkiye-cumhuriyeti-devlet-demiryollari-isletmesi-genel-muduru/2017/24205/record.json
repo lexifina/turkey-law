@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.24205",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI İŞLETMESİ GENEL MÜDÜRLÜĞÜ PERSONELİ GÖREVDE YÜKSELME VE UNVAN DEĞİŞİKLİĞİ YÖNETMELİĞİ",
+  "number": "24205",
+  "issuer": "Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürü",
+  "issuer_slug": "turkiye-cumhuriyeti-devlet-demiryollari-isletmesi-genel-muduru",
+  "path": "regulation/turkiye-cumhuriyeti-devlet-demiryollari-isletmesi-genel-muduru/2017/24205",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24205&MevzuatTertip=5",
+  "source_sha256": "9b071d4fc186fbe09996ec80f3baef611a19e1153dcb38a675519931f7c99d1a",
+  "source_bytes": 150463,
+  "published": "2017-12-25",
+  "gazette": "30281",
+  "in_force": "2021-12-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/12/2021\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2021-12-31",
+      "RG-31/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-31",
+      "31/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8001,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
