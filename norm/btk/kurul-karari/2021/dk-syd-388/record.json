@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-SYD/388",
+  "source_id": "2021/DK-SYD/388",
+  "date": "2021-12-14",
+  "title": "2022 Yılı Telsiz Ücret Tarifesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/b0c6d5bf-f8a8-45e8-8765-e18d59d57d81.pdf",
+  "source_sha256": "7379582ce965cf908393b710771b4cdc9988c7d52c6672dbc1c2a61d81515492",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
