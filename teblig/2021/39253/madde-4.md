@@ -1,0 +1,3 @@
+Dağıtım
+MADDE 4 – (1) Talep edilen toplam tarife kontenjanı miktarının, açılmış olan tarife kontenjanı miktarı ile eşit veya bu miktardan daha az olması durumunda talepler kapasite raporunda belirtilen tüketim miktarını aşmamak kaydıyla karşılanır.
+(2) Talep edilen toplam tarife kontenjanı miktarının açılan tarife kontenjanı miktarından daha fazla olması durumunda ise dağıtım; geçerli başvuru sayısı, toplam talep miktarı, fiili sarfiyat, üretim miktarı, üretim kapasitesi, tüketim kapasitesi, toplam ithalat miktarı ve önceki yıllarda kendilerine tahsis edilmiş bulunan tarife kontenjanını kullanma performansları kriterlerinden bir veya birkaçı dikkate alınmak suretiyle gerçekleştirilir.
