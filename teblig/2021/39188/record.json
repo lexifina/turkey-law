@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "31705 (2.Mükerrer)",
+  "date_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31705 (2.Mükerrer)",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "issuer": "Tarım ve Orman Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-637-0.json",
+      "id": "637",
+      "label": "Tarım ve Orman Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=637&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "tarim-ve-orman-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-12-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39188&MevzuatTertip=5",
+  "source_bytes": 10683,
+  "source_id": "9.5.39188",
+  "source_sha256": "8b9f20c060acb13f6855207b6f72b37408adb86d16b083d76f169959d751477a",
+  "title": "ALKOL VE ALKOLLÜ İÇKİ TESİSLERİNİN HAİZ OLMALARI GEREKEN TEKNİK ŞARTLAR, KURULMALARI, İŞLETİLMELERİ VE \r\nDENETLENMELERİNE İLİŞKİN USUL VE ESASLAR HAKKINDA\r\nYÖNETMELİĞİN 21 İNCİ MADDESİNİN UYGULANMASINA\r\nDAİR TEBLİĞ (TEBLİĞ NO: 2021/54)",
+  "word_count": 420
+}
