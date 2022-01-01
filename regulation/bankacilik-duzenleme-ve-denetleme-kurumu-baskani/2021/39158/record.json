@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39158",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİJİTAL BANKALARIN FAALİYET ESASLARI İLE SERVİS MODELİ BANKACILIĞI HAKKINDA YÖNETMELİK",
+  "number": "39158",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2021/39158",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39158&MevzuatTertip=5",
+  "source_sha256": "92c125f3502b74d2dd099cbc5177f8e6318817a38a507196337c2caf31e8926e",
+  "source_bytes": 81049,
+  "published": "2021-12-29",
+  "gazette": "31704",
+  "in_force": "2022-01-01",
+  "in_force_basis": "own commencement article: \"Bu Yönetmelik 1/1/2022 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/1/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4082,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

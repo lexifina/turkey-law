@@ -1,0 +1,3 @@
+Hizmet sürekliliği taahhüdü
+MADDE 7 – (1) Dijital bankalar, sunmakta oldukları elektronik bankacılık hizmetleri için, her bir dağıtım kanalı bazında, taahhüt edilen süreklilik yüzdesi değerlerini internet sitelerinin ana sayfasında görünecek şekilde ilan ederler. Dijital bankaların internet bankacılığı ve mobil bankacılık dağıtım kanalları için taahhüt edilen süreklilik yüzdesi %99,8’den daha düşük bir değer olamaz.
+(2) Dijital bankalar, sunmakta oldukları elektronik bankacılık hizmetleri için, her bir dağıtım kanalı bazında, taahhüt edilen ve gerçekleşen MTBF, MTTR ve süreklilik yüzdesi değerlerini Kurumun belirleyeceği usul ve esaslara göre raporlamakla yükümlüdürler.
