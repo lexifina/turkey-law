@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2021/DK-ETD/151",
+  "source_id": "2021/DK-ETD/151",
+  "date": "2021-06-08",
+  "title": "Mobil Çağrı Sonlandırma Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/980f2918-fcbb-48f2-9be8-02406d6a8b47.pdf",
+  "source_sha256": "28becffcc6a7c9048abf0c271a63af8046aa4a83c34d4c6106d249e9558f8445",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
