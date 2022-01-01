@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "31706 4. Mükerrer",
+  "date_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31706 4. Mükerrer",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-400.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=400&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-12-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39237&MevzuatTertip=5",
+  "source_bytes": 21971,
+  "source_id": "9.5.39237",
+  "source_sha256": "ae4643f946c9c0a34395b8be3a4ecf40995f0aed484da4aeb755102c99017c95",
+  "title": "7223 SAYILI ÜRÜN GÜVENLİĞİ VE TEKNİK DÜZENLEMELER KANUNU İLE DÜZENLENMİŞ OLAN İDARİ PARA CEZALARININ YENİ DEĞERLERİNİN DUYURULMASINA İLİŞKİN TEBLİĞ (ÜRÜN GÜVENLİĞİ VE DENETİMİ: 2022/13)",
+  "word_count": 282
+}
