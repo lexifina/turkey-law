@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "31696",
+  "date_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31696",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-200.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-12-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39165&MevzuatTertip=5",
+  "source_bytes": 18730,
+  "source_id": "9.5.39165",
+  "source_sha256": "59cd09e5c4a753b1978adb3f2c5a1507c62023818502814708290c2fbaf446fc",
+  "title": "VERASET VE İNTİKAL VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 53)",
+  "word_count": 422
+}
