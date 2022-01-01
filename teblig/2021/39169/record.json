@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39169",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "VERGİ USUL KANUNU GENEL TEBLİĞİ (SIRA NO: 534)",
+  "number": "39169",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/39169",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39169&MevzuatTertip=5",
+  "source_sha256": "a41c57dae0ee59ca019870ec792d4eb7c8f6887de0fcc2c3fef1a412827e05e3",
+  "source_bytes": 9344,
+  "published": "2021-12-21",
+  "gazette": "31696",
+  "in_force": "2022-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 286,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39169-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
