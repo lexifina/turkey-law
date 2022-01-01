@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39236",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİNA İNŞAATLARINDA KULLANILACAK AHŞAP VE METAL ESASLI KALIPLARIN VE TAŞIYICI KALIP İSKELELERİNİN TASARIM, HESAP VE YAPIM ESASLARI HAKKINDA TEBLİĞ",
+  "number": "39236",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "path": "teblig/2020/39236",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39236&MevzuatTertip=5",
+  "source_sha256": "15c921665f32c344523ffe546b2269a1d5e1c87da3f0a159631ac5a330d44058",
+  "source_bytes": 18044,
+  "published": "2020-11-06",
+  "gazette": "31296",
+  "in_force": "2022-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 746,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39236-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
