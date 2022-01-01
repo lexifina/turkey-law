@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "31703",
+  "date_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31703",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-122-0.json",
+      "id": "122",
+      "label": "Enerji ve Tabii Kaynaklar Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=122&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-12-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39144&MevzuatTertip=5",
+  "source_bytes": 26342,
+  "source_id": "9.5.39144",
+  "source_sha256": "598e8f3c63059d872691fbb5b99eb4787999b6a44c7b87d88bd797701e80e525",
+  "title": "702 SAYILI NÜKLEER DÜZENLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN 4/A MADDESİ UYARINCA 2022 YILINDA UYGULANACAK İDARİ PARA CEZALARINA İLİŞKİN TEBLİĞ",
+  "word_count": 350
+}
