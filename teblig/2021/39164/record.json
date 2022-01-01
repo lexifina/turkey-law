@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.39164",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "HARÇLAR KANUNU GENEL TEBLİĞİ (SERİ NO: 89)",
+  "number": "39164",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "path": "teblig/2021/39164",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39164&MevzuatTertip=5",
+  "source_sha256": "a47a8150b9c2082fe8b7c022582796e81537f04f000c229b9c3219a950681096",
+  "source_bytes": 9748,
+  "published": "2021-12-21",
+  "gazette": "31696",
+  "in_force": "2022-01-01",
+  "in_force_basis": "own commencement article: \"Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 234,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39164-Ek.xls"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
