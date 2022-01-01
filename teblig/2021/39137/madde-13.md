@@ -1,0 +1,3 @@
+Mesai saatleri dışında gümrük işlemleri
+MADDE 13 – (1) Hazır bildirimi işlemi sonrasında, belge kontrolüne tabi tutulacağı bildirilen ihracat beyannameleri ile eşyanın muayene edileceği bildirilen ihracat ve transit beyannamelerine ilişkin işlemlerin mesai saatleri dışında tamamlanma talepleri, fazla mesai ücreti yatırılması koşuluyla yerine getirilir.
+(2) Birinci fıkra kapsamında yer almayan, belge kontrolüne tabi tutulmayacağı bildirilen ihracat beyannameleri ile eşyanın muayene edilmeyeceği bildirilen ihracat ve transit beyannamelerine ilişkin işlemler fazla mesai ücreti ödenmeksizin tamamlanır.

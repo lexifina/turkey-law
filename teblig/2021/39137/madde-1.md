@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı; 7/10/2009 tarihli ve 27369 mükerrer sayılı Resmî Gazete’de yayımlanan Gümrük Yönetmeliğinin 238/A maddesinde düzenlenen izinli gönderici yetkisi başvurusunda aranacak koşullar, başvurunun yapılması, başvurunun incelenmesi, yetkinin verilmesi, askıya alınması, iptali, gümrük işlemleri ve diğer hususlara ilişkin uygulanacak usul ve esasları düzenlemektir.

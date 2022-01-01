@@ -1,0 +1,2 @@
+GÜMRÜK GENEL TEBLİĞİ
+(TRANSİT REJİMİ) (SERİ NO: 14)

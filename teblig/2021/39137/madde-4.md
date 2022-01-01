@@ -1,0 +1,13 @@
+Koşullar
+MADDE 4 – (1) İzinli gönderici başvurusunda bulunacak kişilerin aşağıda yer alan şartları taşıdığını başvuru formunda belirtilen esaslar çerçevesinde kanıtlaması gerekir:
+a) Sahip olunan kapsamlı teminat izni ile ilişkili teminat mektubunun, Türkiye’de yerleşik bir kefil kuruluştan alınmış olması şartıyla kapsamlı teminat kullanma veya teminattan vazgeçme iznine sahip olması,
+b) Yönetim kurulu üyeleri ile şirket sermayesinin %10 veya daha fazlasına sahip gerçek kişiler hakkında başvuru formunda belirtilen suçlarla ilgili kesinleşmiş mahkûmiyet kararı bulunmaması,
+c) Başvurunun yapıldığı takvim yılından geriye dönük üç takvim yılı boyunca her yıl ayrı ayrı değerlendirilmek üzere ihracat beyannamesi kapsamı eşyanın taşınmasına yönelik olarak TIR karnesi dahil en az 5.500 transit beyanında rejim hak sahibi olması veya en az 500 transit beyanında taşıyıcı sıfatını taşıyor olması,
+ç) Başvurunun yapıldığı takvim yılından geriye dönük üç takvim yılı boyunca her yıl ayrı ayrı değerlendirilmek üzere işlem gören tüm beyanname sayısının %0,5’ini aşan sayıda vergi kaybına neden olan gümrük mevzuatı ihlali nedeniyle ceza uygulanmamış olması ve gümrük mevzuatının ihlali nedeniyle %2’sini aşan sayıda birinci fıkrası hariç Gümrük Kanununun 241 inci maddesi uyarınca usulsüzlük cezası uygulanmamış olması,
+d) Başvuru formunda belirtilen asgari şartlara haiz en az bir tesise sahip olması,
+e) Avrupa Akreditasyon Birliğinin karşılıklı tanıma anlaşmalarına imza atmış akreditasyon kurumları tarafından akredite edilmiş uygunluk değerlendirme kuruluşlarınca düzenlenecek ve akreditasyon kurumunun markasını taşıyan geçerli ISO 9001 ve ISO 27001 sertifikalarına sahip olunması,
+f) Gümrük idaresinin etkin kontroller gerçekleştirmesine olanak sağlayacak şekilde asgari olarak başvuru formunda belirtilen niteliklere uygun kayıtların güvenilir ve izlenebilir şekilde tutulduğu bir lojistik programını kullanıyor olması,
+g) Başvuru sahibinin mali yapısının başvuru yılından önceki üç yıl esas alınmak suretiyle, yeminli mali müşavir tarafından incelenerek, başvuru formunda belirtilen şekilde olumlu görüşle rapora bağlanmış olması,
+ğ) Gümrük mevzuatı uyarınca kesinleşmiş ancak ödenmemiş herhangi bir vergi ve ceza borcu bulunmaması,
+h) Rejimin gözetim altında tutulabilmesi ve kontrollerin gerçekleştirilebilmesi için ilgili tesiste gümrük hizmeti verilmesinin gümrük idaresi üzerinde orantısız bir idari yük getirmeyecek olması.
+(2) Başvuru sahibinin yetkilendirilmiş yükümlü statüsü olması halinde birinci fıkranın (g) ve (ğ) bentlerinde belirtilen koşulları kanıtlaması gerekmez. Aynı fıkranın (c) bendinde belirtilen transit beyanı sayısı ise dörtte bir nispetinde uygulanır.

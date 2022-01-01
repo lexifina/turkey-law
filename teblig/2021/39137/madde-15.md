@@ -1,0 +1,3 @@
+İhracatta yerinde gümrükleme tesislerinden yapılacak taşımalar
+MADDE 15 – (1) İhracatta yerinde gümrükleme izni sahibi firmaların tesislerinden ihraç edilecek eşyanın transit beyanını izinli gönderici yetkisi sahibi rejim hak sahibi olarak basitleştirilmiş usulde verebilir.
+(2) Birinci fıkranın uygulandığı durumda ihracat beyannamesi ihracatta yerinde gümrüklemeye özgü basitleştirilmiş işlem koduyla tescil edilir. İhracat beyannamesinin işlemleri tamamlandıktan sonra eşyanın bulunduğu yer alanına ihracatta yerinde gümrükleme tesis kodu girilerek basitleştirilmiş usulde transit beyannamesi tescil edilir ve ihracatta yerinde gümrükleme tesislerinde izinli gönderici mührü tatbik edilir.
