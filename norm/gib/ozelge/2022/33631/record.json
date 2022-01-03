@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25253958-130[1-2020-77]-267",
+  "source_id": 33631,
+  "date": "2022-01-03",
+  "title": "ÖTV ödenmeksizin satın alınan kamyona tadilat veya ek imalat yapılmadan satışında ÖTV yükümlülüğü hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/33631",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "ca934ff9dd35b4134a680cfba0d98a8f9d6b893c80e4ef34ae3385e51cac3293",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
