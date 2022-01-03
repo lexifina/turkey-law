@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-180[1020052026]-146",
+  "source_id": 36880,
+  "date": "2022-01-03",
+  "title": "Fiziki Teslimat Olmaksızın Altın Satış İşleminde Kambiyo Muamele Vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/445/ozelge/36880",
+  "related_law": "6802 sayılı GİDER VERGİLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7a184d920d363c4e58d0e4419a36852ccfc27be4a9e2a2c876cc6783e4d9b121",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
