@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-26696128-130[28-2021/17]-88",
+  "source_id": 32151,
+  "date": "2022-01-03",
+  "title": "6306 sayılı Kanun kapsamındaki inşaat taahhüt işlerinde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32151",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "08054ca67e0d3f3fde431441455d7dd5f4bf9550c7fc69851a83a433c5b29564",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
