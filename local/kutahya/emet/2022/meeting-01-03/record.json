@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-03",
+  "number_as_published": "meeting-01-03",
+  "year": 2022,
+  "title": "03.01.2022 1 .Olağan Meclis Karar Özetleri",
+  "decision_date": "2022-01-03",
+  "source": "https://www.emet.bel.tr/karar/03012022-1-olagan-meclis-karar-ozetleri/46/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/03012022-1-olagan-meclis-karar-ozeti.doc",
+  "source_sha256": "2aae47dd1be9acb7c2365fcc47c0909bfc54e58277ffcf0c5cf78f3d205832a6",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-01-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 03.01.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "03.01.2022 1 .Olağan Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/03012022-1-olagan-meclis-karar-ozetleri/46/"
+}
