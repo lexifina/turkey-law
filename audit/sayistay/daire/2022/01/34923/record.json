@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "392",
+  "decision_date": "2022-01-04",
+  "source_id": 34923,
+  "chamber": "3",
+  "ilam_number": "324",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/34923/",
+  "source_sha256": "3e3c337ab3581e0d8c82a27b9c5b47734e762d758ec8f179043b5af31ecb44b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
