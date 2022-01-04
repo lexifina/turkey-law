@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-160[2021/10]-3722",
+  "source_id": 34109,
+  "date": "2022-01-04",
+  "title": "Veraset yolu ile intikal eden aracın nasıl beyan edileceği ve hangi şartlarda ÖTV istisnasından faydalanıp faydalanamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/34109",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "3fa54515a7a048b545449757731f40e72881dd8d66e39b60e2f9c62c519a38de",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
