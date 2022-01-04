@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür, Rektör tarafından fizyoterapi ve rehabilitasyon konusunda deneyimli, alanında ulusal ve uluslararası düzeyde basılmış eserleri olan İstinye Üniversitesi öğretim üyeleri arasından üç yıl için görevlendirilir.
+(2) Müdürün altı aydan fazla süreyle görevi başında bulunamayacağı durumlarda bir ay içinde yeni bir Müdür görevlendirilir. Rektör, Müdürlük görevini yeni Müdür görevlendirene kadar bizzat yürütebileceği gibi, görevi vekâleten yürütmek üzere Üniversitenin tam zamanlı öğretim elemanlarından birine verebilir.
+(3) Müdür, Rektörün onayıyla, Üniversitenin konuyla ilgili alanlarında çalışan tam zamanlı öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirebilir. Müdürün görev süresinin dolması veya herhangi bir şekilde görevinden ayrılması halinde, müdür yardımcılarının da görevi sona erer. Müdür yardımcıları, Müdürün bulunmadığı zamanlarda Müdürün görevlerini yerine getirir.
+(4) Müdür, Merkezin bütün etkinliklerinin gözetim ve denetiminden ve bu konularda gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur.
