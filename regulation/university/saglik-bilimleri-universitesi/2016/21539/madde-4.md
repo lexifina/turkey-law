@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) (Değişik:RG-5/1/2022-31710) AKTS: Avrupa Kredi Transfer Sistemine göre belirlenmiş olan ders kredisini
+b) Birim: Sağlık Bilimleri Üniversitesine bağlı ilgili fakülte, yüksekokulları ve meslek yüksekokullarını,
+c) Birim yönetim kurulu: Sağlık Bilimleri Üniversitesine bağlı birimlerin yönetim kurullarını,
+ç) Birim kurulu: Sağlık Bilimleri Üniversitesine bağlı fakülte, yüksekokul ve meslek yüksekokulu kurullarını,
+d) Birim yöneticisi: Sağlık Bilimleri Üniversitesine bağlı birimlerin yöneticilerini,
+e) Bölüm: Amaç, kapsam ve nitelik yönünden bir bütün teşkil eden, birbirini tamamlayan veya birbirine yakın anabilim ve anasanat dallarından oluşan; fakültelerin, yüksekokulların ve meslek yüksekokullarının eğitim-öğretim, bilimsel araştırma ve uygulama birimini,
+f) Danışman: Öğrencilerin eğitim-öğretim ve diğer sorunlarıyla ilgilenmek üzere dekan, müdür, ilgili bölüm başkanı veya anabilim dalı başkanı tarafından görevlendirilen öğretim elemanını,
+g) Dekan: Sağlık Bilimleri Üniversitesine bağlı ilgili fakültelerin dekanlarını,
+ğ) Dekanlık: Sağlık Bilimleri Üniversitesine bağlı ilgili fakültelerin dekanlığını,
+h) Duplikata: Diploma ve sertifikaların tıpkısı ikinci nüshalarını,
+ı) Fakülte: Sağlık Bilimleri Üniversitesine bağlı fakülteleri,
+i) GANO: Genel akademik başarı not ortalamasını,
+j) Lisans: Ortaöğretimden sonra, en az sekiz yarıyıllık veya dört yıllık bir programı kapsayan yükseköğretimi,
+k) Müdür: Sağlık Bilimleri Üniversitesine bağlı yüksekokul ve meslek yüksekokullarının müdürünü,
+l) Müdürlük: Sağlık Bilimleri Üniversitesine bağlı meslek yüksekokulları müdürlüğünü,
+m) Ön lisans: Sağlık Bilimleri Üniversitesine bağlı en az dört yarıyıllık programı,
+n) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığını,
+o) Rektör: Sağlık Bilimleri Üniversitesi Rektörünü,
+ö) Senato: Sağlık Bilimleri Üniversitesi Senatosunu,
+p) Üniversite: Sağlık Bilimleri Üniversitesini,
+r) YANO: Yarıyıl akademik başarı not ortalamasını,
+s) Yönetim Kurulu: Sağlık Bilimleri Üniversitesi Yönetim Kurulunu,
+ş) YÖK: Yükseköğretim Kurulu Başkanlığını,
+t) Yüksekokul: Sağlık Bilimleri Üniversitesine bağlı ön lisans düzeyinde eğitim-öğretim yapılan birimi,
+ifade eder.

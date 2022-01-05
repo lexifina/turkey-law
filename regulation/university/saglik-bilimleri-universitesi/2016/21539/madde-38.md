@@ -1,0 +1,4 @@
+Yurt içi ve yurt dışı üniversiteler ile işbirliği
+MADDE 38 – (1) Üniversite ile yurt içindeki ve yurt dışındaki bir üniversite arasında yapılan anlaşma uyarınca, ortak program açılabilir. Ortak programlar ile ilgili uygulama esasları Senato tarafından belirlenir.
+(2) Öğrenci değişim programları çerçevesinde Üniversite tarafından en az bir yarıyıl veya bir aylık staj olmak üzere, yurt içindeki ve yurt dışındaki üniversitelere öğrenci gönderilebilir, yurt içindeki ve yurt dışındaki bu üniversitelerden öğrenci kabul edilebilir. Bu süre içinde, öğrencinin Üniversitedeki kaydı devam eder ve bu süre öğretim süresinden sayılır.
+(3) Öğrencinin, danışmanının onayı ile yurt içindeki veya yurt dışındaki üniversitede aldığı dersler ve bunların başarı notuna nasıl yansıtılacağı, ilgili birim yönetim kurulu tarafından kararlaştırılır.

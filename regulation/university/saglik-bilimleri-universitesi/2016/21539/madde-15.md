@@ -1,0 +1,2 @@
+Akademik danışmanlık
+MADDE 15 – (1) Öğrencilerin eğitim-öğretimle ilgili veya diğer sorunlarının çözümüne yardımcı olmak ve öğrencileri yönlendirmek üzere, öğretim yılı başlamadan önce bölüm başkanlıklarının önerisi ve ilgili birim yönetim kurulunun kararıyla öğretim elemanları arasından akademik danışmanlar görevlendirilir. Danışmanların görev ve sorumluluklarına ilişkin esaslar Senato tarafından belirlenir.

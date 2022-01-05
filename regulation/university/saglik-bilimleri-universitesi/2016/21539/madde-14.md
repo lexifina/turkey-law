@@ -1,0 +1,7 @@
+Ders kayıtları ve kayıt yenileme
+MADDE 14 – (1) (Değişik:RG-5/1/2022-31710) Kayıt yenileme ve ders alma işlemleri, eğitim-öğretim yarıyılı/yılı başlamadan akademik takvimde belirtilen tarihler arasında yapılır. Öğrenci katkı payı veya öğrenim ücreti ödemesi gereken öğrencilerin, kayıt yenileme ve ders alma işlemlerinin yürütülebilmesi için o döneme ait öğrenci katkı payı veya öğrenim ücretini yatırmış olması gerekir. Öğrencilerin kaydının silinmesi halinde, alınan öğrenci katkı payı veya öğrenim ücreti iade edilmez. 2547 sayılı Kanunun 46 ncı maddesi uyarınca, öğrenim katkı payını ödemeyenler o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamazlar.
+(2) Ders kayıt işlemlerinden öğrenci sorumludur.
+(3) Haklı ve geçerli sebeplerle belirlenen süreler içinde kaydını yenilemeyen öğrencilerin, akademik takvimde belirlenen süre içinde ilgili birime başvurmaları gerekir. Başvurular, ilgili birim yönetim kurulunca geçen sürenin devamsızlıktan sayılması şartıyla karara bağlanır.
+(4) Belirlenen süre içinde kaydını yenilemeyen, haklı ve geçerli sebepleri olmayan öğrenciler, o yarıyıl veya yılda derslere devam edemez ve sınavlara giremezler.
+(5) Kayıt yenilenmemesi sebebiyle kaybedilen süreler, 2547 sayılı Kanunda belirtilen azami öğrenim süresinden sayılır.
+(6) İkinci öğretimde ilk %10’a girerek birinci öğretim öğrencilerinin ödeyecekleri öğrenci katkı payı kadar öğrenim ücreti ödeme hakkını kazanan öğrenciler, öğrenimlerine yine ikinci öğretimde devam ederler.

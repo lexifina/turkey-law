@@ -1,0 +1,4 @@
+Öğrenci katkı payı ve öğrenim ücreti
+MADDE 6 – (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir. Öğrenim harcını ödemeyen öğrenciler ders kaydı yaptıramaz ve öğrencilik haklarından yararlanamaz.
+(2) Hazırlık sınıfı hariç, bulundukları bölümde her bir dönem için belirlenen asgari derslerden başarılı olan ve bu dersleri alan öğrencilerin başarı ortalamasına göre dönem sonu itibariyle yapılacak sıralamada ilk %10’a giren birinci öğretim öğrencilerin ödeyecekleri öğrenim harçları 2547 sayılı Kanunun 46 ncı maddesine göre belirlenir.
+(3) Öğrencilerin belirlenen zorunlu eğitim süreleri içerisinde mezun olamamaları ve yandal veya çift anadal öğrenimlerini tamamlayamamaları halinde ödeyecekleri öğrenim harçlarının hesaplanması 2547 sayılı Kanunun 46 ncı maddesine göre yapılır.

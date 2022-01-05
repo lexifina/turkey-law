@@ -1,0 +1,4 @@
+Çift anadal ve yan dal
+MADDE 12 – (1) Çift anadal programında; bölümün/programın öğrencileri; lisans öğrenimleri süresince, aynı fakülte/yüksekokul içinde veya dışında kayıtlı oldukları bölüme/programa konu bakımından yakın olan başka bir bölümün/programın derslerini aynı zamanda takip edebilirler.
+(2) Kayıtlı oldukları lisans programlarını başarıyla yürüten öğrenciler, ilgi duydukları başka bir dalda bilgilenmelerini sağlamak amacıyla yan dal programını takip edebilirler.
+(3) Çift anadal programı ve yan dal programı ile ilgili esaslar; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik ile ilgili diğer mevzuat hükümlerine ve Senato kararlarına göre uygulanır.

@@ -1,0 +1,3 @@
+Devam zorunluluğu
+MADDE 20 – (1) Öğrencilerin, ilk defa alınan veya devamsızlıktan dolayı başarısız olunup tekrar edilen teorik derslerin %70'ine, uygulamalar, laboratuvar ve benzeri çalışmaların %80'ine devam etmiş olması gerekir. Öğrencilerin devam durumları, derse giren öğretim elemanı tarafından izlenir ve ilgili birimin öğrenci işleri tarafından takip edilerek kayda geçirilir. Devamsızlıkları sebebiyle sınava girme hakkı kazanamayan öğrencilerin listesi, yarıyıl/yılsonu sınavından önce dersin öğretim elemanı veya ilgili birimin öğrenci işleri tarafından ilan edilir.
+(2) Ders ve uygulamaların başarısızlık nedeniyle tekrarı halinde, devam şartının aranıp aranmayacağı ilgili birim için birim kurulunca belirlenir.

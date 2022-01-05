@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/saglik-bilimleri-universitesi/2016/21539",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 40 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-5/1/2022",
+  "first_law": null,
+  "gazette": "29714",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-05",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Sağlık Bilimleri Üniversitesi",
+  "issuer_slug": "saglik-bilimleri-universitesi",
+  "kind": "regulation",
+  "published": "2016-05-16",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=21539&MevzuatTertip=5",
+  "source_id": "8.5.21539",
+  "source_sha256": "defaf7f3ddf4b9d556596a9f2157813098afdec1891906d9b6d98fb8d67449fa",
+  "title": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ ÖN LİSANS VE LİSANS\r\nEĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 454,
+  "version_label": "oldest version available",
+  "word_count": 5159
+}
