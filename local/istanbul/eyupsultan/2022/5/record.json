@@ -1,0 +1,22 @@
+{
+  "number": "5",
+  "number_as_published": "2022/05",
+  "year": 2022,
+  "title": "Boş-Dolu kadro unvan derece değişikliği",
+  "decision_date": "2022-01-06",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-ocak-ayi-meclis-kararlari/2193",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-05/2197",
+  "source_sha256": "658010dc6a8c3c69915b763fd5a1a4ae2704048a1c970d79f40c024ec7c92d36",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-01-06",
+  "in_force_basis": "Decision date as printed in the official council listing: 06.01.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "83032779c0c0f8cbe2c12a962444cbaca44d63ef19f9c49400d37e5c4e76263c"
+}
