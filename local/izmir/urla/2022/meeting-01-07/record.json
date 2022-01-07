@@ -1,0 +1,24 @@
+{
+  "number": "meeting-01-07",
+  "number_as_published": "meeting-01-07",
+  "year": 2022,
+  "title": "07 Ocak Meclis Kararları",
+  "decision_date": "2022-01-07",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4550/ocak-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4555/07-ocak-meclis-kararlari",
+  "source_sha256": "4e2ca93ef93bdfa127f351e9b33fa282f0a3a11d526b599f0e9432c21feb3527",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-01-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Ocak Meclis Kararları (year 2022 from the official year list '2022 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Ocak Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4555/07-ocak-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
