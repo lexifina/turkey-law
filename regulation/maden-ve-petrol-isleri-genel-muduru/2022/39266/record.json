@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39266",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MADEN VE PETROL İŞLERİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39266",
+  "issuer": "Maden ve Petrol İşleri Genel Müdürü",
+  "issuer_slug": "maden-ve-petrol-isleri-genel-muduru",
+  "path": "regulation/maden-ve-petrol-isleri-genel-muduru/2022/39266",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39266&MevzuatTertip=5",
+  "source_sha256": "929c29774488b22bc3dbcfff6bfddfa89ea4661c90808541f5e887048d7e4296",
+  "source_bytes": 16674,
+  "published": "2022-01-07",
+  "gazette": "31712",
+  "in_force": "2022-01-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39266-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
