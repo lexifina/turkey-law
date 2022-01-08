@@ -1,0 +1,23 @@
+{
+  "number": "meeting-01-08-10",
+  "number_as_published": null,
+  "year": 2022,
+  "title": "FEVZİ ÇAKMAK MAH. 102113 ADA 2 PARSEL SATIŞ",
+  "decision_date": "2022-01-08",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_183_-_FEVZC4B0_C387AKMAK_MAH-_102113_ADA_2_PARSEL_SATIC59E.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-01-08",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2022-01-08; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
