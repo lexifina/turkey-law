@@ -1,0 +1,4 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu, Merkezin çalışma alanıyla ilgili anabilim dallarında görevli öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilen, Müdür ve yardımcıları dahil (Değişik ibare:RG-27/2/2020-31052) en az yedi, en çok on beş üyeden oluşur. Süresi biten üye yeniden görevlendirilebilir. Herhangi bir nedenle görevinden ayrılan üyenin yerine kalan süreyi tamamlamak üzere aynı yöntemle yeni bir üye görevlendirilir.
+(2) Yönetim Kurulu, Merkezin hedefleri doğrultusunda bilimsel koleksiyonun ve sergi alanlarının geliştirilmesi, araştırma, eğitim, uygulama, danışmanlık, yayın faaliyetleri ve bunların yürütülmesi ile ilgili esasları kararlaştırır.
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine ayda en az bir defa salt çoğunlukla toplanır ve kararlar oy çokluğuyla alınır.
