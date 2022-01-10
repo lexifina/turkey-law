@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; koordinatör Muş Alparslan Üniversitesi bünyesinde Çukurova Üniversitesi, Dicle Üniversitesi ve Ondokuz Mayıs Üniversitesi iş birliği ile kurulan Muş Alparslan Üniversitesi, Çukurova Üniversitesi, Dicle Üniversitesi ve Ondokuz Mayıs Üniversitesi Kaba Yemde Çayır, Mera ve Yem Bitkileri Ortak Uygulama ve Araştırma Merkezinin amacına, faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve çalışma şekline ilişkin hükümleri kapsar.
