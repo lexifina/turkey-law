@@ -1,0 +1,3 @@
+Görüntülü görüşmede sürecin sonlandırılması
+MADDE 9 – (1) Zayıf ışık koşulları, düşük görüntü kalitesi ya da iletimi ve benzeri durumlar nedeniyle bu Yönetmelikte belirtildiği şekilde görsel doğrulama yapılmasının ve/veya kişi ile sözlü iletişim kurmanın mümkün olmadığı hallerde uzaktan kimlik tespitinin görüntülü görüşme aşaması sonlandırılır. Süreçte başkaca bir tutarsızlık veya belirsizlik bulunması durumunda da bu hüküm uygulanır.
+(2) Uzaktan kimlik tespitinin görüntülü görüşme aşamasında kişi tarafından sunulan belgenin geçerliliği hususunda ya da dolandırıcılık veya sahtecilik teşkil edebilecek eylemlerden şüphe edilmesi durumunda, uzaktan kimlik tespiti süreci sonlandırılır.

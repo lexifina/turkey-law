@@ -1,0 +1,6 @@
+Kimliği tespit edilecek kişinin doğrulanması
+MADDE 8 – (1) Uzaktan kimlik tespitinin görüntülü görüşme aşamasında kişinin canlılığını tespit edici yöntemler kullanılır. Şirket sahte yüz teknolojisine dair riskleri önlemeye yönelik ilave tedbirler alır.
+(2) Uzaktan kimlik tespiti sürecinde kişinin yüzü ile kimlik belgesinden yakın alan iletişimi kullanılarak alınabilmesi halinde temassız yongadaki fotoğrafın, alınamaması halinde ise kimlik belgesi üzerinde yer alan fotoğrafın biyometrik karşılaştırması yapılır.
+(3) Müşteri temsilcisi, kullanılan kimlik belgesindeki fotoğrafın ve kişisel bilgilerin kişi ile uyuştuğundan emin olur.
+(4) Müşteri temsilcisi, kimlik tespiti sürecinde kişi ile kuracağı diyalog ve yapacağı gözlemler neticesinde kimlik belgesindeki bilgilerin, görüşme esnasında kişi tarafından sağlanan bilgilerin ve belirtilen niyetin inandırıcı ve yeterli olduğuna kanaat getirir. Bu kapsamda kimlik avına, sosyal mühendisliğe, başka bir tarafın zorlamasıyla baskı altında gerçekleşen hareketlere ve benzeri dolandırıcılık yöntemlerine ilişkin riskler göz önünde bulundurulur.
+(5) Uzaktan kimlik tespitinin görüntülü görüşme aşamasının sonunda kişinin şirket tarafından verilecek hizmetler hakkında bilgilendirilmesi ve şirket müşterisi olacağını kabul ettiğine ilişkin sözlü onay alınması ile süreç tamamlanmış olur.
