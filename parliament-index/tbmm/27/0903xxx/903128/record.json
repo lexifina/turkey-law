@@ -1,0 +1,93 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903128,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "CEMAL ÖZTÜRK (GİRESUN)",
+  "summary": "Ve 77 Milletvekilinin Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/4058) (S. Sayısı: 301)",
+  "title": "Ve 77 Milletvekilinin Bireysel Emeklilik Tasarruf ve Yatırım Sistemi Kanunu ile Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair (2/4058) (S. Sayısı: 301)",
+  "first_sitting_date": "2022-01-11",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 89,
+      "sitting": 44,
+      "sitting_date": "2022-01-11",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089044.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089fih.pdf",
+      "pages": [
+        "304:345",
+        "346"
+      ]
+    },
+    {
+      "cilt": 89,
+      "sitting": 45,
+      "sitting_date": "2022-01-12",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089045.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089fih.pdf",
+      "pages": [
+        "464",
+        "467",
+        "467:472",
+        "473",
+        "475:505",
+        "508:524"
+      ]
+    },
+    {
+      "cilt": 89,
+      "sitting": 46,
+      "sitting_date": "2022-01-13",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089046.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089fih.pdf",
+      "pages": [
+        "600:608",
+        "609:612",
+        "614:625",
+        "626:627"
+      ]
+    },
+    {
+      "cilt": 89,
+      "sitting": 47,
+      "sitting_date": "2022-01-18",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089047.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c089/tbmm27089fih.pdf",
+      "pages": [
+        "726:746",
+        "747",
+        "748:756",
+        "757:768"
+      ]
+    },
+    {
+      "cilt": 90,
+      "sitting": 48,
+      "sitting_date": "2022-01-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c090/tbmm27090048.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c090/tbmm27090fih.pdf",
+      "pages": [
+        "83:86",
+        "130:142"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2022-01-11",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
