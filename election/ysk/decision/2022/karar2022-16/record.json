@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2022/karar2022-16",
+  "list_number": "16",
+  "decision_date": "2022-01-12",
+  "title": "2022 yılının son haftası içinde iki yıl süre ile oluşturulacak il ve ilçe seçim kurullarının yeniden oluşturulması, kuruluş ve esas ve ilkelerinin belirlenmesine ilişkin karar",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/82050/Karar2022-16.pdf",
+  "source_sha256": "348affd4c24d1515a7de40eaf3b0a9de12f4f8240fde91b5347bda2dfbbc7059",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 10,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2022-01-12",
+  "law_text_complete": false
+}
