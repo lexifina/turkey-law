@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-7326-43]-49681",
+  "source_id": 27250,
+  "date": "2022-01-13",
+  "title": "Yatırım teşvik belgesi kapsamında iktisap edilmiş iktisadi kıymetin Vergi Usul Kanununun geçici 31 inci maddesi uyarınca yeniden değerlenmesi halinde, yatırım teşvik belgesi kapsamında yapılan yatırım harcaması nedeniyle hak kazanılan yatırıma katkı tutarının da değişip değişmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27250",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "1c68d12b3d2aa569f4e0904ad1d5dab99121e360116e33ade22ed64296223ad0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
