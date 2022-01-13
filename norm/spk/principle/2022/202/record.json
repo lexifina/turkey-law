@@ -1,0 +1,78 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "202",
+  "decision_number": "2-62",
+  "date": "2022-01-13",
+  "title": "Kurul Karar Organı’ Nın i-SPK.39.3 (13.01.2022 Tarih ve 2-62) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/202",
+  "source_sha256": "fc0b4412414f419d74655a95eb40d55efd13f26b00bd2e5d23466d22ca87668c",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 202,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 3.Kurul Karar Organı’ nın i-SPK.39.3 (13.01.2022 tarih ve 2/62) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2022-01-13",
+    "source_clauses": [
+      "3.Kurul Karar Organı’ nın i-SPK.39.3 (13.01.2022 tarih ve 2/62) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "e469eb76-935a-4669-b3e8-75e1de3c2733",
+    "contentSource": "IlkeKarari",
+    "contentID": 202,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’ Nın i-SPK.39.3 (13.01.2022 Tarih ve 2-62) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2022-01-13T00:00:00",
+    "kurulKararTarih": "13.01.2022",
+    "kurulToplantiNo": "2-62",
+    "bultenYili": 2022,
+    "bultenNo": 2,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "205:Bilgi Sistemleri Yönetimi Tebliği ;132:Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Hakkında Tebliğ",
+    "baglantiliTebligler": [
+      {
+        "key": 205,
+        "value": "Bilgi Sistemleri Yönetimi Tebliği "
+      },
+      {
+        "key": 132,
+        "value": "Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Hakkında Tebliğ"
+      }
+    ],
+    "ilgiliKonularStr": "12:Bağımsız Denetim, Derecelendirme ve Değerleme Kuruluşları;46:Bilgi Sistemleri Yönetimi ve Denetimi",
+    "ilgiliKonular": [
+      {
+        "key": 12,
+        "value": "Bağımsız Denetim, Derecelendirme ve Değerleme Kuruluşları"
+      },
+      {
+        "key": 46,
+        "value": "Bilgi Sistemleri Yönetimi ve Denetimi"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/202",
+    "linkTarget": "_blank"
+  }
+}
