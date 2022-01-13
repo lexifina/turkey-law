@@ -1,0 +1,24 @@
+{
+  "number": "47",
+  "number_as_published": "47",
+  "year": 2022,
+  "title": "NAZIM İMAR PLANI-(AKÇAKALE YOL GÜZERGAHI-EYYÜBİYE)",
+  "decision_date": "2022-01-13",
+  "source": "https://www.sanliurfa.bel.tr/icerik/12897/106/nazim-imar-plani-akcakale-yol-guzergahi-eyyubiye",
+  "official_document": null,
+  "source_sha256": "e730b34af5ec6566bdf5ff784282e088ec25029c09299c4b5d674f17e403ab99",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-01-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13.01.2022 tarih ve 47 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-01-28",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
