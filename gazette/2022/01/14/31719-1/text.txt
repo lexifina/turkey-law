@@ -1,0 +1,406 @@
+14 Ocak 2022 CUMA
+Resmî Gazete
+Sayı : 31719
+YÖNETMELİK
+Ticaret Bakanlığından:
+KOOPERATİF
+BİLGİ SİSTEMİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Amaç, Kapsam, Dayanak ve Tanımlar
+Amaç
+MADDE 1 –
+(1) Bu Yönetmeliğin amacı,
+Kooperatif Bilgi Sisteminin (KOOPBİS) kurulması, işletilmesi, güncellenmesi
+ve geliştirilmesi ile işlemlerinin izlenmesi ve raporlanmasında görev
+alacakların belirlenmesine, kullanıcı yetkilerinin ve yükümlülüklerinin
+tanımlanmasına, elektronik ortamda sunulacak hizmetlerden faydalanılmasına
+ve bu sistem üzerinde işlenen kişisel verilerin aktarımı ile güvenliğinin
+sağlanmasına ve istatistiki bilgi üretilmesine ilişkin usul ve esasları
+düzenlemektir.
+Kapsam
+MADDE 2 –
+(1) Bu Yönetmelik, 24/4/1969
+tarihli ve 1163 sayılı Kooperatifler Kanununa tabi kooperatif ve üst
+kuruluşları, 18/4/1972 tarihli ve 1581 sayılı Tarım Kredi Kooperatifleri ve
+Birlikleri Kanununa tabi kooperatif ve üst kuruluşları ile 1/6/2000 tarihli
+ve 4572 sayılı Tarım Satış Kooperatif ve Birlikleri Hakkında Kanuna tabi
+kooperatif ve üst kuruluşlarının yönetici ve ortakları ile diğer kişi,
+kurum ve kuruluşların Kooperatif Bilgi Sistemini (KOOPBİS) kullanmalarına
+ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 24/4/1969 tarihli ve 1163
+sayılı Kanunun 24 üncü ve ek 5 inci maddeleri, 18/4/1972 tarihli ve 1581
+sayılı Tarım Kredi Kooperatifleri ve Birlikleri Kanunun 20 nci maddesi,
+1/6/2000 tarihli ve 4572 sayılı Tarım Satış Kooperatif ve Birlikleri
+Hakkında Kanunun 3 üncü ve 8 inci maddeleri ile 10/7/2018 tarihli ve 30474
+sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı
+Hakkında Cumhurbaşkanlığı Kararnamesinin 453 üncü maddesinin birinci
+fıkrasının (ğ) ve (h) bentlerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Ticaret Bakanlığını,
+b) Denetçi: 1163 sayılı Kanunun 65 inci ve 69 uncu
+ile 4572 sayılı Kanunun 5 inci maddesi uyarınca belirlenen denetçileri,
+c) e-Devlet Kapısı: Kamu hizmetlerinin ortak
+platformda, tek kapıdan sunumunu ve vatandaşın kamu hizmetlerine elektronik
+ortamdan güvenli ve etkin bir şekilde erişimini sağlayan internet sitesini,
+ç) Genel Müdürlük: Tarımsal amaçlı kooperatifler ve
+üst kuruluşları için Tarım Reformu Genel Müdürlüğünü; yapı kooperatifleri
+ve üst kuruluşları için Mesleki Hizmetler Genel Müdürlüğünü; diğer
+kooperatifler ve üst kuruluşları için Esnaf, Sanatkârlar ve Kooperatifçilik
+Genel Müdürlüğünü,
+d) İl Müdürlüğü: Tarımsal amaçlı kooperatifler ve
+üst kuruluşları için Tarım ve Orman İl Müdürlüğünü; yapı kooperatifleri ve
+üst kuruluşları için Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünü;
+diğer kooperatifler ve üst kuruluşları için Ticaret İl Müdürlüğünü,
+e) İlgili Bakanlık: Tarımsal amaçlı kooperatifler
+ve üst kuruluşları için Tarım ve Orman Bakanlığını; yapı kooperatifleri ve
+üst kuruluşları için Çevre, Şehircilik ve İklim Değişikliği Bakanlığını;
+diğer kooperatifler ve üst kuruluşları için Ticaret Bakanlığını,
+f) Kanun: 1163 sayılı Kanunu,
+g) Kooperatif: 1163 sayılı Kanun, 1581 sayılı Kanun
+ve 4572 sayılı Kanun kapsamında faaliyet gösteren kooperatif ve üst
+kuruluşlarını,
+ğ) Kooperatif Bilgi Sistemi (KOOPBİS): Kanunun ek 5
+inci maddesinin birinci fıkrası uyarınca oluşturulan ve bu Yönetmelikle
+düzenlenen bilgi sistemini,
+h) Kooperatif künyesi: KOOPBİS’te bir kooperatifin,
+unvanı, merkezi, iletişim bilgileri, kuruluş izin ve tescil tarihi, vergi
+ve MERSİS numaraları, ortağı olduğu kooperatif üst kuruluşu gibi temel
+bilgilerinin yer aldığı sayfayı,
+ı) KOOPBİS yetkilisi: Kooperatif yönetim kurulu
+üyelerini ve/veya kooperatif yönetim kurulunun KOOPBİS işlemlerini yürütmek
+için yetki verilen kişiyi/kişileri,
+i) MERSİS numarası: Merkezi Sicil Kayıt Sistemi
+tarafından verilen ve özel algoritma ile üretilmiş tekil numarayı,
+j) Ortak: Kooperatiflere ve kooperatif üst
+kuruluşlarına ortak olan gerçek ve tüzel kişileri,
+k) Sicil müdürlüğü: Ticaret Sicili Müdürlüklerini,
+l) Sistem yöneticisi: KOOPBİS yönetimi için yetki
+verilen Bakanlık personelini,
+m) TCKN: Türkiye Cumhuriyeti Kimlik Numarasını,
+ifade eder.
+İKİNCİ BÖLÜM
+Görev, Yetki ve Sorumluluklar
+KOOPBİS’in
+kurulumu ve yönetimi
+MADDE 5 –
+(1) Bakanlık tarafından tüm
+kooperatiflerin, kooperatifçilik hizmetlerine elektronik ortamda eriştiği
+ve merkezi veri tabanının yönetildiği KOOPBİS kurulur.
+(2) Denetim, istatistik üretme, hizmetlerde
+otomasyonu arttırma, ülke kooperatifçiliğinin geliştirilmesi ve kooperatif
+ortaklarının haklarının korunması amacıyla kurulan KOOPBİS’te,
+kooperatiflerin ticaret sicili kayıtları, finansal tabloları, gayrimenkul
+durumları, yönetim kurulu ve denetçi raporları, genel kurul toplantı evrakı
+ve ortakların bilgileri kayıt altına alınır.
+Görevli
+birimler
+MADDE 6 –
+(1) Bilgi işlem altyapısını
+ilgilendiren teknik konulardaki iş ve işlemler ile KOOPBİS’in yönetimiyle
+ilgili idari iş ve işlemler Bakanlık tarafından, uygulama ve kayıtların
+takibine ilişkin iş ve işlemler ise Genel Müdürlük ve İl Müdürlüğü tarafından
+yürütülür.
+(2) Kooperatife ve ortaklarına ilişkin bilgi, belge
+ve evrakın KOOPBİS’e tam ve zamanında işlenmesi ile bunların güncelliğinin
+sağlanmasından kooperatif yönetim kurulu üyeleri sorumludur.
+Genel
+Müdürlüğün görev ve yetkileri
+MADDE 7 – (1) Genel Müdürlük;
+a) Kuruluş izin işlemlerinde KOOPBİS üzerinden
+unvan uygunluk kontrollerini gerçekleştirmek,
+b) Kuruluş iznini takip eden beş iş günü içinde
+kooperatif ekleme işlemini yaparak KOOPBİS üzerinden dosya numarası
+üretmek,
+c) Kuruluş iznini takip eden beş iş günü içinde
+kooperatif unvanı, kooperatifin merkezi, kooperatifin adres ve iletişim
+bilgileri, kuruluş izin tarihi, kuruluş izin numarası, ortaklık pay değeri,
+asgari pay adedi, taahhüt edilen sermaye payı, ödenen sermaye ve beyan
+edilen ortak sayısı ile yönetim kurulu üyelerini ve denetçileri KOOPBİS’e
+işlemek,
+ç) Kooperatif kuruluşunun tescil ve ilanı
+sonrasında gerekli bilgilerin girişini sağlamak,
+d) Kuruluş izni alındığı halde kooperatifin tescil
+edilmemesi durumunda kurucuların talebi üzerine kooperatife ilişkin KOOPBİS
+kaydını silmek,
+e) Gerçekleştirdiği anasözleşme değişikliği izin
+işlemlerinde; değişen maddelerin eski ve yeni halleri, yönetim kurulunun
+değişikliğe ilişkin karar tarihi ve sayısı ile izin onayına ilişkin tarih
+ve sayı bilgilerini anasözleşme bölümünde ve kooperatif künyesinde ilgili
+alanlara işlemek,
+f) KOOPBİS’te veri girişi yapılacak zorunlu ve
+isteğe bağlı alanları belirlemek,
+g) Kanunun 24 üncü maddesinin ikinci fıkrası
+kapsamında genel kurula katılma hakkını haiz ortakları gösterir listeyi
+ortakların erişimine uygun hale getirmek,
+ğ) KOOPBİS’in kullanımı ve arayüzlerde
+gerçekleştirilen yeniliklere ilişkin eğitimler vermek ve KOOPBİS’in
+işleyişine yönelik olarak gerekli tedbirleri almak,
+h) KOOPBİS’te gerekli diğer işlemleri gerçekleştirmek,
+ile yetkili ve görevlidir.
+İl
+Müdürlüğünün görev ve yetkileri
+MADDE 8 –
+(1) Genel Müdürlük tarafından
+yapılan coğrafi yetkilendirme kapsamında İl Müdürlüğü;
+a) Kooperatif yöneticilerine, denetçilerine ve
+ortaklarına KOOPBİS kullanımının yaygınlaştırılması için eğitim ve
+bilgilendirme yapmak ve ihtiyaç duyulan noktalarda gerekli desteği vermek,
+b) İl Müdürlüğüne devredilen yetkiler kapsamında 7
+nci maddenin birinci fıkrasının (a), (b), (c), (ç), (d) ve (e) bentlerinde
+sayılan işlemleri gerçekleştirmek,
+c) Dış denetçiler de dahil organlarında, hukuki
+durumlarında ve kooperatif künyesinde meydana gelen değişikliklere ilişkin
+güncelleme taleplerini talebin gerçekleştiği tarihten itibaren üç iş günü
+içerisinde KOOPBİS’e işlemek,
+ç) Atama talebi yapılan KOOPBİS yetkilisi
+başvurularını sonuçlandırmak,
+d) Veri girişlerinin düzenli şekilde yapılması,
+ortaklara ilişkin bilgilerin güncelliğinin sağlanması için gerekli
+tedbirleri almak ve uyarılarda bulunmak,
+e) Veri girişine ilişkin gelişmeleri ve ortaya
+çıkan sorunları Genel Müdürlüğe bildirmek,
+ile yetkili ve görevlidir.
+Sistem
+yöneticisinin görev ve yetkileri
+MADDE 9 – (1) Sistem yöneticisi;
+a) Kullanıcı yetkilendirmelerini gerçekleştirmek,
+b) KOOPBİS üzerinden yapılacak duyuruları
+düzenlemek,
+c) İş akış süreçlerini belirlemek,
+ç) Kooperatifler, İl Müdürlükleri ile diğer kurum
+ve kuruluşlardan alınan hata bildirimleri, şikâyet ve talepleri incelenmek
+üzere Bakanlığın ilgili birimine iletmek ve geri bildirimde bulunmak,
+d) KOOPBİS’in işleyişine yönelik olarak gerekli
+diğer tedbirleri almak,
+ile yetkili ve görevlidir.
+KOOPBİS
+yetkilisi
+MADDE 10
+– (1) Kooperatif yönetim kurulu
+üyelerinin her biri KOOPBİS üzerinde işlem gerçekleştirmeye yetkilidir.
+(2) Kooperatif yönetim kurulu üyelerine ek olarak,
+kooperatif ortağı olma şartı aranmaksızın, KOOPBİS işlemlerini yürütecek bir
+KOOPBİS yetkilisi atanabilir. KOOPBİS yetkilisi atanmış olması yönetim
+kurulu üyelerinin hukuki ve cezai sorumluluğunu ortadan kaldırmaz.
+(3) KOOPBİS yetkilisinin belirlendiği yönetim
+kurulu kararının fiziki veya dijital bir nüshası ile yetkilendirilen kişinin
+TCKN’si ve iletişim bilgileri İl Müdürlüğüne iletilerek yetki tanımlama
+talebi gerçekleştirilir. Bu süreç KOOPBİS yetkilisinin değişikliği ve
+iptalinde de uygulanır.
+(4) İkinci fıkra uyarınca atanan KOOPBİS yetkilisi,
+yönetim kurulu üyelerinin sadece bu Yönetmelik kapsamında
+gerçekleştirebilecekleri işlemleri KOOPBİS üzerinde yapmaya yetkilidir.
+(5) İkinci fıkra uyarınca atanan KOOPBİS yetkilisi,
+kooperatifin temsiline ilişkin bir yetki almadıkça, bu Yönetmelikte yer
+alan fiziki belge düzenlenmesi ve bunların arşivlenmesine ilişkin işlemleri
+gerçekleştiremez.
+KOOPBİS
+yetkilisinin görev ve sorumlulukları
+MADDE 11
+– (1) KOOPBİS yetkilisi;
+a) Yeni ortakların kimlik, iletişim, pay ve
+ödemelerine ilişkin bilgilerini, ortaklığa kabule dair yönetim kurulu kararının
+alındığı tarihten itibaren, ortağın genel kurul toplantısına katılmasını
+engellemeyecek şekilde en geç on beş gün içinde KOOPBİS’e kaydetmek,
+b) Kooperatif ortaklarına ilişkin bilgi
+güncellemelerini KOOPBİS’te ilgili alanlara en geç on beş gün içinde işlemek,
+c) Genel kurul toplantısına katılmaya hak kazanmış
+olan ortakları gösteren listeyi KOOPBİS üzerinden almak,
+ç) Tarım satış kooperatiflerinde genel kurul
+toplantısına katılmaya hak kazanmış olan ortakları gösteren listenin
+KOOPBİS’te üretilebilmesi için genel kurul toplantı tarihinden en az yirmi
+gün önce gerekli diğer verilerin girişini yapmak veya Bakanlık aracılığıyla
+bu verilerin KOOPBİS’e aktarılmasını sağlamak,
+d) Yönetim kurulu yıllık faaliyet raporunu,
+bilançoyu, gelir gider farkı hesaplarını ve denetleme organı ile dış
+denetçilerin raporlarını, toplantı gündemini genel kurulun yıllık
+toplantısından en az on beş gün önce KOOPBİS’e işlemek,
+e) Genel kurul toplantılarından sonra toplantıya
+ilişkin tutanak, gündem, imzalı hazırun cetveli, genel durum bildirim formu
+gibi belgeleri, toplantıyı takip eden on beş gün içerisinde KOOPBİS’e
+yüklemek,
+f) Organlarında, hukuki durumlarında ve kooperatif
+künyesinde meydana gelen değişikliklere ilişkin gerekli güncellemelerin
+yapılabilmesi için taleplerini, tescil ve ilanı gerçekleşen bir husus varsa
+ilgili sicil müdürlüğü, MERSİS numarası ve gazete ilan tarihi bilgileri ile
+birlikte, değişikliğin gerçekleştiği tarihten itibaren en geç on beş gün
+içinde İl Müdürlüğüne bildirmek,
+g) Ek-1’de yer alan ve KOOPBİS’ten de erişilebilen,
+kişisel verilerin KOOPBİS ile işlendiğini belirten aydınlatma metnini, en
+geç ortaklığa kabul tarihinden sonra yapılacak ilk genel kurul toplantı
+tarihine kadar, KOOPBİS ile bu metinleri görüntülememiş ortaklarına
+okutmak, imzalatmak ve arşivlemek,
+ğ) KOOPBİS’te gerekli diğer güncellemeleri
+gerçekleştirmek ve yetkisi dışında kalan konularda güncelleştirmelerin
+yapılabilmesi için İl Müdürlüğüne bildirimde bulunmak,
+ile görevli ve sorumludur.
+Denetçilerin
+yetkileri
+MADDE 12 – (1) Kooperatif denetçileri;
+a) KOOPBİS üzerinden görev aldığı kooperatifin
+organ üyelerinin ve ortaklarının bilgileri ile KOOPBİS’te belirlenen diğer
+verilere erişme,
+b) Bilgilerin doğru ve güncelliğini denetlemek ve
+gerektiğinde verilerin düzeltilmesi için kooperatif yöneticilerini ve
+sistem yöneticisini uyarma,
+konusunda yetkilidir.
+Ortakların
+KOOPBİS’e erişimi
+MADDE 13 – (1) KOOPBİS’e erişim e-Devlet Kapısı üzerinden
+gerçekleştirilir.
+(2) Kooperatif ortakları; yönetim kurulu yıllık
+faaliyet raporunu, bilançoyu, gelir gider farkı hesaplarını ve denetçilerin
+Kanunun 66 ncı ve 69 uncu maddeleri hükümlerine uygun olarak tanzim
+edecekleri raporları genel kurulun yıllık toplantısından en az 15 gün
+öncesinden itibaren KOOPBİS’ten inceleyebilir.
+(3) Kooperatif ortakları, genel kurula katılma
+hakkını haiz ortakları gösterir listeye KOOPBİS üzerinden erişebilir.
+(4) Kooperatif ortakları ayrıca; ortağı olduğu
+kooperatiflerin adres, iletişim bilgileri, ticaret sicili kayıtları,
+gayrimenkul durumu, genel kurul toplantı evrakı, yetkili yönetim, denetim,
+tasfiye kurulu üyelerinin ve kooperatifin diğer ortaklarının kimler
+olduğuna dair bilgilere KOOPBİS üzerinden erişebilir.
+KOOPBİS
+verilerinden yararlanma
+MADDE 14 – (1) Yayınlanan kooperatifçilik istatistiklerine ve
+kooperatiflerin temel bilgilerine KOOPBİS üzerinden erişilebilir.
+(2) Gerçek kişiler, kendilerini ilgilendiren
+KOOPBİS verilerini bilgi edinme hakkı çerçevesinde talep edebilir. Kişisel
+verilerin korunmasına ilişkin mevzuat gözetilerek bu talepler Genel
+Müdürlük veya İl Müdürlüğü tarafından sonuçlandırılır.
+ÜÇÜNCÜ BÖLÜM
+Genel Hükümler
+Veri
+güvenliği
+MADDE 15 –
+(1) Bakanlık, KOOPBİS’in
+işleyişine yönelik elektronik işlemlerin güvenli ve etkin bir şekilde
+yürütülebilmesi için;
+a) Diğer sistemlerle veri alışverişi sağlamak
+amacıyla ilgili kurumlarla protokol yapılması,
+b) Verileri yedeklemek amacıyla periyodik olarak
+resmi veri taşıyıcılarına kopyalanması,
+c) Veriler üzerinde analiz yapmak ve strateji
+üretmek üzere verilerin resmi veri taşıyıcılarına kopyalanması,
+ç) Verilerin ve elektronik sistemlerin
+güncellemelerinin ve teknik bakımının yapılması,
+d) Verilerin ve elektronik sistemlerin kötüye
+kullanılmasının engellenmesi,
+e) Elektronik sistemlerdeki teknik arızaların
+giderilmesi,
+f) Kişisel verilerin hukuka aykırı olarak
+işlenmesinin önlenmesi, kişisel verilere hukuka aykırı olarak erişilmesinin
+önlenmesi ve kişisel verilerin muhafazasını sağlamak amacıyla uygun
+güvenlik düzeyinin temin edilmesi,
+hususlarında gerekli her türlü teknik ve idari
+tedbirleri alır.
+(2) İlgili Bakanlık ile kooperatifler, görevleri
+ile sınırlı kalmak şartıyla, ortakların ve ortak olmak için başvuranların
+kişisel verilerini KOOPBİS’te işlemeye ve görüntülemeye yetkilidir.
+(3) İlgili Bakanlık; denetim, istatistik üretme,
+hizmetlerde otomasyonu artırma, ülke kooperatifçiliğinin geliştirilmesi ve
+kooperatif ortaklarının haklarının korunması amacıyla KOOPBİS’te işlenen
+verileri, kamu kurum ve kuruluşlarına aktarabilir, diğer kurum ve
+kuruluşlardan edineceği verileri KOOPBİS verileri ile eşleştirerek
+işleyebilir.
+(4) Kooperatif ortakları tarafından 13 üncü maddede
+sağlanan erişim hakları sayesinde elde edilen kişisel veriler sadece
+ortakların kooperatif iş ve işlemlerinden haberdar olmaları ve kooperatif
+organlarında görev almak isteyen adayların kooperatif ortaklarına
+ulaşabilmeleri amaçlarıyla kullanılabilir.
+(5) Her ne surette olursa olsun KOOPBİS üzerinden
+elde edilen veriler 7/4/2016 tarihli ve 6698 sayılı Kişisel Verilerin
+Korunması Kanununa aykırı olarak kullanılamaz, aktarılamaz veya başka bir
+şekilde işlenemez.
+Diğer
+hükümler
+MADDE 16
+– (1) KOOPBİS’e erişimin fiilen
+mümkün olmadığı hallerde Genel Müdürlük veya İl Müdürlüğü durumu tutanak
+altına alarak daha sonra elektronik ortama aktarmak üzere işlemleri fiziki
+ortamda gerçekleştirir.
+(2) Bu Yönetmeliğin uygulanmasına ilişkin diğer
+usul ve esaslar Bakanlıkça belirlenir.
+DÖRDÜNCÜ BÖLÜM
+İdari Para Cezaları
+İdari
+para cezasını gerektiren haller
+MADDE 17
+– (1) 11 inci maddede düzenlenen
+yükümlülüklere aykırı hareket eden yönetim kurulu üyelerinin her biri, her
+bir yükümlülük için ayrı ayrı olmak üzere bin Türk lirası idari para cezası
+ile cezalandırılır.
+(2) Yönetim kurulu üyelerinin her biri; ticaret
+sicili kayıtlarını, finansal tablolarını, faaliyet raporlarını, genel kurul
+toplantı evrakını, ortakların kimlik, iletişim, pay ve ödemelerine,
+gayrimenkul durumlarına ilişkin bilgilerini ve gerekli tüm bilgileri
+KOOPBİS’in kurulmasını müteakip altı ay içinde KOOPBİS’e aktarmamaları
+halinde, aktarımı gerçekleşmeyen her bir kalem için ayrı ayrı olmak üzere
+bin Türk lirası idari para cezası ile cezalandırılır.
+(3) Geçici 2 nci maddenin ikinci fıkrasındaki
+yükümlülüğünü süresi içinde yerine getirmeyen yönetim kurulu üyelerinin her
+biri bin Türk lirası idari para cezası ile cezalandırılır.
+(4) Aynı denetim kapsamında aynı kişiye
+verilebilecek idari para cezalarının toplam tutarı on bin Türk lirasını geçemez.
+(5) İdarî para cezaları her takvim yılı başından
+geçerli olmak üzere o yıl için 4/1/1961 tarihli ve 213 sayılı Vergi Usul
+Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilân
+edilen yeniden değerleme oranında artırılarak uygulanır. Bu suretle idarî
+para cezasının hesabında bir Türk Lirasının küsuru dikkate alınmaz.
+Uygulama
+yetkisi
+MADDE 18
+– (1) Öngörülen idari para
+cezaları ilgili Bakanlık tarafından uygulanır. İlgili Bakanlık, bu yetkisini
+il müdürlüklerine devredebilir.
+(2) İdari para cezaları, tebliğ tarihinden itibaren
+bir ay içinde ödenir.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Kooperatifçilik
+verileri
+GEÇİCİ
+MADDE 1 – (1) KOOPBİS’in kurulum
+sürecinde kooperatifçilik verilerinin tek merkezde toplanabilmesi ve
+ihtiyaç analizlerinin gerçekleştirilmesi amacıyla yapılacak çalışmalar
+ilgili Bakanlıkların iş birliği ve koordinasyonuyla yürütülür.
+(2) KOOPBİS’in hizmete açılmasının hemen öncesinde
+ilgili Bakanlıkların uhdesinde bulunan tüm kooperatifçilik verileri tek
+merkezde toplanır. Bu süreçte ilgili Bakanlıklar eski sistemlerini veri
+güncellemelerine kapatır ve sürecin tamamlanmasıyla güncellemelerin KOOPBİS
+üzerinden yapılması için teşkilatlarını ve görev alanına giren
+kooperatifleri yönlendirir.
+(3) 17 nci maddenin ikinci fıkrasında belirtilen
+altı aylık süre boyunca, kooperatiflerce KOOPBİS’e aktarması gereken
+verilerin toplu bir biçimde kolayca KOOPBİS’e işlenebilmesi için gerekli
+altyapı Bakanlıkça kurulur.
+KOOPBİS
+yetkililerinin veri girişi ve bildirim yükümlülüğü
+GEÇİCİ
+MADDE 2 – (1) KOOPBİS yetkilileri;
+ticaret sicili kayıtlarını, finansal tablolarını, yönetim kurulu ve denetçi
+raporlarını, genel kurul toplantı evrakını, ortakların kimlik, iletişim,
+pay ve ödemelerine, gayrimenkul durumlarına ilişkin bilgilerini ve gerekli
+diğer bilgileri KOOPBİS’in kurulmasını müteakip altı ay içinde KOOPBİS’e
+aktarır.
+(2) KOOPBİS yetkilileri; Ek-1’de yer alan ve KOOPBİS’ten
+de erişilebilen aydınlatma metnini, KOOPBİS ile bu metinleri görüntülememiş
+ortaklarına, KOOPBİS’in kurulmasını müteakip altı ay içerisinde okutur,
+imzalatır ve arşivler.
+(3) Altı aylık süre sona erinceye kadar, genel
+kurul toplantısına katılma hakkını haiz ortakları gösteren listelerin
+KOOPBİS üzerinden üretilmesine ve 11 inci maddede düzenlenen veri girişi ve
+bildirimlere ilişkin yükümlülüklerin ihlali halinde Kanunun ek 2 nci
+maddesinin birinci fıkrasının (4) numaralı bendi uyarınca 17 nci maddenin
+birinci fıkrasında yer alan idari para cezası uygulanmaz.
+Yürürlük
+MADDE 19
+– (1) Bu Yönetmelik yayımı
+tarihinde yürürlüğe girer.
+Yürütme
+MADDE 20
+– (1) Bu Yönetmelik hükümlerini
+Ticaret Bakanı yürütür.
+Eki için tıklayınız
