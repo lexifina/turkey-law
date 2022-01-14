@@ -1,0 +1,2 @@
+Geçiş hükmü
+GEÇİCİ MADDE 1 – (1) KOOPBİS’te EGKS’ler ile elektronik ortamda veri alışverişini mümkün kılan altyapı kuruluncaya kadar genel kurul belgeleri toplantı bitiminde, toplantı başkanı tarafından, Bakanlık temsilcisinin kurumsal elektronik posta adresine veya Kayıtlı Elektronik Posta hesabına gönderilir ya da elektronik belge taşımaya ve saklamaya elverişli bir ortam içinde Bakanlık temsilcisine teslim edilir.

@@ -1,0 +1,6 @@
+Yürütme
+MADDE 16 – (1) Bu Yönetmelik hükümlerini Ticaret Bakanı yürütür.
+Ek-1
+Genel Kurula Katılmaya ve Oy Vermeye İlişkin Anasözleşme Hükmü Örneği
+Genel kurul toplantısına elektronik ortamda katılım
+Kooperatifin genel kurul toplantılarına katılma hakkı bulunan ortakları bu toplantılara, 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununun 45 inci maddesinin yedinci fıkrası uyarınca elektronik ortamda da katılabilir. Yönetim kurulu tarafından karar alınması veya genel kurul tarihinden 20 gün önce 4’ten az olmamak üzere ortakların en az 1/10’unun yazılı olarak talep etmesi halinde genel kurul toplantısı elektronik ortamda yapılır. Kooperatif, 14/1/2022 tarihli ve 31719 sayılı Resmî Gazete’de yayımlanan Kooperatiflerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik hükümleri uyarınca ortaklarının genel kurul toplantılarına elektronik ortamda katılmalarına, görüş açıklamalarına, öneride bulunmalarına ve oy kullanmalarına imkan tanıyacak elektronik genel kurul sistemini kurabileceği gibi bu amaç için oluşturulmuş sistemlerden de hizmet satın alabilir. Yapılacak tüm genel kurul toplantılarında anasözleşmenin bu hükmü uyarınca, kurulmuş olan sistem üzerinden ortakların ve temsilcilerinin, anılan Yönetmelik hükümlerinde belirtilen haklarını kullanabilmesi sağlanır.

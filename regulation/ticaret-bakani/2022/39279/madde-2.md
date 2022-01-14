@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik; kooperatif, kooperatif birlikleri, kooperatifler merkez birlikleri ve Türkiye Milli Kooperatifler Birliği genel kurullarına elektronik ortamda katılmaya, öneride bulunmaya, görüş açıklamaya ve oy kullanmaya ilişkin usul ve esasları, genel kurullara elektronik ortamda katılmaya ve oy vermeye ilişkin anasözleşme hükmünün örneğini, ortak ve temsilci tarafından oy kullanılma esaslarını, Elektronik Genel Kurul Sisteminin işleyiş esaslarını ve bu sistemin katılımcılarının yükümlülüklerini kapsar.
