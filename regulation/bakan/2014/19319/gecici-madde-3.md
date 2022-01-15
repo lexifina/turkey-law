@@ -1,0 +1,2 @@
+Teminatla uzatılmış arama ruhsatlarının durumu
+GEÇİCİ MADDE 3 – (1) Mülga 6326 sayılı Petrol Kanununun 55 inci maddesinin ikinci fıkrasına göre Bakanlar Kurulu kararıyla teminat karşılığında uzatılmış arama ruhsatlarının uzatma süresinin sonunda keşif aşamasına gelinmiş olması halinde ve keşfin ticari değerlendirilmesine sürenin yetmediği durumda Kanunun 6 ncı maddesinin sekizinci fıkrasındaki hüküm uygulanır.

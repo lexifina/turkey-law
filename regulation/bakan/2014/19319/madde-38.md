@@ -1,0 +1,10 @@
+Petrol işleminin yükleniciye yaptırılması
+MADDE 38 – (1) Petrol işlemlerinden olan arama ve üretim faaliyetleri ile ilgili hizmetleri yükleniciye yaptırmak isteyen petrol hakkı sahibi;
+a) Yüklenicinin kimliği, adresi, imzaya yetkili kişileri, işe başlayacağı tarih ve işin konusuna ilişkin belgeyi,
+b) Yükleniciyle yaptığı sözleşmenin (Değişik ibare:RG-19/9/2020-31249) aslına uygunluğunu beyan ederek bir örneğini, yabancı dilde olan sözleşmelerde (Değişik ibare:RG-19/9/2020-31249) ise aslına uygunluğunu beyan ederek kendi onayladığı Türkçe çevirisini,
+c) Yüklenicinin Kanun ve bu Yönetmelik hükümlerine uymamasından doğacak sorumluluğu kabul ettiğine ilişkin taahhütnameyi
+Genel Müdürlüğe sunar.
+(2) Başlangıç ve bitiş tarihleri (Mülga ibare:RG-19/9/2020-31249) (…) belirtilen sözleşme, imza tarihinden itibaren en geç (Değişik ibare:19/9/2020-31249) ) doksan gün içinde onaylanmak üzere Genel Müdürlüğe verilir. Genel Müdürlük, yüklenicinin hizmetin gereğine uygun teknik donanım ve yeterliliğe sahip olup olmadığını incelemesinde dikkate alır. Değerlendirme sonucu petrol hakkı sahibine (Değişik ibare:RG-22/9/2017- 30188) otuz gün içerisinde bildirilir. Sözleşmenin kapsamındaki işin başlama tarihi Genel Müdürlüğe başvuru tarihinden en fazla (Değişik ibare:19/9/2020-31249) ) doksan gün öncesinde olması halinde bu sürede yapılan harcamalar dikkate alınır. Aksi halde daha fazla sürelerde yükleniciye yapılmış olan ödemeler dikkate alınmaz.
+(3) Eğer sözleşme, tehlikeli fiilin önlenmesini yahut acil bir operasyonun yapılmasını gerektiriyor ise düzenlenecek sözleşmenin Genel Müdürlüğe sunulması için bu maddenin ikinci fıkrasında belirtilen sürelere ilaveten otuz gün daha ilave süre verilir.
+(4) Uygun bulunan sözleşme ile ilgili değişiklik ve uzatım talepleri, sözleşmenin süresi bitiminden en az on beş gün önce Genel Müdürlüğe verilir. Bu talep petrol hakkı sahibinin ve yüklenicinin değişikliği uygun bulduklarına dair imzalı beyanları ile yapılır. Aksi durumda talep Genel Müdürlükçe işleme alınmaz.
+(5) Petrol hakkı sahibi, Genel Müdürlüğün onayı olmadan yükleniciye petrol işlemi yaptıramaz.

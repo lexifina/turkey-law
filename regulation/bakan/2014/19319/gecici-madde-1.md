@@ -1,0 +1,4 @@
+Mevcut ruhsatların süresi
+GEÇİCİ MADDE 1 – (1) Kanunun yürürlük tarihinden önce verilmiş olan arama ve işletme ruhsatlarına ilişkin hak ve yükümlülükler ruhsatın süresi sonuna kadar devam eder.
+(2) Arama ruhsat süreleri, ilgili ruhsatın Resmî Gazete’de ilan edilmiş olan “Petrol Hakkına Müteallik Karar”ında belirtilen süredir.
+(3) Mevcut işletme ruhsatına, veriliş tarihindeki süresi dikkate alınarak ilk 20 yıllık ve birinci 10 yıllık uzatma dönemi sona ermesi durumunda işletme ruhsatında kalan üretilebilir petrolün varlığına ve ayrıca yıllar itibariyle ekonomik bir üretimin yapılabileceğine ilişkin bilgi ve dokümanların Genel Müdürlüğe sunulması halinde, Kanunun 8 inci maddesinin üçüncü fıkrasında belirtilen uzatmalar dâhil verilebilecek azami süreyi aşmayacak şekilde süre uzatımı verilebilir.

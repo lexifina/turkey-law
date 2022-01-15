@@ -1,0 +1,4 @@
+Malzemenin ihracatı
+MADDE 37 – (1) Petrol hakkı sahibi ve yüklenici; ithal edilen malzemenin ihraç edilebilmesi için ek-45’te yer alan forma uygun olarak düzenlediği bilgileri içeren listeyle birlikte Genel Müdürlüğe başvurur. Bu liste, Genel Müdürlükçe onaylanarak ihraç işlemleri için ilgili Gümrük Müdürlüğüne bildirilir.
+(2) Bütün petrol ve kayaç örnekleri, sondaj kırıntıları, karotlar veya bunların boyuna kesilmiş parçaları, jeofizik ve benzeri metotlara ilişkin bant ve diğer veriler teftişe ve muayeneye hazır bulundurulmak üzere Türkiye’de korunur. Bunların analiz ve incelemeleri için yurt dışına geçici olarak gönderilmesine, bilahare Türkiye’ye iadesinde jeofizik ve benzeri metotlara ilişkin bant ve diğer verilerin dönüşümünün sağlanması, karot, kırıntı ve boyuna kesilmiş parçaların sadece analiz ve inceleme raporlarının bir örneğinin Genel Müdürlüğe verilmesi koşuluyla izin verilebilir.
+(3) (Mülga:RG-22/9/2017- 30188)

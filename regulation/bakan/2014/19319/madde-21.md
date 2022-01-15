@@ -1,0 +1,7 @@
+YEDİNCİ BÖLÜM
+Devir ve Hak Tesisi, Kamulaştırma ve Kullanma Hakkı
+Devir ve hak tesisine ilişkin usul ve esaslar
+MADDE 21 – (1) Arama ve işletme ruhsatı, taşınmazlar üzerinde yapılabilecek sözleşmelere ve petrol haklarının kullanılmasını gerektiren hakların tesisine konu olabilir ve hisselere bölünebilir.
+(2) Genel Müdürlük, petrol hakkının gerektirdiği sorumluluk ve yükümlülükleri yerine getirmede, Kanunun amacı doğrultusunda mali ve teknik güç ve tecrübesini yetersiz gördüğü şahıslar adına yapılmak istenilen bir hakkın devrine veya takyidine ilişkin işlemlerin yapılması istemini reddedebilir.
+(3) Yukarıdaki birinci fıkrada sayılan petrol haklarına birden çok kişi sahipse veya bu petrol haklarından birinin kullanılmasını gerektiren bir hakkın ayrı bir sahibi varsa, bunlardan birinin Kanunun 6, 9, 10, 11, 15, 16, 18, 19 ve 22 nci maddelerine ve aşağıdaki dördüncü fıkraya aykırı davranışı halinde, aykırılığın Kanundan doğan sonuç ve yaptırımları, hak sahiplerine, aralarındaki anlaşmalara ve uymakta kusurlu olup olmadıklarına bakılmaksızın uygulanır. Kanundan ve bu Yönetmelikten doğan borç ve yükümlülüklerin yerine getirilmemesinden doğacak sonuçlar ve yaptırımlar, petrol hakkı sahiplerine hisseleri ve haklarının kapsamı oranında uygulanır.
+(4) Arama ve işletme ruhsatı ile bunlardan doğan petrol haklarından birine, bu haklar üzerinde tesis edilen bir hakka, birden çok şahsın sahip olabilmesi için bunların aynı şahsı müşterek temsilci göstermeleri zorunludur.

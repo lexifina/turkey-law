@@ -1,0 +1,3 @@
+Yatırım teminatı
+MADDE 27 – (1) Arama ruhsat başvurusu sahibi, Kanunun 7 nci maddesinde sözü edilen iş programı için taahhüt edilen yatırım tutarına karşılık gelen miktarda teminat vermek zorundadır. İş ve yatırım programı yıllık bazda ayrıntılı bir şekilde hazırlanır. Yıllık iş programlarının toplamını karşılayacak miktardaki teminat bir seferde alınır.
+(2) Kanunun 6 ncı maddesindeki arama ruhsatının süre uzatımları ile Kanunun 11 inci maddesinde belirtilen arama sahasına yapılacak ilaveler için verilecek yeni bir iş programı için taahhüt edilen yatırım tutarına karşılık gelen miktardaki teminat, petrol hakkı sahiplerince ayrıca verilir.
