@@ -1,0 +1,3 @@
+Müdür yardımcısı ve görevleri
+MADDE 9 – (Değişik:RG-16/1/2022-31721)
+(1) Müdür, kendisine verilen görevlerin yürütülmesinde yardımcı olmak üzere Merkezin çalışma alanları kapsamında araştırmalar yapan iki Üniversite öğretim elemanını müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Herhangi bir nedenle boşalan müdür yardımcılığı için aynı usulle yeniden görevlendirme yapılır. Müdür yardımcıları, Müdürün verdiği görevleri yerine getirir ve Müdürün görevi başında bulunmadığı durumlarda birisi Müdüre vekâlet eder. Müdürün görev süresinin dolması veya herhangi bir nedenle görevinden ayrılması durumunda müdür yardımcılarının da görevi sona erer.

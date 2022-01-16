@@ -1,0 +1,2 @@
+Müdür
+MADDE 7 – (1) Müdür; Üniversitenin ileri teknolojiler ve uygulamaları konularında yetkin öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Süresi dolmadan boşalan Müdürlük için Rektör tarafından aynı usulle yeniden görevlendirme yapılır. Görev süresi dolan Müdür yeniden görevlendirilebilir. Müdürün altı aydan fazla süreyle görevi başında bulunmaması durumunda görevi kendiliğinden sona erer.
