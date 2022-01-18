@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39286",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖLÇME, SEÇME VE YERLEŞTİRME MERKEZİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39286",
+  "issuer": "Ölçme, Seçme ve Yerleştirme Merkezi Başkanı",
+  "issuer_slug": "olcme-secme-ve-yerlestirme-merkezi-baskani",
+  "path": "regulation/olcme-secme-ve-yerlestirme-merkezi-baskani/2022/39286",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39286&MevzuatTertip=5",
+  "source_sha256": "64dfa14e93035a1d7bdb3572b262135e05cb88529cac96c1239e8e014c3f4e7c",
+  "source_bytes": 24440,
+  "published": "2022-01-18",
+  "gazette": "31723",
+  "in_force": "2022-01-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 311,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
