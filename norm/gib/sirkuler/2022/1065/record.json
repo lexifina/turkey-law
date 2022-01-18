@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "YMM / 2022-1",
+  "source_id": 1065,
+  "date": "2022-01-18",
+  "title": "Özel Tüketim Vergisi Tasdik Raporlarının elektronik ortamda gönderilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/sirkuler/1065",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "46b514d6c4ad63d2d74cc278978a9bcc1f60c28e7244b67132bcffddeec9e48d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
