@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/31",
+  "source_id": 7292,
+  "date": "2022-01-18",
+  "title": "“Sağlık sektöründe faaliyet gösteren veri sorumlusu tarafından ilgili kişinin kişisel verilerinin açık rızası alınmaksızın ticarî elektronik ileti gönderilmesi amacıyla işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 18/01/2022 tarihli ve 2022/31 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7292/2022-31",
+  "source_sha256": "669e8ba13087682faca2388eeb64a9f8a026a5dd3c7d0feb7dd304d5da4d07a5",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
