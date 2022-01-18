@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "276",
+  "decision_date": "2022-01-18",
+  "source_id": 35098,
+  "chamber": "4",
+  "ilam_number": "22",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35098/",
+  "source_sha256": "583c3a3ff042bce5fe4fc46c60711322381a43f3ffa22c59b24a3ab7d7310283",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
