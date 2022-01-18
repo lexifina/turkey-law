@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-01-18",
+  "issue": "31723",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İthalatta Gözetim Uygulanmasına İlişkin Tebliğ (Tebliğ No: 2010/4)’de Değişiklik Yapılmasına Dair Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220118-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220118.htm",
+  "index_sha256": "da88ed3ffdcce6f5eb2d2337caef0460b61f38d25869975dda1702c4280d3e6b",
+  "index_header": "18 Ocak 2022 ... 31723 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220118.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
