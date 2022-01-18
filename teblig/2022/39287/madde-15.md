@@ -1,0 +1,3 @@
+İşletmelerce tutulan defter, belge ve bilgilerden Sayıştaya sunulacak olanların verilme yeri ve süresi
+MADDE 15 – (1) Yönetmelik esaslarına göre düzenlenen; defter, cetvel ve tablolar ile düzenlenmesi gereken yıl sonu sayım tutanakları, hesap dönemi sonu itibarıyla görev başında bulunan muhasebe yetkilisi tarafından oluşturulacak bilanço ve ekleri, 17/9/2020 tarihli ve 31247 sayılı Resmî Gazete’de yayımlanan Kamu İdaresi Hesaplarının Sayıştaya Verilmesi ve Muhasebe Birimleri ile Muhasebe Yetkililerinin Bildirilmesi Hakkında Usul ve Esaslara göre Sayıştaya gönderilir.
+(2) Özel olarak istenilmediği sürece; bilanço örnekleri, devir cetvelleri, yıllık gayrisafi hasılattan tahsil edilen tutar ve kâr bildirimi ve benzeri hiçbir belge, kâğıt ortamında Bakanlığa gönderilmez.

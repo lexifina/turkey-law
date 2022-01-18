@@ -1,0 +1,5 @@
+Genel bütçeye aktarılacak tutarların hesaplanması ve ödenmesi
+MADDE 7 – (1) Kanunun geçici 1 inci maddesi hükmü gereğince, genel ve özel bütçeli idarelere bağlı tüm döner sermayeli işletmelerce ödenecek payın hesaplanmasında, bir ay içinde aylık gayrisafi hasılattan tahsil edilen tutarlar esas alınır.
+(2) İşletmelerce aylık gayrisafi hasılat tutarından o ay itibarıyla tahsil edilen tutara, Kanunda belirtilen veya Bakanlıkça tespit edilen oranlar uygulanmak suretiyle bulunan tutarlar, izleyen ayın 20 nci günü mesai saatinin bitimine kadar, faaliyette bulundukları yerlere göre ilgili muhasebe birimlerine, Yönetmelik eki Aylık Gayrisafi Hasılattan Tahsil Edilen Tutara İlişkin Bildirim (D.S.İ.B.M.Y. Örnek No:30) ile bildirilir ve aynı süre içinde ödenir.
+(3) Yıllık bilanço ve diğer hesapları bağlı bulundukları merkez kuruluşunda birleştirilen döner sermayeli işletmeler de dâhil olmak üzere, bildirim ve ödeme yükümlülüğü her bir işletmece ayrı ayrı yerine getirilir.
+(4) Döner sermaye faaliyetlerinden bir ay içinde elde edilen hasılattan tahsil edilen tutar bulunmasa bile işletmeler takip eden ayın 20’sine kadar aylık gayrisafi hasılat bildirimini verir.

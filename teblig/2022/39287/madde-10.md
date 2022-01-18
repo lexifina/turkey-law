@@ -1,0 +1,6 @@
+Zorunlu hâllerde ödeme süresinin uzatılması
+MADDE 10 – (1) Genel bütçeye aktarılacak tutarlar ile yıl sonu kârlarını belirlenen sürelerde ödeyemeyecek olan döner sermayeli işletmeler, ödemedeki gecikme nedenlerini açıkça belirtmek ve belirtilen hususları belgelendirmek suretiyle, bildirim ve ödeme süresinden önce Bakanlığa müracaat ederek erteleme talebinde bulunur.
+(2) Gerek Hazine hissesi, gerekse yıl sonu kârlarını süresinde ödeyemeyeceği için Bakanlıktan erteleme talebinde bulunarak söz konusu talebi uygun görülen işletmeler;
+a) Hazine hissesi ile ilgili olarak, Aylık Gayrisafi Hasılattan Tahsil Edilen Tutara İlişkin Bildirim (D.S.İ.B.M.Y. Örnek No:30) düzenler, ancak bildirimin “Tahsil Olunan Miktar” satırına, “Ertelendi” şerhi düşer.
+b) Kârlar ile ilgili olarak, Yıllık Gayrisafi Hasılattan Tahsil Edilen Tutar ve Kâr Bildirimi (D.S.İ.B.M.Y. Örnek No:31) düzenleyerek ilgili muhasebe birimine verir ve verilen sürenin sonunda kârlarını Hazineye yatırır.
+(3) İşletmeler, Hazine hissesi veya yıl sonu kârı olarak ertelenen tutarların ödendiğine ilişkin alındı belgelerinin bir örneğini, ödemenin yapıldığı tarihten itibaren en geç bir hafta içinde bir yazı ekinde Bakanlığa gönderir.

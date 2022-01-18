@@ -1,0 +1,3 @@
+Genel bütçeye aktarılacak tutarlara esas oranlar
+MADDE 6 – (1) Kanunun geçici 1 inci maddesi hükmü gereğince döner sermayeli işletmelerin aylık gayrisafi hasılatından tahsil edilen tutarın %15'i (ilaç, kan ve kan bileşenleri ile tıbbî sarf malzemesi hasılatının %5'i), en geç takip eden ayın 20'sine kadar genel bütçeye irat kaydedilmek üzere ilgili muhasebe birimlerine yatırılır.
+(2) Aylık gayrisafi hasılattan tahsil edilen tutara uygulanacak oranı döner sermayeler itibarıyla %1’e kadar indirme yetkisi Bakana tanındığından, mevcut durumda Kanunda belirtilen veya Kanun kapsamında Bakana tanınan yetkiye istinaden ilgili döner sermaye işletmeleri için tespit edilen oranların uygulanmasına devam edilir.

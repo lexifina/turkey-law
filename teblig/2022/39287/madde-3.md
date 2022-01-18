@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun geçici 11 inci maddesi, 17/9/2004 tarihli ve 5234 sayılı Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun geçici 1 inci maddesi ile 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 221 inci maddesine dayanılarak hazırlanmıştır.

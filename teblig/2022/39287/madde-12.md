@@ -1,0 +1,2 @@
+Bilgi verme
+MADDE 12 – (1) Genel ve özel bütçeli idareler, kendilerine bağlı olarak faaliyete geçen döner sermayeli işletmelerin; ad ve adreslerini, vergi kimlik numaralarını, faaliyet konularını ve faaliyete geçiş tarihlerini, kurulmasına yetki veren kanunu veya Cumhurbaşkanlığı kararnamesini, tahsis olunan sermaye ile ödenmiş sermayelerini, faaliyete geçiş tarihlerinden itibaren bir ay içinde Bakanlığa bildirir.
