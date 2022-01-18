@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "278",
+  "decision_date": "2022-01-18",
+  "source_id": 35079,
+  "chamber": "4",
+  "ilam_number": "20",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35079/",
+  "source_sha256": "4e4de261700f1f0e35330def0808cf6208e9ed0a6e710675eaf43ba53ca7711d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
