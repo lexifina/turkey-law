@@ -1,0 +1,83 @@
+{
+  "source_id": "7.5.14009",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAVUNMA SANAYİİ GÜVENLİĞİ YÖNETMELİĞİ",
+  "number": "14009",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2010/14009",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14009&MevzuatTertip=5",
+  "source_sha256": "9cac0b09e917b885a6a3ef24846fd2facace9cfb2720a58279d1aff083cd9375",
+  "source_bytes": 124406,
+  "published": "2010-06-04",
+  "gazette": "27601",
+  "in_force": "2022-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/1/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-01-18",
+      "RG-18/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-18",
+      "18/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-11-05",
+      "RG-5/11/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-11-05",
+      "5/11/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-07",
+      "RG-7/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-07",
+      "7/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-08-06",
+      "RG-6/8/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-08-06",
+      "6/8/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-01-31",
+      "RG-31/1/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-01-31",
+      "31/1/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 8263,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
