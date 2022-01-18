@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.33764",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2019/4)",
+  "number": "33764",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2019/33764",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=33764&MevzuatTertip=5",
+  "source_sha256": "14254659f2d08ef47126173125b43c73a829c8aeee3d2ab0c44b67a2bd6fb362",
+  "source_bytes": 23981,
+  "published": "2019-09-03",
+  "gazette": "30877",
+  "in_force": "2022-01-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/1/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-01-18",
+      "RG-18/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-18",
+      "18/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 554,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.33764-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
