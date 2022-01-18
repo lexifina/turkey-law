@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-723]-67293",
+  "source_id": 27248,
+  "date": "2022-01-18",
+  "title": "Kooperatifteki paya istinaden kullanımı alınan ve 245 Bağlı Ortaklıklar hesabında izlenen işyerinin Vergi Usul Kanununun geçici 31 inci maddesine, 7326 sayılı Kanunla eklenen yedinci fıkra hükümleri kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27248",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e51059efc59c8df9ea3ce385adfb4b3047cd10309a259a05a4601d738f427973",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
