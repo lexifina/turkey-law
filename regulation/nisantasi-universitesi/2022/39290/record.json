@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-01-19",
+      "19.01.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31724",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-01-19",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Nişantaşı Üniversitesi",
+  "issuer_slug": "nisantasi-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/nisantasi-universitesi/2022/39290",
+  "published": "2022-01-19",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39290&MevzuatTertip=5",
+  "source_bytes": 25721,
+  "source_id": "8.5.39290",
+  "source_sha256": "0a29a6123c840afc60c73582feed1927e345d15e563f9130312f8a8542befe90",
+  "text_status": "as-enacted",
+  "title": "NİŞANTAŞI ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI UYGULAMA\r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 356,
+  "word_count": 1091
+}
