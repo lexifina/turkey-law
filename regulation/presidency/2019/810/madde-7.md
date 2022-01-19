@@ -1,0 +1,3 @@
+Diğer menfaatler
+MADDE 7- (1) Kurumlar mali kaynaklarının değerlendirilmesinde faiz veya kâr payı dışında ayni ya da nakdi herhangi bir menfaat temin edemez. Bankalar, bu fıkra hükmüne aykırı talepte bulunan kurumları, ilgili denetim kurumlarına ve/veya birimlerine iletilmek üzere Bakanlığa bildirmekle yükümlüdür.
+(2) Kurumların aylık ve ücret ödemeleri ile faaliyetleri kapsamında bankalara yaptırdıkları tahsilat ve ödeme işlemlerine ilişkin olarak sağladıkları havale, elektronik fon transferi (EFT), para transferi ve benzeri bankacılık hizmetleri için yapılan protokoller kapsamında ortaya çıkan ücret ve hizmet bedellerinin bankalar veya Posta ve Telgraf Teşkilatı A.Ş. tarafından üstlenilmesi birinci fıkra kapsamında değerlendirilmez.

@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-810",
+  "number": "810",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "KAMU HAZNEDARLIĞI YÖNETMELİĞİ",
+  "published": "2019-03-08",
+  "enacted": "2019-03-07",
+  "gazette_number": "30708",
+  "in_force": "2022-01-19",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 19/1/2022; source row: 18/1/2022 | 5126 | 5 | 19/1/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=810&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "65f58888938ae3c05fa2758b21c0d993a999094cc8a700c81de733022353d78f",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
