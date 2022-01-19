@@ -1,0 +1,6 @@
+Sınav kurulu
+MADDE 11 – (1) Sınav kurulu, atamaya yetkili amir veya görevlendireceği kişinin başkanlığında, atamaya yetkili amirce belirlenecek (Değişik ibare:RG-19/1/2022-31724) Personel ve Destek Hizmetleri Müdürlüğü temsilcisi ile diğer üyelerin katılımıyla bir başkan ve dört üye olmak üzere toplam 5 kişiden oluşur. İhtiyaç duyulması halinde kurum dışından kamu görevlileri arasından kurula üye veya üyeler görevlendirilebilir. Ayrıca her üyenin yedeği de aynı usulle tespit edilir.
+(2) Kurul, başkan ve üyelerin tamamının katılımı ile toplanır ve kararlar oy çokluğu ile alınır. Asil üyenin bulunmadığı toplantıya yedek üye iştirak eder.
+(3) Sınav kurulunun başkan ve üyelerinin eşlerinin, ikinci dereceye kadar (bu derece dahil) kan ve sıhri hısımlarının sınava katıldığının tespiti halinde bu üye veya üyeler sınav kurulu üyeliğinden çıkartılır ve bunların yerine yedek üyeler arasından veya Bakanlıktan görevlendirme yapılır.
+(4) Sınav kurulunu teşkil eden üyeler, görevde yükselme sınavına alınacak personelden, lisansüstü öğrenim hariç olmak üzere, öğrenim ve ihraz ettikleri unvanlar itibariyle daha düşük seviyede olamazlar.
+(5) Sınav kurulunun görevde yükselmeye ilişkin sekretarya hizmetlerini (Değişik ibare:RG-19/1/2022-31724) Personel ve Destek Hizmetleri Müdürlüğü yürütür.

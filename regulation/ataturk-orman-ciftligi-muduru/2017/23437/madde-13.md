@@ -1,0 +1,5 @@
+Duyuru ve başvuru
+MADDE 13 – (1) Görevde yükselme ve unvan değişikliği suretiyle atama yapılacak kadrolar yazılı sınavdan en az otuz gün önce Müdürlüğün resmi internet sitesinden duyurulur.
+(2) Başvuru süresi en az beş iş günü olarak belirlenir. İlan edilen kadrolar için belirlenen başvuru süresinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadrolardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir.
+(3) Aylıksız izinde bulunanlar dahil olmak üzere, ilgili mevzuat uyarınca verilen izinleri kullanmakta olanlar da sınava başvuruda bulunabilir.
+(4) Başvurular görev yaptıkları birim aracılığı ile (Değişik ibare:RG-19/1/2022-31724) Personel ve Destek Hizmetleri Müdürlüğüne gönderilir. Başvurular incelenerek, aranan şartları taşıyanlar Müdürlüğün resmi internet sitesinde ilan edilir. Belirtilen listeye karşı ilan tarihinden itibaren üç iş günü içinde sınav kuruluna itiraz edilebilir. Sınav kurulu, itirazları beş iş günü içinde değerlendirir ve karara bağlar.
