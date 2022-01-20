@@ -1,0 +1,2 @@
+Tıbbi tetkiklerin kalitesi
+MADDE 15 – (1) Gezici iş sağlığı aracı ve sabit tıbbi tetkik mekânında yapılan tetkiklerin kalitesi bu Yönetmelikte belirtilen kriterleri karşılar. Bu Yönetmelikte yer almayan hususlarda ise iş sağlığı ve güvenliği mevzuatı ile Sağlık Bakanlığının ilgili mevzuatı uygulanır. İlgili müdürlük, yapılan tıbbi tetkikleri, mevzuatta yer alan kalite ve standartlara uygunluk yönünden de denetler.

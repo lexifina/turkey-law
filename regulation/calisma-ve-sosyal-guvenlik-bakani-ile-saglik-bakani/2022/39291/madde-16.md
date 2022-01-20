@@ -1,0 +1,16 @@
+DÖRDÜNCÜ BÖLÜM
+Başvuru ve Çalışma İzni İşlemleri
+Başvuru işlemleri
+MADDE 16 – (1) İSGB, OSGB veya ÇASMER; bu Yönetmelikte belirtilen sağlık hizmetlerini sunabilmek için aşağıda yer alan belgelerle birlikte bulunduğu ilin müdürlüğüne başvurur:
+a) Yapılacak hizmetin içeriğini belirtir dilekçe.
+b) Sabit tıbbi tetkik mekânı ve/veya gezici iş sağlığı aracı hizmeti yürütmek isteyen OSGB veya ÇASMER için İSGGM tarafından verilmiş yetki belgesinin onaylı sureti veya kare kodlu İSG-KÂTİP çıktısı.
+c) İSGB’ler için işveren imzalı olur yazısı ile işyerinde görevli iş güvenliği uzmanı, işyeri hekimi ve zorunlu olması veya bulunması halinde diğer sağlık personeli görevlendirme belgeleri.
+ç) Sabit tıbbi tetkik mekânı ve/veya gezici iş sağlığı aracı hizmetini vermek üzere görevlendirilecek personelin nüfus cüzdanı sureti, diploma ve/veya uzmanlık belgesinin sureti, görevlendirildiklerine dair sözleşmelerin suretleri ve bir vesikalık fotoğraf.
+d) Gezici iş sağlığı aracı araç ruhsatı ve trafik muayene belgesi.
+e) Röntgen görüntüleme hizmetinde kullanılacak araç veya mekânda bulunan her röntgen cihazı için Nükleer Düzenleme Kurumu tarafından verilmiş lisans belgesi.
+f) Sabit tıbbi tetkik mekânı ve/veya gezici iş sağlığı aracı içinde bulunan tüm tıbbi cihazların cinsi, markası, modeli, barkodu (ürün numarası) ve seri numarası bilgileri.
+g) Faaliyette bulunacağı alana göre izin belgeleri için öngörülen belge düzenleme ücretinin ilgili müdürlüğün döner sermaye hesabına yatırılmış olduğuna dair belge.
+ğ) Sabit tıbbi tetkik mekânı için İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliğinde belirtilen oda ve kısımları da gösteren yerleşim planı ile bu Yönetmelik kapsamında kullanılacak oda ve kısımları gösterir yerleşim planı.
+(2) Gezici iş sağlığı aracı hizmeti verecek olan OSGB, ÇASMER ve 6 ncı maddenin ikinci fıkrası kapsamında gezici iş sağlığı aracı bulundurmasına izin verilen İSGB’ler, ilgili müdürlüğe başvuru yaparak “Gezici İş Sağlığı Aracı İzin Belgesi” ve sorumlu işyeri hekimi veya hekimleri de dâhil olmak üzere çalıştıracakları tüm personel için “Çalışma İzin Belgesi”ni temin eder. İzin belgesi olmadan gezici iş sağlığı aracı hizmeti sunulamaz veya personel çalıştırılamaz. Personelin kullanabileceği tıbbi cihaz veya cihazlar çalışma izin belgesinde belirtilir. Çalışma izin belgesinde yer almayan tıbbi cihaz veya cihazlar personel tarafından kullanılamaz. İzin belgelerinin birer örneği gezici iş sağlığı aracı içerisinde muhafaza edilir.
+(3) Sabit tıbbi tetkik mekânı hizmeti sunmak isteyen İSGB, OSGB ve ÇASMER’ler ilgili müdürlüğe başvuru yaparak “Sabit Tıbbi Tetkik Mekânı İzin Belgesi” ve sorumlu işyeri hekimi veya hekimleri de dâhil olmak üzere çalıştıracakları tüm personel için “Çalışma İzin Belgesi”ni temin eder. İzin belgesi olmadan sabit tıbbi tetkik mekânı hizmeti sunulamaz veya personel çalıştırılamaz. Personelin kullanabileceği tıbbi cihaz veya cihazlar çalışma izin belgesinde belirtilir. Çalışma izin belgesinde yer almayan tıbbi cihaz veya cihazlar personel tarafından kullanılamaz. İzin belgelerinin birer örneği sabit tıbbi tetkik mekânı içerisinde muhafaza edilir.
+(4) Mevcut izin belgesinin kapsamının genişletilmesi veya izin belgesinin herhangi bir sebeple yenilenmesi durumunda izin belgesi ücreti tekrar tahsil edilir.

@@ -1,0 +1,12 @@
+Numune alma ve laboratuvar tetkikleri
+MADDE 14 – (1) Numune alma hizmeti veren İSGB, OSGB ve ÇASMER’ler, sabit tıbbi tetkik mekânı ve/veya gezici iş sağlığı araçlarında, çalışanların sağlık gözetimi amacıyla yapılması gereken biyokimya, hematoloji, mikrobiyoloji ve toksikoloji testleri için gerekli olan numuneleri alır.
+(2) İSGB, OSGB ve ÇASMER’ler, Tıbbi Laboratuvarlar Yönetmeliği hükümlerine göre bünyelerinde basit hizmet laboratuvarı kurabilir. Basit hizmet laboratuvarı olan İSGB, OSGB ve ÇASMER’ler, Tıbbi Laboratuvarlar Yönetmeliğinin Ek-9’unda yer verilen testleri yapar.
+(3) Basit hizmet laboratuvarı olmayan İSGB, OSGB ve ÇASMER’lerin tetkikleri ile basit hizmet laboratuvarlarında çalışılmasına izin verilmeyen tetkikler Sağlık Bakanlığınca ruhsatlandırılmış tıbbi laboratuvarlarda yaptırılır.
+(4) Numune alma ve laboratuvar tetkikleri hizmeti verecek olan İSGB, OSGB ve ÇASMER’ler aşağıda yer alan şartlara uyar:
+a) Laboratuvar tetkikleri için numune alımı Tıbbi Laboratuvarlar Yönetmeliği hükümlerine uygun olarak yapılır.
+b) Numunelerden santrifüj edilmesi gerekenlerin santrifüj işlemi taşınma öncesinde tamamlanır. Numunelerin uygun sıcaklıkta taşınması sağlanır. Numunelerin taşınma sırasında zarar görmesini engelleyecek nitelikte taşıma kapları bulundurulur. Taşınması esnasında soğuk zincir gerektiren numuneler, uygun numune taşıma kaplarında ve buzdolabına konularak taşınır. Taşıma sırasındaki sıcaklık takip edilerek kayıt altına alınır. Bu işlemler gezici iş sağlığı aracı veya sabit tıbbi tetkik mekânından sorumlu işyeri hekiminin kontrolünde yapılır.
+c) Numune alma işlemini, ilgili branştan tıbbi tetkik personeli yapar.
+ç) Numuneler; numunenin kime ait olduğu, kim tarafından alındığı, numune alınma, laboratuvar teslim ve işlem saati ile bunların tarihi, numune türü gibi bilgilerle etiketlendirilerek kimliklendirilir ve kayıt altına alınır.
+d) Alınan numuneler, 25/9/2010 tarihli ve 27710 sayılı Resmî Gazete’de yayımlanan Enfeksiyöz Madde ile Enfeksiyöz Tanı ve Klinik Örneği Taşıma Yönetmeliği hükümlerine uygun olarak taşınır.
+e) Numuneler muhafaza şartlarına uygun şekilde nakledilir ve bu maddede belirtilen bütün hükümleri sağlayarak numune alım saatinden itibaren en geç 48 saat içinde analiz edilir.
+f) Test sonuçları hizmet alan işyerinin işyeri hekimi tarafından değerlendirilir. Tıbbi Laboratuvarlar Yönetmeliğine göre uzman/uzman hekim tarafından raporlanması gereken testlerin sonuçları Sağlık Bakanlığınca ruhsatlandırılmış tıbbi laboratuvarda görev yapan ilgili uzman/uzman hekim tarafından raporlanır.
