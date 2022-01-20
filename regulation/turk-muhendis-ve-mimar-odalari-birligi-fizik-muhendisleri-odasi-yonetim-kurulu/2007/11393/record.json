@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.11393",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRK MÜHENDİS VE MİMAR ODALARI BİRLİĞİ FİZİK MÜHENDİSLERİ ODASI SERBEST MÜŞAVİRLİK VE MÜHENDİSLİK HİZMETLERİ UYGULAMA, BÜRO TESCİL VE MESLEKÎ DENETİM YÖNETMELİĞİ",
+  "number": "11393",
+  "issuer": "Türk Mühendis ve Mimar Odaları Birliği Fizik Mühendisleri Odası Yönetim Kurulu",
+  "issuer_slug": "turk-muhendis-ve-mimar-odalari-birligi-fizik-muhendisleri-odasi-yonetim-kurulu",
+  "path": "regulation/turk-muhendis-ve-mimar-odalari-birligi-fizik-muhendisleri-odasi-yonetim-kurulu/2007/11393",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11393&MevzuatTertip=5",
+  "source_sha256": "1397d68c856c26f2ba8e74f086548d399b190b5652039f8fe9f342a70a6977a8",
+  "source_bytes": 73282,
+  "published": "2007-06-21",
+  "gazette": "26559",
+  "in_force": "2022-01-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/1/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-01-20",
+      "RG-20/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-20",
+      "20/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-06-14",
+      "RG-14/6/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-06-14",
+      "14/6/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-26",
+      "RG-26/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-26",
+      "26/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3375,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
