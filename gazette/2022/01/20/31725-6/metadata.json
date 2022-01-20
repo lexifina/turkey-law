@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-01-20",
+  "issue": "31725",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Muhasebat Genel Müdürlüğü Genel Tebliği (Sıra No: 72) (Merkezi Yönetim Kesin Hesap Kanunu Teklifi Eki Cetvellerin Düzenlenmesi)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220120-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220120.htm",
+  "index_sha256": "108e6f16a902fbbda6839bde1b537e2d4159836766779b86df2ad3f3883cd903",
+  "index_header": "20 Ocak 2022 ... 31725 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220120.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
