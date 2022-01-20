@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10733",
+  "decision_date": "2022-01-20",
+  "title": "Petrol Ofisi A.Ş.’nin DEP/474-5/10363 sayılı depolama lisansı kapsamında Mersin Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2022-01-22",
+  "resmi_gazete_number": "31727",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HXt7r+B/JWo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HXt7r+B/JWo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=B4OW35Mkeuk="
+  ],
+  "source_sha256": "aba5a948b48f71ffda3739cd8d7b6a7cd351e25fb3057e8e477cefd098162132",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-01-20",
+  "law_text_complete": true
+}
