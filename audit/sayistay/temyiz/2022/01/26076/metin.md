@@ -1,0 +1,51 @@
+Konu: Teslim Edilen Mal Tutarından Fazla Ödeme Yapılması
+
+339 sayılı Ek İlamın 1(A)’ınci maddesiyle; … Müdürlüğü tarafından 2015 yılı içerisinde aylık ... - ... adet damacana su alındığı, oysa Ekim 2015-Mart 2016 dönemi arasındaki su sayım kayıtlarının incelenmesinde; 6 aylık toplam ... adet, aylık ortalama ... adet (...) damacana su tüketildiğinin tespit edildiği, 2017 ve 2018 yıllarında aylık ortalama şeklinde hesaplanan bu rakamların ... ve 78 adete düştüğü, buradan hareketle 2015 yılında gerçek kullanımın üzerinde su bedeli ödenmesi nedeniyle oluşan … TL kamu zararının tazminine karar verilmiştir.
+
+{161 sayılı (Asıl) İlamın 16(A)’ıncı maddesiyle de aynı gerekçe ile aynı tutar için tazmin hükmü verilmiş, bu hükme karşı sorumlular (Şef-…) tarafından yapılan temyiz başvurusu üzerine Sayıştay Temyiz Kurulunun 02.01.2019 tarih ve 45473 Tutanak sayılı Kararı ile; İlamda yer alan kamu zararı tutarının kesin rakamlara dayanmadığı, ortalama miktarlar esas alınarak muhtemel bir zarardan hareketle hesaplandığı, bu nedenle olayın ayrıntılı şekilde incelenerek alımların yapıldığı dönemdeki su miktarlarının somut olarak ortaya konulması ve buna bağlı olarak kamu zararının ve sorumlularının yeniden tespiti için tazmin hükmü BOZULARAK dosyanın DAİREYE GÖNDERİLMESİNE oy çokluğuyla karar verilmiş, Sayıştay ... Dairesi yeniden yaptığı yargılama sonucunda ise; ilk kararda ısrar edilerek 339 sayılı Ek İlamın 1(A)’ınci maddesi ile aynı tutarda ve aynı sorumlular için tazmin hükmü vermiştir.}
+
+Söz konusu tazmin hükmüne (339 sayılı Ek İlamın 1(A)’ınci maddesine) karşı adı geçen sorumlu (…) tarafından temyiz başvurusu yapılması neticesinde Temyiz Kurulu’nca düzenlenen 21.04.2021 tarih ve ...39 Tutanak (33240 İlam) [Diğer sorumlu … için aynı tarih ve ...38 Tutanak (33239 İlam)] sayılı Temyiz Kurulu Kararı ile;
+
+Ek İlam hükmünün esas ve sorumluluk yönüyle mevzuata uygun olduğu görüldüğünden TASDİKİNE, oy çokluğuyla karar verilmiştir.
+
+Bu kez sorumlular yasal süresi içinde karar düzeltme talebinde bulunmuşlardır.
+
+Sorumlular karar düzeltme dilekçelerinde usul yönünden temyiz aşamasında öne sürmedikleri farklı gerekçe ile başvuru yaparak; Temyiz Kurulu’nun “…olayın ayrıntılı şekilde incelenerek alımların yapıldığı dönemdeki su miktarlarının somut olarak ortaya konulması ve buna bağlı olarak kamu zararının ve sorumlularının yeniden tespiti gerektiği” şeklindeki önceki bozma kararının gereğinin Dairece yerine getirilmediği, konuyla ilgili olarak sorumluların yeniden savunmaları alınmadan yargılama yapıldığı ve bozma kararının nedenleri karşılanmadan Ek İlam düzenlediği ileri sürülerek tazmin kararı verilmesindeki uyumsuzluğun nedeninin anlaşılamadığını, ifade etmişlerdir.
+
+60... sayılı Sayıştay Kanunu’nun “Temyiz” başlıklı 55’inci maddesinde;
+
+“…
+
+(7) Temyiz Kurulu temyiz olunan hükmü olduğu gibi veya düzelterek tasdik eder, bozar ya da Kurul üye tamsayısının üçte iki çoğunluğu ile kaldırır. Bozma halinde evrak yeniden karara bağlanmak üzere o kararı veren daireye gönderilir.
+
+(8) Daire ilk kararında ısrar eder ve bu ısrar üzerine temyiz olunarak tekrar Temyiz Kurulunca bozma kararı verilirse daire bu karara uymak zorundadır.
+
+…” hükümlerine yer verilmiştir.
+
+Buna göre; Sayıştay ... Dairesince aynı konuya ilgili olarak daha önce düzenlenen Asıl İlam hükmü, Temyiz Kurulunca “…olayın ayrıntılı şekilde incelenerek alımların yapıldığı dönemdeki su miktarlarının somut olarak ortaya konulması ve buna bağlı olarak kamu zararının ve sorumlularının yeniden tespiti gerektiği” gerekçesi ile bozulmuş ancak; Dairede yapılan ikinci yargılamada; ek sorgu düzenlenmesi ve sorumlulardan ek savunma alınması gerekli görülmemiş ve tamamen dosyadaki mevcut bilgi-belgeler çerçevesinde değerlendirme yapılmış ve ilk kararda bulunan hukuki gerekçeler korunarak ısrar niteliğindeki ikinci hüküm (339 sayılı Ek İlam hükmü) verilmiştir. Verilen hüküm de, Temyiz Kurulu’nun 21.04.2021 tarih ve ...39 Tutanak sayılı Kararı ile de hem esas hem de sorumluluk yönüyle mevzuatına uygun bulunarak tasdik edilmiştir. Dolayısıyla Dairenin konu ile ilgili yaptığı ikinci yargılamada, Temyiz Kurulu’nun bozma gerekçesine uymayarak –ek sorgu ve savunma alınmaksızın- ilk kararında direnmesi, Sayıştay mevzuatına uygun bir işlem olduğundan, sorumluların yargılama usulüne ilişkin itirazları kabul edilmemiştir.
+
+Sorumlular karar düzeltme dilekçelerinde konunun esası yönünden temyiz dilekçelerinde öne sürdükleri benzer gerekçelerle, kısaca “Ek İlamda su alımların yapıldığı dönemdeki miktarların somut olarak ortaya konulmadan kamu zararının hesaplandığı, gerçek rakamlara dayanmayan kamu zararı için hüküm verilemeyeceği” ni belirtmek suretiyle tekrar itirazda bulunmuş iseler de;
+
+… Genel Müdürlüğü tarafından 2015 yılında 4734 sayılı Kanunun 22/d maddesine göre … Gıda’dan aylık ..., ... adet gibi değişen miktarlarda damacana su alımının gerçekleştiği, Sayıştay denetimi esnasında Genel Müdürlüğe bağlı İl Müdürlüklerinde daha fazla personel çalışmasına rağmen aylık bazda daha az sayıda su tüketildiğinin görülmesi üzerine Genel Müdürlükte Ekim 2015-Mart 2016 döneminde tüketilen su miktarının sayıldığı ve 6 ay süren sayım sonucunda Genel Müdürlüğün 6 aylık su tüketiminin ... adet damacana olarak tespit edildiği, buna göre 2015 yılındaki aylık damacana su tüketim miktarının yaklaşık ... adet (...) olarak hesaplandığı, bununla birlikte sonraki dönemlerde ve yıllarda Genel Müdürlükte personel sayısında ve personel alışkanlıklarında herhangi bir değişme olmadığı halde ortalama aylık su tüketim miktarının 187 adet (Ağustos 2016-Aralık 2016 tarihlerinde-5 aylık fiili sayım sonucu elde edilmiş), ... adet (2017 yılında fiili sayım sonucu elde edilmiş), 78 adet (2018 yılında fiili sayım sonucu elde edilmiş) olarak gerçekleşmesi nedeniyle de 2015 yılındaki su alım miktarlarının ve ödenen bedellerin gerçeği yansıtmadığı kanaatine varıldığı, 2015 yılında kurum kayıtlarına giren damacana su miktarları (aylık ..., ... adet gibi değişen miktarlar) ile ... adet ortalama miktar rakamı arasındaki fark üzerinden kamu zararının hesaplandığı görülmüştür.
+
+İlamda yer alan kamu zararı, Kurum yetkililerinin Ekim 2015-Mart 2016 dönemi (6 aylık) için damacana teslim makbuzlarına göre hazırladığı su tüketim çizelgesindeki rakamların ortalaması üzerinden hesaplanmış olup, esas alınan bu ortalama miktarın ... adet), Kurumda diğer dönemlerde ve yıllarda gerçekleşen fiili tüketim miktarlarıyla karşılaştırıldığında gerçeğe yakın bir değerde olduğu, hatta sorumluların lehine bir durum oluşturduğu, zira diğer yıllarda daha düşük gerçekleşen ortalama miktarlara göre hesaplama yapıldığında kamu zararının artacağı görülmüş olmakla birlikte; ayrıca olay özelinde kamu zararının, kesin ve somut verilere dayanacak şekilde tespitinin mümkün olmadığı ve bu nedenle hesapta ortalama rakamların esas alınmasının zorunlu olduğu anlaşıldığından, sorumluların hesaplama yöntemine ilişkin itirazları yerinde görülmemiştir.
+
+Diğer yandan sorumluların temyiz aşamasında öne sürmediği halde karar düzeltme dilekçesinde bahsedilen “Genel ve hafta sonu ve mesai saatleri dışında suları teslim alan Temizlik Şefi …’nun da savunmasının alınması gerektiği” yönündeki sorumluluk itirazına gelince; somut olayda; Temizlik Şefi …’nun, yetkili makam tarafından İdareye teslim edilen malların muayene ve kabul işlemlerini yapmak üzere görevlendirilmiş kişiler (muayene ve kabul belgesini imzalayan kişiler) arasında olmadığı açık olup, görevli ve yetkili olmadığı halde hafta sonları ve mesai saatleri dışında suları teslim aldığı iddia edilen adı geçen kişiye kamu zararı ile bağlantılı sorumluluk yüklenmesi mümkün değildir.
+
+Bu itibarla; sorumluların karar düzeltme dilekçelerinde usul, esas ve sorumluluk yönüyle ileri sürdükleri tüm itirazlar, yukarıda açıklanan gerekçelerle yerinde görülmemiş olup, bunların dışında kalan itirazların tamamı ise Temyiz Kurulunun 21.04.2021 tarih ve ...39 Tutanak (33240 İlam) sayılı [Diğer sorumlu … için aynı tarih ve ...38 Tutanak (33239 İlam) sayılı] “tasdik” Kararında karşılandığı ve bu Kararın Kanuna aykırı bir yönünün bulunmadığı anlaşıldığından, sorumluların karar düzeltilmesi talebi reddedilerek (339 sayılı Ek İlamın 1(A)’ıncı maddesiyle verilen … TL’lik tazmin hükmünü tasdik eden) söz konusu Temyiz Kurulu Karar(lar)ının DÜZELTİLMESİNE MAHAL OLMADIĞINA,
+
+(Temyiz Kurulu Başkanı-6. Daire Başkanı … ile 5. Daire Başkanı …’in aşağıda yazılı azınlık görüşleri karşısında) oy çokluğuyla,
+
+Karar verildiği 20.04.2022 tarih ve 51627 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+Karşı oy gerekçesi/Azınlık görüşü
+
+Temyiz Kurulu Başkanı-6. Daire Başkanı … ile 5. Daire Başkanı …:
+
+İlamdaki kamu zararı, Kurum yetkililerinin Ekim 2015-Mart 2016 dönemine ilişkin su teslim makbuzlarına göre hazırladıkları 6 aylık tüketim miktarının ortalaması ... adet) üzerinden hesaplanmıştır. Ancak bir Kurumdaki yıllık su tüketim miktarının, mevsimsel şartlar, Kurum uygulamaları, personel alışkanlıkları gibi farklı koşulların varlığı halinde değişmesi mümkün olup, bu bağlamda 2015’in son 3 ayı ile 2016’nın ilk 3 ayında yapılan sayım sonucunun, Kurumun 2015 yılındaki aylık fiili tüketim miktarını tam olarak yansıttığı söylenemez. Bu nedenle belgeye dayalı olmadan, muhtemel (ortalama) rakamlar üzerinden hesaplanan kamu zararının kabulü de mümkün değildir.
+
+Sayıştay yargısının konusunu teşkil eden ve 5018 sayılı Kanunun 71’inci maddesinde; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanan kamu zararının tazminle veya tasdikle sonuçlanabilmesi için zarar tutarının somut verilere, belgelere dayanılarak kesin ve net bir şekilde ortaya konulması gerekir.
+
+Ancak yukarıda da açıklandığı gibi İlamda yer alan kamu zararı, kesin ve somut delillere-belgelere dayanmadan, ortalama miktarlar üzerinden muhtemel zarar şeklinde hesaplandığından, ortada Sayıştay yargısının konusuna girebilecek mahiyette bir kamu zararı söz konusu değildir.
+
+Bu itibarla; karar düzeltilmesine ilişkin dilekçi itirazları kabulü ile, Temyiz Kurulu’nun önceki tasdik kararının düzeltilmesine mahal olduğuna karar verilerek, 339 sayılı Ek İlamın 1(A)’ınci maddesiyle verilen … TL’lik tazmin hükmünün yukarıda açıklanan gerekçelerle kaldırılması gerekir.
