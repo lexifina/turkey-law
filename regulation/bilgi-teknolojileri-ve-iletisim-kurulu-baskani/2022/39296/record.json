@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39296",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BİLGİ TEKNOLOJİLERİ VE İLETİŞİM KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39296",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurulu Başkanı",
+  "issuer_slug": "bilgi-teknolojileri-ve-iletisim-kurulu-baskani",
+  "path": "regulation/bilgi-teknolojileri-ve-iletisim-kurulu-baskani/2022/39296",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39296&MevzuatTertip=5",
+  "source_sha256": "fb6ee6623fe7f08846b6aa029ce3da931472511d098de7f76c5218fb096eebad",
+  "source_bytes": 16932,
+  "published": "2022-01-20",
+  "gazette": "31725",
+  "in_force": "2022-01-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39296-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
