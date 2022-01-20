@@ -1,0 +1,26 @@
+Kamu idarelerince düzenlenecek kesin hesap cetvelleri
+MADDE 5 – (1) Kamu idarelerince düzenlenecek cetveller aşağıda gösterilmiştir:
+a) Bütçe uygulama sonuçları cetveli (Form: A-B),
+b) Ekonomik sınıflandırmaya göre bütçe giderleri cetveli (Form:A1, A2),
+c) Program bazında bütçe giderleri cetveli (Form:A3),
+ç) Program ve ekonomik sınıflandırmaya göre bütçe giderleri cetveli (Form:A4),
+d) Kurumsal sınıflandırmaya göre bütçe giderleri cetveli (Form:A5),
+e) Finansman tipi sınıflandırmaya göre bütçe giderleri cetveli (Form:A6),
+f) Bütçe giderleri kesin hesap cetveli (Form:A7),
+g) Program ve ekonomik sınıflandırmaya göre ödenek üstü bütçe giderleri cetveli (Form:A8),
+ğ) Geçen yıldan devreden ödenekler cetveli (Form:A9),
+h) Karşılaştırmalı bütçe giderleri cetveli (Form:A10),
+ı) Bütçe giderleri kesin hesap cetveli açıklaması (Form:A11),
+i) Bütçe gelirleri kesin hesap cetveli (I) (Form:B1),
+j) Bütçe gelirleri kesin hesap cetveli (II) (Form:B2),
+k) Finansman cetveli (Form:B3),
+l) Şartlı bağış ve yardımlar ile özel gelirler cetveli (Form:B4),
+m) Karşılaştırmalı bütçe gelirleri cetveli (Form:B5),
+n) Bütçe gelirleri kesin hesap cetveli açıklaması (Form:B6),
+o) Mizan cetvelleri (Form:C1, C2),
+ö) Yıl içinde silinen kamu alacakları cetveli (Form:C3),
+p) Kesinleşen Sayıştay ilamları uygulama sonuçları cetveli (Form:C4,C4/YP),
+r) Bakanlar ve üst yöneticiler cetveli (Form:C5),
+s) İdare taşınır mal yönetimi cetvelleri (Form: Örnek No: 16, Örnek No: 17),
+ş) Bakanlıkça uygun görülecek diğer cetveller.
+(2) Söz konusu cetveller takip eden maddelerde belirlenen esaslara göre düzenlenir.

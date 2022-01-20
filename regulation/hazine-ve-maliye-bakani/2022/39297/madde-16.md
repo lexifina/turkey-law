@@ -1,0 +1,3 @@
+Bütçe giderleri kesin hesap cetveli açıklaması
+MADDE 16 – (1) Bu cetvel, kamu idaresinin program ve hizmet birimi bazında, finansman ve ekonomik sınıflandırma düzeyindeki ödenek ve bütçe gider gerçekleşmelerinin ayrıntılı açıklamasını içerecek şekilde düzenlenir.
+(2) Bütçe giderleri kesin hesap cetvelinin açıklaması, bütçe hazırlama rehberi dikkate alınarak hizmet gerekçeleri belirtilmek suretiyle açık ve anlaşılır biçimde yapılır. Ödenek ve bütçe gideri arasındaki farklar, nedenleri, kullanılmayan ödenekler ve kullanılmama nedenleri açıklanır. Ödeneklerin bütçe giderlerine oranı gösterilerek, hedef, malî ve fiziki gerçekleşme durumu, bütçe başlangıç ödeneğine göre sapmalar ve nedenleri hakkında yeterli bilgi verilir.
