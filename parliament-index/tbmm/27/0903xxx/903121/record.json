@@ -1,0 +1,70 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903121,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "ORHAN ERDEM (KONYA)",
+  "summary": "Ve 57 Milletvekilinin Öğretmenlik Meslek Kanunu Teklifi (2/4056) (S. Sayısı: 302)",
+  "title": "Ve 57 Milletvekilinin Öğretmenlik Meslek Kanunu Teklifi (2/4056) (S. Sayısı: 302)",
+  "first_sitting_date": "2022-01-20",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 90,
+      "sitting": 49,
+      "sitting_date": "2022-01-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c090/tbmm27090049.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c090/tbmm27090fih.pdf",
+      "pages": [
+        "291",
+        "298:304",
+        "306"
+      ]
+    },
+    {
+      "cilt": 92,
+      "sitting": 51,
+      "sitting_date": "2022-02-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c092/tbmm27092051.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c092/tbmm27092fih.pdf",
+      "pages": [
+        "90:96",
+        "97:108",
+        "109:115",
+        "116:136"
+      ]
+    },
+    {
+      "cilt": 92,
+      "sitting": 52,
+      "sitting_date": "2022-02-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c092/tbmm27092052.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c092/tbmm27092fih.pdf",
+      "pages": [
+        "245:247",
+        "248:253",
+        "258",
+        "259:281",
+        "283:297",
+        "297:305",
+        "306:315",
+        "315:326"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2022-01-20",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
