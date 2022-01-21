@@ -1,0 +1,23 @@
+{
+  "checked_on": "2026-11-15",
+  "first_law": null,
+  "history": "current-text",
+  "label": "current-text",
+  "kind": "principle",
+  "issuer": "hsk",
+  "number": "7",
+  "title": "Sulh Ceza Hâkimlerinin Kıdem Şartına İlişkin İlke Kararı",
+  "published": "2022-01-21",
+  "in_force": "2022-01-21",
+  "in_force_basis": "Official HSK PDF states \"Resmî Gazete’de yayımı tarihinde yürürlüğe girer\"; official Gazette issue 31726 is dated 21 Ocak 2022.",
+  "source": "https://www.hsk.gov.tr/ilke-kararlari",
+  "document_url": "https://www.hsk.gov.tr/Eklentiler/210120221012sulh-ceza-h-kimlerinin-kidem-sartina-iliskin-ilke-kararipdf.pdf",
+  "gazette_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220121.htm",
+  "source_sha256": "2f359e4f4185b4f801359a08de21572ba7452ddccc5528bf78a1f6093857e6bd",
+  "source_bytes": 374889,
+  "gazette_sha256": "8f9a607ae69f41925dc00923079ce863115f9692cf332f8198921dea007bcd49",
+  "gazette_bytes": 11866,
+  "gazette_pdf_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220121-8.pdf",
+  "word_count": 215,
+  "page_count": 1
+}
