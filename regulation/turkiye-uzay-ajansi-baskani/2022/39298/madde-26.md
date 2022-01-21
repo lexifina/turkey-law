@@ -1,0 +1,3 @@
+Çalışma usulleri
+MADDE 26 – (1) Uzman ve uzman yardımcıları, daire başkanlıkları altında oluşturulan gruplar halinde çalıştırılabilir. Oluşturulan her grup için daire başkanının önerisi ve Başkanın onayı ile grup içindeki en az 5 yıl görev yapmış uzman, koordinatör olarak görevlendirilebilir.
+(2) Koordinatör olarak görevlendirilen uzman; grup üyeleri arasında işbölümü ve işbirliği sağlayarak işlerin düzenli bir şekilde yürütülmesinden, daire başkanınca gruba ya da grup üyelerinden bazılarına verilen görevlerin süresi içinde ve gereği gibi yerine getirilmesinin koordine edilmesinden sorumludur.

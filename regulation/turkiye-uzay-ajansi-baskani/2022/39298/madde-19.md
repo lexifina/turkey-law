@@ -1,0 +1,3 @@
+Tezin teslimi
+MADDE 19 – (1) Tez konusunun ilgililere duyurulmasından itibaren on iki ay içinde tezin uzman yardımcısı tarafından Tez ve Yeterlilik Sınav Kuruluna teslimi zorunludur. Tez danışmanları, tez hakkındaki görüşlerini ve uzman yardımcılarının çalışmasını değerlendiren raporu tezin son halinin kendisine tesliminden itibaren bir ay içinde anılan Tez ve Yeterlilik Sınav Kuruluna iletir.
+(2) Süresi içinde geçerli bir mazereti olmak şartıyla tezlerini sunamayanlara, bir defaya mahsus olmak üzere Başkan onayı ile altı ayı aşmamak kaydıyla ek süre verilir. Bu süre içinde de tezlerini sunmayanlar hakkında 23 üncü madde hükümleri uygulanır.

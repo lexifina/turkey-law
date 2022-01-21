@@ -1,0 +1,4 @@
+Uzman yardımcısı olarak atanma
+MADDE 14 – (1) Giriş sınavında başarılı olanlar hakkında yapılacak inceleme sonucunda atanmasına engel bir durumu bulunmadığı tespit edilenler uzman yardımcılığı kadrosuna atanır. Atama işlemlerinin tamamlanması için Başkanlık tarafından bildirilen süre içinde Sınav Kurulunca belirlenen belgelerle birlikte Yönetim Hizmetleri Daire Başkanlığına şahsen başvurulması gereklidir.
+(2) Belgelerde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin giriş sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir.
+(3) Asıl olarak kazananların çeşitli sebeplerle atanamaması, atamalarının iptal edilmesi, memuriyetten çekilmesi ve benzeri nedenlerle bu kadroların boşalması halinde, yeniden yapılacak ilk sınavın duyuru tarihine kadar bu kadrolara, yedek listede yer alanların nihai başarı sırasına göre atamaları yapılabilir. Bu şekilde atanamayanlar herhangi bir hak iddiasında bulunamaz.

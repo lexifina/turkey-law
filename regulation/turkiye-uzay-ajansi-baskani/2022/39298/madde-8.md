@@ -1,0 +1,3 @@
+Başvuru
+MADDE 8 – (1) Giriş sınavına başvuru, sınav duyurusunda belirtilmesi kaydıyla, şahsen veya elektronik ortamda yapılır. Süresi içinde yapılmayan başvurular dikkate alınmaz.
+(2) Başvuru koşullarını taşımadığı veya istenen belgelerde gerçeğe aykırı beyanda bulunduğu tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz. Bunların atamaları yapılmış olsa dahi iptal edilir. Bu kişiler, hiçbir hak talep edemez ve haklarında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanmak üzere Cumhuriyet başsavcılığına suç duyurusunda bulunulur. Bu şekilde Başkanlığı yanıltanlar kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.

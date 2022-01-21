@@ -1,0 +1,2 @@
+Başarısızlık hali ve başka kadroya nakil
+MADDE 23 – (1) Verilen ilave süre içinde tezlerini sunmayan veya ikinci defa hazırladıkları tezleri de kabul edilmeyenler, ikinci yeterlik sınavında da başarı gösteremeyen veya sınav hakkını kullanmayanlar ile süresi içinde yabancı dil yeterliği şartını yerine getirmeyenler, uzman yardımcısı unvanını kaybeder ve Başkanlıkta durumuna uygun memur unvanlı kadrolara atanır.

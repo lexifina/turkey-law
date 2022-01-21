@@ -1,0 +1,5 @@
+Giriş sınavı sonuçlarının değerlendirilmesi ve açıklanması
+MADDE 13 – (1) Sınav Kurulu, yazılı sınavın ağırlığı yüzde altmış ve sözlü sınavın ağırlığı yüzde kırk olmak üzere, yalnızca sözlü sınav yapılması durumunda ise sözlü sınav puanını esas alarak giriş sınavı başarı puanını tespit eder.
+(2) Giriş sınavı sonuçları, Sınav Kurulunca puanı en yüksek adaydan başlanmak suretiyle başarı derecesine göre liste halinde tespit edilerek bir tutanağa bağlanır. Ayrıca herhangi bir kayıt tutulmaz.
+(3) Hesaplama ve başarı derecesine göre sıralama sonrası, giriş sınavı puanı yetmiş ve üzerinde olması şartıyla en yüksek puandan başlanarak giriş sınavı duyurusunda belirtilen atama yapılacak kadro sayısı kadar aday giriş sınavını asıl olarak kazanmış sayılır. Atama yapılacak kadro sayısı kadar yedek aday belirlenir.
+(4) Giriş sınavı sonuçları, Başkanlık internet sayfasından yayımlanmak suretiyle ilgililere duyurulur. İlan edilen sınav sonuçları, bir yılı aşmamak üzere müteakip sınavın başvuru tarihine kadar geçerlidir.

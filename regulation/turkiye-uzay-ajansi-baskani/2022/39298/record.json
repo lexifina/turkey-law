@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39298",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UZAY TEKNOLOJİLERİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "39298",
+  "issuer": "Türkiye Uzay Ajansı Başkanı",
+  "issuer_slug": "turkiye-uzay-ajansi-baskani",
+  "path": "regulation/turkiye-uzay-ajansi-baskani/2022/39298",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39298&MevzuatTertip=5",
+  "source_sha256": "75d8b420434db999b7bd00cb26c8bbaed47d3247058a9eb221faf05e229051e5",
+  "source_bytes": 64709,
+  "published": "2022-01-21",
+  "gazette": "31726",
+  "in_force": "2022-01-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3594,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
