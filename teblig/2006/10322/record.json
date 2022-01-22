@@ -1,0 +1,94 @@
+{
+  "source_id": "9.5.10322",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2006/11)",
+  "number": "10322",
+  "path": "teblig/2006/10322",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=10322&MevzuatTertip=5",
+  "source_sha256": "f9fb2bebccf40753186538b259644cbf7a7b29a2e4b177c6e35919211ee2da51",
+  "source_bytes": 48509,
+  "published": "2006-05-23",
+  "gazette": "26176",
+  "in_force": "2022-01-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/1/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-01-22",
+      "RG-22/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-22",
+      "22/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-18",
+      "RG-18/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-18",
+      "18/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-02-24",
+      "RG-24/2/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-02-24",
+      "24/2/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-07",
+      "7/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-07",
+      "7/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-07-11",
+      "RG-11/7/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-07-11",
+      "11/7/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-07-28",
+      "28/7/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2007-03-15",
+      "15/3/2007",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımını takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 551,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.10322%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
