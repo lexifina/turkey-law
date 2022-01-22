@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Çeşitli ve Son Hükümler
+Sorgulama hizmet bedeli
+MADDE 17 – (1) Alacaklı, UYAP üzerinden bu sisteme entegre bilişim sistemleri vasıtasıyla dosya safahat bilgileri ile borçlunun mal, hak veya alacağını elli kuruş karşılığında sorgulayabilir. Bu miktar her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında artırılır. Bakanlık yeniden değerleme oranında artırılan ücreti beş katına kadar artırmaya ve azaltmaya ayrıca gün ve dosya esaslı olmak üzere belirli sayıdaki sorgulamayı ücretten istisna tutmaya yetkilidir. Genel yönetim kapsamındaki kamu idarelerinden bu ücret alınmayacağı gibi alacaklının bir gün içinde aynı dosya üzerinden beş kez yapacağı sorgudan da ücret alınmaz. Bu kapsamda alınacak ücret Bakanlığın belirleyeceği usule göre tahsil edilir ve takip gideri olarak borçluya yüklenemez.
+(2) Yukarıdaki fıkraya göre belirlenen sorgulama ücreti UYAP portal üzerinden duyurulur.

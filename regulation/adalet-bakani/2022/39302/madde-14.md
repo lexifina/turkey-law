@@ -1,0 +1,3 @@
+Sosyal Güvenlik Kurumu kayıt sorgusu
+MADDE 14 – (1) Borçlunun hak, alacak veya sosyal güvenlik kayıtlarının tespiti amacıyla Sosyal Güvenlik Kurumu veri tabanında yapılacak sorgulama işlemidir.
+(2) Sorgulama neticesinde düzenlenecek raporda borçlunun hak, alacak veya sosyal güvenlik kaydının tespit edilmesi halinde, 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununa göre sigorta kollarından hangisine tabi olduğu; aktif olarak çalışıp çalışmadığı veya emekli olup olmadığı; aktif olarak çalışıyor ise çalıştığı iş yerinin unvanı ve adresi; işten ayrılmış ise ayrılış tarihi; hak ve alacağa ilişkin takyidat bilgileri ile 7 nci maddeye göre bulunması gereken bilgiler gösterilir.

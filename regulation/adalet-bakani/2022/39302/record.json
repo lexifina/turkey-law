@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39302",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MAL, HAK VEYA ALACAĞIN ULUSAL YARGI AĞI BİLİŞİM SİSTEMİ ÜZERİNDEN SORGULANMASI HAKKINDA YÖNETMELİK",
+  "number": "39302",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2022/39302",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39302&MevzuatTertip=5",
+  "source_sha256": "4496f993646f910deddb87ad6765cc148a1c25a96dfdd064d9dbd4cde964497a",
+  "source_bytes": 54636,
+  "published": "2022-01-22",
+  "gazette": "31727",
+  "in_force": "2022-01-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1318,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
