@@ -1,0 +1,2 @@
+Diğer akademik kurullar
+MADDE 37 – (1) 18/4/1986 tarihli ve 19082 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Akademik Kurulların Oluşturulması ve Bilimsel Denetim Yönetmeliği hükümlerine göre Üniversitede akademik genel kurulları dışında, akademik bölüm ve akademik anabilim/anasanat kurulları oluşturulur ve bu kurullar ilgili mevzuat hükümleriyle kendilerine verilen görevleri yerine getirir.

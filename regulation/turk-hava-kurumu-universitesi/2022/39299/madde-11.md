@@ -1,0 +1,2 @@
+Üye olmayanların toplantıya katılması
+MADDE 11 – (1) Mütevelli Heyet, gerekli gördüğü hallerde, rektör yardımcılarını, dekanları, enstitü, yüksekokul ve birim müdürlerini ve Üniversite genel sekreterini toplantılara davet edebilir. Yetkili uzmanları veya ilgili görevlileri, açıklamalarda bulunmak üzere, bağlı bulundukları makamların uygun görüşünü alarak, toplantılara çağırabilir. Üye olmadıkları hâlde bu şekilde toplantıya katılanların oy hakları yoktur.

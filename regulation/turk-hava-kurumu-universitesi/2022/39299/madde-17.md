@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 17 – (1) Yönetim Kurulu; Rektörün başkanlığında dekanlar ile Üniversite öğretim birimlerini ve alanlarını temsil edecek şekilde Senato tarafından dört yıl için seçilecek üç profesörden oluşur. Rektör, gerektiğinde Yönetim Kurulunu toplantıya çağırır. Rektör yardımcıları, oy hakkı olmaksızın, Yönetim Kurulu toplantılarına katılabilir. Yönetim Kurulunun raportörü, genel sekreterdir.

@@ -1,0 +1,3 @@
+Yabancı uyruklu öğretim elemanları
+MADDE 41 – (1) Üniversitede sözleşme ile görevlendirilecek yabancı uyruklu öğretim elemanları; ilgili fakülte, enstitü veya yüksekokul yönetim kurulunun önerisi ve Üniversite Yönetim Kurulunun uygun görüşü üzerine Rektörün önerisi ve Mütevelli Heyetin onayıyla ilgili mevzuat hükümlerine göre atanırlar. Yabancı uyruklu öğretim elemanlarının ücretleri, ilgili mevzuat hükümlerine göre Mütevelli Heyet tarafından belirlenir.
+(2) Yabancı uyruklu öğretim elemanları, görevleri bakımından 2547 sayılı Kanun ve bu Yönetmelikte aylıklı öğretim elemanları için öngörülen hükümlere tabidir.

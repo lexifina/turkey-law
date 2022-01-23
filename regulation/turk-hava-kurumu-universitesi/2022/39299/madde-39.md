@@ -1,0 +1,3 @@
+Öğretim görevlileri
+MADDE 39 – (1) Öğretim üyesi bulunmayan dersler veya herhangi bir dersin özel bilgi ve uzmanlık isteyen konularının eğitim-öğretim ve uygulamaları için, kendi uzmanlık alanlarındaki çalışma ve eserleriyle tanınmış kişiler, ilgili yönetim kurullarının görüşleri alınarak, Rektörün önerisi ve Mütevelli Heyetin onayıyla sözleşme veya ders saat ücreti ile görevlendirilirler.
+(2) Öğretim üyesi kadrolarına öğretim görevlileri en çok iki yıl süre ile atanabilirler; bu süre sonunda işgal ettikleri kadroya başvuran öğretim üyesi bulunmadığı ve görevlerine devamda yarar görüldüğü takdirde aynı usulle yeniden atanabilirler. Atanma süresi sonunda görevleri kendiliğinden sona erer.
