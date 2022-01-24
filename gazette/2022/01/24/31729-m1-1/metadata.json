@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-01-24",
+  "issue": "31729",
+  "edition": "mükerrer 1",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2021/15)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220124M1-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220124M1.htm",
+  "index_sha256": "5bf33f33de94b1a82d4cc59e5a1831170cbf4090f867257d4f5ff668bd94c198",
+  "index_header": "24 Ocak 2022 ... 31729 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220124M1.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
