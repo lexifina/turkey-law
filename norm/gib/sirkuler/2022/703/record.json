@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-138/ 2022-1",
+  "source_id": 703,
+  "date": "2022-01-25",
+  "title": "18 Ocak 2022 tarihinden itibaren ülkemizde yaşanan yoğun kar yağışı nedeniyle 26 Ocak 2022 günü sonuna kadar verilmesi gereken Katma Değer Vergisi, Damga Vergisi ve Muhtasar ve Prim Hizmet Beyannamelerinin verilme ve bu beyannameler ...",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/703",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "a71e12a685c661f1efa5548a7d7b0fb48e12071ae29c8b6332d55d5cd9d338a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
