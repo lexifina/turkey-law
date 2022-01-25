@@ -1,0 +1,81 @@
+{
+  "source_id": "9.5.17061",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "GÜMRÜK GENEL TEBLİĞİ (GÜMRÜK İŞLEMLERİ) (SERİ NO: 103)",
+  "number": "17061",
+  "path": "teblig/2013/17061",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=17061&MevzuatTertip=5",
+  "source_sha256": "5acac1182c93594926ea5a263c9f5bcbd27cffbc6cb27791d7030cf53ab101b4",
+  "source_bytes": 36633,
+  "published": "2013-01-28",
+  "gazette": "28542",
+  "in_force": "2022-01-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/1/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-01-25",
+      "RG-25/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-25",
+      "25/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-09",
+      "RG-9/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-09",
+      "9/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-11-27",
+      "RG-27/11/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-11-27",
+      "27/11/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-05-20",
+      "RG-20/5/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-05-20",
+      "20/5/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-04",
+      "RG-4/3/2014",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2014-03-04",
+      "4/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 410,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
