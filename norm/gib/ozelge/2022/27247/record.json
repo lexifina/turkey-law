@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-7326-3-2]-99917",
+  "source_id": 27247,
+  "date": "2022-01-26",
+  "title": "Gayrimenkul alım satım faaliyetinde bulunan şirketin aktifinde kayıtlı olan ve depolama alanı olarak kullanılmak üzere kiraya verilen arazinin Vergi Usul Kanununun geçici 31 inci maddesine, 7326 sayılı Kanunla eklenen yedinci fıkra hükümleri kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27247",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e021ec14c8eb20e3519427c4934b2b6575bc64664ca781140b5d2c6f3c9bd7b5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
