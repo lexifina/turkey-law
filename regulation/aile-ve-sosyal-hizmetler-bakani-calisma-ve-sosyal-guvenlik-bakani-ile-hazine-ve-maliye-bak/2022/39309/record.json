@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39309",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KORUMALI İŞYERLERİ HAKKINDA YÖNETMELİK",
+  "number": "39309",
+  "issuer": "Aile ve Sosyal Hizmetler Bakanı, Çalışma ve Sosyal Güvenlik Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "aile-ve-sosyal-hizmetler-bakani-calisma-ve-sosyal-guvenlik-bakani-ile-hazine-ve-maliye-bak",
+  "path": "regulation/aile-ve-sosyal-hizmetler-bakani-calisma-ve-sosyal-guvenlik-bakani-ile-hazine-ve-maliye-bak/2022/39309",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39309&MevzuatTertip=5",
+  "source_sha256": "6a5b3df0cf5ff98baf7b3f9c70035172e8d60619214d1d76bede08a67e4e05b7",
+  "source_bytes": 38317,
+  "published": "2022-01-27",
+  "gazette": "31732",
+  "in_force": "2022-01-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2016,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

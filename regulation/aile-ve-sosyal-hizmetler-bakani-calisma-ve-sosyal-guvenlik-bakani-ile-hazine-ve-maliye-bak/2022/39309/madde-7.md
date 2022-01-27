@@ -1,0 +1,2 @@
+Taleplerin komisyonca değerlendirilmesi ve korumalı işyeri statüsü belgesinin düzenlenmesi
+MADDE 7 – (1) Korumalı işyeri statüsü almak üzere Aile ve Sosyal Hizmetler İl Müdürlüğüne başvuran gerçek veya tüzel kişilerin talepleri işyerinde gerekli tespit ve incelemeleri yapmak suretiyle en geç otuz gün içinde Komisyonca değerlendirilir. Başvurusu yapılanlardan Komisyonca yapılacak değerlendirme sonucunda uygun görülen işyerlerine Valilikçe, Korumalı İşyeri Statüsü Belgesi düzenlenir.

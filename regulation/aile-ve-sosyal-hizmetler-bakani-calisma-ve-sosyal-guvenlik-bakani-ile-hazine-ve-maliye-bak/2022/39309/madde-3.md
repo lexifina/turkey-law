@@ -1,0 +1,19 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) Atölye: Korumalı işyerindeki veya korumalı iş merkezinde her bir işyerindeki iş atölyesini,
+b) Banyo ve tuvalet: Erişilebilirlik standartlarına uygun düzenlenmiş, korumalı işyerlerinde ve korumalı iş merkezlerinde her 12 engelli çalışan için en az bir olmak üzere tuvalet ihtiyacının ve gerekli hallerde kadın ve erkek çalışanlar için banyo ihtiyacının giderildiği bölümü,
+c) Çok amaçlı salon: Korumalı iş merkezinde bulunan tüm işyerlerinde çalışan bireylerin sosyal faaliyet ve toplantı gibi etkinlikleri düzenleyebilecekleri bölümü,
+ç) Eğitici personel: Mesleki ve teknik eğitim alanında yükseköğrenim görmüş veya usta öğreticilik yeterliğini haiz eğitici personeli,
+d) Engelli: Engellilik durumları sebebiyle iş gücü piyasasına kazandırılmaları güç olan engellilerden; Erişkinler İçin Engellilik Sağlık Kurulu Raporuna göre en az % 40 oranında zihinsel veya ruhsal engelli olan veya Çocuklar İçin Özel Gereksinim Raporuna göre en az “hafif düzeyde özel gereksinimi vardır (%40-49)” ibaresi bulunan zihinsel veya ruhsal engelli bireyi,
+e) İşveren: Sahip olduğu işyeri için korumalı işyeri statüsü almak üzere başvuruda bulunan gerçek veya tüzel kişiyi,
+f) Komisyon: İllerde Valilik bünyesinde, Aile ve Sosyal Hizmetler İl Müdürlüğü, Çalışma ve İş Kurumu İl Müdürlüğü, İl Milli Eğitim Müdürlüğü, İl Sağlık Müdürlüğü ve gerekli hallerde Valilikçe görevlendirilen diğer kamu kurum ve kuruluşları temsilcilerinden oluşan, sekretaryası Aile ve Sosyal Hizmetler İl Müdürlüğü tarafından yürütülen ve çalışma usul ve esasları Engelli ve Yaşlı Hizmetleri Genel Müdürlüğü tarafından belirlenecek olan komisyonu,
+g) Korumalı iş merkezi: Bir yapı veya alan bütünlüğü olan, içinde birden fazla korumalı işyeri bulunan; beslenme, giyinme, eğlenme, dinlenme, kültürel ve benzeri ihtiyaçların bir kısmının veya tamamının karşılandığı ortak kullanım alanlarını içeren merkezî bir yönetim tarafından yönetilen işletmeyi,
+ğ) Korumalı işyeri: İş gücü piyasasına kazandırılmaları güç olan zihinsel veya ruhsal engelli bireylere istihdam oluşturmak amacıyla Devlet tarafından teknik ve mali yönden desteklenen ve çalışma ortamı özel olarak düzenlenen işyerini,
+h) Korumalı işyeri yöneticisi: Korumalı işyerinin işleyişinden sorumlu olan kişiyi,
+ı) Merkezi yönetim: Korumalı iş merkezinin maliki veya temsilcisi tarafından yetkilendirilen gerçek veya tüzel kişilerden oluşan yönetimi,
+i) Merkezi yönetim odası: Korumalı işyerlerinin bağlı olduğu korumalı iş merkezinin sahibi veya yönetiminden sorumlu kişilerin kullanacağı bölümü,
+j) Mutfak ve yemekhane: Korumalı iş merkezinde çalışanların yemek ihtiyaçlarının karşılanacağı bölümü,
+k) Sağlık odası veya kabini: Korumalı iş merkezinde tam zamanlı veya yarı zamanlı sağlık personeli tarafından ilk yardım ve ilk müdahalenin yapıldığı ve engellilerin kullandığı ilaç ve sağlık malzemelerinin bulunduğu bölümü,
+l) Sosyal servis: Sayısı 10 ve üzeri olan korumalı işyerlerinin oluşturduğu korumalı iş merkezlerinde üniversitelerin sosyal hizmet, psikoloji, psikolojik danışmanlık ve rehberlik ve özel eğitim alanlarında en az lisans eğitimi almış meslek elemanları tarafından; işyerinde çalışmaya başlayan bireylerin kabul, ayrılış, ayrılış sonrası danışmanlık hizmetlerinin verilmesi, engelli ve ailelerine gerekli rehberlik hizmetlerinin sunulması, sosyal ve kültürel faaliyetlerin düzenlenmesi, toplumsal sorumluluk çerçevesinde merkezde verilen hizmetlere halkın gönüllü katkı ve katılımını sağlayıcı etkinlik programlarının düzenlenmesi, merkezi yönetim sekretaryasının yürütülmesi ve Aile ve Sosyal Hizmetler İl Müdürlüğüne gönderilecek tüm bilgi, belge, form ve yazışmaların yapılması ve/veya koordine edilmesi çalışmalarının yürütüldüğü bölümü,
+m) Personel veya işçi odası: Korumalı iş merkezinde çalışan engelli personel ile iş yerinde bulunan diğer çalışanların giyinme, soyunma ve dinlenme gibi ihtiyaçlarını karşıladıkları odayı,
+ifade eder.

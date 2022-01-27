@@ -1,0 +1,4 @@
+Yangından korunma ve elektrik tertibatı
+MADDE 11 – (1) Korumalı işyeri veya korumalı iş merkezinde yangından korunma için yeterli sayıda yangın söndürme cihazı ve malzemesi, sesli ve ışıklı alarm sistemi ile engelli bireylerin kullanımına uygun yangın tahliye sistemi bulundurulması zorunludur.
+(2) Korumalı işyeri veya korumalı iş merkezinde elektrik anahtarı, priz, lamba gibi elektrikli aletler, kesici delici aletler ile yanıcı ve yakıcı maddelerin engelli bireyler için tehlike oluşturmasını önleyecek tedbirler alınır.
+(3) Korumalı işyeri veya korumalı iş merkezi binası çevresinde patlayıcı ve yanıcı madde satan veya depolayan kuruluşlar bulunması hâlinde, 27/11/2007 tarihli ve 2007/12937 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Binaların Yangından Korunması Hakkında Yönetmelik hükümlerine uygun mesafelerin korunması ve tedbirlerin alınması sağlanır.

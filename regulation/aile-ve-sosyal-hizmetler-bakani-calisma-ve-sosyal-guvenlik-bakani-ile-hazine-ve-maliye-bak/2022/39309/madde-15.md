@@ -1,0 +1,2 @@
+Korumalı işyerinde çalışan engelli bireyin işten ayrılması
+MADDE 15 – (1) Korumalı işyerleri, aylık personel durum çizelgesini takip eden ayın yedinci gününe kadar düzenleyerek Aile ve Sosyal Hizmetler İl Müdürlüğüne gönderir. Ayın yedinci gününün tatile denk gelmesi halinde takip eden ilk iş günü gönderilir. İşyeri, herhangi bir sebeple iş sözleşmesi sona eren engelli bireyin ayrılış nedenlerini yedi gün içinde Aile ve Sosyal Hizmetler İl Müdürlüğüne bildirmekle yükümlüdür.

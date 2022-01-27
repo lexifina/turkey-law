@@ -1,0 +1,2 @@
+Komisyon kararlarına itiraz
+MADDE 20 – (1) Korumalı işyeri statüsü kazanma talebinin reddi ve korumalı işyeri statüsünün sona erdirilmesi kararlarına karşı kararın tebliğ tarihinden itibaren on beş gün içinde Aile ve Sosyal Hizmetler İl Müdürlüğüne itiraz edilebilir. İtirazlar Komisyonca değerlendirilerek otuz gün içerisinde sonuçlandırılır. İtiraz yoluna başvurulmuş olması ilgililerin yargı yoluna başvurma hakkını ortadan kaldırmaz.
