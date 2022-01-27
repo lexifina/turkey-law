@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10747",
+  "decision_date": "2022-01-27",
+  "title": "2022 yılı ulusal doğal gaz tüketim tahminine ilişkin",
+  "resmi_gazete_date": "2022-01-28",
+  "resmi_gazete_number": "31733",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=alqLIrFumCA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=alqLIrFumCA="
+  ],
+  "source_sha256": "16eb51053c244eb26aefc424094a9b7195a70f3fbe6da9447dbcaa846e9155a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-01-27",
+  "law_text_complete": true
+}
