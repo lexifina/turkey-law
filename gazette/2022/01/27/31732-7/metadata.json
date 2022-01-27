@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-01-27",
+  "issue": "31732",
+  "edition": "regular",
+  "item": 7,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Bazı Tarım Ürünlerinin İhracatına İlişkin Tebliğ (İhracat: 2022/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220127-7.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220127.htm",
+  "index_sha256": "5aabb2c9f7c6a6bc7193def855c95a55f045d5150758d99336193acd0b2f1fb0",
+  "index_header": "27 Ocak 2022 ... 31732 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220127.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
