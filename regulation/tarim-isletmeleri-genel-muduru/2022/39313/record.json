@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39313",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39313",
+  "issuer": "Tarım İşletmeleri Genel Müdürü",
+  "issuer_slug": "tarim-isletmeleri-genel-muduru",
+  "path": "regulation/tarim-isletmeleri-genel-muduru/2022/39313",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39313&MevzuatTertip=5",
+  "source_sha256": "172e06e49ad465386b410f8bfe4468091ae9c9b2d66d76326c084ad8c50693cb",
+  "source_bytes": 11514,
+  "published": "2022-01-28",
+  "gazette": "31733",
+  "in_force": "2022-01-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 265,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39313%20-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
