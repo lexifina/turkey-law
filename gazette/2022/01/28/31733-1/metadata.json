@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-01-28",
+  "issue": "31733",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tarım İşletmeleri Genel Müdürlüğü Disiplin Amirleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220128-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220128.htm",
+  "index_sha256": "b2222b83561268507f343ac851c0431675610e6881a7323d12df5ab76c6311cd",
+  "index_header": "28 Ocak 2022 ... 31733 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/01/20220128.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
