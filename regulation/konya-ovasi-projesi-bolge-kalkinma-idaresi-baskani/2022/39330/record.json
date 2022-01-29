@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39330",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KONYA OVASI PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39330",
+  "issuer": "Konya Ovası Projesi Bölge Kalkınma İdaresi Başkanı",
+  "issuer_slug": "konya-ovasi-projesi-bolge-kalkinma-idaresi-baskani",
+  "path": "regulation/konya-ovasi-projesi-bolge-kalkinma-idaresi-baskani/2022/39330",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39330&MevzuatTertip=5",
+  "source_sha256": "24a4e900e3c80e8980d898a2467dd7d4c0a16b03191987b44c3fcff6eba87b98",
+  "source_bytes": 10408,
+  "published": "2022-01-29",
+  "gazette": "31734",
+  "in_force": "2022-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 198,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39330-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
