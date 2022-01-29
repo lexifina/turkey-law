@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39329",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYET MERKEZ BANKASI DENETİM YÖNETMELİĞİ",
+  "number": "39329",
+  "issuer": "Türkiye Cumhuriyet Merkez Bankası Başkanı",
+  "issuer_slug": "turkiye-cumhuriyet-merkez-bankasi-baskani",
+  "path": "regulation/turkiye-cumhuriyet-merkez-bankasi-baskani/2022/39329",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39329&MevzuatTertip=5",
+  "source_sha256": "b80fd56f727850bbdad62367d7b7cb71a4a0bbb4584c1e49a4b9809b53508a17",
+  "source_bytes": 98997,
+  "published": "2022-01-29",
+  "gazette": "31734",
+  "in_force": "2022-01-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.01.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5163,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
