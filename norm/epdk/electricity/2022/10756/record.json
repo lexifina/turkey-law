@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10756",
+  "decision_date": "2022-01-31",
+  "title": "1/2/2022 tarihinden itibaren geçerli Mesken Alçak Gerilim Tek Zamanlı Abone Grubu hk.",
+  "resmi_gazete_date": "2022-02-01",
+  "resmi_gazete_number": "31737",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Oi8wJRhppGg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Oi8wJRhppGg="
+  ],
+  "source_sha256": "eaead5aae269d2b3156fc8c50eec4b2688ce5ec37ce25dc6e8fefc8616aa68b2",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-01-31",
+  "law_text_complete": true
+}
