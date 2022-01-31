@@ -1,0 +1,30 @@
+{
+  "number": "month-01-2",
+  "year": 2022,
+  "month": 1,
+  "title": "2022 Yılı Ocak Ayı Meclis Karar Özeti",
+  "decision_date": null,
+  "index_date": "2022-01-31",
+  "date_precision": "month",
+  "period": "Ocak 2022",
+  "source": "https://www.yunusemre.bel.tr/siteApi/services/meclisGundemVeKararlari.json?month=0&year=2022&type=karar",
+  "official_page": null,
+  "official_document": "https://www.yunusemre.bel.tr/fileserver/uploads/y4wkdh.pdf",
+  "source_sha256": "d9a369fe095b0c8e5168a6da2e32ccf7685db9d5127c80c110a9ebaba2711f87",
+  "issuer": "Yunusemre Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-01-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ocak 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 Yılı Ocak Ayı Meclis Karar Özeti",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "list_date": "4 Ocak 2022",
+  "list_year": 2022
+}
