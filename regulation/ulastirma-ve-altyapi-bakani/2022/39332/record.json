@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39332",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEMİ VE SU ARAÇLARINDA GAZDAN ARINDIRMA YÖNETMELİĞİ",
+  "number": "39332",
+  "issuer": "Ulaştırma ve Altyapı Bakanı",
+  "issuer_slug": "ulastirma-ve-altyapi-bakani",
+  "path": "regulation/ulastirma-ve-altyapi-bakani/2022/39332",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39332&MevzuatTertip=5",
+  "source_sha256": "9d7972745a1a88a992cb0a09be9e255cc9bf1d23b55a5b7a1194ca199957b407",
+  "source_bytes": 204578,
+  "published": "2022-02-01",
+  "gazette": "31737",
+  "in_force": "2022-02-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7320,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39332-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,4 @@
+Gaz ölçüm uzmanlarının ve gaz ölçüm destek personelinin çalışma esasları
+MADDE 12 – (1) Gazdan arındırma işlemi yapması gereken her tesis; en az bir gaz ölçüm uzmanı istihdam eder veya serbest çalışan en az bir gaz ölçüm uzmanı ile sözleşme yaparak hizmet alır. Gaz ölçüm uzmanı periyodik ölçümleri yapmak üzere gaz ölçüm destek personeli görevlendirebilir. Gaz ölçüm destek personeli yapacağı gaz ölçüm işlemi ve düzenleyeceği belgelerde yalnızca gaz ölçüm uzmanına karşı sorumludur. Tesis, gerekli görmesi halinde gerekli teçhizatını sağlamak kaydıyla bu Yönetmelikte belirlenen yetki ve sorumluluklara haiz gaz ölçüm destek personeli de istihdam edebilir.
+(2) Gaz ölçüm uzmanları ve gaz ölçüm destek personeli bu Yönetmelikte belirlenen yetki ve sorumluluklar çerçevesinde gaz ölçüm ve belgelendirmelerine yönelik görev yapar.
+(3) Gaz ölçüm uzmanları ve gaz ölçüm destek personeli, diğer görevliler ile koordineli olarak çalışır.

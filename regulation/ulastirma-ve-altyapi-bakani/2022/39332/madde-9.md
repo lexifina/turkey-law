@@ -1,0 +1,2 @@
+Tehlikeli mahallere giriş müsaadesi
+MADDE 9 – (1) Gazdan arındırma belgesi düzenlenmeden ve mahallerin iş sağlığı ve güvenliği kurallarına uygun olduğu teyit edilmeden tehlikeli mahallere girilemez. Gazdan arındırma belgesi düzenlendikten sonra; tesiste inşa, tadilat, bakım, onarım veya söküm maksadıyla bulunan gemi ve su araçlarındaki tehlikeli mahallere emniyetli giriş müsaadesini sorumlu kişi verir. Demir sahasındaki gemiler için söz konusu durumda emniyetli giriş müsaadesini gazdan arındırma belgesine istinaden gemi kaptanı verir.

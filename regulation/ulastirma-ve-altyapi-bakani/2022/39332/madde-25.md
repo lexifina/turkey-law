@@ -1,0 +1,15 @@
+BEŞİNCİ BÖLÜM
+Seminer ve Belgelendirme
+Gaz ölçüm uzmanı ve gaz ölçüm destek personeli semineri ve belgelendirilmesi
+MADDE 25 – (1) Türk Mühendis ve Mimar Odaları Birliği Gemi Mühendisleri Odası, Türk Mühendis ve Mimar Odaları Birliği Gemi Makineleri İşletme Mühendisleri Odası, Deniz Ticaret Odaları, Türkiye Gemi İnşa Sanayicileri Birliği, yetkilendirilmiş klas kuruluşları, üniversitelerin lisans düzeyinde öğretim veren mühendislik veya fen fakültelerinden gemi inşa mühendisliği, kimya mühendisliği dallarında eğitim veren fakülte veya denizcilik fakülteleri gaz ölçüm uzmanı veya gaz ölçüm destek personeli adaylarına seminer vermek üzere İdareden uygunluk talep eder. Gaz ölçüm uzmanı ve gaz ölçüm destek personeli adaylarına yönelik seminerler bir arada yapılamaz.
+(2) Seminer için uygunluk taleplerinde seminer tarihi ve yeri, seminer programı ve eğitici personelin yeterlilikleri hakkında bilgileri seminer planlama tarihinden en az 2 ay öncesinde uygunluk almak için İdareye sunulması gerekmektedir. Seminer programı 26 ncı maddede belirtilen konu başlıklarını ve örnek uygulamayı kapsamalıdır. İdareden uygunluk alındıktan sonra; düzenlenecek seminerlerde asgari 10, azami 30 katılımcı kaydı yapılır. Katılımcı sayısında bu maddenin altıncı fıkrasında belirtilen personel de dikkate alınır.
+(3) Seminer programı uygun bulunan kuruluşlar, yapılan seminer çalışmasından sonra programın en az %80’ine katılan katılımcılara seminer katılım sertifikası düzenler. Seminer katılım sertifikasında seminer izninin tarih ve sayısı, seminer tarih aralığı, semineri düzenleyen kuruluş, sertifikanın düzenlendiği tarih, katılımcının adı soyadı, kimlik numarası ve katılımcı sertifikasını onaylayan kişinin unvan ve imzası yer alır. İdare tarafından gönderilen gözlemci personel bu hususları kontrol eder.
+(4) Gaz ölçüm uzmanı adaylarına yönelik seminere, aşağıda belirtilen yeterlilikteki kişiler katılabilir:
+a) Üniversitelerin lisans düzeyinde öğretim veren mühendislik veya fen fakültelerinden mezun ve en az 2 yıl tersane veya gemide çalışmış veya en az 1 yıl bakım, onarım veya gemi söküm tesisinde çalışmış olan kimya mühendisleri, kimyagerler, makine mühendisleri.
+b) Gemi Mühendisleri Odasına kayıt şartlarını taşıyan mühendisler.
+c) Gemi Makineleri İşletme Mühendisleri Odasına kayıt şartlarını taşıyan mühendisler.
+ç) A veya B sınıfı iş güvenliği uzmanı olarak en az 2 yıl tesiste çalışmış olanlar.
+(5) Gaz ölçüm destek personeli adaylarına yönelik seminere aşağıda belirtilen yeterlilikteki kişiler katılabilir:
+a) İş güvenliği uzmanı sertifikasına sahip olanlar.
+b) Gemi inşa, gemi makinaları işletme, deniz ulaştırma işletme, deniz ve liman işletmeciliği, iş sağlığı ve güvenliği ile yangın veya kimya alanlarında eğitim veren meslek yüksek okulundan mezun ve tesiste veya gemide en az 2 yıl süreyle çalışmış olanlar.
+(6) Semineri düzenleyen kuruluşlar, İdarece görevlendirilmesi halinde ve Bakanlıkta görevli olup bu maddenin dördüncü veya beşinci fıkrasındaki şartları taşıyan 3 personele seminere ücretsiz katılım hakkı verir ve devam şartını yerine getirmesi halinde katılımcı sertifikası düzenler.

@@ -1,0 +1,4 @@
+Ölçüm cihazlarının özellikleri, genel bakım ve kalibrasyonu
+MADDE 13 – (1) Kullanılan bütün ölçüm cihazları, yapılacak ölçüm işi için uygun üretilmiş, kalibre edilmiş ve onaylanmış tipte olmalıdır.
+(2) Gaz ölçüm uzmanları ve gaz ölçüm destek personeli, kullandıkları cihazların üreticisi veya yetkili temsilcisinden cihazın kullanımı, kalibrasyonu ve teknik özellikleri konusunda eğitim alırlar. Aldıkları eğitim, eğitim katılım belgesi ile belgelendirilir. Bu belge, gaz ölçüm uzmanları ve gaz ölçüm destek personeli tarafından saklanır.
+(3) Cihazın üreticisi, yetkili servisi veya ilgili konuda akredite edilmiş kurum veya kuruluşlar tarafından; kullanıcı kılavuzunda belirtilmiş ise bu periyotlarda, belirtilmediği hallerde yılda en az bir kez cihazın genel bakım ve kalibrasyonu yapılarak belgelendirilir. Düzenlenen bu belgeler istenildiğinde İdareye sunulmak üzere gaz ölçüm uzmanı ve gaz ölçüm destek personeli tarafından 5 yıl süreyle saklanır.
