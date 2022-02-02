@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50961",
+  "decision_date": "2022-02-02",
+  "source_id": 25595,
+  "chamber": "7",
+  "file_number": "48619",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25595/",
+  "source_sha256": "e5fd372c8871844b1ce3cfae73e650226da3943d0b8f023857080e3ac9397cac",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
