@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39338",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATATÜRK ORMAN ÇİFTLİĞİ MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39338",
+  "issuer": "Atatürk Orman Çiftliği Müdürü",
+  "issuer_slug": "ataturk-orman-ciftligi-muduru",
+  "path": "regulation/ataturk-orman-ciftligi-muduru/2022/39338",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39338&MevzuatTertip=5",
+  "source_sha256": "c81ac0d7c28b6ce02dabaa9ca94c5dbde658b574fd1f0c5db727762684940bc4",
+  "source_bytes": 11096,
+  "published": "2022-02-02",
+  "gazette": "31738",
+  "in_force": "2022-02-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 188,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39338-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
