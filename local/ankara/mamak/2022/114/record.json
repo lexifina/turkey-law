@@ -1,0 +1,27 @@
+{
+  "number": "114",
+  "number_as_published": "114",
+  "year": 2022,
+  "title": "İlçemizde isimlendirmesi yapılmamış parklara ilişkin Meclis Kararı.",
+  "decision_date": "2022-02-03",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=676f7292-8eb9-4ac3-a03d-ebeb69eaaa4c",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-02-03",
+  "in_force_basis": "Decision date as printed in the official council listing: 2022-02-03T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=676f7292-8eb9-4ac3-a03d-ebeb69eaaa4c",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=42a2b2bc-e78f-40b0-80b6-073a7c3768a7"
+  ]
+}
