@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39343",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE İŞ KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39343",
+  "issuer": "Türkiye İş Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-is-kurumu-genel-muduru",
+  "path": "regulation/turkiye-is-kurumu-genel-muduru/2022/39343",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39343&MevzuatTertip=5",
+  "source_sha256": "9929057f5c5023dfb667e7c8ab7bee7d1708bfc097c3d3d100c992f9e5bce4f4",
+  "source_bytes": 16519,
+  "published": "2022-02-03",
+  "gazette": "31739",
+  "in_force": "2022-02-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 189,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39343-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
