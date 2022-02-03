@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-46480499-120[2021/1752]-13943",
+  "source_id": 21275,
+  "date": "2022-02-03",
+  "title": "Genç Girişimcilerde Kazanç İstisnası Süresi İçinde Yirmi Dokuz Yaşının Doldurulması Durumunda İstisnadan Yararlanmaya Devam Edilip Edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21275",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ff533b852aa466960517bf17f874ad46f02d7ed309addc7c13410dd7629a826b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
