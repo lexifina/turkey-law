@@ -1,0 +1,17 @@
+{
+  "record_type": "parliament-minutes",
+  "body": "TBMM Genel Kurulu",
+  "term": 27,
+  "legislative_year": 5,
+  "sitting": 52,
+  "sitting_date": "2022-02-03",
+  "listed_date": "03 Şubat 2022 Perşembe",
+  "status": "Basılmış",
+  "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Tutanak20230120/27/5/52/94a6b962-b379-46ec-b7b8-08b415e69e71.html",
+  "sitting_page": "https://www.tbmm.gov.tr/Tutanaklar/Tutanak?Id=b8baef19-8f29-4c14-8542-0185ceac5ff0",
+  "listing_source": "https://www.tbmm.gov.tr/Tutanaklar/DoneminTutanakMetinleri?Donem=27&YasamaYili=5",
+  "source_sha256": "85183fd454ab1e3985cc156beb77fef162e4ac2dde018f1e9cd1435cc0e238bd",
+  "source_bytes": 1008778,
+  "source_encoding": "windows-1252",
+  "text_status": "as-published"
+}
