@@ -1,0 +1,20 @@
+{
+  "applicant": "D.D.T.",
+  "application_date": "2019-02-13",
+  "application_number": "2019/5735",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2021-11-24",
+  "id": "9e73c6b9-6483-40c8-35cc-cdb68dabc779",
+  "in_force": "2022-02-03",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2022-02-03",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjllNzNjNmI5LTY0ODMtNDBjOC0zNWNjLWNkYjY4ZGFiYzc3OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "f14600f3d4dd04cdcc42fed1a5866b3b616d8c1833737414bbba9e1e1ef6a0b0",
+  "version_label": "as-enacted"
+}
