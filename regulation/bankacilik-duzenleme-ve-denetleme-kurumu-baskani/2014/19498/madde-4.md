@@ -1,0 +1,9 @@
+İKİNCİ BÖLÜM
+Likidite Düzeyinin Ölçülmesi ve Likidite Karşılama Oranı
+Likidite düzeyinin ölçülmesi ve likidite karşılama oranı
+MADDE 4 – (1) Bankaların likidite düzeyi, konsolide ve konsolide olmayan bazda Türk Lirası ile yabancı para birimi toplamı ve konsolide ve konsolide olmayan bazda yabancı para birimi üzerinden likidite karşılama oranı hesaplanmak suretiyle ölçülür.
+(2) Likidite karşılama oranı, yüksek kaliteli likit varlık stokunun, net nakit çıkışlarına bölünmesi suretiyle hesaplanır.
+(3) (Değişik:RG-20/1/2016-29599)(3) Konsolide olmayan toplam ve yabancı para likidite karşılama oranları sırasıyla, Türk Lirası ile yabancı para birimi toplamı ve yabancı para üzerinden günlük olarak hesaplanacak likidite karşılama oranlarının haftalık basit aritmetik ortalaması alınmak; konsolide toplam ve yabancı para likidite karşılama oranları sırasıyla, Türk Lirası ile yabancı para birimi toplamı ve yabancı para üzerinden günlük olarak hesaplanacak likidite karşılama oranlarının aylık basit aritmetik ortalaması alınmak suretiyle hesaplanır.
+(4) Konsolide ve konsolide olmayan toplam likidite karşılama oranı yüzde yüzden, konsolide ve konsolide olmayan yabancı para likidite karşılama oranı yüzde seksenden az olamaz.
+(5) (Değişik:RG-20/1/2016-29599)(3) Türkiye Cumhuriyet Merkez Bankasının uygun görüşü alınarak Kurul, kalkınma ve yatırım bankaları için dördüncü fıkrada belirtilen oranlardan farklı oranlar belirleyebilir.
+(6) (Ek:RG-20/1/2016-29599) (3) Türkiye Cumhuriyet Merkez Bankası ile yapılacak değerlendirme sonucunda finansal piyasaların genelinde likidite sıkışıklığı yaşandığı kanaatine varılması halinde, Türkiye Cumhuriyet Merkez Bankasının uygun görüşü alınarak, yüksek kaliteli likit varlıkların kullanılması suretiyle likidite karşılama oranlarının dördüncü fıkrada belirtilen oranların altında kalmasına Kurul tarafından izin verilebilir.

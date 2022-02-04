@@ -1,0 +1,4 @@
+Yapılandırılmış finansal araçlardan borçlar
+MADDE 18 – (Değişik:RG-20/1/2016-29599) (3)
+(1) (Değişik:RG-4/2/2022-31740) Doğrudan banka tarafından ihraç edilen varlığa dayalı menkul kıymetler, teminatlı menkul kıymetler ve diğer yapılandırılmış finansal araçlardan kaynaklanan nakit çıkışları yapılandırılmış finansal araçlardan borçlar sınıfında nakit çıkışı hesaplamasına dahil edilir. Nakit çıkışı hesaplamasında bunlarla sınırlı olmamak üzere, vadesi gelen finansal araçların yeniden finanse edilememesi veya otuz gün içerisinde dayanak varlıkların ihraççı tarafından bankaya geri verilmesi ya da bankadan söz konusu varlıkların bedelinin temininin istenmesi gibi opsiyonlar bulunması hususları dikkate alınır.
+(2) Birinci fıkrada sayılan işlemlerin özel amaçlı kuruluşlar gibi kuruluşlar aracılığı ile gerçekleştirilmesi durumunda özel amaçlı kuruluşların konsolide edilip edilmediğine bakılmaksızın bu işlemler nakit çıkışı olarak dikkate alınır.

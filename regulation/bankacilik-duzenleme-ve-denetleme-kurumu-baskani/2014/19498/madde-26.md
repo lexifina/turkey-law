@@ -1,0 +1,4 @@
+Türev işlemler ve diğer yükümlülüklerin gerçeğe uygun değerlerinde değişiklik olması ihtimaline bağlı yükümlülükler
+MADDE 26 – (Değişik:RG-20/8/2015-29451)1
+(1) Türev işlemler ve diğer yükümlülüklerin gerçeğe uygun değerlerinde meydana gelebilecek değişimlerin teminat tamamlama yükümlülüğü doğurduğu durumlarda; her bir işlem veya yükümlülük için otuz günlük dönemler itibarıyla gerçekleşmiş net teminat akışlarının mutlak değeri hesaplanır. Son 24 ay için hesaplanan en büyük mutlak değer içerisinde nakit çıkışı olarak dikkate alınır. Akış geçmişi 24 aydan kısa olan türev işlem ve diğer yükümlülükler için işlemin başladığı tarihten itibaren hesaplama yapılır.
+(2) Birinci fıkra uygulamasında, özel netleştirme sözleşmesinin mevcut olması halinde, sözleşmeye konu olan aynı karşı taraf ile yapılan tüm işlemlere ilişkin gerçekleşmiş nakit çıkışları nakit girişleri ile netleştirilebilir.

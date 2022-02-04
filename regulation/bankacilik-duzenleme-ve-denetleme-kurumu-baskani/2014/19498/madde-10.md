@@ -1,0 +1,4 @@
+Yüksek kaliteli varlık stoku içerisinde dikkate alınmaya devam edilme şartları
+MADDE 10 – (1) Yüksek kaliteli likit varlık stokundaki varlıklar, piyasa riskinden korunmaya konu edilseler dahi likidite karşılama oranı hesaplamasına dahil edilmeye devam edilebilir. Ancak, korunmaya konu edilmiş varlığın satışı halinde riskten korunmanın vadesinden önce sona ermesiyle ortaya çıkabilecek nakit çıkışının varlığın değerine yansıtılması gerekir.
+(2) Yüksek kaliteli likit varlık stokundaki varlıklardan vadelerine otuz gün ya da daha kısa süre kalanları likidite karşılama oranı hesaplamasında yüksek kaliteli likit varlık stokunda dikkate alınmaya devam edilir, nakit girişi hesaplamasında dikkate alınmazlar.
+(3) 5 inci maddenin ikinci fıkrasında belirtilen şartları kaybeden ya da seviyesi düşen varlıklar değişiklik tarihinden itibaren otuz gün süreyle değişiklikten önceki seviyelerinde dikkate alınmaya devam edilebilir.

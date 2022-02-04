@@ -1,0 +1,4 @@
+2A kalite likit varlıklar
+MADDE 7 – (1) 2A kalite likit varlıklar aşağıdakilerden oluşur.
+a) 6 ncı maddenin birinci fıkrasının (d) ve (e) bendi hükümleri saklı kalmak kaydıyla, yetkili bir kredi derecelendirme kuruluşu ya da ihracat kredi kuruluşu tarafından derecelendirilen ve kredi kalitesi kademesi %20 risk ağırlığına tekabül eden ülke merkezi yönetimleri, merkez bankaları, kamu kuruluşları ile çok taraflı kalkınma bankalarınca ya da bunların garantisiyle ihraç edilen borçlanma araçları.
+b) (Değişik:RG-4/2/2022-31740) Yetkili bir kredi derecelendirme kuruluşu tarafından verilen uzun vadeli kredi derecelendirme notu AA-, uzun vadeli kredi derecelendirme notunun bulunmaması halinde kısa vadeli kredi derecelendirme notu AA-’ye eşdeğer ya da böyle bir derecelendirme notu bulunmaması halinde bankanın içsel derecelendirme sistemi uyarınca hesaplanmış temerrüt olasılığı AA- veya daha yüksek olan teminatlı menkul kıymetler ile diğer borçlanma araçları.

@@ -1,0 +1,2 @@
+Alınan teminatlardan yüksek kaliteli likit varlık olanların bu türden olmayan teminatlarla değiştirilme ihtimaline bağlı yükümlülükler
+MADDE 25 – (1) Teminat olarak alınan ve banka tarafından tekrar likidite temin etme işlemlerinde kullanılmasına yönelik herhangi bir yasal veya operasyonel sınırlama bulunmayan yüksek kaliteli likit varlıkların bankanın onayı aranmaksızın, karşı tarafın bu varlıkların bu türden olmayan varlıklarla değiştirilmesini talep etme hakkı bulunması durumunda, teminat olarak alınan yüksek kaliteli likit varlık nakit çıkışı olarak dikkate alınır.

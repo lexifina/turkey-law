@@ -1,0 +1,4 @@
+Oransal sınırlara uyumsuzluk
+MADDE 32 – (1)(Değişik:RG-20/1/2016-294599)(3) Toplam ve yabancı para likidite karşılama oranlarının 4 üncü maddenin dördüncü fıkrasında belirtilen oranlardan düşük olması veya düşük olmasının beklenmesi halinde nedenlerin ve alınması planlanan önlemlerin Kuruma ivedilikle bildirilmesi zorunludur.
+(2)(Değişik:RG-20/8/2015-29451)1 Konsolide olmayan toplam ve yabancı para likidite karşılama oranlarında oluşan uyumsuzluğun takip eden iki hafta içinde giderilmesi zorunludur. Bir takvim yılı içerisinde konsolide olmayan toplam ve yabancı para likidite karşılama oranları, giderilen uyumsuzluk dâhil altı defadan fazla uyumsuz olamaz.
+(3) Bir takvim yılı içerisinde konsolide toplam ve yabancı para likidite karşılama oranlarında arka arkaya iki kez uyumsuzluk gerçekleştirilemez, giderilen uyumsuzluk dâhil iki defadan fazla uyumsuzluk gerçekleştirilemez.
