@@ -1,0 +1,2 @@
+Verilen izinlerin iptali
+MADDE 33 - (1) Kurumca yapılan denetimler sonucunda, bu Yönetmelik ve bu Yönetmeliğe dayanılarak çıkarılan düzenlemeler kapsamında izin alınan yaklaşım ve yöntemlerin kullanılabilmesi için aranan şartlara uygunluğun kaybedildiğinin tespit edilmesi halinde, uyumsuzluğun etkisinin önemli düzeyde olmadığının kanıtlanması veya Kurumun uygun göreceği bir süre ve onaylayacağı bir plan dâhilinde söz konusu koşullara uygunluğun yeniden sağlanması gereklidir. Aksi halde verilen izinler iptal edilir.

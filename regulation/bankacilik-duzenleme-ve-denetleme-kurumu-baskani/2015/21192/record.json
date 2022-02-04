@@ -1,0 +1,97 @@
+{
+  "source_id": "7.5.21192",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKALARIN SERMAYE YETERLİLİĞİNİN ÖLÇÜLMESİNE VE DEĞERLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "21192",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2015/21192",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=21192&MevzuatTertip=5",
+  "source_sha256": "df64b17db7eeb413ddb772ae953253bc03ae0ceb8ca78957d51734c281948283",
+  "source_bytes": 347752,
+  "published": "2015-10-23",
+  "gazette": "29511",
+  "in_force": "2022-02-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/2/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-02-04",
+      "RG-4/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-04",
+      "4/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-06-08",
+      "RG-8/6/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-06-08",
+      "8/6/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-03-14",
+      "RG-14/3/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-03-14",
+      "14/3/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-06",
+      "6/6/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-12-09",
+      "RG-9/12/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-12-09",
+      "9/12/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-09-27",
+      "RG-27/9/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-09-27",
+      "27/9/2016",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-01-20",
+      "RG-20/1/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/3/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 16336,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.bddk.org.tr/WebSitesi/turkce/Mevzuat/Bankacilik_Kanununa_Iliskin_Duzenlemeler/11002menkulkiymetlestirme_teblig.pdf",
+    "7.5.21192-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

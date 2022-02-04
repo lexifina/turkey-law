@@ -1,0 +1,3 @@
+Bildirim dönemi ve farklılaştırma yetkisi
+MADDE 31 - (1) (Değişik:RG-27/9/2016-29840)(2) 29 ve 30 uncu maddelerde yer alan oranlar, Bankaların Özkaynaklarına İlişkin Yönetmelikte belirtilen özkaynak ve konsolide özkaynak hesaplama dönemleri itibarıyla hesaplanır ve hesaplama dönemini takiben Kurulca belirlenecek sürelerde Kuruma gönderilir.
+(2) Kurul, bankaların iç sistemleri, aktif ve malî yapıları dikkate alınarak asgari sermaye yeterliliği oranları ile asgari konsolide sermaye yeterliliği oranlarının artırılmasını, banka bazında farklı oranların uygulanmasını ve hesaplama ve gönderilme dönemlerinin farklılaştırılmasını kararlaştırabilir.
