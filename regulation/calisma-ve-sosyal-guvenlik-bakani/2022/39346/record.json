@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39346",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39346",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2022/39346",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39346&MevzuatTertip=5",
+  "source_sha256": "23144b8dabab9bd7c23f1b3b93867da7d269a2c548569aa0fe70712382fdfc76",
+  "source_bytes": 11178,
+  "published": "2022-02-04",
+  "gazette": "31740",
+  "in_force": "2022-02-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 205,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39346-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
