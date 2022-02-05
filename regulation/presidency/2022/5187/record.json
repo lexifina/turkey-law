@@ -1,0 +1,41 @@
+{
+  "id": "presidency-regulation-5187",
+  "number": "5187",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ENERJİ İLE İLGİLİ ÜRÜNLERİN ÇEVREYE DUYARLI TASARIMINA İLİŞKİN YÖNETMELİK",
+  "published": "2022-02-05",
+  "enacted": "2022-02-04",
+  "gazette_number": "31741",
+  "in_force": "2022-02-05",
+  "in_force_basis": "Official own commencement clause: 2022-02-05; official source: Bu Yönetmelik yayımı tarihinde yürürlüğe girer.; official Gazette 2022-02-05",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5187&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "4b2d80eb80d3ecf703fa4d1c7c33ecb3a5d1dd2497b3dbbe9bbbe1cdc5315e8e",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 1,
+    "referenced": 0,
+    "omitted": 1
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5187_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "2a993e91a5fd288196d0fe38b75acb3381db5afd43152ef1b6b5d4db10202bb0",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

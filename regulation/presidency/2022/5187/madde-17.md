@@ -1,0 +1,2 @@
+Küçük ve orta ölçekli işletmeler
+MADDE 17- (1) Yetkili kuruluş, küçük ve orta ölçekli işletmeler ile daha küçük ekonomik işletmelerin, ürünün tasarım aşamasından başlamak üzere, çevreye duyarlı bir yaklaşım benimsemelerine ve mevzuata uyum sağlamalarına yönelik gerekli tedbirleri alır. Gerektiğinde, yetkili kuruluşlarca yayımlanacak uygulama tebliğlerinde, etkilenen sektörde faaliyet gösteren küçük ve orta ölçekli işletmelerin özel durumlarını kapsayan açıklayıcı bilgilere yer verilir.
