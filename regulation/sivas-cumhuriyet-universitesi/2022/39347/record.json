@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-02-07",
+      "07.02.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31743",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-02-07",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2022/39347",
+  "published": "2022-02-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39347&MevzuatTertip=5",
+  "source_bytes": 36078,
+  "source_id": "8.5.39347",
+  "source_sha256": "0cececd876c46a72d0ae1af18f01831607ca8c087977ed832de22e8b24ad3e0c",
+  "text_status": "as-enacted",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ AĞIZ VE DİŞ SAĞLIĞI\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1702
+}
