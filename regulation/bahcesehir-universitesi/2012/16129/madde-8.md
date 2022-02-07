@@ -1,0 +1,3 @@
+Müdür
+MADDE 8 – (1) Merkez Müdürü; merkezin faaliyet alanı ile ilgili çalışmalarda bulunan (Değişik ibare:RG-7/2/2022-31743) Üniversite çalışanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Süresi sona eren Merkez Müdürü yeniden görevlendirilebilir. Merkez Müdürünün altı aydan fazla süre ile görev başında bulunamaması durumunda görevi sona erer. Merkez Müdürü, çalışmalarında kendisine yardımcı olmak üzere (Değişik ibare:RG-7/2/2022-31743) Üniversite çalışanları arasından bir kişiyi müdür yardımcısı olarak görevlendirmek üzere Rektörün onayına sunar. Merkez Müdürü, görevi başında bulunmadığı zamanlarda müdür yardımcısına vekâlet bırakır.
+(2) Vekâletin süresi altı ayı geçemez.
