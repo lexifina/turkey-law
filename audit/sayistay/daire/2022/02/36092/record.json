@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35693",
+  "decision_date": "2022-02-08",
+  "source_id": 36092,
+  "chamber": "2",
+  "ilam_number": "348",
+  "item_number": 9,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36092/",
+  "source_sha256": "566f7c93638d9503b877fdd4b2570119fbbb8a1076c49cc851cfdd5d0aa2a2dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

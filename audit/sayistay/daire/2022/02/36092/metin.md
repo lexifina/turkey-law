@@ -1,0 +1,13 @@
+İmalatlar için mükerrer ödeme yapılması
+
+... havalandırma tesisatı imalatlarının (klima+bakır borulama) daha önce başka iki ihale kapsamında yaptırıldığı ve bedelleri ödendiği halde ... İhale kayıt numaralı “ ... İşi” kapsamında yeniden söz konusu imalatlara ilişkin bedellerin ödenmesi yargılamaya esas rapora konu edilmişse de;
+
+Raporda, işin uygulama projesine istinaden ..., ..., ..., ... ihale kayıt numaralarıyla dört adet ihale yapıldığı belirtilmiş olmakla beraber, herhangi bir belge dayanak gösterilmeden, klima cihazlarının ... ihale kayıt numaralı “... İnşaatı (...Yapım İşi)” kapsamında yükleniciye ödendiği; havalandırma sistemi bakır borularının da ... ihale kayıt numaralı “... Binası Yapım İşi” kapsamında yaklaşık maliyet hesap cetveli, yapılacak işler listesi ve hakedişlere dayanarak yükleniciye ödendiği ifade edilmiştir. Raporda öne sürülen bu hususlar ... tarafından görevlendirilen uzman raporuna ve Yapı İşleri Teknik Daire Başkanlığı personeli tarafından düzenlenen Teknik Rapora dayandırılmıştır.
+
+Mükerrer ödemeye konu olan ... ihale kayıt numaralı iş tamamlama işi olup, işin sözleşme eklerinden olan proje üzerindeki notlardan da anlaşılacağı üzere, anılan proje daha önceki üç ihale kapsamında yapılan imalatlarla uyumlu imalat yapılmasını temin maksadıyla sözleşmeye eklendiği anlaşılmış olup, söz konusu işin ve projenin mahiyeti ve proje üzerinde yıllar içerisinde yapılabilecek değişiklikler dikkate alındığında, ilk/orijinal proje üzerinden yeni baştan imalat tespit edip, son ihale kapsamında eksik iş değerlendirilmesi yapılması, kamu ihale hukuku ve kamu zararı müessesesine uygun değildir.
+
+Kaldı ki, önceki ihaleler kapsamında olup yapılmayan imalat varsa bunun sorumlusu önceki işin yüklenicisi, kontrol görevlileri, muayene ve kabul heyeti başkan ve üyeleri olacağından, diğer üç ihale neticesi imzalanan sözleşmelerin kapsamına göre yapılan işlerin tamam olup olmadıkları kesin olarak belirlenmeksizin, bilgi amaçlı olarak sözleşme ekleri arasına eklenen orijinal proje üzerinden imalat tespit edip, daha önceki ihaleler kapsamında yapılıp yapılmadığı belli olmayan imalatlar ile ilgili olarak, yeniden ihale edilip ödeme yapıldığı gerekçesiyle kamu zararı tespiti yapılması mevzuata uygun değildir.
+
+Bu itibarla, daha önce yapılan ihaleler kapsamında eksik imalat olup olmadığı tespit edilmeden, ... ihale kayıt no.lu “... İşi”nde bilgi amaçlı olarak sözleşme ekleri arasına eklenen orijinal proje üzerinden kamu zararı tespiti yapılması mevzuata uygun olmadığından ... TL hakkında ilişik olmadığına,
+
+İşbu ilamın tebliğinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
