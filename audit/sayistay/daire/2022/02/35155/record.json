@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "851",
+  "decision_date": "2022-02-08",
+  "source_id": 35155,
+  "chamber": "6",
+  "ilam_number": "25",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35155/",
+  "source_sha256": "60ee94310064dec529f926db59ea2e2b45a0cb7464d06855e81d8dff22367065",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
