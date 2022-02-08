@@ -1,0 +1,55 @@
+{
+  "source_id": "9.5.21018",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YATIRIM HİZMET VE FAALİYETLERİ İLE YAN HİZMETLERE İLİŞKİN BELGE VE KAYIT DÜZENİ HAKKINDA TEBLİĞ (III-45.1)",
+  "number": "21018",
+  "issuer": "Kurul",
+  "path": "teblig/2015/21018",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=21018&MevzuatTertip=5",
+  "source_sha256": "23206590a7ef3ea8caf32546b9bb306c08cfa3555599814d728bc32aa979b92a",
+  "source_bytes": 102427,
+  "published": "2015-08-01",
+  "gazette": "29432",
+  "in_force": "2022-02-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/2/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-02-08",
+      "RG-8/2/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-02-08",
+      "8/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-11-11",
+      "RG-11/11/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-11-11",
+      "11/11/2015",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Tebliğin yayımı tarihinde; 8, 20, 23, 24, 26, 28, 29 uncu maddeler 1/10/2015 tarihinde; diğer maddeleri ise 1/1/2016 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5752,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.21018-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
