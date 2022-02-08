@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39356",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK ÜRETİM ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39356",
+  "issuer": "Elektrik Üretim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "elektrik-uretim-anonim-sirketi-genel-muduru",
+  "path": "regulation/elektrik-uretim-anonim-sirketi-genel-muduru/2022/39356",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39356&MevzuatTertip=5",
+  "source_sha256": "fe301b56ca6113d64aeee5393e0ef047b3c2da2a9c64e34c71349e9ad43939b8",
+  "source_bytes": 17079,
+  "published": "2022-02-08",
+  "gazette": "31744",
+  "in_force": "2022-02-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39356-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
