@@ -1,0 +1,5 @@
+Uzman yardımcılarının atanması
+MADDE 16 – (1) Giriş sınavını kazananların uzman yardımcısı kadrolarına atanmaları ve adaylıklarına ilişkin işlemler, 657 sayılı Kanun hükümlerine göre yapılır.
+(2) Atama işlemlerinin yapılması için kendilerine bildirilen süre içinde geçerli bir mazereti olmadığı halde müracaat etmeyenlerin atama işlemleri yapılmaz.
+(3) 15 inci maddede belirtilen belgeleri verilen süre içinde teslim edenlerden haklarında yapılan güvenlik soruşturması ve arşiv araştırması olumlu olanların uzman yardımcılığına atamaları yapılır. Söz konusu soruşturma ve araştırma sonucu olumsuz sonuçlananlar için 7/4/2021 tarihli ve 7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu ve ilgili mevzuatı hükümlerine göre işlem tesis edilir.
+(4) Giriş sınavını kazananlardan gerçeğe aykırı beyanda bulunduğu veya belge verdiği tespit edilenlerin sınavları geçersiz sayılır ve atamaları yapılmaz, atamaları yapılmış olsa dahi iptal edilir. Bu kişiler hiçbir hak talep edemezler ve haklarında Cumhuriyet savcılığına suç duyurusunda bulunulur. Bu şekilde yanıltıcı bilgi verenler kamu görevlisi ise durumları çalıştıkları kurumlara bildirilir.

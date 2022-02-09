@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39358",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAVUNMA HİZMETLERİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "39358",
+  "issuer": "Millî Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2022/39358",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39358&MevzuatTertip=5",
+  "source_sha256": "96f36d4f97e70b12fc2f38956e659c6db42b427e7006584aeca4f14c8caff922",
+  "source_bytes": 137852,
+  "published": "2022-02-09",
+  "gazette": "31745",
+  "in_force": "2022-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3735,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
