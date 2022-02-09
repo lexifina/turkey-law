@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2022/06",
+  "meeting_date": "2022-02-09",
+  "meeting_date_as_published": "9.2.2022",
+  "decision_no": "39",
+  "source_id": 17376,
+  "title": "RTÜK kararı 2022/06-39",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/17376",
+  "source_sha256": "73b585747b9ae82425b8773d09cb2f9a207ac425f0ebceb792054bf61512ba93",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (4 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
