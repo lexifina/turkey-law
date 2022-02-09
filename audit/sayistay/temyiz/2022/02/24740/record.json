@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51037",
+  "decision_date": "2022-02-09",
+  "source_id": 24740,
+  "chamber": "5",
+  "file_number": "48092",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24740/",
+  "source_sha256": "393e595cd2998ef6590dfbb5224f0a325259f9b2b8ca39dd6f4f376294b6b61b",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
