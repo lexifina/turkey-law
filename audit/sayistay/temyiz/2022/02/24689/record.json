@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "50985",
+  "decision_date": "2022-02-09",
+  "source_id": 24689,
+  "chamber": "5",
+  "file_number": "48072",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24689/",
+  "source_sha256": "039cbd48ffe0eb0eb4f335b5010f3f4582f9ebf400ab51bd3b2c4af0d77fc62b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
