@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51035",
+  "decision_date": "2022-02-09",
+  "source_id": 24738,
+  "chamber": "5",
+  "file_number": "48089",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24738/",
+  "source_sha256": "07288a06587dcb0a260af87aa3db71a902c2c7f3b7379833c23b9a35776eb458",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "text shows no anonymisation marks; liability ruling may name people"
+}
