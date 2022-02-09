@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39360",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET SU İŞLERİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39360",
+  "issuer": "Devlet Su İşleri Genel Müdürü",
+  "issuer_slug": "devlet-su-isleri-genel-muduru",
+  "path": "regulation/devlet-su-isleri-genel-muduru/2022/39360",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39360&MevzuatTertip=5",
+  "source_sha256": "196bb20ecd01a147a257d6ddcbc385b87a0e23afddd21d1b05f7dec8a2cf4993",
+  "source_bytes": 14928,
+  "published": "2022-02-09",
+  "gazette": "31745",
+  "in_force": "2022-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 168,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39360-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
