@@ -1,0 +1,4 @@
+Danışman atanması
+MADDE 8 – (1) Programa kabul edilen her bir öğrenci için en geç bir ay içinde eğitim koordinatörlüğü tarafından fakültede görevli öğretim üyelerinden bir hazırlık eğitimi danışmanı görevlendirilir.
+(2) Hazırlık eğitimi danışmanı, öğrencinin en yüksek bilimsel standartlarda yetişmesine yardım etmek, yönlendirmek, hazırlık eğitimi döneminde genel yönelim niteliğindeki lisansüstü derslerini seçmede ve tıp fakültesi ile birlikte hazırlık eğitiminin bir arada yürütülmesi sırasında gerekli koordinasyonu sağlamakla görevlidir.
+(3) Öğrencinin ilişkili doktora programına kabul edilmesiyle hazırlık eğitimi danışmanının görevi sona erer, ilişkili doktora programı ve tezini yönetmek üzere yeni bir danışman atanır. Yeni atanan danışman, hazırlık eğitimi danışmanı ile aynı kişi olabilir.

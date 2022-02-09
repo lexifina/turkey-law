@@ -1,0 +1,3 @@
+Programa devam etme ve programdan çıkarılma
+MADDE 10 – (1) Her akademik yılın başında öğrencinin başarı durumu eğitim koordinatörlüğü tarafından değerlendirilerek üniversitenin yönerge hükümlerine göre programa devam edip edemeyeceği belirlenir.
+(2) Fakültenin üçüncü ve dördüncü sınıflarında genel akademik ortalamasının 4 üzerinden 2,5’ten daha düşük olması durumunda öğrencinin programla ilişiği kesilir. Programdan çıkarılmaya yönelik ek koşullar üniversite tarafından belirlenir. Senatolarca belirlenen yönerge hükümlerine göre bütünleşik program gereklerini yerine getirmeyen veya getiremeyen öğrencinin programla ilişiği kesilir, ancak bu durum tıp fakültesi eğitimine devam etmesine engel teşkil etmez.
