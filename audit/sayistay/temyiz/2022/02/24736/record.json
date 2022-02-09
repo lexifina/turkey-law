@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51033",
+  "decision_date": "2022-02-09",
+  "source_id": 24736,
+  "chamber": "5",
+  "file_number": "48069",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24736/",
+  "source_sha256": "180cc6acdd11c02caa947f545222358a584545544a6f19b4e704cb2f333a34aa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
