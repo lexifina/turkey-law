@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39359",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TİCARET BAKANLIĞI PİYASA GÖZETİMİ VE DENETİMİ YÖNETMELİĞİ",
+  "number": "39359",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2022/39359",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39359&MevzuatTertip=5",
+  "source_sha256": "07a1cb4891e641505a910d8d64d4a319ab902774f33585f9a38b48ba3349e0e2",
+  "source_bytes": 130518,
+  "published": "2022-02-09",
+  "gazette": "31745",
+  "in_force": "2022-02-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4046,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

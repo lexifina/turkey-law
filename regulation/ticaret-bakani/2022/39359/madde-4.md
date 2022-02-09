@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmeliğin uygulanmasında;
+a) Aracı hizmet sağlayıcı: Başkalarına ait iktisadi ve ticari faaliyetlerin yapılmasına elektronik ticaret ortamını sağlayan gerçek veya tüzel kişiyi,
+b) Bakanlık: Ticaret Bakanlığını,
+c) Bölge müdürlüğü: Gümrük ve dış ticaret bölge müdürlüğünü,
+ç) Bölge müdürü: Gümrük ve dış ticaret bölge müdürünü,
+d) Dağıtıcı: Ürünü tedarik zincirinde yer alarak piyasada bulunduran, imalatçı veya ithalatçı dışındaki gerçek veya tüzel kişiyi,
+e) Denetmen: Ticaret denetmeni ve ticaret denetmen yardımcısını,
+f) Duyusal inceleme: Ürünün herhangi bir test veya muayene işlemine tabi tutulmasından önce, denetmenin duyularını veya basit ve yaygın olarak kullanımda olan ölçme araçlarını kullanarak yapılan incelemeyi,
+g) Düzeltici önlem: Bir uygunsuzluğu ortadan kaldırmak amacıyla, Bakanlığın talebi doğrultusunda veya kendiliğinden iktisadi işletmecinin gerçekleştirdiği faaliyeti,
+ğ) Genel Müdürlük: Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğünü,
+h) İktisadi işletmeci: İmalatçı, yetkili temsilci, ithalatçı, dağıtıcı veya ilgili teknik düzenleme kapsamında ürünlerin imalatına, piyasada bulundurulmasına veya hizmete sunulmasına ilişkin sorumluluğu olan diğer gerçek veya tüzel kişileri,
+ı) İmalatçı: Ürünü imal ederek veya ürünün tasarımını veya imalatını yaptırarak kendi isim veya ticari markası ile piyasaya arz eden gerçek veya tüzel kişiyi,
+i) İthalatçı: Ürünü ithal ederek piyasaya arz eden gerçek veya tüzel kişiyi,
+j) Kanun: 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanununu,
+k) Numune alma etiketi: Test veya muayene için alınan numunelere iliştirilen veya yapıştırılan numuneye ait bilgileri, tarafların isim, unvan ve imzalarını taşıyan belgeyi,
+l) Risk değerlendirme komisyonu: Risk değerlendirmesi sonucunda ürünün uygun olup olmadığını ve uygulanacak idari yaptırımı belirlemek amacıyla oluşturulan komisyonu,
+m) Şahit numune: Test, muayene veya belgelendirme kuruluşuna gönderilmek üzere alınan numunenin zayi olması veya test sonuçlarına yönelik herhangi bir itiraz olması durumunda başvurulmak üzere alınan numuneyi,
+n) Teknik düzenleme: İdari hükümler de dâhil olmak üzere, ürünün niteliğini, işleme veya üretim yöntemlerini veya bunlarla ilgili terminoloji, sembol, ambalajlama, işaretleme, etiketleme veya uygunluk değerlendirme işlemlerini tek tek veya birkaçını ele alarak belirleyen uyulması zorunlu mevzuatı,
+o) Uygunsuzluk: Ürünün ilgili teknik düzenlemeye veya genel ürün güvenliği mevzuatına uygun olmama halini,
+ö) Yetkili temsilci: İmalatçının Kanun ve ilgili diğer mevzuat kapsamındaki bazı yükümlülüklerini onun adına yerine getirmek üzere imalatçı tarafından yazılı şekilde görevlendirilen Türkiye’de yerleşik gerçek veya tüzel kişiyi,
+ifade eder.
