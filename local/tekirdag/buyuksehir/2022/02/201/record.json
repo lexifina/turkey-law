@@ -1,0 +1,20 @@
+{
+  "number": "201",
+  "title": "YOL AĞINA ALINMASI",
+  "decision_date": "2022-02-09",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1885",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1885/201",
+  "source_sha256": "513ba9670d72ade3eb6a47ee90c7ffe3dafd2538fc565bcb329d177eeed74d9c",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2022-02-09",
+  "in_force_basis": "Official Birleşim Tarihi: 09.02.2022; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
