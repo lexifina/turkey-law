@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51043",
+  "decision_date": "2022-02-09",
+  "source_id": 24746,
+  "chamber": "6",
+  "file_number": "49270",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24746/",
+  "source_sha256": "14f4cc61b5d1e2b9bc7a145d43bde13cc56e4eedc792c66ef63b7810ae04f1fa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
