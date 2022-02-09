@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51008",
+  "decision_date": "2022-02-09",
+  "source_id": 24712,
+  "chamber": "5",
+  "file_number": "48074",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24712/",
+  "source_sha256": "9388bb7c11ce534c16181a6d92edd1a432940de058dfcdd75a8e3944cdc23e8f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
