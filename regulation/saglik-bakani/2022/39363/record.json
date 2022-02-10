@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39363",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "UZAKTAN SAĞLIK HİZMETLERİNİN SUNUMU HAKKINDA YÖNETMELİK",
+  "number": "39363",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2022/39363",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39363&MevzuatTertip=5",
+  "source_sha256": "a2fe78574485f3da69e424d2711bd206136c31b500810ab8e25a34dda7e87124",
+  "source_bytes": 72280,
+  "published": "2022-02-10",
+  "gazette": "31746",
+  "in_force": "2022-02-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2049,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39363-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

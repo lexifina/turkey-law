@@ -1,0 +1,3 @@
+Kimlik doğrulama
+MADDE 10 – (1) Sağlık tesisi, uzaktan sağlık hizmeti sunumu kapsamında hizmet alan kişinin kimliğini doğrulamaya yönelik gerekli tedbirleri alır. Sağlık tesisi tarafından ilaveten ikincil bir kimlik doğrulaması altyapısı veya aracı kullanılabilir.
+(2) Sağlık meslek mensubu, uzaktan sağlık hizmeti alan kişiden resmi kimlik belgesini kamera üzerinden göstermesini talep edebilir. Sağlık meslek mensubu, sağlık hizmeti talep eden kişinin kimliğinden şüphe duyduğu takdirde, kimliğini doğrulamasını isteyebilir. Bu talebin yerine getirilmemesi hâlinde uzaktan sağlık hizmeti vermeyebilir, başlamış olan hizmeti sonlandırabilir.

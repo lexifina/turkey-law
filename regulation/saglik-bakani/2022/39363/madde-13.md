@@ -1,0 +1,4 @@
+Kayıt, bildirim ve iz kaydı
+MADDE 13 – (1) Uzaktan sağlık hizmeti kapsamında sağlık tesisine başvuran kişiler için uzaktan sağlık hizmetine ilişkin iş ve işlemler dijital ortamda kaydedilir ve kişisel verilerin korunmasına dair mevzuatta yer alan istisnai düzenlemeler saklı kalmak kaydıyla, kaydedilen veriler, ilgili mevzuatı uyarınca Bakanlıkça belirlenen usûl ve esaslar çerçevesinde Bakanlık merkezî sağlık veri sistemine gönderilir.
+(2) Bakanlık tarafından kurulan kayıt ve bildirim sistemi ile Bakanlıkça yapılacak diğer iş ve işlemlere esas olmak üzere talep edilen bilgi ve belgeler, sağlık tesisleri tarafından Bakanlığa gönderilir.
+(3) Uzaktan sağlık hizmeti alımı esnasında Bakanlıkça belirlenen iz kaydı bilgileri sağlık tesisi tarafından sağlık tesisinin tabi olduğu mevzuatta belirtilen süre boyunca saklanır.

@@ -1,0 +1,8 @@
+Faaliyet izni
+MADDE 8 – (1) Uzaktan sağlık hizmeti sunmak isteyen sağlık tesisine gerekli şartları sağlaması hâlinde Bakanlıkça uzaktan sağlık hizmeti faaliyet izin belgesi verilir. Faaliyet izni, sağlık tesisinin mevcut faaliyet izin belgesine işlenir.
+(2) Başvuru, sağlık tesisi tarafından Ek-1’de yer alan belgelerle birlikte Müdürlüğe yapılır.
+(3) Müdürlük başvuruyu dosya üzerinde inceler, eksiklik veya uygunsuzluk bulunması hâlinde, bu hususların neler olduğunu başvuru sahibine en geç 15 iş günü içerisinde bildirir.
+(4) Başvuru uygun ise, Müdürlükçe oluşturulan komisyon tarafından incelenir. Komisyon, gerekli gördüğü durumlarda yerinde inceleme de yapabilir. Komisyon, sağlık hizmetleri başkanlığında görevli bir hekim başkanlığında, müdürlükte görevli personel arasından tercihen bilişim teknolojileri hakkında mesleki birikimi olan bir mühendis, tekniker veya teknisyen ile kalite konusunda deneyimli bir sağlık meslek mensubu olmak üzere üç kişiden oluşur. İhtiyaç halinde birden fazla komisyon kurulabilir.
+(5) Yapılacak incelemeler neticesinde, herhangi bir eksiklik ve uygunsuzluk olmadığının tespiti halinde komisyon raporuyla birlikte başvurular, Genel Müdürlüğe gönderilir.
+(6) Sağlık tesisinin başvurusunda belirttiği uzaktan sağlık bilgi sisteminin, Bakanlık kayıt tescil sisteminde kayıtlı olması ve başvurunun Genel Müdürlük tarafından uygun görülmesi hâlinde, sağlık tesisi için uzaktan sağlık hizmeti faaliyet izin belgesi düzenlenir. Faaliyet izin belgesinde, faaliyet alanı ve sınırları belirtilir.
+(7) Bakanlığa bağlı sağlık tesisleri için Bakanlık resen uzaktan sağlık hizmeti faaliyet izni verebilir.
