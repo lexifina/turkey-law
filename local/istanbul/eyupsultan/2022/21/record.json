@@ -1,0 +1,22 @@
+{
+  "number": "21",
+  "number_as_published": "2022/21",
+  "year": 2022,
+  "title": "council decision",
+  "decision_date": "2022-02-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-subat-ayi-meclis-kararlari/2205",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-21/2214",
+  "source_sha256": "9b4fcfa6e0d27d798f35067d17c9856ce0c50935a5ebe6d32a235d42ea7ce8ea",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2022-02-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.02.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "be38da626ec200f30ee56699202326a6304f19fdeb3ca14d4d9dd3f081ee76c3"
+}
