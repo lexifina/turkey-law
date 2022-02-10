@@ -1,0 +1,22 @@
+{
+  "number": "19",
+  "number_as_published": "2022/19",
+  "year": 2022,
+  "title": "Tüzel kişi temsilcisinin belirlenmesi",
+  "decision_date": "2022-02-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-subat-ayi-meclis-kararlari/2205",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-19/2212",
+  "source_sha256": "9b4fcfa6e0d27d798f35067d17c9856ce0c50935a5ebe6d32a235d42ea7ce8ea",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-02-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.02.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "762d809a3b0bb5280a1222d23d629a8b7c340cefe40c21a9272ec9434a01c513"
+}
