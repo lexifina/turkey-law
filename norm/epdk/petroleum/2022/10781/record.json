@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10781",
+  "decision_date": "2022-02-10",
+  "title": "Petrol Ofisi A.Ş.’nin; PİL/476-259/10968 sayılı İletim Lisansı kapsamında faaliyette bulunan Derince Tesisine ilişkin",
+  "resmi_gazete_date": "2022-02-12",
+  "resmi_gazete_number": "31748",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r/I2oFge0P4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r/I2oFge0P4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Gum454JzWig="
+  ],
+  "source_sha256": "54e2f11c05ce3b930968eabe17dab56a8020ec00c922f9e7d5628081d6f3a4da",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-02-10",
+  "law_text_complete": true
+}
