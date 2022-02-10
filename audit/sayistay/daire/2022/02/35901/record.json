@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "505",
+  "decision_date": "2022-02-10",
+  "source_id": 35901,
+  "chamber": "5",
+  "ilam_number": "171",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35901/",
+  "source_sha256": "3aaea55ad1c260211907cdd9590c811611876fb3f7d17625fd9b64d2a78f42c5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
