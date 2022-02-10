@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/107",
+  "source_id": 7557,
+  "date": "2022-02-10",
+  "title": "“Bir tasarruf finansman şirketi tarafından ilgili kişinin cep telefonu numarasının herhangi bir veri işleme şartına dayanmaksızın işlenmesi ve ilgili numaraya reklam içerikli SMS gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 10/02/2022 tarihli ve 2022/107 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7557/2022-107",
+  "source_sha256": "b0c6b92b65c4b90add00bb2c234907d931bd64948b15875197874f65d0044539",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
