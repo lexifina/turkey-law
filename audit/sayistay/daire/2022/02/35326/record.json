@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "496",
+  "decision_date": "2022-02-10",
+  "source_id": 35326,
+  "chamber": "7",
+  "ilam_number": "165",
+  "item_number": 4,
+  "account_year": 2019,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35326/",
+  "source_sha256": "30935c4e1f1d7312849104a883d9d2d4c4449a2b4a36be0e5c86a084072dcfd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
