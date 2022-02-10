@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-175.01[2021/36]-66410",
+  "source_id": 37041,
+  "date": "2022-02-10",
+  "title": "Engelli Çocuğu Olan Kişinin İndirimli Bina Vergisi Uygulamasından Faydalanıp Faydalanamayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37041",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "361a78436a3a0e22d034576dd389de0445de139a3b159cfd1e262aba9ce03d53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
