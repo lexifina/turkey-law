@@ -1,0 +1,16 @@
+{
+  "kind": "municipal-council-decision",
+  "issuer": "Ankara Büyükşehir Belediye Meclisi",
+  "number": "403",
+  "date": "2022-02-10",
+  "in_force": "2022-02-10",
+  "in_force_basis": "official decision date; separate commencement not stated",
+  "history": "as-enacted",
+  "first_law": null,
+  "source": "https://s.ankara.bel.tr/files/2016/4579/1344/K22__403.docx",
+  "source_sha256": "d0c35a9903e0b73985518b66d1064227b98565eb9c9e456bc5f53645ed95e66c",
+  "official_summary": "Çamlıdere İlçesinde bulunan mineralli su ve yeraltı kaynaklarının araştırılmasına ilişkin Ankara’nın Yeraltı Kaynaklarını Koruma Komisyonu Raporu oylanarak oybirliğiyle kabul edildi.",
+  "source_images": 0,
+  "images_deferred": 0,
+  "completeness_note": null
+}
