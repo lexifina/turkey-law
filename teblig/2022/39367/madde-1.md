@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1 – (1) Bu Tebliğin amacı, yerli üretici Oerlikon Kaynak Elektrodları ve Sanayi A.Ş. tarafından gerçekleştirilen başvuruya istinaden Çin Halk Cumhuriyeti menşeli “adi metallerden içi doldurulmuş teller (elektrikli ark kaynağı yapmak için)” ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.

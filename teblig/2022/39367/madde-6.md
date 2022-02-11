@@ -1,0 +1,3 @@
+Mevcut önlem
+MADDE 6 – (1) 28/7/2011 tarihli ve 28008 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2011/16) ile ÇHC menşeli “adi metallerden içi doldurulmuş teller (elektrikli ark kaynağı yapmak için)”in ithalinde CIF bedelin %21,12’si ve %28,87’si oranında dampinge karşı kesin önlem yürürlüğe konulmuştur.
+(2) 23/2/2017 tarihli ve 29988 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No:2017/3) ile mevcut önlemin yürürlükte bulunduğu kapsam ve seviyede uygulanmaya devam edilmesine karar verilmiştir.
