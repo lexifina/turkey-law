@@ -1,0 +1,17 @@
+{
+  "kind": "municipal-council-decision",
+  "issuer": "Ankara Büyükşehir Belediye Meclisi",
+  "number": "416",
+  "date": "2022-02-11",
+  "in_force": "2022-02-11",
+  "in_force_basis": "official DOCX decision heading and meeting date; listing date differs; separate commencement not stated",
+  "history": "as-enacted",
+  "first_law": null,
+  "source": "https://s.ankara.bel.tr/files/5016/4579/2546/K22__416.docx",
+  "source_sha256": "2094d3f43a7db49013914d47d0595c84946eec71a4a700c362f7227f270a57b2",
+  "official_summary": "Büyükşehir Belediye Meclisinin 14.01.2022 tarihli ve 221 sayılı Kararının yeniden görüşülmesine ilişkin Başkanlık yazısı oylanarak oybirliğiyle kabul edildi.",
+  "source_images": 0,
+  "images_deferred": 0,
+  "completeness_note": null,
+  "listing_date": "2022-02-10"
+}
