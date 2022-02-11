@@ -1,0 +1,23 @@
+{
+  "number": "14",
+  "number_as_published": "14",
+  "year": 2022,
+  "title": "Çocuk Evleri 2022 Yılı Ücret Tarifesi",
+  "decision_date": "2022-02-11",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/25",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/14-destek-hizmetleri-md-cocuk-evleri-2022-yili-ucret-tarifesi-11022022.pdf",
+  "source_sha256": "217ddd43bbca9abce42a4f83e4a1946ba31deff99c193cd69373306178563639",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-02-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11 Şubat 2022 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
