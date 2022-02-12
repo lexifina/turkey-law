@@ -1,0 +1,16 @@
+{
+  "kind": "municipal-council-decision",
+  "issuer": "Ankara Büyükşehir Belediye Meclisi",
+  "number": "446",
+  "date": "2022-02-12",
+  "in_force": "2022-02-12",
+  "in_force_basis": "official decision date; separate commencement not stated",
+  "history": "as-enacted",
+  "first_law": null,
+  "source": "https://s.ankara.bel.tr/files/5016/4603/0458/K22__446.docx",
+  "source_sha256": "f52b549083eb54a8dbd01d2ba97d8da4cf9d169db45a49256ec9f7a113199cf0",
+  "official_summary": "Güdül İlçesindeki jeotermal suların araştırılmasına ilişkin Jeotermal Suları Değerlendirme Komisyonu oylanarak oybirliğiyle kabul edildi.",
+  "source_images": 0,
+  "images_deferred": 0,
+  "completeness_note": null
+}
