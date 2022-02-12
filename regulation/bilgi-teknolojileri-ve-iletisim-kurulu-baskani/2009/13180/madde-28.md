@@ -1,0 +1,3 @@
+Tüketici hakları ve tüketicilerin bilgilendirilmesi
+MADDE 28 – (1) İşletmeci; numara taşınabilirliği kapsamında, tüketicilerin menfaatlerinin korunmasını, anılan hizmetten en iyi koşullarda faydalanabilmelerini ve hizmet hakkındaki bilgilere kolayca ulaşabilmelerini sağlamak amacıyla gerekli her türlü tedbiri alır.
+(2) İşletmeci, numara taşıma konusundaki başvuruların nasıl yapılacağı, başvuru esnasında talep edilen bilgi ve belgeler, numara taşıma işleminin gerçekleşme süresi, numara taşıma karşılığında herhangi bir ücret ödenip ödenmeyeceği ve benzeri konularda tüketicileri bilgilendirir ve bu bilgileri asgari olarak internet sitesinde yayımlar.

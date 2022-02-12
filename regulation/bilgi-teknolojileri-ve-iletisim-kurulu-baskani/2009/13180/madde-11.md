@@ -1,0 +1,2 @@
+Abonenin vazgeçme hakkı
+MADDE 11 – (1) Abone, taşıma zamanının diğer ilgili işletmecilere duyurulmasından önce olmak kaydıyla, alıcı işletmeciye başvurarak numara taşıma talebinden vazgeçebilir. Bu durumda alıcı işletmeci abonenin numarasını taşımaktan vazgeçtiğini taşıma zamanının diğer ilgili işletmecilere duyurulmasından önce olacak şekilde verici işletmeciye bildirerek taşıma sürecinin sonlanmasını sağlar.

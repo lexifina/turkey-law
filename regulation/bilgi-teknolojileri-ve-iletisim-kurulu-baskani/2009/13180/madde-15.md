@@ -1,0 +1,2 @@
+Taşınmış numaranın iadesi
+MADDE 15 – (1) Numarasını taşımış bir abone ile alıcı işletmeci arasındaki abonelik sözleşmesinin sona ermesi ve abonenin diğer bir işletmeciye numarasının taşınması talebinde bulunmaması halinde, alıcı işletmeci, en geç otuz gün içerisinde söz konusu numarayı numaranın tahsisli olduğu işletmeciye iade eder. Numarayı iade eden işletmeci, bu durumu otuz gün içerisinde ilgili diğer işletmecilere duyurur.

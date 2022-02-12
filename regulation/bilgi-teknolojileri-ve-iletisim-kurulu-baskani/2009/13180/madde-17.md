@@ -1,0 +1,4 @@
+Çağrıların yönlendirilmesi yükümlülüğü
+MADDE 17 – (1) İşletmeciler, işletmeci numara taşınabilirliği yükümlülüğü olup olmamasına bakılmaksızın, taşınmış bir numaraya doğru başlattıkları veya taşıdıkları çağrıların, alıcı işletmeciye ilgili mevzuat uyarınca doğru bir şekilde yönlendirilmesi ile yükümlüdür. İşletmeciler, bu kapsamdaki çağrıları doğrudan kendileri alıcı işletmeciye gönderebilecekleri gibi ilgili mevzuata uygun olarak başka bir işletmeci üzerinden de dolaylı olarak gönderebilir.
+(2) Taşınmış numaralara yapılan tüm çağrılar, uluslararası standartlarla belirlenen çağrı kurulma sürelerine uygun olarak yönlendirilir.
+(3) Taşınmış numaraya doğru yurtdışından başlatılan çağrıları yurtiçinde ilgili işletmeciye taşıyan işletmeci, çağrıyı başlatan işletmeci gibi değerlendirilir ve ilgili mevzuat çerçevesinde bu madde hükmünde belirtilen çağrı yönlendirme yükümlülüklerine tabidir.
