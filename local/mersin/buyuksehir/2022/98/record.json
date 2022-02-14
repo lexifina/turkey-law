@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "98",
+  "decision_date": "2022-02-14",
+  "title": "- MEC.KAR.( Mezitli 11617 ada 1 parsel 11914 ada 1 parsel ).doc",
+  "listed_as": "98- MEC.KAR.( Mezitli 11617 ada 1 parsel 11914 ada 1 parsel ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/98--meckar--mezitli-11617-ada-1-parsel-11914-ada-1-parsel-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-subat-2022-meclis-kararlari",
+  "listing_sha256": "8960d00b8298d1b37c47b626d65a6807c8cab46ab8554b32f8670d05640b4516",
+  "meeting_title": "14 ŞUBAT 2022 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
