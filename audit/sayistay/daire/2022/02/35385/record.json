@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "397",
+  "decision_date": "2022-02-14",
+  "source_id": 35385,
+  "chamber": "3",
+  "ilam_number": "229",
+  "item_number": 7,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35385/",
+  "source_sha256": "c21b5a0ab4d27f7c6f1c2a90663349b8a9160bd55705395e699c09fa7002a86b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
