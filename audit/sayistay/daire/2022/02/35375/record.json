@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "396",
+  "decision_date": "2022-02-14",
+  "source_id": 35375,
+  "chamber": "3",
+  "ilam_number": "228",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35375/",
+  "source_sha256": "bc94de45dc08e849b8e86ca18aaebb20f5ef68d6ea05a0b819ccd62bf12f19a3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
