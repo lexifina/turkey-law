@@ -1,0 +1,5 @@
+Klinik sorumlusu ve görevleri
+MADDE 15 – (1) Anabilim/bilim dalı klinik sorumlusu, o anabilim/bilim dalının öğretim üyeleri arasından, yoksa diğer anabilim dallarından anabilim dalı akademik kurul kararı ile aylık liste halinde belirlenerek Dekanlığa her ayın en geç son iş gününe kadar bildirilir.
+(2) Klinik sorumlusu öğretim üyesi, ilgili klinikte sunulan tıbbi uygulamalar ile ilgili olarak Dekana karşı sorumludur.
+(3) Klinik sorumlusu; ilgili kliniğin bu Yönetmelik ve ilgili diğer mevzuat hükümleri çerçevesinde çalıştırılmasından, ilgili kayıtların tutulmasından ve korunmasından ayrıca alt yapı ile ilgili donanımın usulüne uygun kullandırılmasından Müdüre karşı sorumludur.
+(4) (Değişik cümle:RG-15/2/2022-31751) Klinikte hizmet sunan ve/veya eğitim alan öğrenciler ve lisansüstü öğrencilerinin bu Yönetmelik hükümlerine göre çalışmalarından klinik sorumlusu sorumludur. Bu kadrolar dışındaki personelin hizmet ilkelerine uygun çalışmalarının denetim sorumluluğu da klinik sorumlusuna aittir.

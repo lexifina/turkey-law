@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; Merkeze başvuran acil ve diğer hastalara ayaktan veya yatırılarak ağız, diş ve çene sağlığı hizmeti vermek, diş hekimi yetiştirmek, yardımcı sağlık personeli eğitimine destek vermek, bilimsel eğitim-öğretim, araştırma ve uygulama olanağı sağlamak amacıyla Tıp Fakültesi ve Üniversite bünyesindeki sağlık hizmetleri ile ilgili alanlarda faaliyet gösteren fakülte, enstitü, yüksekokullar, uygulama ve araştırma merkezleri başta olmak üzere diğer kurumlarla işbirliği yapmak, eğitim ve sağlık hizmetlerinin verimliliği ile niteliğini arttırmak, tıbbi araştırma ve uygulamaların en üst düzeyde gerçekleşmesi için bilimsel araştırma koşullarını hazırlamak, çağdaş hastane işletme yönetimi ilkeleri doğrultusunda faaliyette bulunmak ve ulaşılabilir kaliteli sağlık hizmeti sunulmasını sağlamaktır.
