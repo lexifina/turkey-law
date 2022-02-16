@@ -1,0 +1,5 @@
+Profesyonel spor kulübüne nakdi yardım yapılması;
+
+136 sayılı İlamın 7. maddesiyle verilen … TL’nin tazminine dair hükümde Üst Yönetici sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 48363 sayılı dosya, 16.02.2022 tarihli ve 51057 tutanak sayılı Temyiz Kurulu Kararı ile; kamu zararına sebebiyet verecek bir husus bulunmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Destek Hizmetleri Şube Müdürü …’yı] ilgilendiren ve aynı mahiyette olan 48362 sayılı işbu dosyanın da sözü edilen (48363 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 16.02.2022 tarih ve 51058 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı
