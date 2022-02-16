@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51129",
+  "decision_date": "2022-02-16",
+  "source_id": 26553,
+  "chamber": "6",
+  "file_number": "47165",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26553/",
+  "source_sha256": "69af6b686aed01c75368fb8d92fc49998ad4c1c32a6d41dfa89e654f8f9e5295",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
