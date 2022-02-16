@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51061",
+  "decision_date": "2022-02-16",
+  "source_id": 26561,
+  "chamber": "8",
+  "file_number": "48361",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26561/",
+  "source_sha256": "bbd7300cb727077be987aaab44c720bdf9fbe86842c15068386792e7bc4326d5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
