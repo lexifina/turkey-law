@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-139/ 2022-2",
+  "source_id": 702,
+  "date": "2022-02-16",
+  "title": "17 Şubat 2022 günü sonuna kadar verilmesi gereken 2021 IV. Geçici Vergi Dönemine (Ekim-Kasım-Aralık) ait Gelir ve Kurum Geçici Vergi Beyannamelerinin verilme ve ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/702",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "88224610500d4ee272f5bac7ece06745ec6808f6c8f1c0e374e367cb68fc66a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
