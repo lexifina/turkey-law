@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "510",
+  "decision_date": "2022-02-17",
+  "source_id": 35697,
+  "chamber": "5",
+  "ilam_number": "169",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2019,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35697/",
+  "source_sha256": "a21374b889443651bd52798fd6d3982503c95ed3a115e832a2c644ab22b23b47",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
