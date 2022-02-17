@@ -1,0 +1,24 @@
+{
+  "number": "123",
+  "number_as_published": "123",
+  "year": 2022,
+  "title": "Nazım İmar Planı Değ. (KARAKÖPRÜ-ATAKENT)",
+  "decision_date": "2022-02-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/13293/106/nazim-imar-plani-deg-karakopru-atakent",
+  "official_document": null,
+  "source_sha256": "8a5c50c74d5cf695c49178c122cc6ee417362d29bcf3815889549cfebc303f3a",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-02-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.02.2022 tarih ve 123 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-04-01",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
