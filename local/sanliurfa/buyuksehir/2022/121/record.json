@@ -1,0 +1,24 @@
+{
+  "number": "121",
+  "number_as_published": "121",
+  "year": 2022,
+  "title": "Uygulama İmar Planı Değ. (Eyyübiye-Yenice)",
+  "decision_date": "2022-02-17",
+  "source": "https://www.sanliurfa.bel.tr/icerik/13143/106/uygulama-imar-plani-deg-eyyubiye-yenice",
+  "official_document": null,
+  "source_sha256": "afe4c8b075329e1dcb3fc6446a482650d11bdd7e85e51724539997d02718c5ef",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-02-17",
+  "in_force_basis": "Decision date as printed in the official council listing: 17.02.2022 tarih ve 121 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-03-09",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
