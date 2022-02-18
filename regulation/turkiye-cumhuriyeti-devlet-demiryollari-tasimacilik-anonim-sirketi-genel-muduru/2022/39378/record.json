@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39378",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE CUMHURİYETİ DEVLET DEMİRYOLLARI TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39378",
+  "issuer": "Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-cumhuriyeti-devlet-demiryollari-tasimacilik-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-cumhuriyeti-devlet-demiryollari-tasimacilik-anonim-sirketi-genel-muduru/2022/39378",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39378&MevzuatTertip=5",
+  "source_sha256": "336ddf38e1fe645730a6046e25b5566f2c800e93c83fc81a37077e8b2e78cc88",
+  "source_bytes": 24864,
+  "published": "2022-02-18",
+  "gazette": "31754",
+  "in_force": "2022-02-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 405,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
