@@ -1,0 +1,4 @@
+Onay komisyonu
+MADDE 9 – (1) Yem katkı maddelerinin onayı için Bakanlığa yapılan başvurular Yem Katkı Maddeleri Onay Komisyonu tarafından incelenir. Gerektiği hallerde; 24/12/2011 tarihli ve 28152 sayılı Resmî Gazete’de yayımlanan Risk Değerlendirme Komite ve Komisyonlarının Çalışma Usul ve Esasları Hakkında Yönetmelik kapsamında oluşturulan yem komisyonunun risk değerlendirme ile ilgili görüşleri alınır. Onay Komisyonu gerek gördüğünde ilgili kurum ve kuruluşlardan ilave görüşler alabilir. Yem katkı maddeleri onay komisyonu yaptığı incelemelerden sonra onay başvurusunu karara bağlar.
+(2) Yem katkı maddeleri onay komisyonu, ilgili genel müdür yardımcısı, ilgili daire başkanı ve Bakanlıkta görevli konularında uzman kişilerden Bakanlık Gıda ve Kontrol Genel Müdürlüğünce oluşturulur.
+(3) Komisyon en az üçte iki çoğunlukla toplanır ve salt çoğunlukla karar alır. Komisyonda alınan kararlar tutanağa bağlanır ve üyelerce imzalanır. Aksi görüşler tutanakta belirtilir.

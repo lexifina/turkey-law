@@ -1,0 +1,2 @@
+Acil onay
+MADDE 14 – (1) Hayvan refahının korunmasını sağlamak için acil bir onayın gerekli olduğu özel durumlarda, Bakanlık, bir yem katkı maddesinin kullanımına geçici olarak, en fazla beş yıl için onay verebilir. Bu tür özel durumlarda onay şartları geçerli olmak koşuluyla durumun aciliyeti göz önünde bulundurularak yem katkı maddeleri onay komisyonunun belirleyeceği süre içinde onay işlemleri yürütülür.

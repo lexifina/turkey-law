@@ -1,0 +1,5 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe giriş tarihinden önce onaylanmış olan yem katkı maddeleri ve premiksler, bu Yönetmeliğin yürürlük tarihinden itibaren iki yıl süreyle piyasada bulunabilir.
+(2) Yem işletmeleri bu Yönetmeliğin yayımlanmasından önce ilgili yem mevzuatına uygun olarak bulundurdukları mevcut etiketleri bu Yönetmeliğin yürürlük tarihinden sonra bir yıl süreyle kullanabilirler. Bu etiketlerin kullanıldığı yem katkı maddeleri ve premiksler bu Yönetmeliğin yürürlük tarihinden itibaren iki yıl süreyle piyasada bulunabilir.
+(3) (Ek:RG-18/2/2022-31754) Bu fıkrayı ihdas eden Yönetmelik hükümlerine uygun olmayan yem katkı maddeleri ve premiksler, bu fıkranın yürürlüğe girdiği tarihten önce yürürlükte bulunan bu Yönetmeliğin ilgili hükümleri kapsamında piyasaya sunulmuş ise bu fıkranın yürürlük tarihinden itibaren bir yıl süre ile piyasada bulunabilir.
+(4) (Ek:RG-18/2/2022-31754) Bu fıkranın yürürlüğe girdiği tarihten önce Biyogüvenlik Kanunu kapsamında yem güvenilirliği açısından risk teşkil etmeyen, yem amaçlı onay almış ürünler bu Yönetmelik kapsamında Bakanlıkça onaylı kabul edilir.
