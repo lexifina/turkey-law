@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-02-19",
+  "issue": "31755",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Sosyal Güvenlik Kurumu Nezdindeki Verilerin Korunmasına ve İşlenmesine İlişkin Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/02/20220219-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/02/20220219.htm",
+  "index_sha256": "cac0a54309260b56d44d164def35186732d276fd7a1e0093e39c63d0a0fb7beb",
+  "index_header": "19 Şubat 2022 ... 31755 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/02/20220219.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
