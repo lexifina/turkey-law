@@ -1,0 +1,7 @@
+Veri sorumlusunun görev ve yükümlülükleri
+MADDE 6 – (1) Veri sorumlusu, bu Yönetmelik kapsamındaki verilerin hukuka aykırı olarak işlenmesini ve bu verilere, hukuka aykırı bir şekilde erişilmesini önlemek, bu verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri almak zorundadır.
+(2) Veri sorumlusu, tedbirlerin alınması hususunda veri işleyenler ile birlikte müştereken sorumludur.
+(3) Veri sorumlusu Kurul tarafından belirlenen düzenlemelerin uygulanmasını sağlamak amacıyla Kurumda gerekli denetimleri yapmak veya yaptırmak zorundadır.
+(4) Kişisel verileri, kişisel sağlık verileri ile ticari sır niteliğindeki verileri işleyen kişiler, bu verilere erişen kişiler ve veri sorumluları; öğrendikleri kişisel verileri, kişisel sağlık verilerini ve ticari sır niteliğindeki verileri 6698 sayılı Kanun ve 5502 sayılı Kanun ile bu Yönetmelik hükümlerine aykırı olarak başkasına açıklayamaz ve işleme amacı dışında kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.
+(5) Bu Yönetmelik kapsamında işlenen verilerin kanuni olmayan yollarla başkaları tarafından elde edildiğinin tespiti hâlinde veri sorumlusu, bu durumu gecikmeksizin ve en geç 72 saat içinde Kurula, söz konusu veri ihlalinden etkilenen kişilerin belirlenmesini müteakip ilgili kişilere de makul olan en kısa süre içerisinde bildirir.
+(6) Bu Yönetmelik kapsamında kişisel veri işleyen veri sorumluları Kurul tarafından çıkarılacak düzenlemelere uymakla yükümlüdür.

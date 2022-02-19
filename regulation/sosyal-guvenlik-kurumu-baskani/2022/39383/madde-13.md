@@ -1,0 +1,2 @@
+Sözleşmeli sağlık hizmeti sunucularının sundukları hizmetlere ilişkin veri talepleri
+MADDE 13 – (1) Sağlık hizmetlerinin sağlanmasına yönelik olarak Kurumla sözleşme yapmış sağlık hizmeti sunucularınca, Kurum adına işledikleri kişisel sağlık verilerinden mücbir sebep dolayısıyla Kuruma faturalandırılamayan hizmetlere ilişkin verilerin talep edilmesi durumunda bu talepler hakkında 20 nci maddenin bir ila dokuzuncu fıkrası hükümleri uygulanır.

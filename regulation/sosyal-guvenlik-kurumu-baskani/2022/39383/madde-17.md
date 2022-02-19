@@ -1,0 +1,4 @@
+Tüzel kişilere ait olan anonim verilerin tüzel kişinin kendisine veya diğer kişilere aktarımı
+MADDE 17 – (1) Tüzel kişilerin, 5510 sayılı Kanunun 63 üncü maddesinin birinci fıkrasının (f) bendinde belirtilen sağlık hizmetlerinden ruhsat veya satış iznine sahip olduğu ürünlere ait veriler; Kurum tarafından uygun görülmesi halinde tüzel kişiyi temsile yetkili olanların noter onaylı muvafakatlerinin alınması kaydıyla 20 nci maddenin bir ila yedinci fıkrası hükümlerine göre gerçek veya tüzel kişilere aktarılabilir.
+(2) Bu madde kapsamında aktarılacak veriler, sağlık hizmeti sunucularının doğrudan ya da dolaylı tanınmasına yol açamaz.
+(3) Bu madde kapsamında veri aktarılabilmesi için veri talebinde bulunanlar ile Kurum arasında ilgili mevzuat biriminin koordinasyonu ile aktarımın usulü ve diğer gerekli hususları belirleyen sözleşme/protokol imzalanması zorunludur.
