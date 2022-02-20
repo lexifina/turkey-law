@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/alanya-alaaddin-keykubat-universitesi/2021/38466",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-20/2/2022",
+  "first_law": null,
+  "gazette": "31437",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-02-20",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "Alanya Alaaddin Keykubat Üniversitesi",
+  "issuer_slug": "alanya-alaaddin-keykubat-universitesi",
+  "kind": "regulation",
+  "published": "2021-03-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38466&MevzuatTertip=5",
+  "source_id": "8.5.38466",
+  "source_sha256": "144ce38dcd8f5e78d8ec66eb0bd9ad91bc19d29e0b724b893e8d9e3124cc9d1b",
+  "title": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ KADIN VE AİLE\r\nÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 457,
+  "version_label": "oldest version available",
+  "word_count": 1510
+}
