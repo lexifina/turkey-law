@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.39392",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ (TEBLİĞ NO: 2015/11)",
+  "number": "39392",
+  "issuer": "Meslekî Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2015/39392",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39392&MevzuatTertip=5",
+  "source_sha256": "7e15c91ee88a589ca5320d9b094c0c959ea5b18cdf90002ee19231948f4c01f3",
+  "source_bytes": 14627,
+  "published": "2015-07-24",
+  "gazette": "29424 Mükerrer",
+  "in_force": "2022-02-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"22/2/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-02-22",
+      "22/2/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39392-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
