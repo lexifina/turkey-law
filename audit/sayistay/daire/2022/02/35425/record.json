@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10855",
+  "decision_date": "2022-02-22",
+  "source_id": 35425,
+  "chamber": "1",
+  "ilam_number": "436",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2014,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35425/",
+  "source_sha256": "6bf6ca303a6ba7ec1db0f16da9100a8b929030205b65658aaecd5f336546b7d3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
