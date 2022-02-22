@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10854",
+  "decision_date": "2022-02-22",
+  "source_id": 35431,
+  "chamber": "1",
+  "ilam_number": "265",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35431/",
+  "source_sha256": "12f076fb4d7858a09c3626fa6f50a3133f330a0ead6d8ff817573b692d720a49",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
