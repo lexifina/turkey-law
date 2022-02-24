@@ -1,0 +1,70 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "205",
+  "decision_number": "10",
+  "date": "2022-02-24",
+  "title": "Kurul Karar Organı’nın i-SPK 128.18 (24/02/2022 Tarihli ve 10/296 S.K.) Sayılı İlke Kararı:",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/205",
+  "source_sha256": "9c017984f0680cebaf1436cb57bf8cd9a6a9aee4ddf0f165cf53541ab0f126b5",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 205,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 2. Kurul Karar Organı’nın i-SPK 128.18 (24/02/2022 tarihli ve 10/296 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2022-02-24",
+    "source_clauses": [
+      "2. Kurul Karar Organı’nın i-SPK 128.18 (24/02/2022 tarihli ve 10/296 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none accepted; later dates are explicit end/deadline clauses",
+    "source_deadline_dates": []
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "836036c3-cd49-483d-9031-a63f1cdb5c26",
+    "contentSource": "IlkeKarari",
+    "contentID": 205,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK 128.18 (24/02/2022 Tarihli ve 10/296 S.K.) Sayılı İlke Kararı:",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2022-02-24T00:00:00",
+    "kurulKararTarih": "24.02.2022",
+    "kurulToplantiNo": "10",
+    "bultenYili": 2022,
+    "bultenNo": 10,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": null,
+    "baglantiliTebligler": null,
+    "ilgiliKonularStr": "9:Konut ve Varlık Finansmanı İle İpotek Finansmanı Kuruluşları;113:Kira Sertifikaları",
+    "ilgiliKonular": [
+      {
+        "key": 9,
+        "value": "Konut ve Varlık Finansmanı İle İpotek Finansmanı Kuruluşları"
+      },
+      {
+        "key": 113,
+        "value": "Kira Sertifikaları"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/205",
+    "linkTarget": "_blank"
+  }
+}
