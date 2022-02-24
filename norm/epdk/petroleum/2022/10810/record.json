@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10810",
+  "decision_date": "2022-02-24",
+  "title": "Güzel Enerji Akaryakıt Anonim Şirketi’nin; PİL/1266-2/22636 sayılı iletim lisansı kapsamında Aliağa Akaryakıt Depolama ve Dolum Tesisine ilişkin",
+  "resmi_gazete_date": "2022-02-26",
+  "resmi_gazete_number": "31762",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g6+nQtQ6o9M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=g6+nQtQ6o9M=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OmaJTfuhtA4="
+  ],
+  "source_sha256": "cb051366a38b4023212a7c7019a0a25a2db936f46e8fd065920197a1c27afc5c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-02-24",
+  "law_text_complete": true
+}
