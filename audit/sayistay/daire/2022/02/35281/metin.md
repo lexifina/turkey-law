@@ -1,0 +1,19 @@
+Araç Onarım Giderleri
+
+…… Belediyesi . …. Müdürlüğü hizmetinde kullanılan ve trafik kazası sonucunda hasar meydana gelen araca ilişkin onarım harcamalarının …. bütçesinden karşılanması ve kaza yapan personele rücu edilmemesi suretiyle kamu zararına sebebiyet verildiği iddiasına ilişkin olarak;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun “Mal yönetiminde etkililik ve sorumluluk” başlıklı 48’inci maddesinde; kamu idarelerinin, taşınırlarının muhafazası ve kullanımından sorumlu olduğu, aynı şekilde taşınır teslim edilen görevlilerin de taşınırın korunmasından ve taşınıra verilen zararlardan mesul olduğu, kamu idarelerinin ise verilen bu zararları sorumlularına ödettirmekle yükümlü olduğu ifade edilmiştir.
+
+Taşınır Mal Yönetmeliği’nin “Sorumluluk” başlıklı 5’inci maddesinin ikinci fıkrasında harcama yetkililerinin, kasıt, kusur veya ihmal sonucu kırılan, bozulan veya kaybolan taşınırlara ilişkin zararların, ilgililerinden tazmini için gerekli işlemleri yapmaya veya yaptırmaya yetkili olduğu belirtilmiştir.
+
+Öte yandan, 657 sayılı Devlet Memurları Kanunu’nun “Kişisel sorumluluk ve zarar” başlıklı 12’nci maddesinde; Devlet memurlarının kendilerine teslim edilen Devlet malını korumak ve her an hizmete hazır halde bulundurmak için gerekli tedbirleri almak zorunda olduğu belirtilmiş olup, anılan maddede Devlet memurunun kasıt, kusur, ihmal veya tedbirsizliği sonucu idare zarara uğratılmışsa, bu zararın ilgili memur tarafından rayiç bedeli üzerinden ödenmesinin esas olduğu ifade edilmiştir.
+
+ Aynı Kanun’un “Kişilerin uğradıkları zararlar” başlıklı 13’üncü maddesine dayanılarak kasıt, kusur, ihmal ve tedbirsizlik sonucu idareye verilen zararların nevi ve miktarlarının tespiti, takibi, amirlerin sorumlulukları, yapılacak işlemlerle ilgili usul ve esasları belirlemek amacıyla 13.8.1983 tarih ve 18134 sayılı Resmi Gazete’de “Devlete ve Kişilere Memurlarca Verilen Zararların Nevi ve Miktarlarının Tespiti, Takibi, Amirlerinin Sorumlulukları, Yapılacak Diğer İşlemler Hakkında Yönetmelik” yayımlanmıştır.
+
+Söz konusu Yönetmelik’in “Memurların Sorumlulukları ve Zararları Tazmin Mükellefiyeti” başlıklı 4’üncü maddesinde, 657 sayılı Kanun’un 12’nci maddesindeki hükümlere benzer ifadelere yer verilmiş olup, Yönetmelik’in “Amirlerin Sorumlulukları” başlıklı 9’uncu maddesinde; memurlarca verilen zararların miktarının tespiti ve ilgililerden bu yönetmelik veya genel hükümlere göre tahsili konusunda yapılacak işlemlerin zamanında ve eksiksiz yürütülmesinden, zararı veren memurların görevli bulundukları kurum ve kuruluşların o mahaldeki amirlerinin müteselsilen sorumlu olduğu açıklanmıştır.
+
+Yukarıda belirtilen mevzuat hükümleri uyarınca, kendine taşınır kamu malı teslim edilmiş memur, bu malın korunmasından ve kasıt, kusur veya ihmalleri sonucu ortaya çıkabilecek zararlardan sorumludur. İdareler ise ortaya çıkan bu tür zararların, sorumlularına rücu ettirilmesinden sorumludurlar.
+
+Yapılan incelemede, … ….. Müdürlüğü hizmetlerinde kullanılan …. .. …. plakalı 2015 model kamyonetin, 17.02.2020 tarihinde gerçekleşen trafik kazası sonucunda hasara uğradığı ve olaya ilişkin “Maddi Hasarlı Trafik Kazası Tespit Tutanağı”nda da belirtildiği üzere kusurun personel …. …..’e ait olduğu, ancak hasarlı araca ilişkin olarak gerçekleştirilen onarım harcamalarının, kaza yapan personele rücu edilmediği görülmektedir.
+
+Her ne kadar memurun kusuru nedeniyle taşınırda ortaya çıkan zararın bütçeden ödenmesi sonucu oluşan kamu zararının sorumlularına müştereken ve müteselsilen ödettirilmesi gerekmekte ise de sorumluların gönderdiği savunmalardan, söz konusu kamu zararının ahizi …. …..’den .......... tarih ve ….-…. numaralı tahsilat makbuzlarının ekli olduğu .......... tarih ve …. sayılı muhasebe işlem fişi ile tahsil edildiği anlaşıldığından, uyuşmazlık konusu edilen ……… TL hakkında ilişilecek bir husus kalmadığına, yapılan tahsilatın ilamda gösterilmesine oy birliğiyle karar verildi.
