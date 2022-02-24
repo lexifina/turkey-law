@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2022/85",
+  "list_number": "85",
+  "decision_date": "2022-02-24",
+  "title": "Yüksek Seçim Kurulunun 24/02/2022 Tarihli ve 2022/85 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015076/2022-85.pdf",
+  "source_sha256": "725d5bbc167fd07bfb1d110236ea58a3d2c6719c457024612154e62f027a646d",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 4,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2022-02-24",
+  "law_text_complete": false
+}
