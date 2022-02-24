@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "238",
+  "decision_date": "2022-02-24",
+  "source_id": 35285,
+  "chamber": "8",
+  "ilam_number": "32",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35285/",
+  "source_sha256": "8b24cb6779a3c63cab763c7ffca8eee7700e39c4fcbff0d784f8b71886e9450e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
