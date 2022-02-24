@@ -1,0 +1,27 @@
+{
+  "id": "presidency-regulation-5210",
+  "number": "5210",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MEVZUAT HAZIRLAMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "enacted": "2022-02-23",
+  "published": "2022-02-24",
+  "gazette_number": "31760",
+  "in_force": "2022-02-24",
+  "in_force_basis": "Source Resmî Gazete publication date; commencement clause says effective on publication; no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5210&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e6d2139f2a655cedce237b6a376a65956c78dd51f0b29e365895a205e1f02718",
+  "text_layout": "single-file",
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 0,
+    "deferred": 2
+  },
+  "missing_components": [
+    "annex-example-images"
+  ]
+}
