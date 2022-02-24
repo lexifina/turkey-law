@@ -1,0 +1,77 @@
+{
+  "id": "presidency-regulation-5210",
+  "number": "5210",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MEVZUAT HAZIRLAMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "published": "2022-02-24",
+  "enacted": "2022-02-23",
+  "gazette_number": "31760",
+  "in_force": "2022-02-24",
+  "in_force_basis": "Official own commencement clause: 2022-02-24; official source: Bu Yönetmelik yayımı tarihinde yürürlüğe girer.; official Gazette 2022-02-24",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5210&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e6d2139f2a655cedce237b6a376a65956c78dd51f0b29e365895a205e1f02718",
+  "source_links": [
+    {
+      "type": "reference",
+      "status": "referenced",
+      "source_url": "https://www.corpus.com.tr/",
+      "source_caption": "5018",
+      "source_href": "https://www.corpus.com.tr/",
+      "reason": "Reference link preserved from the official text."
+    },
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.5210-Ek.zip",
+      "source_caption": "Ekleri ayrıca (word) indirmek için tıklayınız",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.5210-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.5210-Ek.zip",
+      "source_caption": "Ekleri ayrıca (word) indirmek için tıklayınız",
+      "source_href": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.5210-Ek.zip",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "date_anomalies": [],
+  "images": {
+    "source": 2,
+    "referenced": 0,
+    "omitted": 2
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5210_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8ec1dc49deef992df5dc8563d3eb30f63195d07dd2f50e64846e886a59be4085",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5210_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "bd095e91e03e941a4116bf3610db436c8d247208d63b881b6994a8d1581d6909",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

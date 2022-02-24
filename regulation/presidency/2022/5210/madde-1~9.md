@@ -1,0 +1,13 @@
+ÖRNEK 3/Ç- ÇERÇEVE TASLAK
+… Bakanlığından:
+… YÖNETMELİĞİNDE DEĞİŞİKLİK YAPILMASINA DAİR YÖNETMELİK
+MADDE 1- .../…/… tarihli ve … sayılı Resmî Gazete’de yayımlanan … Yönetmeliğinin 4 üncü maddesi aşağıdaki şekilde değiştirilmiştir.
+“MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Çerçeve madde: Çerçeve taslakların maddelerini,
+b) Çerçeve taslak: Mevzuata madde veya hüküm eklenmesini, mevzuatın bazı madde veya hükümlerinin değiştirilmesini veya yürürlükten kaldırılmasını öngören metinleri,
+c) …
+ç) …
+…
+z) Müstakil taslak: Başlı başına belirli bir alanı düzenleyen ve ilk defa yürürlüğe konulacak mevzuat metinlerini,
+aa) Taslak: Çerçeve ve müstakil taslakları,
+bb) …

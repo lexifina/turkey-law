@@ -1,0 +1,11 @@
+Görüş alma
+MADDE 6- (1) Cumhurbaşkanlığına sunulmadan önce taslaklar hakkında kanun veya Cumhurbaşkanlığı kararnameleri gereğince görüş alınması zorunlu olan kurumların ve ilgili bakanlıklar ile kamu kurum ve kuruluşlarının görüşleri alınır. Görüş isteme yazısına, taslak metin, karşılaştırma cetveli, genel gerekçe ile varsa madde gerekçeleri, düzenleyici etki analizi ve bütçe etki formu eklenir. Bu çerçevede ilgili bakanlıklar ile kamu kurum ve kuruluşlarının yanı sıra;
+a) Ekonomik ve sosyal politikalar ve tedbirlerle ilgili taslaklar, kamu gelir ve giderlerini etkileyen taslaklar ile mali konuları düzenleyen taslaklar hakkında Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığının,
+b) Genel yönetim kapsamındaki kamu idarelerince Sayıştayın denetim alanına giren mali konularda düzenlenecek yönetmelik ve yönetmelik niteliğindeki düzenleyici işlem taslakları hakkında Sayıştay Başkanlığının,
+c) Avrupa Birliği müktesebatına uyum çerçevesinde hazırlanan taslaklar hakkında Avrupa Birliği Başkanlığının,
+görüşlerinin alınması zorunludur.
+(2) Bakanlıklar ile bunlara bağlı ve ilgili kurum ve kuruluşlar tarafından gönderilecek görüş isteme yazısı, taslağın mahiyeti ve aciliyet durumu değerlendirilerek bakan veya ilgili bakan yardımcısı tarafından, düzenleyici ve denetleyici kurumlar ile diğer kurum ve kuruluşlarda ise en üst yönetici tarafından imzalanır.
+(3) Sayıştay Başkanlığı, Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığından görüş alınması gereken hâllerde diğer kurum ve kuruluşlardan alınacak görüşlerin tamamlanması ve değerlendirilmiş olması zorunludur.
+(4) Taslaklar hakkında konuyla ilgili mahallî idareler, üniversiteler, sendikalar, kamu kurumu niteliğindeki meslek kuruluşları ile sivil toplum kuruluşlarının, iş ve yatırım ortamına ilişkin taslaklar hakkında ise ayrıca özel sektör paydaşlarının görüşlerinden de faydalanılır.
+(5) Kamuoyunu ilgilendiren taslaklar, Cumhurbaşkanlığına iletilmeden önce teklif sahibi bakanlıklar ile kamu kurum ve kuruluşları tarafından internet, basın veya yayın aracılığıyla kamuoyunun bilgisine sunulabilir. Bu suretle taslak hakkında toplanan görüşler değerlendirildikten sonra teklifte bulunulur.
+(6) Cumhurbaşkanlığı taslaklara ilişkin doğrudan görüş alabilir.

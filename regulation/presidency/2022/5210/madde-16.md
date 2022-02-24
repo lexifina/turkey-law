@@ -1,0 +1,5 @@
+Ek ve geçici maddeler
+MADDE 16- (1) Mevzuatta yapılacak yeni düzenlemenin, mevcut maddelerden birine eklenememesi ve mevcut maddelerin sıralamasına uygun düşmemesi durumunda ek madde uygulamasına gidilir. Ek madde, yürürlük maddesinden ve varsa geçici maddelerden önce yer alır.
+(2) Taslaklarda mükerrer maddelere yer verilmez, yürürlükteki metinlere ek madde eklenmesi yoluna gidilir. Eklenecek yeni maddenin düzenlemenin belirli bir bölümünde yer alması gerekiyorsa, madde ilgili bölümde “MADDE .../A-” şeklinde numaralandırılır.
+(3) Yeni mevzuat metni ile getirilen düzenleme uygulanmaya başlayıncaya veya yürürlüğe girinceye kadar geçecek süre içinde yapılacak işlem ve düzenlemeler ya da uyulacak ilke ve kurallar ile daha önceki düzenlemelerden doğan hakların korunmasına ilişkin hususlar ve benzeri geçiş hükümleri geçici maddelerle düzenlenir. Geçici maddeler de ayrıca numaralandırılır.
+(4) İlave edilecek ek maddeler veya geçici maddeler, düzenlemenin esas yapısındaki sisteme uygun biçimde düzenlenir. Ek madde ve geçici maddelere mevcut ek ve geçici madde numaralarını devam ettirecek şekilde numara verilir.

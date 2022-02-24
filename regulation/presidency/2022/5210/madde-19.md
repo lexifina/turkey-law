@@ -1,0 +1,5 @@
+Maddelerin değiştirilmesi
+MADDE 19- (1) Maddelerin değiştirilmesi durumunda, değiştirilen madde metni, madde numarası ile birlikte yazılır. Madde başlığında değişiklik yapılmıyorsa başlık yazılmaz. Maddenin başlığı ile birlikte değiştirilmesi durumunda çerçeve maddede, maddenin başlığı ile birlikte değiştirildiği belirtilir.
+(2) Fıkra, bent ya da alt bentler değiştirilirken satırbaşından başlanır; fıkra, bent ve alt bendin harfi veya numarası yazılır. Değiştirilen madde, fıkra, bent, alt bent, paragraf ve cümleler tırnak içinde yazılır. Cümle değişiklikleri ve eklemelerinde satırbaşı yapılmaz. Ancak cümle maddenin veya bölümlerinin ilk cümlesi ise satırbaşı yapılır.
+(3) Yürürlükten kaldırılan veya mahkeme kararı ile iptal edilen bir madde veya hükmün yeniden düzenlenmesi hâlinde çerçeve maddede, madde veya hükmün yeniden düzenlendiği belirtilir.
+(4) Yürürlükten kaldırılan veya mahkeme kararı ile iptal edilen bir madde veya hükmün yeniden düzenlenmesi hâlinde, yeni hükmün mülga ya da iptal edilen madde veya hükümle ilintili olması veya aynı alana ilişkin düzenleme öngörmesi gözetilir.

@@ -1,0 +1,5 @@
+Maddeler
+MADDE 13- (1) Maddeler sırasıyla fıkralar, bentler ve alt bentlerden oluşur.
+(2) Fıkralar numarayla, bentler harfle, alt bentler numarayla belirlenir. Bentlerin sıralanmasında Türk alfabesinde yer alan tüm harfler kullanılır. Çerçeve maddelerde fıkralar numaralandırılmaz. Fıkraların numarası ayraçla, bentler ve alt bentlerin harf ve numaraları yarım ayraçla kapatılır; “z” harfinden sonra alfabetik sıralama “aa, bb, cc, çç, … zz, aaa, bbb, …” şeklinde yapılır.
+(3) Maddeler ve çerçeve maddelerin “MADDE” ibareleri kalın, tüm harfleri büyük yazılır, numaralandırılır ve numaradan sonra bitişik olarak kısa çizgi işareti konulur; ayrıca nokta konulmaz. Maddelerin ve çerçeve maddelerin altı çizilmez. Değiştirilen veya eklenen maddeler ile varsa bunların başlıkları kalın yazılmaz, ancak “MADDE” ibareleri yine büyük harfle yazılır.
+(4) Tanımlar maddesinde tanımlar alfabetik sıralamaya göre bent veya alt bentlerle gösterilir. Tanımlar maddesine sonradan eklenecek tanımlar son bent veya alt bent olarak eklenir.

@@ -1,0 +1,5 @@
+Görüşlerin bildirilmesi
+MADDE 7- (1) Bakanlıklar ile kamu kurum ve kuruluşları, taslaklara ilişkin görüşlerini en geç on beş gün içinde bildirir. Bu süre, Cumhurbaşkanlığı tarafından istenilen görüşlerde daha kısa olarak uygulanabilir. Bakanlıklar ile kamu kurum ve kuruluşları görüş vermek için ek süre isteyebilir. Bakanlıklar ile kamu kurum ve kuruluşları görüş bildirmekten kaçınamaz. Süresinde görüş verilmezse olumlu görüş verilmiş sayılır.
+(2) Kamu kurumu niteliğindeki meslek kuruluşları ile sivil toplum kuruluşları da taslaklara ilişkin görüşünü on beş gün içinde bildirir. Süresinde görüş verilmezse olumlu görüş verilmiş sayılır.
+(3) Bakanlıklar, kamu kurum ve kuruluşları, kamu kurumu niteliğindeki meslek kuruluşları ile sivil toplum kuruluşlarının taslakları kendi görevleri bakımından incelemeleri esastır. Ancak görüş bildirmeleri istenen kurum ve kuruluşlar hukukun genel ilkeleri, kamu yararı ve hizmet gerekleri yönünden genel değerlendirmelerini de bildirebilir.
+(4) Görüşler, EK-1’de yer alan form doldurulmak suretiyle düzenlenebilir formatta görüş isteyen kuruma gönderilir.
