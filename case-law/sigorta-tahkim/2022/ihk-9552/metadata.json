@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2022/9552",
+  "award_date": "2022-02-25",
+  "heading_as_published": "25.02.2022 Tarih ve 2022/İHK-9552 Sayılı İtiraz Hakem Heyeti Kararı (Kasko)",
+  "issue": "Hakem Karar Dergisi 49 Ocak - Mart 2022",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs49.pdf",
+  "source_sha256": "1766f1eea91c490b8c285d16eea2b074edaa626588a6d589bcaa0e9ad8cb87ad",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 3,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
