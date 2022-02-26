@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39394",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ENERJİ VE TABİİ KAYNAKLAR BAKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39394",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2022/39394",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39394&MevzuatTertip=5",
+  "source_sha256": "c7a7199d8229523c96fbf8dc020be4edf164d35004ffa8992166da22460a556a",
+  "source_bytes": 10193,
+  "published": "2022-02-26",
+  "gazette": "31762",
+  "in_force": "2022-02-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39394-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
