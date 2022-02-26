@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39395",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MERKEZİ FİNANS VE İHALE BİRİMİ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39395",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2022/39395",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39395&MevzuatTertip=5",
+  "source_sha256": "92a8d33e312474395fd82556db5ccff8acbdc3b0d5a5ed2aec04008f91eb9c7e",
+  "source_bytes": 9745,
+  "published": "2022-02-26",
+  "gazette": "31762",
+  "in_force": "2022-02-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.02.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 193,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39395-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
