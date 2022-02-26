@@ -1,0 +1,2 @@
+Tarım İzleme Komitesi
+MADDE 7 – (1) Genel Müdürlük ve ilgili İhracatçı Birliği temsilcilerinden teşkil edilmiş olan ve görevleri ile çalışma usul ve esasları Genel Müdürlükçe belirlenen Tarım İzleme Komitesi, bu Tebliğ kapsamındaki eşyanın niteliği, menşei, değeri ve benzeri özellikleri ile ithalatının kayda alınmasına ilişkin belirlenen diğer iş ve işlemler hususunda, Genel Müdürlüğe tavsiye ve önerilerde bulunur.

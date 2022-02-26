@@ -1,0 +1,3 @@
+İnceleme ve başvurunun sonuçlandırılması
+MADDE 5 – (1) Tam ve usulüne uygun olarak yapılan Kayıt Belgesi başvuruları en geç 10 (on) iş günü içerisinde sonuçlandırılır.
+(2) Yapılan beyanın gerçeğe aykırı olduğunun, başvurularda sunulan bilgi ve belgelerde tutarsızlık bulunduğunun tespit edilmesi veya bu yönde ciddi şüphe olması halinde söz konusu hususlar açıklığa kavuşturuluncaya kadar Kayıt Belgesi düzenlenmez. Bu nitelikteki başvurular değerlendirilmek üzere Kayıt Merkezince Ticaret Bakanlığı İthalat Genel Müdürlüğüne (Genel Müdürlük) intikal ettirilir. Bu nitelikteki başvurular için Genel Müdürlükçe detaylı bilgi talep edilebilir ve sunulan bilgilerin doğruluğunu teyit etmek üzere incelemeler yapılabilir.

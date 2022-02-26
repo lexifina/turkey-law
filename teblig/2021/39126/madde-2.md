@@ -1,0 +1,3 @@
+Kayda alma
+MADDE 2 – (1) 1 inci maddede belirtilen ürünleri ithal etmek isteyen ithalatçılar, gerçekleştirecekleri ithalata ilişkin bilgileri ithalattan önce EK 1’deki tabloda ürünlerin karşılarında gösterilen ve Ticaret Bakanlığı tarafından Kayıt Merkezi olarak yetkilendirilen ilgili İhracatçı Birlikleri Genel Sekreterliklerine, “ithalat.ebirlik.org” internet sitesi üzerinden kaydettirirler. İthal işleminin kayda alındığına dair elektronik ortamda bir Kayıt Belgesi düzenlenir.
+(2) (Ek:RG-26/2/2022-31762) Ek-1’deki tablodaki ürünlerin 4458 sayılı Gümrük Kanununun 168 ila 171 inci maddeleri kapsamında serbest dolaşıma girmesi halinde bu Tebliğ hükümleri uygulanmaz.
