@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[68-2021/226]-230462",
+  "source_id": 23716,
+  "date": "2022-02-27",
+  "title": "Cep telefonuna ilişkin amortisman giderlerinin ve aylık fatura bedellerinin indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23716",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "e89c204fad0b73dd454a4d70af95f039eca7050b1ae2d1ce3664e726f1736f4f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
