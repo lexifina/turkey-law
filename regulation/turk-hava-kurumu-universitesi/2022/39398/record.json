@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-02-27",
+      "27.02.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31763",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-02-27",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Türk Hava Kurumu Üniversitesi",
+  "issuer_slug": "turk-hava-kurumu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/turk-hava-kurumu-universitesi/2022/39398",
+  "published": "2022-02-27",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39398&MevzuatTertip=5",
+  "source_bytes": 26130,
+  "source_id": "8.5.39398",
+  "source_sha256": "9ba29cf98b389c6bb5e262fc3785b1dac15e1568182f76cbfb63357f60fb9463",
+  "text_status": "as-enacted",
+  "title": "TÜRK HAVA KURUMU ÜNİVERSİTESİ UZAKTAN EĞİTİM\r\nUYGULAMA VE ARAŞTIRMA MERKEZİ \r\nYÖNETMELİĞİ",
+  "university_id": 366,
+  "word_count": 922
+}
