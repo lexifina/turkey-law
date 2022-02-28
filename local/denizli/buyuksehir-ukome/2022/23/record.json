@@ -1,0 +1,24 @@
+{
+  "number": "23",
+  "number_as_published": "2022/02/23",
+  "year": 2022,
+  "title": "council decision",
+  "decision_date": "2022-02-28",
+  "source": "https://adres.denizli.bel.tr/ukome/DBBWEBSITE_UkomeKararlari.ashx?tarih=02.2022",
+  "official_document": null,
+  "source_sha256": "5d615c4305a35593a0bc59c32ff701175eb0a42b07fd7ce13228c806b0344579",
+  "issuer": "Denizli Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2022-02-28",
+  "in_force_basis": "Decision date as printed in the official council listing: 28.02.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.denizli.bel.tr/hizli-erisim/ukome-kararlari",
+  "meeting": "02",
+  "listed_subjects": 1
+}
