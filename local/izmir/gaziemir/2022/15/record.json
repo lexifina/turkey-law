@@ -1,0 +1,29 @@
+{
+  "number": "15",
+  "number_as_published": "15",
+  "year": 2022,
+  "month": 2,
+  "title": "15 NOLU KARAR 2022 ŞUBAT 188 ADA 10,19,23,24,25,28,31,32 PARSEL PLAN TADİLATI (2)",
+  "decision_date": null,
+  "index_date": "2022-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2022",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=24",
+  "official_page": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=24",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/14dc0fc2bbad1bad82844ed17845edf214dc0fc2bbad1bad82844ed17845edf2.doc",
+  "source_sha256": "6afe9dae2e339f2c9d0131549811162da36e9a5cd930eb5ee293db0950fda141",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2022-02-28",
+  "in_force_basis": "The official listing gives only the month of this decision (Şubat 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "posting_date": "25.02.2022",
+  "record_scope": "one council decision (number and month as listed; year from the posting date)"
+}
