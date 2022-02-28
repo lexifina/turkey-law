@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/erzurum-teknik-universitesi/2022/39396",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31764",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-02-28",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "Erzurum Teknik Üniversitesi",
+  "issuer_slug": "erzurum-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2022-02-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39396&MevzuatTertip=5",
+  "source_id": "8.5.39396",
+  "source_sha256": "b027dc10c22033a0aee32ab92a7c1b231dfb61edf1a4e67d2b6df3bbb3cf317a",
+  "title": "ERZURUM TEKNİK ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 413,
+  "version_label": "oldest version available",
+  "word_count": 1067
+}
