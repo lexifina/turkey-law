@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10818",
+  "decision_date": "2022-02-28",
+  "title": "Mesken Alçak Gerilim Tek Zamanlı Abone Grubuna İlişkin",
+  "resmi_gazete_date": "2022-03-01",
+  "resmi_gazete_number": "31765",
+  "categories": [
+    "Tarifeler"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c/r+gKrhsws=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c/r+gKrhsws="
+  ],
+  "source_sha256": "31e9c4579256f2ed7abc0035965d69d5a26804aac79aa8dfa8f96290fd1176e1",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33856,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-02-28",
+  "law_text_complete": true
+}
