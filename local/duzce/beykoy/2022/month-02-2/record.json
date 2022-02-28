@@ -1,0 +1,29 @@
+{
+  "number": "month-02-2",
+  "year": 2022,
+  "month": 2,
+  "title": "BEYKÖY BELEDİYESİ - 2022 YILI ŞUBAT AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "decision_date": null,
+  "index_date": "2022-02-28",
+  "date_precision": "month",
+  "period": "Şubat 2022",
+  "source": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2022-yili-subat-ayi-2-birlesim-meclis-karar-ozeti",
+  "official_page": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2022-yili-subat-ayi-2-birlesim-meclis-karar-ozeti",
+  "official_document": "https://www.beykoy.bel.tr/karar/beykoy-belediyesi-2022-yili-subat-ayi-2-birlesim-meclis-karar-ozeti",
+  "source_sha256": "4e15966db09bf59f07963081a4695bbc3e5a7b0f07e5420c4162a0282d574851",
+  "issuer": "Beyköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-02-28",
+  "in_force_basis": "The official listing gives only the month of this official file (Şubat 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "BEYKÖY BELEDİYESİ - 2022 YILI ŞUBAT AYI 2.BİRLEŞİM MECLİS KARAR ÖZETİ.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the official page itself as 1 scanned image(s); not transcribed here"
+}
