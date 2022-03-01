@@ -1,0 +1,23 @@
+{
+  "number": "meeting-03-01-2",
+  "number_as_published": null,
+  "year": 2022,
+  "title": "Çokören Mahallesi 127 ada 1 parselin bir kısmına, 128 ada 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 ve 132 ada 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22 parsellere yönelik hazırlanan 1/1000 ölçekli Uygulama İmar Planı oybirliğiyle kabul edildi.",
+  "decision_date": "2022-03-01",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_64_-_C387OKC396REN_MAH-_127_ADA_12C_128_ADA_15_-------_342C_132_ADA_1_------_22_PARSELLER.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-03-01",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2022-03-01; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
