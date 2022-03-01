@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10858",
+  "decision_date": "2022-03-01",
+  "source_id": 35424,
+  "chamber": "1",
+  "ilam_number": "41",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35424/",
+  "source_sha256": "181e7f7fdaea6e64b41fcdd34163d01915aabc9ebeb25a7dc442d2b977782621",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}

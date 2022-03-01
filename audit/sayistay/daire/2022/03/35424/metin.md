@@ -1,0 +1,25 @@
+Damga Vergisi
+
+Personel çalıştırılmasına dayalı hizmet alımı kapsamında … Belediyesi ile belediye şirketi … Belediyesi Personel Ltd. Şti. arasında imzalanan sözleşmenin damga vergisinin şirket tarafından ödenmediği anlaşılmıştır.
+
+488 sayılı Damga Vergisi Kanunu’nun “Konu” başlıklı 1’inci maddesinde, söz konusu Kanuna ekli (1) sayılı tabloda yazılı kağıtların Damga vergisine tabi olduğu, bu kanundaki kağıtlar teriminin, yazılıp imzalamak veya imza yerine geçen bir işaret konmak suretiyle düzenlenen ve herhangi bir hususu ispat veya belli etmek için ibraz edilebilecek olan belgeler ile elektronik imza kullanılmak suretiyle manyetik ortamda ve elektronik veri şeklinde oluşturulan belgeleri ifade ettiği hüküm altına alınmıştır.
+
+Anılan Kanun’un “Mükellef” başlıklı 3’üncü maddesinde damga vergisinin mükellefinin kağıtları imza edenler olduğu, resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği; “Resmi daire” başlıklı 8’inci maddesinde ise resmi daireden maksatın, genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köyler olduğu belirtilmiştir.
+
+Aynı Kanun’un “Resmi dairelerin mecburiyeti” başlıklı 26’ncı maddesinde, resmi dairelerin ilgili memurlarının kendilerine ibraz edilen kâğıtların damga vergisini aramaya ve vergisi hiç ödenmemiş veya noksan ödenmiş olanları bir tutanakla tespit etmeye veya bunları tutanağı düzenlenmek üzere vergi dairesine göndermeye mecbur oldukları hüküm altına alınmıştır.
+
+Anılan Kanun’a ekli “Damga Vergisine Tabi Kağıtlar” başlıklı (1) sayılı tabloda Mukavelenamelerin binde 9,48 oranında damga vergisine tabi olduğu hükme bağlanmıştır.
+
+24.12.2017 tarih 30280 sayılı Resmi Gazete’de yayımlanan 20.11.2017 tarihli 696 sayılı Kanun Hükmünde Kararnamenin 127’nci maddesiyle, 375 sayılı Kanun Hükmünde Kararnameye (KHK) eklenen geçici 23 ve geçici 24’üncü maddelerle hizmet alım sözleşmeleri kapsamında çalıştırılmakta olan personelin işçi kadrolarına geçirilmesine ilişkin düzenlemeler yapılmıştır.
+
+375 sayılı KHK’nin ek 20’nci maddesi kapsamındaki şirketlerde işçilerin işe alımı, işçilere ilişkin personel giderlerinin toplam giderler içindeki payına ilişkin üst sınırları, ilk defa alınacak işçilere ilişkin belirlenecek ölçütleri esas alarak yıllık sınırlamaları ve bu kapsamdaki alımlar ile harcamaları izlemeye ilişkin usul ve esasların belirlenmesi amacıyla 28.04.2018 tarih 30405 sayılı Resmi Gazete’de; “İl Özel İdareleri, Belediyeler ve Bağlı Kuruluşları ile Bunların Üyesi Olduğu Mahalli İdare Birliklerinin Personel Çalıştırılmasına Dayalı Hizmetlerinin Gördürülmesine İlişkin Usul ve Esaslar Hakkında Karar” yayımlanmıştır.
+
+Söz konusu Kararın “Hizmetlerin Gördürülmesi” başlıklı 6’ncı maddesinin birinci fıkrasında; il özel idareleri, belediyeler ile bağlı kuruluşları ve bunların üyesi olduğu mahalli idare birliklerinin, personel çalıştırılmasına dayalı hizmetlerini 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununun 22’nci maddesindeki limit ve şartlar ile 62’nci maddesinin birinci fıkrasının (e) bendindeki sınırlamalara tabi olmaksızın doğrudan hizmet alımı suretiyle, doğrudan doğruya veya dolaylı olarak, birlikte ya da ayrı ayrı sermayesinin yarısından fazlası bu idarelere ait şirketlere gördürebileceği, dördüncü fıkrasında ise bu kapsamdaki hizmet alımlarında taraflar arasında sözleşme imzalanmasının zorunlu olduğu ifade edilmiştir.
+
+Yukarıda açıklanan hükümler doğrultusunda, 375 sayılı KHK’nin ek 20’nci maddesi kapsamında yapılan alımlarda sözleşme düzenleme zorunluluğu bulunmakta ve düzenlenen bu sözleşmelerden doğan damga vergisinin sözleşmenin tarafı olan özel kişilerce ödenmesi, gerekmektedir.
+
+… Belediye Başkanlığı ile … Belediyesi Personel Ltd. Şti. arasında personel çalıştırılmasına dayalı hizmet alımı sözleşmesinin … tarihinde imzalandığı ve sözleşmenin …’nci maddesinde yer alan “… yılında ve diğer yıllarda asgari ücrete gelecek fark, belediye bütçesi ve ihtiyaç koşullarına göre belirlenecek zamma göre karar alınıp her yıl sözleşmeye ek olarak fiyatlar güncellenecektir.” hükmü gereği ilerleyen yıllarda da belli artırım oranıyla uygulanmaya devam edilmiştir. Sözleşmede yer alan bu hüküm gereği ilerleyen yıllarda da yenilenmiş olan sözleşmenin damga vergisinin de ödenmesi gerekirken ödenmediği anlaşılmıştır.
+
+Yukarıda belirtilen mevzuat hükümleri gereğince personel çalıştırılmasına dayalı hizmet alımı sözleşmesinin yenilenen tutarı üzerinden damga vergisinin ödenmemesi sonucunda oluşan ve ayrıntısı aşağıda gösterilen … TL kamu zararının sorumlularına müştereken ve müteselsilen ödettirilmesine karar verilmesi gerekmekte ise de, söz konusu tutarın … tarihli ve … yevmiye numaralı muhasebe işlem fişi ile … Belediyesi Personel Ltd. Şti.’nin belediyeden olan alacağından mahsup edilerek 360 Ödenecek Vergi ve Fonlar Hesabına kaydedildiği anlaşıldığından konu ile ilgili ilişilecek husus kalmadığına,
+
+6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere, oy birliğiyle karar verildi.
