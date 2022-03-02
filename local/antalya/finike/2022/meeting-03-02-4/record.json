@@ -1,0 +1,23 @@
+{
+  "number": "meeting-03-02-4",
+  "number_as_published": "meeting-03-02-4",
+  "year": 2022,
+  "title": "Karar No: 19 – 02.03.2022 Tarihli Mart Ayı Meclis Toplantısı",
+  "decision_date": "2022-03-02",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/e06718ad06814d83883eb3144f43e8b3.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-03-02",
+  "in_force_basis": "Decision date as printed in the official council listing: 02.03.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 19 – 02.03.2022 Tarihli Mart Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
