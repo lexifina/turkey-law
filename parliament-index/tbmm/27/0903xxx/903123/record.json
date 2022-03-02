@@ -1,0 +1,76 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903123,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "OĞUZHAN KAYA (ÇORUM)",
+  "summary": "Ve 87 Milletvekilinin Nükleer Düzenleme Kanunu Teklifine Dair (2/4222) (S. Sayısı: 314)",
+  "title": "Ve 87 Milletvekilinin Nükleer Düzenleme Kanunu Teklifine Dair (2/4222) (S. Sayısı: 314)",
+  "first_sitting_date": "2022-03-02",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 94,
+      "sitting": 60,
+      "sitting_date": "2022-03-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c094/tbmm27094060.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c094/tbmm27094fih.pdf",
+      "pages": [
+        "512",
+        "520:528",
+        "528:543"
+      ]
+    },
+    {
+      "cilt": 94,
+      "sitting": 61,
+      "sitting_date": "2022-03-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c094/tbmm27094061.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c094/tbmm27094fih.pdf",
+      "pages": [
+        "615:634",
+        "635:639",
+        "641:650",
+        "652",
+        "656:659",
+        "660:671",
+        "673:677",
+        "678:703",
+        "703:715",
+        "716:728",
+        "728:729"
+      ]
+    },
+    {
+      "cilt": 95,
+      "sitting": 63,
+      "sitting_date": "2022-03-05",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c095/tbmm27095063.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c095/tbmm27095fih.pdf",
+      "pages": [
+        "188:203",
+        "204:205",
+        "206:217",
+        "218:238",
+        "238:264",
+        "264:280",
+        "281:293"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2022-03-02",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
