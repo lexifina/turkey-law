@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6]-4069",
+  "source_id": 28475,
+  "date": "2022-03-02",
+  "title": "Şirkete ait yurt dışı iştirak hisselerinin birleşmesi durumunda Türkiye'de vergiye tabi kurum kazancı oluşup oluşmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28475",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "848ade224850cc44310106ce891b0e1a0d9374e85e081b40dd92438a3a4ec364",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
