@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "511",
+  "decision_date": "2022-03-03",
+  "source_id": 35841,
+  "chamber": "5",
+  "ilam_number": "94",
+  "item_number": 86,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35841/",
+  "source_sha256": "72e8bd22f9eebfc428c90aa8f9e30b20d550cb1486e9bd18ea21dd6123cbbf06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
