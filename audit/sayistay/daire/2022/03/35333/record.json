@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "500",
+  "decision_date": "2022-03-03",
+  "source_id": 35333,
+  "chamber": "7",
+  "ilam_number": "35",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35333/",
+  "source_sha256": "eaa9481ee2bce5f070ef5c2ebdf553ac21df2cc9e62ec532b44205d3d0ac7223",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
