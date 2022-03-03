@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39402",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YÜKSEK SEÇİM KURULU DİSİPLİN KURULLARI VE DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39402",
+  "issuer": "Yüksek Seçim Kurulu Başkanı",
+  "issuer_slug": "yuksek-secim-kurulu-baskani",
+  "path": "regulation/yuksek-secim-kurulu-baskani/2022/39402",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39402&MevzuatTertip=5",
+  "source_sha256": "9060a6397867131d8c451b2935f5db638add6f3b1e83c4f8adae8c38414c9fb0",
+  "source_bytes": 13533,
+  "published": "2022-03-03",
+  "gazette": "31767",
+  "in_force": "2022-03-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 337,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39402-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
