@@ -1,0 +1,24 @@
+{
+  "number": "50",
+  "number_as_published": "2022/50",
+  "year": 2022,
+  "title": "council decision",
+  "decision_date": "2022-03-04",
+  "source": "https://www.pamukkale.bel.tr/y-274-2022-yili-mart-ayi-meclis-karar-ozetleri",
+  "official_document": null,
+  "source_sha256": "3d0de6338e64b8d4f2afd538197532da8f593e0662f128f106cf2b1c9ea9c479",
+  "issuer": "Pamukkale Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2022-03-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.03.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.pamukkale.bel.tr/y-274-2022-yili-mart-ayi-meclis-karar-ozetleri",
+  "listing_label": "2022 YILI MART AYI MECLİS KARAR ÖZETLERİ",
+  "record_scope": "one council decision (published decision summary)"
+}
