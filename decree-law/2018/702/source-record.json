@@ -1,0 +1,65 @@
+{
+  "source_id": "24.5.702",
+  "path": "decree-law/2018/702",
+  "number": "702",
+  "tertip": "5",
+  "title": "NÜKLEER DÜZENLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+  "status": "repealed",
+  "text_label": "last-available-consolidated",
+  "enacted": "2018-07-02",
+  "enacted_as_printed": "02.07.2018",
+  "published": "2018-07-09",
+  "gazette": "30473",
+  "in_force": "2022-03-05",
+  "in_force_basis": "latest date printed in a repeal note (enactment date of the repealing act): \"Bu KHK 5/3/2022 tarihli ve 7381 sayılı Kanunun 27 nci maddesiyle yürürlükten kaldırılmıştır.\"",
+  "date_evidence": [
+    [
+      "2022-03-05",
+      "Bu KHK 5/3/2022 tarihli ve 7381 sayılı Kanunun 27 nci maddesiyle yürürlükten kaldırılmıştır.",
+      "a repeal note (enactment date of the repealing act)"
+    ],
+    [
+      "2019-02-28",
+      "7164 | 4,Üçüncü Bölüm Başlığı,4/A,6,7,Geçici Madde 2 | 28/2/2019",
+      "the act's own entry-into-force list"
+    ],
+    [
+      "2019-02-14",
+      "(Ek fıkra:14/2/2019-7164/45 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2019-02-14",
+      "(Ek :14/2/2019-7164/46 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2019-02-14",
+      "(Değişik:14/2/2019-7164/47 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ],
+    [
+      "2019-02-14",
+      "(Değişik fıkra:14/2/2019-7164/45 md.)",
+      "an amendment note (enactment date of the amending act)"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Kanun Hükmünde Kararname 24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte yürürlüğe girer"
+  ],
+  "repeal_notes": [
+    "Bu KHK 5/3/2022 tarihli ve 7381 sayılı Kanunun 27 nci maddesiyle yürürlükten kaldırılmıştır."
+  ],
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=24&MevzuatNo=702&MevzuatTertip=5",
+  "source_sha256": "288dcbb73ed1d667caccbc0df102c3d314feec353413fc0ed056cddd726bedc4",
+  "source_bytes": 268193,
+  "words": 8977,
+  "source_images": 0,
+  "images_referenced": 0,
+  "images_deferred": 0,
+  "has_old_texts": false,
+  "history_note": "Earlier versions are not established by this current HTML source.",
+  "listing": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable (evidence/list/2026-11-17/mulga-00000.json)",
+  "listing_sha256": "2cf34025a8cb3779e733a85e74259f6abc229c240ed8b0da7218b98b01c70836",
+  "checked_on": "2026-11-17"
+}

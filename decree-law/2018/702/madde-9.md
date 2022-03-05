@@ -1,0 +1,2 @@
+Değiştirilen ve eklenen hükümler
+MADDE 9- (14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanunu ile ilgili olup yerine işlenmiştir.)(2)
