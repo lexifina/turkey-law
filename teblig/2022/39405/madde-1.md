@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 12/9/2020 tarihli ve 31242 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2020/21) ile Hindistan menşeli 3920.62.19.00.00, 3920.69.00.00.00 ve 3921.90.10.00.00 gümrük tarife istatistik pozisyonu altında kayıtlı “polietilen tereftalat (pet) film” ürününe yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
