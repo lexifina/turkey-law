@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "853",
+  "decision_date": "2022-03-08",
+  "source_id": 35394,
+  "chamber": "6",
+  "ilam_number": "403",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2015,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35394/",
+  "source_sha256": "215f35f7662f8a038d9e0015f3f4479057afe8c660bbd2f220f38ff05a33e2f9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
