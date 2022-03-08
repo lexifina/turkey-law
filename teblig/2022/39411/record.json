@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.39411",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "SATIŞ GİDERLERİ TARİFESİ",
+  "number": "39411",
+  "path": "teblig/2022/39411",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39411&MevzuatTertip=5",
+  "source_sha256": "4a380f0dd75cb9bdd62ef7db9e85a36abdb0eb30c11cee3a861d3df80a8030b4",
+  "source_bytes": 21647,
+  "published": "2022-03-08",
+  "gazette": "31772",
+  "in_force": "2022-03-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.03.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 538,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
