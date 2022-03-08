@@ -1,0 +1,2 @@
+Kıymetli evrak ve değerli şeylerin alındı makbuzu
+Madde 38 — Kıymetli evrak ve değerli şeylerin alındı makbuzu, dosya numarasını; kıymetli evrakı ve değerli şeyin alındığı kimsenin adını, soyadını; alınan şeyin cinsini, niteliğini, miktarını, takdir edilen kıymetini; kıymetli evrak ve değerli şeylerin kaydına özgü (Değişik ibare:RG-16/4/2013-28620) kayıt numarasını, tarihini; icra müdürünün veya yardımcısının adını, soyadını, imzasını ve mührü sütunlarını içeren ve iki nüsha olarak düzenlenen bedava ve pulsuz bir belgedir.

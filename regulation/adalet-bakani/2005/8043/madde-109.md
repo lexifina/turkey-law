@@ -1,0 +1,3 @@
+Para ve pulun kasada ayrı ayrı saklanması
+Madde 109 — (Değişik birinci fıkra:RG-16/4/2013-28620) İcra ve iflâs müdürleri, kasa kayıtlarına intikal ettirdikleri paralarla, harç ve cezaevi yapı harcını kasada ayrı yerlerde saklarlar.
+İcra ve iflâs müdürlüğü görevinin mahkeme yazı işleri müdürü, yazı işleri müdür yardımcısı veya kâtibi tarafından yürütüldüğü yerlerde, bunların diğer görevleri sebebiyle aldıkları ve saklamak zorunda oldukları para, pul ve kıymetli evrak ve değerli şeyler, icra ve iflâs dairesine ait para, pul ve kıymetli evrak ve değerli şeylerle karıştırılmayarak, kasada ayrı ayrı yerlerde saklanır.

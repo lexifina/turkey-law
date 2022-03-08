@@ -1,0 +1,3 @@
+Harç tahsil müzekkeresi
+Madde 64 — Harç tahsil müzekkeresi 492 sayılı Harçlar Kanununun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya numarası, ilgili icra ve iflâs dairesinin adı, yükümlünün adı, soyadı, son yerleşim yerindeki adresi, harcın kesinleştiği tarih, harcın türü ve niteliği, miktarı, hangi yer maliye dairesine hitaben yazıldığı, harcın kanunî dayanağı, tarih, sütunları ile icra müdürünün imza ve mührünü içerir.
+(Değişik ikinci fıkra:RG-16/4/2013-28620) Bu müzekkerenin tarih ve sayısı, esas kaydının, “düşünceler” sütununa işlenir ve müzekkerenin bir örneği dosyasında saklanır; bir örneği özel kartonuna konulur, diğer örneği de zimmet kaydına işlenir ve maliyeye verilir.

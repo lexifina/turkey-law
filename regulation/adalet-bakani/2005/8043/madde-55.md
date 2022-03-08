@@ -1,0 +1,4 @@
+İflâsın açılmasına, kapanmasına ve kaldırılmasına ilişkin ilân
+Madde 55 — İcra ve İflas Kanununun 166 ncı maddesine göre iflâs kararı verildiğinin ilânı ile 254 üncü maddeye göre iflâsın kapanmasına ilişkin kararın ilânında, iflâs dosya numarası, müflisin adı, soyadı, adresi, iflâsın açılması veya kapanması kararının hangi mahkeme tarafından verildiği, kararın tarih ve sayısı ile özeti yazılır.
+İcra ve İflas Kanununun 182 nci maddesine göre iflâsın kaldırılmasına ilişkin ilânda, iflâs dosya numarası; müflisin adı, soyadı ve adresi ile iflâsın kaldırılması kararının hangi mahkeme tarafından verildiği; kararın tarih ve sayısı ile özeti yazılır.
+İcra ve İflas Kanununun 179/a maddesine göre iflâsın ertelenmesine ilişkin yapılacak ilânda, kararın hangi mahkeme tarafından verildiği, karar tarihi ve sayısı, borçlu şirket veya kooperatifin adı ve adresi ile kararın hüküm fıkrası yazılır.

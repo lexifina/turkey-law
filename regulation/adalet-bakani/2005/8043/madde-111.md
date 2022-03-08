@@ -1,0 +1,3 @@
+Kasa ve pul fazlası hakkında yapılacak işlem
+MADDE 111 – (Değişik:RG-16/4/2013-28620)
+Kasanın kontrolü veya yapılan teftiş ve denetim sonucunda kasada bulunduğu anlaşılan fazla para, tek kalem halinde açıklama yapılarak birim kasa hesabına tahsilât makbuzu kesilmek suretiyle kasa kaydına işlenir. Her yıl sonu, tespit edilen bu fazlalığın yeni yıla devredilerek adı geçen kayıtta gösterilmesi ve İcra ve İflâs Kanununun 362 ve 492 sayılı Kanunun 36 ncı maddesi hükümleri çerçevesinde on yıllık zamanaşımı sonuna kadar ilgilinin başvurusunun beklenmesi; zamanaşımı işledikten sonra Hazineye gelir kaydedilmek üzere makbuz karşılığında maliyeye yatırılması ve makbuzun özel kartonunda saklanması zorunludur.

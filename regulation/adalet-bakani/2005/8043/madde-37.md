@@ -1,0 +1,3 @@
+Taşınır rehninin paraya çevrilmesinde borçlunun mal beyanında bulunmasına davet kâğıdı
+Madde 37 — Bu davet kâğıdı, 30 uncu maddenin birinci fıkrasının (f) bendi gereğince, alacaklı takibin haciz yolu ile devamını istediği takdirde, borçluya mal beyanında bulun-ması için gönderilen bir kâğıt olup, buna dosya numarası, alacaklı ve borçlunun varsa vekili veya kanuni temsilcilerinin adı, soyadı ve yerleşim yerleri; borçlunun yedi gün içinde, İcra ve İflas Kanununun 74 üncü maddesine ve 147 nci maddesinin birinci fıkrasının (2) numaralı bendine göre mal beyanında bulunması; bulunmazsa hapisle tazyik edileceği; hiç mal beyanında bulunmazsa hapisle cezalandırılacağı ihtarı,
+yazılır.

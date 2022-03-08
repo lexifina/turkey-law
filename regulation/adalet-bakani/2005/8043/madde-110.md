@@ -1,0 +1,5 @@
+Sorumluluk
+Madde 110 — Kasa hesaplarının müdür tarafından tutulması zorunludur.
+Kasa (Değişik ibare:RG-16/4/2013-28620) kaydına göre kasada ve bankada bulunması gereken para miktarı ile mevcut para miktarı arasında hesap hatasından kaynaklanmadığı anlaşılan uyumsuzluktan, bu hesapları tutan ve bunları saklamak ile görevli olan müdür sorumludur.
+Dosya, (Mülga ibare:RG-16/4/2013-28620) (…) ve kartonların saklanması ve kaybolmasından icra ve iflâs müdürü, icra mahkemesi işlerinde icra mahkemesi yazı işleri müdürü sorumludur. Ancak, usulen yapılmış bir iş dağılımı mevcutsa, bu işle görevlendirilen kimse sorumlu olup, bu hal, gözetim görevi bakımından icra ve iflâs müdürü ile icra mahkemesi işlerine bakan yazı işleri müdürünü sorumluluktan kurtaramaz.
+İcra ve İflas Kanununun 9 uncu ve bu Yönetmeliğin 92 nci maddesi uyarınca, alınan para ve değerli şeylerin Adalet Bakanlığının tespit ettiği bankalardan başka bir bankaya yatırılması halinde, icra ve iflâs müdürü veya sayman sorumludur. Ancak bu sorumluluğun derecesi, yatırılmış para ve değerli şeyin miktarının çokluğuna uygun şekilde artar.

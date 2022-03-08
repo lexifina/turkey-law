@@ -1,0 +1,4 @@
+Reddiyat makbuzu
+MADDE 62 – (Değişik:RG-16/4/2013-28620)
+Reddiyat makbuzu, kasa kaydına işlenen paraların reddinde doldurulan bir makbuzdur. Bu makbuzda, sıra ve dosya numarası, alacaklının ve borçlunun ad ve soyadı, tahsilât makbuzundaki numara, tarih ve miktar ile reddedilen paraların miktarı, bundan kesilecek tahsil ve cezaevi harcı, verilmesi gereken paranın rakam ve yazı ile belirtilecek miktarı, tarih, müdürün imza ve mühürü bulunur.
+İcra ve iflâs dairelerinden, başka bir icra ve iflâs dairesine Posta ve Telgraf Teşkilâtı ve banka aracılığı ile gönderilmesi gereken toplu para on ve daha fazla dosyayı ilgilendirdiği takdirde bu paraların toplamı için tek bir reddiyat makbuzu kesilebilir. Bu makbuz UYAP’ta kayıtlı dosyalarına eklenir. Reddiyat makbuzu ve cetvelde yer alan paraların çıkışı, usulünce kasa kaydında gösterilir ve ait olduğu dosyalara işlenir.

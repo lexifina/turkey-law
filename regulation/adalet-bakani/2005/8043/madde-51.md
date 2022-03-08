@@ -1,0 +1,2 @@
+Borç ödemeden aciz vesikası
+Madde 51 — Bu vesikaya, dosya numarası; alacaklının ve borçlunun adları, soyadları ve yerleşim yerindeki adresleri; takibin hangi yolla yapıldığı; yapılan işlem sonucu; alacağın faiz ve gideri ile birlikte miktarı; aciz vesikasının ne miktar alacak için verildiği ve kanunî dayanağı; ayrıca takip, iflâs yolu ile yapılmakta ise müflisin alacağı kabul veya reddettiği hususu da İcra ve İflâs Kanununun 251 inci maddesi gereğince yazılır; vesika, icra müdürü tarafından imzalanır ve mühürlenir.

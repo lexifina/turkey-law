@@ -1,0 +1,2 @@
+İlâmın icrası belgesi
+Madde 52 — İlâmın icrası belgesi, borçlu istediği takdirde, kendisine bedava ve pulsuz olarak verilen bir belge olup bu belgeye, dosya numarası; alacaklının adı, soyadı; ilâm veya ilâm niteliğindeki belgenin verildiği makam veya merciin adı; tarihi; numarası, ilâmın ne derece yerine getirildiği; tamamen veya kısmen yerine getirme tarihi yazılır; icra müdürü tarafından imzalanır ve mühürlenir.

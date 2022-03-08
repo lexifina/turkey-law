@@ -1,0 +1,3 @@
+İtiraz belgesi
+Madde 40 — Ödeme emrine karşı yapılacak her türlü itiraz halinde borçluya dosya numarası; borçlunun adı ve soyadı; itirazın niteliği ve tarihini içeren bedava ve pulsuz bir belge verilir. Bu belge icra müdürü veya yardımcısı tarafından imzalanıp onaylandıktan sonra diğer nüshası dosyasına konulur. Ayrıca dosyada saklanacak nüshaya ilgilinin imzası alınır.
+İtiraz, takibi yapan icra dairesinden başka yer icra dairesine yapıldığı takdirde, bu daire gereken gideri, itirazla birlikte alır; yukarıdaki fıkraya göre düzenlenen belgede bu hususu belirtir ve itirazı derhal yetkili icra dairesine gönderir.

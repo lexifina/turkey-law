@@ -1,0 +1,21 @@
+Cumhuriyet savcılıklarınca yapılacak teftişte gözönünde bulundurulacak hususlar
+Madde 104 — Cumhuriyet savcıları, icra ve iflâs dairelerini teftişleri sırasında:
+a) Teftişe başlarken kasaya el koyarak, kasa (Mülga ibare:RG-16/4/2013-28620) (…) kayıtları esas alınmak üzere kasada ve bankada bulunması gereken para miktarı ve son tahsilât ve reddiyat makbuzu numaralarını bir tutanakla tespit ettikten sonra, banka ve maliyeden alınacak cevapları tespit tutanağı ile karşılaştırıp, mevcut ile kayıtlar ve cevaplar arasında bir uyumsuzluk bulunduğu takdirde bunun nedeni ve farkın nereden ileri geldiği,
+b) Paraların tahsil ve reddinde makbuz kullanılıp kullanılmadığı, makbuz içeriklerinin günü gününe ve aynen kayıtlara geçirilip geçirilmediği, kasa (Değişik ibare:RG-16/4/2013-28620) kaydında günlük toplamların bağlanarak sayfa toplamalarının doğru ve düzenli olarak yapılıp yapılmadığı,
+c) Kıymetli evrak ve değerli şeylerin alınmasında 38 inci maddedeki makbuzun kullanılıp kullanılmadığı,
+d) İcra dairelerince tahsil olunan para veya alınan kıymetli evrak ve değerli şeylerin bankaya yatırılmasında veya verilmesinde İcra ve İflas Kanununun 9 uncu ve bu Yönetmeliğin 93 üncü maddeleri hükümlerine uyulup uyulmadığı,
+e) Kasa (Değişik ibare:RG-16/4/2013-28620) kaydında yıl sonlarında ayrıntılı devir yapılıp yapılmadığı,
+f) Bankadaki para faizleri ile zamanaşımına uğrayan paraların zamanında maliyeye aktarılıp aktarılmadığı, bu hususu belgelendiren makbuzların özel bir kartonda saklanıp saklanmadığı,
+g) Posta ve banka aracılığı ile gelen paraların günü gününe (Değişik ibare:RG-16/4/2013-28620) kayıtlara geçirilip geçirilmediği,
+h) İcra takiplerine ait işlemlerde haciz ve satış işlerinin İcra ve İflas Kanununun hükümlerine uygun şekilde ve kanunî süre içinde yapılmasına dikkat edilip edilmediği,
+ı) İş durumuna göre sondaj suretiyle derdest, icra etme/yerine getirme, takipsizlik ve vazgeçmeyle işlemden kaldırılan yeter sayıda dosyanın incelenmesiyle, gerekli harç ve cezaevi yapı (Değişik ibare:RG-16/4/2013-28620) harcının doğru olarak hesaplanıp hesaplanmadığı,
+j) Haciz ve satış işlemleri için alınan gider ve ücretlerin kanuna uygun olarak hesaplanıp hesaplanmadığı,
+k) Diğer icra ve iflâs dairelerinden gelen talimatların kayıt ve dosyalarının düzenli olup olmadığı ve bunlara ait işlemlerde bir gecikme ve yolsuzluk bulunup bulunmadığı, artan para varsa gecikmeksizin iade edilip edilmediği,
+l) İcra ve İflas Kanununun 223 üncü maddesi ile iflâs dairelerine yükletilen görevlerin yerine getirilip getirilmediği,
+m) Takip dosyaları, tutanaklar ve kartonların tertip ve düzenlenmesi ve basılı kâğıtların kullanılmasında kanun, tüzük ve yönetmelik hükümlerine uyulup uyulmadığı,
+n) İcra ve iflâs dairelerinde kullanılması gereken (Değişik ibare:RG-16/4/2013-28620) kayıtlarının usûlüne uygun şekilde tutulup tutulmadığı,
+o) 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu ve Tebligat Tüzüğü hükümlerine uyulup uyulmadığı,
+p) Devir, gelen ve çıkan iş miktarları gözönünde tutularak, işlerin yığılmasına neden olunup olunmadığı,
+r) İcra ve iflâs dairelerinin bulunduğu yerin ekonomik durumu dikkate alınarak büyük meblâğa ilişkin olduğu kanısına varılan reddiyat makbuzları sondaj usulü ile incelenip, içeriklerinin dosya kayıtlarına uygun olup olmadığı ve bankadan para çekilmesini haklı gösterir nedenlerin bulunup bulunmadığı,
+s) Yukarıdaki bentler dışında kalıp, teftişinde yarar olduğu düşünülen diğer konularda kanun, tüzük ve yönetmelik hükümlerine uyulup uyulmadığı,
+hususlarını gözönünde bulundururlar.

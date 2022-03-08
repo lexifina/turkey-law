@@ -1,0 +1,2 @@
+Davet kâğıdı
+Madde 45 — Davet kâğıdı, haciz, alacaklı veya borçlunun veya her ikisinin yokluğunda yapılmış ise, haciz sırasında hazır bulunmayanlara, 41 inci madde uyarınca düzenlenmiş haciz tutanağına karşı diyeceklerini bildirmek üzere yapılan davete ilişkin olup, dosya numarasını; alacaklı ve borçlunun ad ve soyadlarını; varsa vekillerinin ad, soyad ve adreslerini; haczin yapıldığı tarihi içerir; bu davet kâğıdında, üç gün içinde haciz tutanağı incelenerek hacze karşı diyeceklerini bildirmeleri hususu da ihtar olunur.

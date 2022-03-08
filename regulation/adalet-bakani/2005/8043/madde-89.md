@@ -1,0 +1,2 @@
+İhzar müzekkeresi (sanıklar için)
+Madde 89 — İhzar müzekkeresi, genel olarak davetiye tebliğine rağmen duruşmaya gelmeyen sanıkların zorla getirilmesini sağlamak üzere kullanılan bir müzekkere olup, ihzar kararını veren icra mahkemesinin adı; sanığın adı, soyadı, yerleşim yeri ve işyeri adresi; dosya numarası; çağrıldığı davanın davacısı; suçun türü; ihzar kararı verilmesi nedeni; duruşma günü ve saati; müzekkerenin düzenlenme tarihi; hâkim ve kâtibin imzaları ve mahkeme mührü sütunlarını içerir.

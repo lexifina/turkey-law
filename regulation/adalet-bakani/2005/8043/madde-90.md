@@ -1,0 +1,3 @@
+Harç tahsil müzekkeresi
+Madde 90 — Harç tahsil müzekkeresi 492 sayılı Kanunun 28 ve 130 uncu maddeleri uyarınca düzenlenecek bir müzekkeredir. Bu müzekkere, dosya numarası; icra mahkemesinin adı; yükümlünün adı, soyadı, son yerleşim yeri adresi; harcın kesinleştiği tarih; harcın türü ve niteliği, miktarı; hangi yer maliye dairesine hitaben yazıldığı; harcın kanunî dayanağı; tarih ve hâkimin imza ve mührü sütunlarını içerir.
+Bu müzekkerenin tarih ve sayısı, esas (Değişik ibare:RG-16/4/2013-28620) kaydının "düşünceler" sütununa işlenir ve müzekkerenin bir örneği dosyasında saklanır, bir örneği özel kartonuna konulur, diğer örneği de zimmet (Değişik ibare:RG-16/4/2013-28620) kaydına işlenerek maliyeye verilir.

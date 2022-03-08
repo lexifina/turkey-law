@@ -1,0 +1,71 @@
+{
+  "source_id": "7.5.8043",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İCRA VE İFLÂS KANUNU YÖNETMELİĞİ",
+  "number": "8043",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2005/8043",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8043&MevzuatTertip=5",
+  "source_sha256": "32392e6c14192527fb84b804e811a994fc938a36f36028eca6b238a9209b6e6d",
+  "source_bytes": 232709,
+  "published": "2005-04-11",
+  "gazette": "25783",
+  "in_force": "2022-03-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/3/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-03-08",
+      "RG-8/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-08",
+      "8/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-03",
+      "RG-3/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-03",
+      "3/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-04-17",
+      "RG-17/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-04-16",
+      "RG-16/4/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2007-06-27",
+      "RG-27/06/2007",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11247,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.8043%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

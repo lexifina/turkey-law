@@ -1,0 +1,2 @@
+İhzar müzekkeresi (tanıklar için)
+Madde 88 — İhzar müzekkeresi genel olarak, davetiye tebliğine rağmen duruşmaya gelmeyen tanıkların zorla getirilmesini sağlamak üzere kullanılan bir müzekkere olup, ihzar kararını veren icra mahkemesinin adı; dosya numarası; tanığın adı ve soyadı, yerleşim yeri ve işyeri adresi; çağrıldığı davanın davacısı veya sanığı; suçun türü; ihzar kararı verilmesi sebebi; duruşma günü ve saati; düzenlenme tarihi; hâkim ve kâtibin imzaları ve mahkeme mührü sütunlarını içerir.
