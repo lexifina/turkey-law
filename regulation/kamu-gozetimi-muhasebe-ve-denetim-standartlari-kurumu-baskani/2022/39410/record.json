@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39410",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU GÖZETİMİ, MUHASEBE VE DENETİM STANDARTLARI KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39410",
+  "issuer": "Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı",
+  "issuer_slug": "kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani",
+  "path": "regulation/kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani/2022/39410",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39410&MevzuatTertip=5",
+  "source_sha256": "e76f7f2f155ac23711ac4c3db988f233fc3c8da1390c09127a69ffc484ec0b87",
+  "source_bytes": 16496,
+  "published": "2022-03-08",
+  "gazette": "31772",
+  "in_force": "2022-03-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 196,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39410-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
