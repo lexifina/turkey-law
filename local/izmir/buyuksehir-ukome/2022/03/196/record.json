@@ -1,0 +1,25 @@
+{
+  "number": "196",
+  "number_as_published": "196",
+  "year": 2022,
+  "title": "UKOME kararı 2022/196",
+  "decision_date": "2022-03-09",
+  "source": "https://www.izmir.bel.tr/tr/UkomeKararlari/UkomeKararlariGetirJS?draw=1&start=500&length=500&baslangicTarihi=01.01.2022&bitisTarihi=31.12.2022&kararNo=&konuKodu=&ilceId=&sokakKodu=&teklif=&asilKararNo=",
+  "official_document": null,
+  "source_sha256": "ad9ef5c79cd3699fcbbae85c1cc88d7de8d2e6736a06155cfed97176e77ed883",
+  "issuer": "İzmir Büyükşehir Belediyesi UKOME",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2022-03-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 9/03/2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "official_page": "https://www.izmir.bel.tr/tr/UkomeKararlari/64",
+  "register_id": 11618,
+  "file_name": "2022.196.pdf",
+  "district": null
+}
