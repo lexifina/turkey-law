@@ -1,0 +1,3 @@
+Başkan
+MADDE 5- (1) Kurul Başkanı aynı zamanda Kurumun da Başkanı olup Kurumun en üst yöneticisidir. Başkan, kanunlarda, Kararnamede ve ilgili diğer mevzuatta belirtilen görev ve yetkilerin yerine getirilmesinden sorumludur.
+(2) Kararnamenin 10 uncu maddesinin ikinci fıkrası uyarınca Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde bulunmadığı diğer haller ile görevden alınması durumunda İkinci Başkan, onun da bulunmadığı hallerde Kurul tarafından belirlenen bir üye Başkana vekâlet eder. Başkan ve İkinci Başkanın bulunmadığı hâllerde Başkana vekâlet edecek üye, Kurulun her yıl Ocak ayında yapacağı ilk toplantıda Kurul kararıyla belirlenir.

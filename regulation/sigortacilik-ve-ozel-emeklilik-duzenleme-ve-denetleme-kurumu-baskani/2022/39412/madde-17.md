@@ -1,0 +1,5 @@
+Kurul üyelerinin hizmet birimleriyle ilişkileri ve bilgi isteme
+MADDE 17- (1) Üyeler, Kurum hizmet birimlerinin çalışmalarına müdahale edemeyecekleri gibi Kurum personeline emir ve talimat da veremezler. Üyelerin hizmet birimleri ile ilişkileri Başkan ve Kurul Hizmetleri Müdürlüğü aracılığıyla sağlanır. Kurul üyelerinin, Kurul Hizmetleri Müdürlüğü aracılığıyla daire başkanları ile diğer birim amirlerinden istedikleri bilgi ve belgeler kendilerine gecikmeksizin sunulur.
+(2) Kurumun düzenlemek ve denetlemekle görevli olduğu kuruluşlar ile ilgili önemli tedbirler ve uygulamalar, bunları yakın izlemede elde edilen mali tablo bilgileri talepleri halinde Kurul üyelerine düzenli olarak ulaştırılır.
+(3) Denetim raporları, talepleri halinde Kurul Hizmetleri Müdürlüğü aracılığıyla bir liste halinde Kurul üyelerine duyurulur. Kurul üyelerinin, raporları inceleme talepleri gecikmeksizin yerine getirilir ve incelemeler Kurul üyelerince en geç iki gün içinde tamamlanır.
+(4) Standart mali tablolar sigorta ve emeklilik şirketleri itibarıyla ve konsolide bazda talepleri halinde üyelere zamanında gönderilir.

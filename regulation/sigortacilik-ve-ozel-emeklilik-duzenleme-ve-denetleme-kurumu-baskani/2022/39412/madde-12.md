@@ -1,0 +1,3 @@
+Müzekkereler
+MADDE 12- (1) Kurul kararına dayanak teşkil edecek müzekkereler, ilgili başkan yardımcısı veya doğrudan Başkana bağlı birim yöneticileri tarafından Kurul Başkanlığına hitaben hazırlanır. Müzekkerelerde konuya ilişkin görüş bildirilmesi ve kararın alınmasına yardımcı olacak her türlü bilgi ve dokümandan bahsedilmesi esastır. Ayrıca, denetleyici nitelikteki Kurul kararı alınmasını gerektiren müzekkerelerde, 16 ncı maddenin üçüncü fıkrası uyarınca yayımlanıp yayımlanmayacağı hususunda da görüş belirtilir. Müzekkerede geçen dokümanların müzekkere eki olarak Kurul Başkanlığına iletilmesi zorunludur.
+(2) Başkan tarafından uygun görülen müzekkereler Kurul Hizmetleri Müdürü tarafından gündem metnine eklenir.

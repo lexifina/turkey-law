@@ -1,0 +1,6 @@
+Toplantılar ve gündem
+MADDE 7- (1) Kurul, en az iki haftada bir defa olmak üzere, gerekli hallerde, Başkan tarafından belirlenen gün ve saatte toplanır.
+(2) Toplantıyı Başkan, yokluğunda İkinci Başkan yönetir. Toplantının gündemi Başkan, yokluğunda İkinci Başkan tarafından hazırlanarak toplantı tarihinden en az üç gün önce Kurul üyelerine bildirilir. Her toplantıda Başkan tarafından Kurumun faaliyetleri hakkında Kurula bilgi verilir. Gündeme yeni madde eklenebilmesi için toplantı başlamadan önce bir üyenin öneride bulunması ve önerilen maddenin gündeme eklenmesinin Kurul tarafından kabul edilmesi gerekir. Kurul, üyelerin talebi halinde Kurum merkezi dışında merkeze bağlı birimleri de ilgili üyenin daimi çalışma yeri olarak belirleyebilir.
+(3) Tüm gündem maddeleri ilgili toplantıda görüşülemezse görüşülemeyen maddeler herhangi bir işleme gerek kalmaksızın bir sonraki toplantı gündemine taşınır.
+(4) Toplantılar esas itibarıyla Kurum merkezinde ve merkeze bağlı birimlerde yapılır. Kurul toplantıları, Kurul tarafından önceden kararlaştırılmak suretiyle yurt içinde başka yerlerde de yapılabilir.
+(5) Toplantıların fiziki olarak yapılması esas olmakla birlikte ihtiyaç duyulması ve Başkanın uygun görmesi halinde gerekli güvenlik önlemleri alınarak elektronik ortamda toplantı yapılabilir ya da elektronik yollarla toplantıya katılım sağlanabilir.

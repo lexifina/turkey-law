@@ -1,0 +1,4 @@
+Üyeler
+MADDE 6- (1) Kararnamenin 6 ncı maddesinin ikinci fıkrası uyarınca, anılan fıkrada yer alan; göreve başladıkları tarihten itibaren, birinci dereceye kadar kan hısımlarının, evlatlıklarının ve aralarındaki evlilik bağı kalkmış olsa bile eşlerinin Kurumun düzenlemek ve denetlemekle sorumlu olduğu kuruluşlarda görev almadığını ve bu kuruluşlarda pay sahibi olmadıklarını temin ve beyan etme yükümlülüğünü, göreve başlama tarihinden itibaren otuz gün içinde yerine getirmeyen üye üyelikten çekilmiş sayılır.
+(2) Kararnamenin 8 inci maddesinin ikinci fıkrası uyarınca, geçerli mazeretleri olmaksızın arka arkaya dört toplantı veya bir takvim yılında toplam on toplantıya katılmamaları hâllerinde üyelikten çekilmiş sayılırlar. Bu durum, Kurul kararı ile tespit edilir ve Hazine ve Maliye Bakanlığına bildirilir.
+(3) Üyeler görevlerini yaparken bağımsızdır. Hiçbir makam, merci veya kişi üyelerin kararını etkilemek amacıyla telkin veya istekte bulunamaz.

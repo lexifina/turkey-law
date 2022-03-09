@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39412",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİGORTACILIK VE ÖZEL EMEKLİLİK DÜZENLEME VE DENETLEME KURULU ÇALIŞMA USUL VE ESASLARI YÖNETMELİĞİ",
+  "number": "39412",
+  "issuer": "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/sigortacilik-ve-ozel-emeklilik-duzenleme-ve-denetleme-kurumu-baskani/2022/39412",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39412&MevzuatTertip=5",
+  "source_sha256": "a5914ad422df33da58ce6b5918a3e5f13632d078fb128d8a1902019b8970a0cc",
+  "source_bytes": 59351,
+  "published": "2022-03-09",
+  "gazette": "31773",
+  "in_force": "2022-03-09",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (09.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1651,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
