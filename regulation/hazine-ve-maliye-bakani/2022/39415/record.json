@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39415",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE VE MALİYE BAKANLIĞI MUHASEBE DENETMENLİĞİ YÖNETMELİĞİ",
+  "number": "39415",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2022/39415",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39415&MevzuatTertip=5",
+  "source_sha256": "791b83548f796f8f89961fd39c51b61f1ab4f9680d7e7b9a42e85e207b250da8",
+  "source_bytes": 95219,
+  "published": "2022-03-10",
+  "gazette": "31774",
+  "in_force": "2022-03-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4791,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
