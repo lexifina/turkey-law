@@ -1,0 +1,22 @@
+{
+  "number": "41",
+  "number_as_published": "2022/41",
+  "year": 2022,
+  "title": "Alibeyköy Mahallesi bilirkişi seçimi",
+  "decision_date": "2022-03-10",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-mart-ayi-meclis-kararlari/2227",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-41/2232",
+  "source_sha256": "ff4b9a4767abbe254f585a9a21176a12cacd98d142756110ab006d82c716b243",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-03-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10.03.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "b21be9d360db51f24d8ac07c3670746955c6aea8ab49ec99952a5cb7e6ec6e3c"
+}
