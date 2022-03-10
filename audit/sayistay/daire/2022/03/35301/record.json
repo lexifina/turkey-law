@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35698",
+  "decision_date": "2022-03-10",
+  "source_id": 35301,
+  "chamber": "2",
+  "ilam_number": "33",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35301/",
+  "source_sha256": "d34090b4e2f4bdc29d9ada862b03110dbd749bd4f6f0065804ec4f09d39248cb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
