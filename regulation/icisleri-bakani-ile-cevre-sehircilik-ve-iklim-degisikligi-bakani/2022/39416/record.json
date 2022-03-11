@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39416",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MAHALLİ İDARELER DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39416",
+  "issuer": "İçişleri Bakanı ile Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "icisleri-bakani-ile-cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/icisleri-bakani-ile-cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39416",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39416&MevzuatTertip=5",
+  "source_sha256": "ed6e7a23941abbd3c40c64da4075fef782dd5b0e24e6dda49abdcfb4bf73cf25",
+  "source_bytes": 15352,
+  "published": "2022-03-11",
+  "gazette": "31775",
+  "in_force": "2022-03-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 181,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39416-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
