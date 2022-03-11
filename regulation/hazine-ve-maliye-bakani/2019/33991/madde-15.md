@@ -1,0 +1,5 @@
+Denetime tabi olanların yükümlülükleri ve sorumlulukları
+MADDE 15 – (1) Denetime tabi gerçek ve tüzel kişiler, denetim için gereken gizli dahi olsa bütün belge, defter ve bilgileri talep edildiği takdirde ibraz etmek, para ve para hükmündeki evrakı ve ayniyatı ilk talep halinde göstermek, sayılmasına ve incelenmesine yardımcı olmak zorundadır.
+(2) İlgililer, Hazine ve Maliye Müfettişinin göreviyle ilgili bilgi taleplerini karşılamak ve her türlü yardım ve kolaylığı göstermekle yükümlüdür.
+(3) Denetime tabi kuruluşların yöneticileri, hizmetin gereği gibi yürütülebilmesi için Hazine ve Maliye Müfettişine, görevleri süresince uygun bir çalışma yeri sağlamak ve diğer tedbirleri almak zorundadır.
+(4) Denetlenen kuruluş ya da birim görevlilerinin, hastalık ve benzeri zorunlu nedenler dışında, izne ayrılmasından önce Hazine ve Maliye Müfettişinin olumlu görüşü alınır. İzin kullanmaya başlamış olan görevliler, Hazine ve Maliye Müfettişi tarafından gerekli görülmesi halinde en kısa sürede görevlerine başlamak zorundadır.

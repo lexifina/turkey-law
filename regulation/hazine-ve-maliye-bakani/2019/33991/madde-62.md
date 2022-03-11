@@ -1,0 +1,2 @@
+Hazine ve Maliye Müfettişliğinden ayrılmada yapılacak işlemler
+MADDE 62 – (1) Hazine ve Maliye Müfettişliğinden ayrılanlar; sonuçlandırılmış görevlere ilişkin raporları, henüz sonuçlandırılmamış görevlere ilişkin belgeleri, kendilerine teslim edilen resmi mührü, kimlik belgesini, demirbaş ve diğer eşyayı ayrılmadan önce Başkanlığa iade etmek zorundadır. Sonuçlandırılmamış görevlere ilişkin işlemler hakkında 47 nci madde hükümleri uygulanır.

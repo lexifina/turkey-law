@@ -1,0 +1,3 @@
+Kazanılmış haklar
+GEÇİCİ MADDE 1 – (1) 7/8/2019 tarihli ve 30855 sayılı Resmî Gazete’de yayımlanan 43 sayılı Bazı Cumhurbaşkanlığı Kararnamelerinde Değişiklik Yapılması Hakkında Cumhurbaşkanlığı Kararnamesinin geçici 1 inci maddesi uyarınca, Hazine ve Maliye Başmüfettişi, Hazine ve Maliye Müfettişi, Hazine ve Maliye Müfettiş Yardımcısı kadrolarına atananların, atanma tarihinden önceki kadrolarında geçirdikleri süreler atandıkları kadrolarda geçmiş sayılır.
+(2) 43 sayılı Cumhurbaşkanlığı Kararnamesinin geçici 1 inci maddesine istinaden atananların, önceki kurumlarında ihraz ettikleri yeterlikleri Başkanlıkta ihraz edilmiş sayılır.

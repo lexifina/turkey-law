@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.33991",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HAZİNE VE MALİYE BAKANLIĞI TEFTİŞ BAŞKANLIĞI YÖNETMELİĞİ",
+  "number": "33991",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2019/33991",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33991&MevzuatTertip=5",
+  "source_sha256": "603924b3dff6497277ed8b31a36893ebe6733b168ca5c82e6ed55f7819f51741",
+  "source_bytes": 135477,
+  "published": "2019-11-26",
+  "gazette": "30960",
+  "in_force": "2022-03-11",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-11/3/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-03-11",
+      "RG-11/3/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-03-11",
+      "11/3/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7567,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

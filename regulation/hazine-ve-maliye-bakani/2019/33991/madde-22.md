@@ -1,0 +1,3 @@
+Sınava çağrılma ve sınav giriş belgesi
+MADDE 22 – (1) KPSS’de alınan puan sıralaması esas alınarak, açıktan atama izni alınmış kadro sayısının (Değişik ibare:RG-11/3/2022-31775) yirmi katını aşmamak üzere duyuruda belirtilen sayıda aday ve puanı Başkanlığın resmi internet adresinde yapılacak ilanla duyurulur. Son sıradaki adayla aynı puanı alan adaylar da giriş sınavına çağrılır. (Ek cümle:RG-11/3/2022-31775) Sınav ilanında atama yapılacak kadro sayısının fakülte ve/veya bölümler itibarıyla ayrı ayrı belirlenmesi durumunda giriş sınavına çağrılacak aday sayısı da ayrı ayrı hesaplanır.
+(2) Sınava katılacak olanlar için sınavın yapılacağı yer ve tarihin de belirtildiği fotoğraflı sınav giriş belgesi düzenlenir. Sınava katılabilmek için bu belgenin ibrazı şarttır.

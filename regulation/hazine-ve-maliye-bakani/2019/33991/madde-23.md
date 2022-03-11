@@ -1,0 +1,8 @@
+Sınav konuları
+MADDE 23 – (1) Giriş sınavı soruları (Ek ibare:RG-11/3/2022-31775) en az dört yıllık lisans eğitimi veren iktisat, siyasal bilgiler, işletme, iktisadi ve idarî bilimler fakültelerinden ya da bunlara denkliği yetkili makamlarca kabul edilen dört yıllık fakültelerden mezun olanlar için aşağıda belirtilen konu gruplarından hazırlanır:
+a) Maliye: Maliye Teorisi ve Maliye Politikası, Vergi Teorisi ve Türk Vergi Sisteminin Genel Esasları, Kamu Maliyesi.
+b) İktisat: Mikro ve Makro İktisat, İktisadi Düşünceler Tarihi, Para Teorisi ve Politikası, Türkiye Ekonomisi, Uluslararası İktisadi Kuruluşlar, Güncel Ekonomik Sorunlar.
+c) Hukuk: Anayasa Hukuku (Genel Esaslar), İdare Hukukunun Genel Esasları ve İdari Yargı, Ceza Hukuku ve Ceza Muhakemeleri Usulünün Genel Esasları, Medeni Hukuk (Aile Hukuku ve Miras Hukuku hariç), Borçlar Hukuku (Genel Esaslar), Ticaret Hukuku (Deniz Ticareti ve Sigorta Hukuku hariç).
+ç) Muhasebe: Genel Muhasebe, Temel Şirketler Muhasebesi, Temel Maliyet Muhasebesi, Mali Tablolar Analizi.
+(2) (Ek:RG-11/3/2022-31775) Giriş sınavı soruları en az dört yıllık lisans eğitimi veren hukuk fakülteleri, mühendislik fakültelerinin lisans bölümleri, matematik, istatistik, fen ve teknoloji bölümleri ya da bunlara denkliği yetkili makamlarca kabul edilen dört yıllık fakültelerden mezun olanlar için fakülteler ve/veya bölümlerin müfredatı dikkate alınarak Başkanlıkça belirlenen alan bilgisi konularından hazırlanır.
+(3) (Ek:RG-11/3/2022-31775) Birinci ve ikinci fıkralarda yer alan konu gruplarının ve Başkanlıkça belirlenen alan bilgisi konularının yazılı sınav notunun hesaplanmasında dikkate alınacak oransal ağırlıkları sınav duyurusunda belirtilir.

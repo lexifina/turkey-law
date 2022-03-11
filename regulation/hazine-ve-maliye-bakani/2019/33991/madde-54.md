@@ -1,0 +1,5 @@
+Ön inceleme raporu
+MADDE 54 – (1) Ön inceleme raporu, 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümlerine göre yapılan inceleme ve araştırmalar sonucu düzenlenen rapordur.
+(2) 4483 sayılı Kanuna göre yapılan ön incelemelerde, inceleme emrinin tarihi ve sayısı ile incelemeye nasıl başlandığı gösterilir. Hakkında ön inceleme yapılanın görevi ve kimliği, incelemeye konu olan olay ve suçlar, incelemenin ne şekilde geliştiği ile elde edilen deliller ve hakkında ön inceleme yapılan şahsın ifadesinin özeti ön inceleme raporuna yazılır.
+(3) Hazine ve Maliye Müfettişleri, hakkında inceleme yapılan memur veya diğer kamu görevlisinin ifadesini de almak suretiyle yetkileri dahilinde bulunan gerekli bilgi ve belgeleri toplayıp, görüşlerini içeren bir rapor düzenleyerek durumu izin vermeye yetkili mercie sunarlar. Ön inceleme, birden çok Hazine ve Maliye Müfettişi tarafından yapılmışsa, farklı görüşler raporda gerekçeleriyle ayrı ayrı belirtilir.
+(4) Düzenlenen ön inceleme raporlarının aslı ve yeterli sayıda örneği Başkanlığa gönderilir.
