@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 24- (1) İlgili mevzuatında belirtilen hususlar saklı kalmak üzere, sınav sonuçları için sonuçların açıklandığı tarihten itibaren en geç beş iş günü içinde faaliyeti düzenleyen ilgili genel müdürlüğe/il millî eğitim müdürlüğüne yazılı olarak itiraz edilebilir. Bu itirazlar sınav ve değerlendirme komisyonunca en geç on iş günü içinde incelenerek karara bağlanır ve sonuç itiraz sahiplerine bildirilir.

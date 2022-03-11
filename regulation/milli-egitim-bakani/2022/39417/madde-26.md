@@ -1,0 +1,3 @@
+Sınav evrakı
+MADDE 26- (1) Hizmet içi eğitim faaliyetine ait evrak merkezde ilgili genel müdürlükçe, mahallînde il millî eğitim müdürlüklerince arşivlenir ve MEBBİS’te ilgili modüle işlenir. Söz konusu evrakın bir örneği, hizmet içi eğitim faaliyetinin düzenlendiği hizmet içi eğitim merkezlerinde arşivlenir. Arşivleme işlemleri elektronik ortamda da yapılabilir.
+(2) Sınav soru ve cevap kâğıtları, yargıya konu olanlar bakımından dava sonuçlanıncaya kadar diğerleri ise bir yıl süreyle olmak üzere; mahallî olanlar il millî eğitim müdürlüklerince, merkezi olanlar hizmet içi eğitim faaliyetinin düzenlendiği hizmet içi eğitim enstitülerince, eğitim faaliyetinin hizmet içi eğitim enstitüleri dışında düzenlenmesi hâlinde ise ilgili genel müdürlükçe saklanır.
