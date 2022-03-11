@@ -1,0 +1,19 @@
+Eğitim süreci/esasları
+MADDE 22- (1) Sınavı kazanan personel;
+a) Tıpta, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitimine;
+1) İki yıllık kıta, kurum ve karargâh hizmetini tamamlayanlar sınavın yapıldığı yıl,
+2) İki yıllık kıta, kurum ve karargâh hizmetini tamamlamayanlar ise iki yıllık hizmetlerini tamamladıktan sonra,
+katılabilirler. Ancak, eğitim ve hizmetin aksamasının söz konusu olduğu hallerde acil ve zorunlu ihtiyaç bulunan uzmanlık branşlarının, günün şartları ve teknolojik gelişmelere uygun olarak kurulacak yeni birimlerin uzman personel ihtiyacını karşılamak amacıyla, aranan kıta, kurum ve karargâh hizmet süresi, gerektiğinde Bakanlıkça kısaltılabilir.
+b) Tıpta yan dal uzmanlık eğitimine;
+1) Tıpta uzmanlık unvanını aldıktan sonra, iki yıl uzmanlık kadrosunda çalışanlar sınavın yapıldığı yıl,
+2) Tıpta uzmanlık unvanını aldıktan sonra, iki yıl uzmanlık kadrosunda çalışmayanlar ise iki yıllık hizmetlerini tamamladıktan sonra,
+katılabilirler.
+(2) Tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitim ve öğretim süresi ilgili mevzuatta belirtilen süreler kadardır.
+(3) Tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitimine başlayan öğrenciler, eğitim kurumu ile bu Yönetmeliğe uygun olarak imzalanan protokol kapsamında, eğitim kurumunun eğitim ve öğretimle ilgili mevzuatına tabi olurlar.
+(4) Uzmanlık öğrencilerinin uzmanlık eğitimlerini yerleştirildikleri kurum ve birimlerde tamamlamaları esastır. Ancak:
+a) Eğitim yetkisi kaldırılan kurum ve birimlerdeki uzmanlık öğrencileri, Bakanlık ile Tıpta Uzmanlık Kurulunun tespit edeceği kurum ve birimle yapılacak protokol kapsamında nakledilir.
+b) Hastalık, vefat, istifa, emeklilik veya tayin gibi sebeplerle eğitim sorumlusunun bulunmadığı durumlar ile sahip olması gereken asgari nitelik ve standartları kaybeden birimlerdeki uzmanlık öğrencileri Bakanlık ile koordine kurularak, başka kurumlarda eğitim almak veya rotasyon yapmak üzere altı aya kadar görevlendirilirler. Bu süre içerisinde ilgili birimde eğitim sorumlusu istihdam edilemediği veya eğitime engel olan durumun ortadan kaldırılamadığı hallerde uzmanlık öğrencileri hakkında (a) bendi hükümleri uygulanır.
+(5) Bakanlık nam ve hesabına tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitiminde bulunanlardan, sağlık veya harekât ve benzeri görevlendirme sebepleri dışında kendi isteği ile eğitimi bırakan veya eğitimlerini ilgili mevzuatta belirtilen sürelerde tamamlayamayan personele 926 sayılı Kanunun 36 ncı maddesi hükümleri uygulanır.
+(6) Kendi istekleri ile tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitimine başlamadan eğitimden feragat edenler Milli Savunma Bakanlığı Sağlık İnsan Gücü Temin ve Yetiştirme Planı kapsamında bir sonraki dönem açılan uzmanlık kontenjanlarına başvuramazlar, müteakip dönemlerde açılan kontenjanlara ise başvurabilirler. Eğitimleri devam ederken uzmanlık sınavına giremezler.
+(7) Eğitim kurumu tarafından, tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitimini bitirme sınavında başarılı olanların, uzmanlığının tescili için gerekli işlemleri ilgili mevzuata göre yapılır. Ayrıca eğitim kurumu tarafından, uzmanlık belgelerinin Sağlık Bakanlığı veya Tarım ve Orman Bakanlığı tarafından tescil edilmesini müteakip uzmanlık belgeleri tescil edilen personel bilgileri Bakanlığa ve Bakanlık aracılığıyla personelin bağlı olduğu kuvvet komutanlığına bildirilir.
+(8) Tıpta uzmanlık, yan dal uzmanlık, diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık eğitimini bitirerek uzman unvanı alan personel, uzman unvanı aldıkları uzmanlık alanında, uzmanlık eğitimi süresinin yarısı kadar Bakanlığa bağlı kurum/birimlerde görev yapmadan, ikinci bir uzmanlık eğitimine başvuramaz.

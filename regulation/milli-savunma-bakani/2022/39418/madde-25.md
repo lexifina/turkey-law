@@ -1,0 +1,10 @@
+Başvuru koşulları ve başvuru süreci
+MADDE 25- (1) YÖK Başkanlığınca tespit edilen esaslar doğrultusunda, sağlık bilimleri alanında, eğitim kurumlarında yaptırılacak olan yüksek lisans ve doktora eğitim ve öğretimine aşağıda belirtilen personel başvurabilir:
+a) Personelin hangi hizmet yılları arasında Bakanlık nam ve hesabına lisansüstü eğitime gönderileceği ve bu kapsamda müracaat edebileceği yıllar Bakanlık tarafından belirlenir.
+b) Muvazzaf askerlik süresi hariç olmak üzere, Bakanlık bünyesindeki kuruluşlarda meslekleri ile ilgili olarak staj eğitimini müteakiben iki yıllık kıta/kurum/karargâh hizmet süresini (bu süre gerektiğinde Bakanlık tarafından kısaltılabilir) yüksek lisans veya doktora öğrenimine başlayacağı tarih itibarıyla tamamlayacak olanlar ile açılan programlar için belirlenecek alanlarda lisans/yüksek lisans diplomasına sahip olanlar.
+c) 20 nci maddenin birinci, ikinci ve üçüncü fıkralarında belirtilen şartlara haiz olanlar.
+(2) Yüksek lisans ve doktora eğitimine başvuruda, eğitim kurumunun mevzuatına göre belirlenmiş olan belgeler ile kuvvet komutanlıkları tarafından ihtiyaç duyulan bilgi ve belgeler adaylardan talep edilir.
+(3) Adaylar, yüksek lisans ve doktora program ve kontenjanlarının ilan edilmesini müteakip, başvuruda talep edilen bilgi ve belgeler ile otuz gün içerisinde dilekçe ile silsileler yoluyla ilgili kuvvet komutanlığına müracaatlarını yaparlar. İlgili kuvvet komutanlığınca 20 nci maddenin birinci, ikinci ve üçüncü fıkralarında belirtilen şartlara haiz adayların kimlik bilgileri ve başvuru belgeleri Bakanlığa gönderilir. Bakanlık tarafından aday bilgileri eğitim kurumuna gönderilir.
+(4) Bakanlık tarafından eğitim kurumuna isimleri bildirilen personel, müracaatını eğitim kurumuna şahsen yapar.
+(5) Bakanlık tarafından bildirilen aday listesinin dışında kalan adaylar sınava alınmazlar, sınava girmiş olsalar bile ilan edilen kontenjanlara yerleştirilmezler.
+(6) Yüksek lisans ve doktora giriş sınavları, eğitim kurumu tarafından belirlenen yer ve zamanda yapılır.

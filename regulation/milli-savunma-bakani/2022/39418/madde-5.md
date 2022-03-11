@@ -1,0 +1,2 @@
+Kontenjan
+MADDE 5- (1) Ön lisans ve lisans eğitimine, Bakanlık tarafından tespit edilecek ilke, öncelik ve ana programlara göre Genelkurmay Başkanlığı ve kuvvet komutanlıklarının harekât ihtiyaçları esas alınarak, Bakanlık tarafından, Milli Savunma Bakanlığı Sağlık İnsan Gücü Temin ve Yetiştirme Planı kapsamında tespit edilen kontenjan kadar öğrenci alınır. Belirlenecek bu kontenjanlar ve kayıt kabul koşulları Bakanlık tarafından her yıl en geç şubat ayı içinde YÖK’e bildirilmek üzere eğitim kurumuna gönderilir.

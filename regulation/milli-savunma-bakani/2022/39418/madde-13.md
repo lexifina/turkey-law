@@ -1,0 +1,3 @@
+Disiplin esasları, ceza verme usulleri, öğrencilikten çıkarma ve çıkma
+MADDE 13- (1) Disiplin cezaları, ceza verme usulleri, öğrencilikten çıkarma ve çıkma hususlarında askeri öğrenciler için 23/3/2021 tarihli ve 31432 sayılı Resmî Gazete’de yayımlanan Fakülte ve Yüksekokullar Askeri Öğrenci Komutanlığı ve Öğrencileri ile Fakülte ve Yüksekokullardan Yetişen Subay ve Astsubaylara Ait Yönetmelik hükümleri uygulanır.
+(2) Eğitim kurumunda eğitim öğretime başlayan askeri öğrencilerin, askeri öğrenci statülerinin sona ermesi halinde, Bakanlık nam ve hesabına eğitim gördükleri eğitim kurumundaki eğitim öğretimlerine de son verilir.

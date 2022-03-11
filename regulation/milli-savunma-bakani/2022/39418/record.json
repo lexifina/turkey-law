@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39418",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ SAVUNMA BAKANLIĞI MENSUBU SAĞLIK PERSONELİNİN ÖN LİSANS, LİSANS VE LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "number": "39418",
+  "issuer": "Milli Savunma Bakanı",
+  "issuer_slug": "milli-savunma-bakani",
+  "path": "regulation/milli-savunma-bakani/2022/39418",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39418&MevzuatTertip=5",
+  "source_sha256": "352610338b1e969bcde01a920ebc168f10dc1a267a4da381e6ab83fc44409272",
+  "source_bytes": 139395,
+  "published": "2022-03-11",
+  "gazette": "31775",
+  "in_force": "2022-03-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
