@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-03-12",
+  "issue": "31776",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Türkiye Sağlık Veri Araştırmaları ve Yapay Zekâ Uygulamaları Enstitüsünün Yapılanması ve Faaliyetlerinin Yürütülmesine Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220312-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220312.htm",
+  "index_sha256": "368b880c4018d63ed829387516f1dbd7c18b8cb624ce76b5c7290619a94174dd",
+  "index_header": "12 Mart 2022 ... 31776 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220312.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
