@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39421",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE AŞI ENSTİTÜSÜNÜN YAPILANMASI VE FAALİYETLERİNİN YÜRÜTÜLMESİNE DAİR YÖNETMELİK",
+  "number": "39421",
+  "issuer": "Türkiye Sağlık Enstitüleri Başkanı",
+  "issuer_slug": "turkiye-saglik-enstituleri-baskani",
+  "path": "regulation/turkiye-saglik-enstituleri-baskani/2022/39421",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39421&MevzuatTertip=5",
+  "source_sha256": "0afe92add692d80daca0151082292daf9dc4c9d7b80838bbd90bbcdbaf5e573f",
+  "source_bytes": 32695,
+  "published": "2022-03-12",
+  "gazette": "31776",
+  "in_force": "2022-03-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1705,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
