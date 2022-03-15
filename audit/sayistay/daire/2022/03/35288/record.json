@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "279",
+  "decision_date": "2022-03-15",
+  "source_id": 35288,
+  "chamber": "4",
+  "ilam_number": "264",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35288/",
+  "source_sha256": "c6a9f489b958bcf6bf65306f98b5bedffb419d1d51a4f3f1562d182cad01b8e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
