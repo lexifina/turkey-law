@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39428",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HATAY BÜYÜKŞEHİR BELEDİYESİ İMAR YÖNETMELİĞİ",
+  "number": "39428",
+  "issuer": "Hatay Büyükşehir Belediye Başkanı",
+  "issuer_slug": "hatay-buyuksehir-belediye-baskani",
+  "path": "regulation/hatay-buyuksehir-belediye-baskani/2022/39428",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39428&MevzuatTertip=5",
+  "source_sha256": "d5a6340117130d55d0545645d1bc3f9fcdc8bab3a1d32ba637b5617ce2d7f55d",
+  "source_bytes": 197029,
+  "published": "2022-03-15",
+  "gazette": "31779",
+  "in_force": "2022-03-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 11203,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
