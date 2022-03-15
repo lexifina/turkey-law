@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "281",
+  "decision_date": "2022-03-15",
+  "source_id": 35298,
+  "chamber": "4",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35298/",
+  "source_sha256": "467b8d57f5f9fabb723587f274c882c9757023ee3af20fcea53d35e1da5139f1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
