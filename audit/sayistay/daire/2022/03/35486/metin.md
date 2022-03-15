@@ -1,0 +1,13 @@
+Gecikme cezası
+
+…. Belediyesi tarafından elektrik ve su faturalarının geç ödenmesinden dolayı gecikme cezası tahakkuk ettiği ve bu cezaların belediye bütçesinden ödenmesi suretiyle toplam …. TL kamu zararına sebebiyet verildiği hususuyla ilgili olarak;
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun “Kamu zararı” başlıklı 71 inci maddesine göre kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması kamu zararı teşkil etmektedir. 5018 sayılı Kanuna dayanılarak çıkarılan Kamu Zararlarının Tahsiline İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 6 ncı maddesinde ise kamu zararının belirlenmesinde; kamu idaresinin yükümlülüklerinin mevzuatına uygun bir şekilde yerine getirilmemesi nedeniyle kamu idaresine faiz, tazminat, gecikme zammı, para cezası gibi ek malî külfet getirilmesi esas alınacağı hüküm altına alınmıştır.
+
+Sorumlular savunmalarında özetle, pandeminin de etkisiyle Belediye bütçesindeki nakit yetersizliği nedeniyle sorguya konu fatura ödemelerinden kaynaklı gecikme zammının ödenmek zorunda kalındığını, gecikme zammı oluşmasında herhangi bir kasıt kusur veya ihmallerinin bulunmadığını, Sayıştay’ın emsal nitelikteki birçok Kararı’ndan da nakit yetersizliği nedeniyle zamanında yapılamayan ödemeden kaynaklı gecikme cezasının doğmasında sorumluların herhangi bir kusuru bulunmadığına hükmedildiğini bu nedenle kamu zararına neden olmadıklarını belirtmişlerdir. Ayrıca sorguda gecikme zammı olduğu belirtilen …. tarih ve …..nolu faturada …. TL tutarın güvence bedeli olduğunu, güvence bedelinin herhangi bir gecikme faizi veya zammı niteliğinde olmadığını, dolayısıyla da güvence bedeli ödemesinin kamu zararı olarak değerlendirilmemesi gerektiğini ifade etmişlerdir.
+
+İdarenin yükümlülüğünü zamanında yerine getirmemesi sonucu belediye bütçesinden gecikme zammı ödenmesi sonucu kamu zararı meydana geldiği belirtilmiş olsa da, savunmalar uyarınca nakit bulunmaması nedeniyle elektrik faturalarının geç ödendiği anlaşılmış olup, bunun sonucunda gecikme faizi ödenmesinde sorumluların kusuru bulunmamaktadır.
+
+Bu itibarla; …. Belediyesi tarafından elektrik ve su faturalarının geç ödenmesinden dolayı gecikme cezası tahakkuk ettiği ve bu cezaların belediye bütçesinden ödenmesi suretiyle kamu zararına sebebiyet verildiği hususuna ilişkin olarak sorumlulara kusur atfedilemeyeceğinden, kamu zararı oluşmayan ….. TL ile ilgili olarak ilişilecek husus bulunmadığına,
+
+6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
