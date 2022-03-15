@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39424",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39424",
+  "issuer": "Tapu ve Kadastro Genel Müdürü",
+  "issuer_slug": "tapu-ve-kadastro-genel-muduru",
+  "path": "regulation/tapu-ve-kadastro-genel-muduru/2022/39424",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39424&MevzuatTertip=5",
+  "source_sha256": "47e9959ebca013877775d11090bb3f4c400b329e1b8471c3f97e2855a7130bdd",
+  "source_bytes": 11391,
+  "published": "2022-03-15",
+  "gazette": "31779",
+  "in_force": "2022-03-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 185,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39424%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
