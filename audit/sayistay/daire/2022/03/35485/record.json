@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "513",
+  "decision_date": "2022-03-15",
+  "source_id": 35485,
+  "chamber": "5",
+  "ilam_number": "46",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35485/",
+  "source_sha256": "c0a17753bf945167dd6388d3edb6a187ecb9bbc17750d234f745b533849fa125",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
