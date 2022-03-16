@@ -1,0 +1,15 @@
+Yazılı ve sözlü sınav
+MADDE 15- (1) Yazılı sınav yapılması durumunda sınav; klasik veya test yahut klasik ve test yöntemiyle basılı veya elektronik ortamda yapılabilir. Sınav, TÜBA tarafından yapılabileceği gibi protokolle belirlenecek esaslara göre Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığına, Millî Eğitim Bakanlığına, üniversitelere veya bu konuda uzmanlaşmış diğer kamu kurum ve kuruluşlarına da yaptırılabilir. Yazılı sınavdan başarılı sayılabilmek için en az yetmiş puan almış olmak şarttır.
+(2) Sözlü sınav, adayların;
+a) Sınav konularına ilişkin bilgi düzeyi,
+b) Bir konuyu kavrayıp özetleme, ifade yeteneği ve muhakeme gücü,
+c) Liyakati, temsil kabiliyeti, davranış ve tepkilerinin mesleğe uygunluğu,
+ç) Özgüveni, ikna kabiliyeti ve inandırıcılığı,
+d) Genel yetenek ve genel kültürü,
+e) Bilimsel ve teknolojik gelişmelere açıklığı,
+yönlerinden değerlendirilerek, ayrı ayrı puan verilmek suretiyle gerçekleştirilir. Adaylar, Sınav Kurulu tarafından (a) bendi için elli puan, (b) ila (e) bentlerinde yazılı özelliklerin her biri için onar puan üzerinden değerlendirilir ve verilen puanlar her bir Sınav Kurulu üyesince ayrı ayrı tutanağa geçirilir. Bunun dışında sözlü sınav ile ilgili herhangi bir kayıt sistemi kullanılmaz. Sözlü sınavdan başarılı sayılmak için Sınav Kurulu başkan ve üyelerinin yüz tam puan üzerinden verdikleri puanların aritmetik ortalamasının en az yetmiş olması şarttır.
+(3) Giriş sınavında başarılı sayılmak için başarı puanının en az yetmiş olması şarttır. Sadece yazılı veya sözlü sınav yapılması halinde bu sınavlardan alınan puan başarı puanıdır. Birden fazla sınav yapılması halinde başarı puanı, bu sınavlardan alınan puanların aritmetik ortalamasından oluşur.
+(4) Başarı puanı en yüksek olan adaydan başlanmak suretiyle giriş sınavı duyurusunda belirtilen kadro sayısı kadar asıl adayın isimleri Başkanlığın resmi internet sitesinde ilan edilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz. Adayların başarı puanının eşit olması halinde sırasıyla varsa yazılı sınav puanı, sözlü sınav puanı, bunların eşit olması halinde KPSS puanı aranan unvanlarda KPSS puanı yüksek olan, TÜBA Uzmanı için 13 üncü maddenin beşinci fıkrasına göre tespit edilen puanı yüksek olan, bunun eşit olması halinde diploma tarihi önce olan, bunun da eşit olması halinde yaşı büyük olan aday tercih edilir.
+(5) Yapılan sınavlarda başarılı olmak şartıyla, giriş sınavı duyurusunda belirtilen kadro sayısının yarısını geçmemek üzere Sınav Kurulu tarafından belirlenen sayıda yedek adayın isimlerini kapsayan bir liste ilan edilebilir. İlan tebligat yerine geçer, ilgililere ayrıca tebligat yapılmaz. Yedek listede yer almak daha sonraki sınavlar için müktesep hak veya herhangi bir öncelik hakkı teşkil etmez.
+(6) Giriş sınavında yetmiş ve üzerinde puan almış olmak, adaylar için müktesep hak teşkil etmez.
+(7) Adaylar, giriş sınavı sonuçlarına, sonuçların açıklandığı tarihten itibaren beş iş günü içerisinde gerekçesini de belirterek yazılı olarak itiraz edebilirler. İtirazlar en geç otuz gün içerisinde incelenir ve sonuç ilgiliye yazılı olarak bildirilir.

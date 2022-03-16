@@ -1,0 +1,2 @@
+Sınav ilanı
+MADDE 12- (1) Yarışma sınavına katılma şartları, alım yapılacak kadroların unvan ve sayıları ile öğrenim dalları, son başvuru tarihi ile başvuru yeri, başvuruda istenecek belgeler, yarışma sınavının içeriği, yeri ve zamanı ile gerekli görülen diğer hususlar, Konsey kararıyla belirlenerek TÜBA’nın ve Cumhurbaşkanınca belirlenen kurumun resmi internet sitesi ile Resmî Gazete’de sınav tarihinden en az 30 gün önce ilan edilir.

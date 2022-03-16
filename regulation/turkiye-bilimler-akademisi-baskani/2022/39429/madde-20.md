@@ -1,0 +1,3 @@
+Özlük ve sicil dosyasının önemi ve gizliliği
+MADDE 20- (1) Özlük ve sicil dosyaları personel işlerinden sorumlu birim yetkilisinin sorumluluğu altında saklanır. Özlük ve sicil dosyalarını yöneticilerden başkası göremez ve inceleyemez. Ancak; Başkanın herhangi bir soruşturma ile ilgili görevlendirdiği kişi veya kişiler ile denetim personeli ve yargı konusu ihtilaf halinde hukuk müşaviri veya avukat, personelin özlük ve sicil dosyasını inceleyebilir.
+(2) Özlük ve sicil dosyalarındaki bilgiler hakkında, ilgili mevzuatın yetki verdiği merciler dışında hiç kimseye açıklama yapılamaz. Herhangi bir nedenle TÜBA’dan ayrılanların özlük ve sicil dosyaları personel işlerinden sorumlu birim tarafından muhafaza edilir.
