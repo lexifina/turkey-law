@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-120-17883",
+  "source_id": 20854,
+  "date": "2022-03-16",
+  "title": "Hediyelik süs mumu ve küçük aksesuar vb. eşyaların internet üzerinden satışının esnaf muaflığı kapsamında olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20854",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "a68fc2afaea541da171c64bebd1a8e4237f69ab30bb4b04ff0ee210d661c3bd3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
