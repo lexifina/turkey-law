@@ -1,0 +1,71 @@
+375 sayılı KHK’ya aykırı olarak doğrudan teminle personel çalıştırılması
+
+3- 162 sayılı İlamın 3 üncü maddesiyle; 375 sayılı Kanun Hükmünde Kararname’nin geçici 24 üncü maddesine aykırı şekilde doğrudan temin yöntemi kullanılarak personel çalıştırılmasına dayalı hizmet alımı yapılması sonucu oluşan … TL kamu zararının sorumlulardan tazminine hükmedilmiştir.
+
+…
+
+İşbu dosyayla duruşma talebinde bulunan … ile Sayıştay Savcısının sözlü açıklamalarının dinlenmesinden ve dosyada mevcut belgelerin okunup incelenmesinden sonra,
+
+GEREĞİ GÖRÜŞÜLDÜ:
+
+Temyiz dilekçesi ve eki belgeler incelendiğinde, yüklenici tarafından sözleşmenin 12 nci maddesine göre personele yapılması gereken maaş ve personel yol ücretlerinin ödenmediğine ilişkin tutanaklar ve 2015 yılının Nisan ayına ait ödenmeyen maaşlar nedeniyle hakedişten kesilen cezayı gösterir belge olduğu görülmektedir.
+
+375 sayılı Kanun Hükmünde Kararname’nin Geçici 23 üncü maddesinin on beşinci fıkrasında, "...Sürekli işçi kadrolarına geçirileceklerin çalıştırılmalarına esas hizmet alım sözleşmelerinin süresinin geçiş işlemi yapılmasından önce sona ermesi halinde, bunlardan personel çalıştırılmasına dayalı olanlar ile personel çalıştırılmasına dayalı olan kısımlarının süresi başka bir işleme gerek kalmaksızın mevcut sözleşme koşullarına uygun olarak geçiş işlemi yapılıncaya kadar ilgili mevzuatı uyarınca uzamış sayılır. Ancak, mevcut yüklenici ile sözleşmeye devam edilememesi halinde, geçiş işlemine kadarki süreye ilişkin ihtiyaç, parasal limit sınırlamasına tabi olmaksızın 4734 sayılı Kanunun 22 nci maddesine göre doğrudan temin suretiyle karşılanır. Bu fıkra hükümleri, bu fıkranın yürürlüğe girdiği tarihten geçerli olmak üzere geçici 24 üncü maddenin birinci fıkrası kapsamındaki idareler ve ihaleler bakımından kıyasen uygulanır." hükmü yer almaktadır.
+
+Yukarıda yer verilen mevzuat hükümlerinden de anlaşılacağı üzere, personel çalıştırılmasına dayalı hizmet alım sözleşmelerinin süresinin, geçiş işleminin yapılmasından önce sona ermesi halinde bu süre, başka bir işleme gerek kalmaksızın mevcut sözleşme koşullarına uygun olarak geçiş işlemi yapılıncaya kadar ilgili mevzuatı uyarınca uzamış sayılacak, mevcut yüklenici ile sözleşmeye devam edilememesi halinde ise, geçiş işlemine kadarki süreye ilişkin ihtiyaçlar parasal limit sınırlamasına tabi olmaksızın 4734 sayılı Kanunun 22 nci maddesine göre doğrudan temin suretiyle karşılanabilecektir.
+
+Ancak, mevzuat hükümlerinde mevcut yüklenici ile sözleşmeye devam edilememesinin hangi durumlarda söz konusu olacağına ilişkin açıklamaya yer verilmemiştir. Bu çerçevede mevcut yüklenici ile sözleşmeye devam edilmeden geçiş işlemine kadarki süreye ilişkin ihtiyacın 4734 sayılı Kanun’un 22 nci maddesine göre doğrudan temin suretiyle karşılanması 375 sayılı Kanun Hükmünde Kararname’nin Geçici 23 üncü maddesine aykırılık teşkil etmemektedir.
+
+Ayrıca temyiz talebini ihtiva eden dilekçe ekinde yer alan yükleniciye sözleşme ve şartname hükümlerine aykırı davranması nedeniyle düzenlenen ceza ve tutanaklar da dikkate alındığında yapılan işlemin mevzuata uygun olduğu anlaşılmaktadır.
+
+Bu itibarla, … Belediyesi tarafından 375 sayılı Kanun Hükmünde Kararname’nin Geçici 23 üncü maddesi uyarınca geçiş süreci tamamlanıncaya kadar ihtiyacın doğrudan temin yöntemiyle karşılanmasında mevzuata aykırı bir husus bulunmadığından, konuya ilişkin dilekçi itirazlarının kabul edilerek 162 sayılı İlamın 3 üncü maddesiyle verilen … TL’nin tazminine ilişkin hükmün BOZULMASINA, yukarıdaki hususlar göz önüne alınmak suretiyle yeniden hüküm tesisinin temini için dosyanın hükmü veren DAİREYE GÖNDERİLMESİNE, (Üye …’ın aşağıda yazılı ilave görüşü ile Üye …, Üye …, Üye …, Üye …, Üye … ve Üye …’ın aşağıda yazılı karşı oy gerekçelerine karşı) oy çokluğu ile,
+
+Karar verildiği 16.03.2022 tarih ve 51225 sayılı tutanakta yazılı olmakla iş bu ilam tanzim kılındı.
+
+İlave Görüş
+
+Usul Yönünden Üye …’ın İlave Görüşü:
+
+Esasa ilişkin olarak çoğunluk kararına katılmakla birlikte, usul yönünden;
+
+Sayıştay Yargılamasında ilk derece mahkemesi olarak Dairelerce verilen kararlara karşı sorumlular olağan kanun yolu olarak temyiz ve karar düzeltme, olağanüstü kanun yolu olarak ise yargılamanın iadesi yoluna müracaat edebilirler. 6085 sayılı Kanun’un, “Temyiz” başlıklı 55 inci maddesindeki düzenlemeye göre Temyiz Kurulu; temyiz olunan hükmü olduğu gibi veya düzelterek tasdik etmeye, bozma kararı vererek ilgili Daireye göndermeye ya da Kurul üye tam sayısının üçte iki çoğunluğu ile Daire kararını tümüyle ortadan kaldırmaya karar verebilir. Kaldırma kararı (doğası gereği Sayıştay Dairelerince kamu zararının sorumlularına ödettirilmesi yönündeki kararlar hakkında verilebilecek bir karar olup) kamu zararının oluşmadığı dolayısıyla da Dairece haklarında hüküm tesis edilen sorumlular hakkında hüküm tesis edilmesi gerekmediği sonucuna ulaşan ve sorumluların beraatı anlamına gelen bir hükümdür.
+
+Bu düzenlemede yer verilen “kurul üye sayısının üçte iki çoğunluğu ile kaldırılması” şeklindeki kısmın klasik anlamdaki temyiz uygulamalarının dışına taşan bir düzenleme olduğu ortadadır. Hukuk sisteminde ilk derece mahkemesinin vermiş olduğu kararın kaldırılması ve bunun yerine yeni bir karar verilmesi uygulaması istinaf mahkemeleri aşamasında görülebilen bir uygulamadır. İstinaf mahkemelerince verilen kararlar (İlk derece mahkemesinin kararını kaldıran kararlar dâhil) hakkında da belli şartlar altında temyiz yoluna gidilebilmektedir. Oysa Sayıştay Temyiz Kurulunca verilen kaldırma kararına karşı karar düzeltme dışında müracaat edilebilecek bir kanun yolu ve mercii bulunmamaktadır. Türk Hukuk Sisteminde Temyiz İncelemesi sürecinde verilebilecek kararlardan farklı ve temyizi kabil olmayan bir yöntem olarak belirlenmiş olması nedeniyle de 6085 Sayılı Kanun’da normal karar çoğunluğundan farklı olarak kaldırma kararı için Kurulun üçte ikisinin çoğunluğu aranmıştır.
+
+İlk derecede kamu zararını tazminle yükümlü tutulmuş olan sorumlular haklarında verilmiş olan bu kararın, sorumlular lehine sonuçlanması için en kısa ve kesin olan yol Dairece verilmiş olan tazmin kararının kaldırılması olup sorumluların temyiz başvuruları da çoğunlukla “kararın kaldırılması veya bozulması” şeklinde bir taleple sonlandırılmaktadır. Bu sebeple temyiz başvurusunda taraflarca kaldırma talep edilmişse öncelikle bu talebin görüşülmesi ve sonuçlandırılması gereklidir.
+
+Ancak kaldırma kararının alınabilmesi için bozma veya tasdik kararlarından farklı bir çoğunluk (Kurulun üçte ikisinin oyu) aranmakta olduğundan bunun altında kalan oylama sonuçlarında bozma kararı verildiği kabul edilemeyeceğinden sonuca ulaşmak üzere müzakere ve oylamaya devam edilmesi gerekmektedir.
+
+Kaldırma talebine yönelik müzakereler sonrasında yapılan oylamada Kurulun üçte iki çoğunluğu ile kaldırma kararı çıkmadığı halde kaldırma yönünde kullanılan oyların karar çoğunluğuna (bahse konu olayda 9 oya) ulaştığı gerekçe gösterilerek müzakerelere devam edilmemiş ve kaldırma gerekçelerine dayalı olarak bozma kararı verildiği sonucuna ulaşılmıştır.
+
+Yukarıda açıklanan nedenlerle kaldırma kararının oylandığı ancak bu kararın gerektirdiği üçte iki çoğunluğa ulaşılmadığı halde kurulun çoğunluğunun kaldırma yönünde oy kullandığı gerekçesiyle kaldırma gerekçeli bozma kararı verildiği sonucuna ulaşılamaz. Açıklanan nedenlerle müzakerelere devam edilerek İlam hükmüne ilişkin kaldırma kararı dışındaki seçenekler üzerinde görüşme yapılmalı, tasdik veya bozma kararları oylanmalıdır.
+
+Karşı oy gerekçesi/azınlık görüşü
+
+Üye …, Üye …, Üye …, Üye … ve Üye …’ın karşı oy gerekçesi
+
+375 sayılı Kanun Hükmünde Kararname’nin geçici 24 üncü maddesi kapsamındaki belediyeler ve belediye şirketleri için de uygulanması öngörülen geçici 23 üncü maddesinde;
+
+“…
+
+Sürekli işçi kadrolarına geçirileceklerin çalıştırılmalarına esas hizmet alım sözleşmelerinin süresinin geçiş işleminin yapılmasından önce sona ermesi halinde, bunlardan personel çalıştırılmasına dayalı olanlar ile personel çalıştırılmasına dayalı olan kısımlarının süresi başka bir işleme gerek kalmaksızın mevcut sözleşme koşullarına uygun olarak geçiş işlemi yapılıncaya kadar ilgili mevzuatı uyarınca uzamış sayılır. Ancak, mevcut yüklenici ile sözleşmeye devam edilememesi halinde, geçiş işlemine kadarki süreye ilişkin ihtiyaç, parasal limit sınırlamasına tabi olmaksızın 4734 sayılı Kanunun 22 nci maddesine göre doğrudan temin suretiyle karşılanır. Bu fıkra hükümleri, bu fıkranın yürürlüğe girdiği tarihten geçerli olmak üzere geçici 24 üncü maddenin birinci fıkrası kapsamındaki idareler ve ihaleler bakımından kıyasen uygulanır.” hükmü yer almaktadır.
+
+Buna göre, personel çalıştırılmasına dayalı hizmet alımı sözleşmesinin geçiş işleminin yapılmasından önce sona ermesi halinde başka işleme gerek kalmaksızın mevcut sözleşme uzamış sayılacak, mevcut yüklenici ile sözleşmeye devam edilememesi durumunda ise ihtiyaç İdare tarafından doğrudan temin usulü ile karşılanabilecektir. Dolayısıyla esas olan mevcut sözleşmenin süresinin uzatılması, bu mümkün değil ise ihtiyacın doğrudan temin usulü ile karşılanmasıdır.
+
+Somut olay incelendiğinde; … ihale kayıt numaralı “2015-2016-2017 Yılları için Temizlik Personeli Hizmet Alımı” işi için Belediye ile … Temizlik Sağlık Hiz. Bil. İnş. San. ve Tic. Ltd. Şti. arasında 26.12.2014 tarihinde sözleşme imzalandığı, sözleşmenin bitim tarihinin 31.12.2017 olduğu, Belediye tarafından yukarıda yer verilen KHK hükmü gereği sözleşmenin uzatılması gerekirken, 29.12.2017 tarihinde yükleniciye faks çekilerek sözleşmenin 31.12.2017 tarihinde sona ereceğinin bildirildiği, sonrasında ise 01.01.2018 tarihi ile geçiş işleminin yapılacağı tarih olan 01.04.2018 tarihi arası için doğrudan temin usulü ile alım yapıldığı ve bu alım ile ilgili başka bir firma ile 02.01.2018 tarihinde … TL bedelli sözleşme imzalandığı görülmektedir.
+
+Sorumlu temyiz dilekçesinde özetle; yüklenici firma ile işin devam ettiği 36 aylık hizmet süresi boyunca sözleşmenin “Ödeme yeri ve şartları” başlıklı 12 nci maddesinden kaynaklı sıkıntılar olduğunu, söz konusu maddede; yüklenici firmanın çalıştırdığı işçilerin aylık maaşlarını hakediş raporu karşılıklı imzalandıktan sonra, Mali Hizmetler Müdürlüğü tarafından muhasebeleştirildiği zamanı takip eden 24 saat içerisinde personelin hesabına yatırmakla yükümlü olduğunun, yatırmadığı takdirde İdari Şartnamenin 16 ncı maddesi hükümlerinin uygulanacağının ifade edildiğini, ancak yüklenici tarafından 36 aylık hizmet süresi boyunca personel ücretlerini türlü sebepler ile geç ödendiğini veya ödenmediğinden dolayı çalışan personellerin maaşlarının direk Belediye tarafından ödendiğini, bu durumun ekte de sunulan çeşitli yazılar ve tutanaklar ile kayıt altına alındığını, hizmet süresi boyunca çalışan personellerin sürekli mağdur edildiğini, ayrıca yüklenici firmaya 29.12.2017 tarihinde faks yolu ile gönderilen ve 31.12.2017 tarihinde işin sona erdiğini beyan eden yazılarına 11.01.2018 tarihinde kayda alınan yazı ile cevap verildiğini, mevcut işin süreklilik arz etmesi nedeniyle yeni sözleşme yapılmasının zorunlu olduğunu, bu nedenlerle mevcut yüklenici ile sözleşmeye devam edilmesinin mümkün olmadığını ifade etmiştir.
+
+Sorumlu tarafından gönderilen temyiz dilekçesinin ekleri incelendiğinde; 14.05.2015 tarihinde yüklenici firmanın hakedişinden kesinti yapıldığı ve personelin maaşının ödendiğini gösteren belgeler ile 18.01.2018 tarihli yüklenici firmanın Aralık ayı personel maaşını ödemediğini gösteren bir tutanak ve 29.01.2018 tarihli yüklenici firmanın personelin mavi kart yol paralarını ödemediğini gösteren bir tutanak bulunduğu görülmektedir. Ekli belgelerden anlaşılan, 36 aylık hizmet süresi boyunca yalnızca bir kez 2015 yılında yüklenici firmadan kesinti yapılarak personelin maaşı Belediye tarafından ödenmiş, bir kez de Aralık 2018’de personelin maaş ve yol parası ödemelerinin yapılmadığıyla ilgili tutanak düzenlenmiştir. İhalenin süresinin 36 ay olduğu göz önünde bulundurulduğunda, sorumlu tarafından sözleşmenin uzatılmamasına gerekçe olarak gösterilen hususların, sözleşmenin devamını olumsuz etkileyebilecek nitelikte olmadığı açıktır.
+
+Yüklenici firmaya 29.12.2017 tarihinde faks yolu ile gönderilen ve 31.12.2017 tarihinde işin sona erdiğini beyan eden yazılarına 11.01.2018 tarihinde kayda alınan yazı ile cevap verildiği, işin süreklilik arz etmesi nedeniyle yeni sözleşme yapılmasının zorunlu olduğu açıklaması ile ilgili olarak;
+
+Yukarıda da yer verilen 375 sayılı Kanun Hükmünde Kararname’nin ilgili fıkrasında, personel çalıştırılmasına dayalı hizmet alım sözleşmelerinin mevcut sözleşme koşullarına uygun olarak geçiş işlemi yapılıncaya kadar ilgili mevzuatı uyarınca uzamış sayılacağı hüküm altına alınmıştır. Yüklenicinin de sözleşme bitim tarihinden sonra sözleşmeye devam edemeyeceği yönünde bir irade beyanı bulunmamaktadır. Dolayısıyla 29.12.2017 tarihine kadar iki tarafın da iradesinin sözleşmenin geçiş tamamlanıncaya kadar devam etmesi yönünde olduğunun kabul edilmesi gerekir. Ancak İdare yüklenici firmaya sözleşmenin bitim tarihine iki gün kala, 29.12.2017 tarihinde sözleşmenin 31.12.2017 tarihinde biteceğini bildirmiştir. Yüklenici firma 29.12.2017 tarihli yazısında ilgili Kanun Hükmünde Kararname hükmüne göre sözleşmenin uzaması gerektiğini bildirmiş, ancak bu yazı 11.01.2018 tarihinde Belediyenin kayıtlarına geçmiştir. Buradan sözleşmenin devamı yönünde iradesi olduğu açık olarak anlaşılan yüklenici firmaya cevap vermesi için makul bir süre verilmediği anlaşılmaktadır. Hal böyle iken, sorumlunun yüklenici firmanın sözleşmenin devamına dair yazıyı geç göndermesinden dolayı yeni bir hizmet alımı yapıldığına dair gerekçesi de kabul edilebilir nitelikte değildir.
+
+Bu itibarla, 375 sayılı Kanun Hükmünde Kararname’nin geçici 24 üncü maddesine aykırı şekilde doğrudan temin yöntemi kullanılarak personel çalıştırılmasına dayalı hizmet alımı yapılması sonucu kamu zararına sebebiyet verildiğinden, Daire Kararının tasdikine karar verilmesi gerekir.
+
+Üye …’in karşı oy gerekçesi
+
+Usule ilişkin olarak, Üye …’ın ilave görüşünde yer alan gerekçelerle müzakerelere devam edilerek İlam hükmüne ilişkin kaldırma kararı dışındaki seçenekler üzerinde görüşme yapılmalı, tasdik veya bozma kararları oylanmalıdır.
+
+Esasa ilişkin olarak, Üye …, Üye …, Üye …, Üye … ve Üye …’ın karşı oy gerekçesinde yer alan gerekçelerle Daire Kararının tasdiki gerekir.
