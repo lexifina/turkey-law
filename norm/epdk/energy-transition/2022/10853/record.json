@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "energy-transition",
+  "document_type": "board-decision",
+  "number": "10853",
+  "decision_date": "2022-03-17",
+  "title": "Şarj Ağı İşletmeci Lisansı Başvurusunda Bulunacak Tüzel Kişiler İçin Asgari Sermaye Tutarı",
+  "resmi_gazete_date": "2022-04-02",
+  "resmi_gazete_number": "31797",
+  "categories": [
+    "Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+xWaGz5Qx1E=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=+xWaGz5Qx1E="
+  ],
+  "source_sha256": "5fa1977527dbafd0b6849b7c4a08049d849eab11532bbf81cc68fe8fffb4874c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-206/kurul-kararlari",
+  "official_list_leaf": 31093,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-03-17",
+  "law_text_complete": true
+}
