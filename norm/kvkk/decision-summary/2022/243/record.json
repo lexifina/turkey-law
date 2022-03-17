@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/243",
+  "source_id": 7297,
+  "date": "2022-03-17",
+  "title": "“Aynı isme sahip bir kişi tarafından internet üzerinden sipariş verilirken ilgili kişinin e-posta adresinin kullanılması üzerine faturanın ilgili kişiye gönderilmesi suretiyle kişisel verilerinin işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 17/03/2022 tarihli ve 2022/243 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7297/2022-243",
+  "source_sha256": "9b39f3f7f8f76df7985e1b989ee647560ceeab5da50518c1701412e88ea60dc8",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
