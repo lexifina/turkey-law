@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10847-1-2",
+  "decision_date": "2022-03-17",
+  "title": "Önlisans Süreleri İle Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Sürelerine İlişkin",
+  "resmi_gazete_date": "2022-03-18",
+  "resmi_gazete_number": "31782",
+  "categories": [
+    "Önlisans Süreleri ile Tesis Tamamlanma Tarihinin Belirlenmesinde Referans Alınacak İnşaat Süreleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2RMA9icheAI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2RMA9icheAI="
+  ],
+  "source_sha256": "9609786fd98b9c8ae86c846fa7ba442e4193a5bf0b4dabbc4e92fa129b3a8b20",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33885,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-03-17",
+  "law_text_complete": true
+}
