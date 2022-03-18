@@ -1,0 +1,4 @@
+Uzlaşma sürecinin başlatılması
+MADDE 5 – (1) Soruşturma tarafları uzlaşma taleplerini yazılı olarak Kuruma iletir. Kurul, 4 üncü maddenin ikinci fıkrasındaki hususları dikkate alarak bu talebi kabul veya ret edebileceği gibi varsa diğer tarafların da uzlaşma görüşmelerine davet edilmesine karar verebilir.
+(2) Tarafların uzlaşma talebinde bulundukları aşamada, isnat edilen ihlalin niteliğinin ve kapsamının ortaya konulması için daha detaylı araştırmaya ihtiyaç duyulması halinde Kurul, birinci fıkra kapsamında vereceği kararı erteleyebilir.
+(3) Kurul, uzlaşma sürecini resen başlatması halinde, soruşturma taraflarını uzlaşma görüşmelerine davet eder. Soruşturma tarafları, bu davetin tebliğinden itibaren on beş gün içinde uzlaşma görüşmelerine başlamak isteyip istemediklerini Kuruma yazılı olarak bildirir. Bu süre geçtikten sonra yapılan bildirimler dikkate alınmaz.
