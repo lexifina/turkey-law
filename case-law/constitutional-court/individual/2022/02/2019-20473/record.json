@@ -1,0 +1,20 @@
+{
+  "applicant": "H.Ö.",
+  "application_date": "2019-06-11",
+  "application_number": "2019/20473",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2022-02-03",
+  "id": "ac9bf8bc-4396-e6c1-3a64-84c5f740cf9d",
+  "in_force": "2022-03-18",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2022-03-18",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmFjOWJmOGJjLTQzOTYtZTZjMS0zYTY0LTg0YzVmNzQwY2Y5ZA&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "4679cfaa2dd4f814df28a10f91c979bb0105c8ccf23ba4c489ca4db693ef8cf3",
+  "version_label": "as-enacted"
+}
