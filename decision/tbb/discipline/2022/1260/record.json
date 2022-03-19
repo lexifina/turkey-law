@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1260",
+  "date": "2022-03-19",
+  "title": "T. 19.03.2022 E. 2022/130 K. 2022/267",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1260",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=15&yil=2022",
+  "listing_sha256": "1bd993b30c9b1babede6d8aff1de4b5c27e58fdcd2d9ebc3002320326adc69f0",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
