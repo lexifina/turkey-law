@@ -1,0 +1,2 @@
+Özel öğrenciler
+MADDE 10- (1) Bir yüksek lisans, doktora ya da sanatta yeterlik programına kayıtlı olan öğrenciler, diğer yükseköğretim kurumlarındaki lisansüstü derslere kayıtlı oldukları enstitü anabilim/anasanat dalı başkanlığının onayı ile özel öğrenci olarak kabul edilebilir. Lisansüstü derslere kabul edilen öğrencilerin özel öğrenci olarak aldıkları ve başarılı oldukları derslerin muafiyet işlemleri kayıtlı oldukları enstitü anabilim/anasanat dalı başkanlığı tarafından yürütülür. Özel öğrenci kabul koşulları ve bu konudaki diğer hükümler Senato tarafından belirlenir.

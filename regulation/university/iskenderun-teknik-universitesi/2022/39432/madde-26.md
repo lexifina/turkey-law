@@ -1,0 +1,4 @@
+Süre
+MADDE 26- (1) Tezli yüksek lisans programının süresi bilimsel hazırlıkta geçen süre hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın dört yarıyıl olup program en çok altı yarıyılda tamamlanır.
+(2) Dört yarıyıl sonunda öğretim planında yer alan kredili derslerini, bilimsel araştırma teknikleri ile araştırma ve yayın etiği konularını içeren dersi ve seminer dersini başarıyla tamamlayamayan veya bu süre içerisinde Üniversitenin öngördüğü başarı koşullarını yerine getiremeyen; azami süreler içerisinde ise tez çalışmasında başarısız olan veya tez savunmasına girmeyen öğrencinin Üniversite ile ilişiği kesilir.
+(3) İlgili EABD’nin mezuniyet için gerekli koşullarını sağlayan öğrenciler, Enstitü Yönetim Kurulunun belirleyeceği ilkeler çerçevesinde yüksek lisans program süresinden önce mezun olabilirler.

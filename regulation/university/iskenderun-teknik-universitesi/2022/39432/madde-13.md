@@ -1,0 +1,8 @@
+Programa ilk kayıt
+MADDE 13- (1) Lisansüstü programlara kabul edilen öğrencilerin ilk kayıt işlemleri, akademik takvimde belirtilen tarihlerde yapılır. İlanda belirtilen süre içinde kesin kaydını yaptırmayan adaylar kesin kayıt haklarını kaybederler. Ancak lisansüstü programa ilk kez kayıt yaptıran öğrenciler akademik takvimde belirtilen ders ekleme-bırakma haftasında da kayıt yaptırabilir.
+(2) Lisansüstü programlara kabul edilen öğrencilerin kayıtlarının kesinleşmesi için aşağıdaki koşullar aranır:
+a) Tezli, tezsiz yüksek lisans ve lisans derecesiyle kabul olunan doktora programlarına kayıt olanlar için lisans diplomasına, yüksek lisans derecesiyle kabul olunan doktora programlarına kayıt olanlar için tezli yüksek lisans diplomasına sahip olmak,
+b) Uluslararası öğrenciler için öğrenim vizesine sahip olmak,
+c) Varsa öğrenci katkı payı veya öğrenim ücretine ilişkin yükümlülükleri yerine getirmek.
+(3) Kayıt için istenen belgelerin aslı veya Üniversite tarafından aslı görülerek onaylanacak örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın ilgili kurum veya e-devlet üzerinden alacağı ıslak imzalı veya karekodlu belgelere dayanarak işlem yapılır. Gerçeğe aykırı veya yanıltıcı belgelerle kayıt hakkı kazanmış olanların tespiti halinde kayıtları yapılmaz, yapılmış ise bulundukları yarıyıla bakılmaksızın kayıtları iptal edilir; kendilerine verilmiş olan diploma dâhil tüm belgeler geçersiz sayılır ve haklarında yasal işlem başlatılır.
+(4) Tezsiz yüksek lisans programları hariç, aynı anda birden fazla lisansüstü programa kayıt yaptırılamaz ve devam edilemez.

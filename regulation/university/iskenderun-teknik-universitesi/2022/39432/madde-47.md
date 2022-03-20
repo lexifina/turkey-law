@@ -1,0 +1,5 @@
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Diğer hükümler
+MADDE 47- (1) Lisansüstü program kontenjanları, Yükseköğretim Kurulu tarafından belirlenen lisansüstü programlarda görev alabilecek öğretim üyesi sayısı ve mevcut öğretim üyesi başına düşen öğrenci sayısı dikkate alınacak, tezli yüksek lisans ve doktora programları için öğretim üyesi başına düşen tez danışmanlığı en fazla 14, tezsiz yüksek lisans programları için ise tezli yüksek lisans ve doktora programları hariç en fazla 16 öğrenci düşecek şekilde belirlenir. Ancak, Yükseköğretim Kurulu ile yapılan protokol dahilinde ve üniversite sanayi işbirliği çerçevesinde yürütülen lisansüstü programlar için bu kontenjan %50’ye kadar artırılabilir.
+(2) Üniversite tarafından, afet ve salgınlarda tez aşamasındaki lisansüstü öğretim öğrencilerine talepleri halinde bir dönem, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir dönem daha olmak üzere en fazla iki dönem ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.

@@ -1,0 +1,4 @@
+Yarıyıl kayıtları
+MADDE 16- (1) Öğrenciler her yarıyıl, akademik takvimde ilan edilen etkileşimli kayıt tarihlerinde kayıtlarını yenilemekle yükümlüdür. Belirtilen tarihlerde kayıt yaptırmayan öğrenciler kayıtsız duruma düşer ve öğrencilik haklarından yararlanamaz.
+(2) Yarıyıl kaydını etkileşimli kayıt tarihlerinde tamamlamış olan öğrenciler akademik takvimde belirtilen ders ekleme-bırakma tarihlerinde ders ekleme-bırakma yapabilir. Yapılan değişikliklerin geçerli olması için yeniden danışman onayı alınması zorunludur.
+(3) Program süresi veya azami süre içinde kayıtsız duruma düşen öğrencilerden yarıyıl kaydını yaptırmak isteyenler, mazeretlerini belirterek ve belgeleyerek ilgili EABDB’ye en geç o yarıyılın ders ekleme-bırakma süresi bitimine kadar başvurur. Mazereti, Enstitü Yönetim Kurulunca uygun görülen ve gerekli kayıt koşullarını sağlamış olan öğrencinin yarıyıl kaydı yenilenir.

@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/iskenderun-teknik-universitesi/2022/39432",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 51- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 51- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31784",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-03-20",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İskenderun Teknik Üniversitesi",
+  "issuer_slug": "iskenderun-teknik-universitesi",
+  "kind": "regulation",
+  "published": "2022-03-20",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39432&MevzuatTertip=5",
+  "source_id": "8.5.39432",
+  "source_sha256": "91e7e51ddbe4d7695c491830e6902ad89b62894119a1b1af56b1b01d61e31345",
+  "title": "İSKENDERUN TEKNİK ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 465,
+  "version_label": "oldest version available",
+  "word_count": 5811
+}

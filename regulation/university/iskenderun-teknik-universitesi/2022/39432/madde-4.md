@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AKTS: Avrupa Kredi Transfer Sistemini,
+b) ALES: Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavını,
+c) DYS: Doktora yeterlik sınavını,
+ç) EABD: Enstitü anabilim dalını,
+d) EABDB: Enstitüye bağlı anabilim dalı başkanlığını,
+e) Enstitü: İskenderun Teknik Üniversitesi Lisansüstü Eğitim Enstitüsünü,
+f) Enstitü Kurulu: İskenderun Teknik Üniversitesi Lisansüstü Eğitim Enstitüsü Kurulunu,
+g) Enstitü Yönetim Kurulu: İskenderun Teknik Üniversitesi Lisansüstü Eğitim Enstitüsü Yönetim Kurulunu,
+ğ) GMAT: Graduate Management Admission Test sınavını,
+h) GRE: Graduate Record Examination sınavını,
+ı) İntihal: Başkalarının fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan kısmen veya tamamen kendi eseri gibi göstermeyi,
+i) Lisansüstü program: Üniversitede yürütülen tezli ve tezsiz yüksek lisans programları ile doktora programlarını,
+j) ÖSYM: Ölçme, Seçme ve Yerleştirme Merkezini,
+k) Rektör: İskenderun Teknik Üniversitesi Rektörünü,
+l) Senato: İskenderun Teknik Üniversitesi Senatosunu,
+m) TİK: Doktora tez izleme komitesini,
+n) Üniversite: İskenderun Teknik Üniversitesini,
+o) YÖK: Yükseköğretim Kurulunu,
+ifade eder.

@@ -1,0 +1,8 @@
+Yatay geçiş yoluyla öğrenci kabulü
+MADDE 11- (1) Yükseköğretim kurumu içinde enstitü anabilim/anasanat dalında veya başka bir yükseköğretim kurumunun lisansüstü programında en az bir yarıyılını tamamlamış olan başarılı öğrenci, enstitü lisansüstü programlarından birine yatay geçiş yoluyla kabul edilebilir.
+(2) Lisansüstü programlara yatay geçiş yoluyla kabul edilme koşulları şunlardır:
+a) Yatay geçişler, eşdeğer eğitim veren yurt içi ve YÖK tarafından tanınan yurt dışı lisansüstü programları arasında yapılır.
+b) Üniversitenin araştırma görevlisi kadrosuna atanıp halen başka bir yükseköğretim kurumunda lisansüstü öğrenim gören öğrencilere, Enstitü Yönetim Kurulu kararı ile başka herhangi bir şart aranmaksızın yatay geçiş hakkı verilir.
+c) Yüksek lisans programları için yüksek lisans genel not ortalaması 2.50/4.00, doktora programları için ise doktora genel not ortalaması 3.00/4.00 üstünde olan öğrenciler başka bir lisansüstü programa yatay geçiş yapabilir. Genel not ortalamasının yüzlük sisteme göre olması durumunda, notun YÖK not dönüşüm tablosu esas alınarak dörtlük sistemdeki karşılıkları hesaplanarak değerlendirilir.
+ç) Yatay geçiş için başvuru yapan öğrencilerin kabulü, öğrencilerin genel not ortalamaları dikkate alınarak ilgili EABD kurulu tarafından değerlendirilip sıralanır. Eşitlik durumunda sırasıyla ALES puanı ve yabancı dil puanına göre sıralamada öncelik verilir. Yatay geçiş yapmaya hak kazanan öğrenciler ilgili EABD’nin teklifi, Enstitü Yönetim Kurulu kararı ile ilan edilerek kesinlik kazanır.
+d) Yatay geçişi kesinleşen öğrencinin alacağı ve muaf tutulacağı dersler, intibak yapılırken ilgili EABD kurul kararı, ilgili EABD’nin teklifi ve Enstitü Yönetim Kurulu kararı ile belirlenir.
