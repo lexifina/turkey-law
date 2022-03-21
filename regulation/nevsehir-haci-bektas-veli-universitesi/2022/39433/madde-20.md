@@ -1,0 +1,3 @@
+Merkez birimlerinin çalışma usul ve esasları
+MADDE 20- (1) Merkezde ve Merkeze bağlı olarak çalışan sağlık hizmetleriyle görevli ünitelerde bulunan servis, klinik veya laboratuvar birimleri ile Merkezin idari işlerinde görevli diğer idari birimler, yürüttükleri hizmetler açısından Müdüre karşı sorumludurlar.
+(2) Merkezin faaliyet alanlarında görevli ana bilim dalı başkanları, bilim dalı başkanları ve laboratuvar ve klinik sorumluları; sorumluluk alanlarına giren bölgelerde hizmetlerin en verimli ve en iyi şekilde gerçekleştirilmesinden Merkezin yönetimi ile işbirliği ve koordinasyon içinde olmakla yükümlü ve sorumludurlar.
