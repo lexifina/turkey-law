@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-313046",
+  "source_id": 22505,
+  "date": "2022-03-21",
+  "title": "Değerli konut vergisinin gider olarak dikkate alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22505",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "fbdbd6a0ee284cd03c00f9025af1ec6da0ff2613ed3e8268f18993e6d61a9b29",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
