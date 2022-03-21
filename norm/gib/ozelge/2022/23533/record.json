@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2019/1718]-313032",
+  "source_id": 23533,
+  "date": "2022-03-21",
+  "title": "Vekalet ücreti ödemeleri üzerinden vergi tevkifatı yapılması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23533",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "03bb1f45bf991ad367b3aa9ccfa91a46d19d88786085070939d42c4075c61e3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
