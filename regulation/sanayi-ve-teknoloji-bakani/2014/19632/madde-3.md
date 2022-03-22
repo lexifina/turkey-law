@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 3 – (1) Bu Yönetmelikte geçen;
+a) (Mülga:RG-8/4/2017-30032)
+b) Ar-ge projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak aynî ve/veya nakdî destek tutarları, sonuçta doğacak fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve ar-ge faaliyetlerinin her safhasını belirleyecek mahiyette ve bilimsel esaslar çerçevesinde hazırlanan projeyi,
+c) (Değişik:RG-22/3/2022-31786) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) (Değişik:RG-22/3/2022-31786) Başvuru formu: Şekli Genel Müdürlük tarafından hazırlanan ve başvuru sahibinin destekten yararlanmak amacıyla Genel Müdürlüğe yazılı ve/veya elektronik ortamda sunduğu ve ortaya çıkan ihtiyaçlar doğrultusunda Genel Müdürlükçe içeriği güncellenen formu,
+d) Büyük işletme: Türkiye’de yerleşik KOBİ niteliği taşımayan işletmeleri,
+e) (Değişik:RG-22/3/2022-31786) Değerlendirme Komisyonu (Komisyon): Başvuruları ve yatırım projesinde yapılması talep edilen değişiklikleri değerlendirmek ve karara bağlamak üzere Genel Müdür ya da görevlendireceği genel müdür yardımcısı veya daire başkanı başkanlığında; Komisyon Başkanı ile birlikte, yatırım konuları hakkında uzmanlığı bulunan veya destek programı yürütülmesinde bilgi ve deneyimi bulunan Bakanlık personeli, yatırım konularıyla ilgili kamu kurum ve kuruluşlarının temsilcileri, alanında uzman öğretim üyeleri, Türkiye Odalar ve Borsalar Birliği (TOBB) meclis veya sektör temsilcileri, Türkiye İhracatçılar Meclisi (TİM) meclis veya sektör temsilcileri, organize sanayi bölgeleri, endüstri bölgeleri, teknoloji geliştirme bölgeleri ile kanunla kurulan vakıflar, dernekler veya meslek odalarının yönetici veya temsilcileri arasından Bakanlık tarafından belirlenen dört üye ile birlikte toplam beş üyeden oluşan Komisyonu,
+f) (Değişik:RG-22/3/2022-31786) Genel Müdürlük: Milli Teknoloji Genel Müdürlüğünü,
+g) Geri ödemesiz destek: Teknolojik ürün yatırım destek programı kapsamında işletmelere geri tahsil edilmemek üzere sağlanan nakdi desteği,
+ğ) İşletme: Yasal statüsü ne olursa olsun bir veya birden çok gerçek veya tüzel kişiye ait olup, bir ekonomik faaliyette bulunan birimleri veya girişimleri,
+h) KOBİ: 19/10/2005 tarihli ve 2005/9617 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Küçük ve Orta Büyüklükteki İşletmelerin Tanımı, Nitelikleri ve Sınıflandırılması Hakkında Yönetmelik kapsamındaki işletmeleri,
+ı) (Mülga:RG-8/4/2017-30032)
+i) Teknolojik ürün: Toplumsal ihtiyaçları karşılamak ve yaşam standardını yükseltmek amacıyla nitelikli işgücü tarafından bilimsel bilgi ve teknolojik araştırmalar kullanılarak ortaya çıkarılan, var olandan belirgin bir şekilde farklılık gösteren, katma değeri ve rekabet edebilirliği yüksek ürünü,
+j) (Değişik:RG-22/3/2022-31786) Teknolojik ürün yatırım destek programı: Sanayiye yönelik ar-ge ve yenilik projeleri sonucunda ortaya çıkan teknolojik ürüne yönelik yatırım projeleri ile elektrikli araçlar için yüksek hızlı şarj istasyonlarının kurulmasına yönelik yatırım projelerinin desteklendiği programı,
+k) (Değişik:RG-22/3/2022-31786) Yatırım projesi: Amacı, kapsamı, hedefi, çıktıları, süresi, bütçesi, diğer kaynakları ile uygulayıcıları belirli ve birbiriyle ilişkili 1 inci maddenin birinci fıkrasında yer alan yatırımlara yönelik faaliyetler bütününü,
+l) (Değişik:RG-22/3/2022-31786) Yatırımcı: 1 inci maddenin birinci fıkrasında yer alan yatırımlardan bir veya birkaçını gerçekleştiren gerçek veya tüzel kişiyi,
+m) Yenilik projesi: Bir fikri, satılabilir, yeni ya da geliştirilmiş/iyileştirilmiş bir ürün veya mal ve hizmet üretiminde kullanılan yeni ya da geliştirilmiş bir yöntem haline dönüştürmeyi; renk ya da dekorasyondaki değişiklikler ve benzeri bütünüyle estetik alana yönelik değişiklikler ile ürünün yapı, nitelik ya da performansını teknik açıdan değiştirmeyen görünüm farklılıklarından ibaret basit değişiklikler hariç teknolojik yenilik yapma ya da yaratma süreci, bir dizi bilimsel, teknolojik/teknik, mali ve ticari etkinlikleri kapsayan, başarı ölçütleri ve hedefleri tanımlanmış, belirli bir zaman aralığında gerçekleştirilecek faaliyetler bütününü,
+n) (Ek:RG-8/4/2017-30032) TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+o) (Ek:RG-8/4/2017-30032) Tamamlama belgesi: Yatırımını tamamlayan işletmeler için Genel Müdürlükçe düzenlenen belgeyi,
+ö) (Ek:RG-22/3/2022-31786) Çağrı: Teknolojik ürün yatırım destek programının, Bakanlıkça belirlenecek konu ve kapsamlarda destek başvurularının alınacağı uygulama dönemlerini,
+p) (Ek:RG-22/3/2022-31786) İl Müdürlüğü: Sanayi ve teknoloji il müdürlüklerini,
+ifade eder.

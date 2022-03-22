@@ -1,0 +1,4 @@
+Yatırımı sonuçlandırma
+MADDE 21 – (1) Yatırımını tamamlayan işletme, içeriği Genel Müdürlükçe belirlenen sonuç raporunu hazırlayarak (Ek ibare:RG-22/3/2022-31786) proje bitiş tarihinden itibaren en geç 3 ay içerisinde Genel Müdürlüğe sunar.
+(2) (Değişik:RG-8/4/2017-30032) Sonuç Raporu doğrultusunda Bakanlıkça, alanında uzman en az bir öğretim üyesi ile Genel Müdürlükten (Ek ibare:RG-22/3/2022-31786) veya il müdürlüklerinden en az bir personel yatırımı yerinde incelemek, yapılan harcamaları denetlemek ve içeriği Genel Müdürlükçe belirlenen yatırım tamamlama belgesini düzenlemek üzere görevlendirilir.
+(3) (Değişik:RG-8/4/2017-30032) Bakanlıkça Tamamlama Belgesinin düzenlendiği tarihten itibaren işletmeler, 3 yıl boyunca yıllık olarak yatırım desteği verilen ürünle ilgili satış bilgileri ve sağlanan gelişmelerin yer aldığı, içeriği Genel Müdürlükçe belirlenen gelişme raporunu Genel Müdürlüğe yazılı ve/veya elektronik ortamda sunar.
