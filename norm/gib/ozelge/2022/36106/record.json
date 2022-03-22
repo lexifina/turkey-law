@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "50426076-140[123-2019/20-422]-37972",
+  "source_id": 36106,
+  "date": "2022-03-22",
+  "title": "Adi ortaklığın limited şirkete devrinde ipotek tesisi işleminin yenilenmesine ilişkin tapu harcı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36106",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "a84ffd313cef61ace51c48e95fdca7cbcbf401cdbca883ee9e059ec3d812d318",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
