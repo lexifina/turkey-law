@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "860",
+  "decision_date": "2022-03-22",
+  "source_id": 35396,
+  "chamber": "6",
+  "ilam_number": "49",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35396/",
+  "source_sha256": "e2e0fff1a2c4d1a7e967ebbf2597ad8f11a315a11ef0720dbbaed36991a102ee",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
