@@ -1,0 +1,11 @@
+Belediye Meclisi Üyelerine Mükerrer Ödeme
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… Belediyesi Meclis üyelerine aynı tarihte gerçekleştirilen meclis toplantıları ile ihtisas komisyonu toplantıları için mükerrer ödeme yapıldığı görülmüştür.
+
+5393 sayılı Belediye Kanunu’nun “Huzur ve izin hakkı” başlıklı 32’nci maddesinde, meclis başkan ve üyelerine meclis ve komisyon toplantılarına katıldıkları her gün için 39’uncu madde uyarınca belediye başkanına ödenmekte olan aylık brüt ödeneğin günlük tutarının üçte birini geçmemek üzere meclis tarafından belirlenecek miktarda huzur hakkı ödeneceği, huzur hakkı ödenecek gün sayısının 20, 24 ve 25’inci maddelerde belirtilen toplantı günü sayısından fazla olamayacağı ve meclis üyelerine aynı gün için birden fazla huzur hakkı ödenemeyeceği ifade edilmiştir.
+
+… Belediyesinde … ile … tarihleri arasında görev yapan denetim komisyonu üyeleri … tarihinde gerçekleştirilen meclis toplantısına; …, …, … ve … tarihlerinde imar komisyonu toplantısına katılan üyeler ise aynı günlerde gerçekleştirilen meclis toplantılarına katılmış ve aynı günlerde gerçekleştirilen bu toplantılar için birden fazla huzur hakkı almışlardır. Bu nedenle, yukarıda belirtilen mevzuat hükümleri ile açıklamalar uyarınca aynı gün gerçekleştirilen meclis ve ihtisas komisyonu toplantıları için aynı kişilere mükerrer ödeme yapılması sonucunda toplam … TL kamu zararına neden olunmuştur.
+
+Ancak, söz konusu kamu zararı tutarı … TL’nin, … TL’sinin ahizi … … …’dan … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … …’dan … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … … …’den … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … … ’dan … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … …’den … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … …’ten … tarihli ve … yevmiye numaralı, … TL’sinin ahizi … …’dan … tarihli ve … yevmiye numaralı … TL’sinin ahizi … …’ten … tarihli ve … yevmiye numaralı muhasebe işlem fişleri ile hesap yılından sonra tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
