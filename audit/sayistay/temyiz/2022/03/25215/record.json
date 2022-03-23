@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51361",
+  "decision_date": "2022-03-23",
+  "source_id": 25215,
+  "chamber": "7",
+  "file_number": "48995",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25215/",
+  "source_sha256": "aa9a4012b24fc1526de3ae0f9deea70fac2a366fa265ede508cd1354277bed38",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
