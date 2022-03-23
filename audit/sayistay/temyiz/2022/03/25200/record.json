@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51346",
+  "decision_date": "2022-03-23",
+  "source_id": 25200,
+  "chamber": "7",
+  "file_number": "48974",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25200/",
+  "source_sha256": "287c7749249e11b2217cc42203dc34a6fd1d71e1565a3e0dc56b96c88ee41a5b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
