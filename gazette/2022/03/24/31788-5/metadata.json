@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-03-24",
+  "issue": "31788",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUN",
+  "title": "7383 Diyanet İşleri Başkanlığı Kuruluş ve Görevleri Hakkında Kanun ile Devlet Memurları Kanununda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220324-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220324.htm",
+  "index_sha256": "d202e732f57b31d81190a6fd5399cb60b060d268cdb88b5d805f2ce03defcfda",
+  "index_header": "24 Mart 2022 ... 31788 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/03/20220324.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
