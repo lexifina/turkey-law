@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "10878",
+  "decision_date": "2022-03-24",
+  "title": "Boru Hatları ile Petrol Taşıma Anonim Şirketi’ne ait Silivri Yer Altı Doğal Gaz Depolama Tesisi’nin 2022-2023 tarife uygulama dönemine ilişkin depolama tarifelerine esas yıllık gelir gereksinimlerinin belirlenmesine yönelik",
+  "resmi_gazete_date": "2022-03-26",
+  "resmi_gazete_number": "31790",
+  "categories": [
+    "Depolama"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5VfdVeXZnN8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=5VfdVeXZnN8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gQ1dEHZkEsc="
+  ],
+  "source_sha256": "bcc1658917a8e6861311e71f449cbc08a383e1f53b120148055d5a5e64a281ee",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7229,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-03-24",
+  "law_text_complete": true
+}
