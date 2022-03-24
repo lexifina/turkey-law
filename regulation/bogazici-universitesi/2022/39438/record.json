@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-03-24",
+      "24.03.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31788",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-03-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Boğaziçi Üniversitesi",
+  "issuer_slug": "bogazici-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bogazici-universitesi/2022/39438",
+  "published": "2022-03-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39438&MevzuatTertip=5",
+  "source_bytes": 42790,
+  "source_id": "8.5.39438",
+  "source_sha256": "2a297698c7fb8289bd1dcec6002da7b48e1bb238e458eec0ab5aaf1410e606d5",
+  "text_status": "as-enacted",
+  "title": "BOĞAZİÇİ ÜNİVERSİTESİ YAŞAMBOYU EĞİTİM MERKEZİ YÖNETMELİĞİ",
+  "university_id": 183,
+  "word_count": 696
+}
