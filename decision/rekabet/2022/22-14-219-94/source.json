@@ -1,0 +1,13 @@
+{
+  "number": "22-14/219-94",
+  "type": "Diğer",
+  "decision_date": "2022-03-24",
+  "publication_date": "2022-11-01",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=ecb132f8-90fe-4a91-9449-fa1caf800880",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=193",
+  "pdf_sha256": "f1f0a400944dc60d331f453b314300cf29930a58afdf22e20e12edbb2737a3b0",
+  "pdf_bytes": "393409",
+  "pages": "3",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
