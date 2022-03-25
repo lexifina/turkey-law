@@ -1,0 +1,2 @@
+Doğrulayıcı kuruluşlarda görev alacak doğrulama ekibi üyelerinin yetkinliği
+MADDE 12- (1) Genel Müdürlükten hava taşıma işletme ruhsatı almış uçak işleticilerine ulusal uçuşlar için doğrulama hizmeti vermek için yetkilendirilmiş doğrulayıcı kuruluşlar, kuruluş bünyesinde görev alacak personele ilişkin asgari gereklilikler ile almaları gereken eğitimlere ilişin usul ve esaslar bu Yönetmelik uyarınca çıkarılan alt düzenlemeler ile düzenlenir.

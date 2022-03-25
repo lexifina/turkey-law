@@ -1,0 +1,3 @@
+Mücbir sebep hali ile erteleme ve durdurma
+MADDE 19- (1) Mücbir sebep olarak kabul edilebilecek haller; olağanüstü doğa olayları, deprem, yangın, su baskını benzeri doğal afetler, kanuni grev, lokavt, genel salgın hastalık, ambargo ve yabancı ülkelerin kısıtlamaları, terör eylemleri, savaş ve abluka olması, kısmi veya genel seferberlik ilanı ve benzeri hallerdir.
+(2) Birinci fıkrada sayılan mücbir sebeplerle bu Yönetmeliğin uygulanmasının ve yürütülmesinin geçici olarak imkânsız hale geldiği durumlarda ilgili işlemler Genel Müdürlük onayı ile geçici olarak mücbir sebep süresince ertelenebilir veya durdurulabilir. Bu süre en fazla mücbir sebebin ortaya çıktığı tarihten itibaren 1 yıl olabilir.

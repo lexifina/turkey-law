@@ -1,0 +1,5 @@
+DÖRDÜNCÜ BÖLÜM
+Denetleme ve İdari Yaptırımlar
+Denetleme
+MADDE 16- (1) Uçak işleticisi bu Yönetmelik ve alt düzenlemelerinde yer alan usul ve esaslara uyumu çerçevesinde Genel Müdürlük tarafından haberli veya habersiz olarak denetlenebilir. Yapılan denetimler sırasında bu Yönetmelik ve alt düzenlemelerine aykırı hususların tespiti halinde, Genel Müdürlük 30 gün içerisinde uçak işleticisinden mevzuata aykırı hususların giderilmesini ister.
+(2) Doğrulayıcı kuruluşların faaliyetlerinin, sistemlerinin ve personelinin tanımlanmış düzenlemelere ve standartlara uygun olup olmadığının belirlenmesi kapsamında akreditasyon kuruluşu tarafından yapılacak denetimlere ve akredite doğrulayıcı kuruluşların uçak işleticilerine gerçekleştireceği doğrulama faaliyetlerine Genel Müdürlük eşlik edebilir. Doğrulayıcı kuruluşların ve/veya personelinin Genel Müdürlük tarafından belirlenen yetkilendirme şartlarını taşımadığının tespiti ya da yetkilendirmeye ilişkin şartların doğrulayıcı kuruluş ve/veya personeli tarafından ihlal edildiğinin tespiti halinde doğrulayıcı kuruluşa Genel Müdürlük tarafından verilen yetki askıya alınır veya iptal edilebilir.

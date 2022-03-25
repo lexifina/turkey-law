@@ -1,0 +1,3 @@
+İdari yaptırımlar
+MADDE 17- (1) Bu Yönetmeliğe ve alt düzenlemelerine uyulmaması, uyum sağlanmadığının tespit edilmesi, aykırılıkların belirlenen süreler içerisinde giderilmemesi halinde 2920 sayılı Kanunun 143 üncü maddesi ve 29/1/2013 tarihli ve 28543 sayılı Resmî Gazete'de yayımlanan Sivil Havacılık Genel Müdürlüğü Tarafından Verilecek İdari Para Cezaları Hakkında Yönetmelik (SHY-İPC) uyarınca yaptırım uygulanır.
+(2) Bu Yönetmelik ve bu Yönetmeliğe istinaden yapılan düzenlemelere göre yapılan inceleme ve denetlemeler kapsamında uçak işleticileri ve doğrulayıcı kuruluşlar tarafından Genel Müdürlüğe kasten veya ihmalen yanlış ve/veya yanıltıcı bilgi verildiğinin tespit edilmesi halinde 2920 sayılı Kanunun 143 üncü maddesi uyarınca yaptırım uygulanır.
