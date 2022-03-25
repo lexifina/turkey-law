@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39440",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE UZAY AJANSI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39440",
+  "issuer": "Türkiye Uzay Ajansı Başkanı",
+  "issuer_slug": "turkiye-uzay-ajansi-baskani",
+  "path": "regulation/turkiye-uzay-ajansi-baskani/2022/39440",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39440&MevzuatTertip=5",
+  "source_sha256": "3397d60b1ac1d8424fe1c34fca69a6ffe156d23b24f6b846390de406243d3c6c",
+  "source_bytes": 9072,
+  "published": "2022-03-25",
+  "gazette": "31789",
+  "in_force": "2022-03-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 154,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39440-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
