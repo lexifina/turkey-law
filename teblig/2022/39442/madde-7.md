@@ -1,0 +1,7 @@
+Bulgularla ilgili sonuç değerlendirmesi
+MADDE 7- (1) Denetçi, raporda denetim amaçları, denetim bulguları ve varsa denetlenenin görüşlerini yorumlayarak kendi çıkarımları ve görüşleri doğrultusunda değerlendirmelerle ihtiyaç varsa açıklamalarına yer verir.
+(2) Denetçi, denetlenenin görüşlerine katılmadığı veya planlanan düzeltme çalışmalarının uygun olmadığını düşündüğü takdirde buna sonuç değerlendirmesinde ayrıca yer verir. Denetçi, denetlenenin görüşlerini haklı bulması halinde, raporda ilgili düzeltmeleri yapar.
+(3) Herhangi bir bulgunun düzeltildiğine dair bir beyanın rapor tarihinden önce denetlenen tarafından denetçiye ulaşması durumunda, tespit edilen her bir bulgu için birer defaya mahsus olmak koşuluyla, denetçi denetlenenin beyanını doğrulamak için bu bulgunun son durumunu tahlil eder, bulgunun ortadan kalktığı kanaatine ulaşırsa bulgunun düzeltildiğine dair yargısına raporun bulguya ilişkin sonuç değerlendirmesi bölümünde yer verir.
+(4) Denetçi, bulgulara ait sonuç değerlendirmesi bölümünde bulgunun devam durumunu; “devam etmektedir”, “kısmen düzeltilmiştir” veya “düzeltilmiştir” şeklinde raporunda ifade eder.
+(5) Denetçi, geçmiş dönemlerde tespit edilmiş ve bir önceki dönem raporunda halen giderilmediği ifade edilmiş olan bulgulara ait sonuç değerlendirmesi bölümünde bulgunun aksiyon planının yeterliliği ve uyumluluğuna da yer verir.
+(6) Denetçi, raporda düzeltildiğini beyan ettiği bulgularda, mümkün olan hallerde riskin gerçekleşmesi durumunu kontrol ederek sonuç değerlendirmesinde bu bilgiye yer verir.

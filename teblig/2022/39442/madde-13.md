@@ -1,0 +1,5 @@
+İş süreçleri bağımsız denetimi
+MADDE 13- (1) Denetçi, iş süreçleri üzerindeki kontrollerinin etkinlik, yeterlilik ve uyumluluğuna ilişkin yaptığı denetim sırasında kullandığı önemlilik değerlendirmesini ve bu değerlendirme sonucunda hangi süreçleri seçtiğini, seçim nedenlerini ve seçmediği süreçleri neden seçmediğini açık ve net bir şekilde ifade eder.
+(2) Denetçi, denetlenenin faaliyetlerine ilişkin süreçlere dair denetlenen tarafından kendisine sunulan iş akış diyagramlarını ve bu diyagramlarda yer verilen süreçler üzerindeki kontrollerine ilişkin kendi çalışmasını özetleyen tabloyu Ek-5’te belirtildiği şekliyle doldurarak raporuna ekler.
+(3) Denetçi, denetim esnasında tespit ettiği veya geçmiş dönemden gelen her bir iş süreci bulgusu için Ek-3’te yer alan tabloyu doldurur; bulgulara iş süreçleri bağımsız denetimi bölümü altındaki ilgili oldukları başlık altında yer verir.
+(4) Denetçi, süreç üzerindeki kontrollerin, kendilerinden beklenen işlevleri layıkıyla yerine getirme durumlarına ve sürecin bütününün etkinlik, yeterlilik ve uyumluluğuna ilişkin değerlendirmelerine sürece ilişkin bölümün sonunda yer verir.
