@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39439",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DEVLET OPERA VE BALESİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39439",
+  "issuer": "Devlet Opera ve Balesi Genel Müdürü",
+  "issuer_slug": "devlet-opera-ve-balesi-genel-muduru",
+  "path": "regulation/devlet-opera-ve-balesi-genel-muduru/2022/39439",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39439&MevzuatTertip=5",
+  "source_sha256": "a66d7ae4b9a925b2864744697f644aef80a931989b527bad9c9a1501946bf405",
+  "source_bytes": 9741,
+  "published": "2022-03-25",
+  "gazette": "31789",
+  "in_force": "2022-03-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.03.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 194,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39439-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
