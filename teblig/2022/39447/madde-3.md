@@ -1,0 +1,2 @@
+Karar
+MADDE 3- (1) Soruşturma kapsamında, İthalatta Haksız Rekabeti Değerlendirme Kurulu, yerli üretim dalı tarafından yapılan damping soruşturması başvurusunun soruşturma süresi içerisinde geri çekilmesi nedeniyle 14/6/1989 tarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanunun Ek 1 inci maddesi hükmü çerçevesinde mevcut soruşturmanın önlemsiz olarak kapatılmasına karar vermiştir.
