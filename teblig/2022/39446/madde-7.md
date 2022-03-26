@@ -1,0 +1,3 @@
+Gerekçe
+MADDE 7- (1) Yönetmeliğin 35 inci maddesinin ikinci fıkrası hükmünce, 10/7/2021 tarihli ve 31537 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/39) ile ÇHC menşeli mevcut önlemin yürürlükten kalkacağı ve ilgili ürünün yerli üreticilerinin mevzuatta öngörülen sürelerde yeterli delillerle desteklenmiş bir başvuru ile NGGS açılması talebinde bulunabilecekleri duyurulmuştur.
+(2) Mezkûr ilanı müteakip yerli üretim dalı tarafından iletilen başvurunun incelenmesi neticesinde, uygulanan dampinge karşı önlemin yürürlükten kalkması halinde dampingin ve zararın devam etmesi veya yeniden meydana gelmesinin muhtemel olduğu ve bir NGGS açılmasını haklı kılacak bilgi, belge ve delillerin mevcut olduğu anlaşılmıştır.
