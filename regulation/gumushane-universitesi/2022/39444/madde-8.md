@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, Merkezin faaliyet alanında belirtilen konularla ilgili birimlerde görevli Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süreyle görevlendirilir. Görev süresi sona eren Müdür yeniden görevlendirilebilir. Müdür, yürütmekte olduğu görevlerle ilgili olarak Rektöre karşı sorumludur.
+(2) Müdür, çalışmalarında kendisine yardımcı olmak üzere Üniversite öğretim elemanları arasından iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır. Göreve vekâletin altı aydan uzun sürmesi durumunda yeni bir Müdür görevlendirilir. Müdürün görevi sona erdiğinde yardımcılarının da görevi kendiliğinden sona erer.
