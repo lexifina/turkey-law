@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "515",
+  "decision_date": "2022-03-29",
+  "source_id": 35951,
+  "chamber": "5",
+  "ilam_number": "106",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35951/",
+  "source_sha256": "976d6441c141d00e8455ecd88185d6de3e9a75458eb1310f078ef51a330fd629",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
