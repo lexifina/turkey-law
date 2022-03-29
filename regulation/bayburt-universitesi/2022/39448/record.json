@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-03-29",
+      "29.03.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31793",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-03-29",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Bayburt Üniversitesi",
+  "issuer_slug": "bayburt-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bayburt-universitesi/2022/39448",
+  "published": "2022-03-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39448&MevzuatTertip=5",
+  "source_bytes": 70740,
+  "source_id": "8.5.39448",
+  "source_sha256": "101c6ad6bb67d3e89e267aa8d5f176dce255a6495733edc8e2acc34787cf4e59",
+  "text_status": "as-enacted",
+  "title": "BAYBURT ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 347,
+  "word_count": 1510
+}
