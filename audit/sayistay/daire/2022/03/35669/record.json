@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "282",
+  "decision_date": "2022-03-29",
+  "source_id": 35669,
+  "chamber": "4",
+  "ilam_number": "83",
+  "item_number": 11,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35669/",
+  "source_sha256": "248f60a5a8d0bebb16131cbaf559cbdaa4f2e82b37e804c39a67a58c3c0d7887",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
