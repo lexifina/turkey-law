@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "514",
+  "decision_date": "2022-03-29",
+  "source_id": 35514,
+  "chamber": "5",
+  "ilam_number": "59",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35514/",
+  "source_sha256": "19efa4098077cc65d4f12cf9676b3c3371b98abc70c17e5022608dded8fea286",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
