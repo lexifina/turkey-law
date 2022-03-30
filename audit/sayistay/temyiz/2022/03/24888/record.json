@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51561",
+  "decision_date": "2022-03-30",
+  "source_id": 24888,
+  "chamber": "7",
+  "file_number": "48562",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24888/",
+  "source_sha256": "9e5d74b38d58e2c11a137d20a6d64c1253653d51a882c7e54b671b78c25359d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
