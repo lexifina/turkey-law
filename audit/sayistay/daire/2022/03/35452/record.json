@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "242",
+  "decision_date": "2022-03-31",
+  "source_id": 35452,
+  "chamber": "8",
+  "ilam_number": "60",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35452/",
+  "source_sha256": "85258da54d6dd8cc93c4437f2352fdb2fffcead8f9a128a4ce2107609549df89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
