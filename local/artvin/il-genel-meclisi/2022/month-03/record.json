@@ -1,0 +1,29 @@
+{
+  "number": "month-03",
+  "year": 2022,
+  "month": 3,
+  "title": "2022 Yılı Mart Ayı İl Genel Meclis Kararı İndirmek İçin Tıklayınız.",
+  "decision_date": null,
+  "index_date": "2022-03-31",
+  "date_precision": "month",
+  "period": "Mart 2022",
+  "source": "https://www.artvinozelidare.gov.tr/2022-yili-il-genel-meclis-kararlari",
+  "official_page": "https://www.artvinozelidare.gov.tr/2022-yili-il-genel-meclis-kararlari",
+  "official_document": "https://www.artvinozelidare.gov.tr/kurumlar/artvinozelidare.gov.tr/2022-Yili-Subat-Meclis/2022-MART-KARARLARI.doc",
+  "source_sha256": "c2d57746fc10940ce50832ef2b6c1c9eeb8501b2a97f8b86e3b8eb794c4d1145",
+  "issuer": "Artvin İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-03-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mart 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 Yılı Mart Ayı İl Genel Meclis Kararı İndirmek İçin Tıklayınız.",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2022 Yılı İl Genel Meclis Kararları"
+}
