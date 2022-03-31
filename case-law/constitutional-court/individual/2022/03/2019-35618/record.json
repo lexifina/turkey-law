@@ -1,0 +1,20 @@
+{
+  "applicant": "H.A.B.A.M. VE S.S.H.A.K.",
+  "application_date": "2019-10-31",
+  "application_number": "2019/35618",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2022-03-31",
+  "id": "57ad2157-f372-5640-4046-e6402be12d7a",
+  "in_force": "2022-03-31",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjU3YWQyMTU3LWYzNzItNTY0MC00MDQ2LWU2NDAyYmUxMmQ3YQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "23bfb0a48c4a707c7edde05d2aabb96e7ea5a6ab09b8f943d94a54624f17630d",
+  "version_label": "as-enacted"
+}
