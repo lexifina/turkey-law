@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10860",
+  "decision_date": "2022-03-31",
+  "source_id": 35433,
+  "chamber": "1",
+  "ilam_number": "40",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35433/",
+  "source_sha256": "2be2f2e9ae84beb788d027fe7d70be675974bb2473bc3ab796d507b56bb65a07",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
