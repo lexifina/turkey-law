@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10907",
+  "decision_date": "2022-03-31",
+  "title": "Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ’in 5 inci maddesinde yer alan tüketim miktarının 2022 yılı için güncellenmesi",
+  "resmi_gazete_date": "2022-04-02",
+  "resmi_gazete_number": "31797",
+  "categories": [
+    "Son Kaynak Tedarik Tarifesine İlişkin Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=b2f/RIvjrcU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=b2f/RIvjrcU="
+  ],
+  "source_sha256": "fd8d3132fdd708797e53024b05ae8b2efb64bf212d7000b625ce71027c3e2381",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 15595,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-03-31",
+  "law_text_complete": true
+}
