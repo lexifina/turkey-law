@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "243",
+  "decision_date": "2022-03-31",
+  "source_id": 35440,
+  "chamber": "8",
+  "ilam_number": "334",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35440/",
+  "source_sha256": "7c3c33b00a3312dc8a0afb92283c1252910d4a42ace9f76d09b69a5c33127bba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
