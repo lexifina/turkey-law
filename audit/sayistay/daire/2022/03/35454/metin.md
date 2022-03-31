@@ -1,0 +1,13 @@
+Damga vergisi
+
+… Ltd. Şti’ye ihale edilen … İşi’ne ilişkin olarak, sözleşme bedeli üzerinden binde 9,48 oranındaki sözleşme damga vergisi ile ihale kararına ilişkin binde 5,69 oranındaki damga vergisinin yükleniciden tek seferde tahsil edilmesi gerekirken, hakedişler üzerinden peyderpey kesilmesi nedeniyle … TL kamu zararına sebebiyet verildiği iddiasına ilişkin olarak,
+
+488 sayılı Damga Vergisi Kanunu’nun “Konu” başlıklı 1’inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kâğıtların damga vergisine tabi olduğu; “Mükellef” başlıklı 3’üncü maddesinde, damga vergisinin mükellefinin kâğıtları imza edenler olduğu ve resmi daireler ile kişiler arasındaki kâğıtların damga vergisinin kişiler tarafından ödeneceği; “Kâğıtların mahiyetlerinin tayini” başlıklı 4’üncü maddesinde, bir kâğıdın tabi olacağı verginin tayini için o kâğıdın mahiyetine bakılacağı ve buna göre tabloda yazılı vergisinin bulunacağı, “Nispet” başlıklı 14’üncü maddesinde kâğıtların damga vergisinin kanuna ekli (1) sayılı tabloda yazılı nispet veya miktarlarda alınacağı belirtilmiştir.
+
+Anılan Kanun’a ekli (1) sayılı tablonun “I. Akitlerle ilgili kâğıtlar” başlıklı bölümünün A.l maddesinde; belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin binde 9,48 oranında damga vergisine tabi olduğu ifade edilmiş olup, aynı Tablonun “II. Kararlar ve mazbatalar” başlıklı bölümünün 2’nci maddesinde ise İhale Kanunlarına tabi olan veya olmayan resmi daire ve kamu tüzel kişiliğini haiz kurumların her türlü ihale kararları üzerinden binde 5,69 oranında damga vergisi alınacağı ifade edilmiştir.
+
+Yukarıda yer verilen mevzuat hükümleri uyarınca, … Belediyesi tarafından … Ltd. Şti’ye ihale edilen … İşi’ne ilişkin olarak sözleşme bedeli üzerinden binde 9,48 oranında sözleşme damga vergisi ile ihale kararına ilişkin binde 5,69 oranında damga vergisinin yükleniciden tahsil edilerek vergi dairesine yatırılması gerekmektedir.
+
+Ancak, yapılan incelemede sözleşme damga vergisi ile ihale kararı damga vergisinin yükleniciden tek seferde tahsil edilmesi gerekirken, hakediş ödemeleri üzerinden peyderpey kesildiği ve ihale gerçekleşmesindeki bedelin sözleşme bedelinden daha düşük olması nedeniyle de  … TL tutarındaki damga vergisinin eksik tahsil edildiği görülmüşse de,
+
+Sorumlular tarafından gönderilen savunmalardan eksik tahsil edilen söz konusu … TL damga vergisinin sorgu üzerine Yüklenici … A.Ş.’den … numaralı teslimat müzekkeresinin ekli olduğu … tarih ve … sayılı Muhasebe İşlem Fişi ile tahsil edildiği anlaşıldığından, konu hakkında ilişilecek bir husus kalmadığına, yapılan tahsilatın İlamda gösterilmesine, oy birliğiyle karar verildi.
