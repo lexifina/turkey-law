@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-04-01",
+  "issue": "31796",
+  "edition": "regular",
+  "item": 5,
+  "section": "YASAMA BÖLÜMÜ",
+  "heading": "KANUNLAR",
+  "title": "7388 Türkiye Cumhuriyeti Hükümeti ve Ürdün Haşimi Krallığı Hükümeti Arasında Hava Hizmetleri Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220401-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220401.htm",
+  "index_sha256": "616f4656274bd7d2c7ddade23ef2250424a30c13ebd49b0e2a22ae7faf7cb849",
+  "index_header": "1 Nisan 2022 ... 31796 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220401.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
