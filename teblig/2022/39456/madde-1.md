@@ -1,0 +1,2 @@
+Amaç
+MADDE 1- (1) Bu Tebliğin amacı; 11/8/2021 tarihinde Bartın, Kastamonu ve Sinop illerinde meydana gelen sel felaketi sonrası, bu illerdeki geleneksel kıyı balıkçılığı yapan küçük ölçekli balıkçıların kayıplarının telafi edilebilmesi için Bartın, Kastamonu ve Sinop illerinde sel felaketi sonrası küçük ölçekli kıyı balıkçılığının uğradığı zararları tazmin amacıyla, bir defaya mahsus olarak, balıkçı gemisi sahiplerine 2022 yılında yapılacak desteklemeye ilişkin iş ve işlemlerle ilgili usul ve esasları düzenlemektir.

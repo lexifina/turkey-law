@@ -1,0 +1,3 @@
+Müracaat
+MADDE 6- (1) Desteklemeden yararlanmak isteyen balıkçı gemisi sahipleri veya balıkçı gemisi yetkilileri, Genel Müdürlükçe Bakanlık internet sitesinde ilan edilen tarihlerde gemisinin ruhsat tezkeresinin düzenlendiği il/ilçe müdürlüklerine Ek-1’de yer alan dilekçe ile şahsen müracaat eder.
+(2) Müracaat dilekçesinin ekinde; geminin birden fazla kişiye veya tüzel kişiliğe ait olması halinde, bu Tebliğ kapsamındaki iş ve işlemleri yürütmek üzere, gemi sahiplerinin tümü tarafından yetkilendirilen kişiye ait Ek-2’de yer alan muvafakatname veya noter tasdikli yetki belgesi il/ilçe müdürlüğüne sunulur.
