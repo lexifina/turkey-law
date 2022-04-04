@@ -1,0 +1,24 @@
+{
+  "number": "194",
+  "number_as_published": "194",
+  "year": 2022,
+  "title": "council decision",
+  "decision_date": "2022-04-04",
+  "source": "https://www.kecioren.bel.tr/nisan_2022_olagan_meclis_karar_ozetleri-5-meclis-karar-ozeti.html",
+  "official_document": "https://www.kecioren.bel.tr/nisan_2022_olagan_meclis_karar_ozetleri-5-meclis-karar-ozeti.html",
+  "source_sha256": "5f0e108d06c543af7dca3ccd8c326bebda94d43c9a2607dfa59d167f4bd1ab6c",
+  "issuer": "Keçiören Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: the published decision summary appears to name private persons; official link only",
+  "in_force": "2022-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.04.2022 (decision header in the official summary page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "summary_page_title": "NİSAN 2022 Olağan Meclis Karar Özetleri",
+  "summary_page_posted": "2022-04-11",
+  "listing": "https://www.kecioren.bel.tr/meclis-karar-ozetleri.html?page=1"
+}
