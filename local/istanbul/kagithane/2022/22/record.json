@@ -1,0 +1,22 @@
+{
+  "number": "22",
+  "number_as_published": "22",
+  "year": 2022,
+  "title": "Komisyon Oluşturulması",
+  "decision_date": "2022-04-04",
+  "source": "https://www.kagithane.istanbul/kagithane_belediyesi/meclis/2022-Meclis-Kararlari/654/0/0",
+  "official_document": "https://www.kagithane.istanbul/images/meclisler/Meclis-karari-2022-22.jpg",
+  "source_sha256": "5d62368879fd9410530c8f2e212deb4d21dd1d9bd4993bdb0412a4e4da6fc2e8",
+  "issuer": "Kağıthane Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-04-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Nisan 2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "subject_note": "subject (KARAR ÖZET) as the official list prints it; the list shows only its first ~30 characters"
+}
