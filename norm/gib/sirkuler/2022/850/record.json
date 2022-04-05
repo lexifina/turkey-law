@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-59 / 2022-1 / Yatırım İndirimi - 45",
+  "source_id": 850,
+  "date": "2022-04-05",
+  "title": "5520 sayılı Kurumlar Vergisi Kanunu Sirküleri /59",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/850",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "f666e822f61ff94cd7eef28b42376ee550fd1621b190d7df7e6241bbd9611c89",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
