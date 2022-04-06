@@ -1,0 +1,12 @@
+Enerji Dönüşüm Dairesi Başkanlığı
+MADDE 15/B- (Ek:RG-6/4/2022-31801-C.K.-5380/3 md.)
+(1) Enerji Dönüşüm Dairesi Başkanlığının görev ve yetkileri şunlardır:
+a) Enerji piyasasında enerji politikaları ve Kurumun sorumluluk alanları çerçevesinde araştırma – geliştirme faaliyetleri ile yenilikçi politika ve projelerin izlenmesi, geliştirilmesi ve uygulanması, desteklenecek araştırma- geliştirme ve yenilikçi projelerin tespiti, sağlanacak desteklerin kapsamının ve miktarının belirlenmesi ve uygulamanın izlenmesi ile bu kapsamda elde edilen çıktıların ilgili piyasa süreçlerinde değerlendirilmesine dair çalışmalar yapmak.
+b) Genel politikalar çerçevesinde enerji piyasalarının tamamlayıcısı mahiyetindeki veya ilişkili olduğu karbon piyasası, emisyon ticareti, yeşil sertifika ve benzeri piyasa ve süreçlerin tasarımı, mevzuatının geliştirilmesi, uygulamaya geçirilmesine dair çalışmalar yapmak, uygulamayı izlemek, gözetmek ve yönlendirmek.
+c) Enerji piyasasında dijitalleşme sürecini izlemek, bu alanda politika ve proje önerileri geliştirmek, belirlenen politikaların hayata geçirilmesine yönelik çalışmalar yapmak, projelerin uygulamasını izlemek ve yönlendirmek.
+ç) Fosil yakıtları ikame veya destekleyici olarak kullanılabilen hidrojen, biyoyakıtlar, sentetik ve parafinli yakıtlar, biyometan ve benzeri alternatif yakıtların enerji piyasasında kullanılmasına yönelik araştırmalar yapmak, mevzuat geliştirmelerine, bu tür yakıtların kullanılmasına ilişkin izin ve izleme süreçlerinin tasarlanmasına ve yönetilmesine katkı sağlamak.
+d) Elektrikli araçlara elektrik enerjisi temininin sağlandığı şarj istasyonlarının, standartlara ve birlikte çalışabilirlik esasına uygun olarak kurulması ve işletilmesine ilişkin işlemler ile şarj hizmetinin verilmesine dair mevzuat geliştirmek, mevzuatın gereklerini yerine getirmek; şarj hizmeti sunacak kişilerin piyasaya giriş izinlerine ve piyasadaki faaliyetlerinin izlenmesi ve yönlendirilmesine dair iş ve işlemleri yapmak.
+e) Enerji ve ilgili diğer politikalar çerçevesinde bu madde kapsamındaki iş ve süreçlere ilişkin projeksiyonlar yapmak, projeksiyonların hazırlanmasına esas modeller geliştirmek, temin etmek ve kullanmak.
+f) Bu madde kapsamındaki faaliyet, iş ve işlemlere dair farkındalığın artırılması ve tüketici haklarının korunmasına dair çalışmalar yapmak.
+g) Görevleriyle ilgili konularda mevzuat taslakları hazırlamak.
+ğ) Başkan tarafından verilen benzeri görevleri yapmak.

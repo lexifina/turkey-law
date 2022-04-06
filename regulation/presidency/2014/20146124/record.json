@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20146124",
+  "number": "20146124",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ENERJİ PİYASASI DÜZENLEME KURUMU TEŞKİLAT YÖNETMELİĞİ",
+  "published": "2014-05-18",
+  "enacted": "2014-03-17",
+  "gazette_number": "29004",
+  "in_force": "2022-04-06",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 6/4/2022; source row: 5/4/2022 | 5380 | 4, 5, 15/B | 6/4/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20146124&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "20443266259a9f0f4c234f264e9002d45ebe56096264cf7938db940648256583",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
