@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2022/131",
+  "list_number": "131",
+  "decision_date": "2022-04-06",
+  "title": "Yüksek Seçim Kurulunun 06/04/2022 Tarihli ve 2022/131 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015084/2022-131.pdf",
+  "source_sha256": "d70e0a656a406daab049345d2074005d951e95eb1f6d336cc0c7bba6261ffd41",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2022-04-06",
+  "law_text_complete": false
+}
