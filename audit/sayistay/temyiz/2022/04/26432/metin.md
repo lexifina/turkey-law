@@ -1,0 +1,5 @@
+Muhasebe kayıtlarında banka hesabı ile banka mevcudunu dengelemek için herhangi bir gider veya emanet iadesi karşılığı olmadan banka hesabından çıkış yapılması;
+
+106 sayılı İlamın 1. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 45070 sayılı dosya, 06.04.2022 tarihli ve 51596 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu (Muhasebe Yetkilisi sıfatıyla temyiz talep eden …’ı) ilgilendiren ve aynı mahiyette olan 45069 sayılı işbu dosyanın da sözü edilen (45070 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 06.04.2022 tarih ve 51597 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
