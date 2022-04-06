@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.15374",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "EV HAYVANLARININ ÜRETİM, SATIŞ, BARINMA VE EĞİTİM YERLERİ HAKKINDA YÖNETMELİK",
+  "number": "15374",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2011/15374",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15374&MevzuatTertip=5",
+  "source_sha256": "450d4ce727b619eb483c90b9e91d14b5a5ca26128b25a7949486186e20793216",
+  "source_bytes": 81866,
+  "published": "2011-10-08",
+  "gazette": "28078",
+  "in_force": "2022-04-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-06",
+      "RG-6/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-06",
+      "6/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-02-18",
+      "RG-18/2/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-02-18",
+      "18/2/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-04",
+      "4/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-04-03",
+      "3/4/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-11-16",
+      "16/11/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-11-12",
+      "RG-12/11/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4110,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.15374-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,8 @@
+Çalışma izni almak için gerekli belgeler
+MADDE 6 – (Değişik:RG-18/2/2020-31043)
+(1) İş yeri açacak gerçek ve tüzel kişiler, çalışma izni alabilmek için bir adet ıslak veya elektronik imzalı dilekçe, ekinde aşağıdaki belgelerle fiziki olarak veya elektronik ortamda il müdürlüğüne müracaat ederler:
+a) Muayenehane, klinik, poliklinik veya hayvan hastanelerinde çalışan veteriner hekimle yapılmış en az bir yıllık bölge veteriner hekimler odası onaylı veteriner hekim sözleşmesi,
+b) Eğitim yerlerinde görev yapacak uzman eğitimcinin çalışma izni verecek kurumca onaylı uzmanlık belgesinin aslı veya il müdürlüğünce onaylı fotokopisi.
+c) (Ek:RG-6/4/2022-31801) Satış yerleri için 5199 sayılı Kanuna göre yerel yönetimler tarafından düzenlenen eğitim sertifikasının aslı veya il müdürlüğünce onaylı fotokopisi.
+(2) Birinci fıkrada belirtilen bilgi ve belgelere, ilgili kurum/kuruluşların elektronik ortamda kamu kurum ve kuruluşlarına erişim yetkisi vermesi halinde, işyeri yetkilisince bu bilgi ve belgelere erişim sağlayabilmek için gerekli bilgileri içeren beyan verilmesi yeterlidir.
+(3) Başvuru, il müdürlüğü bünyesinde yer alan ilgili şube müdürlüğünce incelenir. Belgelerin uygun bulunması halinde; mahallinde yapılan inceleme sonunda bu Yönetmeliğin eki Ek-3’te yer alan İş Yeri Açma Raporu düzenlenir. İş yeri açma raporuna istinaden mevzuata uygun bulunan yerlere, il müdürlüğünce fiziki veya elektronik ortamda düzenlenmiş ve onaylanmış Ek-4’te yer alan İş Yeri Çalışma İzin Belgesi verilir. Çalışma izni verilmiş iş yerlerine ait bilgiler bölge veteriner hekimler odasına bir yazı ile bildirilir.
