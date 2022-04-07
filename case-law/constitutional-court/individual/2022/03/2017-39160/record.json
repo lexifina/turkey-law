@@ -1,0 +1,20 @@
+{
+  "applicant": "Ö.Ö.",
+  "application_date": "2017-12-06",
+  "application_number": "2017/39160",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2022-03-03",
+  "id": "7f4d5ec3-1728-db78-cda5-99d130981659",
+  "in_force": "2022-04-07",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2022-04-07",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjdmNGQ1ZWMzLTE3MjgtZGI3OC1jZGE1LTk5ZDEzMDk4MTY1OQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "2f65df93ee4837d1ae10e93a25bcc3d45e25353afbc90a74ee15fdf313b7fc1f",
+  "version_label": "as-enacted"
+}
