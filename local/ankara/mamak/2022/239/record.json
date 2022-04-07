@@ -1,0 +1,29 @@
+{
+  "number": "239",
+  "number_as_published": "239",
+  "year": 2022,
+  "title": "Belediyemiz Fen İşleri Müdürlüğünün 2021 yılı çalışma programında neler olduğuna ilişkin Meclis Kararı.",
+  "decision_date": "2022-04-07",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=09a7664b-73de-4bc6-b01e-bc6727503718",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 2022-04-07T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=09a7664b-73de-4bc6-b01e-bc6727503718",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=4b09372f-1745-4cd4-94ba-d7f0746c6751",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=e984f1c7-1d52-482d-84f1-f0aec14bf237",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=99edd72c-ddb8-4834-92b6-0a079c0538ef"
+  ]
+}
