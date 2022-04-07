@@ -1,0 +1,74 @@
+{
+  "kind": "norm",
+  "issuer": "Sermaye Piyasası Kurulu",
+  "document_type": "principle-decision",
+  "number": "210",
+  "decision_number": "17/519",
+  "date": "2022-04-07",
+  "title": "Kurul Karar Organı’nın i-SPK.35-A.2.1 (07.04.2022 Tarihli ve 17-519 S.K.) Sayılı İlke Kararı",
+  "source": "https://mevzuat.spk.gov.tr/api/IlkeKarari/File/210",
+  "source_sha256": "674908ea1add20d550137376c808c97aa3fba51248350ef860ca65e7afd39eb0",
+  "source_listing_url": "https://mevzuat.spk.gov.tr/api/Search/All",
+  "source_record_id": 210,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "date_basis": "official principle-decision date printed in the source PDF and official API: 2. Kurul Karar Organı’nın i-SPK.35/A.2.1 (07.04.2022 tarihli ve 17/519 s.k.) sayılı İlke Kararı:",
+  "operative_date_review": {
+    "date_type": "decision-date",
+    "decision_date": "2022-04-07",
+    "source_clauses": [
+      "2. Kurul Karar Organı’nın i-SPK.35/A.2.1 (07.04.2022 tarihli ve 17/519 s.k.) sayılı İlke Kararı:"
+    ],
+    "deferred_start": "none stated in source text; no source date later than the decision"
+  },
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0,
+    "decorative_or_non_normative": 0
+  },
+  "official_listing_record": {
+    "id": "34a8afb5-08b9-4242-b600-c0285ae183ff",
+    "contentSource": "IlkeKarari",
+    "contentID": 210,
+    "tur": "İlke Kararı",
+    "title": "Kurul Karar Organı’nın i-SPK.35-A.2.1 (07.04.2022 Tarihli ve 17-519 S.K.) Sayılı İlke Kararı",
+    "no": "",
+    "sayi": "",
+    "resmiGazeteTarihi": null,
+    "resmiGazeteTarih": null,
+    "resmiGazeteSayi": null,
+    "resmiGazeteMukerrer": null,
+    "kurulKararTarihi": "2022-04-07T00:00:00",
+    "kurulKararTarih": "07.04.2022",
+    "kurulToplantiNo": "17/519",
+    "bultenYili": 2022,
+    "bultenNo": 17,
+    "kisimID": null,
+    "bolumID": null,
+    "kisim": "VIII. KISIM - Sermaye Piyasası Kurulu İlke Kararları",
+    "bolum": "İlke Kararları",
+    "baglantiliTebliglerStr": "220:Kitle Fonlaması Tebliği",
+    "baglantiliTebligler": [
+      {
+        "key": 220,
+        "value": "Kitle Fonlaması Tebliği"
+      }
+    ],
+    "ilgiliKonularStr": "2:Yatırım Hizmetleri ve Faaliyetleri;152:Paya Dayalı Kitle Fonlaması",
+    "ilgiliKonular": [
+      {
+        "key": 2,
+        "value": "Yatırım Hizmetleri ve Faaliyetleri"
+      },
+      {
+        "key": 152,
+        "value": "Paya Dayalı Kitle Fonlaması"
+      }
+    ],
+    "countItems": 0,
+    "intro": "",
+    "link": "IlkeKarari/Dosya/210",
+    "linkTarget": "_blank"
+  }
+}
