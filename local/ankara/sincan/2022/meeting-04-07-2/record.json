@@ -1,0 +1,23 @@
+{
+  "number": "meeting-04-07-2",
+  "number_as_published": null,
+  "year": 2022,
+  "title": "Sincan Belediyesi İktisadi ve Sosyal Tesis İşletmesi kuruluşu gerçekleşmiş, \"Kahve Konağı\" adı altında çalışacak olan İktisadi ve Sosyal Tesis İşletmesinin faaliyetlerine başlayabilmesi için 500.000,00 TL kuruluş sermayesi Sincan Belediye Başkanlığı İktisadi ve Sosyal Tesis İşletmesinin Ziraat Bankası Sincan Şubesindeki TR690001000731975891315001 numaralı hesabına aktarılması ile ilgili başkanlık yazısı",
+  "decision_date": "2022-04-07",
+  "source": "https://www.sincan.bel.tr/mecliskararlari",
+  "official_document": "https://www.sincan.bel.tr/upload/mecliskararlari/KARAR_147_-_SC4B0NCAN_C4B0KTC4B0SADC4B0_VE_SOSYAL_TESC4B0S_C4B0C59ELETMESC4B0_SERMAYE_AKTARIMI.docx",
+  "source_sha256": "b415f62ea17c4060f9082a51ec5aa38666e4afb816b854305461d3b951680349",
+  "issuer": "Sincan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-04-07",
+  "in_force_basis": "Decision date as printed in the official council listing: TARİH:2022-04-07; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.sincan.bel.tr/mecliskararlari",
+  "number_note": "the official list prints this decision without a number; key = order among that day's unnumbered decisions"
+}
