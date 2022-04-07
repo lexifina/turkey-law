@@ -1,0 +1,4 @@
+Kaldıraç oranının uygulanması
+GEÇİCİ MADDE 6 – (Ek:RG-10/2/2017-29975)
+(1) Bu maddenin yayımı tarihinden önce açılmış olan pozisyonlar için 27 nci maddenin birinci ve üçüncü fıkralarında belirtilen kaldıraç oranı ve asgari başlangıç teminat tutarı için 14/1/2016 tarihli ve 29593 sayılı Resmî Gazete’de yayımlanan Yatırım Hizmetleri ve Faaliyetleri ile Yan Hizmetlere İlişkin Esaslar Hakkında Tebliğ III-37.1’de Değişiklik Yapılmasına Dair Tebliğ (III-37.1.a) hükümleri uygulanmaya devam olunur.
+(2) Bu maddenin yürürlüğe girdiği tarih itibarıyla aracı kurumlar nezdinde bulunan açık pozisyonlarda uygulanan kaldıraç oranı en geç 45 gün içerisinde 27 nci maddenin birinci fıkrasında belirtilen kaldıraç oranına uyumlu hale getirilir. Bu süre içinde uyum sağlayamayan pozisyonlar aracı kurum tarafından kapatılır.

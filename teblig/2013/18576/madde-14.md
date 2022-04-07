@@ -1,0 +1,9 @@
+Emir iletimine aracılık faaliyetinin yürütülmesine ilişkin ilke ve esaslar
+MADDE 14 – (1) Emir iletimine aracılık faaliyetinin yürütülmesi sırasında yatırım kuruluşlarının aşağıdaki ilke ve esaslara uymaları zorunludur:
+a) Emir iletimine aracılık yapacak yetkili kuruluş ile lehine faaliyet gösterilecek her bir kuruluş arasında tarafların hak ve yükümlülüklerinin belirlendiği bir sözleşme imzalanması şarttır.
+b) Hem emir iletimine aracılığa yetkili kuruluşun hem lehine faaliyet gösterilen yetkili kuruluşun işlemlere başlamadan önce müşteri ile ayrı ayrı çerçeve sözleşme imzalaması esastır. Ancak her iki yetkili kuruluşun mutabakatı ve yetkilendirmesiyle emir iletimine aracılık ve işlem aracılığı faaliyetlerine ilişkin esaslara aynı sözleşmede yer verilmesi halinde tek çerçeve sözleşme yapılması mümkündür.
+c) Müşterilere ait hesap ve işlemlerin lehine faaliyet gösterilen kuruluş nezdinde müşteri bazında izlenmesi gerekir.
+ç) Çerçeve sözleşmeler ile risk bildirimleri dahil lehine faaliyet gösterilen yetkili kuruluşa iletilen emirlere ilişkin belgeler ile kayıtların birer örneğinin emir iletimine aracılık faaliyetine yetkili kuruluş nezdinde saklanması gerekir.
+d) Kurulun belge ve kayıt düzenlemeleri uyarınca müşteriye yapılacak bildirimleri lehine faaliyet gösterilen kuruluş yapmakla yükümlüdür. Ancak müşterilerin talep etmesi halinde, hesapların açılması ve emirlerin iletilmesiyle sınırlı olarak ilgili bilgi ve belgelerin emir iletimine aracılık etmeye yetkili kuruluş tarafından da ibraz edilmesi zorunludur.
+e) Hem emir iletimine aracılığa yetkili kuruluş hem de lehine faaliyet gösterilen yetkili kuruluş, müşterilerine ait emirlerin gizliliğini korumakla yükümlüdür. Müşteriye ait emir bilgileri herhangi bir üçüncü şahsa, müşteri aleyhine ve üçüncü şahıs lehine müşterinin bilgisi olmaksızın aktarılamaz ve kullanılamaz.
+(2) Emir iletimine aracılık faaliyeti kapsamında tesis edilecek her yeni sözleşme ayrıca Kurula bildirilir.

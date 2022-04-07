@@ -1,0 +1,2 @@
+Diğer hizmet ve faaliyetler
+MADDE 77 – (1) Kanunun 38 inci maddesinin birinci fıkrasının (f) bendi kapsamında aracı kurumlar, Kurulun uygun görüşü alınmak suretiyle diğer finansal ürün ve hizmetleri de sunabilirler. Söz konusu finansal hizmet ve ürünün sunumunun kendi özel mevzuatında özel bir izne veya yetkiye bağlanmış olması durumunda, bu fıkra kapsamında hizmet veya ürünün sunumuna başlanmadan önce aracı kurumlar tarafından gerekli izinlerin alınması zorunludur.

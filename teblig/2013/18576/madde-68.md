@@ -1,0 +1,4 @@
+Müşteri ile saklamacı kuruluş arasında mutabakat
+MADDE 68 – (1) Saklama hizmeti sunulan müşteriler ile saklamaya yetkili yatırım kuruluşunun iç kontrolden sorumlu birimi veya personeli tarafından müşteriye ait sermaye piyasası araçları ve nakde ilişkin her takvim yılında en az 1 defa yazılı veya elektronik ortamda mutabakat sağlanması zorunludur. Söz konusu mutabakat işlemlerinin sonucu iç kontrolden sorumlu olmak üzere istihdam edilen en üst düzey personel tarafından aracı kurumun yönetim kuruluna, bankanın iç denetim komitesine ve ihtilaf olması halinde Kurula 3 iş günü içerisinde yazılı olarak bildirilir.
+(2) Profesyonel müşterilerden yazılı onay alınması durumunda birinci fıkrada yer alan mutabakatın yapılması zorunlu değildir.
+(3) Bu maddeyle ilgili olarak mutabakatların kapsamı ve mutabakatsızlıkların bildirimine ilişkin esasları belirleme konusunda Kurul yetkilidir.

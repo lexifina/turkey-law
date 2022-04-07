@@ -1,0 +1,3 @@
+Kredi ya da ödünç verilmesi ve döviz hizmetleri sunulması
+MADDE 72 – (1) Sermaye piyasası araçlarının kredili alım, açığa satış ve ödünç alma ve verme işlemlerine ilişkin ilke ve esaslar Kurul tarafından ayrıca belirlenir.
+(2) Yatırım kuruluşları, Kanunun 38 inci maddesinin birinci fıkrasının (b) bendi kapsamında, yatırım hizmet ve faaliyetleri ile sınırlı olarak döviz hizmetleri sunabilirler. Bu konuda ilgili mevzuatta ayrıca bir izin alınması gerekiyorsa, öncelikle gerekli izinlerin alınması zorunludur. Bu hizmeti sunacak aracı kurumların işlem veya portföy aracılığı faaliyet izni almış olması gereklidir.

@@ -1,0 +1,3 @@
+Konsorsiyum sözleşmesi
+MADDE 57 – (1) Konsorsiyum oluşturulması halinde, konsorsiyuma katılan yetkili yatırım kuruluşları arasında yazılı bir konsorsiyum sözleşmesi düzenlenir. Bu sözleşmede yer verilmesi gereken asgari hususlar Kurulca belirlenir.
+(2) Halka arza aracılık sözleşmesi ile konsorsiyum sözleşmesinin bir arada yapılmak istenmesi halinde, her iki sözleşmede yer alacak hükümler, tek sözleşmede birleştirilebilir ve sözleşme, konsorsiyuma katılan diğer yatırım kuruluşları ile en az 2 iş günü öncesinden paylaşılmak suretiyle sermaye piyasası aracını ihraç eden ve/veya halka arz eden ile konsorsiyum lideri ve konsorsiyuma katılan diğer yatırım kuruluşları tarafından birlikte imzalanır.

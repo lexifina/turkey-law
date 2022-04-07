@@ -1,0 +1,4 @@
+Müşteri varlıklarına ilişkin bildirim
+MADDE 69 – (1) Saklamaya yetkili yatırım kuruluşu tarafından müşterilere ait sermaye piyasası araçlarına ve nakde ilişkin olarak müşterilere Kurulun belge ve kayıt düzenlemelerinde yer alan esaslar çerçevesinde asgari olarak ayda bir bildirim yapılması esastır. Bildirim yapılmaması hususunda profesyonel müşterilerle sözleşme imzalanması veya bu hususa çerçeve sözleşmede yer verilmesi mümkündür. Bildirim, müşterilere ait sermaye piyasası araçları ve nakde ilişkin asgari olarak tarih ve sermaye piyasası aracı bazında saklama bakiyelerini içermelidir.
+(2) Müşteriye sunulan diğer yatırım hizmet ve faaliyetleri dolayısıyla yapılan bildirimin birinci fıkradaki hususları içermesi halinde, müşteriye ayrıca bildirim yapılmayabilir.
+(3) Bu madde uyarınca müşteriye yapılan bildirimlere müşteri tarafından itiraz edilmemesi mutabakat alındığı anlamına gelmez.

@@ -1,0 +1,3 @@
+Alım satım aracılığı faaliyetleri sırasında sorumluluk
+MADDE 31 – (1) Alım satım aracılığı faaliyetlerinin yürütülmesine birden fazla yatırım kuruluşunun dahil olması durumunda, emir iletimine aracılık, işlem aracılığı ve portföy aracılığı faaliyetini gerçekleştiren yatırım kuruluşlarının her biri yerine getirdikleri işlemlerden dolayı genel hükümler çerçevesinde sorumludur.
+(2) Her bir yatırım kuruluşuna ait sorumluluğun sınırları, mevzuatla belirlenen faaliyet ilke ve esaslarına aykırı olmamak kaydıyla bu kuruluşların birbirleriyle akdettikleri sözleşmelerde belirlenir ve bu hususlara müşteriler ile akdedilen çerçeve sözleşmelerde yer verilir.

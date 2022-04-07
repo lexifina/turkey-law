@@ -1,0 +1,3 @@
+Mevcut faaliyet izinlerine ilişkin geçiş hükümleri
+GEÇİCİ MADDE 2 – (1) Yatırım kuruluşları sunmak istedikleri yatırım hizmetleri ve faaliyetleri ile yan hizmetler için bu Tebliğ ile öngörülen asgari özsermaye dahil olmak üzere özel şartları yerine getirdiklerini tevsik edici belgeler ile bu Tebliğin yürürlük tarihinden itibaren en geç 1 yıl içinde Kurula başvuruda bulunurlar. Bu süre içinde Kurula başvuruda bulunmayan yatırım kuruluşlarının mevcut yetki belgeleri ve faaliyet izinleri iptal edilir.
+(2) Yatırım kuruluşları, kendilerine bu Tebliğ uyarınca faaliyet izni verilene kadar mevcut faaliyet esasları çerçevesinde faaliyetlerini yürütür.

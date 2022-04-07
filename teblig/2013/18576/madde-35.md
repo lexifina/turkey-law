@@ -1,0 +1,17 @@
+Elektronik ortamda alım satım emirlerinin iletimi
+MADDE 35 – (1) Yatırım kuruluşları, alım satım aracılığı faaliyeti kapsamında elektronik ortamda emir kabul edebilirler. Söz konusu işlemler müşterilerle çerçeve sözleşme imzalanması, müşterilere hesap açılması ve MKK’dan sicil numarası alınması ile ilgili yükümlülüklere tabidir.
+(2) Borsa veya teşkilatlanmış diğer pazar yerlerine ya da tezgahüstü piyasaya iletilmek veya kendi nezdlerinde gerçekleştirmek üzere elektronik ortamda emir kabul edecek olan yatırım kuruluşları,
+a) (Değişik:RG-14/1/2016-29593) Elektronik ortamda aldıkları emirler için yazılı veya sözlü olarak kabul ettikleri diğer emirlerin iletilmesinde uyulması gereken öncelik kurallarına riayet ederek, elektronik ortamda emir ileten müşterileri ile diğer yollarla emir ileten müşterileri arasında Kurul düzenlemelerinde yer alan kanal bazında öncelik kuralları çerçevesinde oluşabilecek farklılıkları açıklamak ve eşitsizliklerin ortaya çıkmasına engel olmakla,
+b) Elektronik ortamda aldıkları emirler için Kurulun belge ve kayıt düzenlemelerinde yer alan yükümlülükleri sağlamakla,
+c) Yürütecekleri yatırım hizmet ve faaliyetlerine göre gerekli risk bildirim formlarının birer örneğine elektronik ortamda yer vermekle,
+ç) Elektronik ortamda kabul edilen emirlerin izlenmesi, iletilmesi, bu emirlere ilişkin kayıtların tutulması ve müşterilerle iletişimin sağlanması için yeterli sayıda personel istihdam etmekle,
+d) Kullanacakları bilgi işlem altyapısının;
+1) Tüm emirlerin alınış zamanına göre sıralanmasına imkan verecek nitelikte olmasını sağlamakla,
+2) (Değişik:RG-14/1/2016-29593) Reddedilen, gerçekleşmeyen, iptal edilen ve değiştirilen emirler de dahil olmak üzere gerçekleştirilen tüm işlemlere ilişkin tarih, zaman, miktar, fiyat, kullanılan kaldıraç oranı ve diğer tüm unsurları ve hesap hareketlerini ve zaman bilgisini gösterecek şekilde müşterilere yansıtılan tüm fiyat bilgilerini anlık olarak kaydetmesini sağlamakla,
+3) Müşterilerin teminatlarını, alacak ve borçlarını, açık pozisyonlarını ve kar zarar durumlarını anlık olarak takip etmesine ve gerekli risk kontrollerini yapmasına elverişli olmasını sağlamakla,
+e) Bilgi işlem altyapısının kapasite ve güvenliği konusunda periyodik kontrollerini yapmakla, herhangi bir sistematik hatada verilerin güvenliğinin ve işlemlerin devamının sağlanması için işlemlerin yapıldığı kurulu alandan farklı bir yerde verilerin depolandığı sunucuların yer aldığı bir sistem kurmakla ve verileri burada yedeklemekle, platforma gelebilecek tehditleri minimum düzeye indirecek tedbirleri almakla,
+f) Elektronik işlem platformunun müşteri rızası olmaksızın üçüncü kişilerce kullanımını engellemeye yönelik gerekli güvenlik tedbirlerini almak ve elektronik işlem platformunun üçüncü kişilerce kullanılıp kullanılmadığına yönelik düzenli incelemelerde bulunmakla,
+g) Elektronik işlem platformu ile müşteri arasındaki veri iletişiminin yetkisiz kişilerce dinlenmesi veya kesilmesi ile verilerin değiştirilmesinin engellenmesi için gerekli bilgi güvenliği tedbirlerini almakla,
+yükümlüdürler.
+(3) Alım satım aracılığı faaliyetini sadece elektronik ortamda yürütecek yatırım kuruluşlarının faaliyet şartları, başvuru esnasında Kurul tarafından ayrıca değerlendirilir.
+(4) Kurul gerekli görmesi halinde yatırım kuruluşlarının bilgi işlem altyapısının bağımsız bir veya daha fazla kuruluş tarafından Kurulca belirlenecek esaslar çerçevesinde denetlenmesini talep edebilir.

@@ -1,0 +1,3 @@
+Aracılık yüklenimi yürütülmesi ile ilgili hizmetlerin sunulması
+MADDE 74 – (1) Yatırım kuruluşları, Kanunun 38 inci maddesinin birinci fıkrasının (ç) bendi kapsamında, sermaye piyasası araçlarının halka arzedilmesi planlanan ihraççı ile ilgili olarak mali ve ekonomik analiz ile pazar araştırmaları yapılması, ilgili şirketin mali tablolarının sermaye piyasası mevzuatına uygunluğunun sağlanması, ilgili mevzuat çerçevesinde gerekli esas sözleşme değişikliklerinin yapılması, kamuoyuna açıklanacak bilgi ve belgelerin belirlenmesi yönünde çalışmalar yapılması gibi faaliyetlerde bulunabilirler.
+(2) Bu madde kapsamındaki hizmeti sunacak aracı kurumların kısmi veya geniş yetkili olması gerekir.

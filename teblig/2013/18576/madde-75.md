@@ -1,0 +1,3 @@
+Finansman sağlanmasında aracılık hizmeti sunulması
+MADDE 75 – (1) Yatırım kuruluşları, Kanunun 38 inci maddesinin birinci fıkrasının (d) bendi kapsamında, şirketlerin, yurt içi ve yurt dışı piyasalardan finansman ihtiyaçlarının karşılanmasına, alternatif finansman stratejilerinin belirlenmesine, mali risklerden korunmaları konularında yazılı veya sözlü yorum ve tavsiyelerde bulunulmasına, finansman ihtiyacı olan ve finansman sağlayacak tarafların bir araya getirilmesine yönelik faaliyetlerde bulunabilirler.
+(2) Bu madde kapsamındaki hizmeti sunacak aracı kurumların kısmi veya geniş yetkili olması gerekir.

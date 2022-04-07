@@ -1,0 +1,5 @@
+Tezgahüstü türev araç işlem türleri ve işlemlere konu dayanak varlıklar
+MADDE 25/A – (Ek:RG-14/1/2016-29593)
+(1) İşlem aracılığı veya portföy aracılığı faaliyeti kapsamında tezgahüstü türev araç işlemleri gerçekleştirecek yatırım kuruluşları işlem yapacakları türev araç türlerine ve türev araç türlerine konu dayanak varlıklara ilişkin Birlik tarafından belirlenen esaslar çerçevesinde bir liste oluşturmak, bu listeyi internet sitelerinde yayımlamak ve Birliğe göndermek zorundadır. Listede yapılacak her türlü değişiklik internet sitesinde ilan edilir ve ilanı takip eden beş iş günü içinde yatırım kuruluşları tarafından Birliğe bildirilir. Talep edilmesi halinde listeler Birlik tarafından Kurula iletilir.
+(2) Fark kontratları, yatırım kuruluşu varantları ve sertifikaları ile ortaklık varantları Kurulun diğer düzenlemelerindeki tanımlanmalarından bağımsız olarak bu Tebliğ hükümleri kapsamında türev araç olarak kabul edilir.
+(3) Tezgahüstünde gerçekleştirilen fark kontratları bu Tebliğde yer alan kaldıraçlı alım satım işlemlerine ilişkin hükümlere tabidir.

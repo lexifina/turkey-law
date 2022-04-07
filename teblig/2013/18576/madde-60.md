@@ -1,0 +1,5 @@
+Saklama hizmetinde bulunabilecek yatırım kuruluşları
+MADDE 60 – (1) Sınırlı saklama hizmeti, Kuruldan izin almak kaydıyla Kanunun 37 nci maddesinin birinci fıkrasının (b), (c), (ç), (e) veya (f) bentlerinde sayılan hizmet ve faaliyetlerinden herhangi birini yapmaya yetkili yatırım kuruluşları tarafından yapılabilir.
+(2) Genel saklama hizmeti, Kuruldan izin almak kaydıyla bankalar ile Kanunun 37 nci maddesinin birinci fıkrasının (b), (c), (ç), (e) veya (f) bentlerinde sayılan hizmet ve faaliyetlerinden herhangi birini yapmaya yetkili aracı kurumlar tarafından yapılabilir.
+(3) Bankalar, 11 inci maddenin ikinci fıkrasının (a) bendi kapsamında olanlar hariç olmak üzere, emir iletimine aracılık ettikleri müşterilerine ilgili sermaye piyasası araçları için genel saklama hizmeti veremezler.
+(4) Genel saklama hizmeti sunmak üzere faaliyet izni bulunan yatırım kuruluşlarının portföy saklama hizmetinde bulunabilmesi için Kurulun portföy saklama hizmetine ve bu hizmette bulunabilecek kuruluşlar ile ilgili düzenlemeleri uyarınca Kurula başvuruda bulunmaları gerekir.

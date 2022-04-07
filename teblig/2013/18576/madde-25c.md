@@ -1,0 +1,4 @@
+Türev araç işlemlerinde pozisyon limitleri
+MADDE 25/C – (Ek:RG-14/1/2016-29593)
+(1) Aracı kurumlar tarafından teminatlandırma politikasının bir parçası olarak her müşterinin alabileceği pozisyon büyüklüğüne ilişkin limit belirlenmesi zorunludur. Müşteriler limit belirlenmesi amacıyla gruplandırılabilir. Limitler, bir sözleşme veya sözleşme grubu esas alınarak, teslim ayında olup olmama ve işlemin korunma amacıyla yapılıp yapılmadığı gibi durumlar göz önüne alınarak belirlenebilir. Borsada gerçekleşen işlemler için Borsa tarafından belirlenen kurallar saklıdır.
+(2) Pozisyon limitlerinin belirlenmesinde, uç piyasa koşullarında en büyük pozisyona sahip müşterilerin belirli bir bölümünün temerrüdü veya pozisyonları sebebiyle oluşan zararın aracı kurumlar tarafından karşılanması gereğinin ortaya çıkması hallerinde aracı kurumun mali yapısının sermaye yeterliliği yükümlülüklerini yerine getiremeyecek şekilde etkilenmemesi gözetilir.

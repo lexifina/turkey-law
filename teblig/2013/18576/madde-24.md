@@ -1,0 +1,6 @@
+Portföy aracılığı faaliyetinin yürütülmesine ilişkin ilke ve esaslar
+MADDE 24 – (1) Portföy aracılığı faaliyetinin yürütülmesi sırasında, işlem aracılığı faaliyetine ilişkin ilke ve esaslara ek olarak aşağıdaki ilke ve esaslara uyulması zorunludur:
+a) Yatırım kuruluşları müşteri emirlerini, emir gerçekleştirme politikası, çerçeve sözleşmede belirtilen esaslar, müşteri emrini en iyi şekilde gerçekleştirme yükümlülüğü, özen ve sadakat borcu çerçevesinde kabul ederek yerine getirir.
+b) İşlemlerin gerçekleştirileceği fiyatların genel piyasa koşulları ve gerçeğe uygun değerleri ile uyumlu olarak nesnel bir biçimde belirlenmesi gerekir.
+c) (Değişik:RG-14/1/2016-29593) Kaldıraçlı işlemlerle ilgili olarak yatırılan teminat tutarlarının üzerinde bir kayba uğratacak şekilde müşterilere genel müşteriye ve talebe dayalı profesyonel müşteriye işlem yaptırılamaz. Yatırımcının piyasa koşullarından dolayı teminatından daha fazla zarara uğraması halinde söz konusu zarar genel müşteriden ve talebe dayalı profesyonel müşteriden talep edilemez.”
+ç) (Ek:RG-14/1/2016-29593) Talebe dayalı profesyonel müşteriler için, ilgili müşterinin yazılı olarak talep etmesi halinde (c) bendinde yer alan hüküm uygulanmaz.

@@ -1,0 +1,4 @@
+Saklama sözleşmesi
+MADDE 62 – (1) Saklamaya yetkili yatırım kuruluşlarının saklama hizmeti sunmadan önce müşterileri ile asgari hususları Kurulca belirlenecek yazılı bir sözleşme yapmaları zorunludur.
+(2) Yurt dışında yerleşik müşterilere saklama hizmeti sunulması sırasında bu müşterilere yurt dışında saklama hizmeti sunan kuruluşla yurt içinde saklamaya yetkili yatırım kuruluşu arasında sunulacak hizmete ilişkin esasları belirleyen bir sözleşme imzalanmış olması durumunda birinci fıkradaki yükümlülük yerine getirilmiş sayılır.
+(3) Başka bir yetkili kuruluş tarafından yönetilen bireysel portföylere ilişkin saklama hizmeti sunulması durumunda portföy yöneten kuruluşla saklama hizmeti sunacak yatırım kuruluşu arasında sunulacak hizmete ilişkin esasları belirleyen bir sözleşme imzalanmış ise birinci fıkradaki yükümlülük yerine getirilmiş sayılır.

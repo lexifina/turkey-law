@@ -1,0 +1,17 @@
+Bireysel portföy yöneticiliği faaliyetinin yürütülmesine ilişkin ilke ve esaslar
+MADDE 41 – (1) Yetkili kuruluşlar portföy yöneticiliği faaliyetinin yürütülmesi sırasında müşterilerinin çıkarlarını gözetmek ve bu kapsamda aşağıdaki ilke ve esaslara uymakla yükümlüdür:
+a) Portföy için yapılan bir alım satım işleminden dolayı herhangi bir ihraççıdan veya yatırım kuruluşundan kendi lehine komisyon, iskonto ve benzeri menfaat sağlıyorsa, bu durumu müşterisine hizmeti sunmadan önce açıklamak zorundadır.
+b) Müşterinin yazılı bir talimatı olmadan borsalarda işlem görmeyen varlıklar ile rayiç değerinin üstündeki varlıkları yönettikleri portföye alamaz ve portföyden bu değerin altında varlık satamaz.
+c) Portföyde yer alan varlıklar üzerinde kendi veya üçüncü şahıslar lehine herhangi bir hukuki tasarrufta bulunamaz. Müşterinin yazılı talimatı olmadan portföyde yer alan varlıkları, portföy yönetimi amacı dışında bir başka şahsa devir veya teslim edemez.
+ç) Müşteri hesabına vereceği emirlerde gerekli özen ve dikkati göstermek zorundadır.
+d) Herhangi bir şekilde kendine çıkar sağlamak üzere varlıkların alım satımını yapamaz.
+e) Basiretli bir tacir gibi davranmak ve yönettiği portföyleriyle çıkar çatışmasına meydan vermemek koşuluyla kendine ait nakdi, portföy yönetimine konu olan araç ve işlemlerle değerlendirebilir.
+f) Birden fazla portföy yönettiğinde objektif iyiniyet kurallarına aykırı olarak portföylerden biri veya birden fazlası lehine, diğerleri aleyhine sonuç verebilecek işlemlerde bulunamaz.
+g) Yatırım kararlarını, güvenilir gerekçe, bilgi, belge ve analizlere dayandırmak ve çerçeve sözleşme ile belirlenen yatırım ilkelerine uymak zorundadır. Bu bilgi ve belgeler ile alım satım kararlarına mesnet teşkil eden araştırma ve raporların Kurulun belge ve kayıt ile ilgili düzenlemelerinde belirtilen süreyle yetkili kuruluş nezdinde saklanması zorunludur.
+ğ) Portföyün önceden saptanmış belirli bir getiriyi sağlayacağına dair herhangi bir sözlü veya yazılı garanti veremez ve ilan ve reklamlarında bu anlama gelebilecek ifadeleri kullanamaz.
+h) Portföyün menfaatleriyle kendi menfaatleri arasında çatışma olan durumlarda portföy lehine davranmak zorundadır.
+ı) Müşterinin risk-getiri tercihleri doğrultusunda müşteri ile birlikte Kurulun bireysel ve kurumsal portföylerin performans sunumuna, performansa dayalı ücretlendirme ve sıralama faaliyetleri ile ilgili düzenlemeleri uyarınca karşılaştırma ölçütü veya eşik değer belirleyebilir.
+i) Müşterilerin portföyde yer alan varlıklar ve bu varlıkların işlem gördüğü piyasa hakkındaki bilgisizlik ya da tecrübesizliklerinden yararlanıp müşterilerin alım-satım kararlarını etkileyerek kendi lehlerine kazanç sağlamak amacıyla, müşterilerin gereksiz alım-satım yapmalarına ortam hazırlayamaz ve bu fiilin üçüncü şahıslar tarafından gerçekleştirilmesine herhangi bir şekilde yardımcı olamaz.
+j) Portföylere ilişkin olarak portföy yöneticiliği dışında bir faaliyeti çağrıştıracak isim ve ifadeler kullanamaz, belirli bir yönetim dönemi belirleyerek önceden toplanan paralarla ortak bir portföy oluşturamaz ve yönetemez veya tasarruf sahiplerini oluşturulmuş bir portföye iştirak ettiremez ve bu yönde ifadeler içeren ilan ve reklam yapamaz.
+k) Yazılı, basılı veya sözlü biçimde müşterilere duyurulacak ve yatırım kararlarını etkileyebilecek nitelikte olan araştırma sonuçlarını, müşterilerine duyurmadan önce kendileri veya üçüncü şahıslar lehine kullanamaz.
+l) Portföy yönetimi sırasında elde ettiği bilgileri kendileri veya üçüncü bir tarafın menfaati doğrultusunda kullanamaz.

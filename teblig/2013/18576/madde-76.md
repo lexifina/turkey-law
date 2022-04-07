@@ -1,0 +1,4 @@
+Servet yönetimi ve finansal planlama yapılması
+MADDE 76 – (1) Yatırım kuruluşları, Kanunun 38 inci maddesinin birinci fıkrasının (e) bendi kapsamında, kişilere, ailelere ya da ortak yatırım hedeflerine sahip kişilerden oluşan gruplara yönelik mali, hukuki, vergisel ve benzeri hususlarda danışmanlık hizmeti sunulması, bu kişilerin finansal ve finansal olmayan varlıklarından oluşan servetlerine yönelik planlama yapılması ve servetlerinin yatırım hedeflerine ve tercihlerine uygun olarak yönetilmesi faaliyetlerinde bulunabilirler.
+(2) Bu madde kapsamındaki hizmetin sunulması sırasında yatırım danışmanlığı ya da portföy yöneticiliği faaliyetlerine ihtiyaç olması durumunda, bu faaliyetlerin Kuruldan izin almış yetkili kuruluşlar tarafından bu Tebliğde yer alan esaslar çerçevesinde sunulmasının sağlanması gerekir.
+(3) Bu madde kapsamındaki hizmeti sunacak aracı kurumların kısmi veya geniş yetkili olması gerekir.
