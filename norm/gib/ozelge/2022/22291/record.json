@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125[6]-6418",
+  "source_id": 22291,
+  "date": "2022-04-08",
+  "title": "Elektrik üretiminde kullanılan doğalgazın hangi dönemde gider kaydedileceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22291",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "d3e7487aaa60996be393b22c8a9fc762ec549648ee6b8363c47a140194d38646",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
