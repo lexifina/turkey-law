@@ -1,0 +1,5 @@
+İdari koordinatörün görevleri
+MADDE 15 – (1) İdari Koordinatörün görevleri şunlardır:
+a) Merkezin ve Merkeze bağlı diğer ünite veya birimlerin işletilmesini sağlamak, bunların kısa, orta ve uzun vadeli amaçlarının ve stratejik planının hazırlanmasında ve uygulanmasında Genel Koordinatöre yardımcı olmak,
+b) (Değişik:RG-9/4/2022-31804) Merkezdeki araştırma ve proje çalışmalarında; proje ekiplerinin kurulmasında, koordinasyonunda, yönetiminde, denetiminde ve başkanlarının seçiminde; ünite veya birim faaliyetlerinin düzenlenmesinde, yürütülmesinde ve denetlenmesinde ve yıllık faaliyet raporunun hazırlanmasında Genel Koordinatörün verdiği görevleri yerine getirmek,
+c) (Ek:RG-9/4/2022-31804) Merkeze bağlı birimlerdeki personelin sevk ve idaresini, denetimini ve koordinasyonu sağlamak, Merkezin ve Merkeze bağlı birimlerin idari işlemlerinin, kısa, orta ve uzun vadeli amaçlarının gerçekleştirilmesi için gerekli çalışmaları yürütmek, Merkezin kadro ihtiyaçları ve bütçe ile ilgili önerilerini gerekçeleri ile birlikte hazırlamak.

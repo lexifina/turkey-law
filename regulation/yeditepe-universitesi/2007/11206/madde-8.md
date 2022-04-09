@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 8 – (Değişik:RG-9/4/2022-31804)
+(1) Yönetim Kurulu; Genel Koordinatör, İdari Koordinatör, Tıbbi Koordinatör dahil olmak üzere Rektör tarafından Üniversite personeli arasından üç yıl süre için görevlendirilecek toplam en fazla on üç üyeden oluşur. Görev süresi sona eren üyeler tekrar görevlendirilebilir.
+(2) Yönetim Kurulunun başkanı Genel Koordinatördür. Yönetim Kurulu, Genel Koordinatörün başkanlığında en az 3 ayda bir kez, daha önceden belirlenen gündem doğrultusunda toplanır. Genel Koordinatör, Yönetim Kurulunu olağanüstü toplantıya çağırabilir. Genel Koordinatör olmadığı zamanlarda Tıbbi Koordinatör başkanlığa vekâlet eder. Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır. Oyların eşitliği halinde Başkanın oyu yönünde çoğunluk sağlanmış sayılır.
