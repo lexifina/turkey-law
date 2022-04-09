@@ -1,0 +1,3 @@
+İhtisas merkezinin işleyişi
+MADDE 7 – (1) İhtisas Merkezi bünyesinde kişilere sağlık hizmeti; Üniversiteye bağlı tıp fakültesinde klinik eğitime başlanmış olması halinde ve Üniversite bünyesinde mevcut olan Yeditepe Üniversitesi Sağlık Hizmetleri Eğitim Araştırma ve Uygulama Merkezine bağlı olarak kurulan ve gelirleri münhasıran Üniversite tüzel kişiliğinin bütçesine aktarılan tam teşekküllü sağlık kuruluşunda fiilen sağlık hizmeti verilmesine bağlı olarak verilebilir.
+(2) İhtisas Merkezi bünyesinde kişilere sağlık hizmeti verilmesi karşılığında elde edilen gelirler münhasıran Üniversite tüzel kişiliğinin bünyesine aktarılır.
