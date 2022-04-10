@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12 – (1) Danışma Kurulu; Müdür, Üniversitenin Veteriner Fakültesi ve Ziraat Fakültelerinin her birinden yönetim kurullarınca seçilen birer üye, Gıda, Tarım ve Hayvancılık Bakanlığı İl Müdürlüğü tarafından görevlendirilecek bir üye ile Rektör tarafından görevlendirilen Merkezin amaçları ile ilgili konularda çalışan en çok üç öğretim elemanı olmak üzere en çok yedi üyeden oluşur. Üyelerin görev süresi üç yıldır. Görev süresi sona eren üye yeniden görevlendirilebilir.
+(2) Danışma Kurulu yılda iki defa olağan olarak toplanır. Gerek duyulduğunda Müdür, Danışma Kurulunu toplantıya çağırabilir. Danışma Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır. Rektör gerekli hallerde kurula başkanlık eder.
