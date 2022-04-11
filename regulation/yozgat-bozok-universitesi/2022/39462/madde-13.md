@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 13- (1) Danışma Kurulu; Merkezin çalışmalarına önerileri ile katkıda bulunan organdır. Danışma Kurulu; Müdür, Müdür yardımcıları, Yönetim Kurulu üyeleri, Üniversitede görevli öğretim elemanları, kadın ve aile araştırmaları konusunda çalışmaları olan akademisyenler, istekleri hâlinde Merkezin çalışma alanlarına katkıda bulunabilecek resmi veya özel sektör kurum ve kuruluşlarının temsilcileri ile bu konuda önemli hizmetler vermiş olan kişiler arasından Müdürün önerisi üzerine, Rektör tarafından üç yıl için görevlendirilen en az beş en fazla on iki üyeden oluşur.
+(2) Danışma Kurulu, yılda en az bir kez Müdürün daveti üzerine salt çoğunlukla toplanır ve kararlarını oyçokluğu ile alır.
+(3) Danışma Kurulu; yıllık faaliyet raporu, çalışma programı, eğitim faaliyetleri, Merkezin çalışmaları ile bir sonraki çalışma yılına ait programla ilgili Yönetim Kuruluna görüş bildirir ve önerilerde bulunur.
