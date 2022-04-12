@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "862",
+  "decision_date": "2022-04-12",
+  "source_id": 35624,
+  "chamber": "6",
+  "ilam_number": "71",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35624/",
+  "source_sha256": "0b9c8a6ad24a500451cbaa2f66b746ab438ff8f893be61185b73470c6d1378e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
