@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "865",
+  "decision_date": "2022-04-12",
+  "source_id": 35577,
+  "chamber": "6",
+  "ilam_number": "70",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35577/",
+  "source_sha256": "286907bd976816655435ea6ceccf2dcc8235102602b48c6f2cfe650a4c581dd9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
