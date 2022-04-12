@@ -1,0 +1,13 @@
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda;
+
+… Belediyesi tarafından hak sahibi olmayan personele aile yardımı ödeneği verildiği görülmüştür.
+
+657 sayılı Devlet Memurları Kanunu’nun “Aile Yardımı Ödeneği” başlıklı 202’nci maddesinde,
+
+“Evli bulunan Devlet memurlarına aile yardımı ödeneği verilir. Bu yardım, memurun her ne şekilde olursa olsun menfaat karşılığı çalışmayan veya herhangi bir sosyal güvenlik kuruluşundan aylık almayan eşi için 1500, çocuklarından her biri için de 250 gösterge rakamının (72 nci ay dahil olmak üzere 0-6 yaş grubunda yer alan çocuklar için bir kat artırımlı) aylık katsayısı ile çarpılması sonucu elde edilecek miktar üzerinden ödenir. Eşlerden birine iş akdi veya toplu sözleşme gereği çocukları için yapılan aile yardımı ödeneği daha düşük ise, yalnız aradaki fark ödenir. Bu fıkrada yer alan gösterge rakamlarını 3 katına kadar artırmaya Bakanlar Kurulu yetkilidir.” denilmiştir.
+
+Yukarıda yer verilen mevzuat hükmüne göre evli bulunan devlet memurlarının aile yardımı ödeneğinden yararlanabilmesi için eşlerinin her ne şekilde olursa olsun menfaat karşılığı çalışmaması veya herhangi bir sosyal güvenlik kuruluşundan aylık almaması gerekmektedir.
+
+Sorgu konusu olayda Sosyal Güvenlik Kurumu Emeklilik Hizmetleri Genel Müdürlüğünden alınan bilgilere göre 2020 yılı içerisinde aile yardımı ödeneği alan bazı belediye personelinin eşlerinin çalıştığı veya bir sosyal güvenlik kuruluşundan aylık aldığı halde söz konusu personele Belediye bütçesinden aile yardımı ödenmesi yapılmıştır. Yukarıda yer verilen mevzuat hükmü gereği eşi herhangi bir sosyal güvenlik kuruluşundan aylık alan memura aile yardımı ödemesinin yapılması mümkün değildir. Söz konusu yardımın çalışan eş için memura ödenmesi sonucu … TL kamu zararına neden olunmuştur.
+
+Ancak, söz konusu kamu zararı tutarı … TL’nin …TL’sinin …tarih ve … numaralı banka dekontu ile tahsil edilerek …tarih ve … yevmiye numaralı muhasebe işlem fişiyle gelir kaydedildiğinden, … TL’sinin … tarih ve … numaralı banka dekontu ile tahsil edilerek … tarih ve … yevmiye numaralı muhasebe işlem fişiyle gelir kaydedildiğinden, … TL’sinin … tarih ve …numaralı banka dekontu ile tahsil edilerek … tarih ve … yevmiye numaralı muhasebe işlem fişiyle gelir kaydedildiğinden, … TL’sinin … tarih ve … numaralı banka dekontu ile tahsil edilerek …tarih, … yevmiye numaralı muhasebe işlem fişiyle gelir kaydedildiğinden konu hakkında ilişilecek husus kalmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
