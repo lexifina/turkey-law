@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10862",
+  "decision_date": "2022-04-12",
+  "source_id": 35490,
+  "chamber": "1",
+  "ilam_number": "53",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35490/",
+  "source_sha256": "d9252ea7961ace716b1e1c39d08aadce6446524c83df667a2dcafc16c1f3b659",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
