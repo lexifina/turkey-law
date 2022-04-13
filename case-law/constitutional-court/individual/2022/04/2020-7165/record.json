@@ -1,0 +1,20 @@
+{
+  "applicant": "K.H. VE M.H.H.",
+  "application_date": "2020-02-25",
+  "application_number": "2020/7165",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2022-04-13",
+  "id": "00c9fed1-ebfa-d2ae-cac4-10a79f20b15f",
+  "in_force": "2022-04-13",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjAwYzlmZWQxLWViZmEtZDJhZS1jYWM0LTEwYTc5ZjIwYjE1Zg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "018d0eff36485ec39dc3fde9d12b2e7ceefac9f947d675f9c04f2fcf094d86a2",
+  "version_label": "as-enacted"
+}
