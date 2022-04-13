@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51613",
+  "decision_date": "2022-04-13",
+  "source_id": 25896,
+  "chamber": "6",
+  "file_number": "50699",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25896/",
+  "source_sha256": "69fb5696057e4f45d2d769a650c20608cdca957c2489b027838b0c3112540866",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
