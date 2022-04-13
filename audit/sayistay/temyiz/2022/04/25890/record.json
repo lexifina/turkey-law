@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51602",
+  "decision_date": "2022-04-13",
+  "source_id": 25890,
+  "chamber": "4",
+  "file_number": "47127",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25890/",
+  "source_sha256": "f707a298c500f60aff69e345ad560a483e1daca85dc80a95fcfccf20b231927e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
