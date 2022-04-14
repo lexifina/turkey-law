@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 12/5/2021 tarihli ve 31482 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/23) ile Kore Cumhuriyeti menşeli 9021.29.00.00.00 gümrük tarife istatistik pozisyonu altında yer alan “protez dişlerin bağlantı parçaları” ithalatına yönelik başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen damping soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
