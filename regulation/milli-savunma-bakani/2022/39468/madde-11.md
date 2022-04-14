@@ -1,0 +1,7 @@
+Genel esaslar
+MADDE 11- (1) Sınavlara giriş için köpeklerin sınava girecekleri branşlara yönelik eğitim alması şartı aranır.
+(2) Eğitim gördüğü branşta yetişen köpeklere uygulanacak görev yapabilirlik sınavı ihtisas eğitimlerini tamamlamasını müteakip görev yerlerine sevk edilmeden önce görev yapabilirlik komisyonu tarafından uygulanır.
+(3) Branşlara ait eğitim ve görev gereklilikleri ile görev yapabilirlik ve yeniden görev yapabilirlik sınavlarının uygulanış ve değerlendirme esasları Bakanlık tarafından belirlenir.
+(4) Yeniden görev yapabilirlik sınavı, yeniden görev yapabilirlik komisyonu tarafından yılda bir defa uygulanır. Sınavda başarılı olan köpeklere verilecek sertifika bir yıl geçerlidir. Yaş, sağlık ve benzeri konular haricinde yeniden görev yapabilirlik sınavında başarısız olan askerî köpek timleri bağlı bulunduğu köpek eğitim merkezinde tekrar belirlenen süre kadar tazeleme eğitimine tabi tutulur. Tazeleme eğitimi bitiminde eğitimi veren köpek eğitim merkezinde kurulan görev yapabilirlik ve yeniden görev yapabilirlik komisyonunca tekrar sınava tabi tutulur. Başarılı olan köpeklerin sertifikaları bir yıl geçerlidir. Sınavın tekrarı veya hayvanın hizmet dışına çıkarılmasına sınav komisyonu tarafından karar verilir.
+(5) Geçerli sertifikası bulunmayan askerî köpek timlerinin görev almasına izin verilmez.
+(6) Faaliyet gösteren tüm askerî köpek timlerinin kayıtları envanterinde bulunduğu birliklerce tutulur.
