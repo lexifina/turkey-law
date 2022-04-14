@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35706",
+  "decision_date": "2022-04-14",
+  "source_id": 35715,
+  "chamber": "2",
+  "ilam_number": "65",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35715/",
+  "source_sha256": "4d72dbf28c84d158220feacd55bbe7fafd19141737de2863d77d7996fb0334ef",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
