@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 6- (1) 4/7/2019 tarihli ve 30821 sayılı Resmî Gazete’de yayımlanan Türkiye Atom Enerjisi Kurumu Disiplin Amirleri Yönetmeliği, 7/10/2015 tarihli ve 29495 sayılı Resmî Gazete’de yayımlanan Ulusal Bor Araştırma Enstitüsü Disiplin Amirleri Yönetmeliği ve 5/10/2019 tarihli ve 30909 sayılı Resmî Gazete’de yayımlanan Nadir Toprak Elementleri Araştırma Enstitüsü Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır.

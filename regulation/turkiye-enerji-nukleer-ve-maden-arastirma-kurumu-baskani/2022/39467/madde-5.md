@@ -1,0 +1,2 @@
+Disipline ilişkin usul ve esaslar bakımından uygulanacak mevzuat
+MADDE 5- (1) Disipline ilişkin usul ve esaslar bakımından, 657 sayılı Kanun ile Devlet Memurları Disiplin Yönetmeliği ve ayrıca sözleşmeli asli personel hakkında 27/2/2021 tarihli ve 31408 sayılı Resmî Gazete’de yayımlanan Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Sözleşmeli Personel Yönetmeliğinin ilgili hükümleri uygulanır.
