@@ -1,0 +1,38 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903177,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "BİNALİ YILDIRIM (İZMİR) (TBMM BAŞKANI)",
+  "summary": "Türkiye Cumhuriyeti Hükümeti ile Güney Sudan Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair (2/1536) (S. Sayısı: 147)",
+  "title": "Türkiye Cumhuriyeti Hükümeti ile Güney Sudan Cumhuriyeti Hükümeti Arasında Ticaret ve Ekonomik İşbirliği Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair (2/1536) (S. Sayısı: 147)",
+  "first_sitting_date": "2022-04-14",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 98,
+      "sitting": 80,
+      "sitting_date": "2022-04-14",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c098/tbmm27098080.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c098/tbmm27098fih.pdf",
+      "pages": [
+        "561:562",
+        "565:566",
+        "587:605"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=301&v_kullanici_id=27484797",
+  "source_sha256": "60c91f92790ba38792a2964c8ebd9ff6274ff2dd41cd5a6ad03543d9ecbe9aa8",
+  "in_force": "2022-04-14",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
