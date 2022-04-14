@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10929",
+  "decision_date": "2022-04-14",
+  "title": "Dağıtıcılar Arası Akaryakıt Ticareti Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2022-04-15",
+  "resmi_gazete_number": "31810",
+  "categories": [
+    "Dağıtıcılar Arası Akaryakıt Ticaretine İlişkin Usul ve Esaslar Hakkında Karar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iUM98Rb1U2Q=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=iUM98Rb1U2Q=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=e4X/bzooTpk="
+  ],
+  "source_sha256": "7bf88b037907f45bc774a62e92bb9780d0fad7eb4cbb016e07f8bd11db4b48c0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4810,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-04-14",
+  "law_text_complete": true
+}
