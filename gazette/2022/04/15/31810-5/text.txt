@@ -1,0 +1,319 @@
+15 Nisan 2022 CUMA
+Resmî Gazete
+Sayı : 31810
+YÖNETMELİK
+Enerji Piyasası Düzenleme Kurumundan:
+ELEKTRİK
+DAĞITIM SİSTEMİ YÖNETMELİĞİ
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç ve
+kapsam
+MADDE 1- (1) Bu Yönetmelik; elektriğin kaliteli, güvenli ve
+sürekli olarak kullanıcılara sunulması amacıyla dağıtım sisteminin
+işletilmesi, izlenmesi ve kontrol edilmesi, bakımı ile dağıtım sisteminde
+acil durum, raporlama ve inceleme konularında dağıtım şirketi ve
+kullanıcılar tarafından uyulması gereken kurallar ile uygulamalara ilişkin
+usul ve esasları kapsar.
+(2) 14/3/2014 tarihli ve 28941 sayılı Resmî
+Gazete’de yayımlanan Organize Sanayi Bölgelerinin Elektrik Piyasası
+Faaliyetlerine İlişkin Yönetmelik kapsamındaki OSB dağıtım lisansı sahibi
+tüzel kişiler ile bu kişilerin işlettiği dağıtım şebekesine bağlı
+kullanıcılar bu Yönetmeliğin kapsamı dışındadır.
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 20/2/2001 tarihli ve 4628 sayılı
+Enerji Piyasası Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında Kanunun
+4 üncü maddesinin ikinci fıkrasına ve 14/3/2013 tarihli ve 6446 sayılı
+Elektrik Piyasası Kanununun 1 inci ve 9 uncu maddelerine dayanılarak
+hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Bakım Yönetim Sistemi: Bakım faaliyetine
+ilişkin; bakım zamanının, bakımın içeriğinin, bakımda kullanılan
+malzemelerin, bakım tutanaklarının ve benzeri bakım verilerinin
+kaydedildiği ve raporlanabildiği sistemi,
+c) CBS: Coğrafi Bilgi Sistemini,
+ç) CENELEC: Avrupa Elektroteknik Standardizasyon
+Komitesini,
+d) Dağıtım: Elektrik enerjisinin gerilim seviyesi
+36 kV ve altındaki hatlar üzerinden naklini,
+e) Dağıtım faaliyeti: Bir dağıtım şirketi
+tarafından, lisansında belirlenen bölgede sayaçların okunması, bakımı ve
+işletilmesi hizmetlerinin yerine getirilmesini, genel aydınlatma
+faaliyetinin yürütülmesini, dağıtım tesislerinin yatırım, bakım ve
+işletiminin yapılmasını, teknik ve teknik olmayan kaybın azaltılmasına
+yönelik gerekli tedbirlerin alınmasını, dağıtım sisteminin elektrik
+enerjisi üretimi ve satışında rekabet ortamına uygun şekilde işletilmesini,
+dağıtım tesislerinin yenilenmesini, kapasite ikame ve artırım
+yatırımlarının yapılmasını, dağıtım sistemine bağlı ve/veya bağlanacak olan
+tüm dağıtım sistemi kullanıcılarına ilgili mevzuat hükümleri doğrultusunda
+eşit taraflar arasında ayrım gözetmeksizin hizmet sunulmasını,
+f) Dağıtım sistemi: Bir dağıtım şirketinin,
+lisansında belirlenmiş dağıtım bölgesinde işlettiği elektrik dağıtım
+tesisleri ve şebekesini,
+g) Dağıtım şebekesi: Tüketicilerin iç tesisatını ve
+üreticilerin şalt sahasını dağıtım sistemine bağlamak üzere tesis edilen
+bağlantı hatları hariç dağıtım tesisini,
+ğ) Dağıtım şirketi: Belirlenen bir bölgede elektrik
+dağıtımı ile iştigal eden tüzel kişiyi,
+h) Dağıtım tesisi: İletim tesislerinin ve dağıtım gerilim
+seviyesinden bağlı üretim ve tüketim tesislerine ait şalt sahalarının
+bittiği noktadan sonraki nihayet direğinden, alçak gerilim seviyesinden
+bağlı tüketicilerin yapı bina giriş noktalarına kadar, bina giriş ve sayaç
+arası hariç, elektrik dağıtımı için teçhiz edilmiş tesis ve teçhizat ile
+dağıtım şirketince teçhiz edilen ya da devralınan sayaçları,
+ı) EDVARS: Elektrik Dağıtım Veri Ambarı ve
+Raporlama Sistemini,
+i) IEC: Uluslararası Elektroteknik Komisyonunu,
+j) EN: Avrupa Standardını,
+k) İlgili mevzuat: Elektrik piyasasına ilişkin
+kanun, Cumhurbaşkanlığı Kararnamesi, Cumhurbaşkanı Kararı, yönetmelik,
+tebliğ, genelge ve Kurul kararı ve bunlar uyarınca çıkarılan diğer
+düzenlemeleri,
+l) İlgili diğer mevzuat: Cumhurbaşkanlığı
+Kararnamesi ile Cumhurbaşkanlığı ve Bakanlıklar tarafından çıkarılan ilgili
+yönetmelik, tebliğ ve diğer düzenlemeleri,
+m) İlgili teknik mevzuat: Bakanlık ve/veya ihtisas
+sahibi kamu kurum ve kuruluşları tarafından çıkarılan ilgili yönetmelik,
+tebliğ ve diğer düzenlemeleri,
+n) Kullanıcı: Dağıtım sistemini kullanan gerçek
+veya tüzel kişiyi,
+o) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+ö) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+p) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+r) TS: Türk Standardını,
+s) Üretim: Enerji kaynaklarının, üretim
+tesislerinde elektrik enerjisine dönüştürülmesini,
+ş) SCADA: Yönetimsel Kontrol ve Veri Toplama
+Sistemini,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer ifade ve
+kısaltmalar ilgili mevzuattaki anlam ve kapsama sahiptir.
+İKİNCİ BÖLÜM
+Dağıtım Sisteminde Bakım ve Veri Toplama Sistemleri
+Dağıtım
+sisteminde bakım
+MADDE 4- (1) Dağıtım şirketi, elektrik enerjisinin kaliteli,
+güvenli ve sürekli bir şekilde gerçek ve tüzel kişilerin kullanımına
+sunulabilmesi ve kullanıcı memnuniyetinin arttırılması amacıyla yıllık
+bakım planı hazırlamakla yükümlüdür.
+(2) Dağıtım şirketi tarafından bir sonraki yıl için
+hazırlanan yıllık bakım planı her yıl 31 Aralık tarihine kadar Kuruma
+sunulur.
+(3) Dağıtım şirketi tarafından yıllık bakım
+planında; bakım faaliyetinin hangi seviyeye göre yapılacağına, bakım
+yapılacak tesis ve teçhizata ve yapılacak bakım zamanı ile planlanan iş
+gücüne (adam-gün) ilişkin açıklayıcı bilgilere yer verilir.
+(4) Dağıtım şirketi tarafından ihtiyaç duyulan
+hallerde bakım planlarında değişiklik yapılması durumunda revize bakım
+planları gerekçeleriyle birlikte üçer aylık dönemler halinde Kuruma
+sunulur.
+(5) Dağıtım şirketi bakım faaliyetine ilişkin
+olarak; iş emri ve araç takip kayıtlarını, bakımı yapılan dağıtım
+varlıklarını, kullanılan malzemeleri, bakım tutanaklarını ve yapılan bakıma
+ilişkin tevsik edici video, fotoğraf ve benzeri belgeleri Bakım Yönetim
+Sisteminde kayıt altına alır.
+(6) Dağıtım şirketi Bakım Yönetim Sistemi
+kayıtlarını, bakım planındaki sıralamaya uygun olarak denetim yetkisini
+haiz kamu kurumunun erişimine açar ve EDVARS üzerinden Kuruma sunar.
+(7) Dağıtım şirketi, yıllık bakım planının ve
+gerçekleştirilen bakıma ilişkin bilgilerin CBS’de veya CBS’ye entegre bakım
+yönetim sisteminde görüntülenebilmesini sağlar.
+(8) Dağıtım şirketi tarafından dağıtım sistemine
+bağlanacak yeni tesis veya teçhizat ile bu tesis veya teçhizatın montajı
+TS, EN, CENELEC, IEC standartlarına ve ilgili teknik mevzuata uygun
+yapılır.
+(9) Bakım çalışmasında görevlendirilen personelin
+20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu, ilgili
+teknik mevzuat, ilgili mevzuat ve ilgili diğer mevzuata uygun olarak iş
+sağlığı ve güvenliği ile elektrik dağıtım sisteminde bakım konusunda
+gerekli eğitimleri ve belgeleri almış olması zorunludur.
+(10) Bakım çalışması esnasında; İş Sağlığı ve
+Güvenliği Kanunu, ilgili teknik mevzuat, ilgili mevzuat ve ilgili diğer
+mevzuata uygun olarak dağıtım şirketi gerekli güvenlik önlemlerini alır.
+(11) Dağıtım şirketi, can ve mal güvenliğini
+tehlikeye düşüren hususların tespiti halinde acil müdahale etmekle
+yükümlüdür.
+(12) Dağıtım şirketi demontajı yapılan ve
+kullanılamayacak durumda olan tüm malzemelerin güvenli bir şekilde
+saklanması, imhası veya geri dönüşümünün ilgili mevzuat, ilgili diğer
+mevzuat ve ilgili teknik mevzuata uygun şekilde sağlanmasından sorumludur.
+Dağıtım
+sisteminde enerji akışı ve iletişim
+MADDE 5- (1) Dağıtım şirketi, orta gerilim seviyesinde yeni
+tesis edilecek, ring şebekedeki giriş-çıkış fiderleri hariç en az üç çıkış
+fiderine sahip veya en az 5000 kVA kurulu gücü olan dağıtım merkezlerinin
+OG fiderlerinin akım, gerilim ve güç tüketim verilerini gerçek zamanlı
+olarak izler ve kaydeder.
+(2) Dağıtım şirketi, 1000 kVA ve üzeri yeni tesis
+edilecek dağıtım transformatörlerinin AG barasının akım, gerilim ve güç
+tüketim verilerini gerçek zamanlı olarak izler ve kaydeder.
+(3) Dağıtım şirketi, birinci ve ikinci fıkralar
+kapsamındaki yükümlülükleri ile birlikte dağıtım sistemi üzerinde elektrik
+kesintilerinin izlenmesi için Bakanlık, Kurum ve denetim yetkisini haiz
+kamu kurumunun paylaşımına açacağı gerekli iletişim altyapısını kurmakla
+yükümlüdür.
+Yönetimsel
+kontrol ve veri toplama sistemi
+MADDE 6- (1) Dağıtım şirketi, dağıtım sistemine ait uzaktan
+ölçme ve/veya kontrol sistemlerini kurmakla ve işletmekle yükümlüdür.
+(2) Üretim lisansı ile elektrik depolama tesisi
+sahibi tüzel kişiler, dağıtım şirketinin SCADA’sına veri aktarılmasına
+yönelik gerekli sistemleri kurar ve gerekli iletişim linkini sağlar.
+(3) Kurulu gücü 50 kW ve üzerinde olan lisanssız
+üretim santral sahibi gerçek veya tüzel kişiler, dağıtım şirketinin
+SCADA’sına veri aktarılmasına yönelik gerekli sistemleri kurar ve gerekli
+iletişim linkini sağlar.
+(4) Dağıtım şirketi bu madde kapsamında yer alan
+sistemlerin kurulması ve entegrasyonu ile ilgili işlemleri yapmakla ve
+gelen verileri 28/5/2014 tarihli ve 29013 mükerrer sayılı Resmî Gazete’de
+yayımlanan Elektrik Şebeke Yönetmeliği kapsamında TEİAŞ SCADA sistemine
+aktarmakla yükümlüdür.
+(5) Bu madde kapsamında kullanıcıya ait açma/kapama
+teçhizatı da ilgili dağıtım şirketi tarafından ilgili mevzuat çerçevesinde
+kontrol edilebilir. Bu tesis ve/veya teçhizat için gerekli kontrol ara
+yüzünün temin edilmesi kullanıcının sorumluluğundadır.
+Coğrafi
+bilgi sistemi
+MADDE 7- (1) Dağıtım şirketi, dağıtım bölgesinde bulunan ve
+dağıtım tesisi kapsamında yer alan elektriksel teçhizatı içeren ve Kurul
+tarafından belirlenen usul ve esaslarda belirtilen tesis ve/veya teçhizatı
+gösteren veri tabanına sahip CBS oluşturmakla yükümlüdür. Söz konusu CBS
+diğer izleme sistemleri ile entegre olacak şekilde kurulur.
+(2) Dağıtım şirketi elektrik dağıtım sisteminin
+ihtiyaçları doğrultusunda CBS’nin iyileştirilmesinden sorumludur. Dağıtım
+şirketi CBS’de tutulan verilerin güncelliğini ve güvenilirliğini sağlamakla
+yükümlüdür.
+(3) Dağıtım şirketi tarafından kurulan CBS’nin
+kapsamı, güncel tutulması gereken veriler, verilerin saklanması,
+güncellenmesi, Kurum tarafından istenilen verilerin sunulması ve
+doğruluğuna ilişkin hususlar Kurul tarafından belirlenen usul ve esaslar
+ile düzenlenir.
+ÜÇÜNCÜ BÖLÜM
+Acil Durum
+Acil
+durum
+MADDE 8- (1) Dağıtım şebekesinin kısmen veya tamamen istem
+dışı enerjisiz kalması durumunda, sistemin kademeli olarak
+enerjilendirilmesine yönelik acil durum yönetim planları dağıtım şirketi
+tarafından hazırlanır. Dağıtım şirketi, acil durum yönetim planlarının uygulanabilirliğini
+ve güncelliğini korumakla yükümlüdür.
+(2) Dağıtım şirketi, şebeke özelliklerini de
+dikkate alarak, acil müdahale gerektiren durumlar için zamanında müdahale
+ve etkin bir çözüm sağlayacak şekilde acil müdahale organizasyonunu kurar.
+(3) Dağıtım şirketi, acil müdahale organizasyonu
+kapsamında yeterli sayıda ve tam teşekküllü acil müdahale aracı ile yeterli
+sayıda ve acil müdahale konusunda eğitimli personeli yirmi dört saat hazır
+durumda bulundurur.
+(4) Dağıtım şirketi, acil durumlarda gerekli
+koordinasyonu sağlamak için kriz koordinasyon aracı temin edebilir.
+(5) Dağıtım şirketi acil müdahale gerektiren
+durumlarda dağıtım şebekesinin arıza onarımı, bakımı, kontrolü ve izlenmesi
+için insansız hava aracı temin edebilir.
+(6) Dağıtım şirketi insansız hava aracı gibi hava
+araçlarının kullanımı için izin talebinde bulunabilir.
+(7) Dağıtım şirketi acil müdahale gerektiren
+durumlarda, acil müdahale araçları için trafikte geçiş üstünlüğü talebinde
+bulunabilir.
+Mobil
+jeneratör
+MADDE 9- (1) Dağıtım şirketi acil durumlarda kullanılmak
+üzere mobil jeneratörler bulundurur.
+(2) Dağıtım şirketi, orta gerilim seviyesi çıkışlı
+en az bir adet mobil jeneratör bulundurur.
+(3) Dağıtım şirketi her il merkezi ve nüfusu
+100.000’i geçen ilçeler için de en az bir adet olmak üzere, alçak gerilim
+seviyesi çıkışlı mobil jeneratör bulundurmakla yükümlüdür. Bu fıkra
+kapsamında bulundurulacak olan jeneratörlerin her biri en az 50 kVA gücünde
+olmalıdır.
+DÖRDÜNCÜ BÖLÜM
+Kullanıcı Hizmetleri Merkezi, Raporlama ve İnceleme
+Kullanıcı
+hizmetleri merkezi
+MADDE 10-
+(1) Dağıtım şirketi; bağlantı
+başvurusu, arıza bildirimi, kaçak elektrik enerjisi kullanım ihbarları,
+şikâyetler ve dağıtım faaliyeti konularına ilişkin yapılan başvuruların
+alınması ve cevaplandırılması için yeterli donanım ve personele sahip
+kullanıcı hizmetleri merkezi kurmakla yükümlüdür.
+(2) Dağıtım şirketi birinci fıkra çerçevesinde;
+oluşturulacak olan kullanıcı hizmetleri merkezinde;
+a) Büyükşehir Belediyesi merkez ilçelerinde,
+kullanıcı hizmetleri merkezinin kullanıcıya olan mesafesi azami 20 km’yi
+aşmayacak şekilde, asgari olarak; proje onay, geçici kabul, sayaç kontrol,
+itiraz ve benzeri işlemleri,
+b) İl merkezleri ile nüfusu elli binin üzerinde
+olan ilçelerde, asgari olarak; proje onay, geçici kabul, sayaç kontrol,
+itiraz ve benzeri işlemleri,
+c) Nüfusu beş bin ile elli bin arasında olan
+ilçelerde ise asgari olarak kullanıcıların başvurularının alınması,
+hizmetlerini yürütecek niteliğe sahip personel ile
+en az yukarıda belirtilen sayıda olacak şekilde, il ve ilçelerde kullanıcı
+hizmetleri merkezi kurar.
+(3) Dağıtım şirketi kullanıcı hizmetleri merkezi
+sayısına ilişkin bilgileri Kurum tarafından belirlenecek formata uygun
+olarak her yıl 31 Ocak tarihine kadar Kuruma sunar.
+Elektrik
+dağıtım veri ambarı ve raporlama sistemi
+MADDE 11-
+(1) Dağıtım şirketi, 27/5/2014
+tarihli ve 29012 sayılı Resmî Gazete’de yayımlanan Enerji Piyasası Bildirim
+Yönetmeliği kapsamında Kuruma dağıtım faaliyetleri ile ilgili olarak
+bildirmekle yükümlü olduğu verilerin ve Kurum tarafından gerekli
+görülebilecek ilave verilerin izlenmesine ve raporlanmasına ilişkin
+EDVARS’a Kurumun uzaktan erişimini sağlamakla yükümlüdür.
+(2) Uygulamaya ilişkin usul ve esaslar Kurul kararı
+ile belirlenir.
+Kişisel
+verilerin korunması
+MADDE 12-
+(1) Dağıtım şirketi ilgili mevzuat
+kapsamında dağıtım faaliyetinin yürütülmesi çerçevesinde herhangi bir
+şekilde elde ettiği verilere ilişkin olarak, 24/3/2016 tarihli ve 6698
+sayılı Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayalı olarak
+çıkarılan mevzuat kapsamında kişisel verilerin korunmasını sağlayacak
+önlemleri alır.
+(2) Dağıtım şirketi elektrik piyasasına ilişkin
+ilgili mevzuat çerçevesinde internet sitesinde yayımlamakla yükümlü olduğu
+verileri, Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayalı olarak
+çıkarılan mevzuatta belirtilen hükümlere uygun olarak yayımlar.
+Dağıtım
+faaliyetlerinin incelenmesi
+MADDE 13- (1) Elektrik dağıtım şirketinin faaliyetleri
+kapsamında üretilen her türlü bilgi, belge ve rapor Kuruma yapılan bildirim
+veya diğer veri kaynağı esas alınarak yerinde veya uzaktan, resen veya
+kullanıcı ihbar ve şikâyetleri üzerine Kurum tarafından gerekli görülmesi
+hallerinde incelenebilir.
+(2) Dağıtım şirketi, Kurum tarafından
+görevlendirilen personele, inceleme için gerekli imkânları ve ihtiyaç
+duyduğu tüm bilgi ve belgeleri gecikmeksizin sağlamakla ve bu personelin
+görevlerini yerine getirmesi sırasında işbirliği yapmakla yükümlüdür. Dağıtım
+şirketi, yapılan incelemelerde talep edilen tüm bilgi ve belgeleri
+belirtilen süre içerisinde sunmakla yükümlüdür. Talep edilmesi halinde söz
+konusu verileri tevsik edici nitelikteki sisteme veri sağlayan kaynaklara
+erişimi gecikmeksizin sağlamakla yükümlüdür.
+(3) Dağıtım şirketi, dağıtım faaliyeti ile ilgili
+olarak tüm bilgi ve belgeleri lisansında belirtilen dağıtım bölgesi
+sınırları içerisinde bulundurmak ve muhafaza etmekle yükümlüdür.
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 14-
+(1) 2/1/2014 tarihli ve 28870
+sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Dağıtım Yönetmeliği
+yürürlükten kaldırılmıştır.
+(2) İlgili mevzuatta birinci fıkra ile yürürlükten
+kaldırılan Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Yürürlük
+MADDE 15- (1) Bu Yönetmeliğin;
+a) 9 uncu ve 10 uncu maddeleri 31/12/2022
+tarihinde,
+b) Diğer maddeleri yayımı tarihinde,
+yürürlüğe girer.
+Yürütme
+MADDE 16-
+(1) Bu Yönetmelik hükümlerini
+Enerji Piyasası Düzenleme Kurumu Başkanı yürütür.
