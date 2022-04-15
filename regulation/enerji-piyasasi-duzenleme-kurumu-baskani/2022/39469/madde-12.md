@@ -1,0 +1,3 @@
+Kişisel verilerin korunması
+MADDE 12- (1) Dağıtım şirketi ilgili mevzuat kapsamında dağıtım faaliyetinin yürütülmesi çerçevesinde herhangi bir şekilde elde ettiği verilere ilişkin olarak, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayalı olarak çıkarılan mevzuat kapsamında kişisel verilerin korunmasını sağlayacak önlemleri alır.
+(2) Dağıtım şirketi elektrik piyasasına ilişkin ilgili mevzuat çerçevesinde internet sitesinde yayımlamakla yükümlü olduğu verileri, Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayalı olarak çıkarılan mevzuatta belirtilen hükümlere uygun olarak yayımlar.

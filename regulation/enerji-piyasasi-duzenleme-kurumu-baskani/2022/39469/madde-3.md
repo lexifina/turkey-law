@@ -1,0 +1,27 @@
+Tanımlar ve kısaltmalar
+MADDE 3- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,
+b) Bakım Yönetim Sistemi: Bakım faaliyetine ilişkin; bakım zamanının, bakımın içeriğinin, bakımda kullanılan malzemelerin, bakım tutanaklarının ve benzeri bakım verilerinin kaydedildiği ve raporlanabildiği sistemi,
+c) CBS: Coğrafi Bilgi Sistemini,
+ç) CENELEC: Avrupa Elektroteknik Standardizasyon Komitesini,
+d) Dağıtım: Elektrik enerjisinin gerilim seviyesi 36 kV ve altındaki hatlar üzerinden naklini,
+e) Dağıtım faaliyeti: Bir dağıtım şirketi tarafından, lisansında belirlenen bölgede sayaçların okunması, bakımı ve işletilmesi hizmetlerinin yerine getirilmesini, genel aydınlatma faaliyetinin yürütülmesini, dağıtım tesislerinin yatırım, bakım ve işletiminin yapılmasını, teknik ve teknik olmayan kaybın azaltılmasına yönelik gerekli tedbirlerin alınmasını, dağıtım sisteminin elektrik enerjisi üretimi ve satışında rekabet ortamına uygun şekilde işletilmesini, dağıtım tesislerinin yenilenmesini, kapasite ikame ve artırım yatırımlarının yapılmasını, dağıtım sistemine bağlı ve/veya bağlanacak olan tüm dağıtım sistemi kullanıcılarına ilgili mevzuat hükümleri doğrultusunda eşit taraflar arasında ayrım gözetmeksizin hizmet sunulmasını,
+f) Dağıtım sistemi: Bir dağıtım şirketinin, lisansında belirlenmiş dağıtım bölgesinde işlettiği elektrik dağıtım tesisleri ve şebekesini,
+g) Dağıtım şebekesi: Tüketicilerin iç tesisatını ve üreticilerin şalt sahasını dağıtım sistemine bağlamak üzere tesis edilen bağlantı hatları hariç dağıtım tesisini,
+ğ) Dağıtım şirketi: Belirlenen bir bölgede elektrik dağıtımı ile iştigal eden tüzel kişiyi,
+h) Dağıtım tesisi: İletim tesislerinin ve dağıtım gerilim seviyesinden bağlı üretim ve tüketim tesislerine ait şalt sahalarının bittiği noktadan sonraki nihayet direğinden, alçak gerilim seviyesinden bağlı tüketicilerin yapı bina giriş noktalarına kadar, bina giriş ve sayaç arası hariç, elektrik dağıtımı için teçhiz edilmiş tesis ve teçhizat ile dağıtım şirketince teçhiz edilen ya da devralınan sayaçları,
+ı) EDVARS: Elektrik Dağıtım Veri Ambarı ve Raporlama Sistemini,
+i) IEC: Uluslararası Elektroteknik Komisyonunu,
+j) EN: Avrupa Standardını,
+k) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, Cumhurbaşkanlığı Kararnamesi, Cumhurbaşkanı Kararı, yönetmelik, tebliğ, genelge ve Kurul kararı ve bunlar uyarınca çıkarılan diğer düzenlemeleri,
+l) İlgili diğer mevzuat: Cumhurbaşkanlığı Kararnamesi ile Cumhurbaşkanlığı ve Bakanlıklar tarafından çıkarılan ilgili yönetmelik, tebliğ ve diğer düzenlemeleri,
+m) İlgili teknik mevzuat: Bakanlık ve/veya ihtisas sahibi kamu kurum ve kuruluşları tarafından çıkarılan ilgili yönetmelik, tebliğ ve diğer düzenlemeleri,
+n) Kullanıcı: Dağıtım sistemini kullanan gerçek veya tüzel kişiyi,
+o) Kurum: Enerji Piyasası Düzenleme Kurumunu,
+ö) Kurul: Enerji Piyasası Düzenleme Kurulunu,
+p) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,
+r) TS: Türk Standardını,
+s) Üretim: Enerji kaynaklarının, üretim tesislerinde elektrik enerjisine dönüştürülmesini,
+ş) SCADA: Yönetimsel Kontrol ve Veri Toplama Sistemini,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer ifade ve kısaltmalar ilgili mevzuattaki anlam ve kapsama sahiptir.

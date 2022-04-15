@@ -1,0 +1,4 @@
+Dağıtım sisteminde enerji akışı ve iletişim
+MADDE 5- (1) Dağıtım şirketi, orta gerilim seviyesinde yeni tesis edilecek, ring şebekedeki giriş-çıkış fiderleri hariç en az üç çıkış fiderine sahip veya en az 5000 kVA kurulu gücü olan dağıtım merkezlerinin OG fiderlerinin akım, gerilim ve güç tüketim verilerini gerçek zamanlı olarak izler ve kaydeder.
+(2) Dağıtım şirketi, 1000 kVA ve üzeri yeni tesis edilecek dağıtım transformatörlerinin AG barasının akım, gerilim ve güç tüketim verilerini gerçek zamanlı olarak izler ve kaydeder.
+(3) Dağıtım şirketi, birinci ve ikinci fıkralar kapsamındaki yükümlülükleri ile birlikte dağıtım sistemi üzerinde elektrik kesintilerinin izlenmesi için Bakanlık, Kurum ve denetim yetkisini haiz kamu kurumunun paylaşımına açacağı gerekli iletişim altyapısını kurmakla yükümlüdür.

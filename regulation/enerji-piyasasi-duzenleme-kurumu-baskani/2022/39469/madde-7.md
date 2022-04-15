@@ -1,0 +1,4 @@
+Coğrafi bilgi sistemi
+MADDE 7- (1) Dağıtım şirketi, dağıtım bölgesinde bulunan ve dağıtım tesisi kapsamında yer alan elektriksel teçhizatı içeren ve Kurul tarafından belirlenen usul ve esaslarda belirtilen tesis ve/veya teçhizatı gösteren veri tabanına sahip CBS oluşturmakla yükümlüdür. Söz konusu CBS diğer izleme sistemleri ile entegre olacak şekilde kurulur.
+(2) Dağıtım şirketi elektrik dağıtım sisteminin ihtiyaçları doğrultusunda CBS’nin iyileştirilmesinden sorumludur. Dağıtım şirketi CBS’de tutulan verilerin güncelliğini ve güvenilirliğini sağlamakla yükümlüdür.
+(3) Dağıtım şirketi tarafından kurulan CBS’nin kapsamı, güncel tutulması gereken veriler, verilerin saklanması, güncellenmesi, Kurum tarafından istenilen verilerin sunulması ve doğruluğuna ilişkin hususlar Kurul tarafından belirlenen usul ve esaslar ile düzenlenir.
