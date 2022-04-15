@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "B.07.1.GİB.4.35.16.01-120.03.05.06[23-2017/3]-201082",
+  "source_id": 21393,
+  "date": "2022-04-15",
+  "title": "Merkezi yurtdışında bulunan firmanın Türkiye'deki irtibat bürosunda çalıştırdığı personele ödenen ücretlerin istisna kapsamında olup olmadığ hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21393",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "492a16f8738ad59f1308b1cbc111ca02ff0e9635a764f1ebb87b6799e41763cd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
