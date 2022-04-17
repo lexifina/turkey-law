@@ -1,0 +1,2 @@
+Şehir içi raylı toplu taşıma işletmecilerinin demiryolu eğitim ve sınav merkezi oluşturması
+GEÇİCİ MADDE 2 – (1) Şehir içi raylı toplu taşıma işletmecileri, bünyesinde demiryolu faaliyetlerinde emniyet kritik görevleri yapacak çalışanlara yönelik eğitimlerin, sınavların ve belgelendirmenin yapılması konusunda, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren demiryolu eğitim ve sınav merkezlerini en geç üç yıl içinde oluştururlar.
