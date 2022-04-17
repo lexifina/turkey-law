@@ -1,0 +1,3 @@
+Eğitim yetki belgesinin düzenlenmesi ve yenilenmesi
+MADDE 12 – (1) İdare tarafından başvurular 30 gün içerisinde değerlendirilir. Uygun bulunan başvurular için eğitim yetki belgesi ücretinin yatırıldığına dair makbuzun İdareye ibraz edilmesini müteakip, başvuruları uygun bulunan kuruluşlara, liman tesislerine eğitim yetki belgesi beş yıl süreyle düzenlenir.
+(2) Yetkilendirilmiş kuruluş, yetki belgesinin geçerlilik süresinin dolmasından üç ay önce İdareye başvurması ve 11 inci maddede belirtilen başvuru şartlarını sağladığının tespit edilmesi halinde, İdare tarafından yetki belgesi beş yıl süre ile yenilenir.

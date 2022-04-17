@@ -1,0 +1,2 @@
+Eğitici belgesinin yenilenmesi
+MADDE 8 – (1) Eğitim semineri faaliyetlerinde aktif olarak görev yapan eğiticilerin belgeleri, belge geçerlilik süresi sonunda İdareye başvurmaları halinde yenilenir. Beş yıllık belge geçerlilik süresi içerisinde eğitim faaliyetinde bulunmayanların belgelerinin yenilenebilmesi için, bu kişilerin İdare tarafından düzenlenecek olan eğiticilerin eğitimi seminerine yeniden katılım sağlamaları gerekir.

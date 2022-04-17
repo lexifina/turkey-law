@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik, 14/4/1341 tarihli ve 618 sayılı Limanlar Kanunu, 10/6/1946 tarihli ve 4922 sayılı Denizde Can ve Mal Koruma Hakkında Kanun, 26/9/2011 tarihli ve 655 sayılı Ulaştırma, Denizcilik ve Haberleşme Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde Kararname ile 6/3/1980 tarihli ve 8/522 sayılı Bakanlar Kurulu Kararı ile onaylanan 1974 Uluslararası Denizde Can Emniyeti Sözleşmesine dayanılarak hazırlanmıştır.
