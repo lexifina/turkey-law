@@ -1,0 +1,2 @@
+Denetçilerin yetkileri
+MADDE 7 – (1) Genel Müdürlük tarafından teknik denetçi olarak yetkilendirilen yetkili bağımsız denetim kuruluşlarında görevli denetçiler 15/4/2006 tarihli ve 26140 sayılı Resmî Gazete’de yayımlanan Sivil Havacılık Genel Müdürlüğü Teknik Denetçilerin Görev, Yetki ve Sorumlulukları ile Çalışma Usul ve Esasları Hakkında Yönetmelikte belirtilen hususlarda Genel Müdürlük adına yetkilidir.

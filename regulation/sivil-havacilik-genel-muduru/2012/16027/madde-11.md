@@ -1,0 +1,6 @@
+Denetçilerin unvanları
+MADDE 11 – (1) Yetkili bağımsız denetim kuruluşunda çalışan ve 2920 sayılı Türk Sivil Havacılık Kanunu ve 5431 sayılı Sivil Havacılık Genel Müdürlüğü Teşkilat ve Görevleri Hakkında Kanun ile bu kanunlar uyarınca yayımlanan mevzuata göre denetim yetkisi verilecek bağımsız denetçilerin alabilecekleri unvanlar kıdem sırasına göre; başdenetçi ve denetçidir.
+(2) Başdenetçi ve denetçilerin unvanları ve hangi alanda denetçi oldukları yetkili bağımsız denetim kuruluşları tarafından verilecek kimlik kartlarında belirtilir.
+(3) Başdenetçi unvanının kazanılması için fiilen en az on yıl, denetçi unvanının kazanılması için fiilen en az beş yıl havacılık sektöründe yapılacak olan inceleme ve denetimle ilgili olarak deneyim şarttır.
+(4) Başdenetçi ve denetçi unvanı verilecek personel için gerekli diğer şartlar Genel Müdürlükçe belirlenir.
+(5) (Ek:RG-27/2/2015-29280) Amatör yapım hava araçlarının denetlenmesi için yetki alan Yetkili Bağımsız Denetçi kuruluşlarda Başdenetçi gerekliliği aranmaz. Ancak denetçilerin; amatör yapım hava araçlarının tasarımı, yapımı ve uçuş testleri konularında en az beş yıl tecrübe sahibi ve en az bir (1) adet amatör hava aracı tasarım, yapım ve uçuş testleri süreçlerinde çalışmış olmaları gerekir.

@@ -1,0 +1,86 @@
+{
+  "source_id": "7.5.16027",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SİVİL HAVACILIK İŞLETMELERİ YETKİLİ DENETİM, TEKNİK GÖZETİM VE MÜŞAVİRLİK KURULUŞLARI YÖNETMELİĞİ (SHY-YDTGMK)",
+  "number": "16027",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2012/16027",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16027&MevzuatTertip=5",
+  "source_sha256": "0002a24043253a867f5d37c0cfdca5a6f0275c4e643e4e11a8435806f44a1ecd",
+  "source_bytes": 138643,
+  "published": "2012-04-05",
+  "gazette": "28255",
+  "in_force": "2022-04-17",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-17/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-17",
+      "RG-17/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-17",
+      "17/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-01-15",
+      "RG-15/1/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-01-15",
+      "15/1/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-05-05",
+      "RG-5/5/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-05-05",
+      "5/5/2017",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-27",
+      "RG-27/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-27",
+      "27/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-01-15",
+      "RG-15/1/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-01-15",
+      "15/1/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7169,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16027%20ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

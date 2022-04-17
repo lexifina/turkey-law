@@ -1,0 +1,9 @@
+İnceleme ve denetim faaliyetinin yürütülmesi
+MADDE 6 – (1) Denetim faaliyetleri, Genel Müdürlük tarafından verilen yetki kapsamında işletmelerin denetim sözleşmesi imzaladığı yetkili denetim kuruluşunun ilgili baş denetçisi başkanlığında, aynı yetkili bağımsız denetim kuruluşunca istihdam edilen denetim yetkisine sahip denetçiler tarafından Genel Müdürlükçe belirlenen denetim takvimine uygun olarak yürütülür.
+(2) Taslak denetim takvimi Genel Müdürlük tarafından her yıl için bir önceki yılın Ekim ayı sonuna kadar işletmelere bildirilir.
+(3) Genel Müdürlük ile denetim kuruluşları tarafından yapılacak denetimler yıllık denetim takviminde Genel Müdürlük tarafından belirlenir.
+(4) İşletmeler tarafından Genel Müdürlüğün denetim takviminde yer alan denetimlerden hangisinin yetkili bağımsız denetim kuruluşlarına yaptırılacağı bir önceki yılın Kasım ayı sonuna kadar Genel Müdürlüğe yazılı olarak bildirilir.
+(5) Genel Müdürlük, yapılan başvurulara göre tüm işletmeler için kesinleşen denetim planını bir önceki yılın Aralık ayı sonuna kadar işletmelere bildirir.
+(6) Genel Müdürlük, yetkili denetim kuruluşlarının yapacağı denetimlerde kendi personelini kısmen veya tüm denetim boyunca haberli veya habersiz olarak bulundurma, denetimi gözetleme hakkına sahiptir.
+(7) Yıllık denetim takviminde yer almayan plansız denetimler ile yapılacak ilave denetimler Genel Müdürlükçe yapılır. Bu denetimlerden ücret alınmaz. Genel Müdürlükçe yetkili bağımsız denetim kuruluşlarından hizmet almak sureti ile denetim yaptırılabilir. Bu denetimlerin ücreti ve şartlarına ilişkin hususlar yetkili bağımsız denetim kuruluşları ile Genel Müdürlük arasında mevzuat çerçevesinde ayrıca anlaşma ile belirlenir.
+(8) İnceleme faaliyetleri kapsamında, işletmelerin el kitabı, özel yetki, kiralama ve benzeri onay ve kabul işlemlerine yönelik gerekli incelemeler yetkili bağımsız denetim kuruluşları tarafından yapılarak inceleme sonuçları en geç yedi işgünü içinde Genel Müdürlüğe bildirilir.

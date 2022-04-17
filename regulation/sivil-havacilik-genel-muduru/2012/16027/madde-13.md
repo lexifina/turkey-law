@@ -1,0 +1,2 @@
+Doküman yönetim ve kontrol sistemi
+MADDE 13 – (1) Yetkili bağımsız denetim kuruluşları yetkilendirildikleri konularda faaliyetlerini belirli bir düzen içinde ve mevzuata uygun şekilde yürütülmesine yönelik olarak işletme tarafından tüm dokümanların organizasyon içinde izlenebilir şekilde dağıtılması, saklanması ve güncellemesi için uygun bir doküman yönetim ve kontrol sistemi kurarak, rehber hazırlar, bu rehber Genel Müdürlük tarafından onaylanır.
