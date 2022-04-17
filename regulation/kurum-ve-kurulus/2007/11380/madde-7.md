@@ -1,0 +1,2 @@
+Acenteliklerin ilanı
+MADDE 7 – (1) (Değişik:RG-2/3/2013-28575) Acentelik açılacak yerler tespit edildikten sonra; PTT’nin resmi internet sitesinde, başmüdürlükler ve merkez müdürlüklerin ilan tahtalarında, belediyelerde, köylerde ve mahalle muhtarlıklarında; hoparlör veya diğer ilan vasıtalarıyla bir hafta süreyle duyurulur ve duyuruya dair tutanak düzenlenir. Duyuruda duyurunun bitim tarihinden itibaren on günlük başvuru süresi tanındığı belirtilir. Bu sürenin sonunda başvurular değerlendirilmek üzere Genel Müdürlüğe gönderilir.

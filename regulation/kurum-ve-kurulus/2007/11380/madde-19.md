@@ -1,0 +1,3 @@
+Acentenin eğitimi
+MADDE 19 – (1) Acenteye, bağlı bulunduğu merkez müdürlüğü tarafından, yapacağı işler ve bu işlerin nasıl yapılacağı anlatılır ve bununla ilgili yayınlar kendisine verilir. Acente ayrıca işlerin nasıl yapıldığını göstermek amacıyla merkez müdürlüğünde eğitime tabi tutulur. Eğitim döneminde acentenin başarılı olamaması ve bu görevi yapamayacağının merkez müdürünce tespiti halinde, sözleşmesi feshedilerek teminatı iade edilir ve bu durum bir tutanak ile başmüdürlük vasıtasıyla Genel Müdürlüğe bildirilir.
+(2) Merkez müdürlüğünce acenteye; faaliyete başladıktan sonra yılda en az bir kez eğitim verilir.

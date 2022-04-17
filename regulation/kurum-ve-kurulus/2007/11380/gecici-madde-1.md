@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yayımı tarihinden önce fiilen hizmet veren acentelerin, müracaat etmeleri ve bu Yönetmelikteki şartları taşımaları kaydıyla, bu Yönetmeliğin yürürlük tarihinden itibaren altı ay içerisinde sözleşmeleri yenilenebilir; aksi durumda sözleşmeleri bitiş tarihi itibariyle sona ermiş sayılır.

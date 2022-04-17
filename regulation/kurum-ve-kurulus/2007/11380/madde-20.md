@@ -1,0 +1,6 @@
+Acentelere verilecek malzeme
+MADDE 20 – (1) (Değişik:RG-25/9/2008-27008) Acentelere PTT tarafından; PTT acenteliği levhası, banko, bu Yönetmeliğin bir nüshası ile birlikte ilgili diğer yayınlar, ücret tarifeleri, bilmeleri gereken her türlü tebliğ ve genelgeler; yapacakları işlerin kaydedilmesi için gerekli olan defter, liste, alındı, formül, etiket, çuval, torba, ip, emniyet kilidi, mengene ve damgalar, gerekli olan diğer her çeşit evrak ve eşya ile otomasyon sistemi için gerekli donanım, acentenin bağlı bulunduğu merkez müdürlüğü demirbaşının ayrı ayrı listelerine kaydedilmek suretiyle karşılıklı imzalanarak teslim edilir. Bu listelerin bir nüshası merkezde alıkonulur, diğer nüshası acenteye verilir.
+(2) (Değişik:RG-25/9/2008-27008) Bunlardan tüketime tabi olanlar bittikçe, acenteye ihtiyacı kadar yeniden verilir. Otomasyon sisteminde kullanılan sarf malzemeleri, PTT tarafından karşılanır.
+(3) Acente, PTT tarafından verilen demirbaş eşya ile basılı kağıt dışındaki tüm ihtiyaçlarını kendisi karşılar.
+(4) (Değişik:RG-25/9/2008-27008) Hat tesisi ile bunların işletilmesine ilişkin her türlü giderler PTT tarafından karşılanır.
+(5) Acente; kendisine teslim edilen eşya, mühür ve damgaların, doğru biçimde kullanılmasından ve korunmasından sorumludur.

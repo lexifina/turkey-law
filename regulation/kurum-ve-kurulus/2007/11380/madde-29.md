@@ -1,0 +1,6 @@
+Acentelere bey’iyenin ödenmesi
+MADDE 29 – (1) Acentelerin posta ile merkeze gönderdikleri veya bizzat gelerek teslim ettikleri her türlü posta, telgraf, koli ve havalelere ait listelerdeki bilgiler ile sözleşmeye dayalı hizmetleri kapsayan bilgiler ay sonlarında düzenli olarak merkez müdürlüğü tarafından toplanır.
+(2) Acenteliklerin gelirleri, PTT tarafından hazırlanan acenteler bildirim listesi üzerindeki ücretlerin toplamına göre hesaplanır.
+(3) Hesaplanan bey’iyeler acenteye ertesi ayın onuncu gününden itibaren merkez müdürlüğünce ödenir. Ödeme evrakına icmal acente bildirim listesinin bir örneği eklenir.
+(4) Acenteye merkeziyle yaptığı temas adedine ve belediyece belirlenen toplu taşıt ücretlerine göre, geliş ve gidiş masrafları ödenir. Toplu taşıt olmaması durumunda emsal toplu taşıt ücreti ödenir.
+(5) (Ek:RG-31/12/2008-27097 7. Mükerrer) Bir önceki takvim yılı içerisinde acentelere ödenen en yüksek bir aylık bey’iye gözetilmek suretiyle, PTT Yönetim Kurulunca belirlenecek aylık miktardan daha az aylık bey’iye elde eden acentelere, 16 yaşından büyüklere uygulanan asgari ücret brüt tutarını geçmemek üzere, PTT Yönetim Kurulunca belirlenecek oranlara göre her ay yardım yapılabilir.

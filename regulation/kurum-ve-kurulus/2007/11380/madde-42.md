@@ -1,0 +1,2 @@
+Acentenin tüzel kişiliğinin sona ermesi
+MADDE 42 – (1) Tüzel kişi acentenin tüzel kişiliğinin sona ermesi halinde merkez müdürlüğünden iki personel ve tüzel kişiliği temsilen bir yetkilinin katılımıyla kurulacak bir komisyon tarafından, acentelikteki işlem ve mevcutlar bu Yönetmeliğin 40 ıncı maddesinde öngörüldüğü şekilde tespit olunur. Tespit edilen eksiklikler acentenin teminatından tahsil edilir.

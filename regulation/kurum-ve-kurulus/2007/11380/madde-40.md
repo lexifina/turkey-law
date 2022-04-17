@@ -1,0 +1,2 @@
+Acentelik ilişkisinin kesilme usulü
+MADDE 40 – (1) Sözleşmesi herhangi bir sebeple sona eren acentelerin son güne kadar kullandıkları her türlü liste, defter, alındı ve belgeler ile pul ve sair nakit mevcutları ve ayrıca kendilerine teslim edilmiş bulunan her türlü işletme malzeme ve cihazları ile bu Yönetmeliğin 20 nci maddesinde belirtilmiş bulunan malzeme, iki nüsha düzenlenen listeye kaydedilerek listenin bir nüshası ile birlikte merkez müdürlüğünce teslim alınır. Listenin ikinci nüshası ilgiliye, vekiline veya varislerine imza karşılığı verilir.

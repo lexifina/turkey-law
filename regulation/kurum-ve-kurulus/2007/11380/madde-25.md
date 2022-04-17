@@ -1,0 +1,2 @@
+Acentelerin haberleşme gizliliğine uyma zorunluluğu
+MADDE 25 – (1) Acenteler ve vekil acentelerin, kişilerin her türlü haberleşme ilişkilerini açığa vurmaları; mektupları açmaları, açık dahi olsa içlerinde ne bulunduğunu araştırmaları veya haberleşme kağıtlarındaki yazılarla posta ve telgraf haberleşmeleri veya havale, çek ve tahsilat bilgileri hakkında gönderici ile alıcıya veya bunların tayin ettikleri vekillerin dışındaki kişilere bilgi vermeleri yahut herhangi birine bunları yapmaya imkan vermeleri yasaktır.

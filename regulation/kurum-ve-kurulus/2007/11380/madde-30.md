@@ -1,0 +1,3 @@
+Vekil acente
+MADDE 30 – (1) Hastalık, tedavi ve benzeri sebeplerle geçici olarak işyerinden ayrılmak zorunda kalan bir acente, noterden vereceği vekaletname ile her türlü hukuki ve mali sorumluluğu kendisine ait olmak üzere, bu Yönetmelikte düzenlenen acente olma şartlarını taşıyan bir kişiyi vekil acente tayin edebilir. Vekil acente tayin edilmediği hallerde acentelik mazeret ortadan kalkıncaya kadar geçici olarak kapatılır. Her iki halde de bu süre bir yıl içerisinde toplam üç aydan fazla olamaz.
+(2) Acente; vekil acente tayin ettiğini ve vekil acentenin başlayış ve ayrılış tarihlerini mazeretin gerçekleştiği tarihten itibaren düzenlenen vekaletname ile birlikte en geç yedi gün içerisinde merkez müdürlüğüne bildirir, merkez müdürlüğünce de başmüdürlüğe bilgi verilir.

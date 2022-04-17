@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2 – (1) Bu Yönetmeliğin yayınlanmasından önce faaliyetine devam eden ancak teknik imkansızlık sebebiyle otomasyon sistemine açılamayan acenteler, otomasyona açılana kadar manuel çalışmaya devam ederler.
