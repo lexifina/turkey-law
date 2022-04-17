@@ -1,0 +1,3 @@
+Eğitim prosedürleri ve kalite sistemi
+MADDE 16 – (1) Kurum ve kuruluş, eğitim standartlarını, teorik ve uygulamalı sınavların güvenilirliğini ve eğitim prosedürlerinin yeterliliğini içeren bir kalite sistemi kurar.
+(2) Kalite sistemi, düzeltici faaliyetlerin hem tanımlanması hem de vaktinde ilgili birimlere iletilmesinin sağlanması amacıyla sorumlu müdüre yönelik bir geri besleme sistemi içermelidir. Geri besleme sistemi, her durumda uygunsuzlukları, yetersizlikleri ve yanlışları düzeltmesi istenen sorumlu kişileri açıkça belirtmeli ve uygun zaman diliminde tamamlanamayan düzeltici faaliyetlerin DEEK içinde tanımlı prosedüre göre takip edildiğini açıkça ortaya koyar.
