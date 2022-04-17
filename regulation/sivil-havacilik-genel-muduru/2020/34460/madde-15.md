@@ -1,0 +1,2 @@
+Sigorta yükümlülüğü
+MADDE 15 – (1) İşleticiler, 27/7/2017 tarihli ve 30136 sayılı Resmî Gazete'de yayımlanan Türkiye'de Faaliyet Gösteren Hava Araçları İçin Yolcu, Bagaj, Yük ve Posta Malî Mesuliyet Sigortası Hakkında Yönetmelik ve 27/7/2017 tarihli ve 30136 sayılı Resmî Gazete'de yayımlanan Sivil Hava Araçları Üçüncü Şahıs Malî Sorumluluk Sigortası Hakkında Yönetmelik kapsamında belirtilen sigorta gerekliliklerini yerine getirmekten sorumludur.

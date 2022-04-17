@@ -1,0 +1,4 @@
+Kurucu ve yönetici üyeler
+MADDE 13 – (1) İşleticilerin gerçek veya tüzel kişi kurucu ortakları ile tüzel kişiliğini temsile yetkili yöneticilerinin 2920 sayılı Kanunun 18 inci maddesinde belirtilen suçlardan hüküm giymemiş olmaları gerekir.
+(2) İşletici, hissedarlarında yahut hissedar yapısında değişiklik olması durumunda en geç bir ay içerisinde Genel Müdürlüğe bildirmek zorundadır.
+(3) Genel havacılık faaliyeti gerçekleştirecek gerçek kişilerin Türk vatandaşı olması ve tüzel kişilerin hisselerinin en az %51’inin nama yazılı olması, tüzel kişiliği idare ve temsil etmeye yetkili olanların çoğunluğunun Türk vatandaşı olması ve şirket ana sözleşmesine göre çoğunluk hissesinin Türk ortaklarda bulunması zorunludur. Ancak 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun hükümleri saklıdır.

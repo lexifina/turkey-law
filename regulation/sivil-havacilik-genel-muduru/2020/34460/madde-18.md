@@ -1,0 +1,4 @@
+İşletme el kitabı
+MADDE 18 – (1) B2 kapsamında faaliyet gösterecek işleticiler, İşletme El Kitabı Bölüm A, B, C, D; B1, B3, B4 ve B5 kapsamında faaliyet gösterecek işleticiler konu başlıkları EK-2’de yer alan işletme el kitabına ait genel esaslara ve işletme faaliyet maksadına uygun şekilde bir işletme el kitabı hazırlar, Genel Müdürlüğe sunar ve faaliyetlerini işletme el kitabına göre gerçekleştirir. İşletme El Kitabı Bölüm A, B, C, D Genel Müdürlük tarafından onaylanır.
+(2) İşleticilerin faaliyet sahalarında ilave veya değişiklik olması durumunda, yeni faaliyet sahasına uygun olarak ve Genel Müdürlük tarafından yeterli görülebilecek şekilde işletme el kitabını revize etmesi gerekir.
+(3) İşleticiler, görevlendirdikleri personelin işletme el kitabının içeriğini bilmesinden ve bunu uygulamasından sorumludur.

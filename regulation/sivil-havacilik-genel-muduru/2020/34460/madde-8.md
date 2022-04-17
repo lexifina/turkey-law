@@ -1,0 +1,2 @@
+Talebin incelenmesi
+MADDE 8 – (1) Talep dosyası ile yapılan başvurular, Genel Müdürlük tarafından bu Yönetmelik kapsamında incelenir ve inceleme sonucu başvuru sahibine en geç altmış gün içerisinde bildirilir. Ancak talep dosyasının kapsamına bağlı olarak, ilave değerlendirmeler yapılması gerekir ise, bu süre en fazla altmış gün daha uzayabilir. Talebin inceleme süresinin uzaması halinde bu durum başvuru sahibine bildirilir.

@@ -1,0 +1,21 @@
+Tanımlar ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Amatör havacılık: Amatör havacılardan oluşan gerçek veya tüzel kişilerin, ticari ve mali kazanç ile üçüncü kişilere ticari sayılabilecek hizmet verme maksadı olmaksızın, tescil sertifikasında kullanım amacı amatör havacılık olarak ifade edilen, tarihi ve silahlı kuvvetlerin hizmetinde bulunmuş hava aracı dahil olmak üzere, azami kalkış ağırlığı 2.000 kg ve altında olan, kompleks motorlu olmayan ve sadece kişisel ve amatör amaçlı kullanılan hava aracı ve amatör yapım hava aracı ile yürüttüğü havacılık faaliyetlerini,
+b) Bakanlık: Ulaştırma ve Altyapı Bakanlığını,
+c) B1: Kompleks motorlu olmayan hava araçları ile yapılan ticari olmayan operasyonları-NCO,
+ç) B2: Ticari özel operasyonları-Ticari SPO,
+d) B3: Eğitim faaliyetlerini,
+e) B4: Kompleks motorlu hava araçları ile yapılan ticari olmayan operasyonları-NCC,
+f) B5: Ticari olmayan özel operasyonları-SPO,
+g) Eğitim faaliyetleri: Genel Müdürlük tarafından verilmiş onaylı eğitim organizasyonu yetkisine sahip genel havacılık işleticilerinin bu kapsamda gerçekleştirdikleri uçuşları,
+ğ) Genel havacılık faaliyetleri: Ticari hava taşımacılığı dışında kalan B1, B2, B3, B4 ve B5 faaliyetlerini,
+h) Genel Müdürlük: Sivil Havacılık Genel Müdürlüğünü,
+ı) İşletici: Genel Havacılık Ruhsatı almış gerçek veya tüzel kişiyi,
+i) İşletme ruhsatı: Bu Yönetmelik kapsamında verilen genel havacılık işletme ruhsatını,
+j) Kompleks motorlu hava aracı: Aşağıda listelenen özelliklerden herhangi birini sağlayan hava aracını,
+1) Azami sertifikalandırılmış kalkış ağırlığı 5.700 kg'ın üzerinde veya azami yolcu koltuk kapasitesi 19'un üzerinde veya asgari iki pilota sertifiye edilmiş veya tek veya çok turbojet motora veya birden fazla turboprop motora sahip uçak,
+2) Azami sertifikalandırılmış kalkış ağırlığı 3.175 kg'ın üzerinde veya azami yolcu koltuk kapasitesi 9'un üzerinde veya asgari iki pilota sertifiye edilmiş helikopter,
+3) Tilt rotor olarak üretilmiş hava aracı,
+k) Özel operasyon-SPO: Hava aracının tarım, inşaat, fotoğrafçılık, haritacılık, havadan jeofizik araştırmalar, gözlem ve keşif, havadan reklam, bakım kontrol uçuşu gibi özel faaliyetler için kullanıldığı, ticari hava taşımacılığı dışındaki herhangi bir operasyonu,
+l) Ticari operasyon: Kamuya açık olan veya kamuya açık olmadığı durumlarda bir işletici ve müşteri arasında, müşterinin işletici üzerinde hiçbir kontrole sahip olmadığı bir sözleşme kapsamında, ücret karşılığı yapılan hava aracı operasyonunu,
+ifade eder.
