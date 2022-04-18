@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/63272",
+  "submitted": "2022-04-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mahmut TANAL",
+  "province": "İstanbul",
+  "summary": "2002'den bu yana Van'a gelen turist sayısına ve ile gelen turist sayısını artırmak için yürütülen çalışmalara ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-1884-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "b4829bd3331daec79f8d342d7ab49342b44f4f68df333909dc5bdabc40ff4fe6",
+  "in_force": "2022-04-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
