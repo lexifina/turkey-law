@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-170.03.02[2022/06]-181015",
+  "source_id": 36478,
+  "date": "2022-04-19",
+  "title": "İşitme engeli olan kişinin motorlu taşıtlar",
+  "source": "https://gib.gov.tr/mevzuat/kanun/441/ozelge/36478",
+  "related_law": "197 sayılı MOTORLU TAŞITLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "0511a2a89573260e57ff34da8aaa3644f7ada9ec27e4eb7e67540d1540e0daa5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
