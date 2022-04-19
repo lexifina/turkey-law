@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-175-16225",
+  "source_id": 37394,
+  "date": "2022-04-19",
+  "title": "Organize Sanayi Bölgesinin Elektrik Tüketim Vergisi, İşyeri Açma İzni ve Cins Değişikliği Harcından Muaf Olup Olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37394",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "de56ddee4bf92149684454b327dd398d3c39f08510587360fbb6f05ce6c11260",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
