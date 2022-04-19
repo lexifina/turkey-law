@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-5434",
+  "number": "5434",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "İŞ TEFTİŞİ HAKKINDA YÖNETMELİK",
+  "published": "2022-04-19",
+  "enacted": "2022-04-18",
+  "gazette_number": "31814",
+  "in_force": "2022-04-19",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-04-19, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5434&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "ddd8aadf3299ecdc921af03733f56d80d61c544db68742821c7ea338ff52e299",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
