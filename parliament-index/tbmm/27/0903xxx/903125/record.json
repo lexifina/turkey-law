@@ -1,0 +1,83 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 903125,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "FEHMİ ALPAY ÖZALAN (İZMİR)",
+  "summary": "Ve Kocaeli Milletvekili Saffet Sancaklı ve Adalet ve Kalkınma Partisi Grup Başkanvekili Denizli Milletvekili Cahit Özkan ile 92 Milletvekilinin Spor Kulüpleri ve Spor Federasyonları Kanunu Teklifi (2/4331) (S. Sayısı: 324)",
+  "title": "Ve Kocaeli Milletvekili Saffet Sancaklı ve Adalet ve Kalkınma Partisi Grup Başkanvekili Denizli Milletvekili Cahit Özkan ile 92 Milletvekilinin Spor Kulüpleri ve Spor Federasyonları Kanunu Teklifi (2/4331) (S. Sayısı: 324)",
+  "first_sitting_date": "2022-04-19",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 98,
+      "sitting": 81,
+      "sitting_date": "2022-04-19",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c098/tbmm27098081.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c098/tbmm27098fih.pdf",
+      "pages": [
+        "800:813",
+        "816"
+      ]
+    },
+    {
+      "cilt": 99,
+      "sitting": 82,
+      "sitting_date": "2022-04-20",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099082.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099fih.pdf",
+      "pages": [
+        "59:97",
+        "99:132",
+        "133:135",
+        "136:142",
+        "143:146",
+        "147"
+      ]
+    },
+    {
+      "cilt": 99,
+      "sitting": 83,
+      "sitting_date": "2022-04-21",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099083.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099fih.pdf",
+      "pages": [
+        "252:262",
+        "262:277",
+        "280:285",
+        "285:291",
+        "292:293"
+      ]
+    },
+    {
+      "cilt": 99,
+      "sitting": 84,
+      "sitting_date": "2022-04-22",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099084.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c099/tbmm27099fih.pdf",
+      "pages": [
+        "345:360",
+        "360:374",
+        "378:390",
+        "390:399",
+        "400:412"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=201&v_kullanici_id=27484797",
+  "source_sha256": "2904264008c82089605112fd9184dbcf138b420997641f73429c746e602b654c",
+  "in_force": "2022-04-19",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
