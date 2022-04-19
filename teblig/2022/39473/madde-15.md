@@ -1,0 +1,3 @@
+İdari yaptırım
+MADDE 15- (1) Bu Tebliğe aykırı davrananlar hakkında 11/6/2010 tarihli ve 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanununun ilgili maddelerine göre idari yaptırım uygulanır.
+(2) Orijinal ambalajı açıldıktan sonra; satılan, toplu tüketime arz edilen veya teşhir edilen ürünlerde, 5996 sayılı Kanunda belirtilen idari yaptırım uygulanmasını gerektiren bir durum tespit edilmesi halinde, idari yaptırım kararı, olumsuzluğun tespit edildiği gıda satış yeri veya toplu tüketim yeri hakkında uygulanır. Olumsuzluğun üreticilerden kaynaklandığının tespit edilmesi halinde ise üretici işletmeler hakkında, 5996 sayılı Kanunda belirtilen ilgili yaptırımlar uygulanır.
