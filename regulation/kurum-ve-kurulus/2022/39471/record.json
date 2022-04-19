@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.39471",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ŞEKER FABRİKALARI A.Ş. GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39471",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2022/39471",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39471&MevzuatTertip=5",
+  "source_sha256": "2a99c614f5050160e224453f313bb7ba526e9246fd28e53f1a54999b9820bc65",
+  "source_bytes": 10704,
+  "published": "2022-04-19",
+  "gazette": "31814",
+  "in_force": "2022-04-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.04.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 252,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39471-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
