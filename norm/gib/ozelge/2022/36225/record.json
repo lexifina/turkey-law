@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "63611781-160[1-2022/1]-16595",
+  "source_id": 36225,
+  "date": "2022-04-19",
+  "title": "Kiralık kasada bulunan ziynet eşyalarına ait veraset ve intikal vergisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36225",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "aaf069f677c03c29b3cc9f88179f40f3ff8f0efc4baec6b2409fdbd886e7fefe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
