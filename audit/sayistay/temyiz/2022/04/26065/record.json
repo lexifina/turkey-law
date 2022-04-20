@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51617",
+  "decision_date": "2022-04-20",
+  "source_id": 26065,
+  "chamber": "6",
+  "file_number": "43330",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26065/",
+  "source_sha256": "93fad96ca71159bcfe1abb3e2f6379502a1b57ea819011aea92d623007884f48",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
