@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51619",
+  "decision_date": "2022-04-20",
+  "source_id": 26068,
+  "chamber": "7",
+  "file_number": "45105",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2014",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26068/",
+  "source_sha256": "45ab73b458a70bacd696ef5859d8836fb3ba5ff54171761688ce00a464ec71e3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
