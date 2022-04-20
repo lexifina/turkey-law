@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-65771276-130[2022]-9494",
+  "source_id": 32146,
+  "date": "2022-04-20",
+  "title": "Pide ve lahmacun ürünlerinde uygulanan KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32146",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "77acc1e422cadd1009e55c3a8b26215c48a35490c5a22fdadf78960f3a0527c4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
