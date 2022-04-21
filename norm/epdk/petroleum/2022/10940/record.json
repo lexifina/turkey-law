@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "10940",
+  "decision_date": "2022-04-21",
+  "title": "TS EN 228 Otomotiv Yakıtları - Kurşunsuz Benzin - Özellikler ve Deney Yöntemleri (Aralık 2017) standardında belirtilen “Buhar Basıncı” ve “70 °C'ta Buharlaşma Yüzdesi - E70” özelliklerine ait asgari sınır değerleri hakkında",
+  "resmi_gazete_date": "2022-04-22",
+  "resmi_gazete_number": "31817",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NIoOqpkJMJc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=NIoOqpkJMJc="
+  ],
+  "source_sha256": "6ee1acdd8d2bb772494d76b4e1ad51cd4d83be9627fc467ae1df40766555cccc",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-04-21",
+  "law_text_complete": true
+}
