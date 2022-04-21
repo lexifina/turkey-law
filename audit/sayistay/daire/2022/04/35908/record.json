@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "514",
+  "decision_date": "2022-04-21",
+  "source_id": 35908,
+  "chamber": "7",
+  "ilam_number": "98",
+  "item_number": 2,
+  "account_year": 2020,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35908/",
+  "source_sha256": "2b7a980366fdad403096e932d516341d1a91ed127e7edc2f14172e5a69dd6b64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
