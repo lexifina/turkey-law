@@ -1,0 +1,8 @@
+Duyuru, başvuru ve itiraz
+MADDE 10 – (Başlığı ile birlikte değişik:RG-13/3/2015-29294)
+(1) Görevde yükselme veya unvan değişikliği suretiyle atama yapılacak kadroların sınıfı, unvanı, atama yapılacak boş kadro sayısı, sınav konuları, sınav tarihi, son başvuru tarihi, başarı puanı, sınavın hangi usulde yapılacağı, başvuru şartları ve diğer hususlar yazılı sınavlardan önce duyurulur. Sınav duyurusu sınav tarihinden en az otuz gün önce Kurumun resmi internet sitesinde ilan edilir.
+(2) İlan edilen kadrolar için belirlenen başvuru tarihinin son günü itibarıyla aranan nitelikleri taşıyan personel, başvuru şartlarını taşıdığı farklı unvanlı kadrolardan sadece biri için duyuruda belirtilen şekilde başvuruda bulunabilir.
+(3) Aylıksız izinde bulunanlar dâhil olmak üzere, ilgili mevzuatı uyarınca verilen izinleri kullanmakta olanların da sınava katılmaları mümkündür.
+(4) Görevde yükselme veya unvan değişikliği suretiyle atanılacak kadrolar için yapılacak sınavlara, sadece Kurum personeli başvurabilir. Aday memurlar ile ilan edilen kadrolara sınavsız atanma hakkına sahip olanlar ise başvuruda bulunamazlar.
+(5) İnsan Kaynakları Dairesi Başkanlığına yapılacak olan başvurular incelenerek, aranan şartları taşıyanlar Kurumun resmi internet sitesinde ilan edilir.
+(6) Başvuruları öngörülen şartlara uygun olmaması nedeniyle Kurumun resmi internet sitesinde ilan edilen listede yer almayanlar, listenin ilan edildiği tarihten itibaren 3 iş günü içinde, sınav kuruluna itiraz edebilir. İtiraz sınav kurulunun sekretarya hizmetlerini yürüten birim aracılığıyla yapılır. Bu itirazlar 7 iş günü içinde incelenerek karara bağlanır. İtiraz sonucu, sekretarya hizmetlerini yürüten birimce itiraz sahiplerine yazılı olarak bildirilir.

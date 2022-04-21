@@ -1,0 +1,8 @@
+Çeşitli ve Son Hükümler
+Görev grupları arası geçişler
+MADDE 22 – (1) Bu Yönetmeliğin beşinci maddesinde belirtilen görev grupları arasındaki geçişler aşağıdaki esaslara göre yapılır.
+a) Aynı görev grubunun alt görev grubu içinde yer alan aynı düzeydeki görevlerden; bu görev grubu içindeki üst bentlerde yer alan görevlere sınavla, aynı veya daha alt bentlerde sayılan görevlere ise bu görev için aranan şartları taşımak kaydıyla sınavsız atama yapılabilir. Sınavsız yapılacak atamalar için (Değişik ibare:RG-31/5/2013-28663) İnsan Kaynakları Dairesi Başkanlığınca duyuru yapılır. (Mülga cümle:RG-13/3/2015-29294) (…) Duyuruda birden fazla unvana yer verilmesi halinde adaylar gerekli şartları taşımaları kaydıyla birden fazla unvan için de başvuruda bulunabilirler. Tercihlerinden birine atanamayanların atamaları, başvurularında belirtmeleri halinde ihtiyaç çerçevesinde duyuruda yer verilen boş kadrolara yapılır.
+b) Görev grupları arası görevde yükselme niteliğindeki geçişler ve alt gruptan üst gruplara geçişler görevde yükselme (Mülga ibare:RG-13/3/2015-29294) (…) sınavına tabidir.
+(2) Unvan değişikliğine tabi kadrolara geçişler ile bu kadrolar arasındaki geçişler atanacak kadro için düzenlenen unvan değişikliği sınavı sonucuna göre yapılır.
+(3) Bu Yönetmelik kapsamındaki personelden doktora öğrenimini bitirmiş olanlar, unvan değişikliği sınavına katılmaksızın öğrenimle ihraz edilen görevlere atanabilirler.
+(4) Bu Yönetmelik kapsamında bulunan ve doktora öğrenimini bitiren personelin, atanılacak görev için aranan toplam hizmet süresine sahip olmaları ve mevzuatla aranan öğrenim şartını taşımaları kaydıyla uzman veya aynı düzeydeki görevler ile daha alt görevlere atanmalarında bu Yönetmelik hükümleri uygulanmaz.

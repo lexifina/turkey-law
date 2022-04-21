@@ -1,0 +1,3 @@
+İtiraz
+MADDE 19 – (1) İlgililer, kendilerine yazılı olarak bildirilmesinden itibaren en geç beş iş günü içinde sınav kuruluna bu kurulun sekretarya hizmetlerini yürüten birim aracılığıyla itiraz edebilir. Bu itirazlar en geç 10 iş günü içinde incelenerek karara bağlanır. Sonuç, sekretarya hizmetlerini yürüten birimce itiraz sahiplerine bildirilir.
+(2) Yapılan sınavlarda hatalı sorulara tekabül eden puanlar eşit şekilde diğer sorulara dağıtılır. Ancak, soruların yüzde beşinden fazlasının hatalı olduğunun birinci fıkrada belirtilen süre içinde yapılan itirazlar üzerine veya herhangi bir şekilde tespit edilmesi halinde, sınav iptal edilir ve en kısa sürede yeni sınav yapılır.
