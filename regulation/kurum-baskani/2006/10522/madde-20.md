@@ -1,0 +1,2 @@
+Denetim sonuçlarında yeknesaklığın sağlanması
+MADDE 20 – (1) Uygulamada yeknesaklık sağlanması ve oluşabilecek hukuki ihtilaflar karşısında uygulamanın sağlıklı delil ve tespitlere dayandırılması bakımından Kurum denetimleri sonucunda kanuni kovuşturmayı gerektiren fiillerin tespiti durumunda gerek görülmesi halinde Hukuk İşleri Dairesinin de görüşü alınarak ilgili rapor içerisinde bu fiillerden sorumlu olduğu düşünülen şahısların bankanın emin bir şekilde çalışmasını tehlikeye düşürüp düşürmediklerine ilişkin değerlendirmelere yer verilir.

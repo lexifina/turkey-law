@@ -1,0 +1,3 @@
+Denetim ürünlerindeki hata ve noksanlıkların giderilmesi
+MADDE 18 – (1) Daire başkanlığına gönderilen denetim ürünleri daire başkanlığınca incelenir. Bu incelemede; denetim ürünlerinin hatasız olması, rehberlere uygun olması, içerdiği görüşlerin mevzuata uygunluğu, hukuki tutarlılığı gibi hususların varlığı araştırılır. Denetim rehberlerine ve mevzuata uygun tanzim edilmemiş olan veya hata ve noksanlıkları bulunan denetim ürünleri, bunların giderilmesini teminen ilgili meslek personeline iade edilir.
+(2) İlgili meslek personeli, saptanan hata ve noksanlıklar ile denetim ürününün iadesini gerektiren diğer hususları en kısa sürede düzelterek usulüne uygun olarak daire başkanlığına gönderir.

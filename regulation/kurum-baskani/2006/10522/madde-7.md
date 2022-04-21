@@ -1,0 +1,3 @@
+Kalite güvence sistemi
+MADDE 7 – (1) Kalite güvence sistemi, denetimde yer alan tüm süreçleri kapsayan ve Kurumun denetimden beklenen amaçlara ulaşması yönünde, denetimlerde kalitenin sürekli olarak artırılmasını, tutarlılığı, raporların asgari bir standartta düzenlenmesini ve denetim standartlarının sürekli geliştirilmesini sağlayan bir sistemdir.
+(2) Kurum, denetim sistemi ve ürünlerinin uluslar arası kabul gören ilke ve standartlara uyumunu kalite güvence sisteminin ayrılmaz bir parçası olarak değerlendirir ve bunların beşer yıllık dönemler itibariyle bağımsız bir analize tabi tutulmasını sağlar.
