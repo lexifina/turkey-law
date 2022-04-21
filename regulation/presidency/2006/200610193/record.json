@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-200610193",
+  "number": "200610193",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "HİZMET ALIMI SURETİYLE TAŞIT EDİNİLMESİNE İLİŞKİN ESAS VE USULLER",
+  "published": "2006-04-01",
+  "enacted": "2006-03-17",
+  "gazette_number": "26126",
+  "in_force": "2022-04-21",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 21/4/2022; source row: 20/4/2022 | 5474 | 4, 6, 10, 12 | 21/4/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=200610193&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e53eeb067e34b5e4d63862c5f9c6cb21ece623d208554da569facaaa8643c8b8",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

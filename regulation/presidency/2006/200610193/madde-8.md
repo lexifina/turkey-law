@@ -1,0 +1,2 @@
+Mevcut taşıtların tasfiyesi
+Madde 8 - (1) Kurumlar, mevcut tüm taşıtlarını, Kanunun 13 üncü maddesi uyarınca ekonomik ömrünü doldurmuş olup olmadığı veya bakım-onarım ve işletme giderleri ile diğer maliyet unsurları dikkate alınarak hesaplanacak toplam yıllık maliyeti yönünden gözden geçirirler. Ekonomik ömürlerini doldurmuş taşıtlar ile yıllık maliyetleri hizmet alımı yoluyla kullanılacak taşıtların maliyetinden yüksek olan taşıtlar, yetkili tasfiye birimleri aracılığıyla tasfiye edilir.
