@@ -1,0 +1,3 @@
+[1] 21/4/2022 tarihli ve 31816 sayılı Resmî Gazete’de yayımlanan 5475 sayılı Cumhurbaşkanı Kararının 5 inci maddesiyle bu fıkrada yer alan “borçlandırıldığı” ibaresi “hisse miktarı” şeklinde değiştirilmiştir.
+[2] 21/4/2022 tarihli ve 31816 sayılı Resmî Gazete’de yayımlanan 5475 sayılı Cumhurbaşkanı Kararının 6 ncı maddesiyle bu fıkrada yer alan “İmar ve İskan Bakanlığı il imar müdürlükleri ve afet işleri amirlikleri ile il imar şefliklerince” ibaresi “Afet ve Acil Durum Yönetimi Başkanlığı ile İl Afet ve Acil Durum Müdürlükleri tarafından” şeklinde değiştirilmiştir.
+[3] 21/4/2022 tarihli ve 31816 sayılı Resmî Gazete’de yayımlanan 5475 sayılı Cumhurbaşkanı Kararının 7 nci maddesiyle bu fıkrada yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

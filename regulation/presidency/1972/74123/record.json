@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-74123",
+  "number": "74123",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "AFET SEBEBİYLE YAPILAN VE YAPILACAK OLAN BİNALARIN BORÇLANDIRMA BEDELLERİNDEN YAPILACAK İNDİRİMLER HAKKINDA YÖNETMELİK",
+  "published": "1972-04-08",
+  "enacted": "1972-03-25",
+  "gazette_number": "14153",
+  "in_force": "2022-04-21",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 21/4/2022; source row: 20/4/2022 | 5475 | 5, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, | 21/4/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=74123&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "8c712027b80663c3e75cb79ba407566a6eaf8c8ed6c57258bd7394cdc11a2a52",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
