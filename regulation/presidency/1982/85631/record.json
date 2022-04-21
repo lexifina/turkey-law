@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-85631",
+  "number": "85631",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "HUDUT BÖLGELERİ UÇUŞ YÖNETMELİĞİ",
+  "published": "1982-12-16",
+  "enacted": "1982-11-08",
+  "gazette_number": "17900",
+  "in_force": "2022-04-21",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 21/4/2022; source row: 20/4/2022 | 5483 | 2, 3, 4, 5, 6, 7, 8, 11, 12, Ek-A, Ek-2 | 21/4/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=85631&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d77e33cc48fc12ac7138996411b8399f2daf77165914a53a8e6aae498c9a96ef",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
