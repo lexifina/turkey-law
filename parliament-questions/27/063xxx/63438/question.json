@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/63438",
+  "submitted": "2022-04-22",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Dursun Müsavat DERVİŞOĞLU",
+  "province": "İzmir",
+  "summary": "30 Ekim 2020 tarihinde İzmir'de meydana gelen depremden olumsuz etkilenen kişilere yönelik yapılan TOKİ konutlarına dair iddialara ilişkin",
+  "status": "Süresi Geçtikten Sonra Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-1298-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "31e561d53eae1a4e7ce68c317c36b609af5839b01b1822bad1bb6220e85bc77b",
+  "in_force": "2022-04-22",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
