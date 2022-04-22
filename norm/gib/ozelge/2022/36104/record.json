@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-140[63.01-101]-52288",
+  "source_id": 36104,
+  "date": "2022-04-22",
+  "title": "Boşandığı eşten ipotek borcuyla alınan taşınmazın müflis eşin vefatı üzerine terekenin tasfiyesi yoluyla ipotek alacaklısı bankaya satışında tapu harcı istisnası",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36104",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "6ed72a8d5293d91653a3fd9c7eafa44b29e2184499b1a6b4b29730f524f8c3a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
