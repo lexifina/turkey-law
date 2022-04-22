@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-140[63.01-103]-52286",
+  "source_id": 37357,
+  "date": "2022-04-22",
+  "title": "6306 sayılı Kanun Kapsamında riskli taşınmazlar ile diğer taşınmazların tevhid edilmesi sonrasında inşa edilen binalara ilişkin harç istisnası.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37357",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "403479b1b74e1b3e8f1ba32bd219577a09a0dbdfbb1f656ea0dc0df2f54de547",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
