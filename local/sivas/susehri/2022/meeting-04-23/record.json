@@ -1,0 +1,27 @@
+{
+  "number": "meeting-04-23",
+  "number_as_published": "meeting-04-23",
+  "year": 2022,
+  "title": "23.04.2022 tarihli meclis kararları",
+  "decision_date": "2022-04-23",
+  "source": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=213",
+  "official_document": "https://susehri.bel.tr/img/belgeler/meclis-kararlari/2022/2022-04-23.doc",
+  "source_sha256": "01fbb7db81fb5af8f450976649a960ff23116e197ff88ee63a8a8342c4d833bd",
+  "issuer": "Suşehri Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-04-23",
+  "in_force_basis": "Decision date as printed in the official council listing: 23.04.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "23.04.2022 tarihli meclis kararları",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.susehri.bel.tr/?s=meclis_kararlari&k=213",
+  "item_title": "2022 Nisan",
+  "file_label": "2022-04-23",
+  "date_read_from": "official file name (MK-yyyy-mm-dd)"
+}
