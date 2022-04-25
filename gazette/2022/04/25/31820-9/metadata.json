@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-04-25",
+  "issue": "31820",
+  "edition": "regular",
+  "item": 9,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "İlaç Sanayi Teknik Komitesinin Oluşumu ve Görevleri Hakkında Tebliğ (SGM-2022/12)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220425-9.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220425.htm",
+  "index_sha256": "5a60051ed1a074011d0cdf01f40523baf5fdb5b0927013bc4bc9894ad8b0f0f5",
+  "index_header": "25 Nisan 2022 ... 31820 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220425.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
