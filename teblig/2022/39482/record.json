@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31820",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31820",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-04-25",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Sanayi ve Teknoloji Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-628-0.json",
+      "id": "628",
+      "label": "Sanayi ve Teknoloji Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=628&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "sanayi-ve-teknoloji-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-04-25",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39482&MevzuatTertip=5",
+  "source_bytes": 56119,
+  "source_id": "9.5.39482",
+  "source_sha256": "ac4b245e931b71119c9ad7bdc1481d2c8f46abe4a026cbb942eb56c18e9e1707",
+  "title": "ORMAN ÜRÜNLERİ, KÂĞIT VE MOBİLYA SANAYİ TEKNİK\r\nKOMİTESİNİN OLUŞUMU VE GÖREVLERİ HAKKINDA\r\nTEBLİĞ (SGM-2022/16)",
+  "word_count": 1124
+}
