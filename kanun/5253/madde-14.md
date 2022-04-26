@@ -1,3 +1,2 @@
 Gençlik ve spor kulüpleri
-Madde 14- Derneklerden başvurmaları halinde; spor faaliyetine yönelik olanlar spor kulübü, boş zamanları değerlendirme faaliyetine yönelik olanlar gençlik kulübü ve her iki faaliyeti birlikte amaçlayanlar gençlik ve spor kulübü adını alır. Bu kulüpler, Gençlik ve Spor Genel Müdürlüğünce tutulacak kütüğe kayıt ve tescil edilir.
-Kulüplerin organları, bu organların görev ve yetkileri, kulüplerin Gençlik ve Spor Genel Müdürlüğünce de denetlenmesi ve bunlara yapılacak yardımların şekil ve şartları, üst kuruluş oluşturmada uyulacak esas ve usuller, gençlik ve spor faaliyetlerini yürüteceklerin nitelikleri ve bunlara uygulanacak disiplin işlemleri, kulüplerin kayıt ve tesciline ilişkin esaslar İçişleri Bakanlığının uygun görüşü üzerine Gençlik ve Spor Genel Müdürlüğünün bağlı olduğu Bakanlıkça yürürlüğe konulacak yönetmelikte düzenlenir.
+Madde 14- (Mülga:22/4/2022-7405/58 md.)
