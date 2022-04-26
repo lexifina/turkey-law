@@ -1,0 +1,5 @@
+Veri girişi
+MADDE 10 – (1) Bu Yönetmelik çerçevesinde sağlanan sağlık hizmetine yönelik olarak 9 uncu madde kapsamında Merkez nezdinde toplanan bilgiler Merkez tarafından belirlenecek teknik esaslar dahilinde Güvence Hesabının ve ilgili sigorta şirketinin erişimine sunulur.
+(2) Bu Yönetmelik kapsamında sağlanan sağlık hizmet bedellerine ilişkin sorumluluk tespiti (Değişik ibare:RG-25/9/2021-31609)(4) Kurumca belirlenecek usul ve esaslar dahilinde Merkez nezdinde ilgili sigorta şirketlerince ve Güvence Hesabınca gerçekleştirilir.
+(3) Sağlık hizmet bedelleri ve sorumluluğa ilişkin veriler fiyatlamaya ve (Değişik ibare:RG-25/9/2021-31609)(4) Kurumca bu Yönetmelik kapsamında (Değişik ibare:RG-25/9/2021-31609)(4) Sosyal Güvenlik Kurumuna aktarılacak tutarın tespitine esas olmak üzere Merkez tarafından belirlenecek teknik esaslar dahilinde ilgili sigorta poliçeleriyle eşleştirilerek sağlık kurumu temelinde ayrımlı olarak Merkez veri tabanına kaydedilir.
+(4) Bu yönetmelik uyarınca Merkez ve (Değişik ibare:RG-25/9/2021-31609)(4) Sosyal Güvenlik Kurumu arasında karşılıklı veri iletişimine ilişkin esaslar anılan kurumlarca düzenlenecek protokolle belirlenir.

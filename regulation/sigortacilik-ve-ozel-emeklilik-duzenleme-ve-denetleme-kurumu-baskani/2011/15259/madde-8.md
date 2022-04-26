@@ -1,0 +1,3 @@
+Aktarımın sonucu
+MADDE 8 – (1) Bu Yönetmelik hükümleri kapsamında (Değişik ibare:RG-25/9/2021-31609)(4) Sosyal Güvenlik Kurumuna yapılan aktarım ile sigorta şirketlerinin ve Güvence Hesabının Zorunlu Trafik Sigortası, Zorunlu Taşımacılık Sigortası ve Zorunlu Koltuk Ferdi Kaza Sigortası poliçeleri kapsamında sigortalılara ve hak sahiplerine karşı sağlık/tedavi giderleri teminatı bakımından sorumlulukları sona erer.
+(2) Bu Yönetmelik çerçevesindeki sağlık hizmet bedelleri için Zorunlu Trafik Sigortası, Zorunlu Taşımacılık Sigortası ve Zorunlu Koltuk Ferdi Kaza Sigortası çerçevesinde sigortalı olan kişilerden ayrıca talepte bulunulamaz.
