@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "866",
+  "decision_date": "2022-04-26",
+  "source_id": 35611,
+  "chamber": "6",
+  "ilam_number": "69",
+  "item_number": 10,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35611/",
+  "source_sha256": "5e222dc921e0be9c14752e28290b4fe027e07d23c290d34aa6339ce4977e4b91",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
