@@ -1,0 +1,5 @@
+Sınav sonuçları ve duyurulması
+MADDE 18 – (1) Yarışma sınavında başarılı sayılmak için yazılı ve sözlü sınavların her birinden en az yetmiş puan alınması zorunludur. Yarışma sınavında başarılı olanların yazılı ve sözlü sınav puanlarının ortalaması başarı puanını oluşturur.
+(2) Sınav kurulu, adayları en yüksek puandan başlamak üzere başarı sırasına göre sıralayarak, ilan edilen kadro sayısı kadar adayı asıl, bu sayının en fazla yarısı kadar adayı da yedek olarak belirler ve ilan eder. Başarı puanlarının eşit olması halinde sırasıyla yazılı puanı ve yarışma sınavına başvurduğu Kamu Personel Seçme Sınavı puanı yüksek olana öncelik tanınır.
+(3) Sınav Kurulu, yarışma sınavı başarı listesini ve Denetmen Yardımcısı olarak atanabilecek adayların listesini Bakanlığın merkez hizmet binasının ilân panosu ile internet sayfasında duyurur. Yarışma sınavını kazanan adaylara ayrıca yazılı tebligat yapılır.
+(4) Yarışma sınavında yetmiş ve üzerinde puan almış olmak, sıralamaya giremeyen adaylar için müktesep hak teşkil etmez.

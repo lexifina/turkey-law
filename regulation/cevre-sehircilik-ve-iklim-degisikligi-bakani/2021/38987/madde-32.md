@@ -1,0 +1,5 @@
+Yeterlik sınav komisyonu ve görevleri
+MADDE 32 – (1) Yeterlik sınav komisyonu, ilgili Bakan Yardımcısı veya görevlendireceği Genel Müdür veya Genel Müdür Yardımcısının başkanlığında, en az biri Genel Müdürlükten olmak üzere Daire Başkanı ve daha üst kadrolardaki personelden olmak üzere, başkan dâhil beş üyeden oluşur. Belirtilen unvanlara sahip kişiler arasından üç kişi daha yeterlik sınav komisyonu yedek üyesi olarak belirlenir. Gerekmesi halinde birden fazla yeterlik sınav komisyonu kurulabilir.
+(2) Yeterlik sınav komisyonu başkan ve üyeleri, kendilerinin, boşanmış olsalar dahi eşlerinin, üçüncü dereceye kadar (bu derece dâhil) kan ve ikinci dereceye kadar (bu derece dâhil) kayın hısımlarının veya evlatlıklarının katıldıkları yeterlik sınavlarında görev alamazlar. Bunların yerine yedek üyeler katılır.
+(3) Yeterlik sınav komisyonu; yazılı sınav sorularının hazırlanması, cevapların değerlendirilmesi, sözlü sınavın yapılması, sonuçların ilan edilmesi, itirazların sonuçlandırılması ve sınavla ilgili diğer işlemlerin yürütülmesiyle görevlidir.
+(4) Yeterlik sınav komisyonu, kararlarını oyçokluğu ile alır, oylamada çekimser oy kullanılamaz.

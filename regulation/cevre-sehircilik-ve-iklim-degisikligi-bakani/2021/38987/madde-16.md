@@ -1,0 +1,2 @@
+Yazılı sınav sonuçlarının duyurulması ve itiraz
+MADDE 16 – (1) Başarı sıralamasına göre hazırlanan liste, sınav değerlendirmesinin neticelendiği günü takip eden beş iş günü içerisinde Bakanlığın merkez hizmet binasındaki ilân panosunda asılmak ve Bakanlığın internet sayfasında yayımlanmak suretiyle duyurulur. İlgililer, duyuru tarihinden itibaren beş iş günü içerisinde sınav sonuçlarına yazılı olarak itiraz edebilir. Yapılan itirazlar sınav kurulunca on beş gün içerisinde sonuçlandırılarak sonucu ilgiliye bildirilir.

@@ -1,0 +1,2 @@
+Bildirimde bulunma
+MADDE 43 – (1) Denetmenler ve Denetmen Yardımcıları; memurlar hakkında, işledikleri suçların nev'i ve mahiyetlerine göre 3628 sayılı Kanun hükümleri çerçevesinde doğrudan, 4483 sayılı Kanun ile 29/4/2021 tarihli ve 3935 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Devlet Memurları Disiplin Yönetmeliği hükümleri çerçevesinde ise Grup Başkanlıkları aracılığıyla ilgili mercilere bir raporla, inceleme veya soruşturma yapılmak üzere gerekli bildirimde bulunur.

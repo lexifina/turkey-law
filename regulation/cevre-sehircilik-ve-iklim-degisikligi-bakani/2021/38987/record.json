@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.38987",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ EMLAK DENETMENLİĞİ YÖNETMELİĞİ",
+  "number": "38987",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2021/38987",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38987&MevzuatTertip=5",
+  "source_sha256": "925b44ab417acd76dd99e4e52f03beb012e004608362a44ae6c64260e393fabd",
+  "source_bytes": 237150,
+  "published": "2021-10-07",
+  "gazette": "31621",
+  "in_force": "2022-04-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-26",
+      "RG-26/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-26",
+      "26/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5810,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
