@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "285",
+  "decision_date": "2022-04-26",
+  "source_id": 35525,
+  "chamber": "4",
+  "ilam_number": "68",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35525/",
+  "source_sha256": "5f5beadd3956d28ddfda2ecb9195e8cc6789acc124e90719a60b0ac81e9d84bd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
