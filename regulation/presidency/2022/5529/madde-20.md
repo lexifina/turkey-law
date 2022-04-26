@@ -1,0 +1,5 @@
+Çok gizli belgenin imhası
+MADDE 20- (1) Çok Gizli belgenin imhasına 7 nci maddede belirtilen komisyon tarafından karar verildikten sonra büro, belgenin gönderildiği bürolardan Çok Gizli belgenin imhasını ve imha işlemine ilişkin tutanağın düzenlenmesini talep eder (Örnek 19). Çok Gizli belge ve varsa dağıtım nüshalarının imha edildiğine ilişkin tutanakları alan büro, elinde bulunan paraf nüshasını da imha eder ve imha işlemini tutanak altına alır.
+(2) İmha işlemi; kâğıt ile basılı ve elektronik materyali tekrar birleştirilemeyecek ve okunamayacak hâle getiren cihaz ile gerçekleştirilir.
+(3) Görev sebebiyle büro dışına çıkarılan Çok Gizli belgeyi koruma işleminin görevli personel tarafından sağlanması esastır. Ancak Çok Gizli belgenin korunamayacağı ve ele geçirileceği anlaşıldığında belge imha edilir.
+(4) İmha edilen Çok Gizli belgeye ilişkin imha bilgisi Giden/Gelen Çok Gizli Belge Kayıt Defterlerinden uygun olanına kaydedilir (Örnek 9, Örnek 14). İmha edilen Çok Gizli belgeye ait Çok Gizli Belge Senedi, Çok Gizli Belge Takip Kontrol Formu ve İmha Tutanakları süresiz olarak büroda saklanır.

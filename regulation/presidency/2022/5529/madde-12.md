@@ -1,0 +1,4 @@
+Büro ve işlem personeli
+MADDE 12- (1) Çok Gizli belge, idarece özel işleme tabi tutulur ve bu işlemler yetkilendirilmiş personel tarafından gerçekleştirilir. Büro yetkilisi ve büroda görevlendirilecek yeteri kadar personel üst yöneticinin oluru ile belirlenir.
+(2) Büronun talebi ve birim yöneticisinin oluruyla Çok Gizli belge hazırlama, taşıma (kurye), teslim alma, tercüme etme ve erişim yetkisi verilen işlem personeli belirlenir. İşlem personelinin yetkilerini belirten olur, büroya iletilir.
+(3) Büro ve işlem personeli, Çok Gizli belgelere ilişkin işlemlerin ivedilikle gerçekleştirilmesini sağlayacak ve ihtiyaç olduğunda, günün her saatinde göreve çağrılabilecek personel arasından tercih edilir. Büro ve işlem personeli, iletişim araçları üzerinden kendisine günün her saati ulaşılabilmesini ve gerektiğinde ivedilikle idareye ulaşımını mümkün kılar.

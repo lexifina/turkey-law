@@ -1,0 +1,44 @@
+{
+  "id": "presidency-regulation-5529",
+  "number": "5529",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "GİZLİLİK DERECELİ BELGELERDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "published": "2022-04-26",
+  "enacted": "2022-04-25",
+  "gazette_number": "31821",
+  "in_force": "2022-04-26",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-04-26, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5529&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "7f4957cd4efae50c104c2bf616eacda9dace762a68e9e724ce75abfd77330968",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.5529-EK.docx",
+      "source_caption": "Ekleri için tıklayınız.",
+      "source_href": "21.5.5529-EK.docx",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "text_layout": "article-files",
+  "source_links": [
+    {
+      "type": "annex",
+      "status": "pending",
+      "source_url": "https://www.mevzuat.gov.tr/anasayfa/21.5.5529-EK.docx",
+      "source_caption": "Ekleri için tıklayınız.",
+      "source_href": "21.5.5529-EK.docx",
+      "reason": "Separately linked component is not included in this HTML-only version."
+    }
+  ],
+  "completeness": "pending-annexes"
+}

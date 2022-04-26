@@ -1,0 +1,3 @@
+Gizlilik derecesi bulunmayan belge
+MADDE 31- (1) Gizlilik derecesi bulunmayan belge, bilmesi gereken prensibine uygun olarak işlem görür. Gizlilik derecesi bulunmayan belgenin bilmesi gereken dışındakilerle paylaşımı 9/10/2003 tarihli ve 4982 sayılı Bilgi Edinme Hakkı Kanunu kapsamında gerçek veya tüzel kişilerce ilgili idareye yapılacak başvuruların değerlendirilmesi neticesinde gerçekleşir.
+(2) İdarelerin birbirleriyle gerçekleştirdikleri resmî yazışmalar, belgenin sahibi idarece yayımlanmadığı veya paylaşılmadığı sürece izinsiz olarak üçüncü şahıslarla paylaşılamaz ve kamuoyuna açıklanamaz.

@@ -1,0 +1,6 @@
+Gizli ve hizmete özel belgelerin teslim alınması ve havale edilmesi
+MADDE 25- (1) Gizli belge, iç zarf açılmadan zarf üzerinde yer alan bilgiler ile EBYS’ye veya kurumsal belge kayıt sistemine kaydedilir ve ilgili yöneticiye teslim edilir. Belgenin havale işlemi hem EBYS’de hem de fiziksel olarak ilgili yönetici tarafından gerçekleştirilir. Gizli belgenin zarfı açıldıktan sonra havale sürecinde bulunmayan kişi veya kişilerce görülmesi engellenir.
+(2) Gizli belgenin idare içindeki havale işlemlerinde zimmet formu hazırlanır ve teslim işlemleri Gizli belge zimmet formuyla gerçekleştirilir (Örnek 22).
+(3) Elektronik ortamda gelen Hizmete Özel belge, kurumsal şifreleme sertifikası kullanılarak açılır. Ancak elektronik ortamda iletimin mümkün olmadığı durumlarda fiziksel olarak idareye gelen Hizmete Özel belgenin güvenli elektronik imzalı aslına Dijital Türkiye (e-Devlet) üzerinden erişilerek EBYS’ye dâhil edilir ve kurumsal şifreleme sertifikası kullanılarak açılır. Şifresi açılan Hizmete Özel belge EBYS’ye kaydedilir ve havale işlemleri gerçekleştirilir.
+(4) Olağanüstü durumda hazırlanarak idareye fiziksel ortamda gönderilen Hizmete Özel belge EBYS’ye kaydedilir ve havale işlemleri gerçekleştirilir.
+(5) İdareye muhatabı olmadığı hâlde Gizli veya Hizmete Özel bir belge geldiğinde belge, üst yazıyla iade edilir.

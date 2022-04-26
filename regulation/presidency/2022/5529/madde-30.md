@@ -1,0 +1,3 @@
+Gerçek ve tüzel kişilerin sorumluluğu
+MADDE 30- (1) Görev veya sorumluluğu sebebiyle gizlilik dereceli belgelere erişmesi muhtemel gerçek ve tüzel kişiler, bu Yönetmelikte belirtilen tedbirlere uygun hareket eder. Gizlilik dereceli belgenin güvenliğini ihlal eden veya belgeyi ifşa eden gerçek ya da tüzel kişiler hakkında adli veya idari soruşturma başlatılmak üzere gerekli işlemler yapılır.
+(2) Savunma sanayii alanında, gizlilik içinde gerçekleştirilen çalışmalara ait gizlilik dereceli belgelerin ve projelerin güvenliğinin sağlanması 4/6/2010 tarihli ve 27601 sayılı Resmî Gazete’de yayımlanan Savunma Sanayii Güvenliği Yönetmeliği hükümlerine göre gerçekleştirilir.
