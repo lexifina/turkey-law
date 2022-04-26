@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "868",
+  "decision_date": "2022-04-26",
+  "source_id": 35928,
+  "chamber": "6",
+  "ilam_number": "103",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35928/",
+  "source_sha256": "e5042eeb5540c71595075d42b7718840c4b46fdd953ccb96d2564cd4c6fea9ba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
