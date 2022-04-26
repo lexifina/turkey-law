@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-04-26",
+  "issue": "31821",
+  "edition": "regular",
+  "item": 13,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Radyoloji Hizmetleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220426-13.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220426.htm",
+  "index_sha256": "0293ba8135d8e0bb10c268a80dae969ac479b990a549eab04ca9cbd6770e8d56",
+  "index_header": "26 Nisan 2022 ... 31821 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/04/20220426.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
