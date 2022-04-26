@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 4. Dairesi",
+  "number": "285",
+  "decision_date": "2022-04-26",
+  "source_id": 35521,
+  "chamber": "4",
+  "ilam_number": "68",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35521/",
+  "source_sha256": "9192ddae67afb0fdcfe128f9c80ed36a863c118f016a8dba88dd0e52db321a3a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
