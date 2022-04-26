@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39498",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "VAKIFLAR GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39498",
+  "issuer": "Vakıflar Genel Müdürü",
+  "issuer_slug": "vakiflar-genel-muduru",
+  "path": "regulation/vakiflar-genel-muduru/2022/39498",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39498&MevzuatTertip=5",
+  "source_sha256": "7581089227632f1cd77d61a3dc1b7447218a1a498de9950770506835a367f164",
+  "source_bytes": 16551,
+  "published": "2022-04-26",
+  "gazette": "31821",
+  "in_force": "2022-04-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.04.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 179,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39498-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
