@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51632",
+  "decision_date": "2022-04-27",
+  "source_id": 25005,
+  "chamber": "8",
+  "file_number": "46267",
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": "2017",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25005/",
+  "source_sha256": "f380ef13d3689b9c4d04eb128b092599653d3c5943068ca8ceeedb02e24948f7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
