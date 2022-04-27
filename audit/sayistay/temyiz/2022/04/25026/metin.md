@@ -1,0 +1,175 @@
+Konu: Gezi bedeli ödenmesi.
+
+Dilekçilerden ... 08.07.2020 tarih ve 48162 tutanak numaralı Temyiz Kurulu Kararıyla verilen tasdik hükmüne itiraz etmekte ise de;
+
+6085 sayılı Sayıştay Kanunu’nun “Kanun yollarına başvurma” başlıklı 54. maddesinde;
+
+	“Temyiz, yargılamanın iadesi ve karar düzeltilmesi talepleri, Sayıştay Başkanlığına hitaben yazılmış imzalı dilekçe ile yapılır. Dilekçeler Sayıştay Başkanlığına verilir veya gönderilir. İlgililer isterlerse evrakın alındığına dair kendilerine bir alındı verilir.
+
+(2) Dilekçelerde aşağıdaki hususlar bulunur:
+
+a) Başvuruda bulunan kişinin ve varsa kanuni temsilcisinin veya vekilinin adı, soyadı, unvanı ve adresi.
+
+b) İlamın tarihi, numarası.
+
+c) İlgili hesabın adı ve yılı.
+
+ç) Başvurunun konusu.
+
+d) Hangi kanun yoluna başvurulduğu ve başvurunun hukuki sebepleri.
+
+e) Varsa duruşma talebi.
+
+(3) Dilekçelere ilgililer tarafından itirazlarını ispat edecek belgeler eklenir. Dilekçeler ve bunlara ekli belgelerin örnekleri karşı taraf sayısından bir fazla olur.
+
+(4) Dilekçelerin yukarıda belirtilen hususları ihtiva etmediğine, ilgisine göre Temyiz Kurulu veya dairece karar verilirse, eksikliklerin on beş gün içinde tamamlatılması dilekçe sahibine tebliğ olunur. Bu süre içinde eksiklikler tamamlanmazsa, ilgisine göre Temyiz Kurulunca veya dairece başvurunun reddine karar verilir. Şu kadar ki, başvuru sahibinin kimliğini, imzasını, başvuru konusu ilam hükmünü ve hangi kanun yoluna hangi sebeple başvurulduğunu yeteri kadar belli edecek kayıtları ihtiva eden dilekçeler, diğer hususlar gösterilmemiş olsa bile kabul edilir.” Hükmü bulunmaktadır.
+
+Yapılan incelemede, söz konusu sorumlunun karar düzeltme dilekçesini imzasız olarak gönderdiği anlaşılmıştır. Yukarıda yer verilen mevzuat hükümlerine göre karar düzeltme talebinin imzalı dilekçe ile yapılması gerekmekte; aksi takdirde talebin reddedileceği belirtilmektedir.
+
+Bu itibarla, karar düzeltme talebinin REDDİNE oybirliği ile karar verilmesi üzerine konunun esas yönünden incelemesine geçildi.
+
+26 sayılı İlamın 2’inci maddesiyle; ... Belediyesinde çalışan bazı birim müdürleri, işçiler ve sivil toplum kuruluşu üyelerine, ... ve ...’ya düzenlenen gezilere ilişkin yemek giderleri ile ...’a düzenlenen geziye ilişkin konaklama ve yemek giderlerinin belediye bütçesinin “Temsil, Ağırlama ve Tören Giderleri” tertibinden ödenmesi neticesinde kamu zararına sebep olunduğu gerekçesiyle ... TL için verilen tazmin hükmünün 08.07.2020 tarih ve 48162 tutanak numaralı Temyiz Kurulu Kararı ile tasdikine karar verilmiştir.
+
+İlamda Harcama Yetkilisi sıfatıyla sorumlu tutulan ..., Gerçekleştirme Görevlisi sıfatıyla sorumlu tutulan ...’ ın vermiş olduğu ortak karar düzeltme dilekçesinde özetle;
+
+“ Sayıştay 6. Dairesinin Kararının 2. Maddesinin usul ve yasaya aykırı olduğu,
+
+ Şöyle ki; 5393 sayılı Belediye Kanunu’nun "Hemşeri hukuku" başlıklı 13’üncü maddesinde:
+
+"Herkes ikamet ettiği beldenin hemşerisidir. Hemşerilerin belediye karar ve hizmetlerine katılma, belediye faaliyetleri hakkında bilgilenme ve belediye idaresinin yardımlarından yararlanma hakları vardır. Yardımların insan onurunu zedelemeyecek koşullarda sunulması zorunludur. Belediye, hemşeriler arasında sosyal ve kültürel ilişkilerin geliştirilmesi ve kültürel değerlerin korunması konusunda gerekli çalışmaları yapar. Bu çalışmalarda üniversitelerin, kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, sivil toplum kuruluşları ve uzman kişilerin katılımını sağlayacak önlemler alınır. Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, belediyenin kanunlara dayanan kararlarına, emirlerine ve duyurularına uymakla ve belediye vergi, resim, harç, katkı ve katılma paylarını ödemekle yükümlüdür" denildiği,
+
+5393 sayılı Kanun’un "Belediyenin görev ve sorumlulukları” başlıklı 14’ üncü maddesinde;
+
+"Belediye, mahalli müşterek nitelikte olmak şartıyla:
+
+a)... kültür ve sanat, turizm ve tanıtım. ... sosyal hizmet ve yardım,. . "denildiği,
+
+Aynı Kanunun '‘Belediyenin giderleri" başlıklı 60'ıncı maddesinde ise;
+
+"Belediyenin giderleri şunlardır: ... n) Sosyal-kültürel, sanatsal ve bilimsel etkinlikler için yapılan giderler..." hükümlerinin yer aldığı,
+
+Bu hükümlere göre, Belediye tarafından, tarihî turistik özelliğe sahip illere kültür gezisi adı altında gezi yapılması ve buna ilişkin belediye bütçesinden konaklama ve yemek giderlerinin ödenmesi suretiyle kamu zararına sebebiyet verilmesinin mümkün olmadığı, yukarıda yer alan mevzuat hükümlerine göre, belediyelerin hemşerilerinin sosyo-kültürel ihtiyaçlarının karşılanması amacıyla faaliyette bulunmasının mümkün olduğu,
+
+ Bu itibarla, sosyal statüsü ne ulursa olsun ... Belediyesi sınırları içinde yaşayan hemşerilerinin sosyal ve kültürel ihtiyaçlarının karşılanması maksadıyla tarihi değeri olan ... ve ... illerine ve ...'ya gezi düzenlenmesi ile ilgili giderlerin 5393 sayılı Belediye Kanunu'nun 38/0 ve 60/k-n maddeleri doğrultusunda, belediye bütçesinden ödenmesinin mümkün olduğu,
+
+Memurlara ve birim müdürlerine herhangi bir ücret verilmediği, gezilerde tamamen konaklama ve yemek yeme ihtiyacının karşılandığı bunun da hayatın doğal akışına uygun bir durum olduğu, bunun aksinin kabul edilmesi halinde kamu zararı olarak gösterilme gerekçesinin geziye katılan diğer kişilerde de sebepsiz zenginleşme veya haksız kazanç olarak değerlendirilmesi gerektiğinin sorgulanması gerektiği,
+
+Gezilere katılan işçiler için de 5393 sayılı Yasanın yukarıda belirttikleri hükümlerinin uygulanacak olduğu, Yasanın uygulama kapsamının memur ve işçileri kapsamayacağı sonucunu çıkarmanın kanun önünde eşitlik ilkesine de aykırı olduğu, eğer bu geziler mevzuata aykırı ise katılanın memur, işçi veya herhangi biri olmasının ve her biri için ayrı bir gerekçenin bulunmasının gerekmediği,
+
+Yapılan bu giderlerin kanuni dayanaklarının olduğu, 5393 sayılı Belediye Kanunu'nun “Tanımlar” başlıklı 3’ üncü maddesinde, Belediyenin tanımı olarak; bu Kanunun uygulanmasında Belediye'nin, Belde sakinlerinin mahalli müşterek nitelikteki ihtiyaçlarını karşılamak üzere kurulan ve karar organı seçmenler tarafından seçilerek oluşturulan, idari ve mali özerkliğe sahip kamu tüzel kişisini tarif edildiği, bu tanımında yapılan harcamaya karşılık oluşturduğu,
+
+Yukarıda belirtilen tüm nedenler ve ilamda karşı görüşte görüş beyan eden Sayın üyelerin gerekçelerinden de açıkça anlaşılacağı üzere Temyize konu edilen Sayıştay 6. Dairesinin 13.12.2018 tarih ve 26 sayılı İlamının hukuka, yasaya ve gerçeklere ve dahi hakkaniyete aykırı olduğu ve kararının kaldırılması gerektiği,
+
+Netice ve Talep olarak; Gerek yukarıda açıklanan gerekçe ve nedenlerle ve gerekse Yüce Temyiz Kurulunun tespit edeceği sair nedenlerle; Sayıştay 6. Dairesinin 13.12.2018 tarih ve 26 sayılı İlamının 2.maddesinde belirtilen müteselsilen ve müştereken faizleri ile birlikte ödettirilmesine dair tazmin Kararının Tasdik edilmesine ilişkin Sayıştay Temyiz Kurulu Kararının düzeltilerek yapılan işlemlerin kamu zararına sebep olmadığı, tahsil edilmesine gerek bulunmadığı yönünde Karar verilmesini arz ve talep ettiklerini,
+
+İfade etmişlerdir.
+
+Başsavcılık Mütalaasında;
+
+“8.9.2018 tarihli karar ve 26 sayılı İlamın 2. maddesindeki yer alan tazmin hükmüne karşı sorumlu sıfatıyla ... ve ...'ın Temyiz Kurulu nezdinde yapılan temyiz başvurusu Kurulun 8.7.2020 tarihli ve 48162 sayılı tutanak ile Daire kararınca verilen tazmin hükmünün tasdiki yönünde kararlaştırılmış bu kez adı geçenin ilgi yazılarıyla gönderilen 17.12.2020 tarihli dilekçe ile karar düzetilmesi talebinde bulunulmaktadır.
+
+Dairesince, ..., ... ve ...'ya yapılan gezilere birim müdürleri, işçiler ve sivil toplum kuruluşu üyelerinin götürülerek gezi masraflarının karşılanması mahalli müşterek nitelikte bir ihtiyaç olmadığı gibi bu durum Belediye tarafından yapılan herhangi bir sosyal yardım kapsamına da girmediğinden belediye bütçesinden yapılması mevzuata aykırılık teşkil etmesi sonucu oluşan kamu zararının sorumlularına ödettirilmesine hükmolunmuştur.
+
+Sorumlular savunmasında, 5393 sayılı Belediye Kanunu'nun, Hemşeri hukuku başlıklı 13. maddesi Belediyenin görev ve sorumlulukları başlıklı 14 maddesin, Belediye başkanının görev ve yetkileri başlıklı 38.maddesi, Belediyenin giderleri başlıklı 60. maddesi hükümlerinde belirtildiği üzere, yapılan harcamaların hemşerilik hukuku kapsamında; sosyal, kültürel ve tanıtım maksatlı yapıldığı belirterek tazmin hükmünün kaldırılmasını talep etmektedir.
+
+5393 sayılı Belediye Kanunu'nun,
+
+Hemşehri hukuku başlıklı 13. maddesinde,
+
+……… "Belediye, hemşehriler arasında sosyal ve kültürel ilişkilerin geliştirilmesi ve kültürel değerlerin korunması konusunda gerekli çalışmaları yapar. Bu çalışmalarda üniversitelerin, kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, sivil toplum kuruluşları ve uzman kişilerin katılımını sağlayacak önlemler alınır." Hükmü,
+
+Belediyenin görev ve sorumlulukları başlıklı 14 maddesinde, "Belediye, mahallî müşterek nitelikte olmak şartıyla;
+
+a) ...; Kültür ve sanat, turizm ve tanıtım,... hizmetlerini yapar veya yaptırır Hükmü,
+
+Belediyenin yetkileri ve imtiyazları başlıklı 15 maddesinde, "Belediyenin yetkileri ve imtiyazları şunlardır:
+
+a) Belde sakinlerinin mahallî müşterek nitelikteki ihtiyaçlarını karşılamak amacıyla her türlü faaliyet ve girişimde bulunmak." Hükmü,
+
+Belediye başkanının görev ve yetkileri başlıklı 38.maddesinde,
+
+o) Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak, Hükmü, Belediyenin giderleri başlıklı 60. maddesinde," Belediyenin giderleri şunlardır:
+
+k) Temsil, tören, ağırlama ve tanıtım giderleri,
+
+n) Sosyo-kültürel, sanatsal ve bilimsel etkinlikler için yapılan giderle,
+
+p) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler. Hükmü,
+
+Belediye hizmetlerine gönüllü katılım başlıklı 77. Maddesinde,
+
+Belediye; sağlık, eğitim, spor, çevre, sosyal hizmet ve yardım, kütüphane, park, trafik ve kültür hizmetleriyle yaşlılara, kadın ve çocuklara, engellilere, yoksul ve düşkünlere yönelik hizmetlerin yapılmasında beldede dayanışma ve katılımı sağlamak, hizmetlerde etkinlik, tasarruf ve verimliliği artırmak amacıyla gönüllü kişilerin katılımına yönelik programlar uygular. Hükmü,
+
+5216 sayılı Büyükşehir Belediyesi Kanunu'nun,
+
+Büyükşehir belediyesinin giderleri başlıklı 24. Maddesinde,
+
+l) Temsil, tören, ağırlama ve tanıtım giderleri.
+
+o) Spor, sosyal, kültürel ve bilimsel etkinlikler için yapılan giderler,
+
+r) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler. Hükmü,
+
+Bulunmaktadır.
+
+Söz konusu madde hükümlerinde belirtildiği üzere, yapılan harcamaların hemşerilik hukuku kapsamında; sosyal, kültürel ve tanıtım maksatlı yapıldığı değerlendirilmektedir.
+
+Buna göre, Karar Düzeltme talebinin kabul edilerek kurul kararının kaldırılmasına ve dosyanın Dairesine tevdiine karar verilmesinin uygun olacağı düşünülmektedir.
+
+Arz olunur.” Denilmektedir.
+
+Dosyada mevcut belgelerin okunup incelenmesinden sonra,
+
+GEREĞİ GÖRÜŞÜLDÜ
+
+26 sayılı İlamın 2’inci maddesiyle; ... Belediyesinde çalışan bazı birim müdürleri, işçiler ve sivil toplum kuruluşu üyelerine, ... ve ...’ya düzenlenen gezilere ilişkin yemek giderleri ile ...’a düzenlenen geziye ilişkin konaklama ve yemek giderlerinin belediye bütçesinin “Temsil, Ağırlama ve Tören Giderleri” tertibinden ödenmesi neticesinde kamu zararına sebep olunduğu gerekçesiyle ... TL için verilen tazmin hükmünün 08.07.2020 tarih ve 48162 tutanak numaralı Temyiz Kurulu Kararı ile tasdikine  karar verilmiştir.
+
+Dilekçiler savunmalarında, önceki savunmalarını tekrarlayarak; 5393 sayılı Belediye Kanunu’nun, “Hemşeri hukuku” başlıklı 13. Maddesi, “Belediyenin görev ve sorumlulukları” başlıklı 14 maddesi, “Belediye başkanının görev ve yetkileri” başlıklı 38.maddesi ve “Belediyenin giderleri” başlıklı 60. maddesi hükümlerini dayanak göstererek, yapılan harcamaların hemşerilik hukuku kapsamında; sosyal, kültürel ve tanıtım maksatlı yapıldığını belirterek tazmin hükmünün kaldırılmasını talep etmiştir.
+
+5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu’nun 3’üncü maddesinde;
+
+“…h) Kamu gideri: Kanunlarına veya Cumhurbaşkanlığı kararnamelerine dayanılarak yaptırılan iş, alınan mal ve hizmet bedelleri, sosyal güvenlik katkı payları, iç ve dış borç faizleri, borçlanma genel giderleri, borçlanma araçlarının iskontolu satışından doğan farklar, ekonomik, malî ve sosyal transferler, verilen bağış ve yardımlar ile diğer giderleri,…” denilmekte,
+
+Aynı Kanun’un 8’ inci maddesinde ise; her türlü kamu kaynağının elde edilmesi ve kullanılmasında görevli ve yetkili olanların, kaynakların etkili, ekonomik, verimli ve hukuka uygun olarak elde edilmesinden, kullanılmasından, muhasebeleştirilmesinden, raporlanmasından ve kötüye kullanılmaması için gerekli önlemlerin alınmasından sorumlu ve yetkili kılınmış mercilere hesap vermek zorunda olduğu belirtilmiştir. Buna göre bir giderin yapılması için kanuni dayanağının olması gerekmektedir.
+
+657 saylı Devlet Memurları Kanunu’nun 146’nci maddesinin ikinci fıkrasında memurlara kanun, tüzük ve yönetmeliklerin ve amirlerin tayin ettigi görevlerin karşılığında bu Kanunla sağlanan haklar dışında ücret ödenemeyeceği, hiçbir yarar sağlanamayacağı belirtilmiştir.
+
+5393 sayılı Belediye Kanunu’nun “Belediye’nin Giderleri” başlıklı 60’ ınci maddesinde; “Yurt içi ve yurt dışı kamu ve özel kesim ile sivil toplum örgütleriyle birlikte yapilan ortak hizmetler ve proje giderleri” ibaresine yer verilerek sivil toplum örgütleriyle birlikte yapilan ortak hizmetler ve proje giderlerine ilişkin giderlerin Belediye bütçesinden karşılanmasına olanak tanınmıştır.
+
+Yapılan incelemede; Belediyede görev yapan bazı birim müdürleri, işçiler ve sivil toplum örgütü üyeleri için 13.01.2017-15.01.2017 tarihleri arasında ...’ya, 28.01 29.01.2017 tarihleri arasında ...’a ve 25.03.2017-26.03.2017 tarihleri arasında ...ya tarih ve kültür gezisi düzenlendiği, ... ve ... gezilerine ilişkin yemek giderlerinin,... gezisine ilişkin de konaklama ve yemek giderlerinin belediye bütçesinden karşılandığı görülmüştür.
+
+Memur olan birim müdürlerine yönelik yapılan gezi masraflarının karşılanması 657 sayılı Devlet Memurları Kanunu’nun 146’ncı maddesine aykırılık teşkil etmektedir. Sivil toplum örgütü üyeleri için yapılan gezi harcamaları ise 5393 sayılı Kanun’nda sivil toplum örgütleriyle ilgili yapilan harcamaların sadece ortak hizmet projeleriyle sınırlı tutulduğundan mevzuata aykırıdır. İşçilerin geziye götürülerek masraflarının karşılanmasına cevaz veren bir hüküm ise ne iş mevzuatında ne de Belediye’nin yaptığı toplu iş sözleşmesinde yer bulmamaktadir. Dolayısıyla yukarıda bahsedilen kişilere yönelik olarak yapılan gezi giderlerinin kanuni dayanağı bulunmadığından bu giderlerin Belediye bütçesinden karşılanması mümkün değildir.
+
+Bunun yanında, 5393 sayılı Kanun’un “Belediye Başkanın Görev ve Yetkileri” başlıklı 38’inci maddesinin birinci fıkrasının (0) bendinde temsil ve ağırlama giderleri için ayrılan ödeneği kullanmanın belediye başkanının yetkisinde olduğu ifade edilmesine rağmen ödeme emri eki belgelerinde gezi için harcama onayı Kültür ve Sosyal İşleri Müdürü tarafından verilmiştir.
+
+Ayrıca İçişleri Bakanlığı’nın 25.4.1984 gün ve 27302 sayılı onayı ile yürürlüğe konulan Belediye Bütçesinden Yapılacak Temsil, Ağırlama ve Tören Giderleri Yönergesinde temsil, ağırlama ve tören giderleri sayılmış olup bu yönergede birim müdürlerinin, işçilerin ve sivil toplum kuruluşu üyelerinin geziye götürülmesine izin veren bir hüküm bulunmamaktadır.
+
+Sonuç itibariyle; ..., ... ve ...’ya yapılan gezilere birim müdürleri, işçiler ve sivil toplum kuruluşu üyelerinin götürülerek gezi masraflarının karşılanması mahalli müşterek nitelikte bir ihtiyaç olmadığı gibi bu durum Belediye tarafından yapılan herhangi bir sosyal yardım kapsamına da girmemektedir. Kültür, sanat ve turizmi geliştirecek faaliyetler düzenlemek belediyelerin görevidir ancak Belediye içinden ve dışından belirli kişilerin seçilerek masrafları Belediye tarafından karşılanmak üzere başka şehirlere geziler düzenlenmesinin ne hemşehriler arasında sosyal ve kültürel bağların güçlendirilmesiyle ne de kültür, sanat ve turizme katkıda bulunmakla ilgisi bulunmadığından iddialarının kabulü mümkün değildir.
+
+Bu itibarla, sorumlu iddialarının reddedilerek yukarıda yer alan gerekçelerle, 08.07.2020 tarih ve 48162 tutanak numaralı Temyiz Kurulu Kararı ile verilen tasdik hükmünde KARAR DÜZELTMESİNE MAHAL OLMADIĞINA (Temyiz Kurulu Başkanı ve ….Daire Başkanı ..., Üye ..., Üye ...’ın aşağıda yazılı karşı oy gerekçelerine karşı) oy çokluğu ile,
+
+Karar verildiği 27.04.2022 tarih ve 51653 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+Karşı oy gerekçesi
+
+Temyiz Kurulu Başkanı ve ….Daire Başkanı ..., Üye ..., Üye ...’ın karşı oy gerekçesi:
+
+5393 sayılı Belediye Kanunu’nun;
+
+“Hemşehri hukuku” başlıklı 13’üncü maddesinde; “Herkes ikamet ettiği beldenin hemşehrisidir. Hemşehrilerin, belediye karar ve hizmetlerine katılma, belediye faaliyetleri hakkında bilgilenme ve belediye idaresinin yardımlarından yararlanma hakları vardır. Yardımların insan onurunu zedelemeyecek koşullarda sunulması zorunludur.
+
+Belediye, hemşehriler arasında sosyal ve kültürel ilişkilerin geliştirilmesi ve kültürel değerlerin korunması konusunda gerekli çalışmaları yapar. Bu çalışmalarda üniversitelerin, kamu kurumu niteliğindeki meslek kuruluşlarının, sendikaların, sivil toplum kuruluşları ve uzman kişilerin katılımını sağlayacak önlemler alınır.
+
+Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, belediyenin kanunlara dayanan kararlarına, emirlerine ve duyurularına uymakla ve belediye vergi, resim, harç, katkı ve katılma paylarını ödemekle yükümlüdür.”,
+
+“Belediyenin görev ve sorumlulukları” başlıklı 14. Maddesinde;
+
+“Belediye, mahallî müşterek nitelikte olmak şartıyla;
+
+a) ... kültür ve sanat, turizm ve tanıtım, ... sosyal hizmet ve yardım, ...” ,
+
+“Belediyenin giderleri” başlıklı 60’ ıncı maddesinde ise; “Belediyenin giderleri şunlardir; ... n) Sosyal-kültürel, sanatsal ve bilimsel etkinlikler için yapılan giderler...”,
+
+denilmektedir.
+
+... Belediyesi sınırları içinde yaşayan hemşehrilerinin sosyal ve kültürel ihtiyaçlarının karşılanması maksadıyla tarihi değeri olan ... ve ... illerine ve ...’ya gezi düzenlenmesi, 5393 sayılı Kanunun yukarıda belirtilen maddelerde yeralan hemşehrilik hukuku, sosyal, kültürel ve tanıtım kapsamında yapıldığından söz konusun ilamın kaldırılması uygun olur.
