@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51638",
+  "decision_date": "2022-04-27",
+  "source_id": 25011,
+  "chamber": "6",
+  "file_number": "48435",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2013",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25011/",
+  "source_sha256": "00fe090795bf195536b249f519e14632c839df93032a41ab8dd8b4fb5d1740ff",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
