@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-120-56003",
+  "source_id": 20852,
+  "date": "2022-04-27",
+  "title": "Vergiden muaf esnafın evlerinde ürettikleri ürünleri ticari amaçla alanların yapacağı ödemelerdeki gelir vergisi tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20852",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1bd1f77978d16091a9889923c83f88149d09f5f2e7f42b4bf3c6e22a3c6e54c9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
