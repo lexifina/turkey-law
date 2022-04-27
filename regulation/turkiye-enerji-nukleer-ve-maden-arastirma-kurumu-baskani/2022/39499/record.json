@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39499",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU PROJE DESTEK PROGRAMLARINA İLİŞKİN YÖNETMELİK",
+  "number": "39499",
+  "issuer": "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani/2022/39499",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39499&MevzuatTertip=5",
+  "source_sha256": "48c3d535b6ab12eb4aae47173f2f1931128f65f582681c2b2e29ad222415c48e",
+  "source_bytes": 64959,
+  "published": "2022-04-27",
+  "gazette": "31822",
+  "in_force": "2022-04-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.04.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3759,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
