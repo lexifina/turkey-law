@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51656",
+  "decision_date": "2022-04-27",
+  "source_id": 25030,
+  "chamber": "6",
+  "file_number": "44663",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2017",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25030/",
+  "source_sha256": "8aa4969cf835d23558b86cc38389d440bbbf3d11a6b6cbaa0efb2c9d54e543f0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
