@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "405",
+  "decision_date": "2022-04-28",
+  "source_id": 35888,
+  "chamber": "3",
+  "ilam_number": "99",
+  "item_number": 6,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35888/",
+  "source_sha256": "dd1fe1fa6a9c52903d9a4b8df51cd5662a5b1439f9169b10f3910ddd8b1f362e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
