@@ -1,0 +1,23 @@
+Satılamayacak taşınmazlar
+MADDE 4 – (1) Bu Tebliğ kapsamında;
+a) 31/12/2017 tarihinden sonra üzerinde yapı yapılan taşınmazlar,
+b) 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu kapsamında kalan taşınmazlar,
+c) 31/8/1956 tarihli ve 6831 sayılı Orman Kanunu kapsamında kalan taşınmazlar,
+ç) 4/4/1990 tarihli ve 3621 sayılı Kıyı Kanununa göre kıyıda kalan yerler,
+d) 9/8/1983 tarihli ve 2873 sayılı Milli Parklar Kanunu uyarınca milli park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanları içinde kalan taşınmazlar,
+e) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında satışı mümkün olmayan taşınmazlar ve ilgili idare tarafından satılması uygun görülmeyen taşınmazlar,
+f) 18/11/1983 tarihli ve 2960 sayılı Boğaziçi Kanununda tanımlanan Boğaziçi sahil şeridi ve öngörünüm bölgesi içinde 3194 sayılı Kanunun geçici 16 ncı maddesi uyarınca adı geçen Kanuna eklenmiş olan kroki ile listede sınır ve koordinatları gösterilen alanda bulunan taşınmazlar,
+g) İstanbul tarihi yarımada içinde 3194 sayılı Kanunun geçici 16 ncı maddesi uyarınca adı geçen Kanuna eklenmiş olan kroki ile listede sınır ve koordinatları gösterilen alanlarda bulunan taşınmazlar,
+ğ) 19/6/2014 tarihli ve 6546 sayılı Çanakkale Savaşları Gelibolu Tarihi Alanı Hakkında Bazı Düzenlemeler Yapılmasına Dair Kanunun 2 nci maddesinin birinci fıkrasının (c) bendinde belirlenmiş Tarihi Alanda bulunan taşınmazlar,
+h) Özel kanunlar kapsamında kalan ve ilgili idare tarafından satışı uygun görülmeyen taşınmazlar,
+ı) Sosyal donatı için tahsisli alanlarda kalan taşınmazlar,
+i) İmar planlarında kamu hizmeti için ayrılmış taşınmazlar (ilgili idare tarafından bu hizmette kullanılmayacağı belirtilenler, fiili veya hukuki durumu itibarıyla kamu hizmetlerinde kullanılması mümkün bulunmayanlar veya ilgili milli emlak idaresince fiilen kamu hizmetinde kullanılmadığı tespit edilenler hariç) veya fiilen kamu hizmetlerinde kullanılan taşınmazlar,
+j) Teferruğ yoluyla edinilen ve edinme tarihinden itibaren bir yıl geçmemiş taşınmazlar,
+k) Kamulaştırma yoluyla edinilip 4/11/1983 tarihli ve 2942 sayılı Kamulaştırma Kanununun 23 üncü maddesinde yazılı süresi dolmamış taşınmazlar,
+l) Taşkın yapı durumunda olanlar hariç; üzerinde havuz, spor sahası, konteyner ve benzeri bina niteliğinde olmayan yapı bulunan taşınmazlar,
+m) Devletin hüküm ve tasarrufu altında olup tescili mümkün olmayan taşınmazlar,
+n) Özel kanun hükümleri gereği kamu kurum ve kuruluşlarına tahsisi, devri, terki ve kullanım hakkı verilmesi gereken taşınmazlar,
+o) Hatay ili sınırları içerisinde bulunanlar ile Çanakkale ilinin Bozcaada ve Gökçeada ilçeleri sınırları içerisinde bulunan taşınmazlar,
+ö) Yapı Kayıt Belgesi iptal edilen taşınmazlar,
+p) Bakanlıkça satışı uygun görülmeyen taşınmazlar,
+satılamaz.
