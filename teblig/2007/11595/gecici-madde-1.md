@@ -1,0 +1,7 @@
+Geçici Madde 1 – (Ek:RG-8/4/2009-27194)
+2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu uyarınca, sit alanı ilan edilen taşınmazlar hakkında ilgili mevzuatı uyarınca malikleri adlarına düzenlenen belgelere ilişkin olarak aşağıdaki şekilde işlem yapılır.
+(1) Maliklerince, sit alanında kalması nedeniyle adlarına düzenlenen ve kullanılmayan veya kısmen kullanılan belgeler en geç 31/12/2011 tarihine kadar Hazineye ait taşınmazların satış ihalelerinde ödeme aracı olarak kabul edilecek, bu tarihten sonra ise kabul edilmeyecektir.
+(2) Belgenin işleme tabi tutulacağı tarihteki bedeli, belgede yazılı bedele kıymet takdir tarihinden itibaren kanuni faiz uygulanmak suretiyle tespit edilecektir.
+(3) Düzenlenen bu belgeler, satış gelirleri özel ödenek kaydedilen taşınmazlar için ödeme aracı olarak kullanılamayacaktır. Bu taşınmazların satış ihalelerine ilişkin şartname ve ilanlarında, bu belgelerin ödeme aracı olarak kullanılamayacağı belirtilecektir.
+(4) Satışı yapılan taşınmazın bedelinin belge ile ödenmek istenmesi halinde, ihale bedeline bakılmaksızın geçici ihale kararı onay için Bakanlığa gönderilecektir.
+(5) Taşınmaz satış şartnamesinde, isteklilerce ihale bedelinin belge ile ödenmek istenilmesi halinde, bu hususu bir dilekçe ile ihale komisyonuna bildirmesi gerektiği, belge ile ödeme talebinin daha sonra yapılması halinde talep hakkında herhangi bir işlem yapılmayacağı özel hüküm olarak belirtilecektir.

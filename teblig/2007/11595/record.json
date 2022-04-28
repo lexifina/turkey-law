@@ -1,0 +1,82 @@
+{
+  "source_id": "9.5.11595",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 313)",
+  "number": "11595",
+  "path": "teblig/2007/11595",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=11595&MevzuatTertip=5",
+  "source_sha256": "716151d1b309143b6149fda8451419b806a642da194fde741ea0e11f100f7ea6",
+  "source_bytes": 309363,
+  "published": "2007-08-29",
+  "gazette": "26628",
+  "in_force": "2022-04-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-28",
+      "RG-28/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-28",
+      "28/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-08-21",
+      "RG-21/8/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-08-21",
+      "21/8/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-06-17",
+      "RG-17/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-05-11",
+      "RG-11/5/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-05-02",
+      "RG-2/5/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-02-01",
+      "RG-1/2/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-03-24",
+      "RG-24/3/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-04-08",
+      "RG-8/4/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 15822,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.resmigazete.gov.tr/eskiler/2011/04/20110402-8.htm",
+    "9.5.11595-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
