@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.20334",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "4749 SAYILI KANUN KAPSAMINDA DIŞ FİNANSMAN SAĞLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "20334",
+  "issuer": "Hazine Müsteşarlığının bağlı olduğu Bakan",
+  "issuer_slug": "hazine-mustesarliginin-bagli-oldugu-bakan",
+  "path": "regulation/hazine-mustesarliginin-bagli-oldugu-bakan/2014/20334",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20334&MevzuatTertip=5",
+  "source_sha256": "73b0b2275045b8d99bd5f0187a445c5c2fa9227f74b02833e9ac08411bf5050f",
+  "source_bytes": 71845,
+  "published": "2014-12-25",
+  "gazette": "29216",
+  "in_force": "2022-04-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-28",
+      "RG-28/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-28",
+      "28/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-04-27",
+      "RG-27/4/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-04-27",
+      "27/4/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2016-11-23",
+      "RG-23/11/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-11-23",
+      "23/11/2016",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5385,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

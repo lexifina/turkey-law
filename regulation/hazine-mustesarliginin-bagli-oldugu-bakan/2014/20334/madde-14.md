@@ -1,0 +1,5 @@
+İkraz ücreti
+MADDE 14 – (1) Müsteşarlık, dış borcun ikrazı yöntemiyle dış finansman kullandırılan kuruluştan, bir defaya mahsus olmak üzere kuruluşun mali durumu, kuruluşa daha önceden garantili finansman ve ikrazlı kredi sağlanmış olması halinde söz konusu garantili finansman ve ikrazlı kredilerin geri ödeme performansı ve sağlanan ikrazlı kredinin finansman koşulları gibi kriterleri dikkate alarak, ikraz edilen tutarın %1’ine kadar ikraz ücreti tahsil eder. Bu oranı beş katına kadar artırmaya Bakan yetkilidir. (Mülga cümle:RG-27/4/2018-30404)(...)
+(2) Alt kullanıcılara tahsis edilmek üzere aynı anlaşmada birden fazla kuruluşa dış borcun ikraz edilmesi ve kullanım tutarının baştan öngörülememesi halinde her bir kuruluştan tahsil edilecek ikraz ücreti, ikraz edilen tutarın kuruluş sayısına bölünmesi ile elde edilecek tutar üzerinden hesaplanır.
+(3) İkraz ücreti, ikraz anlaşmasının imzalanmasını takip eden 15 gün içinde kuruluş tarafından risk hesabına ödenir.
+(4) Borçlu, kredinin tamamının kullanılmaması, tamamen veya kısmen iptal edilmesi veya kullanımının durdurulması hallerinde ikraz ücretinin tamamen veya kısmen iade edilmesini talep edemez.

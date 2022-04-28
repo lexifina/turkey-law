@@ -1,0 +1,3 @@
+Dış finansmanın doğrudan Müsteşarlık tarafından temini
+MADDE 7 – (1) Müsteşarlık, projenin gerçekleştirilmesi için gerekli dış finansmanı, uygun göreceği dış finansman sağlayan yabancı ülkelerden, ülkelerce oluşturulan birliklerden, resmî finansman fonlarından, uluslararası ve bölgesel kuruluşlardan veya belirli sayıda bankanın teklife davet edilmesi sonucunda iletilecek tekliflerin arasından yapılacak değerlendirme sonucunda seçeceği herhangi bir dış finansman kaynağından temin edebilir. Bu durumda kuruluş, sadece ihale konusu projenin teknik özelliğine ve fiyatına ilişkin teklif alır.
+(2) Kuruluşlara dış finansman temini izni verilmesi aşamasında, 5 inci, 6 ncı, 12 nci, 15 inci ve 19 uncu maddelerde öngörülen kriterlerin ve koşulların karşılanması şartı aranır.
