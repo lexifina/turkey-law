@@ -1,0 +1,44 @@
+{
+  "source_id": "9.5.24712",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "MİLLİ EMLAK GENEL TEBLİĞİ (SIRA NO: 387)",
+  "number": "24712",
+  "path": "teblig/2018/24712",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24712&MevzuatTertip=5",
+  "source_sha256": "3e4e88bab3cf970ab14e16846e628cff70520810e36f9f0a68e32b8b1ab88de3",
+  "source_bytes": 38755,
+  "published": "2018-06-23",
+  "gazette": "30457",
+  "in_force": "2022-04-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-28",
+      "RG-28/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-28",
+      "28/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1610,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24712-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
