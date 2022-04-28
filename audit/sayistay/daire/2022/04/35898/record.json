@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "405",
+  "decision_date": "2022-04-28",
+  "source_id": 35898,
+  "chamber": "3",
+  "ilam_number": "99",
+  "item_number": 16,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35898/",
+  "source_sha256": "b697f3d13144f344a275786b5b3f0481c1e2df4a529e18782a5523a2ca222459",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
