@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31824",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31824",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-04-29",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-82-0.json",
+      "id": "82",
+      "label": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=82&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-04-29",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39501&MevzuatTertip=5",
+  "source_bytes": 33150,
+  "source_id": "9.5.39501",
+  "source_sha256": "f0c42772c82167073b713fe3ddd296895415305895da3c86b70ea9a0bce7d486",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA\r\nUYGULANACAK UYUMLAŞTIRILMIŞ TEKNİK ŞARTNAMELERİN\r\nDUYURULMASI VE EŞVARLIK DÖNEMİNE DAİR TEBLİĞ",
+  "word_count": 645
+}
