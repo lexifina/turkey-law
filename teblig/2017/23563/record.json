@@ -1,0 +1,39 @@
+{
+  "source_id": "9.5.23563",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA, YAPI MALZEMELERİNİN YANGINA TEPKİ SINIFLARINA, YAPI ELEMANLARININ YANGINA DAYANIKLILIĞINA, ÇATI VE ÇATI KAPLAMALARININ DIŞ YANGIN PERFORMANSINA DAİR TEBLİĞ (MHG/2017-13)",
+  "number": "23563",
+  "path": "teblig/2017/23563",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23563&MevzuatTertip=5",
+  "source_sha256": "a68af6d535e4cfafdcb8170db69a4680691b3fdfdd35b5a61e8736e316f6096f",
+  "source_bytes": 21686,
+  "published": "2017-05-05",
+  "gazette": "30057",
+  "in_force": "2022-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-29",
+      "RG-29/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 826,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23563-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
