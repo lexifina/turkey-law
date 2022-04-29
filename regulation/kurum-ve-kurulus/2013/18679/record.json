@@ -1,0 +1,45 @@
+{
+  "source_id": "7.5.18679",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TABİAT VARLIKLARI, DOĞAL SİT ALANLARI VE ÖZEL ÇEVRE KORUMA BÖLGELERİNDE KALAN YAPI YASAKLI TAŞINMAZLARIN HAZİNE TAŞINMAZLARI İLE DEĞİŞTİRİLMESİ HAKKINDA YÖNETMELİK",
+  "number": "18679",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/18679",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18679&MevzuatTertip=5",
+  "source_sha256": "6a8d8a7eff7f930227d6a4c37e38f656e5b87192ed60553e7e934ff93e7ab52e",
+  "source_bytes": 36891,
+  "published": "2013-08-03",
+  "gazette": "28727",
+  "in_force": "2022-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-29",
+      "RG-29/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-04-29",
+      "29/4/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2257,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18679%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

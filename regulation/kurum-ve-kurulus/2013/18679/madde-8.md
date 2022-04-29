@@ -1,0 +1,22 @@
+Trampaya konu edilemeyecek Hazine taşınmazları
+MADDE 8 – (1) Hazine taşınmazlarından;
+a) Kamu hizmetlerine tahsisli bulunan,
+b) Devletin hüküm ve tasarrufu altında olup tapuda Hazine adına tescil edilmeleri mümkün olmayan,
+c) Kıyı Kanunu kapsamında bulunan,
+ç) Milli Parklar Kanunu uyarınca milli park, tabiat parkı, tabiat anıtı ve tabiatı koruma alanları içinde kalması nedeniyle Orman ve Su İşleri Bakanlığına tahsisi gereken,
+d) Sulama Alanlarında Arazi Düzenlenmesine Dair Tarım Reformu Kanununa göre uygulama alanı ilan edilen bölgelerde kalan ve Tarım Reformu Genel Müdürlüğünce trampası uygun görülmeyen,
+e) Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamında olup, Bakanlıkça bu amaçla trampası uygun görülmeyen,
+f) Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanunu kapsamında kalıp Genelkurmay Başkanlığınca trampası uygun görülmeyen,
+g) Orman Kanunu kapsamında kalan taşınmazlar ile 17/10/1983 tarihli ve mülga 2924 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi Hakkında Kanun hükümleri gereğince Orman ve Su İşleri Bakanlığı emrine geçen,
+ğ) 19/4/2012 tarihli ve 6292 sayılı Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun kapsamında kalan ve hak sahipliği kesinleşenler,
+h) Turizmi Teşvik Kanunu kapsamında kalması nedeniyle Kültür ve Turizm Bakanlığına tahsisi gereken,
+ı) 24/2/1984 tarihli ve 2981 sayılı İmar ve Gecekondu Mevzuatına Aykırı Yapılara Uygulanacak Bazı İşlemler ve 6785 sayılı İmar Kanununun Bir Maddesinin Değiştirilmesi Hakkında Kanun hükümlerine göre tapu tahsis belgesi verilen,
+i) Umumi Hayata Müessir Âfetler Dolayısiyle Alınacak Tedbirlerle Yapılacak Yardımlara Dair Kanun kapsamında kalması nedeniyle Bakanlıkça tahsisi gereken,
+j) Mera Kanunu kapsamında kalan,
+k) Teferruğ yoluyla edinilen ve edinme tarihinden itibaren bir yıl geçmeyen,
+l) Kamulaştırma yoluyla edinilip Kamulaştırma Kanununun 23 üncü maddesinde yazılı süresi dolmayan,
+m) Özel kanun hükümleri gereği kamu kurum ve kuruluşlarına tahsisi, devri, terki ve kullanım hakkı verilmesi gereken,
+n) Elbirliği halindeki mülkiyet durumu paylı mülkiyete dönüştürülmeyen,
+o) İlgili idare tarafından bu hizmette kullanılmayacağı belirtilen taşınmazlar hariç, imar planlarında bir kamu hizmeti için ayrılmış olan,
+ö) Kısmi trampa talebi olan ancak ifrazı Hazine lehine olmayan,
+taşınmazlar trampaya konu edilemez.
