@@ -1,0 +1,39 @@
+{
+  "source_id": "9.5.23565",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) VE YAPI MALZEMELERİNİN TABİ OLACAĞI KRİTERLER HAKKINDA YÖNETMELİK KAPSAMINDAKİ YAPI MALZEMELERİNİN TABİ OLACAKLARI PERFORMANSIN DEĞİŞMEZLİĞİNİN DEĞERLENDİRİLMESİ VE DOĞRULANMASI SİSTEMLERİ HAKKINDA TEBLİĞ (MHG/2017-14)",
+  "number": "23565",
+  "path": "teblig/2017/23565",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=23565&MevzuatTertip=5",
+  "source_sha256": "0b74fc972eb10af1bb64c52f51cb7529ec3afbe7a8c9d2e7e242c5fd91c8bebe",
+  "source_bytes": 17116,
+  "published": "2017-05-05",
+  "gazette": "30057",
+  "in_force": "2022-04-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/4/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-04-29",
+      "RG-29/4/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 542,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.23565-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
