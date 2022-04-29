@@ -1,0 +1,9 @@
+BEŞİNCİ BÖLÜM
+Denetim ve Performans Değerlendirmesi
+Disiplin Kurulu, toplanması, çalışma yöntemi ve giderleri
+MADDE 31 – (1) Disiplin Kurulu; (Değişik ibare:RG-29/4/2022-31824) Kurum tarafından belirlenecek iki üye, itiraz hakemleri arasından seçilen iki üye ile Komisyon Müdürü ve yardımcısı olmak üzere toplam üç asil, üç de yedek üyeden oluşur. (Değişik ibare:RG-29/4/2022-31824) Kurum temsilcilerinden daha kıdemli olan üye, itiraz hakemlerinden daha uzun süredir itiraz hakemi olan üye ile Komisyon Müdürü asil üyedir. Disiplin Kuruluna (Değişik ibare:RG-29/4/2022-31824) Kurum temsilcisi başkanlık eder. (Değişik ibare:RG-29/4/2022-31824) Kurum temsilcilerinin asgari on yıl kamu hizmetinde çalışmış ve sigortacılık alanında deneyim sahibi olması gerekir.
+(2) Disiplin Kurulunda görev alacak asil ve yedek üyeler Komisyon Başkanlığına yazılı olarak bildirilir. Disiplin Kurulu üyelerinin görevlendirilmesi Komisyon Başkanlığı tarafından yapılır.
+(3) Disiplin Kurulu, üyelerin tamamının katılımı ile Disiplin Kurulu Başkanının çağrısı üzerine toplanır. Asil üyelerden birinin veya birkaçının mazereti nedeniyle bulunmaması durumunda, yedek üyeler Disiplin Kurulu Başkanı tarafından toplantıya davet edilir.
+(4) Disiplin Kurulu, bilirkişiler hakkında düzenlenen raporları dikkate alarak değerlendirmelerini yapar. Toplantılarda kararlar oy çokluğu ile alınır.
+(5) Disiplin Kurulunun sekretarya ve arşiv işlemleri Komisyon Müdürlüğü tarafından yürütülür.
+(6) Disiplin Kurulu üyeleri ayda azami üç toplantı yapabilir. Disiplin Kurulunun toplantıya katılan üyelerine bir ay içinde üçten fazla olmamak üzere her toplantı günü için (3000) gösterge rakamının Devlet memurlarına uygulanan aylık katsayısı ile çarpımı sonucu bulunacak miktarda toplantı ücreti ödenir. Toplantı ile ilgili diğer masraflar da Komisyon tarafından karşılanır.

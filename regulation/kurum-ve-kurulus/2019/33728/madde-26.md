@@ -1,0 +1,3 @@
+Bilirkişinin yetkileri
+MADDE 26 – (1) Bilirkişi, yapacağı ön incelemede, incelemeyi gerçekleştirebilmesi için bazı hususların önceden araştırılması ve tespiti ile kendisine teslim edilen dosya ve belgelere ilave olarak başka kayıt ve belgelere ihtiyaç duyması halinde, bir hafta içinde görevlendirmeyi yapan hakemden talepte bulunabileceği gibi gerekli görülen hallerde hakemin yetkilendirmesine bağlı olarak ilgili kurum, kuruluş ve kişilerden belge temin edebilir.
+(2) Bilirkişi, görev alanı veya sınırları hakkında tereddüde düşerse, bunun giderilmesini görevlendirmeyi yapan hakemden her zaman talep edebilir.

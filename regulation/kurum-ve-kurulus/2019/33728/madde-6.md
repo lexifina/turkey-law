@@ -1,0 +1,2 @@
+Etik ilkelerin kapsamı ve etik ilkelere bağlılık
+MADDE 6 – (1) Sicile ve listeye kaydolan bilirkişiler ile liste dışından görevlendirilen bilirkişiler, bilirkişilik göreviyle bağdaştığı ölçüde 7 ila 14 üncü maddelerdeki ilkelere ve 13/4/2005 tarihli ve 25785 sayılı Resmî Gazete’de yayımlanan Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelikte düzenlenen etik ilkelere uymakla yükümlüdür.

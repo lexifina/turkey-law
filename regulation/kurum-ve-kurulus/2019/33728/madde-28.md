@@ -1,0 +1,4 @@
+Bilirkişinin oy ve görüşünün değerlendirilmesi
+MADDE 28 – (1) Bilirkişi raporu, görevlendirmeyi yapan hakem tarafından diğer delillerle birlikte serbestçe değerlendirilir.
+(2) Görevlendirmeyi yapan hakem, bilirkişi raporundaki eksiklik yahut belirsizliğin tamamlanması veya açıklığa kavuşturulmasını sağlamak için yeni sorular yöneltmek suretiyle bilirkişiden ek rapor isteyebilir.
+(3) Bilirkişi raporunda eksik veya anlaşılmaz hususların bulunması halinde; görevlendirmeyi yapan hakem tarafından belirlenen süre içinde bilirkişiden yazılı açıklama istenir. İhtiyaç duyulduğu takdirde, bilirkişinin oy ve görüşünü sözlü olarak açıklamasına karar verilirse, açıklamaları tutanağa geçirilir ve bilirkişinin de imzası alınır. Kurul hâlinde görevlendirme söz konusu ise, bilirkişilerin bilgilerine başvurulan hususu hemen aralarında müzakere etmelerine imkân tanınır ve müzakere sonucunda açıklanan oy ve görüş, tutanağa geçirilerek bilirkişilere imza ettirilir.

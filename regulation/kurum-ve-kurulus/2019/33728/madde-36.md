@@ -1,0 +1,4 @@
+Listeden çıkarılma usulü
+MADDE 36 – (1) (Değişik ibare:RG-29/4/2022-31824) Bölge kurulu bilirkişi listesinden çıkarılanların, listeden çıkarılma bilgisi Komisyona ulaştığında, Komisyon nezdinde tutulan bilirkişi listesinden de çıkarılır.
+(2) 34 üncü maddenin birinci fıkrasında düzenlenen inceleme sonucunda ihlalin, listeden çıkarılmayı gerektirdiği sonucuna varılması halinde bilirkişi, Komisyon nezdinde tutulan bilirkişi listesinden çıkarılır.
+(3) Bilirkişinin, Komisyon nezdinde tutulan bilirkişi listesinden sürekli veya geçici olarak çıkarılması, uyarılması veya başka bir yaptırım uygulanması durumunda durum Komisyon Müdürü tarafından bilirkişiye yazılı olarak tebliğ edilir. Ayrıca, bu karar bilirkişinin görev yaptığı kamu kurum ve kuruluşlarına, kamu kurumu niteliğindeki meslek kuruluşlarına ve ilgili diğer yerlere bildirilir.

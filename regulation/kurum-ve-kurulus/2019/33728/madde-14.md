@@ -1,0 +1,4 @@
+Reklam yasağı
+MADDE 14 – (1) Bilirkişinin, bilirkişilik görevi almak için reklam sayılabilecek her türlü girişim ve eylemde bulunması, internet sitesinde, tabelalarında ve basılı kâğıtlarında sicil ve listeye kayıtlı bilirkişi olduğuna dair ibareler kullanması yasaktır.
+(2) Bilirkişi; bilirkişilik görevi almak amacıyla özel amaçlı arama motorlarına, rehberlerine, listelerine, veri tabanlarına ve benzerlerine kayıt olamaz, kayıt edilmesine rıza gösteremez. Ancak, bilirkişilik görevi alma amacına yönelik olmamak kaydıyla, internet sayfasını özel amaçlı arama motorlarına kayıt edebilir, anahtar kelime olarak da; sadece adı soyadı ve mesleki unvanı ile bulunduğu şehrin adını kullanabilir.
+(3) Bilirkişi, internet kullanıcılarını kendi sitesine yönlendirecek şekilde internet kısa yolları kullanılmasına izin veremez ve reklam yapamaz.
