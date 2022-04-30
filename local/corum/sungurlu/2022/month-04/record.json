@@ -1,0 +1,29 @@
+{
+  "number": "month-04",
+  "year": 2022,
+  "month": 4,
+  "title": "Nisan 2022 Olağan Meclis Toplantı Kararları",
+  "decision_date": null,
+  "index_date": "2022-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2022",
+  "source": "https://sungurlu.bel.tr/icerik/meclis-kararlar/page/7",
+  "official_page": null,
+  "official_document": "https://sungurlu.bel.tr/nisan-2022-olagan-meclis-toplanti-kararlari-33895.html",
+  "source_sha256": "99c4302d198f82dbe6b4db171b78cb4fb30cb69e7996730f90f48fb368623e56",
+  "issuer": "Sungurlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Nisan 2022 Olağan Meclis Toplantı Kararları",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
