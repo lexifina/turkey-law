@@ -1,0 +1,28 @@
+{
+  "number": "month-04",
+  "year": 2022,
+  "month": 4,
+  "title": "2022 YILI NİSAN AYI 1.BİRLEŞİM KARARLARI",
+  "decision_date": null,
+  "index_date": "2022-04-30",
+  "date_precision": "month",
+  "period": "Nisan 2022",
+  "source": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2022-yili-nisan-ayi-1birlesim-kararlari",
+  "official_page": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2022-yili-nisan-ayi-1birlesim-kararlari",
+  "official_document": "https://bayindir.bel.tr//storage/photos/7/NİSAN AYI 1.BİRLEŞİM-54- 65 ARASI.pdf",
+  "source_sha256": "f0968440147e1b677eb49e7cec3c40c5e99945c366381215985fe5ea84682d8c",
+  "issuer": "Bayındır Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-04-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Nisan 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 YILI NİSAN AYI 1.BİRLEŞİM KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
