@@ -1,0 +1,2 @@
+Tez danışmanı atanması
+MADDE 37- (1) Tezli yüksek lisans programında, Enstitü anabilim dalı başkanlığı her öğrenci için Üniversite kadrosunda bulunan, anabilim dalında lisansüstü programın yürütülmesine katkı sağlayan, bir tez danışmanını en geç birinci yarıyılın sonuna kadar belirler. Anabilim dalı başkanı danışman atanıncaya kadar danışmanlık görevini yürütür. Tez danışmanı, Enstitü Yönetim Kurulu onayı ile kesinleşir.

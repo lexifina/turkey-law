@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 60- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-04-30",
+      "30.04.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 60- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31825",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-04-30",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Gümüşhane Üniversitesi",
+  "issuer_slug": "gumushane-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/gumushane-universitesi/2022/39502",
+  "published": "2022-04-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39502&MevzuatTertip=5",
+  "source_bytes": 266578,
+  "source_id": "8.5.39502",
+  "source_sha256": "6a5c97fa5075d3af09e293113020de1108f63ad88d2be095e01a7ea795d9f2e3",
+  "text_status": "as-enacted",
+  "title": "GÜMÜŞHANE ÜNİVERSİTESİ LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 326,
+  "word_count": 9941
+}

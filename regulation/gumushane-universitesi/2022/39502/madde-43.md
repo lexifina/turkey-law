@@ -1,0 +1,3 @@
+Danışman atanması
+MADDE 43- (1) Tezsiz yüksek lisans programında Enstitü anabilim dalı başkanlığı her öğrenci için ders seçiminde ve dönem projesinin yürütülmesinde danışmanlık yapacak bir öğretim üyesi veya Senato tarafından belirlenen niteliklere sahip doktora dereceli bir öğretim görevlisini en geç birinci yarıyılın sonuna kadar belirler. Anabilim dalı başkanı danışman atanıncaya kadar danışmanlık görevini yürütür, bu danışmanlık görevi için anabilim dalı başkanına ders ücreti ödenmez ve ders yükünden de sayılmaz.
+(2) Tezsiz yüksek lisans programına kayıtlı öğrencilerin danışmanlık işlemlerinin nasıl yapılacağı ile ilgili diğer esaslar Senato tarafından belirlenir.

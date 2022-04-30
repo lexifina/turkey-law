@@ -1,0 +1,16 @@
+Derslere kayıt
+MADDE 23- (1) Öğrenciler, her akademik yarıyıl başında, akademik takvimde belirtilen süre içinde kayıtlarını yenilemek zorundadır. Kayıt yenileme yapılmadığında geçen süre, azami öğrenim süresinden sayılır.
+(2) Yüksek lisans öğrencisi, danışmanın önerisi ile lisans öğrenimi sırasında almamış olmak koşulu ile lisans derslerinden en fazla 2 ders, doktora derslerinden ise en fazla 1 ders alabilir.
+(3) Doktora programı öğrencisi, danışmanın önerisi ile yüksek lisans öğrenimi sırasında almamış olmak koşulu ile yüksek lisans derslerinden en fazla 1 ders alabilir. Bütünleşik doktora programı öğrencisi yüksek lisans programından en fazla 3 dersi alabilir.
+(4) Lisansüstü öğrencisi danışman atandıktan sonra tez çalışma konusu ile ilişkili olarak danışmanının önerisiyle Enstitüye bağlı farklı bir anabilim dalından en fazla 2, farklı anabilim dallarından ise toplamda en fazla 3 adet ders alabilir.
+(5) Lisansüstü öğrencileri Üniversitenin lisansüstü programlarından en az 15 kredilik ders alması koşuluyla, danışman ve anabilim dalı kurulunun önerisi ve Enstitü Yönetim Kurulunun onayı ile diğer yükseköğretim kurumlarından ders alabilir.
+(6) Diğer yükseköğretim kurumlarından ders alacak olan lisansüstü öğrencilerin akademik takvimde belirtilen süre içerisinde Enstitüye başvuruda bulunması gerekmektedir.
+(7) Ders kayıt döneminde kayıt yaptıramayan öğrencilerin mazeret durumları belgeleri ile beraber Enstitü Yönetim Kurulu tarafından değerlendirilir ve uygun görülmesi durumunda ders kayıt dönemi dışında da kayıtları gerçekleştirilebilir.
+(8) Akademik takvimde belirtilen tarihlerde, katkı payı ve/veya öğrenim ücretini ödemeyen ve mazeretleri Enstitü Yönetim Kurulunca kabul edilmeyen öğrenciler o dönem için kayıt yaptıramaz ve öğrencilik haklarından yararlanamaz.
+(9) Öğrencinin dönem başında ders kayıt sürecinde ders kaydını gerçekleştirememiş olması durumu aşağıdaki mazeretler çerçevesinde kabul edilebilir olarak değerlendirilir:
+a) Kayıt yenileme süresi içerisinde hastalık, doğum, askerlik ve ölüm (Birinci derecede yakınını kaybetme) gibi önceden öngörülemeyen mazereti nedeniyle katkı payını yatırmayan ve ders seçimi yapamayan öğrenciler yarıyılın ilk iki haftasının sonuna kadar ilgili belgeler ile Enstitü müdürlüğüne yazılı olarak başvuruda bulunur.
+b) Hastalık halinde; hastalığın en az ders kayıt sürecini kapsayan döneminde uzman doktor raporuyla belgelenmesi gerekmektedir.
+c) Kayıt yenileme süresi içerisinde önceden öngörülemeyen mazereti nedeniyle katkı payını yatırıp ders kaydı yapamayan öğrenciler yarıyılın ilk iki haftasının sonuna kadar Enstitü müdürlüğüne yazılı olarak başvuruda bulunur.
+ç) (a), (b) ve (c) bentleri dışında herhangi bir mazereti olan öğrencilerin Enstitü müdürlüklerine yazılı başvuruda bulunmaları gerekir. Mazereti uygun görülen öğrencilerin ders kayıtları ilgili yönetim kurulu kararı ile yapılır.
+(10) Öğrenimini normal süresi içinde tamamlayamayan öğrenciler, 2547 sayılı Kanunun 46 ncı maddesinde belirtilen koşullara göre ilgili döneme ait öğrenci katkı payı veya öğrenim ücretlerini ödemek koşulu ile öğrenimlerine devam etmek için kayıt yaptırabilirler.
+(11) Ders kayıtları ve mazeretleri nedeniyle ders kayıt süresini kaçıran öğrencilerin mazeretlerinin geçerlilikleri ile ilgili diğer esaslar Senato tarafından belirlenir.

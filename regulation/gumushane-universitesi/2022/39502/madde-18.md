@@ -1,0 +1,6 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim Öğretim ile İlgili Genel Esaslar
+Kayıt yenileme, öğrenci katkı payı ve öğrenim ücreti
+MADDE 18- (1) Lisansüstü öğrenciler, her yarıyılın başında akademik takvimde belirtilen süre içinde kaydını yenilemek zorundadır. Lisansüstü eğitim yapmak üzere kayıt yaptıran yabancı uyruklu öğrenciler, normal öğrenim süresini dolduran öğrenciler, örgün öğrenim tezsiz yüksek lisans, uzaktan öğretim tezsiz yüksek lisans ve özel öğrenci statüsünde olanlar kayıt yenilemek için katkı payı/öğrenim ücretini ödemek zorundadırlar. Akademik takvimde belirlenen süre içinde ders kaydını yaptırmayan ya da kaydını yeniletmeyen öğrenci, o yarıyıl devam etme hakkını kaybeder. Kaybedilen yarıyıl öğrenim süresinden sayılır. Mazeretleri nedeniyle süresi içinde kaydını yeniletemeyen öğrencilerin, devamsızlık sınırını aşmamak ve mazeretlerinin haklı ve geçerli olduğu Enstitü Yönetim Kurulunca kabul edilmek koşuluyla kayıtları yenilenebilir.
+(2) Katkı payı/öğrenim ücreti ilgili esaslara göre alınır. Tezsiz yüksek lisans programlarının açılamaması durumları hariç alınan katkı payı/öğrenim ücreti iade edilmez.
+(3) Örgün ve uzaktan eğitimle yürütülen tezsiz yüksek lisans programında başarısız olunan dersin tekrar alınması durumunda ilgili dönem için öngörülen katkı payı ve öğrenim ücreti tekrar ödenir.

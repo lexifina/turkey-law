@@ -1,0 +1,2 @@
+Uzaktan eğitim teknolojilerinin kullanıldığı durumlar
+MADDE 57- (1) Lisansüstü programlarda dersler, sınavlar, seminer sunumu, tez izleme komitesi toplantısı, yeterlik sınavı ve tez savunma sınavları Enstitü tarafından belirlenen ilkelere uygun olacak şekilde yüz yüze veya kayıt altına alınmak şartıyla anlık görsel ve işitsel iletişim kurulabilecek şekilde uzaktan eğitim teknolojileri kullanılarak çevrimiçi de yapılabilir.
