@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-ETD/85",
+  "source_id": "2022/DK-ETD/85",
+  "date": "2022-03-29",
+  "title": "Türk Telekom Referans Ortak Yerleşim ve Tesis Paylaşımı Teklifi Kapsamındaki Enerji ve Klima Ücretlerinin Güncellenmesi",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/f67860a6-749d-4073-bdc3-801a915ccf16.pdf",
+  "source_sha256": "c38f55cb9036082d317605fe735f766befbe2d9f30a8b161de341a85c0950917",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
