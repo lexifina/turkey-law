@@ -1,0 +1,2 @@
+Yapı yerinde bulundurulması gerekli levha ve belgeler
+MADDE 60- (1) İnşaat süresince yapı yerinde mal sahibinin, mimarının, statik ve tesisat ile elektrik proje müelliflerinin, şantiye şefinin, yapı denetimini üstlenen kuruluş veya kişilerin, müteahhidinin isimleri ile inşaat ruhsat ve numara tarihini içeren bir levhanın herkes tarafından rahat görülebilecek bir yerde asılı olarak ve yapıya ilişkin ruhsat ve eklerinin yapı yerinde bulundurulması zorunludur.
