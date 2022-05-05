@@ -1,0 +1,25 @@
+{
+  "number": "meeting-05-05",
+  "number_as_published": "meeting-05-05",
+  "year": 2022,
+  "title": "05 MAYIS 2022 MECLİS KARARLARI",
+  "decision_date": "2022-05-05",
+  "source": "https://www.polatli.bel.tr/mecliskararlari?page=14",
+  "official_document": "https://www.polatli.bel.tr/upload/mecliskararlari/6BC5yPQcGGSsbGH.pdf",
+  "source_sha256": "3144ab03cffebfb2e832660418d927c2cb00cd28d180a40c7bae72bb62ada894",
+  "issuer": "Polatlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 MAYIS 2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05 MAYIS 2022 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "file_name": "05-mayis-2022-mecli̇s-kararlari.pdf",
+  "list_date": "2022-05-05"
+}
