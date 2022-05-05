@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istinye-universitesi/2022/39505",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 45- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "MADDE 45- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31826",
+  "history": "as-enacted",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-05-05",
+  "in_force_basis": "source commencement clause: effective on Gazette publication",
+  "issuer": "İstinye Üniversitesi",
+  "issuer_slug": "istinye-universitesi",
+  "kind": "regulation",
+  "published": "2022-05-05",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39505&MevzuatTertip=5",
+  "source_id": "8.5.39505",
+  "source_sha256": "51a3db762b24047d95bcca406c0475ba48d1b47f27cd4acfc5c1ebfaf6412b59",
+  "title": "İSTİNYE ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 461,
+  "version_label": "oldest version available",
+  "word_count": 6362
+}
