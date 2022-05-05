@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-05",
+  "number_as_published": "meeting-05-05",
+  "year": 2022,
+  "title": "05.05.2022 Meclis Toplantısı ve Kararlar",
+  "decision_date": "2022-05-05",
+  "source": "https://www.emet.bel.tr/karar/05052022-meclis-toplantisi-ve-kararlar/53/",
+  "official_document": "https://www.emet.bel.tr/dosya/meclis/dosyalar/05052022.doc",
+  "source_sha256": "b564b2db3555f5ec0dc3159f22edbd6d245aafd36c2ffa04cbb9e84df1c7b3e5",
+  "issuer": "Emet Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.05.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "05.05.2022 Meclis Toplantısı ve Kararlar",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.emet.bel.tr/karar/05052022-meclis-toplantisi-ve-kararlar/53/"
+}
