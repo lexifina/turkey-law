@@ -1,0 +1,4 @@
+Arka bahçelerin tesviyesi
+MADDE 18- (1) Tabii zemini ±0.00 kotunun üstündeki arka bahçe zemininin bu kota kadar kazılması esastır. Ancak, kayalık zeminlerde veya parsel arka sınırındaki ortalama tabii zeminin +2.00 kotundan yukarıda olması halinde, gerekli önlemler alınarak bina arka cephesinden itibaren 3.00 metrelik şeridin tesviyesi ile yetinilir.
+(2) Tabii zemin kotu ±0.00 kotunun altında kalan arka bahçelerde bina köşelerinden en düşük kottakinin seviyesine kadar kazı yapılabilir. Parselin en düşük arka köşe noktası ile binanın en düşük arka köşe noktası arasındaki kot farkının 1.00 metreden fazla olması durumunda, bina arka cephesinden 3.00 metreden itibaren kademelendirme yapılabilir.
+(3) Arka bahçelerde 2.00 metreden fazla olmamak ve (±0.00) kotunu geçmemek koşuluyla dolgu yapılabilir.
