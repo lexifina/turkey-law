@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-492444",
+  "source_id": 28204,
+  "date": "2022-05-06",
+  "title": "Yurt içi ve yurt dışındaki kişilere verilen sağlık hizmetinin yanında verilen yol ve konaklama hizmetinin vergilendirilmesi ile belge düzeni hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/28204",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "0882af1fdfc9731bd723a99a1a0ecf385bf4aa239d018ed9d07394863d88f967",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
