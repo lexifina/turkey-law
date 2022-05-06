@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2022/18",
+  "meeting_date": "2022-05-06",
+  "meeting_date_as_published": "6.5.2022",
+  "decision_no": "12",
+  "source_id": 17708,
+  "title": "RTÜK kararı 2022/18-12",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/17708",
+  "source_sha256": "d419bbb89944c417f128a417f3837b7c5006fc4d9a3922d7be69dc19a07eda53",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (3 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
