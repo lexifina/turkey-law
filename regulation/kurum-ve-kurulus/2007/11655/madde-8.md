@@ -1,0 +1,2 @@
+Eşya ve teçhizatın dağıtımı
+MADDE 8 – (1) Bu Yönetmelikte belirtilen eşya ve teçhizat, hak sahiplerine imza karşılığı dağıtılır. Dağıtımı müteakip birlik stok kayıtlarından düşülür. Ancak, bu eşya ve teçhizattan 6/5/1960 tarihli ve 7471 sayılı Türkiye Cumhuriyeti Ordusu Subay ve Astsubaylarının Giyecek ve Teçhizatına Dair Kanuna göre verilenler ile aynı olan eşya için istihkak listelerindeki kullanma süreleri yürütülür. Bu eşya ve teçhizatın bir sonraki dağıtımları, kullanma sürelerinin tamamlanmasını müteakip başlar.
