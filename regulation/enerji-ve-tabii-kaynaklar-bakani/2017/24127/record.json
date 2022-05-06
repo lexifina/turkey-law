@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.24127",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ELEKTRİK DAĞITIM ŞİRKETLERİ DENETİM YÖNETMELİĞİ",
+  "number": "24127",
+  "issuer": "Enerji ve Tabii Kaynaklar Bakanı",
+  "issuer_slug": "enerji-ve-tabii-kaynaklar-bakani",
+  "path": "regulation/enerji-ve-tabii-kaynaklar-bakani/2017/24127",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24127&MevzuatTertip=5",
+  "source_sha256": "f33ba1ca0be76ab34e00be793ab19dd0569c30e01f27cb940461b1ea8a7b0d80",
+  "source_bytes": 53497,
+  "published": "2017-12-02",
+  "gazette": "30258",
+  "in_force": "2022-05-06",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-6/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-06",
+      "RG-6/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-06",
+      "6/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-03-16",
+      "RG-16/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-16",
+      "16/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-01-12",
+      "RG-12/1/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-01-12",
+      "12/1/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2209,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24127-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
