@@ -1,0 +1,13 @@
+{
+  "issuer": "İzmir Büyükşehir Belediye Meclisi",
+  "number": "521",
+  "decision_date": "2022-05-09",
+  "official_id": "30966",
+  "version_label": "as-enacted",
+  "text_status": "complete decision text as published in the register's KararDetay field (HTML); annexes not supplied",
+  "source_listing_url": "https://www.izmir.bel.tr/tr/IbbMeclisi/TariheGoreKararGetirJS?yil=2022&ay=&gun=&txtSozcuk=&draw=1&start=1000&length=100&txtKararNo=",
+  "source_listing_sha256": "f491d168fc78adc30d91bbad6d28aa5f36cd3deb0faa481af69037cca113b933",
+  "register_page": "https://www.izmir.bel.tr/tr/MeclisKararlari/58",
+  "date_basis": "register field KararTarihi (decision date)",
+  "privacy_withheld": false
+}
