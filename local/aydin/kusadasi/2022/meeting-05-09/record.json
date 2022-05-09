@@ -1,0 +1,24 @@
+{
+  "number": "meeting-05-09",
+  "number_as_published": "meeting-05-09",
+  "year": 2022,
+  "title": "09.05.2022 TARİH VE 5 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "decision_date": "2022-05-09",
+  "source": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016",
+  "official_document": "https://kusadasi.bel.tr/userfiles/09_05_2022_TARIH_VE__5_NOLU_MECLIS_KARARI_12052022_152418.pdf",
+  "source_sha256": "eaccb57f75032b3a383053be082c6445314bf3b52f24a43f79e7888405053ef4",
+  "issuer": "Kuşadası Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.05.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "09.05.2022 TARİH VE 5 NOLU MECLİS KARARI: Açmak için Tıklayınız",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.kusadasi.bel.tr/tr/meclis-kararlari-p1016"
+}
