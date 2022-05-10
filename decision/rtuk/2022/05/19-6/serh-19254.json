@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Şerh (karşı oy yazısı)",
+  "meeting": "2022/19",
+  "meeting_date": "2022-05-10",
+  "meeting_date_as_published": "10.5.2022",
+  "decision_no": "6",
+  "source_id": 19254,
+  "title": "RTÜK kararı 2022/19-6 karşı oy yazısı",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/19254",
+  "source_sha256": "18970bb8192d79daf568a0e80883fe7c9ad32a3df0b13c20d9e18ce903c361b2",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (17 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
