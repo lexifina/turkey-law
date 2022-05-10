@@ -1,0 +1,26 @@
+{
+  "number": "11",
+  "number_as_published": "11",
+  "year": 2022,
+  "title": "Hibe aracın kabul edilmesi",
+  "decision_date": "2022-05-10",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/9/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/hibe-aracin-kabul-edilmesi-/27/",
+  "source_sha256": "0e0e104d43ee6714afc7677f432c36b334424218079ee27d8e83c6a5022e9eb6",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-10",
+  "in_force_basis": "Decision date as printed in the official council listing: 10 Mayıs 2022 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/hibe-aracin-kabul-edilmesi-/27/",
+  "listing_label": "Hibe aracın kabul edilmesi",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
