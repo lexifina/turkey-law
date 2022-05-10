@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2022/159",
+  "list_number": "159",
+  "decision_date": "2022-05-10",
+  "title": "Yüksek Seçim Kurulunun 10/05/2022 Tarihli ve 2022/159 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015088/2022-159.pdf",
+  "source_sha256": "7a5749b212e78d8cbadc0ce0599cb1f8c2d0b961ca9dff8649c9bfe15c4649fe",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 3,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2022-05-10",
+  "law_text_complete": false
+}
