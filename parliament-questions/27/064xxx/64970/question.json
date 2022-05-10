@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/64970",
+  "submitted": "2022-05-10",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ÇELEBİ",
+  "province": "İzmir",
+  "summary": "2020-2022 yılları arasında ülke genelinde ve Kütahya'da iş kazası ve meslek hastalığı nedeniyle yaralanan ve yaşamını yitirenlere ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-fb73-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "b3913742900058231b6a72c9eb394810a3a12e10d4d27add40d8e836231b6f03",
+  "in_force": "2022-05-10",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
