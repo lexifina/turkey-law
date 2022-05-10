@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49366803-175.01-6786",
+  "source_id": 37148,
+  "date": "2022-05-10",
+  "title": "Emlak Vergisinde vergi değeri ve yeniden değerleme oranı uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37148",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "45fa1d0d3dadbaf6688d5f74842145dda5482dc7a9b8123fff49f51ee7ee2c68",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
