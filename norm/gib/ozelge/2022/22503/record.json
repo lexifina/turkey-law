@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-125.08-18767",
+  "source_id": 22503,
+  "date": "2022-05-10",
+  "title": "Fiyat farkı faturasının giderleştirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22503",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "71f4d9057e2a9125df1452e877f8c50925bdad9b6efbb721cf5a6250bff4d0dc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
