@@ -1,0 +1,20 @@
+{
+  "number": "651",
+  "title": "PLAN NOTLARI",
+  "decision_date": "2022-05-11",
+  "source": "https://www.tekirdag.bel.tr/meclis_donemleri/meclis_karar_ozetleri/1945",
+  "official_document": "https://www.tekirdag.bel.tr/karar_metin_goruntule/1945/651",
+  "source_sha256": "d8d1fded7aa756ead290ce628e77e97d5cb43b12272a5c91f6d209d747efa45c",
+  "issuer": "Tekirdağ Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "official decision summary (Karar Özeti) as published in the council catalogue; complete decision text is in the linked official PDF, not transcribed",
+  "in_force": "2022-05-11",
+  "in_force_basis": "Official Birleşim Tarihi: 11.05.2022; adoption date for catalogue metadata; legal commencement not asserted",
+  "session": "1 / Oturum No : 1",
+  "missing": [
+    "complete official decision text",
+    "official annexes, including any normative images"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
