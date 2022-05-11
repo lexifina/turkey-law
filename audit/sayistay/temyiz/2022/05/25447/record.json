@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "51727",
+  "decision_date": "2022-05-11",
+  "source_id": 25447,
+  "chamber": "6",
+  "file_number": "44396",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25447/",
+  "source_sha256": "cda19a4591e40db684c201b5aa6f78cf57e6a95a626cf35193b5b8d957af424c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
