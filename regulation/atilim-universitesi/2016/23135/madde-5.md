@@ -1,0 +1,19 @@
+İKİNCİ BÖLÜM
+Lisansüstü Programlara Başvuru Koşulları, Kayıt ve Kabul
+Öğrenci kabulü
+MADDE 5 – (Değişik:RG-14/9/2020-31244)
+(1) Yüksek lisans programlarına lisans başarı düzeyi, ALES sonucu veya Senato tarafından ALES muadili kabul edilen uluslararası bir sınavdan alınan sonuç, İngilizce yürütülen programlar için yabancı dil bilgi düzeyi ve Senato tarafından uygun görülerek adaylara duyurulan diğer ölçütler değerlendirilerek öğrenci alınır. Tezsiz yüksek lisans programlarına kabul edilmek için lisans diplomasına, tezli yüksek lisans programları için ise ayrıca başvurulan programın puan türünde 55 puandan az olmamak koşuluyla Senato tarafından belirlenecek en az ALES puanına sahip olmak gerekir. ALES puanının %50’den az olmamak koşuluyla hangi ağırlıkla değerlendirmeye alınacağı Senato tarafından belirlenir.
+(2) Birinci fıkradaki ALES şartı;
+a) Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarına öğrenci kabulünde,
+b) Doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunlarının yüksek lisans programlarına başvurularında,
+aranmaz.
+(3) İkinci fıkra kapsamındaki adayların değerlendirme işlemleri için;
+a) Senato tarafından mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın, 55’ten düşük 75’ten fazla olmamak üzere bir puan belirlenir ve ilgili programın şartlarında ilan edilir.
+b) Bu adaylar daha önceden aldığı puan türü veya doktora/sanatta yeterlik/uzmanlık alanından, farklı bir alanda başvuru yapabilir.
+c) İlan edilen puan, puan türüne bakılmaksızın ALES puanı olarak hesaplamalara dahil edilir.
+(4) Doktora programlarına lisans ve varsa yüksek lisans başarı düzeyleri, ALES sonucu veya Senato tarafından ALES muadili kabul edilen uluslararası bir sınavdan alınan sonuç, yabancı dil bilgi düzeyi ve Senato tarafından uygun görülüp adaylara duyurulan diğer ölçütler değerlendirilerek öğrenci alınır. Doktora programlarına kabul edilebilmek için tezli yüksek lisans veya lisans diplomasına ve başvurulan programın puan türünde 60 ve lisans diplomasıyla başvuranlarda 80 puandan az olmamak koşuluyla Senato tarafından belirlenecek en az ALES puanına sahip olmak gerekir. Doktora programına başvuracak olanların programa kabulünde, ALES puanı yanı sıra yazılı olarak yapılacak bilimsel değerlendirme sınavı ve/veya mülakat sonucu ile yüksek lisans derecesiyle başvuranlar için yüksek lisans not ortalaması da değerlendirilebilir. ALES puanının %50’den az olmamak koşuluyla hangi ağırlıkla değerlendirmeye alınacağı Senato tarafından belirlenir. Doktora programlarına lisans diploması ile başvuran adayların lisans mezuniyet not ortalamalarının en az 4,00 üzerinden 3,00 veya muadili bir puan olması gerekir.
+(5) Doktora/sanatta yeterlik/tıpta uzmanlık/diş hekimliğinde uzmanlık/veteriner hekimliğinde uzmanlık/eczacılıkta uzmanlık mezunlarının doktora programlarına başvurularında dördüncü fıkradaki ALES şartı aranmaz ve bu adayların değerlendirme işlemleri için;
+a) Senato tarafından mezun olduğu lisansüstü programa girişteki puan türü veya uzmanlık alanı dikkate alınmaksızın, 55’ten düşük 75’ten fazla olmamak üzere bir puan belirlenir ve ilgili programın şartlarında ilan edilir.
+b) Bu adaylar daha önceden aldığı puan türü veya doktora/sanatta yeterlik/uzmanlık alanından, farklı bir alanda başvuru yapabilir.
+c) İlan edilen puan, puan türüne bakılmaksızın ALES puanı olarak hesaplamalara dahil edilir.
+(6) Konservatuvar programları ile güzel sanatlar fakültelerinin sadece özel yetenek sınavı ile öğrenci kabul eden programlarının enstitülerdeki anasanat ve anabilim dallarına öğrenci kabulünde ALES puanı aranmaz. Ancak Senatonun kararı ile ALES puanı aranabilir. ALES puanı istenildiği takdirde taban puan Senato tarafından belirlenir.

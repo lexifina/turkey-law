@@ -1,0 +1,2 @@
+Notlarda maddi hata
+MADDE 19 – (1) Öğrenci İşleri Müdürlüğü tarafından açıklanan yarıyıl sonu ders notlarına ilişkin herhangi bir maddi hatanın yapılmış olması halinde, düzeltme istemi, öğretim elemanının başvurusu üzerine, ilgili EABD tarafından karara bağlanır. Yarıyıl sonu sınavlarından sonra verilen notlarla ilgili maddi hataların en geç ertesi yarıyıl kayıt süresi içinde düzeltilmiş olması gerekir. Daha geç yapılan başvurular, ilgili EYK tarafından karara bağlanır.

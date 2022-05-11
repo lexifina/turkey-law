@@ -1,0 +1,2 @@
+Yeni kayıt ve kayıt yenileme
+MADDE 10 – (1) Öğrenci kayıt işlemleri, Öğrenci İşleri Müdürlüğü tarafından yapılır. Programlara kabul edilen öğrenciler, Öğrenci İşleri Müdürlüğü tarafından istenilen belgeler ile programlara kayıt olurlar. Kaydını akademik takvimde belirtilen süre içinde yenilemeyen öğrencinin kaydı askıya alınır. Kaydı askıya alınan öğrenci öğrencilik haklarından yararlanamaz. Askıya alınan süre öğrenim süresinden sayılır. Öğrencilerin bu süreler için ödeyecekleri ücretlere ilişkin hususlar Mütevelli Heyet tarafından belirlenir.
