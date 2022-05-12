@@ -1,0 +1,22 @@
+{
+  "number": "93",
+  "number_as_published": "2022/93",
+  "year": 2022,
+  "title": "Düğmeciler Mahallesi 992 ada 17 parsele ilişkin 1/1000 ölçekli plan değişikliği",
+  "decision_date": "2022-05-12",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-mayis-ayi-meclis-kararlari/2270",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-93/2277",
+  "source_sha256": "4fa56feb6172d4051a3a4e9221136a0a02da438662af56cce33ff4601249ebdd",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.05.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "21ebd1a42c072f0e8c4ea07b6adfd734b887ef4ab3c8e8cd39216e1bfe90c139"
+}
