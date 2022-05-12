@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[28-2022.4732]-254199",
+  "source_id": 32145,
+  "date": "2022-05-12",
+  "title": "Sabun, şampuan, deterjan ve dezenfektanlarda KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32145",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "cc38fddc0e7ecc9c518a83d7f4713a2d51aadeb0389cc1b3d62d00a755878534",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
