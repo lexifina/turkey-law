@@ -1,0 +1,101 @@
+{
+  "id": "presidency-regulation-5203",
+  "number": "5203",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "4735 SAYILI KAMU İHALE SÖZLEŞMELERİ KANUNUNUN GEÇİCİ 5 İNCİ MADDESİNİN UYGULANMASINA İLİŞKİN ESASLAR",
+  "published": "2022-02-24",
+  "enacted": "2022-02-23",
+  "gazette_number": "31760",
+  "in_force": "2022-05-13",
+  "in_force_basis": "Latest source commencement-table date: 2022-05-13; official source: 12/5/2022 | 5546 | 9, 11 | 13/5/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5203&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "1e59bcd41e3388158cea7b2c860bd5eacd222bbd207fa27e60735d1a18b43579",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 7,
+    "referenced": 0,
+    "omitted": 7
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "6439dc9a76f99d952b39e1b12c2f7789284d6e47c2cb7f9a2e875f4840ec9777",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image001.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "6439dc9a76f99d952b39e1b12c2f7789284d6e47c2cb7f9a2e875f4840ec9777",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image002.png",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "c6044fa5c1a3d1a6269c2c0aae794e23524c05cf273bb010c13b57b8781177b4",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image001.png",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "6439dc9a76f99d952b39e1b12c2f7789284d6e47c2cb7f9a2e875f4840ec9777",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image001.png",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "6439dc9a76f99d952b39e1b12c2f7789284d6e47c2cb7f9a2e875f4840ec9777",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image003.png",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8c658abfbef5fcb11ea93e3c346e300d672ba9dc242d2c3f2098d7adb891dc27",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5203_dosyalar/image004.png",
+      "description": "Official embedded image 7 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 7,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "4d3227ea2ad927545e126990d7a7d83bc2f3c20ff4b88dfd6222ef7cdce4a53b",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
