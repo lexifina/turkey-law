@@ -1,0 +1,12 @@
+{
+  "kind": "decision-metadata",
+  "issuer": "Türkiye Barolar Birliği Disiplin Kurulu",
+  "identifier": "1403",
+  "date": "2022-05-13",
+  "title": "T. 13.05.2022 E. 2022/357 K. 2022/448",
+  "source": "https://www.barobirlik.org.tr/DisiplinKararlariDetay/1403",
+  "listing_source": "https://www.barobirlik.org.tr/DisiplinKararlari?page=13&yil=2022",
+  "listing_sha256": "a8300e7a923fb7de6b0aaf619c4f5adb55f167465589e0f3ec56cda7e9cf35ff",
+  "text_status": "metadata-only-personal-data",
+  "personal_data": "metadata and official link only under shard rule for person-naming disciplinary decisions"
+}
