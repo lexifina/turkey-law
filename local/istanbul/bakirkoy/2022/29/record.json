@@ -1,0 +1,23 @@
+{
+  "number": "29",
+  "number_as_published": "29",
+  "year": 2022,
+  "title": "2021 mali yılı taşınır kesin hesabı",
+  "decision_date": "2022-05-13",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/24",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/29-mali-hizmetler-mudurlugu-2021-mali-yili-tasinir-kesin-hesabii-13052022.pdf",
+  "source_sha256": "4e1576c2c53ffdbc5571325ba6dafe64e93cf2a471d06cd731b8197486de5863",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-05-13",
+  "in_force_basis": "Decision date as printed in the official council listing: 13 Mayıs 2022 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
