@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20135216",
+  "number": "20135216",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "4734 SAYILI KAMU İHALE KANUNUNA GÖRE İHALE EDİLEN MAL ALIMLARINDA UYGULANACAK FİYAT FARKINA İLİŞKİN ESASLAR",
+  "published": "2013-08-31",
+  "enacted": "2013-06-27",
+  "gazette_number": "28751",
+  "in_force": "2022-05-13",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 13/5/2022; source row: 12/5/2022 | 5546 | 2 | 13/5/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20135216&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "ff4c33ff95272ac4ce390a9f4dc8f3d6283a262653b6eaeff6895717a2d5eede",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
