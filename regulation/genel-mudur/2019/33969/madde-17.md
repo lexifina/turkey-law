@@ -1,0 +1,5 @@
+Sınav sonuçlarının değerlendirilmesi
+MADDE 17 – (Değişik:RG-13/5/2022-31834)
+(1) Yazılı ve sözlü sınav yapılması halinde başarı puanı, bu sınavlardan alınan puanların aritmetik ortalamasından oluşur. Sadece sözlü veya sadece yazılı sınav yapılması halinde başarı puanı bu sınavlardan alınan puanlardır. Başarı puanına göre en yüksek puandan başlayarak sınav ilanında belirtilen pozisyon sayısı kadar aday için sıralama yapılır ve nihai başarı sıralaması ilan edilir. Başarılı olanlar arasından sınav ilanında belirtilen pozisyon sayısı kadar yedek aday tespit edilebilir.
+(2) Adayların başarı puanının eşit olması halinde sırasıyla yazılı sınav puanı yüksek olan, bunların eşit olması halinde daha üst öğrenimi bitirmiş olan, bunların eşit olması halinde diploma puanı yüksek olan, bunun da eşit olması halinde yaşı büyük olan aday tercih edilir. Yazılı veya sözlü sınav puanı asgari başarı puanının altında kalanlar başarısız sayılırlar.
+(3) Sonuçlar, PTT’nin internet sitesinde ilan edilir ve bu konuda ayrıca kağıt ortamında herhangi bir yazışma yapılmaz. Yapılan ilan ve bildirim tebliğ niteliğinde olup, adaylara ayrıca yazılı tebligat yapılmaz.

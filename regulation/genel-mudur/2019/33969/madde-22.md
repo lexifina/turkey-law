@@ -1,0 +1,2 @@
+İşe başlama süresi
+MADDE 22 – (1) Bir göreve açıktan atanan personel, atama onayının kendisine tebliğ edildiği tarihten itibaren on beş gün içerisinde atandıkları yerdeki göreve başlamak zorundadır. Geçerli mazereti olmaksızın bu süre içinde göreve başlamayanların atamaları iptal edilir. Askerlik ve mücbir sebepler haricinde göreve başlamama hali iki ayı aştığı takdirde herhangi bir işleme gerek kalmaksızın atama işlemi iptal edilir.

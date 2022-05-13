@@ -1,0 +1,6 @@
+İstekle ayrılma
+MADDE 105 − (1) Personel PTT’ye yazılı olarak müracaat etmek suretiyle görevinden çekilme isteğinde bulunabilir.
+(2) Çekilmek isteyen personel, çekilme isteğinin kabulüne kadar görevine devam eder. Çekilme isteği otuz gün içerisinde onaylanmayan personel görevden ayrılabilir.
+(3) Personel, PTT’ce kabul edilen mazereti olmaksızın görevin terk edilmesi ve bu terkin kesintisiz beş gün veya kesintili olarak bir yılda toplam on gün devam etmesi halinde yazılı müracaat şartı aranmaksızın çekilmiş sayılır.
+(4) Bu madde kapsamında görevinden ayrılan personelden, son iki yıl içerisinde katıldığı yurtiçi veya yurtdışında verilen kurum dışı eğitimlerden, mesleki bilgi ve becerisini artırmak amacıyla ücreti PTT tarafından kişi başı ödenen eğitim ücretleri geri alınır.
+(5) Yönetim Kurulunun uygun görmesi halinde PTT’ye yeniden görev talebiyle atanabilmek için; PTT’de iki yıl görev yapmış olmak, görev yaptığı süre içerisinde uyarma ve kınama hariç disiplin cezası almamış olmak, talepte bulunanların görevden ayrıldığı tarih ile yeniden talepte bulunduğu tarih arasında 10 yıl geçmemiş olmak ve 45 yaşını doldurmamış olmak şartları aranır. Bu hak en fazla iki defa kullanılabilir. Bu şekilde atanacakların sayısı bir önceki takvim yılı içerisinde PTT’den ayrılan personel sayısının yüzde beşini geçemez.

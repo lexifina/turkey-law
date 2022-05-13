@@ -1,0 +1,4 @@
+Engellilik durumu nedeniyle yer değiştirmeler
+MADDE 70 – (1) İlgili mevzuatına göre alınan sağlık kurulu raporunda en az yüzde kırk engelli olduğu belirtilen personel ile ağır engelli raporlu eşi veya bakmakla yükümlü olduğu birinci derece kan hısımları bulunan personel, engellilik durumundan kaynaklanan gerekçelere dayalı olarak yer değiştirme talebinde bulunabilir.
+(2) Personelin kendisinin veya birlikte yaşadığı eşi ve bakmakla yükümlü olduğu çocuklarının engellilik durumunun tedavisi sebebiyle yer değişikliğini talep etmesi halinde, yer değiştirme suretiyle atama yapılacak yerin, personelin ve bu fıkra kapsamındaki yakınlarının engellilik durumuna uygun olması esastır.
+(3) Engellilik durumu devam ettiği sürece personelin; 69 uncu maddenin birinci fıkranın (a) ila (ç) bentlerinde belirtilen durumlar hariç olmak üzere isteği dışında görev yeri değiştirilmez. Engellilik durumu ortadan kalkan personel hakkında bu Yönetmelikte yer alan diğer hükümler uygulanır.

@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.33969",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "POSTA VE TELGRAF TEŞKİLATI ANONİM ŞİRKETİNDE ÇALIŞTIRILACAK İDARİ HİZMET SÖZLEŞMELİ PERSONEL HAKKINDA YÖNETMELİK",
+  "number": "33969",
+  "issuer": "Genel Müdür",
+  "issuer_slug": "genel-mudur",
+  "path": "regulation/genel-mudur/2019/33969",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=33969&MevzuatTertip=5",
+  "source_sha256": "144dfc359220b2f5ad5037a0e04ac077309144d8ce2f66f1497a0531c5beff43",
+  "source_bytes": 274297,
+  "published": "2019-11-19",
+  "gazette": "30953",
+  "in_force": "2022-05-13",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-13/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-13",
+      "RG-13/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-13",
+      "13/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13856,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.33969-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

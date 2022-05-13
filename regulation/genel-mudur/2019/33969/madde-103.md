@@ -1,0 +1,2 @@
+Süre
+MADDE 103 − (1) Görevden uzaklaştırma; bir disiplin kovuşturması icabından olduğu takdirde en çok üç ay devam edebilir. Bu süre sonunda hakkında bir karar verilmediği takdirde personel görevine başlatılır. Görevinden uzaklaştırılanlar hakkında Cumhuriyet savcılıklarına suç duyurusunda bulunulması, bir ceza soruşturması veya kovuşturması olduğu takdirde atamaya yetkili amir ilgilinin durumunu her iki ayda bir inceleyerek görevine dönüp dönmemesi hakkında bir karar verir ve ilgiliye de yazı ile tebliğ eder.

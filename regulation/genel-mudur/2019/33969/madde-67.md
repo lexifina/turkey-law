@@ -1,0 +1,2 @@
+Sağlık durumu nedeniyle yer değiştirmeler
+MADDE 67 − (1) Kendisi, eşi, çocukları veya kanunen bakmakla yükümlü olduğu kimselerden birinin, personelin görev yaptığı yerde kalmasının sağlık durumunu tehlikeye koyacağını hastanelerden alınacak sağlık kurulu raporuyla belgelendirenler, tedavinin yapılabileceği bir sağlık kurumunun bulunduğu veya yakınındaki bir yere yer değiştirme suretiyle atanabilirler.

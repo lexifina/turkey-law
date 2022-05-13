@@ -1,0 +1,3 @@
+Görevde yükselme ve pozisyon değişikliği sınavı personel statüsü
+GEÇİCİ MADDE 2- (Ek:RG-13/5/2022-31834)
+(1) 22/1/1990 tarihli ve 399 sayılı Kanun Hükmünde Kararnameye ekli II sayılı cetvele tabi görev yapan personelden, bu Yönetmelikte belirtilen genel ve özel şartları taşıyan ve görevde yükselme ve pozisyon değişikliği sınavını kazanmaları halinde idari hizmet sözleşmeli olarak atanmayı kabul edenler, açılacak idari hizmet sözleşmeli personel görevde yükselme veya pozisyon değişikliği sınavlarına katılabilirler. Başarılı olanların atanmaları, idari hizmet sözleşmeli personel statüsünde yapılır.

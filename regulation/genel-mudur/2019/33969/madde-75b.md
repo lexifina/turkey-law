@@ -1,0 +1,8 @@
+Görevde yükselme ve pozisyon değişikliği sınav komisyonu
+MADDE 75/B- (Ek:RG-13/5/2022-31834)
+(1) Yapılacak görevde yükselme ve pozisyon değişikliği sözlü sınavlarında, Genel Müdürün görevlendireceği bir başkan ve dört üye olmak üzere beş kişiden müteşekkil yeterince sınav komisyonu oluşturulur. Aynı usulle yedek üyeler de belirlenir.
+(2) Taşra teşkilatında, Genel Müdürlükçe personel görevlendirilmek suretiyle görevde yükselme ve pozisyon değişikliği sınav komisyonu oluşturulabilir.
+(3) Görevde yükselme ve pozisyon değişikliği sınav komisyonunu oluşturan üyeler, bulundukları pozisyonlar ve görevde yükselme ve pozisyon değişikliği sınav duyurusunda ilan edilen öğrenim durumu itibarıyla görevde yükselme ve pozisyon değişikliği sınavına alınacak personelden daha düşük seviyede olamazlar.
+(4) Görevde yükselme ve pozisyon değişikliği sınavına, görevde yükselme ve pozisyon değişikliği sınav komisyonu başkan ve üyelerinin; eşlerinin, ikinci dereceye kadar (bu derece dâhil) kan ve kayın hısımlarının katıldığının tespit edilmesi halinde, bu üye veya üyeler görevde yükselme ve pozisyon değişikliği sınav komisyonu üyeliğinden çıkartılır ve bunların yerine yedek üyeler arasından yeni üye veya üyeler görevlendirilir.
+(5) Görevde yükselme ve pozisyon değişikliği sınav komisyonu, görevde yükselme ve pozisyon değişikliği sözlü sınavlarına katılacak adayları 75/Ç maddesinin ikinci fıkrasının (b) bendi hükümlerine göre değerlendirerek sonucunu görevde yükselme ve pozisyon değişikliği sınav kuruluna bildirir.
+(6) Görevde yükselme ve pozisyon değişikliği sınav komisyonunun sekretarya hizmetleri, merkez teşkilatında İnsan Kaynakları Daire Başkanlığınca, taşra teşkilatında ise insan kaynakları birimlerince yürütülür.

@@ -1,0 +1,2 @@
+Refakat izni
+MADDE 55 − (1) Personelin bakmakla yükümlü olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek ana, baba, eş ve çocukları ile kardeşlerinden birinin ağır bir kaza geçirmesi veya tedavisi uzun süren bir hastalığının bulunması hallerinde, bu hallerin sağlık kurulu raporuyla belgelendirilmesi koşuluyla, aylık ve özlük hakları korunarak, üç aya kadar izin verilir. Bu süre sağlık kurulu raporuyla belgelendirilmesi şartıyla bir katına kadar uzatılır.
