@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-140/ 2022-3",
+  "source_id": 701,
+  "date": "2022-05-13",
+  "title": "17 Mayıs 2022 günü sonuna kadar verilmesi gereken 2022 I. Geçici Vergi Dönemine (Ocak-Şubat-Mart) ait Gelir ve Kurum Geçici Vergi Beyannamelerinin verilme ve ödeme sürelerinin uzatılması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/701",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "cc41764134520cb3c973636aa7205d26dc90621322abf68712706f005df895ce",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
