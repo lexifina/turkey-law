@@ -1,0 +1,2 @@
+Sınav sonuçlarının duyurulması
+MADDE 16- (1) Yazılı sınav sonucu, yazılı sınavın yapıldığı tarihten itibaren 30 gün içinde duyurulur. Sözlü sınav ise yazılı sınav sonucunun duyurulmasından itibaren 30 gün içinde tamamlanır. Yazılı ve sözlü sınav sonuçlarının ortalamalarının alınması suretiyle tespit edilecek olan nihai sonuçlar ise sözlü sınav sonuçlarının duyurulmasından itibaren 30 gün içinde Genel Müdürlük resmi internet sitesinden duyurulur.

@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+b) Aynı düzey görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+c) Genel Müdürlük: Türkiye Elektrik Dağıtım Anonim Şirketi Genel Müdürlüğü merkez ve taşra teşkilatını,
+ç) Görev grupları: Benzer veya aynı düzeydeki unvanların gruplandırılmasını,
+d) Görev unvanı: 5 inci maddede sayılan görev grupları içinde belirtilen görev unvanlarını,
+e) Görevde yükselme: Bu Yönetmelikte belirtilen görevlere aynı veya başka görev gruplarından yapılacak atamaları,
+f) Görevde yükselme sınavı: Bu Yönetmelik hükümlerine göre kadro ve pozisyonlara görevde yükselme suretiyle atanacakların belirlenmesi amacıyla yapılan yazılı ve sözlü sınavı,
+g) Hizmet süresi: 657 sayılı Kanunun 68 inci maddesinin (B) bendine göre hesaplanan süreleri,
+ğ) İş günü: Ulusal bayram, genel tatil ve hafta sonu tatili günleri hariç diğer günleri,
+h) Kadro: 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (b) bendinde tanımlanan ve derecesi, sınıfı ve görev tanımı ile unvanı belirtilerek istihdam edilecek personelin niteliklerinin tanımlandığı Kurum organizasyon şemasındaki yeri,
+ı) Merkez teşkilatı: Genel Müdürlük merkezindeki birimleri,
+i) Pozisyon: Sözleşmeli personelin Kurum organizasyon şemasındaki yeri,
+j) Sınav kurulu: Bu Yönetmelik kapsamında yapılacak yazılı ve sözlü sınavlara ilişkin işlemleri yürütmek üzere oluşturulan kurulu,
+k) Sözleşmeli personel: 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (c) bendinde tanımlanan, söz konusu Kanun Hükmünde Kararnameye tabi olarak sözleşme ile çalıştırılan ve işçi statüsünde olmayan personeli,
+l) Sözlü sınav: Görevde yükselme veya unvan değişikliği suretiyle atanacaklardan, yazılı sınavda başarılı olanların katılacağı sınavı,
+m) Taşra teşkilatı: Genel Müdürlük merkez teşkilatı dışındaki birimleri,
+n) Unvan değişikliği: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+o) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu kazanılan unvanlara ilişkin görevlere atanabilmek için yapılan yazılı ve sözlü sınavı,
+ö) Üst görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+p) Yazılı sınav: Bu Yönetmelik kapsamında görevde yükselmeye tabi kadro ve pozisyonlara atanacaklar ile unvan değişikliğine tabi pozisyonlara atanacakların bilgilerini ölçmek maksadıyla yapılan sınavı,
+ifade eder.
