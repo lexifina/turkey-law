@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10866",
+  "decision_date": "2022-05-17",
+  "source_id": 35689,
+  "chamber": "1",
+  "ilam_number": "85",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35689/",
+  "source_sha256": "2b251cb43c404e037450ff958354be690949abd77638501bdeb4317df5dbc9a9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
