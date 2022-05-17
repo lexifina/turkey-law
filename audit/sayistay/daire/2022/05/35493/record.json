@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "250",
+  "decision_date": "2022-05-17",
+  "source_id": 35493,
+  "chamber": "8",
+  "ilam_number": "167",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35493/",
+  "source_sha256": "009bfaca714d54f9af148022700897f7ea2f2961bc52af66d70ceeedcede15c8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
