@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-105-8400",
+  "source_id": 21556,
+  "date": "2022-05-18",
+  "title": "Zimmet Karşılığı Personele Verilip Kayıtlara Alınan İş Kıyafetlerinin Doğrudan Giderleştirileceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/21556",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "f7922f4df785710588f084b2b5ab093df1b9484d9f52a79bb954f80defefae4a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
