@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "286",
+  "decision_date": "2022-05-18",
+  "title": "-MEC.KAR.(mezitli kuyuluk 217 ada 2 parsel).doc",
+  "listed_as": "286-MEC.KAR.(mezitli kuyuluk 217 ada 2 parsel).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/286-meckarmezitli-kuyuluk-217-ada-2-parseldoc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/18-mayis-2022-meclis-kararlari",
+  "listing_sha256": "31d4fa336cab09f4983309687b1221f1486aede3528fbfcf0ac8bb53b26d1d76",
+  "meeting_title": "18 MAYIS 2022 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
