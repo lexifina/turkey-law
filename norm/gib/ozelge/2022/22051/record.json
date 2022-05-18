@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "26468226-120[ÖZG-11-2021]-52472",
+  "source_id": 22051,
+  "date": "2022-05-18",
+  "title": "Ciro Kaybı Desteğinin Vergilendirilmesi Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22051",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "053adea1b956248a4fcaf814b2996f1635130a95df28959b5ea59609348df1ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
