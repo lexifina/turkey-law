@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/66802",
+  "submitted": "2022-05-18",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ÇELEBİ",
+  "province": "İzmir",
+  "summary": "2020-2022 yılları arasında Kırşehir ilinde faaliyet gösteren esnaf ve sanatkar işletmelerinden tescil ve terkin edilenlere ve faiz destekli kredi kullananlara ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-17c0-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "6cc3092d7b69a24e7abe4ca342a160f007105fc478452a1b7eb1bc9d16714b5a",
+  "in_force": "2022-05-18",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
