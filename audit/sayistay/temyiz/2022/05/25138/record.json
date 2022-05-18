@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52015",
+  "decision_date": "2022-05-18",
+  "source_id": 25138,
+  "chamber": "5",
+  "file_number": "49619",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25138/",
+  "source_sha256": "9702c3ad86fe7b9043ed1153bc794ba9301eeb4478e0e8481a307f89238a25ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
