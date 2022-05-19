@@ -1,0 +1,2 @@
+[1] 19/5/2022 tarihli ve 31840 sayılı Resmî Gazete’de yayımlanan 5592 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu fıkraya “bendi kapsamında” ibaresinden sonra gelmek üzere “yurt içinde veya yurt dışında yerli ve/veya yabancı gerçek ve tüzel kişilerden” ibaresi eklenmiştir.
+[2] 19/5/2022 tarihli ve 31840 sayılı Resmî Gazete’de yayımlanan 5592 sayılı Cumhurbaşkanı Kararının 3 üncü maddesiyle bu fıkrada yer alan “hazırlanır” ibaresi “ya da yabancı ülke para birimi olarak hazırlanır ve o para birimi üzerinden ödemesi yapılır” şeklinde değiştirilmiştir.

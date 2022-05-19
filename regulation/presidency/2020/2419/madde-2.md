@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, güvenlik ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Cumhurbaşkanı veya Bakan tarafından karar verilen veya mevzuatı uyarınca sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal alımı, hizmet alımı ve yapım işleri alımlarını kapsar.

@@ -1,0 +1,4 @@
+İhale dokümanı ve ihale dokümanının verilmesi
+MADDE 14- (1) Genel Müdürlük, bu Usul ve Esaslar kapsamında yapılacak ihaleye ilişkin idari şartnameyi, teknik şartnameyi, sözleşme tasarısını ve standart formları hazırlamaya yetkilidir. Ancak alım işlerinin özelliği nedeniyle Genel Müdürlük tarafından hazırlanmasının mümkün olmadığının, ihale yetkilisi tarafından onaylanması kaydıyla, teknik şartnameler hizmet alımı yapılması suretiyle de hazırlattırılabilir.
+(2) İhale dokümanında, Genel Müdürlüğün bu işlerle ilgili olarak 4734 sayılı Kanundan istisna edildiği ve işi yaptırıp yaptırmamakta, alıp almamakta veya kısmen yaptırmakta serbest olduğu hususlarına yer verilir.
+(3) İhale konusu mal veya hizmet alımına ilişkin idari şartnameler, teknik şartnameler, sözleşme tasarıları ve gerekli diğer belge ve bilgiler Genel Müdürlükçe davet edilen isteklilere bedelli veya bedelsiz olarak verilebilir.

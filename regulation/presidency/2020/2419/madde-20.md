@@ -1,0 +1,2 @@
+Tekliflerin geçerlilik süresi
+MADDE 20- (1) Tekliflerin geçerlilik süresi ihale dokümanında belirtilir. Genel Müdürlükçe ihtiyaç duyulması halinde bu süre, teklif ve sözleşme koşulları değiştirilmemek ve isteklinin kabulü kaydıyla, en fazla ihale dokümanında belirtilen teklif geçerlilik süresi kadar uzatılabilir. Ancak bu sürenin bitimine rağmen ihalenin sonuçlandırılamayacağının ihale komisyonunca belirlenmesi halinde, ihale yetkilisinin onayı ve isteklinin kabulü ile bu süre Genel Müdürlükçe belirlenen şekilde yeteri kadar uzatılabilir.

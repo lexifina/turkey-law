@@ -1,0 +1,2 @@
+Sözleşme yapılmasında Genel Müdürlüğün görev ve sorumluluğu
+MADDE 33- (1) Genel Müdürlük, sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. Genel Müdürlüğün bu yükümlülüğü yerine getirmemesi halinde istekli, sürenin bitmesini izleyen günden itibaren en geç beş gün içinde, on gün süreli bir noter ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde geçici teminat geri verilir ve istekli teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır.

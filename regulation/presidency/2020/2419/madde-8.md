@@ -1,0 +1,9 @@
+Doğrudan temin
+MADDE 8- (1) Genel Müdürlük bu Usul ve Esaslar kapsamındaki ihtiyaçlarını, aşağıda belirtilen hallerde ilan yapılmaksızın, fiyat üzerinde görüşme yaparak doğrudan temin edebilir.
+a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
+b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
+c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
+ç) 4734 sayılı Kanunun 22 nci maddesinin birinci fıkrasının (d) bendinde belirtilen ve her yıl Kamu İhale Kurumunca güncellenen limitin on katı dahilindeki alım işleri.
+d) Bu Usul ve Esaslar kapsamındaki taşınmaz mal alımı veya kiralanması.
+e) (Ek:RG-19/5/2022-31840-C.K-5592/2 md.) İdarece öngörülmeyen durumların ortaya çıkması halinde yazılı gerekçe düzenlemek ve söz konusu durumun ispatına yönelik kanıtlayıcı belgelerin saklanması kaydıyla mal ve hizmet alımları ile yapım işinin zorunlu olması veya pazarlık usulünün uygulanmasına yeterli süre bulunmayan acil ihtiyaçlara yönelik mal ve hizmet alımları ile yapım işleri.
+(2) Bu maddeye göre yapılacak alımlarda; komisyon kurma ve 4734 sayılı Kanunun 10 uncu maddesinde sayılan yeterlik kurallarını arama, teminat alma ve bu madde kapsamında alımı yapılacak malın teslimi veya hizmetin ya da yapım işinin belli bir süreyi gerektirmesi durumunda alımın bir sözleşmeye bağlanması zorunlu olup, bir defa yapılacak alımlarda sözleşme yapılması zorunlu olmadan ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından fiyat araştırması ve fiyat üzerinde görüşmeler yapılarak ihtiyaçlar temin edilir.
