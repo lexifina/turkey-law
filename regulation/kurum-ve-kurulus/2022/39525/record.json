@@ -1,0 +1,33 @@
+{
+  "source_id": "7.5.39525",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜMER HOLDİNG A.Ş. GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39525",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2022/39525",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39525&MevzuatTertip=5",
+  "source_sha256": "7efe0b3e59ce3a3474568cd1645c4ae1fa6562f932d49b3d17df57b0f76c2003",
+  "source_bytes": 17015,
+  "published": "2022-05-19",
+  "gazette": "31840",
+  "in_force": "2022-05-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39525-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
