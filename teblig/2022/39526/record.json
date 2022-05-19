@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.39526",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "4982 SAYILI BİLGİ EDİNME HAKKI KANUNU VE BUNA BAĞLI YÖNETMELİK UYARINCA KARŞILIKLILIK İLKESİ KAPSAMINDA BULUNAN ÜLKELER HAKKINDA TEBLİĞ",
+  "number": "39526",
+  "issuer": "Dışişleri Bakanı",
+  "path": "teblig/2022/39526",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39526&MevzuatTertip=5",
+  "source_sha256": "301d76a4b07f1d00b341f5ac90d456c9a91274f2cd88065f6a496dfc0c92f223",
+  "source_bytes": 225172,
+  "published": "2022-05-19",
+  "gazette": "31840",
+  "in_force": "2022-05-19",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (19.05.2022); own commencement article: \"Bu Tebliğ, yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ, yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2648,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
