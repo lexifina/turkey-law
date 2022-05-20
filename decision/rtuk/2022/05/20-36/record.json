@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2022/20",
+  "meeting_date": "2022-05-20",
+  "meeting_date_as_published": "20.5.2022",
+  "decision_no": "36",
+  "source_id": 17759,
+  "title": "RTÜK kararı 2022/20-36",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/17759",
+  "source_sha256": "1d3f16ac7f06766f9fe0689381237918af73503918cd4cba8aaa978b27171142",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (1 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
