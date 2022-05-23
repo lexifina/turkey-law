@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "70903105-165.01.03[456]-66747",
+  "source_id": 37564,
+  "date": "2022-05-23",
+  "title": "Yurtdışında yaşanan savaş dolayasıyla gerçekleşmeyen ihracat dolayısıyla peşin alınan ihracat bedelinin iadesi nde KKDF kesintisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/502/ozelge/37564",
+  "related_law": "4684 sayılı BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "72433ad8bfef3cda7877a993403796f2c50c9223609649a60b6693bdb21e0624",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
