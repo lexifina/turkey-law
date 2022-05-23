@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 5,
+  "esas_no": "7/67159",
+  "submitted": "2022-05-23",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Mehmet Ali ÇELEBİ",
+  "province": "İzmir",
+  "summary": "Manisa ilinde Bakanlığa bağlı kurumlarda engelli personel istihdamına ve kurum binalarının engelli kullanımına uygunluğuna ilişkin",
+  "status": "Cevaplanmadığı Gelen Kağıtlarda İlan Edildi",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c1-e681-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "3961522a0f3d31d87e5296d123c1e1bcba616a5ba2541ac5c37d759a5d32e3d7",
+  "in_force": "2022-05-23",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
