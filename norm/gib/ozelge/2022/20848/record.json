@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "35831311-010.01-11832",
+  "source_id": 20848,
+  "date": "2022-05-23",
+  "title": "Hazır kamera bordları yerleştirilen çeşitli ürünlerin satışının esnaf muaflığı kapsamında olması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20848",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ff033c154ed35c2d17bf463ff0c6e4f0271d7bb62fa2003e29b2480a1399eb64",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
