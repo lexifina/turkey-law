@@ -1,0 +1,12 @@
+Düzenleme Kurulunun Görevleri
+Madde 9 — Düzenleme kurulunun görevleri şunlardır :
+a) Toplantının ve gösteri yürüyüşünün bildirimde belirtilen yer, gün ve saatte yapılmasını ve bitirilmesini sağlamak,
+b) Toplantının ve gösteri yürüyüşünün bildirimde belirtilen amacına uygun yapılmasını ve amacından sapmasını önleyici tedbirler almak,
+c) Toplantı ve gösteri yürüyüşünün sükûn içinde, çevreyi ve katılmayanları rahatsız etmeyecek şekilde geçmesini sağlamak,
+d) Toplantı ve gösteri yürüyüşünün yapılmasına engel olanlarla, devamına imkân vermeyecek tertiplere girişenleri, toplantıyı amacından saptırmak isteyenleri, güvenlik kuvvetlerine bildirmek,
+e) (Değişik:RG-5/8/2015-29436) Ateşli silahlar veya havai fişek, molotof ve benzeri el yapımı olanlar dahil patlayıcı maddeler veya her türlü kesici, delici aletler veya taş, sopa, demir ve lastik çubuklar, boğma teli veya zinciri, demir bilye ve sapan gibi bereleyici ve boğucu araçlar veya yakıcı, aşındırıcı, yaralayıcı eczalar veya diğer her türlü zehirler veya her türlü sis, gaz ve benzeri maddeleri toplantı yerine sokmak isteyen kişileri önlemek, bu gibilerin varlığından güvenlik kuvvetlerini haberdar etmek, yakalanmalarına yardımcı olmak,
+f) (Değişik:RG-5/8/2015-29436) Yasadışı örgüt ve topluluklara ait amblem ve işaret taşınarak veya bu işaret ve amblemleri üzerinde bulunduran üniformayı andırır giysiler giyilerek veya kimliklerini gizlemek amacıyla yüzlerini tamamen veya kısmen bez vesair unsurlarla örterek toplantı ve gösteri yürüyüşlerine katılan ve kanunların suç saydığı nitelik taşıyan afiş, pankart, döviz, resim, levha, araç ve gereçler taşıyarak veya bu nitelikte sloganlar söyleyerek veya ses cihazları ile yayınlayarak, toplantı ve gösteri yürüyüşüne katılmak isteyen kişileri önlemek amacıyla, bu gibilerin varlığından güvenlik kuvvetlerini haberdar etmek, yakalanmalarına yardımcı olmak,
+g) (Değişik:RG-5/8/2015-29436) Halkı suç işlemeye özendirici konuşmaları önlemek,
+h) Toplantının ve gösteri yürüyüşünün amacı dışında veya kanunun suç saydığı sloganların söylenmesini veya ses yayın cihazları ile yayımını önleyici tedbirler almak, bu gibi davranışları güvenlik kuvvetlerine haber vermek ve faillerini yakalatmak,
+i) Toplantı ve gösteri yürüyüşüne katılacakların toplantı yerine gelişlerinde, gerekiyorsa, kimliklerinin tesbiti ve benzeri faaliyetlerde güvenlik kuvvetlerine yardımcı olmak,
+j) (Değişik:RG-5/8/2015-29436) Toplantının ve gösteri yürüyüşünün kanunlara uygun yürütülmesi amacı ile yetkili kolluk amirince istenen hususları yerine getirmek ve çalışmalarına yardımcı olmak.

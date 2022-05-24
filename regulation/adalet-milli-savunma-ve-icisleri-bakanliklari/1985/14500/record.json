@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.14500",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPLANTI VE GÖSTERİ YÜRÜYÜŞLERİ KANUNUNUN UYGULANMASINA DAİR YÖNETMELİK",
+  "number": "14500",
+  "issuer": "Adalet, Milli Savunma ve İçişleri Bakanlıkları",
+  "issuer_slug": "adalet-milli-savunma-ve-icisleri-bakanliklari",
+  "path": "regulation/adalet-milli-savunma-ve-icisleri-bakanliklari/1985/14500",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=14500&MevzuatTertip=5",
+  "source_sha256": "e3b076369985cd5b63c75025be115077ced17265508b1c2c4c1be67f5b083a45",
+  "source_bytes": 47258,
+  "published": "1985-08-08",
+  "gazette": "18836",
+  "in_force": "2022-05-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-24",
+      "RG-24/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-08-05",
+      "RG-5/8/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-20",
+      "RG-20/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2002-10-22",
+      "RG-22/10/2002",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3388,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

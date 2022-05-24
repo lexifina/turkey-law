@@ -1,0 +1,2 @@
+Alındı Belgesi
+Madde 6 — Bu yönetmeliğin 5 inci maddesine uygun düzenlenmiş bildirim ve ekleri için, mahallin en büyük mülkî amirliğince, düzenleme kurulu başkan veya üyelerine, bildirimin alındığı gün ve saati gösteren bir "alındı belgesi" ile toplantının yerini, gününü, başlangıç ve bitim saatlerini ve düzenleme kurulunun görev ve sorumluluklarını belirliyen önceden hazırlanmış bir talimat verilir.

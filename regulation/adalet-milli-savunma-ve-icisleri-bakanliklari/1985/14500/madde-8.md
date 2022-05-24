@@ -1,0 +1,4 @@
+Noter Kanalıyla İhbar
+Madde 8 — Bildirim, kanunî şartları haiz olmasına rağmen mahallin en büyük mülkî amirliğince kabul edilmez veya karşılığında alındı belgesi verilmezse, düzenleme kurulu bu durumu bir tutanakla tesbit eder ve noter vasıtasıyle mahallin en büyük mülkî âmirine ihbarda bulunur.
+Noter vasıtası ile ihbar yapılmış olsa bile, bildirimin kanunun öngördüğü bilgileri taşımadığının, belgelerin eksik veya verilen bilgilerin yanlış olduğunun veya aynı gün, saat ve yer-de toplantı yapmak üzere daha önce bildirimde bulunulduğunun tesbiti halinde, durum, mahallin en büyük mülkî amirliğince düzenleme kurulu başkan veya üyelerine en seri şekilde yazı ile duyurulur.
+Yazılı olarak bildirilmesine rağmen, gerekli görülürse, toplantının yapılmayacağı hususu mutad vasıtalar ile halka duyurulur.
