@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10869",
+  "decision_date": "2022-05-24",
+  "source_id": 35849,
+  "chamber": "1",
+  "ilam_number": "95",
+  "item_number": 8,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35849/",
+  "source_sha256": "78e724ae32b68ea8598682b59eca4c815057bfcd0224f3e35acd0ee7035afdc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
