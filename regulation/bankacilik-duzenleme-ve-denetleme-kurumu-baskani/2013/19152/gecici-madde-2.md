@@ -1,0 +1,3 @@
+Olağanüstü hal kapsamında gecikme süresi
+GEÇİCİ MADDE 2 – (Ek:RG-14/12/2016-29918) (2)
+(1) 6 ncı maddenin birinci ve altıncı fıkrasında yer alan gecikme süreleri 20/7/2016 tarihli ve 2016/9064 sayılı Bakanlar Kurulu Kararıyla ülke genelinde ilan edilen olağanüstü hal kapsamında yürürlüğe konulan Kanun Hükmünde Kararnameler gereğince kapatılan, Vakıflar Genel Müdürlüğüne veya Hazineye devredilen veya Tasarruf Mevduatı Sigorta Fonunun kayyım olarak atandığı kredi borçlularının ve olağanüstü hal kapsamında görevinden ihraç edilen kamu görevlileri ile malvarlıklarına tedbir konulan gerçek ve tüzel kişilerin şirketlere olan yükümlülükleri açısından 21 Ocak 2017 tarihinden itibaren başlatılabilir. Kurul bu süreyi uzatmaya yetkilidir.

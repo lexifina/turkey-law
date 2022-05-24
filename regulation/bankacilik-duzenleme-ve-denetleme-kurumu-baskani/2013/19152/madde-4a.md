@@ -1,0 +1,5 @@
+Kayıttan düşme
+MADDE 4/A – (Ek:RG-27/11/2019-30961)(4)
+(1) Bu Yönetmeliğin 6 ncı maddesi uyarınca “Zarar Niteliğindeki Alacaklar” hesabında izlenen ve borçlunun temerrüdü nedeniyle ömür boyu beklenen kredi zararı karşılığı veya özel karşılık ayrılan alacakların geri kazanılmasına ilişkin makul beklentiler bulunmayan kısmı, bu alacakların “Zarar Niteliğindeki Alacaklar” hesabına aktarılmalarını takip eden ilk raporlama döneminden (ara dönem veya yıl sonu raporlama dönemi) itibaren TFRS 9 kapsamında kayıtlardan düşülebilir.
+(2) Tahsil imkânı kalmayan alacakların bu maddenin birinci fıkrası kapsamında kayıtlardan düşülmesi bir muhasebe uygulamasıdır ve alacak hakkından vazgeçilmesi sonucunu doğurmaz.
+(3) Alacakların geri kazanılmasına ilişkin makul beklentilerin bulunmadığına ilişkin olarak şirketçe belirlenen göstergeler ve kayıttan düşülmüş olmakla birlikte takibi yapılan alacaklara ilişkin politikalar da dâhil olmak üzere kayıttan düşme politikası, TFRS 9 kapsamında dönem içerisinde kayıttan düşülen tutarlar ve bunun takibe dönüşüm oranına olan etkisi finansal tabloların dipnotlarında açıklanır.
