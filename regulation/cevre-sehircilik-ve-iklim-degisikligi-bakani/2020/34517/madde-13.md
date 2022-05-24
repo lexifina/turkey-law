@@ -1,0 +1,3 @@
+Görevde yükselme ve unvan değişikliği sınavı sonucu atanma
+MADDE 13 – (1) Görevde yükselme veya unvan değişikliği sınavı sonucu ataması yapılanlardan, istekleriyle eski görevlerine dönenler, sınav sonucu kazandığı unvana yeniden atanma talebinde bulunması halinde eksik kalan hizmet süresini tamamlamak üzere eski görev yerlerine, söz konusu kadronun dolu olması durumunda ise, eski görev yerinin bulunduğu hizmet bölgesindeki diğer hizmet alanlarına atanabilir.
+(2) Görevde yükselme veya unvan değişikliği sınavı sonucunda, aynı unvana ataması yapılan personel gerekli diğer şartları taşımaları kaydıyla, aynı hizmet bölgesi içerisinde becayiş talebinde bulunabilir.

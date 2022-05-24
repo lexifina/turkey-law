@@ -1,0 +1,2 @@
+Bakanlıkta geçen hizmet süresi
+GEÇİCİ MADDE 1 – (1) 2/7/2018 tarihli ve 703 sayılı Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname ile mülga Maliye Bakanlığından Bakanlığa devredilen personelin bu kurumlarda geçen hizmet sürelerinin, bu Yönetmelik kapsamındaki unvanlarda geçen kısımları zorunlu çalışma süresinin hesabında değerlendirilir.
