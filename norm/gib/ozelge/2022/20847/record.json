@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-21-20]-123468",
+  "source_id": 20847,
+  "date": "2022-05-24",
+  "title": "Evde canlı çiçek üretimi yapılıp internet üzerinden satılması halinde esnaf muaflığından yararlanılıp yararlanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20847",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "ed0772515b42b31dfd55a4750a625585aa5fba3883bc30337bc2657c7cad2de4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
