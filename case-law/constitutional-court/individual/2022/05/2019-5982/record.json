@@ -1,0 +1,20 @@
+{
+  "applicant": "M.R.T. A.Ş. (2)",
+  "application_date": "2019-02-15",
+  "application_number": "2019/5982",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2022-05-25",
+  "id": "01f6cfa0-1162-87f0-4ef4-ea5645a3d51e",
+  "in_force": "2022-05-25",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjAxZjZjZmEwLTExNjItODdmMC00ZWY0LWVhNTY0NWEzZDUxZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "3760001096962bbeacd7e7b511c7f048051b2d461ed597194fc286fd1a30ac36",
+  "version_label": "as-enacted"
+}
