@@ -1,0 +1,2 @@
+Banka yıllık faaliyet raporunun denetimi
+MADDE 21 – (1) Kanunun 40 ıncı maddesi ve Bankalarca Yıllık Faaliyet Raporunun Hazırlanmasına ve Yayımlanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik uyarınca düzenlenen yıllık faaliyet raporunun, ilgili olduğu hesap dönemi sonu itibarıyla bağımsız denetim gerçekleştiren bağımsız denetim kuruluşu tarafından denetlenmesi ve rapor hakkında görüş bildirilmesi zorunludur.

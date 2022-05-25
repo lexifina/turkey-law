@@ -1,0 +1,15 @@
+Listeden süresiz olarak çıkarılma
+MADDE 15 – (1) Aşağıdaki hallerin bir veya birkaçının tespiti halinde bağımsız denetim kuruluşu Kurul tarafından süresiz olarak Listeden çıkarılır:
+a) Yetkinin kasten yanlış veya yanıltıcı beyanlarda bulunmak suretiyle ya da hukuka aykırı diğer yollarla alınması,
+b) 8 inci maddenin birinci fıkrasının (c) bendi hariç olmak üzere gerekli koşulların taşınmadığının sonradan anlaşılması veya kaybedilmesi,
+c) Daha önce 14 üncü madde uyarınca işlem tesis edilmiş bir bağımsız denetim kuruluşunda aynı maddede belirtilen durumlardan en az birinin, geçici olarak Listeden çıkarıldığı süre hesaba katılmaksızın, beş yıl içinde gerçekleşmesi,
+ç) Finansal tabloların doğruluğunu ve güvenilirliğini önemli ölçüde etkileyecek hususların ortaya çıkması halinde, bağımsız denetim kuruluşunun bu hususta kusurlu olmadığını kanıtlayamaması,
+d) Bağımsız denetim kuruluşunun ya da istihdam edilen bağımsız denetçilerin bağımsızlığını ortadan kaldıran hususlar karşısında TTK’nın 400 üncü maddesi ile BDY ve TDS hükümlerinde öngörülen tedbirler alınmaksızın denetim faaliyetinin gerçekleştirilmesi,
+e) 22 nci maddenin birinci fıkrasına aykırı olarak sır niteliğindeki bilgilerin korunmasına yönelik gerekli tedbirlerin alınmaması,
+f) Gerekli mesleki yeterlik ve özenin gösterilmemesi, yeterli kanıt elde edilmeksizin denetim raporu düzenlenmesi veya mevzuatta öngörülen diğer yükümlülüklere uygun hareket edilmemesi ve sair suretle gerçeğe aykırı görüş bildirilmesi,
+g) Etik kurallara uyulmaması veya mesleki yeterliğin zafiyete uğraması, kaliteli ve güvenilir denetimler gerçekleştirilmemesi ve sair nedenlerle itibarın önemli ölçüde zedelenmesi,
+ğ) Listeden süresiz olarak çıkarılmasını gerektirecek ölçüde hata veya hile kaynaklı önemli yanlışlıklar ya da denetim standartlarına, etik kurallara ve ilgili mevzuata aykırı işlem ve uygulamalar tespit edilmesi,
+h) Karar eki I Sayılı Listenin (2) numaralı kısmında belirtilen Kurum düzenleme ve denetimine tabi şirketlerde kesintisiz olarak beş hesap dönemi bağımsız denetim faaliyetinde bulunulmaması,
+ı) Bu Yönetmelik kapsamında devam eden bağımsız denetim sözleşmesinin bulunmaması ya da ilgili mevzuat uyarınca bağımsız denetim sözleşmesinin feshedilmiş olması koşuluyla bağımsız denetim kuruluşu tarafından Listeden süresiz olarak çıkarılmanın talep edilmesi.
+(2) 8 inci maddenin birinci fıkrasının (c) bendinde belirlenen koşullara sonradan uyumsuzluk oluşması halinde Kuruma derhal bilgi verilmesi ve uyumsuzluğun oluştuğu tarihten itibaren en geç üç ay içinde giderilmesi gereklidir. Kurum, zorunlu görülen durumlarda iki ayı geçmemek üzere ilave süre vermeye yetkilidir. Belirtilen süreler içinde uyumsuzluğun giderilememesi durumunda kuruluş Listeden süresiz olarak çıkarılır.
+(3) 8 inci maddenin birinci fıkrasının (d) ve (e) bendine aykırı bir durumun oluşması halinde, yetki iptaline neden olan işlem ve uygulamaların niteliği, bağımsız denetim kuruluşunun mesleki yeterliği ile itibarı üzerindeki etkisi de göz önünde bulundurulmak suretiyle, kuruluş Kurul tarafından Listeden süresiz olarak çıkarılabilir.

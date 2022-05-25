@@ -1,0 +1,3 @@
+Bilgi sistemleri denetimi
+MADDE 5 – (1) Bağımsız denetim kuruluşu; bağımsız denetim ve BSD faaliyetlerinin karşılıklı olarak denetim kapsamını, incelemelerin tür, zamanlama ve detay seviyesini ve denetim sonuçlarını etkilediğini dikkate almak suretiyle, her iki denetime ilişkin faaliyetleri bütünsel bir yaklaşımla ve etkin şekilde planlayarak yürütür.
+(2) Bağımsız denetçi, denetlenen bankada gerçekleştirilmiş ve gerçekleştirilmekte olan BSD neticesinde ulaşılan tespitlerin yanında, bilgi sistemleri ve bankacılık süreçlerinin ve bu sistem ve süreçlere ilişkin iç kontrollerin uyumluluk, etkinlik ve yeterliliğine ilişkin oluşturulan görüşü, finansal raporlamalara ve bağımsız denetim faaliyetine etkisi yönüyle dikkate alır.

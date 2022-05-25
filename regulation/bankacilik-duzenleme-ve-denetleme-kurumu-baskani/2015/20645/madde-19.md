@@ -1,0 +1,4 @@
+Mesleki sorumluluk sigortası
+MADDE 19 – (1) 8 inci maddenin birinci fıkrasının (ç) bendi kapsamında mesleki sorumluluk sigortası yaptırılacak sigorta şirketi, bağımsız denetim sözleşmesi yapılan banka ya da bankanın doğrudan ya da dolaylı olarak kontrol ettiği iştiraki veya bağlı ortaklığı olamaz.
+(2) Mesleki sorumluluk sigortası poliçesi, belirlenen tutarı açıkça gösterir şekilde düzenlenir. Poliçenin bir örneği, yaptırıldığı tarihten itibaren (Değişik ibare:RG-25/5/2022-31846) otuz gün içinde cari yıl bütçelenen ciro tutarına ilişkin yönetim organı kararı, geçmiş yıl cirosuna dair beyan ve mali tablolar ile birlikte bağımsız denetim kuruluşu tarafından Kuruma gönderilir ve buna ilişkin bankanın denetim komitesine bilgi verilir.
+(3) (Ek:RG-25/5/2022-31846) İlgili hesap döneminde bankalarda bağımsız denetim faaliyeti yürütülmemesi durumunda mesleki sorumluluk sigortasının gönderilme zorunluluğu bulunmamaktadır.

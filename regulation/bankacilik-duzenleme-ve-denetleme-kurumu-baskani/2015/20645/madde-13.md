@@ -1,0 +1,4 @@
+Listeye alınma
+MADDE 13 – (1) 8 ve 9 uncu maddelerde sayılan koşulları taşıyan ve 10 ve 11 inci maddelerde belirtilen bilgi ve belgelerle yazılı başvuruda bulunan bağımsız denetim kuruluşları, gerekli bilgi ve belgelerin tamamlanmasını müteakip yapılacak değerlendirmeler sonucunda, Kurulca, bu Yönetmelik kapsamında aranan koşullara ve faaliyet konularını yürütebilecek yeterliliğe sahip oldukları kanaatine varılması halinde Listeye alınır.
+(2) Kurum, bu Yönetmelikte yer alan hükümler göz önünde bulundurularak yapılacak değerlendirmeler kapsamında, Listeye alınmak için başvuran bağımsız denetim kuruluşunun mesleki ve teknik donanımının yeterliliğinin tespitine yönelik olarak yerinde inceleme yapmaya yetkilidir.
+(3) Kurulca Listeye alınan bağımsız denetim kuruluşları Kurumun internet sitesinde kamuoyuna duyurulur ve Listeye eklenir.
