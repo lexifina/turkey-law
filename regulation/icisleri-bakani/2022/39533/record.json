@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39533",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAHİL GÜVENLİK KOMUTANLIĞI PERSONELİNİN LİSANSÜSTÜ EĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "number": "39533",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2022/39533",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39533&MevzuatTertip=5",
+  "source_sha256": "f4ab319f5b98aeb5edaebe871a1ecb15b85dbc3bf551c7ca87792f9295e1815e",
+  "source_bytes": 62923,
+  "published": "2022-05-25",
+  "gazette": "31846",
+  "in_force": "2022-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3681,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39533%20Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
