@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39532",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DARPHANE VE DAMGA MATBAASI GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39532",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2022/39532",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39532&MevzuatTertip=5",
+  "source_sha256": "66e9d22a707a6b29e9d3e60ed78ce77f73caffdb87e8fe5b70630901551b1bda",
+  "source_bytes": 10039,
+  "published": "2022-05-25",
+  "gazette": "31846",
+  "in_force": "2022-05-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 163,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39532%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
