@@ -1,0 +1,20 @@
+{
+  "applicant": "A.A.T.S.Ş.",
+  "application_date": "2018-12-27",
+  "application_number": "2019/308",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2022-05-25",
+  "id": "c7d0e382-f443-533a-789d-e4e998ecac5f",
+  "in_force": "2022-05-25",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmM3ZDBlMzgyLWY0NDMtNTMzYS03ODlkLWU0ZTk5OGVjYWM1Zg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "737dd8d5c3c176ed79a94c2db5335467c644e44c889833f23b6322514820da5f",
+  "version_label": "as-enacted"
+}
