@@ -1,0 +1,5 @@
+Disiplin kurulunun oluşumu ve işleyişi
+MADDE 17- (1) Disiplin kurulu; gençlik kampı müdürünün başkanlığında, koordinatör veya program sorumlusu ve ilgili kampçıdan sorumlu kamp lideri olmak üzere üç kişiden oluşur. Disiplin kurulu oy çokluğu ile karar alır.
+(2) Kampçıdan sorumlu kamp lideri tarafından disiplin kuruluna sevk edilen kampçı, olaya ilişkin açıklama yapması için çağrılır.
+(3) Disiplin kurulu; kampçıya, işlediği fiile uygun olarak uyarma veya kamptan çıkarma cezası verebilir. Disiplin cezalarına ilişkin alınan kararlar disiplin kurulu tarafından tutanağa bağlanır. Kurul, kararlarını tutanağa bağladıktan sonra uygulamaya koyar. İki nüsha düzenlenen tutanağın bir nüshası kampçıya verilir ve diğer nüshası dosyasında muhafaza edilir. Kamptan çıkarma cezasının uygulanması halinde ivedilikle il müdürlüğüne bilgi verilir.
+(4) Kampçı on sekiz yaşından küçük ise disiplin kurulu tarafından alınan karar velisi veya vasisine de ayrıca bildirilir. On sekiz yaşından küçük kampçıların kamptan çıkarma cezası alması durumunda velisi veya vasisine teslim edilmesine ilişkin hususlar Bakanlık tarafından belirlenir.
