@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35714",
+  "decision_date": "2022-05-26",
+  "source_id": 35966,
+  "chamber": "2",
+  "ilam_number": "109",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35966/",
+  "source_sha256": "08cae6e3405b6f88fee9fa1d389812b50c2613abb4b8088b36e12600d788bde8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
