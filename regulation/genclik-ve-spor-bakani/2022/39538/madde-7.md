@@ -1,0 +1,6 @@
+Gençlik merkezi faaliyetleri
+MADDE 7- (1) Gençlik merkezleri, Bakanlık politikalarına uygun olarak gençlerin ihtiyaçları, ilgileri, istekleri ile bulunduğu ilin/ilçenin şartlarını da göz önünde bulundurarak gençlik çalışmalarını atölye ve kulüp faaliyetleri olarak aşağıda belirtildiği şekilde yürütür:
+a) Atölye faaliyetleri, hayatın her alanıyla ilgili takım ruhu ve aktif katılımın öne çıktığı atölye çalışmaları ile bu çalışmalardaki teorik boyut, gençlerin bilgiyi hayatta kullanmalarını sağlayacak şekilde yaygın eğitim teknikleri başta olmak üzere çeşitli uygulamalı yöntemler kullanılarak gerçekleştirilen eğitimlerdir.
+b) Kulüp faaliyetleri, gençlerin ilgi duydukları alanın özelliğine göre kendilerini ifade edebilecekleri ve geliştirebilecekleri her türlü faaliyeti tasarladığı, planladığı ve gerçekleştirdiği çalışmalardır.
+(2) Gençlik merkezlerinde eğitsel, sosyal, kültürel ve sportif etkinlikler kapsamında güzel sanatlar, bilim, teknoloji, inovasyon, sağlıklı yaşam, kişisel gelişim, gönüllülük ve benzeri alanlarda atölye ve kulüp faaliyetleri gerçekleştirilir.
+(3) Gençlik merkezinin diğer kamu kurum kuruluşları, yerel yönetimler, üniversiteler ve sivil toplum kuruluşlarıyla birlikte bulunduğu ilde yapacakları yerel faaliyetler, il müdürlüğünün onayıyla yürütülür.

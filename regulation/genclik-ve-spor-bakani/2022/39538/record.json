@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39538",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI GENÇLİK MERKEZLERİ YÖNETMELİĞİ",
+  "number": "39538",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2022/39538",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39538&MevzuatTertip=5",
+  "source_sha256": "498ad3fdd80eaf33a58ff2ad113c1efe9118fced2922e620399581e58fb3de2c",
+  "source_bytes": 41684,
+  "published": "2022-05-26",
+  "gazette": "31847",
+  "in_force": "2022-05-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1908,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
