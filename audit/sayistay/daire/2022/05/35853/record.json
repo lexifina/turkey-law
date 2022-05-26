@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10870",
+  "decision_date": "2022-05-26",
+  "source_id": 35853,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 2,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35853/",
+  "source_sha256": "d512c83a0ada1620bb19140dc5eb5d708eb7467c54dfd8c5ba398bd50fd44dd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
