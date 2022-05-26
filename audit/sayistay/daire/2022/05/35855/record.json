@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10870",
+  "decision_date": "2022-05-26",
+  "source_id": 35855,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 4,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35855/",
+  "source_sha256": "018723d730478a85040925e7bb566c6065e56babd47a6a73f03a634138307dba",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
