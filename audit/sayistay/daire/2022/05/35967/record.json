@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35714",
+  "decision_date": "2022-05-26",
+  "source_id": 35967,
+  "chamber": "2",
+  "ilam_number": "109",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35967/",
+  "source_sha256": "36d7b9db08b9160dab6360155cbcaf4e6fa35238833fda847dfc434794854015",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
