@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "406",
+  "decision_date": "2022-05-26",
+  "source_id": 35295,
+  "chamber": "3",
+  "ilam_number": "113",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35295/",
+  "source_sha256": "069af33641b41ff124fa92cbb187e6f3e1534209b851f14af85b96d07aafad06",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
