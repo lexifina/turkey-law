@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10870",
+  "decision_date": "2022-05-26",
+  "source_id": 35856,
+  "chamber": "1",
+  "ilam_number": "96",
+  "item_number": 5,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35856/",
+  "source_sha256": "960809893530878d0fed3873cc2c07bd03fbf6071fc5cd954e72aeb7469efd8b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
