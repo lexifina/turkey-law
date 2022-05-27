@@ -1,7 +1,7 @@
 ÜÇÜNCÜ BÖLÜM
 İşkence ve Eziyet
 İşkence
-Madde 94- (1) Bir kişiye karşı insan onuruyla bağdaşmayan ve bedensel veya ruhsal yönden acı çekmesine, algılama veya irade yeteneğinin etkilenmesine, aşağılanmasına yol açacak davranışları gerçekleştiren kamu görevlisi hakkında üç yıldan oniki yıla kadar hapis cezasına hükmolunur.
+Madde 94- (1) Bir kişiye karşı insan onuruyla bağdaşmayan ve bedensel veya ruhsal yönden acı çekmesine, algılama veya irade yeteneğinin etkilenmesine, aşağılanmasına yol açacak davranışları gerçekleştiren kamu görevlisi hakkında üç yıldan oniki yıla kadar hapis cezasına hükmolunur. (Ek cümle:12/5/2022-7406/4 md.) Suçun kadına karşı işlenmesi hâlinde cezanın alt sınırı beş yıldan az olamaz.
 (2) Suçun;
 a) Çocuğa, beden veya ruh bakımından kendisini savunamayacak durumda bulunan kişiye ya da gebe kadına karşı,
 b) Avukata veya diğer kamu görevlisine karşı görevi dolayısıyla,
