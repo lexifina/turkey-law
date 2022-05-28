@@ -1,0 +1,3 @@
+Rızai satış asgari bedelinin belirlenmesi
+MADDE 8- (1) İcra müdürü, rızai satış asgari bedelini belirlemek için haczedilen malın sicile kayıtlı takyidatlarını temin ederek rüçhan hakkı alacaklısından alacağının devam edip etmediğini, devam ediyor ise alacak miktarını sorar.
+(2) Belirlenen rızai satış bedeli, haczedilen malın kesinleşen muhammen kıymetinin yüzde doksanına karşılık gelen miktar ile o malla güvence altına alınan ve satış isteyenin alacağına rüçhanı olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca bu miktara ilave olarak bu aşamaya kadar haczedilen mal için yapılan takip masrafları toplamından az olamaz.

@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39545",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İCRA VE İFLÂS KANUNU UYARINCA BORÇLUYA SATIŞ YETKİSİ VERİLMESİNE DAİR YÖNETMELİK",
+  "number": "39545",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2022/39545",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39545&MevzuatTertip=5",
+  "source_sha256": "dbcb25318c69c9a1ddbbd04354ada5ff95cb643a5a19c72b16a1d57567018901",
+  "source_bytes": 55028,
+  "published": "2022-05-28",
+  "gazette": "31849",
+  "in_force": "2022-05-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1319,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39545-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

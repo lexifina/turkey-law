@@ -1,0 +1,3 @@
+İcra dairesine bildirim
+MADDE 10- (1) Borçlunun, anlaştığı alıcının adı ve soyadını, Türkiye Cumhuriyeti kimlik numarasını, tüzel kişi ise unvanını, vergi kimlik numarasını, ticaret sicil numarasını, MERSİS numarasını, anlaştıkları bedeli ve malın ayırt edici özelliklerini verilen on beş günlük süre içinde icra dairesine bildirmesi gerekir.
+(2) Alıcının, adı ve soyadını, Türkiye Cumhuriyeti kimlik numarasını, tüzel kişi ise unvanını, vergi kimlik numarasını, ticaret sicil numarasını ve MERSİS numarasını, tebligata elverişli adresini, iletişime yarar bilgilerini, banka hesap bilgilerini, borçluyla anlaştıkları bedeli ve malın ayırt edici özelliklerini borçluya verilen on beş günlük süre içinde icra dairesine bildirmesi gerekir.

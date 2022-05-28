@@ -1,0 +1,2 @@
+Dosyanın mahkemeye sunulması
+MADDE 12- (1) Alıcının, borçluyla anlaştıkları bedeli yukarıdaki maddeler uyarınca borçluya verilen on beş günlük süre içinde dosyaya ödemesi hâlinde icra müdürü, gerekli bilgi ve belgeleri temin ettikten sonra rızai satışın şartlarının sağlandığını tespit ederse, satışın onayı ile malın devir ve teslim işlemlerinin yapılmasına karar verilmesi için dosyayı derhâl mahkemeye gönderir.
