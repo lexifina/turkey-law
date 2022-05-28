@@ -1,0 +1,2 @@
+Eski sözleşmelerde giriş ücreti
+GEÇİCİ MADDE 4- (1) İşletmecilikleri kiralanmış ve sözleşmelerinde giriş ücreti alınamayacağına dair hükümler bulunan orman parklarında, işletmecilerin talepleri halinde, yıllık kira bedelinin % 30’undan az olmamak üzere, bedel tespit komisyonlarınca giriş ücreti tespit edilerek yıllık kira bedeline eklenmesi şartıyla konu ile ilgili maddeler ek sözleşmede tekrar düzenlenebilir.

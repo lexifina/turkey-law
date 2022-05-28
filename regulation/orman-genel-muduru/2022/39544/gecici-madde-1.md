@@ -1,0 +1,5 @@
+Bu Yönetmeliğin yayımlandığı tarihten önce kiralanan yerlere ait uygulama
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce işletmeciliği kiralanan orman parklarında bu Yönetmelik hükümleri uygulanır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce 2886 sayılı Kanun kapsamında pazarlık usulü ihale yöntemi ile işletmeciliği kiralanan orman parklarında yer alan yapı ve tesislerin işletmeciliğinin üçüncü kişi veya kuruluşlara kiraya verilmesi halinde, kiraya verenlerden verilen kira bedel farkının % 50’si idare tarafından tahsil edilir.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce pazarlık usulü ile işletmecilikleri kiralanan orman parklarının sözleşmeleri devir işlemine konu edilemez.
+(4) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kapalı teklif usulü ihale neticesinde imzalanmış ve içerisinde sözleşmenin devredilemeyeceğine ilişkin hükümler barındıran sözleşmeler, işletmecisinin talebi üzerine 10 uncu maddenin birinci fıkrasının (c) bendi hükümlerine göre sözleşme devrine konu edilebilir.

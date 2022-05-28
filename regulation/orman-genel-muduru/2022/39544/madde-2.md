@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Yönetmelik, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 6 ncı, 25 inci, ek 5 inci, ek 8 inci, ek 13 üncü ve ek 14 üncü maddelerine, 12/3/1982 tarihli ve 2634 sayılı Turizmi Teşvik Kanununun ek 5 inci maddesine ve 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 334 üncü ve 338 inci maddelerine dayanılarak hazırlanmıştır.

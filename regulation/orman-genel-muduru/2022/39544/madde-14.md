@@ -1,0 +1,3 @@
+Çadır, lüks çadır ve karavan alanları
+MADDE 14- (1) Orman parklarında, ihtiyaç olması halinde, özel kanunlarla belirlenen alan ve sınırlar ile koruma ve yasaklama hükümleri içinde yer alan kanunlar ve mevzuatının getirdiği yasaklar için ilgili kurumlardan uygun görüş almak kaydıyla, sözleşmeler çadır, lüks çadır ve karavan alanlarının yapılabileceği şekilde tekrar düzenlenebilir. Yıllık kira bedelinin % 25’inden az olmamak üzere, bedel tespit komisyonlarınca çadır, lüks çadır ve karavan alanlarının bedelleri tespit edilerek yıllık kira bedeline eklenir ve konu ile ilgili maddeler ek sözleşmede düzenlenir.
+(2) Sözleşme tarihinden itibaren üç yıl bitmeden ve sözleşmenin bitimine bir yıl kala birinci fıkraya istinaden düzenleme yapılamaz.

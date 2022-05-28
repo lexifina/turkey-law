@@ -1,0 +1,2 @@
+Ek yapı ve tesisler
+MADDE 13- (1) Orman parklarında bölge müdürlüğünce onaylanacak revize plan ile planlanan ve gelir getirici özellik taşıyan ek yapı ve tesislerin kira bedeli, yapı ve tesislerin maliyet bedelinin % 2’sinden az olmamak üzere, planlanan yapı ve tesislerin her biri için, cari yıl kira bedelinin Genel Müdürlükçe belirlenen katsayılarla çarpılması neticesinde tespit edilir ve cari yıl kira bedeline eklenir. Takip eden yıllar kira bedeli, hesaplanan bu bedel üzerinden belirlenir.
