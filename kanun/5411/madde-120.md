@@ -1,5 +1,5 @@
 Fonun hizmet birimleri
-Madde 120 — Fonun hizmet birimleri, daire başkanlıkları şeklinde teşkilatlanmış anahizmet, danışma ve yardımcı hizmet birimlerinden oluşur. Ancak, daire başkanlıklarının sayısı onu geçemez.
-Hizmet birimleri, bu Kanunda belirtilen faaliyet alanı, görev ve fonksiyonlara uygun olarak Fonun teklifi ve Bakanlar Kurulu kararıyla yürürlüğe konulan yönetmelikle belirlenir.
-Fonda anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı kurulur. Hukuk, basın ve halkla ilişkiler, yönetim ve finans gibi alanlarda ihtiyaca göre sayıları toplam onbeşi geçmemek üzere Başkanlık müşaviri görevlendirilebilir. (1)
-İnsan kaynakları ve eğitim, idarî ve malî işler ve benzeri faaliyetleri yürütmek üzere Destek Hizmetleri Daire Başkanlığı kurulur. Bu daire başkanlığında biri Fon Kurulunun özel büro hizmetlerinde kullanılmak üzere en çok dört adet müdürlük kurulabilir.
+Madde 120 — Fonun hizmet birimleri, daire başkanlıkları ve bağlı müdürlükler şeklinde teşkilatlanmış anahizmet, danışma ve yardımcı hizmet birimlerinden oluşur. Ancak, daire başkanlıklarının sayısı onikiyi, müdürlüklerin sayısı altıyı geçemez.[46]
+Hizmet birimleri, bu Kanun ve ilgili kanunlarda belirtilen görev, faaliyet alanı ve fonksiyonlara uygun olarak Fonun teklifi ve Cumhurbaşkanınca yürürlüğe konulan yönetmelikle belirlenir.[47][48]
+Fonda anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı kurulur. Hukuk, basın ve halkla ilişkiler, yönetim ve finans gibi alanlarda ihtiyaca göre sayıları toplam onbeşi geçmemek üzere Başkanlık müşaviri görevlendirilebilir.[49]
+(Mülga dördüncü fıkra:26/5/2022-7407/5 md.)
