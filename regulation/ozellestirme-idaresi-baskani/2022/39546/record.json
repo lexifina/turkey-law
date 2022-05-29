@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39546",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39546",
+  "issuer": "Özelleştirme İdaresi Başkanı",
+  "issuer_slug": "ozellestirme-idaresi-baskani",
+  "path": "regulation/ozellestirme-idaresi-baskani/2022/39546",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39546&MevzuatTertip=5",
+  "source_sha256": "b28de5a2da7903016d0c40c53b96034c79b9bef3da53348045b56436bc8e60c3",
+  "source_bytes": 16736,
+  "published": "2022-05-29",
+  "gazette": "31850",
+  "in_force": "2022-05-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 173,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39546-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
