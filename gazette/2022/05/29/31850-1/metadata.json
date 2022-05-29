@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-05-29",
+  "issue": "31850",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "4046 Sayılı Kanun Kapsamında Danışmanlık Hizmetleri İhalelerinde Uygulanacak Esas ve Usullere İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/05/20220529-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/05/20220529.htm",
+  "index_sha256": "31523e9f5f8b4dbcc9320a708babfb1732cf0d1f876988ab24a5cf98ac4a2316",
+  "index_header": "2 9 Mayıs 2022 ... 31850 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/05/20220529.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
