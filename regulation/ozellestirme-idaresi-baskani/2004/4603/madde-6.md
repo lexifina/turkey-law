@@ -1,0 +1,3 @@
+İhale Komisyonu
+Madde 6-Danışman seçimine ilişkin ihale komisyonu; (Değişik ibare:RG-29/5/2022-31850) İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı olduğu Başkan Yardımcısının başkanlığında, (Değişik ibare:RG-29/5/2022-31850) İhale ve Danışmanlık Hizmetleri Daire Başkanı, bu dairede görevli bir uzman, danışmanlık hizmetine konu olan projeden sorumlu Grup Başkanı veya Daire Başkanı veya bu birimlerde görevli bir uzman ve Hukuk Müşavirliğinde görevli avukat olmak üzere beş üyeden oluşur. Komisyonda aynı sayıda ve aynı usulle yedek üye görevlendirilir. Bu komisyon Başkan’ın onayı ile göreve başlar.
+İhale işlemi sonucunda ihale komisyonunca verilen karar Başkan’ın onayına sunulur ve sonuç Başkan’ın onayını müteakip kesinleşir.

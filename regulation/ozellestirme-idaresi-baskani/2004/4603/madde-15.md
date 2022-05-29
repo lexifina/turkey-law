@@ -1,0 +1,2 @@
+Davet Mektubu
+Madde 15- İdarece yapılacak araştırmalar sonucunda ihale onayı alındıktan sonra doğrudan davet edilecek adaylara veya ilan ile ön yeterlik yapılmasının öngörülmesi durumunda, ön yeterlik değerlendirmesi sonucu oluşan kısa listede bulunan adaylara, (Değişik ibare:RG-29/5/2022-31850) İhale ve Danışmanlık Hizmetleri Daire Başkanlığının bağlı bulunduğu Başkan Yardımcılığı tarafından, ihale konusu işin niteliğini, İhale Şartnamesini, İş Tanımını ve Sözleşme Taslağını içeren Davet Mektubu gönderilir.

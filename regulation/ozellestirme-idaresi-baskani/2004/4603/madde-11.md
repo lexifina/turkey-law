@@ -1,0 +1,2 @@
+İhale İçin Ön Yeterlik İlanı
+Madde 11-Alınan ihale onayında davet edilecek adayların belirlenmesi için ön yeterlik yapılmasının öngörüldüğü hallerde, ön yeterliğe ilişkin ilan yurt içinde tirajı yüksek en az bir gazetede veya Kamu İhale Kurumu tarafından çıkarılan Kamu İhale Bülteni’nde son başvuru gününden en az 10 (on) gün önce yayımlanır. İlanın yurt dışında yapılması durumunda bu süre en az 15 (on beş) gündür. Başvuru süresi, İdarece ilan süresi içerisinde aynı usulle yapılacak duyuru ile uzatılabilir.

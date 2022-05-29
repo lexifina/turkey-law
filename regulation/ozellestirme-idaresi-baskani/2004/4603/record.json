@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.4603",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "4046 SAYILI KANUN KAPSAMINDA DANIŞMANLIK HİZMETLERİ İHALELERİNDE UYGULANACAK ESAS VE USULLERE İLİŞKİN YÖNETMELİK",
+  "number": "4603",
+  "issuer": "Özelleştirme İdaresi Başkanı",
+  "issuer_slug": "ozellestirme-idaresi-baskani",
+  "path": "regulation/ozellestirme-idaresi-baskani/2004/4603",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4603&MevzuatTertip=5",
+  "source_sha256": "cd6e73644134fe814812e1f6536dc4935600d237d5d077198b108890ef63e615",
+  "source_bytes": 118528,
+  "published": "2004-05-28",
+  "gazette": "25475",
+  "in_force": "2022-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-29",
+      "RG-29/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2009-12-15",
+      "RG-15/12/2009",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-11-08",
+      "RG-08/11/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5974,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

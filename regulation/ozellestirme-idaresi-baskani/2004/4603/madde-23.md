@@ -1,0 +1,3 @@
+Teknik Değerlendirmede Dikkate Alınacak Kriterler
+Madde 23- Danışmanlık hizmet alımı ihalelerinde kullanılacak teknik değerlendirme kriterleri, benzer nitelik ve ölçekteki sözleşmeleri yerine getirme deneyimi, iş için önerilen yöntem, metodoloji, iş planı, takvim, organizasyon yapısı, yönetici kadrosu ile işi yürütecek teknik (kilit) personelin eğitim seviyesi ve mesleki nitelikleri esas alınarak tespit edilir.
+Teknik değerlendirme için, danışmanlık hizmeti alınacak işin kapsamı, karmaşıklığı ve önem derecesi dikkate alınarak tam puanlar İdarece belirlenir. İşin özelliğine göre, İdarece hangi kriterlere ve alt kriterlere ne şekilde puan verileceği ile puanlama yöntemi İhale Şartnamesinde somut ve anlaşılabilir olarak açıklanır.

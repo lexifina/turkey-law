@@ -1,0 +1,2 @@
+Bilgi ve Belgeleri Açıklama Yasağı
+Madde 41- Danışman, sözleşmenin ifası sırasında herhangi bir bilgi veya raporu, kamuoyuna, basına ve üçüncü sahıslara İdare’nin önceden yazılı izni olmadan veremez ve açıklama yapamaz. Bu taahhüde uyulmaması halinde sözleşme hiçbir ihbar ve ihtara gerek olmaksızın İdare tarafından tek taraflı olarak fesih edilir ve İdare’nin uğradığı kayıplar Danışman tarafından tazmin edilir. İdare bu konuda her türlü hukuki yola başvurma hakkını saklı tutar.
