@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Aynı düzeyde görev: Hiyerarşi, görev, yetki ve sorumluluk açısından aynı grupta ya da grup içinde alt gruplar olması halinde aynı alt grupta gösterilen görevleri,
+b) (Değişik:RG-29/5/2022-31850) Alt görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha alt hiyerarşi içindeki görevleri,
+c) Başkan: Özelleştirme İdaresi Başkanını,
+ç) Başkan Yardımcısı: Özelleştirme İdaresi Başkan Yardımcısını,
+d) Birim: Özelleştirme İdaresi Başkanlığı Hukuk Müşavirliği, Daire Başkanlıkları ve Proje Grup Başkanlıklarını,
+e) Birim yöneticisi: Özelleştirme İdaresi Başkanlığı I. Hukuk Müşaviri, Daire Başkanı ve Proje Grup Başkanını,
+f) Genel Yönetmelik: Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliği,
+g) Görevde yükselme: Bu Yönetmeliğin 5 inci maddesinin ikinci fıkrasında sayılan görevlere, aynı veya başka hizmet gruplarından yapılacak görevde yükselme niteliğindeki atamaları,
+ğ) Görevde yükselme sınavı: Görevde yükselmeye tabi unvanlara ilişkin görevlere atanabilmek için yapılan yazılı (Ek ibare:RG-18/8/2017- 30158) ve sözlü sınavı,
+h) (Değişik:RG-29/5/2022-31850) Hizmet grupları: Aynı düzey görevler ile benzer görevlerin yer aldığı grupları,
+ı) Hizmet süresi: 657 sayılı Devlet Memurları Kanununun 68 inci maddesinin (B) bendi çerçevesinde hesaplanan süreleri,
+i) İdare: Özelleştirme İdaresi Başkanlığını,
+j) İş günü: Ulusal bayram ile genel ve hafta sonu tatil günleri hariç diğer günleri,
+k) Personel: Özelleştirme İdaresi Başkanlığında 657 sayılı Devlet Memurları Kanununa tabi memur kadrolarında görev yapan personeli,
+l) (Değişik ibare:RG-29/5/2022-31850) Personel Daire Başkanı: Özelleştirme İdaresi Başkanlığı (Değişik ibare:RG-29/5/2022-31850) Personel Daire Başkanını,
+m) Sınav Kurulu: Bu Yönetmelikte belirtilen sınavlara ilişkin çalışmaları yürütmek üzere oluşturulan kurulu,
+n) Unvan değişikliği: Bu Yönetmeliğin 5 inci (Değişik ibare:RG-29/5/2022-31850) maddesinin üçüncü fıkrasında sayılan ve en az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere yapılan atamaları,
+o) Unvan değişikliği sınavı: En az ortaöğretim düzeyinde mesleki veya teknik eğitim sonucu ihraz edilen unvanlara ilişkin görevlere atanabilmek için yapılan yazılı (Ek ibare:RG-18/8/2017- 30158) ve sözlü sınavı,
+ö) (Değişik:RG-29/5/2022-31850) Üst görev: 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 509 uncu maddesinde yer alan hiyerarşik kademeler çerçevesinde daha üst hiyerarşi içindeki görevleri,
+ifade eder.
