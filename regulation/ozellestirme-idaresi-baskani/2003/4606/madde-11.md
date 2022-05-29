@@ -1,0 +1,2 @@
+İhale Oluru
+Madde 11- İhale usulünün belirlenmesi ve bu usulle ihaleye çıkılması için ilgili proje grup başkanlığının bağlı bulunduğu başkan yardımcılığı tarafından; Başkanlık Makamından “ihale Oluru” alınır. İhale Oluru ekinde, ilgili Kurul kararı, ilan metni, ihale şartnamesi ve varsa ekleri ile varlık satışı ve satış yöntemi dışındaki yöntemlerle yapılacak özelleştirme uygulamalarında değer tespit sonuçları yer alır.

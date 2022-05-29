@@ -1,0 +1,2 @@
+Değer Tespit Komisyonunun Görevleri
+Madde 6- Komisyon, değer tespit çalışmalarını Kanunda belirtilen unsurları dikkate alarak ve uluslararası kabul görmüş olan, indirgenmiş nakit akımları (net bugünkü değer), defter değeri, net aktif değeri, amortize edilmiş yenileme değeri, tasfiye değeri, fiyat/kazanç oranı, piyasa kapitalizasyon değeri, piyasa değeri/defter değeri, ekspertiz değeri, fiyat/nakit akım oranı metodlarından en az ikisini uygulamak suretiyle yürütür.

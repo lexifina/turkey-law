@@ -1,0 +1,2 @@
+İhale İşlem Dosyası
+Madde 12- Başkanlık Makamından alınan ihale Oluru ile ekleri, ihale işlem dosyasının düzenlenmesi ve ihale komisyonuna sunulması için ilgili proje grup başkanlığınca (Değişik ibare:RG-29/5/2022-31850) İhale ve Danışmanlık Hizmetleri Daire Başkanlığına gönderilir. Bu Daire Başkanlığınca hazırlanan “İhale işlem dosyasında” Kurul kararı, ilan metni, ihale şartnamesi ve ekleri ile değer tespit komisyon kararı ve diğer belgeler yer alır.

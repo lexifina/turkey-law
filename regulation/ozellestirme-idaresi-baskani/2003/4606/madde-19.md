@@ -1,0 +1,3 @@
+Sözleşmeye Davet
+Madde 19- İhale sonuçlarının onaylanmasından sonra İdare tarafından süre belirtilmek suretiyle sözleşme imzalanması hususunda ihale üzerinde kalan teklif sahibine yazılı bildirimde bulunulur. İdarece uygun görülmesi halinde bir defaya mahsus olmak üzere ek süre verilebilir. (Ek cümle:RG-28/12/2005-26037) İdareden kaynaklanan sebeplerle, verilen süre içerisinde sözleşmenin imzalanamaması durumunda, birden fazla ek süre verilebilir.
+İdarece verilen süre içerisinde ihale üzerinde kalan tarafından istenilen teminatın verilmemesi, diğer yükümlülüklerin yerine getirilmemesi ve sözleşme imzalanmaması, halinde alınan teminatlar İdare lehine irat kaydedilir ve kararda yer alması halinde diğer teklif sahiplerine sırası ile aynı usul uygulanır.

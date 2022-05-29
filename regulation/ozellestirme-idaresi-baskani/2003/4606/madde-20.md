@@ -1,0 +1,3 @@
+Tebligat
+Madde 20- İdarece, ihale veya akdedilen sözleşmeye ilişkin bildirimler; alma haberli taahhütlü mektup, APS ve bunlarla teyidi gönderilmek üzere faks ile yapılabilir. Bu şekilde yapılan bildirimlerde teyidi yapılmak kaydıyla İdarece gönderilen faksın ilgiliye ulaştığı tarih tebliğ tarihi sayılır.
+Teklif sahipleri veya danışman tarafından faks ile İdareye yapılan bildirimlerde ise bunların teyidinin İdareye ulaştığı tarih tebliğ tarihi sayılır. Bu fıkrada sayılan usullerle teklif verilemez.Yönetmelikte hüküm bulunmayan hallerde yapılacak tebliğler hakkında Tebligat Kanunu hükümleri uygulanır.

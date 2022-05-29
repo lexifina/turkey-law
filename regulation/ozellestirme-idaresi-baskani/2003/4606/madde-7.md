@@ -1,0 +1,3 @@
+Değer Tespit Sonuçları
+Madde 7- Varlık satışı ve satış yöntemi dışındaki yöntemlerle yapılacak ihalelerde, değer tespit raporu Kanunda belirtilen ihale usullerinden hangisinin uygulanacağına karar verilmek üzere, ihale ilanına çıkmadan önce ilgili projenin bağlı olduğu başkan yardımcılığı tarafından başkana sunulur. (Ek son cümle:RG-2/9/2009-27337) Bu ihalelerde değer tespit sonuçları, önceden öngörülemeyen sebeplerin varlığı halinde, ihale usulünün değiştirilmesine neden olunmaması kaydıyla, son teklif verme tarihinden önce revize edilebilir.
+(Değişik ikinci fıkra:RG-29/5/2022-31850) Değer tespit sonuçları, kuruluşun özelleştirme işlemi tamamlanarak devir sözleşmesinde yer alan yükümlülüklerin yerine getirilmesinden sonra kamuoyuna duyurulur.
