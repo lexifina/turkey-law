@@ -1,0 +1,2 @@
+Fon Bakiyelerinin Nemalandırılması:
+Madde 18- Hemen kullanılması gerekmeyen Fon bakiyeleri, nemalandırma işlemine tabi tutulabilir. Nemalandırma işlemine tabi tutulacak Fon bakiyeleri, nemalandırılma süreleri de gözönüne alınarak çeşitli yatırım araçları (vadeli-vadesiz mevduat, repo, Hazine Bonosu veya Devlet Tahvili vb.) kullanılmak suretiyle nemalandırılabilir. Bu işlemler, Kanun’un 9 uncu maddesi gereğince yalnızca T.C. Ziraat Bankası nezdinde yapılabilir.

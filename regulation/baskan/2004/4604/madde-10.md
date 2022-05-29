@@ -1,0 +1,5 @@
+Özelleştirme Uygulamaları İle İlgili Personel Ödemeleri
+Madde 10- Kanunun 21 inci maddesine göre, özelleştirme programında olan kuruluşların özelleştirmeye hazırlanması, özelleştirilmesi, küçültülmesi veya faaliyetlerinin kısmen veya tamamen durdurulması, süreli veya süresiz kapatılması veya tasfiye edilmesi nedenleriyle hizmet akdi sona eren personele ödenen iş kaybı tazminatı için uyulacak esaslar şunlardır:
+a) İlgili mevzuata göre iş kaybı tazminatını hak edecek şekilde hizmet akdi sona eren işçilerin İş Kurumunun ilgili İl Müdürlüğüne baş vuru yapmalarından sonra İş Kurumu, iş kaybı tazminatını ödeyebilmek için gerekli evrakları İdareye intikal ettirir.
+b) (Değişik:RG-29/5/2022-31850) Personel Daire Başkanlığı gerekli incelemeleri yaptıktan sonra, yasal süresi içerisinde ilgili kuruluşa ödemenin yapılmasını sağlamak ve nakit uygunluğunu tespit etmek amacıyla Finansman Fon Yönetimi ve Sermaye Piyasaları Daire Başkanlığına para aktarma talebini iletir.
+c) Banka ödeme talimatının onaylanmasının akabinde Fon’dan ödeme yapılır.

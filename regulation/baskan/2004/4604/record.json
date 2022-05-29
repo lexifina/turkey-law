@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.4604",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZELLEŞTİRME FONU YÖNETMELİĞİ",
+  "number": "4604",
+  "issuer": "Başkan",
+  "issuer_slug": "baskan",
+  "path": "regulation/baskan/2004/4604",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=4604&MevzuatTertip=5",
+  "source_sha256": "15f3f9b77c31db0da8bb8083f59dd6deab778c73dd2cbe57fbe565d72cca1f6c",
+  "source_bytes": 99199,
+  "published": "2004-01-13",
+  "gazette": "25345",
+  "in_force": "2022-05-29",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-29/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-29",
+      "RG-29/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2005-08-06",
+      "RG-06/08/2005",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu yönetmelik, Kurulca onaylanmasını müteakip Resmi Gazetede yayımlandığı tarihte yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4448,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

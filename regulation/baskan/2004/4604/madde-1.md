@@ -1,0 +1,1 @@
+Madde 1- Bu Yönetmeliğin amacı, Fon için gerekli olan kaynakların elde edilmesi, korunması ve etkin olarak kullanılmasını sağlamak ve Fon bakiyelerinin nemalandırılması ile Fon Bütçesinin hazırlanmasını düzenlemektir.

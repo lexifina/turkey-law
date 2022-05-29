@@ -1,0 +1,1 @@
+Madde 20- Genel kurullarınca dağıtımına karar verilen temettülerin, karar verilen süre zarfında Fona aktarılmaması halinde, İdarenin programdaki kuruluşlara borç verme işleminde uyguladığı "T.C. Merkez Bankasınca kısa vadeli reeskont işlemlerinde uygulanan iskonto faiz oranı" üzerinden İdare alacağına faiz işletilir.
