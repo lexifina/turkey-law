@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39547",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZELLEŞTİRME İDARESİ BAŞKANLIĞI TEŞKİLAT VE GÖREV YÖNETMELİĞİ",
+  "number": "39547",
+  "issuer": "Özelleştirme İdaresi Başkanı",
+  "issuer_slug": "ozellestirme-idaresi-baskani",
+  "path": "regulation/ozellestirme-idaresi-baskani/2022/39547",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39547&MevzuatTertip=5",
+  "source_sha256": "a330e3f6aeea8c9f4b07fc434aff16e4549a4c80de86658b3a675e2803a2d169",
+  "source_bytes": 151231,
+  "published": "2022-05-29",
+  "gazette": "31850",
+  "in_force": "2022-05-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.05.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4812,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
