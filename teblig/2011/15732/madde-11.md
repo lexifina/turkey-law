@@ -1,0 +1,6 @@
+Statü belgesinin düzenlenmesi
+MADDE 11 – (1) (Değişik:RG-23/11/2016- 29897) 12 nci madde hükümleri saklı kalmak üzere, başvuru sahibinin Gümrük Yönetmeliğinin 23 ve 24 üncü maddelerinde yer alan koşulları taşıdığının tespit edilmesi halinde yıl/yetkili bölge müdürlüğünün bulunduğu ilin trafik kodu/OKS/sıra numarasını içerecek şekilde (örnek 16/34/OKS/0001) her yıl itibariyle müteselsil statü belgesi numarası alınarak Ek-14’te yer alan statü belgesi, aslı hak sahibine verilmek, bir nüshası da gümrük idaresinde saklanmak üzere iki nüsha halinde düzenlenir.
+(2) Statü belgesi üzerinde yer alan bilgiler ile belgenin geçerlilik durumu, alınacak referans numarası ile kayda alınır. Belirlenen referans numarası statü belgesinin her iki nüshası üzerine yazılır. (Mülga cümle:RG-30/5/2022-31851) (Mülga cümle:RG-30/5/2022-31851)
+(3) Statü belgesinin her iki nüshası da, uygun bulunması halinde gümrük ve dış ticaret bölge müdürünce imzalanır.
+(4) Statü belgesinin (Mülga ibare:RG-23/11/2016- 29897) (…) kapsamına bağlı olarak, BİLGE sistemi üzerinde gerekli güncelleme işlemleri yapılır.
+(5) Bu maddede belirtilen işlemler en geç 10 uncu maddenin ikinci fıkrası uyarınca belirlenen inceleme süresinin bitimini müteakip beş iş günü içinde tamamlanır.

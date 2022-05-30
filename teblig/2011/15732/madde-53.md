@@ -1,0 +1,5 @@
+Beyanın kontrol türüne ilişkin kolaylaştırmalarından yararlanma izninin geri alınması
+MADDE 53 – (Başlığı ile birlikte değişik:RG-23/11/2016- 29897)
+(1) Statü belgesinin geçerlilik süresi içerisinde, beyanın kontrol türüne ilişkin kolaylaştırmalardan yararlanma izni askıya alınan statü belgesi sahibi kişilerce, askıya alma süresinin bitimini müteakip, 52 nci maddenin birinci veya ikinci fıkralarında belirtilen ihlalin tekrar edilmesi halinde, bu kişilerin beyanın kontrol türüne ilişkin kolaylaştırmalardan yararlanma izni statü belgesinin geçerlilik süresi sonuna kadar geri alınır.
+(2) Birinci fıkra uyarınca işlem yapılmasını teminen söz konusu beyannamenin tescil edildiği gümrük müdürlüğünün bağlı bulunduğu gümrük ve dış ticaret bölge müdürlüğü tarafından statü belgesinin düzenlendiği gümrük ve dış ticaret bölge müdürlüğüne derhal bildirimde bulunulur.
+(3) Statü belgesinin geçerlilik süresinin bitimine bir yıldan az süre kalmış olduğu durumlarda birinci fıkra kapsamında belirlenecek geri alma süresi bir yıldır.

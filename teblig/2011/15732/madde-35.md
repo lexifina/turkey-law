@@ -1,0 +1,6 @@
+Teminat mektuplarının ibrazı
+MADDE 35 – (1) Götürü teminat uygulamasından yararlanma hakkı başvurularında;
+a) Götürü teminat yetkisine ilişkin başvuruda bulunulan yetkili bölge müdürlüğünce, 34 üncü madde uyarınca verilmesi gereken teminat tutarı hesaplanarak, başvurunun genel evrak kaydına alınmasını takiben on iş günü içinde başvuru sahibine yazılı olarak ve elektronik posta yoluyla bildirimde bulunulur.
+b) Başvuru sahibine bildirilen tutardaki teminat mektubu bildirimin yapıldığı tarihi müteakip en geç otuz gün içinde ibraz edilir. Bu süre içinde kendilerine bildirilen tutardaki teminat mektubu veya mektuplarını ibraz etmeyen kişilerin götürü teminat yetkisi için başvuruları reddedilir. Bundan sonra yapılacak başvurular yeni bir başvuru gibi değerlendirilir.
+c) 34 üncü maddeye göre belirlenen tutardaki teminat mektubu veya mektuplarının (b) bendinde belirtilen süre içinde ibrazını müteakip götürü teminat yetkisi için başvuru yetkili bölge müdürlüğünce, teminat mektuplarının genel evrak kaydına alınmasını takiben en geç on iş günü içerisinde sonuçlandırılır.
+(2) Götürü teminat yetkisinin güncellenmesi, kapsamının değiştirilmesi başvurularında teminat mektuplarının ibrazına ilişkin işlemler 38 inci madde hükümleri uyarınca yapılır.

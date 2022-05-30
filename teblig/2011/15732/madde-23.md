@@ -1,0 +1,4 @@
+Eksik beyan usulüne konu beyanların takibi
+MADDE 23 – (1) Gümrük müdürlüklerince her ayın ilk beş iş günü içinde BİLGE sisteminde sorgulama yapılarak, eksik olan belgeleri ek süreler dâhil süresi içinde ibraz edilmemiş BS-1 kodlu beyannameler tespit edilir.
+(2) Eksik belgelerin ek süreler dâhil süresi içinde ibraz edilmediği tespit edilen beyannamelerin adına tescil edildiği statü belgesi sahipleri hakkında Gümrük Kanununun 241/1 inci maddesi tatbik edilerek 24 ve 25 inci maddeler uyarınca işlem yapılmak üzere statü belgesinin düzenlendiği gümrük ve dış ticaret bölge müdürlüğüne derhal bildirimde bulunulur.
+(3) Ek süreler dâhil süresi içinde ibraz edilmediği tespit edilen belge ya da belgelerin indirimli veya sıfır oranında vergi uygulaması ile muafiyet hükümlerinin uygulanmasına ilişkin belgeler olması durumunda 21 inci maddenin üçüncü fıkrası uyarınca işlem yapılır.

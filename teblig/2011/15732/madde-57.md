@@ -1,0 +1,2 @@
+Basitleştirilmiş usulde düzenlenecek A.TR dolaşım belgelerinin sonradan düzenlenmesi
+MADDE 57 – (1) Onaylanmış ihracatçı yetkisi sahibi kişilerce, Karar’ın 12 ila 16 ncı maddeleri ile 22 nci maddesi çerçevesinde, eşyanın ihracından sonra da A.TR dolaşım belgesi düzenlenebilir. Bu kapsamda düzenlenen dolaşım belgelerinin asıl nüshası dışında kalan diğer iki nüshasından biri ihracat beyannamesine eklenir.

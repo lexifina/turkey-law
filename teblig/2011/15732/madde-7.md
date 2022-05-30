@@ -1,0 +1,7 @@
+Tespitin rapora bağlanması ve YGM’ce dikkat edilecek hususlar
+MADDE 7 – (1) OK1 tespit işleminin sözleşmenin yapıldığı tarihi izleyen otuz gün içerisinde YGM’ce olumlu veya olumsuz olarak rapora bağlanması zorunludur. Bu süreyi aşan bir tarihte düzenlenen raporlar geçersizdir.
+(2) OK1 tespitine ilişkin olumlu tespit raporları Ek-8’de yer alan formata uygun olarak düzenlenir ve YGM’ce yetki no.su, adı, soyadı ve varsa tüzel kişi unvanını içeren kaşesi ile kaşelenip imzalanarak onaylanmış kişi statü belgesi başvurusunda bulunacak kişiye iki nüsha halinde teslim edilir. (Ek cümle:RG-23/11/2016- 29897) 42/A maddesinin birinci ve üçüncü fıkralarında yer alan beyanın kontrol türüne ilişkin kolaylaştırmalardan yararlanılacak olması durumunda, 42/A maddesinin birinci fıkrasının (a) bendinde yer alan koşulun sağlanıp sağlanmadığı tespit raporunun sonuç bölümünde ayrıca belirtilir.
+(3) Olumsuz tespit raporları onaylanmış kişi statü belgesi başvurusunda bulunacak kişiye bir nüsha halinde teslim edilir.
+(4) Tespiti yapan YGM, OK1 tespit işlemleri neticesinde düzenlenen olumlu tespit raporlarında yer alan tüm bilgilerin doğruluğundan sorumludur.
+(5) Tespiti yapan YGM, OK1 tespit türüne ilişkin olumlu tespit raporunda kullanılan belgelerin bu Tebliğ’de belirtilen şartlara uygunluğundan sorumludur.
+(6) Tespiti yapan YGM, OK1 tespiti için yükümlü tarafından kendisine ibraz edilen belgelerden bir veya daha fazlasının sahte veya tahrif edilmiş olduğunu tespit etmesi halinde durumu yetkili bölge müdürlüğüne bildirmekle yükümlüdür.

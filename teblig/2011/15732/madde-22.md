@@ -1,0 +1,5 @@
+Eksik belgelerin tamamlanması
+MADDE 22 – (1) Eksik belge veya belgeler, ek süreler dâhil süresi içinde, Ek-15’te yer alan eksik belge tamamlama formu ile birlikte beyannamenin tescil edildiği gümrük müdürlüğüne sunulur.
+(2) Gümrük müdürlüğünce yapılan incelemede eksik belgelerin süresi içinde ve eksiksiz olarak ibraz edildiğinin anlaşılması durumunda, BİLGE sistemine söz konusu gümrük beyannamesi kapsamındaki eksik belgelerin tamamlandığı bilgisi girilir.
+(3) Eksik belgelerin süresi içinde ibraz edilmediğinin anlaşılması durumunda statü belgesi sahibi uyarılır ve hakkında 4458 sayılı Gümrük Kanununun 241/1 inci maddesi tatbik edilerek 24 ve 25 inci maddeler uyarınca işlem yapmak üzere, statü belgesinin düzenlendiği gümrük ve dış ticaret bölge müdürlüğüne bildirimde bulunulur.
+(4) Eksik belgelerin tamamlanmasından sonra beyana göre işlem yapılan eşyaya ilişkin ithalat vergilerinin eksik tahakkuk ettirildiğinin anlaşılması halinde, bunlar için ek tahakkuk yapılır. Ayrıca, şartlar gerektiriyorsa Gümrük Kanununun 234 üncü maddesi uyarınca ceza tatbik edilir.

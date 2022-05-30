@@ -1,0 +1,6 @@
+Basitleştirilmiş usulde düzenlenecek A.TR dolaşım belgelerinin doldurulması ve kullanılması
+MADDE 56 – (1) Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgelerinin, Kararın 7, 20 ve 22 nci maddelerine uygun olarak doldurulması gerekir.
+(2) Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgeleri, tasdik edilmeksizin, onaylanmış ihracatçı yetkisini haiz statü belgesi sahibi tarafından vize edilir.
+(3) Vize işlemi, onaylanmış ihracatçı yetki numarasını içerir şekilde ve Ek-16/B’de yer alan formata uygun olarak onaylanmış ihracatçı tarafından yaptırılacak kaşenin, basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgesinin (12) numaralı gümrük vizesi bölümünde yer alan ihracatçı mührünün (2) numaralı bölümüne basılması ile gerçekleştirilir.
+(4) Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgesinin asıl nüshası dışında kalan diğer iki nüshasından biri, Karar’ın 8 inci maddesi gereğince, ihracat beyannamesine eklenir.
+(5) Basitleştirilmiş işlem kapsamında düzenlenecek A.TR dolaşım belgelerinin şekil şartları ve içerdiği bilgiler bakımından usulüne uygun olarak düzenlenip düzenlenmediği hususlarından doğrudan doğruya onaylanmış ihracatçı yetkisine sahip kişiler sorumludur.

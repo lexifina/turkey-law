@@ -1,0 +1,5 @@
+Götürü teminat yetkisinin askıya alınması
+MADDE 41 – (1) Götürü teminat yetkisini haiz statü belgesi sahibince; 37 nci maddede belirtilen geçerlilik süresinin bitiminde, 38 inci maddede düzenlenen güncelleme işleminin tamamlanmamış olması durumunda götürü teminat yetkisi askıya alınır.
+(2) Götürü teminat yetkisinin geçerlilik süresi devam etmekle beraber, statü belgesinin geçerlilik süresinin dolması ve yenilenmemesi durumunda götürü teminat yetkisi askıya alınır.
+(3) Götürü teminat yetkisini haiz statü belgesi sahibinin ticaret unvanının değişmesi nedeniyle statü belgesinde değişiklik yapılması için 14 üncü madde uyarınca talepte bulunulmasına rağmen 39 uncu maddede belirtilen yenileme işleminin yapılmaması durumunda 14 üncü maddede belirtilen işlemler tamamlanır ancak götürü teminat yetkisi yenileme işlemi tamamlanana kadar askıya alınır.
+(4) Üçüncü fıkra uyarınca götürü teminattan yararlanma hakkı askıya alınan kişinin götürü teminat sisteminden yararlanmak için vermiş olduğu teminat mektupları iade edilmez ve askıya alma süresi içinde teminata bağlanması gereken tüm gümrük vergileri ve diğer vergiler tutarının %20 fazlasıyla teminata bağlanır.

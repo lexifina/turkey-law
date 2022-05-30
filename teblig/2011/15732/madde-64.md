@@ -1,0 +1,6 @@
+Statü belgesi kapsamında yer alan hak ve yetkilerin askıya alınması, geri alınması ve bildirim yükümlülüğü
+MADDE 64 – (1) Gümrük Yönetmeliğinin 23 üncü ve 24 üncü maddelerinde belirtilen koşullardan herhangi birinin kaybedilmemesi şartıyla, statü belgesi kapsamında tanınmış olan hak ve yetkiler için belirlenmiş koşulların kaybedildiğinin anlaşılması durumunda, 63 üncü madde hükmü saklı kalmak kaydıyla, statü belgesi geri alınmaz; sadece söz konusu hak veya yetki, belgeyi düzenleyen gümrük ve dış ticaret bölge müdürlüğünce geri alınır.
+(2) Statü belgesi kapsamında yer alan hak ve yetkilerin 24, 41, 52 ve 59 uncu maddeler uyarınca askıya alınmasına ve 25, 30, 42, 53 ve 60 ıncı maddeler uyarınca geri alınmasına söz konusu belgenin düzenlendiği gümrük ve dış ticaret bölge müdürlüğü yetkilidir.
+(3) 24, 41, 52 ve 59 uncu maddeler ile 25, 30, 42, 53 ve 60 ıncı maddelerde belirtilen durumlar ile birinci fıkrada belirtilen durumun gerçekleşmesi halinde ilgili gümrük müdürlüğünce, öngörülen askıya alma ya da geri alma işleminin gerçekleştirilmesini teminen, statü belgesinin düzenlendiği gümrük ve dış ticaret bölge müdürlüğüne bildirimde bulunulur.
+DÖRDÜNCÜ KISIM
+(Mülga kısım:RG-30/5/2022-31851)

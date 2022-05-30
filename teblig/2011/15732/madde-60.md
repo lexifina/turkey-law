@@ -1,0 +1,4 @@
+Onaylanmış ihracatçı yetkisinin geri alınması
+MADDE 60 – (1) Onaylanmış ihracatçı yetki numarasını A.TR dolaşım belgesi dışında herhangi bir belge düzenlemek için kullandığı tespit edilen statü belgesi sahibinin onaylanmış ihracatçı yetkisinin statü belgesinin geçerlilik süresi sonuna kadar geri alınmasını teminen statü belgesinin düzenlendiği gümrük ve dış ticaret bölge müdürlüğüne derhal bildirimde bulunulur.
+(2) 59 uncu madde uyarınca basitleştirilmiş işlem kapsamında A.TR düzenleme, onaylama ve vize etme yetkisi askıya alınan kişilerin askıya alma süresinin bitimini müteakip, statü belgesinin geçerlik süresi içinde Karar hükümleri ile 54 ila 56 ncı madde hükümlerine aykırı hareket ettiklerinin anlaşılması halinde, onaylanmış ihracatçı yetkileri statü belgesinin geçerlilik süresi sonuna kadar geri alınır.
+(3) Statü belgesinin geçerlilik süresinin bitimine bir yıldan az süre kalmış olduğu durumlarda geri alma süresi bir yıldır.

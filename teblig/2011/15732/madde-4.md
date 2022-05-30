@@ -1,0 +1,9 @@
+Başvuru Şekli ve Başvuruların Değerlendirilmesi
+Onaylanmış kişi statüsü ve kapsamı
+MADDE 4 – (Başlığı ile birlikte değişik:RG-23/11/2016- 29897)
+(1) Gümrük Yönetmeliğinin 23 ve 24 üncü maddelerinde belirlenmiş koşulları sağlayan, gümrük mevzuatına göre Türkiye Gümrük Bölgesinde yerleşik gerçek ve tüzel kişilere, gümrük mevzuatı kapsamında belirlenen basitleştirilmiş usuller, uygulama ve yetkilerden yararlanmak üzere onaylanmış kişi statüsü tanınır.
+(2) Onaylanmış kişi statüsü sahiplerince, adlarına düzenlenen statü belgesi kapsamında belgelerinin geçerlilik süresi boyunca eksik beyan usulü, kısmi teminat uygulaması ile 42/A maddesinin ikinci fıkrasında yer alan beyanın kontrol türüne ilişkin kolaylaştırmadan yararlanılabilir.
+(3) Onaylanmış kişi statüsü sahiplerine, talep etmeleri halinde, adlarına düzenlenen statü belgesi kapsamında belgenin geçerlilik süresi boyunca 31 ila 42 nci maddeler kapsamında götürü teminat yetkisi tanınabilir.
+(4) Onaylanmış kişi statüsü sahiplerinden 42/A maddesinin birinci fıkrasında belirlenen koşulları sağlayanların talep etmeleri halinde, adlarına düzenlenen statü belgesi kapsamında belgelerinin geçerlilik süresi boyunca 42/A maddesinin birinci ve üçüncü fıkralarında yer alan beyanın kontrol türüne ilişkin kolaylaştırmalardan da yararlanma izni verilebilir.
+(5) Onaylanmış kişi statüsü sahiplerinden 54 üncü maddenin ikinci fıkrasında belirlenen koşulu sağlayanların talep etmeleri halinde, adlarına düzenlenen statü belgesi kapsamında belgelerinin geçerlilik süresi boyunca 54 ila 60 ıncı maddeler kapsamında onaylanmış ihracatçı yetkisi tanınabilir.
+(6) Adına statü belgesi düzenlenen gerçek ve tüzel kişilere bu belge kapsamında tanınan hak ve uygulamalardan bizzat bu kişilerce yararlanılır. Söz konusu haklar ile uygulamalardan yararlanma yetkisi başkalarına kullandırılamaz.
