@@ -1,0 +1,4 @@
+Termik santral kurulması şartı ile çalışılan sahalarda kömür satışı
+MADDE 39- (1) Termik santral kurulması şartı ile çalışılan sahalarda, işletmecinin kömür satış talebi olması durumunda sözleşme ile hedeflenen ve rezervin tahsis edildiği asıl amaçlara halel gelmemesi, enerji üretimi projeksiyonunda indirime gidilmemesi ve sözleşmede benimsenen hak ve borçları etkilememesi şartı ile Kurum tarafından izin verilebilir.
+(2) Ton başına pay veya oran belirlenirken, satışı yapılacak kömürün özelliklerine göre MAPEG tarafından en son açıklanan ocak başı satış fiyatı, sözleşmede kWh başına elektrik enerjisi için belirlenen pay veya oran ile dikkate alınır.
+(3) Maden satışı ile ilgili olarak kömür veya kömür dışındaki madenlerin üretilmesi için Maden Kanunu ve ilgili diğer tüm mevzuat gereği alınacak izinler ve yürütülecek tüm iş ve işlemlerin yükümlülüğü ve maliyetinin işletmeciye ait olduğu sözleşmelerde belirtilir.

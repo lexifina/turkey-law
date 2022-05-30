@@ -1,0 +1,2 @@
+Mücbir sebepler veya olağanüstü haller sonucu sözleşmede değişiklik
+MADDE 43- (1) Sözleşmenin imza tarihinden sonra, mücbir sebepler veya olağanüstü haller nedeniyle sözleşmenin sürdürülemez hale geldiğinin; taraflarca ortak oluşturulacak hukukçu, maden mühendisi ve halen üniversiteler bünyesinde çalışan akademik personel olmak üzere, en az üç kişilik bir tarafsız komisyon tarafından raporlanması halinde, bu rapordaki öneri doğrultusunda sözleşmede gerekli değişiklikler yapılabilir.

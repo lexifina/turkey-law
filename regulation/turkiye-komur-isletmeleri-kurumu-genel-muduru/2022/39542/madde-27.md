@@ -1,0 +1,2 @@
+Artırım teklifleri
+MADDE 27- (1) Teklifler verildikten sonra istekliler tarafından yapılan artırım teklifleri kabul edilmez. Ancak en uygun teklifi veren istekliden Kurum yararına ihale komisyonunca artırım talep edilebilir. Birkaç istekli tarafından aynı bedel, pay veya oranın teklif edildiği ve bunların da uygun olduğu anlaşıldığı takdirde ihale komisyonunca bu isteklilerden ikinci bir yazılı teklif alınır ve bunlardan en uygun bedel, pay veya oranı teklif edene ihale edilir.

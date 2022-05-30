@@ -1,0 +1,2 @@
+Asfaltit rezervlerinin değerlendirilmesi
+MADDE 37- (1) Kurum, uhdesinde bulunan asfaltit sahalarının bir kısmı veya tamamının işletme hakkı, ruhsat sahasının bulunduğu ilin valiliğince talep edilmesi halinde valiliğin ekonomik işletmecilik ve diğer koşullara ilişkin gerekçeleri ile Kurumun cari rödövans veya pay oranları ve koşulları birlikte dikkate alınarak değerlendirilmek suretiyle ihale yapılmaksızın Yönetim Kurulu kararı ile talep eden valiliğe verilebilir.

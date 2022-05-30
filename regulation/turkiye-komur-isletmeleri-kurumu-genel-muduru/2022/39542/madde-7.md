@@ -1,0 +1,2 @@
+Sorumluluk
+MADDE 7- (1) İhale ile ilgili işlemler ve bunlara ilişkin yetki ve sorumlulukların, bu Yönetmelikle kendilerine ihale yapma yetkisi verilen birimlere bırakılması esastır. İhalelerle ilgili konularda, isteklilerle yapılacak yazılı ve sözlü görüşmeler ihale yapma yetkisi verilen birimce yürütülür ve sonuçlandırılır. İlgili birimler yürüttükleri iş ve işlemlerden sorumludurlar. Bu Yönetmeliğin uygulanmasında, kendilerine görev verilen birimlerin her kademesindeki yetkililer, yetkileri çerçevesinde sorumludur.

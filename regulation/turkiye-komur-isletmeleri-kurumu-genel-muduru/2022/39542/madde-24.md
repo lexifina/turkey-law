@@ -1,0 +1,6 @@
+YEDİNCİ BÖLÜM
+Tekliflerin Değerlendirilmesi ve İhale Kararları
+Tekliflerin değerlendirilmesi
+MADDE 24- (1) İhale komisyonu tekliflerin incelenmesi, karşılaştırılması ve değerlendirilmesinde yararlanmak üzere net olmayan hususlarla ilgili, isteklilerden yazılı olarak tekliflerini açıklamalarını isteyebilir. Ancak bu açıklama, hiçbir şekilde teklif fiyatında değişiklik yapılması veya ihale dokümanında yer alan şartlara uygun olmayan tekliflerin uygun hale getirilmesi amacıyla istenilmez ve yapılmaz.
+(2) Tekliflerin değerlendirilmesinde, öncelikle belgeleri eksik olduğu veya teklif mektubu ile geçici teminatı usulüne uygun olmadığı ilk oturumda tespit edilen isteklilerin tekliflerinin değerlendirmesi, ihale usulüne göre ilgili maddesi doğrultusunda yapılır.
+(3) En son aşamada, isteklilerin teklif mektubu eki cetvellerinde aritmetik hata bulunup bulunmadığı kontrol edilir. Teklif edilen bedelleri/oranları gösteren teklif mektubu eki cetvelde çarpım ve toplamlarda aritmetik hata bulunması halinde, isteklilerce teklif edilen birim bedeller/oranlar esas alınmak kaydıyla, aritmetik hatalar ihale komisyonu tarafından resen düzeltilir. Yapılan bu düzeltme sonucu bulunan teklif, isteklinin esas teklifi olarak kabul edilir.
