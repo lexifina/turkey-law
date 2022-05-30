@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-585395",
+  "source_id": 37744,
+  "date": "2022-05-30",
+  "title": "Kira geliri elde edilen gayrimenkule ait apartman görevlisinin emekli olması nedeniyle ödenen kıdem tazminatının gelir vergisi beyannamesinden gider olarak indirilip indirilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37744",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "4f567e182beecd1b7f79ce2bd592d87c7f39f5676df0975f321f5e2976482606",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
