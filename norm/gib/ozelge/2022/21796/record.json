@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120[89-2021/319]-584448",
+  "source_id": 21796,
+  "date": "2022-05-30",
+  "title": "Mal İhracatı Kapsamında Elde Edilen Kazancın Gelir Vergisi Beyannamesinde İndirim Konusu Yapılıp Yapılmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21796",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "5ea9ba6434dd1ca0940153d34ac78907de50318ce4376834d5462cfe23424529",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
