@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "407",
+  "decision_date": "2022-05-31",
+  "source_id": 35202,
+  "chamber": "3",
+  "ilam_number": "110",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35202/",
+  "source_sha256": "1efad4e7cacfe68bfe5ba2121ffa9b7b683baa440b3011cebc673fd15e9ae810",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
