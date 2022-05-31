@@ -1,0 +1,30 @@
+{
+  "number": "month-05",
+  "year": 2022,
+  "month": 5,
+  "title": "MAYIS 2022 MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2022-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2022",
+  "source": "https://caydegirmeni.bel.tr/wp-json/wp/v2/posts?categories=143&per_page=100&page=1&_fields=id,date,link,title",
+  "official_page": "https://caydegirmeni.bel.tr/mart-2022-meclis-kararlari-2-2-3-2-2-3-4-2-2/",
+  "official_document": "https://caydegirmeni.bel.tr/mart-2022-meclis-kararlari-2-2-3-2-2-3-4-2-2/",
+  "source_sha256": "7d93a299427686676551049bcbd84269d3b5d4b8c7cbc8f0888d49ee8c2cd8d3",
+  "issuer": "Çaydeğirmeni Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-05-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Mayıs 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "MAYIS 2022 MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "post_date": "2022-05-09T11:15:00",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
