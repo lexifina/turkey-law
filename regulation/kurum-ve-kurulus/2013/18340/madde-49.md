@@ -1,0 +1,7 @@
+Müşterinin sözleşmenin bozulmasına neden olması
+MADDE 49 – (1) Sözleşme yapıldıktan sonra müşterinin,
+a) Taahhüdünden vazgeçmesi,
+b) Taahhüdünü şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi,
+c) Kiraya verilen veya kulanma izni verilen devletin hüküm ve tasarrufu altındaki yeri, sözleşmesinde öngörülen amaç dışında kullanması ve İdarenin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumu devam ettirmesi,
+hâllerinde, ayrıca protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı Hazineye gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(2) Gelir kaydedilen kesin teminat, müşterinin borcuna mahsup edilemez.

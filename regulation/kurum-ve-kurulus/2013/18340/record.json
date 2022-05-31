@@ -1,0 +1,65 @@
+{
+  "source_id": "7.5.18340",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TABİAT VARLIKLARI VE DOĞAL SİT ALANLARI İLE ÖZEL ÇEVRE KORUMA BÖLGELERİNDE BULUNAN DEVLETİN HÜKÜM VE TASARRUFU ALTINDAKİ YERLERİN İDARESİ HAKKINDA YÖNETMELİK",
+  "number": "18340",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/18340",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=18340&MevzuatTertip=5",
+  "source_sha256": "525621431236905f692ee031a371dd3bf88412294b6d896d9501a9c6810f9192",
+  "source_bytes": 119221,
+  "published": "2013-05-02",
+  "gazette": "28635",
+  "in_force": "2022-05-31",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-31/5/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-05-31",
+      "RG-31/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-31",
+      "31/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-01",
+      "RG-1/8/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-08-01",
+      "1/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-06-23",
+      "RG-23/6/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2018-06-23",
+      "23/6/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6778,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.18340-EK.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

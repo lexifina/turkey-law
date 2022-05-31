@@ -1,0 +1,4 @@
+Kullanma izni sözleşmesinin sona ermesi ve feshi
+MADDE 64 – (1) Kullanma izni sözleşmesi, sözleşme süresinin bitiminde sona erer.
+(2) Sözleşme hükümlerine aykırı davranılması, Devletin hüküm ve tasarrufu altındaki yerin sözleşmede öngörülen amaç dışında kullanılması veya adına kullanma izni verilen tarafından talep edilmesi hâlinde sözleşme İdarece feshedilir. Bu durumda, izin sahibinden veya hak lehtarından cari yıl kullanma izni bedeli tutarında tazminat alınır ve ayrıca alınan teminatlar Hazineye gelir kaydedilir.
+(3) Kullanma izni sözleşmesinin sona ermesi veya feshedilmesi hâlinde, özel hükümler saklı kalmak kaydıyla, Devletin hüküm ve tasarrufu altındaki yerlerin üzerindeki tüm yapı ve tesisler sağlam ve işler durumda tazminat veya bedel ödenmeksizin İdareye intikal eder ve bundan dolayı adına kullanma izni verilen tarafından veya üçüncü kişilerce her hangi bir hak ve talepte bulunulamaz.

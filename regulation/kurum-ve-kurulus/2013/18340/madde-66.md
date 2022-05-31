@@ -1,0 +1,2 @@
+Kıyı yapıları
+MADDE 66 – (1) 3621 sayılı Kıyı Kanunu ve 3/8/1990 tarihli ve 20594 sayılı Resmî Gazete’de yayımlanan Kıyı Kanununun Uygulanmasına Dair Yönetmeliğe uygun olarak kullanılmak ve ilgili kuruluşlardan izin alınmak suretiyle; kıyıda deniz turizmi tesisleri, tersane, liman, barınak, iskele, yanaşma yeri, rıhtım ve benzeri türde tesis yapan yatırımcılara azami otuz yıla kadar kullanma izni verilebilir.

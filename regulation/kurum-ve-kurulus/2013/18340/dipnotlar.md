@@ -1,0 +1,2 @@
+[1] 23/6/2018 tarihli ve 30457 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu maddenin başlığı ‘’İhale usullerine tabi olmayan işler’’ iken metne işlendiği şekilde değiştirilmiştir.
+[2] 23/6/2018 tarihli ve 30457 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu bölümün başlığı ‘’Kıyı ve Sahil Şeritlerinde Verilecek İzinler, Yasaklar ve Sorumluluklar’’ iken metne işlendiği şekilde değiştirilmiştir.
