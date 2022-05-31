@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "10997",
+  "decision_date": "2022-05-31",
+  "title": "1/6/2022’den itibaren geçerli olacak elektrik tarifeleri tabloları hakkında",
+  "resmi_gazete_date": "2022-06-01",
+  "resmi_gazete_number": "31853",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları",
+    "Elektrik Faturalarına Esas Tarife Tabloları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ISdhJg3r7xY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ISdhJg3r7xY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=dGImZhwZjFw="
+  ],
+  "source_sha256": "ec0d3a6b260b49ca966332a4d7083e97cee313332613a8b18ab637ae1f564f2e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-05-31",
+  "law_text_complete": true
+}
