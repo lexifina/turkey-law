@@ -1,0 +1,29 @@
+{
+  "number": "99",
+  "number_as_published": "2022/99",
+  "year": 2022,
+  "month": 5,
+  "title": "Mahalli İdareler Bütçe ve Muhasebe Yönetmeliği’nin 40. Maddesine istinaden Mali Hizmetler Müdürlüğü tarafından 2021 mali yılın bitiminden itibaren hazırlanan kesin hesap cetvelleri Belediye Encümenimizin 31.03.2022 tarih ve 105 sayılı kararıyla incelenmiş olup, 5393 sayılı Yasanın 34/a maddesi gereğince, Kesin Hesap ve ekleri Belediye Meclisince görüşülerek oy birliği ile kabul edilip, karara bağlanmıştır.",
+  "decision_date": null,
+  "index_date": "2022-05-31",
+  "date_precision": "month",
+  "period": "Mayıs 2022",
+  "source": "https://www.haliliye.bel.tr/icerik/6100/39/mayis-2022",
+  "official_page": "https://www.haliliye.bel.tr/icerik/6100/39/mayis-2022",
+  "official_document": null,
+  "source_sha256": "c87d3fb9d6ebdbf4de7fbd0c72d6023c0c3442036b0ce6a617ef32af33554325",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2022-05-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Mayıs 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "MAYIS 2022",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
