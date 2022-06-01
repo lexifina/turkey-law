@@ -1,0 +1,24 @@
+{
+  "number": "109",
+  "number_as_published": "2022-109",
+  "year": 2022,
+  "title": "Belediyemiz tarafından “Tatil Günlerinde Çalışma Ruhsatı Harcı” tarifesinin belirlenmesi ve 19.10.2021 tarih ve 2021/141 sayılı Meclis Kararı ile kabul edilen “Bodrum Belediyesi 2022 Yılı Vergi ve Harçlar ile Ücret Tarifesine eklenmesine ilişkin teklifin, Plan ve Bütçe Komisyonuna havale edilmesine, oy birliği ile karar veri ...",
+  "decision_date": "2022-06-01",
+  "source": "https://www.bodrum.bel.tr/meclis_kararlari",
+  "official_document": null,
+  "source_sha256": "36f43b06e3286682d4de72a2f9f74706691b0d695f1c5dc1c19278c417ce11e6",
+  "issuer": "Bodrum Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2022-06-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 1.6.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.bodrum.bel.tr/meclis_karari.php?id=2472",
+  "summary_shortened_in_listing": true,
+  "record_scope": "one council decision (summary as listed)"
+}
