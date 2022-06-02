@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11001",
+  "decision_date": "2022-06-02",
+  "title": "Kadooğlu Petrolcülük Taşımacılık Tic. San. İth. ve İhr. A.Ş.’nin; DEP/1886-2/25334 sayılı depolama lisansı kapsamında faaliyette bulunan Mersin Tesisine ilişkin",
+  "resmi_gazete_date": "2022-06-03",
+  "resmi_gazete_number": "31855",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PqCb8VitqCk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PqCb8VitqCk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ip3jW/+EmyA="
+  ],
+  "source_sha256": "7f2297d542be27c2983e7cac8ba27c020d28017aab6fc81d008428c29497f750",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-06-02",
+  "law_text_complete": true
+}
