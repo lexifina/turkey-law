@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39550",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39550",
+  "issuer": "Türkiye Kömür İşletmeleri Kurumu Genel Müdürü",
+  "issuer_slug": "turkiye-komur-isletmeleri-kurumu-genel-muduru",
+  "path": "regulation/turkiye-komur-isletmeleri-kurumu-genel-muduru/2022/39550",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39550&MevzuatTertip=5",
+  "source_sha256": "11bad31251b80fe5f3965a44a7184c8a50075323be1e7f713164bf6f5a73b179",
+  "source_bytes": 11058,
+  "published": "2022-06-02",
+  "gazette": "31854",
+  "in_force": "2022-06-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 232,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39550-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
