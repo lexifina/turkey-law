@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35718",
+  "decision_date": "2022-06-02",
+  "source_id": 36114,
+  "chamber": "2",
+  "ilam_number": "242",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36114/",
+  "source_sha256": "2d0eda994b9b546eaf76c20b7f05d099c9b7beb3acf4476eee4925c9431c99b4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
