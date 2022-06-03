@@ -1,0 +1,3 @@
+Yönetim Kurulu
+MADDE 9 – (Değişik:RG-3/6/2022-31855)
+(1) Yönetim Kurulu; Müdür, müdür yardımcıları ve Müdürün önerisiyle Merkezin çalışma konularında uygulamalı faaliyet gösteren sağlık bilimleri alanındaki Üniversite öğretim üyeleri arasından Rektör tarafından üç yıl süre için görevlendirilen dört üye olmak üzere toplam yedi üyeden oluşur. Süresi dolan üyeler tekrar görevlendirilebilir. Süresi bitmeden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir. Yönetim Kurulu üye tam sayısının salt çoğunluğu ile toplanır ve salt çoğunluğu ile karar verir. Oyların eşitliği durumunda Müdürün oyu yönünde karar alınmış sayılır.

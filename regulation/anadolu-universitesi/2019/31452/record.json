@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2019-04-24",
+      "24.04.2019",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-03",
+      "RG-3/6/2022-31855",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-03",
+      "RG-3/6/2022-31855",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-03",
+      "RG-3/6/2022-31855",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-03",
+      "3/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-3/6/2022-31855",
+  "first_law": null,
+  "gazette": "30754",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-03",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Anadolu Üniversitesi",
+  "issuer_slug": "anadolu-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/anadolu-universitesi/2019/31452",
+  "published": "2019-04-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=31452&MevzuatTertip=5",
+  "source_bytes": 47527,
+  "source_id": "8.5.31452",
+  "source_sha256": "1fe7dbb3acf800d82bf0412bb87c553fa601575ca9992e79176b341d96378703",
+  "text_status": "current-consolidated",
+  "title": "ANADOLU ÜNİVERSİTESİ BİTKİ, İLAÇ VE BİLİMSEL ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 179,
+  "word_count": 814
+}
