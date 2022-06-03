@@ -1,0 +1,4 @@
+Kişisel veri güvenliği ve gizlilik
+MADDE 14- (1) Güvenlik soruşturması ve arşiv araştırması yapmakla görevli birimler ile Değerlendirme Komisyonları, veri güvenliğine ilişkin önlemleri alır.
+(2) Güvenlik soruşturması ve arşiv araştırması işlemlerinin her evresinde gizliliğe uyulur. İlgili bilgi ve belgeler yasal olarak bilmesi gerekenlerden başkasına verilmez ve açıklanmaz. Arşiv araştırmasındaki hususlar hariç olmak üzere güvenlik soruşturması kapsamında elde edilen tüm verilere ilişkin bilgi ve belgeler ile Değerlendirme Komisyonu kararlarına yönelik işlemler, Gizlilik Dereceli Belgelerde Uygulanacak Usul ve Esaslar Hakkında Yönetmelikte “gizli” gizlilik dereceli belgeler için belirtilen hükümlere göre yürütülür.
+(3) Bu Yönetmelik kapsamında elde edilen kişisel veriler, amacı dışında işlenemez ve aktarılamaz.

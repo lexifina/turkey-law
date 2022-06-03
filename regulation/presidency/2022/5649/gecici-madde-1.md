@@ -1,0 +1,3 @@
+Gizlilik dereceli birim ve kısımların bildirilmesi ile devam eden işlemler
+GEÇİCİ MADDE 1- (1) Kamu kurum ve kuruluşları tarafından 6 ncı madde gereğince belirlenen gizlilik dereceli birim ve kısımlar, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren 60 gün içerisinde Cumhurbaşkanlığına bildirilir.
+(2) Birinci fıkra gereğince bildirim yapılıncaya kadar talep edilecek güvenlik soruşturması ve arşiv araştırmaları ile bu Yönetmeliğin yürürlüğe girdiği tarihten önce başlatılan güvenlik soruşturması ve arşiv araştırması işlemleri, 16 ncı maddenin birinci fıkrası ile yürürlükten kaldırılan yönetmeliğin 7315 sayılı Kanuna aykırı olmayan hükümlerine göre sonuçlandırılır.
