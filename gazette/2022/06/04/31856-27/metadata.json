@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-06-04",
+  "issue": "31856",
+  "edition": "regular",
+  "item": 27,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Çankaya Üniversitesi Yabancı Diller Bölümü İngilizce Hazırlık Eğitimi Birimi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220604-27.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220604.htm",
+  "index_sha256": "b0354e43445dd21041644142152083a3138f8811b15f4993e797a16723a0f0eb",
+  "index_header": "4 Haziran 2022 ... 31856 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220604.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
