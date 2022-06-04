@@ -1,0 +1,3 @@
+Başvuruların değerlendirmeye alınmaması ve arşivlenmesi
+MADDE 9- (1) CİMER’e yapılan bir başvurunun geri alınması ya da değerlendirmeye alınmaması talebi, ancak bu başvuruya yönelik işlemler sonuçlanmamış olması şartıyla istenebilir. Konusu itibarıyla geçerliliği kalmayan başvurular için geri alma ya da değerlendirmeye alınmama talebinde bulunulamaz.
+(2) Başvuru ve başvuru sahibine ilişkin tüm bilgiler, yapılan başvurudan dolayı ileride doğabilecek hukuki uyuşmazlıklar nedeniyle yargı organları ile diğer yetkili makamların taleplerini yerine getirmek üzere 6698 sayılı Kanun ve ilgili mevzuat hükümleri uyarınca arşivlenir.

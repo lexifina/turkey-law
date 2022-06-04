@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-5690",
+  "number": "5690",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "CUMHURBAŞKANLIĞI İLETİŞİM MERKEZİ YÖNETMELİĞİ",
+  "published": "2022-06-04",
+  "enacted": "2022-06-03",
+  "gazette_number": "31856",
+  "in_force": "2022-06-04",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-06-04, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5690&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "4e3db0c9588593289decf1854b4128ae40ef6f9d2e712463431e03c247598ae1",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
