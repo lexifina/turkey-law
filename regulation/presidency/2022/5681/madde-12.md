@@ -1,0 +1,17 @@
+Seçeneklerin analizi ve karşılaştırılması
+MADDE 12- (1) Her bir seçenek, uygun bir analitik yöntem kullanılarak analiz edilir ve karşılaştırılır. Seçenekler değerlendirilirken fayda ve maliyetlerin büyük ölçüde parasallaştırılabildiği durumlarda fayda-maliyet analizi yönteminin kullanılması esastır. Fayda-maliyet analizinde:
+a) Düzenlemeden doğrudan etkilenecek her bir paydaş bazında düzenleme önerisinin, alternatif önerinin ve mevcut durumun devamı seçeneklerinin yıllar itibarıyla gerçekleşecek olası maliyetleri ve faydaları tespit edilir.
+b) Belirli bir paydaş grubunun ötesinde, toplumun geneline yayılacak olası maliyetler ve faydalar da düzenleme önerisi, alternatif öneri ve mevcut durumun devamı seçenekleri için ayrı ayrı belirlenir.
+c) Her bir seçenek için net fayda, seçeneğin faydalarından maliyetlerinin çıkarılmasıyla elde edilir.
+ç) Seçenekler oluşacak toplam etki bazında karşılaştırılır. Düzenleme önerisinin toplam etkisi, düzenlemeyle birlikte yıllar itibarıyla paydaşlar ve toplumun geneline yayılan toplam net faydanın, mevcut durumun devamında oluşacak toplam net fayda üzerine ilave edilecek artımlı değer ile ölçülür.
+d) Alternatif önerinin toplam etkisi de mevcut durumun devamı seçeneği üzerine ilave edilecek artımlı değer ile tespit edilir.
+e) Maliyetler, düzenlemeden doğrudan etkilenen ve düzenlemenin muhatabı olan sektör veya kesimlerin üzerine düşen doğrudan uyum maliyetlerini, kamunun üzerine düşen uygulama, izleme ve yaptırım maliyetlerini ve herhangi bir sektör/kesim üzerine düşmeyip ekonominin/toplumun geneline yayılan dışsal maliyetleri içerecek şekilde ve mümkün olduğunca parasallaştırılarak ele alınır. Bunların haricinde düzenlemeden dolayı etkileneceği düşünülen sektörler için önemli değişiklikler öngörülüyor ise söz konusu dolaylı maliyetler de ayrıca nitel olarak değerlendirmeye alınabilir.
+f) Hem tek seferlik maliyetler hem de tekrarlanan maliyetler maliyet hesaplamasına dâhil edilir.
+g) Çifte hesaplamadan kaçınılır.
+ğ) Faydalar, düzenlemeden doğrudan etkilenen ve düzenlemenin muhatabı olan sektör veya kesimlerin üzerine düşen doğrudan faydaları, kamunun üzerine düşen faydaları ve ekonominin/toplumun geneline yayılan dışsal faydaları içerecek şekilde ve mümkün olduğunca parasallaştırılarak ele alınır. Bunların haricinde düzenlemeden dolayı etkileneceği düşünülen sektörler için önemli değişiklikler öngörülüyor ise söz konusu dolaylı faydalar da ayrıca nitel olarak değerlendirmeye alınabilir.
+h) Maliyetler ve faydalar belirlenirken resmi veriler, istatistikler, uluslararası göstergeler, endeksler, paydaş anketleri, mülakat, uzman raporları gibi araçlardan faydalanılır.
+ı) Fayda ve maliyetlerin parasal olarak ölçülemediği hâllerde de analiz raporunda söz konusu fayda ve maliyetlere yer verilir ve parasallaştırılamamasının gerekçeleri detaylı bir şekilde açıklanır.
+i) Düzenlemenin fayda ve maliyetlerinin paydaşlar arasındaki dağılım etkileri de mutlaka ayrı olarak değerlendirilir.
+(2) Fayda ve maliyetlerin belirlenememesi, rakamsallaştırılamaması ve/veya parasallaştırılamaması nedeniyle fayda-maliyet analizi yapılmasının uygun olmadığı durumlarda gerekçesi açıklanmak suretiyle öncelikle çok kıstaslı karar analizi olmak üzere, maliyet-etkinlik analizi, en düşük maliyet analizi veya GZFT analizi kullanılır.
+(3) Seçenekler değerlendirilirken her bir seçeneğe ilişkin varsayımlar, riskler, belirsizlikler ve seçeneğin uygulanmasının önündeki engeller de tespit edilir.
+(4) Yapılan analiz sonucunda en uygun olan seçenek belirlenir.

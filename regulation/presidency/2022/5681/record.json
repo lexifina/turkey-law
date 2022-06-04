@@ -1,0 +1,71 @@
+{
+  "id": "presidency-regulation-5681",
+  "number": "5681",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "DÜZENLEYİCİ ETKİ ANALİZİNİN UYGULANMASINA İLİŞKİN USUL VE ESASLAR",
+  "published": "2022-06-04",
+  "enacted": "2022-06-03",
+  "gazette_number": "31856",
+  "in_force": "2022-06-04",
+  "in_force_basis": "Official own commencement clause: 2022-06-04; official source: Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.; official Gazette 2022-06-04",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5681&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "d5219553f9d85225744ed88041a5a5f3606e6a005197d5c692778fc8f773d1a4",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 4,
+    "referenced": 0,
+    "omitted": 4
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5681_dosyalar/image001.png",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "9f6a797f172458b99856a0ce3bedf66a74a263723f7e3af5c0862e7fd0153ccc",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5681_dosyalar/image002.png",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "f0dea96ba25a3891ff36dc33cfc9b23b01f9036f08ab7c94277b3263e423d430",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5681_dosyalar/image003.png",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "807bf7af7e2251eb43ed9b4eda0f9a93ef0f8981b60d2595e7cd4bcc8359818a",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.5681_dosyalar/image004.png",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "0d53745ee6cb9eeff0f928333816111a2526ce8867ff35c591970285a37b94e4",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}

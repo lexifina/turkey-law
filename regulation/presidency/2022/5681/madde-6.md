@@ -1,0 +1,6 @@
+Genel ilke ve esaslar
+MADDE 6- (1) Düzenleyici etki analizi veriye dayalı kanıtların toplanmasını ve analiz edilmesini içeren ve nihai karara katkı veren bir ön değerlendirme aracı olup saydam, objektif, tarafsız, katılımcı ve kapsayıcı bir anlayışla yapılır.
+(2) Düzenleyici etki analizi ile mevcut durumun sürdürülmesi de dâhil olmak üzere tüm seçenekler belirlenir. Her bir seçeneğe ilişkin riskler ve belirsizlikler de mutlaka dikkate alınarak hangi alternatifin en uygun olduğu ortaya konulur.
+(3) Düzenleyici etki analizi yapılırken düzenlemeden etkilenecek tüm kesimlere olan etkiler dikkate alınır. Bazı durumlarda idare gerekçesine analiz raporunda yer vermek kaydıyla öncelik belirleyebilir.
+(4) Düzenleyici etki analizi yapılırken en güncel ve doğru veriler kullanılır. Tüm kurum ve kuruluşlar, kişisel verilerin korunması kaydıyla ve milli güvenlik, savunma ve istihbarat hizmetlerine ilişkin gizlilik gerektiren bilgiler ile ilgili mevzuatına göre devlet sırrı ve ticari sır niteliğindeki bilgiler ve ülkenin ekonomik çıkarları açısından gizli kalması gereken bilgiler hariç olmak üzere, kendilerinden istenen veri, bilgi ve belgeleri analizi yürüten idareye ve Başkanlığa temin eder.
+(5) Düzenleyici etki analizi ilgili taraflar ve paydaşlarla istişare edilerek yapılır.
