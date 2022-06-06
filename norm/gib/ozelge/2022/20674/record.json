@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27523430-200.03.01[2950368442]-35929",
+  "source_id": 20674,
+  "date": "2022-06-06",
+  "title": "İcra Dairelerine Yapılan Vekalet Ödemelerinde Serbest Meslek Makbuzu Düzenlenmemesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/20674",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8f2d1be34136e59a46638b123ab9a919452bb804844b713b3355fb7d1c8eb047",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
