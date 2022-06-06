@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[28-2022.4799]-300836",
+  "source_id": 32140,
+  "date": "2022-06-06",
+  "title": "Oksijen gazı tesliminde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32140",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "6c90147c22f8d901e2da57061fe673a1190e312b01f46e2e418f3fcafe6dd81f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
