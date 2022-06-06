@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97895701-155[2019/301]-626764",
+  "source_id": 34269,
+  "date": "2022-06-06",
+  "title": "Belediyenin damga vergisi beyan ve ödeme mükellefiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34269",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "71c1ba523ea7302696e76b4d1b60dc3bd1c5c0a587a01c120f28b6714cb2c082",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
