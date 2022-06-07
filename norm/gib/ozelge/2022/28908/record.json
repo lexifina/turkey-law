@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "42152853-130-10517",
+  "source_id": 28908,
+  "date": "2022-06-07",
+  "title": "İşyeri Servis Araçlarının Dezenfekte Edilmesi Hizmetinin Tevkifata Tabi Olup Olmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28908",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "a6095c18ab42dc6c175f18783ab37e9b9e56476927de1b1020ebc427bd4aab66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
