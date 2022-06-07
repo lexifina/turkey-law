@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25947440-130[2021]-13791",
+  "source_id": 27059,
+  "date": "2022-06-07",
+  "title": "2547 sayılı Kanunun ek 45 inci maddesi kapsamındaki iskontolarda değersiz alacak uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/27059",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4ca90eaef7f4f41eeb8cbdfcf7912c22fcacd35f21914cb274f49a4d3f55ef16",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
