@@ -1,0 +1,2 @@
+Danışma Kurulu
+MADDE 12 – (1) Müdür ve müdür yardımcıları, Danışma Kurulunun daimi üyeleridir. Danışma Kurulu; daimi üyelere ek olarak, bilimsel ve teknolojik araştırma ve uygulamalarla doğrudan ilgisi olan ve sahip olduğu birikim ve deneyimlerinden yararlanılabilecek Üniversite içindeki ve dışındaki kişilerden oluşmak üzere, Merkez imkânlarından yararlanan akademik birimlerin eşit temsil edilmesine özen gösterilerek, Rektör tarafından üç yıl için seçilen en az on, en çok yirmi kişiden oluşur.
