@@ -1,0 +1,3 @@
+Diğer hükümler
+MADDE 54- (1) Üniversite tarafından, afet ve salgınlarda tez aşamasındaki lisansüstü eğitim öğrencilerine talepleri halinde bir yarıyıl, afet veya salgının aşamasına göre tekrar başvurmaları durumunda bir yarıyıl daha olmak üzere en fazla iki yarıyıl ek süre verilebilir, verilen bu ek süreler azami süreden sayılmaz.
+(2) Lisansüstü programı öğrencileri için yapılan sınav ve toplantılar, danışmanın talebi üzerine ilgili anabilim dalının teklifi ile enstitü yönetim kurulunun onay vermesi durumunda kayıt altına almak koşulu ile uzaktan erişim yöntemleri desteği kullanılarak yapılabilir.

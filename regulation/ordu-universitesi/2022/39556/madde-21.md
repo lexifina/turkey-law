@@ -1,0 +1,6 @@
+Mazeret ve izinli sayılma
+MADDE 21- (1) Öğrencilere, belgelendirecekleri önemli mazeretlerinin veya eğitim öğretimlerine katkıda bulunacak Üniversite dışı burs, staj, araştırma ve benzeri imkânların ortaya çıkması halinde, enstitü yönetim kurulunca en fazla iki yarıyıla kadar izin verilebilir. Mazereti enstitü yönetim kurulunca kabul edilen öğrenci, izinli olduğu süre boyunca derslere devam edemez ve sınavlara giremez.
+(2) Öğrenciler, izinle ilgili yazılı başvurularını ders kaydı/kayıt yenileme süresinden önce bağlı olduğu enstitüye yapar. Ani hastalık ve beklenmedik haller dışında bu süreler bittikten sonra yapılacak başvurular işleme konulmaz.
+(3) Ders sınavlarına giremeyen öğrencilerin, mazeretleriyle ilgili her türlü müracaatları, mazeretin bitim tarihinden itibaren en geç bir hafta içinde ilgili enstitü müdürlüğüne yapılır. Süresi içinde yapılmayan müracaatlar, sınav tarihlerine isabet eden bir günlük tedavi amaçlı belgeler, geç sunulan raporlar işleme konulmaz. Sağlık raporu ilgili yönetim kurulunca kabul edilen öğrenci, rapor süresince derslere devam edemez ve sınavlara giremez.
+(4) Askerlik görevi nedeniyle enstitülerden geçici olarak ayrılan öğrenciler izinli sayılır.
+(5) Enstitü yönetim kurulunca izinli sayılan süreler, eğitim-öğretim süresinden sayılmaz.

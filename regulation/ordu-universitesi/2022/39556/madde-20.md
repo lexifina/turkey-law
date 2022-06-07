@@ -1,0 +1,3 @@
+Ders saydırma
+MADDE 20- (1) Bir öğrencinin enstitüye kaydolmadan önce son beş yıl içinde yurt içi/yurt dışı yükseköğretim kurumlarından öğrenci olarak aldığı ve başarılı olduğu kredili lisansüstü derslerden kendi anabilim/anasanat müfredatı ile ilgili olanlar, danışmanının görüşü, anabilim/anasanat dalı başkanlığının teklifi ve enstitü yönetim kurulunun onaylaması şartıyla devam etmekte olduğu programa intibakı yapılarak transfer edilir.
+(2) Karşılıklı değişim programları çerçevesinde yurt içi ve yurt dışındaki üniversitelerden alınan dersler, eğitim programında eşdeğer olan veya yerine sayılabilecek ders varsa bu derslerle birlikte adı ve kredisi ile öğrencinin not dökümüne işlenir.

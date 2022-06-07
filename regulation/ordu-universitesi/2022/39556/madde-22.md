@@ -1,0 +1,2 @@
+Kayıt silme
+MADDE 22- (1) 18/8/2012 tarihli ve 28388 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Öğrenci Disiplin Yönetmeliği ile diğer mevzuat hükümlerine göre; yükseköğretim kurumlarından çıkarma cezası almış olanların, sağlık sorunları nedeniyle öğrenimine devam edemeyeceği raporla belirlenenlerin ve kendi isteği ile kaydını alanların enstitü ile ilişikleri enstitü yönetim kurulu kararıyla kesilir.

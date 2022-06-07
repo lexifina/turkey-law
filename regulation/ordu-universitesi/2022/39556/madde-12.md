@@ -1,0 +1,2 @@
+Lisansüstü programlara kayıt
+MADDE 12- (1) Lisansüstü programlara kabul edilen öğrencilerin listesi enstitü yönetim kurulu kararı ile kesinleşir ve enstitü müdürlüğü tarafından ilan edilir. Öğrenci kayıt işlemleri, lisansüstü programın özellikleri dikkate alınarak enstitü müdürlüğü tarafından yapılır. Akademik takvimde belirtilen süre içinde kaydını yaptırmayan adaylar, öğrencilik haklarını kaybeder. Çeşitli nedenlerle kayıt yaptırmayan adayların yerine, yedek listesindeki adaylara lisansüstü akademik takvimdeki süreler içerisinde puanlama sırasına göre kayıt hakkı tanınır.

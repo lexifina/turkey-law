@@ -1,0 +1,4 @@
+DÖRDÜNCÜ BÖLÜM
+Eğitim-Öğretim ile İlgili Esaslar
+Öğretim dili
+MADDE 14- (1) Enstitülerde öğretim dili Türkçedir. Ancak enstitü kurulunun önerisi ve Senatonun kararı ile belirli programlarda bütün dersler ya da bazı dersler gerekli olduğu dönemlerde yabancı dilde verilebilir. Tezler, sanat eseri ve sanatta yeterlik eseri çalışmasına ilişkin raporlar da Türkçe yazılır. Ancak ilgili anabilim/anasanat dalı akademik kurulunun önerisi ve enstitü yönetim kurulunun onayı ile bir tezin, sanat eserinin ya da sanatta yeterlik eseri çalışması raporunun yabancı dilde yazılmasına karar verilebilir. Lisansüstü eğitim-öğretimin tamamının bir yabancı dilde yapıldığı programlarda ise dersler ilgili yabancı dilde yürütülür. Yeterlik, tez/sanat eseri raporu/sanatta yeterlik eseri çalışması raporu, savunma sınavları ile raporları yabancı dilde ya da Türkçe yazılabilir.

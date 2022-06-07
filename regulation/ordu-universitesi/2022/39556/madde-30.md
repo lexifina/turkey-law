@@ -1,0 +1,14 @@
+ALTINCI BÖLÜM
+Tezsiz Yüksek Lisans Programı
+Amaç
+MADDE 30- (1) Tezsiz yüksek lisans programının amacı; öğrenciye mesleki konularda bilgi kazandırmak ve mevcut bilginin uygulamada nasıl kullanılacağını göstermektir.
+(2) Bu program, toplam 30 ulusal kredi ve 60 AKTS’den az olmamak koşuluyla en az 10 adet ders ile dönem projesi dersinden oluşur.
+(3) Dönem projesi; öğrencinin yüksek lisans ders programında edindiği bilgilerin etkin olarak kullanılmasına yöneliktir. Dönem projesi bir yarıyıl sürecek şekilde ikinci yarıyıldan itibaren danışman gözetiminde hazırlanır.
+(4) Danışman, öğrencinin dönem projesinin konusunu birinci yarıyılın sonuna kadar enstitü müdürlüğüne teklif edilmek üzere anabilim/anasanat dalı başkanlığına sunar. Proje konusu enstitü yönetim kurulu kararı ile kesinleşir.
+(5) Dönem projesi dersi ulusal kredisiz olup başarılı veya başarısız olarak değerlendirilir. Öğrenci, dönem projesinin alındığı yarıyılda dönem projesine kayıt yaptırmak ve yarıyıl sonunda yazılı bir rapor vermek zorundadır.
+(6) Dönem projesi ikinci yarıyılda alınan derslerle birlikte yürütülebilir. Dönem projesini tamamlayan öğrenci hazırladığı projeyi enstitü tez yazım kurallarına uygun şekilde hazırlayıp bağlı bulunduğu anabilim/anasanat dalı başkanlığı vasıtasıyla enstitüye teslim eder.
+(7) Dönem projesi; danışman ve ilgili anabilim/anasanat dalı tarafından, öğretim üyeleri arasından önerilen ve enstitü yönetim kurulu tarafından atanan, birisi danışman olmak üzere üç kişilik jüri tarafından başarılı veya başarısız olarak değerlendirilir. Başarısız olunması halinde, öğrenciye en fazla üç ay ek süre verilir. Başarısızlığın devamı durumunda 31 inci madde hükümleri uygulanır.
+(8) Öğrencinin alacağı derslerin en çok üç tanesi, anabilim dalı akademik kurulunun önerisi ve enstitü yönetim kurulu kararı ile lisans öğrenimi sırasında alınmamış olması koşuluyla lisans derslerinden de seçilebilir.
+(9) Enstitüler bünyesinde bulunan tezsiz lisansüstü programdan tezli lisansüstü programlara geçiş yapılabilir. Aynı bilim/sanat dalında (bilim/sanat dalı olmayan programlar için aynı anabilim/anasanat dalı) olmak koşuluyla tezsiz bir programdan tezli programa geçiş, öğrencinin geçiş için başvurduğu tarih itibarıyla tezli lisansüstü programın asgari başvuru koşullarını sağlaması, tezsiz programda aldığı dersleri başarıyla tamamlamış olması ve genel not ortalamasının 4,00 üzerinden en az 3,50 olması koşuluyla öğrencinin talebi, ilgili anabilim/anasanat dalı başkanlığının önerisi ve enstitü yönetim kurulu kararıyla gerçekleşir. Bu durumda tezsiz lisansüstü programda alınmış olan dersler, enstitü yönetim kurulu kararıyla tezli lisansüstü programdaki derslerin yerine sayılabilir.
+(10) Senato tarafından belirlenen esaslara göre tezsiz yüksek lisans programının sonunda yeterlik sınavı uygulanabilir.
+(11) Tezsiz yüksek lisans programı ikinci öğretimde de yürütülebilir.
