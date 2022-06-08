@@ -1,0 +1,800 @@
+8 Haziran 2022 ÇARŞAMBA
+Resmî Gazete
+Sayı : 31860
+YÖNETMELİK
+Çevre, Şehircilik ve İklim Değişikliği Bakanlığı
+(Tapu ve Kadastro Genel Müdürlüğü)’ndan:
+TAPU VE
+KADASTRO VERİLERİNİN İŞLENMESİ VE ELEKTRONİK
+ORTAMDA YAPILACAK İŞLEMLER HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; Tapu ve Kadastro Genel
+Müdürlüğü merkezi veri tabanında yer alan verilerin işlenmesine ve elektronik
+ortamda yapılacak işlemlere ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Tapu ve Kadastro Genel Müdürlüğü
+merkezi veri tabanında yer alan verilerin çevrimiçi olarak işlenmesine ve
+elektronik ortamda yapılacak işlemlere ilişkin usul ve esasları kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 22/11/2001 tarihli ve 4721
+sayılı Türk Medeni Kanununun 1020 nci maddesi, 4 sayılı Bakanlıklara Bağlı,
+İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların
+Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 480 inci maddesinin
+birinci fıkrasının (ğ) bendi, 487 nci maddesinin altıncı fıkrası, 488 inci
+maddesinin birinci ve beşinci fıkraları ile 22/7/2013 tarihli ve 2013/5150
+sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Tapu Sicili Tüzüğünün 14
+üncü ve 15 inci maddelerine dayanılarak hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Açık tapu/kadastro verisi: Açık veri haline
+getirilen tapu ve kadastro verisini,
+b) Açık veri: Ücretsiz olarak veya hazırlanma
+maliyetini geçmeyecek şekilde internet üzerinden herkesin erişimine
+sunulan, üzerinde herhangi bir fikri mülkiyet hakkı bulunmayan ve herhangi
+bir amaçla serbestçe kullanılabilen, makineler tarafından okunabilen ve
+böylelikle diğer veriler ve sistemlerle birlikte çalışabilen anonim hale
+getirilmiş veriyi,
+c) Alıcı: TAKPAS’tan faydalanan kişi veya
+kurumları,
+ç) Alt kullanıcı: Alıcının, uygulamalar üzerinden
+TAKPAS’tan faydalanması için yetkilendirdiği kişileri,
+d) Anonim hale getirme: Tapu ve kadastro verilerinin,
+başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya
+belirlenebilir bir kişiyle ilişkilendirilemeyecek hâle getirilmesini,
+e) Belirteç bilgisi: Alıcının, TAKPAS ile
+yaptıkları sorgulamaya ait kendi sistemleri/işlemleri ile ilişkisini gösterir
+işlem sistem numarası, işlem evrak numarası gibi bilgileri,
+f) Elektronik kabul beyanı: Protokol imzalananlar
+dışında kalan kişilerin, TAKPAS arayüzleri üzerinden veriye ulaşmaları için
+elektronik ortamda bilgisine sunulan metni kabulüne ilişkin beyanını,
+g) Elektronik ortamda yapılacak işlemler: 4 sayılı
+Cumhurbaşkanlığı Kararnamesinin 488 inci maddesinin beşinci fıkrası
+uyarınca, Genel Müdürlük tarafından belirlenen ve tapu müdürlüklerince
+tescili sağlanan işlemlerden, yargı mercileri ile yetkili kurum ve
+kuruluşların taleplerine istinaden ilgili mercilerce doğrudan elektronik
+ortamda tescil, terkin veya tadil edilebilecek işlemleri,
+ğ) Eşsiz belirteç: Alıcının onaylanmış toplu veri
+taleplerinde ihtiyaç duyulan verinin TAKPAS’ta tanımlanan servisler
+aracılığı ile alınmasını sağlayan, onaylanan her toplu veri talebi için
+Genel Müdürlükçe eşsiz olarak oluşturulan, sorgulamanın yapılabileceği gün
+içi zaman aralığını da içerir, TAKPAS arayüzleri üzerinden üretilen erişim
+süresi tanımlı yetki anahtarını,
+h) Genel Müdürlük: Tapu ve Kadastro Genel
+Müdürlüğünü,
+ı) İlgili kişi: Türk Medeni Kanununun 1020 nci
+maddesi kapsamında merkezi veri tabanındaki tapu ve kadastro verisine
+ulaşma hakkına sahip ilgisini inanılır kılan kişiyi,
+i) Kimliksizleştirme: Tapu ve kadastro verilerinin;
+kimliği belirli veya belirlenebilir kişiyle ilişkilendirilememesi için
+teknik ve idari tedbirlerin alınması şartıyla ve farklı bir ortamda
+muhafaza edilen diğer verilerle bir araya getirilmeksizin kimliği belirli
+veya belirlenebilir kişiyle ilişkilendirilemeyecek şekilde işlenmesini,
+j) Kişi: Kurumlar dışında kalan gerçek ve tüzel
+kişileri,
+k) Kişisel veri: Kimliği belirli veya
+belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+l) Kişisel verilerin işlenmesi: Kişisel verilerin
+tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin
+parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi,
+kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden
+düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale
+getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi tapu
+ve kadastro verileri üzerinde gerçekleştirilen her türlü işlemi,
+m) Kurum: Elektronik Kamu Bilgi Yönetim Sisteminde
+(KAYSİS) yer alan kamu kurum ve kuruluşlarını,
+n) Maskeleme: Tapu ve kadastro verilerinin belirli
+alanlarının, kimliği belirli veya belirlenebilir bir kişiyle
+ilişkilendirilemeyecek şekilde silinmesi, üstlerinin çizilmesi, boyanması
+ve yıldızlanması gibi işlemleri,
+o) Merkezi veri tabanı: Genel Müdürlükçe elektronik
+ortamda tutulan verileri,
+ö) Muvafakatname: Kamu kurumu niteliğindeki meslek
+kuruluşları ile taşınmaza ilişkin konularda faaliyet gösteren gerçek ve
+tüzel kişilerden, taşınmaz maliki ve hak sahiplerinin talep edilen işlemleri
+ile ilgili olarak TAKPAS’tan sorgulanma ve her türlü belgenin edinilmesine
+rıza ve taahhüt içerir beyanın gösterildiği bir örneği Ek-3’te yer alan
+belgeyi,
+p) Protokol: Tapu ve kadastro verilerini talep eden
+kurumlar, kendi işleriyle sınırlı olmak üzere kamu kurumu niteliğindeki
+meslek kuruluşları ve taşınmaza ilişkin konularda faaliyet gösteren tüzel
+kişiler ile 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması
+Kanunu ve anılan Kanun kapsamında çıkarılan düzenlemelere uygun şekilde
+hazırlanarak imzalanan TAKPAS’a erişim protokolünü,
+r) Taahhütname: Bu Yönetmelik hükümleri
+çerçevesinde kendileriyle protokol yapılan alıcının imzaladığı ve
+paylaşılan verilerin güvenliğini sağlamaya yönelik olarak almayı taahhüt
+ettikleri idari ve teknik tedbirleri içeren ve bir örneği Ek-3’ün ekinde
+yer alan belgeyi,
+s) TAKBİS: Tapu ve Kadastro Bilgi Sistemini,
+ş) Tapu ve Kadastro Paylaşım Sistemi (TAKPAS):
+Merkezi veri tabanında tutulan verilerin kurumlarla ve kişilerle paylaşılmasına
+imkân sağlayan servis, Web Tapu veya Genel Müdürlükçe belirlenen diğer
+arayüzlerden oluşan sistemi,
+t) Taşınmazı tanımlayıcı bilgiler:
+Kimliksizleştirilmiş taşınmazın; bulunduğu il, ilçe, mahalle/köy, mevkii,
+ada/parsel numarası, niteliği, yüzölçümü, kat irtifakı veya kat mülkiyeti
+durumu, varsa blok ve bağımsız bölüm numarasına ilişkin bilgileri,
+u) Veri: Genel Müdürlük tarafından üretilen veya
+arşivlenen her türlü bilgi ve belgeyi,
+ü) Web-Tapu sistemi: Elektronik ortamda
+taşınmazların yönetilebildiği, sisteme entegre edilen tapu, kadastro ve
+haritacılık işlemleri ile Osmanlıca ve eski kayıt belge işlemleri için
+başvuru yapılabilen, işlemler için gerekli olan bilgi ve belgelerin
+gönderilebilmesine olanak sağlayan, belge doğrulaması yapılabilen ve bu
+konularda üçüncü kişilere yetki verilebilen e-Devlet sistemine entegre olan
+ve Genel Müdürlüğün merkezi veri tabanı verilerine erişimi sağlayan TAKPAS
+arayüzünü,
+ifade eder.
+İKİNCİ BÖLÜM
+Tapu ve Kadastro Verileri, Erişim Usul ve Esasları
+Tapu ve
+kadastro verileri
+MADDE 5- (1) TAKPAS’taki veriler; taşınmazın gerçek ve
+tüzel kişiyle ilişkilendirilmesi ve üzerindeki hakların gösterilmesine
+ilişkin bilgileri içerir.
+(2) TAKBİS üzerindeki kayıtlar, her bir birim için,
+sicillerin elektronik ortamda tutulmaya başlandığı tarihte aktif olan ve bu
+tarihten sonra oluşan bilgileri içerir.
+(3) TAKBİS öncesi pasif kayıtlara yönelik talepler,
+kişi ve kurumlar tarafından, taşınmazın kaydına ulaşılmasını sağlayacak
+tanımlayıcı bilgileri belirtilerek tapu sicilinin tutulduğu ve dayanak
+belgelerin arşivlendiği ilgili birimlere yapılır. 30/4/2011 tarihli ve
+27920 sayılı Resmî Gazete’de yayımlanan Tapu Müdürlüklerince Yetki Alanı
+Dışında Kayıtlı Bulunan Taşınmazlarla İlgili Tapu İşlemlerinin Yapılmasına
+İlişkin Usul ve Esaslar Hakkında Yönetmelik hükümleri saklıdır.
+Veri
+erişimine ilişkin genel esaslar
+MADDE 6- (1) Alıcı tarafından veri talebi oluşturulması ve
+sorgulama yapılabilmesi için Genel Müdürlük ile protokol yapılması veya
+elektronik kabul beyanı zorunludur.
+(2) Zorunlu haller veya protokolde belirtilen özel
+haller dışında güvenli ve kesintisiz bir hizmet sunulması esastır.
+(3) Genel Müdürlük tarafından merkezi veri
+tabanında tutulan veriler, Türk Medeni Kanununda, 6698 sayılı Kanunda, 4
+sayılı Cumhurbaşkanlığı Kararnamesi ile ilgili kanunlarda, Tapu Sicili
+Tüzüğünde ve anılan mevzuat uyarınca çıkarılan düzenlemelerde belirtilen
+usul ve esaslar çerçevesinde alıcı ile yalnızca çevrimiçi olarak
+paylaşılır. Paylaşılacak veriler, alıcının veri kullanım amacı ve yasal dayanağı
+göz önünde bulundurularak belirlenir.
+(4) Alıcı, Genel Müdürlük ile imzalanan protokol
+uyarınca işleme konu kişilerin bilgilerini alabilir. Söz konusu kişilerin
+verilerini, kullanım amacı tanımlanmış faaliyetin yerine getirilmesi
+dışında başka hiçbir amaçla kullanamaz.
+(5) Kadastro verileri için arşiv onaylı olması
+kaydıyla Genel Müdürlük merkezi veri tabanından elde edilen veriler aksi
+ispatlanıncaya kadar geçerlidir.
+(6) Genel Müdürlük, veri erişim talebi kapsamında
+elde edilen bilginin yetkisiz kişilerin eline geçmesi hâlinde kime ait
+olduğunun tespit edilmesini zorlaştıracak şekilde gerekli gördüğü bilgiler
+üzerinde kısmî kimliksizleştirme veya maskeleme tedbirlerini uygular.
+(7) Alıcı tarafından alınan verilerin çıktılarında
+alıcı adı, varsa alt kullanıcı adı, tarih ve saat bilgisi yer alır.
+(8) Alıcı, aldığı verilerin gizliliğini sağlamakla
+yükümlüdürler. Bu verilerin hukuka aykırı olarak işlenmesi ve erişilmesini
+önlemek ve muhafazasını sağlamak amacıyla her türlü idari ve teknik
+tedbirleri alırlar. Tapu ve kadastro verilerinin yurt dışına aktarılmasında
+6698 sayılı Kanunun 9 uncu maddesindeki sınırlandırmalar ve kurallara
+uyulur. Özel nitelikli kişisel veriler için ise ayrıca anılan Kanunun 6 ncı
+maddesinin dördüncü fıkrası uyarınca Kişisel Verileri Koruma Kurulu
+tarafından belirlenen önlemler alınır.
+(9) TAKPAS’ın işletilmesinde, paylaşılmasında ve
+kullanılmasında; Türkiye Cumhuriyeti Anayasası, uluslararası sözleşmeler ve
+diğer mevzuatta yer alan; Devlet sırrına, kişisel verilerin korunmasına, özel
+hayatın ve soruşturmanın gizliliğine, mahkemelerce verilen gizlilik
+kararlarına, gizli tanıklığa, 27/12/2007 tarihli ve 5726 sayılı Tanık Koruma
+Kanunu ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu
+kapsamında alınan tedbir kararlarına ilişkin hükümler esas alınır.
+(10) Taşınmazı tanımlayıcı bilgilere ve taşınmaza
+yönelik hak ve kısıtlamalara herkes tarafından herhangi bir kısıtlama
+olmaksızın ulaşılabilir. 4721 sayılı Türk Medeni Kanununun 1020 nci maddesi
+kapsamında taşınmaz üzerinde hak sahibine yönelik hak ve kısıtlamalar
+sadece ilgisini inanılır kılanlar tarafından öğrenilebilir.
+TAKPAS
+verilerine erişim ve erişim hakkı
+MADDE 7- (1) TAKPAS hizmetleri; kurumlar ve kişilerin,
+arayüzler ile ulaşabilecekleri etkileşimli sorgulamalar ve kendi yazılım
+uygulamaları içerisine ekleyecekleri bölümler ile sorgulama ve elektronik
+ortamda tapu işlemleri yapmalarına olanak verecek internet servislerinden
+oluşur. Sorgulamalarda, sorgu kriterine göre sorgu sonucu olarak TAKPAS’ta
+bulunan, kurum ve kişilerin almaya yetkili olduğu bilgiler paylaşılır.
+Kurumlar ve kişilerle yetkisi dâhilinde olmayan bilgilerin paylaşılması
+engellenir.
+(2) Mahkemeler, Cumhuriyet savcılıkları, icra ve
+iflas müdürlükleri ile kamu kurum ve kuruluşlarının görevleriyle ilgili taşınmaz
+verilerine erişimi protokol düzenlenerek belirlenebilir.
+(3) Kamu kurumu niteliğindeki meslek kuruluşları
+ile taşınmaza ilişkin konularda faaliyet gösteren tüzel kişiler kendi
+işleriyle sınırlı olmak üzere, düzenlenecek protokol kapsamında gerekli verilere
+erişebilirler.
+(4) Taşınmaz malikleri ile taşınmaz üzerinde hak
+sahibi olanlar, taşınmazları hakkında elektronik kabul beyanı ile ilgili
+verilere erişebilirler.
+(5) Tapu sicilinin açıklığı ilkesi gereğince, taşınmazın
+tanımlayıcı bilgileri ile taşınmaza yönelik hak ve kısıtlamalar herkes
+tarafından elektronik kabul beyanı ile sorgulanabilir.
+Elektronik
+ortamda işlem tesisi
+MADDE 8- (1) Tapu siciline yönelik her türlü tescil, şerh,
+beyan, terkin taleplerinde; TAKPAS’tan erişilen taşınmaz ada, parsel ve
+varsa bağımsız bölüm bilgilerinin yanında, gerçek kişilerde T.C. kimlik
+numarası/yabancı kimlik numarası, ad, soyad, baba adı gibi kimlik
+bilgileri; tüzel kişilerde ise MERSİS numarası/vergi numarası ile tüzel kişi
+tanımlayıcı bilgisinin de protokol yapılan kurumlarca taşınmazın bulunduğu
+tapu müdürlüğüne sunulması gereklidir. Aksi halde söz konusu talepler
+reddedilir.
+(2) Elektronik ortamda yapılan işlemlerde, gerekli
+kontroller internet servisleri tarafından yapılarak işlemin yevmiye
+numarası TAKBİS tarafından üretilir. İşlemin türüne göre elektronik ortamda
+tescil veya terkin işlemi TAKBİS tarafından yapılır. İşlemin hatalı olarak
+yapıldığının fark edilmesi durumunda tapu müdürlüğünce resen tesis veya
+terkine yönelik gerekli düzeltme işlemi yapılarak başvuru sahibine bilgi
+verilir.
+(3) Elektronik ortamda yapılan işlemlere ilişkin
+fiziki belge üretilmez. İşlemin sonuç yazıları servisleri kullanılarak
+işlemin tarafınca sorgulanmak sureti ile elde edilir. Elektronik ortamda
+yapılan işlem sonucunda, işlemin tarafı dışındaki diğer kurumlara mevzuatı
+uyarınca bildirimde bulunulması gereken hallerde, işlemin tarafı olmayan
+kurum tarafından internet servisleri kullanılarak gerekli sorgulama
+yapılır. Genel Müdürlükçe işlemin tarafı olan Kurum ile mevzuatı uyarınca
+bildirim yapılması gereken işlemin tarafı olmayan kurumlara ayrıca
+bildirimde bulunulmaz.
+TAKPAS’a
+tanımlama ve yetkilendirme
+MADDE 9- (1) Genel Müdürlük ile protokol yapmış olan alıcı,
+protokol ile belirlenen internet servislerini, metotları ve sunulan
+verilerin kullanılması için gerekli yazılım ve donanımı sağlamakla
+yükümlüdür.
+(2) TAKPAS’a erişmek isteyen alıcıya ait güvenlik
+kodları kontrol edildikten sonra, hizmet alanların güvenlik duvarları ile
+sistem güvenlik duvarları arasında özel şifrelenmiş güvenli ağ bağlantısı
+kurularak iki bağlantı noktası arasında hizmet verilir.
+(3) Genel Müdürlük; alıcının, sabit IP adresi ve
+uygun görülecek güvenlik yöntemleri ile bağlantı kurarak TAKPAS’a erişimini
+sağlar.
+(4) Alıcı, TAKPAS bağlantısını protokol ve güvenlik
+taahhütnamesinde belirlenen amaçlar ve kurallar doğrultusunda taşra
+teşkilatlarına, şubelerine ve alt kuruluşlarına da sağlayabilir. Kamu kurum
+ve kuruluşları, bu bağlantıyı yurt dışı teşkilatlarına da sağlayabilir.
+(5) Alıcının taşra teşkilatları, şubeleri, alt
+kuruluşları veya yurt dışı teşkilatları ile ayrıca protokol yapılmaz.
+(6) Alıcı, kendi teşkilat yapısı dışındaki kurum,
+kuruluş ve kişileri TAKPAS’tan faydalandıramaz.
+(7) Alıcı, Genel Müdürlükçe kullanıma açılan
+arayüzlerde, alt kullanıcılarının yetkilerini belirlemek ve tanımlamakla
+yükümlüdür. Alıcı, tanımladığı kullanıcı bilgilerini Genel Müdürlüğün
+belirleyeceği yöntem ile Genel Müdürlüğe bildirir.
+(8) Alıcı, Genel Müdürlükçe kullanıma açılan internet
+servislerde, alt kullanıcılarının yetkilerini belirlemek ve tanımlamakla
+yükümlüdür. Alıcı, tanımladığı kullanıcı bilgilerini Genel Müdürlükçe talep
+edilmesi halinde bildirir.
+(9) Genel Müdürlük, kullanıma açtığı arayüzlerde,
+alıcının alt kullanıcılarının kontrol edilmesini, protokol ve güvenlik
+taahhütnamesi ile sağlanan yetkilendirme çerçevesinde bilgi almasını ve
+tanımlanan kullanıcılara ait tüm güncel bilgilerin sistemde tutulmasını
+sağlamakla yükümlüdür.
+Başvuru
+ve protokol süreci, güvenlik taahhütnamesi
+MADDE 10-
+(1) TAKPAS’tan yararlanmak isteyen
+alıcı, Genel Müdürlüğe yazılı olarak veya elektronik ortamda talepte
+bulunur.
+(2) Başvuruda, talep edilen verilerin kullanılma
+amacının açık, net ve somut olması, alıcının verileri almasına esas olan
+yasal dayanağın belirtilmesi ve Genel Müdürlük tarafından talep edilen bu
+Yönetmeliğin ekinde yer alan belgelerin ve güvenlik taahhütnamesinin
+gönderilmesi zorunludur. Yasal dayanağın belirtilmemesi halinde herhangi
+bir işlem yapılmaksızın talep reddedilir.
+(3) Yapılan başvurular Veri Paylaşımı Alt Komisyonu
+tarafından incelenir, en geç bir ay içerisinde anılan komisyonun görüşü ile
+birlikte Veri Paylaşımı Üst Komisyonuna sunulur. Uygun görülmeyen alıcı
+başvurusu gerekçesi belirtilerek Veri Paylaşımı Üst Komisyonunca
+reddedilir.
+(4) Başvurusu Üst Komisyonda uygun görülen alıcının
+Genel Müdürlükçe belirlenen uygun güvenlik düzeyini temin etmeye yönelik
+gerekli her türlü idari ve teknik tedbirleri sağladığını gösterir güvenlik
+taahhütnamesini sunması zorunludur. Ayrıca alıcı her takvim yılı sonunda,
+Genel Müdürlükçe talep edilen idari ve teknik güvenlik tedbirlerinin
+sağlandığını gösterir güvenlik taahhütnamesini Genel Müdürlüğe gönderir.
+(5) Genel Müdürlükçe belirlenen güvenlik
+unsurlarını sağlamayan alıcı, bu hususun bildirildiği tarihten itibaren
+altmış gün içinde eksiklikleri tamamlamak zorundadır. Aksi halde alıcının
+başvurusu reddedilir.
+(6) Başvurusu uygun görülenlerle protokol
+imzalanır.
+(7) Protokollerde aşağıda belirtilen hususlara yer
+verilir:
+a) Verinin niteliği ve sınırı, kullanıcı başına
+günlük sorgulama sayısı sınırı.
+b) Verilere erişim şekli, süresi, kontrol ve
+güvenliği.
+c) Protokolün süresi.
+ç) Kişisel verilerin muhafaza edilme süresi.
+d) Veriye erişecek kullanıcıların bilgileri.
+e) Verilere hangi amaçla erişileceği ve hukuki
+gerekçesi.
+f) Tarafların yetki ve görevleri ile hukuki
+sorumlulukları.
+g) Alınması gereken idari ve teknik tedbirler.
+ğ) Eğitim.
+h) Ücretlendirme.
+ı) Diğer hususlar.
+ÜÇÜNCÜ BÖLÜM
+Veriye Erişim Kuralları, Toplu Veriye Erişim, Diğer
+Verilere Erişim
+Alıcının
+veriye erişimi
+MADDE 11-
+(1) Genel Müdürlükçe protokol
+yapılan alıcı, gerçek kişilerde T.C. kimlik numarası/yabancı kimlik
+numarası, tüzel kişilerde ise vergi kimlik numarası/MERSİS numarası ile
+sorgulama yapabilir. Bununla birlikte mevzuattan kaynaklanan görevlerini
+yerine getirmek amacı ile taşınmaz tanımlayıcı bilgileri ile tekil taşınmaz
+ve mülkiyet sorgulaması yapması gereken kurumların talepleri Genel Müdürlük
+Veri Paylaşımı Üst Komisyonunca karara bağlanır.
+(2) Alıcı, yaptığı sorgulamalar için, Genel
+Müdürlüğe sorgu yapılan kişinin kendilerinde tabi olduğu işleme ait
+belirteç bilgisini sorguya ekler. Alıcı, sorgu içerisinde verilen bu
+belirteç bilgisi ile kendilerinde başlatılan işlemin Genel Müdürlükçe kontrol
+edilebileceği, işleme taraf kişileri gösterir bir servis hazırlayıp
+çevrimiçi olarak Genel Müdürlüğün kullanımına açar. İşlem bağlantılı
+yapılmayan sorgulamalar için ise belirteç yerine Genel Müdürlükçe yapılacak
+olan denetimlerde işlem ve sorgu kontrolünün yapılabilmesini temin edecek
+şekilde açıklama girilmesi zorunludur.
+(3) Alıcı, yalnızca talep esnasında belirtilen amaç
+ve hukuki gerekçeyle sınırlı olarak taşınmaz bilgilerine erişebilir.
+Mevzuattan kaynaklanan görevlerini yerine getirmesi amacı ile toplu veriye
+ihtiyacı olduğu Genel Müdürlük Veri Paylaşımı Üst Komisyonunca karara
+bağlanmış olan kurumların münferit toplu veri talepleri Genel Müdürlük
+ilgili birimince veri talebinin dayanağı kontrol edilerek değerlendirilir.
+Toplu veri talebinin içeriği Ek-1’de yer alan işlem bazlı toplu veri talep
+listesine göre belirlenir. Dayanak ile uyumlu talepler ilgili birimce
+karşılanır. Ek-1 listede yer alan kişisel veri içermeyen istatistiki veri
+talepleri ile anılan listede yer almayan toplu veri taleplerinde Genel
+Müdürlük Veri Paylaşımı Üst Komisyonundan ayrıca onay alınır.
+(4) Toplu veri alımı için;
+a) Genel Müdürlük ile protokol yapan alıcı, TAKPAS
+arayüzleri üzerinden elektronik imzalı belge ile toplu veri talebini
+oluşturur. Talebin onaylanmasını müteakip, talep edilen bilgilerin
+sorgulanabileceği eşsiz belirteç alıcının kullanımına sunulur.
+b) Alıcı, TAKPAS arayüzleri üzerinden (a) bendi
+uyarınca aldığı eşsiz belirteç bilgisini kendi sistemine girerek Genel
+Müdürlüğün hazırladığı internet servisler vasıtası ile onaylanan verilere
+erişebilir.
+Genel
+Müdürlük personelinin veriye erişimi
+MADDE 12- (1) Genel Müdürlük kullanıcılarının tanımlanması,
+yetkilendirilmesi ve izlenmesi Genel Müdürlükçe yapılır.
+(2) Genel Müdürlükçe yetkilendirilen personel her
+yıl 6698 sayılı Kanun kapsamında eğitime tabi tutulur.
+Türkiye
+Barolar Birliği üzerinden avukatların veriye erişimi
+MADDE 13-
+(1) Avukatlar, görevleri ile
+ilişkili olarak TAKPAS arayüzleri veya internet servisleri üzerinden
+Türkiye Barolar Birliğinin alt kullanıcısı sıfatıyla taşınmaz bilgisini
+sorgulayabilir. Bu kapsamda avukat, ilgisini ortaya koyan ulaşmak istediği
+verinin dayanağı yazılı belgeyi (çek, senet, alacak belgesi, kira kontratı,
+icra takip yazısı ve benzeri) sisteme taratıp belgenin tarih ve/veya
+sayısını eklemek ve elektronik kabul beyanını e-imza ile onaylamak
+suretiyle ilgilinin sadece taşınmazının (pasif kayıt bilgisi dâhil) olup
+olmadığı bilgisine sistemden ulaşabilir. Bununla birlikte ilgisini ortaya
+koyan vekaletname taratılmak suretiyle yapılacak sorgulamalarda, hangi
+kişinin malvarlığının hangi amaçla sorgulandığına dair bilginin sisteme
+girilmesi ve elektronik kabul beyanının e-imza ile onaylanması suretiyle
+avukatın talebine bağlı olarak taşınmazın (pasif kayıt bilgisi dahil)
+bilgisine veya kayıt örneğine ulaşılmasına ve örnek alınmasına imkan
+verilir.
+Türkiye
+Değerleme Uzmanları Birliği üzerinden değerleme uzmanlarının veriye erişimi
+MADDE 14- (1) Değerleme uzmanları görevleri ile ilişkili
+olarak TAKPAS arayüzleri üzerinden Türkiye Değerleme Uzmanları Birliğinin
+alt kullanıcı sıfatıyla taşınmaz sahibinin TAKPAS arayüzleri üzerinden
+vereceği yetki veya onay ile aşağıda belirtilen şekilde taşınmaz bilgisini
+sorgulayabilirler:
+a) Taşınmaz sahibinin yetki vermesi ile veriye
+erişim: Değerleme yapılacak olan taşınmazın sahibi, TAKPAS arayüzlerini
+kullanarak değerlemeye konu olacak taşınmazı üzerinde yapılacak olan
+taşınmaz değerleme işlemi için yetki tanımlar. Bu kapsamda değerleme
+uzmanları kendilerinden talep edilen değerleme faaliyeti ile ilgili olarak
+malikin T.C. kimlik numarası/yabancı kimlik numarası, tüzel kişilerde ise
+vergi kimlik numarası/MERSİS numarası ile TAKPAS arayüzünden talep
+oluşturur. Değerleme uzmanlarınca, yetki tanımlanmış taşınmaz için yapılan
+değerleme talebinde taşınmaz sahibinden ikinci bir onay aranmaz. TAKPAS
+arayüzleri üzerinden yapılan yetki tanımı, ilgilisi tarafından iptal
+edilene kadar geçerlidir.
+b) Taşınmaz sahibinin onay vermesi ile veriye
+erişim: Değerleme uzmanları kendilerinden talep edilen değerleme faaliyeti
+ile ilgili olarak malikin T.C. kimlik numarası/yabancı kimlik numarası,
+tüzel kişilerde ise vergi kimlik numarası/MERSİS numarası ile TAKPAS
+arayüzünden talep oluşturur. Sorgulama yapılabilmesi için taşınmaz malikinin,
+TAKPAS arayüzüne telefon numarasını tanımlamış ve değerleme uzmanının
+talebi sonrası kendisine sistemden gönderilen kısa mesaj üzerine arayüze
+girerek değerleme uzmanının veriye ulaşımını onaylamış olması gerekir. Bu
+işlem çağrı merkezi üzerinden de yürütülebilir. Talebin taşınmaz malikince
+onaylanmasını müteakip değerleme uzmanının taşınmaz bilgilerine ulaşımına
+izin verilir.
+(2) Banka/finans kurumlarının değerleme uzmanları
+üzerinden yapmış oldukları taşınmaz değerleme taleplerinde Türk Medeni
+Kanununun 1020 nci maddesinde öngörülen ilginin var olduğu kabul
+edildiğinden, TAKPAS servisi veya arayüzleri üzerinden verilen değerleme
+onaylarında ayrıca taşınmaz sahibinin onayı aranmaz. Talepte birinci
+fıkrada belirtilen usullerle yetki veya onay işleminin gerçekleştirilememesine
+ilişkin olarak Genel Müdürlükçe yapılacak denetimlerde işlem ve sorgu
+kontrolünün yapılabilmesini temin edecek ve ilgisini ortaya koyacak şekilde
+açıklama girilmesi zorunludur.
+(3) TAKPAS arayüzleri üzerinden yetki veya onay
+vermesi mümkün olmayan taşınmaz sahiplerinin taşınmazlarına yönelik
+değerleme taleplerine yönelik değerleme onayı Genel Müdürlükçe verilir.
+TAKPAS arayüzleri üzerinden yetki veya onay vermesi mümkün olmayan taşınmaz
+sahiplerini belirlemeye Genel Müdürlük yetkilidir.
+Harita verilerine
+erişim
+MADDE 15- (1) Harita verileri, 29/12/2014 tarihli ve
+2014/7155 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan
+Bakanlıklararası Harita İşlerini Koordinasyon ve Planlama Kurulu
+Yönetmeliği ile 5/7/1994 tarihli ve 94/5856 sayılı Bakanlar Kurulu
+Kararıyla yürürlüğe konulan Harita ve Harita Bilgilerini Temin ve Kullanma
+Yönetmeliği esaslarına göre TAKPAS üzerinden paylaşılabilir.
+Kadastral
+verilere erişim
+MADDE 16- (1) Kimliksizleştirilen taşınmazı tanımlayıcı
+bilgiler, yer kontrol noktaları ve detay koordinatlar TAKPAS üzerinden
+protokol düzenlenen alıcı ile paylaşılabilir.
+Tapu
+tahrir defterlerine erişim
+MADDE 17- (1) Tapu tahrir defterlerine ait kayıtlar
+elektronik ortamda TAKPAS üzerinden protokol düzenlenen alıcı ile
+paylaşılabilir.
+Yabancı
+uyruklu kişiler ve yabancı sermayeli şirketlerin verilerine erişim
+MADDE 18- (1) Yabancı uyruklu kişilerin ve yabancı sermayeli
+şirketlerin verilerinin paylaşılmasında bu Yönetmelikte belirlenen usul ve
+esaslar geçerlidir. Yabancı uyruklu kişilere ilişkin sorgulama kriterleri
+protokollerde ayrıca belirlenebilir.
+Veriye
+diğer erişim hallerine ilişkin usul ve esaslar
+MADDE 19- (1) Protokol yapılmayan kişi ve kurumlar TAKPAS
+internet servislerinden yararlanamaz. Bu kişi ve kurumlar tapu ve kadastro
+verilerine yönelik sorgulama taleplerini taşınmaz kaydının bulunduğu tapu
+veya kadastro müdürlüklerine yazılı olarak iletirler. Taleplerin,
+yürürlükteki mevzuat kapsamında uygun olduğu değerlendirildiğinde bilgi ve
+belge örnekleri verilir.
+(2) Tapu Müdürlüklerince Yetki Alanı Dışında
+Kayıtlı Bulunan Taşınmazlarla İlgili Tapu İşlemlerinin Yapılmasına İlişkin
+Usul ve Esaslar Hakkında Yönetmelik kapsamında yetki alanı dışındaki tapu
+işlemleri hariç olmak üzere tapu siciline yönelik tescil, şerh, beyan,
+terkin ve TAKPAS’ta yer almayan veri talepleri ile uyumsuz kayıt iddialarına
+ilişkin taleplerin asli sicillerinin bulunduğu tapu müdürlüklerine
+yapılması gerekir. Söz konusu taleplerde taşınmazın tanımlayıcı
+bilgilerinin bildirilmesi zorunludur. Bunun dışındaki talepler karşılanmaz.
+(3) Taşınmaz malikleri ve taşınmaz üzerinde hak
+sahibi olanlar ile 4721 sayılı Kanunun 1020 nci maddesi uyarınca ilgisini
+inanılır kılanlar; kayıtların tutulduğu ilgili birimlerden yazılı olarak
+talepte bulunmaları halinde bilgi ve belge örneklerini edinebilir.
+(4) TAKPAS’tan herhangi bir nedenle uzun süreli
+olarak veri alınamaması halinde de birinci fıkra hükümleri uygulanır.
+(5) Bu madde kapsamında verilerin doküman olarak
+paylaşılması da bu Yönetmeliğin 38 inci maddesi hükümlerine tabidir.
+(6) İlgililerince sorgulama sonucunu gösterir
+belge/tapu kayıt örneğinin istenilmesi durumunda ise 2/7/1964 tarihli ve
+492 sayılı Harçlar Kanunu gereğince kayıt ve belge örneği verilmesine
+ilişkin harç tahsil edilir.
+(7) Tapu kadastro verileri, çevrimdışı olarak
+taşınabilir bellek, CD, DVD ve benzeri ortamlarda paylaşılamaz. Protokol
+yapılmış alıcı ve alt kullanıcılarının da çevrimdışı veri talepleri
+karşılanmaz.
+(8) Kanunlardaki özel hükümler ile afet ve benzeri
+durumlara ilişkin zorunlu haller saklıdır.
+DÖRDÜNCÜ BÖLÜM
+Kişisel Verilerin Gizlenmesi, Tapu ve Kadastro
+Verisinin Düzeltilmesi, Tapu ve Kadastro Verisinin İmha Edilmesi
+Kişisel
+verilerin gizlenmesi
+MADDE 20- (1) Hakkında gizlilik kararı verilen kişilere ait
+verilerin gizlenmesi için yargı makamları tarafından gönderilen
+müzekkerenin gereği Genel Müdürlük tarafından yerine getirilir. Gizlilik
+kararlarının sadece görevi gereği bilmesi gereken kişiler tarafından
+bilinmesini sağlamak üzere gerekli her türlü teknik ve idari tedbir alınır.
+Tapu ve
+kadastro verisinin düzeltilmesi
+MADDE 21- (1) Tapu ve kadastro verisinin paylaşımında,
+paylaşılan taraflarca veride herhangi bir hata bulunduğunun bildirilmesi
+halinde, bu husus ilgili tapu ve kadastro müdürlüklerine bildirilir ve
+varsa hatanın mevzuat dâhilinde ivedilikle giderilmesi sağlanır.
+Tapu ve
+kadastro verisinin imha edilmesi
+MADDE 22- (1) Tapu ve kadastro verisinin, kullanım amacının
+sona ermesini takiben imhası, alıcının sorumluluğundadır.
+BEŞİNCİ BÖLÜM
+Veri Güvenliği
+Veri güvenliğine
+ilişkin yükümlülükler
+MADDE 23-
+(1) 6698 sayılı Kanunun 12 nci
+maddesinde yer alan veri güvenliğine ilişkin yükümlülüklere riayet edilir.
+Teknik ve idari tedbirlerin alınmasında, Kişisel Verileri Koruma Kurumu
+tarafından hazırlanan Kişisel Veri Güvenliği Rehberi esas alınır.
+(2) Genel Müdürlük, kişisel verilerin hukuka aykırı
+olarak işlenmesini ve erişilmesini önlemek ile muhafazasını sağlamak
+amacıyla her türlü idari ve teknik güvenlik tedbirlerini alır ve kurum ve
+kişi kullanıcılarının da bu tedbirleri almasını takip eder ve denetler.
+(3) İşlenen kişisel verilerin kanuni olmayan
+yollarla başkaları tarafından elde edilmesi hâlinde veri sorumlusu
+tarafından ilgilisine ve Kişisel Verileri Koruma Kuruluna yapılacak
+bildirimde 6698 sayılı Kanun hükümleri ile Kişisel Verileri Koruma
+Kurulunun bu hususa ilişkin düzenleyici işlemleri esas alınır.
+Bilgi
+güvenliği
+MADDE 24-
+(1) Genel Müdürlük merkez
+birimleri ve taşra teşkilatında yürütülen bilgi güvenliği süreçleri, Genel
+Müdürlük tarafından hazırlanan yönerge ile belirlenir.
+Yedekleme
+MADDE 25-
+(1) Sistemde oluşabilecek veri
+kayıplarının önlenmesi için, Genel Müdürlüğün belirleyeceği aralıklarla
+verilerin yedeklenmesi sağlanır.
+Donanım
+güvenliği
+MADDE 26- (1) Sistemin bulunacağı yerdeki donanımın sahip olması
+gereken güvenlik ihtiyaçlarının tespit edilmesi, sistem odasına veya sistem
+konsollarına erişimde yetkisiz erişimin engellenmesi ve iş sürekliliğinin
+sağlanması hususunda Genel Müdürlükçe gerekli tedbirler alınır.
+Yeterli
+önlemler
+MADDE 27-
+(1) Özel nitelikli kişisel
+verilerin işlenmesinde ayrıca, 6698 sayılı Kanunun 6 ncı maddesinin
+dördüncü fıkrası kapsamında Kişisel Verileri Koruma Kurulu tarafından
+yapılan düzenlemelerde yer alan önlemlere riayet edilir.
+ALTINCI BÖLÜM
+İzleme, Denetim, İhlal ve Yaptırımlar
+Alıcının
+işlemlerinin izlenmesi
+MADDE 28- (1) Alıcı, 6698 sayılı Kanunda belirtilen usul ve
+esaslara uymakla ve bu esaslar dâhilinde alt kullanıcıların yaptığı
+işlemleri izlemekle yükümlüdür.
+(2) Genel Müdürlük, alıcının iş ve işlemlerine
+ilişkin tüm bilgileri izler ve değerlendirir.
+Geri
+izleme bilgilerinin oluşturulması
+MADDE 29- (1) Genel Müdürlük, alıcının TAKPAS’tan yaptığı
+her türlü işlemin tarihi, saati ve internet servis adına ilişkin kayıtları
+geri izleme bilgisi olarak tutar.
+(2) Alıcı, TAKPAS’tan yapılan her türlü işlemin
+tarihi, saati, internet servis adına ilişkin kayıtları alt kullanıcı
+düzeyinde geri izleme bilgisi olarak tutar.
+(3) Genel Müdürlük ve alıcı geri izleme bilgisini,
+sorgulanan kişi ve sorgu sonucundan etkilenen diğer kişilerin de kimlik
+numarasını içerecek şekilde tutar. Bu bilgiler, sadece mahkeme veya
+savcılık taleplerinin yerine getirilmesi için gönderilir.
+(4) Genel Müdürlük ile alıcının geri izleme
+bilgilerinde tutarsızlık olması halinde Genel Müdürlük kayıtları esas alınır.
+(5) Genel Müdürlük ve alıcı, değiştirilmesini
+engelleyerek ve yetkisiz erişime karşı koruyarak, geri izleme bilgilerini
+sekiz yıl süre ile saklar. Bu süre sonunda geri izleme bilgileri,
+28/10/2017 tarihli ve 30224 sayılı Resmî Gazete’de yayımlanan Kişisel
+Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkında
+Yönetmelik hükümleri kapsamında silinir veya yok edilir.
+Denetim
+MADDE 30- (1) Genel Müdürlükle protokol yapan alıcı, gerekli
+görüldüğünde mevzuatla kendisine denetim yetkisi ve görevi verilmiş kurum
+ve kuruluşlar ile Genel Müdürlük veya Genel Müdürlükçe yetkilendirilen
+kuruluşlar tarafından denetlenir.
+(2) Denetleme sırasında, alıcı tarafından her türlü
+bilgi, belge, kayıt ve veri taleplerinin karşılanması ve sistemin incelemeye
+açılması zorunludur.
+(3) Denetleme sonucuna göre usulsüzlük tespiti
+halinde, 6698 sayılı Kanun kapsamında gerekli işlemler yapılır ve 26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanunu uyarınca gerekli işlemler
+başlatılır.
+Veri paylaşımı
+ilkelerinin ihlali ve hukuki sorumluluk
+MADDE 31- (1) Alıcı, kişisel veri ihlali olması durumunda
+6698 sayılı Kanun ve ilgili mevzuata uygun yöntemlerle gecikmeksizin ve en
+kısa sürede Kişisel Veri Koruma Kuruluna, Genel Müdürlüğe ve kişisel verisi
+ihlal edilen kişiye bildirimde bulunur.
+(2) Erişilen ve paylaşılan veriler; Genel
+Müdürlüğün yazılı izni olmadıkça, tarafların kendi görev ve faaliyet alanı
+kapsamında gerçekleştirecekleri işlemler haricinde başka kurum, kuruluş ve
+diğer kişilere kullandırılamaz ve yayınlanamaz.
+(3) TAKPAS’taki verilere erişimde kısıtlama yapmaya
+Genel Müdürlük yetkilidir. Verilere erişim hakkının kötüye kullanılması
+halinde, özel kanun hükümleri saklı kalmak üzere, sisteme erişim derhal
+durdurulur.
+(4) Protokol hükümleri yerine getirilmediği
+takdirde alıcının TAKPAS’tan faydalanması geçici olarak askıya alınır.
+Alıcının her türlü idari ve teknik tedbirleri alması ve bu tedbirlerin
+Genel Müdürlükçe uygun görülmesi halinde TAKPAS’a yeniden erişimi sağlanır.
+Alıcı tarafından taahhüt edilen idari ve teknik güvenlik tedbirlerinin
+yerine getirilemediğinin Genel Müdürlükçe tespit edilmesi halinde TAKPAS
+kullanıma kapatılır ve protokol tek taraflı olarak feshedilir.
+(5) TAKPAS’tan elde edilen verilerin ilgili
+mevzuat, protokol veya elektronik kabul beyanında yer alan hükümlere aykırı
+olarak kullanılması, hizmetten yararlanan kişi ve kurumların kendi sistem
+yazılımlarından kaynaklanan hatalı sorgulamaları ve güvenlik açıkları gibi
+sebeplerle verilerin yetkisiz kişilerce elde edilmesi ve kullanılmasından
+doğan her türlü hukuki, idari, mali ve cezai sorumluluk hizmetten
+yararlanan kişi ve kurumlara, alt kullanıcılarına ve/veya veriyi
+kullananlara aittir. TAKPAS’ın her aşamasında yer alan yetkili ve
+görevliler protokolde belirtilen esaslara uymakla yükümlüdürler. Bu
+yükümlülük, kişilerin görevlerinden ayrılmalarından sonra da devam eder.
+Yaptırım
+MADDE 32- (1) Kişisel verilerin korunması hususu ile ilgili
+hükümlere aykırı hareket edenler hakkında kabahatler bakımından, 6698
+sayılı Kanunun 18 inci maddesi hükümlerinin uygulanmasını teminen durum
+Kurula bildirilir.
+(2) Kurum tarafından kendilerine erişim yetkisi
+verilen kişilerden, kişisel verileri değiştiren veya bütünlüğünü bozanlar
+hakkında 5237 sayılı Kanunun ilgili maddeleri uyarınca suç duyurusunda
+bulunulur.
+(3) Bu Yönetmelik gereklerini yerine getirmeyen
+kamu görevlileri için bağlı oldukları disiplin amirliğine bildirim yapılır
+ve varsa yetkileri iptal edilir.
+YEDİNCİ BÖLÜM
+Veri Paylaşım Komisyonları
+Veri
+Paylaşımı Üst Komisyonunun oluşumu, toplanması ve karar alınması
+MADDE 33- (1) Merkezi veri tabanında yer alan bilgilerin
+paylaşımına ilişkin talepleri değerlendirerek veri paylaşımından
+yararlanacakları belirlemek, paylaşımın kapsamı ve hangi yöntemle
+yapılacağına karar vermek üzere Genel Müdürlük bünyesinde Veri Paylaşımı
+Üst Komisyonu oluşturulur.
+(2) Veri Paylaşımı Üst Komisyonu; Genel Müdürün
+veya Bilgi Teknolojileri Dairesi Başkanlığının bağlı olduğu genel müdür
+yardımcısının başkanlığında, Teftiş Kurulu Başkanı, I. Hukuk Müşaviri,
+Strateji Geliştirme Daire Başkanı, Arşiv Dairesi Başkanı, Bilgi
+Teknolojileri Dairesi Başkanı, Tapu Dairesi Başkanı, Kadastro Dairesi
+Başkanı, Yabancı İşler Dairesi Başkanı, Harita Dairesi Başkanı ile Döner
+Sermaye İşletme Müdüründen oluşur. Komisyon, doğrudan Genel Müdüre
+bağlıdır.
+(3) Komisyon; Ocak, Nisan, Temmuz ve Ekim aylarının
+ilk işgünü mutad olarak toplanır. Bunun haricinde de, başkanın talebi ve
+çağrısı üzerine Komisyon toplanabilir.
+(4) Toplantıların gündemi, yeri ve saati Komisyon
+Başkanı tarafından belirlenir. Toplantıda görüşülecek konular ve gündeme
+ilişkin bilgi ve belgeler Komisyon üyelerine en az bir gün önce yazılı veya
+elektronik olarak iletilir.
+(5) Komisyon gündemine, toplantı sırasında
+üyelerden herhangi birinin teklifi üzerine madde eklenebilir.
+(6) Komisyon en az yedi üyenin katılımıyla
+toplanır. Komisyon kararları oy çokluğu ile alınır. Oylarda eşitlik olması
+halinde Komisyon Başkanının bulunduğu taraf çoğunluk sayılır.
+(7) Karara muhalif olanlar, şerh koymak suretiyle
+kararı imzalarlar. Muhalif görüş gerekçesi bir sonraki Komisyon
+toplantısına kadar karar dosyasına eklenmek üzere sekretaryaya teslim
+edilir.
+(8) Komisyon kararları, toplantıya katılan tüm
+üyeler tarafından imzalanır. İmzaların tamamlanması ve Genel Müdür onayını
+müteakiben karar yürürlüğe girer.
+(9) Toplantılarda alınan kararlar her yıl birden
+başlanarak yıl sonuna kadar numaralandırılır.
+(10) Gerekli görülen hallerde Komisyon Başkanının
+onayı ile toplantıya üyeler haricinde de oy hakkı olmaksızın katılım
+sağlanabilir.
+(11) Komisyonun görevlerinin yerine getirilmesinde
+kendisine yardımcı olmak üzere Veri Paylaşımı Alt Komisyonu oluşturulur.
+Her iki komisyonun sekretarya işlemleri, Strateji Geliştirme Daire
+Başkanlığınca yürütülür.
+Veri
+Paylaşımı Üst Komisyonunun görevleri
+MADDE 34-
+(1) Veri Paylaşımı Üst
+Komisyonunun görevleri şunlardır:
+a) Veri paylaşım taleplerini karara bağlamak.
+b) Alıcıyla, hangi verilerin paylaşılacağına karar
+vermek.
+c) Toplu veri paylaşımı yapılabilecek kurumlara
+karar vermek.
+ç) Benzer konulardaki veri paylaşımlarına ilişkin
+ilke kararları almak.
+d) Veri paylaşımının kapsamını belirlemek ve hangi
+yöntemle yapılacağına karar vermek.
+e) Protokol iptali, feshi veya veri paylaşımının
+askıya alınmasına yönelik karar almak.
+f) Protokol konusu ücretlendirmede çıkan
+ihtilafların çözümünde karar vermek.
+Veri
+Paylaşımı Alt Komisyonunun oluşumu, toplanması ve karar alınması
+MADDE 35-
+(1) Veri Paylaşımı Alt Komisyonu,
+Strateji Geliştirme Daire Başkanlığının koordinasyonu ve görevlendireceği
+(2) iki üyeden, yine aynı başkanlıkça belirlenecek, birisinin
+başkanlığında; Tapu Dairesi Başkanlığından (1) bir, Kadastro Dairesi
+Başkanlığından (1) bir, Hukuk Müşavirliğinden (1) bir, Harita Dairesi
+Başkanlığından (1) bir, Arşiv Dairesi Başkanlığından (1) bir, Yabancı İşler
+Dairesi Başkanlığından (1) bir, Bilgi Teknolojileri Dairesi Başkanlığından
+(1) bir ve Döner Sermaye İşletmesi Müdürlüğünden (1) bir üyenin
+görevlendirilmesi ile toplam 10 asıl üyeden oluşur. Ayrıca, Veri Paylaşımı
+Alt Komisyonunda temsil edilen her başkanlıkça aynı sayıda yedek üye görevlendirilir.
+Strateji Geliştirme Daire Başkanlığınca görevlendirilecek üyelerden birinin
+Mali Hizmetler Uzmanı kadrosunda görevli olması zorunludur. Mali Hizmetler
+Uzmanı için belirlenecek yedek üyenin de aynı kadroda olması gerekir.
+(2) Diğer başkanlıklar ilgisi halinde Veri
+Paylaşımı Alt Komisyonu başkanının daveti üzerine komisyonda temsil edilir.
+(3) Veri Paylaşımı Alt Komisyonu, Başkanının uygun
+göreceği zamanlarda en az altı üye ile toplanır. Kararlar toplantıya
+katılan üyelerin çoğunluğu ile alınır. Veri Paylaşımı Alt Komisyonu
+Başkanının yazılı daveti üzerine komisyonda temsil edilen Başkanlıkların da
+oy hakkı vardır.
+(4) Koordinasyon birimleri tarafından tüm alt
+detayları ile hazırlanan taleplerin gündeme alınıp alınmayacağına dair
+hazırlanan konu başlıklarını, gündeme alınması için Komisyon Başkanlığına
+sunmak ve toplantı tarihi ve yeri ile ilgili süreçleri takip etmek görevi
+Komisyon Sekretaryasına aittir.
+Veri
+Paylaşımı Alt Komisyonunun görevleri
+MADDE 36-
+(1) Veri Paylaşımı Alt
+Komisyonunun görevleri şunlardır:
+a) Veri paylaşım talepleri için Veri Paylaşımı Üst
+Komisyona görüş bildirmek.
+b) Protokol ve güvenlik taahhütnamesi metinlerini
+ve eklerini düzenlemek ve hazırlamak, gerektiğinde madde eklemek ya da
+çıkarmak suretiyle Veri Paylaşımı Üst Komisyonunun onayına sunmak.
+c) Veri Paylaşımı Üst Komisyonunun talep ettiği
+konularda rapor hazırlamak, gerektiğinde sunum yapmak.
+ç) Komisyon sekretaryasınca gündeme alınan konular
+hakkında görüş bildirmek.
+SEKİZİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Eğitim
+MADDE 37-
+(1) Alt kullanıcılara, ihtiyaç
+duyulması halinde veri paylaşımına yönelik kullanılan uygulamalar ile
+ilgili eğitim Genel Müdürlük tarafından verilir.
+Ücretlendirme
+MADDE 38-
+(1) Bu Yönetmelik kapsamında
+alınacak hizmetler 8/1/2002 tarihli ve 4736 sayılı Kamu Kurum ve
+Kuruluşlarının Ürettikleri Mal ve Hizmet Tarifeleri ile Bazı Kanunlarda
+Değişiklik Yapılması Hakkında Kanun uyarınca döner sermaye hizmet bedeline
+tabidir.
+(2) Döner sermaye hizmet bedeli, Genel Müdürlük
+döner sermaye tarife cetveli kapsamında belirlenir.
+(3) Bu Yönetmelik kapsamında alınacak hizmetlerin
+karşılığında ödenecek döner sermaye hizmet bedelinin ödeme usul ve esasları
+protokol ile belirlenir.
+(4) Kanunlardaki özel hükümler saklıdır.
+Düzenleme
+yetkisi
+MADDE 39-
+(1) Bu Yönetmeliğin uygulanması
+sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları
+gidermeye, ilke ve standartları belirlemeye, uygulama birliğini sağlayacak gerekli
+düzenlemeleri yapmaya ve bu Yönetmelikte yer almayan konularda ilgili
+mevzuat hükümleri çerçevesinde düzenleme yapmaya Genel Müdürlük yetkilidir.
+(2) 4721 sayılı Kanun, 6698 sayılı Kanun ve ilgili
+diğer mevzuat hükümleri uyarınca; mevzuatta yapılan düzenlemeler ve hizmet
+gereği duyulacak ihtiyaçlar çerçevesinde TAKPAS üzerinden paylaşılacak
+verileri belirlemeye Genel Müdürlük yetkilidir. TAKPAS’ın kullanılması için
+alıcıyla bu Yönetmeliğin Ek-2’sinde yer alan Tip Protokol yapılır.
+Tapu
+sicil ve TAKPAS uyumlaştırılması
+MADDE 40-
+(1) Elektronik sicile geçilen
+işlemler haricinde veri paylaşımı sicil tutma faaliyeti olarak değerlendirilmez.
+TAKPAS’taki bilgiler ile sicildeki bilgiler arasında ihtilaf olması halinde
+tapu sicil bilgileri esastır.
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 41-
+(1) 7/3/2015 tarihli ve 29288
+sayılı Resmî Gazete’de yayımlanan Tapu ve Kadastro Verilerinin Paylaşımı
+Hakkında Yönetmelik yürürlükten kaldırılmıştır.
+Protokollerin
+uyumlaştırılması
+GEÇİCİ
+MADDE 1- (1) Mevcut protokollerin
+bu Yönetmeliğe aykırı hükümlerinin olması halinde bu Yönetmelik hükümleri
+geçerli olup mevcut protokoller bu Yönetmeliğin yayımı tarihinden itibaren
+1 (bir) yıl içerisinde bu Yönetmeliğe uygun hale getirilir.
+Yürürlük
+MADDE 42- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 43- (1) Bu Yönetmelik hükümlerini Tapu ve Kadastro
+Genel Müdürlüğünün bağlı olduğu Bakan yürütür.
+Ekler için tıklayınız
