@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun 1020 nci maddesi, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 480 inci maddesinin birinci fıkrasının (ğ) bendi, 487 nci maddesinin altıncı fıkrası, 488 inci maddesinin birinci ve beşinci fıkraları ile 22/7/2013 tarihli ve 2013/5150 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Tapu Sicili Tüzüğünün 14 üncü ve 15 inci maddelerine dayanılarak hazırlanmıştır.

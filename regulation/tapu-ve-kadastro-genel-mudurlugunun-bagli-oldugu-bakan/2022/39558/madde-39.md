@@ -1,0 +1,3 @@
+Düzenleme yetkisi
+MADDE 39- (1) Bu Yönetmeliğin uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, ilke ve standartları belirlemeye, uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya ve bu Yönetmelikte yer almayan konularda ilgili mevzuat hükümleri çerçevesinde düzenleme yapmaya Genel Müdürlük yetkilidir.
+(2) 4721 sayılı Kanun, 6698 sayılı Kanun ve ilgili diğer mevzuat hükümleri uyarınca; mevzuatta yapılan düzenlemeler ve hizmet gereği duyulacak ihtiyaçlar çerçevesinde TAKPAS üzerinden paylaşılacak verileri belirlemeye Genel Müdürlük yetkilidir. TAKPAS’ın kullanılması için alıcıyla bu Yönetmeliğin Ek-2’sinde yer alan Tip Protokol yapılır.

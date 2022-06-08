@@ -1,0 +1,6 @@
+TAKPAS verilerine erişim ve erişim hakkı
+MADDE 7- (1) TAKPAS hizmetleri; kurumlar ve kişilerin, arayüzler ile ulaşabilecekleri etkileşimli sorgulamalar ve kendi yazılım uygulamaları içerisine ekleyecekleri bölümler ile sorgulama ve elektronik ortamda tapu işlemleri yapmalarına olanak verecek internet servislerinden oluşur. Sorgulamalarda, sorgu kriterine göre sorgu sonucu olarak TAKPAS’ta bulunan, kurum ve kişilerin almaya yetkili olduğu bilgiler paylaşılır. Kurumlar ve kişilerle yetkisi dâhilinde olmayan bilgilerin paylaşılması engellenir.
+(2) Mahkemeler, Cumhuriyet savcılıkları, icra ve iflas müdürlükleri ile kamu kurum ve kuruluşlarının görevleriyle ilgili taşınmaz verilerine erişimi protokol düzenlenerek belirlenebilir.
+(3) Kamu kurumu niteliğindeki meslek kuruluşları ile taşınmaza ilişkin konularda faaliyet gösteren tüzel kişiler kendi işleriyle sınırlı olmak üzere, düzenlenecek protokol kapsamında gerekli verilere erişebilirler.
+(4) Taşınmaz malikleri ile taşınmaz üzerinde hak sahibi olanlar, taşınmazları hakkında elektronik kabul beyanı ile ilgili verilere erişebilirler.
+(5) Tapu sicilinin açıklığı ilkesi gereğince, taşınmazın tanımlayıcı bilgileri ile taşınmaza yönelik hak ve kısıtlamalar herkes tarafından elektronik kabul beyanı ile sorgulanabilir.

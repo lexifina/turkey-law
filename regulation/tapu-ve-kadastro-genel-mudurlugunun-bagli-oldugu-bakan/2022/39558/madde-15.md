@@ -1,0 +1,2 @@
+Harita verilerine erişim
+MADDE 15- (1) Harita verileri, 29/12/2014 tarihli ve 2014/7155 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Bakanlıklararası Harita İşlerini Koordinasyon ve Planlama Kurulu Yönetmeliği ile 5/7/1994 tarihli ve 94/5856 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Harita ve Harita Bilgilerini Temin ve Kullanma Yönetmeliği esaslarına göre TAKPAS üzerinden paylaşılabilir.
