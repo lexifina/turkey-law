@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52043",
+  "decision_date": "2022-06-08",
+  "source_id": 24915,
+  "chamber": "7",
+  "file_number": "49024",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24915/",
+  "source_sha256": "4e8022a48b20aedf90a560e873088230e318b265949bedc28920eb041fc27931",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
