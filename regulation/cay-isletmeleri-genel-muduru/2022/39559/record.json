@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39559",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇAY İŞLETMELERİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39559",
+  "issuer": "Çay İşletmeleri Genel Müdürü",
+  "issuer_slug": "cay-isletmeleri-genel-muduru",
+  "path": "regulation/cay-isletmeleri-genel-muduru/2022/39559",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39559&MevzuatTertip=5",
+  "source_sha256": "61c63866bb0d313a5e94da5b584fe2bb0f89cbced6265ef95146f2151314ec7d",
+  "source_bytes": 16984,
+  "published": "2022-06-08",
+  "gazette": "31860",
+  "in_force": "2022-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 236,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39559-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
