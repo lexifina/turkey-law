@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52040",
+  "decision_date": "2022-06-08",
+  "source_id": 24911,
+  "chamber": "7",
+  "file_number": "49335",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2016",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24911/",
+  "source_sha256": "c3fcc722356b375d929c0269a5b14ff851aa9013fa0ba63037e1c45492778831",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
