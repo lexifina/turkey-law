@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52030",
+  "decision_date": "2022-06-08",
+  "source_id": 24901,
+  "chamber": "8",
+  "file_number": "50206",
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": "2018",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24901/",
+  "source_sha256": "fa5aafff50f640ee984b45a3c009b2ac73c5ab444c7a98f8715d862af74b9000",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
