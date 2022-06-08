@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52114",
+  "decision_date": "2022-06-08",
+  "source_id": 24985,
+  "chamber": "5",
+  "file_number": "50331",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2015",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/24985/",
+  "source_sha256": "582d1b053db94015ad784e1d84b7b27bb8968733bda9879fa3b7ed7561f609bf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
