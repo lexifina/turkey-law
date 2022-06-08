@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "61504625-130-39443",
+  "source_id": 30227,
+  "date": "2022-06-08",
+  "title": "Nakliye hizmetine ilişkin düzenlenecek faturalarda köprü ve otoyol geçiş ücretlerinin tutara dahil edilip edilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30227",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e0bb16c32049df194aa822d686bce9247f1efb971709c5140c5bf875db75cfb8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
