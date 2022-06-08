@@ -1,0 +1,20 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Ajans: Türkiye Çevre Ajansını,
+b) Bakan: Çevre, Şehircilik ve İklim Değişikliği Bakanını,
+c) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+ç) Başkan: Ajans Başkanını,
+d) Başkan Yardımcısı: Ajans Başkan Yardımcısını,
+e) Başkanlık: Ajansı temsil yetkisini haiz yürütme organını,
+f) İnceleme Komisyonu: 14 üncü maddede belirtilen Ajans Yönetim Kurulu tarafından oluşturulan komisyonu,
+g) İş birliği: Ajansın faaliyet alanlarına yönelik konularda birlikte yapılacak çalışmalara, projelere veya bu konulardaki görev, yetki ve sorumlulukların icrasına yönelik hakların birlikte veya ayrı ayrı kullanılmasına imkan tanınmasına yönelik ikili veya çok taraflı yazılı anlaşma ile yapılabilecek mutabakatı,
+ğ) İzleme raporu: Mali ve teknik yardım uygulamalarının kontrolü ve izlenmesi ile ilgili Başkanlıkça hazırlanan raporu,
+h) Kanun: 24/12/2020 tarihli ve 7261 sayılı Türkiye Çevre Ajansının Kurulması ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunu,
+ı) Kontrol Komisyonu: Ödeneğin yazılı belgeler ve taahhütnameye uygun olarak kullanılıp kullanılmadığını kontrol etmekle görevlendirilmiş personelden oluşan komisyonu,
+i) Mali ve teknik destek: Bedelsiz veya başkaca bir karşılık almaksızın, gönüllü olarak para veya malın mülkiyetinin bağlanarak devredilmesini,
+j) Personel: Ajansta çalışan personeli ve 14 üncü maddenin birinci fıkrasında belirtilen personeli,
+k) Proje: Mali ve teknik destek sağlanacak iş birliği konularına yönelik hazırlanan dokümanı,
+l) Proje yararlanıcısı: Mali ve teknik destekten yararlananları,
+m) Protokol: İş birliği yapılan taraflar ile Ajans arasında imzalanan yazılı belgeleri ve taahhütnameyi,
+n) Yönetim Kurulu: Ajansın karar organı olan ve Kanunun 5 inci maddesinin ikinci fıkrası uyarınca oluşturulan kurulu,
+ifade eder.

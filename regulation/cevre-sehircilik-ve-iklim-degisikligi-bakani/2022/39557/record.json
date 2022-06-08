@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39557",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ÇEVRE AJANSI TARAFINDAN YAPILACAK MALİ VE TEKNİK DESTEKLER İLE İŞ BİRLİĞİNE İLİŞKİN YÖNETMELİK",
+  "number": "39557",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39557",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39557&MevzuatTertip=5",
+  "source_sha256": "7b030a5c43b14d0447e1f2ae8b9328561e5f9374f53167a384b0f4369aff9a3f",
+  "source_bytes": 98007,
+  "published": "2022-06-08",
+  "gazette": "31860",
+  "in_force": "2022-06-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2759,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

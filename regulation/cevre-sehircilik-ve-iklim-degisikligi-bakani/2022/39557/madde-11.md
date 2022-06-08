@@ -1,0 +1,3 @@
+Yükümlülüklerin yerine getirilmesi
+MADDE 11- (1) İş birliği yapılan taraf, protokol koşullarına uymadığı takdirde, Ajansın protokolü iptal etme hakkı saklıdır. Protokolün iptaline ilişkin karar ilgili tarafa yedi gün içinde bildirilir.
+(2) Protokolünün iptal edilmesi durumunda, destek sağlanan taraf bildirim tarihinden itibaren on beş gün içinde eğer kendisine yapılmış olan ödemeler varsa söz konusu ödemelerin tamamını Ajansa geri ödemek zorundadır. İadenin süresi içinde yapılmaması halinde yapılan ödemeler ilgili tarafın hesabına aktarıldığı tarihten itibaren işleyen kanuni faizi ile birlikte genel hükümlere göre ilgili taraftan geri alınır.
