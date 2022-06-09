@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11008",
+  "decision_date": "2022-06-09",
+  "title": "Lisanssız Üretim Kapsamında Yapılmayan Ödemelere İlişkin Usul Ve Esaslar Hakkında Kurul Kararı",
+  "resmi_gazete_date": "2022-06-15",
+  "resmi_gazete_number": "31867",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kGs1OaF5w84=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=kGs1OaF5w84="
+  ],
+  "source_sha256": "a7306ee3c74d46536702972b4e70edee313bf1366ea6e8bef1586eb67f55b512",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2022-06-09",
+  "law_text_complete": false
+}
