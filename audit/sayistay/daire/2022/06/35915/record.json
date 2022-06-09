@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "522",
+  "decision_date": "2022-06-09",
+  "source_id": 35915,
+  "chamber": "7",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35915/",
+  "source_sha256": "47d654c71e6534ceab187121c84db8fe393bb213af5879162826b2ebaffbad80",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
