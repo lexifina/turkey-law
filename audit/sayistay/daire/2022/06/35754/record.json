@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35724",
+  "decision_date": "2022-06-09",
+  "source_id": 35754,
+  "chamber": "2",
+  "ilam_number": "90",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2020,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35754/",
+  "source_sha256": "b8b1fa3b11902dba231837464de983493a630b8ead461f30f79233bc4d6fb340",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
