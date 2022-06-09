@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "524",
+  "decision_date": "2022-06-09",
+  "source_id": 35984,
+  "chamber": "7",
+  "item_number": 3,
+  "account_year": 2020,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35984/",
+  "source_sha256": "8ecef40c96470c63e8745abc1690b616ff8a7cf7ed8cfcdb21250ccb823fe6b0",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
