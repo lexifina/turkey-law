@@ -1,0 +1,6 @@
+Sınav sonucunun değerlendirilmesi ve yerleştirme
+MADDE 9 – (1) Özel yarışma sınavının yazılı ve sözlü sınavlardan oluşması halinde özel yarışma sınavı puanı, yazılı ve sözlü sınavda başarılı olan adayların, bu sınavlarda aldıkları puanının aritmetik ortalamasıdır.
+(2) Özel yarışma sınavının yalnızca sözlü sınavdan oluşması halinde ise özel yarışma sınavı puanı, adayın KPSS puanı ile sözlü sınavının aritmetik ortalamasıdır.
+(3) ÖSYM, özel yarışma sınav puanı en yüksek olandan başlayarak adayların başarı sırasını tespit eder. Özel yarışma sınav puanının eşitliği halinde yazılı sınav puanı yüksek olan adaya, bunların da eşit olması halinde KPSS puanı yüksek olan adaya; özel yarışma sınavının sadece sözlü sınavdan oluşması halinde ise KPSS puanı yüksek olan adaya öncelik verilir. Bu şekilde öncelik alan adayların yazılı sınav puanı ve/veya KPSS puanı listede ayrıca gösterilir.
+(4) Adaylar özel yarışma sınavındaki başarı sıraları ve yaptıkları tercihlere göre ÖSYM tarafından idarelere yerleştirilirler.
+(5) Özel yarışma sınavında başarılı olup herhangi bir idareye yerleştirilemeyen adaylar arasından, yerleştirme yapılamayan boş kadro veya pozisyonlara, dördüncü fıkrada belirtilen esaslara göre Bakanlık tarafından ÖSYM’ye, yerleştirme sonuçlarının açıklandığı tarihten itibaren üç ay içerisinde ek yerleştirme yaptırılabilir.

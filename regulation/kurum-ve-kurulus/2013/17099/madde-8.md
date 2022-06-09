@@ -1,0 +1,5 @@
+Sözlü sınav komisyonu
+MADDE 8 – (1) Sınav komisyonu Bakanlıktan alınacak onayla belirlenir.
+(2) Sınav komisyonu, (Değişik ibare:RG-9/6/2022-31861) Kamu Mali Yönetim ve Dönüşüm Genel Müdürü veya görevlendireceği genel müdür yardımcısının başkanlığında Bakanlıktan en az daire başkanı düzeyinde bir üye ile idarelerin strateji geliştirme başkanlıkları ve strateji geliştirme daire başkanlıkları arasından belirlenecek en az daire başkanı düzeyinde üç üye olmak üzere toplam beş üyeden oluşur. Aynı şekilde birer yedek üye belirlenir. Bakanlık tarafından gerekli görülmesi halinde birden fazla sınav komisyonu kurulabilir.
+(3) Sınav komisyonu üye tam sayısı ile toplanır.
+(4) Sınav komisyonu başkan ve üyelerinin; eşlerinin, üçüncü dereceye kadar (bu derece dahil) kan ve ikinci dereceye kadar (bu derece dahil) kayın hısımlarının veya evlat edinilmiş çocuklarının sınava katılması halinde, bunların başkanlık veya üyelikleri sona erdirilir ve bunların yerine yedek üyeler arasından görevlendirme yapılır.

@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.17099",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MALÎ HİZMETLER UZMANLIĞI YÖNETMELİĞİ",
+  "number": "17099",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2013/17099",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=17099&MevzuatTertip=5",
+  "source_sha256": "bff0d33adee860847bfd9094ea05acfaab36962c4d561348b2c5edca11c5f3dd",
+  "source_bytes": 54730,
+  "published": "2013-02-06",
+  "gazette": "28551",
+  "in_force": "2022-06-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/6/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-06-09",
+      "RG-9/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-09",
+      "9/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3225,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
