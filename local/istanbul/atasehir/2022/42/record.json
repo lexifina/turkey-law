@@ -1,0 +1,22 @@
+{
+  "number": "42",
+  "number_as_published": "2022/042",
+  "year": 2022,
+  "title": "09.06.2022 tarihli ve 2022/042 sayılı karar",
+  "decision_date": "2022-06-09",
+  "source": "https://www.atasehir.bel.tr/kurumsal/liste/meclis-kararlari?page=33",
+  "official_document": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/09062022-tarihli-ve-2022042-sayili-karar",
+  "source_sha256": "e630613c9cf678103f702265015554acb9fd9bce4ac2bccc80c4996038243546",
+  "issuer": "Ataşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-06-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09.06.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page": "https://www.atasehir.bel.tr/kurumsal/meclis-kararlari/09062022-tarihli-ve-2022042-sayili-karar"
+}
