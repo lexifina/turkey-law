@@ -1,0 +1,20 @@
+Hayvanat bahçesi ve doğal yaşam parkı ruhsatı
+MADDE 9- (1) Hayvanat bahçeleri ve doğal yaşam parkları ruhsatlandırılmadan halkın ziyaretine açılamaz.
+(2) Aynı tesis bünyesinde 5 inci ve 6 ncı maddelerde belirtilen asgari şartların oluşması halinde şartların sağlandığı her grup hayvanat bahçesi ve doğal yaşam parkı için ayrı bir ruhsat alınması zorunludur.
+(3) Hayvanat bahçesi veya doğal yaşam parkı kurulması ile ilgili ön izin alan gerçek veya tüzel kişiler, kurum ve kuruluşlar, ruhsat almak için bu maddenin altıncı fıkrasında belirtilen belgelerle il şube müdürlüğüne müracaat ederler. Bu maddenin birinci ve ikinci fıkralarında belirtilen ruhsatlar, işyeri açma ve çalışma ruhsatı alınması mecburiyetini ortadan kaldırmaz.
+(4) Hayvanat bahçelerinde ve doğal yaşam parklarında istihdam edilmesi zorunlu, tam zamanlı çalışacak asgari idari ve teknik personel şunlardır:
+a) 1. Grup Hayvanat Bahçesinde ve Doğal Yaşam Parkında; bir sorumlu yönetici, bir veteriner hekim ve bir biyolog.
+b) 2. Grup Hayvanat Bahçesinde; bir sorumlu yönetici, bir veteriner hekim ve bir su ürünleri uzmanı.
+c) 3. Grup Hayvanat Bahçesinde; bir sorumlu yönetici, bir veteriner hekim ve bir biyolog.
+ç) 4. Grup Hayvanat Bahçesinde; bir sorumlu yönetici, bir veteriner hekim ve bir biyolog.
+(5) Aynı tesis bünyesinde birden fazla grup hayvanat bahçesi ve/veya doğal yaşam parkı bulunması halinde bir sorumlu yönetici ve bir biyolog istihdam edilmesi yeterlidir ancak her bir grup için ayrı ayrı veteriner hekim istihdam edilmesi zorunludur.
+(6) Hayvanat bahçesi ve doğal yaşam parkı ruhsatı almak için gerekli belgeler şunlardır:
+a) 9/5/1985 tarihli ve 3194 sayılı İmar Kanunu gereğince ilgili kurumlardan alınmış izinler.
+b) Hayvanat bahçesinde veya doğal yaşam parkında istihdam edilmesi zorunlu olan idari ve teknik personel ile personelin tâbi olduğu ilgili mevzuat doğrultusunda hayvanat bahçesi veya doğal yaşam parkı sahibi arasında yapılan sözleşmeler, resmî kurumlarda ise bu kişilere ait görevlendirme yazıları.
+c) Yangın ve patlamalar için gerekli önlemlerin alındığına dair ilgili itfaiye müdürlüğünden alınan belge.
+ç) Yerli veya yabancı hayvan türlerinin yasal yollarla temin edildiğine dair; fatura, üretici satış belgeleri, CITES ek listelerinde yer alıyor ise CITES belgeleri, doğadan toplama ve yakalama izinleri ve benzeri belgeler.
+d) İşyeri açma ve çalışma ruhsatı.
+(7) Belgeler, il şube müdürlüğü tarafından incelenir ve belgelerde eksiklik bulunmaması halinde Ek-4’te yer alan Hayvanat Bahçesi Ruhsatı ve/veya Ek-5’te yer alan Doğal Yaşam Parkı Ruhsatı düzenlenir. Belgelerde eksiklik bulunması halinde bu durum başvuru sahibine resmi yazı ile bildirilir. Eksikliklerin en geç üç ay içerisinde tamamlanmaması halinde ön izin iptal edilerek başvuru işlemden kaldırılır.
+(8) İl şube müdürlüğünce, hayvanat bahçesinin veya doğal yaşam parkının tüm izin ve belgelerinin bulunduğu dosya oluşturulur. Hayvanat bahçesi ruhsatının veya doğal yaşam parkı ruhsatının bir örneği ruhsatlandırma tarihinden itibaren en geç on gün içerisinde Genel Müdürlüğe gönderilir.
+(9) Hayvanat bahçesi veya doğal yaşam parkı ruhsatı beş yıl geçerlidir. Ruhsat süresi dolmadan on gün önce ruhsatın yenilenmesi için bir dilekçe ve ekinde tür listesi formu ile birlikte il şube müdürlüğüne başvurulur. Bu süre içerisinde başvuru yapılmaması durumunda 27 nci madde hükümleri doğrultusunda ruhsat iptaline ilişkin işlemler yapılır. Başvuru ile ilgili Komisyon tarafından yerinde inceleme yapılır ve uygun bulunanlara beş yıl süre ile yeniden ruhsat düzenlenir. Uygun bulunmayanlarda tespit edilen eksikliklerin giderilmesi için üç ay süre verilir. Bu süre sonunda, Komisyonca yapılan incelemede eksikliklerin giderilmediğinin tespiti halinde 27 nci madde hükümleri doğrultusunda ruhsat iptaline ilişkin işlemler yapılır.
+(10) Ruhsatın yenilenmesi hâlinde ruhsatın ve tür listesi formunun bir örneği il şube müdürlüğündeki dosyasına konulur, bir örneği de yenileme tarihinden itibaren en geç on gün içerisinde Genel Müdürlüğe gönderilir.

@@ -1,0 +1,11 @@
+Ön izin
+MADDE 8- (1) Hayvanat bahçesi ve doğal yaşam parkı kurmak isteyen gerçek veya tüzel kişiler, kurum ve kuruluşlar, hayvanat bahçesi ve doğal yaşam parkı kurmak istedikleri yerin il şube müdürlüğüne aşağıda belirtilen belgelerle müracaat ederler:
+a) Başvuru dilekçesi (Ek-1).
+b) Tür listesi formu (Ek-2).
+c) Hayvanat bahçesi veya doğal yaşam parkının, hayvanların yerleşimlerini gösteren ve Bakanlıkça hayvanlar için belirlenen asgari alanlara uygun olarak hazırlanmış vaziyet planı.
+ç) Yerleşim yeri ve çevresine ait idarî, teknik ve benzeri yerleri gösteren kroki.
+d) Hayvanat bahçesi veya doğal yaşam parkının kurulacağı arazinin gerçek veya tüzel kişi, kurum veya kuruluşa ait tapusu veya tahsisini gösteren belge.
+e) Hayvanat bahçesi veya doğal yaşam parkı kurulacak yer ile ilgili tarım ve orman il müdürlüğü, çevre, şehircilik ve iklim değişikliği il müdürlüğü, il sağlık müdürlüğü, il kültür ve turizm müdürlüğü ve ilgili belediyenin görüşleri.
+(2) Hayvanat bahçesi veya doğal yaşam parkı kurulacak yer ile ilgili birinci fıkranın (e) bendinde belirtilen kurum/kuruluşlardan alınan görüşlerin uygun olması halinde, hayvanat bahçesi veya doğal yaşam parkı yapılacak yerin uygun şartları taşıyıp taşımadığı Komisyon tarafından yerinde kontrol edilir. Hayvanat bahçesi veya doğal yaşam parkı yapılacak yerin 7 nci maddede belirtilen şartları taşıdığının tespit edilmesi hâlinde, Ek-3’te yer alan Ön İzin Belgesi iki nüsha düzenlenerek bir nüshası il şube müdürlüğünde muhafaza edilir, diğer nüshası başvuru sahibine verilir. Ön izin bir yıl süre ile geçerlidir. Bu süre içerisinde ruhsat almak için müracaat etmeyenlerin başvuruları işlemden kaldırılarak bu durum il şube müdürlüğünce başvuru sahibine resmi yazı ile bildirilir.
+(3) Aynı tesis bünyesinde birden fazla grup hayvanat bahçesi ve/veya doğal yaşam parkı kurulacak olması halinde tek bir Ön İzin Belgesi düzenlenir.
+(4) 5199 sayılı Kanun, 1/7/2003 tarihli ve 4915 sayılı Kara Avcılığı Kanununun 26 ncı maddesi, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanunu, 9/8/1983 tarihli ve 2872 sayılı Çevre Kanununun 20 nci maddesinin (k) bendi kapsamında ceza almış kişiler hayvanat bahçesi veya doğal yaşam parkı kuramaz.
