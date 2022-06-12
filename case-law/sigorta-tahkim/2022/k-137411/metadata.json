@@ -1,0 +1,15 @@
+{
+  "number": "K-2022/137411",
+  "award_date": "2022-06-12",
+  "heading_as_published": "12.06.2022 Tarih ve K-2022/137411 Sayılı Hakem Kararı",
+  "issue": "Hakem Karar Dergisi 50 Nisan - Haziran 2022",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs50.pdf",
+  "source_sha256": "a96acd4ddf8e08c02a78b0e27d57d9763b0c3c646e3d7f833d3988a80c1d85e8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 2,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
