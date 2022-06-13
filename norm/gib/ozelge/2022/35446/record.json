@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "73903997-140[57-2022/1]-39313",
+  "source_id": 35446,
+  "date": "2022-06-13",
+  "title": "775 Sayılı Kanun Kapsamında Harç Muafiyeti.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/35446",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "e474eddb769cc2098702b87ec496abcc20c90f52f6faf7885d5d0511fd8425ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
