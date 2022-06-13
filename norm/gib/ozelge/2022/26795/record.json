@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-201012]-661520",
+  "source_id": 26795,
+  "date": "2022-06-13",
+  "title": "Arazi tahsis sözleşmesi ile tahsis edilen arazinin diğer şirketlere kiralanması durumunda kiracılar tarafından inşa edilen binalara ilişkin bina yapım harcamalarının özel maliyet olarak dikkate alıp alamayacağı, belge düzeni ve KDV tevkifat uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26795",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "9dcc3d81e8d3e4873d7e17d6368f8118490a1db854151299fd2c54d9e5259932",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
