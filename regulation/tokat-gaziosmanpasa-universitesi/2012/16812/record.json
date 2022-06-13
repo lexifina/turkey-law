@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 20 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-12-03",
+      "03.12.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "RG-13/6/2022-31865",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-13",
+      "13/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-13/6/2022-31865",
+  "first_law": null,
+  "gazette": "28486",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-13",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2012/16812",
+  "published": "2012-12-03",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16812&MevzuatTertip=5",
+  "source_bytes": 48354,
+  "source_id": "8.5.16812",
+  "source_sha256": "7f8cc87c1302c22878c2555777e087de51697ef9c07845b36d83c9aa49c8728c",
+  "text_status": "current-consolidated",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ ÇOCUK EĞİTİMİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 1811
+}
