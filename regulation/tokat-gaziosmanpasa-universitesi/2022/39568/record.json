@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 39- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-06-13",
+      "13.06.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 39- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31865",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-13",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2022/39568",
+  "published": "2022-06-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39568&MevzuatTertip=5",
+  "source_bytes": 110414,
+  "source_id": "8.5.39568",
+  "source_sha256": "17302ffdae9b2e31b890bdac96feed98da0bd628d3c72450020c708f1456bb15",
+  "text_status": "as-enacted",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ LİSANSÜSTÜ\r\nEĞİTİM VE ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 7472
+}
