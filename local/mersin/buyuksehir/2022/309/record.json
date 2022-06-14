@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "309",
+  "decision_date": "2022-06-14",
+  "title": "- MEC.KAR.(Yenişehir 1000 Etap1 ITIRAZ EK SÜRE ).doc",
+  "listed_as": "309- MEC.KAR.(Yenişehir 1000 Etap1 ITIRAZ EK SÜRE ).doc",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/309--meckaryenisehir-1000-etap1-itiraz-ek-sure-doc",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/14-haziran-2022-meclis-kararlari",
+  "listing_sha256": "bee1fe9d4b0d2beb82db83a32983e92f9db21f048aa5da1f42176cda9c8fde97",
+  "meeting_title": "14 HAZİRAN 2022 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
