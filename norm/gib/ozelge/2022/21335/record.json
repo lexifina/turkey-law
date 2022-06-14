@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120-668583",
+  "source_id": 21335,
+  "date": "2022-06-14",
+  "title": "Kişisel web sitesi üzerinden tıklanma ve reklamları yayınlamak suretiyle elde edilen gelirlerin sosyal içerik üreticiliği istisnası kapsamında değerlendirilip değerlendirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21335",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "0cbc960ec62a766850a6d2636e0e275242f03c04a0d74cf83c7113c4ae0d64b9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
