@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52125",
+  "decision_date": "2022-06-15",
+  "source_id": 26312,
+  "chamber": "2",
+  "file_number": "46278",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2016",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26312/",
+  "source_sha256": "f9800a3b42b1bdc8a8f37b93f593d686b8a3de652c4cc0bd990eea7f12a576ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
