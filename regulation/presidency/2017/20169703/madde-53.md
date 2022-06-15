@@ -1,0 +1,3 @@
+Yüklenicinin sözleşmenin feshine neden olması
+MADDE 53- (1) Sözleşme yapıldıktan sonra, yüklenicinin taahhüdünden vazgeçmesi veya taahhüdünü şartname ve sözleşme hükümlerine uygun olarak yerine getirmemesi halinde, AOÇ tarafından yapılacak en az on gün süreli yazılı ihtara rağmen taahhüt yerine getirilmez ise ayrıca protesto çekmeye ve karar almaya gerek kalmaksızın kesin teminatı gelir kaydedilir ve 27 nci madde hükümleri uygulanır. Sözleşme hükümlerine göre ayrıca zarar talebinde bulunulacaksa kanuni yollara başvurulur.
+(2) Gelir kaydedilen teminat, yüklenicinin borcuna mahsup edilmez, borcu varsa ayrıca tahsili yoluna gidilir.

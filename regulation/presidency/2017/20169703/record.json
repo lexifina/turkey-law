@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20169703",
+  "number": "20169703",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ATATÜRK ORMAN ÇİFTLİĞİ MÜDÜRLÜĞÜNÜN SATIM VE KİRAYA VERME İŞLERİNE DAİR YÖNETMELİK",
+  "published": "2017-01-12",
+  "enacted": "2016-12-27",
+  "gazette_number": "29946",
+  "in_force": "2022-06-15",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 15/6/2022; source row: 14/6/2022 | 5733 | 2, 4, 9, 64 | 15/6/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20169703&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "009dfb070949dd6435aa80041d207c75d01ea05075b6fb8da59ed5d6f61c632e",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

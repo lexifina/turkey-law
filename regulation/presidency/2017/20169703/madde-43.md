@@ -1,0 +1,7 @@
+Teklif zarflarının teslim edilmesi
+MADDE 43- (1) Teklif mektubu ve geçici teminat da dahil olmak üzere ihaleye katılabilme şartı olarak şartnamede istenilen bütün belgeler bir zarfa konulur. Zarfın üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait olduğu ve AOÇ’nin adı ve adresi yazılır. Zarfın yapıştırılan yeri istekli tarafından imzalanarak mühürlenir veya kaşelenir. İsteklinin gerçek kişi olması halinde zarfın yapıştırılan yerinde sadece imza olması yeterlidir.
+(2) Teklif zarfları ilanda belirtilen gün ve saate kadar Ticaret Müdürlüğüne verilir. Posta yoluyla gönderilen teklif zarflarının da belirtilen saate kadar Ticaret Müdürlüğüne ulaşmış olması şarttır. İlanda belirtilen saatten sonra verilen tekliflerle postada geciken teklifler kabul edilmez ve açılmadan istekliye iade edilir. Bu durum tutanakla tespit edilir.
+(3) Ticaret Müdürlüğüne ulaşan teklif zarfları açılmaksızın alınış sırasına göre numaralandırılarak ihale komisyonuna teslim edilir.
+(4) Verilen teklifler istekli tarafından geri alınamaz veya değiştirilemez.
+(5) Posta yoluyla gönderilen teklif zarflarının ihaleden önce yanlışlıkla açılması durumunda Ticaret Müdürlüğünce bir tutanak düzenlenip, bu tutanakla birlikte başka bir zarfa konularak ihale komisyonuna teslim edilir.
+(6) Zeyilname ile teklif verme süresinin uzatılması halinde, AOÇ ve isteklilerin ilk teklif verme tarih ve saatine bağlı tüm hak ve yükümlülüklerinin süresi, tespit edilecek yeni teklif verme tarih ve saatine kadar uzatılmış sayılır.

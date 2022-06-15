@@ -1,0 +1,3 @@
+Yeni koronavirüs (Covid-19) salgını nedeniyle alacakların ertelenmesi
+GEÇİCİ MADDE 1- (Ek:RG-11/5/2020-31124 Mükerrer-CK-2516/3 md.)
+(1) Dünya Sağlık Örgütü tarafından pandemi ilan edilen Covid-19 salgını nedeniyle bu Yönetmelik hükümlerine göre kiraya verilen taşınmazlardan, 1/4/2020 tarihinden itibaren 3 aylık döneme ilişkin tahsil edilmesi gereken bedeller, başvuru şartı aranmaksızın 3 ay süreyle ertelenir. Bu süreleri bitiminden itibaren 3 aya kadar uzatmaya Tarım ve Orman Bakanı yetkilidir. Bu alacaklar ertelenen süre sonunda ertelenen süre kadar aylık eşit taksitler halinde, herhangi bir gecikme zammı ve faiz uygulanmadan tahsil edilir.

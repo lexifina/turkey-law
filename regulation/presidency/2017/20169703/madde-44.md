@@ -1,0 +1,3 @@
+Zarfların açılması
+MADDE 44- (1) Teklifler ihale dokümanında belirtilen ihale saatine kadar Ticaret Müdürlüğüne verilir. İhale komisyonunca ihale dokümanında belirtilen saatte kaç teklif verilmiş olduğu ek-2’deki forma uygun olarak hazırlanan bir tutanakla tespit edilerek hazır bulunanlara duyurulur ve ihaleye başlanır. Teklif zarflarının usulüne uygun verilip verilmediği incelendikten sonra usulüne uygun olmayan zarflar bir tutanak ile belirlenerek değerlendirmeye alınmaz. Teklif zarfı üzerinde bulunan eksiklik ve noksanlıklar tamamlatılamaz. Usule uygun olarak verilen teklif zarfları isteklilerle birlikte hazır bulunanlar önünde alınış sırasına göre açılır.
+6828

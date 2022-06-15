@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; Atatürk Orman Çiftliği Müdürlüğüne ait taşınırlar ile Atatürk Orman Çiftliği Müdürlüğünce üretilen veya ürettirilen, satılmak üzere alınan ürünlerin doğrudan veya ihaleli ya da ihalesiz satım işlemlerine, ürünlerin bayilik aracılığıyla satım ve pazarlama işlemlerine ve taşınır ve ürünlerin teslimine, teslim alınmasına ve bedellerinin ödenmesi ile taşınır veya taşınmazların kiraya verilmesine ilişkin iş ve işlemleri kapsar.(1)

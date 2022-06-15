@@ -1,0 +1,4 @@
+Dosyalama işlemleri
+MADDE 63- (1) Her ihale konusu iş için Ticaret Müdürlüğü ve ilgili birim tarafından ayrı bir dosya açılır.
+(2) Ticaret Müdürlüğü tarafından açılan dosyada; ilgili birimin talep yazısı, varsa idari ve teknik şartnameler, ihale onayı, duyurma ile ilgili belgeler, teklif mektupları, komisyon tutanağı ve görüşleri, makam olurları, sözleşme veya sözleşme yerine geçen belgeler, işin mahiyetine göre bulunması gereken diğer belgeler tarih sırasına göre tasnif edilerek saklanır. İşlemleri tamamlanmış olan dosyalar kontrolü yapıldıktan sonra arşive kaldırılır.
+(3) İlgili birim tarafından açılan dosyada; ilgili birimin talep yazısı, varsa idari ve teknik şartnameler, sözleşme veya sözleşme yerine geçen belgeler, işin mahiyetine göre bulunması gereken diğer belgeler tarih sırasına göre tasnif edilerek saklanır.

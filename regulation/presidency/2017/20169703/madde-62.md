@@ -1,0 +1,3 @@
+AOÇ’den kaynaklanan sebepler
+MADDE 62- (1) AOÇ’nin sözleşmenin ifasına ilişkin olarak sözleşmede yer alan yükümlülüklerini yüklenicinin kusuru olmaksızın öngörülen süreler içinde yerine getirmemesi, bu sebeple sorumluluğu yükleniciye ait olmayan gecikmelerin meydana gelmesi, işin süresinde bitirilememesi sebebiyle bu durumun taahhüdün yerine getirilmesine engel olması, yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş olması hallerinde yüklenicinin AOÇ’ye yazılı olarak bildirimde bulunması ve AOÇ tarafından incelenerek gecikme nedeni olarak kabul edilmesi üzerine, işi engelleyici sebeplere ve yapılacak işin niteliğine göre, işin süresi gecikmeyi karşılayacak şekilde, işin ilgili kısmı veya tamamı için uzatılabilir.
+6833

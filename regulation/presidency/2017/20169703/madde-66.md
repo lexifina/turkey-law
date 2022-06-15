@@ -1,0 +1,3 @@
+Satım fiyatlarının tespiti
+MADDE 66- (1) İhtiyaç duyulduğunda, ilgili birimin talebi ve teklif edeceği fiyat doğrultusunda AOÇ Müdürünün onayının alınması kaydıyla taşınır ve ürünlerin serbestçe satımı yapılabilir.
+(2) Satılması düşünülen taşınır ve ürünlerin ön fiyat araştırması, ilgili birim tarafından yapılacak fiyat tespit çalışmalarında, mahalli borsa fiyatları, iç ve dış piyasa fiyatları, Toprak Mahsulleri Ofisi satış fiyatları, ürün ve üretimlerin kalitesi, bulunduğu bölge ve piyasa şartları, arz ve talep durumları, yıllık üretim miktarları, maliyet analizleri ve geçmiş yıl fiyatları gibi faktörler dikkate alınarak satım fiyatı belirlenir ve AOÇ Müdürünün onayına sunulur.

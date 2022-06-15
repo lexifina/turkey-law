@@ -1,0 +1,2 @@
+Tahmini bedelin tespiti
+MADDE 15- (1) Tahmini bedel; ihale yapılmadan önce ilgili birim veya bu birimce görevlendirilen komisyon tarafından ya da hizmet satın alınması usulü ile her türlü fiyat araştırması yapılmak suretiyle hesaplanır. İşin özelliğine göre gerektiğinde bu bedel veya bu bedelin hesabında kullanılacak fiyatlara ilişkin olarak belediye, ticaret odası, sanayi odası, borsa gibi kuruluşlardan veya bilirkişilerden görüş alınabilir. Tahmini bedel ve dayanağı olan belgeler asıl evraklarla birlikte saklanır.

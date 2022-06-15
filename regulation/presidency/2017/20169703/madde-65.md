@@ -1,0 +1,2 @@
+Bildirim esasları
+MADDE 65- (1) Bu Yönetmelik uyarınca yapılacak bildirimler imza karşılığı elden, iadeli taahhütlü mektupla, elektronik ortamda ve faksla yapılabilir. Elektronik ortamda veya faksla yapılan bildirimlerin aynı gün teyit edilmesi zorunludur. Elektronik ortamda veya faksla yapılan bildirimlerde bildirim tarihi tebliğ tarihi sayılır ve bildirimin postaya verilmesi teyit işlemi olarak kabul edilir.
