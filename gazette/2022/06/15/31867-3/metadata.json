@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-06-15",
+  "issue": "31867",
+  "edition": "regular",
+  "item": 3,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Rekabeti Sınırlayıcı Anlaşma, Uyumlu Eylem ve Kararlar ile Hâkim Durumun Kötüye Kullanılması Halinde Verilecek Para Cezalarına İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220615-3.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220615.htm",
+  "index_sha256": "fdbcf8bf6c76906e3b172c38ce3cf6411dab8a1c98c83c8650edb47ffa1bb766",
+  "index_header": "15 Haziran 2022 ... 31867 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/06/20220615.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
