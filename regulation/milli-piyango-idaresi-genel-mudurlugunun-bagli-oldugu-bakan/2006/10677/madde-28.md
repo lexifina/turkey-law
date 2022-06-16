@@ -1,0 +1,4 @@
+Mücbir sebep
+MADDE 28 – (1) Bu Yönetmeliğin uygulanmasında; doğal afetler, grev, salgın hastalık, savaş, kısmi veya genel seferberlik ilanı ile Bakanlar Kurulu veya İdarece belirlenecek benzeri diğer haller mücbir sebep olarak kabul edilir.
+(2) Birinci fıkrada belirtilen hallerin mücbir sebep olarak kabul edilebilmesi için; düzenleyicinin kusurundan kaynaklanmamış olması, engeli kaldırmaya gücünün yetmemiş olması, yükümlülüklerini yerine getirmesini engelleyecek nitelikte olması, mücbir sebebin meydana geldiği tarihi izleyen en geç yedi gün içinde İdareye yazılı olarak bildirimde bulunması ve bu durumun yetkili mercilerden alınacak belgeler ile kanıtlanması şartı aranır.
+(3) Piyango süresince mücbir veya kabul edilebilir haklı sebeplerin ortaya çıkması halinde İdare; kampanya, çekiliş ve ikramiyeler ile ilgili konularda mevcut durumu değerlendirerek res’en tasarrufta bulunur.

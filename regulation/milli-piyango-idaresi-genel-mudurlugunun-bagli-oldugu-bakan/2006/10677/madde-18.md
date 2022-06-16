@@ -1,0 +1,8 @@
+Çekilişlerin yapılması
+MADDE 18 – (1) Çekilişlerin, İdarece uygun görülen ve izin yazısında belirtilen adres, tarih ve saatte başlatılması zorunludur.
+(2) Çekilişlerin, İdarece belirlenen veya düzenleyici tarafından belirlenmekle birlikte İdarece de uygun görülen kamuya açık mekânlarda ve isteyen herkesin rahatlıkla izleyebileceği şekilde gerçekleştirilmesi esastır.
+(3) Ticari amaçla düzenlenen piyangolarda, asıl talihli sayısını geçmemek üzere yedek talihli belirlenmesi esastır. Ancak, özellik arzeden çekilişlerde düzenleyicinin talebi ve İdarenin uygun görmesi üzerine daha fazla sayıda yedek talihli belirlenebilir.
+(4) Çekilişlerin, piyangoyu düzenleyenlerin yetkililerinden oluşan bir heyet tarafından noter huzurunda ve İdarenin izin yazısında belirtilen usul ve esaslar çerçevesinde gerçekleştirilmesi zorunludur. Gerekli görülen hallerde, İdare temsilcisi de çekilişe görevli olarak katılır.
+(5) Çekilişlerin adil ve güvenilir bir şekilde gerçekleştirilmesinden, kazanan numaralar ile biliniyorsa talihlilerin adı, soyadı, ikametgâh adresi ve benzeri bilgilerin çekiliş tutanağına tam ve doğru olarak kaydedilmesinden çekiliş heyeti sorumludur.
+(6) Çekiliş sonucunda ikramiye kazanan numaralar ve/veya talihliler en az üç örnek tutanakla belirlenerek, çekiliş heyeti tarafından imzalanıp, noter tarafından onaylanır. Tutanağın bir nüshası çekiliş tarihini müteakip İdareye gönderilir.
+(7) Çekilişin herhangi bir nedenle düzenleyicisi tarafından yapılmaması halinde, katılıma ilişkin materyaller üzerinden çekiliş İdare tarafından gerçekleştirilebilir. Böyle bir durumda, çekilişe ilişkin İdarece yapılacak her türlü masraf düzenleyicinin teminatından karşılanır.

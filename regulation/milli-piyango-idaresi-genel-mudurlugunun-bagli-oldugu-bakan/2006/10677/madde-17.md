@@ -1,0 +1,2 @@
+Satılamayan biletler
+MADDE 17 – (1) Yardım amacıyla düzenlenen piyangolarda, çekilişten önce; noter ve piyango düzenleyenlerin yetkilileri ile varsa İdare temsilcisi tarafından, bastırılan, satılan ve satılamayan biletlerin adet ve numaraları en az üç örnek tutanakla tespit edilir. Noter onaylı bu tutanağın bir nüshasının çekilişten önce faks ve benzeri iletişim araçlarıyla İdareye ulaştırılması, daha sonra tutanak aslının İdareye gönderilmesi zorunludur.

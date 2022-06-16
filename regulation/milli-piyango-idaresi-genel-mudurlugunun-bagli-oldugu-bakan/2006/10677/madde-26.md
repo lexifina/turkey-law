@@ -1,0 +1,2 @@
+Kamuoyuna duyurma
+MADDE 26 – (1) Bu Yönetmelik kapsamındaki piyango ve çekilişleri İdareden izin almadan tertip edenlerle gerekli izni almakla birlikte, piyangoları belirlenen kurallara uygun gerçekleştirmeyenler, çekilişleri yapmayanlar, çekiliş sonuçlarını ilan etmeyenler veya taahhütlerini yerine getirmeyenler ile çeşitli nedenlerle izni iptal edilenler, masrafları kendilerinden alınmak ya da teminatlarından karşılanmak üzere İdarece, basın ve yayın organları kanalıyla kamuoyuna duyurulabilir. İlgililer hakkında İdarece Cumhuriyet Savcılığına suç duyurusunda bulunulur.

@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Bakanlık: Maliye Bakanlığını,
+b) Çekiliş: Düzenlenen kampanyalar sonucunda, taahhüt edilen ikramiyeleri kazanacak katılımcıların, usul ve esasları İdarece uygun görülecek kura çeşitleriyle belirlenmesini,
+c) Düzenleyici: Bir mal veya hizmetin tanıtımı ve/veya satışı ya da yardım amacıyla piyango tertip etmek üzere İdarece kendisine izin verilen gerçek veya tüzel kişileri,
+ç) İdare: Milli Piyango İdaresi Genel Müdürlüğünü,
+d) İkramiye: Talihlilere verilmesi taahhüt edilen nakit dışında her türlü menkul ya da gayrimenkul mal ve eşya ile hizmet ve hakları,
+e) İzin: Piyango düzenlenmesine ve çekiliş yapılmasına imkân sağlayan ve İdareden alınması zorunlu olan izni,
+f) Kampanya: Piyangolara katılma hakkı sağlayan bilet, kupon, katılım numarası ve benzerlerinin verilmeye başlandığı tarihten, katılımın sona erdiği tarihe kadar geçen süreyi,
+g) Karşılığı nakit olmayan piyango: Doğrudan veya bir mal ya da hizmetin satışı nedeniyle bilet, kupon, katılım numarası veya benzerlerinin satılması veya bedelsiz verilmesi suretiyle katılım hakkının verildiği ve düzenleyici tarafından taahhüt edilen karşılığı nakit olmayan her türlü eşya, hak ve benzeri ikramiyeleri kazanacak olanların, yapılacak çekilişle belirlendiği ve bundan sonra bu Yönetmelikte kısaca piyango olarak anılacak ticari, sosyal, yardım ve benzeri amaçlı düzenlemeleri,
+ğ) Katılımcı: Kampanya süresi içerisinde çekilişe katılım hakkını elde eden gerçek veya tüzel kişiyi,
+h) Nakit: İlgili kanunlarına göre çıkartılan ve tedavülde bulunan Türk parasını, nakit gibi işlem gören altın, platin gibi kıymetli madenler ile elmas, yakut, pırlanta, zümrüt ve benzeri kıymetli taşları ve bunlardan mamul veya müteşekkil her türlü eşyayı, nakde çevrilmesi mümkün döviz, hisse senedi, tahvil ve benzerlerini,
+ı) Sanal ortam: Bilgisayar, internet, interaktif televizyon, cep telefonu ve benzeri bilişim ortamlarını,
+i) Sosyal amaçlı piyango: Kamu kurum ve kuruluşları tarafından toplumun sağlık, eğitim, kültürel değerlerinin korunup geliştirilmesi ve benzeri amaçlarla düzenlenen piyangoları,
+j) Talihli: Çekilişlerde ikramiye kazanan katılımcı veya katılımcıları,
+k) Ticari amaçlı piyango: Bir mal veya hizmetin tanıtımı, pazar payının artırılması veya satılması amacıyla bilet, kupon, katılım numarası ve benzerlerinin bedelsiz dağıtılması suretiyle düzenlenen piyangoları,
+l) Yardım amaçlı piyango: 23/6/1983 tarih ve 2860 sayılı Yardım Toplama Kanunu kapsamında bilet, kupon ve benzerlerinin bir bedel karşılığı satılması suretiyle düzenlenen piyangoları,
+m) Yarışma: Kazananları, katılanlar arasından bilgi, beceri veya yeteneğe dayalı olarak eleme usulü ile başarı sıralaması esas alınarak veya bir jüri tarafından aynı esaslar dâhilinde yapılan değerlendirmeyle belirlenen ve sonucunda ayni ve/veya nakdi ödül verilen düzenlemeler ile bilmece, bulmaca, eğlence programı ve benzerlerini,
+n) (Ek:RG-16/6/2022-31868) Aracı firma: Karşılığı nakit olmayan piyango ve çekiliş düzenlemek isteyenler tarafından elektronik ortam üzerinden yapılacak müracaatların, bu Yönetmelikle belirlenen esaslara uygun olarak İdareye intikal ettirilmesi ve başvuru sahiplerine danışmanlık hizmeti verilmesi amacıyla aracılık yapma ruhsatı verilen tüzel kişileri,
+o) (Ek:RG-16/6/2022-31868) Genel Müdür: Milli Piyango İdaresi Genel Müdürünü,
+ifade eder.

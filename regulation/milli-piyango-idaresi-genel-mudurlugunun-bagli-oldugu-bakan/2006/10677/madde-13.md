@@ -1,0 +1,18 @@
+İzin verilmeyecek haller
+MADDE 13 – (1) Piyango düzenlemek için izin talebinde bulunanların başvurularının incelenmesi sonucunda;
+a) Bu Yönetmelik gereğince istenilen bilgi ve belgeleri tam ve süresi içerisinde vermeyenlere, muhteviyatı itibariyle yanıltıcı veya sahte belge ve bilgi verenlere, gerekli taahhütlerde bulunmayanlara,
+b) Piyangoyu düzenleyen gerçek kişilerden, taksirli suçlar hariç olmak üzere affa uğramış olsalar bile mülga 1/3/1926 tarihli ve 765 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca ağır hapis veya beş yıldan fazla hapis, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca üç yıldan fazla hapis cezasıyla cezalandırılmamış olması yahut mülga 765 sayılı Türk Ceza Kanunu, 5237 sayılı Türk Ceza Kanunu veya diğer kanunlar uyarınca basit veya nitelikli zimmet, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlar ile istimal ve istihlâk kaçakçılığı dışında kalan kaçakçılık suçları, resmî ihale ve alım satımlara fesat karıştırma, karapara aklama veya Devletin şahsiyetine karşı işlenen suçlar ile Devlet sırlarını açığa vurma, Devletin egemenlik alametlerine ve organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine karşı suçlar, milli savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, yabancı devletlerle olan ilişkilere karşı suçlar, vergi kaçakçılığı suçlarından veya bu suçlara iştirakten hüküm giymiş olanlara,
+c) Yardım amacıyla düzenlenen piyangolardan, öngörülen hâsılatın yüzde onundan daha az tutarda ikramiye taahhüdünde bulunulan düzenlemelere,
+ç) Bir mal ya da hizmetin satışını artırmak amacıyla düzenlenmekle birlikte, bu mal veya hizmeti kullananların tamamının çekilişe katılmasını sınırlayan düzenlemelere,
+d) Bir çekilişe dayanmayan, özel bilet veya benzerlerinin varsa üzeri kapalı kısımlarının kazınması ya da önceden belirlenmiş ikramiyeyi belirten sayı, simge ve benzerlerinin bulunması şeklindeki düzenlemelerden taahhüt edilen ikramiye birim değeri 2 inci maddenin (f) bendinde belirtilen limitin üzerinde olan düzenlemelere,
+e) Yardım amaçlı piyangolar hariç olmak üzere, bir mal veya hizmetin tanıtımı, pazarlanması, satışına yönelik olmaksızın doğrudan sadece gelir elde etmeyi amaçlayan düzenlemelere,
+f) Kampanya süresi altı ayı geçen düzenlemeler ile kampanyanın başlama tarihi ile ikramiyelerin son teslim tarihi arasındaki süre bir yılı geçen düzenlemelere,
+g) Bir kampanya için İdarece uygun görülen adetten daha fazla adette ikramiye taahhüdü içeren düzenlemelere,
+ğ) Talihlileri veya kazanacak numaraları bu Yönetmelikte belirtilen çekiliş tanımı dışında bir yöntemle belirlenen düzenlemelere,
+h) Bir kişiye aynı tür ikramiyeden birden fazla verilmesini taahhüt eden düzenlemelere,
+ı) Birden fazla gerçek veya tüzel kişi arasındaki ticari işbirliğine dayalı düzenlemeler hariç olmak üzere; katılım şartının, düzenleyicinin kendisi dışında bir başka gerçek veya tüzel kişi tarafından sunulan mal veya hizmetin satış ve/veya tanıtımı şartına bağlı olduğu düzenlemelere,
+i) Düzenleyicinin kampanya işlemlerini düzenleme/yürütme yetkisini devrettiği kişi ve kuruluşların, bu yetki kapsamında kendi adlarına yaptığı başvurulara,
+j) Yeterli güvenilirliğin ve inandırıcılığının sağlanamadığı düzenlemelere,
+k) (Ek:RG-16/6/2022-31868) İdareye ödenmesi gereken başvuru ve izin bedelinin ödenmediği düzenlemelere,
+İdarece izin verilmez.
+(2) Haklarında bu Yönetmeliğin 27 nci maddesinde belirtilen idari yaptırım uygulananlara da, bu süre boyunca piyango düzenleme izni verilmez.

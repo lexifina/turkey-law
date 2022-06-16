@@ -1,0 +1,2 @@
+Piyango düzenleyenlerin yükümlülükleri
+MADDE 32 – (1) Piyango düzenleyenler, bu Yönetmelikte belirtilen usul ve esaslar ile İdarenin piyangolarla ilgili olarak belirleyeceği kurallara uymak, İdarenin veya görevlendireceği personelin sözlü veya yazılı talepleri üzerine piyangolar ile ilgili her türlü işlemler hakkında gerekli bilgileri vermek, bunlara ait defter, belge, hesap ve kayıtları ibraz etmek, her türlü yardım ve işbirliğini sağlamakla yükümlüdürler.

@@ -1,0 +1,3 @@
+Kampanya süresi veya çekiliş tarihinin ertelenmesi
+MADDE 19 – (1) Mücbir sebepler veya İdarece kabul edilebilir haklı sebeplerin mevcut olması ve belgelendirilmesi koşuluyla, kampanyaların başlama, bitiş ve çekiliş tarihleri ayrı ayrı ya da birlikte, yardım amacıyla düzenlenen piyangolarda 2860 sayılı Kanunun 10 uncu maddesi hükmü uyarınca mülki idare amirliği tarafından verilen yardım toplama süresini de geçmemek üzere, İdarece uygun görülecek süreler kadar ertelenebilir.
+(2) Erteleme kararı, kampanya duyuruları hangi araçlarla ilan edildi ise aynı araçlarla katılımcılarına ilanen duyurulur. Gerek duyulması halinde, çekiliş sonuçlarının ilan edileceğinin taahhüt edildiği tarihteki iletişim araçlarında da ayrıca erteleme kararı duyurulur.

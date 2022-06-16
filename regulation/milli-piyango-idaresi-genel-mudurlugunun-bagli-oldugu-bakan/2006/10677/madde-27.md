@@ -1,0 +1,2 @@
+Kurallara aykırı davrananlara uygulanacak idari yaptırımlar
+MADDE 27 – (1) Mücbir sebep hali ile İdarece kabul edilebilir haklı sebepler hariç olmak üzere, bu Yönetmelik hükümleri ile bu hükümler çerçevesinde İdarece yayımlanacak tebliğlere veya izin yazısında belirtilen kurallara uymayanlar ile bu Yönetmeliğin 8 inci maddesinde sayılan yasak fiil ve davranışlarda bulunan düzenleyicilere iki yıl süre ile piyango düzenleme izni verilmez. Tekerrürü halinde ise bu süre iki katı olarak uygulanır.
