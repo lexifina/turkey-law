@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39575",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER DÜZENLEME KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39575",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39575",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39575&MevzuatTertip=5",
+  "source_sha256": "d4fa43fe17c4145cb10e5fd21dac0fa5d8142bff4f72b0f30098b0f961cffe80",
+  "source_bytes": 16639,
+  "published": "2022-06-16",
+  "gazette": "31868",
+  "in_force": "2022-06-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 176,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39575-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
