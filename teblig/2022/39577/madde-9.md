@@ -1,0 +1,4 @@
+Yüklenici, şube ve temsilcilik kullanımı ile ilgili şartlar
+MADDE 9- (1) Onaylanmış kuruluşlar tarafından kullanılacak olan yüklenici laboratuvarları TS EN ISO/IEC 17025 standardına göre akredite olmalı veya TS EN ISO/IEC 17025 standardına uygun oldukları bu kuruluşlarca değerlendirilmiş olmalıdır. Onaylanmış kuruluşların kendi bünyesindeki laboratuvarlar için de aynı şartlar geçerlidir.
+(2) Yüklenici kullanılması durumunda onaylanmış kuruluşlar, TS EN ISO/IEC: 17065 veya TS EN ISO/IEC 17025 standartlarında yer alan yüklenici kullanımıyla ilgili gerekleri de yerine getirir.
+(3) Onaylanmış kuruluşlar tarafından kullanılan şube, temsilcilik veya yüklenicilerin Yönetmeliğin 41 inci maddesinde belirtilen şartları sağlaması onaylanmış kuruluşların sorumluluğundadır. Şube, temsilcilik veya yüklenicilerin faaliyetleri sonucunda verilecek belgeler onaylanmış kuruluşun kendisi tarafından düzenlenir.

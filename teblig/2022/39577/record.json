@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Ekleri için tıklayınız.",
+        "official_href": "9.5.39577-EK.doc",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39577&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31869",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31869",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-17",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-82-0.json",
+      "id": "82",
+      "label": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=82&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-06-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39577&MevzuatTertip=5",
+  "source_bytes": 119570,
+  "source_id": "9.5.39577",
+  "source_sha256": "e95f9568d9a9091ce3dfec4417267e97548e41b589507b4ccba10b6464733bbf",
+  "title": "YAPI MALZEMELERİ YÖNETMELİĞİ (305/2011/AB) KAPSAMINDA\r\nONAYLANMIŞ KURULUŞLARIN GÖREVLENDİRİLMESİ, İZLENMESİ VE DENETLENMESİ HAKKINDA TEBLİĞ",
+  "word_count": 4138
+}

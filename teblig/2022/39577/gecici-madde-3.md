@@ -1,0 +1,2 @@
+Uygunluk değerlendirme kuruluşlarının görevlendirilmesi
+GEÇİCİ MADDE 3- (1) 26/6/2009 tarihli ve 27270 sayılı Resmî Gazete’de yayımlanan Yapı Malzemelerinin Tabi Olacağı Kriterler Hakkında Yönetmeliğin 19 uncu maddesine göre yapılacak Uygunluk Değerlendirme Kuruluşu başvurularına, personel istihdamı, bunların görevlendirilmesi ve denetlenmesine, bildirim yükümlülüklerine ilişkin iş ve işlemler; başka bir mevzuat ile doğrudan düzenlenene kadar bu Tebliğin uygulanabilir hükümlerine göre yapılır.

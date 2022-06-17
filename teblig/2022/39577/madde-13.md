@@ -1,0 +1,5 @@
+Bildirim
+MADDE 13- (1) Bakanlık tarafından görevlendirmesi veya kapsam genişletmesi uygun görülen kuruluşlar NANDO’da yayımlanmak üzere Ticaret Bakanlığı aracılığıyla Komisyona bildirilir.
+(2) Onaylanmış kuruluşların görev süresi, başvuru sahibi kuruluşun sahip olduğu onaylanma amaçlı akreditasyon sertifikasının geçerlilik tarihi esas alınarak Bakanlık tarafından belirlenir. Onaylanmış kuruluşların başvuru kapsamına ilişkin olarak birden fazla akreditasyon sertifikasının bulunması durumunda, görev süresinin belirlenmesinde geçerlilik süresi en yakın tarihli akreditasyon sertifikası esas alınır.
+(3) Onaylanmış kuruluşların bildirime konu faaliyetlerinde ve özelliklerinde meydana gelen ve Ek-1’deki başvuru yazısı ile Bakanlığa iletilen değişiklikler NANDO’da yayımlanmak üzere Ticaret Bakanlığı aracılığıyla Komisyona bildirilir.
+(4) Bildirim sürecinde Komisyonun veya AB üyesi devletlerin Yönetmeliğin 48 inci maddesinin dördüncü fıkrası çerçevesinde Bakanlıktan Ticaret Bakanlığı aracılığıyla kuruluşa ait ilave bilgi ve belgeler istemesi halinde, bu durum kuruluşa bildirilir ve kuruluş talep edilen bilgi ve belgeleri Bakanlığa iletir.

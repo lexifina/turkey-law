@@ -1,0 +1,10 @@
+ALTINCI BÖLÜM
+İzleme, Denetim ve İdari Yaptırımlar
+İzleme ve denetim
+MADDE 18- (1) Bakanlık görevlendirdiği onaylanmış kuruluşların 7223 sayılı Kanun, Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliği, Yapı Malzemeleri Yönetmeliği (305/2011/AB) ve bu Tebliğde belirtilen nitelikleri karşılamaya devam edip etmediklerini, sorumluluklarını yerine getirip getirmediklerini ve faaliyetlerini öngörülen koşullara uygun olarak sürdürüp sürdürmediklerini izler ve denetler.
+(2) Denetimler, Bakanlığın uygun gördüğü tarihte, re’sen veya şikâyet üzerine kuruluş adresinde veya uzaktan erişim araçları kullanılarak yapılır. Bakanlıkça aksi kararlaştırılmadıkça kuruluşlar azami on sekiz ayda bir kez denetlenir.
+(3) Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliği, Yapı Malzemeleri Yönetmeliği (305/2011/AB) ve bu Tebliğde belirtilen şartlarla ilgili tüm dokümanlar izlemeye ve denetime tabidir.
+(4) Denetimde tespit edilen hususlar denetim tutanağına kaydedilir. Denetim tutanağındaki hususlarla ilgili olarak Bakanlığın nihai değerlendirmesi denetimden sonra onaylanmış kuruluşa ayrıca bildirilir.
+(5) İzleme ve denetimde tespit edilen uygunsuzluğun kuruluşun asli faaliyetlerini etkileyecek ölçüde olmaması halinde bu uygunsuzluklar kuruluşa bildirilir ve kuruluş aldığı tedbirleri yedi iş günü içerisinde Bakanlığa bildirir.
+(6) Yurt dışında yerleşik onaylanmış kuruluşların ülkemizde yerleşik şube, temsilcilik ve yüklenicilerinin denetiminde uygunsuzluk bulunması halinde Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliğinin 15 inci maddesinde belirtilen hükümler uygulanır.
+(7) Bir kuruluşun 14 üncü maddenin altıncı fıkrasına aykırı faaliyette bulunduğu hakkında kuvvetli şüphe veya bir kanıt bulunması halinde kuruluş Bakanlıkça denetlenebilir veya eldeki kanıtlara dayanılarak değerlendirme yapılabilir.
