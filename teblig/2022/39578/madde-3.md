@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Tebliğ, 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 97 nci maddesi, 26/5/2021 tarihli ve 4022 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Uygunluk Değerlendirme Kuruluşları ve Onaylanmış Kuruluşlar Yönetmeliği ile 10/7/2013 tarihli ve 28703 sayılı Resmî Gazete’de yayımlanan Yapı Malzemeleri Yönetmeliği (305/2011/AB)’ne dayanılarak hazırlanmıştır.

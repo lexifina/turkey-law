@@ -1,0 +1,2 @@
+Teknik değerlendirme kuruluşlarının uyum süresi
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yürürlüğe girdiği tarihte hâlihazırda Bakanlıkça görevlendirilmiş olan TDK’lar, bu Tebliğin yürürlük tarihi itibarıyla on sekiz ay içerisinde ikinci bölümde belirtilen şartları yerine getirir ve bunu kanıtlayan dokümanlarla birlikte görevlendirme kapsamlarının teyit edilmesi için Bakanlığa başvururlar. Bu Tebliğin yürürlük tarihinden sonra yapılacak personel görevlendirmelerinde 7 nci madde ve laboratuvar kullanımlarında 8 inci madde hükümlerine uyulur.

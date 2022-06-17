@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Tebliğ, Yapı Malzemeleri Yönetmeliği (305/2011/AB) kapsamında faaliyette bulunacak teknik değerlendirme kuruluşlarının taşıması gereken nitelikleri, Bakanlıkça görevlendirilmelerinde esas alınacak temel kriterleri ve görevlendirme usullerini, teknik değerlendirme kuruluşlarının yükümlülükleri ile Bakanlık tarafından faaliyetlerinin izlenmesine, denetlenmesine ve idari yaptırım kararlarının uygulanmasına dair usul ve esasları kapsar.
