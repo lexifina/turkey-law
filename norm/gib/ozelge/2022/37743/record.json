@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-687707",
+  "source_id": 37743,
+  "date": "2022-06-17",
+  "title": "Yurt dışında bulunan ve kira geliri elde edilen gayrimenkul için yapılan aidat, bakım, onarım, mortgage faiz gideri ve amortisman giderlerinin, kira gelirinden indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37743",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "2144135127b4f2d2fa3c489a079dfa3a53cb83b95eb02a7d387f1f4f713019e8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
