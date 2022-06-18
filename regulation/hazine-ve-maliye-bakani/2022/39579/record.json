@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39579",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GELİR İDARESİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39579",
+  "issuer": "Hazine ve Maliye Bakanı",
+  "issuer_slug": "hazine-ve-maliye-bakani",
+  "path": "regulation/hazine-ve-maliye-bakani/2022/39579",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39579&MevzuatTertip=5",
+  "source_sha256": "c35cf3ac7e4126daa7a1c5516ff5e5f65b6ba23713ec534ca1b8e04381b99b9d",
+  "source_bytes": 16885,
+  "published": "2022-06-18",
+  "gazette": "31870",
+  "in_force": "2022-06-18",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (18.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 180,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39579-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
