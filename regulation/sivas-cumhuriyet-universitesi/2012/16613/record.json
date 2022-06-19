@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 − (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2012-09-15",
+      "15.09.2012",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-19",
+      "RG-19/6/2022-31871",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-19",
+      "RG-19/6/2022-31871",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-19",
+      "RG-19/6/2022-31871",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-19",
+      "RG-19/6/2022-31871",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-12-25",
+      "RG-25/12/2017-30281",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-19",
+      "RG-19/6/2022-31871",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2017-12-25",
+      "25/12/2017",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-06-19",
+      "19/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-19/6/2022-31871",
+  "first_law": null,
+  "gazette": "28412",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-19",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Sivas Cumhuriyet Üniversitesi",
+  "issuer_slug": "sivas-cumhuriyet-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/sivas-cumhuriyet-universitesi/2012/16613",
+  "published": "2012-09-15",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=16613&MevzuatTertip=5",
+  "source_bytes": 39644,
+  "source_id": "8.5.16613",
+  "source_sha256": "7be025a8cea812cf942d5b701b34fae272d416520ae65562ba28fa8db10c2f4d",
+  "text_status": "current-consolidated",
+  "title": "SİVAS CUMHURİYET ÜNİVERSİTESİ PROJE KOORDİNASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 185,
+  "word_count": 1869
+}
