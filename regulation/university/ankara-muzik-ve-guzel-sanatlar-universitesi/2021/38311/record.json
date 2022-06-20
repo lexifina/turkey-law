@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 20/6/2022",
+  "first_law": null,
+  "gazette": "31387",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-20",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "Ankara Müzik ve Güzel Sanatlar Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2021-02-06",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38311&MevzuatTertip=5",
+  "source_bytes": 33111,
+  "source_id": "8.5.38311",
+  "source_sha256": "e54c88ac8e1780d221e7082a7f1152b66e124050533067350ef4aeda1d3b2ddc",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ MÜZİK VE SAHNE SANATLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 476,
+  "version_label": "oldest version available",
+  "word_count": 1176
+}
