@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "526",
+  "decision_date": "2022-06-21",
+  "source_id": 36007,
+  "chamber": "5",
+  "ilam_number": "347",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36007/",
+  "source_sha256": "a9291defc7b9c8c3fb077bb30a95b1f9920d029f895e097a5c946cc282ed8d53",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
