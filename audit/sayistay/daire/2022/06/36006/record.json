@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "528",
+  "decision_date": "2022-06-21",
+  "source_id": 36006,
+  "chamber": "5",
+  "ilam_number": "236",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36006/",
+  "source_sha256": "d4b31b51c0d1f27e20908591289911837a97ba8dd6fbf86dec1e1dedd665f96d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
