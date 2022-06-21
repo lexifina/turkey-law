@@ -1,0 +1,5 @@
+Çalışma grupları
+MADDE 22- (1) Başkanlık, Koordinasyon Kurulunun tavsiyesi üzerine veya resen görev alanına giren konularla ilgili olarak çalışmalarda bulunmak üzere bakanlıklar, kamu kurum ve kuruluşları, meslek kuruluşları, sivil toplum kuruluşları, özel sektör temsilcileri ve konu ile ilgili uzmanların katılımı ile geçici çalışma grupları oluşturabilir. Çalışma gruplarının işleyişine ilişkin diğer hususlar Başkanlık tarafından belirlenir.
+(2) Başkanlık, her bir çalışma grubunun daimi üyesidir.
+(3) Çalışma grupları, çalıştıkları konu hakkındaki görüşlerini ve alınacak kararlara esas olmak üzere görüşlerini, çalışma bitimini takip eden bir ay içinde rapor şeklinde Başkanlığa sunarlar.
+(4) Çalışma grubu; kuruluş ve çalışma amacını sonlandırdığında veya Koordinasyon Kurulu ve/veya Başkanlık tarafından verilen görevleri yerine getiremediğinde, Koordinasyon Kurulunun tavsiyesi ile kurulduysa Koordinasyon Kurulu kararı ile Başkanlık tarafından resen oluşturulduysa Başkanlık kararı ile feshedilir.

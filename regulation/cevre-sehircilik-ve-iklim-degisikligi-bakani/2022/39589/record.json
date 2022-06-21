@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39589",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İKLİM DEĞİŞİKLİĞİ BAŞKANLIĞI HİZMET BİRİMLERİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39589",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39589",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39589&MevzuatTertip=5",
+  "source_sha256": "6c4a60396eb46ce291e9f311efb4bbb2f54abcef3a8011d60c7e1ff4b0b0982f",
+  "source_bytes": 137359,
+  "published": "2022-06-21",
+  "gazette": "31873",
+  "in_force": "2022-06-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3674,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

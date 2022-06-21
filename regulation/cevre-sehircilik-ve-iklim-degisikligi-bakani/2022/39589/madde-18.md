@@ -1,0 +1,11 @@
+Yönetim Hizmetleri Dairesi Başkanlığı
+MADDE 18- (1) Yönetim Hizmetleri Dairesi Başkanlığının görev ve yetkileri şunlardır:
+a) Başkanlığın insan gücü planlaması ve personel politikasıyla ilgili çalışmaları yapmak, personel sisteminin geliştirilmesi ve performans ölçütlerinin oluşturulması ile ilgili tekliflerde bulunmak; Başkanlık personelinin atama, özlük, disiplin ve emeklilik ile ilgili işlerini yapmak, Başkanlık personelinin izin, yurtiçi ve yurtdışı geçici ve sürekli görev onayı, yolluk gibi işlemlerini yürütmek.
+b) Başkanlığın eğitim planını hazırlamak, hizmet öncesi ve hizmet içi eğitim programları ve buna ilişkin çalışmaları yürütmek.
+c) Başkanlığın görev alanına giren konularda üniversiteler, kamu kurumları, sivil toplum kuruluşları, özel sektör ve uluslararası kuruluşlarla iş birliği yaparak kurum içi ve dışında yapılacak eğitimlerin planlarını hazırlamak ve yönetmek.
+ç) Başkanlığın görev alanına giren konularda seminer, sempozyum, konferans, çalıştay ve benzeri faaliyetleri organize etmek.
+d) Başkanlığın kütüphane ve arşiv hizmetlerini yürütmek, Başkanlık yayınları ile ilgili her türlü işlemi yapmak, genel evrak faaliyetlerini düzenlemek ve yürütmek.
+e) 5018 sayılı Kanun çerçevesinde, birime tahsis edilen ödeneklerin kullanımını sağlamak; kiralama ve satın alma işlerini yürütmek; temizlik, güvenlik, aydınlatma, ısıtma, onarım, taşıma ve benzeri hizmetlerini yapmak ve yaptırmak; Başkanlığın taşınır taşınmazlarına ilişkin işlemleri ilgili mevzuat çerçevesinde yürütmek, Başkanlık sivil savunma ve seferberlik hizmetlerini planlamak ve yürütmek.
+f) Bilişim ve haberleşme ihtiyaçları ile bağlantılı yazılımları temin etmek, oluşturmak ve geliştirmek, bilişim altyapısının kurulumu, bakımı, ikmali, geliştirilmesi ve güncellenmesi ile bilgi güvenliği ile ilgili işleri yürütmek, koordine etmek, işbirliği esaslarını ve politikalarını belirlemek, güvenliğini sağlamak ve bu konularda görev üstlenen personelin bilgi teknolojilerindeki gelişmelere paralel olarak düzenli şekilde hizmet içi eğitim almalarını sağlamak.
+g) Başkanlığın, protokol, tören, ziyaret, karşılama, uğurlama ve ağırlama ile ilgili hizmetlerini düzenlemek ve yerine getirmek.
+h) Başkan tarafından verilen diğer görevleri yapmak.
