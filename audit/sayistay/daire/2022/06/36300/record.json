@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "532",
+  "decision_date": "2022-06-21",
+  "source_id": 36300,
+  "chamber": "5",
+  "ilam_number": "447",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2014,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36300/",
+  "source_sha256": "c0a70efb766dd61fe52282dc16a523442750d65f6cb9ab22b1aebac04148957d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
