@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "33775506-130[KDV 53.01-96]-76496",
+  "source_id": 28893,
+  "date": "2022-06-21",
+  "title": "Şantiye sahası içi nakliye hizmetinde vekepçe kiralama hizmetinde KDV tevkifatı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28893",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "8e49ad779d0d517fa63a2a02e87ca01b350933f9b9ea04f76e5c054b744952d0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
