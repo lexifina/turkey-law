@@ -1,0 +1,4 @@
+Yurt dışı eğitim ve yurt dışı görevlendirme (Değişik Başlık:RG-27/3/2021-31436)
+MADDE 33 – (1) (Değişik ibare:RG-27/3/2021-31436) Uzman ve uzman yardımcıları, 657 sayılı Devlet Memurları Kanunu ve 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde, staj veya araştırma yapmak, mesleki bilgi ve görgülerini artırmak veya yurt dışındaki üniversitelerden kabul belgesi almaları şartıyla lisansüstü öğrenim görmek üzere yurt dışına gönderilebilirler.
+(2) (Ek:RG-27/3/2021-31436) Millî Savunma Bakanlığı tarafından yurt dışında icra edilen faaliyetler kapsamında ilgili mevzuat çerçevesinde uzman görevlendirilebilir.
+(3) (Ek:RG-27/3/2021-31436) Yurt dışına gönderilenler, inceleme ve araştırmalarına ilişkin olarak düzenleyecekleri raporu, yurda döndükleri tarihten itibaren üç ay içerisinde Genel Müdürlüğe sunar.
