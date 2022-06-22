@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11395140-105[VUK-1-21647]-704173",
+  "source_id": 25447,
+  "date": "2022-06-22",
+  "title": "Hakedişe ait faturada, daha önce alınan yabancı para cinsinden avans tutarının Türk Lirası karşılığının hesaplanmasında esas alınacak döviz kuru hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25447",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "9d31f33b336dc792e4408f50ceac2e42e466d60a48f01e4c2c56609eb5a59cb9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
