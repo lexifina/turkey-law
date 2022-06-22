@@ -1,0 +1,27 @@
+{
+  "source_id": "7.5.39592",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KAMU KURUM VE KURULUŞLARINDA GÖREV YAPANLAR İLE SİGORTALI OLARAK ÇALIŞANLARIN AVUKATLIK STAJI HAKKINDA YÖNETMELİK",
+  "number": "39592",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2022/39592",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39592&MevzuatTertip=5",
+  "source_sha256": "200782cdd7e071267cdfaa22bceb51e54c1fda8dba46599b1b154cdcda67fea2",
+  "source_bytes": 5428,
+  "published": "2022-06-22",
+  "gazette": "31874",
+  "in_force": "2022-06-22",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (22.06.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 28,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

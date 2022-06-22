@@ -1,0 +1,1 @@
+(Bu yönetmelik Danıştay Sekizinci Dairesinin 12/2/2025 tarihli ve E.:2022/6028; K.:2025/684 sayılı kararı ile iptal edilmiştir. Danıştay İDDK’nın 5/11/2025 tarihli E.:2025/940, K.:2025/2325 sayılı Onama kararı ile mezkûr karar kesinleşmiştir.)
