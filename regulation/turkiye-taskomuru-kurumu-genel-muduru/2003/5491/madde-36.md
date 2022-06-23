@@ -1,0 +1,3 @@
+Aşırı Düşük Teklifler
+Madde 36 –İhale komisyonu verilen teklifleri bu Yönetmeliğin 35 inci maddesine göre değerlendirdikten sonra, diğer tekliflere veya idarenin tespit ettiği yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları tespit eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif sahiplerinden teklifte önemli olduğunu tespit ettiği bileşenler ile ilgili ayrıntıları yazılı olarak ister.
+İhale komisyonu; yapılan yazılı açıklamaları dikkate alarak, aşırı düşük teklifleri değerlendirir. Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan isteklilerin teklifleri reddedilir.

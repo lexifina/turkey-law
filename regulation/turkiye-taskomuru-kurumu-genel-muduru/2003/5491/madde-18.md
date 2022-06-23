@@ -1,0 +1,4 @@
+Belli İstekliler Arasında İhale Usulü
+Madde 18 –Belli istekliler arasında ihale usulü, yapılacak ön yeterlilik değerlendirmesi sonucunda idarece davet edilen isteklilerin teklif verebildiği usuldür. İşin özelliğinin uzmanlık ve/veya ileri teknoloji gerektirmesi nedeniyle açık ihale usulünün uygulanamadığı mal veya hizmet alımlarının ihalesi bu usule göre yaptırılabilir.
+Ön yeterlik dokümanı ile ön yeterlik ilanında belirtilen değerlendirme kriterlerine göre adayların ön yeterlik değerlendirmesi yapılır. Belirtilen asgari yeterlik koşullarını sağlamayanlar yeterli kabul edilmez. Yeterli olduğu tespit edilen bütün adaylara tekliflerini hazırlayabilmeleri için yeterince süre verilerek ihaleye davet mektubu gönderilir.
+Ön yeterlik değerlendirmesi sonucunda yeterli bulunmayan adaylara da yeterli bulunmama gerekçeleri yazılı olarak bildirilir.

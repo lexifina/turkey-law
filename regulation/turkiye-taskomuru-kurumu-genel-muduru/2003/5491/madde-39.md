@@ -1,0 +1,4 @@
+Kesinleşen İhale Kararlarının Bildirilmesi ve Sözleşmeye Davet
+Madde 39 –İhale sonucu, ihale kararlarının ihale yetkilisi tarafından onaylandığı günü izleyen en geç üç gün içinde, ihale üzerinde bırakılan istekliye iadeli taahhütlü mektup ile tebligat adresine postalanmak suretiyle veya imza karşılığı tebliğ edilir. Mektubun postaya verilmesini takip eden yedinci gün kararın isteklilere tebliğ tarihi sayılır.
+Tebligatın isteklilere imza karşılığı yapılması veya iadeli taahhütlü kartının idareye ulaşması durumunda yedi günlük süre beklenilmez, tebligatın gerçekleştiği kabul edilir.
+Bu sürenin bitiminde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen, şartnamede belirtilen süre içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması veya sipariş mektubunun gönderileceği hususu, iadeli taahhütlü mektup ile tebligat adresine postalanmak, teyitli faks veya isteklinin imzası alınmak suretiyle tebliğ edilebilir.
