@@ -1,0 +1,13 @@
+{
+  "number": "22-28/455-184",
+  "type": "Diğer",
+  "decision_date": "2022-06-23",
+  "publication_date": "2023-01-31",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=c5866dfd-ccc4-4ace-b308-372aaad5be2f",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=185",
+  "pdf_sha256": "581c634205c7baf874f1ce645658ca030be40f230c996fd3397f07afdb17d2c2",
+  "pdf_bytes": "527377",
+  "pages": "11",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
