@@ -1,0 +1,4 @@
+Sınav sonuçlarına itiraz
+MADDE 16 – (1) Sınav sonuçları, Genel Müdürlüğün internet sitesinde ilan edilir.
+(2) İlgililer, ilan tarihinden itibaren yedi işgünü içerisinde yazılı sınav sonuçlarına itiraz edebilir. Personel Dairesi Başkanlığına yazılı olarak yapılacak itiraz başvuruları Sınav Kurulunca incelenir veya sınavı yapan kuruma incelettirilir. İtiraz başvurusuna ilişkin ilgiliye başvuru tarihinden itibaren en geç bir ay içinde yazılı olarak cevap verilir.
+(3) İlgililer sözlü sınavın bitimini müteakip ilan edilen nihai sınav sonucuna ilan tarihinden itibaren yedi işgünü içerisinde itiraz edebilir. Personel Dairesi Başkanlığına yazılı olarak yapılacak itiraz başvuruları Sınav Kurulunca incelenir. İtiraz başvurusuna ilişkin ilgiliye başvuru tarihinden itibaren en geç on iş günü içinde yazılı olarak cevap verilir.

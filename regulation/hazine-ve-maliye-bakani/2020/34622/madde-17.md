@@ -1,0 +1,8 @@
+Sınavı kazananların atanması ve sınav belgelerinin saklanması
+MADDE 17 – (1) Görevde yükselme veya unvan değişikliği sınavında en yüksek puandan başlamak üzere başarılı olanların boş kadrolara atanması, başarı sıralaması listesinin kesinleşmesini müteakip başarı sırasına göre iki ay içinde yapılır.
+(2) Duyurulan kadrolardan;
+a) Atanma şartlarını taşımadıkları için sınavların geçersiz sayılması veya bu sebeple atamaların iptal edilmesi, atanılan göreve geçerli bir mazeret olmaksızın süresi içinde başlamaması ya da atanma hakkından vazgeçilmesi,
+b) Emeklilik, ölüm, memurluktan çekilme veya çıkarılma, başka unvanlı kadrolara ya da başka bir kuruma naklen atanma,
+sebepleriyle boş kalan veya boşalan kadrolara, başarı sıralamasının kesinleştiği tarihten itibaren altı aylık süreyi aşmamak üzere aynı unvanlı kadrolar için yapılacak müteakip sınava ilişkin duyuruya kadar Genel Müdürlükçe belirlenmiş olması halinde yedekler arasından başarı sıralamasına göre atama yapılabilir.
+(3) Görevde yükselme veya unvan değişikliği sınavına herhangi bir sebeple katılmayanlar ile başarısız olan veya yedeklerden altı ay içindeki müteakip sınava ilişkin duyuruya kadar atanmamış olanlar ya da atanma haklarından herhangi bir sebeple feragat edenler, aynı unvanlı kadrolara yapılacak atamalar için bu Yönetmelikte öngörülen bütün usul ve esaslara tabidir.
+(4) Görevde yükselme veya unvan değişikliği sınavında başarılı olarak ataması yapılanların, sınavla ilgili belgeleri özlük dosyalarında, diğer belgeler ise bir sonraki sınav tarihine kadar, dava konusu olan sınav belgeleri ise yargı süreci sonuçlanana kadar Personel Dairesi Başkanlığınca saklanır.

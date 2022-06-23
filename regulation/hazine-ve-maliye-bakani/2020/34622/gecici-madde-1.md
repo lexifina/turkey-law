@@ -1,0 +1,2 @@
+Öğrenim şartı
+GEÇİCİ MADDE 1 – (1) 15/3/1999 tarihli ve 99/12647 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin Resmî Gazete’de yayımlandığı 18/4/1999 tarihinde görevde bulunan ve aynı tarih itibariyle iki yıllık yükseköğrenim mezunu olanlar, diğer şartlara sahip oldukları takdirde, bu Yönetmeliğin 7 nci maddesinin uygulanması bakımından dört yıllık yükseköğrenim görmüş kabul edilirler.
