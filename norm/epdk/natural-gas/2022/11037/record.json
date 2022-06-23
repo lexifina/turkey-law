@@ -1,0 +1,23 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11037",
+  "decision_date": "2022-06-23",
+  "title": "Dağıtım Şirketleri İçin Tarife Hesaplama Usul ve Esasları",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JF8mK5BXpXU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JF8mK5BXpXU="
+  ],
+  "source_sha256": "1f45844eaedfc86f697e86236fd213f117162899a0f7dc7448ddaead32d435ed",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the official text may name a private person",
+  "in_force": "2022-06-23",
+  "law_text_complete": false
+}
