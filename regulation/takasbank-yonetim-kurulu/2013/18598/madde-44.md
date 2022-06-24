@@ -1,0 +1,4 @@
+Teminat sözleşmeleri
+MADDE 44 – (1) Merkezi Kayıt Kuruluşu A.Ş. nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmeleri yazılı şekilde yapılır. Bu teminat sözleşmelerine konu sermaye piyasası araçlarının mülkiyeti, sözleşmeye bağlı olarak Takasbank’a kanuni usullere göre devredilebileceği gibi teminat verende de kalabilir.
+(2) Mülkiyetin Takasbank’a devredildiği teminat sözleşmelerinde; Takasbank, teminat sözleşmesinin kurulduğu anda teminat konusu sermaye piyasası araçlarının mülkiyet hakkına sahip olur.
+(3) Takasbank tarafından teminat olarak alınan Merkezi Kayıt Kuruluşu A.Ş. nezdinde kayden izlenen sermaye piyasası araçları ve diğer teminatların mülkiyetinin üyede kaldığı teminat sözleşmelerinde; teminat konusu sermaye piyasası aracının satışı da dâhil olmak üzere ne kapsamda kullanılabileceği hususları sözleşmede belirlenir.

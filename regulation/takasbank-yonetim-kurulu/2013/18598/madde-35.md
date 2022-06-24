@@ -1,0 +1,2 @@
+Temerrüt komitesi
+MADDE 35 – (1) Temerrüde düşen üyenin, Takasbank’a yapacağı itirazları değerlendirerek karara bağlamak üzere, genel müdür, genel müdür yardımcıları ve ilgili piyasadan sorumlu Takasbank yöneticisinden oluşan beş kişilik bir Temerrüt Komitesi oluşturulur. Komite en az üç üyenin hazır bulunmasıyla toplanır. Karar için en az üç olumlu oy gerekir. Çekimser oy kullanılamaz. Karşı oy kullanan üye, görüşünün gerekçesini kararda belirtmek zorundadır.

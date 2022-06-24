@@ -1,0 +1,5 @@
+Üyelik türleri arasında geçiş
+MADDE 8 – (1) Genel ve doğrudan takas üyelerinin üyelik durumları Takasbank tarafından belirlenmiş olan şartlara uyumları gözetilerek değiştirilebilir. Bu kapsamda bir doğrudan takas üyesi sonradan genel takas üyesi olarak kabul edilebileceği gibi, bir genel takas üyesi de doğrudan takas üyesi olarak kabul edilebilir.
+(2) Genel takas üyeleri doğrudan takas üyesi olmak için başvurabilir. Genel takas üyelerinin başvuruları eğer varsa piyasa üyelerine ilişkin yükümlülüklerinin devir veya tasfiyesi kaydıyla Takasbank tarafından kabul edilebilir.
+(3) Genel takas üyeliği kriterlerini taşıyan doğrudan takas üyelerinin genel takas üyeliği başvuruları Takasbank tarafından karara bağlanır.
+(4) Genel takas üyeliği şartlarını kaybeden üyeler, şartların kaybedildiğinin Takasbank tarafından kendilerine bildirildiği tarihten itibaren Takasbank tarafından belirlenen süre içerisinde ilgili kriterleri tekrar sağlayamamaları halinde, Takasbank kararıyla doğrudan takas üyesi olarak yetkilendirilebilir.

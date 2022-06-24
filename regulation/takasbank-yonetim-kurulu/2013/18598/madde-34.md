@@ -1,0 +1,4 @@
+Temerrüt faiz tahakkuklarına itiraz
+MADDE 34 – (1) Temerrüt faizi tahakkuk ettirilen üyeler, temerrüdün takas, ilgili merkezi saklama sistemi veya ödeme sisteminden kaynaklanan nedenlerle kendi kusurları olmaksızın ortaya çıktığı veya temerrüt faizi hesaplamasında maddi hata yapıldığı gerekçeleri ile Takasbank nezdinde itiraz edebilirler. İtiraz, temerrüt faizinin ödenmesini durdurmaz.
+(2) İtirazın, bir yazı ve ekinde itiraza ilişkin belgeler ile temerrüt faizi tahakkuk tarihinden itibaren en geç bir hafta içinde Takasbank’a yapılması gerekir.
+(3) İtirazlar, Temerrüt Komitesi tarafından değerlendirilerek karara bağlanır. İtiraz başvurusunun olumlu olarak karara bağlanması durumunda, tahsil edilen temerrüt faizi üyeye iade edilir. İtirazın reddedilmesi durumunda ise; karar ilgili üyeye bir yazı ile bildirilir.

@@ -1,0 +1,2 @@
+Üyelikten ayrılma
+MADDE 15 – (1) Üyelikten ayrılmak isteyen kurum, bu durumu Takasbank’a yazılı olarak bildirir. İlgili üyenin bu Yönetmelik kapsamındaki yükümlülüklerini yerine getirmesi şartıyla Piyasa Yönergelerinde belirlenen usuller çerçevesinde üyelikten ayrılma işlemi gerçekleştirilir. Kendi talebi ile üyeliği sona erdirilen kuruluşun yeniden üye olmak istemesi halinde 9 uncu maddede yer alan koşulları sağlaması gerekmektedir.

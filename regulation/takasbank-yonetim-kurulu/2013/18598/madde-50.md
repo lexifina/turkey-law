@@ -1,0 +1,3 @@
+Katkı paylarının ödenmemesi
+MADDE 50 – (1) Katkı paylarını Takasbank tarafından bildirilen sürelerde veya ilave katkı payı istenmesi durumunda bu bildirimin kendilerine yapıldığı tarihten itibaren 3 iş günü içerisinde ödemeyen üyeler hakkında bu Yönetmeliğin temerrüt hükümleri uygulanır.
+(2) Takasbank’ın takas hizmeti sunduğu piyasalarda yaşanan olağanüstü gelişmeler nedeniyle yükümlülüklerin yerine getirilmemesinin sistemik risk yaratma ihtimalinin varlığı durumunda, üyeler tarafından katkı payı ödeme yükümlülüklerinin birinci fıkrada verilen süreler içerisinde yerine getirilmemesi halinde, Takasbank üyenin Takasbank nezdindeki, müşterilerin teminatları ve üyelik teminatları hariç, tüm hesaplarını kullanmak suretiyle üyeye ilişkin katkı payını re’sen tahsil edebilir.

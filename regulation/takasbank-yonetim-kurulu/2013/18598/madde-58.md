@@ -1,0 +1,3 @@
+Disiplin komitesi ve görevleri
+MADDE 58 – (1) Bu Yönetmelikte öngörülen disiplin suçları ile ilgili soruşturma yürütülmesinde, yönetim kuruluna yardımcı olmak üzere Takasbank yönetim kurulunca, Takasbank yöneticileri arasından bir Başkan ve dört üyeden meydana gelen bir Disiplin Komitesi oluşturulur. Disiplin Komitesi'nin görev süresi iki yıldır. Komite en az üç üyenin hazır bulunmasıyla toplanır. Karar için en az üç olumlu oy gerekir. Çekimser oy kullanılamaz. Karşı oy kullanan üye, görüşünün gerekçesini kararda belirtmek zorundadır.
+(2) Komite bu Yönetmelikte öngörülen disiplin suçlarıyla ilgili incelemeleri yapmak ve inceleme sonucunda hazırladığı raporu disiplin cezasının niteliğine göre genel müdür veya yönetim kurulunun onayına sunmakla görevli ve yetkilidir.

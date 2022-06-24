@@ -1,0 +1,4 @@
+Teminat tamamlama çağrısı
+MADDE 40 – (1) Takasbank, işlem teminatlarının yeterlilik düzeyini izler. İşlem teminatlarının piyasada gerçekleştirilen işlemler, teminat değerlerinde gerçekleşen değişiklikler, teminat kompozisyonunun değişmesi veya diğer nedenlerle Takasbank tarafından belirlenen tutarın altına düşmesi durumunda, Takasbank tarafından teminat tamamlama çağrısı yapılır.
+(2) Teminat tamamlama çağrısı esas olarak elektronik ortamda yapılır. Takasbank’ın teminat tamamlama çağrısını elektronik ortamda göndermesini müteakip, üyenin başkaca bir ihbar ve bildirime gerek kalmaksızın çağrıyı aldığı kabul edilir.
+(3) Teminat tamamlama yükümlülüğünün, ilgili piyasalar itibariyle belirlenecek sürede yerine getirilmemesi durumunda üyenin temerrüde düştüğü kabul edilir ve bu Yönetmeliğin temerrüde ilişkin hükümleri uygulanır.

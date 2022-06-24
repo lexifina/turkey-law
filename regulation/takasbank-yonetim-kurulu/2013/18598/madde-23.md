@@ -1,0 +1,8 @@
+İşlem öncesi depo şartı
+MADDE 23 – (1) Takasbank, takas sisteminin sağlıklı biçimde işlemesi amacıyla, risk ve temerrüt durumlarını dikkate alarak belirli bir sermaye piyasası aracında ya da belirli üye veya üyelerin işlemlerinin ya da Kurul veya borsanın gözetim faaliyetleri kapsamında tespit edilecek gerçek veya tüzel kişiler ile tüzel kişilerin yetkililerinin işlemlerinin netleştirme yapılmadan yerine getirilmesini; alım emirlerinde emrin gerçekleştirilmesi için gerekli nakdin, satım emirlerinde ise satışa konu sermaye piyasası aracının belirli bir kısmının veya tamamının emrin gerçekleştirilmesini beklemeden depo edilmesini isteyebilir.
+(2) İşlem öncesi depo edilen para veya kıymet, işlemin gerçekleşmemesi halinde, ilgili üyeye iade olunur.
+(3) İşlemin gerçekleşmesi halinde ise;
+a) Alım emirlerinde, depo edilen para, alımı gerçekleşen kıymetin bedeline mahsup edilir. Alım nedeniyle doğan nakit yükümlülüğünün, depo edilen tutardan az olduğu durumda aradaki fark ilgili üyeye iade edilir.
+b) Satım emirlerinde, satışı gerçekleşen kıymetler alıcı üyeye bedeli tahsil edilerek teslim edilir. Tahsil edilen bedel satıcı üyeye ödenir. Depo edilen kıymetlerin tamamının satışı gerçekleşmemiş ise, kalan kısmı satıcı üyeye iade edilir.
+(4) Depo edilen tutardan daha fazla kıymet alımı ya da depo edilen kıymetten daha fazla satım yapılması durumunda, aradaki tutar veya kıymet farkı takas süresi içerisinde yerine getirilmiş olsa dahi, temerrüt esasları uygulanır.
+(5) İşlem öncesi depo şartının Kurul, borsa veya piyasa işleticisi tarafından öngörüldüğü durumlarda Kurul, borsa veya piyasa işleticisince aksi bildirilmedikçe bu madde hükümleri uygulanır.

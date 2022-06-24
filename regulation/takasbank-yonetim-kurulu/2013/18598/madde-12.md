@@ -1,0 +1,17 @@
+Üyelerin yükümlülükleri ve temsili
+MADDE 12 – (1) Takasbank üyeleri genel olarak, belirlenen süre ve usuller çerçevesinde, piyasalarda yaptıkları işlemlere ilişkin sermaye piyasası araçlarının ve Takasbank tarafından takası gerçekleştirilen diğer varlıkların teslimi, bedellerinin ödenmesi ve bu işlemlere ilişkin teminat ve garanti fonu katkı payı yükümlülüklerinin ifası ile ilgili işlemlerin tümünden ve çalışanlarının görevleri çerçevesinde yaptıkları işlerden sorumludur.
+(2) Üyeler, ilgili mevzuatta yer alan ilke ve kurallar ile takas faaliyetlerine ilişkin olarak aşağıda sayılan hususlara uymak zorundadır;
+a) Takasbank tarafından verilen hizmetlere ilişkin olarak belirlenen ilke ve kurallara uygun hareket etmek,
+b) Takas sisteminin güvenliğinin temini amacıyla iç denetim ve kontrol mekanizmalarını oluşturmak ve idame ettirilmesi için gerekli önlemleri almak,
+c) Müşterilerine ve diğer üyelere karşı iyi niyet ve dürüstlük ilkelerine uygun davranmak,
+ç) Üyelik ve Takasbank nezdinde yapılan işlemler kapsamında kendilerinden talep edilen aidat, ücret, komisyon ve diğer yükümlülükleri süresi içinde yerine getirmek,
+d) Takasbank tarafından öngörülmesi halinde, diğer üyelere karşı doğabilecek mali ve hukuki sorumluluğu teminat altına alan, genel ve özel mahiyette sigorta yaptırılmasına ilişkin düzenlemelere uymak ve bu nitelikteki diğer tedbirleri almak,
+e) Bu Yönetmelik kapsamındaki iş ve işlemleri ile ilgili olarak Takasbank tarafından gerekli görülen hususlarda talep edilecek her türlü bilgi ve belgeyi vermek ve Takasbank yetkililerince yapılacak incelemelerde her türlü desteği sağlamak,
+f) Doğrudan veya dolaylı yönetim kontrolünü sağlayan payların devredilmesi durumunda, Takasbank’a 15 gün içerisinde bildirimde bulunmak,
+g) Merkez adresi, yönetim kurulu ve genel müdür değişikliklerini, en geç değişikliğin gerçekleştiği tarihi izleyen iş günü bildirmek,
+ğ) Takasbank tarafından belirlenecek dönemler itibariyle mali tablolarını ve Takasbank tarafından istenecek finansal bilgilerini iletmek,
+h) Yasal olarak tutmakla yükümlü oldukları defter ve kayıtlara ek olarak, Takasbank tarafından kararlaştırılan diğer kayıtları tutmak, bilgi ve belgeleri usulüne göre düzenlemek; bunları periyodik olarak veya Takasbank’ın istediği zamanlarda Takasbank’a iletmek ve söz konusu kayıt ve belgeleri 1 yıl boyunca saklamak,
+ı) Bu Yönetmelik kapsamındaki diğer yükümlülüklerini süresi içerisinde ve eksiksiz yerine getirmek.
+(3) Bu maddenin ikinci fıkrasının (f) bendinin uygulamasında, üyenin oy haklarının yüzde ellisinden fazlasına tek başına veya birlikte hareket ettikleri kişilerle beraber, doğrudan veya dolaylı olarak sahip olunması, yönetim kurulu üye sayısının salt çoğunluğunu seçme veya genel kurulda söz konusu sayıdaki üyelikler için aday gösterme hakkını veren imtiyazlı paylara sahip olunması yönetim kontrolünün elde edilmesi olarak kabul edilir.
+(4) Üyenin Takasbank’la olan ilişkileri bu Yönetmeliğin 11 inci maddesinin birinci fıkrasının (c) bendi uyarınca yetkilendirilen personel vasıtası ile yürütülür. Takasbank sisteminde üye adına işlem yapacak olan personele sisteme bağlanmak üzere kullanıcı kodu ve şifre tahsis edilir. Tahsis edilen şifre kullanılarak Takasbank sisteminde yapılan işlemler ile şifrenin yetkisiz kişilerce kullanımından doğan sorumluluk üyeye aittir.
+(5) Bu madde, Genel Yönetmeliğin 22 nci maddesinin üçüncü fıkrası çerçevesinde Takasbank’ın takas hizmeti verdiği diğer piyasalardaki üyeler hakkında da uygulanır.

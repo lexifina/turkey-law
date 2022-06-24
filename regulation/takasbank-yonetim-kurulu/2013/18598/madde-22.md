@@ -1,0 +1,5 @@
+Takas alacaklarının dağıtılması
+MADDE 22 – (1) Üyelerin piyasada gerçekleştirdikleri işlemler nedeniyle oluşan ve bu Yönetmeliğin 18 inci maddesindeki esaslar çerçevesinde hesaplanan takas alacakları, Takasbank tarafından üyelerin ilgili hesaplarına aktarılmak suretiyle ödenir.
+(2) Üyenin takas alacağını alabilmesi için, takas yükümlülüğünü yerine getirmiş olması ve Takasbank tarafından nakit ve/veya varlıklara ilişkin yükümlülüklerin yerine getirilmesi amacıyla oluşturulan takas havuzunda yeterli bakiye bulunması zorunludur. Yükümlülüğü bulunmayan üyelerin alacakları ise takas havuzunda yeterli bakiye bulunması halinde ödenir.
+(3) Blokeli alacaklar, borç kapatma saati dikkate alınarak serbestleştirilir.
+(4) Alacak dağıtımı işlemleri, alacakların serbestleşme zamanı dikkate alınarak gerçekleştirilir. Takasbank takas hizmeti sunduğu piyasalar itibariyle, piyasaların özelliklerine göre, farklı alacak dağıtımı yöntemleri belirleyebilir. Buna ilişkin usul ve esaslar ilgili Piyasa Yönergelerinde belirtilir.

@@ -1,0 +1,4 @@
+Üye faaliyetlerinin durdurulması ve üyelikten çıkarma
+MADDE 13 – (1) Takasbank, üyenin ilgili piyasalar itibariyle belirlenmiş olan üyelik şartlarını kaybetmiş olduğunun tespiti halinde, 3 ayı geçmemek üzere verilecek uygun süre içinde söz konusu yükümlülüklerin yerine getirilmesini istemeye yetkilidir.
+(2) Üyelik şartlarının kaybedilmiş olması veya yükümlülüklerin yerine getirilmemesi nedeniyle, takas sisteminin güvenli ve kesintisiz işlemesini tehlikeye düşürecek önemli nitelikte risklerin ortaya çıkması durumunda Takasbank, herhangi bir süre vermeksizin üyenin faaliyetlerini tamamen, belirli piyasa veya işlem bazında, geçici olarak durdurmaya veya üyelikten çıkarmaya yetkilidir.
+(3) Borsa veya piyasa işleticisi ya da yetkili otorite tarafından işlem yapma yetkisinin kaldırılması halinde, üye Takasbank tarafından ilgili piyasa takas üyeliğinden çıkarılır.

@@ -1,0 +1,5 @@
+Garanti fonu katkı payları
+MADDE 48 – (1) Garanti fonu oluşturulmasına karar verilmesi durumunda, üyelerin garanti fonu katkı payları, normal katkı payları ile talep edilmesi halinde yatıracakları ilave katkı paylarından oluşur. Normal katkı paylarının kullanılması veya diğer nedenlerle eksilmesi durumunda tamamlama çağrısı yapılır. Garanti fonunun yetersizliği durumunda ilave katkı payı talep edilebilir. Talep edilebilecek ilave katkı payı, normal katkı payını aşamaz.
+(2) Takasbank, üyelerin garanti fonuna yatıracakları normal katkı payları için asgari bir sınır belirler. Genel olarak üyelerce garanti fonuna yatırılacak katkı payları üyelerin işlemlerden kaynaklanan riskleri ile orantılı olarak belirlenir. Buna ilişkin usul ve esaslar ilgili piyasa yönergelerinde düzenlenir.
+(3) Katkı payları, Takasbank’ın takas hizmeti sunduğu piyasalar itibariyle ayrı ayrı belirlenebileceği gibi Takasbank, üyeler veya sermaye piyasası araçları itibariyle de farklı tutarların uygulanmasına karar verebilir.
+(4) Takasbank’ın takas hizmeti verdiği piyasalarda garanti fonu katkı payı tutarları ilgili borsa veya piyasa işleticisinin görüşü alınmak suretiyle belirlenir.

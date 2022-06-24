@@ -1,0 +1,20 @@
+Tanım ve kısaltmalar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Borsa: 6362 sayılı Sermaye Piyasası Kanununun 3 üncü maddesinin birinci fıkrasının (ç) bendinde tanımlanan sistem ve pazar yerlerini,
+b) Genel Müdür: İstanbul Takas ve Saklama Bankası Anonim Şirketi Genel Müdürünü,
+c) Genel Yönetmelik: 30/5/2013 tarihli ve 28662 sayılı Resmî Gazete’de yayımlanan Merkezi Takas Kuruluşlarının Kuruluş ve Çalışma Esasları Hakkında Genel Yönetmeliğini,
+ç) Kanun: 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununu,
+d) Kurul: Sermaye Piyasası Kurulunu,
+e) Piyasa: Borsalar, teşkilatlanmış pazar yerleri ile Genel Yönetmeliğin 22 nci maddesinin üçüncü fıkrası uyarınca Takasbank’ın takas hizmeti sunmak üzere Kurul tarafından yetkilendirildiği piyasa ve pazar yerlerini,
+f) Piyasa işleticisi: Kanunda tanımlanan piyasa işleticileri ile Genel Yönetmeliğin 22 nci maddesinin üçüncü fıkrası uyarınca Takasbank’ın takas hizmeti sunmak üzere Kurulca yetkilendirildiği piyasa ve pazar yerlerini yöneten ve/veya işleten kuruluşları,
+g) Piyasa Yönergesi: Bu Yönetmelik kapsamında hizmet verilen piyasalarda uygulanacak kural ve esasları belirleyen ve yönetim kurulunca onaylanan yönergeleri,
+ğ) Piyasa Üyesi: Takasbank’ın takas hizmeti sunduğu piyasa ve diğer pazar yerlerinde işlem yapma yetkisi olan, ancak Takasbank’a takas üyesi olmayan kuruluşları,
+h) Prosedür: Bu Yönetmelik ve Piyasa Yönergelerinde belirlenen kural ve esaslar çerçevesinde işleyiş ve uygulamalara ilişkin usulleri içeren ve Genel Müdür tarafından onaylanan uygulama prosedürlerini,
+ı) Sermaye piyasası araçları: Menkul kıymetler ve türev araçlar ile yatırım sözleşmeleri de dâhil olmak üzere Kurulca bu kapsamda olduğu belirlenen diğer sermaye piyasası araçlarını,
+i) Takas: Piyasada gerçekleşen işlemlerle ilgili olarak ortaya çıkan yükümlülüklerin, Takasbank tarafından belirlenen süre ve şartlarda, üyeler tarafından yerine getirilmesi suretiyle taraflar arasında nakit ve/veya varlıkların transferini sağlayan süreçlerin tamamını,
+j) Takasbank: İstanbul Takas ve Saklama Bankası Anonim Şirketini,
+k) TCMB: Türkiye Cumhuriyet Merkez Bankası Anonim Şirketini,
+l) Teşkilatlanmış diğer pazar yerleri: Borsalar dışında sermaye piyasası araçlarının alıcı ve satıcılarını bir araya getiren, alım ve satımına aracılık eden, bunlar için sistemler ve platformlar oluşturan ve bunları işleten alternatif işlem sistemleri, çok taraflı işlem platformları ve teşkilatlanmış diğer piyasaları,
+m) Üye: Takasbank tarafından verilen takas hizmetlerine taraf olmalarına izin verilenleri,
+n) Yönetim kurulu: Takasbank yönetim kurulunu,
+ifade eder.

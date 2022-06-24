@@ -1,0 +1,2 @@
+Mevcut sözleşmeler
+GEÇİCİ MADDE 2 – (1) Takasbank tarafından mevcut durumda hizmet verilen borsa ve piyasalarla imzalanmış sözleşmeler veya takas hizmeti verilmesine ilişkin olarak başka bir şekilde kurulmuş olan hukuki ilişkiler, gerek görülmesi halinde Genel Yönetmeliğe ve bu Yönetmeliğe uyum sağlanması amacıyla 6 ay içerisinde yenilenir. Bu madde uyarınca yapılacak yenilemeye kadar geçecek sürede mevcut durumda imzalanmış olan sözleşmeler geçerlidir.
