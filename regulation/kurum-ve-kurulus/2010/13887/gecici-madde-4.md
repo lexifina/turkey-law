@@ -1,0 +1,6 @@
+Arıtma çamurunun düzenli depolanması
+GEÇİCİ MADDE 4 – (Değişik:RG-26/12/2019-30990)
+(1) Atık Yönetimi Yönetmeliğinin EK-4’ünde tehlikesiz olarak sınıflandırılan arıtma çamurlarının, Ek-2’de verilen diğer tüm parametreleri sağlaması, sınır değer artırımı yapılmaması, ağırlıkça en az %50 kuru madde ihtiva etmesi ve kötü kokunun giderilmesi kaydıyla II. sınıf düzenli depolama tesisinde ayrı bir lotta depolanmasında 1/1/2025 tarihine kadar Çözünmüş Organik Karbon (ÇOK) limit değerine uygunluk aranmaz.
+(2) Bu maddenin birinci fıkrasına ilave olarak, aşağıdaki sınır değerler de karşılanmak zorundadır:
+a) Ek-2 Atık Kabul Kriterleri, 2-A) İnert Atıkların Düzenli Depolanabilme Kriterleri III. sınıf depolama tesisleri için sınır değerler altında yer alan TOK (Toplam organik karbon) değeri, arıtma çamurları için; ilave sınır değer artırımı yapılmaksızın 1/1/2025 tarihine kadar azami 250.000 mg/kg alınır.
+b) Ek-2 Atık Kabul Kriterleri, 2-B) Tehlikesiz Atıkların Düzenli Depolanabilme Kriterleri, reaktif olmayan ve kararlı tehlikeli atıkların II. sınıf depolama tesislerine kabul edilebilmesi için sınır değerler altında yer alan TOK (Toplam organik karbon) değeri, arıtma çamurları için; ilave sınır değer artırımı yapılmaksızın 1/1/2025 tarihine kadar azami 250.000 mg/kg alınır.

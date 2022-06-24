@@ -1,0 +1,8 @@
+İşletme koşulları
+MADDE 13 – (1) Lisans almak için aşağıdaki işletme koşullarının sağlanması gerekir:
+a) (Değişik:RG-24/6/2022-31876) Düzenli depolama tesisinin işletilmesinde çalışacak mühendis olan saha görevlileri, görev ve işlemlerini içeren ulusal meslek standardı ve ulusal yeterlilik doğrultusunda yapılan sınav ve belgelendirme faaliyetleri sonucu verilen Mesleki Yeterlilik Kurumu Mesleki Yeterlilik Belgesi alır. Düzenli depolama tesisi işletmecilerinin ve personelinin periyodik olarak meslek içi eğitimi işletmeci tarafından sağlanır.
+b) İşletmeci, tesiste kazaları önlemek ve olası kazaların etkilerini azaltmak için gereken önlemleri almakla yükümlüdür.
+c) İşletmeci, tesiste bu Yönetmeliğin beşinci bölümünde açıklanan işletme koşulları ile altıncı bölümde açıklanan izleme ve kontrol işlemlerine ilişkin sistemi oluşturmakla yükümlüdür.
+ç) I. Sınıf düzenli depolama tesisinin sahibi veya işletmecisi, bertaraf işlemleri başlamadan önce bu Yönetmelik hükümlerini karşılayacak şekilde tesisin inşası, işletmesi, kapatılması ve kapatma sonrası bakımı sırasında olası herhangi bir kazanın üçüncü şahıslara verebilecekleri zararlara karşı mali sorumluluk sigortası yaptırmakla yükümlüdür.
+(2) Lisans almış olan düzenli depolama tesisi işletmecileri tesisin işletme koşulları, izleme ve kontrol planına uygun olarak yapılan tesisle ilgili ölçüm ve analiz sonuçları ile ilgili mevzuata uygun olarak işletildiğine ilişkin bilgi ve belgeleri içeren raporları bir yılı aşmayacak şekilde lisans belgesinde belirlenen periyotlarda Bakanlığa raporlamakla yükümlüdür.
+(3) Belediye atıklarının düzenli depolandığı tesisler için ikinci fıkrada belirtilen raporlama, tesisin bulunduğu belediyeye de belirlenen periyotlarda yapılır.

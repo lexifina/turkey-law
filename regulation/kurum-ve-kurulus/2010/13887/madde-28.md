@@ -1,0 +1,6 @@
+Kapatma ve kapatma sonrası bakım süreci
+MADDE 28 – (1) Düzenli depolama tesisinin tamamen ya da kısmen kapatılması; lisansta belirtilen koşullar gerçekleştiğinde veya işletmecinin talebi ve Bakanlığın onayıyla veya Bakanlığın gerekçeli kararıyla gerçekleştirilir.
+(2) Bakanlık tarafından tesiste nihai saha denetiminin yapılması ve işletmeci tarafından sunulan bütün raporların değerlendirilmesi sonucu işletmeciye kapatma için onay verilir. Bu durum hiçbir şekilde işletmecinin lisansta belirtilen sorumluluklarını değiştirmez, tesis kapatma işlemleri tamamlanıncaya kadar bu Yönetmelik hükümlerinden işletmeci sorumludur.
+(3) Düzenli depolama tesisi tamamen kapatıldıktan sonra, lisansta belirtilen süre boyunca kapatma sonrası sahanın izlenmesi, bakımı ve kontrolünden tesis sahibi sorumludur.
+(4) Kapatma sonrası yapılan izleme ve kontrol işlemleri sırasında ortaya çıkabilecek olumsuz çevresel etkiler konusunda tesis sahibi Bakanlığı bilgilendirir. Tesis sahibi Bakanlığın belirttiği önlemleri almakla ve bundan doğan maliyeti karşılamakla sorumludur.
+(5) Lisansta belirtilen süre boyunca işletmeci 23 üncü, 24 üncü ve 25 inci maddelerinde verilen koşullara göre düzenli depolama tesisinde oluşan gaz ve sızıntı suyunun analizinden ve saha çevresindeki yeraltı suyu rejiminin ve kalitesinin izlenmesinden sorumludur.

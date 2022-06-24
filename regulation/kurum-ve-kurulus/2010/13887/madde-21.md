@@ -1,0 +1,8 @@
+Uygunluk testi
+MADDE 21 – (1) Bir atığın temel özellikleri belirlendikten sonra, bu atığın hangi sınıf düzenli depolama tesisine kabul edileceği belirlenir. Atığın temel özelliklerinin tanımlanması ve nitelendirilmesi için yapılan test sonuçlarının Ek-2’de belirtilen kabul kriterleri ile uygunluk gösterip göstermediğinin belirlenmesi amacıyla uygunluk testi yapılır. Bu test, tesiste doğrulama işleminde kullanılmak üzere atık tesise gelmeden önce işletmeci tarafından yapılır.
+(2) İşletmeci, yılda asgari bir kez olmak kaydı ile temel özelliklerinin tanımlanması ve nitelendirilmesi için yapılan testler sonucunda belirlenen sıklık ve kapsam dâhilinde uygunluk testinin yürütülmesini sağlar. Test sonuçlarına ilişkin kayıtları, en az beş yıl boyunca muhafaza eder.
+(3) Uygunluk testi, en azından temel özelliklerinin tanımlanması ve nitelendirilmesi için yapılan testlerden özütleme testini içerir. Bu amaçla, Ek-1’de belirtilen yöntemler kullanılır. Numuneler en az bir ay süreyle saklanır.
+(4) Uygunluk testinde test edilecek olan ilgili parametreler, temel özelliklerin belirlenmesi aşamasında tespit edilir ve sadece bu parametreler kontrol edilir.
+(5) Gerekli olması durumunda depolama tesisinde alınacak ek önlemler, atık sahibi tarafından işletmeciye bildirilir.
+(6) Temel özelliklerinin tanımlanması ve nitelendirilmesi testlerinin uygulanması gerekli olmayan atıklar için uygunluk testi yapılmaz.
+(7) (Ek:RG-26/12/2019-30990) Sadece işletmesinden kaynaklanan kendi atıklarını bertaraf eden düzenli depolama tesislerinde doğrulama testi yapılması gerekmez. Ancak, Ek-2 analizi yaptırılması zorunludur.

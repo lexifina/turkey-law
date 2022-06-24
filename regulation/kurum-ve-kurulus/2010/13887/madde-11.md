@@ -1,0 +1,7 @@
+ÜÇÜNCÜ BÖLÜM
+Lisans
+Lisans başvurusu
+MADDE 11 – (1) Düzenli depolama tesisleri için tesisin bulunduğu belediyeden usulüne göre alınmış izin veya ruhsat üzerine Bakanlıktan lisans alınması zorunludur. Bu amaçla;
+a) (Değişik:RG-26/12/2019-30990) Düzenli depolama tesisi kurmak isteyen gerçek ve tüzel kişiler, öncelikle kuracakları tesisin bu Yönetmelik ve diğer hukuki ve teknik düzenlemelerde istenen şartları yerine getirebileceğini gösterir, mali fizibiliteyi de içeren ve Atık Yönetimi Yönetmeliğinde belirtilen atık yönetim planıyla uyumlu olduğunu gösterir raporu, Bakanlığa sunmakla ve uygun görüş almakla yükümlüdür.
+b) (Değişik:RG-26/12/2019-30990) Çevresel etki değerlendirmesi süreci olumlu olarak tamamlanan ve uygulama projesi Bakanlıkça onaylanan tesisin inşaatı, uygulama projesi ve teknik şartnamesine uygun olarak Bakanlıkça esasları belirlenen usulde denetlenerek tamamlanır.
+c) (Değişik:RG-26/12/2019-30990) İnşaat süresince Bakanlığa sunulacak denetleme raporları ve işletme planı Bakanlıkça onaylanan tesis, Düzenli Depolama Tesisi Proje Onay Belgesi ile Bakanlığa Çevre İzin ve Lisans Yönetmeliği hükümlerine göre geçici faaliyet belgesi için müracaat eder. Geçici faaliyet izni süresi içerisinde Bakanlığa sunulacak izleme raporları ve kapatma planı ile lisans müracaatı değerlendirilir. Tesis kurulumu, kapatma planı ve izleme raporlarına ilişkin esaslar Bakanlıkça belirlenir.

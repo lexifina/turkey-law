@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Alarm seviyesi: Menbada depolama başlamadan önceki yeraltı suyu kalitesi ile mansapta depolama devam ederken yeraltı suyu kalitesi arasındaki farkı,
+b) (Değişik:RG-26/12/2019-30990) Atık: Atık Yönetimi Yönetmeliğinin 4 üncü maddesinde tanımlanan tüm madde veya malzemeyi,
+c) (Değişik:RG-24/6/2022-31876) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+ç) (Değişik:RG-26/12/2019-30990) Belediye atığı: Atık Yönetimi Yönetmeliğinin EK-4’ünün yirminci bölümünde tehlikesiz olarak sınıflandırılan ve evlerden kaynaklanan ya da içerik veya yapısal olarak benzer olan atıkları,
+d) Biyobozunur atık: Oksijensiz veya oksijenli ortamda bozunmaya uğrayabilen gıda, bahçe atıkları, kâğıt ve karton gibi atıkları,
+e) Depo gazı: Depolanan atıklardan oluşan gazı,
+f) Düzenli depolama tesisi (DDT): Atıkların oluştuğu tesis içinde geri kazanım, ön işlem veya bertarafa gönderilmek üzere geçici depolandığı birimler, atığın geri kazanım veya ön işleme tabi tutulmak amacıyla üç yıldan daha kısa süreli ara depolandığı tesisler ile atığın bertaraf işlemine tabi tutulmak üzere bir yılı geçmeyecek şekilde ara depolandığı tesisler hariç olmak üzere atıkların yeraltı veya yer üstünde belirli teknik standartlara göre bertaraf edildiği sahaları,
+g) Eluat: Laboratuvarda özütleme testiyle elde edilen çözeltiyi,
+ğ) Hücre: Farklı tür atıkların aynı lotta depolanmasının uygun olduğu durumlarda, lot içinde atıkların birbiriyle temasını engelleyecek önlemlerin alındığı birimleri,
+h) (Değişik:RG-24/6/2022-31876) İl müdürlüğü: Çevre, Şehircilik ve İklim Değişikliği il müdürlüğünü,
+ı) İnert atık: Fiziksel, kimyasal veya biyolojik olarak önemli derecede herhangi bir değişime uğramayan, çözünmeyen, yanmayan, fiziksel veya kimyasal olarak reaksiyona girmeyen, biyolojik bozunmaya uğramayan veya temas ettiği maddeleri çevreye veya insan hayatına zarar verecek şekilde etkilemeyen ve toplam sızıntı kabiliyeti ve ekotoksisitesi önemsiz miktarda olan, özellikle yüzeysel su ve yeraltı suyu kirliliği tehlikesi yaratmayan atıkları,
+i) İşletmeci: Düzenli depolama tesisinin hazırlanmasından kapatılması sonrası bakım sürecine kadar değişebilen, tesisten sorumlu belediye, gerçek ya da tüzel kişiyi,
+j) İzole yerleşim: Nüfusu 500’den fazla olmayan ve kilometrekarede en fazla beş kişinin yaşadığı yerleşim birimlerini, kilometrekarede en az 250 kişi yaşayan ve en yakın yerleşim birimine ulaşım mesafesi en az 50 km olan veya yılın önemli bir bölümünde hava şartları nedeniyle karayolu ile ulaşımı zor olan yerleşim birimlerini,
+k) Kanun: Çevre Kanununu,
+l) (Değişik:RG-26/12/2019-30990) Lisans: Düzenli depolama tesislerine 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliğine göre verilen çevre lisansını,
+m) Lot: Düzenli depolama tesisinin etkin kullanılması amacıyla nihai dolum hacmi belirli, altyapısı bu Yönetmelik hükümlerine göre inşa edilmiş olan düzenli depolama tesisi bölümlerini,
+n) Ön işlem: Ayırma işlemi dâhil olmak üzere atıkların hacmini veya tehlikelilik özelliklerini azaltmak, yönetimini kolaylaştırmak veya geri kazanımını artırmak amacıyla atığa uygulanan fiziksel, ısıl, kimyasal veya biyolojik işlemlerden bir veya birkaçını,
+o) Özütleme: Toprak, kirlenmiş toprak, çamur, çökelti, kompost, atık veya inşaat malzemeleri gibi katı maddeler içindeki bileşenlerin fiziksel, kimyasal veya biyolojik işlemlerle su fazına geçirilmesini,
+ö) Sahip: Atığın üreticisini veya atığı fiilen elinde bulunduran gerçek veya tüzel kişiyi,
+p) Sıvı atık: Atıksular dâhil ancak arıtma çamuru hariç olmak üzere, akışkan özellik gösteren atıkları,
+r) Sızıntı suyu: Depolanan atıklardan süzülen ve depolama sahasından kaynaklanan sıvıyı,
+s) (Değişik:RG-26/12/2019-30990) Tehlikeli atık: Atık Yönetimi Yönetmeliğinin EK-3/A’sında yer alan tehlikeli özelliklerden birini ya da birden fazlasını taşıyan, aynı Yönetmeliğin EK-4’ünde altı haneli atık kodunun yanında yıldız (*) işareti bulunan atıkları,
+ş) Tehlikesiz atık: Tehlikeli atık tanımına girmeyen atıkları,
+t) Tesis sahibi: Aynı zamanda tesisin işletmecisi de olabilen, düzenli depolama tesisinin mülkiyetine sahip gerçek veya tüzel kişiyi,
+u) Yeraltı depolama: Tuz veya potasyum madenleri gibi derin jeolojik boşluklarda atıkların kalıcı olarak depolanmasını
+ifade eder.

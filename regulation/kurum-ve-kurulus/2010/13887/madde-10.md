@@ -1,0 +1,6 @@
+Sınıflarına göre düzenli depolama tesislerine kabul edilecek atıklar
+MADDE 10 – (1) Bu Yönetmeliğin hedefleri doğrultusunda işlenmeleri sonucu pratik bir fayda sağlanmayan atıklar ile teknik olarak işlenmeleri ve değerlendirilmeleri mümkün olmayan inert atıklar hariç olmak üzere atıklar, ön işleme tabi tutulmadan düzenli depolama tesislerine kabul edilmez.
+(2) Düzenli depolama tesislerine atık kabulünde, atığın hangi sınıf depolama tesisinde bertaraf edileceğinin belirlenmesi amacıyla Ek–1’de listelenen kriterler, numune alma ve analiz yöntemleri kullanılır.
+(3) (Değişik:RG-26/12/2019-30990) Düzenli depolama tesislerine atık kabulünde, atığın hangi sınıf depolama tesisinde bertaraf edileceğinin belirlenmesi amacıyla Ek-2’de yer alan analizler yapılır. Ek-2 analizleri beş yıl süreyle geçerlidir. Atığın üretildiği proseste, hammadde veya katkı maddelerinde bir değişiklik olması halinde analiz bir ay içerisinde yenilenir.
+(4) (Değişik:RG-26/12/2019-30990) Ek-2’de II. sınıf düzenli depolama tesisleri için verilen kriterlere uyan tehlikesiz atıklar, reaksiyona girmeyecek şekilde belediye atıklarının depolandığı lotta ayrı bir hücrede depolanabilir.
+(5) III. sınıf düzenli depolama tesislerinde sadece inert atıklar depolanır.

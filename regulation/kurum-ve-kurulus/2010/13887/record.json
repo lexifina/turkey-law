@@ -1,0 +1,98 @@
+{
+  "source_id": "7.5.13887",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIKLARIN DÜZENLİ DEPOLANMASINA DAİR YÖNETMELİK",
+  "number": "13887",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2010/13887",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=13887&MevzuatTertip=5",
+  "source_sha256": "e3ac7404985d1b8efef246a216e20e3c66dc628b956ecf0a9a4927532cd68b1a",
+  "source_bytes": 335537,
+  "published": "2010-03-26",
+  "gazette": "27533",
+  "in_force": "2022-06-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/6/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-06-24",
+      "RG-24/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-24",
+      "24/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-03-19",
+      "RG-19/3/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-03-19",
+      "19/3/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-12-26",
+      "RG-26/12/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-12-26",
+      "26/12/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-04-02",
+      "2/4/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-03-11",
+      "11/3/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-12-25",
+      "25/12/2013",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/4/2010 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 9616,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=51814&SiraNo=8&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=32199&SiraNo=5&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=32201&SiraNo=152&SayfaNo=4",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=52076&SiraNo=6&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=44954&SiraNo=7&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=56173&SiraNo=8&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=56174&SiraNo=9&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=55100&SiraNo=10&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=69117&SiraNo=11&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=71037&SiraNo=12&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=61088&SiraNo=13&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=65847&SiraNo=14&SayfaNo=1",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=64655&SiraNo=168&SayfaNo=4",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=69161&SiraNo=179&SayfaNo=4",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=67456&SiraNo=180&SayfaNo=4",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=72964&SiraNo=181&SayfaNo=4",
+    "http://www.tse.org.tr/Turkish/Abone/StandardDetay.asp?STDNO=20374&SiraNo=2",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=38905&SiraNo=143&SayfaNo=3",
+    "http://www.tse.net.tr/Standart/Standart_Detay.asp?SorguListe=Normal&STDNO=62272&SiraNo=155&SayfaNo=4"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

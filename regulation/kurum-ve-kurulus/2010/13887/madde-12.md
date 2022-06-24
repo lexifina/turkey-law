@@ -1,0 +1,2 @@
+Düzenli depolama tesislerine lisans verilmesi
+MADDE 12 – (1) Belediyece ruhsatı verilmiş olan tesisin geçici faaliyet izni süresi içerisinde izleme raporlarının değerlendirilip uygunluğunun belirlenmesi hâlinde Bakanlıkça lisans verilir. Lisansın süresi, yenilenmesi, devri, askıya alınması ve iptali işlemleri (Değişik ibare:RG-26/12/2019-30990) Çevre İzin ve Lisans Yönetmeliği hükümlerine göre yürütülür.
