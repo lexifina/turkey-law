@@ -1,0 +1,45 @@
+{
+  "source_id": "9.5.24749",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "KARADAĞ MENŞELİ BAZI TARIM VE İŞLENMİŞ TARIM ÜRÜNLERİ İTHALATINDA TARİFE KONTENJANI UYGULANMASINA İLİŞKİN TEBLİĞ",
+  "number": "24749",
+  "issuer": "Ekonomi Bakanı",
+  "path": "teblig/2018/24749",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=24749&MevzuatTertip=5",
+  "source_sha256": "e1d624501155b84ccf41b745f1ca8a77e31edb8ba9812fc7bc21a415a2f3e4ab",
+  "source_bytes": 45988,
+  "published": "2018-07-07",
+  "gazette": "30471 Mükerrer",
+  "in_force": "2022-06-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/6/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-06-25",
+      "RG-25/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-25",
+      "25/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1999,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.24749-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
