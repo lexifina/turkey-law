@@ -1,0 +1,3 @@
+Görüşmelerin gizliliği ve toplantılara katılabilecek olanlar
+MADDE 11- (1) Aksi kararlaştırılmadıkça, Kurul toplantılarındaki görüşmeler gizlidir. Kurul toplantılarına, Başkan ve Kurul üyeleri ile görevli personel dışında kimse katılamaz.
+(2) Kurul; toplantılarında ihtiyaç duyması hâlinde, gündem maddeleri ile ilgili taraflar, kişiler veya temsilcileri, uzmanlık gerektiren konularda görüşleri alınmak üzere Kurum personelini veya toplantıya katılmasında fayda görülen Kurum dışından kişileri Kurul toplantısına davet edebilir. Ancak Kurul kararına ilişkin müzakere ve oylama, toplantıya dışarıdan katılanların yanında yapılmaz.
