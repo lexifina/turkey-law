@@ -1,0 +1,3 @@
+Sır saklama yükümlülüğü
+MADDE 6- (1) Başkan ve Kurul üyeleri ile Kurum personeli, görevleri sırasında öğrendikleri sırlar ile ilgililere ve üçüncü kişilere ilişkin gizli kalması gereken bilgileri kanunen açıkça yetkili kılınan merciler dışında hiçbir kurum, kuruluş veya kişiye açıklayamaz; kendilerinin veya başkalarının yararına veya üçüncü kişilerin zararına kullanamaz. Bu yükümlülük Başkan, Kurul üyeleri ve Kurum personelinin Kurumdan ayrılmaları halinde de devam eder.
+(2) Başkan tarafından yetkilendirilmeksizin, Kurul üyeleri ve Kurum personeli çalışmaları ve görevleri ile ilgili olarak basın ve yayın organlarına beyan ve açıklamalarda bulunamaz.

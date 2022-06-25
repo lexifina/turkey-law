@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39594",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER DÜZENLEME KURULU ÜYELERİ VE NÜKLEER DÜZENLEME KURUMU PERSONELİNİN UYACAKLARI MESLEKİ VE ETİK İLKELER HAKKINDA YÖNETMELİK",
+  "number": "39594",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39594",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39594&MevzuatTertip=5",
+  "source_sha256": "4f48b707f4519f206907fe364431b3fc1bd912097e234037b18b7d0956977773",
+  "source_bytes": 39519,
+  "published": "2022-06-25",
+  "gazette": "31877",
+  "in_force": "2022-06-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.06.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 887,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
