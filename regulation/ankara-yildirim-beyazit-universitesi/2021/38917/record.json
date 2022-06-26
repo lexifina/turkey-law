@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-09-09",
+      "09.09.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-26",
+      "RG-26/6/2022-31878",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-26",
+      "26/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-26/6/2022-31878",
+  "first_law": null,
+  "gazette": "31593",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-26",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2021/38917",
+  "published": "2021-09-09",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38917&MevzuatTertip=5",
+  "source_bytes": 65585,
+  "source_id": "8.5.38917",
+  "source_sha256": "f4e663636786b4c07117154bfef8935b952f507b3e0ca17b005dae8d741c5f39",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ ULUSLARARASI TAHKİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1357
+}
