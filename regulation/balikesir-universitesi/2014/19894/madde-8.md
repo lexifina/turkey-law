@@ -1,0 +1,3 @@
+Merkez Müdürü
+MADDE 8 – (1) Merkez Müdürü, Merkezin amaçları konusunda araştırma, uygulama ve eğitim deneyimi bulunan Fakülte bünyesindeki (Mülga ibare:RG-27/6/2022-31879)(1) öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Merkez Müdürü yeniden görevlendirilebilir.
+(2) Merkez Müdürü görevi başında olmadığı zaman (Değişik ibare:RG-27/6/2022-31879)(1) müdür yardımcılarından birini yerine vekil olarak görevlendirilmek üzere Rektörün onayına sunar. Göreve vekalet altı aydan fazla sürerse, yerine kalan süreyi tamamlamak üzere aynı usulle yeni bir Merkez Müdürü görevlendirilir.

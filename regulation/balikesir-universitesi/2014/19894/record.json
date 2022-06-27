@@ -1,0 +1,79 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-07-14",
+      "14.07.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "RG-27/6/2022-31879",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-27",
+      "27/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-27/6/2022-31879",
+  "first_law": null,
+  "gazette": "29060",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-27",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Balıkesir Üniversitesi",
+  "issuer_slug": "balikesir-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/balikesir-universitesi/2014/19894",
+  "published": "2014-07-14",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19894&MevzuatTertip=5",
+  "source_bytes": 37107,
+  "source_id": "8.5.19894",
+  "source_sha256": "ced0afa998d115daa712903926736e7a9f7e62c997f101d0b1d92619186daddd",
+  "text_status": "current-consolidated",
+  "title": "BALIKESİR ÜNİVERSİTESİ MANEVİ-PSİKOLOJİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 182,
+  "word_count": 1154
+}
