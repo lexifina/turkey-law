@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV/5 -İ- 9-2020/74]-299140",
+  "source_id": 28887,
+  "date": "2022-06-28",
+  "title": "Film Prodüksiyon Hizmetinde KDV Tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28887",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "65c1d7ddb9b67595b556c17adfd8db2222c3336dd96ebc63efae9866f2a4ff3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
