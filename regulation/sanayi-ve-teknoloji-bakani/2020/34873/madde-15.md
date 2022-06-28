@@ -1,0 +1,3 @@
+Dağıtıcıların uygun olmayan motorlara ilişkin yükümlülükleri
+MADDE 15 – (1) Bir motorun bu Yönetmeliğe uygun olmadığını düşünen veya bu şekilde düşünmesi için sebebi olan bir dağıtıcı, söz konusu motor uygun hale getirilinceye kadar motoru piyasada bulunduramaz.
+(2) Piyasada bulundurduğu bir motorun bu Yönetmeliğe uygun olmadığını düşünen veya bu şekilde düşünmesi için sebebi olan dağıtıcı, imal edilmekte olan motorların onaylanmış motor tipine veya motor ailesine uygun hale getirilmesi için 10 uncu veya 13 üncü madde uyarınca gereken düzeltici tedbirlerin alınmasını sağlamak üzere imalatçı veya imalatçı temsilcisini bilgilendirir.

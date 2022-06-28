@@ -1,0 +1,10 @@
+ON BİRİNCİ BÖLÜM
+Uluslararası Mevzuat ve Teknik Bilgilerin Sağlanması
+Eşdeğer motor tip onaylarının kabulü
+MADDE 43 – (1) Bakanlık, AB üyesi ülkeler dışındaki ülkelerle arasındaki çok taraflı anlaşmalar veya ikili anlaşmalar çerçevesinde, bu Yönetmelik tarafından belirlenen, motorların AB tip onayına ilişkin koşullar ve hükümler ile uluslararası düzenlemeler veya üçüncü ülkelerin düzenlemeleri tarafından belirlenen usuller arasındaki denkliği kabul edebilir.
+(2) Türkiye’nin kabul ettiği veya dördüncü fıkranın (a) bendinde belirtilen mevzuatta ortaya koyulan şekilde Türkiye’nin taraf olduğu BM/AEK düzenlemeleri uyarınca verilen tip onaylarının ve gerekli görülen zorunlu işaretlemenin veya bunlarda yapılan değişikliklerin, bu Yönetmelik uyarınca verilen AB tip onaylarının ve gerekli görülen zorunlu işaretlemenin eşdeğeri olduğu kabul edilir.
+(3) Dördüncü fıkranın (b) bendinde belirtilen mevzuatta listelenen Avrupa Birliği düzenlemeleri esas alınarak verilen AB tip onayları, bu Yönetmelik uyarınca verilen AB tip onaylarının eşdeğeri olarak kabul edilir.
+(4) Bu Yönetmeliği tamamlamak üzere, aşağıdaki hususlar konusunda, Türkiye’de mevzuatı oluşturmak ve kabul etmek üzere Bakanlık yetkilidir:
+a) Uygulanmaları ile ilgili olarak içlerinde belirtilen tüm gereklilikler de dahil olmak üzere, Türkiye’nin kabul ettiği ve karayolu dışında kullanılan hareketli makinelere monte edilecek motor tiplerinin ve motor ailelerinin AB tip onayı için geçerli olacak BM/AEK regülasyonlarının veya bunlarda yapılan değişikliklerin listesi.
+b) Uygulanmaları ile ilgili olarak içlerinde belirtilen tüm gereklilikler de dahil olmak üzere, AB tip onaylarının uygun olarak verildiği mevzuatın listesi.
+(5) Ek I’in Tablo I-1'inde belirtilen NRE kategorisindeki motor aileleri veya motor tipleri için, BM/AEK Regülasyon No 96’nın 05 sayılı değişiklikler dizisine uygun tip onayları ve uygulanabildiğinde ilgili zorunlu işaretlemeleri, bu Yönetmeliğin tip onayına ve zorunlu işaretlemesine eşdeğer olarak tanınır. Eşdeğer tip onayına sahip kullanımdaki motorların emisyonları 20 nci maddeye uygun olarak imalatçı tarafından izlenir.

@@ -1,0 +1,2 @@
+İmalatçı yükümlülüklerinin ithalatçılara ve dağıtıcılara uygulanması
+MADDE 17 – (1) Bir motoru kendi adı veya ticari markası altında piyasada bulunduran veya böyle bir motoru, ilgili şartlara uygunluğunu etkileyebilecek şekilde modifiye eden bir ithalatçı veya dağıtıcı, bu Yönetmeliğin amaçları bakımından imalatçı olarak kabul edilir ve özellikle 9 uncu ve 10 uncu maddelerde belirtilen yükümlülüklere tabi olur.

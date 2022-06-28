@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.34873",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KARAYOLU DIŞINDA KULLANILAN HAREKETLİ MAKİNALARA TAKILAN İÇTEN YANMALI MOTORLAR İÇİN GAZ VE PARTİKÜL HALİNDEKİ KİRLETİCİ EMİSYON SINIRLARI VE TİP ONAYI İLE İLGİLİ GEREKLİLİKLER HAKKINDA YÖNETMELİK (2016/1628/AB)",
+  "number": "34873",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2020/34873",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34873&MevzuatTertip=5",
+  "source_sha256": "f4e45387b39102537e5be931d61cfbf9c1f05378f5c6cd140d2c5ee6ff230997",
+  "source_bytes": 231915,
+  "published": "2020-09-11",
+  "gazette": "31241",
+  "in_force": "2022-06-28",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-28/6/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-06-28",
+      "RG-28/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-28",
+      "28/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 20/9/2020 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14512,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.34873-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

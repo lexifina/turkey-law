@@ -1,0 +1,6 @@
+Kullanımdaki motorlara ait emisyonların izlenmesi
+MADDE 20 – (1) Bu Yönetmelik uyarınca tip onayı verilmiş Faz V emisyonlu motor tiplerine veya motor ailelerine mensup motorlardan kaynaklanan gaz halindeki kirletici emisyonları, karayolu dışında kullanılan hareketli makinelere monte edilen ve normal görev döngüleri boyunca çalıştırılan kullanımdaki motorlar test edilerek izlenir.
+(2) Bu testler, imalatçının sorumluluğu altında ve Bakanlığın gerekliliklerine uygun olarak, farklı motor kategorileri için motorların seçimi, test usulleri ve sonuçların raporlanması ile ilgili hükümlere uygun olarak doğru şekilde bakımı yapılmış motorlar üzerinde yapılır.
+(3) Bakanlık, bu tür test usulleri bulunmayan motor kategorileri ve alt kategorileri için uygun test usullerinin geliştirilmesi amacıyla pilot programlar yürütebilir.
+(4) Bakanlık, test çevriminden ölçülen emisyonların gerçek çalışmada ölçülen emisyonlara ne ölçüde karşılık geldiğini belirlemek üzere her motor kategorisi için izleme programları yürütebilir. Söz konusu programlar ve sonuçları, Bakanlıkça kamuoyuna açıklanabilir.
+(5) Motorların seçimi, test usulleri ve birinci ila dördüncü fıkralarda belirtilen sonuçların raporlanması ile ilgili ayrıntıların belirlenmesi konusunda, Türkiye’de mevzuatı oluşturmak ve kabul etmek üzere Bakanlık yetkilidir.

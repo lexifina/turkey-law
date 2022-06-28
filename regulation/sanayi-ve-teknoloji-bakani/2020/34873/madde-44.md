@@ -1,0 +1,6 @@
+OEM'ler ve son kullanıcılar için bilgiler ve talimatlar
+MADDE 44 – (1) Bir imalatçı, OEM'lere veya son kullanıcılara, bu Yönetmelikte belirtilen ve onay kuruluşu tarafından onaylanan bilgilerden farklı herhangi bir teknik bilgi veremez.
+(2) İmalatçı, motorun montajı veya kullanımı ile ilgili herhangi bir özel koşula veya kısıtlamaya ilişkin bir açıklama da dahil olmak üzere motorun karayolu dışında kullanılan hareketli makinelere doğru şekilde monte edilmesi için gereken ilgili tüm bilgileri ve talimatları OEM'lerin kullanımına sunar.
+(3) İmalatçı, bir motorun kullanımı ile bağlantılı herhangi bir özel koşula veya kısıtlamaya ilişkin bir açıklama da dahil olmak üzere son kullanıcılara yönelik ilgili tüm bilgileri ve gereken talimatları OEM'lerin kullanımına sunar.
+(4) İmalatçılar, AB tip onayı sürecinde belirlenen karbondioksit (CO2) emisyonlarına ait değeri OEM'lerin kullanımına sunar ve OEM'lere, söz konusu bilgileri, test koşulları hakkında açıklayıcı bilgilerle birlikte, motorun monte edilmesi amaçlanan karayolu dışında kullanılan hareketli makinenin son kullanıcısına iletmeleri talimatını verir.
+(5) İkinci, üçüncü ve dördüncü fıkralarda belirtilen bilgilere ve talimatlara dair ayrıntıları belirlemek üzere, Türkiye’de mevzuatı oluşturmak ve kabul etmek üzere Bakanlık yetkilidir.

@@ -1,0 +1,4 @@
+Değişikliklerin uygulanması ve bildirilmesi
+MADDE 30 – (1) AB tip onayının revize edilmesi durumunda, onay kuruluşu gereksiz bir gecikme olmaksızın revize edilen belgeleri veya yerine göre 29 uncu maddenin birinci fıkrasında belirtilen tanıtım paketinin revize edilmiş fihristini de içeren; konsolide edilmiş, güncellenmiş versiyonu başvuru sahibine verir.
+(2) AB tip onayında kapsam genişletme yapılması halinde, onay kuruluşu gereksiz bir gecikme olmaksızın ekleri ve tanıtım paketinin fihristi de dahil olmak üzere 29 uncu maddenin ikinci fıkrasında belirtilen güncellenmiş AB tip onayı belgesini başvuru sahibine verir.
+(3) Onay kuruluşu, 23 üncü maddenin beşinci fıkrası uyarınca AB tip onaylarında yapılan değişiklikler hakkında AB üyesi ülkelerin onay kuruluşlarını IMI aracılığıyla bilgilendirir.

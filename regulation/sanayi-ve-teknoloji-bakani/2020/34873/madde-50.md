@@ -1,0 +1,8 @@
+Teknik servis faaliyetlerinin değerlendirilmesi
+MADDE 50 – (1) Görevlendiren onay kuruluşu, teknik servis olmak isteyen kurum/kuruluşun bu Yönetmelikteki ve bu Yönetmelik uyarınca kabul edilen mevzuattaki gerekliliklere uygunluk açısından değerlendirildiğini gösteren bir değerlendirme raporu düzenler. Değerlendirme raporu, bir ulusal akreditasyon kuruluşu tarafından verilen, teknik servisin bu Yönetmeliğin şartlarını yerine getirdiğini tasdik eden bir akreditasyon belgesi içerebilir. Bu raporun dayandığı değerlendirme, 49 uncu maddede belirtilen mevzuatta belirlenen hükümler doğrultusunda yapılır.
+(2) Görevlendiren onay kuruluşu, değerlendirme raporunu en az üç yılda bir gözden geçirir.
+(3) Görevlendiren onay kuruluşu, değerlendirme raporunu, talebi üzerine Komisyona bildirir. Değerlendirmenin bir ulusal akreditasyon kuruluşu tarafından düzenlenen bir akreditasyon belgesine dayanmadığı durumlarda, görevlendiren onay kuruluşu aşağıdakileri teyit eden belgeleri Komisyona bildirir:
+a) Teknik servisin yetkinliği.
+b) Teknik servisin, görevlendiren onay kuruluşu tarafından periyodik olarak izlenmesine yönelik düzenlemelerin bulunması.
+c) Teknik servisin bu Yönetmelikteki ve bu Yönetmelik uyarınca kabul edilen mevzuattaki gereklilikleri yerine getirmesi.
+(4) 48 inci maddenin ikinci fıkrası uyarınca teknik servis olarak hareket etmek isteyen bir onay kuruluşu, değerlendirilmekte olan faaliyetten bağımsız olarak denetçiler tarafından yürütülen bir değerlendirme yoluyla uygunluğunu belgeler. Bu denetçiler, değerlendirilen faaliyeti yürüten personelden ayrı olarak yönetilmeleri koşuluyla aynı kuruluşa mensup olabilirler.

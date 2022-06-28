@@ -1,0 +1,3 @@
+Teknik servislerin uzmanlığının sorgulandığı durumlar
+MADDE 53 – (1) Bakanlık, ilgili teknik servisin görevlendirilmesine veya görevlendirmesinin devam etmesine ilişkin tüm bilgileri talep etmesi halinde Komisyona sağlar.
+(2) Komisyon, bir teknik servisin, görevlendirilmesine ilişkin gereklilikleri karşılamadığını veya artık yerine getirmediğini tespit ederse gereken düzeltici tedbirlerin Bakanlık ile işbirliği içinde belirlenmesi amacıyla Bakanlığı bilgilendirir ve gerekirse Bakanlıktan görevlendirmenin geri çekilmesi de dahil olmak üzere söz konusu düzeltici tedbirlerin alınmasını talep eder.

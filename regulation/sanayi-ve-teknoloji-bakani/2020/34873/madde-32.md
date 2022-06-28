@@ -1,0 +1,11 @@
+YEDİNCİ BÖLÜM
+Uygunluk Beyanı ve İşaretlemeler
+Uygunluk beyanı
+MADDE 32 – (1) İmalatçı, bir motor tipi veya motor ailesi AB tip onayının sahibi sıfatıyla, aşağıda belirtilen maddeler çerçevesinde piyasaya arz edilen motorlar ile birlikte bir uygunluk beyanı verir:
+a) 35 inci maddenin ikinci, dördüncü, beşinci, altıncı, yedinci veya sekizinci fıkralarında ve 36 ncı maddenin dördüncü fıkrasında belirtilen bir muafiyet.
+b) Geçici 1 inci maddenin altıncı, yedinci veya sekizinci fıkralarında belirtilen bir geçiş hükmü.
+Uygunluk beyanında motor için geçerli olacak belirli özellikler ve kısıtlamalar belirtilir. Uygunluk beyanı, motorla birlikte ücretsiz olarak teslim edilir ve uygulanabilir ise, motorun monte edildiği karayolu dışında kullanılan hareketli makine ile birlikte verilir. Uygunluk beyanının teslimi, açık bir talebe veya imalatçıya ek bilgi sunulmasına bağlı olamaz. Uygunluk beyanı aynı zamanda bir güvenli elektronik dosya biçiminde de sunulabilir. Motor imalat tarihini izleyen 10 yıllık bir süre için imalatçı, son kullanıcının talebi üzerine, düzenlenme maliyetini aşmayan bir miktarın ödenmesi karşılığında uygunluk beyanının bir suretini verir. "Suret" ifadesi, uygunluk beyanının bu tür her kopyası üzerinde açıkça görünür olur.
+(2) Uygunluk beyanı, Türkçe veya AB’nin resmi dillerinden birinde düzenlenir. Onay kuruluşları, imalatçıdan bu belgenin kendi resmi dillerine çevrilmesini talep edebilir.
+(3) Uygunluk beyanlarını imzalamaya yetkili kişi/kişiler, imalatçı kuruluşun çalışanı olup söz konusu kuruluşun yönetimi tarafından, motorun tasarımı ve imalatı veya üretiminin uygunluğu ile ilgili olarak imalatçının yasal sorumluluğunu tam olarak yerine getirmek üzere usulünce yetkilendirilir.
+(4) Uygunluk beyanının bütün maddeleri eksiksiz bir şekilde doldurulur ve motorun kullanımı ile ilgili olarak bu Yönetmelikte yer alan kısıtlamalar dışında herhangi bir kısıtlama içermez.
+(5) Sahteciliği önlemeye ve güvenli elektronik dosyanın doğrulanmasına imkan tanımaya yönelik özellikler de dahil olmak üzere, uygunluk beyanı için şablonu belirlemek üzere uygulama mevzuatı kabul edilebilir. Bu amaçla, uygulama mevzuatında, uygunluk beyanını korumak için kullanılan güvenlik özellikleri yer alır. Komisyon tarafından yayımlanan bu uygulama mevzuatı, Bakanlık tarafından yayımlanır ve yürürlüğe konur.
