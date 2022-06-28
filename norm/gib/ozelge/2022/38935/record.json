@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-36062021-130[09-2021/ÖZE-01]-57722",
+  "source_id": 38935,
+  "date": "2022-06-28",
+  "title": "Yol süpürmeye mahsus araçlarda ötv uygulaması hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38935",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "1fed08502aa86b381ec8b09982adf6bde004035e1597eee9ea09dcf069263e45",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
