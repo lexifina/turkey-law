@@ -1,0 +1,14 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52243",
+  "decision_date": "2022-06-29",
+  "source_id": 26135,
+  "chamber": "7",
+  "file_number": "49592",
+  "account_year": "2017",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26135/",
+  "source_sha256": "8eba0462546da7d98d9e4d51e278a2170f40849fbc70fafecf8b45760b12bf33",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
