@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52248",
+  "decision_date": "2022-06-29",
+  "source_id": 26140,
+  "chamber": "2",
+  "file_number": "46573",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2010",
+  "subject": "Sorumluluk ve Yargılama Usulleri ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26140/",
+  "source_sha256": "97f86d362a3daf4166edeb5382205e619b3098510c00034425a992e789c57204",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
