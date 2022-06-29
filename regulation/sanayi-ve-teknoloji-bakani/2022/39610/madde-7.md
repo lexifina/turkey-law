@@ -1,0 +1,8 @@
+Denetim ve sonuçları
+MADDE 7- (1) Bakanlık, bu Yönetmelik hükümleri uyarınca yetkilendirilen katılımcıları, yetki belgelerine uygun hareket edilip edilmediğinin kontrolü amacıyla denetlemeye yetkilidir.
+(2) Katılımcılar; Bakanlıkça görevlendirilen ve denetimde bulunan kişilere gerekli bilgi ve belgeleri gerçeğe uygun ve eksiksiz olarak vermek, incelemelere yardımcı olmak ve doğru beyanda bulunmakla yükümlüdür.
+(3) Yapılan denetimde 4 üncü ve/veya 5 inci maddede belirtilen hususlara aykırılığın ya da yanlış ve/veya yanıltıcı beyanda bulunulduğunun tespit edilmesi halinde ilgili yazılı olarak uyarılır, aykırılığın giderilmesi için altı aya kadar süre verilir ve yetki belgesi askıya alınır. Verilen süre içerisinde aykırılığın giderilmesi halinde askıya alma durumu sona erer. Aykırılığın giderilmemesi halinde ise yetki belgesi iptal edilir.
+(4) Yetki belgesi askıya alınan katılımcıya, yetki belgesinin askıda kaldığı süre boyunca bu Yönetmelik kapsamında aynı tür yeni bir yetki belgesi verilmez.
+(5) Yetki belgesinin üçüncü fıkra uyarınca iptal edilmesi durumunda bir yıl süre ile aynı tür belge talebinde bulunulamaz. Belge iptalinin tekrarı halinde üç yıl süreyle aynı tür belge talebinde bulunulamaz ve üç yıl dolduktan sonra tekrar belge talebinde bulunanların müracaatları ilk müracaat olarak değerlendirilir.
+(6) Yetki belgesinin askıda kaldığı süre 6 ncı maddenin ikinci fıkrasına göre belirlenen geçerlilik süresini etkilemez.
+(7) Yetki belgesinin askıya alınması, askı durumunun sona ermesi veya iptal edilmesi işlemleri Bakanlık tarafından Kamu İhale Kurumuna bildirilir ve Bakanlık internet sitesinde ilan edilir.
