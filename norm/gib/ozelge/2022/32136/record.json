@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-130[28]-10822",
+  "source_id": 32136,
+  "date": "2022-06-29",
+  "title": "Tıbbi cihaz ve aksamlarında KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32136",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8361d3a6b3ece81f75c05cd3a3c39c8daf0466538fedf6a090a2831a8f68d663",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
