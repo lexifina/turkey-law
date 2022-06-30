@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11052",
+  "decision_date": "2022-06-30",
+  "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliğinin (Yönetmelik) 132/D maddesinin onbirinci fıkrasının yürürlüğe girdiği tarihten 31/08/2022 tarihine kadar uygulanmak üzere; görevli tedarik şirketlerinin avans ödemelerine ilişkin",
+  "resmi_gazete_date": "2022-07-01",
+  "resmi_gazete_number": "31883",
+  "categories": [
+    "Görevli tedarik şirketlerinin avans bildirimlerine ilişkin alınan Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wEUf9nVRG44=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=wEUf9nVRG44="
+  ],
+  "source_sha256": "b74f95c1c632483541c519f9fa93345f97e55dc0eab0a22c61848f0d473244bf",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33859,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-06-30",
+  "law_text_complete": true
+}
