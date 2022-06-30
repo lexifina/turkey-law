@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11048",
+  "decision_date": "2022-06-30",
+  "title": "Doğal gaz dağıtım şirketlerinin uygulayacakları sistem kullanım bedellerinin hesaplanmasında, üçüncü tarife uygulama döneminin 2022-2026 yılları için reel makul getiri oranı hakkında karar",
+  "resmi_gazete_date": "2022-07-01",
+  "resmi_gazete_number": "31883",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JCJ4AUm1XBQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JCJ4AUm1XBQ="
+  ],
+  "source_sha256": "9781f3664a31139581c192c3a8de0c51edee3c0208b15a48b7d63c8f71f889e4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-06-30",
+  "law_text_complete": true
+}
