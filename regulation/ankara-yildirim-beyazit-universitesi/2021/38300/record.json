@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-02-07",
+      "07.02.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-06-30",
+      "RG-30/6/2022-31882",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-30",
+      "RG-30/6/2022-31882",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-30",
+      "RG-30/6/2022-31882",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-06-30",
+      "30/6/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-30/6/2022-31882",
+  "first_law": null,
+  "gazette": "31388",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-06-30",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2021/38300",
+  "published": "2021-02-07",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38300&MevzuatTertip=5",
+  "source_bytes": 40500,
+  "source_id": "8.5.38300",
+  "source_sha256": "74a3b0c640a6fac38dec177d4588eef69cd03c07e26c3cb9926dc26d1731c46f",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ AİLE VE TOPLUM \r\nÇALIŞMALARI UYGULAMA VE ARAŞTIRMA \r\nMERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1629
+}
