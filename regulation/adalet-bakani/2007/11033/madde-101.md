@@ -1,0 +1,3 @@
+Tedbir istemi ve ön rapor
+MADDE 101 – (1) Soruşturma esnasında; edinilen kanaate göre ilgilinin göreve devamının soruşturmanın selametine veya yargı erkinin nüfuz ve itibarına zarar vereceği sonucuna varıldığında, soruşturma emrinde sarahat olsun veya olmasın, rapor tanzimi beklenilmeyerek ilgilinin, Hâkimler ve Savcılar Yüksek Kurulunca geçici tedbirle görevinden uzaklaştırılması veya soruşturmanın neticelendirilmesine kadar başka bir yargı çevresinde görevlendirilmesi düzenlenecek bir ön raporla birlikte talep edilir.
+(2) Tedbir istemini içeren ön raporda, ilgili hakkında soruşturmaya geçildiği özellikle vurgulanır, ayrıca talebin dayanağını oluşturan inandırıcı nedenler açık şekilde belirtilip, bunu doğrulayan tanık beyanları ile sair belgeler de eklenir.

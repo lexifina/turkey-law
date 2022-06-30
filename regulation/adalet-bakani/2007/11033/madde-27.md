@@ -1,0 +1,5 @@
+Yetişme ve deneme dönemi
+MADDE 27 – (1) Yetişme ve deneme dönemi, bir yıl süreli, Başkanın uygun göreceği bir veya birkaç kıdemli müfettiş yanında, denetleme, inceleme, araştırma ve soruşturma işlerinin yaptırılacağı dönemdir. Başkan, gerek gördüğünde bu süreyi en çok altı ay uzatabilir.
+(2) Müfettişler yetişme dönemleri içerisinde onbeş günden az olmamak üzere meslekî uyum eğitimine tâbi tutulurlar.
+(3) Kıdemli müfettişler, yanlarında görevlendirilen müfettişlerin yetişmeleri ve vazifeye uyum sağlamaları için gerekli ilgi ve gayreti gösterirler, henüz müstakil denetim almamış olanlar mümkün olduğu kadar değişik ünitelerde görevlendirilirler. Grup başkanları yetişme ve deneme dönemini henüz tamamlamamış müfettişler hakkındaki görüşlerini yazılı olarak Başkanlığa bildirirler. Bunlar, Başkanlıkça müfettişlerin özel dosyasında saklanır.
+(4) Başkan, yetişme ve deneme dönemi içerisinde başarılı olamadıkları en az iki ayrı zamanda verilen müfettiş raporuyla anlaşılanların başka bir göreve atanmalarını isteyebilir.

@@ -1,0 +1,3 @@
+Görevden uzaklaştırmaya dair işlemler
+MADDE 16 – (1) Görevden uzaklaştırma yetkisinin kullanılmasında, konunun mahiyeti de göz önünde bulundurularak gereken duyarlılık gösterilir. Geçici olarak görevden uzaklaştırma işlemleri, tetkik mevzuunu ve sebeplerini kapsayan bir karara dayandırılır, bu karar gerekçesiyle birlikte, derhâl, görevden uzaklaştırılana, amirine, Cumhuriyet başsavcılığına ve Başkanlığa bildirilir.
+(2) Soruşturma sonunda, disiplin yönünden memurluktan çıkarılmasının veya cezaî bir işlem uygulanmasının gerekmediği anlaşılanlar hakkındaki görevden uzaklaştırma tedbirinin kaldırıldığı, müfettişlerce, ilgili mercilere ve Başkanlığa derhâl iletilir.
