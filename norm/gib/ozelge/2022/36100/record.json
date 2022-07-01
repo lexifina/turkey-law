@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67630374-140.12[2022]-17810",
+  "source_id": 36100,
+  "date": "2022-07-01",
+  "title": "Tarımsal Arazilerin Mirasçılar Arasında Devrinde Tapu Harcı Muafiyeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36100",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "99a6225022efa8116672fbae7ca8b7e81f6e88d9302c50f4976423b1b8f22bfa",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
