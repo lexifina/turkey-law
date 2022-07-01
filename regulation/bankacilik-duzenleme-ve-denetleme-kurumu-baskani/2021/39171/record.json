@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.39171",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SIR NİTELİĞİNDEKİ BİLGİLERİN PAYLAŞILMASI HAKKINDA YÖNETMELİK",
+  "number": "39171",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2021/39171",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39171&MevzuatTertip=5",
+  "source_sha256": "dfe97ce61666b2f595b5cc8351478de6d8a0a7bf1bb43393db60c52d100ad0f9",
+  "source_bytes": 45340,
+  "published": "2021-06-04",
+  "gazette": "31501",
+  "in_force": "2022-07-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"1/7/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-07-01",
+      "1/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-12-24",
+      "RG-24/12/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-12-24",
+      "24/12/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/7/2022 tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2518,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
