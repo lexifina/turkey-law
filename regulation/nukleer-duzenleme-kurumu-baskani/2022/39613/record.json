@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39613",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER DÜZENLEME UZMANLIĞI YÖNETMELİĞİ",
+  "number": "39613",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39613",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39613&MevzuatTertip=5",
+  "source_sha256": "05b285f54db44ed8c5bdd2c8a5ad64b7b044c726a4be7688a609dbe3b809f255",
+  "source_bytes": 109753,
+  "published": "2022-07-01",
+  "gazette": "31883",
+  "in_force": "2022-07-01",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (01.07.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3600,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39613%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
