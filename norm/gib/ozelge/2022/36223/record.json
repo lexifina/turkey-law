@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-160.01[2022/10]-306688",
+  "source_id": 36223,
+  "date": "2022-07-01",
+  "title": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu kapsamındaki tescilli taşınmaz kültür varlıklarının veraset tarikiyle devir ve iktisabı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/440/ozelge/36223",
+  "related_law": "7338 sayılı VERASET VE İNTİKAL VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "ba5bd5b5eb5969b962703cd2b8318a1e6c4040f7c8ee8d6f1bb432c2bffd699b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
