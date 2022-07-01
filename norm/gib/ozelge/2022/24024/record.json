@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "67630374-125[2019]-17791",
+  "source_id": 24024,
+  "date": "2022-07-01",
+  "title": "Türkiyede Mukim Şirketin Almanya Mukimi Tüzel Kişiye Yaptığı Kar Dağıtımında Kurumlar Vergisi Kesintisi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24024",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "8da0102d0c6cef11250cf1c478b273d6910e2334872fcce379c47a51e2d7ff09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
