@@ -1,0 +1,2 @@
+İşçi ve İşveren Temsilcilerinin Yedekleri
+Madde 14 — Bünyesinde en çok işçi ve işvereni bulunduran en üst derecedeki işçi ve işveren kuruluşlarının değişik işkollarından seçecekleri her temsilci için birer yedek temsilci seçilir. Asıl temsilcilerin toplantıya katılması asıldır. Ancak, asıl temsilcilerin görevlerini yapmalarına geçici veya sürekli bir engelin ortaya çıkması halinde, komisyona yedekleri katılır.
