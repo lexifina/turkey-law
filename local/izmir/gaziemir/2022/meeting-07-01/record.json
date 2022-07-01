@@ -1,0 +1,24 @@
+{
+  "number": "meeting-07-01",
+  "number_as_published": "meeting-07-01",
+  "year": 2022,
+  "title": "01.07.2022 KARAR ÖZETİ",
+  "decision_date": "2022-07-01",
+  "source": "https://www.gaziemir.bel.tr/meclis-karar-ve-ozetleri.php?sayfa=22",
+  "official_document": "https://api.gaziemir.bel.tr/upload_meclis/1456119e9f313f7e79771b3a12b75da41456119e9f313f7e79771b3a12b75da4.doc",
+  "source_sha256": "d7b2123474fb9de844e1adbbdad38d03eaeddf3026afc5c04e7ae6ecd1b87010",
+  "issuer": "Gaziemir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-07-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.07.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.07.2022 KARAR ÖZETİ",
+  "record_scope": "one official file of council decisions (meeting)",
+  "posting_date": "06.07.2022"
+}
