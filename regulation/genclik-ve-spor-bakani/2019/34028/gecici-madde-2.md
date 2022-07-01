@@ -1,0 +1,3 @@
+Öğretim elemanlarının hak ve muafiyetleri
+GEÇİCİ MADDE 2- (Başlığı ile Birlikte Değişik:RG-1/7/2022-31883)
+(1) Üniversitelerin spor bilimleri alanında lisans eğitimi veren fakülte veya yüksekokullarından lisans mezunu olup bu alanda öğretim elemanı kadrosunda görev alarak uygulamalı spor dalı eğitimi dersini en az üç eğitim öğretim yılı verdiğini belgeleyenler, yalnızca bir spor dalında kıdemli antrenör temel eğitim programından muaf tutularak uygulama eğitimi ve sınavına girip başarılı olmaları halinde bu maddenin yürürlüğe girdiği tarihten itibaren dört yıl süreyle kıdemli antrenörlük belgesi almaya hak kazanır.

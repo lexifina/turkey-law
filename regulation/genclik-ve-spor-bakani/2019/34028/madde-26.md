@@ -1,0 +1,6 @@
+Antrenörlük belgesinin askıya alınması ve iptali
+MADDE 26- (Başlığı ile Birlikte Değişik:RG-1/7/2022-31883)
+(1) Spor Disiplin Yönetmeliği ile federasyonların disiplin veya ceza talimatlarına göre verilen cezanın kesinleştiği tarihten itibaren son üç yıl içinde bir defada altı aydan fazla veya toplamda bir yıldan fazla cezası bulunanların antrenörlük belgeleri, cezanın sona erdiği tarihten itibaren toplam ceza süresi kadar, ilgili federasyonun bildirimi üzerine veya resen Bakanlık tarafından askıya alınır.
+(2) Antrenörlük belgesi alanlardan, bu Yönetmelikte veya ilgili mevzuatında belirtilen şartlardan herhangi birini kaybeden ya da bu şartları taşımadığı sonradan anlaşılanlar ile bu Yönetmelik kapsamında hiçbir şekilde antrenör eğitimi programlarına katılamayacakların antrenörlük belgeleri, ilgili federasyonun bildirimi üzerine veya resen Bakanlık tarafından iptal edilir.
+(3) Spor Disiplin Yönetmeliği ile federasyonların disiplin veya ceza talimatlarına göre üç yıl ve üzeri veya sürekli hak mahrumiyeti cezası kesinleşenlerin ilgili cezanın verildiği spor dalına ait antrenörlük belgesi iptal edilir.
+(4) Federasyon tarafından bildirim yükümlülüğünün yerine getirilmemesi halinde sorumlular hakkında ilgili mevzuat hükümleri uygulanır.

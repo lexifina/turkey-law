@@ -1,0 +1,1 @@
+MADDE 21 (1) Üniversitelerin Türk musikisi Devlet konservatuarı, Devlet konservatuarı Türk halk oyunları bölümü ile modern dans bölümü lisans mezunları eğitim gördükleri spor dalında temel antrenörlük belgesi almaya hak kazanır.

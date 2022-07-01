@@ -1,0 +1,2 @@
+Halk oyunları eğitici belgesi
+GEÇİCİ MADDE 1 – (1) Milli Eğitim Bakanlığı Hayat Boyu Öğrenme Genel Müdürlüğünün 18/7/2018 tarihli ve 13453533 sayılı olurundan önce verilen halk oyunları eğitici belgelerinin bu Yönetmelik kapsamında antrenörlük belgesi olarak kabulüne ilişkin işlemler, bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren (Değişik ibare:RG-1/7/2022-31883) dört yıl içerisinde Türkiye Halk Oyunları Federasyonu tarafından bahsedilen olur çerçevesinde gerçekleştirilir.
