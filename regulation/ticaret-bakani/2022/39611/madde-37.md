@@ -1,0 +1,4 @@
+Anlaşmazlıkların çözümü
+MADDE 37- (1) Bu Yönetmelik esasları çerçevesinde yapılacak uygulamada meydana gelecek tereddüt ve anlaşmazlıklar, bu Yönetmeliğe ilişkin işlemlerin yürütülmesiyle görevli kuruluşlarca Bakanlığa (Uluslararası Anlaşmalar ve Avrupa Birliği Genel Müdürlüğüne) iletilir.
+(2) Bu tereddüt ve anlaşmazlıklardan 33 ila 36 ncı maddelerde belirtilen sonradan kontrol işlemlerine ilişkin olup Taraf Ülkeler yetkili idarelerince kendi aralarında çözümlenemeyenler veya 1 inci maddede belirtilen Anlaşmanın yorumlanmasında ortaya çıkan sorunlar Anlaşmanın 28 inci maddesi uyarınca Ticaret Müzakereleri Komitesine sunulur.
+(3) Tatmin edici bir çözüme varılamaması halinde, etkilenen Taraf, Ticaret Müzakereleri Komitesine başvurarak sorunun çözümü için geçici bir alt komite kurulmasını talep edebilir.

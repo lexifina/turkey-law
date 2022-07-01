@@ -1,0 +1,9 @@
+Menşe İspat Belgesi düzenlenme işlemleri
+MADDE 18- (1) Menşe İspat Belgesi ve Başvuru Formu, ihracatçılar veya yetkili kanuni temsilcileri tarafından, aşağıda yer alan hükümler çerçevesinde doldurulur:
+a) Belgeler, Taraf Ülkelerin İngilizce dahil resmî dillerinden birinde ihracatçı ülkenin ulusal mevzuat hükümleri çerçevesinde doldurulur.
+b) Belge üzerinde silinti ve birbiri üzerine yazılmış sözcük ve ilaveler bulunamaz; değişiklikler doğru olmayan kayıtların üzeri çizilerek gerekli düzeltmelerin eklenmesi suretiyle yapılır. Bu şekilde yapılan düzeltmelerin belgeyi düzenleyen kişi tarafından imzalanması ve gümrük idaresi tarafından tasdik edilmesi gerekir.
+c) Menşe İspat Belgesinde bulunması zorunlu bilgilerin beyan edilmesi zorunludur. Bu alanlar ihracatçılar veya onun sorumluluğu altında gümrük beyannamesini imzalamaya yetkili kanuni temsilcileri tarafından eksiksiz doldurulur. Belgelerde kayıtlı eşyanın, tanınmalarına olanak verecek kesinlikte ve ticari deyimleri ile hiçbir tereddüde yer vermeyecek açıklıkta cins, nevi, nitelik ve miktar olarak ayrıntılı bir biçimde beyan edilir.
+ç) Eşyanın menşe ülkesi belgenin (3) numaralı kutusunda belirtilir.
+d) Belgeler, ulusal uygulamadaki istisnalar çerçevesinde, elektronik sistem üzerinden veya elle doldurulabilir. Elle doldurulmaları halinde;
+1) Mürekkepli kalem ve matbaa harfleri kullanılır. Eşyanın tanımı, Menşe İspat Belgesinin (7) numaralı kutusunda boş satır bırakılmaksızın yapılmalıdır. Eğer kutunun tamamı dolmaz ise tanımın son satırının altına bir yatay çizgi çekilerek boş alan çapraz bir çizgi ile kapatılır.
+2) Belgelerde kayıtlı her bir maddeye sıra numarası verilir ve madde aralarında boşluk bırakılmaz. Son kaydın hemen altına sonradan bir ilave yapılmasını önlemek üzere yatay bir çizgi çekilerek kullanılmayan yerler çapraz bir çizgiyle iptal edilir.

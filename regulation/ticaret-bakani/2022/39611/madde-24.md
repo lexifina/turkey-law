@@ -1,0 +1,6 @@
+Menşe İspat Belgesinin değiştirilmesi
+MADDE 24- (1) Menşeli ürünler gümrük idaresinin kontrolü altında iken ürünün tamamının veya bir bölümünün Türkiye içinde başka bir yere gönderilmesi gerektiği durumda, gönderilecek kısım için asıl belge yerine geçmek üzere bir veya birden çok müfrez Menşe İspat Belgesi düzenlenir ve durum, esas Menşe İspat Belgesi üzerine kayıt düşülür.
+a) Müfrez Menşe İspat Belgesi düzenlenme talebi eşyayı kontrol altında bulunduran gümrük idaresine yazılı olarak yapılır. İlgili idare tarafından gerekli her türlü inceleme yapılarak bu Yönetmelik hükümlerine uygun olması halinde talep yerine getirilir.
+b) Düzenlenen müfrez belge Yönetmelik hükümlerinin uygulanmasında Menşe İspat Belgesi olarak kabul edilir.
+c) Esas Menşe İspat Belgesinin tarih ve seri numarası müfrez belgenin veya belgelerin (6) numaralı "Gözlemler" kutusuna yazılır, aslına ve tüm nüshalarına "MÜFREZ BELGEDİR" kaşesi basılır.
+(2) Bir Taraf Ülkenin gümrük idaresinin kontrolü altında bulunan gümrük antrepolarına ithal edilen veya konulan Taraf Ülkelerden biri menşeli ürünlerin tamamının veya bir kısmının diğer bir Taraf Ülkeye gönderilmesi halinde, ürünleri kontrolü altında tutan gümrük idareleri veya yetkili idarelerince yeni bir Menşe İspat Belgesi düzenlenir. Bu durumda menşe ülkesi Menşe İspat Belgesinin (3) numaralı kutusuna dercedilir.

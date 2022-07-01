@@ -1,0 +1,5 @@
+İkinci nüsha Menşe İspat Belgesi düzenlenmesi
+MADDE 23- (1) Menşe İspat Belgesinin çalınması, kaybedilmesi veya hasar görmesi hallerinde ihracatçı veya gümrük beyannamelerini imzalamaya yetkili kanuni temsilcisi elektronik sistem üzerinden, ilk belgeyi düzenleyen gümrük idaresi veya Bakanlıkça yetkilendirilen kişi veya kuruluşun belgenin ikinci nüshasını onaylamasını talep edebilir.
+(2) Gümrük idareleri veya Bakanlıkça yetkilendirilen kuruluşlar, kendilerinde bulunan ve ihraç işlemi yapılmış olan eşyaya ait belgelere ve ilk belgeye uygun olarak düzenlendiğini tespit ettikten sonra, ikinci nüsha Menşe İspat Belgesini onaylar.
+(3) İkinci nüsha belgenin (11) numaralı gümrük vizesi kutusuna vize tarihi olarak hüküm ifade etmek üzere, ilk menşe ispat belgesinin onay tarihi ve seri numarası yazılır.
+(4) İkinci nüsha olarak düzenlenen belgenin (6) numaralı “Gözlemler” başlıklı kutusuna, belgenin ikinci nüsha olduğunu belirtmek üzere İngilizce “DUPLICATE” ifadesi veya bu ifadenin Taraf Ülkeler resmi dillerindeki uyarlaması yazılır.

@@ -1,0 +1,5 @@
+Sonradan kontrol talebi
+MADDE 33- (1) İthalatçı ülke yetkili idareleri, Menşe İspat Belgesinin sonradan kontrolünü talep edebilir.
+(2) İthalatçı ülke yetkili idaresi, ihracatçı ülke yetkili idaresince verilen Menşe İspat Belgesinin gerçekliği veya eşyanın gerçek menşeine ilişkin bilgilerin doğruluğu hakkında makul bir şüphesi olduğunda veya sondaj usulü ile yapacağı kontrol sonucunda anılan belgeleri sonradan kontrol talebi ile vizeyi yapan ihracatçı ülke yetkili idaresine geri gönderir.
+(3) İthalatçı ülke yetkili idareleri Menşe İspat Belgesi ve faturayı yahut bu belgelerin birer kopyasını, gerektiğinde araştırmanın gerekçelerini de belirterek ihracatçı ülkenin yetkili idarelerine geri gönderir. Menşe İspat Belgesinde yer alan bilgilerin doğru olmadığı kanaatini uyandıran elde edilmiş tüm belge ve bilgi, kontrol talebini desteklemek üzere gönderilir.
+(4) Sonradan kontrol işlemleri veya eldeki başka bilgilerden bu Yönetmelik hükümlerinin ihlal edildiğinin anlaşılması durumunda gümrük idaresi, resen veya Taraf Ülkenin talebi üzerine inceleme yapar ya da bu tür bir ihlalin belirlenmesi ve önlenmesine yönelik olarak ivedi bir inceleme başlatır.

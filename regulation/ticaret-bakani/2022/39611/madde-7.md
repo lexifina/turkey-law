@@ -1,0 +1,3 @@
+Yeterli işçilik veya işlem görmüş ürünler
+MADDE 7- (1) Bir Taraf Ülkede elde edilen ürünler, imalatlarında kullanılan menşeli olmayan girdilerin kıymetinin, ürünün fabrika çıkış fiyatının yüzde 60’ını aşmaması kaydıyla, 5 inci madde hükümleri kapsamında, yeterli derecede işçilik veya işlem görmüş olarak kabul edilir.
+(2) En az gelişmiş ülkeler kategorisinde yer alan Taraf Ülkeler, bu Yönetmeliğin uygulanmaya başlandığı tarihten itibaren beş yıl boyunca ürünlerin imalatında yüzde 70 oranında menşeli olmayan girdi kullandığı takdirde, nihai ürün yeterli işçilik veya işlem görmüş olarak kabul edilir.

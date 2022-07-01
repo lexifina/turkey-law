@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Menşe İspat Belgesinin Sonradan Verilmesi, İkinci Nüsha
+Düzenlenmesi ve Değiştirilmesi
+Menşe İspat Belgesinin sonradan verilmesi
+MADDE 22- (1) 21 inci madde hükümlerine istisna olarak, Menşe İspat Belgesi; hata, istenmeyerek yapılan ihmal veya özel durumlar nedeniyle ihraç anında düzenlenmemiş olması veya belgenin düzenlenmiş, ancak teknik nedenlerle ithalatta kabul edilmemiş olduğu hususunun gümrük idarelerine veya Bakanlıkça yetkilendirilen kuruluşlara tatmin edici bir şekilde ispat edilmesi halinde, ürünün sevkiyat tarihinden itibaren altı ayı geçmemek kaydıyla sonradan düzenlenebilir.
+(2) Birinci fıkrada belirtilen durumlarda ihracatçı söz konusu eşya için ihraç sırasında Menşe İspat Belgesi verilmediğini veya Menşe İspat Belgesinin Taraf Ülke yetkili idarelerince teknik nedenlerle kabul edilmediğini sebepleri ile birlikte yazılı olarak beyan eder. İhracatçının elektronik sistem üzerinden yaptığı talep ilgili gümrük idareleri ve Bakanlıkça yetkilendirilen kuruluşlar tarafından incelenir. Söz konusu ihraç eşyasına ait gümrük beyannamesi ve ekleri diğer evrak ile varsa bu işleme dair dosyaların incelenmesi ve kontrolü sonucunda, ihracatçının talebinin tamamen uygun olduğu anlaşıldığı takdirde Menşe İspat Belgesi vize edilerek onaylanır.
+(3) İhracattan sonra verilen Menşe İspat Belgesinin (6) numaralı “Gözlemler” başlıklı kutusuna, belgenin sonradan verildiğini belirtmek üzere İngilizce “ISSUED RETROSPECTIVELY” ifadesi veya bu ifadenin Taraf Ülkelerin resmi dillerindeki uyarlaması yazılır.
