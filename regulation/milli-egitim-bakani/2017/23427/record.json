@@ -1,0 +1,48 @@
+{
+  "source_id": "7.5.23427",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "FATİH PROJESİ KAPSAMINDA YAPILACAK MAL VE HİZMET ALIMLARI İLE YAPIM İŞLERİNE DAİR YÖNETMELİK",
+  "number": "23427",
+  "issuer": "Millî Eğitim Bakanı",
+  "issuer_slug": "milli-egitim-bakani",
+  "path": "regulation/milli-egitim-bakani/2017/23427",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23427&MevzuatTertip=5",
+  "source_sha256": "97d98fcb209bf05b9ad772ba783c332a6c6f588f3e9cc5b4a5b2890c9ac36dea",
+  "source_bytes": 117992,
+  "published": "2017-03-21",
+  "gazette": "30014",
+  "in_force": "2022-07-01",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-1/7/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-07-01",
+      "RG-1/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-01",
+      "1/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-07-07",
+      "RG-7/7/2018",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6904,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
