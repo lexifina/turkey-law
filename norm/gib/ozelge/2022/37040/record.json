@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "66813766-175.01[8-2022/8]-355712",
+  "source_id": 37040,
+  "date": "2022-07-01",
+  "title": "Yetim Aylığı Dışında Nafaka Gelirininde Bulunması Halinde İndirimli Emlak Vergisi Oranı Uygulamasından Yararlanıp Yararlanılmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37040",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "519693f921f08ac805f4a29c4d8ed53f741f34b73cc98901cc8b147aa0859ad8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
