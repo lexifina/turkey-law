@@ -1,0 +1,22 @@
+Faaliyet alanları
+MADDE 6 – (1) Merkez bu Yönetmeliğin 5 inci maddesinde belirtilen amaçlarını gerçekleştirmek üzere aşağıda belirtilen faaliyetlerde bulunur:
+a) Kıkırdak ve doku araştırmaları konusunda kas iskelet, biyomekanik, immünoloji, biyokimya, moleküler biyoloji, biyomedikal mühendisliği, biyoteknoloji, rejeneratif tıp, nanotıp, doku mühendisliği, farmakovijilans, etik, gen tedavisi, hücre tedavisi, kök hücre tedavisi, tıbbi cihaz konularını içeren tüm ileri tedavi alanlarında ileri seviyede araştırma ve klinik uygulama alt yapısı oluşturmak,
+b) Kıkırdak ve doku hastalıkları alanında erken tanı ve tedaviye yönelik teknolojik çalışmalarda bulunmak,
+c) Merkezin işlevsel alanlarında biyogüvenlik ve biyoetik kurallarını uygulamak,
+ç) Kıkırdak ve doku araştırmaları alanında, GLP (Good Laboratory Practice), GCP (Good Clinical Practice) ve GMP (Good Medical Practice) klavuzlarına uygun şekilde, hücre ve doku alımı, üretimi, testi, işlenmesi, saklanması, depolanması ve dağıtımı, beşeri tıbbi ürün oluşturulması ve elde edilen ileri tedavi tıbbi ürünün kalite ve güvenliği ve mevcut cerrahi yöntemlere alternatif olarak klinik kullanılabilirliği üzerinde araştırma ve çalışmalar yapmak,
+d) İleri tedavi tıbbi ürünün güvenilirliğini görüntüleyebilmek için gerek ürünün gerekse başlangıç materyallerinin yanı sıra hastanın tam izlenebilirliğine izin veren sistemler kurmak,
+e) Elde edilen beşeri tıbbi ürünleri klinikte kullanılabilir ticari ürünler haline dönüştürmek,
+f) Üniversite bünyesinde mevcut araştırma laboratuvarları, araştırma-uygulama merkezleri ve hücre ve doku mühendisliği alanında benzer birimler arasındaki ilişkileri koordine etmek, geliştirmek ve kuvvetlendirmek, bunların Ar-Ge imkanlarının birimlerarası kullanıma açılmasını sağlamak,
+g) Kıkırdak ve doku araştırmaları alanında yurt içi ve yurt dışı araştırma birimleri arasında bilimsel, teknolojik ve eğitsel alanlarda işbirliğini oluşturmak,
+ğ) Türkiye'de ilgili alanda farklı yerlerde birbirinden bağımsız olarak yürütülen Ar-Ge çalışmalarını bir çatı altında toplayarak ulusal ve uluslararası ortak projeler üretmek, projelere önderlik etmek ve Türkiye'nin ulusal ve uluslararası bilimsel ve ticari rekabet gücüne katkıda bulunmak,
+h) Araştırma sonuçlarının uygulanmasına yardımcı olmak, araştırma sonuçlarını ve ürünleri endüstriye duyurmak, gerektiğinde uygulama planları yapmak, yeni bir malzeme, mamul veya prosesin üretim aşamasına geçmesi için zorunlu teçhizat, sistem ve spesifikasyonları tespit etmek, pilot tesisler kurmak,
+ı) İmalat ve işletmede karşılaşılan teknolojik güçlükler konularında danışmanlık yapmak, proses, malzeme ve mamullerindeki kusurların sebeplerinin giderilmesine, malzeme ve mamullerinin spesifikasyonlarının tespit ve kontrolüne, programlama ve bilgi işlem çalışmalarına yardımcı olmak,
+i) Yurt dışında ve yurt içinde yürütülen araştırma ve tedavileri takip etmek,
+j) Kıkırdak ve doku araştırmaları alanında, laboratuvardan hastaya uzanan sürecin her basamağındaki farklı disiplinlerdeki mevcut bilgi birikimini üniversite, kamu ve sanayi işbirliği çerçevesinde topluma ulaştırmak,
+k) Merkezin çalışma alanına giren konularda kurs, seminer, sempozyum, kongre, konferans gibi ulusal ve uluslararası bilimsel toplantılar düzenlemek,
+l) Merkezin ihtiyacı olan nitelikli elemanların yurt içinde ve dışında yetiştirilmesine yönelik çalışmalar yapmak,
+m) Temel, uygulamalı ve klinik bilimler alanında ün yapmış araştırıcıların Merkez bünyesinde istihdam edilmesine yönelik çalışmalar yapmak,
+n) Öğrencilere akademik eğitim verip bilimsel ve teknolojik çalışmalar yapmasını sağlayarak ülkemize nitelikli bilim insanı kazandırmak,
+o) İleri artroskopik uygulamalar ve açık cerrahi tekniklere yönelik teorik ve kadavra üzerinde pratik uygulamalı kurslar düzenlenleyerek yurt içi ve dışından ortopedi ve travmatoloji alanında halen uzmanlık eğitimi almakta olan uzmanlık öğrencilerinin ve ortopedi uzman hekimlerinin klinik mesleki gelişimine katkıda bulunmak,
+ö) Merkez olanakları ile yapılan araştırmalara ilişkin sonuçları yaymak ve Üniversite birimlerinde görevli öğretim elemanlarına ait makalelerin Science Citation Index-exp. giren dergilerde yayımlanmasını teşvik etmek ve teşvik esaslarını belirlemek,
+p) Merkezin kuruluş amacına, Yükseköğretim Kanununun amaç ve ilkelerine uygun, Yönetim Kurulunun kararlaştıracağı diğer faaliyetlerde bulunmak.
