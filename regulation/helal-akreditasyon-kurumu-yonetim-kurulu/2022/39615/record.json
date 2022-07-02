@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39615",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "HELAL AKREDİTASYON KURUMU DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39615",
+  "issuer": "Helal Akreditasyon Kurumu Yönetim Kurulu",
+  "issuer_slug": "helal-akreditasyon-kurumu-yonetim-kurulu",
+  "path": "regulation/helal-akreditasyon-kurumu-yonetim-kurulu/2022/39615",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39615&MevzuatTertip=5",
+  "source_sha256": "a85d98c31f91eb462ecc80da59fe10f2c61dd181bd9be494ab8e7042f27d0618",
+  "source_bytes": 15152,
+  "published": "2022-07-02",
+  "gazette": "31884",
+  "in_force": "2022-07-02",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (02.07.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 156,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39615-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
