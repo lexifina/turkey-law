@@ -1,0 +1,64 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2016-07-13",
+      "13.07.2016",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-07-02",
+      "RG-2/7/2022-31884",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-02",
+      "RG-2/7/2022-31884",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-02",
+      "RG-2/7/2022-31884",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-02",
+      "RG-2/7/2022-31884",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-02",
+      "2/7/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-2/7/2022-31884",
+  "first_law": null,
+  "gazette": "29769",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-02",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2016/22656",
+  "published": "2016-07-13",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=22656&MevzuatTertip=5",
+  "source_bytes": 36552,
+  "source_id": "8.5.22656",
+  "source_sha256": "fabd10a00407aaa358c8e27c7707e7c8cb3d87895e9b6fec097cd0c11d23dbfa",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ AVRUPA ÇALIŞMALARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1320
+}
