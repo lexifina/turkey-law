@@ -1,0 +1,3 @@
+Madde 11 —Yaz öğretiminde geçen süre, eğitim-öğretim süresinden sayılmaz.
+Yaz döneminde aldıkları ve başardıkları derslerle mezuniyet hakkı kazanan önlisans / lisans öğrencilerinin mezuniyetleri gerçekleştirilir. Ayrıca, önlisans / lisans öğretimi sırasında ek süre hakkı elde ettikleri ders ya da dersleri, yaz döneminde alıp başarılı olan öğrenciler mezuniyet için gereken şartları sağlamış sayılırlar.
+(Ek fıkra:RG-29/5/2017-30080) (Değişik üçüncü fıkra:RG-5/9/2021-31589) Yaz öğretiminden sonra yapılacak tek ders ve ortalama yükseltme sınavlarına, sadece yaz öğretimine kayıt olan öğrenciler başvurabilirler.

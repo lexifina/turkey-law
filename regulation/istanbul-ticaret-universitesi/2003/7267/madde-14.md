@@ -1,0 +1,1 @@
+Madde 14 —İstanbul Ticaret Üniversitesi yaz öğretimi ücretli olup, burslu öğrenciler dahil öğrencilerden alınacak ve dersi veren öğretim elemanlarına ödenecek ücretler, Mütevelli Heyeti tarafından belirlenir.

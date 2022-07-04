@@ -1,0 +1,1 @@
+Madde 13 —İstanbul Ticaret Üniversitesi yaz öğretimi’ne İstanbul Ticaret Üniversitesi dışından kayıt yaptıran diğer öğrencilere, yaz öğretimi’nin süresini, başardıkları derslerin adını, birim saatini ve başarı notunu gösteren bir belge verilir.
