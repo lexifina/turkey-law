@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18– (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2018-01-02",
+      "02.01.2018",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-07-04",
+      "RG-4/7/2022-31886",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-04",
+      "RG-4/7/2022-31886",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ],
+    [
+      "2022-07-04",
+      "4/7/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-4/7/2022-31886",
+  "first_law": null,
+  "gazette": "30289",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-04",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2018/24242",
+  "published": "2018-01-02",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=24242&MevzuatTertip=5",
+  "source_bytes": 47839,
+  "source_id": "8.5.24242",
+  "source_sha256": "c512c8da899e0c311edb35a97e1176539a2debfd18aa7cb9ef8e63ebd93b466d",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ MERKEZ ARAŞTIRMA\r\nLABORATUVARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1935
+}
