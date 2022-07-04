@@ -1,0 +1,6 @@
+Yetenek sınavları ve kesin kayıt
+MADDE 8 – (1) (Değişik:RG-2/8/2013-28726) Adayların Konservatuvara ön kayıtları ve yerleştirilmeleri Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından ÖSYS kılavuzunda belirlenen yerleştirme puanlarına göre yapılır. Konservatuvara ön kayıt yaptıran adayların kesin kayıt yaptırabilmeleri için, Konservatuvar Yönetim Kurulunca oluşturulan komisyonlarca yapılan özel yetenek sınavından başarılı olmaları gerekir.
+(2) (Değişik:RG-30/7/2012-28369) Adaylar, aynı sınav döneminde en çok iki ayrı ana sanat dalının sınavlarına girebilir. İki ayrı anasanat dalının özel yetenek sınavlarında başarılı olan adaylar, bunlardan ancak birine kesin kayıt yaptırabilirler.
+(3) (Değişik:RG-2/8/2013-28726) Özel yetenek sınavı puanı ile ilgili Senatoca belirlenen esaslar uygulanır. Özel yetenek sınavını kazanan adaylar yerleştirme puanlarına göre asil ve yedek olarak listelenir. Asil adaylardan açık kalan kontenjanlara yedek listesindeki adayların puan sıralamasına göre kesin kayıtları yapılır.
+(4) (Değişik:RG-2/8/2013-28726) Adayların kesin kayıt işlemleri Konservatuvarın öğrenci işleri kayıt bürosu tarafından yapılır.
+(5) İlan edilen gün ve saatte yetenek sınavlarına girmeyen, süresi içinde kayıtlarını yaptırmayan, ön kayıt ve kesin kayıt için istenen belgeleri süresi içinde sağlayamayan adaylar, o yıl için haklarını kaybeder.

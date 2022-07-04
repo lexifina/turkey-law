@@ -1,0 +1,2 @@
+Kayıt yenileme
+MADDE 10 – (1) Öğrenciler, her dönem başında ve akademik takvimde gösterilen tarihlerde, bir önceki dönem başarı durumlarına göre ve bu Yönetmelik çerçevesinde kayıtlarını yenilemek zorundadır. Dönem başında ilan edilen tarihlerde öğrenci katkı payını yatırmayan ve kaydını yenilemeyen öğrenciler, o dönemin derslerine devam edemez ve sınavlarına giremez. Bu suretle kaybedilen süre öğrenim süresinden sayılır.

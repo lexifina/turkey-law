@@ -1,0 +1,3 @@
+Öğrenci kabul ve kayıt koşulları
+MADDE 6 – (Değişik:RG-26/5/2011-27945)
+(1) Konservatuvara, Ölçme, Seçme ve Yerleştirme Merkezinin kayıt ve kabul koşullarını taşıyan adaylar ile konservatuvarların lise mezunlarından başvuranlar arasından yetenek sınavı sonuçlarına göre öğrenci kabul edilir. Ön kayıt ve yetenek sınavlarının yürütülmesine ilişkin esaslar, sanat dallarına göre adaylarda aranacak genel ve özel koşullar, ön kayıt ve kesin kayıt sırasında adaylardan istenecek belgeler, Senato tarafından belirlenir. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır.
