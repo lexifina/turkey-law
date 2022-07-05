@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "543",
+  "decision_date": "2022-07-05",
+  "source_id": 36070,
+  "chamber": "5",
+  "ilam_number": "112",
+  "item_number": 29,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36070/",
+  "source_sha256": "5b4c2b7c23a555578f8ebb53adc2bb8a940554b6608e185e2a5cf783df6efc1c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
