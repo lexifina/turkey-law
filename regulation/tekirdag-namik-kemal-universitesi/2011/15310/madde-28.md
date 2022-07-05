@@ -1,0 +1,6 @@
+Mezuniyet diploma ve diploma eki
+MADDE 28 – (1) Öğretim programlarındaki öğrenimlerini tamamlayan ve ilgili yönetim kurulu tarafından mezuniyetlerine karar verilen öğrencilere, birim ve bölüm veya program adı açıklanmak suretiyle önlisans/lisans diploması verilir. Diplomalar, Rektör ile ilgili Dekan veya Müdür tarafından imzalanır. Diplomalar hazırlanıncaya kadar öğrencilere geçici mezuniyet belgesi verilir. Bu belge, diploma verilirken geri alınır ve herhangi bir nedenle yenisi verilmez.
+(2) Önlisans/lisans öğrenimini tamamlayan ve genel ağırlıklı not ortalaması 3.00 ile 3.49 arasında olan öğrenciler onur öğrencisi; ortalaması 3.50 veya üstü olan öğrenciler ise yüksek onur öğrencisi olarak mezun olurlar. Verilen bir diplomanın kaybedilmesi halinde ilgili mevzuat uyarınca bir ikinci nüsha hazırlanır. Diplomada başarı derecesi belirtilmez, sadece öğrencinin başarılı olduğu yazılır. Gerektiğinde diploma derecesi GNO hesaplanarak belirlenebilir.
+(3) Mezuniyet ve diploma ile ilgili diğer hususlarda Senato tarafından onaylanan Diploma Yönergesi hükümleri uygulanır.
+(4) Öğrencilere diplomayla birlikte içeriği Senato tarafından belirlenen ingilizce diploma eki verilir.
+(5) (Ek:RG-5/7/2022-31887)(7) Lisans programlarında en az 240 AKTS, önlisans programlarında en az 120 AKTS krediyi tamamlamış olmaları gerekir.

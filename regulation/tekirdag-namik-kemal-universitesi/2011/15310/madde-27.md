@@ -1,0 +1,2 @@
+Bitirme çalışması
+MADDE 27 – (1) İlgili yönetim kurulu kararıyla mezun olacak öğrenciye, öğrenim süresi içinde bitirme çalışması adı altında çalışmalar yaptırılabilir. Bu çalışmanın esasları, ilgili kurullarca kabul edilerek, Senato tarafından belirlenir. Eğitim ve öğretimin belirli oranda yabancı dille yürütülerek tamamlanması gereken programlarda, öğrencinin istemesi ve bitirme çalışması yürütücüsünün uygun görmesi durumunda, bitirme çalışması yabancı dilde hazırlanabilir.

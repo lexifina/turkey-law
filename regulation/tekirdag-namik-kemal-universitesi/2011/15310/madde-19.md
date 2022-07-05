@@ -1,0 +1,3 @@
+Ders tekrarı
+MADDE 19 – (1) Bir dersten FF, FD, DD, DZ ve BZ notu alan veya dersi normal yarıyılında almayan öğrenciler, bu dersi tekrar verildiği ilk yarıyılda almak zorundadır. Bu dersler seçmeli dersler ise öğrenciler, bunların yerine başka bir seçmeli ders alabilir.
+(2) (Değişik:RG-13/7/2015-29415) (4) Öğrenciler DB, CC, CB, BB, BA notları ile başarılı oldukları dersleri not yükseltmek için tekrarlayabilirler. Tekrarlanan derste önceki not ne olursa olsun, alınan son not geçerlidir. Ders tekrarı durumundaki öğrencilerin bir yarıyılda alabilecekleri kredi toplamının, ortak zorunlu dersler hariç bu Yönetmeliğin 15 inci maddesinde belirtilen üst sınırı aşmaması gerekir.

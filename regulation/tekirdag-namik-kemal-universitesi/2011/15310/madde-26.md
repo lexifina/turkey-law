@@ -1,0 +1,2 @@
+Stajlar
+MADDE 26 – (1) Öğretim programlarının özelliklerine göre zorunlu görülecek meslek stajlarına ilişkin esaslar, ilgili kurul tarafından belirlenir ve Senato tarafından onaylanır. Tüm ders ve uygulama yükümlülüklerini tamamladığı halde, stajını eksik yapan veya yaptığı stajda başarısız görülen öğrenciler, stajlarını tamamlayana kadar mezun olamaz ve her kayıt döneminde kayıtlarını yenilemek zorundadır.

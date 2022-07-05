@@ -1,0 +1,10 @@
+İlişik kesme ve kayıt alma
+MADDE 29 – (1) Öğrencilerin kayıt alma ve Üniversite ile ilişiklerinin kesilme halleri aşağıda belirtilmiştir.
+a) Üniversiteden çıkarma cezası almış olmak,
+b) Üniversiteye kayıt sırasında, sahte veya yanlış bilgi ve belge verdikleri sonradan anlaşılan öğrencilerin, bulundukları yarıyıla bakılmadan, ilgili yönetim kurulu kararı ile Üniversite ile ilişiği kesilir. Söz konusu öğrenciler, Üniversiteden ayrılmışlarsa, kendilerine verilen diploma dahil belgelerin tümü iptal edilir ve haklarında kanuni işlem yapılır.
+c) Kendi isteği ile Üniversiteden ayrılacak öğrenciler, öğrenim gördükleri yükseköğretim kurumuna yazılı olarak başvurur. Başvuru üzerine kaydı silinen öğrenciye, istemesi halinde fakülte veya yüksekokuldaki öğrenim durumunu gösteren bir belge ile kayıt sırasında fakülte veya yüksekokula teslim ettiği diploması geri verilir.
+ç) (Ek:RG-17/8/2016-29804)(5) Öğrencinin öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfını iki yıl içinde başarı ile tamamlayamaması halinde ilgili yönetim kurulu kararı ile kaydı silinir.
+d) (Ek:RG-17/8/2016-29804)(5) Dört yıl üst üste katkı payı veya öğrenim ücretinin ödenmemesi nedeniyle kaydın yenilenmemesinden dolayı, ilgili birimin yönetim kurulu ile Üniversite Senatosunun kararı ve Yükseköğretim Kurulunun onayı ile öğrencilerin Üniversite ile ilişiği kesilebilir.
+e) (Ek:RG-17/8/2016-29804)(5) Azami öğrenim süresi sonunda, hiç almadığı ve/veya alıp da devam koşulunu yerine getirmediği ders sayısı altı ve üzerinde olan öğrencilerin Üniversite ile ilişiği kesilir.
+f) (Ek:RG-17/8/2016-29804)(5) Ek sınavlar sonunda hiç almadığı ve alıp da devamı sağlanmayan dersler de dahil olmak üzere başarısız ders sayısını 5 ve altına indiremeyen öğrencilerin Üniversite ile ilişiği kesilir.
+g) (Ek:RG-17/8/2016-29804)(5) Verilen ek süreler sonunda; mezuniyet için devam yükümlülüğü yerine getirilememiş bir dersi kalan veya devam yükümlülükleri yerine getirilmiş olsa dahi birden fazla başarısız dersi olan öğrencilerin Üniversite ile ilişiği kesilir.

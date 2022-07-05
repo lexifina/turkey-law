@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 33 – (1) 25/2/2007 tarihli ve 26445 sayılı Resmî Gazete’de yayımlanan Namık Kemal Üniversitesi Meslek Yüksekokulları Eğitim-Öğretim ve Sınav Yönetmeliği, 2/4/2007 tarih ve 26481 sayılı Resmî Gazete’de yayımlanan Namık Kemal Üniversitesi Sağlık Yüksekokulları Eğitim-Öğretim ve Sınav Yönetmeliği ve 2/4/2007 tarih ve 26481 sayılı Resmî Gazete’de yayımlanan Namık Kemal Üniversitesi Lisans Eğitim-Öğretim ve Sınav Yönetmeliği yürürlükten kaldırılmıştır.

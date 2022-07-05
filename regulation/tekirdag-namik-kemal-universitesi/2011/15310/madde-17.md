@@ -1,0 +1,2 @@
+Sınav sonuçlarının ilanı
+MADDE 17 – (1) Sınav sonuçları en geç sınav tarihini izleyen bir hafta içinde öğretim elemanınca öğrenci işleri otomasyonuna kaydedilerek duyurulmuş olur. Ayrıca, sınav evrakı ve dersin not çizelgesi öğretim elemanınca imzalanarak dekanlığa/müdürlüğe teslim edilir. Sınav evrakının saklanması, ilgili dekanlık veya müdürlük tarafından sağlanır. Sınav evraklarının saklanma süresi iki yıldır.
