@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-21152195-130[4823]-361003",
+  "source_id": 32135,
+  "date": "2022-07-05",
+  "title": "Kedi köpek tülü (pet mesh) isimli eşyanın KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32135",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "b8869e5e8e1b360fd7faa240e014231cba1f2e6b39e0e67765d659987f06836a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
