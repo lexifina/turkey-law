@@ -1,0 +1,22 @@
+{
+  "number": "127",
+  "number_as_published": "2022/127",
+  "year": 2022,
+  "title": "Hibe Asfalt",
+  "decision_date": "2022-07-05",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-temmuz-ayi-meclis-kararlari/2296",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-127/2299",
+  "source_sha256": "c4a0400728525de2c03f562cb229415bacebc6acefc91b2a0b0e24597ab02824",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-07-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05.07.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "56330efb15e64bcb6fab79c4bf834fb251aca54444e5797ebfacd13dc7c6689f"
+}
