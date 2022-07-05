@@ -1,0 +1,53 @@
+Atama
+
+Evlendirme memuru kadrosunda çalışan ….’ın Kanun ve Yönetmeliğe aykırı olarak şef kadrosuna atanması sonucunda …. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+657 sayılı Devlet Memurları Kanununun 68’inci maddesinin B fıkrasında, kurumların 1 ve 2’nci dereceli kadrolar için en az 10 yıl, 3 ve 4’üncü dereceli kadrolar için en az 8 yıl hizmeti bulunan ve yükseköğrenim görenlerin atanabileceği belirtilmiştir.
+
+18.04.1999 gün ve 23670 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren Kamu Kurum ve Kuruluşlarında Görevde Yükselme ve Unvan Değişikliği Esaslarına Dair Genel Yönetmeliğin 2’nci maddesinde,  bu Yönetmeliğin belediyeler ile bunların kurdukları birlik, müessese ve işletmelere ait memur kadrolarında, müdür ve daha alt görevlere görevde yükselme mahiyetindeki asaleten atanmalarında uygulanacağı, “Görevde Yükselmeye İlişkin Esaslar” başlıklı ikinci bölümünün “Öğrenim düzeyi” başlıklı 5’inci maddesinde, Devlet memurlarının Müdür ve Şube Müdürlüğüne atanabilmesi için en az dört yıllık yükseköğrenim, şef kadrosuna atanabilmesi için en az iki yıllık yükseköğrenim görmüş olmaları gerektiği, 11 inci maddesinde görevde yükselme eğitiminde başarılı olanların bu Yönetmelik kapsamında bulunan görevlere atanabilmeleri için kurumlarınca çıkarılacak görevde yükselme yönetmeliğine uygun olarak yapılacak sınava katılarak başarılı bulunmalarının şart olduğu, kurumların bu yönetmelik hükümlerine aykırı olmamak şartıyla kendi yönetmeliklerini çıkarabilecekleri düzenlenmiştir. Mahalli idarelerle ilgili ilk yönetmelik 02.02.2000 günlü, 23952 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren “İl Özel İdareleri,  Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmeliktir.” Bu yönetmeliğin iptaline ilişkin Danıştay … Dairesinin …. Esas …. sayılı kararında, yapılan düzenlemenin hukuka uygun olduğuna ve uyulması gereken norm olduğuna karar verilmiştir.  İdari yargı  (Danıştay) denetiminden geçen yönetmeliğe uygun olarak atamaların yapılması gerekir.
+
+02.02.2000 gün ve 23952 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren ve atamanın yapıldığı yılda yürürlükte olan İl Özel İdareleri, Belediyeler ve İl Özel İdareleri ve Belediyelerin Kurdukları Birlik, Müessese ve İşletmeler ile Bunlara Bağlı Döner Sermayeli Kuruluşlardaki Memurların Görevde Yükselme Esaslarına Dair Yönetmeliğin “Hizmet grupları” başlıklı 5’inci maddesinde, a) Yönetim Hizmetleri Grubu; 1) İlçe özel idare müdürü, birlik müdürü, itfaiye müdürü, zabıta müdürü ile diğer unvanlı ve unvansız müdürler 2) Zabıta müdür yardımcısı, itfaiye müdür yardımcısı ile diğer unvanlı ve unvansız müdür yardımcıları 3) Muhasip, muhasebeci, başkatip, ayniyat saymanı, işletme saymanı, döner sermaye saymanı, şef, amirden oluştuğu, 9 uncu maddesinin ilk cümlesinde, Eğitimini tamamlayanların bu Yönetmelik kapsamında bulunan görevlere atanabilmeleri için kurumlarınca yaptırılacak sınava katılarak başarılı olmalarının şart olduğu, “Öğrenim düzeyi” başlıklı 14’üncü maddesinde,
+
+“Bu Yönetmeliğe tabi personelde öğretim düzeyi ile ilgili olarak;
+
+c) Muhasip, muhasebeci, başkatip, ayniyat saymanı, işletme saymanı, döner sermaye saymanı, şef ve amirler için en az iki yıllık yüksek okul mezunu olmak,”
+
+düzenlemeleri yapıldıktan sonra “Hizmete ilişkin özel şartlar” başlıklı 15 inci maddesinde ise hizmet süresi ile ilgili belirlemeler yapılmıştır. Yönetmeliğin Geçici 1 inci maddesinde ise, “İhtiyaç duyulan hallerde bu Yönetmelik kapsamında bulunan personelden 18/4/1999 tarihinde görevde bulunanlar için bu Yönetmelikte öngörülen öğrenim düzeyinin bir alt öğrenim düzeyi esas alınabilir.” denilmiştir.
+
+Yukarıdaki düzenlemelere göre kişinin şef kadrosuna atanabilmesi için en az iki yıllık yükseköğrenim mezunu olması, belirli görevlerde belirli sürede bulunması ve yazılı sınavda başarılı olması gerekir.
+
+….’ın hizmet cetvelinin incelenmesinde, …. tarihinde açıktan bando memuru kadrosuna, …. zabıta memurluğuna, …. tarihinde memur kadrosuna, …. tarihinde evlendirme memuru kadrosuna, … tarihinde sınava girmeden 4 dereceli şef kadrosuna atandığı ve … tarihinde ….Fakültesinin iki yıl süreli Bitkisel ve Hayvansal Üretim Bölümü Tarım Programından (önlisans) mezun olduğu görülmüştür.
+
+İdare/kamu hukukunda atama/görevlendirme belli şart ve niteliklere bağlanmıştır. Belirtilen kadrolara atanma veya görevlendirme ancak şartların sağlanmasıyla mümkündür.  Yönetmelikte en az iki yıllık yükseköğrenim mezunu olma şartı istendiği, ancak bu kişi 18.04.1999 tarihi itibariyle memur olarak çalışması ve lise mezunu olması nedeniyle Yönetmeliğin Geçici 1 inci maddesinden faydalanabilir. Bu nedenle Yönetmelikteki okul şartını sağlamaktadır. Ancak atamanın yapıldığı tarihte lise mezunu olması ve atandığı kadro derecesinin 4 olması nedeniyle 657 sayılı Kanunun 68/B maddesinde istenen yükseköğrenim şartını sağlamamaktadır. …. atamanın yapıldığı tarihte atanacağı kadro için öngörülen sınav şartı yerine getirilmeden atanmıştır.
+
+Sorumluların savunmalarında, kurum içerisinde eğitim, bilgi ve liyakat bakımından en uygun aday olunması ve bu görevi yapacak şartları uygun olan başka personel bulunmaması, kamusal işlerin yürütülmesinin ve hiyerarşik yapının sağlanmasının zorunlu olması nedeniyle görev yapılan şeflik kadrosuna atamanın yapıldığı ve bu görevinde mevzuata uygun olarak yerine getirildiği, yapılan atama işleminin açık hata olmadığı, yargı kararlarından örnekler verilerek yapılan işlemlerin ve ödemelerin geri alınamayacağı açıkça hüküm altına alındığı, kanunsuz bir yükselme işleminden sonra, idare tarafından kanunsuz yükselmenin artık geri alınmasının uygun olmadığı, hatalı ödemenin ilk yapıldığı tarihten başlamak üzere 90 günlük süre geçtikten sonra istirdat edilemeyeceği, sakat bir işlem bundan yararlanan lehine kazanılmış bir hak doğurmasa da, bunun kişiler için doğurduğu subjektif etki ve sonuçlarının korunması gerektiği, mevzuata aykırı olduğu iddia edilen atamalar nedeniyle maaş –tazminat gibi ilgilisine yapılan hatalı ödemelerin sorguda iddia edildiği gibi kamu zararı oluşturmadığı, idare tarafından yapılan atama işlemlerimde,  şartlardan bazıları eksik olsa bile atanan makamın gerektirdiği görev ve hizmeti yerine getirmek suretiyle atanan kişinin emek ve mesai harcadığı, bu hizmeti yerine getirdiğinden dolayı aldığı ücretlerin de yasal olduğu, bir kişinin angarya çalıştırılmak suretiyle emeğinin gasp edilmesinin Anayasal bir suç olduğu, asil görevin tüm sorumluluğu da taşıyarak asil müdürlük/şeflik vazifesini yapan kişinin tazminat farkının geri ödenmesinin talep edilmesi haksız bir uygulama olacağı, 2 yıllık üniversite mevzunu olması ve 30 yıllık devlet memuru olmasından ötürü …. Belediyesi şef kadrosunda olduğunu, atamaların mevzuata uygun yapılıp yapılmadığının atamayı teklif eden ilgili birim ve atamaya olur veren belediye başkanının sorumluluğunda olduğu,
+
+Sorumlu …. ortak savunmaya ek olarak verdiği savunmasında, atamanın yapıldığı …yılından itibaren …. Belediyesinin Sayıştay Başkanlığı ile İçişleri Bakanlığınca denetlendiği, bu denetimlerde ….’ın şef kadrosuna atamasının mevzuata aykırı olarak yapıldığı yönünde herhangi bir tespit bulunmadığı, atamanın yapıldığı 2008 tarihinden sonra yapılan tüm teftişlerde tespit edilememiş olmasından dolayı açık hatadan bahsedilemeyeceği,
+
+Sorumlu …. ortak savunmaya ek olarak verdiği savunmasında, …. Mahalli İdareler seçimi ile görevden ayrıldığı için bu tarihten sonrası döneme ait ödemelerle ilgili hukuki ve yasal sorumluluğunun bulunmadığı,
+
+ifade edilmiştir.
+
+Savunmalarda atamanın mevzuata uygun olduğuna dair bir ifade yer almamıştır. Sorumlularda atamanın hatalı olduğunu bilmektedirler.
+
+Savunmada yapılan ödemelerin kamu zararı olmadığı ifade edilmiş ise de, yukarıda açıklandığı üzere şartları tutmayan kişiye yapılan ödemeler kamu zararıdır. Bu kişiler mevzuata aykırı olarak atandıkları tarihten bu güne kadar temadi olarak yani sürüp gelen bir şekilde atandıkları kadronun haklarını almışlardır.
+
+Savunmada bu kişinin atandığı görevi fiilen yaptığını, kamu zararı olarak iddia edilen tutarın bulunmadığını ve Anayasanın 18 inci maddesine göre angaryanın yasak olduğu ifadesine katılmak mümkün değildir. Sorguda belirtildiği üzere bu kişinin atama şartlarını taşımadığı açıktır.
+
+Şef kadrosuna yapılan atamanın atama tarihindeki Kanun ve yönetmeliğe uygun olmaması nedeniyle bu kişinin şef kadrosuna atandığı kabul edilemez. Şartları tutmayan veya atama tarihindeki mevzuata uygun yapılmayan atamaların ödüllendirilmesi anlamına gelen işlem tesis edilmesi yargı kararlarına ve mevzuata aykırılık oluşturur. Atama yazısının incelenmesinde bu kişinin atama tarihindeki Kanun ve Yönetmeliğe uygun atamasının olmadığı anlaşılmıştır. Çünkü bu kişi atanmasında yapıldığı tarihte atanacak kadro için öngörülen duyuruya çıkılma, başvurular alınma ve eğitime katılma ile sınav şartı yerine getirilmemiştir.
+
+….’ın hizmet cetvelinin incelenmesinde, atamanın yapıldığı tarihte lise mezunu olması ve atandığı kadro derecesinin 4 olması nedeniyle 657 sayılı Kanun’un 68/B maddesinde istenen yükseköğrenim şartını sağlamamaktadır. …. atamanın yapıldığı tarihte Yönetmelikte istenen sınav şartı yerine getirilmeden atanmıştır.
+
+Şef kadrosuna atanmak için gerekli 657 sayılı Kanun’un 68/B maddesindeki okul ve yönetmelikteki sınav şartını taşımayan …..’ın şef kadrosuna atanmadan önceki kadrosu evlendirme memuru olduğu için fazla ödemenin hesabında şef ile evlendirme memuru arasındaki fark alınmıştır.
+
+…. Kanun ve Yönetmeliğe aykırı olarak şef kadrosuna atanmıştır. Atamayı teklif eden Yazı İşleri Müdür Vekili …. ile onaylayan Belediye Başkanı …. Yönetmeliğe aykırı açık hata kapsamında yapılan atama nedeniyle sorumludurlar.  Harcama yetkilisi ve Gerçekleştirme Görevlileri de mevzuata aykırı yapılan atama nedeniyle gerekli incelemeyi yapmadıklarından dolayı sorumludurlar.
+
+Bu itibarla; Evlendirme memuru kadrosunda çalışan …..’ın Kanun ve Yönetmeliğe aykırı olarak şef kadrosuna atanması sonucunda oluşan ve ayrıntılı hesabı aşağıdaki tabloda gösterilen ….. TL kamu zararının;
+
+…. TL’sinin Harcama Yetkilisi (…..) …., Gerçekleştirme Görevlisi (….) …., Diğer Sorumlu (…..) …. ile Üst Yönetici (…..) ….’e
+
+3…. TL’sinin Harcama Yetkilisi (…..) …., Gerçekleştirme Görevlisi (….) …., Diğer Sorumlu (…..) …. ile Üst Yönetici (…..) ….’e
+
+müştereken ve müteselsilen,	6085 sayılı Sayıştay Kanununun 53 üncü maddesi gereği işleyecek faizleri ile ödettirilmesine,
+
+İş bu ilamın tebliğ tarihinden itibaren aynı Kanunun 55 inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
