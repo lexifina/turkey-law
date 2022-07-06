@@ -1,0 +1,2 @@
+Görevden uzaklaştırma
+MADDE 28- (1) Kurum hizmetlerinin gerektirdiği hallerde görevi başında kalmasında sakınca görülen veya haklarında mahkemelerce cezai kovuşturma yapılan Kurum personelini görevden uzaklaştırmaya Başkan yetkilidir. İhtiyati bir tedbir olarak görevden uzaklaştırılan Kurum personelinin hakları, tedbirin kaldırılması, tekrar göreve başlatılması ve süreleri hakkında 657 sayılı Kanun hükümleri uygulanır.

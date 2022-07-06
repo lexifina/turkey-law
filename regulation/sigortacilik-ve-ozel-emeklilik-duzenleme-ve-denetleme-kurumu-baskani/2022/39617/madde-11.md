@@ -1,0 +1,16 @@
+Personelde aranacak özel şartlar
+MADDE 11- (1) Kurum kadrolarında istihdam edilecek personelde, 10 uncu maddede belirtilen şartların yanı sıra aşağıdaki özel şartlar aranır:
+a) Başkan yardımcısı, daire başkanı ve grup başkanı kadrolarına atanabilmek için; en az dört yıllık yükseköğrenim mezunu olmak ve kamuda ve/veya sosyal güvenlik kurumlarına tabi olmak kaydıyla uluslararası kuruluşlar ile özel sektörde veya serbest olarak en az beş yıl çalışmış olmak.
+b) Meslek personeli için; 3/7/2021 tarihli ve 31530 sayılı Resmî Gazete’de yayımlanan Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Meslek Personeli Yönetmeliğinde öngörülen şartları taşımak.
+c) Danışman olarak atanabilmek için; en az dört yıllık yükseköğrenim mezunu olmak ve 657 sayılı Kanunun 68 inci maddesinin (B) bendinde yer alan şartları taşımak.
+ç) Müdür, müdür yardımcısı, şef ve basın ve halkla ilişkiler müşaviri kadrolarına atanabilmek için; 22/3/2022 tarihli ve 31786 sayılı Resmî Gazete’de yayımlanan Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde belirtilen şartlara sahip olmak.
+d) Çözümleyici kadrosuna atanabilmek için; en az dört yıllık eğitim veren mühendislik fakülteleri ile istatistik, matematik, fizik veya bilgisayar programlama bölümlerinin herhangi birinden mezun olmak, bilgisayar programlamada ve sistem çözümlemede deneyimli olmak.
+e) Bilgisayar işletmeni ile veri hazırlama ve kontrol işletmeni kadrolarına atanabilmek için; en az ortaöğretim veya dengi okul mezunu olmak ve Milli Eğitim Bakanlığından, yetkili özel eğitim kurumlarından veya yükseköğretim kurumlarından birinin vermiş olduğu işletmenlik sertifikasına veya bitirdiği okul itibarıyla verilen ders müfredatında bilgisayar ile ilgili ders aldığına dair belgeye sahip olmak ya da kamu kurum ve kuruluşlarınca düzenlenen aynı mahiyetteki kursta başarılı olmak.
+f) Memur ve sekreter kadrolarına atanabilmek için, en az ortaöğretim veya dengi okul mezunu olmak.
+g) Şoför kadrosuna atanabilmek için; en az ortaöğretim veya dengi okul mezunu olmak ve en az (B) sınıfı sürücü belgesine sahip olmak, gerektiğinde uygulama sınavında başarılı olmak.
+ğ) Avukat kadrosuna atanmak için, avukatlık ruhsatına sahip olmak.
+h) Hemşire kadrosuna atanabilmek için; fakültelerin, yüksekokulların veya sağlık meslek liselerinin hemşirelik bölümlerinden mezun olmak.
+ı) Programcı kadrosuna atanabilmek için; en az dört yıllık yükseköğrenim mezunu olmak ya da yükseköğretim kurumlarının iki yıllık bilgisayar programcılığı bölümlerinden mezun olmak ve en az iki bilgisayar dilini bildiğini belgelemek.
+i) Teknisyen kadrosuna atanabilmek için; en az ortaöğretim dengi mesleki veya teknik eğitim öğretim veren okullardan mezun olmak.
+j) Hizmetli ve dağıtıcı kadrolarına atanabilmek için; en az ortaöğretim veya dengi okul mezunu olmak.
+(2) Kurumda, çözümleyici, bilgisayar işletmeni, veri hazırlama ve kontrol işletmeni, memur, sekreter, avukat, hemşire, programcı, teknisyen, şoför ve hizmetli kadrolarına ilk defa açıktan yapılacak atamalar için giriş sınavının son başvuru tarihi itibarıyla geçerliliği bulunan merkezi sınavdan, sınav ilanında belirtilen puan türlerinden, yine sınav ilanında belirtilen taban ve üzerinde puan almış olmak şartı aranır.

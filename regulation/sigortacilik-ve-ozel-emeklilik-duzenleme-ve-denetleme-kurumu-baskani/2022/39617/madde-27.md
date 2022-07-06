@@ -1,0 +1,2 @@
+Personelin kurumla ilişiğinin kesilmesi
+MADDE 27- (1) Personelin; görevden çekilmesi ya da çekilmiş sayılması, emekliliği, adaylık döneminde başarısızlığı, görevini yapmasına engel teşkil edeceğine dair sağlık kurulu raporunun bulunması, başka bir kuruma nakli, memuriyete engel olabilecek mahkumiyeti, işe alınma şartlarından herhangi birini taşımadığının sonradan anlaşılması ya da görevi sırasında bu şartlardan herhangi birini kaybetmesi ve ölümü durumlarında Kurumla ilişiği kesilir.

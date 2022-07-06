@@ -1,0 +1,3 @@
+Hizmet içi eğitim
+MADDE 20- (1) Adaylık süresi içerisinde, personelin temel eğitim ve hazırlayıcı eğitim alması; asli memurluk süresi içinde, personelin görevleri ile ilgili olarak bilgilerinin artırılması, göreve ilişkin beceriler kazandırılması ve üst görevlere hazırlanmasının sağlanması ile Kurum hizmetlerinde verimlilik, etkinlik ve toplam kalitenin sağlanması amacıyla Yönetim Hizmetleri Daire Başkanlığı tarafından hizmet içi eğitim faaliyetleri yürütülür.
+(2) Her düzeydeki personelin eğitimi amacıyla, hizmet içi eğitim programları düzenlenir. Eğitim ve ihtiyaç türüne göre, Kurumda veya yurt içindeki ya da yurt dışındaki kuruluşlarda, personelin bu programlara katılımına da olanak sağlanır.

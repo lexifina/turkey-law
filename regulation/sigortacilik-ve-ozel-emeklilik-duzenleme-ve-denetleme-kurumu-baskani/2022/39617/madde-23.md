@@ -1,0 +1,2 @@
+Yurt dışı eğitim
+MADDE 23- (1) Meslek personeline, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik ve bu Yönetmeliğe uygun olarak Kurul tarafından belirlenecek usul ve esaslar çerçevesinde, mesleki bilgilerini geliştirmek amacıyla lisansüstü eğitim ve işbaşı eğitim de dâhil olmak üzere yurt dışı teorik ve uygulamalı eğitim imkânı sağlanır.
