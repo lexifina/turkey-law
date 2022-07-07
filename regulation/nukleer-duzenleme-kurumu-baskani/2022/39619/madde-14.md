@@ -1,0 +1,2 @@
+Derinliğine savunma
+MADDE 14- (1) Radyoaktif atık tesislerinde, Kuruluş tarafından derinliğine savunma stratejisi uygulanır. Bu strateji gereğince; radyoaktif atıklar ile çalışanların, halkın ve çevrenin arasına yerleştirilen bariyerlerin etkinliğini korumak, işletme sırasında meydana gelebilecek olayların kazaya dönüşmesini önlemek ve oluşan kazaların etkilerini azaltmak için hiyerarşik yapıda, birbirinden bağımsız, farklı ve iç içe geçmiş bir dizi uygulamadan oluşan önlemler alınır.

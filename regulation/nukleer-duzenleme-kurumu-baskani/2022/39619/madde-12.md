@@ -1,0 +1,4 @@
+Radyasyon acil durumları
+MADDE 12- (1) Kuruluş, radyoaktif atık tesisinde meydana gelebilecek radyasyon acil durumlarına ilişkin faaliyetleri ilgili mevzuat uyarınca yürütür.
+(2) Radyasyon acil durumuna ilişkin müdahalenin sonlandırılmasından sonra hazırlanan rapor Kuruma sunulur. Radyasyon acil durumu radyoaktif atık tesisinin işletiminin durdurulmasını gerektiriyorsa Kuruluş bu durumu da hazırladığı rapor kapsamında Kuruma bildirir. Kurum, raporu değerlendirerek radyoaktif atık tesisinin yeniden işletilmesine dair olumlu veya olumsuz kararı verir.
+(3) Radyoaktif atık tesisinin yeniden işletilmeme kararının verildiği bir radyasyon acil durumu sonrasında, yetki kapsamındaki faaliyete yeniden başlanabilmesi veya gerekirse tesisin işletmeden çıkarılması için izlenecek süreç Kurum tarafından belirlenir.

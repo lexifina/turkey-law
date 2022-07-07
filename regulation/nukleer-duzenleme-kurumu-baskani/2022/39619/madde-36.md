@@ -1,0 +1,11 @@
+İşletme lisansına ilişkin esaslar
+MADDE 36- (1) Radyoaktif atık tesislerinde işletme süreci, tesiste radyoaktif atık yönetiminin başlamasından tesisin işletmeden çıkarılması veya kapatılması için izin verilene kadar olan süreci içerir.
+(2) Radyoaktif atık işleme ve depolama tesislerinin erken işletmeden çıkarılması ihtimaline karşı, teminatın yeterliliğinin Hesaplar Yönetim Kurulu tarafından Kuruma bildirilmesi işletme lisansı verilmesi için ön koşuldur.
+(3) Kuruluş işletme lisansı aldıktan sonra;
+a) İşletme sınır ve koşulları uyarınca radyoaktif atık tesisini işletmeye ve radyoaktif atıkları tesise kabul etmeye başlayabilir.
+b) Radyoaktif atık tesisini oluşturan yapı, sistem ve bileşenlerin periyodik güvenlik değerlendirmesini yapar ve sonuçları Kurumun belirlediği içerikte raporlar. Bu güvenlik değerlendirmesi, ayrıca ulusal veya uluslararası güvenlik anlayışındaki değişiklikler nedeniyle Kurumun talebi üzerine de yapılır. Bu kapsamda Kuruluş;
+1) İşletme lisansının verildiği tarihten başlamak üzere, en geç on yılda bir, değerlendirmeye tabi olacak güvenlik konularını Kurumun uygun görüşü ile belirler ve hazırladığı periyodik güvenlik değerlendirme raporunu Kuruma sunar.
+2) Kurum tarafından yapılan değerlendirme sonucunda güvenlik açısından iyileştirme gerektiğinin belirlenmesi durumunda, Kurumun da uygun gördüğü tedbirleri önerilen süre içerisinde alır.
+3) Sahada birden çok radyoaktif atık tesisinin bulunduğu durumda, ortak sistemlerin periyodik güvenlik değerlendirmesine sahada ilk kurulan tesisin periyodik güvenlik değerlendirme raporunda yer verir.
+c) İçeriği Kurum tarafından belirlenen işletme raporunu, radyoaktif atık yönetimi raporunu, radyoaktif salım raporunu, çevresel radyolojik izleme raporunu ve kişisel doz ve radyasyon ölçüm raporunu işletme lisansının verildiği tarihten başlamak üzere her yıl hazırlar, Kurumun talebi üzerine Kuruma sunar.
+(4) Kuruluş, radyoaktif atık olarak tesise teslim edilen radyoaktif maddelerin, radyoaktif atıkların azaltılması ilkesi çerçevesinde yeniden kullanılabileceğini değerlendirmesi durumunda, söz konusu radyoaktif maddelerin radyoaktif atık niteliğinden çıkarılmasına ve yeniden kullanılmasına ilişkin bilgileri Kuruma bildirir. Bu radyoaktif maddeler yalnızca Kurumun uygun görüşü ve ilgili mevzuat hükümleri kapsamında kullanılabilir.

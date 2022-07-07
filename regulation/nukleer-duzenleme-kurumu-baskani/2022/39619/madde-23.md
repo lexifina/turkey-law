@@ -1,0 +1,2 @@
+Gözden geçirme, değerlendirme ve yetkinin verilmesi
+MADDE 23- (1) Kurum, sunulan belgeleri gözden geçirme ve değerlendirmeye tabi tutar. Kurum, varsa ilgili olduğu değerlendirilen denetim raporlarını da dikkate alarak yetkilendirme kararını verir. Kararın olumlu olması durumunda değerlendirme sonucunda belirlenen yetki koşullarını da içeren izin veya lisans belgesi Kuruluşa iletilir. Kararın olumsuz olması durumunda karar gerekçeleri ile birlikte Kuruluşa bildirilir.

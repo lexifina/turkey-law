@@ -1,0 +1,4 @@
+Yetkilendirme başvurularının uygunluk kontrolü
+MADDE 22- (1) Yetkilendirme başvuruları öncelikle dilekçenin ve başvuru dosyasında yer alan belgelerin eksiksiz sunulmuş olması ve istenilen içeriğe uygunluğu açısından incelenir. Tespit edilen uygunsuzluklar giderilmek üzere Kuruluşa bildirilir.
+(2) Uygunsuzlukların Kuruluş tarafından tamamlanmasını takiben başvurunun uygunluk kontrolüne ilişkin sonucu Kuruluşa bildirilir.
+(3) Sunulan belgelerdeki uygunsuzlukların Kurum tarafından belirlenen süre içerisinde giderilmemesi durumunda gözden geçirme ve değerlendirme aşamasına geçilmez, eksiklik ve uygunsuzlukların verilen süre sonunda tamamlanmadığı veya giderilmediği durumlarda yetkilendirme başvurusu iptal edilir ve durum Kuruluşa bildirilir. Yetkilendirme için ödenen işlem ve hizmet bedeli iade edilmez.

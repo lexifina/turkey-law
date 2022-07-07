@@ -1,0 +1,6 @@
+İşletme sürecine ilişkin ilkeler
+MADDE 35- (1) Kuruluş, radyoaktif atık tesisini işletme sınır ve koşulları içerisinde ve DBL’de yer alan belgelere uygun olarak güvenli bir şekilde işletir.
+(2) Radyoaktif atık tesisinin güvenli işletiminin çerçevesini çizen ve atık kabul kriterlerini de içeren işletme sınır ve koşulları Kuruluş tarafından belirlenir ve Kurumun uygun görüşüne sunulur. Radyoaktif atıklar ve atık paketleri atık kabul kriterlerine uygun olarak tesise kabul edilir.
+(3) Radyoaktif atık tesisini oluşturan yapı, sistem ve bileşenlerin işletme sırasında işletme sınır ve koşulları ile uyumluluğu izlenir ve tasarım gereklerini yerine getirmeyi sürdürmeleri sağlanır. Bakım, test ve izleme sıklığının belirlenmesinde benzer diğer radyoaktif atık tesislerinin işletme tecrübelerinden faydalanılabilir.
+(4) Radyoaktif atık tesisinde olabilecek kazalar sırasında uygulanmak üzere ilgili mevzuat uyarınca radyasyon acil durum planı bulundurulur ve bu planın uygulanabilirliğinden emin olmak için düzenli aralıklarla tatbikat yapılır. Plan, kazanılan deneyimler doğrultusunda gözden geçirilir ve güncellenir.
+(5) Kuruluş, bertaraf tesisini işletirken, kapatma sonrası dönemde tesisin güvenliğini sağlayacak sistemlerin ve bariyerlerin güvenlik fonksiyonlarının korunmasını sağlayacak önlemleri de ayrıca alır.

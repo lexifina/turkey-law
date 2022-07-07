@@ -1,0 +1,5 @@
+İşletmeye alma sürecine ilişkin ilkeler
+MADDE 32- (1) Kuruluş, radyoaktif atık tesisi işletilmeye başlanmadan önce, işletmeye alma programı çerçevesinde, yapı, sistem ve bileşenlerin fonksiyonlarının yerine getirildiğini testlerle doğrulayarak, tasarım hedeflerine uygun inşa edildiğini, amacına uygun çalıştığını ve yetersizliklerin belirlenip giderildiğini gösterir. İşletmeye alma programı, tüm işletme prosedürlerinin test edilmesini de içerir.
+(2) İşletmeye alma testleri yapı, sistem ve bileşenlerin tasarım ve işletme hedeflerine uyumunu ve güvenliğini göstermek üzere yapılır.
+(3) Kuruluş işletmeye alma öncesinde bir işletme organizasyonu oluşturur. Radyoaktif atık tesisinin işletme organizasyonunda tesis sorumlusu, radyoaktif atık yönetimi sorumlusu, radyasyondan korunma sorumlusu ile radyasyon acil durumları, bakım, test ve onarım, yönetim sistemi konularından sorumlu personel, nükleer madde içeren radyoaktif atık tesislerinde ayrıca nükleer madde sayım ve kontrol personeli bulunur.
+(4) Kuruluş, işletmeye alma sırasında, radyoaktif atık tesisinin işletme organizasyonunda görev alacak çalışanların gerekli eğitimleri almalarını sağlar.
