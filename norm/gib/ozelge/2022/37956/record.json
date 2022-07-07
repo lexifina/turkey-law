@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-125[49.01.60]-83596",
+  "source_id": 37956,
+  "date": "2022-07-07",
+  "title": "Küresel Tedarik Zinciri Teşviği kapsamında alınan nakit hibenin vergisel durumu.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37956",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "29cc7547c91e93206557ee3b28707f5a617003c0749b1c3d6eb1fdaa371fe754",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
