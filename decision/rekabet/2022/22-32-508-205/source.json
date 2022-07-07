@@ -1,0 +1,13 @@
+{
+  "number": "22-32/508-205",
+  "type": "Rekabet İhlali",
+  "decision_date": "2022-07-07",
+  "publication_date": "2023-01-19",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=a36943f9-1c81-4376-ae6c-80688458abcb",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=189",
+  "pdf_sha256": "ed04d08999035633caf66b1d5a84ef0c325e07230ea27eed400262cca33fcdb1",
+  "pdf_bytes": "927845",
+  "pages": "25",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
