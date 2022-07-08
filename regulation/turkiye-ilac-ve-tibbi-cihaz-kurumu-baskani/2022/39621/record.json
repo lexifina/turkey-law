@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39621",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TIBBİ CİHAZ KLİNİK ARAŞTIRMALARI YÖNETMELİĞİ",
+  "number": "39621",
+  "issuer": "Türkiye İlaç ve Tıbbi Cihaz Kurumu Başkanı",
+  "issuer_slug": "turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani",
+  "path": "regulation/turkiye-ilac-ve-tibbi-cihaz-kurumu-baskani/2022/39621",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39621&MevzuatTertip=5",
+  "source_sha256": "36946b1d19e9472844c1d9e673ca5fa8f843f80eff1ea3efa00fa9d201132c7c",
+  "source_bytes": 64629,
+  "published": "2022-07-08",
+  "gazette": "31890",
+  "in_force": "2022-07-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.07.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3693,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
