@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 30/7/2021 tarihli ve 31553 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/40) ile Çin Halk Cumhuriyeti menşeli 73.04 gümrük tarife pozisyonu altında kayıtlı “demir (dökme demir hariç) ve çelikten dikişsiz çekme borular” ithalatına yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
