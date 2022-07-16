@@ -1,0 +1,84 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 13 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2014-03-11",
+      "11.03.2014",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "RG-16/7/2022-31894",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-16",
+      "16/7/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-16/7/2022-31894",
+  "first_law": null,
+  "gazette": "28938",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-16",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2014/19472",
+  "published": "2014-03-11",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=19472&MevzuatTertip=5",
+  "source_bytes": 26911,
+  "source_id": "8.5.19472",
+  "source_sha256": "821dab300f690eff48587dc560390e853cacfc93c7da11e1aa5131dd4fc645b6",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ İSTATİSTİK DANIŞMANLIK UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1094
+}
