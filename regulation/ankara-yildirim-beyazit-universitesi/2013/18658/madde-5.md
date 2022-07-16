@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5 – (1) Merkezin amaçları; Merkeze başvuran acil ve diğer hastalara ayaktan veya yatarak çağdaş sağlık hizmeti sunmak, tıp ve sağlık personeli yetiştirmek, bilimsel eğitim-öğretim, araştırma ve uygulama yapmak amacıyla başta Tıp Fakültesi olmak üzere, Üniversitenin sağlık hizmetleri ile ilgili alanlarda eğitim-öğretim veren fakülte, enstitü, yüksekokul, uygulama ve araştırma merkezleri ve diğer kurumlarla işbirliği yapmak, aile hekimliği ve toplum sağlığı alanında hizmet sunumu dahil eğitim ve sağlık hizmetlerinin verimliliği ile tıbbi araştırma ve uygulamaların en üst düzeyde gerçekleşmesi için bilimsel araştırma koşullarını hazırlamak, modern hastane işletme yönetimi ilkeleri doğrultusunda faaliyette bulunmasını ve ulaşılabilir kaliteli sağlık hizmeti verilmesini sağlamaktır.
