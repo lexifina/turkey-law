@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 18 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-07-24",
+      "24.07.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-07-17",
+      "RG-17/7/2022-31895",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-07-17",
+      "17/7/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/7/2022-31895",
+  "first_law": null,
+  "gazette": "31547",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Ankara Yıldırım Beyazıt Üniversitesi",
+  "issuer_slug": "ankara-yildirim-beyazit-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/ankara-yildirim-beyazit-universitesi/2021/38810",
+  "published": "2021-07-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38810&MevzuatTertip=5",
+  "source_bytes": 61821,
+  "source_id": "8.5.38810",
+  "source_sha256": "3e8b664d9233807625e6e8cd8c930f4b54655efe4057ae83e18a755ca71d4c79",
+  "text_status": "current-consolidated",
+  "title": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ REKABET VE İNOVASYON UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 371,
+  "word_count": 1091
+}

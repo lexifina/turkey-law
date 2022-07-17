@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) Danışma Kurulu; istekleri halinde Türkiye’nin kalkınma, bilim, teknoloji ve rekabet kapasitesini geliştiren kuramsal ve uygulamalı çalışmalar yapan kamu kurum ve kuruluş temsilcileri ile ulusal veya uluslararası özel kuruluş temsilcileri ya da kişiler arasından Yönetim Kurulunun önerisi üzerine Rektör tarafından görevlendirilen en fazla on üç üyeden oluşur. Danışma Kurulu Rektörün başkanlığında yılda en az iki defa toplanır.
+(2) Yönetim Kurulunun uygun gördüğü kişiler ile sektör ve kurum temsilcileri de Danışma Kurulu toplantılarına katılabilir.
+(3) Danışma Kurulu; uzun vadeli bilimsel ve idari faaliyet planlarını değerlendirerek Yönetim Kuruluna önerilerde bulunur ve Merkez çalışmalarına bilimsel ve idari bilgi ve deneyimlerini katarak danışmanlık faaliyeti yapar.
