@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.ÖZ.2020.14]-173478",
+  "source_id": 24197,
+  "date": "2022-07-19",
+  "title": "Yangında zayi olan mal, sabit kıymet ve binaların giderleştirilmesi ile hisse devrinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/24197",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "24f8377bd11787b557af8cca8ecd05567a243d4dcdfd88385576da6d048fb71c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
