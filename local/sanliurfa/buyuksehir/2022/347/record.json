@@ -1,0 +1,24 @@
+{
+  "number": "347",
+  "number_as_published": "347",
+  "year": 2022,
+  "title": "NAZIM VE UYGULAMA İMAR PLANI(BİRECİK-UĞURCUK",
+  "decision_date": "2022-07-20",
+  "source": "https://www.sanliurfa.bel.tr/icerik/14085/106/nazim-ve-uygulama-imar-planibirecik-ugurcuk",
+  "official_document": null,
+  "source_sha256": "0d788d57d230439d21ba9a84c55c0c423fef673321a587ad61d43b65cd0f15c6",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-07-20",
+  "in_force_basis": "Decision date as printed in the official council listing: 20.07.2022 tarih ve 347 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-08-02",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
