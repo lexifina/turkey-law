@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76071283-140.04.01-29617",
+  "source_id": 36099,
+  "date": "2022-07-20",
+  "title": "Taşınmaz maliki kooperatifin tapuda yapılacak unvan tashihi işlemi ile bu işlemden sonra söz konusu taşınmazın satışı işleminden tapu harcı alınıp alınmayacağı hakkında",
+  "source": "https://gib.gov.tr/mevzuat/kanun/439/ozelge/36099",
+  "related_law": "492 sayılı HARÇLAR KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p007.json",
+  "source_listing_sha256": "aedbdf4562ba9127c242d5a565793d0bcd4fd4854c0c6fa4dc4410a5b16508b4",
+  "source_sha256": "c210f8601aae07c8b6ad12a89c0348091aba178dc9d4635dab776d9440831a55",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
