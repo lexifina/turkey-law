@@ -1,0 +1,2 @@
+Danışmanlık
+MADDE 6 – (1) Kesin kayıt yaptıran her öğrenci için ilgili bölüm başkanlığınca öğretim üyeleri arasından bir akademik danışman atanır. Yeterli öğretim üyesi bulunmayan bölümlerde, diğer öğretim elemanları da danışman olarak atanabilir. Danışman; öğrenimi süresi boyunca öğrenciyi izler, eğitim-öğretim ile ilgili işlemler ve üniversite yaşamı ile ilgili sorunlarının çözümünde öğrenciye yardımcı olur. Danışmanların görevleri ile ilgili konular Senato tarafından düzenlenir.

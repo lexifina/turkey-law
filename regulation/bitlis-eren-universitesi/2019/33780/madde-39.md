@@ -1,0 +1,3 @@
+Tebligat ve adres bildirme
+MADDE 39 – (1) Her türlü tebligat, öğrencinin Üniversiteye kayıt sırasında bildirdiği yazışma adresine iadeli taahhütlü yapılmak suretiyle tamamlanmış sayılır. Tüm öğrencileri ilgilendiren genel nitelikli duyurular ise birimlerin internet sayfasında veya duyuru panosunda ilan edilmek suretiyle yapılır.
+(2) Öğrenci Üniversiteye kayıt sırasında bildirdiği yazışma adresini değiştirdiği takdirde, yeni adresini Öğrenci İşleri Daire Başkanlığına yazılı olarak bildirmek zorundadır. Yanlış veya eksik olarak beyan edilmiş adrese yapılmış tebligatlar ile adres değişikliğinin bildirilmemesi nedeniyle kayıtlarda mevcut adrese yapılan tebligatlar geçerli sayılır.

@@ -1,0 +1,2 @@
+Üniversiteden ayrılma
+MADDE 36 – (1) Kendi isteği ile Üniversiteden ayrılacak olanlar, kayıtlı oldukları birime yazılı olarak başvurur. Başvuru üzerine alınan ilgili birim yönetim kurulu kararı ile kaydı silinen öğrenciye; isterse kayıtlı olduğu yükseköğretim programındaki öğrenim durumunu gösteren bir belge ve kayıt sırasında teslim ettiği diploması geri verilir. Üniversiteden ayrılan öğrencilerin tüm öğrencilik hakları sona erer.

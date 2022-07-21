@@ -1,0 +1,3 @@
+Öğretim
+MADDE 17 – (1) Öğretim; ders planında yer alan dersler, uygulamalar, proje ve stüdyolar, laboratuvar ve atölye çalışmaları, klinik uygulamaları, pratik çalışmalar, stajlar, iş yeri eğitimleri, ev çalışmaları, arazi uygulamaları, seminerler, bitirme çalışması ve benzeri çalışmalardan oluşur. Derslerin süresi bir yarıyıldır. Stajlar, Senato tarafından belirlenen esaslar çerçevesinde uygulanır.
+(2) Ön lisans ve lisans diploma programları öğretim planlarında yer alacak zorunlu ve seçmeli dersler ile bu derslerin yarıyıllara dağılımını gösteren öğretim planları, seçmeli derslerin toplam AKTS’lerinin en az %25 olması şartıyla, bölüm kurulu görüşü, ilgili birim kurulu önerisi ve Senato onayıyla kesinleşir.

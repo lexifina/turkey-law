@@ -1,0 +1,2 @@
+Yatay geçiş, çift anadal ve yandal programı
+MADDE 11 – (1) Yatay geçiş işlemleri, 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yandal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümleri, Yükseköğretim Kurulu kararları ve Senato tarafından belirlenen esaslar çerçevesinde yapılır.

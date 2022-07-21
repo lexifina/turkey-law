@@ -1,0 +1,3 @@
+Mezuniyet ve mezuniyet tarihi
+MADDE 32 – (1) Öğrenim planında belirtilen bütün derslerinden başarılı olmuş, GNO’su en az 60 olan ve bu Yönetmelikte belirtilen bütün çalışmaları tamamlamış öğrenci, öğrenimini bitirmiş sayılır ve kendisine diploma düzenlenir.
+(2) Öğrencinin mezuniyet tarihi, başarılı olduğu sınav döneminin son tarihi olarak kabul edilir. Ancak bu tarihe kadar staj, bitirme projesi, bitirme tezi, arazi çalışması ve benzeri sebeplerle mezun olamayan öğrenciler, bu çalışmalarının ilgili akademik birim yönetim kurulu kararlarınca kabul edildiği tarihte mezun olurlar. Mezuniyet tarihleri bir sonraki akademik yıla taşan öğrenciler, o eğitim-öğretim yarıyılında katkı payını veya öğrenim ücretini öderler.
