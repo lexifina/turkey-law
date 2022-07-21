@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/711",
+  "source_id": 8848,
+  "date": "2022-07-21",
+  "title": "\"Otomotiv güvenlik ve elektronik sistemleri üretimi yapan veri sorumlusu tarafından Kurula intikal ettirilen veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 21/07/2022 tarih ve 2022/711 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/8848/2022-711",
+  "source_sha256": "5ea4f05180601026717c302c94638791ea5bc940bff3fca10fdb88fc5a6920af",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
