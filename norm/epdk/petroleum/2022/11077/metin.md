@@ -1,0 +1,10 @@
+Enerji Piyasası Düzenleme Kurumundan:
+
+KURUL KARARI
+
+Karar No: 11077 Karar Tarihi: 21/07/2022
+
+Enerji Piyasası Düzenleme Kurulunun 21/07/2022 tarihli toplantısında; ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; PİL/1347-3/23163 sayılı iletim lisansı kapsamında ATAŞ Karaduvar Mevkii 33020 P.K. 37 Akdeniz/MERSİN adresinde faaliyette bulunan ATAŞ İletim Hatlarına ilişkin iletim tarifesinin ekteki şekilde tadil edilerek onaylanmasına,
+karar verilmiştir.
+
+EK- ATAŞ Anadolu Tasfiyehanesi A.Ş. ATAŞ İletim Hatları İletim Tarifesi (4 Sayfa)
