@@ -1,0 +1,2 @@
+TAHSİLAT GENEL TEBLİĞİ
+(SERİ: C SIRA NO: 6)
