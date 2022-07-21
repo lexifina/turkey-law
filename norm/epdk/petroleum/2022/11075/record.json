@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11075",
+  "decision_date": "2022-07-21",
+  "title": "ATAŞ Anadolu Tasfiyehanesi A.Ş.’nin; DEP/1328-5/23031 sayılı depolama lisansı kapsamında faaliyette bulunan Liman Tesisine ilişkin",
+  "resmi_gazete_date": "2022-07-23",
+  "resmi_gazete_number": "31901",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pfBxIhHCHz0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pfBxIhHCHz0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=PFngrGhzXuY="
+  ],
+  "source_sha256": "8a03cd10316e5f40eb21372918685c2bc191b5d1ca1f13933485a958c4066b3c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-07-21",
+  "law_text_complete": true
+}
