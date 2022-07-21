@@ -1,0 +1,3 @@
+Sağlık kurum ve kuruluşlarının sorumlulukları
+MADDE 7 – (1) (Değişik cümle:RG-21/7/2022-31899) İl sağlık müdürü farmakovijilans il sorumlusu olarak, il sağlık müdürlüğünün ilgili başkanını ya da başkan yardımcısını görevlendirir ve bu kişinin isim ve iletişim bilgilerini Kuruma bildirir. Hastaneler, advers ilaç reaksiyonlarının en doğru şekilde ve en kısa zamanda TÜFAM’a bildirilmesini sağlamak amacıyla, kuruluş içi farmakovijilans sistemini kurar ve bu Yönetmeliğe göre faaliyet gösterirler.
+(2) TÜFAM’a bilgi akışını sağlamak üzere; hastane yönetimi tarafından farmakovijilans irtibat noktası görevlendirilir ve bu kişinin ismi, mesleki özgeçmişi ile iletişim bilgileri Kuruma ve farmakovijilans il sorumlusuna bildirilir.

@@ -1,0 +1,5 @@
+İnsan kaynakları yönetimi
+MADDE 26 – (1) Ruhsat sahibi, farmakovijilans faaliyetlerinin yürütülmesi için, uygun niteliklere ve eğitime sahip yetkin bir kadro oluşturur. Ruhsat sahibi, farmakovijilans yetkilisinin farmakovijilans faaliyetlerinin yürütülmesi için yeterli teorik ve pratik bilgiye sahip olmasını sağlar.
+(2) Farmakovijilans yetkilisi de dahil olmak üzere, yönetim ve kontrol kadrosunun iş tanımları yapılır. Bu kişiler arasındaki hiyerarşi ilişkisi teşkilat şemasında belirtilir. Ruhsat sahibi, farmakovijilans yetkilisinin kalite sisteminin performansını ve farmakovijilans faaliyetlerini yönlendirmesi için yeterli yetkiye sahip olmasını sağlar.
+(3) Farmakovijilans faaliyetlerinin yürütülmesinde rol oynayan tüm personele rol ve sorumluluklarıyla ilgili olarak göreve başlarken ve sonrasında sürekli olarak eğitim verilir. Ruhsat sahibi, personelinin yetkinliklerini belgelemek, sürdürmek ve geliştirmek için eğitim planlarını ve kayıtları muhafaza eder ve yoklama ve denetlemeler sırasında hazır bulundurur.
+(4) Ruhsat sahibi, iş sürekliliği de dahil olmak üzere acil durumlarda kullanılacak süreçlere uygun talimatlar hazırlar.

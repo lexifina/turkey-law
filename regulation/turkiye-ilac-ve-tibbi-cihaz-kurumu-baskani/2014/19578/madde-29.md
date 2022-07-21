@@ -1,0 +1,3 @@
+Yoklama
+MADDE 29 – (1) Kalite sisteminin, 25, 26, 27 ve 28 inci maddelerin gereklerine uygunluğundan emin olmak ve etkinliğini tespit etmek amacıyla, düzenli aralıklarla riske dayalı yoklamalardan geçirilir. Bu yoklamalar, yoklamaya konu olan iş ve süreçlerle doğrudan bağlantısı ve sorumluluğu olmayan kişiler tarafından gerçekleştirilir.
+(2) Tespit edilen noksanlıklara ilişkin takip yoklaması da dahil olmak üzere gerektiğinde düzeltici aksiyonlar gerçekleştirilir. Yoklama raporu, ilgili konulardan sorumlu yönetim birimine iletilir. Yoklama ve takip yoklamalarının tarihleri ve sonuçları belgelenir.
