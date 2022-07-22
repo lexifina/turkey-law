@@ -1,0 +1,3 @@
+Diğer hükümler
+MADDE 28- (Başlığı ile Birlikte Değişik:RG-22/7/2022-31900)
+(1) Bakanlık, bu Yönetmeliğin uygulanmasına yönelik uygulama usul ve esaslarını belirlemeye, uygulamaya ilişkin talimatlar vermeye, uygulamada ortaya çıkacak mücbir sebep, özel ve zorunlu durumlar ile ihtilafları inceleyip sonuçlandırmaya, gerekli görülmesi durumunda destek oranlarını belirlemeye, ödenecek destek miktarını her türlü kamu alacağına karşılık mahsup etmeye ve bütçe imkânları çerçevesinde destek kapsamında değerlendirilecek harcama, ayni katkı ve destek ödeme tutarını kısıtlamaya, kümelenme teşebbüsü ile yeminli mali müşavirin idari ve mali yükümlülükleri ile usulsüzlüğe ilişkin yaptırımları belirlemeye yetkilidir.

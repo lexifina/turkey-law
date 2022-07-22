@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.16610",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜMELENME DESTEK PROGRAMI YÖNETMELİĞİ",
+  "number": "16610",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2012/16610",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16610&MevzuatTertip=5",
+  "source_sha256": "2eab8ee78acf24dc36e54a7749cdc89288b34d61599aa73993b46a199e4b34dd",
+  "source_bytes": 63938,
+  "published": "2012-09-15",
+  "gazette": "28412",
+  "in_force": "2022-07-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/7/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-07-22",
+      "RG-22/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-22",
+      "22/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2015-02-07",
+      "RG-7/2/2015",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2015-02-07",
+      "7/2/2015",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2014-03-25",
+      "25/3/2014",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2557,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

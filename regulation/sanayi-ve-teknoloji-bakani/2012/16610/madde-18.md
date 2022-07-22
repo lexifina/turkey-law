@@ -1,0 +1,6 @@
+Destek ödemeleri
+MADDE 18- (Başlığı ile Birlikte Değişik:RG-22/7/2022-31900)
+(1) Kümelenme teşebbüsü tarafından iş planı kapsamında yapılan her türlü harcamanın, tevsik edici belgelerle; ayni katkının katkı türüne uygun kanıtlayıcı belgelerle belgelendirilmesi esastır. Bu belgeler, destek süresinin tamamlanmasını takip eden beşinci yılın sonuna kadar saklanır ve talep edilmesi halinde Bakanlığa gönderilir.
+(2) İş planı kapsamında gerçekleştirilen faaliyetlere ilişkin teknik ve idari konular ile mali konulara ilişkin yeminli mali müşavir onayının yer aldığı faaliyet raporu kümelenme teşebbüsünce Bakanlığa gönderilir.
+(3) Bakanlık tarafından, desteklerin verilebilmesi için faaliyet raporunda yer alan iş veya işlemlerin idari ve teknik yönden iş planına uygunluğu kontrol edilir. Gerçekleştirilen iş veya işlemlerin uygun bulunması durumunda, yeminli mali müşavir tarafından onaylanan kümelenme teşebbüsü harcamaları ve ayni katkılar esas alınarak destek ödemesi gerçekleştirilir.
+(4) Kümelenme destek ödemelerinin yapılması aşamasında kümelenme teşebbüsünün 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 22/A maddesi kapsamında vadesi geçmiş borcu bulunmadığına ilişkin belge aranır.
