@@ -1,0 +1,2 @@
+Yakalama ve gözaltı işlemlerine karşı hâkime başvurma
+Madde 15 – Yakalama, gözaltına alma işlemine veya gözaltı süresinin uzatılmasına ilişkin Cumhuriyet savcısının yazılı emrine karşı, yakalanan kişi, müdafi veya kanunî temsilcisi, eşi ya da birinci veya ikinci derecede kan hısımı hemen serbest bırakılmasını sağlamak için sulh ceza hâkimine başvurabilir. Yakalanan kişinin dilekçesi yetkili hâkime en seri şekilde ulaştırılır.

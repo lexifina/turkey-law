@@ -1,0 +1,2 @@
+Dayanak
+Madde 3 – Bu Yönetmelik, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu, 7/11/1979 tarihli ve 2253 sayılı Çocuk Mahkemelerinin Kuruluşu, Görev ve Yargılama Usulleri Hakkında Kanun, 4/7/1934 tarihli 2559 sayılı Polis Vazife ve Salahiyet Kanunu, 10/3/1983 tarihli ve 2803 sayılı Jandarma Teşkilât, Görev ve Yetkileri Kanunu, 9/7/1982 tarihli ve 2692 sayılı Sahil Güvenlik Komutanlığı Kanunu, 2/7/1993 tarihli ve 485 sayılı Gümrük Müsteşarlığının Teşkilât ve Görevleri Hakkında Kanun Hükmünde Kararnameye dayanılarak hazırlanmıştır.

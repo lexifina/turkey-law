@@ -1,0 +1,2 @@
+Yakalanan kişinin yetkili mahkemeye götürülmesi
+Madde 16 – Hâkim veya mahkeme tarafından verilen yakalama emri üzerine soruşturma veya kovuşturma evresinde yakalanan kişi, en geç yirmidört saat içinde yetkili hâkim veya mahkeme önüne çıkarılamıyorsa, aynı süre içinde en yakın sulh ceza hâkimi önüne çıkarılır; serbest bırakılmadığı takdirde, yetkili hâkim veya mahkemeye en kısa zamanda gönderilmek üzere tutuklanır.

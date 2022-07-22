@@ -1,0 +1,6 @@
+Müdafiîn soruşturma evrakını incelemesi1
+Madde 22 - Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir örneğini harçsız olarak alabilir. Kollukta bulunan soruşturma dosyası için yetkili Cumhuriyet savcısının yazılı emri gerekir.1
+(Danıştay Onuncu Dairesinin 9/10/2024 tarihli ve E.:2024/1960 sayılı kararı ile yürütmesi durdurulan fıkra; Müdafiîn dosya içeriğini incelemesi veya belgelerden örnek alması, soruşturmanın amacını tehlikeye düşürebilecek ise, Cumhuriyet savcısının talebi üzerine, sulh ceza hâkiminin kararıyla bu yetkisi kısıtlanabilir.)
+(Danıştay Onuncu Dairesinin 9/10/2024 tarihli ve E.:2024/1960 sayılı kararı ile yürütmesi durdurulan fıkra; Yakalanan kişinin veya şüphelinin ifadesini içeren tutanak ile bilirkişi raporları ve adı geçenlerin hazır bulunmaya yetkili oldukları diğer adlî işlemlere ilişkin tutanaklar hakkında, ikinci fıkra hükmü uygulanmaz.)
+Müdafi, Cumhuriyet başsavcılığınca iddianamenin mahkemeye verildiği tarihten itibaren dosya içeriğini ve muhafaza altına alınmış delilleri inceleyebilir; bütün tutanak ve belgelerin örneklerini harçsız olarak alabilir.
+Bu maddenin içerdiği haklardan suçtan zarar görenin vekili de yararlanır.

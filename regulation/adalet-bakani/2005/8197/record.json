@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.8197",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "YAKALAMA, GÖZALTINA ALMA VE İFADE ALMA YÖNETMELİĞİ",
+  "number": "8197",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2005/8197",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=8197&MevzuatTertip=5",
+  "source_sha256": "5cf1e7443fc14fe1b5d73635dcbbf1dc3eb52b9a07ec602b00fe37e579ee43ed",
+  "source_bytes": 107048,
+  "published": "2005-06-01",
+  "gazette": "25832",
+  "in_force": "2022-07-22",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-22/7/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-07-22",
+      "RG-22/7/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-07-22",
+      "22/7/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4931,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.8197%20ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
