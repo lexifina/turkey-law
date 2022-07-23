@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-5855",
+  "number": "5855",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TASARRUF MEVDUATI SİGORTA FONU TEŞKİLÂT YÖNETMELİĞİ",
+  "published": "2022-07-23",
+  "enacted": "2022-07-22",
+  "gazette_number": "31901",
+  "in_force": "2022-07-23",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-07-23, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=5855&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "a2ab4e89538ec8aee15fd0b1691a6fbe4400af57d4b71bdef642ab322b1e6c98",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
