@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39634",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TARIMSAL KURAKLIK YÖNETİMİNİN GÖREVLERİ, ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39634",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2022/39634",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39634&MevzuatTertip=5",
+  "source_sha256": "221dd1b809466d022724adff9b3a4a9da3a1c3c889bf0c47a7ca4d14f6483b18",
+  "source_bytes": 48609,
+  "published": "2022-07-23",
+  "gazette": "31901",
+  "in_force": "2022-07-23",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (23.07.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 990,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
