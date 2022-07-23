@@ -1,0 +1,2 @@
+Tebliğin yayımı tarihinden önce uzlaşma komisyonlarına intikal etmiş uzlaşma taleplerinin durumu
+GEÇİCİ MADDE 1- (1) Bu Tebliğin yayımı tarihine kadar uzlaşma günü tayin edilmemiş uzlaşma talepleri hakkında da bu Tebliğ hükümleri uygulanacaktır. Ancak uzlaşma günü tayin edilmiş olup çeşitli nedenlerle uzlaşma günü ertelenmiş olan mükelleflerin uzlaşma talepleri ise uzlaşmayı erteleyen komisyon tarafından sonuçlandırılacaktır.
