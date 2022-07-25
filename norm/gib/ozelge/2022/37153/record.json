@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-175.01-11857",
+  "source_id": 37153,
+  "date": "2022-07-25",
+  "title": "Emlak Vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/447/ozelge/37153",
+  "related_law": "1319 sayılı EMLAK VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "a1da1a255a1bd75d9bcf1428a2111d3e84e8c7e949eb7641ee9890787a2c131c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
