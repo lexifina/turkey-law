@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-105[mükerrer 257]-11853",
+  "source_id": 25760,
+  "date": "2022-07-25",
+  "title": "Sermaye piyasası aracı kurumları tarafından, müşterilerine dijital platformalar üzerinden verilen data (piyasa verisi, finansal veriler, rasyolar ve diğer verileri) sağlama hizmetine ilişkin olarak \"işlem sonuç formu\" düzenlenip düzenlenemeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/25760",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "6908e4c94d26f2a4ff29ec12b3108a54489822049283a66ccb7ab0b1310b568c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
