@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39639",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "NÜKLEER DÜZENLEME KURUMU İŞLEM VE HİZMET BEDELLERİ YÖNETMELİĞİ",
+  "number": "39639",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39639",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39639&MevzuatTertip=5",
+  "source_sha256": "f36ed21eb40cc47ccb8f2dceaf45be96a1c117d437f922e2b5b3e7a7515e1797",
+  "source_bytes": 57445,
+  "published": "2022-07-26",
+  "gazette": "31904",
+  "in_force": "2022-07-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.07.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 617,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
