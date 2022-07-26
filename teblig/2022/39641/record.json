@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31904",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31904",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-26",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Gençlik ve Spor Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-382-0.json",
+      "id": "382",
+      "label": "Gençlik ve Spor Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=382&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "genclik-ve-spor-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39641&MevzuatTertip=5",
+  "source_bytes": 31548,
+  "source_id": "9.5.39641",
+  "source_sha256": "242ce68f3c21f51e6a95bf968a0045c9ad2bc1d7374a7cbf4e00d4fb0bac615c",
+  "title": "SPOR ANONİM ŞİRKETLERİNİN ESAS SÖZLEŞMESİNİN ASGARİ İÇERİĞİ, ORTAKLIK YAPISI, PAY SAHİPLİĞİ, SERMAYESİ VE ORGANLARINA İLİŞKİN USUL VE ESASLAR TEBLİĞİ",
+  "word_count": 1640
+}
