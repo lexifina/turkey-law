@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "528",
+  "decision_date": "2022-07-27",
+  "source_id": 35880,
+  "chamber": "7",
+  "ilam_number": "104",
+  "item_number": 3,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35880/",
+  "source_sha256": "5d884701cd5fdd5f5846988c2664e5123b9ed70f4ab48034f778f8723212d1c6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
