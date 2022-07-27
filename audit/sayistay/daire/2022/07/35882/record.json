@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "528",
+  "decision_date": "2022-07-27",
+  "source_id": 35882,
+  "chamber": "7",
+  "ilam_number": "104",
+  "item_number": 5,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35882/",
+  "source_sha256": "0158ff22f089defcaf460fba11626d9a65f3c3a0f21d695d016b10b155edd7eb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
