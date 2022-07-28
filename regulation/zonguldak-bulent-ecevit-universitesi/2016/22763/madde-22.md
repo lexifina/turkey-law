@@ -1,0 +1,2 @@
+Değişim programları
+MADDE 22 – (1) Üniversite ile yurt içindeki veya yurt dışındaki yükseköğretim kurumları arasında yapılan anlaşmalar uyarınca üniversiteler arası öğrenci değişim programları uygulanabilir. Bu programlar çerçevesinde öğrenciler bir veya iki yarıyıl bu üniversitelere gönderilebilir. Değişim programları, ikili anlaşmalar ve Yükseköğretim Kurulunca belirlenen esaslar doğrultusunda uygulanır.

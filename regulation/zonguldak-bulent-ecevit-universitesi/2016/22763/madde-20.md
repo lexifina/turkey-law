@@ -1,0 +1,3 @@
+Ders muafiyetleri
+MADDE 20 – (1) Fakülte kurulun önerisi ve Senatonun kabulü ile belirlenen dersler için muafiyet sınavları açılabilir. Öğrenciler bu sınavlara, dersleri ilk kez alacakları yarıyıl başında girebilirler. Muafiyet sınavlarında başarılı sayılmak için en az CC notu almak gerekir.
+(2) Fakülteye ilk kez kayıt yaptıran öğrenci, daha önce öğrenim gördüğü yükseköğretim kurumlarında aldığı ve başarılı olduğu derslerden muaf olmak için kayıt yaptırdığı öğretim yılının ilk 15 günü içinde dekanlığa başvurabilir. Öğrencinin muaf sayıldığı derslerden aldığı notlar, Fakülte Yönetim Kurulunca 26 ncı maddede belirtilen notlara dönüştürülerek not dökümünde ayrı bir bölüm halinde gösterilir ve akademik ortalamalara dâhil edilir.

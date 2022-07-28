@@ -1,0 +1,2 @@
+Öğrenci katkı payı
+MADDE 10 – (1) Öğrencilerden alınacak katkı payı ücreti 2547 sayılı Kanunun 46 ncı maddesinde belirtilen esaslara göre alınır. Öğrenci katkı payları Akademik takvimde öngörülen süreler içinde ödenir. Süresi içinde katkı payını ödemeyen veya eksik ödeyenlerin ve mazeretleri Fakülte Yönetim Kurulunca kabul edilmeyenlerin o dönem için kayıt veya kayıt yenileme işlemleri yapılmaz ve öğrencilik haklarından yararlanamazlar.

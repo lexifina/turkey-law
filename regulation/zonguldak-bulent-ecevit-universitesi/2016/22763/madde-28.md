@@ -1,0 +1,4 @@
+Ders tekrarı
+MADDE 28 – (1) Bir dersten DZ, GR, FF ve YZ notlarından birini alan öğrenci, o dersi açıldığı ilk yarıyılda tekrarlamak zorundadır. Ancak tekrarlanan derslerin yarıyıl ders programlarında çakışması halinde, öğrenci bu derslerden birini Fakülte Yönetim Kurulu kararıyla almayabilir.
+(2) Başarısız olunan ders seçmeli ders ise öğrenci bu dersin yerine, gerekçeli olarak Fakülte Yönetim Kurulu kararıyla, ders alma ve bırakma günleri sonuna kadar başka seçmeli dersleri alabilir. Öğrenci, başarısız olduğu bu seçmeli ders yerine başka bir seçmeli ders almadıkça, üzerinden silinmez.
+(3) Öğrenciler genel akademik ortalamalarını yükseltmek amacıyla bulundukları yarıyılda almaları gereken derslere ek olarak, daha önce başarılı sayıldıkları dersleri de, kredi sınırları içinde tekrarlayabilir. Tekrarlanan derslerde en son alınan not geçerli olup, akademik ortalamalara bu not dahil edilir.

@@ -1,0 +1,3 @@
+Fakülteye kayıt
+MADDE 11 – (1) Fakülteye kabul edilen öğrencilerin ilk kayıt işlemleri Rektörlükçe belirlenen ve ilan edilen tarihlerde, istenen belgelerle birlikte yapılır. İstenen belgelerin aslı veya Üniversite tarafından onaylı örneği kabul edilir. Askerlik durumu ve adli sicil kaydına ilişkin olarak ise adayın yazılı beyanına dayanılarak işlem yapılır. Süresi içinde kaydını yaptırmayan ve/veya istenen belgeleri süresi içinde sağlayamayan öğrenciler kayıt haklarını kaybeder. Gerçeğe aykırı belge verenlerin ya da yazılı beyanda bulunanların kayıtları yapılmış olsa dahi iptal edilir.
+(2) Üniversiteye kaydını yaptıran öğrenci 18 inci maddeye göre ders alma işlemlerini yaparak öğrenimine başlar.

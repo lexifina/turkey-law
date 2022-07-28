@@ -1,0 +1,3 @@
+Mezuniyet derecesi
+MADDE 34 – (1) Öğrenimlerini tamamlayarak diploma alan öğrencilere, ayrıca, öğrenimlerindeki mezuniyet derecesini, başarı katsayısını, aldıkları ders, proje, laboratuvar, seminer gibi çalışmaları başarı notları ile birlikte gösteren bir öğrenim belgesi ile diploma eki verilir.
+(2) Öğrenim belgesinde mezuniyet derecesi; genel akademik not ortalaması 3,50 - 4,00 olan öğrenciler için yüksek onur öğrencisi, genel akademik not ortalaması 3,00 - 3,49 olan öğrenciler için onur öğrencisi olarak belirtilir. Genel akademik not ortalaması 2,00 - 2,99 olan öğrenciler için mezuniyet derecesi belirtilmez.
