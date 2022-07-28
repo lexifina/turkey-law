@@ -1,0 +1,2 @@
+Fiyat farkı
+MADDE 29- (1) Alımlarda esas alınacak para birimi yabancı ülke para birimi olduğunda fiyat farkı hesaplanmaz. Ancak 7 nci maddenin birinci fıkrasının (a) bendi gereğince yapılan alımlarda, alım dokümanında belirtmek kaydıyla fiyat farkı hesaplanabilir. Türk Lirası esas alınarak yapılan alımlarda, onay belgesinde veya dokümanda belirtilmesi kaydıyla, 4735 sayılı Kanun hükümlerine göre fiyat farkı hesaplanabilir.

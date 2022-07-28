@@ -1,0 +1,2 @@
+Ön ödeme/avans ve krediler
+MADDE 33- (1) Bu Usul ve Esaslar kapsamındaki alımlarda avans ve kredi işlemleri, işin özelliğine göre 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu ile 3833 sayılı Kanun ve bu kanunlara dayanılarak çıkarılan mevzuat hükümlerine göre yürütülür. Yükleniciye avans verilip verilmeyeceği, verilecekse oranı ve avans teminatı alınıp alınmayacağı alım dokümanında belirtilir.

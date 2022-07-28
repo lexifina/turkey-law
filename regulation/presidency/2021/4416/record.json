@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-4416",
+  "number": "4416",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MİLLİ SAVUNMA BAKANLIĞI ASKERİ FABRİKALAR GENEL MÜDÜRLÜĞÜ VE TERSANELER GENEL MÜDÜRLÜĞÜ TARAFINDAN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK MAL VE HİZMET ALIMLARINA İLİŞKİN USUL VE ESASLAR",
+  "published": "2021-08-25",
+  "enacted": "2021-08-24",
+  "gazette_number": "31579",
+  "in_force": "2022-07-28",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 28/7/2022; source row: 27/7/2022 | 5909 | Geçici Madde 3 | 28/7/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=4416&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "92f4d4a18bf7a6dace35c26857ae64e27c036436811cd6f11499cb8ea9646e44",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

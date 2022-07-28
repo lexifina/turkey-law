@@ -1,0 +1,2 @@
+Sınır ötesi ve terörle mücadele harekâtı kapsamındaki alımlar
+MADDE 35- (1) Türk Silahlı Kuvvetlerine sınır ötesinde veya terörle mücadele harekâtında verilen her türlü görev kapsamında yurt içinde veya yurt dışında ihtiyaç duyulan alımlar, bu Usul ve Esaslara tabi olmaksızın, usul ve esasları ile ödeme şekli belirtilmek kaydıyla Genel Müdürlük tarafından alınacak Bakan onayına istinaden, Bakanlıkça veya diğer kamu kurum ve kuruluşları vasıtasıyla tedarik edilir veya yaptırılır.

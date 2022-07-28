@@ -1,0 +1,3 @@
+Sözleşme hükümlerinin uygulanması
+MADDE 27- (1) Sözleşmenin imzalanmasından sonraki faaliyetler, sözleşmede yer alan hükümler dahilinde gerçekleştirilir.
+(2) Sözleşme kapsamında tedarik edilmesi öngörülen kalemlerin kullanımını engellemeyecek kusur veya eksiklik bulunduğunun tespit edilmesi ve teknik olarak kabulünde sakınca olmadığı hususunda ihtiyaç makamının uygun görüşünün alınması halinde söz konusu kalemlerin kabulüne yönelik işlemler, sözleşme bedelinin en fazla % 10’u kadar nefaset farkı kesilmesine yönelik Bakanlık onayı alınması suretiyle yapılabilir. Kusur ve eksikliklerin tutarının sözleşme bedelinin % 10’unu aşması durumunda, sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir. Bu fıkranın uygulanmasına ilişkin hususlar Bakanlıkça belirlenir.

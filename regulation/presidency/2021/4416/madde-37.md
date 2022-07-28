@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan mevzuat
+MADDE 37- (1) 18/8/2017 tarihli ve 30158 mükerrer sayılı Resmî Gazete’de yayımlanarak yürürlüğe konulan 17/7/2017 tarihli ve 2017/10605 sayılı Bakanlar Kurulu Kararının eki Milli Savunma Bakanlığı Askeri Fabrikalar Genel Müdürlüğü ve Tersaneler Genel Müdürlüğü tarafından 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (b) bendi kapsamında yapılacak ihalelere ilişkin Esaslar yürürlükten kaldırılmıştır.

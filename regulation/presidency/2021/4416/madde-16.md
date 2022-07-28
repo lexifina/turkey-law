@@ -1,0 +1,3 @@
+İlan ve alım dokümanının bedeli
+MADDE 16- (1) Alımlarda ön ilan ve/veya ilan yapılıp yapılmayacağı, ilan yapılacak ise süreleri ve ilanın nerede yapılacağı alım onay belgesinde belirtilir. İlanların ilgili Genel Müdürlüğün internet sitelerinde yapılması esastır.
+(2) Alım dokümanı, teklif verecek isteklilerin yetkili temsilcilerine, doküman bedelinin yatırıldığına dair makbuzun teslim edilmesi şartı ile imza karşılığında verilir. Alım dokümanı bedeli alım onay belgesinde tespit edilir. Alım doküman bedelleri, ilgili Genel Müdürlüğün hesabına gelir kaydedilir. Onay belgesinde belirtilmek kaydıyla, alım dokümanları bedelsiz olarak da isteklilere verilebilir.

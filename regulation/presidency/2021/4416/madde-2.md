@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Usul ve Esaslar, Milli Savunma Bakanlığı Askeri Fabrikalar Genel Müdürlüğü ve Tersaneler Genel Müdürlüğü ile bağlılarının savunma, güvenlik veya istihbarat alanları ile ilişkili olduğuna veya gizlilik içinde yürütülmesi gerektiğine Milli Savunma Bakanlığı tarafından karar verilen veya mevzuatı gereğince sözleşmenin yürütülmesi sırasında özel güvenlik tedbirleri alınması gereken veya Devlet güvenliğine ilişkin temel menfaatlerin korunmasını gerektiren hallerle ilgili olan mal ve hizmet alımlarını kapsar.
