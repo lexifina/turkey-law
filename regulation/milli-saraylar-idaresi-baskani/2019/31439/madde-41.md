@@ -1,0 +1,2 @@
+Tekliflerin eşit olması
+MADDE 41- (1) En düşük fiyatın ekonomik açıdan en avantajlı teklif olarak değerlendirildiği ihalelerde, birden fazla istekli tarafından aynı fiyatın teklif edildiği ve bunların da ekonomik açıdan en avantajlı teklif olduğu anlaşıldığı takdirde, ihale komisyonu bu isteklilerce sunulan iş deneyim belgelerinin tutarlarını değerlendirmek suretiyle ekonomik açıdan en avantajlı teklifi belirler ve ihaleyi sonuçlandırır. İş deneyim belgesi istenmeyen ihalelerde kura çekilir.

@@ -1,0 +1,2 @@
+Tekliflerin hazırlanması
+MADDE 33- (1) İstekliler, ihale dokümanında teklif ile birlikte sunulması gerektiği belirtilen tüm belgelerini bir zarfa koyarak kapatırlar. Zarfın veya paketin üzerine isteklinin adı, soyadı veya ticaret unvanı, tebligata esas açık adresi, teklifin hangi işe ait olduğu ve ihaleyi yapan idarenin açık adresi yazılır. Zarfın yapıştırılan yeri istekli tarafından imzalanarak mühürlenir veya kaşelenir.

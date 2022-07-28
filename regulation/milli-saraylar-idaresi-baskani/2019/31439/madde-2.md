@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Cumhurbaşkanlığının sorumluluğunda olup Milli Saraylar İdaresi Başkanlığının yönetiminde bulunan saray, köşk, kasır, müzeler ve tarihî fabrikalar ile bunların bünyesindeki taşınır ve taşınmaz kültür varlıklarının; bakım, onarım ve restorasyonları ile çevre düzenlemesine ilişkin mal ve hizmet alımları ile münhasıran özel ihtisas gerektiren konularda mütalaa ve hukuki hizmet satın alma işlerini kapsar.

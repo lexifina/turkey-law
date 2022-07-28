@@ -1,0 +1,2 @@
+Yaklaşık maliyetin belirlenememesi
+MADDE 14- (1) İhale konusu işin özgün niteliği ve/veya karmaşık olması nedeniyle, teknik ve mali özellikleri ile yaklaşık maliyeti, gerekli olan nitelikte belirlenememesi durumunda, bu durumu gerektiren sebepler bir tutanakla tespit edilir ve ihaleyi yapan idarenin üst yöneticisinin onayı alınmak suretiyle 16 ncı maddenin birinci fıkrasının (c) bendine göre ihale yapılabilir.

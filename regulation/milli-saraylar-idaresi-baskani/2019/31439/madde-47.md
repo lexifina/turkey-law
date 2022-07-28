@@ -1,0 +1,6 @@
+ON İKİNCİ BÖLÜM
+Sözleşmenin Uygulanması ile İlgili Hükümler
+İş miktarında artma veya eksilme
+MADDE 47- (1) Uygulama işleri ile mal ve hizmet alım işlerine ait sözleşmelerin uygulanması sırasında taahhüt edilen işte; projede, malzemede, detayda, imalat veya imalat miktarlarında öngörülemeyen durumlar nedeniyle zorunlu olarak revizyon yapılması halinde bu değişikliklerle ilgili işin bedelinde artma veya eksilme meydana geldiği takdirde, artışa konu olan işin, sözleşmeye esas proje içinde kalması ve idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması halinde yüklenici sözleşme bedelinin % 50’si içinde kalan fazlasını veya eksiğini aynı sözleşme hükümleri çerçevesinde yapmaya mecburdur. Değiştirilen veya ilave edilen iş oranında ek teminat almak kaydıyla arttırılacak işe gerekli süre verilir.
+(2) Sözleşme bedelinin % 50’sine kadar bir artış verilmesi ve işin bu artışla da tamamlanamaması durumunda veya artışı gerektiren ilk değerlendirmede sözleşme bedelinin % 50’sine kadar fazla artış gerektiren hallerde harcama yetkilisinin, sözleşme bedelinin % 100’üne kadar artış gerektiren hallerde ise Başkanın onayı ile gerçekleştirilebilir.
+(3) İşin bu şartlar dâhilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir.
