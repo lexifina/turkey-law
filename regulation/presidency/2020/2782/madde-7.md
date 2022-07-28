@@ -1,0 +1,2 @@
+İhale işlem dosyası
+MADDE 7- (1) İhalesi yapılacak her iş için bir işlem dosyası düzenlenir. Bu dosyada ihtiyaca ilişkin olur belgesi, ihale yetkilisince onaylanan ihale onay belgesi ve eki yaklaşık maliyete ilişkin hesap cetveli, ihale dokümanı, adaylar veya istekliler tarafından sunulan başvurular veya teklifler ve diğer belgeler ile ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.

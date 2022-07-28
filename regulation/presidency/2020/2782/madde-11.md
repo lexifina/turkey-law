@@ -1,0 +1,5 @@
+İlan süreleri
+MADDE 11- (1) İhale ilanları, ihale tarihinden en az on gün önce Resmî Gazete’de ve/veya Kamu İhale Bülteninde en az bir defa yayımlanmak suretiyle yapılır.
+(2) Yaklaşık maliyeti, 4734 sayılı Kanunun 13 üncü maddesinin (b) bendinin (2) numaralı alt bendinde mal ve hizmet alımları için öngörülen değerlere eşit veya altında olan ihalelerin ilanları, ihale tarihinden en az yedi gün önce ihalenin veya işin yapılacağı yerde çıkan gazetelerin birinde yapılır.
+(3) İhalenin yapılacağı yerde günlük gazete çıkmaması halinde ilan, aynı süreler içinde ilgili idare ile hükümet ve belediye binalarının ilan tahtalarına asılacak yazılar ve belediye yayın araçları ile yapılır. Bu işlemler bir tutanakla belgelenir.
+(4) İdare, yukarıda belirtilen zorunlu ilanların dışında işin önem ve özelliğine göre ihaleleri, uluslararası ilan veya yurt içinde çıkan başka gazeteler veya yayın araçları, bilgi işlem ağı veya elektronik haberleşme (internet) yolu ile de ayrıca ilan edebilir. Ancak uluslararası ilan yapılması halinde yukarıda belirtilen asgari ilan sürelerine on iki gün eklenir.

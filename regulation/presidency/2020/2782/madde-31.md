@@ -1,0 +1,5 @@
+Sözleşme kapsamında yaptırılabilecek ilave işler ve iş eksilişi
+MADDE 31- (1) Gerek görülmesi halinde, sözleşmeye esas proje içinde kalması, idareyi külfete sokmaksızın asıl işten ayrılmasının teknik veya ekonomik olarak mümkün olmaması şartıyla aşağıdaki şekilde iş artışı veya eksilişi yapılabilir:
+a) Mal alımı ve hizmet alımı sözleşmelerinde, sözleşme bedelinin % 25 oranına kadar iş artışı veya iş eksilişi yapılabilir. İş artışı yapılması durumunda bu artışla orantılı olarak işin ilgili kısmı veya tamamı için işin süresi uzatılır.
+(2) İşin bu şartlar dahilinde tamamlanamayacağının anlaşılması durumunda ise artış yapılmaksızın hesabı genel hükümlere göre tasfiye edilir. Ancak bu durumda, işin tamamının ihale dokümanı ve sözleşme hükümlerine uygun olarak yerine getirilmesi zorunludur.
+(3) Sözleşme bedelinin % 75’inden daha düşük bedelle tamamlanacağı anlaşılan işlerde, yüklenici işi bitirmek zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve yüklenici kârına karşılık olarak, sözleşme bedelinin % 75’i ile sözleşme fiyatlarıyla yaptığı işin tutarı arasındaki bedel farkının % 5’i geçici kabul tarihindeki fiyatlar üzerinden ödenir.

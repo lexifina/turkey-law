@@ -1,0 +1,4 @@
+Geçici teminat
+MADDE 19- (1) İhalelerde, teklif edilen bedelin % 3’ünden az olmamak üzere, istekli tarafından verilecek tutarda geçici teminat alınır. Geçici teminatın banka teminat mektubu şeklinde verilmesi durumunda; tekliflerin geçerlilik süresine en az otuz gün ilave edilerek geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması halinde, geçici teminat mektuplarının süresi de aynı süre ile uzatılır.
+(2) İhale üzerinde kalan ve ikinci sıradaki teklif sahibinin geçici teminatı, ihale üzerinde kalan istekliden kesin teminat alınıp sözleşme imzalandıktan hemen sonra iade edilir. Diğer isteklilerin geçici teminatları ise ihaleden hemen sonra iade edilir.
+(3) Teminat olarak kabul edilecek değerler için 4734 sayılı Kanunun ilgili hükümleri ile Kamu İhale Kurumunun tespit ettiği hususlar geçerlidir.
