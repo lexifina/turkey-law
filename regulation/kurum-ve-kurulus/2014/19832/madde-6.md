@@ -1,0 +1,2 @@
+Üyelerin görev süresi
+MADDE 6 – (1) Kurul üyelerinin görev süresi üç yıldır. Süresi bitenler yeniden görevlendirilebilir veya seçilebilir. Üyelik herhangi bir sebeple boşaldığı takdirde, boşalan üyeliklere 4 üncü madde esasları dâhilinde bir ay içinde görevlendirme veya seçim yapılır. Yeni üye yerine atandığı üyenin kalan süresini tamamlar. Süresi dolan üyenin görevi, yeni üye görevine başlayıncaya kadar devam eder.
