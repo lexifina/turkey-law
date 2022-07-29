@@ -1,0 +1,3 @@
+Eksik bilgilendirme
+MADDE 10 – (1) Satıcı veya sağlayıcının 5 inci maddenin birinci ve üçüncü veya 6 ncı maddenin birinci ya da 8 inci maddenin ikinci fıkralarında belirtilen yükümlülüklere aykırı hareket etmesi durumunda, tüketici cayma hakkını kullanmak için on dört günlük süreyle bağlı değildir. Bu süre her halükarda cayma süresinin bittiği tarihten itibaren bir yıl sonra sona erer.
+(2) Birinci fıkrada belirtilen yükümlülüklerin bir yıllık süre içinde yerine getirilmesi halinde, on dört günlük cayma hakkı süresi, bu yükümlülüklerin gereği gibi yerine getirildiği tarihten itibaren işlemeye başlar.

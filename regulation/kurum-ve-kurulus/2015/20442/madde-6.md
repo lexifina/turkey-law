@@ -1,0 +1,5 @@
+Sözleşmenin şekli ve içeriği
+MADDE 6 – (1) Satıcı veya sağlayıcı, 5 inci madde uyarınca tüketiciye verilen ön bilgilendirme formunda yer alan bilgilerle birlikte tüketicinin adı, soyadı, açık adresi ve diğer iletişim bilgileri ile tarafların sözleşmeyi imzaladığı yer ve tarihe ilişkin bilgileri de içeren bir sözleşme düzenlemek ve yazılı veya mesafeli olarak kurulan bu sözleşmelerin bir örneğini kağıt üzerinde veya kalıcı veri saklayıcısı ile tüketiciye vermek zorundadır. Daha ağır şekil şartları öngören kanun hükümleri saklıdır. Aksi halde satıcı veya sağlayıcı sonradan sözleşmenin geçersizliğini tüketicinin aleyhine olacak şekilde ileri süremez.
+(2) Bu Yönetmelik kapsamında yer alan sözleşmelerin en az on iki punto büyüklüğünde, anlaşılabilir bir dilde, açık, sade, okunabilir bir şekilde düzenlenmesi zorunludur.
+(3) Mesafeli satış yöntemiyle kurulan sözleşmeler hariç olmak üzere satıcı veya sağlayıcı, tüketicinin kendi el yazısıyla sözleşme tarihini yazmasını ve sözleşmeyi imzalamasını sağlamakla yükümlüdür.
+(4) Sözleşmenin bir örneğinin tüketiciye verildiğine ilişkin ispat yükü satıcı veya sağlayıcıya aittir.

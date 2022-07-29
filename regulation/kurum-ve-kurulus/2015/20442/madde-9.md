@@ -1,0 +1,6 @@
+Satıcı veya sağlayıcının yükümlülükleri
+MADDE 9 – (1) (Değişik ibare:RG-29/7/2022-31907) Satıcı veya sağlayıcı, cayma süresi dolmadan tüketiciden herhangi bir isim altında ödeme yapmasını veya tüketiciyi borç altına sokan herhangi bir belge vermesini isteyemez. Bu yasağa rağmen tüketiciden herhangi bir bedel alınması durumunda, alınan bedel tüketiciye derhal iade edilir. Ayrıca tüketiciyi borç altına sokan her türlü belge tüketici yönünden geçersizdir.
+(2) Tüketicinin cayma hakkını kullanması durumunda, cayma hakkının kullanılmasından önce sunulan hizmete ilişkin olarak tüketiciden herhangi bir bedel talep edilemez.
+(3) Tüketicinin devre mülk hakkı veren sözleşmelerden cayma hakkını kullanması durumunda, tüketiciye iade edilmesi gereken tutar ve tüketiciyi borç altına sokan her türlü belge, cayma bildiriminin satıcı veya sağlayıcıya ulaştığı tarihten itibaren en geç on dört gün içinde tüketiciye geri verilir.
+(4) Değişim sözleşmesinin devre tatil sözleşmesi ile birlikte ve aynı zamanda tüketicilere verildiği hallerde, cayma hakkının kullanımına ilişkin süreler her iki sözleşme için de geçerlidir.
+(5) Satıcı veya sağlayıcı, yeniden satış sözleşmesi kapsamında satış işlemi gerçekleşmedikçe tüketiciden ödeme yapmasını isteyemez.

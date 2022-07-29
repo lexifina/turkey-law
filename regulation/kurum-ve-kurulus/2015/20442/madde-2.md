@@ -1,0 +1,4 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik hükümleri devre tatil, (Mülga ibare:RG-29/7/2022-31907) uzun süreli tatil hizmeti, değişim ve yeniden satış sözleşmelerini kapsar.
+(2) Devre tatil sözleşmeleri ile sağlanan hakkın şahsi veya ayni bir hak olması, (Değişik ibare:RG-29/7/2022-31907) devre tatil satışının finansal kiralama ile yapılması veya konaklamanın aynı zamanda seyahat ya da diğer hizmetlerle beraber sunulması bu Yönetmelik hükümlerinin uygulanmasını engellemez.
+(3) Bu Yönetmeliğin uygulanmasında, devre mülk, dönem mülk, paylı mülkiyet, hisseli gayrimenkul satışı ve benzeri isimler altında yapılan ve tapu tesciline konu edilen satışlara ilişkin sözleşmeler, bir yıldan uzun süre için kurulması ve tüketiciye bu süre zarfında birden fazla dönem için bir veya daha fazla sayıda gecelik konaklama imkânı tanıması halinde devre tatil sözleşmesi olarak kabul edilir.
