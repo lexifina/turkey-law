@@ -1,0 +1,4 @@
+Artırımlı fiyat farkı, ek fiyat farkı, süre uzatımı, sözleşmenin feshi
+GEÇİCİ MADDE 3- (Ek:RG-30/7/2022-31908)
+(1) Bu Yönetmelik kapsamında ihalesi yapılan mal ve hizmet alımları ile yapım işlerine ilişkin Türk Lirası üzerinden yapılan sözleşmelerde, 12/5/2022 tarihli ve 5546 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 4735 Sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 6 ncı Maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda artırımlı fiyat farkı ile ek fiyat farkı hesaplanması, süre uzatımı verilmesi ve sözleşmelerin feshine ilişkin usul ve esaslara göre işlem yapılabilir.
+(2) 4735 Sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 6 ncı Maddesinin Uygulanmasına İlişkin Esaslar ile yüklenicilerin Teşekküle başvurusu için belirlenen süreler, bu maddenin yayımı tarihinden itibaren hesaplanır.

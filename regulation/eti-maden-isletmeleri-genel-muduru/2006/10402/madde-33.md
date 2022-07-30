@@ -1,0 +1,7 @@
+Kesin teminat ve ek kesin teminat
+MADDE 33 – (Değişik:RG-31/7/2010-27658)
+(1) (Değişik:RG-6/12/2018-30617) Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirilmesini sağlamak amacıyla, işin kapsam ve niteliği dikkate alınarak sözleşmenin yapılmasından önce ihale üzerinde kalan isteklilerden sözleşme bedeli üzerinden hesaplanmak suretiyle en az yüzde altı ile en fazla yüzde on oranı aralığında kesin teminat alınır.
+(2) Fiyat farkı ödenmesi öngörülerek ihale edilen işlerde, fiyat farkı olarak ödenecek bedelin, iş miktarındaki artış nedeniyle sözleşme bedelinde artış meydana gelmesi halinde bu artış tutarının yüzde altısı oranında, teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat miktarı hak edişlerden kesinti yapılmak suretiyle de karşılanabilir.
+(3) (Değişik:RG-2/8/2013-28726) Kesin teminat mektupları süresiz olarak verilir. Ancak, yurt dışı alımlarda otomatik temditli olmak koşuluyla süreli banka teminat mektupları da kabul edilebilir. İlgili mevzuata aykırı olarak düzenlenmiş kesin teminat mektupları kabul edilmez.
+(4) Ek kesin teminatın teminat mektubu olması halinde, ek kesin teminat mektubunun süresi, kesin teminat mektubunun süresinden daha az olamaz.
+(5) (Ek:RG-6/12/2018-30617) Yurt dışından doğrudan temin kapsamında yapılacak yedek parça alımlarında, kesin teminat mektubu süreli olarak alınabilir.

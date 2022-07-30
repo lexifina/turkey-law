@@ -1,0 +1,2 @@
+GEÇİCİ MADDE 1 –(Değişik:RG-6/12/2018-30617)
+(1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce, işlemi başlamış olan ihalelerde; ihale işleminin tamamlanıp, mal veya hizmet alımının sonuçlanarak dosyasının kapatılmasına kadar, 15/6/2006 tarihli ve 26199 sayılı Resmî Gazete’de yayımlanan Eti Maden İşletmeleri Genel Müdürlüğünün 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (g) Bendi Kapsamında Yapacağı Mal ve Hizmet Alımlarında Uygulanacak Usul ve Esaslar Hakkındaki Yönetmelik hükümleri uygulanır.

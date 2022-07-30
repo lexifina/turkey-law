@@ -1,0 +1,19 @@
+Pazarlık usulü
+MADDE 23 –(Değişik:RG-6/12/2018-30617)
+(1) Mal veya hizmet alımının pazarlık usulü ihale ile yapılabilmesi için;
+a) Açık ihale usulü ile yapılan ihalenin sonucunda teklif temin edilememesi,
+b) Ani ve beklenmeyen veya Teşekkül tarafından önceden öngörülemeyen olayların ortaya çıkması üzerine, ihalenin ivedi olarak yapılmasının zorunlu olması,
+c) İhalenin araştırma-geliştirme sürecine ihtiyaç gösteren ve seri üretime konu olmayan nitelikte olması,
+ç) İhale konusu mal ya da hizmet alımlarının özgün nitelikte ve karmaşık olması nedeniyle, teknik ve mali özelliklerinin gerekli olan netlikte belirlenememesi,
+d) Teşekkülün faaliyetleri ile ilgili her türlü mal, hammadde ve ürünün karayolu, demiryolu, havayolu taşıtları ile taşınması kapsamında; nakliye, taşıt, iş makinesi, gemi ve konteyner kiralama, konteyner dolumu, gözetim, yükleme ve liman hizmetleri dâhil olmak üzere her türlü hizmetin satın alınması,
+e) Savunma ve güvenlikle ilgili özel durumların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması,
+f) İhale konusu mal veya hizmet alımının Teşekkülün faaliyetlerini aksatacak kadar acil olması nedeniyle ihalenin ivedi olarak yapılmasının zorunlu olması. Bu kapsamda yapılacak olan ihalelerde talep eden birimin ihtiyacın aciliyetini ve gerekçesini talebinde belirtmesi ve bu hususa ihale onayında yer verilmesi,
+g) Yatırım programında yer alan mal alımlarında ödeneğin o yıl içinde kullanılamama riskinin öngörülmesi,
+ğ) İhalenin iptali veya İdarenin taraf olduğu mevcut bir sözleşmenin ortadan kalkması sebebi ile yeni bir ihalenin sonuçlandırılmasına kadar geçecek süre için temini zorunlu ihtiyaçların olması,
+h) Yaklaşık maliyeti 4734 sayılı Kamu İhale Kanununun 3 üncü maddesinin (g) bendinde belirlenen güncel parasal limitin 1/3’ünü geçmeyen mal ve hizmet alımları olması,
+gibi nedenlerden en az birinin bulunması gerekir.
+(2) Pazarlık usulünde; ihtiyaç konusu alanda faaliyet gösteren en az üç istekliye, ihale dokümanı bedelsiz gönderilerek ihaleye davet edilir. Davete rağmen üçten az teklif temin edilmesi halinde de ihale sonuçlandırılabilir. Teklifler, ihale dokümanında belirtilen ihale saatine kadar tekliflerin sunulacağı yere verilir.
+(3) Pazarlık usulü ile yapılan ihalelerde; ihtiyacın niteliğine göre, ilan yapılması, geçici teminat alınması, isteklilerde belirli yeterlik kriterlerinin aranması ile sözleşme düzenlenmesi ihale yetkilisinin kararı ile belirlenir. Ayrıca, bu maddenin birinci fıkrasının (d) bendinde açıklanan konularda yapılacak alımlarda; kesin teminatın alınıp alınmayacağı, ihale yetkilisinin kararı ile belirlenir.
+(4) 23 üncü maddenin birinci fıkrasının © ve (ç) bentlerine göre yapılacak ihalelerde, ihale dokümanında belirtilen değerlendirme kriterlerine göre yeterliği tespit edilen istekliler, öncelikle ihale konusu işin teknik detayları ve gerçekleştirme yöntemleri gibi hususlarda fiyatı içermeyen ilk tekliflerini sunar. İdarenin ihtiyaçlarını en uygun şekilde karşılayacak yöntem ve çözümler üzerinde ihale komisyonu her bir istekli ile görüşür. Teknik görüşmeler sonucunda şartların netleşmesi üzerine bu şartları karşılayabilecek isteklilerden, gözden geçirilerek şartları netleştirilmiş teknik şartnameye dayalı olarak fiyat tekliflerini de içerecek şekilde tekliflerini vermeleri istenir.
+(5) Bu madde kapsamında yapılacak ihalelerde ilk fiyat tekliflerini aşmamak üzere isteklilerden ihale kararına esas olacak son yazılı fiyat teklifleri alınarak ihale sonuçlandırılır.
+(6) Son fiyat tekliflerinin okunması aşamasında da en avantajlı teklifin yaklaşık maliyetin üzerinde olması nedeniyle ihalenin sonuçlandırılamaması ihtimalinin olması durumunda, ihale komisyonu ekonomik açıdan en avantajlı teklif sahibi/sahipleri ile yazılı teklif almak ve bedel üzerinden anlaşmak suretiyle ihaleyi sonuçlandırabilir.

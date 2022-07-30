@@ -1,0 +1,3 @@
+İhale işlem dosyası
+MADDE 8 – (Değişik:RG-6/12/2018-30617)
+(1) İhalesi yapılacak her iş için bir işlem dosyası düzenlenir. Bu dosyada talep sahibi birimin istek yazısı ve ekindeki yaklaşık maliyet tablosu ile varsa tedarikçi/hizmet sunucusu listesi, ihale yetkilisinden alınan onay belgesi ve eki ihale dokümanları, ödeneğe ilişkin belgeler, ilan metinleri, düzenlenmiş ise zeyilname ve yapılmış ise açıklamalar, istekliler tarafından sunulan başvurular, teklifler ve diğer belgeler, alımın sadece gerçek veya tüzel tek kişi tarafından karşılanacağı söz konusu olan durumlarda, talep sahibi birimce hazırlanmış gerekçeli yazı, ihale komisyonu tutanak ve kararları gibi ihale süreci ile ilgili bütün belgeler bulunur.
