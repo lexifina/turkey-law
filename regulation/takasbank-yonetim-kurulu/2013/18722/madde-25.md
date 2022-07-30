@@ -1,0 +1,6 @@
+Teminatların ve pozisyonların ayrıştırılması
+MADDE 25 – (1) Takasbank, MKT hizmeti verdiği piyasa veya sermaye piyasası araçlarında, müşterilerin pozisyon ve teminatlarını, üyeye bağlı ancak üyenin kendi portföyüne ait pozisyon ve teminatlardan ayrı hesaplarda izler.
+(2) Çoklu pozisyon hesaplarının kullanılabildiği piyasa veya sermaye piyasası araçlarında, müşteri pozisyon ve teminatlarının, MKT üyesi tarafından talep edilmesi halinde Takasbank nezdinde açılan kendisine bağlı tekil pozisyon hesapları ile müşteriye ait teminat alt hesaplarında izlenmesi gereklidir. Takasbank türev araçların işlem gördüğü piyasalar hariç olmak üzere, esasları ilgili piyasa yönergelerinde belirlenmek suretiyle diğer piyasa veya sermaye piyasası araçlarında tekil hesapların kullanımını kısıtlayabilir.
+(3) Tekil pozisyon hesaplarındaki pozisyonlarla ilişkili teminat hesaplarında izlenen müşteri teminatları, MKT üyesinin kendisine ait hesaplarda veya diğer müşterilere ait hesaplarda ortaya çıkan teminat açıklarının kapatılmasında kullanılamaz.
+(4) İşlemci kuruluşların pozisyon ve teminatları genel MKT üyelerine bağlı münhasıran açılmış alt hesaplarda izlenir.
+(5) MKT hizmetlerinde uygulanacak ayrıştırmaya ilişkin diğer usul ve esaslar, piyasa ve sermaye piyasası araçlarının özellikleri ve risklilik durumları dikkate alınarak ilgili piyasa yönergeleri ile belirlenir.

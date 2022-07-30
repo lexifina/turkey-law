@@ -1,0 +1,3 @@
+Teminata konu sermaye piyasası araçlarından doğan haklar
+MADDE 24 – (1) Teminata konu sermaye piyasası araçlarından doğan haklar, esas olarak teminat verene aittir.
+(2) Takasbank ile teminat veren MKT üyesi arasında yapılan sözleşme ile Kanunun 47 nci maddesi çerçevesinde teminatların mülkiyetinin Takasbank’a devri halinde, söz konusu teminatlardan doğan haklar Takasbank’a aittir. İlgili MKT üyesinin yükümlülüklerini yerine getirmesi kaydıyla teminata konu sermaye piyasası araçları; Takasbank’a teminat olarak verildikleri tarihten MKT üyesinin yükümlülüklerini yerine getirdiği tarihe kadar geçen sürede işleyen tüm getirileri ve haklarıyla birlikte teminat verene iade edilir.

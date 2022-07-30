@@ -1,0 +1,3 @@
+Teminatların iadesi
+MADDE 27 – (1) Teminatların aynen iadesi esastır. Aynen iadenin mümkün olmaması halinde iade mislen yapılır. Aynen veya mislen iade olunamayan teminatlar eşdeğerleri üzerinden iade olunur. Müşteri teminatlarının MKT üyesi tarafından Takasbank’tan teslim alınmamasından doğan tüm hukuki sorumluluk ilgili MKT üyesine ait olup, bu nedenle Takasbank’a herhangi bir sorumluluk yüklenemez.
+(2) Haklarında adli veya idari tasfiye süreci başlatılan MKT üyelerine bağlı hesaplardaki teminat ve pozisyonların taşınması veya tasfiyesi sonrasında ilgili MKT üyesine veya müşterilerine ait kalan teminatlar, Kanunla belirlenen yetkili mercie/mercilere Kurul düzenlemeleri de dikkate alınarak ödenir veya teslim edilir.

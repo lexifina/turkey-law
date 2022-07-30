@@ -1,0 +1,4 @@
+Teminat tamamlama çağrısı
+MADDE 21 – (1) MKT üyesine bağlı müşteri hesaplarındaki teminat açıklarının tamamlanmasından ilgili MKT üyesi sorumludur.
+(2) Bu Yönetmelik ve ilgili diğer düzenlemeler çerçevesinde hesapların güncellenmesi sonucunda pozisyonların ve/veya teminatların değerlerinin değişmesi veya diğer nedenlerle teminatların ilgili piyasa yönergesinde belirlenen seviyenin altına düşmesi durumlarında, Takasbank tarafından ilgili MKT üyesine teminat tamamlama çağrısı yapılır.
+(3) Teminat tamamlama çağrıları, esasları piyasa yönergeleriyle belirlenen elektronik bir sistem aracılığı ile yapılır. Takasbank’ın teminat tamamlama çağrısını elektronik bir sistem aracılığıyla göndermesi durumunda, MKT üyesinin başkaca bir ihbar ve bildirime gerek kalmaksızın çağrıyı aldığı kabul edilir. MKT üyesinin sorumluluğu, Takasbank tarafından yapılan teminat tamamlama çağrısının üyeye ulaştığı anda başlar.

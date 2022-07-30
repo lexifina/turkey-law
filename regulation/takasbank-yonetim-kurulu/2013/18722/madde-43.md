@@ -1,0 +1,4 @@
+Kredi ve konsantrasyon riski yönetimi
+MADDE 43 – (1) Takasbank, kredi ve konsantrasyon risklerinin yönetiminde bankacılık mevzuatı ile öngörülen yükümlülüklerinin yanı sıra, karşı taraflardan kaynaklanabilecek kredi risklerini sınırlamak üzere uygun limitler tesis etmek, teminatların tesisinde çeşitliliği sağlamak üzere konsantrasyon limitleri belirlemekle yükümlüdür.
+(2) Konsantrasyon limitleri; hem teminat konusu finansal araçları ihraç edenler veya garanti verenler itibariyle hem de teminat kabul edilebilecek araçlar itibarıyla belirlenir. Karşı taraflar için belirlenen risk limitleri; hem karşı taraflardan kaynaklanacak toplam riski hem de aynı karşı taraf ile farklı piyasalarda yapılan işlemleri sınırlayacak kapsamda olmalıdır.
+(3) Takasbank, belirlenen limitleri periyodik olarak izlemek, MKT üyelerinin kredi değerliliğini tespit ve takibe yönelik derecelendirme sistemleri kurmak ve yönetmekle görevli ve yetkilidir.

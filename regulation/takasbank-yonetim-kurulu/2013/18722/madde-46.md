@@ -1,0 +1,3 @@
+İç sistemler ve bilgi teknolojileri altyapısı
+MADDE 46 – (1) Takasbank’ın, MKT hizmeti kapsamında faaliyetlerini düzenli bir şekilde sürdürmesini sağlayabilecek düzeyde bilgi işlem altyapısı ile iç kontrol, risk yönetimi ve iç denetim sistemlerini kurması ve idame ettirmesi zorunludur.
+(2) Takasbank, iç denetim birimleri aracılığıyla risk yönetim ve bilgi işlem altyapılarının güvenilirliğini ve yeterliliğini asgari altı aylık dönemler itibarıyla kontrol etmek ve sonuçlarını Kurula bildirmekle yükümlüdür. Kurulun, bu kontrolün daha sıklıkla yapılmasına karar verme ve bu maddede yer alan hususlara ilişkin bağımsız denetim yapılmasını isteme hakkı saklıdır.

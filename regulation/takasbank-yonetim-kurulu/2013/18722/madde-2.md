@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, İstanbul Takas ve Saklama Bankası Anonim Şirketi tarafından 6362 sayılı Sermaye Piyasası Kanunu ile düzenlenen piyasa veya sermaye piyasası araçları ile ilgili olarak verilen merkezi karşı taraf hizmetlerinde üyelik, üyelerin yükümlülükleri, teminatlar, garanti fonu, temerrüt yönetimi, sermaye, iç denetim ve risk yönetim sistemleri ile ücretlere ilişkin usul ve esasları belirler.

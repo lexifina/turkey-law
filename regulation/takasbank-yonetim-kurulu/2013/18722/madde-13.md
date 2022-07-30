@@ -1,0 +1,2 @@
+Üyelerle ilgili bildirim yükümlülüğü
+MADDE 13 – (1) Takasbank’ın herhangi bir MKT üyesinin yükümlülüklerini kısmen veya tamamen yerine getiremeyeceğini öngörmesi halinde, durumu sebeplerini de içeren tüm tevsik edici bilgi ve belgelerle birlikte ivedilikle Kurula ve ilgili diğer kamu kurum ve kuruluşlarına bildirmesi zorunludur. Söz konusu bildirim, Takasbank’ın bu Yönetmelikte ve ilgili piyasa yönergelerinde belirlenen gerekli tedbirleri almasına engel teşkil etmez.

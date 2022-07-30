@@ -1,0 +1,2 @@
+Karşılanmış risklere tahsis edilecek sermaye
+MADDE 39 – (1) Takasbank karşılanmış riskler hariç olmak üzere, yasal sermaye yükümlülüğüne tabi riskler için bankacılık mevzuatı çerçevesinde hesaplanan asgari sermaye tutarına iş riski ve yeniden yapılanma maliyetleri karşılığı olarak MKT hizmetlerine ilişkin geçmiş bir yıllık operasyonel giderlerinin %75’inin ilavesiyle bulunacak meblağın %25’ini karşılanmış risklere tahsis eder. Bu karşılığın likiditesi yüksek varlıklarda değerlendirilmesi esastır.
