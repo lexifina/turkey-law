@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Yönetmelik; 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 70 inci maddesi, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu maddesinin (c) bendi, 10/7/2018 tarihli ve 30474 sayılı Resmî Gazete’de yayımlanan 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci maddesinin birinci fıkrasının (a) bendi ve 508 inci maddesine dayanılarak hazırlanmıştır.

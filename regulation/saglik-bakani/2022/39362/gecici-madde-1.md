@@ -1,0 +1,2 @@
+İşbirliği protokolü bulunan özel hastaneler
+GEÇİCİ MADDE 1 –(Değişik:RG-30/7/2022-31908) (Danıştay Onuncu Dairesinin 23/10/2025 tarihli ve E.:2022/4105; K.:2025/4730 sayılı kararı ile iptal madde; (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce vakıf yükseköğretim kurumlarıyla işbirliği protokolü bulunan özel hastaneler, bu protokollerde belirlenen sürelerin sona ermesi ve yükseköğretim kurumuyla eğitim-öğretim faaliyetine ilişkin işbirliği ile eğitim-öğretim faaliyetinin bitiminde bu Yönetmelik hükümlerine göre basamaklandırılır.)
