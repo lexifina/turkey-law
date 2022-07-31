@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 12- (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-07-31",
+      "31.07.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 12- (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31909",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2022/39650",
+  "published": "2022-07-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39650&MevzuatTertip=5",
+  "source_bytes": 21628,
+  "source_id": "8.5.39650",
+  "source_sha256": "2e8d10caa0819eba773736f4a640f22f5b3588806a666f2d74179ac6ba6d6ec2",
+  "text_status": "as-enacted",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ ALMANCA HAZIRLIK\r\nPROGRAMI YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 911
+}
