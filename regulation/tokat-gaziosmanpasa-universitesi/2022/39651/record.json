@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 37- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-07-31",
+      "31.07.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 37- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31909",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-07-31",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Tokat Gaziosmanpaşa Üniversitesi",
+  "issuer_slug": "tokat-gaziosmanpasa-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/tokat-gaziosmanpasa-universitesi/2022/39651",
+  "published": "2022-07-31",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39651&MevzuatTertip=5",
+  "source_bytes": 80382,
+  "source_id": "8.5.39651",
+  "source_sha256": "6a523518a1a635e2b5ce4624b71b1a4bd4ee05fb478882a8a29b5a7bf99b6608",
+  "text_status": "as-enacted",
+  "title": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ HUKUK FAKÜLTESİ \r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 197,
+  "word_count": 3349
+}
