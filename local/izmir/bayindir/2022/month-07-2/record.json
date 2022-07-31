@@ -1,0 +1,28 @@
+{
+  "number": "month-07-2",
+  "year": 2022,
+  "month": 7,
+  "title": "2022 YILI TEMMUZ AYI 2.BİRLEŞİM KARARLARI",
+  "decision_date": null,
+  "index_date": "2022-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2022",
+  "source": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2022-yili-temmuz-ayi-2birlesim-kararlari",
+  "official_page": "https://www.bayindir.bel.tr/guncel/meclis-kararlari/2022-yili-temmuz-ayi-2birlesim-kararlari",
+  "official_document": "https://bayindir.bel.tr//storage/photos/7/TEMMUZ AYI 2.BİRLEŞİM 113- 118.pdf",
+  "source_sha256": "4bc960009aa82b229a2fad0c2e279d9b706ef03a4cbf258976f6103657ab745d",
+  "issuer": "Bayındır Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 YILI TEMMUZ AYI 2.BİRLEŞİM KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
