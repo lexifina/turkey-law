@@ -1,0 +1,29 @@
+{
+  "number": "month-07",
+  "year": 2022,
+  "month": 7,
+  "title": "Gümüşhane İl Genel Meclisi'nin 2022 yılı Temmuz ayında aldığı KARARLAR",
+  "decision_date": null,
+  "index_date": "2022-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2022",
+  "source": "https://www.gumushaneozelidare.gov.tr/temmuz-2022-kararlari",
+  "official_page": "https://www.gumushaneozelidare.gov.tr/temmuz-2022-kararlari",
+  "official_document": "https://www.gumushaneozelidare.gov.tr/kurumlar/gumushaneozelidare.gov.tr/İl Genel Meclisi/Kararlar/2022/temmuz_2022_karar.doc",
+  "source_sha256": "5b3f0757ba3a3acb366a377fdab718d9138749b11fb172c0850d7f9e0eb7ce7b",
+  "issuer": "Gümüşhane İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-07-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Temmuz 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Gümüşhane İl Genel Meclisi'nin 2022 yılı Temmuz ayında aldığı KARARLAR",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "Temmuz 2022 kararları"
+}
