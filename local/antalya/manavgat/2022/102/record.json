@@ -1,0 +1,29 @@
+{
+  "number": "102",
+  "number_as_published": "MEC-2022-7-",
+  "year": 2022,
+  "month": 7,
+  "title": "council decision",
+  "decision_date": null,
+  "index_date": "2022-07-31",
+  "date_precision": "month",
+  "period": "Temmuz 2022",
+  "source": "https://www.manavgat.bel.tr/meclis-kararlari/meclis-kararlari-2022-",
+  "official_page": "https://www.manavgat.bel.tr/meclis-kararlari/meclis-kararlari-2022-",
+  "official_document": "https://d25tea7qfcsjlw.cloudfront.net/14370/kicerik/190825/99326.pdf",
+  "source_sha256": "41d66284ae57ae59673e9febbc4ae6feb2370e8a298e324859d71d5cd2be2740",
+  "issuer": "Manavgat Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2022-07-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Temmuz 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "listing_item": "2022 Yılı Temmuz Ayı Meclis Kararları",
+  "record_scope": "one council decision (official code MEC-year-month-number)"
+}
