@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız",
+        "official_href": "9.5.39640%20Ek.xls",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39640&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "date_gazette": "31904",
+  "date_quote": "Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31904",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-08-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "issuer": "İçişleri Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-65-0.json",
+      "id": "65",
+      "label": "İçişleri Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=65&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "icisleri-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39640&MevzuatTertip=5",
+  "source_bytes": 7940,
+  "source_id": "9.5.39640",
+  "source_sha256": "487fc40a80ec41e6e6632692bc619991b32c7870accf0e87dff219d745a8231b",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ\r\n(SERİ NO: 55)",
+  "word_count": 141
+}

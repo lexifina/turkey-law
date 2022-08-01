@@ -1,0 +1,1 @@
+MADDE 2- (1) Elektrik enerjisini tedarik eden veya havagazını dağıtan kuruluşlar tahsil ettikleri vergiyi, Ek-1’de yer alan beyanname örneğine uygun olarak tahsil tarihini takip eden ayın 20 nci günü akşamına kadar ilgili belediyeye beyan etmek ve aynı süre içinde ödemekle yükümlüdürler.
