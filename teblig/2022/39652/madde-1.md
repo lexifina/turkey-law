@@ -1,0 +1,1 @@
+MADDE 1- (1) 26/5/1981 tarihli ve 2464 sayılı Belediye Gelirleri Kanununun elektrik ve havagazı tüketim vergisine ilişkin 39 uncu maddesi uyarınca elektrik enerjisini tedarik eden veya havagazını dağıtan kuruluşlar tarafından doldurularak belediyeye verilecek beyannamenin şekil ve muhtevası Ek-1’de yer almaktadır.

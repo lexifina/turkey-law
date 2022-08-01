@@ -1,0 +1,50 @@
+{
+  "annexes": {
+    "links": [
+      {
+        "caption": "Eki için tıklayınız",
+        "official_href": "9.5.39652-EK.xls",
+        "status": "pending"
+      }
+    ],
+    "official_html": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39652&MevzuatTertip=5",
+    "status": "pending"
+  },
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "date_gazette": "31904",
+  "date_quote": "Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31904",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-08-01",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihini takip eden ayın 1 inci gününde yürürlüğe girer",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-82-0.json",
+      "id": "82",
+      "label": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=82&start=0&length=100"
+    }
+  ],
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [
+    "Linked official annexes are not included in this version; original official links and captions are recorded in annexes."
+  ],
+  "published": "2022-07-26",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39652&MevzuatTertip=5",
+  "source_bytes": 10781,
+  "source_id": "9.5.39652",
+  "source_sha256": "2934b8765652d9b2ae03b9badbaf25a31ce39e59f02913c0096c10f1e0e535f8",
+  "title": "BELEDİYE GELİRLERİ KANUNU GENEL TEBLİĞİ (SERİ NO: 55)",
+  "word_count": 141
+}
