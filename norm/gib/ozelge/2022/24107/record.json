@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-18-153]-178194",
+  "source_id": 24107,
+  "date": "2022-08-01",
+  "title": "Ferdi işletmenin limited şirkete dönüşmesi halinde aktifte yer alan gayrimenkulün satışında kurumlar vergisi ve KDV istisnası hükümlerinden yararlanılıp yararlanılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24107",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "63ae74ad1ccb36673f74350b50753f252c402fc5e4a052fe243600067b588291",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
