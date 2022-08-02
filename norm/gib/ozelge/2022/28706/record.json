@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85373914-125[49.01.63]-91089",
+  "source_id": 28706,
+  "date": "2022-08-02",
+  "title": "Sınai mülkiyet haklarında istisna uygulanan kazanç için indirimli kurumlar vergisi uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28706",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "d8bb971903860e36b01448e95e3122e76a8298485b5b7dd4edac97cdcf17fd83",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
