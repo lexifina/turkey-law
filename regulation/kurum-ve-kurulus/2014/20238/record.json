@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.20238",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖN ÖDEMELİ KONUT SATIŞLARI HAKKINDA YÖNETMELİK",
+  "number": "20238",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2014/20238",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20238&MevzuatTertip=5",
+  "source_sha256": "0b0e5f553ca7724ad42a01ee8f25dbc60c30eda9e1b9dfe2f26f0b70b5e3f7e1",
+  "source_bytes": 38870,
+  "published": "2014-11-27",
+  "gazette": "29188",
+  "in_force": "2022-08-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/8/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-08-04",
+      "RG-4/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-04",
+      "4/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-03-11",
+      "RG-11/3/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-03-11",
+      "11/3/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2173,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
