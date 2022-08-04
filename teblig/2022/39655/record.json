@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "date_gazette": "31913",
+  "date_quote": "Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "first_law": null,
+  "gazette": "31913",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-08-04",
+  "in_force_basis": "Own commencement clause: Bu Tebliğ yayımı tarihinde yürürlüğe girer",
+  "issuer": "Ticaret Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-504-400.json",
+      "id": "504",
+      "label": "Ticaret Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=504&start=400&length=100"
+    }
+  ],
+  "issuer_slug": "ticaret-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2022-08-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39655&MevzuatTertip=5",
+  "source_bytes": 65087,
+  "source_id": "9.5.39655",
+  "source_sha256": "e182bdab99abb251b83862ae5704b2d8f7055453157cbfd3c9abe82bed97c429",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ \r\n(TEBLİĞ NO: 2022/22)",
+  "word_count": 840
+}
