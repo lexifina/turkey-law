@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-95462982-105[VUK.ÖZLG-2021-141]-182085",
+  "source_id": 27245,
+  "date": "2022-08-04",
+  "title": "İkamet amaçlı ve ikamet amaçlı olmayan binaların inşaatı faaliyeti de bulunan mükellefin aktifine kayıtlı ofis ve arsanın Vergi Usul Kanununun geçici 31 inci maddesi kapsamında yeniden değerlemeye tabi tutulup tutulamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27245",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b28f0d6fec5e379e0147a9528c0b1519719e658960e543cf222018ba5f790bdd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
