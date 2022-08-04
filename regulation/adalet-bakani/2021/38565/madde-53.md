@@ -1,0 +1,4 @@
+Soruşturma aşamasındaki işlemler
+MADDE 53 – (1) Soruşturmayı yürüten Cumhuriyet savcısının adli görüşme odalarının kullanılmasına karar vermesi hâlinde yazı işleri personelince UYAP üzerinden randevu alınır.
+(2) Talebi alan adli görüşmeci tarafından görüşme yapılacak kişi ifade veya beyan alma işlemine hazırlanır ve ilgili Cumhuriyet savcısına haber verilir. Soruşturmaya konu olay ve görüşme yapılacak kişiye yöneltilmesi gereken sorular hususunda Cumhuriyet savcısı ile ön görüşme yapılabilir.
+(3) Soruşturma aşamasında 5271 sayılı Kanunun 52 nci maddesi uyarınca mağdur çocuğun veya duruşmaya getirilmesi mümkün olmayan ve tanıklığı maddi gerçeğin ortaya çıkarılması açısından zorunlu olan kişilerin beyanının alınması sırasında görüntü veya ses kaydı alınır. Zorunluluk arz etmeyen hallerde de görüşme yapılan kişinin tekrar adli sürece dâhil edilmesini engellemek amacıyla rızası dâhilinde sesli ve görüntülü kaydı alınabilir.

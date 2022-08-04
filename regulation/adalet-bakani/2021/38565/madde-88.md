@@ -1,0 +1,6 @@
+Eğitim
+MADDE 88 – (1) Adli sürece dâhil olan mağdurlar ve adli desteğe ihtiyaç duyan kişilerin sahip oldukları haklar, bu kişilere sunulan hizmetler ve yaklaşım teknikleri konusunda hâkim ve Cumhuriyet savcıları ile adaylara yönelik olarak Türkiye Adalet Akademisi Başkanlığı ile Başkanlığın merkez ve taşra teşkilatında çalışan görevlilere yönelik olarak ise ilgili birimlerle işbirliği hâlinde eğitimler düzenlenir. Eğitimlerde disiplinlerarası çalışmaya yönelik yöntemler kullanılmasına özen gösterilir.
+(2) Çalıştıkları bürolardaki görevleri göz önüne alınarak adli destek görevlilerine yönelik uygulamayı destekleyici nitelikte eğitimler düzenlenir.
+(3) Başkanlıkça üniversitelerin ilgili birimleri ile mağdur hakları alanına ilişkin sertifika ve yüksek lisans gibi eğitim programları geliştirmek üzere işbirliği yapılabilir.
+(4) Öğrencilerin bilgi ve donanımlarını artırmak amacıyla müdürlüğün çalışma konularına ilişkin olarak ilgili mevzuat uyarınca üniversitelerde eğitim ve öğretim faaliyetlerine katılmak üzere Başkanlık veya müdürlükte görev yapan personele, Başkanlığın görüşüyle Bakanlık Personel Genel Müdürlüğünce izin verilebilir.
+(5) Eğitim faaliyetlerinde Başkanlıkça oluşturulmuş olan materyallerden de faydalanılır. Bu materyaller hazırlanırken personelin ihtiyaç ve görüşleri de dikkate alınır.

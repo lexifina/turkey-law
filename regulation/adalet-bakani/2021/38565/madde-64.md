@@ -1,0 +1,4 @@
+Mağdurun korunması
+MADDE 64 – (1) Mağdurun veya ailesinin fiziksel ve ruhsal bütünlüğüne yönelik bir saldırı ihtimaline ilişkin emarelerin bulunması hâlinde, ilgililerin başvurusu üzerine suçun tekrarının veya başkaca bir suçun işlenmesinin önlenmesi için kolluk birimlerince ilgili mevzuat hükümlerine göre gerekli tedbirler alınır.
+(2) Tutuklu veya hükümlülerin ceza infaz kurumlarından tahliyesine veya firarına ilişkin bilgiler ceza infaz kurumu müdürlüğünce 63 üncü maddede belirtilen suçlardan mağdur olanların bulunduğu yer kolluk birimine bildirilir. Kolluk birimince yapılan değerlendirme sonucunda gerekli koruyucu ve önleyici tedbirler alınır. Mağdur için tehlike oluşturabilecek hallerde mağdura bilgi verilir.
+(3) Bu bilgilendirme mağdurun çocuk olması hâlinde kanuni temsilcisine, kurum bakımında veya koruma altında olan kişiler açısından ilgili kurumdaki yetkili kişilere yapılır.

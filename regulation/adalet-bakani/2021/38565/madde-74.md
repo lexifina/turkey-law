@@ -1,0 +1,4 @@
+Eğitim yerini değiştirme
+MADDE 74 – (1) 63 üncü maddede belirtilen suçlar nedeniyle yerleşim yerini veya okulunu değiştirmek zorunda kalan mağdurların talepleri hâlinde, kendilerinin ya da bakmakla yükümlü oldukları kişilerin veya birlikte ikamet eden altsoyunun eğitim gördükleri kurumların aynı türde eğitim veren okullarına veya yükseköğretim kurumlarına devam etmeleri ilgisine göre Millî Eğitim Bakanlığı, Yükseköğretim Kurulu ve yükseköğretim kurumlarınca öncelikli olarak sağlanır.
+(2) Birinci fıkra kapsamında yer alan kişilere, yeni başladıkları eğitim kurumlarında ihtiyaç duyulması hâlinde rehberlik hizmeti sunulur.
+(3) Birinci fıkra kapsamında kalan ve eğitim yerini değiştirmek isteyen mağdurun, ilgisine göre Cumhuriyet başsavcılığı veya mahkeme tarafından düzenlenen ve belirtilen suçların mağduru olduğunu gösteren belge ile ilgili kurumlara başvurması gerekir.

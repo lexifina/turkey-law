@@ -1,0 +1,4 @@
+İşyerini değiştirme
+MADDE 73 – (1) 63 üncü maddede belirtilen suçlardan mağdur olan ve yerleşim yerini değiştirmek zorunda kalan mağdurların talepleri hâlinde kendilerinin veya birlikte ikamet ettikleri aile bireylerinin, çalıştıkları kamu kurum ve kuruluşlarının kadro, pozisyon ve teşkilat durumu göz önünde bulundurularak görev yerleri değiştirilir. Bu şekilde yapılacak yer değiştirme talepleri derhal karara bağlanır.
+(2) Bu madde kapsamında kalan ve özel hukuk hükümlerine tabi çalışan mağdurlardan yerleşim yerini değiştirmek zorunda kalanların talepleri hâlinde aynı işverene ait başka işyerlerinde çalışmaları sağlanabilir.
+(3) Birinci fıkra kapsamında kalan ve işyerini değiştirmek isteyen mağdurun, ilgisine göre Cumhuriyet başsavcılığı veya mahkeme tarafından düzenlenen ve belirtilen suçların mağduru olduğunu gösteren belge ile çalıştığı kuruma başvurması gerekir.

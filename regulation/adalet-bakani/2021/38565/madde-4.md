@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Adalet komisyonu: Adli yargı ilk derece mahkemesi adalet komisyonunu,
+b) Adli destek hizmetleri: Cumhuriyet başsavcılığı veya mahkemelerin talebiyle ya da kişilerin başvurusu ile psikolog, pedagog, sosyal çalışmacılar ve ilgili diğer personel aracılığıyla sunulan hizmetleri,
+c) Adli destek görevlisi: Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığı ile adli destek ve mağdur hizmetleri müdürlükleri bünyesinde psikolog, pedagog ve sosyal çalışmacı olarak çalışanları,
+ç) Adli görüşme: Mahkemelerden veya Cumhuriyet başsavcılıklarından adli görüşme odasına yönlendirilen dosyalardaki kişilerle adli görüşme odalarında yaşlarına ve içinde bulundukları duruma uygun şekilde adli destek görevlisi aracılığıyla yapılan görüşmeyi,
+d) Adli görüşmeci: Adli görüşme odasında çalışmak üzere görevlendirilen adli destek görevlisini,
+e) Bakan: Adalet Bakanını,
+f) Bakanlık: Adalet Bakanlığını,
+g) Bakmakla yükümlü olunan kişi: Suç dolayısıyla ölenin eşini, çocuğunu, anasını, babasını, kardeşini veya ölenle evlatlık bağı bulunanları,
+ğ) Başkan: Bakanlık Adli Destek ve Mağdur Hizmetleri Dairesi Başkanını,
+h) Başkanlık: Bakanlık Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığını,
+ı) Gönüllü: Adli destek ve mağdur hizmetleri müdürlüğünde bilgi, beceri ve ilgi alanları doğrultusunda gönüllülük esasına göre çalışan kişiyi,
+i) Kırılgan grup: Adli destek görevlileri tarafından yapılan bireysel değerlendirme sonucunda suçtan daha fazla etkilendiği ve korunması gerektiği tespit edilen mağdurlar ile adli sisteme dâhil olan çocukları,
+j) Mağdur: Suç nedeniyle fiziksel, zihinsel, ruhsal veya ekonomik olarak doğrudan zarar gören gerçek kişiyi,
+k) Müdür: Adli destek ve mağdur hizmetleri müdürünü,
+l) Müdürlük: Adli destek ve mağdur hizmetleri müdürlüğünü,
+m) UYAP: Ulusal Yargı Ağı Bilişim Sistemini,
+n) (Ek:RG-4/8/2022-31913) Diğer personel: Adli destek ve mağdur hizmetleri müdürlükleri bünyesinde müdür, müdür yardımcısı ve adli destek görevlisi dışındaki çalışanları,
+o) (Ek:RG-4/8/2022-31913) Müdür yardımcısı: Adli destek ve mağdur hizmetleri müdür yardımcısını,
+ifade eder.

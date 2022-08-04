@@ -1,0 +1,2 @@
+Temasın önlenmesi
+MADDE 63 – (1) Kasten öldürme ve bu suça teşebbüs, neticesi sebebiyle ağırlaşmış yaralama, çocuğun cinsel istismarı, nitelikli cinsel saldırı ve neticesi sebebiyle ağırlaşmış işkence suçlarından mağdur olanların ceza muhakemesinin zorunlu kıldığı durumlar haricinde kolluk birimlerince yürütülen adli işlemler sırasında suç failiyle temas etmesini veya yüz yüze gelmesini önleyici tedbirler kolluk birimlerince alınır.

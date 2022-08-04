@@ -1,0 +1,4 @@
+Çocuk teslimi ve çocukla kişisel ilişki kaydı
+MADDE 79/C- (Ek:RG-4/8/2022-31913)
+(1) Çocuk teslimi veya çocukla kişisel ilişki kurulmasına dair ilam veya tedbir kararlarının yerine getirilmesi amacıyla ilgilisi tarafından UYAP veya e-Devlet sistemi aracılığıyla gönderilen ya da fiziki olarak yapılan başvurular üzerine müdürlükçe yürütülen işlemlerin safahatının işlendiği kayıttır.
+(2) Bu kayıtta; sıra numarası, başvuru tarihi, hak sahibi ile yükümlünün ve varsa kanuni temsilcilerinin adı, soyadı, Türkiye Cumhuriyeti kimlik numaraları, yerleşim yeri ve e-tebligat adresleri, telefon numaraları, varsa vekillerinin adı, soyadı, hak sahibi veya yükümlü yabancı ülkede oturuyorsa Türkiye’de göstereceği yerleşim yeri adresi, ilgili ilam veya tedbir kararını veren mahkeme, kararın tarih ve numarası ile düşünceler sütunları yer alır.

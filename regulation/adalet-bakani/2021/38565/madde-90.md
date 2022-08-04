@@ -1,0 +1,8 @@
+Hizmetin izlenmesi ve değerlendirilmesi
+MADDE 90 – (1) Müdürlüklerde, hizmet sunulan kişilerin veya ailelerinin geri bildirimlerini almak amacıyla istek-şikâyet kutuları ile yeterli sayıda geri bildirim formu bulundurulur.
+(2) Hizmet sunulan kişilere veya ailelerine geri bildirim formlarıyla ilgili bilgi verilir ve bu formları doldurmaları teşvik edilir. Geri bildirimin sözlü yapılması, ilgililerin okuma-yazma bilmemesi ya da başkaca bir engelin bulunması hâlinde, çalışan bu durumu belirterek formu kendisi de doldurabilir.
+(3) Müdürlük, çalışan personelin görüşlerini ve geri bildirim formlarındaki değerlendirmeleri de dikkate alarak hizmetin sunumunda yaşanan sorunlar ve çözüm önerileri ile iyi uygulama örneklerini toplar ve Başkanlığa gönderir.
+(4) Müdürlükçe sunulan hizmetler değerlendirilirken hizmetten yararlanan kişiler ile personelin görüşlerini açıkça paylaşabileceği katılımcı bir yaklaşım sergilenmesi esastır.
+(5) Başkanlıkça müdürlükte sunulan hizmetlerin belirlenen standartlara uygun şekilde yerine getirilmesinin kontrolü ve sorunların yerinde tespit edilmesi amacıyla uygun aralıklarla alan ziyaretleri düzenlenebilir.
+(6) Başkanlıkça her yıl müdürlükte sunulan hizmetlere ilişkin olarak alınan geri bildirimlerin değerlendirilmesi, uygulamada yaşanan sorunların ve ihtiyaçların tespiti ile çözüm önerilerinin geliştirilmesi, iyi uygulama örneklerinin paylaşılması amacıyla müdürler ve diğer ilgili kişilerin katılımıyla değerlendirme toplantısı düzenlenir.
+(7) Sunulan hizmetlerin etkinliğinin artırılması için, mevzuat değişiklikleri de dâhil olmak üzere yapılması gereken çalışmalara ilişkin öneriler her yıl Başkanlık tarafından Bakanlığa arz edilir.
