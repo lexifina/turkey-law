@@ -1,0 +1,23 @@
+{
+  "number": "meeting-08-04",
+  "number_as_published": "meeting-08-04",
+  "year": 2022,
+  "title": "Karar No: 65 – 04.08.2022 Tarihli Ağustos Ayı Meclis Toplantısı",
+  "decision_date": "2022-08-04",
+  "source": "https://www.finike.bel.tr/arsiv/meclis-kararlari",
+  "official_document": "https://www.finike.bel.tr/files/documents/0e2e8f9e8d8e46bd9c661d09217cc794.pdf",
+  "source_sha256": "6793bc643cf0d6fe58fe65c87cadb2eac87aae6369ace954a71125006131f9ff",
+  "issuer": "Finike Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-08-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04.08.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "Karar No: 65 – 04.08.2022 Tarihli Ağustos Ayı Meclis Toplantısı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
