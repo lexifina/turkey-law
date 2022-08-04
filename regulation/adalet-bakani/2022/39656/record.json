@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39656",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇOCUK TESLİMİ VE ÇOCUKLA KİŞİSEL İLİŞKİ KURULMASINA İLİŞKİN İLAM VE TEDBİR KARARLARININ YERİNE GETİRİLMESİNE DAİR YÖNETMELİK",
+  "number": "39656",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2022/39656",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39656&MevzuatTertip=5",
+  "source_sha256": "2dcdf4c9456db87a20c58d15c3de070b27f13d3cf69510362e6afdde64061068",
+  "source_bytes": 113586,
+  "published": "2022-08-04",
+  "gazette": "31913",
+  "in_force": "2022-08-04",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (04.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6609,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
