@@ -1,0 +1,24 @@
+{
+  "number": "meeting-08-05",
+  "number_as_published": "meeting-08-05",
+  "year": 2022,
+  "title": "05 Ağustos Meclis Kararları",
+  "decision_date": "2022-08-05",
+  "source": "https://www.urla.bel.tr/ListeSayfa/4579/agustos-ayi-meclis-kararlari",
+  "official_document": "https://www.urla.bel.tr/Sayfa/4581/05-agustos-meclis-kararlari",
+  "source_sha256": "6033435edf18e49451991b210d5728fc479056d4e9292bc1a3c37e71c985108c",
+  "issuer": "Urla Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-08-05",
+  "in_force_basis": "Decision date as printed in the official council listing: 05 Ağustos Meclis Kararları (year 2022 from the official year list '2022 Meclis Kararları'); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "month_list": "Ağustos Ayı Meclis Kararları",
+  "official_page": "https://www.urla.bel.tr/Sayfa/4581/05-agustos-meclis-kararlari",
+  "record_scope": "one council meeting page (its decisions are on the linked official page; not transcribed)"
+}
