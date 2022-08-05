@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39657",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ SAVUNMA BAKANLIĞI AKARYAKIT İKMAL VE NATO POL TESİSLERİ İŞLETME BAŞKANLIĞI TAŞINIR MAL YÖNETMELİĞİ",
+  "number": "39657",
+  "issuer": "Millî Savunma Bakanlığı Akaryakıt İkmal ve NATO POL Tesisleri İşletme Başkanı",
+  "issuer_slug": "milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani",
+  "path": "regulation/milli-savunma-bakanligi-akaryakit-ikmal-ve-nato-pol-tesisleri-isletme-baskani/2022/39657",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39657&MevzuatTertip=5",
+  "source_sha256": "dc0e073e78061a0c8a676c9d995e6fc851bd895f64f2b17c8255219229d3954f",
+  "source_bytes": 110871,
+  "published": "2022-08-05",
+  "gazette": "31914",
+  "in_force": "2022-08-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6976,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39657%20Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
