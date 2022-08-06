@@ -1,0 +1,3 @@
+Eğitim-öğretim programları
+Madde 8 — Fakültede; teorik ve uygulamalı zorunlu dersler, seçmeli dersler ve diğer etkinlikler (inceleme, ödev ve benzeri) yer alabilir.
+Eğitim-öğretim programında yer alacak zorunlu teorik ve uygulamalı dersler ve bu derslerde yapılacak her türlü değişiklik, bölüm/anabilim dalının önerisiyle fakülte kurulunca düzenlenir ve Senatonun onayına sunulur. Seçmeli dersler bölüm/anabilim dalının önerisi ve fakülte kurulunun onayıyla açılır ve/veya kaldırılır. Fakültenin eğitim-öğretiminde görev alacak öğretim elemanları ile ders ve uygulama çizelgeleri, her eğitim-öğretim yılının başında fakülte kurulunca düzenlenerek ilan edilir.

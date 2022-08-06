@@ -1,0 +1,2 @@
+Sosyal bilimler önlisans diploması
+Madde 24 — Fakülteye kayıtlı iken ilk iki yılın bütün derslerinden başarılı olan, ancak sonraki yıllarda ilişiği kesilen öğrencilerden isteyenlere, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan "Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Önlisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik" çerçevesinde "Sosyal Bilimler Önlisans Diploması" verilir.

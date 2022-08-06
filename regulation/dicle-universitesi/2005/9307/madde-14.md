@@ -1,0 +1,2 @@
+Ders alma ve alınan dersi transfer etme
+Madde 14 — Öğrenciler, fakülte yönetim kurulundan önceden izin almak koşuluyla; yurtiçi yüksek öğretim kurumlarından, denkliği Yükseköğretim Kurulunca kabul edilen yabancı ülkelerdeki yükseköğretim kurumlarından ders alabilirler ve bu derslerin kredilerini transfer ettirebilirler. Öğrencinin yurt içi diğer öğretim kurumlarından ders alabilmesi için, o kuruma giriş puanının daha yüksek olması zorunludur. Yurt dışı uygulama, Erasmus Programı kapsamı ve kuralları çerçevesinde olacaktır.
