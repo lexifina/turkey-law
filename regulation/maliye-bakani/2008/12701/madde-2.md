@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, 190 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin 2 nci maddesi kapsamına giren kamu kurum ve kuruluşlarının (Değişik ibare:RG-20/11/2015-29538) merkez teşkilatları ile 5018 sayılı Kanuna ekli (III) sayılı cetvelde sayılan düzenleyici ve denetleyici kurumların büyük ölçekli bilgi işlem birimlerini ve bu birimlerde çalıştırılan sözleşmeli bilişim personelini kapsar.

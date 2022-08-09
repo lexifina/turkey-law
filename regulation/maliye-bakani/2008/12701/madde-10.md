@@ -1,0 +1,7 @@
+Sözleşmenin süresi ve ücret
+MADDE 10 – (1) Sözleşme süreleri mali yıl ile sınırlıdır.
+(2) Tam zamanlı çalışan personelin aylık sözleşme ücret tavanı; 375 sayılı Kanun Hükmünde Kararnamenin ek 6 ncı maddesinde belirtilen ücret tavanı, kamu kurum ve kuruluşlarının talebi ve pozisyonun nitelikleri dikkate alınarak, Bakanlıkça yapılacak vizede belirlenir. Belirlenen sözleşme ücreti dışında personele herhangi bir ödeme yapılamaz.
+(3) Kısmi zamanlı çalışan personelin bir saatlik sözleşme ücret tavanı, birinci fıkra çerçevesinde belirlenen sözleşme tavan ücretinin 1/180 ine isabet eden tutardır ve bu şekilde tespit edilen ücretler sözleşmelerinde belirtilir.
+(4) Kamu kurum ve kuruluşlarının bilişim projeleri süresi ile sınırlı personel çalıştırması durumunda çalıştırılacak personelin tam veya kısmi zamanlı çalışma durumu dikkate alınarak ücretleri yukarıdaki fıkralara göre saptanır.
+(5) Personelin sözleşme ücreti, görevin yerine getirilmesini müteakiben her ayın 15 inci günü ödenir. Görevin veya sözleşmenin ayın 15 inci gününden önce herhangi bir şekilde sona ermesi halinde ödeme kıst olarak bu durumun meydana geldiği tarihte yapılır.
+(6) Sözleşme ücreti bu Yönetmelikte belirtilen istisnalar dışında fiilen çalışma karşılığı ödenir. Tam zamanlı çalışan personelin görevine gelmediği her gün için aylık sözleşme ücretinin 1/30 u, devam etmediği her saati için aylık sözleşme ücretinin 1/270 i kadar eksik ödeme yapılır. Kısmi zamanlı çalışan personelin görevine gelmediği veya devam etmediği her saat için saatlik sözleşme ücreti kadar eksik ödeme yapılır.
