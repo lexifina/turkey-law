@@ -8,8 +8,9 @@
   "omitted_images": 0,
   "published": "2022-08-09",
   "referenced_images": 0,
-  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/merge-html/420cf403-35c6-33a1-9304-ba3a0e550013",
+  "source": "https://normkararlarbilgibankasi.anayasa.gov.tr/ND/2022/95",
+  "source_api": "https://normkararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
   "source_images": 0,
-  "source_sha256": "02e319a9cf8e49508bee8b425bd5c63debd385f3deabce20c2242c71fb1056ab",
+  "source_sha256": "1e1cd119cacf912cb2eb726235e782a569ee3ca87a7b25c86b718e7ce35dd3c8",
   "version_label": "as-enacted"
 }
