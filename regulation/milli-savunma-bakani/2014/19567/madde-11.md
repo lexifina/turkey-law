@@ -1,0 +1,4 @@
+Disiplin cezalarının takibi
+MADDE 11 – (1) Disiplin cezaları ve disiplin cezaları dışındaki idari yaptırımlara ilişkin bilgi ve belgeler, disiplin amiri tarafından ilgilinin şahsi dosyasına konularak muhafaza edilir ve kayıt altına alınır.
+(2) (Değişik:RG-10/8/2022-31919) Subay, astsubay, uzman erbaşlar ile sözleşmeli erbaş ve erlere verilen disiplin cezaları; kuvvet komutanlıklarında, asgari alay ve eşiti komutanlıklar tarafından personel bilgi sistemlerine kaydedilir ve bu cezalarına ilişkin evrakın birer sureti, aynı makamlar tarafından personelin mensubu olduğu kuvvet komutanlıklarına gönderilir. Disiplin ceza puanına bağlı olarak Silahlı Kuvvetlerden ayırma cezasını gerektirecek durumların takibinden bu birimler sorumludur.
+(3) (Değişik:RG-10/8/2022-31919) Personel hakkında verilen cezalar ile ceza puanlarının; kuvvet komutanlıklarınca, yetkili personel başkanlıkları ile personelin disiplin amirleri tarafından takip edilmesine yönelik tedbirler alınır.

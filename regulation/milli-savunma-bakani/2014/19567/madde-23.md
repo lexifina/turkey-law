@@ -1,0 +1,2 @@
+Geçici olarak görevden uzaklaştırma ve görev yerini değiştirme tedbiri
+MADDE 23 – (1) Silahlı Kuvvetlerden ayırma cezasını gerektiren bir disiplinsizlik nedeniyle hakkında yapılan inceleme ve araştırmanın emniyetli ve sıhhatli olarak devam etmesi amacıyla, görevi başında kalmasında sakınca görülecek subay, astsubay, (Mülga ibare:RG-10/8/2022-31919) uzman erbaş veya sözleşmeli erbaş ve erlerin görevinden geçici olarak uzaklaştırılmasına veya görev yerinin değiştirilmesine ilişkin işlemler 6413 sayılı Kanunun 29 uncu maddesi esaslarına göre yürütülür.

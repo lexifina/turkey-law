@@ -1,0 +1,3 @@
+Özel hükümler
+MADDE 27 – (1) Türk Silahlı Kuvvetlerinde sözleşmeli statü ile görev yapan personelin sözleşmelerinin feshine ilişkin özel Kanun ve Yönetmeliklerindeki hükümler ile Türk Silahlı Kuvvetlerinden ayırma ve çıkarmaya ilişkin diğer Kanun ve Yönetmeliklerde düzenlenmiş hükümler saklıdır.
+(2) Sözleşmeli statü ile görev yapan personelin disiplinsizlik teşkil eden eylemlerinin, hem 6413 sayılı Kanunun 20 nci maddesi kapsamında, hem de özel Kanunlarında düzenlenen sözleşmenin feshini gerektiren eylem ve durumlar kapsamında yer alması durumunda öncelikli olarak özel Kanun hükümleri uygulanır.
