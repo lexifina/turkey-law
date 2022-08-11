@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11119",
+  "decision_date": "2022-08-11",
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatına İlişkin Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2022-08-13",
+  "resmi_gazete_number": "31922",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qbyGaxDngDU=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qbyGaxDngDU=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=O84L63vCgUo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ioMJa0iOQfQ="
+  ],
+  "source_sha256": "9227c1f121bda61611cb0363c624d2f63c32add5c6d4c0fb1d3b016f538f34a3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-08-11",
+  "law_text_complete": true
+}
