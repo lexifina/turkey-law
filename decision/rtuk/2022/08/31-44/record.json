@@ -1,0 +1,15 @@
+{
+  "issuer": "Radyo ve Televizyon Üst Kurulu (RTÜK)",
+  "record_type": "Üst Kurul Kararı",
+  "meeting": "2022/31",
+  "meeting_date": "2022-08-11",
+  "meeting_date_as_published": "11.8.2022",
+  "decision_no": "44",
+  "source_id": 18195,
+  "title": "RTÜK kararı 2022/31-44",
+  "source": "https://www.rtuk.gov.tr/UstKurulKarar/Detay/18195",
+  "source_sha256": "16273fee84bd0397b4c8370937b79e2dd69dd1e78bb8879a394bd80b02e01289",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible private person name(s) in the official text (2 match(es)); full text withheld, official link only",
+  "law_text_complete": false
+}
