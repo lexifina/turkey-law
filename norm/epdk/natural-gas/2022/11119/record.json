@@ -1,0 +1,27 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11119",
+  "decision_date": "2022-08-11",
+  "title": "Enerji Piyasası Bildirim Sistemi Kullanım Talimatına İlişkin Kurul Kararında Değişiklik Yapılmasına Dair Kurul Kararı",
+  "resmi_gazete_date": "2022-08-13",
+  "resmi_gazete_number": "31922",
+  "categories": [
+    "Doğal Gaz Piyasası Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hdm43r2HCwc=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=hdm43r2HCwc=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lmUc5IB9444=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=/lb+K77OAfQ="
+  ],
+  "source_sha256": "9227c1f121bda61611cb0363c624d2f63c32add5c6d4c0fb1d3b016f538f34a3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 14708,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-08-11",
+  "law_text_complete": true
+}
