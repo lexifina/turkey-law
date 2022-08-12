@@ -1,0 +1,3 @@
+Geçiş hükümleri
+GEÇİCİ MADDE 1- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce radyasyon ölçüm sistemleri için verilmiş olan uygunluk belgeleri, belge süresi sona erene kadar geçerlidir. Uygunluk belgesi alan ve bu sistemleri işletenler, uygunluk belgelerinin geçerlilik sürelerinin bitiminden önceki üç ay içerisinde bu Yönetmelik hükümleri uyarınca Kurumdan uygunluk alır.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihte henüz RKTS kurulu olmayan veya RKTS kurulu olmakla birlikte sistem değişikliği gerektiren tesis veya gümrük kapıları, bu Yönetmelikle getirilen yükümlülüklerini altı ay içerisinde yerine getirir. Talep edilmesi ve talep gerekçesinin Kurum tarafından uygun bulunması durumunda bu süre Kurum tarafından altı aya kadar uzatılabilir.

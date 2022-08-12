@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39664",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ULUSAL RADYASYON İZLEME VE RADYASYON KONTROLÜ HAKKINDA YÖNETMELİK",
+  "number": "39664",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39664",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39664&MevzuatTertip=5",
+  "source_sha256": "700e1fc5023aa11059ebe1dfb3bb120ae8e5274932fa063eea31093a4c8e353d",
+  "source_bytes": 61195,
+  "published": "2022-08-12",
+  "gazette": "31921",
+  "in_force": "2022-08-12",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (12.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1644,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
