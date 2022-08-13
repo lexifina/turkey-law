@@ -1,0 +1,2 @@
+Devlet ve İl Yolları Dışındaki Yollara Bağlantı Yapılması
+Madde 42 – (Değişik:RG-6/1/1998-23222) Belediye ve mücavir alan sınırları içinden geçen devlet ve il yolları kenarında, karayolu sınır çizgisinden itibaren her iki tarafta 50 metre mesafe içinde yer alan ve geçiş yollan yönünden devlet ve il yolu dışındaki yollara bağlantı yapmak isteyen tesisler için bu Yönetmeliğin 5, 8, 9,10, 37 ve 41 inci madde hükümleri aynen uygulanır.

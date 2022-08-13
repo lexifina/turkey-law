@@ -1,0 +1,2 @@
+Yakıt Pompaları
+Madde 30- Umuma açık parkyerleri ve garajlar, yolcu ve yük terminalleri ile turistik yapı ve tesisler bünyesinde; tesisin yoldan görülmeyecek uygun bir yerine konulmak, sadece tesisten yararlananların araçlarına akaryakıt temin etmek, bu hususta yola hitabedecek şekilde herhangi bir tanıtıcı veya duyurucu reklam ve ilan levhası koymamak kayıt ve şartı ile yakıt pompaları bulundurulabilir.
