@@ -1,0 +1,6 @@
+İnsan ticareti mağduru ikamet izni, uzatılması ve destek programı
+MADDE 45 – (1) İnsan ticareti mağdurları ile insan ticareti mağduru olabileceği yönünde kuvvetli kanaat oluşanlara, yaşadıklarının etkisinden kurtulabilmeleri ve yetkililerle işbirliği yapmalarını sağlamak amacıyla, otuz gün süreli insan ticareti mağduru ikamet izni valilikler tarafından harçsız olarak verilir. Mağdurun bu süre zarfında rızası alınarak sığınma evinde veya destek merkezinde kalması ve destek programına katılması esastır.
+(2) Mağdura asgari düzeyde ve imkânlar çerçevesinde sağlanacak mağdur destek programı; barınma, sağlık, psiko-sosyal destek, tercüman desteği, eğitim gibi pek çok konudaki desteği içerir.
+(3) Mağdura, destek programı süresince veya serbest ikamet sırasında yükümlülükler getirilebilir.
+(4) İnsan ticareti mağduru ikamet izni verilmesinde; geçerli pasaport, vize, geçim koşulu, adres kaydı, sağlık sigortası, sınır dışı etme kararı veya giriş yasağı bulunmaması gibi diğer ikamet izinlerinin verilmesinde ihtiyaç duyulan şartlar aranmaz.
+(5) İnsan ticareti mağduru ikamet izni, mağdurun güvenliği, sağlığı veya özel durumu nedeniyle en fazla altışar aylık sürelerle, toplamda üç yılı geçmeyecek şekilde uzatılabilir.

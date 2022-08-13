@@ -1,0 +1,6 @@
+Kurul üyesi sivil toplum kuruluşu temsilcilerinin belirlenmesi
+MADDE 138 – (1) Kurul üyesi olarak görev yapacak beş asıl ve beş yedek olmak üzere on sivil toplum kuruluşu temsilcisi, Genel Müdürün teklifi ve Bakanlık Müsteşarının onayıyla üç yıllık süreyle seçilir.
+(2) Kurul üyeliği için Genel Müdürlük internet sitesi üzerinden duyuru yapılır. Başvurular, en fazla bir ay içinde olmak şartıyla duyuruda belirtilen tarih süresince alınır.
+(3) Başvurular sivil toplum kuruluşları tarafından yapılır.
+(4) Sivil toplum kuruluşu temsilcisi sıfatıyla kurul üyesi olarak seçileceklerin Genel Müdürlüğün görev alanıyla ilgili faaliyet gösteren dernek, vakıf, meslek ve düşünce kuruluşları ile bunların üst yapılanmalarının temsilcileri arasından olması esastır. Genel Müdürlüğün görev alanıyla ilgili konularda çalışma programı olan ve bu konularda ulusal veya uluslararası konferans, panel, seminer ve benzeri toplantılar düzenlemiş olanlar öncelikle tercih edilebilir. Ancak 22/1/2004 tarihli ve 5072 sayılı Dernek ve Vakıfların Kamu Kurum ve Kuruluşları ile İlişkilerine Dair Kanun kapsamında olan dernek ve vakıf temsilcileri Kurula üye olarak seçilemezler.
+(5) Sivil toplum kuruluşu, yönetim kurulu başkanı veya kuruluşun karar organı tarafından yetkilendirilmiş olan kişi tarafından temsil edilir.

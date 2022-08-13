@@ -1,0 +1,5 @@
+Kabul edilemez yolcunun tespiti ve genel hükümler
+MADDE 7 – (1) Türkiye’ye girişlerine izin verilmeyecek kişilerden olduğu belirlenen yabancılar ile yine aynı kapsamda olup da sınır kapılarında uluslararası koruma başvurusunda bulunan ve haklarında verilen son kararla başvuruları reddedilenler, kabul edilemez yolcu olarak işlem görür ve bu yabancılar hakkında 7/11/2015 tarihli ve 29525 sayılı Resmî Gazete’de yayımlanan Hava Yolu Taşıyıcılarının Yükümlülüklerine İlişkin Usul ve Esaslar Hakkında Yönetmelik ile Kanunun 98 inci maddesi kapsamında çıkarılacak diğer yönetmelikler çerçevesinde işlem yapılır.
+(2) Türkiye’ye girişlerine izin verilmeyecek kişilerden olduğu belirlenen yabancılardan kamu düzeni veya güvenliği açısından sakıncalı görülenler ile Türkiye’ye girişte kullanacağı belgeleri hileli yollarla edinenler veya bu belgelerin sahteciliğe konu olduğu tespit edilenler ivedilikle Genel Müdürlüğe bildirilir.
+(3) Kabul edilemez yolcunun ülkeden ayrılış işlemleri için taşıyıcıyla gerekli koordinasyon sağlanır.
+(4) Yabancı ve taşıyıcıya tebliğ edilen karar, yabancının haklarını ve itiraz usullerini de kapsar.

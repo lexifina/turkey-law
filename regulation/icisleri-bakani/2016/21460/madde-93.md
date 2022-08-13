@@ -1,0 +1,4 @@
+Uluslararası koruma statü sahibi kimlik belgesi
+MADDE 93 – (1) Uluslararası koruma statüsü verilenlere Genel Müdürlük veya yetki verilmesi halinde il müdürlüğü tarafından yabancı kimlik numarasını içeren, hiçbir harca tabi olmayan, şekli ve içeriği Genel Müdürlükçe belirlenen ve iptal edilmediği sürece geçerli olan Uluslararası Koruma Statü Sahibi Kimlik Belgesi düzenlenir.
+(2) Bu belge, geçerli olduğu süre içinde statü sahibine ikamet izni almaksızın Türkiye’de bulunma hakkı sağlar.
+(3) 90 ıncı maddede belirtilen uluslararası koruma başvuru sahibi kimlik belgesi ile bu maddede belirtilen uluslararası koruma statü sahibi kimlik belgesi, yabancı kimlik numarasını içeren, hiçbir harca tabi olmayan şekli ve içeriği Genel Müdürlük tarafından belirlenen tek bir kimlik belgesi şeklinde de düzenlenebilir. Bu kimlik belgesi Genel Müdürlük veya yetki verilmesi halinde il müdürlüğü tarafından tanzim edilebilir.

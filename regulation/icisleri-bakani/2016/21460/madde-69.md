@@ -1,0 +1,5 @@
+Kimlik tespiti
+MADDE 69 – (1) Başvuru sahibi kimlik bilgilerini doğru olarak bildirmek ve varsa kimliğini ispatlayacak belge ve seyahat dokümanlarını sunmakla yükümlüdür. Sunulan belgelerin sahte olabileceğinden şüphe duyulması halinde, bu belgelerin ilgili birimler tarafından incelenmesi sağlanır.
+(2) Başvuru sahibinin kişisel verileri, il müdürlüğü tarafından alınır, kurumsal yazılım sistemine kaydedilir ve ilgili veri tabanlarında yer alan bilgilerle karşılaştırılır. Kişisel verilerinin alınmasına izin vermeyen başvuru sahiplerinin başvurusu geri çekilmiş kabul edilir.
+(3) Başvuru sahibinin kimlik bilgilerine ilişkin belge sunamaması hâlinde, kimlik tespitinde kişisel verilerinin karşılaştırılmasından ve yapılan araştırmalardan elde edilen bilgiler kullanılır. Kimlik tespit araştırmaları sırasında dil analizi gibi yöntemlerden de faydalanılabilir. Araştırmalar sonucunda, kimliği tespit edilemeyen başvuru sahibinin beyanı esas alınır.
+(4) Kimlik tespiti amacıyla, başvuru sahibinin üzerinde ve eşyalarında mevzuata uygun olarak kontroller yapılabilir.

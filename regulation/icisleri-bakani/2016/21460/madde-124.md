@@ -1,0 +1,4 @@
+Kişisel verilerin alınması ve saklanması
+MADDE 124 – (1) Genel Müdürlük veya il müdürlüğü tarafından Kanun kapsamındaki yabancıların parmak izleri, avuç içi, retina, ses taramaları, fotoğrafları gibi kişisel verileri Genel Müdürlük tarafından belirlenen usul ve esaslar çerçevesinde alınır, korunur, saklanır, kullanılır ve paylaşılır.
+(2) Alınan kişisel veriler, yabancının kimlik bilgileri ile birlikte, ne zaman ve kim tarafından alındığı belirtilmek suretiyle, bu amaca özgü sisteme kaydedilerek saklanır.
+(3) Vize başvurusunda bulunan devlet ya da hükümet başkanları ile üst düzey hükümet görevlilerinden, Türkiye’ye davet edilen resmi delegasyon üyelerinden ve bunlara refakat eden eşi ile çocuklarından ve vize veya ikamet başvurusunda bulunan on iki yaşından küçük çocuklardan parmak izi alınmaz.

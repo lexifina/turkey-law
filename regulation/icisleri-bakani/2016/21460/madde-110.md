@@ -1,0 +1,7 @@
+Başvuru sahibi ve uluslararası koruma statüsü sahiplerinin ikameti ve bildirim yükümlülüğü
+MADDE 110 – (1) Genel Müdürlük, kamu düzeni veya kamu güvenliği, kişinin talebi, özel durumu, sağlık ve eğitim durumu ile akrabalık ilişkileri, kültürü, kişisel koşulları, illerin kapasitesi gibi konuları göz önünde bulundurarak, başvuru sahiplerinin barındırılacağı yerler ile ikamet edecekleri illeri, başvuru veya kayıt işlemleri sırasında belirleyebilir, gerekli hallerde değişiklik yapabilir.
+(2) Şartlı mülteciler ile ikincil koruma statüsü sahiplerinin, ikamet edecekleri iller Genel Müdürlük tarafından belirlenebilir veya Genel Müdürlükçe belirlenecek iller arasından kendileri seçebilir. Genel Müdürlük tarafından zorunlu ikamet ilinin belirlenmediği durumlarda tercih edilen illerde ikamet edilebilir.
+(3) Başvuru sahibi ile mülteci, şartlı mülteci ve ikincil koruma statüsü sahipleri, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini ve adres değişikliğini en geç yirmi iş günü içinde il müdürlüğüne bildirmekle yükümlüdürler.
+(4) Başvuru sahibi, şartlı mülteci ve ikincil koruma statüsü sahiplerine kamu düzeni ve kamu güvenliği nedeniyle belirli bir ilde ikamet etmenin yanı sıra, belirlenen süre ve usullerle bildirimde bulunma yükümlülüğü de getirilebilir.
+(5) Başvuru sahipleri akrabalık, sağlık veya diğer nedenlerle ikamet ili değişikliği talebinde bulunabilirler ve bu talepler Genel Müdürlük veya yetki verilmesi halinde il müdürlüğü tarafından değerlendirilir.
+(6) Bu madde hükümleri mülteci statüsü verilenlere de uygulanabilir.

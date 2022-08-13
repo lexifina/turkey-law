@@ -1,0 +1,4 @@
+Özel ihtiyaç sahipleri
+MADDE 113 – (1) Başvuru sahiplerinin; refakatsiz çocuk, engelli, yaşlı, hamile, beraberinde çocuğu olan yalnız anne ya da baba veya işkence, cinsel saldırı ya da diğer ciddi psikolojik, bedensel ya da cinsel şiddete maruz kalmış kişi olup olmadığı öncelikle tespit edilir.
+(2) Uluslararası koruma işlemlerinin herhangi bir aşamasında özel ihtiyaç sahibi olduğu anlaşılanlara, tüm iş ve işlemlerinde öncelik tanınır, gerekli her türlü kolaylık gösterilir ve durumları kayıt altına alınır.
+(3) Uluslararası koruma kapsamında işlemleri yürütülenlerden işkence, cinsel saldırı ya da diğer ciddi psikolojik, bedensel ya da cinsel şiddete maruz kalmış olduğu değerlendirilenlerin tedavileri için ilgili kamu kurum ve kuruluşları, sivil toplum kuruluşları ve uluslararası kuruluşlar ile işbirliği yapılabilir.

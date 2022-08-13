@@ -1,0 +1,3 @@
+Kayıt belgesi
+MADDE 71 – (1) Kayıt işlemleri tamamlandıktan sonra, başvuru sahibine il müdürlüğü tarafından hiçbir harca tabi olmayan şekli ve içeriği Genel Müdürlükçe belirlenen, iptal edilmediği sürece geçerli olan Uluslararası Koruma Başvuru Kayıt Belgesi düzenlenir. Bu belge, geçerli olduğu süre içinde başvuru sahibine ikamet izni almaksızın Türkiye’de bulunma hakkı sağlar.
+(2) Kayıt Belgesi, başvuru sahiplerinden Türkiye’ye düzenli yollarla gelenlerin vize veya vize muafiyeti sürelerinin bitimine ya da düzensiz ve doğrudan gelenlerin ise yasa dışı giriş tarihlerine bakılmaksızın uluslararası koruma başvuru tarihi itibariyle düzenlenir.

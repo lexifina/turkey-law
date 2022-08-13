@@ -1,0 +1,4 @@
+İdare mahkemesine başvuru
+MADDE 101 – (1) Kabul edilemez başvuru ile hızlandırılmış değerlendirme kararlarına karşı, kararın tebliğinden itibaren on beş gün içinde başvuru sahibi veya avukatı ya da yasal temsilcisi yetkili idare mahkemesine başvurabilir. Mahkemeye yapılan başvurular on beş gün içinde sonuçlandırılır. Mahkemenin bu konuda vermiş olduğu karar kesindir.
+(2) İdari gözetim, kabul edilemez başvuru ve hızlandırılmış değerlendirme kararları dışında alınan idari kararlara karşı kararın tebliğinden itibaren otuz gün içinde idare mahkemesine başvurulabilir.
+(3) Uluslararası koruma değerlendirme komisyonuna itiraz edilmesi, ilgili kişinin yetkili idare mahkemesine başvurma hakkını engellemez ve dava açma süresini durdurmaz. Ancak Komisyona itiraz eden kişinin aynı zamanda yetkili idare mahkemesine de başvurduğu anlaşılırsa, komisyon yapılan başvuru hakkındaki incelemeyi durdurur.

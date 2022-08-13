@@ -1,0 +1,5 @@
+Kurul kararları ve niteliği
+MADDE 142 – (1) Kurul, üye tam sayısının salt çoğunluğuyla toplanır ve toplantıya katılanların oy çokluğu ile karar alır. Oyların eşitliği halinde Başkanın kullandığı oy yönünde çoğunluk sağlanmış sayılır.
+(2) Kurul kararları, her karara bir numara verilmek suretiyle toplantı salonunda yazılır, Başkan ve üyelerce imzalanır. Kararların toplantıdan sonra yazılıp imzalanacağı durumlarda buna ilişkin bir karar tutanağı düzenlenerek üyelerce imzalanır. Kararların tek sayfadan fazla olması halinde diğer sayfalar da başlıklı karar kâğıtlarına yazılarak kararların bittiği sayfanın sonu Başkan ve üyelerce imzalanır, diğer sayfalar ise paraflanır. Kurul kararlarına ek oluşturacak plan, proje, harita ve benzeri belgelerin olması halinde, bu belgelerin bir takımı sekretarya tarafından paraflanarak karar dosyasında saklanır.
+(3) Karşı oy kullanılan kararlar karşı oy yazılarak imzalanır. Karşı oy gerekçeleri dosyasında saklanmak üzere bir sonraki kurul toplantısına kadar sekretaryaya yazılı olarak teslim edilir.
+(4) Kurulun tavsiye niteliğindeki kararları, Genel Müdürlük ile kamu kurum ve kuruluşlarınca değerlendirilir.

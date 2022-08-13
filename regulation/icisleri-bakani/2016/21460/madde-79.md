@@ -1,0 +1,7 @@
+Başvurunun geri çekilmesi veya geri çekilmiş sayılması
+MADDE 79 – (1) Kanunun 77 nci maddesinin birinci fıkrası kapsamında olanların başvuruları, valilik tarafından geri çekilmiş kabul edilerek değerlendirme durdurulur ve kurumsal yazılım sistemine kaydedilir.
+(2) Başvurusunun geri çekilmiş sayıldığına ilişkin karar yabancıya tebliğ edilir.
+(3) Başvurusunu geri çektiğini yazılı olarak beyan eden başvuru sahiplerinden, gönüllü olarak geri dönüş yapmak isteyenler hakkında son karar beklenmez.
+(4) Başvurusu geri çekilmiş kabul edilenlerden Kanunun 77 nci maddesinin birinci fıkrasının (a) bendi kapsamında olanlar Türkiye’yi terk etmeleri için kendilerine tanınan sürenin sonunda Türkiye’den çıkmadıklarının tespit edilmesi halinde, Kanunun 77 nci maddesinin birinci fıkrasının (b), (c), (ç), (d) ve (e) bentleri kapsamında olanlar ise başvurunun geri çekilmiş kabul edilmesine ilişkin haklarında verilen olumsuz son kararın ardından Kanunun diğer hükümlerine göre Türkiye’de kalma hakkı bulunmayanlar sınır dışı edilirler. Ancak başvurusu geri çekilmiş sayılanlardan bu karar tebliğ edilemeyenler hakkında sınır dışı kararı alınmaz.
+(5) Başvurusunu geri çektikten veya başvurusunun geri çekilmiş sayılmasından sonra yeniden yapılacak uluslararası koruma başvuruları hızlandırılmış değerlendirmeye alınır.
+(6) Genel Müdürlük uluslararası koruma başvuruları geri çekilmiş sayılanlar veya uluslararası koruma talebi reddedilenler hakkında, ülkeye giriş yasağı uygulayabilir veya bu yetkisini valiliklere devredebilir.

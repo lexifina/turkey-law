@@ -1,0 +1,12 @@
+Türkiye’yi terke davet
+MADDE 58 – (1) Kanunun 54 üncü maddesinin birinci fıkrasının (b) ve (d) bentleri dışındaki yabancılar, Kanunun 56 ncı maddesindeki şartları taşımaları kaydıyla Türkiye’yi terke davet edilebilir.
+(2) Sınır dışı etme kararında belirtilmek kaydıyla on beş günden az olmamak üzere otuz güne kadar süre tanınarak Türkiye’yi terke davet edilen ve çıkış izin belgesi düzenlenenlerden, tanınan sürede kabul edilebilir mazereti olmaksızın çıkış yapmayanlar hakkında valilik tarafından idari gözetim kararı alınır.
+(3) Terke davet edilen yabancılar, tanınan sürede ikamet izni veya çalışma iznine başvuru yapamazlar.
+(4) Valilik ya da sulh ceza hâkimi tarafından idari gözetimin sonlandırılması kararı verildiğinde yabancının idari gözetimi derhal sonlandırılır ve hakkında yurtdışına çıkışını engelleyen bir mahkeme kararının bulunmaması kaydıyla Türkiye’yi terke davet edilir. Bu şekilde idari gözetimin sonlandırılması kararı verilen yabancının, kamu güvenliği açısından risk oluşturduğu anlaşıldığında konuları yönünden gerekli çalışmaların yapılabilmesini teminen ilgili güvenlik ve istihbarat birimlerine il müdürlüğünce bilgi verilir ve idari yükümlülükler getirilerek yabancının idari gözetimi sonlandırılır.
+(5) Hakkında sınır dışı etme kararı alınarak Türkiye’yi terke davet edilen yabancılar hakkında işlemi yapan il müdürlüğünce gerekli veri girişi yapılır.
+(6) Türkiye’yi terke davet edilen yabancılar çıkış yapmak üzere sınır kapılarına geldiklerinde, kendilerine tanınan terke davet süresine bakılmaksızın çıkışları sağlanır.
+(7) Terke davet süresi içinde sınır kapısına gelenlerden varsa vize veya ikamet ihlalinden kaynaklanan para cezalarını ödeyenler için giriş yasağı uygulanmaz.
+(8) Terke davet süresini geçirmiş olarak sınır kapısına gelenlerden vize veya ikamet ihlal süresine göre giriş yasağı uygulanır.
+(9) Terke davet edildiği süre içerisinde çıkış yapmadığı tespit edilenlerin sınır dışı etme işlemleri geri gönderme merkezinden gerçekleştirilir.
+(10) Sınır kapılarında giriş işlemleri sırasında yabancının terke davet edildiği ile ilgili kaydına rastlanması halinde bu kayıt sınır kapısı tarafından resen kaldırılır. Bunun dışında farklı nedenlerle konulmuş giriş yasağı kayıtları varsa o kayda özgü düzenlemeler çerçevesinde hareket edilir.
+(11) Terke davet uygulamasının yukarıda sayılan tüm şartlarını taşıması kaydıyla herhangi bir şekilde yakalandığı anda pasaportunun bulunmadığı anlaşılan yabancılar da terke davet uygulamasından yararlandırılır.

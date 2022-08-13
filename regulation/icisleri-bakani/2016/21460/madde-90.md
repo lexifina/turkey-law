@@ -1,0 +1,3 @@
+Uluslararası koruma başvuru sahibi kimlik belgesi
+MADDE 90 – (1) Kanunun 72 nci ve 79 uncu maddeleri kapsamında olanlar ile bunların aile üyeleri hariç, mülakatı tamamlanan başvuru sahiplerine ve varsa birlikte geldiği aile üyelerine Genel Müdürlük veya yetki verilmesi halinde il müdürlüğü tarafından, yabancı kimlik numarasını içeren, hiçbir harca tabi olmayan, şekli ve içeriği Genel Müdürlükçe belirlenen ve iptal edilmediği sürece geçerli olan Uluslararası Koruma Başvuru Sahibi Kimlik Belgesi düzenlenir.
+(2) Bu belge, geçerli olduğu süre içinde başvuru sahibine ikamet izni almaksızın Türkiye’de bulunma hakkı sağlar.

@@ -1,0 +1,6 @@
+Çalışma izninin ikamet izni sayılması
+MADDE 25 – (1) Çalışma ve Sosyal Güvenlik Bakanlığı tarafından veya kendi mevzuatında çalışma izni vermeye yetkili kamu kurum ve kuruluşları tarafından verilen çalışma izinleri, geçerli olduğu sürece ikamet izni olarak kabul edilir. Bu yabancılar ile Çalışma İzni Muafiyet Teyit Belgesine sahip yabancılar ikamet izni harcını ödemeleri kaydıyla ayrıca ikamet izni belgesi almazlar. Uluslararası koruma başvuru sahipleri bu harçtan muaftır.
+(2) Çalışma izni verilmesi ya da çalışma izninin süresinin uzatılması talebinde bulunan yabancıların, Türkiye’ye girişlerine izin verilmeyecek yabancılardan olmamaları şartı aranır. Çalışma izni vermeye yetkili kurumlar, Genel Müdürlüğün bu konudaki olumlu görüşünü almak kaydıyla çalışma izni verebilir.
+(3) Çalışma izninin sona erdiği tarih, aynı zamanda ikamet izninin de bitiş tarihidir. Çalışma izni süresi sona erdiği halde süresini uzatmayan ya da yeni durumuna uygun ikamet izni almayan yabancılar, ikamet izni ihlali yapmış sayılırlar.
+(4) Çalışma izni ve Çalışma İzni Muafiyet Teyit Belgesi süreleri, ikamet izni sürelerinin hesaplanmasında toplam süreye dâhil edilir.
+(5) Çalışma izni veren kamu kurum ve kuruluşları, çalışma izinlerine ilişkin güncel bilgileri Genel Müdürlükle paylaşır.

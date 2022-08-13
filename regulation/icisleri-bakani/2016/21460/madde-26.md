@@ -1,0 +1,10 @@
+İkamet izinleri arasında geçişler
+MADDE 26 – (1) İkamet izinlerinden birine sahip olup; ikamet izninin verilmesine esas olan gerekçenin sona ermesinden sonra Türkiye’de kalmaya devam edecek yabancılar, gerekçenin sona erdiği tarihten itibaren on gün içinde yeni kalış amacına uygun ikamet izni için ilgili valiliğe başvurur. Bu yabancılara, ikamet izni müracaat belgesi verilir.
+(2) Birinci fıkra kapsamında geçiş başvurusunda bulunan yabancının mevcut ikamet izni, iznin verilmesine esas olan gerekçenin ortadan kalktığı tarih itibarıyla sona erdirilir.
+(3) İkamet izinlerinden birine sahip olan yabancı mevcut gerekçesine ek olarak yeni bir gerekçeye sahip olması hâlinde, mevcut ikamet izniyle kalmaya devam edebileceği gibi 21 inci maddenin beşinci fıkrasında belirtilen altmış günlük süreyi beklemeden valilikten yeni ikamet izni talebinde bulunabilir.
+(4) Öğrenci ikamet iznine sahip olan yabancının aile ikamet izni alma koşullarının ortaya çıkması halinde, bu kişiye aile ikamet izni düzenlenir ve öğrenci ikamet izni koşullarını taşımaya devam ettiği sürece öğrenci ikamet izninin sağladığı haklardan aynen yararlanır.
+(5) Aile ikamet iznine sahip olan yabancının öğrenci ikamet izni alma koşullarının ortaya çıkması halinde, aile ikamet izni devam ettirilir ve yabancı, öğrenci ikamet izninin sağladığı haklardan da aynen yararlandırılır.
+(6) Çalışma iznine sahip olan yabancının öğrenci ikamet izni alabilme koşullarının ortaya çıkması halinde, çalışma izni devam eder ve yabancı öğrenci ikamet izninin sağladığı haklardan aynen yararlandırılır.
+(7) İnsani ikamet izni veya insan ticareti mağduru ikamet iznine sahip olan yabancılar, öğrenci ikamet izni alabilme koşullarının ortaya çıkması halinde, öğrenci ikamet iznine geçmeden de bu iznin sağladığı haklardan yararlanabilirler.
+(8) Mültecilere, şartlı mültecilere, ikincil koruma statü sahiplerine, insani ikamet izni bulunanlara ve geçici korunanlara uzun dönem ikamet iznine geçiş hakkı tanınmaz.
+(9) İkamet izni değişiklikleriyle ilgili etkin denetimi sağlayabilmek amacıyla ilgili kurum ve kuruluşlarla iş birliği yapılır.

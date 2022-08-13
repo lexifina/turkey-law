@@ -1,0 +1,2 @@
+Kişisel dosyaya erişim
+MADDE 117 – (1) Başvuru sahibi veya uluslararası koruma statüsü sahibinin kişisel dosyasında bulunan belgelerin bir örneği yazılı olarak talep edildiğinde Genel Müdürlük tarafından belirlenecek usul ve esaslara göre kendisine, yasal temsilcisine ya da vekâletnamesini ibraz eden avukatına tutanakla teslim edilir. Tutanakta, verilen belge örneklerinin sadece idari itiraz veya yargı sürecinde savunma amaçlı olarak kullanılabileceği, üçüncü şahıslara verilmesi veya açıklanması halinde hukuki sorumluluk doğuracağı uyarıları da yer alır.

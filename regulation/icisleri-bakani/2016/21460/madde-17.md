@@ -1,0 +1,4 @@
+Vize verilmeyecek yabancılar
+MADDE 17 – (1) Kanunun vize verilmeyecek yabancılara ilişkin 15 inci maddesinin ikinci fıkrası hükmü saklı kalmak kaydıyla, aynı maddenin birinci fıkrasında belirtilen yabancılara vize verilmez.
+(2) Kamu sağlığına tehdit olarak nitelendirilen hastalıkların belirlenmesinde, hastalığın 24/4/1930 tarihli ve 1593 sayılı Umumî Hıfzıssıhha Kanununda belirtilen hastalıklardan olup olmadığının yanı sıra Dünya Sağlık Örgütünün Sağlık Tüzüğünde tanımlanan salgın potansiyeli olan hastalıklar ile bulaşıcı veya bulaşıcı parazit hastalıklardan olup olmadığı göz önünde bulundurulur.
+(3) Kanunun 15 inci maddesinin birinci fıkrasının (g) bendi çerçevesinde değerlendirme yapılırken destekleyicinin katkısı, banka hesap dökümü, nakit para, seyahat çeki ve maaş bordrosu gibi hususlar dikkate alınabilir.

@@ -1,0 +1,2 @@
+Kararların izlenmesi ve değerlendirilmesi
+MADDE 132 – (1) Kurul kararlarının uygulanmasından sorumlu kurum ve kuruluşlar, kararların uygulanmasına yönelik olarak yaptıkları çalışmaları izleme raporu düzenleyerek toplantı tarihinden itibaren dörder aylık dönemler halinde Genel Müdürlüğe gönderir. İzleme raporunu hazırlamayan veya kararları yerine getirmeyenlerden, Kurula arz edilmek üzere gerekçelerini bir sonraki toplantıya kadar yazılı olarak göndermesi istenir.

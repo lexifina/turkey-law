@@ -1,0 +1,3 @@
+Sınır dışı edileceklerin gönüllü geri dönüş talepleri
+MADDE 63 – (1) Hakkında idari gözetim kararı alınan yabancılardan ülkelerine veya üçüncü bir ülkeye gönüllü geri dönüş talebi olanlar, seyahatlerine engel bir durumları yoksa geri gönderme merkezlerine sevk edilmeden ve Kanunun 53 üncü maddesindeki süreye bağlı kalınmadan doğrudan ülkelerine veya istedikleri üçüncü ülkeye gönderilebilirler.
+(2) Geri gönderme merkezinde iken gönüllü geri dönüş talebinde bulunan yabancılar il müdürlüğünün koordinasyonunda genel kolluk tarafından sınır kapısına götürülür. Bunlar hakkındaki sınır dışı ve idari gözetim kararları, sınır kapısına intikal edildiğinde sonlandırılır ve çıkış işlemleri “gönüllülük temelinde dönüş” veya “gönüllü terk” olarak kayıtlara geçirilir.

@@ -1,0 +1,3 @@
+Komisyon üyeleri
+MADDE 147 – (1) Komisyonun başkanlığını yürütecek olan Genel Müdürlük temsilcisi ile komisyonda görev alacak göç uzmanı veya göç uzmanı bulunmadığı takdirde yerine görevlendirilecek göç uzman yardımcısı, iki yıl için asıl ve yedek olmak üzere Genel Müdür tarafından görevlendirilir. Diğer üyeler ise en az bir yıl için asıl ve yedek olmak üzere belirlenir. Komisyon başkan ve üyelerine görevleri süresince ek görev verilmez.
+(2) Genel Müdürlük, Adalet ve Dışişleri Bakanlıklarından Kanunun 115 inci maddesinde belirtilen sürelerde asıl ve yedek olarak görevlendirilecek temsilcilerin, bu alanda uzmanlığı bulunan kişilerden olması yönünde talepte bulunabilir. Genel Müdürlüğün yazılı bildirimi üzerine ilgili bakanlıklarca on beş gün içinde görevlendirme yapılır.

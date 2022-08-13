@@ -1,0 +1,4 @@
+Kurul üyesi öğretim elemanlarının belirlenmesi
+MADDE 137 – (1) Kurul üyesi olarak görev yapmak üzere en az doktora derecesine sahip öğretim elemanları arasından başvuruları alınan beş asıl ve beş yedek olmak üzere on öğretim elemanı, Genel Müdürün teklifi ve Bakanlık Müsteşarının onayıyla üç yıllık süreyle seçilir.
+(2) Kurul üyesi olarak görev yapacak öğretim elemanları, Genel Müdürlük tarafından yapılan duyuru üzerine alınan başvuruların değerlendirilmesiyle belirlenir. Kurul üyeliği için Genel Müdürlük internet sitesi üzerinden duyuru yapılır. Ayrıca üniversitelere ve üniversiteler bünyesinde faaliyet gösteren göç araştırma ve uygulama merkezlerine de başvuruyla ilgili duyuru, yazıyla bildirilebilir. Başvurular en fazla bir ay içinde olmak şartıyla duyuruda belirtilen tarih süresince alınır.
+(3) Öğretim elemanı bizzat başvuru yapabileceği gibi üniversiteler tarafından da öğretim elemanı teklifinde bulunulabilir.
