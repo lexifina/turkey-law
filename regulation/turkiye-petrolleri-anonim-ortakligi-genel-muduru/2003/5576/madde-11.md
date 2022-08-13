@@ -1,0 +1,9 @@
+Kardeks İşlemleri ve İhalelere Katılmanın Yasaklanması
+Firmaların Tanınması
+Madde 11 — İhale yapmaya yetkili birimler görev alanlarına giren firmaların isim ve adreslerini tespit ederek bunları ilgi alanlarına göre firmalar portföyüne kaydederler. Firmaların durumları münasebette bulundukları firmalar nezdindeki itibarları, sermaye ve iş kabiliyetleri ile taahhütlerine bağlılıkları gibi hususlar her firma için açılacak kartlara ve bilgisayar kayıtlarına işlenir. Yeni müracaatlar da bu portföye kaydedilir (kardeks veya firma arşiv işlemleri).
+Yukarıda bahsedilen, Firmalar Portföyü işlemlerini ilgili Grup Başkanlığı / Bölgelerde ilgili birimler kendi içinden görevlendireceği en az üç kişiden kuracağı bir komisyonla yürütür. Gerek görülürse diğer Gruplardan / Bölgelerde birimlerden de eleman istenir. Yetkili Grupların/Bölgelerde ilgili birimlerin yazılı yapacakları firma önerileri de dikkate alınır.
+İlgili birimler en geç iki yılda bir, kardeksin güncelleştirilmesi veya zenginleştirilmesi amacıyla ilan yoluna başvurabilirler ve bu durumda ilgili birimlerden de konu ile ilgili yazılı görüş alırlar.
+Kayıtlara alınan firmalar ''KOD'' lanır, daha sonra adı, adresi, telefonu, faks ve teleks numaraları ile varsa temsilcileri kayıtlara işlenir.
+Kardeks kayıtlarına geçen firmalar ile ilgili olarak "Sicil Kaydı" tutulur. Bu kayıttaki firmaların TPAO ile ilişkilerindeki sorunlar, verdikleri malzeme kalitesi ve ilişkide oldukları bankalar ile firmalar nezdindeki itibarları, ticari ilişkileri, sermaye ve iş kabiliyetleri, taahhütlerine sadakatlerini belirten bilgiler tutulur ve bu bilgi ve belgeler gizli olarak muhafaza edilir.
+Ortaklıkça kardeksten çıkarılan firmalar, ihalelere kabul edilmezler.
+Ayrıca temsilci firmalar için de Kardeks kayıtlarında yukarıdaki şekillerde sicil tutulur.

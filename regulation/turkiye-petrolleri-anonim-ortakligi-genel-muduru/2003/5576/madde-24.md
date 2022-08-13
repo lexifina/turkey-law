@@ -1,0 +1,5 @@
+Belli İstekliler Arasında İhale Usulü
+Madde 24 — İlana çıkılmaksızın belli istekliler arasında ihale usulü ile yapılacak mal ve hizmet alım ihalelerinde, teknik liyakat ve yetenekleri Ortaklık tarafından kabul edilmiş ve/veya kardeks kayıtlarında yer alan en az üç istekliden yazılı teklif istenmesi esastır.
+Satın alınacak mal veya hizmetin 3 den az isteklide bulunması halinde, ihtiyaç sahibi birimce Merkezde Genel Müdürlükten / Bölgelerde Bölge Müdüründen gerekçesi belirtilerek olur alınması şarttır.
+Dış alım teklifleri, doğrudan doğruya yabancı firmaların bizzat kendilerinden, bu mümkün olamadığı takdirde firmaların ülkemizdeki yetkili acentasından, acentası olmayan hallerde o firmaların mümessillik belgesine sahip kanuni temsilcilerinden istenilir.
+Belli istekliler arasında ihale usulü ile yapılan ihalelerde, tekliflerin alınması ve açılması açık ihale usulünde belirtilen yönteme göre yapılır. Belli istekliler arasında ihale usulünde ihalenin yapılamadığı durumlarda alım pazarlık usulüyle yapılabilir.

@@ -1,0 +1,5 @@
+Hizmet Alımları
+Madde 9 — İhtiyaç sahibi veya uygulamacı birimler, iş programlarında bulunan işler için, işi ve yaklaşık maliyeti açıklayarak; iş programlarında bulunmayan, ancak yapılması zorunlu olan işler için ise işe ait yaklaşık maliyeti ile birlikte cinsini, özelliklerini, yapılma gerekçesini ve bu iş için kullanılabilecek tahsisatın işletme bütçesindeki yerini belirten bir yazı ile Genel Müdürlükten/Bölge Müdürlüğünden ihale usulünü de belirterek onay ister (İşe Başlama Oluru).
+Tamir-tadilat, bakım onarım, gümrük sigorta ve nakliye işlerinde ise Merkezde; ihtiyaç sahibi Grup Başkanlıklarından gelen ön yazı ve/veya ekindeki "İş Talep Formu" veya "Sipariş Mektubu" işe başlama Oluru kabul edilir. Bölgelerde ise; Bölge Müdürlüğünden ihale usulünü de belirterek onay alınır.
+İşi yürütecek Grup Başkanlığı / Bölgede ilgili birim ihale dosyasını oluşturur, oluşan ihale dosyasını ihale usulünün el vermesi koşuluyla kardeksle birlikte yetki limitleri dahilindeki ihale komisyonuna sunar.
+Grup Başkanlıkları kendi konularıyla ilgili olarak, özel ihtisas ve takibi gerektiren işler için yetki limitleri dahilinde hizmet ihalesi yapabilirler.

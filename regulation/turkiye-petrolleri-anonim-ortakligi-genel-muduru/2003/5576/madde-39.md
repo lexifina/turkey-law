@@ -1,0 +1,2 @@
+Olağanüstü Durumlar
+Madde 39 — Piyasa şartlarının, savaş veya bu nitelikteki zorlayıcı nedenlerin etkisiyle normal işlemlerin yerine getirilmesine imkan vermeyecek şekilde bozulması yüzünden, fiyatların anormal bir şekilde yükselmesi veya ihtiyaç duyulan maddelerin piyasadan kalkması ihtimalinin baş göstermesi halinde, TPAO Mal ve Hizmet Alımı İhale Yönetmeliğinin kısmen veya tamamen uygulanmaması için Genel Müdürlükçe olağanüstü alım rejiminin esasları da öngörülmek suretiyle, Yönetim Kuruluna başvurulur ve Yönetim Kurulunca verilecek karara göre işlem yapılır.
