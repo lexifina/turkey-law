@@ -1,0 +1,6 @@
+Alanın düzenleyici kontrolden çıkarılması
+MADDE 9- (1) Radyoaktif kirliliğin giderilmesini içeren çevresel iyileştirme faaliyetlerinin tamamlanmasının ardından, Kuruluş alanın düzenleyici kontrolden çıkarılması amacıyla Kuruma başvuruda bulunur.
+(2) Kuruluş alanın düzenleyici kontrolden çıkarılması başvurusunun ekinde, yürütülen çevresel iyileştirme faaliyetlerine ilişkin raporu ve alanın düzenleyici kontrolden çıkarılması için gerekli şartların sağlandığını gösteren ve içeriği Kurum tarafından belirlenen radyolojik karakterizasyon raporunu Kuruma sunar.
+(3) Kurum, alanın düzenleyici kontrolden çıkarılması başvurusunda sunulan bilgi ve belgeleri gözden geçirme ve değerlendirmeye tabi tutar. Kurum değerlendirme sürecinde ilave bilgi ve belge talep edebilir.
+(4) Sunulan bilgi ve belgelerde görülen eksiklikler Kuruluşa bildirilir. Kuruluş bunları Kurum tarafından belirlenen sürede tamamlayarak Kuruma vermekle yükümlüdür.
+(5) Alanın düzenleyici kontrolden çıkarılması kararı Kurum tarafından verilir. Kararın olumlu olması durumunda, alanın düzenleyici kontrolden çıkarılmasına ilişkin karar Kuruluşa bildirilir. Kararın olumsuz olması durumunda, karar gerekçeleri ile birlikte Kuruluşa bildirilir.
