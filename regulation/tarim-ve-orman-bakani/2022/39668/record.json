@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39668",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SULAMA BİRLİKLERİNE BAŞKAN OLARAK GÖREVLENDİRİLECEK KAMU PERSONELİNİN BELİRLENMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "39668",
+  "issuer": "Tarım ve Orman Bakanı",
+  "issuer_slug": "tarim-ve-orman-bakani",
+  "path": "regulation/tarim-ve-orman-bakani/2022/39668",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39668&MevzuatTertip=5",
+  "source_sha256": "da172170f0e793bacb848398e1f9094f59cfb51876b6e0aa6e1d4a39bdb585c8",
+  "source_bytes": 34521,
+  "published": "2022-08-13",
+  "gazette": "31922",
+  "in_force": "2022-08-13",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (13.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 767,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39668-EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
