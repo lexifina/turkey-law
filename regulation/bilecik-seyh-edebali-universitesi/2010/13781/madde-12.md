@@ -1,0 +1,4 @@
+Danışma kurulu
+MADDE 12 – (1) (Değişik:RG-14/8/2021-31568) Danışma Kurulu; Müdür ile Merkez Müdürünün Üniversitenin fakülte, enstitü, yüksekokul, meslek yüksekokulu gibi farklı akademik birimlerinden önereceği öğretim elemanları arasından Rektör tarafından görevlendirilen altı üye olmak üzere toplam yedi üyeden oluşur. Danışma Kurulu üyelerinin görev süresi üç yıldır. Görev süresi dolan üyeler yeniden görevlendirilebileceği gibi görev süresi dolmadan aynı usulle görevden alınabilir. Süresi bitmeden herhangi bir nedenle görevinden ayrılan üyenin yerine, kalan süreyi tamamlamak üzere yenisi aynı usulle görevlendirilebilir.
+(2) (Değişik:RG-14/8/2021-31568) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir defa toplanır.
+(3) Danışma Kurulu, üyelerin salt çoğunluğu ile toplanır ve kararlar oy çokluğu ile alınır.
