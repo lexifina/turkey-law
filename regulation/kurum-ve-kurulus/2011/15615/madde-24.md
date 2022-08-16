@@ -1,0 +1,2 @@
+Görüş veya kararın düzenlenmesi
+MADDE 24 – (1) Denetim raporları, diğer raporlar ve Sayıştay Başkanı tarafından görüşülmesi istenilen konularla ilgili gerekçeli olarak yazılan görüş veya kararlar dört nüsha olarak düzenlenir. Biri imzalı diğeri imzasız iki nüshası Sayıştay Başkanlığına gönderilir. Diğer iki nüsha dairede alıkonulur. Bu Usul ve Esasların 17 nci maddesinin dördüncü fıkrası, bu maddede düzenlenen görüş ve kararlar hakkında da uygulanır.

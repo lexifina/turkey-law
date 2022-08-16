@@ -1,0 +1,2 @@
+Üyeler
+MADDE 6 – (1) Üyeler, daire başkanı tarafından kendilerine verilen raporları geciktirmeden inceleyerek dairede gerekli açıklamaları yapar, görüş ve düşüncelerini gerekçeleri ile yazılı olarak bildirir, dairenin toplantılarına katılır, oylarını verir, karar ve görüşlerde azınlıkta kalanlar karşı oy gerekçelerini yazılı olarak bildirir, daire ile ilgili olmak üzere verilen diğer işleri yapar.

@@ -1,0 +1,7 @@
+Çağrı ve duruşma talebi
+MADDE 10 – (1) Denetim raporlarının görüşülmesine ilişkin gündem görüşme gününden en az üç gün önce ilgili grup başkanı veya raporu düzenleyen denetçiye gönderilir. Görüşme gününden en az üç gün önce bildirimde bulunmak şartıyla ilgili kamu idaresinin üst yöneticisi veya görevlendireceği yardımcısı da açıklamalarda bulunmak üzere çağrılabilir.
+(2) Yargılamaya esas raporların görüşülmesi sırasında açıklamalarda bulunmak üzere görüşme gününden en az üç gün önce bildirimde bulunmak şartıyla ilgili grup başkanı, raporu düzenleyen denetçi, sorumlular ve ahizler çağrılabilir.
+(3) Çağrının yapılıp yapılmayacağına heyetçe karar verilir. Çağrı üzerine gelenlerin açıklamaları dinlenir; hiçbiri gelmezse görüşme veya yargılamaya rapor üzerinden devam edilir.
+(4) Yargılamaya esas raporlar hakkında sorumlular duruşma talebinde bulunabilirler. Sorumlular bu taleplerini denetçi sorguları üzerine düzenleyecekleri savunmalarında belirtirler.
+(5) Ahizler duruşmaya fer’i müdahil olarak katılma isteklerini, bir dilekçe ile Sayıştaya bildirirler. Ahizler yargılamayı yapan dairenin bu başvuruyu kabul etmesi halinde duruşmaya katılarak açıklamalarını yaparlar.
+(6) Çağrı veya duruşma talebi üzerine davet; elektronik posta veya telefonla teyit edilmek şartıyla faks veya gerektiğinde resmi yazı ile yapılır. Çağrı veya davette, ilgililerden belirlenen gün ve saatte toplantı veya yargılamada hazır bulunması istenir.
