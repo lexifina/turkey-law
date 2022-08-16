@@ -1,0 +1,2 @@
+Müzakerenin yenilenmesi
+MADDE 13 – (1) Kanunun 58’inci maddesi uyarınca verilen kararlar ile görüş vermeye ilişkin kararlar hariç olmak üzere, Genel Kurul kararları hakkında kararın verildiği oturumda veya okunması sırasında üyeler tarafından farklı gerekçelerle yeniden müzakere talebinde bulunulabilir. Bu konudaki talepler Genel Kurulca karara bağlanır. Aynı konu için birden fazla yeniden müzakere talebinde bulunulamaz.

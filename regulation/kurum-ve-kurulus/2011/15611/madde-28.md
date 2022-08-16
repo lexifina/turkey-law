@@ -1,0 +1,4 @@
+Toplantı ve karar yeter sayısı
+MADDE 28 – (1) Kurul üye tamsayısının en az üçte ikisi ile toplanır. Kanuni izin ve boş üyelik sebebiyle toplantı yeter sayısının sağlanamadığı hallerde, dairelerden Kurula seçilmiş bulunan üye sayısını aşmamak ve o toplantıya münhasır olmak kaydıyla Kurul Başkanı tarafından katılamayan üyelerin yerine her daireden bir üyeyi aşmamak koşuluyla kıdem esasına göre yeter sayıyı sağlayacak kadar üye toplantıya davet edilebilir.
+(2) Kurul, mevcudun salt çoğunluğu ile karar verir. Oyların eşitliği halinde Kurul Başkanının bulunduğu taraf çoğunluğu sağlamış sayılır. Temyiz edilen kararda imzası bulunanlar oy kullanamazlar.
+(3) Temyiz Kurulu temyiz olunan hükmü olduğu gibi veya düzelterek tasdik eder, bozar ya da kurul üye tamsayısının üçte iki çoğunluğu ile kaldırır.

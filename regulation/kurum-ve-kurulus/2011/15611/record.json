@@ -1,0 +1,39 @@
+{
+  "source_id": "7.5.15611",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SAYIŞTAY GENEL KURULU, TEMYİZ KURULU VE DAİRELER KURULUNUN ÇALIŞMA USUL VE ESASLARI",
+  "number": "15611",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2011/15611",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=15611&MevzuatTertip=5",
+  "source_sha256": "3eb5a51dbbbd1e5f69e019dc653b2d39d9b222c56b7cfad8e0e70297b4886290",
+  "source_bytes": 75642,
+  "published": "2011-12-17",
+  "gazette": "28145",
+  "in_force": "2022-08-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/8/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-08-16",
+      "RG-16/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-16",
+      "16/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3301,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

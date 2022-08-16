@@ -1,0 +1,4 @@
+Kararların okunması
+MADDE 42 – (1) Kurul Başkanı tarafından gündem konusu her işin müzakeresi sonucunda yetki isteminde bulunulur. Müzakere edilen gündem maddeleriyle ilgili olarak yetki verilmesi halinde kararlara son şeklin verilmesi Kurul Başkanlığına bırakılır. Ancak Kurul üyelerinden en az bir üye tarafından yetki verilmemesi halinde bu husus Kurulun oyuna sunulur.
+(2) Kararın okunması sırasında, müzakerenin yansıtılmayan bölümleri ilave edilmek, müzakereye uygun bulunmayan kısımlar çıkarılmak ve gerekiyorsa ifade bakımından düzeltmeler de yapılmak suretiyle kararlara son şekli verilir.
+(3) Kararın okunması sırasında esasa ilişkin değişiklik yapılmaz. Ancak Kurul üyelerince farklı gerekçelerle yeniden müzakere isteminde bulunulabilir. Bu konudaki öneriler Kurulca karara bağlanır. Aynı konu için birden fazla yeniden müzakere talebinde bulunulamaz.
