@@ -1,0 +1,15 @@
+Merkezin faaliyet alanları
+MADDE 6- (1) Merkezin faaliyet alanları şunlardır:
+a) Yurt içinde ve dışında, kamu ve özel kurum ve kuruluşlarla iş birliği yaparak Üniversite öğrencilerine, mezunlarına ve çalışanlarına bireysel kariyer planlama, iş arama, mesleki ve kişisel birikimlerini sunma konusunda gerekli yetkinlikleri kazandırma ve geliştirmeye yönelik uygulama, araştırma ve inceleme yapmak, proje hazırlamak, yapılmakta olan çalışmalara katılmak ve bu tür çalışmaları desteklemek.
+b) Üniversite öğrencilerinin kariyer planlamalarına ilişkin strateji, politika, proje, program ve eylem geliştirme önerilerini Rektörlüğe sunmak; onaylanan önerilerin uygulanmasına ilişkin ilgili mevzuat çerçevesinde ilgili faaliyetleri düzenlemek.
+c) Üniversiteye yeni başlayan öğrencilerin kariyer uyumlarını artırmaya yönelik çalışmalar planlamak ve uygulamak.
+ç) Üniversite öğrencilerinin, mezunlarının ve çalışanlarının kariyer planlama, geliştirme ve uygulama performanslarını iyileştirmeye yönelik olarak kişilik özelliklerini, bilgi, beceri, yetenek ve ilgi alanlarını tanımalarında gerekli olabilecek test ve teknikleri uygulamak, sonuçlarını yorumlamak, öğrencilerin bu doğrultuda kariyer planlarını oluşturmalarına danışmanlık yapmak.
+d) Kariyer günleri ve kariyer fuarları düzenleyen öğrenci kulüpleri, öğrenci konseyi ve sivil toplum örgütleri ile iş birliği yaparak kariyer etkinlikleri planlamak, düzenlemek veya destek vermek.
+e) İlgili mevzuat hükümleri kapsamında kariyer planlama, geliştirme ve uygulama konularında araştırma, yayın ve proje çalışmalarını teşvik etmek ve desteklemek.
+f) Üniversite bünyesindeki ön lisans, lisans ve lisansüstü düzeydeki kariyer planlama ve geliştirme ile ilgili eğitim ve öğretim programları ile iş birliği projeleri oluşturmak ve uygulamak.
+g) Güncel mezun iletişim bilgilerini içeren ve kariyer gelişimlerini izleyen mezun bilgi sistemini geliştirmek ve mezun bilgi sistemini kullanarak mezunlar ile öğrenciler ve Üniversite arasındaki bağı kuvvetlendirmek.
+ğ) Mezunlar ile öğrencileri bir araya getirecek toplantılar düzenlemek, öğrencilerin iş yaşamı ve kariyer seçenekleri hakkında daha fazla bilgi edinmelerine katkı sağlamak.
+h) Üniversite ile yurt içi ve yurt dışındaki işletmeler, kamu, özel ve sivil toplum kuruluşları arasında kurulacak iş birlikleriyle oluşturulacak veri tabanı aracılığıyla, staj imkânlarını geliştirmek, öğrenciler ve mezunları iş ortamı ile buluşturacak faaliyetler düzenleyerek öğrencilerin ilgi alanlarını tanımalarını sağlamak.
+ı) Merkezin gerçekleştirdiği tüm etkinliklerin iletişimini yönetmek ve bu amaçla basılı ve görsel yayınların yanı sıra elektronik ve web tabanlı yayınlar hazırlamak, Merkezin dijital platformlarda etkinliğini sağlamak.
+i) Kariyer planlama, geliştirme ve uygulamaya yönelik yayınların takibini yapmak, bu konudaki araştırmaları ve projeleri izlemek.
+j) İlgili mevzuat hükümleri kapsamında kariyer danışmanlığı konusunda çalışma yürüten ulusal ve uluslararası kariyer merkezleri ile iletişim ağı kurmak ve ortak çalışmalar yürütmek.

@@ -1,0 +1,2 @@
+Kariyer temsilcisinin görevi
+MADDE 15- (1) Kariyer temsilcisinin görevi; Merkezin amacı doğrultusunda danışanlara, kariyer gelişimlerinde danışmanlık hizmeti vererek destek olmak, birimlerinde bilgilendirici seminer, panel ve konferanslar düzenlenmesi konusunda çalışmalar yapmak ve Merkez etkinliklerinin görevli oldukları fakülte, enstitü, yüksekokul veya meslek yüksekokulunda duyurulmasını sağlamaktır.
