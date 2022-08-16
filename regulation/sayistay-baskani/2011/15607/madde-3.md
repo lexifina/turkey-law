@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Resmi Kıyafetin Şekli ve Giyimine İlişkin Esaslar
+Törenlerde giyilecek resmi kıyafet
+MADDE 3 – (1) Sayıştay Başkanı, başkan yardımcıları, daire başkanları, üyeler, diğer meslek mensupları ile başsavcı ve savcıların törenlerdeki resmi kıyafetleri; koyu renk elbise ve ayakkabı ile Sayıştay Başkanı, başkan yardımcısı, daire başkanları, üyeler ve başsavcı için siyah ince yünlü kumaştan dikilmiş cübbeden (ŞEKİL-1) ibarettir.
+(2) Cübbenin yaka içi, klapası ve kol ağızlarının dışa katlanmış kısımları saten kumaştandır. Saten kumaşın rengi Sayıştay Başkanı, başkan yardımcıları, daire başkanları, üyeler için koyu mavi renk, raportörler için açık mavi renk ve başsavcı ile savcılar için neftî renktir. Cübbe yakalarında Sayıştay Başkanı için ŞEKİL-2’de, başkan yardımcıları, daire başkanları için ŞEKİL-3’te, üyeler için ŞEKİL-4’te, raportörler ile başsavcı için ŞEKİL-5’te, savcılar için ŞEKİL-6’da yer alan şekliyle sarı sim işleme bulunur. Sayıştay Başkanının cübbesinin kol ağızlarının dışa katlanmış kısımları üzerinde, ŞEKİL-7’de düzenlendiği şekliyle sarı sim işleme yer alır.
