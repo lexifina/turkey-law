@@ -1,0 +1,5 @@
+İhale dokümanının içeriği ve ihale dokümanının hazırlanması
+MADDE 18 – (1) İhale dokümanında; isteklilere talimatları da içeren idari şartname, sözleşme tasarısı ve teknik şartname ile gerekli diğer belge ve bilgiler bulunur.
+(2) Başkanlık, ihale dokümanını, bu Yönetmeliğe göre hazırlar ve her sayfasını onaylar. Asıl nüshanın, ihale işlem dosyasında muhafazası zorunludur. Gerekli güvenlik önlemlerinin Başkanlıkça alınması kaydıyla, ihale dokümanı silinemez ve değiştirilemez bir şekilde elektronik ortama aktarılabilir.
+(3) İhale dokümanının hazırlanmasında, Başkanlık tarafından hazırlanmış olan şartnameler, standart formlar, sözleşmeler ile Başkanlık tarafından yayımlanan diğer mevzuat esas alınır.
+(4) İhale dokümanı Türkçe olarak hazırlanır. Ancak, yabancı isteklilere açık olan ihalelerde, dokümanın tamamı veya bir kısmı Türkçe yanında başka dillerde de hazırlanabilir. Talep edenlere, yabancı dilde hazırlanan doküman Türkçe doküman ile birlikte verilir. Bu durumda dokümanın anlaşılmasında, yorumlanmasında ve anlaşmazlıkların çözümünde Türkçe metin esas alınır.

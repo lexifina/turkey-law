@@ -1,0 +1,6 @@
+Yaklaşık maliyete ilişkin ilkeler
+MADDE 7 – (1) Başkanlık tarafından, ihale onay belgesi düzenlenmeden önce, bu Yönetmelikte belirlenen esas ve usullere göre ayrıntılı fiyat ve gerektiğinde miktar araştırması yapılmak suretiyle ihale konusu işin Katma Değer Vergisi hariç yaklaşık maliyeti hesaplanır ve dayanakları ile birlikte bir hesap cetvelinde gösterilir. Yaklaşık maliyete ihale ilânlarında yer verilmez, yaklaşık maliyet isteklilere veya ihale süreci ile resmî ilişkisi olmayan diğer kişilere açıklanmaz.
+(2) İhale konusu işin bir kısmına teklif verilmesinin mümkün olduğu hallerde, yaklaşık maliyet her bir kısım için ayrı ayrı olmak üzere işin tamamı dikkate alınarak hesaplanır.
+(3) İhale konusu işte kullanılacak malzeme, araç, teçhizat, makine ve ekipman gibi unsurların Başkanlık tarafından verilmesi durumunda; yaklaşık maliyet, bu unsurların bedeli hariç tutularak hesaplanır.
+(4) İhale komisyonu tarafından yaklaşık maliyet teklif fiyatları ile birlikte açıklanır.
+(5) Yaklaşık maliyetin Başkanlıkça hesaplanması esastır. Ancak, işin özelliğinden dolayı, Başkanlıkça hazırlanmasının mümkün olmaması sebebiyle teknik şartnamenin danışmanlık hizmeti alınarak hazırlatılması durumunda, bu kapsamda yaklaşık maliyet de aynı danışmanlık hizmet sunucusuna hesaplatılabilir.

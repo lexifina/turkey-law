@@ -1,0 +1,7 @@
+ALTINCI BÖLÜM
+Yeterliğin Belirlenmesinde Uyulacak İlkeler ve İstenecek Belgeler
+Yeterliğin belirlenmesinde uyulacak ilkeler
+MADDE 30 – (1) Ekonomik ve mali yeterlik ile mesleki ve teknik yeterliğin saptanması amacıyla öngörülecek değerlendirme kriterleri ve istenecek belgeler, rekabeti engelleyecek şekilde belirlenemez ve herhangi bir ürün veya firmayı tarif edecek şekilde düzenlenemez.
+(2) Yeterlik değerlendirmesi için istenecek belgelerin ve yeterlik değerlendirmesinde aranılacak kriterlerin, ihale ilanı ile idari şartnamede ya da davet yazısında belirtilmesi zorunludur.
+(3) Kısmi teklif verilmesine imkan tanınan ihalelerde; ilanda ve dokümanda işin başvuruda bulunulabilecek veya teklif verilebilecek her bir kısmı ve bu kısımlar için tespit edilen yeterlik kriterleri ayrı ayrı gösterilir. Aday veya isteklinin yeterlik değerlendirmesi, başvuruda bulunduğu veya teklif verdiği her bir kısım için ayrı ayrı yapılır.
+(4) Parasal tutar ihtiva eden yeterlik belgelerinin yabancı para birimi üzerinden düzenlenmiş olması halinde, bu belgelerdeki parasal tutarlar, ilk ilan veya davet tarihinde Resmî Gazete’de yayımlanan T.C. Merkez Bankası döviz alış kuru üzerinden; yabancı para birimi cinsinden teklif verilebilecek durumlarda ise ilk ilan veya davet tarihinde Resmî Gazete’de yayımlanan T.C. Merkez Bankası çapraz kuru üzerinden tekliflerin değerlendirilmesinde esas alınacak para birimine çevrilerek değerlendirilir.

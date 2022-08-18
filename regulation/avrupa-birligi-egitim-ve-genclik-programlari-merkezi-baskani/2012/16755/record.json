@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.16755",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AVRUPA BİRLİĞİ EĞİTİM VE GENÇLİK PROGRAMLARI MERKEZİ BAŞKANLIĞI SATINALMA YÖNETMELİĞİ",
+  "number": "16755",
+  "issuer": "Avrupa Birliği Eğitim ve Gençlik Programları Merkezi Başkanı",
+  "issuer_slug": "avrupa-birligi-egitim-ve-genclik-programlari-merkezi-baskani",
+  "path": "regulation/avrupa-birligi-egitim-ve-genclik-programlari-merkezi-baskani/2012/16755",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16755&MevzuatTertip=5",
+  "source_sha256": "313d01126006244e5b37e5119281b33db362bd09083b7aef853cd3cb70ed0cab",
+  "source_bytes": 232537,
+  "published": "2012-11-10",
+  "gazette": "28463",
+  "in_force": "2022-08-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/8/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-08-18",
+      "RG-18/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-18",
+      "18/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-05-10",
+      "RG-10/5/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-05-10",
+      "10/5/2021",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14919,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

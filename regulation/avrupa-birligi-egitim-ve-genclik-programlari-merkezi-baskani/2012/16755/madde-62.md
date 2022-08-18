@@ -1,0 +1,2 @@
+Sözleşme yapılmasında Başkanlığın görev ve sorumluluğu
+MADDE 62 – (1) Başkanlık, 60 ve 61 inci maddelerde yazılı süre içinde sözleşme yapılması hususunda üzerine düşen görevi yapmakla yükümlüdür. Başkanlığın bu yükümlülüğünü yerine getirmemesi halinde istekli, sürenin bitimini izleyen günden itibaren en geç beş işgünü içinde Başkanlığa on gün süreli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde geçici teminat geri verilir.

@@ -1,0 +1,4 @@
+Satış sonrası servis, bakım ve onarım hizmetleri ile yedek parça sağlanması
+MADDE 43 – (1) Mal alımı ihalelerinde alım konusu malın özelliği göz önünde bulundurularak, satış sonrası servis, bakım ve onarım hizmetlerine yönelik düzenleme yapılabilir. Bu hizmetlerin, ihaleye katılımda yeterlik kriteri olarak düzenlenmesi halinde ilgili mevzuat esas alınarak aday veya istekli tarafından sunulacak belgeler ve kriterler, idari şartnamede belirtilir.
+(2) İş ortaklığında ortaklardan biri, birkaçı veya tümü ortaklık oranlarına bakılmaksızın birinci fıkrada belirtilen yeterlik kriterini sağlayabilir.
+(3) Alım konusu malın özelliğine göre, satış sonrası malın yedek parçasının sağlanmasına yönelik düzenleme yapılabilir. Ancak bu husus, ihaleye katılımda yeterlik kriteri olarak düzenlenemez. Yüklenici tarafından malın yedek parçasının sağlanması, sözleşmenin uygulanması aşamasında yerine getirilecek bir yükümlülük olarak teknik şartname veya sözleşme tasarısında düzenlenir.

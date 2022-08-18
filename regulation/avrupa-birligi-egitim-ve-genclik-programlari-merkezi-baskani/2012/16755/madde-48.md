@@ -1,0 +1,9 @@
+İhaleye katılamayacak olanlar
+MADDE 48 – (1) Aşağıda sayılanlar doğrudan veya dolaylı veya alt yüklenici olarak, kendileri veya başkaları adına hiçbir şekilde ihalelere katılamazlar:
+a) Kanun ve diğer kanunlardaki hükümler gereğince geçici veya sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.
+b) İlgili mercilerce hileli iflas ettiğine karar verilenler.
+c) Başkanlıkta çalışan personel, bunların eşleri, üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımları ile evlatlıkları ve evlat edinenleri, ortakları ile şirketleri.
+(2) Birinci fıkranın (c) bendinde sayılanlara bu kişilerin yönetim kurullarında görevli bulunmadıkları veya sermayesinin % 10’undan fazlasına sahip olmadıkları anonim şirketler dahil değildir.
+(3) İhale konusu işin danışmanlık hizmetlerini yapan yükleniciler bu işin ihalesine katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin danışmanlık hizmeti ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
+(4) İhaleyi yapan Başkanlık bünyesinde bulunan veya Başkanlık ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi kuruluşlar ile bu kuruluşların ortak oldukları şirketler Başkanlığın ihalelerine katılamazlar.
+(5) Bu yasaklara rağmen ihaleye katılan istekliler ihale dışı bırakılarak geçici teminatları gelir kaydedilir. Ayrıca, bu durumun tekliflerin değerlendirilmesi aşamasında tespit edilememesi nedeniyle bunlardan biri üzerine ihale yapılmışsa, teminatı gelir kaydedilerek ihale iptal edilir.

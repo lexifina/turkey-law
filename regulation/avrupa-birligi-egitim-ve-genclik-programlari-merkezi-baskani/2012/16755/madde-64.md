@@ -1,0 +1,12 @@
+ONBEŞİNCİ BÖLÜM
+Muayene ve Kabul İşlemleri
+Muayene ve kabul komisyonlarının kuruluşu ve çalışma esasları
+MADDE 64 – (1) Mal ve hizmet alımları ile yapım işlerinde, satın alınan mal ve hizmetin teslim alınması veya yapım işinin kabulü için, muayene kabul komisyonu biri başkan olmak üzere İhale Yetkilisi tarafından görevlendirilen en az üç kişiden oluşur. İstenmesi halinde bu komisyon için yeteri kadar yedek üye bulundurulabilir. Yönetim birimlerinin talep etmesi halinde, belirli bir zaman dilimine yönelik olarak bir kabul komisyonu oluşturulabilir.
+(2) Avans ile yapılan alımlarda, kabul için komisyon kurulmasına ihtiyaç bulunmamaktadır. Satınalma talebini yapan birim personelinin fatura üzerine fatura muhteviyatının alındığına ve kabul için uygun olduğuna dair bir ifade yazması ve imzalaması yeterlidir.
+(3) Muayene ve kabul komisyonları eksiksiz olarak görev yapar ve kararlarını çoğunlukla alır. Kararlarda çekimser kalınamaz. Çoğunluk kararına karşı olanlar, karşı olma nedenlerini kararın altına yazarak imzalamak zorundadır.
+(4) Kabul işlemleri Başkanlık tarafından düzenlenen standart formlarla yapılır.
+(5) Kabul işlemini; mal, hizmet veya yapım işini talep eden birim yerine getirir. Ancak Başkanlığın uygun görmesi halinde kabul komisyonları farklı birimlerdeki çalışanlardan da oluşturulabilir.
+(6) Başkanlık dışında yapılan toplantıların kabul işlemleri ise birinci fıkra hükümleri göz önüne alınarak toplantıya katılan kişilerden oluşur. Toplantı için görevlendirilen personel sayısının üçten az olması halinde, Başkanlık tarafından görevlendirilen tüm personelin müşterek imzası ile kabul gerçekleştirilir. Başkanlık tarafından bir personelin görevlendirilmesi halinde ilgili personelin kabulü yeterlidir.
+(7) İhaleyi gerçekleştiren ihale komisyonu üyeleri söz konusu ihaleye ilişkin olarak yapılan sözleşme sonucunda teslim edilecek mal ve hizmet alımları ile yapım işlerinin muayene ve kabul komisyonunda görev alabilir.
+(8) Doğrudan temin, süreklilik arz eden ve kısmi kabul öngörülen işlerde kabul işlemi muayene ve kabul komisyonu tarafından yapılır. İhale usulü öngörülen alımlardaki kabul işlemleri ile kısmi kabul öngörülmüş olan ya da süreklilik arz eden işlerin kesin kabul tutanağı İhale Yetkilisinin onayına sunulur.
+(9) Mal, hizmet ve yapım işine ait ilgili şartnamelerine göre ceza uygulanıp uygulanmadığı ve uygulanmışsa ne kadar olduğu hususunu muayene ve kabul komisyonu ayrı bir tutanakla belirler. Buna göre istihkaklarda gereken cezalar uygulandıktan sonra ödeme yapılır.

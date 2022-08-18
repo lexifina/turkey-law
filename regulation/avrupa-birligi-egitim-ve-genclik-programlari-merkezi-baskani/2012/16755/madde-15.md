@@ -1,0 +1,12 @@
+Doğrudan temin ve avansla alım
+MADDE 15 – (1) Aşağıda belirtilen hallerde ihtiyaçların ilân yapılmaksızın ve teminat alınmaksızın doğrudan temini usulüne başvurulabilir:
+a) İhtiyacın sadece gerçek veya tüzel tek kişi tarafından karşılanabileceğinin tespit edilmesi.
+b) Sadece gerçek veya tüzel tek kişinin ihtiyaç ile ilgili özel bir hakka sahip olması.
+c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonun sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı olarak düzenlenecek ve toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
+ç) İdarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
+d) Başkanlığın kırküçbinikiyüzyirmisekiz Türk Lirasını aşmayan her türlü ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.
+e) Özelliğinden ve belli süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan sarf malzemeleri alımları.
+f) Milletlerarası tahkim yoluyla çözülmesi öngörülen uyuşmazlıklarla ilgili davalarda, Başkanlığı temsil ve savunmak üzere Türk veya yabancı uyruklu avukatlardan ya da avukatlık ortaklıklarından yapılacak hizmet alımları.
+g) Türk veya yabancı uyruklu avukatlardan hizmet alımları ile fikri ve sınai mülkiyet haklarının ulusal ve uluslararası kuruluşlar nezdinde tescilini sağlamak için gerçekleştirilen hizmet alımları.
+(2) Bu maddeye göre yapılacak alımlarda, ihale komisyonu kurma ve 31 inci maddede sayılan yeterlik kurallarını arama zorunluluğu bulunmaksızın, ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada fiyat araştırması yapılarak ihtiyaçlar temin edilir. Başkanlık istemesi halinde 31 inci maddedeki yeterlik kriterlerinden birini veya birkaçını isteyebilir.
+(3) (Değişik:RG-18/8/2022-31927) Başkanlık, tutarı yılları merkezi yönetim bütçe kanunu eki (İ) cetvelinde yer alan yapım işleri ile mal ve hizmet alımları için; illerde, kuruluş merkezlerinde, büyükşehir belediye sınırları içindeki ilçeler ve nüfusu 50 bini geçen ilçeler için belirlenen limite kadar olan alımlarını, ihale yetkilisinin görevlendireceği kişi veya kişilerce avansla gerçekleştirilebilir. Alınan avansın bir ay içerisinde kapatılması esastır. Avans kapatılmadan aynı personele yeni bir avans verilmez. Personel eğitimine yönelik hizmet alımlarında ilgili personele eğitim giderleri karşılığı bu fıkrada belirtilen parasal limitle bağlı olunmaksızın avans verilebilir.
