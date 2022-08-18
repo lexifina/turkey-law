@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.23273",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TIBBİ ATIKLARIN KONTROLÜ YÖNETMELİĞİ",
+  "number": "23273",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/23273",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23273&MevzuatTertip=5",
+  "source_sha256": "0e51008f18d55c1bff75b115933e48f25b9880f8742531dacba6bc572c0fcfab",
+  "source_bytes": 109180,
+  "published": "2017-01-25",
+  "gazette": "29959",
+  "in_force": "2022-08-18",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-18/8/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-08-18",
+      "RG-18/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-18",
+      "18/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6155,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.23273-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
