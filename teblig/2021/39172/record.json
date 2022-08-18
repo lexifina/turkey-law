@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-11-15",
+  "commencement_quote": "Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "date_gazette": "31927",
+  "date_quote": "RG-18/8/2022-31927",
+  "first_law": null,
+  "gazette": "31675",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-08-18",
+  "in_force_basis": "Latest source-printed RG amendment date for current text: RG-18/8/2022-31927; own commencement clause: Bu Tebliğ 1/1/2022 tarihinde yürürlüğe girer",
+  "issuer": "Hazine ve Maliye Bakanlığı",
+  "issuer_catalog_evidence": [
+    {
+      "evidence": "issuer-578-200.json",
+      "id": "578",
+      "label": "Hazine ve Maliye Bakanlığı",
+      "listing_url": "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable?MevzuatTur=Teblig&KurumId=578&start=200&length=100"
+    }
+  ],
+  "issuer_slug": "hazine-ve-maliye-bakanligi",
+  "kind": "communique",
+  "label": "oldest version available",
+  "notes": [],
+  "published": "2021-11-30",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39172&MevzuatTertip=5",
+  "source_bytes": 36722,
+  "source_id": "9.5.39172",
+  "source_sha256": "18d987fcd2c2648abf4017ad48181041158b104e0f5dd36c91c90d84748ef705",
+  "title": "FAİZSİZ BANKACILIK İLKE VE STANDARTLARI KAPSAMINDA\r\nMÜŞTERİLERİN VE KAMUOYUNUN BİLGİLENDİRİLMESİNE\r\nİLİŞKİN USUL VE ESASLAR HAKKINDA TEBLİĞ",
+  "word_count": 1595
+}
