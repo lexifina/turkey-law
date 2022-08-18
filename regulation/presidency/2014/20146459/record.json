@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-20146459",
+  "number": "20146459",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MİLLÎ EĞİTİM BAKANLIĞINA BAĞLI EĞİTİM KURUMLARI YÖNETİCİ VE ÖĞRETMENLERİNİN NORM KADROLARINA İLİŞKİN YÖNETMELİK",
+  "published": "2014-06-18",
+  "enacted": "2014-06-16",
+  "gazette_number": "29034",
+  "in_force": "2022-08-18",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 18/8/2022; source row: 17/8/2022 | 5975 | 5.10.14.15.16.21.22 | 18/8/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=20146459&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "c5a7ab4d52cf9655d68028233b93c9fd80ddb5f9f5332c877b4f6a11788357ea",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
