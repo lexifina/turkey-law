@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85550353-105[2022]-28193",
+  "source_id": 24993,
+  "date": "2022-08-19",
+  "title": "Sporcu ücretlerinin beyan edilmesi durumunda gelir vergisinin kulüp tarafından ödenmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24993",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "848c909d3350ef66402c0f8ecd9d2ff83e9d1d2f80a8bc4a2919c88a32b2d6af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
