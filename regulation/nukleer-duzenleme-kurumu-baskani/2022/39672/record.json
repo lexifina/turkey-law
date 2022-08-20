@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39672",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOZİMETRİ HİZMETİ VERECEK KURULUŞLARIN YETKİLENDİRİLMESİNE İLİŞKİN YÖNETMELİK",
+  "number": "39672",
+  "issuer": "Nükleer Düzenleme Kurumu Başkanı",
+  "issuer_slug": "nukleer-duzenleme-kurumu-baskani",
+  "path": "regulation/nukleer-duzenleme-kurumu-baskani/2022/39672",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39672&MevzuatTertip=5",
+  "source_sha256": "e84ecc2ccf7f579490ac4ab7b6a3cbc73ab9750444f4b43d053e2655bf994fb4",
+  "source_bytes": 121832,
+  "published": "2022-08-20",
+  "gazette": "31929",
+  "in_force": "2022-08-20",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (20.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3396,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

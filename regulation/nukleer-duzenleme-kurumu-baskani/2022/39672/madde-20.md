@@ -1,0 +1,5 @@
+Ulusal Merkezi Doz Kayıt Sistemi veri içeriği
+MADDE 20- (1) Dozimetrelerin değerlendirilmesi sonucunda Ulusal Merkezi Doz Kayıt Sistemine doz sonuç raporunda yer alan veriler aktarılır.
+(2) Ulusal Merkezi Doz Kayıt Sistemine aktarılan verilerde değişiklik yapılması gereken durumlarda dozimetri servisi; gerekçeleri, bilgi ve belgeleri ile birlikte yazılı olarak Kuruma başvuruda bulunur. Başvurunun Kurum tarafından incelenmesi neticesinde, dozimetri servisi tarafından beyan edilen hususların uygun bulunması durumunda veriler Kurum tarafından değiştirilir.
+(3) Doz sonuç raporu ile Ulusal Merkezi Doz Kayıt Sisteminin veri içeriğinin aynı olması zorunludur.
+(4) Dozimetrelerin kaybedilmesi, iade edilmemesi veya hasar görmesi gibi sebepler nedeniyle doz değerinin dozimetreden okunmasının mümkün olmadığı durumlarda; dozimetri servisi tarafından, dozimetri hizmeti alan kişiye gönderilen araştırma formunda yer alan hesaplanmış doz değeri Ulusal Merkezi Doz Kayıt Sistemine aktarılır. Hesaplanmış doz değerinin belirlenememesi hâlinde ilgili hizmet periyoduna ait dozimetre sonucu Ulusal Merkezi Doz Kayıt Sistemine kayıp olarak aktarılır.

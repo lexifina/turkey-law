@@ -1,0 +1,22 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akreditasyon: Dozimetri laboratuvarlarının, hizmet vereceği kapsamda ulusal ve uluslararası standartlara göre akreditasyon kuruluşu tarafından değerlendirilmesi, yeterliğinin onaylanması ve düzenli aralıklarla denetlenmesini,
+b) Akreditasyon kuruluşu: Türk Akreditasyon Kurumunu,
+c) Belirsizlik bütçesi: Ölçüm belirsizliğini, bileşenlerini, bunların hesaplanmasını ve kombinasyonlarını içeren beyanı,
+ç) Dozimetre: Maruz kalınan iyonlaştırıcı radyasyon dozunun ölçülmesini sağlayan kişisel doz ölçeri,
+d) Dozimetri: İyonlaştırıcı radyasyon ışınlanmaları sonucu, madde veya dokunun maruz kaldığı radyasyon dozunun ölçülmesi için kullanılan; dozimetrelerden, ölçüm aletlerinden, bunlara ilişkin referans standartlardan ve sistemin kullanımına yönelik prosedürlerden oluşan sistemi,
+e) Dozimetri servisi: Dozimetrelerin hazırlanması, hizmet alan kişilere dağıtılması, toplanması, akredite olunan kapsamda okunması ve değerlendirilmesi ile doz sonuç raporlarının oluşturulması, gerekli kayıtların tutulması ve verilerin Ulusal Merkezi Doz Kayıt Sistemine aktarılması hizmetlerini veren, ülkemiz sınırları içinde uygun donanım altyapısına sahip, Türkiye Cumhuriyeti mevzuatına göre kurulmuş tüzel kişiliği haiz ve dozimetri hizmeti vermek üzere Nükleer Düzenleme Kurumu tarafından yetkilendirilmiş kuruluşları,
+f) Dozimetri servisi sorumlusu (DSS): TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının Yetkinliği için Genel Gereklilikler Standardına ilişkin eğitimler ile hizmet verilecek dozimetre türüne uygun eğitim almış, Nükleer Düzenleme Kurumu tarafından değerlendirilerek uygun görülen kişiyi,
+g) Eşdeğer doz: Radyasyonun türüne ve enerjisine bağlı olarak belirli bir doku veya organda soğurulmuş dozun, radyasyon ağırlık faktörü ile çarpılmış hâlini,
+ğ) Etkin doz: İnsan vücudunda ışınlanan bütün doku ve organlar için hesaplanmış eşdeğer dozun, her doku ve organın doku ağırlık faktörleri ile çarpılması sonucunda elde edilen dozların toplamını,
+h) EURADOS: Avrupa Radyasyon Dozimetri Grubunu,
+ı) Geçerli kılma: Belirlenen gerekliliklerin amaçlanan kullanım için yeterli olduğu durumda yapılan doğrulamayı,
+i) Harici çalışan: Nükleer enerji ve iyonlaştırıcı radyasyona ilişkin tesis ve faaliyetlerde yetkilendirilen kişi tarafından çalıştırılan kişiler dışında, kontrollü ve gözetimli alanlarda faaliyette bulunan, geçici veya sürekli olarak kendi adına iş yürüten veya başka yüklenici tarafından çalıştırılan kişiyi,
+j) Hesaplanmış doz: Dozimetrelerin hatalı kullanılması, kasıtlı ışınlanması, kaybedilmesi ya da hasar görmesi gibi doz değerinin dozimetreden okunmasının mümkün olmadığı durumlarda, dozimetre kullanıcısının ilgili periyot için maruz kaldığı doz olarak kabul edilecek olan ve çalışma koşulları değerlendirilerek dozimetri hizmeti alan kişinin radyasyondan korunma sorumlusu tarafından hesaplanan doz değerini,
+k) Hizmet periyodu: Dozimetrenin kullanıma başlandığı tarih ile kullanımının sonlandığı tarih arasındaki en fazla iki aylık süreyi,
+l) IAEA/WHO SSDL Network: Uluslararası Atom Enerjisi Ajansı/Dünya Sağlık Örgütü İkincil Standart Dozimetri Laboratuvarları Ağını,
+m) İnceleme düzeyi: Üzerinde daha fazla inceleme yapılmasını gerektiren ve aylık olarak; 2 mSv’in üzerindeki etkin dozu, göz merceği için 2 mSv’in veya el, ayak ve cilt için 50 mSv’in üzerindeki eşdeğer dozu,
+n) Kurum: Nükleer Düzenleme Kurumunu,
+o) Ulusal Merkezi Doz Kayıt Sistemi: Dozimetri servisleri tarafından, radyasyonla çalışanlara ve harici çalışanlara tahsis edilmiş dozimetrelerin değerlendirilmesi sonucunda elde edilen doz değerlerinin aktarıldığı veri tabanını,
+ö) Yetki belgesi: Dozimetri hizmeti verecek kuruluşun, 7381 sayılı Kanunun 4 üncü maddesinin dördüncü fıkrasının (b) bendi uyarınca, Kurum tarafından dozimetri servisi olarak yetkilendirildiğini gösteren belgeyi,
+ifade eder.

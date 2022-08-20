@@ -1,0 +1,20 @@
+Kayıtlar ve Bildirimler
+Sorumluluklar
+MADDE 12- (1) Dozimetri servisinin sorumlulukları şunlardır:
+a) Kişisel dozimetri hizmetini en fazla iki aylık periyotlarla vermek.
+b) Dozimetrelerin en hızlı şekilde hazırlanması, hizmet alan kişilere gönderilmesi, dağıtılması, toplanması, okunması ve değerlendirilmesine ilişkin bir sistem kurmak ve işletmek.
+c) Dozimetrenin teknik özellikleri ile doğru kullanımına ilişkin talimatları hazırlamak ve hizmet verdiği kişilerin dozimetreleri bu talimatlara uygun olarak kullanmalarını sağlamak üzere kullanıcıları bilgilendirmek.
+ç) İlgili standartlarda belirtilen performans testlerine yönelik ışınlanmaların, metrolojik izlenebilirlik zincirinde IAEA/WHO SSDL Network ağına üye olan; ikincil standart dozimetri laboratuvarlarında veya ulusal metroloji enstitülerinde gerçekleştirilmesini sağlamak.
+d) En fazla iki ayda bir sistemin doğruluğunu ve izlenebilirliğini (ç) bendi uyarınca ışınlanmış kalite kontrol veya kalibrasyon dozimetreleri ile yapılan ölçümlerle teyit etmek.
+e) Akredite olduğu metoda ilişkin her yıl, Kurum tarafından uygun bulunan ulusal veya uluslararası laboratuvarlar ile karşılaştırma çalışması yapmak ve ilgili standartlar kapsamında değerlendirme yaparak sonuçlarını Kuruma sunmak.
+f) Karşılaştırma çalışmasından başarısız sonuç alınması durumunda, başarısız olunan sonuçlar için sebep analizi yapmak; sebebin ortadan kaldırılarak sistemin iyileştirildiğini teyit etmek amacıyla en geç iki hizmet periyodu içerisinde Kurum tarafından uygun bulunan ulusal veya uluslararası laboratuvarlar ile başarısız sonuç alınan hizmete ilişkin karşılaştırma çalışmasına katılmak ve çalışmanın sonuçlarını, gerçekleştirilen düzeltici faaliyetler ile birlikte Kuruma bildirmek; bu süre içerisinde başarısız sonuç alınan sistemle ilgili hizmetini durdurmak, verdiği hizmeti Kuruma bildirilen program çerçevesinde sürdürmek; sebebin verilen hizmetler üzerindeki etkisini değerlendirerek, gerekli olması durumunda düzeltilmiş doz sonuç raporlarını etkilenen kullanıcılara göndermek ve Kuruma bildirmek.
+g) Dozimetrelerin teslim alınmasını takiben dozimetreleri okumak ve çalışanlara ait doz bilgilerini değerlendirerek en geç on gün içerisinde Ulusal Merkezi Doz Kayıt Sistemine aktarmak.
+ğ) Kişilerin doz sonuçlarının elektronik ortamda sorgulanabilmesine ve temin edilebilmesine imkân tanıyacak teknik ve idari altyapıyı oluşturmak, dozimetri hizmeti verdiği kişilerin talep etmesi durumunda ıslak imzalı veya elektronik onaylı doz sonuç raporlarını sağlamak.
+h) İnceleme düzeyi işlemlerine ilişkin sorumluluklarını yerine getirmek.
+ı) Dozimetri hizmeti alan kişiler tarafından inceleme düzeyi üzerinde doza maruz kalındığı şüphesinin bildirildiği durumlarda dozimetreleri ivedilikle değerlendirmek.
+i) Dozimetri hizmeti alan kişilerin dozimetri hizmetini sonlandırma talebi üzerine. kişilere ait değerlendirilmemiş tüm dozimetreleri değerlendirerek doz sonuçlarını Ulusal Merkezi Doz Kayıt Sistemine aktarmak ve hizmeti sonlandırmak.
+j) Hizmet verilen dozimetre sayısına göre Kurum tarafından belirlenen veritabanı kullanımı yıllık hizmet bedelini aynı yılın Kasım ayı sonuna kadar ödemek.
+k) Bu Yönetmelikte tutulması gerektiği belirtilen kayıtları ve saklanması gerektiği belirtilen belgeleri faaliyette bulunduğu sürece muhafaza etmek.
+l) Akreditasyon belgesinin akreditasyon kuruluşu tarafından askıya alınması durumunda; askıya alınmış sistemle ilgili faaliyetini durdurarak Kuruma bildirimde bulunmak, askıya alınma sebebi ortadan kalkarak veya düzeltici faaliyeti akreditasyon kuruluşu tarafından uygun bulunarak akreditasyonu devam ettirilene kadar faaliyetini Kuruma bildirilen program çerçevesinde yürütmek.
+m) Akreditasyon belgesinin geri çekilmesi durumunda Kuruma bildirimde bulunmak ve faaliyetini sonlandırmak.
+n) Bu Yönetmelik kapsamında yürütülen kişisel veri işleme faaliyetlerinde 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayanılarak çıkarılan mevzuatta yer alan usul ve esaslara uygun olarak gerekli teknik ve idari tedbirleri almak ve uygulamak.
