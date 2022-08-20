@@ -1,0 +1,555 @@
+20 Ağustos 2022 CUMARTESİ
+Resmî Gazete
+Sayı : 31929
+YÖNETMELİK
+Nükleer Düzenleme Kurumundan:
+DOZİMETRİ HİZMETİ VERECEK KURULUŞLARIN
+YETKİLENDİRİLMESİNE
+İLİŞKİN YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; nükleer enerji ve
+iyonlaştırıcı radyasyona ilişkin faaliyetlerde çalışanlara kişisel dozların
+izlenmesi hizmetini verecek kuruluşların yetkilendirme koşullarını,
+yetkilendirme sürecini, sorumluluklarını ve Ulusal Merkezi Doz Kayıt
+Sisteminin işletilmesine ilişkin usul ve esasları belirlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; dozimetrelerin hazırlanması,
+dağıtılması, toplanması, akredite olunan kapsamda okunması ve
+değerlendirilmesi ile doz sonuç raporlarının oluşturulması, gerekli
+kayıtların tutulması ve verilerin Ulusal Merkezi Doz Kayıt Sistemine
+aktarılması hizmetlerini verecek kuruluşları kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 5/3/2022 tarihli ve 7381 sayılı
+Nükleer Düzenleme Kanununun 4 üncü maddesinin sekizinci fıkrası ile 95
+sayılı Nükleer Düzenleme Kurumunun Teşkilat ve Görevleri Hakkında
+Cumhurbaşkanlığı Kararnamesinin 4 üncü maddesinin birinci fıkrasının (a)
+bendi ve 5 inci maddesinin birinci fıkrasının (b) bendine dayanılarak
+hazırlanmıştır.
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akreditasyon: Dozimetri laboratuvarlarının,
+hizmet vereceği kapsamda ulusal ve uluslararası standartlara göre
+akreditasyon kuruluşu tarafından değerlendirilmesi, yeterliğinin
+onaylanması ve düzenli aralıklarla denetlenmesini,
+b) Akreditasyon kuruluşu: Türk Akreditasyon
+Kurumunu,
+c) Belirsizlik bütçesi: Ölçüm belirsizliğini,
+bileşenlerini, bunların hesaplanmasını ve kombinasyonlarını içeren beyanı,
+ç) Dozimetre: Maruz kalınan iyonlaştırıcı radyasyon
+dozunun ölçülmesini sağlayan kişisel doz ölçeri,
+d) Dozimetri: İyonlaştırıcı radyasyon ışınlanmaları
+sonucu, madde veya dokunun maruz kaldığı radyasyon dozunun ölçülmesi için
+kullanılan; dozimetrelerden, ölçüm aletlerinden, bunlara ilişkin referans
+standartlardan ve sistemin kullanımına yönelik prosedürlerden oluşan
+sistemi,
+e) Dozimetri servisi: Dozimetrelerin hazırlanması,
+hizmet alan kişilere dağıtılması, toplanması, akredite olunan kapsamda
+okunması ve değerlendirilmesi ile doz sonuç raporlarının oluşturulması,
+gerekli kayıtların tutulması ve verilerin Ulusal Merkezi Doz Kayıt
+Sistemine aktarılması hizmetlerini veren, ülkemiz sınırları içinde uygun
+donanım altyapısına sahip, Türkiye Cumhuriyeti mevzuatına göre kurulmuş
+tüzel kişiliği haiz ve dozimetri hizmeti vermek üzere Nükleer Düzenleme
+Kurumu tarafından yetkilendirilmiş kuruluşları,
+f) Dozimetri servisi sorumlusu (DSS): TS EN ISO/IEC
+17025 Deney ve Kalibrasyon Laboratuvarlarının Yetkinliği için Genel
+Gereklilikler Standardına ilişkin eğitimler ile hizmet verilecek dozimetre
+türüne uygun eğitim almış, Nükleer Düzenleme Kurumu tarafından
+değerlendirilerek uygun görülen kişiyi,
+g) Eşdeğer doz: Radyasyonun türüne ve enerjisine
+bağlı olarak belirli bir doku veya organda soğurulmuş dozun, radyasyon
+ağırlık faktörü ile çarpılmış hâlini,
+ğ) Etkin doz: İnsan vücudunda ışınlanan bütün doku
+ve organlar için hesaplanmış eşdeğer dozun, her doku ve organın doku
+ağırlık faktörleri ile çarpılması sonucunda elde edilen dozların toplamını,
+h) EURADOS: Avrupa Radyasyon Dozimetri Grubunu,
+ı) Geçerli kılma: Belirlenen gerekliliklerin
+amaçlanan kullanım için yeterli olduğu durumda yapılan doğrulamayı,
+i) Harici çalışan: Nükleer enerji ve iyonlaştırıcı
+radyasyona ilişkin tesis ve faaliyetlerde yetkilendirilen kişi tarafından
+çalıştırılan kişiler dışında, kontrollü ve gözetimli alanlarda faaliyette
+bulunan, geçici veya sürekli olarak kendi adına iş yürüten veya başka
+yüklenici tarafından çalıştırılan kişiyi,
+j) Hesaplanmış doz: Dozimetrelerin hatalı
+kullanılması, kasıtlı ışınlanması, kaybedilmesi ya da hasar görmesi gibi
+doz değerinin dozimetreden okunmasının mümkün olmadığı durumlarda,
+dozimetre kullanıcısının ilgili periyot için maruz kaldığı doz olarak kabul
+edilecek olan ve çalışma koşulları değerlendirilerek dozimetri hizmeti alan
+kişinin radyasyondan korunma sorumlusu tarafından hesaplanan doz değerini,
+k) Hizmet periyodu: Dozimetrenin kullanıma
+başlandığı tarih ile kullanımının sonlandığı tarih arasındaki en fazla iki
+aylık süreyi,
+l) IAEA/WHO SSDL Network: Uluslararası Atom
+Enerjisi Ajansı/Dünya Sağlık Örgütü İkincil Standart Dozimetri
+Laboratuvarları Ağını,
+m) İnceleme düzeyi: Üzerinde daha fazla inceleme
+yapılmasını gerektiren ve aylık olarak; 2 mSv’in üzerindeki etkin dozu, göz
+merceği için 2 mSv’in veya el, ayak ve cilt için 50 mSv’in üzerindeki
+eşdeğer dozu,
+n) Kurum: Nükleer Düzenleme Kurumunu,
+o) Ulusal Merkezi Doz Kayıt Sistemi: Dozimetri
+servisleri tarafından, radyasyonla çalışanlara ve harici çalışanlara tahsis
+edilmiş dozimetrelerin değerlendirilmesi sonucunda elde edilen doz
+değerlerinin aktarıldığı veri tabanını,
+ö) Yetki belgesi: Dozimetri hizmeti verecek
+kuruluşun, 7381 sayılı Kanunun 4 üncü maddesinin dördüncü fıkrasının (b)
+bendi uyarınca, Kurum tarafından dozimetri servisi olarak
+yetkilendirildiğini gösteren belgeyi,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel İlkeler, Yetkilendirme Koşulları ve Başvuru
+Genel
+ilkeler
+MADDE 5- (1) Kurumdan yalnızca Türkiye Cumhuriyeti
+mevzuatına göre kurulmuş tüzel kişiler dozimetri servisi olarak yetki
+belgesi alabilir.
+(2) Kurum tarafından verilen yetki devredilemez.
+(3) Bu Yönetmelik kapsamındaki faaliyetlerin
+yürütülmesinde asıl sorumluluk dozimetri servisine aittir. Verilen yetkinin
+koşullarına ve mevzuata uymak veya düzenleyici kontrol altında olmak veya
+yükümlülüklerini yerine getirmek üzere görevlendirme yapmak veya hizmet
+almak dozimetri servisinin sorumluluğunu azaltmaz veya ortadan kaldırmaz.
+(4) Yetkilendirme için başvuru yapan kişiler, Kurum
+tarafından yetkilendirme için talep edilen tüm bilgi ve belgeleri istenilen
+biçim ve içerikte sağlamakla ve Kurum tarafından belirlenen işlem ve hizmet
+bedellerini ödemekle yükümlüdür.
+(5) Dozimetri servisi, yetki koşullarının
+devamlılığını sağlamakla ve Kurum tarafından tespit edilerek kendisine
+bildirilen uygunsuzlukları verilen süre içerisinde gidermekle yükümlüdür.
+(6) Kurum tarafından düzenlenen yetki belgesi
+yalnızca yerinde incelemenin yapıldığı adres için geçerlidir. Aynı tüzel
+kişiliğin birden fazla yerde dozimetri hizmeti vermesi durumunda bu
+Yönetmelik hükümlerine göre ayrıca yetki belgesi alınması gerekir.
+Yetkilendirme
+koşulları
+MADDE 6- (1) Dozimetri hizmeti verecek kuruluşun;
+a) Hizmet vereceği dozimetre türüne ve kişisel doz
+değerlendirme metoduna uygun ve dozimetri hizmetini en fazla iki aylık
+periyotlarla yürütebilecek, yeterli sayıda ve yetkin personel ile cihaz ve
+teknik donanıma sahip olması,
+b) Hizmet vereceği dozimetre türüne uygun olarak
+Kurum tarafından belirlenen standartların güncel versiyonlarına göre
+akredite olması,
+c) En az dört yıllık lisans eğitimi veren
+üniversitelerin ya da bunlara denkliği yetkili makamlarca kabul edilen yurt
+içindeki veya yurt dışındaki yükseköğretim kurumlarının mühendislik, fizik
+veya kimya bölümlerinden mezun veya bu bölümlerden birinde yüksek lisans
+veya doktora yapmış olan bir DSS istihdam etmesi,
+ç) Hizmet vereceği sistemin herhangi bir sebeple
+çalışmaması veya çalıştırılmaması gerektiği durumlarda, dozimetri
+hizmetinin aksamasını engellemek ve en fazla iki hizmet periyodu süresince
+hizmete devam etmek üzere yapılacak iş ve işlemlere ilişkin uygulanabilir
+bir programa sahip olması,
+gerekir.
+(2) Dozimetri hizmeti verecek kuruluş, faaliyetleri
+sırasında kullandığı radyasyon kaynakları için ayrıca ilgili mevzuat
+hükümlerine tabidir.
+(3) Dozimetri hizmeti verecek kuruluş, Kurumdan
+aldığı yetki kapsamında hizmet verir.
+(4) Dozimetri hizmeti verecek kuruluş, birinci
+fıkranın (ç) bendi uyarınca Kuruma bildirilen program çerçevesinde
+yürütülen işlemlerden, ölçüm sonuçlarından ve doz sonuç raporlarının
+oluşturulmasından sorumludur.
+Başvuru
+MADDE 7- (1) Dozimetri hizmeti verecek kuruluş, aşağıdaki
+bilgi ve belgeler ile Kuruma başvuruda bulunur:
+a) Akreditasyon sertifikası ve akreditasyon
+kapsamı.
+b) DSS olarak çalışacak personelin özgeçmişine ve
+eğitimine ilişkin bilgi ve belgeler.
+c) Yönetim ve organizasyon şeması.
+ç) Personelin görev, yetki ve sorumluluklarına
+ilişkin bilgi ve belgeler.
+d) Dozimetri hizmeti verecek kuruluşu temsile
+yetkili kişilerin imza sirküleri.
+e) Dozimetri hizmetini en fazla iki aylık
+periyotlarla yürütebilecek kapasiteye sahip olduğunu gösterir, dağıtım ve
+değerlendirme süreçlerini de içeren iş akış planı.
+f) 6 ncı maddenin birinci fıkrasının (ç) bendi
+uyarınca hazırlanacak programa ilişkin bilgi ve belgeler.
+g) Kişisel dozimetrelerin okunması ve dozların
+değerlendirilmesi işlemlerinde kullanılan metoda ait geçerli kılma
+kayıtları ve belirsizlik bütçesi.
+ğ) Kişisel dozimetri hizmetine ilişkin cihazların
+teknik özellikleri ile ekipman ve altyapının listesi, kalite kontrol
+testleri için kullanılan referans kaynakların listesi, referans radyasyon
+kaynakları için izlenebilirliği gösteren sertifikalar.
+(2) Kurum, birinci fıkrada belirtilen hususlara
+ilave bilgi ve belgeler isteyebilir.
+ÜÇÜNCÜ BÖLÜM
+Yetkilendirme Süreci
+Başvurunun
+değerlendirilmesi
+MADDE 8- (1) Kuruma yapılan başvuru sırasında sunulan bilgi
+ve belgelerin uygunluğu Kurum tarafından incelenir ve değerlendirilir.
+(2) İnceleme ve değerlendirme sonucunda Kuruma
+sunulan bilgi ve belgelerde eksiklik ve yetersizlik olması durumunda,
+başvuru sahibi bilgilendirilerek eksiklik ve yetersizliklerin tamamlanması
+veya giderilmesi için bildirim tarihinden itibaren en fazla üç ay süre
+verilir. Söz konusu eksiklik ve yetersizliklerin tamamlanması veya
+giderilmesi için verilen süre içerisinde, başvuru sahibi tarafından yazılı
+olarak bildirilen gerekçenin Kurum tarafından uygun görülmesi hâlinde en
+fazla üç aya kadar ek süre verilebilir.
+(3) Verilen süre içerisinde eksiklik ve
+yetersizliklerin tamamlanması veya giderilmesine ilişkin bilgi ve belgelerin
+Kuruma ulaşmasından sonra başvuru yeniden değerlendirilir.
+(4) Eksikliklerin ve yetersizliklerin verilen süre
+sonunda tamamlanmadığı veya giderilmediği durumda yetkilendirme başvurusu
+iptal edilir ve durum dozimetri hizmeti verecek kuruluşa bildirilir.
+Yetkilendirme için ödenen işlem ve hizmet bedeli iade edilmez.
+Yerinde
+inceleme
+MADDE 9- (1) Başvuru belgelerinin uygun bulunması
+durumunda, dozimetri hizmeti verecek kuruluşta Kurum tarafından yerinde
+inceleme yapılır veya yaptırılır.
+(2) Yerinde inceleme esnasında dozimetrelerin
+hazırlanması, gönderilmesi, dağıtılması, toplanması, okunması ve
+değerlendirilmesine ilişkin kurulan sistem ile dozimetri hizmeti verecek
+kuruluşun yetkilendirme koşullarını sağlayıp sağlamadığı ve
+sorumluluklarını yerine getirebilecek kapasitede olup olmadığı tetkik
+edilir.
+(3) Yerinde inceleme sırasında dozimetri hizmeti
+verecek kuruluşta görevli personel; doz değerlendirme, raporlama, kayıt
+altına alma ve Ulusal Merkezi Doz Kayıt Sistemine veri aktarma işlemlerini
+ve kalite kontrol testini uygulamalı olarak yapar.
+(4) Yerinde incelemede eksiklik ve yetersizlik tespit
+edilmesi durumunda, başvuru sahibi bilgilendirilerek eksikliklerin ve
+yetersizliklerin tamamlanması veya giderilmesi için bildirim tarihinden
+itibaren en fazla üç ay süre verilir. Söz konusu eksikliklerin ve
+yetersizliklerin tamamlanması veya giderilmesi için verilen süre
+içerisinde, başvuru sahibi tarafından yazılı olarak bildirilen gerekçenin
+Kurum tarafından uygun görülmesi hâlinde en fazla üç aya kadar ek süre
+verilebilir. Eksikliklerin ve yetersizliklerin verilen süre sonunda
+tamamlanmadığı veya giderilmediği durumlarda yetkilendirme başvurusu iptal
+edilir ve durum dozimetri hizmeti verecek kuruluşa bildirilir.
+Yetkilendirme için ödenen işlem ve hizmet bedeli iade edilmez.
+(5) Eksikliklerin ve yetersizliklerin
+tamamlandığının veya giderildiğinin tespitine yönelik tekrar yerinde inceleme
+yapılabilir. Bu durumda başvuru sahibi tekrar yerinde inceleme için Kurum
+tarafından belirlenen işlem ve hizmet bedelini verilen süre içerisinde
+ödeyerek Kuruma başvuruda bulunur. Süresi içerisinde işlem ve hizmet bedelinin
+ödenmemesi durumunda başvuru iptal edilir ve başvuru sırasında ödenmiş olan
+işlem ve hizmet bedeli iade edilmez.
+Yetki
+belgesinin verilmesi
+MADDE 10- (1) Yetkilendirme başvurusunun incelenmesi ve
+değerlendirilmesi sonucunda herhangi bir eksiklik ve yetersizlik tespit
+edilmemesi ve yerinde inceleme sonucunda hazırlanan rapor esas alınarak
+yapılan değerlendirme sonucunun uygun olması durumunda dozimetri hizmeti
+verecek kuruluşa yetki belgesi verilir ve Kurumun internet sayfasında
+duyurulur.
+(2) Yetki belgesi, düzenlenme tarihinden itibaren
+beş yıl geçerlidir.
+(3) Yetki belgesi, dozimetri hizmeti verecek
+kuruluşun akreditasyon kapsamında yer alan dozimetri hizmetleri için
+geçerlidir.
+Yetki
+belgesinin yenilenmesi
+MADDE 11- (1) Yetki belgesinin geçerlilik süresinin
+bitiminden en az iki ay önce yetki belgesi sahibi;
+a) Yetkilendirme koşullarında değişiklik olmadığını
+bildirir dilekçe,
+b) Dozimetri servisinin akreditasyon durumunu
+gösteren belge,
+ile Kuruma başvuruda bulunur. Kurum tarafından
+yapılacak değerlendirme ve gerekli görüldüğü takdirde yapılacak denetimin
+sonucunun uygun bulunması durumunda yetki belgesi yenilenir.
+(2) Yetki belgesinin geçerlilik süresinin
+dolmasından sonra yapılan başvurular için 7 nci madde hükümleri uygulanır.
+(3) Yetki belgesinin süresi içinde yenilenmemesi
+durumunda yetki belgesi kendiliğinden sona erer. Yetki belgesinin
+geçerlilik süresi dolan ve yetki belgesini yenilemeyen dozimetri
+servisleri, Kurumun internet sayfasında duyurulur.
+DÖRDÜNCÜ BÖLÜM
+Sorumluluklar, Karşılaştırma Çalışmaları, İnceleme
+Düzeyi İşlemleri,
+Kayıtlar ve Bildirimler
+Sorumluluklar
+MADDE 12- (1) Dozimetri servisinin sorumlulukları şunlardır:
+a) Kişisel dozimetri hizmetini en fazla iki aylık
+periyotlarla vermek.
+b) Dozimetrelerin en hızlı şekilde hazırlanması,
+hizmet alan kişilere gönderilmesi, dağıtılması, toplanması, okunması ve
+değerlendirilmesine ilişkin bir sistem kurmak ve işletmek.
+c) Dozimetrenin teknik özellikleri ile doğru
+kullanımına ilişkin talimatları hazırlamak ve hizmet verdiği kişilerin
+dozimetreleri bu talimatlara uygun olarak kullanmalarını sağlamak üzere
+kullanıcıları bilgilendirmek.
+ç) İlgili standartlarda belirtilen performans
+testlerine yönelik ışınlanmaların, metrolojik izlenebilirlik zincirinde
+IAEA/WHO SSDL Network ağına üye olan; ikincil standart dozimetri
+laboratuvarlarında veya ulusal metroloji enstitülerinde gerçekleştirilmesini
+sağlamak.
+d) En fazla iki ayda bir sistemin doğruluğunu ve
+izlenebilirliğini (ç) bendi uyarınca ışınlanmış kalite kontrol veya
+kalibrasyon dozimetreleri ile yapılan ölçümlerle teyit etmek.
+e) Akredite olduğu metoda ilişkin her yıl, Kurum
+tarafından uygun bulunan ulusal veya uluslararası laboratuvarlar ile
+karşılaştırma çalışması yapmak ve ilgili standartlar kapsamında
+değerlendirme yaparak sonuçlarını Kuruma sunmak.
+f) Karşılaştırma çalışmasından başarısız sonuç
+alınması durumunda, başarısız olunan sonuçlar için sebep analizi yapmak;
+sebebin ortadan kaldırılarak sistemin iyileştirildiğini teyit etmek
+amacıyla en geç iki hizmet periyodu içerisinde Kurum tarafından uygun
+bulunan ulusal veya uluslararası laboratuvarlar ile başarısız sonuç alınan
+hizmete ilişkin karşılaştırma çalışmasına katılmak ve çalışmanın
+sonuçlarını, gerçekleştirilen düzeltici faaliyetler ile birlikte Kuruma
+bildirmek; bu süre içerisinde başarısız sonuç alınan sistemle ilgili
+hizmetini durdurmak, verdiği hizmeti Kuruma bildirilen program çerçevesinde
+sürdürmek; sebebin verilen hizmetler üzerindeki etkisini değerlendirerek,
+gerekli olması durumunda düzeltilmiş doz sonuç raporlarını etkilenen
+kullanıcılara göndermek ve Kuruma bildirmek.
+g) Dozimetrelerin teslim alınmasını takiben dozimetreleri
+okumak ve çalışanlara ait doz bilgilerini değerlendirerek en geç on gün
+içerisinde Ulusal Merkezi Doz Kayıt Sistemine aktarmak.
+ğ) Kişilerin doz sonuçlarının elektronik ortamda
+sorgulanabilmesine ve temin edilebilmesine imkân tanıyacak teknik ve idari
+altyapıyı oluşturmak, dozimetri hizmeti verdiği kişilerin talep etmesi
+durumunda ıslak imzalı veya elektronik onaylı doz sonuç raporlarını
+sağlamak.
+h) İnceleme düzeyi işlemlerine ilişkin
+sorumluluklarını yerine getirmek.
+ı) Dozimetri hizmeti alan kişiler tarafından
+inceleme düzeyi üzerinde doza maruz kalındığı şüphesinin bildirildiği
+durumlarda dozimetreleri ivedilikle değerlendirmek.
+i) Dozimetri hizmeti alan kişilerin dozimetri
+hizmetini sonlandırma talebi üzerine. kişilere ait değerlendirilmemiş tüm
+dozimetreleri değerlendirerek doz sonuçlarını Ulusal Merkezi Doz Kayıt
+Sistemine aktarmak ve hizmeti sonlandırmak.
+j) Hizmet verilen dozimetre sayısına göre Kurum
+tarafından belirlenen veritabanı kullanımı yıllık hizmet bedelini aynı
+yılın Kasım ayı sonuna kadar ödemek.
+k) Bu Yönetmelikte tutulması gerektiği belirtilen
+kayıtları ve saklanması gerektiği belirtilen belgeleri faaliyette bulunduğu
+sürece muhafaza etmek.
+l) Akreditasyon belgesinin akreditasyon kuruluşu
+tarafından askıya alınması durumunda; askıya alınmış sistemle ilgili
+faaliyetini durdurarak Kuruma bildirimde bulunmak, askıya alınma sebebi
+ortadan kalkarak veya düzeltici faaliyeti akreditasyon kuruluşu tarafından
+uygun bulunarak akreditasyonu devam ettirilene kadar faaliyetini Kuruma
+bildirilen program çerçevesinde yürütmek.
+m) Akreditasyon belgesinin geri çekilmesi durumunda
+Kuruma bildirimde bulunmak ve faaliyetini sonlandırmak.
+n) Bu Yönetmelik kapsamında yürütülen kişisel veri
+işleme faaliyetlerinde 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin
+Korunması Kanunu ile bu Kanuna dayanılarak çıkarılan mevzuatta yer alan
+usul ve esaslara uygun olarak gerekli teknik ve idari tedbirleri almak ve
+uygulamak.
+Karşılaştırma
+çalışmaları
+MADDE 13- (1) Dozimetri servisleri akredite olduğu metoda
+ilişkin, IAEA/WHO SSDL Network ağına üye olan; ikincil standart dozimetri
+laboratuvarları veya ulusal metroloji enstitüleri ile her yıl karşılaştırma
+çalışması yapar ve ilgili standartlar kapsamında değerlendirme yaparak
+sonuçlarını Kuruma sunar.
+(2) EURADOS tarafından karşılaştırma çalışması
+yapılması durumunda dozimetri servisleri bu çalışmaya katılır ve ilgili
+standartlar kapsamında değerlendirme yaparak sonuçlarını Kuruma sunar.
+(3) Kurum tarafından ayrıca bir karşılaştırma
+çalışması tertip edilmesi durumunda, dozimetri servisleri bu çalışmaya
+katılmakla yükümlüdür.
+İnceleme
+düzeyi işlemleri
+MADDE 14- (1) Dozimetri servisi, kişisel dozimetrenin
+değerlendirilmesi sonucunda doz değerinin inceleme düzeyinin üzerinde
+olduğunu tespit etmesi durumunda, konuyu dozimetri hizmeti alan kişiye ve
+Kuruma bildirir.
+(2) Dozimetri servisi; dozun alınma nedeninin araştırılması
+için en geç on iş günü içerisinde içeriği Kurum tarafından belirlenen
+araştırma formunu dozimetri hizmeti alan kişiye gönderir. Araştırma
+formunun, hesaplanmış dozu da içerecek şekilde eksiksiz doldurulmuş ve
+imzalanmış olarak, formda belirlenen süre içerisinde, dozimetri servisine
+ve Kuruma gönderilmesi gerektiği belirtilir.
+(3) Dozimetrelerin hatalı kullanılması veya kasıtlı
+ışınlanması durumunda hesaplanmış doz değeri belirlenmeden gönderilen
+formlar geçersiz kabul edilir. Bu durumda dozimetri servisi tarafından
+dozimetri hizmeti alan kişiye araştırma formu tekrar gönderilir.
+(4) Araştırma formunun dozimetri servisine
+gönderilmesini takiben dozimetri servisi tarafından gerekli inceleme
+yapılır. Dozimetri servisi, dozimetrenin hatalı kullanıldığının veya
+kasıtlı ışınlandığının tespit edildiği durumlarda, hesaplanmış doz değerini
+Ulusal Merkezi Doz Kayıt Sistemine aktarır.
+(5) Kurum tarafından araştırma formunda yer alan
+bilgilerin değerlendirilmesi veya yapılan denetim sonucunda dozimetri
+hizmeti alan kişiden araştırma formunun yeniden doldurulması istenebilir.
+Yeni hesaplanmış doz değerinin belirlenmesi durumunda bu değer Ulusal
+Merkezi Doz Kayıt Sistemine aktarılır.
+Kayıtlar
+MADDE 15- (1) Dozimetri servisi tarafından tutulması gereken
+kayıtlar ve saklanması gereken belgeler aşağıda verilmiştir:
+a) Kalite yönetim sistemine ilişkin kayıtlar.
+b) Okuma, değerlendirme, kalibrasyon ve kalite
+kontrol kayıtları.
+c) Katılım sağlanan ulusal ve uluslararası
+karşılaştırma çalışmaları kayıtları.
+ç) Ulusal Merkezi Doz Kayıt Sistemine veri giriş
+kayıtları.
+d) Akreditasyon kuruluşu tarafından yapılan
+denetimlere ve akreditasyona ilişkin belgeler.
+e) Kullanılan radyasyon ölçüm cihazlarına ilişkin
+kalibrasyon raporları.
+f) Doz sonuç raporlarının basılı ve elektronik
+kopyaları.
+g) Araştırma formlarının basılı ve elektronik
+kopyaları.
+ğ) Dozimetre kullanım talimatları.
+h) Dozimetre kullanımına ilişkin kişilerle yapılan
+yazışmalar.
+Bildirimler
+MADDE 16- (1) Dozimetri servisi aşağıdaki hususlara ilişkin
+olarak en geç on gün içerisinde Kuruma bildirimde bulunur:
+a) Akreditasyon kuruluşu tarafından akreditasyon
+belgesinin askıya alınması, kapsamının değiştirilmesi veya geri çekilmesi.
+b) Yetki belgesi sahibinin ticaret unvanının veya
+iletişim bilgilerinin değişmesi.
+c) Cihaz ve ekipmanın değişmesi.
+ç) DSS olarak görevlendirilen personelin değişmesi.
+d) Katılım sağlanan ulusal ve uluslararası
+karşılaştırma çalışmaları sonuçları.
+e) Dozimetri servisinin herhangi bir sebeple
+hizmetini durdurması veya kendi isteğiyle hizmetine son vermesi.
+f) 6 ncı maddenin birinci fıkrasının (ç) bendinde
+tanımlanan programın değişmesi.
+(2) Birinci fıkranın (a), (b), (c) ve (ç) bentleri
+kapsamına giren değişikliklerin gerçekleşmesi durumunda, Kurum tarafından
+yapılacak inceleme ve gerekli görülürse yapılacak denetim sonucuna göre
+yetkilendirmeye ilişkin bilgilerde değişiklik yapılmasına veya yetkinin
+geçersiz hâle gelmesi nedeniyle yeniden yetki alınması gerektiğine karar
+verilir.
+BEŞİNCİ BÖLÜM
+Denetim, Yaptırım ve Yetkinin Sona Ermesi
+Denetim
+ve yaptırım
+MADDE 17- (1) Dozimetri servislerinin bu Yönetmelik
+kapsamındaki faaliyetleri Kurumun denetimine tabidir. Denetime ilişkin
+hususlarda ilgili yönetmelikte yer alan hükümler uygulanır.
+(2) Kurum tarafından yapılan inceleme,
+değerlendirme veya denetim faaliyetleri sonucunda tespit edilebilecek
+uygunsuzlukların giderilmesi için dozimetri servisine bildirim tarihinden
+itibaren en fazla bir hizmet periyodu süre verilir. Uygunsuzlukların
+giderildiğinin, dozimetri servisi tarafından belgeleri ile birlikte Kuruma
+iletilmesini müteakip, Kurum tarafından yapılan değerlendirme ve gerekli
+görülürse yeniden yapılacak denetim sonucuna göre işlem tesis edilir.
+(3) Kurum; inceleme, değerlendirme ve denetime esas
+olmak üzere gerekli görmesi hâlinde ölçüm, analiz, muayene ve test gibi her
+türlü araştırmayı yapabilir veya yaptırabilir; gerekli olan her türlü
+malzeme, numune, belge ve kayıtları dozimetri servisinden isteyebilir.
+(4) İlgili mevzuat veya yetki koşullarına, Kurum
+kararlarına ve talimatlarına aykırı hareket edildiğinin tespit edilmesi
+hâlinde idari yaptırım uygulanır. İdari yaptırımlara ilişkin hususlarda
+ilgili yönetmelikte yer alan hükümler uygulanır.
+Yetkinin
+sona ermesi
+MADDE 18- (1) Dozimetri servisinin yetkisi aşağıdaki
+durumlarda sona erer:
+a) Dozimetri servisinin kendi isteğiyle hizmetine
+son vermesi.
+b) Karşılaştırma çalışmasından başarısız olma
+sebebinin ortadan kaldırılmaması veya sistemin iyileştirilmesinin teyit
+edilmemesi veya yetki koşullarından herhangi birinin sağlanmaması.
+c) Yetki belgesinin süresinin sona ermesi.
+ç) Yetki belgesinin Kurum tarafından iptal
+edilmesi.
+(2) Yetkinin sona ermesi durumunda, dozimetri
+servisi vermiş olduğu dozimetri hizmeti ile ilgili verileri en geç on gün
+içerisinde Ulusal Merkezi Doz Kayıt Sistemine aktarır ve yetkisinin sona
+erme sebebini belirten dilekçe ile varsa ilgili belgeleri ve hizmet verilen
+kişilere ait bilgileri Kuruma sunar. Bu bilgi ve belgelerin Kurum
+tarafından uygun bulunması durumunda dozimetri servisinin yükümlülükleri
+sona erer.
+(3) Dozimetri servisinin yetki belgesine ilişkin
+nihai durum Kurumun internet sayfasında duyurulur.
+ALTINCI BÖLÜM
+Doz Sonuç Raporu ve Ulusal Merkezi Doz Kayıt
+Sistemi
+Doz sonuç
+raporu veri içeriği
+MADDE 19- (1) Dozimetri hizmeti alan kişilere ait doz sonuç
+raporu, TS EN ISO/IEC 17025 Deney ve Kalibrasyon Laboratuvarlarının
+Yetkinliği için Genel Gereklilikler Standardına göre yer alması gereken
+bilgilere ek olarak;
+a) Dozimetri servisinin adını,
+b) Dozimetre kullanıcısının adı soyadı, Türkiye
+Cumhuriyeti kimlik numarası, doğum tarihi, cinsiyeti, mesleği, görevi,
+çalışma koşulu ve harici çalışan olup olmadığını,
+c) Dozimetre kullanıcısının çalıştığı kuruluşun
+adı, adresi ve Kurum tarafından verilen yetkiye ilişkin kuruluş kodunu,
+ç) Dozimetrenin kullanıldığı faaliyet alanını,
+d) Dozimetrenin kullanım periyodunu,
+e) Dozimetrenin kullanıma başlama ve bitiş
+tarihlerini,
+f) Dozimetrenin türü ve numarasını,
+g) Dozimetrenin dağıtıma hazırlandığı ve
+değerlendirildiği tarihi,
+ğ) Dozimetrenin kullanıldığı vücut bölgesini,
+h) Okunan doz değerini,
+gösteren bilgiler ile Kurum tarafından istenen
+diğer bilgileri içerir.
+(2) Kullanılmadan iade edilen veya herhangi bir
+sebeple iade edilmeyen dozimetrelere ilişkin açıklama ilgili periyoda ait
+doz sonuç raporunda belirtilir.
+(3) Doz sonuç raporu, doz değerlendirmesini yapan
+teknik personel ve DSS tarafından imzalanır.
+(4) Kişinin birden fazla dozimetre kullanması
+durumunda, doz sonuç raporunda her bir dozimetre sonucuna ayrı ayrı yer
+verilir.
+Ulusal
+Merkezi Doz Kayıt Sistemi veri içeriği
+MADDE 20- (1) Dozimetrelerin değerlendirilmesi sonucunda
+Ulusal Merkezi Doz Kayıt Sistemine doz sonuç raporunda yer alan veriler
+aktarılır.
+(2) Ulusal Merkezi Doz Kayıt Sistemine aktarılan
+verilerde değişiklik yapılması gereken durumlarda dozimetri servisi; gerekçeleri,
+bilgi ve belgeleri ile birlikte yazılı olarak Kuruma başvuruda bulunur.
+Başvurunun Kurum tarafından incelenmesi neticesinde, dozimetri servisi
+tarafından beyan edilen hususların uygun bulunması durumunda veriler Kurum
+tarafından değiştirilir.
+(3) Doz sonuç raporu ile Ulusal Merkezi Doz Kayıt
+Sisteminin veri içeriğinin aynı olması zorunludur.
+(4) Dozimetrelerin kaybedilmesi, iade edilmemesi
+veya hasar görmesi gibi sebepler nedeniyle doz değerinin dozimetreden
+okunmasının mümkün olmadığı durumlarda; dozimetri servisi tarafından,
+dozimetri hizmeti alan kişiye gönderilen araştırma formunda yer alan
+hesaplanmış doz değeri Ulusal Merkezi Doz Kayıt Sistemine aktarılır. Hesaplanmış
+doz değerinin belirlenememesi hâlinde ilgili hizmet periyoduna ait
+dozimetre sonucu Ulusal Merkezi Doz Kayıt Sistemine kayıp olarak aktarılır.
+Ulusal
+Merkezi Doz Kayıt Sisteminin işletilmesi
+MADDE 21- (1) Ulusal Merkezi Doz Kayıt Sistemi, Kurum
+tarafından işletilir.
+(2) Verilerin dozimetri servisi tarafından Ulusal
+Merkezi Doz Kayıt Sistemine bu Yönetmelik hükümlerine uygun olarak
+aktarılıp aktarılmadığı Kurum tarafından incelenir. Verilerin girişi ile
+ilgili hata tespit edilmesi durumunda, bu hatanın giderilmesi ve
+tekrarlanmaması için gerekli düzeltici ve/veya önleyici faaliyetler
+dozimetri servisine bildirilir.
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Yürürlükten
+kaldırılan yönetmelik
+MADDE 22- (1) 31/12/2021 tarihli ve 31706 sayılı Resmî
+Gazete’de yayımlanan Dozimetri Hizmeti Verecek Kuruluşların
+Yetkilendirilmesine İlişkin Yönetmelik yürürlükten kaldırılmıştır.
+(2) Mevzuatta, birinci fıkra ile yürürlükten
+kaldırılan Dozimetri Hizmeti Verecek Kuruluşların Yetkilendirilmesine
+İlişkin Yönetmeliğe yapılan atıflar bu Yönetmeliğe yapılmış sayılır.
+Geçiş
+hükümleri
+GEÇİCİ
+MADDE 1- (1) Bu Yönetmeliğin
+yürürlüğe girdiği tarihten önce dozimetri hizmetine ilişkin verilmiş olan
+uygunluk belgeleri, bu Yönetmelikte belirtilen yetki belgesi olarak kabul
+edilir ve süreleri sona erene kadar geçerlidir.
+(2) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce
+yetkilendirilmiş kişiler 6 ncı maddenin birinci fıkrasının (ç) bendinde yer
+alan programı en geç üç ay içerisinde Kuruma sunar.
+(3) Bu Yönetmeliğin yürürlüğe girdiği tarihten önce
+karara bağlanmamış mevcut başvurular, başvuru tarihinde yürürlükte olan
+mevzuat hükümlerine göre sonuçlandırılır.
+Yürürlük
+MADDE 23- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe
+girer.
+Yürütme
+MADDE 24- (1) Bu Yönetmelik hükümlerini Nükleer Düzenleme
+Kurumu Başkanı yürütür.
