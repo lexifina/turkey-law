@@ -1,0 +1,2 @@
+Uzlaşma toplantısına katılabilecekler
+MADDE 15 ‒ (1) Uzlaşma görüşmeleri sırasında mükellef isterse bağlı olduğu meslek odasından bir temsilci ve 1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre kurulan meslek odalarından bir meslek mensubu bulundurabilir. Bu kişiler uzlaşma görüşmelerinde sadece görüş açıklayabilirler, görüşmeler sonucunda düzenlenecek tutanaklara imza atamazlar.

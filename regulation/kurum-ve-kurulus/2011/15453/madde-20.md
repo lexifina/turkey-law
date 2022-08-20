@@ -1,0 +1,5 @@
+Sekreterya hizmetleri
+MADDE 20 ‒ (1) Vergi Müfettişlerinin dâhil oldukları (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıklarının bulunduğu yerlerde yaptıkları vergi incelemeleri için oluşturulan komisyonların sekreterya hizmetleri (Değişik ibare:RG-7/4/2021-31447) Daire Başkanlıklarınca, geçici çalışma yerlerinde yaptıkları incelemeler için oluşturulan komisyonların sekreterya hizmetleri ise ekip başkanlıklarınca yürütülür.
+(2) Ekip başkanlıklarınca oluşturulan uzlaşma dosya ve yazıları turne bitiminde ilgili Vergi Dairesi Başkanlığına veya Defterdarlığa gönderilir.
+(3) Vergi Dairesi Başkanlığı kurulan yerlerde vergi incelemesi yapmaya yetkili kılınan diğer memurlar tarafından yapılan incelemeler için Vergi Dairesi Başkanlığı bünyesinde oluşturulacak komisyonların sekreterya hizmetleri ilgili Grup Müdürlüğünce yürütülür.
+(4) Vergi Dairesi Başkanlığı kurulmayan yerlerde vergi incelemesi yapmaya yetkili kılınan diğer memurlar tarafından yapılan incelemeler için oluşturulan uzlaşma komisyonlarının sekreterya hizmetleri Gelir Müdürlüklerince yerine getirilir.

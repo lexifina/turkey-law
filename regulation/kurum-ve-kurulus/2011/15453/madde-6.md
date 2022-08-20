@@ -1,0 +1,8 @@
+İncelemeye yetkili diğer memurlarca yapılacak vergi incelemelerinde komisyonların oluşumu
+MADDE 6 ‒ (1) Vergi Dairesi Başkanlığı kurulan yerlerde, incelemeye yetkili diğer memurlarca yapılan vergi incelemelerinde komisyon; Vergi Dairesi Başkanı veya tevkil edeceği grup müdürünün başkanlığında, Vergi Dairesi Başkanı tarafından belirlenen müdürler ve/veya vergi dairesi müdürlerinden oluşur.
+(2) Vergi Dairesi Başkanlığı kurulmayan yerlerde, incelemeye yetkili diğer memurlarca yapılan incelemelerde komisyon; Defterdarın veya tevkil edeceği Defterdar Yardımcısının başkanlığında, ilgili vergi dairesi müdürü ile Gelir Müdürlüğü görevini ifa eden müdürden oluşur. İncelemeyi yapanın ilgili vergi dairesi müdürü olması hâlinde Defterdar, ilgili vergi dairesi müdürü yerine bir başka vergi dairesi müdürünü komisyon üyesi olarak belirler.
+(3) Bu madde kapsamındaki komisyonlar üç kişiden oluşur.
+(4) Gerektiğinde yukarıda belirtilen kriterler çerçevesinde birden fazla komisyon oluşturulabilir.
+(5) İncelemeyi yapanlar, komisyon üyesi olamazlar. Ancak açıklamalarda bulunmak üzere uzlaşma komisyonu toplantısına iştirak edebilirler.
+(6) Komisyon başkan ve üyelerinin herhangi bir nedenle görevlerinin başında bulunamamaları hâlinde, bunlara vekâlet edenler komisyonda görev yaparlar.
+(7) Vergi Dairesi Başkanlığı kurulmayan yerlerde incelemeye yetkili diğer memurlarca yapılan incelemelere ilişkin olarak tarhiyat öncesi koordinasyon uzlaşma komisyonları kurulabilir. Bu komisyonların kurulacağı yerler, yetki alanları, kimlerden oluşacağı ve sekreterya hizmetlerinin kimler tarafından yürütüleceği Gelir İdaresi Başkanlığınca belirlenir.

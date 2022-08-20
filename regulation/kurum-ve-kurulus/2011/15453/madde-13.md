@@ -1,0 +1,4 @@
+Tarh edilecek verginin uzlaşma komisyonuna ve mükellefe bildirilmesi
+MADDE 13 ‒ (1) Yapılan vergi incelemeleri sonucu, uzlaşmaya konu tarh edilecek vergi ve kesilmesi öngörülen ceza miktarı, incelemeyi yapan tarafından düzenlenecek bir raporla uzlaşma gününden en az 15 gün önce yetkili uzlaşma komisyonuna ve ilgiliye bildirilir. Uzlaşma gününün 15 günden önceki bir tarih olarak belirlenmesi halinde inceleme raporu bu tarihten önce mükellefe tebliğ edilir. Gerektiğinde bu inceleme raporu, ön rapor şeklinde de düzenlenebilir.
+(2) Uzlaşma talebinin işleme konulabilmesi için, incelemeyi yapanın, mükellefin uzlaşma talebi ile birlikte mükellef hakkında düzenleyeceği inceleme raporunu yetkili uzlaşma komisyonuna intikal ettirmesi şarttır.
+(3) İnceleme raporu, ilgili mükellef ile komisyona intikal ettirilmeden uzlaşma yapılamaz.

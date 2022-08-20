@@ -1,0 +1,2 @@
+Ödeme zamanı
+MADDE 19 ‒ (1) Uzlaşma konusu yapılan vergi ve cezada uzlaşma vaki olduğu takdirde uzlaşma tutanağı düzenlenir ve derhal ilgili vergi dairesine intikal ettirilir. Bu tutanak tahakkuk fişi yerine geçer. Uzlaşma tutanağı vergi ve cezaların ödeme zamanlarından önce ilgiliye tebliğ edilmişse kanuni ödeme zamanlarında; ödeme zamanları kısmen veya tamamen geçtikten sonra ilgiliye tebliğ edilmiş ise ödeme süreleri geçmiş olanlar uzlaşma tutanağının tebliğ tarihinden itibaren bir ay içinde ödenir.
