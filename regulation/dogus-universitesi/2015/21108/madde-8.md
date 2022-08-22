@@ -1,0 +1,3 @@
+Açılacak derslerin tespiti
+MADDE 8 – (1) (Değişik:RG-22/8/2022-31931)(2) Bir eğitim-öğretim biriminin programında yer alan derslerden hangilerinin yaz öğretiminde açılabileceğinin tespitinde; öğrencilerin ihtiyaç ve talepleri ile ilgili bölüm/program başkanlığının önerileri göz önünde bulundurulur.
+(2) Öğrenciler yaz öğretiminde açılmasını talep ettikleri dersler için ilan edilen tarihlerde, bu Yönetmeliğin 9 uncu maddesinde belirtilen esaslar çerçevesinde başvuruda bulunurlar. Bu başvurular dikkate alınarak açılacak derslerle ilgili karar, yaz öğretimi koordinasyon kurulunun görüşü alınarak Rektörlükçe verilir. Açılmayan derslere kayıt olan öğrencilerin ödedikleri ücretler iade edilir.

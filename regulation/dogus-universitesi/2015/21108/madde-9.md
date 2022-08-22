@@ -1,0 +1,16 @@
+ÜÇÜNCÜ BÖLÜM
+Yaz Öğretiminde Derse Yazılma, Ücret, Başarı ve Değerlendirme
+Derse yazılma
+MADDE 9 – (Değişik:RG-22/8/2022-31931)(2)
+(1) Yaz öğretiminde derslere kayıt isteğe bağlıdır. Öğrenciler akademik takvimde ilan edilen tarihlerde 13/9/2020 tarihli ve 31243 sayılı Resmî Gazete’de yayımlanan Doğuş Üniversitesi Önlisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği hükümleri ve aşağıda belirtilen esaslar çerçevesinde yaz öğretiminde alacakları derslere yazılarak başvuru işlemlerini gerçekleştirirler. Derse yazılma işlemi; öğrencinin çevrimiçi olarak derse yazılması, ders kaydının danışman tarafından onaylanması ve öğrencinin öğrenim ücretini ödemesi ile tamamlanır. Derse yazılmaya ilişkin esaslar şunlardır:
+a) Yaz öğretiminde öğrenci en çok 3 ders alabilir.
+b) Öğrenciler, yaz öğretimine kayıt olurken kendi dönemlerine kadar F, IA-DZ veya daha önce alıp başardıkları halde başarı notunu yükseltmek istedikleri derslere kayıtlanabilirler (A+ hariç).
+c) Öğrenciler kendi yarıyılına kadar hiç almadıkları ve üst yarıyıllara ait derslere kayıtlanamaz.
+ç) Yaz öğretimi sonunda mezun olabilecek durumda olan öğrenciler yaz öğretiminde daha önce hiç almadıkları dersleri alabilirler.
+d) Dersler, önkoşul şartının sağlanması kaydıyla alınabilir.
+e) Öğrenciler kayıtlı oldukları ders, uygulama, laboratuvar, proje ve bunların gerektirdiği sınav ve diğer akademik çalışmalara katılmakla yükümlüdür. Öğrencilerin devam durumlarının ders başarı durumuna etkisi, ilgili dersin öğretim elemanı tarafından dönem başında açıklanır ve öğrencilerin devam durumları, ilgili dersin öğretim elemanları tarafından izlenir. Daha önce alınmış ve devamsızlık (IA-DZ) nedeniyle başarısız olunan dersler hariç, tekrar edilen derslerde devam zorunluluğu aranmaz.
+f) Öğrenciler, yaz öğretimine başvurdukları halde açılmayan dersleri; eşdeğerliği ve AKTS kredi ve içerik uygunluğu göz önünde bulundurularak, ilgili fakülte/yüksekokul yönetim kurulu kararı ile diğer üniversitelerden alabilirler.
+g) Derse yazılarak başvuru işlemini gerçekleştirmeyen ve ilgili fakülte/yüksekokul yönetim kurulu kararı olmadan başka bir yükseköğretim kurumundan ders alan öğrencilerin dersleri ve notları kabul edilmez.
+ğ) Yaz öğretiminde geç kayıt ve ders ekleme akademik takvimde belirtilen tarihlerde yapılır. Bu süre içinde öğrenciler ders ekleme yapabilir, ancak ders bırakma yapamaz.
+h) Yaz öğretiminde, başka bir yükseköğretim kurumuna kayıtlı öğrenciler, özel öğrenci statüsünde açılan derslere kayıt olabilirler. Bu öğrencilere, yaz öğretimi sonunda aldıkları derslerdeki başarı durumlarını gösteren bir belge verilir. Bu öğrenciler, Üniversite öğrencilerine tanınan öğrencilik haklarından yararlanamaz. Özel öğrenciler, bu statüde ders aldıktan sonra, Üniversiteye kayıt olmaları halinde; Üniversitede alıp da başarılı oldukları derslerden sadece kayıt olmadan önce, daha önce kayıtlı bulundukları yükseköğretim kurumunca kabul edilen ve not belgelerinde yer alan derslerin AKTS kredisinden yararlanabilirler.
+ı) 2547 sayılı Kanundaki azami öğretim süresini bahar yarıyılı sonunda doldurmuş ve ilişik kesme durumuna gelmiş öğrenciler de yaz öğretiminden ders alabilirler. İlişik kesme işlemi bir sonraki akademik yılın güz yarıyılı başında yapılır.
