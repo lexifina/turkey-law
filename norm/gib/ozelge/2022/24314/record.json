@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-19341373-120[ÖZELGE-2021/38]-127551",
+  "source_id": 24314,
+  "date": "2022-08-22",
+  "title": "Elektronik Ticaret Gümrük Beyannamesiyle gerçekleştirilen mal ihracatı kapsamında elde edilen kazancın %50' sinin gelir vergisi beyannamesinde indirim konusu yapılıp yapılamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/24314",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "a5bc9fd7314dda8e573bfb87a8a4fb4ddd6e1821781763ad3d8272c6683d4d20",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
