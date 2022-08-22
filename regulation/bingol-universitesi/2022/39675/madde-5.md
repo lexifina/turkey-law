@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Merkezin Amaçları ve Faaliyet Alanları
+Merkezin amaçları
+MADDE 5- (1) Merkezin amaçları şunlardır:
+a) Arıcılığın gelişmesi adına, Pilot Üniversite Koordinasyon Merkezi Birimi ile koordineli olarak arıcılık ve arı ürünleri konusunda eğitimlerinin verilmesini sağlamak, bu eğitimlerin verilmesi sırasında uygulamalı eğitimlerin de yapılacağı fiziksel koşulların oluşturulmasını sağlamak, arı ve arı ürünlerini tanıtmak amacı ile uygulama grupları kurmak.
+b) Bingöl ili ve yakın bölgelerdeki arı ırkı çeşitliliğini araştırmak, arı ırkının korunması, çoğaltılması, ıslah edilmesi ve üretiminin yapılması için bu konuda faaliyet gösteren kurum ve kuruluşlarla işbirliği yapmak, arı ırkları ve ıslahı konusunda bilimsel olarak çalışmak, genetik karakterdeki arı ekotiplerini moleküler teknikler ile tanımlamak ve koruma programları oluşturmak, Pilot Üniversite Koordinasyon Merkezi Birimi ve diğer birimler ile koordineli çalışmalar yürüterek moleküler tekniklere dayalı arı ırk ve ekotip tescil standardı geliştirmek ve ekotip tescili yapmak.
+c) Arı, arı ırk özellikleri, arıcılık ve arı ürünlerine yönelik araştırma geliştirme faaliyetleri yürütmek, Bingöl ili ve bölgesi başta olmak üzere Türkiye’deki yerli arı ırkı, ekotip ve hatlarını korumak, ideal köylerde gen kaynaklarını koruma noktaları oluşturmak ve konuyla ilgili çalışmalar yapmak.
+ç) Arı ve ana arı yetiştiriciliği konusunda yeni yöntemler geliştirmek, geliştirilen modern yöntemlerin uygulanması için üreticilere eğitimler vererek mali kaynaklar ve işgücünün verimli kullanılmasını sağlamak, bu kapsamda periyodik eğitim çalışmaları düzenlemek, danışmanlık hizmeti vermek.
+d) Birimler ile koordineli çalışmalar yürüterek arı hastalıkları konusunda karşılaşılan sorunların çözülmesine yönelik çalışmaları yürütmek, arı hastalıklarına karşı doğal mücadele yöntemleri, yeni ilaç-ekipman ve teknoloji geliştirmek.
+e) Bal, polen, propolis, arı sütü ve arı zehiri gibi arı ürünlerinin üretiminde ürünlerin kalitesinin artırılmasına yönelik yeni metotlar geliştirmek, arı ürünlerinin organik/ekolojik tarım ile elde edilmesini sağlamak.
+f) Arı ırk ve ekotiplerinin farklı bitkiler için tozlaşma vektörü olarak kullanılmasını yaygınlaştırmak amacı ile eğitimler vererek arıcılığın geliştirilmesine katkıda bulunmak.
+g) Arı yetiştiriciliğinde ve beslenmesinde kullanılmak üzere yeni arı besleme ürünlerinin geliştirilmesi için bilimsel çalışmalar yürütmek.
