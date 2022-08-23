@@ -1,0 +1,2 @@
+Ders kurulları dönem sonu sınavı
+MADDE 23 – (1) Ders kurulları dönem sonu sınavı (final sınavı), her akademik yılın sonunda son ders kurulu sınavının bitiminden en erken on beş gün sonra yapılan sınavdır. Sınav öğrencinin edindiği bilgileri birleştirme, problem çözmede kullanma becerilerini ölçecek biçimde hazırlanır ve bu amaçlara uygun sınav yöntemleri ve kapsam geçerliliğini sağlayacak sayıda sorudan oluşur.

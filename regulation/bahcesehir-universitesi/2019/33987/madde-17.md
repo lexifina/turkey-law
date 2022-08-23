@@ -1,0 +1,7 @@
+Mazeretler
+MADDE 17 – (1) Öğrencilerin her türlü mazereti Fakülte Yönetim Kurulu tarafından değerlendirilir. Mazereti Fakülte Yönetim Kurulunca kabul edilen öğrenciler, mazeretleri süresince derslere devam edemez ve sınavlara giremezler.
+(2) Öğrencinin sağlık mazeretine ilişkin sunulan sağlık raporları, Senato tarafından belirlenen usul ve esaslara göre değerlendirilir. Sağlık mazereti Fakülte Yönetim Kurulunca kabul edilen öğrenci, rapor süresince derslere devam edemez ve sınavlara giremez. Sınavda bulunup, sınav sonrası rapor alan öğrenciler, girmiş oldukları sınavlar için mazeretli sayılmaz.
+(3) Öğrencilerin anne, baba, kardeş, eş veya çocuğunun ölümü ya da bunlardan birinin ağır hastalığı halinde bakacak başka bir kimsenin bulunmaması veya kaza, doğal afet, ailevi ve ekonomik nedenlerden mazeretli sayılabilmesi için mazeretlerini belgelendirmeleri gerekir.
+(4) Mazeretlerle ilgili her türlü müracaat, mazeret süresinin başlangıcından itibaren en geç üç iş günü içerisinde yazılı olarak Fakültedeki Öğrenci İşleri Birimine yapılır. Daha sonra yapılan müracaatlar ve geç sunulan raporlar işleme konulmaz.
+(5) Mazeretleri kabul edilen öğrencilere mazeretli oldukları süre içinde yapılan ve giremedikleri sınavlar için ilgili koordinatörlükçe belirlenecek bir günde mazeret sınav hakkı verilir. Mazeret sınavlarına ilişkin usul ve esaslar Senato tarafından belirlenir. Mazeret sınav hakkı her yıl tek bir kurul için geçerlidir.
+(6) Mazeret sınavı sözlü, yazılı veya hem sözlü hem yazılı olabilir. Mazeret sınavı için ayrıca mazeret sınavı yapılamaz.

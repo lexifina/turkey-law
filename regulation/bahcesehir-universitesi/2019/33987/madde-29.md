@@ -1,0 +1,2 @@
+Mesleki uygulama sonu sınavı
+MADDE 29 – (1) Mesleki uygulama sonu sınavı, ilgili anabilim dalı tarafından belirlenen yöntemlerle yapılır. Sınavlar yazılı, sözlü, yapılandırılmış sözlü, hasta veya olgu sunumu, muayene, klinik beceri uygulaması, hasta başı görüşme ve benzeri yöntemlerden oluşabilir. Sınavlar ilgili anabilim dalında ders veren öğretim üyelerinin katılımı ile gerçekleştirilir. Sınav sonuçları en geç beş iş günü içinde ilan edilir.

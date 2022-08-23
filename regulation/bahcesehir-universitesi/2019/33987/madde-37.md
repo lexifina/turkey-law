@@ -1,0 +1,2 @@
+Mezuniyet
+MADDE 37 – (1) Bir öğrencinin Fakülteden mezun olabilmesi için mezuniyeti için gerekli olan dersleri almış ve başarmış olması, mesleki uygulamaları ve benzeri çalışmaları başarı ile tamamlaması ve mezuniyet ağırlıklı not ortalamasının en az 2.00/4.00 her yıl için 60 AKTS olmak üzere 360 AKTS tamamlamış olması gerekir. Mezuniyet hakkını kazanan öğrenci, öğrenim ücretlerinin ve diğer ücretlerin tamamını ödemek ve üzerine kayıtlı bulunan demirbaşları teslim etmek koşulu ile diploma alma hakkını kazanır.

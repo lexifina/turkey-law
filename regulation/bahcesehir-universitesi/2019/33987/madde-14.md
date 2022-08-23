@@ -1,0 +1,5 @@
+Eğitim-öğretim şekli
+MADDE 14 – (1) Fakültede eğitim-öğretim, ders konuları ve saatleri arasında koordinasyon esasına göre düzenlenmiş olan entegre sistem ile yürütülür. Bu koordinasyon birinci, ikinci ve üçüncü sınıflarda ders kurulları şeklinde düzenlenir. Her sınıftaki ders kurullarının sayı ve süreleri, Fakülte Müfredat Kurulunun önerisi ile Fakülte Kurulunca belirlenir ve Senato onayından sonra uygulanır.
+(2) Üçüncü sınıfı başarı ile tamamlayan öğrenci, ilgili anabilim dalları tarafından ağırlıklı olarak klinik öğrenme ortamlarında gerçekleştirilen mesleki uygulamalara başlar. Her mesleki uygulama bir ders niteliği taşır.
+(3) Dördüncü ve beşinci sınıf mesleki uygulamaların hepsini başarı ile tamamlayan öğrenci altıncı sınıfta intörnlük dönemine başlar. İntörnlük dönemi kesintisiz 12 ay sürer.
+(4) Fakültede sınıf geçme esaslarına göre hazırlanmış eğitim-öğretim programları uygulanır. Tıp doktorluğu düzeyinde akademik eğitimin her bir sınıfının başarılmış olması bir sonraki sınıfa başlamanın ön şartıdır.

@@ -1,0 +1,2 @@
+Mesleki uygulama geçme notu
+MADDE 30 – (1) Mesleki uygulama geçme notu, mesleki uygulama sonu teorik ve pratik sınavlar, ara sınav ve mesleki uygulama karne notlarının sene başında ilgili anabilim dalı tarafından belirlenen ve öğrencilere duyurulan yüzdelerinin toplamından oluşur. Mesleki uygulama geçme notu 70 ve üstüdür. Mesleki uygulama notları, ilgili anabilim dalı tarafından yazılı olarak dönem koordinatörlüğü aracılığıyla Dekanlığa iletilir ve Dekanlık tarafından ilan edilir.

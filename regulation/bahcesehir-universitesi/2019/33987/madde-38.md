@@ -1,0 +1,5 @@
+Diplomalar
+MADDE 38 – (1) Fakültede aşağıdaki diplomalar verilir:
+a) Temel Tıp Bilimleri Ön Lisans Diploması: Fakültenin ilk iki yılını en çok dört yılda başarı ile tamamlayanlara Üniversiteden ayrılmaya karar verdikleri takdirde temel tıp bilimleri ön lisans diploması verilir. Bu diplomayı belirtilen koşullarla alanların tekrar aynı programa dönmeleri halinde aldıkları diplomayı kayıt sırasında Üniversiteye geri vermeleri gerekir.
+b) Klinik Bilimleri Yüksek Lisans Diploması: Temel tıp bilimleri ön lisans ve klinik bilimleri yüksek lisans kademesini toplam olarak en çok sekiz yılda başarıyla tamamlayanlara klinik bilimleri yüksek lisans diploması verilir. Bu diploma hekimlik yapma yetkisi vermez. Bu diplomayı belirtilen koşullarla alanların tekrar aynı programa dönmeleri halinde aldıkları diplomayı kayıt sırasında Üniversiteye geri vermeleri gerekir.
+c) Tıp Doktoru Diploması: Tıp doktorluğu için öngörülen altı yıllık eğitim süresini başarı ile tamamlayan öğrencilere tıp doktoru diploması verilir.

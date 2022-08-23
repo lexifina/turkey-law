@@ -1,0 +1,2 @@
+Ders kurulları dönem sonu başarı notu
+MADDE 24 – (1) Ders kurulları ortalama notunun %60’ı ile ders kurulları dönem sonu sınavından alınan notun %40’ının toplanması ile elde edilen notun Fakülte Kurulu tarafından kararlaştırılan ve dönem başında ilan edilen yüzdesi ile dikey koridor dersleri notlarının yüzdelerinin toplamından oluşur. İlk 3 yılda bir üst sınıfa geçmek için ders kurulları dönem sonu başarı notunun en az 60 olması gerekir.
