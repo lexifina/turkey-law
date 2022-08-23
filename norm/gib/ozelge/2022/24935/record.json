@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "76464994-130[KDV.2022.32]-204356",
+  "source_id": 24935,
+  "date": "2022-08-23",
+  "title": "Yurtdışına verilen tercüme hizmeti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/24935",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p002.json",
+  "source_listing_sha256": "1127433fae2c3b98eacb69dfeeab0d176134351c27ed181b09d755413ef94f48",
+  "source_sha256": "5ba38eaa81f60df2ded5a04ff1e2e061c9e05f754b56c432ac96ba556ddc58d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
