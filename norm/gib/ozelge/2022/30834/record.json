@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "84974990-130[KDV.1/İ-11-2021/128]-382550",
+  "source_id": 30834,
+  "date": "2022-08-24",
+  "title": "Üretilerek aktife alınan makinanın ihraç kayıtlı teslimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30834",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "c5a4042fcce4bf18948a0fa7bc2b9362d9d6797c1ed7cc81b2e3be513f3bd2e5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
