@@ -1,0 +1,17 @@
+{
+  "issuer": "Yüksek Seçim Kurulu",
+  "document_type": "decision",
+  "number": "2022/277",
+  "list_number": "277",
+  "decision_date": "2022-08-24",
+  "title": "Yüksek Seçim Kurulunun 24/08/2022 Tarihli ve 2022/277 Sayılı Kararı",
+  "official_document": "https://www.ysk.gov.tr/doc/karar/dosya/58015092/2022-277.pdf",
+  "source_sha256": "0c703aaacc59f9e930046badcc1595b8606eec9148845c6a0eaf1e6c5acbc5e9",
+  "official_list": "https://www.ysk.gov.tr/doc/karar/kararlar.txt",
+  "official_list_sha256": "0733001df8fd09fa2f4155954da343809b59b823ecd8d57ad2e679c4264f5a84",
+  "pdf_pages": 1,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions (PyMuPDF / pdftotext) differ",
+  "in_force": "2022-08-24",
+  "law_text_complete": false
+}
