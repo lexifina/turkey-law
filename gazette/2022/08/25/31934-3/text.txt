@@ -1,0 +1,686 @@
+25 Ağustos 2022 PERŞEMBE
+Resmî Gazete
+Sayı : 31934
+YÖNETMELİK
+Sağlık Bakanlığından:
+SAĞLIK BİLGİ YÖNETİM SİSTEMLERİ
+HAKKINDA YÖNETMELİK
+BİRİNCİ BÖLÜM
+Başlangıç Hükümleri
+Amaç
+MADDE 1- (1) Bu Yönetmeliğin amacı; sağlık bilgi yönetim
+sistemi hizmeti sağlayıcılarının uyacakları kurallara, sağlık bilgi yönetim
+sistemlerinin alım süreçlerine, standartlarına ve tescil işlemlerinin
+belirlenmesine ilişkin usul ve esasları düzenlemektir.
+Kapsam
+MADDE 2- (1) Bu Yönetmelik; sağlık bilgi yönetim sistemi
+hizmeti sağlayıcıları ile bu hizmetten yararlanan sağlık bilgi yönetim
+sistemi hizmet alıcılarının uymaları gereken kurallara ilişkin hükümleri
+kapsar.
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 7/5/1987
+tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü maddesinin
+birinci fıkrasının (f) bendi ile 1 sayılı Cumhurbaşkanlığı Teşkilatı
+Hakkında Cumhurbaşkanlığı Kararnamesinin 358 inci maddesinin birinci
+fıkrasının (ç) bendine dayanılarak hazırlanmıştır.
+Tanımlar
+ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) AHBS: Aile Hekimliği Bilgi Sistemini,
+b) Bakanlık: Sağlık Bakanlığını,
+c) Cihaz: Sağlık hizmeti sunucularında kullanılan,
+sağlık hizmeti üretmek ya da sağlık hizmeti üretmeye yardımcı olmak amacı
+ile veri oluşturma, ölçme, denetleme, görüntüleme, dönüştürme amacı ile
+çalıştırılan her türlü aygıtı veya sistemi,
+ç) CMMI: Yetenek Olgunluk Model Entegrasyonunu
+(Capability Maturity Model Integration),
+d) DICOM: Tıbbi görüntüleme cihazlarından alınan
+iki ve üç boyutlu bilimsel verilerin depolanması, görüntülenmesi ve
+analizinde kullanılmak maksadıyla geliştirilmiş olan dijital veri formatını
+(Digital Imaging and Communications in Medicine),
+e) Entegrasyon: Herhangi bir SBYS ya da cihazın,
+yüksek kalitede ve etkinlikte sağlık hizmeti üretebilmek için, diğer SBYS
+ya da cihazlarla ihtiyacı karşılayacak yeterlilikte karşılıklı veri
+alışverişi yapılması işini,
+f) Elektronik sertifika: İmza sahibinin imza doğrulama
+verisini ve kimlik bilgilerini birbirine bağlayan elektronik kaydı,
+g) Entegre edilebilir cihaz: Entegrasyon sağlamak
+için gerekli her türlü yazılımı üzerinde barındıran, entegrasyon
+dokümanı olan, gerektiğinde cihaz hizmeti sağlayıcısı tarafından entegrasyon
+hizmet veya desteğinin sağlanabildiği her türlü cihazı,
+ğ) Genel Müdürlük: Sağlık Bilgi Sistemleri Genel
+Müdürlüğünü,
+h) Görüntü: VTYS terminolojisinde VIEW olarak da
+bilinen, gerektiğinde birden çok VTYS tablosunu kendi aralarındaki
+ilişkileri kullanarak birleştirebilen, genellikle başkaları tarafından
+verinin daha anlamlı şekilde görülebilmesini sağlayan VTYS nesnesini,
+ı) İdare: SBYS hizmetini alan kamu kurumları ile
+kamu sağlık tesisi yönetimlerini,
+i) KTS: Kayıt Tescil Sistemini,
+j) KTS Yetki Belgesi: SBYS hizmeti sağlayıcısının
+KTS’de kayıtlı olduğunu ve aktif listede yer aldığını doğrulayan belgeyi,
+k) PACS: Görüntü Arşivleme ve İletişim Sistemlerini
+(Picture Archiving and Communication Systems),
+l) Sağlık hizmeti sunucusu: Sağlık hizmetini sunan
+veya üreten gerçek kişiler ile kamu hukuku ve özel hukuk tüzel kişilerini,
+m) SAMİLOG: SBYS veri tabanında bulunan kayıtlarla
+ilgili yapılan değişikliklerin olay ve iz kayıtlarını tutmak amacı ile
+Genel Müdürlük tarafından hazırlanarak internet sitesinde yayımlanan
+Sağlıkta Minimum Loglama Standardını,
+n) SBYS: Sağlık hizmeti sunucuları tarafından
+klinik, idari ya da yönetimsel amaçlarla kullanılan, gerektiğinde diğer
+bilgi yönetim sistemleri ile veri alışverişi yapabilen ve Sağlık Bilgi
+Yönetim Sistemleri olarak adlandırılan yazılımları,
+o) SBYS hizmeti alıcısı: SBYS hizmetini alan
+idareleri ve sağlık hizmeti sunucularını,
+ö) SBYS hizmeti sağlayıcısı: SBYS hizmeti sunmak
+üzere Kayıt Tescil Sisteminde kayıt edilerek yetkilendirilmiş olan gerçek
+veya tüzel kişiyi,
+p) SBYS yetkilisi: SBYS hizmeti sağlayıcısının
+imzaya yetkili temsilcisini,
+r) SPICE: Yazılım süreç geliştirme yetenek düzeyini
+(Software Process Improvement and Capability Determination),
+s) TSE: Türk Standardları Enstitüsünü,
+ş) ÜTS: Ürün Takip Sistemini,
+t) VEM: Sağlık hizmeti
+sunucularının yerel veri tabanlarında tutmuş oldukları verilere ait tablo
+ve alanların ulusal standartlara uyumunu sağlamak, veri kayıplarını asgari
+düzeyde tutmak, adaptasyonu hızlandırarak vatandaşların geçmiş verilerine
+erişimini kolaylaştırmak ve sürecin kesintisiz ilerlemesini temin etmek
+amacı ile Genel Müdürlük tarafından geliştirilen ve SBYS hizmeti
+alıcılarının SBYS değişiklikleri ile diğer veri aktarımı süreçlerinde
+kullanılan Minimum Veri Modelini,
+u) VEM Görüntüsü: SBYS hizmeti sağlayıcısı
+tarafından VEM’e uygun olarak hazırlanan ve güncellenen, SBYS’nin minimum
+içeriğini tanımlayan Minimum Veri Modeli görüntüsünü (view),
+ü) Veri işleyen: Veri sorumlusunun verdiği yetkiye
+dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,
+v) VTYS: İlişkisel Veri Tabanı Yönetim Sistemini
+(RDBMS-Relational Database Management System),
+y) Zaman damgası: Bir elektronik verinin
+üretildiği, değiştirildiği, gönderildiği, alındığı veya kaydedildiği zamanın
+tespit edilmesi amacıyla elektronik sertifika hizmet sağlayıcısı tarafından
+elektronik imzayla doğrulanan kaydı,
+ifade eder.
+İKİNCİ BÖLÜM
+Genel Kurallar ve Kayıt Tescil Sistemi
+Genel
+kurallar
+MADDE 5- (1) SBYS hizmeti sağlayıcıları, aşağıdaki
+kurallara uymak zorundadır:
+a) SBYS’nin; Bakanlık tarafından belirlenen veri
+tanımlarına, iş kurallarına, yayımlanan yazılım sürüm notlarına, yayımlanan
+sağlık bilişim standartlarına ve veri gönderimi servislerine uyumlu
+olmasını sağlamak.
+b) Sağlık hizmeti sunucularında faaliyet
+gösterebilmek için KTS’de kayıtlı olmak.
+c) Veri gönderimi servislerini SBYS hizmeti
+sağlayıcısına ait olmayan donanımlardan kaynaklanan arızalar dışında
+kesintisiz çalıştırmak; verilerin oluştuğu anda doğru bir şekilde
+gönderilmesi ile gönderilen verilerin tam ve doğru olmasını sağlamak için
+teknik gereklilikleri yerine getirmek.
+ç) SBYS hizmeti alımı ve değişikliği süreçlerinde,
+SBYS hizmeti alıcısı tarafından belirlenen zaman aralığındaki VEM
+görüntülerinin herhangi bir gerekçe ile başka bir sisteme aktarılmak üzere
+istenmesi durumunda ilgili görüntüleri SBYS hizmeti alıcısına teslim etmek.
+d) SBYS hizmet süresinin sonunda sistemin
+kapatılmasını takiben yedekleri eksiksiz olarak almak ve güncel VEM sürümü
+görüntüleri ile birlikte SBYS hizmeti alıcısına teslim etmek.
+e) İdarenin uygun ortamı sağlaması hâlinde SBYS’yi,
+sözleşmenin sona erdiği tarihten itibaren iki ay süre ile tüm raporlama
+özellikleri çalışır durumda ve herhangi bir değişiklik yapılmasına izin
+vermeyecek şekilde açık tutmak.
+f) Genel Müdürlük tarafından yapılan veya
+yapılmasına onay verilen tüm projelerden Genel Müdürlükçe gerekli
+görülenlere tam entegre olmak.
+g) Genel Müdürlük tarafından yayımlanan diğer
+politika, kılavuz ve kurallara uymak.
+Sisteme
+kayıt ve aktif liste
+MADDE 6- (1) SBYS hizmeti sağlayıcılarının kayıt süreçleri,
+Genel Müdürlük tarafından geliştirilen Kayıt Tescil Sistemi üzerinden
+yürütülür. KTS’ye kayıt için gerekli olan belgeler Genel Müdürlüğün
+internet sitesinde yayımlanır.
+(2) KTS’ye kayıt için gerekli olan belgeler Genel
+Müdürlüğe resmî yazı ile iletilir, kayıtlı elektronik posta (KEP) ile
+Bakanlığa gönderilir ya da e-Devlet üzerinden KTS’ye yüklenir.
+(3) KTS’ye kayıt olacak SBYS hizmeti
+sağlayıcılarından ayrıca aşağıdaki belgeler istenir:
+a) TS ISO/IEC 17021 standardı kapsamında Türk
+Akreditasyon Kurumundan (TÜRKAK) akredite edilmiş kurum ve kuruluşlardan
+alınmış TS ISO/IEC 27001 Bilgi Güvenliği Yönetim Sistemi belgesi.
+b) TS ISO/IEC 17065
+akreditasyonuna sahip olup SPICE baş tetkikçisi bulunan kurum ve kuruluşlardan
+alınmış TS ISO/IEC 15504 en az ikinci seviyede SPICE belgesi veya CMMI baş
+tetkikçisi olan kurum ve kuruluşlar ile şirketlerden alınmış en az üçüncü
+seviyede CMMI belgesi (TS ISO/IEC 15504 en az ikinci seviyede SPICE
+belgesine, TSE tarafından eşdeğer bir belge yayımlanması durumunda TSE
+tarafından yayımlanan eşdeğer belge SPICE belgesi yerine kabul edilir. Eşdeğer belgenin yayımlanma tarihinden sonra
+başvurusu yapılan ve temin edilen SPICE belgeleri kabul edilmez.).
+c) ÜTS kaydı gerektiren SBYS yazılımlarını üreten
+SBYS hizmeti sağlayıcılarından (b) bendinde belirtilen belge yerine ÜTS
+kaydına ilişkin belge istenir. Ancak SBYS hizmet sağlayıcısının ÜTS kaydı
+gerektirmeyen SBYS yazılımı da üretmesi halinde (b) bendinde belirtilen
+belge de istenir.
+(4) Belgelerini eksiksiz teslim eden SBYS hizmeti
+sağlayıcılarının SBYS’leri, Genel Müdürlük veya yetkilendirdiği bir kuruluş
+tarafından denetlenir ve denetimden başarıyla geçenler KTS’ye kaydedilir.
+SBYS hizmeti sağlayıcılarına, gizlilik sözleşmesi imzalandıktan sonra
+gerçek ortamda veri gönderebilmeleri için yazılım erişim kodu teslim
+edilir. Yazılım erişim kodunun muhafazasından SBYS yetkilisi sorumludur.
+(5) KTS’ye kayıtlı SBYS hizmeti sağlayıcıları;
+SBYS’lerini, sürümlerini ve mimarilerini KTS portali üzerinden günceller.
+Kaydedilen bilgi ve belgelerde herhangi bir değişiklik olması halinde bu
+değişiklikler en geç on iş günü içerisinde KTS’ye işlenir.
+(6) Kayıt ve denetim süreçleri başarı ile
+tamamlanan SBYS hizmeti sağlayıcıları aktif listeye alınarak Genel
+Müdürlüğün internet sitesinde ilan edilir.
+(7) Genel Müdürlük, oluşan ihtiyaçlar doğrultusunda
+yeni SBYS türlerinin de KTS’ye tescil edilmesine karar verebilir. Yeni SBYS
+türünün KTS’ye tescil edilmesini müteakip ilgili SBYS hizmeti
+sağlayıcılarının KTS’ye kayıt olmaları ve üçüncü fıkrada istenilen
+belgeleri ibraz etmeleri için bir yıl süre verilir.
+Pasif
+liste
+MADDE 7- (1) Aktif listede yer alan SBYS hizmeti
+sağlayıcıları denetlenir. Denetim sonucunda herhangi bir eksikliğin tespit
+edilmesi halinde SBYS hizmeti sağlayıcısı uyarılır ve bu eksikliklerin
+belirlenen süre içerisinde giderilmesi istenir. Belirlenen süre içerisinde
+ilgili eksiklikleri gidermeyen SBYS hizmeti sağlayıcısı pasif listeye
+alınır.
+(2) Pasif listeye alınan SBYS hizmeti sağlayıcısı
+aktif listeye geçene kadar KTS yetki belgesi alamaz.
+Sistemden
+silinme
+MADDE 8- (1) Pasif listeye alınmasını takip eden üç ay
+içinde aktif listeye geçemeyen SBYS hizmeti sağlayıcısı ile son bir yıl
+içerisinde üç defa pasif listeye alınan SBYS hizmeti sağlayıcısı KTS’den
+silinir.
+(2) Gerçeğe aykırı bilgi ve belge
+sunan, veri gönderimlerine veya standartlara uyum konusunda yanıltıcı işlem
+yapan ya da yazılım erişim kodunu üçüncü kişilerle haksız fayda sağlamak
+amacıyla paylaştığı tespit edilen SBYS hizmeti sağlayıcısı, herhangi bir
+uyarıya gerek kalmaksızın KTS’den silinir ve KTS’ye yeniden kaydedilmek
+için yaptığı başvuru bir yıl süreyle kabul edilmez.
+(3) 16 ncı ve 17 nci maddelerde yer alan hükümlere
+aykırılığın tespiti hâlinde ilgili SBYS hizmeti sağlayıcısı KTS’den
+silinir.
+(4) KTS’den silinme tarihinden itibaren SBYS
+hizmeti sağlayıcısının yazılım erişim kodu en geç üç ay içerisinde
+kullanıma kapatılır. İlgili sağlık tesisinin resmî olarak talebi halinde
+yeni SBYS hizmeti alım süreci de göz önünde bulundurularak bu süre altı aya
+kadar Bakanlıkça uzatılabilir. Ancak SBYS hizmet sağlayıcısı KTS’de aktif
+listeye geçinceye kadar yeni bir sağlık hizmeti sunucusunda hizmet veremez.
+(5) KTS’den silinen SBYS hizmeti sağlayıcısının
+KTS’ye yeniden kaydına ilişkin işlemler, 6 ncı maddede öngörülen hükümlere
+uygun olarak yürütülür.
+(6) SBYS hizmeti sağlayıcısının KTS’de pasif
+listeye alınması veya KTS’den silinmesi hâlinde faaliyet göstermekte olduğu
+sağlık hizmeti sunucularının bağlı bulunduğu il sağlık müdürlüklerine Genel
+Müdürlük tarafından bildirim yapılır.
+KTS yetki
+belgesi
+MADDE 9- (1) Aktif listede yer alan SBYS hizmeti
+sağlayıcısının isteği üzerine KTS yetki belgesi düzenlenir. Üzerinde
+geçerlilik süresi bulunmayan veya doğrulanabilir nitelikte olmayan KTS
+yetki belgesi geçersiz sayılır.
+(2) SBYS hizmeti sağlayıcısı olmayıp, herhangi bir
+SBYS hizmeti sağlayıcısının izni ile SBYS’yi ticari faaliyetlerine konu
+eden gerçek ve tüzel kişilere KTS yetki belgesi verilmez.
+ÜÇÜNCÜ BÖLÜM
+SBYS Hizmeti Alımı ve Kamu Hastaneleri Bilişim
+Süreçleri
+SBYS
+hizmeti alımı süreçleri
+MADDE 10- (1) İdare, SBYS hizmeti alımı süreçlerini Genel
+Müdürlük tarafından internet sitesinde yayımlanan Sağlık Bilgi Yönetim
+Sistemi Alım Kılavuzuna göre yürütür. İdareler, bu kılavuz ile çelişmeyen
+hükümleri şartnamelere veya yöntem beyanı dokümanına ekleyebilir.
+(2) İdare tarafından SBYS hizmeti alımı
+süreçlerinde kullanılacak teknik şartnameler veya teknik dokümanlar, Genel
+Müdürlükçe Sağlık Bilgi Yönetim Sistemi Alım Kılavuzuna göre oluşturulan
+Alım Kılavuzu Sihirbazı üzerinden hazırlanır. İdare, Alım Kılavuzunda yer
+alan hükümler ile çelişmeyen isteklerine özel hükümler başlığı altında yer
+verir.
+(3) İdare, 4734 sayılı Kanunun 38 inci maddesinin
+dördüncü fıkrası kapsamında SBYS hizmeti sağlayıcısından KTS yetki
+belgesini ibraz etmesini ister. İdare; 4/3/2009
+tarihli ve 27159 mükerrer sayılı Resmî Gazete’de yayımlanan Hizmet Alımı
+İhaleleri Uygulama Yönetmeliğinin Ek-2’sinde yer alan Açık İhale Usulü ile
+İhale Edilen Hizmet Alımlarında Uygulanacak Tip İdari Şartnamenin 7.1
+maddesinin (h) bendi uyarınca düzenlenecek idari şartnamenin 7.1 maddesinin
+(h) bendinde, KTS yetki belgesini ister. Birden fazla SBYS hizmeti
+alımlarında iş, meri mevzuat hükümleri kapsamında kısmi teklife açılabilir.
+SBYS hizmeti sağlayıcısı alt yüklenicilerle de teklif sunabilir ancak SBYS
+hizmeti sağlayıcısı olan alt yüklenicilerin her birinin KTS’de kayıtlı
+olması ve KTS yetki belgesi sunması zorunludur.
+(4) SBYS hizmeti alımı süreçlerinde alımı yapılacak
+her SBYS için ayrı KTS yetki belgesi istenir. SBYS hizmeti alımı
+süreçlerinde alımı yapılacak olan SBYS’lerden herhangi birini alt
+yüklenicinin sağlayacak olması hâlinde, alt yüklenici tarafından temin edilecek
+olan SBYS için de KTS yetki belgesi istenir.
+(5) SBYS hizmeti alıcısı, SBYS hizmeti sağlayıcısı
+tarafından sunulan KTS yetki belgesinin geçerliliğini kontrol eder.
+(6) Kit karşılığı laboratuvar cihazı alımı veya
+rapor okuma hizmeti alımı gibi ana hizmetin SBYS olmadığı ancak hizmetin
+unsurunun bir parçasının SBYS hizmeti olduğu durumlarda ana yükleniciden
+KTS yetki belgesi istenmez. Ancak hizmete ait sözleşme işlemleri esnasında
+ilgili SBYS hizmeti sağlayıcısına ait KTS yetki belgesi SBYS hizmeti
+alıcısına sunulur. KTS’ye kayıtlı olmayan SBYS hizmeti sağlayıcıları bu
+hizmetler için alt yüklenici olarak çalıştırılamaz veya bunlar tarafından
+geliştirilen yazılımlar bu hizmetlerde kullanılamaz.
+(7) Veri Tabanı Yönetim Sistemi (VTYS) için açık
+kaynak kodlu VTYS tercih edilebilir, bu konuda sorumluluk tamamen SBYS
+hizmeti sağlayıcısına aittir.
+(8) VTYS’nin açık kaynak kodlu olması durumunda
+lisans ile ilgili ibareler dikkate alınmaz.
+(9) SBYS hizmeti sağlayıcısı tarafından temin
+edilen SBYS yazılımının çalışabildiği VTYS altyapısının İdarenin sahip
+olduğu VTYS’den farklı bir VTYS olması durumunda gereken VTYS lisansları
+SBYS hizmeti sağlayıcısı tarafından temin edilir.
+(10) VTYS için gerekecek diğer her türlü lisans
+sözleşme süresince SBYS hizmeti sağlayıcısı tarafından İdare adına
+lisanslandırılmalı ve her türlü lisans İdarenin kendi şartnamelerinde
+belirtilen süreler içerisinde İdareye teslim edilmelidir.
+(11) VTYS’nin performansından SBYS hizmeti
+sağlayıcısı sorumludur.
+Kamu
+hastaneleri bilişim süreçleri
+MADDE 11- (1) Kamu hastanelerinde, birimlerin talepleri
+doğrultusunda SBYS’lerde yapılacak iyileştirme, güncelleme ve ek
+geliştirmelerin tıbbi, idari ve teknik açılardan değerlendirilmesi için
+hastanelerde, yazılım geliştirme süreçlerini SBYS hizmeti sağlayıcısı ile
+birlikte yönetmek üzere Talep Değerlendirme Komisyonu oluşturulur.
+(2) Talep Değerlendirme Komisyonunda; gelen
+talepleri tıbbi açıdan değerlendirmek üzere başhekim veya yardımcısı, idari
+açıdan değerlendirmek üzere hastane müdürü veya yardımcısı, bakım hizmetleri
+müdürü veya yardımcısı, bilgi işlem sorumlusu ile İdare tarafından
+belirlenen diğer çalışanlar yer alır. Komisyona ilgili SBYS hizmeti
+sağlayıcısından da katılım sağlanır ve geliştirme süreçleri birlikte
+değerlendirilir. İhtiyaç olması hâlinde bu komisyonlara, hastanenin bağlı
+bulunduğu il sağlık müdürlüğü bünyesindeki teknik personelden görevlendirme
+yapılır. Tüm ili kapsayan SBYS hizmeti alımlarında Talep Değerlendirme
+Komisyonu ilgili il sağlık müdürlüğünün bünyesinde kurulabilir.
+(3) Talep Değerlendirme Komisyonu; İdarenin
+belirleyeceği tarihlerde toplanarak SBYS hizmeti sağlayıcısına iletilecek
+talepleri değerlendirir. Komisyon, teknik şartnamede yer alan ve modüller kapsamında kalmak kaydıyla yapılmasına karar
+verilen talepleri önemine göre sıralar, taleplerin yerine getirilmesi için
+ortak ve makul bir süre belirleyerek SBYS hizmeti sağlayıcısına iletir.
+Komisyondan geçmeyen talepler SBYS hizmeti sağlayıcısına gönderilemez ve
+SBYS hizmeti sağlayıcısı yükümlülük altına sokulamaz.
+(4) İdare, bilgi işlem ile ilgili temel konular
+hakkında bilgi sahibi olan bir personeli bilgi işlem sorumlusu olarak
+görevlendirir. Bilgi işlem sorumlusu, görev yaptığı yerde sağlık bilgi
+sistemlerine ilişkin tüm süreçleri takip eder, gerekli iş ve işlemleri
+yerine getirir. Bilgi işlem sorumlusu olarak görevlendirilen personel
+mümkün olduğu kadar başka birimlerde çalıştırılmaz. Bilgi işlem
+sorumlusunun görevleri, hizmet kıstasları, birimin fiziki şartları ve genel
+işleyişi Genel Müdürlük tarafından belirlenir.
+(5) İdare, mevcut donanım ve yerel ağ cihazlarının
+kesintisiz çalıştırılabilmesi için gerekli olan bakım, onarım ve teknik
+destek hizmetleri ile ek donanımı temin eder.
+(6) İdare, kendisine verilen son yedek üzerinde
+veri kurtarma testi yapmasını SBYS hizmeti sağlayıcısından ister ve gerekli
+kontrolleri sağlar.
+DÖRDÜNCÜ BÖLÜM
+Standartlar ve Entegrasyon, Görüntüleme, Veri
+Modeli, Verinin Teslimi ve Aktarımı,
+Veri Yedekleme ve Arşivleme
+Standartlar
+ve entegrasyon
+MADDE 12- (1) Genel Müdürlük tarafından kullanımına karar
+verilen bilişim standartları ve veri gönderiminde dikkat edilecek hususlar
+Genel Müdürlüğün internet sitesinde yayımlanır ve gerektiğinde güncellenir.
+(2) SBYS’ler, sağlık hizmeti sunucularının entegrasyona uygun cihazlarına, sistemlerine ve
+Bakanlıkça geliştirilen diğer sistemlere uyum sağlar.
+(3) İdare, SBYS hizmeti alımı dokümanlarında veya
+sözleşmelerinde entegre edilecek sistem ve
+cihazların listesini tanımlar. Hizmet alımına ilişkin dokümanlarda veya sözleşmelerde
+önceden tanımlanmayan sistem ve cihazlar hariç olmak üzere Bakanlıkça
+geliştirilen sistemlere entegrasyon için İdareden
+bedel talep edilemez. Kamu özel iş birliği modeli ile işletilen
+hastanelerde faaliyet gösteren SBYS hizmeti sağlayıcıları, sözleşmede aksi
+belirtilmedikçe İdareden sistem ve cihaz entegrasyonları
+için ücret talep edemez.
+(4) Entegrasyon yapılacak sistemler ile cihazlara
+ait puantaj tablosu Genel Müdürlüğün internet sitesinde yayımlanır ve her
+altı ayda bir güncellenir. Sistem ve cihaz entegrasyon
+ücreti, puantaj tablosunda belirtilen puan ile katsayının çarpımı sonucunda
+bulunan tutarı geçemez.
+(5) Cihaz entegrasyon
+katsayısı Genel Müdürlükçe belirlenir ve Genel Müdürlüğün internet
+sitesinde yayımlanır.
+(6) Entegrasyonlar sağlık hizmeti sunumunu
+aksatmayacak şekilde yapılır. Sağlık hizmeti sunumunu aksatacak olmasına
+rağmen yapılması zorunluluk arz eden değişiklik ve entegrasyon
+işleri ise SBYS hizmeti alıcısının bilgisi ve yönetiminde gerçekleştirilir.
+(7) SBYS hizmeti sağlayıcılarının sağlık hizmeti
+sunucularına ait cihazlara ve Bakanlığın veri merkezlerine erişiminin ne şekilde
+olacağına dair kurallar Genel Müdürlük tarafından belirlenir.
+(8) Entegre edilecek cihaz veya sistemlere ait entegrasyon dokümanları İdare tarafından SBYS hizmeti
+sağlayıcısına teslim edilir. Entegrasyon dokümanları teslim edilmeyen ve entegrasyon kabiliyeti bulunmayan cihaz veya sistemlerin
+entegrasyonu SBYS hizmeti sağlayıcısından talep edilmez.
+Görüntüleme
+MADDE 13- (1) Doğru hastaya doğru çekimin yapılabilmesi
+amacıyla PACS sistemlerinde DICOM çalışma listesi kullanılır ve tıbbi
+görüntü ile bu görüntüye ait istem bilgilerinin eşleştirilmesi sağlanır.
+SBYS hizmeti alıcısı, bu sistem kullanılmadan yapılacak hasta girişlerinin
+önüne geçmek amacıyla gerekli tedbirleri alır.
+(2) Radyoloji ve patoloji raporlarının hekim
+tarafından onaylandıktan sonra değiştirilmesi gerekirse bu değişiklikler
+yeni bir ek rapor ile sisteme kaydedilir. Onaylanmış raporlar üzerinde
+değişikliğe izin verilmeyecek şekilde gerekli düzenlemeler yapılır.
+(3) PACS sistemi kullanan sağlık hizmeti
+sunucularının Teletıp Sistemine entegre olmaları
+sağlanır. Entegrasyon takvimi ve ayrıntılı entegrasyon
+dokümanları Genel Müdürlük tarafından yayımlanır.
+Veri
+modeli, verinin teslimi ve aktarımı
+MADDE 14- (1) VEM görüntüsünün oluşturulmasında, Genel
+Müdürlükçe yayımlanan güncel VEM Kılavuzu esas alınır. VEM görüntüleri,
+sağlık hizmeti sunucusunun yerel veri tabanında bulunan ve VEM Standardının
+içerisinde yer alan tüm verileri içerecek şekilde oluşturulur. Oluşturulan
+VEM görüntülerinin kayıt sayısı ile sağlık hizmeti sunucusunun yerel veri
+tabanında VEM görüntüsü ile ilişkili tablo veya tablolarda bulunan kayıt
+sayısı tutarlı olmalıdır.
+(2) SBYS hizmeti sağlayıcısı tarafından oluşturulan
+VEM görüntüleri, Genel Müdürlükçe hazırlanan VEM Doküman ve Veri Tabanı
+Analiz Programı ile denetlenir.
+(3) Sağlık hizmeti sunucusuna özgü olup VEM
+içerisinde bulunmayan veriler için SBYS hizmeti alıcıları, ilgili veri
+tabanı sorgularını bir önceki SBYS hizmeti sağlayıcısına hazırlatır ve yeni
+başlayacak SBYS hizmeti sağlayıcısına teslim eder. Veri tabanı sorgusu ve
+sonucu olmayan veya VEM içerisinde bulunmayan verilerin aktarılması yeni
+SBYS hizmeti sağlayıcısından istenmez.
+(4) Bir önceki SBYS hizmeti sağlayıcısı, verilerin
+tamamını orijinal veri tabanı formatında VEM’e uygun görüntüleri de
+içerecek şekilde kolay ve sorunsuz okunabilir bir medya ortamında üç kopya
+halinde SBYS hizmeti alıcısına teslim eder. Teslim sırasında düzenlenecek
+olan tutanakta; varsa DVD/CD numarası, HDD seri numarası gibi ilgili medya
+ortamını tanımlayan işaretler, dosyaların boyutu ve oluşturulma tarihi, her
+bir tablodaki kayıt sayılarını gösteren bir doküman, dosyaları teslim eden
+SBYS yetkilisi ile teslim alan SBYS hizmeti alıcısı yetkilisinin bilgileri
+yer alır.
+(5) SBYS hizmeti alıcısı, geçmiş yıllarda
+kullanılan SBYS’lerde bulunan ve bu SBYS’leri ayrı ayrı açarak ulaşabildiği
+verilerin tamamının SBYS’ye aktarımını, mevcut SBYS hizmet sağlayıcısından
+teknik destek alarak yapar. Bunun için gerekli olan veri tabanı yönetim
+sistemi erişim bilgileri, VEM görüntüsünü de içerecek şekilde SBYS hizmeti
+alıcısı tarafından temin edilir.
+(6) PACS sistemlerinde oluşan görüntüler orijinal
+DICOM formatı veya kayıpsız JPEG formatında SBYS hizmeti alıcısına teslim
+edilir veya onun göstereceği ortamlara yüklenir. Önceki SBYS hizmeti
+sağlayıcısının sıkıştırma formatı kullanmış olması hâlinde; görüntüleri
+açmak için gerekli olan üçüncü parti yazılım bileşenleri, bu bileşenlerin
+veri aktarımı için öngörülen sürenin sonuna kadar gerekli olan lisansları
+ve bunların nasıl kullanılacağına dair dokümanlar, SBYS hizmeti alıcısına
+teslim edilir.
+(7) İdare, sistemlerindeki geçmiş yıllara ait
+verilerin VEM görüntülerini elde edememesi hâlinde, verilerin VEM görüntüsü
+biçimine dönüştürülmesi için herhangi bir SBYS hizmeti sağlayıcısından
+hizmet alımı yapabilir. Bu hizmet alımı kapsamında idare tarafından VEM
+görüntüsü için ödenecek hizmet bedeli, mevcut SBYS hizmeti sağlayıcısına
+ödenen aylık SBYS hizmeti bedelinin veya demirbaşa kayıtlı yazılımlar için
+ödenen aylık bakım destek bedelinin yüzde yirmisini geçemez. Bu bedelin
+hesaplanmasında personel ve donanım maliyetleri dâhil edilmez.
+(8) Veri aktarımı ile veri modelinin
+oluşturulmasında SBYS’lerin yetkinliğini test etmek için Genel Müdürlük
+tarafından internet sitesinde duyurulan tarihlerde Veri Aktarımı Teknik
+Yetkinlik Testi yapılır. Bu teste katılarak VEM’e göre kendi veri modelini
+oluşturan ve teslim edilen örnek veriler için başarılı bir şekilde aktarım
+sağlayan SBYS hizmeti sağlayıcılarına bir yıl süre ile geçerli Veri
+Aktarımı Teknik Yetkinlik Belgesi verilir. Bu belgeyi almaya hak kazanan
+SBYS hizmeti sağlayıcıları, hizmet alımı süreçlerinde veri aktarımı ve
+teslimiyle ilgili olarak yazılımları için kendilerinden demonstrasyon
+istenilmesi durumunda demonstrasyonun bu bölümünden başarıyla geçmiş
+sayılır. Veri Aktarımı Teknik Yetkinlik Belgesine sahip SBYS hizmeti
+sağlayıcılarına ait SBYS’lerin işlevselliğine yönelik demonstrasyon
+çalışmaları, örnek veri formatları veya SBYS hizmeti sağlayıcısı tarafından
+oluşturulmuş örnek veri yapısı üzerinden yapılır.
+(9) Karar Destek Sistemleri gibi sistemlerde analiz
+amaçlı veri sorgulamaları VEM üzerinden yapılabilir. Buna istinaden VEM
+görüntüleri içerisinde yer almayan ancak eklenmesi istenilen veriler
+gerekçeleriyle birlikte Genel Müdürlüğe iletilir, gerekli ve yeterli
+bulunması halinde Genel Müdürlükçe bir sonraki VEM sürümüne eklenir. İdare,
+SBYS hizmeti sağlayıcılarından bu amaçla herhangi bir web servis veya
+farklı bir ortama veri gönderimi talebinde bulunmaz.
+(10) SBYS hizmeti sağlayıcısından VEM dışında
+herhangi bir görüntü oluşturması istenmez ancak gerekli durumlarda
+güvenlik, gizlilik ve performans gibi hususlar gözetilmek suretiyle ihtiyaç
+duyulması halinde SBYS hizmeti sağlayıcısı tarafından SBYS hizmeti
+alıcısına VEM üzerinden sadece verileri okuma yetkisi verilir. Eksikliği
+saptanan veriler için yeni VEM görüntüsü istekleri ise Genel Müdürlüğe
+iletilir.
+(11) Sağlık hizmeti sunucusunda faaliyet
+göstermekte olan SBYS hizmeti sağlayıcısının herhangi bir sebeple değişmesi
+durumunda veri aktarımı için analiz verisi SBYS hizmeti alıcısı tarafından
+yeni SBYS hizmeti sağlayıcısına teslim edilir ve VEM standardına göre veri
+aktarımının yapılması sağlanır. Aktarılan verilere görüntüleyici ya da
+benzeri araçlardan değil veri tabanından bütünlüğü bozmadan doğrudan SBYS
+uygulaması üzerinden ulaşılabilmelidir.
+VEM’e uygun olarak hazırlanan verilerin aktarımında, Genel
+Müdürlükçe belirlenerek her VEM sürümünde yayımlanan sürelere riayet edilir.
+Hastanın geçmiş sağlık verisine ihtiyaç duyulması durumunda yeni SBYS
+hizmeti sağlayıcısı, ilgili kayıtlara en kısa süre içerisinde erişir ve
+gerekli aktarımı en kısa sürede sağlar.
+(12) AHBS hizmeti alımı ve değişiklik süreçlerinde
+önceki AHBS hizmeti sağlayıcısı, aile hekiminin kullanımı ve hizmetin
+sürekliliği için VEM görüntülerini içeren veri tabanı yedeğini oluşturmakla
+yükümlüdür. İlgili veri tabanı yedeği, taşınabilir ortamda imza
+karşılığında aile hekimine teslim edilir.
+(13) Aile hekiminin herhangi bir gerekçe ile
+görevden ayrılması veya yer değiştirmesi durumunda önceki aile hekimi
+tarafından VEM görüntülerini içeren veri tabanı yedeği AHBS vasıtası ile
+alınır ve taşınabilir ortamda imza karşılığında il veya ilçe sağlık
+müdürlüğüne teslim edilir. Bu sürecin sonunda aile hekimi, kendi
+bilgisayarında hastalara ilişkin bulunan tüm verileri güvenli bir şekilde
+yok eder.
+(14) VEM’de yapılacak sürüm değişikliklerine Genel
+Müdürlüğün internet sitesinden erişim sağlanır. SBYS hizmeti sağlayıcısı,
+VEM yeni sürümünün yayımlanarak duyurulmasından itibaren en geç iki ay
+içerisinde sisteminde gerekli güncellemeleri yapar.
+(15) SBYS hizmeti sağlayıcısı tarafından Bakanlığın
+ve Sosyal Güvenlik Kurumunun merkezi sistemlerine veri gönderimi
+yapılırken, SBYS hizmeti sağlayıcısına verilen yazılım erişim kodu kontrolü
+ve SBYS hizmeti sağlayıcısı ile sağlık hizmeti sunucusu eşleştirme kontrolü
+yapılır.
+(16) SBYS hizmeti alıcısına ait yedeklerin ve/veya
+güncel VEM sürümüne uygun görüntülerin aktarılması için Bakanlık tarafından
+altyapı hazırlanması durumunda yedekler ve/veya VEM görüntüleri Bakanlığa
+aktarılır.
+Veri
+yedekleme ve arşivleme
+MADDE 15- (1) SBYS hizmeti sağlayıcısı, SBYS’ye ait veri
+tabanı yedeklerini düzenli olarak alır ve bu yedekleri; SBYS hizmeti
+alıcısının ortamlarına veya Bakanlığın belirlediği ortamlara ya da her
+ikisine kaydeder. Bu yedekler içerisinde VEM’e uygun oluşturulan görüntüler
+de yer alır. SBYS hizmeti alıcısı, yedeklerin düzenli olarak alındığını
+kontrol eder. AHBS yazılımları için veri tabanı yedeği, Bakanlık tarafından
+herhangi bir barındırma hizmeti sunulana kadar AHBS yazılımı aracılığı ile
+aile hekimi tarafından günlük olarak alınır ve veri güvenliği yine aile
+hekimi tarafından sağlanır.
+(2) Yedeklenen verilerin orijinal verileri
+yansıtması ve başarılı bir şekilde yedeklenip yedeklenmediğinden emin
+olunması için SBYS hizmeti sağlayıcısı tarafından en az altı ayda bir defa
+geri dönüş testi yapılır ve test sonuçları tutanak ile kayıt altına alınır.
+Tutanakta SBYS hizmeti alıcısının temsilcisine ait imza da bulunur. Geri
+dönüş testi için gerekli olan donanım ve lisans maliyeti SBYS hizmeti
+alıcısı tarafından karşılanır. AHBS için geri dönüş testleri, Genel
+Müdürlük tarafından da yapılabilir.
+(3) Alınan yedeklerin bir kopyası, uygun ortamın
+sağlanması durumunda ilgili SBYS hizmeti alıcısının belirlediği farklı bir
+fiziksel lokasyona aktarılır.
+BEŞİNCİ BÖLÜM
+Gizlilik, İz Kayıtları, Denetim ve Yaptırım
+Gizlilik
+MADDE 16- (1) Sağlık hizmeti sunumu kapsamında işlenen
+kişisel veriler bakımından SBYS hizmeti sağlayıcısı veri işleyen sıfatını
+haiz olup, kişisel veri koruma mevzuatında öngörülen ilgili yükümlülükleri
+yerine getirir.
+(2) Sağlık hizmeti sunumu ve ilgili süreçler kapsamında
+elde edilen veriler; sağlık hizmeti sunucularının veri kayıt ortamları,
+Bakanlığın merkezi sağlık veri sistemleri veya Genel Müdürlüğün onayladığı
+diğer veri kayıt ortamları haricinde hiçbir yere kaydedilemez ve
+aktarılamaz.
+(3) Kişisel sağlık verilerinin muhafaza edileceği
+veri ortamları, talep üzerine Genel Müdürlük tarafından kurulan bir
+komisyon marifeti ile uzaktan ya da yerinde denetlenir ve onaylanır.
+Veriler yalnızca yurt içinde ve güvenli bir şekilde muhafaza edilir.
+(4) Ülke dışında hizmet veren sağlık kuruluşlarında
+ise hizmet verilen yerdeki düzenlemeler çerçevesinde işlem tesis edilir.
+(5) Kişisel veriler, ancak SBYS hizmeti alıcısı
+tarafından anonim hale getirilebilir. SBYS hizmeti alıcısı veya Bakanlığın
+izni olmaksızın kişisel veriler, SBYS hizmeti sağlayıcısı tarafından anonim
+hale getirilemez. Kişisel verilerin, SBYS hizmeti sağlayıcısı tarafından
+anonim hale getirilerek farklı amaçlarla işlendiğinin tespiti halinde başta
+24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin
+Korunması Kanunu ve 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu olmak
+üzere ilgili mevzuat hükümleri çerçevesinde işlem tesis edilir.
+Olay ve
+iz kayıtları
+MADDE 17- (1) SBYS hizmeti
+sağlayıcısı, herhangi bir bilgi güvenliği ihlal olayı oluştuğunda geriye
+dönük inceleme yapılmasını sağlamak üzere SBYS’lerde, SBYS verilerinin
+saklandığı veri tabanı ortamlarında ve SBYS’lerin sözleşme kapsamında
+sunulan hizmetlere ilişkin sorumluluk alanında bulunan yazılım ve donanım
+bileşenlerinde üretilen olay ve iz kayıtlarını saklamak üzere gerekli
+tedbirleri alır. SBYS hizmeti
+alıcısı, SAMİLOG kayıtlarını en az beş yıl, diğer kayıtları ise en az iki
+yıl süre ile kendi sunucularında saklar. AHBS’lerin SAMİLOG kayıtları ise
+AHBS üzerinden değiştirilemez şekilde veri tabanında saklanır.
+(2) Olay ve iz kayıtları asgari olarak aşağıdaki
+hususları içerir:
+a) SAMİLOG gereği oluşturulan kayıtları.
+b) Veri tabanı seviyesindeki kullanıcılar tarafından
+yapılan veri ekleme, veri silme, veri güncelleme ve veri tabanı nesneleri
+üzerinde yapılan tüm değişiklikleri.
+(3) SBYS hizmeti alıcısı tarafından sistemde
+kullanılan yazılım ve donanımların imkân ve kabiliyetleri doğrultusunda
+daha kapsamlı olay ve iz kaydı tutulmasının talep edilmesi halinde, bu
+maksatla ihtiyaç duyulan kaynaklar SBYS hizmeti alıcısı tarafından
+sağlanır.
+(4) Olay ve iz kaydı üreten tüm sistemler, sistem
+genelinde tutarlı bir zaman bilgisi oluşturulması maksadıyla SBYS hizmeti
+alıcısı tarafından sağlanacak bir zaman sunucusu aracılığı ile senkronize
+edilir.
+(5) Olay ve iz kayıtları; yetkisiz erişim, silinme
+ve değiştirmeye karşı korunur. Üretilen olay ve iz kayıtları, Türkiye’de
+yerleşik nitelikli elektronik sertifika hizmet sağlayıcıları tarafından
+veya Genel Müdürlük tarafından sunulan nitelikli zaman damgası ile
+imzalanmak suretiyle saklanır.
+Denetim
+MADDE 18- (1) Bakanlık, mevzuat hükümleri kapsamında resen
+veya şikâyet üzerine SBYS hizmeti sağlayıcısını denetleyebilir ya da
+denetletebilir. Yapılacak olan denetim, SBYS hizmeti sağlayıcısının
+sorumluluğu ile verdiği hizmetin kapsamı dışına çıkamaz.
+(2) Bakanlık veya il sağlık müdürlükleri bünyesinde
+izleme denetleme ekipleri kurulabilir veya denetim faaliyetleri için
+görevlendirmeler yapılabilir.
+(3) Uzaktan ya da yerinde yapılacak SBYS
+denetimlerinde aşağıdaki konular hakkında denetleme yapılır:
+a) SBYS’nin varlığı ve tekilliği.
+b) Genel Müdürlük tarafından belirlenen iş
+akışlarına ve iş kurallarına uyumu.
+c) Bakanlık merkezi veri sistemlerine entegrasyon ile veri gönderimi.
+ç) Genel Müdürlük tarafından belirlenen
+standartlara uyumu.
+d) Güncel VEM sürümüne uyumu ve veri aktarım
+kabiliyeti.
+e) SBYS hizmeti sağlayıcısının KTS’ye kayıt durumu.
+f) Kişisel verilerin korunması mevzuatı ile bilgi
+güvenliği düzenlemelerine uyumu.
+(4) Bakanlık gerekli gördüğü durumlarda SBYS’ler
+için güvenlik ve sızma testlerini yapar veya yaptırır.
+Yaptırım
+MADDE 19- (1) SBYS hizmeti alıcısı; KTS’den silinen veya
+pasif listeye alınan SBYS hizmeti sağlayıcısına, aralarında imzalanan
+sözleşme hükümleri çerçevesinde yaptırım uygular.
+(2) SBYS hizmeti sağlayıcısı veya alıcısı
+tarafından yasal düzenlemelerin ihlâli halinde ilgili mevzuat hükümleri
+çerçevesinde gerekli işlemler tesis edilir.
+ALTINCI BÖLÜM
+Yetkinlik Puanı
+Yetkinlik
+puanı
+MADDE 20- (1) SBYS hizmeti sağlayıcısı, sağlık hizmeti
+sunumunun daha kaliteli, kesintisiz ve sağlıklı yürütülmesi amacı ile
+değerlendirilir.
+(2) SBYS hizmeti sağlayıcısının Genel Yetkinlik
+Puanı, Genel Müdürlüğün internet sayfasında yayımlanır. Genel Yetkinlik Puanının
+hesaplanmasında aşağıdaki kurallar geçerlidir:
+a) SBYS hizmeti sağlayıcısına ait Genel Yetkinlik
+Puanı hesaplanırken, Personel Kapasite Puanı ve Teknik Değerlendirme Puanı
+olmak üzere iki ölçüt dikkate alınır.
+b) Genel Yetkinlik Puanı; Personel Kapasite Puanı
+ve Teknik Değerlendirme Puanının Genel Müdürlükçe belirlenen ağırlıklı
+ortalaması alınarak bulunur.
+(3) SBYS hizmeti sağlayıcısının personel
+yetkinliklerini gösteren Personel Kapasite Skorlama Ölçeği Genel Müdürlüğün
+internet sitesinde yayımlanır ve Personel Kapasite Puanı bu Ölçeğe göre
+hesaplanır.
+(4) SBYS hizmeti sağlayıcısı, Genel Müdürlük
+tarafından belirlenen kriterlere uygunluğunun
+tespiti amacı ile her bir SBYS için ayrı ayrı teknik değerlendirmeye tâbi
+tutulur ve yapılan değerlendirme sonucunda Teknik Değerlendirme Puanı
+verilir. Teknik Değerlendirme Puanının hesaplanmasında aşağıdaki kurallar
+esas alınır:
+a) SBYS hizmeti sağlayıcısının çalıştığı en az üç
+farklı sağlık hizmeti sunucusunda her yıl en az bir kez teknik
+değerlendirme yapılır. SBYS hizmeti sağlayıcısının üçten daha az sağlık
+hizmeti sunucusunda faaliyet göstermesi hâlinde teknik değerlendirme
+yalnızca ilgili sağlık hizmeti sunucularında yapılır.
+b) Teknik değerlendirme, ilgili SBYS hizmeti
+sağlayıcısının faaliyet gösterdiği farklı illerdeki sağlık hizmeti
+sunucularında yapılır. Yalnızca tek bir ilde faaliyet gösteren SBYS hizmeti
+sağlayıcısının değerlendirmesi o ilde yapılır.
+c) Teknik değerlendirmenin yapılacağı sağlık
+hizmeti sunucuları, SBYS hizmeti sağlayıcısının en az altı aydır faaliyet
+gösterdiği sağlık hizmeti sunucuları arasından seçilir.
+ç) Teknik değerlendirmeler, Genel Müdürlük
+personeli tarafından yapılabileceği gibi Genel Müdürlüğün görevlendirmesi
+ile illerde bilişim alanında görev yapan personel tarafından da yapılabilir.
+Teknik değerlendirmeler, değerlendirme yapılacak olan sağlık hizmeti
+sunucusunun bulunduğu ilde görev yapan personel tarafından yapılamaz.
+d) Teknik değerlendirme kriterleri,
+sağlık hizmeti sunucularında yapılacak yıllık denetimler başlamadan en az
+bir ay önce Genel Müdürlük tarafından internet sitesinde yayımlanır ve
+gerektiği durumlarda güncellenir.
+(5) Açık kaynak kodlu veya lisans gerektirmeyen
+veri tabanı kullanan SBYS hizmeti sağlayıcılarının Genel Yetkinlik Puanı %5
+oranında artırılır.
+(6) Açık kaynak kodlu veya lisans gerektirmeyen
+işletim sistemi kullanan SBYS hizmeti sağlayıcılarının Genel Yetkinlik
+Puanı %5 oranında artırılır.
+YEDİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Anlaşmazlıkların
+halli
+MADDE 21- (1) Veri aktarımlarında yaşanan anlaşmazlıklar,
+ilgili SBYS hizmeti alıcısının hakemliğinde eski ve yeni SBYS hizmeti
+sağlayıcısı bir araya getirilerek çözümlenir. Anlaşmazlığın tarafları,
+anlaşmazlığın çözümü için SBYS hizmeti alıcısı tarafından belirlenen
+sürelere riayet eder. Çözüm sağlanamaması durumunda sözleşmeler ve ilgili
+mevzuat uyarınca gerekli süreçler işletilir.
+(2) Bu Yönetmeliğin uygulanması sırasında doğacak
+tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye ve uygulamayı
+yönlendirmeye, ilke ve standartları belirlemeye ve uygulama birliğini
+sağlayacak gerekli düzenlemeleri yapmaya, bu hususta gerekli her türlü
+bilgi ve belgeyi istemeye, bu Yönetmelikte yer almayan konularda ilgili
+mevzuat hükümleri çerçevesinde karar vermeye Genel Müdürlük yetkilidir.
+Geçiş
+hükmü
+GEÇİCİ
+MADDE 1- (1) Alım Kılavuzu
+Sihirbazı Genel Müdürlükçe oluşturularak kullanıma açılana kadar, SBYS
+hizmeti alımı süreçleri kapsamında hazırlanan şartname ve dokümanlar,
+ilgili mevzuat hükümleri uyarınca herhangi bir yazılım desteği olmaksızın
+hazırlanır.
+Yürürlük
+MADDE 22- (1) Bu Yönetmeliğin;
+a) 17 nci maddesi yayımı tarihinden 12 ay sonra,
+b) 20 nci maddesi yayımı tarihinden 20 ay sonra,
+c) Diğer hükümleri ise yayımı tarihinde,
+yürürlüğe girer.
+Yürütme
+MADDE 23- (1) Bu Yönetmelik hükümlerini Sağlık Bakanı
+yürütür.
