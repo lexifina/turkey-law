@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11137",
+  "decision_date": "2022-08-25",
+  "title": "Selçuk Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-08-27",
+  "resmi_gazete_number": "31936",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DUEczX3FbMY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DUEczX3FbMY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=9rKafLnlJh0="
+  ],
+  "source_sha256": "34d16a94d08de030671937e471e4916951be0f3f99158c01ecea591ac3317387",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-08-25",
+  "law_text_complete": true
+}
