@@ -1,0 +1,29 @@
+{
+  "source_id": "9.5.39680",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EMLAK VERGİSİ KANUNU GENEL TEBLİĞİ (SERİ NO: 81)",
+  "number": "39680",
+  "path": "teblig/2022/39680",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39680&MevzuatTertip=5",
+  "source_sha256": "6427ff6f9b064646f84a81e61632b6f87d24918f5a1e12de0d64ae3784ae6bf0",
+  "source_bytes": 8602,
+  "published": "2022-08-25",
+  "gazette": "31934",
+  "in_force": "2022-08-25",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (25.08.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 140,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.39680%20EK.xlsx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
