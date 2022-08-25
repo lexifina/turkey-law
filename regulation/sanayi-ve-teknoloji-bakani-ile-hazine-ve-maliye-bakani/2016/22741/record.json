@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.22741",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİNE İLİŞKİN UYGULAMA VE DENETİM YÖNETMELİĞİ",
+  "number": "22741",
+  "issuer": "Sanayi ve Teknoloji Bakanı ile Hazine ve Maliye Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani-ile-hazine-ve-maliye-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani-ile-hazine-ve-maliye-bakani/2016/22741",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=22741&MevzuatTertip=5",
+  "source_sha256": "604ba4b2a40afedcf01b9879814018497115043e97c82c8c4e8466a6d2f663d0",
+  "source_bytes": 192648,
+  "published": "2016-08-10",
+  "gazette": "29797",
+  "in_force": "2022-08-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/8/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-08-25",
+      "RG-25/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-25",
+      "25/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-12-02",
+      "RG-2/12/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-12-02",
+      "2/12/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2017-02-14",
+      "RG-14/2/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-02-14",
+      "14/2/2017",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 1/3/2016 tarihinden itibaren geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12577,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
