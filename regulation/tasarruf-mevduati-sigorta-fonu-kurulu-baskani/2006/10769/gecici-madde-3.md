@@ -1,0 +1,3 @@
+Yeni Derecelendirme Notlarının Geçerli Olacağı Dönem
+GEÇİCİ MADDE 3 – (Ek:RG-26/6/2013-28689)
+(1) Bu Yönetmeliğin ekinde yer alan Ek-3’ün “Diğer Risk Faktörleri” başlıklı 5 inci bölümünün “Bankacılık Düzenleme ve Denetleme Kurumu’nun Derecelendirme Notu” başlıklı 5.1. maddesindeki tabloda belirtilen derecelendirme notları Bankacılık Düzenleme ve Denetleme Kurumu tarafından Fona bildirilinceye kadar, mevcut derecelendirme notları ve puanları uygulamaya devam edilir. Bankacılık Düzenleme ve Denetleme Kurumu tarafından yeni tabloya göre verilen derecelendirme notları, Fona bildirilmesini müteakip ilgili olduğu dönemden geçerli olmak üzere uygulanır.

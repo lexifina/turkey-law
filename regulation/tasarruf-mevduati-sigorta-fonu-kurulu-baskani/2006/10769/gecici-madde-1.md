@@ -1,0 +1,2 @@
+Birleşme ve devirlerde prim yükümlülüğü indirimi
+GEÇİCİ MADDE 1 – (1) 1/11/2006 tarihli ve 26333 sayılı Resmî Gazete’de yayımlanan Bankaların Birleşme, Devir, Bölünme ve Hisse Değişimi Hakkında Yönetmelik ile yürürlükten kaldırılan 27/6/2001 tarihli ve 24445 sayılı Resmî Gazete’de yayımlanan Bankaların Birleşme ve Devirleri Hakkında Yönetmeliğin 18 inci maddesinin birinci fıkrasının (b) bendi çerçevesinde elde edilmiş sigorta prim yükümlülüğü indirim hakları saklıdır.
