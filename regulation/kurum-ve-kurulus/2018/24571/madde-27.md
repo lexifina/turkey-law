@@ -1,0 +1,21 @@
+İlanlarda bulunması gerekli hususlar
+MADDE 27 – (1) İhale ilanlarında aşağıdaki hususların belirtilmesi zorunludur:
+a) Şirketin adı, adresi, telefon ve faks numarası, gerekli ise elektronik posta ve internet adresi,
+b) Alım konusu işin ihale kayıt numarası,
+c) Alım konusu işin adı, niteliği, türü ile alınacak iş kalemlerinin varsa kodu,
+ç) Alım konusu işin, önceden belirlenebilir mahiyette ise miktarı, değilse yaklaşık miktarı, çerçeve anlaşma tesisi ihalelerinde tahmin edilen miktarı,
+d) Mal alımı ihalelerinde teslim yeri, hizmet alımı ve yapım ihalelerinde ise işin yapılacağı yeri,
+e) Teslim veya iş süresi,
+f) Uygulanacak ihale usulü, ihaleye katılabilme şartları, tekliflerin verilmesinde ve sözleşme imzalanması esnasında istenilen belgelerin neler olduğu,
+g) İhalenin sadece yerli isteklilere açık olup olmadığı ve yerli istekliler lehine fiyat avantajı uygulanıp uygulanmayacağı,
+ğ) İhale dokümanının nerede görülebileceği ve hangi bedelle alınacağı,
+h) İhalenin nerede, hangi tarih ve saatte yapılacağı,
+ı) Tekliflerin ihale saatine kadar nereye verileceği,
+i) Teklif ve sözleşme türü,
+j) Teklif ve ödemeye esas para birimi,
+k) Kısmi teklif verilip verilemeyeceği,
+l) Alternatif teklif verilip verilemeyeceği,
+m) Geçici teminat alınması gereken hallerde teklif edilen bedelin %3’ünden az olmamak üzere, isteklice belirlenecek tutarda geçici teminat verileceği,
+n) Tekliflerin geçerlilik süresi,
+o) İhalenin, ceza ve yasaklamalarla ilgili hususlar hariç 4734 sayılı Kanun ve 4735 sayılı Kanuna tabi olmadığı,
+ö) Gerekli görülen diğer bilgiler.

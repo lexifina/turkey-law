@@ -1,0 +1,3 @@
+Fiyat farkı verilebilmesi
+MADDE 58 – (1) Sözleşme türlerine göre fiyat farkı verilebilmesine ilişkin usul ve esaslar, şartnamelerde belirtilir.
+(2) Söz konusu usul ve esaslar, mal ve hizmet alımları için 27/6/2013 tarihli ve 2013/5216 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan 27/6/2013 tarihli ve 2013/5216 karar sayılı 4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Mal Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslar ile 27/6/2013 tarihli ve 2013/5215 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan 4734 Sayılı Kamu İhale Kanununa Göre İhale Edilen Hizmet Alımlarında Uygulanacak Fiyat Farkına İlişkin Esaslara aykırı olamaz.

@@ -1,0 +1,3 @@
+Sözleşmenin/çerçeve anlaşmanın devri
+MADDE 66 – (1) Sözleşme, zorunlu hallerde sözleşmeyi imzalamaya yetkili makamın yazılı izni alınarak başkasına devredilebilir. Ancak, devralacak olan firmalardan ilk ihaledeki şartlar aranır. Ayrıca, isim ve statü değişikliği gereği yapılan devirler hariç olmak üzere, bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde aynı yüklenici tarafından başka bir sözleşme devredilemez veya devralınamaz. İzinsiz devredilen veya devralınan veya bir sözleşmenin devredildiği tarihi takip eden üç yıl içinde devredilen veya devir alınan sözleşmeler feshedilerek, devreden ve devralanlar hakkında 4735 sayılı Kamu İhale Sözleşmeleri Kanununun ilgili maddeleri uygulanır.
+(2) Sözleşmeden doğan alacaklar Şirketin onayı olmadıkça temlik edilemez.

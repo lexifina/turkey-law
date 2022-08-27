@@ -1,0 +1,3 @@
+İhale işlem dosyası
+MADDE 25 – (1) Şirket, ihalesi yapılacak her iş için bir işlem dosyası düzenler. Bu dosyada, onay belgesi ve eki yaklaşık maliyet hesap cetveli, ihale dokümanı, yapılmışsa ilan metinleri, istekliler tarafından sunulan başvurular veya teklifler ile isteklilere yapılan bildirimlere ilişkin tebligat ve alındı belgeleri, itirazlar ve sonuçları, sözleşme sureti ve diğer belgeler ile ihale komisyonu tutanak ve kararları gibi ihale süreciyle ilgili bütün belgeler bulunur.
+(2) Gerekli incelemeyi yapmalarını sağlamak amacıyla, ilan veya daveti izleyen 3 gün içinde, sekretarya tarafından ihale komisyonu üyelerine ilan metninin bir sureti, üyenin talebi hâlinde tüm ihale dokümanının bir sureti, dosya hâlinde veya dijital ortamda verilir.

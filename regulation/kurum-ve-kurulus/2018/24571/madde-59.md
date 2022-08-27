@@ -1,0 +1,2 @@
+İş ve işyerinin sigortalanması
+MADDE 59 – (1) Tamir, bakım, tadilat, herhangi bir işleme tabi tutma gibi gayelerle yükleniciye malzeme teslim edilmesi gereken işlerde yüklenici; kendisine teslim edilen malzemelerin, özellik ve niteliklerine göre, işe başlama tarihinden kabul tarihine kadar geçen süre içinde oluşabilecek deprem, su baskını, toprak kayması, fırtına, yangın gibi doğal afetler ile hırsızlık, sabotaj gibi risklere karşı ihale dokümanında belirtilen şekilde sigorta yaptırmak zorundadır.

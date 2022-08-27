@@ -1,0 +1,2 @@
+İhalenin iptali
+MADDE 48 – (1) İhale dokümanında belirtilmiş olması kaydıyla Şirket ihaleyi herhangi bir aşamada verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. Şirket bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak, İdare isteklilerden herhangi birinin talepte bulunması halinde, ihalenin iptal edilme gerekçelerini bütün isteklilere bildirir.

@@ -1,0 +1,4 @@
+Şirketin sözleşmeyi feshetmesi
+MADDE 70 – (1) Aşağıda belirtilen hallerde Şirket sözleşmeyi/çerçeve anlaşmayı fesheder:
+a) Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme/çerçeve anlaşma hükümlerine uygun olarak yerine getirmemesi veya işi süresinde bitirmemesi üzerine, ihale dokümanında belirlenen oranda gecikme cezası uygulanmak üzere, Şirketin en az on gün süreli ve nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi,
+b) Sözleşmenin/çerçeve anlaşmanın uygulanması sırasında yüklenicinin bu Kamu İhale Kanununda yer alan yasak fiil veya davranışlarda bulunduğunun tespit edilmesi hallerinde, ayrıca protesto çekmeye gerek kalmaksızın varsa kesin teminat ve ek kesin teminatlar gelir kaydedilir ve sözleşme/çerçeve anlaşma feshedilerek hesabı genel hükümlere göre tasfiye edilir.

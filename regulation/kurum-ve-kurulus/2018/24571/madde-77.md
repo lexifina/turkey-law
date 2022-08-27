@@ -1,0 +1,3 @@
+Danışmanlık hizmeti sunucularının sorumluluğu
+MADDE 77 – (1) Danışmanlık hizmetlerinde; tasarım hatası, uygulama yanlışlığı, denetim eksikliği, hatalı yaklaşık maliyet tespiti, işlerin yürürlükteki mevzuata uygun olarak yapılmaması, meslek ahlakına uygun davranılmaması, bilgi ve deneyimin Şirketin yararına kullanılmaması ve benzeri nedenlerle meydana gelen zarar ve ziyandan hizmet sunucusu doğrudan, yapı denetimi hizmetinin sunulduğu durumda ise yapım işini üstlenen yüklenici ve alt yüklenicilerle birlikte on yıl süre ile müteselsilen sorumludur.
+(2) Bu zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir. Ayrıca haklarında 76 ncı madde hükümleri uygulanır.

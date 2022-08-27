@@ -1,0 +1,2 @@
+İade edilemeyen teminatlar
+MADDE 64 – (1) Mahsup işlemi yapılmasına gerek bulunmayan hâllerde; işin kabul tarihinden veya varsa garanti süresinin bitim tarihinden itibaren iki yıl içinde Şirketin yazılı uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde Hazineye gelir kaydedilir.

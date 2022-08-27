@@ -1,0 +1,2 @@
+Ortak girişimler
+MADDE 32 – (1) Birden fazla gerçek veya tüzel kişi iş ortaklığı veya konsorsiyum oluşturmak suretiyle ihalelere teklif verebilir. Bunlar kendi aralarında bir iş ortaklığı yaptıklarına dair beyannamelerini ve/veya konsorsiyum protokolünü pilot ortağın veya liderin de belirtildiği şekilde noter tasdikli olarak teklifiyle birlikte vermek zorundadır. Ortaklık beyannamesinde ve/veya konsorsiyum protokolünde, iş ortaklığını veya konsorsiyumu oluşturan gerçek veya tüzel kişilerin taahhüdün yerine getirilmesinde müşterek ve müteselsilen sorumlu oldukları belirtilir.

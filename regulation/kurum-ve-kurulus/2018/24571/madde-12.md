@@ -1,0 +1,4 @@
+Açık ihale usulü
+MADDE 12 – (1) Açık ihale usulü, bütün isteklilerin teklif verebildiği usuldür. Açık ihale usulünde, ihale duyurusu ilan yoluyla 26, 27 ve 28 inci maddelere göre yapılır.
+(2) İstekliler, şartnamede belirtilen esaslara uygun olarak tekliflerini hazırlayıp kapalı zarf içinde, son teklif verme tarih ve saatine kadar belirtilen adrese ulaşacak şekilde posta ile gönderirler veya elden teslim ederler. Postadaki gecikmelerden Şirket sorumlu değildir. Son teklif verme tarih ve saatinden sonra gelen teklifler kabul edilmez ve açılmayarak ilgili firma veya firmalara iade edilir.
+(3) Açık ihale usulü ile çıkılan ihalenin herhangi bir nedenden dolayı iptal edilmesi veya ihale sürecinin neticelendirilememesi durumunda, yeniden çıkılacak ihalenin sonuçlandırılmasına kadar geçecek sürede doğacak acil ihtiyaçların temininde, diğer ihale usullerinden biri veya doğrudan temin alım şekli uygulanabilir.
