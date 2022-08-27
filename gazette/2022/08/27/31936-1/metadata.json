@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-08-27",
+  "issue": "31936",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İklim Değişikliği Uzmanlığı Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220827-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220827.htm",
+  "index_sha256": "e0185624c9918a608a7b23c70cae3c7aeb393f938d6fcae922e1ae04f03cc41d",
+  "index_header": "27 Ağustos 2022 ... 31936 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220827.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
