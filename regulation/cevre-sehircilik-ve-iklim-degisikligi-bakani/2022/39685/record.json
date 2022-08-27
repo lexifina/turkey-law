@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39685",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İKLİM DEĞİŞİKLİĞİ UZMANLIĞI YÖNETMELİĞİ",
+  "number": "39685",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39685",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39685&MevzuatTertip=5",
+  "source_sha256": "768770d24d9036ca5c62d96e94833224715645333abf0552541a47834b5c789f",
+  "source_bytes": 74267,
+  "published": "2022-08-27",
+  "gazette": "31936",
+  "in_force": "2022-08-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.08.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3896,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
