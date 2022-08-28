@@ -1,0 +1,1 @@
+(1) 28/8/2022 tarihli ve 31937 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “İstanbul Ayvansaray Üniversitesi İhale Yönetmeliği’’ iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.

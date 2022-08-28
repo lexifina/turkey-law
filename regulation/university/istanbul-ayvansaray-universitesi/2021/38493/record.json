@@ -1,0 +1,32 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_quotes": [
+    "Yürürlük MADDE 46 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer. "
+  ],
+  "completeness": "text",
+  "date_quote": "amendment Gazette table: 28/8/2022",
+  "first_law": null,
+  "gazette": "31444",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-08-28",
+  "in_force_basis": "latest amendment Gazette date printed by the source for its current consolidated text",
+  "issuer": "İstanbul Ayvansaray Üniversitesi",
+  "kind": "regulation",
+  "notes": [],
+  "published": "2021-04-04",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38493&MevzuatTertip=5",
+  "source_bytes": 94525,
+  "source_id": "8.5.38493",
+  "source_sha256": "969091f44c1917f3e766b372809ebed91e5a18cb261dab034531662df13ebc94",
+  "structure": "whole-act",
+  "text_status": "current-consolidated",
+  "title": "İSTANBUL TOPKAPI ÜNİVERSİTESİ İHALE YÖNETMELİĞİ",
+  "university_id": 474,
+  "version_label": "oldest version available",
+  "word_count": 6110
+}
