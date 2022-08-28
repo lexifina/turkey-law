@@ -1,0 +1,1 @@
+[1] 28/8/2022 tarihli ve 31937 sayılı Resmi Gazete’de yayımlanan değişiklik ile bu Yönetmeliğin adı “İstanbul Ayvansaray Üniversitesi Türkçe Ve Yabancı Dil Öğretimi Uygulama Ve Araştırma Merkezi Yönetmeliği’’ iken Yönetmeliğe işlendiği şekilde değiştirilmiştir.
