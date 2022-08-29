@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "25953680-045.02[2018-37]-41881",
+  "source_id": 27321,
+  "date": "2022-08-29",
+  "title": "Derneğin kurumlar ve damga vergisi mükellefiyeti hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27321",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "d9d1df80fb7c3942d7fce83bf1eb768446acef3f55667b54de96e33ffc7ae925",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
