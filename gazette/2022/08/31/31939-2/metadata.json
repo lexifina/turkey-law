@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-08-31",
+  "issue": "31939",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Yükseköğretim Kurumlarına Ait Birimlerde Görevli Sağlık Çalışanlarına Karşı İşlenen Suçlar Nedeniyle Yapılacak Hukuki Yardımın Usul ve Esasları Hakkında Yönetmelik",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220831-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220831.htm",
+  "index_sha256": "0e3b3508f0cc0e06ae61727f7ddc3bdee4e5b5b14e00eb46eb4a23e3e9c63896",
+  "index_header": "31 Ağustos 2022 ... 31939 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/08/20220831.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
