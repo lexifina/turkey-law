@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-45404237-130[I-21-223]-202660",
+  "source_id": 28857,
+  "date": "2022-08-31",
+  "title": "Hareketli ve sabit mobilyaların teslimi ve montajında KDV tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28857",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "bd447303a33bb65706713bd1a6c41659db638cec2c3b8e7bc658d9d7345e1b09",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
