@@ -1,0 +1,29 @@
+{
+  "number": "month-08",
+  "year": 2022,
+  "month": 8,
+  "title": "08 Ağustos",
+  "decision_date": null,
+  "index_date": "2022-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2022",
+  "source": "https://www.karamanozelidare.gov.tr/2022-yili-il-genel-meclis-kararlari",
+  "official_page": "https://www.karamanozelidare.gov.tr/2022-yili-il-genel-meclis-kararlari",
+  "official_document": "https://www.karamanozelidare.gov.tr/kurumlar/karamanozelidare.gov.tr/04-Meclis/02-Meclis-Kararlari/2022/AGUSTOS-MECLIS-KARARLARI.rar",
+  "source_sha256": "f0f2daaf7aec82265c681d172599b91ce291cb99e7a57dca88f3441a5c336320",
+  "issuer": "Karaman İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-08-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ağustos 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "08 Ağustos",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "item_title": "2022 Yılı İl Genel Meclis Kararları"
+}
