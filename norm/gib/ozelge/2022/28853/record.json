@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-130[21]-14200",
+  "source_id": 28853,
+  "date": "2022-08-31",
+  "title": "BSMV kapsamına giren banka transfer komisyon bedellerinin KDV Kanununa göre ithalat matrahına dahil edilip edilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28853",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "ae808f2d8af4d5e5619415e0dcc513d2da7e87e6cd2c11f4ed3921e6dd9cbed8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
