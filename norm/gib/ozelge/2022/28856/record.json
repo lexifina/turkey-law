@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "85550353-130[2021/11]-29430",
+  "source_id": 28856,
+  "date": "2022-08-31",
+  "title": "Döviz ve Altın Ticareti Yapan Şirketin KDV Mükellefiyeti Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28856",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "98eb5461547ffb7f20c53b31e6043c880e66e3ebe15cfa54fde38fc7922f3459",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
