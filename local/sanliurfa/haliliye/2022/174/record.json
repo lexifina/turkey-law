@@ -1,0 +1,29 @@
+{
+  "number": "174",
+  "number_as_published": "2022/174",
+  "year": 2022,
+  "month": 8,
+  "title": "Kazı Metrajlarının düşürülmesine ilişkin Plan Bütçe Komisyonu Raporu, Komisyondan geldiği şekliyle aynen oy birliği ile kabulüne karar verildi.",
+  "decision_date": null,
+  "index_date": "2022-08-31",
+  "date_precision": "month",
+  "period": "Ağustos 2022",
+  "source": "https://www.haliliye.bel.tr/icerik/6497/39/agustos-2022",
+  "official_page": "https://www.haliliye.bel.tr/icerik/6497/39/agustos-2022",
+  "official_document": null,
+  "source_sha256": "6722fa2a53037c05e306a1d2059e48cdcf2a7197ac3816f84fd0924aaf16e08c",
+  "issuer": "Haliliye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2022-08-31",
+  "in_force_basis": "The official listing gives only the month of this decision (Ağustos 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_item": "AĞUSTOS 2022",
+  "record_scope": "one council decision summary (Karar Özeti) as published"
+}
