@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "45404237-130[I-18-297]-202652",
+  "source_id": 28845,
+  "date": "2022-08-31",
+  "title": "İşletme hakkı devralınan halden elde edilen gelirler içerisinde yer alan ve belediyeye aktarılmayan hal rüsumuna KDV uygulanıp uygulanmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28845",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "054e1d7c03aada31d2e12b8767b4873d903ba8e87e655fe4f6e9488d157f8101",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
