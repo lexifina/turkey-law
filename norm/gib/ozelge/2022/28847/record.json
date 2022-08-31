@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "43626428-130-28775",
+  "source_id": 28847,
+  "date": "2022-08-31",
+  "title": "Organize sanayi bölgesine güvenlik kamerası sistemi kurulmasının KDV'den istisna olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28847",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5c611f591d306fafa1624ed9d7718d2f7f83cfbc2b6fadd58fde3337e7aab1a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
