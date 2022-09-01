@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-64597866-130-14317",
+  "source_id": 28842,
+  "date": "2022-09-01",
+  "title": "Liman tesisleri içerisinde millileşmemiş yüklerin mafi araçları ile taşınmasında KDV tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28842",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "824c7f632205af6961ca6e7340bcd2361c651d9e060f13246974771c3b9bc71a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
