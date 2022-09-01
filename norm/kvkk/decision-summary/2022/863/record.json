@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/863",
+  "source_id": 7582,
+  "date": "2022-09-01",
+  "title": "“Bir bankanın müşteri hizmetlerinin aydınlatma yükümlülüğünü yerine getirmeden ve açık rızasını almadan ilgili kişiyi telefonla aramak suretiyle kişisel verilerini işlemesi” hakkında Kişisel Verileri Koruma Kurulunun 01/09/2022 tarihli ve 2022/863 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7582/2022-863",
+  "source_sha256": "993edc8f5aea88da83a75b3b51c67b1741e609d3d2c870ec72bcb08981a7ff82",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
