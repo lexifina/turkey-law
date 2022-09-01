@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11177",
+  "decision_date": "2022-09-01",
+  "title": "Petrol Ofisi A.Ş.’nin; DEP/474-8/10366 sayılı depolama lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Derince Terminali Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2022-09-03",
+  "resmi_gazete_number": "31942",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7vmyjK5ZQJg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7vmyjK5ZQJg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0XboP10S884="
+  ],
+  "source_sha256": "aae4f9749c78a07042290ee75b346cbf0bba44aad9c4a36bd1ffabaddec386a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-01",
+  "law_text_complete": true
+}
