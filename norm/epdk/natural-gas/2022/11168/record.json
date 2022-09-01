@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11168",
+  "decision_date": "2022-09-01",
+  "title": "Aksa Afyon Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-09-03",
+  "resmi_gazete_number": "31942",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y8l4ItNey+s=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=y8l4ItNey+s=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=JKMhUrKZ28w="
+  ],
+  "source_sha256": "12292db63b33e4eeef2bbee97b2b174abbc23627ebbb14be288a7189a432b23c",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-01",
+  "law_text_complete": true
+}
