@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[4-2017/386]-970426",
+  "source_id": 27668,
+  "date": "2022-09-01",
+  "title": "İşyeri yapı kooperatifinin vergisel durumu hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27668",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "4eb8f1a9f4f8cf27a19171970b23925b24e79917d102761bd42f148dde7c4a8a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
