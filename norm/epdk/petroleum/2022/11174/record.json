@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11174",
+  "decision_date": "2022-09-01",
+  "title": "OPET Petrolcülük A.Ş.’nin; PİL/1458-1/23613 sayılı İletim Lisansı kapsamında faaliyette bulunan OPET Petrolcülük A.Ş.’nin İzmit Boru Hatları Tesisi İletim Tesisine ilişkin",
+  "resmi_gazete_date": "2022-09-03",
+  "resmi_gazete_number": "31942",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J8NDbGCSQHM=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J8NDbGCSQHM=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=HSOAtxOdawA="
+  ],
+  "source_sha256": "74f5d033b1d94ddccedfbf5450110fd5e75679ffb03885e1f670daa51cfadea3",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-01",
+  "law_text_complete": true
+}
