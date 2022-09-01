@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11173",
+  "decision_date": "2022-09-01",
+  "title": "OPET Petrolcülük A.Ş.’nin; PİL/5852-1/36171 sayılı İletim Lisansı kapsamında faaliyette bulunan OPET Petrolcülük A.Ş.’nin Marmara Boru Hatları Tesisi İletim Tesisine ilişkin",
+  "resmi_gazete_date": "2022-09-03",
+  "resmi_gazete_number": "31942",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pa1Lli8+Yvk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=pa1Lli8+Yvk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SugbA9Rw1XQ="
+  ],
+  "source_sha256": "1af7e86c6f4d81cb78b94957900dcf55b2bc53e637385a431c169515239f163d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "official document is not .docx/.pdf (not transcribed)",
+  "in_force": "2022-09-01",
+  "law_text_complete": false
+}
