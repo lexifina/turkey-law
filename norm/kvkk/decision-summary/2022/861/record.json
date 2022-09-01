@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/861",
+  "source_id": 7580,
+  "date": "2022-09-01",
+  "title": "“İlgili kişinin internet arama motorlarında yapılan aramalardan elde edilen iş yeri e-postasının açık rızası alınmaksızın veri sorumlusu bir pazarlama şirketi tarafından ticarî elektronik ileti gönderilmesi suretiyle işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 01/09/2022 tarihli ve 2022/861 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7580/2022-861",
+  "source_sha256": "9d4f3b4551494bcefef4cfe257a4dcdfc6fb6f790fdc3db27abbcf2336232e5c",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
