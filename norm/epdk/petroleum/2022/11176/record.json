@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11176",
+  "decision_date": "2022-09-01",
+  "title": "Petrol Ofisi A.Ş.’nin; DEP/474-3/10361 sayılı Depolama Lisansı kapsamında faaliyette bulunan Petrol Ofisi A.Ş. Antalya Terminali Depolama Tesisine ilişkin",
+  "resmi_gazete_date": "2022-09-03",
+  "resmi_gazete_number": "31942",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x/jc0/jIpEk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=x/jc0/jIpEk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2AE5IVOxnm4="
+  ],
+  "source_sha256": "a55f3ef02ccdc3e83cb145ab189e350d8949c6a2ad08e387503553cf76da146f",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-01",
+  "law_text_complete": true
+}
