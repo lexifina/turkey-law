@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/853",
+  "source_id": 7576,
+  "date": "2022-09-01",
+  "title": "“Bir yasal bahis platformu tarafından ilgili kişinin e-posta adresinin işlenerek bir üyesinin kişisel verilerinin üçüncü şahıs konumundaki ilgili kişinin e-posta adresine gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 01/09/2022 tarihli ve 2022/853 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7576/2022-853",
+  "source_sha256": "8b70389ba2fb19c84dacc47ae01ebfa55572b816b0e9cc00425bda7851f8999f",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
