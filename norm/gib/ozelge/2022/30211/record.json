@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-60757842-200.03.01-20543",
+  "source_id": 30211,
+  "date": "2022-09-02",
+  "title": "Klorlama cihazlarının bakım-onarımı, klor ihtiyacının karşılanması, nakliyesi, sıvı klor dozlama pompası montajı ve bakım işine uygulanacak KDV tevkifatı oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30211",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "2b772766f373ec639d6d9104367d544c7ee975ddebfc924ca80e838b77f485a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
