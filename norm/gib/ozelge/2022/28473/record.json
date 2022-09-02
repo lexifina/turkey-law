@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "93767041-125-116332",
+  "source_id": 28473,
+  "date": "2022-09-02",
+  "title": "Hukuki Nedenlerle Devredilemeyen Kredi Sözleşmesi Bulunması Halinde Kısmi Bölünmenin Mümkün Olup Olmayacağı Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28473",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "b720e30b77e60e4f5caae0dfd19d1f8c045d26c2b39dab65b72f3ae7922bf831",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
