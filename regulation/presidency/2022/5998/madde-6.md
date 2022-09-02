@@ -1,0 +1,3 @@
+Sağlık hizmet bedelleri
+MADDE 6- (1) Kuzey Kıbrıs Türk Cumhuriyeti’nde bulunan Türk Askeri Birliklerinde görev yapan personelin ve beraberindeki bakmakla yükümlü oldukları kişilerin muayene ve tedavi işlemlerinin öncelikli olarak askeri sağlık birimlerinde yapılması esastır.
+(2) Ancak askeri hastanece görülen lüzum üzerine mahalli hastanelere sevk edilen veya acil hâllerde mahalli hastanelerce muayenesi yapılan personelin ve bakmakla yükümlü oldukları kişilerin sağlık hizmet bedelleri 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu ve bu Kanuna göre yürürlüğe konulan ikincil mevzuata göre ödenir.

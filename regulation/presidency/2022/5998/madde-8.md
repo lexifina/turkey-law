@@ -1,0 +1,2 @@
+Avans ve kredi işlemleri
+MADDE 8- (1) Bu Yönetmelik kapsamında yapılan iş ve işlemler ile açılacak avans ve krediler; ilgisine göre 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu, 2/7/1992 tarihli ve 3833 sayılı Türk Silahlı Kuvvetleri Stratejik Hedef Planının Gerçekleştirilmesi Maksadıyla Gelecek Yıllara Sari Taahhütlere Girişme Yetkisi Verilmesi Hakkında Kanun ve ikincil mevzuata göre yürütülür.
