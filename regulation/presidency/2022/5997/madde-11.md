@@ -1,0 +1,3 @@
+İhaleye katılabilme şartları ve ihale dokümanı
+MADDE 11- (1) İhalelere katılmak için gerekli nitelik ve yeterliğe sahip bulunmak, Genel Müdürlükçe talep edilen bilgi, belge, teminatları vermek ve tebligat için adres beyanında bulunmak zorunludur.
+(2) Genel Müdürlük tarafından hazırlanan ihale dokümanında, eşit muamele ve rekabetin sağlanması için yeterlik değerlendirmesinde uygulanacak kriterlerin belirtilmesi zorunludur. İhale konusu mal veya hizmete ait isteklilere talimatları da içeren idari şartnameler ile varsa teknik şartnameler, sözleşme taslakları ve gerekli diğer belge ve bilgiler Genel Müdürlükçe davet edilen isteklilere bedelsiz olarak verilebilir.

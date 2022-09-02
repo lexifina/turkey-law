@@ -1,0 +1,14 @@
+Yurt dışından yapılacak alımlarda geçici teminat kesin teminat
+MADDE 18- (1) Akreditif açılmak suretiyle yapılan geçici ve kati kabullü mal ve hizmet alımlarında, akreditif açılmadan önce, sözleşme bedelinin % 10’undan az olmamak kaydıyla kesin teminat mektubu alınır. Bunun dışındaki alımlarda teminat alınması hususu Genel Müdürlüğün takdirindedir.
+(2) Peşin ödeme suretiyle yapılan mal ve hizmet alımlarında yükleniciden, ödeme yapılmadan önce sözleşme bedelinin % 100’ü oranında kesin teminat mektubu alınır.
+(3) Mal mukabili ödemesi yapılan mal ve hizmet alımlarında kesin teminat mektubu alınması ve sözleşme yapılması zorunlu değildir.
+(4) Kesin teminat mektubunun alınması durumunda süresi, ihale konusu işin bitiş tarihi dikkate alınmak suretiyle Genel Müdürlük tarafından belirlenir.
+(5) İlgili mevzuatına aykırı olarak düzenlenmiş kesin teminat mektubu kabul edilmez.
+(6) Genel Müdürlüğe verilecek teminat mektuplarının; ilgili mevzuat gereğince Türkiye’de bankacılık faaliyetinde bulunmasına izin verilen yerli ve yabancı bankalarca düzenlenmesi şarttır.
+(7) Ayrıca, Türkiye dışında faaliyette bulunan yerli ve yabancı bankaların kontrgarantisi üzerine, Türkiye’de faaliyette bulunan bankaların düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.
+(8) Yabancı bankaların veya benzeri kredi kuruluşlarının kontrgarantilerine dayanılarak verilecek teminat mektuplarında, kontrgarantiyi veren yabancı banka veya kredi kuruluşunun ismi ve teminatın kontrgarantili olduğunun belirtilmesi esastır.
+(9) Genel Müdürlükçe, teminat mektuplarının geçerlilik süresi ile ilgili hususlarda kesin kabulün yapılacağı tarihe kadar, gerektiğinde garanti süresini de kapsayacak şekilde düzenlemeler yapılabilir.
+(10) Bu Usul ve Esaslar kapsamında bankalarca verilecek teminat mektuplarının kapsam ve şekli, Kamu İhale Kurumunca belirlenen kapsam ve şekilde olmalıdır.
+(11) Taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı idareye herhangi bir borcunun olmadığı tespit edildikten sonra alınmış olan kesin teminat ve varsa ek kesin teminatların, Sosyal Güvenlik Kurumundan ilişiksiz belgesinin getirildiği saptandıktan sonra; alınan mal veya yapılan iş için bir garanti süresi öngörülmesi hâlinde yarısı, garanti süresi dolduktan sonra kalanı, garanti süresi öngörülmeyen hâllerde ise tamamı yükleniciye iade edilir.
+(12) Yüklenicinin bu iş nedeniyle idareye ve Sosyal Güvenlik Kurumuna olan borçları ile ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin, kabul tarihine veya varsa garanti süresinin bitimine kadar ödenmemesi hâlinde, protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatlar paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı yükleniciye geri verilir.
+(13) İşin konusunun piyasadan hazır hâlde alınıp satılan mal alımı olması hâlinde, Sosyal Güvenlik Kurumundan ilişiksiz belgesi getirilmesi şartı aranmaz.

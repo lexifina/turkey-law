@@ -1,0 +1,3 @@
+Başlanmış olan işlemler ve sözleşmelerin feshi
+GEÇİCİ MADDE 1- (1) Bu Usul ve Esasların yürürlüğe girdiği tarihten önce 21/10/2009 tarihli ve 2009/15581 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Esaslara göre ilan edilerek duyurulmuş veya sözleşmeye bağlanmış ihale ve/veya alım işlemleri, söz konusu esaslarda belirtilen hükümlere göre sonuçlandırılır.
+(2) Birinci fıkrada belirtilen esaslar kapsamında ihalesi yapılan mal ve hizmet alımlarına ilişkin Türk Lirası üzerinden yapılan sözleşmeler, 12/5/2022 tarihli ve 5546 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan 4735 sayılı Kamu İhale Sözleşmeleri Kanununun Geçici 6 ncı Maddesinin Uygulanmasına İlişkin Esaslar doğrultusunda feshedilebilir.
