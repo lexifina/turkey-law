@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/902",
+  "source_id": 7585,
+  "date": "2022-09-02",
+  "title": "“İlgili kişinin açık rızası alınmadan pazarlama amacıyla kısa mesaj gönderilmesi suretiyle kişisel verilerinin işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 02/09/2022 tarihli ve 2022/902 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7585/2022-902",
+  "source_sha256": "8210508811dbb0786d3c8a7aac6858d79b3cb8953a4392a894ba3014338dee79",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
