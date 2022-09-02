@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-26696128-130[9-2021/40]-57647",
+  "source_id": 28840,
+  "date": "2022-09-02",
+  "title": "Hurda halindeki paletlerin tamir edilerek satılması ve kullanılmamış palet alım satım faaliyetinde KDV uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/28840",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "5d201f23983e5b4d75d4a9975d890344b50e1e9a9edeba549afab965db9f540b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
