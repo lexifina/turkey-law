@@ -1,0 +1,8 @@
+Müfettişlerin görevlendirilmesi ile çalışma usul ve esasları
+MADDE 44- (1) Müfettişler, Başkanın talimatı veya onayı üzerine Teftiş Başkanı tarafından görevlendirilirler ve çalışma sonuçlarını Teftiş Başkanlığına bildirirler.
+(2) İşlerin, tabi oldukları süreleri aksatmayacak şekilde sırasıyla yapılması esastır.
+(3) Çalışmaların sonuçlarına ait bütün rapor ve yazıların çalışma yerlerinde düzenlenmesi, ilgili mercilere tebliği veya gönderilmesi esas olup, gereken hallerde söz konusu yazı ve tebliğ işleri en kısa zamanda başka yerde de tamamlanabilir.
+(4) Müfettişler görevlendirildikleri konularda bağımsız olarak çalışırlar. Ancak gerekli görülen durumlarda; araştırma, inceleme, ön inceleme, soruşturma ve teftiş işlemlerinin birden fazla müfettiş tarafından birlikte yürütülmesi de mümkündür. Bu tür çalışmalarda iş bölümünü yapmak, işlerin zamanında sonuçlandırılmasını sağlamak ve Teftiş Başkanlığıyla haberleşmeyi yürütmek görevleri kıdemli müfettiş tarafından yerine getirilir.
+(5) Birlikte yürütülen işlerde müşterek rapor düzenlenmesi esastır.
+(6) Görevlendirme yapılırken işin ivediliği, niteliği, kapsamı ve sair nedenlerle Teftiş Başkanlığınca işin tamamlanması için makul bir süre belirlenebilir.
+(7) Teftiş Başkanlığınca aksi belirlenmedikçe müfettişler, görevlendirildikleri konularla ilgili olarak; kamu kurum ve kuruluşları, adlî makamlar, gerçek ve tüzel kişilerle doğrudan yazışma yapabilirler. Ancak; Cumhurbaşkanlığı, TBMM, Yüksek Mahkemeler ile Başkanlık ve diğer Bakanlıkların merkez ve yurt dışı teşkilatı ile yapılan yazışmaları Teftiş Başkanlığı aracılığıyla yaparlar. Müfettişler görevleri ile ilgili konulardaki tüm yazışmalarını Başkanlık tarafından kullanılan sistem üzerinden belirlenen genel esaslar çerçevesinde yaparlar.

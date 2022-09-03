@@ -1,0 +1,2 @@
+Gerçeğe aykırı beyan
+MADDE 19- (1) Gerçeğe aykırı beyanda bulunduğu anlaşılanlar tüm haklarını kaybederler, giriş sınavını kazanmaları halinde atamaları yapılmaz, bu durumun atamadan sonra ortaya çıkması halinde ise atama işlemi iptal edilir. Bunlar hiçbir hak talep edemezler ve haklarında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanunu yönünden işlem yapılmak üzere yetkili mercilere suç duyurusunda bulunulur.
