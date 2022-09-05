@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.39698",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "İSTANBUL OKAN ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ EĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "number": "39698",
+  "issuer": "İSTANBUL OKAN ÜNİVERSİTESİ",
+  "issuer_slug": "istanbul-okan-universitesi",
+  "path": "regulation/istanbul-okan-universitesi/2022/39698",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39698&MevzuatTertip=5",
+  "source_sha256": "af2430325f3d7f0c14f0e9e0f7b722a4e3ba22872a38c2652a9ccca9ee3bd199",
+  "source_bytes": 58272,
+  "published": "2022-09-05",
+  "gazette": "31944",
+  "in_force": "2022-09-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.09.2022); own commencement article: \"Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başında yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başında yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3279,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
