@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-145/2022-8",
+  "source_id": 696,
+  "date": "2022-09-05",
+  "title": "Gerçek Faydalanıcı Tanımının Açıklanması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/696",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "c5eba3ee246edc45b076968ba2f24922515110ce654b4da3ab7dabcb4e07fba0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
