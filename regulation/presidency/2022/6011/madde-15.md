@@ -1,0 +1,4 @@
+Yurt içi alımlarında geçici ve kesin teminat işlemleri
+MADDE 15- (1) İhalelerde teklif edilen bedelin % 3’ünden az olmamak üzere, isteklilerce belirlenecek oranda geçici teminat alınır. Kesin teminat ise ihale bedelinin % 6’sından az olamaz. Ancak özellikli durumlarda ve gerekçe belirtmek suretiyle Başkan onayı ile geçici veya kesin teminat alınmamasına karar verilebilir. Başkanlığa verilecek olan geçici ve kesin teminatlar banka mektubu veya nakit olabilir.
+(2) Geçici ve kesin teminatın nakit olarak verilmesi durumunda bedel, tedavüldeki Türk parası olarak kayıtlara alınır. Geçici ve kesin teminatın, banka mektubu olarak verilmeleri hâlinde, ihale dokümanına ekli standart formlara uygun olmaları gerekir.
+(3) Onay belgesinde ve idari şartnamede, şartname düzenlenmeyen tek kaynak alımlarında ise davet mektubunda belirtilmesi şartıyla yabancı para birimiyle yapılan ihalelerde ve alımlarda teminatlar, teklif edilen para birimi üzerinden alınır.

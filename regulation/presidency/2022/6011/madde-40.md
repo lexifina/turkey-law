@@ -1,0 +1,2 @@
+Fiyat farkı
+MADDE 40- (1) İhalelerde ve alımlarda esas alınacak para birimi yabancı ülke para birimi olduğunda fiyat farkı verilmez. İhale veya onay belgesi ile idari şartnamede belirtilmek kaydıyla Türk parası esas alınarak yapılacak ihale ve alımlarda 5/1/2002 tarihli ve 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 8 inci maddesi hükmü gereğince yürürlüğe konulan esaslara göre fiyat farkı verilebilir.

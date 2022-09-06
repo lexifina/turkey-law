@@ -1,0 +1,2 @@
+Yurt dışı alımlarında gelecek yıllara devreden peşin ödeme, mal mukabili ve akreditif işlemleri
+MADDE 20- (1) Bütçe yılı içerisinde sözleşmesi yapılıp akreditifi açılmış ancak çeşitli nedenlerden dolayı mahsubu yapılamayan mal ve hizmet alımına ilişkin akreditif ve peşin ödemeler sonraki yıllara devredebilir. Bütçe yılı içerisinde sözleşmesi imzalanıp, sonraki yıllara devreden mal mukabili alımların bedeli ise devredildiği yılın bütçesinden, tahakkuk tarihindeki Türkiye Cumhuriyet Merkez Bankası döviz satış kuru üzerinden ödenir.

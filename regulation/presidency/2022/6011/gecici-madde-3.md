@@ -1,0 +1,2 @@
+Yapım işleri ile yapım işine konu hizmet alımlarına ilişkin iş deneyim belgesi verilmesi
+GEÇİCİ MADDE 3- (1) Bu Usul ve Esasların yürürlüğe girdiği tarihten önce, 46 ncı madde ile yürürlükten kaldırılan esaslara dayanılarak ihale edilen yapım işleri ile yapım işine konu hizmet alımlarına iştirak eden yüklenici ile gerçek veya tüzel kişilere iş deneyim belgesi (iş bitirme belgesi, iş denetleme belgesi, iş yönetme belgesi) verilebilir.

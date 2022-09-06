@@ -1,0 +1,8 @@
+BEŞİNCİ BÖLÜM
+Çeşitli ve Son Hükümler
+Diğer hususlar
+MADDE 44- (1) Bu Usul ve Esaslar kapsamındaki mal, hizmet ve danışmanlık hizmeti alımları ile Başkanlıkça gerçekleştirilecek yapım ve yapım işine konu hizmet alımı işlerine ilişkin ihale ve alımlarda sözleşme yapılmasında isteklinin ve idarenin görev ve sorumluluğu, ihalenin veya alımın sözleşmeye bağlanması ve sözleşmede bulunacak hususlar, idare tarafından şikâyetlerin incelenmesi, sözleşme değişikliği, sözleşmenin feshi, ek sözleşme düzenlenmesi, denetim, muayene ve kabul işlemleri ile ilgili esaslar Başkanlıkça belirlenir.
+(2) 4734 sayılı Kanunun 53 üncü maddesinin (j) fıkrasının (1) numaralı bendinde yer alan sözleşme bedeli gideri bu Usul ve Esaslara göre yapılan ihalelerde alınmaz.
+(3) Bu Usul ve Esaslara aykırı olmamak kaydıyla, yapılan düzenlemelerle ilgili olarak ihalenin veya alımın özelliğine göre Başkanlıkça ilave düzenlemeler yapılabilir.
+(4) Bu Usul ve Esaslar çerçevesinde alımı yapılan yapım işleri ile yapım işlerine konu hizmet alımlarına iştirak eden yüklenici ile gerçek veya tüzel kişilere iş deneyim belgesi (iş bitirme belgesi, iş denetleme belgesi, iş yönetme belgesi) verilebilir. İş deneyim belgesinde, Milli İstihbarat Teşkilatı imkan ve kabiliyetleri ile bina ve tesislerini açığa çıkaracak bilgilere yer verilmez. İş deneyim belgesinin şekil ve muhtevası ile bu belgelerin verilmesine dair usul ve esaslar Başkanlık tarafından yönerge ile düzenlenir. Yapım işine iştirak eden yüklenici firma teknik personeli ile alt yüklenicilere iş deneyim belgesi verilmez
+(5) Bu Usul ve Esaslar dâhilinde yapılacak alımlarda 4734 sayılı Kanunun 10 uncu maddesinde sayılan yeterlik kuralları aranmayabilir.

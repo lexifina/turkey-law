@@ -1,0 +1,8 @@
+İlgili idareler aracılığıyla gerçekleştirilecek yapım işi ve yapım işine konu hizmet alımı
+MADDE 25- (1) İlgili idareler aracılığıyla gerçekleştirilecek yapım işi ve yapım işine konu hizmet alımı ihaleleri bu Usul ve Esaslarda yer alan hükümler doğrultusunda gerçekleştirilir.
+(2) İlgili idareler aracılığıyla gerçekleştirilecek her yapım işi ve yapım işine konu hizmet alımı ihalelerinde;
+a) Başkanlık tarafından, ihale konusu işin bu Usul ve Esaslar kapsamında gerçekleştirilmesine ilişkin onayın alınmasını müteakip, davet edilmesi uygun bulunan firmalar ile birlikte ihale talimatı yazısı ilgili idareye gönderilir.
+b) İhale onay belgesinin hazırlanması, onaylanması ve 33 üncü maddeye göre oluşturulacak olan ihale komisyonunun teşkili, ilgili idarenin harcama veya ihale yetkilisince gerçekleştirilir.
+c) Başkanlık tarafından bildirilen firmalar davet edilerek 26 ncı maddede belirtilen usuller çerçevesinde ihale gerçekleştirilir. İhale komisyonunun alacağı karar ihaleyi yapan ilgili idarenin harcama veya ihale yetkilisince onaylanarak ihale ivedilikle sonuçlandırılır.
+ç) Yapım işine ve yapım işine konu hizmet işlerine ait geçici ve kesin kabullerde, Başkanlık personeli de müşahit üye olarak görev alır.
+d) Başkanlıkça belirlenen yapım işi ve yapım işine konu hizmet ihtiyacının karşılanmasında, ilgili idarelere yaptırılacak yapım işi ve yapım işine konu hizmet alımları ile ilgili ihale dokümanının hazırlanması, ihalenin sonuçlandırılması, teminat ve sözleşmenin yürütülmesine ilişkin her türlü işlemler, bu Usul ve Esaslar çerçevesinde Başkanlıkça hazırlanan doküman kapsamında yürütülür.

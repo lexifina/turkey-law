@@ -1,0 +1,2 @@
+İhale sonucunun Kamu İhale Kurumuna bildirilmesi
+MADDE 34- (1) Başkanlık ihtiyaçları için gerçekleştirilecek mal ve hizmet alımları ile yapım işleri ve yapım işine konu hizmet alımlarına ait ihale sonuçları, sözleşmenin taraflarca imzalanmasını müteakip 4734 sayılı Kanunda belirtilen süre içerisinde, Kamu İhale Kurumuna bildirilir. Bu Usul ve Esaslar kapsamında gerçekleştirilen ihalelere ilişkin sonuç bildirimleri, Kamu İhale Bülteninde yayımlanmaz.

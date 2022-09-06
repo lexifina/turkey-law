@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-6011",
+  "number": "6011",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "MİLLİ İSTİHBARAT TEŞKİLATI BAŞKANLIĞI TARAFINDAN, 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (B) BENDİ KAPSAMINDA YAPILACAK İHALE VE ALIMLARA İLİŞKİN USUL VE ESASLAR",
+  "published": "2022-09-06",
+  "enacted": "2022-09-05",
+  "gazette_number": "31945",
+  "in_force": "2022-09-06",
+  "in_force_basis": "Official commencement clause: \"Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-09-06, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=6011&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "242bf8bc66b0ea602cbbddba444c6a0e602e9bee60abc1c12c3f7662dee82cc1",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

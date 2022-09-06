@@ -1,0 +1,2 @@
+Temel ilkeler
+MADDE 5- (1) Bu Usul ve Esaslar kapsamındaki mal ve hizmet alımları ile yapım işleri ve yapım işine konu hizmet alımlarında, 4734 sayılı Kanunun 5 inci maddesinde belirtilen temel ilkelerin yanı sıra ulusal menfaat, güvenlik ve gizliliğin gerektirdiği hususlar, standardizasyonun korunması ve süratle hareket ilkeleri de dikkate alınır. Bu kapsamda, istihbarı önemi haiz veya özellik arz eden mal veya hizmet alımları ile yapım işleri ve yapım işine konu hizmet alımları kısımlar hâlinde de yapılabilir.

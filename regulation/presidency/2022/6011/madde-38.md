@@ -1,0 +1,5 @@
+Sözleşmenin feshi
+MADDE 38- (1) Yüklenicinin taahhüdünü ihale dokümanı ve sözleşme hükümlerine veya teklif mektubunda taahhüt ettiği şartlara uygun olarak yerine getirmemesi nedeniyle, ihale dokümanında belirtilen oranlarda gecikme cezası uygulanmak şartıyla, idarenin belirlediği süre içerisinde nedenleri açıkça belirtilen ihtarına rağmen, aynı durumunu devam ettirmesi veya bu Usul ve Esaslarda belirtilen yasak fiil veya davranışlarda bulunduğunun tespit edilmesi hâllerinde; ayrıca protesto çekmeye gerek kalmaksızın, kesin teminat ve varsa ek kesin teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(2) Bu Usul ve Esaslar kapsamındaki alımlarda yüklenicinin, ölümü, iflası, ağır hastalığı, tutukluluğu veya özgürlüğü kısıtlayıcı bir cezaya mahkumiyeti hâllerinde sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
+(3) Sözleşmeden önceki yasak fiil veya davranışlar nedeniyle fesih hâllerinde, 4735 sayılı Kanunun 21 inci maddesi uygulanır.
+(4) Bu maddede yer alan hususlar idari şartnamede belirtilir.
