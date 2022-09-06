@@ -1,0 +1,1 @@
+Madde 30 – Bu Yönetmeliğin uygulanmasında belirecek sorunları ve bunları giderecek tedbir ve önerileri tespit maksadıyla;Milli Savunma Bakanlığı Koordinatörlüğünde, her yıl Ocak ve Haziran aylarında ilgili Bakanlık kurum ve kuruluşların iştirakiyle toplantı yapılır. Milli Savunma Bakanlığı lüzum gördüğü hallerde bu tarihler dışında da toplantı düzenleyebilir.

@@ -1,0 +1,1 @@
+Madde 1 – Bu yönetmeliğin amacı 18/12/1981 tarih ve 2565 sayılı Askeri Yasak Bölgeler ve Güvenlik Bölgeleri Kanununun 6-7-9-10-13-20-21 ve 27 nci maddelerinde belirtilen hususlardaki esasları belirlemek 33 üncü maddesi gereğince bu Kanunun uygulanmasına ilişkin esas ve usulleri belirtmektir.

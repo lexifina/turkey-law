@@ -1,0 +1,141 @@
+{
+  "id": "presidency-regulation-835949",
+  "number": "835949",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "ASKERİ YASAK BÖLGELER VE GÜVENLİK BÖLGELERİ YÖNETMELİĞİ",
+  "published": "1983-04-30",
+  "enacted": "1983-01-17",
+  "gazette_number": "18033",
+  "in_force": "2022-09-06",
+  "in_force_basis": "Latest source commencement-table date: 2022-09-06; official source: 9/5/2019 26/6/2019 5/9/2022 | 1053 1238 6012 | 21, 32 24 21, 25 | 10/5/2019 27/6/2019 6/9/2022",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=835949&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "e72405aeffe94414c1c542fa286983804fb17590d0ea2ec98ce82e1b14ecc047",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [],
+  "images": {
+    "source": 11,
+    "referenced": 0,
+    "omitted": 11
+  },
+  "images_complete": false,
+  "image_inventory": [],
+  "images_omitted": [
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image001.jpg",
+      "description": "Official embedded image 1 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 1,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "3abf7837aab274371048a3b1d88be9a51d69c187087a93aa76535e3f05fdf028",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image002.jpg",
+      "description": "Official embedded image 2 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 2,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "d2825e76b8ce6cd70445e6da73ab4d26d8a2fa0bcb0e66fa387f1f941ccb29cb",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image003.jpg",
+      "description": "Official embedded image 3 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 3,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "22cec62e0944b3aed9e3eda3b338fca677e44e15602a3a2c4e66556f5197eb72",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image004.jpg",
+      "description": "Official embedded image 4 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 4,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "117d992d324ce62b21041d8f21263ddd31657038a88554f3b524a44056e1c6ae",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image005.jpg",
+      "description": "Official embedded image 5 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 5,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "8bd41e3da3e8a36afb454c12661d1635057db11fb37e5a573625d108b1417bbc",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image006.jpg",
+      "description": "Official embedded image 6 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 6,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "29b1a60fe9d1e7fac291357d39c3174d5ec9c9e750a753a29676097aff489896",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image007.jpg",
+      "description": "Official embedded image 7 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 7,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "c257da6e10c55aa22defbf19adf577efbdda5c5baf87dfd26673685e0f96ee9b",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/kulliyat/HÜSNÜ%20KÜLLİYAT/zwordler/3.5.835949_dosyalar/image006.jpg",
+      "description": "Official embedded image 8 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 8,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "1bf39d65ee8d1b5f47168efbee24a1041ca7b5f54b2783ed382de9fb2c2d240e",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image008.jpg",
+      "description": "Official embedded image 9 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 9,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "4a5be58b60e1021c32f4c26d78707157d63c44851d026c3727928fdecbf86eae",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image009.jpg",
+      "description": "Official embedded image 10 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 10,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "c6084a96a31f673645f245d09365839ecc9dbb86f77bc6a8f94e6f9d885f24e6",
+      "response_bytes": 64854
+    },
+    {
+      "source_ref": "https://www.mevzuat.gov.tr/anasayfa/21.5.835949_dosyalar/image010.gif",
+      "description": "Official embedded image 11 (source supplies no caption)",
+      "reason": "not extractable",
+      "normative": true,
+      "position": 11,
+      "failure": "Exact source image URL returns an HTML page instead of image bytes",
+      "response_sha256": "0035d642c34d749f48c0b64e1860acd113f14d8cce981228c720404f5252828b",
+      "response_bytes": 64854
+    }
+  ],
+  "completeness": "pending-images",
+  "text_layout": "article-files"
+}
