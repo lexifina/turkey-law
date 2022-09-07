@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39705",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPOR KULÜPLERİ TARAFINDAN TUTULACAK DEFTER VE KAYITLAR HAKKINDA YÖNETMELİK",
+  "number": "39705",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2022/39705",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39705&MevzuatTertip=5",
+  "source_sha256": "26a71a91cb425123c5bb49c5bfc1c81699570173a411ac93585a6c9e298325c3",
+  "source_bytes": 62386,
+  "published": "2022-09-07",
+  "gazette": "31946",
+  "in_force": "2022-09-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.09.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3199,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39705-ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

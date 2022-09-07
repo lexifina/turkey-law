@@ -1,0 +1,5 @@
+ÜÇÜNCÜ BÖLÜM
+Alındı Belgeleri
+Alındı belgelerinin biçimi
+MADDE 18- (1) Spor kulübü gelirlerinin tahsilinde kullanılacak alındı belgeleri Ek- 8’de gösterilen biçim ve ebatta yönetim kurulu kararıyla bastırılır. Alındı belgeleri, müteselsil seri ve sıra numarası taşıyan kendinden karbonlu elli asıl ve elli koçan yaprağından meydana gelen ciltler veya elektronik sistemler ve yazı makineleri aracılığıyla yazdırılan form veya sürekli kayıt formu şeklinde tertip edilir. Form veya sürekli form şeklinde bastırılacak alındı belgelerinin, belirtilen nitelikte olması zorunludur. Alındı belgesi ciltlerinin koçan kısmı iki suret olarak bastırılabilir. Ancak koçan yaprağının bir suretinin cilt koçanında, diğerinin ise muhasebe evrakı arasında düzenli olarak saklanması zorunludur.
+(2) Alındı belgeleri Ek-8’de belirtilen bilgileri içermek koşuluyla Bakanlıkça oluşturulan veya izin verilen yazılımlar kullanılarak elektronik ortamda da düzenlenebilir. Düzenlenen bu belgeler Bakanlığın elektronik sisteminde muhafaza edilir.

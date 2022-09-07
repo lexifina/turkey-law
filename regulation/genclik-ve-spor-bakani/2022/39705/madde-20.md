@@ -1,0 +1,3 @@
+Alındı belgelerinin saklanması
+MADDE 20- (1) Spor kulüp yöneticisi alındı belgelerinin spor kulübü adına para toplamaya yetkili kişilere tesliminden, boş ve kullanılmış alındı belgelerinin usulüne uygun şekilde saklanması için gerekli tedbirlerin alınmasından sorumludur. Alındı belgelerinin görevliler arasında devir teslimi tutanakla yapılır.
+(2) Tamamı kullanılmadığı halde herhangi bir nedenle iade edilen alındı belgelerinin kullanılmayan yaprakları tespit edilerek spor kulübü adına para toplamaya yetkili kişiler ve spor kulübü yöneticisi tarafından tutanak altına alınır. Bu şekilde iade edilen alındı belgesi ciltleri, gelir tahsil edecek başka bir kişiye verilebilir veya yaprakları üzerine büyük harflerle ve görünebilecek şekilde İPTAL yazılarak bir daha kullanılmaz.

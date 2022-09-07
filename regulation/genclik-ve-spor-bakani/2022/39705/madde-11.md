@@ -1,0 +1,6 @@
+Defterlerin tasdiki
+MADDE 11- (1) Spor kulüpleri bu Yönetmelikte geçen ticari defterlerini, 213 sayılı Kanun ile 6102 sayılı Kanunun ilgili hükümlerine göre tasdik ettirirler.
+(2) Elektronik ortamda tutulacak defterler hariç olmak üzere, bu Yönetmelikte yazılı diğer defterler ise kullanılmaya başlanmadan önce il müdürlüğüne veya notere tasdik ettirilir. Bu defterlerin kullanılmasına sayfaları bitene kadar devam edilir ve defterlerin ara tasdiki yapılmaz.
+(3) Tasdik edilen her defter için ayrı bir tasdik numarası verilir. Spor kulübünün adı, sicil numarası, yerleşim yeri, defterin türü, defterin kaç sayfadan ibaret olduğu, tasdik tarihi, tasdik numarası, tasdiki yapan makamın resmi mühür ve imzasını içeren ve şekli Ek-2’de belirtilen elektronik ortamda tutulan Tasdik Şerhi Formu doldurulup defterin ilk sayfasına yapıştırılarak köşeleri tasdiki yapan makam tarafından mühürlenir. Defterin son sayfası, defterin kaç sayfadan ibaret olduğu, tasdik tarihi ve numarası belirtilerek tasdik makamı tarafından mühürlenir ve imzalanır.
+(4) Defterlerin her sayfası sıra numarasıyla teselsül edip etmediği kontrol edilerek mühürlenir.
+(5) İl müdürlüğü, tasdikini yaptığı defterlere ilişkin bilgileri elektronik ortamda tutulan Ek-3’te yer alan Tasdik Defterine kaydeder.

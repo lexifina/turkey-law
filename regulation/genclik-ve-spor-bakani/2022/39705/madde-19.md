@@ -1,0 +1,6 @@
+Alındı belgelerinin bastırılması ve kontrolü
+MADDE 19- (1) Bastırılan alındı belgelerinin seri ve sıra numaraları ile diğer baskı işlerinde kusur bulunup bulunmadığı, spor kulübü yöneticisi tarafından kontrol edilir. Kontrolde hatalı olduğu ortaya çıkan cilt veya formlar geri verilerek aynı miktarda yenisi bastırılır. Alındı belgeleri, matbaadan spor kulübü yöneticisi tarafından bir tutanak ile teslim alınır.
+(2) Bastırılan alındı belgesi ciltleri veya elektronik sistemler ve yazı makineleri aracılığıyla yazdırılması için bastırılan formların adedi ile seri ve sıra numaralarının, on beş gün içinde basımevleri tarafından il müdürlüğüne bildirilmesi zorunludur. Bu bildirim Bakanlık bilişim sistemi üzerinden elektronik ortamda da yapılabilir.
+(3) İl müdürlükleri, basımevleri tarafından bildirilen alındı belgeleri ile ilgili bilgileri kontrol eder ve ilgili spor kulübü ve basımevinin adını, alındı belgesi ciltlerinin adedini, başlangıç ve bitiş numaraları ile seri numaralarını Ek-9’daki Alındı Belgesi Ciltleri Takip Defterinin bir satırına kaydeder.
+(4) Form veya sürekli form şeklinde bastırılan alındı belgeleri de başlangıç ve bitiş numaraları elli asıl ve elli koçan yaprağını ihtiva edecek şekilde gruplandırılarak bu maddede belirtilen usule göre kaydedilir ve kullanılır.
+(5) Alındı Belgesi Ciltleri Takip Defteri elektronik ortamda da tutulabilir.

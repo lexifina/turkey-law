@@ -1,0 +1,3 @@
+Gelirlerin teslim edilmesi
+MADDE 23- (1) Spor kulübü adına gelir tahsil etmekle yetkili olan kişiler, tahsil ettikleri parayı on beş iş günü içerisinde spor kulübünün banka hesabına yatırırlar. Ancak tahsil edilen paranın 213 sayılı Kanunun ilgili hükümleri uyarınca bankalar ile finansal kuruluşlar veya Posta ve Telgraf Teşkilatı Anonim Şirketi aracılığıyla yapılması zorunlu ödeme tutarını geçmesi halinde bu paranın en geç iki iş günü içinde spor kulübünün banka hesabına yatırılması zorunludur.
+(2) Spor kulübünün kasasında bulundurulabilecek para miktarı güncel ihtiyaçlar dikkate alınarak yönetim kurulunca belirlenebilir.

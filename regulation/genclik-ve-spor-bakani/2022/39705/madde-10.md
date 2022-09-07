@@ -1,0 +1,5 @@
+Hesap dönemi
+MADDE 10- (1) Spor kulüplerinde hesap dönemi kural olarak bir takvim yılıdır. Hesap dönemi 1 Ocakta başlar ve 31 Aralıkta sona erer. Yeni kurulan spor kulüplerinde hesap dönemi kuruluş tarihinde başlar ve 31 Aralıkta sona erer.
+(2) Konsolidasyonun gerekli olduğu hâllerde spor kulübü bünyesinde konsolide olanlardan en yüksek harcamaya sahip olanın hesap dönemi spor kulübünün de hesap dönemi olarak kabul edilir.
+(3) Spor kulübüne bağlı bir veya daha fazla spor anonim şirketi varsa konsolidasyon spor kulübü bilançosunda yapılır. Bu durumda hesap dönemi olarak spor anonim şirketinin hesap dönemi spor kulübüne de uygulanır. Spor kulübüne bağlı birden fazla spor anonim şirketi bulunması hâlinde, spor kulübü bilançosunda en yüksek harcamaya sahip spor dalında faaliyet gösteren spor anonim şirketinin hesap dönemi spor kulübüne de uygulanır.
+(4) Talepte bulunmaları halinde, spor kulüplerinin vergi kanunları uyarınca defter tutma yükümlülüğü bulunan iktisadi işletmeleri hariç olmak üzere farklı tarihleri kapsayan hesap dönemini kullanmalarına Bakanlıkça izin verilebilir.

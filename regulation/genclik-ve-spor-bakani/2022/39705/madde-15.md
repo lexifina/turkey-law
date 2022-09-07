@@ -1,0 +1,2 @@
+Defterlerin kaybolması
+MADDE 15- (1) Spor kulüpleri tarafından tutulan defter veya belgelerin kaybolması, çalınması, okunamayacak duruma gelmesi veya yangın, su baskını, yer sarsıntısı gibi bir afet nedeniyle ve kanuni saklama süresi içinde zıyaa uğraması durumunda, spor kulübü yöneticisi zıyaın öğrenildiği tarihten itibaren otuz gün içerisinde zayi belgesi almak için spor kulübü merkezinin bulunduğu yer yetkili mahkemesine başvuru yapar ve neticesinden il müdürlüğü yazılı şekilde bilgilendirilir.

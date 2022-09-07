@@ -1,0 +1,4 @@
+Yetki belgesi
+MADDE 22- (1) Spor kulübü adına gelir tahsil edecek kişi veya kişiler, yetki süresi de belirtilmek suretiyle yönetim kurulu kararı ile tespit edilir. Gelir tahsil edecek kişilerin açık kimliği, imzası ve fotoğraflarını ihtiva eden ve Ek-10’da yer alan Yetki Belgesi spor kulübü tarafından iki nüsha düzenlenerek, spor kulübü başkanı tarafından onaylanır.
+(2) Yetki belgelerinin süresi yönetim kurulu tarafından en çok yönetim kurulu görev süresi ile sınırlı olarak belirlenir. Süresi biten yetki belgeleri birinci fıkraya göre yenilenir. Yetki belgesinin süresinin bitmesi veya adına yetki belgesi düzenlenen kişinin görevinden ayrılması, ölümü, işine veya bu görevine son verilmesi, spor kulübünün kendiliğinden sona erdiğinin tespit edilmesi veya feshedilmesi gibi hallerde, verilmiş olan yetki belgelerinin spor kulübü yönetim kuruluna bir hafta içinde teslimi zorunludur.
+(3) Gelir toplama yetkisi yönetim kurulu kararı ile her zaman iptal edilebilir.

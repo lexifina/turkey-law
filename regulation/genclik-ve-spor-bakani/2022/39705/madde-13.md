@@ -1,0 +1,2 @@
+Saklama süresi
+MADDE 13- (1) Karar ve üye kayıt defterleri, ödüller, beratlar, madalya bilgileri ve benzeri devamlı niteliği haiz kayıtları devamlı surette; spor kulüpleri tarafından tutulması ve saklanması zorunlu olan hesap ve belgeler, özel kanunlarda belirtilen süreler saklı kalmak üzere, diğer kayıt ve belgeler ise kaydedildikleri defterlerdeki sayı ve tarih düzenine uygun olarak on yıl süreyle saklanır.
