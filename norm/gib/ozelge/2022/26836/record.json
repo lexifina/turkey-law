@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27575268-105[280-2019-159]-405236",
+  "source_id": 26836,
+  "date": "2022-09-07",
+  "title": "Dövize endeksli mal alımlarından kaynaklı borçlar ile mal bedelinin yabancı para üzerinden düzenlenen çekle ödenmesi halinde bu çeklerin izlendiği hesabın değerlemesinde ve ödeme tarihi itibariyle kur farkı tespitinde dikkate alınacak kur hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26836",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "e16634f0a583e48079637485e5f7484fc910fc0913792e6473b55c3c0771dc1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
