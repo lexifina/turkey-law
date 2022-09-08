@@ -1,0 +1,13 @@
+Pazarlık usulü
+MADDE 21 – (1) Aşağıda belirtilen hallerde pazarlık usulü ile ihale yapılabilir:
+a) Açık ihale usulü veya belli istekliler arasında ihale usulü ile yapılan ihale sonucunda teklif çıkmaması.
+b) Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani ve beklenmeyen veya İdare tarafından önceden öngörülmeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.
+c) Savunma ve güvenlikle ilgili özel durumların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının zorunlu olması.
+ç) İhalenin, araştırma ve geliştirme sürecine ihtiyaç gösteren ve seri üretime konu olmayan nitelikte olması.
+d) İhale konusu mal veya hizmet alımları işlerinin özgün nitelikte ve karmaşık olması nedeniyle teknik ve mali özelliklerinin gerekli olan netlikte belirlenememesi.
+e) Teşekkülün, yaklaşık maliyeti Kamu İhale Kanununun 21 inci maddesinin birinci fıkrasının (f) bendinde belirtilen miktara kadar olan mamul mal, malzeme veya hizmet alımları.
+(2) Birinci fıkranın (b), (c) ve (e) bentlerinde belirtilen hallerde ilan yapılması zorunlu değildir. Ancak, bu bentlere göre yapılacak ihalelere en az üç istekli davet edilerek yeterlik belgelerini ve fiyat tekliflerini birlikte vermeleri istenir. En az üç istekli davet edilmesine rağmen üçten az fiyat teklifi temin edilmesi halinde de ihale sonuçlandırılabilir.
+(3) Bu madde kapsamında mal ve hizmet alımı için yapılacak olan ihale ilanında, ihale konusu alanda faaliyet gösteren ve İdarece yeterliği tespit edilen adaylar ile görüşme yapılacağı belirtilir. Gerek ilan yapılan gerekse ilan yapılmayan hallerde, sadece İdarece yeterliği tespit edilenler ile görüşme yapılır.
+(4) Birinci fıkranın (a), (ç) ve (d) bentlerine göre yapılacak ihalelerde istekliler, öncelikle ihale konusu işin teknik detayları ve gerçekleştirme yöntemleri gibi hususlarda fiyatı içermeyen ilk tekliflerini sunar. Teşekkülün ihtiyaçlarını en uygun şekilde karşılayacak yöntem ve çözümler üzerine ihale komisyonu her bir istekli ile görüşür. Teknik görüşmeler sonucunda şartların netleşmesi üzerine bu şartları karşılayabilecek isteklilerden, gözden geçirilerek şartları netleştirilmiş teknik şartnameye dayalı olarak fiyat tekliflerini de içerecek şekilde tekliflerini vermeleri istenir.
+(5) Bu madde kapsamında yapılacak ihalelerde, ilk fiyat tekliflerini aşmamak üzere isteklilerden ihale kararına esas olacak son yazılı fiyat teklifleri alınarak ihale sonuçlandırılır.
+(6) Birinci fıkranın (b), (c) ve (e) bentleri kapsamında yapılan mal alımlarında, malın sözleşmeye davet yazısının tebliğini takip eden on gün içerisinde teslim edilmesi ve bunun İdarece uygun bulunması halinde, sözleşme yapılması ve kesin teminat alınması zorunlu değildir.

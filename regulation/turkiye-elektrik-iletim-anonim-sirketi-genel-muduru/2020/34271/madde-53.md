@@ -1,0 +1,2 @@
+Tekliflerin eşit olması hali
+MADDE 53 – (1) Birkaç istekli tarafından aynı fiyatın teklif edilmesi ve bu tekliflerin uygun görülmesi halinde, varsa fiyat dışı unsurlar da dikkate alınarak ekonomik açıdan en avantajlı teklif belirlenir. Fiyat dışı unsurlar yoksa aynı fiyat teklifinde bulunan isteklilerden ikinci bir kapalı teklif istenir ya da aynı fiyat teklifinde bulunan istekliler arasında, komisyonca kararlaştırılacak belli bir gün ve saatte açık eksiltme yapılır.

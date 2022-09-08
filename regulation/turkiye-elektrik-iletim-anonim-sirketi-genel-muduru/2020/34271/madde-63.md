@@ -1,0 +1,3 @@
+Sözleşme imzalama usul ve esasları
+MADDE 63 – (1) Sözleşmeler; Merkezde ihale yetkilisi ile ihaleyi yapan ünite yetkilisi, Taşra Teşkilatında ise ihale yetkilisi (Bölge Müdürü veya İşletme Müdürü) ve Müdür Yardımcısı ile ihale üzerinde kalan istekli yetkilisi tarafından imzalanır. Sözleşme imzalanmadan önce ihale üzerinde kalan isteklinin 51 inci maddenin beşinci fıkrası uyarınca ihalelere katılmaktan yasaklı olup olmadığı Kamu İhale Kurumundan teyit ettirilir.
+(2) Dış alımlarda sözleşmeler, yabancı firmaların bizzat kendileri tarafından imzalanması esas olmakla birlikte, bu firmaların acentesi olmayan hallerde, o firmanın Türk Elçiliğinden onaylı mümessil belgesine sahip Türkiye’deki temsilcileri tarafından da imzalanabilir.

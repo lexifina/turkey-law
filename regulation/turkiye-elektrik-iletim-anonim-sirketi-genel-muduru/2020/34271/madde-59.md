@@ -1,0 +1,2 @@
+Sözleşmeye davet
+MADDE 59 – (1) 58 inci maddenin birinci fıkrasında belirtilen sürelerin bitimini izleyen günden itibaren üç takvim günü içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen on takvim günü içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu, iadeli taahhütlü mektup ile tebligat adresine postalanmak suretiyle bildirilir. Ancak, bu bildirim isteklinin imzası alınmak suretiyle de tebliğ edilebilir. Yabancı istekliler için bu süreye en az on dört takvim günü ilave edilir.

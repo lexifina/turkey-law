@@ -1,0 +1,4 @@
+Satınalma ve ihale komisyonunun görevleri
+MADDE 13 – (1) Merkez satınalma ve ihale komisyonunun görevleri; Daire Başkanlıklarının ve Genel Müdür Yardımcısının yetki limitini aşan veya yetki limitine bakılmaksızın Genel Müdürlükçe havale edilen ihale ve satınalma konularında, ihale gün ve saati ile varsa, diğer şartları belirlemek ve vereceği karar ile ihaleyi sonuçlandırmaktır.
+(2) Daire Başkanlıkları satınalma ve ihale komisyonunun görevleri; ilgili Daire Başkanı tarafından havale edilen ihale ve satınalma konularında, ihale dosyası kapsamında vereceği karar ile ihaleyi sonuçlandırmaktır.
+(3) Taşradaki satınalma ve ihale komisyonunun görevleri; ilgili birimce hazırlanmış mukayeseli teklifleri inceleyerek sonuca ilişkin görüşlerini bir kararla ihale yetkilisine (Bölge Müdürü veya İşletme Müdürüne) sunmaktır.

@@ -1,0 +1,2 @@
+Sözleşme yapılmasında İdarenin görev ve sorumluluğu
+MADDE 62 – (1) İdare, belirlenen süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli sürenin bitmesini izleyen günden itibaren en geç beş takvim günü içinde, on takvim günü süreli bir noter ihbarnamesi ile bildirmek şartıyla, taahhüdünden vazgeçebilir. Bu takdirde, geçici teminat geri verilir.

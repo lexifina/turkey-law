@@ -1,0 +1,2 @@
+Bilgi ve belgeleri açıklama yasağı
+MADDE 43 – (1) Bu Yönetmeliğin uygulanmasında görevliler ile danışmanlık hizmeti sunanlar; ihale süreci ile ilgili bütün işlemlere, isteklilerin iş ve işlemleri ile tekliflerin teknik ve mali yönlerine ilişkin olarak gizli kalması gereken bilgi ve belgelerle, işin yaklaşık maliyetini ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre 41 inci ve 42 nci maddelerde belirtilen müeyyideler uygulanır.

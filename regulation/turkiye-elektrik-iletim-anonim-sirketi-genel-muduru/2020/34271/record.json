@@ -1,0 +1,53 @@
+{
+  "source_id": "7.5.34271",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ELEKTRİK İLETİM ANONİM ŞİRKETİNİN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (G) BENDİ UYARINCA YAPACAĞI MAL VE HİZMET ALIMLARINDA UYGULANACAK USUL VE ESASLARA DAİR YÖNETMELİK",
+  "number": "34271",
+  "issuer": "Türkiye Elektrik İletim Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-elektrik-iletim-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-elektrik-iletim-anonim-sirketi-genel-muduru/2020/34271",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34271&MevzuatTertip=5",
+  "source_sha256": "cafc20a8217ada83fcc5da72fa5c4922427e734ab162187a40b3c669f94dc090",
+  "source_bytes": 225287,
+  "published": "2020-02-13",
+  "gazette": "31038",
+  "in_force": "2022-09-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/9/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-09-08",
+      "RG-8/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-08",
+      "8/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-25",
+      "RG-25/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-25",
+      "25/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 14806,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

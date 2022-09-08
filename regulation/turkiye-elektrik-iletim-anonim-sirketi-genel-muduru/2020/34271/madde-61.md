@@ -1,0 +1,4 @@
+Sözleşme yapılmasında isteklinin görev ve sorumluluğu
+MADDE 61 – (1) İhale üzerinde kaldığı kendisine bildirilen istekli, kesin teminatı ve istenilen diğer belgeleri vererek sözleşmeyi imzalamak zorundadır. Sözleşme imzalandıktan hemen sonra geçici teminat iade edilir.
+(2) Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek kalmaksızın ihale üzerinde kalan isteklinin geçici teminatı gelir kaydedilir. Bu durumda Teşekkül, ekonomik açıdan en avantajlı ikinci teklif fiyatının, ihale yetkilisince uygun görülmesi kaydıyla, bu teklif sahibi istekli ile de bu Yönetmelikte belirtilen usul ve esaslara göre sözleşme imzalayabilir.
+(3) Ekonomik açıdan en avantajlı ikinci teklif sahibinin de sözleşmeyi imzalamaması durumunda ise, bu teklif sahibinin de geçici teminatı gelir kaydedilerek ihale iptal edilir. Sözleşme imzalamayan istekliler hakkında 41 inci madde hükümleri uygulanır.

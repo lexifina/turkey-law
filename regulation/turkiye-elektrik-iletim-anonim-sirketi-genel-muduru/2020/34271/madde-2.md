@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2 – (1) Bu Yönetmelik, Teşekkülün Merkez ve Taşra Teşkilatınca Kamu İhale Kanununun 3 üncü maddesinin birinci fıkrasının (g) bendine göre istisnaya tabi yurt içinden ve yurt dışından yapılacak Kamu İhale Kurumu tarafından onaylanmış ana faaliyetine ilişkin istisna listelerinde yer alan mal ve hizmet alımları ile danışmanlık hizmet alımlarında uygulanacak iş ve işlemlerle ilgili usul ve esasları kapsar.

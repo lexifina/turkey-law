@@ -1,0 +1,2 @@
+Bütün tekliflerin reddedilmesi ve ihalenin iptali
+MADDE 56 – (1) İhale dokümanında belirtilmiş olması kaydıyla, yetki limitleri dâhilinde onayından önceki herhangi bir aşamada, ihale komisyonu kararı üzerine İdare, verilmiş olan bütün teklifleri reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün isteklilere derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük altına girmez. Ancak idare, ihalenin iptal edilme gerekçelerini bütün isteklilere bildirir.

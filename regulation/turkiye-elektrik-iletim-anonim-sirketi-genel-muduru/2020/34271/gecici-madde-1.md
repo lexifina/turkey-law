@@ -1,0 +1,2 @@
+Tip ihale dokümanının hazırlanması
+GEÇİCİ MADDE 1 – (1) Bu Yönetmeliğin yürürlüğe konulmasından dolayı yeniden düzenlenmesi gereken Tip Şartnameler ve Tip Sözleşmeler bu Yönetmeliğin yayımlandığı tarihten itibaren altmış gün içinde Teşekkül tarafından hazırlanır ve Teşekkülün internet sitesinde yayımlanır. Bu düzenlemeler yapılıncaya kadar Teşekkül, mevcut Tip Şartname ve Tip Sözleşme hükümlerini uygulamaya devam eder.
