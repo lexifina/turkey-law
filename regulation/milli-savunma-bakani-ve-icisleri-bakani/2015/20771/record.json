@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.20771",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ASKERLİK YÜKÜMLÜLÜĞÜNÜ YERİNE GETİRİRKEN ÖLEN VEYA ENGELLİ HALE GELENLERE TAZMİNAT ÖDENMESİ HAKKINDA YÖNETMELİK",
+  "number": "20771",
+  "issuer": "Millî Savunma Bakanı ve İçişleri Bakanı",
+  "issuer_slug": "milli-savunma-bakani-ve-icisleri-bakani",
+  "path": "regulation/milli-savunma-bakani-ve-icisleri-bakani/2015/20771",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=20771&MevzuatTertip=5",
+  "source_sha256": "aed69c810eb36dfdae3ea6d4d622cf162b9cffc78080e473b928628c72f5445f",
+  "source_bytes": 57495,
+  "published": "2015-05-23",
+  "gazette": "29364",
+  "in_force": "2022-09-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/9/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-09-08",
+      "RG-8/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-08",
+      "8/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-04-27",
+      "RG-27/4/2019",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2019-04-27",
+      "27/4/2019",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik 31/7/2013 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2560,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.20771-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
