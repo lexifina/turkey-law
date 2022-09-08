@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/925",
+  "source_id": 7588,
+  "date": "2022-09-08",
+  "title": "“İlgili kişinin e-posta adresine başka abonelere ait e-faturaların gönderilmesi” hakkında Kişisel Verileri Koruma Kurulunun 08/09/2022 tarihli ve 2022/925 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7588/2022-925",
+  "source_sha256": "7a5c0a23f2dd32e37f6820a0e34a7d83f1ba853bf89ff63b66ebcf608aa1c322",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
