@@ -1,0 +1,2 @@
+Hizmet sunucularının sorumluluğu
+MADDE 32 – (1) Hizmet sunucuları, taahhütlere aykırı olarak kusurlu veya standartlara uygun olmayan malzeme seçilmesi, verilmesi veya kullanılması, tasarım hatası, uygulama yanlışlığı, denetim eksikliği, taahhüdün sözleşme hükümlerine uygun olarak yerine getirilmemesi gibi nedenlerle ortaya çıkan zarar ve ziyandan doğrudan sorumludur. Bu zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir.

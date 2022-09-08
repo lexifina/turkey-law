@@ -1,0 +1,3 @@
+İhalenin onaylanması ve sözleşmenin yapılması
+MADDE 26 – (1) İhale yetkilisi, karar tarihini izleyen en geç üç iş günü içinde ihale kararını onaylar veya gerekçesini açıkça belirtmek suretiyle iptal eder. İhale, kararın onaylanması hâlinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır. İhale sonucu, ihale kararının ihale yetkilisi tarafından onaylandığı veya iptal edildiği günü izleyen en geç üç gün içinde, ihale üzerinde bırakılan dahil olmak üzere ihaleye teklif veren bütün isteklilere bildirilir.
+(2) Yapılan ihaleler bir sözleşmeye bağlanır. Sözleşmeler idarece hazırlanır ve ihale yetkilisi ile yüklenici tarafından üç iş günü içinde imzalanır.

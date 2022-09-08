@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.36015",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GEÇİCİ BARINMA MERKEZLERİNİN İŞLETİLMESİ VE YÖNETİLMESİ AMACIYLA TEFRİK EDİLEN ÖDENEĞİN ÖZEL HESABA AKTARILMASI, HARCANMASI, MUHASEBELEŞTİRİLMESİ, DENETLENMESİ VE ALIMLARA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "36015",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2020/36015",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=36015&MevzuatTertip=5",
+  "source_sha256": "3a97e809a6651900303ee2414da3483cef3f93c21f9169a079e162f51b94d4c5",
+  "source_bytes": 70407,
+  "published": "2020-11-28",
+  "gazette": "31318",
+  "in_force": "2022-09-08",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-8/9/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-09-08",
+      "RG-8/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-08",
+      "8/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3996,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

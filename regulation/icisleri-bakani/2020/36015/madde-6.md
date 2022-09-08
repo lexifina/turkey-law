@@ -1,0 +1,4 @@
+Genel Müdürlük Komisyonu ve özel hesabının kullanımı
+MADDE 6 – (1) Genel Müdürlük özel hesabından yapılacak harcamalar, Genel Müdürlük Komisyonu tarafından gerçekleştirilir. Genel Müdürlük Komisyonu, bir veya birden fazla geçici barınma merkezi için aynı zamanda geçici barınma merkezi komisyonu veya ihale komisyonu görevini de yürütebilir. Harcama öncesinde, harcamanın konusunu gösterir Genel Müdür onayı alınır.
+(2) Komisyon, Genel Müdürlüğün ilgili dairelerinden Genel Müdür tarafından belirlenecek biri komisyon başkanı olmak üzere en az beş kişiden oluşur. Komisyon başkanı, daire başkanları arasından belirlenir. Komisyon başkanı, Genel Müdürlük özel hesabından yapılacak harcamalar için gerekli belgelerin hazırlanması görevlerini yürütmek üzere komisyon üyelerinden bir veya daha fazla personel görevlendirir.
+(3) Genel Müdürlük özel hesabından yapılan harcamalar için oluşturulan bu komisyon, Genel Müdüre karşı sorumludur.

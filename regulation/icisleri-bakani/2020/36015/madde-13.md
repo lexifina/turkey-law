@@ -1,0 +1,2 @@
+Özel hesabın nemalandırılması
+MADDE 13 – (1) Özel hesapta yer alan tutarlar, ilgili hesap Tek Hazine Kurumlar Hesabı Uygulaması kapsamına alınana kadar 7/3/2019 tarihli ve 810 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Kamu Haznedarlığı Yönetmeliğine uygun olarak kamu sermayeli bankalar vasıtasıyla mali piyasaların ekonomik şartlarına uygun olarak nemalandırılabilir. Bu şekilde elde edilen gelirler ile promosyon veya başka isimler altında bankalarca sağlanan kaynaklar da bu Yönetmelik çerçevesinde kullanılır.

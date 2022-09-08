@@ -1,0 +1,4 @@
+Açık ihale usulü
+MADDE 19 – (1) Açık ihale usulü, bütün isteklilerin teklif verebildiği usuldür. Genel Müdürlük Komisyonu veya ihale komisyonu tarafından tüm mal alımı, hizmet alımı ve yapım işlerinde açık ihale usulünün uygulanması esastır.
+(2) Açık ihale usulü ile yapılacak olan ihalelerin ilânları, ihale tarihinden en az beş gün önce, hükümet ve belediye binalarının ilân tahtalarına asılacak yazılar, belediye yayın araçları veya işin yapılacağı yerde çıkan gazetelerden biriyle ve Kamu İhale Bülteni ile yapılır. Bu işlemler bir tutanakla belgelenir. Bunlara ilave olarak idarenin internet sayfası var ise ihaleler, bilgi işlem ağı veya elektronik haberleşme yolu ile de ayrıca ilan edilir.
+(3) Pazarlık usulünün veya doğrudan temin yönteminin kullanılabileceği durumlarda da mal ve hizmet alımları ile yapım işleri açık ihale usulü ile yapılabilir.

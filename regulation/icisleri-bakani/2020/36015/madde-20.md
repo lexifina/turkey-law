@@ -1,0 +1,5 @@
+Pazarlık usulü
+MADDE 20 – (1) 4734 sayılı Kanunun 21 inci maddesinin birinci fıkrasının (f) bendi için belirlenen limiti aşmamak üzere mal veya hizmet alımları ile acil yapım işlerinin ihalelerinde teminat alınmaksızın Genel Müdürlük Komisyonu veya ihale komisyonu tarafından pazarlık usulü uygulanır.
+(2) İhaleye katılacak isteklilerden; ilgili mevzuat gereği ilgili odaya kayıtlı olarak faaliyette bulunduğunu ve imza sirküleri, imza beyannamesi ve vekâletname gibi teklif vermeye yasal olarak yetkili olduğunu kanıtlayan belgeler istenir.
+(3) İhalelerde, ilan yapılmaksızın en az üç istekli davet edilerek, gerekli belgeleri ve fiyat tekliflerini birlikte vermeleri istenir. Teklifler, Genel Müdürlük Komisyonu veya ihale komisyonu tarafından değerlendirilerek ihale ekonomik açıdan en avantajlı teklifi veren isteklinin üzerine bırakılır.
+(4) Geçerli teklif sunan bütün istekliler ile kamu menfaati gereği bir kez daha fiyat görüşmesi yapılabilir. Nihai teklif tutarı, ilk teklif bedelinden yüksek olamaz. Tekliflerin alınmasını ve değerlendirilmesini müteakip ihale sonuçlandırılır.

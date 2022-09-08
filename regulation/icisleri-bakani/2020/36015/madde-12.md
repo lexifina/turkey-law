@@ -1,0 +1,3 @@
+Muhasebe ve taşınır mal işlemleri
+MADDE 12 – (1) Özel hesaba ilişkin muhasebe işlemleri, 17/10/2017 tarihli ve 30213 sayılı Resmî Gazete’de yayımlanan Kamu İdarelerine Ait Özel Hesaplara İlişkin İşlemlerin Muhasebeleştirilmesine Dair Yönetmelik, 9/8/2018 tarihli ve 30504 sayılı Resmî Gazete’de yayımlanan Tek Hazine Kurumlar Hesabı Uygulamasına İlişkin Yönetmelik ve 27/12/2014 tarihli ve 29218 mükerrer sayılı Resmî Gazete’de yayımlanan Merkezi Yönetim Muhasebe Yönetmeliği hükümleri çerçevesinde yerine getirilir.
+(2) Geçici barınma merkezlerince edinilen taşınırlar, 28/12/2006 tarihli ve 2006/11545 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Taşınır Mal Yönetmeliği hükümlerine göre idare kayıtlarına alınıp takip edilir.

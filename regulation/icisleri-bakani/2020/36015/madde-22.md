@@ -1,0 +1,2 @@
+İhtiyaçların kamu kurum ve kuruluşları, Türk Kızılayı, kamu yararına çalışan dernekler ve sivil toplum kuruluşlarından temini
+MADDE 22 – (1) Geçici barınma merkezlerinin faaliyetlerinin icrası sırasında, ihtiyaç duyulan mal ve hizmet alımları ile yapım işleri protokol yapılmak suretiyle kamu kurum ve kuruluşları, Türk Kızılayı, kamu yararına çalışan dernekler ve Genel Müdürlük veya il müdürlüğünce uygun görülen sivil toplum kuruluşlarından bedelsiz sağlanabilir.

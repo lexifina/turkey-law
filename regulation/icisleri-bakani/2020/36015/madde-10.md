@@ -1,0 +1,2 @@
+Kamu kurum ve kuruluşları ile mahalli idarelerin komisyonları ve özel hesaplarının kullanımı
+MADDE 10 – (1) Genel Müdürlükçe uygun görülen hallerde 11 inci maddede sayılan iş ve işlemlere ilişkin olarak kamu kurum ve kuruluşları ile mahalli idarelerin özel hesaptan yapacağı harcamalar ilgili kamu kurum ve kuruluşlarının üst yöneticileri ile ilgili mahalli idarenin en üst amiri tarafından oluşturulacak komisyon tarafından bu Yönetmelikte yer alan açık ihale usulü yöntemi ile gerçekleştirilir.
