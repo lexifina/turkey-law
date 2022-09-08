@@ -1,0 +1,22 @@
+{
+  "number": "143",
+  "number_as_published": "2022/143",
+  "year": 2022,
+  "title": "council decision",
+  "decision_date": "2022-09-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-eylul-ayi-meclis-kararlari/2316",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-143/2322",
+  "source_sha256": "a28907e913d303b8b47dfb6db5216bec11859c5c78de46f6ff011c10d7da07fc",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: subject appears to concern individual persons; official link only",
+  "in_force": "2022-09-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.09.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": true,
+  "decision_page_sha256": "00803f9854cf688db7816ff8bd4a14bc8c97b3b4f87149cc2d9f986267cc9fa2"
+}
