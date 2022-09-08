@@ -1,0 +1,13 @@
+{
+  "number": "22-41/560-224",
+  "type": "Diğer",
+  "decision_date": "2022-09-08",
+  "publication_date": "2023-02-13",
+  "official_url": "https://www.rekabet.gov.tr/Karar?kararId=3cc40769-142d-4d9f-ad37-04ba12ce89dd",
+  "listing_source": "https://www.rekabet.gov.tr/tr/Kararlar?page=185",
+  "pdf_sha256": "0628d8e9d2ac6aed34a3125a4ab2cf7872fbaee1db2abf6aca11a7b98c2bb8cc",
+  "pdf_bytes": "509458",
+  "pages": "6",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
