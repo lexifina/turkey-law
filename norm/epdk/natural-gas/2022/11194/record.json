@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11194",
+  "decision_date": "2022-09-08",
+  "title": "Trakya Bölgesi Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-09-10",
+  "resmi_gazete_number": "31949",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=e8/1ZSK+hy0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=e8/1ZSK+hy0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=KQU9HKmJrIE="
+  ],
+  "source_sha256": "e9e5f90bb3be3363344fe878aa1c05c4bc8d741a3b3a4af55f32654089fb2c5d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-08",
+  "law_text_complete": true
+}
