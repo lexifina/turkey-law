@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/923",
+  "source_id": 7587,
+  "date": "2022-09-08",
+  "title": "“İlgili kişinin telefon numarasının hastaneden ayrılan doktor tarafından SMS gönderilmesi suretiyle işlenmesi hakkında” Kişisel Verileri Koruma Kurulunun 08/09/2022 tarihli ve 2022/923 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/7587/2022-923",
+  "source_sha256": "15c76df9c2c912d9178c5c25d13c0d2e443574c1d7beb60b3a44b912fab17d76",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
