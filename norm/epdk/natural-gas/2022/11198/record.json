@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11198",
+  "decision_date": "2022-09-08",
+  "title": "Çordaş Çorlu Doğalgaz Dağıtım Anonim Şirketi Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-09-10",
+  "resmi_gazete_number": "31949",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7NLvjgYXq9k=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7NLvjgYXq9k=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=r/OSy/aXTfI="
+  ],
+  "source_sha256": "4569f7e0b59deacca3921405d41659754dae43b254ab29adb4c8aab761d9a71a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-09-08",
+  "law_text_complete": true
+}
