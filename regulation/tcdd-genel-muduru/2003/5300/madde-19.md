@@ -1,0 +1,3 @@
+İhtiyaçların Kamu Kuruluşlarından Karşılanması
+Madde 19- Genel ve katma bütçeli idareler, özel idareler, belediyeler ile bunlara bağlı döner sermayeli kuruluşlar, özelkanunlarla kurulmuş kendilerine kamu görevi verilmiş tüzel kişiliğe sahip kuruluşlar, bağımsız bütçeli kuruluşlar, kamu iktisadi teşebbüsleri ile bu kuruluşların yarıdan fazla sermaye ile ortak oldukları her çeşit kuruluş, müessese ve ortaklıkların sahip oldukları veya ürettikleri mal ve hizmetler kıymet takdiri yapılmak suretiyle doğrudan doğruya bu kuruluşlardan temin edilebilir.
+Bu durumda teminat alınmaz, ilgili kuruluşlarca yalnızca protokol düzenlenir.

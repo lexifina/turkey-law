@@ -1,0 +1,2 @@
+Sözleşmeye Davet
+Madde 32- İhale üzerinde kalan istekliye, tebliğ tarihini izleyen 15 (on beş) gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu, isteklinin imzası alınmak suretiyle İdarede tebliğ edilir veya iadeli taahhütlü mektup ile tebligat adresine postalanmak suretiyle bildirilir. Mektubun postaya verilmesini takip eden yedinci gün istekliye tebliğ tarihi sayılır. İdarece uygun görülmesi halinde, bu süreye 12 (on iki) gün ilave edilebilir.
