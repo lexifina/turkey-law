@@ -1,0 +1,52 @@
+{
+  "source_id": "7.5.23673",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TCDD TAŞIMACILIK ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜNÜN 4734 SAYILI KAMU İHALE KANUNUNUN 3/G MADDESİ UYARINCA YAPACAĞI MAL VE HİZMET ALIMLARINDA UYGULANACAK ESAS VE USULLER HAKKINDA YÖNETMELİK",
+  "number": "23673",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2017/23673",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=23673&MevzuatTertip=5",
+  "source_sha256": "6cb220799a1a371315c39d7ae888017ea129b9d05bfdd2fdef31530393e43cf7",
+  "source_bytes": 130595,
+  "published": "2017-06-21",
+  "gazette": "30103",
+  "in_force": "2022-09-09",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-9/9/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-09-09",
+      "RG-9/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-09",
+      "9/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-06-24",
+      "RG-24/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-24",
+      "24/6/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7427,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
