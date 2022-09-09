@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-135-1006503",
+  "source_id": 38930,
+  "date": "2022-09-09",
+  "title": "Gözetim uygulaması kapsamında ithal edilen ÖTV Kanununa ekli (II) sayılı listede yer alan araçların ilk iktisap kapsamında tesliminde matrah hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/437/ozelge/38930",
+  "related_law": "4760 sayılı ÖZEL TÜKETİM VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ec3a054e11ce1cedc703c66c0644f1eb545a7cca8547a965355f85b002390dc0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
