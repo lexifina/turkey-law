@@ -1,0 +1,26 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Aday: Ön yeterlik için başvuran gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+b) Ar-Ge: TENMAK’ın görev alanına giren konularda gerçekleştirilen her türlü araştırma, geliştirme, iyileştirme, yenilik, tasarım, teknoloji edinme, test ve yerlileştirme ile bilinçlendirme, girişimcilik, kapasite geliştirme, üretime ve ticari değere dönüştürme içerikli faaliyetleri,
+c) Ar-Ge projesi: TENMAK tarafından yürütülen ve/veya desteklenen konusu, amacı, kapsamı, süresi, bütçesi ve özel şartları belirlenmiş Ar-Ge amaçlı faaliyetler bütününü,
+ç) Başkan: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanını,
+d) Hizmet: Ar-Ge projeleri kapsamında yer alan her türlü hizmetleri,
+e) Hizmet sunucusu: Hizmet alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+f) İdare: TENMAK tarafından yürütülen Ar-Ge projelerinde TENMAK’ı, TENMAK tarafından desteklenen Ar-Ge projelerinde ise 4734 sayılı Kanuna tabi olan proje yöneticisi/yürütücüsü diğer kamu kurum/kuruluşunu,
+g) İhale: Bu Yönetmelikte yazılı usul ve şartlarla mal veya hizmet alımları ile yapım işlerinin istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
+ğ) İhale dokümanı: İhale konusu mal veya hizmet alımları ile yapım işlerinde, idari şartnameler ile teknik şartnameler ve sözleşme tasarısı ile gerekli diğer belge ve bilgileri,
+h) İhale yetkilisi: İdarenin, ihale ve harcama yapma yetki ve sorumluluğuna sahip kişi veya kurulları ile usulüne uygun olarak yetki devri yapılmış görevlilerini,
+ı) İstekli: Mal veya hizmet alımları ile yapım işlerinin ihalesine teklif veren tedarikçi, hizmet sunucusu veya yapım müteahhidini,
+i) Mal: Ar-Ge projeleri kapsamında alımı öngörülen her türlü taşınır ve taşınmaz mal ve hakları,
+j) Ortak girişim: İhaleye katılmak üzere birden fazla gerçek veya tüzel kişinin aralarında yaptıkları anlaşma ile oluşturulan iş ortaklığı veya konsorsiyumu,
+k) Ön yeterlik dokümanı: Adayların ön yeterlik değerlendirmesi amacıyla idare tarafından hazırlanan ön yeterlik şartnamesi ile gerekli diğer belge ve bilgileri,
+l) Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare ile yüklenici arasında yapılan yazılı anlaşmayı,
+m) Tedarikçi: Mal alımı ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+n) Teklif: Bu Yönetmeliğe göre yapılacak ihalelerde isteklinin idareye sunduğu fiyat teklifi ile değerlendirmeye esas belge ve/veya bilgileri,
+o) TENMAK: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumunu,
+ö) Yapım müteahhidi: Yapım işi ihalesine teklif veren gerçek veya tüzel kişileri veya bunların oluşturdukları ortak girişimleri,
+p) Yerli istekli: Türkiye Cumhuriyeti vatandaşı gerçek kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
+r) Yüklenici: Üzerine ihale bırakılan ve sözleşme imzalanan istekliyi,
+s) Yürütme Kurulu: Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Yürütme Kurulunu,
+ifade eder.
+(2) Bu Yönetmelikte tanımı bulunmayan hususlar hakkında, 4734 sayılı Kanun ile 27/4/2022 tarihli ve 31822 sayılı Resmî Gazete’de yayımlanan Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Proje Destek Programlarına İlişkin Yönetmelik ve TENMAK’ın ilgili diğer mevzuatında yer alan tanımlar esas alınır.

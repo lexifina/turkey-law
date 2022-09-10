@@ -1,0 +1,2 @@
+Ek kesin teminat
+MADDE 46- (1) Fiyat farkı ödenmesi öngörülen sözleşmelerde fiyat farkı olarak ödenecek bedelin, sözleşme bedelinde artış meydana getirmesi halinde bu artış tutarının % 6’sı oranında teminat olarak kabul edilen değerler üzerinden ek kesin teminat alınır. Fiyat farkı olarak ödenecek bedel üzerinden hesaplanan ek kesin teminat hak edişlerden kesinti yapılmak suretiyle de karşılanabilir.

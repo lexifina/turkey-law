@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39708",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE ENERJİ, NÜKLEER VE MADEN ARAŞTIRMA KURUMU AR-GE PROJELERİ KAPSAMINDA GERÇEKLEŞTİRİLECEK MAL VE HİZMET ALIMLARI İLE YAPIM İŞLERİNDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "39708",
+  "issuer": "Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu Başkanı",
+  "issuer_slug": "turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani",
+  "path": "regulation/turkiye-enerji-nukleer-ve-maden-arastirma-kurumu-baskani/2022/39708",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39708&MevzuatTertip=5",
+  "source_sha256": "97343191b7ecd7d54576dba0daf34f05b4b37868a58f673a8844a9fe43d5e9ab",
+  "source_bytes": 199700,
+  "published": "2022-09-10",
+  "gazette": "31949",
+  "in_force": "2022-09-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.09.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6615,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

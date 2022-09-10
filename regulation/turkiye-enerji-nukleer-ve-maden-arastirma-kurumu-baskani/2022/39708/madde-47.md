@@ -1,0 +1,2 @@
+Kesin teminat ve ek kesin teminatların geri verilmesi
+MADDE 47- (1) Bu Yönetmelik kapsamındaki mal ve hizmet alımları ile yapım işlerinde taahhüdün, sözleşme ve ihale dokümanı hükümlerine uygun olarak yerine getirildiği ve yüklenicinin bu işten dolayı idareye herhangi bir borcunun olmadığı tespit edildikten sonra alınmış olan kesin teminat ve varsa ek kesin teminatların geri verilmesinde 4735 sayılı Kanunun 13 üncü maddesi hükmü uygulanır.

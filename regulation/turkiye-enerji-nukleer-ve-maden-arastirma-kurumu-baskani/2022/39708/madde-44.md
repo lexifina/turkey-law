@@ -1,0 +1,3 @@
+Denetim, muayene ve kabul işlemleri
+MADDE 44- (1) Bu Yönetmelik kapsamındaki mal ve hizmet alımları ile yapım işlerinin denetim, muayene ve kabul işlemleri 4735 sayılı Kanunun 11 inci maddesi ve ilgili diğer mevzuat hükümlerine göre gerçekleştirilir.
+(2) TENMAK tarafından desteklenen Ar-Ge projeleri kapsamında bu Yönetmeliğe göre yapılacak alımlar için birinci fıkra hükmüne göre oluşturulacak muayene ve kabul komisyonlarında, proje yöneticisi/yürütücüsü ile birlikte araştırmacı niteliklerini haiz en az bir proje personeli işin uzmanı olarak görevlendirilir. Ancak proje yöneticisi/yürütücüsü, aynı zamanda projenin harcama yetkilisi ise muayene ve kabul komisyonlarında görev alamaz.

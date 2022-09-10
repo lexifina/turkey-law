@@ -1,0 +1,2 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu tarafından yürütülen ve/veya desteklenen Ar-Ge projeleri kapsamında Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu ile 4734 sayılı Kanuna tabi olan proje yöneticisi/yürütücüsü diğer kamu kurum/kuruluşları tarafından gerçekleştirilecek mal ve hizmet alımları ile bu projelerle doğrudan bağlantılı olan ve projenin yürütülmesi için zorunluluk arz eden yapım işlerini kapsar.

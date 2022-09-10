@@ -1,0 +1,3 @@
+Sözleşmeye davet
+MADDE 37- (1) 36 ncı maddede belirtilen sürelerin bitimini, ön mali kontrol yapılması gereken hallerde ise bu kontrolün tamamlandığı tarihi izleyen günden itibaren üç iş günü içinde ihale üzerinde kalan istekliye, tebliğ tarihini izleyen on gün içinde kesin teminatı vermek suretiyle sözleşmeyi imzalaması hususu bildirilir. Yabancı istekliler için bu süreye on gün ilave edilir. Sözleşmenin imzalanacağı tarihte, ihale üzerinde kalan isteklinin ihalelere katılmaktan yasaklı olup olmadığının teyit edilmesi zorunludur.
+(2) 38 inci maddenin ikinci fıkrası gereğince sözleşmeden önce kesin teminat alınmayan danışmanlık hizmet alımı ihalelerinde sözleşmeye davet ise, kesin teminat istenilmeksizin birinci fıkra hükümlerine göre yapılır.
