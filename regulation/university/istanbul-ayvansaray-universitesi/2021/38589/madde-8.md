@@ -1,0 +1,5 @@
+Müdür
+MADDE 8 – (1) Müdür, kadın ve aile çalışmaları konusunda eğitimi veya çalışmaları olan Üniversitenin tam zamanlı öğretim üyeleri arasından Rektör tarafından üç yıl için görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Aynı kişi üst üste en fazla iki kez Müdür olarak görevlendirilebilir.
+(2) Müdürün önerisi üzerine, Üniversite öğretim elemanları arasından en çok iki kişi müdür yardımcısı olarak Rektör tarafından görevlendirilir. Müdür yardımcıları, Müdürün kendilerine vereceği görevleri yapar. Müdürün görev süresi sona erdiğinde Müdür yardımcılarının da görevi kendiliğinden sona erer. Müdür, görevi başında bulunmadığı zaman yardımcılarından birisini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir Müdür görevlendirilir.
+(3) Müdür, görevi başında bulunmadığı zamanlarda kendisine vekalet etmek üzere müdür yardımcılarından birini yerine vekil olarak bırakır.
+(4) Müdürün istifa etmesi veya altı aydan fazla bir süre görevi başında bulunmaması durumunda aynı usulle yeni Müdür görevlendirilir.
