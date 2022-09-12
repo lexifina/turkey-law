@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-36062021-130[2022-KDV-ÖZE/24]-79079",
+  "source_id": 32121,
+  "date": "2022-09-12",
+  "title": "Mesken ve tarımsal sulama abone gruplarına yapılan elektrik teslimlerinde elektrik bedeli içinde yer alan dağıtım sistemi kullanım bedeli ve elektrik ve havagazı tüketim vergisinde KDV oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32121",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "25ebd7512fd61710d3bcbce75411ea274a760f003ca832b9280c920b16db67fc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
