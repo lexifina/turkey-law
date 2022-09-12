@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-84974990-130[KDV-2/İ/28-2022/44]-412746",
+  "source_id": 32122,
+  "date": "2022-09-12",
+  "title": "% 100 meyve sularında KDV oranı (meyve suyu, zencefil, zerdeçal,vitamin C, kolajen ve probiyotik karışımdan oluşan meyve suyu)",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/32122",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "183039c99dcf7c49c95601d2b23c45f21dc2ddf51d4a12577f2e36cae011363f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
