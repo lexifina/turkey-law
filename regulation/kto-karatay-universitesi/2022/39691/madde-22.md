@@ -1,0 +1,4 @@
+Mazeret sınavı
+MADDE 22- (1) Ara sınavlara giremeyen öğrencilere, mazeretlerini belgelemek ve sınavların sona erdiği tarihten itibaren beş iş günü içerisinde başvurmak kaydıyla ilgili yönetim kurulu kararı ile mazeret sınav hakkı verilebilir.
+(2) Final sınavına mazereti nedeniyle giremeyen öğrenci bütünleme sınavına girer. Herhangi bir mücbir sebep gerçekleştiği, sınava giremeyeceğine ilişkin sağlık kurulu raporu getirdiği, refakat etmediği takdirde birinci derecede yakının hayati tehlike taşıdığını resmi makamlarca onanması ve benzeri durumlarda bütünleme veya mazeret sınavına giremeyen öğrenciye mazeret sınav hakkı ilgili yönetim kurulu tarafından verilebilir.
+(3) Öğrenci, mazeret olarak sağlık nedenlerini gösterdiği ve bu durumu yataklı tedavi kurumlarından belgelediği takdirde, sağlık raporunun öngördüğü süre içinde girdiği sınavlar geçersizdir.

@@ -1,0 +1,9 @@
+Özel öğrenciler
+MADDE 9- (1) Özel öğrenci, bir yükseköğretim kurumunda kayıtlı öğrenci olup, farklı bir yükseköğretim ortamı, kültürü, kazanımı edinmek isteyen veya özel durumu, sağlık ve benzeri nedenlerle kayıtları kendi üniversitelerinde kalmak şartıyla farklı bir yükseköğretim kurumunda eğitime devam etme imkânı tanınan öğrenciyi ifade eder.
+(2) Özel öğrenci başvuruları ilgili Yönetim Kurulu görüşü ile Üniversite Yönetim Kurulu tarafından değerlendirilerek karara bağlanır. Özel öğrencilere diploma ve unvan verilmez. Ancak, aldıkları dersleri gösteren bir belge verilir. Özel öğrenciler, Üniversitenin diğer öğrencilerine uygulanan idari ve akademik kurallara tabidirler.
+(3) Yurt içinde veya yurt dışında bir yükseköğretim kurumuna kayıtlı olan öğrencinin, özel öğrenci olarak aynı düzeyde başka bir yükseköğretim kurumundan aldığı ders veya uygulamaların AKTS kredileri, ilgili yönetim kurulu kararı ile kayıtlı olduğu diploma programındaki yükümlülüklerinin yerine sayılabilir.
+(4) Özel öğrencilik imkanından bir program süresince en fazla iki dönem yararlanılır. Bu süre, öğrencinin talebi ve ancak aşağıdaki şartlar çerçevesinde Yükseköğretim Kurulunun kararıyla uzatılabilir:
+a) Öğrencinin, yükseköğretim kurumuna yerleşmesinden sonra eğitimi sebebiyle ikamet edilen ilde tedavisi mümkün olmayan ciddi bir hastalık teşhisi konulduğunun ya da var olan hastalığın ilerlediğinin devlet hastanesi veya devlet üniversitesi hastanesinden alınmış sağlık kurulu raporu ile belgelenmiş olması.
+b) Öğrencinin maruz kaldığı darp, şiddet gibi fiiller sebebiyle öğrenimini kayıtlı olduğu yükseköğretim kurumunda devam ettirmesinin mümkün olmadığına ilişkin Üniversite Yönetim Kurulunun teklifinin olması.
+(5) Özel öğrencilerin Mütevelli Heyet tarafından belirlenen öğrenim ücretini ödemeleri gerekir.
+(6) Özel öğrenciler ile ilgili olarak; bu Yönetmelikte yer almayan konularda ilgili mevzuat hükümleri ve Senato kararları doğrultusunda işlem yapılır.

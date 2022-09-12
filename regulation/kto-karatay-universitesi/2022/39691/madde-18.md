@@ -1,0 +1,6 @@
+Ders ve uygulamalara devam
+MADDE 18- (1) Öğrenciler ilgili fakülte, yüksekokul veya meslek yüksekokullarının belirlediği ilkeler doğrultusunda derslere, laboratuvar ve uygulamalara devam etmek, dönem içinde her türlü sınava ve öğretim elemanlarının uygun gördüğü diğer çalışmalara katılmakla yükümlüdür. Öğrenciler, teorik derslerin %70’ine, uygulamalı derslerin %80'ine devam etmek zorundadır. Aksi takdirde devamsızlık nedeniyle başarısız sayılır.
+(2) Öğrencinin devamsızlık durumu, dersin öğretim elemanı tarafından izlenir. Devamsızlık sınırını aşan öğrencilerin sınav sonuçları ilgili dersin öğretim üyesi/öğretim görevlisi tarafından FX notuna dönüştürülür.
+(3) Öğrencinin kusurlu davranışından kaynaklanan nedenler, disiplin cezası, sağlık dâhil olmak üzere belgeli ve belgesiz diğer mazeretler derse devamsızlığın mazereti olarak kabul edilmez.
+(4) Rektörlüğün onayı ile Üniversiteyi veya Türkiye’yi temsilen toplantı, spor, sanat ve benzeri faaliyetlere katılan öğrencilerin bu faaliyet günlerinde ilgili öğrenciler izinli sayılır. Ancak uygulamalı derslerde program yeterlilikleri için gerekli şartların sağlanması gerekmektedir.
+(5) Tekrarlanan derslerde önceki dönem/yılda daha önceden devam koşulu yerine getirilmişse, ilgili dersin sınavlarına girmek; ödev, çalışma ve benzeri etkinliklerdeki yükümlülüklerini yerine getirmek kaydıyla devam koşulu aranmaz.

@@ -1,0 +1,4 @@
+Değişim programlarına katılan öğrenciler
+MADDE 8- (1) Yurt içinde veya yurt dışında ulusal veya uluslararası öğrenci değişim programları kapsamında Üniversite tarafından bir veya iki dönem süresince anlaşmalı üniversitelere öğrenci gönderilebilir veya anlaşmalı üniversitelerden öğrenci kabul edilebilir. Bu süre içinde öğrencinin Üniversitedeki kaydı devam eder ve bu süre öğrenim süresinden sayılır.
+(2) Değişim programları kapsamında aynı düzeyde başka bir yükseköğretim kurumundan alınan ders veya uygulamaların notları ve AKTS kredileri, ilgili yönetim kurulu kararı ile öğrencinin kayıtlı olduğu diploma programındaki yükümlülüklerinin yerine sayılabilir. Öğrenci değişimine ilişkin diğer esaslar Senato tarafından belirlenir.
+(3) Üniversitemiz öğrencisi olup değişim programına katılan öğrenciler, öğrenim ücretini Üniversiteye öder.

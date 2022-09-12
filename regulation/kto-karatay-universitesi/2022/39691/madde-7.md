@@ -1,0 +1,3 @@
+Dikey geçiş
+MADDE 7- (1) Üniversitenin lisans programlarına yerleştirilen öğrencilerin, yerleştikleri programlara intibak işlemleri ilgili mevzuat hükümlerine göre yürütülür.
+(2) DGS ile yerleşen öğrencilerin, ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer olarak kabul edilenler, ilgili Yönetim Kurulu kararı ile muaf sayılır ve öğrencilerin almaları gereken derslere göre hangi yarıyıla intibak ettirildiği tespit edilerek programa kaydı yapılır. Bu öğrencilerin muaf oldukları lisans derslerine, ön lisansta almış olduğu ilgili dersin harf notu verilir. Dikey geçişle gelen öğrencinin lisans ağırlıklı not ortalamaları ön lisans programında alarak lisans programında intibakı yapılan dersler ile lisans eğitimi sırasında aldığı dersler üzerinden hesaplanır.

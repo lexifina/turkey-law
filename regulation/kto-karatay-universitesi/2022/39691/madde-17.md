@@ -1,0 +1,3 @@
+Derslerden muafiyet
+MADDE 17- (1) Daha önce bir yükseköğretim kurumuna devam ederek derslerden geçer not alan öğrenciler, yeni kabul edildikleri bölümün programında yer alan eşdeğer derslerden muaf sayılabilirler. Bu öğrenciler, muaf olmak istedikleri dersler için, daha önceki yükseköğretim kurumlarından almış oldukları resmi transkript ve muaf olmak istedikleri dersleri belirtir bir dilekçeyle, bağlı bulundukları bölüm veya program başkanlıklarına, Üniversiteye kayıt yaptırdıkları yılın/dönemin en geç ders ekle-sil süresinin sonuna kadar başvururlar. Derslerden muafiyet kararı, ilgili Yönetim Kurulu tarafından verilir.
+(2) Ders muafiyeti ve intibak işlemlerine ilişkin usul ve esaslar Senato tarafından belirlenir.

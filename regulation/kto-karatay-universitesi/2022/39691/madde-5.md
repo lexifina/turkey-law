@@ -1,0 +1,3 @@
+Yabancı dil yeterlilik
+MADDE 5- (1) Yabancı dilde eğitim yapılan bölümlere kayıt yaptıran tüm öğrencilerin yabancı dil bilgilerinin yeterli olup olmadığı, Yabancı Diller Yüksekokulu Müdürlüğü tarafından her akademik yılın başında yapılan yabancı dil yeterlilik-düzey belirleme sınavı ile tespit edilir.
+(2) Yeterlilik-düzey belirleme sınavını başaranlar ya da 19/12/2018 tarihli ve 30630 sayılı Resmî Gazete’de yayımlanan KTO-Karatay Üniversitesi Yabancı Diller Yüksekokulu Hazırlık Sınıfı Eğitim-Öğretim ve Sınav Yönetmeliğinde belirtilen koşulları sağlayarak yeterli görülenler kayıtlı oldukları eğitim öğretim programına başlar.

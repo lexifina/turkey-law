@@ -1,0 +1,2 @@
+Eğitim-öğretim yılı
+MADDE 12- (1) Her akademik yıl güz ve bahar olmak üzere iki yarıyıldan ve her yarıyıl en az on dört haftadan oluşur. Senato gerek gördüğünde bu süreyi değiştirebilir. Akademik yılın başlangıç ve bitiş tarihleri Senato tarafından belirlenir, ilan edilir. Gerektiğinde yaz dönemi de açılabilir. Yaz dönemi açılıp açılmaması ve yaz dönemiyle ilgili diğer hususlar ilgili yönetim kurulunun önerisi ve Senatonun kararı ile belirlenir.

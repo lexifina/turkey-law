@@ -1,0 +1,6 @@
+Ücretler
+MADDE 15- (1) Üniversitede muhtelif programlara devam edebilmek için ödenecek yıllık öğrenim ücreti, burslar ve diğer ücretler ile ücretlerin nasıl tahsil edileceği Mütevelli Heyet tarafından belirlenir. Üniversite tarafından sunulabilecek yurt, yemek, ulaşım ve benzeri ek hizmetlerin bedeli öğrenim ücreti dışındadır.
+(2) Özel öğrenciler ile çift anadal programlarına kayıtlı olan öğrenciler aldıkları derslerin AKTS kredisi dikkate alınarak Mütevelli Heyet tarafından belirlenen esaslara göre öğrenim ücreti öderler.
+(3) Üniversite ile ilişiği kesilen öğrencilerin ödemiş oldukları ücretlerin iadesine ilişkin usul ve esaslar Mütevelli Heyet tarafından belirlenir.
+(4) Disiplin suçu nedeniyle Üniversiteden uzaklaştırma cezası alan öğrencilerin de ödemekle yükümlü oldukları dönem veya yıllık öğrenim ücretini ödemeleri gerekir. Bu öğrencilere herhangi bir ücret iadesi yapılmaz.
+(5) Kayıtlı olduğu öğretim programını, normal öğrenim süresi içinde başarı ile tamamlayarak mezun olamayan öğrenciler uzattıkları dönem veya yıl için öğrenim ücreti doğrultusunda, dönem ya da yıllık olarak ders yükü kredisine kadar; Ücret = (dönemlik veya yıllık) öğrenim ücreti/(dönemlik veya yıllık) ders yükü AKTS kredisi x alınan AKTS kredisi; ders yükü kredisinden fazla dersi olanlardan ise dönemlik ya da yıllık öğrenim ücreti tahsil edilir.
