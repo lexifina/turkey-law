@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-09-12",
+      "12.09.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 17- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31951",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-09-12",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Çanakkale Onsekiz Mart Üniversitesi",
+  "issuer_slug": "canakkale-onsekiz-mart-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/canakkale-onsekiz-mart-universitesi/2022/39710",
+  "published": "2022-09-12",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39710&MevzuatTertip=5",
+  "source_bytes": 49455,
+  "source_id": "8.5.39710",
+  "source_sha256": "5721a9dd9190bc156c487d2fdc46d193315de9698bc7971363e7cb00265a78f1",
+  "text_status": "as-enacted",
+  "title": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ SİVİL TOPLUM KURULUŞLARI UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 186,
+  "word_count": 970
+}
