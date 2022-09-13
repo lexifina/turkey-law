@@ -1,0 +1,20 @@
+{
+  "applicant": "G.K. VE Ü.K.",
+  "application_date": "2018-11-05",
+  "application_number": "2018/31989",
+  "deciding_unit": "İkinci Bölüm",
+  "decision_date": "2022-09-13",
+  "id": "fc605b13-5481-7e0c-77b4-a487e189b342",
+  "in_force": "2022-09-13",
+  "in_force_basis": "official decision date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Kabul Edilemezlik vd.",
+  "published": null,
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmZjNjA1YjEzLTU0ODEtN2UwYy03N2I0LWE0ODdlMTg5YjM0Mg&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "749813ce6c0632ed2dd55552593c83c02dea20995f4cb37f60b69e03a05e28c5",
+  "version_label": "as-enacted"
+}
