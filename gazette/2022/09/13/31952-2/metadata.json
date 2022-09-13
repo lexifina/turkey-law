@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-09-13",
+  "issue": "31952",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "Tarım ve Orman Bakanlığı Disiplin Amirleri Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220913-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220913.htm",
+  "index_sha256": "d58d8012c412d562b1307ef41f9bc9b4e76a63f2226a9b4fb775ad52bf2ad001",
+  "index_header": "13 Eylül 2022 ... 31952 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220913.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
