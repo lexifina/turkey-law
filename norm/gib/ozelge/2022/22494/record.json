@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125-15472",
+  "source_id": 22494,
+  "date": "2022-09-14",
+  "title": "Geçmiş döneme ilişkin ödenen ÖTV'nin kurum kazancının tespitinde gider olarak indirip indirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22494",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "dd0221bfffd13dc11d516a0ef9def69d525af71f8897d38515049e494dd461ec",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
