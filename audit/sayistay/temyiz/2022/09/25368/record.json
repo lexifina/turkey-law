@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52298",
+  "decision_date": "2022-09-14",
+  "source_id": 25368,
+  "chamber": "8",
+  "file_number": "48777",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2019",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25368/",
+  "source_sha256": "4d4314325cd8766c25fd0609272bd778ca231458a1cbad797292f226c7341bf7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
