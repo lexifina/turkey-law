@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39721",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İDARİ GÖZETİME ALTERNATİF YÜKÜMLÜLÜKLERE İLİŞKİN YÖNETMELİK",
+  "number": "39721",
+  "issuer": "İçişleri Bakanı",
+  "issuer_slug": "icisleri-bakani",
+  "path": "regulation/icisleri-bakani/2022/39721",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39721&MevzuatTertip=5",
+  "source_sha256": "13ac1cddef2b0da740bbd55ce50dba4a15fd014899a34e7f294dc1daa99d1412",
+  "source_bytes": 84942,
+  "published": "2022-09-14",
+  "gazette": "31953",
+  "in_force": "2022-09-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.09.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4631,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
