@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52310",
+  "decision_date": "2022-09-14",
+  "source_id": 25379,
+  "chamber": "7",
+  "file_number": "51653",
+  "public_body_type": "Özel İdareler",
+  "account_year": "2017",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25379/",
+  "source_sha256": "f18aee73c07bd866460cf48317b74f9b9dd8520c7781c2d17f6da5d15b220a3d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
