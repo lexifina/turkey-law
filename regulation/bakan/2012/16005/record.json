@@ -1,0 +1,46 @@
+{
+  "source_id": "7.5.16005",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLÎ EĞİTİM UZMANLIĞI YÖNETMELİĞİ",
+  "number": "16005",
+  "issuer": "Bakan",
+  "issuer_slug": "bakan",
+  "path": "regulation/bakan/2012/16005",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=16005&MevzuatTertip=5",
+  "source_sha256": "f60dcfa7af670a9602fa7fe86ca08b0b0eabd2a17bc7f6839feb78d69cd37bc4",
+  "source_bytes": 58082,
+  "published": "2012-03-30",
+  "gazette": "28249",
+  "in_force": "2022-09-15",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-15/9/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-09-15",
+      "RG-15/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-15",
+      "15/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2467,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.16005%20EKK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Yurt dışında eğitim
+MADDE 27 – (1) Uzmanlar, 21/1/1974 tarihli ve 7/7756 sayılı Bakanlar Kurulu Kararıyla yürürlüğe konulan Yetiştirilmek Amacıyla Yurt Dışına Gönderilecek Devlet Memurları Hakkında Yönetmelik hükümleri çerçevesinde, staj veya araştırma yapmak, meslekî bilgi ve görgülerini artırmak veya yurt dışındaki üniversitelerden kabul belgesi almaları şartıyla akademik çalışma yapmak üzere yurt dışına gönderilebilir.

@@ -1,0 +1,4 @@
+Yarışma sınavının değerlendirilmesi ve ilânı
+MADDE 12 – (1) Yarışma sınavı sonucu; (Değişik ibare:RG-15/9/2022-31954) yalnızca sözlü sınav yapılması durumunda sözlü sınav puanına, yazılı ve sözlü sınavın birlikte yapılması halinde yazılı ve sözlü sınav puanlarının aritmetik ortalamasına göre, puanı en yüksek adaydan başlanarak atama yapılacak kadro sayısı kadar asıl, asıl aday sayısının yarısı kadar da yedek aday belirlenir. Yedek listede yer alan adayların hakları, ilân tarihini takip eden üç ay için geçerlidir ve daha sonraki sınavlar için müktesep hak veya herhangi bir öncelik teşkil etmez.
+(2) Sınav puanlarının eşitliği halinde sırasıyla yazılı sınav yapılmışsa yazılı sınav puanı, yapılmamışsa sözlü sınav puanı, KPSS puanı, diploma notu yüksek olan aday sıralamada üstte yer alır.
+(3) (Ek:RG-15/9/2022-31954) Yarışma sınavı başarı listesi/listeleri Bakanlığın internet sitesinde duyurulur.
