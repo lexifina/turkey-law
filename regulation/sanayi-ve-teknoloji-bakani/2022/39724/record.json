@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39724",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KALKINMA AJANSLARI DENETİM YÖNETMELİĞİ",
+  "number": "39724",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2022/39724",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39724&MevzuatTertip=5",
+  "source_sha256": "6f9c70399adc1d97a2d3177414fbff467636be216a0be6f6bced2928d9a8a24a",
+  "source_bytes": 42241,
+  "published": "2022-09-17",
+  "gazette": "31956",
+  "in_force": "2022-09-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.09.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1063,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
