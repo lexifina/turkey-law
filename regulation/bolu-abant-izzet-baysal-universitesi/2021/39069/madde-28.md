@@ -1,0 +1,9 @@
+Mezuniyet
+MADDE 28 – (1) Öğrencinin öğrenimini tamamlamış ve mezun durumunda kabul edilmesi için aşağıdaki koşulları sağlaması zorunludur:
+a) Kayıtlı olduğu zorunlu ve seçmeli dersler için ayrı ayrı öngörülen toplam kredi miktarlarını tamamlamak ve varsa diğer mezuniyet koşullarını bu Yönetmelik hükümlerine göre yerine getirmiş olmak.
+b) En az 2,00 genel ağırlıklı not ortalamasını sağlamak.
+(2) Mezuniyet için öngörülen koşulları tamamlayan öğrencilerin, bu koşulları tamamladıkları yarıyılın sonunda mezuniyet işlemleri yapılır ve bu öğrenciler diploma almaya hak kazanırlar. Mezuniyet için en az 240 AKTS’lik zorunlu ve seçmeli ders yükümlülüklerini başarı ile tamamladıkları halde fazladan alınan ve başarısız olunan seçmeli dersler öğrencinin mezuniyetine engel teşkil etmez. Bu dersler doğrudan değerlendirme dışı bırakılır ve genel not ortalaması hesabına dâhil edilmez.
+(3) Lisans öğrenimini tamamlamayan veya tamamlayamayan öğrencilerin, lisans programından kaydı silinerek ön lisans diploması almaları veya meslek yüksekokullarına intibak ettirilmeleri, ilgili mevzuat hükümlerine göre düzenlenir.
+(4) Öğrenimini başarıyla tamamlayarak diploma almaya hak kazanan öğrencilere diploma ile diploma eki verilir. Diploma eki öğrencinin öğrenimi süresince almış olduğu bütün derslerin adları, AKTS kredileri ile standart diploma eki bilgilerini kapsar. Diploma eki, diploma yerine kullanılmaz.
+(5) Genel ağırlıklı not ortalaması 3.00’dan 3.49’a kadar olan öğrenciler şeref, 3.50 veya daha yukarı olan öğrenciler yüksek şeref listesine geçerek mezun olurlar. Şeref ve yüksek şeref listesine geçen öğrencilerin durumları diplomalarında belirtilir.
+(6) Başka bir hukuk fakültesinden nakil yolu ile gelen öğrencilerin lisans diploması alabilmeleri için en az bir eğitim-öğretim yılını Fakültede okumuş olmaları şarttır.

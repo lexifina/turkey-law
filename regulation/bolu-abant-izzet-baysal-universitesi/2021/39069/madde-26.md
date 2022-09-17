@@ -1,0 +1,5 @@
+Ders tekrarı
+MADDE 26 – (1) Ders tekrarı iki şekilde yapılır. Bunlardan ilkinde başarısızlık nedeniyle başarısız olunan dersler tekrar alınır. İkincisinde ise öğrenci, bazı dersleri not yükseltmek için alır.
+(2) Bir dersten FF, FD, E/I, BZ/U, DE/P veya DZ/NA notu alan veya dersi normal eğitim-öğretim yılında alamayan öğrenciler, bu dersi tekrar verildiği ilk eğitim-öğretim yılında almak zorundadırlar. Bu dersler sonradan müfredattan çıkarılan dersler olduğu taktirde, bunların yerine Fakülte Yönetim Kurulunca uygun görülen dersleri alırlar.
+(3) Öğrenci başarısız olduğu seçmeli dersi, dersin açıldığı herhangi bir yarıyılda tekrar edebilir. Bu seçmeli dersi bir daha almak istemeyen öğrenci dersten vazgeçme hakkına sahiptir. Vazgeçilen bir seçmeli ders detaylı transkriptinde görünmeye devam eder.
+(4) Öğrenciler geçer not aldıkları dersleri, dersin öğretim planında yer alması ve herhangi bir eğitim-öğretim yılında veya yarıyıl döneminde açılması şartıyla öğrenimleri süresince tekrarlayabilirler. Tekrarlanan derste önceki not dikkate alınmadan alınan son not geçerlidir.

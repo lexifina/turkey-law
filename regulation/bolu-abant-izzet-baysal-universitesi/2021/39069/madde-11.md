@@ -1,0 +1,2 @@
+Öğrenci katkı payı/öğrenim ücreti
+MADDE 11 – (1) Katkı payı/öğrenim ücreti ödemekle yükümlü her bir öğrenci, 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen katkı payı/öğrenim ücretini akademik takvimde belirlenen sürede ödemekle yükümlüdür. Katkı payı/öğrenim ücretini ödemeyen öğrencinin o yıl/yarıyıl için kayıt işlemleri yapılmaz ve öğrenci öğrencilik haklarından yararlanamaz. Öğrencinin katkı payı/öğrenim ücretini ödemediği yarıyıl/yıl öğrenim süresinden sayılır.

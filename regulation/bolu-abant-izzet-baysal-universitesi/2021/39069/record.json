@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 33 – (1) Bu Yönetmelik 2021-2022 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2021-11-28",
+      "28.11.2021",
+      "original gazette publication date in official listing"
+    ],
+    [
+      "2022-09-17",
+      "RG-17/9/2022-31956",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-09-17",
+      "RG-17/9/2022-31956",
+      "latest source-printed gazette amendment date for current consolidated text"
+    ],
+    [
+      "2022-09-17",
+      "17/9/2022",
+      "latest gazette date in source amendment table"
+    ]
+  ],
+  "date_quote": "RG-17/9/2022-31956",
+  "first_law": null,
+  "gazette": "31673",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-09-17",
+  "in_force_basis": "latest source-printed gazette amendment date for current consolidated text",
+  "issuer": "Bolu Abant İzzet Baysal Üniversitesi",
+  "issuer_slug": "bolu-abant-izzet-baysal-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/bolu-abant-izzet-baysal-universitesi/2021/39069",
+  "published": "2021-11-28",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39069&MevzuatTertip=5",
+  "source_bytes": 135877,
+  "source_id": "8.5.39069",
+  "source_sha256": "d90ae448e3a3b5aad539d74f269695f3af71e267579d1353b3ef88e3bcb4fa53",
+  "text_status": "current-consolidated",
+  "title": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ HUKUK FAKÜLTESİ\r\nEĞİTİM-ÖĞRETİM VE SINAV YÖNETMELİĞİ",
+  "university_id": 175,
+  "word_count": 4011
+}
