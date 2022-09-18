@@ -1,0 +1,3 @@
+Ders muafiyetleri
+MADDE 11- (1) Fakülteye ilk kez kayıt yaptıran veya bir üniversiteden ayrıldıktan sonra merkezi yerleştirme sınavı ile Fakülteye yerleştirilen veya kurum içi, kurum dışı veya merkezi yerleştirme puanı ile yatay geçişle Fakülteye kayıt yaptıran öğrenciler, daha önce aldıkları ve başarılı oldukları derslerden muaf olmak için kayıt yaptırdıkları yarıyılın ders kayıt haftasından bir hafta önce, Dekanlığa yazılı olarak başvururlar. Muafiyet başvurusu Fakülte Yatay Geçiş ve İntibak Komisyonu tarafından değerlendirilir, Fakülte Kurulu kararı ile ÖİDB’ye iletilir.
+(2) Öğrencinin muaf olduğu derslerden almış olduğu notlar, 30 uncu maddede belirtildiği şekilde başarı harf notuna dönüştürülür ve öğrencinin AGNO’suna dahil edilir.

@@ -1,0 +1,3 @@
+Devam koşulu
+MADDE 16- (1) Öğrenci, kayıt yaptırdığı teorik derslerin en az %70’ine, uygulamalı derslerin ise en az %80’ine devam etmek zorundadır. Mazeretler de dahil olmak üzere, teorik derslerinin %30’undan, preklinik ve mesleki uygulama derslerinin %20’sinden fazlasına katılmayan öğrenci, o dersin yarıyıl/yıl sonu ve bütünleme sınavına alınmaz, D (devamsız) notu alır ve o dersi tekrar almak zorundadır.
+(2) Öğrencilerin derse devamları, sorumlu öğretim elemanı tarafından yoklamalarla imza karşılığı tespit edilir. Devam durumu yarıyılın son haftasında ilgili öğretim elemanı tarafından ÖBS’de öğrenciye ilân edilir.

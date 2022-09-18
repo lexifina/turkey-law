@@ -1,0 +1,6 @@
+Derslerin AKTS değeri
+MADDE 20- (1) Bir dersin ilgili ders koordinatörü tarafından belirlenen öğrenme kazanımları için gerekli çalışma yükü dersin AKTS değerini ifade eder. Derslerin AKTS değeri, öğrencilerin çalışma yükleri hesaplanarak belirlenir.
+(2) Her dersin, ders saati ve AKTS’si öğretim planında belirtilir. Dersin AKTS’si öğrencinin dönem çalışma yükü temel alınarak öğretim elemanı tarafından belirlenir. Ders planı ile birlikte derslerin saati ve AKTS’si Fakülte Kurulu kararı ile belirlenir ve Senatoda onaylanır. Bir öğrencinin bir yarıyılda/yılda alacağı eğitim-öğretim çalışmaları yükü ders listesinde gösterildiği kadardır.
+(3) Bir eğitim-öğretim yılında öğrencinin almakla yükümlü olduğu ders ve uygulama kredisi toplamı 60 AKTS, beş yıllık program sonunda ise toplam 300 AKTS’dir.
+(4) Öğrenci, kayıtlı olduğu ilgili yarıyıl/yıl için belirtilen AKTS değeri kadar ders alır. Öğrencinin AGNO’su 2,00’ın altında ise öğrenci bir yarıyılda/yılda en fazla 30/60 AKTS değerinde ders alabilir. AGNO’su 2,00 ve üzerinde olan öğrenciler için AKTS değeri, Senato tarafından belirlenen usul ve esaslara göre en fazla 1/3 oranında artırılabilir.
+(5) Ders tekrarı durumunda olan bir öğrenci, bir sonraki eğitim-öğretim yılının ilgili yarıyılında/yılında kaydını yaptırarak öncelikle başarısız olduğu dersleri seçer.

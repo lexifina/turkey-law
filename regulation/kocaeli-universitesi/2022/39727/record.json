@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 45- (1) Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-09-18",
+      "18.09.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 45- (1) Bu Yönetmelik 2022-2023 eğitim-öğretim yılı başından geçerli olmak üzere yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31957",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-09-18",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Kocaeli Üniversitesi",
+  "issuer_slug": "kocaeli-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/kocaeli-universitesi/2022/39727",
+  "published": "2022-09-18",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39727&MevzuatTertip=5",
+  "source_bytes": 155399,
+  "source_id": "8.5.39727",
+  "source_sha256": "67d8872380adafbd378cd6ea6fac11fedd9dfa4f57a9daea901eec559725a293",
+  "text_status": "as-enacted",
+  "title": "KOCAELİ ÜNİVERSİTESİ DİŞ HEKİMLİĞİ FAKÜLTESİ\r\nEĞİTİM-ÖĞRETİM YÖNETMELİĞİ",
+  "university_id": 209,
+  "word_count": 4428
+}
