@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[5746-18/1]-423502",
+  "source_id": 37528,
+  "date": "2022-09-19",
+  "title": "Siparişe dayalı olarak yürütülen Ar-Ge faaliyetlerine ilişkin yapılan harcamaların 5746 sayılı kanun kapsamında değerlendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37528",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "165cbad11ab3c3b7689a65de4a2d2fe3eee7601ff2d7289c329789fae4596db5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
