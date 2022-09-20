@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-175.02[2022/15]-429227",
+  "source_id": 37352,
+  "date": "2022-09-20",
+  "title": "Kırsal Yerleşik Alanda Yapılacak İnşaatta Belediye Gelirleri Kanunu Uygulaması",
+  "source": "https://gib.gov.tr/mevzuat/kanun/449/ozelge/37352",
+  "related_law": "2464 sayılı BELEDİYE GELİRLERİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "94957a8ae52e2a7760fd02cc72e636515ede66acaa73d55191bbdda57903ac2e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
