@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125-1052810",
+  "source_id": 22493,
+  "date": "2022-09-20",
+  "title": "Özel eğitim kurumları tarafından verilen eğitim ve öğretim hizmetlerinin vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22493",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "512d819a6b109d2951d731dc510308bc0a66035b0833bae5237144e3710f2f3f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
