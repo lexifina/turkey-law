@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-125[2020-KVK/ÖZE-01]-83204",
+  "source_id": 27562,
+  "date": "2022-09-21",
+  "title": "Yurt dışı montaj işlerinden elde edilen kazancın Kurumlar Vergisinden istisna olup olmadığı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27562",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "750c1e7379281e0cf0300e2325c66ec57b56ea63a3c501fb369fb31130499444",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
