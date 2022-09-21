@@ -1,0 +1,5 @@
+Yapım işinde yangın olayının mücbir sebep sayılarak gecikme cezasının eksik kesilmesi;
+
+1- 173 sayılı İlamın 29. maddesiyle verilen … TL’nin tazminine dair hükümde Diğer Sorumlu sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 48935 sayılı dosya, 21.09.2022 tarihli ve 52315 tutanak sayılı Temyiz Kurulu Kararı (1. maddesi) ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumlunun vekilini [(Geçici Kabul Tutanağını Onaylayan) Diğer Sorumlu sıfatıyla İlamda sorumluluğu bulunan Rektör Yardımcısı … adına Sorumlu Vekili sıfatıyla temyiz talep eden (duruşma sırasında …’in temsil ettiği) …’i]  ilgilendiren ve aynı mahiyette olan 48883 sayılı işbu dosyanın da sözü edilen (48935 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 21.09.2022 tarih ve 52316 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
