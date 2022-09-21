@@ -1,0 +1,1 @@
+[1] Bu maddede yer alan parasal sınırların 1/1/2026 tarihinden itibaren uygulanması ile ilgili olarak 23/12/2025 tarihli ve 33116 sayılı Resmî Gazete’ de yayımlanan Ticaret Bakanlığının 6502 Sayılı Tüketicinin Korunması Hakkında Kanunun 68 inci ve Tüketici Hakem Heyetleri Yönetmeliğinin 6 ncı Maddelerinde Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ’e bakınız.

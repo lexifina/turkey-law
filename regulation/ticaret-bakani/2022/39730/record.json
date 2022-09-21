@@ -1,0 +1,28 @@
+{
+  "source_id": "7.5.39730",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜKETİCİ HAKEM HEYETLERİ YÖNETMELİĞİ",
+  "number": "39730",
+  "issuer": "Ticaret Bakanı",
+  "issuer_slug": "ticaret-bakani",
+  "path": "regulation/ticaret-bakani/2022/39730",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39730&MevzuatTertip=5",
+  "source_sha256": "402841c44522d05625ddc8850f06b1235ddfaabc04fc9b6221c6e687eba40270",
+  "source_bytes": 69613,
+  "published": "2022-09-21",
+  "gazette": "31960",
+  "in_force": "2022-09-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.09.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4072,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
