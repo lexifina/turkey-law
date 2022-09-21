@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[40-2020/648]-1061695",
+  "source_id": 22492,
+  "date": "2022-09-21",
+  "title": "Kiralama yoluyla edinilen binek otomobillerin km fark bedelinin kira bedeli olarak indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22492",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "965e24fe9c914b7bd489a15074d8a79254713d1a4e85444a32c58959c687e89d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
