@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52318",
+  "decision_date": "2022-09-21",
+  "source_id": 26286,
+  "chamber": "5",
+  "file_number": "48884",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2018",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26286/",
+  "source_sha256": "a806351a44de110148a9b8aa3beaa2f3da78f542805db9fdb2d034a0d9e2e192",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
