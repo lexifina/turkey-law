@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[Geç14/1-a]-1063875",
+  "source_id": 28812,
+  "date": "2022-09-22",
+  "title": "Kurumlar Vergisi Kanunu'nun Geçici Madde 14/1-a kapsamında değerlemeden doğan kazanç istisnasından yararlanılabilmesi için YMM Raporu ibrazının zorunlu olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28812",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "d63d4a112ecdca407ed288759425cbecbffe2fcbc4c7a5cfdfe7c47bfef434d1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
