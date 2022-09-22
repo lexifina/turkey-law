@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "64597866-125-16111",
+  "source_id": 37658,
+  "date": "2022-09-22",
+  "title": "Alacağın temliki sözleşmesiyle devredilen taşınmazın satış kazancı istisnasından yararlanıp yararlanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37658",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "7323e067f224c121cd0b0c7c7b58a49b1c6d9e745df227cb12c894b31070701a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
