@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "251",
+  "decision_date": "2022-09-22",
+  "source_id": 35989,
+  "chamber": "8",
+  "ilam_number": "237",
+  "item_number": 3,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2018,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/35989/",
+  "source_sha256": "2aeeaa201c49663b6f5006713246f2556530fd6b94d2fefad136438e68c85bc8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
