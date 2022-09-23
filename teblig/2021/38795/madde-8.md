@@ -1,0 +1,4 @@
+Diğer hususlar ve cezai yaptırım
+MADDE 8 – (1) Gerçek faydalanıcı bilgisi bildirimine konu edilen bilgilerin mükellefler tarafından, bildirimin verildiği tarihi takip eden takvim yılının başından itibaren 5 yıl süreyle muhafaza edilmesi gerekmektedir.
+(2) Bu Tebliğde yapılan düzenlemeler kapsamında bildirilmesi gereken bilgileri bildirmeyen, eksik veya yanıltıcı bildirimde bulunan mükellefler hakkında 213 sayılı Kanunun ilgili ceza hükümleri tatbik olunur.
+(3) Mali Suçları Araştırma Kurulu Başkanlığı tarafından yapılacak araştırma, inceleme ve uluslararası bilgi değişimi ile vergi incelemesine yetkili olanlar tarafından yapılacak araştırma ve incelemeler neticesinde, 4 üncü maddede yer verilen mükellef ve diğer kişilerin gerçek faydalanıcı bilgisine ilişkin hatalı kayıtların bulunduğunun tespit edilmesi halinde, gerekli cezai işlemlerin ve sicil kayıtlarında gerekli değişikliklerin yapılabilmesi amacıyla Gelir İdaresi Başkanlığına bilgi verilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3 – (1) Bu Tebliğ, 3/11/2011 tarihinde imzalanan ve 3/5/2017 tarihli ve 7018 sayılı Kanunla onaylanması uygun bulunan ve 1/7/2018 tarihinde yürürlüğe giren Vergi Konularında Karşılıklı İdari Yardımlaşma Sözleşmesi, yürürlükteki Çifte Vergilendirmeyi Önleme Anlaşmaları ile 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 148, 149, 152/A ve 256 ncı maddeleri ve mükerrer 257 nci maddesinin birinci fıkrasının (Değişik ibare:RG-23/9/2022-31962)(1) (9) numaralı bendine dayanılarak hazırlanmıştır.

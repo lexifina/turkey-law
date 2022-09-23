@@ -1,0 +1,35 @@
+Gerçek faydalanıcı bilgisi bildirimi verme zorunluluğu getirilenler
+MADDE 4 – (1) Bu Tebliğin konusunu teşkil eden gerçek faydalanıcı bilgisi bildirimini, bildirim verme süresinin başladığı 1/8/2021 tarihi itibarıyla faal olan (tasfiye işlemi devam edenler dâhil);
+a) Kurumlar vergisi mükellefleri,
+b) Kollektif şirketlerde şirketi temsile yetkili kimse veya ortak, eshamsız komandit şirketlerde komandite ortaklardan biri ve adi ortaklıklar adına en yüksek ortaklık payına sahip kişi, Türkiye’de yönetim merkezi olan veya Türkiye’de mukim yöneticisi olan yabancı ülkede kurulmuş trust ve benzeri teşekküllerin yöneticileri, mütevellileri veya temsilcileri,
+vermek zorundadırlar.
+(2) Ayrıca; Tedbirler Yönetmeliğinde 11/10/2006 tarihli ve 5549 Sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanunun uygulanmasında yükümlü sayılan;
+a) Bankalar,
+b) Bankalar dışında banka kartı veya kredi kartı düzenleme yetkisini haiz kuruluşlar,
+c) Kambiyo mevzuatında belirtilen yetkili müesseseler,
+ç) Finansman ve faktoring şirketleri,
+d) Sermaye piyasası aracı kurumları ve portföy yönetim şirketleri,
+e) Ödeme kuruluşları ile elektronik para kuruluşları,
+f) Yatırım ortaklıkları,
+g) Sigorta, reasürans ve emeklilik şirketleri ile sigorta ve reasürans brokerleri,
+ğ) Finansal kiralama şirketleri,
+h) Sermaye piyasası mevzuatı çerçevesinde takas ve saklama hizmeti veren kuruluşlar,
+ı) Kıymetli Madenler ve Kıymetli Taşlar Piyasasına ilişkin saklama hizmeti ile sınırlı olmak üzere Borsa İstanbul Anonim Şirketi,
+i) Posta ve Telgraf Teşkilatı Anonim Şirketi ile kargo şirketleri,
+j) Varlık yönetim şirketleri,
+k) Kıymetli maden, taş veya mücevher alım satımı yapanlar ile bu işlemlere aracılık edenler,
+l) Cumhuriyet altın sikkeleri ile Cumhuriyet ziynet altınlarını basma faaliyeti ile sınırlı olmak üzere Darphane ve Damga Matbaası Genel Müdürlüğü,
+m) Kıymetli madenler aracı kuruluşları,
+n) Ticaret amacıyla taşınmaz alım satımıyla uğraşanlar ile bu işlemlere aracılık edenler,
+o) İş makineleri dâhil her türlü deniz, hava ve kara nakil vasıtalarının alım satımı ile uğraşanlar ile bu işlemlere aracılık edenler,
+ö) Tarihi eser, antika ve sanat eseri alım satımı ile uğraşanlar veya bunların müzayedeciliğini yapanlar,
+p) Milli Piyango İdaresi Genel Müdürlüğü, Türkiye Jokey Kulübü ve Spor Toto Teşkilat Başkanlığı dâhil talih ve bahis oyunları alanında faaliyet gösterenler,
+r) Spor kulüpleri,
+s) Noterler,
+ş) Savunma hakkı bakımından diğer kanun hükümlerine aykırı olmamak ve 19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanununun 35 inci maddesinin birinci fıkrası ile alternatif uyuşmazlık çözüm yolları kapsamında ifa edilen mesleki çalışmalar nedeniyle edinilen bilgiler hariç olmak üzere; taşınmaz alım satımı, sınırlı ayni hak kurulması ve kaldırılması, şirket, vakıf ve dernek kurulması, birleştirilmesi ile bunların idaresi, devredilmesi ve tasfiyesi işlerine ilişkin finansal işlemlerin gerçekleştirilmesi, banka, menkul kıymet ve her türlü hesaplar ile bu hesaplarda yer alan varlıkların idaresi işleriyle sınırlı olmak üzere serbest avukatlar,
+t) Bir işverene bağlı olmaksızın çalışan serbest muhasebeci, serbest muhasebeci mali müşavir ve yeminli mali müşavirler,
+u) Finansal piyasalarda denetim yapmakla yetkili bağımsız denetim kuruluşları,
+ü) Kripto varlık hizmet sağlayıcılar,
+v) Tasarruf finansman şirketleri,
+ile bunların şube, acente, temsilci ve ticari vekilleri ile benzeri bağlı birimleri Gelir İdaresi Başkanlığı tarafından talep edildiğinde müşterileri tarafından gerçekleştirilen işlemlerin gerçek faydalanıcı bilgisini Başkanlığa bildirmek zorundadır.
+(3) Merkezi yurtdışında bulunan yükümlünün şube, acente, temsilci ve ticari vekilleri ile benzeri bağlı birimleri Gelir İdaresi Başkanlığı tarafından talep edildiğinde müşterileri tarafından gerçekleştirilen işlemlerin gerçek faydalanıcı bilgisini Başkanlığa bildirmek zorundadır.
