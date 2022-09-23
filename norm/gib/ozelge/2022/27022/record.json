@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-95462982-105[VUK.ÖZLG-21-107]-224974",
+  "source_id": 27022,
+  "date": "2022-09-23",
+  "title": "Üretim prosesinde ısıl işlemlerin yapıldığı tenifer tesisinde kullanılan, çelikten imal edilmiş \"tuz nitrasyon potası\"nın amortisman oranı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27022",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "729f4b35d669dbb11914a4b78eae94018beb342698982b77b39a2ea60d43ea70",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
