@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-09-24",
+      "24.09.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 14- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "31963",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-09-24",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Munzur Üniversitesi",
+  "issuer_slug": "munzur-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/munzur-universitesi/2022/39735",
+  "published": "2022-09-24",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39735&MevzuatTertip=5",
+  "source_bytes": 35468,
+  "source_id": "8.5.39735",
+  "source_sha256": "8ce84cde80d22d7648d5a35633dd8d3a0cbdd20523deb2e70a58d864f682a97f",
+  "text_status": "as-enacted",
+  "title": "MUDANYA ÜNİVERSİTESİ TÜRKÇE ÖĞRETİMİ UYGULAMA \r\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞ",
+  "university_id": 344,
+  "word_count": 1517
+}
