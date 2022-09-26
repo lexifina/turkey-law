@@ -1,0 +1,4 @@
+Yönetim kurulu
+MADDE 9 – (1) Yönetim Kurulu; Müdür ve Üniversitede görev yapan, deniz kaplumbağaları üzerine çalışmaları olan, bu konuda uzmanlık yapmış, biyoloji, veterinerlik, fizyoloji ve ilgili diğer bölümlerdeki toplam beş öğretim elemanından oluşur. Yönetim kurulu üyeleri, Müdürün önerisi üzerine Rektör tarafından görevlendirilir. Yönetim Kurulu başkanı Müdürdür.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi biten üye yeniden görevlendirilebilir. Görevden ayrılan üyenin yerine kalan süreyi tamamlamak için yeni üye görevlendirilir.
+(3) Yönetim Kurulu, Müdürün çağrısı üzerine her ay, gerektiğinde daha sık toplanır ve Merkezin çalışmalarını gözden geçirerek ilgili konularda karar alır. Yönetim Kurulu; salt çoğunlukla toplanır ve kararlar toplantıya katılanların oy çokluğu ile alınır.
