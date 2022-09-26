@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.01.03-63475",
+  "source_id": 20842,
+  "date": "2022-09-26",
+  "title": "Seramik fırını kullanmak suretiyle üretilen fincan, tabak ve takı gibi ürünlerin Instagram uygulaması üzerinden satışının esnaf muaflığı kapsamında olup olmadığı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20842",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3aaa5f44dab6ef1a32edaa882632891ed0dd862b4f066723260c6698ae1b4d12",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
