@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[10-20/15]-436338",
+  "source_id": 22042,
+  "date": "2022-09-27",
+  "title": "Özel Kreş ve Gündüz Bakımevi Faaliyetinde Bulunan Şirketin Kanunen Kabul Edilmeyen Giderlerinin İstisna Tutarına Dahil Edilip Edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/22042",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "1d254a6f9c8f32a559ec017f92eba6172b1c7d0e802fad645e1a5e87f67a70ab",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
