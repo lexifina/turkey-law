@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-09-27",
+  "issue": "31966",
+  "edition": "regular",
+  "item": 4,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İstanbul Kültür Üniversitesi İhale Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220927-4.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220927.htm",
+  "index_sha256": "808506c0b286769851d089fca3b18c5abb3867b36d29be1b15e41c95be68e71f",
+  "index_header": "27 Eylül 2022 ... 31966 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/09/20220927.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
