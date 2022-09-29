@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35729",
+  "decision_date": "2022-09-29",
+  "source_id": 36267,
+  "chamber": "2",
+  "ilam_number": "245",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36267/",
+  "source_sha256": "c76b7ca904d4c8190cafeb64980d603942e72de17fc321b829b2971c27a75348",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
