@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35730",
+  "decision_date": "2022-09-29",
+  "source_id": 36314,
+  "chamber": "2",
+  "ilam_number": "5",
+  "item_number": 5,
+  "public_body_type": "Diğer",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36314/",
+  "source_sha256": "9c2dfc211fe9fda8e506772350c946b60b7743df0966a88e037229ad1c3373d9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
