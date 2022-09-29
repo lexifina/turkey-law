@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "547",
+  "decision_date": "2022-09-29",
+  "source_id": 36210,
+  "chamber": "5",
+  "ilam_number": "120",
+  "item_number": 3,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36210/",
+  "source_sha256": "264e2cf4ac3755db605eda59938c60c6ae9c18edbf9c4e926b87a8ab5acaa2a7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
