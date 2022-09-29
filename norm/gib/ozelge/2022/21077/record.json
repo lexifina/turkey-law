@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "46480499-120.04.02[2020/1737]-110229",
+  "source_id": 21077,
+  "date": "2022-09-29",
+  "title": "İşyerinde kendi yaptığı resimlerin sergilenmesi ve satılması durumunda istisnadan faydalanıp faydalanmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21077",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "8b5299ac5819b9ca20a39c9d8696e7ead0eed1fae245f2122ff50cd22063f99d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
