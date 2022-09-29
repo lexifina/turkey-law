@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35730",
+  "decision_date": "2022-09-29",
+  "source_id": 36311,
+  "chamber": "2",
+  "ilam_number": "5",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36311/",
+  "source_sha256": "f5ee67632c4531d5a178afb2193a1333e8ecd45b06cb2212fb16548bfaaa7b03",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
