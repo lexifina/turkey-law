@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "547",
+  "decision_date": "2022-09-29",
+  "source_id": 36209,
+  "chamber": "5",
+  "ilam_number": "120",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36209/",
+  "source_sha256": "584573c5b674f3ce612c2779585fa15ea49f602b4cd7ca57ad0e2d71900c5bd7",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
