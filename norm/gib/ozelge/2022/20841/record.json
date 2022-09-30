@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "31435689-120-151366",
+  "source_id": 20841,
+  "date": "2022-09-30",
+  "title": "Evde dikiş makinesi ile dikilen kumaşlara ahşap çıta ve ip geçirerek yapılan salıncakların esnaf muaflığından yararlanılıp yararlanılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/20841",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3c34a51c2964a13fa2db1bf4a5c379cd7657489c3b3ea6b47c5a0280469ddb1a",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
