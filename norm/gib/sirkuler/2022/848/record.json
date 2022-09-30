@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "KVK-61 / 2022-3 / Yatırım İndirimi - 47",
+  "source_id": 848,
+  "date": "2022-09-30",
+  "title": "5520 sayılı Kurumlar Vergisi Kanunu Sirküleri /61",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/sirkuler/848",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "1c54ea91f7a817440ad6585e20de16034425d7ba5695f5d6facff049e1170ef3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
