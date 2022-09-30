@@ -1,0 +1,28 @@
+{
+  "number": "month-09",
+  "year": 2022,
+  "month": 9,
+  "title": "2022 Eylül Ayı Meclis Karar Özetleri",
+  "decision_date": null,
+  "index_date": "2022-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2022",
+  "source": "https://www.tefenni.bel.tr/karar/2022-eylul-ayi-meclis-kararlari/32/",
+  "official_page": "https://www.tefenni.bel.tr/karar/2022-eylul-ayi-meclis-kararlari/32/",
+  "official_document": "https://www.tefenni.bel.tr/dosya/yuklenenler/2022/2022%20Y%C4%B1l%C4%B1%20Meclis%20Kararlar%C4%B1/09%20-%202022%20Eyl%C3%BCl%20Ay%C4%B1%20Meclis%20Kararlar%C4%B1.pdf",
+  "source_sha256": "4f6a28f163516a5407f67c32aeff2ce0e8892f7c010299380a1494acf471b335",
+  "issuer": "Tefenni Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-09-30",
+  "in_force_basis": "The official listing gives only the month of this official file (Eylül 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 Eylül Ayı Meclis Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting or month)"
+}
