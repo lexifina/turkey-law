@@ -1,0 +1,29 @@
+{
+  "number": "111",
+  "number_as_published": "2022/111",
+  "year": 2022,
+  "month": 9,
+  "title": "2648 Ada 26 ve 27 Parsellere İlişkin K.A.U.İ.P. Değişikliği",
+  "decision_date": null,
+  "index_date": "2022-09-30",
+  "date_precision": "month",
+  "period": "Eylül 2022",
+  "source": "https://www.fatih.bel.tr/tr/main/meclis_kararlar?yil=2022&ay=9",
+  "official_page": "https://www.fatih.bel.tr/tr/main/meclis_kararlar/2022111/174",
+  "official_document": null,
+  "source_sha256": "1ee09deae9dbf2cc2e438accd7335c0dc46575dfb6d11b077aa75ecb6ab403d7",
+  "issuer": "Fatih Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: number and subject as published in the official listing; complete decision text is in the linked official page/document, not transcribed",
+  "in_force": "2022-09-30",
+  "in_force_basis": "The official listing gives only the month of this decision (Eylül 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "exact decision date",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number and subject as listed)",
+  "listing_month": "2022-09"
+}
