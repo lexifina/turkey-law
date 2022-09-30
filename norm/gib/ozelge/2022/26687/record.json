@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "97338759-105[2019-VUK-09]-86631",
+  "source_id": 26687,
+  "date": "2022-09-30",
+  "title": "Arsa tahsis sözleşmesi ile tahsis edilen arsanın bedelinin geç ödenmesi nedeniyle ortaya çıkan gecikme zamlarının arsa maliyetine eklenip eklenmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26687",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "65b09793853114480655d2867220346b2cbde0fd2bb7dc9e43584305a9ae5517",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
