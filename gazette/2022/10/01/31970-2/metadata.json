@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-10-01",
+  "issue": "31970",
+  "edition": "regular",
+  "item": 2,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Yatırımlara Proje Bazlı Devlet Yardımı Verilmesine İlişkin Kararın Uygulanmasına İlişkin Tebliğ (2019/1)’de Değişiklik Yapılmasına Dair Tebliğ (2022/1)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221001-2.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221001.htm",
+  "index_sha256": "7c051b8ce49b643bc838a8a206d9590cf37d0636944d9b933cb568781ec4867e",
+  "index_header": "1 Ekim 2022 ... 31970 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221001.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
