@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-ETD/244",
+  "source_id": "2022/DK-ETD/244",
+  "date": "2022-09-23",
+  "title": "Mobil Azami Ücret Tarifeleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/d3753e16-ac20-4fea-a0c6-4139b5dd3be0.pdf",
+  "source_sha256": "07aed466d37d21b3ab585a04e6b13c3d9e365571cd8b70f5ca1914e339c3cea9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
