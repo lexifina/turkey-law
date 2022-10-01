@@ -1,0 +1,3 @@
+Banka teminat mektubu
+MADDE 14 – (1) Banka teminat mektubu, satıcının tüketiciye karşı ön ödemeli konut satışına ilişkin 10 uncu maddede yer alan yükümlülüklerini yerine getirmemesi halinde, tüketicinin ödediği bedeli, ilk talebinde ona derhal ödemeyi kabul ve taahhüt ettiğine dair banka tarafından verilen kesin ve süresiz mektuptur.
+(2) Ön ödemeli konut satışının banka teminat mektubu verilmesi suretiyle teminat altına alınması durumunda, satıcı 10 uncu maddede yer alan yükümlülüklerini yerine getirmezse tüketiciler, kendilerine verilmiş olan banka teminat mektubunu bankadan tazmin edebilirler.
