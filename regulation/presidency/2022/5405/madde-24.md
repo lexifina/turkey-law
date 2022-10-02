@@ -1,0 +1,4 @@
+Genel kurul toplanma ve karar yeter sayısı
+MADDE 24- (1) Genel kurul, toplantıya katılma hakkı bulunan üyelerin tam sayısının yarısından bir fazlasıyla toplanır. İlk toplantıda yeter sayı sağlanamazsa ikinci toplantıda çoğunluk aranmaz. Ancak ikinci toplantının yapılabilmesi için, katılan üye sayısının, Yönetim Kurulu, Denetleme Kurulu, Teknik - Bilim Kurulu ve Haysiyet Kurulları asıl üye sayılarının toplamının iki katından az olmaması gerekir.
+(2) Genel kurul üyeleri bir başka üyeye verdikleri noterden onaylı vekâletname ile oy kullanabilirler. Her üye ancak bir üyenin vekâletini alabilir. Yönetim Kurulu ve Denetleme Kurulu üyeleri genel kurulda vekâletname ile temsil edilemez. Yönetim Kurulu ve Denetleme Kurulu üyeleri de başka bir üyeyi vekâleten temsil edemez.
+(3) Genel kurul kararları, toplantıda hazır bulunan oyların çoğunluğu ile alınır. Ancak tüzük değişikliği ve birliğin feshi kararları, ancak hazır bulunan oyların üçte iki çoğunluğuyla alınır.

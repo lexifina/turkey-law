@@ -1,0 +1,2 @@
+Meslek birliklerinin internet siteleri
+MADDE 58- (1) Meslek birlikleri kurumsal internet sitelerinde; birlik tüzüğü ve yönergeleri, üyeliğe ilişkin hususlar, tip yetki belgesi, aidatlar, kesinti oranları, temsil sözleşmesi yapılan uluslararası kuruluşların listesi, şikayet başvuru süreçleri, tarifeler, indirim ve ödeme kolaylıkları, standart lisans sözleşmeleri, üye ve repertuvar bilgileri, genel kurul kararları, zorunlu organların üyeleri, iletişim bilgileri ve yıllık şeffaflık raporu yayımlanır ve güncel tutulur.

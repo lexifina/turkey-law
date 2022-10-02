@@ -1,0 +1,2 @@
+Zorunlu organlara üye olmayanların seçimi
+MADDE 37- (1) Tüzüklerinde gösterilmek kaydıyla birliklerin Yönetim Kurulu, Denetleme Kurulu, Haysiyet Kurulu ve Teknik - Bilim Kurullarına, birliğe üye olmayan kişiler seçilebilir. Bunun için genel kurulda hazır bulunan oyların onda birinin teklifi ile aday gösterilmeleri ve genel kurul tarafından seçilmeleri gerekir. Bu kişilerin sayısı kurul üye tam sayısının salt çoğunluğunu geçemez.

@@ -1,0 +1,2 @@
+Şubeler
+MADDE 38- (1) Tüzüklerinde şube açabileceği belirtilmiş birlikler, faaliyetlerini yürütmek için gerekli gördükleri yerlerde birliğe bağlı olarak tüzel kişiliği ve bünyesinde organları bulunmayan şube açabilirler. Şubeler, birlik genel kurullarında temsil edilmezler. Şubenin adresi, Yönetim Kurulu kararıyla şube yetkilisi olarak görevlendirilen kişi veya kişiler tarafından Bakanlığa yazılı olarak bildirilir.

@@ -1,0 +1,2 @@
+Yabancı kuruluşlarla ilişkiler
+MADDE 17- (1) Meslek birlikleri, tüzüklerinde gösterilen amaçları gerçekleştirmek üzere uluslararası faaliyette veya işbirliğinde bulunabilir, yurt dışında temsilcilik açabilir, yurt dışında birlik veya üst kuruluş kurabilir veya yurt dışında kurulmuş birlik veya kuruluşlara katılabilirler. Bu faaliyetleri ile işbirliği sonucunda yapılacak protokol ve temsilcilik sözleşmeleri Bakanlığa bildirilir.

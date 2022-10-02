@@ -1,0 +1,2 @@
+Geçiş aşamasında uygulanacak hükümler
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin yürürlüğe girmesinden önce kurulmuş olan meslek birlikleri ve federasyonların olağan genel kurul toplantıları, yürürlükten kaldırılan Fikir ve Sanat Eseri Sahipleri ile Bağlantılı Hak Sahipleri Meslek Birlikleri ve Federasyonları Hakkında Tüzüğün 23 üncü maddesinin birinci fıkrası gereğince yapılması gereken yıl içerisinde, meslek birliği tüzüğünde belirlenen ayda yapılır.

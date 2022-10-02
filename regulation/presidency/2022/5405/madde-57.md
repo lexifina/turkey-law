@@ -1,0 +1,2 @@
+İşlemlerin elektronik ortamda yapılması ve Bakanlığın yetkisi
+MADDE 57- (1) Bakanlık, Kanun ve ilgili mevzuat gereğince Bakanlığa verilmesi gereken bilgi ve belgelerin şifre, elektronik imza veya diğer güvenlik araçları konulmak suretiyle internet de dahil olmak üzere her türlü elektronik bilgi iletişim araç ve ortamında verilmesi hususlarında izin vermeye veya zorunluluk getirmeye, bunlara ilişkin uyulacak format ve standartlar ile uygulamaya ilişkin usul ve esasları tespit etmeye, bu zorunluluğu birliklerin faaliyet alanları itibarıyla ayrı ayrı uygulatmaya yetkilidir.

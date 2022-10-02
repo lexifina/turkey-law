@@ -1,0 +1,4 @@
+Genel kurulun toplanması
+MADDE 22- (1) Genel kurul, tüzükte belirtilen zamanda Yönetim Kurulunun çağrısı üzerine toplanır. Olağan genel kurul toplantılarının en geç iki yılda bir yapılması zorunludur.
+(2) Genel kurul; Yönetim Kurul veya Denetleme Kurulunun gerekli gördüğü hallerde veya genel kurulda oy kullanma yetkisine sahip olan üyelerden beşte birinin yazılı başvurusu üzerine, Yönetim Kurulunca olağanüstü toplantıya çağrılır.
+(3) Denetleme Kurulu veya genel kurulda oy kullanma yetkisine sahip olan üyelerin beşte birinin yazılı isteğine rağmen Yönetim Kurulu istek yazısının kendisine ulaştığı tarihten itibaren otuz gün içinde genel kurulu olağanüstü toplantıya çağırmazsa, Denetleme Kurulunun veya toplantı isteğinde bulunan üyelerin başvurusu üzerine Bakanlık, Yönetim Kurulu üye sayısı kadar genel kurulda oy kullanma yetkisine sahip olan üyeyi, genel kurulu olağanüstü toplantıya çağırmakla görevlendirir.
