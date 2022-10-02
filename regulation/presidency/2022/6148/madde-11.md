@@ -1,0 +1,3 @@
+Şûranın terfi, görev süresinin uzatılması ve emeklilik işlemlerine ilişkin hazırlık faaliyetleri
+MADDE 11- (1) Şûra toplantısında bir üst rütbeye terfi edecek general, amiral ve albaylar ile emekliliğe sevk edilecek ve görev süresi uzatılacakların işlemlerine yönelik hazırlık faaliyetleri, ilgili mevzuatına uygun olarak gerekli makamlarla koordine edilmek suretiyle Şûra Sekretaryası tarafından yürütülür.
+(2) Toplantı tarihinin bildirilmesini müteakip bir üst rütbeye terfi sırasında bulunan general, amiral ve albayların bulundukları son görev yerleri ile terfi, görev süresinin uzatılması ve emeklilik işlemlerine esas bilgiler, Şûra Sekreteri tarafından Şûra üyelerine gönderilir.

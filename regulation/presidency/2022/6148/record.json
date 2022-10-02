@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-6148",
+  "number": "6148",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "YÜKSEK ASKERİ ŞÛRA YÖNETMELİĞİ",
+  "published": "2022-10-02",
+  "enacted": "2022-10-01",
+  "gazette_number": "31971",
+  "in_force": "2022-10-02",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-10-02, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=6148&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "0b278fd2cd10ac5967c4658ac30ef8a405260108e833b61b034c809758ab86aa",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
