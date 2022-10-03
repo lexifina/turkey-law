@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.ÖZ.2021.5]-245671",
+  "source_id": 37734,
+  "date": "2022-10-03",
+  "title": "Mülhak vakıf tarafından gelir fazlasının vakıf evlatlarına ödenmesinde stopaj oranı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37734",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "591dc238eaffc91e1796a5726fbe77672aa154f368fdaf0733bef87f418f9e66",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
