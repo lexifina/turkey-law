@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "42152853-110-18598",
+  "source_id": 37735,
+  "date": "2022-10-03",
+  "title": "GMSİ mükellefinin, yüzme spor kulüplerine yaptığı sponsorluk harcamalarının, gelir vergisi beyannamesinden indirim konusu yapılıp yapılamayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37735",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "cb127c67f5b0b6275fc675363f8d06b9aaa92d1535da6072490b53177e93cb0e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
