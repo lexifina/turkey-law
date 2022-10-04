@@ -1,0 +1,26 @@
+{
+  "number": "18",
+  "number_as_published": "18",
+  "year": 2022,
+  "title": "Ek bütçenin yapılması",
+  "decision_date": "2022-10-04",
+  "source": "https://www.mollakoy.bel.tr/meclis-kararlari/sayfa/9/",
+  "official_document": "https://www.mollakoy.bel.tr/karar/ek-butcenin-yapilmasi-/35/",
+  "source_sha256": "5f3e86d87e2c951334f1e34ea01025effba0304edabf943e0fe8946462807fa0",
+  "issuer": "Mollaköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-10-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 04 Ekim 2022 00:00; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "official_page": "https://www.mollakoy.bel.tr/karar/ek-butcenin-yapilmasi-/35/",
+  "listing_label": "Ek bütçenin yapılması",
+  "record_scope": "one council decision (number, date, subject as published)",
+  "date_read_from": "Karar Tarihi printed on the item page",
+  "document_note": "the decision text is on the official item page; not transcribed here"
+}
