@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[89-2020/1458]-1123121",
+  "source_id": 37732,
+  "date": "2022-10-04",
+  "title": "Uzaktan eğitim ve öğretim faaliyetlerinde kullanılmak üzere satın alınan bilgisayar harcamasının eğitim harcaması kapsamında değerlendirilip değerlendirilemeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37732",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "890c297c92723bf65abd6af227da16776ae5ce22a2a3713bf017da69889c2559",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
