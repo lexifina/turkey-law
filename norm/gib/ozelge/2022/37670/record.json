@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[11-2020/361]-1123247",
+  "source_id": 37670,
+  "date": "2022-10-04",
+  "title": "Uzlaşma sonucunda ödenen para cezaları ile gecikme faizlerinin malın maliyet bedeline eklenip eklenemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37670",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "e9b14e5acbcdcebf7f2726bfa54220eb99447b5b6307246ba58a71c7384cd5f3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
