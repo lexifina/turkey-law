@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[94-2020/933]-1119778",
+  "source_id": 37731,
+  "date": "2022-10-04",
+  "title": "Kira ödemeleri üzerinden yapılacak gelir vergisi tevkifat oranının %20'den %10'a düşürülmesi uygulaması.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37731",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "b448b4e422b0ea9d5958b02b97fa48b520b4b0d121a94d48aae869d3983eafca",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
