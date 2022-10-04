@@ -1,0 +1,2 @@
+Sorumluluk
+MADDE 9 – (1) Kiraya verilen taşıt ve iş makinelerinin, Genel Müdürlüğün usul ve kurallarına uygun olarak her türlü bakım ve onarımının gereğince yapılıp yapılmadığından kiracı ile taşıt şoförü veya iş makinesi operatörü ve Kurumun kontrol yetkilisi sorumludur. Operatör veya kurumun kontrol yetkilisi gerekli gördüğünde, üst makamına haber vermek şartıyla, taşıt veya iş makinesini çalıştırmaktan alıkoyabilir.

@@ -1,0 +1,2 @@
+Operatör ve kontrol yetkilisine yapılacak ödeme
+MADDE 12 – (1) Üçüncü kişilere kiraya verilen iş makineleri operatörü veya gerekirse yardımcıları ile birlikte gönderilir. Görevli personelin günlük ücretleri, harcırahı ve yapacağı fazla çalışma tutarı kira bedeline ek olarak kiracıdan tahsil edilir. Ayrıca, görevli personele ücret, harcırah ve mesai adı altında kiracı tarafından herhangi bir ödeme yapılamaz. Görevli personelin kiracı nezdinde görevli oldukları süredeki bütün sosyal haklarından Kurum sorumludur.

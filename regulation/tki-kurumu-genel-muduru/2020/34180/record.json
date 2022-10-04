@@ -1,0 +1,43 @@
+{
+  "source_id": "7.5.34180",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE KÖMÜR İŞLETMELERİ KURUMU TAŞIT VE İŞ MAKİNELERİ KİRAYA VERME YÖNETMELİĞİ",
+  "number": "34180",
+  "issuer": "TKİ Kurumu Genel Müdürü",
+  "issuer_slug": "tki-kurumu-genel-muduru",
+  "path": "regulation/tki-kurumu-genel-muduru/2020/34180",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=34180&MevzuatTertip=5",
+  "source_sha256": "1bb3418540bd1b720a9b98a6867ab85b827e1604f53e0de95587497d75e37eab",
+  "source_bytes": 32149,
+  "published": "2020-01-10",
+  "gazette": "31004",
+  "in_force": "2022-10-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-04",
+      "RG-4/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-04",
+      "4/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1517,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

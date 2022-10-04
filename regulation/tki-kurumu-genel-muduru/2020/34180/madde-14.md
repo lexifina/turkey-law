@@ -1,0 +1,2 @@
+Masraflar
+MADDE 14 – (1) Taşıt ve iş makinelerini iş yerinden çalıştırılacağı yere getirme ve götürme masrafları ile iş makinesinin her türlü işletim giderleri kiracıya aittir. Ancak merkez ve taşra teşkilatlarının ihtiyaç ve talepleri halinde iş makinesi, kira süresi dolmadan geri alınırsa, kira süresi iade yeri ve saatinde son bulur. İadeden dolayı kiracı zarar ziyan talebinde bulunamaz. Kurum kiralama süresi dolmadan ödenen kiralama bedelinden bir tenkisat oranı belirterek iş makinesini geri alabilir.
