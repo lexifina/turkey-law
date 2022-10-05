@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39747",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İMAR KANUNUNUN EK 7 NCİ MADDESİNİN UYGULAMA YÖNETMELİĞİ",
+  "number": "39747",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39747",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39747&MevzuatTertip=5",
+  "source_sha256": "bcfa667f3c59f898ccdceea01db68ba69e1328de6c25a26dfd1b5fa1a9fba3de",
+  "source_bytes": 66785,
+  "published": "2022-10-05",
+  "gazette": "31974",
+  "in_force": "2022-10-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2279,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39747-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
