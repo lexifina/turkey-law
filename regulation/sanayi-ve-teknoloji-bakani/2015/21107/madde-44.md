@@ -1,0 +1,4 @@
+Uluslararası araştırma altyapı konsorsiyumlarına katılım
+MADDE 44 - (1) Uluslararası araştırma altyapı konsorsiyumlarına ülke adına katılmak isteyen araştırma altyapıları, araştırma altyapı platformları, kamu kurum ve kuruluşları ile sivil toplum kuruluşları katılım ve katılıma ilişkin destek taleplerini Komisyona iletir.
+(2) Komisyona iletilen talepler, Komite tarafından ilgili tarafların görüşü alınarak incelenir ve Komisyonun onayına sunulur. Komisyon, uluslararası araştırma altyapı konsorsiyumlarına katılım ile katılıma ilişkin desteğin şekli ve tutarı hakkında karar verir.
+(3) Komisyon tarafından uluslararası araştırma altyapı konsorsiyumlarına katılıma ilişkin nakdi destek kararı verilmesi halinde, destek tutarı Bakanlık ya da ilgili diğer kamu kurumlarının bütçelerine bu amaçla konulan ödenekten, ülke adına katılım sağlayacak kuruma aktarılır.

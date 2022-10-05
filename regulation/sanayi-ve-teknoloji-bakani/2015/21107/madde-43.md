@@ -1,0 +1,3 @@
+İlgili yükseköğretim kurumuna aktarılacak katkı payları
+MADDE 43 - (1) İlgili yükseköğretim kurumuna bilimsel araştırma faaliyetlerinde kullanılmak üzere, yeterlik verilen araştırma altyapısının performansı, sınıfı ve aldığı destek miktarı dikkate alınarak, Komisyon tarafından belirlenecek miktarda katkı payı verilebilir. Katkı payı miktarı, araştırma altyapısına bakım-onarım giderleri dahil cari giderler için verilen yıllık desteğin %20’sini geçemez. Katkı payı, Bakanlık bütçesine bu amaçla konulan ödenekten doğrudan ilgili yükseköğretim kurumuna aktarılır.
+(2) Ortak araştırma altyapılarında, birden fazla yükseköğretim kurumu bulunması durumunda katkı payı protokollerinde düzenlenen ortaklık payları oranında paylaştırılır.
