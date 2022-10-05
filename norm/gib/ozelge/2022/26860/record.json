@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-11395140-105[VUK-3-1055]-1128196",
+  "source_id": 26860,
+  "date": "2022-10-05",
+  "title": "Filo kiralama hizmeti kapsamında yapılan 48 ay üzeri taşıt kiralamalarının, kiralama süresi itibarıyla finansal kiralama kapsamında değerlendirilip değerlendirilmeyeceği ile süre sonunda aynı kiracıya tekrar kiralamada, bu ilave sürenin de kira süresi içinde kabul edilip edilmeyeceği hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/26860",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "8a4d1ea51c20367e2e275a11d285850135af6a55ff0243c5cce051c74663a3a2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
