@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52364",
+  "decision_date": "2022-10-05",
+  "source_id": 25870,
+  "chamber": "1",
+  "file_number": "48416",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25870/",
+  "source_sha256": "8b4db1971721f042174c654b1009de4e4c74cccc0497bafd3c5e1b365bf68e2d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
