@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10871",
+  "decision_date": "2022-10-06",
+  "source_id": 36358,
+  "chamber": "1",
+  "ilam_number": "183",
+  "item_number": 20,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36358/",
+  "source_sha256": "a4c0bc2e9c6f2798ae3760d463cc7331b66b7f5c672686181b20fca44b7aaee5",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
