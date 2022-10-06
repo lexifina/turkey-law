@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "551",
+  "decision_date": "2022-10-06",
+  "source_id": 36204,
+  "chamber": "5",
+  "ilam_number": "119",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2020,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36204/",
+  "source_sha256": "f734b31b6a596a725c1a790e7a246db4fb4b3ef2ed9671c51c83ac36b6300380",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
