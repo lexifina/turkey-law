@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "555",
+  "decision_date": "2022-10-06",
+  "source_id": 36259,
+  "chamber": "5",
+  "ilam_number": "353",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2017,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36259/",
+  "source_sha256": "45fd40c2111571ccfb4d5120d377af8a6c4a2a6882e5270f819cc7e1aa8e524f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
