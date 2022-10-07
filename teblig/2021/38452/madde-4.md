@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 4 – (1) Bu Tebliğ; Avrupa Parlamentosu ve Konseyinin 2009/125/AT sayılı Tüzüğü uyarınca yayımlanan Bilgisayarların ve Bilgisayar Sunucularının Çevreye Duyarlı Tasarım Gerekliliklerini belirleyen 26/6/2013 tarihli ve (AB) 2013/617 sayılı Tüzüğü ile bu Tüzükte değişiklik yapan 30/11/2016 tarihli ve (AB) 2016/2282 sayılı Komisyon Tüzüğü ve 15/3/2019 tarihli ve (AB) 2019/424 sayılı Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.

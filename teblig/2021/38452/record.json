@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.38452",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "BİLGİSAYARLAR VE BİLGİSAYAR SUNUCULARI İLE İLGİLİ ÇEVREYE DUYARLI TASARIM GEREKLİLİKLERİNE DAİR TEBLİĞ (2013/617/AB) (SGM:2021/14)",
+  "number": "38452",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38452",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38452&MevzuatTertip=5",
+  "source_sha256": "d739e36bf962ee43375bc3fc1100d7762649a33c9890a8d5485f320c607eef75",
+  "source_bytes": 53363,
+  "published": "2021-03-25",
+  "gazette": "31434 Mükerrer",
+  "in_force": "2022-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"7/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-07",
+      "7/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2479,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38452-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
