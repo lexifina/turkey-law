@@ -1,0 +1,3 @@
+Uygunluk değerlendirme
+MADDE 6 – (1) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesinde belirtilen uygunluk değerlendirme yöntemi, söz konusu Yönetmeliğin Ek-IV’ünde belirtilen iç tasarım kontrolü veya Ek-V’inde belirtilen uygunluk değerlendirmesine ilişkin yönetim sistemidir.
+(2) (Değişik:RG-7/10/2022-31976) Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmeliğin 10 uncu maddesi uyarınca uygunluk değerlendirmesinin amaçları bakımından, teknik dosya bu Tebliğin Ek-II’sinin 3.4 üncü maddesinde yer alan ürün bilgilerinin bir kopyasını ve Ek-III’te ve uygun olduğu durumlarda bu Tebliğin Ek-II’sinin 2 nci maddesinde belirtilen hesaplamaların ayrıntılarını ve sonuçlarını içerir.

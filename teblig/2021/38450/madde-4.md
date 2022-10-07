@@ -1,0 +1,28 @@
+Tanımlar
+MADDE 4 – (1) Bu Tebliğin uygulanması bakımından Enerji ile İlgili Ürünlerin Çevreye Duyarlı Tasarımına İlişkin Yönetmelikte yer alan tanımlara ek olarak aşağıdaki tanımlar geçerlidir:
+a) AB: Avrupa Birliğini,
+b) Ağ sunucusu: Yazılım tanımlı bir ağ üzerinden sanallaştırılmış ağ ortamı desteği ile bağlantı noktalarını ve hızı dinamik olarak yeniden yapılandırma kabiliyetine sahip toplam hat hızı verimi 12 GB/s veya daha fazla 11’den çok ağ bağlantı noktasına ek olarak, bir sunucu ile aynı bileşenleri içeren ağ ürününü,
+c) Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+ç) Büyük sunucu: Bir veya daha fazla tam çerçeve kabinet içerisinde yer alan önceden entegre/önceden test edilmiş bir sistem olarak gönderilen ve en az 32 ayrı giriş/çıkış soketine sahip yüksek bağlantı giriş/çıkış alt sistemi içeren esnek sunucuyu,
+d) Büyük veri depolama ürünü: Tek nokta hatası olmama, kesintisiz hizmet verme ve tümleşik depolama denetleyicisine sahip olma özelliklerini haiz ve maksimum yapılandırmasında 400'den fazla veri depolama aygıtını destekleyen üst düzey veya ana bilgisayar veri depolama ürününü,
+e) Çevrimiçi veri depolama ürünü: İlk veriye maksimum 80 milisaniyenden daha az bir sürede rastgele veya sıralı bir şekilde erişilebilen, rastgele veri erişimli ve çevrimiçi kullanım için tasarlanmış bir veri depolama ürününü,
+f) Çok düğümlü sunucu: Sunucu düğümlerinin çalışma sırasında değiştirilebilir şekilde tasarlanmadığı, gücün paylaşılan güç kaynağı üniteleri aracılığıyla tüm düğümlere dağıtıldığı, tek bir mahfaza ve bir veya daha fazla güç kaynağı ünitesini paylaşan iki veya daha fazla bağımsız sunucu düğümüyle tasarlanmış sunucuyu,
+g) Dörtten fazla işlemci soketine sahip sunucu: Bir işlemcinin kurulumu için tasarlanmış dörtten fazla arabirim içeren (çok düğümlü sunucular için her sunucu düğümünde dörtten fazla işlemci soketine sahip olan) sunucuyu,
+ğ) Esnek sunucu: Sistemin mikro mimarisine, merkezi işlem birimine (CPU) ve yonga setine entegre edilmiş kapsamlı güvenilirlik, kullanılabilirlik, servis verilebilirlik ve ölçeklenebilirlik özellikleri ile tasarlanmış sunucuyu,
+h) Gömülü uygulama: Genellikle salt okunur bellek (rom) veya flaş bellek gibi geçici olmayan bir bellekte depolanan, bir endüstriyel cihazda ya da tüketici cihazında kalıcı olarak bulunan yazılım uygulamasını,
+ı) Katı hal sürücüsü (SSD): Veri depolama için manyetik plakaları döndürmek yerine kalıcı katı hal belleğini okuyan ve yazan veri depolama cihazını,
+i) Küçük veri depolama ürünü: En fazla üç veri depolama cihazı içeren veri depolama ürününü,
+j) Sabit disk sürücüsü (HDD): Bir veya daha fazla dönen manyetik disk plakasını okuyan ve yazan veri depolama cihazını,
+k) Sunucu: Masaüstü bilgisayarlar, dizüstü bilgisayarlar, masaüstü küçük istemciler, internet protokollü telefonlar, akıllı telefonlar, tabletler, telekomünikasyon, otomatik sistemler ve diğer sunucular gibi istemci cihazlar için ağa bağlı kaynakları yöneten veya onlara hizmet sağlayan, temel olarak klavye ya da fare gibi doğrudan kullanıcı giriş cihazları ile değil ağ bağlantıları ile erişilen ve aşağıdaki özelliklere sahip bilgi işlem ürününü;
+1) Sunucu işletim sistemlerini (OS) ve/veya hipervizörleri desteklemek üzere tasarlanma ve kullanıcı tarafından yüklenen kurumsal uygulamaları çalıştırmayı hedefleme,
+2) Hata düzeltme kodunu ve/veya tampon belleği (hem tamponlanmış çift sıralı bellek modülleri hem de tamponlanmış yerleşik yapılandırmalar dâhil) destekleme,
+3) Tüm işlemcilerin paylaşılan sistem belleğine erişimine imkân verme ve tek bir işletim sistemi (OS) veya hipervizör tarafından bağımsız olarak görülebilme.
+l) Sunucu cihazı: Kullanıcının sağladığı yazılımı yürütmesi amaçlanmayan, bir veya daha fazla ağ üzerinden hizmet sunan, genellikle bir web veya komut satırı arabirimi üzerinden yönetilen ve önceden yüklenmiş bir işletim sistemi (OS) ile özel bir işlev veya sıkıca bağlı işlevler kümesi gerçekleştirmek için kullanılan bir uygulama yazılımı ile birlikte gelen sunucuyu,
+m) Tam hata toleranslı sunucu: Tüm bilgisayar bileşenlerinin aynı ve eşzamanlı iş yüklerini çalıştıran iki düğüm arasında çoğaltıldığı, tam donanım yedeklemesiyle (kritik görev uygulamalarında sürekli kullanılabilirlik için tek bir iş yükünü eş zamanlı ve tekrarlı olarak çalıştırmak amacıyla) tasarlanmış bir sunucuyu, (Örneğin, bir düğüm hata verir veya onarım gerektirirse, ikinci düğüm kesinti süresini önlemek için iş yükünü tek başına çalıştırabilir.)
+n) Veri depolama cihazı: Bağımsız disklerin yedek dizilerinin alt sistemleri, robotik teyp kitaplıkları, dosyalayıcılar ve dosya sunucuları ve son kullanıcı programları tarafından doğrudan erişilemeyen ve bir tür dâhili önbellek yerine kullanılan depolama aygıtları gibi depolama öğelerinin toplanması haricinde kalıcı veri depolama sağlayan aygıtı,
+o) Veri depolama ürünü: Doğrudan veya bir ağ üzerinden bağlı istemcilere ve cihazlara veri depolama hizmetleri sağlayan aşağıdaki özelliklere sahip tam işlevli bir depolama sistemini;
+1) Veri depolama ürünü mimarisinin ayrılmaz bir parçası olan bileşenler ve alt sistemler (örn. denetleyiciler ve diskler arasında dâhili iletişimi sağlayan) veri depolama ürününün bir parçası olarak kabul edilir,
+2) Buna karşılık normalde veri merkezi seviyesindeki bir depolama ortamıyla ilişkilendirilen bileşenler (örn. harici depolama alanı ağının çalışması için gerekli cihazlar) veri depolama ürününün bir parçası olarak değerlendirilmez,
+3) Bir veri depolama ürünü, tümleşik depolama denetleyicileri, veri depolama aygıtları, gömülü ağ öğeleri, yazılım ve diğer aygıtlardan oluşabilir.
+ifade eder.
+(2) İlave tanımlar Ek-I’de yer almaktadır.

@@ -1,0 +1,2 @@
+Önlemler
+MADDE 8 – (1) (Değişik:RG-7/10/2022-31976) İmalatçı, ithalatçı veya yetkili temsilci test edildiğini algılayabilecek (örneğin, test koşullarını veya test döngüsünü tanıyarak) ve teknik dosya içerisindeki veya sağlanan herhangi bir dosya içeriğindeki parametrelerden herhangi biri için daha uygun bir seviyeye ulaşmak amacıyla test sırasında otomatik olarak performansını değiştirerek belirli bir biçimde tepki verecek şekilde tasarlanan ürünleri piyasaya arz edemez.
