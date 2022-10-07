@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-07",
+  "number_as_published": "meeting-10-07",
+  "year": 2022,
+  "title": "07.10.2022 Tarihli Meclis Toplantısı Karar Özetleri",
+  "decision_date": "2022-10-07",
+  "source": "https://www.agli.bel.tr/meclis-karari-listesi.php?sayfa=11",
+  "official_document": "https://www.agli.bel.tr/meclis-karari-detay.php?id=54",
+  "source_sha256": "cc307c10a1f5419dd2fd37b548c22b316e3ba51f043e97e8e4bdcefa225fd7bf",
+  "issuer": "Ağlı Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-10-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.10.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.10.2022 Tarihli Meclis Toplantısı Karar Özetleri",
+  "record_scope": "one official file of council decisions (meeting)"
+}
