@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/1087",
+  "source_id": 8850,
+  "date": "2022-10-07",
+  "title": "\"Bir teknoloji şirketi olan Veri Sorumlusu tarafından Kurula iletilen veri ihlal bildirimine istinaden yürütülen inceleme” hakkında Kişisel Verileri Koruma Kurulunun 07/10/2022 tarih ve 2022/1087 sayılı Karar Özeti",
+  "source": "https://www.kvkk.gov.tr/Icerik/8850/2022-1087",
+  "source_sha256": "3ae318d88d3f4ab61ecdc12bf253fe029a92753f0b541317010f5e0f23110f72",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
