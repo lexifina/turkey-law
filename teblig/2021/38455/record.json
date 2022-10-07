@@ -1,0 +1,40 @@
+{
+  "source_id": "9.5.38455",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "EV TİPİ ÇAMAŞIR MAKİNELERİ İLE EV TİPİ KURUTMALI ÇAMAŞIR MAKİNELERİNİN ENERJİ ETİKETLEMESİNE DAİR TEBLİĞ (2019/2014/AB) (SGM:2021/4)",
+  "number": "38455",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "path": "teblig/2021/38455",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=38455&MevzuatTertip=5",
+  "source_sha256": "0be16be873412acb8a6d671c3b0a8e7a22ed97e86b0e45d59ae5474667d97a9e",
+  "source_bytes": 33563,
+  "published": "2021-03-25",
+  "gazette": "31434 Mükerrer",
+  "in_force": "2022-10-07",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"7/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-07",
+      "7/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1480,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.38455%20Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
