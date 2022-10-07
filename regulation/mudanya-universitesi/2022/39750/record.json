@@ -1,0 +1,31 @@
+{
+  "source_id": "8.5.39750",
+  "kind": "regulation",
+  "register_kind": "Üniversite Yönetmelikleri",
+  "title": "MUDANYA ÜNİVERSİTESİ SÜREKLİ EĞİTİM UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "number": "39750",
+  "issuer": "MUDANYA ÜNİVERSİTESİ",
+  "issuer_slug": "mudanya-universitesi",
+  "path": "regulation/mudanya-universitesi/2022/39750",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39750&MevzuatTertip=5",
+  "source_sha256": "f708150cfcb5696336a93f25be890bda625fc66f46c9abdce8802a1256f15a08",
+  "source_bytes": 43048,
+  "published": "2022-10-07",
+  "gazette": "31976",
+  "in_force": "2022-10-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 759,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
