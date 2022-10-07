@@ -1,0 +1,2 @@
+AB mevzuatına uyum
+MADDE 4 – (1) Bu Tebliğ; 2009/125/AT sayılı Avrupa Parlamentosu ve Konsey Direktifi Uyarınca Doğrudan Satış İşlevli Soğutma Cihazlarının Çevreye Duyarlı Tasarım Gerekliliklerini Belirleyen 1/10/2019 tarihli ve (AB) 2019/2024 sayılı Komisyon Tüzüğü ile bu Tüzükte değişiklik yapan 23/2/2021 tarihli ve (AB) 2021/341 sayılı Komisyon Tüzüğü esas alınarak AB mevzuatına uyum çerçevesinde hazırlanmıştır.
