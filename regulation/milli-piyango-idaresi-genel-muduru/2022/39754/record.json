@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39754",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "MİLLİ PİYANGO İDARESİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39754",
+  "issuer": "Milli Piyango İdaresi Genel Müdürü",
+  "issuer_slug": "milli-piyango-idaresi-genel-muduru",
+  "path": "regulation/milli-piyango-idaresi-genel-muduru/2022/39754",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39754&MevzuatTertip=5",
+  "source_sha256": "d5e8f7c4a4a1da19543b4c358c04731607af5aa499b61743a1077b5125be86ac",
+  "source_bytes": 16730,
+  "published": "2022-10-08",
+  "gazette": "31977",
+  "in_force": "2022-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 189,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39754-Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
