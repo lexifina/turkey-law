@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39751",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI HAZIRLIK VE DÜZENLEME KURULUNUN ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39751",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2022/39751",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39751&MevzuatTertip=5",
+  "source_sha256": "168587f96bebf176494b93d784c0cf9c89b3b494c778690b514d9415496d4473",
+  "source_bytes": 73174,
+  "published": "2022-10-08",
+  "gazette": "31977",
+  "in_force": "2022-10-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1652,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

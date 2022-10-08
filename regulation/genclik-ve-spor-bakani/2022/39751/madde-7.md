@@ -1,0 +1,5 @@
+Gündem, tutanak ve kararlar
+MADDE 7- (1) Kurul; genel koordinatör tarafından hazırlanmış ve Kurul başkanı tarafından onaylanmış gündem ile toplanır. Toplantı ve gündem en az bir hafta öncesinden üyelere bildirilir. Toplantılar üye tam sayısının salt çoğunluğu ile yapılır. Toplantıya katılanların salt çoğunluğu ile kabul edilmesi halinde gündeme ilaveler yapılabilir.
+(2) Kararlar toplantıya katılanların oy çokluğu ile alınır. Eşitlik halinde Bakan veya vekilinin iştirak ettiği karar esas alınır. Toplantılarda alınan kararlarla ilgili genel koordinatör tarafından tutanak tutulur ve aynı gün karar defterine geçirilir. Kararlar toplantıda hazır bulunanlar tarafından imzalanır. Karar metninde toplantıya katılanlar ile katılmayanların isimleri belirtilir ve karara katılmayanların karşı görüşleri yazılır. Karar defterinin her sayfası başkan ve üyeler tarafından imzalanır.
+(3) Acil görülen hallerde Kurul başkanı veya üyelerden herhangi birinin belirli hususlara ilişkin teklifleri hakkında üyelerin yazılı onaylarının alınması suretiyle toplantı yapılmadan karar verilmesi mümkündür.
+(4) Alınan kararlar gereği için ilgili birimlere gönderilir.

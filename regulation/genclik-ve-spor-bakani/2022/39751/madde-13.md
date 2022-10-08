@@ -1,0 +1,5 @@
+Arşiv devri
+MADDE 13- (1) Genel koordinatörlüğün oluşturulmasından itibaren organizasyonun tasfiyesine kadar yapılan yazışmalar dahil olmak üzere idari, mali ve hukuki tüm iş ve işlemler, özel hesaba ait mali kayıtlar ile organizasyona ait her türlü defter, tutanak, kayıt ve benzeri nitelikteki belgeler, fiziki ve dijital ortamda genel koordinatörlükçe belirlenecek arşiv kayıt sistemine uygun şekilde kaydedilerek arşivlenir.
+(2) Birinci fıkraya göre oluşturulan fiziki ve dijital arşiv, organizasyon personeli ile organizasyonun merkezi olarak belirlenen ilin gençlik ve spor il müdürlüğü personelinden müteşekkil en az dört kişiden oluşan devir komisyonu marifeti ile anılan il müdürlüğüne tutanak ile devredilir. Dijital arşivin bir kopyası ise muhafaza edilmek üzere Genel Müdürlüğe gönderilir. Organizasyon birden fazla ilde gerçekleştirilecekse arşiv devri organizasyonun merkezi olarak belirlenen ilin gençlik ve spor il müdürlüğüne gerçekleştirilir.
+(3) Fiziki ve dijital arşive ait her dosyada, içinde yer alan evrakın tarih ve sayı ile kaydedildiği bir dizi pusulasına yer verilir.
+(4) Fiziki ve dijital arşiv devri yapılmadan tasfiye gerçekleştirilemez.
