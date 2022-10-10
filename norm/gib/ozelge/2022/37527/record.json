@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-125[6-2020/358]-1157286",
+  "source_id": 37527,
+  "date": "2022-10-10",
+  "title": "Ortak genel gider niteliğindeki telefon, internet ve benzeri giderlerin Ar-Ge harcaması olarak değerlendirilerek, Ar-Ge indirimine konu edilip edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/37527",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "481c9de278b4514841d2a6cb452464435f4f144c9ba1a8d784cf2485b5a69aea",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
