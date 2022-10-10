@@ -1,0 +1,65 @@
+{
+  "source_id": "9.5.16694",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "ULUSAL MESLEK STANDARTLARINA DAİR TEBLİĞ",
+  "number": "16694",
+  "issuer": "Mesleki Yeterlilik Kurumu Başkanı",
+  "path": "teblig/2012/16694",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=16694&MevzuatTertip=5",
+  "source_sha256": "b3d7b79263a9933121b39efdd90a3636fcc7f22882d9e8310cb21887895d7cee",
+  "source_bytes": 26673,
+  "published": "2012-10-16",
+  "gazette": "28443 (Mükerrer)",
+  "in_force": "2022-10-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"10/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-10",
+      "10/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-23",
+      "23/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-08-20",
+      "20/8/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2019-10-04",
+      "4/10/2019",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-12-21",
+      "21/12/2018",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2018-01-26",
+      "26/1/2018",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 355,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.16694-ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
