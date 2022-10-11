@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39758",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RAYLI SİSTEM ARAÇLARI SANAYİİ ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "39758",
+  "issuer": "Türkiye Raylı Sistem Araçları Sanayii Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru/2022/39758",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39758&MevzuatTertip=5",
+  "source_sha256": "b7523a703c945919f3c2160380be6c8efb04f60fc5c75e2b47d2a3b5a8fbb26d",
+  "source_bytes": 132133,
+  "published": "2022-10-11",
+  "gazette": "31980",
+  "in_force": "2022-10-11",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (11.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 7930,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
