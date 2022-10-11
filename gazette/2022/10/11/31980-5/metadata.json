@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-10-11",
+  "issue": "31980",
+  "edition": "regular",
+  "item": 5,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "Gider Vergileri Genel Tebliği (Seri No: 92)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221011-5.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221011.htm",
+  "index_sha256": "bfb6b7eb5201fda112fc7fa8daeafb82d1cf3296360913f17e04ffe19dad0e8c",
+  "index_header": "11 Ekim 2022 ... 31980 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221011.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
