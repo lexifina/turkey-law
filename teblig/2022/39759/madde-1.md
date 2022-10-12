@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Sarkuysan Elektrolitik Bakır Sanayii ve Ticaret A.Ş tarafından, Yunanistan Cumhuriyeti (Yunanistan) menşeli 7411.10.10.00.11, 7411.10.10.00.12, 7411.10.10.00.19, 7411.10.90.00.00 gümrük tarife istatistik pozisyonları altında sınıflandırılan “rafine edilmiş bakırdan ince ve kalın borular” ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
