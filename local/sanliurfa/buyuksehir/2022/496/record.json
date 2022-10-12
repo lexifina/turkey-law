@@ -1,0 +1,24 @@
+{
+  "number": "496",
+  "number_as_published": "496",
+  "year": 2022,
+  "title": "NAZIM İMAR PLANI-(KARAKÖPRÜ-GÜLLÜBAĞ)",
+  "decision_date": "2022-10-12",
+  "source": "https://www.sanliurfa.bel.tr/icerik/14568/106/nazim-imar-plani-karakopru-gullubag",
+  "official_document": null,
+  "source_sha256": "ec116e07da7e80ffa156f93e02c0b7ef1af691092c9d05703332c57c2adde1d2",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-10-12",
+  "in_force_basis": "Decision date as printed in the official council listing: 12.10.2022 tarih ve 496 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-10-28",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
