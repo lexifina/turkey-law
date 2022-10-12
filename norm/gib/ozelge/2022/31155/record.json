@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-36062021-130[2022-KDV-ÖZE/71]-90594",
+  "source_id": 31155,
+  "date": "2022-10-12",
+  "title": "Şirketin merkez ve şubesi arasında düzenlenecek faturada KDV tevkifatı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/31155",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p005.json",
+  "source_listing_sha256": "bc82c6c09764a8d83c3906db12d34a67d7f592d6e631568c06d506072b5840cf",
+  "source_sha256": "8fc74e25bdcb4ddc858d260fe846530937a008a124c3997977ef3a380632d5f4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
