@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11289",
+  "decision_date": "2022-10-13",
+  "title": "Güzel Enerji Akaryakıt Anonim Şirketi’nin; DEP/476-163/10883 sayılı Depolama Lisansı kapsamında faaliyette bulunan Aliağa Akaryakıt Depolama ve Dolum Tesisine ilişkin",
+  "resmi_gazete_date": "2022-10-15",
+  "resmi_gazete_number": "31984",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mr4+m23eALY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=mr4+m23eALY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Dw/bcLI99cs="
+  ],
+  "source_sha256": "ac6054e5666c70539f6ba6f1c4f23c5603c7dd407a55224b3cc60dafc5d324a6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-13",
+  "law_text_complete": true
+}
