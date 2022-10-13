@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11296",
+  "decision_date": "2022-10-13",
+  "title": "Enerya Erzincan Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-15",
+  "resmi_gazete_number": "31984",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D3wR+fIrzM8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=D3wR+fIrzM8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=h92fRZXQhXM="
+  ],
+  "source_sha256": "de99c397d99ed2fb8fdce4914fddbbd42e0ecd6493c6bac3a10f8b8539207fac",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-13",
+  "law_text_complete": true
+}
