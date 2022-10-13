@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11293",
+  "decision_date": "2022-10-13",
+  "title": "Aksa Manisa Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-15",
+  "resmi_gazete_number": "31984",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=In7sqENnIKY=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=In7sqENnIKY=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=gMu/6kU8/LM="
+  ],
+  "source_sha256": "ef79a1400d64a46a7be901f0056fe37e9a5dd5f14460c608a2dc126b9b8d27d0",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-13",
+  "law_text_complete": true
+}
