@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11295",
+  "decision_date": "2022-10-13",
+  "title": "Enerya Denizli Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-15",
+  "resmi_gazete_number": "31984",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WaCvLFLn2Tg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=WaCvLFLn2Tg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=o8st9qzWgpw="
+  ],
+  "source_sha256": "b76f6e04e7de158c49e3a001d6d22c4fc75d9b77640ce0fa751ee2fe05f4f99e",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-13",
+  "law_text_complete": true
+}
