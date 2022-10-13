@@ -1,0 +1,109 @@
+{
+  "record_type": "law-metadata",
+  "document_type": "kanun",
+  "number": "7418",
+  "year": 2022,
+  "title": "Basın Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+  "adopted": "2022-10-13",
+  "date_basis": "last-sitting",
+  "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607418.pdf",
+  "kanunlar_dergisi": "Kanunlar Dergisi Cilt: 106",
+  "committee_reports": [
+    {
+      "label": "TBMM 340 no'lu Komisyon Raporu",
+      "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c108/tbmm27108002ss0340.pdf"
+    }
+  ],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 926502,
+      "title": "Basın Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": "http://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc106/kanuntbmmc106/kanuntbmmc10607418.pdf",
+      "committee_reports": [
+        {
+          "label": "TBMM 340 no'lu Komisyon Raporu",
+          "url": "http://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c108/tbmm27108002ss0340.pdf"
+        }
+      ],
+      "sittings": [
+        {
+          "cilt": 109,
+          "sitting": 4,
+          "sitting_date": "2022-10-06",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109004.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109fih.pdf",
+          "pages": [
+            "185:195",
+            "196:244"
+          ]
+        },
+        {
+          "cilt": 109,
+          "sitting": 5,
+          "sitting_date": "2022-10-11",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109005.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109fih.pdf",
+          "pages": [
+            "479:489"
+          ]
+        },
+        {
+          "cilt": 109,
+          "sitting": 6,
+          "sitting_date": "2022-10-12",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109006.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109fih.pdf",
+          "pages": [
+            "648:678",
+            "679:680",
+            "681:685",
+            "686:691",
+            "691:697",
+            "697:699",
+            "701:713",
+            "717:725",
+            "725:730",
+            "730:740",
+            "741:743",
+            "745:746"
+          ]
+        },
+        {
+          "cilt": 109,
+          "sitting": 7,
+          "sitting_date": "2022-10-13",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109007.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c109/tbmm27109fih.pdf",
+          "pages": [
+            "877:883",
+            "884",
+            "888:906",
+            "907:916",
+            "920:924",
+            "924:943",
+            "944:957"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=310&v_gelecek_sayfa=201&v_kullanici_id=27483210",
+      "page_sha256": "dd45dd55e713c02ec9aa003744105297b5e6ac85eae0312283ca406fc2709c9c"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KANUNLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "dd45dd55e713c02ec9aa003744105297b5e6ac85eae0312283ca406fc2709c9c",
+  "issuer": "TBMM",
+  "in_force": "2022-10-13",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this kanun (2022-10-13); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
