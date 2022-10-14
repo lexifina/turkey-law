@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-21-2]-243648",
+  "source_id": 21268,
+  "date": "2022-10-14",
+  "title": "Adi ortaklıkta genç girişimcilerde kazanç istisnası şartını taşımayan ortakların ortaklıktan ayrılması halinde faaliyete devam eden ortağın istisnadan faydalanıp faydalanamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21268",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "4cd51c131779a60be71b710d99f1cc2c0b18ec8ec060e94f94e16f9bac8e48d2",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
