@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "47423198-120.01.02.11[94-2021/5]-67899",
+  "source_id": 37729,
+  "date": "2022-10-14",
+  "title": "Kira ödemelerine uygulanan tevkifat oranının %10 olarak yeniden belirlenmesi nedeniyle fazla ödendiği belirtilen gelir vergisi kesintisinin iade edilip edilmeyeceği.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37729",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "6a5309cc6cb335cf6202e2753e9491ca7966862d82a8df770fb4bb5e7110f428",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
