@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-17192610-120[GV-2021/99]-244559",
+  "source_id": 21269,
+  "date": "2022-10-14",
+  "title": "Babadan fatura karşılığı satın alınan araçların genç girişimcilerde kazanç istisnasından yararlanılmasına engel teşkil edip etmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21269",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "e5d5564f5de14a43df1cb6bf18445d82759301deb64cbc8a46fe75aa06cc1b17",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
