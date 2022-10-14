@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125.04[KVK.ÖZ.2021.43]-260994",
+  "source_id": 27667,
+  "date": "2022-10-14",
+  "title": "Belediye uhdesinde bulunan tıp merkezinin KVK'nun 4/1-b bendi hükmüne istinaden muafiyet durumu",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/27667",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "05228f19c3991cbd42a70b31e95939b50d00fb717c046f7e17e5adfc42c323bb",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
