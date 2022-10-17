@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "17192610-120[GV-20-20]-244836",
+  "source_id": 21789,
+  "date": "2022-10-17",
+  "title": "Tasfiye döneminde kollektif şirket ortaklarının geçici vergi ve gelir vergisi beyanı ile kollektif şirketin indirim yoluyla giderilemeyen KDV'sinin gider olarak indirilip indirilemeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21789",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "bc46b164397e0df31b74694464361a2d83eb99721a016b2738580f18e538830f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
