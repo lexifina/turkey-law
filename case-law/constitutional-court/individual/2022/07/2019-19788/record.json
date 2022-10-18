@@ -1,0 +1,20 @@
+{
+  "applicant": "B.A.Y.",
+  "application_date": "2019-05-29",
+  "application_number": "2019/19788",
+  "deciding_unit": "Genel Kurul",
+  "decision_date": "2022-07-05",
+  "id": "a6e41a0c-f356-c44e-4215-6913b2c136c7",
+  "in_force": "2022-10-18",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal)",
+  "published": "2022-10-18",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOmE2ZTQxYTBjLWYzNTYtYzQ0ZS00MjE1LTY5MTNiMmMxMzZjNw&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "0e1268df3c697979d52029828196452c3e7ad1f31ba21c5f68f8d307c72037bc",
+  "version_label": "as-enacted"
+}
