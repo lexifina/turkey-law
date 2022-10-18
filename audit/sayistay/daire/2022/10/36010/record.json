@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "257",
+  "decision_date": "2022-10-18",
+  "source_id": 36010,
+  "chamber": "8",
+  "ilam_number": "176",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36010/",
+  "source_sha256": "b48e47a456973815af94dda547994e96dd62bf452b55ea15b5dce43a1877f075",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
