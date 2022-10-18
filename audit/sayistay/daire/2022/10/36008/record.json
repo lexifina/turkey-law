@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "256",
+  "decision_date": "2022-10-18",
+  "source_id": 36008,
+  "chamber": "8",
+  "ilam_number": "175",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36008/",
+  "source_sha256": "66dfd71ac0c339ba6843d7becc200d1e845275a88830122d3003b67f6d5b15dd",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
