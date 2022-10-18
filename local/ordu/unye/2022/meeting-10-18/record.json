@@ -1,0 +1,25 @@
+{
+  "number": "meeting-10-18",
+  "number_as_published": "meeting-10-18",
+  "year": 2022,
+  "title": "ÜNYE BELEDİYE MECLİSİNİN 18.10.2022 GÜNÜ YAPTIĞI OLAĞANÜSTÜ TOPLANTI KARARLARI",
+  "decision_date": "2022-10-18",
+  "source": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-18-10-2022-gunu-yaptigi-olaganustu-toplanti-kararlari/",
+  "official_document": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-18-10-2022-gunu-yaptigi-olaganustu-toplanti-kararlari/",
+  "source_sha256": "70f9170f045d99e779915c3e6cba1aaf48e2fe09be712aae6d33a439bf965d70",
+  "issuer": "Ünye Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-10-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.10.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "ÜNYE BELEDİYE MECLİSİNİN 18.10.2022 GÜNÜ YAPTIĞI OLAĞANÜSTÜ TOPLANTI KARARLARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "official_page": "https://www.unye.bel.tr/duyuru/unye-belediye-meclisinin-18-10-2022-gunu-yaptigi-olaganustu-toplanti-kararlari/",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
