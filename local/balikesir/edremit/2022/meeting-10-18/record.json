@@ -1,0 +1,23 @@
+{
+  "number": "meeting-10-18",
+  "number_as_published": "meeting-10-18",
+  "year": 2022,
+  "title": "18.10.2022 Meclis Karar Meclis Kararı",
+  "decision_date": "2022-10-18",
+  "source": "https://www.edremit.bel.tr/Guncel/MeclisKarar?sayfa=7",
+  "official_document": "https://edremit.bel.tr:8081/Upload/Mevzuat/32cb938d-38fa-4f61-9728-e97149322cce.pdf",
+  "source_sha256": "92e1126d3886ca73959374b4dd43c272852192f2cd7b22894d318ff22af2c92f",
+  "issuer": "Edremit Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-10-18",
+  "in_force_basis": "Decision date as printed in the official council listing: 18.10.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "18.10.2022 Meclis Karar Meclis Kararı",
+  "record_scope": "one official file of council decisions (meeting)"
+}
