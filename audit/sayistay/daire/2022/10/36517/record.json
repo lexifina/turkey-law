@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "557",
+  "decision_date": "2022-10-18",
+  "source_id": 36517,
+  "chamber": "5",
+  "ilam_number": "24",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36517/",
+  "source_sha256": "aee3f3b198a721e124bacc3689c6006b5680c702de2b8b1564fb4437b9c02194",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
