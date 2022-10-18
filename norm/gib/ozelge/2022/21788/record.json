@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-62030549-120[37-2021]-1196041",
+  "source_id": 21788,
+  "date": "2022-10-18",
+  "title": "Ortaklık adına kayıtlı hatlı minibüs satışının yapılarak ticari taksi faaliyetine devam edilmesi halinde ortaklığın sona erip ermeyeceği ile nasıl vergilendirileceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21788",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "3f102e965a9733f8d356ff628d865fb3730691d817f513809b08d36c7172d586",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
