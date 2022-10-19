@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-10-19",
+  "issue": "31988",
+  "edition": "regular",
+  "item": 15,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞ",
+  "title": "İthalatta Korunma Önlemlerine İlişkin Tebliğ (No: 2022/3)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221019-15.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221019.htm",
+  "index_sha256": "d3f7941c4ec73e88d9741654e77df844d3fabcd0cf3035901f69a4e0ddf4ccc0",
+  "index_header": "19 Ekim 2022 ... 31988 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/10/20221019.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
