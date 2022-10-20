@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35736",
+  "decision_date": "2022-10-20",
+  "source_id": 36315,
+  "chamber": "2",
+  "ilam_number": "250",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36315/",
+  "source_sha256": "cf9fd53ece1611c5bea7a39899c22d418afbc644901d93eafcddceed8f44b882",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
