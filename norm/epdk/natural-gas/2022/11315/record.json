@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11315",
+  "decision_date": "2022-10-20",
+  "title": "Palgaz Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-22",
+  "resmi_gazete_number": "31991",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M3Q7NeAUlVA=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=M3Q7NeAUlVA=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=DFbFlTQ+RAk="
+  ],
+  "source_sha256": "f99f3e87796d033e60266473be5218934d2dc0601dbeb9b5d5c0f1dc77d911eb",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-20",
+  "law_text_complete": true
+}
