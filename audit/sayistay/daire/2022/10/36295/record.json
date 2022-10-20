@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35733",
+  "decision_date": "2022-10-20",
+  "source_id": 36295,
+  "chamber": "2",
+  "ilam_number": "10",
+  "item_number": 1,
+  "public_body_type": "Diğer",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36295/",
+  "source_sha256": "1aea15254aea120fef03bba50089ace02aa6f0e41b8316e20410c444805a83b3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
