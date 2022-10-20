@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-125[10-2022/3]-482081",
+  "source_id": 28243,
+  "date": "2022-10-20",
+  "title": "Yatırım Teşvik Belgesi Olan Yatırımların Finansmanında Nakdi Sermaye Artırımından Elde Edilen Kaynağın Kullanılması Hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28243",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "cc48fbc58ca37f1e1150bfb079533f49beafaa93977585cb8f1cb141d05357c3",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
