@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35735",
+  "decision_date": "2022-10-20",
+  "source_id": 36415,
+  "chamber": "2",
+  "ilam_number": "254",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2018,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36415/",
+  "source_sha256": "40cfe052b78a63e020dcff928791cc4eec9b9d05d6af4e17f6f856b4aa367cc1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
