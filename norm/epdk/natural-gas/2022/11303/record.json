@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11303",
+  "decision_date": "2022-10-20",
+  "title": "Akmercan Adıyaman Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-22",
+  "resmi_gazete_number": "31991",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OLy0hDzWZ+g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=OLy0hDzWZ+g=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZhpEforqJR8="
+  ],
+  "source_sha256": "8c433fc943baf03922f98d06cfab42c50821ae1f24f4cbdd74d49665af1ee200",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-20",
+  "law_text_complete": true
+}
