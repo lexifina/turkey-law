@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35733",
+  "decision_date": "2022-10-20",
+  "source_id": 36296,
+  "chamber": "2",
+  "ilam_number": "10",
+  "item_number": 2,
+  "public_body_type": "Diğer",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36296/",
+  "source_sha256": "fb8acb8c8ee8d87061b88f3d1a4e1cc789e3d10155bae51c6d079fff0ab9b922",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
