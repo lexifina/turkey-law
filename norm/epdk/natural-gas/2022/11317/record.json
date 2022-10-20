@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11317",
+  "decision_date": "2022-10-20",
+  "title": "23/6/2022 tarihli ve 11038 sayılı Kurul Kararında değişiklik yapılmasına ilişkin",
+  "resmi_gazete_date": "2022-10-22",
+  "resmi_gazete_number": "31991",
+  "categories": [
+    "Düzenleyici Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zs6Qu8mZS94=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=zs6Qu8mZS94="
+  ],
+  "source_sha256": "45fbb2ec28152585113500960adf0d9659ef7dda9f36a69a337de8c24a958d5b",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7244,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-20",
+  "law_text_complete": true
+}
