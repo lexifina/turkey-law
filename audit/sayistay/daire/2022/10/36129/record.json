@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "879",
+  "decision_date": "2022-10-20",
+  "source_id": 36129,
+  "chamber": "6",
+  "ilam_number": "1",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36129/",
+  "source_sha256": "6fa53de565be7095e865caa44312fab2137059507915c21972a2c510ffe5df9b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
