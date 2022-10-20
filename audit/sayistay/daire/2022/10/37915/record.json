@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "562",
+  "decision_date": "2022-10-20",
+  "source_id": 37915,
+  "chamber": "5",
+  "ilam_number": "157",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37915/",
+  "source_sha256": "d9cc8c52626d0ec7286e76edd58a1320ab4ec475b8ce2742645568cd7fe203e9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
