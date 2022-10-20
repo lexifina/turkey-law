@@ -1,0 +1,41 @@
+Ders Yükü Muafiyeti
+
+Dosya kapsamındaki bilgi ve belgelerin incelenmesi sonucunda,
+
+Denetçi tarafından … Üniversitesinde görevlerini vekaleten yürüten bölüm başkanlarına mevzuata aykırı olarak ders yükü muafiyeti uygulanması sonucunda kamu zararına neden olunduğu iddia edilmişse de;
+
+2547 sayılı Yükseköğretim Kanunu’nun “Bölüm” başlıklı 21’inci maddesinde, “Bir fakülte ya da yüksekokulda, aynı veya benzer nitelikte eğitim - öğretim yapan birden fazla bölüm bulunamaz.
+
+ Bölüm, bölüm başkanı tarafından yönetilir.
+
+ Bölüm başkanı; bölümün aylıklı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde doktor öğretim üyeleri arasından fakültelerde dekanca, fakülteye bağlı yüksekokullarda müdürün önerisi üzerine dekanca, rektörlüğe bağlı yüksekokullarda müdürün önerisi üzerine rektörce üç yıl için atanır. Süresi biten başkan tekrar atanabilir.
+
+Bölüm başkanı, görevi başında bulunamayacağı süreler için öğretim üyelerinden birini vekil olarak bırakır.
+
+Herhangi bir nedenle altı aydan fazla ayrılmalarda, kalan süreyi tamamlamak üzere aynı yöntemle yeni bir bölüm başkanı atanır.
+
+Bölüm başkanı, bölümün her düzeyde eğitim - öğretim ve araştırmalarından ve bölüme ait her türlü faaliyetin düzenli ve verimli bir şekilde yürütülmesinden sorumludur.” hükmüne yer verilmiştir.
+
+Bahse konu hüküm çerçevesinde bölüm başkanlarının bölümün aylıklı profesörleri, bulunmadığı takdirde doçentleri, doçent de bulunmadığı takdirde doktor öğretim üyeleri arasından üç yıl için atanacağı belirtilmiş ve bölüm başkanının, görevi başında bulunamayacağı süreler için öğretim üyelerinden birini vekil olarak bırakacağı ifade edilmiş olmakla birlikte, anılan madde yalnızca bölüm başkanlığı görevine asli olarak atama yapılmış olması haline ilişkin hususları içermekte olup vekalet konusu da yalnızca asıl olarak atanmış bölüm başkanının geçici olarak ayrılması durumuna yönelik olarak düzenlenmiştir. Ancak bu göreve asli olarak herhangi bir atama yapılmamış veya mevcut akademik kadroda bölüm başkanlığı görevini yürütecek nitelikleri haiz personel bulunmaması nedeniyle aslen atama yapılamamış olunması karşısında söz konusu idari görevin kimin tarafından, hangi biçimde yürütüleceği ve bu durumda görevi yürüten akademik personelin hak ve yetkilerinin nasıl belirleneceği konusunda herhangi bir düzenlemeye yer verilmemiştir.
+
+2547 sayılı Kanun’un “Çalışma Esasları” başlıklı 36’ncı maddesinde ise akademik personelin ders yükü ve muafiyet durumu düzenlenmiştir. Anılan maddede, öğretim üyesinin, görevli olduğu yükseköğretim kurumunda haftada asgari on saat ders, öğretim görevlisinin ise haftada asgari on iki saat ders vermekle yükümlü olduğu ancak rektör, rektör yardımcısı, dekan, enstitü ve yüksekokul müdürlerinin ders verme yükümlülüğünün olmadığı, başhekimler, dekan yardımcıları, enstitü ve yüksekokul müdür yardımcıları ve bölüm başkanlarının ise haftada asgari beş saat ders vermekle yükümlü olduğu hüküm altına alınmış ve ders yükü muafiyeti kapsamında, söz konusu akademik personelce yürütülen eğitim ve öğretim faaliyetleri ile yürütülmesi gereken idari nitelikteki iş ve işlemler arasında bir denge sağlanması öngörülmüştür. Dolayısıyla, ders yükü muafiyetinin, idari görevlerin getirmiş olduğu iş yükünün doğal bir sonucu olduğu görülmektedir. Bu çerçevede, daha önce aslen herhangi bir atama yapılmamış olan bölüm başkanlığı görevini belirsiz bir süre için vekaleten yürüten akademik personelin, kendisine yüklenen yetki ve sorumluluğa paralel olarak, söz konusu idari görevi yürütenler için tanınmış olan ders yükü muafiyetinden yararlanması hakkaniyet gereğidir.
+
+18.05.2018 tarih ve 30425 sayılı Resmi Gazete’de yayımlanan 7141 sayılı Yükseköğretim Kanunu İle Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun’un ek 184’üncü maddesiyle kurulan …Üniversitesinin sorgu konusu edilen meslek yüksekokulları ve fakültelerindeki akademik kadrolarının çoğunlukla öğretim görevlilerinden oluştuğu ve mevcut kadrolarında bölüm başkanlığına aslen atanma koşullarını haiz personel bulunmadığı, bu nedenle faaliyetlerine yeni başlayan bu bölümlerde eğitim öğretim hizmetinin etkin biçimde yürütülerek, gerekli araştırma altyapısının oluşturulabilmesi için bölüm başkanlığı idari görevini yürütmek üzere mevcut kadrolar içerisinden yapılan atamaların mecburiyetten kaynaklandığı anlaşılmaktadır.
+
+Anılan hükümler ve yapılan açıklamalar çerçevesinde, bölüm başkanlığı görevini vekâleten yürüten ve böylelikle eğitim ve öğretim faaliyetlerinin yanı sıra bölüm başkanlığı görevinin gerektirdiği yetki ve sorumluluklar çerçevesinde idari iş ve işlemleri de yürütmekle yükümlü olan akademik personele, vekâlet görevi süresince asaleten atanacak bölüm başkanlarına uygulanacak ders yükü muafiyetinin uygulanması suretiyle yapılan ödemenin kamu zararı olarak değerlendirilmesi mümkün değildir.
+
+  Bu itibarla, kamu zararı oluşmayan sorgu konusu …-TL ödeme hakkında ilişilecek husus bulunmadığına 6085 sayılı Sayıştay Kanunu’nun 55’inci maddesi uyarınca İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy çokluğuyla karar verildi.
+
+Karşı Oy
+
+Üye … ve Üye …’ın karşı oy gerekçeleri:
+
+T.C. Anayasası’nın “Yükseköğretim kurumları” başlıklı 130’uncu maddesinin dokuzuncu fıkrasında, “…öğretim elemanlarının görevleri, unvanları, atama, yükselme ve emeklilikleri, öğretim elemanı yetiştirme, üniversitelerin ve öğretim elemanlarının kamu kuruluşları ve diğer kurumlar ile ilişkileri, öğretim düzeyleri ve süreleri, yükseköğretime giriş, devam ve alınacak harçlar, Devletin yapacağı yardımlar ile ilgili ilkeler, disiplin ve ceza işleri, mali işler, özlük hakları, …, Yükseköğretim kuruluna ve üniversitelere Devletin sağladığı mali kaynakların kullanılması kanunla düzenlenir.” hükmüne yer verilmiş olup, bu hükme istinaden öğretim elemanlarının atamalarının Kanunla düzenlenmesi gerektiği açıktır.
+
+2547 sayılı Yükseköğretim Kanunu’nun “Bölüm” başlıklı 21’inci maddesinde ise, bölüm başkanına görevi başında olmadığı zaman öğretim üyelerinden birinin vekalet edebileceği, göreve vekaletin altı aydan fazla sürmesi durumunda kalan süreyi tamamlamak için aynı yöntemle bir bölüm başkanının atanacağı açıkça hüküm altına alınmıştır. Dolayısıyla, bölüm başkanlığına 2547 sayılı Kanun'un öngördüğü vekalet usulü, bölüm başkanının görevi başında olmadığı durumlarda yerine öğretim üyelerinden birinin vekalet etmesidir. Bölüm başkanlığı görevinin vekaleten yürütülmesinde 2547 sayılı Kanun'da öngörülen usul “dekanın görevinin başında olmadığı zamanlarda yardımcılarından birinin vekalet etmesi” şeklinde olduğundan, bu usulün dışındaki vekaleten görevlendirmeler mevzuata uygun değildir.
+
+ Maliye Bakanlığı Bütçe ve Mali Kontrol Genel Müdürlüğü’nün, Yükseköğretim Kurulu Başkanlığı’na hitaben yazdığı, 23.03.2009 tarihli ve 3449  sayılı görüş yazısı ile Temyiz Kurulu’nun 01.10.2013 tarihli ve 37692 tutanak no.lu, 25.10.2016 tarihli ve 42334 tutanak no.lu kararlarında da; idari görevlere atanabilecek olanlar ve atanma usulleri ile bu görevlere vekalet edebilecek olanların, 2547 sayılı Kanun’la belirlenmiş olması nedeniyle söz konusu idari görevleri anılan Kanun’da belirtilen usul dışında vekaleten yürüten öğretim elemanlarına, yürüttükleri görevlerinden dolayı herhangi bir ödeme yapılmasının mevzuata uygun olmadığı belirtilmiştir.
+
+2914 sayılı Kanun’un 11’inci maddesine dayanılarak Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulu Başkanlığınca yayımlanan “Ders Yükü Tespiti ve Ek Ders Ücreti Ödemelerinde Uyulacak Esaslar”ın 1’inci maddesinin (c) bendinde de rektör, dekan, enstitü ve yüksekokul müdürlüğü ile bölüm başkanlığına Yükseköğretim Kanunu’nda belirtilen şekilde usulüne uygun olarak yapılan vekâleten görevlendirmeler haricinde söz konusu görevlerin vekaleten yürütülmesi halinde ders yükü muafiyeti ve indiriminin uygulanmayacağı belirtilmiştir.
+
+Açıklanan nedenlerle, boş kadroya vekaleten görevlendirme yapılarak görevini vekâleten yürüten bölüm başkanlarına mevzuata aykırı olarak ders yükü muafiyeti uygulanması sonucunda …-TL kamu zararı oluştuğundan, bu tutarın sorumlularına ödettirilmesine karar verilmesi gerektiği düşüncesiyle çoğunluk görüşüne katılmıyoruz.
