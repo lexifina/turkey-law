@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11313",
+  "decision_date": "2022-10-20",
+  "title": "Kayseri Doğal Gaz Dağıtım Pazarlama ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-22",
+  "resmi_gazete_number": "31991",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rqoMtWbBPAk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rqoMtWbBPAk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=onuPRxpeMbE="
+  ],
+  "source_sha256": "99b01ff3b8b68cdbee0ea45c7499ac02d19d3acb081ba41cc3bc45a5ba4c9817",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-20",
+  "law_text_complete": true
+}
