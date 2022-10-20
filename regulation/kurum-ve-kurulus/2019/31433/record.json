@@ -1,0 +1,42 @@
+{
+  "source_id": "7.5.31433",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TCDD TAŞIMACILIK A.Ş. GENEL MÜDÜRLÜĞÜ TEFTİŞ KURULU YÖNETMELİĞİ",
+  "number": "31433",
+  "issuer_slug": "kurum-ve-kurulus",
+  "path": "regulation/kurum-ve-kurulus/2019/31433",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=31433&MevzuatTertip=5",
+  "source_sha256": "f9e4bd46de64507617130d425b2d791fd13ac3e434d2c9af8757463dc81ebb5d",
+  "source_bytes": 133330,
+  "published": "2019-04-17",
+  "gazette": "30748",
+  "in_force": "2022-10-20",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-20/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-20",
+      "RG-20/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-20",
+      "20/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6931,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
