@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "881",
+  "decision_date": "2022-10-20",
+  "source_id": 36132,
+  "chamber": "6",
+  "ilam_number": "2",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36132/",
+  "source_sha256": "21808e58530a97aaa9dc04c224b2a9d647b6a5291f70ae96fc019afc3a6cec02",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
