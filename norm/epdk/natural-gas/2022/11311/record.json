@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11311",
+  "decision_date": "2022-10-20",
+  "title": "Çorum Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-22",
+  "resmi_gazete_number": "31991",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1GunuOHgsvg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=1GunuOHgsvg=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ZTTdzS2KUL4="
+  ],
+  "source_sha256": "93ea7f19641fc7cb5a5f1bce9111f3a851450dd1ab44f4b8d5508d45563ac0e6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-20",
+  "law_text_complete": true
+}
