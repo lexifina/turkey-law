@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, 30/10/2021 tarihli ve 31644 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/50) ile Çin Halk Cumhuriyeti menşeli 9607.11 gümrük tarife pozisyonu altında kayıtlı “Dişleri adi metallerden olanlar” ve 9607.19 gümrük tarife pozisyonu altında kayıtlı “Diğerleri” ürünlerine yönelik olarak başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde alınan kararın yürürlüğe konulmasıdır.
