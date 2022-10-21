@@ -1,0 +1,3 @@
+Ürünlerin izlenebilirliği
+MADDE 11- (1) İktisadi işletmeciler; tedarik zincirinde yer alan bir önceki ve varsa bir sonraki iktisadi işletmecinin ismi, ticaret unvanı veya markası ve irtibat bilgileri ile ürünün takibini kolaylaştıracak diğer bilgilerin kaydını düzenli bir şekilde tutar, ürünü piyasaya arz ettikleri veya piyasada bulundurmaya başladıkları tarihten itibaren en az on yıl boyunca muhafaza eder ve Bakanlığın talebi halinde Bakanlığa sunarlar.
+(2) Bu Yönetmelik kapsamında düzeltici önlemlerin alınması gerektiğinde kullanılmak üzere, iktisadi işletmeciler; parti, seri veya lot bazında ürünün dağıtımını yaptığı dağıtıcıları ve dağıtımı yapılan ürün miktarlarını içeren kayıt oluşturur ve Bakanlığın talebi halinde bu kayıtları sunar.

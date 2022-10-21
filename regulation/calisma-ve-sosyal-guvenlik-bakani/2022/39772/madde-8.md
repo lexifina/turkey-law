@@ -1,0 +1,10 @@
+Numune, test ve muayene ücreti
+MADDE 8- (1) Test ve muayene sonucunda, numunenin uygun çıkması durumunda;
+a) Test ve muayene, nakliye, bindirme ve indirme ücreti Bakanlığa aittir.
+b) Numunenin özelliğini kaybetmemesi durumunda yapılan test sonucu, iktisadi işletmeciye Genel Müdürlük tarafından bildirilir. Bildirim yazısında varsa şahit numunenin ve test/muayene işlemine tabi tutulan numunenin alınması gerektiği belirtilir. Bildirim tarihinden itibaren bir ay içinde şahit numune dâhil alınmayan numuneler, çevre, şehircilik ve iklim değişikliği il müdürlüklerine intikal ettirilir. Bu durumda ilgili iktisadi işletmeci numune bedelini talep edemez.
+c) Numunenin özelliğini kaybetmesi durumunda, Genel Müdürlük onayı ile numunenin bulunduğu uygunluk değerlendirme kuruluşu tarafından “numune bertaraf tutanağı” düzenlenerek numune bertaraf edilir veya ilgili mevzuat hükümleri doğrultusunda teslim edilmesi gereken tesislere intikal ettirilir ve numune bedeli Bakanlık tarafından iktisadi işletmeciye ödenir.
+(2) Test ve muayene sonucunda numunenin uygunsuz olduğunun veya risk taşıdığının tespit edilmesi durumunda;
+a) Numune, test ve muayene, nakliye, bindirme, indirme, bertaraf ücreti ve bunlara ilişkin diğer giderler imalatçı veya ithalatçıya aittir. Yapılan masraflar, ilgili imalatçı veya ithalatçıya genel hükümlere göre rücu edilir.
+b) Bakanlık tarafından bedelsiz olarak test ve muayene hizmeti alınan durumlarda; uygun olmadığı tespit edilen numuneler için hizmet alım şartları kapsamında önceden belirlenen ve ilgili uygunluk değerlendirme kuruluşu tarafından fatura edilen bedel, imalatçı veya ithalatçı tarafından doğrudan bu kuruluşa ödenir.
+c) Numunenin, ürünün özelliğine göre uygun koşullarda ve uygun bir süreyle test kuruluşunda saklanması sağlanır. Bu süre sonunda “numune bertaraf tutanağı” düzenlenerek numune Bakanlık tarafından bertaraf edilir veya ettirilir.
+ç) Uygunsuzluk nedeniyle uygulanacak idari yaptırım kararının kesinleşmesinden sonra şahit numuneye (c) bendindeki usule göre işlem yapılır.

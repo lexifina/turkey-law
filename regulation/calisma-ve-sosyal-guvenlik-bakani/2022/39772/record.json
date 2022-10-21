@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39772",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞI PİYASA GÖZETİMİ VE DENETİMİ YÖNETMELİĞİ",
+  "number": "39772",
+  "issuer": "Çalışma ve Sosyal Güvenlik Bakanı",
+  "issuer_slug": "calisma-ve-sosyal-guvenlik-bakani",
+  "path": "regulation/calisma-ve-sosyal-guvenlik-bakani/2022/39772",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39772&MevzuatTertip=5",
+  "source_sha256": "229ce55a9325fd5b8b0a0583be139dd6f7218c1f0745e9ce7188c0b736dec03c",
+  "source_bytes": 188193,
+  "published": "2022-10-21",
+  "gazette": "31990",
+  "in_force": "2022-10-21",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (21.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6166,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

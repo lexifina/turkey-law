@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik; 5/3/2020 tarihli ve 7223 sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu, 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 86 ncı, 90 ıncı ve 508 inci maddelerine ve 9/7/2021 tarihli ve 4269 sayılı Cumhurbaşkanı Kararıyla yürürlüğe konulan Ürünlerin Piyasa Gözetimi ve Denetimine Dair Çerçeve Yönetmelik hükümlerine dayanılarak hazırlanmıştır.

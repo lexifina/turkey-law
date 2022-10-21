@@ -1,0 +1,4 @@
+RAPEX bildirimleri
+MADDE 10- (1) Bakanlık, RAPEX aracılığıyla uygun olmadığı tespit edilen piyasaya arz edilmiş ürünler hakkında, denetim süreci içerisinde test ve muayene işlemi yapmadan RAPEX sistem bildiriminde yer alan risk tipi göz önüne alınarak iktisadi işletmeciden savunma talep edebilir. Savunma talep yazısında ürüne ilişkin bilgi ve belgeler de talep edilebilir.
+(2) İktisadi işletmeciden alınan savunma ve/veya bilgi ve belgelerin değerlendirilmesi sonucunda tespit edilen uygunsuzluklarla orantılı olarak önlemleri uygulaması, iktisadi işletmeciden talep edilebilir.
+(3) İktisadi işletmeci tarafından sunulan savunma ile bilgi ve belgelerin değerlendirme yapılabilmesi için yeterli bulunmaması durumunda test ve muayene işlemleri de dâhil olmak üzere ürüne ilişkin piyasa gözetimi ve denetim faaliyeti başlatılır.
