@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, Fakültede görevli (Değişik ibare:22/10/2022-31991) öğretim elemanları arasından, liyakat, insan hakları ve özgürlükler hukuku alanındaki tecrübeleri dikkate alınarak Dekanın önerisi üzerine Rektör tarafından görevlendirilir. Süresi biten Müdür yeniden görevlendirilebilir. Müdür, Merkezin çalışmalarının düzenli olarak yürütülmesi ve geliştirilmesinden öncelikli olarak Dekana ve ayrıca Rektöre karşı sorumludur.
+(2) Yönetim Kurulu, Müdüre çalışmalarında yardımcı olmak üzere kendi üyeleri arasından en çok iki kişiyi müdür yardımcısı olarak görevlendirir. Müdür görevi başında bulunmadığı zamanlarda yardımcılarından birini vekil olarak bırakır.

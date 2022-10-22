@@ -1,0 +1,3 @@
+Danışma Kurulu
+MADDE 12- (1) Danışma Kurulu üyeleri, liyakat ve insan hakları alanındaki tecrübeleri dikkate alınarak, Yönetim Kurulunun görüşü ve Müdürün önerisi üzerine, Rektör tarafından üç yıllığına görevlendirilir. Süresi biten Danışma Kurulu üyeleri yeniden görevlendirilebilir. Süresi bitmeden ayrılanların, sağlık veya geçerli diğer sebeplerle görevini yerine getiremeyenlerin veya altı aydan fazla Üniversite dışında görevlendirilenlerin yerine aynı usulle yeni üyeler görevlendirilebilir.
+(2) Danışma Kurulu en fazla on üyeden oluşur. Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanır. Toplantı yapmak ve karar almak için çoğunluk koşulu aranmaz.
