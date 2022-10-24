@@ -1,0 +1,16 @@
+Harcama Yetkilisi ve Sermaye Limiti
+İşletmenin faaliyet alanları
+MADDE 4- (1) İşletme, çalışmaları sırasında eğitim ve öğretim ile bunlara katkıda bulunan uygulamayı ön planda tutmak ve Üniversitenin esas faaliyetlerini aksatmamak kaydıyla aşağıda belirtilen faaliyetlerde bulunur:
+a) İşletmeye bağlı sağlık hizmetleri uygulama ve araştırma hastanesi, diş hekimliği fakültesi, sağlık bilimleri fakültesi, veteriner fakültesi ve sağlık hizmeti veren diğer birimlerde klinik, poliklinik, laboratuvar ve diğer hizmet birimlerinde muayene, tahlil, tetkik, tedavi, ameliyat, girişimsel işlemler ve bakım hizmetleri ile ilgili faaliyetlerde bulunmak, sağlık hizmetleri ile ilgili açılmış olan yataklı ve yataksız tedavi kurum ve birimlerini işletmek.
+b) Turizm işletmeciliği ve otelcilik eğitiminin uygulama alanlarını işletmek, yiyecek, içecek, konaklama hizmetleri vermek ve bu amaç doğrultusunda ilgili tesisleri işletmek.
+c) Yükseköğretim kurumları dışındaki kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler tarafından talep edilecek konularda, bilimsel görüş vermek, proje hazırlamak, araştırma, uygulama ve benzeri hizmetleri yapmak, elektronik ortamda veya yüz yüze seminer düzenlemek, kurs açmak, toplantı, konferans, panel ve sempozyumlar düzenlemek, sınavlar yapmak.
+ç) Danışmanlık, kontrol, muayene ve benzeri hizmetler vermek, analiz, ölçüm, test ve kalibrasyon yapmak.
+d) Faaliyet alanlarına uygun araştırma ve uygulama yapmak, bilimsel sonuçların uygulanmasını ve teknolojiye dönüşümünü sağlamak.
+e) Eğitim-öğretime yönelik uygulamalarla sınırlı kalmak üzere grafik tasarımı, afiş, broşür, sergi ve fuar düzenlenmesi, iç ve dış mekân düzenlemeleri ve benzeri hizmetleri yapmak.
+f) Üniversitenin eğitim-öğretim ve uygulama faaliyeti ile ilgili her türlü basım ve yayım hizmetlerini yapmak.
+g) Üniversite-sanayi iş birliği kapsamında çalışmalar yapmak, sanayi kuruluşlarınca üretilen çeşitli malların standartlara uygunluğu konusunda raporlar düzenlemek, analiz ve ölçümler yapmak, projeler hazırlamak veya uygulamak.
+ğ) İşletmeye bağlı araştırma ve uygulama merkezlerinde bulunan imkânlar çerçevesinde her türlü, test, analiz, cihaz ve laboratuvar altyapısı kullanımı, sertifikasyon işlemleri, eğitim ve kurs faaliyetlerini gerçekleştirmek, laboratuvar ve atölyelerde her çeşit cihaz, makine, alet ve edevatın üretim, bakım ve onarımını yapmak.
+h) İlgili mevzuat hükümleri kapsamında pedagojik formasyon, yabancı dil, yabancılara Türkçe öğretimi, bilgi işlem, yazılım ve donanım, bilirkişilik, arabuluculuk gibi konularda elektronik ortamda veya yüz yüze sertifikalı eğitim hizmeti vermek.
+ı) Üniversite bilgisayar altyapısını kullanarak her türlü yazılım, program üretim ve satışını yapmak.
+i) İşletme birimlerinin faaliyet alanı ile ilgili her türlü baskı, grafik, yayım ve basım işlerini yapmak, ziraat ve veterinerlik kapsamında canlı materyal, tarımsal ürün ve benzeri mallar üretmek ve elde edilen ürünleri ilgili mevzuat hükümleri kapsamında pazarlamak.
+j) Mevcut fiziksel kapasiteyi değerlendirerek, hizmet birimlerinin faaliyet alanı ile sınırlı olmak üzere yukarıdaki bentlerde sayılanlar dışında her türlü mal ve hizmet üretiminde bulunmak ve Yönetim Kurulunun izni alınmak koşuluyla üretilen mal ve hizmetleri pazarlamak, satmak, satış yerleri açmak ve işletmek.
