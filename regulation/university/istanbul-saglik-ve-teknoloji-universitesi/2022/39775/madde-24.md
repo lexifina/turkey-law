@@ -1,0 +1,5 @@
+Devam
+MADDE 24- (1) Üniversitede derslere devam zorunludur. Öğrencilerin teorik derslerin en az %70’ine, uygulamalı derslerin ve laboratuvarların en az %80’ine devamları zorunludur.
+(2) Önceki yarıyıllarda alınmış ve devam koşulu sağlanmış olan teorik dersler tekrar edileceği zaman yeniden devam şartı aranmaz. AGNO hesaplamasında, tekrar edilen dersten alınan en son harf notu geçerlidir.
+(3) Öğrencilerin derse devam durumu, ilgili öğretim elemanı tarafından izlenir ve ilan edilir. Bir dersin devam yükümlülüğünü yerine getirmeyen, devamsızlıktan kalan öğrenci ilgili dersten devamsız sayılır ve o dersin sınavlarına alınmaz.
+(4) Mazereti veya sağlık sorunu nedeni ile devamsızlık yapılması durumunda raporları fakülte/yüksekokul yönetim kurulunca uygun görülmesi halinde geçerli kabul edilir. Öğrencinin raporlu ya da belgelemiş olduğu sağlık sorunu ile ilgili günlerinin toplamı, yıllık/dönemlik toplam ders saatinin yarısını aşması durumunda devamsızlıktan kalmış sayılır. Öğrenciler, rapor süresince derslere devam edemezler ve sınavlara giremezler.

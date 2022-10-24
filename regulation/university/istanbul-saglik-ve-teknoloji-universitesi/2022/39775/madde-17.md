@@ -1,0 +1,3 @@
+Öğretim dili
+MADDE 17- (1) Yabancı dil zorunluluğu olduğu belirtilen programların dışında, Üniversitede öğretim dili Türkçe’dir. Senatonun önerisi, Mütevelli Heyeti kararı ve YÖK onayı ile Üniversitenin bazı diploma programlarında kısmen veya tamamen yabancı dille eğitim-öğretim yapılmasına karar verilebilir. Hangi programların yabancı dille yapılabileceği ÖSYM kılavuzunda belirtilir.
+(2) Eğitim-öğretim dili Türkçe olan programlarda yabancı dille ya da eğitim-öğretim dili yabancı dil olan programlarda Türkçe ders açılması 23/3/2016 tarihli ve 29662 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Yabancı Dil Öğretimi ve Yabancı Dille Öğretim Yapılmasında Uyulacak Esaslara İlişkin Yönetmelik hükümleri ve Senato kararları ile belirlenir.

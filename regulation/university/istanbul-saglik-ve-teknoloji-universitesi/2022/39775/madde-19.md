@@ -1,0 +1,4 @@
+Eğitim-öğretim yılı
+MADDE 19- (1) Eğitim-öğretim yılı (diş hekimliği ve tıp fakültesi hariç), her biri en az on dört haftadan olan güz ve bahar yarıyıllarından oluşur. Senato kararıyla yarıyıl süreleri uzatılabilir. Yarıyıl sonu sınav günleri bu sürelere dâhil değildir.
+(2) Güz ve bahar yarıyıllarına ek olarak yaz okulu öğretimi açılabilir. Yaz okulu öğretimine ilişkin usul ve esaslar, yönerge hükümleri ve Senato kararları ile belirlenir.
+(3) Eğitim-öğretim yılı akademik takvimde belirlenen başlangıç tarihinde başlar ve bir sonraki eğitim-öğretim yılının akademik takvimde belirlenen başlangıç tarihinden bir gün önce biter. Eğitim-öğretim yılı; esas olarak güz dönemi ve bahar dönemini kapsar. Yaz öğretimi, bitmiş olan güz ve bahar yarıyıllarının devamıdır ve aynı eğitim-öğretim yılına aittir.

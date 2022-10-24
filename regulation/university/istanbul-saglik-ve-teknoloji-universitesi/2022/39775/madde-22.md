@@ -1,0 +1,10 @@
+Ders yükü
+MADDE 22- (1) Öğrenciler ilgili diploma programının eğitim-öğretim planlarında belirtilen zorunlu dersler ile eğitim-öğretim planlarında gösterilen türde ve sayıda seçmeli derse, ilgili yarıyıllarda kaydolmakla yükümlüdürler.
+(2) Ön koşullu dersler, derslerin verildiği birimlerin ilgili yönetim kurullarının kararı ve Senatonun onayı ile belirlenir. Ön koşullu olarak kabul edilen derslerde, bir ön koşullu derse kaydolabilmek için bu derse ön koşul olarak belirlenmiş derslerin alınmış ve başarılmış olması gerekir.
+(3) Öğrencilerin, daha önceki dönemlerde başarısız oldukları ve/veya devamsızlıktan kaldıkları dersleri, bu derslerin yeniden açıldığı ilk yarıyılda öncelikli olarak almaları gerekir. Tekrarlanacak dersler, seçmeli ise veya sonradan eğitim-öğretim planlarından çıkartılmış ise öğrenciler bu derslerin yerine ilgili yönetim kurulu tarafından onaylanan eş değer dersleri alırlar. Bu durumda; eş değer dersin kredisinin, tekrarlanması gereken dersin kredisine eşit veya daha fazla olması gerekir. Öğrenciler, tekrarlamak zorunda oldukları derslere kayıt yaptırdıktan sonra, ön koşullarını ve varsa eğitim-öğretim planlarında belirtilen diğer koşulları sağlamış olmak şartıyla, önceki yarıyıllardan hiç almadıkları derslere kayıt yaptırmak zorundadırlar.
+(4) Bir seçimlik dersten başarısız olunması durumunda aynı seçimlik ders grubundan olmak kaydıyla başka bir seçimlik ders alınıp başarısız olunan dersin yerine saydırılabilir.
+(5) Devamsızlık nedeniyle başarısız olunan derslerin tekrarında devam zorunluluğu vardır.
+(6) Bir öğrencinin her dönemde alacağı normal ders yükü, öğrencinin ait olduğu bölüm/programında belirtilen yüktür.
+(7) Tüm derslerden başarılı ve AGNO’su en az 3,00 olan bir öğrencinin, 30 AKTS kredisi olan normal ders yükü, danışmanın onayı ile 10 AKTS’ye kadar artırılabilir.
+(8) Ders tekrarı durumunda olan bir öğrencinin ders yükü, tekrar ettiği derslerine öncelikle kayıtlanmak ve üst sınıftan ders almamak koşulu ile bir yarıyılda en fazla 40 AKTS kredisi kadardır.
+(9) Yatay geçiş ya da dikey geçiş yapan bir öğrencinin ders yükü toplamı ilgili bölüm/programın normal ders yükünden fazla olamaz.

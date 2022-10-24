@@ -1,0 +1,4 @@
+BEŞİNCİ BÖLÜM
+Klinik Uygulamalar-Alan Çalışması, Azami Süre, Mezuniyet ve Diploma
+Klinik uygulamalar-alan çalışması
+MADDE 30- (1) Klinik uygulamalar-alan çalışması; öğrencinin istenen mesleki ya da akademik bilgi ve beceri düzeyine erişmesini sağlamak üzere Üniversite içinde ya da dışında bir kuruluşta ve tercihen yaz aylarında yapılan uygulamalı çalışmadır. Alan çalışmalarına ilişkin esaslar ilgili fakülte/meslek yüksekokulu kurulunun önerisi üzerine Senato tarafından karara bağlanır. 2547 sayılı Kanunun 44 üncü maddesi ile düzenlenen azami süreler sonunda sınav hakkını kullanan öğrencilerin, aynı zamanda alan çalışmasında da bir ders kabul edilmek suretiyle alan çalışmasına katılmasının uygun görülmesi üzerine; öğrenciler mezuniyet koşulu olan, sorumlu oldukları uygulamalardan kredili uygulamalar için kredi başı ücreti, kredisiz uygulamalar için ücret alınmadan bir ders kabul edilmek suretiyle alan çalışmasına katılacaktır.

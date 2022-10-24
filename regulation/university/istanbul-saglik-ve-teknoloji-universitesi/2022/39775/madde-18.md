@@ -1,0 +1,3 @@
+Akademik takvim
+MADDE 18- (1) Akademik takvim akademik yıla ilişkin kayıt, ders, sınav, başvuru ve benzeri faaliyetleri kapsar ve ilgili akademik birimlerin görüşleri alınmak sureti ile Rektörlük tarafından hazırlanır ve Senatonun onayıyla uygulamaya konur.
+(2) Mücbir sebep olarak kabul edilebilecek deprem, salgın, savaş, seferberlik, terör ve benzeri olağan dışı durumlarda ve bunların etkisinin devam ettiği süreçlerde; eğitim ve öğretimin devamının sağlanabilmesi ve öğrenci mağduriyetlerinin önlenebilmesi amacıyla, eğitim-öğretime ilişkin esas ve sürelerde değişiklik yapmaya, yeni kararlar almaya Senato yetkilidir.
