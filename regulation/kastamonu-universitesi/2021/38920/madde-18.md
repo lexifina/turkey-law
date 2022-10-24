@@ -1,0 +1,4 @@
+Not ortalamaları
+MADDE 18 – (1) Öğrencinin başarı durumu; her dönem sonunda ANO ve AGNO ile belirlenir. Not ortalaması, not ortalamasına katılan her dersin AKTS değeriyle o dersten alınan harf notunun katsayısı çarpılarak bulunan değerlerin toplamının, bu derslerin toplam (Değişik ibare:RG-14/7/2022-31893) AKTS değerine bölünmesiyle bulunur. Bu işlem bir dönemde harf notu oluşan dersler için yapılırsa ANO; o zamana kadar harf notu oluşmuş tüm dersler için yapılırsa AGNO elde edilir.
+(2) AGNO ve ANO hesabında virgülden sonra üç haneli işlem yürütülür ve gösterim iki hane üzerinden yapılır. Yuvarlama işleminde virgülden sonraki üçüncü hane 0-4 ise aşağı, 5-9 ise yukarı yuvarlama kuralı uygulanır.
+(3) AGNO ve ANO hesaplanırken, tekrar edilen zorunlu veya seçmeli dersin en son harf notu ve AKTS’si; seçmeli dersin yerine başka bir dersin alınması durumunda ise en son alınan dersin harf notu ve AKTS’si esas alınır. Hiç alınmamış dersler ortalama hesabına katılmaz.

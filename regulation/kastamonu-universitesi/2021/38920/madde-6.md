@@ -1,0 +1,2 @@
+Öğrenci katkı payı, öğrenim ücreti, AKTS başı katkı payı
+MADDE 6 – (1) 2547 sayılı Kanunun 46 ncı maddesi ve diğer ilgili mevzuat hükümleri uyarınca belirlenen öğrenci katkı payları/öğrenim ücretleri, ilgili dönem başlarında akademik takvimde belirtilen kayıt yenileme tarihlerinde ödenir. Süresi içinde katkı payı veya öğrenim ücretini ödemeyenler ile mazeretleri, ilgili yönetim kurullarınca kabul edilmeyenler o dönem için kayıt yenileme yaptıramaz ve öğrencilik haklarından yararlanamazlar. AKTS başı katkı payı ödemesi, azami süresini tamamlamış öğrencileri kapsamaktadır.

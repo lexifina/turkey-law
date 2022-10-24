@@ -1,0 +1,12 @@
+İKİNCİ BÖLÜM
+Yeni Kayıt, Öğrenci Katkı Payı, Danışmanlık, Kayıt Yenileme, Yatay-Dikey
+Geçiş, Çift Ana Dal ve Yan Dal
+Yeni kayıt
+MADDE 5 – (1) Üniversitenin ön lisans ve lisans programlarına yeni kayıt yaptırabilmek için Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığınca ilgili programa yerleştirilmiş olmak gerekir. Ancak özel yetenek sınavı ile alınacak öğrencilerde aranacak genel ve özel şartlar, ilgili yönetim kurulunun görüşü alınarak Senato tarafından belirlenir. 2547 sayılı Kanunun 45 inci maddesinin birinci fıkrasının (f) bendi kapsamında yurt dışından öğrenci kabulüne ilişkin usul ve esaslar Yükseköğretim Kurulu Başkanlığı tarafından belirlenen kriterler doğrultusunda Senato tarafından karara bağlanır.
+(2) Üniversiteye kayıt hakkı kazanan adaylar, kayıtlarını şahsen, elverişli olması halinde e-Devlet üzerinden veya olağanüstü durumlarda (sağlık sorunları, afet ve benzeri) noter onaylı vekâletname verecekleri kişiler tarafından yaptırabilir. Posta ile başvuru kabul edilmez.
+(3) Yeni kayda hak kazananlar, belirlenen tarihlerde kayıtlarını yaptırırlar. Süresi içinde kaydını yaptırmayanlar, Üniversite öğrencisi olma hakkını kaybederler. e-Devlet üzerinden kayıt yaptırmayanlar, kayıt belgelerini belirlenen tarihlerde Üniversitenin kayıt bürolarına teslim etmek zorundadır.
+(4) Yabancı uyruklu öğrencilerin Üniversiteye kayıtları, ilgili mevzuat ile Senato tarafından belirlenen ilke ve şartlar çerçevesinde yapılır.
+(5) Kayıt tarihleri, kayıt sırasında istenilecek belgeler ve uygulanacak esaslar, ilgili mevzuat hükümleri doğrultusunda Senato tarafından belirlenerek ilan edilir.
+(6) Üniversitenin başka bir yükseköğretim kurumuyla uluslararası ortak yürüteceği programlara kayıt yaptıracakların kayıt işlemleri, 6/10/2016 tarihli ve 29849 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarının Yurt Dışı Yükseköğretim Kurumlarıyla Ortak Eğitim Öğretim Programlarına Dair Yönetmelik ile diğer mevzuat hükümlerine ve Senato kararlarına göre yapılır.
+(7) Kayıtlarını yeni yaptıran öğrencilere öğrenci kimlik kartı düzenlenir.
+(8) Gerçeğe aykırı veya yanıltıcı beyan ve belgelerle Üniversiteye kayıt hakkı kazanmış olanların belirlenmesi durumunda kişilerin kayıtları yapılmaz, kayıt yaptırmış olanların ise bulundukları yarıyıla bakılmaksızın kayıtları iptal edilerek kendilerine verilmiş olan diploma dâhil tüm belgeler geçersiz sayılır. Bu durumda olanlar, öğrencilik statüsü kazanmamış sayılır ve öğrencilikle ilgili hiçbir haktan yararlanamazlar.

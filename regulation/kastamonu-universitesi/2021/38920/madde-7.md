@@ -1,0 +1,6 @@
+Danışmanlık
+MADDE 7 – (1) Birimlerde her öğrenci için öğrenim süresi boyunca eğitim-öğretimlerini planlayabilmeleri konusunda yardımcı olmak, akademik, sosyal ve kültürel konularda yol göstermek, zihinsel, sosyal ve duygusal yönleriyle öğrencinin kişiliğinin bir bütün olarak gelişebilmesi için uygun ortamın hazırlanmasına yardımcı olmak amacıyla bir öğretim elemanı, ilgili bölüm başkanlıklarının önerisi ile her akademik yılın başında, ilgili fakülte/yüksekokul/meslek yüksekokulu yönetim kurulu tarafından danışman olarak görevlendirilir. İlgili bölüm başkanlığı, kurul gerekli gördüğü hallerde danışman değişikliği yapabilir. Akademik takvimde belirlenen ders kayıt süresi içerisinde izinli olan danışmanın yerine bölüm başkanı ikinci danışman atar.
+(2) Danışmanın görevleri şunlardır:
+a) Ders kaydı sırasında öğrencinin alması gereken zorunlu ve seçmeli derslerin belirlenmesini, ders plan değişikliği nedeniyle uygulanacak intibaklar konusunda öğrencinin yönlendirilmesini ve öğrencinin mezuniyeti için gerekli dersleri eksiksiz almasını sağlamak.
+b) Öğrenciyi öğrenimi boyunca izleyerek üniversite yaşamına uyum, mesleki gelişim, kariyer ve benzeri konularda öğrenciyi bilgilendirmek ve yönlendirmek.
+(3) Danışmanların görev ve sorumluluklarına ilişkin esaslar Senato tarafından bir yönerge ile belirlenir.
