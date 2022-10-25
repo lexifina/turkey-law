@@ -1,0 +1,76 @@
+{
+  "source_id": "7.5.24736",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÖZEL EĞİTİM HİZMETLERİ YÖNETMELİĞİ",
+  "number": "24736",
+  "issuer": "eğitsel değerlendirme, tanılama ve Özel Eğitim Değerlendirme Kurulu ile ilgili hükümlerini, Millî Eğitim Bakanı ile Aile ve Sosyal Hizmetler Bakanı birlikte, diğer hükümlerini Millî Eğitim Bakanı",
+  "issuer_slug": "egitsel-degerlendirme-tanilama-ve-ozel-egitim-degerlendirme-kurulu-ile-ilgili-hukumlerini",
+  "path": "regulation/egitsel-degerlendirme-tanilama-ve-ozel-egitim-degerlendirme-kurulu-ile-ilgili-hukumlerini/2018/24736",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24736&MevzuatTertip=5",
+  "source_sha256": "b316c6cf84bbd7c1659ce16389a0ac635515c14ea0c614d2f1cf122923ff3f03",
+  "source_bytes": 230589,
+  "published": "2018-07-07",
+  "gazette": "30471",
+  "in_force": "2022-10-25",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-25/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-25",
+      "RG-25/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-25",
+      "25/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-07-01",
+      "RG-1/7/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-07-01",
+      "1/7/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-30",
+      "RG-30/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-30",
+      "30/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-06-11",
+      "RG-11/6/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-06-11",
+      "11/6/2020",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 13421,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.24736-Ek.zip"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
