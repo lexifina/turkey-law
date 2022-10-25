@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-35831311-010.01-24759",
+  "source_id": 30200,
+  "date": "2022-10-25",
+  "title": "Kütük Demir Teslimlerinde KDV Tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30200",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "e3447a9bec8c3cf8780f8eb7787f7545b9be93908fcb3324c23962e6574bd8a1",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
