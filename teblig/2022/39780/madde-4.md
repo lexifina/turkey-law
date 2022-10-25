@@ -1,0 +1,2 @@
+Yürürlükteki dampinge karşı önlem
+MADDE 4- (1) 2/12/2017 tarihli ve 30258 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2017/33) çerçevesinde ÇHC menşeli 4011.20.90.00.00; 4011.70.00.00.00; 4011.80.00.00.00 ve 4011.90.00.00.00 GTİP’ler altında kayıtlı “ağır vasıta, zirai araç ve iş makineleri dış lastikleri (kauçuktan yeni dış lastikler)” ithalatında CIF bedelin %60’ı oranında dampinge karşı önlem yürürlüktedir.

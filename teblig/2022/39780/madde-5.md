@@ -1,0 +1,4 @@
+Karar
+MADDE 5- (1) Yürütülen soruşturma sonucunda, Malezya’da yerleşik firmaların yürürlükteki dampinge karşı önlemden kaçınma dışında yeterli bir haklı nedeni veya ekonomik gerekçesi bulunmayan bir uygulama, işlem veya iş sonucunda yürürlükteki dampinge karşı önlemi etkisiz kılmadığı sonucuna ulaşılmıştır.
+(2) Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu ekte yer almaktadır.
+(3) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ile, Malezya menşeli/çıkışlı soruşturma konusu eşya ithalatında İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2021/42) ile başlatılan önlemlerin etkisiz kılınmasına karşı soruşturmanın önlemsiz olarak kapatılmasına karar verilmiştir.
