@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 8. Dairesi",
+  "number": "258",
+  "decision_date": "2022-10-25",
+  "source_id": 36100,
+  "chamber": "8",
+  "ilam_number": "122",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36100/",
+  "source_sha256": "ac62f3c35dff1c15c2cc56f24c93bab6560b0df132afc0271ffece73bd0e1884",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
