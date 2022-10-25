@@ -1,0 +1,104 @@
+{
+  "record_type": "parliament-index-entry",
+  "index": "TBMM Tutanak Dergisi fihristi",
+  "kayit_no": 926591,
+  "assembly": "TBMM",
+  "term": 27,
+  "heading": "TEKLİFLER",
+  "heading_as_published": "Teklifler",
+  "name": "AHMET TAN (KÜTAHYA)",
+  "summary": "Ve 172 Milletvekilinin Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (2/4618) (S. Sayısı: 361)",
+  "title": "Ve 172 Milletvekilinin Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair (2/4618) (S. Sayısı: 361)",
+  "first_sitting_date": "2022-10-25",
+  "documents": [],
+  "sittings": [
+    {
+      "cilt": 111,
+      "sitting": 11,
+      "sitting_date": "2022-10-25",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111011.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+      "pages": [
+        "100:105",
+        "106:119"
+      ]
+    },
+    {
+      "cilt": 111,
+      "sitting": 12,
+      "sitting_date": "2022-10-26",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111012.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+      "pages": [
+        "222:234",
+        "237:247",
+        "247:257",
+        "257:268",
+        "269:271",
+        "272:274",
+        "274:277",
+        "284:291",
+        "291:296"
+      ]
+    },
+    {
+      "cilt": 111,
+      "sitting": 13,
+      "sitting_date": "2022-10-27",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111013.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+      "pages": [
+        "340:344",
+        "344:370",
+        "371:373",
+        "373:379",
+        "380:389",
+        "390:405"
+      ]
+    },
+    {
+      "cilt": 111,
+      "sitting": 15,
+      "sitting_date": "2022-11-02",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111015.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+      "pages": [
+        "669:678",
+        "679:680",
+        "682:683",
+        "683:699",
+        "700:706",
+        "707:721",
+        "722:734"
+      ]
+    },
+    {
+      "cilt": 111,
+      "sitting": 16,
+      "sitting_date": "2022-11-03",
+      "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111016.pdf",
+      "old_script_pdf": null,
+      "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+      "pages": [
+        "772:803",
+        "804:808",
+        "808:818",
+        "820:821",
+        "822:834"
+      ]
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=TEKL%DDFLER&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=416&v_gelecek_sayfa=301&v_kullanici_id=27484797",
+  "source_sha256": "60c91f92790ba38792a2964c8ebd9ff6274ff2dd41cd5a6ad03543d9ecbe9aa8",
+  "in_force": "2022-10-25",
+  "in_force_basis": "Date of the earliest plenary sitting (Birleşim tarihi) the official Tutanak Dergisi index cites for this entry; index record of proceedings, commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index entry as published; the proceedings are in the linked official minutes PDFs (scanned), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
