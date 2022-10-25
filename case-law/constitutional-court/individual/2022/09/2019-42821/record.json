@@ -1,0 +1,20 @@
+{
+  "applicant": "N.K.",
+  "application_date": "2019-12-30",
+  "application_number": "2019/42821",
+  "deciding_unit": "Birinci Bölüm",
+  "decision_date": "2022-09-21",
+  "id": "0f552de1-f49a-2068-4b68-776b54fdc41e",
+  "in_force": "2022-10-25",
+  "in_force_basis": "official Resmî Gazete date",
+  "kind": "constitutional-court-individual-application",
+  "omitted_images": 0,
+  "outcome": "Esas (İhlal Olmadığı)",
+  "published": "2022-10-25",
+  "referenced_images": 0,
+  "source": "https://kararlarbilgibankasi.anayasa.gov.tr/kbb/pages/search/Tumu?id=a2JiOjBmNTUyZGUxLWY0OWEtMjA2OC00YjY4LTc3NmI1NGZkYzQxZQ&type=BireyselBasvuru",
+  "source_api": "https://kararlarbilgibankasi.anayasa.gov.tr/api/core/public/search",
+  "source_images": 0,
+  "source_sha256": "79d423411eaaac11508296b5b1025496dad0541c16924fb18586e073c5634bd9",
+  "version_label": "as-enacted"
+}
