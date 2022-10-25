@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Ereğli Demir ve Çelik Fabrikaları T.A.Ş. tarafından gerçekleştirilen başvuruya istinaden Çin Halk Cumhuriyeti menşeli “sıcak haddelenmiş rulo halinde olmayan yassı çelik (kalın levha)” ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
