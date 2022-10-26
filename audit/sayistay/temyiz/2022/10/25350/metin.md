@@ -1,0 +1,5 @@
+Taşeron işçilere ödenen kıdem tazminatının ilgili firmalara rücu edilmemesi
+
+25 sayılı İlamın 5 inci maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 51179 sayılı dosya, 26.10.2022 tarihli ve 52411 tutanak sayılı Temyiz Kurulu Kararı ile … Belediyesi şirketi … Tur. San. ve Tic. Ltd. Şti.nin işçilerine emekli olmaları nedeniyle Belediye tarafından ödenen kıdem tazminatlarının ilgili şirkete rücu edilmemesi sonucu kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanunu’nun 55 inci maddesinin yedinci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; aynı mahiyette olan 51180 sayılı işbu dosyanın da sözü edilen (51179) sayılı dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE, oy birliğiyle,
+
+Karar verildiği 26.10.2022 tarih ve 52413 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
