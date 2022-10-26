@@ -1,0 +1,2 @@
+Yönetim Kurulu
+MADDE 10 – (1) Yönetim Kurulu üyeleri; Müdür ve sosyal bilimler alanında araştırma veya uygulama deneyimi bulunan yetkin kişilerden Rektör tarafından görevlendirilen iki üye olmak üzere toplam üç üyeden oluşur. Yönetim Kurulu yılda en az dört defa salt çoğunluk ile toplanır. (Ek cümle:RG-26/10/2022-31995) Ayrıca Yönetim Kurulu toplantılarına, Orta Doğu Teknik Üniversitesi Rektörü tarafından görevlendirilen sosyal veya doğa bilimleri alanında araştırma ve uygulama deneyimi bulunan yetkin iki kişi oy hakkı olmaksızın katılırlar.
