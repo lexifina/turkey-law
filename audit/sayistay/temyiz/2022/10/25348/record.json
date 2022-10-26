@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52411",
+  "decision_date": "2022-10-26",
+  "source_id": 25348,
+  "chamber": "6",
+  "file_number": "51179",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/25348/",
+  "source_sha256": "f33187189a6b359b20f0276dadc0775a56fc062b0fe12a8002b603de8bb38192",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
