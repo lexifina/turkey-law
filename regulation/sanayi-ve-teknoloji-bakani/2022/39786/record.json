@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39786",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜRÜCÜ DALGINLIK VE DİKKAT UYARI SİSTEMİNE İLİŞKİN MOTORLU ARAÇLARIN TİP ONAYI HAKKINDA YÖNETMELİK (AB/2021/1341)",
+  "number": "39786",
+  "issuer": "Sanayi ve Teknoloji Bakanı",
+  "issuer_slug": "sanayi-ve-teknoloji-bakani",
+  "path": "regulation/sanayi-ve-teknoloji-bakani/2022/39786",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39786&MevzuatTertip=5",
+  "source_sha256": "d7eaa5a99330114639a5bba706dc4ed1037f0c6114491b921fd0a2dbcfd94d71",
+  "source_bytes": 21092,
+  "published": "2022-10-26",
+  "gazette": "31995 (Mükerrer)",
+  "in_force": "2022-10-26",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (26.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 387,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39786-Ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
