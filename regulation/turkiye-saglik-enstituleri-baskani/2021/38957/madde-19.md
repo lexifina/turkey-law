@@ -1,0 +1,3 @@
+Ödülleri kazananların ilanı ve masrafların karşılanması
+MADDE 19 – (1) TÜSEB Aziz Sancar Bilim, TÜSEB Hizmet ve TÜSEB Teşvik Ödülünü kazananlar, her yıl (Değişik ibare:RG-26/10/2022-31995) ekim ayının sonuna kadar açıklanır. Diğer ödül türlerini kazananlar ise ilgili ödül duyurusunda belirtilen esaslar çerçevesinde açıklanır.
+(2) Ödüller, düzenlenecek bir törenle sahiplerine verilir. TÜSEB Aziz Sancar Bilim Ödülü, TÜSEB Hizmet Ödülü ve TÜSEB Teşvik Ödülünü kazanmış olanlar ile ödülü kazananın beyan edeceği en fazla beş yakınının törenin yapıldığı şehre gidiş-dönüş ve konaklama masrafları Başkanlık tarafından 6245 sayılı Kanuna göre karşılanır.

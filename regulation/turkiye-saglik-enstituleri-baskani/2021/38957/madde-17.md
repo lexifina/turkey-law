@@ -1,0 +1,2 @@
+Hakemler ve komite üyelerine huzur hakkı ödemesi
+MADDE 17 – (1) Hakemler ile danışma komiteleri üyelerine 19/11/2014 tarihli ve 6569 sayılı Türkiye Sağlık Enstitüleri Başkanlığına İlişkin Bazı Düzenlemeler ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 14 üncü maddesinin beşinci fıkrası gereğince her yıl Başkan tarafından belirlenecek miktarda huzur hakkı ile birlikte 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununa göre yol masrafı ve konaklama giderleri ile birlikte gündelikleri ödenir.
