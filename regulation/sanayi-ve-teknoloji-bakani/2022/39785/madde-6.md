@@ -1,0 +1,3 @@
+Yürütme
+MADDE 6- (1) Bu Yönetmelik hükümlerini Sanayi ve Teknoloji Bakanı yürütür.
+Eki için tıklayınız
