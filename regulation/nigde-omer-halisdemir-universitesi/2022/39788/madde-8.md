@@ -1,0 +1,5 @@
+Ders muafiyetleri
+MADDE 8- (1) Ders muafiyetleri ile ilgili esaslar şunlardır:
+a) Muafiyet sınavları, Senato tarafından belirlenen dersler için açılır ve Senato tarafından belirlenen esaslar çerçevesinde yürütülür. Öğrenciler bu sınavlara, dersleri ilk kez alacakları yarıyıl başında girebilirler. Öğrenciler bu haktan her ders için bir kez yararlanabilir. Muafiyet sınavlarında başarılı sayılmak için 100 üzerinden en az 70 puan alınması gerekir. Muafiyet sınavlarından alınan notlar EX ile gösterilir ve akademik ortalamaya dahil edilmez.
+b) Üniversiteye kayıt yaptıran öğrenci, ilk kayıt yaptırdığı eğitim-öğretim döneminin ilk iki haftası içinde daha önce öğrenim gördüğü yükseköğretim kurumlarından aldığı ve başarılı olduğu dersler için bir defaya mahsus olmak üzere muaf olma isteğiyle Dekanlığa başvurabilir. Fakülte Yönetim Kurulunca muafiyeti uygun görülen derslerden alınan notlar, 22 nci maddede belirtilen başarı notlarına dönüştürülerek transkriptte gösterilir.
+c) Yatay geçişle gelen öğrenciler için muafiyet başarı değerlendirmesi, geldiği yükseköğretim kurumunun başarı değerlendirmesine göre yapılır.

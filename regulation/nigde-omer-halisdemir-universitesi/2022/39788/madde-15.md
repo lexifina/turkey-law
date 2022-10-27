@@ -1,0 +1,11 @@
+Eğitim-öğretimin düzenlenmesi
+MADDE 15- (1) Fakültede eğitim-öğretim, Dekanlık tarafından görevlendirilen Eğitim-Öğretim ve Kalite Komisyonu ile koordinatörler tarafından düzenlenir. Eğitim-öğretimin yürütülmesi ile ilgili organlar ve görevleri şunlardır:
+a) Eğitim-Öğretim ve Kalite Komisyonu: Başkoordinatör, bölüm başkanları, dönem koordinatörleri, Tıp Eğitimi Anabilim Dalı Başkanı ile öğrenci temsilcisinden oluşur. Komisyona başkoordinatör başkanlık eder. Komisyon, başkanın çağrısı üzerine toplanır ve çalışma ve toplantı düzenini kendisi belirler. Komisyon, kararlarını oy çokluğu ile alır. Eşitlik halinde başkanın oyu yönünde çoğunluk sağlanmış kabul edilir. Komisyon, bir sonraki yılın eğitim-öğretim programını oluşturmak için anabilim dallarından gelen müfredat önerilerini değerlendirir ve oluşturulan müfredat önerisini Fakülte Kuruluna sunar. Komisyon tıp eğitiminin amacı, hedefleri, planlanması, uygulanması ve geliştirilmesi konularında fikir alışverişi yaparak rapor ve öneriler hazırlar; öğretim üyeleri ve öğrencilerden alınan geri bildirimleri değerlendirerek Fakülte Kuruluna görüşlerini sunar. Eğitim-öğretimin Fakülte Kurulunda kararlaştırılan esaslara ve akademik takvime dayalı olarak düzenli ve derslerin birbirleriyle uyumlu bir şekilde yürümesinin sağlanması için Fakülte Kurulunu bilgilendirir. Devamsızlık veya başka nedenlerle eğitimle ilişiği kesilme durumuna gelen öğrenciler hakkında Dekanlığa bilgi verir.
+b) Dönem koordinatörünün görevleri şunlardır:
+1) Akademik takvim taslağını ilgili anabilim dallarının görüşünü alarak Eğitim-Öğretim ve Kalite Komisyonuna sunmak.
+2) Dönem programının düzenli bir şekilde yürütülmesini sağlamak.
+3) Devam çizelgelerini denetlemek ve devamsızlık nedeni ile sınavlara giremeyecek öğrencileri Dekanlığa bildirmek.
+4) Tüm sınavların anabilim dalı başkanları ile işbirliği içinde yürütülmesini sağlamak.
+5) Sınav sonuçlarının değerlendirilmesini ve sınavın istatistiksel değerlendirmesini sağlayarak sonuçlarını açıklamak.
+6) Öğrencilerin sorunlarının çözümünde ve danışman öğretim üyeleri ile ilişkilerinin düzenli yürütülmesinde yardımcı olmak.
+7) Her yarıyılda en az bir kez ilgili dönem öğrencilerinin sorunları ve çözüm yolları için genel görüşme oturumu düzenlemek ve tespitleri bir rapor halinde Eğitim-Öğretim ve Kalite Komisyonuna sunmak.
