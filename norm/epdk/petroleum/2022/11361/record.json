@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11361",
+  "decision_date": "2022-10-27",
+  "title": "Altınbaş Petrol Ve Ticaret A.Ş.’nin; PİL/4567-3/33154 sayılı İletim Lisansı kapsamında faaliyette bulunan Samsun Terminali İletim Tesisine ilişkin iletim tarifesi",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "İletim Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rwv5LqQYOEo=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=rwv5LqQYOEo=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=29BzOWyDYcQ="
+  ],
+  "source_sha256": "024eb6b58acbf23b147861dc485d58c4ed1bcc691d30cdd29eeec41294671aa6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5334,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
