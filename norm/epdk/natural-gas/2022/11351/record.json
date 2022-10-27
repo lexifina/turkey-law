@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11351",
+  "decision_date": "2022-10-27",
+  "title": "Akmercan Gepa Doğal Gaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J3OFh7pmT9g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=J3OFh7pmT9g=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=lQEu7BPErpM="
+  ],
+  "source_sha256": "de1e8efaededefbf55f6bdd3b96482b77fd147790ea428d12d0cd8b916363578",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
