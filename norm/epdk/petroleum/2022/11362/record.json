@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11362",
+  "decision_date": "2022-10-27",
+  "title": "Altınbaş Petrol Ve Ticaret A.Ş.’nin; DEP/767-16/17137 sayılı Depolama Lisansı kapsamında faaliyette bulunan Samsun Terminali Depolama Tesisine ilişkin depolama tarifesi",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Depolama Tarifesi"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aA/2wX3sZs4=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=aA/2wX3sZs4=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=vJOXSdg/qGM="
+  ],
+  "source_sha256": "1f974e75006b69c7cc9ae8606ed9487de4ce3f031fba652145b76408128516ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 5140,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
