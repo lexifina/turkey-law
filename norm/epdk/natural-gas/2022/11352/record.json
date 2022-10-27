@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11352",
+  "decision_date": "2022-10-27",
+  "title": "26/11/2020 tarihli ve 9729 sayılı Kurul Kararının 1 inci maddesinin aşağıdaki şekilde değiştirilmesine",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7zd/7I99w0g=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=7zd/7I99w0g="
+  ],
+  "source_sha256": "c785a390178e3ae744b927cd4ee4c65b95f3e924ae340d5e33abe57d919f3c72",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
