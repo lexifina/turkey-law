@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35737",
+  "decision_date": "2022-10-27",
+  "source_id": 36373,
+  "chamber": "2",
+  "ilam_number": "9",
+  "item_number": 3,
+  "public_body_type": "Diğer",
+  "account_year": 2021,
+  "subject": "İş Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36373/",
+  "source_sha256": "8a49d992f1b8b6e1520859b0fe0e5592c02866e71d29c9a193407e454495d169",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
