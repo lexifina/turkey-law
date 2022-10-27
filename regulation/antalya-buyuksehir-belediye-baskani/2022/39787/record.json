@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39787",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ANTALYA BÜYÜKŞEHİR BELEDİYESİ İMAR YÖNETMELİĞİ",
+  "number": "39787",
+  "issuer": "Antalya Büyükşehir Belediye Başkanı",
+  "issuer_slug": "antalya-buyuksehir-belediye-baskani",
+  "path": "regulation/antalya-buyuksehir-belediye-baskani/2022/39787",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39787&MevzuatTertip=5",
+  "source_sha256": "cd7ff5b5f90784a40391a14f8303bb6d6877342213419e1684d5e3718ae43a04",
+  "source_bytes": 213445,
+  "published": "2022-10-27",
+  "gazette": "31996",
+  "in_force": "2022-10-27",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (27.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 12099,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

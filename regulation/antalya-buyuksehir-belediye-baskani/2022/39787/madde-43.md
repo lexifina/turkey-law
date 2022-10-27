@@ -1,0 +1,7 @@
+Bahçe duvarları
+MADDE 43- (1) Bahçe duvarlarının yüksekliği, tabii veya tesviye edilmiş zeminden itibaren binaların yol tarafındaki cephe hatlarının önünde 0.50 metreyi geçemez. Yol tarafındaki cephe hattının gerisinde ise 1.00 metreyi geçemez, ancak ilgili belediyesinin uygun gördüğü hallerde bu yükseklik 2.00 metreye kadar çıkartılabilir. Ayrıca üzerlerine yükseklikleri 1.00 metreyi aşmayan parmaklık yapılabilir.
+(2) Fazla meyilli ve tehlike arz eden yerlerde uygulanacak şekli takdire idare yetkilidir.
+(3) Devletin güvenlik ve emniyeti ile harekât ve savunma bakımından gizlilik veya önem arz eden bina ve tesisler ile resmi binalar ve benzeri okul, hastane, cezaevi, ibadet yerleri, elçilik, sefarethane, açık hava sineması ve benzerleri gibi özellik arz eden bina ve tesislerin bahçe duvarları ile sanayi bölgelerinde yapılacak bahçe duvarlarında bu yükseklik şartları aranmaz.
+(4) Eğimli yollarda veya arazilerde bahçe duvarı üst kotunun, tretuvar ve/veya tabii zeminden, birinci fıkrada belirtilen yükseklikleri aşması durumunda, duvar üstten kademelendirilir.
+(5) Zemin katlarda, dükkan yapılmasına müsaade edilen yapılarda, yola bakan bahçelerde bahçe duvarı veya yaya trafiğini tehlikeye düşürecek engeller yapılamaz.
+(6) Teşekkül etmiş binaların ön bahçe kotu kaldırım seviyesinden 0.50 metreden düşük ise ilgili belediyesinin imar biriminin uygun göreceği şekilde yol kenarına bahçe duvarı ya da parmaklık yapılır.
