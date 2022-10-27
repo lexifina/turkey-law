@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11344",
+  "decision_date": "2022-10-27",
+  "title": "Aksa Ordu Giresun Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0G6LDgMSYnQ=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0G6LDgMSYnQ=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=FQzTobGwjFA="
+  ],
+  "source_sha256": "a24f849bb0a395c1e3aed76da6740a8b585c8938118b1128e597f2b46dc98cd9",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
