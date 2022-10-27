@@ -1,2 +1,3 @@
 Yönetmelik
-MADDE 5 - Endüstri Bölgeleri Koordinasyon Kurulu ve komisyonların çalışmaları, endüstri bölgelerinin seçimi, yatırım izninin verilmesi, Sanayi ve Ticaret Bakanlığı bütçesine özel ödenek kaydedilen tutarların harcama usul ve esasları ile bu Kanunun uygulanmasına ilişkin diğer hususlar Sanayi ve Ticaret Bakanlığınca çıkarılacak yönetmelikle belirlenir.
+Madde 5- (Değişik:20/10/2022-7419/11 md.)
+Bu Kanunun uygulanmasıyla ilgili usul ve esaslar Bakanlıkça çıkarılacak yönetmeliklerle düzenlenir.
