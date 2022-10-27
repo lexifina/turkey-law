@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11342",
+  "decision_date": "2022-10-27",
+  "title": "Aksa Gemlik Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3V2Yxqs2SwI=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=3V2Yxqs2SwI=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=SkLvslzb+nY="
+  ],
+  "source_sha256": "07420aed25ca1c6a2fb6ccd380419347ec05801e44ced4d0378e3e95cfa241a4",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
