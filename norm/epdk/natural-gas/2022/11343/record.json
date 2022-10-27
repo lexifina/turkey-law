@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11343",
+  "decision_date": "2022-10-27",
+  "title": "Aksa Karadeniz Doğal Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jBDkTq2aqAk=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=jBDkTq2aqAk=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=03UaSMK2844="
+  ],
+  "source_sha256": "c81bec560aa1f7cc35ef2cdec9f1daeb5475b5acf316d9bcc5a0e637df0af954",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
