@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11354",
+  "decision_date": "2022-10-27",
+  "title": "Akmercan Delta Doğalgaz Dağıtım Sanayi ve Ticaret Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-10-30",
+  "resmi_gazete_number": "31998",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MogBqkhB1m0=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=MogBqkhB1m0=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=2M5kAybhe+8="
+  ],
+  "source_sha256": "3c82c6a0569a4e3baff6ac14032446d5fc2b134074602afb8bd29aa3a14c5177",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-10-27",
+  "law_text_complete": true
+}
