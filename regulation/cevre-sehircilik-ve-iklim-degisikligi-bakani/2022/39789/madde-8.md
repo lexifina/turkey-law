@@ -1,0 +1,9 @@
+Test veya muayene sonrasında yapılacak işlemler
+MADDE 8- (1) Yapılan inceleme ve değerlendirme sonucunda ürünün uygun olduğunun tespit edilmesi durumunda;
+a) Test veya muayene giderleri ve bunlara ilişkin diğer giderler Bakanlıkça karşılanır.
+b) Numunelerin özelliğini kaybetmemesi halinde, yapılan test veya muayene sonucu il müdürlüğü tarafından iktisadi işletmeciye yazılı olarak bildirilir. Bildirim yazısında numunelerin geri alınması gerektiği belirtilir. Tebliğ tarihinden itibaren bir ay içinde geri alınmayan numuneler il müdürlüklerine intikal ettirilir. Bu durumda ilgili iktisadi işletmeci numune bedelini talep edemez.
+c) Numunelerin özelliğini kaybetmesi halinde, il müdürlüğünce tutanak düzenlenerek numune 9/8/1983 tarihli ve 2872 sayılı Çevre Kanunu ve ilgili mevzuatı doğrultusunda imha edilir veya ettirilir. Numune bedeli, Bakanlık tarafından iktisadi işletmeciye ödenir.
+(2) Yapılan inceleme ve değerlendirme sonucunda ürünün uygunsuz olduğunun tespit edilmesi durumunda;
+a) Test veya muayene giderleri ve bunlara ilişkin diğer giderler iktisadi işletmeci tarafından karşılanır. Bakanlıkça yapılan masraflar, ilgili iktisadi işletmeciye genel hükümlere göre rücu edilir.
+b) Test veya muayenesi yaptırılan numune, niteliğine göre uygun koşullarda ve uygun bir süreyle test veya muayene kuruluşunda muhafaza edilir. Bu numunenin geri alınması gerektiği iktisadi işletmeciye il müdürlüğü tarafından yazılı olarak bildirilir. Tebliğ tarihinden itibaren bir ay içinde iktisadi işletmeci tarafından geri alınmayan numune, il müdürlüğü tarafından tutanak düzenlenerek Çevre Kanunu ve ilgili mevzuatı doğrultusunda imha edilir veya ettirilir. İktisadi işletmecinin geri aldığı uygunsuz numune, uygun hale getirilmeden piyasaya arz edilemez ve piyasada bulundurulamaz.
+c) Uygulanan idari yaptırım kararının kesinleşmesinden sonra varsa şahit numunelere (b) bendindeki usule göre işlem yapılır.

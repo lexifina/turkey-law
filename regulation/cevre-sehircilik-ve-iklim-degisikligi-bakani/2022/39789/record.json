@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39789",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRE, ŞEHİRCİLİK VE İKLİM DEĞİŞİKLİĞİ BAKANLIĞI YAPI MALZEMELERİ PİYASA GÖZETİMİ VE DENETİMİ YÖNETMELİĞİ",
+  "number": "39789",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39789",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39789&MevzuatTertip=5",
+  "source_sha256": "c03765609aac5e647e5a60680d3466f22878d18a0ec3b36d10e72917eef712c3",
+  "source_bytes": 172418,
+  "published": "2022-10-28",
+  "gazette": "31997",
+  "in_force": "2022-10-28",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (28.10.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 5623,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

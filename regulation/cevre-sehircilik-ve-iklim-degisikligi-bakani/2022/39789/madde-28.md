@@ -1,0 +1,2 @@
+Bilgilerin gizliliği
+MADDE 28- (1) Piyasa gözetimi ve denetimi faaliyeti sırasında Genel Müdürlük veya il müdürlüklerince yapılan yazışmalar, ihbar ve şikayetler ile denetimlerde temin edilen ve ticari sır niteliğindeki veya fikri ve sınai mülkiyet hakkına ilişkin bilgiler gizli tutulur. Ancak, mevzuatın ve insan sağlığı ve güvenliğinin gerektirdiği hallerde yapılan duyurular bu kapsamda sayılmaz.
