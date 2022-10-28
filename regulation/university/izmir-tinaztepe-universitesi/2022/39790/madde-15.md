@@ -1,0 +1,2 @@
+İdari Direktör
+MADDE 15- (1) İdari Direktör; sağlık sektöründe deneyimli kişiler arasından, Dekanın ve Müdürün (Başhekim) önerisi üzerine Rektör tarafından iki yıllık bir süre için görevlendirilir. Görev süresi biten İdari Direktör yeniden görevlendirilebilir. İdari Direktör, gerektiğinde Dekanın ve Müdürün (Başhekim) teklifi üzerine, Rektörün onayı ile iki yıllık süre dolmadan da görevinden alınabilir. İdari Direktör görevi başında olmadığı zaman Merkez bünyesinde kendisinin belirleyeceği bir idari personel vekâlet eder.
