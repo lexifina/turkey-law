@@ -1,0 +1,3 @@
+Yetki sınavı notları
+MADDE 24 – (1) Yetki sınavı notu, konularına göre ayrı ayrı yapılan yazılı sınavlarda alınacak olan notların ortalamasıdır. Yetki sınavı konularında başarılı sayılabilmek için her bir sınavdan 100 tam puan üzerinden en az 50 puan alınması, yapılan yazılı sınav notlarının ortalamasının ise en az 65 puan olması zorunludur.
+(2) Sınav komisyonları cevap kağıtlarını değerlendirerek sınav sonuçlarını en geç kırk beş gün içerisinde bir tutanakla Destek Hizmetleri Daire Başkanlığına teslim eder. Başarılı olanların listesi, sonuçların teslimi tarihinden itibaren en geç iki iş günü içerisinde ilgililere bildirilir.

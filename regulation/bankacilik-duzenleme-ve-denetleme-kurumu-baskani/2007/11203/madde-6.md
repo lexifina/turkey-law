@@ -1,0 +1,3 @@
+Duyuru
+MADDE 6 – (Değişik:RG-30/10/2022-31998)
+(1) Giriş sınavına katılma şartları, açıktan atama izni alınmış kadro sayısı, uzmanlık alanları ve/veya kontenjanları, KPSS puan türleri ve taban puanlar, puan sıralamasına göre kaç adayın çağrılacağı, sınava son başvuru tarihi, başvuru yeri, başvuruda istenecek belgeler, sınavın yeri, zamanı, içeriği ve değerlendirme yöntemi ile sınava ilişkin diğer hususlar Başkan Oluru alınmak suretiyle, sınav tarihinden en az bir ay önce Kurumun resmî internet sitesinde, Cumhurbaşkanınca belirlenen kurumun internet sitesinde ve Resmî Gazete’de yayımlanmak suretiyle duyurulur.

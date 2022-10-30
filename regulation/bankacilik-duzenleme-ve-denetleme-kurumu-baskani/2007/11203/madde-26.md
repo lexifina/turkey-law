@@ -1,0 +1,10 @@
+ALTINCI BÖLÜM
+Tez Hazırlama
+Tez konusunun belirlenmesi ve teslimi
+MADDE 26 – (1) (Değişik:RG-14/10/2012-28441) Murakıp yardımcıları ve uzman yardımcıları, (Değişik ibare:RG-14/9/2013-28765) Destek Hizmetleri Daire Başkanlığı tarafından yapılacak duyuru tarihinden itibaren en geç iki ay içerisinde, birim amirine sunmuş olduğu konular arasından amiri tarafından uygun görülen tez konusunu, bağlı bulundukları daire başkanlıkları aracılığıyla Destek Hizmetleri Daire Başkanlığına bildirir. Tez konuları, Destek Hizmetleri Daire Başkanlığınca beş iş günü içinde Başkanın onayına sunulur.
+(2) (Değişik:RG-14/10/2012-28441) Başkan, tez konularını kendisine intikalini takip eden yedi gün içinde onaylar veya geri gönderir. Tez konularının geri gönderilmesi halinde birim amirleri tez konularını beş iş günü içinde Başkanın önerileri doğrultusunda yeniden belirleyerek onaya sunulmasını sağlar.
+(3) (Değişik:RG-14/10/2012-28441) Murakıp yardımcıları ve uzman yardımcılarına, belirlenen tez konusunun kendilerine tebliğ tarihinden itibaren tezlerin hazırlanması için sekiz ay süre verilir.
+(4) Tezin hazırlanmasında, konunun başka bir kurum ve/veya kuruluşta uzmanlık, yüksek lisans, doktora tezi veya başka bir ad altında içerik ve sonuçları açısından aynı şekilde incelenip savunulmamış olması esastır.
+(5) Tezin, murakıp yardımcısı ve uzman yardımcısının kendi görüş ve değerlendirmelerini içermesi ve bilimsel araştırma esaslarına uygun olarak hazırlanması gerekir. Tezler, içindekiler dizini, tablolar, ekler ve kaynakça kısımları hariç en fazla sekiz bin kelimeden oluşacak şekilde hazırlanır.
+(6) Murakıp yardımcıları ve uzman yardımcıları hazırladıkları tezlerini süresi içerisinde, bağlı bulundukları daire başkanlıkları aracılığıyla Destek Hizmetleri Daire Başkanlığına teslim etmek zorundadır.
+(7) (Değişik:RG-14/10/2012-28441) Süresi içinde tezlerini sunmayan murakıp yardımcıları ve uzman yardımcılarına, teslim edememe sebebi de dikkate alınmak suretiyle tezlerini sunmaları için altı ayı aşmamak üzere Başkan tarafından ek süre verilir.

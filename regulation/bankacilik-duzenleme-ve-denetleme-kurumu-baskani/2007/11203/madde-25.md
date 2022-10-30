@@ -1,0 +1,2 @@
+Yetki sınavında başarılı olanlar
+MADDE 25 – (1) Yetki sınavında başarılı olan murakıp yardımcıları ve uzman yardımcılarına, yeterlik sınavına kadar geçecek olan dönem için Başkan onayı ile, usulüne uygun olarak yemin etmek kaydıyla, yardımcılıkları döneminde tek başına yerinde denetim ve gözetim yapabilme yetkisi verilir. Yetki sınavında başarılı olamayanlar, yardımcılıkları süresince tek başına yerinde denetim ve gözetim yapamazlar.

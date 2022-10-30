@@ -1,0 +1,5 @@
+Yazılı sınavın uygulanması
+MADDE 13 – (1) Soru kağıtları mühürlü zarflar içinde bir tutanakla, sınav komisyonu başkanına veya komisyon başkanının uygun göreceği komisyon üyesine tevdi edilir. Yazılı sınavda, Kurum mührüyle mühürlenmiş olarak isim yeri kapatılabilen özel cevap kağıtları kullanılır. Sınavlar, Destek Hizmetleri Daire Başkanlığınca görevlendirilen personel gözetiminde yapılır.
+(2) (Değişik:RG-14/9/2013-28765) Sınav sürecinde, adayların kimliklerinin kontrol edildiği, sınavın başlama ve bitiş saati ile sınav sonunda toplanan cevap kağıtlarının sayısını içeren bir tutanak düzenlenir. Sınav sonunda, adaylardan toplanan cevap kağıtları sınav komisyonu başkanına teslim edilir.
+(3) (Değişik:RG-14/9/2013-28765) Sınav komisyonu cevap kağıtlarını değerlendirir ve sınav sonuçlarını en geç iki ay içerisinde bir tutanakla Destek Hizmetleri Daire Başkanlığına teslim eder. Başarılı olanların listesi, sonuçların teslimi tarihinden itibaren en geç iki iş günü içerisinde Kurumun resmi internet sitesinde ilan edilir. Ayrıca yazılı sınav sonucu ve sözlü sınav tarihi, başarılı olan adaylara tebliğ edilir.
+(4) (Mülga:RG-14/9/2013-28765)

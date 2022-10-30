@@ -1,0 +1,93 @@
+{
+  "source_id": "7.5.11203",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "BANKACILIK DÜZENLEME VE DENETLEME KURUMU MESLEK PERSONELİNİN YARIŞMA, YETKİ VE YETERLİK SINAVLARI İLE ÇALIŞMA USUL VE ESASLARINA DAİR YÖNETMELİK",
+  "number": "11203",
+  "issuer": "Bankacılık Düzenleme ve Denetleme Kurumu Başkanı",
+  "issuer_slug": "bankacilik-duzenleme-ve-denetleme-kurumu-baskani",
+  "path": "regulation/bankacilik-duzenleme-ve-denetleme-kurumu-baskani/2007/11203",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=11203&MevzuatTertip=5",
+  "source_sha256": "80c92c642941caadd86689ebf969f77d4d2bd709885509db0c74f3ab10ff50bd",
+  "source_bytes": 124858,
+  "published": "2007-03-23",
+  "gazette": "26471",
+  "in_force": "2022-10-30",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-30/10/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-10-30",
+      "RG-30/10/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-10-30",
+      "30/10/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2013-09-14",
+      "RG-14/9/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-09-14",
+      "14/9/2013",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-10-14",
+      "RG-14/10/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-10-14",
+      "14/10/2012",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-10-19",
+      "RG-19/10/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-10-19",
+      "19/10/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2011-06-18",
+      "RG-18/6/2011",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2011-06-18",
+      "18/6/2011",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2010-11-14",
+      "RG-14/11/2010",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2010-11-14",
+      "14/11/2010",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6304,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

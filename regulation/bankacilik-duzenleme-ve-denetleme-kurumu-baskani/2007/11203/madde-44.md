@@ -1,0 +1,2 @@
+Denetim ve gözetim ile görevli meslek personeli
+MADDE 44 – (1) Denetim ve gözetim ile görevli meslek personeli, bu Yönetmeliğin 38, 39, 40, 41, 42 ve 43 üncü maddelerinde belirtilen hususlara ek olarak ayrıca, 22/7/2006 tarihli ve 26236 sayılı Resmî Gazete’de yayımlanan Bankacılık Düzenleme ve Denetleme Kurumu Tarafından Yapılacak Denetime İlişkin Usul ve Esaslar Hakkında Yönetmelik ile Kurumca hazırlanan denetim rehberlerinde düzenlenen usul ve esaslara uymak zorundadır.

@@ -1,0 +1,5 @@
+Çalışma grupları oluşturulması
+MADDE 43 – (1) Yapılacak işin niteliği, hacmi ve süresinin birden fazla meslek personelinin birlikte çalışmasını gerektirdiği hallerde, daire başkanlıkları için ilgili Başkan yardımcısının ve doğrudan Başkana bağlı olan birimler için ilgili daire başkanının teklifi ve Başkanın onayıyla süreli çalışma grupları oluşturulabilir.
+(2) Çalışma gruplarına gerekli görüldüğü hallerde, daire başkanlıkları için ilgili Başkan yardımcısı ve doğrudan Başkana bağlı olan birimler için ilgili daire başkanı tarafından grup başkanı görevlendirilir.
+(3) Grup başkanı, çalışma grubuna katılanların görüşünü alarak, ilgili çalışmanın uygun bir şekilde devamını ve iş akımında en olumlu sonuçların alınmasını sağlayacak yöntemlerin uygulanmasına çalışır. Ayrıca, grup başkanı çalışmaların gidişatı hakkında ilgili amire düzenli aralıklarla bilgi vermekle yükümlüdür.
+(4) Çalışma grubunun yaptığı çalışma sonucu, ortak bir raporda toplanır. Hazırlanacak ortak rapor çalışmaya katılanlar tarafından imzalanır. Çalışmaya katılanlardan karşı görüşü bulunanlar, raporun ekine, görüşlerinin dayanağını belirtmek suretiyle kayıt koymak zorundadırlar.

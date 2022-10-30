@@ -1,0 +1,6 @@
+SEKİZİNCİ BÖLÜM
+Meslek Personelinin Çalışma Usul ve Esasları
+Çalışmada uygulanacak temel usul ve esaslar
+MADDE 38 – (1) Meslek personeli görevlerini, ilgili mevzuat çerçevesinde, bilimsel veri ve yöntemleri kullanarak, Kurum politika ve stratejileri doğrultusunda yerine getirir.
+(2) Meslek personelinin; tasarruf sahiplerinin hak ve menfaatlerini korumak, mali piyasalarda güven ve istikrarı ve ekonomik kalkınmanın gereklerini de dikkate alarak kredi sisteminin etkin bir şekilde çalışmasını sağlamak üzere, Kanun ve ilgili diğer mevzuatın düzenlemeler de yapmak suretiyle uygulanmasını sağlamaya, uygulamayı izlemeye ve denetlemeye, tasarrufların güvence altına alınmasını temin etmeye, bankaların düzenli ve emin bir şekilde çalışmasını tehlikeye sokabilecek her türlü işlem ve uygulamaları önlemeye yönelik olarak çalışmaları esastır.
+(3) Meslek personelinin görevlerini yerine getirirken, ilgili kişi ve kuruluşların çalışanlarına karşı görevin gerektirdiği vakar ve ciddiyet içinde davranmaları esastır. Ayrıca, gözetim, denetim, inceleme ve değerlendirmelerde saptanan hususlar hakkında ilgililerle görüşmelerde veya bilgi isteme taleplerinde, Kurum ciddiyetine yakışır bir şekilde davranılması, uyarıcı, yol gösterici, öğretici ve yapıcı olunması gerekir.

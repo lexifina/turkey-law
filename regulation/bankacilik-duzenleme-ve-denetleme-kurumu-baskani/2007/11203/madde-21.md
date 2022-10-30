@@ -1,0 +1,3 @@
+Yetki sınavı
+MADDE 21 – (1) Yetki sınavı, Başkan tarafından belirlenen yer ve günde yazılı olarak yapılır. Yetki sınavına alınacak murakıp yardımcıları ve uzman yardımcılarına yetki sınavının yapılacağı yer ve gün en az iki ay önceden yazılı olarak bildirilir.
+(2) Mazeretleri sebebiyle yetki sınavına giremeyenlerce ibraz edilen belgeler, yetki sınavı komisyonu tarafından incelenerek sonuca bağlanır. Haklı ve geçerli mazeretleri yetki sınavı komisyonu tarafından kabul edilenler, mazeretlerinin kalktığı tarihten itibaren, yetki sınavına giriş için gerekli şartları taşımayanlar ise gerekli şartları haiz oldukları tarihten itibaren üç ay içerisinde sınava alınırlar.

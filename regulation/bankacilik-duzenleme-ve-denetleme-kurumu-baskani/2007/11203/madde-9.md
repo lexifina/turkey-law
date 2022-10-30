@@ -1,0 +1,3 @@
+Başvuru şekli ve yeri
+MADDE 9 – (1) (Değişik:RG-30/10/2022-31998) Giriş sınavına başvuru; şahsen, posta yoluyla veya giriş sınavı ilanında belirtilen resmi internet sitesi üzerinden yapılır. Postayla yapılacak başvuruların taahhütlü, iadeli taahhütlü, acele posta servisi gibi yollarla yapılması zorunludur.
+(2) İstenilen belgelerin en geç, giriş sınavı ilanında belirtilen son başvuru tarihinin mesai saati bitimine kadar (Değişik ibare:RG-30/10/2022-31998) Kuruma teslim edilmesi gerekir. Postadaki gecikmeler ve ilanda belirtilen süre içerisinde yapılmayan başvurular ile eksik belge ve bilgiyle yapılan başvurular dikkate alınmaz.
