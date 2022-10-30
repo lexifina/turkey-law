@@ -1,0 +1,3 @@
+Yatay geçiş
+MADDE 11 – (1) Konservatuvarın öğretim programlarına, yurt içindeki veya yurt dışındaki diğer üniversitelerin eşdeğer öğretim programlarını izleyen öğrencilerin yapacağı yatay geçişler; Yükseköğretim Kurulunca çıkarılmış olan, 21/10/1982 tarihli ve 17845 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumları Arasında Önlisans ve Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik hükümlerine göre yapılır. Hangi yükseköğretim kurumlarından yatay geçiş yapılabileceği Konservatuvar Kurulunun önerisi üzerine Senatoca belirlenir.
+(2) Yatay geçişlere ait kontenjanlar ve intibak koşulları, bölümlerin görüşlerine dayanılarak Konservatuvar Yönetim Kurulunca belirlenir.

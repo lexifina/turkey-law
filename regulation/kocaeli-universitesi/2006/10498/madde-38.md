@@ -1,0 +1,6 @@
+Ders muafiyeti
+MADDE 38 – (1) Öğrenciler;
+a) Yatay geçişlerde, intibak ettirildikleri yıldan önceki yıllardaki intibak için yükümlü tutuldukları derslerin dışında, daha önce öğrenim gördüğü yükseköğretim kurumunda başarılı oldukları derslerden,
+b) Konservatuvar içi geçişte, daha önce öğrenim gördüğü programda başarılı oldukları derslerden,
+c) Yetenek sınavı ile girişlerde, daha önce öğrenim gördüğü yükseköğretim kurumunda başarılı oldukları derslere eş ya da benzeri içerikli derslerden muaf sayılmak üzere başvurabilirler, dersin ilgili öğretim elemanının görüşü alındıktan sonra Konservatuvar Yönetim Kurulunun kararı ile bu derslerden muaf sayılabilirler.
+(2) Konservatuvarın herhangi bir programında daha önce öğrenim görüp de yetenek sınavı ile Konservatuvara yeniden giren öğrencilerin muaf sayıldıkları dersler ile Konservatuvar içi geçiş yapan öğrencinin muaf sayıldığı derslerin kredileri ve başarı notu, yarıyıl sonu başarı derecesinde ve mezuniyet derecesinde dikkate alınır. Diğer muafiyetlerde öğrencinin muaf sayıldığı dersler kredi olarak mezuniyet için gerekli toplam kredi hesabında dikkate alınır, yarıyıl sonu başarı derecesinde ve mezuniyet derecesinde hesaba katılmaz, transkriptte (M) harfi ile gösterilir.

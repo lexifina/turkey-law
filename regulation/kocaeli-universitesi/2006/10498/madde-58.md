@@ -1,0 +1,3 @@
+Diplomaların düzenlenmesi
+MADDE 58 – (1) Konservatuvardaki öğrenimlerini, bu Yönetmelik ve ilgili öğretim programları uyarınca başarı ile tamamlayan öğrencilere, Konservatuvar Müdürlüğünce mezuniyet diploması verilir. Diplomalarda; mezun olunan Üniversite, Konservatuvar ile izlenen öğretim programlarının adları belirtilir. Diplomalar, Müdür ile Rektör tarafından imzalanarak onaylanır.
+(2) Lisans öğrenimini tamamlamayan ya da tamamlayamayan öğrencilere, ön lisans düzeyinde diploma verilmesi; Yükseköğretim Kurulunca çıkarılan, 18/3/1989 tarihli ve 20112 sayılı Resmî Gazete’de yayımlanan, Lisans Öğrenimlerini Tamamlamayan veya Tamamlayamayanların Ön Lisans Diploması Almaları veya Meslek Yüksekokullarına İntibakları Hakkında Yönetmelik hükümlerine göre yapılır.
