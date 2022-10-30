@@ -1,0 +1,2 @@
+Hâkimlik veya mahkemelerce sahiplerine iadesine karar verilen silahların durumu
+MADDE 6- (1) Zoralım yoluyla veya güvenlik kuvvetlerince herhangi bir şekilde ele geçirilen silahlardan, hâkimlik veya mahkemelerce sahiplerine iadesine karar verilen silahların ilgili Cumhuriyet savcılıklarına en yakın Bakım Fabrika Müdürlüğüne/Lojistik Yönetim Merkezine kadar sevki Kara Kuvvetleri Komutanlığı sorumluluğunda sağlanır. Söz konusu silahlar ilgili Cumhuriyet savcılıklarınca ilgili Bakım Fabrika Müdürlüğünden/Lojistik Yönetim Merkezinden teslim alınır.

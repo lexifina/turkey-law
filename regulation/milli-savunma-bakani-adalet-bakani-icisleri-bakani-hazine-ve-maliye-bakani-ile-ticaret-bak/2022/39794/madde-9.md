@@ -1,0 +1,6 @@
+Bakanlığın yetkisi
+MADDE 9- (1) Mahkemelerce zoralımına karar verilen veya güvenlik kuvvetlerince herhangi bir şekilde ele geçirilen ateşli silahlarla mermiler ve bıçaklar bir tutanak karşılığı Bakanlığın emrine verilir.
+(2) Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı, Emniyet Genel Müdürlüğü, Millî İstihbarat Teşkilatı Başkanlığı ve Ticaret Bakanlığı Gümrükler Muhafaza Genel Müdürlüğünün ihtiyaçları bu silah ve mermilerden öncelikle karşılanır.
+(3) Birinci fıkra gereğince Bakanlığın emrine verilen ateşli silahlardan, Türk Silahlı Kuvvetleri ile ikinci fıkrada belirtilen kurumların ihtiyaçları karşılandıktan sonra artan miktarından bir kısmını, özel kanunlarına göre silah taşıma yetkisini haiz olan veya Cumhurbaşkanı kararı ile silah taşımalarına ve zati silah edinmelerine izin verilen kişilere bir adet olmak üzere bedel takdiri suretiyle MKE A.Ş. aracılığı ile satmaya Bakanlık yetkilidir.
+(4) Emniyet Genel Müdürlüğünce zati silah edinmelerine izin verilen polisler, bu silahlardan, tabanca niteliğinde olanlarını, takdir olunan bedellerinin yarısı bir bedelle ve bir adet olarak satın almada, öncelik hakkına sahiptirler.
+(5) Zoralım silah işlemlerine yönelik usul ve esaslar Bakanlıkça düzenlenecek yönerge ile belirlenir.

@@ -1,0 +1,2 @@
+Zayi olan veya satışı yapılan silahın iadesi durumlarında yapılacak işlem
+MADDE 12- (1) Hâkimlik veya mahkemelerce müsaderesine karar verilen 6136 sayılı Kanun kapsamındaki kurumlara kadro silahı olarak tahsis edilen, Ana Bakım/Bakım Fabrika Müdürlükleri tarafından herhangi bir şekilde kırılan veya hak sahiplerine satışı yapılan ateşli silahı, ilk sahibinin dava açarak mahkeme kararı ile silahını geri istemesi halinde ilgili şahsa (ilk sahibine) aynı çap ve markada başka bir silah verilir. Aynı çap ve marka silah mevcut değilse muadil silah tahsis edilir.
