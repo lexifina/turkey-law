@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 2- (1) Bu Yönetmeliğin yürürlüğe girdiği tarihte yurtdışı daimî görevde bulunan personel, görev süresi bakımından atandığı tarihte yürürlükte olan mevzuat hükümlerine tabi olmaya devam eder.

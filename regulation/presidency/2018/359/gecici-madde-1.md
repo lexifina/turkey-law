@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1- (1) Kurumlar yurtdışında daimî görevlendirmeye ilişkin yönetmelikleri ile yönergelerini bu Yönetmeliğin yürürlüğe girdiği tarihten itibaren bir ay içinde yürürlükten kaldırır. Bu süre zarfında bu Yönetmelik hükümleri kurumlarca doğrudan uygulanır.

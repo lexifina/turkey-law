@@ -1,0 +1,1 @@
+[1] 30/10/2022 tarihli ve 31998 sayılı Resmî Gazete’de yayımlanan 6319 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan “üç yıl” ibaresi “altı yıl” şeklinde ve “Üç yıllık” ibaresi “Altı yıllık” şeklinde değiştirilmiştir.

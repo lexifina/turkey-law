@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-359",
+  "number": "359",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "YURTDIŞINDA DAİMÎ GÖREVLERE ATANACAK PERSONEL HAKKINDA YÖNETMELİK",
+  "published": "2018-11-23",
+  "enacted": "2018-11-22",
+  "gazette_number": "30604",
+  "in_force": "2022-10-30",
+  "in_force_basis": "Source commencement table, \"Yürürlüğe Giriş Tarihi\": 30/10/2022; source row: 29/10/2022 | 6319 | Geçici Madde 3 | 30/10/2022 | ",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=359&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "5762ec1d08df73148ec023d13aa970b0dceb453c3f0c0d0d9c5bc7a7ea083825",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
