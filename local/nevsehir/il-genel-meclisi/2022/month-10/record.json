@@ -1,0 +1,29 @@
+{
+  "number": "month-10",
+  "year": 2022,
+  "month": 10,
+  "title": "2022 EKİM AYI OLAĞANÜSTÜ TOPLANTISI MECLİS KARARLARI",
+  "decision_date": null,
+  "index_date": "2022-10-31",
+  "date_precision": "month",
+  "period": "Ekim 2022",
+  "source": "https://www.nevsehirozelidare.gov.tr/2022-ekim-ayi-2-olaganustu-toplantisi-meclis-kararlari",
+  "official_page": "https://www.nevsehirozelidare.gov.tr/2022-ekim-ayi-2-olaganustu-toplantisi-meclis-kararlari",
+  "official_document": "https://www.nevsehirozelidare.gov.tr/2022-ekim-ayi-2-olaganustu-toplantisi-meclis-kararlari",
+  "source_sha256": "a238db3360286ea092048bff80e7c22417b3591bcf5f52a8c6e067a6e331c1e4",
+  "issuer": "Nevşehir İl Genel Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the decisions are in the linked official document(s) or page, not transcribed",
+  "in_force": "2022-10-31",
+  "in_force_basis": "The official listing gives only the month of this official file (Ekim 2022); date set to the last day of that month (turkey-law date convention for month-only sources); exact adoption dates are in the linked official document; legal commencement not asserted",
+  "missing": [
+    "decision numbers, dates and subjects",
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "2022 EKİM AYI OLAĞANÜSTÜ TOPLANTISI MECLİS KARARLARI",
+  "record_scope": "one official file of council decisions (meeting or month)",
+  "document_note": "the decisions are published as text on the official page itself (no separate file); not transcribed here"
+}
