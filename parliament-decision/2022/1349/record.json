@@ -1,0 +1,46 @@
+{
+  "record_type": "parliament-decision-metadata",
+  "document_type": "karar",
+  "number": "1349",
+  "year": 2022,
+  "title": "Radyo ve Televizyon Üst Kurulu Üyeliği İçin Yapılan Seçime Dair",
+  "adopted": "2022-11-01",
+  "date_basis": "last-sitting",
+  "committee_reports": [],
+  "index_entries": [
+    {
+      "assembly": "TBMM",
+      "term": 27,
+      "kayit_no": 926640,
+      "title": "Radyo ve Televizyon Üst Kurulu Üyeliği İçin Yapılan Seçime Dair",
+      "adopted_as_published": null,
+      "official_text_pdf": null,
+      "committee_reports": [],
+      "sittings": [
+        {
+          "cilt": 111,
+          "sitting": 14,
+          "sitting_date": "2022-11-01",
+          "minutes_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111014.pdf",
+          "old_script_pdf": null,
+          "volume_index_pdf": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d27/c111/tbmm27111fih.pdf",
+          "pages": [
+            "522:526"
+          ]
+        }
+      ],
+      "query": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+      "page": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_sonuc?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_bastarih=&v_bittarih=&v_kayit_sayisi=184&v_gelecek_sayfa=101&v_kullanici_id=27483291",
+      "page_sha256": "1427764975b2382e17339ae1de3ff0e03b7383606d9e00427dad2ca05040fb5e"
+    }
+  ],
+  "source": "https://www5.tbmm.gov.tr/develop/owa/td_v2.tutanak_hazirla?v_meclis=1&v_donem=27&v_yasama_yili=&v_cilt=&v_birlesim=&v_sayfa=&v_anabaslik=KARARLAR&v_altbaslik=&v_mv=&v_sb=&v_ozet=&v_kelime=&v_bastarih=&v_bittarih=",
+  "source_sha256": "1427764975b2382e17339ae1de3ff0e03b7383606d9e00427dad2ca05040fb5e",
+  "issuer": "TBMM",
+  "in_force": "2022-11-01",
+  "in_force_basis": "The index gives no Kabul tarihi: date of the last plenary sitting it cites for this karar (2022-11-01); commencement not asserted",
+  "history_type": "metadata",
+  "text_status": "metadata-only: official index fields; the text is in the linked official PDF (Kanunlar Dergisi), not transcribed",
+  "law_text_complete": false,
+  "privacy_withheld": false
+}
