@@ -1,0 +1,25 @@
+{
+  "number": "meeting-11-01",
+  "number_as_published": "meeting-11-01",
+  "year": 2022,
+  "title": "01.11.2022 MECLİS KARARI",
+  "decision_date": "2022-11-01",
+  "source": "https://www.tomarza.bel.tr/meclis-kararlari/4",
+  "official_document": "https://www.tomarza.bel.tr/karar/01-11-2022-meclis-karari",
+  "source_sha256": "514b6f4e5faeac9ae3dd9b6a16b4ba6855bfe359e3ecfe9b9ac9c0c2772ba4a5",
+  "issuer": "Tomarza Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-11-01",
+  "in_force_basis": "Decision date as printed in the official council listing: 01.11.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "01.11.2022 MECLİS KARARI",
+  "record_scope": "one official file of council decisions (meeting)",
+  "list_date": "01.11.2022",
+  "document_note": "the decisions are published on the linked official page; not transcribed here"
+}
