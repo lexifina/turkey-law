@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "icgenelge",
+  "number": null,
+  "source_id": 356,
+  "date": "2022-11-02",
+  "title": "GELİR VERGİSİ KANUNU İÇ GENELGESİ SIRA NO : 2022/1",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/icgenelge/356",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/icGenelge/list",
+  "source_listing": "evidence/list/2026-11-16/icGenelge-p000.json",
+  "source_listing_sha256": "f67e0a2102f72bb235e1a5040899d9489b05b3d457ed0145b7ee616be10187e7",
+  "source_sha256": "da307a46efd2d33ed375fd5dc4446de3551a650c31ad9a89695186c7b91a7110",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
