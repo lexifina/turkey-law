@@ -1,0 +1,7 @@
+1- 401 sayılı Ek İlamın 3. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatı ile iştiraki bulunan …’nın başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52416 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden Rektör Vekili Prof. Dr. …’in] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52420 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+2- 401 sayılı Ek İlamın 8. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Gerçekleştirme Görevlisi-Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan … ve …, Yaklaşık Maliyet Komisyonu Üyesi-Piyasa Fiyat Araştırma Görevlisi sıfatı ile iştiraki bulunan …, … ve … ve Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan …’in başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52415 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Harcama Yetkilisi sıfatıyla temyiz talep eden Rektör Vekili Prof. Dr. …’in] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52420 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
