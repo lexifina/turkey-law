@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52434",
+  "decision_date": "2022-11-02",
+  "source_id": 26375,
+  "chamber": "8",
+  "file_number": "49966",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2019",
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26375/",
+  "source_sha256": "e5f98eaf3fbabab05ed28b2ae5e5d4fe77b21f88cbf65fb3b3208a2c2a9e560c",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
