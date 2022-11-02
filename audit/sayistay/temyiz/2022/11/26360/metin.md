@@ -1,0 +1,3 @@
+401 sayılı Ek İlamın 2. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatı ile iştiraki bulunan …’nın başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52416 tutanak sayılı Temyiz Kurulu Kararı (1. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Hastane Başmüdürü …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52419 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
