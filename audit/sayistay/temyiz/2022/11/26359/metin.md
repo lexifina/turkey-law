@@ -1,0 +1,19 @@
+1- 401 sayılı Ek İlamın 2. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatı ile iştiraki bulunan …’nın başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52416 tutanak sayılı Temyiz Kurulu Kararı (1. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Yaklaşık Maliyet Cetveli Üzerinde İmzası Bulunan) Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatıyla temyiz talep eden Sağlık Teknisyeni Muhammet …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52418 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+2- 401 sayılı Ek İlamın 3. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatı ile iştiraki bulunan …’nın başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52416 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Yaklaşık Maliyet Cetveli Üzerinde İmzası Bulunan) Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatıyla temyiz talep eden Sağlık Teknisyeni …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52418 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+3- 401 sayılı Ek İlamın 8. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Gerçekleştirme Görevlisi-Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan … ve …, Yaklaşık Maliyet Komisyonu Üyesi-Piyasa Fiyat Araştırma Görevlisi sıfatı ile iştiraki bulunan …, … ve … ve Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan …’in başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52415 tutanak sayılı Temyiz Kurulu Kararı (2. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Yaklaşık Maliyet Cetveli Üzerinde İmzası Bulunan) Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatıyla temyiz talep eden Sağlık Teknisyeni Muhammet …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52418 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+4- 401 sayılı Ek İlamın 10. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Harcama Yetkilisi sıfatı ile iştiraki bulunan …, Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan … ve …, Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan …, …, … ve …’in başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52417 tutanak sayılı Temyiz Kurulu Kararı ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Yaklaşık Maliyet Cetveli Üzerinde İmzası Bulunan) Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatıyla temyiz talep eden Sağlık Teknisyeni …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52418 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
+
+5- 401 sayılı Ek İlamın 11. maddesiyle verilen … TL’nin tazminine dair hüküm, aynı tazmin hükmünde Gerçekleştirme Görevlisi-Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan … ve …, Yaklaşık Maliyet Komisyonu Üyesi-Piyasa Fiyat Araştırma Görevlisi sıfatı ile iştiraki bulunan …, … ve … ve Yaklaşık Maliyet Komisyonu Üyesi sıfatı ile iştiraki bulunan …’in başvurusu üzerine düzenlenen 02.11.2022 tarihli ve 52415 tutanak sayılı Temyiz Kurulu Kararı (4. maddesi) ile kaldırılmış bulunduğundan; bir diğer sorumlunun [(Yaklaşık Maliyet Cetveli Üzerinde İmzası Bulunan) Yaklaşık Maliyet Tespit Komisyonu Üyesi sıfatıyla temyiz talep eden Sağlık Teknisyeni …’ın] bu madde hükmü ile ilgili itirazı üzerine Kurulumuzca YAPILACAK İŞLEM OLMADIĞINA, oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52418 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.

@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52418",
+  "decision_date": "2022-11-02",
+  "source_id": 26359,
+  "chamber": "2",
+  "file_number": "46885",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26359/",
+  "source_sha256": "fe24020c4e1161c0d54ae75eee264a34b09dc2278829a40f921664c51ce4cf2b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
