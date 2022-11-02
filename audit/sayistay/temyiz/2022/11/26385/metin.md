@@ -1,0 +1,5 @@
+Dekana vekalette vekalet edene dekanlık için belirlenen ödemelerin yapılması;
+
+110 sayılı İlamın 7. maddesiyle verilen … TL’nin tazminine dair hükümde Harcama Yetkilisi sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 49791 sayılı dosya, 02.11.2022 tarihli ve 52442 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Ödeme Emri Belgesi Üzerinde İmzası Bulunan) Gerçekleştirme Görevlisi sıfatıyla temyiz talep eden Fakülte Sekreteri …’i]  ilgilendiren ve aynı mahiyette olan 49787 sayılı işbu dosyanın da sözü edilen (49791 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 02.11.2022 tarih ve 52444 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
