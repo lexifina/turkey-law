@@ -1,0 +1,12 @@
+ÜÇÜNCÜ BÖLÜM
+Kadroların Tespiti ve Yerleştirme İşlemleri
+Kadro ve pozisyonların tespiti ve bildirimi
+MADDE 8 – (Başlığı ile Birlikte Değişik:RG-20/11/2018-30601)
+(1) Bu Yönetmelik kapsamında yapılacak yerleştirmeye ilişkin toplam kurum kontenjanları her yıl Ocak ayı sonunda tespit edilir. Yerleştirme yapılacak toplam kadro ve pozisyon sayısının belirlenmesinde yerleştirme yapılacak yılın başındaki veriler esas alınır.
+(2) Yerleştirme yapılacak kadro veya pozisyon sayısı bu Yönetmelik kapsamında yer alan kurumların serbest memur kadroları ile sözleşmeli personel pozisyonları ve sürekli işçi kadro sayısının toplamının binde biridir. Serbest kadro ve pozisyon toplamının binden az olması hâlinde dahi kamu kurum ve kuruluşlarında en az bir hak sahibi istihdam edilir.
+(3) (Değişik:RG-2/11/2022-32001) Başkanlıkça her yılın Ocak ayında tespit edilen toplam yerleştirme kontenjanları Bakanlığa bildirilir. Kontenjanlar Bakanlık tarafından Mayıs, Eylül ve Aralık yerleştirmeleri için eşit olarak dağıtılır. Bu dağıtımda kontenjan sayısının eşit bölünmesinin mümkün olmaması halinde Aralık yerleştirme döneminin kontenjan sayısı daha büyük olacak şekilde dağıtım yapılır.
+(4) (Değişik:RG-2/11/2022-32001) Dağıtımı yapılan yerleştirme kontenjanları her dönemde Bakanlıkça kurumlara bildirilir. Kurumlar yerleştirme yapılmasını talep ettikleri unvanlar ile nitelikleri ve gerekli diğer bilgileri Bakanlıkça belirlenen süre içerisinde Başkanlığa ve Bakanlığa bildirirler.
+(5) İlk yerleştirme döneminde boş kalan kontenjan sayısı ikinci yerleştirme dönemi için belirlenen kontenjan sayısına ilave edilir. İkinci yerleştirme dönemi için kurumlarca yapılacak bildirimde bildirilen kontenjan sayısı için, yeni hak sahipleri listesi de dikkate alınarak, yeniden kadro unvanı ve nitelikler belirlenir ve merkez taşra dağılımı yapılır.
+(6) İkinci yerleştirme döneminde boş kalan kontenjan sayısı üçüncü yerleştirme dönemi için belirlenen kontenjan sayısına ilave edilir. Üçüncü yerleştirme döneminde kurumlarca yapılacak bildirim ikinci yerleştirme için belirlenen kurallara göre yapılır.
+(7) Bildirimlerin nasıl yapılacağı, süresi ve bildirimde uyulması gerekli diğer hususlar (Değişik ibare:RG-2/11/2022-32001) Bakanlıkça belirlenir.
+(8) Kurumlarca herhangi bir bildirim yapılmaması veya teşkilat bazında yapılacak dağıtımın bildirilmemesi hâlinde (Değişik ibare:RG-2/11/2022-32001) Bakanlıkça, bildirimde bulunmayan ilgili kurum veya kuruluşun merkez teşkilatına memur veya hizmetli unvanlarında resen yerleştirme yapılır.
