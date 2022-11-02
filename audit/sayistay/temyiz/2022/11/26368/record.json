@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52427",
+  "decision_date": "2022-11-02",
+  "source_id": 26368,
+  "chamber": "2",
+  "file_number": "46890",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2014",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26368/",
+  "source_sha256": "8bc0ef374628ffffe8388705544272c3e8cbebfed33ede1434b403a3b617a485",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
