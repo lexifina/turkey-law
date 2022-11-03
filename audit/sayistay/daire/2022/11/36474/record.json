@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "416",
+  "decision_date": "2022-11-03",
+  "source_id": 36474,
+  "chamber": "3",
+  "ilam_number": "20",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36474/",
+  "source_sha256": "0d672816f3898a3577e12d13cf7f3fbbdc2e7101b641ac905e3bf2d3a653246b",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
