@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "11355271-120.04.01[65-2019/18]-74270",
+  "source_id": 38819,
+  "date": "2022-11-03",
+  "title": "Serbest Meslek Erbabı ve Kazanç Tespiti",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38819",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "ba2f4de70e2bcbb3913aa5d9960d5311465e0d98c528eb6c70b7cdbc05b3f1cc",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
