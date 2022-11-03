@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10872",
+  "decision_date": "2022-11-03",
+  "source_id": 36336,
+  "chamber": "1",
+  "ilam_number": "248",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36336/",
+  "source_sha256": "33a16a93cdb2ddb475cfc72fc32c3da7e34d1d28522f37591350d5f95a51e374",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
