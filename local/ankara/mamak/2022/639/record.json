@@ -1,0 +1,27 @@
+{
+  "number": "639",
+  "number_as_published": "639",
+  "year": 2022,
+  "title": "Güneybatı Planlama Alanı (İmrahor 2. Etap) İmar Planına ilişkin Meclis Kararı.",
+  "decision_date": "2022-11-04",
+  "source": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_document": "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=f4bd0e9e-d249-4816-9105-c23e1b8401ab",
+  "source_sha256": "f554089df68731558a37947c976f196303cdbdc5704c52cb6912834ca94730d3",
+  "issuer": "Mamak Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-11-04",
+  "in_force_basis": "Decision date as printed in the official council listing: 2022-11-04T00:00:00 (kararTarihi of the official register); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_page": "https://www.mamak.bel.tr/gundem/kararlar",
+  "register_api": "https://www.mamak.bel.tr/gundem/GetKararlar",
+  "official_documents": [
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=f4bd0e9e-d249-4816-9105-c23e1b8401ab",
+    "https://www.mamak.bel.tr/gundem/DosyaDownload?guid=493ed205-beb1-49a5-97e8-e6b287720374"
+  ]
+}
