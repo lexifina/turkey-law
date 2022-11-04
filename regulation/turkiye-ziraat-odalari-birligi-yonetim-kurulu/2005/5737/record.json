@@ -1,0 +1,58 @@
+{
+  "source_id": "7.5.5737",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ZİRAAT ODALARININ GİRİŞ ÜCRETİ VE YILLIK AİDATLARI HAKKINDA YÖNETMELİK",
+  "number": "5737",
+  "issuer": "Türkiye Ziraat Odaları Birliği Yönetim Kurulu",
+  "issuer_slug": "turkiye-ziraat-odalari-birligi-yonetim-kurulu",
+  "path": "regulation/turkiye-ziraat-odalari-birligi-yonetim-kurulu/2005/5737",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5737&MevzuatTertip=5",
+  "source_sha256": "462917efa07204476b43906bb7849adab71e2ebb48e536b6835ff999de3a9dd5",
+  "source_bytes": 87012,
+  "published": "2005-01-12",
+  "gazette": "25698",
+  "in_force": "2022-11-04",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-4/11/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-11-04",
+      "RG-4/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-06-10",
+      "RG-10/6/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2017-06-30",
+      "RG-30/6/2017",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2016-07-13",
+      "RG-13/7/2016",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2013-12-31",
+      "RG-31/12/2013",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4313,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
