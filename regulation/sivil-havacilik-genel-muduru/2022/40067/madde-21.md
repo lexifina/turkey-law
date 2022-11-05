@@ -1,0 +1,3 @@
+Yönetim teşkilatı ve karşılıklı tanınma
+MADDE 21- (1) Yönetim teşkilatı Türkiye içerisinde yerleşik bulunan kuruluşlara, bu Yönetmelikte belirtilen usul ve esaslara uygun olmaları durumunda Genel Müdürlük tarafından onay verilir.
+(2) Yurt dışında bulunan kuruluşların bu Yönetmelik kapsamındaki onay talepleri, Genel Müdürlük tarafından söz konusu ülke ile imzalanan ikili anlaşma hükümleri saklı kalmak koşuluyla değerlendirmeye alınır. Gerekli görülmesi halinde, yerinde denetim ve inceleme yapılarak bu Yönetmelikle istenen gerekliliklerin uygunluğundan emin olunur. Genel Müdürlük bu başvuruyu kabul etmeden kuruluşların onay belgesine olan ihtiyacının doğruluğunu inceleme hakkını saklı tutar.

@@ -1,0 +1,2 @@
+Olay bildirimi
+MADDE 6- (1) Hava aracı, motor, pervane, parça veya cihazın uçuşa elverişliliğinden sorumlu olan gerçek ve tüzel kişiler ile bunların bakımını gerçekleştirenler tespit edilen, tip tasarımına uygun olmayan ve uçuş emniyetini tehlikeye düşüren olay veya durumları; Genel Müdürlüğe, hava aracı sahibine, işleticisine, sürekli uçuşa elverişlilik yönetimi kuruluşuna veya birleşik uçuşa elverişlilik kuruluşu ile tip sertifikası sahibine durumun saptanmasından itibaren 72 saat içerisinde rapor eder.

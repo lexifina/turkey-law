@@ -1,0 +1,5 @@
+Komponentler
+MADDE 10- (1) Genel Müdürlükçe belirlenen gerekliliklere uygun olan SHGM Form 1 veya eşdeğer bir başka doküman düzenlenmiş komponentler dışında hiçbir komponent, aksi Genel Müdürlükçe uygun bulunduğu durumlar haricinde hava aracına takılamaz.
+(2) Bir komponentin hava aracına takılması öncesinde, söz konusu kişi veya bakım kuruluşu, farklı modifikasyon, tamir veya uçuşa elverişlilik direktifi gereklerinin geçerli olabileceği durumlarda bahse konu komponentin takılmaya uygun olmasından sorumludur.
+(3) Uçuşa elverişli olmayan, üretici ve Genel Müdürlük talimatları doğrultusunda hizmet süresini tamamlamış, hasarlı veya gayri faal durumda olan komponentler ile uçuşa elverişlilik durumuna etki edebilecek olaya karışmış komponentler hava aracına takılamaz.
+(4) Söz konusu komponentler, bakımı gerçekleştiren kişi veya kuruluşlarca, uçuşa elverişlilik açısından nihai değerlendirme sonuçlanana kadar Genel Müdürlükçe uygun bulunan koşullarda muhafaza edilir ve değerlendirme sonucuna göre faal hale getirilir veya kal edilir.

@@ -1,0 +1,2 @@
+Dayanak
+MADDE 3- (1) Bu Yönetmelik, 5/6/1945 tarihli ve 4749 sayılı Kanun ile onaylanan 7/12/1944 tarihli Şikago Konvansiyonu’nun personel lisansları konulu Ek-1, hava aracı operasyonu konulu Ek-6, uçuşa elverişlilik konulu Ek-8’ine, 14/10/1983 tarihli ve 2920 sayılı Türk Sivil Havacılık Kanununa, 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 437 nci ve 441 inci maddelerine dayanılarak hazırlanmıştır.

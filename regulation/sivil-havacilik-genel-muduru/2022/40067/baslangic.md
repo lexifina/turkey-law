@@ -1,0 +1,2 @@
+SÜREKLİ UÇUŞA ELVERİŞLİLİK YÖNETMELİĞİ
+(SHY-CA)

@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.40067",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SÜREKLİ UÇUŞA ELVERİŞLİLİK YÖNETMELİĞİ (SHY-CA)",
+  "number": "40067",
+  "issuer": "Sivil Havacılık Genel Müdürü",
+  "issuer_slug": "sivil-havacilik-genel-muduru",
+  "path": "regulation/sivil-havacilik-genel-muduru/2022/40067",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=40067&MevzuatTertip=5",
+  "source_sha256": "f0820c6fee1dc72136f4581e4e61ff6fa050f80d17092e42c53f5a8f69a52386",
+  "source_bytes": 180590,
+  "published": "2022-11-05",
+  "gazette": "32004",
+  "in_force": "2022-11-05",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (05.11.2022); own commencement article: \"Bu Yönetmelik yayımlandığı tarihten üç ay sonra yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımlandığı tarihten üç ay sonra yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6430,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
