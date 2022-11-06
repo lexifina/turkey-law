@@ -1,0 +1,2 @@
+Tez, sergi veya proje çalışması
+MADDE 48 – (1) Sanatta yeterlik öğrencisi bir tez, sergi, proje, resital, konser veya temsil çalışması yapmak zorundadır. Tez hazırlayan öğrenci elde ettiği sonuçları, sergi, proje, resital, konser, temsil gibi çalışmasını açıklayan ve belgeleyen metni ilgili enstitü tez yazma kılavuzuna uygun biçimde yazarak, tez, sergi, proje, resital, konser, temsil gibi çalışmalarını jüri önünde sözlü olarak savunur.

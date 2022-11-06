@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Lisansüstü Eğitim-Öğretim ile İlgili Genel Esaslar
+Eğitim-öğretim dili
+MADDE 4 – (1) Zorunlu olarak bir yabancı dilde eğitim-öğretim yapan programlar dışında ve aksi belirtilmedikçe enstitülerde eğitim-öğretim Türkçe yapılır. Ancak, ilgili enstitü kurullarının belirleyeceği programlar dışında kalan tüm programların öğrencilerinde, belirli bir yabancı dil seviyesi aranır. Bu seviyeye ve aranan dilin hangi yabancı dil olacağına, Üniversitede eğitimi verilen bir dil olması koşuluyla her program için, ilgili EK karar verir.
+(2) Anabilim/anasanat dalı başkanlığının teklifi ve EK’nın kararıyla belirli programlarda tüm dersler veya bir kısım dersler, birinci fıkrada belirtilen yabancı dilde verilebilir. Türkçe eğitim yapılan derslerde belirtilen yabancı dilde yazılmış kitaplar izlenebilir, ödev ve benzeri çalışmaların bu yabancı dilde hazırlanması istenebilir. Ayrıca, danışmanın önerisi, anabilim/anasanat dalı başkanının uygun görüşü ve ilgili EYK’nın onayıyla proje ve tez çalışmaları ile raporlar ve seminer sunuşları bu yabancı dilde hazırlanabilir.

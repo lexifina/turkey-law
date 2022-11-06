@@ -1,0 +1,3 @@
+Sınavlar
+MADDE 25 – (1) Bir yarıyılda her dersten en az bir ara sınav yapılır. Öğretim elemanı, ödev, proje, laboratuvar ve benzeri çalışmaları ara sınav olarak değerlendirebilir. Her yarıyıl sonunda yarıyıl sonu sınavı yapılır. Ders başarı notunun verilmesinde, tüm sınav sonuçları ve yarıyıl içi çalışmaları ile derslere devam ve katılım göz önünde tutulur. Sınavların şekline, ağırlıklarına ve notlara, ilgili öğretim elemanı karar verir. Jürilere yapılacak sözlü sunuşlar da dahil olmak üzere, sanat alanlarında performans, sergi, resital, konser, temsil, gösteri gibi etkinlikler, sözlü sınav ya da sunuş olarak değerlendirilebilir.
+(2) Ders başarı notları, ilgili anabilim/anasanat dalları tarafından ilgili müdürlüğe verilir ve ilân edildikten sonra kesinleşir.

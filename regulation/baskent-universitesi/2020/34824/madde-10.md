@@ -1,0 +1,2 @@
+Öğrenci sayısı
+MADDE 10 – (1) Yeni açılan bir programa yeterli başvurunun bulunmaması veya başvuran adaylar arasında başarılı bulunanların sayısının yeterli olmaması ya da açık olan bir programda kayıtlı öğrenci kalmaması durumunda, ilgili EYK kararı ile o yıl veya yarıyıl için söz konusu programa öğrenci alınmayabilir. Bu durumda, varsa, kayıt yaptırmış olan adayların kayıtları iptal edilir ve kendilerinden alınan öğrenim ücreti iade edilir. Bir program için yeterli bulunacak öğrenci sayısına, ilgili EYK karar verir.
