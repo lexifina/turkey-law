@@ -1,0 +1,5 @@
+Müdür ve müdür yardımcıları
+MADDE 7- (1) Müdür, Üniversitenin kadrolu ve tam zamanlı statüdeki öğretim elemanları arasından Rektör tarafından üç yıl süre ile görevlendirilir. Görev süresi sona eren Müdür, aynı usulle yeniden görevlendirilebilir.
+(2) Müdür, Üniversitenin tam zamanlı öğretim elemanları arasından en fazla iki kişiyi müdür yardımcısı olarak görevlendirilmek üzere Rektörün onayına sunar. Müdürün görev süresi sona erdiğinde müdür yardımcılarının da görevleri sona erer. Müdürün yokluğunda yerine, Müdürün görevlendireceği müdür yardımcısı vekâlet eder. Vekâlet süresi altı ayı geçemez. Müdürün kesintisiz olarak altı aydan fazla görevi başında bulunmaması durumunda yeni bir Müdür görevlendirilir.
+(3) Müdür; Merkezin öğretim kapasitesinin verimli bir şekilde kullanılmasından ve geliştirilmesinden, eğitim-öğretim, araştırma, uygulama, yayın etkinlikleri ve sınavların düzenli bir şekilde yürütülmesinden, bütün faaliyetlerin gözetim ve denetiminin yapılmasından ve sonuçlarının alınmasından Rektöre karşı sorumludur.
+(4) Müdür yardımcıları, Merkezin işleyişinde ve çalışmaların yürütülmesinde Müdüre yardımcı olurlar.
