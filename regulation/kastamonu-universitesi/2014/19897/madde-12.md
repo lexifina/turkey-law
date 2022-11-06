@@ -1,0 +1,4 @@
+Danışma Kurulu ve görevleri
+MADDE 12 – (1) (Değişik:RG-6/11/2022-32005) Danışma Kurulu; Merkezin çalışma alanları ile ilgili bilgi ve tecrübesi olan; Üniversite içinden veya dışından, Yönetim Kurulunun önerisi üzerine Rektör tarafından üç yıl için onanan en az beş en çok on bir üyeden oluşur. Görev süresi biten üyeler aynı usulle yeniden Danışma Kurulu üyesi olarak görev alabilir.
+(2) Danışma Kurulu yılda en az iki kez olağan olarak toplanır. Müdür gerekli gördüğü takdirde Danışma Kurulunu olağanüstü toplantıya çağırabilir.
+(3) (Değişik:RG-6/11/2022-32005) Danışma Kurulu, Merkezin faaliyet alanlarıyla ilgili konularda görüş ve tavsiyelerde bulunan bir organ olarak Merkezin uzun vadeli planlarına yönelik olarak ve bölgedeki sanayi kuruluşları ve diğer bilimsel ve teknolojik kuruluşlarla işbirliği ortamının oluşturulup geliştirilmesine ilişkin Yönetim Kuruluna önerilerde bulunur.
