@@ -1,0 +1,23 @@
+{
+  "number": "meeting-11-07",
+  "number_as_published": "meeting-11-07",
+  "year": 2022,
+  "title": "07.11.2022 Meclis Kararları",
+  "decision_date": "2022-11-07",
+  "source": "https://www.kozlu.bel.tr/meclis-kararlari",
+  "official_document": "https://www.kozlu.bel.tr/Content/Theme/Site/Files/Editor/files/11_%20AY%201_%20MECL%c4%b0S%20KARARLARI.docx",
+  "source_sha256": "37663390dee5a1404a9ce7c9c355d817cb5a1053465300727d0ad245b09b5946",
+  "issuer": "Kozlu Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-11-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07.11.2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "listing_label": "07.11.2022 Meclis Kararları",
+  "record_scope": "one official file of council decisions (meeting)"
+}
