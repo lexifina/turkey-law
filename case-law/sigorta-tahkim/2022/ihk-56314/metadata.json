@@ -1,0 +1,15 @@
+{
+  "number": "İHK-2022/56314",
+  "award_date": "2022-11-07",
+  "heading_as_published": "07.11.2022 Tarih - 2022/İHK-56314 Sayılı İtiraz Hakem Heyeti Kararı",
+  "issue": "Hakem Karar Dergisi 52 Ekim - Aralık 2022",
+  "source_url": "https://www.sigortatahkim.org/content/CmsFiles/karardrgs52.pdf",
+  "source_sha256": "ce7a472e10084eeab2db58a00cbad4e317d63e8e730a9cd9bba8c1a80fb7c05e",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ in letters/digits",
+  "source_images": 1,
+  "images_status": "issue contains images; award text taken from the text layer only",
+  "missing_components": [
+    "award text (see official issue PDF)"
+  ]
+}
