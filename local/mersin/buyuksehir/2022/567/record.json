@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "567",
+  "decision_date": "2022-11-08",
+  "title": "-MEC.KAR.(Mezitli Belediyesi 2023 bütçesi)",
+  "listed_as": "567-MEC.KAR.(Mezitli Belediyesi 2023 bütçesi)",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/567-meckarmezitli-belediyesi-2023-butcesi-2001283506",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/8-kasim-2022-meclis-kararlari-446939394",
+  "listing_sha256": "8a75e1bd2681154b9bcf6819a146d9eb2075f02ca962bf5857d794b3543f051f",
+  "meeting_title": "8 KASIM 2022 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
