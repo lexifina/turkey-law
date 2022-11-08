@@ -1,0 +1,8 @@
+Hava aracı enkazının kaldırılması
+MADDE 33- (1) Hava aracı enkazının kaldırılmasında aşağıda belirlenen esaslar uygulanır:
+a) Pist, apron, taksi yolu ve benzeri yerlerde bulunan enkazın meydan trafiğini veya can emniyetini tehlikeye düşürmesi gibi durumlar hariç, grubun çalışmaları sona erinceye kadar enkaz kaldırılmaz.
+b) Enkaz üzerinde yapılacak olan araştırma ve inceleme sonuçlandıktan sonra grup tarafından enkazın kaldırılmasına, mümkün olmadığı durumlarda ise yerinde bırakılmasına bir tutanakla karar verilir.
+c) Yabancı bir hava aracının ülkemizde kaza veya ciddi olay yapması halinde, grubun enkaz üzerinde incelemesini tamamlamasını müteakip, hava aracı, içeriği ya da herhangi bir kısmı gözetimden çıkarılarak tescil devletinin veya geçerli ise işletmeci devletin tayin ettiği yetkililere teslim edilir.
+ç) Hava aracının yerleşim yerine düşmesi halinde, kamu hizmetlerini veya can emniyetini etkileyen durumlarda; enkaz parçalarının durumu, yerleri ve istikametleri fotoğraf, video ve krokilerle tespit edilir ve enkaz grup tarafından uygun görülen bir yere işletmecisi veya sahibi tarafından, hava aracı işletmecisi veya sahibinin yetersiz kaldığı durumlarda mahalli mülki amirlerin koordinasyonunda mümkün olan en kısa sürede kaldırılır.
+d) Özellikle hava alanlarında meydana gelebilecek diğer kazalarla karışmaması için, enkaz kaldırıldıktan sonra zemin iyice gözden geçirilir, izlerin ve emarelerin ortadan kaldırılmasına özen gösterilir.
+e) Her türlü enkaz arama ve kurtarma masrafları işletmeci veya sahibi tarafından karşılanır. Hava aracı işletmecisinin veya sahibinin yetersiz kaldığı durumlarda Başkanlık tarafından Bakanlık nezdinde gerekli koordinasyonlar yapılır.

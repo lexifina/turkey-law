@@ -1,0 +1,4 @@
+Tescil, işletmeci, tasarım ve üretici devletin sorumluluğu
+MADDE 11- (1) Tescil devleti veya işletmeci devlet, kaza veya ciddi olay bildirimini alır almaz, bildirimi aldığına yönelik cevabi yazıyı kaza veya ciddi olay geçiren hava aracına ve uçuş ekibine ait bilgilerle birlikte vuku devletine gönderir.
+(2) Kaza veya ciddi olay bildirimini alan işletmeci devlet hava aracında bulunan tehlikeli maddelerle ilgili bilgileri gecikmeksizin vuku devletine bildirir.
+(3) Kaza veya ciddi olay tescil devletinin, üye olmayan bir devletin ya da herhangi bir devletin sınırları dışında olması durumunda, eğer tescil devleti araştırma ve incelemeyi yürütürse birinci fıkradaki vuku devleti gibi hareket eder. Bu durumda işletmeci devlet, tasarım devleti ve üretici devlet kaza veya ciddi olayla ilgili bildirimi aldığını ve birinci fıkrada belirtilen hususları tescil devletine bildirir.

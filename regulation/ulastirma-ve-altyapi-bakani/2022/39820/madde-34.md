@@ -1,0 +1,3 @@
+Enkazın olay mahallinde terk edilmesi
+MADDE 34- (1) Enkazın kaza yerinden kaldırılması mümkün değilse, hava aracı sahibi ve işletmecisi ile grubun mutabık kalması halinde, kurtarılabilecek enkaz parçalarının tespit edilip ayırtılmasından sonra diğer enkazın kaza yerinde terk edilmesine bir tutanakla karar verilir. Hava aracı işletmecisi veya sahibi tarafından kolluk kuvvetleri ile yapılacak koordinasyondan sonra enkaz parçaları uygun görülecek bir yöntemle imha edilir.
+(2) Enkaza ulaşılamaması halinde enkazın, mümkün olan en yakın bir yerden fotoğrafı veya videosu çekilerek olay mahallinin koordinatlarını ihtiva eden bir kroki ile durum tespiti yapılır.

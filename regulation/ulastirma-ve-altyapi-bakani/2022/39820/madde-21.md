@@ -1,0 +1,6 @@
+Türk tescilli hava aracının yabancı ülkelerde meydana gelen kaza veya ciddi olayları
+MADDE 21- (1) Türk tescilli bir hava aracının yabancı ülkede kaza veya ciddi olaya karışması halinde ve bu devletin kaza veya ciddi olay araştırma ve incelemesini yapmaması durumunda;
+a) Kaza veya ciddi olay araştırma ve incelemesi ülkemiz tarafından yapılabilir.
+b) Gerektiğinde sırasıyla bu araştırma ve incelemenin işletmeci, tasarım veya üretici devlet tarafından yürütülmesi istenebilir. Bu durumda hava aracı ve kaza delillerinin muhafazası bu çalışmayı yapacak olan işletmeci, tasarım veya üretici devletin sorumluluğuna bırakılır ve ilgili devlet tarafından hazırlanarak gönderilen taslak nihai rapor değerlendirilir. Değerlendirme sonuçları süresi içerisinde taslak nihai raporu hazırlayan ilgili devlete bildirilir.
+(2) Kaza veya ciddi olayın araştırma ve incelemesini yürüten devletin istemesi durumunda, görevlendirilen akredite temsilci tarafından elde edilen bilgiler gönderilir.
+(3) Kaza veya ciddi olaya karışan Türk tescilli hava aracının vuku devleti veya ülkemizin dışında başka bir yere inmesi durumunda araştırma ve incelemeyi yürüten devletin istemesi halinde ilgili devlete uçuş kayıt cihaz kayıtları ve diğer kayıtlar verilir.
