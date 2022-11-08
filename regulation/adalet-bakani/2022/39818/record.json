@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39818",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "İCRA DAİRELERİ BAŞKANLIKLARININ KURULUŞ VE GÖREVLERİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39818",
+  "issuer": "Adalet Bakanı",
+  "issuer_slug": "adalet-bakani",
+  "path": "regulation/adalet-bakani/2022/39818",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39818&MevzuatTertip=5",
+  "source_sha256": "db9fd8c08f9a861d5002a1ab6c86d71dba10314ac8483dad0a21d0435b73e1bf",
+  "source_bytes": 86318,
+  "published": "2022-11-08",
+  "gazette": "32007",
+  "in_force": "2022-11-08",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (08.11.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1993,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
