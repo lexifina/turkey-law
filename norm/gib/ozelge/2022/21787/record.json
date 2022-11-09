@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "96620903-120-227251",
+  "source_id": 21787,
+  "date": "2022-11-09",
+  "title": "Kiralanan villanın başkalarına kiralanmasından elde edilen gelirin vergilendirilmesi ve Turizm Payı Beyannamesi verilip verilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21787",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "90a3e84433c1f61f29e2fa097004624358f41b110aec1d870db192f9030a58fe",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
