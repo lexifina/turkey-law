@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11380",
+  "decision_date": "2022-11-10",
+  "title": "Kızılcahamam Doğalgaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-11-12",
+  "resmi_gazete_number": "32011",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nK2zlkhBXJE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=nK2zlkhBXJE=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Vanlv28Zqkg="
+  ],
+  "source_sha256": "561ac613fa9d28de5d33501195b9408e065c983c645776c1066d681c91c2e257",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-10",
+  "law_text_complete": true
+}
