@@ -1,0 +1,3 @@
+Tereddütlerin giderilmesi
+MADDE 57- (1) İdare, bu Usul ve Esasların uygulanması sırasında doğacak anlaşmazlıklar ile uygulamaya ilişkin aksaklıkları gidermeye, ilke ve standartları belirlemeye ve uygulama birliğini sağlayacak gerekli düzenlemeleri yapmaya, gerekli bilgi ve belgeleri istemeye yetkilidir.
+(2) Bu Usul ve Esaslar kapsamında yapılacak ihalelerde veya alımlarda sözleşme yapılmasında isteklinin ve idarenin görev ve sorumluluğu, ihalenin veya alımın sözleşmeye bağlanması, idare tarafından şikâyetlerin incelenmesi ile ilgili esaslar, denetim, muayene ve kabul işlemleri idarece belirlenir.

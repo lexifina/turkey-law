@@ -1,0 +1,2 @@
+Yurtdışından yapılacak alımlar
+MADDE 54- (1) Yurtdışından yapılacak alımlar, gerekli olan durumlarda ilanı takiben, döviz tahsisi, akreditif, banka, kambiyo ve sigorta işlemleri ile sevk ve gümrük muameleleri yürürlükteki ithalat rejimi ve kararları ve bu husustaki mevzuat doğrultusunda idare tarafından bu Usul ve Esaslara göre yerine getirilir. Dış alımlarla ilgili geçici ve kesin teminata ait şartlar idarece belirlenir.

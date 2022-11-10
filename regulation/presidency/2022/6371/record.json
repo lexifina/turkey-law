@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-6371",
+  "number": "6371",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TİCARET BAKANLIĞI TARAFINDAN, 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (F) BENDİ KAPSAMINDA YAPILACAK İHALELERE İLİŞKİN USUL VE ESASLAR",
+  "published": "2022-11-10",
+  "enacted": "2022-11-09",
+  "gazette_number": "32009",
+  "in_force": "2022-11-10",
+  "in_force_basis": "Official commencement clause: \"Bu Usul ve Esaslar yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-11-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=6371&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "0d4ae1459a13b250627b564a29fabfb36248c37ed2aefb6cb89073c428a0d61d",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}

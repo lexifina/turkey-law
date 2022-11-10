@@ -1,0 +1,2 @@
+Sözleşme yapılmasında idarenin görev ve sorumluluğu
+MADDE 36- (1) İdare, 34 üncü ve 35 inci maddelerde yazılı süre içinde sözleşme yapılması hususunda kendisine düşen görevleri yapmakla yükümlüdür. İdarenin bu yükümlülüğü yerine getirmemesi halinde, istekli sürenin bitmesini izleyen günden itibaren en geç beş gün içinde, on gün süreli bir noter ihbarnamesi ile bildirmek şartıyla taahhüdünden vazgeçebilir. Bu takdirde geçici teminat geri verilir ve istekli teminat vermek için yaptığı belgelendirilmiş giderleri istemeye hak kazanır.
