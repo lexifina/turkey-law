@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "420",
+  "decision_date": "2022-11-10",
+  "source_id": 36476,
+  "chamber": "3",
+  "ilam_number": "359",
+  "item_number": 2,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2017,
+  "subject": "Vergi Resmi Harç ve Diğer Gelirlerle İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36476/",
+  "source_sha256": "907b57abaeb02aaaa5f565dfedc1d4872bfccf92dd5d451674a49dbde08b7e51",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
