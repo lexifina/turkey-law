@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11382",
+  "decision_date": "2022-11-10",
+  "title": "Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-11-12",
+  "resmi_gazete_number": "32011",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VEk1F7Fzlh8=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=VEk1F7Fzlh8=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fhDIh0FzeKg="
+  ],
+  "source_sha256": "72d60c698e5587c23e3b23324947a962b6c22b0c7cd31c6f483960c62bf6a544",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-10",
+  "law_text_complete": true
+}
