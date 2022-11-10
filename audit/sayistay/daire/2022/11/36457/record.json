@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10876",
+  "decision_date": "2022-11-10",
+  "source_id": 36457,
+  "chamber": "1",
+  "ilam_number": "128",
+  "item_number": 2,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2020,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36457/",
+  "source_sha256": "8636bd16334ab3d60041ba7ed4d5be8da1da111c7baeb709509d4fd54dbca041",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
