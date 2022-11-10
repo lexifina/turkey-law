@@ -1,0 +1,4 @@
+Genel kurula katılma
+MADDE 9- (1) Elektronik ortamda yapılacak genel kurul toplantısına katılacak üyeler ve temsilciler tarafından sisteme güvenli elektronik imza veya en az iki faktörlü kimlik doğrulama sistemi kullanılarak giriş yapılır.
+(2) Genel kurul toplantısına elektronik ortamda katılım için sisteme giriş, genel kurulun ilan edilen başlama saatinden bir saat öncesinde başlar, genel kurulun başlama saatinden beş dakika öncesine kadar sürer. Katılımcıların sisteme giriş zamanının tespitinde 5070 sayılı Kanunun 3 üncü maddesinin birinci fıkrasının (h) bendinde tanımlanan zaman damgası kullanılır.
+(3) Elektronik ortamda toplantıya katılan üyeler ve temsilcilere ilişkin liste toplantı başlamadan önce elektronik sistemden alınır. Bu liste, toplantıda hazır bulunanlar listesinin oluşturulmasında kullanılır.

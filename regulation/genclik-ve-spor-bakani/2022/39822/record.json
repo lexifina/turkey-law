@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39822",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "SPOR KULÜPLERİNİN GENEL KURUL VE YÖNETİM KURULU TOPLANTILARININ ELEKTRONİK ORTAMDA YAPILMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "39822",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2022/39822",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39822&MevzuatTertip=5",
+  "source_sha256": "82ade36b5661698fcdde8ec6ed31f035f1301f9247edcfa0a0a98292ca140b94",
+  "source_bytes": 68420,
+  "published": "2022-11-10",
+  "gazette": "32009",
+  "in_force": "2022-11-10",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (10.11.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1872,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

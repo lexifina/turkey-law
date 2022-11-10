@@ -1,0 +1,4 @@
+Spor kulüpleri ve destek hizmeti sağlayıcılarının yükümlülükleri
+MADDE 18- (1) Spor kulüpleri ve destek hizmeti sağlayıcıları, elektronik sistem üzerinden yapılan tüm işlemlere ilişkin kayıtları ve toplantılara elektronik ortamda katılan üyelerin ve temsilcilerin kimlik bilgilerini, gizlilik, erişilebilirlik ve bütünlüğünü sağlayacak şekilde on yıl süreyle elektronik ortamda saklamak zorundadır.
+(2) Üyelerin kendi kusurlarından kaynaklanan sorumluluk hali hariç olmak üzere, elektronik sistemden kaynaklanan nedenlerle üyelerin uğrayacağı zararlardan spor kulübü ve destek hizmeti sağlayıcıları genel hükümlere göre sorumludur.
+(3) Spor kulüpleri ve destek hizmeti sağlayıcıları, ilgili mevzuata aykırı olarak kişisel verilerin işlenmesini ve bu verilere erişilmesini önlemek amacıyla gerekli her türlü teknik ve idari tedbirleri almak zorundadır.

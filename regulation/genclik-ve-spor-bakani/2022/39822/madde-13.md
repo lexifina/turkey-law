@@ -1,0 +1,6 @@
+Yönetim kurulu toplantıları
+MADDE 13- (1) Bu Yönetmelik kapsamındaki toplantılara elektronik ortamda katılmaya imkan tanıyan spor kulüpleri, toplantı çağrılarını elektronik sistem üzerinden de yapabilir.
+(2) Yönetim kurulu üyeleri, öncesinde spor kulübüne ayrıca bildirimde bulunmaya gerek olmaksızın, güvenli elektronik imzaları ile giriş yaparak elektronik sistem üzerinden toplantıya katılabilirler. Yönetim kurulu toplantılarına elektronik ortamda katılma, öneride bulunma, görüş açıklama ve oy verme, fizikî katılmanın bütün hukuki sonuçlarını doğurur.
+(3) Yönetim kurulu üyeleri katıldıkları toplantılarda alınan yönetim kurulu kararlarını elektronik sistem üzerinden de imzalayabilirler.
+(4) Yönetim kurulu üyelerinden birinin belirli bir konuda yaptığı karar şeklinde yazılmış önerisine üyelerce elektronik sistem üzerinden güvenli elektronik imza ile onay verilebilir. Bunun için söz konusu önerinin elektronik sistemde de erişime açılması şarttır.
+(5) Elektronik ortamda alınacak yönetim kurulu kararları, elektronik sistemden alınacak elektronik imzaları gösterir belge ile birlikte fiziksel ortamda tutulan yönetim kurulu karar defterine yapıştırılır. Elektronik ortamda alınan bu kararlar ayrıca tarih ve sıra sayısı ile elektronik ortamda saklanır.
