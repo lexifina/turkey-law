@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "petroleum",
+  "document_type": "board-decision",
+  "number": "11376",
+  "decision_date": "2022-11-10",
+  "title": "TS EN 14214 “Sıvı petrol ürünleri – Yağ asidi metil esterleri(YAME/biodizel) - Dizel motorlarda ve ısıtma uygulamalarında kullanılan – Özellikler ve deney yöntemleri” standardında belirtilen yaz dönemi bitiş tarihi ile ilgili",
+  "resmi_gazete_date": "2022-11-11",
+  "resmi_gazete_number": "32010",
+  "categories": [
+    "Teknik Düzenleme Faaliyetleri"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qznKBywePwg=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=qznKBywePwg="
+  ],
+  "source_sha256": "b28e3969e232a414eaa9f9381ef492f87dfe1ac8d4c087028f20d8f164294f7d",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-100/kurul-kararlari",
+  "official_list_leaf": 4979,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-10",
+  "law_text_complete": true
+}
