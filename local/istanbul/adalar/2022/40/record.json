@@ -1,0 +1,24 @@
+{
+  "number": "40",
+  "number_as_published": "40",
+  "year": 2022,
+  "title": "Fiyatların Belirlenmesi – Tarifeler",
+  "decision_date": "2022-11-11",
+  "source": "https://adalar.bel.tr/meclis-kararlari/2022-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/",
+  "official_document": null,
+  "source_sha256": "83e4fb012eb36980e40d2dac382578108425c06ebc18190dd59b3107c9f03933",
+  "issuer": "Adalar Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; the listing links no decision document",
+  "in_force": "2022-11-11",
+  "in_force_basis": "Decision date as printed in the official council listing: 11.11.2022 (Karar Tarihi printed above the decision); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and subject as published in the year's official decisions post)",
+  "decision_number": "2022/40",
+  "official_page": "https://adalar.bel.tr/meclis-kararlari/2022-yili-1-ocak-31-aralik-tarihleri-arasinda-alinan-meclis-kararlari/"
+}
