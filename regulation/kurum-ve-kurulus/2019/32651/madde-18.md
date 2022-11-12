@@ -1,0 +1,4 @@
+Sınavın duyurulması
+MADDE 18 – (1) Atama yapılacak kadroların sayısı, sınıfları, dereceleri, hangi mezuniyet alanlarından kaç kişi alınacağı, puan sıralamasına göre sınava çağrılacak aday sayısı, sınava katılma şartları, başvuru şekli, Başkanlıkça belirlenecek Kamu Personeli Seçme Sınavı (KPSS) puan türü ve taban puanı, sınavın yapılacağı yer ve tarih, sınav konuları, sınav değerlendirme yöntemi, başvuruda istenilecek belgeler ile gerekli görülen diğer hususlar sınav gününden en az 30 gün önce Resmî Gazete’de ve Cumhurbaşkanınca belirlenen kurum ile Bakanlık internet sitesinde yayımlanmak suretiyle duyurulur.
+(2) Adayların başvuru ve kayıt süresi, sınavın başlama tarihinden en geç on beş gün önce bitecek şekilde tespit edilir.
+(3) Sözlü sınavın tarihi ve yapılacağı yer, sözlü sınavdan on beş gün önce, sınava girmeye hak kazanan adaylara yazılı olarak bildirilir.

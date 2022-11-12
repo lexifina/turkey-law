@@ -1,0 +1,4 @@
+Müfettiş yardımcılığına atama ve kıdem
+MADDE 30 – (1) Giriş sınavı sonucunda asıl aday olanların atamaları başarı derecesi daha yüksek olana öncelik verilmek suretiyle yapılır.
+(2) Asıl adaylardan, giriş sınavı puanlarının kendilerine tebliğ edildiği tarihten itibaren atanmak üzere on beş gün içerisinde müracaatını yapmayan ve ataması yapılıp da göreve başlamayan adaylar için sınav sonuçları kazanılmış hak sayılmaz. Bu durumdaki adaylar ile göreve başladıktan sonra altı ay içinde ayrılanların yerine, kendi bölümünden başarı derecesi daha yüksek olan adaya öncelik verilmek suretiyle yedek adaylar arasından atama yapılabilir.
+(3) Müfettiş yardımcılığı kıdeminin belirlenmesinde, göreve başladıkları tarih esas alınır. Aynı gün göreve başlayan müfettiş yardımcıları arasında ise giriş sınavındaki başarı derecesine göre kıdem belirlenir. Bu kıdem, müfettiş yardımcılığı süresince geçerlidir.

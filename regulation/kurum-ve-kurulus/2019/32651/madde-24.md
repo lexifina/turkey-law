@@ -1,0 +1,5 @@
+Yazılı sınavın değerlendirilmesi
+MADDE 24 – (1) Yazılı sınav, sınav kurulunca veya protokol çerçevesinde ilgili kuruluşça değerlendirilir. Her konu grubu için tam not 100’dür.
+(2) Yazılı sınavın protokol çerçevesinde düzenlenmesi durumunda; sınav kâğıtları değerlendirildikten ve en yüksek not alandan başlanmak üzere adaylar sıraya konularak başarı listesi oluşturulduktan sonra, sınav dokümanı bir tutanak ile Başkanlığa iletilir. Başkanlıkça da sınav kuruluna ulaştırılır.
+(3) Yazılı sınavın sınav kurulunca gerçekleştirilmesi durumunda ise; değerlendirilen cevap kâğıtlarında verilen not rakam ve yazı ile belirtilir. Bütün kâğıtlar değerlendirildikten sonra kapalı isim yerleri açılır, en yüksek not alandan başlanmak üzere adaylar sıraya konularak yazılı sınav sonuç listesi hazırlanır ve sınav kurulunca imzalanır.
+(4) Yazılı sınavda başarılı sayılabilmek için her konu grubundan alınan notun 100 tam puan üzerinden 60’tan ve bu notlar ortalamasının 70’ten, yabancı dil notunun 50’den aşağı olmaması gerekir.

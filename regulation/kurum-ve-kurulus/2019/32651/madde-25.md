@@ -1,0 +1,3 @@
+Yazılı sınav sonuçlarının ilânı ve bildirilmesi
+MADDE 25 – (1) Yazılı sınavda başarılı olanlardan, en yüksek notu alan adaydan başlamak üzere, sınav ilanında belirtilen atama yapılacak kadro sayısının 4 katı kadar aday, sözlü sınava girmeye hak kazanır. Davet edilecek en son sıradaki adayla aynı puandaki adaylar da sözlü sınava davet edilir.
+(2) Sözlü sınava girmeye hak kazananların başarı sırasını ve sözlü sınavın yerini, gününü ve saatini gösterir liste, Bakanlık binası ve uygun görülecek diğer yerlerde asılmak ve Bakanlığın internet sitesinde ilan edilmek suretiyle duyurulur. Sözlü sınav yeri, günü ve saati, ilgililerin aday başvuru formunda belirttikleri adreslerine taahhütlü posta ile de bildirilir.

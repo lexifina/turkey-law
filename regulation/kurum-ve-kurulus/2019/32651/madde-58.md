@@ -1,0 +1,3 @@
+İhbar, şikâyet ve dilekçelerin değerlendirilmesi
+MADDE 58 – (1) Başkanlığa intikal eden ihbar, şikâyet ve dilekçelerden mahallinde sonuçlandırılması mümkün görülenler; öncelikle ilgili merkez veya taşra birimlerine, bağlı kuruluşlara ya da valiliklere gönderilebilir.
+(2) Rehberlik ve Teftiş Başkanlığınca bu şekilde intikal ettirilen ya da başka yollardan taraflarına ulaşan ihbar, şikâyet ve dilekçelerden merkez veya taşra birimlerince, bağlı kuruluşlarca veya valiliklerce incelenip soruşturulmalarında müfettişlik bilgi ve yeteneği ile teftiş yöntem ve tekniklerinin kullanılması gerekli görülen konular Başkanlığa iletilir.

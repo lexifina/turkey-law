@@ -1,0 +1,4 @@
+Giriş sınavı sonucunun belirlenmesi
+MADDE 27 – (1) Müfettiş yardımcılığı giriş sınavının sonucu, yazılı ve sözlü sınav notlarının ortalaması alınarak saptanır.
+(2) İlânda belirtilen bölüm mezunlarının her biri için öngörülen kontenjanın aşılmaması kaydı ile sınavda başarılı olanlardan, atama yapılacak kadro sayısı kadar aday, başarı sıralamasındaki önceliğe göre asıl aday olarak, sıralamada asıl adaylardan sonra, giriş sınavı duyurusunda belirtilen müfettiş yardımcısı kadro sayısının yarısını geçmemek üzere belirlenen sayıdaki aday da yedek aday olarak kabul edilir. Yedek adaylar açısından sınav sonuçları kazanılmış hak sayılmaz.
+(3) Adayların giriş sınav notunun eşitliği halinde; yazılı sınav notu yüksek olan, yazılı sınav notlarının eşitliği halinde, yabancı dil puanı yüksek olan adaya sıralamada öncelik verilir.

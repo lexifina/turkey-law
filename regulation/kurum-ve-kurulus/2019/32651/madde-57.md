@@ -1,0 +1,2 @@
+Memur olmayanların suça iştirakleri
+MADDE 57 – (1) Memur olmayan kişilerin memurlarca işlenen suça iştiraklerinin tespit edilmesi hâlinde, yargılanmaları memurlar ile birlikte yapılmak üzere bunlar ile ilgili hususlar ayrılarak, haklarında genel hükümlere göre kovuşturma yapılması için Başkanlık aracılığı ile yetkili Cumhuriyet Başsavcılığına bildirilir. Bu durum, memurlar hakkında düzenlenen ön inceleme raporunda da belirtilir.

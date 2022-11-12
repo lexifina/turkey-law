@@ -1,0 +1,2 @@
+Başarı sırası
+MADDE 46 – (1) Sözlü sınavda başarılı olan müfettiş yardımcılarının yazılı ve sözlü sınav notlarının aritmetik ortalamaları alınır. En yüksek not alandan başlanmak üzere adaylar sıraya konularak yeterlik sınavı başarı listesi hazırlanır ve yeterlik sınav kurulunca imzalanır. Yeterlik sınav notunun eşitliği hâlinde, yazılı sınav notu ortalamasına bakılır ve yazılı sınav notunda da eşitlik olması halinde müfettiş yardımcılığı kıdemi üstün olana sıralamada öncelik verilir.

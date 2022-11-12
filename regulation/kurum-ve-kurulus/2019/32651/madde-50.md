@@ -1,0 +1,7 @@
+Müfettişlik kıdemi
+MADDE 50 – (1) Müfettiş yardımcılığı kıdem sırası, göreve başladıkları tarihe göre saptanır. Aynı gün göreve başlayan müfettiş yardımcıları arasında ise giriş sınavındaki başarı derecesi kıdem sıralamasında esas alınır.
+(2) Müfettişlik kıdem sırası, müfettişliğe atanma tarihi ile yeterlik sınavındaki başarı derecelerine göre saptanır. Ancak 37 nci maddenin üçüncü ve dördüncü fıkralarında belirtilen nedenlerle kendi dönemlerinden sonra yeterlik sınavına giren müfettiş yardımcıları kıdem bakımından dönemlerinin sonuna alınırlar.
+(3) (Değişik:RG-12/11/2022-32011) Başmüfettişlerin kıdem sırası, müfettişlik kıdemine göre belirlenir.
+(4) (Değişik:RG-12/11/2022-32011) Müfettişliğe yarışma sınavı olmadan ve/veya yeterlik almadan atananların denetim hizmetleri dışında geçen hizmet sürelerinin yarısı, denetim mesleğinde geçen sürelerin tamamı; Başkanlığa, 3 sayılı Cumhurbaşkanlığı Kararnamesinin 6 ncı maddesi uyarınca atananlardan yeterlik sınavında başarı göstermek suretiyle müfettiş, kontrolör, denetçi, denetmen unvanlarından birini iktisap edenlerin denetim mesleğinde geçen süreleri ile üst kademe kamu yöneticiliklerinde geçen sürelerinin tamamı, denetim mesleğinde olmayanların ise hizmet sürelerinin yarısı denetim meslek kıdeminden sayılır.
+(5) Müfettişlik görevinden herhangi bir nedenle ayrılanlardan müfettişliğe dönenler, kıdem bakımından dönemlerinin sonuna alınırlar.
+(6) Başkanlık yaptıktan sonra müfettişliğe dönenler, dönemlerinin en kıdemlisi sayılırlar.

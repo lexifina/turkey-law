@@ -1,0 +1,3 @@
+Müfettişlik güvencesi
+MADDE 51 – (1) Açık olan maddi ve hukuki durumun bilerek değiştirilmesi veya başka türlü gösterilmesi, kin ve garez ile hareket edilmesi, bilgi ve belgelerin gizlenmesi gibi haller hariç olmak üzere müfettişler, düzenledikleri raporlardaki kanaat ve teklifleri sebebiyle sorumlu tutulamazlar.
+(2) Müfettişler; istekleri dışında veya teftiş hizmetlerinin gerekleri ile bağdaşmayan sıhhî, ahlaki veya meslekî yetersizlikleri tespit edilmedikçe görevden alınamaz ve diğer idarî ve meslekî görevlere atanamazlar. Sıhhi, ahlaki veya mesleki yetersizlik hallerinin; yargı kararı, sağlık kurulu raporu, müfettiş raporu gibi belgeler ile tevsiki esastır.
