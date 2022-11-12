@@ -1,0 +1,3 @@
+Yeterlik Belgesi
+Madde 10 — Bu Yönetmelikte tanımlanan planların Bakanlık dışında hazırlanması halinde plan müellifinin (yükleniciler, kamu kurum ve kuruluşları ve akademik kuruluşlar için) İmar Planlarının Yapımını Yüklenecek Müellif ve Müellif Kuruluşların Yeterlilik Yönetmeliğinde belirtilen grupta yeterlilik belgesine sahip olması gerekir.
+Bunun yanısıra planlama grubunda yer alması gereken uzmanların asgari meslek disiplinleri ve tecrübe düzeyleri, planların yapılacağı yöre ve bölgenin kapsam ve niteliğine göre Bakanlıkça belirlenir. Planlama yarışmaları sonucunda yapılan ihaleler bu hükümler dışındadır. Planın veya plan değişikliğinin Bakanlıkça onaylanmış olması, plan müellifinin sorumluluğunu ortadan kaldırmaz.

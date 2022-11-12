@@ -1,0 +1,68 @@
+{
+  "source_id": "7.5.5392",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KÜLTÜR VE TURİZM KORUMA VE GELİŞİM BÖLGELERİNDE VE TURİZM MERKEZLERİNDE PLANLAMAYA VE UYGULAMAYA İLİŞKİN YÖNETMELİK",
+  "number": "5392",
+  "issuer": "Kültür ve Turizm Bakanı",
+  "issuer_slug": "kultur-ve-turizm-bakani",
+  "path": "regulation/kultur-ve-turizm-bakani/2003/5392",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=5392&MevzuatTertip=5",
+  "source_sha256": "5557391068e4d2b1b4c8606636e326d055f341be20ba4ae8079cdd956838fdcd",
+  "source_bytes": 106118,
+  "published": "2003-11-03",
+  "gazette": "25278",
+  "in_force": "2022-11-12",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-12/11/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-11-12",
+      "RG-12/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-12",
+      "12/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2021-01-14",
+      "RG-14/1/2021",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2021-01-14",
+      "14/1/2021",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-08-14",
+      "RG-14/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2020-08-14",
+      "14/8/2020",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2020-08-08",
+      "RG-8/8/2020",
+      "Resmî Gazete date printed in the source amendment note"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik, Resmî Gazetefde yayımı tarihinden itibaren yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4239,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

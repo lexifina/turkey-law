@@ -1,0 +1,2 @@
+Tekliflerin İncelenmesi (Değişik başlık:RG-8/8/2020-31207)
+Madde 8 — (Mülga cümle:RG-8/8/2020-31207) (c) Bakanlıkça, planlama alanında stratejik kararlara esas teşkil edecek değerlendirmelerin yapılmasına imkan verecek şekilde hazırlanmamış bir ön araştırmanın yenilenmesi veya eksiklerinin tamamlanması istenebilir. Ön araştırma safhası uygun bulanan plan ve/veya plan değişikliği teklifi plan araştırma raporunun ilke, hedef ve kararları ile plan açıklama raporu ve ilgili kurum ve kuruluş görüşleri esas alınarak incelenir.

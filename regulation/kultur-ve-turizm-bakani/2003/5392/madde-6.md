@@ -1,0 +1,4 @@
+Tekliflerin Bakanlığa Sunulması (Değişik başlık:RG-8/8/2020-31207)
+Madde 6 — Bu Yönetmeliğin kapsamı içinde bulunan yerlerde kamu kurum ve kuruluşları ile gerçek ve tüzel kişiler de gerekçeleri ile birlikte bu Yönetmelikte tanımlanan her ölçekte plan veya plan değişikliği Bakanlığa teklif edebilir. (Mülga cümle:RG-12/11/2022-32011) (Mülga cümle:RG-14/1/2021-31364) (…)
+(Ek fıkra:RG-12/11/2022-32011) Kültür ve Turizm Koruma ve Gelişim Bölgeleri ve Turizm Merkezleri içinde yer alan korunan alanlarda her ölçekteki plan teklifleri sadece Bakanlığa sunulur. Bu alanlarda, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından plan hazırlanması veya hazırlattırılması durumunda; Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca yapılacak onamaya esas olmak üzere Bakanlığın uygun görüşü alınır.
+(Ek fıkra:RG-12/11/2022-32011) Bakanlığa sunulacak tekliflere ilişkin usul ve esaslar Bakanlıkça belirlenir.

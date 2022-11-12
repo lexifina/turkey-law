@@ -1,0 +1,3 @@
+Kıyı Yapıları
+Madde 18 — (Değişik:RG-12/11/2022-32011)
+Bu Yönetmeliğin kapsamı içinde bulunan yerlerde 3621 sayılı Kanun ve ilgili mevzuatı kapsamında kalan deniz, göl ve akarsularda doldurma ve kurutma suretiyle kazanılan arazilere ilişkin her ölçekte imar planları 2634 sayılı Kanunun 7 nci maddesi uyarınca Bakanlıkça onaylanır. İmar planı teklifleri ve ilgili kurum görüşleri için 3621 sayılı Kanun ve 3/8/1990 tarihli ve 20594 sayılı Resmî Gazete’de yayımlanan Kıyı Kanununun Uygulanmasına Dair Yönetmelik ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından belirlenen usullere uyulur.
