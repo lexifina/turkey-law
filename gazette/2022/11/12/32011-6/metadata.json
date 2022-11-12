@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-11-12",
+  "issue": "32011",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "Hayvancılık Desteklemeleri Uygulama Tebliği (No: 2022/36)",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/11/20221112-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/11/20221112.htm",
+  "index_sha256": "bd9aa9061f801bd01f7ce163c227a944aa6fb17117fa948eda90a908b0b68735",
+  "index_header": "12 Kasım 2022 ... 32011 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/11/20221112.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
