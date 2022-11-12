@@ -1,0 +1,5 @@
+Tapu kayıt örneklerinin çıkarılması
+MADDE 8 – (1) (Değişik:RG-25/10/2018-30576) Kadastro müdürü, kadastro güncelleme alanında çalışmalara başlamadan önce, uygulama yapılacak taşınmazlara ait tapu kayıtlarının çıkarılması için personel görevlendirir.
+(2) (Değişik:RG-25/10/2018-30576) Kadastro güncelleme alanındaki taşınmazların, tapu ve kat mülkiyeti kütüğü ile özel sicilindeki ili, ilçesi, mahallesi, köyü, mevki, pafta, ada ve parsel numarası, maliki ve payı, niteliği, yüzölçümü, edinme sebebi ve varsa muhdesat ile irtifak haklarını da içerecek şekilde kayıtları çıkarılır veya elektronik ortamda çıktısı alınır. Tapu ve Kadastro Bilgi Sistemi “TAKBİS” ve tapu kütüğü arasında tespit edilen uyumsuzluklar listelenerek resen düzeltilmek üzere tapu müdürlüğüne gönderilir.
+(3) Ayrıca kadastro müdürlüğünce, çıkarılan bu kayıtların fen klasörü ve paftasıyla karşılaştırması yapılarak birbirine uygunluğu sağlanır.
+(4) Bu kayıt örneklerinin aslına uygunluğu ve başkaca çıkarılması gereken kayıt bulunmadığı hususu belirtilerek, kaydı çıkaran, kontrol eden, fen klasörü ve paftasıyla karşılaştırmayı yapan görevliler tarafından imzalanır.

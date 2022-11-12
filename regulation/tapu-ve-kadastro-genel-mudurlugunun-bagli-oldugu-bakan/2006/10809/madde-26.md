@@ -1,0 +1,3 @@
+Diğer kişilerin bilgilerine başvurma
+MADDE 26 – (Değişik :RG-25/10/2018-30576)
+(1) Kadastro teknisyenleri, muhtar ve bilirkişilerin bilgi ve beyanları ile kanaate varamadıkları takdirde, nedeni tutanakta açıkça gösterilmek şartı ile diğer kimselerin de bilgi ve tanıklığına başvurabilirler. Muhtar ve bilirkişilerin bilgi ve beyanları ile sınırlandırma yapılamaması halinde, sınırlandırmaların kayıt ve belgelere dayandırılması, sebeplerinin kadastro güncelleme tutanağında açıklanması gerekir. Muhtar ve bilirkişilerin muhalif olmaları durumunda muhalefet şerhi yazılarak imzaları alınır. Kadastro güncelleme tutanağını imzalamaktan kaçınmaları durumunda ise bu husus tutanağın uygun bir yerinde belirtilerek diğer hazır bulunanlarca imzalanır.

@@ -1,0 +1,4 @@
+Kadastro güncelleme tutanaklarının imzalanması (Değişik Başlık:RG-25/10/2018-30576)
+MADDE 30 – (1) (Değişik ibare:RG-25/10/2018-30576) Kadastro güncelleme alanındaki çalışmaların bitiminden evvel, tutanakların bütün sütunlarının eksiksiz doldurulup doldurulmadığı kadastro üyesi tarafından incelenip, varsa görülen noksanlıklar ilgili teknisyenlere tamamlattırılır ve bu incelemenin yapıldığı tutanağın ilgili sütununda belirtilerek imzalanır.
+(2) Bu işlemin yerine getirilmesinden, kadastro üyesi ve kadastro müdürü birlikte sorumludur.
+(3) (Ek:RG-25/10/2018-30576) Çalışmalar tamamlandığında sonuçları, askı ilan cetveli formatında pafta örnekleri ile birlikte 15 gün boyunca kadastro müdürlüğünde, taşınmaz malların bulunduğu köy veya mahalle muhtarının çalışma yerinde ve ayrıca, belediye teşkilatı varsa belediye başkanının göstereceği yerde bilgilendirme ilanı ile duyurulur.

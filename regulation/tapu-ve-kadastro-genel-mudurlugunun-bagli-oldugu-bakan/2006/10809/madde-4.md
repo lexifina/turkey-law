@@ -1,0 +1,25 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte yer alan;
+a) Belirsiz sınır: Dengeleme plânına göre oluşturulan sınırı,
+b) Bölge Müdürlüğü: Tapu ve Kadastro Bölge Müdürlüğünü,
+c) Çalışma alanı: Kadastro bölgesindeki her köy ile belediye sınırları içinde bulunan mahallelerin her birini,
+ç) Çekişmeli sınır: Taraflar arasında uyuşmazlık konusu olan sınırı,
+d) Değişebilir sınır: Sabit olmayan ve genişletilmeye elverişli nitelikteki sınırı,
+e) Dengeleme plânı: Zeminde bulunmayan ve teknik belgelerine göre de oluşturulamayan parsel sınırlarını belirlemek üzere uygulama sonucu oluşacak harita üzerinden yapılan düzenlemeyi,
+f) Deprem sonrası oluşan sınır: Depremin taşınmazların geometrik şekil ve konumlarında meydana getirdiği değişiklik sebebiyle zeminde oluşan ve taşınmazların deprem öncesi ilgilileri tarafından çekişmesiz kullanılan, bilirkişi beyanları ve teknik belgeleri yardımı ile belirlenen sınırı,
+g) Eksikliği görülme: Paftadaki bilgilerin okunamaz durumda olması ve bu bilgilerin orijinal belgelerinden de elde edilememesini veya bilgilerin yetersiz olmasını,
+ğ) Geçerli sayılabilecek sınır: Dış sınırları çekişmesiz olarak belirlenen bir alan içindeki taşınmaz malikleri ile diğer ilgililerin uyuşmazlık çıkarmadan kullanma biçimine göre oluşturdukları sınırı,
+h) (Değişik:RG-25/10/2018-30576) Geçerli sınır: Paftası ile teknik belgelerinde hata bulunmaması halinde bu belgelere göre oluşturulan sınırı veya paftası ile teknik belgelerinde hata bulunması halinde hatanın pafta tersimatı ve/veya hesaplama hatasından kaynaklanıyor ise, bu hataları giderildikten sonra teknik belgelerine göre oluşturulan sınırı,
+ı) Genel Müdürlük: Tapu ve Kadastro Genel Müdürlüğünü,
+i) Kadastro bölgesi: İlin merkez ilçesi ile diğer ilçelerinden her birini,
+j) Kadastro teknik mevzuatı: Genel Müdürlükçe, teknik konularda uygulanmakta olan mevzuatı,
+k) Pafta: Tapulama, kadastro veya değişiklik işlemleri sonucu oluşturulan haritaların her birini,
+l) Sabit sınır: Zeminde mevcut olup kadastro, tapulama, değişiklik belgeleri veya bilirkişi beyanlarına göre değişmediği belirlenen çekişmesiz sınırı,
+m) Teknik nedenlerle yetersiz kalma: Paftanın yapım tekniğinin, teknik yönetmelikte öngörülen hassasiyeti sağlamamasını,
+n) Teknik yönetmelik: 15/7/2005 tarihli ve 25876 sayılı Resmî Gazete’de yayımlanan Büyük Ölçekli Harita ve Harita Bilgileri Üretim Yönetmeliğini ile 31/1/1988 tarihli ve 19711 sayılı Resmî Gazete’de yayımlanan Büyük Ölçekli Harita Yapım Yönetmeliğini,
+o) (Değişik:RG-25/10/2018-30576) Kadastro güncelleme alanı: Paftaların, bu Yönetmelik kapsamında uygulamaya tâbi tutulacak olan en az bir mevki veya ada bazındaki bölümünü veya en az dış sınırları teknik belgeleriyle uyumlu sabit ve/veya geçerli sınırla çevrili parsel grubundan oluşan bölümünü,
+ö) (Değişik:RG-25/10/2018-30576) Kadastro güncelleme ekibi: 3402 sayılı Kanunun 3 üncü maddesine göre oluşturulan ekibi,
+p) Uygulama niteliğini kaybetme: Paftanın veya dayanağı olan bilgi ve belgelerin zemine uygulama kabiliyetinin bulunmamasını,
+r) (Mülga:RG-25/10/2018-30576)
+s) Zemindeki sınırları gerçeğe uygun göstermeme: Yapım tekniği ve uygulama niteliği yeterli olan paftalarda; hatalı sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan sebeplerle paftalardaki sınırlar ile kadastro sırasında belirlenen ve zeminde değişmemiş sınırlar arasında yanılma sınırını aşan farkların bulunmasını,
+ifade eder.

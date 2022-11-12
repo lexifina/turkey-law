@@ -1,0 +1,5 @@
+Kadastro güncelleme ada ve mevki ilânı
+MADDE 13 – (Başlığı ile Birlikte Değişik:RG-25/10/2018-30576)
+(1) Kadastro teknisyenleri, kadastro güncelleme alanını mevki veya ada durumlarına göre kısımlara ayırarak bir iş programı düzenler. Hangi mevki veya adada çalışmaya başlanacağını en az yedi gün önceden alışılmış vasıtalarla ilgili köy veya mahallede Ek-2 düzenlenmek suretiyle ilân ettirir.
+(2) İlânda; uygulama yapılacak mevki ve ada açık olarak gösterilir. Ayrıca, taşınmaz maliklerinin ilânda belirtilen günde taşınmazlarının başında hazır bulunarak, sınırlarını göstermeleri, gelmemeleri veya temsilci göndermemeleri halinde sınırlandırmanın gıyaplarında yapılacağı, itirazların kadastro güncelleme alanındaki faaliyetler sırasında yapılabileceği ve benzeri hususlar belirtilir. İlânın yapıldığına dair Ek–3 düzenlenir.
+(3) İlânı yapılan mevki veya adada uygulama işlemleri ilân edilen günde ikmal edilmediği takdirde, ayrıca bir ilâna gerek kalmaksızın bunu takip eden günlerde de çalışmalara devam edilir. Kadastro güncelleme çalışmalarına üç aydan fazla ara verilmesi halinde bu ilân yenilenir.

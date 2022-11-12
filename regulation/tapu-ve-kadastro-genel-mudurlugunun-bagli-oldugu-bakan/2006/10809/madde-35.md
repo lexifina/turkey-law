@@ -1,0 +1,2 @@
+Askı ilânı süresinde açılan davalar
+MADDE 35 – (1) (Değişik ibare:RG-25/10/2018-30576) Bu Yönetmelik kapsamında yapılan çalışmalara karşı, askı ilânı süresi içerisinde kadastro mahkemesinde dava açmak suretiyle itiraz edilebilir. Dava açılan taşınmazların tutanakları kesinleştirilmez. Bu parsellere ait tutanakların tasdikli örnekleri müdürlükte bırakılmak suretiyle asılları ile pafta ve ada raporunun tasdikli birer örnekleri kadastro mahkemesine gönderilir.

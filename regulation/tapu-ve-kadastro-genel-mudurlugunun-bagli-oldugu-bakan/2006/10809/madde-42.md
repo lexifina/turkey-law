@@ -1,0 +1,3 @@
+Tutanak ve matbu belgelerin düzenlenmesi ve değiştirilmesi
+MADDE 42 – (1) – (Değişik ibare:RG-25/10/2018-30576) Bu Yönetmelik kapsamında yapılan kadastro güncelleme çalışmalarında, bu Yönetmelikte belirtilen tutanak ve matbu belgeler kullanılır. Ancak, bu tutanak ve belgelerin şekil ve içeriğinde Genel Müdürlükçe değişiklik yapılabilir. İzin verilmedikçe, belgeler diğer gerçek ve tüzel kişilerce basılamaz ve kullanılamaz.
+(2) Tapu kütüğü, tutanak ve matbu belgeler, kalıcı siyah veya mavi mürekkeple ya da şekil ve içeriğinde değişiklik yapılmamak kaydıyla elektronik ortamda nokta vuruşlu yazıcılarla oluşturulabilir.

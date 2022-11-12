@@ -1,0 +1,3 @@
+Kapsam
+MADDE 2 – (Değişik:RG-25/10/2018-30576)
+(1) Bu Yönetmelik, tapulama, kadastro veya değişiklik işlemlerine ilişkin; sınırlandırma, ölçü, çizim ve hesaplamalardan kaynaklanan hataları gidermek üzere uygulama niteliğini kaybeden, teknik nedenlerle yetersiz kalan, eksikliği görülen veya zemindeki sınırları gerçeğe uygun göstermediği tespit edilen kadastro haritalarının tekrar düzenlenmesi ve tapu sicilinde gerekli düzeltmelerin yapılmasında uyulacak usul ve esasları ve 3402 sayılı Kanunun ek 1 inci maddesine göre sayısallaştırma çalışmaları yapılacak köy ve mahalle birimlerinde, bu Yönetmeliğe göre işlemlere tabi tutulması gereken parsellerin çalışmaları ile 3402 sayılı Kanunun geçici 8 inci maddesi kapsamındaki çalışmaların birlikte yapılmasının sağlanmasını kapsar.

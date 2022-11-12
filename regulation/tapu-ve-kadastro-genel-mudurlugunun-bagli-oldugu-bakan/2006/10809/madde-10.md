@@ -1,0 +1,2 @@
+Yararlanılabilecek teknik belgeler
+MADDE 10 – (1) Kadastro müdürlüğünde mevcut teknik belgelere ek olarak varsa; (Değişik ibare:RG-25/10/2018-30576) kadastro güncelleme alanına ait üretilmiş standart topoğrafik fotogrametrik haritalar, orman kadastro haritası ve tutanakları, başka amaçlarla değişik yöntemlerle üretilmiş haritalar, hava fotoğrafları ile diğer belgeler temin edilerek çalışmalarda değerlendirmeye alınır.

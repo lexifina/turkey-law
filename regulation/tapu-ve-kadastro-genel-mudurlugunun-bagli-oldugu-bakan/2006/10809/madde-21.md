@@ -1,0 +1,3 @@
+Dengeleme plânı
+MADDE 21 – (Değişik ibare:RG-25/10/2018-30576)
+(1) Sabit, geçerli, geçerli sayılabilecek ve/veya deprem sonrası oluşan sınırlarla çevrili bir alan içinde kalıpta sınırları belirlenemeyen parseller topluluğu, bir bütün olarak ele alınarak yüzölçümü hesaplanır. Hesaplanan yüzölçümü ile bu alandaki parsellerin tapuda kayıtlı veya kontrol sonucu bulunan yüzölçümleri toplamı karşılaştırılır. Aradaki fark, parsellerin yüzölçümleri ile orantılı olarak dağıtılır ve çalışmalara ilişkin Ek-4 düzenlenir. Dağıtım sonucu bulunan yüzölçümlerine göre yeni sınırlar; parsellerin kullanım şekli, yapı ve tesislerin durumları da dikkate alınarak oluşturulur.

@@ -1,0 +1,4 @@
+Eski paftaların geçersiz sayılması
+MADDE 37 – (1) (Değişik:RG-25/10/2018-30576) Paftanın bu Yönetmelik kapsamında yapılan çalışmalara tabi tutulan bölümü özel mürekkeple tarandıktan sonra taralı kısmın içine, "Bu bölüm yerine, 3402 sayılı Kanunun 22 nci maddesi kapsamında kadastro güncelleme çalışmaları sonucu ...... no’lu pafta veya paftalar açılmıştır."; tamamı bu Yönetmelik kapsamında yapılan çalışmalara tabi tutulan paftaya ise "Bu pafta, 3402 sayılı Kanunun 22 nci maddesi kapsamında kadastro güncelleme çalışmaları sonucu .......... no’lu paftanın veya paftaların düzenlenmesi nedeniyle geçersizdir." şeklinde belirtme yapılarak kontrol mühendisince imzalanır ve kadastro müdürü tarafından onaylanır.
+(2) Fen klasörü yeniden düzenlenir veya mevcut fen klasörü üzerinde gerekli düzeltmeler yapılır.
+(3) Geçersiz kalan paftalar ve teknik belgeler ayrıca muhafaza edilir.
