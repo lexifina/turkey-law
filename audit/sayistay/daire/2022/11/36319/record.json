@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "885",
+  "decision_date": "2022-11-15",
+  "source_id": 36319,
+  "chamber": "6",
+  "ilam_number": "441",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2013,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36319/",
+  "source_sha256": "0dcbac06507000808c675561261dc694193fb8bfa45e165d122dba38421ced6c",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
