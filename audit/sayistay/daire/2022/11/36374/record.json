@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 7. Dairesi",
+  "number": "549",
+  "decision_date": "2022-11-15",
+  "source_id": 36374,
+  "chamber": "7",
+  "ilam_number": "21",
+  "item_number": 1,
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36374/",
+  "source_sha256": "91c3cec7ff7979222a87f7c427a6f04ae3a2e0ca7c99594e8ae3957f92dee5e8",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
