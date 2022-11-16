@@ -1,0 +1,63 @@
+{
+  "source_id": "7.5.24291",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TOPRAK MAHSULLERİ OFİSİ GENEL MÜDÜRLÜĞÜNÜN 4734 SAYILI KAMU İHALE KANUNUNUN 3 ÜNCÜ MADDESİNİN (G) BENDİ KAPSAMINDA YAPACAĞI MAL VE HİZMET ALIMI İHALELERİNDE UYGULANACAK USUL VE ESASLAR HAKKINDA YÖNETMELİK",
+  "number": "24291",
+  "issuer": "Toprak Mahsulleri Ofisi Genel Müdürü",
+  "issuer_slug": "toprak-mahsulleri-ofisi-genel-muduru",
+  "path": "regulation/toprak-mahsulleri-ofisi-genel-muduru/2018/24291",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=24291&MevzuatTertip=5",
+  "source_sha256": "f0e906774a80b65fdd37c87f5289ade581107ac389ffe9964fa228a2fde786e1",
+  "source_bytes": 122391,
+  "published": "2018-01-04",
+  "gazette": "30291",
+  "in_force": "2022-11-16",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-16/11/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-11-16",
+      "RG-16/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-16",
+      "16/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-08-04",
+      "RG-4/8/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-08-04",
+      "4/8/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-05-28",
+      "RG-28/5/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-05-28",
+      "28/5/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 6185,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
