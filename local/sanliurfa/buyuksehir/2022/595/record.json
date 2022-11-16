@@ -1,0 +1,24 @@
+{
+  "number": "595",
+  "number_as_published": "595",
+  "year": 2022,
+  "title": "Nazım İmar Planı Değişikliği (Akçakale-Hırbetilşıddo)",
+  "decision_date": "2022-11-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/14887/106/nazim-imar-plani-degisikligi-akcakale-hirbetilsiddo",
+  "official_document": null,
+  "source_sha256": "52d29eca3d0d9384fc10097523279a5058a54b9ff584f53e91cbff37d977b92a",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-11-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.11.2022 tarih ve 595 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2022-12-19",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
