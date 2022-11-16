@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "90792880-155.01.05.02[251]-529373",
+  "source_id": 21391,
+  "date": "2022-11-16",
+  "title": "Yurt dışından temsilciliğe döviz olarak yapılan ücretin gelir ve damga vergilerinden istisna edilip edilmeyeceği",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21391",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "b05220b170512e6bffea0aca052db24f8d9b1e94a6cef2277b949ad7bc8a7db9",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
