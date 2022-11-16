@@ -1,0 +1,24 @@
+{
+  "number": "593",
+  "number_as_published": "593",
+  "year": 2022,
+  "title": "Koruma Amaçlı Nazım İmar Planı Değişikliği (Eyyübiye-Türkmeydanı)",
+  "decision_date": "2022-11-16",
+  "source": "https://www.sanliurfa.bel.tr/icerik/15094/106/koruma-amacli-nazim-imar-plani-degisikligi-eyyubiye-turkmeydani",
+  "official_document": null,
+  "source_sha256": "a9d9408691148cf288e32f329fe5b89c66158226ee1adf4f0e71aeec5ac3d585",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-11-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16.11.2022 tarih ve 593 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2023-01-23",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
