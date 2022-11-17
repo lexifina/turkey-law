@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11391",
+  "decision_date": "2022-11-17",
+  "title": "Depolamalı üretim uygulama Kurul Kararına ilişkin",
+  "resmi_gazete_date": "2022-11-19",
+  "resmi_gazete_number": "32018",
+  "categories": [
+    "Başvuru"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c7CMKUdlznE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=c7CMKUdlznE="
+  ],
+  "source_sha256": "002e9735dc1335e0b8a22d338e4ef28fb018a5ae10c2d495fb6994610f3ed531",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33883,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-17",
+  "law_text_complete": true
+}
