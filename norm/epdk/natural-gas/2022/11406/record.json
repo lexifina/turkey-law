@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "natural-gas",
+  "document_type": "board-decision",
+  "number": "11406",
+  "decision_date": "2022-11-17",
+  "title": "Bahçeşehir Gaz Dağıtım Anonim Şirketi’nin (Şirket) üçüncü tarife uygulama dönemi perakende satış tarifelerine yönelik",
+  "resmi_gazete_date": "2022-11-19",
+  "resmi_gazete_number": "32018",
+  "categories": [
+    "Şirket Bazında Kararlar"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0SEq6vzjZVw=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=0SEq6vzjZVw=",
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=ocM2BOx2uzw="
+  ],
+  "source_sha256": "43cf41023434030bf0981f57fbd8f4695fe5d30853d3411882db3f8f1e2bc81a",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-19/kurul-kararlari",
+  "official_list_leaf": 7236,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-17",
+  "law_text_complete": true
+}
