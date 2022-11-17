@@ -1,0 +1,2 @@
+Dayanak
+MADDE 2- (1) Bu Tebliğ, 10/12/2007 tarihli ve 2007/13012 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmeliğin 26/A maddesi ile 16/9/2008 tarihli ve 26999 sayılı Resmî Gazete’de yayımlanan Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmeliğin 13 üncü maddesine dayanılarak hazırlanmıştır.

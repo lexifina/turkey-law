@@ -1,0 +1,14 @@
+İKİNCİ BÖLÜM
+Kamusal Nüfuz Sahibi Kişiler Bakımından Alınacak
+Sıkılaştırılmış Tedbirlere İlişkin Usul ve Esaslar
+Kamusal nüfuz sahibi kişiler bakımından alınacak tedbirler
+MADDE 4- (1) Finansal kuruluşlar, finansal olmayan belirli iş ve meslekler ile kripto varlık hizmet sağlayıcılar, müşterinin ya da gerçek faydalanıcının kamusal nüfuz sahibi kişi olup olmadığının belirlenmesi amacıyla makul tedbirleri alır.
+(2) Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmeliğin 4 üncü maddesinin birinci fıkrası uyarınca uyum programı oluşturacak yükümlülerin risk yönetimi faaliyetleri, yabancı bir ülke tarafından seçilen veya atanan kamusal nüfuz sahibi kişilerin belirlenmesine yönelik tedbirleri de kapsar.
+(3) Yabancı bir ülke tarafından seçilen veya atanan kamusal nüfuz sahibi kişilerle veya bunların eşleri, birinci derecede akrabaları ya da yakınları ile tesis edilen iş ilişkilerinde ve gerçekleştirilen işlemlerde birinci fıkrada belirtilen yükümlülerce asgari olarak aşağıdaki tedbirler uygulanır:
+a) İş ilişkisi tesisini, mevcut iş ilişkisinin sürdürülmesini ya da işlemin gerçekleştirilmesini üst seviyedeki görevlinin onayına bağlamak.
+b) Bu kişilere ait veya işleme konu malvarlıkları ve fonların kaynağının tespiti için makul tedbirler almak.
+c) Uygulanan kontrollerin sayı ve sıklığını artırmak ve ilave kontrol gerektiren işlem türlerini belirlemek suretiyle iş ilişkisini sıkı gözetim altında tutmak.
+(4) Üçüncü fıkrada yer alan tedbirler, Türkiye tarafından seçilen veya atanan ya da uluslararası kuruluşlarda görev yapan kamusal nüfuz sahibi kişilerle yahut bunların eşleri, birinci derece akrabaları veya yakınları ile tesis edilen iş ilişkisinin ve gerçekleştirilen işlemlerin yüksek riskli olarak değerlendirilmesi durumunda da uygulanır.
+(5) Hayat sigortası poliçesinin lehdarının veya gerçek faydalanıcısının kamusal nüfuz sahibi kişi olup olmadığının belirlenmesi amacıyla, sigorta poliçesine bağlı hak ve alacakların lehdara ödenmesinden önce veya en geç ödeme zamanında makul tedbirler alınır. Buna ilişkin yüksek risk tespit edildiği durumlarda ödeme yapılmadan önce üst yönetim bilgilendirilir ve üçüncü fıkranın (c) bendinde belirtilen tedbirler uygulanır.
+(6) Kamusal nüfuz sahibi kişilerin yakınları ibaresinden, bir çıkar veya amaç birlikteliği olarak değerlendirilebilecek, birinci derece dışındaki akrabalık, nişanlılık, şirket ortaklığı veya şirket çalışanı olmak gibi her türlü sosyal, kültürel veya ekonomik nitelikli yakınlık anlaşılır.
+(7) Kamusal nüfuz sahibi kişilerin görevden ayrılmaları veya bu niteliklerini kaybetmeleri halinde, üçüncü fıkrada belirtilen tedbirlerin uygulanmasına görevden ayrıldıkları veya bu niteliklerini kaybettikleri tarihten itibaren en az bir yıl süreyle devam edilir. Bu kişilerle gerçekleştirilen işlemlerin ya da iş ilişkilerinin risk teşkil etmesi halinde bu süre uzatılabilir.
