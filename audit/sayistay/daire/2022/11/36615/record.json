@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10878",
+  "decision_date": "2022-11-17",
+  "source_id": 36615,
+  "chamber": "1",
+  "ilam_number": "258",
+  "item_number": 1,
+  "public_body_type": "Genel Bütçe Kapsamındaki İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36615/",
+  "source_sha256": "7a22cec927c38c9a920e96a3844f5388973d4500d3e1aa3507801b8e3aaadd5d",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
