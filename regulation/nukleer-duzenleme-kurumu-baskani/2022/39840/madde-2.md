@@ -1,0 +1,6 @@
+Kapsam
+MADDE 2- (1) Bu Yönetmelik, 20/8/1981 tarihli ve 8/3527 sayılı Bakanlar Kurulu Kararıyla onaylanan Türkiye Cumhuriyeti Hükümeti ve Uluslararası Atom Enerjisi Ajansı Arasında Nükleer Silahların Yayılmasının Önlenmesi Andlaşmasına İlişkin Olarak Güvenlik Denetimi Uygulamasına Dair Anlaşma ve 7/6/2001 tarihli ve 2001/2643 sayılı Bakanlar Kurulu Kararıyla onaylanan Nükleer Silahların Yayılmasının Önlenmesi Andlaşmasına İlişkin Olarak Güvenlik Denetiminin Uygulanmasına Dair Türkiye Cumhuriyeti Hükümeti ile Uluslararası Atom Enerjisi Ajansı Arasındaki Anlaşmaya Ek Protokol çerçevesinde; tesisleri ve tesis dışı yerleri; nükleer maddeleri; nükleer yakıt çevrimi için özel olarak tasarımlanmış veya hazırlanmış ekipman ve malzemeleri; nükleer yakıt çevrimine yönelik planları ve araştırma geliştirme faaliyetlerini; kaynak madde çıkarma ve işleme faaliyetleri yapan, nükleer madde bulunduran, kullanan, depolayan, işleyen, üreten, devreden, ithal veya ihraç eden, nükleer yakıt çevrimi için özel olarak tasarımlanmış veya hazırlanmış ekipman ve malzemelerle ilgili faaliyet yürüten gerçek veya tüzel kişileri kapsar.
+(2) Türkiye Cumhuriyeti sınırlarından transit geçirilen;
+a) Nükleer maddeler,
+b) Nükleer yakıt çevrimi için özel olarak tasarımlanmış veya hazırlanmış ekipman ve malzemeler,
+bu Yönetmeliğin kapsamı dışındadır.

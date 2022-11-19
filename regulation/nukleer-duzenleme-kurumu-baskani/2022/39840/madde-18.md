@@ -1,0 +1,3 @@
+İç denetim
+MADDE 18- (1) Yılda en az bir defa nükleer madde sayım ve kontrol sisteminin etkinliğini ve personelin görevlerini uygun şekilde yerine getirip getirmediğini kontrol etmek amacıyla tesis veya tesis dışı yer sorumlusu tarafından iç denetim gerçekleştirilmesi sağlanır. Gerçekleştirilen iç denetim; biçim ve içeriği Kurum tarafından belirlenen iç denetim raporları ile kayıt altına alınır.
+(2) Tesis veya tesis dışı yer sorumlusu, iç denetim sırasında tespit edilen hususlarla ilgili mümkün olan en kısa zamanda düzeltici önlemler alır; varsa tespit edilen hususlara ilişkin düzeltici faaliyetler de dâhil olmak üzere hazırlanan iç denetim raporlarını iç denetimi takip eden otuz gün içerisinde Kuruma sunar.

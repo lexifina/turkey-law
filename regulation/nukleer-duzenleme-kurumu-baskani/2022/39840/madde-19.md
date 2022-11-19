@@ -1,0 +1,8 @@
+UAEA denetim faaliyetleri
+MADDE 19- (1) UAEA, Türkiye’de bulunan tesis veya tesis dışı yerlere GDA ve Ek Protokol kapsamında tasarım bilgisi doğrulaması, fiziksel envanter doğrulaması ve ek erişim faaliyetleri gerçekleştirebilir. Bu faaliyetler, görev ve yetkileri GDA ve Ek Protokolde yer alan esaslara uygun olarak belirlenen UAEA denetçileri tarafından gerçekleştirilir. Denetim faaliyetlerinde UAEA denetçilerine Kurumun denetim görevlisi eşlik eder.
+(2) Kurum, UAEA denetim faaliyetleri ile ilgili bilgi aldıktan sonra denetim tarihini, denetlenecek yerleri ve denetçilerin isimlerini tesis veya tesis dışı yere bildirir.
+(3) UAEA denetim faaliyetleri ile ilgili, erişim prosedürlerine ve denetime tabi olanların sorumluluklarına dair usul ve esaslar Kurum tarafından belirlenir.
+(4) UAEA denetçileri, Ek Protokol hükümleri uyarınca tesis ya da tesis dışı yer kapsamı dışında bulunan yerlere de ek erişim sağlayabilir. Ek erişimlerde UAEA denetçilerine Kurumun denetim görevlisi eşlik eder.
+(5) UAEA denetçilerinin denetim faaliyeti sırasında örnek alması durumunda Kurumun denetim görevlisi de aynı yerlerden örnek alır ve gerek görmeleri durumunda analiz edilmesini sağlar.
+(6) Tesis veya tesis dışı yer sorumlusu tarafından UAEA denetçilerine ve denetim faaliyetine eşlik eden Kurumun denetim görevlisine talep edilmesi durumunda aktif ve/veya pasif dozimetre sağlanır, denetim faaliyeti sırasında maruz kaldıkları radyasyon dozu kayıt altına alınır ve en geç bir ay içerisinde Kuruma yazılı olarak bildirilir.
+(7) Tesis veya tesis dışı yerin nükleer güvence kapsamında fiili sorumluluğu sona ermiş olsa dahi GDA ve Ek Protokol uyarınca UAEA’ya bilgi sağlama yükümlülüğü ve UAEA denetçilerinin erişim hakkı devam eder.
