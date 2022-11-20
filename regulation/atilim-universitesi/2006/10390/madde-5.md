@@ -1,0 +1,5 @@
+İKİNCİ BÖLÜM
+Merkezin Faaliyet Alanları
+Merkezin faaliyet alanı
+MADDE 5 – (Değişik:RG-5/5/2010-27572)
+(1) Merkezin faaliyet alanı; kamu ve özel sektör ile uluslararası kuruluş ve kişilere ihtiyaç duydukları alanlarda eğitim programları planlamak, ulusal ve uluslararası düzeyde kurslar, seminerler, konferanslar ve benzeri çalışmalar düzenlemek, kamu ve özel sektör ile uluslararası kuruluş ve kişilere, marka danışmanlığı, stratejik pazarlama danışmanlığı, yönetim danışmanlığı, kalite sistemleri iyileştirme danışmanlığı, perakende yönetim danışmanlığı, tedarik zinciri yönetimi ve lojistik danışmanlığı, teknik analiz danışmanlığı, ürün tasarımı ve tasarım danışmanlığı, trend, koleksiyon ve moda danışmanlığı, yönetim bilgi sistemleri danışmanlığı ve benzeri danışmanlık hizmetleri vermek ve bu konularda gerekli eğitim programları düzenlemek, görsel, işitsel, uzaktan veya doğrudan eğitim modelleriyle daha geniş kesimlere eğitim verilmesini sağlamak, yurt içindeki ve yurt dışındaki kişi ve kuruluşlarla işbirliği yapmaktır.
