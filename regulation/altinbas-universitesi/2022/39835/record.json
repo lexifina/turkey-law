@@ -1,0 +1,39 @@
+{
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_evidence": [
+    [
+      "2022-11-21",
+      "21.11.2022",
+      "original gazette publication date in official listing"
+    ]
+  ],
+  "date_quote": "MADDE 19- (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+  "first_law": null,
+  "gazette": "32020",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-11-21",
+  "in_force_basis": "source commencement clause: enters into force on gazette publication",
+  "issuer": "Altınbaş Üniversitesi",
+  "issuer_slug": "altinbas-universitesi",
+  "kind": "regulation",
+  "label": "oldest version available",
+  "path": "regulation/altinbas-universitesi/2022/39835",
+  "published": "2022-11-21",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=39835&MevzuatTertip=5",
+  "source_bytes": 54351,
+  "source_id": "8.5.39835",
+  "source_sha256": "573b3aa14466bf992bbc937727f55031ac4e4e38b7d370b7797908d2755c91c8",
+  "text_status": "as-enacted",
+  "title": "ALTINBAŞ ÜNİVERSİTESİ PSİKOLOJİ UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 342,
+  "word_count": 984
+}

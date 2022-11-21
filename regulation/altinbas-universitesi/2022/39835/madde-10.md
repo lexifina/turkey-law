@@ -1,0 +1,6 @@
+Yönetim Kurulu
+MADDE 10- (1) Yönetim Kurulu, Üniversitede çalışmakta olan, psikoloji disiplini dahilinde ve/veya alanla ilişkili akademik ve uygulamalı çalışmalar yürüten öğretim elemanları arasından Müdürün önerisi ve Rektörün oluru ile görevlendirilen beş üyeden oluşur. Yönetim Kurulunun en az üç üyesi, Üniversitenin Psikoloji Bölümünde tam zamanlı olarak çalışmakta olan öğretim elemanlarından oluşur.
+(2) Yönetim Kurulu üyelerinin görev süresi üç yıldır. Görev süresi sona eren üye aynı usulle yeniden görevlendirilebilir.
+(3) Müdür, Yönetim Kurulunun doğal üyesi ve başkanıdır. Müdürün yokluğunda bu göreve, bir Yönetim Kurulu üyesi ve/veya müdür yardımcısı vekâlet edebilir.
+(4) Yönetim Kurulu olağan olarak yılda en az dört kez ve gerektiğinde Müdürün çağrısı üzerine üye tam sayısının salt çoğunluğu ile toplanır. Kararlar oy çokluğu ile alınır. Oyların eşitliği halinde Müdürün oyu yönünde karar alınmış sayılır.
+(5) Görev süresi sona ermeden görevinden ayrılan veya art arda iki toplantıya katılmayan/katılamayan Yönetim Kurulu üyesinin yerine aynı usulle yeni bir üye görevlendirilir. Bu şekilde görevlendirilen yeni üyelerin görev süresi, diğer üyelerin görev süresi tamamlanana kadardır.
