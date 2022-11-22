@@ -1,0 +1,3 @@
+Müdür
+MADDE 8- (1) Müdür, Üniversitede Enstitünün faaliyet alanlarına giren konularda deneyimi olan, Üniversitenin tam zamanlı öğretim elemanları arasından Rektör tarafından üç yıl süreyle atanır. Süresi biten Müdür tekrar atanabilir. Müdür, Üniversitede aynı niteliklere sahip öğretim elemanlarından en çok iki kişiyi üç yıllığına müdür yardımcısı olarak atanmak üzere Rektöre önerir. Müdürün görevi sona erdiğinde müdür yardımcılarının da görevi sona erer.
+(2) Müdür, Enstitünün amaçları doğrultusundaki çalışmaların yürütülmesinden ve gerekli önlemlerin alınmasından Rektöre karşı birinci derecede sorumludur.
