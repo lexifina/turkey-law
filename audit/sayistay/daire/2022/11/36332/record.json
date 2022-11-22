@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "412",
+  "decision_date": "2022-11-22",
+  "source_id": 36332,
+  "chamber": "3",
+  "ilam_number": "252",
+  "item_number": 2,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2018,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36332/",
+  "source_sha256": "62854b81798355ca0e52e4c89af9c8963f2ea34e8e380c9e4ebbc04201ab6ee0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
