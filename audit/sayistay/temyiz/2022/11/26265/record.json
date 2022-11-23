@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52492",
+  "decision_date": "2022-11-23",
+  "source_id": 26265,
+  "chamber": "4",
+  "file_number": "50998",
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": "2020",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26265/",
+  "source_sha256": "09df92572b7922a67a156cfec111fe53e697263f1a8e0968b1cf7b20b59db6b8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
