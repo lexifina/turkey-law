@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-147/ 2022-10",
+  "source_id": 694,
+  "date": "2022-11-23",
+  "title": "Düzce İlindeki Mükellefler İçin Beyanname Bildirim Süreleri Elektronik Defter Oluşturma ve İmzalanma ile e-Defter Beratlarının Yüklenme Süresi Uzatıldı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/694",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "79317040e1f0df251c270fda992f789212e111585c813728a6003ed78e98c173",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
