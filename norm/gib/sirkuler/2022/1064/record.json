@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "YMM / 2022-2",
+  "source_id": 1064,
+  "date": "2022-11-23",
+  "title": "Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Sirküler / 3",
+  "source": "https://gib.gov.tr/mevzuat/kanun/444/sirkuler/1064",
+  "related_law": "3568 sayılı SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK VE YEMİNLİ MALİ MÜŞAVİRLİK KANUNU (*)",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "eb8272e73d324701d28dbec0695899571f36f690c9f9f781b90ab483eea7f237",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
