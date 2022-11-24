@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 4 – (1) Bu Yönetmelikte geçen;
+a) Atık işleme: Atıkların ön işlemler ve ara depolama dâhil olmak üzere 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliğinin EK-2/A ve EK-2/B’sindeki geri kazanım ya da bertaraf işlemlerini,
+b) Atık işleme tesisi: Ön işlem ve ara depolama tesisleri dâhil aktarma istasyonları hariç olmak üzere, atıkları Atık Yönetimi Yönetmeliğinin EK-2/A ve EK-2/B’sindeki faaliyetlerle geri kazanan ve/veya bertaraf eden tesisi,
+c) Atık kabul birimi: Atık işleme tesisinde işlenecek atıkların tesise kabulü işlemlerinin yerine getirilmesi ve işlemeye tabi tutuluncaya kadar bekletilmesi için gerekli ünitelerden oluşan alanı ve/veya alanları içeren birimi,
+ç) Ara depolama tesisi: Atıkların ön işlem, geri kazanım veya bertaraf tesislerine ulaştırılmadan önce, atık miktarı yeterli kapasiteye ulaşıncaya kadar güvenli bir şekilde depolandığı tesisi,
+d) Ayrıştırılmış atık stok sahası: Toplama ayırma tesislerinde ayrılan atıkların, diğer ön işlem faaliyeti gerçekleştiren atık işleme tesislerinde ise işlem sonucunda elde edilen atıkların atık işleme tesislerine gönderilinceye kadar bekletildiği alanları,
+e) (Değişik:RG-27/1/2022-31732) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+f) Bakiye atık: İşlenmek üzere atık işleme tesisine kabul edilen atıklardan işlenemeyen veya işlenme sonucunda geriye kalan atıkları,
+g) Çevre lisansı: 10/9/2014 tarihli ve 29115 sayılı Resmî Gazete’de yayımlanan Çevre İzin ve Lisans Yönetmeliği kapsamında düzenlenen geçici faaliyet belgesi/çevre izin ve lisansı belgesini kapsayan lisansı,
+ğ) Deneme üretimi: Atık işleme tesisinde geri kazanım sonrası elde edilecek madde ve/veya malzemenin 13 üncü maddenin sekizinci fıkrasına uygunluğu ve proses yetkinliğinin ispatı amacıyla yapılan çalışmayı,
+h) Geri kazanım tesisi: Piyasada ya da bir tesiste kullanılan maddelerin yerine ikame edilmek üzere atıkların faydalı bir amaç için kullanıma hazır hale getirilmesinde yer alan ve Atık Yönetimi Yönetmeliğinin EK-2/B’sinde listelenen işlemlerden herhangi birini gerçekleştiren atık işleme tesislerini,
+ı) Hurda metal işleme tesisi: EK-2’de listelenen atıkları parçalamak/boyutlarını küçültmek suretiyle kalitesini artırmak amacıyla faaliyet gösteren atık işleme tesislerini,
+i) (Değişik:RG-27/1/2022-31732) İl müdürlüğü: Çevre, şehircilik ve iklim değişikliği il müdürlüğünü,
+j) Kapatma planı: İşletme sahibinin talebi ve il müdürlüğünün uygun görmesi veya Bakanlık/il müdürlüğü tarafından resen atık işleme tesisinin kapatılmasına karar verilmesi halinde kapatma sonrası olası olumsuz çevresel etkilere, kontrol ve izleme işlemlerinin nasıl gerçekleştireceğine ve tesisteki tüm atıkların ne şekilde yönetileceğine ilişkin bilgileri içeren planı,
+k) Kütle-denge bildirimi: Atık işleme tesisine kabul edilen ve işlenen atıklar ile bakiye atıklara ve atık işleme faaliyeti neticesinde oluşan/üretilen ürünlere ilişkin Bakanlığın çevrimiçi sistemi kullanılarak yapılan bildirimi,
+l) Ön işlem: Ayırma işlemi dâhil olmak üzere atıkların hacmini veya tehlikelilik özelliklerini azaltmak, yönetimini kolaylaştırmak veya geri kazanımını artırmak amacıyla atığa uygulanan fiziksel, ısıl, kimyasal veya biyolojik işlemlerden bir veya birkaçını,
+m) Toplama ayırma tesisi: EK-1’de listelenen atıkların toplanarak cinslerine göre sınıflandırılması amacıyla ayırma işlemlerinin gerçekleştirildiği atık işleme tesisini,
+n) Tutarlılık kontrolü: Atığın taşınması işlemlerinde atığı taşıyan tarafından, boşaltılması aşamasında ise atık işleme tesisi tarafından yapılan; atık üreticisi, atığın miktarı, atığın kodu, atık işleme tesisi bilgileri ve atığın beyan edilen atık ile aynı olduğunun doğruluğuna ilişkin kontrolü,
+o) Yeniden kullanıma hazırlama: Atık olan ürün veya ürün bileşenlerinin başka ön işleme tabi olmasına gerek kalmadan temizleme, onarım ya da kontrol işlemleri ile tasarlandığı şekle getirilmesini,
+ifade eder.

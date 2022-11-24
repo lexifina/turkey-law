@@ -1,0 +1,66 @@
+{
+  "source_id": "7.5.38990",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ATIK ÖN İŞLEM VE GERİ KAZANIM TESİSLERİNİN GENEL ESASLARINA İLİŞKİN YÖNETMELİK",
+  "number": "38990",
+  "issuer": "Çevre ve Şehircilik Bakanı",
+  "issuer_slug": "cevre-ve-sehircilik-bakani",
+  "path": "regulation/cevre-ve-sehircilik-bakani/2021/38990",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=38990&MevzuatTertip=5",
+  "source_sha256": "bc87a20e9058f237bd57d968793056a8218a1066f970a03d91259ba5248d1bd3",
+  "source_bytes": 133688,
+  "published": "2021-10-09",
+  "gazette": "31623",
+  "in_force": "2022-11-24",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-24/11/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-11-24",
+      "RG-24/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-24",
+      "24/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-09-01",
+      "RG-1/9/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-09-01",
+      "1/9/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2022-01-27",
+      "RG-27/1/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-01-27",
+      "27/1/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 4366,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.38990-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
