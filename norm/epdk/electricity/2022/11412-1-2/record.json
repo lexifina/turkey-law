@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11412/1-2",
+  "decision_date": "2022-11-24",
+  "title": "Önlisans Başvurusunda Sunulması Gereken Bilgi ve Belgeler Listesinde \"Önlisans alma bedeli\" ve \"Lisans alma bedeli\" ilişkin",
+  "resmi_gazete_date": "2022-11-25",
+  "resmi_gazete_number": "32024",
+  "categories": [
+    "Diğer Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bad1/Erxdok=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=Bad1/Erxdok="
+  ],
+  "source_sha256": "2c95b69749f920e434f532cc436ecb1cd42f67dda0d124e014cad7ea5f7abc36",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-11-24",
+  "law_text_complete": true
+}
