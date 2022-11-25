@@ -1,0 +1,5 @@
+Karar
+MADDE 4- (1) Yürütülen soruşturma sonucunda, ÇHC menşeli ürünlere yönelik önlemin yürürlükten kalkması durumunda dampingin ve zararın devam etmesinin veya yeniden meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer almaktadır.
+(2) Bu çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun kararı ile 1/7/2016 tarihli ve 29759 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2016/27) ile yürürlükte olan dampinge karşı önlemin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.
+GTP | Eşyanın Tanımı | Menşe Ülke | Firmalar | Damping Önlemi (CIF Bedelin Yüzdesi) | 
+7009.91 | Çerçevesiz Cam Aynalar (Kalınlığı 1,6 mm ve altında olanlar hariç) | Çin Halk Cumhuriyeti | Tüm Firmalar | %27 | 
