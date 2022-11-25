@@ -1,0 +1,18 @@
+{
+  "issuer": "Mersin Büyükşehir Belediye Meclisi",
+  "number": "637",
+  "decision_date": "2022-11-25",
+  "title": "MEC.KAR.(Geçici katip üye seçimi )",
+  "listed_as": "637 MEC.KAR.(Geçici katip üye seçimi )",
+  "subject_note": "subject as the meeting page lists it (the register shortens some long subjects)",
+  "official_document": "https://www.mersin.bel.tr/dokumanlar/637-meckargecici-katip-uye-secimi--1679142355",
+  "source_listing": "https://www.mersin.bel.tr/dokumanlar/25-kasim-2022-meclis-kararlari-1196766770",
+  "listing_sha256": "6c0733361bbdd98c6b278a55e1b8ea4f3bff14cb1d959cfe20e47617145123d1",
+  "meeting_title": "25 KASIM 2022 MECLİS KARARLARI",
+  "history_type": "metadata-only",
+  "capture_mode": "metadata-only",
+  "text_status": "metadata-only; official decision page linked, text not transcribed",
+  "date_basis": "meeting date in the official meeting page title (decision date of the session)",
+  "commencement_established": false,
+  "privacy_withheld": false
+}
