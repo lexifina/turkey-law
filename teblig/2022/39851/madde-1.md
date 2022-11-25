@@ -1,0 +1,2 @@
+Kapsam
+MADDE 1- (1) Bu Tebliğde, 3/11/2022 tarihli ve 7420 sayılı Gelir Vergisi Kanunu ile Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanunun 6 ncı maddesiyle değişen 351 sayılı Yüksek Öğrenim Kredi ve Yurt Hizmetleri Kanununun 17 nci maddesi ile aynı Kanunun 7 nci maddesiyle 351 sayılı Kanuna eklenen geçici 7 nci maddenin uygulamasına dair açıklamalar yer almaktadır.
