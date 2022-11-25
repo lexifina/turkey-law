@@ -1,0 +1,4 @@
+Vergi dairelerince yapılacak işlemler
+MADDE 4- (1) 7420 sayılı Kanunun geçici 4 üncü maddesi kapsamında olan ve takip için ilgili vergi dairesine bildirilmiş idari para cezalarından maddenin yürürlüğe girdiği 9/11/2022 tarihi itibarıyla tahsil edilmemiş olanlar terkin edilecek ve takip işlemleri sonlandırılacaktır.
+(2) Madde kapsamında olan idari para cezalarına yönelik olarak 9/11/2022 tarihinden (bu tarih hariç) önce yapılmış ödemeler iade edilmeyecektir.
+Ancak, bu alacaklarla ilgili olarak 9/11/2022 tarihinden (bu tarih dâhil) sonra yapılmış ödemelerin 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 23 üncü maddesi ile 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun 88 inci maddesinin onaltıncı fıkrası dikkate alınarak iade edileceği tabiidir.
