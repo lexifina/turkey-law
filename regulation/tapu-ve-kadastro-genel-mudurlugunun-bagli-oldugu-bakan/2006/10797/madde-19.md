@@ -1,0 +1,5 @@
+Askı ilân cetvellerinin düzenlenmesi ve ilânı
+MADDE 19 – (1) Sayısallaştırma çalışmaları, itirazlar ve düzeltmeler sonucu, Sayısallaştırma Askı İlân Cetveli (EK–3) tanzim edilir.
+(2) Kontrol işlemi sonucu askı ilânına alınmasında teknik yönden sakınca bulunmadığına dair rapor düzenlendikten sonra, köy veya mahallenin Sayısallaştırma Yüzölçümü Karşılaştırma Cetveli (EK–2), ada rapor çıktıları ile yeni çizilen haritalarına göre tanzim edilmiş ve onaylanmış Sayısallaştırma Askı İlân Cetveli (EK–3) ve harita örnekleri, 3402 sayılı Kadastro Kanununun 11 inci maddesi ve 28/10/1987 tarih ve 19618 sayılı Resmî Gazete’de yayımlanan Kadastro İlanları Hakkında Yönetmelik hükümlerine göre ilân edilir. Bu ilanlarla ilgili olarak Sayısallaştırma Askı Cetveli İlanı (EK–5) ve Sayısallaştırma Askı Cetveli İlân Tutanağı (EK–6) düzenlenir.
+(3) Hatalı olmayan ve kenarlaşma sorunu bulunmayan ada veya mevkilerin sayısallaştırma işlemleri Genel Müdürlükten izin alınarak kısmî askı ilânına alınabilir.
+(4) Sayısallaştırma işlemleri için harç tahakkuk ettirilmez.

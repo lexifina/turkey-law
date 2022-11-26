@@ -1,0 +1,4 @@
+Paftalara belirtme yapılması
+MADDE 24 – (1) Askı ilânı sonrasında, sayısallaştırılmış haritanın alt kısmına, "Bu harita veya haritadaki taralı bölüm, 3402 sayılı Kanunun Ek 1 inci maddesine göre sayısallaştırılarak yerine, .......... numaralı harita veya haritalar düzenlenmiştir." ibaresi yazılarak kontrol mühendisince imzalanır ve kadastro müdürü tarafından onaylanır.
+(2) Sayısallaştırma sonucu düzenlenen haritaların alt kısmına, "Bu harita, 3402 sayılı Kanunun Ek 1 inci maddesine göre yapılan sayısallaştırma sonucunda ....... nolu haritanın/ haritaların veya haritadaki taralı bölümün yerine düzenlenmiştir." ibaresi yazılarak kontrol mühendisince imzalanır ve kadastro müdürü tarafından onaylanır.
+(3) Sayısallaştırmanın kesinleşmiş durumuna göre, fen klasörü yeniden düzenlenir. Sayısallaştırılmış haritalar ve teknik belgeleri ayrıca muhafaza edilir.

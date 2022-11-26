@@ -1,0 +1,56 @@
+{
+  "source_id": "7.5.10797",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "KADASTRO HARİTALARININ SAYISALLAŞTIRILMASI HAKKINDA YÖNETMELİK",
+  "number": "10797",
+  "issuer": "Tapu ve Kadastro Genel Müdürlüğünün bağlı olduğu Bakan",
+  "issuer_slug": "tapu-ve-kadastro-genel-mudurlugunun-bagli-oldugu-bakan",
+  "path": "regulation/tapu-ve-kadastro-genel-mudurlugunun-bagli-oldugu-bakan/2006/10797",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=10797&MevzuatTertip=5",
+  "source_sha256": "de45876957451ca77ea4158742f175158e01da01235efc33b76fab971d6de625",
+  "source_bytes": 65249,
+  "published": "2006-11-24",
+  "gazette": "26356",
+  "in_force": "2022-11-26",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-26/11/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-11-26",
+      "RG-26/11/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-11-26",
+      "26/11/2022",
+      "Resmî Gazete date in the source amendment table"
+    ],
+    [
+      "2012-09-28",
+      "RG-28/9/2012",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2012-09-28",
+      "28/9/2012",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3035,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.10797-Ek.pdf"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
