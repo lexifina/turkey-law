@@ -1,0 +1,3 @@
+Merkezin ünite ve birimleri
+MADDE 13- (1) Merkezde bulunan ameliyathane, merkezi sterilizasyon birimi, dental radyoloji birimi, öğretim üyesi/görevlisi hasta tedavi üniteleri, lisans/lisansüstü klinikleri ve laboratuvar hizmetlerinde görevli olanlar ilgili Klinik Sorumlusuna ve Müdür (Başhekim)’e karşı; Merkezin idari işlerinde görevli olanlar ise yürüttükleri hizmetler açısından İdari Müdür ve Müdür (Başhekim)’e karşı sorumludur.
+(2) Merkezde; ilgili mevzuat hükümlerine uygun olarak, ihtiyaç duyulan alanlarda hizmet ve eğitim kalitesini ve verimliliği artırmak amacıyla çalışma grupları, komisyon, komite, ünite ve bağlı birimler kurulabilir. Bunların çalışma usul ve esasları Yönetim Kurulunca belirlenir.
