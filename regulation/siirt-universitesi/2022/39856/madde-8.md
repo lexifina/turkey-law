@@ -1,0 +1,4 @@
+Kayıt yenileme
+MADDE 8- (1) Öğrenci; her eğitim-öğretim yılı başında akademik takvimde gösterilen süre içinde, gerekli olduğunda katkı payını ödeyerek, kaydını yeniletmek zorundadır. Kayıt yenileme işlemlerinin tümünden öğrenci sorumludur.
+(2) Öğrenci, Fakülte Yönetim Kurulu tarafından kabul edilmiş bir mazereti yoksa kaydını kendisi veya vekalet verdiği kişi aracılığıyla yaptırır. Zamanında kaydını yenilemeyen ve gerekli durumlarda harcını yatırmayan öğrenci, o yıl öğrencilik hak ve muafiyetlerinden yararlanamaz. Bu şekilde kaybedilen süre, öğrenim süresinden sayılır.
+(3) İlan edilen tarihlerde haklı ve geçerli nedenlerle öğrenim katkı payını ödeyemeyen veya kaydını yenileyemeyen öğrencilerin durumları Senato tarafından belirlenen ekle-sil döneminde Fakülte Yönetim Kurulu tarafından karara bağlanır.

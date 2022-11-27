@@ -1,0 +1,2 @@
+Sınav sonuçlarına itiraz
+MADDE 30- (1) Öğrenciler sınav sonuçları hakkındaki itirazlarını sonuçlar ilan edildikten sonra üç iş günü içinde dilekçeyle Öğrenci İşleri Daire Başkanlığına yaparlar. Bu itirazlar, ilgili dönem koordinatörleri tarafından değerlendirilir ve hata görülürse gerekli düzeltmeler yapılır. Soru içeriğine yapılan itirazlar, ilgili ana bilim dalı kurulunda değerlendirilerek karara bağlanır. İtiraz sonuçları beş iş günü içinde sonuçlandırılıp öğrenci panosunda duyurularak ilan edilir ve bu yolla öğrenciye tebliğ edilmiş sayılır.

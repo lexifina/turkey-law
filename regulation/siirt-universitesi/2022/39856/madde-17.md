@@ -1,0 +1,3 @@
+Barajlar
+MADDE 17- (1) Bir sınavın kurul içerisinde yer alan bütün dallarından ayrı ayrı elde edilen teorik ve uygulama sınavı puanlarının toplamı, bu sınavın başarı notunu tayin eder.
+(2) Dönem 1, 2 ve 3’teki tüm sınavlar için; geçme notu üzerindeki ağırlığı %5’ten fazla olan derslerde %50’nin altında not alınırsa, o derste elde edilen puan ile o dersin toplam puanının %50’si arasında kalan puan farkı, sınav toplam puanından düşülür. %5 ve %5’ten az ağırlığı olan derslerin ağırlıkları toplanarak toplam ağırlık değerlendirmesinde %50’nin altında not alınırsa elde edilen puan ile toplam puanının %50’si arasında kalan puan farkı, sınav toplam puanından düşülür.

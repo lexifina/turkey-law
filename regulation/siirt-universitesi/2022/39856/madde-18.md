@@ -1,0 +1,15 @@
+BEŞİNCİ BÖLÜM
+Ortak Zorunlu ve Seçmeli Ders Esasları ile Ders Kurulu
+Ortak zorunlu ve seçmeli dersler
+MADDE 18- (1) Ortak zorunlu ve seçmeli derslerle ilgili esaslar şunlardır:
+a) Atatürk İlkeleri ve İnkılap Tarihi, Temel Yabancı Dil ile Türk Dili dersleri dönem 1’de okutulur.
+b) Ortak zorunlu dersler dönem 1’de haftada en az iki saat olmak üzere okutulur.
+c) Seçmeli dersler her dönem başında açılan ders gruplarından belirtilen sayı ve AKTS kredisinde seçilir.
+ç) Faz-1 ve faz-2’de alınan ortak zorunlu ve seçmeli derslerin tümünde başarılı olamayan öğrenci dönem 6’ya intibak ettirilemez.
+d) Dönem 1, 2 ve 3 seçmeli dersleri için bir ara sınav ve bir final sınavı yapılır. Bu derslerde başarı notu, ara sınavın %40’ı ile final sınavının %60’ının toplamı ile oluşur. Dönem 4, 5 ve 6 seçmeli dersleri için tek bir özetleyici sınav yapılır. Bu dersler için başarı notu özetleyici sınavdan aldığı nottur. Mazereti olmadığı halde seçmeli ders ara sınavı, final sınavı veya özetleyici sınava katılmayanların notu sıfır (0) olarak işlenir. Geçerli mazereti olanların mazeretleri dersi veren öğretim elemanı tarafından incelenir ve öğrenci mazereti geçerli olursa ek bir mazeret sınavı hakkı verebilir. Mazeret sınavı için ikinci bir mazeret sınavı yapılamaz.
+e) (a) bendinde yer alan dersler için her yarıyılda bir ara sınav yapılır. Bu derslerde başarı notu, ara sınav puanları ortalamasının %40’ı ile final veya bütünleme sınavında alınan puanın %60’ının toplamıyla hesaplanan nottur. Bu şekilde hesaplanan toplam notun en az 60 puan olması gerekir. Ayrıca ortak zorunlu derslerde final ve bütünleme sınavından en az 50 puan alma şartı aranır. Dönem 1’de adı geçen ortak zorunlu dersler için dönem sonu veya bütünleme sınavında başarılı olamayan öğrenciler, devamsızlık yapılmamış olması koşulu ile bir üst döneme intibak ettirilirler. Ancak bu durumdaki öğrencilerin, dönem 6’ya kabul edilmeleri için geçen süre içinde, ders devamı olmaksızın ara sınav ve dönem sonu ya da bütünleme sınavına girmeleri ve dersten başarılı olmaları zorunludur.
+f) Temel yabancı dil dersi için, Üniversite tarafından eğitim yılı başında seviye tespit sınavı yapılır. Öğrenci, bu sınavda Üniversitenin tespit ettiği geçer notu alması durumunda ilgili derse devam etmek zorunda değildir ve ilgili dersten başarılı kabul edilir.
+g) Devamsızlık nedeni ile ortak zorunlu ve seçmeli derslerin herhangi birinden kalan öğrenci, bir sonraki eğitim yılında bu dersi/dersleri devam ederek almak zorundadır. Öğrenci eğer dönem 1 ders kurullarından geçer not almış ise sadece ortak zorunlu derse/derslere girer.
+ğ) Her bir öğrenci; dönem başında açıklanan seçmeli dersleri dönem 1, dönem 2 ve dönem 3 seçmeli ders gruplarında belirlenen sayı kadar seçmek zorundadır.
+h) Tercihlerine göre seçtiği seçmeli derslerdeki öğrenci sayısında başka bir seçmeli ders ya da derslere oranla aşırı dengesizlik olması durumunda, öğrenciler daha alt tercihlerine yerleştirilebilir. Bu derslerde eğitim, yıl esasına göre düzenlenir.
+ı) Ortak zorunlu ve seçmeli dersler, faz-1 ve faz-2 içerisinde sınıf geçme için gereken puan hesaplamasında kullanılmaz.
