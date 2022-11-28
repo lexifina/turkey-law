@@ -1,0 +1,3 @@
+İzinler
+MADDE 14 – (Değişik:RG-5/1/2016-29584)
+(1) Öğrencilere kanıtlayacakları önemli nedenleri veya öğrenim ve eğitimlerine katkıda bulunacak burs, staj, araştırma gibi imkânların doğması halinde Fakülte Yönetim Kurulu kararı ile bir defaya mahsus olmak üzere iki yıla kadar izin verilebilir. Bu iznin akademik yıl başlamadan önce istenmesi gerekir. Öğrenci katkı payları, eğitim-öğretim yılı için belirlendiğinden bir yarıyıl veya farklı eğitim-öğretim yıllarının birbirini izleyen iki yarıyılı için izinli sayılan öğrenciler, katkı payını ödemeye devam ederler. Akademik yıl başlamadan bir veya iki yıl izinli sayılan öğrenciler katkı payı ödemezler. İzinli sayılan süreler eğitim- öğretim süresinden sayılmaz.

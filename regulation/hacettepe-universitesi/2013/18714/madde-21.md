@@ -1,0 +1,3 @@
+Uygulamalı eğitim sınavı (Değişik başlık:RG-28/11/2022-32027)(1)
+MADDE 21 – (1) (Değişik:RG-28/11/2022-32027)(1) Dönem IV ve V’te her uygulamalı eğitimin sonunda o uygulamalı eğitim içeriğini kapsayan uygulamalı eğitim sınavı yapılır. Uygulamalı eğitim sınavı yazılı, sözlü ya da hem yazılı hem sözlü ve/veya uygulamalı olarak yapılır. Not takdirinde öğrencinin uygulamalı eğitim süresindeki çalışma ve başarısı da göz önüne alınır. Uygulamalı eğitim sınavından öğrencinin başarılı sayılabilmesi için uygulamalı eğitim sınavı notunun en az C2 notu olması zorunludur. Uygulamalı eğitim sınavı ve uygulamalı eğitim bütünleme sınavları için ayrıca mazeret sınavı açılmaz.
+(2) Dönem IV ve V’de sınav sonuçları öğrenciye puan ve not olarak bildirilir.

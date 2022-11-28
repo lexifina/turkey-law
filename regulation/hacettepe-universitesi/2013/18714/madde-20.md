@@ -1,0 +1,1 @@
+MADDE 20 – (1) (Değişik ibare:RG-28/11/2022-32027)(1) Uygulamalı eğitimlerde mazeretli veya mazeretsiz devamsızlıkları olan öğrenciler, sınava girebilmek için, devamsız oldukları süreyi tamamlamak zorundadır.

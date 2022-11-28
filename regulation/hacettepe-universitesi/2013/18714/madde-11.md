@@ -1,0 +1,5 @@
+Eğitim şekli
+MADDE 11 – (1) Tıp eğitiminde öğretim, dönem I, II ve III'te temel olarak ders kurulları, dönem IV ve V’de (Değişik ibare:RG-28/11/2022-32027)(1) uygulamalı eğitim, dönem VI'da intörnlük (Değişik ibare:RG-28/11/2022-32027)(1) uygulamalı eğitimi esasına göre yapılır.
+(2) (Değişik:RG-28/11/2022-32027)(1) Öğrenci değişik alanlarda açılan seçmeli dersler arasından, müfredata göre her dönem için belirlenmiş sayıda dersi seçmek zorundadır.
+(3) Tıp Fakültesinde entegre sistemi uygulandığından eğitimde teorik ve pratik derslerde bütünlük bulunmaktadır. Bu nedenle Fakülte dışında herhangi bir kurumda pratik uygulamalı ders ve (Değişik ibare:RG-28/11/2022-32027)(1) uygulamalı eğitim yapılamayacağı gibi aynı nedenle dışarıdan öğrenci başvuruları da kabul edilemez.
+(4) Yurt içi ve yurt dışı yükseköğretim kurumları ile yapılan anlaşmalar, Avrupa Birliği Öğrenci Değişim Programı (ERASMUS) ve Yükseköğretim Kurulu Öğrenci Değişim Programları çerçevesinde öğrenci değişim programı uygulanabilir.
