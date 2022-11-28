@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "E-16700543-155[22-515-82]-108507",
+  "source_id": 34254,
+  "date": "2022-11-28",
+  "title": "Düzenleme şeklindeki taşınmaz satış vaadi sözleşmesinde damga vergisi hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/438/ozelge/34254",
+  "related_law": "488 sayılı DAMGA VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p006.json",
+  "source_listing_sha256": "b46360359770c9a5ea4fa9aa8dcd84735fb9ad66a4d8175b30588dafb983503d",
+  "source_sha256": "e536ce5d0d6689d12f495158f2f0ed17d16732d55e6658320b3e37b8d2e2e7a8",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
