@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39860",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "GENÇLİK VE SPOR BAKANLIĞI SPORCU EĞİTİM MERKEZLERİ İLE TÜRKİYE OLİMPİK HAZIRLIK MERKEZLERİ YÖNETMELİĞİ",
+  "number": "39860",
+  "issuer": "Gençlik ve Spor Bakanı",
+  "issuer_slug": "genclik-ve-spor-bakani",
+  "path": "regulation/genclik-ve-spor-bakani/2022/39860",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39860&MevzuatTertip=5",
+  "source_sha256": "e157699bbbe2b41b268f588ea6e1ee2817ab58fb8be10ffb43bfcbb19411623b",
+  "source_bytes": 77562,
+  "published": "2022-11-29",
+  "gazette": "32028",
+  "in_force": "2022-11-29",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (29.11.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3371,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

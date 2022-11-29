@@ -1,0 +1,23 @@
+Tanımlar ve kısaltmalar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Antrenör: Gençlik ve Spor Bakanlığı veya ilgili spor federasyonlarından alınan antrenörlük belgesine sahip kişiyi,
+b) Bakan: Gençlik ve Spor Bakanını,
+c) Bakanlık: Gençlik ve Spor Bakanlığını,
+ç) Federasyon spor dalı koordinatörü: Merkezlerle ilgili olarak Bakanlık ve ilgili spor federasyonu arasında koordinasyonu sağlayan spor federasyonu görevlisini,
+d) Genel Müdür: Spor Hizmetleri Genel Müdürünü,
+e) Genel Müdürlük: Spor Hizmetleri Genel Müdürlüğünü,
+f) Gündüzlü eğitim: Sporcuların beslenme, giyim, eğitim, yol ve diğer ihtiyaçlarının il müdürlüğü tarafından karşılandığı eğitimi,
+g) İl müdürlüğü: Gençlik ve Spor İl Müdürlüğünü,
+ğ) İl müdürü: Gençlik ve Spor İl Müdürünü,
+h) İl spor dalı sorumlusu: Merkezde görev yapan antrenör, spor destek elemanları ve merkez yönetimi ile ilgili spor federasyonu arasında koordinasyonu sağlayan spor federasyonu görevlisini,
+ı) Lig müsabakası: Takım halinde yapılan ve sonucunda alınan puanların takım puanı olarak kabul edildiği veya ferdi olarak yapılsa bile ferdi derecelendirme yapılmayıp takım derecelendirilmesi yapılan müsabakaları,
+i) Merkez: Bir veya birden fazla olimpik veya paralimpik spor dalında yatılı ve/veya gündüzlü eğitim verilen sporcu eğitim merkezi ile Türkiye olimpik hazırlık merkezi müdürlüklerini,
+j) SEM: Sporcu eğitim merkezi müdürlüklerini,
+k) SEM-TOHM Değerlendirme Komisyonu: Bakanlık tarafından SEM ve TOHM’lar için her spor dalında ayrı ayrı oluşturulan komisyonları,
+l) SEM-TOHM Disiplin Komisyonu: Merkezlerdeki sporcuların disiplin işlerini yürütmek üzere il müdürlüğü tarafından oluşturulan komisyonları,
+m) Spor destek elemanı: Spor hekimi, psikolog, diyetisyen, fizyoterapist, spor masörü, kondisyoner ve ihtiyaç duyulan diğer elemanı,
+n) Spor federasyonu: 22/4/2022 tarihli ve 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu kapsamında kurulan spor federasyonlarını,
+o) Spor Hizmetleri Müdürü: Taşra teşkilatı yapılanmasında yer alan spor hizmetleri müdürünü,
+ö) TOHM: Türkiye olimpik hazırlık merkezi müdürlüklerini,
+p) Yatılı eğitim: Sporcuların beslenme, barınma, giyim, eğitim, yol ve diğer ihtiyaçlarının il müdürlüğü tarafından karşılandığı eğitimi,
+ifade eder.

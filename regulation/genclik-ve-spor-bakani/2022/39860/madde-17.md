@@ -1,0 +1,2 @@
+Sağlık hizmetleri
+MADDE 17- (1) Merkezde kayıtlı sporculardan genel sağlık sigortalısı ve genel sağlık sigortalısının bakmakla yükümlü olduğu kişi konumunda olmayanların veya diğer mevzuat hükümleri gereğince tedavi yardımından yararlanma hakkı bulunmayanların merkezde kayıtlı bulundukları süre içerisinde tüm tıbbi teşhis ve tedavi giderleri ile gerekli olan tıbbi araç ve gereç giderleri genel sağlık sigortalıları için belirlenmiş usul ve esaslar ile tutarlar uygulanmak suretiyle il müdürlüğü bütçesinden karşılanır.
