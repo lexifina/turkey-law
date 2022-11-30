@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "38418978-120[61-18/15]-556569",
+  "source_id": 23167,
+  "date": "2022-11-30",
+  "title": "Ücretlinin, serbest meslek erbabı eşi adına ödediği \"geri ödemeli hayat sigortası priminin\" kendi ücret matrahının tespitinde indirim konusu yapıp yapamayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23167",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "23bca4ece08deabddd8fc90e5b1e234567835cf4f7bec38b11b43fb5340af9be",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
