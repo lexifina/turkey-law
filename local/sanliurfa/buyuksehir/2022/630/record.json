@@ -1,0 +1,24 @@
+{
+  "number": "630",
+  "number_as_published": "630",
+  "year": 2022,
+  "title": "NAZIM VE UYTGULAMA İMAR PLANI(KATRAKÖPRÜ-KIZILBURÇ)",
+  "decision_date": "2022-11-30",
+  "source": "https://www.sanliurfa.bel.tr/icerik/15149/106/nazim-ve-uytgulama-imar-planikatrakopru-kizilburc",
+  "official_document": null,
+  "source_sha256": "2f04dffad58a18a8c5c256e30bea45d16cfdcd2ea896826e14cdbb08af099653",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-11-30",
+  "in_force_basis": "Decision date as printed in the official council listing: 30.11.2022 tarih ve 630 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2023-01-30",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
