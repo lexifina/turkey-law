@@ -1,0 +1,6 @@
+Çevresel titreşim değerlendirme yöntemleri
+MADDE 15- (1) Maden ve taş ocakları ile benzeri faaliyette bulunulan alanlardaki patlatmalarda; oluşacak hava şoku, taş savrulması, titreşim gibi çevresel etkilerin asgari düzeyde tutulacağı bir patlatma paterni uygulanır. Ek-2’deki Tablo 3’te yer alan usul ve esaslara göre, patlatma yapılan alanın yakınındaki bina ve yapıların korunması için alınan tedbirler hazırlanan akustik raporlar içerisinde detaylı olarak açıklanır.
+(2) Maden ve taş ocakları ile benzeri faaliyette bulunulan alanlardaki patlatmaların, çevredeki yapılarda oluşturduğu zemin titreşim düzeyi Ek-2’deki Tablo 3’te yer alan sınır değerleri sağlar.
+(3) Demir yolu ve kara yolu ulaşım araçları, işyerleri ve endüstri tesislerinin en yakın yapıda oluşturacağı titreşim düzeyi ile konut ve ofis olarak kullanılan binalarda, bina içindeki makine ve teçhizatın oluşturacağı zemin titreşim düzeyi Ek-2’deki Tablo 4’te yer alan sınır değerleri sağlar.
+(4) Şantiyelerde gerçekleşen faaliyetlerin çevredeki yapılarda oluşturacağı zemin titreşim düzeyi Ek-2’deki Tablo 5’te yer alan sınır değerleri sağlar.
+(5) Titreşim düzeylerinin sınır değerleri sağlamasını teminen başta titreşim yalıtımı olmak üzere gerekli teknik tedbirler alınır/aldırılır.

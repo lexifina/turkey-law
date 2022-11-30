@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39864",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇEVRESEL GÜRÜLTÜ KONTROL YÖNETMELİĞİ",
+  "number": "39864",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39864",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39864&MevzuatTertip=5",
+  "source_sha256": "f84b6a61a1f05945581b6ebefb5cea9a7b30981c953cdeabd068d367c1653cdd",
+  "source_bytes": 118838,
+  "published": "2022-11-30",
+  "gazette": "32029",
+  "in_force": "2022-11-30",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (30.11.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3010,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39864-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

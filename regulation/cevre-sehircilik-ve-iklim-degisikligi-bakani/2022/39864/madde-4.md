@@ -1,0 +1,27 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Akustik planlama: Çevresel gürültü düzeyinin arazi kullanımı, trafik düzenlenmesi, gürültü kaynaklarının kontrolü ve ses yalıtım tedbirleri kullanılarak planlanmasını,
+b) Akustik rapor: Öngörülen çevresel gürültü düzeylerinin belirlendiği ve sınır değerlerin aşılıp aşılmadığını gösteren raporu,
+c) Ana kara yolu: Yılda üç milyondan fazla aracın geçtiği kara yolunu,
+ç) Ana demir yolu: Yılda otuz binden fazla trenin geçtiği demir yolunu,
+d) Ana havalimanı: Hafif uçaklarla tamamen eğitim amacıyla yapılanlar hariç olmak üzere, yılda elli binden fazla kalkış ve inişin gerçekleştiği sivil havalimanını,
+e) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+f) Çevresel gürültü: Endüstriyel faaliyetler, ulaşım araçları, eğlence ve rekreasyon, inşaat ve işyerlerinden kaynaklanan istenmeyen sesleri,
+g) Çevresel titreşim: Maden ve taş ocakları, ulaşım araçları, sanayi ve inşaat makineleri gibi işlemlerden doğan ve yapılarda kullanım alanı dışında başka maksatlarla kullanılan hacimlerdeki faaliyetler sırasında oluşan genellikle katı, sıvı ve gaz ortamlarda yayılan ve insan vücudunca hissedilen mekanik salınım hareketlerini,
+ğ) Değerlendirme: Bir gürültü göstergesi veya ilgili tehlikeli etkilerin değerini hesaplamak, tayin etmek, ön görmek, tahmin etmek veya ölçmek için kullanılan her türlü yöntemi,
+h) Gürültü göstergesi: Gürültünün olumsuz etkisinin tanımlanmasında kullanılan fiziksel bir ölçek olup, ölçüm sonuçlarını belirli ağırlıklar uygulanarak tek bir sayı ile ifade etmeye yarayan değerlendirme birimlerini,
+ı) İl Müdürlüğü: Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğünü,
+i) İlgili idare: İkinci bölümde belirtilen idareler ile bu Yönetmeliğin uygulanmasında görev alan kurum ve kuruluşları,
+j) Kamuoyu: Bir veya daha fazla gerçek veya tüzel kişi ile bunların mevzuata uygun olarak oluşturduğu dernek, kuruluş, birlik veya grupları,
+k) Müzik yayın izni: Bu Yönetmelik kapsamında müzik yayını yapan işyerlerine akustik rapor değerlendirmesi sonucunda verilen izni,
+l) Müzik yayını: Gerçek enstrüman ve/veya seslerle, banttan ya da elektronik olarak yükseltilmiş ses kaynağı kullanılarak yapılan müzik faaliyetlerini,
+m) Müzik yayını yapan işyeri: Bir konaklama tesisi bünyesinde veya müstakil olarak faaliyet gösteren 14/7/2005 tarihli ve 2005/9207 sayılı Bakanlar Kurulu Kararı ile yürürlüğe konulan İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik ve/veya turizm mevzuatı kapsamında yer alan müzik yayını yapan işyerini,
+n) Ölçüm noktası: Bir çevresel gürültünün ölçümünü yapmak üzere belirlenmiş olan noktayı,
+o) Rahatsızlık: Saha çalışmaları ile tespit edilen, bir toplumun gürültü veya titreşim için hassasiyet derecesini,
+ö) Rekreasyon alanı: Kentin açık ve yeşil alan ihtiyacı başta olmak üzere; eğlence, dinlenme, piknik ihtiyaçlarının karşılanabildiği, kent içinde ve çevresinde günübirlik kullanıma yönelik olarak imar planı ile belirlenmiş yerleri,
+p) Sessiz alan: Bakanlık ve/veya yetkili idare tarafından belirlenmiş; kırsal alanda trafik, endüstri veya rekreasyon faaliyetlerinden kaynaklanan her türlü gürültü rahatsızlığına maruz kalmayacak şekilde ayrılan alanı, şehirleşmiş alanda ise belirlenmiş bir çevresel gürültü gösterge değerinin üzerinde etkilenmenin olmadığı alanı,
+r) Stratejik gürültü eylem planları: Çevresel gürültünün ve etkilerinin yönetilmesi için stratejik gürültü haritalarının sonuçlarına göre gürültü azaltım tedbirlerini içeren planları,
+s) Stratejik gürültü haritaları: İl genelini kapsayacak şekilde farklı gürültü kaynakları bazında mevcut veya gelecekte ortaya çıkabilecek gürültü durumunun, gürültüden etkilenen kişi ve konut sayısı da dâhil olmak üzere, gürültü göstergesi kullanılarak standartlara uygun olacak şekilde fiziksel haritalar ile görselleştirilmesine imkân veren haritaları,
+ş) Yerleşim alanı: İmar planı sınırı içindeki yerleşik ve gelişme alanlarını, imar planı bulunmayan mevcut yerleşmeleri de içine alan ve sınırları belediye meclislerince karara bağlanan alanları,
+ifade eder.
+(2) Bu Yönetmelikte geçen diğer teknik terimler Ek-1’de yer almaktadır.
