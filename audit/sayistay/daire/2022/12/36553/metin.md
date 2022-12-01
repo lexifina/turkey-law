@@ -1,0 +1,43 @@
+Hatalı süre uzatımı verilmesi nedeniyle gecikme cezası kesilmemesi:
+
+... İnşaat Mühendislik San. ve Tic. A.Ş. yükleniminde bulunan “...Yaşam Merkezi 1. Etap Yapım” işinde; Yapım İşleri Genel Şartnamesi ve Sözleşme hükümlerine aykırı olarak süre uzatımı verildiği ve bu süreler için kesilmesi gereken gecikme cezasının uygulanmadığı görülmüştür.
+
+Yapım İşleri Genel Şartnamesinin “İşin süresi ve sürenin uzatılması” başlıklı 29’uncu maddesinde; işin veya kısmi kabul öngörülen hallerde iş kısımlarının, sözleşmede belirlenen bitim tarihinde veya süre uzatımı verilmiş ise süre uzatımına göre belirlenen tarihte tamamlanıp geçici kabule hazır hale getirilmemesi durumunda, gecikilen her gün için sözleşmesinde öngörülen günlük gecikme cezası uygulanacağı; cezalı çalışma süresinin varsa süre uzatımları da dâhil yüklenicinin sözleşmeye göre işi bitirmesi gereken tarih ile geçici kabul itibar tarihi arasında geçen süre olduğu; cezalı çalışma süresince işyerinde havanın fen noktasından çalışılmaya uygun olmayan dönemi ile resmi tatil günleri için de gecikme cezası uygulanacağı belirtilip, mücbir sebepler nedeniyle süre uzatımı verilebilecek haller sayılmış; sayılan hallerin mücbir sebep olarak kabul edilmesi ve yükleniciye süre uzatımı verilebilmesi için, mücbir sebep olarak kabul edilecek durumun yüklenicinin kusurundan kaynaklanmamış olması, taahhüdün yerine getirilmesine engel nitelikte olması, yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemesi, mücbir sebebin meydana geldiği tarihi izleyen yirmi gün içinde yüklenicinin idareye yazılı olarak bildirimde bulunması, yetkili merciler tarafından belgelendirilmesi zorunlu kılınmıştır. Yine aynı maddede işin tamamlanması için sözleşmesinde tespit edilen tarih veya süre haricinde başkaca kayıt bulunmayan işlerde, havanın fen noktasından çalışmaya uygun olmayan devresi ile resmi tatil günleri göz önünde tutularak iş bitim tarihi veya süresi belirlenmiş sayılacağından, yüklenicinin, çalışmadığı bu gibi günleri öne sürerek süre uzatılması isteğinde bulunamayacağı; ancak süre uzatımlarında, yapılacak işin özelliğine göre çalışılamayacak günler de dikkate alınarak verilecek süre belirleneceği belirtilmiştir.
+
+Kamu İhale Genel Tebliğinin “Kamu İhale Kurumu tarafından belirlenen mücbir sebep halleri” başlıklı 25’inci maddesinin üçününcü fıkrasının 2’nci bendinde;
+
+“4735 sayılı Kanunda düzenlenen haliyle mücbir sebepler, yüklenicinin sözleşme konusu işi sözleşmede belirtilen şartlarda yapmasını engelleyen durumlardır. Maddede sayılan hallerin taahhüdün ifasını engellemesi durumunda yüklenici tarafından süresi içersinde idareye mücbir sebep başvurusunda bulunulması gerekmektedir. Yüklenicinin talebinin mevzuat çerçevesinde sonuçlandırılması hususundaki yetki ve sorumluluk idarededir. Anılan Kanun maddesinin ikinci fıkrasında belirtilen şartların varlığı durumunda, idarece yapılan değerlendirme sonucunda mücbir sebep nedeniyle süre uzatımı verilmesi veya sözleşmenin feshi yönünde karar alınabilecektir..."
+
+Aynı maddenin 4’üncü bendinde ise;
+
+“(...) Kamu İhale Kurumu tarafından anılan Kanun maddesinin (e) bendi çerçevesinde mücbir sebep olarak kabul edilebilecek benzeri diğer hallere ilişkin olarak genel bir belirleme yapılmaktadır. 4735 Sayılı Kanunun 10 uncu maddesinin (a), (b), (c), (d) bentlerinde sayılan mücbir sebep hallerine bakıldığında bu durumlarda hem öngörülmezlik, hem de önlenemezlik şartlarının bir arada gerçekleşmesi gerektiği açıktır. Anılan maddenin (e) bendi çerçevesinde Kurumca belirlenecek “benzeri diğer haller” için de bu iki kriterin bir arada sağlanması şartı aranmaktadır. Buna göre idarelerce yapılacak başvurularda mücbir sebep olarak belirlenmesi istenilen durumun öngörülmezlik ve önlenemezlik kriterlerini birlikte taşıması gerekmektedir.”
+
+Denilmektedir.
+
+Söz konusu işe ait Sözleşmenin “İşe Başlama ve Bitirme Tarihi” başlıklı 9’uncu maddesinde;
+
+“9.1.Sözleşmenin imzalandığı tarihten itibaren 10 (on) gün içinde Yapım İşleri Genel şartnamesi hükümlerine göre yer teslimi yapılarak işe başlanır.
+
+9.2. Yüklenici taahhüdün tümünü, işyeri teslim tarihinden itibaren … (…)
+
+gün içinde tamamlayarak geçici kabule hazır hale getirmek zorundadır. Sürenin hesaplanmasında; havanın fen noktasından çalışmaya uygun olmayan dönemi ile resmi tatil günleri dikkate alındığından bu nedenlerle süre uzatımı verilmez.
+
+…
+
+9.4. Bu iş yerinde havanın fen noktasından çalışmaya uygun olmadığı günler - tarihleri arasındaki () gündür. Ancak işin bitiminde bu devre dikkate alınmaz ve İdare Yükleniciden teknik şartları yerine getirerek işin tamamlanması için bu dönemde çalışmasını isteyebilir. Zorunlu nedenlerle ertesi yıla sâri hale gelen işlerde çalışmaya uygun olmayan devre ödenek durumuna ve imalatın cinsine göre dikkate alınır.”
+
+Şeklinde düzenleme bulunmaktadır.
+
+Aynı Sözleşmenin "Gecikme Halinde Uygulanacak Cezalar ve Sözleşmenin Feshi" başlıklı 25’inci maddesinde ise yüklenicinin sözleşmeye uygun olarak işi süresinde bitirmediği takdirde, gecikilen her gün için sözleşme bedelinin %... (on binde …) oranında gecikme cezası uygulanacağı belirtilmiştir.
+
+Bahsi geçen mevzuat ve sözleşme hükümleri birlikte değerlendirildiğinde; yüklenicinin taahhüdünü işe ilişkin sözleşmede belirlenen sürede yerine getirmek zorunda olduğu; işin süresinin hesaplanmasında havanın fen noktasından çalışmaya uygun olmayan dönemi ile resmi tatil günleri dikkate alındığından, bu nedenlerle ayrıca süre uzatımı verilemeyeceği; işin çeşitli sebeplerle süresi içinde geçici kabule hazır hale getirilmemesi halinde, idare tarafından, söz konusu sözleşmede belirlenen günlük gecikme cezasının uygulanması gerektiği; sorumluluğu yükleniciye ait olmayan ve taahhüdün ifasına engel nitelikteki olayların meydana geldiği ve bu durumun işin süresi içinde tamamlanarak geçici kabule hazır hale getirilmesini zorlaştırdığı veya imkânsız kıldığı durumlarda yüklenicinin süre uzatım talebinde bulunabileceği; idarenin söz konusu talebe konu olayı mücbir sebep olarak değerlendirmesi ve yükleniciye süre uzatımı verebilmesi için, mücbir sebep olarak değerlendirilen durumun yüklenici kusurundan ileri gelmemiş, taahhüdün yerine getirilmesine engel nitelikte, yüklenici tarafından ortadan kaldırılamamış, mücbir sebebin ortaya çıkmasından itibaren yirmi gün içinde yüklenici tarafından yazılı bildirimde bulunulmuş olmasının aranacağı; yüklenicinin, mücbir sebep oluşturan olayları belgelemesi gerektiği; mücbir sebebin varlığının, yetkili mercilerce usulüne uygun olarak düzenlenmiş belgelerle tevsik edilmesinin şart olduğu; idarenin süre uzatımı kararını verirken başvuru konusunu öngörülebilirlik ve önlenebilirlik açısından değerlendirmesi gerektiği anlaşılmaktadır.
+
+Yapılan incelemede; yükleniciye … tarihinde iş yeri tesliminin yapıldığı ve sözleşmeye göre işin bitirilmesi gereken tarihin … olduğu; yüklenici firmanın … ve … tarihli dilekçeler ile yaptığı süre uzatımı başvurularına istinaden Belediye tarafından … ve … tarihlerinde iki ayrı süre uzatımı kararı alındığı; söz konusu iki süre uzatımı yazısında, olumsuz hava şartları gerekçe gösterilerek, … tarihli yazı ile 15 gün, … tarihli yazı ile ise 22 gün olmak üzere toplam 37 gün ilave süre verildiği görülmüştür.
+
+Ancak, sözleşmeye konu işin süresi içinde yüklenici tarafından yapılması gereken imalatlara ilişkin iş kalemlerinin hava şartlarının olumsuz olması gerekçe gösterilerek yapılamamasından bahisle yükleniciye 37 günlük süre uzatımı verilmesi mevzuata ve işin sözleşmesine aykırıdır. Zira bahsi geçen sözleşme hükümlerine göre, yüklenicinin yer teslim tarihinden itibaren … gün içerisinde işi bitirmesi gerektiği belirtildiğinden ve sürenin hesaplanmasında havanın fen noktasından çalışmaya uygun olmayan dönemi ile resmi tatil günleri dikkate alındığından ayrıca süre uzatımı verilmesi mümkün değildir.
+
+İlgili işte, Yapım İşleri Genel Şartnamesi ve sözleşme hükümlerine aykırı olarak süre uzatımı verilmesi sonucu bu süreler için kesilmesi gereken gecikme cezasının uygulanmaması sorgu konusu edilmiş olsa da, sorumlular tarafından gönderilen savunmalardan, kamu zararının hakedişten kesinti yapılmak suretiyle tahsil edildiği anlaşılmaktadır.
+
+Bu itibarla; “...Yaşam Merkezi 1. Etap Yapım” işinde; Yapım İşleri Genel Şartnamesi ve Sözleşme hükümlerine aykırı olarak süre uzatımı verilmesi sonucu bu süreler için kesilmesi gereken gecikme cezasının uygulanmaması sonucu oluşan … TL kamu zararının, … tarih ve … no.lu ödeme emri belgesi ile … no.lu kesin hakedişten kesinti yapılmak suretiyle tahsil edildiği anlaşıldığından, ilişilecek bir husus kalmadığına;
+
+İşbu ilamın tebliğ tarihinden itibaren altmış gün içerisinde 6085 sayılı Sayıştay Kanununun 55’inci maddesi uyarınca Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,

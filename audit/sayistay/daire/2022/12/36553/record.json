@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35742",
+  "decision_date": "2022-12-01",
+  "source_id": 36553,
+  "chamber": "2",
+  "ilam_number": "26",
+  "item_number": 10,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36553/",
+  "source_sha256": "e028da8ef10e761a1152c66f335e4ad7d584f92f9169fd2cf7babd167cd8802f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
