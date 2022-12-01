@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Kişisel Verileri Koruma Kurumu",
+  "document_type": "decision-summary",
+  "number": "2022/1281",
+  "source_id": 7589,
+  "date": "2022-12-01",
+  "title": "“İcra takibi dolayısıyla veri sorumlusu avukat tarafından borçlunun borç bilgisinin oğlu ile paylaşılması ve kendisi ile borç bilgisi paylaşılan borçlunun oğlunun telefon numarasının bu suretle hukuka aykırı olarak işlenmesi” hakkında Kişisel Verileri Koruma Kurulunun 01/12/2022 tarihli ve 2022/1281 sayılı Karar Özeti ",
+  "source": "https://www.kvkk.gov.tr/Icerik/7589/2022-1281",
+  "source_sha256": "cd4819b6b1b037a599ef2f4fb45d1f7515c6dd45d09837b7516dfbc122f506f5",
+  "text_status": "summary",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
