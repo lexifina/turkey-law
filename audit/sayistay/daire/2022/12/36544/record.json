@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 2. Dairesi",
+  "number": "35742",
+  "decision_date": "2022-12-01",
+  "source_id": 36544,
+  "chamber": "2",
+  "ilam_number": "26",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36544/",
+  "source_sha256": "357eb3a8e8ec1a02acaba86c30ad28da37e09f41308018615c6a7f8e8183bb52",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
