@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-01",
+  "issue": "32030",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİK",
+  "title": "Nükleer Tesislerde Organizasyon Yapısı ve Personel Yönetmeliği",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221201-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221201.htm",
+  "index_sha256": "a77570a708a1ea0b953eeb91e39b018d44ba9258a0a0e3735d5a97f46a50d847",
+  "index_header": "1 Aralık 2022 ... 32030 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221201.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
