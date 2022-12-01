@@ -1,0 +1,4 @@
+Çeşitli hükümler
+MADDE 19- (1) Bu Yönetmeliğin uygulanmasında öngörülmeyen durumların oluşması hâlinde, sürecin nasıl ve hangi koşullarda devam edebileceğine ilişkin karar Kurum tarafından verilir ve Kuruluşa bildirilir.
+(2) Bu Yönetmelik uyarınca yapılacak yeterlik sınavının Türkçe veya İngilizce olmaması ile yetkilendirme sınavının Türkçe veya İngilizceden farklı bir dilde olmasının talep edilmesi ve talebin Kurum tarafından uygun bulunması durumlarında, Kuruluş eşzamanlı çeviri hizmeti sağlar. Hatalı çeviriden kaynaklanabilecek sorunlar nedeniyle aday veya Kuruluş herhangi bir hak iddiasında bulunamaz.
+(3) Kuruluş personeline ilişkin kişisel verileri, 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ile bu Kanuna dayanılarak yürürlüğe konulan mevzuata uygun olarak işler ve muhafaza eder.
