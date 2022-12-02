@@ -1,0 +1,18 @@
+{
+  "kind": "norm",
+  "issuer": "Bilgi Teknolojileri ve İletişim Kurumu",
+  "document_type": "kurul-karari",
+  "number": "2022/DK-YED/366",
+  "source_id": "2022/DK-YED/366",
+  "date": "2022-12-02",
+  "title": "2023 Yılı Kullanım Hakkı ve Posta Yetki Belgesi Ücretleri",
+  "source": "https://www.btk.gov.tr/s3/web-btk-site/7708c26c-5161-4919-8b3d-daa31d4ac8fb/2026/03/2f1bf3cf-8d61-477d-9443-70545a29a394.pdf",
+  "source_sha256": "fd8307bb1d79859a35fce64d2c9a63ff458e8db7195994ae3cf31013345dc04f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
