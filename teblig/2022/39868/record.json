@@ -1,0 +1,30 @@
+{
+  "source_id": "9.5.39868",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "5201 SAYILI KANUN GEREĞİNCE KONTROLE TÂBİ TUTULACAK HARP ARAÇ VE GEREÇLERİ İLE SİLAH, MÜHİMMAT VE BUNLARA AİT YEDEK PARÇALAR, ASKERÎ PATLAYICI MADDELER, BUNLARA AİT TEKNOLOJİLERE İLİŞKİN LİSTE (2023 YILI KONTROLE TABİ MALZEME LİSTESİ)",
+  "number": "39868",
+  "path": "teblig/2022/39868",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39868&MevzuatTertip=5",
+  "source_sha256": "8f2a9f61a63dc6b54132cbb75b8f6e70c3ffc031b7a77c6f5b341a99dee0ebf5",
+  "source_bytes": 30299,
+  "published": "2022-12-03",
+  "gazette": "32032",
+  "in_force": "2022-12-03",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (03.12.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2025,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "http://www.mtcr.info/english/annex.html)",
+    "http://www.wassenaar.org/controllist/index.html)"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
