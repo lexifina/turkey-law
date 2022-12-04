@@ -1,0 +1,31 @@
+{
+  "act_path": "regulation/university/istinye-universitesi/2021/38599",
+  "availability": "text",
+  "checked_on": "2026-11-14",
+  "commencement_clauses": [
+    "MADDE 15 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer."
+  ],
+  "date_quote": "RG-4/12/2022",
+  "first_law": null,
+  "gazette": "31484",
+  "history": "current-text",
+  "images": {
+    "deferred": 0,
+    "omitted": 0,
+    "referenced": 0,
+    "source": 0
+  },
+  "in_force": "2022-12-04",
+  "in_force_basis": "latest source-printed amendment Gazette date; current consolidated text",
+  "issuer": "İstinye Üniversitesi",
+  "issuer_slug": "istinye-universitesi",
+  "kind": "regulation",
+  "published": "2021-05-17",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=8&MevzuatNo=38599&MevzuatTertip=5",
+  "source_id": "8.5.38599",
+  "source_sha256": "4d6224c57ac216e65fd543ecbf6246b04367f9dfd3c4718de4111301f1c6ee09",
+  "title": "İSTİNYE ÜNİVERSİTESİ BİLİMSEL VE TEKNOLOJİK ARAŞTIRMALAR UYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ",
+  "university_id": 461,
+  "version_label": "oldest version available",
+  "word_count": 1100
+}
