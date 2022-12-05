@@ -1,0 +1,4 @@
+İKİNCİ BÖLÜM
+Merkezin Amacı ve Faaliyet Alanları
+Merkezin amacı
+MADDE 5 – (1) Merkezin amacı; Üniversitenin ilgili bölüm ve anabilim dallarının iş birliği ile yurt içinde ve yurt dışında engelli bireylerin sorunlarıyla ilgili her alanda araştırma yapmak ve eğitime yönelik faaliyetlerde bulunmak, engelli bireylerin sorunlarına karşı duyarlılık geliştirmek ve farkındalık oluşturmak, yaşam kalitelerinin iyileştirilmesi için stratejiler geliştirmek ve uygulamak; bu konular ile ilgili çalışmalar yapan kurum ve kuruluşlarla iş birliği içinde bulunmak, kongre, sempozyum, panel, atölye çalışmaları ve kurslar düzenlemek, Üniversitenin ilgili birim ve bölümlerinin iş birliği ile ve/veya kamu kurumları ya da özel kuruluşlarla birlikte projeler yürütmek, engellilik konusunda toplumla Üniversite arasındaki iletişimi sağlamaktır.
