@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "27192137-105[323-2020/547]-149355",
+  "source_id": 27098,
+  "date": "2022-12-06",
+  "title": "Sigorta kapsamındaki yurtdışı alacağının sigorta şirketince tahsil edilememesi durumunda şüpheli alacak karşılığı ayrılıp ayrılamayacağı hk.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/ozelge/27098",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "acdddcb7ee65cd4e39b31d6b52d7998fbb42e5d0437a6de7b510b9bf2cae19b0",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
