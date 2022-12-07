@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "41931384-120[6-2020]-79855",
+  "source_id": 38899,
+  "date": "2022-12-07",
+  "title": "Ticari Kazanç Sahibi Mükellefin Instagram Üzerinden Yaptığı Reklamlardan Elde Ettiği Gelirin Vergilendirilmesi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/38899",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p009.json",
+  "source_listing_sha256": "9cb52b4963a9a177a23948f6e28c12936c2f43c88a0b410872bb81c01983667c",
+  "source_sha256": "a5c37ba040ec76f0de6457b8005c1bbd40fa0b33d81d80cf4eeda4837836633f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
