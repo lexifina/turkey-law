@@ -1,0 +1,23 @@
+Tanımlar
+MADDE 4- (1) Bu Yönetmelikte geçen;
+a) Bakanlık: Çevre, Şehircilik ve İklim Değişikliği Bakanlığını,
+b) Balast suyu: Geminin eğimi, meyilli, su çekimi, dengesi veya geriliminin kontrolü amacıyla askıdaki maddelerle birlikte gemiye alınan suyu,
+c) Bertaraf: 2/4/2015 tarihli ve 29314 sayılı Resmî Gazete’de yayımlanan Atık Yönetimi Yönetmeliğinin 4 üncü maddesinin birinci fıkrasının (ö) bendinde tanımlanan işlemi,
+ç) Çekek yeri: Tam boyu altmış metreye kadar her türlü gemi ve su araçlarına bakım-onarım, tadilat ve kışlatma ile yirmi dört metreye kadar inşa hizmeti veren tesisi,
+d) Çevre lisansı: Çevre İzin ve Lisans Yönetmeliğinde düzenlenen lisansı,
+e) Deniz izleme raporu: Tesislerin faaliyette bulunduğu deniz alanında yapılacak olan ölçüm, analiz ve tespitlere ilişkin sonuçları içeren raporu,
+f) Faaliyet raporu: Sediman alım tesislerinin, bu Yönetmelik hükümlerine uygun olarak işletildiğini gösteren raporu,
+g) Gemi: Adı, tonilatosu ve kullanma amacı ne olursa olsun denizde kürekten başka aletle seyredebilen her tekneyi,
+ğ) İdare: Tesis izleme raporu için Bakanlık, deniz izleme raporu için il müdürlüğünü,
+h) İl müdürlüğü: Çevre, şehircilik ve iklim değişikliği il müdürlüklerini,
+ı) Mevcut tesis: Bu Yönetmeliğin yürürlüğe girdiği tarihten önce kurulmuş veya çevresel etki değerlendirmesi mevzuatına göre kurulması uygun bulunan tesisleri,
+i) Sediman: Bir gemideki balast suyunun dibine çöken malzemeyi,
+j) Sediman alım tesisi: Balast tankı onarımı ve temizliği yapılan tesislerde gemi balast sularından kaynaklanan sedimanların alınması ve geçici depolanması amacıyla kurulmuş tesisleri,
+k) Sözleşme: 2004 Gemi Balast Suları ve Sedimanlarının Kontrolü ve Yönetim Hakkında Uluslararası Sözleşmeyi,
+l) Tadilat: Gemi ve su araçlarının üç ana boyutundan biri veya birkaçı ile gros ve net tonilatosunun en az birinin değişimine veya geminin cinsinin yolcu taşımacılığı ya da tehlikeli madde taşımacılığı yapmak üzere değiştirilmesine neden olacak yapısal değişikliği,
+m) Tekne imal yeri: Ahşap yat imalatında boy sınırlaması olmaksızın tam boyu yetmiş beş metreye kadar kara ve denizdeki fiziksel şartların uygun bulunması halinde yüz yirmi beş metreye kadar her türlü gemi ve su araçlarının inşa, tadilat ve bakım-onarım hizmetlerinden biri veya bir kaçının yapılmasına imkân sağlayan tesisi,
+n) Tersane: Her cins ve boyutlarda gemi ve su araçlarının inşası, bakım-onarım ve tadilatlarından biri veya bir kaçının yapılmasına imkân sağlayan tesisi,
+o) Tesis: Tersane, tekne imal yeri ve çekek yeri tanımlarından en az birine uyan işletmeyi,
+ö) Tesis izleme raporu: Tesiste yürütülen faaliyetler, hammadde ve atık akış sistematiğini detaylı olarak açıklayan ve izleme sonuçlarını içeren raporu,
+p) Yüzey hazırlama: Tesiste imal edilen ve/veya bakım onarım için gelen sac, ahşap, kompozit ve benzeri gemilerin hava ve su ile temasında korozyona uğramaması ya da korozyona uğrayan yüzeyde gemi yapı elemanlarının dayanıklılığını artırmak ve yüzeylerini korumak için uygulanan işlemlerin tümünü (kesme, taşlama, kazıma, yıkama, kurutma, macunlama, raspalama, boyama/vernikleme ve benzeri),
+ifade eder.

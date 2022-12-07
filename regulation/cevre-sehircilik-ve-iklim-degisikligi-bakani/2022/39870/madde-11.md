@@ -1,0 +1,2 @@
+Sediman alım tesisleri için çevre lisansı işlemleri
+MADDE 11- (1) Sediman alım tesisi kuran ve işleten tesisler, Çevre İzin ve Lisans Yönetmeliğinin Ek-2’sinin 8.3.5 numaralı satırı kapsamında gemilerin ürettiği atıklar ile yük artıklarının toplandığı atık kabul tesisler olarak çevre izin ve lisansı almak zorundadır. Yükümlülüklerini yerine getirmeyen sediman alım tesisleri için çevre lisans belgesinin iptali işlemleri; Çevre İzin ve Lisans Yönetmeliği hükümleri çerçevesinde yapılır.

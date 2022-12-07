@@ -1,0 +1,10 @@
+Numune alınması
+MADDE 15- (1) Numuneler tesisin etki alanı içerisinde en az 5 nokta ve dışında 2 noktada izleme yapılacak şekilde olmalıdır. Deniz suyunda izlenecek parametreler mevsimsel olarak izlenirken, makro-bentoz örneklemeleri üç yılda bir, deniz sedimanı ve biyota örneklemeleri yılda bir kez yapılmalıdır.
+(2) Su kolonu boyunca derinliği 20 metrenin üzerinde olan istasyonlarda en az 3 derinlikte (yüzey-ara-dip) örnekleme yapılmalıdır. Dip örneklemesi ise tabanın 1-2 metre üzerindeki derinlikte yapılmalıdır. Derinliği 20 metreden az olan istasyonlarda örneklemenin yüzey ve dip derinlikten yapılması yeterlidir.
+(3) Deniz sedimanından, biyotadan numune alma ile makro bentoz örneklemeleri ile ilgili olarak Bakanlıkça yayımlanan Deniz İzleme Kılavuzu esaslarına ve ilgili standart hükümlerine uyulur. Numune alma noktalarının koordinatları, noktanın derinliği, o noktadaki toplam su derinliği kaydedilir.
+(4) Deniz ortamından numune alma; numunenin alındığı tarih, saat, meteorolojik şartlar (yağış, hava sıcaklığı, rüzgâr hızı ve yönü ile akıntı yönü) ve su sıcaklığı belirtilerek yapılır. Numune alma noktalarının koordinatları, numunenin alındığı yer, numune kodu, noktanın derinliği, o noktadaki toplam su derinliği ve kıyıdan uzaklık kaydedilir.
+(5) Deniz suyu, deniz sedimanı ve biyota numune alma ve analiz çalışmaları, Bakanlıkça yetkilendirilmiş laboratuvarlarca, yetkilendirilmiş laboratuvarların bulunmaması durumunda akredite laboratuvarlarca yapılır.
+(6) Numune alma, saklama ve analiz yöntemleri ile ilgili olarak Bakanlıkça yayımlanan Deniz İzleme Kılavuzu esaslarına ve/veya ulusal/uluslararası kabul görmüş standartlarda belirtilen hususlara uyulur.
+(7) Takip eden yıllarda yapılacak olan numune alımları aynı koordinatlardan yapılır.
+(8) Faaliyet sahibi tarafından, numune alma tarihleri, il müdürlüğüne en az 10 gün öncesinden bildirilir.
+(9) İdare gerekli gördüğü durumlarda, tesislerin bulunduğu alandan kontrol amaçlı numuneler aldırabilir, analizleri yaptırılabilir ve akademik kurum ve kuruluşlara rapor hazırlatabilir.

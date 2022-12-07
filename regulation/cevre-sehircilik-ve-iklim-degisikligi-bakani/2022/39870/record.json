@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39870",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TERSANE, TEKNE İMAL VE ÇEKEK YERLERİNİN ÇEVRESEL YÖNETİMİ HAKKINDA YÖNETMELİK",
+  "number": "39870",
+  "issuer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı",
+  "issuer_slug": "cevre-sehircilik-ve-iklim-degisikligi-bakani",
+  "path": "regulation/cevre-sehircilik-ve-iklim-degisikligi-bakani/2022/39870",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39870&MevzuatTertip=5",
+  "source_sha256": "b8a7482b3f956ee8df496223ea6ce5795120a4a91ead307a498fd15faa06238c",
+  "source_bytes": 108603,
+  "published": "2022-12-07",
+  "gazette": "32036",
+  "in_force": "2022-12-07",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (07.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 3305,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39870-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
