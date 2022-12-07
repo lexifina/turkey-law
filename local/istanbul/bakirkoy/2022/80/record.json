@@ -1,0 +1,23 @@
+{
+  "number": "80",
+  "number_as_published": "80",
+  "year": 2022,
+  "title": "Meclis ve ihtisas komisyonu toplantıları için 2023 yılında ödenecek hakkı huzur ücretinin belirlenmesi",
+  "decision_date": "2022-12-07",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/22",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/80-2023-yilinda-meclis-ve-ihtisas-kom-toplantilari-icin-odenecek-hakki-huzur-ucretinin-belirlenmesi07122022.pdf",
+  "source_sha256": "ccb02f90b966d7a5131790509dd6de47b7f0c3bfd9b103a4a6a6dd8cdb651009",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-07",
+  "in_force_basis": "Decision date as printed in the official council listing: 07 Aralık 2022 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
