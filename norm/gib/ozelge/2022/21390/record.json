@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125-312789",
+  "source_id": 21390,
+  "date": "2022-12-08",
+  "title": "Üniversiteye hazırlık kursu öğretmenlerine yapılan eğitim-öğretim tazminatı ödemelerinden kesinti yapılıp yapılmayacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/21390",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p000.json",
+  "source_listing_sha256": "5444faf84128246cd8dd8c6db754d41e2a11c7717342bfe0a07a35074d061761",
+  "source_sha256": "637aa75849009cc3f154304dcd42fe1563eeb053e5e55f67c17f3bbfe0dd5d54",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
