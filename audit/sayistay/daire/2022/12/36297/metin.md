@@ -1,0 +1,25 @@
+Damga Vergisi
+
+… Büyükşehir Belediyesi Su ve Kanalizasyon İdaresi Genel Müdürlüğü ile … İçecek Sanayi ve Ticaret A.Ş arasında imzalanan ve “Doğal Kaynak Suyu Kiralama Sözleşmesi Devir ve Şartnamesi” hükümlerinde değişiklik yapan ek protokolden sözleşme damga vergisinin tahsil edilmemesi sonucu … TL kamu zararına sebebiyet verildiği iddiasına ilişkin olarak,
+
+488 sayılı Damga Vergisi Kanunu’nun 1’inci maddesinde, bu Kanuna ekli (1) sayılı tabloda yazılı kağıtların damga vergisine tabi olduğu; 2’nci maddesinde, vergiye tabi kağıtlar mahiyetinde bulunan veya onların yerini alan mektup ve şerhlerle, bu kağıtların hükümlerinin yenilenmesine, uzatılmasına, değiştirilmesine, devrine veya bozulmasına ilişkin mektup ve şerhlerin damga vergisine tabi olacağı; 3’üncü maddesinde, damga vergisinin mükellefinin kağıtları imza edenler olduğu ve resmi dairelerle kişiler arasındaki işlemlere ait kağıtların damga vergisini kişilerin ödeyeceği; 4’üncü maddesinde, bir kağıdın tabi olacağı verginin tayini için o kağıdın mahiyetine bakılacağı ve buna göre tabloda yazılı verginin bulunacağı, kağıtların mahiyetlerinin tayininde, şekli kanunlarda belirtilmiş olanlarda kanunlardaki adlarına, belirtilmemiş olanlarda ise üzerlerindeki yazının tazammun ettiği hüküm ve manaya bakılacağı; 6’ncı maddesinde, bir kağıtta birbirinden tamamen ayrı birden fazla akit ve işlem bulunduğu takdirde bunların herbirinden ayrı ayrı vergi alınacağı, bir kağıtta toplanan akit ve işlemler birbirine bağlı ve bir asıldan doğma oldukları takdirde Damga Vergisinin, en yüksek vergi alınmasını gerektiren akit veya işlem üzerinden alınacağı; 8’inci maddesinde, bu Kanunda yazılı resmi daireden maksadın, genel ve özel bütçeli idarelerle, il özel idareleri, belediyeler ve köyler olduğu, bu dairelere bağlı olup ayrı tüzel kişiliği bulunan iktisadi işletmelerin resmi daire sayılmayacağı; 10’uncu maddesinde, damga vergisinin nispi veya maktu olarak alınacağı ve nispi vergide kağıtların nevi ve mahiyetlerine göre, bu kağıtlarda yazılı belli paranın, maktu vergide ise kağıtların mahiyetlerinin esas olduğu ve belli para teriminin, kağıtların ihtiva ettiği veya bunlarda yazılı rakamların hasıl edeceği parayı ifade ettiği; 14’üncü maddesinin ikinci fıkrasında, belli parayı ihtiva eden mukavelenamelerin değiştirilmesi halinde artan miktarın aynı nispette vergiye tabi olacağı, hükme bağlanmıştır.
+
+Aynı Kanuna ekli (1) sayılı tablonun "I. Akitlerle ilgili kağıtlar" başlıklı bölümünün A/1 fıkrasında, belli parayı ihtiva eden mukavelenameler, taahhütnameler ve temliknamelerin binde 9,48 nispetinde vergiye tabi olduğu belirtilmiştir.
+
+… Su ve Kanalizasyon İdaresi Genel Müdürlüğü ile … İçecek Sanayi ve Ticaret A.Ş arasında imzalanan ek protokolün “Kira Bedeli Tespiti” başlıklı 4’üncü maddesinde;
+
+“Sözleşme tarihi olan 24 temmuz’ dan önce, her yıl, o yıl birim fiyatı ÜFE artışı oranında artırılarak .... Yönetim Kurulu tarafından belirlenip, şirket yetkililerine bildirilecektir. 27.07.2015-27.07.2016 tarihleri arası muhammen bedel 10.12.2015 tarih ve 246 sayılı ... Yönetim Kurulu kararı ile 1 ton suyun bedeli (KDV hariç) 9,76 TL olarak belirlenmiştir.
+
+Mevcut sözleşmenin 1'inci maddesinde yer alan “Yatırımlar kiracı tarafından yapıldığı kendi malı olması nedeniyle, diğer emsali fabrikalardan ortalama sayaç ücretinden %20 olarak indirim uygulanacaktır.” Cümlesi geçerli olacaktır. Bu nedenlerle 9,76 TL üzerinden yapılan hesaplamada %20 indirim yapılacaktır.
+
+Kiracı kiralanan protokolünü imzalamakla yıllık ortalama asgari 100.000 ton (yüzbin) su kullanmasa dahi, yıllık asgari 100.000 ton (yüzbin) kaynak suyu karşılığı kira bedelini kayıtsız şartsız ödemeyi kabul ve taahhüt etmiş sayılır.”
+
+11’inci maddesinde;
+
+“İş bu 10 (on) maddeden oluşan protokol 15.06.2016 tarihinde taraflar arasında tanzim edilip sözleşmenin sona erdiği 05.05.2030 tarihine kadar geçerlidir.”
+
+hükümlerine yer verilmiştir.
+
+	Bu kapsamda yapılan incelemede; ek protokolde 1 metreküp su bedelinin … TL olarak belirlendiği, kiracının yıllık asgari … ton kaynak suyu karşılığı kira bedelini ödemek durumunda olduğu, buna göre yıllık ödenmesi gereken kira bedelinin … TL olacağı, ancak yine protokol hükmüne göre 1 metreküp su bedelinden %... indirim yapılması gerektiği, indirim sonrası ödenmesi gereken yıllık kira tutarının …0 TL (…*…) olduğu, ek protokolün … ilâ … yılları arasında uygulanacağı dikkate alındığında söz konusu … yıl için alınması gereken kira bedelinin … TL olacağı tespit edilerek aynı zamanda damga vergisi matrahı olan bu bedel üzerinden binde 9,48 nispetindeki sözleşme damga vergisinin tahsil edilmemesi sonucu … TL (…*0,00948) tutarında vergi ziyaına sebebiyet verildiği görülmüştür.
+
+Ancak, Muhasebe Yetkilisi … ve Diğer Sorumlu … tarafından gönderilen savunmalardan, bu tutarın yasal faiziyle birlikte … tarih ve … no.lu muhasebe işlem fişleri ile protokolün diğer tarafı olan … İçecek Sanayi ve Ticaret A.Ş’den tahsil edildiği anlaşıldığından, uyuşmazlık konusu edilen … TL hakkında ilişilecek bir husus kalmadığına, oy birliğiyle karar verildi.
