@@ -1,0 +1,25 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11436-1",
+  "decision_date": "2022-12-08",
+  "title": "Enerji Piyasaları İşletme Anonim Şirketi’nin aşağıdaki Elektrik Piyasası İşletim Gelir Tavanının Karşılanması İçin Uygulanacak Bedeller ve Uygulamaya İlişkin Yöntem Bildirimi’nin kabul edilmesine ve 2023 yılı piyasa işletim ücretlerinin ilgili Yöntem Bildirimleri kapsamında",
+  "resmi_gazete_date": "2022-12-13",
+  "resmi_gazete_number": "32042",
+  "categories": [
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yY78CTrqX6M=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=yY78CTrqX6M="
+  ],
+  "source_sha256": "d5b514a16c9c183e8ba17b159d37826a4d0f2d298b00b726e5ae33db44e018c6",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 14713,
+  "text_status": "metadata-only",
+  "metadata_only_reason": "the two text extractions differ",
+  "in_force": "2022-12-08",
+  "law_text_complete": false
+}
