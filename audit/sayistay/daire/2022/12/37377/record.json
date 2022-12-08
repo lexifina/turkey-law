@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "573",
+  "decision_date": "2022-12-08",
+  "source_id": 37377,
+  "chamber": "5",
+  "ilam_number": "123",
+  "item_number": 8,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Harcırah Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37377/",
+  "source_sha256": "624fe981d1ed1531e642f085c87962713ca4e26bc872a288479f529b3e2d94af",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
