@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "574",
+  "decision_date": "2022-12-08",
+  "source_id": 37439,
+  "chamber": "5",
+  "ilam_number": "129",
+  "item_number": 4,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37439/",
+  "source_sha256": "f2327f1399f3e588caa450ac506731d262b85f01d40de0826cd38a5bfbae5547",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
