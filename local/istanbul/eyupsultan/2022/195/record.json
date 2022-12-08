@@ -1,0 +1,22 @@
+{
+  "number": "195",
+  "number_as_published": "2022/195",
+  "year": 2022,
+  "title": "Asfalt tamir robotu alımı",
+  "decision_date": "2022-12-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-aralik-ayi-meclis-kararlari/2346",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-195/2355",
+  "source_sha256": "6c7082bc005cc8fa7ab855f68077a46343c5bdd0cec9ccc568a2843383ddc623",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.12.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "1975cb0f319ea5a8a575e96224ff02b75f137a909a34b1a45382c3adc211138b"
+}
