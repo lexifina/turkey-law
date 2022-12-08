@@ -1,0 +1,15 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 5. Dairesi",
+  "number": "573",
+  "decision_date": "2022-12-08",
+  "source_id": 37372,
+  "chamber": "5",
+  "ilam_number": "123",
+  "item_number": 3,
+  "account_year": 2021,
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37372/",
+  "source_sha256": "9108a68b6c807a21230f271bcfbc22cb8036532ca2c53a8afa5e64f35c1b23cf",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
