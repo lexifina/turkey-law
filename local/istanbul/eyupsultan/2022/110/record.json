@@ -1,0 +1,22 @@
+{
+  "number": "110",
+  "number_as_published": "2022/110",
+  "year": 2022,
+  "title": "Bağımlılıkla mücadele",
+  "decision_date": "2022-12-08",
+  "source": "https://eyupsultan.bel.tr/tr/main/pages/2022-aralik-ayi-meclis-kararlari/2346",
+  "official_document": "https://eyupsultan.bel.tr/tr/main/pages/2022-110/2347",
+  "source_sha256": "6c7082bc005cc8fa7ab855f68077a46343c5bdd0cec9ccc568a2843383ddc623",
+  "issuer": "Eyüpsultan Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-08",
+  "in_force_basis": "Decision date as printed in the official council listing: 08.12.2022 (meeting date at the start of the decision page); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "decision_page_sha256": "1fe4e2812d9ad79c70a55fc35c899c4fda0ddfb292c656f48503f32621cd06e2"
+}
