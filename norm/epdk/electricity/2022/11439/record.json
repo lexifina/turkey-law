@@ -1,0 +1,26 @@
+{
+  "kind": "norm",
+  "issuer": "Enerji Piyasası Düzenleme Kurumu",
+  "market": "electricity",
+  "document_type": "board-decision",
+  "number": "11439",
+  "decision_date": "2022-12-08",
+  "title": "2023 yılında Vadeli Elektrik Piyasası’nda geçerli olacak birim ücretlere ilişkin",
+  "resmi_gazete_date": "2022-12-13",
+  "resmi_gazete_number": "32042",
+  "categories": [
+    "Diğer Kurul Kararları",
+    "Elektrik Piyasası Tarife Kurul Kararları"
+  ],
+  "source": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uibA2AtSKjE=",
+  "documents": [
+    "https://www.epdk.gov.tr/Detay/DownloadDocument?id=uibA2AtSKjE="
+  ],
+  "source_sha256": "d8d50d7451b0952d7bcc78f117fd3efa11add12d397354598aa6aae1ea6079ea",
+  "official_list": "https://www.epdk.gov.tr/Detay/Icerik/3-0-39/kurul-kararlari-",
+  "official_list_leaf": 33863,
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "in_force": "2022-12-08",
+  "law_text_complete": true
+}
