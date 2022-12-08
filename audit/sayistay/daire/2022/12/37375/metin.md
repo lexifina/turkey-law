@@ -1,0 +1,25 @@
+Yiyecek yardımı
+
+Belediye personeline yiyecek yardımının yemek verme şeklinde yapılmayarak mevzuata aykırı olarak nakit ödeme yapılması suretiyle …. TL kamu zararına sebebiyet verildiği hususu ile ilgili olarak;
+
+657 sayılı Devlet Memurları Kanununun “Yiyecek yardımı” başlıklı 212 nci maddesinde; Devlet memurlarının hangi hallerde, yiyecek yardımından ne şekilde faydalanacakları ve bu yardımın uygulanması ile ilgili esasların Maliye Bakanlığı ile Başbakanlık Devlet Personel Başkanlığının birlikte hazırlayacakları bir yönetmelik ile tespit olunacağı belirtilmiştir.
+
+Bahse konu Yönetmelik 19/11/1986 tarih ve 86/11220 sayılı Bakanlar Kurulu Kararıyla 11 Aralık 1986 tarihli ve 19308 sayılı Resmi Gazetede yayımlanmak suretiyle yürürlüğe girmiştir. 10.02.2018 gün ve 30328 sayılı Resmi Gazete’de yayımlanan 2017/11180 sayılı Bakanlar Kurulu kararıyla Devlet Memurları Yiyecek Yardımı Yönetmeliğinin maddelerinde değişiklik yapılmıştır. Bu değişiklikle,
+
+“Yardım Şekli” başlıklı 3’üncü maddesi, “Yiyecek yardımı sadece yemek verme şeklinde yapılır. Bu yardım, nakten veya kupon, kart, fiş ya da bu mahiyette bir ödeme aracı verilmek suretiyle yapılamaz.”
+
+“Yardımın Şartları” başlıklı 5’inci maddesi, "Kurum bütçelerine yiyecek yardımı karşılığı olarak konulan ödenek, memurlara yemek vermek üzere kurulan yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluşa ödenir. Yiyecek yardımının gerektirdiği giderler sadece yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluş tarafından yapılır.
+
+Yemek servisi, yiyecek yardımından faydalanabilecek personel sayısının asgari 50 olması ve yemekhane için elverişli bulunması şartıyla atamaya yetkili amirin onayı ile kurulabilir.Yiyecek yardımı bu şekilde kurulan yemek servislerinde yapılır.
+
+Yemek servisi için gerekli bina, tesis ve demirbaş eşya kurumlarca sağlanır. Bunlara karşılık memurlardan ücret alınmaz.” düzenlemeleri yer almaktadır.
+
+Yukarıda yer alan mevzuat hükümlerine göre; yemek yardımı sadece yemek verme şeklinde yapılacak, yemek yardımı mahiyetinde memurlara çeşitli şekilde ödemede bulunulmayacaktır. Kurum bütçelerine yiyecek yardımı karşılığı olarak konulan ödenek, memurlara yemek vermek üzere kurulan yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluşlara ödenecek, dolayısıyla yemek verme işlemini memurlara özgülememiş olan lokanta ve benzeri yerlere bu tür ödemeler yapılamayacaktır. Yiyecek yardımının gerektirdiği giderler sadece yemek servisi, yardım sandığı, dernek veya bu mahiyetteki kuruluş tarafından yapılacaktır. Memurlara yapılacak yiyecek yardımının, nakit para ve para temsili araçlar sağlanarak veya civardaki lokantalardan bedeli ödenerek temin edilmesi şeklinde yapılması mümkün değildir. Yiyecek Yardımı Yönetmeliğinde 10.02.2018 günü yayımlanarak yürürlüğe giren değişikliğin ana gerekçesi de personele yemek verme yerine ödeme araçlarıyla yapılan nakdi ödemeleri hiçbir tereddüde mahal vermeyecek şekilde engellemektir.
+
+Dosya kapsamındaki bilgi ve belgelerin tetkikinden, Belediye tarafından yemek ihalesi yapıldığı, ihaleyi alan firma tarafından yemek hizmeti sunulmadığı, firmaya fatura karşılığı yapılan ödemeden bir kısım bedel düşülerek kalan tutarın personele nakit olarak dağıtıldığı, doğrudan temin suretiyle yemek alımlarında da aynı usulün uygulandığı, yani personele yemek karşılığı nakit ödeme yapıldığı, yiyecek yardımının para ve temsili araçlar sağlanarak veya bedeli ödenerek kurum dışında yemek yeme şeklinde yapılmasının mevzuata aykırılık oluşturduğu anlaşılmakta ise de;
+
+5 Temmuz 2022 tarih ve 31887 sayılı Resmi Gazete’de  yayımlanan; Devlet Memurları Kanunu İle Bazı Kanunlarda ve 375 Sayılı Kanun Hükmünde Kararnamede Değişiklik Yapılmasına Dair 7417 sayılı Kanunun Geçici 1 inci maddesinin 3 üncü fıkrasında;  “Konusu suç teşkil etmemek ve kesinleşmiş bir yargı kararına müstenit olmamak kaydıyla, bu maddenin yürürlük tarihine kadar personeline yemek yardımını nakden ödeyen ya da kupon, kart, fiş, bilet ya da bu mahiyette bir ödeme aracı üzerinden gerçekleştirmek amacıyla bu ödeme araçlarının teminini bütçesinden hizmet alımı yoluyla karşılamış olan ve 25/6/2001 tarihli ve 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanununun 32 nci maddesinin üçüncü fıkrası hükümlerine aykırı olarak sosyal denge tazminatı verdiği tespit edilen il özel idareleri, belediyeler, büyükşehir belediyeleri ve bağlı kuruluşlarının yetkili ve görevli personeli hakkında idari veya mali yargılama ve takibat yapılamaz, başlamış olanlar işlemden kaldırılır.” denilmiştir.
+
+Bu hüküm karşısında Raporun; 7417 sayılı Kanunun geçici 1 inci maddesinin 3 üncü fıkrası kapsamında bulunduğu anlaşılan ….. ncı maddesi hakkında, mali yargılama ve takibat yapılamayacağından,  yargılama konusu dosyanın ilgili madde ile sınırlı olarak İŞLEMDEN KALDIRILMASINA,
+
+6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca işbu İlamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oybirliğiyle karar verildi.
