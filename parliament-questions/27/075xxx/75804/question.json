@@ -1,0 +1,21 @@
+{
+  "record_type": "parliament-written-question",
+  "term": 27,
+  "legislative_year": 6,
+  "esas_no": "7/75804",
+  "submitted": "2022-12-09",
+  "submitted_as": "Başkanlığa geliş tarihi",
+  "mp": "Nuran İMİR",
+  "province": "Şırnak",
+  "summary": "Bir vakfın kurucusunun kızının cinsel istismara maruz kaldığı iddialarına ve Bakanlığın konu ile ilgili çalışmalarına ilişkin",
+  "status": "Cevaplandı",
+  "status_as_of": "2026-11-16",
+  "official_record": "https://www.tbmm.gov.tr/Denetim/Yazili-Soru-Onergesi-Detay/f72877c2-2a05-037b-e050-007f01005610",
+  "source": "https://tbmm.gov.tr/Denetim/YaziliSoruOnergesiTable",
+  "source_form": "https://tbmm.gov.tr/Denetim/Gecmis-Donem-Yazili-Soru-Onergeleri",
+  "source_sha256": "9d9195228be3d3dca4e862bc99cd6f14e27517f212d4bc15392a91d0ed4c6b35",
+  "in_force": "2022-12-09",
+  "in_force_basis": "Date the question reached the Speaker (Başkanlığa geliş tarihi) in the official TBMM written-question record; parliamentary oversight record, not law",
+  "history_type": "metadata",
+  "text_status": "metadata-only: question text, addressee and answers are in the linked official record (PDFs on cdn.tbmm.gov.tr); not transcribed here"
+}
