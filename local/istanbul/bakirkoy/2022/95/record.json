@@ -1,0 +1,23 @@
+{
+  "number": "95",
+  "number_as_published": "95",
+  "year": 2022,
+  "title": "Ruhsat ve Denetim Müdürlüğü 2023 Yılı Ücret Tarifesi",
+  "decision_date": "2022-12-09",
+  "source": "https://www.bakirkoy.bel.tr/meclis-kararlari/21",
+  "official_document": "https://www.bakirkoy.bel.tr/storage/app/media/meclis%20kararlar%C4%B1/95-ruhsat-ve-denetim-mudurlugu-2023-yili-ucret-tarifesi-09122022.pdf",
+  "source_sha256": "03ad7de804943575054397a1c78b22adbd26b3cf3f0cadabb33b30691154fc42",
+  "issuer": "Bakırköy Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-09",
+  "in_force_basis": "Decision date as printed in the official council listing: 09 Aralık 2022 (Tarih column of the official list); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision (number, date and summary as listed; the decision is the linked official PDF)",
+  "official_page": "https://www.bakirkoy.bel.tr/meclis-kararlari"
+}
