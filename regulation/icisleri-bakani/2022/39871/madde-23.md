@@ -1,0 +1,3 @@
+Yurt dışındaki personelin yıllık izinleri
+MADDE 23- (1) Öğrenim ile mesleki bilgi ve görgünün artırılması maksatlı yurt dışına gönderilen personel, yıllık izinlerini, İçişleri Bakanlığından veya yetki devri halinde yetki verilen makamdan onay almak suretiyle Türkiye’de veya bulunduğu ülkenin haricindeki başka bir ülkede geçirebilir. Ancak, izinlerin eğitim-öğretim yılının tatil dönemlerinde kullanılması esastır.
+(2) Yabancı memleketlerde sürekli veya geçici görevle bulunan personel, yıllık planlı izinlerini, İçişleri Bakanlığından veya yetki devri halinde yetki verilen makamdan onay almak suretiyle bulunduğu ülkenin haricindeki başka bir ülkede geçirebilir.

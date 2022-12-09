@@ -1,0 +1,2 @@
+Yurt dışına giden personelin sorumlulukları
+MADDE 21- (1) Bu Yönetmelik hükümleri doğrultusunda, seyahat maksadıyla yurt dışına giden personel hariç olmak üzere diğer tüm personel, gittikleri ülkelerdeki Türkiye Cumhuriyeti elçiliğine veya temsilciliklerine sözlü veya yazılı her türlü iletişim kanalıyla; geliş tarihini ve maksadını, kalacağı yer veya yerleri, izin süresini ve dönüş tarihini bildirmekle yükümlüdür.
