@@ -1,0 +1,26 @@
+{
+  "id": "presidency-regulation-6512",
+  "number": "6512",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "TALİM VE TERBİYE KURULU BAŞKANLIĞI YÖNETMELİĞİ",
+  "published": "2022-12-10",
+  "enacted": "2022-12-09",
+  "gazette_number": "32039",
+  "in_force": "2022-12-10",
+  "in_force_basis": "Official commencement clause: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\"; Resmî Gazete 2022-12-10, no amendment annotation in this source text.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=6512&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "dfcbb00db31cd5aa6a7c378399f71123d5bdf7812b6d75abb4b7160b94c2a315",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "missing_components": [],
+  "text_layout": "article-files",
+  "source_links": [],
+  "completeness": "html-text-complete"
+}
