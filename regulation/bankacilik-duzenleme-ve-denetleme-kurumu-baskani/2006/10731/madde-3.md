@@ -1,0 +1,21 @@
+Tanımlar
+MADDE 3 – (1) Bu Yönetmelikte yer alan;
+a) Banka: Kanunun 3 üncü maddesinde tanımlanan bankaları,
+b) Döviz varlıkları: Bankaların, yurt dışı şubelerine ilişkin hesapları da dahil olmak üzere, tüm yabancı para aktif hesaplarını, dövize endeksli varlıklarını, vadeli döviz alım taahhütlerini,
+c) Döviz yükümlülükleri: Bankaların, yurt dışı şubelerine ilişkin hesapları da dahil olmak üzere, tüm yabancı para pasif hesaplarını, dövize endeksli yükümlülüklerini, vadeli döviz satım taahhütlerini,
+ç) Dövize endeksli varlık ve yükümlülükler: Üzerlerinde, ilgili sözleşmelerde veya mevzuatta dövize endeksli bir araç olduğu açıkça tanımlanan ve değerleri döviz kurlarındaki değişmelerden doğrudan etkilenen varlık ve yükümlülükleri,
+d) Konsolide döviz varlıkları: Ana ortaklık niteliğine sahip bankaların konsolide finansal tablo hazırlama esaslarına göre (Değişik ibare:RG-10/12/2022-32039)(1) kredi kuruluşu ve/veya finansal kuruluş niteliğindeki ortaklıklarının hesapları ile konsolide edilen tüm yabancı para aktif hesaplarını, dövize endeksli varlıklarını, vadeli döviz alım taahhütlerini,
+e) Konsolide döviz yükümlülükleri: Ana ortaklık niteliğine sahip bankaların, konsolide finansal tablo hazırlama esaslarına göre (Değişik ibare:RG-10/12/2022-32039)(1) kredi kuruluşu ve/veya finansal kuruluş niteliğindeki ortaklıkların hesapları ile konsolide edilen tüm yabancı para pasif hesaplarını, dövize endeksli yükümlülüklerini, vadeli döviz satım taahhütlerini,
+f) (Değişik:RG-10/12/2022-32039)(1) Konsolide özkaynak: 5/9/2013 tarihli ve 28756 sayılı Resmî Gazete’de yayımlanan Bankaların Özkaynaklarına İlişkin Yönetmeliğe göre hesaplanan konsolide özkaynağı,
+g) Konsolide yabancı para net genel pozisyon: Konsolide döviz varlıkları toplamı ile konsolide döviz yükümlülükleri toplamının (Değişik ibare:RG-10/12/2022-32039)(1) Türk Lirası karşılıkları arasındaki farkı,
+ğ) Konsolide yabancı para net genel pozisyon/konsolide özkaynak standart oranı: Konsolide yabancı para net genel pozisyon tutarının, konsolide özkaynağa bölünmesi suretiyle hesaplanacak oranı,
+h) Kanun: 5411 sayılı Bankacılık Kanununu,
+ı) Kurum: Bankacılık Düzenleme ve Denetleme Kurumunu,
+i) Özkaynak: Bankaların (Değişik ibare:RG-10/12/2022-32039)(1) Özkaynaklarına İlişkin Yönetmeliğe göre hesaplanan özkaynağı,
+j) Vadeli döviz alım taahhütleri: Hesaplarda gayrinakdi bir taahhüt olarak yer alan ve takas işlemi ileri bir tarihte gerçekleşecek olan, vadeli döviz alım, swap para alım, futures para alım, alıcı (lehdar) taraf para alım opsiyonları, satıcı (keşideci) taraf para satım opsiyonları ve benzeri para alım işlemleri ile iki güne kadar valörlü döviz alım işlemlerini,
+k) Vadeli döviz satım taahhütleri: Hesaplarda gayrinakdi bir taahhüt olarak yer alan ve takas işlemi ileri bir tarihte gerçekleşecek olan, vadeli döviz satım, swap para satım, futures para satım, satıcı (keşideci) taraf para alım opsiyonları, alıcı (lehdar) taraf para satım opsiyonları ve benzeri para satım işlemleri ile iki güne kadar valörlü döviz satım işlemlerini,
+l) Yabancı para net genel pozisyon: Döviz varlıkları toplamı ile döviz yükümlülükleri toplamının (Değişik ibare:RG-10/12/2022-32039)(1) Türk Lirası karşılıkları arasındaki farkı,
+m) Yabancı para net genel pozisyon/özkaynak standart oranı: Yabancı para net genel pozisyon tutarının, özkaynağa bölünmesi suretiyle hesaplanacak oranı,
+n) (Ek:RG-10/12/2022-32039)(1) Delta: 23/11/2015 tarihli ve 29511 sayılı Resmî Gazete’de yayımlanan Bankaların Sermaye Yeterliliğinin Ölçülmesine ve Değerlendirilmesine İlişkin Yönetmeliğin 3 üncü maddesinde tanımlanan oranı,
+o) (Ek:RG-10/12/2022-32039)(1) Türkiye Finansal Raporlama Standartları (TFRS): Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından Türkiye Muhasebe Standardı, Türkiye Finansal Raporlama Standardı, Türkiye Muhasebe Standardı Yorum ve Türkiye Finansal Raporlama Standardı Yorum adlarıyla yayımlanan standartları,
+ifade eder.
