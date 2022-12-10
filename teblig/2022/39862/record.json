@@ -1,0 +1,42 @@
+{
+  "source_id": "9.5.39862",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2022/36)",
+  "number": "39862",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2022/39862",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39862&MevzuatTertip=5",
+  "source_sha256": "013fd86df1019098642607acffa09f77d9c749c81732aafc6435d51470fc01c7",
+  "source_bytes": 52649,
+  "published": "2022-11-29",
+  "gazette": "32028",
+  "in_force": "2022-12-10",
+  "in_force_basis": "latest Resmî Gazete date printed in the source amendment notes/table (\"RG-10/12/2022\") for the current consolidated text",
+  "date_evidence": [
+    [
+      "2022-12-10",
+      "RG-10/12/2022",
+      "Resmî Gazete date printed in the source amendment note"
+    ],
+    [
+      "2022-12-10",
+      "10/12/2022",
+      "Resmî Gazete date in the source amendment table"
+    ]
+  ],
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 1214,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}

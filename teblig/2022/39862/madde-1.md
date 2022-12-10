@@ -1,0 +1,2 @@
+Amaç ve kapsam
+MADDE 1- (1) Bu Tebliğin amacı, yerli üretici Türkiye Şişe ve Cam Fabrikaları A.Ş. tarafından gerçekleştirilen, Düzce Cam Sanayi ve Ticaret A.Ş. tarafından desteklenen başvuruya istinaden Rusya Federasyonu menşeli “Diğerleri” eşya tanımlı renksiz düzcam ürünü ithalatına yönelik yürürlükte bulunan dampinge karşı kesin önleme ilişkin nihai gözden geçirme soruşturması açılması ve açılan soruşturmanın usul ve esaslarının belirlenmesidir.
