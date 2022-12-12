@@ -1,0 +1,3 @@
+Danışma Kurulu ve görevleri
+MADDE 12- (1) Danışma Kurulu; Müdürün başkanlığında, Enstitü içinden veya dışından Merkezin faaliyet alanları ile ilgili bilim insanları, sanayiciler, kamu kurumları ve özel kuruluşların temsilcileri arasından Yönetim Kurulu tarafından önerilen ve Rektör tarafından görevlendirilen en az altı en fazla dokuz üyeden oluşur. Danışma kurulu üyelerinin görev süresi üç yıldır. Görev süresi sona eren üye yeniden görevlendirilebilir.
+(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda en az bir kez toplanarak Merkezin yıllık faaliyet programını değerlendirir, araştırma, geliştirme ve danışmanlık çalışmaları hakkındaki görüşlerini bildirir ve Yönetim Kuruluna önerilerde bulunur.
