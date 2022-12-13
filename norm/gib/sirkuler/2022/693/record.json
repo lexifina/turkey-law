@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "sirkuler",
+  "number": "VUK-148/ 2022-11",
+  "source_id": 693,
+  "date": "2022-12-13",
+  "title": "Antalya ili Demre, Finike ve Kumluca ilçelerindeki mükellefler için Beyanname Bildirim Süreleri Elektronik Defter Oluşturma ve İmzalanma ile e-Defter Beratlarının Yüklenme Süresi Uzatıldı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/434/sirkuler/693",
+  "related_law": "213 sayılı VERGİ USUL KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/sirkuler/list",
+  "source_listing": "evidence/list/2026-11-16/sirkuler-p000.json",
+  "source_listing_sha256": "60c9b519ec13187d56f9a7863ce3934a7fb9c37357209b90158ca6acfcc95b41",
+  "source_sha256": "0405b94cd710b726e4bdbe18616ef9d9a970205e72b04f08aa745cdabe9c0988",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
