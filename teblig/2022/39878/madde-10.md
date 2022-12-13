@@ -1,0 +1,2 @@
+Hijyen
+MADDE 10- (1) Bu Tebliğ kapsamında yer alan ürünler hakkında, 27/12/2011 tarihli ve 28155 sayılı Resmî Gazete’de yayımlanan Hayvansal Gıdalar İçin Özel Hijyen Kuralları Yönetmeliği, 17/12/2011 tarihli ve 28145 sayılı Resmî Gazete’de yayımlanan Gıda Hijyeni Yönetmeliği ve 29/12/2011 tarihli ve 28157 üçüncü mükerrer sayılı Resmî Gazete’de yayımlanan Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmelik hükümleri uygulanır.
