@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "890",
+  "decision_date": "2022-12-13",
+  "source_id": 36659,
+  "chamber": "6",
+  "ilam_number": "44",
+  "item_number": 13,
+  "public_body_type": "Düzenleyici ve Denetleyici Kurumlar",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36659/",
+  "source_sha256": "c9d8ccb19e820a19d78486b70ffb5cdb4c59961ad675fd63fe078421d55e269d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
