@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "49327596-125[KVK.ÖZ.2021.63]-317240",
+  "source_id": 28240,
+  "date": "2022-12-13",
+  "title": "Manavgat bölgesinde yaşanan yangın ile ilgili Cumhurbaşkanlığınca başlatılan yardım kampanyası çerçevesinde belediyeye yapılacak konteyner ve iç donanımı yardımının kurum kazancından indirimi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28240",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "287b3847046b93019856d4bf88a0210a35ff59ec8cebad270a0f8902f8918a87",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
