@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 6. Dairesi",
+  "number": "888",
+  "decision_date": "2022-12-13",
+  "source_id": 36591,
+  "chamber": "6",
+  "ilam_number": "34",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36591/",
+  "source_sha256": "ecdd1977edfae99d98abb58c3572b65733c75b6d1a8013f216e77dc07130d8d6",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
