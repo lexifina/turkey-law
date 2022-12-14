@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay Temyiz Kurulu",
+  "number": "52609",
+  "decision_date": "2022-12-14",
+  "source_id": 26329,
+  "chamber": "8",
+  "file_number": "49726",
+  "public_body_type": "Yüksek Öğretim Kurumları",
+  "account_year": "2018",
+  "subject": "Çeşitli Konuları İlgilendiren Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarTemyiz/Detay/26329/",
+  "source_sha256": "d66fdf771fa543490b56a01af029e0d07f9f6eb69311fefdabb07c0bf7015730",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
