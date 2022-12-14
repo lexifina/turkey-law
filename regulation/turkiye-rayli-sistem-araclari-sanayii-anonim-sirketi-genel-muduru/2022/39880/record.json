@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39880",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RAYLI SİSTEM ARAÇLARI SANAYİİ ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ SÖZLEŞMELİ PERSONEL SİCİL AMİRLERİ YÖNETMELİĞİ",
+  "number": "39880",
+  "issuer": "Türkiye Raylı Sistem Araçları Sanayii Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru/2022/39880",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39880&MevzuatTertip=5",
+  "source_sha256": "49e7cbe2a38326ec28ed48342e37b5bace60d31f301dd53279f5dcca103d423d",
+  "source_bytes": 17094,
+  "published": "2022-12-14",
+  "gazette": "32043",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 246,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39880-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}

@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 6- (1) 8/10/2002 tarihli ve 24900 sayılı Resmî Gazete’de yayımlanan Türkiye Vagon Sanayii Anonim Şirketi Genel Müdürlüğü Sözleşmeli Personel Sicil Amirleri Yönetmeliği ve 25/1/2012 tarihli ve 28184 sayılı Resmî Gazete’de yayımlanan Türkiye Lokomotif ve Motor Sanayii A.Ş. (TÜLOMSAŞ) Genel Müdürlüğü Sözleşmeli Personel Sicil Amirleri Yönetmeliği yürürlükten kaldırılmıştır.
