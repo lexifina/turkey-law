@@ -1,0 +1,24 @@
+{
+  "number": "679",
+  "number_as_published": "679",
+  "year": 2022,
+  "title": "Nazım İmar Planı Değ. (Halfeti-Yukarıgöklü)",
+  "decision_date": "2022-12-14",
+  "source": "https://www.sanliurfa.bel.tr/icerik/15007/106/nazim-imar-plani-deg-halfeti-yukarigoklu",
+  "official_document": null,
+  "source_sha256": "3c63038d252f97d4199785abd2fc2c4192a587677c66782eb1306d4822ada17b",
+  "issuer": "Şanlıurfa Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: decision number, date and subject from the official announcement; the decision text is not published on the page",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Decision date as printed in the official council listing: 14.12.2022 tarih ve 679 sayılı (council decision cited in the official announcement); adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one council decision, as cited in the municipality's official plan announcement (ilan)",
+  "announcement_date": "2023-01-06",
+  "listing": "https://www.sanliurfa.bel.tr/kategori/82/0/meclis-kararlari?page=2"
+}
