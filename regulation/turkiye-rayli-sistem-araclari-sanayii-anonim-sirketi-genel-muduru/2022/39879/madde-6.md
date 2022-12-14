@@ -1,0 +1,2 @@
+Yürürlükten kaldırılan yönetmelikler
+MADDE 6- (1) 24/10/2004 tarihli ve 25623 sayılı Resmî Gazete’de yayımlanan Türkiye Vagon Sanayii Anonim Şirketi Genel Müdürlüğü Disiplin Amirleri Yönetmeliği, 29/2/2012 tarihli ve 28219 sayılı Resmî Gazete’de yayımlanan Türkiye Demiryolu Makinaları Sanayii Anonim Şirketi Genel Müdürlüğü Disiplin Amirleri Yönetmeliği ve 8/6/2012 tarihli ve 28317 sayılı Resmî Gazete’de yayımlanan Türkiye Lokomotif ve Motor Sanayii A.Ş. (TÜLOMSAŞ) Genel Müdürlüğü Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır.

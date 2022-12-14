@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39879",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "TÜRKİYE RAYLI SİSTEM ARAÇLARI SANAYİİ ANONİM ŞİRKETİ GENEL MÜDÜRLÜĞÜ DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39879",
+  "issuer": "Türkiye Raylı Sistem Araçları Sanayii Anonim Şirketi Genel Müdürü",
+  "issuer_slug": "turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru",
+  "path": "regulation/turkiye-rayli-sistem-araclari-sanayii-anonim-sirketi-genel-muduru/2022/39879",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39879&MevzuatTertip=5",
+  "source_sha256": "64adb19e00517bba32417a58518fa4e5d58b9af161d0ee23581dcca7ecd25a57",
+  "source_bytes": 18075,
+  "published": "2022-12-14",
+  "gazette": "32043",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 284,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39879-ek.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
