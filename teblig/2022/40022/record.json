@@ -1,0 +1,33 @@
+{
+  "source_id": "9.5.40022",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "İTHALATTA GÖZETİM UYGULANMASINA İLİŞKİN TEBLİĞ (TEBLİĞ NO: 2022/3)",
+  "number": "40022",
+  "issuer": "Ticaret Bakanı",
+  "path": "teblig/2022/40022",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=40022&MevzuatTertip=5",
+  "source_sha256": "b925125dc5fcb34723fe5cefffb037b74c5dd4fc4badcbd7b6ff1b9b516e244c",
+  "source_bytes": 16989,
+  "published": "2022-12-14",
+  "gazette": "32043",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2022); own commencement article: \"Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Tebliğ yayımı tarihini takip eden 30 uncu gün yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 514,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "9.5.40022-EK.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
