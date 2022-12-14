@@ -1,0 +1,5 @@
+Döner sermaye işletmesi yürütme kurulu kararları ile döner sermaye işletme müdürü ve 657’tabi personele döner sermaye ek ödemesi yapılması;
+
+38 sayılı İlamın 1. maddesiyle verilen … TL’nin tazminine dair hükümde Gerçekleştirme Görevlisi sıfatı ile iştiraki bulunan …’ın itiraz başvurusu üzerine düzenlenen 46692 sayılı dosya, 14.12.2022 tarihli ve 52601 tutanak sayılı Temyiz Kurulu Kararı ile; konunun esası ve sorumluluk yönlerinden yapılan açıklamaların yeniden değerlendirilmesi sonrasında yeni bir hüküm edilmesi için 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(Döner Sermaye Yürütme Kurulu Kararı Üzerinde İmzası Bulunan) Döner Sermaye Yürütme Kurulu Üyesi sıfatıyla temyiz talep eden Genel Sekreter …’ı] ilgilendiren ve aynı mahiyette olan 46647 sayılı işbu dosyanın da sözü edilen (46692 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE; oy birliğiyle,
+
+Karar verildiği 14.12.2022 tarih ve 52604 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
