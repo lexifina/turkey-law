@@ -1,0 +1,31 @@
+{
+  "source_id": "7.5.39881",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DİYANET İŞLERİ BAŞKANLIĞI DİN İŞLERİ YÜKSEK KURULU ÇALIŞMA USUL VE ESASLARI HAKKINDA YÖNETMELİK",
+  "number": "39881",
+  "issuer": "Diyanet İşleri Başkanı",
+  "issuer_slug": "diyanet-isleri-baskani",
+  "path": "regulation/diyanet-isleri-baskani/2022/39881",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39881&MevzuatTertip=5",
+  "source_sha256": "aa185c24fba09e5f259adf37f09191b3c3fce618caa273e46cbe69bb228aa2d8",
+  "source_bytes": 80926,
+  "published": "2022-12-14",
+  "gazette": "32043",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (14.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2513,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
