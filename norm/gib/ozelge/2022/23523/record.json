@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "13649056-120[2021-ÖZE-10]-114323",
+  "source_id": 23523,
+  "date": "2022-12-14",
+  "title": "Görev yapılmak istenilen noterliğin bulunduğu yerlere yapılan seyahat, konaklama ve yeme-içme harcamalarının gider olarak dikkate alınıp alınmayacağı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/23523",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p001.json",
+  "source_listing_sha256": "e5c572e7d33c4a72997f66e3999bee09f80c627cabe3ea5a6521aa3f8abee01f",
+  "source_sha256": "60ad2df4f90dd23b84f1c4f29bd3426b62b8aedd7761654a039fa8315e5f706e",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
