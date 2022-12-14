@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-14",
+  "issue": "32043",
+  "edition": "regular",
+  "item": 1,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "YÖNETMELİKLER",
+  "title": "İç Kontrol ve Ön Malî Kontrole İlişkin Usul ve Esaslarda Değişiklik Yapılmasına Dair Usul ve Esaslar",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221214-1.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221214.htm",
+  "index_sha256": "757d7052b7c0515c86e28b83fac93c18f26663f0c74cb5bcb2208016de96f171",
+  "index_header": "14 Aralık 2022 ... 32043 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221214.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
