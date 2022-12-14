@@ -1,0 +1,5 @@
+İdareye ait bir yerin işleri için kullanılmasına rağmen yüklenici tarafından herhangi bir ödemede bulunulmaması;
+
+167 sayılı İlamın 44. maddesiyle verilen … TL’nin tazminine dair hükümde Kontrol Teşkilatı Üyesi sıfatı ile iştiraki bulunan …, …, …, … ve … ile Hakedişi Onaylayan sıfatı ile iştiraki bulunan …’in itiraz başvurusu üzerine düzenlenen 48799 sayılı dosya, 14.12.2022 tarihli ve 52626 tutanak sayılı Temyiz Kurulu Kararı ile; yapılan ödemede mevzuata aykırı bir husus bulunmadığı ve kamu zararı oluşmadığına ilişkin olarak belirtilen hususların tekrar değerlendirilmesini teminen 6085 sayılı Sayıştay Kanununun 55 inci maddesinin 7 nci fıkrası uyarınca tazmin hükmünün bozulması suretiyle Dairesine gönderildiğinden; bir diğer sorumluyu [(İşin Genel Kontrolünü Yapan) Üst Yönetici sıfatıyla temyiz talep eden …’ı]  ilgilendiren ve aynı mahiyette olan 48800 sayılı işbu dosyanın da sözü edilen (48799 sayılı) dosya ile BİRLEŞTİRİLEREK gereği yapılmak üzere hükmü veren DAİREYE GÖNDERİLMESİNE,  oy birliğiyle,
+
+Karar verildiği 14.12.2022 tarih ve 52627 sayılı tutanakta yazılı olmakla işbu ilam tanzim kılındı.
