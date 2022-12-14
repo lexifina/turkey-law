@@ -1,0 +1,1 @@
+Madde 18 – Türk içsularında veya limanlarında bulunan değişik ülkelerin Silahlı Kuvvetlerine bağlı gemiler ve gemi personeli, birbirlerine karşı hasmane tavır takınamazlar ve herhangi bir gemiyi durdurmak, aramak, takip, taciz ve tahrip etmek, ele geçirmek, herhangi bir uçağı zorunlu inişe zorlamak ve tahrip etmek gibi davranışlarda bulunamazlar.

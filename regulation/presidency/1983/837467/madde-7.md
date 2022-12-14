@@ -1,0 +1,1 @@
+Madde 7 – Yabancı Silahlı Kuvvetlere bağlı gemilerin, Türk içsuları ve limanlarında bulundukları süre içerisinde, sebep oldukları zararlar yetkili Türk Mahkemelerince tespit edilir. Zararı veren geminin bayrağını taşıdığı devlet, uluslararası hukuk ilkeleri ve anlaşmalar çerçevesinde, bu zararı tazminle mükelleftir.

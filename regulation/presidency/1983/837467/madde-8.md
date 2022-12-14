@@ -1,0 +1,1 @@
+Madde 8 – Yabancı Silahlı Kuvvetlere bağlı gemiler, Türk içsularında ve limanlarında ziyaret istem formunda (EK - 1) belirtilen haberleşme frekanslarından başkasını kullanamazlar; özel anlaşmalarla kabul edilmiş manevra, tatbikat ve eğitimler haricinde, önceden Türk Hükümetinin iznini almadıkça aktif ve pasif sualtı dinleme, tespit, izleme ve teşhis cihazlarını kullanamazlar.

@@ -1,0 +1,42 @@
+{
+  "id": "presidency-regulation-837467",
+  "number": "837467",
+  "kind": "regulation",
+  "issuer": "presidency",
+  "title": "YABANCI SİLAHLI KUVVETLERE BAĞLI GEMİLERİN TÜRK İÇSULARINA VE LİMANLARINA GELİŞLERİ VE BU SULARDAKİ HAREKET VE FAALİYETLERİNE İLİŞKİN YÖNETMELİK",
+  "published": "1983-12-15",
+  "enacted": "1983-11-24",
+  "gazette_number": "18252",
+  "in_force": "2022-12-14",
+  "in_force_basis": "Latest source-printed amendment/correction Gazette date: 2022-12-14; official source: [9] 14/12/2022 tarihli ve 32043 sayılı Resmî Gazete’de yayımlanan düzeltme ile 10/12/2022 tarihli ve 32039 sayılı Resmî Gazete’de yayımlanan 9/12/2022 tarihli ve 6513 sayılı Cumhurbaşkanı Kararı ile yürürlüğe konulan Yabancı Silahlı Kuvvetlere Bağlı Gemilerin Türk İçsularına ve Limanlarına Gelişleri ve Bu Sulardaki Hareket ve Faaliyetlerine İlişkin Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik’in sehven yayımlanmayan eki “Ek:1 ZİYARET İSTEK FORMU” eklenerek düzeltilmiştir.",
+  "history": "current-only",
+  "version_label": "oldest version available",
+  "first_law": null,
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatNo=837467&MevzuatTur=21&MevzuatTertip=5",
+  "source_sha256": "008c33d7a5a9f4f874708db50cafa7357d2ffec87c233e200c7d559071e798cd",
+  "source_links": [],
+  "missing_components": [],
+  "date_anomalies": [
+    {
+      "table": 0,
+      "row": 6,
+      "reason": "date-bearing row lacks an explicit commencement date",
+      "cells": [
+        "7/8/1997",
+        "97/9762",
+        "-",
+        "20//1997"
+      ]
+    }
+  ],
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "images_complete": true,
+  "image_inventory": [],
+  "images_omitted": [],
+  "completeness": "html-text-complete",
+  "text_layout": "article-files"
+}

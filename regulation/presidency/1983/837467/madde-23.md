@@ -1,0 +1,1 @@
+Madde 23 – Yabancı Silahlı Kuvvetlere bağlı nükleer gemilerin Türk içsularını ve limanlarını ziyaretleri ile ilgili değişiklik istemlerinin ziyaret tarihinden en az 15 gün önce Dışişleri Bakanlığına bildirilmesi gerekir.[6]

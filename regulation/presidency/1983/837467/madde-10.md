@@ -1,0 +1,1 @@
+Madde 10 – Özel anlaşmalarla kabul edilmiş manevra, tatbikat ve eğitimler haricinde; önceden Türk Hükümetinin izni alınmadıkça, yabancı Silahlı Kuvvetler gemileri, Türk içsuları ve limanları ile hava sahasında, herhangi bir maksatla manevra ve tatbikat yapamazlar ve top, torpido, güdümlü mermi vesair silahlarla, atış ve eğitim düzenleyemezler.

@@ -1,0 +1,1 @@
+Madde 30 – Önlem ve Tehlikeli Durum Planlarının uygulanmasından ve gelişen şartlara uyacak biçimde zamanla geliştirilip değiştirilmesinden ziyaretin yapılacağı limanın bulunduğu ilin valisi sorumludur.

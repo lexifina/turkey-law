@@ -1,0 +1,1 @@
+Madde 25 – Ziyaret isteminin uygun görülmesi halinde 24 ncü maddedeki kararın ilgili Büyükelçiliğe bildirilmesini takiben T.C. Hükümeti ile müracaatçı hükümet arasında ziyaretin koşullarını saptayan yazılı bir mutabakat düzenlenir.

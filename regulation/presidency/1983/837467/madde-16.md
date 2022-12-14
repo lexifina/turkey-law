@@ -1,0 +1,3 @@
+Madde 16 – Yabancı Silahlı Kuvvetlere bağlı gemiler bir Deniz Komutanının veya bölge liman başkanı ya da liman başkanının bulunduğu bütün Türk limanlarında, bu makamların kendilerine gösterecekleri demir yerlerine demirlemek, iskele veya rıhtımlara yanaşmak zorundadırlar.[3]
+Bu gemilere ait deniz vasıtaları da gösterilen yerlerin dışına yanaşamazlar ve mutad teçhizat dışında silah bulunduramazlar.
+Yabancı Silahlı Kuvvetlere ait gemi Komutanlığı, personel ve malzeme naklinde, kullandığı deniz vasıtalarının sahile yanaştığı yerlerde emniyet için gemi polisi ve gemi ile muhabere için gerekli personeli silahsız olarak bulundurabilir.3

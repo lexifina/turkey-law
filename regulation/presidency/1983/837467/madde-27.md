@@ -1,0 +1,1 @@
+Madde 27 – 25 nci maddedeki yazılı mutabakat ziyaretin gerçekleştirileceği tarihten 15 gün önce sonuçlandırılır ve ziyaretin yapılacağı liman bölgesinde gerekli güvenlik önlemlerinin alınabilmesini teminen ilgili kuruluşlara duyurulur.[7]

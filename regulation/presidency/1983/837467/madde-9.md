@@ -1,0 +1,2 @@
+Madde 9 – (Değişik: RG-10/12/2022-32039-CK-6513/4 md.)
+Türk iç suları ve limanlarını ziyaret etmek amacıyla izin almış bulunan Yabancı Silahlı Kuvvetlere bağlı gemilere uçak, helikopter veya insansız hava araçları (İHA) refakat ettiği veya doğrudan doğruya kuvvetin bünyesinde bu tür vasıtalar bulunduğu takdirde, bunlar hava yolu ile Türk hava sahasına giremez. Yabancı Silahlı Kuvvetlere bağlı gemiler, Türkiye Cumhuriyeti Hükümetinin izni olmadan bünyelerindeki uçak, helikopter veya İHA’ları Türk hava sahası içerisinde uçuramaz.

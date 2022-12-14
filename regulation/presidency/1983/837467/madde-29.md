@@ -1,0 +1,2 @@
+Madde 29 – Önlem planında; ziyaret sırasında liman içinde alınacak önlemler, emniyet, haberleşme, yangın, zabıta, sağlık güvenliği ve radyasyon kontrolu önlemleri belirtilir.
+Tehlikeli Durum planında ise; bir tehlike halinde, bu tehlikeden etkilenecek bölgedeki halkın radyasyon tehlikesinin gerektireceği asgari süre içerisinde boşaltılacağı bir kontrol bölgesi ile tehlikenin artması halinde limanın azami süratle boşaltılmasına ilişkin yeni bir kontrol bölgesi yapımı, boşaltma planları ve gerekli görülebilecek diğer hususlar belirtilir.
