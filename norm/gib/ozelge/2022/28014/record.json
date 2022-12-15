@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "18008620-125[2020-721-03]-210813",
+  "source_id": 28014,
+  "date": "2022-12-15",
+  "title": "Serbest Bölgede Üretim Faaliyetinde Bulunan Şirketin Yangın Nedeniyle Zarar Gören ATİK İçin Alınan Sigorta Tazminatları",
+  "source": "https://gib.gov.tr/mevzuat/kanun/435/ozelge/28014",
+  "related_law": "5520 sayılı KURUMLAR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p003.json",
+  "source_listing_sha256": "b8eb1aba686c15efb9ca96f819c840940788d8f48769f30127e032220fbff4ab",
+  "source_sha256": "573797a50edb2cace31e8e5184769fc50468311f89291448980af03459520f63",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
