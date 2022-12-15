@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "39044742-130[Özelge]-1491238",
+  "source_id": 30195,
+  "date": "2022-12-15",
+  "title": "… ile yapılan sözleşmeye istinaden atıksu arıtma tesisi tasarımı, yapımı ve işletilmesi hizmetinde Kurumlar ve KDV tevkifatı",
+  "source": "https://gib.gov.tr/mevzuat/kanun/436/ozelge/30195",
+  "related_law": "3065 sayılı KATMA DEĞER VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p004.json",
+  "source_listing_sha256": "f3b82278308562f88be46cc93b2ac53a1050d59c304474af958f8b7377f5bef9",
+  "source_sha256": "65129fe76598f909497b55f9cf12ce0e2fdcddd7e847bc31993beeeb64d13fc4",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
