@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39882",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "ÇOK DİSİPLİNLİ ÇOCUK VE GENÇ RUH SAĞLIĞI MERKEZLERİ HAKKINDA YÖNETMELİK",
+  "number": "39882",
+  "issuer": "Sağlık Bakanı",
+  "issuer_slug": "saglik-bakani",
+  "path": "regulation/saglik-bakani/2022/39882",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39882&MevzuatTertip=5",
+  "source_sha256": "106b736280733688fe38a5898b2142ad2c131ac6451ec4981eb1ca4058580277",
+  "source_bytes": 46432,
+  "published": "2022-12-15",
+  "gazette": "32044",
+  "in_force": "2022-12-15",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (15.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 2343,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39882%20Ek.doc"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
