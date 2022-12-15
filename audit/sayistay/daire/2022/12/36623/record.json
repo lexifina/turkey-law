@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10880",
+  "decision_date": "2022-12-15",
+  "source_id": 36623,
+  "chamber": "1",
+  "ilam_number": "287",
+  "item_number": 2,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2016,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36623/",
+  "source_sha256": "3714a89802fc55cc9d9f5c4a2566a758b994a0b6d5f2e748fe65ac96ffe9895f",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
