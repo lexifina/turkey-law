@@ -1,0 +1,15 @@
+Fiilen zabıtalık görevi icra etmeyen personele mevzuata aykırı olarak “maktu fazla çalışma ücreti” ödenmesi:
+
+Fiilen zabıtalık görevi icra etmeyen personele mevzuata aykırı olarak “maktu fazla çalışma ücreti” ödenmesi suretiyle kamu zararına neden olunduğu iddiası ile ilgili olarak yapılan incelemede;
+
+5393 sayılı Belediye Kanunu’nun “Zabıtanın görevleri ve yetkileri” başlıklı 51’inci maddesinde; belediye zabıta ve özel güvenlik hizmetlerinde fiilen çalışanlara, fazla mesai ücreti olarak yılı bütçe kanununda belirtilen tutarı aşmamak kaydıyla belediye meclis kararı ile belirlenen maktu tutarın ödeneceği ifade edilmiştir.
+
+31.12.2020 tarihli ve 31351 (mükerrer) sayılı Resmi Gazete’de yayımlanan 7258 sayılı 2021 yılı Merkezi Yönetim Bütçe Kanunu’na ekli K Cetvelinin “Aylık Maktu Fazla Çalışma Ücreti” başlıklı bölümünde, belediyeler ile bunlara bağlı müstakil bütçeli kamu tüzel kişiliğini haiz kuruluşlarda (iktisadi işletmeler hariç), görevlerinin niteliği gereği 657 sayılı Kanun’da belirtilen çalışma süre ve saatlerine bağlı olmaksızın zabıta hizmetlerinde fiilen çalışan personele (destek hizmeti yürüten personel hariç), belediye meclisi kararı ile tespit edilen tutarın, fazla çalışma ücreti olarak maktuen ödeneceği ve bunlara ödenecek aylık fazla çalışma ücretinin Ankara, İstanbul ve İzmir büyükşehir belediyeleri dışındaki diğer büyükşehirlerin belediye sınırları içerisindekiler için 527 Türk Lirasını geçemeyeceği belirtilmiştir.
+
+Ayrıca Belediye Zabıta Yönetmeliği’nin “Geçici görevlendirme” başlıklı 41’inci maddesinde; zorunlu hallerde, belediye memurlarından ihtiyacı karşılayacak sayıda personelin zabıta biriminin sadece büro hizmetlerinde bir yıl içinde altı ayı geçmeyecek şekilde geçici olarak görevlendirileceği hüküm altına alınmıştır.
+
+Yukarıda yer verilen mevzuat hükümleri birlikte değerlendirildiğinde; personele aylık maktu fazla çalışma ücreti ödenebilmesi için destek hizmetleri hariç olmak üzere zabıta hizmetlerinde fiilen çalışılması gerektiği, zorunlu hallerde 1 yıl içinde 6 ayı geçmemek üzere belediye memurlarından ihtiyacı karşılayacak sayıda personelin zabıta biriminin sadece büro hizmetlerinde görevlendirilebileceği ve 2021 yılı Merkezi Yönetim Bütçe Kanunu’nda, “destek hizmeti yürüten personel hariç” ifadesi kullanılarak, zabıta biriminde çalışan ancak Veri Hazırlama ve Kontrol İşletmeni gibi destek hizmeti yürüten personelin maktu fazla çalışma ücreti alamayacağı anlaşılmaktadır.
+
+Açıklanan nedenlerle; İdarenin Belediyenin Zabıta Müdürlüğünde görev yapan ve kadro unvanı Veri Hazırlama ve Kontrol İşletmeni olan personele, zabıta kadrosunda bulunuyor olsa dahi, fiilen zabıta görevini ifa etmediği sürece aylık maktu fazla çalışma ücretinin ödenmesi mümkün değildir.
+
+Sorumlular tarafından gönderilen savunmalardan mevzuata aykırı olarak ödenen … TL aylık maktu fazla çalışma ücretinin 30.06.2022 tarih ve 3328 numaralı muhasebe işlem fişi ile tahsil edildiği anlaşıldığından ilişilecek husus kalmadığına işbu İlamın tebliğ tarihinden itibaren aynı Kanun’un 55’inci maddesi gereğince altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle,
