@@ -1,0 +1,16 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 3. Dairesi",
+  "number": "424",
+  "decision_date": "2022-12-15",
+  "source_id": 37085,
+  "chamber": "3",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/37085/",
+  "source_sha256": "cf3bf5f5e6c5652fdfa6a843b977c4ce781b67554d5d8e7d085a4358a62fe345",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
