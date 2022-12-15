@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10879",
+  "decision_date": "2022-12-15",
+  "source_id": 36757,
+  "chamber": "1",
+  "ilam_number": "424",
+  "item_number": 1,
+  "public_body_type": "Özel İdareler",
+  "account_year": 2015,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36757/",
+  "source_sha256": "b4443737662c1ba94c5e7df880bb7e069236dbd006a7a6fb4bb3fdb0c409e430",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
