@@ -1,0 +1,11 @@
+Ek Ödeme Tazminatının Mevzuatta Öngörülen Tutardan Fazla Ödenmesi
+
+… Belediyesi İtfaiye Müdürlüğünde İtfaiye Çavuşu kadrosunda çalışan …’e ek ödeme tazminatının fazla ödenmesi suretiyle … TL kamu zararına sebebiyet verildiği iddiasıyla ilgili olarak dosyada mevcut bilgi ve belgeler değerlendirilmiştir.
+
+27.06.1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesinde; aylıklarını 657 sayılı Devlet Memurları Kanununa göre almakta olan personele, mali haklar kapsamında yapılan her türlü ödemeler dahil almakta oldukları toplam ödeme tutarı dikkate alınmak suretiyle aynı veya benzer kadro ve görevlerde bulunan personel arasındaki ücret dengesini sağlamak amacıyla, en yüksek Devlet memuru aylığına (ek gösterge dahil), ekli (I) sayılı Cetvelde yer alan kadro ve görev unvanlarına karşılık gelen oranların uygulanması suretiyle hesaplanan tutarda ek ödeme yapılacağı hükme bağlanmıştır.
+
+375 sayılı Kanun Hükmünde Kararnameye ekli (I) sayılı cetvelde yer alan Ek Ödeme Oranları Tablosunun 1 inci bölümünde ise şef, amir ve yardımcıları, zabıta başkomiseri ve komiseri, itfaiye başçavuşu, itfaiye çavuşu ve onbaşısı kadrolarında bulunanlardan 3-4 dereceden aylık alanların 105 puan üzerinden ek ödeme alacağı düzenlenmiştir.
+
+Söz konusu hükümlere göre, 4 üncü dereceli itfaiye çavuşu kadrosunda çalışan bir memurun en yüksek Devlet memuru aylığının %105’i oranında ek ödeme alması gerekmektedir. Ancak yapılan incelemede, İtfaiye Çavuşu olarak görev yapan …’e  söz konusu oranın %125 olarak uygulanması sonucu 10.12.2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanununun 71 inci maddesinde; “kamu görevlilerinin kasıt, kusur veya ihmallerinden kaynaklanan mevzuata aykırı karar, işlem veya eylemleri sonucunda kamu kaynağında artışa engel veya eksilmeye neden olunması” şeklinde tanımlanan kamu zararına sebebiyet verilmiştir.
+
+Ancak, İtfaiye Çavuşu kadrosunda görev yapan …’e fazla ek ödeme yapılması sonucu oluşan … TL kamu zararının  … tarihli ve … numaralı Tahsilat Makbuzu ile tahsil edildiği anlaşıldığından söz konusu kamu zararı için ilişilecek husus kalmadığına, 6085 sayılı Sayıştay Kanununun 55 inci maddesi uyarınca ilamın tebliğ tarihinden itibaren altmış gün içerisinde Sayıştay Temyiz Kurulu nezdinde temyiz yolu açık olmak üzere oy birliğiyle karar verildi.
