@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10881",
+  "decision_date": "2022-12-15",
+  "source_id": 36625,
+  "chamber": "1",
+  "ilam_number": "188",
+  "item_number": 1,
+  "public_body_type": "Diğer Özel Bütçeli İdareler",
+  "account_year": 2019,
+  "subject": "Personel Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36625/",
+  "source_sha256": "572c0e15a863c5a1d3a9137505a7199aed1735b08379dcfaf11f4b6563258927",
+  "text_status": "metadata-only",
+  "metadata_only_reason": "possible personal name in the official text"
+}
