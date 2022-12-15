@@ -1,0 +1,17 @@
+{
+  "kind": "decision",
+  "issuer": "Sayıştay 1. Dairesi",
+  "number": "10882",
+  "decision_date": "2022-12-15",
+  "source_id": 36734,
+  "chamber": "1",
+  "ilam_number": "51",
+  "item_number": 1,
+  "public_body_type": "Belediyeler ve Bağlı İdareler",
+  "account_year": 2021,
+  "subject": "İhale Mevzuatı ile İlgili Kararlar",
+  "source": "https://www.sayistay.gov.tr/KararlarDaire/Detay/36734/",
+  "source_sha256": "eb3266afee4daaf940cda6bcc884aa778657accaa39442e9760d0a5a4e84aada",
+  "text_status": "as-enacted",
+  "text_file": "metin.md"
+}
