@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120[mük80-2020/1374]-1491226",
+  "source_id": 37725,
+  "date": "2022-12-15",
+  "title": "Fiilen teslim alınan ancak banka ile yapılan protokole istinaden önce banka adına daha sonra kendi adına tapuda tescil ettirilen gayrimenkulün, elden çıkarılmasından doğan değer artışı kazancında hangi tarihin iktisap tarihi olarak dikkate alınacağı.",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37725",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "471257e09886022a57f699f383fc312b7dae5aa79c55abbfea933ae8f075ae0d",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
