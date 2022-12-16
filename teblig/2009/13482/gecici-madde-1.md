@@ -1,0 +1,1 @@
+GEÇİCİ MADDE 1 – (1) Bu Tebliğin 12 nci maddesinde belirtilen “koruma bölgesi sınırlarının” 31/12/2004 tarihinden önce onaylanmış derin deniz deşarjı projesinde yer almaması durumunda atıksu altyapı tesislerince bu alanların belirlenmesi Valilik tarafından sağlanır.
