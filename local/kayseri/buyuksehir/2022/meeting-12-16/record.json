@@ -1,0 +1,23 @@
+{
+  "number": "meeting-12-16",
+  "number_as_published": null,
+  "year": 2022,
+  "title": "16 Aralık 2022 Tarihli Meclis Karar Özetleri",
+  "decision_date": "2022-12-16",
+  "source": "https://www.kayseri.bel.tr/karar-ozetleri/16-aralik-2022-tarihli-meclis-karar-ozetleri",
+  "official_document": "https://www.kayseri.bel.tr/uploads//karar-ozet/16-02-01-2023-17-27.pdf",
+  "source_sha256": "63724bc66edf302749e030a7b2774c70533111a9b46848c4f2cae263eefca90b",
+  "issuer": "Kayseri Büyükşehir Belediye Meclisi",
+  "history_type": "metadata",
+  "text_status": "metadata-only: listing fields as published; complete decision text is in the linked official document, not transcribed",
+  "in_force": "2022-12-16",
+  "in_force_basis": "Decision date as printed in the official council listing: 16 Aralık 2022; adoption date of the council decision; legal commencement not asserted",
+  "missing": [
+    "complete official decision text",
+    "official annexes"
+  ],
+  "law_text_complete": false,
+  "privacy_withheld": false,
+  "record_scope": "one official PDF of decision summaries per council meeting",
+  "listing": "https://www.kayseri.bel.tr/karar-ozetleri?page=4"
+}
