@@ -1,0 +1,22 @@
+{
+  "kind": "norm",
+  "issuer": "Gelir İdaresi Başkanlığı",
+  "document_type": "ozelge",
+  "number": "62030549-120-1492254",
+  "source_id": 37724,
+  "date": "2022-12-16",
+  "title": "Finansal kiralama sonrası devralınan gayrimenkulün iktisap tarihi",
+  "source": "https://gib.gov.tr/mevzuat/kanun/433/ozelge/37724",
+  "related_law": "193 sayılı GELİR VERGİSİ KANUNU",
+  "source_api": "https://gib.gov.tr/api/gibportal/mevzuat/ozelge/list",
+  "source_listing": "evidence/list/2026-11-16/ozelge-p008.json",
+  "source_listing_sha256": "292c126217cc32c3ccfa57495ce433f89ef8db5e75fa1946d5819a76f81aff4d",
+  "source_sha256": "678edc70c506d6870fcfb40d5660ae651c1fda3bcc7f736dac91ab066e7d6190",
+  "text_status": "as-enacted",
+  "text_file": "metin.md",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  }
+}
