@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39884",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "DOĞU ANADOLU PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39884",
+  "issuer": "Doğu Anadolu Projesi Bölge Kalkınma İdaresi Başkanı",
+  "issuer_slug": "dogu-anadolu-projesi-bolge-kalkinma-idaresi-baskani",
+  "path": "regulation/dogu-anadolu-projesi-bolge-kalkinma-idaresi-baskani/2022/39884",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39884&MevzuatTertip=5",
+  "source_sha256": "cd5efbac2e0b1ef1d328cc5055c3e44b89d2a632fef2436a1c74837b24e69df0",
+  "source_bytes": 16577,
+  "published": "2022-12-16",
+  "gazette": "32045",
+  "in_force": "2022-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 195,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39884-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
