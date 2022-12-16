@@ -1,0 +1,20 @@
+{
+  "record_type": "gazette-item",
+  "gazette": "Resmî Gazete",
+  "jurisdiction": "TR",
+  "date": "2022-12-16",
+  "issue": "32045",
+  "edition": "regular",
+  "item": 6,
+  "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+  "heading": "TEBLİĞLER",
+  "title": "6502 Sayılı Tüketicinin Korunması Hakkında Kanunun 68 inci ve Tüketici Hakem Heyetleri Yönetmeliğinin 6 ncı Maddelerinde Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ",
+  "official_link": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221216-6.htm",
+  "link_format": "htm",
+  "index_url": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221216.htm",
+  "index_sha256": "f97ef6921ac8fec300f236cf351339319b7bb9ba678af55c6402a737d7cfb11c",
+  "index_header": "16 Aralık 2022 ... 32045 Sayılı Resmî Gazete",
+  "issue_pdf": "https://www.resmigazete.gov.tr/eskiler/2022/12/20221216.pdf",
+  "in_force_basis": "Resmî Gazete publication date; not a commencement reading.",
+  "text_status": "metadata-only; text not yet fetched (follow-up pass adds it as its own commit)"
+}
