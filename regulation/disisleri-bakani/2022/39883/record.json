@@ -1,0 +1,34 @@
+{
+  "source_id": "7.5.39883",
+  "kind": "regulation",
+  "register_kind": "Kurum ve Kuruluş Yönetmelikleri",
+  "title": "AVRUPA BİRLİĞİ BAŞKANLIĞI DİSİPLİN AMİRLERİ YÖNETMELİĞİ",
+  "number": "39883",
+  "issuer": "Dışişleri Bakanı",
+  "issuer_slug": "disisleri-bakani",
+  "path": "regulation/disisleri-bakani/2022/39883",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=7&MevzuatNo=39883&MevzuatTertip=5",
+  "source_sha256": "070e42f3660932686e00457054e4d2efcfc5e902ee767e60cd6c195ee8950366",
+  "source_bytes": 15633,
+  "published": "2022-12-16",
+  "gazette": "32045",
+  "in_force": "2022-12-16",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (16.12.2022); own commencement article: \"Bu Yönetmelik yayımı tarihinde yürürlüğe girer\"",
+  "commencement_clauses": [
+    "Bu Yönetmelik yayımı tarihinde yürürlüğe girer"
+  ],
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 173,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "source_links": [
+    "7.5.39883-EK.docx"
+  ],
+  "completeness": "html-text-complete; linked annexes not fetched"
+}
