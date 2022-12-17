@@ -1,0 +1,26 @@
+{
+  "source_id": "9.5.39894",
+  "kind": "communique",
+  "register_kind": "Tebliğler",
+  "title": "2023 YILI UZLAŞTIRMACI ASGARİ ÜCRET TARİFESİ",
+  "number": "39894",
+  "path": "teblig/2022/39894",
+  "source": "https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=9&MevzuatNo=39894&MevzuatTertip=5",
+  "source_sha256": "36bce4752ccb776da3dcfa77da54bd3a752089d7320946d0f150f02330776c55",
+  "source_bytes": 23237,
+  "published": "2022-12-17",
+  "gazette": "32046",
+  "in_force": "2022-12-17",
+  "in_force_basis": "Resmî Gazete publication date in the official listing (17.12.2022)",
+  "history": "current-text",
+  "label": "oldest version available",
+  "checked_on": "2026-11-15",
+  "word_count": 374,
+  "text_status": "current-consolidated",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "completeness": "html-text-complete"
+}
